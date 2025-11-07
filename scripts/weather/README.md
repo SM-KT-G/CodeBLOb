@@ -16,4 +16,21 @@ python -m venv .venv
 pip install -r scripts/weather/requirements.txt
 ```
 
-앞으로 실행 스크립트, 예제, 테스트 등을 순차적으로 보강할 예정입니다.
+## Usage
+
+기본 config 를 사용해 날씨를 출력하려면 아래 명령을 실행합니다.
+
+```bash
+python scripts/weather/get_weather.py
+```
+
+위치나 단위를 즉석에서 바꾸고, 결과를 파일로 저장할 수도 있습니다.
+
+```bash
+python scripts/weather/get_weather.py \
+  --latitude 37.5665 --longitude 126.9780 \
+  --timezone Asia/Seoul --temperature-unit celsius \
+  --wind-speed-unit ms --output seoul_weather.json
+```
+
+오류가 발생하면 표준 오류(stderr) 로 원인을 출력하고 종료 코드 1을 반환합니다.
