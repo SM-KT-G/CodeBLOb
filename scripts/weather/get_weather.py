@@ -3,8 +3,11 @@ from __future__ import annotations
 
 import argparse
 import json
+import sys
 from pathlib import Path
-from typing import Any, Dict, Optional
+from typing import Any, Dict
+
+from requests import RequestException
 
 from weather_client import WeatherClient, WeatherQuery
 
@@ -71,5 +74,18 @@ def main() -> None:
     print(json_text)
 
 
+def _entrypoint() -> int:
+    try:
+        main()
+        return 0
+    except FileNotFoundError as exc:
+        print(f"[config] {exc}", file=sys.stderr)
+    except KeyError as exc:
+        print(f"[config] missing required field: {exc}", file=sys.stderr)
+    except (ValueError, RequestException) as exc:
+        print(f"[weather] 요청에 실패했습니다: {exc}", file=sys.stderr)
+    return 1
+
+
 if __name__ == "__main__":
-    main()
+    raise SystemExit(_entrypoint())
