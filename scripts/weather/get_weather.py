@@ -4,7 +4,7 @@ from __future__ import annotations
 import argparse
 import json
 from pathlib import Path
-from typing import Any, Dict
+from typing import Any, Dict, Optional
 
 from weather_client import WeatherClient, WeatherQuery
 
@@ -36,6 +36,11 @@ def parse_args() -> argparse.Namespace:
         type=str,
         help="기본값(ms) 대신 사용할 풍속 단위를 입력합니다.",
     )
+    parser.add_argument(
+        "--output",
+        type=Path,
+        help="결과 JSON 을 지정된 경로에 저장합니다 (stdout 출력은 그대로 유지).",
+    )
     return parser.parse_args()
 
 
@@ -60,7 +65,10 @@ def main() -> None:
     )
     client = WeatherClient()
     payload = client.fetch_current_weather(query)
-    print(json.dumps(payload, ensure_ascii=False, indent=2))
+    json_text = json.dumps(payload, ensure_ascii=False, indent=2)
+    if args.output:
+        args.output.write_text(json_text, encoding="utf-8")
+    print(json_text)
 
 
 if __name__ == "__main__":
