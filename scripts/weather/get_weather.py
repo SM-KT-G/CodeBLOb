@@ -21,6 +21,21 @@ def parse_args() -> argparse.Namespace:
         default=_default_config_path(),
         help="경로를 지정하지 않으면 scripts/weather/config.json 을 사용합니다.",
     )
+    parser.add_argument("--latitude", type=float, help="위도를 직접 지정해 config 값을 덮어씁니다.")
+    parser.add_argument("--longitude", type=float, help="경도를 직접 지정해 config 값을 덮어씁니다.")
+    parser.add_argument("--timezone", type=str, help="시간대를 직접 지정합니다.")
+    parser.add_argument(
+        "--temperature-unit",
+        dest="temperature_unit",
+        type=str,
+        help="섭씨(celsius) 외 단위를 사용할 때 입력합니다.",
+    )
+    parser.add_argument(
+        "--wind-speed-unit",
+        dest="wind_speed_unit",
+        type=str,
+        help="기본값(ms) 대신 사용할 풍속 단위를 입력합니다.",
+    )
     return parser.parse_args()
 
 
@@ -35,11 +50,13 @@ def main() -> None:
     args = parse_args()
     raw_config = load_config(args.config)
     query = WeatherQuery(
-        latitude=float(raw_config["latitude"]),
-        longitude=float(raw_config["longitude"]),
-        timezone=raw_config.get("timezone", "auto"),
-        temperature_unit=raw_config.get("temperature_unit", "celsius"),
-        wind_speed_unit=raw_config.get("wind_speed_unit", "ms"),
+        latitude=float(args.latitude if args.latitude is not None else raw_config["latitude"]),
+        longitude=float(
+            args.longitude if args.longitude is not None else raw_config["longitude"]
+        ),
+        timezone=args.timezone or raw_config.get("timezone", "auto"),
+        temperature_unit=args.temperature_unit or raw_config.get("temperature_unit", "celsius"),
+        wind_speed_unit=args.wind_speed_unit or raw_config.get("wind_speed_unit", "ms"),
     )
     client = WeatherClient()
     payload = client.fetch_current_weather(query)
