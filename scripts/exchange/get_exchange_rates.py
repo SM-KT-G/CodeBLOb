@@ -3,8 +3,11 @@ from __future__ import annotations
 
 import argparse
 import json
+import sys
 from pathlib import Path
 from typing import Any, Dict, Iterable, List
+
+from requests import RequestException
 
 from exchange_client import ExchangeClient, ExchangeQuery
 
@@ -48,7 +51,7 @@ def parse_args() -> argparse.Namespace:
 def load_config(path: Path) -> Dict[str, Any]:
     if not path.exists():
         raise FileNotFoundError(f"config file not found: {path}")
-    text = path.read_text(encoding="utf-8")
+    text = path.read_text(encoding="utf-8-sig")
     return json.loads(text)
 
 
@@ -78,5 +81,20 @@ def main() -> None:
     print(json_text)
 
 
+def _entrypoint() -> int:
+    try:
+        main()
+        return 0
+    except FileNotFoundError as exc:
+        print(f"[config] {exc}", file=sys.stderr)
+    except KeyError as exc:
+        print(f"[config] missing required field: {exc}", file=sys.stderr)
+    except (TypeError, ValueError) as exc:
+        print(f"[config] invalid value: {exc}", file=sys.stderr)
+    except RequestException as exc:
+        print(f"[exchange] API 요청에 실패했습니다: {exc}", file=sys.stderr)
+    return 1
+
+
 if __name__ == "__main__":
-    main()
+    raise SystemExit(_entrypoint())
