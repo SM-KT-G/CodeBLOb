@@ -37,6 +37,11 @@ def parse_args() -> argparse.Namespace:
         type=float,
         help="환산 기준 금액을 직접 지정합니다.",
     )
+    parser.add_argument(
+        "--output",
+        type=Path,
+        help="결과 JSON을 지정한 파일에도 저장합니다.",
+    )
     return parser.parse_args()
 
 
@@ -67,7 +72,10 @@ def main() -> None:
     )
     client = ExchangeClient()
     payload = client.fetch_rates(query)
-    print(json.dumps(payload, ensure_ascii=False, indent=2))
+    json_text = json.dumps(payload, ensure_ascii=False, indent=2)
+    if args.output:
+        args.output.write_text(json_text, encoding="utf-8")
+    print(json_text)
 
 
 if __name__ == "__main__":
