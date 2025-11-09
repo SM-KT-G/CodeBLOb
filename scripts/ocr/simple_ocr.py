@@ -27,6 +27,16 @@ def build_parser() -> argparse.ArgumentParser:
         help="Font size (in pt) used when generating the test image.",
     )
     parser.add_argument(
+        "--output",
+        type=str,
+        help="Optional path where the generated sample image will be saved.",
+    )
+    parser.add_argument(
+        "--show-image",
+        action="store_true",
+        help="Open the generated sample image in the default image viewer.",
+    )
+    parser.add_argument(
         "--debug",
         action="store_true",
         help="Enable extra logging while the script runs.",
@@ -40,6 +50,12 @@ def main() -> None:
     if args.debug:
         print(f"Rendering sample image for text: {args.text!r}")
     image = generate_sample_image(args.text, args.font_size)
+    if args.output:
+        image.save(args.output)
+        if args.debug:
+            print(f"Sample image saved to {args.output}")
+    if args.show_image:
+        image.show()
     if args.debug:
         print("Running pytesseract on generated image...")
     recognized = extract_text(image)
