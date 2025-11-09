@@ -1,4 +1,4 @@
-# 프로젝트 현황 요약 (2025-11-07)
+# 프로젝트 현황 요약 (2025-11-08)
 
 ## 📊 전체 진행 상황
 
@@ -24,6 +24,11 @@
   - 복합 필터: domain + area 동시 적용
   - 테스트 결과: 최고 유사도 0.91 달성
 
+- **Query Expansion 프로토타입**
+  - `Retriever.search_with_expansion()`에 구두점 제거·추천어 추가·사용자 변형 병합 로직 적용
+  - document_id 기준 중복 제거 및 similarity 내림차순 상위 top_k 반환
+  - FastAPI `/rag/query`에서 `expansion` 플래그와 variations 파라미터 연결 완료 (`backend/main.py`)
+
 #### 3. 기술 스택 확정
 - **모델**: intfloat/multilingual-e5-small (384d)
 - **하드웨어**: M4 GPU (MPS) 가속
@@ -34,28 +39,30 @@
 
 ## 🎯 다음 작업 계획
 
-### Step 2: Query Expansion (예정)
-**목적**: 검색 재현율 향상
-- 쿼리를 2-3개 변형으로 확장
-- 각 쿼리로 개별 검색 수행
-- 결과 병합 및 중복 제거
-- 최종 상위 top_k 선택
+### 1. Query Expansion 하드닝
+- 변형 생성 규칙을 구성 파일/테이블로 분리하고 AB 테스트 가능하도록 파라미터화
+- 변형별 검색 지표(거리, latency)를 로깅하여 최적 변형 수를 결정
+- `search_with_expansion()` 단위 테스트 추가 및 실패한 변형 graceful degrade 케이스 검증
 
-**예상 효과**:
-- 재현율(Recall) 10-15% 향상
-- 다양한 표현 방식 커버
-- 검색 누락 감소
+### 2. Parent Context 옵션 정합성
+- `RAGQueryRequest.parent_context` 플래그를 실제 동작과 연결하고 반환 메타데이터에 parent/child 구분을 명시
+- Parent summary를 `metadata.parent_summary`뿐 아니라 `answer` 생성 시에도 활용하거나, 옵션 해제 시 child chunk만 노출
+- Node.js 통합 문서(`docs/API_INTEGRATION_FOR_NODE.md`)의 설명과 실제 응답 포맷이 일치하는지 재검증
 
-### Step 3: Parent Context 추가 (예정)
-**목적**: 답변 품질 향상
-- Child 결과에 Parent summary 포함
-- 전체 문서 맥락 제공
-- 답변의 완성도 향상
+### 3. RAG 체인 & LLM 통합
+- `backend/rag_chain.py`와 `backend/llm_base.py`를 FastAPI 라우트에 주입하여 실제 LLM 답변을 생성
+- `rag_chain.py`의 모듈 경로(`utils.logger` → `backend.utils.logger`) 수정 및 PromptTemplate 최신화
+- 응답 객체의 `metadata` 필드에 사용 모델, top_k, similarity 통계를 포함시켜 모니터링/프론트 표시 기반 마련
 
-**예상 효과**:
-- 답변 품질 20-30% 향상
-- 맥락 이해도 개선
-- 출처 명확화
+### 4. 헬스체크 & 모니터링
+- `/health`에서 DB 커넥션 풀 ping 및 LLM 키 검증 결과를 반환하도록 TODO 해제 (`backend/main.py`)
+- 검색 지연 및 expansion 사용률을 Prometheus/로그 지표로 노출하고 3초 SLA 초과 시 알림 훅 마련
+- Redis/캐시 도입 계획 수립(요청 템포 ≥ 20rps 대비), 장애 시 graceful fallback 시나리오 정의
+
+### 5. 테스트 자동화 & 품질 게이트
+- `tests/test_api.py`에 실제 FastAPI TestClient 기반 통합 테스트 작성, expansion/parent_context 시나리오 포함
+- `tests/test_rag.py`에서 실제 `process_rag_response()`를 import하여 중복 출처 제거 로직을 검증
+- CI에서 임베딩/DB 의존 없이 실행 가능한 Mock Retriever/LLM 패턴을 확립하여 회귀 방지
 
 ---
 
@@ -171,37 +178,22 @@
 ## 📝 남은 작업
 
 ### 단기 (이번 주)
-1. **Query Expansion 구현**
-   - search_with_expansion() 메서드 추가
-   - 쿼리 변형 로직 구현
-   - 결과 병합 및 중복 제거
-   - 테스트 및 검증
-
-2. **Parent Context 추가**
-   - SQL 쿼리 수정 (p.summary_text 포함)
-   - Document page_content 확장
-   - 품질 비교 테스트
-
-3. **FastAPI 엔드포인트 통합**
-   - /rag/query에 area/domain 파라미터 추가
-   - Query Expansion 옵션 제공
-   - 응답 포맷 개선
+1. **Query Expansion 하드닝**
+   - 구성 기반 변형 관리, 변형별 지표 로깅, 단위 테스트 작성
+2. **Parent Context 옵션 완성**
+   - `parent_context` 플래그와 SQL/응답 포맷 동기화, Node 가이드 재검증
+3. **LLM/RAG 체인 통합**
+   - `rag_chain.py`/`llm_base.py`를 `/rag/query`에 연결하고 `metadata` 채우기
+4. **API/체인 테스트 자동화**
+   - FastAPI TestClient 시나리오, `process_rag_response()` 커버리지 확보
 
 ### 중기 (다음 주)
-1. **성능 최적화**
-   - 쿼리 응답 시간 단축
-   - 캐싱 전략 구현
-   - 배치 처리 개선
-
-2. **모니터링 구축**
-   - 검색 품질 메트릭 수집
-   - 사용자 피드백 로깅
-   - 성능 대시보드 구축
-
-3. **문서화 완성**
-   - API 문서 업데이트
-   - 사용자 가이드 작성
-   - 운영 매뉴얼 작성
+1. **운영 가시성 강화**
+   - `/health` DB/LLM 체크, latency·expansion 모니터링, SLA 알림
+2. **성능 & 캐싱 최적화**
+   - Redis 캐시 전략, search latency 튜닝, fallback 시나리오 정의
+3. **문서/협업 정리**
+   - API 가이드·운영 매뉴얼 최신화, Node 팀 핸드오프 체크리스트 공유
 
 ---
 
@@ -231,7 +223,7 @@
 
 3. **단계적 품질 개선**
    - Metadata Filtering (완료)
-   - Query Expansion (예정)
+   - Query Expansion (프로토타입 구현, 하드닝 예정)
    - Parent Context (예정)
 
 ---
@@ -245,6 +237,6 @@
 
 ---
 
-**최종 업데이트**: 2025-11-07 17:20
+**최종 업데이트**: 2025-11-08 09:30
 **작성자**: AI Assistant
-**상태**: ✅ v1.1 완료, Step 1 검증 완료, Step 2-3 대기 중
+**상태**: ✅ v1.1 + Query Expansion 베타 완료, Parent Context/LLM 통합 대기
