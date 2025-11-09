@@ -5,6 +5,8 @@ from __future__ import annotations
 
 import argparse
 
+import pytesseract
+
 from PIL import Image, ImageDraw, ImageFont
 
 
@@ -60,6 +62,11 @@ def generate_sample_image(text: str, font_size: int) -> Image.Image:
     draw = ImageDraw.Draw(image)
     draw.text((padding, padding), text, fill="black", font=font)
     return image
+
+
+def extract_text(image: Image.Image) -> str:
+    """Run pytesseract on the provided image and return the extracted text."""
+    return pytesseract.image_to_string(image).strip()
 
 
 if __name__ == "__main__":
