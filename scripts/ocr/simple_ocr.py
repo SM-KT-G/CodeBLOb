@@ -38,7 +38,13 @@ def main() -> None:
     """Entry point for the OCR example script."""
     args = build_parser().parse_args()
     if args.debug:
-        print("Debug mode enabled - OCR pipeline not implemented yet.")
+        print(f"Rendering sample image for text: {args.text!r}")
+    image = generate_sample_image(args.text, args.font_size)
+    if args.debug:
+        print("Running pytesseract on generated image...")
+    recognized = extract_text(image)
+    print("Recognized text:")
+    print(recognized or "(no text found)")
 
 
 def _load_font(font_size: int) -> ImageFont.FreeTypeFont | ImageFont.ImageFont:
