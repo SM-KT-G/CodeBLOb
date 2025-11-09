@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_017400",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-17",
+        "domain": "숙박",
+        "title": "ラメルホテル（라메르호텔）"
+    },
+    "text": "ラメルホテル（라메르호텔）\\n\n釜山広域市 東区 朝紡路34番キル9\\n\n「ラメルホテル（HOTEL LAMER）」は、釜山の中心地に位置しているため周辺地域からのアクセスが便利です。160坪のジムと地下350メートルの岩盤水を使用したスパが併設されており、宿泊客は割引価格での利用が可能です。",
+    "QA": [
+        {
+            "question": "ラメルホテル（Hoteru rameru）はどこに位置していますか？",
+            "answer": "ラメルホテル（HOTEL LAMER）は釜山広域市東区朝紡路34番キル9に位置しています。"
+        },
+        {
+            "question": "ラメルホテルにはどんな施設がありますか？",
+            "answer": "ラメルホテルには160坪のジムと地下350メートルの岩盤水を使用したスパがあります。"
+        },
+        {
+            "question": "ラメルホテルのジムはどのようなサービスがありますか？",
+            "answer": "ラメルホテルのジムでは宿泊客は割引価格で利用することができます。"
+        },
+        {
+            "question": "ラメルホテルへのアクセスは便利ですか？",
+            "answer": "ラメルホテルは釜山の中心地に位置しているため、周辺地域からのアクセスが便利です。"
+        }
+    ],
+    "word_Count": {
+        "text": 107,
+        "QA": 189
+    }
+}

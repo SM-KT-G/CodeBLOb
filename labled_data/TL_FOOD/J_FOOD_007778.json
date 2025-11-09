@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_007778",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-01",
+        "domain": "음식점",
+        "title": "ジョンソバンチュクミ ( 정소반쭈꾸미 )"
+    },
+    "text": "ジョンソバンチュクミ \n京畿道 平沢市 チョゲト路 20\n広い駐車場を完備し、飲み会などに最適です。京畿道のピョンテク市に位置した韓食専門店です。代表的なメニューはイイダコ炒めです。",
+    "QA": [
+        {
+            "question": "この韓食専門店はどこにありますか？",
+            "answer": "この韓食専門店は京畿道の平沢市に位置しています。"
+        },
+        {
+            "question": "この韓食専門店の特徴は何ですか？",
+            "answer": "この韓食専門店は広い駐車場を完備しており、飲み会などに最適です。"
+        },
+        {
+            "question": "この韓食専門店の代表的なメニューは何ですか？",
+            "answer": "この韓食専門店の代表的なメニューはイイダコ炒めです。"
+        }
+    ],
+    "word_Count": {
+        "text": 66,
+        "QA": 100
+    }
+}

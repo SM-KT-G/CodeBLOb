@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_024577",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/goods/GN0002023737?startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0%5E&npprmaxsort=min",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "강릉 경포대열시반펜션"
+    },
+    "text": "愛する恋人と旅立つ旅行、そして友達や家族と一緒に過ごす美しい思い出を作りたい時、10時半ペンションが最高の選択になるでしょう。 ここは江陵に位置し、様々な観光地や見どころ、楽しみどころがたくさんあります。 旅の途中の疲れを癒す心地よい憩いの場として、10時30分ペンションをお勧めします。 22時以降に入室される場合は予約が必要ですので予めご連絡ください。",
+    "QA": [
+        {
+            "question": "このペンションはどこに位置していますか？",
+            "answer": "このペンションは江陵に位置しています。"
+        },
+        {
+            "question": "このペンションの周辺にはどんな観光地や見どころがありますか？",
+            "answer": "このペンションの周辺には様々な観光地や見どころがあります。"
+        },
+        {
+            "question": "22時以降に入室する場合は予約が必要ですか？",
+            "answer": "はい、22時以降に入室される場合は予約が必要です。事前にご連絡ください。"
+        }
+    ],
+    "word_Count": {
+        "text": 130,
+        "QA": 114
+    }
+}

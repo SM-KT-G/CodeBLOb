@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_LEI_002248",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2023-04-04",
+        "domain": "레포츠",
+        "title": "백학저수지"
+    },
+    "text": "ペカク・チョスジ (백학저수지)\\n\n京畿道漣川郡白鶴面貯水池キル21\\n\n1989年6月、民統線北上措置により民間人の出入りが自由になった満水面積69,000坪の平地型貯水池では、ダムを基準に左と右に分かれたV字型貯水池です。",
+    "QA": [
+        {
+            "question": "この貯水池はどのように作られましたか？",
+            "answer": "この貯水池は1989年6月に完成しました。作業は民統線北上措置によって行われ、民間人の出入りが自由になった後に建設されました。貯水池は平地型で、ダムを基準に左右に分かれたV字型の形状をしています。"
+        },
+        {
+            "question": "この貯水池の面積は何坪ですか？",
+            "answer": "この貯水池の面積は満水時には69,000坪です。"
+        },
+        {
+            "question": "この貯水池はどの地域にありますか？",
+            "answer": "この貯水池は京畿道漣川郡白鶴面に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 83,
+        "QA": 144
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_033590",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1066&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=01530000&ccbaCtcd=38&ccbaCpno=3413801530000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1985-11-14",
+        "domain": "문화/역사관광",
+        "title": "하동 쌍계사 설선당"
+    },
+    "text": "河東双渓寺雪善堂 (하동 쌍계사 설선당)\\n\n慶尚南道河東郡花開面双渓寺ギル59(雲水里)\\n\n慶尚南道文化財資料 , 双渓寺は統一新羅聖徳王21年(722)に三法と大妃2人の和尚が寺を建てて「玉泉寺」と言った。 その後、文聖王2年(840)に真監禅師が建て直し、正康王の時に「双渓寺」と名前を変えた。 現在、寺の境内には雪仙堂をはじめ大雄殿(宝物第500号)、応真殿、冥府殿、八相殿などの建物が多くあり、真監国師大公塔碑(国宝第47号)、双渓寺浮屠(宝物第380号)、磨崖仏などの文化財がある。 雪仙堂は僧侶たちの教育場所としてお経を勉強するところだ。",
+    "QA": [
+        {
+            "question": "双渓寺はいつ建てられましたか？",
+            "answer": "双渓寺は統一新羅聖徳王21年(722)に建てられました。"
+        },
+        {
+            "question": "双渓寺はどのような名前で呼ばれていましたか？",
+            "answer": "最初は「玉泉寺」と呼ばれていましたが、後に「双渓寺」と名前が変わりました。"
+        },
+        {
+            "question": "双渓寺の境内にはどのような建物がありますか？",
+            "answer": "双渓寺の境内には雪仙堂、大雄殿、応真殿、冥府殿、八相殿などの建物があります。"
+        },
+        {
+            "question": "双渓寺にはどのような文化財がありますか？",
+            "answer": "双渓寺には真監国師大公塔碑(国宝第47号)、双渓寺浮屠(宝物第380号)、磨崖仏などの文化財があります。"
+        },
+        {
+            "question": "雪仙堂は何のための場所ですか？",
+            "answer": "雪仙堂は僧侶たちの教育場所で、お経を勉強するための場所です。"
+        }
+    ],
+    "word_Count": {
+        "text": 203,
+        "QA": 204
+    }
+}

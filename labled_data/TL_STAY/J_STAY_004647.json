@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_004647",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42040&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "여수 유탑유블레스펜션"
+    },
+    "text": "こんにちは。麗水ユタプユーブレスペンションです。 お知らせです。 チェックイン時間は22時以降に変更されました。 建物内では禁煙が行われ、ゴミや食べ物は退室時に排出されなければなりません。 ゴミと食べ物は1階入口の駐車場の分別箱に排出してください。 ありがとうございます。",
+    "QA": [
+        {
+            "question": "チェックイン時間は何時からですか？",
+            "answer": "チェックイン時間は22時以降に変更されました。"
+        },
+        {
+            "question": "建物内での禁煙はどういったルールですか？",
+            "answer": "建物内では禁煙が行われています。"
+        },
+        {
+            "question": "ゴミと食べ物の処理について教えてください。",
+            "answer": "ゴミや食べ物は退室時に排出されなければなりません。ゴミと食べ物は1階入口の駐車場の分別箱に排出してください。"
+        }
+    ],
+    "word_Count": {
+        "text": 99,
+        "QA": 110
+    }
+}

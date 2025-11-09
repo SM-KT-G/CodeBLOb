@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_032189",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=868&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=01530000&ccbaCtcd=33&ccbaCpno=2333301530000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2012-01-06",
+        "domain": "문화/역사관광",
+        "title": "충주 양능길·양여공 묘소"
+    },
+    "text": "忠州梁能吉·梁汝恭墓所 (충주 양능길·양여공 묘소)\\n\n厳政面新万里山58\\n\n高麗時代及び朝鮮時代、忠清北道記念物、陽陵道は高麗開国功臣で忠州ヤン氏門中で始祖としており、墓所は形が八角形の竹節形の角柱を刻んだ護石を巻いた特異な様式だ。 一部風化して結実した部分を補修した跡があるが、高麗時代の墳墓遺跡としてその類例が珍しい。ヤン·ヌンギルの15代孫ヤン·ヨゴン(梁汝恭)は朝鮮時代初期の人物で、及第後に礼曹正郞まで上がった孝子として有名な人物だ。 陽陵道と陽如公は忠州地域の人物史に重要な部分を占め、墓所が元の位置に原型どおり保存されており、一つにまとめて保護する必要がある。",
+    "QA": [
+        {
+            "question": "この墓所はどの時代の人物のものですか？",
+            "answer": "この墓所は高麗時代及び朝鮮時代の人物、梁汝恭氏のものです。"
+        },
+        {
+            "question": "墓所の形はどのような特異な様式ですか？",
+            "answer": "この墓所の形は八角形の竹節形の角柱を刻んだ護石を巻いた特異な様式です。"
+        },
+        {
+            "question": "梁汝恭氏はどのような人物ですか？",
+            "answer": "梁汝恭氏は高麗開国功臣で忠州ヤン氏門中で始祖としており、朝鮮時代初期の孝子として有名な人物です。"
+        },
+        {
+            "question": "墓所の保存状態はどのようですか？",
+            "answer": "墓所は元の位置に原型どおり保存されており、一部風化した部分を補修した跡があります。"
+        },
+        {
+            "question": "この墓所は何のために保護されているのですか？",
+            "answer": "この墓所は陽陵道と陽如公の忠州地域の人物史において重要な部分を占めており、保護・保存されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 213,
+        "QA": 215
+    }
+}

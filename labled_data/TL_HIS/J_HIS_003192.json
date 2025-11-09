@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_003192",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1195&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=79&ccbaAsno=00530000&ccbaCtcd=11&ccbaCpno=4411100530000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2003-06-30",
+        "domain": "문화/역사관광",
+        "title": "서울 건국대학교 구 서북학회회관"
+    },
+    "text": "ソウル建国大学校区西北学会会館 (서울 건국대학교 구 서북학회회관)\\n\nソウル広津区峨嵯山路263(華陽洞)\\n\n1907 , 国家登録文化財 , ルネサンス様式の民族愛国団体会館として建設され、建国大学校校庭案解体復元(1985年)建立当時は民族愛国団体である「西北学会」の会館として鍾路区楽園洞に建てられた建物である。 日本による植民地時代には五星学校、宝城専門学校、協成実業学校など民族系学校の教師として使われ、1941年建国大学校設立者ユ·ソクチャン博士が買収した。 光復後にはこの建物で各種政治団体と教育機関が創設されたりもし、1946年に建国大学校の母体である朝鮮政治学館が創立された。 その後、建国大学校法人事務室などとして使われた。 1977年に都市計画で撤去され、主要資材を現建国大学校キャンパス(毛津洞)に野積/保管していたが、1985年に復元して学校建設者の記念館兼博物館として使用している。 建立時の写真と撤去前の写真を比較すると、建立時から1977年解体時まで少なくとも屋根部分に修理があったと推測される。 そして現在地に復元した建物は1977年の姿を基準にしている",
+    "QA": [
+        {
+            "question": "この建物はいつ建てられましたか？",
+            "answer": "この建物は1907年に建てられました。"
+        },
+        {
+            "question": "建物の設計スタイルは何ですか？",
+            "answer": "この建物はルネサンス様式で設計されています。"
+        },
+        {
+            "question": "この建物はどのような目的で使用されていましたか？",
+            "answer": "建立当時は民族愛国団体である「西北学会」の会館として使用されていました。"
+        },
+        {
+            "question": "日本統治時代にはこの建物はどのように使用されていましたか？",
+            "answer": "日本統治時代にはこの建物は民族系学校の教師が使われていました。"
+        },
+        {
+            "question": "建国大学校はいつ創立されましたか？",
+            "answer": "建国大学校は1946年に創立されました。"
+        }
+    ],
+    "word_Count": {
+        "text": 365,
+        "QA": 167
+    }
+}

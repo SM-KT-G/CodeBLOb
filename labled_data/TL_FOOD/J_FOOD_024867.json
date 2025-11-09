@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_024867",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "龍頭岩バダン刺身入り素麺 ( 용두암바당회국수 )"
+    },
+    "text": "龍頭岩バダン刺身入り素麺 ( 용두암바당회국수 )\n済州特別自治道 済州市 西海岸路 614\n1人前でも注文可能な太刀魚の煮付けの有名店です。おすすめは太刀魚の煮付けです。済州特別自治道のジェジュ市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "このレストランはどこにありますか？",
+            "answer": "このレストランは済州特別自治道のジェジュ市に位置しています。"
+        },
+        {
+            "question": "このレストランのおすすめは何ですか？",
+            "answer": "このレストランのおすすめは太刀魚の煮付けです。"
+        },
+        {
+            "question": "このレストランでは何を食べることができますか？",
+            "answer": "このレストランでは太刀魚の煮付けが人気ですが、他にもさまざまな韓食を楽しむことができます。"
+        },
+        {
+            "question": "このレストランの特徴は何ですか？",
+            "answer": "このレストランの特徴は、太刀魚の煮付けが1人前でも注文できることです。"
+        }
+    ],
+    "word_Count": {
+        "text": 82,
+        "QA": 151
+    }
+}

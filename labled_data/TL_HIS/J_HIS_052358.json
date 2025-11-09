@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_052358",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.doopedia.co.kr/",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "과위교_1"
+    },
+    "text": "国立中央図書館所蔵の図書である1本は17枚を一つにまとめて構成され、この本のうしろには、お祝いの方である《解凍岳父(海東樂府)》と《歴代国号が(歷代國號歌》、《駅大勢ニョンカ(歷代世年歌》を別につけて自筆で作った。",
+    "QA": [
+        {
+            "question": "この図書は何枚で構成されていますか？",
+            "answer": "17枚"
+        },
+        {
+            "question": "この図書のうしろにはどのようなお祝いの方がつけられていますか？",
+            "answer": "《解凍岳父(海東樂府)》と《歴代国号が(歷代國號歌》、《駅大勢ニョンカ(歷代世年歌》"
+        },
+        {
+            "question": "お祝いの方は誰が作ったのですか？",
+            "answer": "国立中央図書館所蔵の図書自筆"
+        }
+    ],
+    "word_Count": {
+        "text": 78,
+        "QA": 90
+    }
+}

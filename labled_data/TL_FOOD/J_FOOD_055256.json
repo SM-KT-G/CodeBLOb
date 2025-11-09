@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_055256",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/sinhwa-gepan",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "シンファゲパン"
+    },
+    "text": "シンファゲパン\\n\n釜山広域市 ブサンジン区 ガヤデロ784ボンギル 46-8\\n\n釜山広域市のブサンジン区に位置した韓食です。代表的なメニューは豚肉クッパです。50年の伝統を誇るテジクッパ専門店です。",
+    "QA": [
+        {
+            "question": "シンファゲパンの場所はどこですか？",
+            "answer": "シンファゲパンは釜山広域市のブサンジン区に位置しています。"
+        },
+        {
+            "question": "シンファゲパンの代表的なメニューは何ですか？",
+            "answer": "シンファゲパンの代表的なメニューは豚肉クッパです。"
+        },
+        {
+            "question": "シンファゲパンは何年の伝統を持っていますか？",
+            "answer": "シンファゲパンは50年の伝統を誇っています。"
+        }
+    ],
+    "word_Count": {
+        "text": 74,
+        "QA": 100
+    }
+}

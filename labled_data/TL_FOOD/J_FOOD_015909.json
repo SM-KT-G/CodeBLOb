@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_015909",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "江陵オンジネハイガイジプ ( 강릉엄지네꼬막집 )"
+    },
+    "text": "江陵オンジネハイガイジプ \n江原道 江陵市 京江路 2255ボンキル 21\n江陵ハイガイグルメで有名な店で、芸能人もよく訪れるところです。 おすすめはハイガイビビンバです。江原道のガンヌン市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "このお店はどこにありますか？",
+            "answer": "このお店は江原道江陵市の京江路2255番地21にあります。"
+        },
+        {
+            "question": "このお店のおすすめメニューは何ですか？",
+            "answer": "このお店のおすすめメニューはハイガイビビンバです。"
+        },
+        {
+            "question": "このお店はどのような雰囲気ですか？",
+            "answer": "このお店はガンヌン市に位置した韓食専門店で、芸能人もよく訪れるところです。"
+        },
+        {
+            "question": "このお店で有名な人物はいますか？",
+            "answer": "はい、このお店は芸能人もよく訪れるところです。"
+        }
+    ],
+    "word_Count": {
+        "text": 79,
+        "QA": 132
+    }
+}

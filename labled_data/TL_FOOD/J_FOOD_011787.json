@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_011787",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "バブエンバブ セントゥロルスクェオ（밥앤밥 센트럴스퀘어）"
+    },
+    "text": "バブエンバブ セントゥロルスクェオ（밥앤밥 센트럴스퀘어）\\n\n釜山広域市 釜山鎮区 中央大路 666ボンキル 50\\n\n釜山広域市のブサンジン区に位置した韓食です。代表的なメニューはプルゴギビビンバです。韓国の伝統料理であるプルコギ(焼肉)を味わうことができます。",
+    "QA": [
+        {
+            "question": "このレストランの場所はどこですか？",
+            "answer": "釜山広域市 釜山鎮区 中央大路 666ボンキル 50に位置しています。"
+        },
+        {
+            "question": "このレストランの特徴的な料理は何ですか？",
+            "answer": "代表的なメニューはプルゴギビビンバです。"
+        },
+        {
+            "question": "プルゴギビビンバはどのような料理ですか？",
+            "answer": "韓国の伝統料理であるプルコギ(焼肉)を味わうことができる料理です。"
+        }
+    ],
+    "word_Count": {
+        "text": 97,
+        "QA": 106
+    }
+}

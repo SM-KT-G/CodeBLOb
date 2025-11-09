@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_013650",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-05",
+        "domain": "음식점",
+        "title": "ボンイソルロンタン ( 봉이설렁탕 )"
+    },
+    "text": "ボンイソルロンタン ( 봉이설렁탕 )\\n\n全羅北道 ジョンジュ市 ドクジン区 ベクジェデロ576\\n\nソルロンタンは、高タンパクの韓国を代表する健康食です。代表的なメニューはソルロンタンです。全羅北道のジョンジュ市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "ボンイソルロンタンはどのような料理ですか？",
+            "answer": "ボンイソルロンタンは高タンパクで健康的な韓国料理です。"
+        },
+        {
+            "question": "ボンイソルロンタンの代表的なメニューは何ですか？",
+            "answer": "ボンイソルロンタンの代表的なメニューはソルロンタンです。"
+        },
+        {
+            "question": "ボンイソルロンタンはどこで食べることができますか？",
+            "answer": "ボンイソルロンタンは全羅北道ジョンジュ市のドクジン区ベクジェデロ576に位置した韓食専門店で食べることができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 88,
+        "QA": 133
+    }
+}

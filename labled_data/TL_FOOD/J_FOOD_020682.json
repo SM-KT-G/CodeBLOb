@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_020682",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "名物コプチャン ( 명물곱창 )"
+    },
+    "text": "名物コプチャン ( 명물곱창 )\n京畿道 平沢市 平沢1路12ボンキル 12\n平沢市が認めた一流のコプチャン(ホルモン)が味わえる店です。京畿道のピョンテク市に位置した韓食専門店です。代表的なメニューはコプチャン炒めです。",
+    "QA": [
+        {
+            "question": "この店の名物料理は何ですか？",
+            "answer": "この店の名物料理はコプチャン炒めです。"
+        },
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "この店は京畿道平沢市の平沢1路12ボンキル 12に位置しています。"
+        },
+        {
+            "question": "この店の料理は何が特徴ですか？",
+            "answer": "この店では、一流のコプチャン(ホルモン)を味わうことができます。"
+        },
+        {
+            "question": "この店はどのような種類の食事を提供していますか？",
+            "answer": "この店は韓食専門店で、コプチャン炒めなどが代表的なメニューです。"
+        }
+    ],
+    "word_Count": {
+        "text": 81,
+        "QA": 133
+    }
+}

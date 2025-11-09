@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_018800",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=439&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=00830000&ccbaCtcd=11&ccbaCpno=2111100830000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1992-12-31",
+        "domain": "문화/역사관광",
+        "title": "봉은사 판전 현판"
+    },
+    "text": "奉恩寺板殿の扁額 (봉은사 판전 현판)\\n\nソウル特別市江南区\\n\nソウル特別市有形文化財 , 朝鮮後期の文臣で学者であり、書画家である秋史キム·ジョンヒ(1786~1856)の晩年作品で「71科兵重作」と刻まれている。 金正喜は北学派の第一人者である朴斉家の弟子だ。 清の考証学の影響を受けて金石学を研究し、優れた芸術家として秋史体を作り、文人画の大家だった。 金正喜は純祖9年(1809)に生員となり、純祖19年(1819)に文科に及第し、考証学を韓国に導入した。 伝えられるところによると、彼が「71科兵重作」という字を書いた3日後に亡くなったというが、亡くなった年については諸説がある。",
+    "QA": [
+        {
+            "question": "この扁額は誰が作ったのですか？",
+            "answer": "この扁額は、朝鮮後期の文臣で学者であり、書画家の秋史キム·ジョンヒが作ったものです。"
+        },
+        {
+            "question": "この扁額には何と刻まれていますか？",
+            "answer": "この扁額には「71科兵重作」と刻まれています。"
+        },
+        {
+            "question": "金正喜はどのような人物ですか？",
+            "answer": "金正喜は北学派の第一人者であり、朴斉家の弟子でした。彼は清の考証学の影響を受けて金石学を研究し、秋史体を作り、文人画の大家でした。"
+        },
+        {
+            "question": "金正喜は何年に生まれましたか？",
+            "answer": "金正喜の生年については諸説がありますが、純祖9年(1809)に生員となったと伝えられています。"
+        },
+        {
+            "question": "金正喜は何年に亡くなりましたか？",
+            "answer": "金正喜の亡くなった年については諸説がありますが、彼が「71科兵重作」という字を書いた3日後に亡くなったという説があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 218,
+        "QA": 231
+    }
+}

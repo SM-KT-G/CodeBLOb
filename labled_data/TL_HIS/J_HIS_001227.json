@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_001227",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2023-01-05",
+        "domain": "문화/역사관광",
+        "title": "アプ山ケーブルカー（アプ山展望台）（앞산 케이블카（앞산 전망대））"
+    },
+    "text": "アプ山ケーブルカー（アプ山展望台）（앞산 케이블카（앞산 전망대））\\n\n大邱広域市 南区 アプ山循環路 574-114 （鳳徳洞）アプ山展望台は大邱（テグ）広域市南区にある展望台で大邱市街地を一望できる観光スポットです。アプ山展望台の建物は都市と自然、歴史と未来、それぞれを織りまぜ作り上げた建造物の好例として高く評価されています。",
+    "QA": [
+        {
+            "question": "アプ山展望台はどこにありますか？",
+            "answer": "アプ山展望台は大邱広域市南区にあります。"
+        },
+        {
+            "question": "アプ山展望台からは何が見えますか？",
+            "answer": "アプ山展望台からは大邱市街地が一望できます。"
+        },
+        {
+            "question": "アプ山展望台の建物はどのような評価を受けていますか？",
+            "answer": "アプ山展望台の建物は都市と自然、歴史と未来を織り交ぜた建造物として高く評価されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 122,
+        "QA": 106
+    }
+}

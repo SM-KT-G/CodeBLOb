@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_020697",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-01",
+        "domain": "음식점",
+        "title": "名匠ジンテンイ ( 명장진땡이 )"
+    },
+    "text": "名匠ジンテンイ ( 명장진땡이 )\\n\n全羅南道 順天市 サンデソクキル 84\\n\n辛い魚の煮物が味わえるお店です。おすすめは半干しスケトウダラの蒸し物です。全羅南道のスンチョン市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "このお店の場所はどこですか？",
+            "answer": "このお店は全羅南道順天市サンデソクキル84に位置しています。"
+        },
+        {
+            "question": "このお店の特徴的な料理は何ですか？",
+            "answer": "このお店の特徴的な料理は半干しスケトウダラの蒸し物です。"
+        },
+        {
+            "question": "このお店は韓食専門店ですか？",
+            "answer": "はい、このお店は韓食専門店です。"
+        },
+        {
+            "question": "このお店の名物はありますか？",
+            "answer": "はい、このお店の名物は辛い魚の煮物です。"
+        }
+    ],
+    "word_Count": {
+        "text": 75,
+        "QA": 112
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_LEI_005999",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2023-02-14",
+        "domain": "레포츠",
+        "title": "전월산국민여가캠핑장"
+    },
+    "text": "世宗市のチョンダル山に位置するイージーキャンプはテントを提供し、便利な利用をサポートしています。 また、キャンプに必要な機器も無料でレンタルできます。 イージーキャンプは8面で構成されたキャンプ場と14面で運営されるオートキャンプ場を持っています。",
+    "QA": [
+        {
+            "question": "イージーキャンプはどこにありますか？",
+            "answer": "イージーキャンプは世宗市のチョンダル山に位置しています。"
+        },
+        {
+            "question": "イージーキャンプは何を提供していますか？",
+            "answer": "イージーキャンプはテントを提供し、キャンプに必要な機器も無料でレンタルできます。"
+        },
+        {
+            "question": "イージーキャンプは何面で構成されていますか？",
+            "answer": "イージーキャンプは8面で構成されています。"
+        },
+        {
+            "question": "オートキャンプ場は何面で運営されていますか？",
+            "answer": "オートキャンプ場は14面で運営されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 90,
+        "QA": 141
+    }
+}

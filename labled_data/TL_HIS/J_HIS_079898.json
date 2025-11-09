@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_079898",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1051&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=01260000&ccbaCtcd=35&ccbaCpno=3413501260000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1986-09-09",
+        "domain": "문화/역사관광",
+        "title": "상원사대웅전"
+    },
+    "text": "全羅北道文化財資料、上院寺は百済の聖王24年(546)に高峰とバルヨン二つの僧侶が建てたと伝えられている。以降に高麗の太祖25年(942)にはウンジャンという人が聖堂を立て直しており、その後も数回の修理過程を経て、今日の姿を取り揃えるようになった。この聖堂は、朝鮮時代の英祖(在位1724∼1776)の時建てられており、その規模は表3間・側面2間になっている。単純ながらも優雅な切妻屋根で覆われていて、横から見る時には人の教わる字の形をした。大雄殿内部には釈迦牟尼仏、阿弥陀仏、薬師仏及びフブル幀画、支障幀画、慎重幀画を祀っている。ここは歴史的な価値と美しさを持っていて、多くの人々に見出しを受けている。",
+    "QA": [
+        {
+            "question": "上院寺はいつ建てられましたか？",
+            "answer": "百済の聖王24年(546)に高峰とバルヨン二つの僧侶が建てたと伝えられています。"
+        },
+        {
+            "question": "上院寺の規模はどのようになっていますか？",
+            "answer": "聖堂の規模は表3間・側面2間です。"
+        },
+        {
+            "question": "上院寺の聖堂は何回修理されましたか？",
+            "answer": "高麗の太祖25年(942)にはウンジャンという人が聖堂を立て直し、その後も数回の修理過程を経て、今日の姿を取り揃えるようになりました。"
+        },
+        {
+            "question": "上院寺の大雄殿内部に何が祀られていますか？",
+            "answer": "大雄殿内部には釈迦牟尼仏、阿弥陀仏、薬師仏及びフブル幀画、支障幀画、慎重幀画が祀られています。"
+        },
+        {
+            "question": "上院寺はどのような歴史的な価値と美しさを持っていますか？",
+            "answer": "上院寺は歴史的な価値と美しさを持っており、多くの人々に見出しを受けています。"
+        }
+    ],
+    "word_Count": {
+        "text": 221,
+        "QA": 228
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_026180",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-09-01",
+        "domain": "음식점",
+        "title": "全州谷炭火カルビ ( 전주골숯불갈비 )"
+    },
+    "text": "全州谷炭火カルビ ( 전주골숯불갈비 )\\n\nソウル特別市 鐘路区 敦化門路5カキル 15\\n\n韓国の国民的司会者(ソンヘ)の行きつけのお店として有名です。おすすめは牛カルビです。ソウル特別市のジョンノ区に位置した韓国料理店です。",
+    "QA": [
+        {
+            "question": "この店舗の名前は何ですか？",
+            "answer": "全州谷炭火カルビ（전주골숯불갈비）です。"
+        },
+        {
+            "question": "この店舗はどこにありますか？",
+            "answer": "ソウル特別市の鐘路区敦化門路5カキル 15に位置しています。"
+        },
+        {
+            "question": "この店舗はどのような料理を提供していますか？",
+            "answer": "牛カルビがおすすめです。"
+        },
+        {
+            "question": "この店舗はどのような評判ですか？",
+            "answer": "韓国の国民的司会者であるソンヘさんの行きつけのお店として有名です。"
+        }
+    ],
+    "word_Count": {
+        "text": 84,
+        "QA": 117
+    }
+}

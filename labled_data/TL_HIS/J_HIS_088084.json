@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_088084",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=10&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=11&ccbaAsno=01110000&ccbaCtcd=37&ccbaCpno=1113701110000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1962-12-20",
+        "domain": "문화/역사관광",
+        "title": "안향 초상"
+    },
+    "text": "高麗忠淑王5年(1318)、国宝、高麗中期の文臣である会憲安享(1243~1306)先生の肖像画で、横29cm、縦37cmの半身像です。安香は高麗元宗1年(1260年)、文科に及第して様々な官職に就き、数回にわたって元に行ってきて朱子学を韓国に普及させた人物で、韓国初の朱子学者といえるでしょう。絵の画面は上下に2等分され、上には文章が書かれており、下には先生の人物像が描かれています頭に平頂巾をかぶり、左側を眺めながら赤い線で顔の輪郭を現しました。服のしわは線を利用して明暗なく簡単に処理しました。視線の方向と肩のラインから先生の強烈な印象が見えます。蘇水書院にあるこの肖像画は、先生が亡くなって12年後の高麗忠淑王5年(1318)、孔子の祠堂に彼の肖像画を一緒に祀る時、もう1本を移して郷校に祀り、朝鮮中期の白雲洞書院(後に蘇水書院となる)を建立する際にここに移したものです",
+    "QA": [
+        {
+            "question": "安享先生の肖像画はいつ描かれましたか？",
+            "answer": "安享先生の肖像画は高麗忠淑王5年(1318)に描かれました。"
+        },
+        {
+            "question": "安享先生の肖像画はどのような服装をしていますか？",
+            "answer": "安享先生の肖像画では、平頂巾をかぶり、服装は朝鮮中期の文臣のものと思われる衣装を着用しています。"
+        },
+        {
+            "question": "安享先生はどのような人物でしょうか？",
+            "answer": "安享先生は朱子学者であり、高麗中期の文臣でした。元宗1年(1260年)に文科に及第し、様々な官職に就いた人物です。"
+        },
+        {
+            "question": "安享先生の肖像画はどこに祀られていますか？",
+            "answer": "安享先生の肖像画は、蘇水書院に祀られています。"
+        },
+        {
+            "question": "安享先生の肖像画はなぜ蘇水書院に移されたのですか？",
+            "answer": "安享先生の肖像画は、高麗忠淑王5年(1318)に孔子の祠堂に彼の肖像画と一緒に祀られ、もう1本を移して郷校に祀り、後に白雲洞書院(後に蘇水書院となる)を建立する際にここに移されました。"
+        }
+    ],
+    "word_Count": {
+        "text": 285,
+        "QA": 261
+    }
+}

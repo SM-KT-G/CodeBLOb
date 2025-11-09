@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_021743",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42020&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "거제도 물빛하늘펜션"
+    },
+    "text": "美しい巨済の海が一望できる水色の空ペンションへようこそ。 快適な客室と涼しい海の風景があなたを幻想的な南道の趣に浸します。 野外テラスではユンドル島と外島、海金剛を鑑賞することができ、星明かりの海を背景にバーベキューを楽しむことができます。 ムルビッハヌルペンションで愛する人たちと安らかな休息を夢見てください。 お知らせですと、22時以降に入室される場合は事前にご連絡ください。退室の際には客室を整理してから点検を受けなければなりません。 客室の鍵は返却してください。",
+    "QA": [
+        {
+            "question": "このペンションから見える景色はどんなですか？",
+            "answer": "美しい巨済の海が一望できます。"
+        },
+        {
+            "question": "客室はどのような特徴がありますか？",
+            "answer": "快適な客室と涼しい海の風景があります。"
+        },
+        {
+            "question": "どのようなアクティビティが楽しめますか？",
+            "answer": "野外テラスではユンドル島と外島、海金剛を鑑賞でき、バーベキューも楽しめます。"
+        },
+        {
+            "question": "何時までに入室する必要がありますか？",
+            "answer": "22時以降に入室する場合は事前にご連絡ください。"
+        },
+        {
+            "question": "退室の際に注意することはありますか？",
+            "answer": "退室の際には客室を整理してから点検を受けなければなりません。また、客室の鍵は返却してください。"
+        }
+    ],
+    "word_Count": {
+        "text": 172,
+        "QA": 174
+    }
+}

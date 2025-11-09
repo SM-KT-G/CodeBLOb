@@ -1,0 +1,31 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_029813",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42010&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "호텔 인 카페 구리점"
+    },
+    "text": "ロビーには特別でありながら高級感のあるインテリアと宿泊客は自由に利用できるブックカフェがあります。 しかし、その他にもロビーでは簡単なスナックバーを運営しており、宿泊客は心強い一日のために利用できます。 周辺には九里漢江公園やイムンアン湖公園のような様々な見どころもあります。",
+    "QA": [
+        {
+            "question": "このホテルのロビーには何がありますか？",
+            "answer": "ロビーには特別でありながら高級感のあるインテリアと宿泊客は自由に利用できるブックカフェがあります。また、簡単なスナックバーも運営しています。"
+        },
+        {
+            "question": "周辺にはどんな見どころがありますか？",
+            "answer": "周辺には九里漢江公園やイムンアン湖公園のような様々な見どころがあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 101,
+        "QA": 104
+    }
+}

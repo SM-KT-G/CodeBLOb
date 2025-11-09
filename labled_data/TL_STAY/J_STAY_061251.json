@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_061251",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2022-12-27",
+        "domain": "숙박",
+        "title": "황토게스트하우스"
+    },
+    "text": "黄土ゲストハウス (황토게스트하우스)\\n\n慶尚北道安東市泰寺キル125-5(新世洞)\\n\n当店は、外国人観光都市の民宿業を営んでおり、外国人の方にのみご利用いただけます。韓国の方はご利用いただけませんが、当店は黄土とかまどで構成されており、滞在中に癒しを感じることができます。",
+    "QA": [
+        {
+            "question": "このゲストハウスはどこにありますか？",
+            "answer": "黄土ゲストハウスは慶尚北道安東市泰寺キル125-5(新世洞)に位置しています。"
+        },
+        {
+            "question": "このゲストハウスは誰が利用できますか？",
+            "answer": "黄土ゲストハウスは外国人の観光客のみ利用することができます。韓国の方は利用できません。"
+        },
+        {
+            "question": "このゲストハウスの特徴は何ですか？",
+            "answer": "黄土ゲストハウスは黄土とかまどで構成されており、滞在中に癒しを感じることができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 101,
+        "QA": 130
+    }
+}

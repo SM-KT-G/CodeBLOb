@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_066764",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42070&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "단양 풍경펜션"
+    },
+    "text": "小白山と広々とした南漢江沿いに位置する宿です。 宿の内部にはカフェや工房ギャラリーがあり、絵画鑑賞も可能で、様々なアート体験とともに川辺での釣り体験も楽しめます。 また、風景カフェでゆったりとコーヒーを一杯楽しむこともできます。 ここでは丹陽八景の見どころとレジャー体験も一緒に楽しめますので、ご旅行をお楽しみください。 入室時間は15時から22時までで、22時以降は入室できません。 もし22:00以降に到着される場合は、予めご連絡ください。 チェックアウトは11:00までで、オンシーズンは午前11時までです。",
+    "QA": [
+        {
+            "question": "宿の位置はどこですか？",
+            "answer": "小白山と南漢江沿いに位置しています。"
+        },
+        {
+            "question": "宿の内部に何がありますか？",
+            "answer": "宿の内部にはカフェや工房ギャラリーがあり、絵画鑑賞も可能です。"
+        },
+        {
+            "question": "何を楽しむことができますか？",
+            "answer": "アート体験や川辺での釣り体験、風景カフェでのコーヒーを楽しむことができます。"
+        },
+        {
+            "question": "入室時間は何時ですか？",
+            "answer": "入室時間は15時から22時までです。"
+        },
+        {
+            "question": "チェックアウトの時間は何時ですか？",
+            "answer": "チェックアウトは11時までです。"
+        }
+    ],
+    "word_Count": {
+        "text": 188,
+        "QA": 137
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_009422",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "ダウリ 海鮮ピョチム ( 다우리 해물뼈찜 )"
+    },
+    "text": "ダウリ 海鮮ピョチム ( 다우리 해물뼈찜 )\\n\n全羅南道 モクポ市 ベクニョンデロ323ボンギル31\\n\n辛い海鮮料理を味わえる店で、木浦市民もよく訪れます。おすすめは海鮮の蒸し物です。全羅南道のモクポ市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "このレストランの名前は何ですか？",
+            "answer": "ダウリ 海鮮ピョチム ( 다우리 해물뼈찜 )"
+        },
+        {
+            "question": "このレストランはどこにありますか？",
+            "answer": "全羅南道モクポ市ベクニョンデロ323ボンギル31に位置しています。"
+        },
+        {
+            "question": "このレストランではどのような料理が楽しめますか？",
+            "answer": "辛い海鮮料理がおすすめです。特に海鮮の蒸し物が人気です。"
+        },
+        {
+            "question": "このレストランはどんなタイプの店ですか？",
+            "answer": "韓食専門店です。"
+        },
+        {
+            "question": "このレストランは地元の人々にも人気ですか？",
+            "answer": "はい、木浦市民にもよく訪れる海鮮料理店です。"
+        }
+    ],
+    "word_Count": {
+        "text": 85,
+        "QA": 155
+    }
+}

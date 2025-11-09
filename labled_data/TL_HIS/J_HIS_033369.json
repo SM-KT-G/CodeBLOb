@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_033369",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=939&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=24&ccbaAsno=01580000&ccbaCtcd=37&ccbaCpno=2443701580000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2013-04-08",
+        "domain": "문화/역사관광",
+        "title": "포항 여연당 고택"
+    },
+    "text": "浦項 與然堂 古宅 (포항 여연당 고택)\\n\n慶尚北道浦項市北区徳洞文化ギル48-3(基北面)\\n\n朝鮮時代、慶尚北道民俗文化財、この家屋は朝鮮宣祖の時に北評事を行い、壬辰倭乱の時に功を立てた農浦正門部が植率の避難所として使われていた家だ。農浦正門部が壬辰倭乱後、孫書であるイ·ガンに別屋一切を譲与する時の付属建物の一部としてイ·ガンの次男であるイ·ドクリョンに譲って現在に至っており、現所有者であるイ·ウォンドルはイ·ガンの9代孫だ。正面4間、側面6間の木造瓦架でロ字型に配置されており、朝鮮中期に創建された建物で当時の時代像をよく示している。",
+    "QA": [
+        {
+            "question": "この古宅は何時代に建てられましたか？",
+            "answer": "朝鮮中期に創建されました。"
+        },
+        {
+            "question": "この古宅は誰が建てましたか？",
+            "answer": "農浦正門部が建てました。"
+        },
+        {
+            "question": "この古宅はどのように使われていましたか？",
+            "answer": "壬辰倭乱の時に避難所として使われていました。"
+        },
+        {
+            "question": "現在の所有者は誰ですか？",
+            "answer": "イ·ウォンドルさんです。"
+        },
+        {
+            "question": "この古宅の建物の形はどのように配置されていますか？",
+            "answer": "正面4間、側面6間の木造瓦架でロ字型に配置されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 200,
+        "QA": 129
+    }
+}

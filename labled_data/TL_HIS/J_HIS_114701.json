@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_114701",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/view?relicId=36558102",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2023-10-11",
+        "domain": "문화/역사관광",
+        "title": "청자호"
+    },
+    "text": "青紫壺 (청자호)\\n\n国籍/時代: 中国-スー 材質: 陶磁器 - 青磁 作家: 不詳 分類: 食生活 - 食べ物 - 保存運搬 - 壺 大きさ: 高さ137cm、着丈85cm、底径80cm 修正案： この壺は中国のスー地方で作られた陶磁器の青磁製です。作者は不詳で、主に食生活や食べ物の保存運搬に使用される分類に属します。壺の大きさは高さ137cm、着丈85cm、底径80cmです。",
+    "QA": [
+        {
+            "question": "この青紫壺はどこの地方で作られましたか？",
+            "answer": "この青紫壺は中国のスー地方で作られました。"
+        },
+        {
+            "question": "この青紫壺は何の材質でできていますか？",
+            "answer": "この青紫壺は陶磁器の青磁製です。"
+        },
+        {
+            "question": "青紫壺の作者は誰ですか？",
+            "answer": "青紫壺の作者は不詳です。"
+        },
+        {
+            "question": "青紫壺はどのような分類に属しますか？",
+            "answer": "青紫壺は食生活や食べ物の保存運搬に使用される分類に属します。"
+        },
+        {
+            "question": "青紫壺の大きさはどのくらいですか？",
+            "answer": "青紫壺の大きさは高さ137cm、着丈85cm、底径80cmです。"
+        }
+    ],
+    "word_Count": {
+        "text": 141,
+        "QA": 144
+    }
+}

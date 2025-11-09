@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_033101",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.booking.com/hotel/kr/humphreys-2-min-two-vintage-korean-rooms.ko.html",
+        "collectedDate": "2023-11-17",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "Humphreys 2 min Vintage Korean Room"
+    },
+    "text": "Humphreys 2 min Vintage Korean Roomは平沢に位置しており、宿泊客に様々な便益施設を提供しています。 客室内には休息を楽しめる空間と簡易キッチンが完備されており、一部の客室には専用バスルームがあるのも特徴です。 また、客室内ではコピー、ファックス、アイロンがけなどのサービスが利用でき便利です。 宿の周辺には華城や温陽民俗博物館などの名所があり、観光客に様々な見どころを提供しています。 Humphreys 2 min Vintage Korean Roomの位置は平沢中心部から約9km離れており、チェックインは15:00から可能で、チェックアウトは12:00までです。",
+    "QA": [
+        {
+            "question": "この宿泊施設はどこに位置していますか？",
+            "answer": "Humphreys 2 min Vintage Korean Roomは平沢に位置しています。"
+        },
+        {
+            "question": "この宿泊施設はどのような便益施設を提供していますか？",
+            "answer": "この宿泊施設では、休息を楽しめる空間や簡易キッチンなどの便益施設が提供されています。"
+        },
+        {
+            "question": "客室にはどのような設備が完備されていますか？",
+            "answer": "客室内には休息を楽しめる空間と簡易キッチンが完備されており、一部の客室には専用バスルームもあります。"
+        },
+        {
+            "question": "どのようなサービスが客室内で利用できますか？",
+            "answer": "客室内ではコピー、ファックス、アイロンがけなどのサービスが利用できます。"
+        },
+        {
+            "question": "この宿泊施設の周辺にはどのような名所がありますか？",
+            "answer": "この宿泊施設の周辺には華城や温陽民俗博物館などの名所があります。"
+        },
+        {
+            "question": "この宿泊施設のチェックインとチェックアウトの時間は何時ですか？",
+            "answer": "チェックインは15:00から可能で、チェックアウトは12:00までです。"
+        }
+    ],
+    "word_Count": {
+        "text": 221,
+        "QA": 284
+    }
+}

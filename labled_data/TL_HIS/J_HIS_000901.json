@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_000901",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2022-09-06",
+        "domain": "문화/역사관광",
+        "title": "BEXCO（벡스코）"
+    },
+    "text": "BEXCO（벡스코）\\n\nプサン広域市ヘウンデ区APECロ55\\n\n「BEXCO（べクスコ）」は、延床面積92,761平方メートル、地下1階・地上7階という国際規模の展示・コンベンションセンターです。柱のない単層空間にサッカー競技場の3倍の大きさの専門展示場と多目的ホール、野外展示場、常設展示場を備えています。また、各種先端設備を完備し、国際展示会や国内展示会、大規模会議、公演、イベント、スポーツイベント場として活用されています。",
+    "QA": [
+        {
+            "question": "BEXCOはどこにありますか？",
+            "answer": "BEXCO（べクスコ）はプサン広域市ヘウンデ区APECロ55にあります。"
+        },
+        {
+            "question": "BEXCOの延床面積は何平方メートルですか？",
+            "answer": "BEXCOの延床面積は92,761平方メートルです。"
+        },
+        {
+            "question": "BEXCOにはどのような施設がありますか？",
+            "answer": "BEXCOには専門展示場、多目的ホール、野外展示場、常設展示場などの施設があります。"
+        },
+        {
+            "question": "BEXCOはどのようなイベントに活用されていますか？",
+            "answer": "BEXCOは国際展示会、国内展示会、大規模会議、公演、イベント、スポーツイベント場などに活用されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 159,
+        "QA": 176
+    }
+}

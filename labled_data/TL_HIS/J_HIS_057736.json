@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_057736",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1023&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=00800000&ccbaCtcd=37&ccbaCpno=3413700800000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1985-08-05",
+        "domain": "문화/역사관광",
+        "title": "남악정"
+    },
+    "text": "男悪政\\n\n慶尚北道英陽郡石宝面南谷キル15-2(周南里)\\n\n1822年の再建、慶尚北道文化財資料、退渓李滉の学統を続けてきた粛宗(在位1674∼1720)の時、性理学者の行く岩路李ヒョンイル(1627∼1704)の東屋である。李ヒョンイルが官職を放棄して学問に専念するために粛宗2年(1676)2間のわらぶき家で建てたものだが、純祖(スンジョ)22年(1822)子孫たちが瓦屋根で、改称された。建物は前面4間・側面1間の規模であり、屋根は側面から見ると、八(八部)字形の入母屋屋根である。出入り口には''ホンドムン(弘道門)''という看板がかかっているが、粛宗の字という。",
+    "QA": [
+        {
+            "question": "この建物はいつ再建されましたか？",
+            "answer": "この建物は1822年に再建されました。"
+        },
+        {
+            "question": "この建物は誰によって建てられましたか？",
+            "answer": "この建物は行く岩路李ヒョンイルによって建てられました。"
+        },
+        {
+            "question": "この建物の屋根の形は何ですか？",
+            "answer": "この建物の屋根は八(八部)字形の入母屋屋根です。"
+        },
+        {
+            "question": "この建物にはどんな看板がかかっていますか？",
+            "answer": "この建物には「弘道門」という看板がかかっています。"
+        },
+        {
+            "question": "この建物は何のために建てられましたか？",
+            "answer": "この建物は李ヒョンイルが官職を放棄して学問に専念するために建てられました。"
+        }
+    ],
+    "word_Count": {
+        "text": 211,
+        "QA": 162
+    }
+}

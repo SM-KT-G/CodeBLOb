@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_030372",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/bonbon-roastery",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "bonbon.roastery"
+    },
+    "text": "bonbon.roastery\\n\n江原道 江陵市 京江路2024番キル17-1 )\\n\n「bonbon.roastery（ボンボンバンアッカン）」は昔、精米所だった建物をリモデリングしてコーヒーと文化芸術が共存するカフェへと生まれ変わった場所です。ペンキが剥がれた壁、古いタイルの床や窓など、時を経たカッコよさが感じられえる空間です。",
+    "QA": [
+        {
+            "question": "この場所はどんな歴史的な建物ですか？",
+            "answer": "「bonbon.roastery（ボンボンバンアッカン）」は昔、精米所だった建物をリモデリングしています。"
+        },
+        {
+            "question": "どんな雰囲気のカフェですか？",
+            "answer": "ペンキが剥がれた壁、古いタイルの床や窓など、時を経たカッコよさが感じられる空間です。"
+        },
+        {
+            "question": "このカフェでは何が楽しめますか？",
+            "answer": "コーヒーと文化芸術が共存するカフェで、美味しいコーヒーを楽しむことができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 123,
+        "QA": 133
+    }
+}

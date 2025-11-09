@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_006403",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1003&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=00550000&ccbaCtcd=32&ccbaCpno=3413200550000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1985-01-17",
+        "domain": "문화/역사관광",
+        "title": "강릉 동은 고택"
+    },
+    "text": "江陵東隱 古宅 (강릉 동은 고택)\\n\n江原道江陵市栗谷路2669-8(露岩洞)\\n\n江原特別自治道 文化財資料 , 1916年に建てられた家で、母屋の両側の前にサランチェとクァンチェがコ字型に配置された。 向かい側には門屋があり、全体的にロ字型の配置となっている。 母屋は前後に空間を区分した二重の家である。 奥の間を中心に左側には台所を置き、右側は向かい側の部屋と床の部屋を前後に配置した。 本来、台所で直角に折れた部分に部屋と蔵があったが、今は蔵を改造して部屋として使用している。 穀物を貯蔵していた光彩は床が床になっている。 サランチェの部屋の片方には珍しく洋館の玄関と似たような用途の新部屋というものを置いたが、ここに靴を脱いで部屋に上がれるようにした。 門屋は門の左側に物置を、右側に部屋と床の部屋を置き、前には縁側を設置した。",
+    "QA": [
+        {
+            "question": "この古宅はいつ建てられましたか？",
+            "answer": "この古宅は1916年に建てられました。"
+        },
+        {
+            "question": "この古宅の特徴的な配置は何ですか？",
+            "answer": "この古宅はサランチェとクァンチェがコ字型に配置され、門屋もロ字型に配置されています。"
+        },
+        {
+            "question": "この古宅の母屋はどのような構造ですか？",
+            "answer": "この古宅の母屋は前後に空間を区分した二重の家であり、奥の間を中心に台所や他の部屋が配置されています。"
+        },
+        {
+            "question": "この古宅には何が保存されていましたか？",
+            "answer": "この古宅ではかつては蔵として使用されていた場所に穀物が保存されていました。"
+        },
+        {
+            "question": "この古宅の特徴的な部屋はありますか？",
+            "answer": "この古宅のサランチェの部屋の片方には、珍しく洋館の玄関と似たような用途の新部屋があります。"
+        },
+        {
+            "question": "この古宅の門屋にはどのようなものが置かれていますか？",
+            "answer": "この古宅の門屋には物置や部屋、床の部屋が配置されており、前には縁側も設置されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 272,
+        "QA": 257
+    }
+}

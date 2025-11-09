@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_004245",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://apis.data.go.kr/1400000/service/cultureInfoService2/mntInfoOpenAPI2",
+        "collectedDate": "2023-11-22",
+        "publishedDate": "2020-12-01",
+        "domain": "자연관광",
+        "title": "가련산"
+    },
+    "text": "可憐山 (가련산)\\n\n全羅北道全州市徳津区徳津洞二街\\n\n山の高さ : 70.2m , 全州の地勢が北西が公結し、まさにその地点で気脈が漏れている。 そのため、西に可憐山から東に乾芝山に大きな堤防を築き、その漏洩を防ぎ、名前を付けることを徳津と言った。",
+    "QA": [
+        {
+            "question": "可憐山はどこにありますか？",
+            "answer": "可憐山は全羅北道全州市徳津区徳津洞二街にあります。"
+        },
+        {
+            "question": "可憐山の高さは何メートルですか？",
+            "answer": "可憐山の高さは70.2メートルです。"
+        },
+        {
+            "question": "徳津という名前の由来は何ですか？",
+            "answer": "徳津という名前は、全州の地勢が北西が公結し、可憐山から乾芝山に気脈が漏れているため、その漏洩を防ぐために大きな堤防を築き、その地点に名前を付けたことに由来します。"
+        }
+    ],
+    "word_Count": {
+        "text": 93,
+        "QA": 123
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_023552",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-07-22",
+        "domain": "문화/역사관광",
+        "title": "新北リゾートSPRINGFALL（신북리조트 스프링폴）"
+    },
+    "text": "新北リゾートSPRINGFALL\n京畿道 抱川市 新北面 青新路 571\n水質がよく自然景観も美しいことで有名な抱川にある「新北リゾートスSPRINGFALL（シンブクリゾートスプリングフォール）」は、首都圏唯一の重炭酸ナトリウム温泉を楽しめる施設です。自然の趣を感じながら温泉を楽しめるさまざまなスパ施設、露天風呂、乾・湿式サウナ、黄土部屋、アイス部屋（クーリングルーム）などを完備し、疲労回復、健康増進、ストレス解消に最適です。また、大人だけでなく子どもも一緒に楽しめる快適で安全な波のプール、流れるプール、バーデプールといった水遊び施設などを備えています。",
+    "QA": [
+        {
+            "question": "新北リゾートSPRINGFALLはどこにありますか？",
+            "answer": "新北リゾートSPRINGFALLは京畿道抱川市新北面青新路571に位置しています。"
+        },
+        {
+            "question": "新北リゾートSPRINGFALLで楽しめる温泉の種類は何ですか？",
+            "answer": "新北リゾートSPRINGFALLでは重炭酸ナトリウム温泉を楽しむことができます。"
+        },
+        {
+            "question": "新北リゾートSPRINGFALLにはどのようなスパ施設がありますか？",
+            "answer": "新北リゾートSPRINGFALLにはさまざまなスパ施設があり、露天風呂、乾・湿式サウナ、黄土部屋、アイス部屋などが完備されています。"
+        },
+        {
+            "question": "新北リゾートSPRINGFALLで楽しめる水遊び施設はありますか？",
+            "answer": "新北リゾートSPRINGFALLには快適で安全な波のプール、流れるプール、バーデプールなどの水遊び施設があります。"
+        },
+        {
+            "question": "新北リゾートSPRINGFALLはどのような目的で利用することができますか？",
+            "answer": "新北リゾートSPRINGFALLは疲労回復、健康増進、ストレス解消などの目的で利用することができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 206,
+        "QA": 306
+    }
+}

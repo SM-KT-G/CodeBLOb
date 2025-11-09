@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_029679",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=996&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=00470000&ccbaCtcd=32&ccbaCpno=3413200470000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1984-06-02",
+        "domain": "자연관광",
+        "title": "금강산성"
+    },
+    "text": "江原道特別自治道文化財資料である江原道、小金剛山の九竜瀧には石で築いた城がある。この城は左に山の麓を北上、託されるのに、アミ酸性または満月性と呼ばれる。新羅の麻衣太子が積み上げたという伝説もあり、忠粛王の娘婿であるチェムンハンの息子チェグクイムが義兵を率いて城を築いたともいう。この城は九龍(クリョン)滝の東・西側の稜線に沿って溜まっており、東の城壁は小金剛山の頂上を経て渓谷まで約3キロにわたっている。しかし、西側の城壁は、滝付近だけに400m程度現れる。東の城壁は南・西に伸びる山の麓に沿って400mの城壁が、頂上部から西に伸びた山の麓に沿って約700mの城壁が積もっている。この城は2∼3重に行われた特異な形を見せる、城の中には建物の跡と推定される平坦な大地があるが、遺物は発見されなかった。城周囲には練兵場、スヤンデ、マンクんだって、死刑台と呼ばれるところがある。城壁の大きさは場所によって異なり、高さは1∼2m、上部の幅は1mだ。",
+    "QA": [
+        {
+            "question": "小金剛山の九竜瀧にある城は何と呼ばれていますか？",
+            "answer": "九竜瀧にある城は九龍(クリョン)城と呼ばれています。"
+        },
+        {
+            "question": "城の特徴的な場所はどこですか？",
+            "answer": "城壁の大きさは場所によって異なり、高さは1∼2m、上部の幅は1mです。"
+        },
+        {
+            "question": "城は何によって築かれたと伝えられていますか？",
+            "answer": "城はアミ酸性または満月性と呼ばれる地形によって築かれたと伝えられています。"
+        },
+        {
+            "question": "城を築いたとされる人物について教えてください。",
+            "answer": "城は新羅の麻衣太子や忠粛王の娘婿であるチェムンハンの息子チェグクイムによって築かれたとされる伝説があります。"
+        },
+        {
+            "question": "城の周囲にある施設には何がありますか？",
+            "answer": "城周囲には練兵場、スヤンデ、マンクんだって、死刑台と呼ばれるところがあります。"
+        },
+        {
+            "question": "城内にはどのような遺物が残されていますか？",
+            "answer": "城内には建物の跡と推定される平坦な大地がありますが、遺物は発見されなかったとされています。"
+        }
+    ],
+    "word_Count": {
+        "text": 308,
+        "QA": 264
+    }
+}

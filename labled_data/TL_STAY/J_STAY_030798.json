@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_030798",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42010&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "가평 베네스트펜션"
+    },
+    "text": "当ベネストペンションにお越しいただきありがとうございます。 このペンションはカピョン郡アチムゴヨ樹木園の近くに位置するラグジュアリーな木造型ウェルビーイングペンションです。 客室ごとに色や雰囲気が異なり、ジェットバスを備えた特別な客室もあります。 私たちは常に快適な寝床と楽しい旅行を提供するために最善を尽くしています。 しかし、22時以降に入室される場合は予めご連絡ください。",
+    "QA": [
+        {
+            "question": "ベネストペンションはどこに位置していますか？",
+            "answer": "ベネストペンションはカピョン郡アチムゴヨ樹木園の近くに位置しています。"
+        },
+        {
+            "question": "ベネストペンションの客室はどのような特徴がありますか？",
+            "answer": "ベネストペンションの客室は色や雰囲気が異なり、ジェットバスを備えた特別な客室もあります。"
+        },
+        {
+            "question": "ベネストペンションは何を提供していますか？",
+            "answer": "ベネストペンションは快適な寝床と楽しい旅行を提供するために最善を尽くしています。"
+        },
+        {
+            "question": "夜遅くに入室する場合には何か連絡する必要がありますか？",
+            "answer": "夜遅くに入室する場合は予めご連絡ください。"
+        }
+    ],
+    "word_Count": {
+        "text": 138,
+        "QA": 173
+    }
+}

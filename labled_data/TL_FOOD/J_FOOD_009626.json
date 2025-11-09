@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_009626",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-05",
+        "domain": "음식점",
+        "title": "ダレウォン ( 다래원 )"
+    },
+    "text": "ダレウォン ( 다래원 )\\n\n慶尚北道 アンドン市 ギョンドンロ852\\n\n様々な中華料理が味わえる店です。慶尚北道のアンドン市に位置した中華専門店です。代表的なメニューは酢豚です。",
+    "QA": [
+        {
+            "question": "このレストランはどこにありますか？",
+            "answer": "ダレウォン ( 다래원 ) は慶尚北道のアンドン市に位置しています。"
+        },
+        {
+            "question": "このレストランでは何の料理が味わえますか？",
+            "answer": "このレストランでは様々な中華料理が味わえます。代表的なメニューは酢豚です。"
+        },
+        {
+            "question": "このレストランの住所は何ですか？",
+            "answer": "ダレウォン ( 다래원 ) の住所は慶尚北道アンドン市ギョンドンロ852です。"
+        }
+    ],
+    "word_Count": {
+        "text": 67,
+        "QA": 120
+    }
+}

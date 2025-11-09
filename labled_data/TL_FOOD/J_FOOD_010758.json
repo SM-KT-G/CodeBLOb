@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_010758",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-05-26",
+        "domain": "음식점",
+        "title": "トバギ（토박이）"
+    },
+    "text": "トバギ\\n\n慶尚北道 慶州市 北軍キル21\\n\n「トバギ」は太刀魚のチゲや焼き太刀魚とともに釜飯を味わえるお店で、慶州市から模範飲食店に指定されています。",
+    "QA": [
+        {
+            "question": "トバギはどんな料理を提供していますか？",
+            "answer": "トバギは太刀魚のチゲや焼き太刀魚とともに釜飯を味わえるお店です。"
+        },
+        {
+            "question": "トバギはどの地域に位置していますか？",
+            "answer": "トバギは慶尚北道慶州市に位置しています。"
+        },
+        {
+            "question": "トバギは慶州市の模範飲食店に指定されていますか？",
+            "answer": "はい、トバギは慶州市から模範飲食店に指定されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 56,
+        "QA": 102
+    }
+}

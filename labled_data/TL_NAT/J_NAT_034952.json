@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_034952",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2023-02-09",
+        "domain": "자연관광",
+        "title": "상궁저수지"
+    },
+    "text": "尚宮貯水池は、忠清北道報恩郡ネブク面に位置している。満水面積は39万平方メートルであり、とICに近く、周辺には世界文化遺産法住寺(ポプチュサ)、俗離山(ソクリサンマルティジェ自然休養林がある。",
+    "QA": [
+        {
+            "question": "尚宮貯水池はどこに位置していますか？",
+            "answer": "尚宮貯水池は忠清北道報恩郡ネブク面に位置しています。"
+        },
+        {
+            "question": "尚宮貯水池の満水面積は何平方メートルですか？",
+            "answer": "尚宮貯水池の満水面積は39万平方メートルです。"
+        },
+        {
+            "question": "尚宮貯水池の周辺にある世界文化遺産は何ですか？",
+            "answer": "尚宮貯水池の周辺には世界文化遺産法住寺(ポプチュサ)があります。"
+        },
+        {
+            "question": "尚宮貯水池の周辺にある自然休養林は何ですか？",
+            "answer": "尚宮貯水池の周辺には俗離山(ソクリサン)マルティジェ自然休養林があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 70,
+        "QA": 148
+    }
+}

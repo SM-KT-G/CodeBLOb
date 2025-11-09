@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_037882",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=721&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=22&ccbaAsno=00150000&ccbaCtcd=23&ccbaCpno=2222300150000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "인천수륙재"
+    },
+    "text": "仁川水陸斎 (인천수륙재)\\n\n仁川広域市無形文化財、仁川地域で伝承されてきた水陸斎は49斎、百日斎、機材、潭斎、水陸斎、イェス斎、ペク·ジョンジェ、外王斎、山新斎、竜王齋、チョ·ワンジェ,シンジュンジェ,ジェソクジェなどがありすべての財を天道齋という。 仁川水陸斎の儀式が他の地域と異なる点はソリの部分だ。 他地域の音は5音を使う反面、仁川水陸斎は「干声」という音を添えて6つの音を出す。 また、儀式中に会心曲の音と歌詞が他の地域とは異なり、庶民と漁業に従事する漁師たちの哀歓を称える切実な音節が出ている。 これは海に出て魚を獲りながら漁師たちが悲しかったり、楽しい時に歌う歌の影響を受けたためであり、このような点が仁川地域の水陸斎に反映され、他の地域とは異なる特徴を見せている。",
+    "QA": [
+        {
+            "question": "仁川水陸斎は何のために行われますか？",
+            "answer": "仁川水陸斎は庶民と漁業に従事する漁師たちの哀歓を称える儀式です。"
+        },
+        {
+            "question": "仁川水陸斎の中で特徴的な音は何ですか？",
+            "answer": "仁川水陸斎では、他の地域とは異なり、「干声」という音を添えて6つの音を出します。"
+        },
+        {
+            "question": "仁川水陸斎の影響を受けた歌詞はどのような内容ですか？",
+            "answer": "仁川水陸斎の儀式中の会心曲の歌詞は、海に出て魚を獲りながら漁師たちが悲しかったり、楽しい時に歌う歌の影響を受けています。"
+        },
+        {
+            "question": "仁川水陸斎には何斎が含まれていますか？",
+            "answer": "仁川水陸斎には49斎、百日斎、機材、潭斎、水陸斎、イェス斎、ペク・ジョンジェ、外王斎、山新斎、竜王齋、チョ・ワンジェ、シンジュンジェ、ジェソクジェなどが含まれています。"
+        }
+    ],
+    "word_Count": {
+        "text": 250,
+        "QA": 218
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_014878",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2020-12-07",
+        "domain": "음식점",
+        "title": "ヨウカムジャタン( 여우감자탕 )"
+    },
+    "text": "ヨウカムジャタン( 여우감자탕 )\\n\nソウル特別市 ヨンドゥンポ区 ダンサンロ180\\n\n豚の背骨と各種野菜を辛く煮込んだスープです。ソウル特別市のヨンドゥンポ区に位置した韓食専門店です。代表的なメニューはカムジャタンです。",
+    "QA": [
+        {
+            "question": "この店の名前は何ですか？",
+            "answer": "ヨウカムジャタン( 여우감자탕 )"
+        },
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "ソウル特別市 ヨンドゥンポ区 ダンサンロ180"
+        },
+        {
+            "question": "この店の料理はどんなものがありますか？",
+            "answer": "豚の背骨と各種野菜を辛く煮込んだスープのカムジャタンが代表的なメニューです。"
+        },
+        {
+            "question": "カムジャタンとはどんな料理ですか？",
+            "answer": "豚の背骨と各種野菜を辛く煮込んだスープです。"
+        },
+        {
+            "question": "この店の所在地はどのように行けばいいですか？",
+            "answer": "ソウル特別市のヨンドゥンポ区に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 82,
+        "QA": 151
+    }
+}

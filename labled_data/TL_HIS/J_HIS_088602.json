@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_088602",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/view?relicId=178094",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2023-10-11",
+        "domain": "문화/역사관광",
+        "title": "암키와 조각"
+    },
+    "text": "平瓦の欠片 (암키와 조각)\\n\n,国籍/時代:'韓国 - 高麗' ,材質:'土 - 硬質' ,分類:'主生活 - 建築部材 - 屋根材 - 平瓦' ,大きさ:'現在の長さ18.8cm、幅11.0cm、厚さ2.0cm、現在の長さ17.8cm、幅8.6cm、厚さ1.7cm、現在の長さ16.8cm、幅10.6cm、厚さ1.8cm、現在の長さ12.2cm、幅11.5cm,厚さ2.1cm,現在の長さ12.7cm,幅9.4cm,厚さ1.5cm, 現在の長さ14.8cm、 幅13.8cm, 厚さ1.6cm'",
+    "QA": [
+        {
+            "question": "これらの平瓦は何で作られていますか？",
+            "answer": "これらの平瓦は硬質の土で作られています。"
+        },
+        {
+            "question": "平瓦はどのように使用されていましたか？",
+            "answer": "平瓦は主に屋根材として使用されていました。"
+        },
+        {
+            "question": "平瓦はどのような時代に使用されていましたか？",
+            "answer": "これらの平瓦は高麗時代に使用されていました。"
+        },
+        {
+            "question": "平瓦の大きさはどのくらいですか？",
+            "answer": "現在の長さ18.8cm、幅11.0cm、厚さ2.0cm、現在の長さ17.8cm、幅8.6cm、厚さ1.7cm、現在の長さ16.8cm、幅10.6cm、厚さ1.8cm、現在の長さ12.2cm、幅11.5cm、厚さ2.1cm、現在の長さ12.7cm、幅9.4cm、厚さ1.5cm、 現在の長さ14.8cm、 幅13.8cm、 厚さ1.6cmです。"
+        }
+    ],
+    "word_Count": {
+        "text": 183,
+        "QA": 226
+    }
+}

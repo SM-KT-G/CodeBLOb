@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_102762",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/view?relicId=50193",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2023-10-11",
+        "domain": "문화/역사관광",
+        "title": "주석덩이"
+    },
+    "text": "スズの塊 (주석덩이)\\n\n国籍/時代: 中国-元 材質: 金属 分類: 産業/生業 - 在来工業 - 素材 - 金属材 大きさ: 長さ22.3cm、幅3.6cm、穴径5.1cm ",
+    "QA": [
+        {
+            "question": "このスズの塊の材質は何ですか？",
+            "answer": "このスズの塊の材質は金属です。"
+        },
+        {
+            "question": "スズの塊の大きさはどのくらいですか？",
+            "answer": "スズの塊の大きさは長さ22.3cm、幅3.6cm、穴径5.1cmです。"
+        },
+        {
+            "question": "このスズの塊の国籍/時代はどこですか？",
+            "answer": "このスズの塊の国籍/時代は中国-元です。"
+        },
+        {
+            "question": "このスズの塊はどのように使用されましたか？",
+            "answer": "このスズの塊は在来工業の一環として素材として使用されました。"
+        }
+    ],
+    "word_Count": {
+        "text": 66,
+        "QA": 126
+    }
+}

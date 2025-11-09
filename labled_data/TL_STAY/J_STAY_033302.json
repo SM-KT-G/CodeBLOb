@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_033302",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://kr.hotels.com/ho2458548320/jeju-badauihyang-gipensyeon-seogwipo-hangug/?chkin=2023-11-14&chkout=2023-11-15&x_pwa=1&rfrr=HSR&pwa_ts=1698427151248&referrerUrl=aHR0cHM6Ly9rci5ob3RlbHMuY29tL0hvdGVsLVNlYXJjaA%3D%3D&useRewards=false&rm1=a2&regionId=6049718&destination=%EC%A0%9C%EC%A3%BC%EB%8F%84%2C+%EC%A0%9C%EC%A3%BC%2C+%ED%95%9C%EA%B5%AD&destType=MARKET&neighborhoodId=6349040&latLong=33.389705%2C126.558752&sort=RECOMMENDED&top_dp=58023&top_cur=KRW&userIntent=&selectedRoomType=316416061&selectedRatePlan=386001138&expediaPropertyId=76798385&searchId=239ba6ec-1192-437a-aa11-73cc2f2a81fa",
+        "collectedDate": "2023-11-15",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "제주 바다의향기 펜션"
+    },
+    "text": "西帰浦に位置する済州海の香りペンションは、リラックスして心地よい宿泊を楽しむことができる場所です。 提供される特典としては無料WiFiとセルフ駐車がございます。 ペンションは計7つの客室を保有しており、チェックインは午後3時から始まり、午後10時まで可能です。 チェックアウト時間は午前11時です。 新型コロナウイルス感染症に関する制限事項については、旅行前にご確認ください。 また、チェックインの際には付帯費用のためにクレジットカード、デビットカード、または現金保証金を用意する必要があり、政府発行の身分証明書に写真を添付する必要があります。 ペットは同伴できませんし、客室内では無料WiFiをご利用いただけます。",
+    "QA": [
+        {
+            "question": "このペンションは何時からチェックインが可能ですか？",
+            "answer": "チェックインは午後3時から始まります。"
+        },
+        {
+            "question": "チェックアウトの時間は何時ですか？",
+            "answer": "チェックアウトの時間は午前11時です。"
+        },
+        {
+            "question": "このペンションでは無料WiFiが提供されていますか？",
+            "answer": "はい、無料WiFiが提供されています。"
+        },
+        {
+            "question": "駐車場はありますか？",
+            "answer": "はい、セルフ駐車が可能です。"
+        },
+        {
+            "question": "ペットを連れて行くことはできますか？",
+            "answer": "申し訳ありませんが、ペットの同伴はできません。"
+        }
+    ],
+    "word_Count": {
+        "text": 225,
+        "QA": 139
+    }
+}

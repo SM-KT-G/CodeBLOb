@@ -1,0 +1,31 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_007345",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-02-18",
+        "domain": "음식점",
+        "title": "サングギネ（상국이네）"
+    },
+    "text": "サングギネ（상국이네）\\n\n釜山広域市 海雲台区 亀南路41番キル40-1\\n\n海雲台市場に位置する「サングギネ」は、もちもちとしたトッポッキ（米もち使用）と釜山練り天の真髄を味わうことができるお店です。",
+    "QA": [
+        {
+            "question": "サングギネはどこに位置していますか？",
+            "answer": "サングギネは釜山広域市海雲台区亀南路41番キル40-1に位置しています。"
+        },
+        {
+            "question": "サングギネではどんな料理を楽しむことができますか？",
+            "answer": "サングギネではもちもちとしたトッポッキ（米もち使用）と釜山練り天の真髄を楽しむことができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 74,
+        "QA": 92
+    }
+}

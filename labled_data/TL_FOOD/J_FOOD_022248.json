@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_022248",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/sanmaru-1",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "山すそ"
+    },
+    "text": "山すそ\\n\n忠清北道 堤川市 錦城面 清風湖路 909\\n\n様々な山菜のおかずを提供し、ヘルシーな食事を楽しめるところです。 忠淸北道のジェチョン市に位置した韓食専門店です。おすすめはコンドゥレナムルご飯です。",
+    "QA": [
+        {
+            "question": "この韓食専門店の場所はどこですか？",
+            "answer": "忠清北道のジェチョン市に位置しています。"
+        },
+        {
+            "question": "このお店ではどのような料理が提供されていますか？",
+            "answer": "様々な山菜のおかずを提供しており、ヘルシーな食事が楽しめます。特におすすめはコンドゥレナムルご飯です。"
+        },
+        {
+            "question": "この店の特徴は何ですか？",
+            "answer": "この店ではヘルシーな食事が楽しめるということが特徴です。"
+        }
+    ],
+    "word_Count": {
+        "text": 77,
+        "QA": 111
+    }
+}

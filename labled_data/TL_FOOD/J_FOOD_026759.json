@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_026759",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-10",
+        "domain": "음식점",
+        "title": "鐘路ユガネユッケピンデトク（종로유가네육회빈대떡）"
+    },
+    "text": "鐘路ユガネユッケピンデトク\\n\nソウル特別市 鐘路区 水標路 86\\n\n30年以上の伝統を持つお店です。ソウル特別市のジョンノ区に位置した韓国料理店です。おすすめはユッケです。",
+    "QA": [
+        {
+            "question": "このお店はどこにありますか？",
+            "answer": "ソウル特別市のジョンノ区の水標路86番地にあります。"
+        },
+        {
+            "question": "このお店の特徴は何ですか？",
+            "answer": "このお店は30年以上の伝統を持つ韓国料理店で、ユッケがおすすめです。"
+        },
+        {
+            "question": "ユッケ以外にもおすすめの料理はありますか？",
+            "answer": "ユッケ以外にも他のおすすめの料理がありますか？"
+        },
+        {
+            "question": "このお店の営業時間は何時から何時までですか？",
+            "answer": "お店の営業時間は不明です。"
+        },
+        {
+            "question": "このお店の電話番号は何ですか？",
+            "answer": "お店の電話番号は不明です。"
+        }
+    ],
+    "word_Count": {
+        "text": 64,
+        "QA": 142
+    }
+}

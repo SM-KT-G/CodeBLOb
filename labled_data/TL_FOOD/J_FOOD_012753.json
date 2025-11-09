@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_012753",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-03",
+        "domain": "음식점",
+        "title": "ブチェギル混ぜそば ( 부채길막국수 )"
+    },
+    "text": "ブチェギル混ぜそば ( 부채길막국수 )\\n\n江原道 ガンヌン市 ガンドン面 ホンファロ920-18\\n\nマッククスとゆで肉が一緒に食べられる店です。おすすめは混ぜそばです。江原道のガンヌン市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "このお店の場所はどこですか？",
+            "answer": "このお店は江原道のガンヌン市に位置しています。具体的な住所はホンファロ920-18です。"
+        },
+        {
+            "question": "このお店の名前は何ですか？",
+            "answer": "このお店の名前はブチェギル混ぜそば（부채길막국수）です。"
+        },
+        {
+            "question": "おすすめのメニューは何ですか？",
+            "answer": "おすすめは混ぜそばです。マッククスとゆで肉が一緒に食べられます。"
+        },
+        {
+            "question": "このお店はどんな料理を提供していますか？",
+            "answer": "このお店は韓食専門店です。混ぜそばをはじめ、他にも様々な韓国料理を提供しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 79,
+        "QA": 151
+    }
+}

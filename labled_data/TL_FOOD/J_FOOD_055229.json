@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_055229",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-01",
+        "domain": "음식점",
+        "title": "ジャントクデ ( 장독대 )"
+    },
+    "text": "ジャントクデ \n京畿道 平沢市 観光特区路 24\n様々な韓国料理をコースで楽しめるところです。代表的なメニューは麦熟成の干しイシモチ定食です。京畿道のピョンテク市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "このレストランの場所はどこですか？",
+            "answer": "京畿道の平沢市に位置しています。"
+        },
+        {
+            "question": "このレストランではどのような料理を楽しむことができますか？",
+            "answer": "様々な韓国料理をコースで楽しむことができます。代表的なメニューは麦熟成の干しイシモチ定食です。"
+        },
+        {
+            "question": "このレストランは何を専門としていますか？",
+            "answer": "このレストランは韓食を専門としています。"
+        },
+        {
+            "question": "このレストランはどの市に位置していますか？",
+            "answer": "このレストランは京畿道のピョンテク市に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 68,
+        "QA": 144
+    }
+}

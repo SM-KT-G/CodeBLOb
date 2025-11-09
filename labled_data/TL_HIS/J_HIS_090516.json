@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_090516",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ja",
+        "translator": null,
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101971",
+        "collectedDate": "2023-09-07",
+        "publishedDate": "2021-11-22",
+        "domain": "문화/역사관광",
+        "title": "影閣"
+    },
+    "text": "影閣\n影閣  影閣は、通度寺の歴代住職僧侶をはじめとする大僧侶の真影を奉安した建物です。 影閣では、慈蔵律師をはじめとする80点余りの高僧真影を祀っていますが、真影とは人物の外見だけではなく、精神世界まで表現した肖像画を意味します。",
+    "QA": [
+        {
+            "question": "影閣は何を祀っていますか？",
+            "answer": " 影閣では、慈蔵律師をはじめとする80点余りの高僧真影を祀っています。"
+        },
+        {
+            "question": "影閣では何の意味を持つ真影を祀っていますか？",
+            "answer": " 真影とは人物の外見だけではなく、精神世界まで表現した肖像画を意味します。"
+        },
+        {
+            "question": "影閣に祀られている大僧侶にはどのような人物が含まれていますか？",
+            "answer": " 影閣では、通度寺の歴代住職僧侶をはじめとする大僧侶の真影を奉安しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 85,
+        "QA": 129
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_032748",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=425&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=00660000&ccbaCtcd=22&ccbaCpno=2112200660000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2013-10-30",
+        "domain": "문화/역사관광",
+        "title": "태을산분정아국주군분야도"
+    },
+    "text": "太乙算分定我国州郡分野図 (태을산분정아국주군분야도)\\n\n大邱広域市中区公平路10ギル25(東仁洞二街)\\n\n大邱広域市有形文化財、この古文書はイ·ギジョンが1850年に作成した天文図で、内容は4つの部分で構成されている。 まず、28数(宿/空の赤道に沿ってその南北にある星を28個の区域に区分して呼んだ名前)に対する星守別として星座の形(星象図)が描かれており、各度数を下に付記した。 次に28数に基づき、昔の中国諸葛亮の天下分野図を度数別と表記している。 そして忠武公李舜臣が分定した韓国の州郡の分野図を各数によって表示した。最後に、昏中図を二十四節気別に区分して作成した。 この太乙算分定我国州郡分野図は、28首と関連して中国と韓国の分野図を表記した天文資料として重要な学術的価値がある。",
+    "QA": [
+        {
+            "question": "この古文書は誰が作成しましたか？",
+            "answer": "イ・ギジョンが1850年に作成しました。"
+        },
+        {
+            "question": "この古文書は何を表していますか？",
+            "answer": "この古文書は星座の形、昔の中国の天下分野図、韓国の州郡の分野図、昏中図などを表しています。"
+        },
+        {
+            "question": "この古文書はどのような学術的価値がありますか？",
+            "answer": "この古文書は28首と関連して中国と韓国の分野図を表記した天文資料として重要な学術的価値があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 255,
+        "QA": 123
+    }
+}

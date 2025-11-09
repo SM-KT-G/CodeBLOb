@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_057731",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/gaerong-golmok-naengmyeon",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "開籠路地冷麺"
+    },
+    "text": "開籠路地冷麺\\n\nソウル 松坡区 オグムロ 44gaギル 8, 1階\\n\n\"冷麺、ビビンバ、とんかつ、ジャンクッパ（季節限定メニュー） 3代で食事を楽しめるお店です。\"",
+    "QA": [
+        {
+            "question": "このお店の名前は何ですか？",
+            "answer": "開籠路地冷麺"
+        },
+        {
+            "question": "このお店の場所はどこですか？",
+            "answer": "ソウル 松坡区 オグムロ 44gaギル 8, 1階"
+        },
+        {
+            "question": "このお店ではどんな料理が食べられますか？",
+            "answer": "冷麺、ビビンバ、とんかつ、ジャンクッパ（季節限定メニュー）"
+        },
+        {
+            "question": "このお店は何代目の経営ですか？",
+            "answer": "3代"
+        },
+        {
+            "question": "このお店はどんな雰囲気ですか？",
+            "answer": "食事を楽しめるお店です"
+        }
+    ],
+    "word_Count": {
+        "text": 61,
+        "QA": 110
+    }
+}

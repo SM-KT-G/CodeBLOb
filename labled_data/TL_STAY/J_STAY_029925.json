@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_029925",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42041&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "광주 호텔 벤틀리관광호텔 충장로점"
+    },
+    "text": "忠壮路の繁華街は歩いて4分、良林洞ペンギン村は歩いて10分、社稷公園と屋台村は歩いて13分、朝鮮大学ローズガーデンはホテルの近くに位置しています。 また、ホテルから約5キロ離れたところには無等山国立公園があり、登山を楽しむことができます。 軽い服装でも登山ができますので、お楽しみください。",
+    "QA": [
+        {
+            "question": "忠壮路の繁華街はどれくらいの距離ですか？",
+            "answer": "歩いて4分です。"
+        },
+        {
+            "question": "良林洞ペンギン村まで歩いてどれくらいかかりますか？",
+            "answer": "歩いて10分です。"
+        },
+        {
+            "question": "社稷公園と屋台村はどれくらいの距離ですか？",
+            "answer": "歩いて13分です。"
+        },
+        {
+            "question": "朝鮮大学ローズガーデンはホテルからどのくらいの距離ですか？",
+            "answer": "ホテルの近くに位置しています。"
+        },
+        {
+            "question": "ホテルから無等山国立公園までの距離はどれくらいですか？",
+            "answer": "約5キロ離れています。"
+        },
+        {
+            "question": "無等山国立公園では何ができますか？",
+            "answer": "登山を楽しむことができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 106,
+        "QA": 150
+    }
+}

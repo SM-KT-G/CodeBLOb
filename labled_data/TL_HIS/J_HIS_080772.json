@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_080772",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=244&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=13&ccbaAsno=02130000&ccbaCtcd=11&ccbaCpno=1331102130000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1970-10-29",
+        "domain": "문화/역사관광",
+        "title": "서울 우정총국"
+    },
+    "text": "ソウル郵政総局\\n\nソウル特別市鍾路区郵政局路59(堅志洞、郵政総局)\\n\n朝鮮時代の高宗、私的、朝鮮末期の郵便業務を担当していた官庁に1884年に設置され、同年10月に初めて郵便業務を始めたところだ。当時、郵便業務は中央に郵政総局を置いて地方に郵政局をおく仕組みの体系を整えていたが、甲申政変の失敗で郵政総局は閉鎖された。以降1893年に戦友総局だという名前で郵便業務は再び続いて、コンムアムンヨクチェグク、農商工部の勉強通信部、通信員などでありつづけた。前面5間・側面3間規模の屋根横顔が八(八部)字形の入母屋屋根の建物だ。現在は郵政記念館として使われており、記念館機能によって一部を変えて、昔の姿をちゃんと保管していることはできない。記念館内には切手と文献、遺物が保存されている。この建物は初めて近代式郵便制度を導入して国内・海外郵便事務を開始した由緒深いところにその意義が大きく、郵政総局ゲグクシクを機に、開化派が甲申政変を起こした場所として歴史的価値の高いところだ。",
+    "QA": [
+        {
+            "question": "この建物の所在地はどこですか？",
+            "answer": "ソウル特別市鍾路区郵政局路59に位置しています。"
+        },
+        {
+            "question": "この建物はいつ設置されましたか？",
+            "answer": "この建物は1884年に設置されました。"
+        },
+        {
+            "question": "なぜこの建物は閉鎖されたのですか？",
+            "answer": "甲申政変の失敗により、郵政総局は閉鎖されました。"
+        },
+        {
+            "question": "この建物はどのような機能を持っていますか？",
+            "answer": "現在は郵政記念館として使われており、切手や文献、遺物が保存されています。"
+        },
+        {
+            "question": "なぜこの建物は歴史的価値が高いと言われていますか？",
+            "answer": "この建物は近代式郵便制度を導入し、国内・海外郵便事務を開始した由緒深い場所であり、開化派が甲申政変を起こした場所として歴史的価値が高いです。"
+        }
+    ],
+    "word_Count": {
+        "text": 321,
+        "QA": 195
+    }
+}

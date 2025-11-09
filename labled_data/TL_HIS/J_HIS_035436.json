@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_035436",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=351&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=18&ccbaAsno=01540000&ccbaCtcd=36&ccbaCpno=1483601540000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1984-01-14",
+        "domain": "문화/역사관광",
+        "title": "화순 학재고택"
+    },
+    "text": "和順鶴斎古宅 (화순 학재고택)\\n\n全羅南道和順郡道谷面タルシルギル26(月谷里)\\n\n朝鮮時代 , 国家民俗文化財 , 19世紀中頃に建てた家だが、元々は西側のヤン·ジェグク氏の家と同じ家で母屋とサランチェの関係だったという。 今は両家の建物を合わせても初めて建てた当時の姿とは言い難い。 ここは母屋とはいえ、本来の姿から変わったようだ。 現在は左右に翼がついた構造で、普通中部地方では翼を胴体から突き出すのに比べ、ここでは翼を胴体に付けた。 南道方式で右側の翼に2間台所と台所部屋を置き、その横に2間の大きな部屋と後ろに小部屋がある。 広間の前には縁側があり、その横に2間の大きな板の間がある。 左翼には2間の板の間と部屋があり、板の間の前と縁側の前には縁側がある。 大門間棟は「一」字型に6間あり、20世紀中頃に建てられたように見える。※ 上記の文化財は一般的に観覧が可能ですが、所有者などの個人的な事情により観覧が制限されることもあります。",
+    "QA": [
+        {
+            "question": "この建物はどの時代に建てられましたか？",
+            "answer": "この建物は朝鮮時代に建てられました。"
+        },
+        {
+            "question": "この建物はどのような関係でしたか？",
+            "answer": "元々は西側のヤン・ジェグク氏の家と同じ家で、母屋とサランチェの関係でした。"
+        },
+        {
+            "question": "建物の構造はどのように変わりましたか？",
+            "answer": "現在は左右に翼がついた構造で、普通中部地方では翼を胴体から突き出すのに比べ、ここでは翼を胴体に付けられています。"
+        },
+        {
+            "question": "建物の中にはどのような部屋がありますか？",
+            "answer": "右側の翼には2間台所と台所部屋があり、その横に2間の大きな部屋と後ろに小部屋があります。左翼には2間の板の間と部屋があり、板の間の前と縁側の前には縁側があります。"
+        },
+        {
+            "question": "大門間棟はいつ建てられましたか？",
+            "answer": "大門間棟は20世紀中頃に建てられたように見えます。"
+        }
+    ],
+    "word_Count": {
+        "text": 311,
+        "QA": 225
+    }
+}

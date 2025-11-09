@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_005996",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42001&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "호텔 스테이 인"
+    },
+    "text": "ソウル駅から徒歩5分の距離に位置するジャブホテルで、2015年4月にグランドオープンしました。 当ホテルはすっきりとしたコンディションの客室を誇り、プレミアム寝具を使用して恋人にはもちろんのこと、お客様にも安らかな休息を提供しています。",
+    "QA": [
+        {
+            "question": "ジャブホテルはどのような特徴がありますか？",
+            "answer": "ジャブホテルはソウル駅から徒歩5分の距離に位置し、すっきりとした客室とプレミアム寝具が特徴です。"
+        },
+        {
+            "question": "ジャブホテルのオープン日はいつですか？",
+            "answer": "ジャブホテルは2015年4月にグランドオープンしました。"
+        },
+        {
+            "question": "ジャブホテルはどのようなお客様に向けていますか？",
+            "answer": "ジャブホテルは恋人にはもちろんのこと、どなたにも安らかな休息を提供しています。"
+        },
+        {
+            "question": "ジャブホテルの位置はどこですか？",
+            "answer": "ジャブホテルはソウル駅から徒歩5分の距離に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 86,
+        "QA": 164
+    }
+}

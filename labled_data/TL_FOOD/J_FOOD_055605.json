@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_055605",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/mujinjang-kkorigomtang",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "ムジンジャン牛テールのコムタン"
+    },
+    "text": "ムジンジャン牛テールのコムタン\\n\n全羅南道 モクポ市 ビパロ7\\n\n30年以上の歴史のあるコムタン専門店です。代表的なメニューは牛テールのコムタンです。全羅南道のモクポ市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "このコムタン専門店の場所はどこですか？",
+            "answer": "このコムタン専門店は全羅南道のモクポ市に位置しています。"
+        },
+        {
+            "question": "この店の歴史はどのくらいありますか？",
+            "answer": "この店は30年以上の歴史があります。"
+        },
+        {
+            "question": "この店の代表的なメニューは何ですか？",
+            "answer": "この店の代表的なメニューは牛テールのコムタンです。"
+        }
+    ],
+    "word_Count": {
+        "text": 72,
+        "QA": 92
+    }
+}

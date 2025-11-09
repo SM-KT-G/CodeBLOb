@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_074226",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/tour/buncheon-station-1",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "汾川駅（분천역）"
+    },
+    "text": "汾川駅（분천역）\\n\n慶尚北道 奉化郡 小川面 汾川キル 49\\n\n慶尚北道（キョンサンプクド）奉化郡（ポンファグン）小川面（ソチョンミョン）汾川里（プンチョルリ）は人口およそ200人の田舎の村。 村の中心にある汾川（プンチョン）駅は白頭大幹峡谷列車（V-Train）の停車駅となって以来、多くの旅行客が訪れる駅となりました。",
+    "QA": [
+        {
+            "question": "汾川駅はどの県にありますか？",
+            "answer": "汾川駅は慶尚北道に位置しています。"
+        },
+        {
+            "question": "汾川駅周辺の地名は何ですか？",
+            "answer": "汾川駅は奉化郡小川面汾川キルにあります。"
+        },
+        {
+            "question": "汾川駅周辺の人口はどのくらいですか？",
+            "answer": "汾川駅周辺の人口はおよそ200人です。"
+        },
+        {
+            "question": "汾川駅はどの列車の停車駅ですか？",
+            "answer": "汾川駅は白頭大幹峡谷列車（V-Train）の停車駅です。"
+        },
+        {
+            "question": "汾川駅は旅行客が多いですか？",
+            "answer": "白頭大幹峡谷列車の停車駅として、汾川駅には多くの旅行客が訪れます。"
+        }
+    ],
+    "word_Count": {
+        "text": 119,
+        "QA": 141
+    }
+}

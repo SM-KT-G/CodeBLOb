@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_022447",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-08-27",
+        "domain": "음식점",
+        "title": "三兄弟チュクミ 大学路 ( 삼형제쭈꾸미 대학로 )"
+    },
+    "text": "三兄弟チュクミ 大学路 ( 삼형제쭈꾸미 대학로 )\\n\nソウル特別市 鐘路区 東崇キル 68\\n\nグルメ番組で紹介されたイイダコのおいしい名店です。おすすめはサムギョプサルです。ソウル特別市のジョンノ区に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "チュクミ 大学路はどこに位置していますか？",
+            "answer": "ソウル特別市 鐘路区 東崇キル 68に位置しています。"
+        },
+        {
+            "question": "チュクミ 大学路でおすすめのメニューは何ですか？",
+            "answer": "おすすめはサムギョプサルです。"
+        },
+        {
+            "question": "ソウル特別市のジョンノ区に位置しているのはなぜですか？",
+            "answer": "チュクミ 大学路は韓食専門店であり、ジョンノ区はソウル特別市内でも韓食の名店が集まっているエリアなので、その地域に位置しています。"
+        },
+        {
+            "question": "チュクミ 大学路はどのような店ですか？",
+            "answer": "チュクミ 大学路は韓食専門店で、特にイイダコがおいしいと評判のお店です。サムギョプサルもおすすめです。"
+        }
+    ],
+    "word_Count": {
+        "text": 84,
+        "QA": 182
+    }
+}

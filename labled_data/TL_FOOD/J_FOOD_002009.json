@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_002009",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "PIZZA MOM 下塘 ( 피자맘 하당 )"
+    },
+    "text": "PIZZA MOM 下塘 ( 피자맘 하당 )\\n\n全羅南道 モクポ市 ベクニョンデロ279ボンギル5\\n\nリーズナブルなピザセットメニューで構成されています。おすすめはピザです。全羅南道のモクポ市に位置した洋食専門店です。",
+    "QA": [
+        {
+            "question": "ピザママ下塘はどこに位置していますか？",
+            "answer": "ピザママ下塘は、韓国の全羅南道モクポ市に位置しています。"
+        },
+        {
+            "question": "ピザママ下塘のメニューはどのようなものですか？",
+            "answer": "ピザママ下塘のメニューは、リーズナブルなピザセットメニューで構成されています。"
+        },
+        {
+            "question": "ピザママ下塘のおすすめは何ですか？",
+            "answer": "ピザママ下塘のおすすめはピザです。"
+        },
+        {
+            "question": "ピザママ下塘はどんな料理を提供していますか？",
+            "answer": "ピザママ下塘は洋食専門店であり、ピザを中心に提供しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 82,
+        "QA": 143
+    }
+}

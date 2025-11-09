@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_029874",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/salam",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "サラーム"
+    },
+    "text": "サラーム\\n\nソウル特別市 龍山区 雩祀壇10キル 39\\n\nソウル龍山区梨泰院のモスクの横に位置しています。トルコの伝統料理ケバブ（牛肉、マトンなどの串焼き）、野菜を添えたマトン料理などが楽しめます。",
+    "QA": [
+        {
+            "question": "このレストランの場所はどこですか？",
+            "answer": "ソウル特別市 龍山区 雩祀壇10キル 39に位置しています。"
+        },
+        {
+            "question": "このレストランの隣にあるものは何ですか？",
+            "answer": "モスクが隣にあります。"
+        },
+        {
+            "question": "このレストランではどんな料理が楽しめますか？",
+            "answer": "ケバブ（牛肉、マトンなどの串焼き）や野菜を添えたマトン料理など、トルコの伝統料理が楽しめます。"
+        }
+    ],
+    "word_Count": {
+        "text": 74,
+        "QA": 107
+    }
+}

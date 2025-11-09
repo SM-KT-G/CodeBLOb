@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_026603",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "済州美港 ( 제주미항 )"
+    },
+    "text": "済州美港 ( 제주미항 )\\n\nソウル特別市 中区 明洞キル 30-1\\n\n済州島で有名な材料を使った料理が味わえるお店です。 代表的なメニューは太刀魚の煮付けです。ソウル特別市の中区に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "済州美港（제주미항）はどこに位置していますか？",
+            "answer": "済州美港はソウル特別市中区の明洞キル30-1に位置しています。"
+        },
+        {
+            "question": "済州美港の代表的なメニューは何ですか？",
+            "answer": "済州美港の代表的なメニューは太刀魚の煮付けです。"
+        },
+        {
+            "question": "済州美港は何を使った料理が味わえるお店ですか？",
+            "answer": "済州美港では済州島で有名な材料を使った料理が味わえます。"
+        }
+    ],
+    "word_Count": {
+        "text": 77,
+        "QA": 108
+    }
+}

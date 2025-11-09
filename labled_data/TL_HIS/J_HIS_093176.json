@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_093176",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/collectionList#######",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2023-10-11",
+        "domain": "문화/역사관광",
+        "title": "우: 계산허정도, 좌: 계산기려도"
+    },
+    "text": "右:計算許容度、左:計算称えても (우: 계산허정도, 좌: 계산기려도)\\n\n国籍/時代: 韓国-朝鮮 材質: 紙・その他 作家: カン・セファン(1713-1791) 分類: 文化芸術・書画・絵画・一般絵画 大きさ: 縦 590cm、横 339cm、縦 853cm、横 475cm、厚さ 25cm、縦 587cm、横 330cm、縦 855cm、横 475cm、厚さ 25cm",
+    "QA": [
+        {
+            "question": "この絵画の作者は誰ですか？",
+            "answer": "カン・セファン(1713-1791) が作者です。"
+        },
+        {
+            "question": "絵画の大きさはどのくらいですか？",
+            "answer": "縦 590cm、横 339cm、縦 853cm、横 475cm、厚さ 25cm、縦 587cm、横 330cm、縦 855cm、横 475cm、厚さ 25cm です。"
+        },
+        {
+            "question": "この絵画の国籍/時代はどこですか？",
+            "answer": "韓国-朝鮮 です。"
+        },
+        {
+            "question": "絵画の材質は何ですか？",
+            "answer": "紙・その他 です。"
+        },
+        {
+            "question": "何を描いた絵画ですか？",
+            "answer": "右:計算許容度、左:計算称えても という絵画です。"
+        }
+    ],
+    "word_Count": {
+        "text": 139,
+        "QA": 160
+    }
+}

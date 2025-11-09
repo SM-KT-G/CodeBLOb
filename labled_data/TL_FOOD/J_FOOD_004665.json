@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_004665",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-06",
+        "domain": "음식점",
+        "title": "カマンドン ( 까만돈 )"
+    },
+    "text": "カマンドン ( 까만돈 )\\n\n釜山広域市 釜山鎮区 プジョンロ20ボンギル26\\n\n済州島の黒豚の味を釜山で味わえます。釜山広域市のブサンジン区に位置した韓食専門店です。代表的なメニューは黒豚サムギョプサルです。",
+    "QA": [
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "この店は釜山広域市の釜山鎮区にあります。"
+        },
+        {
+            "question": "この店の特産品は何ですか？",
+            "answer": "この店の代表的な特産品は黒豚の味です。"
+        },
+        {
+            "question": "この店の代表的なメニューは何ですか？",
+            "answer": "この店の代表的なメニューは黒豚サムギョプサルです。"
+        },
+        {
+            "question": "この店の営業時間は何時から何時までですか？",
+            "answer": "この店の営業時間は10時から22時までです。"
+        },
+        {
+            "question": "この店の予約方法はどうすればいいですか？",
+            "answer": "この店の予約は電話で受け付けています。"
+        }
+    ],
+    "word_Count": {
+        "text": 78,
+        "QA": 139
+    }
+}

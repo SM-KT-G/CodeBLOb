@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_020596",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=567&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=02680000&ccbaCtcd=37&ccbaCpno=2113702680000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1992-07-18",
+        "domain": "문화/역사관광",
+        "title": "삼괴정"
+    },
+    "text": "三塊亭 (삼괴정)\\n\n慶尚北道慶州市江東面サムゲジョンギル14-19(茶山里)\\n\n慶尚北道有形文化財 , この建物は壬辰倭乱の時、慶州地域で義兵を起こして功績を立てた東湖のイ·バンリン、1574~1624と弟のユリン、光琳三兄弟を追慕するために朝鮮純祖15年1815に建てた亭子だ。 イ·バンリンは壬辰倭乱の時、慶州判官パク·キ長、義兵長クォン·ウンスなどと共に永川城戦闘に参加し、飛撃震天雷を使って慶州城回復の功績を立てた。 そして慶州の鷄淵戦闘にも功を立て、安東大都護府判官兼府使を務めた。 真ん中に3間の床を敷いて両側にオンドル部屋を置き、真ん中の間の後方の必敬斎はイ·バンリンを、左側の花樹堂と右側の包竹軒は2人の弟を称えるためのものだという。 裏山を背景に、正南に向かうように場所を定めた。 地面の形に順応して基壇を築いた後、屋根裏部屋を飾った独特の構造をしている。",
+    "QA": [
+        {
+            "question": "三塊亭はどこにありますか？",
+            "answer": "三塊亭は慶尚北道慶州市江東面に位置しています。"
+        },
+        {
+            "question": "三塊亭は何のために建てられましたか？",
+            "answer": "三塊亭は、壬辰倭乱の時に義兵を起こして功績を立てたイ·バンリンと弟たちを追慕するために建てられました。"
+        },
+        {
+            "question": "イ·バンリンはどのような功績を残しましたか？",
+            "answer": "イ·バンリンは壬辰倭乱の時に慶州城回復の功績を立て、また慶州の鷄淵戦闘にも功を立てました。彼は安東大都護府判官兼府使も務めました。"
+        },
+        {
+            "question": "三塊亭の建物の特徴は何ですか？",
+            "answer": "三塊亭の建物は、中央に3間の床を敷いて両側にオンドル部屋を置いた構造をしています。必敬斎はイ·バンリンを、花樹堂と包竹軒は2人の弟を称えるために設けられました。"
+        }
+    ],
+    "word_Count": {
+        "text": 286,
+        "QA": 210
+    }
+}

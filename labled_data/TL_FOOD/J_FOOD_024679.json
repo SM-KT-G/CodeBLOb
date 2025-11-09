@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_024679",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "五福花園 ( 오복가든 )"
+    },
+    "text": "五福花園 ( 오복가든 )\n慶尚北道 安東市 知豊路 1481\n10種類のおかずが味わえる伝統韓国料理店です。代表的なメニューは定食です。慶尚北道のアンドン市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "五福花園（오복가든）はどこに位置していますか？",
+            "answer": "五福花園（오복가든）は慶尚北道安東市知豊路1481に位置しています。"
+        },
+        {
+            "question": "五福花園（오복가든）はどのようなお店ですか？",
+            "answer": "五福花園（오복가든）は伝統的な韓国料理店で、10種類のおかずが味わえるお店です。代表的なメニューは定食です。"
+        },
+        {
+            "question": "五福花園（오복가든）の特徴は何ですか？",
+            "answer": "五福花園（오복가든）の特徴は、慶尚北道のアンドン市に位置しており、伝統的な韓国料理を提供していることです。"
+        }
+    ],
+    "word_Count": {
+        "text": 67,
+        "QA": 150
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_098822",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/collectionList#######",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2023-10-11",
+        "domain": "문화/역사관광",
+        "title": "잡자류편"
+    },
+    "text": "雑者類編 (잡자류편)\\n\n1824年に柴小輔が編集した一種の実用辞典で、所蔵本は1876年に撮り直されました。左側の本の表紙の裏には蔵板記が載っており、巻頭には序文が掲載されています。右側の本の裏表紙の裏には板巻記が記載されています。 この辞典は、日本の近代において作られ、紙を材料としています。作家は柴小輔編集であり、分類は文化芸術の一環である文献に分類されます。大きさは縦224cm、横157cmとなっています。",
+    "QA": [
+        {
+            "question": "この辞典の編集者は誰ですか？",
+            "answer": "柴小輔が編集しました。"
+        },
+        {
+            "question": "辞典の大きさはどのくらいですか？",
+            "answer": "縦224cm、横157cmです。"
+        },
+        {
+            "question": "辞典の分類は何ですか？",
+            "answer": "文化芸術の一環である文献に分類されます。"
+        },
+        {
+            "question": "辞典の材料は何ですか？",
+            "answer": "紙を材料としています。"
+        },
+        {
+            "question": "辞典はいつ作られましたか？",
+            "answer": "1824年に作られました。"
+        }
+    ],
+    "word_Count": {
+        "text": 153,
+        "QA": 99
+    }
+}

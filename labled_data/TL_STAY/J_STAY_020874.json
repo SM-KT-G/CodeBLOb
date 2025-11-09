@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_020874",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42020&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "통영 세안레지던스펜션"
+    },
+    "text": "都心の中にあるペンションで美しいビューはありませんが、統営の観光地及びグルメとの距離が近いため、便利でゆったりとした旅行ができます。 すっきりとした新築インテリアとマイホームのような快適さで統営旅行にプラスになります。 22時以降に入室される場合、ペンションまで予めご連絡ください。",
+    "QA": [
+        {
+            "question": "このペンションの場所はどこですか？",
+            "answer": "ペンションは都心にあります。"
+        },
+        {
+            "question": "このペンションのビューはどんな感じですか？",
+            "answer": "美しいビューはありませんが、統営の観光地及びグルメとの距離が近いです。"
+        },
+        {
+            "question": "このペンションは新築ですか？",
+            "answer": "はい、すっきりとした新築インテリアです。"
+        },
+        {
+            "question": "統営の観光地やグルメにアクセスしやすいですか？",
+            "answer": "はい、統営の観光地及びグルメとの距離が近いため、便利な立地です。"
+        },
+        {
+            "question": "遅い時間に入室する場合はどうしたらいいですか？",
+            "answer": "22時以降に入室する場合は、事前にペンションまでご連絡ください。"
+        }
+    ],
+    "word_Count": {
+        "text": 103,
+        "QA": 169
+    }
+}

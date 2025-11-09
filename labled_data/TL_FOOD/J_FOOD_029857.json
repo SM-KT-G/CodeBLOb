@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_029857",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/daetonglyeong",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "サムギョプサル專門店 大統領"
+    },
+    "text": "サムギョプサル專門店 大統領\\n\nソウル特別市 中区 奨忠壇路 249-24\\n\n韓国式BBQ専門店です。おすすめはサムギョプサルです。ソウル特別市のトンデムンに位置したバーベキュー専門店です。",
+    "QA": [
+        {
+            "question": "この店の名前は何ですか？",
+            "answer": "この店の名前は「大統領」です。"
+        },
+        {
+            "question": "この店はどこにありますか？",
+            "answer": "この店はソウル特別市中区奨忠壇路249-24に位置しています。"
+        },
+        {
+            "question": "この店のおすすめ料理は何ですか？",
+            "answer": "この店のおすすめは「サムギョプサル」です。"
+        },
+        {
+            "question": "この店は何を専門としていますか？",
+            "answer": "この店は韓国式BBQを専門としています。"
+        },
+        {
+            "question": "この店の場所はどうですか？",
+            "answer": "この店はソウル特別市のトンデムンに位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 71,
+        "QA": 133
+    }
+}

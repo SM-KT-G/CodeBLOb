@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_005131",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "グォンマグロ ( 권참치 )"
+    },
+    "text": "グォンマグロ ( 권참치 )\nソウル特別市 銅雀区 舎堂路30キル 142\n様々な部位のマグロの刺身を提供する店です。ソウル特別市のドンジャク区に位置した和食専門店です。代表的なメニューはマグロの刺身です。",
+    "QA": [
+        {
+            "question": "この店はどこに位置していますか？",
+            "answer": "この店はソウル特別市のドンジャク区に位置しています。"
+        },
+        {
+            "question": "この店の代表的なメニューは何ですか？",
+            "answer": "この店の代表的なメニューはマグロの刺身です。"
+        },
+        {
+            "question": "この店で提供されるマグロの部位は何種類ありますか？",
+            "answer": "この店では様々な部位のマグロの刺身を提供しています。"
+        },
+        {
+            "question": "この店の住所は何ですか？",
+            "answer": "この店の住所はソウル特別市銅雀区舎堂路30キル 142です。"
+        },
+        {
+            "question": "この店は和食専門店ですか？",
+            "answer": "はい、この店は和食専門店です。"
+        }
+    ],
+    "word_Count": {
+        "text": 75,
+        "QA": 148
+    }
+}

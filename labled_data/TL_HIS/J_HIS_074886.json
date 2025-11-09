@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_074886",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=16&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=11&ccbaAsno=01780000&ccbaCtcd=11&ccbaCpno=1111101780000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1974-07-09",
+        "domain": "문화/역사관광",
+        "title": "분청사기 음각어문 편병"
+    },
+    "text": "朝鮮時代(16世紀)には国宝に指定された多くの粉青沙器がありました。この中には朝鮮時代前期に製作された平瓶もその一つです。この粉青沙器の扁瓶は下部が前・後、両面に平たい扁平な形を持っており、大きさは高さ22.6センチ、口直径4.5センチ、ミッジルム8.7センチです。この平瓶は白土の上に調和手口で文様を描き、釉薬を塗って華やかな青色を帯びています。の表・裏面と側面には、お互いに他の模様と二匹の魚が描かれています。魚を描く技法は粉青沙器の特徴の一つに、白土の上に線で陰刻の模様を入れて、白土を取り除いて白い線になった文様を作る調和手法で表現されました。扁甁の量の横面は三つの部分に分かれており、上記の中間部分には4葉牡丹の文様が刻まれています。下の部分には芭蕉が仕込まれていてさらに独特な印象を与えています。また、土台の土は灰青色で、白土粉粧になった部分とまだ扮装ができなかった部分との対照が鮮明になっています。",
+    "QA": [
+        {
+            "question": "この平瓶は何世紀に作られましたか？",
+            "answer": "この平瓶は朝鮮時代前期に作られました。"
+        },
+        {
+            "question": "この平瓶の大きさはどれくらいですか？",
+            "answer": "この平瓶の大きさは高さ22.6センチ、口直径4.5センチ、ミッジルム8.7センチです。"
+        },
+        {
+            "question": "この平瓶に描かれている魚は何匹いますか？",
+            "answer": "この平瓶にはお互いに他の模様と二匹の魚が描かれています。"
+        },
+        {
+            "question": "粉青沙器の特徴的な技法は何ですか？",
+            "answer": "粉青沙器の特徴的な技法は、白土の上に線で陰刻の模様を入れて、白土を取り除いて白い線になった文様を作る調和手法です。"
+        },
+        {
+            "question": "この平瓶の土台の色はどんな色ですか？",
+            "answer": "この平瓶の土台の色は灰青色です。"
+        }
+    ],
+    "word_Count": {
+        "text": 297,
+        "QA": 185
+    }
+}

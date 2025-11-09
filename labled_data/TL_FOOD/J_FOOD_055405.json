@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_055405",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/doenjangbagi-jinseongjip",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "テンジャンバギジンソンジプ"
+    },
+    "text": "テンジャンバギジンソンジプ\\n\n京畿道 平沢市 チョゲト路26ボンキル 20\\n\nテンジャン(韓国味噌)ダレのサムギョプサルを味わえるところです。京畿道のピョンテク市に位置した韓食専門店です。代表的なメニューはテンジャンサムギョプサルです。",
+    "QA": [
+        {
+            "question": "このレストランはどこにありますか？",
+            "answer": "このレストランは京畿道平沢市にあります。"
+        },
+        {
+            "question": "このレストランで何が味わえますか？",
+            "answer": "このレストランではテンジャンサムギョプサルを味わうことができます。"
+        },
+        {
+            "question": "テンジャンは何ですか？",
+            "answer": "テンジャンは韓国の味噌です。"
+        },
+        {
+            "question": "このレストランの特徴的なメニューは何ですか？",
+            "answer": "このレストランの代表的なメニューはテンジャンサムギョプサルです。"
+        },
+        {
+            "question": "このレストランが位置する市の名前は何ですか？",
+            "answer": "このレストランは京畿道平沢市に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 88,
+        "QA": 154
+    }
+}

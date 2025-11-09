@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_101485",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=441&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=00850000&ccbaCtcd=33&ccbaCpno=2113300850000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1981-05-01",
+        "domain": "문화/역사관광",
+        "title": "제천 후산리 고가"
+    },
+    "text": "堤川後山里高架\\n\n忠清北道堤川市清風面清風湖路2048(ムルテリ)\\n\n朝鮮時代、忠清北道有形文化財、清風フサン裏にいた古い家で、今は鉤状の母屋しか残っていないが、一般的な例から見て、中庭の前にサランチェがあったものと見られる。部屋の方の屋根の側面が八(八部)字形の入母屋屋根で、台所の方は人の教わる字形の簡潔な切妻屋根となっており、長い間のされた様式を示している。中部地方の普遍的な民家の類型を受けており、ホームの後ろに収納空間であるウッバンを置いた点と大青(テチョン)の片隅にサンジェリェを向けた先祖を置いた点が特徴だ。",
+    "QA": [
+        {
+            "question": "この家の建築年はいつですか？",
+            "answer": "この家は朝鮮時代に建てられました。"
+        },
+        {
+            "question": "この家の場所はどこですか？",
+            "answer": "この家は忠清北道堤川市清風面清風湖路2048に位置しています。"
+        },
+        {
+            "question": "この家の特徴的な屋根の形は何ですか？",
+            "answer": "この家の母屋の屋根は八(八部)字形の入母屋屋根であり、台所の屋根は人の教わる字形の簡潔な切妻屋根です。"
+        },
+        {
+            "question": "この家にはどんな家族の祭壇がありますか？",
+            "answer": "この家にはホームの後ろに収納空間であるウッバンを置いた点と大青(テチョン)の片隅にサンジェリェを向けた先祖を置いた点が特徴です。"
+        },
+        {
+            "question": "この家が古い理由は何ですか？",
+            "answer": "この家は朝鮮時代の建築であり、一部の鉤状の母屋が残っているだけだからです。"
+        }
+    ],
+    "word_Count": {
+        "text": 192,
+        "QA": 204
+    }
+}

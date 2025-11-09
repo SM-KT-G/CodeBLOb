@@ -1,0 +1,31 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_084692",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ja",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2023-02-27",
+        "domain": "문화/역사관광",
+        "title": "수성패밀리파크"
+    },
+    "text": "寿城ファミリーパークは広い芝生広場といくつもの種類の運動施設が造成されている。ファミリーパークでは足球場、インラインスケート場、サッカー場、バスケットボール場、ロンボルジャン、パークゴルフ場などを運営している。足球場は予約制、パークゴルフ場は寿城区パークゴルフ協会から会員制で運営されている。",
+    "QA": [
+        {
+            "question": "寿城ファミリーパークにはどんな運動施設がありますか？",
+            "answer": "寿城ファミリーパークには足球場、インラインスケート場、サッカー場、バスケットボール場、ロンボルジャン、パークゴルフ場などがあります。"
+        },
+        {
+            "question": "足球場やパークゴルフ場の利用方法は何ですか？",
+            "answer": "足球場は予約制で利用でき、パークゴルフ場は寿城区パークゴルフ協会の会員制で利用できます。"
+        }
+    ],
+    "word_Count": {
+        "text": 107,
+        "QA": 115
+    }
+}

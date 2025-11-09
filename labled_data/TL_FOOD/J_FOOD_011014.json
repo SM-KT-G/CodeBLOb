@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_011014",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-05-25",
+        "domain": "음식점",
+        "title": "なごや（나고야）"
+    },
+    "text": "なごや\\n\n京畿道 利川市 麻長面 徳坪路713\\n\n「なごや」は、日本の寿司屋で修行を積んだ調理長が握る正統派の寿司などを提供する料理店です。",
+    "QA": [
+        {
+            "question": "なごやの場所はどこですか？",
+            "answer": "なごやは、京畿道 利川市 麻長面 徳坪路713にあります。"
+        },
+        {
+            "question": "なごやではどんな料理が提供されていますか？",
+            "answer": "なごやでは、修行を積んだ調理長が握る正統派の寿司などを提供しています。"
+        },
+        {
+            "question": "なごやで修行を積んだ調理長はどのくらいの経験を持っていますか？",
+            "answer": "なごやで修行を積んだ調理長は、日本の寿司屋での経験を持っています。"
+        },
+        {
+            "question": "なごやの特徴は何ですか？",
+            "answer": "なごやの特徴は、正統派の寿司などを提供していることです。"
+        }
+    ],
+    "word_Count": {
+        "text": 52,
+        "QA": 148
+    }
+}

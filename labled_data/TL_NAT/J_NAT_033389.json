@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_033389",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=590&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=03140000&ccbaCtcd=11&ccbaCpno=2111103140000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2011-01-13",
+        "domain": "자연관광",
+        "title": "백자청화산수문호"
+    },
+    "text": "19世紀号だはソウル特別市有形文化財に分類され、青和顔料を使用して山水文系竹、梅などを描きました。口縁部には上下に横線文を、その下のムンを配置しました。胴体の前後には、山水文系竹、梅が描かれています。山水文は二重の大きなヌンファムン窓に位置しており、中央には遠景に重畳された山の姿が描かれています。特に遠景右側には杜甫の一時節人'カンシムチョガクハた'があります。反対側の山水紋には海の上に浮かんでいる船と遠い山の上に浮かんでいる月が描かれています。この作品は、中国の瀟湘八景図'同情追い越し(洞庭秋月)'と類似した風景を描いており、水平的構図を使用して遠近感を表現しました。ヌンファムン創意左右にはそれぞれ、梅と竹が配置されており、梅は視線を集中させる役割をします。この作品は分院末期の画家の作品と考えられ、特に杜甫の一時がいる珍しい例として注目されます。",
+    "QA": [
+        {
+            "question": "この作品は何時代のものですか？",
+            "answer": "分院末期の作品と考えられています。"
+        },
+        {
+            "question": "この作品で使用された顔料は何ですか？",
+            "answer": "青和顔料が使用されています。"
+        },
+        {
+            "question": "口縁部に配置された横線文は何を表していますか？",
+            "answer": "上下に配置された横線文は、その下のムンとともに幸せや繁栄を象徴しています。"
+        },
+        {
+            "question": "山水文に描かれた遠景の山は何が重畳されていますか？",
+            "answer": "遠景の山には杜甫の一時節人'カンシムチョガクハた'が描かれています。"
+        },
+        {
+            "question": "この作品が描く風景は、どのような風景に類似していますか？",
+            "answer": "この作品は、中国の瀟湘八景図'同情追い越し(洞庭秋月)'と類似した風景を描いており、水平的構図を使用して遠近感を表現しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 277,
+        "QA": 201
+    }
+}

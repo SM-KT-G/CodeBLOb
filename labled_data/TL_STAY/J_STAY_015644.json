@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_015644",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2023-04-17",
+        "domain": "숙박",
+        "title": "ヒドゥンフォレスト[韓国観光品質認証]（히든포레스트[한국관광 품질인증]/Korea Quality）"
+    },
+    "text": "ヒドゥンフォレスト[韓国観光品質認証]（히든포레스트[한국관광 품질인증]/Korea Quality）\\n\n21-23 , Donghae-daero 3218beon-gil, Buk-gu, P\\n\n「ヒドゥンフォレスト」は華津海水浴場の前に位置し、果てしなく広がる青い海を抱いています。客室ごとに温水プールがあって水遊びが楽しめ、ヒドゥンフォレスト棟のほとんどの客室にはスパがあって疲れとストレスを解消できます。",
+    "QA": [
+        {
+            "question": "ヒドゥンフォレストはどこに位置していますか？",
+            "answer": "ヒドゥンフォレストは華津海水浴場の前に位置しています。"
+        },
+        {
+            "question": "ヒドゥンフォレストにはどんな施設がありますか？",
+            "answer": "ヒドゥンフォレストには温水プールとスパがあります。"
+        },
+        {
+            "question": "ヒドゥンフォレストの客室ごとに何がありますか？",
+            "answer": "ヒドゥンフォレストの客室ごとに温水プールがあります。"
+        },
+        {
+            "question": "ヒドゥンフォレスト棟の客室には何がありますか？",
+            "answer": "ヒドゥンフォレスト棟のほとんどの客室にはスパがあります。"
+        },
+        {
+            "question": "ヒドゥンフォレストで何が楽しめますか？",
+            "answer": "ヒドゥンフォレストでは水遊びや疲れとストレスの解消が楽しめます。"
+        }
+    ],
+    "word_Count": {
+        "text": 154,
+        "QA": 181
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_013109",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1084&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=01900000&ccbaCtcd=34&ccbaCpno=3413401900000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1984-05-17",
+        "domain": "문화/역사관광",
+        "title": "덕산온천지구유"
+    },
+    "text": "徳山温泉地区湯 (덕산온천지구유)\\n\n忠清南道礼山郡徳山面沙洞里15番地\\n\n忠清南道文化財資料 , 温泉薬水が出たことを記念して知らせるために建てられた碑だ。 自然な石の形をそのまま維持したまま表·裏·側面だけを平らに整え、前面に「地球遊」という文字を大きく刻んだ。 礼山郡では1918年徳山地域に温泉を開発し、それにともなう付属建物工事をした。 その後1947年にも地下180mまで掘削作業を進めたが、この時温泉薬水が出てくると、地から出てきたものという意味で薬水の名称を「地溝湯」と言って新しく建物を建てこの碑を建てた。",
+    "QA": [
+        {
+            "question": "この碑は何のために建てられましたか？",
+            "answer": "温泉薬水が出たことを記念して知らせるために建てられました。"
+        },
+        {
+            "question": "碑の形状について教えてください。",
+            "answer": "自然な石の形をそのまま維持したまま表·裏·側面だけを平らに整え、前面に「地球遊」という文字を大きく刻んでいます。"
+        },
+        {
+            "question": "徳山地域に温泉開発が行われたのはいつですか？",
+            "answer": "徳山地域に温泉開発が行われたのは1918年です。"
+        },
+        {
+            "question": "この地域の温泉薬水の名称は何ですか？",
+            "answer": "温泉薬水の名称は「地溝湯」と言われています。"
+        },
+        {
+            "question": "何のために地下180mまで掘削作業が行われたのですか？",
+            "answer": "1947年に地下180mまで掘削作業が行われた際、温泉薬水が出てきたためです。"
+        }
+    ],
+    "word_Count": {
+        "text": 193,
+        "QA": 198
+    }
+}

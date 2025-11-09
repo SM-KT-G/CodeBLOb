@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001548",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-06",
+        "domain": "음식점",
+        "title": "CAFÉ MAMA\"S 汝矣島 ( 카페마마스 여의도 )"
+    },
+    "text": "CAFÉ MAMA\"S 汝矣島 ( 카페마마스 여의도 )\\n\nソウル特別市 永登浦区 ククフェデロ780\\n\nリコッタチーズサラダとパニーニが美味しいブランチカフェです。代表的なメニューはパニーニです。ソウル特別市のヨンドゥンポ区に位置した洋食専門店です。",
+    "QA": [
+        {
+            "question": "カフェママスの場所はどこですか？",
+            "answer": "カフェママスはソウル特別市の永登浦区に位置しています。具体的な住所はククフェデロ780です。"
+        },
+        {
+            "question": "カフェママスの代表的なメニューは何ですか？",
+            "answer": "カフェママスの代表的なメニューはパニーニです。特にリコッタチーズサラダとの組み合わせがおすすめです。"
+        },
+        {
+            "question": "カフェママスはどのような雰囲気ですか？",
+            "answer": "カフェママスはブランチカフェであり、落ち着いた雰囲気が特徴です。居心地の良い空間でゆっくりと食事やお茶を楽しむことができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 94,
+        "QA": 157
+    }
+}

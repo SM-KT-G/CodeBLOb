@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_003180",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-01",
+        "domain": "음식점",
+        "title": "ウトゥム清潭マッジプ ( 으뜸청담맛집 )"
+    },
+    "text": "ウトゥム清潭マッジプ \nソウル特別市 江南区 宣陵路132キル 15\nおいしい料理店としていつも多くのサラリーマンが訪れる店です。おすすめはスケトウダラの煮付けです。この店はソウル特別市のカンナムグチョン（江南区庁）駅の近くに位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "ウトゥム清潭マッジプはソウル特別市江南区宣陵路132キル15に位置しています。"
+        },
+        {
+            "question": "この店はどのような料理を提供していますか？",
+            "answer": "この店はスケトウダラの煮付けなどの韓国料理を専門としています。"
+        },
+        {
+            "question": "この店はどのような客層が訪れるのですか？",
+            "answer": "この店はいつも多くのサラリーマンが訪れるおいしい料理店です。"
+        },
+        {
+            "question": "この店はどの駅の近くにありますか？",
+            "answer": "この店はソウル特別市のカンナムグチョン（江南区庁）駅の近くに位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 91,
+        "QA": 153
+    }
+}

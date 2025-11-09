@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_029877",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.goodchoice.kr/product/detail?ano=66853&adcno=1&sel_date=2023-11-07&sel_date2=2023-11-08",
+        "collectedDate": "2023-11-15",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "사천 미화궁전"
+    },
+    "text": "分の距離にある「八浦埋立地」公営駐車場をご利用ください。 宿泊施設には駐車施設が提供されます。 宿の内部にはWi-Fi、エアコン、冷蔵庫、TV、ヘアドライヤー、禁煙施設、電気ケトルなどが備えられています。 また、フロントやその他の施設では冷凍庫にタコやイイダコをお預かりしております。",
+    "QA": [
+        {
+            "question": "八浦埋立地公営駐車場はどのくらいの距離にありますか？",
+            "answer": "八浦埋立地公営駐車場は宿泊施設から徒歩で行ける距離にあります。"
+        },
+        {
+            "question": "宿泊施設にはどのような設備が備えられていますか？",
+            "answer": "宿泊施設にはWi-Fi、エアコン、冷蔵庫、TV、ヘアドライヤーなどの設備が備えられています。"
+        },
+        {
+            "question": "タコやイイダコを預けることができますか？",
+            "answer": "はい、フロントやその他の施設では冷凍庫にタコやイイダコをお預かりしています。"
+        }
+    ],
+    "word_Count": {
+        "text": 104,
+        "QA": 135
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_002127",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://abnb.me/QdDsGBv9yeb",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "The House of Gallery"
+    },
+    "text": "The House of Gallery\\n\n大邱広域市南区大明路57キル20-22、4階\\n\n駅から近く、市内、市場、主な観光地への移動が便利です。屋上バーベキューも可能で、朝食も提供されます。15名以上のグループ宿泊も可能です。",
+    "QA": [
+        {
+            "question": "場所はどこですか？",
+            "answer": "大邱広域市南区大明路57キル20-22、4階にあります。"
+        },
+        {
+            "question": "駅から近いですか？",
+            "answer": "はい、駅から近く、移動が便利です。"
+        },
+        {
+            "question": "バーベキューはできますか？",
+            "answer": "はい、屋上でバーベキューが可能です。"
+        },
+        {
+            "question": "朝食は提供されますか？",
+            "answer": "はい、朝食も提供されます。"
+        },
+        {
+            "question": "何名までのグループ宿泊が可能ですか？",
+            "answer": "15名以上のグループ宿泊も可能です。"
+        }
+    ],
+    "word_Count": {
+        "text": 85,
+        "QA": 112
+    }
+}

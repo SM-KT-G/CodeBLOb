@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_001744",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2019-03-28",
+        "domain": "숙박",
+        "title": "DOREMI HOUSE[韓国観光品質認証]（도래미 [한국관광품질인증/Korea Quality]）"
+    },
+    "text": "DOREMI HOUSE[韓国観光品質認証]\n全羅南道 羅州市 茶道面 トンニョッキル18-26\nドレ村（トレ村）に位置する「DOREMI HOUSE（ドレ美ハウス）は韓屋宿泊施設です。DOREMIという名は「ドレ村の美」を意味し、ドレ村の美しさを伝える空間になりたいという代表夫婦の想いが込められています。DOREMI HOUSEには母屋とサランチェ（別棟）、離れがあります。母屋横に小さな絵本部屋があり、韓屋ステイとともに本を楽しむブックステイ空間となっています。",
+    "QA": [
+        {
+            "question": "DOREMI HOUSEはどこに位置していますか？",
+            "answer": "DOREMI HOUSEは韓国全羅南道羅州市茶道面トンニョッキル18-26に位置しています。"
+        },
+        {
+            "question": "DOREMI HOUSEの名前の意味は何ですか？",
+            "answer": "DOREMI HOUSEの名前の意味は「ドレ村の美」を意味し、ドレ村の美しさを伝える空間になりたいという代表夫婦の想いが込められています。"
+        },
+        {
+            "question": "DOREMI HOUSEにはどのような施設がありますか？",
+            "answer": "DOREMI HOUSEには母屋とサランチェ（別棟）、離れがあります。また、母屋横に小さな絵本部屋があり、韓屋ステイとともに本を楽しむブックステイ空間となっています。"
+        }
+    ],
+    "word_Count": {
+        "text": 171,
+        "QA": 201
+    }
+}

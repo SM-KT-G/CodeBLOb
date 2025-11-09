@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_021070",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-06",
+        "domain": "음식점",
+        "title": "渤海ラム肉の串焼き ( 발해양꼬치 )"
+    },
+    "text": "渤海ラム肉の串焼き ( 발해양꼬치 )\\n\n釜山広域市 釜山鎮区 カヤデロ784ボンギル60\\n\n羊串だけでなく、様々な中華料理も味わえる店です。釜山広域市のブサンジン区に位置した中華専門店です。代表的なメニューはラム肉の串焼きです。",
+    "QA": [
+        {
+            "question": "この店の名前は何ですか？",
+            "answer": "渤海ラム肉の串焼き ( 발해양꼬치 ) です。"
+        },
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "釜山広域市 釜山鎮区 カヤデロ784ボンギル60にあります。"
+        },
+        {
+            "question": "この店ではどんな料理が楽しめますか？",
+            "answer": "羊串だけでなく、様々な中華料理も味わえます。"
+        },
+        {
+            "question": "この店の代表的なメニューは何ですか？",
+            "answer": "代表的なメニューはラム肉の串焼きです。"
+        },
+        {
+            "question": "この店はどの区に位置していますか？",
+            "answer": "釜山広域市のブサンジン区に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 85,
+        "QA": 141
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_031022",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2020-03-18",
+        "domain": "숙박",
+        "title": "킴스하우스인안동(Kim\"s House in Andong)"
+    },
+    "text": "キムズハウスインアンドン(Kim's House in Andong) (킴스하우스인안동(Kim\"s House in Andong))\\n\n慶尚北道安東市ジュンドゥル1ギル15(龍上洞)\\n\n当店は外国人観光都市民宿業で、外国人のみご利用いただけます。ただし、韓国人のご利用はお断りしています。当宿は安東駅から2km、安東バスターミナルから8kmの距離にあります。また、当宿は韓屋宿泊施設です。",
+    "QA": [
+        {
+            "question": "キムズハウスインアンドンはどこにありますか？",
+            "answer": "キムズハウスインアンドンは慶尚北道安東市ジュンドゥル1ギル15(龍上洞)にあります。"
+        },
+        {
+            "question": "キムズハウスインアンドンはどのような宿泊施設ですか？",
+            "answer": "キムズハウスインアンドンは韓屋宿泊施設です。"
+        },
+        {
+            "question": "キムズハウスインアンドンへのアクセスはどうやって行けますか？",
+            "answer": "キムズハウスインアンドンへは安東駅から2km、安東バスターミナルから8kmの距離です。"
+        },
+        {
+            "question": "キムズハウスインアンドンは外国人のみ利用できる宿泊施設ですか？",
+            "answer": "はい、キムズハウスインアンドンは外国人観光都市民宿業で、外国人のみ利用できます。"
+        },
+        {
+            "question": "キムズハウスインアンドンでは韓国人の利用はできませんか？",
+            "answer": "申し訳ありませんが、キムズハウスインアンドンでは韓国人の利用はお断りしております。"
+        }
+    ],
+    "word_Count": {
+        "text": 145,
+        "QA": 238
+    }
+}

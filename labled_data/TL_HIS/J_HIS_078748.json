@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_078748",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=380&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=00170000&ccbaCtcd=24&ccbaCpno=2112400170000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1990-11-15",
+        "domain": "문화/역사관광",
+        "title": "사암집목판각"
+    },
+    "text": "砂岩集木版角\\n\n光州広域市北区西下路48-25(龍鳳洞、光州歴史ジャン)\\n\n朝鮮時代、光州広域市有形文化財、この本は朝鮮中期の文臣の砂岩パクスン(朴淳、1523-1589)の文集を木版本と解釈したもので、仁祖26年(1648)にパクスンウィの子孫たちにより7冊3本で編集、刊行された。その後哲宗8年(1857)再び重刊本が発行された。パクスンウンの文臣であり、学者として、明宗8年(1553)に文科にトップで合格してイェムングヮン戦績を皮切りに、領議政を経て、先祖20年(1587)まで35年間調整で働いた。この本の巻1∼3には、市583数、権4に、ケ(啓)2本、立って2本、雑書4本、悲鳴7本で、権5∼7は付録として頭取、祝詞、祭文、信徒悲鳴、上訴文、詩などが収録されている。大きさは横35センチ、縦22センチであり、いずれも180枚である。この文化財は35年間調整にいたパクスンウィ競輪を整理したもので、史料的価値が大きいと評価される。",
+    "QA": [
+        {
+            "question": "この本は何時期に編集、刊行されましたか？",
+            "answer": "朝鮮時代の仁祖26年(1648)に砂岩パクスンウィの子孫たちにより編集、刊行されました。"
+        },
+        {
+            "question": "パクスンウィは何年間調整で働きましたか？",
+            "answer": "パクスンウィは先祖20年(1587)まで、35年間調整で働きました。"
+        },
+        {
+            "question": "この文化財の大きさは何ですか？",
+            "answer": "この文化財は横35センチ、縦22センチであり、いずれも180枚である。"
+        },
+        {
+            "question": "この文化財には何が収録されていますか？",
+            "answer": "この文化財には市583数、権4に、ケ(啓)2本、立って2本、雑書4本、悲鳴7本が収録されています。"
+        },
+        {
+            "question": "この文化財の史料的価値は何で評価されますか？",
+            "answer": "この文化財は35年間調整にいたパクスンウィ競輪を整理したものであり、史料的価値が大きいと評価されます。"
+        }
+    ],
+    "word_Count": {
+        "text": 309,
+        "QA": 226
+    }
+}

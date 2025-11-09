@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_002109",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2023-03-07",
+        "domain": "음식점",
+        "title": "SURF HOLIC ( 서프홀릭 )"
+    },
+    "text": "SURF HOLIC ( 서프홀릭 )\\n\n釜山広域市 海雲台区 松亭海辺路 50\\n\n海岸の前に位置し、水遊びの後に訪れやすいお店です。おすすめはプルゴギ丼です。釜山広域市のヘウンデ区に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "このお店の場所はどこですか？",
+            "answer": "SURF HOLIC ( 서프홀릭 )は釜山広域市海雲台区松亭海辺路50に位置しています。"
+        },
+        {
+            "question": "お店の周辺にはどんなアクティビティがありますか？",
+            "answer": "このお店は海岸の前に位置しているので、水遊びの後に訪れることができます。"
+        },
+        {
+            "question": "おすすめのメニューは何ですか？",
+            "answer": "おすすめはプルゴギ丼です。"
+        },
+        {
+            "question": "このお店は韓食専門店ですか？",
+            "answer": "はい、SURF HOLIC ( 서프홀릭 )は韓食専門店です。"
+        }
+    ],
+    "word_Count": {
+        "text": 77,
+        "QA": 140
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_010689",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-06",
+        "domain": "음식점",
+        "title": "トクヨンチョン"
+    },
+    "text": "トクヨンチョン\\n\n京畿道 平沢市 チャムイスル2ギル26\\n\n地元民がよく訪れる、隠れた名店です。京畿道のピョンテク市に位置した韓国料理店です。おすすめはたらの頭の蒸し物です。",
+    "QA": [
+        {
+            "question": "この韓国料理店はどこにありますか？",
+            "answer": "この韓国料理店は京畿道平沢市に位置しています。"
+        },
+        {
+            "question": "地元民によく訪れるお店ですか？",
+            "answer": "はい、地元民によく訪れる隠れた名店です。"
+        },
+        {
+            "question": "おすすめの料理は何ですか？",
+            "answer": "おすすめはたらの頭の蒸し物です。"
+        }
+    ],
+    "word_Count": {
+        "text": 65,
+        "QA": 76
+    }
+}

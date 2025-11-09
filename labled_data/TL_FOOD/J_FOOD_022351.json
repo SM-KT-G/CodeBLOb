@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_022351",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-01",
+        "domain": "음식점",
+        "title": "森の中カルビ ( 숲속갈비 )"
+    },
+    "text": "森の中カルビ \n京畿道 平沢市 彭城邑 彭城南山5キル101\n100%堅炭で焼く手作りカルビ専門店で、多くの外国人に人気の家庭的な雰囲気のグルメ店です。 おすすめは特大豚カルビです。",
+    "QA": [
+        {
+            "question": "場所はどこですか？",
+            "answer": "森の中カルビは京畿道平沢市彭城邑彭城南山5キル101にあります。"
+        },
+        {
+            "question": "どのような雰囲気のお店ですか？",
+            "answer": "森の中カルビは家庭的な雰囲気のグルメ店です。"
+        },
+        {
+            "question": "おすすめの料理は何ですか？",
+            "answer": "森の中カルビのおすすめは特大豚カルビです。"
+        },
+        {
+            "question": "どのような調理方法を使用していますか？",
+            "answer": "森の中カルビでは100%堅炭で手作りカルビを焼いています。"
+        },
+        {
+            "question": "外国人に人気のあるお店ですか？",
+            "answer": "はい、森の中カルビは多くの外国人に人気があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 66,
+        "QA": 146
+    }
+}

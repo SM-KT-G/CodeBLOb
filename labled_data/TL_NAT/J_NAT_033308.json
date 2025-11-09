@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_033308",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101933",
+        "collectedDate": "2023-10-06",
+        "publishedDate": "2020-01-01",
+        "domain": "자연관광",
+        "title": "백야도"
+    },
+    "text": "白也島 \\n\n白也島は全羅南道に位置する島だ。 白夜島は大きく次のように区分される。 白夜島:全羅南道珍島郡に位置する島である。 特定図書に分類されている。 白夜島:全羅南道麗水市に位置する島である。 白夜島:全羅南道新安郡に位置する島である",
+    "QA": [
+        {
+            "question": "白夜島はどこに位置していますか？",
+            "answer": "白夜島は全羅南道に位置しています。"
+        },
+        {
+            "question": "白夜島は何によって区分されていますか？",
+            "answer": "白夜島は全羅南道珍島郡、麗水市、新安郡によって区分されています。"
+        },
+        {
+            "question": "白夜島はどのように分類されていますか？",
+            "answer": "白夜島は特定図書に分類されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 88,
+        "QA": 88
+    }
+}

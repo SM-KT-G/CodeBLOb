@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_090643",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=835&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=00890000&ccbaCtcd=33&ccbaCpno=2333300890000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1993-11-05",
+        "domain": "문화/역사관광",
+        "title": "영동 김영이・장비 단소"
+    },
+    "text": "忠清北道には美しい景色を鑑賞できるグェアムの絶壁の上にこじんまりした精子があります。ここは高麗時代チョンゲク司令金英(キム・ヨン)がと、娘婿の一緒に楽しくて高潔な余生を送っていた場所として知られています。高麗後期には国史を正す方法がないと判断したソンビたちが官職を捨てて故郷に帰ってきて都落ち生活をしたことがわかっています。金英(キム・ヨン)が、やはりここに都落ちして北を向いて国運を照らす同時に生徒たちを教える仕事をしていた由緒深い場でした。子孫たちは金英(キム・ヨン)がとともにした席を称えるためにここに短小を立てました。ここはビンオクチョンと呼ばれ、忠清北道の記念物として知られています。",
+    "QA": [
+        {
+            "question": "この場所は何時代に知られるようになりましたか？",
+            "answer": "この場所は高麗時代に知られるようになりました。"
+        },
+        {
+            "question": "ここで何が行われていたのですか？",
+            "answer": "ここでは金英(キム・ヨン)が生徒たちを教える仕事をしていました。"
+        },
+        {
+            "question": "この場所の名前は何ですか？",
+            "answer": "この場所の名前はビンオクチョンと呼ばれています。"
+        },
+        {
+            "question": "なぜこの場所が記念物として知られていますか？",
+            "answer": "この場所は金英(キム・ヨン)と彼の子孫たちが過ごした場所として記念されています。"
+        },
+        {
+            "question": "ここで何をすることができますか？",
+            "answer": "ここでは美しい景色を鑑賞することができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 217,
+        "QA": 169
+    }
+}

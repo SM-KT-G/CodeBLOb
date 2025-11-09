@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_024618",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42090&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "제주 섬사랑펜션"
+    },
+    "text": "涯月海岸道路に位置するソムサランペンションは、オーシャンビューが楽しめる客室で構成されています。 日の出と夕日が客室の中からも目で見られる素晴らしい眺めを誇っています。 その他にもペンション内にはミニゴルフ練習場があり、ゴルフを楽しむ方に便利な施設になってくれます。 また、釣りを楽しむ方もペンションで釣り体験を楽しむことができます。 ソムサランペンションは涯月海岸道路に位置しており、オーシャンビューの客室をご提供しております。 日の出や夕日を客室から眺めることができる素晴らしい眺めが特徴です。 また、ミニゴルフ練習場や釣り体験も可能です。",
+    "QA": [
+        {
+            "question": "ソムサランペンションの場所はどこですか？",
+            "answer": "ソムサランペンションは涯月海岸道路に位置しています。"
+        },
+        {
+            "question": "ソムサランペンションの特徴は何ですか？",
+            "answer": "ソムサランペンションの特徴は、オーシャンビューが楽しめる客室と日の出・夕日の眺めです。"
+        },
+        {
+            "question": "ミニゴルフ練習場はありますか？",
+            "answer": "はい、ソムサランペンションにはミニゴルフ練習場があります。"
+        },
+        {
+            "question": "釣り体験はできますか？",
+            "answer": "はい、ソムサランペンションでは釣り体験を楽しむことができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 199,
+        "QA": 142
+    }
+}

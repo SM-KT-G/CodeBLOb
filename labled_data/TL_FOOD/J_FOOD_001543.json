@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001543",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-06",
+        "domain": "음식점",
+        "title": "Café de paris ( 카페드파리 )"
+    },
+    "text": "Café de paris\\n\nソウル特別市 中区 ミョンドン10ギル40\\n\n様々な洋食メニューが味わえる店です。 おすすめはパネパスタです。ソウル特別市のジュン区に位置した洋食専門店です。",
+    "QA": [
+        {
+            "question": "カフェ・ド・パリはどこにありますか？",
+            "answer": "カフェ・ド・パリはソウル特別市中区ミョンドン10ギル40にあります。"
+        },
+        {
+            "question": "カフェ・ド・パリではどのような料理が味わえますか？",
+            "answer": "カフェ・ド・パリでは様々な洋食メニューが味わえます。特におすすめはパネパスタです。"
+        },
+        {
+            "question": "カフェ・ド・パリはどのような店ですか？",
+            "answer": "カフェ・ド・パリは洋食専門店で、ソウル特別市のジュン区に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 70,
+        "QA": 126
+    }
+}

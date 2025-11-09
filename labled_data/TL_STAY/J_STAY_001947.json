@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_001947",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/lodge/koreamie",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "Koreamie"
+    },
+    "text": "Koreamie\n仁川広域市 中区 雲南洞 448-1\n色々な文化が交わったゲストハウス。ゲストハウス、カフェ、パーティハウス、コミュニティ空間などの建物がそれぞれ独立している。パーティハウスには大型円卓バーベキューグリルがあり、パーティールームにはカラオケ施設が備えられている。",
+    "QA": [
+        {
+            "question": "このゲストハウスの場所はどこですか？",
+            "answer": "仁川広域市 中区 雲南洞 448-1にあります。"
+        },
+        {
+            "question": "このゲストハウスでは何が提供されていますか？",
+            "answer": "ゲストハウス、カフェ、パーティハウス、コミュニティ空間などの建物があります。"
+        },
+        {
+            "question": "パーティハウスには何がありますか？",
+            "answer": "パーティハウスには大型円卓バーベキューグリルがあります。"
+        },
+        {
+            "question": "パーティールームには何が備えられていますか？",
+            "answer": "パーティールームにはカラオケ施設が備えられています。"
+        }
+    ],
+    "word_Count": {
+        "text": 102,
+        "QA": 143
+    }
+}

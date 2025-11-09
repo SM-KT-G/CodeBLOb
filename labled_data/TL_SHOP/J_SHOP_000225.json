@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_SHOP_000225",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.ssfshop.com/[10-CORSO-COMO]--AUTRY/GM0022120783650/good",
+        "collectedDate": "2023-11-13",
+        "publishedDate": "2020-01-01",
+        "domain": "쇼핑",
+        "title": "(Men) Medalist LL 15 Trainers - White"
+    },
+    "text": "[10 CORSO COMO] AUTRYは牛革で製作されたMEDALISTシューズです。 このシューズはデニムパンツ、トレーニングパンツとよく似合い、様々なカジュアル着装に活用できます。 AUTRYは1982年にタクサスダラスで発売されたブランドで、デザインと技術革新で北米市場で大きな名声を得ました。 1985年のTENNIS MAGAZINEでは、MEDALISTが北米市場で最も優れた靴と評価され、最近も80年代スタイルのヴィンテージムードで若年層に大きな人気を集めています。 この靴は天然皮革(牛)で甲皮が製作されており、靴底は合成ゴムで作られています。",
+    "QA": [
+        {
+            "question": "AUTRYのシューズはどのような素材で製作されていますか？",
+            "answer": "AUTRYのシューズは天然皮革(牛)で甲皮が製作されています。"
+        },
+        {
+            "question": "AUTRYのシューズの靴底は何で作られていますか？",
+            "answer": "AUTRYのシューズの靴底は合成ゴムで作られています。"
+        },
+        {
+            "question": "AUTRYのシューズはどのような着装によく合いますか？",
+            "answer": "AUTRYのシューズはデニムパンツ、トレーニングパンツなどのカジュアルな着装によく合います。"
+        },
+        {
+            "question": "AUTRYはどの年に発売されたブランドですか？",
+            "answer": "AUTRYは1982年にタクサスダラスで発売されたブランドです。"
+        },
+        {
+            "question": "AUTRYのMEDALISTシューズはどのような評価を受けていますか？",
+            "answer": "1985年のTENNIS MAGAZINEでは、MEDALISTが北米市場で最も優れた靴と評価されました。最近も80年代スタイルのヴィンテージムードで若年層に大きな人気を集めています。"
+        }
+    ],
+    "word_Count": {
+        "text": 206,
+        "QA": 269
+    }
+}

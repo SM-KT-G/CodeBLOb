@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_019206",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-01",
+        "domain": "음식점",
+        "title": "大成食堂 ( 대성식당 )"
+    },
+    "text": "大成食堂 ( 대성식당 )\\n\n全羅南道 麗水市 喬洞南1キル 5-9\\n\n韓国のグルメ番組でもよく紹介されるお店です。全羅南道のヨス市に位置した海鮮専門店です。おすすめはサワラの刺身です。",
+    "QA": [
+        {
+            "question": "大成食堂はどこにありますか？",
+            "answer": "大成食堂は全羅南道麗水市喬洞南1キル 5-9に位置しています。"
+        },
+        {
+            "question": "大成食堂はどのようなお店ですか？",
+            "answer": "大成食堂は海鮮専門店で、韓国のグルメ番組でもよく紹介されています。"
+        },
+        {
+            "question": "大成食堂のおすすめメニューは何ですか？",
+            "answer": "大成食堂のおすすめはサワラの刺身です。"
+        }
+    ],
+    "word_Count": {
+        "text": 69,
+        "QA": 96
+    }
+}

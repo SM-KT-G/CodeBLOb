@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_004927",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-09",
+        "domain": "음식점",
+        "title": "キムジョンスンミョンインイジプ( 김정순명인의집 )"
+    },
+    "text": "キムジョンスンミョンインイジプ\\n\n慶尚北道 安東市 マドゥル6キル 3\\n\n韓国料理大会優勝者の料理が味わえる店です。慶尚北道のアンドン市に位置した韓国料理店です。おすすめはナマズの辛味スープです。",
+    "QA": [
+        {
+            "question": "この韓国料理店はどこに位置していますか？",
+            "answer": "慶尚北道のアンドン市に位置しています。"
+        },
+        {
+            "question": "この店のおすすめ料理は何ですか？",
+            "answer": "おすすめはナマズの辛味スープです。"
+        },
+        {
+            "question": "この店はどのような料理を提供していますか？",
+            "answer": "韓国料理大会優勝者の料理が味わえる店です。"
+        }
+    ],
+    "word_Count": {
+        "text": 73,
+        "QA": 83
+    }
+}

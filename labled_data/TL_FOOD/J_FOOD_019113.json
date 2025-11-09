@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_019113",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-05",
+        "domain": "음식점",
+        "title": "大邱王ポルチム ( 대구왕뽈찜 )"
+    },
+    "text": "大邱王ポルチム ( 대구왕뽈찜 )\\n\n慶尚北道 安東市 豊川面 スホロ105-11\\n\nたらの頭の蒸し物にマッククスも一緒に味わえる店です。おすすめはたらの頭の蒸し物です。慶尚北道のアンドン市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "大邱王ポルチムはどこにありますか？",
+            "answer": "大邱王ポルチムは慶尚北道のアンドン市に位置しています。"
+        },
+        {
+            "question": "大邱王ポルチムでおすすめのメニューは何ですか？",
+            "answer": "大邱王ポルチムでおすすめのメニューは、たらの頭の蒸し物です。"
+        },
+        {
+            "question": "大邱王ポルチムはどんな種類の店ですか？",
+            "answer": "大邱王ポルチムは韓食専門店です。"
+        },
+        {
+            "question": "大邱王ポルチムでマッククスを味わうことができますか？",
+            "answer": "はい、大邱王ポルチムではたらの頭の蒸し物と一緒にマッククスも味わうことができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 80,
+        "QA": 145
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_005529",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "コウンニム ( 고운님 )"
+    },
+    "text": "コウンニム ( 고운님 )\\n\nソウル特別市 江南区 テヘラン路87キル 46\\n\n都心空港があるCOEXに位置するレストランです。 おすすめはサバ入りキムチの蒸し物です。ソウル特別市のガンナム区に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "このレストランはどこに位置していますか？",
+            "answer": "このレストランはソウル特別市江南区テヘラン路87キルに位置しています。"
+        },
+        {
+            "question": "このレストランのおすすめメニューは何ですか？",
+            "answer": "このレストランのおすすめはサバ入りキムチの蒸し物です。"
+        },
+        {
+            "question": "このレストランは何を専門としていますか？",
+            "answer": "このレストランは韓食を専門としています。"
+        }
+    ],
+    "word_Count": {
+        "text": 81,
+        "QA": 105
+    }
+}

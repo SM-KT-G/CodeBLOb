@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_020953",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-05",
+        "domain": "음식점",
+        "title": "味家すし 企業都市 ( 미가스시 기업도시 )"
+    },
+    "text": "味家すし 企業都市 ( 미가스시 기업도시 )\\n\n江原道 原州市 地正面 シンジジョンロ123-18\\n\nマグロのいろいろな部位が味わえる店です。代表的なメニューは寿司です。江原道のウォンジュ市に位置した和食専門店です。",
+    "QA": [
+        {
+            "question": "味家すしはどこにありますか？",
+            "answer": "味家すしは江原道原州市のシンジジョンロ123-18に位置しています。"
+        },
+        {
+            "question": "味家すしの特徴は何ですか？",
+            "answer": "味家すしの特徴は、マグロのいろいろな部位を味わえることです。また、代表的なメニューは寿司です。"
+        },
+        {
+            "question": "味家すしはどんな種類の料理を提供していますか？",
+            "answer": "味家すしは和食専門店であり、寿司を中心にさまざまな種類の和食料理を提供しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 81,
+        "QA": 126
+    }
+}

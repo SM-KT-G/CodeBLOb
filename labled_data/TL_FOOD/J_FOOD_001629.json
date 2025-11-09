@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001629",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-05",
+        "domain": "음식점",
+        "title": "dolly nine ( 달리나인 )"
+    },
+    "text": "dolly nine ( 달리나인 )\\n\nソウル特別市 瑞草区 シンバンポロ194\\n\n飲み会やお集まりにぴったりの店です。ソウル特別市のソチョ区に位置した洋食専門店です。代表的なメニューは手作りビールです。",
+    "QA": [
+        {
+            "question": "ダリーナインはどこに位置していますか？",
+            "answer": "ダリーナインはソウル特別市の瑞草区に位置しています。"
+        },
+        {
+            "question": "ダリーナインの代表的なメニューは何ですか？",
+            "answer": "ダリーナインの代表的なメニューは手作りビールです。"
+        },
+        {
+            "question": "ダリーナインはどんな場面にぴったりなお店ですか？",
+            "answer": "ダリーナインは飲み会やお集まりにぴったりのお店です。"
+        },
+        {
+            "question": "ダリーナインの住所は何ですか？",
+            "answer": "ダリーナインの住所はソウル特別市瑞草区シンバンポロ194です。"
+        }
+    ],
+    "word_Count": {
+        "text": 77,
+        "QA": 137
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_086686",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=817&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=00580300&ccbaCtcd=50&ccbaCpno=2333900580300&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2005-10-05",
+        "domain": "문화/역사관광",
+        "title": "신평리도요지"
+    },
+    "text": "シンピョンリ・トヨジ\\n\n大静邑新坪里59-1\\n\n済州特別自治道記念物、この遺跡は、''の前の園、黄色、カキ''とも言う。私たち先賢たちが日常生活で使うホボク・トンゲ・病気・ジャンテなどの陶器を作ったところだ。他の地域では器の表面に釉薬を塗っが、ここでは釉薬を塗らず自然的に発色させる。また、他の地域はすべて東洋(土窯)なのに反して済州島の東洋は世界で唯一のソクヨ(石窯)だ。この遺跡は、済州道独特の陶器文化を花咲かせていた所でだけでなく、我々先賢たちの知恵を知ることができる場所でもある。この穴はしブクジョで築造された黄色の穴窯址だ。この穴には陶窯址の壁と天井が争っている片隅に灰汁穴が50cm間隔で出て、カキの規格は、長さ16.05m、幅3.6m、高さ1.8mであり、内部の幅1.6mとして近代中期に建てられたものと推定される。",
+    "QA": [
+        {
+            "question": "この遺跡は何のために使われていましたか？",
+            "answer": "この遺跡は先賢たちが日常生活で使う陶器を作るために使われていました。"
+        },
+        {
+            "question": "この地域の陶器は他の地域の陶器とどう違いますか？",
+            "answer": "ここでは釉薬を塗らず自然的に発色させる陶器を作っており、また、東洋が世界で唯一の石窯である点が他の地域の陶器と異なります。"
+        },
+        {
+            "question": "この遺跡の陶器文化について教えてください。",
+            "answer": "この遺跡は済州道独特の陶器文化を花咲かせていた場所であり、先賢たちの知恵を知ることができる場所でもあります。"
+        },
+        {
+            "question": "この穴窯址の特徴は何ですか？",
+            "answer": "この穴窯址は済州道独特の陶器文化を表すものであり、灰汁穴が50cm間隔で出ており、内部の幅1.6mとして、近代中期に建てられたものと推定されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 269,
+        "QA": 222
+    }
+}

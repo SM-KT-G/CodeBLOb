@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_028248",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-06-14",
+        "domain": "숙박",
+        "title": "酔茶禅リゾート（酔茶禅リゾートTea&Meditation）（취다선리조트(취다선 리조트 Tea&Meditation)）"
+    },
+    "text": "酔茶禅リゾート（酔茶禅リゾートTea&Meditation）（취다선리조트(취다선 리조트 Tea&Meditation)）\n済州特別自治道 西帰浦市 城山邑 へマジ海岸路 2688\n酔茶禅（チィダソン）リゾートはお茶と瞑想を通じたこころの安らぎを提供すべく誕生したリゾートです。",
+    "QA": [
+        {
+            "question": "酔茶禅リゾートはどんな施設ですか？",
+            "answer": "酔茶禅リゾートはお茶と瞑想を通じたこころの安らぎを提供すべく誕生したリゾートです。"
+        },
+        {
+            "question": "酔茶禅リゾートの場所はどこですか？",
+            "answer": "酔茶禅リゾートは済州特別自治道西帰浦市城山邑へマジ海岸路2688に位置しています。"
+        },
+        {
+            "question": "酔茶禅リゾートでは何が提供されますか？",
+            "answer": "酔茶禅リゾートではお茶と瞑想を通じた心の安らぎを提供しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 102,
+        "QA": 122
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001996",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "PAULIN 明洞（폴인 명동）"
+    },
+    "text": "PAULIN 明洞（폴인 명동）\\n\nソウル特別市 中区 退渓路 127\\n\nスフレパンケーキは今韓国で人気のデザートです。代表的なメニューはスフレパンケーキです。ソウル特別市のミョン洞に位置したカフェ（コーヒーショップ）です。",
+    "QA": [
+        {
+            "question": "ポーラン 明洞はどこにありますか？",
+            "answer": "ソウル特別市 中区 退渓路 127に位置しています。"
+        },
+        {
+            "question": "スフレパンケーキとはどんなデザートですか？",
+            "answer": "スフレパンケーキは空気をたくさん含んだふわふわのパンケーキです。"
+        },
+        {
+            "question": "ポーラン 明洞の代表的なメニューは何ですか？",
+            "answer": "ポーラン 明洞の代表的なメニューはスフレパンケーキです。"
+        }
+    ],
+    "word_Count": {
+        "text": 83,
+        "QA": 107
+    }
+}

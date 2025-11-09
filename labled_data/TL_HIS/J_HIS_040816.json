@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_040816",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/collectionList#######",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "\"정유칠월\"을 새긴 수키와 조각"
+    },
+    "text": "「丁酉七月」を刻んだ平瓦片 ( \"정유칠월\"을 새긴 수키와 조각)\\n\nこの瓦礫には、魚骨文と「丁酉七月」という文字が彫られています。これは、韓国-朝鮮の時代に使われた屋根材として利用されていました。材質は土であり、硬さもあります。現在の長さは154cm、幅は96cmです。",
+    "QA": [
+        {
+            "question": "この瓦片は何のために使われていましたか？",
+            "answer": "この瓦片は、韓国-朝鮮の時代に使われた屋根材として利用されていました。"
+        },
+        {
+            "question": "この瓦片の材質は何ですか？",
+            "answer": "この瓦片の材質は土です。"
+        },
+        {
+            "question": "この瓦片の硬さはどのくらいありますか？",
+            "answer": "この瓦片は硬さもありますが、具体的な数値はわかりません。"
+        },
+        {
+            "question": "現在のこの瓦片の長さと幅はどれくらいですか？",
+            "answer": "現在のこの瓦片の長さは154cm、幅は96cmです。"
+        }
+    ],
+    "word_Count": {
+        "text": 101,
+        "QA": 128
+    }
+}

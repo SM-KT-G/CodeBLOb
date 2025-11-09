@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001892",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/mingles-gangnam-branch",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "mingles"
+    },
+    "text": "mingles（ミングルス）\\n\nソウル特別市江南区宣陵路 757\\n\n伝統韓国料理をベースに新しい味を引き出すミングルス。 メニューに記載されているテイスティングガイドを参考にして、お好みの料理をチョイスできるようになっています。",
+    "QA": [
+        {
+            "question": "ミングルスはどこにありますか？",
+            "answer": "ミングルスはソウル特別市江南区宣陵路757にあります。"
+        },
+        {
+            "question": "ミングルスではどのような料理が提供されていますか？",
+            "answer": "ミングルスでは伝統韓国料理をベースに新しい味を引き出した料理が提供されています。"
+        },
+        {
+            "question": "ミングルスのメニューには何が書かれていますか？",
+            "answer": "ミングルスのメニューにはテイスティングガイドが記載されており、それを参考にしてお好みの料理を選ぶことができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 85,
+        "QA": 136
+    }
+}

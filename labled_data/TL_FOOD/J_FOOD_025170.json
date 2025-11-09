@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_025170",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-05-27",
+        "domain": "음식점",
+        "title": "元祖凡一洞メトク（원조범일동매떡）"
+    },
+    "text": "元祖凡一洞メトク\\n\n釜山広域市 釜山鎮区 ゴールドテーマキル52-2\\n\n「元祖凡一洞（ウォンジョボミルドン）メトク」の「メトク」とは、「辛いトッポッキ（メウントッポッキ）」を短くした言葉で、全国で一番最初に辛いトッポッキを提供しはじめたお店です。",
+    "QA": [
+        {
+            "question": "このお店の名前は何ですか？",
+            "answer": "元祖凡一洞メトク"
+        },
+        {
+            "question": "メトクって何ですか？",
+            "answer": "メトクは、辛いトッポッキ（メウントッポッキ）の略称です。"
+        },
+        {
+            "question": "このお店はどこにありますか？",
+            "answer": "このお店は釜山広域市釜山鎮区にあります。"
+        },
+        {
+            "question": "このお店では何を提供していますか？",
+            "answer": "このお店では辛いトッポッキを提供しています。"
+        },
+        {
+            "question": "このお店の特徴は何ですか？",
+            "answer": "このお店は全国で一番最初に辛いトッポッキを提供しはじめたお店です。"
+        }
+    ],
+    "word_Count": {
+        "text": 91,
+        "QA": 130
+    }
+}

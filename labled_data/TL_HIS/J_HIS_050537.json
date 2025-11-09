@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_050537",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2023-08-09",
+        "domain": "문화/역사관광",
+        "title": "경주의 보물을 만나는 길"
+    },
+    "text": "新羅文化の宝物のような結晶体をする旅だ。慶州旅行に欠くことのできない鮑石亭の奥妙な水の流れの構造の美しさと仏国寺、石窟庵、人工石窟寺院であるゴルグルアムの固有することまで見逃せない。新羅の歴史科学館では韓国の文化財の科学的な根を見ることができるので、欠かせない。",
+    "QA": [
+        {
+            "question": "鮑石亭はどのような特徴がありますか？",
+            "answer": "鮑石亭は美しい水の流れの構造を持っています。"
+        },
+        {
+            "question": "仏国寺は何のために建てられましたか？",
+            "answer": "仏国寺は仏教の寺院です。"
+        },
+        {
+            "question": "ゴルグルアムはどのような特徴がありますか？",
+            "answer": "ゴルグルアムは人工石窟寺院で、石窟庵とも呼ばれています。"
+        },
+        {
+            "question": "新羅の歴史科学館では何を見ることができますか？",
+            "answer": "新羅の歴史科学館では韓国の文化財の科学的な根を見ることができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 96,
+        "QA": 128
+    }
+}

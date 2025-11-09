@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_017826",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42010&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "가평 띠아모키즈풀빌라"
+    },
+    "text": "加平に位置する深いところ、澄んだ渓谷が流れるところに位置するペンションティアモです。 日常の疲れを癒してリラックスしながら、清浄な空気を吸いながら気持ち良い思い出を作ってみてください。 入室時間を事前に教えていただければ、22時以降も入室可能です。 ペンションの円滑な運営のため、入退室時間を必ず守ってください。 保護者の同行なしには19歳未満の未成年者は入室できません。 ご了承ください. 摘発された場合は払い戻しなしで退室措置となります。",
+    "QA": [
+        {
+            "question": "ティアモペンションの周辺にはどんな自然の景観がありますか？",
+            "answer": "ティアモペンションは深い渓谷が流れる場所に位置しており、周囲には美しい自然が広がっています。"
+        },
+        {
+            "question": "ペンションの入室時間は何時ですか？",
+            "answer": "事前にご連絡いただければ、22時以降でも入室可能です。ただし、ペンションの円滑な運営のため、入退室時間を守っていただくようお願いしています。"
+        },
+        {
+            "question": "未成年者はペンションに入室できますか？",
+            "answer": "保護者の同行なしには19歳未満の未成年者は入室できません。ご了承ください。"
+        }
+    ],
+    "word_Count": {
+        "text": 162,
+        "QA": 159
+    }
+}

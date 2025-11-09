@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_018884",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1175&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=06060000&ccbaCtcd=37&ccbaCpno=3413706060000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2013-06-24",
+        "domain": "문화/역사관광",
+        "title": "봉화 뇌풍정"
+    },
+    "text": "奉化雷風亭 (봉화 뇌풍정)\\n\n慶尚北道奉化郡法田面法田里168\\n\n慶尚北道文化財資料 , 雷風亭は嶺南地域で在地士族として位置している記号学派の老論系列である奉化法典の晋州姜氏姜在項を称える亭子だ。 奉化法典の晋州姜氏は入郷以来、嶺南地方の在地士族との絆を強化し、中央政界に出入りした。 特にカン·ジェハンは官職から引退した後、郷里で講学活動をしながら三渓書院の郷音奏礼に参加するなど嶺南学派の士人たちと活発に交遊しており注目される。 雷風亭は丘陵地の岩盤の上に建築された特異な亭子であり、所蔵されている本板と扁額も非常に注目される文化遺産だ。 それだけでなく朝鮮後期の独特な亭子建物で数回の補修を経たが、その原型がよく保存されており、老論系列の家門の亭子という意味で見ると重要な歴史的意味がある。",
+    "QA": [
+        {
+            "question": "雷風亭はどこに位置していますか？",
+            "answer": "雷風亭は慶尚北道奉化郡法田面法田里168に位置しています。"
+        },
+        {
+            "question": "雷風亭はどんな歴史的な意味を持っていますか？",
+            "answer": "雷風亭は奉化法典の晋州姜氏姜在項を称える亭子であり、嶺南地方の在地士族との絆を強化し、中央政界に出入りした晋州姜氏の活動を象徴しています。"
+        },
+        {
+            "question": "雷風亭の建物はどのような特徴がありますか？",
+            "answer": "雷風亭は丘陵地の岩盤の上に建築された特異な亭子であり、朝鮮後期の独特な亭子建物であります。また、数回の補修を経たものの、その原型がよく保存されています。"
+        },
+        {
+            "question": "雷風亭にはどんな文化遺産が所蔵されていますか？",
+            "answer": "雷風亭には注目される本板と扁額が所蔵されています。"
+        },
+        {
+            "question": "晋州姜氏のカン·ジェハンはどのような活動をしていましたか？",
+            "answer": "カン·ジェハンは官職から引退した後、郷里で講学活動をしながら三渓書院の郷音奏礼に参加するなど、嶺南学派の士人たちと活発に交遊していました。"
+        }
+    ],
+    "word_Count": {
+        "text": 258,
+        "QA": 277
+    }
+}

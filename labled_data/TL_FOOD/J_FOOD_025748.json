@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_025748",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-09-03",
+        "domain": "음식점",
+        "title": "一番地チャガルチサンコムジャンオ（일번지자갈치산곰장어）"
+    },
+    "text": "一番地チャガルチサンコムジャンオ（일번지자갈치산곰장어）\\n\n釜山広域市 海雲台区 亀南路41番キル12\\n\n「一番地チャガルチサンコムジャンオ」は海雲台市場内にあるコムジャンオ（ヌタウナギ）を提供するお店です。 メニューにはヤンニョム（たれ）焼き、塩焼き、丸焼きがあります。",
+    "QA": [
+        {
+            "question": "このお店の名前は何ですか？",
+            "answer": "一番地チャガルチサンコムジャンオ（일번지자갈치산곰장어）です。"
+        },
+        {
+            "question": "このお店はどこにありますか？",
+            "answer": "海雲台区の亀南路41番キル12にあります。"
+        },
+        {
+            "question": "このお店では何を提供していますか？",
+            "answer": "コムジャンオ（ヌタウナギ）のヤンニョム（たれ）焼き、塩焼き、丸焼きを提供しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 101,
+        "QA": 101
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_019136",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42041&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "광주 농성동 호텔 발렌타인(HOTEL BALLANTINE)"
+    },
+    "text": "光州ユースクエアターミナル交通の中心地に位置するHOTEL BALLANTINEGRANDがオープンしました。 当ホテルは出張、旅行、家族、カップル、団体など皆様が快適にご利用いただける様々な客室タイプをご用意しております。 皆さんに大切な一日をプレゼントするために、ぜひホテルを訪れてください。 徒歩利用または個別駐車を要請し、駐車は徒歩利用または個別駐車が可能です。 注意すべき点は、平日、金曜日、土曜日の価格はホテルの状況によって変動する可能性があることです。 客室はチェックインの際に割り当てられ、実際の客室は上記の画像と異なる場合があります。 オンシーズン、特定日、祝日(前日含む)には料金の変動がある場合があります。 常にお客様により向上したサービスを提供するために努力するHOTEL BALLANTINEになります。",
+    "QA": [
+        {
+            "question": "ホテルBALLANTINEGRANDはどのような場所に位置していますか？",
+            "answer": "ホテルBALLANTINEGRANDは光州ユースクエアターミナル交通の中心地に位置しています。"
+        },
+        {
+            "question": "ホテルBALLANTINEGRANDはどのような客室タイプを提供していますか？",
+            "answer": "ホテルBALLANTINEGRANDは出張、旅行、家族、カップル、団体など様々な客室タイプを提供しています。"
+        },
+        {
+            "question": "ホテルBALLANTINEGRANDでは駐車場が利用できますか？",
+            "answer": "はい、ホテルBALLANTINEGRANDでは徒歩利用または個別駐車が可能です。"
+        },
+        {
+            "question": "ホテルの価格はどのように変動しますか？",
+            "answer": "ホテルの価格は平日、金曜日、土曜日のホテルの状況によって変動する可能性があります。"
+        },
+        {
+            "question": "チェックイン時に客室はどのように割り当てられますか？",
+            "answer": "チェックイン時に客室は割り当てられ、実際の客室は掲載画像と異なる場合があります。"
+        },
+        {
+            "question": "ホテルBALLANTINEGRANDは特定日や祝日の料金が変動しますか？",
+            "answer": "はい、オンシーズンや特定日、祝日（前日を含む）には料金の変動があります。"
+        },
+        {
+            "question": "HOTEL BALLANTINEはどのようなサービスを提供していますか？",
+            "answer": "HOTEL BALLANTINEは常にお客様に向上したサービスを提供するために努力しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 267,
+        "QA": 387
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_030136",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/the-lounge",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "ドラウンジ"
+    },
+    "text": "ドラウンジ\\n\nソウル特別市 ジョンノ区 チョンギェチョンロ 279, JW Marriott Dongdaemun Square Seoul 1階\\n\nソウル特別市トンデムン駅の近くに位置した洋食専門店です。季節ごとに異なるメニューをお出しします。代表的なメニューはデザートです。",
+    "QA": [
+        {
+            "question": "ドラウンジはどこに位置していますか？",
+            "answer": "ドラウンジはソウル特別市 ジョンノ区 チョンギェチョンロ 279, JW Marriott Dongdaemun Square Seoul 1階に位置しています。"
+        },
+        {
+            "question": "ドラウンジでは何を提供していますか？",
+            "answer": "ドラウンジでは季節ごとに異なるメニューを提供しています。特にデザートが代表的なメニューです。"
+        },
+        {
+            "question": "ドラウンジはどの駅の近くにありますか？",
+            "answer": "ドラウンジはソウル特別市トンデムン駅の近くに位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 103,
+        "QA": 155
+    }
+}

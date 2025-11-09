@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_LEI_008952",
+        "source": "도서",
+        "writer": "이명성",
+        "ISBN_ISNN": "978-89-9865-693-5",
+        "version": "초판",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "오늘도 공방으로 출근합니다",
+        "collectedDate": "2023-11-10",
+        "publishedDate": "2020-01-22",
+        "domain": "레포츠",
+        "title": "우꾸"
+    },
+    "text": "蔚山に位置する小物ショップ「ウク」は工房と一緒に運営されています。 OOKKU shop、BEOKKM soap、leflot candleの3つの工房があります。 OOKKU shopはインテリア小物ショップで、様々なアイテムを販売しております。 BEOKKM soapは天然石鹸工房で、天然材料を使用して石鹸を製作·販売しています。 leflot candleはキャンドル工房で、様々な種類のキャンドルを作って販売しています。 工房は峨嵋山展望台の隣やロッテキャッスルモール雲台アパート312棟の隣の商店街で運営されており、お客様は小物ショップのウクを訪ねて楽しい時間を過ごすことができます。",
+    "QA": [
+        {
+            "question": "ウクというショップはどんな商品を扱っていますか？",
+            "answer": "ウクはインテリア小物ショップで、様々なアイテムを販売しています。"
+        },
+        {
+            "question": "ウクの工房は何種類ありますか？",
+            "answer": "ウクの工房にはOOKKU shop、BEOKKM soap、leflot candleの3つの工房があります。"
+        },
+        {
+            "question": "BEOKKM soapは何を作っていますか？",
+            "answer": "BEOKKM soapは天然石鹸を製作·販売しています。"
+        },
+        {
+            "question": "leflot candleはどんな商品を作っていますか？",
+            "answer": "leflot candleは様々な種類のキャンドルを作って販売しています。"
+        },
+        {
+            "question": "ウクの工房はどこにありますか？",
+            "answer": "ウクの工房は峨嵋山展望台の隣やロッテキャッスルモール雲台アパート312棟の隣の商店街で運営されています。"
+        },
+        {
+            "question": "ウクを訪れるとどんな時間を過ごせますか？",
+            "answer": "ウクを訪れると楽しい時間を過ごすことができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 218,
+        "QA": 258
+    }
+}

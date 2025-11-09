@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_018580",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=104&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=08370000&ccbaCtcd=11&ccbaCpno=1121108370000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1985-08-09",
+        "domain": "문화/역사관광",
+        "title": "복각천상열차분야지도 각석"
+    },
+    "text": "復刻天上列車分野指導各席 (복각천상열차분야지도 각석)\\n\nソウル 鐘路区 孝子路 12, クンニプ・コグン・バンムルグァン (世宗路,クンニプ・コグン・バンムルグァン)\\n\n李氏朝鮮 : 粛宗13年(1687年) , 宝物 , 復刻天象列次分野之図刻石は星座を石に刻んだ天文図である。 丸く描いた空の中に1,467個の星が描かれており、下には天文図を作るようになった経緯と参加者名簿が書かれている。 構図上、若干の違いがあるだけで、内容は太祖4年(1395)に初めて作ったものと全く同じで、説明文としては権根の文が載っている。 全体の構成が最初に刻んだものよりもっと良くて堂々としている。 1395年に初めて刻んだものを石が磨り減ってよく見えなくなり粛宗13年(1687)に再び刻んだもので、天文図を製作するようになった理由と過程などは『増補文献備考』、『上位考』と『瑞雲館誌』によく現れている。",
+    "QA": [
+        {
+            "question": "この復刻天象列次分野之図刻石は何を表していますか？",
+            "answer": "この刻石は星座を石に刻んだ天文図を表しています。"
+        },
+        {
+            "question": "この天文図の中には何個の星が描かれていますか？",
+            "answer": "この天文図の中には1,467個の星が描かれています。"
+        },
+        {
+            "question": "この復刻天象列次分野之図刻石の下には何が書かれていますか？",
+            "answer": "この刻石の下には天文図を作る経緯と参加者名簿が書かれています。"
+        },
+        {
+            "question": "この刻石は何年に作られたものですか？",
+            "answer": "この刻石は粛宗13年(1687年)に作られたものです。"
+        },
+        {
+            "question": "なぜこの天文図は再び刻まれたのですか？",
+            "answer": "1395年に初めて作られた刻石が磨り減って見えなくなったため、粛宗13年(1687年)に再び刻まれました。"
+        },
+        {
+            "question": "この天文図を作る過程や理由についてはどこで詳しく説明されていますか？",
+            "answer": "この天文図の製作過程や理由は『増補文献備考』、『上位考』、および『瑞雲館誌』などで詳しく説明されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 293,
+        "QA": 265
+    }
+}

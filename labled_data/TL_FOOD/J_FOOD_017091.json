@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_017091",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "高麗サムゲタン ( 고려삼계탕 )"
+    },
+    "text": "高麗サムゲタン ( 고려삼계탕 )\\n\n全羅南道 モクポ市 ギョユクロ11\\n\n韓国の滋養食であるサムゲタン料理です。全羅南道のモクポ市に位置した韓食専門店です。おすすめはサムゲタンです。",
+    "QA": [
+        {
+            "question": "高麗サムゲタンはどのような料理ですか？",
+            "answer": "高麗サムゲタンは韓国の滋養食で、モクポ市に位置する韓食専門店で提供されています。"
+        },
+        {
+            "question": "高麗サムゲタンのおすすめは何ですか？",
+            "answer": "高麗サムゲタンがおすすめです。"
+        },
+        {
+            "question": "高麗サムゲタンはどこに位置していますか？",
+            "answer": "高麗サムゲタンは全羅南道のモクポ市のギョユクロ11に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 68,
+        "QA": 107
+    }
+}

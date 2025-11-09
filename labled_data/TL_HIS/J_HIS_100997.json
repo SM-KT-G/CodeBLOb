@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_100997",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/collectionList#######",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2023-10-11",
+        "domain": "문화/역사관광",
+        "title": "정해\"글자가 있는 상감 초벌 조각"
+    },
+    "text": "丁亥\"文字のある象嵌素伐彫刻 (정해\"글자가 있는 상감 초벌 조각)\\n\n2つの名が「丁亥」のある部分が文章全体に統一感がなく、読みづらい印象を与えています。下記はそれを修正します。 韓国の高麗時代の陶磁器には、丁亥名と呼ばれるものがあります。これらの陶磁器は食生活や食事に関連しており、その他の分類にも含まれます。現在、これらの丁亥名の陶磁器の大きさは、高さ30cm、底径69cm、幅79cmほどです。",
+    "QA": [
+        {
+            "question": "丁亥名の陶磁器は何時代のものですか？",
+            "answer": "高麗時代のものです。"
+        },
+        {
+            "question": "陶磁器の大きさはどのくらいですか？",
+            "answer": "高さ30cm、底径69cm、幅79cmほどです。"
+        },
+        {
+            "question": "丁亥名の陶磁器にはどのような関連がありますか？",
+            "answer": "食生活や食事に関連しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 148,
+        "QA": 78
+    }
+}

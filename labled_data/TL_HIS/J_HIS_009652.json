@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_009652",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=609&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=03530000&ccbaCtcd=37&ccbaCpno=2113703530000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2004-10-14",
+        "domain": "문화/역사관광",
+        "title": "구미 금강사 금동관음보살입상"
+    },
+    "text": "亀尾金剛寺 金銅観音菩薩立像 (구미 금강사 금동관음보살입상)\\n\n慶尚北道亀尾市\\n\n三国時代 , 慶尚北道有形文化財 , この仏像は金剛寺を創建した鉄友禅師が金剛山で修行する時、石造釈迦如来坐像、金銅薬師如来立像と共に廃寺跡で収拾して祀ったが、1952年から現在の金剛寺に奉安してきたものだ。仏像の高さは30cm、肩幅11cm、台座の高さ5.5cm、台座の直径12cmだ。 顔は長方形に近いが非常に円満で、豆腐の大きさが身体の3分の1程度に大きい。 頭の上には華麗な宝冠が飾られており、その中に化仏1体がある。 首の三刀は2条の突出線で表現されており、首と胸に華やかな胸飾りで飾られている。 蓮花台座を構成している蓮花門は10横で、後ろの中央には彫刻されていない。この観音菩薩像の特徴は右手に持ったかごに魚が入っているもので、類を見ない。 また、服の部分に魚字文がいっぱいに詩文されている。この仏像の造成時期は10~11世紀頃と推定され、高麗時代の金銅仏研究の重要な資料と評価される。",
+    "QA": [
+        {
+            "question": "金剛寺はどこにありますか？",
+            "answer": "金剛寺は慶尚北道亀尾市にあります。"
+        },
+        {
+            "question": "金剛寺の創建時期はいつですか？",
+            "answer": "金剛寺の創建時期は三国時代です。"
+        },
+        {
+            "question": "金剛寺には何体の仏像が祀られていますか？",
+            "answer": "金剛寺には鉄友禅師が修行する時に収拾して祀った石造釈迦如来坐像、金銅薬師如来立像と共に、この金銅観音菩薩立像が祀られています。"
+        },
+        {
+            "question": "金剛寺の観音菩薩立像の特徴は何ですか？",
+            "answer": "金剛寺の観音菩薩立像の特徴は、右手に持ったかごに魚が入っていることや、服の部分に魚字文が詩文されていることです。"
+        },
+        {
+            "question": "金剛寺の観音菩薩像はいつ造成されたと推定されていますか？",
+            "answer": "金剛寺の観音菩薩像は10~11世紀頃と推定されており、高麗時代の金銅仏研究の重要な資料と評価されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 326,
+        "QA": 220
+    }
+}

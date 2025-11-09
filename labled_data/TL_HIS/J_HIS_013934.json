@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_013934",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1215&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=79&ccbaAsno=02990000&ccbaCtcd=36&ccbaCpno=4413602990000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2006-12-04",
+        "domain": "문화/역사관광",
+        "title": "나주 구 남평역"
+    },
+    "text": "羅州区南坪駅 (나주 구 남평역)\\n\n全羅南道羅州市南坪邑東村路313、ほか(広村里)\\n\n1956年 , 国家登録文化財 , 南坪駅は1棟、1階規模で建築面積90.6㎡、鉄路長さ左右それぞれ150mだ。 南平駅は慶全線路で1930年12月25日簡易駅として営業を開始し、1948年5月3日普通駅に昇格し、1950年2月7日麗水·順天反乱事件で駅は焼失し1956年7月17日新築された。 6·25動乱と1·4後退の時に人民軍の掌握と戦闘があった痛い歴史を持っている。 現在も簡易駅として使用されている。",
+    "QA": [
+        {
+            "question": "南坪駅はいつ建築されましたか？",
+            "answer": "南坪駅は1956年に建築されました。"
+        },
+        {
+            "question": "南坪駅はどのような歴史を持っていますか？",
+            "answer": "南坪駅は慶全線路で1930年に簡易駅として営業を開始し、1948年に普通駅に昇格しました。1950年の麗水·順天反乱事件で駅が焼失し、1956年に新築されました。また、6・25動乱と1・4後退の時には人民軍の掌握と戦闘がありました。"
+        },
+        {
+            "question": "南坪駅の建物の面積は何平方メートルですか？",
+            "answer": "南坪駅の建物の面積は90.6㎡です。"
+        },
+        {
+            "question": "南坪駅は現在も使用されていますか？",
+            "answer": "はい、南坪駅は現在も簡易駅として使用されています。"
+        },
+        {
+            "question": "南坪駅はどのような位置にありますか？",
+            "answer": "南坪駅は全羅南道羅州市南坪邑東村路313に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 184,
+        "QA": 217
+    }
+}

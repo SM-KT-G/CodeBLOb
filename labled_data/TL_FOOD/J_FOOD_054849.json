@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_054849",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2022-11-18",
+        "domain": "음식점",
+        "title": "Ato"
+    },
+    "text": "Atoは大田広域市儒城区弓洞にある。現代的な感じの外観とモダンな雰囲気を演出するインテリアで構成された。代表メニューはコドゥンオボン寿司であり、フトマキとサバ酸度も人気が多い。この他にも焼きそば、オンそば、チキンから揚げ、メンボシャなど、おいしそうな食べ物が用意されている。儒城ICから近くて、周辺に国立中央科学館と大田(テジョン)エキスポ・アクアリウムがある。",
+    "QA": [
+        {
+            "question": "Atoはどこにありますか？",
+            "answer": "Atoは大田広域市儒城区弓洞にあります。"
+        },
+        {
+            "question": "Atoの代表メニューは何ですか？",
+            "answer": "Atoの代表メニューはコドゥンオボン寿司です。"
+        },
+        {
+            "question": "Atoの周辺にはどんな観光スポットがありますか？",
+            "answer": "Atoの周辺には国立中央科学館と大田エキスポ・アクアリウムがあります。"
+        },
+        {
+            "question": "Atoのメニューにはどんな食べ物がありますか？",
+            "answer": "Atoのメニューにはコドゥンオボン寿司の他にも焼きそば、オンそば、チキンから揚げ、メンボシャなどがあります。"
+        },
+        {
+            "question": "Atoの雰囲気はどんな感じですか？",
+            "answer": "Atoの雰囲気は現代的でモダンな感じの外観とインテリアで構成されています。"
+        },
+        {
+            "question": "Atoの人気メニューは何ですか？",
+            "answer": "Atoの人気メニューはコドゥンオボン寿司の他にフトマキとサバ酸度も人気があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 132,
+        "QA": 233
+    }
+}

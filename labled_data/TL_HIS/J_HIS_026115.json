@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_026115",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-02-17",
+        "domain": "문화/역사관광",
+        "title": "于勒博物館（우륵박물관）"
+    },
+    "text": "于勒博物館（우륵박물관）\\n\n慶尚北道 高霊郡 高霊邑 伽倻琴キル 98\\n\n于勒（ウルク）博物館は、伽倻琴（カヤグム）を創り出した楽聖于勒に関する資料を収集・展示し、于勒と伽倻琴の世界を分かりやすく紹介するために建てられました。",
+    "QA": [
+        {
+            "question": "この博物館はどこにありますか？",
+            "answer": "于勒博物館は慶尚北道高霊郡高霊邑伽倻琴キル98にあります。"
+        },
+        {
+            "question": "この博物館は何を収集・展示していますか？",
+            "answer": "于勒博物館は伽倻琴を創り出した楽聖于勒に関する資料を収集・展示しています。"
+        },
+        {
+            "question": "この博物館はどんな目的で建てられましたか？",
+            "answer": "于勒博物館は于勒と伽倻琴の世界を分かりやすく紹介するために建てられました。"
+        },
+        {
+            "question": "伽倻琴とは何ですか？",
+            "answer": "伽倻琴は楽聖于勒によって創り出された楽器です。"
+        },
+        {
+            "question": "伽倻琴キルとはどこですか？",
+            "answer": "伽倻琴キルは高霊邑の地名で、于勒博物館が位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 84,
+        "QA": 170
+    }
+}

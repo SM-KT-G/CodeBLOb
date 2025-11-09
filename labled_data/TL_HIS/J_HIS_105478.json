@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_105478",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=847&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=01100000&ccbaCtcd=34&ccbaCpno=2333401100000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1997-12-23",
+        "domain": "문화/역사관광",
+        "title": "천안향교"
+    },
+    "text": "忠清南道記念物、郷校は孔子と様々な聖賢に祭祀を行い、地方民の教育と教化のために国が建てた教育機関です。天安郷校は太祖7年(1398)に初めて建てられましたが、文禄·慶長の役の時に焼失しました。その後、宣祖39年(1606)に建て直されたものと思われます。現在残っている建物は祭祀空間である大成殿と東武·庶務、教育機能を遂行する講堂である明倫堂、学生たちの寮である東斎·西斎、殿舍庫、三門、風花楼などです明倫堂は孝宗7年(1656)に建てられましたが、規模は前面4間·側面2間です。大成殿の規模は前面3間·側面2間で、屋根は側面から見て人の字型の切妻屋根となっています。中には孔子を中心に彼の弟子たちと中国と韓国の聖賢たちの位牌が祀られています。朝鮮時代には国から土地と奴婢·本などの支援を受けて学生たちを教えましたが、今は教育機能はなくなり祭祀機能だけが残っています",
+    "QA": [
+        {
+            "question": "天安郷校は何年に初めて建てられましたか？",
+            "answer": "天安郷校は太祖7年(1398)に初めて建てられました。"
+        },
+        {
+            "question": "天安郷校の建物のうち、現在残っているものには何がありますか？",
+            "answer": "現在残っている建物には、大成殿、明倫堂、東斎、西斎、殿舍庫、三門、風花楼などがあります。"
+        },
+        {
+            "question": "明倫堂は何年に建てられましたか？",
+            "answer": "明倫堂は孝宗7年(1656)に建てられました。"
+        },
+        {
+            "question": "大成殿の規模はどのようになっていますか？",
+            "answer": "大成殿の規模は前面3間・側面2間で、屋根は側面から見て人の字型の切妻屋根となっています。"
+        },
+        {
+            "question": "天安郷校はどのような機能を持っていましたか？",
+            "answer": "天安郷校は教育機能を持っていました。朝鮮時代には国からの支援を受けて学生たちを教えました。"
+        }
+    ],
+    "word_Count": {
+        "text": 280,
+        "QA": 213
+    }
+}

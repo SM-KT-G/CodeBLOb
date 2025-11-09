@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_041475",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101971",
+        "collectedDate": "2023-09-07",
+        "publishedDate": "2022-11-01",
+        "domain": "문화/역사관광",
+        "title": "The ARC(ジ・アーク)文化館"
+    },
+    "text": "昼も夜も人の目を引き付ける波   The ARC文化館は、洛東江(ナクトンガン)と琴湖江(クムホガン)が合流する地点に建っています。2012年9月に開館したThe ARC文化館は、川と水に関するすべてのものを包み込む建築のアート作品です。The ARCという名は、Architecture of River CultureとArtistry of River Cultureの頭文字を取っており、空、地球、文化についてエレガントでありながら幾何学的にアプローチし、川の文化の全てを包み込む建造物でアート作品であることを標榜します。この建造物は、世界的に有名な建築家ハニ・ラッシードが設計し、川の表面に石を投げた時にできる波紋や川の外に飛び上がる魚の形をモチーフにしています。The ARC文化館の内部では、「川と人と共感」をテーマにした様々な展覧会が開かれています。とくに1階ロビーの壁にびっしり描かれた青いGreeting Manは、歓迎の意味を力強く表現したものです。  階段またはエレベーターで展望台に上ると、琴湖江と洛東江が一望できます。夜は建物の外壁が美しい照明で照らされ、風情ある夜の情緒を引き立てます。   ",
+    "QA": [
+        {
+            "question": "ARC文化館はいつ開館しましたか？",
+            "answer": "ARC文化館は2012年9月に開館しました。"
+        },
+        {
+            "question": "The ARCという名前の由来は何ですか？",
+            "answer": "The ARCという名前は、Architecture of River CultureとArtistry of River Cultureの頭文字を取っています。"
+        },
+        {
+            "question": "The ARC文化館の設計を担当した建築家は誰ですか？",
+            "answer": "The ARC文化館の設計を担当した建築家はハニ・ラッシードです。"
+        },
+        {
+            "question": "The ARC文化館の内部ではどのような展覧会が開かれていますか？",
+            "answer": "The ARC文化館の内部では、「川と人と共感」をテーマにした様々な展覧会が開かれています。"
+        },
+        {
+            "question": "The ARC文化館の展望台からは何が一望できますか？",
+            "answer": "展望台からは琴湖江と洛東江が一望できます。"
+        },
+        {
+            "question": "The ARC文化館の外壁は夜にどのように照らされますか？",
+            "answer": "The ARC文化館の外壁は美しい照明で照らされ、風情ある夜の情緒を引き立てます。"
+        }
+    ],
+    "word_Count": {
+        "text": 374,
+        "QA": 291
+    }
+}

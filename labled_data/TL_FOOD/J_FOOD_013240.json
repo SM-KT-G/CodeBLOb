@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_013240",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-05",
+        "domain": "음식점",
+        "title": "ベコプ時計 ( 배꼽시계 )"
+    },
+    "text": "ベコプ時計 ( 배꼽시계 )\\n\n慶尚北道 アンドン市 ソドンムンロ174-4\\n\n肉と各種のナムルを混ぜて食べる料理です。慶尚北道のアンドン市に位置した韓食専門店です。代表的なメニューは豚肉炒めビビンバです。",
+    "QA": [
+        {
+            "question": "ベコプ時計はどのような料理ですか？",
+            "answer": "ベコプ時計は肉と各種のナムルを混ぜて食べる料理です。"
+        },
+        {
+            "question": "ベコプ時計のお店はどこにありますか？",
+            "answer": "ベコプ時計のお店は慶尚北道のアンドン市のソドンムンロ174-4に位置しています。"
+        },
+        {
+            "question": "ベコプ時計の代表的なメニューは何ですか？",
+            "answer": "ベコプ時計の代表的なメニューは豚肉炒めビビンバです。"
+        }
+    ],
+    "word_Count": {
+        "text": 77,
+        "QA": 107
+    }
+}

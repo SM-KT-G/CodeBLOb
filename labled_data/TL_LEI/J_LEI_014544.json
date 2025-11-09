@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_LEI_014544",
+        "source": "도서",
+        "writer": "이명성",
+        "ISBN_ISNN": "978-89-9865-693-5",
+        "version": "초판",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "오늘도 공방으로 출근합니다",
+        "collectedDate": "2023-11-10",
+        "publishedDate": "2020-01-22",
+        "domain": "레포츠",
+        "title": "무릇 스테인드글라스"
+    },
+    "text": "気持ちを伝える大人しいステンドグラスMURUTWORKROOMは作業室シェアを通じて制作するステンドグラス作品を展示しています。 ここではワンデークラスと趣味クラスを通じて参加者が直接ステンドグラス作品を作ってみることができるようにサポートしており、各自の雰囲気と色彩を盛り込んだ小物を作ることができます。 ここでの体験を通じて、新しい趣向と才能を発見することができるでしょう。 また、オーダーメイド及び工房直接購入サービスも提供しています。 MURUTWORKROOMは石南駅の5番出口から少し上がってください。",
+    "QA": [
+        {
+            "question": "MURUTWORKROOMはどこにありますか？",
+            "answer": "MURUTWORKROOMは石南駅の5番出口から少し上がった場所にあります。"
+        },
+        {
+            "question": "MURUTWORKROOMではどのような作品を展示していますか？",
+            "answer": "MURUTWORKROOMは作業室シェアを通じて制作したステンドグラス作品を展示しています。"
+        },
+        {
+            "question": "どのようなクラスを通じてステンドグラス作品を作ることができますか？",
+            "answer": "MURUTWORKROOMではワンデークラスと趣味クラスを通じて参加者が直接ステンドグラス作品を作ることができます。"
+        },
+        {
+            "question": "MURUTWORKROOMでの体験を通じて何を発見することができますか？",
+            "answer": "MURUTWORKROOMでの体験を通じて、新しい趣向と才能を発見することができます。"
+        },
+        {
+            "question": "MURUTWORKROOMではどのようなサービスを提供していますか？",
+            "answer": "MURUTWORKROOMではオーダーメイド及び工房直接購入サービスを提供しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 188,
+        "QA": 283
+    }
+}

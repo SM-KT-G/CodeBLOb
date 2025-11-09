@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_009188",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2022-12-26",
+        "domain": "자연관광",
+        "title": "墨湖灯台（묵호등대）"
+    },
+    "text": "墨湖灯台（묵호등대）\\n\nカンウォン道トンヘ市ヘマジキル300\\n\n墨湖灯台は東海市の主要港である墨湖港の近くにある灯台で、東海ノンゴルダムギルを上ったところにあります。灯台の螺旋階段を上ると東海が遠くまでよく見渡せます。灯台のある丘のふもとには海が見えるカフェや民宿が多数あります。",
+    "QA": [
+        {
+            "question": "墨湖灯台はどこにありますか？",
+            "answer": "墨湖灯台は東海市の主要港である墨湖港の近くにあります。"
+        },
+        {
+            "question": "墨湖灯台の近くには何がありますか？",
+            "answer": "墨湖灯台の近くには海が見えるカフェや民宿が多数あります。"
+        },
+        {
+            "question": "墨湖灯台からは何が見えますか？",
+            "answer": "墨湖灯台の螺旋階段を上ると東海が遠くまでよく見渡せます。"
+        }
+    ],
+    "word_Count": {
+        "text": 104,
+        "QA": 94
+    }
+}

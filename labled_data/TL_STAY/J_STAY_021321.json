@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_021321",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-12-30",
+        "domain": "숙박",
+        "title": "恋浦リゾート（연포리조트）"
+    },
+    "text": "恋浦リゾート（연포리조트）\\n\n忠清南道 泰安郡 近興面 恋浦2キル57\\n\n涼しげな海と松の香り、手つかずの自然に囲まれた恋浦（ヨンポ）リゾートは、泰安の海岸線沿いに立地しており、西海岸最高のリゾート地として有名です。客室の窓を開けると松林の間から海が見え、夕方には美しい日没が観賞できます。",
+    "QA": [
+        {
+            "question": "恋浦リゾートはどこにありますか？",
+            "answer": "恋浦リゾートは忠清南道泰安郡近興面恋浦2キル57に位置しています。"
+        },
+        {
+            "question": "恋浦リゾートはどのような自然に囲まれていますか？",
+            "answer": "恋浦リゾートは涼しげな海と松の香り、手つかずの自然に囲まれています。"
+        },
+        {
+            "question": "恋浦リゾートは何で有名ですか？",
+            "answer": "恋浦リゾートは西海岸最高のリゾート地として有名です。"
+        },
+        {
+            "question": "客室の窓からは何が見えますか？",
+            "answer": "客室の窓を開けると松林の間から海が見えます。"
+        },
+        {
+            "question": "どのような風景を観賞することができますか？",
+            "answer": "夕方には美しい日没を観賞することができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 107,
+        "QA": 167
+    }
+}

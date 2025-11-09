@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_025148",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2023-07-02",
+        "domain": "음식점",
+        "title": "원조태성실비식당"
+    },
+    "text": "元祖テソンシルビ食堂 (원조태성실비식당)\\n\n江原特別自治道 太白市甘川路4\\n\n太白には「元祖テソンシルビ食堂」という、他の飲食店とは違った特徴があります。そこでは、練炭で焼かれた韓牛を楽しむことができます。メニューには、韓牛のほかにも、韓牛ユッケや韓牛盛り合わせなどがあります。",
+    "QA": [
+        {
+            "question": "このお店の名前は何ですか？",
+            "answer": "元祖テソンシルビ食堂 (원조태성실비식당) です。"
+        },
+        {
+            "question": "このお店はどこにありますか？",
+            "answer": "江原特別自治道 太白市甘川路4にあります。"
+        },
+        {
+            "question": "このお店の特徴は何ですか？",
+            "answer": "このお店では、練炭で焼かれた韓牛を楽しむことができます。"
+        },
+        {
+            "question": "このお店のメニューには何がありますか？",
+            "answer": "メニューには、韓牛のほかにも、韓牛ユッケや韓牛盛り合わせなどがあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 104,
+        "QA": 123
+    }
+}

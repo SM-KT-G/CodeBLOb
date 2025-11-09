@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_097645",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/collectionList#######",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2023-10-11",
+        "domain": "문화/역사관광",
+        "title": "일본인 모녀"
+    },
+    "text": "日本人母娘 (일본인 모녀)\\n\nこの格納箱には、日本人の母親と娘の写真が収められています。この写真は、かつて韓国が日本の植民地支配下にあった時代のものです。写真の材質はガラスで、宝石で飾られています。また、この写真はメディアとしても使われることがあり、フィルムで撮影されました。サイズは横120cm、縦164cmです。",
+    "QA": [
+        {
+            "question": "写真の材質は何ですか？",
+            "answer": "ガラスで、宝石で飾られています。"
+        },
+        {
+            "question": "写真のサイズは何ですか？",
+            "answer": "横120cm、縦164cmです。"
+        },
+        {
+            "question": "写真はいつ撮影されましたか？",
+            "answer": "かつて韓国が日本の植民地支配下にあった時代のものです。"
+        },
+        {
+            "question": "写真はどのようなメディアとして使われますか？",
+            "answer": "フィルムで撮影され、メディアとしても使われることがあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 117,
+        "QA": 108
+    }
+}

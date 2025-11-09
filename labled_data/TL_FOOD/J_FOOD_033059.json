@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_033059",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/jeffreycafe-daehakro",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "JEFFREY Cauendish st. london 大学路店"
+    },
+    "text": "JEFFREY Cauendish st. london 大学路店\\n\nソウル特別市 鍾路区 東崇洞 1-133\\n\nフラワーカフェjeffrey。英国ロンドンJane Packer、McQなどのフラワーショップでフロリストとして活動したジェフリー・キムが設立したブランド。メニューにはコーヒー、フルーツジュース、デトックス・エイド、ヨーグルト、スムージー、かき氷、ケーキなどがあります。売場はフラワーショップと一緒に運営され、フラワーレッスンも開かれる場所。",
+    "QA": [
+        {
+            "question": "ジェフリー・キムはどこでフロリストとして活動しましたか？",
+            "answer": "ジェフリー・キムは英国ロンドンのJane Packer、McQなどのフラワーショップでフロリストとして活動しました。"
+        },
+        {
+            "question": "ジェフリー・キムが設立したブランドの名前は何ですか？",
+            "answer": "ジェフリー・キムが設立したブランドの名前はJeffreyです。"
+        },
+        {
+            "question": "ジェフリー・キムが運営する売場の種類は何ですか？",
+            "answer": "ジェフリー・キムが運営する売場はフラワーショップと一緒に運営されています。"
+        },
+        {
+            "question": "ジェフリー・キムのブランドが提供するメニューには何がありますか？",
+            "answer": "ジェフリー・キムのブランドが提供するメニューにはコーヒー、フルーツジュース、デトックス・エイド、ヨーグルト、スムージー、かき氷、ケーキなどがあります。"
+        },
+        {
+            "question": "ジェフリー・キムの場所で開かれるイベントは何ですか？",
+            "answer": "ジェフリー・キムの場所ではフラワーレッスンも開かれます。"
+        }
+    ],
+    "word_Count": {
+        "text": 168,
+        "QA": 267
+    }
+}

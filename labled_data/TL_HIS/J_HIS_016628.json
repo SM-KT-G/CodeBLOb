@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_016628",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1095&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=02250000&ccbaCtcd=36&ccbaCpno=3413602250000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2001-09-27",
+        "domain": "문화/역사관광",
+        "title": "무안고절리고분"
+    },
+    "text": "務安ゴジリ古墳 (무안고절리고분)\\n\n全羅南道務安郡務安邑古節里1011番地のほか\\n\n全羅南道文化財資料 , 務安高節里古墳は海抜35m内外の丘陵に位置するが、北東側から南西側に降りてくる丘陵の北西斜面に位置している。 墳丘には多数の民墓が位置しているが、墳丘平坦部と北西、南西、南東斜面に分布し、南東斜面の端は深く掘られた部分もある。 墳丘の南東辺を除いた残りの部分の墳丘の端や主溝に該当する部分がかなり削られたと考えられ、墳丘に墓が造成され一部変形されたが、全体的な保存状態は良好な方だ。 墳丘の平面形態は方形であり、軸方向は北東-南西だ。 規模は各辺の長さ38m内外で、高さは古墳が斜面に位置するため地点によって異なるが、墳丘中央を基準にすれば5m程度と推定される。 木浦大学校博物館で周辺地域に対する試掘調査を実施したが、幅6.1m、深さ0.73m、断面形態U字型に近い周溝が確認された。",
+    "QA": [
+        {
+            "question": "この古墳はどのような形状ですか？",
+            "answer": "この古墳は方形の形状をしており、軸方向は北東-南西の方向です。"
+        },
+        {
+            "question": "この古墳の規模はどれくらいですか？",
+            "answer": "この古墳の各辺の長さは約38mで、高さは地点によって異なりますが、墳丘中央を基準にすると約5m程度と推定されています。"
+        },
+        {
+            "question": "周辺には他の墓が存在しますか？",
+            "answer": "はい、この墳丘の周辺には多数の民墓が存在しています。墳丘平坦部と北西、南西、南東斜面に分布しており、南東斜面の端には深く掘られた部分もあるようです。"
+        },
+        {
+            "question": "この古墳の保存状態はどうですか？",
+            "answer": "この古墳の一部の墳丘の端や主溝は削られているようですが、全体的な保存状態は良好です。"
+        },
+        {
+            "question": "この古墳に関する試掘調査の結果はありますか？",
+            "answer": "木浦大学校博物館が周辺地域に対する試掘調査を実施しました。その結果、幅6.1m、深さ0.73m、U字型に近い形状の周溝が確認されました。"
+        }
+    ],
+    "word_Count": {
+        "text": 293,
+        "QA": 264
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_019185",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101933",
+        "collectedDate": "2023-10-06",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "찹쌀떡"
+    },
+    "text": "大福\n大福は韓国の食べ物だ。 餅とも呼ぶ。 普通もち米をこねて作る。 これを色とりどりにするともち米団子になり、普通、外側に米粉などの粉をつけて食べる。 きな粉餅に似ている。 普通、そば粉のように栗粉として売っていたが、最近はなかなか見られないのが事実だ。",
+    "QA": [
+        {
+            "question": "大福は何で作られますか？",
+            "answer": "大福は普通、もち米をこねて作られます。"
+        },
+        {
+            "question": "大福はどのように食べますか？",
+            "answer": "普通、大福は外側に米粉などの粉をつけて食べます。"
+        },
+        {
+            "question": "大福はどういう風味がありますか？",
+            "answer": "大福はきな粉餅に似た風味があります。"
+        },
+        {
+            "question": "大福は最近はなぜなかなか見られないのですか？",
+            "answer": "最近は大福の栗粉の販売が少なくなっているため、なかなか見られないです。"
+        }
+    ],
+    "word_Count": {
+        "text": 93,
+        "QA": 117
+    }
+}

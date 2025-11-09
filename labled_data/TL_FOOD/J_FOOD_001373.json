@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001373",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-08-27",
+        "domain": "음식점",
+        "title": "853 ( 팔오삼 )"
+    },
+    "text": "853 ( 팔오삼 )\\n\nソウル特別市 鐘路区 仁寺洞12キル 16\\n\n肉汁たっぷりの豚肉の名店です。ソウル特別市のジョンノ区に位置した韓食専門店です。おすすめはサムギョプサルです。",
+    "QA": [
+        {
+            "question": "このお店はどこにありますか？",
+            "answer": "このお店はソウル特別市鐘路区仁寺洞12キル16にあります。"
+        },
+        {
+            "question": "このお店のおすすめメニューは何ですか？",
+            "answer": "このお店のおすすめメニューはサムギョプサルです。"
+        },
+        {
+            "question": "このお店の特徴は何ですか？",
+            "answer": "このお店の特徴は豚肉の肉汁たっぷりな料理を提供していることです。"
+        }
+    ],
+    "word_Count": {
+        "text": 68,
+        "QA": 96
+    }
+}

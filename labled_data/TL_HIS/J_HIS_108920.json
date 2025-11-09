@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_108920",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/view?relicId=51415",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2023-10-11",
+        "domain": "문화/역사관광",
+        "title": "청자 병 조각"
+    },
+    "text": "青磁瓶の欠片 (청자 병 조각)\\n\n国籍/時代: 「この作品は韓国の高麗時代に作られました。」 材質: 「この作品は陶磁器で、具体的には青磁でできています。」 分類: 「この作品は食生活に関連していて、食べ物の保存や運搬に使用されるボトルです。」 大きさ: 「現在の寸法は高さ3.3cm、幅10.4cm、長さ2.0cm、幅5.0cmです。」",
+    "QA": [
+        {
+            "question": "この作品はどの時代に作られましたか？",
+            "answer": "高麗時代に作られました。"
+        },
+        {
+            "question": "この作品は何でできていますか？",
+            "answer": "陶磁器で、具体的には青磁でできています。"
+        },
+        {
+            "question": "この作品は何に使用されていましたか？",
+            "answer": "食生活に関連していて、食べ物の保存や運搬に使用されるボトルです。"
+        },
+        {
+            "question": "この作品の寸法は何ですか？",
+            "answer": "現在の寸法は高さ3.3cm、幅10.4cm、長さ2.0cm、幅5.0cmです。"
+        }
+    ],
+    "word_Count": {
+        "text": 125,
+        "QA": 122
+    }
+}

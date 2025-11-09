@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_020512",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=783&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=00230000&ccbaCtcd=38&ccbaCpno=2333800230000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1974-12-28",
+        "domain": "문화/역사관광",
+        "title": "산청 장천리 도요지"
+    },
+    "text": "山清長千里陶窯址 (산청 장천리 도요지)\\n\n慶尚南道山清郡新登面長川里石峰山一帯\\n\n慶尚南道記念物 , 要旨は磁器や瓦·器を作って焼いた窯跡をいう。 長川里のソンハン村から2km離れたところに1号窯跡があり、ここからソンハン村側に1.5kmほど降りてきたところに2号窯跡がある。 1号窯跡は土砂崩れで全て破壊され、2号窯跡は道路工事によって窯跡の中心部が完全に破壊された。 1、2号窯跡で採集された遺物は、平鉢·皿·小皿·瓶の彫刻で、器の形と模様は似ている。 しかし、磁器を作る土台土である胎土と釉薬において、1号窯跡のものが2号窯跡に比べて質が落ちる。 文様は象嵌の場合、柳、牡丹唐草、鴨、菊模様を刻んだものがあり、印花門としては花板門などがある。 長川里の窯跡は高麗後期の象嵌青磁から朝鮮前期の象嵌粉靑に変わっていく姿を見せる重要なところだ。",
+    "QA": [
+        {
+            "question": "この陶窯址はどこにありますか？",
+            "answer": "山清郡新登面長川里石峰山一帯にあります。"
+        },
+        {
+            "question": "なぜこの陶窯址は重要ですか？",
+            "answer": "この窯跡は、高麗後期の象嵌青磁から朝鮮前期の象嵌粉靑に変わっていく姿を見せる重要な場所です。"
+        },
+        {
+            "question": "この窯跡ではどのような遺物が採集されましたか？",
+            "answer": "1号窯跡と2号窯跡で採集された遺物は、平鉢・皿・小皿・瓶の彫刻があります。形と模様は似ていますが、質は1号窯跡のものが2号窯跡に比べて落ちます。"
+        },
+        {
+            "question": "窯跡の周辺にはどのような村がありますか？",
+            "answer": "窯跡の近くにはソンハン村があります。"
+        },
+        {
+            "question": "この窯跡はなぜ破壊されたのですか？",
+            "answer": "1号窯跡は土砂崩れで全て破壊され、2号窯跡は道路工事によって窯跡の中心部が完全に破壊されました。"
+        }
+    ],
+    "word_Count": {
+        "text": 275,
+        "QA": 214
+    }
+}

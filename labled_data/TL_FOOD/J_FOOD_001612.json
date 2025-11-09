@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001612",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-09-01",
+        "domain": "음식점",
+        "title": "Cook&Beer ( 쿠캔비어 )"
+    },
+    "text": "Cook&Beer ( 쿠캔비어 )\\n\nソウル特別市 鐘路区 水標路 108\\n\n各種鶏料理と韓国式のおつまみ料理が味わえます。おすすめはチキンです。ソウル特別市のジョンノ区に位置した韓国料理店です。",
+    "QA": [
+        {
+            "question": "このレストランの特徴は何ですか？",
+            "answer": "ソウル特別市のジョンノ区に位置し、鶏料理とおつまみ料理を提供しています。特におすすめはチキンです。"
+        },
+        {
+            "question": "このレストランの住所はどこですか？",
+            "answer": "ソウル特別市 鐘路区 水標路 108に位置しています。"
+        },
+        {
+            "question": "このレストランではどんな料理が味わえますか？",
+            "answer": "鶏料理と韓国式のおつまみ料理が楽しめます。特におすすめはチキンです。"
+        },
+        {
+            "question": "このレストランの名前は何ですか？",
+            "answer": "このレストランの名前は「Cook&Beer ( 쿠캔비어 )」です。"
+        }
+    ],
+    "word_Count": {
+        "text": 74,
+        "QA": 157
+    }
+}

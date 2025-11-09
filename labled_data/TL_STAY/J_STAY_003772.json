@@ -1,0 +1,31 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_003772",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2019-07-29",
+        "domain": "숙박",
+        "title": "コモドホテル浦項（코모도호텔 포항）"
+    },
+    "text": "コモドホテル浦項（코모도호텔 포항）\\n\n慶尚北道 浦項市 南区 松島路 71\\n\nコモドホテル浦項（ポハン）は、東海岸を満喫できる場所です。客室は洗練されたインテリアで高級感が溢れています。",
+    "QA": [
+        {
+            "question": "コモドホテル浦項はどのような場所ですか？",
+            "answer": "コモドホテル浦項（ポハン）は、東海岸を満喫できる場所です。"
+        },
+        {
+            "question": "客室はどのような雰囲気ですか？",
+            "answer": "客室は洗練されたインテリアで高級感が溢れています。"
+        }
+    ],
+    "word_Count": {
+        "text": 70,
+        "QA": 65
+    }
+}

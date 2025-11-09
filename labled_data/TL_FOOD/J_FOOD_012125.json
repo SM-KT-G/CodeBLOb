@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_012125",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-09-01",
+        "domain": "음식점",
+        "title": "バンチャクバンチャクビンナヌン（반짝반짝빛나는）"
+    },
+    "text": "バンチャクバンチャクビンナヌン（반짝반짝빛나는）\\n\nソウル特別市 鐘路区 仁寺洞キル 28-1\\n\nソウル特別市のインサ洞に位置した伝統飲み物専門店です。自家製伝統茶をお出しするお店です。おすすめは梅茶です。",
+    "QA": [
+        {
+            "question": "このお店はどこにありますか？",
+            "answer": "ソウル特別市 鐘路区 仁寺洞キル 28-1に位置しています。"
+        },
+        {
+            "question": "このお店の特徴は何ですか？",
+            "answer": "このお店は伝統飲み物専門店で、自家製の伝統茶を提供しています。"
+        },
+        {
+            "question": "おすすめの伝統茶は何ですか？",
+            "answer": "おすすめは梅茶です。"
+        }
+    ],
+    "word_Count": {
+        "text": 77,
+        "QA": 82
+    }
+}

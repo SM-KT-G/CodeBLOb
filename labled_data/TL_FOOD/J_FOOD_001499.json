@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001499",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/brick-burger",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "BRICK BURGER"
+    },
+    "text": "BRICK BURGER\\n\nソウル特別市 松坡区 オリンピック路 240\\n\nソウル特別市チャムシル駅の近くに位置した洋食専門店です。代表的なメニューはハンバーガーです。ロッテワールド内にあります。",
+    "QA": [
+        {
+            "question": "ブリックバーガーはどこに位置していますか？",
+            "answer": "ブリックバーガーはソウル特別市 松坡区 オリンピック路 240に位置しています。"
+        },
+        {
+            "question": "ブリックバーガーの代表的なメニューは何ですか？",
+            "answer": "ブリックバーガーの代表的なメニューはハンバーガーです。"
+        },
+        {
+            "question": "ブリックバーガーはどこにありますか？",
+            "answer": "ブリックバーガーはソウル特別市チャムシル駅の近くに位置しています。"
+        },
+        {
+            "question": "ブリックバーガーは何処にありますか？",
+            "answer": "ブリックバーガーはロッテワールド内にあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 73,
+        "QA": 148
+    }
+}

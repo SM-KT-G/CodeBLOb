@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_030297",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/goods/GN0002157513?startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0%5E&npprmaxsort=min",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "부산 더클럽호텔풀빌라"
+    },
+    "text": "海のオーシャンビューを鑑賞しながら快適な宿泊を楽しめる釜山ザクラブホテル(民楽店)です。 特に広安大橋をより近くで見られる位置に位置しています。 客室内にはプライベートな屋外檜風呂が1つずつ設けられており、ゆったりとしたくつろぎと旅の癒しを感じることができます。 また、17時以降に入室される場合は、ホテルまで予めご連絡ください。",
+    "QA": [
+        {
+            "question": "このホテルの位置はどこですか？",
+            "answer": "このホテルは広安大橋の近くに位置しています。"
+        },
+        {
+            "question": "客室内には何が備えられていますか？",
+            "answer": "客室内にはプライベートな屋外檜風呂が1つずつ設けられています。"
+        },
+        {
+            "question": "何時から入室できますか？",
+            "answer": "17時以降に入室される場合は、ホテルまで予めご連絡ください。"
+        }
+    ],
+    "word_Count": {
+        "text": 121,
+        "QA": 93
+    }
+}

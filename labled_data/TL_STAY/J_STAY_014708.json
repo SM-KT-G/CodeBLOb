@@ -1,0 +1,59 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_014708",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42001&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "인더시티 명동 (Inn The City Myeongdong) 운영 정책"
+    },
+    "text": "チェックイン時間は午後4時で、チェックアウト時間は午前11時です。 予約期間中に客室割引イベントがあり、11月11日から11月17日まで行われます。 客室タイプは指定できず、チェックイン時に現場の状況に応じてランダムに割り当てられます。 追加人数が発生する場合、大人及び子供1人当たり30,000ウォンの費用が追加されます。 駐車は一部屋あたり1台駐車可能で、駐車料金は1泊当たり15,000ウォンです。 客室は禁煙で、無料Wi-Fiを提供しています。 入室利用についての詳しい案内はありません。 .",
+    "QA": [
+        {
+            "question": "チェックイン時間は何時ですか？",
+            "answer": "チェックイン時間は午後4時です。"
+        },
+        {
+            "question": "チェックアウト時間は何時ですか？",
+            "answer": "チェックアウト時間は午前11時です。"
+        },
+        {
+            "question": "客室割引イベントはいつからいつまでですか？",
+            "answer": "客室割引イベントは11月11日から11月17日まで行われます。"
+        },
+        {
+            "question": "客室タイプを指定することはできますか？",
+            "answer": "客室タイプはチェックイン時にランダムに割り当てられるため、指定することはできません。"
+        },
+        {
+            "question": "追加人数の料金はいくらですか？",
+            "answer": "追加人数が発生する場合、大人及び子供1人当たり30,000ウォンの費用が追加されます。"
+        },
+        {
+            "question": "駐車料金はいくらですか？",
+            "answer": "駐車料金は1泊当たり15,000ウォンです。"
+        },
+        {
+            "question": "客室は禁煙ですか？",
+            "answer": "はい、客室は禁煙です。"
+        },
+        {
+            "question": "無料Wi-Fiは提供されていますか？",
+            "answer": "はい、無料Wi-Fiが提供されています。"
+        },
+        {
+            "question": "入室利用についての詳しい案内はありますか？",
+            "answer": "入室利用についての詳しい案内はありません。"
+        }
+    ],
+    "word_Count": {
+        "text": 183,
+        "QA": 271
+    }
+}

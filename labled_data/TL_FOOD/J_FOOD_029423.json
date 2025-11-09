@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_029423",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "兄弟串焼きジプ ( 형제꼬치집 )"
+    },
+    "text": "兄弟串焼きジプ ( 형제꼬치집 )\nソウル特別市 ヨンドゥンポ区 ディジトルロ356\n羊肉串だけでなく、様々な中華料理が味わえる店です。おすすめはラム肉の串焼きです。ソウル特別市のヨンドゥンポ区に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "焼きジプはどこに位置していますか？",
+            "answer": "焼きジプはソウル特別市のヨンドゥンポ区に位置しています。"
+        },
+        {
+            "question": "焼きジプでは何が食べられますか？",
+            "answer": "焼きジプでは羊肉串だけでなく、様々な中華料理が食べられます。"
+        },
+        {
+            "question": "焼きジプのおすすめ料理は何ですか？",
+            "answer": "焼きジプのおすすめ料理はラム肉の串焼きです。"
+        }
+    ],
+    "word_Count": {
+        "text": 80,
+        "QA": 95
+    }
+}

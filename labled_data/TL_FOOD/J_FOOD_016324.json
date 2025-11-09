@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_016324",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2020-12-18",
+        "domain": "음식점",
+        "title": "姜鎬童白丁 東大門( 강호동백정 동대문 )"
+    },
+    "text": "姜鎬童白丁 東大門( 강호동백정 동대문 )\\n\nソウル特別市 中区 ウルジロ43ギル38\\n\n東大門市場の近くに位置しています。ソウル特別市のチュン区に位置した韓食専門店です。代表的なメニューは味付けカルビです。",
+    "QA": [
+        {
+            "question": "この店はどこに位置していますか？",
+            "answer": "東大門市場の近くに位置しています。"
+        },
+        {
+            "question": "この店の代表的なメニューは何ですか？",
+            "answer": "代表的なメニューは味付けカルビです。"
+        },
+        {
+            "question": "この店の名前は何ですか？",
+            "answer": "姜鎬童白丁 東大門( 강호동백정 동대문 )です。"
+        }
+    ],
+    "word_Count": {
+        "text": 78,
+        "QA": 77
+    }
+}

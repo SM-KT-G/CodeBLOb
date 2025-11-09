@@ -1,0 +1,31 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_007296",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-02-18",
+        "domain": "음식점",
+        "title": "サランチェ（사랑채）"
+    },
+    "text": "サランチェ（사랑채）\\n\nソウル特別市 鐘路区 仁寺洞16キル6\\n\n「サランチェ」は、韓国の代表的な観光地である仁寺洞に位置する韓国料理専門店で、韓国の代表的な料理をお手ごろ価格で楽しめます。",
+    "QA": [
+        {
+            "question": "サランチェはどこに位置していますか？",
+            "answer": "サランチェはソウル特別市鐘路区仁寺洞16キル6に位置しています。"
+        },
+        {
+            "question": "サランチェでは何を楽しむことができますか？",
+            "answer": "サランチェでは韓国の代表的な料理をお手ごろ価格で楽しむことができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 71,
+        "QA": 77
+    }
+}

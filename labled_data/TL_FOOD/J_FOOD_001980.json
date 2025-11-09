@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001980",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2020-12-04",
+        "domain": "음식점",
+        "title": "PALMIAN 南浦( 팔미엔 남포 )"
+    },
+    "text": "PALMIAN 南浦( 팔미엔 남포 )\\n\n釜山広域市 中区 光復路 61-1\\n\n8種類の麺でチャンポンを作る店です。 代表的なメニューはジャージャー麺です。釜山広域市のジュン区に位置した中華料理屋　です。",
+    "QA": [
+        {
+            "question": "パルミアン南浦はどこにありますか？",
+            "answer": "パルミアン南浦は釜山広域市中区光復路61-1に位置しています。"
+        },
+        {
+            "question": "パルミアン南浦で提供されているメニューはありますか？",
+            "answer": "はい、パルミアン南浦では8種類の麺を使ったチャンポンがメニューにあります。代表的なメニューとしてジャージャー麺がおすすめです。"
+        },
+        {
+            "question": "パルミアン南浦はどんな場所に位置していますか？",
+            "answer": "パルミアン南浦は釜山広域市の中区に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 77,
+        "QA": 135
+    }
+}

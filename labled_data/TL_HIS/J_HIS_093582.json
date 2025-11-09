@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_093582",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ja",
+        "translator": null,
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-12-06",
+        "domain": "문화/역사관광",
+        "title": "蔚山文化芸術会館（울산문화예술회관）"
+    },
+    "text": "蔚山文化芸術会館\n蔚山広域市 南区 繁栄路200\n「蔚山（ウルサン）文化芸術会館」は蔚山広域市の代表的なホールで、さまざまなジャンルの公演が行える多目的ホールとして設計され、大劇場・小劇場・野外劇場・展示場の他、レストラン、プレイルームなどを有しています。\n開館日\n1995年10月5日",
+    "QA": [
+        {
+            "question": "文化芸術会館はどこに位置していますか？",
+            "answer": "蔚山広域市南区の繁栄路200に位置しています。"
+        },
+        {
+            "question": "文化芸術会館はいつ開館しましたか？",
+            "answer": "1995年10月5日に開館しました。"
+        },
+        {
+            "question": "文化芸術会館にはどのような施設がありますか？",
+            "answer": "大劇場・小劇場・野外劇場・展示場の他、レストラン、プレイルームなどがあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 104,
+        "QA": 101
+    }
+}

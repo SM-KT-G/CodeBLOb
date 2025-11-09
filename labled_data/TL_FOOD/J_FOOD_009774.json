@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_009774",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-03",
+        "domain": "음식점",
+        "title": "チヒャンウォンラム肉の串焼き専門 ( 취향원양꼬치구이전문 )"
+    },
+    "text": "チヒャンウォンラム肉の串焼き専門 ( 취향원양꼬치구이전문 )\\n\nソウル特別市 ヨンドゥンポ区 グクフェデロ34ギル7-2\\n\n羊肉串だけでなく、様々な中華料理が味わえる店です。ソウル特別市のヨンドゥンポ区に位置した韓食専門店です。おすすめはラム肉の串焼きです。",
+    "QA": [
+        {
+            "question": "この店の名前は何ですか？",
+            "answer": "この店の名前はチヒャンウォンラム肉の串焼き専門です。"
+        },
+        {
+            "question": "この店はどこにありますか？",
+            "answer": "この店はソウル特別市のヨンドゥンポ区に位置しています。具体的な住所はグクフェデロ34ギル7-2です。"
+        },
+        {
+            "question": "この店ではどんな料理が味わえますか？",
+            "answer": "この店ではラム肉の串焼きをはじめ、様々な中華料理が味わえます。"
+        },
+        {
+            "question": "この店のおすすめ料理は何ですか？",
+            "answer": "この店のおすすめはラム肉の串焼きです。"
+        }
+    ],
+    "word_Count": {
+        "text": 96,
+        "QA": 135
+    }
+}

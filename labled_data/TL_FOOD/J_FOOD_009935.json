@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_009935",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-07",
+        "domain": "음식점",
+        "title": "チュソンノ1205（추성로1205）"
+    },
+    "text": "チュソンノ1205\\n\n全羅南道 潭陽郡 潭陽邑 秋城路 1205\\n\nトッカルビは全羅南道潭陽の代表メニューです。代表的なメニューは粗挽きカルビ焼きです。全羅南道のダムヤン郡に位置した韓国料理店です。",
+    "QA": [
+        {
+            "question": "トッカルビとは何ですか？",
+            "answer": "トッカルビは全羅南道潭陽の代表メニューで、粗挽きカルビ焼きが代表的なメニューです。"
+        },
+        {
+            "question": "トッカルビを提供している場所はどこですか？",
+            "answer": "トッカルビは全羅南道潭陽の秋城路1205にある韓国料理店で提供されます。"
+        },
+        {
+            "question": "この韓国料理店はどの地域に位置していますか？",
+            "answer": "この韓国料理店は全羅南道のダムヤン郡に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 74,
+        "QA": 116
+    }
+}

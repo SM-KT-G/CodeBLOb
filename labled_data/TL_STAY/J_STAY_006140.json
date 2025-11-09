@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_006140",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/lodge/hotel-sun-bee-goodstay",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "ソンビホテル[優秀宿泊施設]"
+    },
+    "text": "ソンビホテル[優秀宿泊施設]\nソウル鐘路区寬勳洞 198-11\nソンビホテルは、文化、芸術の中心地、仁寺洞にあり、ビジネスマンや観光客 が主に利用しています。",
+    "QA": [
+        {
+            "question": "ソンビホテルはどこにありますか？",
+            "answer": "ソンビホテルはソウル鐘路区寬勳洞にあります。"
+        },
+        {
+            "question": "ソンビホテルはどんな人々が利用していますか？",
+            "answer": "ソンビホテルは主にビジネスマンや観光客が利用しています。"
+        },
+        {
+            "question": "ソンビホテルはどのような施設ですか？",
+            "answer": "ソンビホテルは文化、芸術の中心地、仁寺洞に位置している優秀な宿泊施設です。"
+        }
+    ],
+    "word_Count": {
+        "text": 57,
+        "QA": 104
+    }
+}

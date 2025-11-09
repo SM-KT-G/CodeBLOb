@@ -1,0 +1,55 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_035296",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://kr.hotels.com/ho2129167040/sindang-a-seoul-hangug/?chkin=2023-11-14&chkout=2023-11-15&x_pwa=1&rfrr=HSR&pwa_ts=1698837482772&referrerUrl=aHR0cHM6Ly9rci5ob3RlbHMuY29tL0hvdGVsLVNlYXJjaA%3D%3D&useRewards=false&rm1=a2&regionId=6159319&destination=%EC%9D%98%EC%A0%95%EB%B6%80%2C+%EA%B2%BD%EA%B8%B0%2C+%ED%95%9C%EA%B5%AD&destType=MARKET&neighborhoodId=553248635976383716&latLong=37.736412%2C127.068388&sort=RECOMMENDED&top_dp=54545&top_cur=KRW&userIntent=&selectedRoomType=229884763&selectedRatePlan=272429362&expediaPropertyId=66505220&searchId=26666e80-3e5c-4f3a-b874-c571228c1964",
+        "collectedDate": "2023-11-15",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "신당 A"
+    },
+    "text": "新党A\\n\n大韓民国ソウル特別市Seoulソウル特別市中区退渓路76キル30\\n\n新堂Aは、東大門歴史文化公園と明洞通りまで車で5分、南大門市場と光化門まで車で5分の距離に位置しています。 また、青瓦台駅と新堂駅までは徒歩6分程度で移動可能です。この宿泊施設は公共交通機関を利用するのに便利です。ホテルは全11室で構成されており、チェックインは22:00に始まり、チェックアウトは12:00です。チェックインの際、付帯費用に備えてクレジットカード、デビットカードまたは現金デポジットが必要で、政府発行の写真付き身分証明書が必要な場合があります。 また、ペットは同伴不可で、公共エリアでは無料WiFiが提供されており、客室内でも無料WiFiを利用できます。さらに、指定された喫煙エリアがあります。",
+    "QA": [
+        {
+            "question": "この宿泊施設はどこに位置していますか？",
+            "answer": "新堂Aは、ソウル特別市中区退渓路76キル30に位置しています。"
+        },
+        {
+            "question": "周辺にどのような観光スポットがありますか？",
+            "answer": "東大門歴史文化公園、明洞通り、南大門市場、光化門などが近くにあります。"
+        },
+        {
+            "question": "公共交通機関の利用は便利ですか？",
+            "answer": "はい、青瓦台駅と新堂駅までは徒歩6分程度で移動可能ですので、公共交通機関の利用は便利です。"
+        },
+        {
+            "question": "チェックインとチェックアウトの時間は何時ですか？",
+            "answer": "チェックインは22:00に始まり、チェックアウトは12:00です。"
+        },
+        {
+            "question": "チェックインの際に必要なものはありますか？",
+            "answer": "チェックインの際には、付帯費用に備えてクレジットカード、デビットカードまたは現金デポジットが必要です。また、政府発行の写真付き身分証明書も必要な場合があります。"
+        },
+        {
+            "question": "宿泊施設内でのWiFiの利用は可能ですか？",
+            "answer": "はい、宿泊施設では公共エリアと客室内で無料WiFiが利用できます。"
+        },
+        {
+            "question": "ペットを連れて宿泊することはできますか？",
+            "answer": "申し訳ありませんが、ペットの同伴はできません。"
+        },
+        {
+            "question": "喫煙は可能ですか？",
+            "answer": "指定された喫煙エリアがありますので、そのエリアで喫煙が可能です。"
+        }
+    ],
+    "word_Count": {
+        "text": 254,
+        "QA": 339
+    }
+}

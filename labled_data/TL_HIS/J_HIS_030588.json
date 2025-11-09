@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_030588",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101933",
+        "collectedDate": "2023-10-06",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "척화비"
+    },
+    "text": "斥和碑(チュクワビ)\n斥和碑(チュクワビ)は、朝鮮王朝の高宗時代に興城大原の軍隊が、国交の確立を拒否する意欲を宣伝するために、鍾路十字路を含むの200以上の交通箇所に建てた記念碑です。1871年(Kojong 8)に、高さ4 x 5インチ、幅1 x 5インチ、厚さ8 x 5インチの花崗岩の石で建てられました。\n",
+    "QA": [
+        {
+            "question": "斥和碑(チュクワビ)は何を宣伝するために建てられましたか？",
+            "answer": "斥和碑は興城大原の軍隊が国交の確立を拒否する意欲を宣伝するために建てられました。"
+        },
+        {
+            "question": "斥和碑はいつ、どのような材料で建てられましたか？",
+            "answer": "斥和碑は1871年に花崗岩の石で建てられました。"
+        },
+        {
+            "question": "斥和碑はどれくらいの数が建てられましたか？",
+            "answer": "斥和碑は鍾路十字路を含む200以上の交通箇所に建てられました。"
+        },
+        {
+            "question": "斥和碑の寸法は何ですか？",
+            "answer": "斥和碑の高さは4 x 5インチ、幅は1 x 5インチ、厚さは8 x 5インチです。"
+        }
+    ],
+    "word_Count": {
+        "text": 114,
+        "QA": 162
+    }
+}

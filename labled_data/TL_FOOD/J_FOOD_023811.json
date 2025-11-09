@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_023811",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "新生楼（신생루）"
+    },
+    "text": "新生楼（신생루）\\n\nソウル特別市 九老区 京仁路 208\\n\nソウル特別市のグロ区に位置した中華です。地下鉄駅の近くに位置しており、交通が便利です。代表的なメニューはチャーハンです。",
+    "QA": [
+        {
+            "question": "新生楼はどこにありますか？",
+            "answer": "新生楼はソウル特別市 九老区 京仁路 208に位置しています。"
+        },
+        {
+            "question": "新生楼はどのような料理を提供していますか？",
+            "answer": "新生楼では代表的なメニューとしてチャーハンを提供しています。"
+        },
+        {
+            "question": "新生楼はどのくらい交通の便が良いですか？",
+            "answer": "新生楼は地下鉄駅の近くに位置しており、交通が便利です。"
+        }
+    ],
+    "word_Count": {
+        "text": 67,
+        "QA": 104
+    }
+}

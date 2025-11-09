@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_024363",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-08-10",
+        "domain": "음식점",
+        "title": "燕京（연경）"
+    },
+    "text": "燕京（연경）\\n\n忠清南道 保寧市 保寧北路60\\n\n保寧に位置する「燕京（ヨンギョン）」は、豊富な本格中華料理を堪能できるお店です。市内から近く、家族での集まりやイベント、ビジネスなど多様な形で利用されています。",
+    "QA": [
+        {
+            "question": "燕京（ヨンギョン）はどこに位置していますか？",
+            "answer": "燕京（ヨンギョン）は忠清南道保寧市保寧北路60に位置しています。"
+        },
+        {
+            "question": "燕京（ヨンギョン）はどのようなお店ですか？",
+            "answer": "燕京（ヨンギョン）は豊富な本格中華料理を堪能できるお店です。"
+        },
+        {
+            "question": "燕京（ヨンギョン）はどのようなイベントで利用されていますか？",
+            "answer": "燕京（ヨンギョン）は家族での集まりやイベント、ビジネスなど多様な形で利用されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 78,
+        "QA": 130
+    }
+}

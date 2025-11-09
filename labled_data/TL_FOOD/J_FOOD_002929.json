@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_002929",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-05",
+        "domain": "음식점",
+        "title": "イマング校洞ちゃんぽん ( 이만구교동짬뽕 )"
+    },
+    "text": "イマング校洞ちゃんぽん ( 이만구교동짬뽕 )\\n\n江原道 ガンヌン市 ガンヌンデロ199-8\\n\n様々な中華料理が味わえる店です。代表的なメニューはちゃんぽんです。江原道のガンヌン市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "イマング校洞ちゃんぽんはどこにありますか？",
+            "answer": "イマング校洞ちゃんぽんは江原道のガンヌン市ガンヌンデロ199-8にあります。"
+        },
+        {
+            "question": "イマング校洞ちゃんぽんではどんな料理が味わえますか？",
+            "answer": "イマング校洞ちゃんぽんでは様々な中華料理が味わえますが、代表的なメニューはちゃんぽんです。"
+        },
+        {
+            "question": "イマング校洞ちゃんぽんはどんな店ですか？",
+            "answer": "イマング校洞ちゃんぽんは韓食専門店で、江原道のガンヌン市に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 77,
+        "QA": 137
+    }
+}

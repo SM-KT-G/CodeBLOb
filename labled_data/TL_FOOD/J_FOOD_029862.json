@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_029862",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/whale-forest",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "ゴレウィスプ"
+    },
+    "text": "ゴレウィスプ\\n\nソウル特別市 ジョンノ区 ドンスンギル 136 4階\\n\n韓国式洋食レストランです。代表的なメニューは手作りロースカツです。この店はソウル特別市のテハンノに位置した和食専門店です。",
+    "QA": [
+        {
+            "question": "このレストランはどこにありますか？",
+            "answer": "ソウル特別市 ジョンノ区 ドンスンギル 136 4階にあります。"
+        },
+        {
+            "question": "このレストランの代表的なメニューは何ですか？",
+            "answer": "代表的なメニューは手作りロースカツです。"
+        },
+        {
+            "question": "この店はどのエリアに位置していますか？",
+            "answer": "この店はソウル特別市のテハンノに位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 72,
+        "QA": 98
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001598",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2020-11-25",
+        "domain": "음식점",
+        "title": "Chir Chir 明洞駅( 치르치르 명동역 )"
+    },
+    "text": "Chir Chir 明洞駅( 치르치르 명동역 )\\n\nソウル特別市 中区 明洞8カキル 7\\n\n様々な種類のフュージョンチキンを提供する店です。ソウル特別市の中区に位置した韓食専門店です。代表的なメニューはフライドチキンです。",
+    "QA": [
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "ソウル特別市 中区 明洞8カキル 7に位置しています。"
+        },
+        {
+            "question": "この店はどんな料理を提供していますか？",
+            "answer": "この店では様々な種類のフュージョンチキンを提供しています。特に代表的なメニューはフライドチキンです。"
+        },
+        {
+            "question": "この店の名前は何ですか？",
+            "answer": "この店の名前はChir Chir 明洞駅です。"
+        },
+        {
+            "question": "この店は何時から営業していますか？",
+            "answer": "この店は何時から営業していますか？"
+        },
+        {
+            "question": "この店はどのような雰囲気ですか？",
+            "answer": "この店は韓国の明洞に位置しており、活気のある雰囲気です。"
+        }
+    ],
+    "word_Count": {
+        "text": 83,
+        "QA": 162
+    }
+}

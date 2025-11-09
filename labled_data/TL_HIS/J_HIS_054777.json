@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_054777",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=954&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=00050000&ccbaCtcd=32&ccbaCpno=3413200050000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1984-06-02",
+        "domain": "문화/역사관광",
+        "title": "금란정"
+    },
+    "text": "金蘭亭\\n\n江原道江陵市鏡浦路371番キル57(苧洞)\\n\n江原道特別自治道文化財資料、金襴亭は朝鮮(チョソン)後期の学者の金ヒョンジンが建てた家として、鏡浦湖が見える鏡浦台(キョンポデ)北シルボンの下に位置している。周辺には梅を植え、学科ともに飛んでいたところとして毎虐政(梅鶴亭)と名づけた。その後持ち主が変わり、今いる席に移動して建設し、名前をクムランチョンと直して歌った。建物の規模は表3間・側面2間で、屋根は側面から見ると、八(八部)字形の入母屋屋根である。前面には''クムランチョン''という扁額がかかっていて、側面には、''軽重別業(鏡中別業)''という扁額が掛かっている。",
+    "QA": [
+        {
+            "question": "金襴亭はどのような場所ですか？",
+            "answer": "金襴亭は江原道江陵市鏡浦路371番キル57(苧洞)に位置しています。"
+        },
+        {
+            "question": "金襴亭の建物の規模はどのくらいですか？",
+            "answer": "金襴亭の建物の規模は表3間・側面2間で、八(八部)字形の入母屋屋根が特徴です。"
+        },
+        {
+            "question": "金襴亭の周辺には何がありますか？",
+            "answer": "金襴亭の周辺には梅を植えた庭園があり、また鏡浦湖が見える鏡浦台(キョンポデ)もあります。"
+        },
+        {
+            "question": "金襴亭の名前の由来は何ですか？",
+            "answer": "金襴亭の元の名前は毎虐政(梅鶴亭)でしたが、持ち主が変わりクムランチョンに改名されました。"
+        }
+    ],
+    "word_Count": {
+        "text": 215,
+        "QA": 166
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_033357",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101933",
+        "collectedDate": "2023-10-06",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "포충사"
+    },
+    "text": "褒忠祠\n褒忠祠には次のような同音異義語がある。 抱忠祠は光州広域市南区元山洞にある忠烈公高敬命など5人を祀った祠だ。 抱忠祠は慶尚南道居昌郡熊陽面にある忠剛公李述原を祀った祠だ。 抱忠祠は江原道鉄原郡鉄原邑にあった忠武公キム·ウンハ(忠武公キム·ウンハ)を祀った昔の祠宇だ。\n",
+    "QA": [
+        {
+            "question": "褒忠祠はどこにありますか？",
+            "answer": "褒忠祠は光州広域市南区元山洞にあります。"
+        },
+        {
+            "question": "褒忠祠は誰を祀っていますか？",
+            "answer": "褒忠祠は忠烈公高敬命など5人を祀っています。"
+        },
+        {
+            "question": "抱忠祠はどこにありますか？",
+            "answer": "抱忠祠は慶尚南道居昌郡熊陽面にあります。"
+        },
+        {
+            "question": "抱忠祠は誰を祀っていますか？",
+            "answer": "抱忠祠は忠剛公李述原を祀っています。"
+        },
+        {
+            "question": "昔の抱忠祠はどこにありましたか？",
+            "answer": "昔の抱忠祠は江原道鉄原郡鉄原邑にありました。"
+        },
+        {
+            "question": "昔の抱忠祠は誰を祀っていましたか？",
+            "answer": "昔の抱忠祠は忠武公キム・ウンハを祀っていました。"
+        }
+    ],
+    "word_Count": {
+        "text": 101,
+        "QA": 156
+    }
+}

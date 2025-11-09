@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_010669",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-05",
+        "domain": "음식점",
+        "title": "ドキドキ ( 도키도키 )"
+    },
+    "text": "ドキドキ ( 도키도키 )\\n\nソウル特別市 広津区 アチャサンロ33ギル43\\n\n韓国人が好きなホルモン焼きを提供している店です。 代表的なメニューはマクチャンの塩焼きです。ソウル特別市のグァンジン区に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "ソウル特別市広津区アチャサンロ33ギル43に位置しています。"
+        },
+        {
+            "question": "この店ではどんな料理が提供されていますか？",
+            "answer": "韓国人が好きなホルモン焼きやマクチャンの塩焼きなどの韓国料理が提供されています。"
+        },
+        {
+            "question": "この店の代表的なメニューは何ですか？",
+            "answer": "この店の代表的なメニューはマクチャンの塩焼きです。"
+        },
+        {
+            "question": "この店はどんな雰囲気ですか？",
+            "answer": "この店はソウル特別市のグァンジン区に位置しており、韓食専門店です。"
+        }
+    ],
+    "word_Count": {
+        "text": 83,
+        "QA": 142
+    }
+}

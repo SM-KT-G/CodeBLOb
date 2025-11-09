@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_017421",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.visitjeju.net/kr/detail/view?contentsid=CNTS_000000000022922#",
+        "collectedDate": "2023-09-05",
+        "publishedDate": "2018-04-20",
+        "domain": "숙박",
+        "title": "런호텔"
+    },
+    "text": "ランホテル\n済州特別自治道西帰浦市太平路431番キル20\n秀麗な景観を背景に西帰浦都心に位置するRUNホテルは、済州を訪れる方々に安らかな憩いの場を提供しようと常に努力している。",
+    "QA": [
+        {
+            "question": "ランホテルはどこに位置していますか？",
+            "answer": "ランホテルは済州特別自治道西帰浦市太平路431番キル20に位置しています。"
+        },
+        {
+            "question": "ランホテルはどのような景観を背景にしていますか？",
+            "answer": "ランホテルは秀麗な景観を背景にしています。"
+        },
+        {
+            "question": "RUNホテルは何を提供していますか？",
+            "answer": "RUNホテルは安らかな憩いの場を提供しています。"
+        },
+        {
+            "question": "ランホテルは済州を訪れる方々にどのような努力をしていますか？",
+            "answer": "ランホテルは済州を訪れる方々に安らかな憩いの場を提供するために常に努力しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 65,
+        "QA": 156
+    }
+}

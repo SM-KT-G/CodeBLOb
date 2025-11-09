@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_019052",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2023-04-26",
+        "domain": "문화/역사관광",
+        "title": "부산 MICE Festival"
+    },
+    "text": "釜山 MICE Festival (부산 MICE Festival)\\n\n釜山広域市海雲台区APEC路55\\n\n2022年に開催される釜山MICEフェスティバルでは、10年以上の経験を超えた新たな未来に進むため、2030ワールドエキスポ誘致を応援し、パンデミックを経て大転換時代を迎える釜山MICE産業に焦点を当てて紹介します。このフェスティバルでは、市民、業界、学界、学生など、さまざまな主体が集まり、釜山MICE産業の未来の発展方向について模索し、MICE構成員間の協力体系を構築する場を提供します。また、グローバルなMICE中心都市への飛躍を目指し、情報共有や討論の場を設ける2022釜山MICEフェスティバルには多くの関心をお願いします。",
+    "QA": [
+        {
+            "question": "釜山MICEフェスティバルはどこで開催されますか？",
+            "answer": "釜山広域市海雲台区APEC路55で開催されます。"
+        },
+        {
+            "question": "釜山MICEフェスティバルではどのようなことが紹介されますか？",
+            "answer": "釜山MICEフェスティバルでは、2030ワールドエキスポ誘致を応援し、釜山MICE産業の大転換時代に焦点を当てて紹介されます。"
+        },
+        {
+            "question": "釜山MICEフェスティバルはどのような人々が参加するイベントですか？",
+            "answer": "釜山MICEフェスティバルでは、市民、業界、学界、学生など、さまざまな主体が参加します。"
+        },
+        {
+            "question": "釜山MICEフェスティバルの目的は何ですか？",
+            "answer": "釜山MICEフェスティバルの目的は、釜山MICE産業の未来の発展方向を模索し、MICE構成員間の協力体系を構築することです。"
+        },
+        {
+            "question": "2022釜山MICEフェスティバルでは何が行われますか？",
+            "answer": "2022釜山MICEフェスティバルでは、情報共有や討論の場を設けるなど、グローバルなMICE中心都市への飛躍を目指します。"
+        }
+    ],
+    "word_Count": {
+        "text": 237,
+        "QA": 288
+    }
+}

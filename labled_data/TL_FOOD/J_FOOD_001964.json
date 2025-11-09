@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001964",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-06",
+        "domain": "음식점",
+        "title": "Ola6 パークセンター ( 올라6 파크센터 )"
+    },
+    "text": "Ola6 パークセンター ( 올라6 파크센터 )\\n\nソウル特別市 永登浦区 ヨウィデロ8\\n\n様々なパスタとワインが楽しめます。ソウル特別市のヨンドゥンポ区に位置した韓食専門店です。代表的なメニューはパスタです。",
+    "QA": [
+        {
+            "question": "このレストランの場所はどこですか？",
+            "answer": "ソウル特別市の永登浦区に位置しています。"
+        },
+        {
+            "question": "このレストランの名前は何ですか？",
+            "answer": "パークセンター（올라6 パークセンター）です。"
+        },
+        {
+            "question": "このレストランでは何が楽しめますか？",
+            "answer": "様々なパスタとワインが楽しめます。"
+        },
+        {
+            "question": "このレストランの代表的なメニューは何ですか？",
+            "answer": "パスタです。"
+        }
+    ],
+    "word_Count": {
+        "text": 79,
+        "QA": 101
+    }
+}

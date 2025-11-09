@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_000890",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2023-02-15",
+        "domain": "문화/역사관광",
+        "title": "AREA6（아레아식스 （AREA6））"
+    },
+    "text": "AREA6（아레아식스 （AREA6））\\n\nプサン広域市ヨンド区テジョンロ105ボンギル37-3\\n\n釜山影島に位置するAREA6（アレア6）は、ローカルを照らすartisan路地を目指しています。artisanとはフランス語で職人、手先が器用な人を意味します。AREA6は釜山の多様なartisanが集まって一緒につくっていく複合文化空間です。都市再生事業の一環として建てられた建物で、1階はFBブランドとセレクトショップ、食料品店などさまざまな9つの空間で構成されています。2階はコワーキングスペースとラウンジ、3階はルーフトップとセミナールームとなっています。古い建築物をセンスよく活かした外観とインテリアも目を引きますが、個性あふれる空間を見る楽しさもあります。観光客には他ではなかなか手に入らないお土産が買える空間としても人気です。また不定期でフリーマーケットも開かれます。",
+    "QA": [
+        {
+            "question": "AREA6はどこに位置していますか？",
+            "answer": "AREA6は釜山影島に位置しています。"
+        },
+        {
+            "question": "AREA6は何を目指していますか？",
+            "answer": "AREA6はローカルを照らすartisan路地を目指しています。"
+        },
+        {
+            "question": "AREA6はどのような空間ですか？",
+            "answer": "AREA6は釜山の多様なartisanが集まってつくっていく複合文化空間です。"
+        },
+        {
+            "question": "AREA6の建物はどのような特徴がありますか？",
+            "answer": "AREA6の建物は都市再生事業の一環として建てられたもので、古い建築物をセンスよく活かした外観とインテリアが特徴です。"
+        },
+        {
+            "question": "AREA6では何が買えますか？",
+            "answer": "AREA6では他ではなかなか手に入らないお土産が買えます。"
+        },
+        {
+            "question": "AREA6ではどのようなイベントが開催されますか？",
+            "answer": "AREA6では不定期にフリーマーケットが開催されます。"
+        }
+    ],
+    "word_Count": {
+        "text": 288,
+        "QA": 234
+    }
+}

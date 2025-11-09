@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_105378",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=84&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=06210000&ccbaCtcd=37&ccbaCpno=1123706210000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1978-12-07",
+        "domain": "문화/역사관광",
+        "title": "천마총 환두대도"
+    },
+    "text": "天馬塚環頭大図\\n\n慶尚北道慶州市一路186-0(仁王洞、ジャン·ジャン)\\n\n新羅時代(5∼6世紀)、宝物、天馬塚は、慶州(キョンジュ)皇南洞古墳、第155号墳と1973年に発掘して金冠、ブレスレットなど多くの貴重な遺品とともに天馬図が発見され、天馬塚と呼ばれるようになった。天馬塚環頭大刀(天馬塚環頭大刀)は刀の中で取っ手の最後の部分に丸い輪がついていてその輪のなかに龍や鳳凰、木の葉を彫刻してその所蔵者の身分や地位を示す剣である。天馬塚、古里袋太刀は刀の柄に損傷があるだけで、良好な状態を維持しており、遺骨の左部分で発見された。鞘と柄は木で作ってその上に薄い金銅を負わせた。刀柄の先丸い形の中に鳳凰と見られる鳥の頭が付いている。鞘の表面には特別な装飾がなく、一方のに別に鞘を作って太刀のようなものを張っておいた。鞘の隣には穴が空いた四角の形の臍があることから、紐を締めてつけたものとみられる。鞘先は、金版になった小さな突起が二つに分かれている。",
+    "QA": [
+        {
+            "question": "天馬塚はどの時代に建てられましたか？",
+            "answer": "新羅時代(5∼6世紀)に建てられました。"
+        },
+        {
+            "question": "天馬塚で何が発掘されましたか？",
+            "answer": "天馬塚からは金冠、ブレスレットなど多くの貴重な遺品とともに天馬図が発見されました。"
+        },
+        {
+            "question": "天馬塚環頭大刀はどんな特徴がありますか？",
+            "answer": "天馬塚環頭大刀は刀の取っ手の最後の部分に丸い輪がついており、その輪のなかに龍や鳳凰、木の葉などが彫刻されています。"
+        },
+        {
+            "question": "古里袋太刀の柄に何が彫刻されていますか？",
+            "answer": "古里袋太刀の柄の先には鳳凰と見られる鳥の頭が付いています。"
+        },
+        {
+            "question": "天馬塚環頭大刀と古里袋太刀の鞘はどのように作られていますか？",
+            "answer": "両者の鞘と柄は木で作られ、その上に薄い金銅を負わせています。"
+        }
+    ],
+    "word_Count": {
+        "text": 311,
+        "QA": 205
+    }
+}

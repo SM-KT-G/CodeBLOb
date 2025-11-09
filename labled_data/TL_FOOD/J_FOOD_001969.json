@@ -1,0 +1,51 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001969",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2020-09-12",
+        "domain": "음식점",
+        "title": "OPERA（오페라）"
+    },
+    "text": "OPERA（오페라）\\n\n釜山広域市 海雲台区 タルマジキル117番キル29\\n\n海雲台の月見（タルマジ）峠に位置する「OPERA（オペラ）」。劇場の観客席を連想させる白いテラスのある5階建ての建物からは海を眺めることができます。1階カラオケ、2階ワインウィスキーバー、3階レストラン、4・5階カフェとなっています。",
+    "QA": [
+        {
+            "question": "オペラ（OPERA）はどこに位置していますか？",
+            "answer": "オペラは釜山広域市海雲台区のタルマジキル117番キル29に位置しています。"
+        },
+        {
+            "question": "オペラの建物は何階建てですか？",
+            "answer": "オペラの建物は5階建てです。"
+        },
+        {
+            "question": "オペラの建物からは何を眺めることができますか？",
+            "answer": "オペラの建物からは海を眺めることができます。"
+        },
+        {
+            "question": "オペラの1階は何に使われていますか？",
+            "answer": "オペラの1階はカラオケに使われています。"
+        },
+        {
+            "question": "オペラの2階は何に使われていますか？",
+            "answer": "オペラの2階はワインウィスキーバーに使われています。"
+        },
+        {
+            "question": "オペラの3階は何に使われていますか？",
+            "answer": "オペラの3階はレストランに使われています。"
+        },
+        {
+            "question": "オペラの4・5階は何に使われていますか？",
+            "answer": "オペラの4・5階はカフェに使われています。"
+        }
+    ],
+    "word_Count": {
+        "text": 115,
+        "QA": 217
+    }
+}

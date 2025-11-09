@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_027590",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/cheonan-gomtang",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "天安コムタン"
+    },
+    "text": "天安コムタン\\n\n釜山広域市 中区 光復路97番アンキル6-5 )\\n\n「天安（チョナン）コムタン」は、コムタン一筋50年以上の伝統を持つお店です。",
+    "QA": [
+        {
+            "question": "天安コムタンはどの地区にありますか？",
+            "answer": "天安コムタンは釜山広域市の中区に位置しています。"
+        },
+        {
+            "question": "天安コムタンは何を専門としていますか？",
+            "answer": "天安コムタンはコムタンを専門としており、50年以上の伝統を持つお店です。"
+        },
+        {
+            "question": "天安コムタンの住所は何番地ですか？",
+            "answer": "天安コムタンの住所は釜山広域市中区光復路97番アンキル6-5です。"
+        }
+    ],
+    "word_Count": {
+        "text": 54,
+        "QA": 107
+    }
+}

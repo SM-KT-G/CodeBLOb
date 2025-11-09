@@ -1,0 +1,55 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_025541",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=939&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=24&ccbaAsno=01520000&ccbaCtcd=37&ccbaCpno=2443701520000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2012-10-22",
+        "domain": "문화/역사관광",
+        "title": "영주 평은리 양지암"
+    },
+    "text": "栄州平隠里陽地岩 (영주 평은리 양지암)\\n\n慶尚北道栄州市平隠面平隠里1318\\n\n慶尚北道民俗文化財 , 朝鮮明宗1年(1546)、副葬公キム·オングァンが墓を管理し祭祀を行った斎舎として建て、粛宗13年(1687)に建て直して今日に至っている。 斎室配置は全体的にロ字型の姿であり、斎舎建築から抜け出し寺庵と類似した構成法を見せている。 陽智庵を中心に右側の建物は斎舎参加者が使う空間であり、左側の建物は大門に付いている家の棟だ。 ここは全体的に寺の建物に使われる材料として使われたような庵の字型の斎室で、古い建築技法をよく維持している。",
+    "QA": [
+        {
+            "question": "この斎舎はいつ建てられましたか？",
+            "answer": "この斎舎は朝鮮明宗1年(1546)に建てられました。"
+        },
+        {
+            "question": "何のためにこの斎舎が建てられましたか？",
+            "answer": "この斎舎は副葬公キム・オングァンの墓を管理し祭祀を行うために建てられました。"
+        },
+        {
+            "question": "どのような形態の斎室配置をしていますか？",
+            "answer": "この斎舎は全体的にロ字型の形態の斎室配置をしています。"
+        },
+        {
+            "question": "斎舎建築と寺庵の構成法はどのように類似していますか？",
+            "answer": "斎舎建築は寺庵と類似した構成法を持っており、特に建物の配置が類似しています。"
+        },
+        {
+            "question": "右側の建物は何に使われますか？",
+            "answer": "右側の建物は斎舎参加者が使う空間です。"
+        },
+        {
+            "question": "左側の建物は何に付いていますか？",
+            "answer": "左側の建物は大門に付いている家の棟です。"
+        },
+        {
+            "question": "この斎舎の建築技法はどのようなものですか？",
+            "answer": "この斎舎は古い建築技法をよく維持しており、寺の建物に使われる材料が使われています。"
+        },
+        {
+            "question": "この斎舎は何のために建て直されましたか？",
+            "answer": "この斎舎は粛宗13年(1687)に建て直されましたが、その理由は明らかではありません。"
+        }
+    ],
+    "word_Count": {
+        "text": 200,
+        "QA": 297
+    }
+}

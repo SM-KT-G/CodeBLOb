@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_002193",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2020-11-27",
+        "domain": "음식점",
+        "title": "Yeonansikdang 松炭( 연안식당 송탄  )"
+    },
+    "text": "Yeonansikdang 松炭( 연안식당 송탄  )\\n\n京畿道 ピョンテク市 グァンギョマウルロ1357\\n\n様々な海鮮料理が味わえる店です。代表的なメニューはハイガイビビンバです。京畿道のピョンテク市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "このレストランの名前は何ですか？",
+            "answer": "このレストランの名前は松炭（연안식당 송탄）です。"
+        },
+        {
+            "question": "このレストランはどこにありますか？",
+            "answer": "このレストランは京畿道ピョンテク市グァンギョマウルロ1357にあります。"
+        },
+        {
+            "question": "このレストランで味わえる料理は何ですか？",
+            "answer": "このレストランでは様々な海鮮料理を味わうことができます。特に代表的なメニューはハイガイビビンバです。"
+        }
+    ],
+    "word_Count": {
+        "text": 85,
+        "QA": 120
+    }
+}

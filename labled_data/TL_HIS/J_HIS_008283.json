@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_008283",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=850&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=01170000&ccbaCtcd=35&ccbaCpno=2333501170000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2002-08-02",
+        "domain": "문화/역사관광",
+        "title": "고창하고리왕버들나무숲"
+    },
+    "text": "高敞下古里オオヤナギの森 (고창하고리왕버들나무숲)\\n\n全羅北道高敞郡城松面下古里123番地他37筆地\\n\n全羅北道記念物 , 聖松面下古里のサムテ村前の川辺の両側に河川の堤防に沿って樹齢2~300年になる貴木とイチョウ、松、桜、ソメイヨシヤナギなど12種に90株余りの木林がある。村の人たちが伝える話によると、前の山に登って村の形を見ると、村が船の形をしているが、村の前に荒れた大山川が流れており、船をしっかり結んでおかないと川に浮かぶ形なので、その時から村の人たちが船をつないでおく杭として使う木を植え始めたという。村の人たちはその時から今まで村の前の河川の堤防に植えられている木を切ってしまえば村に大きな災いが来ると信じているため、今まで保存してきている。",
+    "QA": [
+        {
+            "question": "この場所の名前は何ですか？",
+            "answer": "この場所は高敞下古里オオヤナギの森（고창하고리왕버들나무숲）と呼ばれています。"
+        },
+        {
+            "question": "この場所はどこにありますか？",
+            "answer": "この場所は全羅北道高敞郡城松面下古里123番地他37筆地にあります。"
+        },
+        {
+            "question": "どのような木がこの森にありますか？",
+            "answer": "この森には貴木として樹齢2〜300年になるオオヤナギ、イチョウ、松、桜、ソメイヨシヤナギなど、12種類以上の木があります。"
+        },
+        {
+            "question": "なぜこの森が保存されているのですか？",
+            "answer": "村の人々は、この森が村に災いをもたらすと信じているため、今まで木を切らずに保存してきました。"
+        },
+        {
+            "question": "この森の由来は何ですか？",
+            "answer": "村の人々の話によると、村の形が船の形をしているため、船が川に浮かばないように船をつなぐ杭として木を植えるようになったそうです。"
+        }
+    ],
+    "word_Count": {
+        "text": 243,
+        "QA": 232
+    }
+}

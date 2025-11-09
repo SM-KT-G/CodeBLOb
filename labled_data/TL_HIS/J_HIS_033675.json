@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_033675",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=701&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=06470000&ccbaCtcd=38&ccbaCpno=2113806470000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2019-08-01",
+        "domain": "문화/역사관광",
+        "title": "학기유편 만력정사본"
+    },
+    "text": "学期有編万力正写本 (학기유편 만력정사본)\\n\n慶尚南道晋州市晋州大路501(加佐洞、慶尚大学校)\\n\n慶尚南道有形文化財 , 学期遺編は、南明チョ·シク先生が読書をしていて、自分の勉強と修養に良い一節がある度にこれを抜粋して記録したものだ。 南明が亡くなった後、弟子の鄭仁弘が師匠の記録を近思録の体裁によって分類した後、学期有編と名付け、序文を作って正史年(1617)、山清·チャンから上·下の2冊として初めて刊行した。 表紙には南明先生学期と書き、右上には万暦正写本と書いた。学期遺編の序文にはチョン·インホンの名前が黒い墨でつぶれているが、チョン·インホンが力神に追い込まれ、南明学派の屈曲が激しかったことが分かる端的な資料だ。 学期類編は2004年、キム·ポファン氏が慶尚国立大学校古文献図書館に寄贈したものだ。",
+    "QA": [
+        {
+            "question": "学期遺編は何のために作られたのですか？",
+            "answer": "学期遺編は南明チョ·シク先生の読書記録であり、自分の勉強と修養に良い一節がある度にこれを抜粋して記録したものです。"
+        },
+        {
+            "question": "学期遺編はいつ刊行されましたか？",
+            "answer": "学期遺編は正史年(1617)、山清·チャンから上·下の2冊として初めて刊行されました。"
+        },
+        {
+            "question": "学期遺編の表紙に書かれた文字は何ですか？",
+            "answer": "表紙には南明先生学期と書かれており、右上には万暦正写本と書かれています。"
+        },
+        {
+            "question": "学期遺編の序文に黒い墨でつぶれた名前がありますが、その名前は誰ですか？",
+            "answer": "序文に黒い墨でつぶれた名前は鄭仁弘の名前です。彼は弟子であり、学期遺編を分類した人物です。"
+        },
+        {
+            "question": "学期遺編はいつ寄贈されましたか？",
+            "answer": "学期遺編は2004年、キム·ポファン氏が慶尚国立大学校古文献図書館に寄贈しました。"
+        }
+    ],
+    "word_Count": {
+        "text": 264,
+        "QA": 240
+    }
+}

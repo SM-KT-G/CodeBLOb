@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_066459",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2022-08-30",
+        "domain": "문화/역사관광",
+        "title": "박팽년선생유허비"
+    },
+    "text": "ここは死六臣(死六臣)の一人であるチュイクムホン・朴彭年(醉琴軒朴彭年、1417∼1456)先生が住んでいた跡だ。先生は1417年(太宗17)フェドクヒョン、フンノン村ワンデボル(懷德縣興農村王竹丘現在の東区佳陽洞)で生まれた。いつも伽椰琴に乗ることを好きで自ら湖を''チュイクムホン(醉琴軒)''で負けたという。...",
+    "QA": [
+        {
+            "question": "朴彭年先生は何年に生まれましたか？",
+            "answer": "朴彭年先生は1417年に生まれました。"
+        },
+        {
+            "question": "朴彭年先生はどの村で生まれましたか？",
+            "answer": "朴彭年先生はフンノン村ワンデボル（現在の東区佳陽洞）で生まれました。"
+        },
+        {
+            "question": "朴彭年先生は何を好きでしたか？",
+            "answer": "朴彭年先生はいつも伽椰琴に乗ることを好きでした。"
+        },
+        {
+            "question": "朴彭年先生はどこで負けたと言われていますか？",
+            "answer": "朴彭年先生は自ら湖で負けたと言われています。"
+        }
+    ],
+    "word_Count": {
+        "text": 117,
+        "QA": 125
+    }
+}

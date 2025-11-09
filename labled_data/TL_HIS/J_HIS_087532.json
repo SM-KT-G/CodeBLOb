@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_087532",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=69&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=04750000&ccbaCtcd=37&ccbaCpno=1123704750000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1968-12-19",
+        "domain": "문화/역사관광",
+        "title": "안동 소호헌"
+    },
+    "text": "安東ソ·ホホン\\n\n慶尚北道安東市日直面蘇湖ホンギル2(望湖里)\\n\n朝鮮時代中期、宝物、朝鮮中宗時代の文臣西海(徐嶰)先生が書斎として使うため、明宗(在位1545∼1567)の時に作った離れ屋だ。規模は表4間・側面2間であり、屋根は側面から見ると、八(八部)の字の形をした入母屋屋根である。付属された部屋は屋根様式が側面が人の教わる字形をした切妻屋根である。左3間は板の間、右1間は板の間、前方にオンドル部屋2間をつけて家の構造が越中形をしている。軒を支えようと柱の上に簡略な鳥、くちばし状の構造を立てた。楼に床とオンドル部屋の裏側に欄干が巡らされ、建物の内側は民家建築では見られない食材を使用して屋根の上部にある材料を支えている。瓦に刻まれている龍の二匹が私は文様は民家では珍しいものであり、建物に現れる古い手法は、朝鮮時代の民家建築研究に貴重な資料となっている。",
+    "QA": [
+        {
+            "question": "この離れ屋の建築目的は何ですか？",
+            "answer": "この離れ屋は、宝物、朝鮮中宗時代の文臣西海(徐嶰)先生が書斎として使うために作られました。"
+        },
+        {
+            "question": "この離れ屋はどのような屋根を持っていますか？",
+            "answer": "この離れ屋は、八(八部)の字の形をした入母屋屋根を持っています。また、付属された部屋は切妻屋根を持っています。"
+        },
+        {
+            "question": "この離れ屋の建築様式はどのような特徴がありますか？",
+            "answer": "この離れ屋の建築様式は、側面が人の教わる字形をした切妻屋根や、簡略な鳥、くちばし状の構造を持つ柱など、越中形の構造があります。"
+        },
+        {
+            "question": "この離れ屋にはどんな文様が見られますか？",
+            "answer": "この離れ屋には、瓦に刻まれている龍の二匹が見られます。また、珍しい文様や古い手法が建物に現れており、朝鮮時代の民家建築研究に貴重な資料となっています。"
+        }
+    ],
+    "word_Count": {
+        "text": 281,
+        "QA": 235
+    }
+}

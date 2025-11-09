@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_029477",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.goodchoice.kr/product/detail?ano=57918&adcno=1&sel_date=2023-11-07&sel_date2=2023-11-08",
+        "collectedDate": "2023-11-15",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "춘천 이오스"
+    },
+    "text": "宿泊施設は江原大学の裏門と大学路に位置しており、徒歩0分の距離にあります。 また、春川明洞とタッカルビ路地も徒歩0分の距離にあります。 公共交通機関をご利用の場合、京春線南春川駅と京春線春川駅をご利用いただけます。",
+    "QA": [
+        {
+            "question": "宿泊施設はどこに位置していますか？",
+            "answer": "宿泊施設は江原大学の裏門と大学路に位置しています。"
+        },
+        {
+            "question": "宿泊施設の近くにどのような観光スポットがありますか？",
+            "answer": "宿泊施設の近くには春川明洞とタッカルビ路地があります。"
+        },
+        {
+            "question": "最寄りの公共交通機関は何ですか？",
+            "answer": "最寄りの公共交通機関は京春線南春川駅と京春線春川駅です。"
+        }
+    ],
+    "word_Count": {
+        "text": 78,
+        "QA": 101
+    }
+}

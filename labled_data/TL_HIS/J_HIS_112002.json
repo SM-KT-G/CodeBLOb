@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_112002",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/collectionList#######",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2023-10-11",
+        "domain": "문화/역사관광",
+        "title": "청자 잔과 잔받침 조각"
+    },
+    "text": "青磁杯と杯受け皿 (청자 잔과 잔받침 조각)\\n\n国籍/時代:「韓国の高麗時代」 材質:「陶磁器である青磁」 分類:「食生活の中の食べ物である托杯」 大きさ:「高さ40cm、着こなし79cm、底径36cm、高さ46cm、幅147cm」 訳: この作品は韓国の高麗時代に作られた青磁の陶磁器です。食生活の一つである托杯として分類されます。大きさは高さ40cm、着こなし79cm、底径36cm、高さ46cm、幅147cmです。",
+    "QA": [
+        {
+            "question": "この作品は何時代に作られましたか？",
+            "answer": "高麗時代に作られました。"
+        },
+        {
+            "question": "この作品の材質は何ですか？",
+            "answer": "青磁という陶磁器です。"
+        },
+        {
+            "question": "この作品は何に分類されますか？",
+            "answer": "食生活の中の食べ物である托杯として分類されます。"
+        },
+        {
+            "question": "この作品の大きさはどのくらいですか？",
+            "answer": "高さ40cm、着こなし79cm、底径36cm、高さ46cm、幅147cmです。"
+        }
+    ],
+    "word_Count": {
+        "text": 155,
+        "QA": 109
+    }
+}

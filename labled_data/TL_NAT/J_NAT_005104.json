@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_005104",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-06-08",
+        "domain": "자연관광",
+        "title": "慶州 書出池（경주 서출지）"
+    },
+    "text": "慶州 書出池\\n\n慶尚北道 慶州市 南山1キル 17\\n\nこの蓮池は文字の書かれた封筒が出てきたことから書出池と呼ばれています。水量 7,021平方メートル",
+    "QA": [
+        {
+            "question": "書出池の場所はどこですか？",
+            "answer": "慶尚北道慶州市南山1キル17にあります。"
+        },
+        {
+            "question": "書出池の名前の由来は何ですか？",
+            "answer": "書出池という名前は、文字の書かれた封筒が出てきたことに由来しています。"
+        },
+        {
+            "question": "書出池の水量はどれくらいですか？",
+            "answer": "書出池の水量は7,021平方メートルです。"
+        }
+    ],
+    "word_Count": {
+        "text": 57,
+        "QA": 88
+    }
+}

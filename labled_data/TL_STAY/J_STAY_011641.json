@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_011641",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42091&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "온더웨이브 호텔 운영 정책"
+    },
+    "text": "チェックインは午後3時から可能で、チェックアウトは午前11時までです。 予約時に人数を超過する場合、人数の追加料金が発生し、追加料金は1人当たり10,000ウォンです。 また、寝具の追加申し込み時にも1つ当たり追加料金10,000ウォンがかかります。 ご利用の際には、これらの点に留意してください。",
+    "QA": [
+        {
+            "question": "チェックインは何時から可能ですか？",
+            "answer": "チェックインは午後3時から可能です。"
+        },
+        {
+            "question": "チェックアウトは何時までですか？",
+            "answer": "チェックアウトは午前11時までです。"
+        },
+        {
+            "question": "人数を超過する場合、追加料金が発生しますか？",
+            "answer": "予約時に人数を超過する場合、追加料金が発生します。追加料金は1人当たり10,000ウォンです。"
+        },
+        {
+            "question": "寝具の追加申し込み時に追加料金がかかりますか？",
+            "answer": "寝具の追加申し込み時にも1つ当たり追加料金10,000ウォンがかかります。"
+        },
+        {
+            "question": "何に留意すればよいですか？",
+            "answer": "ご利用の際には、チェックイン・チェックアウト時間や人数・寝具の追加料金に留意してください。"
+        }
+    ],
+    "word_Count": {
+        "text": 109,
+        "QA": 187
+    }
+}

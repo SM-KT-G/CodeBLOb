@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001624",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2022-09-19",
+        "domain": "음식점",
+        "title": "DDANJI PUB（PIZZA&PASTA）（딴지펍（PIZZA&PASTA））"
+    },
+    "text": "DDANJI PUB（PIZZA&PASTA）（딴지펍（PIZZA&PASTA））\nカンウォン道チュンチョン市ナミソムギル1\n本場の味が楽しめるヨーロピアンピザ専門店「DDANJI PUB」では、伝統的な製法である石窯焼きのピザを味わうことができます。鶏の唐揚げ、ハウスチーズサラダなど、さまざまなサイドメニューがあり、ビールなどの飲み物とよく合います。団体での食事も可能です。",
+    "QA": [
+        {
+            "question": "DDANJI PUBはどのようなメニューを提供していますか？",
+            "answer": "DDANJI PUBでは、本場の味が楽しめるヨーロピアンピザを提供しています。ピザの他にも鶏の唐揚げやハウスチーズサラダなどのサイドメニューもあります。"
+        },
+        {
+            "question": "DDANJI PUBはどの場所にありますか？",
+            "answer": "DDANJI PUBはカンウォン道チュンチョン市ナミソムギル1に位置しています。"
+        },
+        {
+            "question": "DDANJI PUBはどのような雰囲気ですか？",
+            "answer": "DDANJI PUBはヨーロピアンスタイルのレストランで、落ち着いた雰囲気が漂っています。"
+        },
+        {
+            "question": "DDANJI PUBでは団体での食事は可能ですか？",
+            "answer": "はい、DDANJI PUBでは団体での食事も可能です。事前に予約をしていただければ、お席をご用意いたします。"
+        },
+        {
+            "question": "DDANJI PUBのピザはどのように焼かれていますか？",
+            "answer": "DDANJI PUBのピザは石窯で焼かれています。伝統的な製法を守り、香り豊かなピザを提供しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 138,
+        "QA": 288
+    }
+}

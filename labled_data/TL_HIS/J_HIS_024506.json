@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_024506",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=216&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=20910000&ccbaCtcd=31&ccbaCpno=1123120910000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2020-12-28",
+        "domain": "문화/역사관광",
+        "title": "안성향교 대성전"
+    },
+    "text": "安城郷校大成殿 (안성향교 대성전)\\n\n京畿道安城市明倫洞118安城郷校\\n\n朝鮮時代(1630~1660年再建、1872年·1883年など重修) , 宝物 , 「安城郷校大成殿」は壬辰倭乱の時に焼失し、17世紀中頃に再建されて以来、現在まで何度も修理が行われたが、建築の形態と構造、意匠など全般にわたって建設当時の古式技法をよく維持している。 大成殿は正面に開放された退間を構成し、朝鮮時代の寺廟建築の典型的な形態をしており、正面5間の間殺構成は朝鮮時代の郡·県単位郷校の大成殿としては規模が大きいと考えられる。 特に正面の縁側から柱心道里を包んでいる僧頭の使用、垂木と附椽、井戸端の耳枠の歯木技法などに古式技法を探すことができ、朝鮮中期建築技法の研究に貴重な学術資料である。 また、屋根家具の三重量構成は曲がった梁とまっすぐな直線の重量、従量が作り出す独特の視覚効果は17世紀前半に自然曲線の木材を使用する時代性をよく示している。",
+    "QA": [
+        {
+            "question": "安城郷校大成殿はいつ再建されましたか？",
+            "answer": "安城郷校大成殿は朝鮮時代の17世紀中頃に再建されました。"
+        },
+        {
+            "question": "安城郷校大成殿は何度も修理が行われましたか？",
+            "answer": "はい、安城郷校大成殿は現在まで何度も修理が行われました。"
+        },
+        {
+            "question": "安城郷校大成殿はどのような形態をしていますか？",
+            "answer": "安城郷校大成殿は正面に開放された退間を構成し、朝鮮時代の寺廟建築の典型的な形態をしています。"
+        },
+        {
+            "question": "安城郷校大成殿の建設当時の古式技法はどのように維持されていますか？",
+            "answer": "安城郷校大成殿は建設当時の古式技法をよく維持しており、特に正面の縁側から柱心道里を包んでいる僧頭の使用や、垂木と附椽、井戸端の耳枠の歯木技法などが見られます。"
+        },
+        {
+            "question": "安城郷校大成殿の屋根家具はどのような構成ですか？",
+            "answer": "安城郷校大成殿の屋根家具は三重量構成であり、曲がった梁とまっすぐな直線の重量、従量が作り出す独特の視覚効果があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 306,
+        "QA": 264
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_023283",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-07-09",
+        "domain": "음식점",
+        "title": "宋家（송가）"
+    },
+    "text": "宋家（송가）\\n\n江原道 原州市 健康路 17\\n\n江原道のウォンジュ市に位置した韓国料理店です。各種韓国料理を味わうことができます。代表的なメニューはコムタンです。",
+    "QA": [
+        {
+            "question": "この韓国料理店はどこに位置していますか？",
+            "answer": "韓国料理店は江原道のウォンジュ市に位置しています。具体的な住所は健康路17番地です。"
+        },
+        {
+            "question": "この店ではどんな韓国料理を味わうことができますか？",
+            "answer": "この店では様々な韓国料理を味わうことができます。特に代表的なメニューはコムタンです。"
+        }
+    ],
+    "word_Count": {
+        "text": 60,
+        "QA": 94
+    }
+}

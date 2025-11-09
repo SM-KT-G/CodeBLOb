@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_055517",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/byeogodong",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "ビョゴドン"
+    },
+    "text": "ビョゴドン\\n\n全羅南道 順天市 上沙湖キル 73\\n\n麦ご飯と様々な種類のおかずを葉野菜で包んで食べる料理を提供する店です。全羅南道のスンチョン市に位置した麦ご飯専門店です。代表的なメニューは麦ご飯定食です。",
+    "QA": [
+        {
+            "question": "ビョゴドンはどこに位置していますか？",
+            "answer": "ビョゴドンは全羅南道のスンチョン市に位置しています。"
+        },
+        {
+            "question": "ビョゴドンのメニューは何ですか？",
+            "answer": "ビョゴドンの代表的なメニューは麦ご飯定食です。"
+        },
+        {
+            "question": "ビョゴドンはどのような料理を提供していますか？",
+            "answer": "ビョゴドンは麦ご飯と様々な種類のおかずを葉野菜で包んで食べる料理を提供しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 77,
+        "QA": 107
+    }
+}

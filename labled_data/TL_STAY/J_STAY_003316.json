@@ -1,0 +1,51 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_003316",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.booking.com/hotel/kr/glad-yeouido.ko.html",
+        "collectedDate": "2023-11-17",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "글래드 여의도"
+    },
+    "text": "グラッド汝矣島には2つのレストランがあります。 GREETS料理はアメリカ、中国、日本、韓国料理を楽しむことができ、中華料理や夕食を楽しむことができるバー/レストランです。 家族にやさしい雰囲気とモダンな雰囲気が感じられます。 一方で、Kappo Akiはモダンな雰囲気の中で日本料理が楽しめる夕食レストランです。 グラッド汝矣島は15:00からチェックイン可能で、11:00までチェックアウトできます。",
+    "QA": [
+        {
+            "question": "グラッド汝矣島には何軒のレストランがありますか？",
+            "answer": "グラッド汝矣島には2つのレストランがあります。"
+        },
+        {
+            "question": "GREETS料理ではどんな料理が楽しめますか？",
+            "answer": "GREETS料理ではアメリカ、中国、日本、韓国料理を楽しむことができます。"
+        },
+        {
+            "question": "GREETS料理の雰囲気はどのような感じですか？",
+            "answer": "GREETS料理は家族にやさしい雰囲気とモダンな雰囲気が感じられます。"
+        },
+        {
+            "question": "Kappo Akiではどんな料理が楽しめますか？",
+            "answer": "Kappo Akiでは日本料理が楽しめます。"
+        },
+        {
+            "question": "Kappo Akiの雰囲気はどのような感じですか？",
+            "answer": "Kappo Akiはモダンな雰囲気の中で料理を楽しむことができる夕食レストランです。"
+        },
+        {
+            "question": "グラッド汝矣島のチェックイン時間は何時ですか？",
+            "answer": "グラッド汝矣島のチェックイン時間は15:00からです。"
+        },
+        {
+            "question": "グラッド汝矣島のチェックアウト時間は何時ですか？",
+            "answer": "グラッド汝矣島のチェックアウト時間は11:00までです。"
+        }
+    ],
+    "word_Count": {
+        "text": 148,
+        "QA": 279
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_017780",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2020-11-03",
+        "domain": "음식점",
+        "title": "錦洞( 금동 )"
+    },
+    "text": "錦洞( 금동 )\\n\n全羅南道モクポ市ヘアンロ173ボンギル26\\n\n各種飲み物だけでなく、夏には昔風のかき氷を提供するお店です。 代表的なメニューはエードです。全羅南道のに位置したカフェ（コーヒーショップ）です。",
+    "QA": [
+        {
+            "question": "このカフェの名前は何ですか？",
+            "answer": "このカフェの名前は錦洞( 금동 )です。"
+        },
+        {
+            "question": "このカフェはどこにありますか？",
+            "answer": "このカフェは全羅南道モクポ市ヘアンロ173ボンギル26にあります。"
+        },
+        {
+            "question": "このカフェでは何を提供していますか？",
+            "answer": "このカフェでは各種飲み物だけでなく、夏には昔風のかき氷を提供しています。"
+        },
+        {
+            "question": "このカフェの代表的なメニューは何ですか？",
+            "answer": "このカフェの代表的なメニューはエードです。"
+        },
+        {
+            "question": "このカフェはどのような雰囲気ですか？",
+            "answer": "このカフェは全羅南道のに位置しており、カフェ（コーヒーショップ）として落ち着いた雰囲気です。"
+        }
+    ],
+    "word_Count": {
+        "text": 78,
+        "QA": 176
+    }
+}

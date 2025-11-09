@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_015247",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42070&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "청주 지중해"
+    },
+    "text": "ネットフリックス利用可能です(個人IDが必要)。 ご予約の際、2人基準です。 駐車場の入り口が狭いため、車をご利用のお客様は業者にお電話いただければ、お気軽にお入りいただけるようお手伝いいたします。 客室の割り当ては先着順で行われ、同じ等級の客室を提供しますが、客室構造によって写真と異なる場合がありますので、お越しのお客様の順番でご希望の客室を割り当てています。",
+    "QA": [
+        {
+            "question": "ネットフリックスは利用できますか？",
+            "answer": "はい、ネットフリックスは利用できます。個人IDが必要です。"
+        },
+        {
+            "question": "ご予約の際、人数は何人基準ですか？",
+            "answer": "ご予約の際、2人を基準としています。"
+        },
+        {
+            "question": "駐車場を利用する場合、どうすれば良いですか？",
+            "answer": "駐車場の入り口が狭いため、車をご利用のお客様は業者にお電話いただければ、お気軽にお入りいただけるようお手伝いいたします。"
+        },
+        {
+            "question": "客室の割り当てはどのように行われますか？",
+            "answer": "客室の割り当ては先着順で行われます。同じ等級の客室を提供しますが、客室構造によって写真と異なる場合がありますので、お越しのお客様の順番でご希望の客室を割り当てています。"
+        }
+    ],
+    "word_Count": {
+        "text": 133,
+        "QA": 195
+    }
+}

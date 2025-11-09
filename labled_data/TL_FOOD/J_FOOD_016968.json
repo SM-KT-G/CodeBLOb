@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_016968",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "慶尙道どじょうスープ ( 경상도추어탕 )"
+    },
+    "text": "慶尙道どじょうスープ ( 경상도추어탕 )\\n\n慶尚北道 安東市 テサキル 23-3\\n\n韓国式の魚のスープ料理を味わえるお店です。慶尚北道のアンドン市に位置した韓食専門店です。おすすめはどじょうスープです。",
+    "QA": [
+        {
+            "question": "このレストランはどこにありますか？",
+            "answer": "慶尚北道 安東市 テサキル 23-3に位置しています。"
+        },
+        {
+            "question": "このレストランでは何がおすすめですか？",
+            "answer": "おすすめはどじょうスープです。"
+        },
+        {
+            "question": "このレストランの特徴は何ですか？",
+            "answer": "このレストランは韓国式の魚のスープ料理を提供している韓食専門店です。"
+        },
+        {
+            "question": "このレストランは何県にありますか？",
+            "answer": "このレストランは慶尚北道に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 76,
+        "QA": 121
+    }
+}

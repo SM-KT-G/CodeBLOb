@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_055622",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-06",
+        "domain": "음식점",
+        "title": "ユレ会館 ( 유래회관 )"
+    },
+    "text": "ユレ会館 ( 유래회관 )\\n\nソウル特別市 城東区 マジャンロ196\\n\n57年伝統の韓牛ロースが味わえる名店です。ソウル特別市のソンドン区に位置した韓食専門店です。代表的なメニューはロースです。",
+    "QA": [
+        {
+            "question": "ユレ会館はどこにありますか？",
+            "answer": "ユレ会館はソウル特別市城東区マジャンロ196に位置しています。"
+        },
+        {
+            "question": "ユレ会館の代表的なメニューは何ですか？",
+            "answer": "ユレ会館の代表的なメニューは韓牛ロースです。"
+        },
+        {
+            "question": "ユレ会館は何年の伝統がありますか？",
+            "answer": "ユレ会館は57年の伝統があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 72,
+        "QA": 88
+    }
+}

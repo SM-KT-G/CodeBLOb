@@ -1,0 +1,59 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_055131",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://kr.hotels.com/ho514188/seongsan-akua-bichi-hotel-seogwipo-hangug/?chkin=2023-11-14&chkout=2023-11-15&x_pwa=1&rfrr=HSR&pwa_ts=1698428095355&referrerUrl=aHR0cHM6Ly9rci5ob3RlbHMuY29tL0hvdGVsLVNlYXJjaA%3D%3D&useRewards=false&rm1=a2&regionId=6049718&destination=%EC%A0%9C%EC%A3%BC%EB%8F%84%2C+%EC%A0%9C%EC%A3%BC%2C+%ED%95%9C%EA%B5%AD&destType=MARKET&neighborhoodId=6335577&latLong=33.389705%2C126.558752&sort=RECOMMENDED&top_dp=31225&top_cur=KRW&userIntent=&selectedRoomType=201033233&selectedRatePlan=205040217&expediaPropertyId=10963925&searchId=239ba6ec-1192-437a-aa11-73cc2f2a81fa",
+        "collectedDate": "2023-11-15",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "성산아쿠아비치호텔"
+    },
+    "text": "城山アクアビーチホテル\\n\n大韓民国済州特別自治道西帰浦市城山邑一周洞路4258\\n\n城山アクアビーチホテルは城山日出峰とソプジコジからそれぞれ3.8km、3.9kmの位置にあります。 当ホテルは65室の客室があり、チェックインは午後4時から始まり、午前0時12時30分まで可能です。 チェックアウトは午前11時です。 満18歳以上からチェックイン可能で、到着時にフロントデスクのスタッフがサポートします。 チェックインの際には付帯費用に備えるためにクレジットカード、デビットカードまたは現金保証金が必要であり、政府発行の身分証明書に写真が貼られていなければなりません。 ペットは同伴できず、共用エリアでは無料WiFiを提供しています。 また、ホテル内には無料のセルフ駐車施設があります。 新型コロナウイルス感染症関連の制限事項を確認して旅行に着手しなければなりません。 それ以外の特別な情報や制限事項はありません。 ホテルは禁煙施設です。",
+    "QA": [
+        {
+            "question": "ホテルのチェックイン、チェックアウトの時間は何時ですか？",
+            "answer": "チェックインは午後4時から始まり、チェックアウトは午前11時です。"
+        },
+        {
+            "question": "ホテルの客室数は何室ですか？",
+            "answer": "ホテルには65室の客室があります。"
+        },
+        {
+            "question": "チェックインには何歳以上でなければなりませんか？",
+            "answer": "満18歳以上からチェックイン可能です。"
+        },
+        {
+            "question": "チェックインの際に必要なものは何ですか？",
+            "answer": "チェックインの際には、クレジットカード、デビットカード、または現金保証金が必要です。また、政府発行の身分証明書に写真が貼られていることも必要です。"
+        },
+        {
+            "question": "ペットは同伴できますか？",
+            "answer": "申し訳ありませんが、ペットの同伴はできません。"
+        },
+        {
+            "question": "ホテル内でのWiFiの提供はありますか？",
+            "answer": "はい、ホテル内の共用エリアでは無料WiFiを提供しています。"
+        },
+        {
+            "question": "ホテルに駐車場はありますか？",
+            "answer": "はい、ホテル内には無料のセルフ駐車施設があります。"
+        },
+        {
+            "question": "新型コロナウイルス感染症関連の制限事項はありますか？",
+            "answer": "旅行に着手する前に、新型コロナウイルス感染症関連の制限事項を確認する必要があります。それ以外の特別な情報や制限事項はありません。"
+        },
+        {
+            "question": "ホテルは禁煙ですか？",
+            "answer": "はい、ホテルは禁煙施設です。"
+        }
+    ],
+    "word_Count": {
+        "text": 308,
+        "QA": 341
+    }
+}

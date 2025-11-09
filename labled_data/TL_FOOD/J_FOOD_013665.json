@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_013665",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "ホングルプチュカルグクス ( 홍굴부추칼국수 )"
+    },
+    "text": "ホングルプチュカルグクス \n忠清北道 堤川市 義林大路24キル 4\n新鮮なムール貝やカキ入りの生カルグクスが美味しい店です。 おすすめはムール貝とカキニラカルグクスです。忠淸北道のジェチョン市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "この店は忠清北道堤川市の義林大路24キル4に位置しています。"
+        },
+        {
+            "question": "この店の特徴的な料理は何ですか？",
+            "answer": "この店のおすすめはムール貝とカキニラカルグクスです。新鮮なムール貝やカキが入った生カルグクスが美味しいです。"
+        },
+        {
+            "question": "この店は何を専門としていますか？",
+            "answer": "この店は韓食を専門としています。"
+        },
+        {
+            "question": "この店はどの都市に位置していますか？",
+            "answer": "この店は忠清北道のジェチョン市に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 79,
+        "QA": 137
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_017035",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-08-27",
+        "domain": "음식점",
+        "title": "雞林食堂（계림식당）"
+    },
+    "text": "雞林食堂（계림식당）\\n\nソウル特別市 鐘路区 敦化門路4キル 39\\n\nこの店はソウル特別市のチョンノに位置した韓国料理店です。代表的なメニューは鶏肉の炒め煮です。韓国風のピリ辛鶏肉料理を味わうことができます。",
+    "QA": [
+        {
+            "question": "雞林食堂はどこに位置していますか？",
+            "answer": "ソウル特別市 鐘路区 敦化門路4キル 39に位置しています。"
+        },
+        {
+            "question": "雞林食堂の代表的なメニューは何ですか？",
+            "answer": "鶏肉の炒め煮が代表的なメニューです。"
+        },
+        {
+            "question": "韓国風のピリ辛鶏肉料理を味わうことができますか？",
+            "answer": "はい、雞林食堂では韓国風のピリ辛鶏肉料理を味わうことができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 77,
+        "QA": 102
+    }
+}

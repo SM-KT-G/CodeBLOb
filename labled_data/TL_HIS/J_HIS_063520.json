@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_063520",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=989&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=00370000&ccbaCtcd=37&ccbaCpno=3413700370000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1985-08-05",
+        "domain": "문화/역사관광",
+        "title": "만우정"
+    },
+    "text": "慶尚北道文化財資料である朝鮮時代の兵曹チャムパンユチミョン(1771∼1861)の学問研究場所である精子は哲宗6年(1855)に建てられました。最初は社の東に位置したが、イムハダムの水害によって1988年に現在の位置に移動されました。建物は前面3間、側面2間の規模を持ち、八の字型の入母屋屋根で構成されています。'マンウチョン'いう文句が扁額にかかっていて、誘致名が直接手がけた奇問も存在します。",
+    "QA": [
+        {
+            "question": "この建物はいつ建てられましたか？",
+            "answer": "精子は哲宗6年(1855)に建てられました。"
+        },
+        {
+            "question": "精子はどのような形状をしていますか？",
+            "answer": "建物は前面3間、側面2間の規模を持ち、八の字型の入母屋屋根で構成されています。"
+        },
+        {
+            "question": "精子はなぜ現在の位置に移動されましたか？",
+            "answer": "イムハダムの水害によって1988年に現在の位置に移動されました。"
+        },
+        {
+            "question": "精子にはどんな扁額がかかっていますか？",
+            "answer": "マンウチョンという文句が扁額にかかっています。"
+        },
+        {
+            "question": "精子にはどのような奇問が存在しますか？",
+            "answer": "誘致名が直接手がけた奇問も存在します。"
+        }
+    ],
+    "word_Count": {
+        "text": 145,
+        "QA": 166
+    }
+}

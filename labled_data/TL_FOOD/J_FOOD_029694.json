@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_029694",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-01",
+        "domain": "음식점",
+        "title": "黃土食堂 ( 황토식당 )"
+    },
+    "text": "黃土食堂 \n京畿道 平沢市 西井路 288\n釜蓋の上で焼いて食べるサムギョプサルが有名なところです。 おすすめはサムギョプサルです。京畿道のピョンテク市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "黄土食堂はどこにありますか？",
+            "answer": "黄土食堂は京畿道平沢市西井路288に位置しています。"
+        },
+        {
+            "question": "黄土食堂で有名な料理は何ですか？",
+            "answer": "黄土食堂で有名な料理はサムギョプサルです。"
+        },
+        {
+            "question": "黄土食堂は何を専門としていますか？",
+            "answer": "黄土食堂は韓食を専門としています。"
+        },
+        {
+            "question": "黄土食堂のおすすめは何ですか？",
+            "answer": "黄土食堂のおすすめはサムギョプサルです。"
+        }
+    ],
+    "word_Count": {
+        "text": 65,
+        "QA": 107
+    }
+}

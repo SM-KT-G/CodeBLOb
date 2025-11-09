@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_028807",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42040&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "구례 섬진강풍경이좋은집펜션"
+    },
+    "text": "風景が美しい家のペンションへのお越しを歓迎します。 智異山蟾津江に位置する当ペンションは、済州島の美しい風景と季節ごとに変化する花や夜空のきらめく星が鑑賞できる場所です。 智異山の澄んだ空気と蟾津江の川辺のさわやかな風と風景が美しい家ペンションで大切な思い出とロマンを作ってみてください。 営業のお知らせでは、22時以降に入室される場合、予めペンションまでご連絡ください。 また、翌日予約がない場合は延長申請が可能です。",
+    "QA": [
+        {
+            "question": "このペンションはどのような場所に位置していますか？",
+            "answer": "当ペンションは智異山蟾津江に位置しています。"
+        },
+        {
+            "question": "どのような風景が見られますか？",
+            "answer": "智異山の澄んだ空気と蟾津江の川辺のさわやかな風と風景がお楽しみいただけます。"
+        },
+        {
+            "question": "営業時間について教えてください。",
+            "answer": "22時以降に入室される場合は、予めペンションまでご連絡ください。"
+        },
+        {
+            "question": "延長申請は可能ですか？",
+            "answer": "翌日予約がない場合は、延長申請が可能です。"
+        }
+    ],
+    "word_Count": {
+        "text": 154,
+        "QA": 132
+    }
+}

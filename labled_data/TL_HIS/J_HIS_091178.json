@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_091178",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=155&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=14030000&ccbaCtcd=37&ccbaCpno=1123714030000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2004-04-06",
+        "domain": "문화/역사관광",
+        "title": "영주 소수서원 강학당"
+    },
+    "text": "朝鮮時代の中宗37年(1542)に建てられた宝物な栄州・紹修書院カンハクダンは学問を講じた場所に基壇と礎石が積まれている中、入母屋屋根の二重の軒を持っています。四方には縁側を設置し、端にはあごがあり、基壇の四隅に滑走を設置しました。カンハクダン正面は東を指しており、書院の入り口からすぐカンハクダンに入ることができるように階段を設置しました。内部には明宗の扁額がかかっており、内部では左側3間は板の間であり、右側1間には部屋が二つ設置されています。気団の3面には階段が設置されており、煙突は床下に小さな穴が空けられています。柱はアンソ一つと柱頭、チョイクコンで構成されていて、家具は大黒柱と童子柱の上に宗宝とパリョンデコンが置かれています。",
+    "QA": [
+        {
+            "question": "カンハクダンはいつ建てられましたか？",
+            "answer": "カンハクダンは中宗37年（1542年）に建てられました。"
+        },
+        {
+            "question": "カンハクダンの建物はどのような形をしていますか？",
+            "answer": "カンハクダンは入母屋屋根の二重の軒を持ち、四方に縁側が設置された形をしています。"
+        },
+        {
+            "question": "カンハクダンの正面の方向は何を指していますか？",
+            "answer": "カンハクダンの正面は東を指しています。"
+        },
+        {
+            "question": "カンハクダンの内部には何がかかっていますか？",
+            "answer": "カンハクダンの内部には明宗の扁額がかかっています。"
+        },
+        {
+            "question": "カンハクダンの柱は何で構成されていますか？",
+            "answer": "カンハクダンの柱はアンソ一つと柱頭、チョイクコンで構成されています。"
+        },
+        {
+            "question": "カンハクダンには何が置かれていますか？",
+            "answer": "カンハクダンには大黒柱と童子柱の上に宗宝とパリョンデコンが置かれています。"
+        }
+    ],
+    "word_Count": {
+        "text": 234,
+        "QA": 227
+    }
+}

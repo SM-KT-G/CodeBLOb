@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_030260",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/samonim-dongaseu",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "サモニムとんかつ"
+    },
+    "text": "サモニムとんかつ\\n\nソウル特別市 麻浦区 臥牛山路39-13\\n\n「サモニムとんかつ」は、路地の奥深い場所にありながらも人気のとんかつ屋です。厚めの肉を使ったとんかつもさることながら、一緒に出される新鮮な野菜やじゃがいものバター焼きもおいしいと評判です。また、ボリュームがあり男性も一皿で満足できるのも魅力です。",
+    "QA": [
+        {
+            "question": "この店の名前は何ですか？",
+            "answer": "サモニムとんかつ"
+        },
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "ソウル特別市 麻浦区 臥牛山路39-13"
+        },
+        {
+            "question": "この店の料理はどんな特徴がありますか？",
+            "answer": "厚めの肉を使ったとんかつや、新鮮な野菜やじゃがいものバター焼きが人気です。"
+        },
+        {
+            "question": "この店の魅力は何ですか？",
+            "answer": "ボリュームがあり、男性も一皿で満足できることが魅力です。"
+        }
+    ],
+    "word_Count": {
+        "text": 115,
+        "QA": 109
+    }
+}

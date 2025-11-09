@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_005788",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101933",
+        "collectedDate": "2023-10-06",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "영남대역"
+    },
+    "text": "ヨンナム大駅\n\n嶺南大駅（Yeungnam University station、嶺南大驛）は、慶尚北道慶山市大洞にある大邱都市鉄道2号線の駅である。この駅からダサ駅まで地下区間だ。この駅には深夜に3編成が駐泊する。嶺南大終着電車2編成は四月駅に回送して駐車した後、翌朝に嶺南大にまた回送して運行する。",
+    "QA": [
+        {
+            "question": "ヨンナム大駅はどこにありますか？",
+            "answer": "ヨンナム大駅は、慶尚北道慶山市大洞にあります。"
+        },
+        {
+            "question": "嶺南大駅は何線の駅ですか？",
+            "answer": "嶺南大駅は大邱都市鉄道2号線の駅です。"
+        },
+        {
+            "question": "深夜に何編成がヨンナム大駅で駐泊しますか？",
+            "answer": "深夜には3編成の電車がヨンナム大駅で駐泊します。"
+        },
+        {
+            "question": "嶺南大終着電車はどこに回送されますか？",
+            "answer": "嶺南大終着電車は四月駅に回送されます。"
+        },
+        {
+            "question": "嶺南大駅からダサ駅までの区間は何ですか？",
+            "answer": "嶺南大駅からダサ駅までの区間は地下区間です。"
+        }
+    ],
+    "word_Count": {
+        "text": 110,
+        "QA": 143
+    }
+}

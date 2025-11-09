@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_029879",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42020&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "남해 상주펜션"
+    },
+    "text": "尚州ペンションは尚州海水浴場の青い海と柔らかな海辺、南海錦山の美しい絶景をすべて楽しむことができる場所です。 客室内では禁煙が原則であり、22時以降は予めご連絡して入室してください。 尚州ペンションで快適で楽しい時間をお過ごしいただけるよう、最善を尽くします。 ありがとうございます。",
+    "QA": [
+        {
+            "question": "尚州ペンションはどこにありますか？",
+            "answer": "尚州ペンションは尚州海水浴場の近くに位置しています。"
+        },
+        {
+            "question": "客室内で喫煙はできますか？",
+            "answer": "いいえ、客室内では禁煙です。禁煙が原則となっております。"
+        },
+        {
+            "question": "何時までに入室する必要がありますか？",
+            "answer": "22時以降に入室する場合は事前にご連絡ください。"
+        },
+        {
+            "question": "尚州ペンションで楽しめるものはありますか？",
+            "answer": "尚州海水浴場の美しい海と海辺、南海錦山の絶景を楽しむことができます。"
+        },
+        {
+            "question": "尚州ペンションでは何を提供していますか？",
+            "answer": "尚州ペンションでは快適な滞在をお楽しみいただけるように最善のサービスを提供しております。"
+        }
+    ],
+    "word_Count": {
+        "text": 104,
+        "QA": 179
+    }
+}

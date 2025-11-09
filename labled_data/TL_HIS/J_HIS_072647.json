@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_072647",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=340&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=18&ccbaAsno=00300600&ccbaCtcd=38&ccbaCpno=1483800300600&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1992-07-28",
+        "domain": "문화/역사관광",
+        "title": "보부상 유품"
+    },
+    "text": "昌寧は国家民俗文化財であるチャンニョンジャンを中心に活動した朝鮮、行商人団支部の名前です。昌寧はミョルポナル、イイモクナル、盤浦(バンポ)ナル、スルトナル、傘ナルなど多くの渡し場と陸路を通じて、金海、釜山(プサン)、高齢、尚州、忍冬(スイカズラ)、山清(サンチョン)、陜川(ハプチョン)、居昌(コチャン)などの物産を集荷する重要な要旨でした。チャンニョンジャンは繁盛し、昌寧(チャンニョン)常務会社の組織の背景になりました。昌寧常務社では負傷は行商をして偶像は場所をきめて、商品を販売しました。昌寧地域では左右、宇佐が区別されており、一時統合が行われて組織が強化されました。左右会社の取引商品ムルジョンは大同商務省の装丁本に記されており、役割が厳格に区分されたことを知ることができます。",
+    "QA": [
+        {
+            "question": "チャンニョンジャンは何の名前でしたか？",
+            "answer": "チャンニョンジャンは昌寧行商人団支部の名前でした。"
+        },
+        {
+            "question": "昌寧はどのような活動を中心にしていましたか？",
+            "answer": "昌寧はチャンニョンジャンを中心に朝鮮の国家民俗文化財である行商人団支部の活動を行っていました。"
+        },
+        {
+            "question": "昌寧はどのような地域との交易を行っていましたか？",
+            "answer": "昌寧は金海、釜山、高齢、尚州、忍冬、山清、陜川、居昌など多くの地域との交易を行っていました。"
+        },
+        {
+            "question": "昌寧常務社ではどのような活動をしていましたか？",
+            "answer": "昌寧常務社では行商をして商品を集荷し、場所を決めて販売していました。"
+        },
+        {
+            "question": "昌寧地域では左右が区別されていましたか？",
+            "answer": "はい、昌寧地域では左右が区別されていました。"
+        },
+        {
+            "question": "左右会社の取引商品は何でしたか？",
+            "answer": "左右会社の取引商品は大同商務省の装丁本に記されている通り、厳格に区分されていました。"
+        }
+    ],
+    "word_Count": {
+        "text": 251,
+        "QA": 249
+    }
+}

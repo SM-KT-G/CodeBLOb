@@ -1,0 +1,31 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_029951",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/goods/GN0002153626?startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0%5E&npprmaxsort=min",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "을지로 코업 레지던스"
+    },
+    "text": "東大門ショッピングモールが位置する密集地域で24時間セキュリティ管理が徹底した快適な空間を探すことができます。 ここはモダンでシンプルなインテリアと様々な付帯施設を備えており、最上の空間を提供します。 東大門歴史文化公園駅12番出口から徒歩3分の距離にあり、どこからでも簡単にアクセスできます。",
+    "QA": [
+        {
+            "question": "このショッピングモールはどんな特徴がありますか？",
+            "answer": "東大門ショッピングモールは24時間セキュリティ管理が徹底されており、快適な空間を提供しています。モダンでシンプルなインテリアと様々な付帯施設もあります。"
+        },
+        {
+            "question": "駅からのアクセスはどのくらいですか？",
+            "answer": "東大門歴史文化公園駅12番出口から徒歩3分の距離に位置しています。どこからでも簡単にアクセスできます。"
+        }
+    ],
+    "word_Count": {
+        "text": 107,
+        "QA": 123
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_020866",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42020&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "브라운도트 통영항남점"
+    },
+    "text": "都心での自然の癒しと感覚的なリフレッシュをモチーフにして、より豊かな採光や録音、住居では使いにくい様々な色味と構造を取り入れたT Brown Dot Hotelです。 このホテルは都心の中のブティック空間として慣れていますが、日常から離れて感性を刺激することができる所です。 年齢や好みに関係なく、誰もが好感を持てるほどの大衆的で個性的なホテルです。 このようなホテルの特徴を象徴する数字として25を使用しましたが、これは世界のどの時計にも存在しない瞬間を表しています。 ホテルを訪れた人々は、現実から抜け出して訪れるこの特別な時間を経験します。 このようにT Brown Dot Hotelは都心の中で自然の癒しと感覚的なリフレッシュを提供しながらも、日常から離れた特別な経験を提供する空間です。",
+    "QA": [
+        {
+            "question": "T Brown Dot Hotelはどんなコンセプトを持っていますか？",
+            "answer": "T Brown Dot Hotelは都心での自然の癒しと感覚的なリフレッシュを提供することをコンセプトとしています。豊かな採光や録音、様々な色味と構造を取り入れ、より個性的な空間を作り出しています。"
+        },
+        {
+            "question": "T Brown Dot Hotelはどんな特徴を持っていますか？",
+            "answer": "T Brown Dot Hotelは大衆的で個性的な空間でありながら、誰もが好感を持てるような特徴を持っています。また、25という数字を象徴として使用しており、訪れる人々に特別な時間を提供しています。"
+        },
+        {
+            "question": "T Brown Dot Hotelはどのような経験を提供していますか？",
+            "answer": "T Brown Dot Hotelは都心の中で自然の癒しと感覚的なリフレッシュを提供しながらも、日常から離れた特別な経験を提供しています。訪れる人々は現実から抜け出して訪れるこの特別な時間を経験することができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 255,
+        "QA": 299
+    }
+}

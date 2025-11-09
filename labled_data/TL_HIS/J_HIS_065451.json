@@ -1,0 +1,55 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_065451",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1059&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=01410000&ccbaCtcd=37&ccbaCpno=3413701410000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1985-08-05",
+        "domain": "문화/역사관광",
+        "title": "미산학사"
+    },
+    "text": "慶尚北道に位置した私設塾の密山、学士ではキムイドを追悼して後進育成のために建てられたところだ。キムイドは経堂ジャンフンヒョの文人として知られており、学問的な能力で士林らの尊敬を受けた。同塾は、先生のフラミンゴの理念に従って、後進を育てるために設立されたが、先生は\"学士がなくては意思を広げることができない\"と信じていた。ミサン、学士では顕宗11年(1670)に建てられており、建物の規模は側面2間、前面3間で構成されている。屋根は入母屋屋根で、八の字の形をしている。全体的には平凡な平面構造を持っているが、前クンマルには欄干が設置されて矢倉で構成されており、非常に端麗な雰囲気を帯びている。クンマルの上には'ミサン学士'と'サムギョンダン'という名前の看板がかかっている。",
+    "QA": [
+        {
+            "question": "密山はどこに位置していますか？",
+            "answer": "密山は慶尚北道に位置しています。"
+        },
+        {
+            "question": "密山は何のために建てられたのですか？",
+            "answer": "密山はキムイドを追悼して後進育成のために建てられました。"
+        },
+        {
+            "question": "キムイドは何で有名な文人ですか？",
+            "answer": "キムイドは経堂ジャンフンヒョの文人として知られています。"
+        },
+        {
+            "question": "なぜ先生は学士が重要だと信じていたのですか？",
+            "answer": "先生は'学士がなくては意思を広げることができない'と信じていました。"
+        },
+        {
+            "question": "ミサン学士の建物の規模はどのようになっていますか？",
+            "answer": "ミサン学士の建物の規模は側面2間、前面3間で構成されています。"
+        },
+        {
+            "question": "ミサン学士の屋根の形は何ですか？",
+            "answer": "ミサン学士の屋根は入母屋屋根で、八の字の形をしています。"
+        },
+        {
+            "question": "ミサン学士の前クンマルには何が設置されていますか？",
+            "answer": "ミサン学士の前クンマルには欄干が設置されて矢倉で構成されています。"
+        },
+        {
+            "question": "ミサン学士のクンマルの上には何の看板がかかっていますか？",
+            "answer": "ミサン学士のクンマルの上には'ミサン学士'と'サムギョンダン'という名前の看板がかかっています。"
+        }
+    ],
+    "word_Count": {
+        "text": 246,
+        "QA": 301
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_029077",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-07-14",
+        "domain": "음식점",
+        "title": "漢陽チョッパル（한양족발）"
+    },
+    "text": "漢陽チョッパル（한양족발）\\n\n釜山広域市 中区 光復路13\\n\n「漢陽（ハニャン）チョッパル」は長い間、釜山と歴史を共にしてきた有名な豚足料理店です。",
+    "QA": [
+        {
+            "question": "漢陽チョッパルはどこにありますか？",
+            "answer": "漢陽チョッパルは釜山広域市中区光復路13にあります。"
+        },
+        {
+            "question": "漢陽チョッパルはどのような料理店ですか？",
+            "answer": "漢陽チョッパルは有名な豚足料理店です。"
+        },
+        {
+            "question": "釜山と漢陽チョッパルの関係は何ですか？",
+            "answer": "漢陽チョッパルは長い間、釜山と歴史を共にしてきた豚足料理店です。"
+        }
+    ],
+    "word_Count": {
+        "text": 55,
+        "QA": 97
+    }
+}

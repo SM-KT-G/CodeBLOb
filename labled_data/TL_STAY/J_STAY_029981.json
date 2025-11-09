@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_029981",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42020&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "남해 라움펜션"
+    },
+    "text": "こんにちは。南海ラウムペンションです。 今回、当ペンションはタレンイ村の周辺に位置しています。 この位置のため、町を見物するのに本当に良いでしょう。 特にペンションは村の真ん中に位置しているのでアクセスが良いです。 ペンションと一緒に素敵な思い出を作ってみてください。 以上でお知らせを終わります。",
+    "QA": [
+        {
+            "question": "南海ラウムペンションはどこに位置していますか？",
+            "answer": "南海ラウムペンションはタレンイ村の周辺に位置しています。"
+        },
+        {
+            "question": "なぜ南海ラウムペンションは町を見物するのに良いですか？",
+            "answer": "南海ラウムペンションはタレンイ村の真ん中に位置しているため、町を見物するのにアクセスが良いです。"
+        },
+        {
+            "question": "南海ラウムペンションで何ができますか？",
+            "answer": "南海ラウムペンションでは素敵な思い出を作ることができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 109,
+        "QA": 127
+    }
+}

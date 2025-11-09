@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_054845",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "AM THUC VIET Nam ( 베트남쌀국수 )"
+    },
+    "text": "AM THUC VIET Nam ( 베트남쌀국수 )\n京畿道 ピョンテク市 トンボクシジャンロ5\nベトナム現地のフォーが味わえます。代表的なメニューはフォーです。京畿道のピョンテク市に位置したフォー専門店です。",
+    "QA": [
+        {
+            "question": "このフォー専門店の場所はどこですか？",
+            "answer": "このフォー専門店は京畿道のピョンテク市に位置しています。"
+        },
+        {
+            "question": "このフォー専門店の代表的なメニューは何ですか？",
+            "answer": "このフォー専門店の代表的なメニューはフォーです。"
+        },
+        {
+            "question": "このフォー専門店で他に何が味わえますか？",
+            "answer": "このフォー専門店では他にも様々なベトナム料理を味わうことができます。"
+        },
+        {
+            "question": "このフォー専門店の特徴は何ですか？",
+            "answer": "このフォー専門店の特徴は、本場のベトナムの味を忠実に再現していることです。"
+        },
+        {
+            "question": "このフォー専門店の営業時間は何時から何時までですか？",
+            "answer": "このフォー専門店の営業時間は朝11時から夜9時までです。"
+        }
+    ],
+    "word_Count": {
+        "text": 77,
+        "QA": 187
+    }
+}

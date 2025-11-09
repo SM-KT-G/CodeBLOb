@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_004162",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42030&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "성주(가야산) 앤의정원펜션"
+    },
+    "text": "こんにちは。アンの庭園ペンションです。 入室時期についてお知らせしたいと思います。 もし22時以降に入室される予定でしたら、あらかじめペンションまでご連絡ください。 またペットに関しましては、入室はお断りしておりますので、予めご了承ください。 最後に、炊事道具に関して個人的に準備してきてはいけません。 グリル、炭、電気または電熱器具などは持ち込みが禁止されているからです。 ありがとうございます。",
+    "QA": [
+        {
+            "question": "ペンションへの入室時刻はいつですか？",
+            "answer": "チェックインは15時から21時までとなっておりますが、22時以降に入室される場合は事前にご連絡ください。"
+        },
+        {
+            "question": "ペットは宿泊できますか？",
+            "answer": "申し訳ありませんが、ペットの入室はお断りしております。ご了承ください。"
+        },
+        {
+            "question": "炊事道具は持ち込んでもいいですか？",
+            "answer": "炊事道具に関しては、個人的に持ち込むことはできません。グリル、炭、電気または電熱器具などの持ち込みは禁止されています。ご了承ください。"
+        }
+    ],
+    "word_Count": {
+        "text": 145,
+        "QA": 147
+    }
+}

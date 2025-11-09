@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001826",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "L’maitie ( 라미띠에 )"
+    },
+    "text": "L’maitie ( 라미띠에 )\\n\nソウル特別市 江南区 島山大路67キル 30\\n\n「ミシュランガイド2020」に選定された飲食店です。 ソウル特別市のガンナム区に位置した洋食専門店です。代表的なメニューはロブスターです。",
+    "QA": [
+        {
+            "question": "このレストランの場所はどこですか？",
+            "answer": "ソウル特別市のガンナム区に位置しています。具体的な住所は島山大路67キル30です。"
+        },
+        {
+            "question": "このレストランはどのようなメニューがありますか？",
+            "answer": "このレストランは洋食専門店で、代表的なメニューはロブスターです。"
+        },
+        {
+            "question": "このレストランはミシュランガイドに選ばれたことがありますか？",
+            "answer": "はい、このレストランは「ミシュランガイド2020」に選ばれました。"
+        }
+    ],
+    "word_Count": {
+        "text": 83,
+        "QA": 129
+    }
+}

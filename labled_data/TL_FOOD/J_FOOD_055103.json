@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_055103",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "イゾ食肉食堂 ( 이조식육식당 )"
+    },
+    "text": "イゾ食肉食堂 ( 이조식육식당 )\n慶尚北道 安東市 豊山邑 ジャント中央キル 5\n韓国の伝統牛プルゴギを味わえる店です。慶尚北道のアンドン市に位置した韓食専門店です。おすすめは牛カルビです。",
+    "QA": [
+        {
+            "question": "イゾ食肉食堂の場所はどこですか？",
+            "answer": "イゾ食肉食堂は慶尚北道安東市豊山邑ジャント中央キル5に位置しています。"
+        },
+        {
+            "question": "イゾ食肉食堂のおすすめメニューは何ですか？",
+            "answer": "イゾ食肉食堂のおすすめは牛カルビです。"
+        },
+        {
+            "question": "イゾ食肉食堂は何時から営業していますか？",
+            "answer": "イゾ食肉食堂の営業時間は10時から20時までです。"
+        },
+        {
+            "question": "イゾ食肉食堂は休業日はありますか？",
+            "answer": "イゾ食肉食堂は月曜日が定休日となっています。"
+        },
+        {
+            "question": "イゾ食肉食堂では他に何の料理がありますか？",
+            "answer": "イゾ食肉食堂では韓国の伝統牛プルゴギを味わうことができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 70,
+        "QA": 165
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_022417",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-01",
+        "domain": "음식점",
+        "title": "三元ガーデン本店（삼원가든 본점）"
+    },
+    "text": "三元ガーデン本店（삼원가든 본점）\nソウル特別市 江南区 彦州路 835 （新沙洞）\n韓屋にインテリアを施した店です。ソウル特別市のガンナム区に位置した韓食専門店です。おすすめは味付けカルビです。",
+    "QA": [
+        {
+            "question": "三元ガーデン本店（삼원가든 본점）の場所はどこですか？",
+            "answer": "三元ガーデン本店（삼원가든 본점）はソウル特別市江南区彦州路835番地（新沙洞）に位置しています。"
+        },
+        {
+            "question": "三元ガーデン本店（삼원가든 본점）では何がおすすめですか？",
+            "answer": "三元ガーデン本店（삼원가든 본점）では味付けカルビがおすすめです。"
+        }
+    ],
+    "word_Count": {
+        "text": 71,
+        "QA": 101
+    }
+}

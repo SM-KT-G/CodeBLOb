@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_082471",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ja",
+        "translator": null,
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101971",
+        "collectedDate": "2023-09-07",
+        "publishedDate": "2021-11-22",
+        "domain": "문화/역사관광",
+        "title": "説法殿"
+    },
+    "text": "説法殿\n説法殿  説法殿は1993年に建立された法堂です。約500坪に3千人まで同時に収容できる国内で最も大きい単一木造建物です。朝夕の礼仏はもちろん、各種大法会など僧侶が真理の法を説く場所です。",
+    "QA": [
+        {
+            "question": "説法殿はいつ建立されましたか？",
+            "answer": "説法殿は1993年に建立されました。"
+        },
+        {
+            "question": "説法殿の広さは何坪ですか？",
+            "answer": "説法殿は約500坪の広さがあります。"
+        },
+        {
+            "question": "説法殿に何人まで同時に収容できますか？",
+            "answer": "説法殿には3千人まで同時に収容できます。"
+        },
+        {
+            "question": "説法殿で何が行われますか？",
+            "answer": "説法殿では朝夕の礼仏はもちろん、各種大法会など僧侶が真理の法を説く場所です。"
+        }
+    ],
+    "word_Count": {
+        "text": 71,
+        "QA": 112
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_018992",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.ngii.go.kr/kor/main.do'",
+        "collectedDate": "2023-11-27",
+        "publishedDate": "2020-01-01",
+        "domain": "자연관광",
+        "title": "북천"
+    },
+    "text": "北天 (북천)\\n\n江原道麟蹄郡\\n\n江原道麟蹄郡北面龍垈里に位置する龍大橋から始まり、北面仁北川に合流する河川だ。 北面は現所在地から北側に位置した地域として名前が付けられた。 この河川は北面での名称を取って北川と呼ばれている。",
+    "QA": [
+        {
+            "question": "この河川の名前は何ですか？",
+            "answer": "この河川は北面での名称を取って北川と呼ばれています。"
+        },
+        {
+            "question": "北川はどこから始まり、どこに合流するのですか？",
+            "answer": "北川は龍大橋から始まり、北面仁北川に合流します。"
+        },
+        {
+            "question": "北面はどの地域の名前ですか？",
+            "answer": "北面は現所在地から北側に位置した地域として名前が付けられました。"
+        }
+    ],
+    "word_Count": {
+        "text": 84,
+        "QA": 96
+    }
+}

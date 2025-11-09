@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_078937",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101933",
+        "collectedDate": "2023-10-06",
+        "publishedDate": "2023-10-06",
+        "domain": "문화/역사관광",
+        "title": "사천항"
+    },
+    "text": "沙川港\\n\n沙川津港(Sacheonjin Fishing Port)は江原特別自治道江陵市沙川面沙川津里に位置した漁港だ。 「沙川港」とも言う。 1971年12月21日、国家漁港に指定された。 管理庁は海洋水産部東海漁業管理団、施設管理者は江陵市長だ。",
+    "QA": [
+        {
+            "question": "漁港の名前は何ですか？",
+            "answer": "沙川津港(Sacheonjin Fishing Port)は漁港の名前です。"
+        },
+        {
+            "question": "指定された国家漁港の日付はいつですか？",
+            "answer": "沙川津港は1971年12月21日に国家漁港に指定されました。"
+        },
+        {
+            "question": "沙川津港の位置はどこですか？",
+            "answer": "沙川津港は江原特別自治道江陵市沙川面沙川津里に位置しています。"
+        },
+        {
+            "question": "沙川港の管理庁は誰ですか？",
+            "answer": "沙川港の管理庁は海洋水産部東海漁業管理団です。"
+        },
+        {
+            "question": "沙川港の施設管理者は誰ですか？",
+            "answer": "沙川港の施設管理者は江陵市長です。"
+        }
+    ],
+    "word_Count": {
+        "text": 93,
+        "QA": 154
+    }
+}

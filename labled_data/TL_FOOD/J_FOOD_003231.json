@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_003231",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "ウリムジョン ( 우림정 )"
+    },
+    "text": "ウリムジョン \n忠清北道 堤川市 義林大路 446\n観光地の近くに位置しており、健康と味の両方を兼ね備えたレストランです。おすすめはせいろご飯です。忠淸北道のジェチョン市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "このレストランはどこにありますか？",
+            "answer": "ウリムジョンは忠清北道堤川市義林大路446に位置しています。"
+        },
+        {
+            "question": "このレストランの特徴は何ですか？",
+            "answer": "ウリムジョンは観光地の近くに位置しており、健康と味の両方を兼ね備えたレストランです。"
+        },
+        {
+            "question": "ウリムジョンのおすすめメニューは何ですか？",
+            "answer": "ウリムジョンのおすすめはせいろご飯です。"
+        },
+        {
+            "question": "ウリムジョンはどの市に位置していますか？",
+            "answer": "ウリムジョンは忠淸北道のジェチョン市に位置しています。"
+        },
+        {
+            "question": "ウリムジョンはどのような料理を提供していますか？",
+            "answer": "ウリムジョンは韓食専門店で、様々な韓国料理を提供しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 71,
+        "QA": 181
+    }
+}

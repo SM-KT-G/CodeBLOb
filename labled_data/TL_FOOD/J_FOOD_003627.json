@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_003627",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "オクドム食堂 ( 옥돔식당 )"
+    },
+    "text": "オクドム食堂 (옥돔식당)\n済州特別自治道 西帰浦市 大静邑 神霊路36ボンキル 62\nクボガイでとったスープでカルグクスを作る店です。おすすめはクボガイカルグクスです。済州特別自治道のソグィポ市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "オクドム食堂はどこにありますか？",
+            "answer": "オクドム食堂は済州特別自治道の西帰浦市にあります。"
+        },
+        {
+            "question": "オクドム食堂のおすすめメニューは何ですか？",
+            "answer": "オクドム食堂のおすすめはクボガイカルグクスです。"
+        },
+        {
+            "question": "クボガイカルグクスはどのように作られますか？",
+            "answer": "クボガイカルグクスはクボガイのスープを使用して作られます。"
+        },
+        {
+            "question": "オクドム食堂は何を専門としていますか？",
+            "answer": "オクドム食堂は韓食を専門としています。"
+        },
+        {
+            "question": "オクドム食堂はどの市に位置していますか？",
+            "answer": "オクドム食堂はソグィポ市に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 81,
+        "QA": 158
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_030965",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42010&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "안성 레이크펜션"
+    },
+    "text": "文字数を増やすために、次のように文章を変更します。 汽車の道に沿って歩いていくと、素敵な汽車Cafeと香りのするお茶とロマンが待っています。 レイク(シュッシュッポッポ)ペンションの窓を開けると、涼しい湖の夜景も恍惚そのものです。 もしこんな所で一日でも泊まってみたいです。 楽しい時間をお過ごしください。 お知らせ - 22時以降に入室される場合、ペンションまで事前にご連絡ください。 \".",
+    "QA": [
+        {
+            "question": "汽車Cafeはどのような雰囲気ですか？",
+            "answer": "汽車Cafeは素敵な雰囲気で、ロマンチックな雰囲気が漂っています。お茶の香りも漂っています。"
+        },
+        {
+            "question": "レイク(シュッシュッポッポ)ペンションの窓から見える景色はどんな感じですか？",
+            "answer": "レイク(シュッシュッポッポ)ペンションの窓からは、涼しい湖の夜景が見えます。とても美しい景色です。"
+        },
+        {
+            "question": "ペンションで一日泊まることができますか？",
+            "answer": "はい、ペンションで一日でも泊まることができます。楽しい時間を過ごすことができますよ。"
+        },
+        {
+            "question": "22時以降に入室する場合は事前に連絡する必要がありますか？",
+            "answer": "はい、22時以降に入室する場合は事前にペンションに連絡する必要があります。ご協力をお願いします。"
+        }
+    ],
+    "word_Count": {
+        "text": 143,
+        "QA": 213
+    }
+}

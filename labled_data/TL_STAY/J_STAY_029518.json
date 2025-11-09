@@ -1,0 +1,31 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_029518",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.goodchoice.kr/product/detail?ano=3312&adcno=1&sel_date=2023-11-07&sel_date2=2023-11-08",
+        "collectedDate": "2023-11-15",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "유성 모텔 나인"
+    },
+    "text": "このホテルは計30台の駐車施設を保有しています。 当ホテルの客室にはTVが備えられており、ヘアドライヤー、Wi-Fi、冷蔵庫、携帯電話の充電器、電気ケトル、エアコンを設置しております。 それ以外には追加された情報はありません。",
+    "QA": [
+        {
+            "question": "このホテルには何台の駐車施設がありますか？",
+            "answer": "当ホテルは計30台の駐車施設を保有しています。"
+        },
+        {
+            "question": "客室にはどのような設備がありますか？",
+            "answer": "ホテルの客室にはTV、ヘアドライヤー、Wi-Fi、冷蔵庫、携帯電話の充電器、電気ケトル、エアコンが備えられています。"
+        }
+    ],
+    "word_Count": {
+        "text": 82,
+        "QA": 88
+    }
+}

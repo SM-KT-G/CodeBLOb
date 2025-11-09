@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_004620",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=315&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=16&ccbaAsno=04610000&ccbaCtcd=32&ccbaCpno=1363204610000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2005-07-19",
+        "domain": "자연관광",
+        "title": "강릉 산계리 굴참나무 군"
+    },
+    "text": "江陵山渓里アベマキ群 (강릉 산계리 굴참나무 군)\\n\n江原道江陵市玉渓面山渓里山425番地\\n\n約100~400年(受領) , チョニョンギニョンムル , アベマキは韓国中部以南でよく育つ落葉喬木で、身長が約25m、胸囲約3.5m程度に育つと知られている。 しかし、玉渓面アベマキは胸囲2m以上の個体約12株が位置している森で、群落の代表樹木1株は規格(樹高30.5m、根元囲5.53m、胸囲5.27m、樹冠幅東-西28m、南北28.9m)と樹形において生物学的種を代表する価値を持っており、周辺に存在する個体(群落内11株規格:胸囲2.0m~4.38m)もよく保存されている。 また、この森は江原道山村の東区に造成された森で、山村に伝承されている土着信仰的行為を受け入れてきた堂林で、伝統文化的意味と歴史性においても十分な価値がある森だ。",
+    "QA": [
+        {
+            "question": "このアベマキ群はどこにありますか？",
+            "answer": "江原道江陵市玉渓面山渓里山425番地に位置しています。"
+        },
+        {
+            "question": "アベマキはどのくらいの年月を生きていますか？",
+            "answer": "約100〜400年程度生きることが知られています。"
+        },
+        {
+            "question": "アベマキはどのくらいの大きさまで成長しますか？",
+            "answer": "身長が約25m、胸囲が約3.5m程度に育つことが知られています。"
+        },
+        {
+            "question": "この森には何本のアベマキがありますか？",
+            "answer": "この森には胸囲2m以上の個体約12株のアベマキが存在しています。"
+        },
+        {
+            "question": "この森の代表樹木はどのような特徴を持っていますか？",
+            "answer": "代表樹木は規格として、樹高30.5m、根元囲5.53m、胸囲5.27m、樹冠幅東-西28m、南北28.9mの特徴を持っています。"
+        },
+        {
+            "question": "この森はどのような歴史的価値を持っていますか？",
+            "answer": "この森は江原道山村の東区に造成された堂林で、伝統文化的意味と歴史性において十分な価値があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 272,
+        "QA": 261
+    }
+}

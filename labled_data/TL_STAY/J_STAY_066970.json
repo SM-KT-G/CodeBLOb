@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_066970",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42090&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "서귀포 그림그리는펜션"
+    },
+    "text": "絵を描くペンションは自然の中の超自然の世界を感じることができる場所です。 忙しく暮らしてきた都市生活を離れ、自然とともに休息できる静かで快適な空間を提供します。 城山日出峰の日の出と漢拏山の日没を眺めながら、新しい未来を設計できる経験を提供したいと思います。 ここでは自然がもたらす空間で静かにリラックスした時間でエネルギーをリフレッシュすることができます。 客室内では焼肉、焼き魚、天ぷらなど油がたくさん飛び散り臭い料理の調理は制限され、ゴミの排出に関する案内も提供されます。",
+    "QA": [
+        {
+            "question": "このペンション周辺にはどのような自然がありますか？",
+            "answer": "城山日出峰の日の出と漢拏山の日没を眺めながら、自然の中の超自然の世界を感じることができます。"
+        },
+        {
+            "question": "客室内でできる料理はどのように制限されていますか？",
+            "answer": "焼肉、焼き魚、天ぷらなど油がたくさん飛び散り臭い料理の調理は制限されています。"
+        },
+        {
+            "question": "ゴミの排出に関する案内はありますか？",
+            "answer": "客室内ではゴミの排出に関する案内が提供されます。"
+        }
+    ],
+    "word_Count": {
+        "text": 175,
+        "QA": 129
+    }
+}

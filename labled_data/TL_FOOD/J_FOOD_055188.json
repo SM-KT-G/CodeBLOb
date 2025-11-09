@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_055188",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "グムドンファロスッブルグイ（금동화로숯불구이）"
+    },
+    "text": "グムドンファロスッブルグイ（금동화로숯불구이）\\n\nソウル特別市 中区 退渓路41キル 35\\n\nソウル特別市チュンムロ駅の近くに位置した韓食専門店です。代表的なメニューはカルビコチュジャン炒めです。韓国式BBQ専門店です。",
+    "QA": [
+        {
+            "question": "このレストランの名前は何ですか？",
+            "answer": "グムドンファロスッブルグイ（금동화로숯불구이）です。"
+        },
+        {
+            "question": "このレストランはどこにありますか？",
+            "answer": "ソウル特別市 中区 退渓路41キル 35に位置しています。"
+        },
+        {
+            "question": "このレストランの代表的なメニューは何ですか？",
+            "answer": "カルビコチュジャン炒めが代表的なメニューです。"
+        },
+        {
+            "question": "このレストランは何の専門店ですか？",
+            "answer": "韓国式BBQ専門店です。"
+        }
+    ],
+    "word_Count": {
+        "text": 82,
+        "QA": 118
+    }
+}

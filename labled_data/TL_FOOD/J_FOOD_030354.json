@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_030354",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/ploi-jongro",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "PLOI"
+    },
+    "text": "PLOI\\n\nソウル特別市 鍾路区 弼雲洞 90-1\\n\nモダンクラシックをコンセプトにEuropean ContemporaryCuisine、café、Gardening、Flower Classを楽しむことができる空間。カフェとして寄ってもいいし、食べ物メニューも優れたレストラン。ワインも品質がよく、一緒に楽しむといいです。",
+    "QA": [
+        {
+            "question": "このレストランの場所はどこですか？",
+            "answer": "ソウル特別市 鍾路区 弼雲洞 90-1にあります。"
+        },
+        {
+            "question": "このレストランのコンセプトは何ですか？",
+            "answer": "モダンクラシックをコンセプトにしています。"
+        },
+        {
+            "question": "このレストランでは何を楽しむことができますか？",
+            "answer": "European Contemporary Cuisine、カフェ、ガーデニング、フラワークラスを楽しむことができます。"
+        },
+        {
+            "question": "このレストランの食べ物メニューはどうですか？",
+            "answer": "食べ物メニューも優れており、レストランとしても利用できます。"
+        },
+        {
+            "question": "このレストランのワインはどうですか？",
+            "answer": "ワインも品質がよく、一緒に楽しむことができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 121,
+        "QA": 189
+    }
+}

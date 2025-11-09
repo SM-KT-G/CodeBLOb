@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_020899",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/munmak",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "文幕（下）サービスエリア 韓食堂"
+    },
+    "text": "文幕（下）サービスエリア 韓食堂\\n\n江原道 原州市 文幕邑 ウォンムンロ 1234\\n\n江原道に向かう嶺東高速道路の最初の関門に位置した文幕サービスエリアは、清潔できれいな韓食をご提供しています。",
+    "QA": [
+        {
+            "question": "このサービスエリアはどこにありますか？",
+            "answer": "江原道の嶺東高速道路の最初の関門に位置しています。"
+        },
+        {
+            "question": "このサービスエリアでは何を提供していますか？",
+            "answer": "清潔できれいな韓食を提供しています。"
+        },
+        {
+            "question": "このサービスエリアはどのような雰囲気ですか？",
+            "answer": "清潔できれいな雰囲気です。"
+        },
+        {
+            "question": "このサービスエリアの住所は何ですか？",
+            "answer": "江原道原州市文幕邑のウォンムンロ 1234です。"
+        }
+    ],
+    "word_Count": {
+        "text": 72,
+        "QA": 118
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_038505",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=859&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=01340000&ccbaCtcd=37&ccbaCpno=2333701340000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1999-12-30",
+        "domain": "문화/역사관광",
+        "title": "용산산성"
+    },
+    "text": "龍山山城 (용산산성)\\n\n慶尚北道慶山市龍城面龍山里山15番地以外\\n\n慶尚北道記念物、慶尚北道慶山市龍城面海抜435m龍山の頂上下を巡る形の山城で、傾斜が緩やかな東·南には石を積み、傾斜が急な西·北には石と土を利用して積み上げた。 今残っている城の総周囲は1、481kmであり、城壁の高さは約1.5~2.5mだ。 東の城壁は内外2重城壁の形をとり、城内には雑石と土を固めて埋め尽くし、回郭道路を作って通行した。 傾斜が非常に急な西門跡と南門跡の間の区間には階段を作って城壁が崩れることに備え、北側区間と東·南側区間には城の内外に城壁を築いた。 4大門跡の周囲には門楼などの建物が、東南側の角には竿または望楼があったと推定される。 『三国史記』にキム·インムンが唐から帰ってきて君主に任命され、萇山城の築造を監督したと記録している。 ここでの「萇山城」が今の龍山山城と把握されているので、この城を作った年代が三国時代であることが分かる。",
+    "QA": [
+        {
+            "question": "龍山山城はどこに位置していますか？",
+            "answer": "龍山山城は慶尚北道慶山市龍城面に位置しています。"
+        },
+        {
+            "question": "龍山山城の築造年代は何ですか？",
+            "answer": "龍山山城の築造年代は三国時代です。"
+        },
+        {
+            "question": "龍山山城の城壁の高さはどれくらいですか？",
+            "answer": "龍山山城の城壁の高さは約1.5~2.5mです。"
+        },
+        {
+            "question": "龍山山城の周囲の距離は何キロメートルですか？",
+            "answer": "龍山山城の周囲の距離は1,481kmです。"
+        },
+        {
+            "question": "龍山山城には何の建物がありましたか？",
+            "answer": "龍山山城には門楼などの建物がありました。"
+        },
+        {
+            "question": "誰が龍山山城の築造を監督したと記録されていますか？",
+            "answer": "『三国史記』によれば、キム・インムンが龍山山城の築造を監督したと記録されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 307,
+        "QA": 192
+    }
+}

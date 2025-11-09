@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_055103",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.goodchoice.kr/product/detail?ano=57675&adcno=1&sel_date=2023-11-06&sel_date2=2023-11-07",
+        "collectedDate": "2023-11-15",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "성남 목화파크"
+    },
+    "text": "ワイファイが使用可能な宿です。 夜0時以降に駐車可能ですが、駐車場は未保有です。 そのため徒歩でご利用ください。 宿は8号線新興駅とスジン駅周辺に位置しております。 新興駅は徒歩3分の距離にあり、札幌は徒歩2分の距離にあります。",
+    "QA": [
+        {
+            "question": "宿の場所はどこですか？",
+            "answer": "宿は8号線新興駅とスジン駅周辺に位置しています。"
+        },
+        {
+            "question": "宿の近くに駐車場はありますか？",
+            "answer": "駐車場は未保有ですが、夜0時以降に駐車可能です。"
+        },
+        {
+            "question": "宿泊料金にワイファイの使用料は含まれていますか？",
+            "answer": "はい、ワイファイの使用料は宿泊料金に含まれています。"
+        },
+        {
+            "question": "新興駅までの距離はどれくらいですか？",
+            "answer": "新興駅は徒歩3分の距離にあります。"
+        },
+        {
+            "question": "札幌までの距離はどれくらいですか？",
+            "answer": "札幌は徒歩2分の距離にあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 83,
+        "QA": 140
+    }
+}

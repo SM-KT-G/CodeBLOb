@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_014999",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/yeontabal",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "ヨンタバル"
+    },
+    "text": "ヨンタバル\\n\nソウル市ソチョグソチョデロ77ギル3 )\\n\nホルモンの専門店。炭火焼きのホルモンを味わうことができる。その他、牛肉の焼き肉も楽しめる。店内は小奇麗な雰囲気だ。",
+    "QA": [
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "ヨンタバルはソウル市ソチョグソチョデロ77ギル3にあります。"
+        },
+        {
+            "question": "この店では何を楽しむことができますか？",
+            "answer": "この店では炭火焼きのホルモンと牛肉の焼き肉を楽しむことができます。"
+        },
+        {
+            "question": "店内の雰囲気はどのようですか？",
+            "answer": "店内は小奇麗な雰囲気です。"
+        }
+    ],
+    "word_Count": {
+        "text": 64,
+        "QA": 90
+    }
+}

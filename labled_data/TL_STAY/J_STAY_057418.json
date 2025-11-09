@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_057418",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.goodchoice.kr/product/detail?ano=5387&adcno=1&sel_date=2023-11-07&sel_date2=2023-11-08",
+        "collectedDate": "2023-11-15",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "유성 로드"
+    },
+    "text": "駐車場情報:計20台の駐車施設を保有。 一部屋あたり2台以上駐車禁止。 地下鉄情報: ホソン亀岩駅、 儒城温泉駅。 客室内部施設:Royal suite、Suite客室、大型浴槽を設置。 フロントおよびその他の施設:内部駐車場、大型外部駐車場を保有。",
+    "QA": [
+        {
+            "question": "駐車場は何台ありますか？",
+            "answer": "駐車場は計20台あります。"
+        },
+        {
+            "question": "一部屋あたり何台以上の駐車は禁止ですか？",
+            "answer": "一部屋あたり2台以上の駐車は禁止です。"
+        },
+        {
+            "question": "最寄りの地下鉄駅はどこですか？",
+            "answer": "最寄りの地下鉄駅はホソン亀岩駅と儒城温泉駅です。"
+        },
+        {
+            "question": "客室内部にはどのような施設がありますか？",
+            "answer": "客室内部にはRoyal suite、Suite客室、大型浴槽が設置されています。"
+        },
+        {
+            "question": "フロントとその他の施設はありますか？",
+            "answer": "はい、当施設には内部駐車場と大型外部駐車場があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 91,
+        "QA": 152
+    }
+}

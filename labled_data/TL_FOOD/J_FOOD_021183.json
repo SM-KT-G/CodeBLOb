@@ -1,0 +1,55 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_021183",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-03",
+        "domain": "음식점",
+        "title": "百済参鶏湯 ( 백제삼계탕 )"
+    },
+    "text": "百済参鶏湯 ( 백제삼계탕 )\\n\n江原道 ガンヌン市 トソンロ164ボンギル11\\n\n48年間続いてきた正統派な方法で料理するサムゲタンが味わえる店です。代表的なメニューはサムゲタンです。江原道のガンヌン市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "このお店の名前は何ですか？",
+            "answer": "百済参鶏湯 ( 백제삼계탕 )"
+        },
+        {
+            "question": "このお店はどこにありますか？",
+            "answer": "江原道 ガンヌン市 トソンロ164ボンギル11"
+        },
+        {
+            "question": "このお店の代表的なメニューは何ですか？",
+            "answer": "サムゲタン"
+        },
+        {
+            "question": "このお店は何年間も続いていると言っていますが、具体的に何年間ですか？",
+            "answer": "48年間"
+        },
+        {
+            "question": "このお店ではどのような方法でサムゲタンを料理していますか？",
+            "answer": "正統派な方法で料理しています"
+        },
+        {
+            "question": "このお店はどの都市に位置していますか？",
+            "answer": "ガンヌン市"
+        },
+        {
+            "question": "このお店は何を専門としていますか？",
+            "answer": "韓食"
+        },
+        {
+            "question": "このお店の特徴的な料理は何ですか？",
+            "answer": "サムゲタン"
+        }
+    ],
+    "word_Count": {
+        "text": 85,
+        "QA": 172
+    }
+}

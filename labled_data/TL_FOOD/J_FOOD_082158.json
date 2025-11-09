@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_082158",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "焼き魚の盛り合わせ ( 모둠생선구이(고덕한우곱창) )"
+    },
+    "text": "焼き魚の盛り合わせ ( 모둠생선구이(고덕한우곱창) )\n京畿道 ピョンテク市 ゴドクヨヨム12ギル147\n様々なチゲや焼き魚を提供する店です。代表的なメニューは牛のともばら肉入りテンジャンチゲです。京畿道のピョンテク市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "この店はどのような料理を提供していますか？",
+            "answer": "当店では、様々なチゲや焼き魚を提供しています。特に人気なのは牛のともばら肉入りテンジャンチゲです。"
+        },
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "当店は京畿道のピョンテク市に位置しています。具体的な住所はゴドクヨヨム12ギル147です。"
+        },
+        {
+            "question": "この店の代表的なメニューは何ですか？",
+            "answer": "当店の代表的なメニューは牛のともばら肉入りテンジャンチゲです。ぜひお試しください。"
+        }
+    ],
+    "word_Count": {
+        "text": 90,
+        "QA": 137
+    }
+}

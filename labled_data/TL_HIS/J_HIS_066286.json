@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_066286",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/view?relicId=36557228",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "바리모양그릇받침"
+    },
+    "text": "鉢形器臺 (바리모양그릇받침)\\n\n国籍/時代:「韓国 - 三国」 材質:「土 - 硬質」 作家:「不詳」 分類:「食生活 - 食べ物 - 大」 大きさ:「高さ37.2cm、着丈47.2cm、底径40.9cm、最大径48.1cm」 修正例： この作品の国籍/時代は「韓国 - 三国」とされています。材質は「土 - 硬質」となっており、作家は不明です。分類は「食生活 - 食べ物 - 大」とされています。",
+    "QA": [
+        {
+            "question": "この作品の国籍/時代は何ですか？",
+            "answer": "この作品の国籍/時代は韓国 - 三国とされています。"
+        },
+        {
+            "question": "この作品の材質は何ですか？",
+            "answer": "この作品の材質は土 - 硬質です。"
+        },
+        {
+            "question": "この作品の作家は誰ですか？",
+            "answer": "この作品の作家は不明です。"
+        },
+        {
+            "question": "この作品の分類は何ですか？",
+            "answer": "この作品の分類は食生活 - 食べ物 - 大とされています。"
+        },
+        {
+            "question": "この作品の大きさはどうですか？",
+            "answer": "この作品の大きさは高さ37.2cm、着丈47.2cm、底径40.9cm、最大径48.1cmです。"
+        }
+    ],
+    "word_Count": {
+        "text": 147,
+        "QA": 148
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_086444",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1220&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=79&ccbaAsno=03620000&ccbaCtcd=36&ccbaCpno=4413603620000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2007-11-22",
+        "domain": "문화/역사관광",
+        "title": "신안 비금도 대동염전"
+    },
+    "text": "1948年頃に設立されたビクム道の塩田の天日塩田は、国家登録文化財に指定されており、この塩田は、住民たちが塩田組合を結成して造成したのだ。京畿・仁川(インチョン)地域の塩田を除いては国内最大規模だった。塩田は、広い地帯に貯水池、ジュンバルジ、ギョルチョンジ、海州(ヘジュ)を備えており、彼らが調和を成して天日塩前の形態を帯びている。ビクム道にある天日塩田は塩田技術者を養成するために、'天日塩田技術者養成所'を設置したが、ここで養成された技術者たちは周辺の島嶼地域だけでなく、莞島、海南(ヘナム)、務安、栄光、高昌、扶安(ブアン)、群山などでも天日塩田造成工事に参加して光復後、韓国の塩田の発展史で重要な役割を果たした。",
+    "QA": [
+        {
+            "question": "ビクム道の塩田はいつ設立されましたか？",
+            "answer": "ビクム道の塩田は1948年頃に設立されました。"
+        },
+        {
+            "question": "塩田組合を結成したのは誰ですか？",
+            "answer": "塩田組合は住民たちが結成しました。"
+        },
+        {
+            "question": "塩田技術者養成所はどこに設置されましたか？",
+            "answer": "塩田技術者養成所はビクム道に設置されました。"
+        },
+        {
+            "question": "どのような地域で技術者たちが天日塩田造成工事に参加しましたか？",
+            "answer": "技術者たちは周辺の島嶼地域だけでなく、莞島、海南、務安、栄光、高昌、扶安、群山などでも参加しました。"
+        },
+        {
+            "question": "天日塩田はどのような形態を帯びていますか？",
+            "answer": "天日塩田は広い地帯に貯水池、ジュンバルジ、ギョルチョンジ、海州を備え、調和を成して塩田前の形態を帯びています。"
+        }
+    ],
+    "word_Count": {
+        "text": 227,
+        "QA": 201
+    }
+}

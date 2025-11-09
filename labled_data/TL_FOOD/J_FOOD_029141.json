@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_029141",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/hamgyeong-do-wangsundae-jongro-branch",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "咸鏡道ワンスンデ"
+    },
+    "text": "咸鏡道ワンスンデ\\n\nソウル特別市 鍾路区 水標路20キル 7 )\\n\n年中無休で24時間営業のスンデクク専門店です。添加物を使用せず、豚の頭と足の骨で煮出したスープが自慢です。",
+    "QA": [
+        {
+            "question": "スンデクク専門店の営業時間は何時ですか？",
+            "answer": "当店は年中無休で24時間営業しております。"
+        },
+        {
+            "question": "スンデクク専門店の場所はどこですか？",
+            "answer": "当店はソウル特別市鍾路区水標路20キル7にございます。"
+        },
+        {
+            "question": "スンデククのスープはどのように作られていますか？",
+            "answer": "当店のスンデククは、豚の頭と足の骨を使用して添加物を一切使用せずに煮出したスープです。"
+        }
+    ],
+    "word_Count": {
+        "text": 65,
+        "QA": 112
+    }
+}

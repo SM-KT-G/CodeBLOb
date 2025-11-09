@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_044520",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=859&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=01340000&ccbaCtcd=34&ccbaCpno=2333401340000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1997-12-23",
+        "domain": "문화/역사관광",
+        "title": "결성향교"
+    },
+    "text": "結城郷校\\n\n忠清南道洪城郡結城面弘南西路707番キル21-8(邑内里)\\n\n忠清南道記念物、郷校は孔子など聖賢たちに祭祀を行い、地方民の教育と教化のために国で建てた教育機関だ。 結城郷校のいつ建てられたのか正確には分からないが、高麗顕宗1年(1010)に建てられたと伝える。 朝鮮仁祖1年(1623)と顕宗15年(1674)、純祖8年(1808)に修理し、1923年に大きく補修して今の姿を整えた。 建物配置は外三門なしにすぐ教育空間である明倫堂があり、その後に祭祀空間である大成殿がある転校後墓の形式に従っている。 大成殿は前面3間·側面3間規模で、屋根は側面から見ると人の字型の切妻屋根だ。 内側には孔子をはじめ、中国と韓国の聖賢の位牌が祀られている。 朝鮮時代には国から土地と奴婢·本などを支援され学生たちを教えたが、今は教育機能はなくなり祭祀機能だけが残っている。",
+    "QA": [
+        {
+            "question": "結城郷校は何のために建てられたのですか？",
+            "answer": "結城郷校は地方民の教育と教化のために国で建てられた教育機関です。"
+        },
+        {
+            "question": "結城郷校はいつ建てられましたか？",
+            "answer": "正確な年代は分かりませんが、高麗顕宗1年（1010年）に建てられたと伝えられています。"
+        },
+        {
+            "question": "結城郷校の修理や補修は何度行われましたか？",
+            "answer": "朝鮮仁祖1年（1623年）と顕宗15年（1674年）、純祖8年（1808年）に修理が行われ、1923年に大規模な補修が行われました。"
+        },
+        {
+            "question": "結城郷校の建物配置はどのようになっていますか？",
+            "answer": "結城郷校の建物配置は外三門がなく、明倫堂と大成殿の順に配置されています。"
+        },
+        {
+            "question": "大成殿には何が祀られていますか？",
+            "answer": "大成殿には孔子をはじめ、中国と韓国の聖賢の位牌が祀られています。"
+        },
+        {
+            "question": "結城郷校は現在どのような機能がありますか？",
+            "answer": "結城郷校は教育機能はなくなり、現在は祭祀機能だけが残っています。"
+        }
+    ],
+    "word_Count": {
+        "text": 283,
+        "QA": 262
+    }
+}

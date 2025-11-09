@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_025330",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-16",
+        "domain": "음식점",
+        "title": "肉と素麺の話 明村( 고기와국수이야기 명촌 )"
+    },
+    "text": "肉と素麺の話 明村(\n蔚山広域市 北区 明村23キル 38\nランチだけでなく、飲み会にも最適なレストランです。 蔚山広域市のブク区に位置した韓食専門店です。代表的なメニューは炭火焼きです。",
+    "QA": [
+        {
+            "question": "明村はどこに位置していますか？",
+            "answer": "明村は蔚山広域市のブク区に位置しています。"
+        },
+        {
+            "question": "明村の特徴的なメニューは何ですか？",
+            "answer": "明村の代表的なメニューは炭火焼きです。"
+        },
+        {
+            "question": "明村は飲み会にも利用できますか？",
+            "answer": "はい、明村は飲み会にも最適です。"
+        },
+        {
+            "question": "明村はランチだけでなく、他の食事にも対応していますか？",
+            "answer": "はい、明村はランチだけでなく、他の食事にも対応しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 68,
+        "QA": 117
+    }
+}

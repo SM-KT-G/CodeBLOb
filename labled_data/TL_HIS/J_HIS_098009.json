@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_098009",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/collectionList#######",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2023-10-11",
+        "domain": "문화/역사관광",
+        "title": "자돌구"
+    },
+    "text": "磁突球 (자돌구)\\n\n貝類を採集するのに使われるのが雨窓と呼ばれる道具です。主に水深2〜15mの範囲で生息する夜行性の貝類を採取するために使われます。この雨窓は、釜山東三洞遺跡から出土したもので、長さは約12〜13cmで骨で作られています。参考資料によると、現在の雨窓の大きさは長さ41cm、幅11cm、厚さ0.4cmです。",
+    "QA": [
+        {
+            "question": "雨窓は何に使われるのですか？",
+            "answer": "雨窓は貝類を採集するのに使われます。"
+        },
+        {
+            "question": "雨窓は主にどんな生物を採取するために使われるのですか？",
+            "answer": "雨窓は水深2〜15mの範囲で生息する夜行性の貝類を採取するために使われます。"
+        },
+        {
+            "question": "雨窓はどんな材料で作られていますか？",
+            "answer": "雨窓は骨で作られています。"
+        },
+        {
+            "question": "雨窓の大きさはどのくらいですか？",
+            "answer": "現在の雨窓の大きさは長さ41cm、幅11cm、厚さ0.4cmです。"
+        }
+    ],
+    "word_Count": {
+        "text": 119,
+        "QA": 129
+    }
+}

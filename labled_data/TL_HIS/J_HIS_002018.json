@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_002018",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1128&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=03530000&ccbaCtcd=34&ccbaCpno=3413403530000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1996-11-30",
+        "domain": "문화/역사관광",
+        "title": "김한종의사생가지"
+    },
+    "text": "キム·ハンジョン医師の生家 (김한종의사생가지)\\n\n忠清南道礼山郡広時面新興里70番地\\n\n忠清南道文化財資料 , 独立運動家のイルウ·キム·ハンジョン医師が生まれた家だ。 キム·ハンジョン(1883~1921)医師は義兵長ミン·ジョンシクの下で義兵を募集する役割をしたキム·ジェジョンの長男だ。 1915年パク·サンジンなどと共に大邱で武装独立秘密結社である光復会を組織し、忠清道支部長に任命され総司令パク·サンジンと共に各地の金持ちから国権回復運動の資金を集めるなど独立運動に大きく活躍した。 1918年光復会組織が発覚し、同年1月28日に日本警察に捕まり、1921年8月11日にパク·サンジンと共に処刑され殉国した。",
+    "QA": [
+        {
+            "question": "キム・ハンジョン医師の生家はどこにありますか？",
+            "answer": "キム・ハンジョン医師の生家は忠清南道礼山郡広時面新興里70番地にあります。"
+        },
+        {
+            "question": "キム・ハンジョン医師はどのような役割を果たしましたか？",
+            "answer": "キム・ハンジョン医師は義兵長ミン・ジョンシクの下で義兵を募集する役割を果たしました。"
+        },
+        {
+            "question": "キム・ハンジョン医師はどのような組織を組織しましたか？",
+            "answer": "キム・ハンジョン医師は1915年に大邱で光復会という武装独立秘密結社を組織しました。"
+        },
+        {
+            "question": "キム・ハンジョン医師はどのような活動をしましたか？",
+            "answer": "キム・ハンジョン医師は忠清道支部長に任命され、各地の金持ちから国権回復運動の資金を集めるなど、独立運動に活躍しました。"
+        },
+        {
+            "question": "キム・ハンジョン医師はいつ処刑されましたか？",
+            "answer": "キム・ハンジョン医師は1921年8月11日に処刑されました。"
+        }
+    ],
+    "word_Count": {
+        "text": 228,
+        "QA": 244
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_020254",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1098&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=02340000&ccbaCtcd=38&ccbaCpno=3413802340000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1997-02-13",
+        "domain": "문화/역사관광",
+        "title": "사천 경백사"
+    },
+    "text": "四川景白寺 (사천 경백사)\\n\n慶尚南道泗川市龍峴面温井2ギル42、518(温井里)\\n\n朝鮮時代 , 慶尚南道文化財資料 , 慶白寺は1926年、シンサン·シンハン·シンゴンなど3人が協力して建てた祠堂だ。 高麗の開国功臣であるシン·スンギョムとその子孫であり高麗後期の学者であるシン·ヒョン、性理学者であるイ·セク、そして官職を貪らず学問に専念したソンビのウォン·ウォンソクに祭祀を行うところだ。 祠堂の中にはシン·スンギョムの遺影を祀っており、毎年3月に平山シン氏の門中と地方の儒学者たちが祭祀を行う。",
+    "QA": [
+        {
+            "question": "景白寺の建設について教えてください。",
+            "answer": "景白寺は1926年に建てられました。シンサン、シンハン、シンゴンの3人が協力して建てられた祠堂です。"
+        },
+        {
+            "question": "景白寺で祭祀されている人々は誰ですか？",
+            "answer": "景白寺ではシン・スンギョムとその子孫であるシン・ヒョン、イ・セク、ウォン・ウォンソクの祭祀が行われています。"
+        },
+        {
+            "question": "景白寺の祠堂の中には何が祀られていますか？",
+            "answer": "景白寺の祠堂の中にはシン・スンギョムの遺影が祀られています。"
+        },
+        {
+            "question": "景白寺で行われる祭祀はいつ行われますか？",
+            "answer": "景白寺では毎年3月に平山シン氏の門中と地方の儒学者たちが祭祀を行います。"
+        }
+    ],
+    "word_Count": {
+        "text": 187,
+        "QA": 181
+    }
+}

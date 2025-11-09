@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_010834",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-08-27",
+        "domain": "음식점",
+        "title": "ドルゴレ刺身専門店 ( 돌고래횟집 )"
+    },
+    "text": "ドルゴレ刺身専門店 ( 돌고래횟집 )\\n\nソウル特別市 鐘路区 ユルゴクロ8ギル101\\n\n団体の飲み会やお集まりにぴったりの店です。ソウル特別市のジョンノ区に位置した韓食専門店です。おすすめは活魚の刺身です。",
+    "QA": [
+        {
+            "question": "このレストランの場所はどこですか？",
+            "answer": "ソウル特別市 鐘路区 ユルゴクロ8ギル101に位置しています。"
+        },
+        {
+            "question": "このレストランは何を専門としていますか？",
+            "answer": "このレストランはドルゴレ（韓国語でイルカ）の刺身専門店です。"
+        },
+        {
+            "question": "どのようなおすすめ料理がありますか？",
+            "answer": "おすすめは活魚の刺身です。新鮮な魚を使い、おいしい刺身を提供しています。"
+        },
+        {
+            "question": "このレストランは団体の飲み会に適していますか？",
+            "answer": "はい、このレストランは団体の飲み会やお集まりにぴったりの店です。広い席や個室もあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 77,
+        "QA": 160
+    }
+}

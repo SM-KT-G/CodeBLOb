@@ -1,0 +1,31 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_027752",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-05",
+        "domain": "음식점",
+        "title": "淸淨ゲンマウル ( 청정갯마을 )"
+    },
+    "text": "淸淨ゲンマウル ( 청정갯마을 )\\n\n江原道 ガンヌン市 ガンヌンデロ210ボンギル22\\n\n韓国人が好きな煮物料理を味わえる店です。江原道のガンヌン市に位置した韓食専門店です。代表的なメニューは半干しスケトウダラの蒸し物です。",
+    "QA": [
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "この店は韓国の江原道ガンヌン市に位置しています。具体的な住所はガンヌンデロ210ボンギル22です。"
+        },
+        {
+            "question": "この店ではどのような料理を味わうことができますか？",
+            "answer": "この店では韓国人が好きな煮物料理を味わうことができます。特におすすめは半干しスケトウダラの蒸し物です。"
+        }
+    ],
+    "word_Count": {
+        "text": 84,
+        "QA": 101
+    }
+}

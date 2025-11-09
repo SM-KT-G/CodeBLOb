@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_003614",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101933",
+        "collectedDate": "2023-10-06",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "소마미술관"
+    },
+    "text": "ソマ美術館\\n\nソマ美術館はソウル特別市松坡区芳夷洞に位置する美術館である。 ソウルオリンピック公園内に位置する。 1988年オリンピック公園が開園する時に造成された野外彫刻公園を皮切りに1998年に美術館に登録し、2004年にソウルオリンピック美術館という名前で開館した。 美術館建築および造園設計は建築家チョ·ソンリョンと西安造園が担当した。 2006年にソウルオリンピック美術館（Seoul Olympic Museum of Art）の英文イニシャルを活用して、相馬美術館（SOMA）という名前に改名した。\n",
+    "QA": [
+        {
+            "question": "この美術館はどこに位置していますか？",
+            "answer": "ソマ美術館はソウル特別市松坡区芳夷洞に位置しています。"
+        },
+        {
+            "question": "この美術館はいつ開館しましたか？",
+            "answer": "ソマ美術館は2004年に開館しました。"
+        },
+        {
+            "question": "美術館建築および造園設計は誰が担当しましたか？",
+            "answer": "美術館建築および造園設計は建築家チョ·ソンリョンと西安造園が担当しました。"
+        },
+        {
+            "question": "美術館の英文名は何ですか？",
+            "answer": "美術館の英文名はSeoul Olympic Museum of Artです。"
+        },
+        {
+            "question": "美術館の改名はいつ行われましたか？",
+            "answer": "美術館の改名は2006年に行われました。"
+        }
+    ],
+    "word_Count": {
+        "text": 189,
+        "QA": 167
+    }
+}

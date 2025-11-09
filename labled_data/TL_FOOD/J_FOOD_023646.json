@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_023646",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-05",
+        "domain": "음식점",
+        "title": "順天麦ご飯ビュッフェ ( 순천보리밥뷔페 )"
+    },
+    "text": "順天麦ご飯ビュッフェ ( 순천보리밥뷔페 )\\n\n全羅南道 順天市 チュンアンロ305\\n\n各種ヘルシーなナムルと野菜を味わうことができます。全羅南道のスンチョン市に位置した韓食専門店です。代表的なメニューは麦ご飯です。",
+    "QA": [
+        {
+            "question": "順天麦ご飯ビュッフェはどこにありますか？",
+            "answer": "順天麦ご飯ビュッフェは全羅南道の順天市に位置しています。"
+        },
+        {
+            "question": "順天麦ご飯ビュッフェの特徴は何ですか？",
+            "answer": "順天麦ご飯ビュッフェは各種ヘルシーなナムルと野菜を味わうことができる韓食専門店です。特に代表的なメニューは麦ご飯です。"
+        },
+        {
+            "question": "順天麦ご飯ビュッフェの住所を教えてください。",
+            "answer": "順天麦ご飯ビュッフェの住所は全羅南道順天市チュンアンロ305です。"
+        },
+        {
+            "question": "順天麦ご飯ビュッフェで提供されるメニューは何ですか？",
+            "answer": "順天麦ご飯ビュッフェでは様々な麦ご飯やナムル、野菜料理などが提供されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 80,
+        "QA": 180
+    }
+}

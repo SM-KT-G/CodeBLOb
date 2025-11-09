@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_012707",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=927&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=24&ccbaAsno=00300000&ccbaCtcd=37&ccbaCpno=2443700300000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1982-02-24",
+        "domain": "자연관광",
+        "title": "안동 관왕묘"
+    },
+    "text": "安東観王墓 (안동 관왕묘)\\n\n慶尚北道安東市西岳キル67-6(太和洞)\\n\n朝鮮時代 , 慶尚北道民俗文化財 , 観王廟は中国三国志に出てくる有名な長寿観宇雲荘の祭祀を行う場所だ。 この祠堂は朝鮮宣祖31年(1598)当時、安東に駐屯していたシュフチェンが建てたものだ。 今ある場所に移した時期は宣祖39年(1606)という説と仁祖14年(1636)という2つの説があるが、どれが正しいかは分からない。 ただ、安東郷校と向かい合っていることを嫌って関王墓を移すことになったという。 現在の建物は1904年に解体·復元したもので、冠王墓の中で唯一の石像が祀られているところでもある。 光甘楼を過ぎて左右に東斎·西斎があり、もう少し上がれば妙友三門がある。 門に「務安王墓」と書かれた扁額がかかっているが、この門を入ると祠堂である務安王墓が位置している。 祠堂の中には当初、観王墓が造成された当時に作られたと見られる務安王妃があり、観雲荘と彼を補佐する4人の将軍像がある。",
+    "QA": [
+        {
+            "question": "安東観王墓はどこに位置していますか？",
+            "answer": "安東観王墓は慶尚北道安東市西岳キル67-6（太和洞）に位置しています。"
+        },
+        {
+            "question": "安東観王墓はいつ建てられましたか？",
+            "answer": "安東観王墓は朝鮮宣祖31年(1598)当時、安東に駐屯していたシュフチェンが建てたものです。"
+        },
+        {
+            "question": "安東観王墓はどのような場所ですか？",
+            "answer": "安東観王墓は中国三国志に出てくる有名な長寿観宇雲荘の祭祀を行う場所です。"
+        },
+        {
+            "question": "安東観王墓にはどのような建物がありますか？",
+            "answer": "現在の安東観王墓には祠堂、東斎、西斎、妙友三門などの建物があります。"
+        },
+        {
+            "question": "安東観王墓には何が祀られていますか？",
+            "answer": "安東観王墓には務安王妃や観雲荘、彼を補佐する4人の将軍像などが祀られています。"
+        }
+    ],
+    "word_Count": {
+        "text": 319,
+        "QA": 206
+    }
+}

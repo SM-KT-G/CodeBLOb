@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_015886",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "甲山面屋（갑산면옥）"
+    },
+    "text": "甲山面屋（갑산면옥）\\n\n京畿道 河南市 月湖路 62\\n\n京畿道のハナム市に位置した韓食です。代表的なメニューは冷麺です。ピリ辛冷麺をご用意しております。",
+    "QA": [
+        {
+            "question": "甲山面屋（갑산면옥）はどこにありますか？",
+            "answer": "甲山面屋（갑산면옥）は京畿道河南市月湖路62に位置しています。"
+        },
+        {
+            "question": "甲山面屋（갑산면옥）の代表的なメニューは何ですか？",
+            "answer": "甲山面屋（갑산면옥）の代表的なメニューは冷麺です。"
+        },
+        {
+            "question": "甲山面屋（갑산면옥）ではどのような冷麺が提供されていますか？",
+            "answer": "甲山面屋（갑산면옥）ではピリ辛冷麺をご用意しております。"
+        }
+    ],
+    "word_Count": {
+        "text": 57,
+        "QA": 116
+    }
+}

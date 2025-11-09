@@ -1,0 +1,31 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_021589",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/goods/GN0002021087?startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0%5E&npprmaxsort=min",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "남해 솜사탕펜션"
+    },
+    "text": "目の前に広がる海、誰にも邪魔されない時間。 手を伸ばせば届きそうな海。 パノラマで広がる私だけの風景。 綿菓子ペンションにいらっしゃれば海を持つことができます。 お知らせ22時以降ペンションに到着する場合、予めご連絡ください。 オンシーズンチェックイン:15:00。",
+    "QA": [
+        {
+            "question": "このペンションはどのくらいの距離に海からありますか？",
+            "answer": "綿菓子ペンションは海からほど近い場所に位置しています。目の前に広がる海を楽しむことができます。"
+        },
+        {
+            "question": "チェックインの時間は何時ですか？",
+            "answer": "オンシーズンのチェックインは15:00です。ただし、22時以降に到着する場合は事前にご連絡ください。"
+        }
+    ],
+    "word_Count": {
+        "text": 97,
+        "QA": 101
+    }
+}

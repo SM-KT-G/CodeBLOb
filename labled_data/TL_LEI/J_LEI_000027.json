@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_LEI_000027",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101933",
+        "collectedDate": "2023-09-21",
+        "publishedDate": "2023-01-16",
+        "domain": "레포츠",
+        "title": "(주)더술컴퍼니아카데미"
+    },
+    "text": "(株)ダスルカンパニーアカデミー ((주)더술컴퍼니아카데미)\\n\nソウル鍾路区チャンギョングン【昌慶宮】ロ229(明倫4街)\\n\n「民間」で「直営」方法で運営しています。 '''一般キャンプ場'''をご利用いただけます。 '''直営'''方式で運営しています。",
+    "QA": [
+        {
+            "question": "鍾路区チャンギョングンにあるキャンプ場の名前は何ですか？",
+            "answer": "ダスルカンパニーアカデミー ((주)더술컴퍼니아카데미) が直営する一般キャンプ場です。"
+        },
+        {
+            "question": "キャンプ場はどのように運営されていますか？",
+            "answer": "ダスルカンパニーアカデミーは「民間」で「直営」方法で運営しています。"
+        },
+        {
+            "question": "キャンプ場の場所はどこですか？",
+            "answer": "キャンプ場はソウル鍾路区チャンギョングンの明倫4街に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 96,
+        "QA": 129
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_089984",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ja",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2023-08-11",
+        "domain": "문화/역사관광",
+        "title": "역사 속 인물을 만나는 여정"
+    },
+    "text": "歴史上の人物に出会う旅路 (역사 속 인물을 만나는 여정)\\n\n秋史金正喜先生の生家であるチュサ・キム・ジョンヒは、朝鮮後期の実学者であり、代表的な書道家でもありました。この家は秋史の曽祖父である月城委のキム・ハンシンが建設したものとされています。",
+    "QA": [
+        {
+            "question": "キム・ハンシンは何を建設しましたか？",
+            "answer": "キム・ハンシンは秋史金正喜先生の生家を建設しました。"
+        },
+        {
+            "question": "秋史金正喜先生は何で有名ですか？",
+            "answer": "秋史金正喜先生は実学者であり、代表的な書道家でもあります。"
+        },
+        {
+            "question": "生家の建設者は誰ですか？",
+            "answer": "生家の建設者は秋史の曽祖父であるキム・ハンシンです。"
+        }
+    ],
+    "word_Count": {
+        "text": 91,
+        "QA": 93
+    }
+}

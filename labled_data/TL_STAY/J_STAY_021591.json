@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_021591",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42060&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "태안 나무향기펜션(22년3월리모델링)"
+    },
+    "text": "木の香りペンションは1万坪余りの観光庭園で、韓国ではどこにも見られない大型樹木園です。 ここはよく造成された多様な樹木が並んでおり、ペンション旅行を楽しむと同時に自然と癒しを楽しむことができる最適な場所です。 美しい自然風景の中で。",
+    "QA": [
+        {
+            "question": "木の香りペンションはどのような場所ですか？",
+            "answer": "木の香りペンションは1万坪余りの観光庭園で、韓国ではどこにも見られない大型樹木園です。"
+        },
+        {
+            "question": "木の香りペンションでは何を楽しむことができますか？",
+            "answer": "木の香りペンションでは、ペンション旅行を楽しむと同時に自然と癒しを楽しむことができます。"
+        },
+        {
+            "question": "木の香りペンションの特徴は何ですか？",
+            "answer": "木の香りペンションの特徴は、よく造成された多様な樹木が並んでいることです。"
+        },
+        {
+            "question": "木の香りペンションはどのような自然風景が広がっていますか？",
+            "answer": "木の香りペンションでは、美しい自然風景の中で滞在することができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 85,
+        "QA": 184
+    }
+}

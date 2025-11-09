@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_072285",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1174&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=05970000&ccbaCtcd=38&ccbaCpno=3413805970000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2015-10-29",
+        "domain": "문화/역사관광",
+        "title": "벽진이씨 여은공파 종중 고문서"
+    },
+    "text": "碧珍李氏の呂恩公派宗中古文書\\n\n慶尚南道密陽市密陽大公園路100(校洞、密陽ジャン、独立運動記念館)\\n\n朝鮮時代、慶尚南道文化財資料、へんぴな李氏ヨウンコンパ宗中の古文書のうちイギェユン分財記は1657年に作成されたもので、現在伝わっている分財記の中ではおおむね後期のものといえる。六,七文字以外は全員が判読が可能であり、全体的な保存状態が良好な方だ。この分財記は子供均分相続制と子供輪廻、奉仕などの特徴を盛り込んでいる最後の時期資料としての意味を持っている。また、娘が相続した財産は時価でも自分の分け前に保存され、子孫がなければ、その分の田畑と奴婢が実家に返還されるなどの独特な姿も見せている。そしてイイジャンのガンチャルは士大夫の日常を伝える記録であるだけでなく、その中に''新生の玉''のような当時の歴史事件に関しても言及している。総会トンムンウン城山郡移植の系譜と関連して発生した事件を記録している資料だ。",
+    "QA": [
+        {
+            "question": "この宗中古文書は何年に作成されましたか？",
+            "answer": "1657年に作成されました。"
+        },
+        {
+            "question": "この古文書はどの地域の文化財ですか？",
+            "answer": "慶尚南道の文化財です。"
+        },
+        {
+            "question": "この古文書にはどのような特徴がありますか？",
+            "answer": "子供均分相続制や子供輪廻、奉仕などの特徴が盛り込まれており、最後の時期資料としての意味を持っています。"
+        },
+        {
+            "question": "娘が相続した財産はどのように保存されますか？",
+            "answer": "娘が相続した財産は時価でも自分の分け前に保存されます。"
+        },
+        {
+            "question": "子孫がいない場合には、どのような扱いになりますか？",
+            "answer": "子孫がいない場合には、その分の田畑と奴婢が実家に返還されます。"
+        },
+        {
+            "question": "この古文書にはどのような歴史事件に関する記録がありますか？",
+            "answer": "この古文書には総会トンムンウン城山郡移植の系譜と関連して発生した事件の記録があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 299,
+        "QA": 228
+    }
+}

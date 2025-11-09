@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_020321",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-08-27",
+        "domain": "음식점",
+        "title": "万宝城 ( 만보성 )"
+    },
+    "text": "万宝城 ( 만보성 )\\n\nソウル特別市 鐘路区 ソスンラギル53\\n\nリーズナブルな価格で様々な中華料理が味わえる店です。ソウル特別市のジョンノ区に位置した韓食専門店です。おすすめは酢豚です。",
+    "QA": [
+        {
+            "question": "万宝城（만보성）はどこに位置していますか？",
+            "answer": "ソウル特別市鐘路区ソスンラギル53に位置しています。"
+        },
+        {
+            "question": "万宝城（만보성）はどのような料理を提供していますか？",
+            "answer": "万宝城では様々な中華料理が味わえます。"
+        },
+        {
+            "question": "万宝城（만보성）でのおすすめ料理は何ですか？",
+            "answer": "おすすめは酢豚です。"
+        }
+    ],
+    "word_Count": {
+        "text": 71,
+        "QA": 90
+    }
+}

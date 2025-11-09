@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_005112",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-30",
+        "domain": "음식점",
+        "title": "クイ店パン（꾸이점빵）"
+    },
+    "text": "クイ店パン（꾸이점빵）\\n\n釜山広域市 釜山鎮区 中央大路 680ボンカキル 5\\n\n釜山広域市のブサンジン区に位置した韓食です。代表的なメニューは霜降り肉です。韓国風タレで味付けた即席味付け肉が味わえるレストランです。",
+    "QA": [
+        {
+            "question": "クイ店パンはどこに位置していますか？",
+            "answer": "クイ店パンは釜山広域市の釜山鎮区中央大路680ボンカキル5に位置しています。"
+        },
+        {
+            "question": "クイ店パンの代表的なメニューは何ですか？",
+            "answer": "クイ店パンの代表的なメニューは霜降り肉です。"
+        },
+        {
+            "question": "クイ店パンではどのような料理が味わえますか？",
+            "answer": "クイ店パンでは韓国風タレで味付けた即席味付け肉が味わえます。"
+        }
+    ],
+    "word_Count": {
+        "text": 80,
+        "QA": 110
+    }
+}

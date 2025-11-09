@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001439",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "BABARA ( 카페바바라(BABARA) )"
+    },
+    "text": "BABARA ( 카페바바라(BABARA) )\\n\n慶尚南道 晋州市 江辺キル10ボンキル 22-17\\n\nインテリアが有名なカフェで、大型シャンデリアが飾られています。 代表的なメニューはアメリカーノです。慶尚南道のジンジュ市に位置したカフェです。",
+    "QA": [
+        {
+            "question": "カフェババラの場所はどこですか？",
+            "answer": "カフェババラは韓国の慶尚南道ジンジュ市にあります。"
+        },
+        {
+            "question": "カフェババラの特徴的なインテリアは何ですか？",
+            "answer": "カフェババラは大型シャンデリアが飾られたインテリアが特徴です。"
+        },
+        {
+            "question": "カフェババラの代表的なメニューは何ですか？",
+            "answer": "カフェババラの代表的なメニューはアメリカーノです。"
+        }
+    ],
+    "word_Count": {
+        "text": 92,
+        "QA": 102
+    }
+}

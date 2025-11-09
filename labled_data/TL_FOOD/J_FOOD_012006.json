@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_012006",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-06",
+        "domain": "음식점",
+        "title": "ハルボム酢豚 ( 할범탕수육 )"
+    },
+    "text": "ハルボム酢豚 ( 할범탕수육 )\\n\nソウル特別市 陽川区 モクドンジュンアンブクロ15\\n\nリーズナブルに中華料理が味わえる店です。 おすすめは酢豚です。ソウル特別市のヤンチョン区に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "ハルボム酢豚はどのような料理ですか？",
+            "answer": "ハルボム酢豚は中華料理で、リーズナブルに味わえる韓国の酢豚です。"
+        },
+        {
+            "question": "ハルボム酢豚を提供している店の場所はどこですか？",
+            "answer": "ハルボム酢豚を提供している店はソウル特別市の陽川区のモクドンジュンアンブクロ15に位置しています。"
+        },
+        {
+            "question": "ハルボム酢豚のおすすめポイントは何ですか？",
+            "answer": "ハルボム酢豚はリーズナブルな価格で中華料理が味わえる点がおすすめです。"
+        },
+        {
+            "question": "ハルボム酢豚を注文する際の注意点はありますか？",
+            "answer": "ハルボム酢豚を注文する際は、店舗の営業時間や予約制度に注意してください。"
+        }
+    ],
+    "word_Count": {
+        "text": 76,
+        "QA": 174
+    }
+}

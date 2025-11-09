@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001592",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-13",
+        "domain": "음식점",
+        "title": "CheongHyangDang自然バプサン( 청향당자연밥상 )"
+    },
+    "text": "CheongHyangDang自然バプサン\\n\n全羅南道 順天市 ウソクロ7\\n\n伝統の南道韓定食メニューを提供しています。代表的なメニューは韓定食です。全羅南道のスンチョン市に位置した韓定食専門店です。",
+    "QA": [
+        {
+            "question": "チョンヒャンダン自然バプサンはどこにありますか？",
+            "answer": "チョンヒャンダン自然バプサンは全羅南道順天市ウソクロ7に位置しています。"
+        },
+        {
+            "question": "チョンヒャンダン自然バプサンの代表的なメニューは何ですか？",
+            "answer": "チョンヒャンダン自然バプサンの代表的なメニューは韓定食です。"
+        },
+        {
+            "question": "チョンヒャンダン自然バプサンはどのような店ですか？",
+            "answer": "チョンヒャンダン自然バプサンは全羅南道のスンチョン市に位置した韓定食専門店です。"
+        }
+    ],
+    "word_Count": {
+        "text": 74,
+        "QA": 134
+    }
+}

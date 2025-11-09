@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_089265",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=524&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=01960000&ccbaCtcd=38&ccbaCpno=2113801960000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1981-12-21",
+        "domain": "문화/역사관광",
+        "title": "양산 통도사 응진전"
+    },
+    "text": "慶尚南道有形文化財、通度寺は陜川海印寺、承州松広寺とともに韓国の3大寺院の一つで、境内は大きく上老殿、中老殿、下老殿の3領域に分けることができます。上老殿にある応真殿は大雄殿の西南に位置していますが、朝鮮粛宗3年(1677)に智閃大師が建てたと伝えられています。前面3間·側面3間で、屋根の横は人字型の切妻屋根となっています屋根を支えるために装飾して作られた空砲は、柱の上だけにある柱心砲様式の建物で、比較的簡潔です。しかし、恐怖の構造が主心包以外の様式を用いており、折衷された様式を見せています。内部には釈迦如来坐像を中心に、左側には弥勒菩薩、右側には諸画ガラ菩薩が祀られています。また、16羅漢像も一緒に祀られていますが、これは過去·現在·未来の姿の釈迦と16弟子を意味します",
+    "QA": [
+        {
+            "question": "通度寺は何年に建てられたと伝えられていますか？",
+            "answer": "通度寺は朝鮮粛宗3年(1677)に建てられたと伝えられています。"
+        },
+        {
+            "question": "応真殿の屋根の形は何型ですか？",
+            "answer": "応真殿の屋根の形は人字型の切妻屋根となっています。"
+        },
+        {
+            "question": "応真殿内部には何が祀られていますか？",
+            "answer": "応真殿内部には釈迦如来坐像を中心に、左側には弥勒菩薩、右側には諸画ガラ菩薩が祀られています。また、16羅漢像も一緒に祀られています。"
+        }
+    ],
+    "word_Count": {
+        "text": 249,
+        "QA": 131
+    }
+}

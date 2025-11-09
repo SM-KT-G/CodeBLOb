@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_028716",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2020-11-26",
+        "domain": "음식점",
+        "title": "八色サムギョプサル( 팔색삼겹살 )"
+    },
+    "text": "八色サムギョプサル( 팔색삼겹살 )\\n\nソウル特別市 麻浦区 白凡路 18\\n\n8種類の特製ソースを使って焼いたサムギョプサルが食べられる店です。ソウル特別市のマポ区に位置した韓国料理店です。代表的なメニューはサムギョプサルです。",
+    "QA": [
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "この店はソウル特別市麻浦区白凡路18にあります。"
+        },
+        {
+            "question": "この店では何を食べることができますか？",
+            "answer": "この店では8種類の特製ソースを使って焼いたサムギョプサルが食べることができます。"
+        },
+        {
+            "question": "この店の代表的なメニューは何ですか？",
+            "answer": "この店の代表的なメニューはサムギョプサルです。"
+        }
+    ],
+    "word_Count": {
+        "text": 85,
+        "QA": 100
+    }
+}

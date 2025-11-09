@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_LEI_003590",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2023-02-20",
+        "domain": "레포츠",
+        "title": "무주스키"
+    },
+    "text": "무주리조트 정문 앞에 위치한 무주스키는 (구)무주레저타운에서 상호 변경하여 신축 이전하였다. 스키장과 더 가까워진 무주스키에서 신상품과 리프트 할인 등 다양한 서비스를 즐길 수 있다.* 개업일 - 2006년 11월 21일\n* 무주리조트와 3km 거리, 약 5분 소요",
+    "QA": [
+        {
+            "question": "スキー場の名称は何ですか？",
+            "answer": "ムジュスキー"
+        },
+        {
+            "question": "スキー場の開業日はいつですか？",
+            "answer": "2006年11月21日"
+        },
+        {
+            "question": "スキー場までの距離はどのくらいですか？",
+            "answer": "ムジュリゾートから約3km、車でおよそ5分です"
+        },
+        {
+            "question": "スキー場の周辺にはどのような施設がありますか？",
+            "answer": "周辺にはホテルやレストラン、ショップなどがあります"
+        },
+        {
+            "question": "スキー場ではどのようなサービスが提供されていますか？",
+            "answer": "新商品やリフト割引など、さまざまなサービスが提供されています"
+        }
+    ],
+    "word_Count": {
+        "text": 108,
+        "QA": 140
+    }
+}

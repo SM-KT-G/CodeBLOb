@@ -1,0 +1,51 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_006838",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=888&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=02050000&ccbaCtcd=38&ccbaCpno=2333802050000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1998-11-13",
+        "domain": "문화/역사관광",
+        "title": "거제 구영등성"
+    },
+    "text": "巨済 旧永登城 (거제 구영등성)\\n\n慶尚南道巨済市長木面九永里1249番地の他\\n\n慶尚南道記念物 , 慶尚南道巨済市長木面の海岸にある旧永村の南側の野山の麓に平面円錐形で積み上げた城であり、城壁の内外には耕作地と民家が位置している。 巨済島の一番北に鎮海、熊川など陸地と一番隣接し、周辺に永登浦城、九栗浦城など城郭遺跡が多く分布している。 今、城壁はほとんど毀損され、基壇部だけが残っている状態だが、構造と積み上げた手法はある程度確認できる。 南北の両側に半円形の甕城(城門を保護するために城門の外に積み上げた小さな城)を積み上げたが、その出入り口が片方の横にある。 城の外壁は大きな石で積み上げ、内側の壁は石を地面に重ねて積み上げた後、大小の石をきちんと積み上げた。 城を築いた時期は成宗21年(1490)であり、中宗、宣祖の時には頻繁な倭寇の侵入を受けて大きく毀損されたりもした。 その後、仁祖1年(1623)に今の霊灯に陣営を移動し、ここは旧霊灯として残ることになった。 文献に城の周りは1,068隻と記録している。",
+    "QA": [
+        {
+            "question": "この城はどこにありますか？",
+            "answer": "慶尚南道巨済市長木面九永里1249番地の他、慶尚南道記念物として位置しています。"
+        },
+        {
+            "question": "この城はどのような形状ですか？",
+            "answer": "平面円錐形で積み上げられた城です。"
+        },
+        {
+            "question": "城壁の内外には何がありますか？",
+            "answer": "城壁の内外には耕作地と民家が位置しています。"
+        },
+        {
+            "question": "この城は何時に築かれましたか？",
+            "answer": "成宗21年(1490)に築かれました。"
+        },
+        {
+            "question": "この城はどのような構造で築かれましたか？",
+            "answer": "城の外壁は大きな石で積み上げられ、内側の壁は石を地面に重ねて積み上げた後、大小の石をきちんと積み上げました。"
+        },
+        {
+            "question": "この城は何度か毀損されたことがありますか？",
+            "answer": "中宗、宣祖の時には頻繁な倭寇の侵入を受けて大きく毀損されたこともありました。"
+        },
+        {
+            "question": "この城の周りには何隻の兵船が配置されていましたか？",
+            "answer": "文献によれば、城の周りには1,068隻の兵船が配置されていました。"
+        }
+    ],
+    "word_Count": {
+        "text": 340,
+        "QA": 254
+    }
+}

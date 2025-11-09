@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_056925",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/collectionList#######",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "나무로 만든 망치"
+    },
+    "text": "木槌 (나무로 만든 망치)\\n\n国籍と時代は、「韓国の楽浪時代」というように簡潔に表現します。材質は「木製」、分類は「在来工業に属する金属工の道具で、ハンマー」となります。また、大きさは「現在、長さ6.0cm、幅26.8cm」と表現します。 韓国の楽浪時代の木製ハンマーは、現在の長さ6.0cm、幅26.8cmという大きさで、在来工業に属する金属工の道具です。",
+    "QA": [
+        {
+            "question": "この木槌はどの時代についてですか？",
+            "answer": "この木槌は韓国の楽浪時代についてです。"
+        },
+        {
+            "question": "この木槌の材質は何ですか？",
+            "answer": "この木槌は木製です。"
+        },
+        {
+            "question": "この木槌はどの分類に属していますか？",
+            "answer": "この木槌は在来工業に属する金属工の道具で、ハンマーです。"
+        },
+        {
+            "question": "この木槌の大きさは何ですか？",
+            "answer": "この木槌の大きさは現在、長さ6.0cm、幅26.8cmです。"
+        }
+    ],
+    "word_Count": {
+        "text": 132,
+        "QA": 109
+    }
+}

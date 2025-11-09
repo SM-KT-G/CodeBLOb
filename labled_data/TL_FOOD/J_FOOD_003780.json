@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_003780",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-03",
+        "domain": "음식점",
+        "title": "オムチョンナンプルゴギ ( 엄청난불고기 )"
+    },
+    "text": "オムチョンナンプルゴギ ( 엄청난불고기 )\\n\nソウル特別市 ヨンドゥンポ区 グクフェデロ34ギル10\\n\n韓国の伝統的なプルゴギ料理専門店です。ソウル特別市のヨンドゥンポ区に位置した洋食専門店です。おすすめはプルゴギです。",
+    "QA": [
+        {
+            "question": "オムチョンナンプルゴギはどこで食べることができますか？",
+            "answer": "オムチョンナンプルゴギは韓国のソウル特別市ヨンドゥンポ区に位置した店舗で食べることができます。"
+        },
+        {
+            "question": "オムチョンナンプルゴギのおすすめは何ですか？",
+            "answer": "オムチョンナンプルゴギのおすすめはプルゴギです。"
+        },
+        {
+            "question": "オムチョンナンプルゴギはどのような料理ですか？",
+            "answer": "オムチョンナンプルゴギは韓国の伝統的なプルゴギ料理専門店です。"
+        }
+    ],
+    "word_Count": {
+        "text": 82,
+        "QA": 127
+    }
+}

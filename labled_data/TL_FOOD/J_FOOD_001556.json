@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001556",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-05",
+        "domain": "음식점",
+        "title": "CAFÉ エグラン ( CAFE 에그랑 )"
+    },
+    "text": "CAFÉ エグラン ( CAFE 에그랑 )\\n\n江原道 原州市 ファングムロ2\\n\n卵で作ったパンが味わえる店です。おすすめはエッグタルトです。江原道のウォンジュ市に位置したカフェ（コーヒーショップ）です。",
+    "QA": [
+        {
+            "question": "このカフェの名前は何ですか？",
+            "answer": "カフェ エグラン ( CAFE 에그랑 ) です。"
+        },
+        {
+            "question": "どこに位置していますか？",
+            "answer": "江原道のウォンジュ市に位置しています。"
+        },
+        {
+            "question": "このカフェのおすすめは何ですか？",
+            "answer": "おすすめはエッグタルトです。"
+        },
+        {
+            "question": "このカフェで作られるパンはどのように作られていますか？",
+            "answer": "パンは卵で作られています。"
+        }
+    ],
+    "word_Count": {
+        "text": 76,
+        "QA": 102
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_030412",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42050&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "부안(변산반도) 해꿈머리펜션"
+    },
+    "text": "広々とした海が一望できる扶安(辺山半島)ヘクムモリペンションは、楽しい水遊び、海体験、釣りができる場所です。 人々はここに来たくなります。 都心から離れ、静かな海辺で癒されます。 屋上からはバーベキューパーティーとともに辺山海水浴場が見えるビューを楽しむことができます。 ただし、22時以降に入室される場合は、ペンションまで予めご連絡ください。",
+    "QA": [
+        {
+            "question": "このペンションはどのような特徴がありますか？",
+            "answer": "このペンションは広々とした海を一望することができ、楽しい水遊びや海体験、釣りができる場所です。また、バーベキューパーティーを楽しみながら辺山海水浴場を見ることもできます。"
+        },
+        {
+            "question": "ペンションまでのアクセスはどうやって行けますか？",
+            "answer": "ペンションへのアクセスはどのようにすればいいですか？"
+        },
+        {
+            "question": "ペンションには駐車場はありますか？",
+            "answer": "はい、ペンションには駐車場があります。"
+        },
+        {
+            "question": "ペンション周辺にはどんな観光スポットがありますか？",
+            "answer": "ペンション周辺にはどんな観光スポットがありますか？"
+        },
+        {
+            "question": "ペンションのチェックイン・チェックアウトの時間は何時ですか？",
+            "answer": "ペンションのチェックインは15時から、チェックアウトは11時までです。"
+        }
+    ],
+    "word_Count": {
+        "text": 126,
+        "QA": 225
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_066841",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42070&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "청주 벤호텔 청주대점 운영 정책"
+    },
+    "text": "予約したVIPツイン客室は2名基準で料金が策定されており、追加人数がいる場合には追加料金が発生します。 駐車はすべての客室に可能で、1部屋につき1台の車両を駐車することが。 徒歩専用の特価ルームの場合、駐車が不可能であり、1部屋あたり2台以上の車両駐車はできません。 駐車規定に違反した場合、別途の利用料がかかることがあります。 予約特典としては、最大20台以上の車を駐車できるスペースが提供されます。",
+    "QA": [
+        {
+            "question": "VIPツイン客室の料金は何名基準ですか？",
+            "answer": "2名基準で料金が策定されています。"
+        },
+        {
+            "question": "VIPツイン客室に追加人数がいる場合、追加料金が発生しますか？",
+            "answer": "はい、追加人数がいる場合には追加料金が発生します。"
+        },
+        {
+            "question": "徒歩専用の特価ルームでは駐車が可能ですか？",
+            "answer": "徒歩専用の特価ルームの場合、駐車が不可能です。"
+        },
+        {
+            "question": "1部屋につき駐車できる車両の台数は？",
+            "answer": "1部屋につき1台の車両を駐車することができます。"
+        },
+        {
+            "question": "予約特典として提供される駐車スペースの最大台数は？",
+            "answer": "予約特典としては、最大20台以上の車を駐車できるスペースが提供されます。"
+        }
+    ],
+    "word_Count": {
+        "text": 147,
+        "QA": 176
+    }
+}

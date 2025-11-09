@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_056306",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=103&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=08260000&ccbaCtcd=35&ccbaCpno=1123508260000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1985-01-08",
+        "domain": "문화/역사관광",
+        "title": "김제 귀신사 대적광전"
+    },
+    "text": "金堤鬼神社大寂光殿\\n\n全羅北道金堤市錦山面清道6ギル40、鬼神社(清道里)\\n\n朝鮮時代、宝物、幽霊会社(歸信寺)は、新羅文武王16年(678)の義湘大師が立てた寺で、8つの庵があったと伝えている。この寺には古風な味が滲んでいる建物や蓮の花模様になった台、動物模様の石など多くの石物を見ることができる。知恵の光を照らすという毘盧遮那仏を祀った大寂光殿は17世紀頃にまた建てたと推測される。前面5間・側面3間規模であり、屋根は側面から見たとき、人だった(人)の字形の切妻屋根である。軒を支えようと装飾してチャウン構造が柱の上だけでなく、柱の間にもあるダポ様式である。前面3間門には櫛目文建具を付け、右と左クッカンイントェカンは壁で作った点が特徴である。",
+    "QA": [
+        {
+            "question": "この寺はいつ建てられましたか？",
+            "answer": "幽霊会社(歸信寺)は、新羅文武王16年(678)に立てられました。"
+        },
+        {
+            "question": "この寺にはどのような建物がありますか？",
+            "answer": "この寺には古風な味が滲んでいる建物や蓮の花模様になった台、動物模様の石など多くの石物があります。"
+        },
+        {
+            "question": "大寂光殿はいつ建てられたと推測されますか？",
+            "answer": "大寂光殿は17世紀頃にまた建てられたと推測されます。"
+        },
+        {
+            "question": "大寂光殿の屋根の形はどのような形ですか？",
+            "answer": "大寂光殿の屋根は側面から見たとき、人だった(人)の字形の切妻屋根です。"
+        },
+        {
+            "question": "大寂光殿の装飾にはどのような特徴がありますか？",
+            "answer": "大寂光殿の軒を支えるチャウン構造は柱の上だけでなく、柱の間にもあり、前面3間門には櫛目文建具を付け、右と左クッカンイントェカンは壁で作った点が特徴です。"
+        }
+    ],
+    "word_Count": {
+        "text": 239,
+        "QA": 231
+    }
+}

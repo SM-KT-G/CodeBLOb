@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_081594",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/view?relicId=35426",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2023-10-11",
+        "domain": "문화/역사관광",
+        "title": "석기"
+    },
+    "text": "石器 (석기)\\n\n国籍/時代: 韓国 - 新石器時代 材質: 石 分類: 軍事 - 筋力兵器 - 弓矢 - 触 サイズ: 現在の長さは80cm、幅は96cm、高さは21cm、厚さは11cm この石製の弓矢は、韓国の新石器時代に使われたものです。材質は石で作られており、軍事用の筋力兵器の一種として使われていました。弓本体の長さは現在でも80cmで、幅は96cmです。矢の長さは21cm、幅は11cmとなります。",
+    "QA": [
+        {
+            "question": "この石製の弓矢は何時代に使われていましたか？",
+            "answer": "この石製の弓矢は韓国の新石器時代に使われていました。"
+        },
+        {
+            "question": "弓本体の長さは何cmですか？",
+            "answer": "弓本体の長さは現在でも80cmです。"
+        },
+        {
+            "question": "この弓矢は何材質で作られていますか？",
+            "answer": "この弓矢は石で作られています。"
+        },
+        {
+            "question": "何種類の軍事用の筋力兵器の一種として使われていましたか？",
+            "answer": "この弓矢は軍事用の筋力兵器の一種として使われていました。"
+        },
+        {
+            "question": "矢の長さは何cmですか？",
+            "answer": "矢の長さは21cmです。"
+        }
+    ],
+    "word_Count": {
+        "text": 151,
+        "QA": 141
+    }
+}

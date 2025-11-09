@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_013772",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "マクチサン ( 막치삼 )"
+    },
+    "text": "マクチサン ( 막치삼 )\n京畿道 平沢市 通伏市場路13ボンキル 6-2\n300度で焼き上げたギアラ焼きの名店です。おすすめはサムギョプサルです。京畿道のピョンテク市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "このお店の名前は何ですか？",
+            "answer": "マクチサン ( 막치삼 )"
+        },
+        {
+            "question": "お店の場所はどこですか？",
+            "answer": "京畿道 平沢市 通伏市場路13ボンキル 6-2"
+        },
+        {
+            "question": "おすすめのメニューは何ですか？",
+            "answer": "サムギョプサル"
+        },
+        {
+            "question": "焼き方はどのようにしていますか？",
+            "answer": "300度で焼き上げています"
+        },
+        {
+            "question": "このお店は何を専門としていますか？",
+            "answer": "韓食"
+        },
+        {
+            "question": "お店の場所はどこですか？",
+            "answer": "京畿道のピョンテク市に位置しています"
+        }
+    ],
+    "word_Count": {
+        "text": 71,
+        "QA": 118
+    }
+}

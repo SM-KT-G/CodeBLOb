@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_026758",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "鐘路ブルテジ（종로불돼지）"
+    },
+    "text": "鐘路ブルテジ（종로불돼지）\\n\nソウル特別市 鐘路区 清渓川路 67\\n\n鐘路ブルテジはソウル特別市の鐘路区に位置する韓食専門店です。炭火で下焼きした豚肉を提供しています。代表メニューは皮つきサムギョプサルです。",
+    "QA": [
+        {
+            "question": "鐘路ブルテジはどこに位置していますか？",
+            "answer": "鐘路ブルテジはソウル特別市の鐘路区に位置しています。"
+        },
+        {
+            "question": "鐘路ブルテジではどのような料理を提供していますか？",
+            "answer": "鐘路ブルテジでは炭火で下焼きした豚肉を提供しています。"
+        },
+        {
+            "question": "鐘路ブルテジの代表メニューは何ですか？",
+            "answer": "鐘路ブルテジの代表メニューは皮つきサムギョプサルです。"
+        }
+    ],
+    "word_Count": {
+        "text": 77,
+        "QA": 104
+    }
+}

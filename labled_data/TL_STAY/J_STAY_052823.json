@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_052823",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2022-12-26",
+        "domain": "숙박",
+        "title": "단양추억펜션"
+    },
+    "text": "丹陽に滞在中、この宿泊施設で落ち着いた客室や施設を利用することができる。また、コンシェルジュサービス、ツアーデスク、共用区域内無線インターネットなども利用することができ、客室にはエアコンが完備されている。。",
+    "QA": [
+        {
+            "question": "この宿泊施設ではどのような客室や施設を利用することができますか？",
+            "answer": "この宿泊施設では落ち着いた客室や施設を利用することができます。"
+        },
+        {
+            "question": "どのようなサービスが提供されていますか？",
+            "answer": "この宿泊施設ではコンシェルジュサービス、ツアーデスク、共用区域内無線インターネットなどのサービスが提供されています。"
+        },
+        {
+            "question": "客室にはどんな設備が完備されていますか？",
+            "answer": "客室にはエアコンが完備されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 75,
+        "QA": 131
+    }
+}

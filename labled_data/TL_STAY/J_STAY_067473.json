@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_067473",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2022-12-27",
+        "domain": "숙박",
+        "title": "메종드스테이"
+    },
+    "text": "メゾンドステイ (메종드스테이)\\n\nソウル特別市鍾路区栗谷路1ギル52-4(サガンドン)\\n\nメゾンドステイは、1948年に建てられた伝統的な韓屋を現代的な感覚でインテリアした宿泊施設です。",
+    "QA": [
+        {
+            "question": "どのような施設ですか？",
+            "answer": "伝統的な韓屋を現代的な感覚でインテリアした宿泊施設です。"
+        },
+        {
+            "question": "建物はいつ建てられましたか？",
+            "answer": "1948年に建てられました。"
+        },
+        {
+            "question": "施設の場所はどこですか？",
+            "answer": "ソウル特別市鍾路区栗谷路1ギル52-4(サガンドン)にあります。"
+        },
+        {
+            "question": "宿泊施設の名前は何ですか？",
+            "answer": "メゾンドステイ (메종드스테이) です。"
+        },
+        {
+            "question": "施設の特徴は何ですか？",
+            "answer": "伝統的な韓屋を現代的な感覚でインテリアした点が特徴です。"
+        }
+    ],
+    "word_Count": {
+        "text": 70,
+        "QA": 134
+    }
+}

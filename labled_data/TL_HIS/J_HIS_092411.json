@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_092411",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=141&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=12430000&ccbaCtcd=35&ccbaCpno=1123512430000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1996-05-29",
+        "domain": "문화/역사관광",
+        "title": "완주 송광사 대웅전"
+    },
+    "text": "光海君14年(1622)に建てられた松広寺は、統一新羅景文王7年(867)に初めて建てられた寺として知られている。しかし、廃墟になって行っていたお寺を高麗中期の高僧ボチョグクサが弟子たちと一緒にお寺を再び建てようとしたが、長い間しなかったが、光海君14年(1622)にウンホ・承明・ウンジョン・徳林・ドゥクスン・ホンシンなどの人物らが背負ってきたと伝えられている。その後も人造14年(1636)まで寺は拡張工事を続けて実施し、繁盛していった。大雄殿は寺の中心となる建物で、記録によると、朝鮮・仁祖14年(1636)に再びビョクアム、国史がこの建物を建設し、哲宗8年(1857)にジェボン禅師が追加工事を終えて完成したという。大雄殿は前面5間・側面3間の規模を持ち、入母屋屋根の形に側面から見て八字を形成する。装飾にダポ様式の恐怖が使用され、建物には'大雄殿・義倉群棲'という扁額があり、仁祖14年(1636)に建てられたソングヮンサゲ創作と批評の文章もこの扁額に書かれている。大雄殿は中央間が比較的狭くて、門の上部壁面に絵が描かれている特徴を持っており、内側には釈迦如来を中心に阿弥陀如来と薬師如来が祭られている。",
+    "QA": [
+        {
+            "question": "松広寺はいつ建てられましたか？",
+            "answer": "松広寺は統一新羅景文王7年(867)に初めて建てられました。"
+        },
+        {
+            "question": "松広寺を再建した有名な高僧は誰ですか？",
+            "answer": "高麗中期の高僧ボチョグクサが弟子たちと一緒に松広寺を再建しようとしました。"
+        },
+        {
+            "question": "大雄殿の建築が完了したのはいつですか？",
+            "answer": "大雄殿の建築が完了したのは哲宗8年(1857)です。"
+        }
+    ],
+    "word_Count": {
+        "text": 371,
+        "QA": 107
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_030120",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=871&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=01590000&ccbaCtcd=31&ccbaCpno=2333101590000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1996-01-18",
+        "domain": "자연관광",
+        "title": "김포수안산성"
+    },
+    "text": "京畿道記念物、金浦市大串面の標高147mのスアン山にあります。ここは金浦の西北部地域で、山頂からは仁川、江華、ソウル地域が広く眺望できます。水安山城の平面形態は南北に長い楕円形です。現存する城壁の周囲は685mですが、軍事施設が設置され、損傷が激しい状態です。城壁は石垣で、方形や長方形に加工された城石を適切に積み重ねて精巧に築きました。道路開設により切断された区間で確認された城壁の断面を見ると、内壁と外壁、積心部をすべて石積みした編築工法で構築されていることが分かります築城法や城内から出土した遺物を考えると、寿安山城は6世紀後半、新羅によって築城されたものと考えられます。『三国史記』地理誌によると、この地域は高句麗の首爾忽でした。新羅が占有し、景徳王の代に寿城県と改称されるまで、寿井忽県と呼ばれていました。その後、高麗時代に寿安県に変わりました。このような点を考慮すると、寿安山城は新羅の寿夷忽県の治所城として築城された可能性があります",
+    "QA": [
+        {
+            "question": "寿安山城はどの地域に位置していますか？",
+            "answer": "寿安山城は金浦市大串面の標高147mのスアン山に位置しています。"
+        },
+        {
+            "question": "寿安山城の平面形態はどのような形状ですか？",
+            "answer": "寿安山城の平面形態は南北に長い楕円形です。"
+        },
+        {
+            "question": "寿安山城は何世紀後半に築城されたものと考えられますか？",
+            "answer": "寿安山城は6世紀後半、新羅によって築城されたものと考えられます。"
+        },
+        {
+            "question": "寿安山城の築城目的は何ですか？",
+            "answer": "寿安山城は新羅の寿夷忽県の治所城として築城された可能性があります。"
+        },
+        {
+            "question": "寿安山城の周囲の眺望から何地域が広く見渡せますか？",
+            "answer": "寿安山城の周囲からは仁川、江華、ソウル地域が広く眺望できます。"
+        }
+    ],
+    "word_Count": {
+        "text": 310,
+        "QA": 187
+    }
+}

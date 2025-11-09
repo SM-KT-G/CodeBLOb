@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_036072",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101971",
+        "collectedDate": "2023-09-07",
+        "publishedDate": "2021-11-22",
+        "domain": "문화/역사관광",
+        "title": "一柱門"
+    },
+    "text": "一柱門(일주문)\n一柱門  寺刹に入る最初の門を一柱門と言います。 一柱門正面の扁額の「霊鷲山通度寺」の文字は、興宣大院君の筆跡としても有名です。柱には、「仏之宗家」「国之大刹」と書かれていますが、これは寺の宗家であり国の大きな寺という意味です。",
+    "QA": [
+        {
+            "question": "一柱門とは何ですか？",
+            "answer": "一柱門は、寺刹に入る最初の門を指します。"
+        },
+        {
+            "question": "一柱門正面の扁額には何が書かれていますか？",
+            "answer": "一柱門正面の扁額には「霊鷲山通度寺」という文字が書かれています。興宣大院君の筆跡としても有名です。"
+        },
+        {
+            "question": "一柱門の柱には何が書かれていますか？",
+            "answer": "一柱門の柱には「仏之宗家」と「国之大刹」という文字が書かれています。これは寺の宗家であり国の大きな寺という意味です。"
+        }
+    ],
+    "word_Count": {
+        "text": 90,
+        "QA": 129
+    }
+}

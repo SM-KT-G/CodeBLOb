@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_009615",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "ダルビッラウンジ ( 달빛라운지 )"
+    },
+    "text": "ダルビッラウンジ ( 달빛라운지 )\\n\n慶尚南道 昌原市 城山区 斗山ボルボ路 55\\n\n高級コーヒー豆や手作りシロップで作った飲み物が味わえるお店です。 慶尚南道のチャンウォン市に位置したカフェです。代表的なメニューはハッドグです。",
+    "QA": [
+        {
+            "question": "このカフェの名前は何ですか？",
+            "answer": "ダルビッラウンジ ( 달빛라운지 )"
+        },
+        {
+            "question": "このカフェはどこにありますか？",
+            "answer": "慶尚南道 昌原市 城山区 斗山ボルボ路 55"
+        },
+        {
+            "question": "このカフェで味わえるメニューはありますか？",
+            "answer": "はい、代表的なメニューはハッドグです。"
+        },
+        {
+            "question": "このカフェの特徴は何ですか？",
+            "answer": "高級コーヒー豆や手作りシロップで作った飲み物が味わえるお店です。"
+        },
+        {
+            "question": "このカフェはどの市に位置していますか？",
+            "answer": "慶尚南道のチャンウォン市に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 86,
+        "QA": 143
+    }
+}

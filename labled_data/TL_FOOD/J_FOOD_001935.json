@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001935",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "NOBIZIB ( 너비집 )"
+    },
+    "text": "NOBIZIB ( 너비집 )\\n\nソウル特別市 中区 明洞9キル 37-8\\n\n辛いカルビチーム(カルビの蒸し物)が有名な名店です。ソウル特別市の中区に位置した韓食専門店です。代表的なメニューは辛味カルビの蒸し物です。",
+    "QA": [
+        {
+            "question": "このレストランの名前は何ですか？",
+            "answer": "このレストランの名前はノビジビ（너비집）です。"
+        },
+        {
+            "question": "このレストランはどこにありますか？",
+            "answer": "このレストランはソウル特別市中区明洞9キル37-8にあります。"
+        },
+        {
+            "question": "このレストランの代表的なメニューは何ですか？",
+            "answer": "このレストランの代表的なメニューは辛味カルビの蒸し物です。"
+        },
+        {
+            "question": "このレストランの特徴は何ですか？",
+            "answer": "このレストランの特徴は辛いカルビチーム(カルビの蒸し物)が有名なことです。"
+        },
+        {
+            "question": "このレストランは何を専門としていますか？",
+            "answer": "このレストランは韓食を専門としています。"
+        },
+        {
+            "question": "このレストランの評判はどうですか？",
+            "answer": "このレストランの評判はとても良いです。"
+        }
+    ],
+    "word_Count": {
+        "text": 80,
+        "QA": 195
+    }
+}

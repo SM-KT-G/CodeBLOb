@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_097565",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/collectionList#######",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2023-10-11",
+        "domain": "문화/역사관광",
+        "title": "일본 연주회 지휘 모습 사진"
+    },
+    "text": "日本演奏会の指揮の様子写真 (일본 연주회 지휘 모습 사진)\\n\nアン・イクテが指揮する日本交響楽団の様子が写真に収められていますが、具体的な交響楽団の特徴は分かりません。この写真は日本で1945年以降に撮影されたもので、紙を素材にした記録物として扱われています。サイズは横603cm、縦393cmです。",
+    "QA": [
+        {
+            "question": "演奏会での指揮者は誰ですか？",
+            "answer": "指揮者はアン・イクテです。"
+        },
+        {
+            "question": "演奏会はいつ開催されましたか？",
+            "answer": "演奏会は1945年以降に日本で開催されました。"
+        },
+        {
+            "question": "交響楽団はどのような特徴がありますか？",
+            "answer": "具体的な交響楽団の特徴については写真からは分かりませんが、日本交響楽団の演奏が写真に収められています。"
+        },
+        {
+            "question": "写真のサイズは何ですか？",
+            "answer": "写真のサイズは横603cm、縦393cmです。"
+        },
+        {
+            "question": "写真はどのような素材でできていますか？",
+            "answer": "写真は紙を素材にした記録物として扱われています。"
+        }
+    ],
+    "word_Count": {
+        "text": 112,
+        "QA": 156
+    }
+}

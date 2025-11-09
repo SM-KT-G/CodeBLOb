@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_003236",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-06",
+        "domain": "음식점",
+        "title": "ウリ韓牛コムタン ( 우리한우곰탕 )"
+    },
+    "text": "ウリ韓牛コムタン ( 우리한우곰탕 )\n京畿道 平沢市 ピジョン2ロ34\nさっぱりとした濃厚なスープが絶品の店です。京畿道のピョンテク市に位置した韓食専門店です。代表的なメニューは韓牛コムタンです。",
+    "QA": [
+        {
+            "question": "ウリ韓牛コムタンはどこに位置していますか？",
+            "answer": "ウリ韓牛コムタンは京畿道の平沢市に位置しています。"
+        },
+        {
+            "question": "ウリ韓牛コムタンのスープはどんな味ですか？",
+            "answer": "ウリ韓牛コムタンのスープはさっぱりとした濃厚な味わいです。"
+        },
+        {
+            "question": "ウリ韓牛コムタンの代表的なメニューは何ですか？",
+            "answer": "ウリ韓牛コムタンの代表的なメニューは韓牛コムタンです。"
+        }
+    ],
+    "word_Count": {
+        "text": 72,
+        "QA": 107
+    }
+}

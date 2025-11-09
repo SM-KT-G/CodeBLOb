@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_023145",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42070&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "보은 어반네이처펜션"
+    },
+    "text": "秀麗な自然の中で楽しい旅行を楽しみたいですか？ URBAN NATUREペンションは皆さんを待っています。 他のペンションとは違う洗練されたデザインの外観と感覚的な室内インテリアで素敵なペンションを作りました。 家族、友人、恋人と一緒に特別な思い出を作るのに最適な場所です。 当ペンションでは水遊びを楽しめる大きな屋外プールも用意しています。 休養地の趣を増す涼しい大きな水がペンションの前に流れています。 周辺には国立公園の俗離山、青石窟、玉華9景、美東山樹木園など見どころも多く、さらに楽しい旅を楽しむことができます。 URBAN NATUREペンションにお越しいただき、特別な癒しをご体験ください。 ただし、22時以降に入室される場合は予めご連絡ください。",
+    "QA": [
+        {
+            "question": "URBAN NATUREペンションはどのような特徴がありますか？",
+            "answer": "URBAN NATUREペンションは洗練されたデザインの外観と感覚的な室内インテリアが特徴です。"
+        },
+        {
+            "question": "URBAN NATUREペンションではどのような施設がありますか？",
+            "answer": "URBAN NATUREペンションでは大きな屋外プールがあり、水遊びを楽しむことができます。"
+        },
+        {
+            "question": "URBAN NATUREペンションの周辺にはどのような見どころがありますか？",
+            "answer": "URBAN NATUREペンションの周辺には国立公園の俗離山、青石窟、玉華9景、美東山樹木園などがあります。"
+        },
+        {
+            "question": "URBAN NATUREペンションへのチェックイン時間には制限がありますか？",
+            "answer": "22時以降にチェックインされる場合は事前にご連絡ください。"
+        },
+        {
+            "question": "URBAN NATUREペンションでの滞在はどのような特別な癒しを提供していますか？",
+            "answer": "URBAN NATUREペンションでの滞在は自然の中での楽しい旅行と特別な思い出作りを提供しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 242,
+        "QA": 301
+    }
+}

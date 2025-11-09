@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_054024",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/collectionList#######",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "글자가 새겨진 기와 조각2"
+    },
+    "text": "文字が刻まれた瓦礫 (글자가 새겨진 기와 조각)\\n\n瓦の表面には連続して「日官造」という文字が施されています。この瓦は韓国のもので、材質は土で、主に建築の屋根材として使用されています。現在のサイズは長さ135cm、幅102cmです。",
+    "QA": [
+        {
+            "question": "この瓦はどのように使われますか？",
+            "answer": "この瓦は主に建築の屋根材として使用されます。"
+        },
+        {
+            "question": "瓦のサイズはどれくらいですか？",
+            "answer": "現在の瓦のサイズは長さ135cm、幅102cmです。"
+        },
+        {
+            "question": "瓦の材質は何ですか？",
+            "answer": "この瓦は土で作られています。"
+        },
+        {
+            "question": "瓦の表面にはどんな文字が施されていますか？",
+            "answer": "瓦の表面には連続して「日官造」という文字が施されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 86,
+        "QA": 112
+    }
+}

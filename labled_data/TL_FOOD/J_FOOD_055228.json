@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_055228",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "ジャンスムル食堂 ( 장수물식당 )"
+    },
+    "text": "ジャンスムル食堂 ( 장수물식당 )\n済州特別自治道 済州市 ヨンムン2キル 18\n豚骨から出汁を取る済州島の肉入り麺専門店です。済州特別自治道のジェジュ市に位置した韓食専門店です。おすすめは素麺です。",
+    "QA": [
+        {
+            "question": "ジャンスムル食堂はどこにありますか？",
+            "answer": "ジャンスムル食堂は済州特別自治道のジェジュ市ヨンムン2キル 18にあります。"
+        },
+        {
+            "question": "ジャンスムル食堂のおすすめメニューは何ですか？",
+            "answer": "ジャンスムル食堂のおすすめは素麺です。"
+        },
+        {
+            "question": "ジャンスムル食堂では何を提供していますか？",
+            "answer": "ジャンスムル食堂では豚骨から出汁を取った済州島の肉入り麺を専門に提供しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 74,
+        "QA": 116
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_030476",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42020&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "거제도 놀러와펜션"
+    },
+    "text": "2023年屋外プールのオープンは5月27日から9月中です。 明沙海水浴場では6月末から7月初めまで、ゾグ港でアジサイが開花します。 ミョンサ海水浴場とゾグ港はそれぞれ徒歩2分、車で3分の距離です。 近浦港からは遊覧船に乗ることができ、多大多浦港からも外島遊覧船に乗ることができます。 21時以降の入室時間の場合は、ペンションまで事前にご連絡ください。",
+    "QA": [
+        {
+            "question": "プールのオープンはいつですか？",
+            "answer": "2023年屋外プールのオープンは5月27日から9月中です。"
+        },
+        {
+            "question": "アジサイが開花するのはいつですか？",
+            "answer": "明沙海水浴場では6月末から7月初めまで、ゾグ港でアジサイが開花します。"
+        },
+        {
+            "question": "ミョンサ海水浴場とゾグ港の距離はどのくらいですか？",
+            "answer": "ミョンサ海水浴場とゾグ港はそれぞれ徒歩2分、車で3分の距離です。"
+        },
+        {
+            "question": "どこから遊覧船に乗れますか？",
+            "answer": "近浦港からは遊覧船に乗ることができ、多大多浦港からも外島遊覧船に乗ることができます。"
+        },
+        {
+            "question": "入室時間が21時以降の場合はどうすればいいですか？",
+            "answer": "21時以降の入室時間の場合は、ペンションまで事前にご連絡ください。"
+        }
+    ],
+    "word_Count": {
+        "text": 128,
+        "QA": 195
+    }
+}

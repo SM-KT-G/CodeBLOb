@@ -1,0 +1,71 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_061506",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://kr.hotels.com/ho663787/osyeon-geulaendeu-hotel-jejusi-hangug/?chkin=2023-11-14&chkout=2023-11-15&x_pwa=1&rfrr=HSR&pwa_ts=1698428095359&referrerUrl=aHR0cHM6Ly9rci5ob3RlbHMuY29tL0hvdGVsLVNlYXJjaA%3D%3D&useRewards=false&rm1=a2&regionId=6049718&destination=%EC%A0%9C%EC%A3%BC%EB%8F%84%2C+%EC%A0%9C%EC%A3%BC%2C+%ED%95%9C%EA%B5%AD&destType=MARKET&neighborhoodId=6349024&latLong=33.389705%2C126.558752&sort=RECOMMENDED&top_dp=76649&top_cur=KRW&userIntent=&selectedRoomType=201837998&selectedRatePlan=209323633&expediaPropertyId=17372648&searchId=239ba6ec-1192-437a-aa11-73cc2f2a81fa",
+        "collectedDate": "2023-11-15",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "오션 그랜드 호텔"
+    },
+    "text": "オーシャングランドホテル\\n\n大韓民国済州特別自治道済州市朝天邑朝咸海岸路490\\n\nオーシャングランドホテルは車で15分以内に咸徳海水浴場と東門市場があります。 当ホテルは無料WiFiと有線インターネットを提供し、スナックバー/デリーおよびテラスもございます。 ホテルは75の客室で構成されており、チェックインは15:00から始まり、いつでも終了します。 チェックアウト時間は11:00で、チェックインは満18歳以上から可能です。 新型コロナウイルス感染症に関する制限事項をご確認ください。 到着時にフロントデスクのスタッフがサポートする予定で、チェックインの際にはクレジットカード、デビットカード、または現金デポジットが必要で、政府発行の身分証明書が必要になる場合があります。 満2歳以下のお子様は、ご両親や保護者様と同じ客室で無料で宿泊できます。 ペットの同伴はできず、共用エリアで無料WiFiと客室内でも無料WiFiと有線インターネットを提供します。 駐車スペースは施設内になく、禁煙施設です。",
+    "QA": [
+        {
+            "question": "ホテルの名前は何ですか？",
+            "answer": "オーシャングランドホテル"
+        },
+        {
+            "question": "ホテルが位置する場所はどこですか？",
+            "answer": "大韓民国済州特別自治道済州市朝天邑朝咸海岸路490"
+        },
+        {
+            "question": "ホテルから車で15分以内にある場所は何ですか？",
+            "answer": "咸徳海水浴場と東門市場"
+        },
+        {
+            "question": "ホテルが提供する無料のサービスは何ですか？",
+            "answer": "無料WiFiと有線インターネット、スナックバー/デリー、テラス"
+        },
+        {
+            "question": "ホテルの客室数は何室ですか？",
+            "answer": "75の客室"
+        },
+        {
+            "question": "チェックインの開始時間は何時ですか？",
+            "answer": "15:00"
+        },
+        {
+            "question": "チェックアウトの時間は何時ですか？",
+            "answer": "11:00"
+        },
+        {
+            "question": "チェックインの条件は何ですか？",
+            "answer": "満18歳以上で、クレジットカード、デビットカード、または現金デポジット、政府発行の身分証明書が必要"
+        },
+        {
+            "question": "無料で宿泊できる年齢は何歳までですか？",
+            "answer": "満2歳以下"
+        },
+        {
+            "question": "ペットを同伴できますか？",
+            "answer": "ペット同伴不可"
+        },
+        {
+            "question": "ホテル内で提供されるインターネットはどのようになっていますか？",
+            "answer": "共用エリアで無料WiFi、客室内でも無料WiFiと有線インターネット"
+        },
+        {
+            "question": "駐車スペースはありますか？",
+            "answer": "駐車スペースは施設内になく、禁煙施設です"
+        }
+    ],
+    "word_Count": {
+        "text": 330,
+        "QA": 308
+    }
+}

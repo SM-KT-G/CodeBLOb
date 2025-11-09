@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_009806",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-01",
+        "domain": "음식점",
+        "title": "チャクハンファングムテジ ( 착한황금돼지 )"
+    },
+    "text": "チャクハンファングムテジ \n江原道 江陵市 栗谷初校キル 47ボンキル 15\n厳選された上質なお肉が味わえる店です。 おすすめはサムギョプサルです。江原道のガンヌン市に位置したBBQ専門店です。",
+    "QA": [
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "この店は江原道江陵市の栗谷初校キル47ボンキルに位置しています。"
+        },
+        {
+            "question": "この店の特産品は何ですか？",
+            "answer": "この店のおすすめはサムギョプサルです。"
+        },
+        {
+            "question": "この店は何を提供していますか？",
+            "answer": "この店は上質なお肉を味わえるBBQ専門店です。"
+        }
+    ],
+    "word_Count": {
+        "text": 71,
+        "QA": 84
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_011262",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1096&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=02280000&ccbaCtcd=37&ccbaCpno=3413702280000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1990-08-07",
+        "domain": "문화/역사관광",
+        "title": "김천과하천"
+    },
+    "text": "金泉と河川 (김천과하천)\\n\n慶尚北道金泉市南山洞243番地\\n\n慶尚北道文化財資料 , 慶尚北道金泉にある過河川は、朝鮮粛宗44年(1718)に刊行した「金陵池」によると、昔から金が出る泉があり、金池川すなわち金泉と言って、この泉で酒を造ると味と香りが良くて酒泉と呼ばれたという。 酒泉は壬辰倭乱の時、明の長寿イ·ヨソンが泉の味が中国にある過河川のようだと称え、この時から過河川と呼ばれ、この水で作った酒を金泉過夏酒と言った。 金泉過夏酒は麗山·益山·湖山·聞慶·春川の酒と共に全国に名前が出ている。 他地方の人が酒の作り方を学んで作っても、金泉の酒の味がしないというのは、湧き水が違うためだという。 金池川は現在埋まっているが、今の過河川は古くから「過夏洲泉」と呼ばれており、泉の裏には高宗19年(1882)に「金陵洲川」と刻んだ石が建てられている。",
+    "QA": [
+        {
+            "question": "金泉市はどこに位置していますか？",
+            "answer": "金泉市は慶尚北道に位置しています。"
+        },
+        {
+            "question": "金泉市にある河川の名前は何ですか？",
+            "answer": "金泉市にある河川は金池川と呼ばれていましたが、現在は埋まっています。"
+        },
+        {
+            "question": "金泉市の泉からは何が出ていたのですか？",
+            "answer": "金泉市の泉からは金が出ていました。"
+        },
+        {
+            "question": "金泉市の泉で作られた酒はどう呼ばれていましたか？",
+            "answer": "金泉市の泉で作られた酒は酒泉と呼ばれていました。"
+        },
+        {
+            "question": "金泉市で作られる金泉過夏酒はどのような特徴がありますか？",
+            "answer": "金泉市で作られる金泉過夏酒は味と香りが良く、全国的にも名前が知られている特産品です。"
+        },
+        {
+            "question": "金泉市の酒の味が他地方で作られる酒と異なる理由は何ですか？",
+            "answer": "金泉市の酒の味が他地方で作られる酒と異なる理由は、湧き水が異なるためだと言われています。"
+        },
+        {
+            "question": "金泉市の過夏洲泉の裏にある石の刻印には何が書かれていますか？",
+            "answer": "金泉市の過夏洲泉の裏にある石の刻印には高宗19年(1882)に「金陵洲川」と刻まれています。"
+        }
+    ],
+    "word_Count": {
+        "text": 277,
+        "QA": 283
+    }
+}

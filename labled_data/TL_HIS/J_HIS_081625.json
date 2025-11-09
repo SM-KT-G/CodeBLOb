@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_081625",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/view?relicId=149423",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2023-10-11",
+        "domain": "문화/역사관광",
+        "title": "석기 조각"
+    },
+    "text": "石器片 (석기 조각)\\n\n国籍や時代が不詳な韓国のその他の材質は、石でできています。このその他は、産業や生業の一環として利用されており、先史時代の生活具の一つです。現在のサイズは、長さ63cm、幅22cm、高さ19cmです。",
+    "QA": [
+        {
+            "question": "この石器片は何のために使われていましたか？",
+            "answer": "この石器片は、先史時代の生活具として使用されていました。"
+        },
+        {
+            "question": "この石器片の大きさはどのくらいですか？",
+            "answer": "現在のサイズは、長さ63cm、幅22cm、高さ19cmです。"
+        },
+        {
+            "question": "この石器片はどの国のものですか？",
+            "answer": "この石器片は、韓国のものです。"
+        },
+        {
+            "question": "この石器片は何時代のものですか？",
+            "answer": "この石器片の国籍や時代は不詳です。"
+        },
+        {
+            "question": "この石器片はどのようにして作られたのですか？",
+            "answer": "この石器片は、石を削って作られました。"
+        }
+    ],
+    "word_Count": {
+        "text": 82,
+        "QA": 148
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_020775",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42061&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "베니키아 호텔 대림"
+    },
+    "text": "大田駅からも近くて便利なホテルです。 部屋は広くてきれいで、リーズナブルな価格で泊まることができます。 朝食にはおいしい西洋料理も楽しめます。 また大型テレビも備えられていて退屈ではありません。 出張や家族旅行に行く方におすすめです。 ありがとうございます。",
+    "QA": [
+        {
+            "question": "このホテルはどのくらい大田駅から近いですか？",
+            "answer": "このホテルは大田駅から徒歩で約10分の距離です。"
+        },
+        {
+            "question": "部屋はどのくらい広いですか？",
+            "answer": "部屋は広々としており、ゆったりとくつろぐことができます。"
+        },
+        {
+            "question": "朝食には何が提供されますか？",
+            "answer": "朝食にはおいしい西洋料理が提供されます。"
+        },
+        {
+            "question": "テレビはどのくらいの大きさですか？",
+            "answer": "テレビは大型で、退屈することはありません。"
+        },
+        {
+            "question": "このホテルは出張や家族旅行に適していますか？",
+            "answer": "はい、このホテルは出張や家族旅行におすすめです。"
+        }
+    ],
+    "word_Count": {
+        "text": 94,
+        "QA": 151
+    }
+}

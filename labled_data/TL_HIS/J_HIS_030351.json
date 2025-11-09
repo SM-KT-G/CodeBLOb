@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_030351",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101971",
+        "collectedDate": "2023-09-07",
+        "publishedDate": "2022-12-15",
+        "domain": "문화/역사관광",
+        "title": "昌寧 飛鳳里 貝塚"
+    },
+    "text": "昌寧 飛鳳里 貝塚\n昌寧飛鳳里で発見された最初の新石器時代の貝塚をご紹介します。貝塚は、古代人が食べた貝の殻が積もったものです。ここで木舟が最初に発掘され、川の近くに住んでいた新石器時代の人々の暮らしぶりを今に伝えています。",
+    "QA": [
+        {
+            "question": "この貝塚はどこで発見されましたか？",
+            "answer": "昌寧飛鳳里で発見されました。"
+        },
+        {
+            "question": "貝塚には何が積もっていましたか？",
+            "answer": "貝の殻が積もっていました。"
+        },
+        {
+            "question": "貝塚から発掘されたものの中で、特に注目すべきものはありますか？",
+            "answer": "貝塚からは最初の木舟が発掘されました。"
+        },
+        {
+            "question": "貝塚が見つかった場所には、新石器時代の人々がどのように住んでいたのでしょうか？",
+            "answer": "貝塚が見つかった場所は川の近くであり、新石器時代の人々の暮らしぶりを伝えています。"
+        }
+    ],
+    "word_Count": {
+        "text": 82,
+        "QA": 139
+    }
+}

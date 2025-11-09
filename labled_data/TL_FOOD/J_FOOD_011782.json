@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_011782",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "ババンカル ( 바반칼(바지락에반한칼국수) )"
+    },
+    "text": "ババンカル ( 바반칼(바지락에반한칼국수) )\\n\n慶尚南道 晋州市 工団路91ボンキル 15\\n\n海の幸たっぷりのカルグクスを味わえるお店です。 代表的なメニューはアサリカルグクスです。慶尚南道のジンジュ市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "このお店の場所はどこですか？",
+            "answer": "このお店は慶尚南道ジンジュ市の工団路91番地15にあります。"
+        },
+        {
+            "question": "このお店の特徴的なメニューは何ですか？",
+            "answer": "このお店の代表的なメニューはアサリカルグクスです。海の幸たっぷりのカルグクスを味わえます。"
+        },
+        {
+            "question": "このお店は何を専門としていますか？",
+            "answer": "このお店は韓食を専門としています。"
+        }
+    ],
+    "word_Count": {
+        "text": 86,
+        "QA": 104
+    }
+}

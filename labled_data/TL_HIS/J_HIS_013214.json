@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_013214",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2022-12-27",
+        "domain": "문화/역사관광",
+        "title": "도곡재"
+    },
+    "text": "陶谷齋 (도곡재)\\n\n大邱広域市達城郡河浜面ペンキル60\\n\n朝鮮正祖2年(1778)大司成である叙情公パク・ムンヒョンが邸宅として建てた建物だが、1800年代になり、陶谷パク・ジョンウの居室として使用するようになり、彼の号にちなんで陶谷齋と名付けられた。",
+    "QA": [
+        {
+            "question": "この建物はいつ建てられましたか？",
+            "answer": "朝鮮正祖2年（1778年）に建てられました。"
+        },
+        {
+            "question": "この建物は誰の邸宅として建てられましたか？",
+            "answer": "この建物は叙情公パク・ムンヒョンの邸宅として建てられました。"
+        },
+        {
+            "question": "なぜこの建物は陶谷齋と呼ばれていますか？",
+            "answer": "この建物は陶谷パク・ジョンウの居室として使用されるようになり、彼の号にちなんで陶谷齋と名付けられました。"
+        }
+    ],
+    "word_Count": {
+        "text": 94,
+        "QA": 118
+    }
+}

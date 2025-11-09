@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_025746",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101933",
+        "collectedDate": "2023-10-06",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "오산대역"
+    },
+    "text": "烏山大駅\n\n烏山大駅（烏山大驛）は、京畿道烏山市水清洞にある首都圏電鉄1号線の地下鉄駅である。近くには水香基樹木園と烏山大学がある。烏山駅と名前が似ていて、しばしば混同されることもある。",
+    "QA": [
+        {
+            "question": "烏山大駅はどこにありますか？",
+            "answer": "烏山大駅は京畿道烏山市水清洞にあります。"
+        },
+        {
+            "question": "烏山大駅の近くには何がありますか？",
+            "answer": "烏山大駅の近くには水香基樹木園と烏山大学があります。"
+        },
+        {
+            "question": "烏山大駅と烏山駅はどのように違いますか？",
+            "answer": "烏山大駅と烏山駅は名前が似ていますが、別々の駅です。混同されることもありますが、場所が異なります。"
+        }
+    ],
+    "word_Count": {
+        "text": 68,
+        "QA": 107
+    }
+}

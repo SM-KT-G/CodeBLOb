@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_041427",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2022-06-13",
+        "domain": "문화/역사관광",
+        "title": "KT스퀘어"
+    },
+    "text": "KTスクエア (KT스퀘어)\\n\nソウル特別市鍾路区世宗大路178 KTファンビルWest1階\\n\nKTが作った複合文化空間では、最新のIT機器を試すだけでなく、多様な文化公演も楽しむことができます。韓国の通信会社の130年の歴史を一目で知ることができる「Gallery130」と、KTの5G技術を直接体験できる「日常以上」が魅力的なコンテンツとなっています。",
+    "QA": [
+        {
+            "question": "KTスクエアはどこにありますか？",
+            "answer": "KTスクエアはソウル特別市鍾路区世宗大路178 KTファンビルWest1階にあります。"
+        },
+        {
+            "question": "KTスクエアでは何をすることができますか？",
+            "answer": "KTスクエアでは、最新のIT機器を試すだけでなく、多様な文化公演も楽しむことができます。"
+        },
+        {
+            "question": "Gallery130とは何ですか？",
+            "answer": "Gallery130は韓国の通信会社KTの130年の歴史を一目で知ることができる展示スペースです。"
+        },
+        {
+            "question": "日常以上とは何ですか？",
+            "answer": "日常以上はKTの5G技術を直接体験できるスペースです。"
+        }
+    ],
+    "word_Count": {
+        "text": 132,
+        "QA": 167
+    }
+}

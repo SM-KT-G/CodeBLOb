@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_034328",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=543&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=02250000&ccbaCtcd=38&ccbaCpno=2113802250000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1983-08-12",
+        "domain": "문화/역사관광",
+        "title": "함양향교"
+    },
+    "text": "咸陽郷校 (함양향교)\\n\n慶尚南道咸陽郡咸陽邑ウォンギョギル50(橋山里)\\n\n慶尚南道有形文化財 , 郷校は立派な儒学者を祭祀し、地方民の儒学教育と教化のために国で建てた教育機関だが、建てられた時期は正確には分からないが、徳谷チョ·スンスクの「明倫堂記」によると太祖7年(1398)に建てられたものと見られる。 以後、壬辰倭乱の時に燃えた東·西斎、門楼などの建物を補修し今日に至っている。 現存する建物は出入り口である太極楼、勉強する所である明倫堂と東·西斎、祠堂である大成殿と東·西武などがある。 建物配置は明倫堂が前に来て大成殿が後に来る典型的な転校後墓の形だ。 朝鮮時代には国家から土地と戦績·奴婢などを受けて学生たちを教えたが、甲午改革(1894)以後、祭祀だけが行われている。",
+    "QA": [
+        {
+            "question": "この咸陽郷校はどのような建物ですか？",
+            "answer": "咸陽郷校は立派な儒学者を祭祀し、地方民の儒学教育と教化のために国で建てられた教育機関です。現存する建物には太極楼、明倫堂、東・西斎、大成殿、東・西武などがあります。"
+        },
+        {
+            "question": "咸陽郷校はいつ建てられましたか？",
+            "answer": "正確な建設年は分かりませんが、徳谷チョ・スンスクの「明倫堂記」によると、太祖7年(1398)に建てられたとされています。"
+        },
+        {
+            "question": "咸陽郷校では何が行われましたか？",
+            "answer": "朝鮮時代には国家から土地と戦績・奴婢などを受けて学生たちを教え、儒学教育を行っていました。しかし、甲午改革(1894)以後は祭祀のみが行われています。"
+        },
+        {
+            "question": "咸陽郷校の建物配置はどのような形ですか？",
+            "answer": "咸陽郷校の建物配置は典型的な転校後墓の形をしており、明倫堂が前に来て大成殿が後になっています。"
+        }
+    ],
+    "word_Count": {
+        "text": 253,
+        "QA": 244
+    }
+}

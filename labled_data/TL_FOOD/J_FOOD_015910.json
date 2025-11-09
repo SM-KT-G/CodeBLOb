@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_015910",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-03",
+        "domain": "음식점",
+        "title": "江陵ガジャ ( 강릉가자 )"
+    },
+    "text": "江陵ガジャ ( 강릉가자 )\\n\n江原道 ガンヌン市 ムンファウィギル3\\n\n揚げ豚足が美味しい店です。代表的なメニューは豚足の揚げ物です。江原道のガンヌン市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "この店はどこにありますか？",
+            "answer": "この店は江原道のガンヌン市に位置しています。"
+        },
+        {
+            "question": "この店の特徴的なメニューは何ですか？",
+            "answer": "この店の代表的なメニューは豚足の揚げ物です。"
+        },
+        {
+            "question": "この店の揚げ豚足はどのように味わえますか？",
+            "answer": "この店の揚げ豚足はとても美味しく、サクサクとした食感が楽しめます。"
+        },
+        {
+            "question": "この店の名物料理以外に何かおすすめのメニューはありますか？",
+            "answer": "この店では他にも韓国料理の様々なメニューがありますが、特におすすめは揚げ豚足です。"
+        }
+    ],
+    "word_Count": {
+        "text": 67,
+        "QA": 145
+    }
+}

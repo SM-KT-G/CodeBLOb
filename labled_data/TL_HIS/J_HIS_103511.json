@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_103511",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=802&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=00410000&ccbaCtcd=26&ccbaCpno=2332600410000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2003-04-24",
+        "domain": "문화/역사관광",
+        "title": "중산동취락유적"
+    },
+    "text": "中山洞集落遺跡\\n\n蔚山北区中山洞656-1番地一帯\\n\n三韓∼三国時代、蔚山(ウルサン)広域市記念物、この遺跡は昔の人々の集団居住地だったところに中山里遺跡の梨花(イファ)村とガッアン村が形成されている地域に位置する。太和江の北側地域を代表する三韓後期〜三国時代後期まで形成された集落遺跡である。2002年、蔚山(ウルサン)発展研究院で実施した試掘調査で、住居地、作業場、防御施設などが確認され、当時の集落の構成、範囲、配置および周辺地域との交流、変遷過程などを具体的に知ることができた。斯廬国(しろこく)[斯盧國]で新羅に成長していく過程を見せ、新羅初期研究に重要な遺跡である。隣接した中山洞古墳群(記念物第9号)を築造した主人公たちがまさにこの集落の人々だったと推定され、彼らは生きている人々の生活空間と死んだ者たちの領域を分離した。また、彼らが使用した生産道具の中の鉄製道具は、当時の代表的な鉄生産地だった達川帳(記念物第40号)の鉄を使ったものとみられる。",
+    "QA": [
+        {
+            "question": "この遺跡は何時代に形成された集落遺跡ですか？",
+            "answer": "三韓後期〜三国時代後期まで形成された集落遺跡です。"
+        },
+        {
+            "question": "遺跡の位置はどのような地域にありますか？",
+            "answer": "昔の人々の集団居住地だったところに梨花(イファ)村とガッアン村が形成されている地域に位置しています。"
+        },
+        {
+            "question": "遺跡の試掘調査で何が確認されましたか？",
+            "answer": "住居地、作業場、防御施設などが確認されました。"
+        },
+        {
+            "question": "遺跡で使用されていた生産道具の材料は何でしょうか？",
+            "answer": "鉄製道具は当時の代表的な鉄生産地だった達川帳の鉄を使用していたと考えられています。"
+        },
+        {
+            "question": "隣接した中山洞古墳群を築造した主人公たちは何と推定されていますか？",
+            "answer": "隣接した中山洞古墳群を築造した主人公たちは、この集落の人々だったと推定されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 317,
+        "QA": 220
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_019170",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "大明館 ( 대명관 )"
+    },
+    "text": "大明館 ( 대명관 )\\n\n全羅南道 木浦市 柳洞路16ボンキル 17\\n\n20年の伝統を持つ名店で、単一メニューのみを取り扱っています。 全羅南道のモクポ市に位置した牛テールのコムタン専門店です。代表的なメニューは牛テールのコムタンです。",
+    "QA": [
+        {
+            "question": "大明館はどこに位置していますか？",
+            "answer": "大明館は全羅南道の木浦市に位置しています。"
+        },
+        {
+            "question": "大明館は何年の伝統を持っていますか？",
+            "answer": "大明館は20年の伝統を持っています。"
+        },
+        {
+            "question": "大明館は何を取り扱っていますか？",
+            "answer": "大明館は牛テールのコムタンのみを取り扱っています。"
+        },
+        {
+            "question": "大明館の代表的なメニューは何ですか？",
+            "answer": "大明館の代表的なメニューは牛テールのコムタンです。"
+        }
+    ],
+    "word_Count": {
+        "text": 88,
+        "QA": 115
+    }
+}

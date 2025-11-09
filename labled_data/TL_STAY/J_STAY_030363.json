@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_030363",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42060&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "천안 오엔스마트 호텔"
+    },
+    "text": "天安市庁の隣に位置するホテルは最適な位置を誇ります。 このホテルはKTX天安牙山駅と産業団地とも近いところに位置しており、ビジネス客にうってつけです。 ホテル内には唯一のミーティングセンターがあり、ミーティング、スタディ、面接、企業懇談会などに適しています。 お客様はリラックスして快適な雰囲気の中で、質の高い休息を楽しむことができます。",
+    "QA": [
+        {
+            "question": "このホテルはどこに位置していますか？",
+            "answer": "このホテルは天安市庁の隣に位置しています。"
+        },
+        {
+            "question": "このホテルはどのようなお客様におすすめですか？",
+            "answer": "このホテルはビジネス客にうってつけです。"
+        },
+        {
+            "question": "ホテル内にはどんな設備がありますか？",
+            "answer": "ホテル内には唯一のミーティングセンターがあります。"
+        },
+        {
+            "question": "ホテルのミーティングセンターはどのような用途に利用できますか？",
+            "answer": "ホテルのミーティングセンターはミーティング、スタディ、面接、企業懇談会などに適しています。"
+        },
+        {
+            "question": "お客様はホテル内でどのような雰囲気を楽しむことができますか？",
+            "answer": "お客様はリラックスして快適な雰囲気の中で、質の高い休息を楽しむことができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 123,
+        "QA": 198
+    }
+}

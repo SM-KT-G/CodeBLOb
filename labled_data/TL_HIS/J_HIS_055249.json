@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_055249",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2022-12-26",
+        "domain": "문화/역사관광",
+        "title": "기양서당"
+    },
+    "text": "この建物は裕福機(柳復起)と劉義遜(柳義孫)の位牌を安置し、祭享、いうところで、最初は機鋒先生が、子孫たちの数学(修學)に向けて書堂で作った。元々は林洞面秀谷洞にあったが、イムハダムの建設にそこが水没したことによって、現在の位置に移した。",
+    "QA": [
+        {
+            "question": "この建物は誰の位牌を安置していますか？",
+            "answer": "裕福機(柳復起)と劉義遜(柳義孫)の位牌を安置しています。"
+        },
+        {
+            "question": "この建物は何のために使用されているのですか？",
+            "answer": "祭享や子孫たちの数学(修學)に向けた書堂として使用されています。"
+        },
+        {
+            "question": "この建物は元々どこにありましたか？",
+            "answer": "元々は林洞面秀谷洞にありましたが、イムハダムの建設により現在の位置に移されました。"
+        }
+    ],
+    "word_Count": {
+        "text": 87,
+        "QA": 117
+    }
+}

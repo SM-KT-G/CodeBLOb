@@ -1,0 +1,55 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_099594",
+        "source": "도서",
+        "writer": "박수경, 변귀섭",
+        "ISBN_ISNN": "978-89-9346-128-2",
+        "version": "초판",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "카페투어",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2015-12-07",
+        "domain": "음식점",
+        "title": "카페 더샤이어"
+    },
+    "text": "Cafe the Shireは果川市文原洞に位置するカフェです。外観は硬く見えるが、内部は植物に満ちていて、独創的で洗練された印象を与えています。施設もきれいに維持されており、駐車も便利です。ここはリラックスできる空間です。メニューには多様な飲み物が用意されています。ファンチジュクッキー、夜ラテ、熟した柿ジュース、済州チョンギュル・エイド、済州(チェジュ)グリーンティーラテなど様々な種類の飲料がおり、価格もさまざまです。例えば、黄チーズクッキーは3,000ウォン、夜ラテは6,000ウォンです。シャイア・で楽な時間を過ごしたいならここを訪問してみてください。",
+    "QA": [
+        {
+            "question": "Cafe the Shireはどこに位置していますか？",
+            "answer": "Cafe the Shireは果川市文原洞に位置しています。"
+        },
+        {
+            "question": "Cafe the Shireの外観はどのようですか？",
+            "answer": "Cafe the Shireの外観は硬く見えますが、内部は植物に満ちていて、独創的で洗練された印象を与えます。"
+        },
+        {
+            "question": "Cafe the Shireの施設はどのように維持されていますか？",
+            "answer": "Cafe the Shireの施設はきれいに維持されています。駐車も便利です。"
+        },
+        {
+            "question": "Cafe the Shireで提供されるメニューには何がありますか？",
+            "answer": "Cafe the Shireで提供されるメニューには多様な飲み物があります。"
+        },
+        {
+            "question": "Cafe the Shireの飲み物メニューにはどんな種類がありますか？",
+            "answer": "Cafe the Shireの飲み物メニューにはファンチジュクッキー、夜ラテ、熟した柿ジュース、済州チョンギュル・エイド、済州(チェジュ)グリーンティーラテなど様々な種類の飲料があります。"
+        },
+        {
+            "question": "Cafe the Shireでの飲み物の価格はどのくらいですか？",
+            "answer": "Cafe the Shireでの飲み物の価格はさまざまです。例えば、黄チーズクッキーは3,000ウォン、夜ラテは6,000ウォンです。"
+        },
+        {
+            "question": "Cafe the Shireはリラックスできる空間ですか？",
+            "answer": "はい、Cafe the Shireはリラックスできる空間です。"
+        },
+        {
+            "question": "Cafe the Shireはどんな人におすすめですか？",
+            "answer": "Cafe the Shireはリラックスした時間を過ごしたい人におすすめです。"
+        }
+    ],
+    "word_Count": {
+        "text": 206,
+        "QA": 467
+    }
+}

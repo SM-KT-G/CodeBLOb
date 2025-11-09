@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_007501",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=36&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=00690000&ccbaCtcd=37&ccbaCpno=1123700690000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1963-01-21",
+        "domain": "문화/역사관광",
+        "title": "경주 망덕사지 당간지주"
+    },
+    "text": "慶州望徳寺址幢竿支柱 (경주 망덕사지 당간지주)\\n\n慶尚北道慶州市梨盤洞964-2番地\\n\n統一新羅時代 , 宝物 , 幢竿は寺院で仏教儀式がある時に付けた幢という旗竿のことで、幢竿支柱はこの幢竿を両側から支える二つの石柱を指す。 この幢竿支柱は望徳寺跡の西側に65㎝間隔で互いに向かい合って立っている。 表面に何の彫刻と装飾を置かない代わりに、支柱の外面の角を上部から縮めて装飾的な効果を出した。 柱頭は内側側面から外面に下りながら曲線を描き、外部に6㎝ほど削られて傾斜を成しており、内側上面に幢竿を固定させるための四角い溝を作った。 各面に彫刻はないが素朴で雄大な気風を表している。 望徳寺は『三国遺事』の記録によると、統一新羅新門王5年(685)に創建された寺院だが、この幢竿支柱も当時一緒に造成されたものと見られる。",
+    "QA": [
+        {
+            "question": "この幢竿支柱は何を支えるために使われていましたか？",
+            "answer": "幢竿支柱は旗竿の幢を支えるために使われました。幢は寺院で行われる仏教儀式の際に付けられる旗竿のことです。"
+        },
+        {
+            "question": "幢竿支柱はどのような形状や装飾がありますか？",
+            "answer": "幢竿支柱は角が縮められて装飾的な効果を出しており、柱頭は内側から外側に向かって曲線を描き、外部に傾斜しています。また、内側上面には幢竿を固定するための四角い溝があります。彫刻や装飾はなく、素朴で雄大な雰囲気を持っています。"
+        },
+        {
+            "question": "望徳寺はいつ創建されましたか？",
+            "answer": "望徳寺は統一新羅の新門王5年（685年）に創建されました。"
+        },
+        {
+            "question": "この幢竿支柱は望徳寺の創建時に造成されたものですか？",
+            "answer": "はい、この幢竿支柱も望徳寺の創建時に造成されたものと考えられます。"
+        }
+    ],
+    "word_Count": {
+        "text": 266,
+        "QA": 229
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_026158",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42070&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "제천 능강송펜션"
+    },
+    "text": "自然はいつも人を幸せにします。 新鮮な空気を吸いながら自然そのままを感じられる場所、錦繍山の麓に位置するヒーリングヌンガンソンへようこそお越しくださいました。 ペット同伴不可の店舗です。 お知らせ 22時以降に入室される場合、ペンションまで予めご連絡ください。",
+    "QA": [
+        {
+            "question": "場所はどこにありますか？",
+            "answer": "ヒーリングヌンガンソンは錦繍山の麓に位置しています。"
+        },
+        {
+            "question": "ペットを連れて行ってもいいですか？",
+            "answer": "申し訳ありませんが、ペットの同伴は受け付けておりません。"
+        },
+        {
+            "question": "入室時間に制限はありますか？",
+            "answer": "22時以降に入室される場合は、事前にペンションまでご連絡ください。"
+        },
+        {
+            "question": "どのような特徴を持つ場所ですか？",
+            "answer": "ヒーリングヌンガンソンは新鮮な空気を感じられる自然豊かな場所です。"
+        },
+        {
+            "question": "自然以外には何が楽しめますか？",
+            "answer": "ヒーリングヌンガンソンでは、リラックスできる空間や癒しのプログラムも提供しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 95,
+        "QA": 173
+    }
+}

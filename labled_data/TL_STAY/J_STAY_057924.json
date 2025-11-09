@@ -1,0 +1,63 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_057924",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://kr.hotels.com/ho2129159968/jeonju-geumamdong-business-motel-jeonju-hangug/?chkin=2023-11-14&chkout=2023-11-15&x_pwa=1&rfrr=HSR&pwa_ts=1699024595534&referrerUrl=aHR0cHM6Ly9rci5ob3RlbHMuY29tL0hvdGVsLVNlYXJjaA%3D%3D&useRewards=false&rm1=a2&regionId=6345218&destination=%EC%9D%B5%EC%82%B0%2C+%EC%A0%84%EB%B6%81%2C+%ED%95%9C%EA%B5%AD&destType=MARKET&latLong=35.94865%2C126.9767&sort=RECOMMENDED&top_dp=54545&top_cur=KRW&userIntent=&selectedRoomType=228370862&selectedRatePlan=262395097&expediaPropertyId=66504999&searchId=8ec93ebc-3977-4a70-89df-cfad05be3ff7",
+        "collectedDate": "2023-11-15",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "전주 금암동 베스트인시티 호텔"
+    },
+    "text": "全州金岩洞ベストインシティホテル\\n\n大韓民国 North Jeolla Jeonju 全羅北道全州市徳津区龍山3ギル33\\n\n全州金岩洞のベストインシティホテルは45室の客室を保有しています。 当ホテルはチェックイン開始時刻の23:00からチェックアウト時刻の11:00までサービスを提供します。 しかし、チェックインは満21歳から可能で、クレジットカード、デビットカードまたは現金デポジットと一緒に貼られた政府発行身分証明書が必要です。 また、全州韓屋村はホテルから車で5分の距離に位置しています。 こちらではWiFiとセルフ駐車を無料で利用できる特典を提供しています。 しかし、旅行時に新型コロナウイルス感染症関連の制限事項を確認する必要があります。 最後に、ペットは同伴できず、共用エリアでは無料WiFiが提供され、施設内にはセルフ駐車が可能です。 また、喫煙は指定されたエリアでのみ可能です。",
+    "QA": [
+        {
+            "question": "ベストインシティホテルは何時からチェックインできますか？",
+            "answer": "ベストインシティホテルのチェックイン開始時刻は23:00からです。"
+        },
+        {
+            "question": "ベストインシティホテルのチェックアウト時刻は何時ですか？",
+            "answer": "ベストインシティホテルのチェックアウト時刻は11:00です。"
+        },
+        {
+            "question": "ベストインシティホテルのチェックイン条件はありますか？",
+            "answer": "ベストインシティホテルのチェックインは満21歳から可能で、政府発行身分証明書とクレジットカード、デビットカード、または現金デポジットが必要です。"
+        },
+        {
+            "question": "全州韓屋村はホテルからどのくらいの距離にありますか？",
+            "answer": "全州韓屋村はホテルから車で約5分の距離に位置しています。"
+        },
+        {
+            "question": "ベストインシティホテルで利用できる特典はありますか？",
+            "answer": "ベストインシティホテルでは無料のWiFiとセルフ駐車が利用できます。"
+        },
+        {
+            "question": "新型コロナウイルス感染症関連の制限事項はありますか？",
+            "answer": "旅行時には新型コロナウイルス感染症関連の制限事項を確認する必要があります。"
+        },
+        {
+            "question": "ベストインシティホテルではペットを同伴できますか？",
+            "answer": "ベストインシティホテルではペットの同伴はできません。"
+        },
+        {
+            "question": "ホテル内では無料WiFiが利用できますか？",
+            "answer": "ホテル内の共用エリアでは無料のWiFiが利用できます。"
+        },
+        {
+            "question": "ホテル内には駐車場がありますか？",
+            "answer": "ホテル内にはセルフ駐車が可能な駐車場があります。"
+        },
+        {
+            "question": "ホテル内で喫煙できますか？",
+            "answer": "ホテル内では指定されたエリアでのみ喫煙が可能です。"
+        }
+    ],
+    "word_Count": {
+        "text": 294,
+        "QA": 419
+    }
+}

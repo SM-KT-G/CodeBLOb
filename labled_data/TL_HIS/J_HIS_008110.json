@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_008110",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1044&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=01150000&ccbaCtcd=38&ccbaCpno=3413801150000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1985-01-23",
+        "domain": "문화/역사관광",
+        "title": "고성장산리허씨고가"
+    },
+    "text": "固城長山里の許氏の高価 (고성장산리허씨고가)\\n\n慶尚南道高城郡\\n\n慶尚南道文化財資料 , 祠堂と安寺堂、そして家屋1軒と2階建てに区分された構造だ。 祠堂は朝鮮高宗2年(1865)に建てられ、許氏4代宣祖の位牌を祀ったところだ。 家屋は1912年に建てられた家で、客の接待や書斎として使われている。 2階建ての建物は1912年に建てられ、現在執務室として使われているが、家屋と雲橋でつながっている。 安寺堂は高宗22年(1885)に建てられたもので、湧く大門形式であり、門の両側に部屋がある。 かつては客をもてなしていたが、今は使わない。",
+    "QA": [
+        {
+            "question": "固城長山里の許氏の高価はどのような建物ですか？",
+            "answer": "固城長山里の許氏の高価は祠堂、安寺堂、家屋1軒、2階建ての建物で構成されています。"
+        },
+        {
+            "question": "祠堂では何を祀っていますか？",
+            "answer": "祠堂では許氏4代宣祖の位牌を祀っています。"
+        },
+        {
+            "question": "家屋はどのように使われていますか？",
+            "answer": "家屋は客の接待や書斎として使われています。"
+        },
+        {
+            "question": "2階建ての建物は何に使われていますか？",
+            "answer": "2階建ての建物は現在執務室として使われています。"
+        },
+        {
+            "question": "安寺堂はどのような特徴がありますか？",
+            "answer": "安寺堂は湧く大門形式であり、門の両側に部屋があります。"
+        },
+        {
+            "question": "安寺堂は何に使われていたのですか？",
+            "answer": "かつては客をもてなすために使われていましたが、現在は使われていません。"
+        }
+    ],
+    "word_Count": {
+        "text": 199,
+        "QA": 203
+    }
+}

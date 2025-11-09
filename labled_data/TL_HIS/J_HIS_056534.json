@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_056534",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=984&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=00300000&ccbaCtcd=38&ccbaCpno=3413800300000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1983-08-06",
+        "domain": "문화/역사관광",
+        "title": "김해 선조어서각"
+    },
+    "text": "1836年に慶尚南道文化財資料グォンタク将軍の短小に建てられた建物は、倭軍との激戦市にハングルで下された早くを保管するためのものだ。子孫たちは日本軍に賦役した民たちでも罪を問わないという教書を保管しているこの建物を建立した。この建物は1間、平面の切妻屋根を持っており、木造と横の管理状態が現在、悪いために1989年4月に新しい場所に移転し、復元された。また、この建物は顯忠祠(ヒョンチュンサ)とともに増築され、整備された。",
+    "QA": [
+        {
+            "question": "この建物はいつ建てられましたか？",
+            "answer": "この建物は1836年に建てられました。"
+        },
+        {
+            "question": "この建物は何のために建てられましたか？",
+            "answer": "この建物は倭軍との激戦時に早くを保管するために建てられました。"
+        },
+        {
+            "question": "この建物の特徴は何ですか？",
+            "answer": "この建物は1間の木造建築で、平面の切妻屋根を持っています。"
+        },
+        {
+            "question": "なぜこの建物は移転され、復元されたのですか？",
+            "answer": "この建物は管理状態が悪くなったため、1989年4月に新しい場所に移転し、復元されました。"
+        },
+        {
+            "question": "この建物と顯忠祠(ヒョンチュンサ)はどのように関連していますか？",
+            "answer": "この建物は顯忠祠(ヒョンチュンサ)とともに増築され、整備されました。"
+        }
+    ],
+    "word_Count": {
+        "text": 154,
+        "QA": 189
+    }
+}

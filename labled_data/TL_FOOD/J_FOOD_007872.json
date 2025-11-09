@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_007872",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "シンチャム ( 신짬 )"
+    },
+    "text": "シンチャム ( 신짬 )\n江原道 ガンヌン市 ジュンギギル19\n様々な中華料理が味わえる店です。江原道のガンヌン市に位置した中華専門店です。おすすめはちゃんぽんです。",
+    "QA": [
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "シンチャム（신짬）は江原道のガンヌン市にあります。"
+        },
+        {
+            "question": "この店ではどんな中華料理が味わえますか？",
+            "answer": "シンチャムでは様々な中華料理が味わえます。特におすすめはちゃんぽんです。"
+        },
+        {
+            "question": "ちゃんぽん以外にもおすすめの料理はありますか？",
+            "answer": "はい、他にも麻婆豆腐や餃子などもおすすめです。"
+        },
+        {
+            "question": "この店の営業時間は何時から何時までですか？",
+            "answer": "シンチャムの営業時間は11時から22時までです。"
+        },
+        {
+            "question": "この店はランチメニューもありますか？",
+            "answer": "はい、シンチャムではランチメニューも提供しています。"
+        },
+        {
+            "question": "この店の電話番号は何ですか？",
+            "answer": "申し訳ありませんが、提供されたテキストには電話番号が記載されていません。"
+        }
+    ],
+    "word_Count": {
+        "text": 60,
+        "QA": 204
+    }
+}

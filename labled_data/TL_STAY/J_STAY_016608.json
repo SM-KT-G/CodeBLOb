@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_016608",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'http://www.hotelthepalace.co.kr/",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "ホテルザパレス"
+    },
+    "text": "ホテルザパレス\\n\n大邱広域市南区利川路13\\n\n周りの環境が快適で空気も良く、美しい前山の景色を一目で見渡せます。交通が便利で、他の観光地への移動もしやすいです。",
+    "QA": [
+        {
+            "question": "ホテルザパレスはどこにありますか？",
+            "answer": "ホテルザパレスは大邱広域市南区利川路13にあります。"
+        },
+        {
+            "question": "ホテルザパレスの周りの環境はどうですか？",
+            "answer": "ホテルザパレスの周りの環境は快適で空気も良く、美しい前山の景色を一目で見渡せます。"
+        },
+        {
+            "question": "ホテルザパレスの交通の便はどうですか？",
+            "answer": "ホテルザパレスの交通は便利で、他の観光地への移動もしやすいです。"
+        }
+    ],
+    "word_Count": {
+        "text": 60,
+        "QA": 113
+    }
+}

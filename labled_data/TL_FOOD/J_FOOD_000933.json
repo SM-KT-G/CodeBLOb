@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_000933",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/1973banhalmantteok",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "1973 バンハルマントク"
+    },
+    "text": "1973 バンハルマントク\\n\n京畿道 スウォン市 ヨントン区 セントゥロルパクロ 6\\n\n韓国の代表的な屋台メニューのトッポッキをお楽しみいただけます。おすすめはトッポッキです。京畿道のクァンギョ・ホスゴンウォンに位置したトッポッキ専門店です。",
+    "QA": [
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "この店は京畿道スウォン市ヨントン区にあります。"
+        },
+        {
+            "question": "この店の特産メニューは何ですか？",
+            "answer": "この店の特産メニューはトッポッキです。"
+        },
+        {
+            "question": "この店のおすすめは何ですか？",
+            "answer": "この店のおすすめはトッポッキです。"
+        },
+        {
+            "question": "この店の所在地はどこですか？",
+            "answer": "この店は韓国の京畿道スウォン市ヨントン区に位置しています。"
+        },
+        {
+            "question": "この店はどんな料理を提供していますか？",
+            "answer": "この店では韓国の代表的な屋台メニューのトッポッキを提供しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 90,
+        "QA": 144
+    }
+}

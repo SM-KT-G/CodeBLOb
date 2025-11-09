@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_015539",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://apis.data.go.kr/1400000/service/cultureInfoService2/mntInfoOpenAPI2",
+        "collectedDate": "2023-11-22",
+        "publishedDate": "2020-12-01",
+        "domain": "자연관광",
+        "title": "새암산"
+    },
+    "text": "鳥岩山 (새암산)\\n\n慶尚南道咸陽郡水東面内白里\\n\n山の高さ : 556.3m , 咸陽郡水東面の561mの低い山で、乗鞍山と共に3つの村を抱いている。 山の形は緩やかで、ブドウ、マツタケ、リンゴなど林産物の栽培地域として活用される。",
+    "QA": [
+        {
+            "question": "鳥岩山はどこにありますか？",
+            "answer": "鳥岩山は慶尚南道咸陽郡水東面内白里にあります。"
+        },
+        {
+            "question": "鳥岩山の高さは何メートルですか？",
+            "answer": "鳥岩山の高さは556.3メートルです。"
+        },
+        {
+            "question": "鳥岩山はどのような形をしていますか？",
+            "answer": "鳥岩山は緩やかな形をしています。"
+        },
+        {
+            "question": "鳥岩山はどのように活用されていますか？",
+            "answer": "鳥岩山は林産物の栽培地域として活用されており、ブドウ、マツタケ、リンゴなどが栽培されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 87,
+        "QA": 125
+    }
+}

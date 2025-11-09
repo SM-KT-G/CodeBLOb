@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_012074",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42080&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "하슬라 아트월드 뮤지엄 호텔 운영 정책"
+    },
+    "text": "チェックインは午後3時以降から可能で、チェックアウトは午前11時以前にお願いします。 朝食は1人当たり15,000ウォンの追加費用が発生し、駐車及びWi-Fiは無料で利用できます。 追加費用は当日現地にてお支払いいただく必要があり、宿泊客に限り美術館割引券を30%提供いたします。 入室のご利用時間はチェックイン以降となっております。 .",
+    "QA": [
+        {
+            "question": "チェックインは何時から可能ですか？",
+            "answer": "チェックインは午後3時以降から可能です。"
+        },
+        {
+            "question": "チェックアウトは何時までですか？",
+            "answer": "チェックアウトは午前11時までです。"
+        },
+        {
+            "question": "朝食の追加費用はいくらですか？",
+            "answer": "朝食は1人当たり15,000ウォンの追加費用がかかります。"
+        },
+        {
+            "question": "駐車とWi-Fiは無料ですか？",
+            "answer": "はい、駐車とWi-Fiは無料で利用できます。"
+        },
+        {
+            "question": "美術館割引券はどのように利用できますか？",
+            "answer": "追加費用は当日現地にてお支払いいただく必要があり、宿泊客に限り美術館割引券を30%提供いたします。"
+        },
+        {
+            "question": "入室の利用時間は何時からですか？",
+            "answer": "入室の利用時間はチェックイン以降となっております。"
+        }
+    ],
+    "word_Count": {
+        "text": 123,
+        "QA": 192
+    }
+}

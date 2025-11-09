@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_025452",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2020-04-09",
+        "domain": "숙박",
+        "title": "蔚山ホテル（울산호텔）"
+    },
+    "text": "蔚山ホテル（울산호텔）\\n\n蔚山広域市 南区 斗旺路333\\n\n蔚山市内中心部に位置する蔚山ホテルは、蔚山の象徴である工業塔付近に立地しており、市庁、裁判所などの他、主要な公共機関が近くにあります。蔚山空港から車で15分ほどでアクセスが可能で、ビジネスでの利用客が多いホテルです。",
+    "QA": [
+        {
+            "question": "蔚山ホテルはどこにありますか？",
+            "answer": "蔚山ホテルは蔚山広域市南区の斗旺路333に位置しています。"
+        },
+        {
+            "question": "蔚山ホテルの周辺にはどのような公共機関がありますか？",
+            "answer": "蔚山ホテルの周辺には市庁や裁判所などの主要な公共機関があります。"
+        },
+        {
+            "question": "蔚山ホテルへのアクセス方法はありますか？",
+            "answer": "蔚山ホテルへは蔚山空港から車で約15分ほどでアクセスすることができます。"
+        },
+        {
+            "question": "蔚山ホテルはどのような客層が多いですか？",
+            "answer": "蔚山ホテルはビジネスでの利用客が多いホテルです。"
+        }
+    ],
+    "word_Count": {
+        "text": 102,
+        "QA": 148
+    }
+}

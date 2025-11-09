@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001727",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-06",
+        "domain": "음식점",
+        "title": "HANILKWAN 永登浦 ( 한일관 영등포 )"
+    },
+    "text": "HANILKWAN 永登浦 ( 한일관 영등포 )\\n\nソウル特別市 永登浦区 ヨンジュンロ15\\n\n家族連れの外食だけでなく、会社員もよく訪れる店です。 ソウル特別市のヨンドゥンポ区に位置した韓食専門店です。おすすめはプルゴギです。",
+    "QA": [
+        {
+            "question": "このレストランの場所はどこですか？",
+            "answer": "このレストランはソウル特別市のヨンドゥンポ区に位置しています。"
+        },
+        {
+            "question": "このレストランではどのような料理がオススメですか？",
+            "answer": "このレストランではプルゴギがオススメです。"
+        },
+        {
+            "question": "このレストランは家族連れに人気ですか？",
+            "answer": "はい、このレストランは家族連れの方々にも人気があります。"
+        },
+        {
+            "question": "このレストランは会社員によく利用されますか？",
+            "answer": "はい、このレストランは会社員の方々にもよく利用されます。"
+        }
+    ],
+    "word_Count": {
+        "text": 85,
+        "QA": 140
+    }
+}

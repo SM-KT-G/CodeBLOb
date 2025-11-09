@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_023656",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-06-23",
+        "domain": "음식점",
+        "title": "順興伝統ムクチプ（순흥전통묵집）"
+    },
+    "text": "順興伝統ムクチプ（순흥전통묵집）慶尚北道 栄州市 順興面 順興路39番キル21\\n\n「順興伝統（スヌンジョントン）ムクチプ」では、昔から伝統的に伝わっている方法でそば粉こんにゃく（メミルムク）をつくります。こんにゃく（ムク）本来の味と酢飯が混ざり合って生まれる味は絶品です。",
+    "QA": [
+        {
+            "question": "順興伝統ムクチプはどこにありますか？",
+            "answer": "順興伝統ムクチプは慶尚北道栄州市順興面順興路39番キル21にあります。"
+        },
+        {
+            "question": "順興伝統ムクチプでは何を作りますか？",
+            "answer": "順興伝統ムクチプではそば粉こんにゃく（メミルムク）を作ります。"
+        },
+        {
+            "question": "そば粉こんにゃく（メミルムク）の味はどんな感じですか？",
+            "answer": "そば粉こんにゃく（メミルムク）の味は、こんにゃく（ムク）本来の味と酢飯が混ざり合って生まれる絶品の味です。"
+        }
+    ],
+    "word_Count": {
+        "text": 100,
+        "QA": 133
+    }
+}

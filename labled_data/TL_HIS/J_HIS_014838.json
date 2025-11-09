@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_014838",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=506&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=01740000&ccbaCtcd=34&ccbaCpno=2113401740000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2003-10-30",
+        "domain": "문화/역사관광",
+        "title": "예산대흥동헌및아문"
+    },
+    "text": "礼山大興洞軒及び阿門 (예산대흥동헌및아문)\\n\n忠清南道礼山郡大興面東西里106-1番地\\n\n朝鮮太宗7年(1407) , 忠清南道有形文化財 , 大興東軒は朝鮮初期の太宗7年(1407)に創建され、1914年に大興面事務所に改造して使われ1979年解体復元整備された。 大興東軒は基本構造がよく残っており、礼山地域に現存している唯一の官衙建物であり、1405年に建設された大興郷校と共に大興地域の歴史を証明する建築物として歴史的·建築学的保存価値がある。",
+    "QA": [
+        {
+            "question": "大興洞軒及び阿門は何時に創建されましたか？",
+            "answer": "大興東軒は朝鮮初期の太宗7年(1407)に創建されました。"
+        },
+        {
+            "question": "大興洞軒は何年に解体復元整備されましたか？",
+            "answer": "大興東軒は1979年に解体復元整備されました。"
+        },
+        {
+            "question": "大興洞軒はどの地域に現存している唯一の官衙建物ですか？",
+            "answer": "大興東軒は礼山地域に現存している唯一の官衙建物です。"
+        },
+        {
+            "question": "大興洞軒と大興郷校は大興地域の何を証明する建築物ですか？",
+            "answer": "大興東軒と大興郷校は大興地域の歴史を証明する建築物です。"
+        }
+    ],
+    "word_Count": {
+        "text": 167,
+        "QA": 148
+    }
+}

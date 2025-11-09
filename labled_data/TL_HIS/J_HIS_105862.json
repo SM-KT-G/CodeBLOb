@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_105862",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=964&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=00130000&ccbaCtcd=22&ccbaCpno=3412200130000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1984-07-25",
+        "domain": "문화/역사관광",
+        "title": "첨백당"
+    },
+    "text": "尖白糖\\n\n大邱東区平光洞970番地\\n\n大邱広域市文化財資料、ウヒョジュンの孝行とウミョン式の忠誠心を称えて、グヮンリに居住する丹陽(タンヤン)禹氏らの教育のために立てた建物である。チョムベクダンイラは名前はウミョン式先生の墓がある''ベクバッゴールを仰ぐ家''という意味で付けた名前だ。高宗33年(1896)に建てられ、1924年新たに直したことがある。屋根は側面から見ると、人の教わる字形の切妻屋根で、家の中には板の間があるが、両方の縁側より高いと置いているのが特徴だ。縁側には欄干を上品に巻いておいた。",
+    "QA": [
+        {
+            "question": "この建物は誰が建てたのですか？",
+            "answer": "ウヒョジュンの孝行とウミョン式の忠誠心を称えて、グヮンリに居住する丹陽(タンヤン)禹氏らの教育のために建てられました。"
+        },
+        {
+            "question": "この建物はいつ建てられましたか？",
+            "answer": "高宗33年(1896)に建てられ、1924年に新たに直されました。"
+        },
+        {
+            "question": "この建物の屋根の形はどのような形ですか？",
+            "answer": "側面から見ると、人の教わる字形の切妻屋根です。"
+        },
+        {
+            "question": "建物の中にはどのような特徴がありますか？",
+            "answer": "家の中には板の間がありますが、両方の縁側よりも高いと置いているのが特徴です。"
+        },
+        {
+            "question": "縁側には何が上品に巻かれていますか？",
+            "answer": "縁側には欄干を上品に巻いておかれています。"
+        }
+    ],
+    "word_Count": {
+        "text": 187,
+        "QA": 192
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_013868",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "マッドゥリムギムバブレンドゥ（맛드림김밥랜드）"
+    },
+    "text": "マッドゥリムギムバブレンドゥ（맛드림김밥랜드）\\n\n全羅南道 順天市 八馬路 128\\n\n全羅南道のスンチョン市に位置した韓食です。代表的なメニューは黒米キンパプです。KTX順天駅の近くにあります。",
+    "QA": [
+        {
+            "question": "マッドゥリムギムバブレンドゥはどこにありますか？",
+            "answer": "マッドゥリムギムバブレンドゥは全羅南道の順天市八馬路128番地に位置しています。"
+        },
+        {
+            "question": "マッドゥリムギムバブレンドゥの代表的なメニューは何ですか？",
+            "answer": "マッドゥリムギムバブレンドゥの代表的なメニューは黒米キンパプです。"
+        },
+        {
+            "question": "マッドゥリムギムバブレンドゥはKTX順天駅の近くにありますか？",
+            "answer": "はい、マッドゥリムギムバブレンドゥはKTX順天駅の近くにあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 72,
+        "QA": 139
+    }
+}

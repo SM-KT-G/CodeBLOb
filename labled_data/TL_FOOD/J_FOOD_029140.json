@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_029140",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-06",
+        "domain": "음식점",
+        "title": "咸鏡道もち米スンデ ( 함경도찹쌀순대 )"
+    },
+    "text": "咸鏡道もち米スンデ ( 함경도찹쌀순대 )\\n\nソウル特別市 松坡区 ソンパデロ28ギル32\\n\n咸鏡道式のもち米スンデが入ったスンデスープの名店です。おすすめはスンデです。ソウル特別市のソンパ区に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "この店の住所はどこですか？",
+            "answer": "ソウル特別市 松坡区 ソンパデロ28ギル32"
+        },
+        {
+            "question": "この店はどんな料理を提供していますか？",
+            "answer": "咸鏡道式のもち米スンデが入ったスンデスープがおすすめです。"
+        },
+        {
+            "question": "この店のおすすめメニューは何ですか？",
+            "answer": "おすすめはスンデです。"
+        },
+        {
+            "question": "この店はどの地域の料理専門店ですか？",
+            "answer": "咸鏡道（ハムギョンド）の料理専門店です。"
+        },
+        {
+            "question": "この店はどの区に位置していますか？",
+            "answer": "ソウル特別市のソンパ区に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 81,
+        "QA": 137
+    }
+}

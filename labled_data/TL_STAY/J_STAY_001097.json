@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_001097",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/goods/GN0002027731?startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0%5E&npprmaxsort=min",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "양산 석산 버튼"
+    },
+    "text": "2019年7月に新築されたGRANDホテルがオープンしました。 新しい建物と客室でお客様をお迎えします。 新築オープンで施設は最上に用意されており、清潔度も最高レベルです。 ホテル内のすべての施設は完璧な状態で維持されています。 ただし、オンシーズンと特定日、祝日(前日含む)には料金が変わる場合があります。 この点にご注意ください。",
+    "QA": [
+        {
+            "question": "GRANDホテルはいつオープンしましたか？",
+            "answer": "GRANDホテルは2019年7月にオープンしました。"
+        },
+        {
+            "question": "GRANDホテルの施設はどのような状態ですか？",
+            "answer": "GRANDホテルの施設は最上の状態で維持されており、清潔度も最高レベルです。"
+        },
+        {
+            "question": "料金はいつ変わりますか？",
+            "answer": "料金はオンシーズンと特定日、祝日(前日含む)に変わる場合があります。"
+        },
+        {
+            "question": "GRANDホテルの施設はどのようなものがありますか？",
+            "answer": "GRANDホテルの施設は最上に用意されており、すべての施設が完璧な状態で維持されています。"
+        },
+        {
+            "question": "GRANDホテルの客室は新しいですか？",
+            "answer": "はい、GRANDホテルの客室は新築されたものです。"
+        }
+    ],
+    "word_Count": {
+        "text": 122,
+        "QA": 197
+    }
+}

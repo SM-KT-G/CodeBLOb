@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_018267",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1133&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=03740000&ccbaCtcd=34&ccbaCpno=3413403740000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2000-09-20",
+        "domain": "문화/역사관광",
+        "title": "보령백운사부도"
+    },
+    "text": "保寧白雲寺府道 (보령백운사부도)\\n\n忠清南道保寧市星州面星州里山35番地\\n\n朝鮮後期 , 忠清南道文化財資料 , ◦ 浮屠とは僧侶たちの舎利を祀った仏教造形物で、僧塔とも呼ばれる。 ◦ この白雲寺の浮屠は正面に浄蓮堂という銘文があり、主人公が白雲寺で修道中に入寂した浄蓮堂僧侶であることを知らせており、地台石を含めて高さが約170cm程度で比較的規模が大きい。 ◦ 石鐘型の様式で表現された点と、塔身石(胴体)に主人公の名前を刻んだ点で朝鮮後期の浮屠の両詩を表現しており、特に相輪部の宝珠が二重になった特異性と前面を平らにした形式、比較的バランスの取れた形態が忠清南道地域でそれほど多くない例と見られる特徴です。",
+    "QA": [
+        {
+            "question": "この白雲寺府道はどこにありますか？",
+            "answer": "保寧白雲寺府道は、忠清南道保寧市星州面星州里山35番地に位置しています。"
+        },
+        {
+            "question": "浮屠とはどのようなものですか？",
+            "answer": "浮屠は、僧侶たちの舎利を祀った仏教造形物であり、僧塔とも呼ばれています。"
+        },
+        {
+            "question": "この白雲寺の浮屠はどのような特徴がありますか？",
+            "answer": "白雲寺の浮屠は、石鐘型の様式で表現されており、塔身石に主人公の名前が刻まれています。また、相輪部の宝珠が二重になった特異性や前面を平らにした形式、バランスの取れた形態が見られる特徴があります。"
+        },
+        {
+            "question": "この浮屠の高さはどのくらいですか？",
+            "answer": "この浮屠の高さは約170cm程度で、比較的大きな規模です。"
+        },
+        {
+            "question": "浄蓮堂という銘文は何を意味していますか？",
+            "answer": "浄蓮堂という銘文は、白雲寺で修道中に入寂した浄蓮堂僧侶であることを示しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 226,
+        "QA": 241
+    }
+}

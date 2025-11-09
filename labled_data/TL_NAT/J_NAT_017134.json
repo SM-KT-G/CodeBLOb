@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_017134",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://apis.data.go.kr/1400000/service/cultureInfoService2/mntInfoOpenAPI2",
+        "collectedDate": "2023-11-22",
+        "publishedDate": "2020-12-01",
+        "domain": "자연관광",
+        "title": "칠봉산"
+    },
+    "text": "七峰山 (칠봉산)\\n\n忠清南道公州市炭川面大鶴里\\n\n山の高さ : 227.7m , 峰が7つあることから七峰山と由来している。 東に臨川峠を越えて仙岩山と雲岩山につながり、西に十里山、南に平安山、北には白雲山がある。",
+    "QA": [
+        {
+            "question": "七峰山の高さは何メートルですか？",
+            "answer": "七峰山の高さは227.7メートルです。"
+        },
+        {
+            "question": "七峰山は何峰ありますか？",
+            "answer": "七峰山には峰が7つあります。"
+        },
+        {
+            "question": "七峰山はどのような山ですか？",
+            "answer": "七峰山は東に臨川峠を越えて仙岩山と雲岩山につながり、西に十里山、南に平安山、北には白雲山がある山です。"
+        }
+    ],
+    "word_Count": {
+        "text": 80,
+        "QA": 92
+    }
+}

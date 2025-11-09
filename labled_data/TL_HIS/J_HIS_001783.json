@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_001783",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101933",
+        "collectedDate": "2023-10-06",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "온산역"
+    },
+    "text": "オンサンヨク \\n\nオンサン駅(Onsan station, 温山駅)は蔚山広域市蔚州郡温山邑に位置する温山線の鉄道駅だ。 オンサンの終点であり、オンサン内にある。 この駅は旅客扱いをしない貨物取扱専用駅であり、油類貨物を主に取り扱う。\\n\n",
+    "QA": [
+        {
+            "question": "オンサン駅はどこに位置していますか？",
+            "answer": "オンサン駅は蔚山広域市蔚州郡温山邑に位置しています。"
+        },
+        {
+            "question": "オンサン駅はどんな駅ですか？",
+            "answer": "オンサン駅は貨物取扱専用駅であり、油類貨物を主に取り扱っています。"
+        },
+        {
+            "question": "オンサン駅は温山線のどの駅ですか？",
+            "answer": "オンサン駅は温山線の終点です。"
+        },
+        {
+            "question": "オンサン駅は旅客扱いをしていますか？",
+            "answer": "オンサン駅は旅客扱いをしていません。"
+        }
+    ],
+    "word_Count": {
+        "text": 88,
+        "QA": 116
+    }
+}

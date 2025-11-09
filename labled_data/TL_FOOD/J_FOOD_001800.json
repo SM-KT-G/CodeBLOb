@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001800",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-12",
+        "domain": "음식점",
+        "title": "kimbapnara 枇杷 ( 김밥나라 비파 )"
+    },
+    "text": "kimbapnara 枇杷 \\n\n全羅南道 モクポ市 ビパロ105\\n\n様々な種類のキンパプが味わえる店です。おすすめはキンパプです。全羅南道のモクポ市に位置したその他のキンパプ専門店です。",
+    "QA": [
+        {
+            "question": "この店の名前は何ですか？",
+            "answer": "この店の名前は「枇杷（びわ）」です。"
+        },
+        {
+            "question": "この店はどこにありますか？",
+            "answer": "この店は全羅南道のモクポ市に位置しています。"
+        },
+        {
+            "question": "この店では何が味わえますか？",
+            "answer": "この店では様々な種類のキンパプが味わえます。"
+        },
+        {
+            "question": "この店のおすすめは何ですか？",
+            "answer": "この店のおすすめはキンパプです。"
+        },
+        {
+            "question": "この店はキンパプ専門店ですか？",
+            "answer": "はい、この店はキンパプ専門店です。"
+        }
+    ],
+    "word_Count": {
+        "text": 69,
+        "QA": 119
+    }
+}

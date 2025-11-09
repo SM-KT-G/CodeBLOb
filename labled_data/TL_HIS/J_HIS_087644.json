@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_087644",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=357&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=18&ccbaAsno=02270000&ccbaCtcd=37&ccbaCpno=1483702270000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1991-08-26",
+        "domain": "문화/역사관광",
+        "title": "안동 후조당 종택"
+    },
+    "text": "朝鮮宣祖時代の文官フチョダンキムブピルが建てた別棟の建物に、本来は礼安面五川洞に位置したが、安東(アンドン)ダム建設によって1974年にここに移転された。光山金氏イェアンパ宗宅に属する別棟として、宗宅は別棟、定針、祠堂、斎舎、倉庫などで構成されている。建物は側面が八の字型の入母屋造りであり、前面は4間、側面は2間の一字型に右に2間の床や部屋を付け加えて、大規模の別棟だ。定針左の塀の中におり、ヒョプムングヮの正門を備えて左側には祠堂に通じる新聞がある。\"フチョダン\"の扁額は退渓李滉の字であり、別棟内部には古書や文集類、戸籍、教旨、土地文書、奴婢文書、書簡類など多様な典籍類が発見された。",
+    "QA": [
+        {
+            "question": "この別棟を建てたフチョダンキムブピルはどの時代の文官でしたか？",
+            "answer": "宣祖時代の文官であるフチョダンキムブピルが建てました。"
+        },
+        {
+            "question": "別棟は元々どこに位置していましたか？",
+            "answer": "別棟は礼安面五川洞に位置していましたが、1974年に安東(アンドン)ダム建設によってここに移転されました。"
+        },
+        {
+            "question": "別棟の建物はどのような形状ですか？",
+            "answer": "別棟の建物は側面が八の字型の入母屋造りであり、前面は4間、側面は2間の一字型に右に2間の床や部屋を付け加えて、大規模の別棟です。"
+        },
+        {
+            "question": "別棟内部には何が見つかりましたか？",
+            "answer": "別棟内部には古書や文集類、戸籍、教旨、土地文書、奴婢文書、書簡類など多様な典籍類が発見されました。"
+        },
+        {
+            "question": "別棟の定針左の塀の中には何がありますか？",
+            "answer": "定針左の塀の中にはヒョプムングヮの正門を備えて左側には祠堂に通じる新聞があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 216,
+        "QA": 247
+    }
+}

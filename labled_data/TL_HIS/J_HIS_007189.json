@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_007189",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=854&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=01230000&ccbaCtcd=37&ccbaCpno=2333701230000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1997-12-01",
+        "domain": "문화/역사관광",
+        "title": "경산자인의계정숲"
+    },
+    "text": "慶山慈仁の鶏井森 (경산자인의계정숲)\\n\n慶尚北道慶山市慈仁面西部里68番地の他12筆地\\n\n慶尚北道記念物 , 慶山慈仁の桂亭森は丘陵地に残っている天然の森で、慶尚北道はもちろん韓国でも珍しい自然の森だ。 現在、森はヒトツバタゴが主種を成し、マルチェの木、ケヤキ、クヌギなどが一緒に育っている。 桂亭森の中には韓将軍の墓と祠堂、韓将軍遊び伝授会館があり、朝鮮時代の伝統官衙である慈仁県庁の本館が保存されている。 慶山慈仁の桂亭森は過去慶山市一帯にどんな木々があったかを物語る自然遺跡地であり、私たちの先祖の自然愛と保護の思想を垣間見ることができる森だ。 また、韓国では珍しい天然森として記念物に指定し保護している。",
+    "QA": [
+        {
+            "question": "桂亭森はどこに位置していますか？",
+            "answer": "桂亭森は慶尚北道慶山市慈仁面西部里68番地の他12筆地に位置しています。"
+        },
+        {
+            "question": "桂亭森はどのような森ですか？",
+            "answer": "桂亭森は丘陵地に残っている天然の森で、ヒトツバタゴを主種とし、マルチェの木、ケヤキ、クヌギなどが一緒に育っています。"
+        },
+        {
+            "question": "桂亭森にはどのような建物や施設がありますか？",
+            "answer": "桂亭森には韓将軍の墓と祠堂、韓将軍遊び伝授会館、そして朝鮮時代の伝統官衙である慈仁県庁の本館があります。"
+        },
+        {
+            "question": "なぜ桂亭森は記念物に指定されているのですか？",
+            "answer": "桂亭森は韓国でも珍しい天然の森であり、慶山市一帯にどんな木々があったかを物語る自然遺跡地です。また、先祖の自然愛と保護の思想を垣間見ることができる森です。そのため、記念物に指定されて保護されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 226,
+        "QA": 234
+    }
+}

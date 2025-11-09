@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_028232",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42070&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "충주 통나무2펜션"
+    },
+    "text": "忠州丸太2ペンションでは、様々なゴルフ場が周辺に位置し、ゴルフを楽しむのに最適な場所です。 また、ペンション内部には広い部屋があり、家族や同窓会を開くのにも良いです。 夕食をご希望でしたら、すぐ隣にあるレストランでおいしい食べ物をお楽しみいただけます。 でも、ペンションのチェックイン時間は22時以降は予めご連絡ください。",
+    "QA": [
+        {
+            "question": "忠州丸太2ペンションはどのようなゴルフ場に位置していますか？",
+            "answer": "忠州丸太2ペンションは周辺に様々なゴルフ場が位置しており、ゴルフを楽しむのに最適な場所です。"
+        },
+        {
+            "question": "忠州丸太2ペンションの部屋は広いですか？",
+            "answer": "忠州丸太2ペンションの内部には広い部屋がありますので、家族や同窓会を開くのにも良いです。"
+        },
+        {
+            "question": "夕食を希望する場合、どこで食事をすることができますか？",
+            "answer": "忠州丸太2ペンションのすぐ隣にあるレストランでおいしい食事をお楽しみいただけます。"
+        },
+        {
+            "question": "ペンションのチェックイン時間は何時ですか？",
+            "answer": "ペンションのチェックイン時間は22時以降の場合は予めご連絡ください。"
+        }
+    ],
+    "word_Count": {
+        "text": 118,
+        "QA": 192
+    }
+}

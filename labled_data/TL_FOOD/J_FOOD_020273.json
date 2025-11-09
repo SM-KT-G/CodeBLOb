@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_020273",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-06",
+        "domain": "음식점",
+        "title": "馬山アンコウの蒸し物 ( 마산아구찜 )"
+    },
+    "text": "馬山アンコウの蒸し物 ( 마산아구찜 )\\n\nソウル特別市 瑞草区 カンナムデロ99ギル9\\n\n新沙洞アグチム通りに位置しているアグチム(アンコウの煮物)を出前する名店です。ソウル特別市のソチョ区に位置した韓食専門店です。おすすめはアンコウの蒸し物です。",
+    "QA": [
+        {
+            "question": "馬山アンコウの蒸し物はどこで食べることができますか？",
+            "answer": "ソウル特別市 瑞草区 カンナムデロ99ギル9の新沙洞アグチム通りに位置しているアグチム(アンコウの煮物)の名店で食べることができます。"
+        },
+        {
+            "question": "ソウル特別市のどの区に位置している韓食専門店ですか？",
+            "answer": "ソウル特別市のソチョ区に位置しています。"
+        },
+        {
+            "question": "アグチム(アンコウの煮物)のおすすめは何ですか？",
+            "answer": "おすすめはアンコウの蒸し物です。"
+        }
+    ],
+    "word_Count": {
+        "text": 93,
+        "QA": 131
+    }
+}

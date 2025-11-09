@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_005885",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-08-27",
+        "domain": "음식점",
+        "title": "コッパベピダ ( 꽃밥에피다 )"
+    },
+    "text": "コッパベピダ ( 꽃밥에피다 )\\n\nソウル特別市 鐘路区 インサドン16ギル3-6\\n\nミシュランガイド2021に選定された店です。おすすめはビビンバです。ソウル特別市のジョンノ区に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "このレストランの場所はどこですか？",
+            "answer": "このレストランはソウル特別市鐘路区インサドン16ギル3-6に位置しています。"
+        },
+        {
+            "question": "このレストランはミシュランガイド2021に選定されましたか？",
+            "answer": "はい、このレストランはミシュランガイド2021に選定されました。"
+        },
+        {
+            "question": "このレストランのおすすめ料理は何ですか？",
+            "answer": "このレストランのおすすめはビビンバです。"
+        },
+        {
+            "question": "このレストランは韓食専門店ですか？",
+            "answer": "はい、このレストランは韓食専門店です。"
+        },
+        {
+            "question": "このレストランはどの区に位置していますか？",
+            "answer": "このレストランはソウル特別市のジョンノ区に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 76,
+        "QA": 178
+    }
+}

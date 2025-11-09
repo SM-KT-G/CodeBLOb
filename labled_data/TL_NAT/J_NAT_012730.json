@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_012730",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1187&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=06780000&ccbaCtcd=37&ccbaCpno=3413706780000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2019-11-14",
+        "domain": "자연관광",
+        "title": "안동 한천정사"
+    },
+    "text": "安東寒天精舎 (안동 한천정사)\\n\n慶尚北道安東市釜浦路12-3(礼安面、寒天精舎)\\n\n朝鮮時代 , 慶尚北道文化財資料 , 安東寒天精舎は造成堂のキム·テクリョンを祀る祠堂および精舎の機能をしているが、既存に祠堂の機能をしていた寒天寺が撤去され1910年寒天精舎を現在の位置に移建して祠堂および精舎用途に使用している。 現在、室内に遺影2基を祀り、一部の空間を祠堂として使用している点は独特だ。 キム·テクリョンは退渓学派であるチョ·モクの弟子で、臨蘭以後農耕を奨励して民を定着させ、郷村を教化し後進を養成した地域の主要人物だ。 精舎はキム·テクリョン関連文集と日記などがある空間として価値があり、周辺景観と講学の他に祭祀および祭祀など機能の多様性を示している。",
+    "QA": [
+        {
+            "question": "安東寒天精舎は何のために使用されていましたか？",
+            "answer": "安東寒天精舎は祠堂および精舎の機能をしていました。"
+        },
+        {
+            "question": "寒天寺はなぜ撤去されましたか？",
+            "answer": "寒天寺は既存に祠堂の機能をしていたため、撤去されました。"
+        },
+        {
+            "question": "キム・テクリョンはどのような人物ですか？",
+            "answer": "キム・テクリョンは退渓学派であるチョ・モクの弟子であり、地域の主要人物でした。"
+        },
+        {
+            "question": "安東寒天精舎にはどのような価値がありますか？",
+            "answer": "安東寒天精舎にはキム・テクリョン関連文集と日記などがある空間としての価値があります。"
+        },
+        {
+            "question": "安東寒天精舎はどのような機能を示していますか？",
+            "answer": "安東寒天精舎は祭祀や祭祀などの機能の多様性を示しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 244,
+        "QA": 195
+    }
+}

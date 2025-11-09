@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_022226",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2023-04-23",
+        "domain": "문화/역사관광",
+        "title": "성덕사"
+    },
+    "text": "聖徳寺 (성덕사)\\n\nソウル特別市中浪区ペンロ109-8\\n\n中華洞303-10番地にある聖徳寺は、1957年に800坪の敷地に新設された寺院です。 現在、住民の信仰生活と地域社会奉仕活動に役立っており、「兒冬至」の伝説がある。",
+    "QA": [
+        {
+            "question": "聖徳寺はどこにありますか？",
+            "answer": "聖徳寺はソウル特別市中浪区ペンロ109-8にあります。"
+        },
+        {
+            "question": "聖徳寺はいつ建てられましたか？",
+            "answer": "聖徳寺は1957年に建てられました。"
+        },
+        {
+            "question": "聖徳寺の敷地の大きさはどれくらいですか？",
+            "answer": "聖徳寺の敷地は800坪です。"
+        },
+        {
+            "question": "聖徳寺はどのような役割を果たしていますか？",
+            "answer": "聖徳寺は住民の信仰生活と地域社会奉仕活動に役立っています。"
+        },
+        {
+            "question": "聖徳寺にはどのような伝説がありますか？",
+            "answer": "聖徳寺には「兒冬至」という伝説があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 84,
+        "QA": 144
+    }
+}

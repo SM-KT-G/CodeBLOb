@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_090581",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2023-05-23",
+        "domain": "음식점",
+        "title": "예원_1"
+    },
+    "text": "芸苑 (예원)\\n\n大邱広域市北区元大路119\\n\n当店は本格的な中華料理専門店で、本格的な中華料理から爽やかなスープまで多彩な味が楽しめます。このレストランは、さまざまな集まりやパートナーとの接待にも適した高品格の場所です。",
+    "QA": [
+        {
+            "question": "芸苑の場所はどこですか？",
+            "answer": "芸苑は大邱広域市北区元大路119にあります。"
+        },
+        {
+            "question": "芸苑の料理はどのようなものがありますか？",
+            "answer": "芸苑では本格的な中華料理から爽やかなスープまで多彩な味が楽しめます。"
+        },
+        {
+            "question": "芸苑はどのような場所ですか？",
+            "answer": "芸苑はさまざまな集まりやパートナーとの接待にも適した高品格の場所です。"
+        }
+    ],
+    "word_Count": {
+        "text": 82,
+        "QA": 100
+    }
+}

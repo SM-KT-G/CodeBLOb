@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_001079",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/culture/sj-kunsthalle",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "SJ.KUNSTHALLE"
+    },
+    "text": "SJ.KUNSTHALLE\\n\nソウル特別市 江南区 論峴洞\\n\nSJ KUNSTHALLEは展示、公演、パーティー、パフォーマンス、ファッションショー、ワークショップなど日常生活の中の芸術プログラムを提供する文化芸術界の出会いの場所であり、討論の場所となるプラットフォームとしての役割をするために造られました。28のコンテイナで構成されたSJ KUNSTHALLEは既存のギャラリーでは表現できなかった多様な文化を自由に表現しようと最小のイテンリアで広い空間を提供しています。これによって芸術の多様性と創作的文化の実現空間として注目を集めています。",
+    "QA": [
+        {
+            "question": "SJ KUNSTHALLEはどのようなプログラムを提供していますか？",
+            "answer": "SJ KUNSTHALLEは展示、公演、パーティー、パフォーマンス、ファッションショー、ワークショップなど日常生活の中の芸術プログラムを提供しています。"
+        },
+        {
+            "question": "SJ KUNSTHALLEはどんな場所ですか？",
+            "answer": "SJ KUNSTHALLEはソウル特別市江南区に位置しています。"
+        },
+        {
+            "question": "SJ KUNSTHALLEは何で造られましたか？",
+            "answer": "SJ KUNSTHALLEは28のコンテイナで構成されており、多様な文化を自由に表現するために最小のイテンリアで広い空間を提供するために造られました。"
+        },
+        {
+            "question": "SJ KUNSTHALLEは注目を集めていますか？",
+            "answer": "SJ KUNSTHALLEは芸術の多様性と創作的文化の実現空間として注目を集めています。"
+        }
+    ],
+    "word_Count": {
+        "text": 201,
+        "QA": 244
+    }
+}

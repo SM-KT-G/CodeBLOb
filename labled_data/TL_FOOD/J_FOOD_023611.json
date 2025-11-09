@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_023611",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-08-27",
+        "domain": "음식점",
+        "title": "秀河洞 グランソウル ( 수하동 그랑서울 )"
+    },
+    "text": "秀河洞 グランソウル ( 수하동 그랑서울 )\\n\nソウル特別市 鐘路区 チョンロ33\\n\n韓牛の雌牛のみを使用しているコムタン専門店です。代表的なメニューはコムタンです。ソウル特別市のジョンノ区に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "このレストランの場所はどこですか？",
+            "answer": "このレストランはソウル特別市鐘路区チョンロ33に位置しています。"
+        },
+        {
+            "question": "このレストランの特徴的なメニューは何ですか？",
+            "answer": "このレストランの代表的なメニューはコムタンです。韓牛の雌牛のみを使用しています。"
+        },
+        {
+            "question": "このレストランの雰囲気はどのような感じですか？",
+            "answer": "このレストランは韓食専門店であり、落ち着いた雰囲気があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 81,
+        "QA": 121
+    }
+}

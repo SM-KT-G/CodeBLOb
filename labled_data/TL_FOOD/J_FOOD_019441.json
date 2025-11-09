@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_019441",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-03",
+        "domain": "음식점",
+        "title": "大村庵 ( 오무라안 )"
+    },
+    "text": "大村庵 ( 오무라안 )\\n\n江原道 ガンヌン市 ソンドクポナムロ188ボンギル27\\n\n毎日手作業でそばを打っている店です。江原道のガンヌン市に位置した和食専門店です。代表的なメニューはそばです。",
+    "QA": [
+        {
+            "question": "大村庵はどこに位置していますか？",
+            "answer": "大村庵は江原道のガンヌン市に位置しています。"
+        },
+        {
+            "question": "大村庵の代表的なメニューは何ですか？",
+            "answer": "大村庵の代表的なメニューはそばです。"
+        },
+        {
+            "question": "大村庵ではどのようにそばを作っていますか？",
+            "answer": "大村庵では毎日手作業でそばを打っています。"
+        }
+    ],
+    "word_Count": {
+        "text": 72,
+        "QA": 85
+    }
+}

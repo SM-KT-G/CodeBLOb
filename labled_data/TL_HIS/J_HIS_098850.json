@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_098850",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=912&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=24&ccbaAsno=00070000&ccbaCtcd=11&ccbaCpno=2441100070000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1977-03-17",
+        "domain": "문화/역사관광",
+        "title": "장교동한규설가옥"
+    },
+    "text": "韓圭卨の邸宅は、朝鮮後期ハンソンパンユンの居住地として知られている。この邸宅はもともと区長橋洞に位置していたが、国民大学で買い入れ、校内に移したものと知られている。この建物は1890年以前に建てられたものと推定され、移され、本来の姿を復元した。この邸宅は門の左右に位置した門屋、中文科の門屋、サイッダムなどを復元した。町はサランチェ、母屋、離れ、祠堂、そして光彩などがあり、広い大地に位置している。現在はこの邸宅が校内生活館として利用されている。母屋は表が6間、側面が2間の形態を持っているた字型建物だ。サランチェは表が4間、側面が2間半であり、屋根側面は入母屋屋根となっている。別棟は光彩と結ばれており、鉤型だ。祠堂は一般的な規模よりやや小さく作られた。",
+    "QA": [
+        {
+            "question": "韓圭卨の邸宅はどの時代に建てられたと推定されていますか？",
+            "answer": "1890年以前に建てられたと推定されています。"
+        },
+        {
+            "question": "韓圭卨の邸宅はどのような形態の建物がありますか？",
+            "answer": "門屋、中文科の門屋、サイッダム、町はサランチェ、母屋、離れ、祠堂、そして光彩などがあります。"
+        },
+        {
+            "question": "現在、韓圭卨の邸宅は何として利用されていますか？",
+            "answer": "現在はこの邸宅が校内生活館として利用されています。"
+        },
+        {
+            "question": "母屋の形態はどのようなものですか？",
+            "answer": "母屋は表が6間、側面が2間の形態を持っているた字型建物です。"
+        },
+        {
+            "question": "サランチェの形態はどのようなものですか？",
+            "answer": "サランチェは表が4間、側面が2間半であり、屋根側面は入母屋屋根となっています。"
+        },
+        {
+            "question": "祠堂はどのようなサイズのものですか？",
+            "answer": "祠堂は一般的な規模よりやや小さく作られたものです。"
+        }
+    ],
+    "word_Count": {
+        "text": 240,
+        "QA": 233
+    }
+}

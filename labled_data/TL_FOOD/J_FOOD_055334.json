@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_055334",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-03",
+        "domain": "음식점",
+        "title": "ソンボク食堂 ( 송복식당 )"
+    },
+    "text": "ソンボク食堂 ( 송복식당 )\\n\n江原道 ガンヌン市 グムソンロ14ボンギル5-2\\n\n様々なクッパが味わえる店です。おすすめはコチュジャンカルグクスです。江原道のガンヌン市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "ソンボク食堂はどこにありますか？",
+            "answer": "ソンボク食堂は江原道のガンヌン市に位置しています。"
+        },
+        {
+            "question": "ソンボク食堂のおすすめは何ですか？",
+            "answer": "ソンボク食堂のおすすめはコチュジャンカルグクスです。"
+        },
+        {
+            "question": "ソンボク食堂では何のクッパが味わえますか？",
+            "answer": "ソンボク食堂では様々なクッパが味わえます。"
+        }
+    ],
+    "word_Count": {
+        "text": 74,
+        "QA": 92
+    }
+}

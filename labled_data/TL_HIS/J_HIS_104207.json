@@ -1,0 +1,51 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_104207",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=608&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=03500000&ccbaCtcd=38&ccbaCpno=2113803500000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2000-01-31",
+        "domain": "문화/역사관광",
+        "title": "진주성전암목조여래좌상"
+    },
+    "text": "朝鮮時代の仁祖22年(1644)慶尚南道有形文化財であるソンチョンアム大雄殿に安置されたこの如来像は木で作られた小さな仏像である。この仏像は頭で髷の形と玉がついており、着た閉じた姿だ。裾は、両方の肩にわたって流れ落ちて手の形は阿弥陀如来のハプムハセンインを演出した。仏像を作る時に残した記録と経典などが発見されたが、この記録によると、この仏像は朝鮮時代の仁祖22年(1644)に造成されたという。したがって、この仏像は朝鮮中期の仏像を研究する上で重要な資料だ。ソンチョンアムは新羅・憲康王5年(879)に導線国師が創建した寺として知られている。導線はここを'成人が住んでいたところ'という意味で'ソンチョンアム'という名前をつけたが、ここに避難した仁祖が王位に登った時、ここにインチョガクを立てた。現在もソンチョンアムは、祭享を上げている寺として知られている。",
+    "QA": [
+        {
+            "question": "この如来像はどこに安置されていますか？",
+            "answer": "この如来像は慶尚南道にあるソンチョンアム大雄殿に安置されています。"
+        },
+        {
+            "question": "この如来像はいつ作られましたか？",
+            "answer": "この如来像は朝鮮時代の仁祖22年(1644)に造成されました。"
+        },
+        {
+            "question": "この如来像を作る際に用いられた材料は何ですか？",
+            "answer": "この如来像は木で作られています。"
+        },
+        {
+            "question": "この如来像を作る際に残された記録によると、どのような意図で作られたのですか？",
+            "answer": "この如来像は阿弥陀如来のハプムハセンインを演出するために作られました。"
+        },
+        {
+            "question": "ソンチョンアムはいつ創建されましたか？",
+            "answer": "ソンチョンアムは新羅・憲康王5年(879)に導線国師が創建した寺として知られています。"
+        },
+        {
+            "question": "ソンチョンアムの名前の由来は何ですか？",
+            "answer": "ソンチョンアムの名前は導線によって'成人が住んでいたところ'という意味でつけられました。"
+        },
+        {
+            "question": "現在のソンチョンアムはどのような活動を行っていますか？",
+            "answer": "現在のソンチョンアムは祭享を上げている寺として知られています。"
+        }
+    ],
+    "word_Count": {
+        "text": 278,
+        "QA": 288
+    }
+}

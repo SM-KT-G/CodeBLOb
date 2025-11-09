@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_003111",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "ウォルチュル食堂 ( 월출식당 )"
+    },
+    "text": "ウォルチュル食堂 ( 월출식당 )\n全羅南道 モクポ市 サムガクロ35\n韓国の川に生息する韓国産ウナギだけを使っている店です。全羅南道のモクポ市に位置した韓食専門店です。おすすめはウナギスープです。",
+    "QA": [
+        {
+            "question": "ウォルチュル食堂はどこに位置していますか？",
+            "answer": "ウォルチュル食堂は韓国の全羅南道モクポ市に位置しています。"
+        },
+        {
+            "question": "ウォルチュル食堂のおすすめ料理は何ですか？",
+            "answer": "ウォルチュル食堂のおすすめ料理はウナギスープです。"
+        },
+        {
+            "question": "ウォルチュル食堂はどのような食材を使っていますか？",
+            "answer": "ウォルチュル食堂は韓国産ウナギを使っています。"
+        }
+    ],
+    "word_Count": {
+        "text": 72,
+        "QA": 105
+    }
+}

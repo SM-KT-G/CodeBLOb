@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_050350",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=746&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=22&ccbaAsno=00430000&ccbaCtcd=37&ccbaCpno=2223700430000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "경주 와장"
+    },
+    "text": "慶尚北道無形文化財、チョン·ムンギルは1958年から父親から瓦製作の機能を伝授され、伝統瓦の脈を受け継いでおり、栄州浮石寺、慶州仏国寺、梁山通度寺などの仏教寺院や安東陶山書院、河回村古宅などの遺跡の文化財補修に貢献しました。正門道は伝統瓦窯を復元するという意志を持って努力した結果、2017年6月に全国で唯一伝統瓦窯を築造し、今後伝統窯で伝統瓦を焼成するために実験と努力を重ねています",
+    "QA": [
+        {
+            "question": "チョン·ムンギルさんはいつから瓦製作の機能を伝授されましたか？",
+            "answer": "チョン·ムンギルさんは1958年から瓦製作の機能を伝授されました。"
+        },
+        {
+            "question": "チョン·ムンギルさんはどのような場所や建物の文化財補修に貢献しましたか？",
+            "answer": "チョン·ムンギルさんは栄州浮石寺、慶州仏国寺、梁山通度寺などの仏教寺院や安東陶山書院、河回村古宅などの遺跡の文化財補修に貢献しました。"
+        },
+        {
+            "question": "チョン·ムンギルさんはなぜ伝統瓦窯を築造したのですか？",
+            "answer": "チョン·ムンギルさんは伝統瓦窯を復元するという意志を持って努力し、2017年6月に全国で唯一の伝統瓦窯を築造しました。"
+        },
+        {
+            "question": "チョン·ムンギルさんは今後どのような活動をしていますか？",
+            "answer": "チョン·ムンギルさんは今後伝統窯で伝統瓦を焼成するために実験と努力を重ねています。"
+        }
+    ],
+    "word_Count": {
+        "text": 140,
+        "QA": 236
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_017180",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-05",
+        "domain": "음식점",
+        "title": "故郷麦ご飯 ( 고향보리밥 )"
+    },
+    "text": "故郷麦ご飯 ( 고향보리밥 )\\n\n慶尚北道 アンドン市 ガンナム6ギル39\\n\n麦ご飯と様々なおかずが味わえる店です。全羅南道順天市に位置する麦ご飯が有名なレストランです。 代表メニューは麦ご飯定食です。 慶尚北道のアンドン市に位置した韓食専門店です。代表的なメニューはビビンバです。",
+    "QA": [
+        {
+            "question": "店の場所はどこですか？",
+            "answer": "店は慶尚北道のアンドン市に位置しています。"
+        },
+        {
+            "question": "店の名前は何ですか？",
+            "answer": "店の名前は故郷麦ご飯です。"
+        },
+        {
+            "question": "何の料理が有名ですか？",
+            "answer": "麦ご飯が有名です。"
+        },
+        {
+            "question": "どのようなメニューがありますか？",
+            "answer": "麦ご飯定食やビビンバなど、様々なおかずを楽しむことができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 104,
+        "QA": 89
+    }
+}

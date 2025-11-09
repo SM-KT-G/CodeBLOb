@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_105273",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=76&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=05590000&ccbaCtcd=11&ccbaCpno=1121105590000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1971-12-21",
+        "domain": "문화/역사관광",
+        "title": "채화칠기"
+    },
+    "text": "彩画塗り\\n\nソウル特別市龍山区西氷庫路137(龍山洞6街、ジャン·ジャン)\\n\n中国の一台、宝物、チルウ(漆盂)という漆漆をしたノプダラた器であるバリをいう。漆器は西洋で見られない東洋特有の工芸品に、今も貴重な器の代名詞となっている。綵華漆器(彩畵漆器)は、高さ9センチ、口縁部直径24センチの大きさに平安南道大同郡対石岩里で出土された。内側には赤い塗装しての底にいくつかの同心円を描いた。中央から赤い色・青色・緑色の竜を描いて、その上は黒・青・緑の雲を描き入れた。器の口縁部周辺には青い色・緑色・黄色に点線を描いた後、その上を東(銅)で覆った。器の外側には黒漆をした次の像・中・下3段に区分した。上部には黄色と茶色に雲紋様が、中には青と緑に雲と山、獣を描いて、の下には雲の文様を回した。器の外郭2ヵ所に東で作った獣の形の輪をつけて取っ手の役割をし、器の内側にセミの形に取っ手を付着させた。今までも彩色された絵がはっきりしてさまざまな色が調和、保存状態も良好で、重要な資料として評価されている。",
+    "QA": [
+        {
+            "question": "この漆器はどこで見つかりましたか？",
+            "answer": "この漆器は平安南道大同郡対石岩里で見つかりました。"
+        },
+        {
+            "question": "この漆器の大きさはどのくらいですか？",
+            "answer": "この漆器の大きさは高さ9センチ、口縁部直径24センチです。"
+        },
+        {
+            "question": "漆器の内側に描かれている図柄は何ですか？",
+            "answer": "漆器の内側には中央から赤い色・青色・緑色の竜を描いて、その上は黒・青・緑の雲を描き入れています。"
+        },
+        {
+            "question": "漆器の外側に描かれている図柄は何ですか？",
+            "answer": "漆器の外側には黒漆をした次の像・中・下3段に区分されており、さまざまな図柄が描かれています。"
+        },
+        {
+            "question": "この漆器にはどんな取っ手が付いていますか？",
+            "answer": "この漆器には東で作った獣の形の輪をつけた取っ手があり、また内側にはセミの形に取っ手が付いています。"
+        }
+    ],
+    "word_Count": {
+        "text": 328,
+        "QA": 214
+    }
+}

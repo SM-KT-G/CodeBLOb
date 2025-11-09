@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_029912",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.goodchoice.kr/product/detail?ano=47150&adcno=1&sel_date=2023-11-07&sel_date2=2023-11-08",
+        "collectedDate": "2023-11-15",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "함안 더문"
+    },
+    "text": "この宿は駐車施設を保有しています。 また咸安郡庁までは徒歩300m、約5分の距離に位置し、咸安バスターミナルまでは徒歩470m、約7分の距離にあります。 咸安公設運動場までは徒歩900m、約5分の距離に位置しています。 すべての客室ではWi-Fiが使用でき、静音冷蔵庫が設置されています。",
+    "QA": [
+        {
+            "question": "この宿には駐車施設はありますか？",
+            "answer": "はい、この宿には駐車施設があります。"
+        },
+        {
+            "question": "咸安郡庁まではどのくらいの距離ですか？",
+            "answer": "咸安郡庁までは徒歩300m、約5分の距離です。"
+        },
+        {
+            "question": "咸安バスターミナルまではどのくらいの距離ですか？",
+            "answer": "咸安バスターミナルまでは徒歩470m、約7分の距離です。"
+        },
+        {
+            "question": "咸安公設運動場まではどのくらいの距離ですか？",
+            "answer": "咸安公設運動場までは徒歩900m、約5分の距離です。"
+        },
+        {
+            "question": "客室では何が利用できますか？",
+            "answer": "すべての客室ではWi-Fiが使用でき、静音冷蔵庫が設置されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 105,
+        "QA": 164
+    }
+}

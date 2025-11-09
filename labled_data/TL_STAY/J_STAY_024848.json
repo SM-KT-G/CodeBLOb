@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_024848",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42020&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "창원 진해 넘버25(광화동) 운영 정책"
+    },
+    "text": "予約された宿は19:00にチェックインが可能です。 チェックアウトは11:00となっており、この時間を守ってください。 重要な案内事項の中には鎮海軍港祭行事会場の宿舎の前に位置していることを必ず覚えておいてください。",
+    "QA": [
+        {
+            "question": "チェックインの時間は何時ですか？",
+            "answer": "チェックインの時間は19:00です。"
+        },
+        {
+            "question": "チェックアウトの時間は何時ですか？",
+            "answer": "チェックアウトの時間は11:00です。"
+        },
+        {
+            "question": "宿舎の場所はどこですか？",
+            "answer": "宿舎は鎮海軍港祭行事会場の前に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 79,
+        "QA": 77
+    }
+}

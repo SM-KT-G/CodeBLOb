@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_LEI_001561",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2022-11-24",
+        "domain": "레포츠",
+        "title": "에어타임"
+    },
+    "text": "ソウルを起点に32kmの距離にあるエアタイムレンタルショップは、低価格でレンタル割引をはじめ、スキー用品、関連用品などを販売している。*開業日：2006年11月25日",
+    "QA": [
+        {
+            "question": "エアタイムレンタルショップはどのような商品を販売していますか？",
+            "answer": "エアタイムレンタルショップでは、スキー用品や関連用品などを販売しています。"
+        },
+        {
+            "question": "エアタイムレンタルショップの開業日はいつですか？",
+            "answer": "エアタイムレンタルショップの開業日は2006年11月25日です。"
+        },
+        {
+            "question": "エアタイムレンタルショップはどのくらいの距離にありますか？",
+            "answer": "エアタイムレンタルショップはソウルから32kmの距離にあります。"
+        },
+        {
+            "question": "エアタイムレンタルショップではレンタル割引がありますか？",
+            "answer": "はい、エアタイムレンタルショップでは低価格でレンタル割引を提供しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 60,
+        "QA": 183
+    }
+}

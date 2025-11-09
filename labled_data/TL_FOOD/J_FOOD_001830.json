@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001830",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/la-goutte",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "la goutte / ラ・グット"
+    },
+    "text": "la goutte / ラ・グット\\n\nソウル特別市 広津区 紫陽洞 227-342, THE CLASSIC500 B棟 3F\\n\nここは高級な雰囲気が印象的なビュッフェです。 和食や中華、イタリア風の様々な料理が用意されており、デザートコーナーにもおいしそうなお菓子類が用意されています。 値段は安くはありませんが、その分高級感のある料理が用意されていて充実した食事ができます。",
+    "QA": [
+        {
+            "question": "場所はどこにありますか？",
+            "answer": "ソウル特別市広津区紫陽洞227-342, THE CLASSIC500 B棟 3Fにあります。"
+        },
+        {
+            "question": "どのような料理が提供されていますか？",
+            "answer": "和食や中華、イタリア風の様々な料理が用意されています。"
+        },
+        {
+            "question": "デザートコーナーには何がありますか？",
+            "answer": "デザートコーナーにはおいしそうなお菓子類が用意されています。"
+        },
+        {
+            "question": "値段はどのくらいですか？",
+            "answer": "値段は安くはありませんが、高級感のある料理が用意されています。"
+        },
+        {
+            "question": "どのような雰囲気ですか？",
+            "answer": "ここは高級な雰囲気が印象的なビュッフェです。"
+        },
+        {
+            "question": "食事は充実していますか？",
+            "answer": "はい、充実した食事ができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 140,
+        "QA": 187
+    }
+}

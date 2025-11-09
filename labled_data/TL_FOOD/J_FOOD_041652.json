@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_041652",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2022-09-21",
+        "domain": "음식점",
+        "title": "이솔라 레스토랑"
+    },
+    "text": "イソラレストランは盤浦漢江公園セビッドゥン島の中でカビッ島に位置しています。 カビッ島には売り場の前に盤浦漢江公園共用駐車場があり、利用に便利です。 イソラはイタリア語で島という意味で、昼間は漢江を眺めながらゆっくり食事を楽しむことができます。 また、夕暮れから夜にかけては日没や夜景を鑑賞しながらイタリアン料理を楽しめます。 店内は高級感あふれるインテリアで飾られており、団体席と個室まで完備されています。 レストランの代表メニューにはIsola Special Course、Lunch Steak Course、Lunch Pasta Course、Spaghetti Croccanteがあります。 また周辺には盤浦漢江公園があり、食事の前後の散歩にも最適です。",
+    "QA": [
+        {
+            "question": "イソラレストランはどこに位置していますか？",
+            "answer": "イソラレストランはカビッ島に位置しています。"
+        },
+        {
+            "question": "カビッ島には何がありますか？",
+            "answer": "カビッ島には盤浦漢江公園共用駐車場があります。"
+        },
+        {
+            "question": "イソラレストランの名前の意味は何ですか？",
+            "answer": "イソラはイタリア語で島という意味です。"
+        },
+        {
+            "question": "イソラレストランの特徴的なメニューは何ですか？",
+            "answer": "イソラレストランの特徴的なメニューにはIsola Special Course、Lunch Steak Course、Lunch Pasta Course、Spaghetti Croccanteがあります。"
+        },
+        {
+            "question": "盤浦漢江公園はどんな場所ですか？",
+            "answer": "盤浦漢江公園はイソラレストランの近くにあり、散歩に最適な公園です。"
+        }
+    ],
+    "word_Count": {
+        "text": 245,
+        "QA": 215
+    }
+}

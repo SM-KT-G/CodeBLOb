@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_095659",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ja",
+        "translator": null,
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101971",
+        "collectedDate": "2023-09-07",
+        "publishedDate": "2021-11-22",
+        "domain": "문화/역사관광",
+        "title": "応真殿"
+    },
+    "text": "応真殿\n応真殿  応真殿は、仏の正法を守護することを誓った弟子たちの16羅漢を奉安するために建立した殿閣です。それで通度寺応真殿の内部には、釈迦如来坐像と弥勒菩薩、提和竭羅菩薩と一緒に16羅漢像も祀っていますが、これは過去と現在、未来の姿の釈迦牟尼仏と16人の弟子を意味しています。",
+    "QA": [
+        {
+            "question": "応真殿は何のために建立されましたか？",
+            "answer": "応真殿は、仏の正法を守護することを誓った弟子たちの16羅漢を奉安するために建立されました。"
+        },
+        {
+            "question": "応真殿の内部に祀られているものは何ですか？",
+            "answer": "応真殿の内部には、釈迦如来坐像と弥勒菩薩、提和竭羅菩薩と一緒に16羅漢像も祀られています。"
+        },
+        {
+            "question": "16羅漢像は何を象徴していますか？",
+            "answer": "16羅漢像は過去と現在、未来の姿の釈迦牟尼仏と16人の弟子を象徴しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 103,
+        "QA": 134
+    }
+}

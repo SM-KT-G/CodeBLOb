@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_037525",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1073&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=01680000&ccbaCtcd=34&ccbaCpno=3413401680000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1984-05-17",
+        "domain": "문화/역사관광",
+        "title": "용봉사부도"
+    },
+    "text": "龍鳳寺浮屠 (용봉사부도)\\n\n忠清南道洪城郡龍峰山1ギル109(洪北邑)\\n\n時代不詳、忠清南道文化財資料、龍鳳寺内に位置している舎利塔で、祀った舎利の主人公は明らかにされていない。 元々はこの寺の近くの他のところにあったものを、1910年頃にここに移した。 床石がなくなったまま、基壇と塔身だけが残っているが、基壇はひどく磨り減って彫刻の形が明確ではなく、丸いボールをそっと押したような形の塔身の石は特別な装飾を施さなかった。 屋根石は6角でできているようだが、各部分がひどく磨り減っている。 頂上にあったはずの髪飾りはすべて残っていない。 本来の姿を多く失っており、製作された時期も分からない。",
+    "QA": [
+        {
+            "question": "この浮屠はどこに位置していますか？",
+            "answer": "龍鳳寺内に位置しています。"
+        },
+        {
+            "question": "この浮屠はいつ作られましたか？",
+            "answer": "製作された時期は分かっていません。"
+        },
+        {
+            "question": "この浮屠は何のために建てられましたか？",
+            "answer": "舎利を祀るために建てられましたが、具体的な舎利の主人公は明確ではありません。"
+        },
+        {
+            "question": "この浮屠の姿はどの程度残っていますか？",
+            "answer": "基壇と塔身が残っていますが、床石や屋根石はほとんど残っていません。"
+        },
+        {
+            "question": "この浮屠の装飾について教えてください。",
+            "answer": "塔身の石には特別な装飾は施されておらず、頂上の髪飾りも失われています。"
+        }
+    ],
+    "word_Count": {
+        "text": 220,
+        "QA": 165
+    }
+}

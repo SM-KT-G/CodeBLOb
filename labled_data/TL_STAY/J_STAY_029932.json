@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_029932",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42050&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "군산 아트 무인텔"
+    },
+    "text": "23年11月に全客室リニューアルを行った''群山アート無人テル''です。 アートムインテルは最新の施設で、リラックスできるように最善を尽くしています。 お客様はチェックイン/チェックアウト時間を必ず守ってください。 退室時間を過ぎる場合、追加料金が発生することがありますので、ご了承ください。",
+    "QA": [
+        {
+            "question": "アートムインテルはいつリニューアルされましたか？",
+            "answer": "アートムインテルは23年11月に全客室リニューアルを行いました。"
+        },
+        {
+            "question": "アートムインテルはどのような施設ですか？",
+            "answer": "アートムインテルは最新の施設で、リラックスできるように最善を尽くしています。"
+        },
+        {
+            "question": "チェックイン/チェックアウト時間を守る必要がありますか？",
+            "answer": "はい、チェックイン/チェックアウト時間を必ず守っていただく必要があります。"
+        },
+        {
+            "question": "退室時間を過ぎる場合はどうなりますか？",
+            "answer": "退室時間を過ぎる場合、追加料金が発生することがありますので、ご了承ください。"
+        }
+    ],
+    "word_Count": {
+        "text": 107,
+        "QA": 173
+    }
+}

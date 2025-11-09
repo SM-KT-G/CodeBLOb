@@ -1,0 +1,31 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001535",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-03",
+        "domain": "음식점",
+        "title": "CAFÉ BLACK ( 카페블랙 )"
+    },
+    "text": "CAFÉ BLACK ( 카페블랙 )\\n\nソウル特別市 ヨンドゥンポ区 ソンユドン1ロ12\\n\nハンドドリップコーヒーが味わえる店です。おすすめはアメリカーノです。ソウル特別市のヨンドゥンポ区に位置したカフェ（コーヒーショップ）です。",
+    "QA": [
+        {
+            "question": "カフェブラックはどこに位置していますか？",
+            "answer": "カフェブラックはソウル特別市のヨンドゥンポ区のソンユドン1ロ12に位置しています。"
+        },
+        {
+            "question": "カフェブラックでは何がおすすめですか？",
+            "answer": "カフェブラックではハンドドリップコーヒーが味わえますが、特におすすめはアメリカーノです。"
+        }
+    ],
+    "word_Count": {
+        "text": 86,
+        "QA": 90
+    }
+}

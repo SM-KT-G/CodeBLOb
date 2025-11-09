@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_031659",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1123&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=03280000&ccbaCtcd=37&ccbaCpno=3413703280000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1997-09-29",
+        "domain": "문화/역사관광",
+        "title": "청하향교"
+    },
+    "text": "淸河鄕校 (청하향교)\\n\n慶尚北道浦項市北区清河面清河路233番キル16-5(徳成里)\\n\n慶尚北道文化財資料、郷校は孔子と多くの聖賢に祭祀を行い、地方民の教育と教化のために国で建てた教育機関だ。 清河郷校は朝鮮太祖7年(1398)、西亭里に初めて建てられ、粛宗39年(1713)に徳城里に移す作業を始め、粛宗42年(1716)に完工した。 その後、憲宗9年(1843)と1923年の2度補修を行った。 現在残っている建物としては大成殿·明倫堂·東斎·天化楼·新聞(内三門)などだ。 祭祀を行う空間である大成殿は6間の規模であり、内側には孔子をはじめ中国と韓国の聖賢の位牌が祀られている。 学生たちが集まって勉強する講堂である明倫堂は6間規模で、学生たちの寮である東斎は5間、休息空間である天化楼は4間規模だ。 朝鮮時代には国から土地と奴婢·本などを支援され学生たちを教えたが、今は教育機能はなくなり祭祀機能だけが残っている。",
+    "QA": [
+        {
+            "question": "清河鄕校はどのような学校ですか？",
+            "answer": "清河鄕校は、朝鮮の国が建てた教育機関で、地方の民衆の教育と教化のために使われました。"
+        },
+        {
+            "question": "清河鄕校はいつ建てられましたか？",
+            "answer": "清河鄕校は朝鮮太祖7年(1398)に初めて建てられ、その後も補修を重ねながら使われ続けました。"
+        },
+        {
+            "question": "清河鄕校にはどんな建物が残っていますか？",
+            "answer": "清河鄕校には大成殿、明倫堂、東斎、天化楼、新聞(内三門)などの建物が残っています。"
+        },
+        {
+            "question": "大成殿ではどのような祭祀が行われますか？",
+            "answer": "大成殿では孔子をはじめ中国と韓国の聖賢の位牌が祀られ、祭祀が行われます。"
+        },
+        {
+            "question": "清河鄕校は現在も教育機能があるのでしょうか？",
+            "answer": "いいえ、現在は教育機能はなくなり、祭祀機能だけが残っています。"
+        }
+    ],
+    "word_Count": {
+        "text": 303,
+        "QA": 213
+    }
+}

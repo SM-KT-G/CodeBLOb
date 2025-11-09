@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_022759",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-08-31",
+        "domain": "음식점",
+        "title": "成大素麺（성대국수）"
+    },
+    "text": "成大素麺（성대국수）\\n\nソウル特別市 鐘路区 成均館路 18\\n\nこの店はソウル特別市のジョンノ区に位置した韓国料理店です。天然食材を使用するお店です。代表的なメニューはカタクチイワシ素麺です。",
+    "QA": [
+        {
+            "question": "この店はどのような場所に位置していますか？",
+            "answer": "ソウル特別市のジョンノ区に位置しています。"
+        },
+        {
+            "question": "この店の特徴的な料理は何ですか？",
+            "answer": "代表的なメニューはカタクチイワシ素麺です。"
+        },
+        {
+            "question": "この店では何を使用して料理を作っていますか？",
+            "answer": "天然食材を使用しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 71,
+        "QA": 83
+    }
+}

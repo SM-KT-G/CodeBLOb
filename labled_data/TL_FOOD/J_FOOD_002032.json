@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_002032",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/rama-bavana",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "Rama&Bavana"
+    },
+    "text": "Rama&Bavana\\n\n釜山広域市 海雲台区 海雲台海辺路271 )\\n\nRama&Bavana(ラマアンドバーバナ/ラマエンバーナ)は、インドの伝統的な味と趣を感じることができるレストランです。インドから厳選した食材を空輸し、伝統的な調理法で料理したメニューと韓国人の口に合うように工夫されたフュージョン料理を楽しめます。",
+    "QA": [
+        {
+            "question": "Rama&Bavanaはどこにありますか？",
+            "answer": "Rama&Bavanaは釜山広域市海雲台区海雲台海辺路271にあります。"
+        },
+        {
+            "question": "Rama&Bavanaはどんなレストランですか？",
+            "answer": "Rama&Bavanaはインドの伝統的な味と趣を感じることができるレストランです。"
+        },
+        {
+            "question": "Rama&Bavanaではどんな料理が楽しめますか？",
+            "answer": "Rama&Bavanaではインドから厳選した食材を使った伝統的な料理と韓国人の口に合うように工夫されたフュージョン料理が楽しめます。"
+        }
+    ],
+    "word_Count": {
+        "text": 120,
+        "QA": 156
+    }
+}

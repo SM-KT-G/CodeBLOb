@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_103936",
+        "source": "도서",
+        "writer": "이주영",
+        "ISBN_ISNN": "979-11-6050-024-0",
+        "version": "초판",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "나홀로 여행 컨설팅북",
+        "collectedDate": "2023-11-01",
+        "publishedDate": "2016-11-30",
+        "domain": "음식점",
+        "title": "피스피스 출판단지점"
+    },
+    "text": "Piece of Cake、Peace of Mindは京畿道坡州市フェドンギル445-2 1階に位置した店です。この店は2011年に合井で始まり、現在は延南洞のなん行くことにから愛されています。Piece of Cake、Peace of Mindは一切れのケーキが与える心の平和をモットーとしています。ここでは正直でよい食材で作った国内で見つけるのが大変な米国式の正統パイと重い手作りケーキを味わうことができます。店は坡州プレミアムロッテアウトレットaドンの方の向かい側の1階に位置しています。駐車は隣の地下駐車場や向かい側地上駐車場が用意されています。駐車を利用される方たちは-1799に電話したら案内を手伝ってあげます。店のメニューにはバナナクリームパイ、ホワイト・リリー、ダークリリー、パンプキンパイ、ピースチョコパイがあります。価格はバナナクリームパイは7,600ウォン、ホワイトリリーとダークリリーはそれぞれ6,500ウォン、パンプキンパイは7,000ウォン、ピースチョコパイは7,600ウォンです。",
+    "QA": [
+        {
+            "question": "Piece of Cake、Peace of Mindはどこに位置していますか？",
+            "answer": "Piece of Cake、Peace of Mindは京畿道坡州市フェドンギル445-2 1階に位置しています。"
+        },
+        {
+            "question": "Piece of Cake、Peace of Mindはいつ始まりましたか？",
+            "answer": "Piece of Cake、Peace of Mindは2011年に合井で始まりました。"
+        },
+        {
+            "question": "Piece of Cake、Peace of Mindのモットーは何ですか？",
+            "answer": "Piece of Cake、Peace of Mindのモットーは一切れのケーキが与える心の平和です。"
+        },
+        {
+            "question": "Piece of Cake、Peace of Mindではどのようなメニューがありますか？",
+            "answer": "Piece of Cake、Peace of Mindではバナナクリームパイ、ホワイト・リリー、ダークリリー、パンプキンパイ、ピースチョコパイがあります。"
+        },
+        {
+            "question": "Piece of Cake、Peace of Mindのケーキの価格はいくらですか？",
+            "answer": "Piece of Cake、Peace of Mindのケーキの価格はバナナクリームパイが7,600ウォン、ホワイトリリーとダークリリーがそれぞれ6,500ウォン、パンプキンパイが7,000ウォン、ピースチョコパイが7,600ウォンです。"
+        }
+    ],
+    "word_Count": {
+        "text": 335,
+        "QA": 404
+    }
+}

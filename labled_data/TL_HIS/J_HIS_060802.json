@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_060802",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=205&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=19630000&ccbaCtcd=34&ccbaCpno=1123419630000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2017-12-26",
+        "domain": "문화/역사관광",
+        "title": "도가논변모자리혹론 목판"
+    },
+    "text": "1580年に作られた補元会社で改版された『道が論弁帽子リホクロン』は漢人の帽子が作成した文だ。この文章は当時の人々が仏教に対して疑いを持っていた疑惑を解消するために書かれており、宝物とされている。一般的にこの文は『帽子リホクロン』あるいは『リホクロン』と呼ばれる。この版木は1版が決着され、現在4版がゲシムサに伝わっている。朝鮮時代、唯一の木版で刊行された例示として史料的価値が非常に大きい。",
+    "QA": [
+        {
+            "question": "リホクロンはいつ作られましたか？",
+            "answer": "リホクロンは1580年に作られました。"
+        },
+        {
+            "question": "リホクロンは誰によって書かれましたか？",
+            "answer": "リホクロンは漢人の帽子が作成しました。"
+        },
+        {
+            "question": "なぜリホクロンは宝物とされているのですか？",
+            "answer": "リホクロンは当時の人々が仏教に対して疑いを持っていた疑惑を解消するために書かれており、現在でもその史料的価値が大きいため、宝物とされています。"
+        },
+        {
+            "question": "リホクロンは何版が存在していますか？",
+            "answer": "リホクロンは1版が決着され、現在4版がゲシムサに伝わっています。"
+        },
+        {
+            "question": "朝鮮時代にリホクロンが唯一の木版で刊行された理由は何ですか？",
+            "answer": "朝鮮時代にはリホクロンが唯一の木版で刊行された例示として史料的価値が非常に大きかったためです。"
+        }
+    ],
+    "word_Count": {
+        "text": 143,
+        "QA": 214
+    }
+}

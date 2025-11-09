@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001775",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/jony-dumpling",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "Jony Dumpling"
+    },
+    "text": "Jony Dumpling\\n\nソウル市ヨンサングポグァンロ59ギル5 )\\n\n口の中で肉汁が満ちあふれるおいしい餃子専門店です。片面は焼き、もう片面は蒸し揚げ餃子、エビと肉がたっぷり入った海老水餃子など、様々な手作り餃子が味わえますし、ベジタリアンのための餃子メニューもあります。",
+    "QA": [
+        {
+            "question": "このお店はどこにありますか？",
+            "answer": "このお店はソウル市ヨンサングポグァンロ59ギル5にあります。"
+        },
+        {
+            "question": "このお店の特徴的な料理はありますか？",
+            "answer": "このお店の特徴的な料理は、片面が焼き、もう片面が蒸し揚げの餃子や、エビと肉がたっぷり入った海老水餃子です。また、ベジタリアンのための餃子メニューもあります。"
+        },
+        {
+            "question": "このお店の餃子はどんな味ですか？",
+            "answer": "このお店の餃子は、口の中で肉汁が溢れるおいしい味です。"
+        },
+        {
+            "question": "このお店はどんな人におすすめですか？",
+            "answer": "このお店は、餃子が好きな人やベジタリアンの方に特におすすめです。"
+        }
+    ],
+    "word_Count": {
+        "text": 103,
+        "QA": 170
+    }
+}

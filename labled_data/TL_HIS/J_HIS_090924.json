@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_090924",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1020&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=00750000&ccbaCtcd=37&ccbaCpno=3413700750000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1985-08-05",
+        "domain": "문화/역사관광",
+        "title": "영양향교"
+    },
+    "text": "栄養郷校\\n\n慶尚北道英陽郡日月面道渓里128番地\\n\n1683年の建立、慶尚北道文化財資料、郷校は、孔子と多くの聖賢に祭祀をして地方民の教育と教化のために国で立てた教育機関だ。栄養郷校は、粛宗3年(1677)に始めたが、すべての建物が朝鮮後期の建築様式となっている。現在残っている建物としては、大成殿、明倫堂、東斎・西斎、新聞(内三門)などだ。大成殿は前面5間・側面3間規模で、屋根は側面から見ると、人の教わる字形の切妻屋根で飾った。内側には孔子をはじめ、中国と韓国聖賢の位牌が祀られている。学生たちが集まって勉強する明倫堂は前面5間・側面2間規模で行われている。明倫堂の扁額は、高麗末名筆である漢江(韓修)が書いたものだ。朝鮮時代には国で土地と奴婢・本などの支援を受けて学生を教えたが、今は教育機能はなくなり、祭祀の役割だけが残っている。",
+    "QA": [
+        {
+            "question": "栄養郷校はいつ建立されましたか？",
+            "answer": "栄養郷校は1683年に建立されました。"
+        },
+        {
+            "question": "栄養郷校はどこに位置していますか？",
+            "answer": "栄養郷校は慶尚北道英陽郡日月面道渓里128番地に位置しています。"
+        },
+        {
+            "question": "栄養郷校の建物として今も残っているものは何ですか？",
+            "answer": "栄養郷校の建物として今も残っているものは大成殿、明倫堂、東斎・西斎、新聞(内三門)などがあります。"
+        },
+        {
+            "question": "明倫堂の扁額は誰が書いたものですか？",
+            "answer": "明倫堂の扁額は高麗末名筆である漢江(韓修)が書いたものです。"
+        },
+        {
+            "question": "栄養郷校は何のために国で立てられたのですか？",
+            "answer": "栄養郷校は地方民の教育と教化のために国で立てられた教育機関です。"
+        }
+    ],
+    "word_Count": {
+        "text": 272,
+        "QA": 190
+    }
+}

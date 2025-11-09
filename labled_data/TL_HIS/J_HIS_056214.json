@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_056214",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/view?relicId=6574",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "김재창 묘지"
+    },
+    "text": "金在昌の墓地 (김재창 묘지)\\n\n金在昌の墓地は最初、光州郡細村面炭洞に埋葬されました。後に、陽根に移転する際に新しく作られた墓地です。この墓地は、韓国-朝鮮の国籍や時代に関連するもので、材質は白磁の陶磁器です。また、社会生活の一環である喪章や墓地の中でも、幅9cm、長さ9.1cm、厚さ1cmという大きさを持っています。",
+    "QA": [
+        {
+            "question": "金在昌の墓地はどこにありますか？",
+            "answer": "金在昌の墓地は最初、光州郡細村面炭洞に埋葬されました。後に、陽根に移転する際に新しく作られた墓地です。"
+        },
+        {
+            "question": "金在昌の墓地の材質は何ですか？",
+            "answer": "金在昌の墓地の材質は白磁の陶磁器です。"
+        },
+        {
+            "question": "金在昌の墓地にはどんな喪章がありますか？",
+            "answer": "金在昌の墓地では、幅9cm、長さ9.1cm、厚さ1cmという大きさを持つ喪章が使用されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 118,
+        "QA": 123
+    }
+}

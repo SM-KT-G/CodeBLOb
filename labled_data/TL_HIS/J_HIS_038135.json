@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_038135",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=56&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=03160000&ccbaCtcd=37&ccbaCpno=1123703160000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1963-01-21",
+        "domain": "문화/역사관광",
+        "title": "청도 운문사 원응국사비"
+    },
+    "text": "淸道雲門寺圓鷹国師碑 (청도 운문사 원응국사비)\\n\n慶尚北道清道郡雲門面新院里1794-12番地雲門寺\\n\n高麗時代、宝物、雲門寺にあるこの塔碑は高麗時代中期の僧侶元応国師(1051~1144)の行跡を記録している。 元応国師は早く出家して宋に行って華厳の意を伝え、天台教官を学んで帰国した。 1109年に禅師となり、仁宗22年(1144)雲門寺で93歳で入籍した。 雨はビバッチム、碑体、礎石の3つの部分で構成されるが、支え石と礎石がなくなった状態だ。 ただ、3ページに切られた碑体だけが復元されている。 碑の前面には彼の行跡が刻まれており、裏面には弟子たちの名前が刻まれている。 作られた年代は碑が割れて分からないが、国師が入籍した翌年に仁宗が国師と命じて、ユンオンに文を作らせたという碑文の内容から見て、大体1145年以後と推察される。",
+    "QA": [
+        {
+            "question": "この碑はどこにありますか？",
+            "answer": "この碑は慶尚北道清道郡雲門面新院里の雲門寺にあります。"
+        },
+        {
+            "question": "この碑は何を記録していますか？",
+            "answer": "この碑は高麗時代中期の僧侶元応国師の行跡を記録しています。"
+        },
+        {
+            "question": "元応国師はどのような人物でしたか？",
+            "answer": "元応国師は早く出家して宋に行って華厳の意を伝え、天台教官を学んで帰国した人物です。"
+        },
+        {
+            "question": "この碑はいつ作られましたか？",
+            "answer": "碑が割れているため正確な年代は分かりませんが、国師が入籍した翌年に仁宗が国師と命じて、ユンオンに文を作らせたという碑文の内容から見て、おおよそ1145年以降と推測されます。"
+        }
+    ],
+    "word_Count": {
+        "text": 273,
+        "QA": 177
+    }
+}

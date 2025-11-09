@@ -1,0 +1,51 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_011220",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1206&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=79&ccbaAsno=01870000&ccbaCtcd=35&ccbaCpno=4413501870000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2005-06-18",
+        "domain": "문화/역사관광",
+        "title": "김제 신풍동 일본식 가옥"
+    },
+    "text": "金堤新豊洞和風家屋 (김제 신풍동 일본식 가옥)\\n\n全羅北道金堤市斗月路185(新豊洞)\\n\n1928年 , 国家登録文化財 , 1928年建設この建物は金堤地域の日本人農場を管理した管理人の家だ。 重複図を通じて各室に連結される典型的な和食家屋の平面形式を取っており、三重建具の設置、雨戸のロック装置、外部に設置された建具の収納棚など精巧な技法を見せている。 日帝強占期当時、ここに住んでいた農場管理人の暮らしを推察させると同時に、日帝による土地収奪の歴史を証言している。",
+    "QA": [
+        {
+            "question": "この建物はいつ建設されましたか？",
+            "answer": "この建物は1928年に建設されました。"
+        },
+        {
+            "question": "この建物はどのような役割を果たしていましたか？",
+            "answer": "この建物は金堤地域の日本人農場を管理した管理人の家でした。"
+        },
+        {
+            "question": "この建物の平面形式はどのようなものでしょうか？",
+            "answer": "この建物は典型的な和食家屋の平面形式を取っており、重複図を通じて各室に連結されています。"
+        },
+        {
+            "question": "この建物にはどのような技法が使われていますか？",
+            "answer": "この建物には三重建具の設置や雨戸のロック装置、外部に設置された建具の収納棚など、精巧な技法が使われています。"
+        },
+        {
+            "question": "この建物に住んでいた農場管理人の暮らしについて教えてください。",
+            "answer": "この建物に住んでいた農場管理人の暮らしを推察すると、日帝強占期当時の農場管理人の生活を反映していると考えられます。"
+        },
+        {
+            "question": "この建物は何のために建設されたのですか？",
+            "answer": "この建物は金堤地域の日本人農場を管理するために建設されました。"
+        },
+        {
+            "question": "この建物はどのような歴史的な意義を持っていますか？",
+            "answer": "この建物は日帝による土地収奪の歴史を証言していると言えます。"
+        }
+    ],
+    "word_Count": {
+        "text": 175,
+        "QA": 311
+    }
+}

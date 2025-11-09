@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_002038",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2020-12-04",
+        "domain": "음식점",
+        "title": "RiceChef 平沢( 라이스쉐프NC 평택 )"
+    },
+    "text": "RiceChef 平沢( 라이스쉐프NC 평택 )\\n\n京畿道 平沢市 京畿大路 279\\n\n30年の伝統を誇る店です。 おすすめはツナキンパプです。京畿道のピョンテク市に位置した韓国料理店です。",
+    "QA": [
+        {
+            "question": "このお店はどこにありますか？",
+            "answer": "このお店は京畿道平沢市の京畿大路279番地にあります。"
+        },
+        {
+            "question": "このお店の特徴は何ですか？",
+            "answer": "このお店は30年の伝統を誇る店で、韓国料理を提供しています。特におすすめはツナキンパプです。"
+        },
+        {
+            "question": "このお店の場所はどのように行けばいいですか？",
+            "answer": "このお店へは、京畿道の平沢市に位置しています。アクセスは京畿大路をご利用いただくと便利です。"
+        }
+    ],
+    "word_Count": {
+        "text": 71,
+        "QA": 123
+    }
+}

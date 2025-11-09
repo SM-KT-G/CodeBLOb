@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_000036",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=812&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=00510000&ccbaCtcd=34&ccbaCpno=2333400510000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1984-07-26",
+        "domain": "문화/역사관광",
+        "title": "고간원지"
+    },
+    "text": "\t叩諫院址 (고간원지)\\n\n忠清南道公州市維鳩邑秋渓里567-1\\n\n忠清南道記念物 , 高麗中期の文克謙(ムン·グクギョム)先生(1122~1189)を祀った祠堂だ。 文克謙は高麗の義宗(在位1146~1170)の時、文科に及第した後、色々な官職をあまねく歴任し、義宗24年(1170)、鄭仲府の乱の時に死に遭うところだったが、以前に内侍ペク·ソンヨンの非行を弾劾したおかげで災いを免れた。 その後、明宗(1170~1197)が王に上がると、イ·ウィバンの推薦で高い官職に就き、多くの刺青を困難から救った。 武臣政権期に文臣で将軍職を兼任して文武を兼ねる始まりとなり、字にも非常に優れていた。 朝鮮前期に建てられたと見られるこの祠堂の構造は前面3間·側面1間で屋根の側面が人の字の形をした切妻瓦葺き屋根である",
+    "QA": [
+        {
+            "question": "この祠堂はどこにありますか？",
+            "answer": "この祠堂は忠清南道公州市維鳩邑秋渓里567-1にあります。"
+        },
+        {
+            "question": "文克謙先生とは誰ですか？",
+            "answer": "文克謙先生は高麗時代の文官で、義宗の時代に活躍しました。"
+        },
+        {
+            "question": "文克謙先生はどのような功績を残しましたか？",
+            "answer": "文克謙先生は多くの官職を歴任し、刺青を困難から救った功績を残しました。"
+        },
+        {
+            "question": "この祠堂はいつ建てられましたか？",
+            "answer": "この祠堂は朝鮮前期に建てられたと見られています。"
+        },
+        {
+            "question": "この祠堂の構造はどのようになっていますか？",
+            "answer": "この祠堂は前面3間・側面1間で、屋根の側面が人の字の形をした切妻瓦葺き屋根です。"
+        }
+    ],
+    "word_Count": {
+        "text": 261,
+        "QA": 176
+    }
+}

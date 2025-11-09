@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_090648",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=767&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=00080000&ccbaCtcd=33&ccbaCpno=2333300080000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1976-12-30",
+        "domain": "문화/역사관광",
+        "title": "영동 난계사"
+    },
+    "text": "忠清北道にある祠は、朝鮮前期の入れ墨朴燕の位牌を祀ったところだ。朴堧は、世宗の助けを受けて、音楽を整備するのに多くの功を立てた。彼はアクリュルに上手で、1425年には雅楽のユルチョと楽器の絵、楽譜を共に搭載された『悪書』を編纂し、1427年には編磬(へんけい)12枚を作って12音階をよって、直接演奏した。また、敵と琴、琵琶の演奏に優れており、国楽の基盤を固めるために調整の朝礼会で雅楽を演奏するようにした。1972年に再度打ち立てたこの祠堂は前面3間、側面2間規模で屋根は人因子の形の切妻屋根で飾った。",
+    "QA": [
+        {
+            "question": "この祠堂は何のために建てられましたか？",
+            "answer": "朴燕の位牌を祀るために建てられました。朴燕は、世宗の助けを受けて音楽を整備する功績があります。"
+        },
+        {
+            "question": "朴燕はどのような楽器の演奏に優れていましたか？",
+            "answer": "朴燕は敵と琴、琵琶の演奏に優れていました。また、雅楽を演奏するための調整の朝礼会を行うことで国楽の基盤を固めました。"
+        },
+        {
+            "question": "祠堂の屋根の形はどのような形ですか？",
+            "answer": "祠堂の屋根は人因子の形の切妻屋根で飾られています。"
+        }
+    ],
+    "word_Count": {
+        "text": 184,
+        "QA": 139
+    }
+}

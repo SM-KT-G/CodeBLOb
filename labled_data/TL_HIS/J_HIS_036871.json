@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_036871",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1225&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=79&ccbaAsno=04200000&ccbaCtcd=31&ccbaCpno=4413104200000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2008-10-17",
+        "domain": "문화/역사관광",
+        "title": "주한 유엔군사령관 전용 객차"
+    },
+    "text": "在韓国連軍司令官専用客車 (주한 유엔군사령관 전용 객차)\\n\n京畿道義王市鉄道博物館路 142 (月岩洞、鉄道博物館)\\n\n1936年、国家登録文化財、この車は朝鮮総督府鉄道局京城工場(現在のソウル鉄道車両整備廠)で組み立てた客車で、1958年に改造して在韓国連軍と米8軍司令官専用客車として運行した。 貴賓客車17号と呼ばれ、1966年11月に米国第36代ジョンソン大統領が韓国を訪問した時、この客車を利用したが、これを記念して乗車券が発行されたりもした。",
+    "QA": [
+        {
+            "question": "この客車はいつ組み立てられましたか？",
+            "answer": "1936年に組み立てられました。"
+        },
+        {
+            "question": "この客車はどこで組み立てられましたか？",
+            "answer": "朝鮮総督府鉄道局京城工場（現在のソウル鉄道車両整備廠）で組み立てられました。"
+        },
+        {
+            "question": "この客車は何のために改造されましたか？",
+            "answer": "1958年に在韓国連軍と米8軍司令官専用客車として改造されました。"
+        },
+        {
+            "question": "この客車は何と呼ばれていますか？",
+            "answer": "この客車は貴賓客車17号と呼ばれています。"
+        },
+        {
+            "question": "ジョンソン大統領が韓国を訪問した際、この客車を利用しましたか？",
+            "answer": "はい、ジョンソン大統領が韓国を訪問した際にこの客車を利用しました。"
+        },
+        {
+            "question": "ジョンソン大統領の訪問を記念して何か特別なことがありましたか？",
+            "answer": "ジョンソン大統領の訪問を記念して乗車券が発行されました。"
+        }
+    ],
+    "word_Count": {
+        "text": 169,
+        "QA": 222
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_017841",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2023-07-28",
+        "domain": "음식점",
+        "title": "금촌집"
+    },
+    "text": "今村の家 (금촌집)\\n\n仁川広域市中区右舷路90番キル19-1\\n\n「クムチョン屋のメインメニューには、ゴプチャン鍋を始めとするピリ辛チゲ類やサムギョプサルがあります。当店の秘訣は、主人の故郷から直送される唐辛子で作るタレによる最高のゴプチャン鍋の味です。」",
+    "QA": [
+        {
+            "question": "今村の家はどこにありますか？",
+            "answer": "今村の家は仁川広域市中区右舷路90番キル19-1にあります。"
+        },
+        {
+            "question": "今村の家のメインメニューは何ですか？",
+            "answer": "今村の家のメインメニューには、ゴプチャン鍋を始めとするピリ辛チゲ類やサムギョプサルがあります。"
+        },
+        {
+            "question": "今村の家のゴプチャン鍋の味の秘訣は何ですか？",
+            "answer": "今村の家のゴプチャン鍋の味の秘訣は、主人の故郷から直送される唐辛子で作るタレによる最高の味です。"
+        }
+    ],
+    "word_Count": {
+        "text": 95,
+        "QA": 131
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_025950",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=450&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=00980000&ccbaCtcd=33&ccbaCpno=2113300980000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1981-12-26",
+        "domain": "문화/역사관광",
+        "title": "옥천 청산향교"
+    },
+    "text": "沃川青山郷校 (옥천 청산향교)\\n\n忠清北道沃川郡青山面校坪里267番地\\n\n忠清北道有形文化財 , 郷校は立派な儒学者を祭祀し、地方民の儒学教育と教化のために国で建てた教育機関だ。 朝鮮太祖(在位1392~1398)の時に建てた後、孝宗(在位1649~1659)の時に現在の位置に移り、1966年に修理した。 今残っている建物は、中国と韓国の儒学者の位牌を祀っている祠堂である大成殿と学生たちが集まって勉強する講堂である明倫堂だ。 朝鮮時代には国から土地と本·土費を支給され運営されたが、甲午改革(1894)以後、教育的機能はなくなり、今は祭祀の機能だけが残っている。 所蔵されていた本はすべて散り散りになってほとんどない状態だ。",
+    "QA": [
+        {
+            "question": "この青山郷校はいつ建てられましたか？",
+            "answer": "青山郷校は朝鮮太祖（在位1392~1398）の時に建てられました。"
+        },
+        {
+            "question": "青山郷校はどのような機能を持っていましたか？",
+            "answer": "青山郷校は儒学者を祭祀し、地方民の儒学教育と教化のための教育機関でした。"
+        },
+        {
+            "question": "青山郷校にはどのような建物が残っていますか？",
+            "answer": "青山郷校には大成殿と明倫堂という建物が残っています。"
+        },
+        {
+            "question": "青山郷校はどの時代に移動されましたか？",
+            "answer": "青山郷校は孝宗（在位1649~1659）の時に現在の位置に移動されました。"
+        },
+        {
+            "question": "青山郷校はどのように運営されていましたか？",
+            "answer": "青山郷校は朝鮮時代には国から土地と本・土費を支給されて運営されていました。"
+        },
+        {
+            "question": "青山郷校には何が所蔵されていましたか？",
+            "answer": "青山郷校には本が所蔵されていましたが、現在は散り散りになってほとんどありません。"
+        }
+    ],
+    "word_Count": {
+        "text": 232,
+        "QA": 242
+    }
+}

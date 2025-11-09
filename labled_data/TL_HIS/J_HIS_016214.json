@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_016214",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2022-11-11",
+        "domain": "문화/역사관광",
+        "title": "明洞観光情報センター（명동관광정보센터）"
+    },
+    "text": "明洞観光情報センター（명동관광정보센터）\\n\nソウル特別市チュン区ウルチロ66\\n\n明洞（ミョンドン）観光情報センターはソウル特別市中区乙支路2街に位置する観光案内所です。英語・中国語・日本語で対応可能で、観光や祭り、ショッピング、公演などに関するソウルの情報を提供しています。",
+    "QA": [
+        {
+            "question": "明洞観光情報センターの住所はどこですか？",
+            "answer": "ソウル特別市チュン区ウルチロ66"
+        },
+        {
+            "question": "明洞観光情報センターは何を提供していますか？",
+            "answer": "ソウルの観光や祭り、ショッピング、公演などに関する情報を提供しています。"
+        },
+        {
+            "question": "明洞観光情報センターは何か言語で対応していますか？",
+            "answer": "英語・中国語・日本語で対応しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 101,
+        "QA": 101
+    }
+}

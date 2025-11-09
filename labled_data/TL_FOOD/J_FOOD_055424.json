@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_055424",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-06",
+        "domain": "음식점",
+        "title": "トックポマン＆girl ( 떡퍼맨앤걸 )"
+    },
+    "text": "トックポマン＆girl ( 떡퍼맨앤걸 )\n京畿道 平沢市 トンボクシジャンロ13ボンギル8\n様々なトッピングのトッポッキを提供しています。京畿道のピョンテク市に位置した韓食専門店です。おすすめはトッポッキです。",
+    "QA": [
+        {
+            "question": "トックポマン＆girlはどの地域に位置していますか？",
+            "answer": "トックポマン＆girlは京畿道平沢市に位置しています。"
+        },
+        {
+            "question": "トックポマン＆girlはどのような料理を提供していますか？",
+            "answer": "トックポマン＆girlは様々なトッピングのトッポッキを提供しています。"
+        },
+        {
+            "question": "トックポマン＆girlのおすすめメニューは何ですか？",
+            "answer": "トックポマン＆girlのおすすめはトッポッキです。"
+        }
+    ],
+    "word_Count": {
+        "text": 77,
+        "QA": 123
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_059480",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42060&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "태안 신진도 리츠캐슬 리조트"
+    },
+    "text": "全客室はオーシャンビューを提供し、大型宴会場と中小型会議室も完備されています。 しかし、コンドミニアムの基準人数を超える場合、追加料金として30,000ウォンが発生しますので、ご注意ください。 リゾート内での調理をご希望のお客様は、ホテル棟ではなくコンドミニアム棟をご予約ください。 つまり、ホテル棟は炊事が不可能で、コンドミニアム棟でのみ炊事が可能です。",
+    "QA": [
+        {
+            "question": "客室はどのようなビューを提供していますか？",
+            "answer": "全客室はオーシャンビューを提供しています。"
+        },
+        {
+            "question": "宴会場や会議室の設備はありますか？",
+            "answer": "大型宴会場と中小型会議室も完備されています。"
+        },
+        {
+            "question": "コンドミニアムの基準人数を超える場合、追加料金は発生しますか？",
+            "answer": "はい、基準人数を超える場合、追加料金として30,000ウォンが発生します。"
+        },
+        {
+            "question": "ホテル棟で料理をすることはできますか？",
+            "answer": "いいえ、ホテル棟では炊事が不可能です。リゾート内での調理をご希望のお客様は、コンドミニアム棟をご予約ください。コンドミニアム棟でのみ炊事が可能です。"
+        }
+    ],
+    "word_Count": {
+        "text": 130,
+        "QA": 177
+    }
+}

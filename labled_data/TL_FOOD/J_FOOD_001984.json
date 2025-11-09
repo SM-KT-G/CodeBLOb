@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001984",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-02-16",
+        "domain": "음식점",
+        "title": "PARADISE（파라다이스）"
+    },
+    "text": "PARADISE（파라다이스）\\n\nソウル特別市 永登浦区 汝矣東路252\\n\n「PARADISE（パラダイス）」は漢江の優美な景色を楽しみ、心地よいライブ演奏を聴きながら大切な人との特別な思い出作りに最適な場所です。",
+    "QA": [
+        {
+            "question": "PARADISE（パラダイス）はどこにありますか？",
+            "answer": "ソウル特別市永登浦区汝矣東路252に位置しています。"
+        },
+        {
+            "question": "PARADISE（パラダイス）はどのような特徴がありますか？",
+            "answer": "PARADISE（パラダイス）では、漢江の美しい景色を楽しみながら、心地よいライブ演奏を聴くことができます。"
+        },
+        {
+            "question": "PARADISE（パラダイス）は誰との特別な思い出作りに最適ですか？",
+            "answer": "PARADISE（パラダイス）は大切な人との特別な思い出作りに最適な場所です。"
+        },
+        {
+            "question": "PARADISE（パラダイス）にはどのようなイベントがありますか？",
+            "answer": "PARADISE（パラダイス）では、心地よいライブ演奏が行われます。"
+        }
+    ],
+    "word_Count": {
+        "text": 79,
+        "QA": 201
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_010909",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-01",
+        "domain": "음식점",
+        "title": "どんかつハウス ( 돈까스하우스 )"
+    },
+    "text": "どんかつハウス ( 돈까스하우스 )\\n\n全羅南道 順天市 中央路 268\\n\n昼と夜の雰囲気が違う店です。代表的なメニューは豚カツです。全羅南道のスンチョン市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "どんかつハウスはどんな場所にありますか？",
+            "answer": "どんかつハウスは全羅南道のスンチョン市の中央路268に位置しています。"
+        },
+        {
+            "question": "どんかつハウスの代表的なメニューは何ですか？",
+            "answer": "どんかつハウスの代表的なメニューは豚カツです。"
+        },
+        {
+            "question": "どんかつハウスの雰囲気は昼と夜で違いますか？",
+            "answer": "はい、どんかつハウスの雰囲気は昼と夜で異なります。"
+        },
+        {
+            "question": "どんかつハウスは韓食専門店ですか？",
+            "answer": "はい、どんかつハウスは韓食専門店です。"
+        },
+        {
+            "question": "どんかつハウスの場所は具体的に教えてください。",
+            "answer": "どんかつハウスは全羅南道のスンチョン市中央路268にあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 68,
+        "QA": 173
+    }
+}

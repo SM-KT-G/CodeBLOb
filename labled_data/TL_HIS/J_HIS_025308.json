@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_025308",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=827&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=00750000&ccbaCtcd=33&ccbaCpno=2333300750000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1987-03-31",
+        "domain": "문화/역사관광",
+        "title": "영동 박연 묘소"
+    },
+    "text": "永同朴淵墓所 (영동 박연 묘소)\\n\n忠清北道永同郡深川面古堂里山49-1番地\\n\n忠清北道記念物 , 朝鮮時代の代表的な音楽家、朴淵（パク·ヨン、1378~1458）先生の墓だ。 字は弾夫、号は蘭渓、詩号は文献であり、高句麗王山岳、新羅の于勒と共に韓国3大楽城と呼ばれる。 太宗11年(1411)文科に及第して集賢殿の教理となり、世宗が即位した後、楽学星座に上がって音楽を整備するのに多くの努力を傾けた。 調整の必要性と楽譜編纂の重要性を上訴して数多くの楽器と楽譜を作り出し、朝鮮初期の宮中音楽を整理して国家の音楽体制を立てるのに大きく寄与した。 墳丘の右側には墓碑が建てられており、左側には遠くからも墓があることを知らせる望柱石がある。",
+    "QA": [
+        {
+            "question": "この墓はどこにありますか？",
+            "answer": "忠清北道永同郡深川面古堂里山49-1番地にあります。"
+        },
+        {
+            "question": "朴淵先生は何のために有名ですか？",
+            "answer": "朴淵先生は朝鮮時代の代表的な音楽家であり、韓国3大楽城の一つと称されています。"
+        },
+        {
+            "question": "朴淵先生の字と号、詩号は何ですか？",
+            "answer": "朴淵先生の字は弾夫、号は蘭渓、詩号は文献です。"
+        },
+        {
+            "question": "朴淵先生はどのような業績を残しましたか？",
+            "answer": "朴淵先生は調整の必要性と楽譜編纂の重要性を訴え、数多くの楽器と楽譜を作り出し、朝鮮初期の宮中音楽を整理して国家の音楽体制を築くのに大きく貢献しました。"
+        },
+        {
+            "question": "墓の右側には何がありますか？",
+            "answer": "墳丘の右側には墓碑が建てられています。"
+        },
+        {
+            "question": "墓の左側には何がありますか？",
+            "answer": "墳丘の左側には遠くからも墓があることを知らせる望柱石があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 235,
+        "QA": 225
+    }
+}

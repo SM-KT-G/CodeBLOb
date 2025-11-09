@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_LEI_006250",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2022-12-26",
+        "domain": "레포츠",
+        "title": "도고CC"
+    },
+    "text": "東郷CCは1975年10月に開場し、18ホール規模となりました。 幅が広く長いフェアウェイなど、すべてのコースは涼しくて円満に造成されており、老若男女誰でも楽しくゴルフを楽しむことができます。 ゴルフ場は京釜高速道路を利用して約1時間30分、西海岸高速道路を利用して約1時間かかる距離に位置しています。",
+    "QA": [
+        {
+            "question": "東郷CCはいつ開場しましたか？",
+            "answer": "東郷CCは1975年10月に開場しました。"
+        },
+        {
+            "question": "東郷CCは何ホール規模ですか？",
+            "answer": "東郷CCは18ホール規模です。"
+        },
+        {
+            "question": "東郷CCのコースはどのように造成されていますか？",
+            "answer": "東郷CCのコースは涼しくて円満に造成されており、幅が広く長いフェアウェイなどがあります。"
+        },
+        {
+            "question": "東郷CCはどのくらいの距離に位置していますか？",
+            "answer": "東郷CCは京釜高速道路を利用して約1時間30分、西海岸高速道路を利用して約1時間かかる距離に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 110,
+        "QA": 154
+    }
+}

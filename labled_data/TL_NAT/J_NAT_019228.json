@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_019228",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101933",
+        "collectedDate": "2023-10-06",
+        "publishedDate": "2020-01-01",
+        "domain": "자연관광",
+        "title": "암태도"
+    },
+    "text": "巖泰島\n\n巖泰島は全羅南道新安郡岩台面に位置する島だ。地理的に木浦に近く、現在は海上交通手段であるフェリーで木浦沿岸客船ターミナルなどに出ることができる。しかし、押海島と結ぶ天使大橋が2019年に完成及び開通して陸と繋がった。隣の島の慈恩島、八禽島と橋でつながっている。",
+    "QA": [
+        {
+            "question": "岩台面はどこに位置していますか？",
+            "answer": "岩台面は全羅南道新安郡に位置しています。"
+        },
+        {
+            "question": "岩台面へのアクセス手段は何ですか？",
+            "answer": "岩台面へはフェリーを利用することができます。"
+        },
+        {
+            "question": "押海島と岩台面をつなぐ橋の名前は何ですか？",
+            "answer": "押海島と岩台面をつなぐ橋の名前は天使大橋です。"
+        },
+        {
+            "question": "岩台面から近くの島とはどのようにつながっていますか？",
+            "answer": "岩台面から近くの島である慈恩島と八禽島は橋でつながっています。"
+        },
+        {
+            "question": "天使大橋の完成及び開通はいつですか？",
+            "answer": "天使大橋の完成及び開通は2019年です。"
+        }
+    ],
+    "word_Count": {
+        "text": 99,
+        "QA": 156
+    }
+}

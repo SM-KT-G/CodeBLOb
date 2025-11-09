@@ -1,0 +1,51 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_009017",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42090&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "라림부띠끄호텔 운영 정책"
+    },
+    "text": "チェックインは15:00以降から可能で、チェックアウトは11:00以前までです。 オーシャンスイートの客室の場合、追加人数がいる場合、布団と枕を含めて20000ウォンの追加料金が発生します。 駐車場とWi-Fiは無料で提供され、電気自動車の充電器も備えられています。 朝食は簡単にトースターとコーヒーを提供します。 入室のご利用案内は以下の通りです。",
+    "QA": [
+        {
+            "question": "チェックインは何時から可能ですか？",
+            "answer": "チェックインは15:00以降から可能です。"
+        },
+        {
+            "question": "チェックアウトは何時までですか？",
+            "answer": "チェックアウトは11:00以前までです。"
+        },
+        {
+            "question": "オーシャンスイートの客室の追加人数は何人まで可能ですか？",
+            "answer": "オーシャンスイートの客室の場合、追加人数がいる場合、布団と枕を含めて20000ウォンの追加料金が発生します。"
+        },
+        {
+            "question": "駐車場とWi-Fiは無料で提供されますか？",
+            "answer": "はい、駐車場とWi-Fiは無料で提供されます。"
+        },
+        {
+            "question": "電気自動車の充電器はありますか？",
+            "answer": "はい、電気自動車の充電器も備えられています。"
+        },
+        {
+            "question": "朝食は提供されますか？",
+            "answer": "朝食は簡単にトースターとコーヒーを提供します。"
+        },
+        {
+            "question": "入室のご利用案内はどのようになりますか？",
+            "answer": "入室のご利用案内は以下の通りです。"
+        }
+    ],
+    "word_Count": {
+        "text": 128,
+        "QA": 226
+    }
+}

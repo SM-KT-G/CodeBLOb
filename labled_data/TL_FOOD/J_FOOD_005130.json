@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_005130",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-15",
+        "domain": "음식점",
+        "title": "グォンチーフウロンガクシジャンオチョンガク ( 권셰프우렁각시장어총각 )"
+    },
+    "text": "グォンチーフウロンガクシジャンオチョンガク\\n\n慶尚北道 安東市 忠孝路 4459\\n\nご家族のお集まりに最適な場所で、各種おかずが味わえるお店です。慶尚北道のアンドン市に位置した韓国料理店です。代表的なメニューはウナギ焼きです。",
+    "QA": [
+        {
+            "question": "このお店はどこにありますか？",
+            "answer": "このお店は慶尚北道の安東市の忠孝路4459に位置しています。"
+        },
+        {
+            "question": "このお店の特徴は何ですか？",
+            "answer": "このお店はご家族のお集まりに最適な場所であり、各種おかずが味わえるお店です。"
+        },
+        {
+            "question": "このお店の代表的なメニューは何ですか？",
+            "answer": "このお店の代表的なメニューはウナギ焼きです。"
+        }
+    ],
+    "word_Count": {
+        "text": 84,
+        "QA": 99
+    }
+}

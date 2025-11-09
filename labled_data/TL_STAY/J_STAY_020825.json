@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_020825",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/goods/GN0002018712?startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0%5E&npprmaxsort=min",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "아차산역 월(月) 호텔"
+    },
+    "text": "大型TV(75インチ)と最高級ベッドマットレス、寝具類の交換は基本規定であり、未成年者は利用が制限されます。 身分証明書の確認が必要で、会員特典は提携店の内規に従って適用されます。 入室30分後にはPCなどを利用してネットフリックスを視聴することができ、通信障害による客室交換及び払い戻しはできません。",
+    "QA": [
+        {
+            "question": "テレビとベッドマットレスの交換はいつできますか？",
+            "answer": "テレビとベッドマットレスの交換は基本規定であり、未成年者は利用が制限されます。身分証明書の確認が必要です。"
+        },
+        {
+            "question": "会員特典はどのように適用されますか？",
+            "answer": "会員特典は提携店の内規に従って適用されます。"
+        },
+        {
+            "question": "客室に入室してからネットフリックスを視聴するまでに制限時間はありますか？",
+            "answer": "入室30分後にはPCなどを利用してネットフリックスを視聴することが可能です。"
+        },
+        {
+            "question": "通信障害による客室交換や払い戻しはできますか？",
+            "answer": "通信障害による客室交換や払い戻しはできません。"
+        }
+    ],
+    "word_Count": {
+        "text": 110,
+        "QA": 173
+    }
+}

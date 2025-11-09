@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_016722",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2019-10-29",
+        "domain": "숙박",
+        "title": "ホテルビジョン（호텔 비젼）"
+    },
+    "text": "ホテルビジョン（호텔 비젼）\\n\nソウル特別市 城東区 古山子路277 （道詵洞）\\n\n「ホテルビジョン」はソウル地下鉄2・5号線、京義・中央線・盆唐線「住十里（ワンシムニ）駅」から近く、東大門、明洞、梨泰院、江南などソウル市内どこへ行くにも便利な立地にあります。",
+    "QA": [
+        {
+            "question": "ホテルビジョンの場所はどこですか？",
+            "answer": "ホテルビジョンはソウル特別市城東区古山子路277に位置しています。"
+        },
+        {
+            "question": "ホテルビジョンへのアクセスはどのようにすればいいですか？",
+            "answer": "ソウル地下鉄2・5号線、京義・中央線・盆唐線の「住十里（ワンシムニ）駅」から近くに位置しており、アクセスが便利です。"
+        },
+        {
+            "question": "ホテルビジョンの周辺にはどのような観光スポットがありますか？",
+            "answer": "ホテルビジョンの周辺には東大門、明洞、梨泰院、江南などの観光スポットがあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 96,
+        "QA": 151
+    }
+}

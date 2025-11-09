@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_077005",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/collectionList#######",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2023-10-11",
+        "domain": "문화/역사관광",
+        "title": "사료조사1 중국만주 동토성 남문지"
+    },
+    "text": "史料調査1 中国満州 凍土省南門址 (사료조사1 중국만주 동토성 남문지)\\n\n第1回史料調査では、中国満州間島城の東土城南門址(2-2)を調査しました。この城は、韓国が日本によって植民地支配されていた時代に存在しました。城の材質はガラスと宝石で、具体的にはガラスのフィルムで記録されています。その大きさは横164cm、縦119cmです。",
+    "QA": [
+        {
+            "question": "間島城の東土城南門址は何時代に存在しましたか？",
+            "answer": "間島城の東土城南門址は韓国が日本によって植民地支配されていた時代に存在しました。"
+        },
+        {
+            "question": "東土城南門址の材質は何ですか？",
+            "answer": "東土城南門址の材質はガラスと宝石です。具体的にはガラスのフィルムで記録されています。"
+        },
+        {
+            "question": "東土城南門址の大きさは何ですか？",
+            "answer": "東土城南門址の大きさは横164cm、縦119cmです。"
+        }
+    ],
+    "word_Count": {
+        "text": 124,
+        "QA": 119
+    }
+}

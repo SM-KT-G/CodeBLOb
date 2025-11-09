@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_106004",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=873&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=01610000&ccbaCtcd=37&ccbaCpno=2333701610000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2008-02-18",
+        "domain": "문화/역사관광",
+        "title": "청도 탁영종택"
+    },
+    "text": "清道 タギョン･ジョンテク\\n\n華陽邑土坪里145-1\\n\n慶尚北道記念物、先人11年(1578)紫溪祠を紫溪書院に重建して紫溪書院にタクヨン先生を奉安しながら宗宅がある百穀にもタクヨン先生不祧廟を建設した。壬辰倭乱の時に日本軍によって焼失されたことがあり、顕宗2年(1661)ジャギェウォンが賜額なり、士林による私不遷位で公不遷位に賜昇なって先生の御夫妻をボンヒャンハヨた。以降、憲宗10年(1844)昌潤が老朽化した浮彫の墓を再建し、再び1940年に正面3間、側面1.5間に改築して今日に至っている。宗宅はタクヨン先生の文集などを保管した永慕閣と母屋、サランチェ、門屋などがある。タクヨン宗宅は何度も改築して建築的には価値が不十分か、歴史的に濯纓金馹孫の気象と内外的に国を守護する確固たる精神世界は子孫たちに手本となっていて、文化財に保存する価値があるので記念物に指定する。...",
+    "QA": [
+        {
+            "question": "紫溪祠を何年に紫溪書院に重建しましたか？",
+            "answer": "壬辰倭乱の時に日本軍によって焼失されたことがあり、顕宗2年(1661)に再建されました。"
+        },
+        {
+            "question": "タクヨン宗宅にはどのような建造物がありますか？",
+            "answer": "タクヨン宗宅には永慕閣、母屋、サランチェ、門屋などがあります。"
+        },
+        {
+            "question": "タクヨン宗宅は何度も改築されましたか？",
+            "answer": "昌潤が老朽化した浮彫の墓を再建し、再び1940年に正面3間、側面1.5間に改築されました。"
+        },
+        {
+            "question": "タクヨン宗宅の建築的価値はどのように評価されますか？",
+            "answer": "建築的には価値が不十分ですが、歴史的に濯纓金馹孫の気象と内外的に国を守護する確固たる精神世界は子孫たちに手本となっているため、文化財に保存する価値があり、記念物に指定されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 287,
+        "QA": 218
+    }
+}

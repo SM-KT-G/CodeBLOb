@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_016521",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-02-05",
+        "domain": "숙박",
+        "title": "ホテルイルア（호텔일루아）"
+    },
+    "text": "ホテルイルア（호텔일루아）\\n\n釜山広域市 海雲台区 タルマジキル97\\n\n「ホテルイルア（HOTEL ILLUA）」は大韓8景である海雲台タルマジキルの丘に位置しており、海雲台の海、五六島、冬柏島、二妓台、広安大橋を一望できる最高の展望を誇ります。また、2009年5月には客室をモダンでスタイリッシュにリノベーションしました。",
+    "QA": [
+        {
+            "question": "ホテルイルアの場所はどこですか？",
+            "answer": "ホテルイルアは釜山広域市海雲台区のタルマジキル97に位置しています。"
+        },
+        {
+            "question": "ホテルイルアの周辺には何がありますか？",
+            "answer": "ホテルイルアの周辺には海雲台の海、五六島、冬柏島、二妓台、広安大橋などの景色を一望できる最高の展望があります。"
+        },
+        {
+            "question": "ホテルイルアの客室はいつリノベーションされましたか？",
+            "answer": "ホテルイルアの客室は2009年5月にモダンでスタイリッシュにリノベーションされました。"
+        }
+    ],
+    "word_Count": {
+        "text": 120,
+        "QA": 141
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_004606",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42040&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "완도 동고리의아침펜션"
+    },
+    "text": "こんにちは。東古里の朝ペンションです。 私がここにいる宿には海を一望できるオーシャンビューと本当にきれいな空気で有名な清浄地域です。 家族、カップル、友達と一緒にオーシャンビューを最大限楽しみながら快適な時間を過ごすことができます。 また、釣りや貝体験を通じて大切な人たちと一緒に思い出を作ることができます。 しかし、22時以降に入室される場合は、ペンションまで予めご連絡ください。",
+    "QA": [
+        {
+            "question": "このペンションの特徴は何ですか？",
+            "answer": "このペンションは海を一望できるオーシャンビューと清浄な空気が特徴です。"
+        },
+        {
+            "question": "どのような人たちにおすすめですか？",
+            "answer": "家族やカップル、友達同士での滞在におすすめです。"
+        },
+        {
+            "question": "何をすることができますか？",
+            "answer": "オーシャンビューを楽しみながら、釣りや貝体験などのアクティビティを楽しむことができます。"
+        },
+        {
+            "question": "22時以降に入室する場合はどうすればいいですか？",
+            "answer": "22時以降に入室する場合は、事前にペンションにご連絡ください。"
+        }
+    ],
+    "word_Count": {
+        "text": 140,
+        "QA": 149
+    }
+}

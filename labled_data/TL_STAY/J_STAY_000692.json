@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_000692",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42060&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "태안(안면도) 타마린드펜션"
+    },
+    "text": "1000坪余りの敷地の上にたった6棟の一軒家客室、個別テラスで構成されたタマリンドペンションで皆様をご招待します。 ペンションは遊べる広い芝生があり、楽しい野外活動が楽しめ、一軒家型ペンションで個人のくつろぎを提供しています。 午後10時以降に入室される場合は、ペンションまで事前にご連絡ください。 お知らせでお知らせします。",
+    "QA": [
+        {
+            "question": "このペンションの敷地面積は何坪ありますか？",
+            "answer": "1000坪余りです。"
+        },
+        {
+            "question": "タマリンドペンションは何棟の一軒家客室で構成されていますか？",
+            "answer": "6棟です。"
+        },
+        {
+            "question": "ペンションには個別テラスがありますか？",
+            "answer": "はい、個別テラスがあります。"
+        },
+        {
+            "question": "どのような野外活動が楽しめますか？",
+            "answer": "ペンションの広い芝生で楽しい野外活動が楽しめます。"
+        },
+        {
+            "question": "ペンションは一軒家型ですか？",
+            "answer": "はい、一軒家型のペンションです。"
+        },
+        {
+            "question": "午後10時以降に入室する場合はどうすればいいですか？",
+            "answer": "ペンションまで事前にご連絡ください。お知らせでお知らせします。"
+        }
+    ],
+    "word_Count": {
+        "text": 119,
+        "QA": 167
+    }
+}

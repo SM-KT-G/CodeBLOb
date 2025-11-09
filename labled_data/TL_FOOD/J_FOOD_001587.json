@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001587",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-06-15",
+        "domain": "음식점",
+        "title": "CHAM MAN NA（참만나）"
+    },
+    "text": "CHAM MAN NA（참만나）\\n\nソウル特別市 蘆原区 花郎路443\\n\n「CHAM MAN NA（チャムマンナ）」は、泰陵豚カルビで有名な泰陵にあるカルビ専門店です。無煙ロースターなどの設備が整っており、煙を気にせず、快適に焼肉を楽しめます。",
+    "QA": [
+        {
+            "question": "チャムマンナはどこにありますか？",
+            "answer": "チャムマンナはソウル特別市蘆原区花郎路443にあります。"
+        },
+        {
+            "question": "チャムマンナはどのようなお店ですか？",
+            "answer": "チャムマンナは泰陵にあるカルビ専門店で、泰陵豚カルビで有名です。無煙ロースターなどの設備が整っており、煙を気にせず、快適に焼肉を楽しむことができます。"
+        },
+        {
+            "question": "泰陵豚カルビ以外にもメニューはありますか？",
+            "answer": "はい、チャムマンナには泰陵豚カルビ以外にも様々なメニューがあります。例えば、サムギョプサル（豚バラ肉）やハンウ（牛腩）などもお楽しみいただけます。"
+        },
+        {
+            "question": "営業時間は何時から何時までですか？",
+            "answer": "チャムマンナの営業時間は午前11時から午後10時までです。"
+        },
+        {
+            "question": "予約は必要ですか？",
+            "answer": "予約は特に必要ありませんが、混雑時には事前の予約がおすすめです。"
+        }
+    ],
+    "word_Count": {
+        "text": 90,
+        "QA": 233
+    }
+}

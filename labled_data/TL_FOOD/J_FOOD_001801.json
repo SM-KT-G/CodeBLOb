@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001801",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2020-12-28",
+        "domain": "음식점",
+        "title": "KINGKONGブデチゲ 釜山西面ロッテ( 킹콩부대찌개 부산서면롯데 )"
+    },
+    "text": "KINGKONGブデチゲ 釜山西面ロッテ( 킹콩부대찌개 부산서면롯데 )\\n\n釜山広域市 釜山鎮区 カヤデロ784ボンギル46-1\\n\n40年の伝統を持つプデチゲの名店です。釜山広域市のブサンジン区に位置した韓食専門店です。代表的なメニューはプデチゲです。",
+    "QA": [
+        {
+            "question": "このレストランの名前は何ですか？",
+            "answer": "このレストランの名前はKINGKONGブデチゲ 釜山西面ロッテです。"
+        },
+        {
+            "question": "このレストランはどこにありますか？",
+            "answer": "このレストランは釜山広域市の釜山鎮区にあります。"
+        },
+        {
+            "question": "このレストランの代表的なメニューは何ですか？",
+            "answer": "このレストランの代表的なメニューはプデチゲです。"
+        },
+        {
+            "question": "このレストランの特徴は何ですか？",
+            "answer": "このレストランは40年の伝統を持つプデチゲの名店です。"
+        }
+    ],
+    "word_Count": {
+        "text": 94,
+        "QA": 132
+    }
+}

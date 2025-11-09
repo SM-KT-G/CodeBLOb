@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_005708",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/goods/GN0002142323?startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0%5E&npprmaxsort=min",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "경주 스위트크림힐펜션"
+    },
+    "text": "スイートクリームヒルペンションは一日1チームのみ予約可能です。 たった一日中、私たちだけで使用できるプライベート一軒家のフルビラです。 入室時間に関しては事前連絡を必ずお願いします。 訪問者が入室される場合は事前連絡が必須です。",
+    "QA": [
+        {
+            "question": "予約は何チームまで可能ですか？",
+            "answer": "予約は一日1チームのみ可能です。"
+        },
+        {
+            "question": "入室時間はどのように決められていますか？",
+            "answer": "入室時間に関しては事前連絡を必ずお願いしています。"
+        },
+        {
+            "question": "訪問者が入室する場合はどうすればいいですか？",
+            "answer": "訪問者が入室する場合は事前連絡が必要です。"
+        }
+    ],
+    "word_Count": {
+        "text": 83,
+        "QA": 87
+    }
+}

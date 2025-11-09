@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_105502",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=112&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=09240000&ccbaCtcd=36&ccbaCpno=1123609240000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1987-07-16",
+        "domain": "문화/역사관광",
+        "title": "천은사 극락전 아미타후불탱화"
+    },
+    "text": "朝鮮時代の英祖の52年(1776)に描かれたフブル仏画は極楽世界に滞在する死者の魂を極楽往生の道に導く、阿弥陀如来の姿を描いている。幀画とは布や紙に不和を描いて掛け軸や額縁の形で作ってかけた絵を意味する。この絵は阿弥陀如来を中心に8菩薩と10大弟子四天王などが丸く囲んでいる複雑な構図で描かれている。阿弥陀如来坐像は蓮華座に座っており、観音菩薩は歩兵を、大勢至菩薩は経典を持っている姿だ。その他の菩薩たちは、朝鮮後期の不和の形式に沿っており、地蔵菩薩の頭部には流行した様式である網目のような透明帽子が使われている。色は麻布土台に赤色と緑色を主に使用し、厚めに彩色して落ち着いた雰囲気を演出している。この絵は新岩(信菴)をはじめ僧侶の画家14人によって描かれており、製作年代と絵のタイトルだけでなく、登場人物の名称まで詳細に記載されており、阿弥陀仏化研究に重要な資料として活用され得る。",
+    "QA": [
+        {
+            "question": "この絵が描かれた年代はいつですか？",
+            "answer": "この絵は朝鮮時代の英祖の52年(1776)に描かれました。"
+        },
+        {
+            "question": "この絵に描かれている主な人物や神々の名前は何ですか？",
+            "answer": "阿弥陀如来を中心に8菩薩と10大弟子四天王などが描かれています。観音菩薩、大勢至菩薩、地蔵菩薩などが含まれます。"
+        },
+        {
+            "question": "この絵の構図はどのように描かれていますか？",
+            "answer": "阿弥陀如来を中心に8菩薩と10大弟子四天王などが丸く囲んでいる複雑な構図で描かれています。"
+        },
+        {
+            "question": "この絵の色彩はどのように表現されていますか？",
+            "answer": "色は麻布土台に赤色と緑色を主に使用し、厚めに彩色して落ち着いた雰囲気を演出しています。"
+        },
+        {
+            "question": "この絵を描いた画家や僧侶の情報はありますか？",
+            "answer": "この絵は新岩(信菴)をはじめ僧侶の画家14人によって描かれており、製作年代と絵のタイトルだけでなく、登場人物の名称まで詳細に記載されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 287,
+        "QA": 258
+    }
+}

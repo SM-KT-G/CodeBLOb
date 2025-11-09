@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_091638",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ja",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2023-08-08",
+        "domain": "문화/역사관광",
+        "title": "옛 서울의 아름다움에 반하다"
+    },
+    "text": "美しい宮殿と古風な韓屋村、伝統と現代が調和をなしている三清洞(チョンログ・サムチョンドン)通りを歩くコースで、街角ごとにソウルが抱いている魅力に会うことになる。美しい庭園を盛り込んでいる昌徳宮を経て、北村韓屋村を見回って素朴な博物館と雰囲気のあるカフェ、レストランが続く三清洞(チョンログ・サムチョンドン)通りを歩く。",
+    "QA": [
+        {
+            "question": "三清洞通りで何が見られますか？",
+            "answer": "三清洞通りでは美しい宮殿や古風な韓屋村を見ることができます。"
+        },
+        {
+            "question": "昌徳宮では何が盛り込まれていますか？",
+            "answer": "昌徳宮では美しい庭園が盛り込まれています。"
+        },
+        {
+            "question": "北村韓屋村で何が見られますか？",
+            "answer": "北村韓屋村では素朴な博物館や雰囲気のあるカフェ、レストランが見られます。"
+        }
+    ],
+    "word_Count": {
+        "text": 116,
+        "QA": 99
+    }
+}

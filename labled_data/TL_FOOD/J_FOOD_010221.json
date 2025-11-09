@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_010221",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-19",
+        "domain": "음식점",
+        "title": "ディディムセンゴギ村カムジャタン( 디딤생고기촌감자탕 )"
+    },
+    "text": "ディディムセンゴギ村カムジャタン\\n\nソウル特別市 ヨンドゥンポ区 ダンサンロ41ギル11\\n\n豚の背骨と各種野菜を辛く煮込んだスープです。おすすめはカムジャタンです。ソウル特別市のヨンドゥンポ区に位置した韓国料理店です。",
+    "QA": [
+        {
+            "question": "この店の名前は何ですか？",
+            "answer": "ディディムセンゴギ村カムジャタンです。"
+        },
+        {
+            "question": "どの地域に位置していますか？",
+            "answer": "ソウル特別市のヨンドゥンポ区に位置しています。"
+        },
+        {
+            "question": "どんな料理がおすすめですか？",
+            "answer": "おすすめはカムジャタンです。"
+        },
+        {
+            "question": "どんな具材が入っていますか？",
+            "answer": "豚の背骨と各種野菜が入っています。"
+        },
+        {
+            "question": "どのようなスープですか？",
+            "answer": "辛く煮込んだスープです。"
+        }
+    ],
+    "word_Count": {
+        "text": 81,
+        "QA": 110
+    }
+}

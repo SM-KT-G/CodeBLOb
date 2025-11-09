@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_019420",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://apis.data.go.kr/1400000/service/cultureInfoService2/mntInfoOpenAPI2",
+        "collectedDate": "2023-11-22",
+        "publishedDate": "2020-12-01",
+        "domain": "자연관광",
+        "title": "수명산"
+    },
+    "text": "水明山 (수명산)\\n\nソウル特別市江西区内鉢山洞\\n\n山の高さ : 72m , 水明山は面積が235,800㎡であり、山の高さは70.4mだ。 また、山を上から見下ろすと、山の形がまるでご飯茶碗をひっくり返したようだと言って、鉢山とも言った。 山周辺の徳院女子高校、鉢山小学校などを挟んでいる。",
+    "QA": [
+        {
+            "question": "水明山はどこにありますか？",
+            "answer": "ソウル特別市江西区内鉢山洞に位置しています。"
+        },
+        {
+            "question": "水明山の高さは何メートルですか？",
+            "answer": "水明山の高さは72メートルです。"
+        },
+        {
+            "question": "水明山の面積は何平方メートルですか？",
+            "answer": "水明山の面積は235,800平方メートルです。"
+        },
+        {
+            "question": "水明山は鉢山とも呼ばれていますか？",
+            "answer": "はい、山の形がまるでご飯茶碗をひっくり返したような形状のため、鉢山とも呼ばれています。"
+        },
+        {
+            "question": "水明山の周辺にはどのような学校がありますか？",
+            "answer": "水明山の周辺には徳院女子高校や鉢山小学校などがあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 108,
+        "QA": 159
+    }
+}

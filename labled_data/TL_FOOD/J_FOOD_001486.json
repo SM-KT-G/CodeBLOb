@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001486",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-06",
+        "domain": "음식점",
+        "title": "bon PALETE"
+    },
+    "text": "bon PALETE\\n\nソウル特別市 城北区 ソンブクロ57-1\\n\n韓屋のレストランで美味しい食事が楽しめます。ソウル特別市のソンブク区に位置した洋食専門店です。代表的なメニューはシーフードパスタです。",
+    "QA": [
+        {
+            "question": "このレストランはどこにありますか？",
+            "answer": "このレストランはソウル特別市城北区ソンブクロ57-1にあります。"
+        },
+        {
+            "question": "どんな料理が楽しめますか？",
+            "answer": "このレストランでは洋食が楽しめます。特におすすめはシーフードパスタです。"
+        },
+        {
+            "question": "このレストランの特徴は何ですか？",
+            "answer": "このレストランは韓屋の雰囲気を楽しむことができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 75,
+        "QA": 102
+    }
+}

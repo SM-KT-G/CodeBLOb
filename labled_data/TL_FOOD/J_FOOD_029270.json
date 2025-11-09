@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_029270",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "海心 ( 해심 )"
+    },
+    "text": "海心 ( 해심 )\\n\nソウル特別市 ヨンドゥンポ区 ダンサンロ36ギル1-2\\n\n新鮮でいろいろな種類の刺身が味わえる店です。ソウル特別市のヨンドゥンポ区に位置した韓食専門店です。おすすめはスケトウダラスープです。",
+    "QA": [
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "ソウル特別市のヨンドゥンポ区に位置しています。"
+        },
+        {
+            "question": "この店のおすすめ料理は何ですか？",
+            "answer": "おすすめはスケトウダラスープです。"
+        },
+        {
+            "question": "この店では何種類の刺身が味わえますか？",
+            "answer": "新鮮でいろいろな種類の刺身が味わえます。"
+        }
+    ],
+    "word_Count": {
+        "text": 79,
+        "QA": 79
+    }
+}

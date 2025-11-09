@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001757",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2022-09-19",
+        "domain": "음식점",
+        "title": "ISLANA LOUNGE（아일래나라운지）"
+    },
+    "text": "ISLANA LOUNGE（아일래나라운지）\nカンウォン道チュンチョン市ナミソムギル1\n「ISLANA LOUNGE」はおいしい朝食を始め、コーヒーや軽食が楽しめる店です。南怡島の自然を眺めながら、新鮮な食材で作られた料理や飲み物を味わうことができます。",
+    "QA": [
+        {
+            "question": "ISLANA LOUNGE（アイラナ ラウンジ）はどこに位置していますか？",
+            "answer": "ISLANA LOUNGEはカンウォン道チュンチョン市ナミソムギル1に位置しています。"
+        },
+        {
+            "question": "ISLANA LOUNGE（アイラナ ラウンジ）では何を楽しむことができますか？",
+            "answer": "ISLANA LOUNGEではおいしい朝食やコーヒーや軽食を楽しむことができます。"
+        },
+        {
+            "question": "ISLANA LOUNGE（アイラナ ラウンジ）の特徴は何ですか？",
+            "answer": "ISLANA LOUNGEの特徴は、南怡島の自然を眺めながら、新鮮な食材で作られた料理や飲み物を味わうことができることです。"
+        }
+    ],
+    "word_Count": {
+        "text": 93,
+        "QA": 187
+    }
+}

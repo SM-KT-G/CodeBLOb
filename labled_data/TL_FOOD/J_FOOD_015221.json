@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_015221",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "ラン ( 란 )"
+    },
+    "text": "ラン ( 란 )\\n\nソウル特別市 ヨンドゥンポ区 ヨウィデバンロ53ガギル12\\n\n長い時間煮込んだスープを使用した体に良いスープ料理です。ソウル特別市のヨンドゥンポ区に位置した韓食専門店です。おすすめは牛の尾スープです。",
+    "QA": [
+        {
+            "question": "このお店の場所はどこですか？",
+            "answer": "ソウル特別市のヨンドゥンポ区のヨウィデバンロ53ガギル12に位置しています。"
+        },
+        {
+            "question": "このお店の料理はどんな特徴がありますか？",
+            "answer": "長い時間煮込んだスープを使用した体に良いスープ料理が特徴です。"
+        },
+        {
+            "question": "おすすめの料理は何ですか？",
+            "answer": "牛の尾スープがおすすめです。"
+        }
+    ],
+    "word_Count": {
+        "text": 82,
+        "QA": 95
+    }
+}

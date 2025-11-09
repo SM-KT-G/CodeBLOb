@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_025501",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-05",
+        "domain": "음식점",
+        "title": "人生フォー ( 인생쌀국수 )"
+    },
+    "text": "人生フォー ( 인생쌀국수 )\\n\n江原道 原州市 地正面 シンジジョンロ171\\n\n24年の経歴を持つシェフが調理するフォーの専門店です。江原道のウォンジュ市に位置したフォー専門店です。代表的なメニューはフォーです。",
+    "QA": [
+        {
+            "question": "人生フォーはどのような料理専門店ですか？",
+            "answer": "人生フォーはフォーの専門店で、江原道の原州市にあります。24年の経験を持つシェフが調理を担当しています。"
+        },
+        {
+            "question": "人生フォーの代表的なメニューは何ですか？",
+            "answer": "人生フォーの代表的なメニューはフォーです。フォーはベトナム料理の一つで、米麺を使ったスープです。"
+        },
+        {
+            "question": "人生フォーの店舗はどこにありますか？",
+            "answer": "人生フォーの店舗は江原道の原州市のシンジジョンロ171番地にあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 79,
+        "QA": 141
+    }
+}

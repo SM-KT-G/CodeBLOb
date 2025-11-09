@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_066768",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42070&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "레이크힐스 호텔 속리산 운영 정책"
+    },
+    "text": "午後3時以降にチェックインが可能で、チェックアウトは午前11時以前にお願いします。 両親同伴の7歳以下のお子様は無料で宿泊できます。 追加で人数を追加する場合、7歳以上の場合、1人当たり15,000ウォンの追加料金が発生します。 朝食は有料で、歯ブラシと歯磨き粉は提供されます。 ビジネスセンター、バーベキュー施設、レストラン、カフェ、売店、マッサージチェア施設があります。 駐車は無料で、客室内のWi-Fiも無料でご利用いただけます。 追加費用は当日現地にてお支払いいただく必要があります。 追加で入室利用案内があります。",
+    "QA": [
+        {
+            "question": "チェックインとチェックアウトの時間は何時ですか？",
+            "answer": "午後3時以降にチェックインが可能で、チェックアウトは午前11時以前にお願いします。"
+        },
+        {
+            "question": "子供の宿泊料金について教えてください。",
+            "answer": "両親同伴の7歳以下のお子様は無料で宿泊できます。7歳以上の場合、1人当たり15,000ウォンの追加料金が発生します。"
+        },
+        {
+            "question": "朝食は提供されますか？",
+            "answer": "朝食は有料で提供されます。"
+        },
+        {
+            "question": "駐車場は利用料金はかかりますか？",
+            "answer": "駐車は無料で利用できます。"
+        },
+        {
+            "question": "Wi-Fiは無料で利用できますか？",
+            "answer": "はい、客室内のWi-Fiは無料で利用できます。"
+        }
+    ],
+    "word_Count": {
+        "text": 192,
+        "QA": 172
+    }
+}

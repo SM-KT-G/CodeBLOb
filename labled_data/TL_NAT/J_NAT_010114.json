@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_010114",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101933",
+        "collectedDate": "2023-10-06",
+        "publishedDate": "2020-01-01",
+        "domain": "자연관광",
+        "title": "부산시민공원"
+    },
+    "text": "釜山市民公園\\n\n釜山市民公園(英語:Busan Citizens Park)は大韓民国釜山広域市釜山鎮区凡田洞、蓮池洞一帯にある公園だ。 面積は473,911㎡であり、記憶、文化、楽しさ、自然、参加の5つのテーマで構成されている。 2010年1月27日、釜山市庁で在韓米軍の基地だったキャンプハヤリアの敷地を返還して造成した公園だ。 2011年8月に着工し、2014年5月1日に正式に開院した。",
+    "QA": [
+        {
+            "question": "釜山市民公園はどこにありますか？",
+            "answer": "釜山広域市釜山鎮区凡田洞、蓮池洞にあります。"
+        },
+        {
+            "question": "釜山市民公園の面積はどれくらいですか？",
+            "answer": "面積は473,911㎡です。"
+        },
+        {
+            "question": "釜山市民公園は何のテーマで構成されていますか？",
+            "answer": "釜山市民公園は記憶、文化、楽しさ、自然、参加の5つのテーマで構成されています。"
+        },
+        {
+            "question": "釜山市民公園はいつ開院しましたか？",
+            "answer": "釜山市民公園は2014年5月1日に開院しました。"
+        }
+    ],
+    "word_Count": {
+        "text": 145,
+        "QA": 127
+    }
+}

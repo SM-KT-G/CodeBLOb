@@ -1,0 +1,31 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_055741",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42001&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "아미드 호텔 서울 운영 정책"
+    },
+    "text": "チェックインは15:00以降に可能で、チェックアウトは12:00以前に必要です。 駐車場の駐車可能台数が限られているため、満車の場合は周辺の有料駐車場を利用する必要があります。 ホテル内の駐車時間はチェックアウト日基準で12時まで無料で、1部屋あたり1台のみ可能です。 タイムアウト時には料金が発生します。 週末は駐車スペースが混雑する可能性があるので、公共交通機関を利用することをお勧めします。 ",
+    "QA": [
+        {
+            "question": "チェックインとチェックアウトの時間はいつですか？",
+            "answer": "チェックインは15:00以降に可能で、チェックアウトは12:00以前に必要です。"
+        },
+        {
+            "question": "駐車場はありますか？",
+            "answer": "はい、駐車場がありますが、台数に限りがあります。満車の場合は周辺の有料駐車場を利用する必要があります。ホテル内の駐車時間はチェックアウト日基準で12時まで無料で、1部屋あたり1台のみ可能です。タイムアウト時には料金が発生します。週末は駐車スペースが混雑する可能性があるので、公共交通機関を利用することをお勧めします。"
+        }
+    ],
+    "word_Count": {
+        "text": 145,
+        "QA": 170
+    }
+}

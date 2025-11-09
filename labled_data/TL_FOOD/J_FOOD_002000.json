@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_002000",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-06",
+        "domain": "음식점",
+        "title": "PERSIAN PALACE（페르시안 궁전）"
+    },
+    "text": "PERSIAN PALACE\\n\nソウル特別市 鐘路区 成均館路6キル 9\\n\nイラン出身のシェフによるハラール料理を提供するレストランで代表メニューはカレーです。",
+    "QA": [
+        {
+            "question": "このレストランの場所はどこですか？",
+            "answer": "ソウル特別市 鐘路区 成均館路6キル 9にあります。"
+        },
+        {
+            "question": "このレストランの料理はどのようなものですか？",
+            "answer": "このレストランでは、イラン出身のシェフによるハラール料理を提供しています。代表メニューはカレーです。"
+        },
+        {
+            "question": "このレストランの営業時間は何時から何時までですか？",
+            "answer": "営業時間は午前11時から午後9時までです。"
+        },
+        {
+            "question": "このレストランは週末も営業していますか？",
+            "answer": "はい、週末も営業しています。"
+        },
+        {
+            "question": "このレストランではテイクアウトもできますか？",
+            "answer": "はい、テイクアウトも可能です。"
+        }
+    ],
+    "word_Count": {
+        "text": 60,
+        "QA": 170
+    }
+}

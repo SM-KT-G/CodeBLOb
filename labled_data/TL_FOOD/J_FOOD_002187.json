@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_002187",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-15",
+        "domain": "음식점",
+        "title": "Wolfgang\"s Steakhouse(울프강스테이크하우스)"
+    },
+    "text": "Wolfgang\"s Steakhouse\\n\nソウル特別市 江南区 宣陵路152キル 21\\n\nアメリカの3大ステーキ専門店です。代表的なメニューはステーキです。ソウル特別市のアブグジョン洞に位置した洋食屋です。",
+    "QA": [
+        {
+            "question": "ヴォルフガングステーキハウスはどこにありますか？",
+            "answer": "ヴォルフガングステーキハウスはソウル特別市江南区宣陵路152キル21に位置しています。"
+        },
+        {
+            "question": "ヴォルフガングステーキハウスはどんな種類のレストランですか？",
+            "answer": "ヴォルフガングステーキハウスはアメリカの3大ステーキ専門店で、洋食屋です。"
+        },
+        {
+            "question": "ヴォルフガングステーキハウスの代表的なメニューは何ですか？",
+            "answer": "ヴォルフガングステーキハウスの代表的なメニューはステーキです。"
+        },
+        {
+            "question": "ヴォルフガングステーキハウスはソウル特別市のどの地区に位置していますか？",
+            "answer": "ヴォルフガングステーキハウスはソウル特別市のアブグジョン洞に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 78,
+        "QA": 196
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_049603",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-19",
+        "domain": "숙박",
+        "title": "ハワイ観光ホテル（하와이관광호텔）"
+    },
+    "text": "ハワイ観光ホテル\n済州特別自治道 済州市 サジャン3キル32\n新済州の中心にある「ハワイ観光ホテル（JEJU HAWAII HOTEL）」は、漢拏山や自然の壮大さが感じられるホテルです。",
+    "QA": [
+        {
+            "question": "このホテルの場所はどこですか？",
+            "answer": "ハワイ観光ホテルは済州市のサジャン3キル32に位置しています。"
+        },
+        {
+            "question": "近くにどのような観光スポットがありますか？",
+            "answer": "ハワイ観光ホテルの近くには漢拏山や自然の壮大さを感じられる場所があります。"
+        },
+        {
+            "question": "ホテルの特徴は何ですか？",
+            "answer": "ハワイ観光ホテルは漢拏山や自然の壮大さが感じられるホテルです。"
+        }
+    ],
+    "word_Count": {
+        "text": 68,
+        "QA": 107
+    }
+}

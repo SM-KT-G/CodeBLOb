@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_026027",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-06",
+        "domain": "음식점",
+        "title": "奨忠豚足 ( 장충족발 )"
+    },
+    "text": "奨忠豚足 ( 장충족발 )\nソウル特別市 銅雀区 ノリャンジンロ16ギル31\n豚足は韓国人に愛される代表的な料理です。代表的なメニューは豚足です。ソウル特別市のドンジャク区に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "この店の名前は何ですか？",
+            "answer": "奨忠豚足（장충족발）です。"
+        },
+        {
+            "question": "この店はどこに位置していますか？",
+            "answer": "ソウル特別市の銅雀区ノリャンジンロ16ギル31に位置しています。"
+        },
+        {
+            "question": "この店の代表的なメニューは何ですか？",
+            "answer": "豚足です。"
+        },
+        {
+            "question": "この店は何を専門としていますか？",
+            "answer": "韓食を専門としています。"
+        },
+        {
+            "question": "豚足はどのように調理されていますか？",
+            "answer": "豚足は煮込んで調理されます。"
+        }
+    ],
+    "word_Count": {
+        "text": 72,
+        "QA": 114
+    }
+}

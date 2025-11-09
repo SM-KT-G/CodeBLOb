@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_089161",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=129&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=11200000&ccbaCtcd=38&ccbaCpno=1123811200000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1992-01-15",
+        "domain": "문화/역사관광",
+        "title": "양산 신흥사 대광전"
+    },
+    "text": "梁山新興社大広殿\\n\n慶尚南道梁山市院東面院洞路2282-111、新興寺(永浦里)\\n\n朝鮮時代、宝物、テグァン戦は毘盧遮那仏を祀っている建物の中に神興寺の中心の法堂だ。1988年に部分解体・保守に発見した記録によると、朝鮮孝宗8年(1657)に建てられたことを知ることができる。前面3間・側面3間規模で、屋根は側面から見ると、人の教わる字形をした切妻屋根である。軒を支えようと装飾して作った恐怖は柱の上と柱の間にもあるダポ様式にした。朝鮮中期に建てた建物だが、建築技法から推測して、電気の特徴が強く現れている。左右の横面壁の内外と前後ポビョク(包壁)の前後には仏像・神将像・花などの壁画があるが、ほとんど17世紀中葉に描かれたもので、一部は18世紀の絵とみられる。建物の内側には建設する当時のものと見られる様々な丹青が残っているが、色彩や文様の手法が非常に長けている。",
+    "QA": [
+        {
+            "question": "この寺の建物はいつ建てられましたか？",
+            "answer": "神興寺の法堂は朝鮮孝宗8年(1657)に建てられました。"
+        },
+        {
+            "question": "この建物の屋根の形はどんな形ですか？",
+            "answer": "屋根は側面から見ると、人の教わる字形をした切妻屋根です。"
+        },
+        {
+            "question": "法堂の軒を支える柱の装飾にはどんな様式が使われていますか？",
+            "answer": "軒を支えようと装飾して作った柱の上と柱の間にはダポ様式が使われています。"
+        },
+        {
+            "question": "法堂の内外にはどんな壁画がありますか？",
+            "answer": "法堂の内外と前後ポビョク(包壁)の前後には仏像・神将像・花などの壁画があります。"
+        },
+        {
+            "question": "法堂の内部にはどんな丹青が残っていますか？",
+            "answer": "建設する当時のものと見られる様々な丹青が残っており、色彩や文様の手法が非常に長けています。"
+        }
+    ],
+    "word_Count": {
+        "text": 282,
+        "QA": 206
+    }
+}

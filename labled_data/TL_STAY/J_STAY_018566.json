@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_018566",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42020&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "거제도 거제로와펜션"
+    },
+    "text": "巨済路とペンションへ皆様をご招待します。 巨済の青い海、巨加大橋の素敵な全景を眺めながら、現実の荷物を下ろして自然の中で愛する人々と真の休息が取れる巨済の小さな城、我が巨済路とはお客様に息苦しい日常から抜け出した安らかな休息と美しい思い出をプレゼントするために常に最善を尽くします。 お知らせを22時以降に入室する場合、ペンションまで事前にご連絡ください。",
+    "QA": [
+        {
+            "question": "巨済路とはどのような場所ですか？",
+            "answer": "巨済路は巨済の青い海と巨加大橋の素晴らしい景色を楽しみながら、自然の中でリラックスできる小さな城です。"
+        },
+        {
+            "question": "巨済路のペンションはどのような特徴がありますか？",
+            "answer": "巨済路のペンションはお客様に息苦しい日常から抜け出し、美しい思い出を作るために最善を尽くします。"
+        },
+        {
+            "question": "ペンションへの入室時間について教えてください。",
+            "answer": "ペンションへの入室時間が22時以降の場合は、事前にご連絡ください。"
+        }
+    ],
+    "word_Count": {
+        "text": 130,
+        "QA": 143
+    }
+}

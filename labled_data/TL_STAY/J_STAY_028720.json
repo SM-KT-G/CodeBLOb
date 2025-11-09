@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_028720",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42030&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "포항 청하 콜 무인텔"
+    },
+    "text": "浦項チョンハコール無人テルは、チョンハの美しさを楽しむのに最適な場所です。 お客様のために、全客室1室1台のドライブインサービスを提供しています。 また、フロントでヤノルジャ会員であることを知らせる場合、会員特典が適用されます。 ただし、オンシーズン、祝日および特定日には料金が変動することがありますのでご注意ください。 この価格は全客室2名基準で策定され、人数追加時に追加料金が発生します。",
+    "QA": [
+        {
+            "question": "このホテルはどのような場所にありますか？",
+            "answer": "浦項チョンハコール無人テルは、チョンハの美しさを楽しむのに最適な場所にあります。"
+        },
+        {
+            "question": "このホテルはどのようなサービスを提供していますか？",
+            "answer": "このホテルでは、全客室1室1台のドライブインサービスを提供しています。"
+        },
+        {
+            "question": "ヤノルジャ会員の特典は何ですか？",
+            "answer": "ヤノルジャ会員であることをフロントで知らせると、会員特典が適用されます。"
+        },
+        {
+            "question": "料金はどのようになっていますか？",
+            "answer": "オンシーズン、祝日および特定日には料金が変動することがありますのでご注意ください。"
+        },
+        {
+            "question": "この価格には何人まで宿泊できますか？",
+            "answer": "この価格は全客室2名基準で策定され、人数追加時に追加料金が発生します。"
+        }
+    ],
+    "word_Count": {
+        "text": 143,
+        "QA": 206
+    }
+}

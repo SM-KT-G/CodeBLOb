@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_021388",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-01-07",
+        "domain": "음식점",
+        "title": "蓬莱軒（メイフィールドホテル）（봉래헌（메이필드호텔））"
+    },
+    "text": "蓬莱軒（メイフィールドホテル）（봉래헌（메이필드호텔））\\n\nソウル特別市 江西区 傍花大路94\\n\n優れた外観を誇る「蓬莱軒（Bongraeheon）」は格調高い宮廷韓定食専門店です。季節感溢れる見事な自然景観を眺めながら、美味しい料理を堪能できます。",
+    "QA": [
+        {
+            "question": "蓬莱軒はどんな特徴を持っていますか？",
+            "answer": "蓬莱軒は格調高い宮廷韓定食専門店で、優れた外観と季節感溢れる自然景観が特徴です。"
+        },
+        {
+            "question": "蓬莱軒ではどんな料理が楽しめますか？",
+            "answer": "蓬莱軒では美味しい料理を堪能することができます。"
+        },
+        {
+            "question": "蓬莱軒の場所はどこですか？",
+            "answer": "蓬莱軒はソウル特別市江西区傍花大路94にあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 93,
+        "QA": 101
+    }
+}

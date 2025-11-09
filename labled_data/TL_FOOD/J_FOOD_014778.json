@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_014778",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-02-24",
+        "domain": "음식점",
+        "title": "ユガネ 西面ロッテ( 유가네 서면롯데 )"
+    },
+    "text": "ユガネ 西面ロッテ( 유가네 서면롯데 )\n釜山広域市 釜山鎮区 西面路 50\n新鮮な鶏モモ肉を仕入れて提供する店です。 釜山広域市のブサンジン区に位置したタッカルビ専門店です。代表的なメニューはチーズタッカルビです。",
+    "QA": [
+        {
+            "question": "ユガネ 西面ロッテはどこに位置していますか？",
+            "answer": "ユガネ 西面ロッテは釜山広域市 釜山鎮区 西面路 50 に位置しています。"
+        },
+        {
+            "question": "ユガネ 西面ロッテはどのような店ですか？",
+            "answer": "ユガネ 西面ロッテは新鮮な鶏モモ肉を仕入れて提供する店です。"
+        },
+        {
+            "question": "ユガネ 西面ロッテの代表的なメニューは何ですか？",
+            "answer": "ユガネ 西面ロッテの代表的なメニューはチーズタッカルビです。"
+        }
+    ],
+    "word_Count": {
+        "text": 79,
+        "QA": 119
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_051638",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=770&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=00120000&ccbaCtcd=24&ccbaCpno=2332400120000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1985-02-25",
+        "domain": "문화/역사관광",
+        "title": "고씨삼강문"
+    },
+    "text": "コシ・サムガンムン\\n\n光州南区鴨村洞山14番地\\n\n光州広域市記念物、サムカンムンは忠臣、孝子、烈女を称えるために立てた精励(旌閭)だ。このサムカンムンは、文禄・慶長の役、錦山(クムサン)戦闘で殉国した義兵長の高敬命(高敬命、1533~1592)とその家族6人のチュンヒョヨルを称えるために立てた。1844年に建設したこの建物は一般的に使用する精励の建築様式で平面は正面4間、側面1間に切妻屋根である。...",
+    "QA": [
+        {
+            "question": "このサムカンムンは何のために建てられましたか？",
+            "answer": "サムカンムンは忠臣、孝子、烈女を称えるために建てられました。"
+        },
+        {
+            "question": "サムカンムンはいつ建設されましたか？",
+            "answer": "サムカンムンは1844年に建設されました。"
+        },
+        {
+            "question": "サムカンムンの建物の特徴は何ですか？",
+            "answer": "サムカンムンの建物は一般的に使用する精励の建築様式で、平面は正面4間、側面1間に切妻屋根です。"
+        },
+        {
+            "question": "高敬命とはどのような人物ですか？",
+            "answer": "高敬命は文禄・慶長の役、錦山戦闘で殉国した義兵長です。"
+        },
+        {
+            "question": "チュンヒョヨルとは何を意味しますか？",
+            "answer": "チュンヒョヨルは高敬命とその家族6人を称える言葉です。"
+        }
+    ],
+    "word_Count": {
+        "text": 150,
+        "QA": 179
+    }
+}

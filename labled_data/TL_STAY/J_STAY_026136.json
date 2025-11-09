@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_026136",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/goods/GN0002024039?startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0%5E&npprmaxsort=min",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "울산 소호다락방펜션"
+    },
+    "text": "自然と接しているSOHOの屋根裏部屋民宿は、寒波に備えたメゾネットタイプの電気暖房の設置と温風機の設置を完了しました。 この民宿は山を眺めながら位置しており、100mの距離には澄んだ渓谷があります。 都心の騒音から抜け出し、静かで爽快な休息を楽しむことができます。 ただし、22時以降に入室される場合は、ペンションまで予めご連絡ください。",
+    "QA": [
+        {
+            "question": "この民宿の場所はどこですか？",
+            "answer": "この民宿は山を眺めながら位置しています。"
+        },
+        {
+            "question": "民宿の近くにはどんな自然がありますか？",
+            "answer": "100mの距離には澄んだ渓谷があります。"
+        },
+        {
+            "question": "この民宿はどのような設備を備えていますか？",
+            "answer": "寒波に備えたメゾネットタイプの電気暖房の設置と温風機の設置が完了しています。"
+        },
+        {
+            "question": "この民宿は静かな場所ですか？",
+            "answer": "はい、都心の騒音から抜け出し、静かで爽快な休息を楽しむことができます。"
+        },
+        {
+            "question": "夜遅くに入室する場合はどうすれば良いですか？",
+            "answer": "22時以降に入室される場合は、ペンションまで予めご連絡ください。"
+        }
+    ],
+    "word_Count": {
+        "text": 123,
+        "QA": 172
+    }
+}

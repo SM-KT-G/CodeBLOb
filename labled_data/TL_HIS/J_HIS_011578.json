@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_011578",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-09-03",
+        "domain": "문화/역사관광",
+        "title": "南山公園（ソウル）（남산공원（서울））"
+    },
+    "text": "南山公園（ソウル）\nソウル特別市 中区 三一大路231\n南山（ナムサン）公園はソウル都心に位置しています。Nソウルタワーや南山ケーブルカーなどの施設利用、散歩、運動、休息などさまざまな活動が可能な余暇生活の中心地です。",
+    "QA": [
+        {
+            "question": "南山公園はどこに位置していますか？",
+            "answer": "南山公園はソウル都心に位置しています。"
+        },
+        {
+            "question": "南山公園ではどのような活動ができますか？",
+            "answer": "南山公園ではNソウルタワーや南山ケーブルカーなどの施設利用、散歩、運動、休息などさまざまな活動が可能です。"
+        },
+        {
+            "question": "南山公園は何のための場所ですか？",
+            "answer": "南山公園は余暇生活の中心地で、施設利用や散歩、運動、休息などの様々な活動が楽しめる場所です。"
+        }
+    ],
+    "word_Count": {
+        "text": 79,
+        "QA": 125
+    }
+}

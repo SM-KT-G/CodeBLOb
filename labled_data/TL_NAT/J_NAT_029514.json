@@ -1,0 +1,55 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_029514",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=283&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=15&ccbaAsno=01130000&ccbaCtcd=35&ccbaCpno=1353501130000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2018-06-04",
+        "domain": "자연관광",
+        "title": "군산 선유도 망주봉 일원"
+    },
+    "text": "群山のドゥイッパダには、計63個の島があり、彼らは、有人も16個と無人島47個で構成されている。この地域は古群山群島と呼ばれ、その中でも島の景色が一番美しいとして仙遊島というところがある。仙遊島は、旧群山(チュンジド)と呼ばれていた場所で、ここのマンジュボンから眺めた仙遊夕日は空と海が赤い色合いに変わって黄海の落日機関の中でも最も優れた景観を形成する。このマンジュボンという単語は昔、無実の罪で配流された忠臣が北を向いて賃金を懐かしむ姿と関連して付けられたもので、ここでは仙遊8景中の6経を鑑賞できるチョマンジョムだ。また、ソール島では雨が降ったらマンジュボンの頂上から岩壁に乗って流れる滝の絶景を眺めることができる。ここは文化財的保存価値が高いところに新たに発見された名勝地として知られている。その他にもマンジュボンをはじめ、仙遊夕日、三道帰帆、明沙十里、無12峰、平沙落雁など6つの景観があり、彼らは古群山群島の名勝地として注目されている。",
+    "QA": [
+        {
+            "question": "仙遊島の島の数は？",
+            "answer": "6"
+        },
+        {
+            "question": "仙遊島の有人島の数は？",
+            "answer": "16"
+        },
+        {
+            "question": "仙遊島の夕日が赤く変わる景観は何と呼ばれていますか？",
+            "answer": "仙遊夕日"
+        },
+        {
+            "question": "マンジュボンから眺めた仙遊夕日は何の中でも最も優れた景観を形成すると言われていますか？",
+            "answer": "黄海の落日機関"
+        },
+        {
+            "question": "マンジュボンはどのような関連で名付けられましたか？",
+            "answer": "無実の罪で配流された忠臣が北を向いて賃金を懐かしむ姿と関連して名付けられました"
+        },
+        {
+            "question": "ソール島で何が降ったら、マンジュボンの頂上から岩壁に乗って流れる滝の絶景を眺めることができますか？",
+            "answer": "雨"
+        },
+        {
+            "question": "仙遊島で新たに発見された名勝地として知られている場所はどこですか？",
+            "answer": "文化財的保存価値が高いところ"
+        },
+        {
+            "question": "仙遊島の名勝地として注目されている景観は何と呼ばれていますか？",
+            "answer": "仙遊8景中の6つ"
+        }
+    ],
+    "word_Count": {
+        "text": 310,
+        "QA": 222
+    }
+}

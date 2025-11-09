@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_004503",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42041&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "광주 상무 호텔 마스터스"
+    },
+    "text": "こんにちは。光州尚武マスターズホテルです。 当ホテルは65インチsmartTVをはじめ、YouTubeとNETFLIXを無制限に視聴できる特典を提供しています。 また、様々な付帯施設と効率的なサービスが十分に用意されており、快適で快適な宿泊を保障します。 ホテルはモダンで洗練されたデザインが目立ち、清潔で快適な客室をご用意しております。 チェックインの際、車両番号を必ず教えてください。 1部屋につき車両1台ずつ駐車可能で、実際の身分証明書を持参しないと入室できません。 寒い冬や暑い夏は外でデートせず、ホテル内でリラックスしてテレビを鑑賞してください。",
+    "QA": [
+        {
+            "question": "ホテルで提供されている特典は何ですか？",
+            "answer": "当ホテルでは、65インチのスマートテレビと無制限でYouTubeとNETFLIXを視聴できる特典を提供しています。"
+        },
+        {
+            "question": "ホテルの客室はどのようなデザインですか？",
+            "answer": "ホテルの客室はモダンで洗練されたデザインが目立ち、清潔で快適な空間を提供しています。"
+        },
+        {
+            "question": "チェックインの際に必要な情報はありますか？",
+            "answer": "チェックインの際には、車両番号を必ず教えてください。また、1部屋につき車両1台ずつ駐車可能で、実際の身分証明書を持参しないと入室できません。"
+        },
+        {
+            "question": "ホテル内でのリラックス方法はありますか？",
+            "answer": "寒い冬や暑い夏は外でデートせず、ホテル内でリラックスしてテレビを鑑賞してください。"
+        }
+    ],
+    "word_Count": {
+        "text": 203,
+        "QA": 212
+    }
+}

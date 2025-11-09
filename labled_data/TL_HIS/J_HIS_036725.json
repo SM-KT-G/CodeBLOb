@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_036725",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=940&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=24&ccbaAsno=01660000&ccbaCtcd=37&ccbaCpno=2443701660000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2013-04-08",
+        "domain": "문화/역사관광",
+        "title": "의성 점우당"
+    },
+    "text": "義城漸于堂 (의성 점우당)\\n\n慶尚北道義城郡錦城面山雲里157\\n\n慶尚北道民俗文化財、永川李氏らが集まって暮らす村にある家で、1900年頃に建てたと伝えている。 建物は母屋、サランチェ、納屋、門屋で構成されている。 母屋とサランチェは「ㄷ」字型を成しており、その向かい側に納屋があって開いた「ㅁ」字型の構造を見せる。 平面構成や技法で独特な点は見えないが、複数の世代が一緒に暮らしていた姿を見ることができ、良い例になる家だ。",
+    "QA": [
+        {
+            "question": "この建物はいつ建てられましたか？",
+            "answer": "この建物は1900年頃に建てられたと伝えられています。"
+        },
+        {
+            "question": "この建物はどのような構造で構成されていますか？",
+            "answer": "この建物は母屋、サランチェ、納屋、門屋で構成されています。母屋とサランチェは「ㄷ」字型を成し、納屋はその向かい側にあり、開いた「ㅁ」字型の構造をしています。"
+        },
+        {
+            "question": "この建物はどのような特徴がありますか？",
+            "answer": "この建物は平面構成や技法では特徴的な点は見られませんが、複数の世代が一緒に暮らしていた様子が見られる、良い例の家です。"
+        },
+        {
+            "question": "この建物はどのような人々が暮らしていましたか？",
+            "answer": "この建物では、慶尚北道民俗文化財や永川李氏などの人々が集まって暮らしていました。"
+        },
+        {
+            "question": "この建物はどこに位置していますか？",
+            "answer": "この建物は慶尚北道義城郡錦城面山雲里157に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 157,
+        "QA": 243
+    }
+}

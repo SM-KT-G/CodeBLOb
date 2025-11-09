@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_002136",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-01",
+        "domain": "음식점",
+        "title": "THE HALAL GUYS 弘大 ( 할랄가이즈 홍대 )"
+    },
+    "text": "THE HALAL GUYS 弘大 \nソウル特別市 麻浦区 楊花路 161\nニューヨークで有名なアメリカンハラルフードの店です。 ソウル特別市のマポ区に位置した洋食専門店です。代表的なメニューはサンドイッチです。",
+    "QA": [
+        {
+            "question": "ハラルガイズはどこに位置していますか？",
+            "answer": "ソウル特別市のマポ区に位置しています。"
+        },
+        {
+            "question": "ハラルガイズの代表的なメニューは何ですか？",
+            "answer": "ハラルガイズの代表的なメニューはサンドイッチです。"
+        },
+        {
+            "question": "ハラルガイズはアメリカンハラルフードの店ですか？",
+            "answer": "はい、ハラルガイズはアメリカンハラルフードの店です。"
+        },
+        {
+            "question": "ハラルガイズはニューヨークで有名ですか？",
+            "answer": "はい、ハラルガイズはニューヨークで有名です。"
+        }
+    ],
+    "word_Count": {
+        "text": 77,
+        "QA": 129
+    }
+}

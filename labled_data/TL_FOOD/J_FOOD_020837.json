@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_020837",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2022-10-04",
+        "domain": "음식점",
+        "title": "묘향만두"
+    },
+    "text": "妙香餃子 (묘향만두)\\n\n京畿道九里市ペンロ63\\n\n手作り餃子と冷グッスと呼ぶ韓国料理が楽しめるレストランです。オイソバギ冷グッスはシンプルで自然な味わいですが、甘酸っぱくて爽やかな味わいは夏の贅沢な一品です。また、餃子の具材を加えて辛く煮込んだりすると、より美味しさが引き立ちます。",
+    "QA": [
+        {
+            "question": "妙香餃子はどこにありますか？",
+            "answer": "妙香餃子は京畿道九里市ペンロ63にあります。"
+        },
+        {
+            "question": "妙香餃子ではどのような料理が楽しめますか？",
+            "answer": "妙香餃子では手作り餃子と冷グッスが楽しめます。また、餃子の具材を加えて辛く煮込んだりすることもできます。"
+        },
+        {
+            "question": "オイソバギ冷グッスはどんな味ですか？",
+            "answer": "オイソバギ冷グッスはシンプルで自然な味わいですが、甘酸っぱくて爽やかな味わいが特徴です。夏の贅沢な一品と言えます。"
+        }
+    ],
+    "word_Count": {
+        "text": 105,
+        "QA": 134
+    }
+}

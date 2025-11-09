@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001507",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "BUA（부아）"
+    },
+    "text": "BUA（부아）\\n\nソウル特別市 龍山区 普光路59キル 9\\n\n韓国のグルメ番組でよく紹介されるお店です。「ハス」を意味する「BUA（ブア）」は、正統派タイ料理レストランです。代表的なメニューはソムタムです。この店はソウル特別市のイテウォンに位置したアジア料理専門店です。",
+    "QA": [
+        {
+            "question": "BUA（ブア）はどこに位置していますか？",
+            "answer": "BUA（ブア）はソウル特別市のイテウォンに位置しています。"
+        },
+        {
+            "question": "BUA（ブア）の代表的なメニューは何ですか？",
+            "answer": "BUA（ブア）の代表的なメニューはソムタムです。"
+        },
+        {
+            "question": "BUA（ブア）はどのようなお店ですか？",
+            "answer": "BUA（ブア）は正統派タイ料理レストランで、ソウル特別市のイテウォンに位置したアジア料理専門店です。"
+        }
+    ],
+    "word_Count": {
+        "text": 100,
+        "QA": 120
+    }
+}

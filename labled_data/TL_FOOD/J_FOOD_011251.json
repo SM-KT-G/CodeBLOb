@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_011251",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-07-06",
+        "domain": "음식점",
+        "title": "ノソン食堂 ( 노송식당 )"
+    },
+    "text": "ノソン食堂 ( 노송식당 )\\n\n忠清北道 堤川市 奈吐路43キル 5\\n\n韓国のグルメ番組で紹介された、伝統のあるグルメ店です。おすすめはカレイの味付焼きです。忠淸北道のジェチョン市に位置した魚焼き専門店です。",
+    "QA": [
+        {
+            "question": "ノソン食堂はどこにありますか？",
+            "answer": "ノソン食堂は忠清北道の堤川市に位置しています。"
+        },
+        {
+            "question": "ノソン食堂のおすすめメニューは何ですか？",
+            "answer": "ノソン食堂のおすすめはカレイの味付焼きです。"
+        },
+        {
+            "question": "ノソン食堂は何を専門としていますか？",
+            "answer": "ノソン食堂は魚焼きを専門としています。"
+        },
+        {
+            "question": "ノソン食堂はどのような店ですか？",
+            "answer": "ノソン食堂は伝統のあるグルメ店です。"
+        },
+        {
+            "question": "ノソン食堂の場所はどのように行けますか？",
+            "answer": "ノソン食堂は奈吐路43キル5にあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 77,
+        "QA": 140
+    }
+}

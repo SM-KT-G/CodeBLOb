@@ -1,0 +1,55 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_049787",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=65&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=04310000&ccbaCtcd=37&ccbaCpno=1123704310000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1965-09-01",
+        "domain": "문화/역사관광",
+        "title": "경산 팔공산 관봉 석조여래좌상"
+    },
+    "text": "統一新羅時代、宝物、慶尚北道慶山市八公山南の冠峰の頂上に屏風のように囲まれた岩壁を背景に作られた坐仏像です。冠峰のことを「カッバウィ」と呼ぶこともありますが、それはこの仏像の頭にまるで笠をかぶったような平たい石が乗せられていることから由来しています。はげ頭の上にはサントゥ形の頭（六戒）がはっきりしています。顔は丸くて豊満で弾力がありますが,目尻が少し上がっている耳は肩まで長く下がり、太くて短い首には3列のしわである三道が表示されています。やや上がった肩は広くまっすぐで堂々として丈夫だが、胸は評判的で身体の形は鈍くなったようです。粗雑だが精巧な両手は膝の上に載せられていますが、右手の先が地面を向いた降魔触地印と類似した手の形は石窟庵の本尊仏に似ています。しかし、仏像の左手の裏に小さな薬箱を持っていることは確かで、薬師如来仏を表現したものと考えられます",
+    "QA": [
+        {
+            "question": "この仏像はどこにありますか？",
+            "answer": "この仏像は慶尚北道慶山市八公山南の冠峰の頂上にあります。"
+        },
+        {
+            "question": "冠峰とはどういう意味ですか？",
+            "answer": "冠峰はこの仏像の背後にある山の名前で、慶尚北道慶山市に位置しています。"
+        },
+        {
+            "question": "仏像の頭に何が乗っていますか？",
+            "answer": "仏像の頭には笠をかぶったような平たい石が乗っています。"
+        },
+        {
+            "question": "仏像の顔の特徴は何ですか？",
+            "answer": "仏像の顔は丸くて豊満で、目尻が少し上がっています。"
+        },
+        {
+            "question": "仏像の耳の特徴は何ですか？",
+            "answer": "仏像の耳は肩まで長く下がり、太くて短いです。"
+        },
+        {
+            "question": "仏像の胸の形はどうですか？",
+            "answer": "仏像の胸は評判的であり、身体の形は鈍くなったようです。"
+        },
+        {
+            "question": "仏像の両手には何がありますか？",
+            "answer": "仏像の両手には膝の上に載せられた降魔触地印と思われる手の形があります。"
+        },
+        {
+            "question": "仏像の左手には何を持っていますか？",
+            "answer": "仏像の左手の裏には小さな薬箱が持たれています。"
+        }
+    ],
+    "word_Count": {
+        "text": 277,
+        "QA": 246
+    }
+}

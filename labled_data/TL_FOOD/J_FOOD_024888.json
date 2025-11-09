@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_024888",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "牛ハンマリコムタン ( 소한마리곰탕 )"
+    },
+    "text": "牛ハンマリコムタン ( 소한마리곰탕 )\n慶尚北道 安東市 豊山中央キル 92\nさっぱりとした濃厚なスープが絶品の店です。代表的なメニューは牛の頭部肉のコムタンです。慶尚北道のアンドン市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "この店の特徴は何ですか？",
+            "answer": "牛ハンマリコムタンは、さっぱりとした濃厚なスープが絶品の店です。"
+        },
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "牛ハンマリコムタンは、慶尚北道のアンドン市に位置しています。"
+        },
+        {
+            "question": "この店の代表的なメニューは何ですか？",
+            "answer": "牛ハンマリコムタンの代表的なメニューは牛の頭部肉のコムタンです。"
+        }
+    ],
+    "word_Count": {
+        "text": 77,
+        "QA": 100
+    }
+}

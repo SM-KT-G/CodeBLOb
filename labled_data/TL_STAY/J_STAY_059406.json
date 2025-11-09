@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_059406",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42060&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "태안 몽산포베네치아펜션"
+    },
+    "text": "こんにちは。泰安モンサンポベネチアペンションです。 次のようなお知らせをご案内いたします。 第一に、ペンションに到着される場合は22時以降でしたら予めご連絡ください。 第二に、次の利用者のために退室時間を守ってください。 最後に、客室整理後に退室点検を受ける必要があります。 点検が終わった後は客室の鍵を返却してください。",
+    "QA": [
+        {
+            "question": "到着時間について教えてください。",
+            "answer": "22時以降に到着される場合は予めご連絡ください。"
+        },
+        {
+            "question": "退室時間は何時ですか？",
+            "answer": "次の利用者のために退室時間を守ってください。具体的な時間は案内されたかけ先にお問い合わせください。"
+        },
+        {
+            "question": "退室後に何をしなければなりませんか？",
+            "answer": "退室後は客室の点検を受ける必要があります。点検が終わった後は客室の鍵を返却してください。"
+        }
+    ],
+    "word_Count": {
+        "text": 118,
+        "QA": 118
+    }
+}

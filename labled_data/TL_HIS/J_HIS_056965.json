@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_056965",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=90&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=06970000&ccbaCtcd=11&ccbaCpno=1123106970000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1981-03-18",
+        "domain": "문화/역사관광",
+        "title": "나옹화상어록 및 나옹화상가송"
+    },
+    "text": "ナオン画像語録およびナオン画像歌ソング\\n\nソウル特別市龍山区西氷庫路137(龍山洞6街、ジャン·ジャン)\\n\n高麗まあ5年(1379)、宝物、ニャース画像語録は高麗の僧侶奈翁画像ヒェグン(惠勤)の文を弟子たちが収集して校正して計67枚で刊行したものであり、ニャース画像カソンはニャース画像ヒェグンが直接書いた詩集だ。奈翁画像(1320∼1376)は早く中国に入ってインドの僧侶の功(指空)から仏の教えを学んだ後、高麗に戻って恭愍王の師となった。奈翁画像語録や奈翁画像カソン(懶翁和尙語錄や懶翁和尙歌頌)は、恭愍王12年(1363)に最初に刊行したことを奈翁画像の弟子たちが校正してまあ5年(1379)に再び印刷したのだ。韓国伝統の紙でつくったに撮った木版本で語録とカソンがそれぞれ1冊に分かれて2本になっており、大きさは縦26センチ、横16センチだ。奈翁画像語録は様々な本が伝えられているが、この本はその中でも文字の彫刻と印刷状態が一番いい本だ。...",
+    "QA": [
+        {
+            "question": "奈翁画像語録とは何ですか？",
+            "answer": "奈翁画像語録は高麗時代の僧侶である奈翁画像ヒェグン（惠勤）の文を収集したもので、計67枚で刊行された本です。"
+        },
+        {
+            "question": "奈翁画像カソンとは何ですか？",
+            "answer": "奈翁画像カソンは奈翁画像ヒェグンが直接書いた詩集です。"
+        },
+        {
+            "question": "奈翁画像語録と奈翁画像カソンはいつ刊行されましたか？",
+            "answer": "奈翁画像語録は恭愍王12年（1363）に最初に刊行され、その後奈翁画像の弟子たちによって校正され、再びまあ5年（1379）に印刷されました。"
+        },
+        {
+            "question": "奈翁画像語録と奈翁画像カソンはどのような形式で出版されましたか？",
+            "answer": "奈翁画像語録と奈翁画像カソンは、韓国の伝統的な紙で作られた木版に撮影され、語録とカソンがそれぞれ1冊に分かれて2本になっています。大きさは縦26センチ、横16センチです。"
+        }
+    ],
+    "word_Count": {
+        "text": 313,
+        "QA": 235
+    }
+}

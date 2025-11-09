@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_012851",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2018-01-24",
+        "domain": "문화/역사관광",
+        "title": "大田駅（대전역）"
+    },
+    "text": "大田駅\n大田広域市 東区 中央路215 （貞洞）\n1905年に開設され、1958年に現在の駅舎に変わりました。大田市東南の旧都心エリアに位置しており、大田広域市の鉄道交通の中心駅としてソウル、光州、東大邱、釜山、蔚山、浦項方面へ向かう列車の中間停車駅であり始・終着駅でもあります。また、駅広場に地下鉄大田駅があります。",
+    "QA": [
+        {
+            "question": "大田駅はいつ開設されましたか？",
+            "answer": "1905年に開設されました。"
+        },
+        {
+            "question": "1958年に何が変わりましたか？",
+            "answer": "1958年に現在の駅舎に変わりました。"
+        },
+        {
+            "question": "大田駅はどのエリアに位置していますか？",
+            "answer": "大田市東南の旧都心エリアに位置しています。"
+        },
+        {
+            "question": "大田駅は何の中間停車駅ですか？",
+            "answer": "大田広域市の鉄道交通の中心駅として、ソウル、光州、東大邱、釜山、蔚山、浦項方面へ向かう列車の中間停車駅です。"
+        },
+        {
+            "question": "大田駅には地下鉄がありますか？",
+            "answer": "はい、駅広場に地下鉄大田駅があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 116,
+        "QA": 151
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_018869",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1144&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=04190000&ccbaCtcd=37&ccbaCpno=3413704190000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2002-02-14",
+        "domain": "문화/역사관광",
+        "title": "봉화기헌고택"
+    },
+    "text": "奉化基憲古宅 (봉화기헌고택)\\n\n慶尚北道奉化郡法田面慶体亭キル18(法田里)\\n\n朝鮮憲宗11年(1845年)推定 , 慶尚北道文化財資料 , ∙ 起軒高句麗は起軒カン·ドゥファン(1781~1854)が創建して居住していた住宅で、正祖5年(1781)に生まれ、純祖7年(1807)に式年文科に及第し、侍講院筆善として世子である憲宗を教えた。 その後、奉化法典里に都落ちし、これ以上官職に就かなかった。 その翌年、憲宗11年(1845)に現在の場所に居住する住宅を創建したという。 ∙ 本体は前面部分6間と側面2間の両方をサラン空間として構成している。 左側にオンドル部屋と監室を前後に置き、右側に縁側とオンドル部屋の2間を道理方向に配置し、後方に押入れを置いた。 デムンチェは中央に門を設置し、右側に井戸の床を敷いて板壁で壁チェを作った2間の古房を置いた。 そして左側にはオンドル部屋1間と納屋が設置されている。 3両の薄谷屋根や門間部分だけ屋根を持ち上げる大門屋を作った。",
+    "QA": [
+        {
+            "question": "この古宅はいつ建てられましたか？",
+            "answer": "憲宗11年(1845年)に創建されました。"
+        },
+        {
+            "question": "この古宅の建築家は誰ですか？",
+            "answer": "起軒カン·ドゥファン(1781~1854)が建てました。"
+        },
+        {
+            "question": "この古宅はどのような構成になっていますか？",
+            "answer": "前面部分6間と側面2間の両方をサラン空間として構成されています。"
+        },
+        {
+            "question": "この古宅にはどのような部屋がありますか？",
+            "answer": "オンドル部屋、監室、縁側、押入れ、デムンチェ、納屋などがあります。"
+        },
+        {
+            "question": "この古宅の屋根の特徴は何ですか？",
+            "answer": "薄谷屋根や門間部分だけ屋根を持ち上げる大門屋を作っています。"
+        }
+    ],
+    "word_Count": {
+        "text": 322,
+        "QA": 169
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_029904",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/geunal-urineun",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "グナルウリヌン"
+    },
+    "text": "グナルウリヌン\\n\nソウル特別市 鍾路区 大学路9キル 29\\n\nこの店はソウル特別市のテハンノに位置した韓食専門店です。代表的なメニューはヌタウナギです。韓国人は健康のために夏にヌタウナギ焼きをたくさん食べます。",
+    "QA": [
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "この店はソウル特別市の鍾路区大学路9キル29に位置しています。"
+        },
+        {
+            "question": "この店の特徴的な料理は何ですか？",
+            "answer": "この店の代表的な料理はヌタウナギです。"
+        },
+        {
+            "question": "なぜ韓国人は夏にヌタウナギ焼きをたくさん食べるのですか？",
+            "answer": "韓国人は健康のために夏にヌタウナギ焼きをたくさん食べます。"
+        }
+    ],
+    "word_Count": {
+        "text": 78,
+        "QA": 99
+    }
+}

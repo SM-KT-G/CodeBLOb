@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_102511",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=458&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=01080000&ccbaCtcd=11&ccbaCpno=2111101080000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1998-12-26",
+        "domain": "문화/역사관광",
+        "title": "조아통상조약"
+    },
+    "text": "ソウル特別市有形文化財である朝鮮とロシア間で締結された条約文書がある。朝鮮はこの条約で農機、酒類など39種、カボチャなど32種、薬品など4種をロシアから輸入して、金銀など5種、紅参などの様々な品目を輸出するようになった。キムビョンシが1884年5月15日に署名して、ロシア代表は6月25日に署名した。この条約では1885年8月16日、景福宮(キョンボックン)で、高宗(コジョン)が直接署名したことと知られていて、ロシアとの外交史を研究する上で重要な資料だ。",
+    "QA": [
+        {
+            "question": "朝鮮とロシアが締結した条約文書は何年に署名されましたか？",
+            "answer": "1884年"
+        },
+        {
+            "question": "この条約では、朝鮮は何種類の商品をロシアから輸入することになりましたか？",
+            "answer": "39種類"
+        },
+        {
+            "question": "朝鮮はこの条約で、何種類の商品をロシアに輸出することになりましたか？",
+            "answer": "5種類"
+        },
+        {
+            "question": "この条約が締結された場所はどこですか？",
+            "answer": "景福宮(キョンボックン)"
+        },
+        {
+            "question": "誰がこの条約に直接署名しましたか？",
+            "answer": "高宗(コジョン)"
+        },
+        {
+            "question": "何月何日にロシア代表が署名しましたか？",
+            "answer": "6月25日"
+        }
+    ],
+    "word_Count": {
+        "text": 167,
+        "QA": 139
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_080727",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=118&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=10000000&ccbaCtcd=11&ccbaCpno=1121110000000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1989-04-10",
+        "domain": "문화/역사관광",
+        "title": "서울 승가사 석조승가대사좌상"
+    },
+    "text": "高麗憲宗15年(1024)、宝物、景徳王15年(756年)に秀台が創建した僧伽寺に祀られているこの像は、インドの高僧で、中国唐に来て伝道に専念し、観音菩薩としてまで称えられた僧伽大師の姿を刻んだ肖像彫刻です。頭には頭巾をかぶっていて、顔は平べったいながらも頬骨が飛び出し、典型的な田舎の老人のような印象で脂肪色が濃く見えるこのような特徴は、評判の良い体躯とともに忠清北道堤川郡寒水面獅子頻神社址にある石塔石像などの高麗初期の石造僧像と似た面を示しています。また、長い上半身に比べて特に広い下半身は高麗初期の鉄仏と類似した特徴を示しており、両肩を包んで着た服はしわのラインが太く簡潔で当時の傾向をよく示しています。体から出る光を形象化した船の形をした光背は、昇像に比べて広く大きく、頭の光背と体の光背に分けられる",
+    "QA": [
+        {
+            "question": "この像は誰に祀られているのですか？",
+            "answer": "この像は僧伽寺に祀られています。"
+        },
+        {
+            "question": "この像を創建したのはいつで、どんな僧ですか？",
+            "answer": "この像は宝物、景徳王15年(756年)に秀台が創建した僧伽寺に祀られているもので、僧伽大師の姿を刻んだ肖像彫刻です。"
+        },
+        {
+            "question": "僧伽大師はどのような僧ですか？",
+            "answer": "僧伽大師はインドの高僧で、中国唐に来て伝道に専念し、観音菩薩としてまで称えられた僧です。"
+        },
+        {
+            "question": "この像の特徴はどのようなものですか？",
+            "answer": "この像は頭に頭巾をかぶり、顔は平べったいながらも頬骨が飛び出し、典型的な田舎の老人のような印象を持っており、高麗初期の石造僧像と似た面を示しています。また、広い下半身は高麗初期の鉄仏と類似した特徴を示しています。"
+        },
+        {
+            "question": "光背はどのような形をしていますか？",
+            "answer": "体から出る光を形象化した船の形をした光背は、昇像に比べて広く大きく、頭の光背と体の光背に分けられています。"
+        }
+    ],
+    "word_Count": {
+        "text": 260,
+        "QA": 268
+    }
+}

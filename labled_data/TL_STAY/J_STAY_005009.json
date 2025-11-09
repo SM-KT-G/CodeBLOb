@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_005009",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/goods/GN0002130515?startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0%5E&npprmaxsort=min",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "태안(안면도) 퍼피21애견펜션"
+    },
+    "text": "こんにちは。泰安(安眠島)パピー21愛犬ペンションです。 お知らせ102号個別プールは夏期のみ運営されます。 また、301号は14歳以上のみ予約可能で、14歳未満は予約できません。 また、個人が持ってきた外部炭グリルは使用できず、1チームには2つの客室を予約することができません。",
+    "QA": [
+        {
+            "question": "個別プールはいつ利用できますか？",
+            "answer": "個別プールは夏期のみ運営されます。"
+        },
+        {
+            "question": "301号の予約には年齢制限がありますか？",
+            "answer": "はい、301号の予約は14歳以上の方のみ可能です。14歳未満の方は予約できません。"
+        },
+        {
+            "question": "外部炭グリルを持ってきて使用することはできますか？",
+            "answer": "申し訳ありませんが、個人が持ってきた外部炭グリルは使用できません。"
+        },
+        {
+            "question": "1チームには何部屋まで予約することができますか？",
+            "answer": "1チームには2部屋まで予約することができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 102,
+        "QA": 145
+    }
+}

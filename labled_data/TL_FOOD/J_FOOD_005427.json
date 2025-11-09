@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_005427",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-01",
+        "domain": "음식점",
+        "title": "クンジプ韓牛村 ( 큰집한우촌 )"
+    },
+    "text": "クンジプ韓牛村 \n全羅南道 順天市 ビボンキル 73\n品質の良い韓牛が味わえて、お集まりに最適な店です。おすすめは霜降り牛ロースです。全羅南道のスンチョン市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "クンジプ韓牛村はどこにありますか？",
+            "answer": "クンジプ韓牛村は全羅南道の順天市に位置しています。"
+        },
+        {
+            "question": "クンジプ韓牛村のおすすめメニューは何ですか？",
+            "answer": "クンジプ韓牛村のおすすめは霜降り牛ロースです。"
+        },
+        {
+            "question": "クンジプ韓牛村はどんな店ですか？",
+            "answer": "クンジプ韓牛村は品質の良い韓牛が味わえる韓食専門店で、お集まりに最適です。"
+        }
+    ],
+    "word_Count": {
+        "text": 66,
+        "QA": 102
+    }
+}

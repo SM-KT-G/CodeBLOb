@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_041405",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-06-04",
+        "domain": "문화/역사관광",
+        "title": "ISLAND RESOM OASIX SUNSET SPA（아일랜드 리솜 오아식스 선셋스파）"
+    },
+    "text": "ISLAND RESOM OASIX SUNSET SPA\n忠清南道 泰安郡 安眠邑 コッチ海岸路204\nOASIX SUNSET SPA（オアシックスサンセットスパ）は安眠島に位置するオーシャンビューリゾートアイランドリソムのスパブランドです。屋外インフィニティプールを含む6種のテーマスパで構成されており、コッチ海岸の夕焼けを鑑賞できる最も理想的な場所となっています。",
+    "QA": [
+        {
+            "question": "OASIX SUNSET SPAはどこに位置していますか？",
+            "answer": "OASIX SUNSET SPAは安眠島に位置しています。"
+        },
+        {
+            "question": "OASIX SUNSET SPAは何種類のスパで構成されていますか？",
+            "answer": "OASIX SUNSET SPAは6種類のテーマスパで構成されています。"
+        },
+        {
+            "question": "OASIX SUNSET SPAで鑑賞できる夕焼けの場所はどこですか？",
+            "answer": "OASIX SUNSET SPAではコッチ海岸の夕焼けを鑑賞できる最も理想的な場所です。"
+        }
+    ],
+    "word_Count": {
+        "text": 136,
+        "QA": 151
+    }
+}

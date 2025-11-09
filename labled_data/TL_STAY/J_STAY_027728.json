@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_027728",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42090&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "서귀포 금옥통나무펜션(독채)"
+    },
+    "text": "青い海の美しさが込められた夢のような憩いの場、金玉丸太のペンションは自然に似た美しい風景がある場所です。 このペンションは全客室が一軒家型に新築されており、自然に近い材料で建築されています。 ペンションを利用する方にお知らせします。 もし、22時以降に入室される場合は、ペンションまで予めご連絡ください。 また、全期間2泊のご予約が可能です。 ).",
+    "QA": [
+        {
+            "question": "金玉丸太のペンションはどのような特徴がありますか？",
+            "answer": "金玉丸太のペンションは自然に近い材料で建築された一軒家型の客室があります。"
+        },
+        {
+            "question": "ペンションへの入室時間について教えてください。",
+            "answer": "22時以降に入室される場合は、事前にペンションにご連絡ください。"
+        },
+        {
+            "question": "金玉丸太のペンションでの滞在期間はどのくらいですか？",
+            "answer": "金玉丸太のペンションでは全期間2泊のご予約が可能です。"
+        }
+    ],
+    "word_Count": {
+        "text": 127,
+        "QA": 124
+    }
+}

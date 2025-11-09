@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_072368",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=810&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=00490200&ccbaCtcd=50&ccbaCpno=2333900490200&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1998-01-07",
+        "domain": "문화/역사관광",
+        "title": "별도환해장성"
+    },
+    "text": "高麗の原種11(1270)年、済州島では外敵の侵入を防ぐため、海岸線を歩きながら、城を築いたが、これをフヮンヘジャンソンという。オンピョン里、杏園里・ヘンウォンリ、ハンドンリ、ドンボクリ、ブクチョンリ、エウォル)、コネ里など、14ヵ所には現在も城壁が残っている。金サンホンの'ナムサロク'にはフヮンヘジャンソンを'耽羅の万里の長城'と呼んでいる。また、フヮンヘジャンソンは禾北洞の1地点から東に約40m離れた位置に位置している。この城壁は岸壁と外側の壁を備えた二重性で、周辺の石を利用して壁を築いた。現在残っている城壁の長さは約640mほどだ。",
+    "QA": [
+        {
+            "question": "フヮンヘジャンソンとは何ですか？",
+            "answer": "フヮンヘジャンソンは済州島で海岸線を歩きながら築かれた城壁です。"
+        },
+        {
+            "question": "フヮンヘジャンソンは何時期に築かれましたか？",
+            "answer": "フヮンヘジャンソンは高麗の原種11(1270)年に築かれました。"
+        },
+        {
+            "question": "フヮンヘジャンソンはどのような機能を持っていましたか？",
+            "answer": "フヮンヘジャンソンは外敵の侵入を防ぐために築かれ、海岸線を歩きながら城を形成しました。"
+        },
+        {
+            "question": "フヮンヘジャンソンの城壁はどのような構造でしたか？",
+            "answer": "フヮンヘジャンソンの城壁は岸壁と外側の壁を備えた二重構造で、周辺の石を利用して築かれました。"
+        },
+        {
+            "question": "フヮンヘジャンソンの城壁は現在どのくらい残っていますか？",
+            "answer": "現在残っているフヮンヘジャンソンの城壁の長さは約640mほどです。"
+        }
+    ],
+    "word_Count": {
+        "text": 199,
+        "QA": 222
+    }
+}

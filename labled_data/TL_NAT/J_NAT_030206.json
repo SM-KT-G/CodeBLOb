@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_030206",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101933",
+        "collectedDate": "2023-10-06",
+        "publishedDate": "2020-01-01",
+        "domain": "자연관광",
+        "title": "나리분지"
+    },
+    "text": "羅里盆地 \\n\n羅里盆地は鬱陵島の中北部にある盆地で、聖人峰の北側にある。 ここは聖人峰の火山噴火で作られ、カルデラである。 500万年前に強力な噴火によって聖人峰を中心に鬱陵島が形成され、その後峰の下の部分が陥没してナリ盆地ができた。今はナリ盆地の中で人々が居住し農作業をしている。\\n\n",
+    "QA": [
+        {
+            "question": "羅里盆地はどこに位置していますか？",
+            "answer": "羅里盆地は鬱陵島の中北部に位置しています。"
+        },
+        {
+            "question": "羅里盆地ができた経緯は何ですか？",
+            "answer": "羅里盆地は聖人峰の火山噴火によってできたカルデラです。"
+        },
+        {
+            "question": "何年前に鬱陵島が形成されたのですか？",
+            "answer": "鬱陵島は500万年前に聖人峰を中心に形成されました。"
+        },
+        {
+            "question": "羅里盆地では何が行われていますか？",
+            "answer": "羅里盆地では人々が居住し、農作業が行われています。"
+        },
+        {
+            "question": "聖人峰の北側にある地形は何ですか？",
+            "answer": "羅里盆地は聖人峰の北側にある盆地です。"
+        }
+    ],
+    "word_Count": {
+        "text": 106,
+        "QA": 148
+    }
+}

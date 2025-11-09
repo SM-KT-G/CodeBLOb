@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_003882",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-03",
+        "domain": "음식점",
+        "title": "オンマソン混ぜそば ( 엄마손막국수 )"
+    },
+    "text": "オンマソン混ぜそば ( 엄마손막국수 )\\n\n江原道 ガンヌン市 ウンジョンギル40\\n\n100%そば粉で手打ちしたマッククスです。江原道のガンヌン市に位置した韓食専門店です。代表的なメニューは混ぜそばです。",
+    "QA": [
+        {
+            "question": "このお店の名前は何ですか？",
+            "answer": "オンマソン混ぜそば（엄마손막국수）です。"
+        },
+        {
+            "question": "このお店はどこにありますか？",
+            "answer": "このお店は江原道のガンヌン市のウンジョンギル40に位置しています。"
+        },
+        {
+            "question": "このお店の特徴的なメニューは何ですか？",
+            "answer": "このお店の代表的なメニューは混ぜそばです。100%そば粉を使って手打ちされています。"
+        },
+        {
+            "question": "このお店の混ぜそばはどのように作られていますか？",
+            "answer": "このお店の混ぜそばは、手打ちされた100%そば粉を使用して作られています。"
+        }
+    ],
+    "word_Count": {
+        "text": 76,
+        "QA": 148
+    }
+}

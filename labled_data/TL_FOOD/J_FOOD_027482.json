@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_027482",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-06",
+        "domain": "음식점",
+        "title": "陣元祖タッカンマリ ( 진원조닭한마리 )"
+    },
+    "text": "陣元祖タッカンマリ ( 진원조닭한마리 )\\n\nソウル特別市 松坡区 ペクジェゴブンロ7ギル32-11\\n\n韓国で初めて特許を取得したスープを使用しています。おすすめはタッカンマリです。ソウル特別市のソンパ区に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "このレストランの特許は何に関連していますか？",
+            "answer": "このレストランの特許はスープに関連しています。"
+        },
+        {
+            "question": "このレストランのおすすめ料理は何ですか？",
+            "answer": "このレストランのおすすめ料理はタッカンマリです。"
+        },
+        {
+            "question": "このレストランはどこに位置していますか？",
+            "answer": "このレストランはソウル特別市のソンパ区に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 85,
+        "QA": 100
+    }
+}

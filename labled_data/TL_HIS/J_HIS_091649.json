@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_091649",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ja",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2023-08-08",
+        "domain": "문화/역사관광",
+        "title": "옛스러운 문경의 사찰탐방 여행"
+    },
+    "text": "千年古刹デスンサは大雄殿の石垣の蓮の花と軒の魚、龍、花桟が美しい漬ける。衰退した丹青で、歳月の跡が寄せられている中に真の韓国の美しさが一緒に埋められている。20年前の石炭を運んでいた鉄路に走るレールバイクに乗って聞慶を完走する楽しさも見逃せない。",
+    "QA": [
+        {
+            "question": "この千年古刹デスンサはどこに位置していますか？",
+            "answer": "聞慶に位置しています。"
+        },
+        {
+            "question": "大雄殿の石垣には何が彫られていますか？",
+            "answer": "蓮の花と軒の魚、龍、花桟が彫られています。"
+        },
+        {
+            "question": "20年前の石炭を運んでいた鉄路に走るレールバイクの体験はどのような楽しみがありますか？",
+            "answer": "聞慶を完走する楽しみがあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 90,
+        "QA": 97
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_000990",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2023-06-29",
+        "domain": "문화/역사관광",
+        "title": "HiKR GROUND（하이커 그라운드）"
+    },
+    "text": "HiKR GROUND（하이커 그라운드）\\n\nソウル特別市チュン区チョンギェチョンロ40 韓国観光公社ソウルセンター\\n\n韓国観光公社ソウルセンターにオープンした「HiKR GROUND（ハイカグラウンド）」は、K-POP体験やメディアアート鑑賞ができる韓国観光広報館です。「HiKR Ground」という名前には、韓国（KR）が歓迎のあいさつ（Hi）をし、世界の旅行者の遊び場（Playground）を目指すという意味が込められています。特にMZ世代向けにさまざまな方法で韓国観光コンテンツを提供しています。1階は大型メディア「HiKRウォール」で様々なメディアアートが楽しめる空間となっており、メディアーティストのイ・イナム氏の『新都市山水図』や、グローバル韓流ファンの公募による韓国観光の動画などを見ることができます。2階ではXRライブスタジオを活用したK-POPミュージックビデオを直接制作することができます。また、チョンゲチョン（清渓川）方面の窓側ではインスタレーションアーティストのソ・ドホ氏の作品『North Wall』が鑑賞でき、3階・4階では韓国の地方観光に関する様々な芸術、体験、展示が楽しめます。",
+    "QA": [
+        {
+            "question": "HiKR GROUNDはどこにありますか？",
+            "answer": "HiKR GROUNDはソウル特別市チュン区チョンギェチョンロ40にあります。"
+        },
+        {
+            "question": "HiKR GROUNDでできることは何ですか？",
+            "answer": "HiKR GROUNDではK-POP体験やメディアアート鑑賞ができます。"
+        },
+        {
+            "question": "HiKR GROUNDの1階では何が楽しめますか？",
+            "answer": "HiKR GROUNDの1階では大型メディア「HiKRウォール」で様々なメディアアートが楽しめます。"
+        },
+        {
+            "question": "HiKR GROUNDの2階では何ができますか？",
+            "answer": "HiKR GROUNDの2階ではXRライブスタジオを活用したK-POPミュージックビデオを直接制作することができます。"
+        },
+        {
+            "question": "HiKR GROUNDの窓側では何が鑑賞できますか？",
+            "answer": "HiKR GROUNDの窓側ではインスタレーションアーティストのソ・ドホ氏の作品『North Wall』が鑑賞できます。"
+        },
+        {
+            "question": "HiKR GROUNDの3階・4階では何が楽しめますか？",
+            "answer": "HiKR GROUNDの3階・4階では韓国の地方観光に関する様々な芸術、体験、展示が楽しめます。"
+        }
+    ],
+    "word_Count": {
+        "text": 374,
+        "QA": 321
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_100086",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/collectionList#######",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2023-10-11",
+        "domain": "문화/역사관광",
+        "title": "傳라진옥필 서"
+    },
+    "text": "伝羅陣屋筆書 (傳라진옥필 서)\\n\n大連紙に墨で描かれたのは、中国の作家である伝羅陣玉(1866-1940)による作品です。この作品は文化芸術の一環として書画や字に分類されます。大きさは縦1187cm、横303cm、縦1095cm、横232cmです。",
+    "QA": [
+        {
+            "question": "絵画の大きさは何ですか？",
+            "answer": "縦1187cm、横303cm、縦1095cm、横232cmです。"
+        },
+        {
+            "question": "作品は何で描かれましたか？",
+            "answer": "作品は墨で描かれました。"
+        },
+        {
+            "question": "作者は誰ですか？",
+            "answer": "作者は伝羅陣玉（でんらじんおく）です。"
+        },
+        {
+            "question": "作品はどのように分類されますか？",
+            "answer": "作品は文化芸術の一環として書画や字に分類されます。"
+        },
+        {
+            "question": "紙の素材は何ですか？",
+            "answer": "大連紙に描かれた作品です。"
+        }
+    ],
+    "word_Count": {
+        "text": 92,
+        "QA": 117
+    }
+}

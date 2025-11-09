@@ -1,0 +1,51 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_098218",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/collectionList#######",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2023-10-11",
+        "domain": "문화/역사관광",
+        "title": "작곡가 마사나 신부의 엽서"
+    },
+    "text": "作曲家マサナ神父の葉書 (작곡가 마사나 신부의 엽서)\\n\nアン・イクテ先生への葉書は、アントニオ・マサナ神父が送ったものです。切手は2枚貼られており、消印がないため、具体的な日付は分かりません。この葉書はヨーロッパ（スペイン）のもので、紙質は日向紙を使っています。作家はアントニオ・マサナ神父で、分類は通信の一形態である葉書に分類されます。その大きさは縦10cm、横15cmです。",
+    "QA": [
+        {
+            "question": "マサナ神父の葉書の作曲家は誰ですか？",
+            "answer": "マサナ神父"
+        },
+        {
+            "question": "マサナ神父の葉書はどのような紙質を使用していますか？",
+            "answer": "日向紙"
+        },
+        {
+            "question": "マサナ神父の葉書の具体的な日付は分かりますか？",
+            "answer": "分かりません"
+        },
+        {
+            "question": "マサナ神父の葉書の切手の枚数はいくつですか？",
+            "answer": "2枚"
+        },
+        {
+            "question": "マサナ神父の葉書の消印はありますか？",
+            "answer": "ない"
+        },
+        {
+            "question": "マサナ神父の葉書の分類は何ですか？",
+            "answer": "葉書に分類されます"
+        },
+        {
+            "question": "マサナ神父の葉書の大きさはいくらですか？",
+            "answer": "縦10cm、横15cm"
+        }
+    ],
+    "word_Count": {
+        "text": 140,
+        "QA": 133
+    }
+}

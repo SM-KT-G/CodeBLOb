@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_034881",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.booking.com/hotel/kr/basilra-gyeongjusi1.ko.html",
+        "collectedDate": "2023-11-17",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "Basilla"
+    },
+    "text": "慶州に位置するBasilla宿泊施設は慶州ワールドと10km、石窟庵と23km、慶州駅とは17分の距離にあり便利な位置にあります。 Basillaではパティオ、無料専用駐車場、無料Wi-Fiなど複数の施設をご利用いただけます。 このアパートはエアコンを提供しており、ベッドルーム4つ、リビングルーム、完備されたキッチン、シャワー設備が完備されたバスルーム2つがあります。 また、薄型テレビも提供されます。 Basillaからは瞻星台まで2.4km、雁鴨池まで3kmの距離に位置する名所もあります。 最寄り空港の浦項空港は32kmの距離にあり、Basillaは慶州の中心部から750mの距離に位置しています。 チェックインは15:00から可能で、チェックアウトは11:00までです。",
+    "QA": [
+        {
+            "question": "Basilla宿泊施設はどのような施設がありますか？",
+            "answer": "Basillaではパティオ、無料専用駐車場、無料Wi-Fiなど複数の施設があります。"
+        },
+        {
+            "question": "Basilla宿泊施設の場所はどこですか？",
+            "answer": "Basillaは慶州に位置しており、慶州ワールドと10km、石窟庵と23km、慶州駅とは17分の距離にあります。"
+        },
+        {
+            "question": "Basilla宿泊施設の近くにはどんな名所がありますか？",
+            "answer": "Basillaからは瞻星台まで2.4km、雁鴨池まで3kmの距離に位置する名所もあります。"
+        },
+        {
+            "question": "最寄りの空港はどこですか？",
+            "answer": "最寄り空港は浦項空港で、Basillaからは32kmの距離にあります。"
+        },
+        {
+            "question": "チェックインとチェックアウトの時間は何時ですか？",
+            "answer": "チェックインは15:00から可能で、チェックアウトは11:00までです。"
+        }
+    ],
+    "word_Count": {
+        "text": 249,
+        "QA": 239
+    }
+}

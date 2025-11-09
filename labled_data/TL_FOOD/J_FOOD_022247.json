@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_022247",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-01",
+        "domain": "음식점",
+        "title": "山すそ ( 산마루 )"
+    },
+    "text": "山すそ \n忠清北道 堤川市 錦城面 清風湖路 909\n様々な山菜のおかずを提供し、ヘルシーな食事を楽しめるところです。 忠淸北道のジェチョン市に位置した韓食専門店です。おすすめはコンドゥレナムルご飯です。",
+    "QA": [
+        {
+            "question": "この韓食専門店の場所はどこですか？",
+            "answer": "忠清北道のジェチョン市に位置しています。"
+        },
+        {
+            "question": "この韓食専門店のおすすめメニューは何ですか？",
+            "answer": "おすすめはコンドゥレナムルご飯です。"
+        },
+        {
+            "question": "この韓食専門店では何種類の山菜のおかずを提供していますか？",
+            "answer": "様々な山菜のおかずを提供しています。"
+        },
+        {
+            "question": "この韓食専門店の食事はヘルシーですか？",
+            "answer": "はい、ヘルシーな食事を楽しめます。"
+        }
+    ],
+    "word_Count": {
+        "text": 74,
+        "QA": 117
+    }
+}

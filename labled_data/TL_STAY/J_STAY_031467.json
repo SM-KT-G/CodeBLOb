@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_031467",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42010&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "가평 레드존플러스펜션"
+    },
+    "text": "RED ZONE+で皆さんを歓迎します！ 私たちは 3 つのタイプの客室と、さまざまな水上レジャーとパッケージを提供しています。 北漢江の近くに位置する私たちはウォータースレードの最適な場所です。 また、私たちはベテランドライバーと親切なスタッフと一緒に無料送迎サービスを提供しています。 私たちは皆さんが今年の夏をより涼しく、刺激的に過ごせるようにお手伝いします。 RED ZONE+に皆さんをご招待します！ 22時以降に入室される場合は予めご連絡ください。",
+    "QA": [
+        {
+            "question": "RED ZONE+はどのような客室を提供していますか？",
+            "answer": "私たちは3つのタイプの客室を提供しています。"
+        },
+        {
+            "question": "RED ZONE+はどのような水上レジャーを提供していますか？",
+            "answer": "さまざまな水上レジャーを提供しています。"
+        },
+        {
+            "question": "RED ZONE+はどこに位置していますか？",
+            "answer": "私たちは北漢江の近くに位置しています。"
+        },
+        {
+            "question": "RED ZONE+はどのような送迎サービスを提供していますか？",
+            "answer": "私たちはベテランドライバーと親切なスタッフと一緒に無料送迎サービスを提供しています。"
+        },
+        {
+            "question": "RED ZONE+は何のために存在していますか？",
+            "answer": "私たちは皆さんが今年の夏をより涼しく、刺激的に過ごせるようにお手伝いします。"
+        },
+        {
+            "question": "RED ZONE+に入室する際は、予め連絡する必要がありますか？",
+            "answer": "22時以降に入室される場合は予めご連絡ください。"
+        }
+    ],
+    "word_Count": {
+        "text": 168,
+        "QA": 243
+    }
+}

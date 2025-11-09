@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_013349",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-05",
+        "domain": "음식점",
+        "title": "ヘムルバテノヌンダク ( 해물밭에노는닭 )"
+    },
+    "text": "ヘムルバテノヌンダク ( 해물밭에노는닭 )\\n\n全羅南道 海南郡 海南邑 コサンロ291\\n\n地鶏のコース料理を提供しています。全羅南道のヘナム郡に位置した韓食専門店です。おすすめは鶏肉の韓方水炊きです。",
+    "QA": [
+        {
+            "question": "ヘムルバテノヌンダク (海物畑に乗る鶏)はどこに位置していますか？",
+            "answer": "ヘムルバテノヌンダクは全羅南道のヘナム郡に位置しています。"
+        },
+        {
+            "question": "ヘムルバテノヌンダクはどんな料理を提供していますか？",
+            "answer": "ヘムルバテノヌンダクは地鶏のコース料理を提供しています。特におすすめは鶏肉の韓方水炊きです。"
+        },
+        {
+            "question": "ヘムルバテノヌンダクの住所は何ですか？",
+            "answer": "ヘムルバテノヌンダクの住所は全羅南道海南郡海南邑コサンロ291です。"
+        }
+    ],
+    "word_Count": {
+        "text": 75,
+        "QA": 137
+    }
+}

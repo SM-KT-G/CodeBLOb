@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_009583",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://apis.data.go.kr/1400000/service/cultureInfoService2/mntInfoOpenAPI2",
+        "collectedDate": "2023-11-22",
+        "publishedDate": "2020-12-01",
+        "domain": "자연관광",
+        "title": "백월산"
+    },
+    "text": "百月山 (백월산)\\n\n慶尚南道昌原市義昌区北面月百里\\n\n山の高さ : 428.4m , 昌原市北面馬琴山温泉道を行く国道に沿って行くと、緩やかな稜線の山々が続き、突然雄大な岩山が現れる。 この山は海抜高度428mの百月山であり、山峰に大きな岩が3つあり、別名山参とも呼ばれる。 そして、三山岩の東端の峰には大きな岩一つが獅子の形をしており、その岩を獅子岩と呼ぶ。",
+    "QA": [
+        {
+            "question": "百月山はどこにありますか？",
+            "answer": "百月山は慶尚南道昌原市義昌区の北に位置しています。"
+        },
+        {
+            "question": "百月山の高さは何メートルですか？",
+            "answer": "百月山の高さは428.4mです。"
+        },
+        {
+            "question": "百月山には何つの岩がありますか？",
+            "answer": "百月山には三つの大きな岩があります。また、そのうちの一つは獅子の形をしており、獅子岩と呼ばれています。"
+        },
+        {
+            "question": "百月山は別名何と呼ばれていますか？",
+            "answer": "百月山は別名山参とも呼ばれています。"
+        }
+    ],
+    "word_Count": {
+        "text": 134,
+        "QA": 126
+    }
+}

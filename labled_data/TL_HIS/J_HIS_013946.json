@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_013946",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=34&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=00490000&ccbaCtcd=36&ccbaCpno=1123600490000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1963-01-21",
+        "domain": "문화/역사관광",
+        "title": "나주 동점문 밖 석당간"
+    },
+    "text": "羅州東門の外の石堂間 (나주 동점문 밖 석당간)\\n\n全羅南道羅州市城北洞229-9番地\\n\n高麗時代 , 宝物 , 幢竿支柱は寺院入口に立てておくもので、寺に行事がある時に幢という旗を付けておくが、この旗をかけておく細長い竿を幢竿といい、幢竿を両側から支える二つの石柱を幢竿支柱という。 たいていは2つの支柱だけが残っているが、これは幢竿が一緒に残っていて重要な遺物だ。 幢竿は5つの石を互いにかみ合うようにして立てたが、下は太く上がるほど徐々に細くなり安定感がある。 このような幢竿に鉄帯を巻いた後、支柱の内側に設けられた支え石の上面に穴を掘ってこれを固定させておいた。 幢竿の上には八角の宝蓋(屋根型の装飾)と宝珠(蓮のつぼみ型の装飾)が付けられている。 本来、幢竿は寺の前に建てられるが、ここに寺があったという歴史記録はなく、ただ風水説と結合して羅州の土地の形が船の形であるため、安定を祈るために幢竿をマストで建てたという話が伝えられている。",
+    "QA": [
+        {
+            "question": "この石堂間はどこにありますか？",
+            "answer": "全羅南道羅州市城北洞229-9番地にあります。"
+        },
+        {
+            "question": "幢竿支柱は何のために使われますか？",
+            "answer": "幢竿支柱は寺院の入口に立てておくもので、寺に行事がある時に幢という旗を付けておくために使われます。"
+        },
+        {
+            "question": "幢竿支柱はどのように構成されていますか？",
+            "answer": "幢竿支柱は五つの石を互いにかみ合うようにして立てられており、下は太く上がるほど徐々に細くなり安定感があります。幢竿の上には八角の宝蓋と宝珠が付けられています。"
+        },
+        {
+            "question": "なぜこの石堂間に幢竿支柱があるのですか？",
+            "answer": "この石堂間に寺があったという歴史記録はなく、ただ風水説と結合して羅州の土地の形が船の形であるため、安定を祈るために幢竿をマストで建てたという話が伝えられています。"
+        }
+    ],
+    "word_Count": {
+        "text": 312,
+        "QA": 222
+    }
+}

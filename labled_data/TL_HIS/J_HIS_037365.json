@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_037365",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1215&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=79&ccbaAsno=03060000&ccbaCtcd=50&ccbaCpno=4413903060000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2006-12-04",
+        "domain": "문화/역사관광",
+        "title": "제주 사라봉 일제 동굴진지"
+    },
+    "text": "済州沙羅峯日帝洞窟陣地 (제주 사라봉 일제 동굴진지)\\n\n済州市サラボンドンギル74(健入洞)\\n\n1945年頃、国家登録文化財、1945年頃に建設された同施設は、日本軍が済州北部海岸に上陸する連合軍を1次阻止し、済州東飛行場（ジンドル飛行場）と済州西飛行場（ジョントル飛行場、現在済州国際空港）を防御するために構築したものだ。 入口が2ヶ所の「ㄷ」字型と「一」字型、入口が3ヶ所の「Y」型など8ヶ所の洞窟陣地で構成されている。 日帝強占期当時、日本軍軍事施設の一つとして太平洋戦争末期、守勢に追い込まれた日本軍が済州道を抵抗基地とした侵略の歴史を見せている。",
+    "QA": [
+        {
+            "question": "この洞窟陣地はいつ建設されましたか？",
+            "answer": "1945年頃に建設されました。"
+        },
+        {
+            "question": "なぜこの洞窟陣地が建設されたのですか？",
+            "answer": "日本軍が済州北部海岸に上陸する連合軍を1次阻止し、済州東飛行場と済州西飛行場を防御するために建設されました。"
+        },
+        {
+            "question": "この洞窟陣地は何ヶ所の入口で構成されていますか？",
+            "answer": "入口が2ヶ所の「ㄷ」字型と「一」字型、入口が3ヶ所の「Y」型など8ヶ所の洞窟陣地で構成されています。"
+        },
+        {
+            "question": "この洞窟陣地は何のために使用されましたか？",
+            "answer": "日本軍の軍事施設として使用され、太平洋戦争末期の守勢に追い込まれた日本軍の済州道抵抗基地となりました。"
+        }
+    ],
+    "word_Count": {
+        "text": 206,
+        "QA": 184
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_010149",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42070&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "청주 YAM 충북대점 운영 정책"
+    },
+    "text": "チェックインは21:00で、チェックアウトは13:00です。 9月25日から10月3日までは朝食サービスが提供されません。 ご予約いただくと、予約特典として客室にはカップル用PCが設置されており、34インチTVとネットフリックスが提供されます。 また、マッサージチェアやスタイラーもご利用いただけます。",
+    "QA": [
+        {
+            "question": "チェックインとチェックアウトの時間は何時ですか？",
+            "answer": "チェックインは21:00で、チェックアウトは13:00です。"
+        },
+        {
+            "question": "9月25日から10月3日までの期間、朝食は提供されますか？",
+            "answer": "9月25日から10月3日までは朝食サービスが提供されません。"
+        },
+        {
+            "question": "予約特典として客室には何が用意されますか？",
+            "answer": "予約特典として客室にはカップル用PCが設置されており、34インチTVとネットフリックスが提供されます。"
+        },
+        {
+            "question": "客室内で利用できるアメニティはありますか？",
+            "answer": "客室内で利用できるアメニティとしてマッサージチェアやスタイラーがあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 110,
+        "QA": 178
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_095464",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=986&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=00330000&ccbaCtcd=25&ccbaCpno=3412500330000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1992-10-28",
+        "domain": "문화/역사관광",
+        "title": "은진송씨승지공파재실"
+    },
+    "text": "大田広域市文化財資料であるウンジン宋氏の斎室はイムチョンホンソングクボ(1602~1662)の子孫が建てた建物です。この斎室は前面2間・側面2間の規模を持っており、両側には縁側が付いています。また、広い板の間が2間があり、屋根は側面から見ると、八の字の八作屋根です。中央にある広い板の間には'チュウォンジェ(追遠齋)'という扁額がかかっています。",
+    "QA": [
+        {
+            "question": "この斎室は誰によって建てられましたか？",
+            "answer": "ウンジン宋氏の斎室はイムチョンホンソングクボ(1602~1662)の子孫が建てた建物です。"
+        },
+        {
+            "question": "斎室の規模はどのようなものですか？",
+            "answer": "前面2間・側面2間の規模を持ち、両側には縁側が付いています。"
+        },
+        {
+            "question": "斎室の屋根の形はどのようなものですか？",
+            "answer": "屋根は側面から見ると、八の字の八作屋根です。"
+        },
+        {
+            "question": "斎室にかかっている扁額の内容は何ですか？",
+            "answer": "'チュウォンジェ(追遠齋)'という扁額がかかっております。"
+        }
+    ],
+    "word_Count": {
+        "text": 126,
+        "QA": 147
+    }
+}

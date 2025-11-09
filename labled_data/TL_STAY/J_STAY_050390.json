@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_050390",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42011&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "강화도 고려호반펜션"
+    },
+    "text": "忙しい日常を抜け出してホバンペンションで幸せな休息を楽しむことができます。 ホバンペンションは最高級ヒノキの家で構成されており、快適で休息のための空間を提供します。 入室時間は22時以降の場合は予めご連絡ください。 これらのお知らせに従っていただければ、よりスムーズなサービスを受けることができます。 多くの方々が心の余裕を見つけ、湖畔ペンションで楽しい時間を過ごしました。",
+    "QA": [
+        {
+            "question": "ホバンペンションはどのような施設ですか？",
+            "answer": "ホバンペンションは最高級ヒノキの家で構成されており、快適で休息のための空間を提供します。"
+        },
+        {
+            "question": "ホバンペンションの入室時間は何時ですか？",
+            "answer": "入室時間は22時以降の場合は予めご連絡ください。"
+        },
+        {
+            "question": "ホバンペンションでの滞在をより快適にするための注意事項はありますか？",
+            "answer": "お知らせに従っていただければ、よりスムーズなサービスを受けることができます。"
+        },
+        {
+            "question": "多くの方々が湖畔ペンションで楽しい時間を過ごしていますか？",
+            "answer": "はい、多くの方々が心の余裕を見つけ、湖畔ペンションで楽しい時間を過ごしました。"
+        }
+    ],
+    "word_Count": {
+        "text": 137,
+        "QA": 181
+    }
+}

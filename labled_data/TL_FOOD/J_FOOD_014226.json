@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_014226",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "ミョンソンオリ ( 명성오리 )"
+    },
+    "text": "ミョンソンオリ ( 명성오리 )\n慶尚北道 アンドン市 グァンミョンロ139\n新鮮で上質な鴨料理を提供する店です。慶尚北道のアンドン市に位置した韓食専門店です。おすすめは鴨肉の韓方水炊きです。",
+    "QA": [
+        {
+            "question": "ミョンソンオリはどこに位置していますか？",
+            "answer": "ミョンソンオリは慶尚北道のアンドン市に位置しています。"
+        },
+        {
+            "question": "ミョンソンオリではどんな料理が提供されていますか？",
+            "answer": "ミョンソンオリでは新鮮で上質な鴨料理が提供されています。特におすすめは鴨肉の韓方水炊きです。"
+        },
+        {
+            "question": "ミョンソンオリのおすすめメニューは何ですか？",
+            "answer": "ミョンソンオリのおすすめメニューは鴨肉の韓方水炊きです。ぜひお試しください。"
+        }
+    ],
+    "word_Count": {
+        "text": 70,
+        "QA": 130
+    }
+}

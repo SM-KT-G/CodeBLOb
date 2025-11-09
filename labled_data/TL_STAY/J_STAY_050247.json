@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_050247",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42080&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "강릉 포시즌 호텔&펜션"
+    },
+    "text": "ソウルから2時間の距離にある鏡浦道立公園の近くに位置する1級ホテルです。 このホテルは沙斤津海辺から約50mの距離で海に近くてとても魅力的です。 付帯施設としてはカフェ、刺身屋、コンビニ、手作りバーガー及びPUBなどがあり、様々な施設を便利に利用できます。 お客様の安全と健康を最優先に考え、毎日客室の清掃と消毒を徹底的に行い、すべての客室には手指消毒剤が備えられていますので安心してご利用いただけます。 また、ゼロペイでの決済も可能な加盟店として便利な決済も可能です。",
+    "QA": [
+        {
+            "question": "このホテルはどのくらいの距離にありますか？",
+            "answer": "このホテルは鏡浦道立公園の近くに位置しています。"
+        },
+        {
+            "question": "ホテル周辺にはどのような施設がありますか？",
+            "answer": "ホテル周辺にはカフェ、刺身屋、コンビニ、手作りバーガー、PUBなどの施設があります。"
+        },
+        {
+            "question": "お客様の安全対策はどのように行われていますか？",
+            "answer": "ホテルでは毎日客室の清掃と消毒を徹底的に行っており、手指消毒剤もすべての客室に備えられています。"
+        },
+        {
+            "question": "ゼロペイでの決済は可能ですか？",
+            "answer": "はい、ゼロペイでの決済も可能です。当ホテルはゼロペイの加盟店です。"
+        }
+    ],
+    "word_Count": {
+        "text": 172,
+        "QA": 166
+    }
+}

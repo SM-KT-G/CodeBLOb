@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_005424",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2022-12-21",
+        "domain": "문화/역사관광",
+        "title": "ミュージアムSAN（뮤지엄 산）"
+    },
+    "text": "ミュージアムSAN（뮤지엄 산）\\n\nカンウォン道ウォンジュ市チジョン面オークバレー2ギル260\\n\nミュージアムSANはハンソル文化財団が運営する、建物と山が美しい調和をなす博物館です。 建物は日本の著名な建築家・安藤忠雄氏の作品で、またジェームズ・タレル氏の作品館が人気を博しています。常設展示、企画展示をはじめ、さまざまな体験・教育プログラムを行っています。",
+    "QA": [
+        {
+            "question": "ミュージアムSANはどこに位置していますか？",
+            "answer": "ミュージアムSANはカンウォン道ウォンジュ市チジョン面オークバレー2ギル260に位置しています。"
+        },
+        {
+            "question": "ミュージアムSANは誰が運営していますか？",
+            "answer": "ミュージアムSANはハンソル文化財団が運営しています。"
+        },
+        {
+            "question": "ミュージアムSANの建物は誰の作品ですか？",
+            "answer": "ミュージアムSANの建物は安藤忠雄氏の作品です。"
+        },
+        {
+            "question": "ミュージアムSANではどのような展示が行われていますか？",
+            "answer": "ミュージアムSANでは常設展示と企画展示が行われています。"
+        },
+        {
+            "question": "ミュージアムSANでは何の体験・教育プログラムがありますか？",
+            "answer": "ミュージアムSANではさまざまな体験・教育プログラムがあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 133,
+        "QA": 206
+    }
+}

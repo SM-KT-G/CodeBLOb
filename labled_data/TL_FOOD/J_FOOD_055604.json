@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_055604",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-03",
+        "domain": "음식점",
+        "title": "ムジンジャンテジスンデクッパ ( 무진장돼지순대국밥 )"
+    },
+    "text": "ムジンジャンテジスンデクッパ ( 무진장돼지순대국밥 )\\n\n江原道 ガンヌン市 ジュムンジン邑 ヨンジュロ538\\n\nお店で手作りしたスンデを使っています。代表的なメニューはスンデクッパです。江原道のガンヌン市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "このお店の場所はどこにありますか？",
+            "answer": "このお店は江原道のガンヌン市に位置しています。具体的な住所はジュムンジン邑ヨンジュロ538です。"
+        },
+        {
+            "question": "このお店の代表的なメニューは何ですか？",
+            "answer": "このお店の代表的なメニューはスンデクッパです。スンデはお店で手作りされています。"
+        },
+        {
+            "question": "このお店の特徴は何ですか？",
+            "answer": "このお店の特徴は韓食専門店であることです。スンデクッパをはじめ、他にもさまざまな韓国料理を楽しむことができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 87,
+        "QA": 141
+    }
+}

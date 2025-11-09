@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_028274",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=240&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=13&ccbaAsno=01580000&ccbaCtcd=37&ccbaCpno=1333701580000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1967-07-24",
+        "domain": "자연관광",
+        "title": "경주 문무대왕릉"
+    },
+    "text": "新羅時代、史跡、新羅30代文武王(在位661~681)の墓です。東海岸から200m離れた海にある水中陵で、新羅人の創意的な考えを垣間見ることができる場所です。文武王は父の太宗武烈王の業績を受け継いで高句麗を滅ぼし、唐の侵略を防ぎ三国統一を成し遂げました。また、兵部、創部などの中央官庁を創設し、地方統治のための5小径制度と9書堂10丁の軍事制度の基礎を築くなど、国家体制完成の基礎を提供しました大王岩は自然の岩を利用して作られたもので、その中は東西南北に人工水路を作りました。海水は東から入ってきて西に出るようにし、常に穏やかにしました。水面下には長さ3.7m、幅2.06mの南北に長く置かれた平たい亀の形をした石が覆われていますが、この中に文武王の遺骨が埋蔵されているものと推測されます。『三国史記』によると、王が亡くなると仏教式の葬儀に従って火葬し、東海に埋葬すると龍になって東海に侵入する倭寇を防ぐという遺言を残したそうです",
+    "QA": [
+        {
+            "question": "大王岩はどのような造りになっていますか？",
+            "answer": "大王岩は自然の岩を利用して作られ、中には東西南北に人工水路が作られています。海水は東から入ってきて西に出るようにし、常に穏やかにしています。"
+        },
+        {
+            "question": "文武王の遺骨はどこに埋蔵されていると推測されていますか？",
+            "answer": "水中陵の中には、南北に長く置かれた平たい亀の形をした石が覆われており、この中に文武王の遺骨が埋蔵されていると推測されています。"
+        },
+        {
+            "question": "文武王の遺言には何が残されているのでしょうか？",
+            "answer": "『三国史記』によると、文武王が亡くなると仏教式の葬儀に従って火葬し、東海に埋葬すると龍になって東海に侵入する倭寇を防ぐという遺言が残されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 304,
+        "QA": 203
+    }
+}

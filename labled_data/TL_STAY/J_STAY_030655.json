@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_030655",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42070&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "제천 (월악펜션빌)고갱의집"
+    },
+    "text": "都会生活に疲れたあなたのために、月岳ペンションビルは月岳山国立公園内に位置しています。 最高の休息を提供する月岳ペンションビルは内陸高速道路の開通により、より便利に訪れることができます。 清らかできれいな国立公園内の松界渓谷では、豊かな田園の風景を存分に楽しむことができます。 ただし、お知らせの中には、22時以降に入室される場合はペンションまで予めご連絡ください。",
+    "QA": [
+        {
+            "question": "月岳ペンションビルはどこに位置していますか？",
+            "answer": "月岳ペンションビルは月岳山国立公園内に位置しています。"
+        },
+        {
+            "question": "月岳ペンションビルへのアクセスはどのようになっていますか？",
+            "answer": "内陸高速道路の開通により、月岳ペンションビルへのアクセスが便利になりました。"
+        },
+        {
+            "question": "月岳ペンションビル周辺にはどんな風景が広がっていますか？",
+            "answer": "月岳ペンションビル周辺の松界渓谷では、清らかできれいな国立公園内の豊かな田園の風景を楽しむことができます。"
+        },
+        {
+            "question": "ペンションに遅く入室する場合はどうすればいいですか？",
+            "answer": "22時以降に入室する場合は、事前にペンションまでご連絡ください。"
+        }
+    ],
+    "word_Count": {
+        "text": 134,
+        "QA": 187
+    }
+}

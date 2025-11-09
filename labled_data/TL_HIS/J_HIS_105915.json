@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_105915",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=173&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=15940300&ccbaCtcd=11&ccbaCpno=1121115940300&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2009-04-22",
+        "domain": "문화/역사관광",
+        "title": "청구도"
+    },
+    "text": "製作された『請求も』は、金正浩(キム・ジョンホ)(金正浩)が1834年に製作したものとされている。この地図は、全国の朝鮮の全図を描いた彩色筆写本であり、高麗大学校中央図書館に所蔵されている。全国を南北29階、東西22版に区画して描いており、縮尺は約16万分の1に『、大東輿地図』と同じである。18世紀末から行われた既存の指導の問題を克服するための努力で出発した『請求も』は地理誌だけにいた情報を実際の指導で表現して活用価値を高めるために製作された。この地図は村ごとに戸籍数、土地面積、軍事の総帥、税金としてかけた穀物の総量、漢城までの距離などを詳しく記録した。『請求も』は様々な質があり、この蔵書は2本で構成されている。山並み表現は相対的に弱いて、郡県の境界は黒色点線で描いており、道路は、赤色実線で詳細に表現された。特異な点はグンヒョンビョルに黄色、赤色、灰色、青緑色など多様な彩色を使用して区分したということだ。この地図帳は保管状態が良くて構成が優れて評価されている。",
+    "QA": [
+        {
+            "question": "何が1834年に製作されたか？",
+            "answer": "『請求も』とされる全国の朝鮮の全図が1834年に金正浩(キム・ジョンホ)によって製作されました。"
+        },
+        {
+            "question": "地図の縮尺は何であり、どのような情報が記録されているか？",
+            "answer": "地図の縮尺は約16万分の1であり、村ごとに戸籍数、土地面積、軍事の総帥、税金としてかけた穀物の総量、漢城までの距離などの詳細な情報が記録されています。"
+        },
+        {
+            "question": "『請求も』の特異な点は何か？",
+            "answer": "『請求も』の特異な点は、グンヒョンビョルに黄色、赤色、灰色、青緑色など多様な彩色を使用して区分されていることです。"
+        }
+    ],
+    "word_Count": {
+        "text": 319,
+        "QA": 173
+    }
+}

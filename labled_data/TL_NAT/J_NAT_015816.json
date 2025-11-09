@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_015816",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://apis.data.go.kr/1400000/service/cultureInfoService2/mntInfoOpenAPI2",
+        "collectedDate": "2023-11-22",
+        "publishedDate": "2020-12-01",
+        "domain": "자연관광",
+        "title": "중근봉"
+    },
+    "text": "中根棒 (중근봉)\\n\n世宗特別自治市錦南面永谷里\\n\n山の高さ : 216.6m , 公州国谷里と燕岐郡道岩里の境界に位置し、東には錦江が流れ、大田~唐津間高速道路が中近峰稜線を横切って建設されている。",
+    "QA": [
+        {
+            "question": "中根棒はどこにありますか？",
+            "answer": "中根棒は世宗特別自治市錦南面永谷里に位置しています。"
+        },
+        {
+            "question": "中根棒の山の高さはどれくらいですか？",
+            "answer": "中根棒の山の高さは216.6mです。"
+        },
+        {
+            "question": "中根棒の周辺には何がありますか？",
+            "answer": "中根棒の周辺には錦江が流れており、また大田~唐津間高速道路が中近峰稜線を横切って建設されています。"
+        },
+        {
+            "question": "中根棒はどの地域との境界に位置していますか？",
+            "answer": "中根棒は公州国谷里と燕岐郡道岩里の境界に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 74,
+        "QA": 139
+    }
+}

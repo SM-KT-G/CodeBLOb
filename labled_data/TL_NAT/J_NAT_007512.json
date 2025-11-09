@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_007512",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2022-09-19",
+        "domain": "자연관광",
+        "title": "徳項山（덕항산）"
+    },
+    "text": "徳項山（덕항산）\\n\nカンウォン道サムチョク市シンギ面テギ里\\n\n江原道三陟市新基面と下長面の間にある「徳項山（トクハンサン）」は、高さ1,072.9メートルの山です。東北側の大耳里にある幻仙窟と大耳窟一帯は、天然記念物「三陟大耳里洞窟地帯」に指定・保護されています。また、洞窟の一帯は郡立公園となっており、重要民俗にも指定されています。",
+    "QA": [
+        {
+            "question": "徳項山はどこにありますか？",
+            "answer": "徳項山はカンウォン道サムチョク市シンギ面テギ里にあります。"
+        },
+        {
+            "question": "徳項山の高さは何メートルですか？",
+            "answer": "徳項山の高さは1,072.9メートルです。"
+        },
+        {
+            "question": "三陟大耳里洞窟地帯は何に指定されていますか？",
+            "answer": "三陟大耳里洞窟地帯は天然記念物に指定・保護されています。"
+        },
+        {
+            "question": "徳項山の洞窟一帯はどのような指定がされていますか？",
+            "answer": "徳項山の洞窟一帯は郡立公園と重要民俗に指定されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 123,
+        "QA": 133
+    }
+}

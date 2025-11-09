@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_020761",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "名品横城韓牛ゴジップ ( 명품횡성한우고집 )"
+    },
+    "text": "名品横城韓牛ゴジップ ( 명품횡성한우고집 )\\n\n江原道 ガンヌン市 ユルゴクチョギョギル11ボンギル15\\n\n上質の韓牛だけを提供する店です。江原道のガンヌン市に位置した韓食専門店です。おすすめは韓牛焼きです。",
+    "QA": [
+        {
+            "question": "このお店の名前は何ですか？",
+            "answer": "名品横城韓牛ゴジップ ( 명품횡성한우고집 ) です。"
+        },
+        {
+            "question": "このお店はどこにありますか？",
+            "answer": "江原道のガンヌン市のユルゴクチョギョギル11ボンギル15に位置しています。"
+        },
+        {
+            "question": "このお店の特徴は何ですか？",
+            "answer": "上質の韓牛だけを提供する店です。"
+        },
+        {
+            "question": "おすすめの料理は何ですか？",
+            "answer": "おすすめは韓牛焼きです。"
+        }
+    ],
+    "word_Count": {
+        "text": 78,
+        "QA": 106
+    }
+}

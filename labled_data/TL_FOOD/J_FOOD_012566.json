@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_012566",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "ファソンシクユ食堂 ( 화성식육식당 )"
+    },
+    "text": "ファソンシクユ食堂 ( 화성식육식당 )\\n\n全羅南道 和順郡 和順邑 七忠路 162\\n\n新鮮な生肉が味わえる料理店です。 おすすめは牛肉です。全羅南道のファスン郡に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "このレストランの場所はどこですか？",
+            "answer": "ファソンシクユ食堂は全羅南道和順郡和順邑の七忠路162に位置しています。"
+        },
+        {
+            "question": "このレストランのおすすめは何ですか？",
+            "answer": "こちらのレストランでは新鮮な生肉が味わえますが、特におすすめは牛肉です。"
+        },
+        {
+            "question": "この店は何を専門としていますか？",
+            "answer": "ファソンシクユ食堂は韓食専門の料理店です。"
+        }
+    ],
+    "word_Count": {
+        "text": 70,
+        "QA": 105
+    }
+}

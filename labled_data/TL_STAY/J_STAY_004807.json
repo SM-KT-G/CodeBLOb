@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_004807",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42030&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "울진 죽변 비취"
+    },
+    "text": "こんにちは。蔚珍竹辺港翡翠です。 お知らせとしては、主なシーズンや特定の日、祝日には客室料金が変動することがあります。 また、入室の際には身分証明書を確認することになり、未成年者の入室は制限されます。 そのため、身分証明書を必ずお持ちいただき、問題なくチェックインを進めてください。",
+    "QA": [
+        {
+            "question": "客室料金が変動する主なシーズンや特定の日はいつですか？",
+            "answer": "主なシーズンや特定の日には客室料金が変動することがあります。具体的な日付やシーズンについては、お問い合わせいただくか、ホテルのウェブサイトをご確認ください。"
+        },
+        {
+            "question": "チェックインの際に身分証明書を確認されるのですか？",
+            "answer": "はい、チェックインの際には身分証明書の確認が行われます。お客様の個人情報保護のため、身分証明書の提示が必要です。ご理解とご協力をお願いいたします。"
+        },
+        {
+            "question": "未成年者は宿泊が制限されるのですか？",
+            "answer": "はい、未成年者の方の宿泊は制限されております。法律により、未成年者の方の宿泊には規制がありますので、ご了承ください。"
+        }
+    ],
+    "word_Count": {
+        "text": 103,
+        "QA": 204
+    }
+}

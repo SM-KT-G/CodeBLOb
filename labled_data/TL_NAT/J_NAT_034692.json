@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_034692",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1100&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=02380200&ccbaCtcd=38&ccbaCpno=3413802380200&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1997-01-30",
+        "domain": "자연관광",
+        "title": "산청 임리정"
+    },
+    "text": "山清林里亭\\n\n慶尚南道山清郡新茶路231-5(新安面)\\n\n慶尚南道文化財資料、山清(サンチョン)淋漓亭は隣接した溶鋼正使とともに、独立を望む儒林(儒林)が集まって意味を集めてパリ・蔵書を準備した意味のある場所だ。淋漓亭は前面が3間、側面が2間の建物であり、屋根は横から見る時八(八部)字形の入母屋屋根である。淋漓亭は周辺の景観と調和を成しており、パリ蔵書の作成に向けての儒学者達が結集した場所で歴史的意味があり、文化財資料に指定して保存している。*パリ蔵書:1919年3・1運動が全国的に起きた後、独立宣言に参加できなかった儒林がフランスのパリで開かれた講和会議に対する独立を訴える請願書を送ったことがあったがこの時送った請願書をパリ蔵書と歌う。",
+    "QA": [
+        {
+            "question": "この亭の名前は何ですか？",
+            "answer": "この亭の名前は淋漓亭（さんりてい）です。"
+        },
+        {
+            "question": "この亭はどこに位置していますか？",
+            "answer": "この亭は慶尚南道山清郡新安面に位置しています。"
+        },
+        {
+            "question": "この亭で何が行われていたのですか？",
+            "answer": "この亭では、独立を望む儒林が集まって意見を集め、パリ蔵書を準備するための準備をしていました。"
+        },
+        {
+            "question": "この亭の建物の特徴は何ですか？",
+            "answer": "この亭は前面が3間、側面が2間の建物であり、八部字形の入母屋屋根を持っています。"
+        },
+        {
+            "question": "なぜこの亭は文化財資料として保存されているのですか？",
+            "answer": "この亭は儒学者たちが結集して歴史的な意味を持つ場所であり、パリ蔵書の作成に向けて重要な役割を果たしたため、文化財資料として保存されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 238,
+        "QA": 209
+    }
+}

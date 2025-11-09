@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001752",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2023-06-10",
+        "domain": "음식점",
+        "title": "In서피랑"
+    },
+    "text": "Inサーフィーラン (In서피랑)\\n\n慶尚南道統営市忠烈路22(西湖洞)\\n\n統営インソピランカフェは、ヒーリング観光地であるソピラン村の中に位置しています。このカフェは、ソピラン村にある有名な99階段の入口に位置しており、多くの観光客がここで写真を撮りながら登ってきます。",
+    "QA": [
+        {
+            "question": "このカフェはどこにありますか？",
+            "answer": "このカフェは慶尚南道統営市忠烈路22(西湖洞)に位置しています。"
+        },
+        {
+            "question": "統営インソピランカフェはどのような場所にありますか？",
+            "answer": "統営インソピランカフェはヒーリング観光地であるソピラン村の中に位置しています。"
+        },
+        {
+            "question": "このカフェは有名な何階段の入口に位置していますか？",
+            "answer": "このカフェはソピラン村にある有名な99階段の入口に位置しています。"
+        },
+        {
+            "question": "観光客は何をしながらこのカフェを訪れますか？",
+            "answer": "観光客は写真を撮りながら99階段を登るためにこのカフェを訪れます。"
+        }
+    ],
+    "word_Count": {
+        "text": 101,
+        "QA": 165
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_071102",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/collectionList#######",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "백자원반형연적"
+    },
+    "text": "白磁円盤形縁積 (백자원반형연적)\\n\n国籍と時代：韓国-朝鮮の制作物です。 材質：白磁の陶磁器製品です。 作家：作者は不詳です。 分類：この作品は、主に生活用品や家電、文房具などの硯滴として使用されました。 サイズ：この作品の寸法は高さ2.3cm、穴の直径2.3cm、底径5.7cm、最大径9.3cm、直径0.8cm、高さ1.2cm、直径2.3cmです。",
+    "QA": [
+        {
+            "question": "この作品の国籍はどこですか？",
+            "answer": "この作品は韓国-朝鮮の制作物です。"
+        },
+        {
+            "question": "この作品は何時代のものですか？",
+            "answer": "この作品の時代は不詳です。"
+        },
+        {
+            "question": "この作品の材質は何ですか？",
+            "answer": "この作品は白磁の陶磁器製品です。"
+        },
+        {
+            "question": "この作品の用途は何ですか？",
+            "answer": "この作品は主に硯滴として使用されました。"
+        },
+        {
+            "question": "この作品の寸法はどのくらいですか？",
+            "answer": "この作品の寸法は高さ2.3cm、穴の直径2.3cm、底径5.7cm、最大径9.3cm、直径0.8cm、高さ1.2cm、直径2.3cmです。"
+        }
+    ],
+    "word_Count": {
+        "text": 130,
+        "QA": 151
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_060530",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2022-12-29",
+        "domain": "음식점",
+        "title": "군산회집"
+    },
+    "text": "群山刺身屋 (군산회집)\\n\n全羅北道群山市内港2ギル173\\n\n群山刺身屋は、刺身定食専門店です。この店舗では1階全体が活魚水族館として利用されており、食材となる新鮮な活魚を直接目で見ることができます。その光景はとても印象的です。",
+    "QA": [
+        {
+            "question": "この店舗はどこにありますか？",
+            "answer": "群山刺身屋は全羅北道群山市内港2ギル173にあります。"
+        },
+        {
+            "question": "群山刺身屋では何が提供されていますか？",
+            "answer": "群山刺身屋は刺身定食を専門として提供しています。"
+        },
+        {
+            "question": "この店舗の特徴は何ですか？",
+            "answer": "この店舗では1階全体が活魚水族館として利用されており、新鮮な活魚を目で見ることができます。"
+        },
+        {
+            "question": "この店舗はどのような光景を提供していますか？",
+            "answer": "この店舗では活魚水族館で新鮮な活魚を見ることができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 85,
+        "QA": 140
+    }
+}

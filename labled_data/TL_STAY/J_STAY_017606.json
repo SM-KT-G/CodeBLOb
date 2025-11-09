@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_017606",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/goods/GN0002151364?startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0%5E&npprmaxsort=min",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "레브 호텔 제주"
+    },
+    "text": "レブホテル済州は、済州空港からダウンタウン蓮洞に位置するこのホテルは、済州市観光&商圏の中心に位置しており、お得な済州旅行を楽しむことができることが特徴です。 客室は無駄なく清潔で、リーズナブルな価格で提供されており、質の高い旅行ができるように責任を負っています。",
+    "QA": [
+        {
+            "question": "レブホテル済州はどこに位置していますか？",
+            "answer": "レブホテル済州は済州空港からダウンタウン蓮洞に位置しています。"
+        },
+        {
+            "question": "レブホテル済州の特徴は何ですか？",
+            "answer": "レブホテル済州は済州市観光&商圏の中心に位置しており、お得な済州旅行を楽しむことができることが特徴です。"
+        },
+        {
+            "question": "レブホテル済州の客室はどのような特徴がありますか？",
+            "answer": "レブホテル済州の客室は無駄なく清潔で、リーズナブルな価格で提供されています。質の高い旅行ができるように責任を負っています。"
+        }
+    ],
+    "word_Count": {
+        "text": 96,
+        "QA": 150
+    }
+}

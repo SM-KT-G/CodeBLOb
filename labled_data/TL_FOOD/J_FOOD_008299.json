@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_008299",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2023-05-03",
+        "domain": "음식점",
+        "title": "스완"
+    },
+    "text": "スワン (스완)\\n\n忠清北道陰城郡陰城邑陰城路823-33\\n\nスワンレストランは沙亭里貯水池の中に位置しており、貯水池の自然景観と調和した洗練された雰囲気を持っています。すべての食事には、食前パン、スープ、フルーツ、デザートが付いています。",
+    "QA": [
+        {
+            "question": "スワンレストランの場所はどこですか？",
+            "answer": "スワンレストランは忠清北道陰城郡陰城邑陰城路823-33に位置しています。"
+        },
+        {
+            "question": "スワンレストランの雰囲気はどのような感じですか？",
+            "answer": "スワンレストランは貯水池の自然景観と調和した洗練された雰囲気を持っています。"
+        },
+        {
+            "question": "スワンレストランの食事には何が付いていますか？",
+            "answer": "すべての食事には、食前パン、スープ、フルーツ、デザートが付いています。"
+        }
+    ],
+    "word_Count": {
+        "text": 89,
+        "QA": 128
+    }
+}

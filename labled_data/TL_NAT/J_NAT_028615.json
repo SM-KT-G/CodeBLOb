@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_028615",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=892&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=02230000&ccbaCtcd=31&ccbaCpno=2333102230000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2013-06-07",
+        "domain": "자연관광",
+        "title": "고양 북한산 산영루지"
+    },
+    "text": "京畿道記念物、高陽北漢山の山影楼址は北漢山城内にある楼閣(四方を眺められるように建てられた建物)「山影楼跡」です。山影楼がいつ建てられたのかは正確には分かりませんが、1603年に建てられた李廷亀の『遊三角山記』に初めて「山影楼旧跡」が記録されたことから、それ以前に設立されたことが推定できます。その後、山影楼は何度も焼失し、修理されました1925年の大洪水の時に焼失し、礎石だけが残っていましたが、2014年に高陽市で「高陽600年歴史復元事業」が行われたことで復元されました。山影楼の礎石は、部材の中で最も古い遺構（昔の土木、建築資材）と判断されます。岩の上に建てられた長い礎石は10個で、四角形に近く整えられています。楼閣の規模は前面3間で、中央に1間を付け加えて「凸」字型で、屋根は側面から見て「八」字型の入母屋造りです",
+    "QA": [
+        {
+            "question": "山影楼はいつ建てられましたか？",
+            "answer": "山影楼は具体的な建設年が分かっていませんが、1603年に李廷亀の『遊三角山記』に初めて記録されており、それ以前に存在したと推定されています。"
+        },
+        {
+            "question": "山影楼は何度も焼失しましたか？",
+            "answer": "山影楼は何度も焼失し、修理されてきました。特に1925年の大洪水の際に焼失し、礎石だけが残る状態となりました。"
+        },
+        {
+            "question": "山影楼の礎石は何個ありますか？",
+            "answer": "山影楼の礎石は10個あり、岩の上に建てられた長い礎石で、四角形に整えられています。"
+        },
+        {
+            "question": "山影楼の規模はどのような形状ですか？",
+            "answer": "山影楼の規模は前面3間で、中央に1間を付け加えて「凸」字型であり、屋根は側面から見て「八」字型の入母屋造りです。"
+        },
+        {
+            "question": "山影楼は何の復元事業が行われて再建されましたか？",
+            "answer": "山影楼は2014年に高陽市で行われた「高陽600年歴史復元事業」によって再建されました。"
+        }
+    ],
+    "word_Count": {
+        "text": 266,
+        "QA": 258
+    }
+}

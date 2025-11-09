@@ -1,0 +1,51 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_073432",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1246&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=79&ccbaAsno=06470000&ccbaCtcd=21&ccbaCpno=4412106470000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2014-12-26",
+        "domain": "문화/역사관광",
+        "title": "부산 구 백제병원"
+    },
+    "text": "1920年代に建てられた国家登録文化財である旧百済病院は当時、釜山(プサン)で最も重要な近代医療機関のひとつだった。この病院はブサンブリプ病院と鉄道病院とともに地域で重要な医療施設と見なされており、近代医療私的に価値がある。1927年には二つの建物がそれぞれ建設されており、以後、二つの建物が一つとなった。内部の平面は四角形と菱形の形の多様な糸で構成されており、原型と残っている木造の階段と装飾、ディテールなど木材の締め切りが美しい。この建物は、釜山初の近代式個人総合病院に長い歴史を持っている。",
+    "QA": [
+        {
+            "question": "旧百済病院はいつ建てられましたか？",
+            "answer": "1920年代に建てられました。"
+        },
+        {
+            "question": "旧百済病院はどのような施設でしたか？",
+            "answer": "旧百済病院は、釜山で最も重要な近代医療機関のひとつでした。"
+        },
+        {
+            "question": "旧百済病院は何のために使われていましたか？",
+            "answer": "旧百済病院は、近代医療施設として使われていました。"
+        },
+        {
+            "question": "旧百済病院はどのような価値を持っていますか？",
+            "answer": "旧百済病院は、近代医療の歴史的な価値があります。"
+        },
+        {
+            "question": "旧百済病院は何年に二つの建物が建設されましたか？",
+            "answer": "1927年に二つの建物が建設されました。"
+        },
+        {
+            "question": "旧百済病院の内部の特徴は何ですか？",
+            "answer": "旧百済病院の内部は、四角形と菱形の形の多様な糸で構成されています。また、木造の階段や装飾、ディテールなど木材の締め切りが美しいです。"
+        },
+        {
+            "question": "旧百済病院は何のために使われていましたか？",
+            "answer": "旧百済病院は、釜山初の近代式個人総合病院として使われていました。"
+        }
+    ],
+    "word_Count": {
+        "text": 181,
+        "QA": 257
+    }
+}

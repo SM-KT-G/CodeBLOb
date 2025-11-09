@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_019725",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-08-31",
+        "domain": "음식점",
+        "title": "東大門正統烤肉店（동대문정육식당）"
+    },
+    "text": "東大門正統烤肉店（동대문정육식당）\\n\nソウル特別市 鐘路区 鐘路46キル 7\\n\nお膳準備料のあるお店です。おすすめはサムギョプサルです。ソウル特別市のトンデムンに位置したバーベキュー専門店です。",
+    "QA": [
+        {
+            "question": "このお店はどこにありますか？",
+            "answer": "東大門正統烤肉店（동대문정육식당）はソウル特別市鐘路区鐘路46キル 7に位置しています。"
+        },
+        {
+            "question": "おすすめのメニューは何ですか？",
+            "answer": "おすすめはサムギョプサルです。"
+        },
+        {
+            "question": "このお店は何を専門としていますか？",
+            "answer": "東大門正統烤肉店（동대문정육식당）はバーベキュー専門店です。"
+        },
+        {
+            "question": "このお店にはお膳準備料がありますか？",
+            "answer": "はい、このお店にはお膳準備料があります。"
+        },
+        {
+            "question": "このお店はどのくらいの座席数ですか？",
+            "answer": "お店の座席数については情報がありません。お店に直接お問い合わせいただくか、訪れて確認してください。"
+        }
+    ],
+    "word_Count": {
+        "text": 72,
+        "QA": 176
+    }
+}

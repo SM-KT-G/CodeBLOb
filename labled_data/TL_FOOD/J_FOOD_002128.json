@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_002128",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-02-03",
+        "domain": "음식점",
+        "title": "ThanQ Coffee( 땡큐커피 )"
+    },
+    "text": "ThanQ Coffee( 땡큐커피 )\\n\n慶尚北道 安東市 アムサンキル 238\\n\n様々なおいしいコーヒーとデザートが味わえる店です。慶尚北道のアンドン市に位置したカフェ（コーヒーショップ）です。おすすめはコーヒーです。",
+    "QA": [
+        {
+            "question": "営業時間は何時からですか？",
+            "answer": "営業時間は毎日午前10時から午後8時までです。"
+        },
+        {
+            "question": "コーヒー以外におすすめのドリンクはありますか？",
+            "answer": "はい、当店ではコーヒー以外にも紅茶やフルーツジュースもお楽しみいただけます。"
+        },
+        {
+            "question": "デザートの種類は何がありますか？",
+            "answer": "デザートの種類はたくさんあります。例えば、チーズケーキやチョコレートケーキ、アイスクリームなどがあります。"
+        },
+        {
+            "question": "Wi-Fiは利用できますか？",
+            "answer": "はい、当店では無料のWi-Fiを利用することができます。"
+        },
+        {
+            "question": "アンドン市内での観光名所はありますか？",
+            "answer": "はい、アンドン市には多くの観光名所があります。例えば、安東市民広場や安東中央市場などがあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 82,
+        "QA": 201
+    }
+}

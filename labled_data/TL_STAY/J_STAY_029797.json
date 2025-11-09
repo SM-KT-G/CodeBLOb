@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_029797",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/goods/GN0002017169?startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0%5E&npprmaxsort=min",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "포천 조이토마토펜션"
+    },
+    "text": "一目惚れして初恋に落ちたようだ。 始まった縁。 胸が開けた空の下、チョンキェ山の曲がりくねった8つの峰が目の前に広がる。 庭園につながる渓谷の水流は四季折々乾かない自然を歌っている。 都心から1時間も経たないうちに完璧な自然とロマンが触れ合う場所！ そんなに私は恋に落ちた。",
+    "QA": [
+        {
+            "question": "この場所はどこにありますか？",
+            "answer": "この場所は都心から1時間も経たないうちにあります。"
+        },
+        {
+            "question": "この場所の名前は何ですか？",
+            "answer": "この場所はチョンキェ山と呼ばれています。"
+        },
+        {
+            "question": "チョンキェ山には何がありますか？",
+            "answer": "チョンキェ山には曲がりくねった8つの峰があります。"
+        },
+        {
+            "question": "この場所の特徴は何ですか？",
+            "answer": "この場所の特徴は完璧な自然とロマンが触れ合うことです。"
+        },
+        {
+            "question": "渓谷の水流は何を表していますか？",
+            "answer": "渓谷の水流は四季折々乾かない自然を表しています。"
+        },
+        {
+            "question": "この場所で何ができますか？",
+            "answer": "この場所で自然を楽しむことができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 100,
+        "QA": 165
+    }
+}

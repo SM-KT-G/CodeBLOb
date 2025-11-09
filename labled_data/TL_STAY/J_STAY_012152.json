@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_012152",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42090&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "제주 버지니아 호텔 운영 정책"
+    },
+    "text": "チェックインは午後3時以降に可能で、チェックアウトは午前11時以前に行ってください。 大人の人数を追加する場合は、1人当たり10,000ウォンの費用が追加され、12ヶ月以上の子供も大人とみなされ、同じ料金が適用されます。 寝具の追加時には1軒当たり10,000ウォンの費用がかかり、駐車とWi-Fiの利用は無料です。 追加で発生する費用は、当日現地にてお支払いいただく必要があります。",
+    "QA": [
+        {
+            "question": "チェックインとチェックアウトの時間はいつですか？",
+            "answer": "チェックインは午後3時以降で、チェックアウトは午前11時以前に行ってください。"
+        },
+        {
+            "question": "大人の人数を追加する場合の料金はいくらですか？",
+            "answer": "大人の追加料金は1人当たり10,000ウォンです。"
+        },
+        {
+            "question": "子供の料金はありますか？",
+            "answer": "12ヶ月以上の子供も大人とみなされ、同じ料金が適用されます。"
+        },
+        {
+            "question": "寝具の追加は可能ですか？",
+            "answer": "寝具の追加時には1軒当たり10,000ウォンの費用がかかります。"
+        },
+        {
+            "question": "駐車とWi-Fiの利用料金はどうなっていますか？",
+            "answer": "駐車とWi-Fiの利用は無料です。"
+        },
+        {
+            "question": "追加で発生する費用はいつ支払いますか？",
+            "answer": "追加で発生する費用は、当日現地にてお支払いいただく必要があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 140,
+        "QA": 212
+    }
+}

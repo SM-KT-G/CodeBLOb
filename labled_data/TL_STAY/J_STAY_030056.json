@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_030056",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2021-12-08",
+        "domain": "숙박",
+        "title": "오늘이 호스텔"
+    },
+    "text": "今日がホステル (오늘이 호스텔)\\n\n全羅南道麗水市ハメロ55-3(ジョンファ洞)\\n\n本日、このホステルは2018年12月にオープンしました。全客室でWi-Fiが利用できるほか、屋外バーベキュー施設も完備されています。また、麗水浪漫屋台までの距離は606メートルで、徒歩で5分で到着することができます。",
+    "QA": [
+        {
+            "question": "ホステルの名称は何ですか？",
+            "answer": "今日がホステル (오늘이 호스텔)"
+        },
+        {
+            "question": "ホステルの所在地はどこですか？",
+            "answer": "全羅南道麗水市ハメロ55-3(ジョンファ洞)"
+        },
+        {
+            "question": "ホステルのオープン日はいつですか？",
+            "answer": "本日、このホステルは2018年12月にオープンしました。"
+        },
+        {
+            "question": "ホステルの特徴はありますか？",
+            "answer": "全客室でWi-Fiが利用できるほか、屋外バーベキュー施設も完備されています。"
+        },
+        {
+            "question": "ホステルから麗水浪漫屋台までの距離はどれくらいですか？",
+            "answer": "麗水浪漫屋台までの距離は606メートルで、徒歩で5分で到着することができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 112,
+        "QA": 168
+    }
+}

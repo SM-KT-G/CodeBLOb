@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001485",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2020-12-24",
+        "domain": "음식점",
+        "title": "bon PALETE( 봉파레트 )"
+    },
+    "text": "bon PALETE( 봉파레트 )\\n\nソウル特別市 城北区 ソンブクロ57-1\\n\n韓屋のレストランで美味しい食事が楽しめます。ソウル特別市のソンブク区に位置した洋食専門店です。代表的なメニューはシーフードパスタです。",
+    "QA": [
+        {
+            "question": "パレテ（봉파레트）はどこにありますか？",
+            "answer": "パレテ（봉파레트）はソウル特別市の城北区ソンブクロ57-1に位置しています。"
+        },
+        {
+            "question": "パレテ（봉파레트）ではどのような料理が楽しめますか？",
+            "answer": "パレテ（봉파레트）では洋食専門で、代表的なメニューはシーフードパスタです。"
+        },
+        {
+            "question": "パレテ（봉파레트）はどんな雰囲気のレストランですか？",
+            "answer": "パレテ（봉파레트）は韓屋（韓国伝統家屋）のレストランで、美味しい食事が楽しめるところです。"
+        }
+    ],
+    "word_Count": {
+        "text": 81,
+        "QA": 140
+    }
+}

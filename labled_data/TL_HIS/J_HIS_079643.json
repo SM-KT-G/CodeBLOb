@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_079643",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1040&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=01080000&ccbaCtcd=32&ccbaCpno=3413201080000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1988-05-18",
+        "domain": "문화/역사관광",
+        "title": "삼척신흥사설선당및심검당"
+    },
+    "text": "三陟新興私設禅堂及び尋剣堂\\n\n江原道三陟市近徳面陽里キル220(東幕里)\\n\n江原道特別自治道文化財資料、山神興寺<新興寺>は真徳女王<眞德女王>3年(889)凡一国史<梵日國師>が創建<創建>してジフンサ<池興寺>としたが、朝鮮<朝鮮>顕宗<顯宗>15年(1674)、現在の位置に移転してグヮンウンサ<廣雲寺>としたし,後に再び雲興寺<雲興寺>に改称した。英祖<英祖>46年(1770)火災で焼失<燒失>なったのを再建して、純祖(<純祖>21年(1821)神興寺<新興寺>と改名した。ソルソンダン<說禪堂>とシムゴムダン<尋劍堂>はすべて神興寺<新興寺>の与謝<寮舍>で、そのうちシムゴムダン<尋劍堂>は、顕宗(ヒョンジョン)<顯宗>15年(1674)に建立されたた字型モクチョアの汁<木造瓦葺>一軒(ひとのき)入母屋屋根であり、シムゴムダン<尋劍堂>は英祖<英祖>47年(1771)に建立されたㅁジャ型木造と汁<木造瓦葺>一軒(ひとのき)入母屋屋根の建物にジンヨンガク<眞影閣>とも呼ばれる。",
+    "QA": [
+        {
+            "question": "新興寺はいつ建てられましたか？",
+            "answer": "新興寺は真徳女王3年(889)に建てられました。"
+        },
+        {
+            "question": "尋劍堂はいつ建立されましたか？",
+            "answer": "尋劍堂は英祖47年(1771)に建立されました。"
+        },
+        {
+            "question": "神興寺は何回も名前が変わったんですか？",
+            "answer": "神興寺はジフンサとして創建され、後にグヮンウンサ、雲興寺、そして純祖21年(1821)に神興寺と改名されました。"
+        },
+        {
+            "question": "尋劍堂の建物はどんな形をしていますか？",
+            "answer": "尋劍堂の建物はㅁジャ型木造と汁一軒入母屋屋根の建物であり、ジンヨンガクとも呼ばれます。"
+        },
+        {
+            "question": "新興寺の位置はどこですか？",
+            "answer": "新興寺は江原道三陟市近徳面陽里キル220(東幕里)に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 329,
+        "QA": 192
+    }
+}

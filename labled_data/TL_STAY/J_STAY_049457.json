@@ -1,0 +1,59 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_049457",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.booking.com/hotel/kr/raonseutei2.ko.html",
+        "collectedDate": "2023-11-17",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "New Raon Stay"
+    },
+    "text": "晋州に位置するNew Raon Stayは宿泊施設として利用者に便利な施設を提供しています。 この4つ星ホテルはテラス、無料専用駐車場、レストランなど、さまざまなアメニティがあります。 Chunggoksa Templeから約4.1km離れており、Wi-Fi、24時間フロントデスク、手荷物預かり所などの施設を備えています。 ここは禁煙室もありますので、喫煙者にとっても便利な選択肢になるでしょう。 客室内にはエアコン、セーフティボックス、薄型テレビ、バルコニー付きの一部の客室もあります。 やかんとクローゼットも、すべての宿泊オプションに提供されます。 朝食はアメリカ風、アジア風、ベジタリアンメニューで、様々な味を満足させることができます。 周辺にはMusical Fountainや国立晋州博物館のような有名な観光地が位置しています。 泗川空港が最寄りの空港で、チェックインは15:00から可能でチェックアウトは11:00までです。 また、ご当地料理を楽しめるTHE TABLEというレストランもあり、モダンな雰囲気とベジタリアン向けのオプションも提供しています。",
+    "QA": [
+        {
+            "question": "New Raon Stayはどのくらいの距離に位置していますか？",
+            "answer": "New Raon StayはChunggoksa Templeから約4.1km離れています。"
+        },
+        {
+            "question": "New Raon Stayにはどのようなアメニティがありますか？",
+            "answer": "New Raon Stayにはテラス、無料専用駐車場、レストランなどのアメニティがあります。"
+        },
+        {
+            "question": "New Raon Stayには禁煙室がありますか？",
+            "answer": "はい、New Raon Stayには禁煙室もあります。"
+        },
+        {
+            "question": "New Raon Stayの客室にはどのような設備がありますか？",
+            "answer": "New Raon Stayの客室にはエアコン、セーフティボックス、薄型テレビなどの設備があります。"
+        },
+        {
+            "question": "New Raon Stayの朝食はどのようなメニューがありますか？",
+            "answer": "New Raon Stayの朝食にはアメリカ風、アジア風、ベジタリアンメニューがあります。"
+        },
+        {
+            "question": "New Raon Stayの周辺にはどのような観光地がありますか？",
+            "answer": "New Raon Stayの周辺にはMusical Fountainや国立晋州博物館などの有名な観光地があります。"
+        },
+        {
+            "question": "最寄りの空港はどこですか？",
+            "answer": "最寄りの空港は泗川空港です。"
+        },
+        {
+            "question": "チェックインとチェックアウトの時間は何時ですか？",
+            "answer": "チェックインは15:00から可能で、チェックアウトは11:00までです。"
+        },
+        {
+            "question": "New Raon Stayのレストランにはどのようなメニューがありますか？",
+            "answer": "New Raon Stayのレストラン、THE TABLEではご当地料理を楽しむことができます。モダンな雰囲気とベジタリアン向けのオプションも提供しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 355,
+        "QA": 484
+    }
+}

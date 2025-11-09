@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_105940",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=104&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=08360000&ccbaCtcd=37&ccbaCpno=1123708360000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1985-01-08",
+        "domain": "문화/역사관광",
+        "title": "청도 대적사 극락전"
+    },
+    "text": "清道大寂寺極楽殿\\n\n慶尚北道清道郡華陽邑松琴里223番地の大寂寺\\n\n朝鮮時代、宝物、取組みの辞は、朝鮮粛宗15年(1689)ソンヘ大使が建物を立てて仏像を祀ってから初めて寺の姿を備えるようになったという。朝鮮中期以後に建て直したものと見られる、極楽殿は仏教徒の理想郷である極楽浄土を表現している法堂だ。規模は表3間・側面2間であり、屋根は側面から見ると、人の教わる字形をした切妻屋根である。軒を支えようと装飾してチャウン構造を柱の上と柱の間に配置したダポ様式にした。気団の前部には蓮華(れんげ)文と亀の形を彫刻して周囲にhジャ形の立った彫刻をした。また、階段の両側側面に竜を刻んでおいた基壇部分の彫刻は他の建築では易しく探して見られない特徴となっている。建物の中の天井は井戸の井の字の字形の天井で飾ったが、天井は前後にチュンジに作って独特の構成をしており、仏壇の上には仏像を厳粛に飾った簡略した天蓋を設置した。前後に様々な構成を備えている建物の中に朝鮮時代建築士と彫刻師研究に重要な資料となっている。",
+    "QA": [
+        {
+            "question": "この寂寺の極楽殿はいつ建てられましたか？",
+            "answer": "この極楽殿は朝鮮粛宗15年(1689)に建てられました。"
+        },
+        {
+            "question": "極楽殿の規模はどのくらいですか？",
+            "answer": "極楽殿の規模は表3間・側面2間です。"
+        },
+        {
+            "question": "極楽殿の屋根の形はどのような形ですか？",
+            "answer": "極楽殿の屋根は側面から見ると、人の教わる字形をした切妻屋根です。"
+        },
+        {
+            "question": "極楽殿の装飾にはどのような特徴がありますか？",
+            "answer": "極楽殿の装飾には蓮華(れんげ)文や亀の形を彫刻したり、竜を刻んだりといった特徴があります。"
+        },
+        {
+            "question": "極楽殿の中にはどのような構成がありますか？",
+            "answer": "極楽殿の中には井戸の井の字の字形の天井や独特の構成を持った仏壇があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 331,
+        "QA": 189
+    }
+}

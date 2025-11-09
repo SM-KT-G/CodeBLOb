@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_031706",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101933",
+        "collectedDate": "2023-10-06",
+        "publishedDate": "2020-01-01",
+        "domain": "자연관광",
+        "title": "도리도"
+    },
+    "text": "ドリード\\n\n道理の(桃李島)は京畿道華城市西新面ベクミリ買った144番地に位置する無人島で、面積は三万2 m²だ。陸地の宮坪港から西に約5.5 km距離にあり、ソドリ度(ベクミリ買った142番地)は南に850 m離れている。",
+    "QA": [
+        {
+            "question": "桃李島はどこに位置していますか？",
+            "answer": "桃李島は京畿道華城市西新面ベクミリ買った144番地に位置しています。"
+        },
+        {
+            "question": "桃李島の面積はいくつですか？",
+            "answer": "桃李島の面積は三万2 m²です。"
+        },
+        {
+            "question": "桃李島の最寄りの港はどこですか？",
+            "answer": "桃李島の最寄りの港は陸地の宮坪港です。"
+        },
+        {
+            "question": "桃李島からソドリ度までの距離はどれくらいですか？",
+            "answer": "桃李島からソドリ度までの距離は南に850 m離れています。"
+        },
+        {
+            "question": "桃李島は有人島ですか？",
+            "answer": "桃李島は無人島です。"
+        }
+    ],
+    "word_Count": {
+        "text": 82,
+        "QA": 138
+    }
+}

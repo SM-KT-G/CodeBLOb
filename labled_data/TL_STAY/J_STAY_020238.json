@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_020238",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.goodchoice.kr/product/detail?ano=67433&adcno=1&sel_date=2023-11-07&sel_date2=2023-11-08",
+        "collectedDate": "2023-11-15",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "청주 HOTEL ROA"
+    },
+    "text": "当宿は、様々なタイプのPC室とカップルPCルームを提供しています。 PC仕様は、一般室の場合はAMDライゼン52600CPUとGTX 060 3GBグラフィックカード、6GBのRAM、27インチモニターを使用しています。 カップルPCルームの場合は、I59400インテルCPUとGTX660 super 6GBグラフィックカード、6GBのRAM、32インチモニターを使用しています。 また、宿泊施設は計30台の駐車が可能な駐車場を保有しています。 ただし、未成年者の場合には予約時、払い戻しは絶対不可能であり、出入りも不可能な業者です。 ありがとうございます。",
+    "QA": [
+        {
+            "question": "当宿はどのようなPC室を提供していますか？",
+            "answer": "当宿は一般室とカップルPCルームを提供しています。"
+        },
+        {
+            "question": "一般室のPC仕様は何ですか？",
+            "answer": "一般室のPC仕様は、AMDライゼン52600CPUとGTX 060 3GBグラフィックカード、6GBのRAM、27インチモニターを使用しています。"
+        },
+        {
+            "question": "カップルPCルームのPC仕様は何ですか？",
+            "answer": "カップルPCルームのPC仕様は、I59400インテルCPUとGTX660 super 6GBグラフィックカード、6GBのRAM、32インチモニターを使用しています。"
+        },
+        {
+            "question": "当宿の駐車場の台数は何台ですか？",
+            "answer": "当宿の駐車場は30台分の駐車スペースがあります。"
+        },
+        {
+            "question": "未成年者の予約や出入りは可能ですか？",
+            "answer": "未成年者の場合には予約時、払い戻しは絶対不可能であり、出入りも不可能です。"
+        }
+    ],
+    "word_Count": {
+        "text": 205,
+        "QA": 242
+    }
+}

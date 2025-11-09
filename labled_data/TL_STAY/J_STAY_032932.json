@@ -1,0 +1,51 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_032932",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.booking.com/hotel/kr/on-the-stone-pension-seogwipo.ko.html",
+        "collectedDate": "2023-11-17",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "onthestone"
+    },
+    "text": "西帰浦市内の城山邑に位置するonthestoneでは旅行客が泊まることができます。 城山日出峰は2.2km離れており、ビザ林は16kmの距離に位置しています。 宿内では無料Wi-Fiと専用駐車場を利用できます。 一部の客室には冷蔵庫とキッチン設備が完備されています。 また、アメリカ式朝食が提供され、最寄りの名所としてはベンディ窟が26kmの距離にあり、ヒューエリ自然生活公園は37kmの距離に位置しています。 済州国際空港は宿から45kmの距離にあり、onthestone自体は西帰浦の中心部から41km離れています。 チェックインは16:00から可能で、チェックアウトは11:00までです。",
+    "QA": [
+        {
+            "question": "onthestoneはどこに位置していますか？",
+            "answer": "onthestoneは城山邑に位置しています。"
+        },
+        {
+            "question": "onthestoneの近くにある観光スポットはありますか？",
+            "answer": "近くには城山日出峰やビザ林という観光スポットがあります。"
+        },
+        {
+            "question": "onthestoneでは何が利用できますか？",
+            "answer": "onthestoneでは無料Wi-Fiと専用駐車場が利用できます。"
+        },
+        {
+            "question": "客室にはどのような設備がありますか？",
+            "answer": "一部の客室には冷蔵庫とキッチン設備が完備されています。"
+        },
+        {
+            "question": "近くにどのような名所がありますか？",
+            "answer": "近くにはベンディ窟やヒューエリ自然生活公園という名所があります。"
+        },
+        {
+            "question": "済州国際空港までの距離はどれくらいですか？",
+            "answer": "済州国際空港までは宿から45kmの距離です。"
+        },
+        {
+            "question": "チェックインとチェックアウトの時間は何時ですか？",
+            "answer": "チェックインは16:00から可能で、チェックアウトは11:00までです。"
+        }
+    ],
+    "word_Count": {
+        "text": 217,
+        "QA": 260
+    }
+}

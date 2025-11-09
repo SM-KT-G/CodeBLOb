@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_006850",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=887&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=02020000&ccbaCtcd=38&ccbaCpno=2333802020000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1998-11-13",
+        "domain": "문화/역사관광",
+        "title": "거제 강망산 봉수대"
+    },
+    "text": "巨済江望山烽燧台 (거제 강망산 봉수대)\\n\n慶尚南道巨済市徳浦洞(キョンサンナムド·コジェシ·トクポドン)\\n\n慶尚南道記念物 , 烽燧台は松明と煙を利用して急な便りを伝えた昔の通信手段をいう。 高い山に登って火を起こし、昼は煙で夜は明かりで信号を送った。 慶尚南道巨済市の江望山烽燧台は海抜370mの江望山の頂上にあり、山頂から徳浦洞と長木面の境界を形成する。 烽火を焚くための煙台は自然石を利用して軸台を積み、小石を埋めて作った。 現在は外の2段まで跡が残っているが、その上は傾斜が急で確認できず、ただ3段まで連通があったものと予想される。 作った時期は正確ではないが、構造的に朝鮮前期に設置した巨済島の玉女峰烽燧台と類似し、同じ時期に積み上げて作ったものと見られる。 『大東輿地図』に出てくる栗浦の「秋岬烽燧台」が江望山烽燧台と見なされ、ソウル牧谷山(今の南山)の中央烽燧に至る烽火線路に含まれた巨済北部地域の烽燧台と考えられる。",
+    "QA": [
+        {
+            "question": "巨済江望山烽燧台はどこにありますか？",
+            "answer": "巨済江望山烽燧台は慶尚南道巨済市徳浦洞にあります。"
+        },
+        {
+            "question": "烽燧台とは何ですか？",
+            "answer": "烽燧台は松明と煙を利用して急な便りを伝えた昔の通信手段を指します。"
+        },
+        {
+            "question": "巨済江望山烽燧台は何のために使われましたか？",
+            "answer": "巨済江望山烽燧台は烽火を焚くための煙台として使われました。"
+        },
+        {
+            "question": "巨済江望山烽燧台の構造はどのようになっていますか？",
+            "answer": "巨済江望山烽燧台は自然石を利用して軸台を積み、小石を埋めて作られています。"
+        },
+        {
+            "question": "巨済江望山烽燧台は何時期に作られたと考えられますか？",
+            "answer": "巨済江望山烽燧台は正確な時期はわかりませんが、構造的に朝鮮前期に設置された巨済島の玉女峰烽燧台と類似しており、同じ時期に作られたと考えられています。"
+        }
+    ],
+    "word_Count": {
+        "text": 308,
+        "QA": 219
+    }
+}

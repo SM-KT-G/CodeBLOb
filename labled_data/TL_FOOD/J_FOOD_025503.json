@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_025503",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2023-08-24",
+        "domain": "음식점",
+        "title": "仁王山 chosochaekbang deosup（인왕산 더숲 초소책방）"
+    },
+    "text": "仁王山 chosochaekbang deosup（인왕산 더숲 초소책방）\nソウル特別市チョンノ区イヌァンサンロ172\n仁王山の中腹にあるブックカフェ「chosochaekbang（チョソチェクパン哨所本屋） deosup」は、もともと青瓦台を警備する目的で建てられ、50年以上警察の哨所として使われていた建物をリモデリングしたものです。1968年に起きた一二一事態以後に建てられ、分断と対立の痛みを象徴するといっても過言ではありません。そのため、リモデリングの過程でレンガでできた外壁の一部と鉄製の出入り口がそのまま残されました。全面ガラス張りなため人工的な建築物というより自然の一部のように感じられ、店内からはガラス越しに南山ソウルタワーが一望できます。",
+    "QA": [
+        {
+            "question": "このブックカフェはどこにありますか？",
+            "answer": "仁王山の中腹にあります。ソウル特別市チョンノ区イヌァンサンロ172"
+        },
+        {
+            "question": "chosochaekbang deosupの由来は何ですか？",
+            "answer": "chosochaekbang deosupは、もともと青瓦台を警備する目的で建てられた建物をリモデリングしたものです。"
+        },
+        {
+            "question": "この建物は何年以上使われていましたか？",
+            "answer": "この建物は50年以上、警察の哨所として使われていました。"
+        },
+        {
+            "question": "一二一事態とは何ですか？",
+            "answer": "一二一事態は、1968年に起きた分断と対立の痛みを象徴する事件です。"
+        },
+        {
+            "question": "どのような風景が店内から見えますか？",
+            "answer": "店内からは、南山ソウルタワーがガラス越しに一望できます。"
+        }
+    ],
+    "word_Count": {
+        "text": 242,
+        "QA": 204
+    }
+}

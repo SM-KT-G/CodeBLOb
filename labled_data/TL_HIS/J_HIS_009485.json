@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_009485",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=262&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=13&ccbaAsno=04430000&ccbaCtcd=22&ccbaCpno=1332204430000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2003-01-28",
+        "domain": "문화/역사관광",
+        "title": "구 도립대구병원"
+    },
+    "text": "旧道立大邱病院 (구 도립대구병원)\\n\n大邱 中区 東徳路 130 (三徳洞2街)\\n\n1928年 , 史跡 , 旧道立大邱病院（現慶北大学校医科大学病院本館）は、日帝強占期の1928年、道立大邱医院で建てた2階の赤レンガ（組積造）の建物だ。 この建物は旧大邱医学専門学校本館(史跡、現慶北大学校医科大学本館)の建物と向かい合って配置されている。 建物は北向きに東西に長く配置され、屋根は集まり屋根の形で瓦を繋いだ。 平面は「ㄱ」字形で重複道の両側に各室を南向きと北向きに配置し、正面右側の翼舍には偏腹道を設置し、東向きに室を配置した。 建物の構成は正面中央部の玄関ポチ(Porch)を中心に対称を成し、窓人部屋と軒部を花崗石水平回覧帯(Cornice)で飾りルネサンス的な雰囲気を感じさせる。 建物の外観構成に現れた特徴は、四角い屋根をつなぐ四角塔(Turret)、垂直に長い半円アーチ(Arch)窓、ペディメント(Pediment)、屋根面のドマー(Domer)窓、手すり壁の歯形装飾技法、花崗石の仕上げ石で構成された水平回転帯(Cornice)などの形態要素を積極的に採用し、正面性と対称性を強調している。 韓国近代病院建築の特徴をよく示す建物で、右側の溺死が撤去され、正面左側に増築された部分があるが、全体的に原型がよく保存されており歴史的·建築史的に高い価値がある重要な遺跡だ。",
+    "QA": [
+        {
+            "question": "旧道立大邱病院はいつ建てられましたか？",
+            "answer": "1928年"
+        },
+        {
+            "question": "旧道立大邱病院はどの地区にありますか？",
+            "answer": "大邱の中区"
+        },
+        {
+            "question": "旧道立大邱病院の建物はどのような形状ですか？",
+            "answer": "2階の赤レンガの建物で、北向きに東西に長く配置されています。"
+        },
+        {
+            "question": "旧道立大邱病院の建物の特徴は何ですか？",
+            "answer": "四角い屋根をつなぐ四角塔、垂直に長い半円アーチ窓、ペディメント、屋根面のドマー窓、手すり壁の歯形装飾技法などが特徴です。"
+        },
+        {
+            "question": "旧道立大邱病院は何の歴史的・建築史的な価値がありますか？",
+            "answer": "韓国近代病院建築の特徴をよく示す建物であり、歴史的・建築史的に高い価値がある重要な遺跡です。"
+        }
+    ],
+    "word_Count": {
+        "text": 436,
+        "QA": 185
+    }
+}

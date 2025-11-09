@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_LEI_005866",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2023-02-28",
+        "domain": "레포츠",
+        "title": "가산낚시터 (구 우금저수지)"
+    },
+    "text": "約191,735㎡(58,000坪余り)の大型貯水池で、1級水準の清浄水質を誇っています。 万寿市には水深が4~5mに達し、釣り場から王方山を眺める美しい風景が特徴です。",
+    "QA": [
+        {
+            "question": "この貯水池の面積はいくつですか？",
+            "answer": "約191,735㎡(58,000坪余り)です。"
+        },
+        {
+            "question": "この貯水池の水質はどのようですか？",
+            "answer": "1級水準の清浄水質を誇っています。"
+        },
+        {
+            "question": "この貯水池の水深はどれくらいですか？",
+            "answer": "水深が4~5mに達します。"
+        },
+        {
+            "question": "この貯水池から眺めることができる風景はどのようですか？",
+            "answer": "釣り場から王方山を眺める美しい風景が特徴です。"
+        }
+    ],
+    "word_Count": {
+        "text": 62,
+        "QA": 112
+    }
+}

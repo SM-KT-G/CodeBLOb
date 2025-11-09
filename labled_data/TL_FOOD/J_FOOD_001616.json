@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001616",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2020-12-08",
+        "domain": "음식점",
+        "title": "CROME bakery( 크롬베이커리 )"
+    },
+    "text": "CROME bakery( 크롬베이커리 )\\n\nソウル特別市 ヨンドゥンポ区 ダンサンロ44ギル3\\n\n様々なケーキが味わえる店です。代表的なメニューはエッグタルトです。ソウル特別市のヨンドゥンポ区に位置したその他の案内です。",
+    "QA": [
+        {
+            "question": "クロムベーカリーはどこにありますか？",
+            "answer": "クロムベーカリーはソウル特別市ヨンドゥンポ区ダンサンロ44ギル3に位置しています。"
+        },
+        {
+            "question": "クロムベーカリーで味わえる代表的なケーキは何ですか？",
+            "answer": "クロムベーカリーで味わえる代表的なケーキはエッグタルトです。"
+        },
+        {
+            "question": "クロムベーカリーを含むその他の案内はありますか？",
+            "answer": "ソウル特別市のヨンドゥンポ区に位置したクロムベーカリーでは、様々なケーキを味わうことができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 83,
+        "QA": 137
+    }
+}

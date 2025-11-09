@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_095692",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ja",
+        "translator": null,
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101971",
+        "collectedDate": "2023-09-07",
+        "publishedDate": "2018-05-03",
+        "domain": "문화/역사관광",
+        "title": "義烈団"
+    },
+    "text": "皆様の姿が映っている右の鏡には何か字が刻まれています。これは義烈団の檄文です。義烈団は1919年11月、満州吉林省で組織された団体であり、日帝侵略機関の破壊、日帝首脳部の処断を目標に活動しました。義烈団の檄文と朝鮮革命宣言には自由と独立を勝ち取るためには暴力的な革命のみが唯一の道であると強く主張する義烈団の意志が伝わります。",
+    "QA": [
+        {
+            "question": "義烈団はいつ、どこで組織された団体ですか？",
+            "answer": "義烈団は1919年11月、満州吉林省で組織されました。"
+        },
+        {
+            "question": "義烈団の目標は何ですか？",
+            "answer": "義烈団の目標は日帝侵略機関の破壊、日帝首脳部の処断です。"
+        },
+        {
+            "question": "義烈団が主張する意志は何ですか？",
+            "answer": "義烈団の意志は自由と独立を勝ち取るためには暴力的な革命のみが唯一の道であると主張しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 119,
+        "QA": 110
+    }
+}

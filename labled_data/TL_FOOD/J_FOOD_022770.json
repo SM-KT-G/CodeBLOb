@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_022770",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-13",
+        "domain": "음식점",
+        "title": "城北洞ジプ ( 성북동집 )"
+    },
+    "text": "城北洞ジプ \\n\nソウル特別市 城北区 ソンブクロ24ギル4\\n\n手打ちカルグクスと餃子で、城北洞で有名な名店です。おすすめはカルグクスです。ソウル特別市のソンブク区に位置した韓国料理店です。",
+    "QA": [
+        {
+            "question": "この店の名前は何ですか？",
+            "answer": "城北洞ジプです。"
+        },
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "ソウル特別市 城北区 ソンブクロ24ギル4にあります。"
+        },
+        {
+            "question": "この店の特徴は何ですか？",
+            "answer": "手打ちカルグクスと餃子が有名です。特におすすめはカルグクスです。"
+        },
+        {
+            "question": "この店はどのような料理を提供していますか？",
+            "answer": "韓国料理を提供しています。主に手打ちカルグクスと餃子が人気です。"
+        },
+        {
+            "question": "この店はソウル特別市のどの区に位置していますか？",
+            "answer": "ソウル特別市のソンブク区に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 70,
+        "QA": 148
+    }
+}

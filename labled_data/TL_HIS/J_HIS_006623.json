@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_006623",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1212&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=79&ccbaAsno=02640000&ccbaCtcd=36&ccbaCpno=4413602640000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2006-06-19",
+        "domain": "문화/역사관광",
+        "title": "강진 한골목 옛 담장"
+    },
+    "text": "康津一つ路地の旧塀 (강진 한골목 옛 담장)\\n\n全羅南道康津郡兵営面ジロ里291-1番地など\\n\n村の形成時期不詳 , 国家登録文化財 , 塀は全体的に石と土を交互に積み上げた土石塀だ。 下部は比較的大きな花崗石を、中段の上には薄い石を約15°ほど寝かせて細かく積み、次の階には再び交錯して積み重ねる一種の櫛目文形式(ここではこの形式を「ハーメル式塀積み」と呼ぶ)が独特だ。",
+    "QA": [
+        {
+            "question": "この康津一つ路地の旧塀は、いつ頃形成されましたか？",
+            "answer": "村の形成時期は不詳です。"
+        },
+        {
+            "question": "この康津一つ路地の旧塀は、どのような形式で積み上げられていますか？",
+            "answer": "塀は土石を交互に積み上げた土石塀で、特徴的な「ハーメル式塀積み」と呼ばれる櫛目文形式です。"
+        },
+        {
+            "question": "康津一つ路地の旧塀の下部にはどのような石が使われていますか？",
+            "answer": "下部では比較的大きな花崗石が使用されています。"
+        },
+        {
+            "question": "康津一つ路地の旧塀は、どのような地域にありますか？",
+            "answer": "康津郡兵営面ジロ里291-1番地など、全羅南道に位置しています。"
+        },
+        {
+            "question": "康津一つ路地の旧塀は国家登録文化財に登録されていますか？",
+            "answer": "はい、康津一つ路地の旧塀は国家登録文化財に登録されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 138,
+        "QA": 207
+    }
+}

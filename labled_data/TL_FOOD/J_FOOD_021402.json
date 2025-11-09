@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_021402",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2020-12-04",
+        "domain": "음식점",
+        "title": "鳳雛チムダク( 봉추찜닭 )"
+    },
+    "text": "鳳雛チムダク( 봉추찜닭 )\\n\n釜山広域市 釜山鎮区 中央大路680ボンカキル 18\\n\n様々なサイズのチムダク(鶏肉と野菜の蒸し煮)を提供する店です。 おすすめはチムダクです。釜山広域市のブサンジン区に位置した韓国料理店です。",
+    "QA": [
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "この店は釜山広域市の釜山鎮区中央大路680ボンカキル 18にあります。"
+        },
+        {
+            "question": "この店の名前は何ですか？",
+            "answer": "この店の名前は鳳雛チムダク( 봉추찜닭 )です。"
+        },
+        {
+            "question": "この店ではどんな料理が提供されていますか？",
+            "answer": "この店では様々なサイズのチムダク(鶏肉と野菜の蒸し煮)が提供されています。"
+        },
+        {
+            "question": "この店のおすすめ料理は何ですか？",
+            "answer": "この店のおすすめ料理はチムダクです。"
+        },
+        {
+            "question": "この店はどのくらいの大きさですか？",
+            "answer": "この店は釜山広域市のブサンジン区に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 84,
+        "QA": 159
+    }
+}

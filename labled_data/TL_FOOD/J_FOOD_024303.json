@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_024303",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/eoyang",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "魚陽"
+    },
+    "text": "魚陽\\n\nソウル特別市 松坡区 ウィリェソンデロ14\\n\n中国の有名ホテルのレストランで研修を受けた料理人たちが最高の中華料理を提供します。代表的なメニューは海鮮おこげスープです。ソウル特別市のソンパ区に位置した中華専門店です。",
+    "QA": [
+        {
+            "question": "このレストランの住所はどこですか？",
+            "answer": "ソウル特別市 松坡区 ウィリェソンデロ14にあります。"
+        },
+        {
+            "question": "このレストランの料理人たちはどこで研修を受けたのですか？",
+            "answer": "中国の有名ホテルで研修を受けました。"
+        },
+        {
+            "question": "このレストランの代表的なメニューは何ですか？",
+            "answer": "海鮮おこげスープが代表的なメニューです。"
+        },
+        {
+            "question": "このレストランはどの区に位置していますか？",
+            "answer": "このレストランはソウル特別市のソンパ区に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 83,
+        "QA": 132
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001928",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-05",
+        "domain": "음식점",
+        "title": "NEW DELHI ( 뉴델리 )"
+    },
+    "text": "NEW DELHI ( 뉴델리 )\\n\nソウル特別市 東大門区 キョンフィデロ6ギル5\\n\n2001年から現在まで変わらない味とサービスで愛されている店です。ソウル特別市のドンデムン区に位置したしたインド料理専門店です。おすすめはタンドリーチキンです。",
+    "QA": [
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "この店はソウル特別市のドンデムン区に位置しています。"
+        },
+        {
+            "question": "この店のおすすめメニューは何ですか？",
+            "answer": "この店のおすすめはタンドリーチキンです。"
+        },
+        {
+            "question": "この店の味やサービスはどうですか？",
+            "answer": "この店は2001年から現在まで変わらない味とサービスで愛されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 92,
+        "QA": 94
+    }
+}

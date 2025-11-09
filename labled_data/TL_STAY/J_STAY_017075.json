@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_017075",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42090&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "메이저2 호텔"
+    },
+    "text": "メジャー2ホテルは常に清潔を保ち、快適な空間を提供するホテルです。 モダンなインテリアと清潔で静かな場所で、ゆっくり休める快適な憩いの場を提供しています。 当ホテルは済州国際空港から車で約10分の距離に位置しており、快適な済州旅行を楽しめます。",
+    "QA": [
+        {
+            "question": "このホテルはどのような施設を提供していますか？",
+            "answer": "当ホテルは清潔な客室とモダンなインテリアを提供しています。また、静かな場所でゆっくりとくつろげる空間も用意されています。"
+        },
+        {
+            "question": "ホテルの立地はどのようになっていますか？",
+            "answer": "当ホテルは済州国際空港から車で約10分の距離に位置しています。"
+        },
+        {
+            "question": "このホテルの特徴は何ですか？",
+            "answer": "当ホテルは常に清潔さを保ち、快適な空間を提供しています。お客様が快適に休息できるような環境を提供しています。"
+        },
+        {
+            "question": "このホテルはどのようなインテリアですか？",
+            "answer": "当ホテルはモダンなインテリアを採用しており、おしゃれで快適な空間を提供しています。"
+        },
+        {
+            "question": "済州国際空港へのアクセスは便利ですか？",
+            "answer": "はい、当ホテルは済州国際空港から車で約10分の距離に位置しているため、アクセスは便利です。"
+        }
+    ],
+    "word_Count": {
+        "text": 89,
+        "QA": 239
+    }
+}

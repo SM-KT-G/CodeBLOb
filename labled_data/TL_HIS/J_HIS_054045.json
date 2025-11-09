@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_054045",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "https://www.museum.go.kr/site/main/relic/search/view?relicId=15.5080",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "글자가 새겨진 암키와2"
+    },
+    "text": "文字が刻まれた平瓦 (글자가 새겨진 암키와)\\n\n背中には「碗」と「癸卯」という銘文が刻まれており、国籍と時代は韓国の麗末鮮初です。材質は硬質の土で、分類は主生活の建築部材の屋根材の平瓦です。現在の大きさは長さ13.7cm、幅11.1cm、厚さ2.0cmです。",
+    "QA": [
+        {
+            "question": "この平瓦はどの国と時代のものですか？",
+            "answer": "この平瓦は韓国の麗末鮮初のものです。"
+        },
+        {
+            "question": "この平瓦の材質は何ですか？",
+            "answer": "この平瓦の材質は硬質の土です。"
+        },
+        {
+            "question": "この平瓦はどのように使われていましたか？",
+            "answer": "この平瓦は主に建築の屋根材として使われていました。"
+        },
+        {
+            "question": "この平瓦の大きさは何ですか？",
+            "answer": "この平瓦の大きさは長さ13.7cm、幅11.1cm、厚さ2.0cmです。"
+        },
+        {
+            "question": "背中に刻まれている銘文は何ですか？",
+            "answer": "背中に刻まれている銘文は「碗」と「癸卯」というものです。"
+        }
+    ],
+    "word_Count": {
+        "text": 96,
+        "QA": 149
+    }
+}

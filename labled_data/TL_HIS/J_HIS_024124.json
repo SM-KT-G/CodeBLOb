@@ -1,0 +1,51 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_024124",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=942&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=24&ccbaAsno=01880000&ccbaCtcd=37&ccbaCpno=2443701880000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2017-05-15",
+        "domain": "문화/역사관광",
+        "title": "안동 국탄댁"
+    },
+    "text": "安東ククタンデク (안동 국탄댁)\\n\n慶尚北道安東市イムハギル369(臨河面)\\n\n慶尚北道民俗文化財 , 朝鮮後期の文臣·池村·金芳杰（キム·バンゴル）先生の子孫·金時貞公（キム·シジョンゴン）が分家し、朝鮮英祖33年（1757）に建てた家だ。ロ字型平面を備えている家で、母屋は前面4間·側面3間で、サランチェは前面4間·側面1間の規模だ。 母屋もサランチェも比較的簡単な構造で建てられたが、建物の内側を立派に処理した。元々、林東面知礼洞にあったが、臨河ダム建設で1988年に現在の場所に移った。",
+    "QA": [
+        {
+            "question": "この家はいつ建てられましたか？",
+            "answer": "この家は朝鮮英祖33年（1757）に建てられました。"
+        },
+        {
+            "question": "この家はどのような形状をしていますか？",
+            "answer": "この家はロ字型の平面をしています。"
+        },
+        {
+            "question": "この家の母屋の広さはどのくらいですか？",
+            "answer": "この家の母屋は前面4間・側面3間の広さです。"
+        },
+        {
+            "question": "この家のサランチェの規模はどのくらいですか？",
+            "answer": "この家のサランチェは前面4間・側面1間の規模です。"
+        },
+        {
+            "question": "この家はどのような特徴的な処理がされていますか？",
+            "answer": "この家は建物の内側が立派に処理されています。"
+        },
+        {
+            "question": "この家は元々どこに位置していましたか？",
+            "answer": "この家は元々林東面知礼洞に位置していました。"
+        },
+        {
+            "question": "なぜこの家は現在の場所に移動したのですか？",
+            "answer": "この家は臨河ダム建設のため、1988年に現在の場所に移動しました。"
+        }
+    ],
+    "word_Count": {
+        "text": 183,
+        "QA": 224
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_019525",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42060&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "공주 마루호텔"
+    },
+    "text": "基本規定によると、公州新築ホテルの会員は提携店内規によって様々な特典を受けることができます。 当ホテルの客室は基本的に2名を基準としており、もし人数を追加したい場合は追加料金が発生します。 客室に1人の大人を追加したい場合は、10,000ウォンの追加料金を支払い、子供を追加したい場合は、5,000ウォンの追加料金を支払う必要があります。",
+    "QA": [
+        {
+            "question": "公州新築ホテルの会員になると、どのような特典を受けることができますか？",
+            "answer": "公州新築ホテルの会員は提携店内規によって様々な特典を受けることができます。"
+        },
+        {
+            "question": "客室に人数を追加した場合、追加料金が発生するのですか？",
+            "answer": "はい、客室に人数を追加した場合は追加料金が発生します。"
+        },
+        {
+            "question": "客室に1人の大人を追加した場合、追加料金はいくらですか？",
+            "answer": "客室に1人の大人を追加する場合は、10,000ウォンの追加料金が必要です。"
+        },
+        {
+            "question": "客室に子供を追加した場合、追加料金はいくらですか？",
+            "answer": "客室に子供を追加する場合は、5,000ウォンの追加料金が必要です。"
+        }
+    ],
+    "word_Count": {
+        "text": 123,
+        "QA": 182
+    }
+}

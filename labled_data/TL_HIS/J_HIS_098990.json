@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_098990",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=396&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=00320000&ccbaCtcd=36&ccbaCpno=2113600320000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1972-08-07",
+        "domain": "문화/역사관광",
+        "title": "장성 백양사 극락보전"
+    },
+    "text": "長城白羊寺極楽宝殿\\n\n全羅南道長城郡北下面白楊路1239(薬水里)\\n\n朝鮮、全羅南道有形文化財、白岩生きている百済の武王33年(632)ヨフヮンが立てたと言うが、時代を経て、何度も改称された。今のお寺は、1917年ソンマンアムが立て直したのだ。極楽宝殿は朝鮮宣祖7年(1574)にハンウン禅師がなったという記録があるが、確実ではない。ただ、『朝鮮査察飼料』を見れば建物を建てる時、朝鮮中宗(在位1506∼1544)のウィーン文定王后が参加したことを知ることができる。前面3間・側面4間規模で、屋根側面が人の教わる字形の切妻屋根の家だ。屋根を支え、装飾を兼ねない恐怖は柱の上と柱の間にもあるダポ様式である。建物内部には淡々とした技法で処理した単色の壁画がある。白羊寺極楽宝殿は境内で最も古いビルで、切妻屋根を持った建物でよく使用しないダポ様式で調整して建設した点が特徴である。",
+    "QA": [
+        {
+            "question": "寺の建物はいつ建てられましたか？",
+            "answer": "寺の建物は百済の武王33年(632)に建てられました。"
+        },
+        {
+            "question": "寺の建物を誰が立て直しましたか？",
+            "answer": "寺の建物は1917年にソンマンアムが立て直しました。"
+        },
+        {
+            "question": "寺の極楽宝殿に関する記録はありますか？",
+            "answer": "極楽宝殿に関する記録は朝鮮宣祖7年(1574)にハンウン禅師がなったという記録がありますが、確実ではありません。"
+        },
+        {
+            "question": "寺の建物の特徴は何ですか？",
+            "answer": "寺の極楽宝殿は切妻屋根を持った建物で、ダポ様式で調整して建設された点が特徴です。"
+        },
+        {
+            "question": "寺の建物内部には何がありますか？",
+            "answer": "寺の建物内部には淡々とした技法で処理した単色の壁画があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 285,
+        "QA": 190
+    }
+}

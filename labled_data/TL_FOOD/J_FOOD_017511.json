@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_017511",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-05-25",
+        "domain": "음식점",
+        "title": "光化門石カルビ ( 광화문석갈비 )"
+    },
+    "text": "光化門石カルビ \\n\nソウル特別市 中区 世宗大路 136\\n\nサラリーマンの飲み会の場所としてよく利用される店です。 おすすめは石焼きカルビです。ソウル特別市のジュン区に位置した韓国料理店です。",
+    "QA": [
+        {
+            "question": "光化門石カルビはどこにありますか？",
+            "answer": "ソウル特別市の中区世宗大路136に位置しています。"
+        },
+        {
+            "question": "光化門石カルビはどのような店ですか？",
+            "answer": "光化門石カルビはサラリーマンの飲み会の場所としてよく利用される韓国料理店です。"
+        },
+        {
+            "question": "光化門石カルビのおすすめメニューはありますか？",
+            "answer": "光化門石カルビのおすすめは石焼きカルビです。"
+        },
+        {
+            "question": "光化門石カルビはどの区に位置していますか？",
+            "answer": "光化門石カルビはソウル特別市の中区に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 71,
+        "QA": 140
+    }
+}

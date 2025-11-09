@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_007279",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-12-09",
+        "domain": "자연관광",
+        "title": "大雅樹木園（대아수목원）"
+    },
+    "text": "大雅樹木園（대아수목원）\\n\n全羅北道 完州郡 東上面 大雅樹木路 94-34\\n\n大雅樹木園は150ヘクタールの広さがあり、約30万本の観賞用樹木が植えられています。湧水、休憩所、展望台、山林資料室、林間教室などの施設があります。",
+    "QA": [
+        {
+            "question": "大雅樹木園はどこにありますか？",
+            "answer": "大雅樹木園は全羅北道完州郡東上面大雅樹木路94-34にあります。"
+        },
+        {
+            "question": "大雅樹木園の広さは何ヘクタールですか？",
+            "answer": "大雅樹木園の広さは150ヘクタールです。"
+        },
+        {
+            "question": "大雅樹木園には何本の樹木が植えられていますか？",
+            "answer": "大雅樹木園には約30万本の観賞用樹木が植えられています。"
+        },
+        {
+            "question": "大雅樹木園にはどんな施設がありますか？",
+            "answer": "大雅樹木園には湧水、休憩所、展望台、山林資料室、林間教室などの施設があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 85,
+        "QA": 143
+    }
+}

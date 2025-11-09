@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_091200",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1163&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=05340000&ccbaCtcd=37&ccbaCpno=3413705340000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2008-03-24",
+        "domain": "문화/역사관광",
+        "title": "영주 유연당"
+    },
+    "text": "慶尚北道文化財資料のヨンジュユヨンダンは1589年に奉香里に建設され、その後に沙禮に移され、現在の元塘に移転されたという。ユヨンダンはキム・テヒョンが居住し、戦争の克服と歴史文化を象徴する建物として知られている。建物は19世紀後半の構造様式に沿っており、様々な古書と未公開資料など約12,000点余りの古文書の資料を所蔵している。",
+    "QA": [
+        {
+            "question": "ヨンジュユヨンダンはいつ建てられましたか？",
+            "answer": "1589年に奉香里に建設されました。"
+        },
+        {
+            "question": "ヨンジュユヨンダンはどこからどこに移動しましたか？",
+            "answer": "その後に沙禮に移され、現在の元塘に移転されました。"
+        },
+        {
+            "question": "ユヨンダンの所有者は誰ですか？",
+            "answer": "ユヨンダンの所有者はキム・テヒョンです。"
+        },
+        {
+            "question": "ユヨンダンの建物はどのような構造様式に沿っていますか？",
+            "answer": "ユヨンダンの建物は19世紀後半の構造様式に沿っています。"
+        },
+        {
+            "question": "ユヨンダンには何点の古文書の資料が所蔵されていますか？",
+            "answer": "ユヨンダンには約12,000点余りの古文書の資料が所蔵されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 121,
+        "QA": 176
+    }
+}

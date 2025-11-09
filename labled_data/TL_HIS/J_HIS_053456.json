@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_053456",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101933",
+        "collectedDate": "2023-10-06",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "구포역"
+    },
+    "text": "亀浦駅は、韓国鉄道公社京釜線に位置した鉄道駅に、国鉄亀浦駅とも呼ばれる。また、釜山都市鉄道3号線に位置した都市鉄道駅でもあり、地下鉄亀浦駅とも呼ばれる駅である。",
+    "QA": [
+        {
+            "question": "亀浦駅はどこに位置していますか？",
+            "answer": "亀浦駅は韓国鉄道公社京釜線に位置しています。"
+        },
+        {
+            "question": "亀浦駅は他に何と呼ばれていますか？",
+            "answer": "亀浦駅は国鉄亀浦駅とも呼ばれます。"
+        },
+        {
+            "question": "亀浦駅はどの鉄道線に位置していますか？",
+            "answer": "亀浦駅は韓国鉄道公社京釜線に位置しています。"
+        },
+        {
+            "question": "亀浦駅はどの都市鉄道線に位置していますか？",
+            "answer": "亀浦駅は釜山都市鉄道3号線に位置しています。"
+        },
+        {
+            "question": "亀浦駅は地下鉄の駅ですか？",
+            "answer": "はい、亀浦駅は地下鉄の駅です。"
+        },
+        {
+            "question": "国鉄亀浦駅と地下鉄亀浦駅は同じ駅ですか？",
+            "answer": "はい、国鉄亀浦駅と地下鉄亀浦駅は同じ駅です。"
+        }
+    ],
+    "word_Count": {
+        "text": 58,
+        "QA": 165
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001874",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/max-brenner",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "MAX BRENNER"
+    },
+    "text": "MAX BRENNER\\n\nソウル特別市 瑞草区 新盤浦路 176\\n\nMAX BRENNER（マックスブレナー）はニューヨークに本社を置くチョコレートブランドで、チョコレートマニアの間で有名な店です。チョコレートを使ったフォンデュ、チョコレートチャンクピザなどの様々なメニューがあります。",
+    "QA": [
+        {
+            "question": "マックスブレナーはどこの都市にありますか？",
+            "answer": "マックスブレナーはソウル特別市にあります。"
+        },
+        {
+            "question": "マックスブレナーはどの区にありますか？",
+            "answer": "マックスブレナーは瑞草区にあります。"
+        },
+        {
+            "question": "マックスブレナーはどの道にありますか？",
+            "answer": "マックスブレナーは新盤浦路176番地にあります。"
+        },
+        {
+            "question": "マックスブレナーはどんなメニューがありますか？",
+            "answer": "マックスブレナーではチョコレートを使ったフォンデュやチョコレートチャンクピザなど様々なメニューがあります。"
+        },
+        {
+            "question": "マックスブレナーはどこのブランドですか？",
+            "answer": "マックスブレナーはニューヨークに本社を置くチョコレートブランドです。"
+        },
+        {
+            "question": "マックスブレナーは誰に有名ですか？",
+            "answer": "マックスブレナーはチョコレートマニアの間で有名です。"
+        }
+    ],
+    "word_Count": {
+        "text": 106,
+        "QA": 216
+    }
+}

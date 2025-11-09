@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_105055",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1210&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=79&ccbaAsno=02430000&ccbaCtcd=11&ccbaCpno=4411102430000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2006-03-02",
+        "domain": "문화/역사관광",
+        "title": "창덕궁 대조전 백학도"
+    },
+    "text": "1920年ごろ、王室の後苑の美術教育機関である書画ミスルウォンで教育を受けた代表的若手画家の金殷鎬によって製作された壁画がある。この壁画は、国家登録文化財での大造殿に付着している。・金殷鎬(キム・ウンホ)は彩色花鳥画の伝統を継承し、形状の表現と技術の描写に充実し、華やかな構成を盛り込んでいる。宮中の壁画として、キム・ウンホの作品は他の5点とともに唯一現存しており、単純な装飾がなく全角の機能と連携し、墜落した皇室の安寧と権威の回復、王室の力量を再確認する吉祥的・象徴的な意味を抱いている。したがって、この作品は歴史的、芸術的価値がある。しかし、金殷鎬は、親日反民族行為真相究明報告書に含まれた人物であり、彼の過去には議論がある。",
+    "QA": [
+        {
+            "question": "金殷鎬は何時ごろ書画ミスルウォンで教育を受けましたか？",
+            "answer": "1920年ごろ、金殷鎬は書画ミスルウォンで教育を受けました。"
+        },
+        {
+            "question": "金殷鎬が製作した壁画はどこにありますか？",
+            "answer": "金殷鎬が製作した壁画は、国家登録文化財である大造殿に付着しています。"
+        },
+        {
+            "question": "金殷鎬の作品は何を盛り込んでいますか？",
+            "answer": "金殷鎬の作品は、彩色花鳥画の伝統を継承し、形状の表現と技術の描写に充実し、華やかな構成を盛り込んでいます。"
+        },
+        {
+            "question": "金殷鎬の作品はどのような意味を持っていますか？",
+            "answer": "金殷鎬の作品は吉祥的・象徴的な意味を抱いており、墜落した皇室の安寧と権威の回復、王室の力量を再確認する意味を持っています。"
+        },
+        {
+            "question": "金殷鎬の過去には何が含まれていますか？",
+            "answer": "金殷鎬の過去には親日反民族行為真相究明報告書に含まれた人物としての議論があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 231,
+        "QA": 239
+    }
+}

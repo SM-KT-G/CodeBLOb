@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_035188",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1015&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=00690000&ccbaCtcd=32&ccbaCpno=3413200690000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1985-01-17",
+        "domain": "문화/역사관광",
+        "title": "홍천 풍암리 고택"
+    },
+    "text": "洪川豊岩里の古宅 (홍천 풍암리 고택)\\n\n江原道洪川郡西石面チャンマクギル29-8(豊岩里)\\n\n1903 , 江原特別自治道 文化財資料 , 母屋とサランチェ、物置で構成されたロ字型住宅で、1903年に西石の富豪だったオム·グンホが建てて45年間住んでいた家だ。 母屋の平面は台所を中心に前面には台所光を配置し、裏面に縁側のある奥の間を置いた。 その隣には板の間と向かい側の部屋が設けられている。 この家は母屋とサランチェ出入りの門を分離し、その間に狭い中庭にも塀を設置して男女が使う空間を別に分けておいた。 母屋とサランチェは藁葺き屋根の家だったものを1970年代にスレートとトタンに交換した。 ゆったりと飾った家で、嶺西·中部地方でよく見られる家屋形態を備えている。",
+    "QA": [
+        {
+            "question": "この洪川豊岩里の古宅はいつ建てられましたか？",
+            "answer": "1903年に建てられました。"
+        },
+        {
+            "question": "この古宅は誰によって建てられましたか？",
+            "answer": "オム·グンホという西石の富豪によって建てられました。"
+        },
+        {
+            "question": "この古宅の平面はどのように配置されていますか？",
+            "answer": "台所を中心に前面には台所光を配置し、裏面に縁側のある奥の間を置いています。"
+        },
+        {
+            "question": "この古宅の特徴的な構造はありますか？",
+            "answer": "母屋とサランチェ出入りの門を分離し、その間に狭い中庭にも塀を設置して男女が使う空間を別に分けています。"
+        },
+        {
+            "question": "この古宅の屋根は何でできていますか？",
+            "answer": "元々は藁葺き屋根でしたが、1970年代にスレートとトタンに交換されました。"
+        },
+        {
+            "question": "この古宅はどの地域の家屋形態を備えていますか？",
+            "answer": "嶺西·中部地方でよく見られる家屋形態を備えています。"
+        }
+    ],
+    "word_Count": {
+        "text": 247,
+        "QA": 230
+    }
+}

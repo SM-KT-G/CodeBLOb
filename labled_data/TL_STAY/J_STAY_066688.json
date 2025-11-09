@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_066688",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42061&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "대전 용전 아이 운영 정책"
+    },
+    "text": "チェックインは18:00に可能で、チェックアウトは13:00までです。 チェックインとチェックアウトに関するご案内は以下の通りです。 入室を希望する方はその時間にお越しください。 また、入室後のご利用に関するご案内もご用意しております。 予約をされた方は追加特典を受けることができます。 ユーチューブ視聴が可能な機器も提供され、VR装備もレンタルします。 IPTVと最新映画の視聴も可能です。 また、客室ごとにウォッシュレットが設置されており、ワイファイが利用できます。 また、客室内ではポップコーン、ポテト、お菓子などの飲食を提供しています。",
+    "QA": [
+        {
+            "question": "チェックインは何時ですか？",
+            "answer": "チェックインは18:00に可能です。"
+        },
+        {
+            "question": "チェックアウトは何時ですか？",
+            "answer": "チェックアウトは13:00までです。"
+        },
+        {
+            "question": "どのような特典がありますか？",
+            "answer": "予約をされた方は追加特典を受けることができます。"
+        },
+        {
+            "question": "どのような機器がレンタルできますか？",
+            "answer": "ユーチューブ視聴が可能な機器やVR装備がレンタルできます。"
+        },
+        {
+            "question": "客室内で利用できるものは何ですか？",
+            "answer": "客室内ではIPTVと最新映画の視聴、ウォッシュレット、ワイファイ、ポップコーン、ポテト、お菓子などの飲食が提供されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 199,
+        "QA": 166
+    }
+}

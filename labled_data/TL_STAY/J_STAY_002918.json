@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_002918",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/goods/GN0002157889?startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0%5E&npprmaxsort=min",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "제주 안녕대흘펜션"
+    },
+    "text": "おはようございます. 私たちは済州アンニョンデフルペンションです。 当ペンションは、済州で感性を感じられるジャグジの一軒家ペンションとして知られています。 ペンションをご利用いただく場合は、22時以降に入室される場合は、予め当ペンションまでご連絡ください。 ありがとうございます。",
+    "QA": [
+        {
+            "question": "済州アンニョンデフルペンションとはどのような場所ですか？",
+            "answer": "済州アンニョンデフルペンションは、済州で感性を感じられるジャグジの一軒家ペンションです。"
+        },
+        {
+            "question": "ペンションを利用する際、何時までに入室する必要がありますか？",
+            "answer": "22時以降に入室される場合は、予め当ペンションまでご連絡ください。"
+        },
+        {
+            "question": "済州アンニョンデフルペンションの特徴はありますか？",
+            "answer": "済州アンニョンデフルペンションは、感性を感じられる一軒家ペンションとして知られています。"
+        }
+    ],
+    "word_Count": {
+        "text": 102,
+        "QA": 149
+    }
+}

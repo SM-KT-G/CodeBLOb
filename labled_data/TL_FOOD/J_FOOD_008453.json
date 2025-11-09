@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_008453",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "ソイルオク ( 서일옥 )"
+    },
+    "text": "ソイルオク ( 서일옥 )\\n\n京畿道 東豆川市 中央路 317\\n\n各種韓国料理が味わえるお店です。 京畿道のドンドゥチョン市に位置した韓食専門店です。代表的なメニューはバックリブです。",
+    "QA": [
+        {
+            "question": "ソイルオクはどこの市に位置していますか？",
+            "answer": "ソイルオクは京畿道の東豆川市に位置しています。"
+        },
+        {
+            "question": "ソイルオクではどのような料理が味わえますか？",
+            "answer": "ソイルオクでは各種の韓国料理が味わえます。"
+        },
+        {
+            "question": "ソイルオクの代表的なメニューは何ですか？",
+            "answer": "ソイルオクの代表的なメニューはバックリブです。"
+        }
+    ],
+    "word_Count": {
+        "text": 68,
+        "QA": 94
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_002095",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-05",
+        "domain": "음식점",
+        "title": "STATER ( 스테이터 )"
+    },
+    "text": "STATER ( 스테이터 )\\n\nソウル特別市 江南区 ポンウンサロ4ギル29\\n\nステーキがおいしいレストランとしてデートにぴったりの店です。ソウル特別市のガンナム区に位置した洋食専門店です。おすすめはステーキです。",
+    "QA": [
+        {
+            "question": "ステーキのおすすめのメニューはありますか？",
+            "answer": "はい、当店のおすすめはステーキです。"
+        },
+        {
+            "question": "レストランの場所はどこですか？",
+            "answer": "当店はソウル特別市江南区ポンウンサロ4ギル29に位置しています。"
+        },
+        {
+            "question": "デートにぴったりの雰囲気ですか？",
+            "answer": "はい、当店はデートにぴったりの雰囲気のレストランです。"
+        }
+    ],
+    "word_Count": {
+        "text": 80,
+        "QA": 94
+    }
+}

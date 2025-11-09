@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_062487",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/collectionList#######",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "동해출봉도"
+    },
+    "text": "東海出峰島 ( 동해출봉도)\\n\nこの作品は、日本の愛作によって制作された一套装で、絹という素材が使用されています。縦214cm、横48.7cm、軸長54.3cmというサイズです。 文章が少しぎこちないので、以下のように自然に整えてみます： この作品は、愛作という日本の作家によって制作された一套装です。絹という素材が使用されており、縦214cm、横48.7cm、軸長54.3cmというサイズです。",
+    "QA": [
+        {
+            "question": "この作品は誰によって制作されましたか？",
+            "answer": "この作品は愛作という日本の作家によって制作されました。"
+        },
+        {
+            "question": "この作品に使用されている素材は何ですか？",
+            "answer": "この作品には絹という素材が使用されています。"
+        },
+        {
+            "question": "この作品のサイズは何ですか？",
+            "answer": "この作品の縦は214cm、横は48.7cm、軸長は54.3cmです。"
+        }
+    ],
+    "word_Count": {
+        "text": 145,
+        "QA": 99
+    }
+}

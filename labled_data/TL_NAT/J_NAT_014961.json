@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_014961",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101971",
+        "collectedDate": "2023-09-07",
+        "publishedDate": "2021-11-25",
+        "domain": "자연관광",
+        "title": "展望の森"
+    },
+    "text": "展望の森\n思索の森から1kmほど進むと、「展望の森」が続き、淵澄山（ヨンジンサン）の頂上に辿り着くことができます。  この頂上から、湖南（ホナム）地方を育んできた栄山江（ヨンサンガン）が東に向かってくねくねと流れる絶景を、どうぞご堪能ください。",
+    "QA": [
+        {
+            "question": "展望の森から淵澄山の頂上に辿り着くまでの距離は何キロメートルですか？",
+            "answer": "展望の森から淵澄山の頂上に辿り着くまでの距離は約1キロメートルです。"
+        },
+        {
+            "question": "展望の森から見える絶景は何ですか？",
+            "answer": "展望の森からは湖南地方を育んできた栄山江が東に向かってくねくねと流れる絶景が見えます。"
+        },
+        {
+            "question": "淵澄山の頂上からの景色を楽しむことができる方角はどこですか？",
+            "answer": "淵澄山の頂上からは東に向かって流れる栄山江の絶景を楽しむことができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 89,
+        "QA": 142
+    }
+}

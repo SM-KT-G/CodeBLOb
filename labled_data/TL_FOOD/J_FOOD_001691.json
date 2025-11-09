@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001691",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-06",
+        "domain": "음식점",
+        "title": "GILSEIRUMUSHI ( 길세이로무시 )"
+    },
+    "text": "GILSEIRUMUSHI ( 길세이로무시 )\\n\n釜山広域市 釜山鎮区 ソミョンロ21\\n\n日本のせいろむしが味わえる店です。 釜山広域市のブサンジン区に位置した和食専門店です。代表的なメニューはサーモンの刺身です。",
+    "QA": [
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "この店は釜山広域市の釜山鎮区に位置しています。"
+        },
+        {
+            "question": "この店の名前は何ですか？",
+            "answer": "この店の名前はギルセイロ무시（길세이로무시）です。"
+        },
+        {
+            "question": "この店ではどのような料理が味わえますか？",
+            "answer": "この店では日本のせいろむしやサーモンの刺身など、和食が味わえます。"
+        },
+        {
+            "question": "この店の代表的なメニューは何ですか？",
+            "answer": "この店の代表的なメニューはサーモンの刺身です。"
+        }
+    ],
+    "word_Count": {
+        "text": 80,
+        "QA": 122
+    }
+}

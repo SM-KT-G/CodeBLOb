@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_020213",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/ijo-myeonok",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "李朝麵屋"
+    },
+    "text": "李朝麵屋\\n\nソウル特別市 江西区 ヤンチョンロ353\\n\n並んで食べる刺身入り冷麺で有名な名店です。おすすめは刺身入り冷麺です。ソウル特別市のガンソ区に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "この李朝麵屋はどこにありますか？",
+            "answer": "ソウル特別市の江西区のヤンチョンロ353にあります。"
+        },
+        {
+            "question": "李朝麵屋の有名な料理は何ですか？",
+            "answer": "刺身入り冷麺が特におすすめです。"
+        },
+        {
+            "question": "李朝麵屋はどのような店ですか？",
+            "answer": "李朝麵屋はソウル特別市のガンソ区に位置した韓食専門店です。"
+        }
+    ],
+    "word_Count": {
+        "text": 65,
+        "QA": 86
+    }
+}

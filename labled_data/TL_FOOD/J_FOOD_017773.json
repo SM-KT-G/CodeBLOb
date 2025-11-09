@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_017773",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-08-05",
+        "domain": "음식점",
+        "title": "錦江樹林（금강수림）"
+    },
+    "text": "錦江樹林（금강수림）\\n\nソウル特別市 江南区 江南大路 240 （道谷洞）\\n\n錦江樹林は郷土料理飲食店に指定されており、代表メニューに味付けウナギ、フグスープ、フグジリなどがあります。",
+    "QA": [
+        {
+            "question": "錦江樹林はどこに位置していますか？",
+            "answer": "錦江樹林はソウル特別市江南区江南大路240に位置しています。"
+        },
+        {
+            "question": "錦江樹林はどのような料理を提供していますか？",
+            "answer": "錦江樹林では味付けウナギ、フグスープ、フグジリなどの代表的な郷土料理を提供しています。"
+        },
+        {
+            "question": "錦江樹林は何に指定されていますか？",
+            "answer": "錦江樹林は郷土料理飲食店に指定されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 68,
+        "QA": 110
+    }
+}

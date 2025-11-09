@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_026718",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101933",
+        "collectedDate": "2023-10-06",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "조선간장"
+    },
+    "text": "朝鮮醤油\n朝鮮醤油は韓国で伝統的な方法で作った醤油である。 主に汁の味を調える時に使う。 工場で大量に作った倭醤油と比較して、家で作った醤油をいわゆる「家醤油」と呼ぶこともある。 韓食醤油や在来式醤油とも呼ばれる。 \n",
+    "QA": [
+        {
+            "question": "朝鮮醤油はどのように作られますか？",
+            "answer": "朝鮮醤油は韓国で伝統的な方法で作られます。"
+        },
+        {
+            "question": "朝鮮醤油は何に使われますか？",
+            "answer": "朝鮮醤油は主に汁の味を調える時に使われます。"
+        },
+        {
+            "question": "朝鮮醤油は他の種類の醤油とどのように比較されますか？",
+            "answer": "朝鮮醤油は工場で大量に作られる倭醤油と比較して、家で作られる「家醤油」とも呼ばれます。"
+        },
+        {
+            "question": "朝鮮醤油には他の名前もありますか？",
+            "answer": "朝鮮醤油は韓食醤油や在来式醤油とも呼ばれます。"
+        }
+    ],
+    "word_Count": {
+        "text": 79,
+        "QA": 134
+    }
+}

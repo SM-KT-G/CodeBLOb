@@ -1,0 +1,31 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_002098",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-06",
+        "domain": "음식점",
+        "title": "STEAK JOBS 西面 ( 스테이크잡스 서면 )"
+    },
+    "text": "STEAK JOBS 西面 ( 스테이크잡스 서면 )\\n\n釜山広域市 釜山鎮区 チュンアンデロ702ボンギル33\\n\nリーズナブルなステーキの名店です。釜山広域市のブサンジン区に位置した洋食専門店です。代表的なメニューはステーキです。",
+    "QA": [
+        {
+            "question": "ステーキジョブズ西面はどこにありますか？",
+            "answer": "ステーキジョブズ西面は釜山広域市釜山鎮区チュンアンデロ702ボンギル33に位置しています。"
+        },
+        {
+            "question": "ステーキジョブズ西面の代表的なメニューは何ですか？",
+            "answer": "ステーキジョブズ西面の代表的なメニューはステーキです。"
+        }
+    ],
+    "word_Count": {
+        "text": 86,
+        "QA": 85
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_087756",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=484&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=01430000&ccbaCtcd=35&ccbaCpno=2113501430000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1993-08-31",
+        "domain": "문화/역사관광",
+        "title": "안성 강원도 관찰사 고신 왕지"
+    },
+    "text": "全羅北道には有形文化財の一つであるワンジとは、賃金の命令を書いて伝える文書がある。ワンジは太宗14年に千曲安城に下したことで知られている。このワンジの大きさは横41.5センチ、縦43センチだ。安城は、高麗末、朝鮮初期の文臣であり、まあ6年に及第し、ボムンガクジク学士、尚州裁判官として活動した。太祖2年に清白吏に選ばれ、様々な官職を務めたが、彼が死亡した後、長寿のチャンギェの書院に埋葬された。このワンジは英祖27年に樹立したオピルガクに保存されている。",
+    "QA": [
+        {
+            "question": "ワンジとは何ですか？",
+            "answer": "ワンジは賃金の命令を書いて伝える文書です。"
+        },
+        {
+            "question": "ワンジの大きさはどれくらいですか？",
+            "answer": "ワンジの大きさは横41.5センチ、縦43センチです。"
+        },
+        {
+            "question": "ワンジを下した場所はどこですか？",
+            "answer": "ワンジを千曲安城に下しました。"
+        },
+        {
+            "question": "安城とはどのような人物ですか？",
+            "answer": "安城は高麗末、朝鮮初期の文臣であり、まあ6年に及第し、ボムンガクジク学士、尚州裁判官として活動した人物です。"
+        },
+        {
+            "question": "ワンジは何年に樹立されましたか？",
+            "answer": "ワンジは英祖27年に樹立したオピルガクに保存されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 166,
+        "QA": 160
+    }
+}

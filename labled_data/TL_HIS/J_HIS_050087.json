@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_050087",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=45&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=01870000&ccbaCtcd=37&ccbaCpno=1123701870000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1963-01-21",
+        "domain": "문화/역사관광",
+        "title": "경주 남산 용장사곡 석조여래좌상"
+    },
+    "text": "慶州南山ヨンジャンサゴクジャン\\n\n慶尚北道慶州市内南面龍蔵里山1-1番地\\n\n統一新羅時代、宝物、慶州(キョンジュ)ナムサン全域でも指折りの大きな寺院であった勇将寺跡を見下ろす場所に位置している。頭部はなくなり、手と胴体の一部が残っているが、台座に比べて仏像は小さい方だ。肩は手頃で、全般的にボリュームが強調されていない現実的な身体でどんな僧侶の姿勢を見て作ったものと見られる。仏像が着ている衣服は、両肩を覆っており、裾が台座(臺座)の上部まで流れて降るけど、まるでレースがついたように事実的に表現されている。台座は自然の基壇の上にあるユニークな3階塔と考えられるほど特異な円形(圓形)だけど、一番上の段には蓮華(れんげ)文を刻んでおいた。この石仏は、特異な台座だけでなく、石仏自体の写実的表現が作品の格を高める上、『三国遺事』で見える有名な僧侶大賢(大賢)と深く関わっている有名な仏像である。大賢の活動期間に制作されたボア8世紀中葉に作られたものと推定される。",
+    "QA": [
+        {
+            "question": "勇将寺跡はどこに位置していますか？",
+            "answer": "勇将寺跡は慶尚北道慶州市内南面龍蔵里山1-1番地に位置しています。"
+        },
+        {
+            "question": "この石仏の特徴は何ですか？",
+            "answer": "この石仏は頭部がなくなり、手と胴体の一部が残っているものの、台座に比べて小さな仏像です。身体は現実的で、ボリュームが強調されていない特徴があります。また、仏像が着ている衣服は両肩を覆い、裾が台座の上部まで流れて降り、レースがついたようなデザインが実際的に表現されています。"
+        },
+        {
+            "question": "この石仏はいつ制作されたものですか？",
+            "answer": "この石仏はボア8世紀中葉に作られたものと推定されています。"
+        },
+        {
+            "question": "この石仏はどの有名な僧侶と関係がありますか？",
+            "answer": "この石仏は『三国遺事』で知られる有名な僧侶、大賢と深く関わっています。"
+        }
+    ],
+    "word_Count": {
+        "text": 316,
+        "QA": 222
+    }
+}

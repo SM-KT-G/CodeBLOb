@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_004087",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-05",
+        "domain": "음식점",
+        "title": "ガッテン寿司 江南 ( 갓덴스시 강남 )"
+    },
+    "text": "ガッテン寿司 江南 ( 갓덴스시 강남 )\\n\nソウル特別市 江南区 テヘランロ109\\n\nリーズナブルな回転寿司の店です。ソウル特別市のガンナム区に位置した和食専門店です。おすすめは寿司です。",
+    "QA": [
+        {
+            "question": "寿司のおすすめは何ですか？",
+            "answer": "当店のおすすめは、新鮮な魚介類を使用した回転寿司です。"
+        },
+        {
+            "question": "ガッテン寿司 江南の場所はどこですか？",
+            "answer": "ガッテン寿司 江南はソウル特別市の江南区に位置しています。具体的な住所はテヘランロ109です。"
+        },
+        {
+            "question": "ガッテン寿司 江南はどんな店ですか？",
+            "answer": "ガッテン寿司 江南はリーズナブルな回転寿司の店です。和食専門店であり、ソウル特別市のガンナム区に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 71,
+        "QA": 132
+    }
+}

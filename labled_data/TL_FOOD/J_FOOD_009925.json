@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_009925",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000501416#",
+        "collectedDate": "2023-09-05",
+        "publishedDate": "2016-05-30",
+        "domain": "음식점",
+        "title": "할매추어탕"
+    },
+    "text": "チュオタン\n済州特別自治道済州市亀南路57(イドイドン)\nメインメニューのチュオタン（ドジョウのスープ）はもちろん、チョングッチャン（強い匂いがする味噌スープの一ひとつ）も自家製の韓国産豆のみを使用し、とてもさっぱりして香ばしい味で有名なところです。",
+    "QA": [
+        {
+            "question": "チュオタンのメインメニューは何ですか？",
+            "answer": "チュオタンのメインメニューはチュオタン（ドジョウのスープ）です。"
+        },
+        {
+            "question": "チョングッチャンの特徴は何ですか？",
+            "answer": "チョングッチャンの特徴は、自家製の韓国産豆のみを使用し、とてもさっぱりして香ばしい味です。"
+        },
+        {
+            "question": "チュオタンはどこにありますか？",
+            "answer": "チュオタンは済州特別自治道済州市亀南路57(イドイドン)にあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 91,
+        "QA": 118
+    }
+}

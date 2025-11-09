@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_010858",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/goods/GN0002151456?startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0%5E&npprmaxsort=min",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "노원 노블레스 관광호텔 운영 정책"
+    },
+    "text": "チェックインは午後2時以降に可能で、チェックアウトは午前12時以前にお願いします。 夜10時以降はクラブの騒音が発生することがありますので、ご考慮ください。 駐車場が限られているため、パーキングが難しい場合があります。 無料でWi-Fiを利用することができ、追加費用は現地で決済してください。ありがとうございます。",
+    "QA": [
+        {
+            "question": "チェックインは何時から可能ですか？",
+            "answer": "午後2時以降にチェックインが可能です。"
+        },
+        {
+            "question": "チェックアウトは何時までですか？",
+            "answer": "午前12時までにチェックアウトをお願いします。"
+        },
+        {
+            "question": "夜遅くまで騒音がありますか？",
+            "answer": "夜10時以降はクラブの騒音が発生することがありますので、ご了承ください。"
+        },
+        {
+            "question": "駐車場はありますか？",
+            "answer": "駐車場が限られているため、パーキングが難しい場合があります。"
+        },
+        {
+            "question": "Wi-Fiの利用料金はありますか？",
+            "answer": "無料でWi-Fiを利用することができます。追加費用は現地で決済してください。"
+        }
+    ],
+    "word_Count": {
+        "text": 115,
+        "QA": 161
+    }
+}

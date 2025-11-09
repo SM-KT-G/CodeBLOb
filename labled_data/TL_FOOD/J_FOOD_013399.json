@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_013399",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-05",
+        "domain": "음식점",
+        "title": "ベンノリ刺身専門店 ( 뱃노리횟집 )"
+    },
+    "text": "ベンノリ刺身専門店 ( 뱃노리횟집 )\\n\n江原道 原州市 チェチョンブクロ21ギル31\\n\n新鮮な海産物を仕入れて提供している店です。江原道のウォンジュ市に位置した和食専門店です。おすすめは刺身丼です。",
+    "QA": [
+        {
+            "question": "ベンノリ刺身専門店はどこに位置していますか？",
+            "answer": "ベンノリ刺身専門店は江原道原州市チェチョンブクロ21ギル31に位置しています。"
+        },
+        {
+            "question": "ベンノリ刺身専門店ではどのような料理が提供されていますか？",
+            "answer": "ベンノリ刺身専門店では新鮮な海産物を仕入れていて、刺身丼がおすすめの料理です。"
+        },
+        {
+            "question": "ベンノリ刺身専門店のおすすめメニューは何ですか？",
+            "answer": "ベンノリ刺身専門店のおすすめメニューは刺身丼です。"
+        }
+    ],
+    "word_Count": {
+        "text": 74,
+        "QA": 130
+    }
+}

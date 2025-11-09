@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_063269",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1009&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=00620000&ccbaCtcd=34&ccbaCpno=3413400620000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1984-05-17",
+        "domain": "문화/역사관광",
+        "title": "마곡사천왕문"
+    },
+    "text": "1910年中央捜査に建てられた麻谷寺(マゴクサ)は、忠清南道(チュンチョンナムド)の文化財資料として伝えられている。百済武王41年に磁場律師によって築かれたと伝えられている。大雄殿、霊山殿、(ちゅうぼう)保全、ホンソンルなど多様な建物たちが寺の境内に残っている。朝鮮後期に造られた天王門は1910年に補修工事が行われたと記録されている。天王門は、前面は3間、側面は2両で大きさが決まっている。切妻屋根と呼ばれる側面から見ると、人のインの形に似た屋根を持っている。天井は燃灯天井で構成されており、東西南北4地域を保護した四天王の像と絵が内側に描かれている。",
+    "QA": [
+        {
+            "question": "麻谷寺はいつ建てられましたか？",
+            "answer": "麻谷寺は1910年に建てられました。"
+        },
+        {
+            "question": "麻谷寺の建物には何がありますか？",
+            "answer": "麻谷寺の建物には大雄殿、霊山殿、保全、ホンソンルなどがあります。"
+        },
+        {
+            "question": "天王門はいつ補修工事が行われましたか？",
+            "answer": "天王門は1910年に補修工事が行われました。"
+        },
+        {
+            "question": "天王門の大きさはどのように決まっていますか？",
+            "answer": "天王門の前面は3間、側面は2両で大きさが決まっています。"
+        },
+        {
+            "question": "天王門の屋根はどのような形ですか？",
+            "answer": "天王門の屋根は切妻屋根と呼ばれる形で、側面から見ると人の印の形に似ています。"
+        },
+        {
+            "question": "天王門の内側には何が描かれていますか？",
+            "answer": "天王門の内側には四天王の像と絵が描かれています。"
+        }
+    ],
+    "word_Count": {
+        "text": 203,
+        "QA": 198
+    }
+}

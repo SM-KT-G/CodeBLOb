@@ -1,0 +1,51 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_095530",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/collectionList#######",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2023-10-11",
+        "domain": "문화/역사관광",
+        "title": "음과 언어"
+    },
+    "text": "音と言語 (음과 언어)\\n\n日本語に翻訳された本では、指揮者フルトヴェングラーの著書が紹介されています。特に67ページや68ページで下線を引かれている箇所があります。この本は、安益泰さんが所蔵しています。 この本の国籍や時代は、日本のものであり、1945年以降に発行されたものです。紙の素材は、日向という種類のものでできています。著者はWilhelm Furtwaenglerであり、この本は文化芸術や音楽に関する書籍の中でも音楽の楽書に分類されます。サイズは、横133cm、縦195cm、高さ2cmです。",
+    "QA": [
+        {
+            "question": "この本のタイトルは何ですか？",
+            "answer": "フルトヴェングラーの著書"
+        },
+        {
+            "question": "この本を所有しているのは誰ですか？",
+            "answer": "安益泰さん"
+        },
+        {
+            "question": "この本の国籍や時代は何ですか？",
+            "answer": "日本のものであり、1945年以降に発行されたもの"
+        },
+        {
+            "question": "この本の紙の素材は何ですか？",
+            "answer": "日向"
+        },
+        {
+            "question": "この本の著者は誰ですか？",
+            "answer": "Wilhelm Furtwaengler"
+        },
+        {
+            "question": "この本の分類は何ですか？",
+            "answer": "音楽の楽書"
+        },
+        {
+            "question": "この本のサイズはどのくらいですか？",
+            "answer": "横133cm、縦195cm、高さ2cm"
+        }
+    ],
+    "word_Count": {
+        "text": 186,
+        "QA": 137
+    }
+}

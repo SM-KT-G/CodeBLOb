@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_015338",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42090&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "서귀포 포구가는길 펜션"
+    },
+    "text": "バーベキュー場をご利用いただけます。 様々な観光地の近くに位置しています。 入室は14:00で、退室は11:00です。 送迎サービスは提供しておりません。 バーベキュー場を利用する際、炭とグリルは個人で持参する必要があります。 幼児を含む基準は乳幼児を基準とし、最大人数の超過は不可能であり、4歳以上から追加料金が発生し、現場で決済する必要があります。 インターネットは無料Wi-Fiを提供します。 愛犬は入室できません。 入室は14:00で、退室は11:00です。",
+    "QA": [
+        {
+            "question": "入室と退室の時間は何時ですか？",
+            "answer": "入室は14:00で、退室は11:00です。"
+        },
+        {
+            "question": "バーベキュー場を利用する際、何を持参する必要がありますか？",
+            "answer": "バーベキュー場を利用する際、炭とグリルは個人で持参する必要があります。"
+        },
+        {
+            "question": "幼児を含めた基準は何歳からですか？",
+            "answer": "幼児を含む基準は乳幼児を基準とし、4歳以上から追加料金が発生し、現場で決済する必要があります。"
+        },
+        {
+            "question": "インターネットは利用できますか？",
+            "answer": "インターネットは無料Wi-Fiを提供します。"
+        },
+        {
+            "question": "愛犬は入室できますか？",
+            "answer": "愛犬は入室できません。"
+        }
+    ],
+    "word_Count": {
+        "text": 170,
+        "QA": 164
+    }
+}

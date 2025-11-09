@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_037770",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=512&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=01810000&ccbaCtcd=38&ccbaCpno=2113801810000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1979-12-29",
+        "domain": "문화/역사관광",
+        "title": "이로 송암문집 및 이만승 괴당집책판"
+    },
+    "text": "李魯松巌文集及び李曼勝槐堂集木板 (이로 송암문집 및 이만승 괴당집책판)\\n\n慶尚南道宜寧郡忠益路1-25(宜寧邑、義兵博物館)\\n\n朝鮮時代、慶尚南道有形文化財、『松岩文集』の本版は松岩伊魯(1544~1598)先生の詩文集を広く知らせるために作ったもので、6巻3冊だ。 特に『松岩文集』には小文と謀略文が入っているが、文章が優れて内容が非常に良いと評価されている。 李魯は1564年に進士試験と1590年に文科に及第し、県監、司看員などを歴任し、壬辰倭乱の時にはキム·ソンイルの指揮下で義兵活動をした。 彼の死後にこの組版書で追贈された。 『槐堂集』は槐堂イ·マンスン先生が二人の息子に残した遺書で、国家に忠誠して友愛をもって過ごせと頼んだものだ。",
+    "QA": [
+        {
+            "question": "李魯松巌文集及び李曼勝槐堂集木板は何のために作られましたか？",
+            "answer": "李魯松巌文集及び李曼勝槐堂集木板は、松岩伊魯先生の詩文集と槐堂イ・マンスン先生の遺書を広く知らせるために作られました。"
+        },
+        {
+            "question": "李魯松巌文集は何巻何冊で構成されていますか？",
+            "answer": "李魯松巌文集は6巻3冊で構成されています。"
+        },
+        {
+            "question": "李魯松巌先生はどのような経歴を持っていましたか？",
+            "answer": "李魯松巌先生は進士試験に合格し、文科に及第した後、県監や司看員などの職を歴任しました。また、壬辰倭乱の時にはキム・ソンイルの指揮下で義兵活動をしました。"
+        },
+        {
+            "question": "李曼勝槐堂集は誰に遺された遺書ですか？",
+            "answer": "李曼勝槐堂集は槐堂イ・マンスン先生が二人の息子に遺した遺書です。"
+        },
+        {
+            "question": "李曼勝槐堂先生は遺書の中で何を頼んでいますか？",
+            "answer": "李曼勝槐堂先生は遺書の中で国家に忠誠して友愛をもって過ごすように頼んでいます。"
+        }
+    ],
+    "word_Count": {
+        "text": 240,
+        "QA": 253
+    }
+}

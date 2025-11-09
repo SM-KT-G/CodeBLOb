@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_078693",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ja",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2023-03-13",
+        "domain": "문화/역사관광",
+        "title": "사산사"
+    },
+    "text": "死産師 (사산사)\\n\n全羅南道咸平郡羅山面沙山キル38-35(羅山面)\\n\n咸平李氏の始祖である彦は、高麗太祖が国を建国する際に参加し、官職が神武衛大将軍に昇進しました。彼は咸豊郡の軍号を受け、咸平李氏を創設しました。その結果、咸平郡は咸平李氏の発祥地となりました。",
+    "QA": [
+        {
+            "question": "咸平郡の始祖は誰ですか？",
+            "answer": "咸平郡の始祖は咸平李氏の彦です。"
+        },
+        {
+            "question": "咸平李氏の発祥地はどこですか？",
+            "answer": "咸平李氏の発祥地は咸平郡です。"
+        },
+        {
+            "question": "彦はどのような官職に昇進しましたか？",
+            "answer": "彦は神武衛大将軍の官職に昇進しました。"
+        },
+        {
+            "question": "彦が咸豊郡の軍号を受けた結果、何が起こりましたか？",
+            "answer": "彦が咸豊郡の軍号を受けた結果、咸平李氏が創設されました。"
+        },
+        {
+            "question": "咸平郡は咸平李氏の何になりましたか？",
+            "answer": "咸平郡は咸平李氏の発祥地となりました。"
+        }
+    ],
+    "word_Count": {
+        "text": 98,
+        "QA": 135
+    }
+}

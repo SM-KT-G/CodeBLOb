@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_002181",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101933",
+        "collectedDate": "2023-10-06",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "구암공원"
+    },
+    "text": "クアム・ゴンウォン \\n\n亀岩公園はソウル江西区加陽洞1471番地にある公園だ。『東医宝鑑』の著者、義城ホ·ジュンの出生地であり、生を終えた加陽洞に公園を造成し、ホジュンの雅号を取って「亀岩公園」と名付けた。公園内にはホ·ジュンが座って病人を診療する姿の銅像がある。\\n\n",
+    "QA": [
+        {
+            "question": "亀岩公園はどこにありますか？",
+            "answer": "亀岩公園はソウル江西区加陽洞1471番地にあります。"
+        },
+        {
+            "question": "亀岩公園の由来は何ですか？",
+            "answer": "亀岩公園は『東医宝鑑』の著者、義城ホ·ジュンの出生地であり、彼の雅号を取って名付けられました。"
+        },
+        {
+            "question": "亀岩公園内にはどんな銅像がありますか？",
+            "answer": "亀岩公園内にはホ·ジュンが座って病人を診療する姿の銅像があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 99,
+        "QA": 111
+    }
+}

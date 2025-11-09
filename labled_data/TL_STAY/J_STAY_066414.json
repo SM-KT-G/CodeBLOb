@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_066414",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42030&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "성주 미러텔"
+    },
+    "text": "大型テレビとパソコンのインターネットが完備された客室で入室できます。 追加料金は当日現地にてお支払いいただけます。入室の際には身分証明書の確認が必要です。 未成年者は入室が制限されますので、身分証明書を必ず持参してください。 周辺には星州産業団地、伽倻山(マンムルサン)、星州抱川渓谷、星州ダム、星州ムフル九谷などの名所があります。 車で10~15分で周辺の名所にアクセスでき、位置は星州ICから1分の距離にあります。 農協ハナロマートやCUコンビニも近くにあり、便利に利用できます。",
+    "QA": [
+        {
+            "question": "星州産業団地はどこにありますか？",
+            "answer": "星州産業団地はホテルから車でどのくらいの距離にありますか？"
+        },
+        {
+            "question": "星州抱川渓谷の魅力は何ですか？",
+            "answer": "星州抱川渓谷でのアクティビティには何がありますか？"
+        },
+        {
+            "question": "ホテルの周辺にはどのようなコンビニがありますか？",
+            "answer": "ホテルの周辺にあるコンビニは24時間営業していますか？"
+        }
+    ],
+    "word_Count": {
+        "text": 177,
+        "QA": 99
+    }
+}

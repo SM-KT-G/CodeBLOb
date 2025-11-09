@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_079333",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=618&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=03730000&ccbaCtcd=38&ccbaCpno=2113803730000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2002-08-14",
+        "domain": "문화/역사관광",
+        "title": "산청율곡사목조아미타삼존불좌상"
+    },
+    "text": "慶尚南道有形文化財である山清(サンチョン)ユルゴクサにいた木で造った阿弥陀三尊仏坐像は全体的にバランス感がいる姿だ。この仏像は中央の本尊の阿弥陀如来像を中心に左側には観音菩薩像、右側には大勢至菩薩像が配置されている。阿弥陀如来像の頭は肉髻(にくけい)の区分が明確でなく、顔は方形に近く、あごラインを比較的丸く処理した。衣服は、両肩を覆った厚い大意を被り、胸下に水平の軍の裾が見える。両手は別に製作され、第1からと第3かを突き合わせているが、その間に小さな玉を握っている。右腕は曲げて手のひらを外側に向けたまま、肩まで持ち上げた状態であり、左手はバンカブジュワハた右足の上にのせている。観音菩薩像と大勢至宝破壊も阿弥陀如来像と多くの共通点を持っており、装身具を着用しないが、華やかな宝冠をかぶった。慶尚南道有形文化財である山清(サンチョン)栗谷社の阿弥陀三尊仏坐像は1m以上の人の背丈ほどの大きさで競争可能な作品であり、朝鮮前期に製作されたものと推定される。",
+    "QA": [
+        {
+            "question": "山清(サンチョン)ユルゴクサにある阿弥陀三尊仏坐像は何でできていますか？",
+            "answer": "木でできています。"
+        },
+        {
+            "question": "阿弥陀如来像の頭の特徴は何ですか？",
+            "answer": "肉髻(にくけい)の区分が明確でなく、顔は方形に近く、あごラインを比較的丸く処理されています。"
+        },
+        {
+            "question": "阿弥陀如来像の衣服の特徴は何ですか？",
+            "answer": "両肩を覆った厚い大意を被り、胸下に水平の軍の裾が見えます。"
+        },
+        {
+            "question": "阿弥陀如来像の手には何がありますか？",
+            "answer": "両手は別に製作され、第1からと第3かを突き合わせているが、その間に小さな玉を握っています。"
+        },
+        {
+            "question": "阿弥陀三尊仏坐像は何の大きさですか？",
+            "answer": "1m以上の人の背丈ほどの大きさです。"
+        }
+    ],
+    "word_Count": {
+        "text": 313,
+        "QA": 186
+    }
+}

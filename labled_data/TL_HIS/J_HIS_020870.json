@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_020870",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1218&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=79&ccbaAsno=03360000&ccbaCtcd=32&ccbaCpno=4413203360000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2007-07-03",
+        "domain": "문화/역사관광",
+        "title": "삼척 구 하고사리역사"
+    },
+    "text": "三陟区下沙里歴史 (삼척 구 하고사리역사)\\n\n江原道三陟市道渓邑ソダルキル12-52(ワラビ)\\n\n1966年 , 国家登録文化財 , 下沙里駅は1棟、1階建てで建築面積36㎡だ。 下古沙里駅は嶺東線路の駅舎で1966年に建設され、1967年9月1日に簡易駅営業を実施した村の住民たちが自発的に建設した駅だ。 構造は木構造に屋根は切妻形で壁体はビニール板壁だ。 待合室の内部が高尾半字になっており、他の簡易駅とは差別され、登録された簡易駅の中で八堂駅と共に規模が最も小さい駅の一つだ。 駅は現在廃駅になっている。",
+    "QA": [
+        {
+            "question": "下沙里駅はいつ建設されましたか？",
+            "answer": "1966年に建設されました。"
+        },
+        {
+            "question": "下沙里駅はどのような建物ですか？",
+            "answer": "1階建ての建物で、木構造で屋根は切妻形、壁体はビニール板壁です。"
+        },
+        {
+            "question": "下沙里駅はどのような駅でしたか？",
+            "answer": "下古沙里駅は嶺東線路の駅舎で、1967年9月1日に簡易駅営業を開始した村の住民たちが自発的に建設した駅でした。"
+        },
+        {
+            "question": "下沙里駅は現在どうなっていますか？",
+            "answer": "現在は廃駅になっています。"
+        },
+        {
+            "question": "下沙里駅はどのような特徴がありますか？",
+            "answer": "待合室の内部が高尾半字になっており、他の簡易駅とは異なり、規模が最も小さい駅の一つです。"
+        }
+    ],
+    "word_Count": {
+        "text": 189,
+        "QA": 177
+    }
+}

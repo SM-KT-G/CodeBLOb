@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_004751",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=827&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=00750000&ccbaCtcd=34&ccbaCpno=2333400750000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1989-12-29",
+        "domain": "문화/역사관광",
+        "title": "한용운선생생가지"
+    },
+    "text": "ハン·ヨンウン先生の生ナス (한용운선생생가지)\\n\n忠清南道洪城郡結城面万海路318番ギル83(城谷里)\\n\n忠清南道記念物 , 僧侶で詩人のハン·ヨンウン(1879~1944)先生が生まれたところだ。 先生は忠清南道洪城出身で独立運動家としても活動し、号は萬海だ。 1919年3·1運動当時、民族代表33人の一人として独立宣言書を朗読した後、逮捕され3年刑を受けた。 日帝に対抗する団体だった新刊会を主導的に結成したが、この新刊会は後に学生義挙と全国的な民族運動に展開され推進された。 著書として『あなたの沈黙』、『仏教大典』などを残し、彼の死後の1962年に大韓民国建国功労勲章が授与された。 低い野山を背にした陽地側に位置し、生家が倒れてなくなったのを1992年に復元した。 家屋は前面3間·側面2間規模の藁葺き屋根だが、両側に1間を付けて光と納屋として使用し、垣根は萩で囲み、外に土レンガでトイレを作った。",
+    "QA": [
+        {
+            "question": "ハン・ヨンウン先生はどこで生まれましたか？",
+            "answer": "ハン・ヨンウン先生は忠清南道洪城郡結城面万海路に生まれました。"
+        },
+        {
+            "question": "ハン・ヨンウン先生はどのような活動をしましたか？",
+            "answer": "ハン・ヨンウン先生は独立運動家としても活動し、新刊会を主導的に結成しました。"
+        },
+        {
+            "question": "ハン・ヨンウン先生はどのような著書を残しましたか？",
+            "answer": "ハン・ヨンウン先生は『あなたの沈黙』や『仏教大典』などの著書を残しました。"
+        },
+        {
+            "question": "ハン・ヨンウン先生の生家はどのような特徴がありますか？",
+            "answer": "ハン・ヨンウン先生の生家は前面3間・側面2間規模の藁葺き屋根で、両側に1間を付けて光と納屋として使用されています。"
+        },
+        {
+            "question": "ハン・ヨンウン先生の生家はいつ復元されましたか？",
+            "answer": "ハン・ヨンウン先生の生家は1992年に復元されました。"
+        }
+    ],
+    "word_Count": {
+        "text": 299,
+        "QA": 228
+    }
+}

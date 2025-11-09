@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_016950",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-05",
+        "domain": "음식점",
+        "title": "慶発園 ( 경발원 )"
+    },
+    "text": "慶発園 ( 경발원 )\\n\nソウル特別市 東大門区 マンウロ21ギル34\\n\n華僑が経営する店です。ソウル特別市のドンデムン区に位置した中華専門店です。おすすめは鶏肉の唐揚げ甘酢醤油です。",
+    "QA": [
+        {
+            "question": "慶発園はどこにありますか？",
+            "answer": "慶発園はソウル特別市東大門区マンウロ21ギル34に位置しています。"
+        },
+        {
+            "question": "慶発園は誰が経営していますか？",
+            "answer": "慶発園は華僑が経営しています。"
+        },
+        {
+            "question": "慶発園でおすすめの料理は何ですか？",
+            "answer": "慶発園でおすすめの料理は鶏肉の唐揚げ甘酢醤油です。"
+        }
+    ],
+    "word_Count": {
+        "text": 68,
+        "QA": 86
+    }
+}

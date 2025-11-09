@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_052629",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=747&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=22&ccbaAsno=00430000&ccbaCtcd=38&ccbaCpno=2223800431221&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "광려산숯일소리"
+    },
+    "text": "広麗山炭の音\\n\n慶尚南道無形文化財、グヮンリョサン炭である音は、炭を生産する作業の過程で呼ばれた哀歓の炭に声を揃えたのだ。したがって、歌の展開順番を見ると、炭を生産する作業の過程を理解することができる。炭を生産する期間はかなり長い。したがって、炭である音には、各ジャンルの歌が混じっている。儀式を行う際には意識であり、休憩を取るときはユヒヨ、労働をする時は労働謡が歌われた。したがって、歌は仕事に参加する人が共同作業をする時には、ダンチェヨを個別的に、作業するときはゲビョルヨを歌ったが、このように多様な方式の歌唱と多様なジャンルイ歌がともに共存することが炭である音の最も顕著な特徴だ。",
+    "QA": [
+        {
+            "question": "広麗山炭の音は何ですか？",
+            "answer": "広麗山炭の音は、炭を生産する作業の過程で呼ばれた哀歓の炭に声を揃えた音です。"
+        },
+        {
+            "question": "広麗山炭の音にはどのような歌が含まれていますか？",
+            "answer": "広麗山炭の音には各ジャンルの歌が混じっており、儀式を行う際には意識であり、休憩を取るときはユヒヨ、労働をするときは労働謡が歌われました。"
+        },
+        {
+            "question": "炭である音にはどのような特徴がありますか？",
+            "answer": "炭である音の特徴は、多様な方式の歌唱と多様なジャンルの歌が共存していることです。仕事に参加する人が共同作業をする時には、ダンチェヨを個別的に、作業するときはゲビョルヨを歌いました。"
+        }
+    ],
+    "word_Count": {
+        "text": 215,
+        "QA": 185
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_002166",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=824&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=00690000&ccbaCtcd=34&ccbaCpno=2333400690000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1988-08-30",
+        "domain": "자연관광",
+        "title": "신자경선생묘"
+    },
+    "text": "シン·ジャギョン先生の墓 (신자경선생묘)\\n\n忠清南道天安市東南区北面梧谷2ギル146-32(梧谷里)\\n\n忠清南道記念物 , 朝鮮世祖(在位1455~1468)代の功臣であるシン·ジャギョン(1403~1470)先生の墓所だ。 彼は兵曹判書などの主要官職を務めた後、世祖7年(1461)、木川県梧洞部落に降りて暮らした。 その後、朝廷で左議政の官職を降りたが、出ずに田舎に埋もれて暮らし、成宗1年(1470年)にこの世を去った。 朝廷ではこれを仮想視し、葬儀品を下ろして礼を尽くして葬儀を行うよう命じた。 墓は朝鮮初期の典型的な様式で墳丘の下には周囲石を巡らせ、周囲には文人像と墓碑などを建てた。 後代に補修した跡があるが、比較的本来の姿を維持している。",
+    "QA": [
+        {
+            "question": "この墓所は誰のために作られましたか？",
+            "answer": "この墓所はシン·ジャギョン先生のために作られました。彼は朝鮮世祖の功臣であり、兵曹判書などの主要官職を務めました。"
+        },
+        {
+            "question": "シン·ジャギョン先生は何年にこの世を去りましたか？",
+            "answer": "シン·ジャギョン先生は成宗1年（1470年）にこの世を去りました。"
+        },
+        {
+            "question": "この墓所はどのような様式で建てられていますか？",
+            "answer": "この墓所は朝鮮初期の典型的な様式で、墳丘の下に周囲石が巡らされ、周囲には文人像や墓碑などが建てられています。"
+        },
+        {
+            "question": "この墓所は後代に補修されたことがありますか？",
+            "answer": "はい、この墓所は後代に補修された跡がありますが、比較的本来の姿を維持しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 241,
+        "QA": 199
+    }
+}

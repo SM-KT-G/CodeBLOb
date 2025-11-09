@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_069937",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/view?relicId=42171",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "백자 청화 발"
+    },
+    "text": "白磁 青華 足 (백자 청화 발)\\n\n国籍/時代:'中国 - 名' ,材質:'陶磁器 - 白磁' ,分類:'食生活 - 食べ物 - 食べ物 - 足' ,大きさ:'高さ71mm、口の直径153mm、底径60mm'",
+    "QA": [
+        {
+            "question": "この陶磁器の国籍はどこですか？",
+            "answer": "中国です。"
+        },
+        {
+            "question": "この陶磁器の時代はいつですか？",
+            "answer": "時代は不明ですが、中国の名前が付けられています。"
+        },
+        {
+            "question": "この陶磁器は何でできていますか？",
+            "answer": "白磁という陶磁器でできています。"
+        },
+        {
+            "question": "この陶磁器はどの分類に属していますか？",
+            "answer": "食生活の中で食べ物の分類に属しています。"
+        },
+        {
+            "question": "この陶磁器の大きさはどれくらいですか？",
+            "answer": "高さ71mm、口の直径153mm、底径60mmです。"
+        }
+    ],
+    "word_Count": {
+        "text": 77,
+        "QA": 128
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_000055",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=382&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=00190000&ccbaCtcd=23&ccbaCpno=2112300190000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1993-07-06",
+        "domain": "문화/역사관광",
+        "title": "구)일본제58은행지점"
+    },
+    "text": "(旧)日本第五十八銀行支店 (구)일본제58은행지점)\\n\n仁川広域市中区新浦路23番キル69-1(中央洞2街、旧)日本第58銀行支店)\\n\n仁川広域市有形文化財 , 日本大阪に本店を置く第58銀行の仁川支店だ。 後に複数の銀行と合併して安田銀行に変わった。 光復後、朝興銀行が仁川支店として使用したりもしたが、1958年に新しく建物を建てて移転すると大韓赤十字社京畿道支社として使われ、現在は仁川中区飲食業組合で使用している。 2階には珍しいバルコニーと屋根窓が特徴であり、屋根が2重に傾斜しており、フランスの雰囲気を醸し出すルネサンス様式の建物だ。",
+    "QA": [
+        {
+            "question": "第58銀行支店の所在地はどこですか？",
+            "answer": "第58銀行支店は、仁川広域市中区新浦路23番キル69-1、中央洞2街にあります。"
+        },
+        {
+            "question": "第58銀行支店はどのような建物ですか？",
+            "answer": "第58銀行支店は、フランスの雰囲気を醸し出すルネサンス様式の建物で、2階には珍しいバルコニーと屋根窓が特徴です。"
+        },
+        {
+            "question": "第58銀行支店はどのような歴史を持っていますか？",
+            "answer": "第58銀行支店は、日本大阪に本店を置く第58銀行の仁川支店であり、後に安田銀行に変わりました。光復後は朝興銀行の支店として使用され、現在は仁川中区飲食業組合が使用しています。"
+        },
+        {
+            "question": "現在の第58銀行支店の使われ方は何ですか？",
+            "answer": "現在の第58銀行支店は、大韓赤十字社京畿道支社として使われていましたが、現在は仁川中区飲食業組合が使用しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 202,
+        "QA": 236
+    }
+}

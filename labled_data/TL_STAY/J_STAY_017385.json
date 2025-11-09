@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_017385",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2020-03-25",
+        "domain": "숙박",
+        "title": "ラマダ松島ホテル（라마다송도호텔）"
+    },
+    "text": "ラマダ松島ホテル（라마다송도호텔）\n仁川広域市 延寿区 凌虚大路267番キル 29\n2006年月に仁川の松島にオープンしたラマダ松島（ソンド）ホテルは、経営の専門性と、世界各国の予約網とマーケティングシステムを持つ、ラマダインターナショナルホテルです。",
+    "QA": [
+        {
+            "question": "ラマダ松島ホテルはいつオープンしましたか？",
+            "answer": "2006年月に仁川の松島にオープンしました。"
+        },
+        {
+            "question": "ラマダ松島ホテルはどのような特徴を持っていますか？",
+            "answer": "ラマダ松島ホテルは、経営の専門性と、世界各国の予約網とマーケティングシステムを持つ、ラマダインターナショナルホテルです。"
+        },
+        {
+            "question": "ラマダ松島ホテルの場所はどこですか？",
+            "answer": "ラマダ松島ホテルは仁川広域市 延寿区 凌虚大路267番キルにあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 92,
+        "QA": 132
+    }
+}

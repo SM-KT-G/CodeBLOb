@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_073806",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=57&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=03290000&ccbaCtcd=11&ccbaCpno=1123403290000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1963-01-21",
+        "domain": "문화/역사관광",
+        "title": "부여 군수리 석조여래좌상"
+    },
+    "text": "三国時代、宝物、扶余郡首里石造如来坐像は、1936年に忠清南道扶余郡首里の百済寺院跡を調査する際に発見された仏像で、石造りで、4角形の高い台座の上に座っている百済特有の仏像です。はげ頭の上には、サントゥの形をした小さな頭（六桂）がそびえています。四角い顔は両頬に笑みがこぼれ、そっと閉じた目·広い鼻·微笑んだ口などから柔らかく穏やかな雰囲気が漂う両肩にかけて着た服は厚く、体の輪郭がほとんど現われず、肩から膝の上まで長く流れた裾は四角形の台座をほぼ覆っています。この裾の表現は柔らかくて弾力的なので、写実性にあふれています。胸付近ではU字型の服のしわを表現し、膝の下に流れた裾は左右対称のΩ形のしわを表しています。厚い裾に包まれて体の輪郭が現れない点、狭くなった肩、両手を腹の前で集めて口金を組んだ端麗な手の形などから昔の手法をよく保管している作品です",
+    "QA": [
+        {
+            "question": "この仏像はいつ発見されましたか？",
+            "answer": "1936年に発見されました。"
+        },
+        {
+            "question": "この仏像はどこで発見されましたか？",
+            "answer": "扶余郡首里の百済寺院跡で発見されました。"
+        },
+        {
+            "question": "この仏像はどのような特徴がありますか？",
+            "answer": "はげ頭の上にサントゥの形をした小さな頭があり、四角い顔に笑みがあり、柔らかく穏やかな雰囲気が漂います。服は厚く、体の輪郭がほとんど現れず、裾は四角形の台座をほぼ覆っています。"
+        },
+        {
+            "question": "この仏像の裾の表現はどのような特徴がありますか？",
+            "answer": "裾の表現は柔らかくて弾力的で、写実性にあふれています。胸付近ではU字型のしわを表現し、膝の下の裾は左右対称のΩ形のしわを表しています。"
+        },
+        {
+            "question": "この仏像はどのような手の形をしていますか？",
+            "answer": "仏像は両手を腹の前で集めて口金を組んだ端麗な手の形をしています。"
+        }
+    ],
+    "word_Count": {
+        "text": 275,
+        "QA": 232
+    }
+}

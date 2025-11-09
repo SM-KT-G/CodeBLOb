@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_092645",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=378&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=00150000&ccbaCtcd=23&ccbaCpno=2112300150000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1990-11-09",
+        "domain": "문화/역사관광",
+        "title": "용궁사"
+    },
+    "text": "竜宮寺\\n\n仁川広域市中区雲南路199-1(雲南洞、龍宮寺)\\n\n仁川広域市有形文化財、永宗島白雲山の北東側に位置する竜宮寺は新羅文武王10年(670)に、元暁大師が建てたと伝えている。朝鮮哲宗5年(1854)興宣大院君によって再び建てられ、今の名称である竜宮寺に変わってしまった。竜宮寺には観音殿・ヨンファンガク・チルソンガク・寮舎棟などの建物と最近作った高さ11mにも及ぶ彌勒仏がある。竜宮寺観音殿は屋根側面が人の教わる字形の切妻屋根の家だ。柱には海岡・金圭鎮が書いた字(柱聨)が4つ残っている。内部には本来、玉と彫刻した観音像があったそうですが、日帝時代に盗まれて現在は青銅観音像を祀っている。また、入口に位置している寮舎棟は切妻屋根であり、建物前面には、興宣大院君が直接書いた''竜宮寺''という扁額が懸かっている。",
+    "QA": [
+        {
+            "question": "竜宮寺はどこに位置していますか？",
+            "answer": "竜宮寺は仁川広域市中区雲南路199-1に位置しています。"
+        },
+        {
+            "question": "竜宮寺はいつ建てられましたか？",
+            "answer": "竜宮寺は新羅文武王10年(670)に元暁大師によって建てられたと伝えられています。"
+        },
+        {
+            "question": "竜宮寺にはどんな建物がありますか？",
+            "answer": "竜宮寺には観音殿、ヨンファンガク、チルソンガク、寮舎棟などの建物があります。"
+        },
+        {
+            "question": "竜宮寺にはどんな観音像が祀られていますか？",
+            "answer": "竜宮寺には日帝時代に盗まれた観音像の代わりに青銅観音像が祀られています。"
+        },
+        {
+            "question": "竜宮寺の寮舎棟には何が懸かっていますか？",
+            "answer": "寮舎棟の建物前面には興宣大院君が直接書いた''竜宮寺''という扁額が懸かっています。"
+        }
+    ],
+    "word_Count": {
+        "text": 265,
+        "QA": 200
+    }
+}

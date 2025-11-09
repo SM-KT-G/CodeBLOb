@@ -1,0 +1,63 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_033050",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://kr.hotels.com/ho2438667232/yongin-yangji-sangria-yong-in-hangug/?chkin=2023-11-14&chkout=2023-11-15&x_pwa=1&rfrr=HSR&pwa_ts=1698977112971&referrerUrl=aHR0cHM6Ly9rci5ob3RlbHMuY29tL0hvdGVsLVNlYXJjaA%3D%3D&useRewards=false&rm1=a2&regionId=6084639&destination=%EC%9B%90%EC%A3%BC%2C+%EA%B0%95%EC%9B%90%2C+%ED%95%9C%EA%B5%AD&destType=MARKET&latLong=37.308249%2C127.929912&sort=RECOMMENDED&top_dp=54545&top_cur=KRW&userIntent=&selectedRoomType=316271457&selectedRatePlan=385729846&expediaPropertyId=76177101&searchId=b9cc7371-4d85-4f93-9e5f-1a4bf998fffe",
+        "collectedDate": "2023-11-15",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "용인 양지 샹그리아"
+    },
+    "text": "龍仁陽地サングリアはエバーランドから車で15分以内の距離に位置しています。 当ホテルはWiFi及びセルフ駐車の無料特典を提供しております。 ホテルは計42室の客室で構成されており、チェックインは午後2時から可能で、チェックアウトは午前12時までです。 チェックインの際には付帯費用に備えてクレジットカード、デビットカードまたは現金保証金が必要であり、政府発行の身分証明書には写真が貼られていなければなりません。 満21歳以上からチェックインが可能で、ペットは同伴できません。 インターネットは共用エリアで無料WiFiを提供し、駐車は施設内でセルフ駐車が可能です。 また、指定された喫煙エリアがあります。",
+    "QA": [
+        {
+            "question": "ホテルの場所はどこですか？",
+            "answer": "ホテルはエバーランドから車で15分以内の距離に位置しています。"
+        },
+        {
+            "question": "ホテルの無料特典には何が含まれていますか？",
+            "answer": "ホテルではWiFiとセルフ駐車が無料で提供されています。"
+        },
+        {
+            "question": "何時からチェックインができますか？",
+            "answer": "チェックインは午後2時から可能です。"
+        },
+        {
+            "question": "何時までにチェックアウトが必要ですか？",
+            "answer": "チェックアウトは午前12時までです。"
+        },
+        {
+            "question": "チェックインの際に必要なものは何ですか？",
+            "answer": "チェックインの際にはクレジットカード、デビットカード、または現金保証金が必要です。"
+        },
+        {
+            "question": "何歳以上からチェックインができますか？",
+            "answer": "満21歳以上からチェックインが可能です。"
+        },
+        {
+            "question": "ペットは同伴できますか？",
+            "answer": "申し訳ありませんが、ペットは同伴できません。"
+        },
+        {
+            "question": "インターネットは利用できますか？",
+            "answer": "はい、共有エリアで無料のWiFiが提供されています。"
+        },
+        {
+            "question": "駐車場はありますか？",
+            "answer": "はい、施設内にセルフ駐車が可能な駐車場があります。"
+        },
+        {
+            "question": "喫煙エリアはありますか？",
+            "answer": "はい、指定された喫煙エリアがあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 220,
+        "QA": 298
+    }
+}

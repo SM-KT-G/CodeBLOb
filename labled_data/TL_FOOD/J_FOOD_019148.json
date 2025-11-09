@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_019148",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "大同江 ( 대동강식당 )"
+    },
+    "text": "大同江 ( 대동강식당 )\\n\n大邱広域市 南区 大鳳路 57-1\\n\nすべての料理が手作りで、50年余りの伝統を持つお店です。 大邱広域市のナム区に位置したピョンヤン冷麺専門店です。おすすめはピョンヤン冷麺です。",
+    "QA": [
+        {
+            "question": "大同江（대동강식당）はどこに位置していますか？",
+            "answer": "大同江（대동강식당）は大邱広域市の南区に位置しています。具体的な住所は大鳳路 57-1です。"
+        },
+        {
+            "question": "大同江はどんなお店ですか？",
+            "answer": "大同江はすべての料理が手作りで、50年余りの伝統を持つお店です。"
+        },
+        {
+            "question": "大同江のおすすめメニューは何ですか？",
+            "answer": "大同江のおすすめはピョンヤン冷麺です。"
+        }
+    ],
+    "word_Count": {
+        "text": 78,
+        "QA": 110
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_042030",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2023-08-10",
+        "domain": "문화/역사관광",
+        "title": "가야의 흔적을 찾아서"
+    },
+    "text": "伽耶の跡を探して (가야의 흔적을 찾아서)\\n\n首露王は西暦42年、駕洛国の始祖として王位に就きました。そして、西暦48年にはインドのヤジ他国の王女であるホ·ファンオクを王妃として迎え、金海金氏の始祖となりました。",
+    "QA": [
+        {
+            "question": "首露王は何年に王位に就きましたか？",
+            "answer": "西暦42年に王位に就きました。"
+        },
+        {
+            "question": "首露王は誰を王妃として迎えましたか？",
+            "answer": "首露王はインドのヤジ他国の王女であるホ·ファンオクを王妃として迎えました。"
+        },
+        {
+            "question": "首露王は何の始祖となりましたか？",
+            "answer": "首露王は金海金氏の始祖となりました。"
+        }
+    ],
+    "word_Count": {
+        "text": 79,
+        "QA": 88
+    }
+}

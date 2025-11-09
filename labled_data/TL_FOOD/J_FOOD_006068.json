@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_006068",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-05",
+        "domain": "음식점",
+        "title": "ゴンジチョンタッカルビ ( 공지천닭갈비 )"
+    },
+    "text": "ゴンジチョンタッカルビ ( 공지천닭갈비 )\\n\n江原道 原州市 ナムウォンロ534ボンギル20\\n\n甘辛タッカルビは、鶏肉と野菜を炒めた辛い韓国料理です。代表的なメニューはタッカルビです。江原道のウォンジュ市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "ゴンジチョンタッカルビはどのような料理ですか？",
+            "answer": "ゴンジチョンタッカルビは鶏肉と野菜を炒めた辛い韓国料理です。"
+        },
+        {
+            "question": "ゴンジチョンタッカルビの店舗はどこにありますか？",
+            "answer": "ゴンジチョンタッカルビは江原道原州市ナムウォンロ534ボンギル20に位置しています。"
+        },
+        {
+            "question": "ゴンジチョンタッカルビの代表的なメニューは何ですか？",
+            "answer": "ゴンジチョンタッカルビの代表的なメニューはタッカルビです。"
+        }
+    ],
+    "word_Count": {
+        "text": 86,
+        "QA": 127
+    }
+}

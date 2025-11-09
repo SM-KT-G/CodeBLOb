@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_095468",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/view?relicId=130204",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2023-10-11",
+        "domain": "문화/역사관광",
+        "title": "은침통(銀針筒)"
+    },
+    "text": "銀針桶(ぎんちんびん) (은침통(銀針筒))\\n\nこの道具は、韓国-朝鮮の伝統科学で使用される医療治療の一環として、金属素材の銀で作られています。長さは現在72cm、64cm、73cmとなっています。また、この道具は針痛を緩和する目的で使用されます。",
+    "QA": [
+        {
+            "question": "この道具は何で作られていますか？",
+            "answer": "この道具は銀で作られています。"
+        },
+        {
+            "question": "この道具はどのような目的で使用されますか？",
+            "answer": "この道具は針痛を緩和する目的で使用されます。"
+        },
+        {
+            "question": "この道具の長さは何ですか？",
+            "answer": "現在の長さは72cm、64cm、73cmとなっています。"
+        }
+    ],
+    "word_Count": {
+        "text": 91,
+        "QA": 84
+    }
+}

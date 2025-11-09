@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_008830",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://apis.data.go.kr/1400000/service/cultureInfoService2/mntInfoOpenAPI2",
+        "collectedDate": "2023-11-22",
+        "publishedDate": "2020-12-01",
+        "domain": "자연관광",
+        "title": "망월산"
+    },
+    "text": "望月山 (망월산)\\n\n忠清北道清州市書院区南二面石板里\\n\n山の高さ : 267.2m , 望月山は南二面石板里のカマリ、加佐里と清州市竹林洞と境界を成す山で、山はそれほど高くないが清州市と境界を形成しており、週末になると近隣住民と清州市民が登山路を利用しており、頂上から見れば清州市の全景が広がる。",
+    "QA": [
+        {
+            "question": "望月山はどこにありますか？",
+            "answer": "望月山は、忠清北道清州市書院区南二面石板里にあります。"
+        },
+        {
+            "question": "望月山の高さはどれくらいですか？",
+            "answer": "望月山の高さは267.2メートルです。"
+        },
+        {
+            "question": "望月山からは何が見えますか？",
+            "answer": "望月山からは清州市の全景が広がります。"
+        },
+        {
+            "question": "週末には誰が山を利用していますか？",
+            "answer": "週末には近隣住民と清州市民が山を利用しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 110,
+        "QA": 109
+    }
+}

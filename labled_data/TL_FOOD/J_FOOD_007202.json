@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_007202",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-03",
+        "domain": "음식점",
+        "title": "サミョンテジ ( 싸면돼지 )"
+    },
+    "text": "サミョンテジ ( 싸면돼지 )\\n\n江原道 ガンヌン市 ユルゴクロ2692ボンギル50\\n\n韓国式BBQが味わえる店です。江原道のガンヌン市に位置した韓食専門店です。おすすめはサムギョプサルです。",
+    "QA": [
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "サミョンテジは江原道のガンヌン市に位置しています。具体的な住所はユルゴクロ2692ボンギル50です。"
+        },
+        {
+            "question": "この店ではどのような料理が楽しめますか？",
+            "answer": "この店では韓国式BBQが楽しめます。特におすすめはサムギョプサルです。"
+        },
+        {
+            "question": "この店の営業時間は何時から何時までですか？",
+            "answer": "営業時間は店舗によって異なる場合がありますので、直接お店にお問い合わせください。"
+        },
+        {
+            "question": "この店の電話番号は何ですか？",
+            "answer": "申し訳ありませんが、提供されたテキストに電話番号が記載されていません。直接お店にお問い合わせください。"
+        }
+    ],
+    "word_Count": {
+        "text": 71,
+        "QA": 178
+    }
+}

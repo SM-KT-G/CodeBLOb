@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_080428",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2022-08-26",
+        "domain": "음식점",
+        "title": "삼천리수산횟집"
+    },
+    "text": "南堂港の刺身屋街の入り口に位置しており、皿いっぱいにプジムヒ出てくる、貝焼きと新鮮なホヤ、嫁家出事件のヘギョルジャのコノシロ焼きまでふんだんに出ている。秋のコノシロは頭にごまが立って話を聞いていると言うほど香ばしい味を出す。",
+    "QA": [
+        {
+            "question": "この刺身屋街はどこに位置していますか？",
+            "answer": "この刺身屋街は南堂港の入り口に位置しています。"
+        },
+        {
+            "question": "この刺身屋街で特におすすめの料理はありますか？",
+            "answer": "この刺身屋街では、貝焼きや新鮮なホヤ、嫁家出事件のヘギョルジャのコノシロ焼きがおすすめです。"
+        },
+        {
+            "question": "秋のコノシロはどのような味がしますか？",
+            "answer": "秋のコノシロは香ばしい味が特徴で、頭にごまが立っていると言われています。"
+        }
+    ],
+    "word_Count": {
+        "text": 82,
+        "QA": 121
+    }
+}

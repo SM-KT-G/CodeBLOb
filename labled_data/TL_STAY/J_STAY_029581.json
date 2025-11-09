@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_029581",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42010&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "가평 스테른키즈풀빌라펜션(신축,입실14시)"
+    },
+    "text": "星が輝く自然の中のステルンキッズプールビラは入室時間は14:00で、退室時間は10:00です。 次のご利用のお客様のために、時間を明確に守ってください。 退室前には忘れ物がないか確認していただき、施設や消耗品は元の場所に戻してください。",
+    "QA": [
+        {
+            "question": "ステルンキッズプールビラの入室時間は何時ですか？",
+            "answer": "入室時間は14:00です。"
+        },
+        {
+            "question": "ステルンキッズプールビラの退室時間は何時ですか？",
+            "answer": "退室時間は10:00です。"
+        },
+        {
+            "question": "お客様がステルンキッズプールビラを利用するための入室時間の制限はありますか？",
+            "answer": "はい、入室時間は14:00以降です。"
+        },
+        {
+            "question": "お客様がステルンキッズプールビラから退室するための制限時間はありますか？",
+            "answer": "はい、退室時間は10:00までです。"
+        },
+        {
+            "question": "ステルンキッズプールビラを利用するお客様のために、時間を厳守する理由は何ですか？",
+            "answer": "次のご利用のお客様のために施設の準備や清掃を行うため、時間を明確に守っていただく必要があります。"
+        },
+        {
+            "question": "ステルンキッズプールビラを退室する前に注意すべきことはありますか？",
+            "answer": "退室前には忘れ物がないか確認し、施設や消耗品は元の場所に戻してください。"
+        }
+    ],
+    "word_Count": {
+        "text": 86,
+        "QA": 250
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_LEI_001986",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101933",
+        "collectedDate": "2023-10-06",
+        "publishedDate": "2020-01-01",
+        "domain": "레포츠",
+        "title": "바다열차"
+    },
+    "text": "パダ・ヨルチャ \\n\n海列車(-列車)はKORAIL観光開発主管で三陟海辺駅と江陵駅を往復する観光列車だ。 2014年1月4日から4両編成で運行される。 平日基準で1日2回江陵駅と三陟海辺駅を往復し、週末と祝日、一部平日朝には列車が追加で運行され、1日3回往復する。",
+    "QA": [
+        {
+            "question": "海列車はどのような観光列車ですか？",
+            "answer": "海列車はKORAIL観光開発主管で三陟海辺駅と江陵駅を往復する観光列車です。"
+        },
+        {
+            "question": "海列車はいつから運行されていますか？",
+            "answer": "海列車は2014年1月4日から運行されています。"
+        },
+        {
+            "question": "海列車はどのくらいの頻度で運行されていますか？",
+            "answer": "海列車は平日基準で1日2回江陵駅と三陟海辺駅を往復し、週末と祝日、一部平日朝には列車が追加で運行され、1日3回往復します。"
+        }
+    ],
+    "word_Count": {
+        "text": 97,
+        "QA": 132
+    }
+}

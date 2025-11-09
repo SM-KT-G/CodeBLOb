@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_090928",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=366&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=00040000&ccbaCtcd=22&ccbaCpno=2112200040000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1982-03-04",
+        "domain": "문화/역사관광",
+        "title": "영영축성비"
+    },
+    "text": "霊影築城比\\n\n大邱広域市寿城区八賢キル248(万村洞、ジャンチョン)\\n\n大邱広域市有形文化財、壬辰の乱の時、崩れた大邱(テグ)土城を石で積み直した後、これを記念するため、立てた碑だ。雨は長方形で、パダクドルの上にビモムを立てた簡単な姿だ。碑文によると城の周りは2,124歩(步)であり、四つの扉を作って城を守るための軍糧、田浦などを備えた倉庫を置いた。石城の工事期間は6ヵ月であり、動員された人員は78,534人に達する。城が完成した後には様々な力士たちを集めて弓術大会を開き、賞を与えたという。慶尚道観察使だったミンウンスが国に提案して英祖13年(1737)、大邱(テグ)の南門の外に待機しており、ミンウンスが碑文を建てて、ベクサンフィが字を書いた。広袤10年(1906)に、城は撤去され、雨は1932年郷校に移して保存されたが、1980年に現在の場所に移しておいた。",
+    "QA": [
+        {
+            "question": "この碑が建てられた理由は何ですか？",
+            "answer": "碑は、壬辰の乱の時に崩れた大邱(テグ)土城を石で積み直した後、これを記念するために建てられました。"
+        },
+        {
+            "question": "石城の工事期間は何ヵ月でしたか？",
+            "answer": "石城の工事期間は6ヵ月でした。"
+        },
+        {
+            "question": "城の周りには何歩の範囲がありましたか？",
+            "answer": "城の周りは2,124歩の範囲がありました。"
+        },
+        {
+            "question": "何人が動員されて石城の工事に参加しましたか？",
+            "answer": "石城の工事には78,534人が動員されました。"
+        },
+        {
+            "question": "城が完成した後に何種類の競技大会が開かれましたか？",
+            "answer": "城が完成した後には様々な力士たちを集めて弓術大会が開かれ、賞が与えられたそうです。"
+        }
+    ],
+    "word_Count": {
+        "text": 283,
+        "QA": 181
+    }
+}

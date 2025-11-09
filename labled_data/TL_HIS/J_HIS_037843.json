@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_037843",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=444&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=00890000&ccbaCtcd=33&ccbaCpno=2113300890000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1981-05-01",
+        "domain": "문화/역사관광",
+        "title": "제천 지곡리 고가"
+    },
+    "text": "堤川池谷里古家 (제천 지곡리 고가)\\n\n忠清北道堤川市清風面清風湖路2048(ムルテリ)\\n\n朝鮮時代、忠清北道有形文化財、芝谷里にある昔の家で、勾当字型の母屋と一字型の曲間棟および門間棟で構成されている。 母屋の裏にサランチェがあったが、今は跡だけがあり、向かい側の部屋がサランチェの機能を代わりにしている。 台所の前には古房を置いて食料品を貯蔵するが、台所と古房の間には板壁を囲んでいる。 このような技法は古い家でしか見られない様式だ。 門屋の周囲には塀を囲んで外庭と区分し、門屋にも塀を設置して外から家を覗き見ることができないようにした。 特に母屋と谷間の間にも塀を囲んでサランチェの役割をしている向かい側の部屋の独立性と居心地の良い雰囲気を造成した点が特異だ。",
+    "QA": [
+        {
+            "question": "この家はどこにありますか？",
+            "answer": "忠清北道堤川市清風面清風湖路2048(ムルテリ)にあります。"
+        },
+        {
+            "question": "この家はいつ建てられましたか？",
+            "answer": "朝鮮時代に建てられました。"
+        },
+        {
+            "question": "この家の特徴は何ですか？",
+            "answer": "勾当字型の母屋と一字型の曲間棟および門間棟で構成されています。"
+        },
+        {
+            "question": "この家には何がありますか？",
+            "answer": "母屋の裏にはかつてサランチェがありましたが、現在は跡のみが残っており、向かい側の部屋がその機能を代わりにしています。"
+        },
+        {
+            "question": "台所の前に何が置かれていますか？",
+            "answer": "古房が置かれており、食料品を貯蔵しています。"
+        },
+        {
+            "question": "この家の特別な点はありますか？",
+            "answer": "門屋の周囲には塀があり、外庭と区分されています。また、母屋と谷間の間にも塀があり、向かい側の部屋の独立性と居心地の良い雰囲気を造成しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 246,
+        "QA": 226
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_006867",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=268&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=13&ccbaAsno=05090000&ccbaCtcd=38&ccbaCpno=1333805090000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2010-08-24",
+        "domain": "문화/역사관광",
+        "title": "거제 둔덕기성"
+    },
+    "text": "巨済屯徳基城 (거제 둔덕기성)\\n\n慶尚南道巨済市屯徳面巨林里山9番地など\\n\n史跡 , 屯徳汽城は7世紀新羅時代の築造手法を知らせる重要な遺跡で、韓国では珍しい懸門式構造である東門址と三国時代の初築され、高麗時代に収縮した城壁などは築城法の変化を研究するのに学術的に重要な資料だ。また、この遺跡から仁化門土器、「上四里」銘文瓦、青磁皿など様々な遺物が出土したことから、新羅文武王代に設置された上郡および景徳王代巨済郡の治所城と推定され、高麗史と新証などの文献によると高麗の義宗が3年間巨済島に流刑され、朝鮮初期に高麗王族が流刑された場所としても記録されている。",
+    "QA": [
+        {
+            "question": "巨済屯徳基城は何時代に築かれましたか？",
+            "answer": "巨済屯徳基城は7世紀新羅時代に築かれました。"
+        },
+        {
+            "question": "巨済屯徳基城の構造はどのようなものですか？",
+            "answer": "巨済屯徳基城は懸門式構造を持つ東門址と城壁が特徴です。"
+        },
+        {
+            "question": "巨済屯徳基城から出土した遺物には何がありますか？",
+            "answer": "巨済屯徳基城からは仁化門土器、上四里銘文瓦、青磁皿など様々な遺物が出土しています。"
+        },
+        {
+            "question": "巨済屯徳基城はどのような役割を果たしていましたか？",
+            "answer": "巨済屯徳基城は新羅文武王代に設置された上郡および景徳王代巨済郡の治所城と推定されています。また、高麗の義宗が流刑された場所としても記録されています。"
+        },
+        {
+            "question": "巨済屯徳基城はどのような変化を研究するための資料ですか？",
+            "answer": "巨済屯徳基城は築城法の変化を研究するための学術的に重要な資料です。"
+        }
+    ],
+    "word_Count": {
+        "text": 206,
+        "QA": 230
+    }
+}

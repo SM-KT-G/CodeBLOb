@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_037975",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=205&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=19530000&ccbaCtcd=11&ccbaCpno=1121119530000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2017-12-26",
+        "domain": "문화/역사관광",
+        "title": "정선 필 여산초당도"
+    },
+    "text": "鄭敾筆廬山草堂図 (정선 필 여산초당도)\\n\nソウル特別市城北区城北路102-11(城北洞、澗松美術館)\\n\n18世紀、宝物、鄭星姫（チョン·ソンピル）『廬山草堂図』は、鄭氏が中国の故事をテーマに山水画と人物画を効果的に結合させた大作だ。 麗山は中国の数多くの文人たちが訪問して作品を残したところであり、中国と朝鮮で絵の素材として多く扱われた名所だ。 この絵は、麗山に草堂を建てて隠居した唐の詩人白居易(772-846)の故事をテーマにした故事人物図だ。 南宗画風に基づいた旌善の定型山水図を代表するほどの作品で、自分が真景山水画を描く時によく使った個性的な筆墨法をよく折衷し、朝鮮後期の定型山水図のもう一つの境地をよく示す作品だ。 さらに、これを水墨画ではなく彩色画で製作したという点で希少な価値が高い。",
+    "QA": [
+        {
+            "question": "この絵は何世紀に描かれましたか？",
+            "answer": "18世紀に描かれました。"
+        },
+        {
+            "question": "この絵はどのような作品ですか？",
+            "answer": "この絵は、山水画と人物画を結合させた大作です。"
+        },
+        {
+            "question": "麗山はどのような場所ですか？",
+            "answer": "麗山は中国の数多くの文人たちが訪問して作品を残したところであり、絵の素材としても多く扱われた名所です。"
+        },
+        {
+            "question": "この絵のテーマは何ですか？",
+            "answer": "この絵は、唐の詩人白居易の隠居生活をテーマにしています。"
+        },
+        {
+            "question": "この絵はどのような特徴がありますか？",
+            "answer": "この絵は、南宗画風に基づいた定型山水図で、朝鮮後期の定型山水図の境地を示す作品です。また、彩色画で製作された希少な作品でもあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 259,
+        "QA": 187
+    }
+}

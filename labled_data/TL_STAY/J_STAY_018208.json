@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_018208",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42030&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "포항 피카풀빌라펜션"
+    },
+    "text": "客室から素敵な海の風景が鑑賞できるFIKA Poolvillaへようこそ。 ここは目の前に広がる美しい海を鑑賞できる場所で、特にプールからはパノラマのような海の風景が目立ちます。 客室の窓から向こうを眺めると広がる風景は本当に癒されます。 このような幻想的な風景を体験できるFIKA Poolvillaに皆様をご招待します。",
+    "QA": [
+        {
+            "question": "FIKA Poolvillaの特徴は何ですか？",
+            "answer": "FIKA Poolvillaの特徴は、客室から見える美しい海の風景です。特にプールからはパノラマのような海の風景が楽しめます。"
+        },
+        {
+            "question": "客室から見える風景はどのようなものですか？",
+            "answer": "客室から見える風景は、広がる美しい海の風景です。窓から向こうを眺めると、幻想的な風景が広がります。"
+        },
+        {
+            "question": "FIKA Poolvillaはどのような場所にありますか？",
+            "answer": "FIKA Poolvillaは海が目の前に広がる場所に位置しています。"
+        },
+        {
+            "question": "FIKA Poolvillaでは何を楽しめますか？",
+            "answer": "FIKA Poolvillaでは、客室からの美しい海の風景を楽しむことができます。また、プールでリラックスすることもできます。"
+        },
+        {
+            "question": "FIKA Poolvillaへの招待状ですが、どのような体験ができますか？",
+            "answer": "FIKA Poolvillaへの招待状ですが、客室からの幻想的な海の風景を体験することができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 118,
+        "QA": 288
+    }
+}

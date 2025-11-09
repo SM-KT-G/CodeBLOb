@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_013861",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2020-12-29",
+        "domain": "음식점",
+        "title": "マッチャンドルワンソグムグイ 南浦( 맛찬들왕소금구이 남포 )"
+    },
+    "text": "マッチャンドルワンソグムグイ 南浦( 맛찬들왕소금구이 남포 )\\n\n釜山広域市 中区 南浦洞2街25-1\\n\n14日間熟成した最高の熟成肉が味わえます。代表的なメニューはサムギョプサルです。釜山広域市のチュン区に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "このお店の場所はどこですか？",
+            "answer": "釜山広域市 中区 南浦洞2街25-1にあります。"
+        },
+        {
+            "question": "このお店の特徴は何ですか？",
+            "answer": "このお店では14日間熟成した最高の熟成肉が味わえます。また、代表的なメニューはサムギョプサルです。"
+        },
+        {
+            "question": "このお店は何を提供していますか？",
+            "answer": "このお店は韓食専門店で、熟成肉やサムギョプサルなどのメニューを提供しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 87,
+        "QA": 113
+    }
+}

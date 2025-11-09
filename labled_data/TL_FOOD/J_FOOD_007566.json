@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_007566",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-09-01",
+        "domain": "음식점",
+        "title": "シゴルジョン（시골전집）"
+    },
+    "text": "シゴルジョン（시골전집）\\n\nソウル特別市 鐘路区 鐘路 123\\n\nソウル特別市チョンノサムガ駅の近くに位置した韓国料理店です。代表的なメニューは海鮮入りねぎのチヂミです。お手頃価格でいただけるお店です。",
+    "QA": [
+        {
+            "question": "このレストランはどこにありますか？",
+            "answer": "このレストランはソウル特別市鐘路区鐘路123に位置しています。"
+        },
+        {
+            "question": "このレストランの代表的なメニューは何ですか？",
+            "answer": "このレストランの代表的なメニューは海鮮入りねぎのチヂミです。"
+        },
+        {
+            "question": "このレストランの価格は手頃ですか？",
+            "answer": "はい、このレストランは手頃な価格で提供されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 75,
+        "QA": 104
+    }
+}

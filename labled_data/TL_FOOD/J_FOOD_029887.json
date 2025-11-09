@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_029887",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/yennal-yeongil-naengmyeon",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "イェンナルヨンギルネンミョン"
+    },
+    "text": "イェンナルヨンギルネンミョン\\n\nソウル特別市 ジョンノ区 ジョンロ46ギル 31\\n\nこの店はソウル特別市のトンデムンに位置した韓食専門店です。中国人シェフが調理する飲食店です。代表的なメニューは冷麺です。",
+    "QA": [
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "この店はソウル特別市のトンデムンに位置しています。"
+        },
+        {
+            "question": "この店の特徴は何ですか？",
+            "answer": "この店は韓食専門店で、中国人シェフが調理しています。"
+        },
+        {
+            "question": "この店の代表的なメニューは何ですか？",
+            "answer": "この店の代表的なメニューは冷麺です。"
+        }
+    ],
+    "word_Count": {
+        "text": 76,
+        "QA": 82
+    }
+}

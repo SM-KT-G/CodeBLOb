@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_029821",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/yennal-omakjip",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "イェンナルオマクチプ"
+    },
+    "text": "イェンナルオマクチプ\\n\n釜山広域市 西区 九徳路274番キル14 )\\n\n30年伝統の釜山ヤンコプチャン（ミノ・ホルモン）炭火焼き専門店のなかで最も古いお店です。",
+    "QA": [
+        {
+            "question": "このお店の名前は何ですか？",
+            "answer": "釜山ヤンコプチャン（ミノ・ホルモン）炭火焼き専門店"
+        },
+        {
+            "question": "このお店はどのくらいの歴史がありますか？",
+            "answer": "このお店は30年の伝統があります。"
+        },
+        {
+            "question": "このお店はどのエリアにありますか？",
+            "answer": "このお店は釜山広域市の西区にあります。"
+        },
+        {
+            "question": "このお店は何を専門としていますか？",
+            "answer": "このお店はヤンコプチャン（ミノ・ホルモン）の炭火焼きを専門としています。"
+        },
+        {
+            "question": "このお店は最も古いお店ですか？",
+            "answer": "はい、このお店は釜山ヤンコプチャン（ミノ・ホルモン）炭火焼き専門店のなかで最も古いお店です。"
+        }
+    ],
+    "word_Count": {
+        "text": 60,
+        "QA": 165
+    }
+}

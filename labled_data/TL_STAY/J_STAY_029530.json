@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_029530",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/lodge/world-hotel",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "ワールド観光ホテル"
+    },
+    "text": "ワールド観光ホテル\\n\n京畿平沢市新場2洞 690-7\\n\nワールドホテルは、ロビーに入ると頭の中だけで描いて来た美しい空間に出会えます。また 様々なマルチメディア施設と、窓の外には都市の調和した光あふれる平沢の姿が広がります。",
+    "QA": [
+        {
+            "question": "ワールドホテルはどこにありますか？",
+            "answer": "ワールドホテルは京畿平沢市新場2洞 690-7にあります。"
+        },
+        {
+            "question": "ワールドホテルのロビーの特徴は何ですか？",
+            "answer": "ワールドホテルのロビーは美しい空間で、様々なマルチメディア施設があります。"
+        },
+        {
+            "question": "ホテルの窓から見える景色はどんな感じですか？",
+            "answer": "ホテルの窓からは都市の調和した光あふれる平沢の姿が広がります。"
+        }
+    ],
+    "word_Count": {
+        "text": 83,
+        "QA": 114
+    }
+}

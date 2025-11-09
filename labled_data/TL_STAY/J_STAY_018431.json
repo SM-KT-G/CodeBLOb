@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_018431",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42091&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "울산 서부동 경화장"
+    },
+    "text": "客室入室基準を確認する必要があります。 追加人数がいる場合、追加料金が決済されます。 オンシーズン、特定の日、祝日には料金が変動する場合があります。また、身分証明書を確認し、未成年者の場合の入室は制限されます。お問い合わせには、親切にお答えしますので、気軽にどうぞ～。",
+    "QA": [
+        {
+            "question": "宿泊料金はいくらですか？",
+            "answer": "宿泊料金は季節や特定の日によって異なります。オンシーズンや祝日には通常よりも高くなる場合がありますので、お問い合わせください。"
+        },
+        {
+            "question": "追加人数がいる場合、追加料金はかかりますか？",
+            "answer": "はい、追加人数がいる場合は追加料金がかかります。詳細についてはお問い合わせください。"
+        },
+        {
+            "question": "未成年者の場合、入室は制限されますか？",
+            "answer": "はい、未成年者の場合、身分証明書の確認が必要となります。また、一部の宿泊施設では未成年者の入室を制限している場合もありますので、予めご了承ください。"
+        },
+        {
+            "question": "宿泊施設の入室基準はどのようになっていますか？",
+            "answer": "宿泊施設の入室基準は個々の施設によって異なります。一般的にはチェックイン時に身分証明書の提示や予約確認が必要となります。詳細についてはお問い合わせください。"
+        }
+    ],
+    "word_Count": {
+        "text": 98,
+        "QA": 244
+    }
+}

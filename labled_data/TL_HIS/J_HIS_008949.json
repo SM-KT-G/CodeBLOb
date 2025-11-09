@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_008949",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=391&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=00270000&ccbaCtcd=37&ccbaCpno=2113700270000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1973-08-31",
+        "domain": "문화/역사관광",
+        "title": "광산김씨재사및사당<재사3동,사당>"
+    },
+    "text": "光山金氏斎舎及び舎堂<斎舎3洞、舎堂> (광산김씨재사및사당<재사3동,사당>)\\n\n慶尚北道安東市臥龍面烏川里山28-1番地\\n\n慶尚北道有形文化財 , 光山金氏の中で烏川里に一番最初に入って定着した金孝路（キム·ヒョロ、1445~1534）と曾孫の金海（キム·ヘ、1555~1592）を祀っている祠堂と後祖堂に付属した斎舎（チェサ、祭祀を行う家）だ。 安東ダム建設によって1975年、梧川里洛東江辺にあったものを現在の位置に移した。 キム·ヒョロが亡くなって2年後の朝鮮中宗31年(1536)に子孫たちが志を集めて祠堂を建てて祭祀を行ってきたが、宣祖25年(1592)壬辰倭乱の時に嶺南義兵大将として活躍し殉節した金海を一緒に祀っている。",
+    "QA": [
+        {
+            "question": "斎舎と舎堂はどのような場所ですか？",
+            "answer": "光山金氏斎舎及び舎堂は、慶尚北道安東市臥龍面烏川里山に位置しています。光山金氏の祖先である金孝路と曾孫の金海を祀っています。"
+        },
+        {
+            "question": "斎舎と舎堂は何年に建てられましたか？",
+            "answer": "斎舎と舎堂は、キム・ヒョロが亡くなって2年後の朝鮮中宗31年(1536)に建てられました。"
+        },
+        {
+            "question": "なぜ斎舎と舎堂は現在の場所に移動されましたか？",
+            "answer": "安東ダム建設によって、斎舎と舎堂は1975年に現在の位置に移動されました。"
+        },
+        {
+            "question": "金海はどのような役割を果たしましたか？",
+            "answer": "金海は壬辰倭乱の時に嶺南義兵大将として活躍し、殉節した人物です。彼も斎舎と舎堂で祀られています。"
+        }
+    ],
+    "word_Count": {
+        "text": 235,
+        "QA": 197
+    }
+}

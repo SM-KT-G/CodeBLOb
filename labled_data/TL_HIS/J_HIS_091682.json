@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_091682",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ja",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2023-07-19",
+        "domain": "문화/역사관광",
+        "title": "오남체육문화센터"
+    },
+    "text": "梧南体育文化センター (오남체육문화센터)\\n\n京畿道南楊州市梧南邑ジンゴン梧南路577番キル11\\n\n南楊州市民の皆さんが健康や文化、余暇生活を楽しむことができる場所があります。この場所は老若男女を問わず、誰でも利用することができます。",
+    "QA": [
+        {
+            "question": "この場所の名称は何ですか？",
+            "answer": "梧南体育文化センターです。"
+        },
+        {
+            "question": "この施設の場所はどこですか？",
+            "answer": "京畿道南楊州市梧南邑ジンゴン梧南路577番キル11にあります。"
+        },
+        {
+            "question": "どんな活動がこの施設で行われますか？",
+            "answer": "スポーツ、文化活動や余暇に関連した様々なイベントが行われます。"
+        },
+        {
+            "question": "誰がこの施設を利用することができますか？",
+            "answer": "老若男女を問わず、南楊州市民の皆さんが利用することができます。"
+        },
+        {
+            "question": "この施設で提供されている施設やサービスは何ですか？",
+            "answer": "スポーツ施設、文化施設、余暇施設などがあり、様々な健康や文化、余暇活動に利用できます。"
+        }
+    ],
+    "word_Count": {
+        "text": 87,
+        "QA": 175
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_052208",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2022-12-29",
+        "domain": "숙박",
+        "title": "글로리펜션"
+    },
+    "text": "ヨチャモンドルの海水浴場の丘に構えているグローリーペンションはすべて7つの客室で運営される。最近新築したペンションと非常に快適、海岸から吹いてくる涼しい風と共に自然の趣を存分に感じることができる。周辺の名所としては浮気の海上公園、売り物が、つけて公園などがある。",
+    "QA": [
+        {
+            "question": "グローリーペンションは何部屋ありますか？",
+            "answer": "グローリーペンションには7つの客室があります。"
+        },
+        {
+            "question": "グローリーペンションの特徴は何ですか？",
+            "answer": "グローリーペンションは最近新築したペンションで、非常に快適でありながら自然の趣も感じることができます。海岸から吹いてくる涼しい風も楽しめます。"
+        },
+        {
+            "question": "周辺にはどんな名所がありますか？",
+            "answer": "周辺には浮気の海上公園、売り物が公園、つけて公園などの名所があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 96,
+        "QA": 134
+    }
+}

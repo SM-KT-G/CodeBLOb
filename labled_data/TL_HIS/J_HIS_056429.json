@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_056429",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1185&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=06630000&ccbaCtcd=37&ccbaCpno=3413706630000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2018-07-16",
+        "domain": "문화/역사관광",
+        "title": "김천 도동서원"
+    },
+    "text": "金泉 トドン・ソウォン\\n\n慶尚北道文化財資料、金泉、道東書院は1771年に建設された延安李氏家門のヒョンチョ5人を培養した門中書院で、南人と老論の党の掲げた色合いの違いにもかかわらず、門中意識で克服したあまり無いな事例だ。1918年明倫堂中央捜査を主導したイギョンギュンは1919年パリ蔵書事件の金泉儒林代表として署名した独立運動家として彼の跡が残っている場所でもある。また、道東書院の歴史的変遷過程を示す資料が豊富に残っている。",
+    "QA": [
+        {
+            "question": "金泉はいつ建設されましたか？",
+            "answer": "金泉は1771年に建設されました。"
+        },
+        {
+            "question": "金泉はどのような門中書院ですか？",
+            "answer": "金泉は延安李氏家門のヒョンチョ5人を培養した門中書院です。"
+        },
+        {
+            "question": "金泉はどのような党の掲げた色合いの違いを克服しましたか？",
+            "answer": "金泉は南人と老論の党の掲げた色合いの違いを門中意識で克服しました。"
+        },
+        {
+            "question": "イギョンギュンは何を主導しましたか？",
+            "answer": "イギョンギュンは1918年明倫堂中央捜査を主導しました。"
+        },
+        {
+            "question": "金泉は何の代表として署名しましたか？",
+            "answer": "金泉は1919年パリ蔵書事件の金泉儒林代表として署名しました。"
+        },
+        {
+            "question": "道東書院には何が残っているのですか？",
+            "answer": "道東書院には歴史的変遷過程を示す資料が豊富に残っています。"
+        }
+    ],
+    "word_Count": {
+        "text": 158,
+        "QA": 204
+    }
+}

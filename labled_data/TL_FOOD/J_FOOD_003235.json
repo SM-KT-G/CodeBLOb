@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_003235",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-03",
+        "domain": "음식점",
+        "title": "ウリ刺身ポチャ ( 우리회포차 )"
+    },
+    "text": "ウリ刺身ポチャ ( 우리회포차 )\\n\nソウル特別市 ヨンドゥンポ区 グクフェデロ34ギル8-2\\n\n新鮮でいろいろな種類の刺身が味わえる店です。おすすめは活魚の刺身です。ソウル特別市のヨンドゥンポ区に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "ウリ刺身ポチャの場所はどこですか？",
+            "answer": "ウリ刺身ポチャはソウル特別市のヨンドゥンポ区に位置しています。"
+        },
+        {
+            "question": "ウリ刺身ポチャで味わえる刺身の種類は何ですか？",
+            "answer": "ウリ刺身ポチャでは新鮮でいろいろな種類の刺身を味わうことができます。"
+        },
+        {
+            "question": "ウリ刺身ポチャのおすすめは何ですか？",
+            "answer": "ウリ刺身ポチャのおすすめは活魚の刺身です。"
+        }
+    ],
+    "word_Count": {
+        "text": 82,
+        "QA": 105
+    }
+}

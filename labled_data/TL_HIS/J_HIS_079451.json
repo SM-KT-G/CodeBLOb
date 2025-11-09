@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_079451",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1007&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=00600000&ccbaCtcd=31&ccbaCpno=3413100600000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1985-06-28",
+        "domain": "문화/역사관광",
+        "title": "삼막사명부전"
+    },
+    "text": "1880年に建設された京畿道の冥府殿は人が住んでいる間のことを審判を受ける名簿(冥府)を象徴するところで、シワンと地蔵菩薩を向けた場所として使われている。今の冥府殿は義民僧侶が主導して建てたもので、形状を見ると、花崗岩と自然石で建物を丈夫に作られており、屋根は切妻造屋根様式で設計された。建物の前面にはドアが設置されていて、内部には床と仏壇が配置された。仏壇の中には地蔵菩薩がいて、両側にはシワンが立てられており、両端には仁王(におう)像が建てられている。この建物は格式が高くはないが、恐怖と華邦壁、内部の装飾を通じて19世紀末の寺院建築の特徴をうかがうことができる。",
+    "QA": [
+        {
+            "question": "この冥府殿は何年に建設されましたか？",
+            "answer": "冥府殿は1880年に建設されました。"
+        },
+        {
+            "question": "冥府殿はどのような目的で建設されましたか？",
+            "answer": "冥府殿は人が住んでいる間のことを審判を受ける名簿（冥府）を象徴する場所として建設されました。"
+        },
+        {
+            "question": "冥府殿はどのような形状で建てられていますか？",
+            "answer": "冥府殿は花崗岩と自然石で丈夫に建てられ、切妻造屋根様式の屋根が設計されています。"
+        },
+        {
+            "question": "冥府殿の内部には何が配置されていますか？",
+            "answer": "冥府殿の内部には床と仏壇が配置されており、仏壇の中には地蔵菩薩がいます。"
+        },
+        {
+            "question": "冥府殿の建物の前面には何が設置されていますか？",
+            "answer": "冥府殿の建物の前面にはドアが設置されています。"
+        },
+        {
+            "question": "冥府殿の内部にどのような装飾が施されていますか？",
+            "answer": "冥府殿の内部には恐怖と華邦壁の装飾が施されており、19世紀末の寺院建築の特徴をうかがうことができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 208,
+        "QA": 250
+    }
+}

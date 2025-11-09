@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_097479",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/view?relicId=184862",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2023-10-11",
+        "domain": "문화/역사관광",
+        "title": "일본 근대 군사관련자료"
+    },
+    "text": "日本近代軍事関連資料 (일본 근대 군사관련자료)\\n\nこの資料は、日本近代の軍事に関連するものであり、特定の番号が付けられています（原版番号無996-2）。格納箱のタイトルは「軍事訓練」となっています。 資料の内容には、一部の乳剤が汚れている箇所があります。 この資料は、韓国が日本によって植民地支配されていた時代のものです。材料はガラスや宝石で作られており、分類はメディア、記録物、フィルムとなっています。資料の大きさは横164cm、縦120cmです。",
+    "QA": [
+        {
+            "question": "この資料の分類は何ですか？",
+            "answer": "メディア、記録物、フィルム"
+        },
+        {
+            "question": "資料の大きさは何ですか？",
+            "answer": "横164cm、縦120cm"
+        },
+        {
+            "question": "この資料は何によって作られていますか？",
+            "answer": "ガラスや宝石"
+        },
+        {
+            "question": "資料のタイトルは何ですか？",
+            "answer": "軍事訓練"
+        },
+        {
+            "question": "資料の汚れている箇所は何ですか？",
+            "answer": "一部の乳剤"
+        }
+    ],
+    "word_Count": {
+        "text": 167,
+        "QA": 83
+    }
+}

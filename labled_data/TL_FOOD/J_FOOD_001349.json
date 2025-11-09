@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001349",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-06",
+        "domain": "음식점",
+        "title": "6FACT ( 육팩트 )"
+    },
+    "text": "6FACT ( 육팩트 )\n京畿道 平沢市 マンセロ1731\n広々とした空間と駐車場があり、韓国式のBBQを楽しむことができます。京畿道のピョンテク市に位置した韓食専門店です。おすすめは牛カルビです。",
+    "QA": [
+        {
+            "question": "この韓国式のBBQレストランはどこにありますか？",
+            "answer": "この韓国式のBBQレストランは京畿道の平沢市に位置しています。"
+        },
+        {
+            "question": "このレストランには何がありますか？",
+            "answer": "このレストランには広々とした空間と駐車場があります。"
+        },
+        {
+            "question": "このレストランのおすすめメニューは何ですか？",
+            "answer": "このレストランのおすすめは牛カルビです。"
+        }
+    ],
+    "word_Count": {
+        "text": 73,
+        "QA": 102
+    }
+}

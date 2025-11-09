@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_003237",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://laigengjia.modoo.at/",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "キョンのホステル"
+    },
+    "text": "キョンのホステル\\n\n大邱広域市中区北城路4キル61\\n\n大邱の中心部に位置し、東城路や西門市場などに近いです。 コインランドリー、コーヒーショップなどもあり、駐車場も広いです。",
+    "QA": [
+        {
+            "question": "ホステルの場所はどこですか？",
+            "answer": "大邱広域市中区北城路4キル61に位置しています。"
+        },
+        {
+            "question": "ホステルはどのような場所に位置していますか？",
+            "answer": "ホステルは大邱の中心部に位置しています。東城路や西門市場などにも近いです。"
+        },
+        {
+            "question": "ホステルにはどのような設備がありますか？",
+            "answer": "ホステルにはコインランドリーやコーヒーショップなどがあります。駐車場も広いです。"
+        }
+    ],
+    "word_Count": {
+        "text": 65,
+        "QA": 115
+    }
+}

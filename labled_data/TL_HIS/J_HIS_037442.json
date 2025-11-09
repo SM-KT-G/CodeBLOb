@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_037442",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=505&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=01720000&ccbaCtcd=37&ccbaCpno=2113701720000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1983-09-29",
+        "domain": "문화/역사관광",
+        "title": "월록서당"
+    },
+    "text": "月麓書堂 (월록서당)\\n\n慶尚北道英陽郡日月面周谷里227番地\\n\n朝鮮時代、慶尚北道有形文化財、後学者を教育し養成するために建てられた寺子屋である。 月下チョ·ウンド(1718~1796)先生が意見を出し、漢陽チョ氏·野城チョン氏·咸陽オ氏が主軸となって朝鮮英祖49年(1773)に建てたという。 前面4間·側面2間規模を持つ一字型建物で展望が良く閑静で勉強しやすいところだ。 真ん中の2間は床を作って板の間にし、両側は部屋を作っておいたが、右側は「克復斎」、左側には「存省斎」という扁額がかかっている。 景色の良い場所に位置している朝鮮後期の建築様式をよく保管している建物だ。",
+    "QA": [
+        {
+            "question": "この寺子屋はいつ建てられましたか？",
+            "answer": "朝鮮英祖49年(1773)に建てられました。"
+        },
+        {
+            "question": "誰がこの寺子屋を建てましたか？",
+            "answer": "月下チョ·ウンド先生が意見を出し、漢陽チョ氏・野城チョン氏・咸陽オ氏が主軸となって建てました。"
+        },
+        {
+            "question": "この寺子屋の建物の特徴は何ですか？",
+            "answer": "一字型の建物で、前面4間・側面2間の規模を持ち、展望が良く閑静で勉強しやすい環境です。"
+        },
+        {
+            "question": "この寺子屋の中にはどんな部屋がありますか？",
+            "answer": "真ん中の2間は板の間になっており、両側には部屋があります。右側の部屋は「克復斎」、左側の部屋には「存省斎」という扁額がかかっています。"
+        },
+        {
+            "question": "この寺子屋はどのような建築様式を保管していますか？",
+            "answer": "この寺子屋は景色の良い場所に位置しており、朝鮮後期の建築様式をよく保管しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 213,
+        "QA": 231
+    }
+}

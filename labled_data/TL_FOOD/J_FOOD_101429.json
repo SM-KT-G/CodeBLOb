@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_101429",
+        "source": "도서",
+        "writer": "노중훈",
+        "ISBN_ISNN": "978-89-5277-759-1",
+        "version": "초판",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "식당 골라주는 남자",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2016-12-25",
+        "domain": "음식점",
+        "title": "컴포즈커피 서동점"
+    },
+    "text": "大容量の高品質コーヒーで有名なコンポズコーヒー西洞店は、営業時間が毎日08:30から22:30までです。 メニューとしてはアメリカーノ[HOT & ICED] TAKE OUTがありますが、これは1,500ウォンで購入できます。",
+    "QA": [
+        {
+            "question": "コンポズコーヒー西洞店の営業時間は何時から何時までですか？",
+            "answer": "コンポズコーヒー西洞店の営業時間は毎日08:30から22:30までです。"
+        },
+        {
+            "question": "コンポズコーヒー西洞店のメニューには何がありますか？",
+            "answer": "コンポズコーヒー西洞店のメニューにはアメリカーノ[HOT & ICED] TAKE OUTがあります。"
+        },
+        {
+            "question": "アメリカーノ[HOT & ICED] TAKE OUTの価格はいくらですか？",
+            "answer": "アメリカーノ[HOT & ICED] TAKE OUTの価格は1,500ウォンです。"
+        }
+    ],
+    "word_Count": {
+        "text": 83,
+        "QA": 162
+    }
+}

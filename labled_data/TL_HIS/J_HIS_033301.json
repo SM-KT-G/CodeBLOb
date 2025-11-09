@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_033301",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2020-09-30",
+        "domain": "문화/역사관광",
+        "title": "平和列車DMZトレイン（평화열차 DMZ 트레인）"
+    },
+    "text": "平和列車DMZトレイン（평화열차 DMZ 트레인）\nソウル特別市 龍山区 漢江大路23キル55 （漢江路3街）\n「平和列車DMZトレイン」は歴史の痛みを乗り越えて自然の偉大な生命力で生まれ変わったDMZ（非武装地帯）に向かう唯一の列車です。「平和」「調和」「愛」をテーマにした全3車両でカフェ、展望席、フォトゾーン、写真ギャラリーなどのサービスを提供しています。",
+    "QA": [
+        {
+            "question": "平和列車DMZトレインはどこに向かう列車ですか？",
+            "answer": "平和列車DMZトレインは、DMZ（非武装地帯）に向かう唯一の列車です。"
+        },
+        {
+            "question": "平和列車DMZトレインはどのようなテーマを持っていますか？",
+            "answer": "平和列車DMZトレインは、「平和」「調和」「愛」をテーマにしています。"
+        },
+        {
+            "question": "平和列車DMZトレインのサービスには何が含まれていますか？",
+            "answer": "平和列車DMZトレインのサービスには、カフェ、展望席、フォトゾーン、写真ギャラリーなどが含まれています。"
+        },
+        {
+            "question": "平和列車DMZトレインはどのように生まれ変わりましたか？",
+            "answer": "平和列車DMZトレインは、歴史の痛みを乗り越えて自然の偉大な生命力で生まれ変わりました。"
+        }
+    ],
+    "word_Count": {
+        "text": 132,
+        "QA": 202
+    }
+}

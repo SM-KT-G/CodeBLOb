@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_053237",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42060&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "더휴식 아늑호텔 천안역 2호점"
+    },
+    "text": "居心地の良いホテルの清潔なインテリアと様々なコンテンツ、休息のためのアイテムを追加しました。 これからは居心地の良いホテルでは、すべての客室でOTTサービスを提供しています。 さらに、それぞれの客室にはクリエイターたちの作品が盛り込まれた額縁があります。 これにより、顧客はさまざまな作品を鑑賞できます。 さらに、居心地の良いホテルは、直接開発した高級寝具類とアメニティを提供し、休息の質を高めました。 皆さんはこれらすべてを経験することができます。",
+    "QA": [
+        {
+            "question": "ホテルではどのようなコンテンツが提供されていますか？",
+            "answer": "ホテルではOTTサービスが提供されています。"
+        },
+        {
+            "question": "客室にはどのようなアイテムがありますか？",
+            "answer": "客室にはクリエイターたちの作品が盛り込まれた額縁があります。"
+        },
+        {
+            "question": "ホテルではどのような寝具類とアメニティが提供されていますか？",
+            "answer": "ホテルでは直接開発した高級寝具類とアメニティが提供されています。"
+        },
+        {
+            "question": "客室のインテリアはどのような清潔さですか？",
+            "answer": "客室のインテリアは清潔で居心地の良いデザインです。"
+        }
+    ],
+    "word_Count": {
+        "text": 165,
+        "QA": 151
+    }
+}

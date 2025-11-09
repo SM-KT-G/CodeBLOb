@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_104898",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=61&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=03850000&ccbaCtcd=11&ccbaCpno=1121103850000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1963-01-21",
+        "domain": "문화/역사관광",
+        "title": "창경궁 명정문 및 행각"
+    },
+    "text": "昌慶宮明正門及び行閣\\n\nソウル特別市鍾路区昌慶宮路185(臥龍洞、昌慶宮)\\n\n光海君8年(1616)、宝物、成宗15年(1484)、昌慶宮を立てた時に建てたのだが、文禄・慶長の役に火に焼けて光海君時代も敗れた。回廊のうち南側と北側の一部は、日帝强占期に撤去されたことを1986年に復元したものだが、2間規模で柱の上部に鳥のくちばしの形に伸びて出た装飾をした。軒を支えようと装飾してチャウン構造が柱の上だけでなく、柱の間にもあるが、これをダポ様式という。建物の内側は天井の柱が素通しの提灯天井だが、一部は天井の中を決める格天井で飾った。建物の組み合わせが着実かつ充実して朝鮮中期のドアを代表でき、ぐあいが朝鮮前期の建築様式の形を大切に保管していて宮殿中文建築研究に重要な資料となっている。...",
+    "QA": [
+        {
+            "question": "昌慶宮の建物は何年に建てられましたか？",
+            "answer": "昌慶宮は光海君8年(1616)に建てられました。"
+        },
+        {
+            "question": "昌慶宮の回廊の一部が撤去された時期はいつですか？",
+            "answer": "回廊のうち南側と北側の一部は日帝強占期に撤去され、1986年に復元されました。"
+        },
+        {
+            "question": "昌慶宮の建物の内側の天井にはどんな装飾がありますか？",
+            "answer": "建物の内側の天井には素通しの提灯天井と格天井があります。"
+        },
+        {
+            "question": "昌慶宮の建物の組み合わせは何を代表していますか？",
+            "answer": "昌慶宮の建物の組み合わせは朝鮮中期のドアを代表し、朝鮮前期の建築様式の形を大切に保管しています。"
+        },
+        {
+            "question": "昌慶宮の建物はどのような建築様式を示していますか？",
+            "answer": "昌慶宮の建物はチャウン構造やダポ様式など、朝鮮中期の建築様式を示しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 255,
+        "QA": 216
+    }
+}

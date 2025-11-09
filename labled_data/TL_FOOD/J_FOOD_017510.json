@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_017510",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-09-01",
+        "domain": "음식점",
+        "title": "光化門ロース ( 광화문등심 )"
+    },
+    "text": "光化門ロース ( 광화문등심 )\\n\nソウル特別市 鐘路区 鐘路5キル 34\\n\n会社員たちが会食で訪れる焼肉の名店です。ソウル特別市のジョンノ区に位置した韓国料理店です。代表的なメニューはカルビです。",
+    "QA": [
+        {
+            "question": "光化門ロースは何を提供していますか？",
+            "answer": "光化門ロースは焼肉の名店で、代表的なメニューはカルビです。"
+        },
+        {
+            "question": "光化門ロースの場所はどこですか？",
+            "answer": "光化門ロースはソウル特別市の鐘路区鐘路5キル34番地に位置しています。"
+        },
+        {
+            "question": "光化門ロースは誰がよく訪れる店ですか？",
+            "answer": "光化門ロースは会社員たちが会食で訪れることが多い焼肉の名店です。"
+        }
+    ],
+    "word_Count": {
+        "text": 74,
+        "QA": 109
+    }
+}

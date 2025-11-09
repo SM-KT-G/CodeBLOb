@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_030641",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/tea-therapy",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "Tea Therapy（티 테라피）"
+    },
+    "text": "Tea Therapy（티 테라피）\\n\nソウル特別市 江南区 彦州路173キル 16\\n\nTea Therapy（ティーテラピー）は自分の体質に合わせて処方されたお茶と足湯が楽しめるカフェです。若い感覚のユニークな韓医院で、カップルでデートを楽しみながら健康についても学べます。自分の体質に合わせて作ってもらえる「私だけのお茶」が一番の人気メニューです。",
+    "QA": [
+        {
+            "question": "営業時間は何時から何時までですか？",
+            "answer": "Tea Therapy（ティーテラピー）の営業時間は、午前10時から午後10時までです。"
+        },
+        {
+            "question": "お茶と足湯を楽しむことができる場所はどこですか？",
+            "answer": "Tea Therapy（ティーテラピー）では、江南区彦州路173キル16にあるカフェで、お茶と足湯を楽しむことができます。"
+        },
+        {
+            "question": "どんなお茶が提供されていますか？",
+            "answer": "Tea Therapy（ティーテラピー）では、自分の体質に合わせて処方されたお茶を提供しています。お客様だけのオリジナルなお茶が人気です。"
+        },
+        {
+            "question": "健康について学ぶことができるのですか？",
+            "answer": "はい、Tea Therapy（ティーテラピー）はユニークな韓医院であり、健康について学ぶこともできます。"
+        },
+        {
+            "question": "カップルでのデートにおすすめですか？",
+            "answer": "はい、Tea Therapy（ティーテラピー）はカップルでのデートにもおすすめです。健康を気遣いながら、楽しい時間を過ごすことができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 130,
+        "QA": 285
+    }
+}

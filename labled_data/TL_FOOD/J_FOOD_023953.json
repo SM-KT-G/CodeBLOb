@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_023953",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-13",
+        "domain": "음식점",
+        "title": "深海潜水ガザムムレコダリチム( 심해잠수가잠물회코다리찜 )"
+    },
+    "text": "深海潜水ガザムムレコダリチム\\n\n慶尚北道 アンドン市 グァンミョンロ144\\n\nカレイの刺身入り冷やしスープが味わえる店です。慶尚北道のアンドン市に位置した韓国料理店です。代表的なメニューは刺身入り冷やしスープです。",
+    "QA": [
+        {
+            "question": "この店の名前は何ですか？",
+            "answer": "深海潜水ガザムムレコダリチム"
+        },
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "慶尚北道 アンドン市 グァンミョンロ144"
+        },
+        {
+            "question": "この店の特徴的なメニューは何ですか？",
+            "answer": "刺身入り冷やしスープ"
+        },
+        {
+            "question": "この店はどんな料理店ですか？",
+            "answer": "韓国料理店"
+        }
+    ],
+    "word_Count": {
+        "text": 79,
+        "QA": 78
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_021397",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "鳳仙麻辣湯 ( 봉선마라탕 )"
+    },
+    "text": "鳳仙麻辣湯 ( 봉선마라탕 )\nソウル特別市 ヨンドゥンポ区 ドリムロ38ギル11\n中国の香辛料を使ったピリ辛のスープ料理です。ソウル特別市のヨンドゥンポ区に位置した中華専門店です。おすすめは麻辣湯です。",
+    "QA": [
+        {
+            "question": "鳳仙麻辣湯はどのような料理ですか？",
+            "answer": "鳳仙麻辣湯は中国の香辛料を使ったピリ辛のスープ料理です。"
+        },
+        {
+            "question": "鳳仙麻辣湯を楽しむことができる場所はどこですか？",
+            "answer": "鳳仙麻辣湯はソウル特別市のヨンドゥンポ区に位置した中華専門店で楽しむことができます。"
+        },
+        {
+            "question": "鳳仙麻辣湯のおすすめは何ですか？",
+            "answer": "麻辣湯が特におすすめです。"
+        }
+    ],
+    "word_Count": {
+        "text": 74,
+        "QA": 102
+    }
+}

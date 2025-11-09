@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_033475",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/ugly-stove",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "Ugly Stove"
+    },
+    "text": "Ugly Stove\\n\nソウル特別市 麻浦区 弘益路 19 )\\n\nUgly Stoveでは心身の健康のため、加工された食材の人為的な味より、自然の中で育った食材を大切にしています。すべての食材は朝方仕入れ、新鮮な食材で調理しています。店で提供されるパンは毎朝パン生地から作っており、チーズも店で直接作っています。また、ジャガイモの本来の味を提供するため、スミという品種のジャガイモで調理しています。Ugly Stoveでは新鮮な食材にこだわり、最高の料理を提供しています。",
+    "QA": [
+        {
+            "question": "Ugly Stoveはどこにありますか？",
+            "answer": "Ugly Stoveはソウル特別市麻浦区弘益路19にあります。"
+        },
+        {
+            "question": "Ugly Stoveではどのような食材を使っていますか？",
+            "answer": "Ugly Stoveでは自然の中で育った新鮮な食材を使用しています。朝方仕入れされた食材を使用し、ジャガイモにはスミという品種を使っています。"
+        },
+        {
+            "question": "Ugly Stoveではどのような料理を提供していますか？",
+            "answer": "Ugly Stoveでは新鮮な食材にこだわり、最高の料理を提供しています。朝からパン生地から作られたパンや店で直接作られたチーズなど、美味しい料理が楽しめます。"
+        },
+        {
+            "question": "Ugly Stoveはいつ営業していますか？",
+            "answer": "Ugly Stoveは毎日営業しており、朝早くから営業を始めています。具体的な営業時間については店舗に直接お問い合わせください。"
+        },
+        {
+            "question": "Ugly Stoveの特徴は何ですか？",
+            "answer": "Ugly Stoveの特徴は、心身の健康のために加工された食材の代わりに自然の中で育った食材を大切にしていることです。また、店内で作られるパンやチーズなど、手作りの味を楽しむことができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 174,
+        "QA": 336
+    }
+}

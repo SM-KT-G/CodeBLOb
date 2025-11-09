@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_027982",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/chuncheon-jinmi-dakgalbi-makguksu-gangneung-branch",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "春川真美タッカルビ混ぜそば 江陵"
+    },
+    "text": "春川真美タッカルビ混ぜそば 江陵\\n\n江原道 ガンヌン市 ガンヌンデロ94\\n\n甘辛タッカルビは、鶏肉と野菜を炒めた辛い韓国料理です。代表的なメニューはタッカルビです。江原道のガンヌン市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "この韓食専門店の名前は何ですか？",
+            "answer": "春川真美タッカルビ混ぜそば"
+        },
+        {
+            "question": "この店の場所はどこにありますか？",
+            "answer": "江原道 ガンヌン市 ガンヌンデロ94"
+        },
+        {
+            "question": "タッカルビとはどのような料理ですか？",
+            "answer": "鶏肉と野菜を炒めた辛い韓国料理です"
+        },
+        {
+            "question": "この店の代表的なメニューは何ですか？",
+            "answer": "タッカルビ"
+        },
+        {
+            "question": "この店は何を専門としていますか？",
+            "answer": "韓食"
+        },
+        {
+            "question": "この店はどの市に位置していますか？",
+            "answer": "ガンヌン市"
+        }
+    ],
+    "word_Count": {
+        "text": 77,
+        "QA": 118
+    }
+}

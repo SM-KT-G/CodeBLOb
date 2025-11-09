@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_020165",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/yukbyeongjang-songpa-branch",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "陸兵長"
+    },
+    "text": "陸兵長\\n\nソウル特別市 松坡区 ペクジェゴブンロ7ギル28\\n\nサムギョプサルが食べ放題で味わえる店です。代表的なメニューは無制限提供です。ソウル特別市のソンパ区に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "このお店はどこにありますか？",
+            "answer": "このお店はソウル特別市の松坡区ペクジェゴブンロ7ギル28に位置しています。"
+        },
+        {
+            "question": "このお店の特徴的なメニューは何ですか？",
+            "answer": "このお店の代表的なメニューはサムギョプサルの食べ放題です。"
+        },
+        {
+            "question": "このお店で食べられる料理は何ですか？",
+            "answer": "このお店では韓国料理が楽しめます。特にサムギョプサルがおすすめです。"
+        }
+    ],
+    "word_Count": {
+        "text": 69,
+        "QA": 110
+    }
+}

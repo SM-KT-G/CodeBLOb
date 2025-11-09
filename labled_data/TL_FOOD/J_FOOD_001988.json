@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001988",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-05",
+        "domain": "음식점",
+        "title": "PATHWAY COFFEE ( 페스웨이(H) )"
+    },
+    "text": "PATHWAY COFFEE ( 페스웨이(H) )\\n\n江原道 ガンヌン市 ゴンハンギル127ボンギル35-7\\n\n様々な種類のコーヒーやデザートが味わえる店です。おすすめはアメリカーノです。江原道のガンヌン市に位置したカフェ（コーヒーショップ）です。",
+    "QA": [
+        {
+            "question": "パスウェイコーヒーはどのような場所にありますか？",
+            "answer": "パスウェイコーヒーは江原道のガンヌン市に位置しています。具体的な住所はゴンハンギル127ボンギル35-7です。"
+        },
+        {
+            "question": "パスウェイコーヒーではどのような飲み物が提供されていますか？",
+            "answer": "パスウェイコーヒーでは様々な種類のコーヒーが提供されています。特におすすめはアメリカーノです。"
+        },
+        {
+            "question": "パスウェイコーヒーで食べることができるデザートはありますか？",
+            "answer": "はい、パスウェイコーヒーでは様々なデザートも提供されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 93,
+        "QA": 159
+    }
+}

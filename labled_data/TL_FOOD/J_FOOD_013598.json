@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_013598",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-01",
+        "domain": "음식점",
+        "title": "ホヤキンパプ ( 호야김밥 )"
+    },
+    "text": "ホヤキンパプ ( 호야김밥 )\n京畿道 平沢市 西斎7キル 2\n様々な韓国料理を味わえる店です。代表的なメニューは餃子です。京畿道のピョンテク市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "ホヤキンパプはどこに位置していますか？",
+            "answer": "ホヤキンパプは京畿道平沢市西斎7キルに位置しています。"
+        },
+        {
+            "question": "ホヤキンパプではどんな料理が味わえますか？",
+            "answer": "ホヤキンパプでは様々な韓国料理が味わえますが、代表的なメニューは餃子です。"
+        },
+        {
+            "question": "ホヤキンパプは韓食専門店ですか？",
+            "answer": "はい、ホヤキンパプは韓食専門店です。"
+        },
+        {
+            "question": "ホヤキンパプはどの市に位置していますか？",
+            "answer": "ホヤキンパプは京畿道のピョンテク市に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 62,
+        "QA": 134
+    }
+}

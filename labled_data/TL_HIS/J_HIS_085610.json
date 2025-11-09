@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_085610",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=559&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=02540000&ccbaCtcd=36&ccbaCpno=2113602540000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2001-06-05",
+        "domain": "문화/역사관광",
+        "title": "순천송광사응진당"
+    },
+    "text": "順天松広寺応進堂\\n\n全羅南道順天市松広面新坪里\\n\n朝鮮時代、全羅南道有形文化財、松広寺のウンジンダンは羅漢殿またはウンジンチョンとも呼ばれ、その中には16、羅漢像と16人の羅漢図が祭られている。曹渓山(チョゲサン)にある松広寺は高僧を最も多く輩出した僧宝寺院と韓国3大寺の一つであり、とても由緒深い寺院である。''ソングヮン''という寺の名は曹渓山(チョゲサン)の旧名であるソングヮンサンで取ってきたと言われており、寺をいつ建てたのか、正確な資料はないが、新羅(シルラ)末期にチェジンが立てたと伝えている。ウンジンチョンは高い基壇の上に建てられた建物で上品な姿をしている。前面3間・側面3間規模の切妻屋根に軒を支えようと装飾してチャウン構造が柱の上にのみある。建物内部には格子模様の床を敷いて内部の柱を立てない狭い空間を広く利用しようとしており、天井は垂木が素通しの提灯天井で飾ったが、仏壇の上にだけ華やかな天蓋を用意した。燕山君10年(1504)に初めて建てられたウンジンチョンは1623年に直して建てられた後に何度も補修を試みたが、これといった変化なしに初めての姿をよく保存しており、築造時期を推測できる絶好の資料だ。",
+    "QA": [
+        {
+            "question": "松広寺のウンジンダンは何とも呼ばれますか？",
+            "answer": "羅漢殿またはウンジンチョンとも呼ばれます。"
+        },
+        {
+            "question": "松広寺は韓国で何と呼ばれる3大寺の一つですか？",
+            "answer": "松広寺は韓国3大寺の一つです。"
+        },
+        {
+            "question": "松広寺はいつ建てられたと言われていますか？",
+            "answer": "松広寺は新羅末期に建てられたと伝えられています。"
+        },
+        {
+            "question": "ウンジンチョンの建造時期を推測するための資料として何が残されていますか？",
+            "answer": "ウンジンチョンは築造時期を推測できる絶好の資料として初めての姿をよく保存しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 376,
+        "QA": 148
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_010861",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2020-11-27",
+        "domain": "음식점",
+        "title": "トレオレ 道庁( 또래오래 도청 )"
+    },
+    "text": "トレオレ 道庁( 또래오래 도청 )\\n\n慶尚北道 安東市 豊川面 千年スプ西路 7-19\\n\n様々なチキンが味わえます。慶尚北道のアンドン市に位置した韓食専門店です。おすすめはチキンです。",
+    "QA": [
+        {
+            "question": "トレオレ 道庁はどこにありますか？",
+            "answer": "トレオレ 道庁は慶尚北道のアンドン市に位置しています。"
+        },
+        {
+            "question": "トレオレ 道庁では何が味わえますか？",
+            "answer": "トレオレ 道庁では様々なチキンが味わえます。"
+        },
+        {
+            "question": "トレオレ 道庁のおすすめは何ですか？",
+            "answer": "トレオレ 道庁のおすすめはチキンです。"
+        }
+    ],
+    "word_Count": {
+        "text": 69,
+        "QA": 88
+    }
+}

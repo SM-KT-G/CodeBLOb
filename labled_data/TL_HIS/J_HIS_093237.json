@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_093237",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ja",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2023-08-09",
+        "domain": "문화/역사관광",
+        "title": "우리 차 문화와 갯벌의 보고 무안 [웰촌]"
+    },
+    "text": "韓国茶文化と干潟の宝庫ムアン[ウェルチョン] (우리 차 문화와 갯벌의 보고 무안 [웰촌])\\n\nパド牧場は約40年前に、政府が3000坪あたり1頭まで許可していた時に、たった5頭の乳牛から始まりました。",
+    "QA": [
+        {
+            "question": "牧場はいつ始まりましたか？",
+            "answer": "約40年前に、政府が3000坪あたり1頭まで許可していた時に始まりました。"
+        },
+        {
+            "question": "牧場内の乳牛の頭数は何頭ですか？",
+            "answer": "たった5頭の乳牛から始まりました。"
+        },
+        {
+            "question": "牧場の面積はどのくらいですか？",
+            "answer": "政府が3000坪あたり1頭まで許可していた時に始まりました。"
+        }
+    ],
+    "word_Count": {
+        "text": 76,
+        "QA": 93
+    }
+}

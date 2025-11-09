@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_041396",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101971",
+        "collectedDate": "2023-09-07",
+        "publishedDate": "2021-12-28",
+        "domain": "문화/역사관광",
+        "title": "Gokseong Gallery 107とSTREET gallery"
+    },
+    "text": "Gokseong Gallery 107とSTREET gallery\n小さな町の小さな美術館 Gokseong Gallery 107とSTREET gallery  「Gokseong Gallery 107」は、暮らしのスペースとなっている町の中心に美術館を置き、住民の暮らしに余裕をもたらし、観光客には新しい見どころを提供することを目的に誕生した文化と芸術の空間です。ギャラリーは地元のアーティストたちの空間であると同時に、地域住民の憩いの場となっています。  ギャラリーから出て町を歩いていくと、農協と谷城警察署の前に風変わりな展示スペースがあります。コンテナを活用した「STREET gallery」は列車をかたどった展示スペースで、「Gokseong Gallery 107」で展示中のアーティストの別の作品を見ることができます。  「文化の町・谷城」のイメージをより一層高める「Gallery 107」と「STREET gallery」。生活の中で芸術を楽しむことができる、小さいけれども大切な町の美術館です。",
+    "QA": [
+        {
+            "question": "Gokseong Gallery 107とはどんな場所ですか？",
+            "answer": "Gokseong Gallery 107は、町の中心に位置する美術館で、住民の暮らしに余裕をもたらし、観光客には新しい見どころを提供することを目的に誕生した文化と芸術の空間です。"
+        },
+        {
+            "question": "STREET galleryとは何ですか？",
+            "answer": "STREET galleryは、農協と谷城警察署の前にある風変わりな展示スペースで、コンテナを活用した展示スペースです。ギャラリーで展示中のアーティストの別の作品を見ることができます。"
+        },
+        {
+            "question": "Gokseong Gallery 107とSTREET galleryはどのような役割を果たしていますか？",
+            "answer": "Gokseong Gallery 107は、地元のアーティストたちの作品を展示すると同時に、地域住民の憩いの場となっています。また、STREET galleryは、町の文化をより一層高めるための展示スペースです。"
+        },
+        {
+            "question": "Gokseong Gallery 107とSTREET galleryはどのような特徴がありますか？",
+            "answer": "Gokseong Gallery 107は、暮らしのスペースとしても利用できる美術館であり、地域のアーティストたちと地域住民の交流の場でもあります。STREET galleryは、列車をかたどった展示スペースで、コンテナを活用しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 339,
+        "QA": 411
+    }
+}

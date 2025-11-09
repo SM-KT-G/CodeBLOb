@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_029857",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42010&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "가평 이든펜션"
+    },
+    "text": "お知らせ:ペンションの掃除時間は11時から15時までです。 チェックイン、チェックアウトの時間を必ず守ってください。 当ペンションの円滑な運営のため、この点をご了承ください。 また、22時以降に到着される場合は事前にご連絡いただく必要があります。 以外のフレーズは含まれていません。",
+    "QA": [
+        {
+            "question": "掃除時間は何時から何時までですか？",
+            "answer": "掃除時間は11時から15時までです。"
+        },
+        {
+            "question": "チェックイン、チェックアウトの時間は何時ですか？",
+            "answer": "チェックイン、チェックアウトの時間を必ず守ってください。"
+        },
+        {
+            "question": "22時以降に到着する場合はどうすればいいですか？",
+            "answer": "22時以降に到着される場合は事前にご連絡いただく必要があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 103,
+        "QA": 104
+    }
+}

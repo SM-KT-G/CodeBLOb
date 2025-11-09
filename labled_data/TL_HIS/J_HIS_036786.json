@@ -1,0 +1,51 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_036786",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1220&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=79&ccbaAsno=03550000&ccbaCtcd=33&ccbaCpno=4413303550000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2007-09-21",
+        "domain": "문화/역사관광",
+        "title": "청주 동부배수지 제수변실"
+    },
+    "text": "淸州東部配水池制水弁室 (청주 동부배수지 제수변실)\\n\n忠清北道清州市上党区龍潭路43(大成洞)\\n\n1923年、国家登録文化財、1923年建設この施設は清州東部排水池の水質検査のために建てられた鐘塔形式のコンクリート構造物だ。 アーチ型出入口の上には花崗岩で装飾して正面性を強調し、鉄門を設置して出入りを取り締まった。 六角形の角ごとに角柱の形を突出させ、輪帯を巻いて軒の部分を仕上げ、ドームの頂上部には尖った尖塔形式の構造物で装飾した。",
+    "QA": [
+        {
+            "question": "この施設はいつ建てられましたか？",
+            "answer": "この施設は1923年に建てられました。"
+        },
+        {
+            "question": "この施設は何のために建てられましたか？",
+            "answer": "この施設は清州東部排水池の水質検査のために建てられました。"
+        },
+        {
+            "question": "この施設はどのような形状ですか？",
+            "answer": "この施設は鐘塔形式のコンクリート構造物です。"
+        },
+        {
+            "question": "施設の出入口には何が装飾されていますか？",
+            "answer": "施設の出入口には花崗岩が装飾されています。"
+        },
+        {
+            "question": "何のために鉄門が設置されていましたか？",
+            "answer": "鉄門は出入りを取り締まるために設置されました。"
+        },
+        {
+            "question": "施設の外観にはどのような装飾がされていますか？",
+            "answer": "施設の外観には六角形の角柱や輪帯が装飾されています。"
+        },
+        {
+            "question": "施設の頂上部には何が装飾されていますか？",
+            "answer": "施設の頂上部には尖った尖塔形式の構造物が装飾されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 162,
+        "QA": 221
+    }
+}

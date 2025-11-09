@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001912",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/mum-aroy",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "Mum Aroy"
+    },
+    "text": "Mum Aroy\\n\nソウル特別市 麻浦区 臥牛山路11キル 9-7\\n\nMum Aroyは伝統タイ料理が味わえる店で、タイの伝統スープであるトムヤンクンを始め、タイ焼きそばであるパッタイ、代表メニューであるトーマンクンなど、様々なメニューが楽しめなす。",
+    "QA": [
+        {
+            "question": "Mum Aroyはどのような場所にありますか？",
+            "answer": "Mum Aroyはソウル特別市の麻浦区に位置しています。具体的な住所は臥牛山路11キル 9-7です。"
+        },
+        {
+            "question": "Mum Aroyで味わえる料理はどのようなものですか？",
+            "answer": "Mum Aroyでは伝統的なタイ料理が楽しめます。代表的なメニューにはトムヤンクンやパッタイ、トーマンクンなどがあります。"
+        },
+        {
+            "question": "Mum Aroyはどのような雰囲気の店ですか？",
+            "answer": "Mum Aroyは伝統的なタイ料理を提供する店です。雰囲気はアットホームで、居心地の良い空間です。"
+        },
+        {
+            "question": "Mum Aroyの代表メニューは何ですか？",
+            "answer": "Mum Aroyの代表メニューはトーマンクンです。これはタイの伝統的なスープで、様々な具材が入っています。ぜひ一度お試しください。"
+        },
+        {
+            "question": "Mum Aroyで食べることができるタイの伝統スープは何ですか？",
+            "answer": "Mum Aroyで食べることができるタイの伝統スープはトムヤンクンです。これは酸味と辛味が特徴で、海鮮や野菜がたっぷり入っています。"
+        }
+    ],
+    "word_Count": {
+        "text": 93,
+        "QA": 305
+    }
+}

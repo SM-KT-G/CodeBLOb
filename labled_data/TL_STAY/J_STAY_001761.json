@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_001761",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42020&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "통영 지앤파크펜션"
+    },
+    "text": "G&Parkペンションへようこそ。 当ペンションは青い海が広がる統営海の前裾に位置しております。 ここでは美しい清浄自然とともにヒーリングする時間を過ごすことができ、人々と一緒に明るく笑うことができる空間を提供しています。 当ペンションでは幸せで特別な時間を過ごせるように努力しています。 ただし、22時以降はフロントに人がいませんので、到着した場合はお電話ください。 お疲れ様でした。",
+    "QA": [
+        {
+            "question": "G&Parkペンションの場所はどこですか？",
+            "answer": "G&Parkペンションは統営海の前裾に位置しています。"
+        },
+        {
+            "question": "G&Parkペンションの特徴は何ですか？",
+            "answer": "G&Parkペンションでは美しい清浄自然とともにヒーリングする時間を過ごすことができます。また、明るく笑うことができる空間を提供しています。"
+        },
+        {
+            "question": "G&Parkペンションでは何を提供していますか？",
+            "answer": "G&Parkペンションでは幸せで特別な時間を過ごせるように努力しています。"
+        },
+        {
+            "question": "G&Parkペンションのフロントの営業時間は何時までですか？",
+            "answer": "G&Parkペンションのフロントの営業時間は22時までです。ただし、22時以降はフロントに人がいませんので、到着した場合はお電話ください。"
+        }
+    ],
+    "word_Count": {
+        "text": 141,
+        "QA": 218
+    }
+}

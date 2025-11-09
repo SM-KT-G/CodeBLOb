@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_020661",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-05",
+        "domain": "음식점",
+        "title": "明洞無等山精肉食堂 ( 명동무등산정육식당 )"
+    },
+    "text": "明洞無等山精肉食堂 ( 명동무등산정육식당 )\\n\nソウル特別市 中区 ミョンドン8ギル27\\n\n夜は牛肉の名店ですが、ランチ特選として食事を提供しています。おすすめは味付けカルビです。ソウル特別市のチュン区に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "明洞無等山精肉食堂はどのエリアに位置していますか？",
+            "answer": "ソウル特別市のチュン区に位置しています。"
+        },
+        {
+            "question": "明洞無等山精肉食堂はどのような料理を提供していますか？",
+            "answer": "夜は牛肉の名店ですが、ランチ特選として食事を提供しています。おすすめは味付けカルビです。"
+        },
+        {
+            "question": "明洞無等山精肉食堂の住所は何ですか？",
+            "answer": "ソウル特別市 中区 ミョンドン8ギル27"
+        }
+    ],
+    "word_Count": {
+        "text": 85,
+        "QA": 112
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_055401",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/daepo-jjimdak",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "デポチムダル"
+    },
+    "text": "デポチムダル\\n\nソウル特別市 ジョンノ区 デハクロ9ギル 18, 1階\\n\nこの店はソウル特別市のテハンノに位置した韓食専門店です。代表的なメニューはチムダクです。大学生に人気のお店です。",
+    "QA": [
+        {
+            "question": "この店はどこに位置していますか？",
+            "answer": "デポチムダルはソウル特別市のジョンノ区に位置しています。具体的な場所はデハクロ9ギル18番地の1階です。"
+        },
+        {
+            "question": "この店の代表的なメニューは何ですか？",
+            "answer": "デポチムダルの代表的なメニューはチムダクです。"
+        },
+        {
+            "question": "どのようなお店ですか？",
+            "answer": "デポチムダルは韓食専門店で、ソウル特別市のテハンノに位置しています。大学生にも人気のあるお店です。"
+        }
+    ],
+    "word_Count": {
+        "text": 69,
+        "QA": 123
+    }
+}

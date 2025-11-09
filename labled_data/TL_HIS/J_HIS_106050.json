@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_106050",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/view?relicId=35834099",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2023-10-11",
+        "domain": "문화/역사관광",
+        "title": "청동 거울"
+    },
+    "text": "青銅鏡 (청동 거울)\\n\n松村因幡守の字が青銅製の鏡に刻まれています。この鏡の国籍や時代は正確にはわかっていませんが、日本のものとされています。直径は15.4cmで厚さは0.4cmです。この鏡は主に生活用品として使われています。",
+    "QA": [
+        {
+            "question": "この青銅鏡は何に使われていましたか？",
+            "answer": "この青銅鏡は主に生活用品として使われていました。"
+        },
+        {
+            "question": "青銅鏡の直径と厚さはそれぞれどのくらいですか？",
+            "answer": "青銅鏡の直径は15.4cmで厚さは0.4cmです。"
+        },
+        {
+            "question": "青銅鏡に刻まれている文字は誰のものですか？",
+            "answer": "青銅鏡には松村因幡守の字が刻まれています。"
+        }
+    ],
+    "word_Count": {
+        "text": 84,
+        "QA": 96
+    }
+}

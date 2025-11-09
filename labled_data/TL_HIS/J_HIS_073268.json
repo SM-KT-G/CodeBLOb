@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_073268",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=361&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=18&ccbaAsno=02790000&ccbaCtcd=37&ccbaCpno=1483702790000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2013-12-12",
+        "domain": "문화/역사관광",
+        "title": "봉화 만산고택"
+    },
+    "text": "烽火 マンサン・ゴテク\\n\n慶尚北道奉化郡西洞キル21-19(春陽面、ジャン·ジャン)\\n\n朝鮮時代の高宗(1878年)、国家民俗文化財、朝鮮後期満山剛勇(1846~1934)が1878年に建設した家屋で側面の出入り型ㅁジャ形の母屋と書道、離れ、門屋など、士大夫が、上流住宅の構成をすべて備えて慶尚北道北東部の地域的建築特性をよく示している。晩山(晩山)看板は、興宣大院君が直筆で下士官で、書斎軒下にあるハンムクチョンヨン(翰墨淸緣)扁額は英親王が8歳の時書いた文章で王室との密接な関係を示している。別棟チルリュホンは英親王をはじめ、朝鮮末期の多くの文人たちと学問を交流していた場所として活用され、11間の門屋規模などからして、当時、社会・経済上をよく反映していて、住居民俗など、伝統的な住生活文化がよく保全されている。",
+    "QA": [
+        {
+            "question": "この建物はいつ建てられましたか？",
+            "answer": "この建物は1878年に建てられました。"
+        },
+        {
+            "question": "この建物はどのような構造をしていますか？",
+            "answer": "この建物は側面の出入り型ㅁジャ形の母屋と書道、離れ、門屋など、士大夫が、上流住宅の構成をすべて備えています。"
+        },
+        {
+            "question": "この建物には何が展示されていますか？",
+            "answer": "この建物には晩山(晩山)看板やハンムクチョンヨン(翰墨淸緣)扁額が展示されています。"
+        },
+        {
+            "question": "この建物はどのような関係がある王室との関係がありますか？",
+            "answer": "この建物にはハンムクチョンヨン(翰墨淸緣)扁額があり、英親王が8歳の時に書いた文章で王室との密接な関係を示しています。"
+        },
+        {
+            "question": "この建物はどのような役割を果たしていましたか？",
+            "answer": "この建物の別棟チルリュホンは朝鮮末期の多くの文人たちと学問を交流していた場所として活用されていました。"
+        }
+    ],
+    "word_Count": {
+        "text": 264,
+        "QA": 242
+    }
+}

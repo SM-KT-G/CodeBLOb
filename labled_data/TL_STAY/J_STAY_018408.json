@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_018408",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42021&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "부산역 모나코"
+    },
+    "text": "客室入室基準によって追加人数は当日現地にて追加料金をお支払いいただく必要があります。 オンシーズン、特定日、祝日は料金が変動する場合があります。 入室の際には身分証明書の確認が必要であり、未成年者は入室が制限されます。 案内室で親切にお答えします。",
+    "QA": [
+        {
+            "question": "宿泊の追加人数について教えてください。",
+            "answer": "宿泊の追加人数は当日現地にて追加料金をお支払いいただく必要があります。"
+        },
+        {
+            "question": "オンシーズンや特定の日、祝日の料金は変動するのですか？",
+            "answer": "はい、オンシーズンや特定の日、祝日によって料金が変動する場合があります。"
+        },
+        {
+            "question": "入室の際に身分証明書の確認が必要なのですか？",
+            "answer": "はい、入室の際には身分証明書の確認が必要です。"
+        },
+        {
+            "question": "未成年者は入室が制限されるのですか？",
+            "answer": "はい、未成年者の場合、入室が制限されることがあります。"
+        },
+        {
+            "question": "どこで案内してもらえますか？",
+            "answer": "案内所で親切にお答えします。"
+        }
+    ],
+    "word_Count": {
+        "text": 90,
+        "QA": 172
+    }
+}

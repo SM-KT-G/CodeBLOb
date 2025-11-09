@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_020754",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=998&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=00500000&ccbaCtcd=25&ccbaCpno=3412500500000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2002-08-23",
+        "domain": "문화/역사관광",
+        "title": "삼성초등학교구교사"
+    },
+    "text": "三成小学校旧校舎 (삼성초등학교구교사)\\n\n大田東区三成洞113-1番地\\n\n1936 , 大田広域市文化財資料 , 2階建ての赤レンガ造りの建物で、日帝が1911年8月「朝鮮教育令」を発表した後、大田に初めてできた初等学校だ。 京釜線鉄道敷設工事によって日本人の移住が多く、日本人児童を教育する小学校の必要性によって建設された。 当時、ガラスを多く使用していた傾向に合わせて前·背面をはじめとする両側面にガラス窓を多く入れ、玄関は忠清南道庁のように貴賓乗用車が玄関入口に車を止められるようにした。 立面には円形窓を設置、内部採光を導入すると同時に周辺の長方形垂直窓と対照を成すようにすることで美的な側面に配慮したものと見られる。",
+    "QA": [
+        {
+            "question": "この学校の建物はいつ建てられましたか？",
+            "answer": "この学校の建物は1936年に建てられました。"
+        },
+        {
+            "question": "なぜこの学校が建設されたのですか？",
+            "answer": "この学校は、京釜線鉄道敷設工事によって日本人の移住が多くなったため、日本人児童を教育するために建設されました。"
+        },
+        {
+            "question": "この学校の建物はどのような特徴がありますか？",
+            "answer": "この学校の建物は2階建ての赤レンガ造りで、前・背面など両側面にガラス窓が多くあります。また、立面には円形窓が設置され、美的な側面にも配慮されています。"
+        },
+        {
+            "question": "この学校の周辺にはどのような施設がありますか？",
+            "answer": "この学校の周辺には、大田広域市文化財資料や忠清南道庁などがあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 231,
+        "QA": 195
+    }
+}

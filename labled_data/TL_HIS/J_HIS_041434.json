@@ -1,0 +1,51 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_041434",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2023-03-10",
+        "domain": "문화/역사관광",
+        "title": "La veniche広場（라베니체광장）"
+    },
+    "text": "La veniche広場（라베니체광장）\\n\nキョンギ道キンポ市テジャンロ810\\n\n金浦（キンポ）漢江（ハンガン）新都市の開発と共に整備された漢江中央公園は、水辺散策路のクムピッ水路とLa veniche商店街に至るまでの素敵な散策路へつながります。総延長2.68キロメートルの散策路につながるクムピッ水路のLa venicheは、南端から北端にいたるまで多様な風景が広がります。水の街・ヴェニスをモチーフに整備したといわれているLa venicheは、往復1.7キロメートルの水辺に多様なショップが軒を連ねています。セントラルプラザの中央広場を中心として水辺の左右に生活雑貨店、レストラン、ビアホールなどと軽い散歩を終えてからショッピングと共に癒しの時間も楽しめるスポットになっています。",
+    "QA": [
+        {
+            "question": "ヴェニス広場はどこにありますか？",
+            "answer": "ヴェニス広場はキョンギ道キンポ市テジャンロ810にあります。"
+        },
+        {
+            "question": "ヴェニス広場からどこに続く散策路がありますか？",
+            "answer": "ヴェニス広場からはクムピッ水路のLa veniche商店街までつながる素敵な散策路があります。"
+        },
+        {
+            "question": "La veniche商店街の長さは何キロメートルですか？",
+            "answer": "La veniche商店街の長さは2.68キロメートルです。"
+        },
+        {
+            "question": "La veniche商店街はどのような風景が広がっていますか？",
+            "answer": "La veniche商店街では南端から北端まで多様な風景が広がっています。"
+        },
+        {
+            "question": "La veniche商店街にはどんな種類のショップがありますか？",
+            "answer": "La veniche商店街には多様なショップがあります。"
+        },
+        {
+            "question": "La veniche商店街周辺にはどんな施設がありますか？",
+            "answer": "La veniche商店街周辺には生活雑貨店、レストラン、ビアホールなどがあります。"
+        },
+        {
+            "question": "La veniche商店街はどんなスポットですか？",
+            "answer": "La veniche商店街はショッピングと共に癒しの時間も楽しめるスポットです。"
+        }
+    ],
+    "word_Count": {
+        "text": 253,
+        "QA": 321
+    }
+}

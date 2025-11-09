@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_004298",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://apis.data.go.kr/1400000/service/cultureInfoService2/mntInfoOpenAPI2",
+        "collectedDate": "2023-11-22",
+        "publishedDate": "2020-12-01",
+        "domain": "자연관광",
+        "title": "가야산"
+    },
+    "text": "伽耶山 (가야산)\\n\n全羅南道羅州市雲谷洞\\n\n山の高さ : 190.5m , 伽耶山は羅州市伽倻洞の栄山江沿いにピラミッドの形で美しくそびえる山だ。 低い山勢だが、足元のすぐ栄山江を挟んでおり、羅州平野全体を眺めることができる。 特に北麓に危険にさらされている仰岩は、川とともに調和し、優れた景観を誇る。",
+    "QA": [
+        {
+            "question": "伽耶山はどこに位置していますか？",
+            "answer": "伽耶山は全羅南道羅州市雲谷洞に位置しています。"
+        },
+        {
+            "question": "伽耶山の高さは何メートルですか？",
+            "answer": "伽耶山の高さは190.5mです。"
+        },
+        {
+            "question": "伽耶山から何が見えますか？",
+            "answer": "伽耶山からは羅州平野全体が見えます。"
+        },
+        {
+            "question": "伽耶山の特徴は何ですか？",
+            "answer": "伽耶山はピラミッドの形をしており、栄山江と調和した美しい景観を持っています。"
+        },
+        {
+            "question": "仰岩はどこにありますか？",
+            "answer": "仰岩は伽耶山の北麓に位置しています。"
+        },
+        {
+            "question": "仰岩はどのような景観を誇っていますか？",
+            "answer": "仰岩は川とともに調和し、優れた景観を誇っています。"
+        }
+    ],
+    "word_Count": {
+        "text": 112,
+        "QA": 165
+    }
+}

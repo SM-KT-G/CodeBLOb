@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_003932",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42091&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "울산 스톰윈드펜션"
+    },
+    "text": "こんにちは、オーシャンビューのルームとリビングルームを持っており、メゾネットタイプになっている50坪台の一軒家ペンションです。 22時以降に入室される場合、ペンションまで予めご連絡ください。 チェックアウトの際はメッセージをお願いします。",
+    "QA": [
+        {
+            "question": "このペンションの部屋はどのような特徴がありますか？",
+            "answer": "オーシャンビューのルームとリビングルームを持つメゾネットタイプの50坪台の一軒家ペンションです。"
+        },
+        {
+            "question": "ペンションへの入室時間について教えてください。",
+            "answer": "22時以降に入室される場合は事前にご連絡ください。"
+        },
+        {
+            "question": "チェックアウトの際はどのように連絡すればよいですか？",
+            "answer": "チェックアウトの際はメッセージをお願いします。"
+        }
+    ],
+    "word_Count": {
+        "text": 87,
+        "QA": 124
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_089666",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/collectionList#######",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2023-10-11",
+        "domain": "문화/역사관광",
+        "title": "에도시대 화폐"
+    },
+    "text": "江戸時代の貨幣 (에도시대 화폐)\\n\n江戸時代には「一分銀」という銀貨が10点流通していました。これらの銀貨は片面に「一分銀」と刻まれ、もう一方の面には「定」という文字とともに「銀座常是」と刻まれています。ただし、「定」という文字のみが凹凸で表現され、他の文字は凸で表現されています。さらに、これらの銀貨は四角形であり、縁の部分には美しい花柄が彫られています。この銀貨の大きさは縦2.3cm、横1.5cmです。",
+    "QA": [
+        {
+            "question": "江戸時代に使用されていた銀貨の名称は何ですか？",
+            "answer": "一分銀"
+        },
+        {
+            "question": "一分銀の大きさは何ですか？",
+            "answer": "縦2.3cm、横1.5cm"
+        },
+        {
+            "question": "一分銀の片面に刻まれている文字は何ですか？",
+            "answer": "「一分銀」"
+        },
+        {
+            "question": "一分銀の縁の部分には何が彫られていますか？",
+            "answer": "美しい花柄"
+        },
+        {
+            "question": "一分銀のもう一方の面に刻まれている文字は何ですか？",
+            "answer": "「定」と「銀座常是」"
+        }
+    ],
+    "word_Count": {
+        "text": 151,
+        "QA": 101
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_002004",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "PhoDUCK（포덕）"
+    },
+    "text": "PhoDUCK（포덕）\\n\nソウル特別市 中区 明洞10キル 7\\n\nソウル特別市ミョンドン駅の近くに位置した韓食専門店です。代表的なメニューは霜降り韓牛ロースです。豚肉、鴨肉、牛肉をすべてご用意しております。",
+    "QA": [
+        {
+            "question": "このレストランの名前は何ですか？",
+            "answer": "PhoDUCK（포덕）です。"
+        },
+        {
+            "question": "このレストランはどこに位置していますか？",
+            "answer": "ソウル特別市 中区 明洞10キル 7に位置しています。"
+        },
+        {
+            "question": "このレストランの特徴的なメニューは何ですか？",
+            "answer": "霜降り韓牛ロースが代表的なメニューです。"
+        },
+        {
+            "question": "このレストランではどのような肉料理を提供していますか？",
+            "answer": "豚肉、鴨肉、牛肉をすべてご用意しております。"
+        },
+        {
+            "question": "このレストランは韓国料理専門店ですか？",
+            "answer": "はい、韓食専門店です。"
+        },
+        {
+            "question": "このレストランはソウル特別市ミョンドン駅の近くに位置していますか？",
+            "answer": "はい、ソウル特別市ミョンドン駅の近くに位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 77,
+        "QA": 189
+    }
+}

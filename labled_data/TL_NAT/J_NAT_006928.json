@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_006928",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=311&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=16&ccbaAsno=04130000&ccbaCtcd=32&ccbaCpno=1363204130000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2000-03-16",
+        "domain": "자연관광",
+        "title": "영월 문곡리 건열구조 및 스트로마톨라이트"
+    },
+    "text": "寧越文谷里乾熱構造及びストロマトライト (영월 문곡리 건열구조 및 스트로마톨라이트)\\n\n江原道寧越郡北面文谷里山3番地など\\n\n古生代 , チョニョンギニョンムル , 江原道寧越郡文谷里の延徳川沿いの絶壁にある乾熱構造およびストロマトライトは約4~5億年前にできたオルドビス紀下部古生代地層に形成されている。 乾熱構造は浅い水の下に積もった堆積物が水の上に出て乾く時、堆積物が減ったり縮んだりしてできた隙間がそのまま固まって形成された地質構造であり、これはこの地域が過去に水面下にあったことを知らせる貴重な学術資料になる。 ストロマトライト(stromatolite)は地球上に出現した最初の生物の一つである単細胞原始微生物の上に小さな堆積物の粒が幾重にも積もって形成された堆積構造で、韓国では非常にまれに発見される珍しい地質資料だ。 寧越文谷里の建熱構造およびストロマトライトは当時の堆積環境をよく示しており、学術的保存価値が非常に大きい。",
+    "QA": [
+        {
+            "question": "この乾熱構造とストロマトライトはどの時代にできましたか？",
+            "answer": "約4~5億年前にできました。"
+        },
+        {
+            "question": "乾熱構造とはどのような地質構造ですか？",
+            "answer": "乾熱構造は浅い水の下に積もった堆積物が水の上に出て乾く時、堆積物が減ったり縮んだりしてできた隙間がそのまま固まって形成された地質構造です。"
+        },
+        {
+            "question": "ストロマトライトとは何ですか？",
+            "answer": "ストロマトライトは地球上に出現した最初の生物の一つである単細胞原始微生物の上に小さな堆積物の粒が幾重にも積もって形成された堆積構造です。"
+        },
+        {
+            "question": "この乾熱構造とストロマトライトはどのような学術的価値がありますか？",
+            "answer": "寧越文谷里の建熱構造およびストロマトライトは当時の堆積環境をよく示しており、学術的保存価値が非常に大きいです。"
+        }
+    ],
+    "word_Count": {
+        "text": 310,
+        "QA": 220
+    }
+}

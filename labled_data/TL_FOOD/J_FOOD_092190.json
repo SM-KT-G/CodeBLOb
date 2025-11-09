@@ -1,0 +1,31 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_092190",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2022-11-24",
+        "domain": "음식점",
+        "title": "용지봉"
+    },
+    "text": "慶尚北道が認証し、嶺南大学と慶尚北道畜協が共同開発したチャンプム韓牛を提供しており、特に郷土韓定食とチャンプム韓牛をコース料理を選択する場合、さらに優れた味を感じることができる。",
+    "QA": [
+        {
+            "question": "チャンプム韓牛はどこで提供されていますか？",
+            "answer": "慶尚北道が認証し、嶺南大学と慶尚北道畜協が共同開発したチャンプム韓牛は、慶尚北道内で提供されています。"
+        },
+        {
+            "question": "チャンプム韓牛をコース料理で選択すると、どのような特別な味を感じることができますか？",
+            "answer": "郷土韓定食とチャンプム韓牛をコース料理を選択すると、さらに優れた味を感じることができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 65,
+        "QA": 116
+    }
+}

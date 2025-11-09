@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_010212",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=881&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=01820000&ccbaCtcd=34&ccbaCpno=2333401820000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2010-12-30",
+        "domain": "자연관광",
+        "title": "부여 정흥인의 묘"
+    },
+    "text": "扶余·鄭興仁の墓 (부여 정흥인의 묘)\\n\n忠清南道扶余郡陵安路7番キル20(扶余邑)\\n\n忠清南道記念物 , 朝鮮初期の文臣、鄭仁智（チョン·インジ、1396-1478）の父親、鄭興仁（チョン·フンイン）の墓だ。 墳丘周辺に護石を設置した形式で、護石はよく整えられた板石を80cmの高さに八角で囲んだ形だ。 墳墓周辺の石像は長方形の板石を2枚東西に配置し、他の上石より比較的大きな規模だ。 護石をはじめ、使用された石材はすべて百済時代に使用していた建築資材を再利用したものと見られる。 特に四角の長台石に門柱が立っていた四角形の浅い溝が左右に掘られている。",
+    "QA": [
+        {
+            "question": "この墓は誰のものですか？",
+            "answer": "鄭興仁（チョン·フンイン）の墓です。"
+        },
+        {
+            "question": "この墓はどこにありますか？",
+            "answer": "扶余郡陵安路7番キル20（扶余邑）にあります。"
+        },
+        {
+            "question": "この墓は何のためのものですか？",
+            "answer": "朝鮮初期の文臣、鄭仁智（チョン·インジ）の父親である鄭興仁（チョン·フンイン）の墓です。"
+        },
+        {
+            "question": "この墓の周りにある石像は何ですか？",
+            "answer": "墳墓周辺の石像は鄭興仁の墓の護石で、長方形の板石を2枚東西に配置したものです。"
+        },
+        {
+            "question": "この墓の石材は何に使われていたものですか？",
+            "answer": "使用された石材はすべて百済時代に使用していた建築資材を再利用したものと見られます。"
+        },
+        {
+            "question": "この墓にはどんな特徴がありますか？",
+            "answer": "墳丘周辺には護石が設置され、護石はよく整えられた板石を八角形に囲んだ形をしています。また、四角の長台石に門柱が立っていた四角形の浅い溝もあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 205,
+        "QA": 244
+    }
+}

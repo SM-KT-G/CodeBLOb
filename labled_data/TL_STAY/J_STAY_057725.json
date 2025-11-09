@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_057725",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/goods/GN0002021985?startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0%5E&npprmaxsort=min",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "인천(선재도) 버킹검"
+    },
+    "text": "お越しの住所はインチョン広域市オンジン郡ヨンフン面ソンジェ路186番キル83で、ここにはソンジェ島バッキングブラック未成年者の利用が制限されます。 入室の際には身分証明書を確認する必要がありますので、ご了承ください。",
+    "QA": [
+        {
+            "question": "この場所の正確な住所はどこですか？",
+            "answer": "インチョン広域市オンジン郡ヨンフン面ソンジェ路186番キル83です。"
+        },
+        {
+            "question": "この場所では何が制限されますか？",
+            "answer": "ソンジェ島バッキングブラック未成年者の利用が制限されます。"
+        },
+        {
+            "question": "入室の際に必要なものは何ですか？",
+            "answer": "身分証明書が必要です。"
+        },
+        {
+            "question": "この場所はどのような制限があるのですか？",
+            "answer": "未成年者の利用が制限されています。"
+        },
+        {
+            "question": "この場所での入室時の手続きについて教えてください。",
+            "answer": "入室の際には身分証明書を確認する必要があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 79,
+        "QA": 153
+    }
+}

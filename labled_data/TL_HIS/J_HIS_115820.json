@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_115820",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1011&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=00640000&ccbaCtcd=36&ccbaCpno=3413600640000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1984-02-29",
+        "domain": "문화/역사관광",
+        "title": "최경회사당"
+    },
+    "text": "最経会社党\\n\n全羅南道和順郡和順邑多治里206-2番地\\n\n全羅南道文化財資料、壬辰倭乱当時の第2次晋州城の戦いで活躍したチェギョンフェ(1532~1593)将軍の位牌を祭った祠である。朝鮮純祖(スンジョ)の時に立てたこの祠堂は最初にヌンジュモク、冬眠クムチョンリに立てたが、1963年金銭貯水池築造に今ある地位に移して立てた。チェギョンフェ将軍は壬辰倭乱の時、義兵将として全羅南道ヌンジュで生まれた。明宗16年(1561)生員市に合格し、1567年には科挙に及第した。壬辰倭乱が起きると、義兵を募集して日本軍を枚数で阻止して戦い、錦山(クムサン)から退却する敵を攻撃し、撃破した。先祖26年(1593)6月倭軍が晋州城を再び攻撃すると、創意会社キムチョンイルなどとともに晋州城を守ったが、9日ぶりに陥落して南江(ナムカン)に飛び降り自殺した。諡号は忠義(忠毅)だ。建物は前面3間・側面2間規模であり、屋根は側面から見ると、人の教わる字形の切妻屋根で飾った。",
+    "QA": [
+        {
+            "question": "祠堂はいつ建てられましたか？",
+            "answer": "祠堂は朝鮮純祖(スンジョ)の時に建てられました。"
+        },
+        {
+            "question": "チェギョンフェ将軍はどのような功績を持っていますか？",
+            "answer": "チェギョンフェ将軍は壬辰倭乱の時に義兵将として活躍し、晋州城を守る戦いで勇敢な戦いを見せました。"
+        },
+        {
+            "question": "チェギョンフェ将軍は何歳で生員市に合格しましたか？",
+            "answer": "チェギョンフェ将軍は明宗16年(1561)に生員市に合格しました。"
+        },
+        {
+            "question": "チェギョンフェ将軍の諡号は何ですか？",
+            "answer": "チェギョンフェ将軍の諡号は忠義(忠毅)です。"
+        },
+        {
+            "question": "晋州城を守る際、チェギョンフェ将軍は誰とともに戦いましたか？",
+            "answer": "晋州城を守る際、チェギョンフェ将軍は創意会社キムチョンイルなどとともに戦いました。"
+        }
+    ],
+    "word_Count": {
+        "text": 315,
+        "QA": 206
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_002094",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-06",
+        "domain": "음식점",
+        "title": "Star Chef ( 스타쉐프 )"
+    },
+    "text": "Star Chef ( 스타쉐프 )\\n\nソウル特別市 江南区 ノンヒョンロ38ギル38-6\\n\n東洋と西洋のフュージョン料理が楽しめる店です。おすすめはステーキです。ソウル特別市のガンナム区に位置した中華専門店です。",
+    "QA": [
+        {
+            "question": "スターシェフはどこにありますか？",
+            "answer": "スターシェフはソウル特別市江南区ノンヒョンロ38ギル38-6にあります。"
+        },
+        {
+            "question": "スターシェフではどのような料理が楽しめますか？",
+            "answer": "スターシェフでは東洋と西洋のフュージョン料理が楽しめます。特におすすめはステーキです。"
+        },
+        {
+            "question": "スターシェフの特徴は何ですか？",
+            "answer": "スターシェフはソウル特別市のガンナム区に位置している中華専門店です。"
+        }
+    ],
+    "word_Count": {
+        "text": 79,
+        "QA": 122
+    }
+}

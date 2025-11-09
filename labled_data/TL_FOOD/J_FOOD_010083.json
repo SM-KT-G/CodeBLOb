@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_010083",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-06",
+        "domain": "음식점",
+        "title": "チョンパマンション ( 청파맨션 )"
+    },
+    "text": "チョンパマンション ( 청파맨션 )\\n\nソウル特別市 龍山区 チョンパロ47ナギル20\\n\n専門バリスタが焙煎したコーヒーが味わえます。ソウル特別市のヨンサン区に位置したカフェ（コーヒーショップ）です。おすすめはアメリカーノです。",
+    "QA": [
+        {
+            "question": "このカフェの名称は何ですか？",
+            "answer": "チョンパマンション（청파맨션）です。"
+        },
+        {
+            "question": "このカフェの所在地はどこですか？",
+            "answer": "ソウル特別市 龍山区 チョンパロ47ナギル20に位置しています。"
+        },
+        {
+            "question": "バリスタは何を焙煎していますか？",
+            "answer": "専門バリスタがコーヒーを焙煎しています。"
+        },
+        {
+            "question": "このカフェはどんな種類のカフェですか？",
+            "answer": "カフェ（コーヒーショップ）です。"
+        },
+        {
+            "question": "おすすめのメニューは何ですか？",
+            "answer": "アメリカーノがおすすめです。"
+        }
+    ],
+    "word_Count": {
+        "text": 85,
+        "QA": 132
+    }
+}

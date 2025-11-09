@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_053042",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/goods/GN0002158926?startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0%5E&npprmaxsort=min",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "대부도(영흥도) 토브펜션"
+    },
+    "text": "こんにちは。デブ島(ヨンフンド)のトブペンションです。 ご連絡するのは主任を担当しているチョンジュンです。 ペンションに入室する際は15時以降にお越しください。 ただし、21時以降に入室される方は予めご連絡ください。 退室は必ず11時にしなければなりません。 この時間を正確に守ってください。 入室時間と退室時間についてのみお話しします。",
+    "QA": [
+        {
+            "question": "入室時間は何時からですか？",
+            "answer": "15時以降にお越しください。"
+        },
+        {
+            "question": "21時以降に入室する場合はどうすればいいですか？",
+            "answer": "予めご連絡ください。"
+        },
+        {
+            "question": "退室時間は何時ですか？",
+            "answer": "必ず11時に退室してください。"
+        },
+        {
+            "question": "入室時間と退室時間以外のことは話すことはありますか？",
+            "answer": "今回は入室時間と退室時間についてのみお話しします。"
+        }
+    ],
+    "word_Count": {
+        "text": 123,
+        "QA": 101
+    }
+}

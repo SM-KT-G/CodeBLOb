@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_015058",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-03",
+        "domain": "숙박",
+        "title": "ドラゴンバレーホテル（드래곤 밸리 호텔）"
+    },
+    "text": "ドラゴンバレーホテル（드래곤 밸리 호텔）\\n\n江原道 平昌郡 大関嶺面 オリンピック路715\\n\n品格あるレベルの高いサービスを誇る「ドラゴンバレーホテル」は、龍平リゾートの全景を見渡せる洋室・韓室（オンドル）などさまざまなタイプの客室を備えています。",
+    "QA": [
+        {
+            "question": "ドラゴンバレーホテルの場所はどこですか？",
+            "answer": "ドラゴンバレーホテルは江原道平昌郡大関嶺面オリンピック路715にあります。"
+        },
+        {
+            "question": "ドラゴンバレーホテルはどんなサービスを提供していますか？",
+            "answer": "ドラゴンバレーホテルは品格あるレベルの高いサービスを提供しており、洋室や韓室（オンドル）など様々なタイプの客室があります。"
+        },
+        {
+            "question": "ドラゴンバレーホテルからは何が見えますか？",
+            "answer": "ドラゴンバレーホテルからは、龍平リゾートの全景が見えます。"
+        }
+    ],
+    "word_Count": {
+        "text": 93,
+        "QA": 143
+    }
+}

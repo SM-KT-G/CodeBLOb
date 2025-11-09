@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_108436",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/view?relicId=24879",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2023-10-11",
+        "domain": "문화/역사관광",
+        "title": "청자 뚜껑 조각"
+    },
+    "text": "青磁蓋切れ (청자 뚜껑 조각)\\n\n国籍/時代：韓国（高麗時代） 材質：陶磁器（青磁） 分類：食生活 - 飲食 - 犬 大きさ：現在の高さ45cm、現在の幅85cm、現在の高さ42cm、現在の幅77cm 修正案： この作品は韓国高麗時代の青磁陶磁器で作られており、食生活における犬をテーマとしたものです。作品の現在の高さは45cmで、幅は85cmであり、またもう一つの作品の現在の高さは42cmで、幅は77cmです。",
+    "QA": [
+        {
+            "question": "この作品は何時代のものですか？",
+            "answer": "この作品は韓国高麗時代の青磁陶磁器で作られております。"
+        },
+        {
+            "question": "この作品の材質は何ですか？",
+            "answer": "この作品は陶磁器（青磁）でできております。"
+        },
+        {
+            "question": "この作品のテーマは何ですか？",
+            "answer": "この作品のテーマは食生活における犬です。"
+        },
+        {
+            "question": "この作品の現在の大きさは何ですか？",
+            "answer": "この作品の現在の高さは45cmで、幅は85cmであり、またもう一つの作品の現在の高さは42cmで、幅は77cmです。"
+        }
+    ],
+    "word_Count": {
+        "text": 153,
+        "QA": 135
+    }
+}

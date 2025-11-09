@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_007686",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-12",
+        "domain": "음식점",
+        "title": "ジャント 下塘 ( 장터 하당 )"
+    },
+    "text": "ジャント 下塘 \\n\n全羅南道 モクポ市 トンイルデロ75ボンギル25\\n\nカニ料理専門店で、様々なカニ料理が味わえる店です。代表的なメニューはワタリガニ鍋です。全羅南道のモクポ市に位置した韓国料理店です。",
+    "QA": [
+        {
+            "question": "このカニ料理専門店の名前は何ですか？",
+            "answer": "ジャント 下塘"
+        },
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "全羅南道 モクポ市 トンイルデロ75ボンギル25"
+        },
+        {
+            "question": "この店ではどんなカニ料理が味わえますか？",
+            "answer": "様々なカニ料理が味わえます。代表的なメニューはワタリガニ鍋です。"
+        },
+        {
+            "question": "この店はどの地域に位置していますか？",
+            "answer": "全羅南道のモクポ市に位置しています。"
+        },
+        {
+            "question": "この店はどんな種類の料理を提供していますか？",
+            "answer": "この店は韓国料理を提供しています。特にカニ料理が得意です。"
+        }
+    ],
+    "word_Count": {
+        "text": 75,
+        "QA": 147
+    }
+}

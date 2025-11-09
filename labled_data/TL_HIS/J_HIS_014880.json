@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_014880",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=822&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=00660000&ccbaCtcd=34&ccbaCpno=2333400660000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1987-12-30",
+        "domain": "문화/역사관광",
+        "title": "예산호서은행본점"
+    },
+    "text": "礼山湖西銀行本店 (예산호서은행본점)\\n\n忠清南道礼山郡礼山邑社稷路2(礼山里)\\n\n忠清南道記念物 , 民族金融機関だった湖西銀行の本店建物だ。 忠清南道西北地域の交通および商業中心地に位置した湖西銀行は、朝鮮総督府が発足した後、さらに激しくなった日本の金融圧迫の中でも民間資本を形成するのに大きな役割を果たした民族系地方銀行だ。 2階建ての洋風建物で、重厚な趣と比例感がよく調和している。 1、2階の窓を一つに連結して近代的な感覚を生かし、出入口部分を突出させてその上の屋根を曲線で処理するなど前面を強調した。 1913年、地域の民間有志によって建設されたこの建物は、小さな規模でありながら堂々とした外観を備えている。",
+    "QA": [
+        {
+            "question": "礼山湖西銀行本店はどこにありますか？",
+            "answer": "礼山湖西銀行本店は忠清南道礼山郡礼山邑社稷路2にあります。"
+        },
+        {
+            "question": "湖西銀行は何のための金融機関でしたか？",
+            "answer": "湖西銀行は民族金融機関でした。"
+        },
+        {
+            "question": "湖西銀行はどのような役割を果たしましたか？",
+            "answer": "湖西銀行は朝鮮総督府が発足した後、日本の金融圧迫の中でも民間資本を形成するのに大きな役割を果たしました。"
+        },
+        {
+            "question": "湖西銀行の本店建物はどんな外観ですか？",
+            "answer": "湖西銀行の本店建物は2階建ての洋風建物で、重厚な趣と比例感がよく調和しています。"
+        },
+        {
+            "question": "湖西銀行の本店建物はいつ建設されましたか？",
+            "answer": "湖西銀行の本店建物は1913年に地域の民間有志によって建設されました。"
+        }
+    ],
+    "word_Count": {
+        "text": 228,
+        "QA": 197
+    }
+}

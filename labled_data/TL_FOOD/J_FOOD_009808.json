@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_009808",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-08-03",
+        "domain": "음식점",
+        "title": "チャクラ（챠크라）"
+    },
+    "text": "チャクラ（챠크라）\\n\nソウル特別市 龍山区 読書堂路83\\n\n「チャクラ（chakraa）」は全60席のインドの伝統料理専門店です。近くにはインド大使館をはじめとした大使館やUNビレッジがあります。",
+    "QA": [
+        {
+            "question": "チャクラはどこにありますか？",
+            "answer": "チャクラ（챠크라）はソウル特別市 龍山区 読書堂路83にあります。"
+        },
+        {
+            "question": "チャクラは何を提供していますか？",
+            "answer": "チャクラはインドの伝統料理を提供しています。"
+        },
+        {
+            "question": "チャクラの席数は何席ですか？",
+            "answer": "チャクラは全60席あります。"
+        },
+        {
+            "question": "チャクラの近くには何がありますか？",
+            "answer": "チャクラの近くにはインド大使館やUNビレッジなどがあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 73,
+        "QA": 117
+    }
+}

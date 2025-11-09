@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_020560",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=999&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=00500000&ccbaCtcd=37&ccbaCpno=3413700500000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1985-08-05",
+        "domain": "문화/역사관광",
+        "title": "삼가정"
+    },
+    "text": "三家政 (삼가정)\\n\n慶尚北道亀尾市海平面水流道32-19(イルソン里)\\n\n慶尚北道文化財資料 , 柳鳳市(1654~1709)が二人の息子の勉強のために安東市林東面渭洞に引っ越したが、二人の息子が共に学問に専念した甲斐があり、学徳と官職が世の中に知らされると、ここに書斎を建てて3本の木を植えて三家亭と言った。 朝鮮顕宗15年(1674)安東郡臨東面渭里に建てられたが、1922年には朴谷里に移したが、1987年臨河ダム建設で今ある場所に再び移した。",
+    "QA": [
+        {
+            "question": "三家政の場所はどこですか？",
+            "answer": "三家政の場所は慶尚北道亀尾市海平面水流道32-19(イルソン里)にあります。"
+        },
+        {
+            "question": "三家政の建てられた年代はいつですか？",
+            "answer": "三家政は朝鮮顕宗15年(1674)に安東郡臨東面渭里に建てられました。"
+        },
+        {
+            "question": "三家政は何のために建てられましたか？",
+            "answer": "三家政は柳鳳市(1654~1709)が二人の息子の学問のために建てられました。"
+        },
+        {
+            "question": "三家政の名前の由来は何ですか？",
+            "answer": "三家政の名前の由来は、学徳と官職が世の中に知らされたことから、書斎を建てて3本の木を植えて三家亭と名づけられたことに由来します。"
+        },
+        {
+            "question": "三家政は移動したことがありますか？",
+            "answer": "はい、三家政は1922年に朴谷里に移されましたが、1987年に臨河ダム建設のために今の場所に再び移されました。"
+        }
+    ],
+    "word_Count": {
+        "text": 167,
+        "QA": 228
+    }
+}

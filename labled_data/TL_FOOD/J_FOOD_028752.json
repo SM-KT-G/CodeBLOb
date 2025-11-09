@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_028752",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-01",
+        "domain": "음식점",
+        "title": "平壌面屋 ( 평양면옥 )"
+    },
+    "text": "平壌面屋 \n京畿道 平沢市 西井路 300\n30年以上の歴史を持つ、平壌冷麺の専門店で、この店だけの独特な味が楽しめるところです。 京畿道のピョンテク市に位置した冷麺専門店です。代表的なメニューはピョンヤン冷麺です。",
+    "QA": [
+        {
+            "question": "この店の名前は何ですか？",
+            "answer": "この店の名前は「平壌面屋」です。"
+        },
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "この店は京畿道の平沢市にあります。"
+        },
+        {
+            "question": "この店の歴史は何年以上ですか？",
+            "answer": "この店は30年以上の歴史を持っています。"
+        },
+        {
+            "question": "この店の代表的なメニューは何ですか？",
+            "answer": "この店の代表的なメニューはピョンヤン冷麺です。"
+        },
+        {
+            "question": "この店の冷麺の味はどんな特徴がありますか？",
+            "answer": "この店だけの独特な味が楽しめます。"
+        }
+    ],
+    "word_Count": {
+        "text": 79,
+        "QA": 126
+    }
+}

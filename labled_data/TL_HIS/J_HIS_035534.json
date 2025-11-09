@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_035534",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1036&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=01020000&ccbaCtcd=32&ccbaCpno=3413201020000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1985-01-17",
+        "domain": "문화/역사관광",
+        "title": "화천향교"
+    },
+    "text": "華川郷校 (화천향교)\\n\n江原道華川郡華川邑下里108番地\\n\n江原特別自治道 文化財資料 , 郷校は孔子と多くの聖賢に祭祀を行い、地方民の教育と教化のために国で建てた教育機関だ。 華川郷校を初めて建てた年代は不明で、朝鮮戦争中に郷校のすべての建物が焼失したことを1960年に大成殿と内三門を建て直した。 1963年には塀工事を行い、1975年には明倫堂を建てた。 今残っている建物としては大成殿、明倫堂、内三門、外三門、祭器庫などだ。 外三門の中に前面4間·側面2間規模の明倫堂があり、階段を上がれば内三門の中に前面3間·側面2間の大成殿が位置している。 大成殿は孔子をはじめ、中国と韓国の儒学者の位牌を祀って祭祀を行う場所だ。 朝鮮時代には国から土地と奴婢·本などを支援され学生を教えたが、今は教育機能はなくなり祭祀機能だけが残っている。",
+    "QA": [
+        {
+            "question": "華川郷校はどのような場所ですか？",
+            "answer": "華川郷校は、江原道華川郡華川邑に位置し、地方民の教育と教化のために国が建てた教育機関です。"
+        },
+        {
+            "question": "華川郷校はいつ建てられましたか？",
+            "answer": "華川郷校の建設年代は不明ですが、朝鮮戦争中に焼失し、1960年に大成殿と内三門が再建されました。"
+        },
+        {
+            "question": "華川郷校にはどのような建物が残っていますか？",
+            "answer": "現在も残っている建物としては、大成殿、明倫堂、内三門、外三門、祭器庫などがあります。"
+        },
+        {
+            "question": "華川郷校はどのような祭祀を行っていますか？",
+            "answer": "華川郷校では、孔子をはじめとする中国と韓国の儒学者の位牌を祀り、祭祀を行っています。"
+        },
+        {
+            "question": "華川郷校は現在も教育機能があるのでしょうか？",
+            "answer": "華川郷校はかつて国から支援され学生を教えたが、現在は教育機能はなく、祭祀機能のみが残っています。"
+        }
+    ],
+    "word_Count": {
+        "text": 272,
+        "QA": 236
+    }
+}

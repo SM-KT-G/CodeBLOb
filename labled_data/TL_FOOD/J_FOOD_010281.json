@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_010281",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-06-23",
+        "domain": "음식점",
+        "title": "テゲ宗家（대게종가）"
+    },
+    "text": "テゲ宗家（대게종가）\\n\n慶尚北道 盈徳郡 江口面 江口テゲキル21\\n\n薄い皮の中にぎゅっと詰まったカニは、独特の香りと濃厚な味がまさに逸品です。テゲ宗家（テゲジョンガ）は長い間、客足が絶えないズワイガニの名店となっています。",
+    "QA": [
+        {
+            "question": "テゲ宗家はどこにありますか？",
+            "answer": "テゲ宗家は慶尚北道盈徳郡江口面江口テゲキル21にあります。"
+        },
+        {
+            "question": "テゲ宗家の特徴は何ですか？",
+            "answer": "テゲ宗家は、薄い皮の中にぎゅっと詰まったカニが特徴です。独特の香りと濃厚な味があり、非常に美味しいです。"
+        },
+        {
+            "question": "テゲ宗家は何の名店ですか？",
+            "answer": "テゲ宗家はズワイガニの名店です。長い間、客足が絶えないほど人気があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 83,
+        "QA": 115
+    }
+}

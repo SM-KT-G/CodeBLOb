@@ -1,0 +1,51 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_000731",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42010&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "일산 리치 호텔 운영 정책"
+    },
+    "text": "14:00からチェックイン可能で、12:00までにチェックアウトする必要があります。 歯ブラシと歯磨き粉も提供され、付帯施設としては有料洗濯及び無料駐車及び無料Wi-Fiを利用できます。 追加費用は当日現地にてお支払いいただく必要があり、客室は写真とは異なるテーマで割り当てられる場合があります。",
+    "QA": [
+        {
+            "question": "チェックインとチェックアウトの時間は何時ですか？",
+            "answer": "チェックインは14:00から可能で、チェックアウトは12:00までに行う必要があります。"
+        },
+        {
+            "question": "歯ブラシと歯磨き粉は提供されますか？",
+            "answer": "はい、歯ブラシと歯磨き粉が提供されます。"
+        },
+        {
+            "question": "有料の洗濯サービスはありますか？",
+            "answer": "はい、洗濯は有料です。"
+        },
+        {
+            "question": "駐車は無料ですか？",
+            "answer": "はい、駐車は無料です。"
+        },
+        {
+            "question": "Wi-Fiは無料で利用できますか？",
+            "answer": "はい、Wi-Fiは無料で利用できます。"
+        },
+        {
+            "question": "追加費用はいつ支払う必要がありますか？",
+            "answer": "追加費用はチェックイン時に現地で支払う必要があります。"
+        },
+        {
+            "question": "客室のテーマはどのように割り当てられますか？",
+            "answer": "客室のテーマは写真とは異なる場合がありますが、チェックイン時に割り当てられます。"
+        }
+    ],
+    "word_Count": {
+        "text": 108,
+        "QA": 217
+    }
+}

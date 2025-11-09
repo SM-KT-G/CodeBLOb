@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_098223",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/collectionList#######",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2023-10-11",
+        "domain": "문화/역사관광",
+        "title": "작곡가 우노 클라미의 편지"
+    },
+    "text": "作曲家ウノ·クラミの手紙 (작곡가 우노 클라미의 편지)\\n\n1955年12月21日に、英文のタイプライターで作成された手紙があります。この手紙は、フィンランドの作曲家であるUuno Klamiが、アンイクテ先生に対して感謝の意を表す返事として書かれました。手紙は、日向の紙で作られており、大きさは横203cm、縦29cmです。 この手紙は、文化芸術や文献といった西洋の分野に分類され、Uuno Klami自身が執筆しました。 （以上の情報を整理した文章） 以下の文章を翻訳してください： \"On December 21, 1955, a letter composed on a typewriter in English was written by the Finnish composer Uuno Klami, as a response to thank Professor Anikte for his message. The letter, made of high-quality paper, measures 203cm in width and 29cm in height. This letter falls under the category of cultural arts and literature in Western disciplines, authored by Uuno Klami himself.\"",
+    "QA": [
+        {
+            "question": "Uuno Klamiが手紙を書いた日はいつですか？",
+            "answer": "1955年12月21日に手紙が書かれました。"
+        },
+        {
+            "question": "手紙は何語で書かれていますか？",
+            "answer": "手紙は英語で書かれています。"
+        },
+        {
+            "question": "手紙の大きさは何ですか？",
+            "answer": "手紙の大きさは横203cm、縦29cmです。"
+        },
+        {
+            "question": "Uuno Klamiは誰に手紙を書いたのですか？",
+            "answer": "Uuno Klamiはアンイクテ先生に手紙を書きました。"
+        },
+        {
+            "question": "手紙はどのカテゴリーに分類されますか？",
+            "answer": "手紙は西洋の文化芸術や文献の分野に分類されます。"
+        },
+        {
+            "question": "手紙は誰によって執筆されましたか？",
+            "answer": "手紙はUuno Klami自身によって執筆されました。"
+        }
+    ],
+    "word_Count": {
+        "text": 460,
+        "QA": 182
+    }
+}

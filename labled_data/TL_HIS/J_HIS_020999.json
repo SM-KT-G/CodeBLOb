@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_020999",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=566&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=02670000&ccbaCtcd=33&ccbaCpno=2113302670000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2005-01-07",
+        "domain": "문화/역사관광",
+        "title": "상교정본자비도량참법 권7~10"
+    },
+    "text": "尚教正本自費道場斬法 巻7~10 (상교정본자비도량참법 권7~10)\\n\n忠清北道忠州市直洞キル271-56(直洞、石宗寺)\\n\n忠清北道有形文化財 , 表紙はない状態だが、巻尾に\"学校正本慈恵道場法第十\"となっており、冊名がわかる。 巻7の10章から巻10までの1冊だけを伝える。 「慈悲道場斬法」は死者の魂を遷都するのに使われる仏教の儀式集で、彌勒仏の夢感による慈悲道場を梁武帝の時に高僧たちが賛受したと伝えられている。 この本は尚教審定した10冊の正本を基に1370年に版刻引き出しをその後朝鮮時代に中間したものと見られる。",
+    "QA": [
+        {
+            "question": "この道場斬法の巻7から巻10までの内容は何ですか？",
+            "answer": "この本は尚教審定した10冊の正本を基に1370年に版刻引き出しをその後朝鮮時代に中間したものと見られます。"
+        },
+        {
+            "question": "この慈悲道場斬法はどのような儀式集ですか？",
+            "answer": "「慈悲道場斬法」は死者の魂を遷都するのに使われる仏教の儀式集で、彌勒仏の夢感による慈悲道場を梁武帝の時に高僧たちが賛受したと伝えられています。"
+        },
+        {
+            "question": "この本はどのように伝えられていますか？",
+            "answer": "この本は巻尾に'学校正本慈恵道場法第十'となっており、冊名がわかるとともに、忠清北道忠州市直洞キル271-56の直洞、石宗寺にある有形文化財として保存されています。"
+        },
+        {
+            "question": "この本はいつ頃作られたものですか？",
+            "answer": "この本は尚教審定した10冊の正本を基に1370年に版刻引き出しをその後朝鮮時代に中間したものと見られます。"
+        }
+    ],
+    "word_Count": {
+        "text": 195,
+        "QA": 250
+    }
+}

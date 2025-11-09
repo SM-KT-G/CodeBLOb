@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_008111",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=834&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=00860000&ccbaCtcd=38&ccbaCpno=2333800860000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1987-05-19",
+        "domain": "문화/역사관광",
+        "title": "고성장산숲"
+    },
+    "text": "固城長山森 (고성장산숲)\\n\n慶尚南道高城郡馬岩面萇山里231-2\\n\n500年 , 慶尚南道記念物 , 高城長山の森は約600年前、朝鮮太祖(在位1392~1398)の時、ホウン·ホギ先生が村の地形的欠陥を補充するために造成した森だと伝えられている。 最初は長さが1000mに達したというが、今は長さ100m、幅60m程度だけが残っている。 現在、森を成している木は約250株余りで、韓国の温帯南部地域で主に育つケヤキ、アカマツ、長い葉ヒトツバタゴ、ソテの木、クロノリンゼの木、サルスベリ、カワウソなどが主種を成している。 朝鮮成宗(在位1469~1494)の時、イ·退渓先生の弟子だったホ·チョンス先生がこの森に亭子を建て池を作って釣りと山遊びを楽しんだといい、池の中央には小さな島が作られており森の風景を一層美しくしている。 高城萇山の森は村の地形的欠陥を防ぐために作られた森で、昔の先祖たちの自然利用が賢明だったことを垣間見ることができる立派な自然遺産だ。",
+    "QA": [
+        {
+            "question": "この森はいつ造成されましたか？",
+            "answer": "高城長山の森は約600年前、朝鮮太祖の時に造成されました。"
+        },
+        {
+            "question": "森の面積はどれくらいですか？",
+            "answer": "現在、森の長さは約100m、幅は約60m程度です。"
+        },
+        {
+            "question": "森にはどのような木が生えていますか？",
+            "answer": "森を成している木は約250株余りで、ケヤキ、アカマツ、長い葉ヒトツバタゴ、ソテの木、クロノリンゼの木、サルスベリ、カワウソなどが主な種類です。"
+        },
+        {
+            "question": "森には亭子や池がありますか？",
+            "answer": "朝鮮成宗の時、ホ·チョンス先生がこの森に亭子を建て池を作って釣りと山遊びを楽しんだと伝えられています。池の中央には小さな島があり、森の風景を一層美しくしています。"
+        },
+        {
+            "question": "高城長山の森はどのような意味を持っていますか？",
+            "answer": "高城長山の森は、村の地形的欠陥を補充するために作られた森です。昔の先祖たちの自然利用が賢明だったことを垣間見ることができる立派な自然遺産です。"
+        }
+    ],
+    "word_Count": {
+        "text": 317,
+        "QA": 264
+    }
+}

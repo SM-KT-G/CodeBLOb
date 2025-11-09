@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_067106",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2023-08-11",
+        "domain": "문화/역사관광",
+        "title": "백운산 숲에서 즐기는 치유의 캠핑여행"
+    },
+    "text": "光陽は春が美しい。蟾津江に沿って蟾津江梅の村と青梅農園があり華やかなメファヒャンが舞って、白雲山(ペクウンサン)の裾の玉龍死地には歴史も深い椿の木が赤い壮観だ。白雲山(ペクウンサン)自然休養林でキャンプも楽しんで、派手で、華麗な春の気配も感じてみよう。",
+    "QA": [
+        {
+            "question": "蟾津江の梅の村はどこにありますか？",
+            "answer": "蟾津江の梅の村は蟾津江に沿って位置しています。"
+        },
+        {
+            "question": "白雲山自然休養林では何を楽しむことができますか？",
+            "answer": "白雲山自然休養林ではキャンプを楽しむことができます。"
+        },
+        {
+            "question": "春の気配を感じるためにはどうすればいいですか？",
+            "answer": "春の気配を感じるためには、蟾津江梅の村や青梅農園に行くことがおすすめです。"
+        },
+        {
+            "question": "白雲山の裾にある玉龍死地には何がありますか？",
+            "answer": "白雲山の裾にある玉龍死地には歴史も深い椿の木があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 92,
+        "QA": 146
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_027906",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/goods/GN0002158130?startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0%5E&npprmaxsort=min",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "여수 나진스테이풀빌라"
+    },
+    "text": "滞在中ずっと森と海をパノラマのように会うことができる場所、海に面したナジンステイでは、完全に一緒に過ごした彼らだけの特別でプライベートな空間をご提供しています。 手を伸ばすと自然の森が触れるここではリラックスできます。 ただし、22時以降に入室される場合は、ペンションまで予めご連絡ください。",
+    "QA": [
+        {
+            "question": "この宿泊施設では、どのような特別なプライベートな空間が提供されていますか？",
+            "answer": "海に面したナジンステイでは、森と海をパノラマのように会うことができる特別なプライベートな空間をご提供しています。手を伸ばすと自然の森が触れることができ、リラックスすることができます。"
+        },
+        {
+            "question": "夜遅くに入室する場合はどうすれば良いですか？",
+            "answer": "22時以降に入室する場合は、事前にペンションに連絡をする必要があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 107,
+        "QA": 136
+    }
+}

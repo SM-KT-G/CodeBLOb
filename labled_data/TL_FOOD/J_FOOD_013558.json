@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_013558",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-03",
+        "domain": "음식점",
+        "title": "ポパイ刺身専門店 ( 뽀빠이횟집 )"
+    },
+    "text": "ポパイ刺身専門店 ( 뽀빠이횟집 )\\n\n江原道 ガンヌン市 ジュムンジン邑 ヘアンロ1941\\n\n新鮮な刺身が味わえる店です。代表的なメニューは刺身の盛り合わせです。江原道のガンヌン市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "ポパイ刺身専門店はどこにありますか？",
+            "answer": "ポパイ刺身専門店は江原道のガンヌン市に位置しています。具体的な住所はジュムンジン邑ヘアンロ1941です。"
+        },
+        {
+            "question": "ポパイ刺身専門店の代表的なメニューは何ですか？",
+            "answer": "ポパイ刺身専門店の代表的なメニューは刺身の盛り合わせです。新鮮な刺身を楽しむことができます。"
+        },
+        {
+            "question": "ポパイ刺身専門店は何を専門としていますか？",
+            "answer": "ポパイ刺身専門店は刺身を専門としています。新鮮な刺身が味わえるお店です。"
+        }
+    ],
+    "word_Count": {
+        "text": 77,
+        "QA": 143
+    }
+}

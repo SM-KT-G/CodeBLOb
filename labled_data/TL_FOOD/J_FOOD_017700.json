@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_017700",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-03",
+        "domain": "음식점",
+        "title": "宮殿白飯サムギョプサル ( 궁전백반삼겹살 )"
+    },
+    "text": "宮殿白飯サムギョプサル ( 궁전백반삼겹살 )\\n\nソウル特別市 ヨンドゥンポ区 ヨンシンロ139-2\\n\n様々なおかずと美味しい料理が味わえる店です。ソウル特別市のヨンドゥンポ区に位置した韓食専門店です。おすすめはサムギョプサルです。",
+    "QA": [
+        {
+            "question": "この店の名前は何ですか？",
+            "answer": "宮殿白飯サムギョプサル ( 궁전백반삼겹살 )"
+        },
+        {
+            "question": "この店はどこに位置していますか？",
+            "answer": "ソウル特別市 ヨンドゥンポ区 ヨンシンロ139-2"
+        },
+        {
+            "question": "この店では何が食べられますか？",
+            "answer": "様々なおかずと美味しい料理が味わえます。特におすすめはサムギョプサルです。"
+        }
+    ],
+    "word_Count": {
+        "text": 86,
+        "QA": 93
+    }
+}

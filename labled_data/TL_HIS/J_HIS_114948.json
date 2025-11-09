@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_114948",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/collectionList#######",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2023-10-11",
+        "domain": "문화/역사관광",
+        "title": "청천 필 송계비학도"
+    },
+    "text": "清川筆松渓碑学図 (청천 필 송계비학도)\\n\n作品の国籍は日本であり、時代は何時かは明記されていません。また、作品は絹という繊維で作られており、作者は清泉とされています。分類は文化芸術の一画にあり、一套刷となっています。作品の大きさは縦が61.1cm、横が20206.5cm、縦横の対角線である寸法が5454cmとなります。",
+    "QA": [
+        {
+            "question": "作品の国籍はどこですか？",
+            "answer": "日本"
+        },
+        {
+            "question": "作品の大きさは何ですか？",
+            "answer": "縦61.1cm、横20206.5cm、対角線5454cm"
+        },
+        {
+            "question": "作品の作者の名前は何ですか？",
+            "answer": "清泉"
+        },
+        {
+            "question": "作品は何の繊維で作られていますか？",
+            "answer": "絹"
+        },
+        {
+            "question": "作品の分類は何ですか？",
+            "answer": "文化芸術の一画"
+        },
+        {
+            "question": "作品の時代は何時ですか？",
+            "answer": "明記されていません"
+        }
+    ],
+    "word_Count": {
+        "text": 119,
+        "QA": 93
+    }
+}

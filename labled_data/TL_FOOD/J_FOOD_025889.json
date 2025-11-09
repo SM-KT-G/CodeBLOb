@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_025889",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-05",
+        "domain": "음식점",
+        "title": "紫禁城 ( 자금성 )"
+    },
+    "text": "紫禁城 ( 자금성 )\\n\n江原道 ガンヌン市 ギョンガンロ2223ボンギル22\\n\n様々な中華料理が味わえる店です。江原道のガンヌン市に位置した中華専門店です。おすすめは酢豚です。",
+    "QA": [
+        {
+            "question": "紫禁城はどこに位置していますか？",
+            "answer": "紫禁城は江原道のガンヌン市に位置しています。"
+        },
+        {
+            "question": "紫禁城はどんな料理を提供していますか？",
+            "answer": "紫禁城では様々な中華料理が味わえます。"
+        },
+        {
+            "question": "紫禁城のおすすめ料理は何ですか？",
+            "answer": "紫禁城のおすすめ料理は酢豚です。"
+        }
+    ],
+    "word_Count": {
+        "text": 66,
+        "QA": 79
+    }
+}

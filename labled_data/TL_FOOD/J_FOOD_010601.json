@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_010601",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-06",
+        "domain": "음식점",
+        "title": "トゥラク ( 뜨락 )"
+    },
+    "text": "トゥラク ( 뜨락 )\\n\n釜山広域市 釜山鎮区 チュンアンデロ691ボンガギル24-12\\n\nおいしいサバの煮付けと様々な包み料理だけでなく、さまざまなおかずも提供します。釜山広域市のブサンジン区に位置した韓食専門店です。おすすめはサバの煮付けです。",
+    "QA": [
+        {
+            "question": "このレストランの場所はどこですか？",
+            "answer": "トゥラクは、釜山広域市の釜山鎮区チュンアンデロ691ボンガギル24-12に位置しています。"
+        },
+        {
+            "question": "このレストランのおすすめ料理は何ですか？",
+            "answer": "トゥラクのおすすめはサバの煮付けです。"
+        },
+        {
+            "question": "このレストランではどんなおかずを提供していますか？",
+            "answer": "トゥラクでは、おいしいサバの煮付けと様々な包み料理だけでなく、さまざまなおかずも提供しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 92,
+        "QA": 127
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_014029",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-09",
+        "domain": "음식점",
+        "title": "マンネ刺身専門店 ( 막내회집 )"
+    },
+    "text": "マンネ刺身専門店\\n\nソウル特別市 中区 南大門市場4キル 34-11\\n\n26年の伝統がある刺身店です。ソウル特別市のジュン区に位置した韓国料理店です。代表的なメニューはヒラメの刺身です。",
+    "QA": [
+        {
+            "question": "このマンネ刺身専門店はどこにありますか？",
+            "answer": "マンネ刺身専門店はソウル特別市の中区南大門市場4キル 34-11にあります。"
+        },
+        {
+            "question": "マンネ刺身専門店は何年の伝統を持っていますか？",
+            "answer": "マンネ刺身専門店は26年の伝統を持っています。"
+        },
+        {
+            "question": "マンネ刺身専門店の代表的なメニューは何ですか？",
+            "answer": "マンネ刺身専門店の代表的なメニューはヒラメの刺身です。"
+        }
+    ],
+    "word_Count": {
+        "text": 69,
+        "QA": 112
+    }
+}

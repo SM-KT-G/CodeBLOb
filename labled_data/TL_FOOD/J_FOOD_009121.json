@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_009121",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-05",
+        "domain": "음식점",
+        "title": "ソットゥコン生マクチャン ( 솥뚜껑생막창 )"
+    },
+    "text": "ソットゥコン生マクチャン ( 솥뚜껑생막창 )\\n\n慶尚北道 アンドン市 グァンソク1ギル27-33\\n\n豚の特殊部位を焼いて食べる店です。慶尚北道のアンドン市に位置した韓食専門店です。代表的なメニューはマクチャンです。",
+    "QA": [
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "ソットゥコン生マクチャンは、慶尚北道アンドン市グァンソク1ギル27-33に位置しています。"
+        },
+        {
+            "question": "この店のメニューは何ですか？",
+            "answer": "この店の代表的なメニューはマクチャンです。"
+        },
+        {
+            "question": "マクチャンとは何ですか？",
+            "answer": "マクチャンは、豚の特殊部位を焼いて食べる料理です。"
+        },
+        {
+            "question": "この店の特徴は何ですか？",
+            "answer": "この店は、韓食専門店であり、豚の特殊部位を焼いて食べることができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 80,
+        "QA": 129
+    }
+}

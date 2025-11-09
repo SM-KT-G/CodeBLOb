@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_023204",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-03",
+        "domain": "음식점",
+        "title": "素麺ナル ( 국수나루 )"
+    },
+    "text": "素麺ナル ( 국수나루 )\\n\n江原道 ガンヌン市 トソンロ193\\n\n麺とゆで肉を一緒に味わえる店です。代表的なメニューは素麺です。江原道のガンヌン市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "この店は江原道のガンヌン市のトソンロ193に位置しています。"
+        },
+        {
+            "question": "この店の代表的なメニューは何ですか？",
+            "answer": "この店の代表的なメニューは素麺です。"
+        },
+        {
+            "question": "この店では麺とゆで肉を一緒に味わえますか？",
+            "answer": "はい、この店では麺とゆで肉を一緒に味わうことができます。"
+        },
+        {
+            "question": "この店は何を専門としていますか？",
+            "answer": "この店は韓食を専門としています。"
+        },
+        {
+            "question": "この店の名前は何ですか？",
+            "answer": "この店の名前は「素麺ナル（국수나루）」です。"
+        }
+    ],
+    "word_Count": {
+        "text": 65,
+        "QA": 142
+    }
+}

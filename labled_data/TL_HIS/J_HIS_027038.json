@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_027038",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/traffic/uijeongbu-station",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "議政府駅"
+    },
+    "text": "議政府駅\\n\n京畿道 議政府市 平和路 525（議政府洞）\\n\n議政府駅は京元線にある駅で佳陵駅と回龍駅の間にあります。 郊外線の終着駅でもありましたが、首都圏鉄道が逍遥山まで開通になり現在は鉄道のみ停車します。",
+    "QA": [
+        {
+            "question": "議政府駅はどの路線にありますか？",
+            "answer": "議政府駅は京元線にあります。"
+        },
+        {
+            "question": "議政府駅の住所は何ですか？",
+            "answer": "議政府駅の住所は京畿道 議政府市 平和路 525（議政府洞）です。"
+        },
+        {
+            "question": "議政府駅はどの駅の間に位置していますか？",
+            "answer": "議政府駅は佳陵駅と回龍駅の間に位置しています。"
+        },
+        {
+            "question": "議政府駅は郊外線の終着駅でしたか？",
+            "answer": "はい、議政府駅はかつて郊外線の終着駅でもありましたが、現在は鉄道のみ停車します。"
+        },
+        {
+            "question": "首都圏鉄道はどこまで開通していますか？",
+            "answer": "首都圏鉄道は逍遥山まで開通しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 77,
+        "QA": 156
+    }
+}

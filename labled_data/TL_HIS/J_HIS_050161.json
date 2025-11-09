@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_050161",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=64&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=04130000&ccbaCtcd=37&ccbaCpno=1123704130000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1964-11-14",
+        "domain": "문화/역사관광",
+        "title": "경주 독락당"
+    },
+    "text": "慶州独楽堂\\n\n慶尚北道慶州市安康邑ペンキル300-3(玉山里)\\n\n朝鮮時代中期、宝物、独楽堂は李彦迪(イ・オンジョク)先生の祭祀を奉じた玉山書院の裏にあるサランチェだ。イ・オンジョク(1491∼1553)先生が官職を辞めて故郷に帰った後に暮した由緒深い建物という。朝鮮中宗11年(1516)に建てられたこの建物は低い基壇の上に立てた前面4間・側面2間規模で、屋根は側面から見ると、八(八部)の字の形をした入母屋屋根である。家に向かって右3間は広い床だが、これをすべて開いており、左1間だけ間仕切りをしてオンドル部屋を作っておいた。しかし、元々は一番右側のカーンも阻止して、部屋を使用した痕跡が残っていて、大青(テチョン)は、中央2間だけであったことを知ることができる。柱は丸い柱を立てて大青(テチョン)の天井は骨組みが全て露出された提灯の天井だ。独楽堂横の塀には狭い木で肉を出して作った窓を付けてこの矛を通じて前川を向いているのは非常に特別な空間構成だといえる。独楽堂後方の市内にある亭また、自然に融合しようとする空間性を表現したということである。",
+    "QA": [
+        {
+            "question": "独楽堂はどのような建物ですか？",
+            "answer": "独楽堂は朝鮮時代中期に建てられた由緒深い建物で、李彦迪先生の祭祀を奉じた玉山書院の裏にあります。"
+        },
+        {
+            "question": "独楽堂の屋根の形は何ですか？",
+            "answer": "独楽堂の屋根は八の字の形をした入母屋屋根です。"
+        },
+        {
+            "question": "独楽堂の内部にはどのような部屋がありますか？",
+            "answer": "独楽堂の内部には広い床の部屋とオンドル部屋があります。"
+        },
+        {
+            "question": "独楽堂の柱や天井はどのような特徴がありますか？",
+            "answer": "独楽堂の柱は丸い柱で、天井は骨組みが露出した提灯の天井です。"
+        },
+        {
+            "question": "独楽堂周辺には他にどのような建物や空間がありますか？",
+            "answer": "独楽堂周辺には亭や市内が自然に融合した空間があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 349,
+        "QA": 187
+    }
+}

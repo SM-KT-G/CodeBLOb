@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_100178",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ja",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2023-06-13",
+        "domain": "문화/역사관광",
+        "title": "전북도청도서관"
+    },
+    "text": "道民に図書情報を提供する公共図書館の役割のほかに2010.11.、文化体育観光部から、全羅北道代表図書館に指定されたため、全羅北道(チョンラブクド)の総合的な資料を収集・整理・保存、道内の公共図書館の支援協力事業の推進、小さな図書館の造成・運営支援など全羅北道(チョンラブクド)の図書館の発展と地域住民の読書の振興に向けて行って的な努力を傾けている。",
+    "QA": [
+        {
+            "question": "全羅北道代表図書館に指定された年は？",
+            "answer": "2010年11月"
+        },
+        {
+            "question": "全羅北道(チョンラブクド)の総合的な資料を収集・整理・保存する目的は何ですか？",
+            "answer": "地域住民の読書の振興に向けて行うため"
+        },
+        {
+            "question": "全羅北道の公共図書館の支援協力事業の推進とは何を目指していますか？",
+            "answer": "図書館の発展と地域住民の読書の振興に向けて"
+        }
+    ],
+    "word_Count": {
+        "text": 128,
+        "QA": 100
+    }
+}

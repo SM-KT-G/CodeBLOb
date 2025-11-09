@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_050696",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42020&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "거제도 가조560펜션(9월신축)"
+    },
+    "text": "ガジョ560はコジェ市ガジョドに位置した新築一軒家プールビラです。 この宿は日の出と日没を一緒に鑑賞することができる優れた眺望を提供し、プライベートでモダンな感性で休息を楽しむことができるプレミアム宿です。 宿の中では、美しい憩いの時間を香り高いコーヒー豆ドリップコーヒーと一緒に楽しむことができます。 コーヒー豆ドリップセットが用意されており、古今豆が提供されます。",
+    "QA": [
+        {
+            "question": "この宿はどのような特徴がありますか？",
+            "answer": "この宿は日の出と日没を一緒に鑑賞することができる優れた眺望を提供し、プライベートでモダンな感性で休息を楽しむことができるプレミアム宿です。"
+        },
+        {
+            "question": "宿の中で何が楽しめますか？",
+            "answer": "宿の中では、美しい憩いの時間を香り高いコーヒー豆ドリップコーヒーと一緒に楽しむことができます。"
+        },
+        {
+            "question": "どのようなコーヒーが提供されますか？",
+            "answer": "コーヒー豆ドリップセットが用意されており、古今豆が提供されます。"
+        }
+    ],
+    "word_Count": {
+        "text": 134,
+        "QA": 144
+    }
+}

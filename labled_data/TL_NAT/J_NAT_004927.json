@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_004927",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://apis.data.go.kr/1400000/service/cultureInfoService2/mntInfoOpenAPI2",
+        "collectedDate": "2023-11-22",
+        "publishedDate": "2020-12-01",
+        "domain": "자연관광",
+        "title": "건등산"
+    },
+    "text": "乾登山 (건등산)\\n\n江原特別自治道 原州市文幕邑東和里\\n\n山の高さ : 259.5m , 原州市文幕邑乾登里（ムンマクウプ·コンドゥンリ）のグラウ（乾登山南の村）とノグネ（グラウ南の茂山川の川辺の村）。 北側にある高さ260mの山だ。 山勢は比較的急で、栗の木が多くて秋の登山に栗を拾う楽しさがある。",
+    "QA": [
+        {
+            "question": "乾登山はどこにありますか？",
+            "answer": "乾登山は江原特別自治道原州市文幕邑東和里にあります。"
+        },
+        {
+            "question": "乾登山の高さは何メートルですか？",
+            "answer": "乾登山の高さは259.5メートルです。"
+        },
+        {
+            "question": "乾登山の特徴は何ですか？",
+            "answer": "乾登山は比較的急な山で、栗の木が多く、秋の登山に栗を拾う楽しみがあります。"
+        },
+        {
+            "question": "乾登山の周辺にある村はどこですか？",
+            "answer": "乾登山の周辺にはグラウとノグネという村があります。"
+        },
+        {
+            "question": "乾登山の周辺に何がありますか？",
+            "answer": "乾登山の周辺には茂山川が流れており、自然の美しい川辺の風景が広がっています。"
+        }
+    ],
+    "word_Count": {
+        "text": 112,
+        "QA": 159
+    }
+}

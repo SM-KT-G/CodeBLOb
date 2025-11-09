@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_004106",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101933",
+        "collectedDate": "2023-10-06",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "진남관"
+    },
+    "text": "チンナムグァン \n麗水鎮南館は朝鮮時代の400年間、水軍の本拠地（全羅左水営）として、あるいは救国の聖地として利用され、伝承の使命を果たした歴史的現場で麗水を象徴するところだ。2001年4月17日、韓国の国宝第304号に指定された。\n",
+    "QA": [
+        {
+            "question": "麗水鎮南館は何世紀間も利用されていたのですか？",
+            "answer": "麗水鎮南館は朝鮮時代の400年間、水軍の本拠地（全羅左水営）として利用されました。"
+        },
+        {
+            "question": "麗水鎮南館は何のために利用されていましたか？",
+            "answer": "麗水鎮南館は水軍の本拠地として利用され、救国の聖地としての役割も果たしていました。"
+        },
+        {
+            "question": "麗水鎮南館は何号に指定されましたか？",
+            "answer": "麗水鎮南館は2001年4月17日、韓国の国宝第304号に指定されました。"
+        },
+        {
+            "question": "麗水鎮南館は麗水を象徴する場所ですか？",
+            "answer": "はい、麗水鎮南館は麗水を象徴する場所とされています。"
+        }
+    ],
+    "word_Count": {
+        "text": 85,
+        "QA": 165
+    }
+}

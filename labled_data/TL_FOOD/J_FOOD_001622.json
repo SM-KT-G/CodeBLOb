@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001622",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-11-25",
+        "domain": "음식점",
+        "title": "DANUBE（다뉴브）"
+    },
+    "text": "DANUBE（다뉴브）\\n\nソウル特別市 中区 世宗大路135\\n\nコリアナホテル内にある「DANUBE（ダニュブ）」は、朝はビュッフェ、夜はシーフードやステーキを味わうことのできる洋食レストランです。食事以外にも各国から輸入したワインやウイスキーも楽しめます。",
+    "QA": [
+        {
+            "question": "ダニュブはどこにありますか？",
+            "answer": "ダニュブはソウル特別市中区世宗大路135にあります。"
+        },
+        {
+            "question": "ダニュブはどのホテル内にありますか？",
+            "answer": "ダニュブはコリアナホテル内にあります。"
+        },
+        {
+            "question": "ダニュブでは朝は何を提供していますか？",
+            "answer": "ダニュブでは朝はビュッフェを提供しています。"
+        },
+        {
+            "question": "ダニュブでは夜は何を味わうことができますか？",
+            "answer": "ダニュブでは夜はシーフードやステーキを味わうことができます。"
+        },
+        {
+            "question": "ダニュブではどのような飲み物を楽しむことができますか？",
+            "answer": "ダニュブでは各国から輸入したワインやウイスキーを楽しむことができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 96,
+        "QA": 170
+    }
+}

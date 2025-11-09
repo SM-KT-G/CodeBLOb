@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_055337",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-03",
+        "domain": "음식점",
+        "title": "ソンミオッカロ ( 송미옥가로 )"
+    },
+    "text": "ソンミオッカロ ( 송미옥가로 )\\n\n江原道 ガンヌン市 オクチョンロ72\\n\n温かいクッパが食べられる店です。代表的なメニューは鶏肉のユッケジャンです。江原道のガンヌン市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "この店は江原道のガンヌン市に位置しています。"
+        },
+        {
+            "question": "この店の代表的なメニューは何ですか？",
+            "answer": "この店の代表的なメニューは鶏肉のユッケジャンです。"
+        },
+        {
+            "question": "この店で食べられる温かいクッパはどんな味ですか？",
+            "answer": "この店で食べられる温かいクッパは美味しくて、具材もたっぷり入っています。"
+        }
+    ],
+    "word_Count": {
+        "text": 73,
+        "QA": 101
+    }
+}

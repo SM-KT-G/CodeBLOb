@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_106421",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/view?relicId=57332",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2023-10-11",
+        "domain": "문화/역사관광",
+        "title": "청동 숟가락"
+    },
+    "text": "青銅の匙 (청동 숟가락)\\n\n国籍・時代：韓国 - 高麗、材質：金属 - 銅合金、分類：食生活 - 食器 - 食品 - 匙、サイズ：現在長さ 7.2cm, 幅 3.2cm, 現在長さ 15.1cm, 厚さ 0.4cm, 現在長さ 16.4cm, 厚さ 0.4cm, 現在長さ 7.8cm, 厚さ 0.4cm, 現在長さ 11.7cm, 厚さ 0.3cm",
+    "QA": [
+        {
+            "question": "この青銅の匙は何時代のものですか？",
+            "answer": "この青銅の匙は高麗時代のものです。"
+        },
+        {
+            "question": "この青銅の匙はどこの国のものですか？",
+            "answer": "この青銅の匙は韓国のものです。"
+        },
+        {
+            "question": "この青銅の匙の材質は何ですか？",
+            "answer": "この青銅の匙の材質は金属の銅合金です。"
+        },
+        {
+            "question": "この青銅の匙のサイズはどのくらいですか？",
+            "answer": "現在の青銅の匙のサイズは長さ7.2センチ、幅3.2センチ、厚さ0.4センチです。"
+        },
+        {
+            "question": "この青銅の匙は何に使われていましたか？",
+            "answer": "この青銅の匙は食器として使用されていました。"
+        }
+    ],
+    "word_Count": {
+        "text": 129,
+        "QA": 148
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_078952",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/view?relicId=36553458",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2023-10-11",
+        "domain": "문화/역사관광",
+        "title": "사층책장"
+    },
+    "text": "四階の本棚 (사층책장)\\n\n国籍と時代は韓国であり、具体的な時代については明記されていません。材質は木製。作家や製作者については不詳であり、分類は主生活用品の中でも家電や家具の一部です。サイズは高さが16.6cm、長さが8.7cm、幅が3.9cmとなっています。",
+    "QA": [
+        {
+            "question": "この本棚の材料は何ですか？",
+            "answer": "この本棚の材料は木製です。"
+        },
+        {
+            "question": "この本棚のサイズは何ですか？",
+            "answer": "この本棚のサイズは高さ16.6cm、長さ8.7cm、幅3.9cmです。"
+        },
+        {
+            "question": "この本棚の国籍はどこですか？",
+            "answer": "この本棚の国籍は韓国です。"
+        },
+        {
+            "question": "この本棚の特定の時代についての情報はありますか？",
+            "answer": "この本棚には特定の時代についての情報は明記されていません。"
+        },
+        {
+            "question": "この本棚の作家や製作者についての情報はありますか？",
+            "answer": "この本棚の作家や製作者についての情報は不詳です。"
+        },
+        {
+            "question": "この本棚はどのような分類に属しますか？",
+            "answer": "この本棚は主生活用品の中でも家電や家具の一部に分類されます。"
+        }
+    ],
+    "word_Count": {
+        "text": 96,
+        "QA": 185
+    }
+}

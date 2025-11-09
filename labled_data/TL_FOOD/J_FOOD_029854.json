@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_029854",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/uncles",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "オンクルス"
+    },
+    "text": "オンクルス\\n\nソウル特別市 ジョンノ区 デハクロ12ギル 63, 1階\\n\nソウル特別市のテハンノに位置したトッポッキ専門店です。おすすめはトッポッキです。各種トッピングを選ぶことができます。",
+    "QA": [
+        {
+            "question": "このトッポッキ専門店の場所はどこですか？",
+            "answer": "オンクルスはソウル特別市ジョンノ区デハクロ12ギルにあります。"
+        },
+        {
+            "question": "このトッポッキ専門店では何がおすすめですか？",
+            "answer": "オンクルスではトッポッキがおすすめです。"
+        },
+        {
+            "question": "トッポッキにはどんなトッピングが選べますか？",
+            "answer": "オンクルスでは様々なトッピングを選ぶことができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 71,
+        "QA": 103
+    }
+}

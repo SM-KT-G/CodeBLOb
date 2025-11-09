@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001502",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-05",
+        "domain": "음식점",
+        "title": "BROOKLYN149 ( 브루클린149 )"
+    },
+    "text": "BROOKLYN149 ( 브루클린149 )\\n\n慶尚北道 アンドン市 ボンヨンギル45\\n\n様々なブランチが楽しめる店です。慶尚北道のアンドン市に位置したカフェ（コーヒーショップ）です。代表的なメニューはサンドイッチです。",
+    "QA": [
+        {
+            "question": "このカフェの場所はどこですか？",
+            "answer": "このカフェは慶尚北道のアンドン市に位置しています。具体的な住所はボンヨンギル45です。"
+        },
+        {
+            "question": "このカフェのメニューには何がありますか？",
+            "answer": "このカフェでは様々なブランチが楽しめますが、特に代表的なメニューはサンドイッチです。"
+        },
+        {
+            "question": "このカフェの特徴は何ですか？",
+            "answer": "このカフェは慶尚北道で様々なブランチが楽しめる店として知られています。また、美味しいコーヒーも提供しています。"
+        },
+        {
+            "question": "このカフェは何時にオープンしていますか？",
+            "answer": "このカフェは何時にオープンしているかは具体的な情報が提供されていません。"
+        },
+        {
+            "question": "このカフェの雰囲気はどんな感じですか？",
+            "answer": "このカフェの雰囲気は落ち着いた雰囲気であり、居心地が良いです。"
+        }
+    ],
+    "word_Count": {
+        "text": 82,
+        "QA": 216
+    }
+}

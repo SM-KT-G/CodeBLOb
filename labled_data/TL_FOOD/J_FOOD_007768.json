@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_007768",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-09-01",
+        "domain": "음식점",
+        "title": "ジョンガクハンウ（종각한우）"
+    },
+    "text": "ジョンガクハンウ（종각한우）\\n\nソウル特別市 鐘路区 鐘路9キル 8\\n\nソウル特別市のチョンノに位置したバーベキュー専門店です。おすすめは韓牛焼きの盛り合わせです。団体での会食が可能なお店です。",
+    "QA": [
+        {
+            "question": "このお店はどこにありますか？",
+            "answer": "ジョンガクハンウはソウル特別市鐘路区鐘路9キル 8に位置しています。"
+        },
+        {
+            "question": "おすすめのメニューは何ですか？",
+            "answer": "おすすめは韓牛焼きの盛り合わせです。"
+        },
+        {
+            "question": "このお店では団体での会食が可能ですか？",
+            "answer": "はい、ジョンガクハンウでは団体での会食が可能です。"
+        }
+    ],
+    "word_Count": {
+        "text": 72,
+        "QA": 91
+    }
+}

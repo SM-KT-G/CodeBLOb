@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_007763",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "ジョンアネマッジプ ( 정아네맛집 )"
+    },
+    "text": "ジョンアネマッジプ ( 정아네맛집 )\\n\n江原道 ガンヌン市 オクガロ64\\n\n薬草と海鮮を入れてヘルシーな味が自慢の店です。江原道のガンヌン市に位置した韓食専門店です。おすすめは鶏肉の炒め煮です。",
+    "QA": [
+        {
+            "question": "お店の場所はどこですか？",
+            "answer": "ジョンアネマッジプは江原道のガンヌン市に位置しています。具体的な住所はオクガロ64です。"
+        },
+        {
+            "question": "お店の特徴は何ですか？",
+            "answer": "ジョンアネマッジプは薬草と海鮮を使ったヘルシーな味が自慢の韓食専門店です。"
+        },
+        {
+            "question": "おすすめのメニューは何ですか？",
+            "answer": "おすすめは鶏肉の炒め煮です。ぜひお試しください！"
+        }
+    ],
+    "word_Count": {
+        "text": 73,
+        "QA": 104
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_017174",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42020&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "창원 진해 두동 외인촌"
+    },
+    "text": "ヤノルジャ会員のお知らせです。 オンシーズンと特定日、祝日(前日含む)には料金の変動がある場合があります。 入室の際は身分証明書を確認し、未成年者の入室は制限されます。 そのため、身分証明書を必ずお持ちください。 また、快適な客室環境のため、外人村モーテルは全室禁煙です。 駐車は1階と地下階にゆったりとしたスペースがございますので、駐車の心配はございません。 しかし、ペットのような動物は申し訳ありませんが、入室できません。",
+    "QA": [
+        {
+            "question": "料金の変動はいつ起こりますか？",
+            "answer": "オンシーズンと特定日、祝日(前日含む)には料金の変動がある場合があります。"
+        },
+        {
+            "question": "身分証明書の確認はなぜ必要ですか？",
+            "answer": "入室の際は身分証明書を確認し、未成年者の入室は制限されます。そのため、身分証明書を必ずお持ちください。"
+        },
+        {
+            "question": "外人村モーテルは禁煙ですか？",
+            "answer": "はい、外人村モーテルは全室禁煙です。"
+        },
+        {
+            "question": "駐車場はありますか？",
+            "answer": "はい、駐車は1階と地下階にゆったりとしたスペースがございますので、駐車の心配はございません。"
+        },
+        {
+            "question": "ペットは宿泊可能ですか？",
+            "answer": "申し訳ありませんが、ペットのような動物は入室できません。"
+        }
+    ],
+    "word_Count": {
+        "text": 156,
+        "QA": 181
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_LEI_005942",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2022-11-10",
+        "domain": "레포츠",
+        "title": "하랑캠핑장"
+    },
+    "text": "仁川江華郡内加面に位置するハランキャンプ場は、サイトごとに植えたつる植物によって日除けが形成され、気楽にキャンプを楽しむことができる場所です。 ここには子供たちが遊べる安全な屋外プールも設置されており、外浦港の近くに位置しています。",
+    "QA": [
+        {
+            "question": "ハランキャンプ場はどこに位置していますか？",
+            "answer": "ハランキャンプ場は仁川江華郡内加面に位置しています。"
+        },
+        {
+            "question": "ハランキャンプ場ではどのように日除けが形成されますか？",
+            "answer": "ハランキャンプ場では、サイトごとに植えたつる植物によって日除けが形成されます。"
+        },
+        {
+            "question": "ハランキャンプ場にはどのような施設がありますか？",
+            "answer": "ハランキャンプ場には子供たちが遊べる安全な屋外プールが設置されています。"
+        },
+        {
+            "question": "ハランキャンプ場は外浦港の近くに位置していますか？",
+            "answer": "はい、ハランキャンプ場は外浦港の近くに位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 85,
+        "QA": 165
+    }
+}

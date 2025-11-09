@@ -1,0 +1,31 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_080122",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2023-02-02",
+        "domain": "음식점",
+        "title": "삼강옥(구 삼강설렁탕)"
+    },
+    "text": "サムガンの歴史は、開城で飲食店を経営していたパク・ジェ・ファン氏がインチョンで飲食店を出したことから始まった。今も昔の味を忘れられない人が訪れている。また、ソルロンタンの深い味には50年余りの歴史のノウハウが込められている。",
+    "QA": [
+        {
+            "question": "サムガンの歴史はいつ始まりましたか？",
+            "answer": "サムガンの歴史は、開城で飲食店を経営していたパク・ジェ・ファン氏がインチョンで飲食店を出したことから始まりました。"
+        },
+        {
+            "question": "サムガンの味はどのような特徴がありますか？",
+            "answer": "サムガンの味には50年余りの歴史のノウハウが込められていて、昔ながらの味を忘れられない人々が訪れています。"
+        }
+    ],
+    "word_Count": {
+        "text": 82,
+        "QA": 109
+    }
+}

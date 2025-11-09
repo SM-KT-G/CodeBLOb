@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001681",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2020-11-24",
+        "domain": "음식점",
+        "title": "Garten Bier( 가르텐비어 )"
+    },
+    "text": "Garten Bier( 가르텐비어 )\\n\n京畿道 平沢市 中央2路 143\\n\n東洋と西洋のフュージョン料理を味わえるところです。 京畿道のに位置したレストランです。代表的なメニューはチキンです。",
+    "QA": [
+        {
+            "question": "ガルテンビールはどこにありますか？",
+            "answer": "ガルテンビールは京畿道平沢市中央2路143に位置しています。"
+        },
+        {
+            "question": "ガルテンビールではどんな料理が味わえますか？",
+            "answer": "ガルテンビールでは東洋と西洋のフュージョン料理が味わえます。代表的なメニューはチキンです。"
+        },
+        {
+            "question": "ガルテンビールの特色は何ですか？",
+            "answer": "ガルテンビールの特色は東洋と西洋の料理を融合させたメニューです。"
+        }
+    ],
+    "word_Count": {
+        "text": 73,
+        "QA": 118
+    }
+}

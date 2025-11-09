@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_028898",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-09-13",
+        "domain": "음식점",
+        "title": "必敬斎（필경재）"
+    },
+    "text": "必敬斎（필경재）\\n\nソウル特別市 江南区 広平路205\\n\n500年の歴史を持つ「必敬斎（ピルギョンジェ）」は、1987年に文化観光部より伝統建造物第1号に指定されました。その後、伝統宮廷料理専門店として韓国の味を多くの人々に提供しています。",
+    "QA": [
+        {
+            "question": "必敬斎（필경재）はどこにありますか？",
+            "answer": "必敬斎はソウル特別市江南区広平路205にあります。"
+        },
+        {
+            "question": "必敬斎（필경재）の歴史はどのくらいありますか？",
+            "answer": "必敬斎は500年の歴史を持っています。"
+        },
+        {
+            "question": "必敬斎（필경재）は何のために指定されましたか？",
+            "answer": "必敬斎は1987年に文化観光部より伝統建造物第1号に指定されました。"
+        },
+        {
+            "question": "必敬斎（필경재）はどのような料理を提供していますか？",
+            "answer": "必敬斎は伝統宮廷料理を専門とし、韓国の味を多くの人々に提供しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 89,
+        "QA": 148
+    }
+}

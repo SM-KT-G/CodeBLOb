@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_009247",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101933",
+        "collectedDate": "2023-10-06",
+        "publishedDate": "2020-01-01",
+        "domain": "자연관광",
+        "title": "금강사"
+    },
+    "text": "文章で日本語以外の部分のみ日本語に変更して出力してください。 クムガンサ \\n\n金光寺は平安北道義州郡石崇山にある寺院だ。金剛寺ともいう。寺院や山の景観が奨励され、義州金剛とも呼ばれた。建築された年度は正確には分からないが、1848年に再建された。朝鮮末期の建築形態がよく現れている。\\n\n",
+    "QA": [
+        {
+            "question": "金光寺はどこにありますか？",
+            "answer": "金光寺は平安北道義州郡石崇山にあります。"
+        },
+        {
+            "question": "金光寺は何とも呼ばれますか？",
+            "answer": "金光寺は金剛寺とも呼ばれます。"
+        },
+        {
+            "question": "金光寺はいつ再建されましたか？",
+            "answer": "金光寺は1848年に再建されました。"
+        },
+        {
+            "question": "金光寺の建築形態はどのように現れていますか？",
+            "answer": "金光寺の建築形態は朝鮮末期の特徴がよく現れています。"
+        }
+    ],
+    "word_Count": {
+        "text": 106,
+        "QA": 104
+    }
+}

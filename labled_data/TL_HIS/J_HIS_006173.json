@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_006173",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=850&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=01160000&ccbaCtcd=37&ccbaCpno=2333701160000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1996-12-05",
+        "domain": "문화/역사관광",
+        "title": "갈암금양강도지"
+    },
+    "text": "葛岩金陽江都誌 (갈암금양강도지)\\n\n慶尚北道安東市臨下面金素里502番地\\n\n慶尚北道記念物 , 葛岩イ·ヒョンイル(1627~1704)先生が晩年に後学のために学問を教えたところだ。 李賢一は嶺南学派の巨頭として李滉の学統を受け継いで李滉の「李起浩発説」を支持し、李珥の学説に反対した。 ここは先生が亡くなった後、弟子たちが志を受け継ぐために建てたものと伝えられている。 先生が68歳になった年に甲戌還国に遭い流刑されたが粛宗27年(1701)に釈放された後、ここ金所里に暮らした。 先生はここに錦陽精舎を建てて後学たちに講学し、粛宗30年(1704)78歳で亡くなった。 『クムヤン金文録』には5年間先生の教えに参加した学者を書いておいたが、657人に達する人物が記録されており、先生の学問的力量と徳望を推察することができる。",
+    "QA": [
+        {
+            "question": "この場所はどこにありますか？",
+            "answer": "この場所は慶尚北道安東市臨下面金素里にあります。"
+        },
+        {
+            "question": "葛岩金陽江都誌とは何ですか？",
+            "answer": "葛岩金陽江都誌は、葛岩イ・ヒョンイル先生が晩年に後学のために学問を教えた場所です。"
+        },
+        {
+            "question": "なぜこの場所は記念物に指定されていますか？",
+            "answer": "この場所は葛岩イ・ヒョンイル先生が亡くなった後、弟子たちが志を受け継ぐために建てた場所であるため、記念物に指定されています。"
+        },
+        {
+            "question": "葛岩イ・ヒョンイル先生の学問的力量と徳望について教えてください。",
+            "answer": "『クムヤン金文録』によると、先生の教えに参加した学者は657人に達し、その学問的力量と徳望を推察することができます。"
+        },
+        {
+            "question": "先生は何歳で亡くなりましたか？",
+            "answer": "葛岩イ・ヒョンイル先生は粛宗30年(1704)、78歳で亡くなりました。"
+        }
+    ],
+    "word_Count": {
+        "text": 269,
+        "QA": 232
+    }
+}

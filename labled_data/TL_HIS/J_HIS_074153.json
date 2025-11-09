@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_074153",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=810&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=00490500&ccbaCtcd=50&ccbaCpno=2333900490500&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1998-01-07",
+        "domain": "문화/역사관광",
+        "title": "북촌환해장성"
+    },
+    "text": "北村環海長城\\n\n済州市朝天邑北村里393-3番地外1筆地先\\n\n高麗の原種11(1270)、済州(チェジュ)特別自治道記念物、船に乗って入ってくる外敵の侵入を防ぐため、済州島では海岸線を歩きながら、城を築いたが、これをフヮンヘジャンソンという。現在城壁が残っているところはオンピョン里、杏園里・ヘンウォンリ、ハンドンリ、ドンボクリ、ブクチョンリ、エウォル)、コネ里など、14ヵ所がある。金相憲(キム・サンホン)が建てた『ナムサロク』にはフヮンヘジャンソンを指して''耽羅の万里の長城''と呼んでいる。現在残っている北村フヮンヘジャンソン城壁の長さは約250mだ。",
+    "QA": [
+        {
+            "question": "北村環海長城の場所はどこですか？",
+            "answer": "北村環海長城は済州市朝天邑北村里にあります。"
+        },
+        {
+            "question": "北村環海長城は何のために建設されましたか？",
+            "answer": "北村環海長城は船に乗って入ってくる外敵の侵入を防ぐために建設されました。"
+        },
+        {
+            "question": "北村フヮンヘジャンソン城壁の長さはどれくらいですか？",
+            "answer": "現在残っている北村フヮンヘジャンソン城壁の長さは約250mです。"
+        },
+        {
+            "question": "北村フヮンヘジャンソン城壁は何と呼ばれていますか？",
+            "answer": "北村フヮンヘジャンソン城壁は『耽羅の万里の長城』と呼ばれています。"
+        }
+    ],
+    "word_Count": {
+        "text": 206,
+        "QA": 154
+    }
+}

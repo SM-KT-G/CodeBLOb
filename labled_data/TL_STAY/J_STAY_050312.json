@@ -1,0 +1,31 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_050312",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2023-07-02",
+        "domain": "숙박",
+        "title": "강촌잠빌펜션"
+    },
+    "text": "ちょっと借りてください!楽しく旅行するためには、軽く旅行しなければなりません。江村眠りビルペンションは無制限バーベキューパッケージがあります。(予約必須)バーベキューパーティー期待してもいいです。ペットと一緒に楽しい旅行になってほしいです!。",
+    "QA": [
+        {
+            "question": "江村眠りビルペンションでの無制限バーベキューパッケージについて教えてください。",
+            "answer": "江村眠りビルペンションでは無制限バーベキューパッケージがあります。予約が必要ですが、バーベキューパーティーを楽しむことができます。"
+        },
+        {
+            "question": "ペットと一緒に旅行できますか？",
+            "answer": "はい、ペットと一緒に楽しい旅行をすることができます。江村眠りビルペンションではペットの同伴も大歓迎です。"
+        }
+    ],
+    "word_Count": {
+        "text": 88,
+        "QA": 125
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_103540",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=348&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=18&ccbaAsno=01180000&ccbaCtcd=33&ccbaCpno=1483301180000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1981-11-14",
+        "domain": "문화/역사관광",
+        "title": "중원 김위 묘 출토유물"
+    },
+    "text": "17世紀初め、国家民俗文化財であるのりの上の墓を改葬する際、ミイラ状態に変化された遺体とともに発見された衣服だ。のりの上の生存年代は分からないが、壬辰倭乱当時、県監を務めたと推定される。出土された衣服は文禄・慶長の役以降から17世紀初頭のものと判断され、様々な種類の衣服が含まれている。この衣服は外国派遣や王を護衛する時、国難状況である時に着ていた天翼や、トゥルマギと似た形を持っているが、襟の形が多様だ。また、麻布でつくったチョゴリな上着やソクゴッとソムボソンで作ったズボンなどの特異な衣装も含まれている。この衣服はのりの上のものと推定され、当時の衣服スタイルと関係を確認できる重要な資料として活用され得る。文禄・慶長の役当時の遺物たちは、韓国の服飾研究に非常に貴重な資料と評価されている。",
+    "QA": [
+        {
+            "question": "のりの上の墓から何が発見されましたか？",
+            "answer": "のりの上の墓からは、のりの上の遺体とともに様々な種類の衣服が発見されました。"
+        },
+        {
+            "question": "のりの上は何の役職を務めていたと推定されていますか？",
+            "answer": "のりの上は壬辰倭乱当時、県監を務めていたと推定されています。"
+        },
+        {
+            "question": "発見された衣服の特徴は何ですか？",
+            "answer": "発見された衣服には、外国派遣や王を護衛する時に着用された天翼や、トゥルマギに似た形状の衣服が含まれています。また、麻布で作られたチョゴリなどの特異な衣装も含まれています。"
+        },
+        {
+            "question": "発見された衣服は何の重要な資料として活用され得るとされていますか？",
+            "answer": "発見された衣服はのりの上のものと推定され、当時の衣服スタイルと関係を確認できる重要な資料として活用され得るとされています。"
+        },
+        {
+            "question": "文禄・慶長の役当時の遺物は何と評価されていますか？",
+            "answer": "文禄・慶長の役当時の遺物は、韓国の服飾研究に非常に貴重な資料と評価されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 253,
+        "QA": 273
+    }
+}

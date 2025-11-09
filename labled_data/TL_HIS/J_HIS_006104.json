@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_006104",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=924&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=24&ccbaAsno=00220000&ccbaCtcd=11&ccbaCpno=2441100220000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1977-03-17",
+        "domain": "문화/역사관광",
+        "title": "가회동백인제가옥"
+    },
+    "text": "嘉会洞百人制家屋 (가회동백인제가옥)\\n\nソウル鍾路区北村路7キル16(嘉会洞)\\n\nソウル特別市民俗文化財 , 高宗11年(1874)、韓相龍(ハン·サンリョン)が建てた家で、鴨緑江(アプロクカン)黒松を持ってきたと伝えられている。 大きく門屋、母屋、サランチェで構成されているが、サランチェとアンチェは一般的なソウル地方上流住宅とは異なり、一棟につながっている。 門の左右に広間と台所があり、サランチェには4間の部屋と板の間があり、長い縁側が母屋とつながっている。 母屋は前後に退間し、台所·奥の間·大庁·向かい側の部屋を一字に配置した。 別堂は裏庭の北西に位置している。 朝鮮後期の住宅で保存状態が良く、サランマダンに入る大門と中庭側の塀の飾りが目を引く家だ。",
+    "QA": [
+        {
+            "question": "この嘉会洞百人制家屋はどのように建てられましたか？",
+            "answer": "高宗11年(1874)、韓相龍(ハン·サンリョン)が建てた家で、鴨緑江(アプロクカン)黒松を持ってきたと伝えられています。"
+        },
+        {
+            "question": "この家屋はどのような構造になっていますか？",
+            "answer": "大きく門屋、母屋、サランチェで構成されていますが、サランチェとアンチェは一般的なソウル地方上流住宅とは異なり、一棟につながっています。"
+        },
+        {
+            "question": "この家屋の特徴的な部分はありますか？",
+            "answer": "門の左右に広間と台所があり、サランチェには4間の部屋と板の間があり、長い縁側が母屋とつながっています。"
+        },
+        {
+            "question": "この家屋はどのような配置になっていますか？",
+            "answer": "母屋は前後に退間し、台所・奥の間・大庁・向かい側の部屋を一字に配置しています。"
+        },
+        {
+            "question": "この家屋の裏庭には何がありますか？",
+            "answer": "別堂は裏庭の北西に位置しています。"
+        },
+        {
+            "question": "この家屋の保存状態は良いですか？",
+            "answer": "朝鮮後期の住宅で保存状態が良く、サランマダンに入る大門と中庭側の塀の飾りが目を引く家です。"
+        }
+    ],
+    "word_Count": {
+        "text": 244,
+        "QA": 291
+    }
+}

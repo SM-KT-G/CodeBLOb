@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_002152",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2020-12-25",
+        "domain": "음식점",
+        "title": "TODAi 明洞( 토다이 명동 )"
+    },
+    "text": "TODAi 明洞( 토다이 명동 )\\n\nソウル特別市 中区 ミョンドンギル14\\n\n海鮮をはじめとする韓国料理、洋食、中華料理、日本料理など250種類以上のメニューで構成されています。ソウル特別市のチュン区に位置した韓食専門店です。おすすめはビュッフェです。",
+    "QA": [
+        {
+            "question": "明洞はどこに位置していますか？",
+            "answer": "明洞はソウル特別市の中区に位置しています。"
+        },
+        {
+            "question": "明洞はどんな種類の料理が楽しめますか？",
+            "answer": "明洞では海鮮をはじめとする韓国料理、洋食、中華料理、日本料理など250種類以上のメニューが楽しめます。"
+        },
+        {
+            "question": "明洞のおすすめは何ですか？",
+            "answer": "明洞のおすすめはビュッフェです。"
+        }
+    ],
+    "word_Count": {
+        "text": 95,
+        "QA": 99
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_034141",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=442&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=00870000&ccbaCtcd=31&ccbaCpno=2113100870000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1979-09-03",
+        "domain": "자연관광",
+        "title": "북한산성금위영이건기비"
+    },
+    "text": "北漢山城内の金威営を移した後、これを記念するために建てられた碑、京畿道有形文化財、1715年(粛宗41)、北漢山城東小門内にあった金威営を普国寺の下に移し、その顛末を記録した碑です。現在の位置は北漢山城内の大聖庵から城壁の方に少し下がっています。朝鮮は文禄·慶長の役以降、中央軍営である三軍門、つまり訓練図鑑、御影庁、金衛営を設置し、漢陽都城を直接防御しましたそのため、1711年(粛宗37)にこれらの軍営を動員して北漢山城を改築し、現地駐留部隊である遊泳を設け、山城の守備を区間別に分けて分担するようにしました。このうち金威泳遊泳の地帯が高く崩れる危険性があり、1715年に移建したのです。北漢山城内で簡単に入手できる花崗岩の盤の片面をよく整え、碑文を刻んだものです。碑文は李珥命(イ·イミョン)が建て、1715年(粛宗41)に建立しました",
+    "QA": [
+        {
+            "question": "この碑は何を記念して建てられたのですか？",
+            "answer": "この碑は、金威営を移したことを記念して建てられました。"
+        },
+        {
+            "question": "金威営はなぜ移されたのですか？",
+            "answer": "金威営が移された理由は、北漢山城内の金威泳遊泳の地帯が高く崩れる危険性があったためです。"
+        },
+        {
+            "question": "碑文を刻んだのは誰ですか？",
+            "answer": "碑文を刻んだのは李珥命(イ·イミョン)という人物です。"
+        },
+        {
+            "question": "この碑が建立された年はいつですか？",
+            "answer": "この碑が建立された年は1715年(粛宗41)です。"
+        },
+        {
+            "question": "この碑の位置はどこですか？",
+            "answer": "この碑の位置は北漢山城内の大聖庵から城壁の方に少し下がっています。"
+        }
+    ],
+    "word_Count": {
+        "text": 272,
+        "QA": 171
+    }
+}

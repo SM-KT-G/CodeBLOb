@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_002144",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "THE SIC-DDANG ( 더식당 명동 )"
+    },
+    "text": "THE SIC-DDANG ( 더식당 명동 )\\n\nソウル特別市 中区 明洞10キル 36\\n\n韓国料理と洋食が味わえ、韓国のグルメ番組でよく紹介されています。 代表的なメニューはロブスターです。ソウル特別市の中区に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "このレストランの名前は何ですか？",
+            "answer": "このレストランの名前は、더식당 명동（ザシクダン ミョンドン）です。"
+        },
+        {
+            "question": "どのような料理が提供されていますか？",
+            "answer": "このレストランでは、韓国料理と洋食の両方が提供されています。特に代表的なメニューはロブスターです。"
+        },
+        {
+            "question": "このレストランはどこに位置していますか？",
+            "answer": "このレストランはソウル特別市の中区に位置しています。具体的な住所は明洞10キル 36です。"
+        },
+        {
+            "question": "このレストランは韓国のどのグルメ番組で紹介されましたか？",
+            "answer": "このレストランは韓国のグルメ番組でよく紹介されていますが、具体的な番組名はわかりません。"
+        },
+        {
+            "question": "このレストランの特徴は何ですか？",
+            "answer": "このレストランの特徴は、韓国料理と洋食を楽しむことができることです。また、ロブスターが代表的なメニューとして人気です。"
+        }
+    ],
+    "word_Count": {
+        "text": 88,
+        "QA": 241
+    }
+}

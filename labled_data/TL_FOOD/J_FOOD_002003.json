@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_002003",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-01",
+        "domain": "음식점",
+        "title": "Pho Sang ( 포상 )"
+    },
+    "text": "Pho Sang \n京畿道 平沢市 彭城邑 安停循環路222ボンキル 117\nベトナム式フォーを味わえるところです。 代表的なメニューは牛胸肉フォーです。京畿道のピョンテク市に位置したしたベトナム料理専門店です。",
+    "QA": [
+        {
+            "question": "このレストランの名前は何ですか？",
+            "answer": "このレストランの名前はフォーサンと言います。"
+        },
+        {
+            "question": "このレストランはどこにありますか？",
+            "answer": "このレストランは京畿道のピョンテク市に位置しています。"
+        },
+        {
+            "question": "このレストランの代表的なメニューは何ですか？",
+            "answer": "このレストランの代表的なメニューは牛胸肉フォーです。"
+        },
+        {
+            "question": "このレストランで提供される料理はどのような特徴がありますか？",
+            "answer": "このレストランではベトナム料理を専門としており、特にベトナム式フォーが味わえます。"
+        }
+    ],
+    "word_Count": {
+        "text": 77,
+        "QA": 147
+    }
+}

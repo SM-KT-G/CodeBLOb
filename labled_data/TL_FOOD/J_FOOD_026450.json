@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_026450",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-16",
+        "domain": "음식점",
+        "title": "正統中華料理ジョアル 明洞 ( 정통중화요리조아루 명동 )"
+    },
+    "text": "正統中華料理ジョアル 明洞\\n\nソウル特別市 中区 退渓路 114-2\\n\n明洞の会社員がよく訪れる中華料理店です。おすすめはジャージャー麺です。ソウル特別市のジュン区に位置した中華料理店です。",
+    "QA": [
+        {
+            "question": "この中華料理店はどこにありますか？",
+            "answer": "正統中華料理ジョアルはソウル特別市中区の退渓路114-2に位置しています。"
+        },
+        {
+            "question": "どのような料理がおすすめですか？",
+            "answer": "おすすめはジャージャー麺です。"
+        },
+        {
+            "question": "この店は明洞にありますか？",
+            "answer": "はい、正統中華料理ジョアルは明洞にあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 71,
+        "QA": 88
+    }
+}

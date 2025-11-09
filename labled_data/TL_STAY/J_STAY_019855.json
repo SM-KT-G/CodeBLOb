@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_019855",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42070&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "단양 노엘의다락방펜션"
+    },
+    "text": "多くのノエルの屋根裏部屋ペンションは錦繍山500高地に位置しており、日の出を見ることができる一戸建ての宿です。 このペンションは家族全員がリラックスできる場所で、ギャンにも近い宿です。 ここは全部屋3つとトイレ2つで構成されており、訪問客は錦繍山登山をすることもできます。 別途お知らせするお知らせがありますが、22時以降に入室される場合は、ペンションまで予めご連絡ください。 .",
+    "QA": [
+        {
+            "question": "ペンションの場所はどこですか？",
+            "answer": "ノエルの屋根裏部屋ペンションは錦繍山500高地に位置しています。"
+        },
+        {
+            "question": "ペンションの特徴は何ですか？",
+            "answer": "ノエルの屋根裏部屋ペンションは一戸建てで、日の出を見ることができる宿です。家族全員がリラックスできる場所で、ギャンにも近いです。"
+        },
+        {
+            "question": "部屋はいくつありますか？",
+            "answer": "ノエルの屋根裏部屋ペンションには全部で3つの部屋があります。"
+        },
+        {
+            "question": "トイレはいくつありますか？",
+            "answer": "ノエルの屋根裏部屋ペンションには2つのトイレがあります。"
+        },
+        {
+            "question": "錦繍山登山はできますか？",
+            "answer": "はい、ノエルの屋根裏部屋ペンションから錦繍山登山ができます。"
+        },
+        {
+            "question": "22時以降に入室する場合はどうすればいいですか？",
+            "answer": "22時以降に入室する場合は、事前にペンションまでご連絡ください。"
+        }
+    ],
+    "word_Count": {
+        "text": 139,
+        "QA": 224
+    }
+}

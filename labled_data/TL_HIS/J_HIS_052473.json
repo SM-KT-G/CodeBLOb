@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_052473",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1067&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=01560000&ccbaCtcd=35&ccbaCpno=3413501560000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2000-06-23",
+        "domain": "문화/역사관광",
+        "title": "관서당남성재"
+    },
+    "text": "関西堂ナム·ソンジェ\\n\n全羅北道南原市関西堂キル15(双橋洞)\\n\n1875年、全羅北道文化財資料、グヮンソダンは朝鮮後期に建てた寺子屋だ。館員たちの自制が主に学ぶところで''グヮンソダン''と呼んだ。ナムソンジェは南原に残っている唯一のグヮンソダンだ。前面4間・側面2間規模であり、屋根は側面から見ると、八(八部)字形の入母屋屋根で飾った。建物は中で床を置いて左側と右側に部屋がある配置として、床は前面2間・側面2間にすべて4間規模だ。現在西の部屋は前後2間をトンカンに使用しており、東の部屋の前には板の間を敷いて縁側を構成して後ろの壁には押し入れをつけた。省の南にあり''ソンナムジェ''と呼ばれたが、光復後にナムソンジェに名前を変えた。光復後まで書堂にあったが、ナムソンジェと一緒に郷校と書院のほかに寺子屋が現存する例はまれな場合にその価値が大きい。",
+    "QA": [
+        {
+            "question": "南原市にあるグヮンソダンは何のために建てられましたか？",
+            "answer": "グヮンソダンは寺子屋として建てられました。"
+        },
+        {
+            "question": "ナムソンジェはどのような形状の建物ですか？",
+            "answer": "ナムソンジェは前面4間・側面2間の八(八部)字形の入母屋屋根を持つ建物です。"
+        },
+        {
+            "question": "ナムソンジェの中にはどのような配置の部屋がありますか？",
+            "answer": "ナムソンジェの中には床を置いて左側と右側に部屋がある配置です。"
+        },
+        {
+            "question": "ナムソンジェはなぜ光復後に名前を変えたのですか？",
+            "answer": "ナムソンジェは光復後に郷校と書院のほかに寺子屋が現存する例がまれな場合であり、その価値が大きいため、名前を変えたのです。"
+        }
+    ],
+    "word_Count": {
+        "text": 277,
+        "QA": 182
+    }
+}

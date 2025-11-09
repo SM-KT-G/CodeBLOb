@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_094031",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=68&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=04630000&ccbaCtcd=32&ccbaCpno=1121104630000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1968-07-05",
+        "domain": "문화/역사관광",
+        "title": "원주 흥법사지 진공대사탑비"
+    },
+    "text": "高麗時代の宝物な雨はフンボプサの敷地に残っており、統一新羅末で活躍した僧侶の真空大使を称えるため建てられた。碑文が刻まれた石核は国立中央博物館に保管中だ。真空大使は、張巡船社の下で僧侶となり、修業して帰国した後、王の師となった。太祖が彼を師にしようとしたが、仕様して小白山に入った。太祖の入籍後、雨を立てるために、碑文を書いており、雨をもあったドルゴブクは竜に近く、首は短く、背中の皮には万字の模様と蓮の花が刻まれている。定礎には雨の名称と竜が彫刻されている。雨の石核は部分的に割れていて碑文を見分けるのが大変だが、大使の生涯と業績が記録されている。",
+    "QA": [
+        {
+            "question": "この宝物雨はどこに残っていますか？",
+            "answer": "フンボプサの敷地に残っています。"
+        },
+        {
+            "question": "誰のためにこの雨が建てられましたか？",
+            "answer": "真空大使を称えるために建てられました。"
+        },
+        {
+            "question": "この雨を作るために誰が師となりましたか？",
+            "answer": "張巡船社の下で僧侶となり、修業した後、師となったのは真空大使です。"
+        },
+        {
+            "question": "真空大使の生涯と業績はどこに記録されていますか？",
+            "answer": "国立中央博物館に保管中の石核に記録されています。"
+        },
+        {
+            "question": "この雨の形はどのような特徴がありますか？",
+            "answer": "雨は竜に近く、首は短く、背中の皮には万字の模様と蓮の花が刻まれています。"
+        }
+    ],
+    "word_Count": {
+        "text": 201,
+        "QA": 166
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_013682",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2020-12-21",
+        "domain": "음식점",
+        "title": "ホンチョブルダク 新済州( 홍초불닭 신제주 )"
+    },
+    "text": "ホンチョブルダク 新済州( 홍초불닭 신제주 )\\n\n済州特別自治道 済州市 新大路16キル 56\\n\nテラス席がある店です。済州特別自治道のジェジュ市に位置した韓食専門店です。おすすめは鶏肉の激辛炒めです。",
+    "QA": [
+        {
+            "question": "このレストランの名前は何ですか？",
+            "answer": "ホンチョブルダク 新済州です。"
+        },
+        {
+            "question": "このレストランはどこにありますか？",
+            "answer": "済州特別自治道 済州市 新大路16キル 56にあります。"
+        },
+        {
+            "question": "このレストランのおすすめ料理は何ですか？",
+            "answer": "鶏肉の激辛炒めがおすすめです。"
+        },
+        {
+            "question": "このレストランにはテラス席がありますか？",
+            "answer": "はい、テラス席があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 76,
+        "QA": 105
+    }
+}

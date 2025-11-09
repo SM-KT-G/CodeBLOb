@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_010148",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "つぶ貝食堂 ( 골뱅이식당 )"
+    },
+    "text": "つぶ貝食堂 ( 골뱅이식당 )\n慶尚北道 安東市 木城橋キル 14\n様々な種類の貝料理が味わえる店です。おすすめはつぶ貝の和え物です。慶尚北道のアンドン市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "つぶ貝食堂はどこにありますか？",
+            "answer": "つぶ貝食堂は慶尚北道のアンドン市に位置しています。"
+        },
+        {
+            "question": "つぶ貝食堂のおすすめ料理は何ですか？",
+            "answer": "つぶ貝食堂のおすすめ料理はつぶ貝の和え物です。"
+        },
+        {
+            "question": "つぶ貝食堂は何を専門としていますか？",
+            "answer": "つぶ貝食堂は韓食専門店です。"
+        },
+        {
+            "question": "つぶ貝食堂の住所は何ですか？",
+            "answer": "つぶ貝食堂の住所は慶尚北道安東市木城橋キル 14です。"
+        },
+        {
+            "question": "つぶ貝食堂ではどんな種類の貝料理が楽しめますか？",
+            "answer": "つぶ貝食堂では様々な種類の貝料理が楽しめます。"
+        }
+    ],
+    "word_Count": {
+        "text": 66,
+        "QA": 147
+    }
+}

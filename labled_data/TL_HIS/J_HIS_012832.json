@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_012832",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/traffic/daejeon-terminal-complex",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "大田複合ターミナル"
+    },
+    "text": "大田複合ターミナル\\n\n大田広域市 東区 東西大路 1689\\n\n2011年にオープンした大田複合ターミナルは大田広域市東区の龍田洞にあります。西館（旧大田高速バスターミナル）に乗車場があり、館内にはemartが入っています。東館（旧大田東部市外バスターミナル）には下車場があり、館内にはCGVが入っています。",
+    "QA": [
+        {
+            "question": "大田複合ターミナルはどこにありますか？",
+            "answer": "大田複合ターミナルは大田広域市東区の龍田洞にあります。"
+        },
+        {
+            "question": "大田複合ターミナルは何年にオープンしましたか？",
+            "answer": "大田複合ターミナルは2011年にオープンしました。"
+        },
+        {
+            "question": "大田複合ターミナルの西館には何がありますか？",
+            "answer": "大田複合ターミナルの西館には乗車場があり、館内にはemartが入っています。"
+        },
+        {
+            "question": "大田複合ターミナルの東館には何がありますか？",
+            "answer": "大田複合ターミナルの東館には下車場があり、館内にはCGVが入っています。"
+        }
+    ],
+    "word_Count": {
+        "text": 113,
+        "QA": 155
+    }
+}

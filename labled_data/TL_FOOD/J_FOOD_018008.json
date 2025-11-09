@@ -1,0 +1,31 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_018008",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2022-09-19",
+        "domain": "음식점",
+        "title": "南門（남문）"
+    },
+    "text": "南門（남문）\nカンウォン道チュンチョン市ナムサン面ナミソムギル1\n畿湖（キホ）地域（京畿道・黄海道南部と忠清南道北部）の家庭料理専門店です。近隣地域から供給される新鮮な食材を心を込めて調理しており、外国人観光客からも好評を博しています。",
+    "QA": [
+        {
+            "question": "カンウォン道チュンチョン市ナムサン面ナミソムギル1にある南門（남문）はどんな料理を提供していますか？",
+            "answer": "南門は、畿湖（キホ）地域の家庭料理専門店で、近隣地域から供給される新鮮な食材を使った料理を提供しています。"
+        },
+        {
+            "question": "南門の料理は外国人観光客にも人気ですか？",
+            "answer": "はい、南門の料理は外国人観光客にも好評を博しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 86,
+        "QA": 110
+    }
+}

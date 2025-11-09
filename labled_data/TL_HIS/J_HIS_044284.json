@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_044284",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1131&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=03650000&ccbaCtcd=38&ccbaCpno=3413803650000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2005-01-13",
+        "domain": "문화/역사관광",
+        "title": "거창연안이씨호구단자와준호구"
+    },
+    "text": "正祖4年から高宗13年まで慶尚南道にある文化財資料には居昌延安李氏の戸籍端子とジュンホての資料がすべて27枚ある。他の家でもこんなに多くの戸籍資料を所蔵した場合は珍しいが、この資料は見直された所をしるした人的や誤解した年度など多様な跡が現れること、そして居住地が変わったことにもかかわらず、戸籍資料が継続して保存されたという点で、その重要性が一段と浮き彫りにされて慶尚南道文化財に指定された。",
+    "QA": [
+        {
+            "question": "この居昌延安李氏の戸籍端子とジュンホての資料は何枚ありますか？",
+            "answer": "この資料は27枚あります。"
+        },
+        {
+            "question": "他の家でもこのような多くの戸籍資料を所蔵している場合は珍しいですか？",
+            "answer": "はい、他の家でもこのように多くの戸籍資料を所蔵している場合は珍しいです。"
+        },
+        {
+            "question": "この資料にはどのような跡が現れますか？",
+            "answer": "この資料には見直された所や誤解した年度など多様な跡が現れます。"
+        },
+        {
+            "question": "居住地が変わったにもかかわらず、なぜ戸籍資料が継続して保存されたのですか？",
+            "answer": "居住地が変わったにもかかわらず、戸籍資料が継続して保存された理由は、その重要性が認識されたためです。"
+        }
+    ],
+    "word_Count": {
+        "text": 143,
+        "QA": 184
+    }
+}

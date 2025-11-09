@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_009054",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "ゾウン韓牛 ( 조은한우 )"
+    },
+    "text": "ゾウン韓牛 ( 조은한우 )\nソウル特別市 ヨンドゥンポ区 ボドゥナルロ7ギル7\n上質な韓牛が味わえる店です。ソウル特別市のヨンドゥンポ区に位置した韓食専門店です。代表的なメニューはカルビです。",
+    "QA": [
+        {
+            "question": "ゾウン韓牛はどこに位置していますか？",
+            "answer": "ゾウン韓牛はソウル特別市のヨンドゥンポ区に位置しています。"
+        },
+        {
+            "question": "ゾウン韓牛の代表的なメニューは何ですか？",
+            "answer": "ゾウン韓牛の代表的なメニューはカルビです。"
+        },
+        {
+            "question": "ゾウン韓牛の特徴は何ですか？",
+            "answer": "ゾウン韓牛の特徴は、上質な韓牛が味わえることです。"
+        }
+    ],
+    "word_Count": {
+        "text": 71,
+        "QA": 93
+    }
+}

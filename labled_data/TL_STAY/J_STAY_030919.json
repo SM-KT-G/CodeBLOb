@@ -1,0 +1,55 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_030919",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/goods/GN0002139648?startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0%5E&npprmaxsort=min",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "남양주 칼리토 호텔 운영 정책"
+    },
+    "text": "チェックインは22:00から可能で、チェックアウトは11:00までです。 入室および利用についての案内を受けることができ、客室予約の際に特典を受けることができます。 独自の駐車場も提供され、客室内では無料のWi-Fiが利用できます。 最高級のグースダウン寝具類が提供され、客室ではYouTubeとNetflixをご覧いただけます。 フロントではコーヒー豆と電子レンジをご利用いただけます。",
+    "QA": [
+        {
+            "question": "チェックインは何時からですか？",
+            "answer": "チェックインは22:00から可能です。"
+        },
+        {
+            "question": "チェックアウトは何時までですか？",
+            "answer": "チェックアウトは11:00までです。"
+        },
+        {
+            "question": "どのような特典がありますか？",
+            "answer": "入室および利用についての案内を受けることができ、客室予約の際に特典を受けることができます。"
+        },
+        {
+            "question": "駐車場はありますか？",
+            "answer": "はい、独自の駐車場があります。"
+        },
+        {
+            "question": "Wi-Fiは利用できますか？",
+            "answer": "はい、客室内では無料のWi-Fiが利用できます。"
+        },
+        {
+            "question": "どのような寝具が提供されますか？",
+            "answer": "最高級のグースダウン寝具類が提供されます。"
+        },
+        {
+            "question": "客室で何を視聴できますか？",
+            "answer": "客室ではYouTubeとNetflixをご覧いただけます。"
+        },
+        {
+            "question": "フロントで何を利用できますか？",
+            "answer": "フロントではコーヒー豆と電子レンジをご利用いただけます。"
+        }
+    ],
+    "word_Count": {
+        "text": 142,
+        "QA": 228
+    }
+}

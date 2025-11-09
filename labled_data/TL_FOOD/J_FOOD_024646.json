@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_024646",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "呉家族譜 ( 오가족보 )"
+    },
+    "text": "呉家族譜 ( 오가족보 )\\n\n京畿道 高陽市 一山西区 一山路803ボンキル 6-4\\n\n韓国産の肉を使用して、チョッパル(豚足)を作っているお店です。 京畿道のゴヤン市に位置した豚足専門店です。代表的なメニューは豚足です。",
+    "QA": [
+        {
+            "question": "このお店の場所はどこですか？",
+            "answer": "このお店は京畿道高陽市一山西区一山路803ボンキル 6-4に位置しています。"
+        },
+        {
+            "question": "このお店ではどのような肉を使用していますか？",
+            "answer": "このお店では韓国産の肉を使用しています。"
+        },
+        {
+            "question": "このお店の代表的なメニューは何ですか？",
+            "answer": "このお店の代表的なメニューは豚足です。"
+        },
+        {
+            "question": "このお店の特徴は何ですか？",
+            "answer": "このお店は豚足専門店であり、豚足を作っています。"
+        }
+    ],
+    "word_Count": {
+        "text": 82,
+        "QA": 123
+    }
+}

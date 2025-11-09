@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_093542",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ja",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2023-03-27",
+        "domain": "문화/역사관광",
+        "title": "울산 소리체험관"
+    },
+    "text": "蔚山生えても大王岩に位置した音体験館は地上2階654平方メートル規模で\"余韻(音の残響)の風景\"をコンセプトに建築されており、蔚山\"東区の声9頃\"を体験できる体験展示館だ。。",
+    "QA": [
+        {
+            "question": "音体験館はどこに位置していますか？",
+            "answer": "蔚山生えても大王岩に位置しています。"
+        },
+        {
+            "question": "音体験館のコンセプトは何ですか？",
+            "answer": "余韻(音の残響)の風景をコンセプトに建築されています。"
+        },
+        {
+            "question": "音体験館の規模はどれくらいですか？",
+            "answer": "地上2階654平方メートルの規模です。"
+        },
+        {
+            "question": "音体験館で何を体験できますか？",
+            "answer": "蔚山'東区の声9頃'を体験できる体験展示館です。"
+        }
+    ],
+    "word_Count": {
+        "text": 63,
+        "QA": 112
+    }
+}

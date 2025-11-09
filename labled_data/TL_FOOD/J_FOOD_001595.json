@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001595",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "CHICKENISM 堂山 ( 치키니즘 당산 )"
+    },
+    "text": "CHICKENISM 堂山 ( 치키니즘 당산 )\\n\nソウル特別市 ヨンドゥンポ区 グクフェデロ53ギル30\\n\nオーブンで焼いたチキンが食べられる店です。ソウル特別市のヨンドゥンポ区に位置した韓食専門店です。代表的なメニューはチキンです。",
+    "QA": [
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "この店はソウル特別市のヨンドゥンポ区に位置しています。具体的な住所はグクフェデロ53ギル30です。"
+        },
+        {
+            "question": "この店の特徴的なメニューは何ですか？",
+            "answer": "この店の代表的なメニューはオーブンで焼いたチキンです。美味しいチキンが食べられます。"
+        },
+        {
+            "question": "この店の営業時間は何時から何時までですか？",
+            "answer": "この店の営業時間は11時から22時までです。"
+        },
+        {
+            "question": "この店の電話番号は何ですか？",
+            "answer": "申し訳ありませんが、提供されたテキストには電話番号の情報がありません。"
+        },
+        {
+            "question": "この店の予約方法はありますか？",
+            "answer": "はい、この店では予約を受け付けています。電話で予約することができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 88,
+        "QA": 193
+    }
+}

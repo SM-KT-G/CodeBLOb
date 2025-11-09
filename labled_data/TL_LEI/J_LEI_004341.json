@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_LEI_004341",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101933",
+        "collectedDate": "2023-09-21",
+        "publishedDate": "2023-01-16",
+        "domain": "레포츠",
+        "title": "깊이울마을 야영장"
+    },
+    "text": "深海ウル村キャンプ場 (깊이울마을 야영장)\\n\n京畿道抱川市新北面深さウル路234-21\\n\n'''直営'''方法で運営しています。 '''一般キャンプ場、キャラバン'''をご利用いただけます。 '''直営'''方式で運営しています。",
+    "QA": [
+        {
+            "question": "キャンプ場の場所はどこですか？",
+            "answer": "深海ウル村キャンプ場は京畿道抱川市新北面深さウル路234-21にあります。"
+        },
+        {
+            "question": "キャンプ場ではどのような施設が利用できますか？",
+            "answer": "キャンプ場では一般キャンプ場やキャラバンを利用することができます。"
+        },
+        {
+            "question": "キャンプ場はどのような運営方法で行われていますか？",
+            "answer": "深海ウル村キャンプ場は直営方式で運営されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 86,
+        "QA": 115
+    }
+}

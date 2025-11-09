@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_005503",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "ケヤキ刺身専門店 ( 느티나무횟집 )"
+    },
+    "text": "ケヤキ刺身専門店 ( 느티나무횟집 )\\n\n忠清北道 堤川市 清風面 ベシロン路 4\\n\n40年の伝統を誇る堤川市選定のグルメスポットです。忠淸北道のジェチョン市に位置した韓食専門店です。代表的なメニューはコウライケツギョの辛味スープです。",
+    "QA": [
+        {
+            "question": "このケヤキ刺身専門店の場所はどこですか？",
+            "answer": "堤川市清風面ベシロン路4に位置しています。"
+        },
+        {
+            "question": "ケヤキ刺身専門店はどのくらいの歴史がありますか？",
+            "answer": "この店は40年の伝統を誇っています。"
+        },
+        {
+            "question": "この店の代表的なメニューは何ですか？",
+            "answer": "代表的なメニューはコウライケツギョの辛味スープです。"
+        }
+    ],
+    "word_Count": {
+        "text": 88,
+        "QA": 93
+    }
+}

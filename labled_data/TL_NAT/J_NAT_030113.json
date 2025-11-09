@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_030113",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=238&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=13&ccbaAsno=01390000&ccbaCtcd=31&ccbaCpno=1333101390000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1964-08-29",
+        "domain": "자연관광",
+        "title": "김포 문수산성"
+    },
+    "text": "金浦 ムンスサンソン\\n\n京畿道金浦市月串面浦內里山36-1番地\\n\n朝鮮時代、私的、ガプゴッと共に江華の入り口を守っていた朝鮮時代の城だ。朝鮮粛宗20年(1694)に石を用いて積んだ石垣山城で、純祖(12年(1812)に直して築いた。よく整備された石でロバストに積み、その上に身を隠すための防御施設な旅装を回した。当時の城門はチュイイェリュ・コンヘルなど3つの門樓と秘密通路であるアムムン3個があった。現在、海岸の方の城壁と門樓はなくなり、村になっており、尾根を連結した城壁だけが残っている。高宗3年(1866)の丙寅洋擾の時、フランス軍と激しい戦闘を行ったところだ。※(文殊山城→、金浦(キンポ)文殊(ムンス)山城)に名称変更になりました。(2011.07.28の告示)。",
+    "QA": [
+        {
+            "question": "この城はいつ建てられましたか？",
+            "answer": "朝鮮粛宗20年(1694)に石を用いて積んだ石垣山城で、純祖(12年(1812)に直して築いた。"
+        },
+        {
+            "question": "この城の目的は何でしたか？",
+            "answer": "私的、ガプゴッと共に江華の入り口を守っていた朝鮮時代の城でした。"
+        },
+        {
+            "question": "この城はどこにありますか？",
+            "answer": "京畿道金浦市月串面浦內里山36-1番地にあります。"
+        },
+        {
+            "question": "この城でどのような戦闘が行われましたか？",
+            "answer": "高宗3年(1866)の丙寅洋擾の時、フランス軍と激しい戦闘を行ったところです。"
+        },
+        {
+            "question": "この城にはどのような門樓がありましたか？",
+            "answer": "当時の城門はチュイイェリュ・コンヘルなど3つの門樓と秘密通路であるアムムン3個がありました。"
+        }
+    ],
+    "word_Count": {
+        "text": 247,
+        "QA": 198
+    }
+}

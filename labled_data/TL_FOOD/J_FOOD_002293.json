@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_002293",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2022-09-13",
+        "domain": "음식점",
+        "title": "아키라"
+    },
+    "text": "アキラ (아키라)\\n\n蔚山広域市南区往生路62番キル15-1(達洞)\\n\nミン・ヒョンテクさんが手掛ける日本伝統の讃岐うどん本陣明は、多くの教育生を育成してきた名店です。こちらのお店は、地元の讃岐製麺および熟成技術に基づいて運営されています。",
+    "QA": [
+        {
+            "question": "このお店の場所はどこですか？",
+            "answer": "蔚山広域市南区往生路62番キル15-1(達洞)にあります。"
+        },
+        {
+            "question": "このお店の特徴は何ですか？",
+            "answer": "このお店は、日本伝統の讃岐うどんを提供している名店で、讃岐製麺や熟成技術に基づいて運営されています。"
+        },
+        {
+            "question": "このお店で育成された教育生は多いですか？",
+            "answer": "はい、このお店では多くの教育生を育成してきました。"
+        },
+        {
+            "question": "このお店のオーナーは誰ですか？",
+            "answer": "このお店のオーナーはミン・ヒョンテクさんです。"
+        }
+    ],
+    "word_Count": {
+        "text": 89,
+        "QA": 138
+    }
+}

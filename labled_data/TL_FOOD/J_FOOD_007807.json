@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_007807",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2020-12-07",
+        "domain": "음식점",
+        "title": "シルヒャンギ 堂山( 시루향기 당산 )"
+    },
+    "text": "シルヒャンギ 堂山( 시루향기 당산 )\\n\nソウル特別市 ヨンドゥンポ区 ボドゥナルロ103\\n\n豆もやしで煮たさっぱりしたクッパが食べられる店です。ソウル特別市のヨンドゥンポ区に位置した韓食専門店です。代表的なメニューは豆もやしクッパです。",
+    "QA": [
+        {
+            "question": "このレストランの場所はどこですか？",
+            "answer": "シルヒャンギ 堂山( 시루향기 당산 )はソウル特別市のヨンドゥンポ区にあります。具体的な場所はボドゥナルロ103です。"
+        },
+        {
+            "question": "このレストランではどんな料理が食べられますか？",
+            "answer": "このレストランでは豆もやしで煮たさっぱりしたクッパが食べられます。"
+        },
+        {
+            "question": "このレストランの代表的なメニューは何ですか？",
+            "answer": "このレストランの代表的なメニューは豆もやしクッパです。"
+        }
+    ],
+    "word_Count": {
+        "text": 89,
+        "QA": 133
+    }
+}

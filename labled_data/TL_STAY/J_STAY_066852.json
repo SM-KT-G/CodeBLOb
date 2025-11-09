@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_066852",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42070&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "청주 오창 모텔 짝 운영 정책"
+    },
+    "text": "- チェックイン時間は17:00です。 - チェックアウト時間は12:00です。 - 会員特典は再休業内規に従って適用され、フロントでヤノルジャ会員であることをお知らせください。 - 客室は2人基準で予約されます。 追加人数がいる場合、追加料金が発生します。 - お客様の快適さと快適さのために最善を尽くします。 - 未成年者は入室できません。 20歳になるといつでも来られます。 - 入室およびご利用に関する詳細なご案内はフロントにてお受けいただけます。",
+    "QA": [
+        {
+            "question": "チェックイン時間は何時ですか？",
+            "answer": "17:00です。"
+        },
+        {
+            "question": "チェックアウト時間は何時ですか？",
+            "answer": "12:00です。"
+        },
+        {
+            "question": "会員特典はどのように適用されますか？",
+            "answer": "再休業内規に従って適用され、フロントでヤノルジャ会員であることをお知らせください。"
+        },
+        {
+            "question": "客室の予約は何人基準ですか？",
+            "answer": "2人基準で予約されます。追加人数がいる場合、追加料金が発生します。"
+        },
+        {
+            "question": "未成年者は入室できますか？",
+            "answer": "いいえ、20歳になるまで入室できません。"
+        }
+    ],
+    "word_Count": {
+        "text": 167,
+        "QA": 136
+    }
+}

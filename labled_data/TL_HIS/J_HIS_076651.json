@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_076651",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/view?relicId=97383",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2023-10-11",
+        "domain": "문화/역사관광",
+        "title": "빗살무늬 토기 조각"
+    },
+    "text": "櫛目文土器片 (빗살무늬 토기 조각)\\n\nこの品物は、新石器時代の韓国で使用されたものです。材料は土で、軟らかい特性を持っています。主に食生活に関連しており、食べ物の保存や運搬に使用されていました。サイズは現在の基準で言えば、長さは5.6cm、7.6cm、6.3cm、5.5cmで、高さは7.7cm、5.8cm、11.2cm、10.8cmです。また、現在のは長さは10.7cm、6.2cm、8.5cm、高さは15.9cmです。",
+    "QA": [
+        {
+            "question": "この品物は何時代に使用されたものですか？",
+            "answer": "新石器時代に使用されました。"
+        },
+        {
+            "question": "この品物の材料は何でできていますか？",
+            "answer": "土でできており、軟らかい特性を持っています。"
+        },
+        {
+            "question": "この品物は主に何に関連していますか？",
+            "answer": "主に食生活に関連しており、食べ物の保存や運搬に使用されていました。"
+        },
+        {
+            "question": "この品物のサイズは何ですか？",
+            "answer": "サイズは現在の基準で言えば、長さは5.6cm、7.6cm、6.3cm、5.5cmで、高さは7.7cm、5.8cm、11.2cm、10.8cmです。また、現在のは長さは10.7cm、6.2cm、8.5cm、高さは15.9cmです。"
+        }
+    ],
+    "word_Count": {
+        "text": 156,
+        "QA": 185
+    }
+}

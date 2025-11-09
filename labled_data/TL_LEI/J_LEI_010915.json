@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_LEI_010915",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2023-01-09",
+        "domain": "레포츠",
+        "title": "강화도아침"
+    },
+    "text": "カンファド朝 (강화도아침)\\n\n仁川広域市江華郡吉祥面海岸南路860-2\\n\nソウル近郊のガンダムに囲まれた森のキャンプ場は、自然に優しいサイト配置が施され、日陰がたくさんあり快適です。入口には様々な体験ができるギャンがあり、本当の癒しを求める方にピッタリのキャンプ場です。",
+    "QA": [
+        {
+            "question": "このキャンプ場の名前は何ですか？",
+            "answer": "カンファド朝（강화도아침）です。"
+        },
+        {
+            "question": "キャンプ場の住所はどこですか？",
+            "answer": "仁川広域市江華郡吉祥面海岸南路860-2です。"
+        },
+        {
+            "question": "このキャンプ場はどのような特徴がありますか？",
+            "answer": "ソウル近郊のガンダムに囲まれた森のキャンプ場で、自然に優しいサイト配置とたくさんの日陰があります。"
+        },
+        {
+            "question": "キャンプ場の入口には何がありますか？",
+            "answer": "様々な体験ができるギャンがあります。"
+        },
+        {
+            "question": "このキャンプ場はどんな方におすすめですか？",
+            "answer": "本当の癒しを求める方にピッタリのキャンプ場です。"
+        }
+    ],
+    "word_Count": {
+        "text": 101,
+        "QA": 162
+    }
+}

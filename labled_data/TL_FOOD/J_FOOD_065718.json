@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_065718",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2023-02-15",
+        "domain": "음식점",
+        "title": "더덕고을"
+    },
+    "text": "大邱八公山(テグ・パルゴンサン)、ツルニンジンの村は八公山の近くに位置した蔓人参料理専門店である。一般定食はキキョウの根料理を中心に、微震定食は様々な種類のツルニンジン料理が提供される。",
+    "QA": [
+        {
+            "question": "大邱八公山はどこに位置していますか？",
+            "answer": "大邱八公山は蔓人参料理専門店の近くに位置しています。"
+        },
+        {
+            "question": "ツルニンジンの村はどこに位置していますか？",
+            "answer": "ツルニンジンの村は八公山の近くに位置しています。"
+        },
+        {
+            "question": "一般定食では何が中心となっていますか？",
+            "answer": "一般定食ではキキョウの根料理が中心となっています。"
+        },
+        {
+            "question": "微震定食では何種類のツルニンジン料理が提供されますか？",
+            "answer": "微震定食では様々な種類のツルニンジン料理が提供されます。"
+        }
+    ],
+    "word_Count": {
+        "text": 68,
+        "QA": 137
+    }
+}

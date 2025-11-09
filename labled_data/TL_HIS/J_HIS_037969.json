@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_037969",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=480&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=01380000&ccbaCtcd=33&ccbaCpno=2113301380000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1984-12-31",
+        "domain": "문화/역사관광",
+        "title": "진천 용화사 석조여래입상"
+    },
+    "text": "鎮川龍華寺石造如來立像 (진천 용화사 석조여래입상)\\n\n忠清北道鎮川郡鎮川邑新亭里584-4\\n\n忠清北道有形文化財、忠清北道鎮川郡鎮川邑新亭里にある高さ7mの大きな仏像で、楕円形の顔にほのかな笑みが見える。 頭のてっぺんにはバケットハットのようなものが載っているが、後で直したのではないかと思われる。 首には3列で刻まれた三道があり、その下に表現された首飾りは顔と共に仏像を引き立てている。 体はかさばらない大きな長方形をしている。 服は胸をあらわにしたまま両肩にかけて着ており、下半身にはU字型のしわを重ねて表した。 胸の前に持っている右手や、蓮の花を持ってお腹に当てた左手は小さく表現された。 巨大な大きさ、体積感のない四角形、貧弱な細部表現から高麗時代に地方化された仏像の特徴をよく表している。",
+    "QA": [
+        {
+            "question": "この仏像はどこにありますか？",
+            "answer": "この仏像は韓国の忠清北道鎮川郡鎮川邑新亭里にあります。"
+        },
+        {
+            "question": "この仏像の特徴は何ですか？",
+            "answer": "この仏像の特徴は、楕円形の顔にほのかな笑みがあり、頭のてっぺんにはバケットハットのようなものが載っていることです。また、首には刻まれた三道や首飾りがあります。体は大きな長方形で、服のデザインや手の表現は細部まで丁寧に描かれていません。これらの特徴は、高麗時代に地方化された仏像の特徴としてよく知られています。"
+        },
+        {
+            "question": "この仏像の高さは何メートルですか？",
+            "answer": "この仏像の高さは7メートルです。"
+        },
+        {
+            "question": "この仏像の手には何を持っていますか？",
+            "answer": "この仏像の右手には胸の前に何かを持っており、左手には蓮の花を持ってお腹に当てています。しかし、手の表現は小さく描かれています。"
+        }
+    ],
+    "word_Count": {
+        "text": 258,
+        "QA": 236
+    }
+}

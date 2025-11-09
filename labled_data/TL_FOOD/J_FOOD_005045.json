@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_005045",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "キルボクチョン（길복정）"
+    },
+    "text": "キルボクチョン（길복정）\\n\nソウル特別市 鐘路区 セムナン路5ガキル13\\n\n1980年にオープンしたソウル市光化門にある「キルボクチョン」は新鮮で淡白なふぐ料理を味わえるお店です。",
+    "QA": [
+        {
+            "question": "キルボクチョンはいつオープンしましたか？",
+            "answer": "キルボクチョンは1980年にオープンしました。"
+        },
+        {
+            "question": "キルボクチョンはどこの地区にありますか？",
+            "answer": "キルボクチョンはソウル特別市鐘路区にあります。"
+        },
+        {
+            "question": "キルボクチョンで味わえる料理は何ですか？",
+            "answer": "キルボクチョンでは新鮮で淡白なふぐ料理を味わうことができます。"
+        },
+        {
+            "question": "キルボクチョンの住所は何ですか？",
+            "answer": "キルボクチョンの住所はソウル特別市鐘路区セムナン路5ガキル13です。"
+        }
+    ],
+    "word_Count": {
+        "text": 67,
+        "QA": 137
+    }
+}

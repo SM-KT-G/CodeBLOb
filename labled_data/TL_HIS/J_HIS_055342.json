@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_055342",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/view?relicId=177891",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "기와 조각"
+    },
+    "text": "瓦礫 (기와 조각)\\n\n,国籍/時代:'韓国 - 統一新羅' ,材質:'土 - 硬質' ,分類:'主生活 - 建築部材 - 屋根材 - 雌木輪' ,大きさ:'現在長さ17.3cm、現在幅13.7cm、現在長さ11.9cm、現在幅12.1cm'",
+    "QA": [
+        {
+            "question": "この瓦礫は何の材質で作られていますか？",
+            "answer": "この瓦礫は土で作られています。"
+        },
+        {
+            "question": "この瓦礫はどの時代に作られましたか？",
+            "answer": "この瓦礫は統一新羅時代に作られました。"
+        },
+        {
+            "question": "この瓦礫はどのように使用されますか？",
+            "answer": "この瓦礫は屋根材として使用されます。"
+        },
+        {
+            "question": "この瓦礫の大きさはどのくらいですか？",
+            "answer": "この瓦礫の現在の長さは17.3cm、現在の幅は13.7cm、現在の長さは11.9cm、現在の幅は12.1cmです。"
+        }
+    ],
+    "word_Count": {
+        "text": 89,
+        "QA": 133
+    }
+}

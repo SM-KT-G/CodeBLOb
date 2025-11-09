@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_051997",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=810&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=00490100&ccbaCtcd=50&ccbaCpno=2333900490100&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1998-01-07",
+        "domain": "문화/역사관광",
+        "title": "곤을동환해장성"
+    },
+    "text": "高麗の原種11年(1270)、済州(チェジュ)特別自治道記念物、船に乗って入ってくる外敵の侵入を防ぐため、済州島では海岸線を歩きながら、城を築いたが、これをフヮンヘジャンソンという。この城壁は現在オンピョン里、杏園里・ヘンウォンリ、ハンドンリ、ドンボクリ、ブクチョンリ、エウォル)、コネ里など、14ヵ所で残っている。金サンホンの『ナムサロク』によると、フヮンヘジャンソンを\"耽羅の万里の長城\"と叫んだという。現在ゴンウル同意フヮンヘジャンソンでは城壁の長さが約140mとして知られている。城壁は外で船が歌った形式であり、城壁の上には鉄砲や弓を射ることができるように穴があいている。",
+    "QA": [
+        {
+            "question": "済州島には何を防ぐために城が築かれましたか？",
+            "answer": "外敵の侵入を防ぐために城が築かれました。"
+        },
+        {
+            "question": "フヮンヘジャンソンはどこに残っていますか？",
+            "answer": "フヮンヘジャンソンはオンピョン里、杏園里・ヘンウォンリ、ハンドンリ、ドンボクリ、ブクチョンリ、エウォル、コネ里など、14ヵ所で残っています。"
+        },
+        {
+            "question": "フヮンヘジャンソンは何と呼ばれていましたか？",
+            "answer": "フヮンヘジャンソンは金サンホンの『ナムサロク』によれば、'耽羅の万里の長城'と呼ばれていました。"
+        },
+        {
+            "question": "現在のゴンウル同意フヮンヘジャンソンの城壁の長さは何メートルですか？",
+            "answer": "現在のゴンウル同意フヮンヘジャンソンの城壁の長さは約140メートルです。"
+        },
+        {
+            "question": "フヮンヘジャンソンの城壁には何ができるようになっていましたか？",
+            "answer": "フヮンヘジャンソンの城壁には鉄砲や弓を射ることができるように穴があいていました。"
+        }
+    ],
+    "word_Count": {
+        "text": 212,
+        "QA": 252
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_001699",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-08-07",
+        "domain": "숙박",
+        "title": "AWホテル（AW호텔）"
+    },
+    "text": "AWホテル（AW호텔）\\n\n大邱広域市 達西区 城西路413\\n\n「AWホテル（AW HOTEL）」は、大邱2号線「城西産業団地（ソンソサノプダンジ）駅」近くに位置しています。城西産業団地は車で約5分のところにあり、臥龍山、城西体育センター、公園といった都会のなかの自然を楽しむのにも最適です。 客室には冷蔵庫、ミニバー、無線インターネットなどを完備し、ホテル内にはレストラン、コーヒーショップがあります。",
+    "QA": [
+        {
+            "question": "AWホテル（AW호텔）はどこに位置していますか？",
+            "answer": "AWホテル（AW HOTEL）は大邱2号線「城西産業団地（ソンソサノプダンジ）駅」近くに位置しています。"
+        },
+        {
+            "question": "AWホテルの周辺にはどのような観光スポットがありますか？",
+            "answer": "AWホテルの周辺には臥龍山、城西体育センター、公園などがあります。"
+        },
+        {
+            "question": "AWホテルの客室にはどのような設備がありますか？",
+            "answer": "AWホテルの客室には冷蔵庫、ミニバー、無線インターネットなどが完備されています。"
+        },
+        {
+            "question": "AWホテル内にはどのような施設がありますか？",
+            "answer": "AWホテル内にはレストランやコーヒーショップがあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 148,
+        "QA": 184
+    }
+}

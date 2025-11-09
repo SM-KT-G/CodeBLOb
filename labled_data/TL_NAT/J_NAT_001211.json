@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_001211",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=286&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=16&ccbaAsno=00500000&ccbaCtcd=37&ccbaCpno=1363700500000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1962-12-07",
+        "domain": "자연관광",
+        "title": "울릉 태하동 솔송나무·섬잣나무·너도밤나무 군락"
+    },
+    "text": "ウルルン・テハドン・ソルソンナム・ソムジャッナム・ノドバムナム・グンラク (울릉 태하동 솔송나무·섬잣나무·너도밤나무 군락)\\n\n慶尚北道鬱陵郡西面台下里山1-1番地\\n\nチョニョンギニョンムル , マツ·島松·ブナは茎が太く比較的上の方に枝が広がって育つ木々で、マツと島松は四季の葉が青いのに対し、ブナは大きくて広い葉が春に生えて秋に落ちる。 マツ·島松·ブナは日本ではよく見られるが、韓国では鬱陵島だけで育っている。 台霞洞の松林·島松·ブナ群落は植物分布上特異な形態を示すところで学術上非常に貴重な資源となっているため、保護している。",
+    "QA": [
+        {
+            "question": "この地域の名前は何ですか？",
+            "answer": "この地域はウルルン・テハドン・ソルソンナム・ソムジャッナム・ノドバムナム・グンラク（울릉 태하동 솔송나무·섬잣나무·너도밤나무 군락）と呼ばれています。"
+        },
+        {
+            "question": "この地域はどこにありますか？",
+            "answer": "この地域は韓国の慶尚北道鬱陵郡西面台下里山に位置しています。"
+        },
+        {
+            "question": "この地域にはどのような木々が育っていますか？",
+            "answer": "この地域にはマツ、島松、ブナが育っています。マツと島松は四季の葉が青く、ブナは大きくて広い葉が春に生えて秋に落ちる特徴があります。"
+        },
+        {
+            "question": "この地域の木々は日本と比べてどのような違いがありますか？",
+            "answer": "マツ、島松、ブナは韓国では鬱陵島だけで育っており、日本ではよく見られますが、韓国では特異な形態を示す植物分布となっています。"
+        },
+        {
+            "question": "なぜこの地域の松林・島松・ブナ群落は保護されているのですか？",
+            "answer": "台霞洞の松林・島松・ブナ群落は学術上非常に貴重な資源であり、植物分布上特異な形態を示すため、保護されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 199,
+        "QA": 290
+    }
+}

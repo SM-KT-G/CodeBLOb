@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_013562",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-05",
+        "domain": "음식점",
+        "title": "ホバンジョン ( 호반정 )"
+    },
+    "text": "ホバンジョン ( 호반정 )\\n\n慶尚北道 アンドン市 ソクジュロ217\\n\n鶏肉に各種の野菜と醤油タレを加えて煮詰めた料理です。代表的なメニューはチムダクです。慶尚北道のアンドン市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "ホバンジョンはどのような料理ですか？",
+            "answer": "ホバンジョンは鶏肉に各種の野菜と醤油タレを加えて煮詰めた料理です。"
+        },
+        {
+            "question": "ホバンジョンの代表的なメニューは何ですか？",
+            "answer": "ホバンジョンの代表的なメニューはチムダクです。"
+        },
+        {
+            "question": "ホバンジョンはどこの地域で食べられますか？",
+            "answer": "ホバンジョンは慶尚北道のアンドン市で食べることができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 76,
+        "QA": 106
+    }
+}

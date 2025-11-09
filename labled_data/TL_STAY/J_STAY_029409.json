@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_029409",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/lodge/dongducheon-tourist-hotel",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "東豆川観光ホテル"
+    },
+    "text": "東豆川観光ホテル\\n\n京畿道 東豆川市 平和路2497 )\\n\n東豆川（トンドゥチョン）観光（クァングァン）ホテルは、東豆川の中央にあり、京畿道の名山である逍遥山が近くにあります。",
+    "QA": [
+        {
+            "question": "このホテルはどこにありますか？",
+            "answer": "東豆川観光ホテルは、京畿道東豆川市平和路2497に位置しています。"
+        },
+        {
+            "question": "ホテルの周辺には何がありますか？",
+            "answer": "ホテルの周辺には逍遥山という京畿道の名山があります。"
+        },
+        {
+            "question": "ホテルの特徴は何ですか？",
+            "answer": "ホテルは東豆川の中央に位置し、逍遥山に近い立地です。"
+        }
+    ],
+    "word_Count": {
+        "text": 66,
+        "QA": 93
+    }
+}

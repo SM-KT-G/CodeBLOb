@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_018127",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1042&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=01100000&ccbaCtcd=37&ccbaCpno=3413701100000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1985-08-05",
+        "domain": "문화/역사관광",
+        "title": "벽송정"
+    },
+    "text": "碧松亭 (벽송정)\\n\n慶尚北道高霊郡嶺西路3009(双林面)\\n\n慶尚北道文化財資料 , この建物は壬辰倭乱後、ここ儒林たちが孤雲チェ·チウォンの精神を称え、儒生たちを教育するために建設した亭子だ。 本来、この亭子はチェ·チウォンが伽耶山海印寺に住みながらよく王林したと伝える鳳津村前の安林川辺にあった。 しかし1930年頃、大洪水で一部毀損されたものをここに移築した。 碧松亭は新村里村の裏山である鶴山の麓に南西向きに位置している。 2段に築造された基壇の上に正面3間、側面2間の一軒八作集だ。 平面は6間規模の広い床で構成されており、オンドル部屋は設置されていない。 床の4面はすべて開放し、床は井戸端を置いた。 亭子の構造は5両家の超翼工系で、石の礎石の上に全て頭柱を立てて上部構造を受けさせ、倉房と道里の間には花盤を挟んで飾った。 湖南に近い慶尚北道西部地域の床中心の亭子形式に従ったものと見られる。 碧松亭には新羅の崔致遠および朝鮮時代の金宏弼、鄭汝昌などの詩文が残っており、建物の長い由来が推察できる。",
+    "QA": [
+        {
+            "question": "碧松亭はどこに位置していますか？",
+            "answer": "碧松亭は慶尚北道高霊郡嶺西路3009(双林面)に位置しています。"
+        },
+        {
+            "question": "碧松亭は何のために建設されましたか？",
+            "answer": "碧松亭は儒林たちが孤雲チェ·チウォンの精神を称え、儒生たちを教育するために建設されました。"
+        },
+        {
+            "question": "碧松亭はどのような構造を持っていますか？",
+            "answer": "碧松亭は2段に築造された基壇の上に正面3間、側面2間の一軒八作集で、5両家の超翼工系の構造を持っています。"
+        },
+        {
+            "question": "碧松亭にはどのような詩文が残っていますか？",
+            "answer": "碧松亭には新羅の崔致遠および朝鮮時代の金宏弼、鄭汝昌などの詩文が残っています。"
+        },
+        {
+            "question": "碧松亭はどのような由来を持っていますか？",
+            "answer": "碧松亭は壬辰倭乱後、鳳津村前の安林川辺にあった建物を大洪水で一部毀損されたため、1930年頃にここに移築されました。"
+        }
+    ],
+    "word_Count": {
+        "text": 335,
+        "QA": 236
+    }
+}

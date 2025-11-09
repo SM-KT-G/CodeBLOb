@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_004060",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42090&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "서귀포 소기왓독채펜션"
+    },
+    "text": "こんにちは、西帰浦のソギワッペンションです。 当ペンションは20坪台の一軒家民宿で、コンビニは徒歩1分の距離にあります。 近くにはランドリールームとバス停があって便利です。 周辺には群山オルム、ノンジッムル、パク·スギジョン、中文観光団地など主要観光地がたくさんあって観光に最適です。 お知らせでは、2泊以上ご予約の場合のみご利用できるとお知らせし、1泊のみご予約される場合は強制的にキャンセルされます。 また、22時以降に入室される場合は、予めペンションまでご連絡ください。",
+    "QA": [
+        {
+            "question": "このペンションの場所はどこですか？",
+            "answer": "西帰浦にあります。"
+        },
+        {
+            "question": "周辺にどんな観光地がありますか？",
+            "answer": "群山オルム、ノンジッムル、パク・スギジョン、中文観光団地などがあります。"
+        },
+        {
+            "question": "コンビニはどれくらいの距離にありますか？",
+            "answer": "徒歩1分の距離にあります。"
+        },
+        {
+            "question": "バス停は近くにありますか？",
+            "answer": "はい、近くにバス停があります。"
+        },
+        {
+            "question": "ペンションに入室する際、22時以降はどうすればいいですか？",
+            "answer": "予めペンションまでご連絡ください。"
+        }
+    ],
+    "word_Count": {
+        "text": 174,
+        "QA": 135
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_032619",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=330&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=17&ccbaAsno=00670000&ccbaCtcd=50&ccbaCpno=1273900670000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "탕건장"
+    },
+    "text": "宕巾匠 (탕건장)\\n\n国家無形文化財、タンゴンは男性が笠をかぶる時に支える帽子の一種で、紗帽や笠の代わりに普段の家でかぶり、馬銃や牛尾の毛で作る。 このような宕巾を作る技術とその技術を持った人を宕巾匠という。 朝鮮時代には官職者が普段官に代わって使い、俗称「敢闘」とも言って官職に就くことを称する「敢闘を書く」という表現もここから由来した。 タンゴンは韓国の馬塚がほとんど済州道で生産されるため、済州道で最も多く作られた。 タンゴンは一重タンゴンと二重タンゴン、囲碁タンゴンに分類される。 いずれも形は同じだが、二重または二重、三重に編んでいく方法によって形が変わったのだ。 囲碁のタンゴンは四角模様を置いたものだが、これはタンゴンが独立した帽子の役割をすることによって装飾化されたものだ。",
+    "QA": [
+        {
+            "question": "宕巾匠はどのような役割を果たしていますか？",
+            "answer": "宕巾匠は宕巾を作る技術を持った人で、男性が笠をかぶる際に支える帽子を作ります。"
+        },
+        {
+            "question": "宕巾はどのような素材で作られていますか？",
+            "answer": "宕巾は馬銃や牛尾の毛で作られます。"
+        },
+        {
+            "question": "宕巾はどこで主に作られますか？",
+            "answer": "宕巾は韓国の済州道で主に作られます。"
+        },
+        {
+            "question": "宕巾はどのような種類に分けられますか？",
+            "answer": "宕巾は一重タンゴン、二重タンゴン、および囲碁タンゴンの3つの種類に分けられます。"
+        },
+        {
+            "question": "囲碁タンゴンはどのような特徴がありますか？",
+            "answer": "囲碁のタンゴンは四角模様を置いたもので、独立した帽子の役割をすることによって装飾化されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 253,
+        "QA": 189
+    }
+}

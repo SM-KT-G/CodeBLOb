@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_006638",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-27",
+        "domain": "문화/역사관광",
+        "title": "江村駅(강촌역)"
+    },
+    "text": "江村駅(강촌역)\\n\n江原道 春川市 南山面 江村路34\\n\n「江村駅（カンチョンヨク）」は、1939年の江村線の開通と共に運営が開始され、1989年に避岩トンネルの工事に伴い駅舎が新築・移転しました。そしてさらに、2010年12月21日に駅舎が新築・移転しました。",
+    "QA": [
+        {
+            "question": "江村駅はいつ開業されましたか？",
+            "answer": "江村駅は1939年に江村線の開通と共に開業されました。"
+        },
+        {
+            "question": "江村駅の駅舎はいつ新築・移転されましたか？",
+            "answer": "江村駅の駅舎は1989年に避岩トンネルの工事に伴い新築・移転されました。そして、さらに2010年12月21日にも新築・移転されました。"
+        },
+        {
+            "question": "江村駅はどの市に位置していますか？",
+            "answer": "江村駅は江原道春川市南山面に位置しています。"
+        },
+        {
+            "question": "江村駅の住所は何ですか？",
+            "answer": "江村駅の住所は江原道春川市南山面江村路34です。"
+        }
+    ],
+    "word_Count": {
+        "text": 97,
+        "QA": 150
+    }
+}

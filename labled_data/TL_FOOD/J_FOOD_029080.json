@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_029080",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-05-24",
+        "domain": "음식점",
+        "title": "漢陽亭（한양정）"
+    },
+    "text": "漢陽亭\\n\n仁川広域市 延寿区 清涼路113番キル1\\n\n「漢陽亭（ハニャンジョン）」が使用するカモは、江華から直送される生カモで、硫黄を食べて育ったため、皮が薄く、淡白な味わいが特徴です。ほろ苦い漢方薬剤の香りと香ばしいカモ肉の香りが食欲をそそります。",
+    "QA": [
+        {
+            "question": "漢陽亭の場所はどこですか？",
+            "answer": "漢陽亭は仁川広域市延寿区の清涼路113番キル1にあります。"
+        },
+        {
+            "question": "漢陽亭で提供されるカモはどこから直送されますか？",
+            "answer": "漢陽亭で提供されるカモは江華から直送されます。"
+        },
+        {
+            "question": "漢陽亭のカモはどのように育てられていますか？",
+            "answer": "漢陽亭で使用するカモは硫黄を食べて育てられており、皮が薄く、淡白な味わいが特徴です。"
+        },
+        {
+            "question": "漢陽亭のカモ肉の特徴は何ですか？",
+            "answer": "漢陽亭のカモ肉はほろ苦い漢方薬剤の香りと香ばしいカモ肉の香りが食欲をそそります。"
+        }
+    ],
+    "word_Count": {
+        "text": 93,
+        "QA": 153
+    }
+}

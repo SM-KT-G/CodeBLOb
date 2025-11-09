@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_031373",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/goods/GN0002033665?startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0%5E&npprmaxsort=min",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "안성 예스텔"
+    },
+    "text": "1人1週目可能なイェステルMotelは、お客様の声援に支えられ、リニューアルオープンしました。 大理石が設置された全客室にはヘアアイロンとLED鏡、空気清浄機が備えられており、安らかな睡眠のためにメモリーフォームベッドを提供しています。 また、Wi-Fiとネットフリックスが設置されたテレビも提供され、便利な休憩を楽しむことができます。 イェステルMotelは安城を代表する宿泊業として最高の施設と最上のサービスを提供することをお約束いたします。",
+    "QA": [
+        {
+            "question": "イェステルMotelの客室にはどんな設備が備えられていますか？",
+            "answer": "大理石が設置された全客室にはヘアアイロンとLED鏡、空気清浄機が備えられており、安らかな睡眠のためにメモリーフォームベッドを提供しています。"
+        },
+        {
+            "question": "イェステルMotelで利用できるテレビの機能は何ですか？",
+            "answer": "Wi-Fiとネットフリックスが設置されたテレビを提供しており、便利な休憩を楽しむことができます。"
+        },
+        {
+            "question": "イェステルMotelはどのような宿泊業ですか？",
+            "answer": "イェステルMotelは安城を代表する宿泊業として最高の施設と最上のサービスを提供することをお約束いたします。"
+        }
+    ],
+    "word_Count": {
+        "text": 163,
+        "QA": 186
+    }
+}

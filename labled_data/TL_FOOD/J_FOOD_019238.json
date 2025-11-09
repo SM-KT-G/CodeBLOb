@@ -1,0 +1,51 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_019238",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-05",
+        "domain": "음식점",
+        "title": "大元 ( 대원 )"
+    },
+    "text": "大元 ( 대원 )\\n\nソウル特別市 永登浦区 ククジェグムユンロ8ギル34\\n\nサラリーマンがよく訪れる店です。代表的なメニューは串焼きです。ソウル特別市のヨンドゥンポ区に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "ソウル特別市 永登浦区 ククジェグムユンロ8ギル34にあります。"
+        },
+        {
+            "question": "この店の代表的なメニューは何ですか？",
+            "answer": "串焼きが代表的なメニューです。"
+        },
+        {
+            "question": "この店はどんな人によく訪れられますか？",
+            "answer": "サラリーマンがよく訪れる店です。"
+        },
+        {
+            "question": "この店はどのくらいの広さですか？",
+            "answer": "店の広さに関する情報は提供されていません。"
+        },
+        {
+            "question": "この店の雰囲気はどうですか？",
+            "answer": "雰囲気に関する情報は提供されていません。"
+        },
+        {
+            "question": "この店は何時から営業していますか？",
+            "answer": "営業時間に関する情報は提供されていません。"
+        },
+        {
+            "question": "この店は予約が必要ですか？",
+            "answer": "予約に関する情報は提供されていません。"
+        }
+    ],
+    "word_Count": {
+        "text": 72,
+        "QA": 186
+    }
+}

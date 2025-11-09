@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_038727",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=824&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=00700000&ccbaCtcd=32&ccbaCpno=2333200700000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1995-03-09",
+        "domain": "문화/역사관광",
+        "title": "정선송계리산성및고분군"
+    },
+    "text": "旌善松溪里山城及び古墳群 (정선송계리산성및고분군)\\n\n江原道旌善郡臨渓面松渓里山80番地\\n\n江原特別自治道 記念物、松渓里の前の山の稜線に三陟市を眺めながら建てられた城とその周囲に分布した墓だ。 松渓里山城は江陵·東海地域から旌善に渡る街角である挿唐嶺と白福嶺が一望できる戦略的要衝地に位置している。 城は傾斜が激しい丘陵の東側に外壁だけを石で積み上げ、内側は土と雑石で満たした内濁山城で比較的一直線に積み上げた。 南側の城壁の先端で丘陵は急激に低くなり再び稜線を形成するが、ここに沿って4基の墓が分布している。 すべて盗掘され、石槨が露出しているが、1基の大型墓だけが内部を確認できる。 確認された内部構造は前開き式の石積み墳（横溝式石槨墓）である。 山城と墓は深い関連性があると考えられるが、山城の内側にも墓が安置されており、墓が山城より遅く作られたものと見られる。 山城と墓周辺で三国時代のものと推定される土器片が収拾されたが、山城が正確に建てられた時を把握するには無理がある。",
+    "QA": [
+        {
+            "question": "旌善松溪里山城及び古墳群はどの地域に位置していますか？",
+            "answer": "旌善松溪里山城及び古墳群は江原道旌善郡臨渓面松渓里山80番地に位置しています。"
+        },
+        {
+            "question": "松渓里山城はどのような地形に建てられていますか？",
+            "answer": "松渓里山城は傾斜が激しい丘陵の東側に建てられています。"
+        },
+        {
+            "question": "松渓里山城の内部構造はどのようになっていますか？",
+            "answer": "松渓里山城の内部は土と雑石で満たされた内濁山城で、比較的一直線に積み上げられています。"
+        },
+        {
+            "question": "松渓里山城の周囲には何基の墓が分布していますか？",
+            "answer": "松渓里山城の周囲には4基の墓が分布しています。"
+        },
+        {
+            "question": "三陟市を眺めながら建てられた松渓里山城はどのような戦略的要衝地に位置していますか？",
+            "answer": "松渓里山城は江陵・東海地域から旌善に渡る街角である挿唐嶺と白福嶺が一望できる戦略的要衝地に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 326,
+        "QA": 238
+    }
+}

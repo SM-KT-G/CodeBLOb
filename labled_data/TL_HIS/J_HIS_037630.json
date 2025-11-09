@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_037630",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=752&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=22&ccbaAsno=00540000&ccbaCtcd=35&ccbaCpno=2223500540000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "전주모필장"
+    },
+    "text": "全州毛筆匠 (전주모필장)\\n\n全羅北道無形文化財、毛筆帳は文房四友の一つである筆を作る人とその技術をいう。筆は墨を含有するが均一に発散できなければならず、摩耗に長く耐えられる耐久力と筆先である弧の割れがあってはならず、弾力と柔軟性を維持しなければならない。このような条件を充足させる材料として羊の脇毛、イタチの尾毛、野ウサギの毛など色々な動物の毛が使われるが、寒い内陸地方の獣ほど品質が良い。筆の構成は触手と筆の棒、そして大筆の場合は筆先と筆の棒を連結する角筒になっているが、筆の棒は主に竹を使用し、角筒はチャンチンを多く使う。筆の製作過程は選別-脱脂-精毛-混毛-分毛-衣体と作触-筆触挿入の複雑で繊細な過程で構成される。",
+    "QA": [
+        {
+            "question": "全州毛筆匠とは何ですか？",
+            "answer": "全州毛筆匠は、筆を作る人とその技術を指します。筆は墨を均一に発散できるようにしなければならず、耐久力と筆先の割れにも注意が必要です。材料としては、羊の脇毛、イタチの尾毛、野ウサギの毛などが使われます。"
+        },
+        {
+            "question": "筆の材料にはどのような動物の毛が使われますか？",
+            "answer": "筆の材料には、羊の脇毛、イタチの尾毛、野ウサギの毛などが使われます。特に寒い内陸地方の獣の毛ほど品質が良いとされています。"
+        },
+        {
+            "question": "筆の構成要素は何ですか？",
+            "answer": "筆の構成要素は触手と筆の棒、そして大筆の場合は筆先と筆の棒を連結する角筒です。筆の棒には主に竹が使用され、角筒にはチャンチンが多く使用されます。"
+        },
+        {
+            "question": "筆の製作過程はどのようになっていますか？",
+            "answer": "筆の製作過程は選別-脱脂-精毛-混毛-分毛-衣体と作触-筆触挿入の複雑で繊細な過程で構成されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 229,
+        "QA": 257
+    }
+}

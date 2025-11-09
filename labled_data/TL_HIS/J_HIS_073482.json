@@ -1,0 +1,51 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_073482",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1217&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=79&ccbaAsno=03270000&ccbaCtcd=21&ccbaCpno=4412103270000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2007-07-03",
+        "domain": "문화/역사관광",
+        "title": "부산 복병산배수지"
+    },
+    "text": "釜山伏兵山配水池\\n\n釜山中区サムギル10(大清洞1街)\\n\n1910年、国の登録文化財、この施設物はソンジゴク水原地水を各家庭に供給するために建立した。配水池は計3棟で構成されており、正面左側の貯水施設の2洞は1910年に建設し、右1洞は1973年に増築した。1910年のろ過施設の壁は赤いレンガづくりで、上層部は石材で取引を終えており、アーチ状の石造りのドア枠になった入り口の上には''ソンギョン(仙境)の水のように乾いてはいけない''という意味の''要旨無尽(瑤池無盡)''という扁額が残っている。",
+    "QA": [
+        {
+            "question": "釜山伏兵山配水池はいつ建設されましたか？",
+            "answer": "釜山伏兵山配水池は1910年に建設されました。"
+        },
+        {
+            "question": "釜山伏兵山配水池は何のために建設されましたか？",
+            "answer": "釜山伏兵山配水池はソンジゴク水原地水を各家庭に供給するために建設されました。"
+        },
+        {
+            "question": "釜山伏兵山配水池は何棟で構成されていますか？",
+            "answer": "釜山伏兵山配水池は計3棟で構成されています。"
+        },
+        {
+            "question": "貯水施設の2洞はいつ建設されましたか？",
+            "answer": "貯水施設の2洞は1910年に建設されました。"
+        },
+        {
+            "question": "どの洞は1973年に増築されましたか？",
+            "answer": "右1洞は1973年に増築されました。"
+        },
+        {
+            "question": "ろ過施設の壁はどのような素材で作られていますか？",
+            "answer": "ろ過施設の壁は赤いレンガで作られています。"
+        },
+        {
+            "question": "入り口の上にはどのような扁額が残っていますか？",
+            "answer": "入り口の上には『要旨無尽(瑤池無盡)』という扁額が残っています。"
+        }
+    ],
+    "word_Count": {
+        "text": 184,
+        "QA": 239
+    }
+}

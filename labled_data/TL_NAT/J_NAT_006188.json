@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_006188",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1041&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=01090000&ccbaCtcd=34&ccbaCpno=3413401090000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1984-05-17",
+        "domain": "자연관광",
+        "title": "군창지"
+    },
+    "text": "軍倉地 (군창지)\\n\n忠清南道扶余郡扶余邑双北里678-2\\n\n忠清南道文化財資料 , 百済の時、軍隊で使う食料を備蓄しておいた倉庫跡で、扶蘇山の東側にある扶蘇山城の中心部に位置している。 軍倉地は1915年、地中で焼けた穀物が発見され世の中に知られるようになり、1981年と1982年の2回にわたる発掘調査で建物跡の規模を詳しく明らかにした。 百済の時から位置していたこの軍倉地を朝鮮時代にも再び利用したものと見られる。 真ん中に空間を置いて東·西·南·北に建物を配置し、ロ字型を形成している。",
+    "QA": [
+        {
+            "question": "この軍倉地は何時代に建てられましたか？",
+            "answer": "この軍倉地は百済の時から存在しており、朝鮮時代にも再び利用されました。"
+        },
+        {
+            "question": "軍倉地はどのような形をしていますか？",
+            "answer": "軍倉地はロ字型を形成しており、真ん中に空間を置いて東・西・南・北に建物が配置されています。"
+        },
+        {
+            "question": "軍倉地はどこに位置していますか？",
+            "answer": "軍倉地は扶蘇山城の中心部に位置しており、扶蘇山の東側にあります。"
+        },
+        {
+            "question": "軍倉地はどのような役割を果たしていましたか？",
+            "answer": "軍倉地は軍隊で使う食料を備蓄するための倉庫でした。"
+        },
+        {
+            "question": "軍倉地はいつ発掘調査されましたか？",
+            "answer": "軍倉地の発掘調査は1981年と1982年の2回にわたって行われました。"
+        }
+    ],
+    "word_Count": {
+        "text": 182,
+        "QA": 193
+    }
+}

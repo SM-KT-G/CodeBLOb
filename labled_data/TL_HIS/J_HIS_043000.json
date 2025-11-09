@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_043000",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=216&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=20890000&ccbaCtcd=32&ccbaCpno=1123220890000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2020-12-28",
+        "domain": "문화/역사관광",
+        "title": "강릉향교 동무‧서무‧전랑"
+    },
+    "text": "カンヌン・ヒャンギョ 동무‧서무‧전랑\\n\n江原道江陵市明倫路29(キョドン、ジャン·ジャン)\\n\n朝鮮時代(友、庶務1413年の再建、1613年再建、1623年再建/銓郎14、宝物、\"江陵郷校\"友達との庶務は、それぞれ5間の建物で、大成殿の前庭の左右を満たして大成殿の側面まで伸びていること。友達との庶務は、丁寧に製作されたサロンチャン、枕形台を持つ童子対空、丸く巻き上げたボアのチョガクなどで古式の建築技法が継承されている姿を確認することができる。江陵郷校銓郎は大成殿前面に横長に建てられた廊になっており、特異な形だが、これは、郷校内三門形式が揃うこと以前の形式と推定され、1721年中央捜査部(元ロウ中スキロク)後も大きな変化なく現在に至っていて、歴史的価値があること。...",
+    "QA": [
+        {
+            "question": "江陵市明倫路29はどこにありますか？",
+            "answer": "江陵市明倫路29は江原道江陵市にあります。"
+        },
+        {
+            "question": "江陵郷校とは何ですか？",
+            "answer": "江陵郷校は友達との庶務で、大成殿の前庭の左右を満たして大成殿の側面まで伸びている建物です。"
+        },
+        {
+            "question": "江陵郷校銓郎はどのような形ですか？",
+            "answer": "江陵郷校銓郎は大成殿前面に横長に建てられた廊です。"
+        },
+        {
+            "question": "江陵郷校銓郎の建築技法について教えてください。",
+            "answer": "江陵郷校銓郎の建築技法には、丁寧に製作されたサロンチャン、枕形台を持つ童子対空、丸く巻き上げたボアのチョガクなどの古式の建築技法が継承されています。"
+        },
+        {
+            "question": "江陵郷校銓郎の歴史的価値は何ですか？",
+            "answer": "江陵郷校銓郎は1721年中央捜査部(元ロウ中スキロク)以降も大きな変化なく現在に至っており、歴史的価値があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 250,
+        "QA": 226
+    }
+}

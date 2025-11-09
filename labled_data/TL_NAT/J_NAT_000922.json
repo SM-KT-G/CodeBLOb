@@ -1,0 +1,51 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_000922",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-05-11",
+        "domain": "자연관광",
+        "title": "PEAK ISLAND（피크 아일랜드）"
+    },
+    "text": "PEAK ISLAND\\n\n江原道 平昌郡 大関嶺面 オリンピック路715\\n\n年中利用可能な屋内型ウォーターパークです。屋外施設は夏の繁忙期のみ運営しています。リゾート内に位置しているため客室から行きやすく、また施設内にはサウナやチムジルバンも備わっています。その他リゾートが運営するシャトルバスを利用することができます。（シャトルバスの時間および乗車場所はホームページ参照）",
+    "QA": [
+        {
+            "question": "平昌郡の大関嶺面にあるウォーターパークの名前は何ですか？",
+            "answer": "Peak Islandです。"
+        },
+        {
+            "question": "Peak Islandは屋内型のウォーターパークですか？",
+            "answer": "はい、Peak Islandは屋内型のウォーターパークです。"
+        },
+        {
+            "question": "Peak Islandには屋外施設もありますか？",
+            "answer": "はい、Peak Islandには夏の繁忙期のみ運営される屋外施設もあります。"
+        },
+        {
+            "question": "Peak Islandは年中利用できますか？",
+            "answer": "はい、Peak Islandは年中利用できます。"
+        },
+        {
+            "question": "Peak Islandの場所はどこですか？",
+            "answer": "Peak Islandは江原道平昌郡大関嶺面のオリンピック路715に位置しています。"
+        },
+        {
+            "question": "Peak Islandの施設内には何がありますか？",
+            "answer": "Peak Islandの施設内にはサウナやチムジルバンなども備わっています。"
+        },
+        {
+            "question": "Peak Islandへのアクセス手段はありますか？",
+            "answer": "はい、Peak Islandへはリゾートが運営するシャトルバスを利用することができます。シャトルバスの時間および乗車場所はホームページで確認できます。"
+        }
+    ],
+    "word_Count": {
+        "text": 138,
+        "QA": 319
+    }
+}

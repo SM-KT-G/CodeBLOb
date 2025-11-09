@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_025590",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1191&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=07030000&ccbaCtcd=37&ccbaCpno=3413707030000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2023-10-05",
+        "domain": "문화/역사관광",
+        "title": "영천 아계서사"
+    },
+    "text": "永川亜渓西寺 (영천 아계서사)\\n\n慶尚北道永川市旧書堂キル30-3(華山面)\\n\n1805年(朝鮮純祖5)創建 , 慶尚北道文化財資料 , 阿渓西寺は1805年(朝鮮純祖5)に定住したなどが宣祖の学徳を称え、後学を養成するために創建し、1862年に一度再建を経た後、現在まで保存状態が良好だ。本来、羅州鄭氏一族の門中書堂を目標に書舎を創建したが、修学した学生たちの範囲が次第に広くなり、後には慶北中北部地域の士族家にまで拡大し、このような意味で阿渓書舎は19世紀の郷村社会の動向や書堂の機能を明らかにできる重要な資料と評価される。建物の形は寺子屋と主事が共に残っており、建築細部的な面で朝鮮後期の時期的特性をよく反映しているので歴史的、建築的価値が高い。",
+    "QA": [
+        {
+            "question": "永川亜渓西寺はいつ創建されましたか？",
+            "answer": "永川亜渓西寺は1805年(朝鮮純祖5)に創建されました。"
+        },
+        {
+            "question": "永川亜渓西寺はどのような目的で創建されましたか？",
+            "answer": "永川亜渓西寺は宣祖の学徳を称え、後学を養成するために創建されました。"
+        },
+        {
+            "question": "永川亜渓西寺は何度再建されましたか？",
+            "answer": "永川亜渓西寺は1862年に一度再建されました。"
+        },
+        {
+            "question": "永川亜渓西寺はどのような建物ですか？",
+            "answer": "永川亜渓西寺は寺子屋と主事が共に残っており、朝鮮後期の時期的特性をよく反映している建物です。"
+        },
+        {
+            "question": "永川亜渓西寺はどのような価値を持っていますか？",
+            "answer": "永川亜渓西寺は歴史的、建築的価値が高く、19世紀の郷村社会の動向や書堂の機能を明らかにできる重要な資料とされています。"
+        }
+    ],
+    "word_Count": {
+        "text": 241,
+        "QA": 213
+    }
+}

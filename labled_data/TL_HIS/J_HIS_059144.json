@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_059144",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/view?relicId=86358",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "담뱃대"
+    },
+    "text": "キセル (담뱃대)\\n\n水口がないが、タバコの筒は白銅で作られたキセルです。タバコ筒の中には、タバコを挿入するためのひょうたんの形状があり、模様はありません。また、タバコの舌は黒い竹です。このタバコ筒は、韓国による日本の植民地支配の時代に使用されました。材質は木と竹で、主に生活用品や喫煙の研究に使用されました。サイズは全長95cmです。",
+    "QA": [
+        {
+            "question": "キセルの材質は何ですか？",
+            "answer": "キセルの材質は木と竹です。"
+        },
+        {
+            "question": "キセルのサイズはどれくらいですか？",
+            "answer": "キセルのサイズは全長95cmです。"
+        },
+        {
+            "question": "キセルはいつ使用されましたか？",
+            "answer": "キセルは韓国による日本の植民地支配の時代に使用されました。"
+        },
+        {
+            "question": "キセルは何に使用されましたか？",
+            "answer": "キセルは主に生活用品や喫煙の研究に使用されました。"
+        }
+    ],
+    "word_Count": {
+        "text": 123,
+        "QA": 104
+    }
+}

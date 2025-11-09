@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_021659",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.goodchoice.kr/product/detail?ano=65256&adcno=1&sel_date=2023-11-07&sel_date2=2023-11-08",
+        "collectedDate": "2023-11-15",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "세종 수 무인텔"
+    },
+    "text": "無人テルは計20台の駐車可能な駐車場を保有しています。 客室の内部施設としてはテレビ、ヘアドライヤー、ヘアアイロン、携帯電話の充電器、Wi-Fi、エアコン、電気カーペット、冷蔵庫、電気ケトル、事務用PC、PC、IPTVの設置などが備えられています。 客室は2人基準で提供されます。",
+    "QA": [
+        {
+            "question": "駐車場の台数はいくつありますか？",
+            "answer": "駐車場は計20台あります。"
+        },
+        {
+            "question": "客室にはどのような内部施設が備えられていますか？",
+            "answer": "客室にはテレビ、ヘアドライヤー、ヘアアイロン、携帯電話の充電器、Wi-Fi、エアコン、電気カーペット、冷蔵庫、電気ケトル、事務用PC、PC、IPTVが設置されています。"
+        },
+        {
+            "question": "客室は何人基準で提供されますか？",
+            "answer": "客室は2人基準で提供されます。"
+        }
+    ],
+    "word_Count": {
+        "text": 102,
+        "QA": 123
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_079640",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1049&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=01230000&ccbaCtcd=32&ccbaCpno=3413201230000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1998-04-18",
+        "domain": "문화/역사관광",
+        "title": "삼척산양서원묘정비"
+    },
+    "text": "三陟ペン苗整備\\n\n江原道三陟市元徳邑ペン·ペン1キル24(山陽里)\\n\n江原道特別自治道文化財資料、墓の整備は書院の前に位置して雨で、書院を建てることとなった動機とその書院に仕えている人物を称賛する文章が記されている。この雨が位置している山羊書院は黄(1363∼1452)先生を迎えるため立てた祠である。朝鮮世宗の時の名宰相で有名な黄は、世宗5年(1423)の江原道(カンウォンド)の觀察使に任命されたが、この時、飢饉のため、各郡を送った後、飢えた民たちに穀物を解いて彼らを手伝ったという。三陟(サムチョク)地方ではこの時の黄に対する感謝の気持ちや恩に報いるために石を積み上げて段を作って''ソコンデ''と名づけたという。以降ソコンデは滅び、ここに記念碑を建てた。純祖(スンジョ)24年(1824)数ヵ所で騒動会社を設立し、黄先生を祀り始め、その後発展して山羊書院になった。",
+    "QA": [
+        {
+            "question": "山羊書院は誰のために建てられましたか？",
+            "answer": "山羊書院は黄先生を迎えるために建てられました。"
+        },
+        {
+            "question": "黄先生は何のために有名ですか？",
+            "answer": "黄先生は朝鮮世宗の時の名宰相で有名です。"
+        },
+        {
+            "question": "黄先生は何年に江原道の觀察使に任命されましたか？",
+            "answer": "黄先生は世宗5年(1423)に江原道の觀察使に任命されました。"
+        },
+        {
+            "question": "ソコンデとは何ですか？",
+            "answer": "ソコンデは飢饉のために黄先生が民たちを手伝った後、感謝の気持ちを表すために作られた段で、石を積み上げてできたものです。"
+        },
+        {
+            "question": "山羊書院は何年に設立されましたか？",
+            "answer": "山羊書院は純祖24年(1824)に黄先生を祀り始めた後に発展して設立されました。"
+        }
+    ],
+    "word_Count": {
+        "text": 284,
+        "QA": 189
+    }
+}

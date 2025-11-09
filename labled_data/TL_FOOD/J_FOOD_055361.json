@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_055361",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/chanyangjip",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "チャニャンチプ"
+    },
+    "text": "チャニャンチプ\\n\nソウル特別市 鍾路区 敦化門路11タキル5 )\\n\n鍾路3街にある老舗のカルグクス屋「チャニャンチプ」は、コシのある麺にアサリ出汁のきいたスープがおいしい海鮮カルグクスを味わえる庶民的なお店です。",
+    "QA": [
+        {
+            "question": "このレストランの名前は何ですか？",
+            "answer": "このレストランの名前は「チャニャンチプ」です。"
+        },
+        {
+            "question": "このレストランはどこにありますか？",
+            "answer": "このレストランはソウル特別市鍾路区敦化門路11タキル5にあります。"
+        },
+        {
+            "question": "このレストランの特徴は何ですか？",
+            "answer": "このレストランはコシのある麺にアサリ出汁のきいたスープがおいしい海鮮カルグクスを提供している庶民的なお店です。"
+        }
+    ],
+    "word_Count": {
+        "text": 79,
+        "QA": 117
+    }
+}

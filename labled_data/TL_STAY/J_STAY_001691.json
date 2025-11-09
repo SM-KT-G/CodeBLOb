@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_001691",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42080&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "양양 아리스토이펜션(독채,바다인근)"
+    },
+    "text": "ARISTOI、大切で大切な人を意味します。 美しい江原道に位置するアリストイペンションは、自然と人が共にする自然の中の巣です。 美しい自然をもう少し身近に感じられるよう江原道襄陽に位置しています。 雪岳山と青い東海、丸太の木造住宅で、設計から建築まで小さなこと一つ一つ気を遣いながら準備しました。 良い人たちと美しい自然の中で大切な思い出を作ってみてください。 アリストイの最高の価値は\"自然と人\"です。 22時以降に入室される場合、ペンションまで予めご連絡ください。",
+    "QA": [
+        {
+            "question": "アリストイペンションはどこに位置していますか？",
+            "answer": "アリストイペンションは江原道襄陽に位置しています。"
+        },
+        {
+            "question": "アリストイペンションの意味は何ですか？",
+            "answer": "アリストイペンションの意味は、大切で大切な人を意味します。"
+        },
+        {
+            "question": "アリストイペンションの特徴は何ですか？",
+            "answer": "アリストイペンションは雪岳山と青い東海に囲まれており、丸太の木造住宅で設計されています。自然と人が共にする場所で、美しい自然を身近に感じることができます。"
+        },
+        {
+            "question": "アリストイペンションへの入室時間について教えてください。",
+            "answer": "22時以降に入室される場合は、事前にペンションまでご連絡ください。"
+        }
+    ],
+    "word_Count": {
+        "text": 172,
+        "QA": 185
+    }
+}

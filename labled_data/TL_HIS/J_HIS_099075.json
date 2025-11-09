@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_099075",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/collectionList#######",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2023-10-11",
+        "domain": "문화/역사관광",
+        "title": "장식 기와"
+    },
+    "text": "装飾瓦 (장식 기와)\\n\n国籍/時代：「韓国-朝鮮」 材質：「土 - 瓦質」 分類：「主生活 - 建築部材 - 屋根材 - 特殊器」 大きさ：「高さ334cm、長さ518cm、幅374cm」 修正：この建築物は韓国-朝鮮の時代に作られたものです。材料は土と瓦でできており、主に屋根材として使用される特殊な器具です。サイズは高さ334cm、長さ518cm、幅374cmです。",
+    "QA": [
+        {
+            "question": "何時代に作られた建物ですか？",
+            "answer": "この建築物は韓国-朝鮮の時代に作られました。"
+        },
+        {
+            "question": "この建築物の材料は何ですか？",
+            "answer": "この建築物の材料は土と瓦でできています。"
+        },
+        {
+            "question": "この建築物の主な用途は何ですか？",
+            "answer": "この建築物は主に屋根材として使用される特殊な器具です。"
+        },
+        {
+            "question": "この建築物の大きさはどのくらいですか？",
+            "answer": "この建築物のサイズは高さ334cm、長さ518cm、幅374cmです。"
+        }
+    ],
+    "word_Count": {
+        "text": 137,
+        "QA": 122
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_017604",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-11-25",
+        "domain": "음식점",
+        "title": "亀浦チプ（구포집）"
+    },
+    "text": "亀浦チプ（구포집）\\n\n釜山広域市 中区 宝水大路36番キル 14-1\\n\n亀浦（クポ）チプは慶尚道式ドジョウ汁の店です。1959年に開業し、長年この場所で営業を続けています。亀浦チプのドジョウ汁にはワラビや白菜、豆モヤシなどが入っており、濃厚ながらもすっきりとした柔らかい味わいに仕上がっています。",
+    "QA": [
+        {
+            "question": "亀浦チプはどこにありますか？",
+            "answer": "亀浦チプは釜山広域市中区宝水大路36番キル14-1にあります。"
+        },
+        {
+            "question": "亀浦チプのドジョウ汁にはどんな具材が入っていますか？",
+            "answer": "亀浦チプのドジョウ汁にはワラビや白菜、豆モヤシなどが入っています。"
+        },
+        {
+            "question": "亀浦チプは何年から営業をしていますか？",
+            "answer": "亀浦チプは1959年から営業を続けています。"
+        },
+        {
+            "question": "亀浦チプのドジョウ汁の味わいはどんな特徴がありますか？",
+            "answer": "亀浦チプのドジョウ汁は濃厚ながらもすっきりとした柔らかい味わいに仕上がっています。"
+        }
+    ],
+    "word_Count": {
+        "text": 110,
+        "QA": 156
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_101156",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=912&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=24&ccbaAsno=00060000&ccbaCtcd=50&ccbaCpno=2443900060000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1991-06-04",
+        "domain": "문화/역사관광",
+        "title": "제구"
+    },
+    "text": "制球\\n\n済州済州市三成路40(一度二洞)\\n\n済州特別自治道民俗文化財、肖像をする時、墓まで遺体を運搬していた機構だ。簡略ながらも華やかな色彩が目立つこの賞与は五色の布を帯状に切って体を覆って金属装飾をぶら下げた。四隅には''要領''という鈴をつけて賞与が動くたびに自然に鳴らすようにし、屋根には民話風の華麗な絵を描き入れた。古文書の記録によると、朝鮮英祖39年(1763)にこの賞与を作ったという。西帰浦市のシンヒョ・ハヒョ村で共同で資金を集め、厳しい状況でまとめたもので、二つの村で使用してきたが、今は済州島民俗自然史博物館に所蔵、展示している。",
+    "QA": [
+        {
+            "question": "何を使って賞与を作った？",
+            "answer": "賞与は五色の布と金属装飾を使用して作られました。"
+        },
+        {
+            "question": "賞与には何が四隅についていますか？",
+            "answer": "賞与の四隅には''要領''という鈴がついています。"
+        },
+        {
+            "question": "賞与が作られた年はいつですか？",
+            "answer": "賞与は朝鮮英祖39年(1763)に作られました。"
+        },
+        {
+            "question": "賞与は現在どこに所蔵されていますか？",
+            "answer": "賞与は済州島民俗自然史博物館に所蔵されています。"
+        },
+        {
+            "question": "賞与の屋根には何が描かれていますか？",
+            "answer": "賞与の屋根には民話風の華麗な絵が描かれています。"
+        }
+    ],
+    "word_Count": {
+        "text": 202,
+        "QA": 147
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_082697",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ja",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2023-02-07",
+        "domain": "문화/역사관광",
+        "title": "성수미술관"
+    },
+    "text": "体験に必要な図案、アクリル絵の具、筆など絵を描く道具が提供され、時間制限なしにドローイングを楽しむことができる。 また、携帯電話スタンドが用意され、自分のドローイングの姿をタイムラプスで収めることができるという点も魅力的だ。 .",
+    "QA": [
+        {
+            "question": "体験に必要な道具は何ですか？",
+            "answer": "アクリル絵の具、筆、図案などが提供されます。"
+        },
+        {
+            "question": "どのようにして自分のドローイングを収めることができますか？",
+            "answer": "携帯電話スタンドが用意されており、自分のドローイングの姿をタイムラプスで収めることができます。"
+        },
+        {
+            "question": "体験には時間制限はありますか？",
+            "answer": "時間制限はありません。自由にドローイングを楽しむことができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 83,
+        "QA": 116
+    }
+}

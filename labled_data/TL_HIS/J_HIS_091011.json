@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_091011",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=224&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=21860000&ccbaCtcd=32&ccbaCpno=1123221860000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2022-11-25",
+        "domain": "문화/역사관광",
+        "title": "영월 창절사"
+    },
+    "text": "寧越創節の辞\\n\n江原道寧越郡端宗路60(寧越邑、昌節書院)\\n\n朝鮮時代、宝物、\"寧越チャンジョルサ(寧越彰節祠)\"は、世祖によって殺された十人の忠臣(忠臣)を、祭享するために1685年に建設されたサウス(祠宇)で、粛宗台に''チャンジョル''というサエクを受けており、1705年現在の位置へこれはなった。寧越チャンジョル住む他のサウスに比べて比較的規模が大きく、シプチュンシンなどを称えるために設立された祠堂の他にも儒学者たちが集まって学問するカンハク空間である講堂(講堂)とドンソジェ(東西齋)、ベギョンル(拜鵑樓、楼閣)を備えており、一般的である朝鮮時代の書院のような構成を示している。寧越チャンジョル住む近くに位置した張陵とともに寧越地域で端宗と関連された歴史的事実を基盤として建設されており、建築物に残っているつの翼型の形など建築構造的特徴が18世紀の建築的特徴を反映しており、歴史的、学術的価値が高く、国家指定文化財としての価値が十分なものと判断される。",
+    "QA": [
+        {
+            "question": "寧越チャンジョルサはいつ建設されましたか？",
+            "answer": "寧越チャンジョルサは1685年に建設されました。"
+        },
+        {
+            "question": "寧越チャンジョルサは誰によって建設されましたか？",
+            "answer": "寧越チャンジョルサは世祖によって建設されました。"
+        },
+        {
+            "question": "寧越チャンジョルサにはどのような建物がありますか？",
+            "answer": "寧越チャンジョルサには祠宇、講堂、ドンソジェ、ベギョンルなどがあります。"
+        },
+        {
+            "question": "寧越チャンジョルサの建築構造的特徴は何ですか？",
+            "answer": "寧越チャンジョルサの建築構造的特徴には18世紀の建築的特徴が反映された翼型の形などがあります。"
+        },
+        {
+            "question": "寧越チャンジョルサの建設に関連した歴史的事実は何ですか？",
+            "answer": "寧越チャンジョルサの建設は端宗と関連した歴史的事実を基盤として行われました。"
+        }
+    ],
+    "word_Count": {
+        "text": 318,
+        "QA": 212
+    }
+}

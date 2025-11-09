@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_092305",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=970&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=00180000&ccbaCtcd=35&ccbaCpno=3413500180000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1984-04-01",
+        "domain": "문화/역사관광",
+        "title": "와룡암"
+    },
+    "text": "臥竜岩\\n\n全羅北道鎮安郡酒泉面酒陽里135番地\\n\n5年、全羅北道文化財資料、朝鮮孝宗元年(1650)に宮救党キムジュンチョンが丙子胡乱の時、官職を捨てて隠居していたところ、幼生を教えるために建てた庵だ。純祖(スンジョ)27年(1827)に水のために往来が不便すると、キムサンウォンが今いる場所である水の向こう側に移ってきたという。建物は前面3間・側面3間規模で岩盤の上にある。屋根は側面から見ると、八(八部)字形の入母屋屋根で高い板の間形態である。",
+    "QA": [
+        {
+            "question": "この庵を建てた人物は誰ですか？",
+            "answer": "宮救党キムジュンチョンがこの庵を建てました。"
+        },
+        {
+            "question": "庵は何年に建てられましたか？",
+            "answer": "庵は朝鮮孝宗元年(1650)に建てられました。"
+        },
+        {
+            "question": "庵はどのような場所に移動しましたか？",
+            "answer": "庵は純祖27年(1827)に水の向こう側に移動しました。"
+        },
+        {
+            "question": "庵の建物の規模はどのようですか？",
+            "answer": "建物は前面3間・側面3間の規模です。"
+        },
+        {
+            "question": "庵の屋根の形はどのようですか？",
+            "answer": "屋根は八(八部)字形の入母屋屋根で高い板の間形態です。"
+        }
+    ],
+    "word_Count": {
+        "text": 165,
+        "QA": 143
+    }
+}

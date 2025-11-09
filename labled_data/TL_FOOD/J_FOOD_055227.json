@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_055227",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "ジャンストゥクベギ（장수뚝배기）"
+    },
+    "text": "ジャンストゥクベギ（장수뚝배기）\\n\n江原道 原州市 健康路 21-1\\n\n江原道のウォンジュ市に位置した韓食です。代表的なメニューはソンジ酔い覚ましスープです。ソンジヘジャンク(牛の血の塊スープ)は韓国の伝統的なメニューです。",
+    "QA": [
+        {
+            "question": "ジャンストゥクベギはどこに位置していますか？",
+            "answer": "ジャンストゥクベギは江原道のウォンジュ市に位置しています。"
+        },
+        {
+            "question": "ジャンストゥクベギの代表的なメニューは何ですか？",
+            "answer": "ジャンストゥクベギの代表的なメニューはソンジ酔い覚ましスープです。"
+        },
+        {
+            "question": "ソンジヘジャンクとは何ですか？",
+            "answer": "ソンジヘジャンクは牛の血の塊スープで、韓国の伝統的なメニューです。"
+        }
+    ],
+    "word_Count": {
+        "text": 83,
+        "QA": 114
+    }
+}

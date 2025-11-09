@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_009539",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-05",
+        "domain": "음식점",
+        "title": "タボンハウス ( 따봉하우스 )"
+    },
+    "text": "タボンハウス ( 따봉하우스 )\\n\nソウル特別市 東大門区 キョンフィデロ4ギル73\\n\n即席トッポッキの専門店です。おすすめはトッポッキです。ソウル特別市のドンデムン区に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "タボンハウス (따봉하우스)はどこに位置していますか？",
+            "answer": "タボンハウスはソウル特別市東大門区キョンフィデロ4ギル73に位置しています。"
+        },
+        {
+            "question": "タボンハウスでは何をおすすめしますか？",
+            "answer": "タボンハウスではトッポッキをおすすめします。"
+        },
+        {
+            "question": "タボンハウスは韓食専門店ですか？",
+            "answer": "はい、タボンハウスは韓食専門店です。"
+        }
+    ],
+    "word_Count": {
+        "text": 72,
+        "QA": 102
+    }
+}

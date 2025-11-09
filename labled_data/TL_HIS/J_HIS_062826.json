@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_062826",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/view?relicId=195231",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "뚜껑 있는 굽다리 긴 목 항아리"
+    },
+    "text": "蓋付きの長い首の壺 (뚜껑 있는 굽다리 긴 목 항아리)\\n\n国籍・時代は韓国の新羅のもので、材質は硬く固まった土でできています。この壺は食生活に関連しており、食べ物の保存と運搬に使用されます。現在の壺の高さは302cmで、広がりは164cmです。蓋の高さは83cm、蓋の直径は179cmです。",
+    "QA": [
+        {
+            "question": "この壺は何のために使用されますか？",
+            "answer": "この壺は食べ物の保存と運搬に使用されます。"
+        },
+        {
+            "question": "壺の高さは何cmですか？",
+            "answer": "壺の高さは302cmです。"
+        },
+        {
+            "question": "壺の広がりは何cmですか？",
+            "answer": "壺の広がりは164cmです。"
+        },
+        {
+            "question": "蓋の高さは何cmですか？",
+            "answer": "蓋の高さは83cmです。"
+        },
+        {
+            "question": "蓋の直径は何cmですか？",
+            "answer": "蓋の直径は179cmです。"
+        }
+    ],
+    "word_Count": {
+        "text": 108,
+        "QA": 101
+    }
+}

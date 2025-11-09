@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_003205",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=250&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=13&ccbaAsno=02850000&ccbaCtcd=11&ccbaCpno=1331102850000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1981-09-25",
+        "domain": "문화/역사관광",
+        "title": "서울 고려대학교 본관"
+    },
+    "text": "ソウル高麗大学校本館 (서울 고려대학교 본관)\\n\nソウル城北区安岩洞1番地\\n\n1934年 , 史跡 , 高麗大学校の前身である宝城専門学校の経営を引き受けたキム·ソンスが1933年に工事を始め、1934年に完成した本館建物でパク·ドンジンが設計した。 3階(中央塔は6階)で、花崗石を主材料とした左右対称のゴシック様式となっている。 平面H字型で、中央には広いホールがある。 建物玄関の二つの石柱には学校の気象を象徴する虎の像が彫刻されており、中央裏門の石柱にはムクゲが彫刻されている。 建築当時は内外が豪華で雄大で、国内の学校建築物としては類例のない立派なものだった。",
+    "QA": [
+        {
+            "question": "この建物はいつ完成しましたか？",
+            "answer": "1934年に完成しました。"
+        },
+        {
+            "question": "この建物はどのような様式ですか？",
+            "answer": "この建物はゴシック様式です。"
+        },
+        {
+            "question": "この建物はどのような形状ですか？",
+            "answer": "この建物は平面H字型です。"
+        },
+        {
+            "question": "建物の玄関には何が彫刻されていますか？",
+            "answer": "建物の玄関の石柱には学校の気象を象徴する虎の像が彫刻されています。"
+        },
+        {
+            "question": "この建物は当時どのような評判でしたか？",
+            "answer": "この建物は内外が豪華で雄大で、国内の学校建築物としては類例のない立派なものとして評判でした。"
+        }
+    ],
+    "word_Count": {
+        "text": 211,
+        "QA": 149
+    }
+}

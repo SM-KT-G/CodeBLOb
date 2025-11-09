@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_002091",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-10",
+        "domain": "음식점",
+        "title": "SONGTAN SONG\"s BUDAEJJIGAE( 송탄송쓰부대찌개 )"
+    },
+    "text": "SONGTAN SONG\"s BUDAEJJIGAE\\n\n京畿道 ピョンテク市 ジュンアンシジャンロ9ボンギル31\\n\n24時間煮出した濃厚な牛骨スープを使ったプデチゲが味わえる店です。おすすめはプデチゲです。慶尚北道のアンドン市に位置した韓国料理店です。",
+    "QA": [
+        {
+            "question": "このレストランはどこにありますか？",
+            "answer": "京畿道のピョンテク市ジュンアンシジャンロ9ボンギル31に位置しています。"
+        },
+        {
+            "question": "このレストランでおすすめの料理は何ですか？",
+            "answer": "おすすめはプデチゲです。濃厚な牛骨スープで24時間煮出したプデチゲが味わえます。"
+        },
+        {
+            "question": "このレストランは何時まで営業していますか？",
+            "answer": "24時間営業しています。いつでも訪れることができます。"
+        },
+        {
+            "question": "このレストランはどのくらいの広さですか？",
+            "answer": "具体的な広さの情報は提供されていませんが、おそらく一般的なレストランと同じくらいの広さでしょう。"
+        },
+        {
+            "question": "このレストランの雰囲気はどうですか？",
+            "answer": "具体的な雰囲気の情報は提供されていませんが、韓国料理店ということなので、おそらくアットホームな雰囲気でしょう。"
+        },
+        {
+            "question": "このレストランは他に何がありますか？",
+            "answer": "提供された情報では他の特別な要素や設備については言及されていません。"
+        }
+    ],
+    "word_Count": {
+        "text": 93,
+        "QA": 260
+    }
+}

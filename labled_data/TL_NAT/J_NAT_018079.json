@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_018079",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=878&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=01740000&ccbaCtcd=38&ccbaCpno=2333801740000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1997-12-31",
+        "domain": "자연관광",
+        "title": "함양방지산성"
+    },
+    "text": "咸陽防止酸性 (함양방지산성)\\n\n慶尚南道咸陽郡西上面金堂里山47番地山51\\n\n慶尚南道記念物 , 慶尚南道咸陽郡西上面の野原にある芳芝山の9部稜線に沿って西方向に積み上げた山城だ。 この城は三国時代に百済が新羅を侵して略奪を日常的に行うと、これを防ぐために城を築き米を備蓄したとして「合米城」と言い、別名「金堂城」とも呼ばれる。 また、村の前の山の峰が池に浮かんでいる蓮の花のようだと言って、花らしい池、すなわち「バンジ」と名付けたという。 現在、城壁は上部が崩れ城の輪郭を確認するのが難しいが、横45cm、縦30cmの大きさの自然石と割れた石を利用して高さ3~4m程度に積み上げたが、今は約500m程度だけが残っている。 城の内側の真ん中には井戸があり、城の中で発見された瓦礫から見て建物跡があったと推定される。",
+    "QA": [
+        {
+            "question": "この城はどのように築かれましたか？",
+            "answer": "この城は三国時代に百済が新羅を侵して略奪を日常的に行うと、これを防ぐために城を築き米を備蓄したとして「合米城」と言い、別名「金堂城」とも呼ばれる。"
+        },
+        {
+            "question": "城壁はどのように造られましたか？",
+            "answer": "城壁は自然石と割れた石を利用して高さ3~4m程度に積み上げられました。"
+        },
+        {
+            "question": "城の内側には何がありますか？",
+            "answer": "城の内側には井戸があり、城の中で発見された瓦礫から見て建物跡があったと推定されます。"
+        },
+        {
+            "question": "城の別名は何ですか？",
+            "answer": "城の別名は「金堂城」とも呼ばれます。"
+        },
+        {
+            "question": "城の周囲には何がありますか？",
+            "answer": "城の周囲には野原や山が広がっています。"
+        }
+    ],
+    "word_Count": {
+        "text": 264,
+        "QA": 189
+    }
+}

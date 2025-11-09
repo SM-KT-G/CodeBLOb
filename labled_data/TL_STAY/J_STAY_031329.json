@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_031329",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42010&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "용인 자유 무인텔"
+    },
+    "text": "2017年9月に開業したヨンイン自由無人テルは、清潔な施設と親切なサービス、素早い目端でお応えするホテルです。 ここはリラックスできるように居心地の良い静かな位置にあり、お客様のプライベートで邪魔されない休息のため、1客室1台システムで運営されている無人ホテルです。 誰の邪魔もされない私たちだけのスペシャルな特権をご堪能ください。 入室をご希望の場合は、入り口に到着してご連絡いただければ、予約リストを確認の上、号室をお知らせいたします。",
+    "QA": [
+        {
+            "question": "このホテルの開業はいつですか？",
+            "answer": "2017年9月に開業しました。"
+        },
+        {
+            "question": "このホテルはどのようなサービスを提供していますか？",
+            "answer": "清潔な施設と親切なサービスを提供しています。"
+        },
+        {
+            "question": "このホテルはどのような位置にありますか？",
+            "answer": "静かな位置にあり、リラックスできる環境です。"
+        },
+        {
+            "question": "このホテルの特徴は何ですか？",
+            "answer": "1客室1台システムで運営されている無人ホテルです。"
+        },
+        {
+            "question": "入室を希望する場合はどのようにすればいいですか？",
+            "answer": "入り口に到着してご連絡いただければ、予約リストを確認し、号室をお知らせいたします。"
+        }
+    ],
+    "word_Count": {
+        "text": 161,
+        "QA": 163
+    }
+}

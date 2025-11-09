@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_016362",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42070&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "단양 휴앤휴펜션"
+    },
+    "text": "ペンション内での宿泊に関する案内およびお知らせをご確認ください。 予約およびキャンセルポリシー、ご利用時の注意事項、施設利用時間、タオルおよび寝具の交換などに関する事項をご案内いたします。 また、ペンション内で提供されるサービスや利用可能な施設に関する情報も含まれています。",
+    "QA": [
+        {
+            "question": "予約はどのように行いますか？",
+            "answer": "予約は、ウェブサイトや電話で行うことができます。お客様のお名前、宿泊日、宿泊人数などの詳細をお知らせください。"
+        },
+        {
+            "question": "キャンセルは可能ですか？",
+            "answer": "はい、キャンセルは可能ですが、キャンセル料が発生する場合があります。詳細については、予約時にご確認ください。"
+        },
+        {
+            "question": "ペンション内での利用時間は何時から何時までですか？",
+            "answer": "ペンション内の施設は、朝8時から夜10時まで利用することができます。"
+        },
+        {
+            "question": "タオルや寝具の交換はありますか？",
+            "answer": "はい、タオルや寝具の交換は行っております。フロントにお申し付けください。"
+        },
+        {
+            "question": "提供されるサービスや利用可能な施設は何ですか？",
+            "answer": "弊社では、朝食の提供や無料Wi-Fiの利用が可能です。また、共用キッチンやバーベキューエリアもございます。"
+        }
+    ],
+    "word_Count": {
+        "text": 100,
+        "QA": 236
+    }
+}

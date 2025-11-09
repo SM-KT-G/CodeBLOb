@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_080523",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/collectionList#######",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2023-10-11",
+        "domain": "문화/역사관광",
+        "title": "서양식 가옥"
+    },
+    "text": "洋風家屋 (서양식 가옥)\\n\n韓国が日本による植民地支配を受けていた時代、この格納箱は洋風家屋にありました。材質はガラスと宝石でできており、フィルムの形で記録物を保管するために使用されていました。大きさは横16.4cm、縦12.0cmです。",
+    "QA": [
+        {
+            "question": "この格納箱の材質は何ですか？",
+            "answer": "この格納箱の材質はガラスと宝石です。"
+        },
+        {
+            "question": "格納箱の大きさは何ですか？",
+            "answer": "この格納箱の大きさは横16.4cm、縦12.0cmです。"
+        },
+        {
+            "question": "この格納箱は何のために使用されていましたか？",
+            "answer": "この格納箱はフィルムの形で記録物を保管するために使用されていました。"
+        },
+        {
+            "question": "洋風家屋でこの格納箱はどこにありましたか？",
+            "answer": "洋風家屋において、この格納箱はどこにありましたか？"
+        },
+        {
+            "question": "この格納箱はどの時代に使用されていましたか？",
+            "answer": "この格納箱は韓国が日本による植民地支配を受けていた時代に使用されていました。"
+        }
+    ],
+    "word_Count": {
+        "text": 88,
+        "QA": 172
+    }
+}

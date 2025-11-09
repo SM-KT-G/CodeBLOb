@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_052389",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2023-02-21",
+        "domain": "문화/역사관광",
+        "title": "과천시민회관"
+    },
+    "text": "果川(グァチョン)市民会館は1995年10月7日に開館して文化・芸術・体育の殿堂で存在感を持っている。大劇場、小劇場、野外公演場、ギャラリー床、荒とボーリング場、プール、スケート場などの複合文化施設を備えており、全国で一番暮らしやすい都市として有名なところだ。",
+    "QA": [
+        {
+            "question": "この市民会館はいつ開館しましたか？",
+            "answer": "1995年10月7日に開館しました。"
+        },
+        {
+            "question": "この市民会館はどのような施設を備えていますか？",
+            "answer": "大劇場、小劇場、野外公演場、ギャラリー床、荒とボーリング場、プール、スケート場などの複合文化施設を備えています。"
+        },
+        {
+            "question": "この市民会館はどのような存在感を持っていますか？",
+            "answer": "文化・芸術・体育の殿堂として存在感を持っています。"
+        },
+        {
+            "question": "この市は全国で何として有名ですか？",
+            "answer": "全国で一番暮らしやすい都市として有名です。"
+        }
+    ],
+    "word_Count": {
+        "text": 95,
+        "QA": 147
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_017341",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "光苑 ( 광원 )"
+    },
+    "text": "光苑 ( 광원 )\n濟州特別自治道 濟州市 1100路 3208\n地元の人も認めた最高の和牛を提供する店です。済州特別自治道のジェジュ市に位置した韓食専門店です。代表的なメニューはヒレです。",
+    "QA": [
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "光苑（광원）は、済州特別自治道のジェジュ市に位置しています。"
+        },
+        {
+            "question": "この店は何の料理を提供していますか？",
+            "answer": "この店は和牛を提供しています。特に代表的なメニューはヒレです。"
+        },
+        {
+            "question": "この店の評判はどうですか？",
+            "answer": "この店は地元の人々にも認められた最高の和牛を提供する店です。"
+        }
+    ],
+    "word_Count": {
+        "text": 69,
+        "QA": 99
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_054687",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=99&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=07810000&ccbaCtcd=11&ccbaCpno=1121107810000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1984-08-06",
+        "domain": "문화/역사관광",
+        "title": "금동용두토수"
+    },
+    "text": "統一新羅時代、宝物、吐水とは屋根の醜女や砂の先が風雨で腐食するのを防ぐために挟まれる龍頭型の瓦です。高さ30.5㎝、長さ35.2㎝のこの吐水は首の部分を方形に切断し、その中を空けて木を挟むことができ、木を固定させるために釘穴の左右にそれぞれ2つずつ開けました。全体をメッキしましたが、現在はほとんど脱落しています。竜は目を大きく見開いており,丸い上歯が下唇の上に突き出ています鼻は短く処理し、少しふくらんだ瞳を2段にして躍動感をもって処理しました。目の上に突き出た眉毛は角を成し、先端を後ろに舞うように尖った形で彫刻しています。額の頭頂部に高くそびえる角は、後ろに長く伸び、先端が前に丸く乾かしたワラビの形をしています。金銅龍頭吐首は雁鴨池金銅製龍頭や慶尚北道栄州出土の金銅龍頭宝堂と比べると、リアルな面や躍動感に欠けている気がします",
+    "QA": [
+        {
+            "question": "この金銅龍頭吐首は何のために使われていましたか？",
+            "answer": "金銅龍頭吐首は屋根の醜女や砂の先が風雨で腐食するのを防ぐために挟まれる龍頭型の瓦です。"
+        },
+        {
+            "question": "この吐水の高さと長さはどれくらいですか？",
+            "answer": "この吐水の高さは30.5㎝、長さは35.2㎝です。"
+        },
+        {
+            "question": "この吐水の首の部分はどのようになっていますか？",
+            "answer": "この吐水の首の部分は方形に切断され、その中を木を挟むことができるように空けられています。"
+        },
+        {
+            "question": "吐水の釘穴に何が使われていますか？",
+            "answer": "吐水の釘穴の左右には木を固定させるためにそれぞれ2つずつ開けられています。"
+        },
+        {
+            "question": "この金銅龍頭吐首はどのような彫刻がされていますか？",
+            "answer": "金銅龍頭吐首の竜は目を大きく見開いており、丸い上歯が下唇の上に突き出しています。鼻は短く処理され、少しふくらんだ瞳を2段にして躍動感を持って彫刻されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 269,
+        "QA": 247
+    }
+}

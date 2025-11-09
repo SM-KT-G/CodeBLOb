@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_030998",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42010&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "가평 미란츠펜션"
+    },
+    "text": "ミランツペンションは有名山休養林の入口に位置し、周辺には龍門山、中尾山、そして有名山が囲まれています。 ここでは美しい自然景観を鑑賞することができます。 また、ペンションの裏側には青い山と奇岩怪石で構成された渓谷が流れており、自然の美しさを感じることができます。 前には素敵な山の峰が素敵に見える景色を鑑賞することができます。 しかし、ペンションの入室時間は22時以降には事前にご連絡ください。",
+    "QA": [
+        {
+            "question": "このペンションはどこに位置していますか？",
+            "answer": "ミランツペンションは有名山休養林の入口に位置しています。"
+        },
+        {
+            "question": "周辺にはどのような山がありますか？",
+            "answer": "周辺には龍門山、中尾山、そして有名山があります。"
+        },
+        {
+            "question": "ペンションの裏側には何がありますか？",
+            "answer": "ペンションの裏側には青い山と奇岩怪石で構成された渓谷が流れています。"
+        },
+        {
+            "question": "ペンションからはどのような景色を見ることができますか？",
+            "answer": "ペンションからは素敵な山の峰が素敵に見える景色を鑑賞することができます。"
+        },
+        {
+            "question": "ペンションの入室時間は何時ですか？",
+            "answer": "ペンションの入室時間は22時以降には事前にご連絡ください。"
+        }
+    ],
+    "word_Count": {
+        "text": 144,
+        "QA": 183
+    }
+}

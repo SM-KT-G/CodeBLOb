@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_097611",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/collectionList#######",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2023-10-11",
+        "domain": "문화/역사관광",
+        "title": "일본동경 출토 조선 고서2"
+    },
+    "text": "日本東京出土の朝鮮古書 (일본동경 출토 조선 고서 )\\n\nゆたかな憧れが漂う朝鮮古書（2-1）は、韓国が日本の植民地支配下にあった時代の貴重な資料です。材質はガラスと宝石でできており、メディアの形態は記録物のフィルムです。その大きさは横164cm、縦119cmとなっています。",
+    "QA": [
+        {
+            "question": "この朝鮮古書は何でできていますか？",
+            "answer": "この朝鮮古書はガラスと宝石でできています。"
+        },
+        {
+            "question": "朝鮮古書の大きさはどのくらいですか？",
+            "answer": "朝鮮古書の大きさは横164cm、縦119cmとなっています。"
+        },
+        {
+            "question": "朝鮮古書の起源はどこにありますか？",
+            "answer": "朝鮮古書は日本東京で出土されました。"
+        },
+        {
+            "question": "朝鮮古書に何が漂っていますか？",
+            "answer": "朝鮮古書にはゆたかな憧れが漂っています。"
+        },
+        {
+            "question": "朝鮮古書のメディアの形態は何ですか？",
+            "answer": "朝鮮古書のメディアの形態は記録物のフィルムです。"
+        }
+    ],
+    "word_Count": {
+        "text": 102,
+        "QA": 145
+    }
+}

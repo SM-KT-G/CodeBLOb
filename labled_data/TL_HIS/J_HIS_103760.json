@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_103760",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=601&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=03350000&ccbaCtcd=11&ccbaCpno=2111103350000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2012-05-03",
+        "domain": "문화/역사관광",
+        "title": "지장암 자수지장보살도"
+    },
+    "text": "1917年に奉安されたことジジャンボサルドは、ソウル特別市に位置した有形文化財である大雄殿に安置されている。この仏画はチョンリョン台座に結跏趺坐をしたお地蔵さんを中心に、左右の脇侍である無毒耳王とドミョン尊者だけを簡単に表現した地蔵菩薩三尊形式の仏画になっている。この仏画は20世紀に入って簡略化して小型化された不和を様式に従ったのだ。不和の規模は小さいが、下段部に造成時期と花園を教えてくれる火器がよく保存されている。また、数の形態と色彩の変化なしに非常に良好な状態で保存されていて20世紀序盤自首仏画の研究の貴重な資料として使用されことができる。",
+    "QA": [
+        {
+            "question": "大雄殿に安置されているジジャンボサルドは何年に奉安されましたか？",
+            "answer": "1917年に奉安されました。"
+        },
+        {
+            "question": "ジジャンボサルドはどのような仏画ですか？",
+            "answer": "地蔵菩薩三尊形式の仏画で、チョンリョン台座に結跏趺坐をしたお地蔵さんを中心に、左右の脇侍である無毒耳王とドミョン尊者が描かれています。"
+        },
+        {
+            "question": "ジジャンボサルドの不和の規模はどのくらいですか？",
+            "answer": "不和の規模は小さいですが、下段部に造成時期と花園を教えてくれる火器がよく保存されています。"
+        },
+        {
+            "question": "ジジャンボサルドはどのような状態で保存されていますか？",
+            "answer": "数の形態と色彩の変化なしに非常に良好な状態で保存されています。"
+        },
+        {
+            "question": "ジジャンボサルドはどのような研究の貴重な資料として使用されることができますか？",
+            "answer": "20世紀序盤の自首仏画の研究の貴重な資料として使用されることができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 201,
+        "QA": 245
+    }
+}

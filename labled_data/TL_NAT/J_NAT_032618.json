@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_032618",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2022-09-15",
+        "domain": "자연관광",
+        "title": "武陵渓谷 龍湫瀑布（江原）（무릉계곡 용추폭포（강원））_1"
+    },
+    "text": "武陵渓谷 龍湫瀑布（江原）（무릉계곡 용추폭포（강원））\\n\nカンウォン道トンヘ市サムファロ538\\n\n龍湫瀑布は武陵渓谷の入口にある三和寺から2.5キロメートルのところに位置しており、深い滝つぼが3つあります。龍湫瀑布の70メートル下にある双瀑布は大変美しく、龍湫瀑布とともに武陵渓谷の絶景スポットといわれています。",
+    "QA": [
+        {
+            "question": "龍湫瀑布はどこに位置していますか？",
+            "answer": "武陵渓谷の入口にある三和寺から2.5キロメートルのところに位置しています。"
+        },
+        {
+            "question": "龍湫瀑布の下には何がありますか？",
+            "answer": "龍湫瀑布の70メートル下に双瀑布があります。"
+        },
+        {
+            "question": "龍湫瀑布周辺には何がありますか？",
+            "answer": "龍湫瀑布周辺には武陵渓谷の美しい景色が広がっています。"
+        }
+    ],
+    "word_Count": {
+        "text": 116,
+        "QA": 99
+    }
+}

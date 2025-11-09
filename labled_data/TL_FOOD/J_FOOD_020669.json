@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_020669",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "明洞亭（명동정）"
+    },
+    "text": "明洞亭（명동정）\\n\nソウル特別市 中区 三一大路 299\\n\nソウル特別市のミョン洞に位置した韓食です。韓定食メニューをお出しするお店です。代表的なメニューは韓定食です。",
+    "QA": [
+        {
+            "question": "明洞亭（명동정）はどこに位置していますか？",
+            "answer": "明洞亭（명동정）はソウル特別市の中区三一大路299に位置しています。"
+        },
+        {
+            "question": "明洞亭（명동정）はどのような料理を提供していますか？",
+            "answer": "明洞亭（명동정）は韓定食メニューを提供しています。"
+        },
+        {
+            "question": "明洞亭（명동정）の代表的なメニューは何ですか？",
+            "answer": "明洞亭（명동정）の代表的なメニューは韓定食です。"
+        }
+    ],
+    "word_Count": {
+        "text": 63,
+        "QA": 112
+    }
+}

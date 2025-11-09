@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_062715",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/collectionList#######",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "드뷔시-안익태의 \"달빛\" 악보"
+    },
+    "text": "ドビュッシー·アン·イクテの「月光」楽譜 (드뷔시-안익태의 \"달빛\" 악보)\\n\nアン·イクテがドビュッシーのピアノ曲「月光」をオーケストラに編曲した作品の自筆楽譜には、ロリータ夫人に捧げられた献呈詞が掲げられています。「A Lorita Memorie de Paris」という献呈詞が書かれています。また、楽譜の最後には「Paris Juli-Augosto 22, 1949 Palma Mallorca」と記されています。楽譜の残りの部分には五線紙が使用されていません。この楽譜はヨーロッパ-スペインの作品で、使用されている材質は日向紙です。書籍の分類に属する楽譜の大きさは、横27cm、縦36cm、高さ1cmです。",
+    "QA": [
+        {
+            "question": "アン·イクテがドビュッシーのピアノ曲「月光」をオーケストラに編曲した作品の献呈詞は何ですか？",
+            "answer": "「A Lorita Memorie de Paris」という献呈詞があります。"
+        },
+        {
+            "question": "楽譜の最後には何と書かれていますか？",
+            "answer": "「Paris Juli-Augosto 22, 1949 Palma Mallorca」と記されています。"
+        },
+        {
+            "question": "楽譜にはどのような材質が使われていますか？",
+            "answer": "楽譜には日向紙が使用されています。"
+        },
+        {
+            "question": "楽譜の大きさは何ですか？",
+            "answer": "楽譜の大きさは、横27cm、縦36cm、高さ1cmです。"
+        }
+    ],
+    "word_Count": {
+        "text": 229,
+        "QA": 171
+    }
+}

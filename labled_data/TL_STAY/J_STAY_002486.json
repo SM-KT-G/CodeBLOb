@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_002486",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'http://www.encorehotel.org.org/",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "アンコールホテル"
+    },
+    "text": "アンコールホテル\\n\n大邱広域市東区イノバレー路7\\n\n大邱革新都市にあるホテルで、栗岩ICのすぐ隣にあります。朝食サービスを提供しており、VIPルームでは高仕様性能のカップルPCがご利用できます。バレットパーキングも可能です。",
+    "QA": [
+        {
+            "question": "このホテルの場所はどこですか？",
+            "answer": "大邱広域市東区イノバレー路7にあります。"
+        },
+        {
+            "question": "このホテルの特徴は何ですか？",
+            "answer": "朝食サービスやVIPルームでのカップルPC利用、バレットパーキングなどが特徴です。"
+        },
+        {
+            "question": "朝食は提供されていますか？",
+            "answer": "はい、朝食サービスを提供しています。"
+        },
+        {
+            "question": "VIPルームでは何が利用できますか？",
+            "answer": "VIPルームでは高仕様性能のカップルPCが利用できます。"
+        },
+        {
+            "question": "バレットパーキングは可能ですか？",
+            "answer": "はい、バレットパーキングが可能です。"
+        }
+    ],
+    "word_Count": {
+        "text": 83,
+        "QA": 147
+    }
+}

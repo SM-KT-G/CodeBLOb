@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_002111",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-08-02",
+        "domain": "음식점",
+        "title": "SUSHIGEN（스시겐）"
+    },
+    "text": "SUSHIGEN（스시겐）\\n\nソウル特別市 麻浦区 楊花路7キル6-12\\n\n日本料理店「SUSHIGEN（すしげん／元）」では花寿司（ちらし）が人気で、他にも各種の寿司、焼き魚、天ぷら、日本酒などが味わえます。",
+    "QA": [
+        {
+            "question": "スシゲン（SUSHIGEN）はどこにありますか？",
+            "answer": "スシゲン（SUSHIGEN）はソウル特別市麻浦区楊花路7キル6-12にあります。"
+        },
+        {
+            "question": "スシゲン（SUSHIGEN）では何が人気ですか？",
+            "answer": "スシゲン（SUSHIGEN）では花寿司（ちらし）が人気です。他にも各種の寿司、焼き魚、天ぷら、日本酒などが味わえます。"
+        },
+        {
+            "question": "どんな料理がスシゲン（SUSHIGEN）で提供されていますか？",
+            "answer": "スシゲン（SUSHIGEN）では花寿司（ちらし）をはじめとする各種の寿司、焼き魚、天ぷら、日本酒などが提供されています。"
+        },
+        {
+            "question": "スシゲン（SUSHIGEN）の営業時間は何時から何時までですか？",
+            "answer": "スシゲン（SUSHIGEN）の営業時間はご夜間5時からご夜間11時までです。"
+        }
+    ],
+    "word_Count": {
+        "text": 78,
+        "QA": 225
+    }
+}

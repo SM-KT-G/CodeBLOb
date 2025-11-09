@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_035004",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2022-05-13",
+        "domain": "문화/역사관광",
+        "title": "弘大ナンタ専用館（홍대난타전용관）"
+    },
+    "text": "弘大ナンタ専用館（홍대난타전용관）\\n\nソウル特別市 麻浦区 楊花路16キル29\\n\n若さと文化の街、弘大（ホンデ）に位置する弘大ナンタ専用館は323席の観覧席を備えており、1日2回ナンタ公演を行っています。",
+    "QA": [
+        {
+            "question": "弘大ナンタ専用館はどこにありますか？",
+            "answer": "弘大ナンタ専用館はソウル特別市 麻浦区 楊花路16キル29に位置しています。"
+        },
+        {
+            "question": "弘大ナンタ専用館は何席の観覧席を備えていますか？",
+            "answer": "弘大ナンタ専用館は323席の観覧席を備えています。"
+        },
+        {
+            "question": "弘大ナンタ専用館では何回ナンタ公演を行っていますか？",
+            "answer": "弘大ナンタ専用館では1日2回ナンタ公演を行っています。"
+        }
+    ],
+    "word_Count": {
+        "text": 76,
+        "QA": 115
+    }
+}

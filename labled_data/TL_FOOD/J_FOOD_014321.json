@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_014321",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-06",
+        "domain": "음식점",
+        "title": "ムグンジ豚キムチチゲ ( 묵은지돼지김치찌개 )"
+    },
+    "text": "ムグンジ豚キムチチゲ ( 묵은지돼지김치찌개 )\\n\n釜山広域市 釜山鎮区 カヤデロ784ボンギル43\\n\nご飯とラーメンが食べ放題です。釜山広域市のブサンジン区に位置した韓食専門店です。おすすめは熟成キムチチゲです。",
+    "QA": [
+        {
+            "question": "このレストランの名前は何ですか？",
+            "answer": "ムグンジ豚キムチチゲ (묵은지돼지김치찌개)です。"
+        },
+        {
+            "question": "このレストランはどこにありますか？",
+            "answer": "釜山広域市 釜山鎮区 カヤデロ784ボンギル43に位置しています。"
+        },
+        {
+            "question": "このレストランのおすすめ料理は何ですか？",
+            "answer": "おすすめは熟成キムチチゲです。"
+        },
+        {
+            "question": "このレストランでは何が食べ放題ですか？",
+            "answer": "ご飯とラーメンが食べ放題です。"
+        },
+        {
+            "question": "このレストランは何を専門としていますか？",
+            "answer": "韓食専門店です。"
+        }
+    ],
+    "word_Count": {
+        "text": 79,
+        "QA": 137
+    }
+}

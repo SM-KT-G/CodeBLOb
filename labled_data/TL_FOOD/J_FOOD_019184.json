@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_019184",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2022-03-07",
+        "domain": "음식점",
+        "title": "대복"
+    },
+    "text": "大福 (대복)\\n\nソウル特別市中区世宗大路14ギル22\\n\n1970年代、長安を回りながらふぐスープの醍醐味を伝えてきたキム·ジョンス調理長が45年職人精神で直接料理する北倉洞のテボク屋だ。 さっぱりしたスープの味とコシのある淡泊な味が特徴です。",
+    "QA": [
+        {
+            "question": "このレストランの名前は何ですか？",
+            "answer": "大福（대복）です。"
+        },
+        {
+            "question": "このレストランはどこにありますか？",
+            "answer": "ソウル特別市中区世宗大路14ギル22にあります。"
+        },
+        {
+            "question": "このレストランの特徴的な料理は何ですか？",
+            "answer": "ふぐスープです。さっぱりした味とコシのある淡泊な味が特徴です。"
+        },
+        {
+            "question": "どのような雰囲気のレストランですか？",
+            "answer": "北倉洞のテボク屋で、昔ながらの雰囲気が漂っています。"
+        },
+        {
+            "question": "このレストランのシェフは誰ですか？",
+            "answer": "キム・ジョンス調理長が45年の経験を持つ職人で、ふぐスープの醍醐味を伝えています。"
+        },
+        {
+            "question": "このレストランの歴史は何年ありますか？",
+            "answer": "1970年代から営業しており、長い歴史があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 90,
+        "QA": 192
+    }
+}

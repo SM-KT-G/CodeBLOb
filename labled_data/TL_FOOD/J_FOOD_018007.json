@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_018007",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2022-12-08",
+        "domain": "음식점",
+        "title": "오가횟집"
+    },
+    "text": "男鹿刺身屋 (오가횟집)\\n\n慶尚南道巨済市長木面新村キル11外1筆地2階\\n\n慶尚南道巨済市長木面にあるオガフェッチプは、新鮮な刺身を楽しむことができる美味しいレストランです。ここでは、きれいな施設と親切なサービスが提供されており、巨済で人気のある飲食店です。",
+    "QA": [
+        {
+            "question": "男鹿刺身屋はどこにありますか？",
+            "answer": "男鹿刺身屋は慶尚南道巨済市長木面新村キル11外1筆地2階にあります。"
+        },
+        {
+            "question": "男鹿刺身屋では何を楽しむことができますか？",
+            "answer": "男鹿刺身屋では新鮮な刺身を楽しむことができます。"
+        },
+        {
+            "question": "男鹿刺身屋の特徴は何ですか？",
+            "answer": "男鹿刺身屋はきれいな施設と親切なサービスが提供されており、巨済で人気のある飲食店です。"
+        }
+    ],
+    "word_Count": {
+        "text": 96,
+        "QA": 110
+    }
+}

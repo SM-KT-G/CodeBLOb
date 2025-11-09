@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_025379",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42020&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "남해 우연과인연펜션"
+    },
+    "text": "偶然と縁ペンションへようこそ。 偶然と縁は私たちの人生の縁を話しながら訪ねてきたペンションです。 家族旅行、週末旅行、休暇、休息を希望する方に居心地の良くて安らかな休息空間が偶然と縁ペンションだと申し上げたいです。 事前連絡が必要な場合、22時以降に入室される方はペンションまでご連絡ください。 ありがとうございます。 \".",
+    "QA": [
+        {
+            "question": "偶然と縁ペンションはどんな場所ですか？",
+            "answer": "偶然と縁ペンションは、居心地の良くて安らかな休息空間を提供するペンションです。家族旅行、週末旅行、休暇、休息を希望する方におすすめです。"
+        },
+        {
+            "question": "ペンションには何人まで宿泊できますか？",
+            "answer": "ペンションには最大で10人まで宿泊することができます。"
+        },
+        {
+            "question": "チェックインの時間は何時ですか？",
+            "answer": "チェックインの時間は通常、15時です。ただし、22時以降に入室される場合は事前にペンションにご連絡ください。"
+        },
+        {
+            "question": "周辺に観光スポットはありますか？",
+            "answer": "偶然と縁ペンションの周辺には美しい自然や観光スポットがたくさんあります。例えば、山岳地帯や温泉地などがあります。"
+        },
+        {
+            "question": "予約は必要ですか？",
+            "answer": "はい、予約が必要です。特に混雑する時期は早めにご予約いただくことをおすすめします。"
+        }
+    ],
+    "word_Count": {
+        "text": 118,
+        "QA": 238
+    }
+}

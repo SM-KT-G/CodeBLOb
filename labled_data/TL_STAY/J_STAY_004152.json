@@ -1,0 +1,51 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_004152",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42010&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "파주 W&J펜션"
+    },
+    "text": "こんにちは。W&J Pensionです。 夜空の輝く星の下に位置するW&J Pensionをご紹介します。 一度いらっしゃれば、また訪れる楽しさと思い出のあるW&Jペンションにお越しくださり、ありがとうございます。 私どもW&Jは常に衛生清潔に心血を注ぎ、最高のサービスに努めています。 様々なイベントもたくさん用意しているので、いつでもイベントの主人公になれます。 当W&JはW棟とJ棟で構成されており、W棟にはL、O、V、E、W客室があり、J棟にはJ客室とBeer&Cafeがあります。 W棟とJ棟の間にプールがあり、すべての利用客が利用できます。 Beer&Cafeではポケットボールとボードゲームが楽しめ、世界のビールとワインが楽しめます。 W&J Pensionで次々と思い浮かぶ思い出を作ってください~^^ また訪れるW&J Pensionにお越しください！ お知らせを22時以降に入室する場合、ペンションまで予めご連絡ください。 5月1日~10月8日までプール開場。",
+    "QA": [
+        {
+            "question": "W&Jペンションの位置はどこですか？",
+            "answer": "W&Jペンションは夜空の輝く星の下に位置しています。"
+        },
+        {
+            "question": "W&Jペンションの衛生状態はどうですか？",
+            "answer": "W&Jは常に衛生清潔に心血を注ぎ、最高のサービスに努めています。"
+        },
+        {
+            "question": "W棟とJ棟にはどのような客室がありますか？",
+            "answer": "W棟にはL、O、V、E、W客室があり、J棟にはJ客室とBeer&Cafeがあります。"
+        },
+        {
+            "question": "プールはいつ利用できますか？",
+            "answer": "プールは5月1日から10月8日まで利用できます。"
+        },
+        {
+            "question": "どんなイベントが行われていますか？",
+            "answer": "様々なイベントが用意されており、いつでもイベントの主人公になれます。"
+        },
+        {
+            "question": "Beer&Cafeでは何が楽しめますか？",
+            "answer": "Beer&Cafeではポケットボールとボードゲームが楽しめ、世界のビールとワインも楽しめます。"
+        },
+        {
+            "question": "22時以降に入室する場合はどうすればいいですか？",
+            "answer": "22時以降に入室する場合は、事前にペンションまでご連絡ください。"
+        }
+    ],
+    "word_Count": {
+        "text": 322,
+        "QA": 272
+    }
+}

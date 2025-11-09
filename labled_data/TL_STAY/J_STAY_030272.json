@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_030272",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42011&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "더 호텔 영종"
+    },
+    "text": "仁川の代表的な海水浴場である乙旺里海水浴場は15分の距離に位置し、便利に訪れることができます。 この海水浴場は静かな夜明けの思索に浸るヒーリング空間で、約3.5kmの百年道トレッキングコースも提供しています。 また、仁川国際空港とも車で30分の距離で非常に近くに位置しており、ここを訪れる旅行者に便利なアクセスを提供しています。",
+    "QA": [
+        {
+            "question": "乙旺里海水浴場の位置はどこですか？",
+            "answer": "乙旺里海水浴場は仁川に位置しています。"
+        },
+        {
+            "question": "乙旺里海水浴場から百年道トレッキングコースまでの距離はどれくらいですか？",
+            "answer": "乙旺里海水浴場から百年道トレッキングコースまでは約3.5kmです。"
+        },
+        {
+            "question": "乙旺里海水浴場へのアクセス手段は何ですか？",
+            "answer": "乙旺里海水浴場へは車でアクセスすることができます。また、仁川国際空港からも車で約30分です。"
+        }
+    ],
+    "word_Count": {
+        "text": 120,
+        "QA": 126
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_009899",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42020&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "넘버25 김해어방점 운영 정책"
+    },
+    "text": "チェックインは18:00以降に可能で、チェックアウトは12:00以前に行ってください。 親と一緒の子供は宿泊が可能で、8歳以下の子供は無料で宿泊できます。 追加人数がいる場合、1人当たり10,000ウォンの費用がかかります。 寝具の追加時には1本当たり10,000ウォンの費用が発生し、歯ブラシと歯磨き粉は無料で提供します。 駐車場とWi-Fiは無料で利用できます。 Design Hotelの特性上、写真と異なるテーマの客室が割り当てられることがありますのでご注意ください。",
+    "QA": [
+        {
+            "question": "チェックインは何時から可能ですか？",
+            "answer": "チェックインは18:00以降に可能です。"
+        },
+        {
+            "question": "チェックアウトは何時までですか？",
+            "answer": "チェックアウトは12:00以前に行ってください。"
+        },
+        {
+            "question": "子供と一緒に宿泊することはできますか？",
+            "answer": "はい、親と一緒の子供は宿泊が可能です。8歳以下の子供は無料で宿泊できます。"
+        },
+        {
+            "question": "追加人数はいくらですか？",
+            "answer": "追加人数がいる場合、1人当たり10,000ウォンの費用がかかります。"
+        },
+        {
+            "question": "寝具の追加料金はありますか？",
+            "answer": "寝具の追加時には1本当たり10,000ウォンの費用が発生します。"
+        },
+        {
+            "question": "歯ブラシと歯磨き粉は提供されますか？",
+            "answer": "はい、歯ブラシと歯磨き粉は無料で提供されます。"
+        },
+        {
+            "question": "駐車場は利用できますか？",
+            "answer": "はい、駐車場は無料で利用できます。"
+        },
+        {
+            "question": "Wi-Fiは利用できますか？",
+            "answer": "はい、Wi-Fiは無料で利用できます。"
+        },
+        {
+            "question": "客室のテーマはどのように割り当てられますか？",
+            "answer": "Design Hotelの特性上、写真と異なるテーマの客室が割り当てられることがありますのでご注意ください。"
+        }
+    ],
+    "word_Count": {
+        "text": 174,
+        "QA": 296
+    }
+}

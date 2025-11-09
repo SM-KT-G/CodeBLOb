@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_054621",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2020-12-09",
+        "domain": "음식점",
+        "title": "24時ピョダギタン( 24시뼈다귀탕 )"
+    },
+    "text": "24時ピョダギタン( 24시뼈다귀탕 )\\n\n済州特別自治道 済州市 三無路 47\\n\n24時間営業のヘジャンクク店です。済州特別自治道のジェジュ市に位置した韓食専門店です。代表的なメニューはカムジャタンです。",
+    "QA": [
+        {
+            "question": "24時ピョダギタンはどこに位置していますか？",
+            "answer": "24時ピョダギタンは済州特別自治道 済州市 三無路 47に位置しています。"
+        },
+        {
+            "question": "24時ピョダギタンは何時まで営業していますか？",
+            "answer": "24時ピョダギタンは24時間営業していますので、いつでも訪れることができます。"
+        },
+        {
+            "question": "24時ピョダギタンのメニューで代表的なものは何ですか？",
+            "answer": "24時ピョダギタンの代表的なメニューはカムジャタンです。カムジャタンは韓国料理の一つで、ジャガイモと豚肉を使ったスープです。ぜひお試しください。"
+        }
+    ],
+    "word_Count": {
+        "text": 77,
+        "QA": 161
+    }
+}

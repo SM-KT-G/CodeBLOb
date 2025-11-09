@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_054959",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "KIM\"S BURGER ( 킴스버거 )"
+    },
+    "text": "KIM\"S BURGER ( 킴스버거 )\n京畿道 ピョンテク市 ジュンアンシジャンロ18\nリーズナブルな手作りバーガーが味わえます。京畿道のピョンテク市に位置した洋食専門店です。おすすめはハンバーガーです。",
+    "QA": [
+        {
+            "question": "キムズバーガーはどこにありますか？",
+            "answer": "キムズバーガーは京畿道のピョンテク市に位置しています。"
+        },
+        {
+            "question": "キムズバーガーでは何がオススメですか？",
+            "answer": "キムズバーガーではハンバーガーがオススメです。手作りでリーズナブルなバーガーが味わえます。"
+        },
+        {
+            "question": "キムズバーガーは洋食専門店ですか？",
+            "answer": "はい、キムズバーガーは洋食専門店です。"
+        },
+        {
+            "question": "キムズバーガーの住所は何ですか？",
+            "answer": "キムズバーガーの住所は京畿道ピョンテク市ジュンアンシジャンロ18です。"
+        }
+    ],
+    "word_Count": {
+        "text": 76,
+        "QA": 143
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_081365",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ja",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2023-08-09",
+        "domain": "문화/역사관광",
+        "title": "서천 갯벌 매력에 \"푸~욱\""
+    },
+    "text": "海洋生物資源館と連携して観覧することができ、海松の森の上、開けた空と海を歩くようなさっぱりしてスリルを感じることができる。スカイウォークの末には展望デッキがあり美しい展望を楽しむことができる。",
+    "QA": [
+        {
+            "question": "海洋生物資源館は何を提供していますか？",
+            "answer": "海洋生物資源館では、海洋生物の展示や情報提供を行っており、海洋に関する学びと楽しみを提供しています。"
+        },
+        {
+            "question": "スカイウォークの末に何がありますか？",
+            "answer": "スカイウォークの末には展望デッキがあり、美しい展望を楽しむことができます。"
+        },
+        {
+            "question": "海松の森の上では何を感じることができますか？",
+            "answer": "海松の森の上を歩くと、さっぱりしてスリルを感じることができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 70,
+        "QA": 130
+    }
+}

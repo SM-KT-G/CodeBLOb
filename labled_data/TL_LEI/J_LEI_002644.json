@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_LEI_002644",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2023-07-01",
+        "domain": "레포츠",
+        "title": "로시놀"
+    },
+    "text": "ロシノールは平昌にあるスキー用具レンタルショップだ。龍平リゾートから近いところに位置している。様々なスキー服を安く借りられるし、きれいな内部にサービスまで親切なところだ。\n\n*開業日 - 2002年10月11日\n\n*龍平リゾートと7kmの距離、約5分かかる",
+    "QA": [
+        {
+            "question": "ロシノールはどこに位置していますか？",
+            "answer": "ロシノールは平昌に位置しています。"
+        },
+        {
+            "question": "ロシノールの開業日はいつですか？",
+            "answer": "ロシノールの開業日は2002年10月11日です。"
+        },
+        {
+            "question": "ロシノールは龍平リゾートからどのくらいの距離ですか？",
+            "answer": "ロシノールは龍平リゾートから約7kmの距離で、約5分かかります。"
+        },
+        {
+            "question": "ロシノールではどんなスキー用具を借りることができますか？",
+            "answer": "ロシノールでは様々なスキー用具を借りることができます。"
+        },
+        {
+            "question": "ロシノールの内部はきれいですか？",
+            "answer": "はい、ロシノールの内部はきれいです。"
+        },
+        {
+            "question": "ロシノールのサービスはどのようですか？",
+            "answer": "ロシノールのサービスは親切です。"
+        }
+    ],
+    "word_Count": {
+        "text": 93,
+        "QA": 188
+    }
+}

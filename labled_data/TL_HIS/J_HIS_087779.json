@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_087779",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=103&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=08240000&ccbaCtcd=31&ccbaCpno=1123108240000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1985-01-08",
+        "domain": "문화/역사관광",
+        "title": "안성 청룡사 대웅전"
+    },
+    "text": "朝鮮時代後期に建てられた大腸ガンと呼ばれていたのは青龍寺でした。この寺は高麗の原種6年(1265)ミョンボン国事によって設立され、恭愍王13年(1364)にはニャース画像を大きく広げて青龍寺という名前に変わりました。青龍寺は、青龍が雲に乗ってくる光景を見て付けた名前です。この寺の主要建物である大雄殿は朝鮮後期に再び建築されたと推定されており、前面3間・側面4間の規模を備えています。この建物は側面から見ると、八の字型の入母屋屋根で構成されており、屋根の軒と柱の間にも装飾が施されています。これをダポ様式だというが、外部に伸ばして出た部分には、蓮の花と蓮花のつぼみが華やかに彫刻されて朝鮮後期の特徴をよく示します。また、この建物の柱はまったく加工されなかった原木を使用して建てられていて注目すべきです。大雄殿の内側には朝鮮、憲宗15年(1674)に作られた梵鐘が保管されており、この建物を通じて朝鮮後期の建築様式と特徴を確認することができます。現在は2014年から解体補修中にあります。",
+    "QA": [
+        {
+            "question": "青龍寺はいつ建てられましたか？",
+            "answer": "青龍寺は高麗の原種6年(1265)に建てられました。"
+        },
+        {
+            "question": "なぜ青龍寺という名前に変わりましたか？",
+            "answer": "恭愍王13年(1364)にはニャース画像を大きく広げて青龍寺という名前に変わりました。"
+        },
+        {
+            "question": "青龍寺の主要建物である大雄殿の規模は何ですか？",
+            "answer": "大雄殿は前面3間・側面4間の規模を備えています。"
+        },
+        {
+            "question": "大雄殿の特徴的な構造は何ですか？",
+            "answer": "大雄殿は八の字型の入母屋屋根で構成されており、屋根の軒と柱の間にも装飾が施されています。"
+        },
+        {
+            "question": "大雄殿の柱はどのように建てられていますか？",
+            "answer": "大雄殿の柱はまったく加工されなかった原木を使用して建てられています。"
+        },
+        {
+            "question": "大雄殿の内側には何が保管されていますか？",
+            "answer": "大雄殿の内側には朝鮮、憲宗15年(1674)に作られた梵鐘が保管されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 324,
+        "QA": 237
+    }
+}

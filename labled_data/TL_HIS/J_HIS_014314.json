@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_014314",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=530&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=02050000&ccbaCtcd=38&ccbaCpno=2113802050000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1982-08-02",
+        "domain": "문화/역사관광",
+        "title": "양산향교"
+    },
+    "text": "梁山郷校 (양산향교)\\n\n慶尚南道梁山市校洞1ギル10(校洞)\\n\n朝鮮時代 , 慶尚南道有形文化財 , 郷校は立派な儒学者を祭祀し、地方民の儒学教育と教化のために国で建てた教育機関だ。朝鮮太宗6年(1406)に建てられ、1864年に大きく修理したが、『梁山校誌』によると、あまり差がないと推定される。 建物の配置は勉強する所である明倫堂と東·西斎が前方平地にあり、祭祀を行う所である大成殿と東·西武が後方傾斜地にある転校後墓の形だ。 郷校は本来、建物が建てられた形式と規模によって大雪位、中雪位、小雪位の3等級に分けられる。 したがって、この郷校の出入り口である外三門が楼閣形態で建てられ、明倫堂と大成殿の規模が比較的大きいという点から見て、中設委に該当したものと見られる。 朝鮮時代には国家から土地と戦績、奴婢などを受けて学生たちを教えたが、甲午改革(1894)以後、祭祀だけが行われている。",
+    "QA": [
+        {
+            "question": "梁山郷校 (양산향교)はどのような教育機関ですか？",
+            "answer": "梁山郷校は、朝鮮時代に地方民の儒学教育と教化のために国で建てられた教育機関です。"
+        },
+        {
+            "question": "梁山郷校の建物はどのような配置になっていますか？",
+            "answer": "梁山郷校の建物は、明倫堂と東・西斎が前方平地にあり、大成殿と東・西武が後方傾斜地にある転校後墓の形に配置されています。"
+        },
+        {
+            "question": "梁山郷校は何級に分けられる教育機関でしたか？",
+            "answer": "梁山郷校は、建物の形式と規模によって大雪位、中雪位、小雪位の3等級に分けられる教育機関でした。"
+        },
+        {
+            "question": "梁山郷校の外三門はどのような形態で建てられていましたか？",
+            "answer": "梁山郷校の外三門は楼閣形態で建てられていました。"
+        },
+        {
+            "question": "梁山郷校ではどのような活動が行われていましたか？",
+            "answer": "朝鮮時代には梁山郷校では学生たちを教育するために国家から土地や戦績、奴婢などが提供されていましたが、甲午改革以後は祭祀だけが行われるようになりました。"
+        }
+    ],
+    "word_Count": {
+        "text": 292,
+        "QA": 269
+    }
+}

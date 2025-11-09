@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_014545",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "モア飲食店 ( 모아음식점 )"
+    },
+    "text": "モア飲食店 ( 모아음식점 )\\n\n全羅南道 木浦市 寿康路12ボンキル 23-1\\n\n20年以上の伝統を持つ飲食店です。 全羅南道のモクポ市に位置した韓食専門店です。おすすめは家庭料理定食です。",
+    "QA": [
+        {
+            "question": "モア飲食店はどこに位置していますか？",
+            "answer": "モア飲食店は全羅南道の木浦市に位置しています。"
+        },
+        {
+            "question": "モア飲食店はどのような飲食店ですか？",
+            "answer": "モア飲食店は韓食専門店で、20年以上の伝統を持っています。"
+        },
+        {
+            "question": "モア飲食店のおすすめメニューは何ですか？",
+            "answer": "モア飲食店のおすすめは家庭料理定食です。"
+        }
+    ],
+    "word_Count": {
+        "text": 71,
+        "QA": 93
+    }
+}

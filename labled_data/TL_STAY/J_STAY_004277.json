@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_004277",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42090&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "서귀포 해비치펜션"
+    },
+    "text": "こんにちは。ヒノキの香りいっぱいのヘビチ民宿ペンションです。 ペンションでは、快適で居心地の良い宿泊を提供しています。 しかし、お客様にお知らせしたいことがあります。 22時以降に入室される場合は、ペンションまで予めご連絡ください。 これは私たちの便宜のための措置です。 いつにも増して素敵な休暇を過ごせるように最善を尽くします。 ありがとうございます。",
+    "QA": [
+        {
+            "question": "ペンションのチェックイン時間は何時ですか？",
+            "answer": "ペンションのチェックイン時間は通常、15時からです。"
+        },
+        {
+            "question": "ペンションのチェックアウト時間は何時ですか？",
+            "answer": "ペンションのチェックアウト時間は通常、10時までです。"
+        },
+        {
+            "question": "22時以降に入室する場合は、事前に連絡する必要がありますか？",
+            "answer": "はい、22時以降に入室する場合は、ペンションまで事前に連絡をお願いします。"
+        },
+        {
+            "question": "ペンションにはどのような設備がありますか？",
+            "answer": "ペンションには快適な客室、共用のリビングルーム、レストラン、無料のWi-Fiなどの設備があります。"
+        },
+        {
+            "question": "周辺に観光名所はありますか？",
+            "answer": "はい、周辺には美しい自然環境や温泉地などの観光名所があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 129,
+        "QA": 203
+    }
+}

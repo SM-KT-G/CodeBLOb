@@ -1,0 +1,31 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_004080",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42030&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "울진 산포리펜션"
+    },
+    "text": "こんにちは、蔚珍山浦里ペンションです。 提供されるお知らせの中には次のようなものがあります。 まず、22時以降に到着される場合は、事前に当ペンションまでご連絡をお願いします。 そして一つ注意すべき点は、同じ一行が二つの客室以上を予約できず、これにより予約の際に利用できないこともあるという点です。",
+    "QA": [
+        {
+            "question": "22時以降に到着される場合はどうすればいいですか？",
+            "answer": "22時以降に到着される場合は、事前に当ペンションまでご連絡をお願いします。"
+        },
+        {
+            "question": "同じ一行が二つの客室以上を予約できない理由は何ですか？",
+            "answer": "同じ一行が二つの客室以上を予約できないため、予約の際に利用できないこともあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 108,
+        "QA": 95
+    }
+}

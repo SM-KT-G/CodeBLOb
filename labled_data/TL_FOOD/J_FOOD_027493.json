@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_027493",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-01",
+        "domain": "음식점",
+        "title": "晋州食堂 ( 진주식당 )"
+    },
+    "text": "晋州食堂 \n京畿道 富川市 城梧路124ボンキル 37\n20年の伝統がある店で 新鮮なお肉を味わえるところです。 おすすめは韓牛ロースです。京畿道のブチョン市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "このお店はどこにありますか？",
+            "answer": "このお店は京畿道富川市の城梧路124ボンキルに位置しています。"
+        },
+        {
+            "question": "このお店の特徴は何ですか？",
+            "answer": "このお店は20年の伝統があり、新鮮なお肉を味わうことができるところです。"
+        },
+        {
+            "question": "おすすめのメニューは何ですか？",
+            "answer": "このお店のおすすめは韓牛ロースです。"
+        },
+        {
+            "question": "このお店は何を専門にしていますか？",
+            "answer": "このお店は韓食を専門としています。"
+        }
+    ],
+    "word_Count": {
+        "text": 67,
+        "QA": 118
+    }
+}

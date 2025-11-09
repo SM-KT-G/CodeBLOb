@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_002759",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-21",
+        "domain": "음식점",
+        "title": "イェンナル素麺 ( 옛날국수 )"
+    },
+    "text": "イェンナル素麺\\n\n釜山広域市 釜山鎮区 カヤデロ784ボンギル52\\n\n夫婦で運営している、素朴だけどおいしい一食が味わえる店です。釜山広域市のブサンジン区に位置した韓国料理店です。おすすめは素麺です。",
+    "QA": [
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "釜山広域市のブサンジン区に位置しています。"
+        },
+        {
+            "question": "この店では何がおすすめですか？",
+            "answer": "おすすめは素麺です。"
+        },
+        {
+            "question": "この店の特徴はなんですか？",
+            "answer": "夫婦で運営していて、素朴だけどおいしい一食が味わえる店です。"
+        }
+    ],
+    "word_Count": {
+        "text": 74,
+        "QA": 74
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_104254",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=768&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=00090000&ccbaCtcd=33&ccbaCpno=2333300090000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1976-12-20",
+        "domain": "문화/역사관광",
+        "title": "진천 정송강사"
+    },
+    "text": "忠清北道には朝鮮前期の文臣であり、詩人である松江・鄭澈(1536∼1593)先生の位牌を祀った祠堂がある。李先生は、政治家よりは詩人で多くの材質を見せていて、在職中に『グヮンドンビョルゴク』、『フンミンカ』、『ソンサンビョルゴク』などを調合し、都落ちした後には『サミインゴク』、『続美人曲』など多様な歌詞と、単価を残した。この祠堂は京畿道高陽にいた正哲氏の墓を玄宗6年(1665)に宋時烈(ソン・シヨル)が定めた位置に移し、建設された建物である。現在、祠堂は1979年に新たに再建されたもので、規模が小さすぎて見られる。祠堂は前面3間・側面2間規模の建物であり、屋根は側面から見ると、人の教わる字形の切妻屋根で飾られている。ここには先生の遺品である銀杯(銀杯)と玉の杯(玉杯)が展示されており、祠堂の南には松江の墓と詩碑そして碑閣もある。",
+    "QA": [
+        {
+            "question": "松江・鄭澈先生の祠堂はどこにありますか？",
+            "answer": "祠堂は忠清北道に位置しています。"
+        },
+        {
+            "question": "松江・鄭澈先生の祠堂は何年に建てられましたか？",
+            "answer": "祠堂は玄宗6年(1665)に建てられました。"
+        },
+        {
+            "question": "松江・鄭澈先生の祠堂には何が展示されていますか？",
+            "answer": "祠堂には先生の遺品である銀杯と玉の杯が展示されています。"
+        },
+        {
+            "question": "松江・鄭澈先生の祠堂の屋根の形はどのような形ですか？",
+            "answer": "祠堂の屋根は側面から見ると、人の教わる字形の切妻屋根で飾られています。"
+        },
+        {
+            "question": "松江・鄭澈先生の祠堂の南に何がありますか？",
+            "answer": "祠堂の南には松江の墓と詩碑、そして碑閣もあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 270,
+        "QA": 176
+    }
+}

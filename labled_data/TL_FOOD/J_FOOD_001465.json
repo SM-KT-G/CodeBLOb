@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001465",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-01-08",
+        "domain": "음식점",
+        "title": "Ben\"s Cookies 梨泰院( 벤스쿠키 이태원 )"
+    },
+    "text": "Ben\"s Cookies 梨泰院( 벤스쿠키 이태원 )\\n\nソウル特別市 龍山区 イテウォンロ203\\n\n毎日店頭で焼いているイギリス式手作りクッキーの専門店です。 おすすめはクッキーです。ソウル特別市のヨンサン区に位置したカフェ（コーヒーショップ）です。",
+    "QA": [
+        {
+            "question": "ベンズクッキー梨泰院はどこにありますか？",
+            "answer": "ソウル特別市 龍山区 イテウォンロ203に位置しています。"
+        },
+        {
+            "question": "ベンズクッキー梨泰院ではどのような商品を取り扱っていますか？",
+            "answer": "ベンズクッキー梨泰院では、イギリス式手作りクッキーを専門に扱っています。特におすすめはクッキーです。"
+        },
+        {
+            "question": "ベンズクッキー梨泰院はどんな場所に位置していますか？",
+            "answer": "ベンズクッキー梨泰院はソウル特別市のヨンサン区に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 95,
+        "QA": 137
+    }
+}

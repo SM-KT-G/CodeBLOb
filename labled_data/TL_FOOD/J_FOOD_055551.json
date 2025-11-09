@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_055551",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/food/pekom-grilled-fish",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "ペッコムセンソンクイ定食"
+    },
+    "text": "ペッコムセンソンクイ定食\\n\n京畿道 高陽市 一山西区 大化洞 2273-3\\n\n京畿道一山にあるここは、サクサクして、様々な魚を焼きに味わうことができる焼き魚専門店である。椅子がテーブル席に設けられている。 様々な焼き魚を味わうことができ、地域住民に人気の場所である。",
+    "QA": [
+        {
+            "question": "このレストランの場所はどこですか？",
+            "answer": "京畿道高陽市一山西区大化洞2273-3にあります。"
+        },
+        {
+            "question": "このレストランではどんな焼き魚が味わえますか？",
+            "answer": "様々な焼き魚が味わえます。"
+        },
+        {
+            "question": "このレストランはどのような雰囲気ですか？",
+            "answer": "椅子がテーブル席に設けられており、地域住民に人気のある場所です。"
+        },
+        {
+            "question": "このレストランはどのくらいの人気がありますか？",
+            "answer": "地域住民に人気のある場所です。"
+        }
+    ],
+    "word_Count": {
+        "text": 99,
+        "QA": 123
+    }
+}

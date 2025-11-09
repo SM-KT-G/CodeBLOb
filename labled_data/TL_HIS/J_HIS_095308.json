@@ -1,0 +1,51 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_095308",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=991&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=00390000&ccbaCtcd=36&ccbaCpno=3413600390000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1984-02-29",
+        "domain": "문화/역사관광",
+        "title": "은적암"
+    },
+    "text": "1172年、全羅南道文化財資料である庵は高麗明宗25年(1195)にボチョグクサが立てた建物である。今は大雄殿、グヮンミョンル、チルソンガクなどが残っている。大雄殿は八(八部)字形の入母屋屋根だが、右の側面は切妻屋根である。ジュシムポ様式とつの翼型、様式を混ぜて掲載した恐怖が柱の上にのみある。グヮンミョンルは表3間・側面2間で切妻屋根である。修理記録棟上げは、光海君10年(1618)、正祖14年(1790)、哲宗8年(1857)にわたって、なった。遺物としては1918年に造成されたフブルテン、チルソンテン、サンシンテンなどがある。",
+    "QA": [
+        {
+            "question": "この建物はいつ建てられましたか？",
+            "answer": "高麗明宗25年(1195)にボチョグクサが建てました。"
+        },
+        {
+            "question": "建物にはどのような部屋が残っていますか？",
+            "answer": "大雄殿、グヮンミョンル、チルソンガクなどが残っています。"
+        },
+        {
+            "question": "大雄殿の屋根の形はどのような形ですか？",
+            "answer": "八(八部)字形の入母屋屋根ですが、右の側面は切妻屋根です。"
+        },
+        {
+            "question": "大雄殿の柱には何の様式が掲載されていますか？",
+            "answer": "ジュシムポ様式とつの翼型、様式を混ぜて掲載されています。"
+        },
+        {
+            "question": "グヮンミョンルの屋根の形はどのような形ですか？",
+            "answer": "表3間・側面2間で切妻屋根です。"
+        },
+        {
+            "question": "この建物は何度修理されましたか？",
+            "answer": "光海君10年(1618)、正祖14年(1790)、哲宗8年(1857)にわたって、修理されました。"
+        },
+        {
+            "question": "どのような遺物がありますか？",
+            "answer": "1918年に造成されたフブルテン、チルソンテン、サンシンテンなどがあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 196,
+        "QA": 253
+    }
+}

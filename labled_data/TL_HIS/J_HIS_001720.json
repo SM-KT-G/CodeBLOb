@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_001720",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=949&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=00010000&ccbaCtcd=11&ccbaCpno=3411100010000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1991-05-30",
+        "domain": "문화/역사관광",
+        "title": "옥인동 박노수 가옥"
+    },
+    "text": "オギンドン・パクノス家屋 (옥인동 박노수 가옥)\\n\nソウル鍾路区玉仁1ギル34(玉仁洞)\\n\nソウル特別市文化財資料 , 朝鮮後期の文臣ユン·ドクヨン(1873~1940)が彼の娘のために建てた家だ。 ユン·ドクヨンは親日派の一人で、イ·ワンヨンと共に韓日併合調印に積極的に活動し、議政府賛政など色々な官職をあまねく経た。 1938年代に建てられたこの家は2階建てのレンガ造りの家だ。 1階はオンドル部屋と床で構成されており、2階は床部屋構造になっている。 韓屋と洋館の建築技法の他に、中国式手法が混ざっており、内側に暖炉を3つも設置するなど豪華に飾られている。",
+    "QA": [
+        {
+            "question": "この家はいつ建てられましたか？",
+            "answer": "1938年代に建てられました。"
+        },
+        {
+            "question": "この家は誰によって建てられましたか？",
+            "answer": "ユン·ドクヨンという文臣が彼の娘のために建てました。"
+        },
+        {
+            "question": "この家の特徴は何ですか？",
+            "answer": "韓屋と洋館の建築技法の他に、中国式手法が混ざっており、内側に暖炉を3つも設置するなど豪華に飾られています。"
+        },
+        {
+            "question": "この家はどのような構造ですか？",
+            "answer": "1階はオンドル部屋と床で構成され、2階は床部屋構造になっています。"
+        },
+        {
+            "question": "この家の所在地はどこですか？",
+            "answer": "ソウル鍾路区玉仁1ギル34(玉仁洞)にあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 207,
+        "QA": 165
+    }
+}

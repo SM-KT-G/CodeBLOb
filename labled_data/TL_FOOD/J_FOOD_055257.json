@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_055257",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-30",
+        "domain": "음식점",
+        "title": "シンファゲパン 西面（신화게판 서면）"
+    },
+    "text": "シンファゲパン 西面（신화게판 서면）\\n\n釜山広域市 釜山鎮区 伽倻大路784ボンキル 46-8\\n\n釜山広域市のブサンジン区に位置した韓食です。釜山を代表する食材であるカニとエビ料理を味わうことができます。代表的なメニューはカンジャンセウです。",
+    "QA": [
+        {
+            "question": "このレストランの場所はどこですか？",
+            "answer": "釜山広域市 釜山鎮区 伽倻大路784ボンキル 46-8に位置しています。"
+        },
+        {
+            "question": "このレストランの特徴的なメニューは何ですか？",
+            "answer": "代表的なメニューはカンジャンセウです。"
+        },
+        {
+            "question": "このレストランで味わえる食材は何ですか？",
+            "answer": "釜山を代表する食材であるカニとエビ料理を味わうことができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 90,
+        "QA": 106
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_019480",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42001&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "수유 다니엘 캄파넬라"
+    },
+    "text": "禁煙ホテルのダニエル·カンパネラは喫煙を厳しく禁止しています。 客室内での喫煙時には11万ウォンのペナルティを請求し、同時に即時退室措置を行います。 このホテルは水牛駅から徒歩1分の距離に位置しているので、交通アクセスがとても良いです。 さらに、ダニエル·カンパネラはデザイン面でも卓越したホテルで、ルーフトップとラウンジを指折り楽しむことができます。",
+    "QA": [
+        {
+            "question": "ダニエル·カンパネラは禁煙ホテルですか？",
+            "answer": "はい、ダニエル·カンパネラは禁煙ホテルです。喫煙は厳しく禁止されています。"
+        },
+        {
+            "question": "喫煙時に請求されるペナルティの金額はいくらですか？",
+            "answer": "喫煙時には11万ウォンのペナルティが請求されます。"
+        },
+        {
+            "question": "ダニエル·カンパネラの場所はどこですか？",
+            "answer": "ダニエル·カンパネラは水牛駅から徒歩1分の距離に位置しています。"
+        },
+        {
+            "question": "ダニエル·カンパネラのデザイン面はどうですか？",
+            "answer": "ダニエル·カンパネラはデザイン面でも卓越したホテルです。ルーフトップとラウンジを指折り楽しむことができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 129,
+        "QA": 173
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_100675",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1047&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=01190000&ccbaCtcd=35&ccbaCpno=3413501190000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1986-09-08",
+        "domain": "문화/역사관광",
+        "title": "정상윤가옥"
+    },
+    "text": "チョンサンユン・カオク\\n\n全羅北道長水郡書院キル8(山西面)\\n\n全羅北道文化財資料、母屋とサランチェ、門屋、門屋で構成されており、1938年に建てられた家だ。 母屋は前面5間·側面3間であり、屋根は側面から見ると八の字型をした入母屋造りだ。 天井の上にはすべて屋根裏部屋があり、前面と裏面の窓は櫛目窓で飾られている。 サランチェは母屋の前に配置されている建物で、屋根は入母屋造りだ。 「永春軒」という扁額が掛けられており、母屋のように天井の上に屋根裏部屋を作り、ㄱ字型に伸びた大青楼閣がある。 蔵屋は母屋とサランチェの間に南北に延びている。 前面4間·側面1間規模で屋根は側面から見ると人の字型をした切妻屋根だ。 門屋は蔵屋の低い方に立っているが、前面4間·側面1間の大きさに屋根は切妻屋根で飾った。 母屋とサランチェを通じる内門は入母屋造りであり、その横に小さな門がある。 門間チェは前面3間·側面1間で大門を中心に左右に一つずつ部屋があり、板の間の裏側から南に延びた楼閣形態の床が涼しい感じを与えている。",
+    "QA": [
+        {
+            "question": "この書院キル8は何年に建てられましたか？",
+            "answer": "1938年に建てられました。"
+        },
+        {
+            "question": "書院キル8の構成要素は何ですか？",
+            "answer": "母屋、サランチェ、門屋で構成されています。"
+        },
+        {
+            "question": "母屋の天井の上には何がありますか？",
+            "answer": "母屋の天井の上には屋根裏部屋があります。"
+        },
+        {
+            "question": "サランチェに掛けられている扁額は何と書かれていますか？",
+            "answer": "「永春軒」と書かれています。"
+        },
+        {
+            "question": "蔵屋はどこに位置していますか？",
+            "answer": "蔵屋は母屋とサランチェの間に南北に延びています。"
+        },
+        {
+            "question": "門屋の屋根は何型ですか？",
+            "answer": "切妻屋根です。"
+        },
+        {
+            "question": "内門はどんな造りですか？",
+            "answer": "内門は入母屋造りです。"
+        },
+        {
+            "question": "門間チェの床はどんな感じを与えていますか？",
+            "answer": "涼しい感じを与えています。"
+        }
+    ],
+    "word_Count": {
+        "text": 334,
+        "QA": 193
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_019588",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-09-04",
+        "domain": "음식점",
+        "title": "桃山（모모야마）"
+    },
+    "text": "桃山（모모야마）\\n\nソウル特別市 中区 乙支路30\\n\n日本の寿司店「銀座 寿司幸」、会席料理「つきぢ田村」から受け継がれた韓国最高の寿司や会席料理を提供する桃山。80銘柄を超える日本酒があり、日本酒ソムリエがおすすめの一本をセレクション。大切なおもてなしのための様々な個室も完備しています。",
+    "QA": [
+        {
+            "question": "桃山はどこにありますか？",
+            "answer": "桃山はソウル特別市 中区 乙支路30にあります。"
+        },
+        {
+            "question": "桃山ではどのような料理を提供していますか？",
+            "answer": "桃山では日本最高の寿司や会席料理を提供しています。"
+        },
+        {
+            "question": "桃山には何種類の日本酒がありますか？",
+            "answer": "桃山には80銘柄を超える日本酒があります。"
+        },
+        {
+            "question": "桃山のおすすめの日本酒は何ですか？",
+            "answer": "桃山の日本酒ソムリエがおすすめの一本をセレクションしています。"
+        },
+        {
+            "question": "桃山には個室がありますか？",
+            "answer": "はい、桃山には大切なおもてなしのための様々な個室が完備されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 107,
+        "QA": 158
+    }
+}

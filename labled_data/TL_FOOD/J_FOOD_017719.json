@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_017719",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/kungjeon-bakery",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "宮中製菓"
+    },
+    "text": "宮中製菓\\n\n光州広域市 東区 忠壮路 93-6 )\\n\n広州広域市東区忠壮路1街にある「宮中製菓」は、今年で開店40周年を迎えるベーカリーです。人気メニューは「恐竜の卵サンドイッチ」、「蝶々パイ」、「紙パイ」などがあり、この他にも200種類以上のパンや60種類以上のケーキを販売しています。",
+    "QA": [
+        {
+            "question": "宮中製菓は何年前に開店しましたか？",
+            "answer": "宮中製菓は今年で開店40周年を迎えます。"
+        },
+        {
+            "question": "宮中製菓の人気メニューは何ですか？",
+            "answer": "宮中製菓の人気メニューは「恐竜の卵サンドイッチ」、「蝶々パイ」、「紙パイ」などです。"
+        },
+        {
+            "question": "宮中製菓では何種類のパンを販売していますか？",
+            "answer": "宮中製菓では200種類以上のパンを販売しています。"
+        },
+        {
+            "question": "宮中製菓では何種類のケーキを販売していますか？",
+            "answer": "宮中製菓では60種類以上のケーキを販売しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 107,
+        "QA": 140
+    }
+}

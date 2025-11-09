@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_012436",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-09-01",
+        "domain": "음식점",
+        "title": "ヒョザバベ ( 효자바베 )"
+    },
+    "text": "ヒョザバベ ( 효자바베 )\\n\nソウル特別市 鐘路区 紫霞門路1キル 42\\n\n韓国のグルメ番組でよく紹介されるお店です。ソウル特別市のジョンノ区に位置したBBQ専門店です。おすすめは韓牛焼きです。",
+    "QA": [
+        {
+            "question": "このお店はどこに位置していますか？",
+            "answer": "このお店はソウル特別市の鐘路区に位置しています。"
+        },
+        {
+            "question": "このお店の特徴は何ですか？",
+            "answer": "このお店は韓国のグルメ番組でよく紹介されるお店で、BBQ専門店です。"
+        },
+        {
+            "question": "このお店のおすすめのメニューは何ですか？",
+            "answer": "このお店のおすすめは韓牛焼きです。"
+        }
+    ],
+    "word_Count": {
+        "text": 73,
+        "QA": 91
+    }
+}

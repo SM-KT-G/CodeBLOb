@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_037919",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=717&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=22&ccbaAsno=00110000&ccbaCtcd=33&ccbaCpno=2223300110000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "진천 용몽리 농요"
+    },
+    "text": "鎮川龍夢里農謡 (진천 용몽리 농요)\\n\n忠清北道無形文化財、鎮川龍蒙里農謡は忠清北道鎮川郡徳山面一帯で農作業をしながら伝来してきた農謡だ。 鎮川龍夢里農謡は、餅つきの音、田植えの音、田引きの音で構成されている。 歌唱方法は、歌い手3人が各段階ごとに順番に行うこともあるが、1人が担ぐと全体がサビを受け取る形式になっている。 駕洛は錦江流域の一筋である美湖川流域の陰城、清州、特に広い野原を形成している美湖川流域の野歌の特性をよく持っている。 社説は主にそれとなく続き、仕事の過程と動作が適切に組まれており、農作業に疲れた農夫たちの疲れを忘れさせ、興をそそる。 鎮川龍蒙里農謡は中原マスリ農謡と類似した形態を持っているが、他の地域の農謡とは異なり収穫時期に行われた収穫遊びがないのが特徴だ。",
+    "QA": [
+        {
+            "question": "龍夢里農謡はどこで伝承されてきたのですか？",
+            "answer": "龍夢里農謡は忠清北道鎮川郡徳山面一帯で農作業をしながら伝来してきた農謡です。"
+        },
+        {
+            "question": "龍夢里農謡はどのような音で構成されていますか？",
+            "answer": "龍夢里農謡は餅つきの音、田植えの音、田引きの音で構成されています。"
+        },
+        {
+            "question": "龍夢里農謡はどのような歌唱方法がありますか？",
+            "answer": "龍夢里農謡では、歌い手3人が各段階ごとに順番に行うこともあれば、1人が担ぐと全体がサビを受け取る形式になっています。"
+        },
+        {
+            "question": "龍夢里農謡は他の農謡とどのように異なりますか？",
+            "answer": "龍夢里農謡は中原マスリ農謡と類似した形態を持っていますが、収穫時期に行われる収穫遊びがないのが特徴です。"
+        }
+    ],
+    "word_Count": {
+        "text": 253,
+        "QA": 198
+    }
+}

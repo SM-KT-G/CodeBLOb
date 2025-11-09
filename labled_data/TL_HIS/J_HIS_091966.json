@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_091966",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=434&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=00760000&ccbaCtcd=37&ccbaCpno=2113700760000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1975-08-18",
+        "domain": "문화/역사관광",
+        "title": "오회당"
+    },
+    "text": "オフェダン\\n\n慶尚北道永川市紫陽面城谷里山78-4番地\\n\n慶尚北道有形文化財、五回当たりチョンソクヒョンを追悼するため、朝鮮英祖3年(1727)に観察使グォンデギュが建設した。1977年の永川(ヨンチョン)ダム建設によって今の位置に移した。素朴に建てられた建物で、前面4間・側面1間規模だ。屋根側面が人の教わる字形の単純な切妻屋根だが、両方の側面に眉毛屋根をつなげてつけてしまい、まるで入母屋屋根のように見えるようにした。こんな例は永川地域でよく見られる一般的なものである。一方の丸2間、もう一方には部屋2間を並んで入れた。",
+    "QA": [
+        {
+            "question": "この建物はいつ建てられましたか？",
+            "answer": "この建物は朝鮮英祖3年(1727)に建設されました。"
+        },
+        {
+            "question": "この建物は誰によって建てられましたか？",
+            "answer": "この建物は観察使グォンデギュによって建設されました。"
+        },
+        {
+            "question": "この建物はなぜ建てられましたか？",
+            "answer": "この建物は五回当たりチョンソクヒョンを追悼するために建てられました。"
+        },
+        {
+            "question": "この建物はどのような構造ですか？",
+            "answer": "この建物は前面4間・側面1間規模で、屋根側面が人の教わる字形の単純な切妻屋根で、両方の側面に眉毛屋根をつなげてつけてあります。"
+        },
+        {
+            "question": "この建物はどのような歴史的な背景を持っていますか？",
+            "answer": "この建物は永川(ヨンチョン)ダム建設によって1977年に今の位置に移されました。"
+        },
+        {
+            "question": "この建物の特徴的な点は何ですか？",
+            "answer": "この建物の特徴的な点は、一方の丸2間、もう一方には部屋2間を並んで入れた構造です。"
+        }
+    ],
+    "word_Count": {
+        "text": 193,
+        "QA": 247
+    }
+}

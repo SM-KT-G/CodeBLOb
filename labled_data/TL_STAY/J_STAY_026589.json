@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_026589",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42090&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "제주 샹그릴라 호텔앤리조트"
+    },
+    "text": "済州シャングリラホテルでは、済州の美しい自然を胸の中に感じられます。 当ホテルの魅力ポイントである済州の空の下、屋外プールを通じて済州の美しい自然を体験することができます。 済州シャングリラホテルは済州国際空港から車で20分の距離に位置し、ホテルで宿泊するお客様はホテルからお連れ様と一緒に車で12分の距離に位置するホテウビーチを訪問することもできます。",
+    "QA": [
+        {
+            "question": "済州シャングリラホテルの魅力的なポイントは何ですか？",
+            "answer": "済州シャングリラホテルの魅力ポイントは、済州の美しい自然を体験できることです。特に屋外プールを通じて、済州の美しい自然を感じることができます。"
+        },
+        {
+            "question": "済州シャングリラホテルの場所はどこですか？",
+            "answer": "済州シャングリラホテルは済州国際空港から車で20分の距離に位置しています。"
+        },
+        {
+            "question": "済州シャングリラホテルから訪れることができるビーチはありますか？",
+            "answer": "はい、済州シャングリラホテルから車で12分の距離に位置するホテウビーチを訪れることができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 129,
+        "QA": 171
+    }
+}

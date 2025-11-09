@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001943",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-02-10",
+        "domain": "음식점",
+        "title": "Noodles Tree Restaurant 平沢古徳( 국수나무 평택고덕 )"
+    },
+    "text": "Noodles Tree Restaurant 平沢古徳\n京畿道 平沢市 京畿大路 987\n変わらぬ味でお客様から信頼されている店です。 京畿道のピョンテク市に位置した韓食専門店です。代表的なメニューは素麺です。",
+    "QA": [
+        {
+            "question": "Noodles Tree Restaurantの場所はどこですか？",
+            "answer": "Noodles Tree Restaurantは京畿道の平沢市に位置しています。"
+        },
+        {
+            "question": "Noodles Tree Restaurantの特徴的なメニューは何ですか？",
+            "answer": "Noodles Tree Restaurantの代表的なメニューは素麺です。"
+        },
+        {
+            "question": "Noodles Tree Restaurantはどのような店ですか？",
+            "answer": "Noodles Tree Restaurantは変わらぬ味でお客様から信頼されている韓食専門店です。"
+        },
+        {
+            "question": "Noodles Tree Restaurantは何を提供していますか？",
+            "answer": "Noodles Tree Restaurantは韓食専門店で、主に素麺を提供しています。"
+        },
+        {
+            "question": "Noodles Tree Restaurantの評判はどうですか？",
+            "answer": "Noodles Tree Restaurantはお客様から信頼されており、評判は良いです。"
+        }
+    ],
+    "word_Count": {
+        "text": 77,
+        "QA": 286
+    }
+}

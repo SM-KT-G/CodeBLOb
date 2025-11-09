@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_009675",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=744&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=22&ccbaAsno=00400000&ccbaCtcd=37&ccbaCpno=2223700400000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "구미 무을농악"
+    },
+    "text": "九尾舞乙農楽 (구미 무을농악)\\n\n慶尚北道無形文化財 , 舞乙農楽は亀尾市舞乙面一帯で伝承される農楽だ。 舞乙面は新羅時代(121年頃)には舞乙洞坊と言い、676年頃に風憲に改称した。 朝鮮時代にはムウルバンと言って、1914年に面里洞統廃合に変わり今日に至る。 舞乙農楽に最も大きな影響を及ぼしたチョン·ジェジンは上松里の水多寺僧侶というが、朝鮮英祖の時、水多寺僧侶であるチョン·ジェジンが夢見たことと口伝されてくる内容を素材にして風物拍子を作って近隣部落に伝播させたという。 しかし、彼の単純な鉄の指の伝承だけで今日の舞乙農楽が形成されたとは言い難い。 伝統的な農村社会では洞祭や地神踏みなどで農楽が自然に登場するためだ。 ムウルでも村の洞祭や地神踏み、田取りの後に「ホミ掛け」(「小細工」)をしながら風物板を作ったものと推定される。 したがって、現在伝承されている舞乙農楽は村の色々な行事と関連した複合的な内容だと言えるだろう。",
+    "QA": [
+        {
+            "question": "舞乙農楽はどこで伝承されていますか？",
+            "answer": "舞乙農楽は亀尾市舞乙面一帯で伝承されています。"
+        },
+        {
+            "question": "舞乙農楽の起源は何時代ですか？",
+            "answer": "舞乙面は新羅時代(121年頃)には舞乙洞坊と言われ、676年頃に風憲に改称されました。"
+        },
+        {
+            "question": "舞乙農楽に影響を与えた人物は誰ですか？",
+            "answer": "チョン・ジェジンという水多寺の僧侶が舞乙農楽に最も大きな影響を与えました。"
+        },
+        {
+            "question": "舞乙農楽はどのように伝播されましたか？",
+            "answer": "朝鮮英祖の時、水多寺僧侶のチョン・ジェジンが夢と口伝に基づいて風物拍子を作り、近隣部落に伝播させました。"
+        },
+        {
+            "question": "舞乙農楽はどのような行事と関連していますか？",
+            "answer": "舞乙農楽は洞祭や地神踏み、田取りの後に「ホミ掛け」(「小細工」)をしながら風物板を作るなど、村の様々な行事と関連しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 307,
+        "QA": 227
+    }
+}

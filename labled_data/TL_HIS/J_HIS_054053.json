@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_054053",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/collectionList#######",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "글자가 있는 백자 접시 바닥 조각"
+    },
+    "text": "字のある白磁皿の底切れ (글자가 있는 백자 접시 바닥 조각)\\n\nヒールの底には、墨書で「義」と推定される文字が見つかりました。この靴の国籍は韓国-朝鮮で、材質は白磁の陶磁器です。この靴は食事や食べ物に関するアイテムであり、サイズは現在の高さで47cm、受け皿の直径は54cmです。",
+    "QA": [
+        {
+            "question": "この靴の国籍はどこですか？",
+            "answer": "この靴の国籍は韓国-朝鮮です。"
+        },
+        {
+            "question": "この靴の材質は何ですか？",
+            "answer": "この靴の材質は白磁の陶磁器です。"
+        },
+        {
+            "question": "この靴のサイズはどのくらいですか？",
+            "answer": "この靴のサイズは現在の高さで47cm、受け皿の直径は54cmです。"
+        },
+        {
+            "question": "底に見つかった文字は何ですか？",
+            "answer": "底に見つかった文字は墨書で「義」と推定される文字です。"
+        },
+        {
+            "question": "この靴は何に関連するアイテムですか？",
+            "answer": "この靴は食事や食べ物に関するアイテムです。"
+        }
+    ],
+    "word_Count": {
+        "text": 104,
+        "QA": 137
+    }
+}

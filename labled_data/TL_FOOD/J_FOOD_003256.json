@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_003256",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "ウンジュジョン ( 은주정 )"
+    },
+    "text": "ウンジュジョン ( 은주정 )\nソウル特別市 中区 昌慶宮路8キル 32\nキムチチゲを包んで食べる店です。おすすめはキムチチゲです。ソウル特別市のジュン区に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "この店はどこにありますか？",
+            "answer": "この店はソウル特別市中区の昌慶宮路8キル32に位置しています。"
+        },
+        {
+            "question": "この店のおすすめメニューは何ですか？",
+            "answer": "この店のおすすめはキムチチゲです。"
+        },
+        {
+            "question": "この店の特徴は何ですか？",
+            "answer": "この店はキムチチゲを包んで食べることができる店です。"
+        },
+        {
+            "question": "この店は何を提供していますか？",
+            "answer": "この店は韓食専門店で、キムチチゲを提供しています。"
+        },
+        {
+            "question": "この店の場所はどのように行けば良いですか？",
+            "answer": "この店はソウル特別市中区に位置しています。具体的なアクセス方法は詳細がわかりませんが、地元の交通機関を利用することができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 66,
+        "QA": 176
+    }
+}

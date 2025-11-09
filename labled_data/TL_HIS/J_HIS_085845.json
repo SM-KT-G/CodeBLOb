@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_085845",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/collectionList#######",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2023-10-11",
+        "domain": "문화/역사관광",
+        "title": "스미요시모노가타리 회권"
+    },
+    "text": "住吉物語会券 (스미요시모노가타리 회권)\\n\n『住吉物語』は、平安時代の10世紀後半に成立した物語で、鎌倉時代に改作されたとされています。当館が所蔵しているのは、『住吉物語絵巻』を構成する数冊の中の1冊だと考えられています。この絵巻の国籍や作家は不詳で、時代は江戸時代であることがわかっています。材質は紙で、大きさは縦33.0cm、横1556.0cmです。",
+    "QA": [
+        {
+            "question": "住吉物語は何時代に成立した物語ですか？",
+            "answer": "平安時代の10世紀後半に成立しました。"
+        },
+        {
+            "question": "住吉物語絵巻の材質は何ですか？",
+            "answer": "紙です。"
+        },
+        {
+            "question": "住吉物語絵巻の大きさはどのくらいですか？",
+            "answer": "縦33.0cm、横1556.0cmです。"
+        },
+        {
+            "question": "住吉物語絵巻は何冊から構成されていますか？",
+            "answer": "数冊から構成されています。"
+        },
+        {
+            "question": "住吉物語絵巻の作者や国籍はわかっていますか？",
+            "answer": "作者や国籍は不詳ですが、江戸時代に作られたものと考えられています。"
+        }
+    ],
+    "word_Count": {
+        "text": 131,
+        "QA": 136
+    }
+}

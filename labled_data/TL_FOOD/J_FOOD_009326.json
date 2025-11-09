@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_009326",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-15",
+        "domain": "음식점",
+        "title": "ソンサンボマルジュクカルグクス(성산보말죽칼국수)"
+    },
+    "text": "ソンサンボマルジュクカルグクス\\n\n済州特別自治道 西帰浦市 城山邑 一周東路 5109\\n\n済州特別自治道のソグィポ市に位置した韓国料理店です。代表的なメニューはカルグクスです。済州島の代表料理である「ボマル」(クボガイ)が入っています。",
+    "QA": [
+        {
+            "question": "このレストランの名前は何ですか？",
+            "answer": "ソンサンボマルジュクカルグクス（송산보말죽 갈국수）という名前です。"
+        },
+        {
+            "question": "このレストランはどこにありますか？",
+            "answer": "このレストランは済州特別自治道のソグィポ市に位置しています。"
+        },
+        {
+            "question": "このレストランの特徴的なメニューは何ですか？",
+            "answer": "このレストランの代表的なメニューはカルグクスです。済州島の代表料理である「ボマル」(クボガイ)が入っています。"
+        }
+    ],
+    "word_Count": {
+        "text": 88,
+        "QA": 127
+    }
+}

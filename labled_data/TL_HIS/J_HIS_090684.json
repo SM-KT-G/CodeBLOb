@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_090684",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=422&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=00610000&ccbaCtcd=33&ccbaCpno=2113300610000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1980-01-09",
+        "domain": "문화/역사관광",
+        "title": "영동 영국사 대웅전"
+    },
+    "text": "忠清北道有形文化財、天台山に位置するこの寺院は、統一新羅後期に創建されたものと推定され、高麗明宗時代の12世紀に円覚国師によって重創があったものと推定されます。高麗高宗(コジョン)の時には金堂(クムダン)を建立し、国清寺(グクチョンサ)と言ったと伝えられています。その後、恭愍王(在位1351~1374)の時、紅巾賊の侵略を避け、ここで国の安定と国民の平安を祈願したため、その名をイギリス史に改めたといいます",
+    "QA": [
+        {
+            "question": "この寺院はいつ創建されたと推定されますか？",
+            "answer": "統一新羅後期に創建されたと推定されます。"
+        },
+        {
+            "question": "高麗明宗時代に誰によって重創があったと推定されますか？",
+            "answer": "高麗明宗時代の12世紀に円覚国師によって重創があったと推定されます。"
+        },
+        {
+            "question": "高麗高宗の時に何を建立しましたか？",
+            "answer": "高麗高宗の時に金堂(クムダン)を建立しました。"
+        },
+        {
+            "question": "恭愍王の時に何の侵略を避けるため、寺院で何を祈願したと伝えられていますか？",
+            "answer": "恭愍王の時、紅巾賊の侵略を避け、ここで国の安定と国民の平安を祈願したと伝えられています。"
+        }
+    ],
+    "word_Count": {
+        "text": 149,
+        "QA": 163
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_028954",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-09",
+        "domain": "음식점",
+        "title": "鶴駕山山芋食堂( 학가산참마식당 )"
+    },
+    "text": "鶴駕山山芋食堂\\n\n慶尚北道 安東市 北後面 北平路 677\\n\n毎朝調理するおかずと、新鮮な山芋がさらに味を引き立てる店です。慶尚北道のアンドン市に位置した韓国料理店です。おすすめはプルゴギです。",
+    "QA": [
+        {
+            "question": "鶴駕山山芋食堂はどこにありますか？",
+            "answer": "鶴駕山山芋食堂は慶尚北道の安東市北後面北平路677に位置しています。"
+        },
+        {
+            "question": "鶴駕山山芋食堂のおすすめ料理は何ですか？",
+            "answer": "鶴駕山山芋食堂のおすすめ料理はプルゴギです。"
+        },
+        {
+            "question": "鶴駕山山芋食堂では毎朝何を調理していますか？",
+            "answer": "鶴駕山山芋食堂では毎朝調理するおかずを提供しています。"
+        },
+        {
+            "question": "鶴駕山山芋食堂の特徴的な食材は何ですか？",
+            "answer": "鶴駕山山芋食堂の特徴的な食材は新鮮な山芋です。"
+        },
+        {
+            "question": "鶴駕山山芋食堂はどのような雰囲気の店ですか？",
+            "answer": "鶴駕山山芋食堂は韓国料理店で、新鮮な山芋がさらに味を引き立てるおかずが提供される店です。"
+        }
+    ],
+    "word_Count": {
+        "text": 72,
+        "QA": 184
+    }
+}

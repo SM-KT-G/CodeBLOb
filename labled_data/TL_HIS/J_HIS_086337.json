@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_086337",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ja",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2023-06-02",
+        "domain": "문화/역사관광",
+        "title": "신문박물관"
+    },
+    "text": "新聞博物館は韓国では唯一の新聞についた博物館という自負心を持って読者と青少年には紙媒体に対する理解と親近感を高さは、体験の場として、マスコミと文化研究者には多層的なマスコミ文化アーカイブとして機能している。",
+    "QA": [
+        {
+            "question": "新聞博物館は何を自負心として持っていますか？",
+            "answer": "新聞博物館は韓国では唯一の新聞についた博物館という自負心を持っています。"
+        },
+        {
+            "question": "新聞博物館は誰にとって体験の場として機能していますか？",
+            "answer": "新聞博物館は読者と青少年には紙媒体に対する理解と親近感を高める体験の場として機能しています。"
+        },
+        {
+            "question": "新聞博物館はどのような機能をマスコミと文化研究者に提供していますか？",
+            "answer": "新聞博物館はマスコミと文化研究者には多層的なマスコミ文化アーカイブとして機能しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 75,
+        "QA": 153
+    }
+}

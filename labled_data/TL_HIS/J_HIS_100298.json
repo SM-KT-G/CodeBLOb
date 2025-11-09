@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_100298",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/collectionList#######",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2023-10-11",
+        "domain": "문화/역사관광",
+        "title": "전유한지필 선인도"
+    },
+    "text": "伝ユハンジ筆仙人図 (전유한지필 선인도)\\n\n「唐の時代には張果という人物もいました。彼は長い間杭州の重曹山に隠居しており、自らが千歳を超えていることを公言していました。彼の国籍は韓国-朝鮮で、作品の材質は繊維の絹でした。作家の名前は傳兪漢芝（綺園）で、作品は書画や絵画の一般絵画に分類されます。大きさは縦1257cm、横621cmです。」",
+    "QA": [
+        {
+            "question": "誰が重曹山に隠居していたのですか？",
+            "answer": "張果という人物が重曹山に隠居していました。"
+        },
+        {
+            "question": "何年代に張果は隠居していたのですか？",
+            "answer": "唐の時代に張果は隠居していました。"
+        },
+        {
+            "question": "張果の国籍は何でしたか？",
+            "answer": "張果の国籍は韓国-朝鮮でした。"
+        },
+        {
+            "question": "張果の作品の材質は何でしたか？",
+            "answer": "張果の作品の材質は繊維の絹でした。"
+        },
+        {
+            "question": "張果の作家の名前は何でしたか？",
+            "answer": "張果の作家の名前は傳兪漢芝（綺園）でした。"
+        },
+        {
+            "question": "張果の作品の大きさは何でしたか？",
+            "answer": "張果の作品の大きさは縦1257cm、横621cmでした。"
+        }
+    ],
+    "word_Count": {
+        "text": 125,
+        "QA": 155
+    }
+}

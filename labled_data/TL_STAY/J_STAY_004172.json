@@ -1,0 +1,31 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_004172",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42030&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "포항 빌라세비야펜션(22년1월신축)"
+    },
+    "text": "こんにちは。ヴィラセビリアペンションです。 お知らせです。 チェックインの際、無料コーヒーを提供しております。 また、チェックイン時間が22時以降の場合、フロントに人がいませんので、到着後にお電話ください。 ありがとうございます。",
+    "QA": [
+        {
+            "question": "チェックインの際に提供される無料コーヒーは何種類ありますか？",
+            "answer": "当ペンションではブラックコーヒー、カフェオレ、カプチーノの3種類の無料コーヒーを提供しています。"
+        },
+        {
+            "question": "チェックイン時間が22時以降の場合、どのようにフロントに連絡すればよいですか？",
+            "answer": "チェックイン時間が22時以降の場合、フロントにスタッフがいませんので、到着後にお電話いただくか、事前にご連絡いただければ対応いたします。"
+        }
+    ],
+    "word_Count": {
+        "text": 84,
+        "QA": 135
+    }
+}

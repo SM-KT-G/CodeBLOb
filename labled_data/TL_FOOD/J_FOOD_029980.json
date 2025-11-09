@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_029980",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/mr-wang",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "Mr. 王（屯山店）미스터왕（둔산점）"
+    },
+    "text": "Mr. 王（屯山店）미스터왕（둔산점）\\n\n大田広域市 西区 屯山路72 )\\n\n2000年にオープンした「Mr. 王（ミスターワン）」は地元の中華部門ブランドパワー1位に選ばれたお店です。モダンで高級感のある店内で、本格中華を味わえます。",
+    "QA": [
+        {
+            "question": "このお店はいつオープンしましたか？",
+            "answer": "2000年にオープンしました。"
+        },
+        {
+            "question": "このお店の場所はどこですか？",
+            "answer": "大田広域市 西区 屯山路72にあります。"
+        },
+        {
+            "question": "このお店はどのような雰囲気ですか？",
+            "answer": "モダンで高級感のある店内です。"
+        },
+        {
+            "question": "このお店で食べられる料理は何ですか？",
+            "answer": "本格的な中華料理を楽しむことができます。"
+        },
+        {
+            "question": "このお店は地元でどのような評判ですか？",
+            "answer": "地元の中華部門ブランドパワー1位に選ばれたお店です。"
+        }
+    ],
+    "word_Count": {
+        "text": 88,
+        "QA": 132
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_063584",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=783&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=00230100&ccbaCtcd=50&ccbaCpno=2333900230100&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1973-04-03",
+        "domain": "문화/역사관광",
+        "title": "말등포연대"
+    },
+    "text": "マルドゥンポ・ヨンデ\\n\n済州西帰浦市城山邑温坪里1355-1番地\\n\n済州特別自治道記念物、連帯はたいまつと演技を利用して政治・軍事的に急な消息を伝えていた通信手段をいう。烽燧台とは機能面で差がないが、連帯は主に丘陵や海岸地域に設置された。昼には、演技で夜には松明を咲かせて信号を送った。言葉ドゥンポ連帯は済州(チェジュ)大学の安38つの連帯のうち、本来の姿がよく残っているところだ。角ごとに大きなパンドルに積み上げて連帯を作っている済州(チェジュ)道ならではの特異な方式をよく見ることができ、高さは3.6mだ。チョンウィヒョンに所属されている連帯で、東側にはヒョプジャヨンデ、西にはチョンミヨンデと連絡を取り交わしており、チョンウィヒョンに所属されている6人の別荘とのクラスタ12人が配置されて、交替で守ったという。",
+    "QA": [
+        {
+            "question": "マルドゥンポ・ヨンデはどの地域に位置していますか？",
+            "answer": "マルドゥンポ・ヨンデは済州西帰浦市城山邑温坪里1355-1番地に位置しています。"
+        },
+        {
+            "question": "連帯はどのような通信手段でしたか？",
+            "answer": "連帯は演技と松明を利用して信号を送る通信手段でした。昼には演技で、夜には松明を咲かせて信号を送りました。"
+        },
+        {
+            "question": "連帯はどのような地域に設置されましたか？",
+            "answer": "連帯は主に丘陵や海岸地域に設置されました。"
+        },
+        {
+            "question": "マルドゥンポ・ヨンデにはどのような特徴がありますか？",
+            "answer": "マルドゥンポ・ヨンデは高さ3.6mの連帯で、済州(チェジュ)道特有の大きなパンドルを使用した特異な方式で作られています。"
+        },
+        {
+            "question": "マルドゥンポ・ヨンデは他の連帯とどのように連絡を取り合っていましたか？",
+            "answer": "マルドゥンポ・ヨンデはチョンウィヒョン、ヒョプジャヨンデ、チョンミヨンデと連絡を取り合っていました。また、チョンウィヒョンに所属する6人の別荘とのクラスタ12人が配置され、交替で守っていました。"
+        }
+    ],
+    "word_Count": {
+        "text": 264,
+        "QA": 288
+    }
+}

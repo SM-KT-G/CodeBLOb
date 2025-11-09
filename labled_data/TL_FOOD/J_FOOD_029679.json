@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_029679",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-07",
+        "domain": "음식점",
+        "title": "黄生家カルグクス（황생가칼국수）"
+    },
+    "text": "黄生家カルグクス\\n\nソウル特別市 鐘路区 北村路5キル78\\n\n「黄生家（ファンセンガ）カルグクス」はカルグクス（きしめん）専門店で、特大餃子も人気があります。",
+    "QA": [
+        {
+            "question": "このお店はどこにありますか？",
+            "answer": "黄生家カルグクスはソウル特別市鐘路区北村路5キル78にあります。"
+        },
+        {
+            "question": "このお店の特徴は何ですか？",
+            "answer": "黄生家カルグクスはカルグクス（きしめん）専門店で、特大餃子も人気です。"
+        },
+        {
+            "question": "このお店の人気メニューは何ですか？",
+            "answer": "黄生家カルグクスの人気メニューはカルグクス（きしめん）と特大餃子です。"
+        },
+        {
+            "question": "このお店の営業時間は何時から何時までですか？",
+            "answer": "黄生家カルグクスの営業時間は朝11時から夜9時までです。"
+        },
+        {
+            "question": "このお店の予約は必要ですか？",
+            "answer": "特に予約は必要ありませんが、混雑時には待ち時間が発生することがあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 59,
+        "QA": 180
+    }
+}

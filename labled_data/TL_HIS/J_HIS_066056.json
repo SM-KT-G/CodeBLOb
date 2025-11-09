@@ -1,0 +1,59 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_066056",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1112&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=02850000&ccbaCtcd=38&ccbaCpno=3413802850000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2000-01-25",
+        "domain": "문화/역사관광",
+        "title": "밀양 모선정"
+    },
+    "text": "燕山君(1500)の時、慶尚南道には文化財資料として知られたモソンチョンパクスギョン先生の孝行を称えるための定刻がある。李先生は朝鮮成宗(ソンジョン)時代の朱子学者金宗直(キム・ジョンジク)の弟子であり、両親が亡くなった後は、穴蔵を造って墓を守り、暁星(ヒョソン)を尽くしてきた。先生の孝行に感動し、穴蔵の名前をモソンチョン(慕先亭)とした。母船は、前面は6間、側面は2間で構成されており、屋根は側面から見ると、入母屋屋根の八の字模様だ。この建物は燕山君6年(1500)に建設されたが、文禄・慶長の役により焼かれてしまった。しかし、朝鮮時代の英祖のときにに再び再建され、今日に至っている。",
+    "QA": [
+        {
+            "question": "モソンチョンパクスギョン先生は何で有名ですか？",
+            "answer": "モソンチョンパクスギョン先生は文化財資料として知られています。"
+        },
+        {
+            "question": "モソンチョンパクスギョン先生は何をしたことで称えられましたか？",
+            "answer": "モソンチョンパクスギョン先生は孝行をしたことで称えられました。"
+        },
+        {
+            "question": "李先生は誰の弟子でしたか？",
+            "answer": "李先生は朝鮮成宗の朱子学者金宗直の弟子でした。"
+        },
+        {
+            "question": "モソンチョンという名前の由来は何ですか？",
+            "answer": "モソンチョンの名前はモソンチョンパクスギョン先生の孝行を称えるために付けられました。"
+        },
+        {
+            "question": "穴蔵の名前は何ですか？",
+            "answer": "穴蔵の名前はモソンチョン(慕先亭)です。"
+        },
+        {
+            "question": "モソンチョンはいつ建設されましたか？",
+            "answer": "モソンチョンは燕山君6年(1500)に建設されました。"
+        },
+        {
+            "question": "モソンチョンは何が原因で焼かれましたか？",
+            "answer": "モソンチョンは文禄・慶長の役の際に焼かれました。"
+        },
+        {
+            "question": "モソンチョンはいつ再建されましたか？",
+            "answer": "モソンチョンは朝鮮時代の英祖のときに再建されました。"
+        },
+        {
+            "question": "モソンチョンはどのような建物ですか？",
+            "answer": "モソンチョンは前面が6間、側面が2間で構成され、入母屋屋根の八の字模様の屋根を持つ建物です。"
+        }
+    ],
+    "word_Count": {
+        "text": 215,
+        "QA": 324
+    }
+}

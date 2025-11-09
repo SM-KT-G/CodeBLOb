@@ -1,0 +1,51 @@
+{
+    "data_info": {
+        "documentID": "J_SHOP_000264",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.ssfshop.com/[10-CORSO-COMO]-SHYLA/GM0021110462532/good",
+        "collectedDate": "2023-11-13",
+        "publishedDate": "2020-01-01",
+        "domain": "쇼핑",
+        "title": "Octavia Ring Emerald Green - Gold"
+    },
+    "text": "[10 CORSO COMO] SHYLAはロンドンに拠点を置くジュエリーブランドで、Alice Blofeldが設立しました。 SHYLAのデザイナーAliceはビンテージジュエリーからインスピレーションを受け、リーズナブルな価格と現代的な魅力が引き立つ製品を披露しています。 このブランドは、天然ストーンとリサイクルされた金属を使用して倫理的に加工されました。 SHYLAは繊細で高品質な製品を提供することで、あらゆる年代の女性にクラシックで倫理的な製品を提供することを目指しています。 製品のサイズはSmallは15.9mm、メディウムは17.5mmです。",
+    "QA": [
+        {
+            "question": "SHYLAはどこに拠点を置いていますか？",
+            "answer": "SHYLAはロンドンに拠点を置いています。"
+        },
+        {
+            "question": "SHYLAのデザイナーは誰ですか？",
+            "answer": "SHYLAのデザイナーはAlice Blofeldです。"
+        },
+        {
+            "question": "SHYLAのデザイナーはどのようなインスピレーションを受けていますか？",
+            "answer": "SHYLAのデザイナーはビンテージジュエリーからインスピレーションを受けています。"
+        },
+        {
+            "question": "SHYLAはどのような製品を提供していますか？",
+            "answer": "SHYLAはリーズナブルな価格と現代的な魅力が引き立つ製品を提供しています。"
+        },
+        {
+            "question": "SHYLAはどのような材料を使用していますか？",
+            "answer": "SHYLAは天然ストーンとリサイクルされた金属を使用しています。"
+        },
+        {
+            "question": "SHYLAの製品はどのような女性に向けていますか？",
+            "answer": "SHYLAはあらゆる年代の女性にクラシックで倫理的な製品を提供することを目指しています。"
+        },
+        {
+            "question": "SHYLAの製品のサイズはどうなっていますか？",
+            "answer": "SHYLAの製品のサイズはSmallは15.9mm、メディウムは17.5mmです。"
+        }
+    ],
+    "word_Count": {
+        "text": 206,
+        "QA": 301
+    }
+}

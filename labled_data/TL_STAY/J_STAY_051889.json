@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_051889",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-16",
+        "domain": "숙박",
+        "title": "広場ホテル（광장호텔）"
+    },
+    "text": "広場ホテル（광장호텔）\\n\n釜山広域市 東区 中央大路214番キル7\\n\n「広場ホテル（クァンジャンホテル）」は、港の中心地である釜山駅広場にあります。2002年にホテル全館をリニューアルし、より一層快適な利用が可能となりました。",
+    "QA": [
+        {
+            "question": "ホテルの場所はどこですか？",
+            "answer": "広場ホテル（クァンジャンホテル）は、釜山広域市東区中央大路214番キル7にあります。"
+        },
+        {
+            "question": "ホテルのリニューアルはいつ行われましたか？",
+            "answer": "広場ホテル（クァンジャンホテル）は、2002年にホテル全館をリニューアルしました。"
+        },
+        {
+            "question": "ホテルの周辺にはどんな施設がありますか？",
+            "answer": "広場ホテル（クァンジャンホテル）の周辺には、駅広場や港があります。"
+        },
+        {
+            "question": "ホテルの利用は快適ですか？",
+            "answer": "広場ホテル（クァンジャンホテル）は、リニューアルによりより一層快適な利用が可能となりました。"
+        }
+    ],
+    "word_Count": {
+        "text": 84,
+        "QA": 167
+    }
+}

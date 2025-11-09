@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_029819",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.goodchoice.kr/product/detail?ano=69068&adcno=1&sel_date=2023-11-07&sel_date2=2023-11-08",
+        "collectedDate": "2023-11-15",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "군산 라온하제호텔"
+    },
+    "text": "30台の駐車場を保有しており、客室内部の施設としてはスイートフルオーシャンビューの客室がありますが、宿泊の場合のみご利用いただけます。 フロントおよびその他の施設としてはオーシャンビュー客室、POOL、スパなど様々な客室とホテル級備品、休憩室、自動販売機などが完備されています。",
+    "QA": [
+        {
+            "question": "駐車場の台数はいくつありますか？",
+            "answer": "30台あります。"
+        },
+        {
+            "question": "スイートフルオーシャンビューの客室はどのような施設ですか？",
+            "answer": "スイートフルオーシャンビューの客室は宿泊の場合のみご利用いただけます。"
+        },
+        {
+            "question": "フロント以外にどのような施設がありますか？",
+            "answer": "オーシャンビュー客室、POOL、スパなど様々な客室とホテル級備品、休憩室、自動販売機などが完備されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 101,
+        "QA": 119
+    }
+}

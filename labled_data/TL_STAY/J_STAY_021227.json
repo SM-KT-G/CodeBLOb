@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_021227",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42040&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "여수 낭만스테이펜션"
+    },
+    "text": "麗水ロマン旅行の中心地、ロマンステイペンションにお越しくださり、ありがとうございます。 ペンションは2020年7月にオープンした新築ペンションで、清潔で快適な施設を誇っています。 多くの麗水観光地の近くに位置し、旅行を楽しむにも最適な場所です。 大切な人と共にする旅行ロマンステイで幸せな思い出を作って行ってください。",
+    "QA": [
+        {
+            "question": "ロマンステイペンションはいつオープンしましたか？",
+            "answer": "ロマンステイペンションは2020年7月にオープンしました。"
+        },
+        {
+            "question": "ロマンステイペンションの特徴は何ですか？",
+            "answer": "ロマンステイペンションは清潔で快適な施設を誇っています。"
+        },
+        {
+            "question": "ロマンステイペンションの周辺にはどんな観光地がありますか？",
+            "answer": "ロマンステイペンションの周辺には多くの麗水観光地があります。"
+        },
+        {
+            "question": "ロマンステイペンションでの滞在はどのような思い出を作ることができますか？",
+            "answer": "ロマンステイペンションでの滞在は大切な人と共にする旅行のロマンステイで、幸せな思い出を作ることができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 116,
+        "QA": 182
+    }
+}

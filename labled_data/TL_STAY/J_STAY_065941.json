@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_065941",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/goods/GN0002016704?startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0%5E&npprmaxsort=min",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "대전 유성 호텔 아트 운영 정책"
+    },
+    "text": "チェックインは午後10時、チェックアウトは午前11時です。 チェックインとチェックアウトのご案内があります。 また、床は防水処理されており、歌が流れる駐車場があります。 フロントではアイスとスナックバーもご用意しており、24時間無料でご利用いただけます。",
+    "QA": [
+        {
+            "question": "チェックインとチェックアウトの時間は何時ですか？",
+            "answer": "チェックインは午後10時、チェックアウトは午前11時です。"
+        },
+        {
+            "question": "フロントで何が提供されていますか？",
+            "answer": "フロントではアイスとスナックバーをご用意しており、24時間無料でご利用いただけます。"
+        },
+        {
+            "question": "駐車場について教えてください。",
+            "answer": "駐車場には歌が流れる防水処理された床があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 93,
+        "QA": 110
+    }
+}

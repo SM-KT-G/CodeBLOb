@@ -1,0 +1,31 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001750",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-17",
+        "domain": "음식점",
+        "title": "IKIロールカツ カロスキル( 이끼롤까스 가로수길 )"
+    },
+    "text": "IKIロールカツ カロスキル\\n\nソウル特別市 江南区 江南大路156キル 35\\n\n特別な手作りトンカツを味わえる店です。 ソウル特別市のガンナム区に位置した韓国料理店です。代表的なメニューは豚カツです。",
+    "QA": [
+        {
+            "question": "このレストランの場所はどこですか？",
+            "answer": "このレストランはソウル特別市の江南区江南大路156キル35にあります。"
+        },
+        {
+            "question": "このレストランの特徴的なメニューは何ですか？",
+            "answer": "このレストランの特徴的なメニューは豚カツです。特別な手作りトンカツを味わうことができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 75,
+        "QA": 87
+    }
+}

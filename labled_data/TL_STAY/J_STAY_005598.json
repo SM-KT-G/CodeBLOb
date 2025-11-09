@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_005598",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-02-15",
+        "domain": "숙박",
+        "title": "シニャンパークホテル（신양파크호텔）"
+    },
+    "text": "シニャンパークホテル（신양파크호텔）\\n\n光州広域市 東区 之湖路214-7\\n\n芸郷の都市、光州。光州を代表する無等山のふもとにある「シニャンパークホテル（Shin Yang Park Hotel）」は自然に近い場所にあり、自然の香りが感じられるホテルです。",
+    "QA": [
+        {
+            "question": "シニャンパークホテルはどこにありますか？",
+            "answer": "シニャンパークホテルは光州広域市の東区の之湖路214-7に位置しています。"
+        },
+        {
+            "question": "シニャンパークホテルはどんな場所にありますか？",
+            "answer": "シニャンパークホテルは自然に近い場所にあり、光州を代表する無等山のふもとに位置しています。自然の香りが感じられるホテルです。"
+        },
+        {
+            "question": "シニャンパークホテルはどのようなホテルですか？",
+            "answer": "シニャンパークホテルは自然に囲まれたホテルで、光州を代表する無等山のふもとに位置しています。自然の香りが感じられるホテルで、ゆっくりとくつろげる空間を提供しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 95,
+        "QA": 181
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_009123",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-05",
+        "domain": "음식점",
+        "title": "ソティッキ ( 소띳기 )"
+    },
+    "text": "ソティッキ ( 소띳기 )\\n\n全羅南道 海南郡 海南邑 ヘナムロ160-12\\n\n韓牛焼き肉の専門店です。おすすめはロースです。全羅南道のヘナム郡に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "このお店の場所はどこですか？",
+            "answer": "このお店は全羅南道の海南郡に位置しています。具体的な住所は海南邑ヘナムロ160-12です。"
+        },
+        {
+            "question": "このお店のおすすめメニューは何ですか？",
+            "answer": "このお店のおすすめは韓牛のロースです。ぜひお試しください。"
+        },
+        {
+            "question": "このお店は何の専門店ですか？",
+            "answer": "このお店は韓牛焼き肉の専門店です。"
+        },
+        {
+            "question": "このお店はどんな場所にありますか？",
+            "answer": "このお店は海南郡のヘナムロに位置しています。ヘナム郡は全羅南道にあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 63,
+        "QA": 140
+    }
+}

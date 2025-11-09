@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_072167",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/collectionList#######",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "베토벤"
+    },
+    "text": "ベートーヴェン (베토벤)\\n\n裏表紙には、ロリータ夫人の手書きのメモがあります。16、17ページには、重要な箇所が下線されています。本の国籍と時代は、日本であり、1945年以降のものです。材質は、日向紙を使用しており、作家はワアグナアとなっています。分類は、文化芸術の音楽、書籍、その他です。また、本のサイズは、横105cm、縦15cm、高さ1cmです。",
+    "QA": [
+        {
+            "question": "この本の作者は誰ですか？",
+            "answer": "この本の作者はワアグナアです。"
+        },
+        {
+            "question": "この本の国籍と時代は何ですか？",
+            "answer": "この本の国籍は日本であり、時代は1945年以降です。"
+        },
+        {
+            "question": "この本の材質は何ですか？",
+            "answer": "この本の材質は日向紙です。"
+        },
+        {
+            "question": "この本の分類は何ですか？",
+            "answer": "この本の分類は文化芸術の音楽、書籍、その他です。"
+        },
+        {
+            "question": "この本のサイズは何ですか？",
+            "answer": "この本のサイズは横105cm、縦15cm、高さ1cmです。"
+        }
+    ],
+    "word_Count": {
+        "text": 130,
+        "QA": 125
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_003201",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1241&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=79&ccbaAsno=05840000&ccbaCtcd=11&ccbaCpno=4411105840000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2014-02-27",
+        "domain": "문화/역사관광",
+        "title": "서울 경기상업고등학교 본관 및 청송관"
+    },
+    "text": "ソウル京畿商業高等学校本館及び青松館 (서울 경기상업고등학교 본관 및 청송관)\\n\nソウル特別市鍾路区紫霞門路136(清雲洞、京畿商業高等学校)\\n\n1926年 , 国家登録文化財 , 本館は赤レンガの建物で対称型立面、マンサード屋根形式、突出した玄関の3面アーチ、煙突上部の石造装飾など近代期教育施設の特徴をよく保管している。青松館は傾斜屋根形式の講堂建物で正面のアーチ型主出入口と周辺の石材装飾を除いては全体的に非常に単純な形態であり、本館前面に開校当時に植栽した盤松群も学校の歴史を象徴している。京畿道初の道立学校である京畿道立甲種商業学校の校舎建物で、当時試験的に試みた韓日工学中学校として韓国人学生たちが日本人学生たちと激しい競争をした歴史的場所だ。",
+    "QA": [
+        {
+            "question": "この建物はいつ建てられましたか？",
+            "answer": "1926年に建てられました。"
+        },
+        {
+            "question": "この建物はどのような特徴がありますか？",
+            "answer": "本館は赤レンガの建物で対称型立面、マンサード屋根形式、突出した玄関の3面アーチ、煙突上部の石造装飾など近代期教育施設の特徴を保持しています。青松館は傾斜屋根形式の講堂建物で、単純な形態を持っています。"
+        },
+        {
+            "question": "この学校はどのような歴史的な場所ですか？",
+            "answer": "京畿道初の道立学校であり、韓日工学中学校として韓国人学生と日本人学生の間で激しい競争が行われた場所です。"
+        },
+        {
+            "question": "この学校の周辺には何がありますか？",
+            "answer": "この学校の前面には開校当時に植栽された盤松群があります。"
+        },
+        {
+            "question": "この学校はいつ国家登録文化財に登録されましたか？",
+            "answer": "この学校は国家登録文化財には1926年に登録されました。"
+        }
+    ],
+    "word_Count": {
+        "text": 243,
+        "QA": 233
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001501",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-06",
+        "domain": "음식점",
+        "title": "BROOKLYN THE BURGER JOINT  ( 브루클린더버거조인트 )"
+    },
+    "text": "BROOKLYN THE BURGER JOINT  ( 브루클린더버거조인트 )\\n\nソウル特別市 瑞草区 トングァンロ43ギル51-13\\n\n韓国のグルメ番組で紹介されたグルメバーガー専門店です。おすすめは手作ハンバーガーです。ソウル特別市のソチョ区に位置した洋食専門店です。",
+    "QA": [
+        {
+            "question": "ブルックリン・ザ・バーガー・ジョイントはどんなお店ですか？",
+            "answer": "ブルックリン・ザ・バーガー・ジョイントは、韓国のグルメ番組で紹介されたグルメバーガー専門店です。おすすめは手作りハンバーガーです。"
+        },
+        {
+            "question": "ブルックリン・ザ・バーガー・ジョイントはどこに位置していますか？",
+            "answer": "ブルックリン・ザ・バーガー・ジョイントはソウル特別市瑞草区トングァンロ43ギル51-13に位置しています。"
+        },
+        {
+            "question": "ブルックリン・ザ・バーガー・ジョイントのおすすめメニューは何ですか？",
+            "answer": "ブルックリン・ザ・バーガー・ジョイントのおすすめメニューは手作りハンバーガーです。"
+        },
+        {
+            "question": "ブルックリン・ザ・バーガー・ジョイントはどんな料理を提供していますか？",
+            "answer": "ブルックリン・ザ・バーガー・ジョイントは洋食専門店で、手作りハンバーガーなどの料理を提供しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 102,
+        "QA": 248
+    }
+}

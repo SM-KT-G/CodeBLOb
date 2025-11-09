@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_029841",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/sun-hansik",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "サン韓食"
+    },
+    "text": "サン韓食\\n\n江原道 ガンヌン市 ガンドン面 ユルゴクロ1167\\n\n柔らかい豆腐料理が味わえる店です。江原道のガンヌン市に位置した韓食専門店です。おすすめはちゃんぽんスンドゥブです。",
+    "QA": [
+        {
+            "question": "この店はどこにありますか？",
+            "answer": "この店は江原道のガンヌン市に位置しています。"
+        },
+        {
+            "question": "この店のおすすめメニューは何ですか？",
+            "answer": "この店のおすすめはちゃんぽんスンドゥブです。"
+        },
+        {
+            "question": "この店の特徴は何ですか？",
+            "answer": "この店の特徴は柔らかい豆腐料理が味わえることです。"
+        }
+    ],
+    "word_Count": {
+        "text": 67,
+        "QA": 82
+    }
+}

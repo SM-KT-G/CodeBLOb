@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_002105",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-01",
+        "domain": "음식점",
+        "title": "SUKULE 平和広場 ( 쑥꿀레 평화광장 )"
+    },
+    "text": "SUKULE 平和広場 \n全羅南道 木浦市 美港路 135\n1956年から木浦の名物として定着した店で、多数のテレビ番組で紹介されています。 おすすめはよもぎ餅です。全羅南道のモクポ市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "SUKULE 平和広場はどこに位置していますか？",
+            "answer": "SUKULE 平和広場は全羅南道木浦市美港路135に位置しています。"
+        },
+        {
+            "question": "SUKULE 平和広場でおすすめの料理は何ですか？",
+            "answer": "SUKULE 平和広場でおすすめの料理はよもぎ餅です。"
+        },
+        {
+            "question": "SUKULE 平和広場はいつから木浦の名物として知られていますか？",
+            "answer": "SUKULE 平和広場は1956年から木浦の名物として知られています。"
+        },
+        {
+            "question": "SUKULE 平和広場はどのようなテレビ番組で紹介されていますか？",
+            "answer": "SUKULE 平和広場は多数のテレビ番組で紹介されています。"
+        },
+        {
+            "question": "SUKULE 平和広場はどのような店ですか？",
+            "answer": "SUKULE 平和広場は韓食専門店です。"
+        }
+    ],
+    "word_Count": {
+        "text": 77,
+        "QA": 207
+    }
+}

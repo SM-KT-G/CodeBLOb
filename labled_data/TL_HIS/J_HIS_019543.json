@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_019543",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=386&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=00220000&ccbaCtcd=34&ccbaCpno=2113400220000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1973-12-26",
+        "domain": "문화/역사관광",
+        "title": "부여 현내리 삼층석탑"
+    },
+    "text": "扶余県内里 三階石塔 (부여 현내리 삼층석탑)\\n\n忠清南道扶余郡金白路369-18(石城面)\\n\n忠清南道有形文化財 , 浮屠は僧侶の墓を象徴し、その遺骨や舎利を祀っておく。 県内里のタプコル村に立っているこの浮屠は、周囲に特別な寺跡の跡を見つけることができず、本来の場所なのか他の場所から移ってきたのかは分からない。 一番下の床石は見えず、その上の基壇から姿を現している。 1階建ての基壇は、4隅ごとに柱の形を模して刻まれている。 上の石を支える縁には浅く蓮の花を彫刻して装飾した。 2階を成す塔身は石と屋根石がそれぞれ一つの石で構成されている。 体石は基壇のように角ごとに柱の形を彫刻してある。 屋根石は底面に3段ずつの支えを置き、軒先はほぼ直線を成して両端からかすかに聞こえている。 頂上には頭飾りを支えていた2つの四角い石だけが残っているだけで、それ以上はなくなった状態だ。 浮屠というよりは一般石塔の様式に従っている独特な姿で、基壇や屋根石などで高麗時代の様式が現れており、この時期の作品と推察される。",
+    "QA": [
+        {
+            "question": "この三階石塔はどの県にありますか？",
+            "answer": "忠清南道扶余郡にあります。"
+        },
+        {
+            "question": "この浮屠は何を象徴していますか？",
+            "answer": "浮屠は僧侶の墓を象徴し、その遺骨や舎利を祀っています。"
+        },
+        {
+            "question": "この浮屠の周りには特別な寺跡の跡はありますか？",
+            "answer": "特別な寺跡の跡を見つけることはできず、本来の場所なのか他の場所から移ってきたのかは分かりません。"
+        },
+        {
+            "question": "この浮屠の基壇はどのような形をしていますか？",
+            "answer": "1階建ての基壇は、4隅ごとに柱の形を模して刻まれています。"
+        },
+        {
+            "question": "この浮屠の塔身は何で構成されていますか？",
+            "answer": "2階を成す塔身は石と屋根石がそれぞれ一つの石で構成されています。"
+        },
+        {
+            "question": "この浮屠はどの時代の作品と推察されますか？",
+            "answer": "基壇や屋根石などで高麗時代の様式が現れており、この時期の作品と推察されます。"
+        }
+    ],
+    "word_Count": {
+        "text": 335,
+        "QA": 224
+    }
+}

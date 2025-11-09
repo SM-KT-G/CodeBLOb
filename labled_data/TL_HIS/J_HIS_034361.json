@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_034361",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101933",
+        "collectedDate": "2023-10-06",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "함평천지휴게소"
+    },
+    "text": "咸平天地サービスエリア\nペンジサービスエリア(咸平)天地サービスエリア(Hampyeong Cheonji Service Area)は、全羅南道咸平郡咸平邑に位置する西海岸の高速道路のサービスエリアである。 両方向とも休憩所が存在する。 木浦方向の場合は西海岸高速道路の最後のサービスエリアで、ソウル方向の場合は西海岸高速道路の最初の高速道路サービスエリアである。\n",
+    "QA": [
+        {
+            "question": "咸平天地サービスエリアはどこに位置していますか？",
+            "answer": "咸平天地サービスエリアは全羅南道咸平郡咸平邑に位置しています。"
+        },
+        {
+            "question": "咸平天地サービスエリアは何を提供していますか？",
+            "answer": "咸平天地サービスエリアでは休憩所が提供されています。"
+        },
+        {
+            "question": "咸平天地サービスエリアはどちらの方向にあるサービスエリアですか？",
+            "answer": "咸平天地サービスエリアは木浦方向では最後のサービスエリアであり、ソウル方向では最初のサービスエリアです。"
+        },
+        {
+            "question": "咸平天地サービスエリアはどの高速道路に位置していますか？",
+            "answer": "咸平天地サービスエリアは西海岸高速道路に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 134,
+        "QA": 178
+    }
+}

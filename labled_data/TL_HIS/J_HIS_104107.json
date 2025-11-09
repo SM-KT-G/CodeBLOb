@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_104107",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1139&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=04010000&ccbaCtcd=38&ccbaCpno=3413804010000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2006-07-20",
+        "domain": "문화/역사관광",
+        "title": "진주 운수당"
+    },
+    "text": "1913年、慶尚南道文化財資料、雲水堂ハユン先生の位牌を祀った斎室として建てられたが、最近塀の右側に祠堂である京仁寺を建て、位牌は祠堂に祀られている。雲水堂は南北方向の長さが少し長い長方形の敷地に、敷地の右側に少し離れて雲水堂と大門チェを向かい合うように配置し、二つの建物の間の左側に雲水堂と直角になるよう網推定を座らせた。雲水堂は正面3間、側面2間の建物で、3間とも部屋を構えていますが、左右の狭間は部屋1間、床1間で構成されているのに対し、魚間は部屋を1間半とし、半分だけ床として使うようにしており、真ん中の部屋が半分突き出た形です左側の部屋と中央の部屋は背面に1/4間ほど拡張されています。基壇面はセメントを塗っているため正確にはわかりませんが、高さから見ると自然石は4~5段ほど積み上げて造成されたものと見られ、基壇面には正面3間すべてに2段ずつの階段が置かれています。礎石は正面にだけ磨かれた石を置いて柱を建てましたが、柱は正面にだけ円柱を使用しました。3つの部屋がすべて半字になっているため、上部家具の形式は不明ですが、屋根の形が合角で側面が2間長いことを考慮すると、5両に世帯したものと考えられます",
+    "QA": [
+        {
+            "question": "雲水堂はいつ建てられましたか？",
+            "answer": "1913年に建てられました。"
+        },
+        {
+            "question": "雲水堂はどのような形状の敷地に建てられていますか？",
+            "answer": "南北方向の長さが少し長い長方形の敷地に建てられています。"
+        },
+        {
+            "question": "雲水堂と大門チェはどのように配置されていますか？",
+            "answer": "雲水堂と大門チェは敷地の右側に少し離れて向かい合うように配置されています。"
+        },
+        {
+            "question": "雲水堂の基壇面は何段積み上げられていますか？",
+            "answer": "基壇面は4~5段ほど積み上げられています。"
+        },
+        {
+            "question": "雲水堂の屋根の形は何ですか？",
+            "answer": "屋根の形は合角で、側面が2間長い形状です。"
+        },
+        {
+            "question": "雲水堂には何間の部屋がありますか？",
+            "answer": "正面3間、側面2間の部屋があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 371,
+        "QA": 187
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_007750",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=781&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=00220000&ccbaCtcd=23&ccbaCpno=2332300220000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1995-03-02",
+        "domain": "문화/역사관광",
+        "title": "계룡돈대"
+    },
+    "text": "鶏龍豚台 (계룡돈대)\\n\n仁川江華郡内加面黄清里282番地\\n\n仁川広域市記念物 , 墩台は敵の動きを観察したり攻撃に備えるために領土内の境界地域や海岸地域の監視が容易なところに用意した警戒所で、たいてい高い平地に積んでおくが、外は城郭で高くし、中は低くして砲を設置しておく施設物だ。 望月平野南西方向の丘の上に位置しているこの墩台は、外壁の側面に記録が残っており、望月墩台と共に官衙で管理していた墩台だ。 残っている記録により朝鮮粛宗5年(1679)に設置されたことが分かるが、このように敦代の製作年代に対する記録が残っているのは珍しい例だ。",
+    "QA": [
+        {
+            "question": "この墩台はどこに位置していますか？",
+            "answer": "鶏龍豚台は仁川江華郡内加面黄清里282番地に位置しています。"
+        },
+        {
+            "question": "墩台は何のために使用される施設物ですか？",
+            "answer": "墩台は敵の動きを観察したり攻撃に備えるために使用される警戒所です。"
+        },
+        {
+            "question": "墩台の設置年代は何ですか？",
+            "answer": "墩台は朝鮮粛宗5年(1679)に設置されました。"
+        },
+        {
+            "question": "墩台の管理は誰によって行われていましたか？",
+            "answer": "墩台は官衙で管理されていました。"
+        },
+        {
+            "question": "墩台の特徴は何ですか？",
+            "answer": "墩台は高い平地に積まれており、外は城郭で高くし、中は低くし砲を設置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 200,
+        "QA": 164
+    }
+}

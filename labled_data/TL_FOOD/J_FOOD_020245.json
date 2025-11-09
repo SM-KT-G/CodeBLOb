@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_020245",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "利和食堂 ( 이화식당 )"
+    },
+    "text": "利和食堂 ( 이화식당 )\n慶尚北道 安東市 ジョンソ路 214-6\n河回村の近くに位置する安東式鶏肉と野菜の蒸し物のおいしい店です。慶尚北道のアンドン市に位置した韓食専門店です。おすすめはアンドンチムダクです。",
+    "QA": [
+        {
+            "question": "利和食堂はどこに位置していますか？",
+            "answer": "利和食堂は慶尚北道安東市ジョンソ路214-6に位置しています。"
+        },
+        {
+            "question": "利和食堂はどのような料理を提供していますか？",
+            "answer": "利和食堂は鶏肉と野菜の蒸し物がおすすめの韓食専門店です。特にアンドンチムダクが人気です。"
+        },
+        {
+            "question": "アンドンチムダクとはどのような料理ですか？",
+            "answer": "アンドンチムダクは安東式の鶏肉と野菜の蒸し物で、利和食堂の看板メニューです。"
+        }
+    ],
+    "word_Count": {
+        "text": 77,
+        "QA": 126
+    }
+}

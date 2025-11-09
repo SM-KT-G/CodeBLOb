@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_087491",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=176&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=16200000&ccbaCtcd=37&ccbaCpno=1123716200000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2009-10-20",
+        "domain": "문화/역사관광",
+        "title": "안동 봉정사 목조관음보살좌상"
+    },
+    "text": "1199年頃、安東鳳停寺で製作された宝物な木造観世音菩薩座像は接木早期法で作られた彫刻品である。この彫刻品は数本の木の彫刻を結合して作られており、目は水晶で作られている。大雄殿の観音ケグムの看板や重水原文を通じて、この作品は1199年から1364年の間と1751年から1753年の間に改修されたことを知ることができる。この観音菩薩座像は中国南宋時代の仏像や安東(アンドン)の普光寺(ボグァンサ)と瑞山(ソサン)ゲシムサの木造仏像と比較される。したがって、この作品は1199年に製作されたものと推定され、新古典主義様式の仏像の一部の形態を持っている重要な作品として評価される。",
+    "QA": [
+        {
+            "question": "この木造観世音菩薩座像はいつ製作されましたか？",
+            "answer": "1199年頃、安東鳳停寺で製作されました。"
+        },
+        {
+            "question": "観世音菩薩座像の目は何でできていますか？",
+            "answer": "目は水晶で作られています。"
+        },
+        {
+            "question": "観音菩薩座像はどのように製作された彫刻品ですか？",
+            "answer": "数本の木の彫刻を結合して作られた接木早期法で作られた彫刻品です。"
+        },
+        {
+            "question": "観音菩薩座像は何時に改修されましたか？",
+            "answer": "1199年から1364年の間と1751年から1753年の間に改修されました。"
+        },
+        {
+            "question": "観音菩薩座像はどのような様式の仏像ですか？",
+            "answer": "新古典主義様式の仏像の一部の形態を持っています。"
+        }
+    ],
+    "word_Count": {
+        "text": 210,
+        "QA": 172
+    }
+}

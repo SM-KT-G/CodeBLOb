@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_024831",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/wangbijib",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "王妃家"
+    },
+    "text": "王妃家\\n\nソウル特別市 中区 ミョンドン8ガギル26 )\\n\nファロ(火鉢)焼き専門店です。ソウル特別市のジュン区に位置した韓食専門店です。おすすめはカルビ定食です。",
+    "QA": [
+        {
+            "question": "このレストランの場所はどこですか？",
+            "answer": "ソウル特別市中区ミョンドン8ガギル26に位置しています。"
+        },
+        {
+            "question": "このレストランの料理は何をおすすめですか？",
+            "answer": "おすすめはカルビ定食です。"
+        },
+        {
+            "question": "このレストランは何を専門としていますか？",
+            "answer": "このレストランはファロ(火鉢)焼き専門店です。"
+        },
+        {
+            "question": "このレストランはどの区に位置していますか？",
+            "answer": "このレストランはソウル特別市のジュン区に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 61,
+        "QA": 125
+    }
+}

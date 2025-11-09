@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_018887",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101933",
+        "collectedDate": "2023-10-06",
+        "publishedDate": "2020-01-01",
+        "domain": "자연관광",
+        "title": "무릉계곡"
+    },
+    "text": "武陵渓谷\\n\n東海武陵渓谷は江原特別自治道東海市頭陀山と青玉山を背景に湖岩沼から始まり、龍湫滝があるところまでの約4kmに達する渓谷だ。 2008年2月5日、大韓民国の名勝第37号に指定された。",
+    "QA": [
+        {
+            "question": "武陵渓谷はどこにありますか？",
+            "answer": "武陵渓谷は江原特別自治道東海市頭陀山と青玉山を背景にあります。"
+        },
+        {
+            "question": "武陵渓谷はいつ指定されましたか？",
+            "answer": "武陵渓谷は2008年2月5日に大韓民国の名勝第37号に指定されました。"
+        },
+        {
+            "question": "武陵渓谷はどれくらいの長さですか？",
+            "answer": "武陵渓谷は湖岩沼から始まり、龍湫滝があるところまでの約4kmの長さです。"
+        }
+    ],
+    "word_Count": {
+        "text": 71,
+        "QA": 109
+    }
+}

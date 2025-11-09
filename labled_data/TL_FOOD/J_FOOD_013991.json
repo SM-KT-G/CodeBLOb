@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_013991",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-05",
+        "domain": "음식점",
+        "title": "マンゼガーデン ( 만재가든 )"
+    },
+    "text": "マンゼガーデン ( 만재가든 )\\n\n全羅南道 海南郡 海南邑 チュンアン1ロ356\\n\n韓牛雌牛の専門店です。全羅南道のヘナム郡に位置した韓食専門店です。代表的なメニューはヒレです。",
+    "QA": [
+        {
+            "question": "マンゼガーデンはどこにありますか？",
+            "answer": "マンゼガーデンは全羅南道海南郡海南邑のチュンアン1ロ356にあります。"
+        },
+        {
+            "question": "マンゼガーデンの特産品は何ですか？",
+            "answer": "マンゼガーデンは韓牛雌牛の専門店です。"
+        },
+        {
+            "question": "マンゼガーデンの代表的なメニューは何ですか？",
+            "answer": "マンゼガーデンの代表的なメニューはヒレです。"
+        }
+    ],
+    "word_Count": {
+        "text": 67,
+        "QA": 96
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_035372",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=292&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=16&ccbaAsno=01690000&ccbaCtcd=34&ccbaCpno=1363401690000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1965-04-07",
+        "domain": "자연관광",
+        "title": "서천 마량리 동백나무 숲"
+    },
+    "text": "椿は茶の木科に属する木で韓国をはじめとして日本・中国などの暖かい地方に分布しています。花は早春に咲いているのに非常に美しく、チュンベク、チュベク、椿で呼びます。マリャン里の椿の森は書道小学校で4.5キロほど離れた海辺の低い丘に位置しています。丘の上にはトンベクチョンというこじんまりとした精子と80本余りの椿が散らばって育っています。この椿の森は風を防ぐ防風林を目的に作られたものと知られています。しかし、その機能が見出だせないとします。伝説によると、300年前この地方の管理が夢で海の上に浮かんでいる花束を見て海辺に行ってみたら、本当に花がいて持ってきて植えたのだが、その植えた花が現在の森を成したとします。その後人々は毎年旧暦1月にここに集まって祭祀をあげ、漁に災いがないことを祈ったそうです。マリャン里の椿の森は韓国で椿の木が育つある北側境界線上に位置しており、植物分布学的価値が高いです。また、豊漁祭、伝説を秘めている森として文化的価値も高く、天然記念物に指定・保護されています。",
+    "QA": [
+        {
+            "question": "椿の森はどの科に属する木ですか？",
+            "answer": "椿の森は茶の木科に属する木です。"
+        },
+        {
+            "question": "椿の森は日本のどの地方に位置していますか？",
+            "answer": "椿の森は韓国に位置しています。"
+        },
+        {
+            "question": "椿の森の植物学的価値はなぜ高いですか？",
+            "answer": "椿の森は北側境界線上に位置しており、植物分布学的価値が高いためです。"
+        },
+        {
+            "question": "椿の森は何のために作られたのですか？",
+            "answer": "椿の森は風を防ぐ防風林を目的に作られました。"
+        },
+        {
+            "question": "椿の森に伝説がありますか？",
+            "answer": "はい、椿の森には300年前の伝説があります。"
+        },
+        {
+            "question": "毎年旧暦1月に椿の森で何を行うのですか？",
+            "answer": "毎年旧暦1月にここに集まって祭祀をあげ、漁に災いがないことを祈るそうです。"
+        },
+        {
+            "question": "椿の森は何に指定・保護されていますか？",
+            "answer": "椿の森は天然記念物に指定・保護されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 325,
+        "QA": 215
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_114727",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=913&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=24&ccbaAsno=00080000&ccbaCtcd=33&ccbaCpno=2443300080000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1989-12-08",
+        "domain": "문화/역사관광",
+        "title": "청주 과필헌"
+    },
+    "text": "清州科筆軒\\n\n清州市上党区浪城面ホジョンコルキル44-6\\n\n忠清北道民俗文化財、グヮピルホンシンフ(1708∼1779)が建てた家として母屋、ゴッガンチェ、サランチェとして構成されている。母屋は側面から見ると、ジブンソンが八(八部)字と似たような入母屋屋根であり、板の間を中心に左にもう一つの部屋、右に奥の間や台所を置いた。奥の間の前には中門があるゴッガンチェを置き、サランチェは表6間・側面2間ほどの入母屋屋根で部屋と台所を置いた。韓国の伝統韓屋の構造をうかがうことができる場所だ。...",
+    "QA": [
+        {
+            "question": "この家は誰によって建てられましたか？",
+            "answer": "グヮピルホンシンフによって建てられました。"
+        },
+        {
+            "question": "この家はどのような構造になっていますか？",
+            "answer": "母屋、ゴッガンチェ、サランチェという構成になっています。"
+        },
+        {
+            "question": "この家の中にはどんな部屋がありますか？",
+            "answer": "母屋には板の間を中心に左にもう一つの部屋、右に奥の間や台所があります。"
+        },
+        {
+            "question": "この家で見ることができる伝統的な韓国の構造は何ですか？",
+            "answer": "入母屋屋根やゴッガンチェ、サランチェによって伝統的な韓国の韓屋の構造を見ることができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 181,
+        "QA": 156
+    }
+}

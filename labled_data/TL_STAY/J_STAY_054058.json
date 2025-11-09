@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_054058",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42060&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "보령(대천) 봉이하우스독채펜션(단독낚시터,농장체험무료)"
+    },
+    "text": "忠清南道保寧市保寧湖路の近くに位置するボンイハウスは、釣り場がある一軒家ペンションです。 ペンションのすぐ下には美しい渓谷があり、農場体験とともに自然を楽しむことができます。 お知らせは、22時以降に入室される場合は予めご連絡ください。",
+    "QA": [
+        {
+            "question": "ボンイハウスはどこに位置していますか？",
+            "answer": "ボンイハウスは忠清南道保寧市保寧湖路の近くに位置しています。"
+        },
+        {
+            "question": "ボンイハウスの特徴は何ですか？",
+            "answer": "ボンイハウスは一軒家ペンションで、釣り場があることが特徴です。また、ペンションのすぐ下には美しい渓谷があります。"
+        },
+        {
+            "question": "ボンイハウスでできるアクティビティはありますか？",
+            "answer": "ボンイハウスでは農場体験を楽しむことができます。また、渓谷で自然を楽しむこともできます。"
+        },
+        {
+            "question": "ボンイハウスのお知らせは何ですか？",
+            "answer": "ボンイハウスでは、22時以降に入室される場合は事前にご連絡ください。"
+        }
+    ],
+    "word_Count": {
+        "text": 86,
+        "QA": 175
+    }
+}

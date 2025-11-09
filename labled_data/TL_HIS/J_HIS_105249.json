@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_105249",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=931&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=24&ccbaAsno=00420000&ccbaCtcd=36&ccbaCpno=2443600420000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2008-04-11",
+        "domain": "문화/역사관광",
+        "title": "창평춘강고정주고택"
+    },
+    "text": "1913年全羅南道に位置したユクヒョダンという古宅は韓国の伝統的な両班の家だ。この家は母屋と2洞のサランチェ、ゴクガンチェ、祠堂、門屋で構成されている。住宅は格式をよく備えており、南西側から湧き出る3ドアを通じて出入りすることができる。知ったサランチェと外側のサランチェは南向きに位置して母屋とゴクガン戸は直交に位置し、祠堂はの東に位置している。母屋は骨組みが太くて部屋が広く、堅実な韓屋は全羅道(チョンラド)地方では珍しいコの字型平面だ。家具の形式は2孤舟5両で構成されていて、母屋棟上げの記録を通じて、1913年に建設されたことを確認することができる。外側のサランチェのユクヒョダンは4間家に全面に縁側のみ存在し、基壇の上に台形礎石を置いて四角い箱舟を立てている。世帯の構造は2孤舟5両の家だ。この古宅はチュンカン固定株(1863-1933)の家として知られており、彼の業績とともに言ったこと、民族運動の根源地である清平へ地域の近代教育の嚆矢であるヨンハクスクとチャンフンの熟議母体となったりもする。",
+    "QA": [
+        {
+            "question": "ユクヒョダンは何年に建設されましたか？",
+            "answer": "ユクヒョダンは1913年に建設されました。"
+        },
+        {
+            "question": "ユクヒョダンの母屋はどのような形をしていますか？",
+            "answer": "ユクヒョダンの母屋はコの字型の平面をしています。"
+        },
+        {
+            "question": "ユクヒョダンの家具は何で構成されていますか？",
+            "answer": "ユクヒョダンの家具は2孤舟5両で構成されています。"
+        },
+        {
+            "question": "ユクヒョダンの世帯の構造は何ですか？",
+            "answer": "ユクヒョダンの世帯の構造は2孤舟5両の家です。"
+        },
+        {
+            "question": "ユクヒョダンは誰の家として知られていますか？",
+            "answer": "ユクヒョダンはチュンカン固定株(1863-1933)の家として知られています。"
+        },
+        {
+            "question": "ユクヒョダンはどのような業績で有名ですか？",
+            "answer": "ユクヒョダンは清平へ地域の近代教育の嚆矢であり、民族運動の根源地でもあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 331,
+        "QA": 217
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_005995",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42001&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "호텔 마누"
+    },
+    "text": "ソウル駅から徒歩2分の距離にあるここは交通の要地としてソウル旅行を最適の立地にしてくれます。 ここはナチュラルウッドの感覚的なインテリアとリラックスした雰囲気の客室を備えており、森の中に入ってきたような気がします。 また、24時間開放される屋上庭園で都心の中の自然を感じながらリフレッシュの時間を過ごすことができます。 都心の中のすべての混雑とストレスを忘れてリラックスした時間を過ごしたいなら、ここで素晴らしい経験をすることができます。",
+    "QA": [
+        {
+            "question": "このホテルはどのくらいの距離にありますか？",
+            "answer": "ソウル駅から徒歩2分の距離にあります。"
+        },
+        {
+            "question": "ホテルの客室はどのような雰囲気ですか？",
+            "answer": "ナチュラルウッドの感覚的なインテリアとリラックスした雰囲気の客室です。"
+        },
+        {
+            "question": "屋上庭園はいつ利用できますか？",
+            "answer": "屋上庭園は24時間開放されています。"
+        },
+        {
+            "question": "このホテルは都心の中にありながらどのようなリラックスした時間を提供していますか？",
+            "answer": "都心の中の自然を感じながらリフレッシュの時間を過ごすことができます。"
+        },
+        {
+            "question": "このホテルはストレスを忘れてリラックスできる場所ですか？",
+            "answer": "はい、都心の中のすべての混雑とストレスを忘れてリラックスした時間を過ごすことができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 160,
+        "QA": 200
+    }
+}

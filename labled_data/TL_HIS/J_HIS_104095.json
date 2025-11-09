@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_104095",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1011&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=00640000&ccbaCtcd=38&ccbaCpno=3413800640000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1983-07-20",
+        "domain": "문화/역사관광",
+        "title": "진주 용강서당"
+    },
+    "text": "真珠 ヨンガンソダン\\n\n慶尚南道晋州市枝水面鴨沙里\\n\n慶尚南道文化財資料、東江キムウオン先生を追悼するために建てられた書院である。キムウオン(1540∼1603)は、朝鮮明宗と先祖の二大に吏曹判書と大提学、経営理念を務めたが、20冊の文集とソクカンモク36冊を出版した。この寺子屋は1902年になっており、1922年には''グェンチョンガク''という書庫を作って清州(チョンジュ)書院で保管していた先生の文集坂角600枚を移してきた。書堂の全体的な構造は学ぶ空間である寺子屋が前方にあり、その裏には位牌堂と刻まを保管する建物が並んで横に配置されている。書堂は前面5間・側面2間規模であり、屋根は側面から見ると、八(八部)字形の入母屋屋根で飾った。''庭師''という扁額がある祠は前面3間・側面2間規模で、屋根は入母屋屋根である。",
+    "QA": [
+        {
+            "question": "この書院は誰のために建てられましたか？",
+            "answer": "キムウオン先生を追悼するために建てられました。"
+        },
+        {
+            "question": "この書院はどの年に建てられましたか？",
+            "answer": "この寺子屋は1902年に建てられました。"
+        },
+        {
+            "question": "書院には何が保管されていますか？",
+            "answer": "書庫には先生の文集坂角600枚が保管されています。"
+        },
+        {
+            "question": "書院の構造について教えてください。",
+            "answer": "書堂は学ぶ空間である寺子屋が前方にあり、その裏には位牌堂と刻まを保管する建物が並んで横に配置されています。"
+        },
+        {
+            "question": "庭師という扁額がある祠の大きさはどのくらいですか？",
+            "answer": "庭師という扁額がある祠は前面3間・側面2間規模で、屋根は入母屋屋根です。"
+        }
+    ],
+    "word_Count": {
+        "text": 268,
+        "QA": 184
+    }
+}

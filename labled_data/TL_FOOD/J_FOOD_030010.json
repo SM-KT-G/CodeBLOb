@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_030010",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/cham-man-na",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "CHAM MAN NA（참만나）"
+    },
+    "text": "CHAM MAN NA（참만나）\\n\nソウル特別市 蘆原区 花郎路441 )\\n\n「CHAM MAN NA（チャムマンナ）」は、泰陵豚カルビで有名な泰陵にあるカルビ専門店です。無煙ロースターなどの設備が整っており、煙を気にせず、快適に焼肉を楽しめます。",
+    "QA": [
+        {
+            "question": "チャムマンナはどこにありますか？",
+            "answer": "チャムマンナはソウル特別市蘆原区花郎路441にあります。"
+        },
+        {
+            "question": "チャムマンナはどのような料理が特に有名ですか？",
+            "answer": "チャムマンナは泰陵豚カルビが特に有名です。"
+        },
+        {
+            "question": "チャムマンナの設備には何がありますか？",
+            "answer": "チャムマンナには無煙ロースターやその他の設備が整っています。"
+        },
+        {
+            "question": "チャムマンナでは煙を気にせずに焼肉を楽しむことができますか？",
+            "answer": "はい、チャムマンナでは煙を気にせずに快適に焼肉を楽しむことができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 92,
+        "QA": 148
+    }
+}

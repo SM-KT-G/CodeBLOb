@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_017153",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://apis.data.go.kr/1400000/service/cultureInfoService2/mntInfoOpenAPI2",
+        "collectedDate": "2023-11-22",
+        "publishedDate": "2020-12-01",
+        "domain": "자연관광",
+        "title": "침곡산"
+    },
+    "text": "沈谷山 (침곡산)\\n\n慶尚北道浦項市北区竹長面針谷里\\n\n山の高さ : 725.8m , この区間は単調で上り下りの激しい区間だ。 村を横に挟んで移動する区間なので、道に迷っても簡単に山を下りてくることができる区間でもある。 高い山はないが、多くの灰があって山登りは難しい区間だ。",
+    "QA": [
+        {
+            "question": "この区間の山の高さは何メートルですか？",
+            "answer": "この区間の山の高さは725.8メートルです。"
+        },
+        {
+            "question": "この区間はどのような山道ですか？",
+            "answer": "この区間は単調で上り下りの激しい区間です。灰が多くて山登りは難しいです。"
+        },
+        {
+            "question": "この区間は道に迷った場合でも簡単に山を下りることができますか？",
+            "answer": "はい、この区間は村を横に挟んで移動するため、道に迷っても簡単に山を下りてくることができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 103,
+        "QA": 124
+    }
+}

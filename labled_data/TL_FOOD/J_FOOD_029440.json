@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_029440",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "湖南食堂 ( 호남식당 )"
+    },
+    "text": "湖南食堂 ( 호남식당 )\\n\nソウル特別市 中区 南大門市場キル 18-6\\n\n韓国のグルメ番組でよく紹介されている名店です。この店はソウル特別市の南大門市場の近くに位置した太刀魚の煮付け専門店です。代表的なメニューは太刀魚の煮付けです。",
+    "QA": [
+        {
+            "question": "この店の名前は何ですか？",
+            "answer": "湖南食堂 ( 호남식당 ) です。"
+        },
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "ソウル特別市中区南大門市場キル18-6に位置しています。"
+        },
+        {
+            "question": "この店は何の料理を専門としていますか？",
+            "answer": "太刀魚の煮付けを専門としています。"
+        },
+        {
+            "question": "この店の代表的なメニューは何ですか？",
+            "answer": "太刀魚の煮付けです。"
+        }
+    ],
+    "word_Count": {
+        "text": 88,
+        "QA": 98
+    }
+}

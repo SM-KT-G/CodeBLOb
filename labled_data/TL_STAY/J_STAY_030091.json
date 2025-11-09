@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_030091",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42050&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "정읍 W"
+    },
+    "text": "井邑駅と市外バスターミナルに隣接したWでは、最低2人が入室できます。 追加人数がいる場合には、追加料金を当日現地にてお支払いいただく必要があります。 客室はチェックイン時に割り当てられ、実際の客室は上記の画像と異なる場合があります。 オンシーズンと特定日、祝日(2日前から含む)には料金が変わる場合があります。",
+    "QA": [
+        {
+            "question": "井邑駅と市外バスターミナルはどこにありますか？",
+            "answer": "井邑駅と市外バスターミナルは隣接しています。"
+        },
+        {
+            "question": "最低何人が入室できますか？",
+            "answer": "最低2人が入室できます。"
+        },
+        {
+            "question": "追加人数がいる場合には、追加料金はいくらですか？",
+            "answer": "追加料金は当日現地にてお支払いいただく必要があります。"
+        },
+        {
+            "question": "客室はいつ割り当てられますか？",
+            "answer": "客室はチェックイン時に割り当てられます。"
+        },
+        {
+            "question": "実際の客室は予約時の画像と異なることがありますか？",
+            "answer": "実際の客室は予約時の画像と異なる場合があります。"
+        },
+        {
+            "question": "オンシーズンや特定日、祝日には料金が変わりますか？",
+            "answer": "オンシーズンや特定日、祝日には料金が変わる場合があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 113,
+        "QA": 189
+    }
+}

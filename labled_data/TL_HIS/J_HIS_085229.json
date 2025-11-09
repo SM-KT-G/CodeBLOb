@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_085229",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/view?relicId=215182",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2023-10-11",
+        "domain": "문화/역사관광",
+        "title": "수키와 조각"
+    },
+    "text": "牡瓦の欠片 (수키와 조각)\\n\n国籍と時代は、韓国の高麗時代です。材質は土で、軟質です。分類は主生活の建築部材であり、屋根材として使用されました。それぞれの大きさは現在の長さで表すと、7cm、8.5cm、5cm、7.5cm、14.2cm、1.0cm、7.7cm、12.5cmです。",
+    "QA": [
+        {
+            "question": "この土の欠片は何のために使用されましたか？",
+            "answer": "この土の欠片は、建築の屋根材として使用されました。"
+        },
+        {
+            "question": "この土の欠片はどのくらいの大きさですか？",
+            "answer": "それぞれの大きさは、7cm、8.5cm、5cm、7.5cm、14.2cm、1.0cm、7.7cm、12.5cmです。"
+        },
+        {
+            "question": "この土の欠片はどの時代のものですか？",
+            "answer": "この土の欠片は、韓国の高麗時代のものです。"
+        }
+    ],
+    "word_Count": {
+        "text": 103,
+        "QA": 119
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_105936",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=103&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=08340000&ccbaCtcd=37&ccbaCpno=1123708340000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1985-01-08",
+        "domain": "문화/역사관광",
+        "title": "청도 대비사 대웅전"
+    },
+    "text": "清道大悲寺大雄殿\\n\n慶尚北道清道郡衿川面朴谷キル590、大妃寺(朴谷里)\\n\n朝鮮時代、宝物、デビサは新羅の真興王27年(566)にシンスンイ立てて真平王22年(600)に原鉱国史が保守した。高麗時代の以前にはパクゴク里村にあったが、高麗時代に今ある席に移ってきた。釈迦モニー仏像を祀っている大雄殿は16世紀頃に建てられたものと推定される。規模は表3間・側面3間で、屋根は側面から見ると、人の教わる字形の切妻屋根で飾った。全体の構成がバランスがあり、屋根の軒を支えようと装飾してチャウン構造の構成も几帳面で丈夫、これを成す細部部材の形を見て朝鮮初期の建築手法を見ることができて、だいたい朝鮮王朝の初期から中期にわたった様式の特徴を探ることのできる建築物だ。...",
+    "QA": [
+        {
+            "question": "この大雄殿は何時代に建てられたものですか？",
+            "answer": "大雄殿は16世紀頃に建てられたものと推定されます。"
+        },
+        {
+            "question": "この大雄殿が祀っている仏像は誰ですか？",
+            "answer": "大雄殿は釈迦モニー仏像を祀っています。"
+        },
+        {
+            "question": "この大雄殿の屋根の形はどのような形ですか？",
+            "answer": "大雄殿の屋根は側面から見ると、人の教わる字形の切妻屋根で飾られています。"
+        },
+        {
+            "question": "この大雄殿の構成にはどのような特徴がありますか？",
+            "answer": "大雄殿の構成はバランスがあり、チャウン構造の構成も几帳面で丈夫です。"
+        },
+        {
+            "question": "この大雄殿の細部部材の形から、どの時代の建築手法を見ることができますか？",
+            "answer": "大雄殿の細部部材の形からは朝鮮初期の建築手法を見ることができ、朝鮮王朝の初期から中期にわたった様式の特徴を探ることができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 243,
+        "QA": 218
+    }
+}

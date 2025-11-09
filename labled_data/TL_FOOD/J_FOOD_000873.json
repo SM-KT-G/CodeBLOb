@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_000873",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2020-12-04",
+        "domain": "음식점",
+        "title": "123マクチャン 西面( 123막창 서면 )"
+    },
+    "text": "123マクチャン 西面( 123막창 서면 )\\n\n釜山広域市 釜山鎮区 西面路 44\\n\n韓国人が好きな焼き料理のうち、マクチャン(ギアラ)を食べ放題で提供する店です。 釜山広域市のブサンジン区に位置した韓国料理店です。代表的なメニューはマクチャンです。",
+    "QA": [
+        {
+            "question": "この店の名前は何ですか？",
+            "answer": "この店の名前は123マクチャン 西面です。"
+        },
+        {
+            "question": "この店はどこにありますか？",
+            "answer": "この店は釜山広域市の釜山鎮区に位置しています。"
+        },
+        {
+            "question": "この店の特徴的なメニューは何ですか？",
+            "answer": "この店の特徴的なメニューはマクチャン(ギアラ)です。"
+        },
+        {
+            "question": "マクチャンとはどのような料理ですか？",
+            "answer": "マクチャンは韓国人が好きな焼き料理で、この店では食べ放題で提供されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 93,
+        "QA": 123
+    }
+}

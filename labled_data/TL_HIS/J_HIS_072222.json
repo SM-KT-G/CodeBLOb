@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_072222",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/view?relicId=76714",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "벽돌"
+    },
+    "text": "れんが (벽돌)\\n\n国籍と時代は韓国の百済です。この建築部材は土でできています。大きさは、長さ257cmと幅237cm、厚さ5cmのもの、長さ314cmと幅109cm、幅142cm、厚さ4cmのもの、長さ333cm、幅147cm、厚さ45cmのものです。",
+    "QA": [
+        {
+            "question": "れんがはどのような材料でできていますか？",
+            "answer": "れんがは土でできています。"
+        },
+        {
+            "question": "れんがの大きさはどれくらいですか？",
+            "answer": "れんがの大きさは、長さ257cmと幅237cm、厚さ5cmのもの、長さ314cmと幅109cm、幅142cm、厚さ4cmのもの、長さ333cm、幅147cm、厚さ45cmのものがあります。"
+        },
+        {
+            "question": "れんがはどの時代の建築で使用されましたか？",
+            "answer": "れんがは韓国の百済の時代に使用されました。"
+        },
+        {
+            "question": "れんがはどの国の建築で使用されましたか？",
+            "answer": "れんがは韓国の百済の建築で使用されました。"
+        }
+    ],
+    "word_Count": {
+        "text": 93,
+        "QA": 166
+    }
+}

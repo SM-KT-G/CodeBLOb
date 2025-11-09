@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_030248",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/wang-thai",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "Wang Thai"
+    },
+    "text": "Wang Thai\\n\nソウル特別市 龍山区 梨泰院路151\\n\n「Wang Thai（ワンタイ）」は、タイ政府からタイ正統料理認証マーク（タイセレクト）を与えられたタイ料理レストランです。タイ出身の熟練シェフによる約100種のメニューを楽しめる他、約80席の店内はタイの雰囲気漂うインテリアで統一されています。",
+    "QA": [
+        {
+            "question": "ワンタイはどこにありますか？",
+            "answer": "ワンタイはソウル特別市龍山区梨泰院路151にあります。"
+        },
+        {
+            "question": "ワンタイはどのようなレストランですか？",
+            "answer": "ワンタイはタイ政府からタイ正統料理認証マーク（タイセレクト）を与えられたタイ料理レストランです。"
+        },
+        {
+            "question": "ワンタイのメニューは何種類ありますか？",
+            "answer": "ワンタイでは約100種類のメニューを楽しむことができます。"
+        },
+        {
+            "question": "ワンタイの店内はどのような雰囲気ですか？",
+            "answer": "ワンタイの店内はタイの雰囲気漂うインテリアで統一されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 114,
+        "QA": 151
+    }
+}

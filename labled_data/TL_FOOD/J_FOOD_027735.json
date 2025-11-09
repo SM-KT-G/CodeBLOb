@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_027735",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-08-27",
+        "domain": "음식점",
+        "title": "青受亭 ( 청수정 )"
+    },
+    "text": "青受亭 ( 청수정 )\\n\nソウル特別市 鐘路区 サムチョンロ91\\n\n新鮮な材料を厳選し、味と栄養が豊富な料理だけを提供しています。ソウル特別市のチョンノ区に位置した韓食専門店です。代表的なメニューはプルゴギ丼です。",
+    "QA": [
+        {
+            "question": "青受亭の場所はどこですか？",
+            "answer": "青受亭はソウル特別市の鐘路区に位置しています。具体的な住所はサムチョンロ91です。"
+        },
+        {
+            "question": "青受亭はどのような料理を提供していますか？",
+            "answer": "青受亭は新鮮な材料を厳選し、味と栄養が豊富な料理だけを提供しています。代表的なメニューはプルゴギ丼です。"
+        },
+        {
+            "question": "プルゴギ丼以外のメニューはありますか？",
+            "answer": "はい、青受亭にはプルゴギ丼以外にもさまざまなメニューがあります。お客様のお好みに合わせて、様々な韓食をお楽しみいただけます。"
+        }
+    ],
+    "word_Count": {
+        "text": 79,
+        "QA": 152
+    }
+}

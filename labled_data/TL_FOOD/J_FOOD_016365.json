@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_016365",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/gaesungjib-dongdaemoon",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "開城チッ"
+    },
+    "text": "開城チッ\\n\nソウル特別市 東大門区 龍頭洞 201-2\\n\n40年以上愛されてきている北朝鮮の開城(ケソン)料理専門店「開城チッ」です。淡白な牛の骨スープで作ったチョレンイのトックッ、開城スンデ、トングラテンが人気メニューです。",
+    "QA": [
+        {
+            "question": "開城チッはどの地域にありますか？",
+            "answer": "開城チッはソウル特別市東大門区龍頭洞にあります。"
+        },
+        {
+            "question": "開城チッの人気メニューは何ですか？",
+            "answer": "開城チッの人気メニューはチョレンイのトックッ、開城スンデ、トングラテンです。"
+        },
+        {
+            "question": "開城チッはどれくらいの期間愛されていますか？",
+            "answer": "開城チッは40年以上愛されてきています。"
+        }
+    ],
+    "word_Count": {
+        "text": 84,
+        "QA": 100
+    }
+}

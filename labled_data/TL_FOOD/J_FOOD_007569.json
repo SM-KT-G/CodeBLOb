@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_007569",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-06",
+        "domain": "음식점",
+        "title": "シゴルバプサン ( 시골밥상 )"
+    },
+    "text": "シゴルバプサン ( 시골밥상 )\\n\n釜山広域市 釜山鎮区 チュンアンデロ691ボンガギル24-16\\n\n端正でボリューム満点のおかずで人気の韓国料理店です。釜山広域市のブサンジン区に位置した韓食専門店です。代表的なメニューは韓定食です。",
+    "QA": [
+        {
+            "question": "シゴルバプサンはどこに位置していますか？",
+            "answer": "シゴルバプサンは釜山広域市の釜山鎮区に位置しています。"
+        },
+        {
+            "question": "シゴルバプサンの代表的なメニューは何ですか？",
+            "answer": "シゴルバプサンの代表的なメニューは韓定食です。"
+        },
+        {
+            "question": "シゴルバプサンのおかずはどのような特徴がありますか？",
+            "answer": "シゴルバプサンのおかずは端正でボリューム満点です。"
+        },
+        {
+            "question": "シゴルバプサンはどのような料理店ですか？",
+            "answer": "シゴルバプサンは韓国料理専門店です。"
+        }
+    ],
+    "word_Count": {
+        "text": 87,
+        "QA": 132
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_007828",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-06",
+        "domain": "음식점",
+        "title": "シンガネワンコバックリブ 龍頭洞"
+    },
+    "text": "シンガネワンコバックリブ 龍頭洞\\n\nソウル特別市 東大門区 チョンホデロ67\\n\n様々な種類の豚肉焼きが味わえる店です。おすすめはバックリブです。ソウル特別市のドンデムン区に位置した韓国料理店です。",
+    "QA": [
+        {
+            "question": "このレストランの場所はどこですか？",
+            "answer": "このレストランはソウル特別市東大門区に位置しています。"
+        },
+        {
+            "question": "このレストランのおすすめメニューは何ですか？",
+            "answer": "このレストランのおすすめはバックリブです。"
+        },
+        {
+            "question": "このレストランでは何種類の豚肉焼きが味わえますか？",
+            "answer": "このレストランでは様々な種類の豚肉焼きが味わえます。"
+        }
+    ],
+    "word_Count": {
+        "text": 73,
+        "QA": 101
+    }
+}

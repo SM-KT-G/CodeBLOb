@@ -1,0 +1,67 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_009938",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://apis.data.go.kr/1400000/service/cultureInfoService2/mntInfoOpenAPI2",
+        "collectedDate": "2023-11-22",
+        "publishedDate": "2020-12-01",
+        "domain": "자연관광",
+        "title": "봉암산"
+    },
+    "text": "鳳岩山 (봉암산)\\n\n忠清南道天安市東南区北面梧谷里\\n\n異名円熟山と呼ばれるこの山は天安市北面梧谷里と並川面梅城里の境界で、山の高さは426mだ。 北には介竹山、石項山などとつながり、また南には鵲城山、銀石山への幹を形成しており、頂上の北側にある「石隠ベミ峠」は並川面鳳項と北面梧谷里の人々の疎通になる主要峠だったが、現在は人通りが少ない方でたまに山客だけが往来がある。",
+    "QA": [
+        {
+            "question": "鳳岩山の異名は何ですか？",
+            "answer": "円熟山"
+        },
+        {
+            "question": "鳳岩山の高さは何メートルですか？",
+            "answer": "426m"
+        },
+        {
+            "question": "鳳岩山はどの市に位置していますか？",
+            "answer": "天安市"
+        },
+        {
+            "question": "鳳岩山はどの区に位置していますか？",
+            "answer": "東南区"
+        },
+        {
+            "question": "鳳岩山はどの里との境界に位置していますか？",
+            "answer": "北面梧谷里"
+        },
+        {
+            "question": "鳳岩山はどの山々とつながっていますか？",
+            "answer": "介竹山、石項山"
+        },
+        {
+            "question": "鳳岩山の頂上にある主要な峠の名前は何ですか？",
+            "answer": "石隠ベミ峠"
+        },
+        {
+            "question": "石隠ベミ峠はどの面との疎通をつないでいましたか？",
+            "answer": "並川面鳳項と北面梧谷里"
+        },
+        {
+            "question": "石隠ベミ峠は現在人通りが少ないですか？",
+            "answer": "はい"
+        },
+        {
+            "question": "鳳岩山の周辺にはどのような山がありますか？",
+            "answer": "鵲城山、銀石山"
+        },
+        {
+            "question": "鳳岩山にはどのような人々が訪れますか？",
+            "answer": "山客"
+        }
+    ],
+    "word_Count": {
+        "text": 137,
+        "QA": 189
+    }
+}

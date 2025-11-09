@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_090821",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=147&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=13090000&ccbaCtcd=36&ccbaCpno=1123613090000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2001-04-17",
+        "domain": "문화/역사관광",
+        "title": "영암 엄길리 암각 매향명"
+    },
+    "text": "忠恵王5年(1344)に全羅南道霊岩郡オムギル里チョルアムサンに自然岩盤に刻まれた\"霊岩オムギル里アムガクメヒャンミョン\"は現地調査を通じて確認され、21行き118字に彫り込まれている。造成時期は4千メヒャン費(高麗まあ13年、1387)より43年早く、定住のチムヒャンソクガク(忠粛王4年、1335)より9年が遅れるけど、連帯が最も進んでいる。名門を判読することができ、高麗末メヒャン風俗の一面を知ることができ、学術的に重要な価値がある。",
+    "QA": [
+        {
+            "question": "何が霊岩オムギル里アムガクメヒャンミョンに刻まれていますか？",
+            "answer": "霊岩オムギル里アムガクメヒャンミョンには、21行き118字に彫り込まれています。"
+        },
+        {
+            "question": "いつ、どのようにして霊岩オムギル里アムガクメヒャンミョンが確認されましたか？",
+            "answer": "霊岩オムギル里アムガクメヒャンミョンは忠恵王5年(1344)に全羅南道霊岩郡オムギル里チョルアムサンに自然岩盤に刻まれたもので、現地調査を通じて確認されました。"
+        },
+        {
+            "question": "霊岩オムギル里アムガクメヒャンミョンの造成時期はいつですか？",
+            "answer": "霊岩オムギル里アムガクメヒャンミョンの造成時期は4千メヒャン費より43年早く、定住のチムヒャンソクガクより9年が遅れる時期に造成されました。"
+        },
+        {
+            "question": "霊岩オムギル里アムガクメヒャンミョンにはどんな情報が含まれていますか？",
+            "answer": "霊岩オムギル里アムガクメヒャンミョンには名門や高麗末メヒャン風俗の情報が含まれています。"
+        },
+        {
+            "question": "霊岩オムギル里アムガクメヒャンミョンの学術的な価値は何ですか？",
+            "answer": "霊岩オムギル里アムガクメヒャンミョンは学術的に重要な価値があり、高麗末メヒャン風俗の一面を知ることができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 161,
+        "QA": 332
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_090853",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1064&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=01490000&ccbaCtcd=36&ccbaCpno=3413601490000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1987-06-01",
+        "domain": "문화/역사관광",
+        "title": "영암문창집가옥"
+    },
+    "text": "全羅南道に位置したムンイクヒョンが建てたエソンダンは朝鮮時代に建築された建物である。建物は母屋、サランチェ、玄関棟で構成されており、母屋とサランチェは表5間規模に前後に縁側のある構造だ。屋根は側面から見ると、入母屋屋根の八の字の形をしている。ここに門屋は表3間規模であり、ドアは大門の形でインテリアが施されていて美しい姿を誇る。この建物は350年以上の歴史を持つ伝統家屋として、一部の修理がいたが、全体的には原形を保っている。",
+    "QA": [
+        {
+            "question": "エソンダンは誰によって建てられましたか？",
+            "answer": "ムンイクヒョンによって建てられました。"
+        },
+        {
+            "question": "エソンダンは何時代に建築されましたか？",
+            "answer": "朝鮮時代に建築されました。"
+        },
+        {
+            "question": "エソンダンはどのような構造で構成されていますか？",
+            "answer": "母屋、サランチェ、玄関棟で構成されており、母屋とサランチェは表5間規模に前後に縁側のある構造です。"
+        },
+        {
+            "question": "エソンダンの屋根の形はどのようですか？",
+            "answer": "側面から見ると、入母屋屋根の八の字の形をしています。"
+        },
+        {
+            "question": "エソンダンの門屋はどのような規模ですか？",
+            "answer": "門屋は表3間規模です。"
+        },
+        {
+            "question": "エソンダンのドアはどのような形をしていますか？",
+            "answer": "ドアは大門の形をしています。"
+        },
+        {
+            "question": "エソンダンの歴史はどのくらいありますか？",
+            "answer": "この建物は350年以上の歴史を持っています。"
+        },
+        {
+            "question": "エソンダンは修理されたり改築されたりしていますか？",
+            "answer": "一部の修理が行われていますが、全体的には原形を保っています。"
+        }
+    ],
+    "word_Count": {
+        "text": 156,
+        "QA": 259
+    }
+}

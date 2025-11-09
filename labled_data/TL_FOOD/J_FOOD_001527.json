@@ -1,0 +1,31 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001527",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-06",
+        "domain": "음식점",
+        "title": "CACAOBOOM ( 카카오봄 )"
+    },
+    "text": "CACAOBOOM ( 카카오봄 )\\n\nソウル特別市 麻浦区 ワウサンロ27ギル6\\n\n手作りチョコレートを提供する店です。ソウル特別市のマポ区に位置したカフェ（コーヒーショップ）です。おすすめはチョコレートドリンクです。",
+    "QA": [
+        {
+            "question": "カカオボムはどこにありますか？",
+            "answer": "カカオボムはソウル特別市のマポ区ワウサンロ27ギル6に位置しています。"
+        },
+        {
+            "question": "カカオボムでは何を提供していますか？",
+            "answer": "カカオボムでは手作りチョコレートを提供しています。特におすすめはチョコレートドリンクです。"
+        }
+    ],
+    "word_Count": {
+        "text": 82,
+        "QA": 82
+    }
+}

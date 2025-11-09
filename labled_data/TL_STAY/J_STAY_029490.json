@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_029490",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.goodchoice.kr/product/detail?ano=300&adcno=1&sel_date=2023-11-07&sel_date2=2023-11-08",
+        "collectedDate": "2023-11-15",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "용전 스위트"
+    },
+    "text": "当ホテルは計8台の駐車施設を保有しています。 周辺には大田複合ターミナルがあり、徒歩3分の距離に位置しており、親切なサービスでご案内いたします。 しかし、未成年者は予約が不可能であり、予約時の払い戻しは絶対できません。",
+    "QA": [
+        {
+            "question": "駐車施設は何台ありますか？",
+            "answer": "当ホテルは計8台の駐車施設を保有しています。"
+        },
+        {
+            "question": "周辺にはどんな施設がありますか？",
+            "answer": "周辺には大田複合ターミナルがあります。"
+        },
+        {
+            "question": "大田複合ターミナルまでの距離はどのくらいですか？",
+            "answer": "大田複合ターミナルまで徒歩3分の距離です。"
+        },
+        {
+            "question": "未成年者は予約できますか？",
+            "answer": "申し訳ありませんが、未成年者の方は予約ができません。"
+        },
+        {
+            "question": "予約時の払い戻しは可能ですか？",
+            "answer": "予約時の払い戻しは絶対にできませんので、ご了承ください。"
+        }
+    ],
+    "word_Count": {
+        "text": 79,
+        "QA": 144
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_064033",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/collectionList#######",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "모란도8곡병"
+    },
+    "text": "牡丹島八穀瓶 (모란도8곡병)\\n\n韓国-朝鮮のこの巻物は、紙でできています。作家は複数いて、それぞれの巻が個別に書かれたものです。この巻物は、文化芸術の一環として書道や絵が描かれており、その大きさは124124.0cm×4444.0cm×18184.0cm×45453.4cmです。",
+    "QA": [
+        {
+            "question": "この巻物は何でできていますか？",
+            "answer": "この巻物は紙でできています。"
+        },
+        {
+            "question": "巻物の大きさは何ですか？",
+            "answer": "この巻物の大きさは124124.0cm×4444.0cm×18184.0cm×45453.4cmです。"
+        },
+        {
+            "question": "この巻物にはどんな絵や書道が描かれていますか？",
+            "answer": "この巻物には文化芸術の一環として、絵や書道が描かれています。"
+        },
+        {
+            "question": "この巻物を作った作家は誰ですか？",
+            "answer": "この巻物は複数の作家によって作られました。"
+        }
+    ],
+    "word_Count": {
+        "text": 104,
+        "QA": 133
+    }
+}

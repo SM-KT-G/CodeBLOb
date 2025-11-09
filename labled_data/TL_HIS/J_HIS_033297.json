@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_033297",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-09-09",
+        "domain": "문화/역사관광",
+        "title": "平和公園（평화공원）"
+    },
+    "text": "平和公園\n釜山広域市 南区 新仙路447番キル 10\n釜山市民の代表的な憩いの場である平和公園にはツバキやマツなどの樹木3万本が植えられています。公園の中央に噴水があり、夏はここで水遊びを楽しむことができます。",
+    "QA": [
+        {
+            "question": "平和公園はどこにありますか？",
+            "answer": "平和公園は釜山広域市南区の新仙路447番地10にあります。"
+        },
+        {
+            "question": "平和公園には何が植えられていますか？",
+            "answer": "平和公園にはツバキやマツなどの樹木3万本が植えられています。"
+        },
+        {
+            "question": "平和公園でできることは何ですか？",
+            "answer": "夏は平和公園の中央にある噴水で水遊びを楽しむことができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 77,
+        "QA": 100
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_051759",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42020&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "고성 행울스테이"
+    },
+    "text": "こんにちは。慶尚南道ゴソンハンウルステイペンションです。 当ペンションはゴソン恐竜博物館の隣に位置しており、目の前には美しい海が広がっています。 ペンションをご利用の際、入室時間によって少し不便な点がある場合がありますので、10時以降に入室される方は事前に連絡してください。 ありがとうございます。",
+    "QA": [
+        {
+            "question": "このペンションはどこに位置していますか？",
+            "answer": "慶尚南道ゴソンハンウルステイペンションはゴソン恐竜博物館の隣に位置しています。"
+        },
+        {
+            "question": "ペンションの前には何が広がっていますか？",
+            "answer": "ペンションの前には美しい海が広がっています。"
+        },
+        {
+            "question": "入室時間によって不便な点があるとのことですが、具体的に何がありますか？",
+            "answer": "入室時間が10時以降の場合、少し不便な点がある場合があります。そのため、事前に連絡していただければ幸いです。"
+        },
+        {
+            "question": "ペンションの利用には特に気を付けるべき点はありますか？",
+            "answer": "特に気を付けるべき点はありませんが、入室時間については事前に連絡をしていただくようお願いいたします。"
+        },
+        {
+            "question": "ゴソン恐竜博物館へのアクセス方法はありますか？",
+            "answer": "ゴソン恐竜博物館へは、ペンションの隣に位置しているため、徒歩でアクセスすることができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 109,
+        "QA": 245
+    }
+}

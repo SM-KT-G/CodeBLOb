@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_056007",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=622&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=03840000&ccbaCtcd=37&ccbaCpno=2113703840000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2006-06-29",
+        "domain": "문화/역사관광",
+        "title": "김선치의 벼루"
+    },
+    "text": "金善治の硯\\n\n慶尚北道尚州市京川路684(沙伐面) ジャン·ジャン\\n\n14~15世紀、慶尚北道有形文化財、このスズリは、石質と様式面で優れたものではないが、14世紀または15世紀の硯として時代が確実な名門を持っており、高麗の文人であり、武臣の硯の主人公キムソンチの12歳の時ジャソミョンが彫り込まれたビョルという点で歴史的な価値を持つ。また、1762年にこのスズリが発見された当時、ハムチャンヒョンガムが製作させた硯箱。は木質や様式が当代のものと認められる。特に、同スズリを置いて朝鮮時代当時の文士30人余りが記、詩、歌、行などとして賞賛しており、その精神文化的価値は非常に高い。",
+    "QA": [
+        {
+            "question": "この硯の主人公は誰ですか？",
+            "answer": "キムソンチ"
+        },
+        {
+            "question": "この硯は何世紀のものですか？",
+            "answer": "14世紀または15世紀"
+        },
+        {
+            "question": "この硯箱は誰が製作しましたか？",
+            "answer": "ハムチャンヒョンガム"
+        },
+        {
+            "question": "この硯箱の木質や様式はどの時代と認められますか？",
+            "answer": "当代のもの"
+        },
+        {
+            "question": "このスズリを賞賛した文士は何人くらいいましたか？",
+            "answer": "30人余り"
+        },
+        {
+            "question": "この硯の彫り込まれた名前は何ですか？",
+            "answer": "ビョル"
+        }
+    ],
+    "word_Count": {
+        "text": 214,
+        "QA": 107
+    }
+}

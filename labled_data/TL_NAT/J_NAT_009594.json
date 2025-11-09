@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_009594",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://apis.data.go.kr/1400000/service/cultureInfoService2/mntInfoOpenAPI2",
+        "collectedDate": "2023-11-22",
+        "publishedDate": "2020-12-01",
+        "domain": "자연관광",
+        "title": "백이산"
+    },
+    "text": "百二山 (백이산)\\n\n全羅南道順天郡外西面新徳里\\n\n望日峰(652.3m)、国基峰(528.4m)、白耳山(548.3m)が面の周囲に囲まれている。 面の中央に主岩湖の上流になる松広川と外西川が貫通し、2.18㎢の畑と4.42㎢の田んぼを形成しており、国道15号線が面の中心を通っており、交通は不便ではない方だ。",
+    "QA": [
+        {
+            "question": "百二山は何県にありますか？",
+            "answer": "百二山は全羅南道にあります。"
+        },
+        {
+            "question": "百二山の周囲にはどのような山がありますか？",
+            "answer": "百二山の周囲には望日峰、国基峰、白耳山があります。"
+        },
+        {
+            "question": "百二山の中央には何がありますか？",
+            "answer": "百二山の中央には主岩湖の上流になる松広川と外西川があります。"
+        },
+        {
+            "question": "百二山の面積はどのくらいですか？",
+            "answer": "百二山の面積は2.18㎢の畑と4.42㎢の田んぼです。"
+        },
+        {
+            "question": "百二山を通る交通路は何号線ですか？",
+            "answer": "百二山を通る交通路は国道15号線です。"
+        }
+    ],
+    "word_Count": {
+        "text": 115,
+        "QA": 145
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_059314",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2022-09-30",
+        "domain": "숙박",
+        "title": "킴스베이"
+    },
+    "text": "・キムベイは忠清南道泰安(チュンチョンナムド・テアン)の海辺に位置したペンションに四季の休養空間だ。万2千坪の鬱蒼とした松の森、湖のような海に面したメンバーシップ専用の高品格のペンションに四季家族の休養と団体セミナー、ワークショップが可能である。。",
+    "QA": [
+        {
+            "question": "キムベイはどこに位置していますか？",
+            "answer": "キムベイは忠清南道泰安（チュンチョンナムド・テアン）に位置しています。"
+        },
+        {
+            "question": "キムベイの特徴は何ですか？",
+            "answer": "キムベイの特徴は、万2千坪の鬱蒼とした松の森と湖のような海に面したメンバーシップ専用の高品格のペンションです。"
+        },
+        {
+            "question": "キムベイではどのような活動ができますか？",
+            "answer": "キムベイでは四季の家族の休養や団体セミナー、ワークショップなどの活動が可能です。"
+        }
+    ],
+    "word_Count": {
+        "text": 90,
+        "QA": 132
+    }
+}

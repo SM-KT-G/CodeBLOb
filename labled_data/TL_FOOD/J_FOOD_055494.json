@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_055494",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/hangang-live-paradise",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "パラダイス"
+    },
+    "text": "パラダイス\\n\nソウル特別市 永登浦区 汝矣島路 343 （汝矣島洞）\\n\n漢江の優美な景色を一望し、心地よいライブ演奏を聴きながら、大切な人との特別な思い出作りに最適な場所です。",
+    "QA": [
+        {
+            "question": "場所はどこですか？",
+            "answer": "パラダイスはソウル特別市永登浦区汝矣島路343にあります。"
+        },
+        {
+            "question": "どのような景色が見えますか？",
+            "answer": "パラダイスからは漢江の優美な景色が一望できます。"
+        },
+        {
+            "question": "どのようなイベントが行われますか？",
+            "answer": "パラダイスでは心地よいライブ演奏が行われます。"
+        },
+        {
+            "question": "どんな思い出を作ることができますか？",
+            "answer": "パラダイスは大切な人との特別な思い出作りに最適な場所です。"
+        }
+    ],
+    "word_Count": {
+        "text": 66,
+        "QA": 119
+    }
+}

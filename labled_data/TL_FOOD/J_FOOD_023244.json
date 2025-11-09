@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_023244",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-10",
+        "domain": "음식점",
+        "title": "束草アジメガマンドゥン魚の蒸し物( 속초아지매가만든생선찜 )"
+    },
+    "text": "束草アジメガマンドゥン魚の蒸し物\\n\n慶尚北道 安東市 江南 4キル38\\n\n新鮮な材料で様々な魚料理が味わえる店です。代表的なメニューは魚の蒸し物です。慶尚北道のアンドン市に位置した韓国料理店です。",
+    "QA": [
+        {
+            "question": "この魚料理店の場所はどこですか？",
+            "answer": "安東市江南4キル38に位置しています。"
+        },
+        {
+            "question": "この店の特徴的なメニューは何ですか？",
+            "answer": "代表的なメニューは魚の蒸し物です。"
+        },
+        {
+            "question": "この店の料理はどのような材料で作られていますか？",
+            "answer": "新鮮な材料を使用して様々な魚料理が作られています。"
+        },
+        {
+            "question": "この店はどの地域に位置していますか？",
+            "answer": "この店は慶尚北道のアンドン市に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 73,
+        "QA": 117
+    }
+}

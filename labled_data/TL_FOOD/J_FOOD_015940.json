@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_015940",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-05",
+        "domain": "음식점",
+        "title": "江陵マチョル ( 강릉마초루 )"
+    },
+    "text": "江陵マチョル ( 강릉마초루 )\\n\n江原道 ガンヌン市 ギョンガンロ2072\\n\n様々な中華料理が味わえる店です。代表的なメニューはちゃんぽんです。江原道のガンヌン市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "このレストランはどこにありますか？",
+            "answer": "江原道のガンヌン市に位置しています。"
+        },
+        {
+            "question": "このレストランではどのような料理が提供されていますか？",
+            "answer": "様々な中華料理が味わえます。代表的なメニューはちゃんぽんです。"
+        },
+        {
+            "question": "ちゃんぽん以外にも何かおすすめのメニューはありますか？",
+            "answer": "他にも美味しいメニューがたくさんありますが、特におすすめは〇〇です。"
+        },
+        {
+            "question": "このレストランの営業時間は何時から何時までですか？",
+            "answer": "営業時間は〇〇から〇〇までです。"
+        },
+        {
+            "question": "このレストランの予約方法はありますか？",
+            "answer": "予約は〇〇方法で受け付けています。"
+        },
+        {
+            "question": "このレストランの電話番号は何ですか？",
+            "answer": "電話番号は〇〇です。"
+        }
+    ],
+    "word_Count": {
+        "text": 71,
+        "QA": 189
+    }
+}

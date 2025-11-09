@@ -1,0 +1,31 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_059318",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2023-07-02",
+        "domain": "숙박",
+        "title": "타샤의 정원"
+    },
+    "text": "スターシャーの定員はきれいに加工された木材で建てた家と室外には手製の木製テーブル、椅子を使用した。家族、恋人と気楽に過ごせるようにペンション内のスパと水泳場があり、お茶一杯と談笑を交わすことができる空間があり、自転車レンタルも可能だ。",
+    "QA": [
+        {
+            "question": "スターシャーの定員は何人ですか？",
+            "answer": "スターシャーの定員はきれいに加工された木材で建てた家と室外には手製の木製テーブル、椅子を使用したため、具体的な人数はわかりませんが、家族や恋人と気楽に過ごせるペンションとして設計されています。"
+        },
+        {
+            "question": "スターシャーにはどのような施設がありますか？",
+            "answer": "スターシャーにはスパと水泳場があり、お茶を飲みながら談笑することができるスペースもあります。また、自転車レンタルも可能です。"
+        }
+    ],
+    "word_Count": {
+        "text": 85,
+        "QA": 143
+    }
+}

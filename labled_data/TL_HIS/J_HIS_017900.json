@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_017900",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=386&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=00230000&ccbaCtcd=21&ccbaCpno=2112100230000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1989-03-10",
+        "domain": "문화/역사관광",
+        "title": "범방동 삼층석탑"
+    },
+    "text": "凡方洞(ボムバンドン) 三階石塔 (범방동 삼층석탑)\\n\n釜山広域市江西区美音洞1530-2\\n\n釜山広域市有形文化財 , 昔の寺跡に立っている塔で、寺の跡は見当たらない。 塔は2層基壇を築き、その上に3層の塔身を乗せた一般的な姿だ。 基壇と塔身の各面には角ごとに柱状の彫刻が並んでいる。 塔身の石は1階に比べて2階が急激に減り、3階は2階と似ている。 屋根石は底面の支えが4段で、四隅が上に聞こえている。 駕洛国の始祖である水路王時代に寺を建てながらこの塔も一緒に建てたと伝えられているが、各部分に刻んだ彫刻技法やその様式から見て高麗時代の塔と見られる。",
+    "QA": [
+        {
+            "question": "この凡方洞（ボムバンドン）三階石塔は何階建てですか？",
+            "answer": "この凡方洞三階石塔は3階建てです。"
+        },
+        {
+            "question": "この凡方洞三階石塔はどのような形状ですか？",
+            "answer": "この凡方洞三階石塔は2層基壇を築き、その上に3層の塔身を乗せた一般的な形状です。"
+        },
+        {
+            "question": "この凡方洞三階石塔の彫刻はどのような特徴がありますか？",
+            "answer": "この凡方洞三階石塔の基壇と塔身の各面には角ごとに柱状の彫刻が並んでいます。"
+        },
+        {
+            "question": "この凡方洞三階石塔はいつ建てられましたか？",
+            "answer": "この凡方洞三階石塔は高麗時代に建てられたと推測されています。"
+        },
+        {
+            "question": "この凡方洞三階石塔は誰が建てたと伝えられていますか？",
+            "answer": "この凡方洞三階石塔は駕洛国の始祖である水路王時代に寺を建てながら建てられたと伝えられています。"
+        }
+    ],
+    "word_Count": {
+        "text": 204,
+        "QA": 214
+    }
+}

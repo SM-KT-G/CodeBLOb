@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_061615",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/view?relicId=60672",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "돌도끼"
+    },
+    "text": "石斧 (돌도끼)\\n\n韓国で作られた青銅器の一つに、石でできたその他があります。このその他は、林業に関連した産業の一環として斧を使って作られました。 このその他の大きさは、かつては長さ163cm、幅72cmでしたが、現在は長さ104cm、幅35cmとなっています。",
+    "QA": [
+        {
+            "question": "この石斧は何に使用されましたか？",
+            "answer": "この石斧は林業に関連した産業の一環として使用されました。"
+        },
+        {
+            "question": "この石斧はどのくらいの大きさですか？",
+            "answer": "かつては長さ163cm、幅72cmでしたが、現在は長さ104cm、幅35cmです。"
+        },
+        {
+            "question": "この石斧はどこで作られましたか？",
+            "answer": "この石斧は韓国で作られました。"
+        }
+    ],
+    "word_Count": {
+        "text": 96,
+        "QA": 98
+    }
+}

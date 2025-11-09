@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_055269",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/sutgogae-budaejjigae",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "スッコゲプデチゲ"
+    },
+    "text": "スッコゲプデチゲ\\n\n京畿道 平沢市 ショピン路 39-1\\n\nステーキをプデチゲの中でしゃぶしゃぶスタイルで味わえるところです。 代表的なメニューはプデチゲです。京畿道のピョンテク市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "このレストランはどこにありますか？",
+            "answer": "このレストランは京畿道平沢市ショピン路39-1にあります。"
+        },
+        {
+            "question": "このレストランの特徴的なメニューは何ですか？",
+            "answer": "このレストランの代表的なメニューはプデチゲです。"
+        },
+        {
+            "question": "このレストランではどのようにステーキを味わえますか？",
+            "answer": "このレストランではステーキをプデチゲの中でしゃぶしゃぶスタイルで味わうことができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 77,
+        "QA": 118
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_027732",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-30",
+        "domain": "음식점",
+        "title": "清水ウナギ 海南 ( 청수민물장어 해남 )"
+    },
+    "text": "清水ウナギ 海南 ( 청수민물장어 해남 )\\n\n全羅南道 海南郡 玉泉面 ヘナムロ542\\n\n活ウナギを直接さばいて料理する店です。おすすめはウナギ焼きです。全羅南道のヘナム郡に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "このお店の場所はどこですか？",
+            "answer": "このお店は全羅南道海南郡玉泉面ヘナムロ542に位置しています。"
+        },
+        {
+            "question": "このお店ではどのような料理が提供されていますか？",
+            "answer": "このお店では活ウナギを直接さばいて料理する韓国料理が提供されています。特におすすめはウナギ焼きです。"
+        },
+        {
+            "question": "このお店は何を専門としていますか？",
+            "answer": "このお店は韓国料理を専門としています。"
+        }
+    ],
+    "word_Count": {
+        "text": 74,
+        "QA": 113
+    }
+}

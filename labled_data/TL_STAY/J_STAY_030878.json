@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_030878",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42090&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "제주 징검다리펜션"
+    },
+    "text": "こんにちは、飛び石ペンションです。 飛び石橋は月亭海岸を一望できるペンションとして有名で、水平線の上に広がるエメラルド色の海と風車が調和した幻想的なビーチが特徴です。 海辺には可愛らしい椅子に座って素敵な認証ショットを撮ることができ、きれいなカフェや村のあちこちには様々な食べ物や見どころが豊富です。 また、ペンションではお知らせで夜10時以降に入室される場合は電話でご連絡ください。",
+    "QA": [
+        {
+            "question": "飛び石ペンションはどのような特徴がありますか？",
+            "answer": "飛び石ペンションは月亭海岸を一望できるペンションとして有名で、水平線の上に広がるエメラルド色の海と風車が調和した幻想的なビーチが特徴です。"
+        },
+        {
+            "question": "飛び石ペンションの周辺にはどのような見どころがありますか？",
+            "answer": "海辺には可愛らしい椅子に座って素敵な認証ショットを撮ることができ、きれいなカフェや村のあちこちには様々な食べ物や見どころが豊富です。"
+        },
+        {
+            "question": "飛び石ペンションの入室に関して何か注意事項はありますか？",
+            "answer": "ペンションではお知らせで夜10時以降に入室される場合は電話でご連絡ください。"
+        }
+    ],
+    "word_Count": {
+        "text": 140,
+        "QA": 185
+    }
+}

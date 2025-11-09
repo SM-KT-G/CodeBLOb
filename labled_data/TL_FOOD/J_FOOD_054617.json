@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_054617",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "24シチェジュヘジャングク（24시제주해장국）"
+    },
+    "text": "24シチェジュヘジャングク（24시제주해장국）\\n\n済州特別自治道 済州市 三無路 45\\n\nカムジャタンは豚肉とジャガイモで作ったピリ辛スープ料理です。代表的なメニューはカムジャタンです。済州特別自治道のジェジュ市に位置した韓食です。",
+    "QA": [
+        {
+            "question": "24シチェジュヘジャングク（24시제주해장국）はどこにありますか？",
+            "answer": "24シチェジュヘジャングク（24시제주해장국）は済州特別自治道のジェジュ市三無路45に位置しています。"
+        },
+        {
+            "question": "カムジャタンとはどのような料理ですか？",
+            "answer": "カムジャタンは豚肉とジャガイモで作ったピリ辛スープ料理です。"
+        },
+        {
+            "question": "カムジャタンの代表的なメニューは何ですか？",
+            "answer": "カムジャタンです。"
+        }
+    ],
+    "word_Count": {
+        "text": 86,
+        "QA": 119
+    }
+}

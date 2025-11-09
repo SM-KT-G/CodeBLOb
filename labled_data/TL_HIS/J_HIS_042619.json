@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_042619",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/collectionList#######",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "강가의 어린아이들"
+    },
+    "text": "川沿いの子供たち (강가의 어린아이들)\\n\n川沿いに住む子供たちが描かれています。この絵は、韓国が日本の植民地支配を受けていた時代の作品です。ガラスと宝石を使い、フィルムに記録されています。作品の大きさは横16.4cm、縦12.0cmです。",
+    "QA": [
+        {
+            "question": "この絵はどんな時代に描かれた作品ですか？",
+            "answer": "この絵は、韓国が日本の植民地支配を受けていた時代に描かれた作品です。"
+        },
+        {
+            "question": "この絵の大きさは何ですか？",
+            "answer": "この絵の大きさは横16.4cm、縦12.0cmです。"
+        },
+        {
+            "question": "この絵に使われている材料は何ですか？",
+            "answer": "この絵にはガラスと宝石が使われています。"
+        },
+        {
+            "question": "この絵は何をフィルムに記録されていますか？",
+            "answer": "この絵はフィルムに記録されています。"
+        },
+        {
+            "question": "この絵のテーマは何ですか？",
+            "answer": "この絵のテーマは川沿いに住む子供たちです。"
+        }
+    ],
+    "word_Count": {
+        "text": 88,
+        "QA": 149
+    }
+}

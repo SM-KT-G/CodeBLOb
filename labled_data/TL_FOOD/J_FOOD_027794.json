@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_027794",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-01",
+        "domain": "음식점",
+        "title": "淸河カムジャタン ( 청하감자탕 )"
+    },
+    "text": "淸河カムジャタン \n慶尚北道 安東市 テサキル 10\n地元の常連客が多い店で、料理のボリュームが自慢です。 おすすめはカムジャタンです。慶尚北道のアンドン市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "この店の名前は何ですか？",
+            "answer": "淸河カムジャタン"
+        },
+        {
+            "question": "この店はどこにありますか？",
+            "answer": "慶尚北道のアンドン市に位置しています"
+        },
+        {
+            "question": "この店の特徴は何ですか？",
+            "answer": "地元の常連客が多く、料理のボリュームが自慢です"
+        },
+        {
+            "question": "おすすめのメニューは何ですか？",
+            "answer": "カムジャタンがおすすめです"
+        }
+    ],
+    "word_Count": {
+        "text": 66,
+        "QA": 83
+    }
+}

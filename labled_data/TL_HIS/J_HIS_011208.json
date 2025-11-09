@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_011208",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=558&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=02530000&ccbaCtcd=35&ccbaCpno=2113502530000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "김제 금산사 대장전 목조삼존불상과 광배"
+    },
+    "text": "金堤金山寺大蔵殿木造三尊仏像と光背 (김제 금산사 대장전 목조삼존불상과 광배 )\\n\n全羅北道有形文化財 , 大蔵殿は本来弥勒殿創建当時に建立し弥勒殿を荘厳な正中木造塔だったが、朝鮮人造13年(1635)に再建され、再び1922年に現在の位置に移転して今日に至ったのだ。 屋根の上の現在残っている覆鉢と宝珠などは、殿下の木塔の残影であり、殿内には釈迦牟尼仏と迦葉、阿南の弟子像を奉安しており、木造三尊仏像と光背は2017年11月3日、全羅北道有形文化財第253号に指定された。",
+    "QA": [
+        {
+            "question": "金堤金山寺大蔵殿木造三尊仏像と光背は何に指定されましたか？",
+            "answer": "全羅北道有形文化財第253号に指定されました。"
+        },
+        {
+            "question": "大蔵殿はいつ再建されましたか？",
+            "answer": "朝鮮人造13年(1635)に再建されました。"
+        },
+        {
+            "question": "大蔵殿の本来の姿はどのようでしたか？",
+            "answer": "弥勒殿創建当時に建立された荘厳な正中木造塔でした。"
+        },
+        {
+            "question": "大蔵殿はいつ現在の位置に移転されましたか？",
+            "answer": "1922年に現在の位置に移転されました。"
+        },
+        {
+            "question": "大蔵殿内にはどのような仏像が奉安されていますか？",
+            "answer": "釈迦牟尼仏と迦葉、阿南の弟子像が奉安されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 176,
+        "QA": 162
+    }
+}

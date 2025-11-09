@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_029906",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/delhi-abgujeong-main-branch",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "デリー"
+    },
+    "text": "デリー\\n\nソウル特別市 江南区 彦州路 174キル 30 )\\n\nデリーは1984年狎鴎亭ロデオどおりにオープンした国内初のカレー専門店です。現在ではデリー料理文化研究所を併設し、新メニューの開発に努めています。",
+    "QA": [
+        {
+            "question": "デリーはいつオープンしましたか？",
+            "answer": "デリーは1984年にオープンしました。"
+        },
+        {
+            "question": "デリーはどこにありますか？",
+            "answer": "デリーはソウル特別市江南区彦州路174キル30にあります。"
+        },
+        {
+            "question": "デリーは何を専門としていますか？",
+            "answer": "デリーはカレーを専門としています。"
+        },
+        {
+            "question": "デリーには何が併設されていますか？",
+            "answer": "デリーにはデリー料理文化研究所が併設されています。"
+        },
+        {
+            "question": "デリーでは新メニューの開発にどのように取り組んでいますか？",
+            "answer": "デリーではデリー料理文化研究所で新メニューの開発に取り組んでいます。"
+        }
+    ],
+    "word_Count": {
+        "text": 78,
+        "QA": 157
+    }
+}

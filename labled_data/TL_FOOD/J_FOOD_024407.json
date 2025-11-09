@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_024407",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-05",
+        "domain": "음식점",
+        "title": "盈徳ズワイガニ刺身専門店 ( 영덕대게횟집 )"
+    },
+    "text": "盈徳ズワイガニ刺身専門店 ( 영덕대게횟집 )\\n\n江原道 ガンヌン市 チャンヘロ461\\n\n様々な刺身が味わえる店です。おすすめはヒラメの刺身です。江原道のガンヌン市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "この店の特徴は何ですか？",
+            "answer": "盈徳ズワイガニ刺身専門店は、様々な刺身が味わえる店です。特におすすめはヒラメの刺身です。"
+        },
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "盈徳ズワイガニ刺身専門店は江原道のガンヌン市に位置しています。具体的な住所はチャンヘロ461です。"
+        },
+        {
+            "question": "この店の料理はどのような特徴がありますか？",
+            "answer": "盈徳ズワイガニ刺身専門店は、ズワイガニを使った刺身を専門に提供しています。新鮮なヒラメの刺身もおすすめです。"
+        }
+    ],
+    "word_Count": {
+        "text": 71,
+        "QA": 141
+    }
+}

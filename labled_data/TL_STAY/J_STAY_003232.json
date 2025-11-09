@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_003232",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'http://www.otgol.kr",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "ギョムホヌ古宅"
+    },
+    "text": "ギョムホヌ古宅\\n\n大邱広域市東区オッコル路195-3\\n\n慶州崔氏の人同士が集まって暮らす村であるオッコル村の中にある韓屋宿泊施設で、250年の歴史のある古宅です。",
+    "QA": [
+        {
+            "question": "この古宅はどのような場所に位置していますか？",
+            "answer": "この古宅は大邱広域市東区オッコル路195-3に位置しています。"
+        },
+        {
+            "question": "オッコル村はどのような村ですか？",
+            "answer": "オッコル村は慶州崔氏の人同士が集まって暮らす村です。"
+        },
+        {
+            "question": "この古宅の歴史は何年くらいありますか？",
+            "answer": "この古宅の歴史は250年くらいあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 60,
+        "QA": 98
+    }
+}

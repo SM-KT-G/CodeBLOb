@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_LEI_011431",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2023-07-01",
+        "domain": "레포츠",
+        "title": "스키114"
+    },
+    "text": "ソンウリゾートの近くに位置。低価格でスキー装備やスノー装備を貸与しており、スキーと関連されたすべての用品と情報を簡単に接することができる。*開業日-2001年11月15日*ウェルリヒルリパークと距離2.5km、約3分所要。",
+    "QA": [
+        {
+            "question": "ソンウリゾートの位置はどこですか？",
+            "answer": "ソンウリゾートの近くに位置しています。"
+        },
+        {
+            "question": "ソンウリゾートはいつ開業しましたか？",
+            "answer": "2001年11月15日に開業しました。"
+        },
+        {
+            "question": "ウェルリヒルリパークまでの距離はどのくらいですか？",
+            "answer": "ウェルリヒルリパークとの距離は2.5kmで、約3分かかります。"
+        }
+    ],
+    "word_Count": {
+        "text": 81,
+        "QA": 94
+    }
+}

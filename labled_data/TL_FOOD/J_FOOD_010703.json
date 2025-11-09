@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_010703",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-02-09",
+        "domain": "음식점",
+        "title": "トスニ元祖スンデ （또순이원조순대）"
+    },
+    "text": "トスニ元祖スンデ （또순이원조순대）\\n\nソウル特別市 冠岳区 新林路59キル14\\n\n1976年に小さな屋台からはじめた「トスニ元祖スンデ」は、今ではスンデタウンで最も大きな規模を誇り、各種マスコミにもしばしば登場する多くの人々が訪れる有名店です。",
+    "QA": [
+        {
+            "question": "このお店の名前は何ですか？",
+            "answer": "トスニ元祖スンデ（또순이원조순대）"
+        },
+        {
+            "question": "このお店はどこにありますか？",
+            "answer": "ソウル特別市 冠岳区 新林路59キル14"
+        },
+        {
+            "question": "このお店はいつオープンしましたか？",
+            "answer": "1976年にオープンしました"
+        },
+        {
+            "question": "このお店はどのようなメニューを提供していますか？",
+            "answer": "スンデ（豚のもつを詰めたソーセージ）を主力としたメニューを提供しています"
+        },
+        {
+            "question": "このお店はどのような特徴がありますか？",
+            "answer": "規模が大きく、多くの人々が訪れる有名店で、マスコミにもよく登場します"
+        }
+    ],
+    "word_Count": {
+        "text": 91,
+        "QA": 152
+    }
+}

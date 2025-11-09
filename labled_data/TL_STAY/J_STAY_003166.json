@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_003166",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/goods/GN0002033967?startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0%5E&npprmaxsort=min",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "밀양 강나루하얀집펜션"
+    },
+    "text": "カンナル白い家ペンションへようこそ。 ペンションは川の水を誇る場所で、清らかできれいな川の水が前に流れ、水遊びができる環境を提供します。 ペンションでは様々な特別な経験を楽しむことができ、川を眺めながら休息を取りながら特別な思い出を作ることができます。 チェックイン時間が22時以降でしたら、予めご連絡ください。",
+    "QA": [
+        {
+            "question": "このペンションの名前は何ですか？",
+            "answer": "ペンションの名前はカンナル白い家です。"
+        },
+        {
+            "question": "ペンションの周りには何がありますか？",
+            "answer": "ペンションの周りには清らかできれいな川が流れています。"
+        },
+        {
+            "question": "ペンションではどのような経験ができますか？",
+            "answer": "ペンションでは川を眺めながら休息を取ることができます。また、水遊びも楽しむことができます。"
+        },
+        {
+            "question": "チェックイン時間が遅くなる場合はどうすればよいですか？",
+            "answer": "チェックイン時間が22時以降でしたら、予めご連絡ください。"
+        }
+    ],
+    "word_Count": {
+        "text": 114,
+        "QA": 148
+    }
+}

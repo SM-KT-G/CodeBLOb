@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_090870",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=920&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=24&ccbaAsno=00140000&ccbaCtcd=36&ccbaCpno=2443600140000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1986-02-07",
+        "domain": "문화/역사관광",
+        "title": "영암현종식가옥"
+    },
+    "text": "霊岩顕宗式家屋\\n\n全羅南道霊岩郡鶴山面鶴渓キル67(鶴渓里)\\n\n1902、全羅南道・民俗文化財、1902年に建てた韓屋瓦屋根で、元々はこの家を知ったサランチェにして隣のなヒョンヘンジュ家屋を母屋にしたのだ。知ったサランチェは屋根側面が八(八部)字形の入母屋造りであり、左から台所・大きな部屋・うち、部屋・板の間を配置した。板の間には板の間があり、これと並んで後ろにスペースがある。母屋は表6間・側面4間規模であり、hジャ型で負けた。サランチェとアンチェの間には出入り口があり、母屋はドルジュクダムが完全に囲んでいる。一般的な家屋がサランチェとアンチェは、前後に配置された反面、この家は並んで配置されているのが特徴する。",
+    "QA": [
+        {
+            "question": "この家屋はいつ建てられましたか？",
+            "answer": "1902年に建てられました。"
+        },
+        {
+            "question": "この家屋はどこに位置していますか？",
+            "answer": "全羅南道霊岩郡鶴山面鶴渓キル67(鶴渓里)に位置しています。"
+        },
+        {
+            "question": "この家屋の特徴的なデザインは何ですか？",
+            "answer": "屋根側面が八(八部)字形の入母屋造りであり、母屋は表6間・側面4間規模で、hジャ型で負けています。"
+        },
+        {
+            "question": "この家屋の間取りにはどのような配置がありますか？",
+            "answer": "左から台所・大きな部屋・うち、部屋・板の間を配置し、板の間には板の間があり、後ろにスペースがあります。"
+        },
+        {
+            "question": "この家屋と隣のなヒョンヘンジュ家屋との関係は何ですか？",
+            "answer": "元々はこの家を知ったサランチェにして隣のなヒョンヘンジュ家屋を母屋にした関係です。"
+        },
+        {
+            "question": "この家屋の周囲には何がありますか？",
+            "answer": "母屋はドルジュクダムが完全に囲んでいます。"
+        }
+    ],
+    "word_Count": {
+        "text": 228,
+        "QA": 239
+    }
+}

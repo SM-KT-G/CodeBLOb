@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001992",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-15",
+        "domain": "음식점",
+        "title": "PAULIN PANCAKE 江南(폴인팬케이크 강남)"
+    },
+    "text": "PAULIN PANCAKE 江南\\n\nソウル特別市 江南区 奉恩寺路 29\\n\nソウル特別市カンナム駅の近くに位置したカフェ（コーヒーショップ）です。代表的なメニューはスフレパンケーキです。スフレパンケーキは今韓国で人気のデザートです。",
+    "QA": [
+        {
+            "question": "パウリンパンケーキ江南はどこにありますか？",
+            "answer": "パウリンパンケーキ江南はソウル特別市江南区奉恩寺路29に位置しています。"
+        },
+        {
+            "question": "パウリンパンケーキ江南の代表的なメニューは何ですか？",
+            "answer": "パウリンパンケーキ江南の代表的なメニューはスフレパンケーキです。"
+        },
+        {
+            "question": "スフレパンケーキはどのようなデザートですか？",
+            "answer": "スフレパンケーキは今韓国で人気のデザートです。"
+        }
+    ],
+    "word_Count": {
+        "text": 87,
+        "QA": 117
+    }
+}

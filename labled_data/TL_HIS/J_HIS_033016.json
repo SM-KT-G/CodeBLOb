@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_033016",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1256&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=79&ccbaAsno=07290000&ccbaCtcd=31&ccbaCpno=4413107290000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2018-08-06",
+        "domain": "문화/역사관광",
+        "title": "파주 구 교하면사무소"
+    },
+    "text": "坡州旧交河面事務所 (파주 구 교하면사무소 )\\n\n京畿道坡州市校下路1401 (校下洞)\\n\n1950年代、国家登録文化財、朝鮮戦争後の1957年に建設された官公庁の建物で、外壁に石材を利用して仕上げた建築方法などは当時の建築的状況を示している。 また、正面玄関上部を動物模様とムクゲ模様で装飾処理したのが特徴的だ",
+    "QA": [
+        {
+            "question": "この建物はいつ建設されましたか？",
+            "answer": "この建物は1957年に建設されました。"
+        },
+        {
+            "question": "この建物はどのような建築的特徴がありますか？",
+            "answer": "この建物は外壁に石材を利用して仕上げた建築方法が特徴です。また、正面玄関上部を動物模様とムクゲ模様で装飾処理したのも特徴的です。"
+        },
+        {
+            "question": "この建物は何のために使用されていましたか？",
+            "answer": "この建物は国家登録文化財であり、朝鮮戦争後の官公庁として使用されていました。"
+        },
+        {
+            "question": "この建物の住所はどこですか？",
+            "answer": "この建物の住所は京畿道坡州市校下路1401 (校下洞)です。"
+        }
+    ],
+    "word_Count": {
+        "text": 116,
+        "QA": 164
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_050498",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=332&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=17&ccbaAsno=00860300&ccbaCtcd=37&ccbaCpno=1273700860300&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "경주교동법주"
+    },
+    "text": "国家無形文化財である慶州法酒(キョンジュ・ボプジュ)は慶州市校洞に位置したチェブジャ家で代々伝わる伝統的な酒だ。初めて競走法酒(キョンドンボプジュ)を作った人はチェグクソンだが、彼は朝鮮粛宗在位中に宮廷料理を担当する司饔院として活動したと伝えられる。チェさんの自宅の井戸水を使用して法主を作るが、この水は、量と温度が四季を通じて一定して、味がいいので有名だ。酒を作る時には水を沸かして冷やした後に使用するが、主原料は国産もち米であり、純粋な穀酒で作られている。法酒(キョンジュ・ボプジュ)は、明るく、透明なミファンセクを帯び、香りと甘み、若干の酸味が特徴だ。アルコール度数は16∼18度だ。法主の製造方法の特徴はミッスルを先に作った次にこれを踏まえつつ、第2次発酵過程を経て、酒を熟成させるということだ。このような過程によって法主製造には約100日程度がかかり、温度にのみ気を使うなら1年以上保管が可能だという。",
+    "QA": [
+        {
+            "question": "慶州法酒はどこで作られていますか？",
+            "answer": "慶州市校洞にあるチェブジャ家で作られています。"
+        },
+        {
+            "question": "競走法酒を初めて作った人は誰ですか？",
+            "answer": "競走法酒を初めて作った人はチェグクソンです。"
+        },
+        {
+            "question": "法酒の主原料は何ですか？",
+            "answer": "法酒の主原料は国産もち米です。"
+        },
+        {
+            "question": "法酒の特徴はどんなものですか？",
+            "answer": "法酒は明るく、透明なミファンセクを帯び、香りと甘み、若干の酸味が特徴です。"
+        },
+        {
+            "question": "法主製造にはどのくらいの時間がかかりますか？",
+            "answer": "法主製造には約100日程度かかります。"
+        },
+        {
+            "question": "法酒はどのくらいのアルコール度数ですか？",
+            "answer": "法酒のアルコール度数は16∼18度です。"
+        }
+    ],
+    "word_Count": {
+        "text": 297,
+        "QA": 176
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_092060",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=494&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=01580000&ccbaCtcd=33&ccbaCpno=2113301580000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1987-03-31",
+        "domain": "문화/역사관광",
+        "title": "옥천 경현당"
+    },
+    "text": "沃川慶賢堂\\n\n忠清北道沃川郡梨元面龍芳3ギル88-17(龍芳里)\\n\n忠清北道有形文化財、朝鮮時代、地方の初等教育を担当した書堂建物である。朝鮮粛宗23年(1677)に教育を実施する景賢党と祭祀が行われる龍門霊堂を共に設立したが、龍門霊堂は崩れてなくなった。ギョンヒョンダンの規模は表3間・側面2間であり、屋根は側面が人の教わる字形の切妻屋根である。右側には床、左側にはオンドル部屋がある非常に素朴な構成の家だ。オンドル部屋北側の壁には宋時烈(ソン・シヨル)の遺影を祀った龕室を置いた。その他、党内には『の試案』、『のヨンムンでダンギェジュワモク』2つの文書が保存されている。",
+    "QA": [
+        {
+            "question": "この建物は何時に建てられましたか？",
+            "answer": "景賢党は朝鮮粛宗23年(1677)に建てられました。"
+        },
+        {
+            "question": "この建物の使われていた目的は何ですか？",
+            "answer": "この建物は地方の初等教育を担当した書堂建物であり、教育を実施するために使用されていました。"
+        },
+        {
+            "question": "この建物の設立に関連する人物はいますか？",
+            "answer": "景賢党と龍門霊堂が共に設立されました。"
+        },
+        {
+            "question": "この建物にはどのような文書が保存されていますか？",
+            "answer": "『の試案』、『のヨンムンでダンギェジュワモク』2つの文書が保存されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 211,
+        "QA": 152
+    }
+}

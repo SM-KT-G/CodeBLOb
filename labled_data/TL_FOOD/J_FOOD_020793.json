@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_020793",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-05",
+        "domain": "음식점",
+        "title": "牧牛マウル ( 목우마을 )"
+    },
+    "text": "牧牛マウル ( 목우마을 )\\n\n全羅南道 順天市 ホナムギル5\\n\n地元民の行きつけの店で、焼き肉だけでなく、様々な韓国式の定食も味わえます。おすすめはサムギョプサルです。全羅南道のスンチョン市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "牧牛マウル (목우마을)は全羅南道順天市ホナムギル5にあります。"
+        },
+        {
+            "question": "どんな料理がおすすめですか？",
+            "answer": "おすすめはサムギョプサルです。"
+        },
+        {
+            "question": "この店は何の専門店ですか？",
+            "answer": "牧牛マウルは韓食専門店です。"
+        },
+        {
+            "question": "この店はどんな定食を提供していますか？",
+            "answer": "焼き肉だけでなく、様々な韓国式の定食も味わえます。"
+        },
+        {
+            "question": "この店は地元民に人気ですか？",
+            "answer": "はい、地元民の行きつけの店です。"
+        }
+    ],
+    "word_Count": {
+        "text": 81,
+        "QA": 128
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_003394",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42031&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "대구 AW호텔"
+    },
+    "text": "グリーン光のインテリアと柔らかな肌触りの原木材質の家具が安らぎを与え、忙しい日常のリフレッシュを必要とするもう一つの我が家のようなリラックスできる場所として、日常のストレスで埋もれてしまったお客様の疲れた体と心をより快適に休めるように、AWホテル客室がもう一つの幸せを見つけて差し上げます。",
+    "QA": [
+        {
+            "question": "AWホテル客室では、どのような家具が使われていますか？",
+            "answer": "AWホテル客室では、グリーン光のインテリアと柔らかな肌触りの原木材質の家具が使用されています。"
+        },
+        {
+            "question": "AWホテル客室は、どのような雰囲気を提供していますか？",
+            "answer": "AWホテル客室は、忙しい日常のリフレッシュを必要とするお客様のために、リラックスできる場所として、安らぎを与える雰囲気を提供しています。"
+        },
+        {
+            "question": "AWホテル客室は、お客様の疲れた体と心をどのように癒してくれますか？",
+            "answer": "AWホテル客室は、お客様の疲れた体と心をより快適に休めるように設計されており、もう一つの幸せを見つけて差し上げます。"
+        }
+    ],
+    "word_Count": {
+        "text": 106,
+        "QA": 191
+    }
+}

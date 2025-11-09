@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_100726",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=19&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=11&ccbaAsno=02170000&ccbaCtcd=11&ccbaCpno=1111102170000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1984-08-06",
+        "domain": "문화/역사관광",
+        "title": "정선 필 금강전도"
+    },
+    "text": "精選必金剛全図\\n\nソウル龍山区梨泰院路55キル60-16、ジャン·ジャン·ジャン(漢南洞)\\n\n朝鮮英祖10年(1734)、国宝、朝鮮後期の韓国の美しい山河を実際に見て描く真景山水画風を開いた謙斎・鄭歚(1676∼1759)が英祖10年(1734)に内金剛の姿を描いた作品だ。内金剛の実景を水墨淡彩で描いており、大きさは横94.5センチ、縦130.8センチだ。全体的に原型の構図を作っていて、上から下に見下ろした姿だ。雪に覆われた峰々は上から下にネリョグッている垂直遵法を利用して荒れ、鋭い姿で表現し、これとともに上の方には毘盧峰がそびえており、画面の中心では万瀑洞渓谷が上から下へ横切っている。岩に行われたやせた感じの峰とは対照的に左側には茂った森を成し遂げた柔らかい土山が置かれていますが、これは筆を横に寝かせて点を押す形で示した。画面の上部には絵のタイトルと共に作家の号、絵に対する感想などが書かれている。当時の山水画は主に中国山水画を描いた絵なんですが、この絵は直接韓国のシルギョンルル見て描いたものとの鄭敾が描いた金剛山(クムガンサン)絵の中でも最も大きく、彼の真景山水画風がよく現れた傑作と言える。",
+    "QA": [
+        {
+            "question": "金剛山の絵を描いたのは誰ですか？",
+            "answer": "謙斎・鄭歚(1676∼1759)が金剛山の絵を描きました。"
+        },
+        {
+            "question": "何年に金剛山の絵が描かれましたか？",
+            "answer": "英祖10年(1734)に金剛山の絵が描かれました。"
+        },
+        {
+            "question": "金剛山の絵の大きさは何ですか？",
+            "answer": "金剛山の絵の大きさは横94.5センチ、縦130.8センチです。"
+        },
+        {
+            "question": "金剛山の絵はどのような技法で描かれていますか？",
+            "answer": "金剛山の絵は水墨淡彩で描かれています。"
+        },
+        {
+            "question": "金剛山の絵に何が描かれていますか？",
+            "answer": "金剛山の絵には雪に覆われた峰々や毘盧峰、万瀑洞渓谷、茂った森などが描かれています。"
+        }
+    ],
+    "word_Count": {
+        "text": 371,
+        "QA": 170
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_008326",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "ゼウォンサムゲタン ( 제원삼계탕 )"
+    },
+    "text": "ゼウォンサムゲタン ( 제원삼계탕 )\n済州特別自治道 済州市  ジェウォンキル 16\n新鮮なアワビが入ったサムゲタンを味わえます。おすすめはサムゲタンです。済州特別自治道のジェジュ市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "ゼウォンサムゲタンはどこに位置していますか？",
+            "answer": "ゼウォンサムゲタンは済州特別自治道のジェジュ市に位置しています。"
+        },
+        {
+            "question": "ゼウォンサムゲタンのおすすめメニューは何ですか？",
+            "answer": "ゼウォンサムゲタンのおすすめはサムゲタンです。新鮮なアワビが入ったサムゲタンを味わうことができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 77,
+        "QA": 93
+    }
+}

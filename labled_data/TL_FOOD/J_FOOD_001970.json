@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001970",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2020-11-26",
+        "domain": "음식점",
+        "title": "OPPADAK 明洞2中央( 오븐에빠진닭 명동2중앙 )"
+    },
+    "text": "OPPADAK 明洞2中央( 오븐에빠진닭 명동2중앙 )\\n\nソウル特別市 中区 明洞10キル 20\\n\nオーブンで焼いたチキンが食べられる店です。おすすめはチキンです。ソウル特別市の中区に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "明洞2中央はどこに位置していますか？",
+            "answer": "オーブンに焼かれたチキンが食べられる明洞2中央は、ソウル特別市の中区に位置しています。"
+        },
+        {
+            "question": "オススメのメニューは何ですか？",
+            "answer": "オーブンに焼かれたチキンが特におすすめです。"
+        },
+        {
+            "question": "オーブンに焼かれたチキン以外にも何かメニューがありますか？",
+            "answer": "オーブンに焼かれたチキン以外にも、韓国料理専門店としてさまざまなメニューを提供しています。"
+        },
+        {
+            "question": "オーブンに焼かれたチキンはどのような味ですか？",
+            "answer": "オーブンに焼かれたチキンは、ジューシーで香ばしく、おいしい味わいです。"
+        },
+        {
+            "question": "明洞2中央には他の店舗もありますか？",
+            "answer": "明洞2中央には他の店舗はありません。"
+        }
+    ],
+    "word_Count": {
+        "text": 79,
+        "QA": 195
+    }
+}

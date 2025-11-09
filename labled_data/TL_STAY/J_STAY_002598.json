@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_002598",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42090&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "제주 오후여섯시펜션"
+    },
+    "text": "いらっしゃいませ^^　済州のオフヨソッシ（午後6時）に合わされて備えられたペンションです。 済州の午後6時に到着してもっとも快適な一日をお過ごしください。スタッフたちもベストを尽くします。 そして、22時以降に入室される場合は、事前にペンションまでご連絡をお願いします。",
+    "QA": [
+        {
+            "question": "済州のオフヨソッシ（午後6時）に合わされて備えられたペンションですか？",
+            "answer": "はい、済州のオフヨソッシ（午後6時）に合わされて備えられたペンションです。"
+        },
+        {
+            "question": "済州のオフヨソッシ（午後6時）に到着しても快適な一日を過ごすことができますか？",
+            "answer": "はい、済州のオフヨソッシ（午後6時）に到着してもっとも快適な一日を過ごすことができます。スタッフたちもベストを尽くします。"
+        },
+        {
+            "question": "22時以降に入室する場合は、事前にペンションに連絡する必要がありますか？",
+            "answer": "はい、22時以降に入室される場合は、事前にペンションまでご連絡をお願いします。"
+        }
+    ],
+    "word_Count": {
+        "text": 99,
+        "QA": 181
+    }
+}

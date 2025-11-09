@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_025941",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-01",
+        "domain": "음식점",
+        "title": "自然草カルビ ( 자연초갈비 )"
+    },
+    "text": "自然草カルビ \n釜山広域市 釜山鎮区 大学路 14-1\n豚カルビを薬草で熟成させた、手作り特大カルビを提供しています。 釜山広域市のブサンジン区に位置した韓食専門店です。代表的なメニューは特大豚カルビです。",
+    "QA": [
+        {
+            "question": "自然草カルビはどこに位置していますか？",
+            "answer": "自然草カルビは釜山広域市のブサンジン区に位置しています。"
+        },
+        {
+            "question": "自然草カルビの代表的なメニューは何ですか？",
+            "answer": "自然草カルビの代表的なメニューは特大豚カルビです。"
+        },
+        {
+            "question": "特大豚カルビはどのように作られていますか？",
+            "answer": "特大豚カルビは薬草で熟成させた後、手作りされています。"
+        },
+        {
+            "question": "自然草カルビの住所は何ですか？",
+            "answer": "自然草カルビの住所は釜山広域市釜山鎮区大学路14-1です。"
+        }
+    ],
+    "word_Count": {
+        "text": 75,
+        "QA": 135
+    }
+}

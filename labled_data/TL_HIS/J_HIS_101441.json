@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_101441",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=992&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=00410000&ccbaCtcd=33&ccbaCpno=3413300410000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2004-03-12",
+        "domain": "문화/역사관광",
+        "title": "제천 시곡리 석조여래입상"
+    },
+    "text": "高麗時代の推定、忠清北道文化財資料である堤川シゴクリ石造如来立像は状態が良好ではないのに台座と光背の破損がひどい。不信と光背は一つの石に彫刻されていて、台座はバルブブンが別に作られてすがっている。さんの顔は、プリプリたものとみられるが、ほとんど分かりあえることができない。大義はピョンダンウギョンで歌われていて腰の裾が横に広い。左手は手のひらが見えるように胸まで乗せられており、右手は指を集めて船に当てている。光背は狭いように表現されて二列のユンキソンに頭光を表現して頭光と信光の内部にはファヨムムン装飾がある。台座はボリューム感が大きなボクリョンの連火席貸しで2段の八角台があり、その上に仏像の足がついている。不信は破損がひどく、摩耗も激しいが、台座は保存状態が良好だ。彫刻技法はいいが、不信は彫刻技法が稚拙だ。様式的には統一新羅如来立像の様式に従っている。台座の連判は統一新羅の全盛期と比較すれば、様式的に衰退期に入った時期の彫刻技法を見せている。これによって制作年代は高麗初期と推定される。この作品は統一新羅時代の典型的な仏像様式化される変遷姿を見せてくれる貴重な資料である。",
+    "QA": [
+        {
+            "question": "仏像の制作年代は何年代と推定されますか？",
+            "answer": "高麗初期と推定されます。"
+        },
+        {
+            "question": "仏像の台座に何が彫刻されていますか？",
+            "answer": "台座にはバルブブンが別に作られており、仏像の足がついています。"
+        },
+        {
+            "question": "仏像の光背に何が表現されていますか？",
+            "answer": "光背には二列のユンキソンに頭光を表現し、頭光と信光の内部にはファヨムムン装飾があります。"
+        },
+        {
+            "question": "仏像の不信はどのような状態ですか？",
+            "answer": "不信は破損がひどく、摩耗も激しい状態ですが、台座は保存状態が良好です。"
+        },
+        {
+            "question": "仏像の左手と右手のポーズはどのようなものですか？",
+            "answer": "左手は手のひらが見えるように胸まで乗せられており、右手は指を集めて船に当てています。"
+        }
+    ],
+    "word_Count": {
+        "text": 360,
+        "QA": 191
+    }
+}

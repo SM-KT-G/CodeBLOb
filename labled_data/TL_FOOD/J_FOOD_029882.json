@@ -1,0 +1,31 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_029882",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/italyjae",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "ITALYJAE"
+    },
+    "text": "ITALYJAE\\n\nソウル特別市 鍾路区 栗谷路1キル74-9\\n\n趣ある昭格洞の小さな路地にある「ITALYJAE（イテリジェ）」では、リーズナブルでおいしい正統派ヴェネチア料理を楽しむことができます。",
+    "QA": [
+        {
+            "question": "ITALYJAE（イテリジェ）はどこにありますか？",
+            "answer": "ITALYJAE（イテリジェ）はソウル特別市の鍾路区にあります。具体的な住所は栗谷路1キル74-9です。"
+        },
+        {
+            "question": "ITALYJAE（イテリジェ）ではどのような料理を楽しむことができますか？",
+            "answer": "ITALYJAE（イテリジェ）では正統派ヴェネチア料理をリーズナブルな価格で楽しむことができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 75,
+        "QA": 119
+    }
+}

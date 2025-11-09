@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_022423",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42020&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "남해 바다아이풀빌라"
+    },
+    "text": "思い出を作ることができる南海・海アイペンションでは、幸せ、愛、楽しさを記憶することができます。 1チームは客室2つ以上の予約はできず、児童/幼児は101号と102号で最大人数内に無料で追加されることがあります。 また、22時以降に入室される場合は、事前にペンションまでご連絡ください。 \".",
+    "QA": [
+        {
+            "question": "南海・海アイペンションでは何を記憶することができますか？",
+            "answer": "幸せ、愛、楽しさを記憶することができます。"
+        },
+        {
+            "question": "1チームは何部屋まで予約できますか？",
+            "answer": "1チームは客室2つ以上の予約はできません。"
+        },
+        {
+            "question": "児童/幼児の追加料金はかかりますか？",
+            "answer": "児童/幼児は101号と102号で最大人数内に無料で追加されることがあります。"
+        },
+        {
+            "question": "22時以降に入室する場合はどうすればよいですか？",
+            "answer": "22時以降に入室される場合は、事前にペンションまでご連絡ください。"
+        }
+    ],
+    "word_Count": {
+        "text": 106,
+        "QA": 147
+    }
+}

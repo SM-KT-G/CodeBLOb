@@ -1,0 +1,51 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_034804",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://kr.hotels.com/ho1562952288/silloamsseonihilpensyeon-gapyeong-hangug/?chkin=2023-11-14&chkout=2023-11-15&x_pwa=1&rfrr=HSR&pwa_ts=1698704070047&referrerUrl=aHR0cHM6Ly9rci5ob3RlbHMuY29tL0hvdGVsLVNlYXJjaA%3D%3D&useRewards=false&rm1=a2&regionId=6336045&destination=%EB%82%A8%EC%96%91%EC%A3%BC%2C+%EA%B2%BD%EA%B8%B0%2C+%ED%95%9C%EA%B5%AD&destType=MARKET&latLong=37.662991%2C127.243037&sort=RECOMMENDED&top_dp=100000&top_cur=KRW&userIntent=&selectedRoomType=230130971&selectedRatePlan=274312917&expediaPropertyId=48811009&searchId=99176526-d4db-4bb4-a6f9-4f9cb258dfa2",
+        "collectedDate": "2023-11-15",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "실로암써니힐펜션"
+    },
+    "text": "シロアムサニーヒルペンション\\n\n大韓民国京畿道加平郡小さなメゴルキル14-16\\n\nシロアムサニーヒルペンションは南怡島から近い距離に位置しています。 ペンションでは屋外プールを提供し、無料WiFiとセルフ駐車も可能です。 アパートにはキッチンとLED TVがあり、リラックスできます。 チェックイン時間は午後3時から始まり、午後10時までで、チェックアウト時間は午前11時です。 チェックインの際には付帯費用のためにクレジットカード、デビットカード、または現金保証金が必要であり、政府発行の身分証明書に写真が貼られていなければなりません。 ベビーベッドは提供されておらず、ペットと一緒に宿泊することはできません。 無料WiFiが提供され、インターネットを自由に利用できます。",
+    "QA": [
+        {
+            "question": "シロアムサニーヒルペンションはどこに位置していますか？",
+            "answer": "シロアムサニーヒルペンションは南怡島から近い距離に位置しています。"
+        },
+        {
+            "question": "シロアムサニーヒルペンションでは何が提供されますか？",
+            "answer": "シロアムサニーヒルペンションでは屋外プールを提供し、無料WiFiとセルフ駐車も可能です。"
+        },
+        {
+            "question": "チェックイン時間とチェックアウト時間は何時ですか？",
+            "answer": "チェックイン時間は午後3時から始まり、午後10時までで、チェックアウト時間は午前11時です。"
+        },
+        {
+            "question": "チェックインの際に必要なものは何ですか？",
+            "answer": "チェックインの際には付帯費用のためにクレジットカード、デビットカード、または現金保証金が必要であり、政府発行の身分証明書に写真が貼られていなければなりません。"
+        },
+        {
+            "question": "ペンションで利用できるベビーベッドはありますか？",
+            "answer": "ベビーベッドは提供されておらず、利用することはできません。"
+        },
+        {
+            "question": "ペットと一緒に宿泊することはできますか？",
+            "answer": "ペットと一緒に宿泊することはできません。"
+        },
+        {
+            "question": "ペンションで利用できる無料WiFiはありますか？",
+            "answer": "はい、無料WiFiが提供され、インターネットを自由に利用できます。"
+        }
+    ],
+    "word_Count": {
+        "text": 248,
+        "QA": 330
+    }
+}

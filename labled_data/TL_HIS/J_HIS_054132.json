@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_054132",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/view?relicId=108795",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "글자를 새긴 수키와 조각32"
+    },
+    "text": "文字を刻んだ圓瓦片 (글자를 새긴 수키와 조각)\\n\n瓦には「松岳海銘文」が丁寧に彫り込まれていました。この瓦は、現在の開城（ケソン）という場所で使用されていた瓦で、韓国の統一新羅時代に使われていたものです。瓦は土でできており、主に建築の屋根材として使用されていました。そのサイズは現在、幅122cm、長さ194cmです。",
+    "QA": [
+        {
+            "question": "この瓦はどの時代に使用されていたものですか？",
+            "answer": "この瓦は統一新羅時代に使用されていました。"
+        },
+        {
+            "question": "瓦は何でできていますか？",
+            "answer": "瓦は土でできています。"
+        },
+        {
+            "question": "この瓦はどのように使用されていましたか？",
+            "answer": "この瓦は主に建築の屋根材として使用されていました。"
+        },
+        {
+            "question": "この瓦のサイズは何ですか？",
+            "answer": "現在のサイズは幅122cm、長さ194cmです。"
+        }
+    ],
+    "word_Count": {
+        "text": 118,
+        "QA": 108
+    }
+}

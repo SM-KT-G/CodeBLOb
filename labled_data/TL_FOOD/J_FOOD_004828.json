@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_004828",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "ガンハン食堂 ( 강한식당 )"
+    },
+    "text": "ガンハン食堂 ( 강한식당 )\nソウル特別市 ヨンドゥンポ区 デリムロ23ギル30\nユニークで各種中華料理を提供している店です。おすすめは水餃子です。ソウル特別市のヨンドゥンポ区に位置した中華専門店です。",
+    "QA": [
+        {
+            "question": "ガンハン食堂はどこにありますか？",
+            "answer": "ガンハン食堂はソウル特別市のヨンドゥンポ区に位置しています。"
+        },
+        {
+            "question": "ガンハン食堂のおすすめ料理は何ですか？",
+            "answer": "ガンハン食堂のおすすめは水餃子です。"
+        },
+        {
+            "question": "ガンハン食堂はどのような料理を提供していますか？",
+            "answer": "ガンハン食堂はユニークで各種中華料理を提供しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 74,
+        "QA": 98
+    }
+}

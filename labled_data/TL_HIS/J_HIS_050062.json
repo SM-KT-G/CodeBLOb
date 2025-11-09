@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_050062",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=110&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=09070000&ccbaCtcd=37&ccbaCpno=1123709070000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1987-03-09",
+        "domain": "문화/역사관광",
+        "title": "경주 남사리 삼층석탑"
+    },
+    "text": "統一新羅時代の9世紀、宝物、名もなき旧寺跡に残っている塔で、2段の基壇の上に3階建ての塔身が置かれています。1975年に補修されましたが、この時、上の階の基壇の北側の中央に石を新たに補充しただけで、ほとんどは本来の姿のまま残っています。下の階の基壇は下の石·中の石·一番上の石をすべてくっつけて4枚の石で構成されており、中の石の角と四面に柱状を模して刻まれています上の階の基壇にも、以下のように柱状の彫刻が施されています。塔身でもやはり石の四隅に柱を模して刻まれています。屋根石は四隅からのつり上げが大きく、塔全体に軽快な印象を与えており、底面の支えはそれぞれ4段ずつです。頂上には頭飾りを支えていた四角い台石だけが残っています。基壇部の繊細な彫刻と完璧さに比べ、塔身の装飾が形式化されている面が",
+    "QA": [
+        {
+            "question": "この塔はいつ建てられましたか？",
+            "answer": "この塔は統一新羅時代の9世紀に建てられました。"
+        },
+        {
+            "question": "この塔はどのような形状をしていますか？",
+            "answer": "この塔は2段の基壇の上に3階建ての塔身があります。"
+        },
+        {
+            "question": "この塔はどのように修復されましたか？",
+            "answer": "この塔は1975年に補修され、上の階の基壇の北側の中央に石を新たに補充しましたが、ほとんどは本来の姿のまま残っています。"
+        },
+        {
+            "question": "基壇部の彫刻はどのような特徴がありますか？",
+            "answer": "基壇部の繊細な彫刻は完璧であり、特に中の石の角と四面に柱状を模して刻まれています。"
+        },
+        {
+            "question": "塔身の装飾はどのような特徴がありますか？",
+            "answer": "塔身の装飾は形式化されており、石の四隅に柱を模して刻まれています。屋根石は四隅からのつり上げが大きく、塔全体に軽快な印象を与えています。"
+        },
+        {
+            "question": "塔の頂上には何があるのですか？",
+            "answer": "塔の頂上には頭飾りを支えていた四角い台石が残っています。"
+        }
+    ],
+    "word_Count": {
+        "text": 255,
+        "QA": 258
+    }
+}

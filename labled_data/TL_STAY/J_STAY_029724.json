@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_029724",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42040&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "순천만 S호텔"
+    },
+    "text": "順天駅から近い位置にあるこのホテルはアクセスが優れています。 空間配置がシンプルでモダンで洗練されたインテリアが目を引くここは、居心地の良い休息空間を提供します。 順天旅行客に最適化されたホテルで、順天湾庭園、ワオン海辺、楽安邑城、仙岩寺などにも隣接しています。",
+    "QA": [
+        {
+            "question": "このホテルはどのくらいの距離にありますか？",
+            "answer": "順天駅から近い位置にあります。"
+        },
+        {
+            "question": "このホテルのインテリアはどんな感じですか？",
+            "answer": "シンプルでモダンで洗練されたインテリアです。"
+        },
+        {
+            "question": "このホテルはどのような休息空間を提供していますか？",
+            "answer": "居心地の良い休息空間を提供しています。"
+        },
+        {
+            "question": "このホテルはどのような旅行客に最適ですか？",
+            "answer": "順天旅行客に最適化されたホテルです。"
+        },
+        {
+            "question": "このホテルの近くにどんな観光地がありますか？",
+            "answer": "順天湾庭園、ワオン海辺、楽安邑城、仙岩寺などが隣接しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 96,
+        "QA": 157
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_023347",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=132&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=11490000&ccbaCtcd=31&ccbaCpno=1123111490000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1993-01-15",
+        "domain": "문화/역사관광",
+        "title": "신간표제공자가어구해"
+    },
+    "text": "新刊表提供者が語句して (신간표제공자가어구해)\\n\n京畿道龍仁市処仁区鳴旨路116、博物館(南東)\\n\n宝物 , 孔子が当時の公卿士大夫および72人の弟子たちと問答したもののうち、『論語』に編入されたものを除いて色々な書籍を集めて記録したものに元の王光謨が各章別に題名を付けて詳しく解説したものを付けたもので、パク·ウニ江陵監営で刊行した。 朴恩（パク·ウン、1370~1422）は朝鮮建国後、太祖7年（1398）の第1次王子の乱と正宗2年（1400）の第2次王子の乱の時、李芳遠（イ·バンウォン）を助けて功績を立てた人物だ。 この本はパク·ウンが江原道観察出尺士に任命されて赴任した時、この本が韓国に刊行されていないことを知り、そこで翻刻(一度刻んだ本版などを手本に再び刻んだ)したものだ。 この本版は朝鮮前期の地方官が主導して作った版本としては比較的精巧で、朝鮮前期の出版文化史研究に必要な資料と評価される。",
+    "QA": [
+        {
+            "question": "この本はどのような内容ですか？",
+            "answer": "この本は、孔子が公卿士大夫や弟子たちとの問答の中で『論語』に編入されなかったものを集め、王光謨が題名を付けて解説した書籍です。"
+        },
+        {
+            "question": "この本を刊行した人物について教えてください。",
+            "answer": "この本は朴恩（パク·ウン）が江陵監営で刊行しました。朴恩は朝鮮建国後の太祖7年と正宗2年の王子の乱で功績を立てた人物です。"
+        },
+        {
+            "question": "なぜ朴恩はこの本を翻刻することになったのですか？",
+            "answer": "朴恩は江原道観察出尺士に任命されて赴任した際、この本が韓国に刊行されていないことを知り、翻刻することになりました。"
+        },
+        {
+            "question": "この本版はどのような評価を受けていますか？",
+            "answer": "この本版は朝鮮前期の地方官が主導して作られたもので、比較的精巧な版本として評価され、朝鮮前期の出版文化史研究に必要な資料とされています。"
+        }
+    ],
+    "word_Count": {
+        "text": 298,
+        "QA": 242
+    }
+}

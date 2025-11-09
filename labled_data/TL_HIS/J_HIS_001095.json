@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_001095",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/culture/the-arc",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "The ARC"
+    },
+    "text": "The ARC\\n\n大邱広域市 達城郡 多斯邑 カンジョンホンキル57\\n\nThe ARCは幾何学的なアプローチの建築物兼芸術品で、Architecture of River Culture及びArtistry of River Cultureを意味しています。水という共通テーマで観覧客と複合演出空間がひとつの芸術作品として完成されるように構成された、モダンでありながらシンプルなデザインの内部はインテリアのコンセプトと調和した 地下1階の展示空間とアートギャラリー、1階と2階に設けられた水をテーマにした巨大なサークル映像劇場、周辺の自然環境を鑑賞できる3階建て展望台など見所がたくさんあります。",
+    "QA": [
+        {
+            "question": "The ARCはどんな建築物ですか？",
+            "answer": "The ARCは幾何学的なアプローチの建築物兼芸術品で、Architecture of River Culture及びArtistry of River Cultureを意味しています。"
+        },
+        {
+            "question": "The ARCの内部にはどんな空間がありますか？",
+            "answer": "The ARCの内部には地下1階の展示空間とアートギャラリー、1階と2階に設けられた水をテーマにした巨大なサークル映像劇場、周辺の自然環境を鑑賞できる3階建て展望台などがあります。"
+        },
+        {
+            "question": "The ARCはどのようなコンセプトで設計されていますか？",
+            "answer": "The ARCは水という共通テーマで観覧客と複合演出空間がひとつの芸術作品として完成されるように構成されています。"
+        },
+        {
+            "question": "The ARCのデザインはどのような特徴がありますか？",
+            "answer": "The ARCのデザインはモダンでありながらシンプルなデザインで、インテリアのコンセプトと調和しています。"
+        },
+        {
+            "question": "The ARCの周辺環境はどのように楽しめますか？",
+            "answer": "The ARCの周辺には自然環境を鑑賞できる3階建て展望台があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 220,
+        "QA": 330
+    }
+}

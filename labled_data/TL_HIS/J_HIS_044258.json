@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_044258",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1085&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=01910000&ccbaCtcd=38&ccbaCpno=3413801910000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1992-10-21",
+        "domain": "문화/역사관광",
+        "title": "거창 오례사"
+    },
+    "text": "1870年に建てられたオリェ士は、慶尚南道文化財資料として百村金ムンギ先生の学問と徳行を追悼してこれを継承しようと建てられたところだ。金ムンギ先生は世宗8年に及第し、様々な官職を経たが、死六臣とともに断種復位を図った事件によって犠牲となった。その後、英祖(ヨンジョ)7年にボクグヮンなり、英祖33年に忠義という諡号を受けた。オリェ士は金ムンギ先生の子孫によって1870年に建設され、1994年に大幅に補修された。オリェ会社にはウェサムムン、チュウォンジェ、内三門、祠堂があり、祠堂は前面3間・側面2間規模で建てられており、祠堂屋根は側面から人因子を作った切妻屋根である。チュウォンジェは表4間・側面2間に建てられており、チュウォンジェ屋根は側面から八の字型の入母屋屋根で構成されている。",
+    "QA": [
+        {
+            "question": "オリェ士はいつ建てられましたか？",
+            "answer": "オリェ士は1870年に建てられました。"
+        },
+        {
+            "question": "オリェ士は誰のために建てられましたか？",
+            "answer": "オリェ士は金ムンギ先生の学問と徳行を追悼して建てられました。"
+        },
+        {
+            "question": "金ムンギ先生はどのような人物ですか？",
+            "answer": "金ムンギ先生は世宗8年に及第し、様々な官職を経験したが、断種復位を図った事件によって犠牲となりました。その後、ボクグヮンと忠義という諡号を受けました。"
+        },
+        {
+            "question": "オリェ士にはどのような建物がありますか？",
+            "answer": "オリェ士にはウェサムムン、チュウォンジェ、内三門、祠堂があります。"
+        },
+        {
+            "question": "チュウォンジェの屋根はどのような形をしていますか？",
+            "answer": "チュウォンジェの屋根は側面から八の字型の入母屋屋根で構成されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 251,
+        "QA": 212
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_014248",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-05",
+        "domain": "음식점",
+        "title": "ミラク ( 미락 )"
+    },
+    "text": "ミラク ( 미락 )\\n\nソウル特別市 江西区 ファゴクロ15ギル10\\n\n韓国のグルメ番組で紹介された27年の伝統をもつ名店です。おすすめは牛のともばら肉です。ソウル特別市のガンソ区に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "ミラクはどこに位置していますか？",
+            "answer": "ミラクはソウル特別市江西区ファゴクロ15ギル10に位置しています。"
+        },
+        {
+            "question": "ミラクは何年の伝統を持っていますか？",
+            "answer": "ミラクは27年の伝統を持っています。"
+        },
+        {
+            "question": "ミラクのおすすめ料理は何ですか？",
+            "answer": "ミラクのおすすめ料理は牛のともばら肉です。"
+        },
+        {
+            "question": "ミラクはどのような店ですか？",
+            "answer": "ミラクは韓食専門店で、ソウル特別市のガンソ区に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 77,
+        "QA": 122
+    }
+}

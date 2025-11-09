@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_010018",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2023-03-02",
+        "domain": "문화/역사관광",
+        "title": "国立古宮博物館（국립고궁박물관）"
+    },
+    "text": "国立古宮博物館（국립고궁박물관）\\n\nソウル特別市チョンノ区ヒョジャロ12\\n\n国立古宮博物館は朝鮮王室の歴史と文化を感じることのできる約4万点の文化財を所蔵しており、展示空間では格調高い王宮の宝物を見ることができます。",
+    "QA": [
+        {
+            "question": "国立古宮博物館はどこにありますか？",
+            "answer": "国立古宮博物館はソウル特別市チョンノ区ヒョジャロ12にあります。"
+        },
+        {
+            "question": "国立古宮博物館には何が展示されていますか？",
+            "answer": "国立古宮博物館には朝鮮王室の歴史と文化を感じることのできる約4万点の文化財が展示されています。"
+        },
+        {
+            "question": "国立古宮博物館の展示空間では何を見ることができますか？",
+            "answer": "国立古宮博物館の展示空間では格調高い王宮の宝物を見ることができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 80,
+        "QA": 130
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_024890",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-01",
+        "domain": "음식점",
+        "title": "牛角庭院 ( 우각정원 )"
+    },
+    "text": "牛角庭院 \n京畿道 平沢市 バンヘドンキル 76-7\n団体での飲み会などに最適なお店です。おすすめは霜降り韓牛ロースです。京畿道のピョンテク市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "牛角庭院はどこに位置していますか？",
+            "answer": "牛角庭院は京畿道平沢市バンヘドンキル76-7に位置しています。"
+        },
+        {
+            "question": "牛角庭院はどのようなお店ですか？",
+            "answer": "牛角庭院は韓食専門店で、団体での飲み会などに最適なお店です。"
+        },
+        {
+            "question": "おすすめのメニューはありますか？",
+            "answer": "牛角庭院のおすすめは霜降り韓牛ロースです。"
+        },
+        {
+            "question": "牛角庭院はどの市に位置していますか？",
+            "answer": "牛角庭院は京畿道の平沢市に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 61,
+        "QA": 124
+    }
+}

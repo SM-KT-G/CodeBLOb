@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_109699",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=122&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=10390000&ccbaCtcd=11&ccbaCpno=1121110390000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1990-05-21",
+        "domain": "문화/역사관광",
+        "title": "청자 상감모란문 발우 및 접시"
+    },
+    "text": "青磁象嵌牡丹文の鉢雨及び皿\\n\nソウル特別市龍山区西氷庫路137(龍山洞6街、ジャン·ジャン)\\n\n宝物、高麗時代に作られた高さ4.4∼7.3センチ、口直径16.1∼18.9センチ、ミッジルム5.9∼6.1センチの仏鉢3点と高さ12.9センチ、口直径14センチ、ミッジルム5.7センチの元皿1点だ。仏鉢は、仏教では使用していた食器を指す言葉であり、大きさがどんどん小さく聞こえて重ねて入れられる形式になっている。私は皿は口部分が外に水平に近く折れた形の皿に、仏鉢3点と一緒に1セットを成している。模様を見ると、仏鉢は、内側の底に菊が象嵌されていて、側面には牡丹3本が自然な形で細密な部分まで描写されている。外側は唇の部分に稲妻模様がベクサンガムなり、側面全体に花模様、蔓の模様がベクサンガムなっている。私は皿は内側の底にグクファムンがあり、側面に牡丹を4輪描いた。その他にはバルウと似ている。4点、すべて同じ質と文様、形式なので、同じ時期に作られたものとみられる。",
+    "QA": [
+        {
+            "question": "これらの仏鉢と皿は何時代に作られましたか？",
+            "answer": "高麗時代に作られました。"
+        },
+        {
+            "question": "仏鉢と皿の材質は何ですか？",
+            "answer": "青磁です。"
+        },
+        {
+            "question": "仏鉢と皿の大きさはどのくらいですか？",
+            "answer": "仏鉢は高さ4.4∼7.3センチ、口直径16.1∼18.9センチ、ミッジルム5.9∼6.1センチで、皿は高さ12.9センチ、口直径14センチ、ミッジルム5.7センチです。"
+        },
+        {
+            "question": "仏鉢と皿にはどんな模様がありますか？",
+            "answer": "仏鉢には内側の底に菊が象嵌されており、側面には自然な形で細密な部分まで描写された牡丹が3本あります。外側には唇の部分に稲妻模様があり、側面全体に花模様や蔓の模様が描かれています。皿には内側の底にグクファムンがあり、側面に牡丹を4輪描かれています。"
+        },
+        {
+            "question": "仏鉢と皿は同じ時期に作られたものですか？",
+            "answer": "はい、同じ時期に作られたものとみられます。"
+        }
+    ],
+    "word_Count": {
+        "text": 316,
+        "QA": 245
+    }
+}

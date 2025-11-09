@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_008873",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2020-01-31",
+        "domain": "자연관광",
+        "title": "毎勿島（매물도）"
+    },
+    "text": "毎勿島（매물도）\\n\n慶尚南道 統営市 閑山面 毎勿島デハンキル 一帯\\n\n「毎勿島（メムルド）」は統営市閑山面每竹里に属する大毎勿島（テメムルド）、小毎勿島（ソメムルド）、灯台島（トゥンデド）の3つの島からなっています。本島である大毎勿島は面積が2.51平方キロメートルしかない小さな島で、小毎勿島、灯台島は海岸の切り立った岩が壮観です。",
+    "QA": [
+        {
+            "question": "毎勿島はどの市のどの面にありますか？",
+            "answer": "毎勿島は統営市閑山面にあります。"
+        },
+        {
+            "question": "毎勿島はどのような島で構成されていますか？",
+            "answer": "毎勿島は大毎勿島、小毎勿島、灯台島の3つの島からなっています。"
+        },
+        {
+            "question": "大毎勿島の面積はどのくらいですか？",
+            "answer": "大毎勿島の面積は2.51平方キロメートルです。"
+        },
+        {
+            "question": "小毎勿島と灯台島はどのような景色が見られますか？",
+            "answer": "小毎勿島と灯台島では海岸の切り立った岩が壮観に見られます。"
+        }
+    ],
+    "word_Count": {
+        "text": 124,
+        "QA": 131
+    }
+}

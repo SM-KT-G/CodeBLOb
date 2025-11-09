@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_060796",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2023-08-16",
+        "domain": "음식점",
+        "title": "궁전"
+    },
+    "text": "宮殿 (궁전)\\n\n全羅北道群山市クヨン6ギル71\\n\n私たちの店は太刀魚の煮付けの専門店として、20年の伝統を誇っています。当店の代表的なメニューは、新鮮な国産タチウオを使用したピリ辛料理です。この料理は、生臭さがなく、好き嫌いを問わず、誰もが楽しめる味です。また、太刀魚定食やパクテグイなども味わうことができます。",
+    "QA": [
+        {
+            "question": "宮殿の場所はどこですか？",
+            "answer": "全羅北道群山市クヨン6ギル71"
+        },
+        {
+            "question": "宮殿のメニューには何がありますか？",
+            "answer": "太刀魚の煮付けや太刀魚定食、パクテグイなどがあります。"
+        },
+        {
+            "question": "太刀魚の煮付けの特徴は何ですか？",
+            "answer": "新鮮な国産タチウオを使用し、生臭さがなく、ピリ辛な味わいです。"
+        },
+        {
+            "question": "太刀魚の煮付けはどんな人におすすめですか？",
+            "answer": "好き嫌いを問わず、誰もが楽しめる味ですので、どなたにもおすすめです。"
+        }
+    ],
+    "word_Count": {
+        "text": 116,
+        "QA": 126
+    }
+}

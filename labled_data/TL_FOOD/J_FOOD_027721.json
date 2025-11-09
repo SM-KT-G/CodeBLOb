@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_027721",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-06",
+        "domain": "음식점",
+        "title": "青松イカ刺し ( 청송산오징어 )"
+    },
+    "text": "青松イカ刺し ( 청송산오징어 )\\n\nソウル特別市 冠岳区 ナムヒョン1ギル8\\n\n会社員の飲み会や団体でのお集まりにぴったりの店です。代表的なメニューはイカ刺しです。ソウル特別市のグァンアク区に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "青松イカ刺しはどんな場所に位置していますか？",
+            "answer": "青松イカ刺しはソウル特別市のグァンアク区に位置しています。"
+        },
+        {
+            "question": "青松イカ刺しの代表的なメニューは何ですか？",
+            "answer": "青松イカ刺しの代表的なメニューはイカ刺しです。"
+        },
+        {
+            "question": "青松イカ刺しはどんなお集まりにぴったりですか？",
+            "answer": "青松イカ刺しは会社員の飲み会や団体でのお集まりにぴったりの店です。"
+        }
+    ],
+    "word_Count": {
+        "text": 81,
+        "QA": 110
+    }
+}

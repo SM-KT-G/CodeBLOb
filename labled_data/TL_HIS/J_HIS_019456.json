@@ -1,0 +1,55 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_019456",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=385&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=00210000&ccbaCtcd=34&ccbaCpno=2113400210000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1973-12-26",
+        "domain": "문화/역사관광",
+        "title": "부여세탑리오층석탑"
+    },
+    "text": "扶余セタリ五階石塔 (부여세탑리오층석탑)\\n\n忠清南道扶余郡草村面セタプ里312-1ほか\\n\n高麗時代の推定 , 忠清南道有形文化財 , 塔が立っている跡の周辺には清涼寺という寺があったといい、随所に寺を成す建物に使われた石と瓦礫が散らばっている。 塔の周囲に高さ1mほどの石垣を積み、基壇部はほとんど見えず、一番上の石だけが現れており、その上に5階の塔身が載せられている。 塔身の各層の石は角ごとに柱の形を刻み、2階以上は1階に比べて急激に低くなった。 屋根石は底面の支えが3段ずつで、四隅は少し聞こえている。 頂上には露盤(頭飾り台)と伏鉢(ひっくり返した器形の装飾)だけが残って頭飾りをしているが、後代に作って補充したものだ。 上に上がるほど塔身の石の高さを低くし、屋根石の幅は少しずつ減って安定した姿を見せる。 高麗時代に作られたものと推定される。",
+    "QA": [
+        {
+            "question": "この石塔はどの時代に建てられましたか？",
+            "answer": "この石塔は高麗時代に建てられたと推定されています。"
+        },
+        {
+            "question": "塔の周辺には何という寺があったのでしょうか？",
+            "answer": "塔の周辺には清涼寺という寺があったと伝えられており、そこに使われた石と瓦礫が散らばっています。"
+        },
+        {
+            "question": "塔の基壇部は見えないのですか？",
+            "answer": "塔の基壇部はほとんど見えず、一番上の石だけが現れています。"
+        },
+        {
+            "question": "塔身の各層の石にはどのような形が刻まれていますか？",
+            "answer": "塔身の各層の石は角ごとに柱の形が刻まれています。"
+        },
+        {
+            "question": "塔の屋根石はどのような構造ですか？",
+            "answer": "塔の屋根石は底面の支えが3段ずつで、四隅は少し聞こえています。"
+        },
+        {
+            "question": "塔の頂上には何が残っていますか？",
+            "answer": "塔の頂上には露盤（頭飾り台）と伏鉢（ひっくり返した器形の装飾）が残っており、頭飾りをしていますが、後代に補充されたものです。"
+        },
+        {
+            "question": "塔は何階建てですか？",
+            "answer": "塔は5階建てです。"
+        },
+        {
+            "question": "塔の建設に使用された石はどのような特徴がありますか？",
+            "answer": "塔の建設に使用された石は上に上がるほど高さが低くなり、屋根石の幅も少しずつ減って安定した姿を見せています。"
+        }
+    ],
+    "word_Count": {
+        "text": 277,
+        "QA": 315
+    }
+}

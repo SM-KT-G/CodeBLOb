@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_059011",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.goodchoice.kr/product/detail?ano=55228&adcno=1&sel_date=2023-11-07&sel_date2=2023-11-08",
+        "collectedDate": "2023-11-15",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "청송 S"
+    },
+    "text": "駐車場情報:駐車施設を保有している宿泊施設です。 )周辺情報:青松農村休養団地まで車で約1分、計52mの距離です。 青松お土産コッドル展示場まで車で約3分、計743mの距離です。 現代万景ガソリンスタンドまで車で約3分、合計0.02キロの距離です。 元湯薬水場まで車で約5分、合計0.54kmの距離です。",
+    "QA": [
+        {
+            "question": "駐車場はありますか？",
+            "answer": "はい、駐車場を完備しております。"
+        },
+        {
+            "question": "青松農村休養団地へのアクセスはどうですか？",
+            "answer": "車で約1分、計52mの距離です。"
+        },
+        {
+            "question": "青松お土産コッドル展示場へのアクセスはどうですか？",
+            "answer": "車で約3分、計743mの距離です。"
+        },
+        {
+            "question": "現代万景ガソリンスタンドへのアクセスはどうですか？",
+            "answer": "車で約3分、合計0.02キロの距離です。"
+        },
+        {
+            "question": "元湯薬水場へのアクセスはどうですか？",
+            "answer": "車で約5分、合計0.54kmの距離です。"
+        }
+    ],
+    "word_Count": {
+        "text": 111,
+        "QA": 137
+    }
+}

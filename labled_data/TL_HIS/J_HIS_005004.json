@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_005004",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=804&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=00420000&ccbaCtcd=50&ccbaCpno=2333900420000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1990-05-30",
+        "domain": "문화/역사관광",
+        "title": "북촌리선사주거지유적"
+    },
+    "text": "プクチョンリ(北村里)·ジャブ遺跡 (북촌리선사주거지유적)\\n\n済州市朝天邑北村里275番地\\n\n済州特別自治道記念物 , 先史時代の遺跡で、済州島の火山活動によってできた洞窟をそのまま利用した代表的な家の跡だ。 ここでは「コドゥギオンドク」と呼ばれるが、オンドクとは岩陰の下を意味する言葉で、陰の部分が生活空間になったことを意味する。 岩の下の日陰は前面の幅が11m、高さ2.5m、長さ3mで、日当たりの良い南向きに入口を置き、洞窟の中に入ると大きな岩で構成された平坦なところが広がっており、雑石を敷いて均等に作った部分があるが、雑石を敷いておいたところで木炭と土器、製粉用石器、貝殻、木の実などを発見した。 ここでは様々な時期の文化層が発見された。 一番底層からは新石器時代後期の変形櫛目文土器が出土し、古くから居住していたことが分かり、以後青銅器時代、耽羅時代につながり一時的な家跡として利用されたものと見られる。",
+    "QA": [
+        {
+            "question": "北村里·ジャブ遺跡は何時代の遺跡ですか？",
+            "answer": "北村里·ジャブ遺跡は先史時代の遺跡です。"
+        },
+        {
+            "question": "北村里·ジャブ遺跡はどのような家の跡ですか？",
+            "answer": "北村里·ジャブ遺跡は済州島の火山活動によってできた洞窟をそのまま利用した代表的な家の跡です。"
+        },
+        {
+            "question": "北村里·ジャブ遺跡の家の中はどのようになっていますか？",
+            "answer": "北村里·ジャブ遺跡の家の中は大きな岩で構成された平坦なところが広がっており、雑石を敷いて均等に作られています。"
+        },
+        {
+            "question": "北村里·ジャブ遺跡で発見されたものは何ですか？",
+            "answer": "北村里·ジャブ遺跡では木炭と土器、製粉用石器、貝殻、木の実などが発見されました。"
+        },
+        {
+            "question": "北村里·ジャブ遺跡は何時期の文化層が発見されたのですか？",
+            "answer": "北村里·ジャブ遺跡では新石器時代後期から青銅器時代、耽羅時代までの様々な時期の文化層が発見されました。"
+        }
+    ],
+    "word_Count": {
+        "text": 301,
+        "QA": 243
+    }
+}

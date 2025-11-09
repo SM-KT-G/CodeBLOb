@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_026530",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42090&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "제주 비치 호텔 W"
+    },
+    "text": "済州·ギャンの近くに位置する済州ビーチホテルWはオーシャンビューの客室で、リラックスできる場所です。 宿泊客には生ビールが飲み放題で、より楽しい時間を過ごすことができます。 この特別な特典は2023年9月23日から終了時まで適用され、午後6時から10時までホテル1階ロビーでテイクアウトでご利用いただけます。",
+    "QA": [
+        {
+            "question": "済州ビーチホテルWはどこに位置していますか？",
+            "answer": "済州ビーチホテルWは済州·ギャンの近くに位置しています。"
+        },
+        {
+            "question": "済州ビーチホテルWの客室はどのような特長がありますか？",
+            "answer": "済州ビーチホテルWの客室はオーシャンビューで、リラックスできる場所です。"
+        },
+        {
+            "question": "済州ビーチホテルWで飲み放題の特典はいつからいつまで利用できますか？",
+            "answer": "済州ビーチホテルWでの飲み放題の特典は2023年9月23日から終了時まで利用できます。"
+        },
+        {
+            "question": "済州ビーチホテルWで生ビールはどこで利用できますか？",
+            "answer": "済州ビーチホテルWでの生ビールはホテル1階ロビーでテイクアウトで利用できます。"
+        },
+        {
+            "question": "済州ビーチホテルWでの生ビールの提供時間は何時から何時までですか？",
+            "answer": "済州ビーチホテルWでの生ビールの提供時間は午後6時から10時までです。"
+        }
+    ],
+    "word_Count": {
+        "text": 112,
+        "QA": 236
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_015744",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2022-12-28",
+        "domain": "숙박",
+        "title": "파인모텔"
+    },
+    "text": "ファインモーテル\n忠清南道保寧市海水浴場2ギル9\nファインモーテルは、恋人や家族の健康とウェルビーイングを考えた宿泊施設です。海まで歩いて1分の距離に位置し、周辺には便利な施設や遊び場、薬局、医院、飲食店が集まる中心街にあります。",
+    "QA": [
+        {
+            "question": "ファインモーテルの場所はどこですか？",
+            "answer": "ファインモーテルは忠清南道保寧市海水浴場2ギル9に位置しています。"
+        },
+        {
+            "question": "ファインモーテルの周辺にはどんな施設がありますか？",
+            "answer": "ファインモーテルの周辺には便利な施設や遊び場、薬局、医院、飲食店があります。"
+        },
+        {
+            "question": "ファインモーテルから海までの距離はどれくらいですか？",
+            "answer": "ファインモーテルから海まで歩いて1分の距離です。"
+        },
+        {
+            "question": "ファインモーテルはどんな目的で宿泊するのに適していますか？",
+            "answer": "ファインモーテルは恋人や家族の健康とウェルビーイングを考えた宿泊施設です。"
+        }
+    ],
+    "word_Count": {
+        "text": 84,
+        "QA": 168
+    }
+}

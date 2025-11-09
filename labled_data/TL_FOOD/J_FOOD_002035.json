@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_002035",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-09-01",
+        "domain": "음식점",
+        "title": "Restaurant DAM ( 레스토랑담 )"
+    },
+    "text": "Restaurant DAM ( 레스토랑담 )\\n\nソウル特別市 鐘路区 仁寺洞キル 30-7\\n\n有名作家の絵が鑑賞できる、ギャラリースタイルのレストランです。 おすすめは豚の肩肉ステーキです。ソウル特別市のに位置した洋食専門店です。",
+    "QA": [
+        {
+            "question": "このレストランの場所はどこですか？",
+            "answer": "ソウル特別市 鐘路区 仁寺洞キル 30-7にあります。"
+        },
+        {
+            "question": "このレストランはどのような雰囲気ですか？",
+            "answer": "有名作家の絵が鑑賞できる、ギャラリースタイルのレストランです。"
+        },
+        {
+            "question": "このレストランのおすすめメニューは何ですか？",
+            "answer": "豚の肩肉ステーキがおすすめです。"
+        },
+        {
+            "question": "このレストランはどのような種類のレストランですか？",
+            "answer": "洋食専門店です。"
+        }
+    ],
+    "word_Count": {
+        "text": 87,
+        "QA": 121
+    }
+}

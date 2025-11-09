@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_104912",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=102&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=08180000&ccbaCtcd=11&ccbaCpno=1121108180000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1985-01-08",
+        "domain": "문화/역사관광",
+        "title": "창경궁 통명전"
+    },
+    "text": "朝鮮純祖33年(1833年)、宝物、通明殿は昌慶宮内殿の最高殿閣で、王妃の寝殿として使われましたが、『朝鮮王朝実録』の記録によると、主に王妃の生活空間として使われていました。1484年(成宗15)に初めて建てられましたが、文禄·慶長の役で焼失したものを光海君の代に建て直し、1790年(正祖14年)に再び焼失しましたが、1833年(正祖33年)、通明殿の右側にある養和堂とともに建て直しました規模は前面7間、側面4間で、屋根は側面から見て八字型の入母屋造りで、屋根の上には龍の床がありませんが、現在昌慶宮に残っている建物の中で唯一です。恐怖は鳥の羽の形に伸びた材料の構成が朝鮮中期様式の特徴と清潔な建物の感じをよく生かしています。月台の上に基壇を形成し、その上に建物を建て、宴や儀礼を行うことができる広い庭には薄くて広い薄石が敷かれています",
+    "QA": [
+        {
+            "question": "通明殿は何年に初めて建てられましたか？",
+            "answer": "通明殿は1484年(成宗15)に初めて建てられました。"
+        },
+        {
+            "question": "通明殿の建物の特徴は何ですか？",
+            "answer": "通明殿の建物は側面から見て八字型の入母屋造りで、屋根の上には龍の床があります。また、鳥の羽の形に伸びた材料の構成が朝鮮中期様式の特徴とされています。"
+        },
+        {
+            "question": "通明殿はどのように使用されていましたか？",
+            "answer": "通明殿は主に王妃の生活空間として使用されていました。"
+        },
+        {
+            "question": "通明殿が再建された際、どのような場所に位置していますか？",
+            "answer": "通明殿は昌慶宮内で、右側にある養和堂とともに建て直されました。"
+        },
+        {
+            "question": "通明殿の庭には何が敷かれていますか？",
+            "answer": "通明殿の庭には広い薄石が敷かれています。"
+        }
+    ],
+    "word_Count": {
+        "text": 271,
+        "QA": 203
+    }
+}

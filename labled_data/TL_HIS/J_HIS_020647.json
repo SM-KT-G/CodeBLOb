@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_020647",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=962&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=00110000&ccbaCtcd=34&ccbaCpno=3413400110000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1984-05-17",
+        "domain": "문화/역사관광",
+        "title": "삼룡동 삼층석탑"
+    },
+    "text": "三龍洞(サムリョンドン) 三階石塔 (삼룡동 삼층석탑)\\n\n忠清南道天安市東南区三龍洞306番地\\n\n忠清南道文化財資料 , 三叉路公園の中に位置している塔で、今は畑に変わってしまった安西洞の流麗王寺跡にあったものをここに移した。 形は全体の重さを支える基壇を2階に積み、3階の塔身を上げた姿だ。 下の階の基壇には一面に2つずつ眼象を薄く刻んであり、塔身の3つの屋根石は底面に2段ずつの支えを置いた。 高麗時代に建てたものと推測されるが、塔身の2階建ての石像が本来のものではなく、後代に新しく作られたもので残念な気持ちを与えている。",
+    "QA": [
+        {
+            "question": "三龍洞の三階石塔はどこに位置していますか？",
+            "answer": "三龍洞の三階石塔は忠清南道天安市東南区三龍洞306番地に位置しています。"
+        },
+        {
+            "question": "三階石塔はどのような形をしていますか？",
+            "answer": "三階石塔は全体の重さを支える基壇を2階に積み、3階の塔身を上げた形をしています。"
+        },
+        {
+            "question": "三階石塔の基壇には何が刻まれていますか？",
+            "answer": "三階石塔の下の階の基壇には一面に2つずつ眼象が薄く刻まれています。"
+        },
+        {
+            "question": "三階石塔はいつ建てられたと推測されていますか？",
+            "answer": "三階石塔は高麗時代に建てられたものと推測されています。"
+        },
+        {
+            "question": "三階石塔の外観にはどのような特徴がありますか？",
+            "answer": "三階石塔の外観は塔身の2階建ての石像が後代に新しく作られたものであり、本来のものではないとされています。"
+        }
+    ],
+    "word_Count": {
+        "text": 195,
+        "QA": 215
+    }
+}

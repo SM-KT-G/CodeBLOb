@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_000348",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2023-02-10",
+        "domain": "자연관광",
+        "title": "대마도"
+    },
+    "text": "\n全羅南道珍島郡鳥島面\nハゼは、海岸線の長さが14.5kmに達しており、岩石海岸とハゼが発達しているため、自然環境に恵まれた島です。穏やかな海洋性気候のおかげで、海辺の背後には海松の森などの貴重な資源があります。",
+    "QA": [
+        {
+            "question": "鳥島面はどのような自然環境に恵まれていますか？",
+            "answer": "鳥島面は海岸線の長さが14.5kmに達し、岩石海岸とハゼが発達しているため、自然環境に恵まれた島です。また、穏やかな海洋性気候のおかげで、海辺の背後には海松の森などの貴重な資源があります。"
+        },
+        {
+            "question": "鳥島面の海岸線の長さは何キロメートルですか？",
+            "answer": "鳥島面の海岸線の長さは14.5kmです。"
+        },
+        {
+            "question": "鳥島面では何が発達していますか？",
+            "answer": "鳥島面では岩石海岸とハゼが発達しています。"
+        },
+        {
+            "question": "鳥島面の気候はどのようですか？",
+            "answer": "鳥島面は穏やかな海洋性気候です。"
+        },
+        {
+            "question": "鳥島面の海辺の背後には何がありますか？",
+            "answer": "鳥島面の海辺の背後には海松の森などの貴重な資源があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 77,
+        "QA": 201
+    }
+}

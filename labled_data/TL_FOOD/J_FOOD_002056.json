@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_002056",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-14",
+        "domain": "음식점",
+        "title": "Sangsang DONKATSU COEX( 상상돈가츠 코엑스 )"
+    },
+    "text": "Sangsang DONKATSU COEX\\n\nソウル特別市 江南区 テヘランロ87ギル36\\n\nリーズナブルなトンカツの名店です。ソウル特別市のガンナム区に位置した和食専門店です。代表的なメニューは特大豚カツです。",
+    "QA": [
+        {
+            "question": "このレストランはどこにありますか？",
+            "answer": "このレストランはソウル特別市江南区テヘランロ87ギル36に位置しています。"
+        },
+        {
+            "question": "このレストランはどんな料理を提供していますか？",
+            "answer": "このレストランはリーズナブルなトンカツの名店です。特に代表的なメニューは特大豚カツです。"
+        },
+        {
+            "question": "このレストランの特徴は何ですか？",
+            "answer": "このレストランはリーズナブルな価格で美味しいトンカツを提供しています。"
+        },
+        {
+            "question": "このレストランの場所は便利ですか？",
+            "answer": "はい、このレストランはソウル特別市のガンナム区に位置しており、交通の便も良いです。"
+        },
+        {
+            "question": "このレストランの評判はどうですか？",
+            "answer": "このレストランは評判が良く、多くの人々に愛されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 79,
+        "QA": 201
+    }
+}

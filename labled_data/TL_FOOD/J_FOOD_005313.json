@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_005313",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-07",
+        "domain": "음식점",
+        "title": "グリーングリーンヘ（그린그린해）"
+    },
+    "text": "グリーングリーンヘ\\n\n光州広域市 光山区 松汀路15ボンキル 62\\n\n光州広域市のグァンサン区に位置したカフェ（コーヒーショップ）です。代表的なメニューはグレープフルーツエードです。各種ドリンクが楽しめます。",
+    "QA": [
+        {
+            "question": "このカフェの場所はどこですか？",
+            "answer": "光州広域市 光山区 松汀路15ボンキル 62に位置しています。"
+        },
+        {
+            "question": "このカフェの特徴的なメニューは何ですか？",
+            "answer": "代表的なメニューはグレープフルーツエードです。"
+        },
+        {
+            "question": "このカフェではどんな種類のドリンクが楽しめますか？",
+            "answer": "各種ドリンクが楽しめます。"
+        }
+    ],
+    "word_Count": {
+        "text": 77,
+        "QA": 93
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_092381",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101933",
+        "collectedDate": "2023-10-06",
+        "publishedDate": "2023-10-06",
+        "domain": "문화/역사관광",
+        "title": "완도타워"
+    },
+    "text": "ワンドタワー\\n\n莞島タワー(Wando Tower)は全羅南道莞島郡(チョンラナムド・ワンドグン)の莞島邑張保皐(チャン・ボゴ)通り330洞マンサンの頂上付近、多島海の日の出公園(面積53,000余りm²)に建設された76mの高さの展望塔だ。地上2階とチョンマンチュンで構成されている。",
+    "QA": [
+        {
+            "question": "莞島タワーはどこに建設されましたか？",
+            "answer": " 莞島タワーは全羅南道莞島郡の莞島邑張保皐通り330洞マンサンの頂上付近に建設されました。"
+        },
+        {
+            "question": "莞島タワーの高さは何メートルですか？",
+            "answer": " 莞島タワーの高さは76mです。"
+        },
+        {
+            "question": "莞島タワーは何階建てですか？",
+            "answer": " 莞島タワーは地上2階とチョンマンチュンで構成されています。"
+        },
+        {
+            "question": "莞島タワーはどんな公園に建設されましたか？",
+            "answer": " 莞島タワーは多島海の日の出公園に建設されました。"
+        },
+        {
+            "question": "莞島タワーの周辺にある面積は何m²ですか？",
+            "answer": " 莞島タワーの周辺にある面積は53,000余りm²です。"
+        }
+    ],
+    "word_Count": {
+        "text": 105,
+        "QA": 173
+    }
+}

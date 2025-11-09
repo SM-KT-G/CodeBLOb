@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_008171",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=278&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=15&ccbaAsno=00510000&ccbaCtcd=37&ccbaCpno=1353700510000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2008-12-26",
+        "domain": "자연관광",
+        "title": "예천 초간정 원림"
+    },
+    "text": "醴泉草間庭園林 (예천 초간정 원림)\\n\n慶尚北道醴泉郡龍門面竹林里\\n\n- , 名勝 , 草間亭は朝鮮宣祖の時、学者である草間クォン·ムンヘ(1534~1591)が長い官職生活と党争から抜け出し自然を楽しむために故郷に帰ってきて宣祖15年(1582)創建した亭子で、澄んだ渓谷と青い松林の間の岩石の上に位置している。 創建後、壬辰倭乱中に焼失し、息子の竹所クォン·ビョルが仁祖4年(1626)に重修したが、再び火災で焼失してそのままにしておいて、子孫のクォン·ボンウィが多くの子孫に頼んで英祖16年(1740)に重修を図り、英祖17年(1741)に既存の場所が良くなく現在の場所に移して重修した。 朝鮮時代の士林の隠逸生活と無為自然を土台とする先祖の自然観を示す名勝地で、岩を回って流れる渓流が涼しい風情を醸し出すなど景観的価値が大きい。",
+    "QA": [
+        {
+            "question": "この庭園林の名前は何ですか？",
+            "answer": "醴泉草間庭園林（예천 초간정 원림）です。"
+        },
+        {
+            "question": "草間亭はいつ創建されましたか？",
+            "answer": "草間亭は朝鮮宣祖15年（1582年）に創建されました。"
+        },
+        {
+            "question": "何度か火災に遭っているとのことですが、再建されたのはいつですか？",
+            "answer": "息子の竹所クォン·ビョルによって仁祖4年（1626年）に再建されましたが、その後も火災で焼失し、英祖16年（1740年）に再び重修され、現在の場所に移されました。"
+        },
+        {
+            "question": "この庭園林の特徴は何ですか？",
+            "answer": "岩石の上に位置し、澄んだ渓谷と青い松林の間にあることが特徴です。また、朝鮮時代の士林の隠逸生活や自然観を示す名勝地としても知られています。"
+        },
+        {
+            "question": "この庭園林の景観的価値はどのようなものですか？",
+            "answer": "岩を回って流れる渓流が涼しい風情を醸し出し、美しい景観を楽しむことができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 272,
+        "QA": 245
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_021377",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2020-12-24",
+        "domain": "음식점",
+        "title": "本平壌( 봉피양 )"
+    },
+    "text": "本平壌( 봉피양 )\\n\nソウル特別市 松坡区 ヤンジェデロ71ギル1-4\\n\nミシュランガイド2021に選定された店です。代表的なメニューはピョンヤン冷麺です。ソウル特別市のソンパ区に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "この店はソウル特別市の松坡区に位置しています。具体的な住所はヤンジェデロ71ギル1-4です。"
+        },
+        {
+            "question": "この店の特徴的なメニューは何ですか？",
+            "answer": "この店の代表的なメニューはピョンヤン冷麺です。"
+        },
+        {
+            "question": "この店はミシュランガイド2021に選定されましたか？",
+            "answer": "はい、この店はミシュランガイド2021に選定されました。"
+        },
+        {
+            "question": "この店は何を専門としていますか？",
+            "answer": "この店は韓食を専門としています。"
+        }
+    ],
+    "word_Count": {
+        "text": 77,
+        "QA": 136
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_000611",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42030&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "경주 드림힐"
+    },
+    "text": "1. 慶州に位置する大陵苑、雁鴨池、瞻星台、校村は慶州の文化財に近いモーテルです。 2. このモーテルはオンシーズンや特定日、祝日(前日含む)には料金が変わる場合があります。 3. 入室の際は必ず身分証明書を確認し、未成年者は入室が制限されます。 したがって、身分証明書を必ず持参しなければなりません。 4. また、慶州ドリームヒルでは無料で自転車をレンタルできますが、事前予約はできず、現場で自転車があればレンタルできます。 5. 利用時間は3時間で2万ウォンです。",
+    "QA": [
+        {
+            "question": "大陵苑はどこに位置していますか？",
+            "answer": "大陵苑は慶州に位置しています。"
+        },
+        {
+            "question": "自転車のレンタルはどうやって予約すればいいですか？",
+            "answer": "自転車のレンタルは事前予約はできず、現場で自転車があればレンタルできます。"
+        },
+        {
+            "question": "自転車の利用時間と料金はどれくらいですか？",
+            "answer": "自転車の利用時間は3時間で、料金は2万ウォンです。"
+        },
+        {
+            "question": "モーテルの料金は特定日や祝日でも変わりますか？",
+            "answer": "はい、モーテルの料金は特定日や祝日(前日含む)によって変わる場合があります。"
+        },
+        {
+            "question": "未成年者はモーテルに入室できますか？",
+            "answer": "未成年者の入室は制限されており、身分証明書が必要です。"
+        }
+    ],
+    "word_Count": {
+        "text": 171,
+        "QA": 179
+    }
+}

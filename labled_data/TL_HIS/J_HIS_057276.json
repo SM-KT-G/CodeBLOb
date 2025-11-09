@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_057276",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/collectionList#######",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "나한도2"
+    },
+    "text": "羅漢図 (나한도 )\\n\n国籍と時代は明確ではありませんが、この作品は韓国の可能性があるとされています。材質は絹で作られたもので、作者は不詳です。作品は宗教信仰、具体的には仏教や礼拝、そして仏画の分類に属します。その大きさは、縦1331cm、横514cm、縦544cm、横404cm、長さ24cm、長さ564cmとなっています。",
+    "QA": [
+        {
+            "question": "この羅漢図の作者は誰ですか？",
+            "answer": "作者は不詳です。"
+        },
+        {
+            "question": "この羅漢図は何の信仰や宗教に関連していますか？",
+            "answer": "この羅漢図は仏教の信仰に関連しています。"
+        },
+        {
+            "question": "この羅漢図はどのような材質で作られていますか？",
+            "answer": "この羅漢図は絹で作られています。"
+        },
+        {
+            "question": "この羅漢図の大きさはどれくらいですか？",
+            "answer": "この羅漢図の大きさは縦1331cm、横514cm、縦544cm、横404cm、長さ24cm、長さ564cmです。"
+        },
+        {
+            "question": "この羅漢図はどの国の作品でしょうか？",
+            "answer": "国籍と時代は明確ではありませんが、韓国の可能性があるとされています。"
+        }
+    ],
+    "word_Count": {
+        "text": 120,
+        "QA": 169
+    }
+}

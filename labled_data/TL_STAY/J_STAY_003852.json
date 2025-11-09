@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_003852",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/goods/GN0002027123?startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0%5E&npprmaxsort=min",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "창원 상남동 비잔틴"
+    },
+    "text": "こんにちは！ヤノルジャ会員のお知らせです。 オンシーズンや特定日、祝日(前日含む)には料金が変わる場合があります。 これに伴い、予約の際にご注意ください。 また、入室の際には身分証明書を確認しておりますので、身分証明書を必ずお持ちください。 入室は未成年者は制限されますので、この点も必ず熟知してください。 ありがとうございます。",
+    "QA": [
+        {
+            "question": "予約の際に注意すべきことはありますか？",
+            "answer": "オンシーズンや特定日、祝日(前日含む)には料金が変わる場合がありますので、予約の際には注意が必要です。"
+        },
+        {
+            "question": "入室の際に必要なものは何ですか？",
+            "answer": "身分証明書を確認しておりますので、入室の際には必ず身分証明書をお持ちください。"
+        },
+        {
+            "question": "未成年者の入室に制限はありますか？",
+            "answer": "入室は未成年者に制限がありますので、必ず熟知しておいてください。"
+        }
+    ],
+    "word_Count": {
+        "text": 121,
+        "QA": 127
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_081100",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ja",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2022-03-28",
+        "domain": "문화/역사관광",
+        "title": "서울월드컵경기장 스타디움 투어"
+    },
+    "text": "'ワールドサッカー''が選定した世界で最も美しい10代のサッカー競技場2002 FIFA日韓ワールドカップの歴史の現場と世界屈指の建築芸術物のソウルワールドカップ競技場の美しい姿を観覧することができる。",
+    "QA": [
+        {
+            "question": "ソウルワールドカップ競技場はどこにありますか？",
+            "answer": "ソウルワールドカップ競技場は韓国のソウル市にあります。"
+        },
+        {
+            "question": "ワールドカップ競技場の建設はいつ行われましたか？",
+            "answer": "ワールドカップ競技場の建設は2001年に行われました。"
+        },
+        {
+            "question": "ワールドカップ競技場の特徴は何ですか？",
+            "answer": "ワールドカップ競技場は屋根が特徴的で、その美しい建築が人々を魅了しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 74,
+        "QA": 115
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_107923",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=121&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=10270000&ccbaCtcd=11&ccbaCpno=1121110270000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1990-05-21",
+        "domain": "문화/역사관광",
+        "title": "청자 구룡형뚜껑 향로"
+    },
+    "text": "青磁九龍形蓋香炉\\n\nソウル龍山区梨泰院路55キル60-16、ジャン·ジャン·ジャン(漢南洞)\\n\n高麗時代、宝物、口の周りの広いテイン戦が走って香りを死の胴体の上に九龍(龜龍)が装飾されたふたがいる香炉で全体の高さ20.4センチ、香炉の高さ10.2センチ、口直径10.2センチだ。頭をもたげて座っている九龍は、亀の形の体に龍の頭を持った神霊なる動物と彫刻が精巧で躍動感が溢れている。顔のたてがみの首の鱗などが行く陰刻線で詳しく描写されており、亀甲文様の中に''王''文字が刻み込まれている。亀の座っている形の蓋は胴が開いているため、ミッチャクで香を焚くと胴体を通じて開いた口に香りが咲いて上昇するようになっている。ふたの下の部分には花の文様と稲妻形帯を囲まれ、動物の頭が彫刻された足が3つ付いた。ミッチャクの縁と胴体には帰り、雲文が陰刻されている。全面に清澄な翡翠色の光沢が流れていますが、、九龍(クリョン)部分はもう少し濃い青な色を帯びている。...",
+    "QA": [
+        {
+            "question": "この香炉の高さは？",
+            "answer": "全体の高さ20.4センチ、香炉の高さ10.2センチです。"
+        },
+        {
+            "question": "香炉の口の直径は？",
+            "answer": "香炉の口は直径10.2センチです。"
+        },
+        {
+            "question": "香炉の装飾に使われている動物は何ですか？",
+            "answer": "香炉には九龍（龜龍）が装飾されており、亀の形の体に龍の頭を持った神霊なる動物です。"
+        },
+        {
+            "question": "香炉の蓋の下の部分には何の文様が囲まれていますか？",
+            "answer": "香炉の蓋の下の部分には花の文様と稲妻形帯が囲まれています。"
+        },
+        {
+            "question": "香炉の翡翠色の光沢がどのように表現されていますか？",
+            "answer": "香炉の全面に清澄な翡翠色の光沢が流れていますが、九龍（クリョン）部分はもう少し濃い青な色を帯びています。"
+        }
+    ],
+    "word_Count": {
+        "text": 313,
+        "QA": 187
+    }
+}

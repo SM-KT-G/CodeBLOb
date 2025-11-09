@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_028189",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=305&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=16&ccbaAsno=03260000&ccbaCtcd=ZZ&ccbaCpno=1369903260000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1982-11-16",
+        "domain": "자연관광",
+        "title": "검은머리물떼새"
+    },
+    "text": "ミヤコドリは、全世界的に限定された地域で繁殖し、カムチャッカ東海岸、オホーツク海北端ペンジのみと中央アムール盆地、中国河北省及び日本などに分布します。この鳥は雌雄が同じようにできており、体長は43センチです。ミヤコドリは、ひな鳥を生む場合、無人島、川河口の三角州、海岸の砂浜、干潟などで4~5匹が群れを成して生活し、4~5月に2~3匹の子を産みます。この鳥はカタツムリ、貝やカニ、小魚などを食べて生きます。1917年4月に初めて黒頭千鳥が韓国で繁殖するという事実を知るようになり、その後、1973年と1974年に卵を確認し、韓国西海岸の小さな島で稀に繁殖することを確認しました。この珍しい種は北東アジアで生存に大きな脅威を受けており、天然記念物に指定されて保護されています。",
+    "QA": [
+        {
+            "question": "ミヤコドリの繁殖地はどこですか？",
+            "answer": "カムチャッカ東海岸、オホーツク海北端ペンジ、中央アムール盆地、中国河北省、日本などに分布しています。"
+        },
+        {
+            "question": "ミヤコドリの体長は何センチですか？",
+            "answer": "ミヤコドリの体長は43センチです。"
+        },
+        {
+            "question": "ミヤコドリは何を食べて生きていますか？",
+            "answer": "ミヤコドリはカタツムリ、貝やカニ、小魚などを食べて生きています。"
+        },
+        {
+            "question": "いつミヤコドリがひな鳥を生むのですか？",
+            "answer": "4~5月にひな鳥を産みます。"
+        },
+        {
+            "question": "ミヤコドリが繁殖する場所はどこですか？",
+            "answer": "無人島、川河口の三角州、海岸の砂浜、干潟などで繁殖し、4~5匹が群れを成して生活します。"
+        }
+    ],
+    "word_Count": {
+        "text": 247,
+        "QA": 181
+    }
+}

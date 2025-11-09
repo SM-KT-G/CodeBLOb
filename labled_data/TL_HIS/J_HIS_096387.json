@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_096387",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/view?relicId=112031",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2023-10-11",
+        "domain": "문화/역사관광",
+        "title": "이왕가 일행"
+    },
+    "text": "李王家一行 (이왕가 일행)\\n\n赤色のインクを使用して、乳剤が剥がれた部分を修復しました。乳剤面の左側には黒色の文字で「7一九」と記されており、右側には赤色の文字で「a 十二号」と記されています。この作品は韓国における日本の植民地支配の時代のものです。材質はガラスと宝石で作られており、メディアとしては記録物の一種であるフィルムです。その大きさは横164cm、縦120cmです。",
+    "QA": [
+        {
+            "question": "この作品は何時期に作られましたか？",
+            "answer": "この作品は日本の植民地支配の時代に作られました。"
+        },
+        {
+            "question": "この作品の材質は何ですか？",
+            "answer": "この作品はガラスと宝石で作られています。"
+        },
+        {
+            "question": "この作品のメディアとしての特徴は何ですか？",
+            "answer": "この作品はフィルムとしての記録物の一種です。"
+        },
+        {
+            "question": "この作品のサイズはどれくらいですか？",
+            "answer": "この作品の大きさは横164cm、縦120cmです。"
+        }
+    ],
+    "word_Count": {
+        "text": 139,
+        "QA": 117
+    }
+}

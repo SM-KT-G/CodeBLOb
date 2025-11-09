@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_024655",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-06",
+        "domain": "음식점",
+        "title": "五九飯店 ( 오구반점 )"
+    },
+    "text": "五九飯店 ( 오구반점 )\\n\nソウル特別市 中区 スピョロ60\\n\n1953年から運営している店です。ソウル特別市のジュン区に位置した中華専門店です。おすすめは焼き餃子です。",
+    "QA": [
+        {
+            "question": "五九飯店はいつから運営していますか？",
+            "answer": "1953年から運営しています。"
+        },
+        {
+            "question": "五九飯店はどのエリアに位置していますか？",
+            "answer": "五九飯店はソウル特別市の中区に位置しています。"
+        },
+        {
+            "question": "五九飯店はどのような料理を提供していますか？",
+            "answer": "五九飯店は中華専門店で、焼き餃子がおすすめです。"
+        }
+    ],
+    "word_Count": {
+        "text": 64,
+        "QA": 89
+    }
+}

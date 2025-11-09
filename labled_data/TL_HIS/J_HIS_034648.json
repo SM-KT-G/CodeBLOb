@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_034648",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2023-07-03",
+        "domain": "문화/역사관광",
+        "title": "해락촌"
+    },
+    "text": "海楽村 (해락촌)\\n\n江原特別自治道 平昌郡平昌邑古吉川路123\\n\nノロ里、耳谷里、曹洞里、高吉里、池洞里の5つの村からなる海抜700mの高山村です。ここはヘラクという名前の由来通り、多くの人が一緒に楽しむことができる憩いの場所です。実際、この村では農漁村人性学校に指定されており、青少年たちに様々な農村体験活動を提供しています。",
+    "QA": [
+        {
+            "question": "海楽村はどこにありますか？",
+            "answer": "海楽村は江原特別自治道 平昌郡平昌邑古吉川路123にあります。"
+        },
+        {
+            "question": "海楽村は何で有名ですか？",
+            "answer": "海楽村は農漁村人性学校に指定されており、青少年たちに様々な農村体験活動を提供しています。"
+        },
+        {
+            "question": "海楽村は何mの高山村ですか？",
+            "answer": "海楽村は海抜700mの高山村です。"
+        },
+        {
+            "question": "海楽村は何つの村からなりますか？",
+            "answer": "海楽村はノロ里、耳谷里、曹洞里、高吉里、池洞里の5つの村からなります。"
+        }
+    ],
+    "word_Count": {
+        "text": 122,
+        "QA": 133
+    }
+}

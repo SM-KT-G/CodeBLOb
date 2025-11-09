@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_004677",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42060&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "보령 사제스힐펜션 C동"
+    },
+    "text": "こんにちは。保寧サジェスヒルペンションです。 サジェスヒルは山、海、渓谷、湖、島をすべて享受できる保寧に位置しています。 ペンションではリラックスとリフレッシュの時間を楽しむことができます。 客室は別荘のようなモダンな雰囲気で造成されており、窓際から見える西海岸の夕日や夜空は忘れられない思い出になるでしょう。 チェックイン時間が22時以降の場合は、予めご連絡ください。",
+    "QA": [
+        {
+            "question": "保寧サジェスヒルペンションの場所はどこですか？",
+            "answer": "保寧サジェスヒルペンションは保寧に位置しています。"
+        },
+        {
+            "question": "サジェスヒルペンションでどのような時間を楽しむことができますか？",
+            "answer": "サジェスヒルペンションではリラックスとリフレッシュの時間を楽しむことができます。"
+        },
+        {
+            "question": "客室はどのような雰囲気ですか？",
+            "answer": "客室は別荘のようなモダンな雰囲気で造成されています。"
+        },
+        {
+            "question": "窓から見える景色は何ですか？",
+            "answer": "窓際からは西海岸の夕日や夜空が見えます。"
+        },
+        {
+            "question": "チェックイン時間が22時以降の場合はどうすればいいですか？",
+            "answer": "チェックイン時間が22時以降の場合は、事前にご連絡ください。"
+        }
+    ],
+    "word_Count": {
+        "text": 135,
+        "QA": 186
+    }
+}

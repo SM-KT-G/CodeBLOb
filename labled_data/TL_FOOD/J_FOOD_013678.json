@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_013678",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "ホンチャイナ ( 홍차이나 )"
+    },
+    "text": "ホンチャイナ ( 홍차이나 )\\n\nソウル特別市 ヨンドゥンポ区 ボドゥナルロ15ギル15\\n\n様々な中華料理が味わえる店です。ソウル特別市のヨンドゥンポ区に位置した中華専門店です。代表的なメニューはちゃんぽんです。",
+    "QA": [
+        {
+            "question": "このレストランの場所はどこですか？",
+            "answer": "ホンチャイナは、ソウル特別市のヨンドゥンポ区に位置しています。具体的な住所はボドゥナルロ15ギル15です。"
+        },
+        {
+            "question": "ホンチャイナで提供されている料理は何ですか？",
+            "answer": "ホンチャイナでは様々な中華料理が提供されていますが、代表的なメニューはちゃんぽんです。"
+        },
+        {
+            "question": "ホンチャイナはどのような店ですか？",
+            "answer": "ホンチャイナは中華専門店であり、ソウル特別市で中華料理を楽しむことができるお店です。"
+        }
+    ],
+    "word_Count": {
+        "text": 79,
+        "QA": 142
+    }
+}

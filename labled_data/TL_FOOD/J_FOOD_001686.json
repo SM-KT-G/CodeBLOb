@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001686",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/get-some-coffee-songpa",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "GET SOME COFFEE"
+    },
+    "text": "GET SOME COFFEE\\n\nソウル特別市 松坡区 松坡洞 56-6\\n\n「GET SOME COFFEE」のメニューにはエスプレッソ、アメリカーノ、ラテ、ダーティー・カプチーノ、フラット・ホワイト、カフェモカ、コーヒー豆を挽いて撒いてくれるダッチペッパー、ティーなどがあります。 フラット・ホワイトが人気メニューで転用テイクアウトカップがあるのが特徴。売場は全体的にパステルトーンで外観は空色壁であり、内壁はピンクとグレイを使用しています。ました。ペット同伴可能です",
+    "QA": [
+        {
+            "question": "GET SOME COFFEEの場所はどこですか？",
+            "answer": "GET SOME COFFEEはソウル特別市松坡区松坡洞56-6にあります。"
+        },
+        {
+            "question": "GET SOME COFFEEではどんなメニューがありますか？",
+            "answer": "GET SOME COFFEEのメニューにはエスプレッソ、アメリカーノ、ラテ、ダーティー・カプチーノ、フラット・ホワイト、カフェモカ、コーヒー豆を挽いて撒いてくれるダッチペッパー、ティーなどがあります。"
+        },
+        {
+            "question": "GET SOME COFFEEの人気メニューは何ですか？",
+            "answer": "GET SOME COFFEEの人気メニューはフラット・ホワイトです。"
+        },
+        {
+            "question": "GET SOME COFFEEではテイクアウトカップがありますか？",
+            "answer": "はい、GET SOME COFFEEではテイクアウトカップがあります。"
+        },
+        {
+            "question": "GET SOME COFFEEはペット同伴可能ですか？",
+            "answer": "はい、GET SOME COFFEEではペット同伴可能です。"
+        }
+    ],
+    "word_Count": {
+        "text": 173,
+        "QA": 280
+    }
+}

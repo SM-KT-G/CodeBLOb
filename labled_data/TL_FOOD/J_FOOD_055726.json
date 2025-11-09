@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_055726",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2023-07-02",
+        "domain": "음식점",
+        "title": "가리산막국수"
+    },
+    "text": "カリサンマッククスは広い駐車場や丸太の家のように構成された外観が目に付く所だ。室内は広いホールと内側に同じ大きさのきれいな部屋になっている。マックッス(甘辛そば)専門店らしく、酸っぱくて甘い味付けと新鮮な野菜が添えられている。",
+    "QA": [
+        {
+            "question": "カリサンマッククスの外観はどのような特徴がありますか？",
+            "answer": "カリサンマッククスは広い駐車場や丸太の家のように構成された外観が目に付きます。"
+        },
+        {
+            "question": "カリサンマッククスの室内はどのようになっていますか？",
+            "answer": "カリサンマッククスの室内は広いホールと内側に同じ大きさのきれいな部屋になっています。"
+        },
+        {
+            "question": "カリサンマッククスの料理はどのような特徴がありますか？",
+            "answer": "カリサンマッククスはマックッス(甘辛そば)専門店であり、酸っぱくて甘い味付けと新鮮な野菜が添えられています。"
+        }
+    ],
+    "word_Count": {
+        "text": 82,
+        "QA": 157
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_033516",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://kr.hotels.com/ho575305728/sutton-seoul-hangug/?chkin=2023-11-14&chkout=2023-11-15&x_pwa=1&rfrr=HSR&pwa_ts=1698839444377&referrerUrl=aHR0cHM6Ly9rci5ob3RlbHMuY29tL0hvdGVsLVNlYXJjaA%3D%3D&useRewards=false&rm1=a2&regionId=6159319&destination=%EC%9D%98%EC%A0%95%EB%B6%80%2C+%EA%B2%BD%EA%B8%B0%2C+%ED%95%9C%EA%B5%AD&destType=MARKET&neighborhoodId=553248635976381450&latLong=37.736412%2C127.068388&sort=RECOMMENDED&userIntent=&expediaPropertyId=17947054&searchId=26666e80-3e5c-4f3a-b874-c571228c1964",
+        "collectedDate": "2023-11-15",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "Sutton"
+    },
+    "text": "Sutton\\n\n大韓民国 Seoul GWANGHUI -DONG -GA,JUNG - GWANSU-D\\n\nSuttonから車で5分の距離には明洞通りと南大門市場もあります。 また、光化門および東大門歴史文化公園も車で5分の距離にあります。 この宿泊施設は公共交通機関を利用するのに便利です。 鐘路3街駅の場合、5分歩けば行けますし、乙支路3街駅も5分の距離にあります。 旅行関連の制限事項は、新型コロナウイルス関連の制限事項をご確認ください。 チェックインの際に必要な事項としては、付帯費用に備えてクレジットカード、デビットカード、または現金保証金が必要であり、写真付きの政府発行身分証明書が必要になる場合があります。",
+    "QA": [
+        {
+            "question": "この宿泊施設はどのくらいの距離にありますか？",
+            "answer": "明洞通りと南大門市場からは車で5分の距離です。"
+        },
+        {
+            "question": "鐘路3街駅と乙支路3街駅はどのくらい歩けば行けますか？",
+            "answer": "鐘路3街駅および乙支路3街駅はどちらも徒歩5分の距離にあります。"
+        },
+        {
+            "question": "チェックインの際に必要なものは何ですか？",
+            "answer": "チェックインの際には、クレジットカード、デビットカード、または現金保証金が必要であり、写真付きの政府発行身分証明書が必要となる場合があります。"
+        },
+        {
+            "question": "旅行関連の制限事項はありますか？",
+            "answer": "旅行関連の制限事項については、新型コロナウイルス関連の制限事項をご確認ください。"
+        }
+    ],
+    "word_Count": {
+        "text": 229,
+        "QA": 184
+    }
+}

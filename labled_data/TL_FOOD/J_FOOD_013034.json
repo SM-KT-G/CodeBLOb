@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_013034",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "プルンソルアグジプ ( 푸른솔아구집 )"
+    },
+    "text": "プルンソルアグジプ ( 푸른솔아구집 )\\n\n全羅南道 木浦市 繁華路 8-1\\n\n木浦市が選定した9味の中の一つである、アグチム(アンコウの蒸し物)を取り扱うお店です。 全羅南道のモクポ市に位置した海鮮専門店です。代表的なメニューはアンコウの蒸し物です。",
+    "QA": [
+        {
+            "question": "プルンソルアグジプはどこに位置していますか？",
+            "answer": "プルンソルアグジプは全羅南道の木浦市繁華路8-1に位置しています。"
+        },
+        {
+            "question": "プルンソルアグジプは何を取り扱っていますか？",
+            "answer": "プルンソルアグジプはアグチム(アンコウの蒸し物)を取り扱っています。"
+        },
+        {
+            "question": "プルンソルアグジプはどのようなお店ですか？",
+            "answer": "プルンソルアグジプは海鮮専門店で、全羅南道のモクポ市に位置しています。"
+        },
+        {
+            "question": "プルンソルアグジプの代表的なメニューは何ですか？",
+            "answer": "プルンソルアグジプの代表的なメニューはアンコウの蒸し物です。"
+        }
+    ],
+    "word_Count": {
+        "text": 93,
+        "QA": 162
+    }
+}

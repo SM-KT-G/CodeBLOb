@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_051731",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/collectionList#######",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "고주편"
+    },
+    "text": "古株編 (고주편)\\n\nこの本は、古文と呪文が織り交ぜられたもので、小伝の前身としても知られる大典です。巻頭には序文が掲載されています。国籍や時代は、日本の近代に属します。材質は紙で作られており、分類は文化芸術の一部である文献になります。また、その大きさは縦277cm、横161cmです。",
+    "QA": [
+        {
+            "question": "この本の名前は何ですか？",
+            "answer": "この本の名前は「古株編」です。"
+        },
+        {
+            "question": "この本は何で作られていますか？",
+            "answer": "この本は紙で作られています。"
+        },
+        {
+            "question": "この本の大きさは何ですか？",
+            "answer": "この本の大きさは縦277cm、横161cmです。"
+        },
+        {
+            "question": "この本の分類は何ですか？",
+            "answer": "この本の分類は文化芸術の一部である文献です。"
+        },
+        {
+            "question": "この本の巻頭には何が掲載されていますか？",
+            "answer": "この本の巻頭には序文が掲載されています。"
+        },
+        {
+            "question": "この本の国籍や時代は何ですか？",
+            "answer": "この本の国籍や時代は日本の近代に属します。"
+        }
+    ],
+    "word_Count": {
+        "text": 105,
+        "QA": 148
+    }
+}

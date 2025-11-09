@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_097997",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/collectionList#######",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2023-10-11",
+        "domain": "문화/역사관광",
+        "title": "자기 필 행서"
+    },
+    "text": "磁器必行書 (자기 필 행서)\\n\n作品の特徴として、この一般書道作品は、日本の近代時代における子基という作家によって書かれたものです。書道作品は紙を使用しており、その大きさは縦186.1cm、横40.3cm、軸の長さは46.1cmです。この作品は文化芸術として分類され、書肆で取り扱われています。ただし、文章の一部がやや不自然な印象を与えるかもしれません。",
+    "QA": [
+        {
+            "question": "この作品は誰によって書かれましたか？",
+            "answer": "この作品は子基という作家によって書かれました。"
+        },
+        {
+            "question": "この作品は何に分類されますか？",
+            "answer": "この作品は文化芸術として分類されます。"
+        },
+        {
+            "question": "この作品の大きさはどれくらいですか？",
+            "answer": "この作品の大きさは縦186.1cm、横40.3cm、軸の長さは46.1cmです。"
+        },
+        {
+            "question": "この作品はどこで取り扱われていますか？",
+            "answer": "この作品は書肆で取り扱われています。"
+        },
+        {
+            "question": "この作品は何を使用して作られていますか？",
+            "answer": "この作品は紙を使用して作られています。"
+        }
+    ],
+    "word_Count": {
+        "text": 131,
+        "QA": 153
+    }
+}

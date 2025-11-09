@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_038664",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=55&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=03100000&ccbaCtcd=38&ccbaCpno=1123803100000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1963-01-21",
+        "domain": "문화/역사관광",
+        "title": "창녕 석빙고"
+    },
+    "text": "昌寧石氷庫 (창녕 석빙고)\\n\n慶尚南道昌寧郡昌寧邑松峴里288番地\\n\n朝鮮時代、宝物、昌寧郡明徳初等学校の向かい側の道路沿いに丘のように見えるのがこの石氷庫だ。 石氷庫は氷を貯蔵しておくために石を積んで作った倉庫で、主に川や小川周辺に作られる。 西に流れる小川と直角になるよう南北に長く位置しており、入口を南に出して氷を簡単に運べるようにした。 入口の中の階段に沿って下ると底は傾斜し、北側の隅には水が抜けるように排水穴を置き、底は四角くて平らだ。 内部はよく整えられた石を積み上げ、両側から編み上げた4つの虹模様の帯を中間中間に置いた。 各帯の間には長い石を横にかけて天井を仕上げた。 また、天井のあちこちには換気孔を設け、外の空気を出入りさせた。 この石氷庫は入口に立っている碑石の記録を通じて朝鮮英祖18年(1742)当時、ここの県監だった申曙によって建てられたということが分かる。 各部の様式もまた朝鮮後期の姿がよく盛り込まれており、このような事実を裏付けている。",
+    "QA": [
+        {
+            "question": "この昌寧石氷庫は何に使われていましたか？",
+            "answer": "この石氷庫は氷を貯蔵しておくために使われていました。"
+        },
+        {
+            "question": "石氷庫の位置はどうして川や小川周辺に作られるのですか？",
+            "answer": "石氷庫は氷を簡単に運べるようにするため、主に川や小川周辺に作られます。"
+        },
+        {
+            "question": "石氷庫の内部の特徴はどんなものですか？",
+            "answer": "石氷庫の内部は整えられた石を積み上げ、虹模様の帯と天井の換気孔があります。"
+        },
+        {
+            "question": "この石氷庫の建設者は誰でしょうか？",
+            "answer": "この石氷庫は朝鮮英祖18年(1742)当時、県監だった申曙によって建てられました。"
+        },
+        {
+            "question": "この石氷庫の様式はどの時代のものですか？",
+            "answer": "この石氷庫の様式は朝鮮後期のものです。"
+        }
+    ],
+    "word_Count": {
+        "text": 321,
+        "QA": 191
+    }
+}

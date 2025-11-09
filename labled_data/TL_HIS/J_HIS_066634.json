@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_066634",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=577&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=02880000&ccbaCtcd=37&ccbaCpno=2113702880000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1995-01-14",
+        "domain": "문화/역사관광",
+        "title": "반룡사동종"
+    },
+    "text": "半竜四同種\\n\n慶尚北道高霊郡大伽倻路1203(大伽倻邑、ジャン·ジャン)\\n\n1753、慶尚北道有形文化財、朝鮮時代後期に作られた高さ50センチ、重さ100斤の紙だ。鐘をぶら下げた龍頭が簡単に作られており、鐘の上部に6つの円を描いて、その中に字を刻み、装飾した。中間には3列の線を大々的に浮き彫りされて量感を与え、3列の上下に文字を入れた。鐘の下の部分も文章と一つの線を浮き彫りする方法で、単純に終了した。英祖29年(1753)にバンリョンサで作ったもので、朝鮮後期の簡略化された同種の特徴をよく表している。",
+    "QA": [
+        {
+            "question": "この半竜四同種はいつ作られましたか？",
+            "answer": "英祖29年(1753)にバンリョンサで作られました。"
+        },
+        {
+            "question": "この半竜四同種の特徴は何ですか？",
+            "answer": "鐘をぶら下げた龍頭が簡単に作られており、鐘の上部に6つの円を描いて、その中に字を刻み、装飾しています。中間には3列の線を大々的に浮き彫りされて量感を与え、3列の上下に文字を入れました。"
+        },
+        {
+            "question": "この半竜四同種の重さは何斤ですか？",
+            "answer": "この半竜四同種の重さは100斤です。"
+        },
+        {
+            "question": "この半竜四同種はどこにありますか？",
+            "answer": "この半竜四同種は慶尚北道高霊郡大伽倻路1203(大伽倻邑、ジャン・ジャン)にあります。"
+        },
+        {
+            "question": "この半竜四同種は何の文化財ですか？",
+            "answer": "この半竜四同種は慶尚北道有形文化財です。"
+        }
+    ],
+    "word_Count": {
+        "text": 187,
+        "QA": 208
+    }
+}

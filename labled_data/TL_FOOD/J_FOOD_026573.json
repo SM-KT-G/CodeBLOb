@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_026573",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-06",
+        "domain": "음식점",
+        "title": "済州家 ( 제주가 )"
+    },
+    "text": "済州家 ( 제주가 )\nソウル特別市 中区 ナムデムンロ64\n量も多く、おいしい韓牛焼きが味わえます。ソウル特別市のチュン区に位置した韓食専門店です。代表的なメニューは霜降り韓牛ロースです。",
+    "QA": [
+        {
+            "question": "済州家はどこに位置していますか？",
+            "answer": "済州家はソウル特別市のチュン区に位置しています。"
+        },
+        {
+            "question": "済州家の代表的なメニューは何ですか？",
+            "answer": "済州家の代表的なメニューは霜降り韓牛ロースです。"
+        },
+        {
+            "question": "済州家の韓牛焼きはどのような特徴がありますか？",
+            "answer": "済州家の韓牛焼きは量も多く、おいしいと評判です。"
+        }
+    ],
+    "word_Count": {
+        "text": 69,
+        "QA": 94
+    }
+}

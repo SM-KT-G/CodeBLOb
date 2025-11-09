@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_003235",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1226&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=79&ccbaAsno=04280000&ccbaCtcd=11&ccbaCpno=4411104280000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2008-10-27",
+        "domain": "문화/역사관광",
+        "title": "서울 구 용산철도병원 본관"
+    },
+    "text": "ソウル区龍山鉄道病院本館 (서울 구 용산철도병원 본관)\\n\nソウル龍山区漢江大路14キル35-29(漢江路3街)\\n\n1928年 , 国家登録文化財 , 1928年鉄筋コンクリート造の赤レンガ仕上げで再建された地上2階建ての病院建築物で、日本による植民地時代鉄道基地として新市街地として開発された龍山を象徴的に示す建築物だ。建立当時の構造、材料、空間構成を保管し、節制された装飾とともに西洋の古典的様式から近代建築に移る過渡期的特性を示している。",
+    "QA": [
+        {
+            "question": "この建物はいつ建てられましたか？",
+            "answer": "1928年に建てられました。"
+        },
+        {
+            "question": "この建物はどんな特徴がありますか？",
+            "answer": "1928年鉄筋コンクリート造の赤レンガ仕上げで再建され、西洋の古典的様式から近代建築に移る過渡期的特性を示しています。"
+        },
+        {
+            "question": "この建物はどのように使われていますか？",
+            "answer": "これは龍山鉄道病院の本館として使われています。"
+        },
+        {
+            "question": "この建物の場所はどこですか？",
+            "answer": "ソウル区龍山の漢江大路14キル35-29（漢江路3街）にあります。"
+        },
+        {
+            "question": "この建物は何のために再建されたのですか？",
+            "answer": "龍山を象徴的に示す建築物として、日本による植民地時代鉄道基地として新市街地として開発されました。"
+        }
+    ],
+    "word_Count": {
+        "text": 165,
+        "QA": 192
+    }
+}

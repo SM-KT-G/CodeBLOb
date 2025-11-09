@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_003860",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-06",
+        "domain": "음식점",
+        "title": "オンゴジプ ( 옹고집 )"
+    },
+    "text": "オンゴジプ ( 옹고집 )\\n\n釜山広域市 釜山鎮区 カヤデロ784ボンギル46-11\\n\n地元民がよく訪れる名店です。代表的なメニューは小豆カルグクスです。釜山広域市のブサンジン区に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "オンゴジプはどこに位置していますか？",
+            "answer": "オンゴジプは釜山広域市の釜山鎮区に位置しています。"
+        },
+        {
+            "question": "オンゴジプはどのような店ですか？",
+            "answer": "オンゴジプは韓食専門店で、釜山広域市のブサンジン区に位置しています。地元民にも人気のある名店です。"
+        },
+        {
+            "question": "オンゴジプの代表的なメニューは何ですか？",
+            "answer": "オンゴジプの代表的なメニューは小豆カルグクスです。"
+        },
+        {
+            "question": "オンゴジプの住所は何ですか？",
+            "answer": "オンゴジプの住所は釜山広域市 釜山鎮区 カヤデロ784ボンギル46-11です。"
+        }
+    ],
+    "word_Count": {
+        "text": 76,
+        "QA": 151
+    }
+}

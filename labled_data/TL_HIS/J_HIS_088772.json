@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_088772",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/view?relicId=56289",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2023-10-11",
+        "domain": "문화/역사관광",
+        "title": "암키와 조각"
+    },
+    "text": "平瓦の欠片 (암키와 조각)\\n\n国籍/時代: 韓国 - 麗末鮮初 材質: 土 - 硬質 分類: 主生活 - 建築部材 - 屋根材 - 平瓦 大きさ: 現在の寸法は8.8cmの長さ、8.6cmの幅、3.0cmの厚さであり、また15.3cmの長さ、15.1cmの幅、2.4cmの厚さ、そして17.3cmの長さ、10.1cmの幅、2.0cmの厚さ、さらに13.7cmの長さ、11.1cmの幅、2.0cmの厚さです。",
+    "QA": [
+        {
+            "question": "この平瓦の欠片はどの時代のものですか？",
+            "answer": "この平瓦の欠片は麗末鮮初の時代のものです。"
+        },
+        {
+            "question": "この平瓦の欠片は何材質でできていますか？",
+            "answer": "この平瓦の欠片は土でできています。"
+        },
+        {
+            "question": "この平瓦の欠片の大きさはどのくらいですか？",
+            "answer": "この平瓦の欠片の寸法は8.8cmの長さ、8.6cmの幅、3.0cmの厚さ、15.3cmの長さ、15.1cmの幅、2.4cmの厚さ、17.3cmの長さ、10.1cmの幅、2.0cmの厚さ、13.7cmの長さ、11.1cmの幅、2.0cmの厚さです。"
+        }
+    ],
+    "word_Count": {
+        "text": 150,
+        "QA": 162
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_003744",
+        "source": "도서",
+        "writer": "박정배",
+        "ISBN_ISNN": "978-89-9882-225-5",
+        "version": "초판",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "푸드 인 더 시티",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2016-09-29",
+        "domain": "음식점",
+        "title": "오브오프"
+    },
+    "text": "オブオフはロースティング製造施設が併設されている店舗で、快適な空間と毎日より特別なコーヒーを作るために努力しています。 メニューには様々な飲み物があり、Bread、Tea、Ice Cream、Ice Cream Latte、Cream Latte、Vanilla Bean Latte、Cold Brew、Fruit Ade,Triple Berry Milk, White, Orange, Blackなどがあります。 各ドリンクの価格はドリンクによって異なり、Breadは変動価格です。 Teaは5,000ウォン、Ice Creamは5,500ウォン、Ice Cream Latteは6,000ウォン、Cream Latteは5,500ウォン、Vanilla Bean Latteは5,500ウォン、Cold Brewは5,000ウォン、Fruit Adeは6,000ウォン、Triple Berry Milkは6,000ウォン、White は5,000ウォン、Orange は6,000ウォン、Black は4,500ウォンです。",
+    "QA": [
+        {
+            "question": "オブオフでは何種類の飲み物が提供されていますか？",
+            "answer": "オブオフではBread、Tea、Ice Cream、Ice Cream Latte、Cream Latte、Vanilla Bean Latte、Cold Brew、Fruit Ade、Triple Berry Milk、White、Orange、Blackなど、様々な種類の飲み物が提供されています。"
+        },
+        {
+            "question": "各ドリンクの値段はいくらですか？",
+            "answer": "各ドリンクの値段は異なります。Breadは変動価格です。Teaは5,000ウォン、Ice Creamは5,500ウォン、Ice Cream Latteは6,000ウォン、Cream Latteは5,500ウォン、Vanilla Bean Latteは5,500ウォン、Cold Brewは5,000ウォン、Fruit Adeは6,000ウォン、Triple Berry Milkは6,000ウォン、Whiteは5,000ウォン、Orangeは6,000ウォン、Blackは4,500ウォンです。"
+        },
+        {
+            "question": "オブオフではどのような空間が提供されていますか？",
+            "answer": "オブオフでは快適な空間が提供されており、ロースティング製造施設が併設されています。"
+        },
+        {
+            "question": "オブオフではどのようなコーヒーを作っていますか？",
+            "answer": "オブオフでは毎日より特別なコーヒーを作るために努力しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 343,
+        "QA": 409
+    }
+}

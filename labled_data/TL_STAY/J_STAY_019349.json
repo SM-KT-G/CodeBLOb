@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_019349",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42030&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "구미 인동 호텔 콤마"
+    },
+    "text": "亀尾仁洞で最も最近リニューアルされた業者であるコンマは、自由に呼吸できる空間を提供します。 各客室はもちろん、客室の鍵、エレベーター、ロビー全体を毎日エタノールで消毒して安全を維持しています。 前のカウンターには手指消毒剤も備えられているので心配しないでください。 私たちはお客様の安全を最優先に考えていますので、ご心配なくお越しください。",
+    "QA": [
+        {
+            "question": "コンマはどのような場所ですか？",
+            "answer": "コンマは亀尾仁洞で最も最近リニューアルされた業者で、自由に呼吸できる空間を提供しています。"
+        },
+        {
+            "question": "コンマではどのような安全対策を行っていますか？",
+            "answer": "コンマでは、各客室はもちろん、客室の鍵、エレベーター、ロビー全体を毎日エタノールで消毒して安全を維持しています。また、前のカウンターには手指消毒剤も備えられています。"
+        },
+        {
+            "question": "お客様の安全はコンマの最優先事項ですか？",
+            "answer": "はい、私たちはお客様の安全を最優先に考えていますので、ご心配なくお越しください。"
+        }
+    ],
+    "word_Count": {
+        "text": 124,
+        "QA": 165
+    }
+}

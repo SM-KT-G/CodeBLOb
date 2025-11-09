@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_054098",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/view?relicId=181506",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "글자를 새긴 기와 조각11"
+    },
+    "text": "文字を刻んだ瓦礫 (글자를 새긴 기와 조각)\\n\n左片の外面には「寺」の字が、右片には「官」の字が刻まれている。 ,国籍/時代:'韓国 - 統一新羅' ,材質:'土 - 瓦質' ,分類:'主生活 - 建築部材 - 屋根材 - 平瓦' ,サイズ:'現在長さ111cm、現在幅121cm、現在長さ84cm、現在幅64cm'",
+    "QA": [
+        {
+            "question": "この瓦礫の国籍と時代は何ですか？",
+            "answer": "韓国 - 統一新羅"
+        },
+        {
+            "question": "この瓦礫はどのような材質でできていますか？",
+            "answer": "土 - 瓦質"
+        },
+        {
+            "question": "この瓦礫はどのような分類に属していますか？",
+            "answer": "主生活 - 建築部材 - 屋根材 - 平瓦"
+        },
+        {
+            "question": "この瓦礫のサイズはどのくらいですか？",
+            "answer": "現在長さ111cm、現在幅121cm、現在長さ84cm、現在幅64cm"
+        },
+        {
+            "question": "この瓦礫にはどのような文字が刻まれていますか？",
+            "answer": "左片の外面には「寺」の字が、右片には「官」の字が刻まれています。"
+        }
+    ],
+    "word_Count": {
+        "text": 117,
+        "QA": 148
+    }
+}

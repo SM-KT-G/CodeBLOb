@@ -1,0 +1,55 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_016849",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=332&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=17&ccbaAsno=00860100&ccbaCtcd=31&ccbaCpno=1271100860100&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "문배주"
+    },
+    "text": "門梨酒 (문배주)\\n\n国家無形文化財 , 文培酒は平安道地方で伝承されてくる酒で、酒の香りが文培の果実から漂う香りのようで付けられた名前だ。 門梨酒は解放前には平壌大同江流域の石灰岩層から湧き出る地下水を使用したという。 原料は小麦·うるち米·きびで、麹の主原料は小麦である。 酒の色は薄い黄褐色を帯び、門背香が強く、アルコール度数は本来40度程度だが蒸留および熟成が終わった門背酒は48.1度に達するので長期間保存が可能だ。 普通6ヶ月~1年間熟成させて保存するが、門梨の果実を全く使わなくても門梨の香りを漂わせる特徴がある。",
+    "QA": [
+        {
+            "question": "門梨酒は何地方で伝承されてきた酒ですか？",
+            "answer": "門梨酒は平安道地方で伝承されてきた酒です。"
+        },
+        {
+            "question": "門梨酒の名前の由来は何ですか？",
+            "answer": "門梨酒の名前は、酒の香りが文培の果実から漂う香りのようであるため付けられました。"
+        },
+        {
+            "question": "門梨酒の原料は何で作られていますか？",
+            "answer": "門梨酒の原料は小麦・うるち米・きびで作られています。"
+        },
+        {
+            "question": "門梨酒の麹の主原料は何ですか？",
+            "answer": "門梨酒の麹の主原料は小麦です。"
+        },
+        {
+            "question": "門梨酒の色はどのような色ですか？",
+            "answer": "門梨酒の色は薄い黄褐色を帯びています。"
+        },
+        {
+            "question": "門梨酒のアルコール度数は何度ですか？",
+            "answer": "門梨酒のアルコール度数は本来40度程度ですが、蒸留および熟成が終わった門梨酒は48.1度に達します。"
+        },
+        {
+            "question": "門梨酒はどれくらいの期間熟成させて保存するのですか？",
+            "answer": "普通は6ヶ月〜1年間熟成させて保存します。"
+        },
+        {
+            "question": "門梨酒は門梨の果実を使わなくても門梨の香りを漂わせることができるのですか？",
+            "answer": "はい、門梨酒は門梨の果実を全く使わなくても門梨の香りを漂わせることができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 194,
+        "QA": 290
+    }
+}

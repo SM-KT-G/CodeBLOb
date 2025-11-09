@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_LEI_006152",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2022-11-03",
+        "domain": "레포츠",
+        "title": "고래숲캠핑장"
+    },
+    "text": "大阜島トゥルレキルに面した体験型観光農園は栗林に囲まれています。 ここでは干潟体験、農場体験、森体験、海釣り体験ができます。 子供たちはバスケットボール場で遊んだり、水遊び場、砂遊び場、子供の遊び場で楽しい時間を過ごすことができます。 農場では自分で栽培する農作物を収穫できます。",
+    "QA": [
+        {
+            "question": "この観光農園ではどんな体験ができますか？",
+            "answer": "干潟体験、農場体験、森体験、海釣り体験ができます。"
+        },
+        {
+            "question": "子供たちはどこで遊ぶことができますか？",
+            "answer": "子供たちはバスケットボール場や水遊び場、砂遊び場、子供の遊び場で遊ぶことができます。"
+        },
+        {
+            "question": "農場ではどんな農作物を栽培できますか？",
+            "answer": "農場では自分で栽培する農作物を収穫できます。具体的な農作物は案内時にお伝えします。"
+        }
+    ],
+    "word_Count": {
+        "text": 102,
+        "QA": 121
+    }
+}

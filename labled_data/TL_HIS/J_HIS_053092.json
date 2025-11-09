@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_053092",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1227&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=79&ccbaAsno=04430000&ccbaCtcd=34&ccbaCpno=4413404430000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2009-10-12",
+        "domain": "문화/역사관광",
+        "title": "구 공주읍사무소"
+    },
+    "text": "旧公州邑事務所\\n\n忠清南道公州市郵便局キル8(生地洞)\\n\n国家登録文化財、この建物は、忠清南道(チュンチョンナムド)金融組合連合会会館で建立した以降に公州邑事務所(1930~1985年)、公州市庁(1986~1989年)などで使用した。2階建ての赤レンガの建物で、玄関が突出しており、前面の中央部分に円柱が4つあり、エンターダービー(Entablature)で飾って正面性を強調しており、全体的に左右対称のバランスの美しさを見せてくれている。公州市旧都心を活性化しようとする文化事業の一つとして2010年に\"デザインカフェ\"に活用していたが、2014年のリニューアルを通じ、王女の歴史映像館でオープンした。",
+    "QA": [
+        {
+            "question": "この建物は何のために使用されていましたか？",
+            "answer": "この建物は、忠清南道金融組合連合会会館、公州邑事務所、公州市庁などで使用されていました。"
+        },
+        {
+            "question": "この建物の特徴は何ですか？",
+            "answer": "この建物は2階建ての赤レンガの建物で、玄関が突出しており、前面の中央部分に円柱が4つあり、エンターダービーで飾って正面性を強調しています。全体的に左右対称のバランスの美しさを見せています。"
+        },
+        {
+            "question": "この建物は何年から何年まで使用されていましたか？",
+            "answer": "この建物は1930年から1989年まで使用されていました。"
+        },
+        {
+            "question": "この建物は何のためにリニューアルされましたか？",
+            "answer": "この建物は公州市旧都心を活性化するための文化事業の一環としてリニューアルされ、王女の歴史映像館としてオープンしました。"
+        },
+        {
+            "question": "この建物はどの場所にありますか？",
+            "answer": "この建物は忠清南道公州市郵便局キル8(生地洞)にあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 223,
+        "QA": 258
+    }
+}

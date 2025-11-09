@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_098079",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=435&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=00780000&ccbaCtcd=37&ccbaCpno=2113700780000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1975-08-18",
+        "domain": "문화/역사관광",
+        "title": "자양서당"
+    },
+    "text": "紫陽書堂\\n\n慶尚北道永川市臨皐面浦恩路964-86(三梅里)\\n\n慶尚北道有形文化財、朝鮮明宗1年(1546)にキムウンセンが故郷の後進の教育のために滋養面ノハンドンに建てられた寺子屋だ。現在の建物は、後代に建て直したものとみられる。1976年の永川(ヨンチョン)ダム建設によって今の位置に移されたが、この時建物の周りに塀を巡らせて門を建てた。学生たちが集まって文章を読む、板の間と生活のための部屋だけで平凡で素朴に構成されている。一般的な書堂建物には前方に別々に出してたったトェッガンがいるが、滋養寺子屋にはない。寺子屋の中には退渓李滉(テゲ・イファン)が直接書いた扁額がかかっている。一方、ドンリンガクに忠武公李舜臣(イ・スンシン)と共に祀られているキムワン将軍はキムウンセンの三番目の息子だ。",
+    "QA": [
+        {
+            "question": "この書堂の建設者は誰ですか？",
+            "answer": "キムウンセンが故郷の後進の教育のために滋養面ノハンドンに建てられた寺子屋です。"
+        },
+        {
+            "question": "何年に建てられたのですか？",
+            "answer": "朝鮮明宗1年、つまり1546年に建てられました。"
+        },
+        {
+            "question": "現在の建物は誰によって建て直されたとみられていますか？",
+            "answer": "後代に建て直したものとみられています。"
+        },
+        {
+            "question": "永川ダム建設によってこの書堂はどこに移されましたか？",
+            "answer": "1976年の永川(ヨンチョン)ダム建設によって今の位置に移されました。"
+        },
+        {
+            "question": "この書堂の中には誰が直接書いた扁額がかかっていますか？",
+            "answer": "退渓李滉(テゲ・イファン)が直接書いた扁額がかかっています。"
+        },
+        {
+            "question": "キムワン将軍は誰の三番目の息子ですか？",
+            "answer": "キムワン将軍はキムウンセンの三番目の息子です。"
+        }
+    ],
+    "word_Count": {
+        "text": 256,
+        "QA": 217
+    }
+}

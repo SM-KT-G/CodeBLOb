@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_100552",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=341&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=18&ccbaAsno=00380000&ccbaCtcd=26&ccbaCpno=1483700380000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1979-01-26",
+        "domain": "문화/역사관광",
+        "title": "정공청 유품"
+    },
+    "text": "朝鮮時代、国家民俗文化財であるチョンコンチョン将軍の遺物は、文禄・慶長の役当時の義兵長として活躍した彼の投球と鎧、手袋、ベルト、矢などを保管している。チョンコンチョン将軍は息子と共に戦争に参加して蔚山(ウルサン)、西生浦、キビなどで多くの日本軍と戦って勝利を収めた。彼は1等、息子は2等功臣に冊封されたが、このような業績によって現在までもチョンコンチョン将軍の遺物は国立慶州博物館に委託されて大切に保管されている。この遺物たちはひどく腐食した状態だが、投球の円形、鎧の緑色の上着と絹の裏地、そして手袋の角指などの姿を類推してみることができる。このほかにもベルトと刀剣、矢などの遺物はボクシクサを研究する上で重要な資料として活用されている。",
+    "QA": [
+        {
+            "question": "チョンコンチョン将軍の遺物はどこに保管されていますか？",
+            "answer": "国立慶州博物館に委託されて大切に保管されています。"
+        },
+        {
+            "question": "チョンコンチョン将軍はどのような活動をしたのですか？",
+            "answer": "文禄・慶長の役当時の義兵長として活躍し、蔚山(ウルサン)、西生浦、キビなどで多くの日本軍と戦って勝利を収めました。"
+        },
+        {
+            "question": "チョンコンチョン将軍の遺物にはどんなものが含まれていますか？",
+            "answer": "投球、鎧、手袋、ベルト、矢などが含まれており、腐食した状態でもそれぞれの形状が類推できます。"
+        },
+        {
+            "question": "チョンコンチョン将軍の息子は何の功績で冊封されましたか？",
+            "answer": "息子は2等功臣に冊封されました。"
+        },
+        {
+            "question": "チョンコンチョン将軍の遺物はどのような資料として活用されていますか？",
+            "answer": "ベルト、刀剣、矢などの遺物はボクシクサを研究する上で重要な資料として活用されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 233,
+        "QA": 243
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_001921",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=114&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=09570000&ccbaCtcd=22&ccbaCpno=1123709570000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1988-06-16",
+        "domain": "문화/역사관광",
+        "title": "김일손 거문고"
+    },
+    "text": "キム·イルソンコムンゴ (김일손 거문고)\\n\nタラ 水性球 青壺炉 321, クンニプ・テグ・バンムルグァン (黄金洞(ファングムドン),クンニプ・テグ・バンムルグァン)\\n\n朝鮮成宗21年(1490) , 宝物 , 朝鮮初期の学者である拓英キム·イルソンが使っていたコムンゴで、大きさは長さ160㎝、幅19㎝、高さ10㎝だ。 琴の中央部分に濁影琴という文字が刻まれており、鶴の絵が琴の頭の部分に描かれている。 琴の頭の部分である龍頭と、紐を乗せて固定させる雲足は原型のまま保存されている反面、先端部分である鳳尾、雲足のように紐を固定させる掛など一部の部品は新しく補修した跡が見える。 昔のソンビのペットとして使われた楽器としては唯一、国家文化財に指定されたのだ。",
+    "QA": [
+        {
+            "question": "このコムンゴは誰が使っていた楽器ですか？",
+            "answer": "拓英キム·イルソンが使っていた楽器です。"
+        },
+        {
+            "question": "このコムンゴの大きさは何ですか？",
+            "answer": "このコムンゴの大きさは長さ160㎝、幅19㎝、高さ10㎝です。"
+        },
+        {
+            "question": "コムンゴの中央部分に刻まれている文字は何ですか？",
+            "answer": "コムンゴの中央部分には濁影琴という文字が刻まれています。"
+        },
+        {
+            "question": "コムンゴの頭の部分に描かれている絵は何ですか？",
+            "answer": "コムンゴの頭の部分には鶴の絵が描かれています。"
+        },
+        {
+            "question": "このコムンゴはどのように使われていましたか？",
+            "answer": "このコムンゴは昔のソンビのペットとして使われていました。"
+        },
+        {
+            "question": "この楽器は国家文化財に指定されていますか？",
+            "answer": "はい、この楽器は唯一、国家文化財に指定されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 244,
+        "QA": 206
+    }
+}

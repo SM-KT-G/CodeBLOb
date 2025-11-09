@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_011356",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2020-08-13",
+        "domain": "문화/역사관광",
+        "title": "金海ロッテウォーターパーク（김해 롯데워터파크）"
+    },
+    "text": "金海ロッテウォーターパーク\n慶尚南道 金海市 長有路555\nテーマパークのノウハウを持つロッテワールドが運営する韓国最大級のウォーターパークです。南太平洋のポリネシアをコンセプトに作られたパーク内では、今までのテーマパークとは違う休日を過ごせるでしょう。",
+    "QA": [
+        {
+            "question": "ウォーターパークの名称は何ですか？",
+            "answer": "金海ロッテウォーターパーク"
+        },
+        {
+            "question": "金海ロッテウォーターパークはどこに位置していますか？",
+            "answer": "慶尚南道 金海市 長有路555"
+        },
+        {
+            "question": "金海ロッテウォーターパークのコンセプトは何ですか？",
+            "answer": "南太平洋のポリネシア"
+        },
+        {
+            "question": "金海ロッテウォーターパークはどのような施設ですか？",
+            "answer": "韓国最大級のウォーターパークで、ロッテワールドが運営しています"
+        },
+        {
+            "question": "金海ロッテウォーターパークの特徴は何ですか？",
+            "answer": "テーマパークのノウハウを持つため、他のウォーターパークとは異なる楽しみ方ができます"
+        }
+    ],
+    "word_Count": {
+        "text": 93,
+        "QA": 165
+    }
+}

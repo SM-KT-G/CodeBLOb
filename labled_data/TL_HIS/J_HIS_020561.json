@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_020561",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=545&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=02290000&ccbaCtcd=38&ccbaCpno=2113802290000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1983-08-12",
+        "domain": "문화/역사관광",
+        "title": "삼가향교"
+    },
+    "text": "三家郷校 (삼가향교)\\n\n慶尚南道陜川郡ソオ2ギル18-5(控え室、チェシル)\\n\n慶尚南道有形文化財 , 郷校は立派な儒学者を祭祀し、地方民の儒学教育と教化のために国で建てた教育機関である朝鮮世宗(在位1418~1450)の時に建てたといい、壬辰倭乱の時に燃えたものを光海君4年(1612)に建て直した。 全体的な建物配置は勉強する所である明倫堂が前にあり、祭祀を行う所である大成殿が後にある転校後墓の形だ。 記録上には本来、東·西斎と祠堂である東·西武があったと見られるが、郷校が教育の機能を失い撤去されたものと見られる。 現在は出入り口であり休息空間だった風化楼、明倫堂、祠堂出入り口である内三門、大成殿だけが残って一直線になっている。 郷校の東側の塀には本を保管する全社庁、管理士、祠堂、斎室などの建物がある。",
+    "QA": [
+        {
+            "question": "三家郷校はどこにありますか？",
+            "answer": "三家郷校は慶尚南道陜川郡ソオ2ギル18-5にあります。"
+        },
+        {
+            "question": "三家郷校はいつ建てられましたか？",
+            "answer": "三家郷校は朝鮮世宗の時代に建てられました。"
+        },
+        {
+            "question": "三家郷校は何のために建てられたのですか？",
+            "answer": "三家郷校は地方民の儒学教育と教化のために建てられました。"
+        },
+        {
+            "question": "三家郷校の建物配置はどのようになっていますか？",
+            "answer": "三家郷校の建物配置は勉強する所である明倫堂が前にあり、祭祀を行う所である大成殿が後にある転校後墓の形です。"
+        },
+        {
+            "question": "三家郷校の現在の状況はどうなっていますか？",
+            "answer": "三家郷校の風化楼、明倫堂、内三門、大成殿が残っています。"
+        },
+        {
+            "question": "三家郷校の東側の塀には何の建物がありますか？",
+            "answer": "三家郷校の東側の塀には本を保管する全社庁、管理士、祠堂、斎室などの建物があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 264,
+        "QA": 230
+    }
+}

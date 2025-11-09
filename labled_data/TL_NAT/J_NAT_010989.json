@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_010989",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2023-07-03",
+        "domain": "자연관광",
+        "title": "삼척 맹방유채꽃 마을"
+    },
+    "text": "三陟メンバン菜の花村 (삼척 맹방유채꽃 마을)\\n\n江原特別自治道 三陟市近徳面三陟路3906-11\\n\n三陟メンバン菜の花村は国道7号沿いの桜並木道(4.2km)の横に造成された村の菜の花畑(7.2ha)で毎年祭りが開催され、桜と菜の花、海が一度に楽しめる村だ。",
+    "QA": [
+        {
+            "question": "菜の花村の場所はどこですか？",
+            "answer": "菜の花村は江原特別自治道三陟市近徳面三陟路3906-11にあります。"
+        },
+        {
+            "question": "菜の花村で毎年開催される祭りは何ですか？",
+            "answer": "菜の花村では毎年菜の花祭りが開催されています。"
+        },
+        {
+            "question": "菜の花村で楽しめる景色は何ですか？",
+            "answer": "菜の花村では桜と菜の花、そして海を一度に楽しむことができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 97,
+        "QA": 101
+    }
+}

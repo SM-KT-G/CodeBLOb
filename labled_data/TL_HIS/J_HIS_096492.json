@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_096492",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/collectionList#######",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2023-10-11",
+        "domain": "문화/역사관광",
+        "title": "이인문필 사계산수도"
+    },
+    "text": "李仁文筆四季山水図 (이인문필 사계산수도)\\n\n国籍と時代：韓国（朝鮮時代） 材質：繊維（絹） 作家：李寅文（1745-1824年以降） 分類：文化芸術 - 書画 - 絵画（一般絵画） サイズ：横310cm、縦1260cm、横182cm、縦242cm、長さ14cm、長さ376cm、厚さ22cm → 国籍と時代：朝鮮時代の韓国 材質：絹 作家：李寅文（1745年以降） 分類：書画 - 絵画（一般絵画） サイズ：横310cm、縦1260cm、横182cm、縦242cm、長さ14cm、長さ376cm、厚さ22cm",
+    "QA": [
+        {
+            "question": "この絵画の作家は誰ですか？",
+            "answer": "李寅文"
+        },
+        {
+            "question": "材質は何ですか？",
+            "answer": "絹"
+        },
+        {
+            "question": "この絵画のサイズはどのくらいですか？",
+            "answer": "横310cm、縦1260cm、横182cm、縦242cm、長さ14cm、長さ376cm、厚さ22cm"
+        },
+        {
+            "question": "この絵画の国籍と時代は何ですか？",
+            "answer": "朝鮮時代の韓国"
+        },
+        {
+            "question": "この絵画はどのような分類に属しますか？",
+            "answer": "書画 - 絵画（一般絵画）"
+        }
+    ],
+    "word_Count": {
+        "text": 188,
+        "QA": 108
+    }
+}

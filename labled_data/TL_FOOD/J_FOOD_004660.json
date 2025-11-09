@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_004660",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-05",
+        "domain": "음식점",
+        "title": "カマコル ( 가마골 )"
+    },
+    "text": "カマコル ( 가마골 )\\n\nソウル特別市 江東区 コドクロ38ギル63\\n\n釜蓋の上で焼いて食べるサムギョプサルが有名な店です。ソウル特別市のガンドン区に位置した韓食専門店です。おすすめはサムギョプサルです。",
+    "QA": [
+        {
+            "question": "カマコルはどこに位置していますか？",
+            "answer": "カマコルはソウル特別市江東区コドクロ38ギル63に位置しています。"
+        },
+        {
+            "question": "カマコルはどのような料理が有名ですか？",
+            "answer": "カマコルは釜蓋の上で焼いて食べるサムギョプサルが有名です。"
+        },
+        {
+            "question": "カマコルのおすすめのメニューは何ですか？",
+            "answer": "カマコルのおすすめはサムギョプサルです。"
+        }
+    ],
+    "word_Count": {
+        "text": 77,
+        "QA": 101
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_053713",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.goodchoice.kr/product/detail?ano=70443&adcno=1&sel_date=2023-11-07&sel_date2=2023-11-08",
+        "collectedDate": "2023-11-15",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "무거 산드라"
+    },
+    "text": "ペイバックバッジがついている客室をご予約いただくと、ペイバック50%割引クーポンをお渡しするご案内です。 また、5千ウォンクーポンバッジが付いている客室をご予約いただくと、5千ウォンクーポンが支給されます。",
+    "QA": [
+        {
+            "question": "どの客室にはペイバックバッジがついていますか？",
+            "answer": "ペイバックバッジは特定の客室についており、その客室を予約するとペイバック50%割引クーポンが提供されます。"
+        },
+        {
+            "question": "どの客室には5千ウォンクーポンバッジがついていますか？",
+            "answer": "5千ウォンクーポンバッジは特定の客室についており、その客室を予約すると5千ウォンクーポンが支給されます。"
+        }
+    ],
+    "word_Count": {
+        "text": 75,
+        "QA": 113
+    }
+}

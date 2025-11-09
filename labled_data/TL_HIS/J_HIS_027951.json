@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_027951",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2022-05-16",
+        "domain": "문화/역사관광",
+        "title": "저산서원(김제)"
+    },
+    "text": "猪山書院(金堤) (저산서원(김제))\\n\n全羅北道金堤市孔徳面回龍キル423-6(孔徳面)\\n\n楮山書院は1577年(宣祖16年)に創建され、高宗6年(1869)に撤廃されたものを1904年に再建したものである。祠堂には文克謙を中心に文益漸、文贊、柳之綱、柳之紀(柳之紀)などが祀られている。",
+    "QA": [
+        {
+            "question": "楮山書院はいつ創建されましたか？",
+            "answer": "楮山書院は1577年(宣祖16年)に創建されました。"
+        },
+        {
+            "question": "楮山書院はいつ再建されましたか？",
+            "answer": "楮山書院は1904年に再建されました。"
+        },
+        {
+            "question": "楮山書院の祠堂には誰が祀られていますか？",
+            "answer": "楮山書院の祠堂には文克謙を中心に文益漸、文贊、柳之綱、柳之紀などが祀られています。"
+        }
+    ],
+    "word_Count": {
+        "text": 107,
+        "QA": 101
+    }
+}

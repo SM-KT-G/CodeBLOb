@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_066239",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/view?relicId=198344",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "바리"
+    },
+    "text": "鉢 (바리)\\n\nこの物は韓国の原三国時代に使われたもので、土でできており、軟らかい特性を持っています。分類としては食生活に関するもので、食べ物の保存や運搬に用いられていました。サイズは口径が16.0cm、高さが16.4cm、底径が10.5cmです。また、別の部分についても、口径が15.7cm、高さが13.8cm、底径が10.9cmで、現在の高さは22.1cmです。",
+    "QA": [
+        {
+            "question": "この鉢は何のために使われていましたか？",
+            "answer": "この鉢は食べ物の保存や運搬に使われていました。"
+        },
+        {
+            "question": "この鉢は何でできていますか？",
+            "answer": "この鉢は土でできています。"
+        },
+        {
+            "question": "この鉢のサイズはどれくらいですか？",
+            "answer": "口径が16.0cm、高さが16.4cm、底径が10.5cmです。"
+        },
+        {
+            "question": "別の部分のサイズはどれくらいですか？",
+            "answer": "別の部分の口径が15.7cm、高さが13.8cm、底径が10.9cmで、現在の高さは22.1cmです。"
+        }
+    ],
+    "word_Count": {
+        "text": 134,
+        "QA": 137
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_029896",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/yetchatjip",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "イエッチャッチプ"
+    },
+    "text": "イエッチャッチプ\\n\nソウル特別市 鍾路区 仁寺洞キル 33-1（寬勲洞）\\n\n映画のロケ場所として有名な伝統喫茶で、伝統茶はすべて煮出して作られたものです。夏のメニューであるかき氷(ピンス)の小豆も手作りです。",
+    "QA": [
+        {
+            "question": "この伝統喫茶の名前は何ですか？",
+            "answer": "イエッチャッチプ"
+        },
+        {
+            "question": "この伝統喫茶の場所はどこですか？",
+            "answer": "ソウル特別市 鍾路区 仁寺洞キル 33-1（寬勲洞）"
+        },
+        {
+            "question": "この伝統喫茶ではどのような茶が提供されていますか？",
+            "answer": "伝統茶はすべて煮出して作られたものです"
+        },
+        {
+            "question": "夏のメニューであるかき氷(ピンス)の小豆は手作りですか？",
+            "answer": "はい、手作りです"
+        }
+    ],
+    "word_Count": {
+        "text": 77,
+        "QA": 106
+    }
+}

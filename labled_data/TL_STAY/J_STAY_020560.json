@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_020560",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2020-12-31",
+        "domain": "숙박",
+        "title": "大邱グランドホテル（대구그랜드호텔）"
+    },
+    "text": "大邱グランドホテル（대구그랜드호텔）\\n\n大邱広域市 寿城区 東大邱路305\\n\n「大邱（テグ）グランドホテル（The Grand Hotel Daegu）」は交通とビジネスの中心地である寿城区泛魚洞に位置しており、最新設備を有する大邱最大規模を誇るホテルです。客室150室、各種レストラン、男女サウナ、フィットネスクラブ、結婚式場、宴会場などの様々な施設があります。",
+    "QA": [
+        {
+            "question": "大邱グランドホテルはどこにありますか？",
+            "answer": "大邱グランドホテルは大邱広域市寿城区東大邱路305に位置しています。"
+        },
+        {
+            "question": "大邱グランドホテルの客室数はいくつですか？",
+            "answer": "大邱グランドホテルには150室の客室があります。"
+        },
+        {
+            "question": "大邱グランドホテルにはどんな施設がありますか？",
+            "answer": "大邱グランドホテルには各種レストラン、男女サウナ、フィットネスクラブ、結婚式場、宴会場などの様々な施設があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 134,
+        "QA": 130
+    }
+}

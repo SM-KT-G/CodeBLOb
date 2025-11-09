@@ -1,0 +1,31 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_007277",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2020-12-08",
+        "domain": "음식점",
+        "title": "サム村( 쌈촌 )"
+    },
+    "text": "サム村( 쌈촌 )\\n\n慶尚北道 アンドン市 ボクジュギル34\\n\nライスペーパーに肉と野菜を入れて、様々なソースにつけて食べる料理です。おすすめは生春巻きです。慶尚北道のアンドン市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "サム村( 쌈촌 )はどこにありますか？",
+            "answer": "サム村は慶尚北道のアンドン市に位置しています。"
+        },
+        {
+            "question": "サム村ではどのような料理が楽しめますか？",
+            "answer": "サム村ではライスペーパーに肉と野菜を入れて、様々なソースにつけて食べる料理が楽しめます。特におすすめは生春巻きです。"
+        }
+    ],
+    "word_Count": {
+        "text": 76,
+        "QA": 88
+    }
+}

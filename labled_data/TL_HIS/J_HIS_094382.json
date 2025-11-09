@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_094382",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=803&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=00410000&ccbaCtcd=37&ccbaCpno=2333700410000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1982-12-01",
+        "domain": "문화/역사관광",
+        "title": "월천서당"
+    },
+    "text": "ウォルチョンソダン\\n\n慶尚北道安東市陶山面月川キル437-7(ドンブリ)\\n\n慶尚北道記念物、川越し条目(1524∼1606)が後進を育成するために建てられた寺子屋だ。箇条は退渓李滉(テゲ・イファン)から教えを受けて明宗7年(1552)生員市に合格したが、様々な地位を固辞して李滉を近く仕えながら学問研究だけに注力した方だ。文禄・慶長の役の時には妹、2人の息子とともに、義兵を募集して活動し、李滉の弟子の中で唯一、陶山書院サンドクサに安置した。中宗34年(1539)に建てられたこの書堂は前面4間・側面2間規模で、屋根は側面から見ると、八(八部)字形の入母屋屋根で飾った。うち、2間には床を構成し、両横にオンドル部屋を配置した。''川越し寺子屋''の扁額は李滉の直筆である。",
+    "QA": [
+        {
+            "question": "川越し寺子屋は何年に建てられましたか？",
+            "answer": "川越し寺子屋は中宗34年(1539)に建てられました。"
+        },
+        {
+            "question": "川越し寺子屋を建てた人物は誰ですか？",
+            "answer": "川越し寺子屋は退渓李滉(テゲ・イファン)によって建てられました。"
+        },
+        {
+            "question": "川越し寺子屋の規模はどのようなものですか？",
+            "answer": "川越し寺子屋は前面4間・側面2間規模で、屋根は八(八部)字形の入母屋屋根で飾られています。"
+        },
+        {
+            "question": "川越し寺子屋の扁額は誰の直筆ですか？",
+            "answer": "川越し寺子屋の扁額は李滉の直筆です。"
+        },
+        {
+            "question": "川越し寺子屋は何を育成するために建てられたのですか？",
+            "answer": "川越し寺子屋は後進を育成するために建てられました。"
+        }
+    ],
+    "word_Count": {
+        "text": 247,
+        "QA": 182
+    }
+}

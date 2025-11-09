@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_055515",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/himesiya",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "ヒメシヤ"
+    },
+    "text": "ヒメシヤ\\n\nソウル特別市 ジョンノ区 チャンギョングンロ26ギル 40\\n\nこの店はソウル特別市のチャンギョングンに位置した和食専門店です。和風丼料理の専門店です。代表的なメニューはカツ丼です。",
+    "QA": [
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "ソウル特別市 ジョンノ区 チャンギョングンロ26ギル 40です。"
+        },
+        {
+            "question": "この店は何の専門店ですか？",
+            "answer": "この店は和食専門店です。"
+        },
+        {
+            "question": "代表的なメニューは何ですか？",
+            "answer": "代表的なメニューはカツ丼です。"
+        }
+    ],
+    "word_Count": {
+        "text": 71,
+        "QA": 72
+    }
+}

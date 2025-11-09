@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_004231",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-06",
+        "domain": "음식점",
+        "title": "カフェLN（Luden Loquen SPACE）（카페LN（루덴로켄 SPACE））"
+    },
+    "text": "カフェLN（Luden Loquen SPACE）（카페LN（루덴로켄 SPACE））\\n\nソウル特別市 鐘路区 北村路5ナキル5\\n\n「カフェLN」は北村にある韓屋を利用したカフェで「ただお茶を飲むところ」以上の価値を提供すべく様々な努力をしています。国内はもちろん世界各国からの旅行客も訪れています。店内は韓国の伝統建築物を利用したスペースと現代が見事に調和し、その魅力に加え五味子、カリン、木苺、菊花茶などお茶一杯にも各名産地の最高品質の材料だけを厳選しています。",
+    "QA": [
+        {
+            "question": "カフェLNはどこにありますか？",
+            "answer": "カフェLNはソウル特別市鐘路区北村路5ナキル5にあります。"
+        },
+        {
+            "question": "カフェLNはどのような価値を提供していますか？",
+            "answer": "カフェLNは「ただお茶を飲むところ」以上の価値を提供すべく様々な努力をしています。"
+        },
+        {
+            "question": "カフェLNの店内はどのような雰囲気ですか？",
+            "answer": "カフェLNの店内は韓国の伝統建築物を利用したスペースと現代が見事に調和しており、魅力的な雰囲気です。"
+        },
+        {
+            "question": "カフェLNで提供されるお茶はどのようなものがありますか？",
+            "answer": "カフェLNでは五味子、カリン、木苺、菊花茶など、各名産地の最高品質の材料を厳選したお茶を提供しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 172,
+        "QA": 189
+    }
+}

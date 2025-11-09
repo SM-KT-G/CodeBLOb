@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_017792",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-03",
+        "domain": "음식점",
+        "title": "錦繡江山 ( 금수강산 )"
+    },
+    "text": "錦繡江山 ( 금수강산 )\\n\nソウル特別市 ヨンドゥンポ区 ヨンドゥンポロ147\\n\n様々な豚の部位の焼き肉が味わえる店です。代表的なメニューはサムギョプサルです。ソウル特別市のヨンドゥンポ区に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "ソウル特別市のヨンドゥンポ区に位置しています。"
+        },
+        {
+            "question": "この店の特徴的な料理は何ですか？",
+            "answer": "代表的なメニューはサムギョプサルです。"
+        },
+        {
+            "question": "この店ではどんな肉の部位が楽しめますか？",
+            "answer": "様々な豚の部位の焼き肉が味わえます。"
+        }
+    ],
+    "word_Count": {
+        "text": 80,
+        "QA": 79
+    }
+}

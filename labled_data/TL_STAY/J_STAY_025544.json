@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_025544",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42040&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "여수 베이원파크"
+    },
+    "text": "熊川のマリンシティに位置するベイワンパークは麗水の江南と呼ばれ、最中心に位置しています。 この宿泊施設はレジデンス生活型に設計されており、ホテル式ルームタイプやメゾネットタイプなど、さまざまな構造を提供しています。 これにより、お客様は麗水沖を眺めながら快適な室内空間を楽しむことができます。 ベイワンパークは快適な環境を整え、ゲストに優れた休息を提供します。",
+    "QA": [
+        {
+            "question": "ベイワンパークはどこに位置していますか？",
+            "answer": "ベイワンパークは熊川のマリンシティに位置しています。"
+        },
+        {
+            "question": "ベイワンパークの特徴は何ですか？",
+            "answer": "ベイワンパークは麗水の江南と呼ばれ、最中心に位置しています。"
+        },
+        {
+            "question": "どのような宿泊施設が提供されていますか？",
+            "answer": "ベイワンパークはホテル式ルームタイプやメゾネットタイプなど、さまざまな構造を提供しています。"
+        },
+        {
+            "question": "なぜベイワンパークは麗水沖を眺めながら室内空間を楽しむことができますか？",
+            "answer": "ベイワンパークはレジデンス生活型に設計されており、麗水沖を眺めながら快適な室内空間を楽しむことができます。"
+        },
+        {
+            "question": "ベイワンパークはどのような環境を整えていますか？",
+            "answer": "ベイワンパークは快適な環境を整え、ゲストに優れた休息を提供します。"
+        }
+    ],
+    "word_Count": {
+        "text": 132,
+        "QA": 222
+    }
+}

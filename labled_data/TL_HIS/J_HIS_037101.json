@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_037101",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=875&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=01660000&ccbaCtcd=33&ccbaCpno=2333301660000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2017-12-08",
+        "domain": "문화/역사관광",
+        "title": "청주 석화리 목책성"
+    },
+    "text": "淸州石花里木柵城 (청주 석화리 목책성)\\n\n忠清北道清州市興徳区江内面石化里山23\\n\n三国時代(百済)、忠清北道記念物、清州石化里木柵城は貯蔵工と木柵列が中心を成して貯蔵と関連した施設を防御する目的で作られた遺跡だ。 土器、瓦、鉄器の出土様相から、百済泗沘期の錦江(美湖川)を守る重要な拠点としての機能を果たしたものと推定される。炭化した大型植物流体(どんぐりなど)が貯蔵工から多量出土しており、当時どんぐりの食用と貯蔵、多様な鉄器の中で武器類の中で鉄部が最も多く出土したのが遺跡の性格を裏付けている。",
+    "QA": [
+        {
+            "question": "この遺跡はどこにありますか？",
+            "answer": "清州市興徳区江内面石化里山23にあります。"
+        },
+        {
+            "question": "木柵城はどのような目的で作られましたか？",
+            "answer": "木柵城は貯蔵工と木柵列が中心を成して貯蔵と関連した施設を防御する目的で作られました。"
+        },
+        {
+            "question": "遺跡から出土したものは何ですか？",
+            "answer": "遺跡からは土器、瓦、鉄器などが出土しています。"
+        },
+        {
+            "question": "遺跡が果たした機能は何ですか？",
+            "answer": "遺跡は百済泗沘期の錦江(美湖川)を守る重要な拠点としての機能を果たしました。"
+        },
+        {
+            "question": "遺跡から出土した植物の種類は何ですか？",
+            "answer": "遺跡からは炭化した大型植物流体(どんぐりなど)が多量に出土しています。"
+        },
+        {
+            "question": "遺跡から最も多く出土したのは何ですか？",
+            "answer": "遺跡から最も多く出土したのは鉄部の武器類です。"
+        }
+    ],
+    "word_Count": {
+        "text": 186,
+        "QA": 209
+    }
+}

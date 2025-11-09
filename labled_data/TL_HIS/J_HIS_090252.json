@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_090252",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/view?relicId=40532",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2023-10-11",
+        "domain": "문화/역사관광",
+        "title": "연꽃무늬 타원 수막새"
+    },
+    "text": "蓮の花模様の楕円軒丸瓦 (연꽃무늬 타원 수막새)\\n\n国籍/時代: 韓国 - 統一新羅 材質: 土 分類: 主生活 - 建築部材 - 屋根材 - 軒家 大きさ: 最大直径17cm、直径11cm 修正案: 韓国の統一新羅時代に使用された軒家の屋根材は、土でできています。この建築部材の大きさは、最大直径17cm、直径11cmです。",
+    "QA": [
+        {
+            "question": "この軒家の屋根材は何でできていますか？",
+            "answer": "この軒家の屋根材は土でできています。"
+        },
+        {
+            "question": "この軒家の屋根材の大きさはどのくらいですか？",
+            "answer": "この軒家の屋根材の大きさは最大直径17cm、直径11cmです。"
+        },
+        {
+            "question": "この軒家の屋根材はどの国の時代のものですか？",
+            "answer": "この軒家の屋根材は韓国の統一新羅時代のものです。"
+        }
+    ],
+    "word_Count": {
+        "text": 121,
+        "QA": 99
+    }
+}

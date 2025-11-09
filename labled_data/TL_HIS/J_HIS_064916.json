@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_064916",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2022-10-20",
+        "domain": "문화/역사관광",
+        "title": "무원서원"
+    },
+    "text": "茂原書院 (무원서원)\\n\n慶尚北道永川市新寧面チサンヒョリョン路152-26\\n\n1630年に創建された永川儒林は、1868年に撤去されましたが、約70年前に再建されました。この場所には、河演と貞敬夫人である李氏の夫婦の遺影が奉安されています。",
+    "QA": [
+        {
+            "question": "茂原書院はいつ創建されましたか？",
+            "answer": "茂原書院は1630年に創建されました。"
+        },
+        {
+            "question": "永川儒林はいつ撤去されましたか？",
+            "answer": "永川儒林は1868年に撤去されました。"
+        },
+        {
+            "question": "再建されたのはいつですか？",
+            "answer": "再建されたのは約70年前です。"
+        },
+        {
+            "question": "茂原書院には何が奉安されていますか？",
+            "answer": "茂原書院には河演と貞敬夫人である李氏の夫婦の遺影が奉安されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 90,
+        "QA": 110
+    }
+}

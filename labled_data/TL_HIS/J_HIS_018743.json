@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_018743",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/tour/bongsudae-shore",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "烽燧台海岸"
+    },
+    "text": "烽燧台海岸\\n\n江原道 高城郡 竹旺面 深層水キル )\\n\n三浦海岸の北200mの所に位置する海岸で1997年にオープンしました。国道7号線に沿って砂浜が形成されており、夏には海水浴やキャンプを楽しむことができます。海岸のすぐ横には三浦コレスコリゾートがあります。砂浜全長800m、幅50m、水深1.5m。",
+    "QA": [
+        {
+            "question": "この海岸はいつオープンしましたか？",
+            "answer": "1997年にオープンしました。"
+        },
+        {
+            "question": "この海岸はどこに位置していますか？",
+            "answer": "三浦海岸の北200mの所に位置しています。"
+        },
+        {
+            "question": "この海岸では何が楽しめますか？",
+            "answer": "海水浴やキャンプを楽しむことができます。"
+        },
+        {
+            "question": "海岸のすぐ横には何がありますか？",
+            "answer": "海岸のすぐ横には三浦コレスコリゾートがあります。"
+        },
+        {
+            "question": "この海岸の砂浜の長さや幅、水深はどれくらいですか？",
+            "answer": "砂浜全長800m、幅50m、水深1.5mです。"
+        }
+    ],
+    "word_Count": {
+        "text": 112,
+        "QA": 141
+    }
+}

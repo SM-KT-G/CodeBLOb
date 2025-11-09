@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001631",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2020-11-13",
+        "domain": "음식점",
+        "title": "Dombedon( 돔베돈 )"
+    },
+    "text": "Dombedon( 돔베돈 )\\n\n済州特別自治道 済州市 観徳路15キル 25\\n\n黒豚の各種部位を味わうことができます。 おすすめは豚トロです。済州特別自治道のジェジュ市に位置した韓国料理店です。",
+    "QA": [
+        {
+            "question": "この店の名前は何ですか？",
+            "answer": "この店の名前は『済州特別自治道 済州市 観徳路15キル 25』です。"
+        },
+        {
+            "question": "この店の特徴は何ですか？",
+            "answer": "この店の特徴は、黒豚の各種部位を味わうことができることです。特におすすめは豚トロです。"
+        },
+        {
+            "question": "この店はどこにありますか？",
+            "answer": "この店は済州特別自治道のジェジュ市に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 73,
+        "QA": 102
+    }
+}

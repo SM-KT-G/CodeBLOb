@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_052594",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=499&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=01640000&ccbaCtcd=33&ccbaCpno=2113301640000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1988-09-23",
+        "domain": "문화/역사관광",
+        "title": "광국지경록 목판"
+    },
+    "text": "1744年、忠清北道にいる有形文化財は、明『太祖実録』と『、大明回転』に誤って記録された朝鮮王室の系譜を正しく記録するために作られた木版だ。この版木は横58cm、縦30cmの大きさで計22枚からなっている。この版木は太祖李成桂(イ・ソンゲ)が中国の史書に誤って記録されて、朝鮮前期から先祖17年まで直すために、何度も使者を派遣したが、明では拒絶した。しかし、先祖17年にファンチョンウクを使者に派遣して『太祖実録』を正しく記録し、先祖20年にはユホンが見直された『、大明回転』の中で朝鮮に関連したボーンを受けてきており、先祖23年にはユングンスが星節の会社を訪問して改訂された『、大明回転』を持ってきた。そして粛宗27年には宗廟に告げて畜舎を建てるようにして出版した。この版木は1744年には英祖の序文とユホンの肯定的に市をはじめ、丑の刻を追加し、出版された。この版木は1744年には一家間に配るために製作されたと伝えられている。",
+    "QA": [
+        {
+            "question": "この版木は何のために作られましたか？",
+            "answer": "この版木は、明『太祖実録』と『大明回転』に誤って記録された朝鮮王室の系譜を正しく記録するために作られました。"
+        },
+        {
+            "question": "この版木は何枚からなっていますか？",
+            "answer": "この版木は計22枚からなっています。"
+        },
+        {
+            "question": "この版木はいつ作られましたか？",
+            "answer": "この版木は1744年に作られました。"
+        },
+        {
+            "question": "なぜ太祖李成桂は何度も使者を派遣したのですか？",
+            "answer": "明では朝鮮の系譜の正確な記録を拒絶したため、太祖李成桂は朝鮮王室の系譜を正しく記録するために何度も使者を派遣しました。"
+        },
+        {
+            "question": "この版木は1744年にどのように出版されましたか？",
+            "answer": "この版木は英祖の序文とユホンの肯定的な市、丑の刻を追加し、粛宗27年に宗廟に告げた後、畜舎を建てて出版されました。"
+        }
+    ],
+    "word_Count": {
+        "text": 304,
+        "QA": 222
+    }
+}

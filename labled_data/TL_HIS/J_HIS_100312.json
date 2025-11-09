@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_100312",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=766&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=00070000&ccbaCtcd=45&ccbaCpno=2334500070000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2012-12-31",
+        "domain": "문화/역사관광",
+        "title": "전의향교"
+    },
+    "text": "世宗(セジョン)特別自治市記念物、郷校は、孔子と多くの聖賢に祭祀をして地方民の教育と教化のために国で立てた教育機関だ。前の郷校は、1407年~1413年に建立されており、最初はドンギョリにいたが、県監イチャンユンによって県の南に移された。しかし、栗谷李珥や雨季成婚を迎えるため建物が狭く、現在の位置に移転された。明倫堂は、学生たちが勉強する講堂であり、大成殿は、祭祀を行う空間だ。大成殿は切妻屋根で構成されていて、内側には孔子と聖賢の位牌がからむしている。",
+    "QA": [
+        {
+            "question": "この特別自治市記念物、郷校は何年に建立されましたか？",
+            "answer": "1407年~1413年に建立されました。"
+        },
+        {
+            "question": "この教育機関の初期の場所はどこでしたか？",
+            "answer": "最初はドンギョリにありましたが、後に県の南に移されました。"
+        },
+        {
+            "question": "なぜ建物が現在の位置に移転されたのですか？",
+            "answer": "栗谷李珥や雨季成婚を迎えるため、建物が狭かったために現在の位置に移転されました。"
+        },
+        {
+            "question": "明倫堂とは何ですか？",
+            "answer": "明倫堂は学生たちが勉強する講堂です。"
+        },
+        {
+            "question": "大成殿には何が祭祀されていますか？",
+            "answer": "大成殿には孔子と聖賢の位牌が祭祀されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 167,
+        "QA": 164
+    }
+}

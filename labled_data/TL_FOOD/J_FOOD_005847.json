@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_005847",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "コダリ達人 ( 코다리달인 )"
+    },
+    "text": "コダリの達人 ( 코다리달인 )\n京畿道 ピョンテク市 ピョンテクロ145\n自家製手作りソースが味わえる店です。京畿道のピョンテク市に位置した韓食専門店です。代表的なメニューは半干しスケトウダラの煮付けです。",
+    "QA": [
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "この店は京畿道のピョンテク市に位置しています。"
+        },
+        {
+            "question": "この店の特産メニューは何ですか？",
+            "answer": "この店の代表的なメニューは半干しスケトウダラの煮付けです。"
+        },
+        {
+            "question": "この店では何種類の手作りソースが提供されていますか？",
+            "answer": "この店では様々な種類の手作りソースが提供されています。具体的な種類は店内のメニューでご確認ください。"
+        }
+    ],
+    "word_Count": {
+        "text": 76,
+        "QA": 115
+    }
+}

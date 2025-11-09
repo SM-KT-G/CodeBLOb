@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_029873",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/ilpumdang-premium",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "イルプムダンプリミオム"
+    },
+    "text": "イルプムダンプリミオム\\n\nソウル特別市 ジョンノ区 セムンアンロ5ガギル 7, 3階\\n\nソウル特別市のクァンファムンに位置したしゃぶしゃぶ専門店です。個室完備のお店です。おすすめはしゃぶしゃぶです。",
+    "QA": [
+        {
+            "question": "このしゃぶしゃぶ専門店はどこに位置していますか？",
+            "answer": "このしゃぶしゃぶ専門店はソウル特別市ジョンノ区セムンアンロ5ガギル7、3階に位置しています。"
+        },
+        {
+            "question": "このお店のおすすめメニューは何ですか？",
+            "answer": "このお店のおすすめはしゃぶしゃぶです。"
+        },
+        {
+            "question": "このお店は個室完備ですか？",
+            "answer": "はい、このお店は個室完備です。"
+        }
+    ],
+    "word_Count": {
+        "text": 74,
+        "QA": 99
+    }
+}

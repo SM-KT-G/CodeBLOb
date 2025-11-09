@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_105749",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2023-07-02",
+        "domain": "음식점",
+        "title": "화천써비스허브정원카페"
+    },
+    "text": "ペット同伴可能な、華川(ファチョン)サービスのハーブガーデンカフェです。広い庭園とルプタプで楽しむコーヒー、飲み物、デザートに食事まで1日を楽に過ごしてください。",
+    "QA": [
+        {
+            "question": "このハーブガーデンカフェはどこにありますか？",
+            "answer": "このハーブガーデンカフェは華川(ファチョン)にあります。"
+        },
+        {
+            "question": "ペットを連れて行っても大丈夫ですか？",
+            "answer": "はい、このハーブガーデンカフェではペット同伴可能です。"
+        },
+        {
+            "question": "どんなメニューがありますか？",
+            "answer": "このハーブガーデンカフェではコーヒーや飲み物、デザートに食事まで楽しむことができます。"
+        },
+        {
+            "question": "庭園は広いですか？",
+            "answer": "はい、このハーブガーデンカフェの庭園は広々としています。"
+        },
+        {
+            "question": "どのような雰囲気で過ごせますか？",
+            "answer": "このハーブガーデンカフェではリラックスした雰囲気で、ゆったりと過ごすことができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 59,
+        "QA": 181
+    }
+}

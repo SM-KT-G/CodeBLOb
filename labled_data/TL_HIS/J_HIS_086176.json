@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_086176",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ja",
+        "translator": null,
+        "source_url": "'https://trippose.com/traffic/singyeongju-station",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2023-10-04",
+        "domain": "문화/역사관광",
+        "title": "新慶州駅"
+    },
+    "text": "新慶州駅\\n\n慶尚北道 慶州市 乾川邑 新慶州駅路 80\\n\n慶州に作られた新慶州駅は2007年8月に着工し、2010年10月28日に駅舎竣工式を終え、2010年11月1日から営業を開始しました。",
+    "QA": [
+        {
+            "question": "新慶州駅はいつ着工されましたか？",
+            "answer": "2007年8月に着工されました。"
+        },
+        {
+            "question": "新慶州駅の竣工式はいつ行われましたか？",
+            "answer": "2010年10月28日に駅舎竣工式を行いました。"
+        },
+        {
+            "question": "新慶州駅はいつ営業を開始しましたか？",
+            "answer": "2010年11月1日から営業を開始しました。"
+        },
+        {
+            "question": "新慶州駅はどこに作られましたか？",
+            "answer": "慶尚北道慶州市乾川邑の新慶州駅路80に作られました。"
+        }
+    ],
+    "word_Count": {
+        "text": 71,
+        "QA": 115
+    }
+}

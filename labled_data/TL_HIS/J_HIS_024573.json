@@ -1,0 +1,51 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_024573",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=973&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=00210000&ccbaCtcd=11&ccbaCpno=3411100210000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2004-09-30",
+        "domain": "문화/역사관광",
+        "title": "안양암 칠성도"
+    },
+    "text": "安養庵七星図 (안양암 칠성도)\\n\nソウル特別市鍾路区チャンシン5ギル61(チャンシンドン、アンヤンアム)\\n\n1930年 , ソウル特別市文化財資料 , 金輪殿の雉城広如来の後に祀られたこの絵は1930年、高山·普応·鶴松·茶角などの画僧によって製作された。 中央の雉城光如来を中心に左右に日光菩薩と月光菩薩が、周辺には星群と各種眷属が配置されている。 特に19世紀以降の七星図には頭頂部が高くそびえる老人星が表現されるが、この絵には左上にも老人星が見える。 中央の致誠光仏は頭に中心系主と頂上系主が表現されており、周辺の五色光背と7体の化仏が特徴的だ。",
+    "QA": [
+        {
+            "question": "この絵はいつ作られましたか？",
+            "answer": "この絵は1930年に作られました。"
+        },
+        {
+            "question": "この絵はどのように製作されましたか？",
+            "answer": "この絵は高山・普応・鶴松・茶角などの画僧によって製作されました。"
+        },
+        {
+            "question": "絵の中央にいるのは何ですか？",
+            "answer": "絵の中央には雉城光如来がいます。"
+        },
+        {
+            "question": "絵の左右には何が配置されていますか？",
+            "answer": "絵の左右には日光菩薩と月光菩薩が配置されています。"
+        },
+        {
+            "question": "絵の周辺にはどのようなものが配置されていますか？",
+            "answer": "絵の周辺には星群と各種眷属が配置されています。"
+        },
+        {
+            "question": "絵の左上に何が見えますか？",
+            "answer": "絵の左上に老人星が見えます。"
+        },
+        {
+            "question": "絵の中央にいる致誠光仏にはどのような特徴がありますか？",
+            "answer": "絵の中央の致誠光仏には頭に中心系主と頂上系主が表現され、周辺には五色光背と7体の化仏が特徴的です。"
+        }
+    ],
+    "word_Count": {
+        "text": 204,
+        "QA": 222
+    }
+}

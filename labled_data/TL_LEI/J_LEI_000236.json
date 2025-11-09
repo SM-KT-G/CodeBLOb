@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_LEI_000236",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101933",
+        "collectedDate": "2023-09-21",
+        "publishedDate": "2023-01-16",
+        "domain": "레포츠",
+        "title": "삼남매와 뭉치네 캠핑장"
+    },
+    "text": "3人兄弟と団結するキャンプ場 (삼남매와 뭉치네 캠핑장)\\n\n江原道平昌郡鳳坪面上浦港キル91-10\\n\n「民間」で「直営」方法で運営しています。 '''カーキャンプ場'''をご利用いただけます。 周辺の自然環境としては「山、森」があり、「直営」方式で運営しています。 '''子供の遊び施設'''をご利用いただけます。",
+    "QA": [
+        {
+            "question": "キャンプ場の場所はどこですか？",
+            "answer": "江原道平昌郡鳳坪面上浦港キル91-10にあります。"
+        },
+        {
+            "question": "キャンプ場はどのような方法で運営されていますか？",
+            "answer": "キャンプ場は「民間」で「直営」方法で運営されています。"
+        },
+        {
+            "question": "キャンプ場ではカーキャンプができますか？",
+            "answer": "はい、カーキャンプが可能です。"
+        },
+        {
+            "question": "周辺にはどのような自然環境がありますか？",
+            "answer": "周辺には山や森があります。"
+        },
+        {
+            "question": "子供の遊び施設はありますか？",
+            "answer": "はい、子供の遊び施設があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 117,
+        "QA": 138
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_035453",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101933",
+        "collectedDate": "2023-10-06",
+        "publishedDate": "2020-01-01",
+        "domain": "자연관광",
+        "title": "석모도"
+    },
+    "text": "席毛島 \\n\n席毛島は江華島外浦港から西に1.2km離れている島で、行政区域上仁川広域市江華郡三山面に属する。 ソウルでは島の観光地として有名で、映画『十月哀』と『酔画仙』の撮影場所だった。 石母大橋が開通し、江華島を経て車で行くことができる。\n",
+    "QA": [
+        {
+            "question": "席毛島はどこに位置していますか？",
+            "answer": "席毛島は江華島外浦港から西に1.2km離れている島で、行政区域上仁川広域市江華郡三山面に属しています。"
+        },
+        {
+            "question": "席毛島の観光地として有名な理由は何ですか？",
+            "answer": "席毛島は映画『十月哀』と『酔画仙』の撮影場所だったことから観光地として有名です。"
+        },
+        {
+            "question": "席毛島に行くための交通手段は何ですか？",
+            "answer": "石母大橋が開通し、江華島を経て車で行くことができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 90,
+        "QA": 127
+    }
+}

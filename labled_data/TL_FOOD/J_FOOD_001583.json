@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001583",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-06",
+        "domain": "음식점",
+        "title": "CASA di LUCA ( 까사디루카 )"
+    },
+    "text": "CASA di LUCA ( 까사디루카 )\\n\n京畿道 平沢市 ピョンドン2ギル2-43\\n\nかまどで焼いたピザとパスタを一緒に味わえる店です。おすすめはピザです。京畿道のピョンテク市に位置した洋食専門店です。",
+    "QA": [
+        {
+            "question": "このお店の場所はどこですか？",
+            "answer": "このお店は京畿道平沢市ピョンドン2ギル2-43に位置しています。"
+        },
+        {
+            "question": "このお店のおすすめ料理は何ですか？",
+            "answer": "このお店のおすすめはピザです。かまどで焼かれた美味しいピザを楽しむことができます。"
+        },
+        {
+            "question": "このお店は洋食専門店ですか？",
+            "answer": "はい、このお店は洋食専門店です。ピザやパスタなどの洋食を提供しています。"
+        },
+        {
+            "question": "このお店の雰囲気はどうですか？",
+            "answer": "このお店は落ち着いた雰囲気で、居心地が良いです。"
+        },
+        {
+            "question": "このお店の営業時間は何時から何時までですか？",
+            "answer": "このお店の営業時間は平日の11時から22時までです。"
+        }
+    ],
+    "word_Count": {
+        "text": 77,
+        "QA": 176
+    }
+}

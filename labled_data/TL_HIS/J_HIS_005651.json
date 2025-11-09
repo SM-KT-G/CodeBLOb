@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_005651",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=909&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=24&ccbaAsno=00034500&ccbaCtcd=50&ccbaCpno=2443900034500&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1978-11-14",
+        "domain": "문화/역사관광",
+        "title": "양금석가옥"
+    },
+    "text": "ヤングムソク家屋 (양금석가옥)\\n\n済州西帰浦市南原邑新礼1里1313番地\\n\n済州特別自治道民俗文化財 , 約60年前に建てた梁氏宗家の家だ。 600坪余りの敷地の真ん中に母屋があり、外棟は母屋と向かい合うように配置されている。 母屋は床を中心に左側に大きな部屋があり、右側には台所がある。 縁側は広間と床の前だけにあり台所空間が広く、外棟は中央の床を中心に左側の前の部屋と後方に穀物を保管するカビがある。 床の前と後ろには縁側が配置されている。 ヤン氏の宗家宅は母屋·外棟を合わせて部屋が4つあり、縁側が3つあり、床部屋3つが配置されている済州道伝統草家様式の中でも多様な空間構成を見せており注目される。",
+    "QA": [
+        {
+            "question": "この家屋は何年前に建てられましたか？",
+            "answer": "約60年前に建てられました。"
+        },
+        {
+            "question": "この家屋は誰の家ですか？",
+            "answer": "梁氏宗家の家です。"
+        },
+        {
+            "question": "この家屋の敷地面積はどれくらいですか？",
+            "answer": "敷地は600坪余りです。"
+        },
+        {
+            "question": "この家屋の中には何部屋ありますか？",
+            "answer": "母屋と外棟を合わせて部屋が4つあります。"
+        },
+        {
+            "question": "この家屋の中には何つの縁側がありますか？",
+            "answer": "3つの縁側があります。"
+        },
+        {
+            "question": "この家屋の特徴的な空間構成は何ですか？",
+            "answer": "床部屋3つが配置されており、済州道伝統草家様式の中でも多様な空間構成を見せています。"
+        }
+    ],
+    "word_Count": {
+        "text": 223,
+        "QA": 156
+    }
+}

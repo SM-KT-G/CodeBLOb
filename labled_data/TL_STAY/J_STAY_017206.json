@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_017206",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://kr.hotels.com/ho766583232/yuaen-ai-pensyeon-gumi-hangug/?chkin=2023-11-21&chkout=2023-11-22&x_pwa=1&rfrr=HSR&pwa_ts=1699178419112&referrerUrl=aHR0cHM6Ly9rci5ob3RlbHMuY29tL0hvdGVsLVNlYXJjaA%3D%3D&useRewards=false&rm1=a2&regionId=6129081&destination=%EA%B2%BD%EC%83%81%EB%B6%81%EB%8F%84%2C+%ED%95%9C%EA%B5%AD&destType=MARKET&latLong=36.575917%2C128.506012&sort=DISTANCE&top_dp=36364&top_cur=KRW&userIntent=&selectedRoomType=221409723&selectedRatePlan=296033434&expediaPropertyId=23924476&searchId=017b00f1-99ff-4fe5-9ef3-895483558309",
+        "collectedDate": "2023-11-15",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "유앤아이 펜션"
+    },
+    "text": "ユーアンドアイペンション (유앤아이 펜션)\nユーアンドアイペンションでの宿泊は、亀尾で優れた選択といえます。 こちらではWiFiやセルフ駐車の無料特典をご利用いただけます。 見学や出張など様々な目的で利用するのに適したペンションです。 ユーアンドアイペンションは現代的で快適な客室を提供し、お客様の利便性を最優先に考えています。 全客室にはエアコン、テレビ、バスルームなどの施設が完備されており、ペンション内のレストランでは様々な料理が味わえます。 ペンション周辺には遊歩道や公園もあり、自然とともに休息をとることができます。 亀尾での宿泊をご希望でしたら、ユーアンドアイペンションをお勧めします。",
+    "QA": [
+        {
+            "question": "ユーアンドアイペンションはどのような特典がありますか？",
+            "answer": "ユーアンドアイペンションではWiFiやセルフ駐車の無料特典をご利用いただけます。"
+        },
+        {
+            "question": "ユーアンドアイペンションの客室にはどのような設備がありますか？",
+            "answer": "ユーアンドアイペンションは現代的で快適な客室を提供し、全客室にはエアコン、テレビ、バスルームなどの施設が完備されています。"
+        },
+        {
+            "question": "ユーアンドアイペンションのレストランでは何を食べることができますか？",
+            "answer": "ユーアンドアイペンション内のレストランでは様々な料理が味わえます。"
+        },
+        {
+            "question": "ユーアンドアイペンション周辺には何がありますか？",
+            "answer": "ユーアンドアイペンション周辺には遊歩道や公園もあり、自然とともに休息をとることができます。"
+        },
+        {
+            "question": "亀尾での宿泊を希望する場合、ユーアンドアイペンションはお勧めですか？",
+            "answer": "はい、亀尾での宿泊をご希望でしたら、ユーアンドアイペンションをお勧めします。"
+        }
+    ],
+    "word_Count": {
+        "text": 220,
+        "QA": 269
+    }
+}

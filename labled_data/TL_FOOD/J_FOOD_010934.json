@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_010934",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-01",
+        "domain": "음식점",
+        "title": "トンクン炭火焼肉 ( 통큰참숯불구이 )"
+    },
+    "text": "トンクン炭火焼肉 \n慶尚北道 安東市 オクミョンキル 6-7\n地元の常連客が多い店で、焼き肉だけでなく、様々な韓国式定食も味わえます。 おすすめはサムギョプサルです。慶尚北道のアンドン市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "このレストランはどの場所にありますか？",
+            "answer": "トンクン炭火焼肉は慶尚北道の安東市に位置しています。"
+        },
+        {
+            "question": "どのような料理がおすすめですか？",
+            "answer": "おすすめはサムギョプサルです。焼き肉だけでなく、様々な韓国式定食も味わえます。"
+        },
+        {
+            "question": "このレストランはどのような客層が多いですか？",
+            "answer": "このレストランは地元の常連客が多く訪れます。"
+        },
+        {
+            "question": "このレストランで何が楽しめますか？",
+            "answer": "このレストランでは焼き肉をはじめとした様々な韓国式定食を楽しむことができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 77,
+        "QA": 146
+    }
+}

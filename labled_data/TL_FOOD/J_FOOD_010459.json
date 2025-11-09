@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_010459",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "テヨン生マクチャン ( 태영생막창 )"
+    },
+    "text": "テヨン生マクチャン ( 태영생막창 )\\n\n江原道 平昌郡 蓬坪面 泰岐路 100\\n\n炭火焼肉のお店です。 江原道のピョンチャン郡に位置した韓食専門店です。代表的なメニューは牛コプチャンです。",
+    "QA": [
+        {
+            "question": "このお店の場所はどこですか？",
+            "answer": "このお店の場所は江原道平昌郡蓬坪面泰岐路100です。"
+        },
+        {
+            "question": "このお店の特徴的なメニューは何ですか？",
+            "answer": "このお店の代表的なメニューは牛コプチャンです。"
+        },
+        {
+            "question": "このお店は何を専門としていますか？",
+            "answer": "このお店は韓食を専門としています。"
+        },
+        {
+            "question": "このお店で使われている調理法は何ですか？",
+            "answer": "このお店では炭火焼肉を提供しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 71,
+        "QA": 113
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_097014",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ja",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2022-12-09",
+        "domain": "문화/역사관광",
+        "title": "인도박물관"
+    },
+    "text": "インドの博物館は、インドの各地で収集してきた宗教、文化生活芸術品を展示してインドに対する理解の幅を高めたい願いでドアを開いた。常設展示室と企画展示室運営と文化講座教育プログラムを通じて博物館を訪れる人々にインドの多様な生活を紹介している。2011年7月2日、ドアを開いており、博物館が持っている遺物資料は、インドの博物館海苔養殖の館長に40年あまりの間収集してきたのだ。",
+    "QA": [
+        {
+            "question": "博物館はいつ開館しましたか？",
+            "answer": "2011年7月2日に開館しました。"
+        },
+        {
+            "question": "博物館が収集してきた遺物資料は誰が収集しましたか？",
+            "answer": "インドの博物館海苔養殖の館長が40年あまりの間収集してきました。"
+        },
+        {
+            "question": "博物館で展示されているものは何ですか？",
+            "answer": "博物館ではインドの宗教、文化、生活、芸術品などを展示しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 135,
+        "QA": 101
+    }
+}

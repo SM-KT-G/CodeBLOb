@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_052941",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=470&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=01250000&ccbaCtcd=33&ccbaCpno=2113301250000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1982-12-17",
+        "domain": "문화/역사관광",
+        "title": "괴산 각연사 비로전"
+    },
+    "text": "忠清北道有形文化財、毘盧殿は毘盧遮那仏を祀っている法堂で、ここには石造毘盧遮那仏坐像(宝物第433号)が祀られています。低い基壇の上に南向きを眺めており、礎石は新羅時代のものをそのまま使用している建物です。その上に丸い柱が載せられ、柱は真ん中だけ少し太くなっています。前面3間·側面3間の規模で、屋根は側面が八の字型の入母屋造りです",
+    "QA": [
+        {
+            "question": "毘盧殿は何を祀っていますか？",
+            "answer": "毘盧殿は毘盧遮那仏を祀っています。"
+        },
+        {
+            "question": "毘盧殿の基壇はどのような形状ですか？",
+            "answer": "毘盧殿の基壇は低い形状です。"
+        },
+        {
+            "question": "毘盧殿の礎石は何時代のものを使用していますか？",
+            "answer": "毘盧殿の礎石は新羅時代のものを使用しています。"
+        },
+        {
+            "question": "毘盧殿の屋根はどのような形状ですか？",
+            "answer": "毘盧殿の屋根は側面が八の字型の入母屋造りです。"
+        }
+    ],
+    "word_Count": {
+        "text": 121,
+        "QA": 110
+    }
+}

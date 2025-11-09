@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_003364",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42090&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "그랜드메르 호텔 제주"
+    },
+    "text": "クランドメルーホテル済州には、済州の澄んだ湧泉水と近接して位置し、自然の美しさを満喫することができます。 海と出会う田舍に位置し、山と海の素晴らしい風景をすべて鑑賞することができます。 また、中文観光団地までは車で約7分の距離に位置しており、済州島でのヒーリングと観光の両方を楽しめる良い場所です。",
+    "QA": [
+        {
+            "question": "このホテルはどのような特徴がありますか？",
+            "answer": "クランドメルーホテル済州は、済州の湧泉水と近接して位置しており、自然の美しさを満喫することができます。"
+        },
+        {
+            "question": "周辺にはどのような風景が広がっていますか？",
+            "answer": "このホテルは海と出会う田舍に位置しており、山と海の素晴らしい風景をすべて鑑賞することができます。"
+        },
+        {
+            "question": "中文観光団地までの距離はどのくらいですか？",
+            "answer": "中文観光団地までは車で約7分の距離に位置しています。"
+        },
+        {
+            "question": "このホテルではヒーリングと観光の両方を楽しむことができますか？",
+            "answer": "はい、済州島でのヒーリングと観光の両方を楽しめる良い場所です。"
+        }
+    ],
+    "word_Count": {
+        "text": 109,
+        "QA": 182
+    }
+}

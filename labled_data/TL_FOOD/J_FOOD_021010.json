@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_021010",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2020-04-14",
+        "domain": "음식점",
+        "title": "味香（미향）"
+    },
+    "text": "味香（미향）\\n\n世宗特別自治市 鳥致院邑 文化4キル1\\n\n味香（ミヒャン）は、海鮮料理約20年の経歴を持つ料理長が良質の海産物のみを厳選して作るヘムルチム（海鮮の蒸し物）を味わうことのできるお店です。",
+    "QA": [
+        {
+            "question": "味香はどこにありますか？",
+            "answer": "味香は世宗特別自治市鳥致院邑にあります。"
+        },
+        {
+            "question": "味香の料理長の経歴はどのくらいですか？",
+            "answer": "料理長は海鮮料理の経歴を約20年持っています。"
+        },
+        {
+            "question": "味香ではどのような料理が楽しめますか？",
+            "answer": "味香ではヘムルチム（海鮮の蒸し物）を味わうことができます。"
+        },
+        {
+            "question": "味香で使用される海産物はどのように選ばれていますか？",
+            "answer": "味香では良質の海産物のみを厳選して使用しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 74,
+        "QA": 126
+    }
+}

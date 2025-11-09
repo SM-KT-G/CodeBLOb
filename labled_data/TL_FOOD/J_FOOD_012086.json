@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_012086",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-08-31",
+        "domain": "음식점",
+        "title": "ハングルッ（한그릇）"
+    },
+    "text": "ハングルッ（한그릇）\\n\nソウル特別市 鐘路区 三清路 136\\n\n代表的なメニューは牛肉クッパですが、肉入りにゅうめんも美味しいお店です。この店はソウル特別市のチョンノに位置した韓国料理店です。",
+    "QA": [
+        {
+            "question": "このお店はどこにありますか？",
+            "answer": "このお店はソウル特別市のチョンノに位置しています。"
+        },
+        {
+            "question": "このお店の代表的なメニューは何ですか？",
+            "answer": "このお店の代表的なメニューは牛肉クッパです。"
+        },
+        {
+            "question": "その他におすすめのメニューはありますか？",
+            "answer": "はい、肉入りにゅうめんも美味しいおすすめのメニューです。"
+        }
+    ],
+    "word_Count": {
+        "text": 71,
+        "QA": 93
+    }
+}

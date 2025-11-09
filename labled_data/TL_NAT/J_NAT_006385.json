@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_006385",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=802&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=00410000&ccbaCtcd=21&ccbaCpno=2332100410000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1996-05-25",
+        "domain": "자연관광",
+        "title": "기장척화비"
+    },
+    "text": "機張斥和碑 (기장척화비)\\n\n釜山機張郡機張邑大辺里608番地\\n\n釜山広域市記念物 , 斥和碑とは朝鮮高宗の時、丙寅洋擾、辛美洋擾を勝利に導いた興宣大院君が西洋勢力を排斥し、これをすべての民に悟らせるために全国の重要な場所に建てるようにしたもので、この碑もその一つだ。 碑は低い四角い台石の上に細長い碑体石を立てた姿だ。 碑文には「西洋蛮族が侵犯するのに戦わずに和親しようと主張するのは国を売ることだから、私たち万年子孫に警戒する」という強い語呂合わせの警告文を書いている。 本来は大辺港防波堤の内側の東海が曲がって見えるところに建てられていたが、日帝時代に港を広げながら日本人によって選ばれ海の中に捨てられたものを、解放後に再び救い出したが、現在は大辺初等学校内に建てられている。",
+    "QA": [
+        {
+            "question": "この機張斥和碑は何のために建てられたのですか？",
+            "answer": "この機張斥和碑は、興宣大院君が西洋勢力を排斥し、民衆にその意義を悟らせるために建てられました。"
+        },
+        {
+            "question": "機張斥和碑の碑文には何が書かれていますか？",
+            "answer": "機張斥和碑の碑文には、「西洋蛮族が侵犯するのに戦わずに和親しようと主張するのは国を売ることだから、私たち万年子孫に警戒する」という警告文が書かれています。"
+        },
+        {
+            "question": "機張斥和碑は元々どこに建てられていたのですか？",
+            "answer": "機張斥和碑は元々大辺港防波堤の内側の東海が曲がって見えるところに建てられていましたが、日帝時代に港を広げる際に海の中に捨てられ、解放後に再び救い出され、現在は大辺初等学校内に建てられています。"
+        }
+    ],
+    "word_Count": {
+        "text": 251,
+        "QA": 210
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_017920",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-11-25",
+        "domain": "음식점",
+        "title": "金烏山城炭火焼きカルビ（금오산성숯불갈비）"
+    },
+    "text": "金烏山城炭火焼きカルビ（금오산성숯불갈비）\\n\n慶尚北道 亀尾市 産業路224\\n\n「金烏山城炭火焼きカルビ（クモサンソンスップルカルビ）」では韓牛とオーガニック野菜を使用しています。器類はすべて真鍮製のもので統一されています。",
+    "QA": [
+        {
+            "question": "金烏山城炭火焼きカルビはどのような料理ですか？",
+            "answer": "金烏山城炭火焼きカルビは、韓牛とオーガニック野菜を使用した料理です。真鍮製の器類で統一されています。"
+        },
+        {
+            "question": "金烏山城炭火焼きカルビの場所はどこですか？",
+            "answer": "金烏山城炭火焼きカルビは慶尚北道亀尾市の産業路224にあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 83,
+        "QA": 92
+    }
+}

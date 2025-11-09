@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_021307",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42061&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "대전 유성 헤라"
+    },
+    "text": "連泊時の退室時間は1時からで、入室時間は4時までです。 もし客室利用時に追加料金が発生します。 電話で予約及び払い戻しポリシーについてご案内いたします。 予約のキャンセルをご希望の場合は、5日前までは100%払い戻しが可能で、2日前までは50%払い戻しが可能です。 しかし、一日前には払い戻しができません。 駐車場が満車の場合、車でご予約いただいても駐車が難しい場合があります。",
+    "QA": [
+        {
+            "question": "連泊時の退室時間は何時ですか？",
+            "answer": "連泊時の退室時間は1時からです。"
+        },
+        {
+            "question": "連泊時の入室時間は何時までですか？",
+            "answer": "連泊時の入室時間は4時までです。"
+        },
+        {
+            "question": "客室利用時に追加料金が発生しますか？",
+            "answer": "はい、客室利用時には追加料金が発生します。"
+        },
+        {
+            "question": "予約のキャンセルについて教えてください。",
+            "answer": "予約のキャンセルをご希望の場合、5日前までには100%の払い戻しが可能です。2日前までは50%の払い戻しが可能ですが、一日前には払い戻しはできません。"
+        },
+        {
+            "question": "駐車場が満車の場合はどうなりますか？",
+            "answer": "駐車場が満車の場合、車でのご予約でも駐車が難しい場合があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 138,
+        "QA": 181
+    }
+}

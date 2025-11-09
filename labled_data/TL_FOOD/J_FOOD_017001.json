@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_017001",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-03",
+        "domain": "음식점",
+        "title": "鏡浦草堂純豆腐食堂 ( 경포초당순두부식당 )"
+    },
+    "text": "鏡浦草堂純豆腐食堂 ( 경포초당순두부식당 )\\n\n江原道 ガンヌン市 ヘアンロ517\\n\n柔らかい豆腐料理が味わえる店です。江原道のガンヌン市に位置した韓食専門店です。代表的なメニューはスンドゥブです。",
+    "QA": [
+        {
+            "question": "このお店はどこにありますか？",
+            "answer": "鏡浦草堂純豆腐食堂は、江原道のガンヌン市に位置しています。具体的な住所はヘアンロ517です。"
+        },
+        {
+            "question": "このお店の特徴は何ですか？",
+            "answer": "このお店の特徴は、柔らかい豆腐料理が味わえることです。豆腐料理の中でも特に代表的なメニューはスンドゥブです。"
+        },
+        {
+            "question": "このお店は何を提供していますか？",
+            "answer": "このお店では、豆腐料理を提供しています。具体的なメニューにはスンドゥブなどがあります。"
+        },
+        {
+            "question": "このお店の名前は何ですか？",
+            "answer": "このお店の名前は鏡浦草堂純豆腐食堂（경포초당순두부식당）です。"
+        }
+    ],
+    "word_Count": {
+        "text": 74,
+        "QA": 168
+    }
+}

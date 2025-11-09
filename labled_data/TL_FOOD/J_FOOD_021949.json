@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_021949",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-05",
+        "domain": "음식점",
+        "title": "釜炭火食肉 ( 가마숯불식육 )"
+    },
+    "text": "釜炭火食肉 ( 가마숯불식육 )\\n\n慶尚北道 安東市 キョンドンロ944\\n\n韓国式BBQが味わえる店です。おすすめはサムギョプサルです。慶尚北道のアンドン市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "このレストランの場所はどこですか？",
+            "answer": "釜炭火食肉は慶尚北道安東市に位置しています。"
+        },
+        {
+            "question": "このレストランでは何が食べられますか？",
+            "answer": "このレストランでは韓国式BBQが楽しめます。特におすすめはサムギョプサルです。"
+        },
+        {
+            "question": "このレストランはどんな特徴がありますか？",
+            "answer": "このレストランは韓食専門店で、本場の韓国料理を味わうことができます。"
+        },
+        {
+            "question": "このレストランの営業時間は何時から何時までですか？",
+            "answer": "営業時間は10時から22時までです。"
+        },
+        {
+            "question": "料理の値段はどのくらいですか？",
+            "answer": "料理の値段は店舗によって異なりますので、直接お店にお問い合わせください。"
+        }
+    ],
+    "word_Count": {
+        "text": 68,
+        "QA": 179
+    }
+}

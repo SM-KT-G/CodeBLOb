@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_064813",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=15&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=11&ccbaAsno=01620000&ccbaCtcd=34&ccbaCpno=1113401620000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1974-07-09",
+        "domain": "문화/역사관광",
+        "title": "무령왕릉 석수"
+    },
+    "text": "ムリョンワンヌン 석수\\n\n忠清南道公州市観光団地キル34、ウンジン洞\\n\n百済時代、国宝、公州市、武寧王陵で発見された百済時代に作られた石工である。石水(石獸)という狭義には宮殿や墓の前に立てて置いたり、墓の中に置いておく石になった動物相をいう。武寧王陵石工は高さ30.8センチ、長さ49センチ、幅22センチへの通路中央から外に向かって置かれていた。着た刃先の鈍って唇に赤く塗った跡があり、鼻の穴のない大きな鼻に目と耳がいる。頭の上には木の枝の形の鉄製の角がついている。胴体左右、前・後ろ脚には火花模様が彫刻されているが、これは羽を示したものと見られる。しっぽが彫刻されており、排出孔が取り付けられているほどの事実的だ。墓の守護の観念で作られたもので、韓国では初めて発見されたものだ。",
+    "QA": [
+        {
+            "question": "この石獣はどこで発見されましたか？",
+            "answer": "この石獣は忠清南道公州市観光団地キル34、ウンジン洞で発見されました。"
+        },
+        {
+            "question": "この石獣はいつ作られましたか？",
+            "answer": "この石獣は百済時代に作られました。"
+        },
+        {
+            "question": "この石獣はどのような形状や特徴を持っていますか？",
+            "answer": "この石獣は高さ30.8センチ、長さ49センチ、幅22センチのサイズで、木の枝の形の鉄製の角が頭の上についています。また、火花模様が彫刻されており、しっぽには排出孔が取り付けられています。"
+        },
+        {
+            "question": "この石獣はどのような役割を果たしていましたか？",
+            "answer": "この石獣は墓の守護の役割を果たすために作られたものです。"
+        },
+        {
+            "question": "この石獣は韓国で初めて発見されたものですか？",
+            "answer": "はい、この石獣は韓国で初めて発見されたものです。"
+        }
+    ],
+    "word_Count": {
+        "text": 251,
+        "QA": 218
+    }
+}

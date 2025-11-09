@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_029512",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/lodge/yeonggwang-glory-tourism-hotel",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "霊光グローリー観光ホテル"
+    },
+    "text": "霊光グローリー観光ホテル\\n\n全羅南道 霊光郡 霊光邑 玉堂路74\\n\n霊光グローリー観光ホテルは客室数が50室で、高速バスターミナルからも徒歩約8分ほどの距離にある一般ホテルです。家族旅行などで利用するには適した場所です。",
+    "QA": [
+        {
+            "question": "このホテルの場所はどこですか？",
+            "answer": "霊光グローリー観光ホテルは全羅南道霊光郡霊光邑玉堂路74にあります。"
+        },
+        {
+            "question": "このホテルの客室数は何室ですか？",
+            "answer": "このホテルには50室の客室があります。"
+        },
+        {
+            "question": "ホテルから高速バスターミナルまでの距離はどのくらいですか？",
+            "answer": "ホテルから高速バスターミナルまでは徒歩約8分ほどの距離です。"
+        },
+        {
+            "question": "このホテルはどのような旅行に適していますか？",
+            "answer": "このホテルは家族旅行などに適しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 82,
+        "QA": 135
+    }
+}

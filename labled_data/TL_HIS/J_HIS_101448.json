@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_101448",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=837&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=00920000&ccbaCtcd=33&ccbaCpno=2333300920000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1994-06-24",
+        "domain": "문화/역사관광",
+        "title": "제천 원호 유허비 및 관란정"
+    },
+    "text": "朝鮮、忠清北道記念物、端宗が王位を奪われ、魯山郡に降封され寧越に葬られると、生育神の一人だった元号が端宗を描きながら西江沿いに壇を建て、朝·夕方に涙を流しながら寧越に向かってお辞儀をしたといいます。元号の死後、彼の子孫と儒学者たちが元号の忠義を称えるために憲宗11年(1845)に碑石と亭子を建て、彼の号に従って「寛蘭亭」と名付けました",
+    "QA": [
+        {
+            "question": "誰が端宗を王位から奪いましたか？",
+            "answer": "忠義が端宗を王位から奪いました。"
+        },
+        {
+            "question": "元号はなぜ涙を流しながら寧越に向かってお辞儀をしましたか？",
+            "answer": "元号は端宗を描きながら、彼の忠義を称えるために涙を流しながら寧越に向かってお辞儀をしました。"
+        },
+        {
+            "question": "忠義の子孫と儒学者たちは何をするために憲宗11年に碑石と亭子を建てましたか？",
+            "answer": "忠義の子孫と儒学者たちは元号の忠義を称えるために憲宗11年に碑石と亭子を建てました。"
+        }
+    ],
+    "word_Count": {
+        "text": 123,
+        "QA": 137
+    }
+}

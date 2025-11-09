@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_029155",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-16",
+        "domain": "음식점",
+        "title": "咸平ナビゴルスンデスープ( 함평나비골순대국 )"
+    },
+    "text": "咸平ナビゴルスンデスープ\\n\n京畿道 平沢市 平沢5路20ボンキル 35\\n\n野菜スンデが味わえる店です。京畿道のピョンテク市に位置した韓国料理店です。代表的なメニューはスンデスープです。",
+    "QA": [
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "京畿道 平沢市 平沢5路20ボンキル 35に位置しています。"
+        },
+        {
+            "question": "この店の特徴的なメニューは何ですか？",
+            "answer": "代表的なメニューはスンデスープです。"
+        },
+        {
+            "question": "この店の雰囲気はどうですか？",
+            "answer": "野菜スンデが味わえる店です。"
+        },
+        {
+            "question": "この店はどの市に位置していますか？",
+            "answer": "平沢市に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 68,
+        "QA": 99
+    }
+}

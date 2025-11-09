@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_052431",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=989&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=00370000&ccbaCtcd=25&ccbaCpno=3412500370000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1994-06-07",
+        "domain": "문화/역사관광",
+        "title": "관동묘려"
+    },
+    "text": "孝宗年間では大田広域市に位置する双清堂のソンユの母親ユ氏の葬儀のために作られた斎室について話す。 ここは文宗2年に建設された建物で、両側には部屋が2間ずつあり、屋根は入母屋造で八の字型と似ている。 斎室の中央には大きな床があり、左右には奥の間と向かい側の部屋があり、奥の間の横には2間の大きさのキッチンがある。 扁額には「関東妙慮」という文字がかかっており、側面には「崇政紀元後」という文字があり、1894年に建て直したことが分かる。",
+    "QA": [
+        {
+            "question": "この斎室はいつ建設されましたか？",
+            "answer": "この斎室は文宗2年に建設されました。"
+        },
+        {
+            "question": "斎室の屋根の形はどのような形ですか？",
+            "answer": "斎室の屋根は入母屋造で八の字型と似ています。"
+        },
+        {
+            "question": "斎室にはどのような部屋がありますか？",
+            "answer": "斎室には両側に2間ずつの部屋があります。"
+        },
+        {
+            "question": "斎室の中央には何がありますか？",
+            "answer": "斎室の中央には大きな床があります。"
+        },
+        {
+            "question": "斎室の扁額には何と書かれていますか？",
+            "answer": "斎室の扁額には「関東妙慮」と書かれています。"
+        },
+        {
+            "question": "斎室の側面には何と書かれていますか？",
+            "answer": "斎室の側面には「崇政紀元後」と書かれており、1894年に建て直されたことが分かります。"
+        }
+    ],
+    "word_Count": {
+        "text": 159,
+        "QA": 179
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_001064",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2023-06-15",
+        "domain": "문화/역사관광",
+        "title": "OPEN SPACE NU-E（복합문화지구 누에）"
+    },
+    "text": "OPEN SPACE NU-E（복합문화지구 누에）\\n\nチョンラブク道ワンジュ郡ワンジュロ462-9\\n\n全羅北道完州郡に位置するOPEN SPACE NU-E（複合文化地区ヌエ）は「誰もが芸術でコミュニケーションできる暮らしの空間」を目標にオープンしました。文化再生事業の一環として全羅北道蚕業試験場団地に設けられ、文化芸術教育、展示企画、創意空間造成といった事業を行っています。多様な芸術作品展示と公演が行われるNU-Eアートホール、地域住民のためのゲストハウス「スム」、キャンプ場とラウンジ、陶磁器室と窯室などを運営し、さまざまな団体が入居して空間をともに活性化しています。子どものための空間「夢見る蚕の遊び場」などがあり、家族旅行にも最適です。",
+    "QA": [
+        {
+            "question": "OPEN SPACE NU-Eはどこに位置していますか？",
+            "answer": "OPEN SPACE NU-Eは全羅北道完州郡に位置しています。"
+        },
+        {
+            "question": "OPEN SPACE NU-Eの目標は何ですか？",
+            "answer": "OPEN SPACE NU-Eの目標は「誰もが芸術でコミュニケーションできる暮らしの空間」です。"
+        },
+        {
+            "question": "OPEN SPACE NU-Eで行われる事業は何ですか？",
+            "answer": "OPEN SPACE NU-Eでは文化芸術教育、展示企画、創意空間造成などの事業が行われています。"
+        },
+        {
+            "question": "OPEN SPACE NU-Eにはどのような施設がありますか？",
+            "answer": "OPEN SPACE NU-EにはNU-Eアートホール、ゲストハウス「スム」、キャンプ場とラウンジ、陶磁器室と窯室などの施設があります。"
+        },
+        {
+            "question": "OPEN SPACE NU-Eは家族旅行に適していますか？",
+            "answer": "はい、OPEN SPACE NU-Eは家族旅行にも最適な場所です。子どものための空間「夢見る蚕の遊び場」もあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 239,
+        "QA": 289
+    }
+}

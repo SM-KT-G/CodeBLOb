@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_074862",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=124&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=10670000&ccbaCtcd=11&ccbaCpno=1121110670000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1991-01-25",
+        "domain": "문화/역사관광",
+        "title": "분청사기 상감연화당초문 병"
+    },
+    "text": "朝鮮時代に作られた宝物は高さ31.7センチ、口直径8センチ、ヒールの直径9.9センチのつぼです。この壺は首を通りながら、膨張されて、本体下部に広まったが、再び狭まる形で作られ、安定感が目立ちます。口部分は起こって首の部分は狭まってラッパ模様を呈しています。全体的に、二つ三列のベクサンガム線で蔓の模様と図式化された蓮華(れんげ)文が描かれています。胴体部中央には3ヵ所に蓮華(れんげ)文が描かれており、蓮の花は幹と葉が葛で連結されています。余白はウジョムムンの形で雨粒が落ちた跡の模様で作られています。特に、蓮の花や蓮の葉の輪郭線はベクサンガムとして描かれており、内側はフクサンガムで処理されて装飾が目立ちます。器の形と模様の比例が適切かつ織り目が良く、模様の装飾が断定して念入りて表面が崩れないです。釉薬は全面に塗ったが、不揃いに塗られ、表面に屈曲ができました。",
+    "QA": [
+        {
+            "question": "この壺はどの時代に作られましたか？",
+            "answer": "朝鮮時代に作られました。"
+        },
+        {
+            "question": "この壺の寸法はどのくらいですか？",
+            "answer": "高さは31.7センチ、口直径は8センチ、ヒールの直径は9.9センチです。"
+        },
+        {
+            "question": "この壺の形状はどのような特徴がありますか？",
+            "answer": "この壺は首を通りながら膨張されて広まり、再び狭まる形状で、安定感があります。"
+        },
+        {
+            "question": "この壺の模様について教えてください。",
+            "answer": "壺全体には蓮華(れんげ)文が描かれており、蓮の花は幹と葉が葛で連結されています。"
+        },
+        {
+            "question": "釉薬はどのように塗られていますか？",
+            "answer": "釉薬は全面に塗られていますが、不揃いに塗られており、表面に屈曲ができています。"
+        }
+    ],
+    "word_Count": {
+        "text": 280,
+        "QA": 186
+    }
+}

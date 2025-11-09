@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_013834",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-06",
+        "domain": "음식점",
+        "title": "マダンジプ ( 마당집 )"
+    },
+    "text": "マダンジプ ( 마당집 )\\n\n釜山広域市 釜山鎮区 プジョンロ69\\n\n35年の伝統を誇る韓牛炭火焼きの店です。代表的なメニューは霜降り牛ロースです。釜山広域市のブサンジン区に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "マダンジプはどこに位置していますか？",
+            "answer": "マダンジプは釜山広域市の釜山鎮区プジョンロ69に位置しています。"
+        },
+        {
+            "question": "マダンジプではどのような料理が提供されていますか？",
+            "answer": "マダンジプでは韓牛炭火焼きが提供されています。代表的なメニューは霜降り牛ロースです。"
+        },
+        {
+            "question": "マダンジプの特徴は何ですか？",
+            "answer": "マダンジプは35年の伝統を誇る韓牛炭火焼きの店です。"
+        },
+        {
+            "question": "マダンジプはどのようなエリアに位置していますか？",
+            "answer": "マダンジプは釜山広域市のブサンジン区に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 74,
+        "QA": 152
+    }
+}

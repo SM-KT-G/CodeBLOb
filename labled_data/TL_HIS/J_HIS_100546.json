@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_100546",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/view?relicId=529",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2023-10-11",
+        "domain": "문화/역사관광",
+        "title": "정곤수 초상"
+    },
+    "text": "チョン·ゴンスの肖像 (정곤수 초상)\\n\n古いバケットハットをかぶった商人が背負子に木桶を持ち、かごを持った夫人たちも同じく行商に旅立つ光景が描かれている。特に、チョゴリを着た女中が子供をおんぶしている姿は目を引く。この絵は韓国・朝鮮の作品で、材質は絹で作られている。作者は金弘道(1745-1816以降)で、分類は一般絵画に属している。サイズは縦1745cm、横98cmである。",
+    "QA": [
+        {
+            "question": "この絵の作者は誰ですか？",
+            "answer": "金弘道(1745-1816以降)です。"
+        },
+        {
+            "question": "この絵は何の作品に分類されますか？",
+            "answer": "一般絵画に属しています。"
+        },
+        {
+            "question": "この絵のサイズは何ですか？",
+            "answer": "縦1745cm、横98cmです。"
+        },
+        {
+            "question": "この絵の材質は何ですか？",
+            "answer": "絹で作られています。"
+        },
+        {
+            "question": "この絵に描かれている光景の中で特に目を引くものは何ですか？",
+            "answer": "チョゴリを着た女中が子供をおんぶしている姿が目を引きます。"
+        }
+    ],
+    "word_Count": {
+        "text": 140,
+        "QA": 123
+    }
+}

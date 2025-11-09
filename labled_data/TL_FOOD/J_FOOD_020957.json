@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_020957",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "味加本（미가본）"
+    },
+    "text": "味加本（미가본）\\n\nソウル特別市 中区 明洞キル 56\\n\nソウル特別市のミョン洞に位置した韓食です。日本人観光客に有名なお店です。代表的なメニューは天然松茸入りアワビ粥です。",
+    "QA": [
+        {
+            "question": "このレストランの名前は何ですか？",
+            "answer": "味加本（미가본）です。"
+        },
+        {
+            "question": "レストランの場所はどこですか？",
+            "answer": "ソウル特別市 中区 明洞キル 56にあります。"
+        },
+        {
+            "question": "このレストランは何の料理を提供していますか？",
+            "answer": "韓食を提供しています。"
+        },
+        {
+            "question": "このレストランはどのような特徴がありますか？",
+            "answer": "日本人観光客に有名なお店です。"
+        },
+        {
+            "question": "このレストランの代表的なメニューは何ですか？",
+            "answer": "天然松茸入りアワビ粥です。"
+        }
+    ],
+    "word_Count": {
+        "text": 65,
+        "QA": 124
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_009996",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-01",
+        "domain": "음식점",
+        "title": "チョゲプムンテジ ( 조개품은돼지 )"
+    },
+    "text": "チョゲプムンテジ \n京畿道 平沢市 碑前5路 20-45\n特殊加工された鉄板で焼いた貝と豚肉を一度に味わえるところです。 京畿道のピョンテク市に位置した韓食専門店です。代表的なメニューは貝焼きです。",
+    "QA": [
+        {
+            "question": "この韓食専門店の場所はどこですか？",
+            "answer": "この韓食専門店は京畿道の平沢市に位置しています。"
+        },
+        {
+            "question": "この韓食専門店の特徴的なメニューは何ですか？",
+            "answer": "この韓食専門店の代表的なメニューは貝焼きです。特殊加工された鉄板で焼かれた貝と豚肉を一度に味わうことができます。"
+        },
+        {
+            "question": "この韓食専門店はどの市に位置していますか？",
+            "answer": "この韓食専門店は京畿道のピョンテク市に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 72,
+        "QA": 122
+    }
+}

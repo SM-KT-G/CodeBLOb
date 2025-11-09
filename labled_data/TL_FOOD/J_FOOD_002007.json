@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_002007",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-03",
+        "domain": "음식점",
+        "title": "PINO ( 피노 )"
+    },
+    "text": "PINO ( 피노 )\\n\n江原道 ガンヌン市 パルソンギル42-1\\n\nかまどで焼いたピザとパスタを一緒に味わえる店です。江原道のガンヌン市に位置した洋食専門店です。おすすめは手作り豚カツです。",
+    "QA": [
+        {
+            "question": "ピノ（PINO）の場所はどこですか？",
+            "answer": "ピノ（PINO）は江原道のガンヌン市に位置しています。具体的な住所はパルソンギル42-1です。"
+        },
+        {
+            "question": "ピノ（PINO）で提供される料理は何ですか？",
+            "answer": "ピノ（PINO）では、かまどで焼いたピザとパスタが主な料理となっています。また、手作り豚カツもおすすめです。"
+        },
+        {
+            "question": "ピノ（PINO）のおすすめメニューは何ですか？",
+            "answer": "ピノ（PINO）のおすすめメニューは手作り豚カツです。ぜひお試しください。"
+        }
+    ],
+    "word_Count": {
+        "text": 71,
+        "QA": 147
+    }
+}

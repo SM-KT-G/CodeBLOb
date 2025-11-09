@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_004725",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42090&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "서귀포 마녀의언덕펜션(리뉴얼)"
+    },
+    "text": "こんにちは。西帰浦の魔女の丘ペンションです。 入室時間に関するお知らせをお知らせします。 22時以降に入室される場合は予めご連絡ください。 静かな休息を取る他のゲストとの環境のため、予約された時間に合わせて入室してください。 ご了承とご協力に感謝いたします。",
+    "QA": [
+        {
+            "question": "西帰浦の魔女の丘ペンションの入室時間は何時からですか？",
+            "answer": "入室時間は予約された時間に合わせてください。22時以降に入室される場合は事前にご連絡ください。"
+        },
+        {
+            "question": "入室時間を守る理由は何ですか？",
+            "answer": "静かな休息を取る他のゲストとの環境を保つために、入室時間を守っていただくようお願いしています。"
+        },
+        {
+            "question": "予約された時間より遅れて入室する場合はどうすればいいですか？",
+            "answer": "22時以降に入室される場合は事前にご連絡いただくようお願いしています。"
+        },
+        {
+            "question": "他のゲストとの環境を守るために何をしているのですか？",
+            "answer": "他のゲストとの環境を守るために、静かな休息を取るようお願いしています。"
+        },
+        {
+            "question": "入室時間に関するルールはありますか？",
+            "answer": "入室時間に関するルールとしては、予約された時間に合わせて入室していただくことをお願いしています。"
+        }
+    ],
+    "word_Count": {
+        "text": 94,
+        "QA": 240
+    }
+}

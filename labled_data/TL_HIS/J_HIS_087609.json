@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_087609",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=942&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=24&ccbaAsno=01870000&ccbaCtcd=37&ccbaCpno=2443701870000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2017-05-15",
+        "domain": "문화/역사관광",
+        "title": "안동 지촌종택"
+    },
+    "text": "慶尚北道義城に位置するキム·バンゴルの宗家は、朝鮮後期の文臣として活躍したキム·バンゴルの住居だ。 この宗家は憲宗4年に建てられ、本来の位置よりは下の方にあったが、1985年に臨河ダム建設によって移された。 この宗家は母屋、蔵、門屋、精米所、祠堂、別廟で構成されているが、門屋を過ぎて母屋に接近できる。 母屋は前面と側面が5間で構成されており、側面から見ると入母屋造りの八の字型に見える。 この宗家は朝鮮時代の典型的な宗家様式に従っている。",
+    "QA": [
+        {
+            "question": "この宗家はいつ建てられましたか？",
+            "answer": "宗家は憲宗4年に建てられました。"
+        },
+        {
+            "question": "宗家は何で構成されていますか？",
+            "answer": "宗家は母屋、蔵、門屋、精米所、祠堂、別廟で構成されています。"
+        },
+        {
+            "question": "母屋は何の形をしていますか？",
+            "answer": "母屋は前面と側面が5間で構成され、側面から見ると入母屋造りの八の字型に見えます。"
+        },
+        {
+            "question": "宗家はどのような様式に従って建てられていますか？",
+            "answer": "宗家は朝鮮時代の典型的な宗家様式に従って建てられています。"
+        }
+    ],
+    "word_Count": {
+        "text": 161,
+        "QA": 134
+    }
+}

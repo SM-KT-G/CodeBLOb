@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_086511",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=847&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=01110000&ccbaCtcd=36&ccbaCpno=2333601110000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1987-06-01",
+        "domain": "문화/역사관광",
+        "title": "신여량장군정려"
+    },
+    "text": "朝鮮時代(旌閭)、全羅南道記念物、旌閭という国で忠臣·孝子·烈女を称え、彼らが住んでいた村の入口に建てた門や碑で、この旌閭は壬辰倭乱とその後に戦功を立てた申汝亮(1564~1606)将軍の忠節を称えるために英祖29年(1753)に建てられたものです。申汝良将軍は宣祖16年(1583年)、科挙に及第した後、宣戦官など様々な官職を経て宣祖25年(1592年)文禄·慶長の役が起こると、王様を義州まで護送しましたその後、権律の下で幸州大捷に参加して功績を挙げ、丁酉再乱の時期には三道水軍統制使の李舜臣とともに海戦に参戦しました。1604年、唐浦海戦に参戦し、功績を立てたことを記念して「唐浦前洋勝捷之図」が下賜され、1605年12月に全羅優秀使に任命されました。申汝良将軍が残した遺品としては、宝物第1937号「上家教書」、宝物第1938号「密夫遺書」、「主事宣延之図」、「堂浦全養勝致図」が国立光州博物館に所蔵されています",
+    "QA": [
+        {
+            "question": "申汝亮将軍は何年に忠節を称えるために建てられた門や碑が建てられたか？",
+            "answer": "英祖29年(1753)に建てられました。"
+        },
+        {
+            "question": "申汝亮将軍はどのような官職を経て戦功を挙げたか？",
+            "answer": "申汝亮将軍は科挙に及第した後、様々な官職を経て、文禄・慶長の役や丁酉再乱に参加し戦功を挙げました。"
+        },
+        {
+            "question": "申汝亮将軍が残した遺品として国立光州博物館に所蔵されているものは何ですか？",
+            "answer": "宝物第1937号「上家教書」、宝物第1938号「密夫遺書」、「主事宣延之図」、「堂浦全養勝致図」が所蔵されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 300,
+        "QA": 162
+    }
+}

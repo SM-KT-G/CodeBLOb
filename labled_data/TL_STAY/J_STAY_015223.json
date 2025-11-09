@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_015223",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://kr.hotels.com/ho469923/neseuteu-hotel-incheon-incheon-hangug/?chkin=2023-11-14&chkout=2023-11-15&x_pwa=1&rfrr=HSR&pwa_ts=1698770735749&referrerUrl=aHR0cHM6Ly9rci5ob3RlbHMuY29tL0hvdGVsLVNlYXJjaA%3D%3D&useRewards=false&rm1=a2&regionId=6335505&destination=%EC%95%88%EC%82%B0%2C+%EA%B2%BD%EA%B8%B0%2C+%ED%95%9C%EA%B5%AD&destType=MARKET&neighborhoodId=6337940&latLong=37.21768%2C126.58797&sort=RECOMMENDED&top_dp=117000&top_cur=KRW&userIntent=&selectedRoomType=200893913&selectedRatePlan=204533420&expediaPropertyId=8772897&searchId=2e0617c4-a0dc-4ebd-8b39-8cb73c1ef65a",
+        "collectedDate": "2023-11-15",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "네스트 호텔 인천"
+    },
+    "text": "ネストホテル仁川 (네스트 호텔 인천)\n仁川で海辺近くの宿泊のための良い選択となるNEST Hotel Incheonは、3つの屋外プールがあり、水遊びを楽しむことができます。 また、ジムやサウナも利用できるので便利です。 The Platzという世界の料理専門レストランでは、おいしい朝食、昼食、夕食を楽しむことができます。 さらに、このホテルは 2 つのバーと無料の空港シャトル、プールサイド バーも提供しています。 多くのお客様が親切なカスタマー サービスと宿泊施設の素晴らしい状態にとても満足していました。 また、この宿泊施設はWater Park Stationから徒歩8分の距離に位置しており、公共交通機関を利用するのに便利です。",
+    "QA": [
+        {
+            "question": "ネストホテル仁川はどこにありますか？",
+            "answer": "ネストホテル仁川は仁川に位置しています。"
+        },
+        {
+            "question": "ネストホテル仁川の近くには何がありますか？",
+            "answer": "ネストホテル仁川の近くには海辺があります。"
+        },
+        {
+            "question": "ネストホテル仁川は何を提供していますか？",
+            "answer": "ネストホテル仁川は3つの屋外プール、ジム、サウナ、レストラン、バー、空港シャトルなどを提供しています。"
+        },
+        {
+            "question": "ネストホテル仁川のレストランでは何を楽しむことができますか？",
+            "answer": "ネストホテル仁川のレストランではおいしい朝食、昼食、夕食を楽しむことができます。"
+        },
+        {
+            "question": "ネストホテル仁川は公共交通機関の近くにありますか？",
+            "answer": "はい、ネストホテル仁川はWater Park Stationから徒歩8分の距離に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 236,
+        "QA": 215
+    }
+}

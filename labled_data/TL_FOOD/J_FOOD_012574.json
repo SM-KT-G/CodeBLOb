@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_012574",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2021-03-10",
+        "domain": "음식점",
+        "title": "화떡 명동"
+    },
+    "text": "ファトク明洞 (화떡 명동)\\n\nソウル特別市中区明洞二街54-26\\n\nかまどで焼かれたゴルゴンゾーラピザとピリ辛の即席料理が楽しめるお店です。このお店はソウル特別市の中心地、中区に位置しています。特におすすめのメニューは即席料理です。",
+    "QA": [
+        {
+            "question": "このお店はどこにありますか？",
+            "answer": "ファトク明洞 (화떡 명동)はソウル特別市中区明洞二街54-26に位置しています。"
+        },
+        {
+            "question": "このお店の特徴的なメニューは何ですか？",
+            "answer": "ファトク明洞ではかまどで焼かれたゴルゴンゾーラピザとピリ辛の即席料理がおすすめです。"
+        },
+        {
+            "question": "このお店の場所はどんな特徴がありますか？",
+            "answer": "ファトク明洞はソウル特別市の中心地、中区に位置しています。"
+        },
+        {
+            "question": "このお店のおすすめメニューは何ですか？",
+            "answer": "ファトク明洞の特におすすめのメニューは即席料理です。"
+        }
+    ],
+    "word_Count": {
+        "text": 87,
+        "QA": 154
+    }
+}

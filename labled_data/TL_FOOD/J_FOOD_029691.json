@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_029691",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-06",
+        "domain": "음식점",
+        "title": "黄太名家 ( 황태명가 )"
+    },
+    "text": "黄太名家 ( 황태명가 )\\n\nソウル特別市 江南区 ヨンドンデロ602\\n\n様々な種類のスケトウダラ料理が味わえます。おすすめは干しスケトウダラ焼きです。ソウル特別市のガンナム区に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "このレストランの場所はどこですか？",
+            "answer": "ソウル特別市の江南区のヨンドンデロ602に位置しています。"
+        },
+        {
+            "question": "このレストランの特徴的な料理は何ですか？",
+            "answer": "干しスケトウダラ焼きがおすすめです。様々な種類のスケトウダラ料理を楽しむことができます。"
+        },
+        {
+            "question": "このレストランは何を専門としていますか？",
+            "answer": "韓食を専門としたレストランです。"
+        }
+    ],
+    "word_Count": {
+        "text": 75,
+        "QA": 107
+    }
+}

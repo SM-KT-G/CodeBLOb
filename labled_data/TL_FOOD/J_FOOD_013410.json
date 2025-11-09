@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_013410",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-10",
+        "domain": "음식점",
+        "title": "ポイネチョゲプムンテジ( 뽀이네조개품은돼지 )"
+    },
+    "text": "ポイネチョゲプムンテジ\\n\n京畿道 ピョンテク市 ビジョン2ロ29\\n\n様々な海鮮と肉が一緒に味わえる店です。慶尚北道のアンドン市に位置した韓国料理店です。代表的なメニューは貝焼きです。",
+    "QA": [
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "この店は韓国の京畿道ピョンテク市ビジョン2ロ29に位置しています。"
+        },
+        {
+            "question": "この店はどんな料理を提供していますか？",
+            "answer": "この店ではさまざまな海鮮と肉料理を一緒に味わうことができます。特に代表的なメニューは貝焼きです。"
+        },
+        {
+            "question": "この店の特徴は何ですか？",
+            "answer": "この店は慶尚北道のアンドン市に位置しており、海鮮と肉料理を組み合わせた料理が楽しめる特徴があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 68,
+        "QA": 128
+    }
+}

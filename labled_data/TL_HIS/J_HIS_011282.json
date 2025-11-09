@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_011282",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=125&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=10760000&ccbaCtcd=11&ccbaCpno=1121110760000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1991-07-12",
+        "domain": "문화/역사관광",
+        "title": "김천리 개국원종공신녹권"
+    },
+    "text": "金泉里開国元宗功臣録巻 (김천리 개국원종공신녹권)\\n\nソウル鍾路区成均館路41、成均館大学校博物館(明倫3街)\\n\n宝物 , 功臣録巻とは、功臣の大きい臣下に王の命を受けて功臣図鑑から発給された文書をいう。 この「開国元宗功臣録巻」は太祖4年(1395)にイ·ソンゲの朝鮮建国に功労がある金泉里に功臣図鑑で発給した功臣録巻だ。 文書に記録された人員は計695人であり、筆写本として記載されたこの文書は1989年指定された国宝イ·ウォンギル開国元宗公新録巻と同じ内容で人名の数と発給内容が同じだ。 ただ、国宝の李元吉（イ·ウォンギル）開国元宗功臣録巻は、木版と活字を一緒に書いて刊行されたもので、李元吉に発給されたものだ。 この文書には一辺の長さ6.5㎝の「吏曹之印」という印が45ヶ所に押されている。 文書の最後には、当時の鹿権に関連した公信図鑑の役員であった鹿舎、判官、判事、李朝別監など18人の名簿が書かれており、そのうち13人の名簿の下に受決（署名）がある。",
+    "QA": [
+        {
+            "question": "この功臣録巻は何年に作成されましたか？",
+            "answer": "この功臣録巻は太祖4年(1395)に作成されました。"
+        },
+        {
+            "question": "この功臣録巻は誰に発給されましたか？",
+            "answer": "この功臣録巻は金泉里に功労がある人々に発給されました。"
+        },
+        {
+            "question": "この文書には何人の人名が記録されていますか？",
+            "answer": "この文書には計695人の人名が記録されています。"
+        },
+        {
+            "question": "この文書にはどのような印が押されていますか？",
+            "answer": "この文書には一辺の長さ6.5㎝の「吏曹之印」という印が45ヶ所に押されています。"
+        },
+        {
+            "question": "この文書にはどのような役員の名簿が書かれていますか？",
+            "answer": "この文書には鹿舎、判官、判事、李朝別監など18人の名簿が書かれており、そのうち13人の名簿の下に受決（署名）があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 318,
+        "QA": 208
+    }
+}

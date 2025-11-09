@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_067116",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/view?relicId=36550134",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "백운정문집"
+    },
+    "text": "白雲正文集 (백운정문집)\\n\n国籍/時代：韓国 - 時代不詳 材質：紙 - その他 作家：梨花賞 分類：文化芸術 - 文献 - 文集類 大きさ：縦 295cm、横 205cm この本の国籍と時代は韓国、時代不詳です。材質は紙で、その他の素材も使用されています。作家は梨花賞で、この本は文化芸術の分野で文献や文集類に分類されます。サイズは縦295cm、横205cmです。",
+    "QA": [
+        {
+            "question": "この本の国籍は何ですか？",
+            "answer": "この本の国籍は韓国です。"
+        },
+        {
+            "question": "この本の時代は分かりますか？",
+            "answer": "この本の時代は不詳です。"
+        },
+        {
+            "question": "この本の材質は何ですか？",
+            "answer": "この本の材質は紙です。"
+        },
+        {
+            "question": "この本の作家は誰ですか？",
+            "answer": "この本の作家は梨花賞です。"
+        },
+        {
+            "question": "この本はどのような分野に分類されますか？",
+            "answer": "この本は文化芸術の分野で文献や文集類に分類されます。"
+        },
+        {
+            "question": "この本のサイズはどれくらいですか？",
+            "answer": "この本のサイズは縦295cm、横205cmです。"
+        }
+    ],
+    "word_Count": {
+        "text": 135,
+        "QA": 135
+    }
+}

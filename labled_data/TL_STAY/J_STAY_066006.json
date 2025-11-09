@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_066006",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/goods/GN0002025079?startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0%5E&npprmaxsort=min",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "청주 YAJA 청주서문로점 운영 정책"
+    },
+    "text": "チェックインは23:00時に可能で、チェックアウトは12:00時までです。 入室および利用に関する案内事項は次のとおりです。 ご予約のお部屋は、最高級のラテックスベッドとビーチホテル級の備品セットがございます。",
+    "QA": [
+        {
+            "question": "部屋には何がありますか？",
+            "answer": "最高級のラテックスベッドとビーチホテル級の備品セットがございます。"
+        },
+        {
+            "question": "チェックインとチェックアウトの時間はいつですか？",
+            "answer": "チェックインは23:00時に可能で、チェックアウトは12:00時までです。"
+        },
+        {
+            "question": "どのようなベッドが使われていますか？",
+            "answer": "最高級のラテックスベッドがご利用いただけます。"
+        }
+    ],
+    "word_Count": {
+        "text": 77,
+        "QA": 107
+    }
+}

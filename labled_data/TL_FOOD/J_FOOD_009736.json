@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_009736",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "チェジュラン（제주랑）"
+    },
+    "text": "チェジュラン（제주랑）\\n\n済州特別自治道 西帰浦市 城山邑 城山中央路 40ボンキル 14\\n\n済州特別自治道のソグィポ市に位置した韓食です。代表的なメニューはサバ焼きです。タチウオの煮物、土鍋アワビも有名です。",
+    "QA": [
+        {
+            "question": "チェジュランはどこに位置していますか？",
+            "answer": "チェジュランは済州特別自治道 西帰浦市 城山邑 城山中央路 40ボンキル 14に位置しています。"
+        },
+        {
+            "question": "チェジュランの代表的なメニューは何ですか？",
+            "answer": "チェジュランの代表的なメニューはサバ焼きです。また、タチウオの煮物や土鍋アワビも有名です。"
+        },
+        {
+            "question": "チェジュランで食べられる韓食以外の料理はありますか？",
+            "answer": "チェジュランでは韓食以外にも、他の料理も楽しむことができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 78,
+        "QA": 139
+    }
+}

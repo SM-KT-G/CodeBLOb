@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_018876",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2023-07-12",
+        "domain": "음식점",
+        "title": "대성수산"
+    },
+    "text": "代ソンスサン (대성수산)\\n\n慶尚南道巨済市西門路15\\n\n慶尚南道巨済市に位置する20年伝統のズワイガニ/キングクラブ専門店である。<br>準備時間が長くかかる料理なので、最低平日2時間前に予約するのが一番いい。<br>平日のランチは遅くても1日前に予約しないと食事ができない。",
+    "QA": [
+        {
+            "question": "慶尚南道巨済市に位置するお店の名前は何ですか？",
+            "answer": "代ソンスサン (대성수산) です。"
+        },
+        {
+            "question": "代ソンスサンは何年の伝統を持つお店ですか？",
+            "answer": "20年の伝統を持つお店です。"
+        },
+        {
+            "question": "予約は何時間前にするのが一番いいですか？",
+            "answer": "最低平日2時間前に予約するのが一番いいです。"
+        },
+        {
+            "question": "平日のランチの予約はいつまでにすればいいですか？",
+            "answer": "平日のランチは遅くても1日前に予約しないと食事ができません。"
+        }
+    ],
+    "word_Count": {
+        "text": 103,
+        "QA": 125
+    }
+}

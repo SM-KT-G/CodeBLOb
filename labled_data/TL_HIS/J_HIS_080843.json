@@ -1,0 +1,51 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_080843",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=198&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=18810000&ccbaCtcd=11&ccbaCpno=1121118810000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2015-12-02",
+        "domain": "문화/역사관광",
+        "title": "서울 창의문"
+    },
+    "text": "朝鮮時代、漢陽(ハンヤン)都城に位置した彰義門は宝物の一つであり、サソムンの一つである西北門だ。太祖5年に建設され、肅靖門と共に交通路として利用されたが、太宗16年の風水地理説によって閉鎖されたが、中宗1年に再び開放された。仁祖反正の時に反正軍らが、この門を通じて成功的に宮殿に入り、文禄・慶長の役により門楼は焼失してしまい、英祖(ヨンジョ)18年に改築された。門楼は正面3間、側面2間の寄棟屋根で、漢陽都城の4うわさの中で唯一、壬辰倭乱後に建て直され、大きな変形なしに残っている建築様式を持っている。彰義門は漢陽都城において重要な位置を占めており、建築様式的陳情の成果、朝鮮後期の都城門楼の形式を示す学術的価値を持っている。壇となど城下町説もよく保存され、その価値と歴史的な意味合いが大きい。",
+    "QA": [
+        {
+            "question": "彰義門はどのような場所に位置していますか？",
+            "answer": "漢陽都城に位置しています。"
+        },
+        {
+            "question": "彰義門はいつ建設されましたか？",
+            "answer": "太祖5年に建設されました。"
+        },
+        {
+            "question": "彰義門はなぜ閉鎖されたのですか？",
+            "answer": "太宗16年の風水地理説によって閉鎖されました。"
+        },
+        {
+            "question": "彰義門はいつ再び開放されたのですか？",
+            "answer": "中宗1年に再び開放されました。"
+        },
+        {
+            "question": "彰義門の建築様式にはどのような特徴がありますか？",
+            "answer": "彰義門は正面3間、側面2間の寄棟屋根を持ち、壬辰倭乱後に建て直された際に大きな変形なしに残っている建築様式を持っています。"
+        },
+        {
+            "question": "彰義門は都城においてどのような位置を占めていますか？",
+            "answer": "彰義門は都城において重要な位置を占めており、建築様式的陳情の成果、朝鮮後期の都城門楼の形式を示す学術的価値を持っています。"
+        },
+        {
+            "question": "彰義門の価値と歴史的な意味合いは何ですか？",
+            "answer": "彰義門は都城門楼の形式を示し、壇となど城下町説もよく保存され、その価値と歴史的な意味合いが大きいです。"
+        }
+    ],
+    "word_Count": {
+        "text": 254,
+        "QA": 277
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_023902",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1007&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=00590000&ccbaCtcd=35&ccbaCpno=3413500590000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1984-04-01",
+        "domain": "문화/역사관광",
+        "title": "십로사"
+    },
+    "text": "十露寺 (십로사)\\n\n全羅北道南原市大江面生岩里山47-1番地\\n\n全羅北道文化財資料 , 朝鮮時代の端宗廃位で官職を捨てて世祖に抗拒した当時の10門人の高潔な切開を称えるために建てられた祠堂だ。 名人10文人は部長イ·ユンチョル、主婦アン·ジョン、県令キム·バク、建山ハン·スンユ、クァンウンソル·サンオク、処士ソル·ジョンウィ、チウンオ·ユギョン、グィレジョンシン·マルジュ、十世チョ·ユンオク、屯岩チャンジョピョンだ。 哲宗13年(1862)に彼らの子孫が建てたこの祠堂は前面3間·側面1間規模で講堂、中門、外三門、垂直寺などを備えている。",
+    "QA": [
+        {
+            "question": "十露寺はどこにありますか？",
+            "answer": "十露寺は全羅北道南原市大江面生岩里山47-1番地にあります。"
+        },
+        {
+            "question": "十露寺は何のために建てられましたか？",
+            "answer": "十露寺は、朝鮮時代の端宗廃位で官職を捨てて世祖に抗拒した10門人の高潔な切開を称えるために建てられました。"
+        },
+        {
+            "question": "十露寺の名人10門人は誰ですか？",
+            "answer": "十露寺の名人10門人は部長イ·ユンチョル、主婦アン·ジョン、県令キム·バク、建山ハン·スンユ、クァンウンソル·サンオク、処士ソル·ジョンウィ、チウンオ·ユギョン、グィレジョンシン·マルジュ、十世チョ·ユンオク、屯岩チャンジョピョンです。"
+        },
+        {
+            "question": "十露寺の建物はどのようなものですか？",
+            "answer": "十露寺の建物は前面3間・側面1間規模で講堂、中門、外三門、垂直寺などを備えています。"
+        }
+    ],
+    "word_Count": {
+        "text": 200,
+        "QA": 225
+    }
+}

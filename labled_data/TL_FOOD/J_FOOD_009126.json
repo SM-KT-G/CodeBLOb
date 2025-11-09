@@ -1,0 +1,31 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_009126",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2022-09-19",
+        "domain": "음식점",
+        "title": "ソナタカフェ（소나타까페）"
+    },
+    "text": "ソナタカフェ（소나타까페）\nカンウォン道チュンチョン市ナミソムギル1\nメタセコイア並木の入り口にあるソナタカフェでは、コーヒー、ドリンクの他、雪だるまホットクなど、南怡島ならではの特別なデザートが味わえます。夏は雪だるまホットクカキ氷やアイスクリーム、冬は雪だるまホットクが人気があります。",
+    "QA": [
+        {
+            "question": "このカフェの場所はどこですか？",
+            "answer": "ソナタカフェ（소나타까페）はカンウォン道チュンチョン市ナミソムギル1にあります。"
+        },
+        {
+            "question": "ソナタカフェでは何が味わえますか？",
+            "answer": "ソナタカフェではコーヒーやドリンクの他に、南怡島ならではの特別なデザートが味わえます。特に夏は雪だるまホットクカキ氷やアイスクリーム、冬は雪だるまホットクが人気です。"
+        }
+    ],
+    "word_Count": {
+        "text": 106,
+        "QA": 113
+    }
+}

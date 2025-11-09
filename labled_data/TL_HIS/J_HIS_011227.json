@@ -1,0 +1,51 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_011227",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=425&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=00650000&ccbaCtcd=35&ccbaCpno=2113500650000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1974-09-27",
+        "domain": "문화/역사관광",
+        "title": "김제전교비"
+    },
+    "text": "金堤全校費 (김제전교비)\\n\n全羅北道金堤市梧亭洞259番地\\n\n全羅北道有形文化財 , 全校碑は王の命でこの地域住民の税金を免れるようにした事実を記念するために建てた碑だ。 旧金溝県の一北面と下西面·草処面一帯は毎年雨が降れば近隣地方の水が全てここに流れ込んで橋が流されるなど苦痛が激しかった。 また、官家の弊害でむしろ多くの税金がかかると、これに王が命を下し粛宗16年(1680)、ここに校地を下して税金を免れるようにした。 隣にあるもう一つの碑は、税金を徴収した司監を追い出し、弊害を一掃した県令のイ·スンイクに対する感謝の意味で住民たちが建てたものだという。 2基とも破損していたのを村の人たちが地面に埋めて保存し、1971年に発見して1973年に元の姿に復元しておいた。",
+    "QA": [
+        {
+            "question": "金堤全校費はどこに建てられましたか？",
+            "answer": "全羅北道金堤市梧亭洞259番地に建てられました。"
+        },
+        {
+            "question": "全校碑はなぜ建てられましたか？",
+            "answer": "全校碑は王の命でこの地域住民の税金を免れるようにした事実を記念するために建てられました。"
+        },
+        {
+            "question": "金溝県の一北面と下西面·草処面一帯はどのような苦痛を経験しましたか？",
+            "answer": "金溝県の一北面と下西面·草処面一帯は、毎年雨が降れば近隣地方の水が全てここに流れ込んで橋が流されるなど苦痛が激しかったそうです。"
+        },
+        {
+            "question": "金堤全校費はいつ建てられましたか？",
+            "answer": "金堤全校費は粛宗16年(1680)に建てられました。"
+        },
+        {
+            "question": "もう一つの碑は誰に対する感謝の意味で建てられたのでしょうか？",
+            "answer": "もう一つの碑は税金を徴収した司監を追い出し、弊害を一掃した県令のイ・スンイクに対する感謝の意味で住民たちが建てたものだとされています。"
+        },
+        {
+            "question": "碑が破損していた時はどうなっていましたか？",
+            "answer": "碑が破損していた時は、村の人たちが地面に埋めて保存していました。"
+        },
+        {
+            "question": "碑はいつ元の姿に復元されましたか？",
+            "answer": "碑は1973年に元の姿に復元されました。"
+        }
+    ],
+    "word_Count": {
+        "text": 250,
+        "QA": 314
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_009329",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=845&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=01070000&ccbaCtcd=33&ccbaCpno=2333301070000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1996-01-05",
+        "domain": "문화/역사관광",
+        "title": "괴산 화양서원 묘정비"
+    },
+    "text": "槐山華陽書院墓整備 (괴산 화양서원 묘정비)\\n\n忠清北道槐山郡清川面花陽洞キル188(花陽里)\\n\n忠清北道記念物 , 墓整備は書院の前に立て書院の建設趣旨とその書院の主人·祀る人物に対する文章などを記録しておくもので、この碑は牛岩ソン·シヨル先生を祀った華陽書院の場所に置かれている。 華陽書院は朝鮮粛宗22年(1696年)、宋時烈の遺影を祀って祭享するために建立されたもので、創建された年に扁額を下賜され粛宗42年(1716年)アピールで扁額を掲げた。 全国の賜額書院の中でも最も名高く威勢が堂々とした書院であったが、誤った税金徴収でひどい迷惑をかけ、哲宗9年(1858)に閉鎖され、議論の中で高宗7年(1870)の建物が取り壊された。 碑は四角い台石の上に碑身を立てた後、屋根石を上げた姿だ。 粛宗42年(1716)に建てられたもので、碑文はユン·ボングが建てた。 書院が取り壊され、地中に埋没していたものを光復後に再び探して建てた。",
+    "QA": [
+        {
+            "question": "この墓はどこにありますか？",
+            "answer": "この墓は忠清北道槐山郡清川面花陽洞にあります。"
+        },
+        {
+            "question": "この墓はどんな場所に建っていますか？",
+            "answer": "この墓は華陽書院の場所に建てられています。"
+        },
+        {
+            "question": "華陽書院はいつ建立されましたか？",
+            "answer": "華陽書院は朝鮮粛宗22年(1696年)に建立されました。"
+        },
+        {
+            "question": "華陽書院はどのような目的で建立されましたか？",
+            "answer": "華陽書院は宋時烈の遺影を祀って祭享するために建立されました。"
+        },
+        {
+            "question": "華陽書院はどのような書院ですか？",
+            "answer": "華陽書院は全国の賜額書院の中でも最も名高く威勢が堂々とした書院です。"
+        },
+        {
+            "question": "なぜ華陽書院は閉鎖されたのですか？",
+            "answer": "華陽書院は誤った税金徴収でひどい迷惑をかけたため、哲宗9年(1858)に閉鎖されました。"
+        },
+        {
+            "question": "この碑はいつ建てられましたか？",
+            "answer": "この碑は粛宗42年(1716年)に建てられました。"
+        },
+        {
+            "question": "碑文は誰が建てましたか？",
+            "answer": "碑文はユン・ボングが建てました。"
+        },
+        {
+            "question": "華陽書院は再建されましたか？",
+            "answer": "華陽書院は光復後に再び建てられました。"
+        }
+    ],
+    "word_Count": {
+        "text": 309,
+        "QA": 280
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_029564",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42010&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "가평 하야타키즈펜션(온수비,그릴비 무료, 모래놀이터 오픈)"
+    },
+    "text": "お子様が安全に遊べるキッズペンションプールビラでは、お知らせをご案内しております。 ペンションに入室される際には、22時以降に到着する場合は予めご連絡をお願いしています。 これにより、便利なチェックイン手続きができるようにしています。",
+    "QA": [
+        {
+            "question": "キッズペンションプールビラでは何をご案内していますか？",
+            "answer": "お知らせをご案内しています。"
+        },
+        {
+            "question": "ペンションに入室する際には何をお願いしていますか？",
+            "answer": "22時以降に到着する場合は予めご連絡をお願いしています。"
+        },
+        {
+            "question": "予めご連絡をすることでどのような便利な手続きができますか？",
+            "answer": "チェックイン手続きが円滑に行えるようになります。"
+        }
+    ],
+    "word_Count": {
+        "text": 85,
+        "QA": 107
+    }
+}

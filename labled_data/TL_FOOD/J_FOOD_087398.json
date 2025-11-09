@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_087398",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-01",
+        "domain": "음식점",
+        "title": "安停カマコル ( 안정가마골 )"
+    },
+    "text": "安停カマコル \n京畿道 平沢市 彭城邑 安停路 45\n安停里ウォーキングゲートから平沢方向に徒歩5分のところにある、ヘジャンクク(酔い覚ましスープ)の専門店です。 おすすめは豚の背骨酔い覚ましスープです。",
+    "QA": [
+        {
+            "question": "この専門店の名前は何ですか？",
+            "answer": "安停カマコルです。"
+        },
+        {
+            "question": "この専門店はどこにありますか？",
+            "answer": "京畿道 平沢市 彭城邑 安停路 45 安停里にあります。"
+        },
+        {
+            "question": "この専門店はどのくらい歩いた場所にありますか？",
+            "answer": "ウォーキングゲートから平沢方向に徒歩5分です。"
+        },
+        {
+            "question": "この専門店のおすすめメニューは何ですか？",
+            "answer": "豚の背骨酔い覚ましスープです。"
+        }
+    ],
+    "word_Count": {
+        "text": 74,
+        "QA": 107
+    }
+}

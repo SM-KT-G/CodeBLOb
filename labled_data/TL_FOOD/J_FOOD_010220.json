@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_010220",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "ティティパンパン（띠띠빵빵）"
+    },
+    "text": "ティティパンパン（띠띠빵빵）\\n\n済州特別自治道 済州市 牛島面 牛島海岸キル 982\\n\n済州特別自治道のジェジュ市に位置した中華です。代表的なメニューは海鮮ちゃんぽんです。浜辺に位置した飲食店です。",
+    "QA": [
+        {
+            "question": "この中華レストランはどこに位置していますか？",
+            "answer": "この中華レストランは済州特別自治道のジェジュ市に位置しています。"
+        },
+        {
+            "question": "この中華レストランの代表的なメニューは何ですか？",
+            "answer": "この中華レストランの代表的なメニューは海鮮ちゃんぽんです。"
+        },
+        {
+            "question": "この中華レストランはどのような場所に位置していますか？",
+            "answer": "この中華レストランは浜辺に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 74,
+        "QA": 113
+    }
+}

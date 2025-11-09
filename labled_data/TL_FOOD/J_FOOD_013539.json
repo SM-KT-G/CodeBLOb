@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_013539",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-01",
+        "domain": "음식점",
+        "title": "ポドチョン ( 포도청 )"
+    },
+    "text": "ポドチョン ( 포도청 )\n釜山広域市 釜山鎮区 中央大路680ボンカキル 11-7\n釜山では昔から豚カルビで有名な店です。おすすめは豚カルビです。釜山広域市のブサンジン区に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "ポドチョンはどこに位置していますか？",
+            "answer": "ポドチョンは釜山広域市の釜山鎮区中央大路680ボンカキル11-7に位置しています。"
+        },
+        {
+            "question": "ポドチョンで有名なメニューは何ですか？",
+            "answer": "ポドチョンでおすすめのメニューは豚カルビです。"
+        },
+        {
+            "question": "ポドチョンはどのような店ですか？",
+            "answer": "ポドチョンは韓食専門店で、釜山広域市のブサンジン区に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 72,
+        "QA": 110
+    }
+}

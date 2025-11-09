@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001923",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2022-10-07",
+        "domain": "음식점",
+        "title": "NATUREL45"
+    },
+    "text": "NATUREL45 (NATUREL45)\\n\n昌原北面カフェNATUREL45は、IKA2020ドイツ世界オリンピック製菓部門で金メダルを受賞した製菓技能長が運営するパン屋です。 一戸建てで、建物の裏側に専用駐車場があります。 カフェ内部は平屋で広く、高い階高で開放感があります。 入口に入ると、中央に円形のパンが並べられ、両側に座席が設けられています。 パンが出る時間は11時30分頃70%程度で、12時30分にはすべてのパンが食べられます。 NATUREL45は生きている酵母を利用して発酵させた生地で、パンを作って独特の食感と香りがあります。 健康的なパンとして有名で、遠くからでも訪れることができます。 近くに夏場の水遊びに最適な達川渓谷があり、一緒に訪れるのに最適です。",
+    "QA": [
+        {
+            "question": "NATUREL45はどのようなカフェですか？",
+            "answer": "NATUREL45は、IKA2020ドイツ世界オリンピック製菓部門で金メダルを受賞した製菓技能長が運営するパン屋です。"
+        },
+        {
+            "question": "NATUREL45の建物の特徴は何ですか？",
+            "answer": "NATUREL45は一戸建てで、建物の裏側に専用駐車場があります。カフェ内部は平屋で広く、高い階高で開放感があります。"
+        },
+        {
+            "question": "NATUREL45のパンが出る時間は何時ですか？",
+            "answer": "NATUREL45のパンが出る時間は11時30分頃70%程度で、12時30分にはすべてのパンが食べられます。"
+        },
+        {
+            "question": "NATUREL45のパンはどのように作られていますか？",
+            "answer": "NATUREL45は生きている酵母を利用して発酵させた生地で、パンを作って独特の食感と香りがあります。"
+        },
+        {
+            "question": "NATUREL45はどんな種類のパンが有名ですか？",
+            "answer": "NATUREL45は健康的なパンとして有名で、遠くからでも訪れることができます。"
+        },
+        {
+            "question": "NATUREL45の近くにはどんな観光名所がありますか？",
+            "answer": "NATUREL45の近くには夏場の水遊びに最適な達川渓谷があり、一緒に訪れるのに最適です。"
+        }
+    ],
+    "word_Count": {
+        "text": 250,
+        "QA": 333
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_112186",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/view?relicId=214475",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2023-10-11",
+        "domain": "문화/역사관광",
+        "title": "청자 전접시"
+    },
+    "text": "青磁のチヂミ皿 (청자 전접시)\\n\n国籍/時代: 中国-元 材質: 陶磁器 - 青磁 分類: 食器 - 皿 大きさ: 高さ32cm、直径13cm、底径6cm この皿は、中国の元という国で作られたものです。材質は陶磁器で、青磁と呼ばれる特徴的な釉薬が掛けられています。主に食事の際に使用される食器であり、その中でも特に皿として使われることが多いです。大きさは、高さ32cm、直径13cm、底径6cmです。",
+    "QA": [
+        {
+            "question": "このチヂミ皿は何国で作られましたか？",
+            "answer": " 中国で作られました。"
+        },
+        {
+            "question": "このチヂミ皿の材質は何ですか？",
+            "answer": " 陶磁器です。"
+        },
+        {
+            "question": "青磁とはどのような特徴の釉薬ですか？",
+            "answer": " 青磁は青みがかった釉薬で、涼やかで上品な雰囲気を醸し出します。"
+        },
+        {
+            "question": "このチヂミ皿の主な使用用途は何ですか？",
+            "answer": " 主に食事の際に使用される食器として使われます。"
+        },
+        {
+            "question": "このチヂミ皿の大きさはどのくらいですか？",
+            "answer": " 高さ32cm、直径13cm、底径6cmです。"
+        }
+    ],
+    "word_Count": {
+        "text": 148,
+        "QA": 137
+    }
+}

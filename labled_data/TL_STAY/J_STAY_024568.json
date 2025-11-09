@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_024568",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42030&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "상주 아이사랑키즈풀빌라"
+    },
+    "text": "安全のため、プールビラの外部にCCTVが設置されています。 早期チェックインやレイトチェックアウトは不可能であり、ご利用時間をお守りください。 子供たちがプールを利用する時は、必ず保護者が同伴しなければなりません。 客室内では肉、魚、天ぷらなど臭いがしたり、脂っこい食べ物を調理することはできませんので、ご了承ください。",
+    "QA": [
+        {
+            "question": "プールビラの外部に設置されているCCTVは何のために設置されていますか？",
+            "answer": "安全のために設置されています。"
+        },
+        {
+            "question": "早期チェックインやレイトチェックアウトは可能ですか？",
+            "answer": "不可能です。ご利用時間をお守りください。"
+        },
+        {
+            "question": "子供たちがプールを利用する時、保護者が同伴する必要がありますか？",
+            "answer": "はい、必ず保護者が同伴しなければなりません。"
+        },
+        {
+            "question": "客室内でどのような調理ができないのですか？",
+            "answer": "肉、魚、天ぷらなど臭いがしたり、脂っこい食べ物の調理はできません。"
+        }
+    ],
+    "word_Count": {
+        "text": 117,
+        "QA": 150
+    }
+}

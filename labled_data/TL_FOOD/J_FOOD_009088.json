@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_009088",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-06",
+        "domain": "음식점",
+        "title": "ソサッボル ( 소삿벌 )"
+    },
+    "text": "ソサッボル ( 소삿벌 )\n京畿道 平沢市 マンセロ1735\n家族のお集まりだけでなく、団体の飲み会もすべて可能な店です。おすすめは韓牛です。京畿道のピョンテク市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "この店は京畿道平沢市マンセロ1735に位置しています。"
+        },
+        {
+            "question": "この店では何がおすすめですか？",
+            "answer": "この店では韓牛がおすすめです。"
+        },
+        {
+            "question": "この店では団体の飲み会もできますか？",
+            "answer": "はい、この店では家族のお集まりだけでなく、団体の飲み会もすべて可能です。"
+        },
+        {
+            "question": "この店はどのような料理を提供していますか？",
+            "answer": "この店は韓食専門店であり、韓国料理を提供しています。"
+        },
+        {
+            "question": "この店の営業時間は何時から何時までですか？",
+            "answer": "この店の営業時間は、具体的な時間が提供されていないため、確認が必要です。"
+        }
+    ],
+    "word_Count": {
+        "text": 68,
+        "QA": 167
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_105005",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1081&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=01830000&ccbaCtcd=38&ccbaCpno=3413801830000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1991-12-23",
+        "domain": "문화/역사관광",
+        "title": "창녕 열효신씨 정려비"
+    },
+    "text": "昌寧·烈孝申氏旌閭碑\\n\n慶尚南道昌寧郡ワンギル42-3(道川面)\\n\n慶尚南道文化財資料、高麗時代後期の恭愍王時代の文官だったシンサチョン(∼1382)先生とその2人の娘の忠孝と節義をたたえるために立てておいた2基の雨だ。『高麗史節要』によると、鳳翼貸付専攻板書を務めていたシンサチョンは、官職を捨てて故郷に戻ってきて泊まっていたが、倭敵が数回にわたって侵略すると、これに立ち向かって戦って大功を立てて、まあ8年(1382)に殉死した。彼の長女は嵐山金ウヒョンの妻になって、夫と共に敵国と戦う命を失っており、次女も16歳の女性の体で敵国と戦う殉死した。戦法板書照準が慶尚道チェボクサへ来たが、このような事情を聞いて王に上訴してみると、王は雨を立てるようにして褒賞を下しており、その訳を『サムカンヘン実録』に記録した。一軒の碑閣の中に並んで席しているこのビドゥルは低い四角台の上に、ビモムを立てたシンプルな姿で、朝鮮太宗(チョソン・テジョン)の5年(1405)に建てられたものだ。1994年に碑閣と祠堂を新たにしてその中に仕えておいた。",
+    "QA": [
+        {
+            "question": "誰が雨をたたえるためにこの碑を立てましたか？",
+            "answer": "シンサチョンとその2人の娘の忠孝と節義をたたえるために立てられました。"
+        },
+        {
+            "question": "いつ、この碑が建てられましたか？",
+            "answer": "1994年に碑閣と祠堂を新たにしてその中に仕えておいたものです。"
+        },
+        {
+            "question": "どこにこの碑が立てられていますか？",
+            "answer": "慶尚南道昌寧郡ワンギル42-3(道川面)に立てられています。"
+        },
+        {
+            "question": "なぜこの碑が建てられたのですか？",
+            "answer": "シンサチョンとその娘たちの忠義をたたえるために建てられました。"
+        },
+        {
+            "question": "どのようにしてシンサチョンは殉死しましたか？",
+            "answer": "倭敵が侵略すると、これに立ち向かって戦って大功を立てて、まあ8年(1382)に殉死しました。"
+        }
+    ],
+    "word_Count": {
+        "text": 343,
+        "QA": 195
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_001859",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.booking.com/hotel/kr/mini-by-uniqstay-busan.ko.html",
+        "collectedDate": "2023-11-17",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "HOTEL mini"
+    },
+    "text": "HOTEL miniは釜山に位置する宿で、ソミョン駅から1km以内、チャンからは4.9kmの距離にあります。 また釜山駅とは4.9km、釜山アジアード競技場とは5.2km、京城大学とは6kmの距離に位置しています。 宿泊客のために共用ラウンジ、24時間フロントデスク、手荷物預かり所サービスなどを提供しています。 客室にはシャワー施設とヘアドライヤーが備えられており、無料Wi-Fiも提供しています。 一部の客室では、都市の眺めを楽しむことができます。 宿所からは社稷野球場が6.1km、光復洞が6.5km離れており、最寄り空港は金海国際空港で14kmの距離に位置しています。 HOTEL miniは釜山中心部から1.2kmの距離にありますが、すべての距離は直線距離を基準とし、実際の移動距離は異なる場合があります。 チェックインは05:00から可能で、チェックアウトは12:00までです。",
+    "QA": [
+        {
+            "question": "HOTEL miniはどこに位置していますか？",
+            "answer": "HOTEL miniは釜山に位置しています。"
+        },
+        {
+            "question": "HOTEL miniはどの駅からのアクセスが良いですか？",
+            "answer": "HOTEL miniはソミョン駅から1km以内の距離に位置しています。"
+        },
+        {
+            "question": "HOTEL miniはどのような施設を提供していますか？",
+            "answer": "HOTEL miniは共用ラウンジ、24時間フロントデスク、手荷物預かり所サービスなどの施設を提供しています。"
+        },
+        {
+            "question": "HOTEL miniの客室にはどのような設備が備えられていますか？",
+            "answer": "HOTEL miniの客室にはシャワー施設とヘアドライヤーが備えられており、無料Wi-Fiも提供されています。"
+        },
+        {
+            "question": "HOTEL miniの周辺にはどのような観光スポットがありますか？",
+            "answer": "HOTEL miniの周辺には釜山駅、釜山アジアード競技場、京城大学などの観光スポットがあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 289,
+        "QA": 264
+    }
+}

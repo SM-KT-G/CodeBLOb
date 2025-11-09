@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_002380",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-03",
+        "domain": "숙박",
+        "title": "アナンティ南海（아난티 남해）"
+    },
+    "text": "アナンティ南海（아난티 남해）\\n\n慶尚南道 南海郡 南面 南西大路1179キル40-109\\n\n南海郡に位置する「アナンティ南海（Ananti Namhae）」は現代的なつくりですが、自然をそのまま表現したデザインをコンセプトにしています。ゴルフコースやサウナ施設などを備えています。",
+    "QA": [
+        {
+            "question": "アナンティ南海はどこに位置していますか？",
+            "answer": "アナンティ南海は慶尚南道南海郡南面南西大路1179キル40-109に位置しています。"
+        },
+        {
+            "question": "アナンティ南海のコンセプトは何ですか？",
+            "answer": "アナンティ南海のコンセプトは、現代的なつくりですが、自然をそのまま表現したデザインです。"
+        },
+        {
+            "question": "アナンティ南海にはどんな施設がありますか？",
+            "answer": "アナンティ南海にはゴルフコースやサウナ施設などがあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 104,
+        "QA": 128
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_033052",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2022-12-28",
+        "domain": "자연관광",
+        "title": "반남박씨묘역"
+    },
+    "text": "2001年に華城市の郷土の遺跡第13号に指定された文化財であると同時に返上、朴姓の墓地だ。名筆であるユンドクジュン(粛宗在位中に吏曹判書)が書いた碑文もまた歴史的に貴重な資料として評価されている。...",
+    "QA": [
+        {
+            "question": "この墓地は何年に華城市の郷土の遺跡第13号に指定されましたか？",
+            "answer": "2001年に指定されました。"
+        },
+        {
+            "question": "誰が名筆であるユンドクジュンが書いた碑文ですか？",
+            "answer": "ユンドクジュンは粛宗在位中に吏曹判書で、碑文を書きました。"
+        },
+        {
+            "question": "墓地の文化財指定を返上したのは誰ですか？",
+            "answer": "朴姓の墓地は文化財指定を返上しました。"
+        }
+    ],
+    "word_Count": {
+        "text": 74,
+        "QA": 100
+    }
+}

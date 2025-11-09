@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001449",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-01",
+        "domain": "음식점",
+        "title": "BBANGARTGAN ( 빵아트간 )"
+    },
+    "text": "BBANGARTGAN ( 빵아트간 )\\n\n忠清南道 天安市 西北区 仏堂15キル 10-2\\n\n各種デザート類を取り扱っており、ビーガンデザートも用意しています。忠淸南道チョンアン市に位置したカフェです。おすすめはマドレーヌです。",
+    "QA": [
+        {
+            "question": "BBANGARTGAN（빵아트간）はどこにありますか？",
+            "answer": "BBANGARTGAN（빵아트간）は忠清南道天安市西北区仏堂15キル10-2にあります。"
+        },
+        {
+            "question": "BBANGARTGAN（빵아트간）はどのようなデザートを提供していますか？",
+            "answer": "BBANGARTGAN（빵아트간）では各種デザート類を取り扱っており、ビーガンデザートも用意しています。"
+        },
+        {
+            "question": "BBANGARTGAN（빵아트간）でおすすめのメニューは何ですか？",
+            "answer": "BBANGARTGAN（빵아트간）でおすすめのメニューはマドレーヌです。"
+        }
+    ],
+    "word_Count": {
+        "text": 85,
+        "QA": 167
+    }
+}

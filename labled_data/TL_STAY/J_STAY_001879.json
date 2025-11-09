@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_001879",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.airbnb.com/h/houseofgallery-gyodae",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "House of Gallery Kyodae"
+    },
+    "text": "House of Gallery Kyodae\\n\n大邱広域市南区中央大路40キル48-6\\n\n駅から徒歩5分の地中海スタイルのインテリアが美しい宿です。ロフト付きの一軒屋がプライベートで利用でき、お菓子、ラーメンなどの食べ物も提供されます。",
+    "QA": [
+        {
+            "question": "この宿の名前は何ですか？",
+            "answer": "ハウス オブ ギャラリー 京大（キョウダエ）です。"
+        },
+        {
+            "question": "宿の場所はどこですか？",
+            "answer": "大邱広域市南区中央大路40キル48-6です。"
+        },
+        {
+            "question": "宿までのアクセスはどうですか？",
+            "answer": "最寄りの駅から徒歩5分の距離です。"
+        },
+        {
+            "question": "宿の特徴は何ですか？",
+            "answer": "地中海スタイルの美しいインテリアとロフト付きの一軒屋が特徴です。"
+        },
+        {
+            "question": "宿で提供される食べ物は何ですか？",
+            "answer": "お菓子やラーメンなどが提供されます。"
+        }
+    ],
+    "word_Count": {
+        "text": 88,
+        "QA": 130
+    }
+}

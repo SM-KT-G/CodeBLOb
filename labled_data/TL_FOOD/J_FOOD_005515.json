@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_005515",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-01",
+        "domain": "음식점",
+        "title": "ゲンネウム ( 갯내음 )"
+    },
+    "text": "ゲンネウム ( 갯내음 )\\n\n全羅南道 木浦市 新興路59ボンキル 11\\n\n韓国のグルメ番組でも紹介されたお店です。この店は全羅南道のモクポ市に位置した韓食専門店です。代表的なメニューは太刀魚焼きです。",
+    "QA": [
+        {
+            "question": "ゲンネウムはどこに位置していますか？",
+            "answer": "ゲンネウムは韓国の全羅南道木浦市新興路59ボンキル11に位置しています。"
+        },
+        {
+            "question": "ゲンネウムはどのようなお店ですか？",
+            "answer": "ゲンネウムは韓食専門店であり、太刀魚焼きが代表的なメニューです。"
+        },
+        {
+            "question": "ゲンネウムはどのような番組で紹介されましたか？",
+            "answer": "ゲンネウムは韓国のグルメ番組で紹介されました。"
+        }
+    ],
+    "word_Count": {
+        "text": 75,
+        "QA": 109
+    }
+}

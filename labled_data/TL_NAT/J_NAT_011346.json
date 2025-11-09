@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_011346",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=839&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=00960000&ccbaCtcd=34&ccbaCpno=2333400960000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1995-03-06",
+        "domain": "자연관광",
+        "title": "서천남산성"
+    },
+    "text": "舒川南山城 (서천남산성)\\n\n忠清南道舒川郡舒川邑南山里山22-1番地の他4頭\\n\n忠清南道記念物 , 忠清南道舒川郡南山頂上部を囲んで積み上げた山城で、横·縦30~40㎝の大きさの自然石を利用して城壁を築いた。 周囲620mの城は幅2.6mの南門跡と幅2.5mの西門跡が確認され、城の中には6~9mの通路が城壁に沿って回っている。 現在、城壁は南側と北側に残っており、壁が崩壊した地点では三国時代の土器彫刻と瓦彫刻が発見された。 発見された遺物から三国時代にもすでに住居地として使われていたことが分かる。 『シンズン』によると、石垣の周囲が1,545隻で、城内には井戸が1つあり、世宗の時に地勢が良くなくて邑城を移したという。 これを通じて少なくともここが世宗の時までは山城や邑城の機能を持っていたことが分かる。 ここは周囲を眺望でき、西海の動きと錦江入口を監視することができ、百済の時から辺境を守る要衝地域だったものと見られる。",
+    "QA": [
+        {
+            "question": "舒川南山城はどこにありますか？",
+            "answer": "舒川南山城は忠清南道舒川郡舒川邑南山里山22-1番地にあります。"
+        },
+        {
+            "question": "舒川南山城は何で築かれていますか？",
+            "answer": "舒川南山城は自然石を利用して城壁が築かれています。"
+        },
+        {
+            "question": "舒川南山城の城壁の大きさはどれくらいですか？",
+            "answer": "舒川南山城の城壁の横・縦の大きさは30~40㎝です。"
+        },
+        {
+            "question": "舒川南山城の築城時期はいつですか？",
+            "answer": "舒川南山城の築城時期は三国時代です。"
+        },
+        {
+            "question": "舒川南山城はどのような機能を持っていましたか？",
+            "answer": "舒川南山城は山城や邑城の機能を持っていました。"
+        }
+    ],
+    "word_Count": {
+        "text": 305,
+        "QA": 159
+    }
+}

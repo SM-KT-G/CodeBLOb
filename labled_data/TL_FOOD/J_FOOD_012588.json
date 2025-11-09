@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_012588",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-05",
+        "domain": "음식점",
+        "title": "ファヤンテバクチキン 1号  ( 화양대박치킨1호 )"
+    },
+    "text": "ファヤンテバクチキン 1号  ( 화양대박치킨1호 )\\n\nソウル特別市 広津区 アチャサンロ29ギル47\\n\nソースもおいしく、衣もサクサクしたタッカンジョン(鶏唐揚げの甘辛ソース和え)の名店です。ソウル特別市のグァンジン区に位置した韓食専門店です。おすすめはタッカンジョンです。",
+    "QA": [
+        {
+            "question": "このレストランはどこにありますか？",
+            "answer": "ソウル特別市広津区アチャサンロ29ギル47にあります。"
+        },
+        {
+            "question": "このレストランの特徴は何ですか？",
+            "answer": "ソースもおいしく、衣もサクサクしたタッカンジョン(鶏唐揚げの甘辛ソース和え)が名物です。"
+        },
+        {
+            "question": "このレストランのおすすめメニューは何ですか？",
+            "answer": "おすすめはタッカンジョンです。"
+        },
+        {
+            "question": "このレストランはどのようなタイプの料理を提供していますか？",
+            "answer": "こちらは韓食専門店で、韓国料理を提供しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 103,
+        "QA": 142
+    }
+}

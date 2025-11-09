@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_081601",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/view?relicId=57235",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2023-10-11",
+        "domain": "문화/역사관광",
+        "title": "석기"
+    },
+    "text": "石器 (석기)\\n\nこの資料は、韓国の新石器時代に使用されたと思われる石製のです。大きさは様々で、一つ目は長さ11.7cm、幅7.4cm、厚さ1.5cmです。二つ目は長さ6.3cm、幅8.3cm、厚さ1.8cmで、三つ目は長さ9.1cm、幅7.0cm、厚さ2.8cmです。そして、最後の一つは長さ4.8cm、幅5.3cm、厚さ1.3cmです。この資料の用途については明確ではありません。",
+    "QA": [
+        {
+            "question": "これらの石器はどの時代に使用されましたか？",
+            "answer": "これらの石器は新石器時代に使用されました。"
+        },
+        {
+            "question": "石器の大きさはどれくらいですか？",
+            "answer": "一つ目は長さ11.7cm、幅7.4cm、厚さ1.5cm、二つ目は長さ6.3cm、幅8.3cm、厚さ1.8cm、三つ目は長さ9.1cm、幅7.0cm、厚さ2.8cm、そして最後の一つは長さ4.8cm、幅5.3cm、厚さ1.3cmです。"
+        },
+        {
+            "question": "これらの石器は何に使用されたと考えられていますか？",
+            "answer": "これらの石器の用途については明確ではありませんが、新石器時代の道具や武器として使用された可能性があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 141,
+        "QA": 184
+    }
+}

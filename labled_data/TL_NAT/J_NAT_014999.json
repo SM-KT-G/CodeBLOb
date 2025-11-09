@@ -1,0 +1,31 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_014999",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101971",
+        "collectedDate": "2023-09-07",
+        "publishedDate": "2021-11-25",
+        "domain": "자연관광",
+        "title": "伝統庭園"
+    },
+    "text": "伝統庭園\n伝統庭園には、池の中に東屋があり、その東屋から二つの柱が池の中に建っています。 池は、東洋の伝統的な世界観である「天円地方（てんえんちほう）」にならって形作られました。この「天円地方」という言葉には、天は円く、地は四角いという意味が込められています。",
+    "QA": [
+        {
+            "question": "この伝統庭園では、どのように東屋が配置されていますか？",
+            "answer": "池の中に東屋があり、その東屋から二つの柱が池の中に建っています。"
+        },
+        {
+            "question": "伝統庭園の池は、どのような形状になっていますか？",
+            "answer": "伝統庭園の池は「天円地方」にならって形作られており、天が円く、地が四角い形状です。"
+        }
+    ],
+    "word_Count": {
+        "text": 95,
+        "QA": 90
+    }
+}

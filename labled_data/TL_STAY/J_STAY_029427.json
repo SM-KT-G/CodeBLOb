@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_029427",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.goodchoice.kr/product/detail?ano=959&adcno=1&sel_date=2023-11-06&sel_date2=2023-11-07",
+        "collectedDate": "2023-11-15",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "부평 애플그린"
+    },
+    "text": "金~土連泊をご利用のお客様は、貸室の利用料金が追加されます。 駐車施設を保有している宿で、地下鉄号線には富平駅と富平市場駅があります。 客室の内部施設では、全客室でネットフリックスをご覧いただけます。",
+    "QA": [
+        {
+            "question": "貸室の利用料金が追加されますか？",
+            "answer": "はい、金~土連泊をご利用のお客様は、貸室の利用料金が追加されます。"
+        },
+        {
+            "question": "富平駅と富平市場駅はどの地下鉄号線にありますか？",
+            "answer": "富平駅と富平市場駅は地下鉄号線にあります。"
+        },
+        {
+            "question": "客室の内部施設でネットフリックスが利用できますか？",
+            "answer": "はい、全客室でネットフリックスをご覧いただけます。"
+        }
+    ],
+    "word_Count": {
+        "text": 73,
+        "QA": 105
+    }
+}

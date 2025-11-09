@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_060607",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=447&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=00940000&ccbaCtcd=36&ccbaCpno=2113600940000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1982-10-15",
+        "domain": "문화/역사관광",
+        "title": "대흥사대광명전"
+    },
+    "text": "大興寺大光明殿\\n\n全羅南道海南郡三山面大興寺キル400(九林里)\\n\n全羅南道有形文化財、頭輪山(トゥリュンサン)の中腹に位置した大興寺は新羅の真興王5年(544)にアド画像が建てた由緒深い寺院である。現在、大興寺は寺の北から流れるクムダンチョンを中心に南・北が分かれたが、人・北元の法堂らは、自分なりの特色を持っている。毘盧遮那仏を祀っている大光明殿は、表忠寺の東側に位置し、草衣禅師が朝鮮、憲宗7年(1841)に建て直したのだ。前面3間・側面3間の規模であり、屋根のヨプソンが人の教わる字形の単純な切妻屋根の家だ。内部は仏壇がある中央部の上に井戸の井の字の字形の天井を高くつけて、蓮華(れんげ)文と雲・鶴などを描いた。草衣禅師が直接丹青したと言うのに、色彩と模様面において他の所では見られなかった優れた作品だ。また、自然的な曲線を示す内部の大黒柱もこの建物の特徴だ。",
+    "QA": [
+        {
+            "question": "大興寺は何時に建てられましたか？",
+            "answer": "大興寺は新羅の真興王5年(544)に建てられました。"
+        },
+        {
+            "question": "大興寺はどこに位置していますか？",
+            "answer": "大興寺は頭輪山(トゥリュンサン)の中腹に位置しています。"
+        },
+        {
+            "question": "大興寺の特徴は何ですか？",
+            "answer": "大興寺は寺の北から流れるクムダンチョンを中心に南・北に分かれており、大光明殿は草衣禅師が朝鮮、憲宗7年(1841)に建て直したものです。"
+        },
+        {
+            "question": "大光明殿の屋根の形はどのような形ですか？",
+            "answer": "大光明殿の屋根は単純な切妻屋根であり、ヨプソンが人の教わる字形をしています。"
+        },
+        {
+            "question": "大光明殿の内部にはどのような特徴がありますか？",
+            "answer": "大光明殿の内部には仏壇がある中央部の上に井戸の字形の天井を高くつけており、蓮華(れんげ)文と雲・鶴などが描かれています。また、曲線を示す大黒柱も特徴的です。"
+        }
+    ],
+    "word_Count": {
+        "text": 283,
+        "QA": 238
+    }
+}

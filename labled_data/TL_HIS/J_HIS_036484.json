@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_036484",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1031&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=00930000&ccbaCtcd=34&ccbaCpno=3413400930000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1984-05-17",
+        "domain": "문화/역사관광",
+        "title": "청일사"
+    },
+    "text": "淸逸祠 (청일사)\\n\n忠清南道扶余郡弘山面教員里190番地\\n\n忠清南道文化財資料、金時習(1435~1493)と金孝宗(14~1493)の意思を称えるために朝鮮光海君13年(1621)に建てられた祠堂だ。 金時習は朝鮮前期の学者であり、韓国初の漢文小説である『金烏神話』を書いた人物だ。 現在ある淸逸祠は興宣大院君の書院撤廃令で一時廃絶したが1970年に建て直したのだ。",
+    "QA": [
+        {
+            "question": "淸逸祠はいつ建てられましたか？",
+            "answer": "淸逸祠は朝鮮光海君13年(1621)に建てられました。"
+        },
+        {
+            "question": "淸逸祠はどのような人々を称えるために建てられましたか？",
+            "answer": "淸逸祠は金時習と金孝宗の意思を称えるために建てられました。"
+        },
+        {
+            "question": "金時習はどのような人物ですか？",
+            "answer": "金時習は朝鮮前期の学者であり、韓国初の漢文小説『金烏神話』を書いた人物です。"
+        },
+        {
+            "question": "淸逸祠は一時廃絶されたことがありましたか？",
+            "answer": "はい、興宣大院君の書院撤廃令により一時廃絶されました。"
+        },
+        {
+            "question": "淸逸祠はいつ再建されましたか？",
+            "answer": "淸逸祠は1970年に建て直されました。"
+        }
+    ],
+    "word_Count": {
+        "text": 137,
+        "QA": 170
+    }
+}

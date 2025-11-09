@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_004771",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101933",
+        "collectedDate": "2023-10-06",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "가래떡"
+    },
+    "text": "カレトク\\n\nカレトックは水にふやかしたうるち米を挽いた粉に再び一定量の水を注いで練った後蒸して細長い餅だ。 白い餅とも呼ぶ。 正月に食べる名節料理であり、正月試食の一つである。 トックを作るのに使うために斜めに切ったものはトックトックとも呼ばれる。",
+    "QA": [
+        {
+            "question": "カレトックはどのように作られますか？",
+            "answer": "カレトックは水にふやかしたうるち米を挽いた粉に再び一定量の水を注いで練った後蒸して細長い餅になります。"
+        },
+        {
+            "question": "カレトックは正月に食べられる料理ですか？",
+            "answer": "はい、カレトックは正月に食べられる名節料理です。また、正月試食の一つでもあります。"
+        },
+        {
+            "question": "トックトックとは何ですか？",
+            "answer": "トックトックは斜めに切ったカレトックを指す言葉です。"
+        }
+    ],
+    "word_Count": {
+        "text": 91,
+        "QA": 123
+    }
+}

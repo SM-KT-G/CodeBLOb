@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_030786",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42010&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "가평 V10펜션"
+    },
+    "text": "お知らせによると、V1客室~V4番客室はプールを利用できないそうです。 また、屋外プールの水はぬるま湯ではないそうです。 入室時間は20時以降はペンションと事前に連絡をしなければならず、22時以降は入室できないそうです。 退室時間を超過した場合、追加料金として1時間に50,000ウォンが加算されるそうです。 また、室内で肉類を調理する場合、保証金は払い戻しできないそうです。",
+    "QA": [
+        {
+            "question": "プールを利用できない客室はどれですか？",
+            "answer": "V1客室~V4番客室はプールを利用できません。"
+        },
+        {
+            "question": "屋外プールの水は何度くらいですか？",
+            "answer": "屋外プールの水はぬるま湯ではありません。具体的な温度については記載されていません。"
+        },
+        {
+            "question": "何時から入室することができますか？",
+            "answer": "入室時間は20時以降ですが、ペンションと事前に連絡をしなければなりません。22時以降は入室することができません。"
+        },
+        {
+            "question": "退室時間を超過した場合、追加料金はいくらですか？",
+            "answer": "退室時間を超過した場合、1時間につき50,000ウォンの追加料金が加算されます。"
+        },
+        {
+            "question": "室内で肉類を調理する場合、保証金は払い戻しできますか？",
+            "answer": "室内で肉類を調理する場合、保証金は払い戻しできません。"
+        }
+    ],
+    "word_Count": {
+        "text": 137,
+        "QA": 213
+    }
+}

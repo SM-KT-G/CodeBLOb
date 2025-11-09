@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_052262",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.goodchoice.kr/product/detail?ano=55704&adcno=1&sel_date=2023-11-07&sel_date2=2023-11-08",
+        "collectedDate": "2023-11-15",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "김천 칸플러스"
+    },
+    "text": "207. GRAND OPEN金泉カンプラスは慶尚北道金泉市徳谷洞に位置する宿です。 周辺には金泉駅と金泉亀尾KTX駅があり、車を利用すると約9分か8分で到着できます。 また、金泉革新都市までは約4.kmで車で7分かかり、文化芸術会館までは約6.7km、車で約10分かかります。",
+    "QA": [
+        {
+            "question": "金泉カンプラスはどこにありますか？",
+            "answer": "金泉カンプラスは慶尚北道金泉市徳谷洞に位置しています。"
+        },
+        {
+            "question": "金泉カンプラスへのアクセス方法はありますか？",
+            "answer": "金泉カンプラスへは金泉駅と金泉亀尾KTX駅が近くにあり、車を利用すると約9分か8分で到着できます。"
+        },
+        {
+            "question": "金泉カンプラス周辺にはどのような施設がありますか？",
+            "answer": "金泉カンプラス周辺には金泉革新都市や文化芸術会館などがあります。金泉革新都市までは約4.kmで車で7分かかり、文化芸術会館までは約6.7km、車で約10分かかります。"
+        }
+    ],
+    "word_Count": {
+        "text": 101,
+        "QA": 163
+    }
+}

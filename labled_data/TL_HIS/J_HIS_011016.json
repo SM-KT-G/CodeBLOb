@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_011016",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1183&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=06550000&ccbaCtcd=37&ccbaCpno=3413706550000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2017-08-31",
+        "domain": "문화/역사관광",
+        "title": "김룡사 석불입상"
+    },
+    "text": "金龍寺 石仏立像 (김룡사 석불입상)\\n\n慶尚北道文化財資料 , この仏像は石柱状の立像で、立体感が欠如した民仏形態の石仏だ。 手印、服のしわなど全身が非常に低く粗削りな浮彫で彫刻され、顔だけが比較的詳しく描写されている。 1725年に出版された『雲峰寺史跡』によると、西側の渓谷の向こうに位置する石塔とともに風水思想に基づいて1709年に造成されたことが確認される。 朝鮮時代の大部分の民仏のように粗雑な造形性を特徴として見せているが、1709年という製作年代が分かり、金龍寺の風水的弱点を秘補しようとする目的などが史跡記に記録されており学術的な価値がある。",
+    "QA": [
+        {
+            "question": "この石仏立像はどのような形をしていますか？",
+            "answer": "この石仏立像は石柱状の形をしています。立体感が欠如しており、民仏形態の石仏です。"
+        },
+        {
+            "question": "この石仏立像の彫刻はどのようにされていますか？",
+            "answer": "この石仏立像は手印や服のしわなど、全身が非常に低く粗削りな浮彫で彫刻されています。顔だけが比較的詳しく描写されています。"
+        },
+        {
+            "question": "この石仏立像はいつ造られましたか？",
+            "answer": "この石仏立像は1709年に造成されました。"
+        },
+        {
+            "question": "この石仏立像はどのような意味や目的がありますか？",
+            "answer": "この石仏立像は金龍寺の風水的弱点を秘補する目的などがあります。史跡記にもそのような記録が残されています。"
+        },
+        {
+            "question": "この石仏立像の学術的な価値は何ですか？",
+            "answer": "この石仏立像は朝鮮時代の大部分の民仏のように粗雑な造形性を特徴としていますが、製作年代が分かり、金龍寺の風水的弱点を秘補する目的などが史跡記に記録されており、学術的な価値があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 206,
+        "QA": 269
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_021041",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "博多文庫 ( 하카다분코 )"
+    },
+    "text": "博多文庫 ( 하카다분코 )\nソウル特別市 麻浦区 ドクマク路19キル 43\nテレビで紹介された有名ラーメン店です。ソウル特別市のマポ区に位置した和食専門店です。代表的なメニューはラーメンです。",
+    "QA": [
+        {
+            "question": "博多文庫はどこに位置していますか？",
+            "answer": "博多文庫はソウル特別市マポ区のドクマク路19キル43に位置しています。"
+        },
+        {
+            "question": "博多文庫は何を専門としていますか？",
+            "answer": "博多文庫は和食を専門としています。"
+        },
+        {
+            "question": "博多文庫の代表的なメニューは何ですか？",
+            "answer": "博多文庫の代表的なメニューはラーメンです。"
+        }
+    ],
+    "word_Count": {
+        "text": 71,
+        "QA": 92
+    }
+}

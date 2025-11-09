@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001466",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-06",
+        "domain": "음식점",
+        "title": "BenareS ( 베나레스 )"
+    },
+    "text": "BenareS ( 베나레스 )\\n\nソウル特別市 九老区 ティジトルロ32ギル79\\n\n1人1メニューを注文すると、カレーが食べ放題で提供されます。代表的なメニューはカレーです。ソウル特別市のグロ区に位置したしたインド料理専門店です。",
+    "QA": [
+        {
+            "question": "このレストランの場所はどこですか？",
+            "answer": "ソウル特別市 九老区 ティジトルロ32ギル79にあります。"
+        },
+        {
+            "question": "このレストランの代表的なメニューは何ですか？",
+            "answer": "代表的なメニューはカレーです。"
+        },
+        {
+            "question": "このレストランで食べ放題のカレーを提供していますか？",
+            "answer": "はい、1人1メニューを注文すると、カレーが食べ放題で提供されます。"
+        }
+    ],
+    "word_Count": {
+        "text": 86,
+        "QA": 104
+    }
+}

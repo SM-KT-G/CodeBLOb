@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_001096",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-02-27",
+        "domain": "문화/역사관광",
+        "title": "The ARC文化館（디아크문화관）"
+    },
+    "text": "The ARC文化館（디아크문화관）\\n\n大邱広域市 達城郡 多斯邑 江亭本キル57 The ARC文化館\\n\nThe ARC文化館はユニークな建築様式で大邱の名物としての役割を十分に果たしています。暗くなるとライトアップにより美しい姿に変わり、また、展望台に上ってお茶を一杯飲むだけでも特別な一日を過ごすことができます。",
+    "QA": [
+        {
+            "question": "ARC文化館はどこにありますか？",
+            "answer": "ARC文化館は大邱広域市達城郡多斯邑江亭本キル57にあります。"
+        },
+        {
+            "question": "ARC文化館はどんな建物ですか？",
+            "answer": "ARC文化館はユニークな建築様式を持つ建物です。"
+        },
+        {
+            "question": "ARC文化館はどのような役割を果たしていますか？",
+            "answer": "ARC文化館は大邱の名物としての役割を十分に果たしています。"
+        },
+        {
+            "question": "ARC文化館は暗くなると何が起こりますか？",
+            "answer": "ARC文化館は暗くなるとライトアップされ、美しい姿に変わります。"
+        },
+        {
+            "question": "ARC文化館の展望台では何ができますか？",
+            "answer": "ARC文化館の展望台ではお茶を一杯飲むだけでも特別な一日を過ごすことができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 118,
+        "QA": 186
+    }
+}

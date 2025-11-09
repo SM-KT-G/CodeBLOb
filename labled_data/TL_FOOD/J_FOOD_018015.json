@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_018015",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "南山センゴギジプ ( 남산생고기집 )"
+    },
+    "text": "南山センゴギジプ ( 남산생고기집 )\\n\nソウル特別市 中区 退渓路20キル 21\\n\n地元の人もよく訪れる明洞の隠れた名店です。おすすめはサムギョプサルです。ソウル特別市の中区に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "南山センゴギジプ ( 남산생고기집 )はソウル特別市中区の退渓路20キル 21にあります。"
+        },
+        {
+            "question": "この店のおすすめメニューは何ですか？",
+            "answer": "南山センゴギジプではサムギョプサルがおすすめです。"
+        },
+        {
+            "question": "この店は地元の人にも人気ですか？",
+            "answer": "はい、地元の人にもよく訪れる明洞の隠れた名店です。"
+        }
+    ],
+    "word_Count": {
+        "text": 75,
+        "QA": 104
+    }
+}

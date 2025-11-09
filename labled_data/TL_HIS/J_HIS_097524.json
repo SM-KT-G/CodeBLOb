@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_097524",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/view?relicId=133886",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2023-10-11",
+        "domain": "문화/역사관광",
+        "title": "일본 근대 군사관련자료[군함]"
+    },
+    "text": "日本近代軍事関連資料[軍艦] (일본 근대 군사관련자료[군함])\\n\n【軍事訓練】と題された格納箱には、韓国による日本の植民地支配時代に関連する、日本の近代軍事に関する資料が収められています。 この資料は、ガラスと宝石で作られた軍艦のモデルです。大きさは、横164cm、縦120cmです。このモデルは、メディアの一種であり、映像記録をフィルムに収めたものです。",
+    "QA": [
+        {
+            "question": "この軍艦のモデルは何で作られていますか？",
+            "answer": "この軍艦のモデルは、ガラスと宝石で作られています。"
+        },
+        {
+            "question": "この軍艦のモデルの大きさはどのくらいですか？",
+            "answer": "この軍艦のモデルの大きさは、横164cm、縦120cmです。"
+        },
+        {
+            "question": "この軍艦のモデルは何を記録したものですか？",
+            "answer": "この軍艦のモデルは、映像記録をフィルムに収めたものです。"
+        }
+    ],
+    "word_Count": {
+        "text": 132,
+        "QA": 107
+    }
+}

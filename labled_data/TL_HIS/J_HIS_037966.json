@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_037966",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1033&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=00960000&ccbaCtcd=31&ccbaCpno=3413100960000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2000-03-24",
+        "domain": "문화/역사관광",
+        "title": "용인이주국장군고택"
+    },
+    "text": "龍仁李柱国将軍古宅 (용인이주국장군고택)\\n\n京畿道龍仁市処仁区遠三面文村路252(文村里)\\n\n朝鮮英祖29年(1753)、京畿道文化財資料、英祖·正祖代の武臣、李柱国(1721~1798)将軍の生家だ。 イ·ジュグクは1721年に遠三面文村里で生まれ、首都防衛に大きな役割を果たした。 古宅周辺に墓所、神道碑、亭子跡などが残っており、墓域は郷土遺跡第4号に指定された。この家屋は母屋とサランチェ、門屋で構成されている。 そして母屋の屋根にある瓦銘文に「乾隆十八年季唯一造作」と記録され、1753年に建築したものと推定される。この家屋は棟の構成、空間分割、造園手法などで古典的な特徴を持っており、母屋の裏側の傾斜地の調節と画界の造成および塀の構成方法で郷村に造営された朝鮮中期半家の特徴を見せている。",
+    "QA": [
+        {
+            "question": "この古宅は何年に建てられましたか？",
+            "answer": "この古宅は乾隆十八年、つまり1753年に建てられました。"
+        },
+        {
+            "question": "李柱国将軍の生家はどこにありますか？",
+            "answer": "李柱国将軍の生家は京畿道龍仁市処仁区遠三面文村里にあります。"
+        },
+        {
+            "question": "李柱国将軍はどんな役割を果たしましたか？",
+            "answer": "李柱国将軍は首都防衛に大きな役割を果たしました。"
+        },
+        {
+            "question": "古宅周辺には何が残っていますか？",
+            "answer": "古宅周辺には墓所、神道碑、亭子跡などが残っています。"
+        },
+        {
+            "question": "この家屋の特徴は何ですか？",
+            "answer": "この家屋は棟の構成、空間分割、造園手法などで古典的な特徴を持っています。また、朝鮮中期半家の特徴も見せており、母屋の裏側の傾斜地の調節と画界の造成および塀の構成方法などが挙げられます。"
+        }
+    ],
+    "word_Count": {
+        "text": 258,
+        "QA": 208
+    }
+}

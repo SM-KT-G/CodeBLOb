@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_061177",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/collectionList#######",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "도서자료 핀"
+    },
+    "text": "図書資料ピン (도서자료 핀)\\n\n図書館のデータベースには、原版番号300078の図書資料があります。この資料は韓国における日本の植民地支配に関するものです。材質はガラスと宝石でできており、分類はメディア、記録物、フィルムです。また、サイズは横11.9cm、縦16.4cmです。",
+    "QA": [
+        {
+            "question": "この図書資料の原版番号は何ですか？",
+            "answer": "300078"
+        },
+        {
+            "question": "この資料は何に関するものですか？",
+            "answer": "韓国における日本の植民地支配に関するものです"
+        },
+        {
+            "question": "この図書資料の材質は何ですか？",
+            "answer": "ガラスと宝石でできています"
+        },
+        {
+            "question": "この図書資料の分類は何ですか？",
+            "answer": "メディア、記録物、フィルム"
+        },
+        {
+            "question": "この図書資料のサイズは何ですか？",
+            "answer": "横11.9cm、縦16.4cm"
+        }
+    ],
+    "word_Count": {
+        "text": 102,
+        "QA": 108
+    }
+}

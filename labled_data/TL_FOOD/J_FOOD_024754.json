@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_024754",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-09-01",
+        "domain": "음식점",
+        "title": "玉井（옥정）"
+    },
+    "text": "玉井（옥정）\\n\nソウル特別市 鐘路区 仁寺洞12キル 18\\n\n30年の伝統韓定食レストランです。代表的なメニューは韓定食です。ソウル特別市のインサ洞に位置した韓国料理店です。",
+    "QA": [
+        {
+            "question": "このレストランはどこにありますか？",
+            "answer": "このレストランはソウル特別市の鐘路区仁寺洞12キル18に位置しています。"
+        },
+        {
+            "question": "このレストランの特徴的なメニューは何ですか？",
+            "answer": "このレストランの代表的なメニューは韓定食です。"
+        },
+        {
+            "question": "このレストランはどのくらいの歴史がありますか？",
+            "answer": "このレストランは30年の伝統を持つ韓定食レストランです。"
+        },
+        {
+            "question": "このレストランはどのような場所に位置していますか？",
+            "answer": "このレストランはソウル特別市のインサ洞に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 65,
+        "QA": 148
+    }
+}

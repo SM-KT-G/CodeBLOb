@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_028513",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.goodchoice.kr/product/detail?ano=50464&adcno=1&sel_date=2023-11-07&sel_date2=2023-11-08",
+        "collectedDate": "2023-11-15",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "세종 샤인"
+    },
+    "text": "退室時間は2時40分で確認してください。 客室の内部施設は次のとおりです:TV、ヘアドライヤー、ヘアアイロン(一部の客室)、携帯電話の充電器、Wi-Fi、エアコン、電気カーペット、冷蔵庫、電気ケトル、事務用PC(一部の客室)、PC、IPTVの設置、シネホテル。 全客室は2人基準です。",
+    "QA": [
+        {
+            "question": "退室時間は何時ですか？",
+            "answer": "退室時間は2時40分です。"
+        },
+        {
+            "question": "客室の内部施設には何が含まれていますか？",
+            "answer": "客室の内部施設にはTV、ヘアドライヤー、ヘアアイロン(一部の客室)、携帯電話の充電器、Wi-Fi、エアコン、電気カーペット、冷蔵庫、電気ケトル、事務用PC(一部の客室)、PC、IPTVの設置、シネホテルが含まれています。"
+        },
+        {
+            "question": "客室は何人基準ですか？",
+            "answer": "全客室は2人基準です。"
+        }
+    ],
+    "word_Count": {
+        "text": 104,
+        "QA": 129
+    }
+}

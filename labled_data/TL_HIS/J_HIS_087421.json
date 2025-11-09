@@ -1,0 +1,51 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_087421",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=652&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=04550000&ccbaCtcd=37&ccbaCpno=2113704550000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2012-10-22",
+        "domain": "문화/역사관광",
+        "title": "안동 광흥사 응진전"
+    },
+    "text": "慶尚北道安東に位置したグヮンフンサは、有形文化財として知られています。以前は義湘大師によって建てられた最大の漬けたが、現在ビルがほとんど残っていないので、付属建物であるウンジンチョンを中心に使用しています。この寺は前面5間、側面2間の規模を持っており、入母屋屋根と呼ばれる八の字状の屋根を持っています。この屋根は装飾のための恐怖を装飾して作成されており、柱の上と柱でもダポ様式の装飾が施されています。また、建物の内側には釈迦牟尼仏が仕えています。",
+    "QA": [
+        {
+            "question": "グヮンフンサはどこに位置していますか？",
+            "answer": "慶尚北道安東に位置しています。"
+        },
+        {
+            "question": "グヮンフンサは何の有形文化財として知られていますか？",
+            "answer": "グヮンフンサは有形文化財として知られています。"
+        },
+        {
+            "question": "グヮンフンサを建てた人物は誰ですか？",
+            "answer": "グヮンフンサは義湘大師によって建てられました。"
+        },
+        {
+            "question": "グヮンフンサの規模はどのようなものですか？",
+            "answer": "グヮンフンサは前面5間、側面2間の規模を持っています。"
+        },
+        {
+            "question": "グヮンフンサの屋根の形状は何と呼ばれていますか？",
+            "answer": "グヮンフンサの屋根は入母屋屋根と呼ばれる八の字状の屋根を持っています。"
+        },
+        {
+            "question": "グヮンフンサの屋根にはどのような装飾が施されていますか？",
+            "answer": "グヮンフンサの屋根は恐怖を装飾して作成されており、柱の上と柱にもダポ様式の装飾が施されています。"
+        },
+        {
+            "question": "グヮンフンサの内側には何が仕えていますか？",
+            "answer": "グヮンフンサの内側には釈迦牟尼仏が仕えています。"
+        }
+    ],
+    "word_Count": {
+        "text": 163,
+        "QA": 258
+    }
+}

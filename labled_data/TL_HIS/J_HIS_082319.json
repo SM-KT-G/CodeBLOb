@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_082319",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101933",
+        "collectedDate": "2023-10-06",
+        "publishedDate": "2023-10-06",
+        "domain": "문화/역사관광",
+        "title": "선사박물관"
+    },
+    "text": "先史博物館\\n\n大田先史博物館(Daejeon Metropolitan City Prehistoric Museum)は大田広域市の先史時代関連遺跡に関する事務を管掌するために設置された大田市立博物館の傘下機関だ。",
+    "QA": [
+        {
+            "question": "先史博物館は何を展示していますか？",
+            "answer": "大田先史博物館は、大田市の先史時代関連遺跡に関する展示を行っています。"
+        },
+        {
+            "question": "先史博物館の所在地はどこですか？",
+            "answer": "先史博物館は大田広域市に所在しています。"
+        },
+        {
+            "question": "先史博物館の設置目的は何ですか？",
+            "answer": "先史博物館は大田市立博物館の傘下機関として、先史時代関連遺跡に関する事務を管掌するために設置されました。"
+        }
+    ],
+    "word_Count": {
+        "text": 79,
+        "QA": 114
+    }
+}

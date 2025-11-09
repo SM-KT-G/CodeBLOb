@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_003126",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-05",
+        "domain": "음식점",
+        "title": "ウォンホプルゴギ ( 원호불고기 )"
+    },
+    "text": "ウォンホプルゴギ ( 원호불고기 )\\n\n江原道 ガンヌン市 イムヨンロ180ボンギル11\\n\n韓国式BBQが味わえる店です。江原道のガンヌン市に位置した韓食専門店です。代表的なメニューはカルビです。",
+    "QA": [
+        {
+            "question": "ウォンホプルゴギはどこに位置していますか？",
+            "answer": "ウォンホプルゴギは韓国の江原道ガンヌン市に位置しています。"
+        },
+        {
+            "question": "ウォンホプルゴギで味わえる韓国式BBQの代表的なメニューは何ですか？",
+            "answer": "ウォンホプルゴギで味わえる韓国式BBQの代表的なメニューはカルビです。"
+        },
+        {
+            "question": "ウォンホプルゴギは何を専門とする店ですか？",
+            "answer": "ウォンホプルゴギは韓食を専門とする店です。"
+        }
+    ],
+    "word_Count": {
+        "text": 73,
+        "QA": 118
+    }
+}

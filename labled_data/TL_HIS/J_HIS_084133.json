@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_084133",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/view?relicId=204121",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2023-10-11",
+        "domain": "문화/역사관광",
+        "title": "쇠가위"
+    },
+    "text": "鉄はさみ (쇠가위)\\n\n,国籍/時代:'韓国-朝鮮' ,材質:'金属-鉄' ,分類:'主生活 - 生活用品/家電 - 裁縫具 - はさみ' ,大きさ:'長さ 222cm、幅 15cm、厚さ 07cm'",
+    "QA": [
+        {
+            "question": "これは何ですか？",
+            "answer": "これは鉄はさみです。"
+        },
+        {
+            "question": "この鉄はさみの材質は何ですか？",
+            "answer": "鉄はさみの材質は金属です。"
+        },
+        {
+            "question": "この鉄はさみの大きさはどのくらいですか？",
+            "answer": "長さ222cm、幅15cm、厚さ07cmです。"
+        },
+        {
+            "question": "鉄はさみの国籍/時代はどこですか？",
+            "answer": "韓国-朝鮮です。"
+        },
+        {
+            "question": "この鉄はさみの分類は何ですか？",
+            "answer": "裁縫具の一種で、生活用品/家電に分類されます。"
+        }
+    ],
+    "word_Count": {
+        "text": 74,
+        "QA": 111
+    }
+}

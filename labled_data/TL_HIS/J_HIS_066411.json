@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_066411",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=608&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=03510000&ccbaCtcd=38&ccbaCpno=2113803510000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2000-01-25",
+        "domain": "문화/역사관광",
+        "title": "박익 송은문집 목판"
+    },
+    "text": "パク·イク ソン·ウンムン集 木版\\n\n慶尚南道密陽市密陽大公園路100(校洞、密陽ジャン、独立運動記念館)\\n\n朝鮮、憲宗3年(1837)、慶尚南道有形文化財、高麗末の文臣であり学者であるソンはパクイク(1342∼1398)先生のユーゴ詩文集である。パクイク先生は、高麗の恭愍王時代の文臣として倭寇と余震などを討伐する武功を立てたりもした。政治がごちゃごちゃすると故郷に帰ってきたが、朝鮮王朝が誕生しても官職をしなかった。朝鮮、憲宗3年(1837)に作られたもので、総4冊1本だ。パクイク先生の書き込み6本と習31数をはじめ、異色、ギルジェ、ビョンギェリャンなどが送った詩とキムメンソン、鄭道伝(チョン・ドジョン)、照準に対する哀悼市などが収録されている。高麗が滅亡した後も高麗の忠臣であることを自任する感慨が濃く滲んでいる。...",
+    "QA": [
+        {
+            "question": "このパク·イク ソン·ウンムン集は何年に作られましたか？",
+            "answer": "朝鮮、憲宗3年(1837)に作られました。"
+        },
+        {
+            "question": "パクイク先生はどのような功績を持っていますか？",
+            "answer": "パクイク先生は高麗の恭愍王時代の文臣として倭寇や余震などを討伐する武功を立てました。"
+        },
+        {
+            "question": "この文集には何が収録されていますか？",
+            "answer": "この文集にはパクイク先生の書き込みや異色、ギルジェ、ビョンギェリャンなどが送った詩、またキムメンソンや鄭道伝(チョン・ドジョン)、照準に対する哀悼詩などが収録されています。"
+        },
+        {
+            "question": "パクイク先生は朝鮮王朝の官職を持ちましたか？",
+            "answer": "いいえ、パクイク先生は朝鮮王朝が誕生しても官職を持たなかったようです。"
+        },
+        {
+            "question": "この文集にはどのくらいの冊数がありますか？",
+            "answer": "この文集は総計4冊1本です。"
+        }
+    ],
+    "word_Count": {
+        "text": 269,
+        "QA": 227
+    }
+}

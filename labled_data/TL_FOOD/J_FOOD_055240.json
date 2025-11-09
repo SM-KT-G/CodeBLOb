@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_055240",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/sinuyangdon",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "シンウヤンドン"
+    },
+    "text": "シンウヤンドン\\n\nソウル特別市 ジョンノ区 デミョンギル 19-8\\n\nピリ辛牛カルビもご用意しております。代表的なメニューは辛味豚カルビです。この店はソウル特別市のテハンノに位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "この店の住所はどこですか？",
+            "answer": "シンウヤンドン、ソウル特別市ジョンノ区デミョンギル19-8です。"
+        },
+        {
+            "question": "この店の代表的なメニューは何ですか？",
+            "answer": "代表的なメニューは辛味豚カルビです。"
+        },
+        {
+            "question": "この店はどのエリアに位置していますか？",
+            "answer": "この店はソウル特別市のテハンノに位置しています。"
+        },
+        {
+            "question": "この店は何を専門としていますか？",
+            "answer": "この店は韓食を専門としています。"
+        },
+        {
+            "question": "この店では他にどんなメニューがありますか？",
+            "answer": "この店ではピリ辛牛カルビもご用意しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 74,
+        "QA": 145
+    }
+}

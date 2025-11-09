@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_002559",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2023-05-02",
+        "domain": "자연관광",
+        "title": "송암스페이스센터"
+    },
+    "text": "ソンアム・スペースセンター (송암스페이스센터)\n京畿道楊州市長興面権栗路185番キル103\n山頂に位置する松岩天文台は、世界最大規模のテーマパークです。さまざまなプログラムや施設を通じて、天文学をより身近に楽しむことができる新しい形の天体観測所です。60cmの大型Ritchey-Chretien望遠鏡やTakahashi、Meade社の最高級望遠鏡を使用し、宇宙の姿を見ることができます。その技術によって、無限の宇宙の姿を直接目撃することができます。",
+    "QA": [
+        {
+            "question": "松岩天文台はどこに位置していますか？",
+            "answer": "松岩天文台は京畿道楊州市長興面権栗路185番キル103に位置しています。"
+        },
+        {
+            "question": "松岩天文台ではどのようなプログラムや施設が提供されていますか？",
+            "answer": "松岩天文台ではさまざまなプログラムや施設を提供しています。天文学をより身近に楽しむことができる新しい形の天体観測所です。"
+        },
+        {
+            "question": "松岩天文台で使用されている望遠鏡の種類は何ですか？",
+            "answer": "松岩天文台では60cmの大型Ritchey-Chretien望遠鏡やTakahashi、Meade社の最高級望遠鏡を使用しています。"
+        },
+        {
+            "question": "松岩天文台ではどのような宇宙の姿を見ることができますか？",
+            "answer": "松岩天文台の技術によって、無限の宇宙の姿を直接目撃することができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 166,
+        "QA": 219
+    }
+}

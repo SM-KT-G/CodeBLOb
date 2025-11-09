@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_010034",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-07-14",
+        "domain": "문화/역사관광",
+        "title": "国立劇場（국립극장）"
+    },
+    "text": "国立劇場（국립극장）ソウル特別市 中区 奨忠壇路59\\n\n国立劇場は1950年にアジア初の国立劇場として作られ、国立劇団、国立唱劇団、国立舞踊団、国立国楽管弦楽団の4つの団体の活発な芸術活動とともに韓国国民の文化享受拡大のため努力してきた大韓民国を代表する劇場です。",
+    "QA": [
+        {
+            "question": "国立劇場はいつ作られましたか？",
+            "answer": "国立劇場は1950年に作られました。"
+        },
+        {
+            "question": "国立劇場はどの地区にありますか？",
+            "answer": "国立劇場は中区にあります。"
+        },
+        {
+            "question": "国立劇場は何団体の活動が行われていますか？",
+            "answer": "国立劇場では国立劇団、国立唱劇団、国立舞踊団、国立国楽管弦楽団の4つの団体の活動が行われています。"
+        },
+        {
+            "question": "国立劇場はどの国を代表する劇場ですか？",
+            "answer": "国立劇場は大韓民国を代表する劇場です。"
+        },
+        {
+            "question": "国立劇場は何のための努力をしていますか？",
+            "answer": "国立劇場は韓国国民の文化享受拡大のための努力をしています。"
+        }
+    ],
+    "word_Count": {
+        "text": 97,
+        "QA": 160
+    }
+}

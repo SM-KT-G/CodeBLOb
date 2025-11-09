@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_026838",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-03",
+        "domain": "음식점",
+        "title": "酒夜 ( 사케야 )"
+    },
+    "text": "酒夜 ( 사케야 )\\n\nソウル特別市 ヨンドゥンポ区 ダンサンロ222\\n\n日本料理や日本酒が味わえる店です。ソウル特別市のヨンドゥンポ区に位置した和食専門店です。おすすめは串焼きです。",
+    "QA": [
+        {
+            "question": "酒夜はどこに位置していますか？",
+            "answer": "酒夜はソウル特別市のヨンドゥンポ区に位置しています。"
+        },
+        {
+            "question": "酒夜では何が味わえますか？",
+            "answer": "酒夜では日本料理や日本酒が味わえます。特におすすめは串焼きです。"
+        },
+        {
+            "question": "酒夜の住所は何ですか？",
+            "answer": "酒夜の住所はソウル特別市のヨンドゥンポ区ダンサンロ222です。"
+        }
+    ],
+    "word_Count": {
+        "text": 68,
+        "QA": 93
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_029626",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.goodchoice.kr/product/detail?ano=1740&adcno=1&sel_date=2023-11-06&sel_date2=2023-11-07",
+        "collectedDate": "2023-11-15",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "은평 M&A"
+    },
+    "text": "徒歩予約の際は、車でお越しいただくと駐車できません。 地下鉄情報は3号線と6号線の仏光駅があります。 また、Netflixをご利用いただけますし、すべての客室には空気清浄機が備えられています。 客室の最大人数は2人であり、人数の追加は不可能です。",
+    "QA": [
+        {
+            "question": "徒歩予約の際は、どうすればいいですか？",
+            "answer": "徒歩でお越しいただく際は、駐車できませんので、お気をつけください。"
+        },
+        {
+            "question": "地下鉄はどの駅が近いですか？",
+            "answer": "地下鉄の情報は、3号線と6号線の仏光駅が最寄り駅となっております。"
+        },
+        {
+            "question": "Netflixの利用は可能ですか？",
+            "answer": "はい、ご利用いただけます。お部屋にはすべてNetflixが備えられています。"
+        },
+        {
+            "question": "客室には空気清浄機がありますか？",
+            "answer": "はい、すべての客室には空気清浄機が備えられています。"
+        },
+        {
+            "question": "客室の最大人数は何人ですか？",
+            "answer": "客室の最大人数は2人です。人数の追加はできませんので、ご了承ください。"
+        }
+    ],
+    "word_Count": {
+        "text": 90,
+        "QA": 179
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_055411",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/durga",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "トゥルガ"
+    },
+    "text": "トゥルガ\\n\nソウル特別市 鐘路区 鐘路 19\\n\nトゥルガは、2006年に本店の鐘路1街店を始めとし、多くの店舗をオープンした。トゥルガでは70種の料理を現地の料理人が作り、提供している。",
+    "QA": [
+        {
+            "question": "トゥルガはいつオープンしましたか？",
+            "answer": "トゥルガは2006年にオープンしました。"
+        },
+        {
+            "question": "トゥルガでは何種類の料理が提供されていますか？",
+            "answer": "トゥルガでは70種類の料理が提供されています。"
+        },
+        {
+            "question": "トゥルガの本店はどこの地区にありますか？",
+            "answer": "トゥルガの本店はソウル特別市鐘路区の鐘路1街にあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 69,
+        "QA": 96
+    }
+}

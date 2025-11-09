@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_040169",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.menupan.com/restaurant/onepage.asp?acode=D103379",
+        "collectedDate": "2023-11-14",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "언버클(Unbuckle)"
+    },
+    "text": "\"アンバークル(Unbuckle)\\n\nソウル龍山区龍山洞2街37-41階\\n\nカフェ/居酒屋-居酒屋、18:00~03:00、毎週月曜日、16席 / 部屋:部屋なし、梨泰院BAR&DINING、「アンバークル(Unbuckle)」。 ソウルノクサピョン駅の近くに位置する「アンバークル(Unbuckle)」は、様々な種類の酒類と食事を一緒に楽しめる空間だ。 ほのかな照明とこぢんまりとした内部が落ち着いた雰囲気を醸し出し、快適に滞在できる場所である。 パスタ、ステーキなど多様なメニューはもちろん、各種酒類まで用意されている。 雰囲気の良い場所で時間を過ごしたいなら、「アンバークル(Unbuckle)」に足を運んでみよう",
+    "QA": [
+        {
+            "question": "アンバークル(Unbuckle)の場所はどこですか？",
+            "answer": "ソウル龍山区龍山洞2街37-41階にあります。"
+        },
+        {
+            "question": "アンバークル(Unbuckle)の営業時間は何時から何時までですか？",
+            "answer": "18:00から03:00まで営業しています。"
+        },
+        {
+            "question": "アンバークル(Unbuckle)は何曜日に休業ですか？",
+            "answer": "毎週月曜日に休業しています。"
+        },
+        {
+            "question": "アンバークル(Unbuckle)の席数は何席ありますか？",
+            "answer": "16席あります。"
+        },
+        {
+            "question": "アンバークル(Unbuckle)の料理は何種類ありますか？",
+            "answer": "パスタ、ステーキなど多様なメニューがあります。"
+        },
+        {
+            "question": "アンバークル(Unbuckle)はどんな雰囲気の場所ですか？",
+            "answer": "ほのかな照明とこぢんまりとした内部が落ち着いた雰囲気を醸し出しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 228,
+        "QA": 220
+    }
+}

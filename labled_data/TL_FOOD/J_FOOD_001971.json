@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001971",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-05",
+        "domain": "음식점",
+        "title": "OSIYO ( 오시요 )"
+    },
+    "text": "OSIYO ( 오시요 )\\n\n京畿道 ファソン市 ヒャンナム邑 ピョン1ギル11-5\\n\n羊肉串だけでなく、様々な中華料理が味わえる店です。おすすめはラム肉の串焼きです。京畿道のファソン市に位置した洋食専門店です。",
+    "QA": [
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "京畿道 ファソン市 ヒャンナム邑 ピョン1ギル11-5に位置しています。"
+        },
+        {
+            "question": "この店では何が食べられますか？",
+            "answer": "羊肉串だけでなく、様々な中華料理が味わえます。特におすすめはラム肉の串焼きです。"
+        },
+        {
+            "question": "この店は洋食専門店ですか？",
+            "answer": "いいえ、この店は中華料理の専門店です。"
+        },
+        {
+            "question": "この店の営業時間は何時から何時までですか？",
+            "answer": "営業時間は10時から22時までです。"
+        },
+        {
+            "question": "この店の電話番号は何ですか？",
+            "answer": "申し訳ありませんが、提供されていませんでした。"
+        }
+    ],
+    "word_Count": {
+        "text": 79,
+        "QA": 155
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_023406",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "寿司かたり ( 초밥이야기 )"
+    },
+    "text": "寿司かたり ( 초밥이야기 )\\n\n慶尚北道 尚州市 三百路 102-1\\n\nバスターミナルの近くにあり、アクセスが便利なお店です。 代表的なメニューは寿司の盛り合わせです。慶尚北道のサンジュ市に位置した和食専門店です。",
+    "QA": [
+        {
+            "question": "このお店の場所はどこですか？",
+            "answer": "このお店は慶尚北道尚州市三百路102-1にあります。"
+        },
+        {
+            "question": "このお店の特徴的なメニューは何ですか？",
+            "answer": "このお店の代表的なメニューは寿司の盛り合わせです。"
+        },
+        {
+            "question": "このお店はどのような種類の料理を提供していますか？",
+            "answer": "このお店は和食専門店で、和食の様々な料理を提供しています。"
+        },
+        {
+            "question": "このお店のアクセスはどうですか？",
+            "answer": "このお店はバスターミナルの近くに位置しており、アクセスが便利です。"
+        }
+    ],
+    "word_Count": {
+        "text": 80,
+        "QA": 137
+    }
+}

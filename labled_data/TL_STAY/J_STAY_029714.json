@@ -1,0 +1,31 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_029714",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.goodchoice.kr/product/detail?ano=5649&adcno=1&sel_date=2023-11-07&sel_date2=2023-11-08",
+        "collectedDate": "2023-11-15",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "김해 THE MAY"
+    },
+    "text": "客室内部施設:高仕様のPCを提供します。 i5-9世代プロセッサーとGTX 060グラフィックカード、6GBのRAMを備えており、27インチ240Hzモニターも使用できます。 スタイラーや空気清浄機も客室に備えられており、ネットフリックスもご利用いただけます。",
+    "QA": [
+        {
+            "question": "この高仕様のPCはどのようなスペックを持っていますか？",
+            "answer": "i5-9世代プロセッサーとGTX 060グラフィックカード、6GBのRAMを備えており、27インチ240Hzモニターも使用できます。"
+        },
+        {
+            "question": "客室にはどのような施設がありますか？",
+            "answer": "スタイラーや空気清浄機も客室に備えられており、ネットフリックスもご利用いただけます。"
+        }
+    ],
+    "word_Count": {
+        "text": 95,
+        "QA": 112
+    }
+}

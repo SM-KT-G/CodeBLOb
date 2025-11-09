@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_030222",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42010&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "가평 산마루키즈펜션"
+    },
+    "text": "あなたはいつも私の心の中で特別な席を占めていると思います。 当ペンションでは22時以降に入室される場合、予めご連絡ください。 そしてパープル、ピンク、ブルー、グリーン、サンマル1、サンマル2客室はジャングルジムキッズルームにリニューアルが完了しました。 もうすべての準備ができましたので、あなたの旅行を楽しみに来てください。",
+    "QA": [
+        {
+            "question": "ペンションの入室時間は何時ですか？",
+            "answer": "22時以降に入室される場合、予めご連絡ください。"
+        },
+        {
+            "question": "どの客室がジャングルジムキッズルームにリニューアルされましたか？",
+            "answer": "パープル、ピンク、ブルー、グリーン、サンマル1、サンマル2客室がジャングルジムキッズルームにリニューアルされました。"
+        },
+        {
+            "question": "準備が完了したので、私たちの旅行を楽しむために何をすればいいですか？",
+            "answer": "準備が完了しているので、お客様は旅行を楽しむためにお越しください。"
+        }
+    ],
+    "word_Count": {
+        "text": 118,
+        "QA": 145
+    }
+}

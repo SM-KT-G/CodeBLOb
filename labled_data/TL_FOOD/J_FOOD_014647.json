@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_014647",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-02-18",
+        "domain": "음식점",
+        "title": "もみじ（모미지）"
+    },
+    "text": "もみじ（모미지）\n忠清南道 天安市 西北区 西部大路427\n「もみじ（MOMIJI）」は、2003年に天安・鳳棲山の中腹の自然豊かな場所にオープンした日本料理店です。天安では両家の顔合わせの場所としても広く知られています。",
+    "QA": [
+        {
+            "question": "もみじ（MOMIJI）はいつオープンしましたか？",
+            "answer": "もみじ（MOMIJI）は2003年にオープンしました。"
+        },
+        {
+            "question": "もみじ（MOMIJI）の場所はどこですか？",
+            "answer": "もみじ（MOMIJI）の場所は忠清南道天安市西北区西部大路427です。"
+        },
+        {
+            "question": "もみじ（MOMIJI）はどのような料理を提供していますか？",
+            "answer": "もみじ（MOMIJI）は日本料理を提供しています。"
+        },
+        {
+            "question": "もみじ（MOMIJI）は天安でどのように知られていますか？",
+            "answer": "もみじ（MOMIJI）は天安では両家の顔合わせの場所として広く知られています。"
+        }
+    ],
+    "word_Count": {
+        "text": 81,
+        "QA": 167
+    }
+}

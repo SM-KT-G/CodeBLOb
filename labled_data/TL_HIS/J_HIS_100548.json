@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_100548",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=768&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=00100000&ccbaCtcd=21&ccbaCpno=2332100100000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1972-06-26",
+        "domain": "문화/역사관광",
+        "title": "정공단"
+    },
+    "text": "釜山広域市には釜山鎮城を守ってきた釜山僉使・鄭撥と彼を慕っていた郡民らを称えるため建てられた記念物がある。この記念物は朝鮮宣祖25年(1592)、壬辰の乱が起きた時期にあったことを象徴する。郡民たちと一緒に日本軍と戦ってきた釜山僉使・鄭撥の献身を称えるために段が建てられている。この祭壇は、正攻団と刻まれている碑を建ててあるし、鄭撥の幕僚だったイチョンホンとチョプイン愛郷、そして郡民たちを祀った場所も共に構成されている。また、忠実な召使いだったヨンウォルの短刀作りされているが、この祭壇は、南側階段の下に位置している。1766年には、当時ブサンチョムサインイグヮングクが段を設置して毎年旧暦4月14日に祭祀を務めた。しかし、しばらく日本植民地時代には祭壇が閉鎖され、遺物と備品がいずれも没収されてしまった。しかし、独立後は新たに段を積み、旧碑石を取り戻して立てた後、再び祭祀を務めていることが知られている。",
+    "QA": [
+        {
+            "question": "鄭撥は何を守ってきた人物ですか？",
+            "answer": "鄭撥は釜山鎮城を守ってきた人物です。"
+        },
+        {
+            "question": "釜山僉使とは何をしていた人物ですか？",
+            "answer": "釜山僉使とは釜山鎮城を守るために働いていた人物です。"
+        },
+        {
+            "question": "祭壇には誰が祀られていますか？",
+            "answer": "祭壇には鄭撥、イチョンホン、チョプイン愛郷、そして郡民たちが祀られています。"
+        },
+        {
+            "question": "なぜ祭壇が閉鎖されたのですか？",
+            "answer": "祭壇が日本植民地時代に閉鎖されたため、遺物と備品が没収されました。"
+        },
+        {
+            "question": "いつから再び祭祀が行われるようになったのですか？",
+            "answer": "独立後、新たに段を積み、旧碑石を取り戻して立てた後、再び祭祀が行われるようになりました。"
+        }
+    ],
+    "word_Count": {
+        "text": 296,
+        "QA": 181
+    }
+}

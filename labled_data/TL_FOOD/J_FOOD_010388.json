@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_010388",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-01",
+        "domain": "음식점",
+        "title": "テドンアチム ( 대동아찜 )"
+    },
+    "text": "テドンアチム \n京畿道 平沢市 元七院キル 77\n海鮮で作った様々な韓国式のスープ料理を味わえるところです。 京畿道のピョンテク市に位置した韓食専門店です。おすすめは魚卵スープです。",
+    "QA": [
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "テドンアチムは京畿道平沢市に位置しています。"
+        },
+        {
+            "question": "この店の名前は何ですか？",
+            "answer": "この店の名前はテドンアチムです。"
+        },
+        {
+            "question": "この店のおすすめ料理は何ですか？",
+            "answer": "おすすめは魚卵スープです。"
+        },
+        {
+            "question": "この店ではどんなスープ料理が味わえますか？",
+            "answer": "この店では海鮮で作った様々な韓国式のスープ料理が味わえます。"
+        }
+    ],
+    "word_Count": {
+        "text": 66,
+        "QA": 104
+    }
+}

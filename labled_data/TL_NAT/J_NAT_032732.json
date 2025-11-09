@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_032732",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=301&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=16&ccbaAsno=02920000&ccbaCtcd=37&ccbaCpno=1363702920000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1982-11-09",
+        "domain": "자연관광",
+        "title": "문경 화산리 반송"
+    },
+    "text": "聞慶ファサンリに位置した搬送は松と似た品種で、本筋と枝の区別がなく、傘の形が特徴だ。この木はファサンリ渓谷に育ち、約200年くらいの歳を持っている。大きさは高さで21.9メートル、周囲に5.18メートル、一つの枝が死に、枝が四方に陥ることを防止するため、台が設置されている。木の幹は六つに分かれて陸送とも呼ばれる。この木は切られたら天罰を受けて死ぬという信念で、伝わってきた。この搬送は聞慶ファサンリに位置し、民俗的かつ生物学的な価値が高く、天然記念物に指定されて保護されている。",
+    "QA": [
+        {
+            "question": "搬送は何年くらいの歳を持っていますか？",
+            "answer": "搬送は約200年くらいの歳を持っています。"
+        },
+        {
+            "question": "搬送の高さは何メートルですか？",
+            "answer": "搬送の高さは21.9メートルです。"
+        },
+        {
+            "question": "搬送の周囲の大きさは何メートルですか？",
+            "answer": "搬送の周囲の大きさは5.18メートルです。"
+        },
+        {
+            "question": "搬送の育つ場所はどこですか？",
+            "answer": "搬送はファサンリ渓谷に育ちます。"
+        },
+        {
+            "question": "搬送はなぜ天然記念物に指定されていますか？",
+            "answer": "搬送は聞慶ファサンリに位置し、民俗的かつ生物学的な価値が高く、天然記念物に指定されて保護されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 176,
+        "QA": 156
+    }
+}

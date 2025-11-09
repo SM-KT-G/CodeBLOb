@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_010971",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-03",
+        "domain": "음식점",
+        "title": "ドンファガーデン ( 동화가든 )"
+    },
+    "text": "ドンファガーデン ( 동화가든 )\\n\n江原道 ガンヌン市 チョダンスンドゥブギル77ボンギル15\\n\n韓国産の大豆だけを使用し、深みがあって柔らかい豆腐の味が楽しめる店です。江原道のガンヌン市に位置した韓食専門店です。代表的なメニューはスンドゥブちゃんぽんです。",
+    "QA": [
+        {
+            "question": "ドンファガーデンはどこにありますか？",
+            "answer": "ドンファガーデンは韓国の江原道ガンヌン市に位置しています。"
+        },
+        {
+            "question": "ドンファガーデンの特徴的なメニューは何ですか？",
+            "answer": "ドンファガーデンの代表的なメニューはスンドゥブちゃんぽんです。"
+        },
+        {
+            "question": "ドンファガーデンではどのような大豆を使用していますか？",
+            "answer": "ドンファガーデンでは韓国産の大豆だけを使用しています。"
+        },
+        {
+            "question": "ドンファガーデンの豆腐はどんな味がしますか？",
+            "answer": "ドンファガーデンの豆腐は深みがあり、柔らかい味わいが楽しめます。"
+        }
+    ],
+    "word_Count": {
+        "text": 96,
+        "QA": 153
+    }
+}

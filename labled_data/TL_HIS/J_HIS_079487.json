@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_079487",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ja",
+        "translator": null,
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101971",
+        "collectedDate": "2023-09-07",
+        "publishedDate": "2021-11-22",
+        "domain": "문화/역사관광",
+        "title": "三星半月橋"
+    },
+    "text": "三星半月橋\n三星半月橋  三星半月橋は1937年、鏡峰僧侶によって建てられました。三星半月橋は、一つの半月と三つの星という意味ですが、これは仏の心を象徴します。",
+    "QA": [
+        {
+            "question": "三星半月橋はいつ建てられましたか？",
+            "answer": "1937年に建てられました。"
+        },
+        {
+            "question": "三星半月橋の名前は何を意味していますか？",
+            "answer": "三星半月橋は、一つの半月と三つの星という意味です。"
+        },
+        {
+            "question": "三星半月橋を建てた人物は誰ですか？",
+            "answer": "三星半月橋は鏡峰僧侶によって建てられました。"
+        },
+        {
+            "question": "三星半月橋が象徴するものは何ですか？",
+            "answer": "三星半月橋は仏の心を象徴します。"
+        }
+    ],
+    "word_Count": {
+        "text": 58,
+        "QA": 109
+    }
+}

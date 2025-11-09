@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_095263",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ja",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2023-01-17",
+        "domain": "문화/역사관광",
+        "title": "은계호수공원"
+    },
+    "text": "\"銀行湖公園\"は京畿道始興市銀杏洞にある蘇來貯水池を利用した湖公園で、2021年12月末に完成する予定だ。散策路とヒュギェヒョンのカフェやイベント広場、水辺ステージ、休憩所、噴水などが設置される予定だ。",
+    "QA": [
+        {
+            "question": "この公園はどこにありますか？",
+            "answer": "銀行湖公園は京畿道始興市銀杏洞にあります。"
+        },
+        {
+            "question": "公園の完成予定日はいつですか？",
+            "answer": "公園の完成予定日は2021年12月末です。"
+        },
+        {
+            "question": "公園に何が設置される予定ですか？",
+            "answer": "散策路、ヒュギェヒョンのカフェやイベント広場、水辺ステージ、休憩所、噴水などが設置される予定です。"
+        }
+    ],
+    "word_Count": {
+        "text": 74,
+        "QA": 99
+    }
+}

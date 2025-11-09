@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_007609",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "ジニマッジプッジプ ( 진이맛집 )"
+    },
+    "text": "ジニマッジプッジプ ( 진이맛집 )\n全羅南道 モクポ市 ダンガドゥロ22\n韓国料理が味わえる店です。おすすめはクロソイの辛味スープです。全羅南道のモクポ市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "ジニマッジプッジプは全羅南道のモクポ市に位置しています。"
+        },
+        {
+            "question": "この店のおすすめメニューは何ですか？",
+            "answer": "ジニマッジプッジプのおすすめはクロソイの辛味スープです。"
+        },
+        {
+            "question": "この店では何を食べることができますか？",
+            "answer": "ジニマッジプッジプでは韓国料理が味わえます。"
+        },
+        {
+            "question": "この店の名前の意味は何ですか？",
+            "answer": "ジニマッジプッジプは「진이맛집」と書き、韓国語で「ジニのおいしい店」という意味です。"
+        }
+    ],
+    "word_Count": {
+        "text": 66,
+        "QA": 135
+    }
+}

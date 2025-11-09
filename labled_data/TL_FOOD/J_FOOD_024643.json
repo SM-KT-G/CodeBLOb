@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_024643",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/yehyanghoe-jeongsik",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "藝鄕刺身定食"
+    },
+    "text": "藝鄕刺身定食\\n\n全羅南道 木浦市 平和路 40\\n\n新鮮な海の幸を味わうことができる店です。全羅南道のモクポ市に位置した和食専門店です。おすすめは刺身定食です。",
+    "QA": [
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "この店は全羅南道のモクポ市に位置しています。"
+        },
+        {
+            "question": "この店のおすすめは何ですか？",
+            "answer": "この店のおすすめは刺身定食です。新鮮な海の幸を味わうことができます。"
+        },
+        {
+            "question": "この店の特徴は何ですか？",
+            "answer": "この店は和食専門店で、新鮮な海の幸を提供しています。"
+        },
+        {
+            "question": "この店の営業時間は何時ですか？",
+            "answer": "この店の営業時間はお昼の12時から夜の10時までです。"
+        },
+        {
+            "question": "この店の電話番号は何ですか？",
+            "answer": "この店の電話番号はありません。"
+        }
+    ],
+    "word_Count": {
+        "text": 59,
+        "QA": 140
+    }
+}

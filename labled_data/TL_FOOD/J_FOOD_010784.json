@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_010784",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "ドムドゥリム ( 덤드림 )"
+    },
+    "text": "ドムドゥリム ( 덤드림 )\n慶尚北道 アンドン市 ウンヘンナムロ77\n熟成させた味付け肉が味わえる店です。慶尚北道のアンドン市に位置した韓食専門店です。代表的なメニューはカルビです。",
+    "QA": [
+        {
+            "question": "ドムドゥリムはどこに位置していますか？",
+            "answer": "ドムドゥリムは慶尚北道のアンドン市に位置しています。"
+        },
+        {
+            "question": "ドムドゥリムの特徴的なメニューは何ですか？",
+            "answer": "ドムドゥリムの代表的なメニューはカルビです。"
+        },
+        {
+            "question": "ドムドゥリムで味わえる肉はどのように味付けされていますか？",
+            "answer": "ドムドゥリムでは熟成させた味付け肉が味わえます。"
+        }
+    ],
+    "word_Count": {
+        "text": 67,
+        "QA": 103
+    }
+}

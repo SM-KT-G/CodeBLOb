@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_006009",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-05",
+        "domain": "음식점",
+        "title": "ゴモネ元祖大豆スープ ( 고모네원조콩탕 )"
+    },
+    "text": "ゴモネ元祖大豆スープ ( 고모네원조콩탕 )\\n\nソウル特別市 江東区 プンソンロ57ギル13\\n\n1989年に営業しており、いつも行列ができている店です。ソウル特別市のガンドン区に位置した韓食専門店です。おすすめは豆乳素麺です。",
+    "QA": [
+        {
+            "question": "この店はどこにありますか？",
+            "answer": "ソウル特別市の江東区に位置しています。"
+        },
+        {
+            "question": "この店の名前は何ですか？",
+            "answer": "この店の名前はゴモネ元祖大豆スープです。"
+        },
+        {
+            "question": "この店はいつ営業していますか？",
+            "answer": "この店は1989年から営業しています。"
+        },
+        {
+            "question": "この店のおすすめメニューは何ですか？",
+            "answer": "この店のおすすめは豆乳素麺です。"
+        },
+        {
+            "question": "この店はいつも行列ができていますか？",
+            "answer": "はい、この店はいつも行列ができています。"
+        }
+    ],
+    "word_Count": {
+        "text": 84,
+        "QA": 124
+    }
+}

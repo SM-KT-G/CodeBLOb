@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_009309",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "ソンガネファンチルアナゴ ( 송가네황칠바다장어 )"
+    },
+    "text": "ソンガネファンチルアナゴ ( 송가네황칠바다장어 )\n全羅南道 モクポ市 ジョンウィロ4-5\n韓国の滋養食であるうなぎ料理が堪能できる店です。代表的なメニューはウナギスープです。全羅南道のモクポ市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "この店は韓国の全羅南道モクポ市ジョンウィロ4-5に位置しています。"
+        },
+        {
+            "question": "この店の特産品は何ですか？",
+            "answer": "この店の代表的なメニューはウナギスープです。"
+        },
+        {
+            "question": "この店の料理はどのような特徴がありますか？",
+            "answer": "この店では韓国の滋養食であるうなぎ料理を楽しむことができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 81,
+        "QA": 97
+    }
+}

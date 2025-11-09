@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_067006",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=953&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=00040000&ccbaCtcd=37&ccbaCpno=3413700040000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1985-08-05",
+        "domain": "문화/역사관광",
+        "title": "백률사대웅전"
+    },
+    "text": "慶尚北道文化財資料、白栗寺は『三国遺事、三国遺事』などの記録に記載されている紫湫寺だといわれています。紫秋寺が正しければ、新羅の法興王14年(527年)に仏教を国の宗教とするよう殉教した異次頓を称えるためのお寺です。この建物は文禄·慶長の役の時に焼失し、その後建て直されました。平屋の木造瓦葺きで、横から見ると「人」字型の切妻屋根です正面3間、側面3間の多包家で、左右の狭間に双開き扉があります。基壇部は一部新羅時代の様式を持っています。大雄殿に祀られていた金銅薬師如来立像は、仏国寺金銅阿弥陀如来坐像、金銅毘盧遮那仏坐像とほぼ同じ時期に作られたものです。この3つの仏像は統一新羅時代の3大金銅仏として知られています",
+    "QA": [
+        {
+            "question": "白栗寺はどのような歴史的な寺院ですか？",
+            "answer": "白栗寺は新羅時代に建てられたお寺で、異次頓を称えるために建てられました。平屋の木造瓦葺きで、横から見ると「人」字型の切妻屋根を持っています。文禄·慶長の役の時に焼失しましたが、その後再建されました。"
+        },
+        {
+            "question": "白栗寺の建物はどのような特徴がありますか？",
+            "answer": "白栗寺は平屋の木造瓦葺きで、正面3間、側面3間の多包家です。左右の狭間には双開き扉があります。基壇部は一部新羅時代の様式を持っています。"
+        },
+        {
+            "question": "白栗寺にはどのような仏像が祀られていますか？",
+            "answer": "白栗寺の大雄殿には金銅薬師如来立像が祀られています。この仏像は仏国寺金銅阿弥陀如来坐像や金銅毘盧遮那仏坐像と同じ時期に作られたもので、統一新羅時代の3大金銅仏として知られています。"
+        }
+    ],
+    "word_Count": {
+        "text": 225,
+        "QA": 233
+    }
+}

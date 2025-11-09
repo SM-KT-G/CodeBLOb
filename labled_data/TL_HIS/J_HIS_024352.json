@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_024352",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=35&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=00570000&ccbaCtcd=37&ccbaCpno=1123700570000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1963-01-21",
+        "domain": "문화/역사관광",
+        "title": "안동 조탑리 오층전탑"
+    },
+    "text": "安東造塔里五重殿塔 (안동 조탑리 오층전탑)\\n\n慶尚北道安東市日直面鳥塔里139-2番地\\n\n統一新羅時代 , 宝物 , 統一新羅時代の前塔で、花崗岩の石材とレンガを混用して作られた珍しい塔だ。 韓国の全塔にはほとんどが花崗岩を混用しているが、この全塔ではそのような意図がさらに積極的に現れている。 基壇は土を固めて用意し、その上に大きさが一定でない花崗石で5~6段を積んで1階の石を成すようにした。 南面には紺室を掘って、その左右に仁王像が際立って刻まれている。 1階建ての屋根からはレンガで積み上げたが、建てた当時のものと見られる模様のあるレンガが残っている。 2階以上の塔身には2階と4階の石の南面に形式的な鑑室が表現されており、屋根石には安東にある他の殿塔とは異なり瓦がない。 この塔の体感比率は屋根より体石で調和しなかったが、1階体石の高さが過度に高い点と5階体石が大きすぎるのがそれだ。 数回にわたって部分的な補修を経ている間、創建当時の原型が大きく変形したものと推定される。",
+    "QA": [
+        {
+            "question": "この塔はいつ建てられましたか？",
+            "answer": "統一新羅時代に建てられました。"
+        },
+        {
+            "question": "この塔はどのように作られましたか？",
+            "answer": "花崗岩の石材とレンガを混用して作られました。"
+        },
+        {
+            "question": "この塔は他の塔とどのように違いますか？",
+            "answer": "この塔では花崗岩をさらに積極的に使用しており、1階の石が花崗石で成されています。また、屋根石には瓦がありません。"
+        },
+        {
+            "question": "この塔の特徴的な部分はありますか？",
+            "answer": "南面には紺室があり、その左右に仁王像が刻まれています。また、2階と4階の石の南面には形式的な鑑室が表現されています。"
+        },
+        {
+            "question": "この塔は補修を経ていますか？",
+            "answer": "はい、この塔は複数回の部分的な補修を経ています。そのため、創建当時の原型が大きく変形したものと推定されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 327,
+        "QA": 211
+    }
+}

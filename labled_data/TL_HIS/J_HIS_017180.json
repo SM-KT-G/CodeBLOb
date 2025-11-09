@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_017180",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1069&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=01590000&ccbaCtcd=38&ccbaCpno=3413801590000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1986-08-06",
+        "domain": "문화/역사관광",
+        "title": "밀양 추원재"
+    },
+    "text": "密陽チュ·ウォンジェ (밀양 추원재)\\n\n慶尚南道密陽市チュウォンジェギル58(釜北面、チュウォンジェ)\\n\n慶尚南道文化財資料 , 朝鮮前期の文臣で学者の金淑子（キム·スクジャ、1389~1456）先生が場所を定め、息子の金鍾直（キム·ジョンジク、1431~1492）先生が生涯を送った家の跡だ。 金淑子（キム·スクジャ）先生は12歳の時から吉在（キルジェ）に文を学び、世宗（セジョン）1年（1419）文科に及第した後、県監などの官職に就いた。 16世紀、性理学を普及し、士林が確立した道統の系譜で吉在の学問を彼の息子であるキム·ジョンジクに引き継がせ、キム·ジョンジクは現在性理学の巨頭として認められている。 この建物は何度も戦争を経験しながら破損したものを純祖10年(1810年)、士林たちとその子孫たちが再び建て直したものだ。",
+    "QA": [
+        {
+            "question": "この場所はどこですか？",
+            "answer": "慶尚南道密陽市チュウォンジェギル58(釜北面、チュウォンジェ)にあります。"
+        },
+        {
+            "question": "この場所はどんな歴史的な意義がありますか？",
+            "answer": "この場所は、金淑子先生と金鍾直先生が生涯を送った家の跡で、金淑子先生は朝鮮前期の文臣で学者であり、金鍾直先生は性理学の巨頭として認められています。"
+        },
+        {
+            "question": "この建物は何度破損されましたか？",
+            "answer": "この建物は何度も戦争を経験しながら破損しましたが、純祖10年(1810年)に士林たちとその子孫たちが再び建て直しました。"
+        },
+        {
+            "question": "金鍾直先生はどのようにして性理学の巨頭となりましたか？",
+            "answer": "金鍾直先生は父親の金淑子先生から吉在の学問を引き継ぎ、16世紀に性理学を普及させ、士林が確立した道統の系譜を築いたことにより、性理学の巨頭となりました。"
+        }
+    ],
+    "word_Count": {
+        "text": 269,
+        "QA": 235
+    }
+}

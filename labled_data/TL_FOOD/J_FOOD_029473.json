@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_029473",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2020-12-03",
+        "domain": "음식점",
+        "title": "弘大カルグクスワ豚足 江南( 홍대칼국수와족발 강남 )"
+    },
+    "text": "弘大カルグクスワ豚足 江南( 홍대칼국수와족발 강남 )\\n\nソウル特別市 江南区 テヘラン路1キル 28-11\\n\n豚足を注文するとカルグクスも出てきます。ソウル特別市のガンナム区に位置した韓食専門店です。代表的なメニューは豚足です。",
+    "QA": [
+        {
+            "question": "このレストランはどこにありますか？",
+            "answer": "弘大カルグクスワ豚足はソウル特別市江南区にあります。"
+        },
+        {
+            "question": "このレストランの特徴的なメニューは何ですか？",
+            "answer": "このレストランの代表的なメニューは豚足です。豚足を注文するとカルグクスも出てきます。"
+        },
+        {
+            "question": "このレストランの住所は何ですか？",
+            "answer": "ソウル特別市江南区テヘラン路1キル28-11です。"
+        }
+    ],
+    "word_Count": {
+        "text": 86,
+        "QA": 108
+    }
+}

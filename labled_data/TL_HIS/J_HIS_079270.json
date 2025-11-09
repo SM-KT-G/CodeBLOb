@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_079270",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=60&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=03740000&ccbaCtcd=38&ccbaCpno=1123803740000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1963-01-21",
+        "domain": "문화/역사관광",
+        "title": "산청 율곡사 대웅전"
+    },
+    "text": "山清栗谷寺大雄殿\\n\n慶尚南道山清郡新登面栗谷寺キル182(栗峴里)\\n\n朝鮮粛宗4年(1679)、宝物、栗谷住む新羅の敬順王4年(930)にガムアク調査(感岳祖師)が創建したと伝えしている。お寺と関連された高麗・朝鮮時代の歴史は詳しく伝えないが、現在の大雄殿は2003年解体の過程でオカンジョンドリ下部で\"康熙十八年の兆し月日棟上げ機(康熙十八年己未月日上樑記)\"の墨書銘の記録が出て、朝鮮粛宗4年(1679)に大々的に重水(重修)なったことが確認された。規模は表3間・側面3間であり、屋根は側面から見た時、八(八部)の字の形をした入母屋屋根である。屋根の重さを受けるため、装飾してチャウン構造が柱の上だけでなく、柱の間にもあるダポ様式である。建物の内側の天井は井戸の井の字の字形の格天井として作って天井の中を隠していて仏壇の上で屋根の形の天蓋を作っておいた。山の中にある比較的大きな規模の朝鮮中期の建物で簡潔ながらも、勇壮な趣を備えている建築文化財である。",
+    "QA": [
+        {
+            "question": "栗谷寺はいつ創建されましたか？",
+            "answer": "栗谷寺は朝鮮粛宗4年(1679)に重水(重修)されました。"
+        },
+        {
+            "question": "栗谷寺の建物の規模はどのようになっていますか？",
+            "answer": "栗谷寺の大雄殿は表3間・側面3間であり、屋根は八(八部)の字の形をした入母屋屋根です。"
+        },
+        {
+            "question": "栗谷寺の建物内部の天井の形はどのようになっていますか？",
+            "answer": "建物の内側の天井は井戸の井の字の字形の格天井として作られており、天井の中を隠し、仏壇の上で屋根の形の天蓋を作っています。"
+        }
+    ],
+    "word_Count": {
+        "text": 315,
+        "QA": 144
+    }
+}

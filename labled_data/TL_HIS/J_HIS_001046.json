@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_001046",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2023-04-27",
+        "domain": "문화/역사관광",
+        "title": "MCY PARK"
+    },
+    "text": "MCY PARK (MCY PARK)\\n\n慶尚北道慶州市泉北南路196MCY PARK(日差しいっぱいのキャンプ)\\n\nMCYPARKは新しいコンテンツを表現する空間芸術作品で、マグナムツ(Magents)、シアン(Cyan)、イエロー(Yellow)の3色を基本とし、多様な色と設置芸術作品を通じて製作されました。全体テーマはデザートミュージアム、スクールバスミュージアム、魔法スタジオ、アート噴水公園、インディアンテント、照明アートショーで構成されています。",
+    "QA": [
+        {
+            "question": "MCY PARKはどんな場所ですか？",
+            "answer": "MCY PARKは新しいコンテンツを表現する空間芸術作品で、マグナムツ、シアン、イエローの3色を基本とし、多様な色と設置芸術作品を通じて製作されました。全体テーマはデザートミュージアム、スクールバスミュージアム、魔法スタジオ、アート噴水公園、インディアンテント、照明アートショーで構成されています。"
+        },
+        {
+            "question": "MCY PARKの場所はどこですか？",
+            "answer": "MCY PARKは慶尚北道慶州市泉北南路196にあります。"
+        },
+        {
+            "question": "MCY PARKでは何を楽しむことができますか？",
+            "answer": "MCY PARKではデザートミュージアム、スクールバスミュージアム、魔法スタジオ、アート噴水公園、インディアンテント、照明アートショーなど、様々なコンテンツを楽しむことができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 170,
+        "QA": 240
+    }
+}

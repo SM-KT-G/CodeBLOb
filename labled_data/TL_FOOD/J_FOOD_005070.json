@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_005070",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2020-11-27",
+        "domain": "음식점",
+        "title": "キンパプ天国 南部洞( 김밥천국 남부동 )"
+    },
+    "text": "キンパプ天国 南部洞( 김밥천국 남부동 )\\n\n慶尚北道 安東市 慶東路 665\\n\n様々な種類の食事を選んで味わえる店です。おすすめはキンパプです。慶尚北道のアンドン市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "キンパプ天国 南部洞はどこにありますか？",
+            "answer": "キンパプ天国 南部洞は慶尚北道安東市慶東路665に位置しています。"
+        },
+        {
+            "question": "キンパプ天国 南部洞ではどのような料理が楽しめますか？",
+            "answer": "キンパプ天国 南部洞では様々な種類の食事を選んで味わうことができますが、特におすすめはキンパプです。"
+        },
+        {
+            "question": "キンパプ天国 南部洞はどのような店ですか？",
+            "answer": "キンパプ天国 南部洞は韓食専門店であり、慶尚北道のアンドン市に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 72,
+        "QA": 139
+    }
+}

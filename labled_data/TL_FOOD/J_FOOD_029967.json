@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_029967",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/dubai",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "DUBAI RESTAURANT"
+    },
+    "text": "DUBAI RESTAURANT\\n\nソウル特別市 龍山区 梨泰院路192 )\\n\n「DUBAI RESTAURANT（ドバイレストラン）」梨泰院に位置しており、本場のアラビア料理を提供しています。シーシャ（水タバコ）も体験できます。",
+    "QA": [
+        {
+            "question": "このレストランはどの地域に位置していますか？",
+            "answer": "このレストランはソウル特別市 龍山区 梨泰院路192に位置しています。"
+        },
+        {
+            "question": "このレストランではどのような料理が提供されていますか？",
+            "answer": "このレストランでは本場のアラビア料理が提供されています。"
+        },
+        {
+            "question": "このレストランでシーシャ（水タバコ）を楽しむことはできますか？",
+            "answer": "はい、このレストランではシーシャ（水タバコ）を楽しむことができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 85,
+        "QA": 129
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_005362",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101933",
+        "collectedDate": "2023-10-06",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "꿀호떡"
+    },
+    "text": "クルホットク\\n\nホットク（胡餅/胡桃）は韓国と中国などで食べるおやつで、もち米や小麦粉をこねて作った砂糖が入っている熱い餅である。カロリーが230カロリーくらいになる。ほとんどが冬に好んで食べ、最近は家でも作って食べられるホットクミックスも存在する。\\n\n",
+    "QA": [
+        {
+            "question": "ホットクはどのように作られますか？",
+            "answer": "ホットクは、もち米や小麦粉をこねて作ります。砂糖も入れて甘く仕上げます。最近では、家で簡単に作れるホットクミックスも販売されています。"
+        },
+        {
+            "question": "ホットクのカロリーはどれくらいですか？",
+            "answer": "ホットクのカロリーは約230カロリーです。"
+        },
+        {
+            "question": "ホットクは主に何の季節に食べられますか？",
+            "answer": "ホットクは主に冬に好んで食べられます。"
+        },
+        {
+            "question": "最近では家でもホットクを作れるのですか？",
+            "answer": "はい、最近では家でも簡単に作れるホットクミックスが販売されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 94,
+        "QA": 159
+    }
+}

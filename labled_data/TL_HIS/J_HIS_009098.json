@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_009098",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1203&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=79&ccbaAsno=01580000&ccbaCtcd=24&ccbaCpno=4412401580000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2005-04-15",
+        "domain": "문화/역사관광",
+        "title": "광주 구 수피아여학교 수피아 홀"
+    },
+    "text": "光州旧スフィア女子学校スフィアホール (광주 구 수피아여학교 수피아 홀)\\n\n光州南区白沙路13(楊林洞)\\n\n1911 , 国家登録文化財 , 1911年建設スフィアホールは、米国スターンズ夫人(Mrs.M.L.Sterns)が亡くなった実家の弟(Jannie Speer)を追慕するために寄贈した5000ドルで建てた建物だ。 中央の玄関の包置の上に薄孔を置いて正面性を強調しており、1階と2階の間にルーレットで飾り、垂直の長い窓を繰り返し配置した。 当時、一般的に使われていた赤レンガではなく、灰色のレンガで建てられたのが特徴だ。 光州地域のプロテスタント宣教の根拠地であり、女性教育のゆりかごに挙げられるスフィア女学校で最も古い建物だ。",
+    "QA": [
+        {
+            "question": "この建物はどのように建てられましたか？",
+            "answer": "スフィアホールは、米国スターンズ夫人(Mrs.M.L.Sterns)が亡くなった実家の弟(Jannie Speer)を追慕するために寄贈した5000ドルで建てられました。"
+        },
+        {
+            "question": "スフィアホールはいつ建設されましたか？",
+            "answer": "スフィアホールは1911年に建設されました。"
+        },
+        {
+            "question": "スフィアホールの特徴は何ですか？",
+            "answer": "スフィアホールは、中央の玄関の上に薄孔を置いて正面性を強調し、1階と2階の間にルーレットで装飾され、垂直の長い窓が繰り返し配置された灰色のレンガで建てられた建物です。"
+        },
+        {
+            "question": "スフィアホールはどのような歴史的な背景を持っていますか？",
+            "answer": "スフィアホールは光州地域のプロテスタント宣教の根拠地であり、女性教育のゆりかごに挙げられるスフィア女学校で最も古い建物です。"
+        }
+    ],
+    "word_Count": {
+        "text": 236,
+        "QA": 244
+    }
+}

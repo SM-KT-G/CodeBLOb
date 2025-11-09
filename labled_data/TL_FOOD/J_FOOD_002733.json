@@ -1,0 +1,31 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_002733",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "イェッカナリア ( 옛카나리아 )"
+    },
+    "text": "イェッカナリア ( 옛카나리아 )\n江原道 ガンヌン市 ソンサン面 グサンギル74\n辛い蒸し料理で、江原道江陵の郷土料理です。江原道のガンヌン市に位置した韓食専門店です。代表的なメニューはたらの頭の蒸し物です。",
+    "QA": [
+        {
+            "question": "イェッカナリアはどこに位置していますか？",
+            "answer": "イェッカナリアは江原道ガンヌン市ソンサン面のグサンギル74に位置しています。"
+        },
+        {
+            "question": "イェッカナリアはどのような料理を提供していますか？",
+            "answer": "イェッカナリアは辛い蒸し料理を提供しています。特にたらの頭の蒸し物が代表的なメニューです。"
+        }
+    ],
+    "word_Count": {
+        "text": 77,
+        "QA": 93
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_007634",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101933",
+        "collectedDate": "2023-10-06",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "육포"
+    },
+    "text": "ジャーキー \\n\n肉脯（ビーフジャーキー）は牛肉を薄く切り干しした食べ物で、醤類を利用して味付けをするのが特徴だ。 包種類の食べ物は三国時代から発達したと知られており、ジャーキーが初めて作られた時期もその頃だと推測される。\\n\n",
+    "QA": [
+        {
+            "question": "ジャーキーはどのように作られますか？",
+            "answer": "ジャーキーは牛肉を薄く切り干しして作られます。醤類を利用して味付けをするのが特徴です。"
+        },
+        {
+            "question": "ジャーキーはいつ頃作られるようになりましたか？",
+            "answer": "ジャーキーは三国時代から作られるようになったとされています。"
+        },
+        {
+            "question": "ジャーキーはどのような包種類の食べ物ですか？",
+            "answer": "ジャーキーは肉脯（ビーフジャーキー）と呼ばれる食べ物で、牛肉を使って作られます。"
+        }
+    ],
+    "word_Count": {
+        "text": 83,
+        "QA": 129
+    }
+}

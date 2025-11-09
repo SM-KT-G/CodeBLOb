@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_067365",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2022-12-27",
+        "domain": "숙박",
+        "title": "그림하우스"
+    },
+    "text": "グリムハウス (그림하우스)\\n\n釜山広域市海雲台区松亭区徳浦キル64(松亭洞)\\n\nグリムハウスは釜山松亭海州浴場に位置する宿泊施設で、全客室から美しい海が一望できます。青い海と青い空の壮大な景色が広がり、室内はindustrialvintageスタイルで装飾されています。当館では、独自の洗濯室を運営し、寝具やタオル類の管理に細心の注意を払っています。また、清潔な客室掃除も欠かしません。",
+    "QA": [
+        {
+            "question": "海雲台区はどこに位置していますか？",
+            "answer": "海雲台区は釜山市に位置しています。"
+        },
+        {
+            "question": "グリムハウスの客室からは何が一望できますか？",
+            "answer": "グリムハウスの全客室から美しい海が一望できます。"
+        },
+        {
+            "question": "宿泊施設の内装はどのようなスタイルで装飾されていますか？",
+            "answer": "宿泊施設の内装はindustrialvintageスタイルで装飾されています。"
+        },
+        {
+            "question": "グリムハウスではどのようなサービスを提供していますか？",
+            "answer": "グリムハウスでは独自の洗濯室を運営し、寝具やタオル類の管理に細心の注意を払っています。また、清潔な客室掃除も欠かしません。"
+        }
+    ],
+    "word_Count": {
+        "text": 143,
+        "QA": 172
+    }
+}

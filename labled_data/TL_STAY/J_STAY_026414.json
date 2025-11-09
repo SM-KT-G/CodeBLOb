@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_026414",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42040&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "여수 화양연가스테이"
+    },
+    "text": "静かで空気の良い麗水感性の一軒家ペンション花様恋歌は、市内に近い位置にあります。 広くてきれいな空間で、家族旅行や友達との集まりにおすすめです。 このペンションは50坪台の建物とテラス、芝生が200坪で、1チームだけ気楽に使えるようになっています。 周りには様々な便益施設、グルメ、楽しみどころがたくさんあるので便利さを感じることができます。 ただし、22時以降に入室される場合は事前にご連絡をお願いします。",
+    "QA": [
+        {
+            "question": "花様恋歌はどんな場所に位置していますか？",
+            "answer": "花様恋歌は市内に近い位置にあります。"
+        },
+        {
+            "question": "花様恋歌の特徴は何ですか？",
+            "answer": "花様恋歌は静かで空気の良い一軒家ペンションです。広くてきれいな空間で、家族旅行や友達との集まりにおすすめです。"
+        },
+        {
+            "question": "花様恋歌の敷地面積はどれくらいですか？",
+            "answer": "花様恋歌は50坪台の建物とテラス、200坪の芝生があります。"
+        },
+        {
+            "question": "周辺には何がありますか？",
+            "answer": "周辺には様々な便益施設、グルメ、楽しみどころがたくさんあります。"
+        },
+        {
+            "question": "夜遅くに入室する場合は何をする必要がありますか？",
+            "answer": "夜遅くに入室する場合は22時以降に事前にご連絡をお願いします。"
+        }
+    ],
+    "word_Count": {
+        "text": 149,
+        "QA": 186
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_016935",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42090&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "제주 혼디펜션"
+    },
+    "text": "ホンディは済州島涯月に位置した石垣家の一軒家ペンションで、広々としたテラスで美しい済州の海を鑑賞することができます。 快適な宿泊施設と真心を込めて用意した自家製朝食が提供され、休息と安らぎを一緒に感じられます。 22時以降に入室される場合は、予めペンションまでご連絡ください。 ホンディペンションでは、お客様に満足していただけるよう、最善を尽くすことをお約束いたします。",
+    "QA": [
+        {
+            "question": "ホンディはどこに位置していますか？",
+            "answer": "ホンディは済州島の涯月に位置した石垣家の一軒家ペンションです。"
+        },
+        {
+            "question": "ホンディペンションの特徴は何ですか？",
+            "answer": "ホンディペンションは広々としたテラスから美しい済州の海を鑑賞することができる点が特徴です。"
+        },
+        {
+            "question": "ホンディペンションではどのような朝食が提供されますか？",
+            "answer": "ホンディペンションでは真心を込めて用意した自家製の朝食が提供されます。"
+        },
+        {
+            "question": "遅い時間にチェックインする場合はどうすればよいですか？",
+            "answer": "22時以降にチェックインする場合は、事前にペンションまでご連絡ください。"
+        },
+        {
+            "question": "ホンディペンションでは何を提供していますか？",
+            "answer": "ホンディペンションでは快適な宿泊施設と最善のサービスを提供しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 135,
+        "QA": 214
+    }
+}

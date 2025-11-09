@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_030063",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2023-07-02",
+        "domain": "음식점",
+        "title": "진미횟집"
+    },
+    "text": "珍味刺身屋 (진미횟집)\\n\n江原特別自治道 束草市東海大路3683\\n\n雪岳日の出公園に位置する刺身屋では、ヒラメ、クロソイ、鯛など、新鮮な各種刺身を楽しむことができます。さらに、このお店はSBSの人気番組「決定マッデマッ」で紹介された名所としても知られています。",
+    "QA": [
+        {
+            "question": "珍味刺身屋はどこに位置していますか？",
+            "answer": "珍味刺身屋は江原特別自治道束草市東海大路3683に位置しています。"
+        },
+        {
+            "question": "珍味刺身屋では何を楽しむことができますか？",
+            "answer": "珍味刺身屋ではヒラメ、クロソイ、鯛など、新鮮な各種刺身を楽しむことができます。"
+        },
+        {
+            "question": "珍味刺身屋はどの番組で紹介されましたか？",
+            "answer": "珍味刺身屋はSBSの人気番組「決定マッデマッ」で紹介されました。"
+        }
+    ],
+    "word_Count": {
+        "text": 97,
+        "QA": 119
+    }
+}

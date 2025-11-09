@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_006252",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=726&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=22&ccbaAsno=00190000&ccbaCtcd=23&ccbaCpno=2222300190000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "갑비고차농악"
+    },
+    "text": "甲比古次農楽 (갑비고차농악)\\n\n仁川広域市無形文化財 , 伝統社会で農楽は大きく3つの存在方式を持つ。 第一に、テボルム頃に行う堂山グッや庭踏みのような儀式と関連した農楽、第二に、トゥレクンと一緒にキムメギなどで弾いていたトゥレグッのように労働と関連した農楽、第三板グッのように遊びと関連した農楽がそれだ。現在伝承されている「甲飛古次農楽」はこの中で遊びと関連した板グッ形態の農楽であり、この中で農作業を遊びとして再現する農作業グッ遊びが主な内容を成す。 このような農作業グッは慶尚北道と江原道の一部地域で見られるが、地域的に遠い江華で似たような内容の農楽が保存されているという点が大きな特徴といえる。",
+    "QA": [
+        {
+            "question": "甲比古次農楽はどのような存在方式を持っていますか？",
+            "answer": "甲比古次農楽は、堂山グッや庭踏みのような儀式と関連した農楽、トゥレグッのように労働と関連した農楽、板グッのように遊びと関連した農楽の3つの存在方式を持っています。"
+        },
+        {
+            "question": "甲比古次農楽はどのような内容を成すものですか？",
+            "answer": "甲比古次農楽は農作業グッ遊びが主な内容であり、農作業を遊びとして再現します。"
+        },
+        {
+            "question": "甲比古次農楽はどの地域で見られますか？",
+            "answer": "甲比古次農楽は慶尚北道と江原道の一部地域で見られます。また、江華でも似たような内容の農楽が保存されているという特徴があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 222,
+        "QA": 182
+    }
+}

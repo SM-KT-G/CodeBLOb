@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_033624",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=576&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=02850000&ccbaCtcd=36&ccbaCpno=2113602850000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "하백원의 만국전도와 동국지도"
+    },
+    "text": "河百元の万国全図と東国地図 (하백원의 만국전도와 동국지도)\\n\n全羅南道有形文化財 , 朝鮮時代後期の実学者ハ·ベクウォン(1781~1845)が描いた世界地図と韓国地図。 世界地図は「太西会士リマドゥ万国全図」という記録があり、マテオリッチの地図を底本にしたものと知られているが、調査の結果、中国に来た宣教師アレニ(Giulio Aleni, 1582-1649)が1623年に刊行した「直方外記」に掲載された「万国全図」に基づいて描いた地図と推定され、1821年の作品だが、国内で珍しい地図である。 東国地図は全図と八道の分図9幅で1811年に描き、彩色が状態や技法も優れている。 朝鮮後期の地図として製作時期と製作者を知ることができ、古地図研究史など歴史的、学術的、郷土史的価値がある",
+    "QA": [
+        {
+            "question": "この地図は何時代に描かれましたか？",
+            "answer": "この地図は朝鮮時代後期の1821年に描かれました。"
+        },
+        {
+            "question": "この地図は誰によって描かれましたか？",
+            "answer": "この地図は実学者ハ·ベクウォンによって描かれました。"
+        },
+        {
+            "question": "世界地図はどのような底本に基づいて描かれましたか？",
+            "answer": "世界地図は宣教師アレニが1623年に刊行した『直方外記』に掲載された「万国全図」を底本にして描かれました。"
+        },
+        {
+            "question": "東国地図は何年に描かれましたか？",
+            "answer": "東国地図は1811年に描かれました。"
+        },
+        {
+            "question": "東国地図は何枚の分図から成っていますか？",
+            "answer": "東国地図は全図と八道の分図9幅から成っています。"
+        }
+    ],
+    "word_Count": {
+        "text": 254,
+        "QA": 177
+    }
+}

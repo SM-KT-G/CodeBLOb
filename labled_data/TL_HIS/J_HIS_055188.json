@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_055188",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1103&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=02510000&ccbaCtcd=37&ccbaCpno=3413702510000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1991-09-06",
+        "domain": "문화/역사관광",
+        "title": "기림사진남루"
+    },
+    "text": "麒麟写真南楼\\n\n慶尚北道慶州市陽北面湖岩里419番地\\n\n慶尚北道文化財資料、メモリアル士はハムウォルサンの麓にある寺で、新羅善徳女王12年(643)に建てられた。基臨寺という名前は、仏が生前に弟子たちと一緒に活動していたインドの祇園精舎を意味する。鎮南楼はこの寺の中心建物である大寂光殿の南側に位置している。建てた時期は知る由もなく、ただ、朝鮮英祖16年(1740)に使った私的機にも記録がないことから、それ以降に建てられたものであることを知ることができる。屋根は側面から見ると、人の教わる字形の切妻屋根である。軒を支えようと装飾して作った恐怖は新しい翼の形であるつの翼型、様式で飾った。この建物は護国査察に僧兵活動と関連があったものと推定している。",
+    "QA": [
+        {
+            "question": "この建物はいつ建てられたのですか？",
+            "answer": "この建物は朝鮮英祖16年(1740)以降に建てられたものです。"
+        },
+        {
+            "question": "鎮南楼はどの寺の中心建物ですか？",
+            "answer": "鎮南楼は基臨寺の中心建物であり、大寂光殿の南側に位置しています。"
+        },
+        {
+            "question": "この建物の屋根はどのような形ですか？",
+            "answer": "この建物の屋根は人の教わる字形の切妻屋根です。"
+        },
+        {
+            "question": "この建物の軒はどのような形で装飾されていますか？",
+            "answer": "この建物の軒は新しい翼の形であるつの翼型で飾られています。"
+        },
+        {
+            "question": "この建物はどのような活動と関係があると推定されていますか？",
+            "answer": "この建物は護国査察に僧兵活動と関連があったものと推定されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 239,
+        "QA": 184
+    }
+}

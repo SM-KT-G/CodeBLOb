@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_002757",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-08-31",
+        "domain": "음식점",
+        "title": "イェンナルヨンギル冷麺（옛날연길냉면）"
+    },
+    "text": "イェンナルヨンギル冷麺（옛날연길냉면）\\n\nソウル特別市 鐘路区 鐘路46キル 31\\n\nこの店はソウル特別市のトンデムンに位置した中国風の韓国料理店です。中国人シェフが調理する飲食店です。代表的なメニューは冷麺です。",
+    "QA": [
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "ソウル特別市の鐘路区の鐘路46キル31に位置しています。"
+        },
+        {
+            "question": "この店の料理はどのような特徴がありますか？",
+            "answer": "この店は中国風の韓国料理店で、中国人シェフが調理します。特に代表的なメニューは冷麺です。"
+        },
+        {
+            "question": "この店の名前は何ですか？",
+            "answer": "この店の名前はイェンナルヨンギル冷麺（옛날연길냉면）です。"
+        }
+    ],
+    "word_Count": {
+        "text": 79,
+        "QA": 107
+    }
+}

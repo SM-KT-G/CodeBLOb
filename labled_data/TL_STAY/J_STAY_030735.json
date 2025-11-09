@@ -1,0 +1,51 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_030735",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42090&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "제주 골든파크 호텔"
+    },
+    "text": "チェックイン時間は午後3時から午後11時まで可能で、チェックアウト時間は午前11時までです。 駐車は済州総合競技場公営駐車場をご利用いただけます。 周辺情報では済州空港が車で5分の距離に位置しており、済州総合競技場は徒歩2分の距離にあります。 済州市総合バスターミナルも徒歩2分の距離に位置しています。 龍頭岩までは車で10分、済州東門在来市場までは車で10分の距離です。",
+    "QA": [
+        {
+            "question": "チェックインとチェックアウトの時間はいつですか？",
+            "answer": "チェックイン時間は午後3時から午後11時まで可能で、チェックアウト時間は午前11時までです。"
+        },
+        {
+            "question": "駐車場はどこにありますか？",
+            "answer": "駐車は済州総合競技場公営駐車場をご利用いただけます。"
+        },
+        {
+            "question": "済州空港までの距離はどれくらいですか？",
+            "answer": "済州空港は車で5分の距離に位置しています。"
+        },
+        {
+            "question": "済州総合競技場はどれくらいの距離ですか？",
+            "answer": "済州総合競技場は徒歩2分の距離にあります。"
+        },
+        {
+            "question": "済州市総合バスターミナルはどれくらいの距離ですか？",
+            "answer": "済州市総合バスターミナルも徒歩2分の距離に位置しています。"
+        },
+        {
+            "question": "龍頭岩までの距離はどれくらいですか？",
+            "answer": "龍頭岩までは車で10分の距離です。"
+        },
+        {
+            "question": "済州東門在来市場までの距離はどれくらいですか？",
+            "answer": "済州東門在来市場までは車で10分の距離です。"
+        }
+    ],
+    "word_Count": {
+        "text": 136,
+        "QA": 237
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_002130",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/goods/GN0002155105?startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0%5E&npprmaxsort=min",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "더 리프 사당"
+    },
+    "text": "The Leapは舎堂駅徒歩1分の距離に位置しておりアクセスが容易なホテルです。 当ホテルは客室インテリア、コンテンツトレンドを絶えず悩み実行し、お客様の日常でいつでも旅行とヒーリングができる新しいパラダイムを提示しています。",
+    "QA": [
+        {
+            "question": "The Leapはどの駅からアクセスが容易ですか？",
+            "answer": "The Leapは舎堂駅から徒歩1分の距離に位置しています。"
+        },
+        {
+            "question": "The Leapはどのようなホテルですか？",
+            "answer": "The Leapは客室インテリア、コンテンツトレンドを絶えず悩み実行し、お客様の日常でいつでも旅行とヒーリングができる新しいパラダイムを提供するホテルです。"
+        },
+        {
+            "question": "The Leapの特徴は何ですか？",
+            "answer": "The Leapの特徴は、アクセスが容易でありながら、客室インテリアやコンテンツトレンドにこだわり、快適な旅行とヒーリングを提供する点です。"
+        }
+    ],
+    "word_Count": {
+        "text": 82,
+        "QA": 176
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_105912",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=172&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=15820000&ccbaCtcd=11&ccbaCpno=1121115820000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2008-12-22",
+        "domain": "문화/역사관광",
+        "title": "청구관해방총도"
+    },
+    "text": "青丘観海防総図\\n\nソウル特別市龍山区西氷庫路137(龍山洞6街、ジャン·ジャン)\\n\n宝物、見出しで\"請求(靑丘)\"は朝鮮の珍の一つで、この絵は、朝鮮の官房と解放を一望できるように描いた大型地図だ。官房は、主に清、解放は主に日本との関係の中で行われるものであるため、朝鮮だけでなく、満州と日本を包括して描かれている。制作年代は1776年に改名される平安道の初産と忠清道のニサンが表示されていて、その後と推定される。朝鮮部分は鄭尙驥の《東国地図》の原本系統をもとに描いている。しかし、《東国地図》そのままではなく、東西ではなく、南北を左右に向かって描いた。また、東西よりは、南北を実際よりはるかに長くに描いており、、、京都)で表現した漢陽(ハンヤン)などの重要地点は縮尺を変えて大きく描いている。このような形式の指導は距離と方向の正確性よりは官房と解放を一目でよく見られるように描いたために現れたのだ。地図の製作のレベルが高く、保管状態も良好で、同一系統の地図のうちの優秀な方に属する。",
+    "QA": [
+        {
+            "question": "この地図は何のために作成されましたか？",
+            "answer": "この地図は朝鮮の官房と解放を一望できるように描いた大型地図であり、清と日本との関係の中で行われる官房と解放を描くために作成されました。"
+        },
+        {
+            "question": "地図の制作年代はいつ頃だと推定されますか？",
+            "answer": "地図の制作年代は1776年に改名される平安道の初産と忠清道のニサンが表示されており、その後と推定されます。"
+        },
+        {
+            "question": "この地図の特徴的な描写方法について教えてください。",
+            "answer": "この地図は《東国地図》の原本系統をもとに描かれていますが、南北を左右に向かって描き、重要地点を縮尺を変えて大きく描いており、官房と解放を一目でよく見られるように描かれています。"
+        }
+    ],
+    "word_Count": {
+        "text": 324,
+        "QA": 200
+    }
+}

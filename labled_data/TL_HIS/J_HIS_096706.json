@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_096706",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/collectionList#######",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2023-10-11",
+        "domain": "문화/역사관광",
+        "title": "이층장"
+    },
+    "text": "二階長 (이층장)\\n\n国籍/時代: 韓国 - 時代不詳 材質: 木 - ギター 作家: 不詳 分類: 主生活 - 生活用品/家電 - 家具 - 長 大きさ: 横1175cm、高さ79cm、横幅325cm 改訂案: このギターは韓国の作で、作成された時期は分かりません。使用されている素材は木で、家具の一部として利用されています。このギターは長い形状をしており、横1175cm、高さ79cm、横幅325cmの大きさです。",
+    "QA": [
+        {
+            "question": "このギターは何国の作ですか？",
+            "answer": "このギターは韓国の作です。"
+        },
+        {
+            "question": "このギターは何時代のものですか？",
+            "answer": "このギターの作成された時期は分かりません。"
+        },
+        {
+            "question": "このギターはどんな素材でできていますか？",
+            "answer": "このギターは木でできています。"
+        },
+        {
+            "question": "このギターはどのように利用されていますか？",
+            "answer": "このギターは家具の一部として利用されています。"
+        },
+        {
+            "question": "このギターの大きさはどのくらいですか？",
+            "answer": "このギターの大きさは横1175cm、高さ79cm、横幅325cmです。"
+        }
+    ],
+    "word_Count": {
+        "text": 154,
+        "QA": 144
+    }
+}

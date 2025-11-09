@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_057674",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=967&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=00160000&ccbaCtcd=23&ccbaCpno=3412300160000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1997-07-14",
+        "domain": "문화/역사관광",
+        "title": "남북동 조병수가옥"
+    },
+    "text": "仁川広域市に位置した文化財資料である中流層住宅は、1890年に建てられた建物です。この住宅は門屋と母屋で構成されており、ㅁジャ形に設計されました。母屋は表に3間、側面に1間半の規模を持っており、板の間を中心には奥の間と部屋が配置されています。奥座敷の横に台所が位置しており、ホームで使用する屋根裏部屋を向けて台所の天井を一部に下げて仕立て上げました。門屋は、出入り口の門を中心に、東にはサランバンを、西は部屋1間と倉庫をおきました。また、部屋の前には縁側があります。このような平面構成は典型的な中部型住居の形で、景気と忠清(チュンチョン)地方にたくさん見られる住居形式です。母屋ジュンドリに記録された棟上げによると、1890年に建設されたことを知ることができます。",
+    "QA": [
+        {
+            "question": "この中流層住宅はいつ建てられましたか？",
+            "answer": "中流層住宅は1890年に建てられました。"
+        },
+        {
+            "question": "この中流層住宅の構成はどのようになっていますか？",
+            "answer": "中流層住宅は門屋と母屋で構成されており、ジャ形に設計されています。"
+        },
+        {
+            "question": "母屋の間取りはどのようになっていますか？",
+            "answer": "母屋は表に3間、側面に1間半の規模を持っており、板の間を中心に奥の間と部屋が配置されています。"
+        },
+        {
+            "question": "この中流層住宅の台所はどこに位置していますか？",
+            "answer": "台所は奥座敷の横に位置しています。"
+        },
+        {
+            "question": "門屋にはどのような部屋がありますか？",
+            "answer": "門屋には、東にサランバンを、西に部屋1間と倉庫を配置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 243,
+        "QA": 185
+    }
+}

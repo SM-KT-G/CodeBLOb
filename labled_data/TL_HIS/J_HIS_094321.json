@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_094321",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=95&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=07450400&ccbaCtcd=11&ccbaCpno=1121107450400&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1983-05-07",
+        "domain": "문화/역사관광",
+        "title": "월인석보 권13, 14"
+    },
+    "text": "朝鮮の世祖5年(1460)に編纂された『ウォルインソクボ』は『月』と『釈譜詳節』を合わせた仏教大蔵経である。この時『釈譜詳節』は世宗28年(1446)昭憲王后、沈氏の冥福を祈るために翻訳されたのだ。全体的な水量は確認できないが、本の大きさは横22.6センチ、縦32.8センチだ。",
+    "QA": [
+        {
+            "question": "この『ウォルインソクボ』は何年に編纂されましたか？",
+            "answer": "世祖5年(1460)に編纂されました。"
+        },
+        {
+            "question": "『ウォルインソクボ』は何を合わせた仏教大蔵経ですか？",
+            "answer": "『月』と『釈譜詳節』を合わせたものです。"
+        },
+        {
+            "question": "『釈譜詳節』はいつ翻訳されましたか？",
+            "answer": "世宗28年(1446)に翻訳されました。"
+        },
+        {
+            "question": "『ウォルインソクボ』の本の大きさは何ですか？",
+            "answer": "横22.6センチ、縦32.8センチです。"
+        }
+    ],
+    "word_Count": {
+        "text": 101,
+        "QA": 124
+    }
+}

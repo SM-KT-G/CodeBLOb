@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_002168",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-06",
+        "domain": "음식점",
+        "title": "VATOS ( 바토스 )"
+    },
+    "text": "VATOS ( 바토스 )\\n\nソウル特別市 龍山区 イテウォンロ15ギル1\\n\n伝統メキシコ料理に韓国の味を取り入れた新しいコンセプトの料理を提供しています。ソウル特別市のヨンサン区に位置した洋食専門店です。おすすめはチーズナチョスです。",
+    "QA": [
+        {
+            "question": "バトスはどこにありますか？",
+            "answer": "バトスはソウル特別市龍山区イテウォンロ15ギル1に位置しています。"
+        },
+        {
+            "question": "バトスではどんな料理を提供していますか？",
+            "answer": "バトスでは伝統的なメキシコ料理に韓国の味を取り入れた新しいコンセプトの料理を提供しています。"
+        },
+        {
+            "question": "バトスのおすすめ料理は何ですか？",
+            "answer": "バトスのおすすめ料理はチーズナチョスです。ぜひお試しください！"
+        }
+    ],
+    "word_Count": {
+        "text": 88,
+        "QA": 116
+    }
+}

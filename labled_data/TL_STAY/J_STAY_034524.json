@@ -1,0 +1,79 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_034524",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.booking.com/hotel/kr/warm-rainbow-studio.ko.html",
+        "collectedDate": "2023-11-17",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "Warm Studio"
+    },
+    "text": "仁川中区に位置するWarm Studioは松島コンベンションセンターから26km、グリーン気候基金から27km、仁川アジア競技大会メインスタジアムから30kmの距離にあります。 エアコンが提供される宿泊施設は空港貨物庁舎駅から5.6km離れており、無料Wi-Fiと構内専用駐車場を利用できます。 このアパートには寝室 1 つ、薄型テレビ、簡易キッチンがあります。 仁川の中心部から21kmの距離に位置するWarm Studioは、仁川駅まで31km、雲西駅まで38kmの距離にあります。 仁川国際空港までは最寄りの距離で3km離れており、宿泊施設側からは無料空港シャトルが運行されています。 チェックインは15:00から始まり、チェックアウトは14:00まで可能です。",
+    "QA": [
+        {
+            "question": "Warm Studioはどこに位置していますか？",
+            "answer": "Warm Studioは仁川中区に位置しています。"
+        },
+        {
+            "question": "Warm Studioから松島コンベンションセンターまでの距離は何キロメートルですか？",
+            "answer": "Warm Studioから松島コンベンションセンターまでの距離は26キロメートルです。"
+        },
+        {
+            "question": "Warm Studioからグリーン気候基金までの距離は何キロメートルですか？",
+            "answer": "Warm Studioからグリーン気候基金までの距離は27キロメートルです。"
+        },
+        {
+            "question": "Warm Studioから仁川アジア競技大会メインスタジアムまでの距離は何キロメートルですか？",
+            "answer": "Warm Studioから仁川アジア競技大会メインスタジアムまでの距離は30キロメートルです。"
+        },
+        {
+            "question": "Warm Studioはどの駅から最も近いですか？",
+            "answer": "Warm Studioは空港貨物庁舎駅から5.6キロメートル離れています。"
+        },
+        {
+            "question": "Warm Studioにはどのような設備がありますか？",
+            "answer": "Warm Studioにはエアコン、無料Wi-Fi、構内専用駐車場があります。"
+        },
+        {
+            "question": "Warm Studioはどのくらいの大きさですか？",
+            "answer": "Warm Studioは1つの寝室と薄型テレビ、簡易キッチンを備えたアパートです。"
+        },
+        {
+            "question": "Warm Studioは仁川の中心部からどのくらいの距離ですか？",
+            "answer": "Warm Studioは仁川の中心部から21キロメートルの距離に位置しています。"
+        },
+        {
+            "question": "Warm Studioは仁川駅からどのくらいの距離ですか？",
+            "answer": "Warm Studioは仁川駅まで31キロメートルの距離に位置しています。"
+        },
+        {
+            "question": "Warm Studioは雲西駅からどのくらいの距離ですか？",
+            "answer": "Warm Studioは雲西駅まで38キロメートルの距離に位置しています。"
+        },
+        {
+            "question": "Warm Studioから仁川国際空港までの距離は何キロメートルですか？",
+            "answer": "Warm Studioから仁川国際空港までの距離は3キロメートルです。"
+        },
+        {
+            "question": "Warm Studioから空港までの無料シャトルバスがありますか？",
+            "answer": "はい、Warm Studioから空港までの無料シャトルバスが運行されています。"
+        },
+        {
+            "question": "Warm Studioのチェックイン時間は何時ですか？",
+            "answer": "Warm Studioのチェックインは15:00から可能です。"
+        },
+        {
+            "question": "Warm Studioのチェックアウト時間は何時ですか？",
+            "answer": "Warm Studioのチェックアウトは14:00まで可能です。"
+        }
+    ],
+    "word_Count": {
+        "text": 244,
+        "QA": 706
+    }
+}

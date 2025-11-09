@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_104254",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "韓家ネ楊平酔い覚ましスープ ( 한가네양평해장국 )"
+    },
+    "text": "韓家ネ楊平酔い覚ましスープ ( 한가네양평해장국 )\n京畿道 ピョンテク市 ゴドクヨヨム10ギル90\n牛血と豆もやしを入れてテンジャンで煮込んだ料理です。 代表的なメニューはソンジ酔い覚ましスープです。京畿道のピョンテク市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "この料理の名前は何ですか？",
+            "answer": "この料理の名前は韓家ネ楊平酔い覚ましスープです。"
+        },
+        {
+            "question": "この料理はどこで食べることができますか？",
+            "answer": "この料理は京畿道のピョンテク市に位置した韓食専門店で食べることができます。"
+        },
+        {
+            "question": "この料理の特徴的な材料は何ですか？",
+            "answer": "この料理の特徴的な材料は牛血と豆もやしです。"
+        },
+        {
+            "question": "この料理の主なメニューは何ですか？",
+            "answer": "この料理の主なメニューはソンジ酔い覚ましスープです。"
+        }
+    ],
+    "word_Count": {
+        "text": 90,
+        "QA": 129
+    }
+}

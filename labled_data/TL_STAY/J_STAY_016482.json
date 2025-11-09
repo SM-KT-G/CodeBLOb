@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_016482",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-16",
+        "domain": "숙박",
+        "title": "ホテルPJ（호텔PJ）"
+    },
+    "text": "ホテルPJ（호텔PJ）\\n\nソウル特別市 中区 マルンネ路 71\\n\nホテルPJがある乙支路4街エリアは様々な公共交通機関があり、明洞、南大門、東大門、南山、仁寺洞、弘大、大学路などへ行くのに便利です。272室の客室があり、レストラン、カフェ、大・中・小の宴会場、ビジネスセンターなどの付帯施設があります。",
+    "QA": [
+        {
+            "question": "ホテルPJ（호텔PJ）はどこにありますか？",
+            "answer": "ホテルPJ（호텔PJ）はソウル特別市中区マルンネ路71にあります。"
+        },
+        {
+            "question": "ホテルPJ（호텔PJ）周辺にはどんな交通機関がありますか？",
+            "answer": "ホテルPJ周辺には様々な公共交通機関があります。明洞、南大門、東大門、南山、仁寺洞、弘大、大学路などへ行くのに便利です。"
+        },
+        {
+            "question": "ホテルPJ（호텔PJ）の客室数は何室ですか？",
+            "answer": "ホテルPJ（호텔PJ）には272室の客室があります。"
+        },
+        {
+            "question": "ホテルPJ（호텔PJ）にはどんな施設がありますか？",
+            "answer": "ホテルPJ（호텔PJ）にはレストラン、カフェ、大・中・小の宴会場、ビジネスセンターなどの付帯施設があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 112,
+        "QA": 198
+    }
+}

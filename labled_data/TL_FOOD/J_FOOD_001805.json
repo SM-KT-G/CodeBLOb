@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001805",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "KKOTDAON ( 꽃다온 )"
+    },
+    "text": "KKOTDAON ( 꽃다온 )\n京畿道 平沢市 碑前5路 37\n名人が作った韓国料理をコースで味わえます。京畿道のピョンテク市に位置した韓食専門店です。代表的なメニューは韓定食です。",
+    "QA": [
+        {
+            "question": "この韓食専門店の場所はどこですか？",
+            "answer": "この韓食専門店は京畿道の平沢市に位置しています。"
+        },
+        {
+            "question": "この韓食専門店の代表的なメニューは何ですか？",
+            "answer": "この韓食専門店の代表的なメニューは韓定食です。"
+        },
+        {
+            "question": "この韓食専門店の名物料理はありますか？",
+            "answer": "はい、名物料理はあります。名人が作った韓国料理をコースで味わえます。"
+        },
+        {
+            "question": "この韓食専門店の雰囲気はどうですか？",
+            "answer": "この韓食専門店は京畿道のピョンテク市に位置しており、韓国料理の雰囲気を楽しめます。"
+        },
+        {
+            "question": "この韓食専門店にはテイクアウトのサービスはありますか？",
+            "answer": "申し訳ありませんが、テイクアウトのサービスは提供しておりません。"
+        }
+    ],
+    "word_Count": {
+        "text": 67,
+        "QA": 188
+    }
+}

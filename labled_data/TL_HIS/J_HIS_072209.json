@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_072209",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/view?relicId=130545",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "벽돌"
+    },
+    "text": "れんが (벽돌)\\n\n左から2番目のレンガは上面に「月春斎」という文字を陰刻した。 ,国籍/時代:'韓国 - 時代不詳' ,材質:'土 - 瓦質' ,分類:'主生活 - 建築部材 - 壁/床材 - 前' ,サイズ:'長さ305cm、幅325cm、厚さ36cm、長さ315cm、幅290cm、厚さ37cm'",
+    "QA": [
+        {
+            "question": "このレンガは何のために使用されましたか？",
+            "answer": "このレンガは建築部材として使用されました。"
+        },
+        {
+            "question": "このレンガに刻まれている文字は何ですか？",
+            "answer": "このレンガには「月春斎」という文字が刻まれています。"
+        },
+        {
+            "question": "このレンガの材質は何ですか？",
+            "answer": "このレンガの材質は土で、瓦質です。"
+        },
+        {
+            "question": "このレンガのサイズはどのくらいですか？",
+            "answer": "このレンガのサイズは長さ305cm、幅325cm、厚さ36cm、長さ315cm、幅290cm、厚さ37cmです。"
+        }
+    ],
+    "word_Count": {
+        "text": 111,
+        "QA": 141
+    }
+}

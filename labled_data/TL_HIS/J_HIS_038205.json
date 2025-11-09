@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_038205",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=431&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=00720000&ccbaCtcd=38&ccbaCpno=2113800720000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1974-02-16",
+        "domain": "문화/역사관광",
+        "title": "창원 의림사 삼층석탑"
+    },
+    "text": "昌原義林寺三層石塔 (창원 의림사 삼층석탑)\\n\n慶尚南道昌原市馬山合浦区津北面義林路382(仁谷里)\\n\n統一新羅、慶尚南道有形文化財、統一新羅の寺院である義林寺の境内に立っている3層石塔である。 最初は僧侶たちが起居する寮舎の前にあったが、1974年に大雄殿の前に移し、一部補修したのだ。 2階の基壇の上に3階の塔身を載せた統一新羅時代の典型様式を見せている。 上·下層基壇の各面には角と中央に柱状の彫刻を置き、塔身の石には角にだけ柱状を刻んだ。 屋根石は底面に5段ずつの台座を置いた。 頂上には露盤(頭飾り台)と宝珠(小さな球形装飾)が置かれ頭飾りをしているが、宝珠は後代に挟まれたものだ。 屋根石が若干破損しているが、保存状態は比較的良好である。 基壇の中央柱が2つずつ造成された全盛期に比べて1つに減っており、統一新羅後期に建てられた塔と推定される。",
+    "QA": [
+        {
+            "question": "この石塔はどの時代に建てられたのですか？",
+            "answer": "この石塔は統一新羅時代に建てられました。"
+        },
+        {
+            "question": "石塔の場所はどこですか？",
+            "answer": "この石塔は慶尚南道昌原市馬山合浦区津北面義林路382にある義林寺の境内にあります。"
+        },
+        {
+            "question": "この石塔はどのような構造をしていますか？",
+            "answer": "この石塔は3層構造で、上・下層基壇には角と中央に柱状の彫刻があり、頂上には露盤と宝珠が置かれています。"
+        },
+        {
+            "question": "石塔の保存状態はどうですか？",
+            "answer": "石塔の保存状態は比較的良好ですが、屋根石に若干の破損が見られます。"
+        },
+        {
+            "question": "この石塔はどのような役割や意味を持っていますか？",
+            "answer": "この石塔は統一新羅時代の寺院である義林寺の境内に立っており、仏教の信仰と宗教的な意味を持っています。"
+        }
+    ],
+    "word_Count": {
+        "text": 279,
+        "QA": 209
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_005017",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "ギョヒャン麺屋 ( 교항면옥 )"
+    },
+    "text": "ギョヒャン麺屋 ( 교항면옥 )\\n\n江原道 ガンヌン市 ジュムンジン邑 ヨンジュロ263\\n\n20年以上のノウハウのある、コシのある麺とタレがよく調和したマッククスの名店です。江原道のガンヌン市に位置した韓食専門店です。代表的なメニューは混ぜそばです。",
+    "QA": [
+        {
+            "question": "ギョヒャン麺屋はどこに位置していますか？",
+            "answer": "ギョヒャン麺屋は江原道のガンヌン市に位置しています。具体的な住所はジュムンジン邑 ヨンジュロ263です。"
+        },
+        {
+            "question": "ギョヒャン麺屋の特徴は何ですか？",
+            "answer": "ギョヒャン麺屋は20年以上のノウハウを持つマッククスの名店で、コシのある麺とタレがよく調和しています。"
+        },
+        {
+            "question": "ギョヒャン麺屋の代表的なメニューは何ですか？",
+            "answer": "ギョヒャン麺屋の代表的なメニューは混ぜそばです。"
+        }
+    ],
+    "word_Count": {
+        "text": 93,
+        "QA": 135
+    }
+}

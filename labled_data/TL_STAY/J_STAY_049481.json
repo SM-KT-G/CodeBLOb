@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_049481",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.booking.com/hotel/kr/sopiyijib-mapogu1.ko.html",
+        "collectedDate": "2023-11-17",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "Sophie's House"
+    },
+    "text": "ソウルに位置するSophie''s Houseは、快適な宿泊施設として様々な施設を提供しています。 この宿はソウル特別市麻浦区延南路61-10に位置し、弘大入口駅とは約1kmの距離、弘益大学とは約2kmの距離にあります。 無料Wi-Fi、エアコン、共用ラウンジ、テラスなどの施設が提供され、梨花女子大学とは約3.3kmの距離に位置しており、アクセスが容易です。 宿泊施設には衛星フラットテレビ、バルコニー、休憩スペース、iPadなどの様々な施設が用意されており、キッチンには冷蔵庫、電子レンジ、トースターなどの食器類とウォッシュレットには無料の洗面用具とヘアドライヤーが提供されます。 また、Sophie''s Houseの24時間フロントデスクスタッフが英語と韓国語の両方を使用することができ、宿泊客の要請に迅速に対応してくれます。 ソウル駅と東和免税店はそれぞれ約6.1kmと6.8kmの距離に位置し、最近金浦国際空港からは約12kmの距離にありアクセスが便利です。 Sophie''s Houseはソウルの中心部から約5kmの距離にあり、実際の移動距離は直線距離と異なる場合があります。 また、Sophie''s House周辺には3km以内にゴルフ場があることも知られています。 Sophie''s Houseのチェックイン時間は午後3時からで、チェックアウト時間は午前10時30分までです。",
+    "QA": [
+        {
+            "question": "Sophie's Houseはどこに位置していますか？",
+            "answer": "Sophie's Houseはソウル特別市麻浦区延南路61-10に位置しています。"
+        },
+        {
+            "question": "Sophie's Houseの周辺にはどのような施設がありますか？",
+            "answer": "Sophie's Houseの周辺には弘大入口駅や弘益大学があります。"
+        },
+        {
+            "question": "Sophie's Houseの部屋にはどのような設備がありますか？",
+            "answer": "Sophie's Houseの部屋には衛星フラットテレビ、バルコニー、休憩スペース、iPadがあります。"
+        },
+        {
+            "question": "Sophie's Houseのキッチンにはどのような設備がありますか？",
+            "answer": "Sophie's Houseのキッチンには冷蔵庫、電子レンジ、トースターなどの食器類があります。"
+        },
+        {
+            "question": "Sophie's Houseのチェックイン時間は何時からですか？",
+            "answer": "Sophie's Houseのチェックイン時間は午後3時からです。"
+        },
+        {
+            "question": "Sophie's Houseのチェックアウト時間は何時までですか？",
+            "answer": "Sophie's Houseのチェックアウト時間は午前10時30分までです。"
+        }
+    ],
+    "word_Count": {
+        "text": 440,
+        "QA": 322
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_054302",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=977&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=00240000&ccbaCtcd=32&ccbaCpno=3413200240000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1984-06-02",
+        "domain": "문화/역사관광",
+        "title": "금강정"
+    },
+    "text": "金剛亭\\n\n江原道寧越郡寧越邑ジャン·ギル136(永興里)\\n\n江原道特別自治道文化財資料、錦江(クムガン)亭は、朝鮮王朝の世宗10年(1428)キムボクハンが立てたと伝えてきか、寧越制ヨンによると、イジャサムが寧越(ヨンウォル)郡長を務めていた当時、錦江の美しさを見て、自分の財産をかけて精子を建ててクムカンチョンとしたという。粛宗10年(1684)に宋時烈(ソン・シヨル)がここに上がり、錦江(クムガン)の精気を使ったという。錦江定義の規模は表4間・側面3間で、屋根は横から見る時八(八部)字形の入母屋屋根である。",
+    "QA": [
+        {
+            "question": "錦江亭はいつ建てられましたか？",
+            "answer": "錦江亭は朝鮮王朝の世宗10年(1428)に建てられました。"
+        },
+        {
+            "question": "錦江亭の建設者は誰ですか？",
+            "answer": "錦江亭はキムボクハンという人物が建てたと伝えられています。"
+        },
+        {
+            "question": "錦江亭の特徴的な屋根の形は何ですか？",
+            "answer": "錦江亭の屋根は横から見ると八部字形の入母屋屋根です。"
+        },
+        {
+            "question": "錦江亭はどのような人々によって利用されていましたか？",
+            "answer": "錦江亭は宋時烈という人物が1684年に上がり、錦江の精気を使ったとされています。"
+        },
+        {
+            "question": "錦江亭の規模はどれくらいですか？",
+            "answer": "錦江亭の規模は表4間・側面3間です。"
+        }
+    ],
+    "word_Count": {
+        "text": 189,
+        "QA": 168
+    }
+}

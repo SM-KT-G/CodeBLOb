@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_029314",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42080&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "강릉 초록민박스파펜션(감성펜션)"
+    },
+    "text": "歓迎します。江陵緑民泊スパペンションは、自然と共にする居心地の良い所に皆さんを招待します。 ここでは愛する人と一緒に忘れられない思い出を作ることができます。 全ての客室はリラックスするためにスパが完備されており、ネットフリックスを視聴することもできます。 入室時間が22時以降の場合は、事前にご連絡ください。",
+    "QA": [
+        {
+            "question": "江陵緑民泊スパペンションはどこにありますか？",
+            "answer": "江陵緑民泊スパペンションは自然と共にする居心地の良い所に位置しています。"
+        },
+        {
+            "question": "江陵緑民泊スパペンションの客室には何が備わっていますか？",
+            "answer": "江陵緑民泊スパペンションの全ての客室には、リラックスするためのスパとネットフリックス視聴の設備が完備されています。"
+        },
+        {
+            "question": "江陵緑民泊スパペンションの入室時間について教えてください。",
+            "answer": "22時以降に入室する場合は、事前にご連絡ください。"
+        },
+        {
+            "question": "江陵緑民泊スパペンションでの滞在はどんな思い出を作ることができますか？",
+            "answer": "江陵緑民泊スパペンションでは、愛する人と一緒に忘れられない思い出を作ることができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 112,
+        "QA": 201
+    }
+}

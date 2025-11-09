@@ -1,0 +1,67 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_040614",
+        "source": "도서",
+        "writer": "노매드 미디어&트래블",
+        "ISBN_ISNN": "978-89-9768-625-4",
+        "version": "초판",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "트루맛집",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2013-06-12",
+        "domain": "음식점",
+        "title": "후즈베이커리"
+    },
+    "text": "私だけ知りたいし私だけ行きたいパン屋、Whose bakeryです。チアバタ―フランス、塩パンなどの食事パンとフィナンシエ、エッグタルトを毎日生産しています。誰でも気軽にたのしめるように空間を作っており、おいしく召し上がっていただけるパンを作るところです。塩パンは1,800ウォン、トマトバジルチャバッタは4,500ウォン、オリーブチーズチアバタ―は4,000ウォン、ジャンボンブールフランスパンは7,600ウォン、プロシュートサンドイッチは8,700ウォン、エッグタルトは3,300ウォン、チョコバゲットは3,000ウォン、チョコあんバターは4,000ウォン、イチジククリームチーズバゲットは6,300ウォン、ニンニクバゲットは3,800ウォンです。",
+    "QA": [
+        {
+            "question": "Whose bakeryはどんなパンを作っていますか？",
+            "answer": "Whose bakeryはチアバタ―フランス、塩パンなどの食事パンとフィナンシエ、エッグタルトを生産しています。"
+        },
+        {
+            "question": "Whose bakeryの塩パンの価格はいくらですか？",
+            "answer": "Whose bakeryの塩パンは1,800ウォンです。"
+        },
+        {
+            "question": "Whose bakeryのトマトバジルチャバッタの価格はいくらですか？",
+            "answer": "Whose bakeryのトマトバジルチャバッタは4,500ウォンです。"
+        },
+        {
+            "question": "Whose bakeryのオリーブチーズチアバタ―の価格はいくらですか？",
+            "answer": "Whose bakeryのオリーブチーズチアバタ―は4,000ウォンです。"
+        },
+        {
+            "question": "Whose bakeryのジャンボンブールフランスパンの価格はいくらですか？",
+            "answer": "Whose bakeryのジャンボンブールフランスパンは7,600ウォンです。"
+        },
+        {
+            "question": "Whose bakeryのプロシュートサンドイッチの価格はいくらですか？",
+            "answer": "Whose bakeryのプロシュートサンドイッチは8,700ウォンです。"
+        },
+        {
+            "question": "Whose bakeryのエッグタルトの価格はいくらですか？",
+            "answer": "Whose bakeryのエッグタルトは3,300ウォンです。"
+        },
+        {
+            "question": "Whose bakeryのチョコバゲットの価格はいくらですか？",
+            "answer": "Whose bakeryのチョコバゲットは3,000ウォンです。"
+        },
+        {
+            "question": "Whose bakeryのチョコあんバターの価格はいくらですか？",
+            "answer": "Whose bakeryのチョコあんバターは4,000ウォンです。"
+        },
+        {
+            "question": "Whose bakeryのイチジククリームチーズバゲットの価格はいくらですか？",
+            "answer": "Whose bakeryのイチジククリームチーズバゲットは6,300ウォンです。"
+        },
+        {
+            "question": "Whose bakeryのニンニクバゲットの価格はいくらですか？",
+            "answer": "Whose bakeryのニンニクバゲットは3,800ウォンです。"
+        }
+    ],
+    "word_Count": {
+        "text": 239,
+        "QA": 561
+    }
+}

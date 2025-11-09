@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_050523",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42011&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "강화도 젤코바펜션"
+    },
+    "text": "落照が美しいジャンファ里で大切な方と幸せな時間を過ごしたいなら、団体や家族と一緒に過ごせるペンションジェルコバをおすすめします。 ジェルコバは客室と設備が充実しており、快適な宿泊を保障します。 また、ジェルコバではお客様のために真心を込めた料理も予約できます。 でも、22時以降に入室される場合は事前にご連絡ください。 これはジェルコバでの最高のサービスを提供するための措置です。",
+    "QA": [
+        {
+            "question": "ジェルコバはどのような宿泊施設ですか？",
+            "answer": "ジェルコバはペンションとして運営されている宿泊施設です。客室や設備が充実しており、快適な滞在をお約束します。"
+        },
+        {
+            "question": "ジェルコバではどのような料理が提供されていますか？",
+            "answer": "ジェルコバではお客様のために真心を込めた料理を提供しています。事前に予約いただければ、素晴らしい食事をお楽しみいただけます。"
+        },
+        {
+            "question": "22時以降に入室する場合はどうすればよいですか？",
+            "answer": "22時以降に入室される場合は、事前にご連絡ください。これはジェルコバでの最高のサービスを提供するための措置です。"
+        }
+    ],
+    "word_Count": {
+        "text": 139,
+        "QA": 176
+    }
+}

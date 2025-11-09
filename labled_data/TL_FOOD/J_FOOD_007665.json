@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_007665",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-06",
+        "domain": "음식점",
+        "title": "シャテーニュ（샤떼뉴）"
+    },
+    "text": "シャテーニュ（샤떼뉴）\\n\nソウル特別市 鐘路区 三清路5キル19\\n\n「シャテーニュ（Châtaigne）」は、伝統韓屋でフレンチを楽しめるレストランです。フレンチをベースにし韓国の食材を使ったコース料理が人気です。",
+    "QA": [
+        {
+            "question": "このレストランの場所はどこですか？",
+            "answer": "シャテーニュ（샤떼뉴）はソウル特別市鐘路区三清路5キル19にあります。"
+        },
+        {
+            "question": "このレストランではどのような料理が楽しめますか？",
+            "answer": "シャテーニュは伝統韓屋でフレンチを楽しめるレストランで、韓国の食材を使ったコース料理が人気です。"
+        },
+        {
+            "question": "このレストランの特徴は何ですか？",
+            "answer": "シャテーニュは伝統的な韓屋を利用したフレンチレストランで、韓国の食材を取り入れた料理が特徴です。"
+        },
+        {
+            "question": "このレストランの営業時間は何時から何時までですか？",
+            "answer": "営業時間は10時から22時までです。"
+        },
+        {
+            "question": "予約は必要ですか？",
+            "answer": "予約は推奨されていますが、空席があれば当日でも利用することができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 79,
+        "QA": 201
+    }
+}

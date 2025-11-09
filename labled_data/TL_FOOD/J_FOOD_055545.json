@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_055545",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/baekjeryeong",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "ペクチェリョン"
+    },
+    "text": "ペクチェリョン\\n\n慶尙南道 昌原市 馬山合浦区 三·一五大路 383-4 )\\n\n1982年に開店したサムゲタン専門店です。韓屋と綺麗に手入れされた庭が、上品で落ち着いた雰囲気を醸し出しています。サムゲタンはさっぱりと淡白な味が特徴です。",
+    "QA": [
+        {
+            "question": "このサムゲタン専門店はいつオープンしましたか？",
+            "answer": "1982年に開店しました。"
+        },
+        {
+            "question": "この専門店の特徴的な雰囲気を教えてください。",
+            "answer": "韓屋と綺麗に手入れされた庭があり、上品で落ち着いた雰囲気です。"
+        },
+        {
+            "question": "サムゲタンの味の特徴は何ですか？",
+            "answer": "サムゲタンはさっぱりと淡白な味が特徴です。"
+        }
+    ],
+    "word_Count": {
+        "text": 88,
+        "QA": 92
+    }
+}

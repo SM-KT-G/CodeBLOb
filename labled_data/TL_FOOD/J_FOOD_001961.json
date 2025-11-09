@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001961",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-08-27",
+        "domain": "음식점",
+        "title": "OKIN PIZZA（옥인피자）"
+    },
+    "text": "OKIN PIZZA（옥인피자）\\n\nソウル特別市 鐘路区 玉仁キル 26\\n\nこの店はソウル特別市のチョンノに位置した洋食専門店です。代表的なメニューはピザです。韓屋で美味しいピザを味わうことができます。",
+    "QA": [
+        {
+            "question": "オキンピザはどこに位置していますか？",
+            "answer": "オキンピザはソウル特別市のチョンノに位置しています。"
+        },
+        {
+            "question": "オキンピザの代表的なメニューは何ですか？",
+            "answer": "オキンピザの代表的なメニューはピザです。"
+        },
+        {
+            "question": "どのような雰囲気のお店ですか？",
+            "answer": "オキンピザは韓屋の中に位置しており、洋食専門店です。"
+        },
+        {
+            "question": "オキンピザのピザは美味しいですか？",
+            "answer": "はい、オキンピザのピザは美味しいです。"
+        },
+        {
+            "question": "どのような種類のピザがありますか？",
+            "answer": "オキンピザにはさまざまな種類のピザがあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 75,
+        "QA": 147
+    }
+}

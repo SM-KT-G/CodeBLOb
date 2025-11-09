@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_094389",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=913&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=24&ccbaAsno=00070000&ccbaCtcd=35&ccbaCpno=2443500070000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1974-09-27",
+        "domain": "문화/역사관광",
+        "title": "월촌입석"
+    },
+    "text": "月村立席\\n\n全羅北道金堤市立石洞417-1番地\\n\n全羅北道民俗文化財、ソンドルは細身な自然石や大きな石を一部だけ整えてまっすぐに立てた記念物、または信仰対象物をいう。イプソクリ村の入り口に立っているこのソンドルは村の堂山に守護神機能をして、災いを防ぎ、豊作を祈願する対象となっている。四角の柱の形の自然石の高さ210センチ、幅62センチ、厚さ40センチの大きさだ。上部は磨耗が激しく、確かではないが、人の顔の形状と同じことが表現されている。ここでは毎年旧暦の正月、半月にダンサン制を務めた後、男女で、国民を二分して綱引きをするが、女性の肩が勝てば豊作になると信じている。綱引きが終わった後は使用した太い綱をメンヒルに巻いて置くことに、列に手を出せば、不幸ができたとして次の祭祀がある1年間、手を出さないという。メンヒルを立てた正確な年代はわからない。",
+    "QA": [
+        {
+            "question": "このソンドルはどのような機能を持っていますか？",
+            "answer": "このソンドルは村の堂山に守護神機能をして、災いを防ぎ、豊作を祈願する対象となっています。"
+        },
+        {
+            "question": "ソンドルの大きさや形について教えてください。",
+            "answer": "ソンドルは高さ210センチ、幅62センチ、厚さ40センチの大きさで、四角の柱の形をしています。上部は磨耗が激しく、人の顔の形状と同じことが表現されています。"
+        },
+        {
+            "question": "イプソクリ村のソンドルに関連する年中行事は何ですか？",
+            "answer": "毎年旧暦の正月、半月にはダンサン制を務めた後、男女で国民を二分して綱引きを行います。女性の肩が勝てば豊作になると信じられています。"
+        },
+        {
+            "question": "メンヒルの年代について詳細を教えてください。",
+            "answer": "メンヒルを立てた正確な年代はわかっていませんが、祭祀が行われる際に使用した綱をメンヒルに巻いて置く習慣があります。また、列に手を出せば不幸が起こると考えられています。"
+        }
+    ],
+    "word_Count": {
+        "text": 276,
+        "QA": 266
+    }
+}

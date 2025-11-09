@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_015099",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42020&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "고성 동성펜션"
+    },
+    "text": "ドンソンペンションは広いベランダが備わっている各部屋があり、海のビューが鑑賞でき、バーベキューが利用できるペンションです。 冬場はホタテ貝やカキを焼いて食べることができ、日の出公園が近く、年始は日の出を楽しむことができます。 そしてお知らせでは、22時以降に入室される場合は予めペンションまでご連絡ください。",
+    "QA": [
+        {
+            "question": "ドンソンペンションはどんな特徴がありますか？",
+            "answer": "ドンソンペンションは広いベランダが備わっている各部屋があり、海のビューが鑑賞でき、バーベキューが利用できるペンションです。"
+        },
+        {
+            "question": "ドンソンペンションでは冬場に何が楽しめますか？",
+            "answer": "冬場はホタテ貝やカキを焼いて食べることができます。"
+        },
+        {
+            "question": "ドンソンペンションの近くにはどんな観光地がありますか？",
+            "answer": "ドンソンペンションの近くには日の出公園があり、年始は日の出を楽しむことができます。"
+        },
+        {
+            "question": "ドンソンペンションに遅く入室する場合は何をすればいいですか？",
+            "answer": "22時以降に入室される場合は予めペンションまでご連絡ください。"
+        }
+    ],
+    "word_Count": {
+        "text": 112,
+        "QA": 190
+    }
+}

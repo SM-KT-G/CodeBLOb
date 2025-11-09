@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_002120",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/lodge/hotel-the-base",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "THE BASE"
+    },
+    "text": "THE BASE\n忠清北道 忠州市 虎岩大路 8\nTHE BASEの室内外ウエディングホールには、先端のウエディング演出装置があり、各宴会室別にビームプロジェクト, 超大型壁面スクリーン、音響システム, カラオケ機器、縮小型エッフェル塔を設置して、より風情のある美しい湖畔のロマンあふれるホテルです。",
+    "QA": [
+        {
+            "question": "場所はどこですか？",
+            "answer": "THE BASEは忠清北道忠州市虎岩大路8にあります。"
+        },
+        {
+            "question": "THE BASEの特徴は何ですか？",
+            "answer": "THE BASEは先端のウエディング演出装置や美しい湖畔のロマンを演出するビームプロジェクトや超大型壁面スクリーン、音響システム、カラオケ機器、縮小型エッフェル塔を設置しています。"
+        },
+        {
+            "question": "THE BASEはどのようなウエディングホールですか？",
+            "answer": "THE BASEは室内外のウエディングホールで、風情のある美しい湖畔のロマンが漂っているホテルです。"
+        }
+    ],
+    "word_Count": {
+        "text": 110,
+        "QA": 161
+    }
+}

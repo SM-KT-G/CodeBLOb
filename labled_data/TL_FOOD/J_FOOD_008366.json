@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_008366",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "セトジョンワンスンデ ( 새토종왕순대 )"
+    },
+    "text": "セトジョンワンスンデ ( 새토종왕순대 )\\n\n慶尚北道 尚州市 咸昌邑 咸昌市場2キル 8\\n\n地元の人々もよく行く名店です。 慶尚北道のサンジュ市に位置した韓食専門店です。おすすめはスンデクッパです。",
+    "QA": [
+        {
+            "question": "このレストランの名前は何ですか？",
+            "answer": "セトジョンワンスンデ（새토종왕순대）です。"
+        },
+        {
+            "question": "このレストランはどこにありますか？",
+            "answer": "慶尚北道尚州市咸昌邑咸昌市場2キル8に位置しています。"
+        },
+        {
+            "question": "このレストランのおすすめメニューは何ですか？",
+            "answer": "おすすめはスンデクッパです。"
+        },
+        {
+            "question": "このレストランは地元の人々にも人気がありますか？",
+            "answer": "はい、地元の人々もよく行く名店です。"
+        },
+        {
+            "question": "このレストランは韓食専門店ですか？",
+            "answer": "はい、韓食専門店です。"
+        },
+        {
+            "question": "このレストランはどの市に位置していますか？",
+            "answer": "このレストランは慶尚北道のサンジュ市に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 74,
+        "QA": 172
+    }
+}

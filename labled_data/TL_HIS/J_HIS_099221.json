@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_099221",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=361&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=18&ccbaAsno=02750000&ccbaCtcd=36&ccbaCpno=1483602750000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2013-06-14",
+        "domain": "문화/역사관광",
+        "title": "장흥 방촌리 석장승"
+    },
+    "text": "国家民俗文化財である長興バンチョンリソクジャンスンは23番国道沿いに両側に位置した2基のチャンスンだ。このチャンスンは、高麗末に声紋チャンスンとして建設され、朝鮮時代後期には天然痘撲滅のために建てられたという説もある。現在バンチョンリソクジャンスンは小正月の別神制の神格として村の守護の機能をしており、歴史的、学術的価値がある。",
+    "QA": [
+        {
+            "question": "長興バンチョンリソクジャンスンはどこに位置していますか？",
+            "answer": "長興バンチョンリソクジャンスンは23番国道沿いに両側に位置しています。"
+        },
+        {
+            "question": "このチャンスンはいつ建設されましたか？",
+            "answer": "このチャンスンは高麗末に声紋チャンスンとして建設されました。"
+        },
+        {
+            "question": "なぜバンチョンリソクジャンスンは歴史的、学術的価値があると言われていますか？",
+            "answer": "バンチョンリソクジャンスンは小正月の別神制の神格として村の守護の機能をしており、歴史的、学術的価値があると言われています。"
+        }
+    ],
+    "word_Count": {
+        "text": 120,
+        "QA": 154
+    }
+}

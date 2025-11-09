@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_012174",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42080&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "속초 넘버25 속초청초호점 운영 정책"
+    },
+    "text": "チェックインは午後4時、チェックアウトは午前11時です。 ご予約の詳細によってチェックイン及びチェックアウト時間が異なる場合がありますので、ご確認ください。 入室日当日のキャンセル及び払い戻しは出来かねますが、入室は23時以降も可能ですが、フロントまで事前にご連絡ください。 入室に関する詳細は予約の際にご確認いただけます。",
+    "QA": [
+        {
+            "question": "チェックインとチェックアウトの時間は何時ですか？",
+            "answer": "チェックインは午後4時、チェックアウトは午前11時です。"
+        },
+        {
+            "question": "キャンセルは何時までにすることができますか？",
+            "answer": "入室日当日のキャンセル及び払い戻しは出来かねますが、入室は23時以降も可能ですが、フロントまで事前にご連絡ください。"
+        },
+        {
+            "question": "チェックインの詳細はどのように確認できますか？",
+            "answer": "入室に関する詳細は予約の際にご確認いただけます。"
+        }
+    ],
+    "word_Count": {
+        "text": 118,
+        "QA": 131
+    }
+}

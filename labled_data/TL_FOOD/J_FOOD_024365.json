@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_024365",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-03",
+        "domain": "음식점",
+        "title": "連谷ウキゴリスープ  ( 연곡꾹저구탕 )"
+    },
+    "text": "連谷ウキゴリスープ  ( 연곡꾹저구탕 )\\n\n江原道 ガンヌン市 ヨンゴク面 ジンゴゲロ2679\\n\n新鮮な川魚で作ったメウンタン(魚の辛味スープ)が味わえます。 江原道のガンヌン市に位置した韓食専門店です。おすすめはウキゴリスープです。",
+    "QA": [
+        {
+            "question": "このレストランはどこにありますか？",
+            "answer": "江原道のガンヌン市ヨンゴク面ジンゴゲロ2679にあります。"
+        },
+        {
+            "question": "このレストランのおすすめメニューは何ですか？",
+            "answer": "おすすめはウキゴリスープです。新鮮な川魚で作られた辛味スープです。"
+        },
+        {
+            "question": "ウキゴリスープの特徴は何ですか？",
+            "answer": "ウキゴリスープは、魚の辛味スープで、新鮮な川魚を使用しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 88,
+        "QA": 109
+    }
+}

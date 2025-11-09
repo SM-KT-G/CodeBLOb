@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001832",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "La Mesa ( 라메사 )"
+    },
+    "text": "La Mesa ( 라메사 )\n京畿道 ピョンテク市 アンジョン循環道路121\nメキシコの現地シェフが調理する店です。代表的なメニューはチキンカレーです。京畿道のピョンテク市に位置した洋食専門店です。",
+    "QA": [
+        {
+            "question": "ラメサはどこに位置していますか？",
+            "answer": "ラメサは京畿道のピョンテク市に位置しています。"
+        },
+        {
+            "question": "ラメサはどんな料理を提供していますか？",
+            "answer": "ラメサは洋食専門店で、代表的なメニューはチキンカレーです。"
+        },
+        {
+            "question": "他に何か有名なメニューはありますか？",
+            "answer": "ラメサの他の有名なメニューについては情報が提供されていません。"
+        }
+    ],
+    "word_Count": {
+        "text": 73,
+        "QA": 99
+    }
+}

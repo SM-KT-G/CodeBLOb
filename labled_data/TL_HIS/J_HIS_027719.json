@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_027719",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-27",
+        "domain": "문화/역사관광",
+        "title": "張起呂記念館（장기려기념 더 나눔센터）"
+    },
+    "text": "張起呂記念館\n釜山広域市 東区 瀛草ウィッキル48\n張起呂（チャン・ギリョ）博士は韓国のシュバイツァーと呼ばれ、医療保険のはじまりである「青十字医療保険組合」を東区地域に設立しました。2013年に開館した「張起呂記念館」は生涯を貧しい人たちのために捧げた博士の意思を称えるための記念館です。",
+    "QA": [
+        {
+            "question": "張起呂記念館はどこにありますか？",
+            "answer": "張起呂記念館は釜山広域市の東区にあります。"
+        },
+        {
+            "question": "張起呂博士は何を設立しましたか？",
+            "answer": "張起呂博士は「青十字医療保険組合」という医療保険を設立しました。"
+        },
+        {
+            "question": "張起呂記念館はいつ開館しましたか？",
+            "answer": "張起呂記念館は2013年に開館しました。"
+        },
+        {
+            "question": "張起呂博士は何のために生涯を捧げましたか？",
+            "answer": "張起呂博士は生涯を貧しい人たちのために捧げました。"
+        }
+    ],
+    "word_Count": {
+        "text": 106,
+        "QA": 123
+    }
+}

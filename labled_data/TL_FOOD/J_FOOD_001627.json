@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001627",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "DIVINE COFFEE（디바인커피）"
+    },
+    "text": "DIVINE COFFEE（디바인커피）\\n\n済州特別自治道 済州市 牛島面 牛島海岸キル 1112\\n\nカフェは海岸に位置しています。代表的なメニューはラテです。済州特別自治道のジェジュ市に位置したカフェ（コーヒーショップ）です。",
+    "QA": [
+        {
+            "question": "済州特別自治道 済州市 牛島面 牛島海岸キル 1112にあるディバインコーヒーはどこに位置していますか？",
+            "answer": "ディバインコーヒーは海岸に位置しています。"
+        },
+        {
+            "question": "ディバインコーヒーの代表的なメニューは何ですか？",
+            "answer": "ディバインコーヒーの代表的なメニューはラテです。"
+        },
+        {
+            "question": "ディバインコーヒーはどの市に位置していますか？",
+            "answer": "ディバインコーヒーは済州特別自治道のジェジュ市に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 85,
+        "QA": 129
+    }
+}

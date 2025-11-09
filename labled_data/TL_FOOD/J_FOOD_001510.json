@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001510",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/buddhasbelly-itaewon-branch",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "buddhasbelly 梨泰院"
+    },
+    "text": "buddhasbelly 梨泰院\\n\nソウル特別市 龍山区 ノクサピョンデロ40ギル48\\n\nソウル特別市のヨンサン区梨泰院に位置するタイ料理専門店です。おすすめはソムタムです。",
+    "QA": [
+        {
+            "question": "梨泰院の場所はどこですか？",
+            "answer": "ソウル特別市のヨンサン区梨泰院に位置しています。"
+        },
+        {
+            "question": "梨泰院の料理専門店は何ですか？",
+            "answer": "梨泰院にはタイ料理専門店である「Buddha's Belly（ブッダズベリー）」があります。"
+        },
+        {
+            "question": "おすすめの料理は何ですか？",
+            "answer": "Buddha's Bellyでは、ソムタム（青パパイヤサラダ）がおすすめです。"
+        }
+    ],
+    "word_Count": {
+        "text": 65,
+        "QA": 110
+    }
+}

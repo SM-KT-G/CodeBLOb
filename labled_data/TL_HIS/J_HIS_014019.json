@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_014019",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1087&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=01950000&ccbaCtcd=36&ccbaCpno=3413601950000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1994-01-31",
+        "domain": "문화/역사관광",
+        "title": "나주흥덕리석실분"
+    },
+    "text": "羅州興徳里石室分 (나주흥덕리석실분)\\n\n全羅南道羅州市盤南面古墳路607(興徳里)\\n\n全羅南道文化財資料 , 興徳里の北側に位置する紫眉山の南端に作られた百済の時に作られた石室墳(石室墓)だ。 この墓は一つの壁を挟んで2つの石室(石室)が並んで作られた双室墳で、二つの石室ともに板道(沿道)と排水施設を備えている。 遺物は東の石室から出土したが、土器1点と銀の帽子装飾1点、棺桶が出てきて、数点の棺桶で遺体を木棺に安置したことが分かる。 石室の構造と出土遺物から見て、この墓は6世紀後半のものと推定される。 一般的に一つの石室墳はそれ自体が追加葬による合葬が可能な構造を持つものだが、興徳里墓は二つの石室を並んで配置して合葬させたもので非常に特異な場合だ。",
+    "QA": [
+        {
+            "question": "この石室墳は何時代に作られましたか？",
+            "answer": "この石室墳は百済の時代に作られました。"
+        },
+        {
+            "question": "この石室墳の特徴は何ですか？",
+            "answer": "この石室墳は双室墳であり、一つの壁を挟んで2つの石室が並んで作られました。"
+        },
+        {
+            "question": "この石室墳から出土した遺物は何ですか？",
+            "answer": "この石室墳からは土器1点と銀の帽子装飾1点、棺桶が出土しました。"
+        },
+        {
+            "question": "この石室墳はいつ頃のものだと推定されていますか？",
+            "answer": "石室の構造と出土遺物から見て、この墓は6世紀後半のものと推定されています。"
+        },
+        {
+            "question": "一般的な石室墳と何が異なる特徴がありますか？",
+            "answer": "一般的には一つの石室墳は合葬が可能な構造を持つものですが、興徳里墓は二つの石室を並んで配置して合葬させた非常に特異な場合です。"
+        }
+    ],
+    "word_Count": {
+        "text": 242,
+        "QA": 209
+    }
+}

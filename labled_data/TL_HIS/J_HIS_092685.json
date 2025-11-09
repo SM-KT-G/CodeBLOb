@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_092685",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/collectionList#######",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2023-10-11",
+        "domain": "문화/역사관광",
+        "title": "용도미상 금박 철제품"
+    },
+    "text": "用途不詳 金箔 鉄製品 (용도미상 금박 철제품)\\n\n国籍/時代: 「ギター - ギター」 材質: 「金属-鉄」 分類: 「その他の資料 - 用途不明 - 用途不明品」 大きさ: 「現在の長さは37cm、幅は36cm」 Note: The phrase \"用途不明品\" seems to imply that the guitar's purpose is unknown. If this is intentional, it can be left as is. Otherwise, a more specific description can be provided.",
+    "QA": [
+        {
+            "question": "これは何ですか？",
+            "answer": "これは、日本の伝統的な楽器である『ギター』です。"
+        },
+        {
+            "question": "どのように使用されるのですか？",
+            "answer": "ギターは、音楽を演奏するために使用されます。弦を弾いて美しい音色を奏でることができます。"
+        },
+        {
+            "question": "このギターの素材は何ですか？",
+            "answer": "このギターは金属製で、鉄製のフレームに金箔が施されています。金箔は装飾として使用されています。"
+        },
+        {
+            "question": "ギターの大きさはどのくらいですか？",
+            "answer": "現在の長さは37cmで、幅は36cmです。日本の伝統的なギターと比較しても、やや大きめのサイズです。"
+        },
+        {
+            "question": "このギターの用途は何ですか？",
+            "answer": "このギターは、音楽演奏用の楽器として使用されますが、金箔や鉄製品などの素材の組み合わせから、その用途は具体的には不明です。"
+        }
+    ],
+    "word_Count": {
+        "text": 212,
+        "QA": 215
+    }
+}

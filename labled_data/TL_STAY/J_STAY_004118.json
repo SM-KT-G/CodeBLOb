@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_004118",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/goods/GN0002034128?startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0%5E&npprmaxsort=min",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "태안 레이펜션"
+    },
+    "text": "こんにちは、泰安に位置する青浦台レイペンションです。 泰安レイペンションは家族ペンションで、子供を除く大人男性3人以上の予約の際にはペンション側と事前協議が必要です。 もし大人の男性3人以上の場合は、払い戻しなしで退室措置となります。 また、22時以降に入室される場合は、予めペンションまでご連絡ください。 ا。",
+    "QA": [
+        {
+            "question": "泰安レイペンションはどこに位置していますか？",
+            "answer": "泰安に位置しています。"
+        },
+        {
+            "question": "泰安レイペンションはどのようなタイプのペンションですか？",
+            "answer": "家族ペンションです。"
+        },
+        {
+            "question": "大人男性3人以上の予約の際には、どのような事前協議が必要ですか？",
+            "answer": "ペンション側と事前協議が必要です。"
+        },
+        {
+            "question": "大人の男性3人以上の場合、どのような措置が取られますか？",
+            "answer": "退室措置となります。"
+        },
+        {
+            "question": "22時以降に入室する場合は、どうすればいいですか？",
+            "answer": "予めペンションまでご連絡ください。"
+        }
+    ],
+    "word_Count": {
+        "text": 114,
+        "QA": 146
+    }
+}

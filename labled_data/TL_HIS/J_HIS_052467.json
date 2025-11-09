@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_052467",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1085&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=01920000&ccbaCtcd=37&ccbaCpno=3413701920000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1987-12-29",
+        "domain": "문화/역사관광",
+        "title": "관산지관"
+    },
+    "text": "官産地官\\n\n慶尚北道聞慶市聞慶邑上里351番地\\n\n慶尚北道文化財資料、ここは出張した管理、外国の使者などが宿舎に使ったり、賃金に礼を挙げた朝鮮時代の宿屋の建物に伝えている。いつ始めたのかは分からない、ただ、仁祖26年(1648)と英祖11年(1735)に改称されたことを知ることができる。日帝時代には郡庁社と聞慶西中学校の建物に利用した。前面5間・側面2間規模であり、屋根は側面から見ると、人の教わる字形の切妻屋根で飾った。...",
+    "QA": [
+        {
+            "question": "この建物はどの時代に建てられましたか？",
+            "answer": "この建物は朝鮮時代に建てられました。仁祖26年（1648）と英祖11年（1735）に改称されたことが知られています。"
+        },
+        {
+            "question": "この建物は何のために使われていましたか？",
+            "answer": "この建物は宿屋として使われていました。外国の使者や賃金に礼を挙げる人々が宿泊するための建物として利用されていました。"
+        },
+        {
+            "question": "この建物はどのような形状の屋根を持っていますか？",
+            "answer": "この建物は側面から見ると人の教わる字形の切妻屋根で飾られています。"
+        },
+        {
+            "question": "この建物は日帝時代に何に利用されましたか？",
+            "answer": "この建物は日帝時代には郡庁社と聞慶西中学校の建物に利用されました。"
+        }
+    ],
+    "word_Count": {
+        "text": 159,
+        "QA": 195
+    }
+}

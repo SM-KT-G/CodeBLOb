@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_006518",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://apis.data.go.kr/1400000/service/cultureInfoService2/mntInfoOpenAPI2",
+        "collectedDate": "2023-11-22",
+        "publishedDate": "2020-12-01",
+        "domain": "자연관광",
+        "title": "금오산"
+    },
+    "text": "金烏山 (금오산)\\n\n慶尚北道慶州市内南面龍蔵里\\n\n山の高さ : 495.1m , 慶州南山は新羅と言っても過言ではない。 それだけ新羅建国から滅亡に至るまでの数多くの遺跡と新羅を支えてきた仏教遺跡の宝庫である。 新羅の建国説話に出てくる羅井から終末期の布石亭が南山の麓に位置した。 その間の時間間隔が900年だ。",
+    "QA": [
+        {
+            "question": "金烏山はどこにありますか？",
+            "answer": "金烏山は慶尚北道慶州市内南面の龍蔵里にあります。"
+        },
+        {
+            "question": "金烏山の高さはどれくらいですか？",
+            "answer": "金烏山の高さは495.1メートルです。"
+        },
+        {
+            "question": "金烏山はどのような歴史的な遺跡がありますか？",
+            "answer": "金烏山は新羅の建国から滅亡までの数多くの仏教遺跡があります。新羅の建国説話に出てくる羅井から終末期の布石亭まで、900年の間にさまざまな遺跡が存在しました。"
+        }
+    ],
+    "word_Count": {
+        "text": 116,
+        "QA": 126
+    }
+}

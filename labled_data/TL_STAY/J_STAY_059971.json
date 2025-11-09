@@ -1,0 +1,51 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_059971",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42080&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "평창 비우고채우는숲펜션"
+    },
+    "text": "「HAPPY700は木造ペンションで、日常から離れて心身を休める空間です。 春にはキンナンカが満開で、夏には渓谷で水遊びや釣りができます。 秋にはそばの花や紅葉が目を引き、冬には白い雪の世界で休息を楽しむことができます。 ペンション内には遊歩道やバーベキュー場、岩盤水などがあり、広い庭や様々な野生動物も待っています。 入室時間は22時以前であり、22時以降に入室される場合、事前に連絡をお願いします。 \".",
+    "QA": [
+        {
+            "question": "HAPPY700はどんな場所ですか？",
+            "answer": "HAPPY700は木造ペンションで、日常から離れて心身を休める空間です。"
+        },
+        {
+            "question": "春には何が楽しめますか？",
+            "answer": "春にはキンナンカが満開で、美しい花を楽しむことができます。"
+        },
+        {
+            "question": "夏には何ができますか？",
+            "answer": "夏には渓谷で水遊びや釣りが楽しめます。"
+        },
+        {
+            "question": "秋には何が見どころですか？",
+            "answer": "秋にはそばの花や紅葉が目を引きます。"
+        },
+        {
+            "question": "冬には何が楽しめますか？",
+            "answer": "冬には白い雪の世界で休息を楽しむことができます。"
+        },
+        {
+            "question": "HAPPY700内には何がありますか？",
+            "answer": "HAPPY700内には遊歩道やバーベキュー場、岩盤水などがあります。"
+        },
+        {
+            "question": "入室時間は何時までですか？",
+            "answer": "入室時間は22時以前です。22時以降に入室される場合は事前に連絡をお願いします。"
+        }
+    ],
+    "word_Count": {
+        "text": 149,
+        "QA": 218
+    }
+}

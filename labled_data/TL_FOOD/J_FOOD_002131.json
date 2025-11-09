@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_002131",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "THE BUS STOP ( 더버스스탑 )"
+    },
+    "text": "THE BUS STOP ( 더버스스탑 )\\n\nソウル特別市 中区 退渓路20キル 26-1\\n\n各種飲み物を取り扱っているカフェです。おすすめはアメリカーノです。ソウル特別市の中区に位置したカフェです。",
+    "QA": [
+        {
+            "question": "このカフェの場所はどこですか？",
+            "answer": "ソウル特別市の中区の退渓路20キル 26-1に位置しています。"
+        },
+        {
+            "question": "このカフェでは何を取り扱っていますか？",
+            "answer": "各種飲み物を取り扱っています。"
+        },
+        {
+            "question": "このカフェのおすすめメニューは何ですか？",
+            "answer": "アメリカーノがおすすめです。"
+        }
+    ],
+    "word_Count": {
+        "text": 75,
+        "QA": 83
+    }
+}

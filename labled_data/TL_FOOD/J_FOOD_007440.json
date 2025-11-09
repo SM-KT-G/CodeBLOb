@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_007440",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-03",
+        "domain": "음식점",
+        "title": "サン韓食 ( 썬한식 )"
+    },
+    "text": "サン韓食 ( 썬한식 )\\n\n江原道 ガンヌン市 ガンドン面 ユルゴクロ1167\\n\n柔らかい豆腐料理が味わえる店です。江原道のガンヌン市に位置した韓食専門店です。おすすめはちゃんぽんスンドゥブです。",
+    "QA": [
+        {
+            "question": "サン韓食はどこにありますか？",
+            "answer": "サン韓食は江原道のガンヌン市に位置しています。"
+        },
+        {
+            "question": "サン韓食のおすすめメニューは何ですか？",
+            "answer": "サン韓食のおすすめはちゃんぽんスンドゥブです。"
+        },
+        {
+            "question": "サン韓食では何を味わえますか？",
+            "answer": "サン韓食では柔らかい豆腐料理を味わうことができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 73,
+        "QA": 88
+    }
+}

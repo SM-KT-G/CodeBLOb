@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_024830",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-05",
+        "domain": "음식점",
+        "title": "王妃家 ( 왕비집 )"
+    },
+    "text": "王妃家 ( 왕비집 )\nソウル特別市 中区 ミョンドン8ガギル26\nファロ(火鉢)焼き専門店です。ソウル特別市のジュン区に位置した韓食専門店です。おすすめはカルビ定食です。",
+    "QA": [
+        {
+            "question": "王妃家はどこに位置していますか？",
+            "answer": "王妃家はソウル特別市の中区に位置しています。"
+        },
+        {
+            "question": "王妃家のおすすめメニューは何ですか？",
+            "answer": "王妃家のおすすめメニューはカルビ定食です。"
+        },
+        {
+            "question": "王妃家は何を専門としていますか？",
+            "answer": "王妃家は韓食を専門としています。"
+        }
+    ],
+    "word_Count": {
+        "text": 63,
+        "QA": 79
+    }
+}

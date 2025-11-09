@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001868",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-05",
+        "domain": "음식점",
+        "title": "MANO DI CHEF 明洞 ( 마노디셰프 명동 )"
+    },
+    "text": "MANO DI CHEF 明洞 ( 마노디셰프 명동 )\\n\nソウル特別市 中区 ミョンドンギル26\\n\nソウルタワーが見える夜景の素敵なレストランです。代表的なメニューはステーキです。ソウル特別市のチュン区に位置した洋食専門店です。",
+    "QA": [
+        {
+            "question": "MANO DI CHEF 明洞はどこに位置していますか？",
+            "answer": "MANO DI CHEF 明洞はソウル特別市 中区 ミョンドンギル26に位置しています。"
+        },
+        {
+            "question": "MANO DI CHEF 明洞の代表的なメニューは何ですか？",
+            "answer": "MANO DI CHEF 明洞の代表的なメニューはステーキです。"
+        },
+        {
+            "question": "MANO DI CHEF 明洞の特徴的な点は何ですか？",
+            "answer": "MANO DI CHEF 明洞の特徴的な点は、ソウルタワーが見える夜景の素敵なレストランであることです。"
+        }
+    ],
+    "word_Count": {
+        "text": 85,
+        "QA": 156
+    }
+}

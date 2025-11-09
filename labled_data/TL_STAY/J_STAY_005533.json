@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_005533",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.visitjeju.net/kr/detail/view?contentsid=CNTS_000000000022549#",
+        "collectedDate": "2023-09-05",
+        "publishedDate": "2017-08-30",
+        "domain": "숙박",
+        "title": "シウォル愛"
+    },
+    "text": "シウォル愛\n済州特別自治道西帰浦市大静邑武陵寺長老154\n1分の距離に海があり、全客室から海の眺めが可能で、ペンションの前に芝生の庭があって子供たちが自由に遊べる。",
+    "QA": [
+        {
+            "question": "このペンションの場所はどこですか？",
+            "answer": "このペンションは済州特別自治道西帰浦市大静邑武陵寺長老154に位置しています。"
+        },
+        {
+            "question": "ペンションから海が見えるのですか？",
+            "answer": "はい、全客室から海の眺めが可能です。"
+        },
+        {
+            "question": "子供たちが遊ぶことができる場所はありますか？",
+            "answer": "ペンションの前に芝生の庭があり、子供たちが自由に遊べるスペースがあります。"
+        },
+        {
+            "question": "このペンション周辺にはどのくらいの距離に海がありますか？",
+            "answer": "このペンションから海までは徒歩1分の距離です。"
+        }
+    ],
+    "word_Count": {
+        "text": 60,
+        "QA": 147
+    }
+}

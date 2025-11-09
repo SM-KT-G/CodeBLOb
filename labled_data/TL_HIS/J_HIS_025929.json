@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_025929",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1007&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=00600000&ccbaCtcd=33&ccbaCpno=3413300600000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2007-09-07",
+        "domain": "문화/역사관광",
+        "title": "옥천 백운리 고가"
+    },
+    "text": "沃川白雲里古家 (옥천 백운리 고가)\\n\n忠清北道沃川郡白雲キル49(青山面、倉庫)\\n\n忠清北道文化財資料 , 白雲里古家は銘文瓦を通じて道光22年(1842)に建立されたものと推定され、正参板が起居したそれでチャンパン屋と呼ばれていた家だ。 解放後、密城パク氏の通徳郎輝石子派から買い入れ、母屋は祠堂として使用し、サランチェは斎室として使用している。瓦の製作手法と技術に優れ、縁側青板は古い古式技術で朝鮮時代の治木技法が歴然と現れており、保存状態が良好だ。合わせて、建築家具法が築造当時の木造技術を把握することができ、一部の変形基壇と一部部材交替を除いて原型を維持しており、建築研究資料として保存する価値がある。",
+    "QA": [
+        {
+            "question": "この白雲里古家はいつ建てられましたか？",
+            "answer": "白雲里古家は道光22年（1842年）に建立されたものと推定されています。"
+        },
+        {
+            "question": "白雲里古家はどのような名前で呼ばれていましたか？",
+            "answer": "白雲里古家はチャンパン屋と呼ばれていました。"
+        },
+        {
+            "question": "白雲里古家はどのように使用されていますか？",
+            "answer": "母屋は祠堂として使用され、サランチェは斎室として使用されています。"
+        },
+        {
+            "question": "白雲里古家の瓦の製作手法と技術はどのようなものですか？",
+            "answer": "白雲里古家の瓦の製作手法と技術は非常に優れており、朝鮮時代の治木技法が使われています。"
+        },
+        {
+            "question": "白雲里古家はどのような建築研究資料として価値があるのですか？",
+            "answer": "白雲里古家は建築家具法や木造技術を把握することができる貴重な建築研究資料です。"
+        }
+    ],
+    "word_Count": {
+        "text": 226,
+        "QA": 215
+    }
+}

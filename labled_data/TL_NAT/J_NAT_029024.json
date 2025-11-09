@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_029024",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=297&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=16&ccbaAsno=02350000&ccbaCtcd=36&ccbaCpno=1363602350000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1971-09-13",
+        "domain": "자연관광",
+        "title": "광양읍수와 이팝나무"
+    },
+    "text": "ヒトツバタゴは、光陽乳糖公園に育っており、高さは18m、胸の高さの回りは3.42mだ。木の幹は途中で大きく分岐されて、バランスの取れた姿を持っている。乳糖公園は、朝鮮中宗の23年(1528)に光陽(クァンヤン)邑城を築き、軍事保安林の役割のためにヒトツバタゴを植えた。この木は台風から保護されてきており、わが先祖の軍事的文化と自然の知恵を見ることができる文化的資料でもある。したがって、光陽(クァンヤン)乳糖公園のヒトツバタゴは、天然記念物に指定されて保護されている。",
+    "QA": [
+        {
+            "question": "光陽乳糖公園に植えられているヒトツバタゴの高さは？",
+            "answer": "ヒトツバタゴの高さは18mです。"
+        },
+        {
+            "question": "ヒトツバタゴの胸の高さの回りの大きさは？",
+            "answer": "ヒトツバタゴの胸の高さの回りは3.42mです。"
+        },
+        {
+            "question": "なぜ光陽乳糖公園のヒトツバタゴは天然記念物に指定されて保護されているのですか？",
+            "answer": "光陽乳糖公園のヒトツバタゴは、朝鮮中宗の23年(1528)に光陽邑城を築き、軍事保安林の役割のために植えられたため、歴史的背景と文化的意義から天然記念物に指定されて保護されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 171,
+        "QA": 156
+    }
+}

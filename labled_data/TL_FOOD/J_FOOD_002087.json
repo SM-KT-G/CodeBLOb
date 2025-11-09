@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_002087",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/soigne",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "SOIGNÉ"
+    },
+    "text": "SOIGNÉ\\n\nソウル特別市 瑞草区 盤浦大路39キル46\\n\n「SOIGNÉ（スワニイェ／スワニエ）」は、韓国初のポップアップレストランで知られるイ・ジュンシェフが初めてオープンしたレストランで、フランス語で「完成度が高い」「入念な」という意味をもっています。 韓国を土台とし、フランス、イタリア、アメリカなど全世界の料理からインスピレーションを受けた独創的な料理を提供しています。",
+    "QA": [
+        {
+            "question": "SOIGNÉ（スワニイェ／スワニエ）の場所はどこですか？",
+            "answer": "SOIGNÉはソウル特別市瑞草区盤浦大路39キル46にあります。"
+        },
+        {
+            "question": "SOIGNÉの特徴は何ですか？",
+            "answer": "SOIGNÉは韓国初のポップアップレストランで、イ・ジュンシェフがオープンしたレストランです。料理は韓国を土台にフランス、イタリア、アメリカなど全世界の料理からインスピレーションを受けた独創的なものです。"
+        },
+        {
+            "question": "SOIGNÉの名前の意味は何ですか？",
+            "answer": "SOIGNÉという名前はフランス語で「完成度が高い」「入念な」という意味を持っています。"
+        }
+    ],
+    "word_Count": {
+        "text": 141,
+        "QA": 175
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_017064",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-05-26",
+        "domain": "음식점",
+        "title": "高句麗カヌンキル（고구려가는길（낙지랑 쭈꾸미랑））"
+    },
+    "text": "高句麗カヌンキル\\n\n慶尚北道 慶州市 忠孝泉キル66-6 （忠孝洞）\\n\n「高句麗（コグリョ）カヌンキル」は、素朴で柔らかな黄土の美しさが感じられる建物で、タコ料理を味わえるお店です。",
+    "QA": [
+        {
+            "question": "このお店の場所はどこですか？",
+            "answer": "高句麗カヌンキルは慶尚北道慶州市忠孝泉キル66-6にあります。"
+        },
+        {
+            "question": "このお店では何を味わえますか？",
+            "answer": "このお店ではタコ料理を味わうことができます。"
+        },
+        {
+            "question": "建物の特徴はどのようなものですか？",
+            "answer": "高句麗カヌンキルは素朴で柔らかな黄土の美しさが感じられる建物です。"
+        },
+        {
+            "question": "このお店の雰囲気はどのようなものですか？",
+            "answer": "このお店の雰囲気は温かくてアットホームな感じです。"
+        },
+        {
+            "question": "このお店はどんな人におすすめですか？",
+            "answer": "このお店はタコ料理を楽しみたい人におすすめです。"
+        }
+    ],
+    "word_Count": {
+        "text": 68,
+        "QA": 160
+    }
+}

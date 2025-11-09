@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_024034",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-01",
+        "domain": "음식점",
+        "title": "安東村カルビ ( 안동촌갈비 )"
+    },
+    "text": "安東村カルビ \n慶尚北道 安東市 慶東路 677-10\n韓国のグルメ番組でよく紹介された店で、上質な牛肉を味わえます。 慶尚北道のアンドン市に位置したBBQ専門店です。おすすめは韓牛カルビです。",
+    "QA": [
+        {
+            "question": "安東村カルビはどこに位置していますか？",
+            "answer": "安東村カルビは慶尚北道の安東市に位置しています。"
+        },
+        {
+            "question": "安東村カルビは何の専門店ですか？",
+            "answer": "安東村カルビはBBQ専門店です。"
+        },
+        {
+            "question": "おすすめのメニューは何ですか？",
+            "answer": "おすすめのメニューは韓牛カルビです。"
+        },
+        {
+            "question": "安東村カルビはどのような牛肉を提供していますか？",
+            "answer": "安東村カルビでは上質な牛肉を提供しています。"
+        },
+        {
+            "question": "安東村カルビは韓国のどの番組で紹介されましたか？",
+            "answer": "安東村カルビは韓国のグルメ番組でよく紹介されました。"
+        }
+    ],
+    "word_Count": {
+        "text": 71,
+        "QA": 149
+    }
+}

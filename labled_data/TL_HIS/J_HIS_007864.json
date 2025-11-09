@@ -1,0 +1,51 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_007864",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=960&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=00100000&ccbaCtcd=24&ccbaCpno=3412400100000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1989-03-20",
+        "domain": "문화/역사관광",
+        "title": "고내상성지"
+    },
+    "text": "古内廂城址 (고내상성지)\\n\n光州光山区松亭一洞253番地\\n\n光州広域市文化財資料 , 光州市松亭洞にあるこの城跡は太祖6年(1397)全羅道兵営をここに設置しながら積み上げたが、太宗17年(1471)康津兵営城に移す際に使用しなかった城で、高兵営城とも呼ばれる。 「新増東国興地勝覧」には石で積み上げた城で城壁の周囲が1661隻と記録されており、最初は石で積み上げたことが分かるが、城壁の大部分は崩れ松亭洞一帯に土で積み上げた土城の一部だけが残っている。 また、城と関連した土地の名前が残っているが、光州飛行場が「ソンアンエットドゥル」と呼ばれ、古内上の西側の野原が「ソンノマットドゥル」と言った。 現在残っている城跡の長さは170m、高さ1.45mで土を一定の厚さに固めながら積み上げたことが分かり、この城の外側だけ石で積み上げ、内側は土で積み上げたものと推定される。",
+    "QA": [
+        {
+            "question": "この城址はどこにありますか？",
+            "answer": "この城址は光山区松亭一洞253番地にあります。"
+        },
+        {
+            "question": "この城址はいつ作られましたか？",
+            "answer": "この城址は太祖6年(1397)に全羅道兵営を設置するために積み上げられましたが、実際には使用されずに康津兵営城に移されました。"
+        },
+        {
+            "question": "城壁の周囲には何隻の石が積まれていましたか？",
+            "answer": "城壁の周囲には1661隻の石が積まれていました。"
+        },
+        {
+            "question": "城壁はどのような構造でしたか？",
+            "answer": "最初は石で積まれていましたが、大部分は崩れてしまい、現在は土で積まれた城壁の一部のみが残っています。"
+        },
+        {
+            "question": "城跡の長さと高さはどれくらいですか？",
+            "answer": "現在残っている城跡の長さは170mで、高さは1.45mです。"
+        },
+        {
+            "question": "城の外側と内側は何で積み上げられましたか？",
+            "answer": "城の外側は石で積み上げられ、内側は土で積み上げられていました。"
+        },
+        {
+            "question": "この城址に関連した土地の名前はありますか？",
+            "answer": "この城址に関連した土地の名前として、光州飛行場が「ソンアンエットドゥル」と呼ばれ、古内上の西側の野原が「ソンノマットドゥル」と呼ばれていました。"
+        }
+    ],
+    "word_Count": {
+        "text": 284,
+        "QA": 307
+    }
+}

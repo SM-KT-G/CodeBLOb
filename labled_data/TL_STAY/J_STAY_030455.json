@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_030455",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42010&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "파주 럭스"
+    },
+    "text": "客室使用後、退室時に消毒を徹底してください。 コンビニ、グルメ市場、自動車劇場のすぐ前にはヘイリ村があり、プロバンスと英語村は3分の距離にあります。 また、坡州アウトレットも3分の距離にあり、烏頭山統一展望台と坡州LGディスプレイも3分の距離にあります。 一山キンテックスも12分の距離に位置し、坡州国家代表トレーニング施設も3分の距離にあります。",
+    "QA": [
+        {
+            "question": "ヘイリ村はどこにありますか？",
+            "answer": "ヘイリ村はコンビニ、グルメ市場、自動車劇場のすぐ前にあります。"
+        },
+        {
+            "question": "プロバンスと英語村はどのくらいの距離にありますか？",
+            "answer": "プロバンスと英語村は3分の距離にあります。"
+        },
+        {
+            "question": "坡州アウトレットはどのくらいの距離にありますか？",
+            "answer": "坡州アウトレットは3分の距離にあります。"
+        },
+        {
+            "question": "烏頭山統一展望台と坡州LGディスプレイはどのくらいの距離にありますか？",
+            "answer": "烏頭山統一展望台と坡州LGディスプレイは3分の距離にあります。"
+        },
+        {
+            "question": "一山キンテックスはどのくらいの距離にありますか？",
+            "answer": "一山キンテックスは12分の距離に位置しています。"
+        },
+        {
+            "question": "坡州国家代表トレーニング施設はどのくらいの距離にありますか？",
+            "answer": "坡州国家代表トレーニング施設は3分の距離にあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 127,
+        "QA": 223
+    }
+}

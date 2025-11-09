@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_014915",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-09-01",
+        "domain": "음식점",
+        "title": "ヨジンゴブ（여진곱）"
+    },
+    "text": "ヨジンゴブ（여진곱）\\n\nソウル特別市 鐘路区 三一大路 430\\n\n楽園商店街の近くに位置するホルモン専門店です。代表的なメニューはホルモンの寄せ鍋です。この店はソウル特別市のチョンノに位置した韓国料理店です。",
+    "QA": [
+        {
+            "question": "ヨジンゴブはどこに位置していますか？",
+            "answer": "ヨジンゴブはソウル特別市の鐘路区三一大路430に位置しています。"
+        },
+        {
+            "question": "ヨジンゴブの代表的なメニューは何ですか？",
+            "answer": "ヨジンゴブの代表的なメニューはホルモンの寄せ鍋です。"
+        },
+        {
+            "question": "ヨジンゴブはどの商店街の近くに位置していますか？",
+            "answer": "ヨジンゴブは楽園商店街の近くに位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 77,
+        "QA": 104
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_019768",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-07-27",
+        "domain": "음식점",
+        "title": "東宝城（동보성）"
+    },
+    "text": "東宝城（동보성）全羅北道 益山市 ハナ路437\\n\n「東宝城（トンボソン）」は本格中華の専門店です。グローバル化に合わせ、中国各地の料理に精通した大家をシェフとして招待し、各国のお客様を迎えています。個室から大型パーティー場まで備え、一品料理なども提供しています。",
+    "QA": [
+        {
+            "question": "東宝城（トンボソン）はどこにありますか？",
+            "answer": "東宝城（トンボソン）は全羅北道益山市ハナ路437にあります。"
+        },
+        {
+            "question": "東宝城はどのようなレストランですか？",
+            "answer": "東宝城（トンボソン）は本格中華の専門店で、中国各地の料理に精通したシェフが招待されています。"
+        },
+        {
+            "question": "東宝城ではどんな種類の料理が提供されていますか？",
+            "answer": "東宝城では一品料理など、さまざまな種類の料理が提供されています。"
+        },
+        {
+            "question": "東宝城には個室やパーティー場がありますか？",
+            "answer": "はい、東宝城には個室から大型パーティー場まで備えています。"
+        }
+    ],
+    "word_Count": {
+        "text": 96,
+        "QA": 161
+    }
+}

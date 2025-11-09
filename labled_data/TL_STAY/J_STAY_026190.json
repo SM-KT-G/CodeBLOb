@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_026190",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42040&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "순천 자 무인텔"
+    },
+    "text": "長川洞に位置するジャ無人テルは、様々なお客様のために用意されています。 当テルはセスコ定期防疫と点検を実施し、ゲームを楽しむ方のためにスーパーコンピューターも提供します。 ベッドや寝具はきれいに管理され、様々な軽食や飲み物も完備されています。 ただヤノルジャ会員のための無限大室イベントもございますので、ぜひご利用ください。",
+    "QA": [
+        {
+            "question": "ジャ無人テルの場所はどこですか？",
+            "answer": "ジャ無人テルは長川洞に位置しています。"
+        },
+        {
+            "question": "ジャ無人テルではどのようなお客様のために用意されていますか？",
+            "answer": "ジャ無人テルでは様々なお客様のために用意されています。"
+        },
+        {
+            "question": "ジャ無人テルではどのような施設が提供されていますか？",
+            "answer": "ジャ無人テルではセスコ定期防疫と点検を実施し、スーパーコンピューターも提供しています。"
+        },
+        {
+            "question": "ジャ無人テルのベッドや寝具はどのように管理されていますか？",
+            "answer": "ジャ無人テルのベッドや寝具はきれいに管理されています。"
+        },
+        {
+            "question": "ジャ無人テルではどのような飲み物や軽食が提供されていますか？",
+            "answer": "ジャ無人テルでは様々な飲み物や軽食が完備されています。"
+        },
+        {
+            "question": "ヤノルジャ会員のための無限大室イベントはありますか？",
+            "answer": "はい、ヤノルジャ会員のための無限大室イベントもございます。"
+        }
+    ],
+    "word_Count": {
+        "text": 118,
+        "QA": 241
+    }
+}

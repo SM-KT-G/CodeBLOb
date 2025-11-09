@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_066084",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=458&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=01080000&ccbaCtcd=38&ccbaCpno=2113801080000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1979-05-02",
+        "domain": "문화/역사관광",
+        "title": "밀양 어변당 고문서"
+    },
+    "text": "密陽御辺堂古文書\\n\n慶尚南道密陽市密陽大公園路100(校洞、密陽ジャン、独立運動記念館)\\n\n朝鮮時代、慶尚南道有形文化財、高宗24年(1887)にオビョンダンを刺したりの子孫であるパクキウが、釜山浦なった最初ジョルジェサでいて、専任する時に作成した引継ぎ文書である。特にこの文書は高宗13年(1876)に締結されたに丙子修好条約によって、仁川(インチョン)、元山(ウォンサン)、釜山(プサン)など3項が日本側の要求によって開港されたこの後、列強の商船が出入りする現場の記録が残っている文書という点から、その重要性が非常に大きいと言える。また、当時釜山港の規模や運営などを把握できる資料として評価される。",
+    "QA": [
+        {
+            "question": "日本側の要求によって開港された都市はどこですか？",
+            "answer": "仁川(インチョン)、元山(ウォンサン)、釜山(プサン)など3項が開港されました。"
+        },
+        {
+            "question": "この文書の作成者は誰ですか？",
+            "answer": "この文書はオビョンダンを刺したりの子孫であるパクキウが作成しました。"
+        },
+        {
+            "question": "この文書はいつ作成されましたか？",
+            "answer": "この文書は高宗24年(1887)に作成されました。"
+        },
+        {
+            "question": "この文書にはどのような記録が残っていますか？",
+            "answer": "この文書には列強の商船が出入りする現場の記録が残っています。"
+        },
+        {
+            "question": "この文書はどのような資料として評価されますか？",
+            "answer": "この文書は当時の釜山港の規模や運営などを把握できる資料として評価されます。"
+        }
+    ],
+    "word_Count": {
+        "text": 222,
+        "QA": 194
+    }
+}

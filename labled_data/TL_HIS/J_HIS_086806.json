@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_086806",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=485&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=01460000&ccbaCtcd=31&ccbaCpno=2113101460000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1992-12-31",
+        "domain": "문화/역사관광",
+        "title": "심련원신도비"
+    },
+    "text": "心練院信徒費\\n\n京畿道金浦市通津邑甕井里山14-2番地\\n\n京畿道有形文化財、朝鮮明宗時代の文臣の深淵院(沈連源、1491~1558)を称えるために1560年(明宗15)に建設したものだ。本貫は青松で号は目(保庵)だ。1551年に領議政になったが、青天豊府院君(靑川府院君)にジンボンなった。明宗のミョチョン(廟廷)に配向された。神道碑は墓地の下に位置しており、貴腐履修(龜趺螭首)様式を備えている。亀趺(龜趺。亀の形の台石)の亀甲(龜甲;亀の皮)と、その上にのせた蓮の葉の形のボクリョン(覆蓮)はボリュームたっぷりに彫刻した反面、亀頭(龜頭。亀の頭)は簡略に表現した。履修(螭首;竜を留めて装飾した、碑石定礎)は二匹の竜が如意宝珠を獲得しようと互いに争う姿を写実的に精巧に描写した。碑文はチョンサリョン(鄭士龍)が建設して、当代の名筆にソンソル体に長けたソンイン(宋寅)が書いており、全額(篆額;の篆書体に碑石の名前を刻んだ部分)は深淵院の甥であるシムチョン(沈銓)が書いた。",
+    "QA": [
+        {
+            "question": "深淵院は何時に建設されましたか？",
+            "answer": "深淵院は1560年（明宗15）に建設されました。"
+        },
+        {
+            "question": "深淵院の本貫と号は何ですか？",
+            "answer": "深淵院の本貫は青松で号は目（保庵）です。"
+        },
+        {
+            "question": "深淵院は何のために建設されましたか？",
+            "answer": "深淵院は朝鮮明宗時代の文臣の沈連源を称えるために建設されました。"
+        },
+        {
+            "question": "神道碑には何が彫刻されていますか？",
+            "answer": "神道碑には亀趺と蓮の葉の形のボクリョン、亀頭、履修が彫刻されています。"
+        },
+        {
+            "question": "碑文は誰が書きましたか？",
+            "answer": "碑文はチョンサリョンが建設し、ソンインが書き、深淵院の甥であるシムチョンが全額を書きました。"
+        }
+    ],
+    "word_Count": {
+        "text": 322,
+        "QA": 171
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_025997",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-05",
+        "domain": "음식점",
+        "title": "長寿カルビ ( 장수갈비 )"
+    },
+    "text": "長寿カルビ ( 장수갈비 )\\n\nソウル特別市 中区 ミョンドン2ギル54-1\\n\n1968年から営業している店です。おすすめはカルビです。ソウル特別市のジュン区に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "このレストランはいつから営業していますか？",
+            "answer": "このレストランは1968年から営業しています。"
+        },
+        {
+            "question": "このレストランのおすすめは何ですか？",
+            "answer": "このレストランのおすすめはカルビです。"
+        },
+        {
+            "question": "このレストランはどこに位置していますか？",
+            "answer": "このレストランはソウル特別市中区ミョンドン2ギル54-1に位置しています。"
+        },
+        {
+            "question": "このレストランはどのような料理を提供していますか？",
+            "answer": "このレストランは韓食専門店であり、カルビなどの料理を提供しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 68,
+        "QA": 144
+    }
+}

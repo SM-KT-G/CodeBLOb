@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_032322",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1111&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=02830000&ccbaCtcd=34&ccbaCpno=3413402830000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1986-11-19",
+        "domain": "문화/역사관광",
+        "title": "충헌공윤전사우"
+    },
+    "text": "忠憲公尹栓祠宇 (충헌공윤전사우)\\n\n忠清南道公州市鶏龍面柳坪里\\n\n忠清南道文化財資料、丙子胡乱の時、江華島で殉節した輪田(1575~1636)の祭祀を行う場所だ。 尹伝は朝鮮中期の文臣で光海君2年(1610年)に文科に及第したが、1613年に李珥尖と李威慶によって罷免された 再び起用され、1615年に北条左廊に至ったが、李衛卿らに追われて罷免された。 仁祖反正で京畿道知事に復職し、翌年、李括の乱の時は公州に避難した仁祖を護衛した。 仁祖14年(1636)丙子胡乱が起きると、賓宮を祀って江華島に入り敵と戦って戦死した。 その後、吏曹判書に任命され、忠憲という諡号を受けた。 この建物は月来、老山郡老城面兵士里にあったものを今の場所に移したものだ。",
+    "QA": [
+        {
+            "question": "この忠憲公尹栓祠宇はどこにありますか？",
+            "answer": "この忠憲公尹栓祠宇は鶏龍面柳坪里にあります。"
+        },
+        {
+            "question": "尹栓公はどのような人物ですか？",
+            "answer": "尹栓公は朝鮮中期の文臣で、光海君2年に文科に及第しましたが、後に罷免されました。その後、再び起用されたり罷免されたりした朝廷の役人でした。"
+        },
+        {
+            "question": "尹栓公はどのような功績を残しましたか？",
+            "answer": "尹栓公は仁祖反正で京畿道知事に復職し、李括の乱の時には仁祖を護衛しました。また、丙子胡乱が起きると敵と戦って戦死しました。その後、忠憲という諡号を受けました。"
+        },
+        {
+            "question": "忠憲公尹栓祠宇はどのようにして現在の場所に移動されましたか？",
+            "answer": "この建物は以前は老城面兵士里にありましたが、今の場所に移動されました。"
+        }
+    ],
+    "word_Count": {
+        "text": 240,
+        "QA": 211
+    }
+}

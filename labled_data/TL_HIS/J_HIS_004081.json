@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_004081",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101933",
+        "collectedDate": "2023-10-06",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "정발산역"
+    },
+    "text": "チョンバルサンヨク\nJeongbalsan station, 鼎冠山駅は、京畿道高陽市一山東区にある首都圏電鉄3号線の電車駅である。副駅名は高陽アラムヌリで、3番出口付近に高陽アラムヌリがあり、名前とは異なり実際に長項洞(1~2番出口)と馬頭1洞(3~4番出口)の間にある。今後急行列車運行の一環として待避線設置計画がある。\n",
+    "QA": [
+        {
+            "question": "鼎冠山駅はどこにありますか？",
+            "answer": "鼎冠山駅は京畿道高陽市一山東区にあります。"
+        },
+        {
+            "question": "鼎冠山駅の副駅名は何ですか？",
+            "answer": "鼎冠山駅の副駅名は高陽アラムヌリです。"
+        },
+        {
+            "question": "鼎冠山駅周辺には何がありますか？",
+            "answer": "鼎冠山駅周辺には高陽アラムヌリがあります。"
+        },
+        {
+            "question": "鼎冠山駅の待避線設置計画について教えてください。",
+            "answer": "鼎冠山駅では急行列車運行の一環として待避線設置計画が進行中です。"
+        }
+    ],
+    "word_Count": {
+        "text": 119,
+        "QA": 118
+    }
+}

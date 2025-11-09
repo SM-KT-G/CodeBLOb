@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_018898",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-08-14",
+        "domain": "음식점",
+        "title": "大観園（대관원）"
+    },
+    "text": "大観園（대관원）済州特別自治道 済州市 新大路13キル3\\n\n「大観園（テグァンウォン）」は、2代にわたって約50年営業している中華料理専門店で、本場中国・台湾の観光客も多く利用するお店です。",
+    "QA": [
+        {
+            "question": "大観園（テグァンウォン）はどこにありますか？",
+            "answer": "大観園（テグァンウォン）は済州特別自治道 済州市 新大路13キル3にあります。"
+        },
+        {
+            "question": "大観園（テグァンウォン）はどのようなお店ですか？",
+            "answer": "大観園（テグァンウォン）は中華料理専門店で、2代にわたって約50年営業しています。本場中国・台湾の観光客も多く利用するお店です。"
+        },
+        {
+            "question": "大観園（テグァンウォン）にはどのような客層が訪れますか？",
+            "answer": "大観園（テグァンウォン）には観光客だけでなく、地元の方々も訪れます。また、本場中国・台湾の観光客も多く利用しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 70,
+        "QA": 173
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_002747",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "イェプンドゥェジ（예쁜돼지）"
+    },
+    "text": "イェプンドゥェジ（예쁜돼지）\\n\nソウル特別市 衿川区 ボッコッ路 278\\n\n炭火を利用したBBQ専門店です。おすすめは豚の肩肉の塩焼きです。ソウル特別市のグロ区に位置したバーベキュー専門店です。",
+    "QA": [
+        {
+            "question": "このお店の場所はどこですか？",
+            "answer": "ソウル特別市 衿川区 ボッコッ路 278に位置しています。"
+        },
+        {
+            "question": "このお店のおすすめメニューは何ですか？",
+            "answer": "豚の肩肉の塩焼きがおすすめです。"
+        },
+        {
+            "question": "このお店は何を専門としていますか？",
+            "answer": "炭火を利用したBBQを専門としています。"
+        },
+        {
+            "question": "このお店はどのような雰囲気ですか？",
+            "answer": "ソウル特別市のグロ区に位置しており、アットホームな雰囲気です。"
+        }
+    ],
+    "word_Count": {
+        "text": 72,
+        "QA": 119
+    }
+}

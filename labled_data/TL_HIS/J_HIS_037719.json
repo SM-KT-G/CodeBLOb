@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_037719",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=461&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=01120000&ccbaCtcd=33&ccbaCpno=2113301120000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1982-12-17",
+        "domain": "문화/역사관광",
+        "title": "청주 안심사 비로전"
+    },
+    "text": "清州安心寺毘盧殿 (청주 안심사 비로전)\\n\n忠清北道清州市書院区沙洞キル169-28(南面、安心寺)\\n\n忠清北道有形文化財、安心寺毘盧殿は朝鮮光海君5年(1613)に建てられた建物で、朝鮮時代末期の憲宗8年(1842)に改められた。 毘盧殿は大寂光殿とも呼ばれ、本来は毘盧遮那仏を祀る法堂だが、ここでは最近羅漢を祀っていることから霊山殿と呼ばれている。前面3間·側面2間で側面が人字型の切妻屋だ。 柱の上で屋根軒を支える恐怖が柱の上と柱の間にもある多包系様式だ。 真ん中の間は空砲を2つずつ、両側の間は1つの空砲を配置した。 安心寺毘盧殿は全体的に朝鮮後期の建築様式の特徴を備えており、境内の朝鮮中期建築である大雄殿と良い対比を成している。",
+    "QA": [
+        {
+            "question": "安心寺毘盧殿はいつ建てられましたか？",
+            "answer": "安心寺毘盧殿は朝鮮光海君5年(1613)に建てられました。"
+        },
+        {
+            "question": "安心寺毘盧殿は何のために建てられた建物ですか？",
+            "answer": "安心寺毘盧殿は本来は毘盧遮那仏を祀る法堂ですが、最近は羅漢を祀っているため、霊山殿とも呼ばれています。"
+        },
+        {
+            "question": "安心寺毘盧殿の建築様式にはどのような特徴がありますか？",
+            "answer": "安心寺毘盧殿は前面3間・側面2間で、側面が人字型の切妻屋です。柱の上で屋根軒を支える恐怖が柱の上と柱の間にもある多包系様式です。"
+        },
+        {
+            "question": "安心寺毘盧殿と境内の大雄殿は対比関係にありますか？",
+            "answer": "はい、安心寺毘盧殿は境内の朝鮮中期建築である大雄殿と良い対比を成しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 236,
+        "QA": 201
+    }
+}

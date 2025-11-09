@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_LEI_006025",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101933",
+        "collectedDate": "2023-09-21",
+        "publishedDate": "2023-04-04",
+        "domain": "레포츠",
+        "title": "태백산국립공원 소도야영장"
+    },
+    "text": "太白山国立公園小島キャンプ場\\n\n江原道太白市チョンジェダンキル181(小島洞)\\n\n国立公園は直営方式で運営されており、一般キャンプ場、自動車キャンプ場、キャラバンが利用できます。 周辺には山があって自然環境が美しいです。 また、遊歩道を利用できます。",
+    "QA": [
+        {
+            "question": "このキャンプ場はどのような施設がありますか？",
+            "answer": "国立公園は直営方式で運営されており、一般キャンプ場、自動車キャンプ場、キャラバンが利用できます。"
+        },
+        {
+            "question": "周辺の自然環境はどのようですか？",
+            "answer": "周辺には山があり、自然環境が美しいです。"
+        },
+        {
+            "question": "遊歩道を利用できますか？",
+            "answer": "はい、遊歩道を利用することができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 93,
+        "QA": 100
+    }
+}

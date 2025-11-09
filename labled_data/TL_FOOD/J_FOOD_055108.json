@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_055108",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2020-11-25",
+        "domain": "음식점",
+        "title": "イファス伝統ユッケジャン 平沢市庁( 이화수전통육개장 평택시청 )"
+    },
+    "text": "イファス伝統ユッケジャン 平沢市庁( 이화수전통육개장 평택시청 )\\n\n京畿道 平沢市 平沢5路20ボンキル 39\\n\n24時間営業の店です。代表的なメニューはユッケジャンです。京畿道のピョンテク市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "この店はどこにありますか？",
+            "answer": "この店は京畿道平沢市にあります。"
+        },
+        {
+            "question": "この店の営業時間は何時から何時までですか？",
+            "answer": "この店は24時間営業しています。"
+        },
+        {
+            "question": "この店の代表的なメニューは何ですか？",
+            "answer": "この店の代表的なメニューはユッケジャンです。"
+        },
+        {
+            "question": "この店は韓食専門店ですか？",
+            "answer": "はい、この店は韓食専門店です。"
+        },
+        {
+            "question": "この店はどんな場所に位置していますか？",
+            "answer": "この店は京畿道の平沢市に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 82,
+        "QA": 126
+    }
+}

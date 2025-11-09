@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_024378",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-09-01",
+        "domain": "음식점",
+        "title": "蓮池洞スンドゥブ ( 연지동순두부 )"
+    },
+    "text": "蓮池洞スンドゥブ ( 연지동순두부 )\\n\nソウル特別市 鐘路区 大学路1キル 10\\n\n各種スンドゥブ料理が味わえるお店です。ソウル特別市のジョンノ区に位置した韓国料理店です。おすすめは海鮮スンドゥブです。",
+    "QA": [
+        {
+            "question": "このお店の名前は何ですか？",
+            "answer": "このお店の名前は연지동순두부 ( 연지동순두부 )です。"
+        },
+        {
+            "question": "このお店はどこにありますか？",
+            "answer": "このお店はソウル特別市 鐘路区 大学路1キル 10にあります。"
+        },
+        {
+            "question": "このお店ではどんな料理が味わえますか？",
+            "answer": "このお店では各種スンドゥブ料理が味わえます。特におすすめは海鮮スンドゥブです。"
+        }
+    ],
+    "word_Count": {
+        "text": 76,
+        "QA": 105
+    }
+}

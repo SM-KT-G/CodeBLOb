@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_021921",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/buil-hoetjip",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "富一刺身専門店"
+    },
+    "text": "富一刺身専門店\\n\n慶尚南道 巨済市 長承浦路 101\\n\n30年以上の伝統を持つお店です。慶尚南道のゴジェ市に位置した海鮮専門店です。おすすめは刺身の盛り合わせです。",
+    "QA": [
+        {
+            "question": "このお店はどんな料理を提供していますか？",
+            "answer": "当店は富一刺身専門店で、新鮮な海鮮料理を提供しています。特におすすめは刺身の盛り合わせです。"
+        },
+        {
+            "question": "このお店の場所はどこですか？",
+            "answer": "当店は慶尚南道の巨済市に位置しており、長承浦路101番地にあります。"
+        },
+        {
+            "question": "このお店の歴史はどのくらいありますか？",
+            "answer": "当店は30年以上の伝統を持つお店です。"
+        },
+        {
+            "question": "このお店のおすすめメニューはありますか？",
+            "answer": "当店のおすすめは刺身の盛り合わせです。新鮮で美味しい海鮮を楽しむことができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 61,
+        "QA": 155
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_024309",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "漁村 ( 어촌 )"
+    },
+    "text": "漁村 ( 어촌 )\n京畿道 ピョンテク市 セギョサンガ1ギル6\n新鮮な刺身が味わえる店です。代表的なメニューは活魚の刺身です。京畿道のピョンテク市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "この店は京畿道のピョンテク市に位置しています。"
+        },
+        {
+            "question": "この店の代表的なメニューは何ですか？",
+            "answer": "この店の代表的なメニューは活魚の刺身です。"
+        },
+        {
+            "question": "この店の特徴は何ですか？",
+            "answer": "この店は新鮮な刺身が味わえる店です。"
+        }
+    ],
+    "word_Count": {
+        "text": 63,
+        "QA": 77
+    }
+}

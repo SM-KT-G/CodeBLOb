@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_029774",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42020&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "하동 더모던리컴펜션"
+    },
+    "text": "河東里ペンションは花開市場の近くに位置し、自然の美しさが見られる緑の山ときれいな渓谷を鑑賞することができます。 このペンションは最善を尽くしてモダンな客室インテリアとラグジュアリーな付帯施設を提供します。 そのため、どことも比較にならない快適な宿泊をご体験いただけます。",
+    "QA": [
+        {
+            "question": "河東里ペンションはどこに位置していますか？",
+            "answer": "河東里ペンションは花開市場の近くに位置しています。"
+        },
+        {
+            "question": "河東里ペンションの周辺にはどんな自然の美しさがありますか？",
+            "answer": "河東里ペンションの周辺には緑の山ときれいな渓谷があります。"
+        },
+        {
+            "question": "河東里ペンションはどんな客室インテリアを提供していますか？",
+            "answer": "河東里ペンションはモダンな客室インテリアを提供しています。"
+        },
+        {
+            "question": "河東里ペンションにはどんな付帯施設がありますか？",
+            "answer": "河東里ペンションにはラグジュアリーな付帯施設があります。"
+        },
+        {
+            "question": "河東里ペンションの宿泊はどのような体験ができますか？",
+            "answer": "河東里ペンションの宿泊は快適な体験ができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 99,
+        "QA": 192
+    }
+}

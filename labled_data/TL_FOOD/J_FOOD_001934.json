@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001934",
+        "source": "도서",
+        "writer": "안혜연",
+        "ISBN_ISNN": "978-89-6053-269-4",
+        "version": "초판",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "그 카페에 가다",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2012-09-05",
+        "domain": "음식점",
+        "title": "노아브루어스"
+    },
+    "text": "NOAH BREWERSは、広安里から広安小学校の方に直進すると、ハンバダ中学校の前に位置するロースタリーカフェです。 このカフェは広安駅の3番出口からお越しいただくことができます。 NOAH BREWERSは広安里フィルターコーヒーを専門とし、様々な飲み物を販売しています。 メニューにはプリン、スイカジュース、フィルターアインシュペナー、white、ココナッツラテ、チョコラテ、アイスティー、ミルクティー、朝清フィナンシェにクッキーがあります。",
+    "QA": [
+        {
+            "question": "NOAH BREWERSはどこにありますか？",
+            "answer": "NOAH BREWERSは広安小学校の近く、ハンバダ中学校の前に位置しています。"
+        },
+        {
+            "question": "NOAH BREWERSの特徴は何ですか？",
+            "answer": "NOAH BREWERSは広安里フィルターコーヒーを専門とし、様々な飲み物を提供しています。"
+        },
+        {
+            "question": "NOAH BREWERSのメニューには何がありますか？",
+            "answer": "NOAH BREWERSのメニューにはプリン、スイカジュース、フィルターアインシュペナー、white、ココナッツラテ、チョコラテ、アイスティー、ミルクティー、朝清フィナンシェにクッキーがあります。"
+        },
+        {
+            "question": "NOAH BREWERSへのアクセス方法はありますか？",
+            "answer": "NOAH BREWERSへは広安駅の3番出口から直接行くことができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 164,
+        "QA": 232
+    }
+}

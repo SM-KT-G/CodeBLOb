@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_012497",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101933",
+        "collectedDate": "2023-10-06",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "대구국제뮤지컬페스티벌"
+    },
+    "text": "大邱国際ジールフェスティバル \\n\n大邱国際フェスティバル(Daegu International Musical Festival),略称DIMF)は大邱広域市が中心都市の構築と世界初専門フェスティバルを標榜し、2006年から始まりました。イベントを皮切りに毎年夏、文化体育観光部の後援で開催されています。海外プロダクションとの継続的な交流を通じた海外招待作品と国内創作支援事業、未来人材発掘システムの一環である大学生フェスティバルと市民と共に開催される開幕祝賀公演&閉幕イベント(DIMFアワード)、老若男女誰でも参加できる多彩な付帯イベントを行っています。2019年6月21日から7月8日まで13回の行事が行われます。\\n\n",
+    "QA": [
+        {
+            "question": "DIMFはいつ始まりましたか？",
+            "answer": "DIMFは2006年から始まりました。"
+        },
+        {
+            "question": "DIMFはどの都市で開催されますか？",
+            "answer": "DIMFは大邱広域市で開催されます。"
+        },
+        {
+            "question": "DIMFはどのようなフェスティバルですか？",
+            "answer": "DIMFは世界初の専門フェスティバルで、国際的な交流や創作支援事業などが行われます。"
+        },
+        {
+            "question": "DIMFの開催期間はいつですか？",
+            "answer": "DIMFの開催期間は2019年6月21日から7月8日までです。"
+        },
+        {
+            "question": "DIMFの主なイベントは何ですか？",
+            "answer": "DIMFの主なイベントは海外招待作品、国内創作支援事業、大学生フェスティバル、開幕祝賀公演&閉幕イベント(DIMFアワード)などです。"
+        }
+    ],
+    "word_Count": {
+        "text": 231,
+        "QA": 193
+    }
+}

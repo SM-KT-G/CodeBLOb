@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_001005",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2023-02-16",
+        "domain": "문화/역사관광",
+        "title": "KBS 울산홀"
+    },
+    "text": "KBS蔚山ホール (KBS 울산홀)\\n\n蔚山広域市南区繁栄路212(達洞)\\n\nKBS蔚山ホールでは蔚山市民が多様な文化に接することができるよう自主的に映画上映をしており、蔚山ホールで運営しているバドミントンは地域市民の生活体育として定着したという。また、コンサート、文化芸術祭、放送プログラム製作、博覧会、展示会、講演会、体育一般行事と観覧人員約2,000人収容のKBS文化ホールと、便利な駐車スペース、最新音響施設を備えている。",
+    "QA": [
+        {
+            "question": "KBS蔚山ホールはどの地域に位置していますか？",
+            "answer": "KBS蔚山ホールは蔚山広域市南区繁栄路212の達洞に位置しています。"
+        },
+        {
+            "question": "KBS蔚山ホールではどのようなイベントが開催されますか？",
+            "answer": "KBS蔚山ホールではコンサート、文化芸術祭、放送プログラム製作、博覧会、展示会、講演会、体育一般行事などが開催されます。"
+        },
+        {
+            "question": "KBS蔚山ホールはどれくらいの人数を収容できますか？",
+            "answer": "KBS蔚山ホールは約2,000人を収容することができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 159,
+        "QA": 146
+    }
+}

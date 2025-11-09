@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_029930",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/congeehouse",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "Congee House"
+    },
+    "text": "Congee House\\n\nソウル特別市 中区 忠武路2街 12-19, 3階\\n\n2500年伝統のタラク(駝酪)粥とアワビ粥をお客様の健康と保養のために1998年から明洞で、今まで変わらない味を維持しているコンジハウス",
+    "QA": [
+        {
+            "question": "コンジハウスはどこにありますか？",
+            "answer": "コンジハウスはソウル特別市中区の忠武路2街にあります。"
+        },
+        {
+            "question": "コンジハウスで提供されている料理は何ですか？",
+            "answer": "コンジハウスでは、2500年以上の伝統を持つタラク(駝酪)粥とアワビ粥を提供しています。"
+        },
+        {
+            "question": "コンジハウスの料理はどのような特徴がありますか？",
+            "answer": "コンジハウスの料理は、1998年から明洞で提供されている伝統的な味を持ち続けています。"
+        },
+        {
+            "question": "コンジハウスは健康と保養に良い料理を提供していますか？",
+            "answer": "はい、コンジハウスはお客様の健康と保養を考え、特にタラク(駝酪)粥とアワビ粥を提供しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 81,
+        "QA": 183
+    }
+}

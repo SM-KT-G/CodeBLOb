@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_009106",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-01",
+        "domain": "음식점",
+        "title": "ソソヤ ( 소소야 )"
+    },
+    "text": "ソソヤ \n京畿道 平沢市 平沢5路20ボンキル 38\n厳選された食材で、店主が直接調理を行います。おすすめは牛カルビです。京畿道のピョンテク市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "この韓食専門店の場所はどこですか？",
+            "answer": "この韓食専門店は京畿道の平沢市に位置しています。"
+        },
+        {
+            "question": "店主が直接調理を行う料理はありますか？",
+            "answer": "はい、店主が直接調理を行う料理としては牛カルビがおすすめです。"
+        },
+        {
+            "question": "この店ではどのような食材を使用していますか？",
+            "answer": "この店では厳選された食材を使用しています。具体的な食材については案内が必要です。"
+        },
+        {
+            "question": "この韓食専門店は何を専門としていますか？",
+            "answer": "この韓食専門店は韓国料理を専門としています。"
+        }
+    ],
+    "word_Count": {
+        "text": 61,
+        "QA": 143
+    }
+}

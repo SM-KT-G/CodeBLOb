@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_062242",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/view?relicId=216695",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "동제 접시"
+    },
+    "text": "銅製の皿 (동제 접시)\\n\n国籍/時代: 韓国-朝鮮 材質: 金属-銅合金 分類: 食生活 - 食べ物 - 皿 大きさ: 高さ27cm、直径8cm、高さ25cm、直径19cm、高さ23cm、直径78cm、高さ21cm、直径82cm 修正案: 国籍と時代: 韓国-朝鮮の 材質: 金属の銅合金 分類: 食生活の一部となる食べ物の皿 サイズ: 高さ27cm、直径8cm、高さ25cm、直径19cm、高さ23cm、直径78cm、高さ21cm、直径82cm",
+    "QA": [
+        {
+            "question": "この銅製の皿はどこの国のものですか？",
+            "answer": "この銅製の皿は韓国-朝鮮のものです。"
+        },
+        {
+            "question": "この銅製の皿は何時代のものですか？",
+            "answer": "この銅製の皿は朝鮮時代のものです。"
+        },
+        {
+            "question": "この皿の材質は何ですか？",
+            "answer": "この皿の材質は銅合金です。"
+        },
+        {
+            "question": "この皿はどのように分類されますか？",
+            "answer": "この皿は食生活の一部となる食べ物の皿と分類されます。"
+        },
+        {
+            "question": "この皿の大きさはどのくらいですか？",
+            "answer": "この皿の大きさは高さ27cm、直径8cm、高さ25cm、直径19cm、高さ23cm、直径78cm、高さ21cm、直径82cmです。"
+        }
+    ],
+    "word_Count": {
+        "text": 165,
+        "QA": 161
+    }
+}

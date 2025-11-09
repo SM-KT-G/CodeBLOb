@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_100965",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=990&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=00380000&ccbaCtcd=35&ccbaCpno=3413500380000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1984-04-01",
+        "domain": "문화/역사관광",
+        "title": "정충복비"
+    },
+    "text": "全羅北道文化財資料、長水邑の郷校の前に位置する碑で、朝鮮時代中期の人であるチョン·ギョンソンの義義を称えています。チョン·ギョンソンの号は忠僕で、文禄·慶長の役当時、郷校内の文廟を守っていましたが、倭敵の部隊がここ長水地域に侵入して文廟に至ると、門を固く閉めてひざまずいて「もし門に入ろうとしたら、私の首を切って持ち上げなさい」と言ったこのような彼の凛々しく堂々とした態度に感服した倭敵は、「本聖域アザラシ(ここは聖域アザラシ)」と書いたメモを残して自ら退いた。これにより被害を防ぐことができ、ほとんどが焼失した他の地域の郷校に比べ、ここだけは完全に保存することができました。その後、人々は彼の義義を尊ぶと思い、この場所に碑を建てました。碑閣の中にある碑は低い四角い台石の上に碑身を立てて屋根石を載せた姿で、朝鮮憲宗12年(1846)に建てられた",
+    "QA": [
+        {
+            "question": "誰がこの碑を称えていますか？",
+            "answer": "チョン·ギョンソンの義義を称えています。"
+        },
+        {
+            "question": "いつこの碑が建てられましたか？",
+            "answer": "朝鮮憲宗12年(1846)に建てられました。"
+        },
+        {
+            "question": "どのような態度を取ったことで、チョン·ギョンソンは倭敵を感服させましたか？",
+            "answer": "門を固く閉めてひざまずいて「もし門に入ろうとしたら、私の首を切って持ち上げなさい」と言ったことで、凛々しく堂々とした態度を取りました。"
+        },
+        {
+            "question": "なぜ倭敵はこの場所を立ち退いたのですか？",
+            "answer": "チョン·ギョンソンの凛々しく堂々とした態度に感服し、「本聖域アザラシ(ここは聖域アザラシ)」と書いたメモを残して自ら退いたからです。"
+        },
+        {
+            "question": "この碑はどのような形状をしていますか？",
+            "answer": "碑閣の中にある碑は低い四角い台石の上に碑身を立てて屋根石を載せた姿をしています。"
+        }
+    ],
+    "word_Count": {
+        "text": 273,
+        "QA": 234
+    }
+}

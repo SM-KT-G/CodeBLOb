@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_080570",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=250&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=13&ccbaAsno=02860000&ccbaCtcd=11&ccbaCpno=1331102860000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1981-09-25",
+        "domain": "문화/역사관광",
+        "title": "서울 고려대학교 중앙도서관"
+    },
+    "text": "ソウル高麗大学校ジャン·ジャン\\n\nソウル城北区安岩洞1番地\\n\n1937年、私的、高麗大学の前身である普成専門学校が開校30周年を記念して建てた図書館建物である。1935年に工事を開始して1937年に完成した5階建てで設計は本館を設計したパクドンジンがした。現在この建物は大学棟と教授研究室として利用している。角の部分の西洋の中世風の5階塔の頂上部分は精巧なゴシック式チャンジャンシクとして最も目立つ。形は雄大で細部的には繊細な花崗岩で建てたゴシック式建築である。",
+    "QA": [
+        {
+            "question": "この図書館建物が建てられたのはいつですか？",
+            "answer": "この図書館建物は1937年に建てられました。"
+        },
+        {
+            "question": "この図書館建物の設計者は誰ですか？",
+            "answer": "この図書館建物の設計者はパクドンジンです。"
+        },
+        {
+            "question": "この建物は何階建てですか？",
+            "answer": "この建物は5階建てです。"
+        },
+        {
+            "question": "この建物の現在の利用用途は何ですか？",
+            "answer": "この建物は大学棟と教授研究室として利用されています。"
+        },
+        {
+            "question": "この建物の特徴的な部分は何ですか？",
+            "answer": "この建物の特徴的な部分は、角の部分の西洋の中世風の5階塔の頂上部分で、精巧なゴシック式チャンジャンシクとして最も目立ちます。"
+        }
+    ],
+    "word_Count": {
+        "text": 170,
+        "QA": 167
+    }
+}

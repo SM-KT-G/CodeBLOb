@@ -1,0 +1,31 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_054026",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42060&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "보령 바다마을펜션"
+    },
+    "text": "海辺の前に位置する保寧のペンションは、天北の美しい景色を誇っています。 ペンションは秀麗な海の景色とともに広々とした山や野原が広がっており、すべての方向に美しい風景を楽しむことができます。 必ず午後6時以降に入室される場合は、事前にご連絡ください。",
+    "QA": [
+        {
+            "question": "このペンションはどのような景色を楽しむことができますか？",
+            "answer": "ペンションは秀麗な海の景色とともに広々とした山や野原が広がっており、すべての方向に美しい風景を楽しむことができます。"
+        },
+        {
+            "question": "ペンションには何時までに入室する必要がありますか？",
+            "answer": "必ず午後6時以降に入室される場合は、事前にご連絡ください。"
+        }
+    ],
+    "word_Count": {
+        "text": 90,
+        "QA": 102
+    }
+}

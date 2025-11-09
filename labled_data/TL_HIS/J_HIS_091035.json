@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_091035",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=989&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=00370000&ccbaCtcd=31&ccbaCpno=3413100370000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1983-09-19",
+        "domain": "문화/역사관광",
+        "title": "영월루"
+    },
+    "text": "寧越楼\\n\n京畿道驪州市驪州邑上里136-6番地\\n\n京畿道文化財資料、''ヨンウォルル''は、京畿道驪州(キョンギド・ヨジュ)郊外地域である南漢江周辺にある二階の楼閣(樓閣;四方眺められるように建てた建物)だ。ヨンウォルルのすぐ下には大きな岩の崖があるが、岩には''マアム(馬巖)''という字が刻まれている。これはこの岩から、驪州の地名が由来なる''黄麻(黃馬)''と''ヨマ(驪馬)''が湧き出たとしてマアムと呼ばれたという。また、こちらは昔から当代の詩人と墨客(墨客;食べを持って字を書いたり、絵を描く人)たちが訪ね詩と風流を楽しんだ名所だったという。ヨンウォルルの建築時期ははっきりしていない。建物構造から見て、18世紀末のものと推定されるこの建物は低い基壇(基壇;敷地を取り、敷地を正しく整えた後にターボより一層高く積んだ壇)や左右に細長い胴体とおだてて聞こえてきた屋根の比例が適切に調和を成している。前面4間、側面2間規模の2階楼閣に、二重の軒の''八部(八)''字形の形の合掌屋根をしている。",
+    "QA": [
+        {
+            "question": "ヨンウォルルはどこにありますか？",
+            "answer": "寧越楼は京畿道驪州市驪州邑上里136-6番地にあります。"
+        },
+        {
+            "question": "ヨンウォルルは何世紀に建てられましたか？",
+            "answer": "ヨンウォルルの建築時期ははっきりしていませんが、18世紀末のものと推定されています。"
+        },
+        {
+            "question": "ヨンウォルルの周辺に何がありますか？",
+            "answer": "ヨンウォルルのすぐ下には大きな岩の崖があります。岩には『マアム(馬巖)』という字が刻まれています。"
+        },
+        {
+            "question": "ヨンウォルルの建物構造はどのような特徴がありますか？",
+            "answer": "ヨンウォルルは低い基壇や左右に細長い胴体とおだてて聞こえてきた屋根の比例が適切に調和を成している建物です。"
+        },
+        {
+            "question": "ヨンウォルルは昔からどのような人々に愛されていましたか？",
+            "answer": "ヨンウォルルは昔から当代の詩人と墨客たちが訪ね、詩と風流を楽しんだ名所だったと言われています。"
+        }
+    ],
+    "word_Count": {
+        "text": 332,
+        "QA": 239
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_010608",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://apis.data.go.kr/1400000/service/cultureInfoService2/mntInfoOpenAPI2",
+        "collectedDate": "2023-11-22",
+        "publishedDate": "2020-12-01",
+        "domain": "자연관광",
+        "title": "사마산"
+    },
+    "text": "司馬山 (사마산)\\n\n忠清南道公州市牛城面普興里\\n\n山の高さ : 308.4m , 概して300m以下の丘陵性山地を形成し、茂城山·司馬山などがそびえている。 錦江が東南面系を曲流し、正安川と維鳩川が東側の面系と中部をそれぞれ通り錦江に流れ込む。",
+    "QA": [
+        {
+            "question": "司馬山はどのような地形を形成していますか？",
+            "answer": "司馬山は概して300m以下の丘陵性山地を形成しており、茂城山や他の山々と共にそびえています。"
+        },
+        {
+            "question": "司馬山の高さは何メートルですか？",
+            "answer": "司馬山の高さは308.4メートルです。"
+        },
+        {
+            "question": "司馬山の周辺にはどのような川が流れていますか？",
+            "answer": "錦江が東南面系を曲流し、正安川と維鳩川が東側の面系と中部をそれぞれ通り、錦江に流れ込んでいます。"
+        }
+    ],
+    "word_Count": {
+        "text": 91,
+        "QA": 126
+    }
+}

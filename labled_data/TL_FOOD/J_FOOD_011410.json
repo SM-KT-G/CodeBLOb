@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_011410",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2023-05-30",
+        "domain": "음식점",
+        "title": "바캉스샤브샤브"
+    },
+    "text": "バカンスシャブシャブ (바캉스샤브샤브)\\n\n済州特別自治道済州市朝天邑新北路595\\n\n全羅南道霊岩郡に位置するバカンス専門店バカンスは、霊岩海に近いバカンス専門店です。新鮮な野菜と軽いスープ、そして肉が調和した「しゃぶしゃぶ」をご提供します。",
+    "QA": [
+        {
+            "question": "バカンスシャブシャブはどこに位置していますか？",
+            "answer": "バカンスシャブシャブは済州特別自治道済州市朝天邑新北路595に位置しています。"
+        },
+        {
+            "question": "バカンスシャブシャブの特徴は何ですか？",
+            "answer": "バカンスシャブシャブは新鮮な野菜と軽いスープ、そして肉が調和した「しゃぶしゃぶ」を提供しています。"
+        },
+        {
+            "question": "バカンスシャブシャブの近くには何がありますか？",
+            "answer": "バカンスシャブシャブは霊岩海に近い場所に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 90,
+        "QA": 132
+    }
+}

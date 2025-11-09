@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001982",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-30",
+        "domain": "음식점",
+        "title": "Pane Pasta 鐘路（빠네파스타 종로）"
+    },
+    "text": "Pane Pasta 鐘路（빠네파스타 종로）\\n\nソウル特別市 鐘路区 紫霞門路7キル 11\\n\n本格的なイタリアかまどピザ・パスタ専門店です。代表的なメニューはマルゲリータピザです。ソウル特別市キョンボックン駅の近くに位置した洋食専門店です。",
+    "QA": [
+        {
+            "question": "このレストランはどこにありますか？",
+            "answer": "鐘路区紫霞門路7キル 11にあります。"
+        },
+        {
+            "question": "このレストランの特徴は何ですか？",
+            "answer": "本格的なイタリアかまどピザ・パスタ専門店で、マルゲリータピザが代表的なメニューです。"
+        },
+        {
+            "question": "このレストランはどの駅の近くにありますか？",
+            "answer": "ソウル特別市キョンボックン駅の近くに位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 90,
+        "QA": 103
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001555",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-08-27",
+        "domain": "음식점",
+        "title": "CAFÉ TERRACE ( 카페테라스 )"
+    },
+    "text": "CAFÉ TERRACE ( 카페테라스 )\\n\nソウル特別市 鐘路区 サムチョンロ102-2\\n\nワッフルがおいしいカフェです。ソウル特別市のジョンノ区に位置した韓食です。代表的なメニューはワッフルです。",
+    "QA": [
+        {
+            "question": "このカフェの場所はどこですか？",
+            "answer": "カフェテラスはソウル特別市鐘路区サムチョンロ102-2に位置しています。"
+        },
+        {
+            "question": "カフェテラスの代表的なメニューは何ですか？",
+            "answer": "カフェテラスの代表的なメニューはワッフルです。"
+        },
+        {
+            "question": "韓食以外にも、他のメニューはありますか？",
+            "answer": "はい、カフェテラスでは韓食以外にもさまざまなメニューを提供しています。"
+        },
+        {
+            "question": "ワッフルはどのような味ですか？",
+            "answer": "ワッフルは甘くてサクサクした食感で、とてもおいしいです。"
+        },
+        {
+            "question": "カフェテラスの雰囲気はどのような感じですか？",
+            "answer": "カフェテラスは居心地の良い雰囲気で、落ち着いた空間です。"
+        }
+    ],
+    "word_Count": {
+        "text": 75,
+        "QA": 178
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_074211",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/collectionList#######",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "분채"
+    },
+    "text": "分債 (분채)\\n\n国籍/時代: 日本 材質: ギター 分類: 主生活 - 生活用品/家電 - 文房具 - 画房用具 サイズ: 長さ86cm、長さ89cm、長さ87cm、長さ98cm、長さ96cm、長さ97cm、長さ98cm、長さ98cm、直径19cm 国籍と時代は日本です。 このギターの材質はギターです。 分類としては主生活用品の中に入りますが、家電、文房具、画房用具にも使えるでしょう。 サイズは長さが86cm、89cm、87cm、98cm、96cm、97cm、98cm、98cmで、直径は19cmです。",
+    "QA": [
+        {
+            "question": "このギターの国籍は何ですか？",
+            "answer": "このギターの国籍は日本です。"
+        },
+        {
+            "question": "このギターの時代はいつですか？",
+            "answer": "このギターの時代は日本です。"
+        },
+        {
+            "question": "このギターの材質は何ですか？",
+            "answer": "このギターの材質はギターです。"
+        },
+        {
+            "question": "このギターはどの分類に入りますか？",
+            "answer": "このギターは主生活用品の中に入りますが、家電、文房具、画房用具にも使えます。"
+        },
+        {
+            "question": "このギターのサイズはどうなっていますか？",
+            "answer": "このギターのサイズは長さが86cm、89cm、87cm、98cm、96cm、97cm、98cm、98cmで、直径は19cmです。"
+        }
+    ],
+    "word_Count": {
+        "text": 187,
+        "QA": 165
+    }
+}

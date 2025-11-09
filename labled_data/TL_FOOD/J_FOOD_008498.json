@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_008498",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-05",
+        "domain": "음식점",
+        "title": "ソウルフグジプ ( 서울복집 )"
+    },
+    "text": "ソウルフグジプ ( 서울복집 )\\n\n全羅南道 順天市 ワンジ3ギル18-24\\n\n様々なふぐ料理が味わえる店です。全羅南道のスンチョン市に位置した韓食専門店です。おすすめはふぐちりです。",
+    "QA": [
+        {
+            "question": "この店の住所はどこですか？",
+            "answer": "全羅南道順天市ワンジ3ギル18-24に位置しています。"
+        },
+        {
+            "question": "この店の特産料理は何ですか？",
+            "answer": "この店では様々なふぐ料理が楽しめます。特におすすめはふぐちりです。"
+        },
+        {
+            "question": "この店の営業時間は何時から何時までですか？",
+            "answer": "営業時間は店舗によって異なる場合がありますので、直接お店にお問い合わせください。"
+        },
+        {
+            "question": "この店の電話番号は何ですか？",
+            "answer": "申し訳ありませんが、電話番号の情報は提供されていません。"
+        },
+        {
+            "question": "この店は予約が必要ですか？",
+            "answer": "予約は必要です。混雑を避けるために、事前に予約をしてから訪れることをおすすめします。"
+        }
+    ],
+    "word_Count": {
+        "text": 68,
+        "QA": 179
+    }
+}

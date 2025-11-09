@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_019874",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2020-12-04",
+        "domain": "음식점",
+        "title": "羅州コムタン 平沢古徳( 나주곰탕 평택고덕 )"
+    },
+    "text": "羅州コムタン 平沢古徳( 나주곰탕 평택고덕 )\\n\n京畿道 平沢市 京畿大路 987-1 D-205号\\n\n伝統的な方法で煮込んだ、澄んだスープの滋養食が味わえる店です。 京畿道のピョンテク市に位置した韓国料理店です。代表的なメニューはナジュコムタンです。",
+    "QA": [
+        {
+            "question": "この店の特徴は何ですか？",
+            "answer": "ロ州コムタン 平沢古徳は、伝統的な方法で煮込んだ、澄んだスープの滋養食を提供している店です。"
+        },
+        {
+            "question": "店の場所はどこですか？",
+            "answer": "ロ州コムタン 平沢古徳は、京畿道 平沢市 京畿大路 987-1 D-205号に位置しています。"
+        },
+        {
+            "question": "代表的なメニューは何ですか？",
+            "answer": "ロ州コムタン 平沢古徳の代表的なメニューは「ナジュコムタン」です。"
+        }
+    ],
+    "word_Count": {
+        "text": 94,
+        "QA": 119
+    }
+}

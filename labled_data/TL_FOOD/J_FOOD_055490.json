@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_055490",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/bap-jal-haneun-jip",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "パプザルハヌンジプ"
+    },
+    "text": "パプザルハヌンジプ\\n\n慶尚北道 アンドン市 ソフ面 グィヨリギル31\\n\n様々な韓国料理が味わえる店です。慶尚北道のアンドン市に位置した韓食専門店です。代表的なメニューは牛肉プルゴギです。",
+    "QA": [
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "この店は慶尚北道のアンドン市に位置しています。"
+        },
+        {
+            "question": "この店の名前は何ですか？",
+            "answer": "この店の名前はパプザルハヌンジプです。"
+        },
+        {
+            "question": "この店ではどのような料理が味わえますか？",
+            "answer": "この店では様々な韓国料理が味わえます。特に代表的なメニューは牛肉プルゴギです。"
+        }
+    ],
+    "word_Count": {
+        "text": 69,
+        "QA": 92
+    }
+}

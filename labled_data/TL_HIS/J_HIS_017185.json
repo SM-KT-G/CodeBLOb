@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_017185",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1087&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=01950000&ccbaCtcd=38&ccbaCpno=3413801950000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1993-01-08",
+        "domain": "문화/역사관광",
+        "title": "밀양 박양춘 여표비각"
+    },
+    "text": "密陽パク·ヤンチュン 如表碑閣 (밀양 박양춘 여표비각)\\n\n慶尚南道密陽市釜北面松浦路194(房浦里)\\n\n慶尚南道文化財資料 , 如表碑とは旌閭(忠臣·孝子·烈女などの言動と精神を称えるために彼らを表彰する)の印として立てておく碑で、この碑は朝鮮時代の人であるパク·ヤンチュンの孝行を称えている。 パク·ヤンチュン(1561~1631)は壬辰倭乱中に彼が真心を込めて仕えていた祖母と母親が一緒に亡くなると、難を避けず昼夜を問わず大きく号泣した。 ここを通っていた倭将が彼の孝心に感服して「出天之孝(天から授かった孝子)」という字を書いて倭兵からの侵犯を防いだが、これが呂表碑の由来となったという。 現在、碑は塀に囲まれた碑閣の中に設けられている。",
+    "QA": [
+        {
+            "question": "パク·ヤンチュンは何を称えられていますか？",
+            "answer": "パク·ヤンチュンは孝行を称えられています。"
+        },
+        {
+            "question": "パク·ヤンチュンがどのような人物でしたか？",
+            "answer": "パク·ヤンチュンは壬辰倭乱中に孝心を示し、倭兵からの侵犯を防いだとされる人物です。"
+        },
+        {
+            "question": "呂表碑の由来は何ですか？",
+            "answer": "呂表碑の由来は、パク·ヤンチュンの孝心に感服した倭将が彼のために「出天之孝」という字を書き、倭兵からの侵犯を防いだことです。"
+        },
+        {
+            "question": "現在の呂表碑の状況はどのようですか？",
+            "answer": "現在、呂表碑は塀に囲まれた碑閣の中に設けられています。"
+        }
+    ],
+    "word_Count": {
+        "text": 239,
+        "QA": 163
+    }
+}

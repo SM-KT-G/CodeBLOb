@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_020695",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2020-12-04",
+        "domain": "음식점",
+        "title": "名人餃子 平沢古徳( 명인만두 평택고덕 )"
+    },
+    "text": "名人餃子 平沢古徳( 명인만두 평택고덕 )\\n\n京畿道 平沢市 京畿大路 987\\n\n100％韓国産の新鮮な野菜だけを使用している店です。 代表的なメニューはカルビ餃子です。京畿道のピョンテク市に位置した韓国料理店です。",
+    "QA": [
+        {
+            "question": "名人餃子 平沢古徳はどこに位置していますか？",
+            "answer": "名人餃子 平沢古徳は京畿道 平沢市 京畿大路 987に位置しています。"
+        },
+        {
+            "question": "名人餃子 平沢古徳ではどのような食材を使用していますか？",
+            "answer": "名人餃子 平沢古徳では100％韓国産の新鮮な野菜だけを使用しています。"
+        },
+        {
+            "question": "名人餃子 平沢古徳の代表的なメニューは何ですか？",
+            "answer": "名人餃子 平沢古徳の代表的なメニューはカルビ餃子です。"
+        },
+        {
+            "question": "平沢古徳はどの市に位置していますか？",
+            "answer": "平沢古徳は京畿道のピョンテク市に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 81,
+        "QA": 156
+    }
+}

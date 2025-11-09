@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_013548",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42080&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "한화리조트 설악 쏘라노 본관 운영 정책"
+    },
+    "text": "チェックイン時間は15:00で、チェックアウト時間は11:00です。 予約が確定していない場合、予約番号が送信されず、待機状態になります。 予約が不可能な場合、払い戻しが行われ、客室の詳細タイプは先着順で割り当てられます。 歯磨き粉と歯ブラシは提供されておらず、付帯施設をご利用の際に費用が発生することがあります。",
+    "QA": [
+        {
+            "question": "チェックイン時間は何時ですか？",
+            "answer": "チェックイン時間は15:00です。"
+        },
+        {
+            "question": "チェックアウト時間は何時ですか？",
+            "answer": "チェックアウト時間は11:00です。"
+        },
+        {
+            "question": "予約番号はいつ送信されますか？",
+            "answer": "予約が確定していない場合、予約番号は送信されず、待機状態になります。"
+        },
+        {
+            "question": "予約が不可能な場合はどうなりますか？",
+            "answer": "予約が不可能な場合、払い戻しが行われ、客室の詳細タイプは先着順で割り当てられます。"
+        },
+        {
+            "question": "歯磨き粉と歯ブラシは提供されますか？",
+            "answer": "歯磨き粉と歯ブラシは提供されておらず、付帯施設をご利用の際に費用が発生することがあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 115,
+        "QA": 173
+    }
+}

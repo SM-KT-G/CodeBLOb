@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_011425",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-09-01",
+        "domain": "음식점",
+        "title": "バクサネガルビ（박사네갈비）"
+    },
+    "text": "バクサネガルビ（박사네갈비）\\n\nソウル特別市 鐘路区 仁寺洞キル 14-5\\n\nソウル特別市のインサ洞に位置したバーベキュー専門店です。おすすめは韓牛ロースです。最上級の韓牛が味わえるお店です。",
+    "QA": [
+        {
+            "question": "このレストランの名前は何ですか？",
+            "answer": "バクサネガルビ（박사네갈비）です。"
+        },
+        {
+            "question": "このレストランはどこにありますか？",
+            "answer": "ソウル特別市 鐘路区 仁寺洞キル 14-5に位置しています。"
+        },
+        {
+            "question": "このレストランのおすすめメニューは何ですか？",
+            "answer": "韓牛ロースがおすすめです。最上級の韓牛が味わえます。"
+        }
+    ],
+    "word_Count": {
+        "text": 71,
+        "QA": 93
+    }
+}

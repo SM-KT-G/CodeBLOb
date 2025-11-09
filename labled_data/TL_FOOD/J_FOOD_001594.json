@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001594",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2020-12-29",
+        "domain": "음식점",
+        "title": "chicken phong237( 치킨퐁237 )"
+    },
+    "text": "chicken phong237( 치킨퐁237 )\\n\n京畿道 平沢市 チョンアムロ5-1\\n\n特製ソースで作ったチキン料理が味わえます。京畿道のピョンテク市に位置した韓食専門店です。おすすめはチキンです。",
+    "QA": [
+        {
+            "question": "このレストランの場所はどこですか？",
+            "answer": "チキンボン237は京畿道平沢市チョンアムロ5-1に位置しています。"
+        },
+        {
+            "question": "このレストランの特徴は何ですか？",
+            "answer": "チキンボン237は特製ソースで作ったチキン料理が味わえる韓食専門店です。"
+        },
+        {
+            "question": "おすすめのメニューは何ですか？",
+            "answer": "チキンボン237のおすすめはチキンです。"
+        }
+    ],
+    "word_Count": {
+        "text": 76,
+        "QA": 100
+    }
+}

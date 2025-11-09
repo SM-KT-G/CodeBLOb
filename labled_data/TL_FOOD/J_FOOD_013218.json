@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_013218",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "ヘオルム( 해오름 )"
+    },
+    "text": "ヘオルム( 해오름 )\\n\n慶尚北道 安東市 中央路 76\\n\n安東の名物サバの塩焼きとチムタク(鶏肉と野菜の蒸し物)だけでなく、各種韓国料理を取り扱っています。慶尚北道のアンドン（安東）駅に位置した韓食専門店です。おすすめはサバ焼きです。",
+    "QA": [
+        {
+            "question": "ヘオルム（ 해오름 ）はどこにありますか？",
+            "answer": "ヘオルム（ 해오름 ）は慶尚北道安東市中央路76に位置しています。"
+        },
+        {
+            "question": "ヘオルムのおすすめメニューは何ですか？",
+            "answer": "ヘオルムでは、名物のサバの塩焼きやチムタク（鶏肉と野菜の蒸し物）だけでなく、各種韓国料理も取り扱っていますが、特におすすめはサバ焼きです。"
+        },
+        {
+            "question": "ヘオルムの場所はどうやって行けますか？",
+            "answer": "ヘオルムは慶尚北道のアンドン（安東）駅に位置していますので、アンドン駅から徒歩で行くことができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 88,
+        "QA": 154
+    }
+}

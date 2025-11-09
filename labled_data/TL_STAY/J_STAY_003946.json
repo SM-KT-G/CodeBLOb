@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_003946",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42060&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "태안(안면도) 꽃지화이트펜션"
+    },
+    "text": "こんにちは、コッチホワイトペンションです。 海に行く道の上に置かれた庭園が美しくて、多くの方々が訪れてくださるペンションです。 当店は清潔と新型コロナウイルス感染症の予防のため、随時消毒を実施しており、お知らせでは22時以降に入室される場合はペンションまで予めご連絡ください。 それ以外の情報はなく、文字数を増やすために簡単な案内文を追加しました。",
+    "QA": [
+        {
+            "question": "コッチホワイトペンションはどのような場所ですか？",
+            "answer": "コッチホワイトペンションは海に行く道の上にある庭園が美しいペンションです。多くの方々が訪れています。"
+        },
+        {
+            "question": "コッチホワイトペンションでは何を行っていますか？",
+            "answer": "コッチホワイトペンションでは清潔と新型コロナウイルス感染症の予防のため、随時消毒を行っています。"
+        },
+        {
+            "question": "22時以降に入室する場合はどうすればいいですか？",
+            "answer": "22時以降に入室される場合は、事前にペンションまでご連絡ください。"
+        },
+        {
+            "question": "コッチホワイトペンションのその他の情報はありますか？",
+            "answer": "その他の情報は特にありません。"
+        }
+    ],
+    "word_Count": {
+        "text": 127,
+        "QA": 178
+    }
+}

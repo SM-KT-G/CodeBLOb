@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_000003",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101933",
+        "collectedDate": "2023-10-06",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "군산항"
+    },
+    "text": " \\n\n群山港は全羅北道群山市錦江河口にある港である。 長項港と向い側に位置している。 元都心の内港と西側の新港に分かれる。 港湾鉄道では元都心に群山貨物船があるが、現在使われておらず、新港にチョン線が建設された。 錦江の向い側に長項港がある。\\n\n",
+    "QA": [
+        {
+            "question": "群山港はどこに位置していますか？",
+            "answer": "群山港は全羅北道群山市錦江河口に位置しています。"
+        },
+        {
+            "question": "群山港は何のために使われていますか？",
+            "answer": "群山港は貨物船のために使われています。"
+        },
+        {
+            "question": "群山港にはどのような鉄道がありますか？",
+            "answer": "群山港には元都心に群山貨物船がありますが、現在は使われていません。また、新港にはチョン線が建設されています。"
+        },
+        {
+            "question": "群山港の向い側にはどのような港がありますか？",
+            "answer": "群山港の向い側には長項港があります。"
+        },
+        {
+            "question": "群山港は何のために分かれていますか？",
+            "answer": "群山港は元都心の内港と西側の新港に分かれています。"
+        }
+    ],
+    "word_Count": {
+        "text": 91,
+        "QA": 170
+    }
+}

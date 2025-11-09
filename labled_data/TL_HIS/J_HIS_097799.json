@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_097799",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1088&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=01980000&ccbaCtcd=35&ccbaCpno=3413501980000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2022-12-16",
+        "domain": "문화/역사관광",
+        "title": "임실 이문원 고택"
+    },
+    "text": "朝鮮時代、全羅北道文化財資料、掌握遠征を務めた李文源（イ·ムンウォン、1613~1685）の古宅は、1650年頃に建てられたものと伝わり（中文采上梁門を通じて1831年に再建を確認）、郷村四大夫の家屋の形を保っています。大門を過ぎると、東側にサランチェがあり、西側には塀に囲まれた母屋の一郭があります。母屋は正面5間、側面2間の胴体に両翼部が3間突出して中庭を包む形です",
+    "QA": [
+        {
+            "question": "この古宅はいつ建てられましたか？",
+            "answer": "この古宅は1650年頃に建てられたものと伝わります。"
+        },
+        {
+            "question": "この古宅は何で囲まれていますか？",
+            "answer": "この古宅は塀に囲まれており、母屋の一郭があります。"
+        },
+        {
+            "question": "この古宅の形は何ですか？",
+            "answer": "この古宅は郷村四大夫の家屋の形を保っており、大門を過ぎると、東側にサランチェがあり、西側には母屋の一郭があります。"
+        },
+        {
+            "question": "この古宅を再建したのはいつですか？",
+            "answer": "この古宅は中文采上梁門を通じて1831年に再建を確認されました。"
+        },
+        {
+            "question": "この古宅を所有していた人物について教えてください。",
+            "answer": "この古宅の所有者は李文源（イ·ムンウォン、1613~1685）で、遠征を務めたことで知られています。"
+        }
+    ],
+    "word_Count": {
+        "text": 135,
+        "QA": 202
+    }
+}

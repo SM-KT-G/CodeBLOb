@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001511",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2020-12-21",
+        "domain": "음식점",
+        "title": "BULGOGI BRITHERS 蚕室ロッテワールド ( 불고기브라더스 잠실롯데월드 )"
+    },
+    "text": "BULGOGI BR OTHERS 蚕室ロッテワールド ( 불고기브라더스 잠실롯데월드 )\\n\nソウル特別市 松坡区 オリンピック路 240\\n\nソウル特別市のソンパ区に位置した弁当専門店で、当日に作る手作り弁当を提供しています。おすすめは様々な種類のお弁当です。",
+    "QA": [
+        {
+            "question": "このお店の場所はどこですか？",
+            "answer": "このお店はソウル特別市のソンパ区に位置しています。具体的な住所はオリンピック路240番地です。"
+        },
+        {
+            "question": "このお店のおすすめは何ですか？",
+            "answer": "このお店では様々な種類の手作り弁当を提供していますが、特におすすめは何種類かあります。お客様の好みや食材の制限に応じて、最適なお弁当をご提供することができます。"
+        },
+        {
+            "question": "このお店ではどのような弁当を提供していますか？",
+            "answer": "このお店では当日に作る手作り弁当を提供しています。様々な種類のお弁当があり、お客様の好みに合わせて選ぶことができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 97,
+        "QA": 174
+    }
+}

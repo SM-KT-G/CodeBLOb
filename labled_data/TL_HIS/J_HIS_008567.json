@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_008567",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1209&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=79&ccbaAsno=02320000&ccbaCtcd=34&ccbaCpno=4413402320000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2006-03-02",
+        "domain": "문화/역사관광",
+        "title": "공주 금강철교"
+    },
+    "text": "公州金剛鉄橋 (공주 금강철교)\\n\n忠清南道公州市錦城洞164-1番地新館洞553号\\n\n1933年 , 国家登録文化財 , この鉄橋は交通上重要な地域である公州邑と長旨面を連結するために建設した施設で、漢江以南で最も長い橋だった。 当時、鉄橋は大部分が全国的に鉄道橋として建設されたが、金剛鉄橋は道路橋として建設され、その例が珍しく、ワラント構造の常現在を曲弦アーチ形態に曲げたデザインは当時の橋梁建設会社の新しい章を開いたと評価されている。",
+    "QA": [
+        {
+            "question": "この鉄橋はいつ建設されましたか？",
+            "answer": "1933年に建設されました。"
+        },
+        {
+            "question": "この鉄橋はどのような構造ですか？",
+            "answer": "金剛鉄橋はワラント構造の常現在を曲弦アーチ形態に曲げたデザインです。"
+        },
+        {
+            "question": "金剛鉄橋はどのような地域を連結していましたか？",
+            "answer": "金剛鉄橋は公州邑と長旨面を連結していました。"
+        },
+        {
+            "question": "金剛鉄橋はなぜ特別な評価を受けていますか？",
+            "answer": "金剛鉄橋は当時の橋梁建設会社の新しい章を開くデザインであり、道路橋として建設された珍しい例として評価されています。"
+        },
+        {
+            "question": "金剛鉄橋はどういった役割を果たしていましたか？",
+            "answer": "金剛鉄橋は交通上重要な地域である公州邑と長旨面を連結するために建設された施設でした。"
+        }
+    ],
+    "word_Count": {
+        "text": 163,
+        "QA": 196
+    }
+}

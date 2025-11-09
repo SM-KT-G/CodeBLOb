@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_017219",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/gongju",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "公州（大田）サービスエリア フードコート韓食ノルブプデチゲ  洋食 うどん ラーメン"
+    },
+    "text": "公州（大田）サービスエリア フードコート韓食ノルブプデチゲ 洋食 うどん ラーメン\\n\n忠清南道 公州市 タンジンヨンドクゴソクドロ 72\\n\n公州（大田）サービスエリア",
+    "QA": [
+        {
+            "question": "このサービスエリアの名前は何ですか？",
+            "answer": "公州（大田）サービスエリア"
+        },
+        {
+            "question": "このサービスエリアはどの都道府県に位置していますか？",
+            "answer": "忠清南道"
+        },
+        {
+            "question": "このサービスエリアにはどのような食べ物がありますか？",
+            "answer": "韓食、洋食、うどん、ラーメンがあります。特にノルブプデチゲがおすすめです。"
+        },
+        {
+            "question": "このサービスエリアの住所は何ですか？",
+            "answer": "公州市タンジンヨンドクゴソクドロ72"
+        }
+    ],
+    "word_Count": {
+        "text": 62,
+        "QA": 117
+    }
+}

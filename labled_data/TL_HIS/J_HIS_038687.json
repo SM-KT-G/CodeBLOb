@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_038687",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=172&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=15870000&ccbaCtcd=11&ccbaCpno=1121115870000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2008-12-22",
+        "domain": "문화/역사관광",
+        "title": "조선지도"
+    },
+    "text": "朝鮮地図 (조선지도)\\n\nソウル冠岳区冠岳路1,103洞ソウル大学奎章閣韓国学研究院棟(新林洞、ソウル大学)\\n\n18世紀、宝物、朝鮮後期に製作された全国郡県地図帳で、彩色筆写本だ。 全羅道を除く7つの道の郡県地図を集めたもので、計7冊で構成されている。 第1冊に咸鏡道（ハムギョンド、23枚）、第2冊に平安道（ピョンアンド、42枚）、第3冊に江原道（カンウォンド、27枚）、第4冊に黄海道（ファンヘド、23枚）、第5冊に京畿道（キョンギド）（33枚）が収録されている。 1つの郡県が1つの道葉で描かれており、一部の道葉に非弁士印が押されている。本地図帳のすべての郡県地図は20里方眼(方眼の1辺の長さが4.2cm)の上に描かれている。 この方案は縮尺の役割をするため、本地図帳は全国のすべての郡県が同じ縮尺で描かれている、珍しい地図帳だ。 また、郡県の姿や地理情報の位置もやはり伝統時代の地図の中で最も正確だ。 韓国の地図発達史を明確に示す官撰地図で、学術的·歴史的価値が高い。",
+    "QA": [
+        {
+            "question": "この地図帳は何世紀に製作されましたか？",
+            "answer": "この地図帳は18世紀に製作されました。"
+        },
+        {
+            "question": "この地図帳は何のために製作されましたか？",
+            "answer": "この地図帳は全国の郡県地図を集めたもので、韓国の地図発達史を明確に示すために製作されました。"
+        },
+        {
+            "question": "この地図帳には何の道が収録されていますか？",
+            "answer": "この地図帳には咸鏡道、平安道、江原道、黄海道、京畿道が収録されています。"
+        },
+        {
+            "question": "この地図帳の特徴は何ですか？",
+            "answer": "この地図帳の特徴は、すべての郡県が同じ縮尺で描かれており、正確な地理情報が描かれていることです。"
+        },
+        {
+            "question": "この地図帳の価値は何ですか？",
+            "answer": "この地図帳は学術的・歴史的な価値が高く、韓国の地図発達史を明確に示しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 323,
+        "QA": 202
+    }
+}

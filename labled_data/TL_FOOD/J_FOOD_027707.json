@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_027707",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-06",
+        "domain": "음식점",
+        "title": "青島ラム肉の串焼き ( 청도양꼬치 )"
+    },
+    "text": "青島ラム肉の串焼き ( 청도양꼬치 )\\n\nソウル特別市 永登浦区 ヨンジュンロ6ギル23-4\\n\nラム肉の料理だけでなく、様々な中華料理も味わえる店です。おすすめはラム肉の串焼きです。ソウル特別市のヨンドゥンポ区に位置した中華専門店です。",
+    "QA": [
+        {
+            "question": "このレストランの名前は何ですか？",
+            "answer": "青島ラム肉の串焼きです。"
+        },
+        {
+            "question": "このレストランはどこにありますか？",
+            "answer": "ソウル特別市の永登浦区に位置しています。"
+        },
+        {
+            "question": "他にも何種類の料理が提供されていますか？",
+            "answer": "ラム肉の串焼き以外にも様々な中華料理が味わえます。"
+        },
+        {
+            "question": "このレストランのおすすめ料理は何ですか？",
+            "answer": "おすすめはラム肉の串焼きです。"
+        }
+    ],
+    "word_Count": {
+        "text": 88,
+        "QA": 106
+    }
+}

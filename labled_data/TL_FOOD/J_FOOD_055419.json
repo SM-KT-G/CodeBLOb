@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_055419",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/dokkaebi-bulgogi",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "ドケビブルゴギ"
+    },
+    "text": "ドケビブルゴギ\\n\nソウル特別市 ジュン区 ウルジロ 43ギル 38\\n\nソウル特別市のトンデムンに位置したプルゴギ専門店です。おすすめは牛肉プルゴギです。韓国の伝統料理であるプルコギ(焼肉)を味わうことができます。",
+    "QA": [
+        {
+            "question": "このお店の場所はどこですか？",
+            "answer": "ソウル特別市のトンデムンに位置したプルゴギ専門店です。"
+        },
+        {
+            "question": "おすすめのメニューは何ですか？",
+            "answer": "おすすめは牛肉プルゴギです。"
+        },
+        {
+            "question": "プルゴギとはどのような料理ですか？",
+            "answer": "プルゴギは韓国の伝統料理である焼肉です。"
+        },
+        {
+            "question": "このお店では他の料理も提供していますか？",
+            "answer": "申し訳ありませんが、このお店はプルゴギ専門店ですので、他の料理は提供しておりません。"
+        }
+    ],
+    "word_Count": {
+        "text": 79,
+        "QA": 123
+    }
+}

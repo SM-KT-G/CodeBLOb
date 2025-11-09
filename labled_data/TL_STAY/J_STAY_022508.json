@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_022508",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42040&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "순천 순천만포시즌펜션"
+    },
+    "text": "四季折々の自然が息づく生態公園、順天湾、快適で暖かさが感じられるフォーシーズンペンションへようこそ。 夢とロマンの生態公園、順天湾、快適で楽しい旅になるよう最善を尽くします。 22時以降に入室される場合、ペンションまで予めご連絡ください。 ありがとうございます。",
+    "QA": [
+        {
+            "question": "この生態公園はどのような自然が息づいていますか？",
+            "answer": "四季折々の自然が息づいています。"
+        },
+        {
+            "question": "順天湾はどのような場所ですか？",
+            "answer": "順天湾は夢とロマンのある場所で、自然の美しさが感じられます。"
+        },
+        {
+            "question": "フォーシーズンペンションでどのようなサービスが提供されていますか？",
+            "answer": "フォーシーズンペンションでは快適で暖かさを感じられる滞在が提供されています。"
+        },
+        {
+            "question": "22時以降にペンションに入室する場合はどうすればいいですか？",
+            "answer": "22時以降に入室される場合は、事前にペンションまでご連絡ください。"
+        },
+        {
+            "question": "順天湾周辺で楽しめるアクティビティはありますか？",
+            "answer": "順天湾周辺では、自然を満喫できるさまざまなアクティビティが楽しめます。"
+        }
+    ],
+    "word_Count": {
+        "text": 96,
+        "QA": 203
+    }
+}

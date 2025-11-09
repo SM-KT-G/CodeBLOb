@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_093690",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=61&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=03820000&ccbaCtcd=26&ccbaCpno=1122603820000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1963-01-21",
+        "domain": "문화/역사관광",
+        "title": "울주 청송사지 삼층석탑"
+    },
+    "text": "統一新羅時代に位置する宝物である南岩山の下の青松寺跡には三層石塔がある。 塔は2段の基壇の上に3層の塔身を立てた姿だ。 基壇は角と中央に柱を刻み、仕上げ石の上に別の石で2段の角張った塊石を挟んで上の石を支えている。 塔身は胴体石と屋根石でできており、1階の胴体石は大きくて長い姿を見せ、2階の胴体石は大きさが減った。 各石の角には柱の形が刻まれている。 屋根石の下には5段の支えがあり、軒は短くて水平で、醜女が厚くなり屋根の四隅のつり上げが弱くなった。 塔のてっぺんには頭飾りを支える路盤があるが、その他にはない。 この塔は基壇と塔身の比例が良くなく、1階建ての石と屋根石の大きさの差も明確で造形的にも完璧ではない。 しかし、新羅石塔の一例として注目に値する。 また、1階の石の塊石が他の石になっている点は、9世紀以降に造成されたものと見られる。 1962年に塔が修理される時、上の階の基壇から銅製舎利箱が発見されたが、その中には青銅如来立像1体をはじめガラス玉16点、勾玉1点、棺玉1点など30点余りが含まれていた。",
+    "QA": [
+        {
+            "question": "南岩山の下の青松寺跡に何があるのですか？",
+            "answer": "三層石塔があります。"
+        },
+        {
+            "question": "石塔の形はどのような姿ですか？",
+            "answer": "石塔は2段の基壇の上に3層の塔身を立てた姿です。"
+        },
+        {
+            "question": "基壇には何が刻まれているのですか？",
+            "answer": "基壇には角と中央に柱が刻まれています。"
+        },
+        {
+            "question": "塔身はどのような石でできていますか？",
+            "answer": "塔身は胴体石と屋根石でできています。"
+        },
+        {
+            "question": "塔のてっぺんに何がありますか？",
+            "answer": "塔のてっぺんには頭飾りを支える路盤があります。"
+        },
+        {
+            "question": "修理された際に何が発見されましたか？",
+            "answer": "修理された際に上の階の基壇から銅製舎利箱が発見されました。"
+        }
+    ],
+    "word_Count": {
+        "text": 336,
+        "QA": 165
+    }
+}

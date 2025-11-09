@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_080455",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=924&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=24&ccbaAsno=00220000&ccbaCtcd=34&ccbaCpno=2443400220000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2005-10-31",
+        "domain": "문화/역사관광",
+        "title": "서산유상묵가옥"
+    },
+    "text": "瑞山ユサンムク・カオク\\n\n忠清南道瑞山市イムンアンギル32-12(雲山面)\\n\n1925年、忠清南道・民俗文化財、ㅡの字型のサランチェ(居間棟)や鉤型の母屋が並んで配置されており、二つの空間は門屋と塀で明確に区別されている。出入り口も区別され、それぞれ眼帯文系愛のくぎりに出入りすることができ、…の字型の門屋翼廊にある中文で愛庭と中庭に通じるようになっている。敷地全体がフェンスによって区切られており、後面は急な傾斜地になっている。大地全面的に塀やサイッダムはマクドルダムジャンになっていて、後面の垣根は築地の上に垂木をろ過し、韓国の屋根瓦を置いた。ユサンムク家屋は、瑞山地域に残っている伝統的な両班家屋である。",
+    "QA": [
+        {
+            "question": "この家屋が建てられたのはいつですか？",
+            "answer": "1925年に建てられました。"
+        },
+        {
+            "question": "この家屋の場所はどこですか？",
+            "answer": "忠清南道瑞山市イムンアンギル32-12(雲山面)にあります。"
+        },
+        {
+            "question": "この家屋の特徴は何ですか？",
+            "answer": "二つの空間が門屋と塀で区別され、後面が急な傾斜地になっており、伝統的な両班家屋であることです。"
+        },
+        {
+            "question": "この家屋の敷地はどのように区切られていますか？",
+            "answer": "フェンスによって区切られており、後面の垣根は築地の上に垂木をろ過し、韓国の屋根瓦を置いています。"
+        },
+        {
+            "question": "この家屋の中に何が配置されていますか？",
+            "answer": " “二つの空間は門屋と塀で区別されており、出入り口も区別されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 225,
+        "QA": 191
+    }
+}

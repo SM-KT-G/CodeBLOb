@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_037900",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=514&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=01830000&ccbaCtcd=38&ccbaCpno=2113801830000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1979-12-29",
+        "domain": "문화/역사관광",
+        "title": "창녕 관룡사 사적기"
+    },
+    "text": "昌寧観龍寺事跡記 (창녕 관룡사 사적기)\\n\n慶尚南道昌寧郡\\n\n慶尚南道有形文化財、観龍寺の創建と重修過程など観龍寺の来歴を伝える記録で、史跡記1冊と木版11枚で構成されている。 史跡記は3つの部分で構成されているが、1733年(英祖9)にシン·ユハン(1681~?)が作成した本文と山人明学が翌年に書いた跋文、寺内の各殿閣と付属庵に保管された経典と器物の目録などが羅列された付録がそれだ。 史跡記には新羅時代に観龍寺を建立するようになった由来や沿革などが詳しく記されているだけでなく、寺の重修とその工事を担当した住職の名前、工事にかかった費用なども記されており、観龍寺の歴史を理解する上で重要な資料となる。 史蹟記の著者も子孫に観龍寺の歴史を伝えようとこの史蹟記を作成したという。",
+    "QA": [
+        {
+            "question": "観龍寺はどこにありますか？",
+            "answer": "観龍寺は慶尚南道昌寧郡にあります。"
+        },
+        {
+            "question": "観龍寺は何のために建てられましたか？",
+            "answer": "観龍寺は新羅時代に建立され、仏教の寺院として建てられました。"
+        },
+        {
+            "question": "観龍寺は何度も修復されたのですか？",
+            "answer": "はい、観龍寺は重修されることがありました。史蹟記には重修の過程や担当した住職の名前、費用などが詳しく記されています。"
+        },
+        {
+            "question": "観龍寺の史蹟記は何で構成されていますか？",
+            "answer": "観龍寺の史蹟記は、本文と跋文、経典や器物の目録などの付録からなっています。"
+        },
+        {
+            "question": "観龍寺の史蹟記を作成したのは誰ですか？",
+            "answer": "観龍寺の史蹟記は、シン・ユハンという人物が作成しました。彼は1733年に本文を作成し、山人明学が翌年に跋文を書きました。"
+        }
+    ],
+    "word_Count": {
+        "text": 251,
+        "QA": 211
+    }
+}

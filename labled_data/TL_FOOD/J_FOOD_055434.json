@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_055434",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/dongsung-sutbulgalbi",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "ドンスンスッブルガルビ"
+    },
+    "text": "ドンスンスッブルガルビ\\n\nソウル特別市 ジョンノ区 デハクロ9ギル 26\\n\nこの店はソウル特別市のテハンノに位置した韓食専門店です。代表的なメニューは豚カルビです。炭火焼き専門店です。",
+    "QA": [
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "この店はソウル特別市のテハンノに位置しています。"
+        },
+        {
+            "question": "この店の代表的なメニューは何ですか？",
+            "answer": "この店の代表的なメニューは豚カルビです。"
+        },
+        {
+            "question": "この店は何の専門店ですか？",
+            "answer": "この店は韓食専門店です。"
+        },
+        {
+            "question": "この店は何を提供していますか？",
+            "answer": "この店は炭火焼き専門店です。"
+        }
+    ],
+    "word_Count": {
+        "text": 68,
+        "QA": 94
+    }
+}

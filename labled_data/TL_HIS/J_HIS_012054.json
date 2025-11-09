@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_012054",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=782&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=00230000&ccbaCtcd=32&ccbaCpno=2333200230000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1976-06-17",
+        "domain": "문화/역사관광",
+        "title": "영월용담굴"
+    },
+    "text": "寧越龍潭窟 (영월용담굴)\\n\n江原特別自治道 寧越郡ベリコルキル45(金浦面)\\n\n時代不詳 , 江原特別自治道 記念物 , 寧越龍潭窟は石灰岩で構成された垂直洞窟で、全長250mだ。 洞窟内の温度は常に15~18℃を維持している。 洞窟は4つの広い空間に分かれている。 そのうち2ヶ所は周囲が100mに達し噴火口のような感じを与え、龍が潜んでいたという伝説が伝えられている。 また、周囲にはつららのような形をした鍾乳石と床から突出して上がってきた石筍、そして鍾乳石と石筍が会って柱を成した石柱などが屏風のように囲まれている。 もう一ヵ所には周囲に1.5m内外の石筍が仙女のように並んで立っているということで、仙女湯と名付けられた深さ50cm、広さ15坪の水たまりがあり、水たまりの底には美しい洞窟真珠が敷かれている。 洞窟の中にはサザエ、カニエビなど20種余りの生物が住んでいる。",
+    "QA": [
+        {
+            "question": "寧越龍潭窟はどのような洞窟ですか？",
+            "answer": "寧越龍潭窟は石灰岩で構成された垂直洞窟で、全長250mです。洞窟内の温度は常に15~18℃を維持しています。"
+        },
+        {
+            "question": "洞窟は何つの広い空間に分かれていますか？",
+            "answer": "洞窟は4つの広い空間に分かれています。そのうち2ヶ所は周囲が100mに達し噴火口のような感じを与えます。"
+        },
+        {
+            "question": "洞窟の中にはどのような鍾乳石や石筍がありますか？",
+            "answer": "洞窟の中にはつららのような形をした鍾乳石と床から突出して上がってきた石筍、そして鍾乳石と石筍が会って柱を成した石柱などが屏風のように囲まれています。"
+        },
+        {
+            "question": "洞窟の中にはどのような生物が住んでいますか？",
+            "answer": "洞窟の中にはサザエ、カニエビなど20種余りの生物が住んでいます。"
+        },
+        {
+            "question": "洞窟の中にはどのような特徴的な場所がありますか？",
+            "answer": "洞窟の中には仙女湯と呼ばれる深さ50cm、広さ15坪の水たまりがあり、水たまりの底には美しい洞窟真珠が敷かれています。"
+        }
+    ],
+    "word_Count": {
+        "text": 287,
+        "QA": 277
+    }
+}

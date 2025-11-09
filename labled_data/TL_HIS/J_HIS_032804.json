@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_032804",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2016-11-25",
+        "domain": "문화/역사관광",
+        "title": "太和江駅(태화강역)"
+    },
+    "text": "太和江駅\n蔚山広域市 南区 産業路 654 (三山洞）\n太和江駅（旧蔚山駅）は1921年11月に開通し、1992年8月に新しい駅舎が完成したことから現在の位置である南区三山洞に移転しました。2010年11月1日にKTX蔚山駅が新設されたことから駅名が太和江駅に変更されました。",
+    "QA": [
+        {
+            "question": "太和江駅はいつ開業しましたか？",
+            "answer": "太和江駅（旧蔚山駅）は1921年11月に開業しました。"
+        },
+        {
+            "question": "太和江駅はどこに移転しましたか？",
+            "answer": "太和江駅は1992年8月に新しい駅舎が完成したことから現在の位置である南区三山洞に移転しました。"
+        },
+        {
+            "question": "なぜ太和江駅の駅名が変更されましたか？",
+            "answer": "2010年11月1日にKTX蔚山駅が新設されたことから、旧蔚山駅は太和江駅に駅名が変更されました。"
+        }
+    ],
+    "word_Count": {
+        "text": 101,
+        "QA": 127
+    }
+}

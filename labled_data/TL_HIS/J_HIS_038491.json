@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_038491",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=427&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=00670000&ccbaCtcd=36&ccbaCpno=2113600670000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1977-10-20",
+        "domain": "문화/역사관광",
+        "title": "장성 기옹 영정"
+    },
+    "text": "長城碁翁影幀 (장성 기옹 영정)\\n\n全羅南道長城郡\\n\n朝鮮、全羅南道有形文化財、朝鮮時代の文臣であるギオン·ビョンジョンラク先生を描いた肖像画だ。 先生の還暦の時、ある僧侶が描いたものだと伝えるが、朝鮮時代の士大夫を描いた一般的な肖像画様式とは距離があり風俗画的な人物画のようだ。 すなわち、士大夫の厳粛さと儒学者の雰囲気が漂う雰囲気を描こうとするよりは、むしろ先生に対して伝えてくるエピソードを形象化している。 画面の中に配置された碁盤·碁石·酒瓶·煙管などは先生が長城邑長安里に居住しながら東区の前に池を掘り、その中で島を作って亭子を建て囲碁と文が上手な名人たちと共に囲碁および酒と文で余生を送ったという彼に対するエピソードを伝えるための要素といえる。 建具と衣服を整備し、両手を前に集めて攻守姿勢を取った姿勢はあまり自然ではなく、彼の人格と個性を伝えるには足りない。 ただ、画面構成上、特異な肖像画の一例として注目に値する。",
+    "QA": [
+        {
+            "question": "この肖像画は誰を描いていますか？",
+            "answer": "この肖像画はギオン·ビョンジョンラク先生を描いています。"
+        },
+        {
+            "question": "この肖像画はどのような時期に描かれましたか？",
+            "answer": "この肖像画は先生の還暦の時に描かれました。"
+        },
+        {
+            "question": "この肖像画の特徴は何ですか？",
+            "answer": "この肖像画は風俗画的な人物画であり、先生に対するエピソードを形象化しています。"
+        },
+        {
+            "question": "肖像画に描かれている要素について教えてください。",
+            "answer": "肖像画には碁盤・碁石・酒瓶・煙管などが描かれており、先生が囲碁や酒と文で余生を送ったエピソードを伝えています。"
+        },
+        {
+            "question": "この肖像画の画面構成はどのような特徴がありますか？",
+            "answer": "この肖像画の画面構成は特異であり、先生の人格と個性を伝えるために建具や衣服を整備し、攻守姿勢を取った姿勢が描かれています。"
+        }
+    ],
+    "word_Count": {
+        "text": 306,
+        "QA": 223
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_028284",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42060&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "논산 힐스테이펜션"
+    },
+    "text": "快適で安らかな幸せな空間であるヒルステイにようこそ。 ここは大屯山と水落渓谷に位置する清浄地域で、朝になるとさえずる山鳥の鳴き声が目を覚ます楽園です。 客室には高品格のインテリアと屋外バーベキュー場が完備されており、恋人または家族と一緒に美しく、童話の中の絵のようなヒルステイで幸せな思い出を作ることができます。 22時以降に入室される場合は、ペンションまで予めご連絡ください。",
+    "QA": [
+        {
+            "question": "ヒルステイはどこに位置していますか？",
+            "answer": "ヒルステイは大屯山と水落渓谷に位置しています。"
+        },
+        {
+            "question": "ヒルステイの周りにはどんな自然がありますか？",
+            "answer": "ヒルステイの周りには清浄地域で、さえずる山鳥の鳴き声で目が覚めるような自然があります。"
+        },
+        {
+            "question": "ヒルステイの客室にはどんな設備がありますか？",
+            "answer": "ヒルステイの客室には高品格のインテリアと屋外バーベキュー場が完備されています。"
+        },
+        {
+            "question": "ヒルステイは誰と一緒に滞在するのに適していますか？",
+            "answer": "ヒルステイは恋人または家族と一緒に滞在するのに適しています。"
+        },
+        {
+            "question": "ヒルステイでは何時までに入室する必要がありますか？",
+            "answer": "ヒルステイでは22時以降に入室される場合は、事前にペンションに連絡する必要があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 138,
+        "QA": 212
+    }
+}

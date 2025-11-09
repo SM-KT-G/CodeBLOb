@@ -1,0 +1,63 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_025769",
+        "source": "도서",
+        "writer": "임선영",
+        "ISBN_ISNN": "979-11-8651-740-6",
+        "version": "초판",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "셰프의 맛집",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2015-12-02",
+        "domain": "음식점",
+        "title": "하디르 커피"
+    },
+    "text": "一山バムリダンキルにあるArabic style cafeのJHhouseは住宅駐車場にあるコーナーキルにあります。 メニューにはシグネチャーハーディールコーヒー、カイマック、エッグタルト、アイラン、アメリカーノ、ラテ、バニララテ、フラットホワイトなどがあります。 価格はそれぞれ6,000ウォン、9,500ウォン、3,800ウォン、7,000ウォン、5,000ウォン、5,500ウォン、6,000ウォン、5,500ウォンです。",
+    "QA": [
+        {
+            "question": "JHhouseはどこにありますか？",
+            "answer": "JHhouseは一山バムリダンキルの住宅駐車場にあるコーナーキルにあります。"
+        },
+        {
+            "question": "JHhouseのメニューにはどんなものがありますか？",
+            "answer": "JHhouseのメニューにはシグネチャーハーディールコーヒー、カイマック、エッグタルト、アイラン、アメリカーノ、ラテ、バニララテ、フラットホワイトなどがあります。"
+        },
+        {
+            "question": "JHhouseのシグネチャーハーディールコーヒーの価格はいくらですか？",
+            "answer": "JHhouseのシグネチャーハーディールコーヒーは6,000ウォンです。"
+        },
+        {
+            "question": "JHhouseのカイマックの価格はいくらですか？",
+            "answer": "JHhouseのカイマックは9,500ウォンです。"
+        },
+        {
+            "question": "JHhouseのエッグタルトの価格はいくらですか？",
+            "answer": "JHhouseのエッグタルトは3,800ウォンです。"
+        },
+        {
+            "question": "JHhouseのアイランの価格はいくらですか？",
+            "answer": "JHhouseのアイランは7,000ウォンです。"
+        },
+        {
+            "question": "JHhouseのアメリカーノの価格はいくらですか？",
+            "answer": "JHhouseのアメリカーノは5,000ウォンです。"
+        },
+        {
+            "question": "JHhouseのラテの価格はいくらですか？",
+            "answer": "JHhouseのラテは5,500ウォンです。"
+        },
+        {
+            "question": "JHhouseのバニララテの価格はいくらですか？",
+            "answer": "JHhouseのバニララテは6,000ウォンです。"
+        },
+        {
+            "question": "JHhouseのフラットホワイトの価格はいくらですか？",
+            "answer": "JHhouseのフラットホワイトは5,500ウォンです。"
+        }
+    ],
+    "word_Count": {
+        "text": 156,
+        "QA": 423
+    }
+}

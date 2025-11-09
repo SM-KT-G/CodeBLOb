@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_002126",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2019-01-11",
+        "domain": "숙박",
+        "title": "The Hanok Guest House[韓国観光品質認証]（더 한옥"
+    },
+    "text": "The Hanok Guest House[韓国観光品質認証]\n全羅北道 全州市 完山区 銀杏路68-15 （校洞）\n「The Hanok Guest House」（ザ・ハノク／ザ・ハノック）は、伝統韓屋と近代韓屋様式を結びつけ、リモデリングによって独特で、部屋ごとに違った使い方のできる新しい韓屋へと生まれ変わりました。The Hanok Guest Houseは全州韓屋村のなかでも大きいほうで、7間の「字」型の本棟と、庭の向かいにある3間の別棟（サランチェ）で構成されています。広い庭が印象的で、違った大きさの2本の煙突が甕台と調和しています。\n 定員を制限し、快適な環境で休息と癒しを得られるようになっている他、すべての客室にはヒノキ、黄土、韓紙が使われ、韓屋の美に加えて健康への気遣いも感じられます。\n 母屋の4つの客室のうち「貴賓」はオンドルになったもっとも大きな客室となっており、マッサージチェアとキングサイズのベッド、洗面所2つを備え、2家族以上の団体での使用に適しています。「オウリム」は韓屋の高い天井を利用し、屋根裏部屋があるのが特徴です。\n 別棟にある3つの客室のうち、「ピョルハナ（星1）」にはオンドルの上に黄土ベッド、「ピョルセッ（星3）」には韓屋をリモデリングした際に出た古材を利用した2段ベッドが置かれています。 また、広い庭では月明りのもとで、お茶とおしゃべりを楽しむ月明り茶会が開かれます。",
+    "QA": [
+        {
+            "question": "The Hanok Guest Houseの場所はどこですか？",
+            "answer": "The Hanok Guest Houseは全羅北道全州市完山区銀杏路68-15（校洞）にあります。"
+        },
+        {
+            "question": "The Hanok Guest Houseはどのような特徴がありますか？",
+            "answer": "The Hanok Guest Houseは伝統韓屋と近代韓屋様式を結びつけ、リモデリングによって独特な雰囲気の韓屋に生まれ変わりました。広い庭と2本の煙突が特徴的です。"
+        },
+        {
+            "question": "The Hanok Guest Houseの客室はどのように使えますか？",
+            "answer": "The Hanok Guest Houseの客室はそれぞれ違った使い方ができます。例えば、「貴賓」はオンドルになり、マッサージチェアとキングサイズのベッド、洗面所2つを備えています。"
+        },
+        {
+            "question": "The Hanok Guest Houseの客室にはどのような素材が使われていますか？",
+            "answer": "The Hanok Guest Houseの客室にはヒノキ、黄土、韓紙が使われています。これにより、韓屋の美しさと健康への気遣いを感じることができます。"
+        },
+        {
+            "question": "The Hanok Guest Houseで楽しめるイベントはありますか？",
+            "answer": "The Hanok Guest Houseでは広い庭で月明り茶会が開かれます。月明りのもとでお茶とおしゃべりを楽しむことができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 448,
+        "QA": 404
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_001985",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42090&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "서귀포 엠제이펜션"
+    },
+    "text": "MJペンションでは、お越しくださるすべての方々に幸せが共にすることを願っています。 私たちのペンションは、あなたの人生で最も素晴らしい旅行をプレゼントする準備ができています。 重要なお知らせとしては、22時以降に入室される場合、ペンションまで予めご連絡ください。 この事項を必ず守ってください。",
+    "QA": [
+        {
+            "question": "MJペンションでは、どのような幸せを共有することができますか？",
+            "answer": "私たちのペンションでは、お客様に最高の旅行体験を提供し、幸せを共有することを目指しています。"
+        },
+        {
+            "question": "MJペンションへの入室時間について教えてください。",
+            "answer": "22時以降に入室される場合は、事前にご連絡いただけると助かります。お客様の安全を考慮し、ペンションの管理を円滑に進めるため、このお願いをお守りください。"
+        }
+    ],
+    "word_Count": {
+        "text": 107,
+        "QA": 130
+    }
+}

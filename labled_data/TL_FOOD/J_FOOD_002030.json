@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_002030",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-05",
+        "domain": "음식점",
+        "title": "Raintree ( 레인트리 )"
+    },
+    "text": "Raintree ( 레인트리 )\nソウル特別市 西大門区 イファヨデ2ガギル24\n快適で居心地の良いカフェです。ソウル特別市のソデムン区に位置したカフェ（コーヒーショップ）です。おすすめはパンケーキです。",
+    "QA": [
+        {
+            "question": "レイントリーはどこにありますか？",
+            "answer": "レイントリーはソウル特別市の西大門区に位置しています。"
+        },
+        {
+            "question": "レイントリーはどのようなカフェですか？",
+            "answer": "レイントリーは快適で居心地の良いカフェです。"
+        },
+        {
+            "question": "レイントリーのおすすめメニューは何ですか？",
+            "answer": "レイントリーのおすすめはパンケーキです。"
+        }
+    ],
+    "word_Count": {
+        "text": 75,
+        "QA": 91
+    }
+}

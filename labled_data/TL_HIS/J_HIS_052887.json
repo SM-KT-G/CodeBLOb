@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_052887",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=964&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=00130000&ccbaCtcd=31&ccbaCpno=3413100130000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1983-09-19",
+        "domain": "문화/역사관광",
+        "title": "광주향교"
+    },
+    "text": "京畿道文化財資料郷校は、朝鮮時代の公立教育機関で、孔子と多くの聖賢たちの祭祀を行って地方の人たちを教育するところだ。郷校は、大成殿、東武ㆍの庶務、明倫堂、ドンジェㆍ書斎で構成されている。光州(クァンジュ)郷校は、1703年に建てられて現在位置にある。光州(クァンジュ)郷校は平地に配置された郷校の中では稀に甘い代わりにフェンスを使用している。明倫堂とドンジェㆍの書斎は前に配置されていて、大成殿と東廡と庶務は、後ろに配置されている。大成殿は前面3間、側面4間規模で切妻屋根を持っていて、明倫堂は前面5間、側面2間の規模であり、入母屋屋根を持っている。郷校にはまた、内三門、ウェサムムン、修復室がある。現在、郷校は、教育機能はなくなり、祭祀の役割だけが残っている。",
+    "QA": [
+        {
+            "question": "光州郷校はいつ建てられましたか？",
+            "answer": "光州郷校は1703年に建てられました。"
+        },
+        {
+            "question": "光州郷校はどのような構成になっていますか？",
+            "answer": "光州郷校は大成殿、東武ㆍの庶務、明倫堂、ドンジェㆍ書斎で構成されています。"
+        },
+        {
+            "question": "光州郷校はどのような役割を持っていますか？",
+            "answer": "現在、光州郷校は教育機能はなくなり、祭祀の役割だけが残っています。"
+        },
+        {
+            "question": "光州郷校の建物配置はどのようになっていますか？",
+            "answer": "明倫堂とドンジェㆍの書斎は前に配置されており、大成殿と東廡と庶務は、後ろに配置されています。"
+        },
+        {
+            "question": "光州郷校にはどんな施設がありますか？",
+            "answer": "光州郷校には内三門、ウェサムムン、修復室があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 242,
+        "QA": 190
+    }
+}

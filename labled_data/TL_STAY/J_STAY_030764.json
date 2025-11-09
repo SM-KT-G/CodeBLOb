@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_030764",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42010&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "안양 SJ boutique HOTEL"
+    },
+    "text": "平日の午後12時以前は、貸室時間を7時間ご利用いただけます。 待合室や宿泊をご利用の際は、身分証明書を必ずお持ちください。 身分証明書をお持ちでない場合は払い戻しできません。 コロナやその他の法定伝染病の自己隔離目的で客室を使用することはできません。 オンシーズンおよび特定日、祝日(前日含む)には料金が変動する場合があります。 当店のフロントでは無料でご提供しております。",
+    "QA": [
+        {
+            "question": "貸室時間は何時間ですか？",
+            "answer": "平日の午後12時以前は、貸室時間を7時間ご利用いただけます。"
+        },
+        {
+            "question": "待合室を利用する場合、身分証明書は必要ですか？",
+            "answer": "待合室や宿泊をご利用の際は、身分証明書を必ずお持ちください。"
+        },
+        {
+            "question": "身分証明書を持っていない場合、どうなりますか？",
+            "answer": "身分証明書をお持ちでない場合は払い戻しできません。"
+        },
+        {
+            "question": "自己隔離目的で客室を使用することはできますか？",
+            "answer": "コロナやその他の法定伝染病の自己隔離目的で客室を使用することはできません。"
+        },
+        {
+            "question": "特定日や祝日には料金が変動しますか？",
+            "answer": "オンシーズンおよび特定日、祝日(前日含む)には料金が変動する場合があります。"
+        },
+        {
+            "question": "フロントで提供されているものはありますか？",
+            "answer": "当店のフロントでは無料でご提供しております。"
+        }
+    ],
+    "word_Count": {
+        "text": 137,
+        "QA": 221
+    }
+}

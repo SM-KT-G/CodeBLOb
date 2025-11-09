@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_026424",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-09-01",
+        "domain": "음식점",
+        "title": "庭園炭火カルビ ( 정원숯불갈비 )"
+    },
+    "text": "庭園炭火カルビ ( 정원숯불갈비 )\\n\nソウル特別市 鐘路区 敦化門路9キル 8\\n\n韓国の焼肉文化を体験できる店です。 おすすめは味付け牛カルビです。ソウル特別市のジョンノ区に位置した韓国料理店です。",
+    "QA": [
+        {
+            "question": "この店の名前は何ですか？",
+            "answer": "庭園炭火カルビ ( 정원숯불갈비 ) です。"
+        },
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "ソウル特別市 鐘路区 敦化門路9キル 8 です。"
+        },
+        {
+            "question": "この店ではどんな料理を楽しむことができますか？",
+            "answer": "焼肉がメインの料理を楽しむことができます。特に味付け牛カルビはおすすめです。"
+        },
+        {
+            "question": "この店はどのような雰囲気ですか？",
+            "answer": "韓国の焼肉文化を体験できる店です。"
+        },
+        {
+            "question": "この店はどのくらいの価格帯ですか？",
+            "answer": "具体的な価格は記載されていませんが、一般的な焼肉レストランと同様の価格帯を想定してください。"
+        }
+    ],
+    "word_Count": {
+        "text": 74,
+        "QA": 167
+    }
+}

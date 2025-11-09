@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001930",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/n-grill",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "n-Grill"
+    },
+    "text": "n-Grill\\n\nソウル特別市 龍山区 南山公園キル105 )\\n\nn-Grillはソウルタワーで最も高い展望台5階にあり、360度パノラマのように開けたソウルの風景と夜景を眺めながらフルコースステーキメニューと様々なヴィンテージワインを楽しむことができます。 \n※ 回転速度120分で時計回りに1回転。 ",
+    "QA": [
+        {
+            "question": "n-Grillはどこにありますか？",
+            "answer": "n-Grillはソウル特別市 龍山区 南山公園キル105にあります。"
+        },
+        {
+            "question": "n-Grillでは何を楽しむことができますか？",
+            "answer": "n-Grillでは360度パノラマのように開けたソウルの風景と夜景を眺めながらフルコースステーキメニューと様々なヴィンテージワインを楽しむことができます。"
+        },
+        {
+            "question": "回転速度は何ですか？",
+            "answer": "回転速度は120分で時計回りに1回転です。"
+        }
+    ],
+    "word_Count": {
+        "text": 112,
+        "QA": 133
+    }
+}

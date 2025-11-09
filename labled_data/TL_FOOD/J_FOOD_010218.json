@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_010218",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-01",
+        "domain": "음식점",
+        "title": "ディセ農園 ( 디새농원 )"
+    },
+    "text": "ディセ農園 \n京畿道 平沢市 振威面 南部大路 627-33\n料理に使われる新鮮な野菜のほとんどを、家庭菜園で直接栽培しています。 代表的なメニューは韓定食です。京畿道のピョンテク市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "ディセ農園はどこに位置していますか？",
+            "answer": "ディセ農園は京畿道平沢市振威面南部大路627-33に位置しています。"
+        },
+        {
+            "question": "ディセ農園では主に何を栽培していますか？",
+            "answer": "ディセ農園では料理に使われる新鮮な野菜を家庭菜園で直接栽培しています。"
+        },
+        {
+            "question": "ディセ農園の代表的なメニューは何ですか？",
+            "answer": "ディセ農園の代表的なメニューは韓定食です。"
+        },
+        {
+            "question": "ディセ農園は何を専門としていますか？",
+            "answer": "ディセ農園は韓食を専門としています。"
+        }
+    ],
+    "word_Count": {
+        "text": 76,
+        "QA": 134
+    }
+}

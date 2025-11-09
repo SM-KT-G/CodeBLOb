@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_015678",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2020-11-26",
+        "domain": "음식점",
+        "title": "ワリョンキサ食堂( 와룡기사식당 )"
+    },
+    "text": "ワリョンキサ食堂( 와룡기사식당 )\\n\n慶尚北道 安東市 台里錦山路 8\\n\n20年伝統の韓国料理レストランです。慶尚北道のアンドン市に位置した韓食専門店です。おすすめはチムダクです。",
+    "QA": [
+        {
+            "question": "ワリョンキサ食堂はどこにありますか？",
+            "answer": "ワリョンキサ食堂は慶尚北道安東市台里錦山路8番地に位置しています。"
+        },
+        {
+            "question": "ワリョンキサ食堂のおすすめ料理は何ですか？",
+            "answer": "ワリョンキサ食堂のおすすめ料理はチムダクです。"
+        },
+        {
+            "question": "ワリョンキサ食堂は何年の伝統がありますか？",
+            "answer": "ワリョンキサ食堂は20年の伝統があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 68,
+        "QA": 100
+    }
+}

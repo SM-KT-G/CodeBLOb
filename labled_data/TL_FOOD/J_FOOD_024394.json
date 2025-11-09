@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_024394",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-05",
+        "domain": "음식점",
+        "title": "熱火炭火カルビ ( 열화숯불갈비 )"
+    },
+    "text": "熱火炭火カルビ ( 열화숯불갈비 )\\n\n全羅南道 海南郡 海南邑 ヘナムロ38\\n\n韓国式BBQが味わえる店です。代表的なメニューは炭火カルビです。全羅南道のヘナム郡に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "店の名前は何ですか？",
+            "answer": "店の名前は熱火炭火カルビです。"
+        },
+        {
+            "question": "お店の場所はどこですか？",
+            "answer": "お店は全羅南道海南郡海南邑のヘナムロ38にあります。"
+        },
+        {
+            "question": "どのような料理がありますか？",
+            "answer": "代表的なメニューは炭火カルビですが、韓国式BBQの他にも様々な韓国料理が楽しめます。"
+        },
+        {
+            "question": "このお店の特徴は何ですか？",
+            "answer": "このお店の特徴は韓国式のBBQが味わえることです。炭火カルビが特に人気です。"
+        },
+        {
+            "question": "このお店は韓国食専門店ですか？",
+            "answer": "はい、このお店は韓国食専門店です。"
+        }
+    ],
+    "word_Count": {
+        "text": 71,
+        "QA": 148
+    }
+}

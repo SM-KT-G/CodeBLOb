@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_052870",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42060&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "당진 블랑 호텔"
+    },
+    "text": "今日と明日のための休憩のために広い駐車スペースが確保されています。 パソコンはノーハードPCシステムで設置されており、ネットプレイの利用は客室内のパソコンでのみ可能です。 これを通じてNetflix、Tving、ディズニー、アップルテレビ、カカオテレビ、ユーチューブなど多様なプログラムを楽しむことができます。 Netflix視聴は個人アカウントでログインして利用できます。 宿は神秘的で荘厳な日の出が眺められる名所としておすすめです。 朝は赤い太陽の気運を存分に受けることができます。",
+    "QA": [
+        {
+            "question": "駐車スペースは何台分ありますか？",
+            "answer": "広い駐車スペースが確保されており、多くの車両を estacionar することができます。"
+        },
+        {
+            "question": "ネットプレイはどのパソコンで利用できますか？",
+            "answer": "ネットプレイは、客室内のパソコンでのみ利用することができます。"
+        },
+        {
+            "question": "Netflixの視聴はどのように利用できますか？",
+            "answer": "Netflixの視聴は、個人のアカウントにログインして利用することができます。"
+        },
+        {
+            "question": "どのようなプログラムを楽しむことができますか？",
+            "answer": "パソコンを通じて、Netflix、Tving、ディズニー、アップルテレビ、カカオテレビ、ユーチューブなど、多様なプログラムを楽しむことができます。"
+        },
+        {
+            "question": "宿の特徴は何ですか？",
+            "answer": "宿は神秘的で荘厳な雰囲気があり、名所として有名です。特に日の出が美しい景色を眺めることができます。"
+        },
+        {
+            "question": "朝に何を楽しむことができますか？",
+            "answer": "朝は赤い太陽の気運を存分に受けることができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 178,
+        "QA": 272
+    }
+}

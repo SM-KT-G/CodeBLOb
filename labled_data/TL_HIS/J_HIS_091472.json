@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_091472",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=861&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=01380000&ccbaCtcd=34&ccbaCpno=2333401380000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1997-12-23",
+        "domain": "문화/역사관광",
+        "title": "예산향교"
+    },
+    "text": "忠清南道に位置した記念物の予算郷校は、孔子と多くの聖賢に祭祀をして地方民の教育と教化のための教育機関です。朝鮮太宗(チョソン・テジョン)の13年(1413)に初めてなっており、純祖(スンジョ)9年(1809)に大幅に受理されました。1975年と1976年にはドンジェと書斎を保守しました。現在残っている建物は大成殿、明倫堂、東斎・西斎などです。大成殿は、祭祀を過ごせる空間に、前面3間、側面3間規模であり、屋根は人因子の形の切妻屋根です。屋根の軒を飾るために作った恐怖は新しい翼の形であるつの翼型、様式でインテリアが施されています。大成殿の内側には孔子と中国、韓国聖賢の位牌が仕えています。明倫堂は学生たちが集まって勉強する講堂に、前面3間、側面3間規模であり、屋根は切妻屋根で構成されています。朝鮮時代には、国家から支援を受けて生徒たちに教えことができたが、今は教育機能はなくなり、祭祀の役割だけが残っています。",
+    "QA": [
+        {
+            "question": "この予算郷校はいつ創設されましたか？",
+            "answer": "予算郷校は1413年に朝鮮太宗によって創設されました。"
+        },
+        {
+            "question": "予算郷校にはどのような建物が残っていますか？",
+            "answer": "現在残っている建物には大成殿、明倫堂、東斎・西斎などがあります。"
+        },
+        {
+            "question": "大成殿の屋根の形はどのような特徴がありますか？",
+            "answer": "大成殿の屋根は人因子の形の切妻屋根であり、屋根の軒を飾るために作った恐怖は新しい翼の形であるつの翼型、様式でインテリアが施されています。"
+        },
+        {
+            "question": "明倫堂はどのような役割を果たしていましたか？",
+            "answer": "明倫堂は学生たちが集まって勉強する講堂であり、朝鮮時代には国家から支援を受けて生徒たちに教えことができました。"
+        },
+        {
+            "question": "予算郷校の現在の機能は何ですか？",
+            "answer": "現在、予算郷校の教育機能はなくなり、祭祀の役割だけが残っています。"
+        }
+    ],
+    "word_Count": {
+        "text": 298,
+        "QA": 231
+    }
+}

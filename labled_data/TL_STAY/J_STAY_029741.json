@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_029741",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.goodchoice.kr/product/detail?ano=2536&adcno=1&sel_date=2023-11-07&sel_date2=2023-11-08",
+        "collectedDate": "2023-11-15",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "거제 H"
+    },
+    "text": "周辺情報 : この宿泊施設は綾浦洞住民センターまで300m離れており、徒歩では5分程度の距離がかかります。 また、陽智庵バラ公園までは475m離れており、徒歩では約8分かかります。 最後に長承浦市外バスターミナルまでは320m離れており、徒歩では約5分の距離です。",
+    "QA": [
+        {
+            "question": "綾浦洞住民センターまでの距離はどのくらいですか？",
+            "answer": "綾浦洞住民センターはこの宿泊施設から徒歩で約5分の距離です。"
+        },
+        {
+            "question": "陽智庵バラ公園までの距離はどのくらいですか？",
+            "answer": "陽智庵バラ公園はこの宿泊施設から徒歩で約8分の距離です。"
+        },
+        {
+            "question": "長承浦市外バスターミナルまでの距離はどのくらいですか？",
+            "answer": "長承浦市外バスターミナルはこの宿泊施設から徒歩で約5分の距離です。"
+        }
+    ],
+    "word_Count": {
+        "text": 96,
+        "QA": 120
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_001684",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42090&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "서귀포 에이지하우스펜션"
+    },
+    "text": "AG HOUSEは済州に位置する標高35mに位置しており、美しい海と隣接しています。 静かで静かな位置で、遠い海を眺めながら日の出を鑑賞することができます。 夕方には漁船の明かりがきらきらとほのかなロマンをプレゼントします。 客室からは遠い海が見えます。 また、みかんの収穫シーズンには別途費用が発生することがありますが、AGHOUSEが直接運営するAGみかん農場でみかんの収穫体験も可能です。 AGHOUSEは人体に無害な環境にやさしい素材を使用した木造建築物です。 私たちは都市と日常に疲れた皆さんの心の憩いの場になりたいです。 リーズナブルな価格で美しい思い出とロマンを提供し、十分な休息と余裕を満喫できるよう最善を尽くします。 22時以降に入室される場合、ペンションまで予めご連絡ください。",
+    "QA": [
+        {
+            "question": "AG HOUSEの場所はどこですか？",
+            "answer": "AG HOUSEは済州に位置しています。"
+        },
+        {
+            "question": "AG HOUSEの周辺には何がありますか？",
+            "answer": "AG HOUSEは美しい海と隣接しており、遠い海を眺めることができます。"
+        },
+        {
+            "question": "AG HOUSEからは何が見えますか？",
+            "answer": "AG HOUSEの客室からは遠い海が見えます。"
+        },
+        {
+            "question": "AG HOUSEではみかんの収穫体験ができますか？",
+            "answer": "AGHOUSEが直接運営するAGみかん農場で、みかんの収穫体験も可能です（別途費用が発生する場合があります）。"
+        },
+        {
+            "question": "AG HOUSEはどのような建物ですか？",
+            "answer": "AGHOUSEは人体に無害な環境にやさしい素材を使用した木造建築物です。"
+        },
+        {
+            "question": "AG HOUSEはどのような目的で設立されましたか？",
+            "answer": "AG HOUSEは都市と日常に疲れた皆さんの心の憩いの場になることを目指して設立されました。"
+        },
+        {
+            "question": "AG HOUSEはどのようなサービスを提供していますか？",
+            "answer": "AG HOUSEはリーズナブルな価格で美しい思い出とロマンを提供し、十分な休息と余裕を満喫できるよう最善を尽くしています。"
+        },
+        {
+            "question": "AG HOUSEに遅くまで入室する場合はどうすればいいですか？",
+            "answer": "22時以降に入室される場合は、事前にペンションまでご連絡ください。"
+        }
+    ],
+    "word_Count": {
+        "text": 255,
+        "QA": 365
+    }
+}

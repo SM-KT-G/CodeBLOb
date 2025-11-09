@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_052641",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=549&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=02360000&ccbaCtcd=31&ccbaCpno=2113102360000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2010-03-23",
+        "domain": "문화/역사관광",
+        "title": "광명 이존도 유서"
+    },
+    "text": "朝鮮時代の京畿道有形文化財であるイジョンドはカモの李元翼政丞が家風を繋ぎとめるための努力の一端を示す重要な資料である。イジョンドは1734年-1737年に作成されたものと、イアン・数に伝わったのだ。第一に、先祖への記載と天神、市響、祭祀、珍談に関する指示が含まれている。第二に、主に祭祀のときに珍談する浪人の珍談方式と市響に対する訴えが記録されている。第三に、描写と既済の流行に関する指示が含まれている。これは家風を合わせるのに重要な役割をする描写と基剤に対する流行に対する要請だ。最後に、イジョンドは数世代にわたって質素を美徳として守ってきた家であることを強調して、自分が亡くなっても祭祀を質素に守れという願いが含まれている。",
+    "QA": [
+        {
+            "question": "イジョンドはいつ作成されましたか？",
+            "answer": "イジョンドは1734年-1737年に作成されました。"
+        },
+        {
+            "question": "イジョンドにはどのような内容が含まれていますか？",
+            "answer": "イジョンドには先祖への記載や天神、市響、祭祀、珍談に関する指示が含まれています。また、祭祀の際の浪人の珍談方式や市響への訴えも記録されています。さらに、描写や既済の流行に関する指示もあります。"
+        },
+        {
+            "question": "イジョンドの役割は何ですか？",
+            "answer": "イジョンドはカモの李元翼政丞が家風を繋ぎとめるための努力の一端を示す重要な資料です。家風を合わせるための描写や基剤に対する流行に対する要請が含まれています。また、数世代にわたって質素を美徳として守ってきた家であることを強調し、祭祀を質素に守る願いも含まれています。"
+        }
+    ],
+    "word_Count": {
+        "text": 230,
+        "QA": 226
+    }
+}

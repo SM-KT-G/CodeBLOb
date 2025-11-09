@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_003161",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2019-01-10",
+        "domain": "숙박",
+        "title": "カングァソナム [韓国観光品質認証](강과 소나무[한국관광품질인증/Korea Quality]）"
+    },
+    "text": "カングァソナム [韓国観光品質認証]\n江原道 旌善郡 北坪面 チョルドゥルキル31-57\n江原道旌善（チョンソン）郡にあるペンション「カングァソナム（RIVER & PINE PENSION）」は、特別な準備なしで出かける「自分探しの旅」にぴったりです。すべての宿泊客にバーベキューフルコースの夕食と朝にはブランチを提供しています。1階のカフェは滞在中、自由に利用でき、工房ではキルトも教えてくれます。ペンションの前にはきれいな谷の小川が流れていて、水遊びも楽しめます。",
+    "QA": [
+        {
+            "question": "カングァソナム（RIVER & PINE PENSION）はどこにありますか？",
+            "answer": "カングァソナム（RIVER & PINE PENSION）は江原道旌善（チョンソン）郡北坪面チョルドゥルキル31-57にあります。"
+        },
+        {
+            "question": "カングァソナム（RIVER & PINE PENSION）では何を提供していますか？",
+            "answer": "カングァソナム（RIVER & PINE PENSION）では宿泊客にバーベキューフルコースの夕食と朝にはブランチを提供しています。"
+        },
+        {
+            "question": "カングァソナム（RIVER & PINE PENSION）の周りには何がありますか？",
+            "answer": "カングァソナム（RIVER & PINE PENSION）の前にはきれいな谷の小川が流れており、水遊びも楽しめます。"
+        },
+        {
+            "question": "カングァソナム（RIVER & PINE PENSION）では何を教えてくれますか？",
+            "answer": "カングァソナム（RIVER & PINE PENSION）の工房ではキルトを教えてくれます。"
+        }
+    ],
+    "word_Count": {
+        "text": 172,
+        "QA": 293
+    }
+}

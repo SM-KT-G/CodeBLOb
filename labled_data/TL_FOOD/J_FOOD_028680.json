@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_028680",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-08-31",
+        "domain": "음식점",
+        "title": "坡州紺岳山 大学路（파주감악산 대학로）"
+    },
+    "text": "坡州紺岳山 大学路（파주감악산 대학로）\\n\nソウル特別市 鐘路区 大学路12キル 4\\n\n飲み会に適した焼肉店です。おすすめは韓牛ロースです。ソウル特別市のテハンノに位置したバーベキュー専門店です。",
+    "QA": [
+        {
+            "question": "この焼肉店はどこにありますか？",
+            "answer": "この焼肉店はソウル特別市 鐘路区 大学路12キル 4に位置しています。"
+        },
+        {
+            "question": "この焼肉店のおすすめメニューは何ですか？",
+            "answer": "この焼肉店のおすすめは韓牛ロースです。"
+        },
+        {
+            "question": "この焼肉店は飲み会に適していますか？",
+            "answer": "はい、この焼肉店は飲み会に適しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 73,
+        "QA": 93
+    }
+}

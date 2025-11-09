@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_007008",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://apis.data.go.kr/1400000/service/cultureInfoService2/mntInfoOpenAPI2",
+        "collectedDate": "2023-11-22",
+        "publishedDate": "2020-12-01",
+        "domain": "자연관광",
+        "title": "달봉산"
+    },
+    "text": "達峰山 (달봉산)\\n\n慶尚北道奉化郡奉化邑赤徳里\\n\n山の高さ : 265.2m , 奉化郡奉化邑所在地から栄州方面中間地点にある道村初等学校右側にある野山だ。 本線を含む色々な支線が連結されているが、この道は村の周囲に散在した民家の住民たちが移動経路として利用している。",
+    "QA": [
+        {
+            "question": "達峰山（달봉산）はどこにありますか？",
+            "answer": "達峰山は慶尚北道奉化郡奉化邑赤徳里にあります。"
+        },
+        {
+            "question": "達峰山の高さは何メートルですか？",
+            "answer": "達峰山の高さは265.2メートルです。"
+        },
+        {
+            "question": "達峰山はどのような場所ですか？",
+            "answer": "達峰山は道村初等学校の右側にある野山で、村の周囲に散在した民家の住民たちが移動経路として利用しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 100,
+        "QA": 104
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_026943",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42090&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "서귀포 밸리통나무빌리지펜션"
+    },
+    "text": "調和したミカン畑と共に位置するバレートンナムビレッジペンションは、済州特別自治道から優秀ペンションとして選ばれた所です。 ペンションは風景が美しく、彫刻芸術公園と多肉植物博物館も併設されています。 一生懸命お迎えします。 そして、重要なお知らせですので、22時以降に入室される場合は予めご連絡をお願いします。 ありがとうございます。",
+    "QA": [
+        {
+            "question": "このペンションの特徴は何ですか？",
+            "answer": "バレートンナムビレッジペンションは、済州特別自治道から優秀ペンションとして選ばれた所です。風景が美しく、彫刻芸術公園と多肉植物博物館も併設されています。"
+        },
+        {
+            "question": "ペンションには何がありますか？",
+            "answer": "ペンションには風景が美しいミカン畑や彫刻芸術公園、多肉植物博物館があります。また、温かいおもてなしも心掛けています。"
+        },
+        {
+            "question": "ペンションに遅く到着する場合はどうすればいいですか？",
+            "answer": "22時以降に入室される場合は、事前にご連絡いただけると助かります。お手数をおかけしますが、ご協力をお願いいたします。"
+        }
+    ],
+    "word_Count": {
+        "text": 121,
+        "QA": 182
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_015559",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42060&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "논산 황제모텔"
+    },
+    "text": "は利用案内ベッド(一般)で2人から最大3人まで、オンドル(一般)でも2人から最大3人まで利用できます。 オンドル(特室)は、基準人数が3人で最大4人まで利用できます。 利用についての基本規定は以外の情報はありません。",
+    "QA": [
+        {
+            "question": "利用案内ベッド(一般)は何人まで利用できますか？",
+            "answer": "利用案内ベッド(一般)では2人から最大3人まで利用できます。"
+        },
+        {
+            "question": "オンドル(一般)は何人まで利用できますか？",
+            "answer": "オンドル(一般)でも2人から最大3人まで利用できます。"
+        },
+        {
+            "question": "オンドル(特室)の基準人数は何人ですか？",
+            "answer": "オンドル(特室)の基準人数は3人ですが、最大4人まで利用できます。"
+        },
+        {
+            "question": "利用案内ベッドとオンドルの違いは何ですか？",
+            "answer": "利用案内ベッドは一般的なベッドで、2人から最大3人まで利用できます。一方、オンドルは床暖房で、2人から最大3人（特室では最大4人）まで利用できます。"
+        },
+        {
+            "question": "利用についての基本規定以外に何か情報はありますか？",
+            "answer": "利用についての基本規定以外の情報は提供されていません。"
+        }
+    ],
+    "word_Count": {
+        "text": 79,
+        "QA": 221
+    }
+}

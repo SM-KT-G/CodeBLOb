@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_002758",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "イェンナル豚肉クッパ ( 옛날돼지국밥 )"
+    },
+    "text": "イェンナル豚肉クッパ ( 옛날돼지국밥 )\n慶尚北道 安東市 慶東路 1010-2\n様々な種類のクッパが味わえる店です。代表的なメニューは豚肉クッパです。慶尚北道のアンドン市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "慶尚北道のイェンナル豚肉クッパはどのような料理ですか？",
+            "answer": "イェンナル豚肉クッパは慶尚北道アンドン市で味わえる豚肉のクッパです。"
+        },
+        {
+            "question": "イェンナル豚肉クッパの代表的なメニューは何ですか？",
+            "answer": "イェンナル豚肉クッパは代表的なメニューとして豚肉クッパがあります。"
+        },
+        {
+            "question": "イェンナル豚肉クッパを味わえるお店の場所はどこですか？",
+            "answer": "イェンナル豚肉クッパを味わえるお店は慶尚北道アンドン市慶東路1010-2に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 73,
+        "QA": 140
+    }
+}

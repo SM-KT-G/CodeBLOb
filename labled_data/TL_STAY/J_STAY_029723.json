@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_029723",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.goodchoice.kr/product/detail?ano=52534&adcno=1&sel_date=2023-11-07&sel_date2=2023-11-08",
+        "collectedDate": "2023-11-15",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "무주 기린"
+    },
+    "text": "リニューアルされた宿で、2018年5月に完了しました。 駐車場はありますが、車を駐車することはできません。 宿は茂朱郡庁まで約228m、茂朱ホタル祭りまで約93m、そして茂朱共用バスターミナルまで約0.4km離れています。 たくさんのご利用をお待ちしております。",
+    "QA": [
+        {
+            "question": "この宿はいつリニューアルされましたか？",
+            "answer": "2018年5月にリニューアルされました。"
+        },
+        {
+            "question": "この宿には駐車場はありますか？",
+            "answer": "はい、駐車場はあります。"
+        },
+        {
+            "question": "茂朱郡庁までの距離はどのくらいですか？",
+            "answer": "茂朱郡庁までは約228mです。"
+        },
+        {
+            "question": "茂朱ホタル祭りまでの距離はどのくらいですか？",
+            "answer": "茂朱ホタル祭りまでは約93mです。"
+        },
+        {
+            "question": "茂朱共用バスターミナルまでの距離はどのくらいですか？",
+            "answer": "茂朱共用バスターミナルまでは約0.4kmです。"
+        },
+        {
+            "question": "この宿は車を駐車できますか？",
+            "answer": "申し訳ありませんが、この宿では車の駐車はできません。"
+        }
+    ],
+    "word_Count": {
+        "text": 96,
+        "QA": 167
+    }
+}

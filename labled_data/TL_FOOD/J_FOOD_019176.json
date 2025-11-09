@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_019176",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-05",
+        "domain": "음식점",
+        "title": "大文店 ( 대문점 )"
+    },
+    "text": "大文店 ( 대문점 )\\n\nソウル特別市 永登浦区 ヨンジュンロ10ギル30\\n\n50年の伝統を持つ、百年の店に選ばれた店です。代表的なメニューは五香醤肉です。ソウル特別市のヨンドゥンポ区に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "大文店 ( 대문점 )の場所はどこですか？",
+            "answer": "大文店 ( 대문점 )はソウル特別市 永登浦区 ヨンジュンロ10ギル30に位置しています。"
+        },
+        {
+            "question": "大文店 ( 대문점 )の代表的なメニューは何ですか？",
+            "answer": "大文店 ( 대문점 )の代表的なメニューは五香醤肉です。"
+        },
+        {
+            "question": "大文店 ( 대문점 )は何年の伝統を持っていますか？",
+            "answer": "大文店 ( 대문점 )は50年の伝統を持っています。"
+        },
+        {
+            "question": "大文店 ( 대문점 )は百年の店に選ばれたことがありますか？",
+            "answer": "はい、大文店 ( 대문점 )は百年の店に選ばれたことがあります。"
+        },
+        {
+            "question": "大文店 ( 대문점 )は韓食専門店ですか？",
+            "answer": "はい、大文店 ( 대문점 )は韓食専門店です。"
+        }
+    ],
+    "word_Count": {
+        "text": 78,
+        "QA": 203
+    }
+}

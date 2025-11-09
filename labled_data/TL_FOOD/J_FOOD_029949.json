@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_029949",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/season-table-dongdaemun",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "ケジョルパプサン"
+    },
+    "text": "ケジョルパプサン\\n\nソウル特別市 ジュン区 ウルジロ 264, LOTTE FITIN 7階\\n\nこの店はソウル特別市のトンデムンに位置したビュッフェです。代表的なメニューは韓食です。韓国料理をバイキングでお出しするお店です。",
+    "QA": [
+        {
+            "question": "このビュッフェの場所はどこですか？",
+            "answer": "ソウル特別市 ジュン区 ウルジロ 264, LOTTE FITIN 7階に位置しています。"
+        },
+        {
+            "question": "このビュッフェの代表的なメニューは何ですか？",
+            "answer": "韓食が代表的なメニューです。"
+        },
+        {
+            "question": "このビュッフェではどのような料理が提供されますか？",
+            "answer": "韓国料理をバイキング形式で提供しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 83,
+        "QA": 105
+    }
+}

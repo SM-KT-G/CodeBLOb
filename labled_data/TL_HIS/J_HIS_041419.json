@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_041419",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2023-02-08",
+        "domain": "문화/역사관광",
+        "title": "KBS홀_1"
+    },
+    "text": "''KBSミュージックバンク''公開放送KBS 2TVの生放送音楽放送で毎週金曜日の午後5時5分に放送する。多様なジャンルの大衆歌謡最新音楽情報に会うことができる。ホームページで放送1週間前の木曜日09:00~24:00の間に傍聴を申請すれば、来週月曜日に当選者を発表する。",
+    "QA": [
+        {
+            "question": "KBSミュージックバンクは何時に放送されますか？",
+            "answer": "KBSミュージックバンクは毎週金曜日の午後5時5分に放送されます。"
+        },
+        {
+            "question": "KBSミュージックバンクの内容は何ですか？",
+            "answer": "KBSミュージックバンクは多様なジャンルの大衆歌謡最新音楽情報に会うことができる番組です。"
+        },
+        {
+            "question": "KBSミュージックバンクの傍聴について教えてください。",
+            "answer": "KBSミュージックバンクの傍聴には、放送1週間前の木曜日09:00~24:00の間にホームページで傍聴を申請する必要があります。当選者は来週月曜日に発表されます。"
+        }
+    ],
+    "word_Count": {
+        "text": 100,
+        "QA": 169
+    }
+}

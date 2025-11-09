@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_022472",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42090&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "서귀포 제주키즈가족바닷가하우스펜션"
+    },
+    "text": "私たち家族の大切な幸せがいっぱいになるところ、済州キッズ家族海辺ハウスへようこそ。 ここでは愛らしい子供たちの笑いと楽しい思い出を一緒に作りながら平穏な休息を楽しむことができます。 ただし、お知らせがあります。 もし22時以降に入室される場合、ペンションまで予めご連絡ください。 また、pm 21時以降に予約した件は100%確定の予約を保障しません。 最後に、キッズ客室をご利用の際は、お子様なしでは大人のみ入室できません。",
+    "QA": [
+        {
+            "question": "済州キッズ家族海辺ハウスでは何が楽しめますか？",
+            "answer": "ここでは愛らしい子供たちの笑いと楽しい思い出を一緒に作りながら平穏な休息を楽しむことができます。"
+        },
+        {
+            "question": "22時以降に入室する場合は何をすべきですか？",
+            "answer": "ペンションまで予めご連絡ください。"
+        },
+        {
+            "question": "pm 21時以降に予約した場合は何が起こる可能性がありますか？",
+            "answer": "100%確定の予約を保証できません。"
+        },
+        {
+            "question": "キッズ客室を利用するにはどのような条件がありますか？",
+            "answer": "お子様なしでは大人のみ入室することはできません。"
+        }
+    ],
+    "word_Count": {
+        "text": 155,
+        "QA": 153
+    }
+}

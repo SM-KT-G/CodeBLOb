@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_015899",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "江南村 ( 강남촌 )"
+    },
+    "text": "江南村 ( 강남촌 )\\n\n江原道 ガンヌン市 イムヨンロ3\\n\nオーナーが直接さばいた韓国産豚カルビが味わえる店です。江原道のガンヌン市に位置した韓食専門店です。代表的なメニューは特大豚カルビです。",
+    "QA": [
+        {
+            "question": "江南村はどこに位置していますか？",
+            "answer": "江南村は江原道のガンヌン市に位置しています。"
+        },
+        {
+            "question": "江南村のオーナーは何を直接さばいていますか？",
+            "answer": "江南村のオーナーは韓国産豚カルビを直接さばいています。"
+        },
+        {
+            "question": "江南村の代表的なメニューは何ですか？",
+            "answer": "江南村の代表的なメニューは特大豚カルビです。"
+        }
+    ],
+    "word_Count": {
+        "text": 73,
+        "QA": 93
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_001538",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/goods/GN0002025055?startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0%5E&npprmaxsort=min",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "부산 구서동 브라운도트 구서역점 운영 정책"
+    },
+    "text": "23:00にチェックインし、12:00にチェックアウトできます。 貸室予約後に延長する場合、1時間当たり10,000ウォンの追加料金が発生します。 予約の際に利用時間をご確認の上、ご利用ください。 チェックインの際にはテラスガーデンの客室をご利用いただけますし、ボディフレンドマッサージチェアと一緒にシリアル及びトーストをご提供いたします。",
+    "QA": [
+        {
+            "question": "チェックインとチェックアウトの時間は何時ですか？",
+            "answer": "チェックインは23:00で、チェックアウトは12:00です。"
+        },
+        {
+            "question": "延長する場合の料金はいくらですか？",
+            "answer": "延長する場合、1時間あたり10,000ウォンの追加料金が発生します。"
+        },
+        {
+            "question": "チェックイン時に利用できる施設はありますか？",
+            "answer": "チェックイン時にはテラスガーデンの客室をご利用いただけます。"
+        },
+        {
+            "question": "朝食は提供されますか？",
+            "answer": "朝食としてシリアルとトーストを提供しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 124,
+        "QA": 140
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_081537",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/view?relicId=35837234",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2023-10-11",
+        "domain": "문화/역사관광",
+        "title": "석관 조각"
+    },
+    "text": "石棺片 (석관 조각)\\n\n国籍や時代は韓国であり、具体的な年代は分かりません。また、材質はその他を使用しており、分類は社会生活の中で儀礼生活や賞状、冠に関連します。この作品の大きさは以下の通りです。 - 横: 47.5cm、縦: 13.2cm、厚さ: 3.0cm - 横: 47.2cm、縦: 13.3cm、厚さ: 3.5cm - 横: 30.6cm、縦: 13.2cm、厚さ: 2.7-3.8cm - 横: 30.5cm、縦: 13.3cm、厚さ: 2.8-4.0cm",
+    "QA": [
+        {
+            "question": "この石棺片の国籍や時代はどこですか？",
+            "answer": "韓国であり、具体的な年代は分かりません。"
+        },
+        {
+            "question": "この石棺片の材質は何ですか？",
+            "answer": "その他を使用しており、具体的な材質は不明です。"
+        },
+        {
+            "question": "この石棺片はどんな分類に関連していますか？",
+            "answer": "社会生活の中で儀礼生活や賞状、冠に関連します。"
+        },
+        {
+            "question": "この石棺片の大きさはどれくらいですか？",
+            "answer": "横: 47.5cm、縦: 13.2cm、厚さ: 3.0cm または 横: 47.2cm、縦: 13.3cm、厚さ: 3.5cm または 横: 30.6cm、縦: 13.2cm、厚さ: 2.7-3.8cm または 横: 30.5cm、縦: 13.3cm、厚さ: 2.8-4.0cm"
+        }
+    ],
+    "word_Count": {
+        "text": 173,
+        "QA": 203
+    }
+}

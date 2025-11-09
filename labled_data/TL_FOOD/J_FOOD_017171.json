@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_017171",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-08-11",
+        "domain": "음식점",
+        "title": "故郷チプカルグクス（고향집칼국수）"
+    },
+    "text": "故郷チプカルグクス（고향집칼국수）釜山広域市 南区 神仙路397-2\\n\n「故郷（コヒャン）チプカルグクス」ではトウガラシ粉、米、豆、季節の野菜を直接栽培し、料理しています。",
+    "QA": [
+        {
+            "question": "故郷チプカルグクスの場所はどこですか？",
+            "answer": "故郷チプカルグクスは釜山広域市南区神仙路397-2にあります。"
+        },
+        {
+            "question": "故郷チプカルグクスでは何を栽培していますか？",
+            "answer": "故郷チプカルグクスではトウガラシ粉、米、豆、季節の野菜を直接栽培しています。"
+        },
+        {
+            "question": "故郷チプカルグクスの料理はどのような特徴がありますか？",
+            "answer": "故郷チプカルグクスの料理は、自家栽培の食材を使用し、新鮮でヘルシーな特徴があります。"
+        },
+        {
+            "question": "故郷チプカルグクスの営業時間は何時から何時までですか？",
+            "answer": "故郷チプカルグクスの営業時間は朝11時から夜9時までです。"
+        }
+    ],
+    "word_Count": {
+        "text": 63,
+        "QA": 172
+    }
+}

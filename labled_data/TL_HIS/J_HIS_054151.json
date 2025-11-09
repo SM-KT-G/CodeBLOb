@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_054151",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/view?relicId=108262",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "글자를 새긴 암키와 조각"
+    },
+    "text": "文字を刻んだ平瓦片 (글자를 새긴 암키와 조각)\\n\n「松岳海溝」という刻まれた言葉が、このがれきの上に繰り返し見られます。このがれきは、韓国の統一新羅時代に使用された建築部材であり、土と瓦の質感を持っています。具体的には、平瓦として使われた屋根材であり、現在のサイズは幅174cm、長さ186cmです。",
+    "QA": [
+        {
+            "question": "この平瓦片にはどんな文字が刻まれていますか？",
+            "answer": "この平瓦片には「松岳海溝」という言葉が刻まれています。"
+        },
+        {
+            "question": "この平瓦片はどの時代に使用された建築部材ですか？",
+            "answer": "この平瓦片は統一新羅時代に使用された建築部材です。"
+        },
+        {
+            "question": "平瓦片はどのように使用されましたか？",
+            "answer": "平瓦片は屋根材として使用されました。"
+        },
+        {
+            "question": "平瓦片の現在のサイズは何ですか？",
+            "answer": "平瓦片の現在のサイズは幅174cm、長さ186cmです。"
+        }
+    ],
+    "word_Count": {
+        "text": 112,
+        "QA": 130
+    }
+}

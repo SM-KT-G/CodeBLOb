@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_041121",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/collectionList#######",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "『경오』가 새겨진 청자 바닥 조각"
+    },
+    "text": "『庚午』が刻まれた青磁底のかけら (『경오』가 새겨진 청자 바닥 조각)\\n\n編者は、この作品に「庚午」という文字を黒象嵌（こくぞうがい）しています。この作品の国籍や時代は韓国の高麗時代で、材質は陶磁器の青磁です。分類は食事や食べ物に関連しており、サイズは現在の高さで23cm、底の直径は84cmです。",
+    "QA": [
+        {
+            "question": "この作品の国籍はどこですか？",
+            "answer": "韓国"
+        },
+        {
+            "question": "この作品は何時代のものですか？",
+            "answer": "高麗時代"
+        },
+        {
+            "question": "この作品の材質は何ですか？",
+            "answer": "陶磁器の青磁"
+        },
+        {
+            "question": "この作品の分類は何に関連していますか？",
+            "answer": "食事や食べ物"
+        },
+        {
+            "question": "この作品のサイズはどれくらいですか？",
+            "answer": "高さ23cm、底の直径84cm"
+        }
+    ],
+    "word_Count": {
+        "text": 111,
+        "QA": 82
+    }
+}

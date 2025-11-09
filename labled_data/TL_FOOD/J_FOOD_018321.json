@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_018321",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "潭陽炭火カルビ ( 담양숯불갈비 )"
+    },
+    "text": "潭陽炭火カルビ ( 담양숯불갈비 )\\n\n全羅南道 モクポ市 オクアムロ65\\n\n広々としたホールを完備しており、団体予約や食事会などにぴったりの店です。全羅南道のモクポ市に位置した韓食専門店です。代表的なメニューは炭火カルビです。",
+    "QA": [
+        {
+            "question": "このレストランはどこにありますか？",
+            "answer": "潭陽炭火カルビは全羅南道のモクポ市に位置しています。"
+        },
+        {
+            "question": "このレストランの特徴は何ですか？",
+            "answer": "このレストランは広々としたホールを完備しており、団体予約や食事会などにぴったりです。"
+        },
+        {
+            "question": "このレストランの代表的なメニューは何ですか？",
+            "answer": "潭陽炭火カルビがこのレストランの代表的なメニューです。"
+        }
+    ],
+    "word_Count": {
+        "text": 85,
+        "QA": 110
+    }
+}

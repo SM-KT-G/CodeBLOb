@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_096112",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=825&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=00720000&ccbaCtcd=34&ccbaCpno=2333400720000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1989-04-20",
+        "domain": "문화/역사관광",
+        "title": "이동녕선생생가지"
+    },
+    "text": "イ·ドンニョン先生の生家地\\n\n忠清南道天安市東南区木川邑東里79-2番地\\n\n忠清南道記念物、独立運動家であるソクオの李ドンヨン(1869∼1940)先生が生まれた場所だ。鉤型母屋は3間、板の間を中心に両方に一間ずつ部屋がある。母屋の東西に3間ずつ下してダルアネて部屋と台所で使用している。西に向かっている大門屋は5間のうち、2間は板の間を敷き、両側に一間ずつ部屋を置いた。建物の全体の平面はㅁジャ型であり、母屋と一字型門屋が調和してコの字型を成している。",
+    "QA": [
+        {
+            "question": "この建物の東側に何がありますか？",
+            "answer": "母屋の東側には3つの間があり、その中には部屋と台所があります。"
+        },
+        {
+            "question": "この建物の平面は何型ですか？",
+            "answer": "建物の全体の平面はコの字型であり、母屋と一字型門屋が調和しています。"
+        },
+        {
+            "question": "李ドンヨン先生の生家地はどこの地域にありますか？",
+            "answer": "李ドンヨン先生の生家地は忠清南道天安市東南区木川邑東里にあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 167,
+        "QA": 111
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_019541",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/goods/GN0002020508?startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0%5E&npprmaxsort=min",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "사천(삼천포) 투인원"
+    },
+    "text": "基本規定に基づき、入室人数は2人でなければならず、追加人数は当日追加料金を決済しなければなりません。 客室はチェックインの際に割り当てられ、画像と異なる客室が割り当てられる場合があります。 オンシーズンと特定日、祝日(前日含む)には料金が変動する場合があります。",
+    "QA": [
+        {
+            "question": "チェックイン時に割り当てられる客室は、予約時の画像と異なることがありますか？",
+            "answer": "はい、チェックイン時に割り当てられる客室は、予約時の画像と異なる場合があります。"
+        },
+        {
+            "question": "追加人数を当日追加する場合、追加料金はどのように決済すればよいですか？",
+            "answer": "追加人数を当日追加する場合は、追加料金を当日決済する必要があります。"
+        },
+        {
+            "question": "オンシーズンや特定の日、祝日には料金が変動しますか？",
+            "answer": "はい、オンシーズンや特定の日、祝日（前日を含む）には料金が変動する場合があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 96,
+        "QA": 156
+    }
+}

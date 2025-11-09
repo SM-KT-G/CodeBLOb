@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001945",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-05",
+        "domain": "음식점",
+        "title": "NOVA ITALIANO ( 노바이탈리아노 )"
+    },
+    "text": "NOVA ITALIANO ( 노바이탈리아노 )\\n\nソウル特別市 東大門区 キョンフィデロ20\\n\n大学の近くにあり、若者たちがよく訪れる店です。代表的なメニューはパスタです。ソウル特別市のドンデムン区に位置した洋食専門店です。",
+    "QA": [
+        {
+            "question": "このレストランの場所はどこですか？",
+            "answer": "ノバイタリアノはソウル特別市東大門区キョンフィデロ20にあります。"
+        },
+        {
+            "question": "このレストランのメニューは何ですか？",
+            "answer": "このレストランの代表的なメニューはパスタです。"
+        },
+        {
+            "question": "このレストランはどんな人たちに人気ですか？",
+            "answer": "このレストランは大学の近くにあり、若者たちがよく訪れる店です。"
+        },
+        {
+            "question": "ノバイタリアノはどの区に位置していますか？",
+            "answer": "ノバイタリアノはソウル特別市のドンデムン区に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 85,
+        "QA": 142
+    }
+}

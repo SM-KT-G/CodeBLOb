@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_015454",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.visitjeju.net/kr/detail/view?contentsid=CNTS_000000000020593#",
+        "collectedDate": "2023-09-05",
+        "publishedDate": "2016-11-23",
+        "domain": "음식점",
+        "title": "레이지박스"
+    },
+    "text": "レイジボックス\n済州特別自治道西帰浦市安徳面山房路208\n山房山の下に隠れている小さなカフェです。レイジーボックスは旅行中のゆったり感、日常の余裕を見つけてあげたいという気持ちでつけた名前です。カフェに入るとガラス張りの涼しい海が見えます。",
+    "QA": [
+        {
+            "question": "このカフェの名前は何ですか？",
+            "answer": "このカフェの名前はレイジーボックスです。"
+        },
+        {
+            "question": "カフェの場所はどこですか？",
+            "answer": "カフェは済州特別自治道西帰浦市安徳面山房路208にあります。"
+        },
+        {
+            "question": "カフェからは何が見えますか？",
+            "answer": "カフェからはガラス張りの窓から涼しい海が見えます。"
+        },
+        {
+            "question": "なぜこのカフェはレイジーボックスという名前ですか？",
+            "answer": "このカフェの名前は旅行中のゆったり感、日常の余裕を見つけてあげたいという気持ちでつけられました。"
+        }
+    ],
+    "word_Count": {
+        "text": 88,
+        "QA": 138
+    }
+}

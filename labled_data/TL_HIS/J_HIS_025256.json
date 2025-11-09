@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_025256",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1185&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=06660000&ccbaCtcd=37&ccbaCpno=3413706660000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2018-08-09",
+        "domain": "문화/역사관광",
+        "title": "영덕 처인당"
+    },
+    "text": "盈徳処仁堂 (영덕 처인당)\\n\n慶尚北道盈徳郡仁良2ギル36(チャンス面)\\n\n慶尚北道文化財資料 , 盈徳処仁堂は英陽南氏参奉公ナム·ピルデ(1608-1666)が重修した後、ナム·ダルマン(1713-1784)が重修したという記録があり、以後持続的な大小の補修を通じて今日まで続いている。 過去、この建物は宗家に付いている建築物だが、既存の宗家建築物の遺構が見つからない点は残念な点だ。 ただ、宗家の昔の姿は、朝鮮戦争後に建立した母屋と祠堂から推定できる。 そして処仁堂は盈徳仁良里に約600年間住んできた英陽南氏の代表的な建物で、門中の求心点の役割を果たしてきており、仁良里の英陽南氏は17世紀以降嶺南学派の一員として活発な活動をした門中であり、処仁堂はその中心建物という点で歴史性がある。",
+    "QA": [
+        {
+            "question": "処仁堂は誰によって重修されましたか？",
+            "answer": "処仁堂は英陽南氏参奉公ナム·ピルデによって重修されました。"
+        },
+        {
+            "question": "処仁堂はいつ頃重修されましたか？",
+            "answer": "処仁堂はナム·ダルマンによって重修された後、持続的な補修が行われています。"
+        },
+        {
+            "question": "処仁堂は何の役割を果たしてきましたか？",
+            "answer": "処仁堂は盈徳仁良里の英陽南氏の求心点の役割を果たしてきました。"
+        },
+        {
+            "question": "処仁堂はどのような建物ですか？",
+            "answer": "処仁堂は英陽南氏の代表的な建物で、仁良里の門中の中心建物とされています。"
+        },
+        {
+            "question": "処仁堂はどのような活動をしていた門中ですか？",
+            "answer": "処仁堂の所在する仁良里の英陽南氏は、17世紀以降嶺南学派の一員として活発な活動をしていました。"
+        }
+    ],
+    "word_Count": {
+        "text": 255,
+        "QA": 198
+    }
+}

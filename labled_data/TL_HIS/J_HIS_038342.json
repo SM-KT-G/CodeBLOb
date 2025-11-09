@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_038342",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=365&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=00030000&ccbaCtcd=26&ccbaCpno=2112600030000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1997-10-09",
+        "domain": "문화/역사관광",
+        "title": "청송사지부도"
+    },
+    "text": "靑松寺址浮屠 (청송사지부도)\\n\n蔚山蔚州郡清涼面栗里山107-4番地\\n\n蔚山広域市有形文化財、この浮屠は青松寺の跡で発見されたものだ。 宝物第382号蔚州青松寺址から約100m離れた場所に位置している。 周辺に浮屠波辺が散在しており、この一帯が別名「浮屠谷」と呼ばれたりもした。 計3基であり、朝鮮時代の石鐘形浮図である。 浮屠は有名な僧侶たちの遺骨を祀るために建てられた石塔をいう。右側の浮屠は高さ3mで地対石、基壇石、蓮座台、塔身が順に組まれている。 基壇石は南北面には仁王像を、東西面には蓮の花模様を刻んだ。 塔身の下の部分にはサンスクリット文字が、上の部分には蓮の花の峰が刻まれている。 中央の浮屠は高さ2.2mで基壇石4面に蓮の花模様を刻んだ。 塔身には「瑞応堂鎮吸大師」という文字が、下には雲文が刻まれている。左側に位置する高さ1.2mの浮屠は基壇なしに塔身だけが置かれている。",
+    "QA": [
+        {
+            "question": "靑松寺址浮屠は何のために建てられましたか？",
+            "answer": "靑松寺址浮屠は有名な僧侶たちの遺骨を祀るために建てられました。"
+        },
+        {
+            "question": "靑松寺址浮屠は何基ありますか？",
+            "answer": "靑松寺址浮屠は計3基あります。"
+        },
+        {
+            "question": "靑松寺址浮屠の右側の浮屠の特徴は何ですか？",
+            "answer": "靑松寺址浮屠の右側の浮屠は高さ3mで、地対石、基壇石、蓮座台、塔身が順に組まれています。基壇石には南北面には仁王像を、東西面には蓮の花模様が刻まれています。塔身の下の部分にはサンスクリット文字が、上の部分には蓮の花の峰が刻まれています。"
+        },
+        {
+            "question": "靑松寺址浮屠の中央の浮屠の特徴は何ですか？",
+            "answer": "靑松寺址浮屠の中央の浮屠は高さ2.2mで、基壇石4面に蓮の花模様が刻まれています。塔身には「瑞応堂鎮吸大師」という文字が、下には雲文が刻まれています。"
+        },
+        {
+            "question": "靑松寺址浮屠の左側の浮屠の特徴は何ですか？",
+            "answer": "靑松寺址浮屠の左側に位置する浮屠は高さ1.2mで、基壇なしに塔身だけが置かれています。"
+        }
+    ],
+    "word_Count": {
+        "text": 291,
+        "QA": 279
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_004809",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-03",
+        "domain": "음식점",
+        "title": "ガンチョン ( 강촌 )"
+    },
+    "text": "ガンチョン ( 강촌 )\\n\n江原道 ガンヌン市 ヨンジガクギル8ボンギル1\\n\n韓国式BBQが味わえる店です。江原道のガンヌン市に位置した韓食専門店です。代表的なメニューは黒豚肉焼きです。",
+    "QA": [
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "ガンチョンは江原道のガンヌン市に位置しています。"
+        },
+        {
+            "question": "この店の特徴的なメニューは何ですか？",
+            "answer": "この店の代表的なメニューは黒豚肉焼きです。"
+        },
+        {
+            "question": "この店では何を楽しむことができますか？",
+            "answer": "この店では韓国式BBQを楽しむことができます。"
+        },
+        {
+            "question": "この店はどのような雰囲気ですか？",
+            "answer": "この店は韓食専門店であり、韓国の雰囲気を楽しむことができます。"
+        },
+        {
+            "question": "この店の営業時間は何時から何時までですか？",
+            "answer": "営業時間は特に記載されていませんが、通常はランチからディナー時間まで営業しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 69,
+        "QA": 167
+    }
+}

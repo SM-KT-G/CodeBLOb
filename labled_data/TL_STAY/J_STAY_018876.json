@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_018876",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42080&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "강릉 기억스테이펜션(강문해변 도보1분)"
+    },
+    "text": "考えが休むところ、記憶ステイ。 淡泊な海岸線と遠くの海の果てから近づいてくる小さな白い波。 感性を準備する記憶ステイ。 22時以降入室の際はペンションまで予めご連絡ください。 また、愛犬の同伴はできません。",
+    "QA": [
+        {
+            "question": "このペンションはどこにありますか？",
+            "answer": "このペンションは海岸線に位置しており、淡泊な雰囲気を楽しむことができます。"
+        },
+        {
+            "question": "海岸線にはどんな風景が広がっていますか？",
+            "answer": "海岸線には淡泊な雰囲気が広がっており、小さな白い波が遠くの海の果てから近づいてきます。"
+        },
+        {
+            "question": "ペンションには愛犬を連れて行くことはできますか？",
+            "answer": "申し訳ありませんが、ペンションでは愛犬の同伴はできません。"
+        },
+        {
+            "question": "22時以降に入室する場合はどうすればいいですか？",
+            "answer": "22時以降に入室する場合は、事前にペンションにご連絡いただくようお願いします。"
+        },
+        {
+            "question": "感性を準備するための記憶ステイとはどういうことですか？",
+            "answer": "感性を準備するための記憶ステイは、考えが休む場所であり、海岸線の淡泊な風景や小さな白い波の音などを通じて、心を落ち着かせる時間を提供します。"
+        }
+    ],
+    "word_Count": {
+        "text": 75,
+        "QA": 242
+    }
+}

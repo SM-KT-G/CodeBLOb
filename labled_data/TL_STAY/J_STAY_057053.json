@@ -1,0 +1,59 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_057053",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://kr.hotels.com/ho2123002400/yongin-elegance-yong-in-hangug/?chkin=2023-11-14&chkout=2023-11-15&x_pwa=1&rfrr=HSR&pwa_ts=1699004558366&referrerUrl=aHR0cHM6Ly9rci5ob3RlbHMuY29tL0hvdGVsLVNlYXJjaA%3D%3D&useRewards=false&rm1=a2&regionId=6141672&destination=%EC%95%84%EC%82%B0%2C+%EC%B6%A9%EC%B2%AD%EB%82%A8%EB%8F%84%2C+%ED%95%9C%EA%B5%AD&destType=MARKET&latLong=36.808583%2C126.978247&sort=RECOMMENDED&top_dp=40909&top_cur=KRW&userIntent=&selectedRoomType=230183334&selectedRatePlan=274407550&expediaPropertyId=66312575&searchId=3e9cabca-33ae-400d-86cc-d422f3a4c1d2",
+        "collectedDate": "2023-11-15",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "용인 엘레강스"
+    },
+    "text": "龍仁エレガンス\\n\n大韓民国 Gyeonggi Yongin 京畿道龍仁市器興区シンガロ84番キル20-17\\n\n龍仁エレガンスはエバーランドから車で15分以内の距離に位置しています。 こちらでは無料でWiFiをご利用いただけますし、セルフ駐車も可能です。 また、広橋湖公園との距離は5.8kmです。 エレガンスは41室の客室を保有しており、チェックインは17:00から可能です。 チェックアウト時間は13:00となっています。 現在は新型コロナウイルス感染症関連の制限事項を確認する必要があります。 チェックインの際にはクレジットカード、デビットカード、または現金デポジットをご用意いただく必要があり、添付された政府発行の身分証明書も必要になる場合があります。 チェックインは21歳以上から可能で、ペットの同伴はできません。 共用エリアでは無料WiFiが提供され、施設内には無料のセルフ駐車が可能です。 喫煙は指定された区域でのみ可能です。",
+    "QA": [
+        {
+            "question": "エレガンスはどのくらいの室数を保有していますか？",
+            "answer": "エレガンスは41室の客室を保有しています。"
+        },
+        {
+            "question": "チェックインの時間は何時からですか？",
+            "answer": "チェックインは17:00から可能です。"
+        },
+        {
+            "question": "チェックアウトの時間は何時ですか？",
+            "answer": "チェックアウト時間は13:00となっています。"
+        },
+        {
+            "question": "エレガンスは新型コロナウイルス感染症に関連した制限事項がありますか？",
+            "answer": "現在は新型コロナウイルス感染症関連の制限事項を確認する必要があります。"
+        },
+        {
+            "question": "チェックインの際に必要なものは何ですか？",
+            "answer": "チェックインの際にはクレジットカード、デビットカード、または現金デポジットをご用意いただく必要があり、添付された政府発行の身分証明書も必要になる場合があります。"
+        },
+        {
+            "question": "何歳以上からチェックインが可能ですか？",
+            "answer": "チェックインは21歳以上から可能です。"
+        },
+        {
+            "question": "ペットを連れて行くことはできますか？",
+            "answer": "ペットの同伴はできません。"
+        },
+        {
+            "question": "共用エリアで利用できるものはありますか？",
+            "answer": "共用エリアでは無料WiFiが提供され、施設内には無料のセルフ駐車が可能です。"
+        },
+        {
+            "question": "喫煙は可能ですか？",
+            "answer": "喫煙は指定された区域でのみ可能です。"
+        }
+    ],
+    "word_Count": {
+        "text": 308,
+        "QA": 326
+    }
+}

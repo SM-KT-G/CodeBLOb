@@ -1,0 +1,51 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_009489",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1218&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=79&ccbaAsno=03400000&ccbaCtcd=36&ccbaCpno=4413603400000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2007-07-03",
+        "domain": "문화/역사관광",
+        "title": "구 동본원사 목포별원"
+    },
+    "text": "旧東本願寺木浦別館 (구 동본원사 목포별원)\\n\n全羅南道木浦市栄山路75番キル5(務安洞)\\n\n1930年代初め , 国家登録文化財 , 1930年代に建設されたこの建物は日本寺院法堂で、1957年から最近まで教会として使われた。 石材を利用して日本の木造仏堂の建築意匠要素を表現した珍しい外観を見せている。 本堂の前面には礼拝用途に使われる空間を玄関化して構成し、その上の屋根は和風の薄空屋根の形で飾られている。 現在は建物内部を展示·文化施設として活用している。",
+    "QA": [
+        {
+            "question": "この建物はいつ建設されましたか？",
+            "answer": "1930年代初めに建設されました。"
+        },
+        {
+            "question": "この建物は何のために使われていましたか？",
+            "answer": "日本寺院法堂として使われていました。"
+        },
+        {
+            "question": "最近までこの建物は何に使われていましたか？",
+            "answer": "最近まで教会として使われていました。"
+        },
+        {
+            "question": "この建物の外観はどのような特徴がありますか？",
+            "answer": "石材を利用して日本の木造仏堂の建築意匠要素を表現した珍しい外観を持っています。"
+        },
+        {
+            "question": "本堂の前面には何が構成されていますか？",
+            "answer": "礼拝用途に使われる空間を玄関化して構成しています。"
+        },
+        {
+            "question": "建物の屋根はどのような形で飾られていますか？",
+            "answer": "和風の薄空屋根の形で飾られています。"
+        },
+        {
+            "question": "現在はこの建物を何に活用していますか？",
+            "answer": "現在は建物内部を展示・文化施設として活用しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 172,
+        "QA": 220
+    }
+}

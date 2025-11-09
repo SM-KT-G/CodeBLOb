@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_025371",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-05",
+        "domain": "음식점",
+        "title": "乙密臺平壌冷麺 ( 을밀대평양냉면 )"
+    },
+    "text": "乙密臺平壌冷麺 ( 을밀대평양냉면 )\\n\nソウル特別市 麻浦区 スンムンギル24\\n\n麻浦で有名な平壌冷麺の店です。いつも長い行列ができる店です おすすめはピョンヤン冷麺です。ソウル特別市のマポ区に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "この店の名前は何ですか？",
+            "answer": "乙密臺平壌冷麺 ( 을밀대평양냉면 ) です。"
+        },
+        {
+            "question": "この店はどこにありますか？",
+            "answer": "ソウル特別市麻浦区のスンムンギル24に位置しています。"
+        },
+        {
+            "question": "この店は何が有名ですか？",
+            "answer": "この店は平壌冷麺が有名です。"
+        },
+        {
+            "question": "おすすめのメニューは何ですか？",
+            "answer": "おすすめはピョンヤン冷麺です。"
+        },
+        {
+            "question": "この店では何を提供していますか？",
+            "answer": "この店では韓食を専門として提供しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 82,
+        "QA": 123
+    }
+}

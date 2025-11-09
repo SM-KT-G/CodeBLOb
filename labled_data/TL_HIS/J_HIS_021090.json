@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_021090",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/culture/digital-media-city",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "上岩デジタルメディアシティ"
+    },
+    "text": "上岩デジタルメディアシティ\\n\nソウル特別市 麻浦区 上岩洞\\n\n先端技術と環境が調和を成す未来都市DMCデジタルメディアシティ（DMC）は、ソウル特別市麻浦区上岩地区に作られた約57万㎡規模の先端デジタルメディアエンターテインメントクラスターです。施設には、DMC広報館やDMS(Digital Media Street)、DMCアートピアなどがあり、デジタルメディアシティ事業を総合的に案内する広報展示館や3D立体映像館、DMS(Digital Media Street)施設を実際に体験してみることができます。また、DMC産業団地内にはデジタルパビリオンや韓国文化コンテンツセンター（韓国映画博物館）、ワールドカップ公園などがあり、様々な文化体験をすることができます。",
+    "QA": [
+        {
+            "question": "デジタルメディアシティ（DMC）はどこにありますか？",
+            "answer": "DMCはソウル特別市麻浦区上岩地区にあります。"
+        },
+        {
+            "question": "DMCはどのような施設がありますか？",
+            "answer": "DMCには広報館やDMS、アートピアなどの施設があります。"
+        },
+        {
+            "question": "DMC広報館では何ができますか？",
+            "answer": "DMC広報館ではデジタルメディアシティ事業についての情報を提供しています。"
+        },
+        {
+            "question": "DMCアートピアでは何を体験できますか？",
+            "answer": "DMCアートピアでは実際にDMS施設を体験することができます。"
+        },
+        {
+            "question": "DMC産業団地内にはどのような施設がありますか？",
+            "answer": "DMC産業団地内にはデジタルパビリオンや韓国文化コンテンツセンター、ワールドカップ公園などがあります。"
+        },
+        {
+            "question": "DMCで何を体験することができますか？",
+            "answer": "DMCでは先端技術や文化体験など様々なことを体験することができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 247,
+        "QA": 240
+    }
+}

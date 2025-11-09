@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_029522",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.goodchoice.kr/product/detail?ano=63411&adcno=1&sel_date=2023-11-07&sel_date2=2023-11-08",
+        "collectedDate": "2023-11-15",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "태백 힐탑모텔"
+    },
+    "text": "宿は予約は電話で承ります。 予約番号は033*553*9880です。 宿泊料は2名基準であり、人数を超える場合は1名当たり1万ウォンの追加料金が発生します。 宿は太白駅と市外バスターミナルから徒歩5分の距離に位置しております。",
+    "QA": [
+        {
+            "question": "宿の予約はどのように行いますか？",
+            "answer": "宿の予約は電話で受け付けております。予約番号は033*553*9880です。"
+        },
+        {
+            "question": "宿泊料金はどのように計算されますか？",
+            "answer": "宿泊料金は2名基準となっており、人数を超える場合は1名当たり1万ウォンの追加料金が発生します。"
+        },
+        {
+            "question": "宿の場所はどこですか？",
+            "answer": "宿は太白駅と市外バスターミナルから徒歩5分の距離に位置しております。"
+        }
+    ],
+    "word_Count": {
+        "text": 82,
+        "QA": 120
+    }
+}

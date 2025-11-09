@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_067509",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/collectionList#######",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "백자 뚜껑 있는 항아리"
+    },
+    "text": "白磁 蓋付き 壺 (백자 뚜껑 있는 항아리)\\n\n国籍/時代: 「この壺は韓国-朝鮮の時代に製造されました。」 材質: 「この壺は白磁でできています。」 分類: 「この壺は食生活の中で食べ物の保存や運搬に使用されていました。」 大きさ: 「壺の蓋の高さは44cm、直径は89cmで、壺自体の高さは125cm、着丈は75cm、底の直径が90cmです。」",
+    "QA": [
+        {
+            "question": "この壺はどの国の時代に製造されましたか？",
+            "answer": "この壺は韓国-朝鮮の時代に製造されました。"
+        },
+        {
+            "question": "この壺はどの材質でできていますか？",
+            "answer": "この壺は白磁でできています。"
+        },
+        {
+            "question": "この壺はどのような分類に属していますか？",
+            "answer": "この壺は食生活の中で食べ物の保存や運搬に使用されていました。"
+        },
+        {
+            "question": "この壺の大きさはどのくらいですか？",
+            "answer": "壺の蓋の高さは44cm、直径は89cmで、壺自体の高さは125cm、着丈は75cm、底の直径が90cmです。"
+        }
+    ],
+    "word_Count": {
+        "text": 129,
+        "QA": 141
+    }
+}

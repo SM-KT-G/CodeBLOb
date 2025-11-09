@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_004326",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://apis.data.go.kr/1400000/service/cultureInfoService2/mntInfoOpenAPI2",
+        "collectedDate": "2023-11-22",
+        "publishedDate": "2020-12-01",
+        "domain": "자연관광",
+        "title": "가음산"
+    },
+    "text": "加音山 (가음산)\\n\n全羅南道霊光郡塩山面夜月里\\n\n山の高さ : 206.2m , 佳音山は塩山面夜月里にあり、昔の通信機関だった烽火台があった高い山だ。 西49里にあるが、南に咸平県の解題烽燧に応じ、北に古都烽燧に伝えると記録されているという。",
+    "QA": [
+        {
+            "question": "加音山はどこにありますか？",
+            "answer": "加音山は全羅南道霊光郡塩山面夜月里にあります。"
+        },
+        {
+            "question": "加音山の高さは何メートルですか？",
+            "answer": "加音山の高さは206.2mです。"
+        },
+        {
+            "question": "加音山には何がありますか？",
+            "answer": "加音山には昔の通信機関であった烽火台があります。"
+        },
+        {
+            "question": "加音山はどのような位置関係にありますか？",
+            "answer": "加音山は西49里にあり、南に咸平県の解題烽燧に応じ、北に古都烽燧に伝えるとされています。"
+        }
+    ],
+    "word_Count": {
+        "text": 91,
+        "QA": 123
+    }
+}

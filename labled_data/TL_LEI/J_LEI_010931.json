@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_LEI_010931",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2023-02-20",
+        "domain": "레포츠",
+        "title": "경춘선숲길"
+    },
+    "text": "キョンチュンソン林道 (경춘선숲길)\\n\nソウル特別市蘆原区下渓洞107-2\\n\nアナログ的な感性に満ちた都市、鉄道、ペンフォレストの道はロマンチックさにあふれています。かつて市が通っていた鉄道を改造し、ニュートロの名所として人気があります。区間ごとに様々なテーマがあり、退屈する暇がありません。天気の良い日に歩くのに本当に良いコースです。",
+    "QA": [
+        {
+            "question": "この林道の場所はどこですか？",
+            "answer": "ソウル特別市蘆原区下渓洞107-2にあります。"
+        },
+        {
+            "question": "この林道は何によって改造されましたか？",
+            "answer": "かつて市が通っていた鉄道を改造しました。"
+        },
+        {
+            "question": "この林道で何を見ることができますか？",
+            "answer": "都市、鉄道、ペンフォレストの道を見ることができます。"
+        },
+        {
+            "question": "この林道を歩くのに最適な日は何ですか？",
+            "answer": "天気の良い日に歩くのが本当に良いコースです。"
+        },
+        {
+            "question": "この林道のテーマは何ですか？",
+            "answer": "区間ごとに様々なテーマがあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 124,
+        "QA": 140
+    }
+}

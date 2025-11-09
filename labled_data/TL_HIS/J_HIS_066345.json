@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_066345",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2023-07-25",
+        "domain": "문화/역사관광",
+        "title": "박물관 수"
+    },
+    "text": "開館日は2011年5月25日の刺繍と民話を専門のコンテンツとして展示する博物館だ。この博物館ではベゲッモ刺繍とその他伝統刺繍遺物を観覧することができ、民話の遺物も観覧することができる。また、刺繍と民話を基盤にした体験教育も可能だ。",
+    "QA": [
+        {
+            "question": "この博物館はいつ開館しましたか？",
+            "answer": "2011年5月25日に開館しました。"
+        },
+        {
+            "question": "この博物館ではどのような展示がありますか？",
+            "answer": "ベゲッモ刺繍やその他の伝統刺繍遺物の展示があります。また、民話の遺物も展示されています。"
+        },
+        {
+            "question": "この博物館では体験教育ができますか？",
+            "answer": "はい、刺繍と民話を基盤にした体験教育が可能です。"
+        },
+        {
+            "question": "この博物館はどのような専門分野を扱っていますか？",
+            "answer": "刺繍と民話を専門のコンテンツとして扱っています。"
+        }
+    ],
+    "word_Count": {
+        "text": 84,
+        "QA": 138
+    }
+}

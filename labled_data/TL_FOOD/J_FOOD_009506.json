@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_009506",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2022-12-08",
+        "domain": "음식점",
+        "title": "터치더스카이"
+    },
+    "text": "タッチ·ザ·スカイ (터치더스카이)\\n\nソウル特別市永登浦区63路50\\n\n漢江を一望できる最高の景色を誇るのは、63ビルの58階にあるレストランです。ここでは、VIPの方々にふさわしい高級な社交会や、大切な人との特別なデートを、本格的なフレンチ料理と一緒に楽しむことができます。",
+    "QA": [
+        {
+            "question": "場所はどこにありますか？",
+            "answer": "タッチ・ザ・スカイ（터치더스카이）はソウル特別市永登浦区に位置しています。"
+        },
+        {
+            "question": "どのような景色が見えますか？",
+            "answer": "ここからは漢江を一望することができます。"
+        },
+        {
+            "question": "どのようなイベントやデートに適していますか？",
+            "answer": "タッチ・ザ・スカイでは、VIPの方々にふさわしい高級な社交会や、大切な人との特別なデートを楽しむことができます。"
+        },
+        {
+            "question": "どのような料理が提供されますか？",
+            "answer": "タッチ・ザ・スカイでは本格的なフレンチ料理を提供しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 103,
+        "QA": 151
+    }
+}

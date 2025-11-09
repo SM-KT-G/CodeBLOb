@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_022366",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/samgyori-wonjo-dongchimi-makguksu",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "三橋里元祖ドンチミ混ぜそば"
+    },
+    "text": "三橋里元祖ドンチミ混ぜそば\\n\n江原道 ガンヌン市 ジュムンジン邑 シンリチョンロ760\\n\nそば粉で作った麺と大根の水キムチを入れた麺料理です。代表的なメニューは混ぜそばです。江原道のガンヌン市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "このお店の名前は何ですか？",
+            "answer": "三橋里元祖ドンチミ混ぜそば"
+        },
+        {
+            "question": "このお店はどこにありますか？",
+            "answer": "江原道 ガンヌン市 ジュムンジン邑 シンリチョンロ760"
+        },
+        {
+            "question": "この麺料理にはどんな材料が使われていますか？",
+            "answer": "そば粉と大根の水キムチ"
+        },
+        {
+            "question": "このお店の代表的なメニューは何ですか？",
+            "answer": "混ぜそば"
+        },
+        {
+            "question": "このお店はどのような特徴がありますか？",
+            "answer": "韓食専門店であり、そば粉の麺と大根の水キムチを組み合わせた料理が人気です。"
+        }
+    ],
+    "word_Count": {
+        "text": 81,
+        "QA": 132
+    }
+}

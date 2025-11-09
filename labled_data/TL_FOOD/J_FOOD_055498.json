@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_055498",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/halmaejip",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "ハルメチプ"
+    },
+    "text": "ハルメチプ\\n\nソウル特別市 鍾路区 社稷路12キル 1-5\\n\n一般的なカムジャタンとは違い、ここは豆モヤシとニラを使って作り上げたさっぱりとしたスープが逸品です。粉唐辛子で辛さを加えているため雑味がなく、すっきりとした味わいです。",
+    "QA": [
+        {
+            "question": "このお店の場所はどこですか？",
+            "answer": "ソウル特別市 鍾路区 社稷路12キル 1-5にあります。"
+        },
+        {
+            "question": "このお店の特徴的な料理は何ですか？",
+            "answer": "ここの特徴的な料理は豆モヤシとニラを使ったさっぱりとしたカムジャタンです。"
+        },
+        {
+            "question": "このカムジャタンの味はどんな感じですか？",
+            "answer": "このカムジャタンは粉唐辛子で辛さを加えているため、雑味がなくすっきりとした味わいです。"
+        }
+    ],
+    "word_Count": {
+        "text": 85,
+        "QA": 116
+    }
+}

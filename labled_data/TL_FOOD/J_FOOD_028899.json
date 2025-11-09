@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_028899",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/philkyungjae",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "必敬斎"
+    },
+    "text": "必敬斎\\n\nソウル特別市 江南区 広平路205 )\\n\n500年の歴史を持つ必敬斎は、1987年に文化観光部より伝統建造物第1号に指定されました。その後、伝統宮中料理専門店として韓国の味を多くの人々に提供しています。",
+    "QA": [
+        {
+            "question": "必敬斎はどのような建物ですか？",
+            "answer": "必敬斎は500年の歴史を持つ伝統建造物で、韓国の伝統宮中料理専門店です。"
+        },
+        {
+            "question": "必敬斎はいつ指定されましたか？",
+            "answer": "必敬斎は1987年に文化観光部より伝統建造物第1号に指定されました。"
+        },
+        {
+            "question": "必敬斎はどの区に位置していますか？",
+            "answer": "必敬斎はソウル特別市江南区に位置しています。"
+        },
+        {
+            "question": "必敬斎はどの通りにありますか？",
+            "answer": "必敬斎は広平路205にあります。"
+        },
+        {
+            "question": "必敬斎は何を提供していますか？",
+            "answer": "必敬斎は韓国の味を多くの人々に提供しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 79,
+        "QA": 152
+    }
+}

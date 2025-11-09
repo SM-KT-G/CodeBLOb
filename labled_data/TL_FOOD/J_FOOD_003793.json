@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_003793",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-06",
+        "domain": "음식점",
+        "title": "オモニデソンジプ ( 어머니대성집 )"
+    },
+    "text": "オモニデソンジプ ( 어머니대성집 )\\n\nソウル特別市 東大門区 ムハクロ43ギル44\\n\n温かいスープが食べたい時にぴったりの店です。おすすめは酔い覚ましスープです。ソウル特別市のドンデムン区に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "オモニデソンジプはどこにありますか？",
+            "answer": "オモニデソンジプはソウル特別市の東大門区に位置しています。"
+        },
+        {
+            "question": "オモニデソンジプのおすすめメニューは何ですか？",
+            "answer": "オモニデソンジプのおすすめは酔い覚ましスープです。"
+        },
+        {
+            "question": "オモニデソンジプは何の専門店ですか？",
+            "answer": "オモニデソンジプは韓食専門店です。"
+        },
+        {
+            "question": "オモニデソンジプで食べられるスープはありますか？",
+            "answer": "オモニデソンジプでは温かいスープが食べられます。"
+        }
+    ],
+    "word_Count": {
+        "text": 81,
+        "QA": 130
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_018855",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1167&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=05600000&ccbaCtcd=37&ccbaCpno=3413705600000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2009-11-23",
+        "domain": "문화/역사관광",
+        "title": "봉화 해은구택"
+    },
+    "text": "奉化ヘウン旧宅 (봉화 해은구택)\\n\n慶尚北道奉化郡陽村キル29(法田面)\\n\n慶尚北道文化財資料 , ∙ 桂河江帝が建設した住宅で、法典姜氏宗宅の前面に位置している。 ∙ 正針は正面6間、側面6間半規模の「口」字型建物で、サランチェは中門間の右側に配置されているが、左側2間は前面に退間を置いた2通間のサランバンを、右側にはマルバンを置き、サランバンの後ろには小さなサランバンを置いた。 ∙ 母屋は2間の板の間を中心に左側には奥の間を、右側には向かい側の部屋と上の部屋を設け、奥の間の前面には台所を連接させた。",
+    "QA": [
+        {
+            "question": "この建物は誰によって建設されましたか？",
+            "answer": "桂河江帝が建設しました。"
+        },
+        {
+            "question": "この建物はどのような形をしていますか？",
+            "answer": "口字型の建物です。"
+        },
+        {
+            "question": "サランバンとは何ですか？",
+            "answer": "サランバンは、建物の中門間の右側に配置された部屋です。"
+        },
+        {
+            "question": "この建物の母屋にはどのような部屋がありますか？",
+            "answer": "母屋には奥の間、向かい側の部屋、上の部屋があります。"
+        },
+        {
+            "question": "この建物の台所はどこに位置していますか？",
+            "answer": "台所は奥の間の前面に連接されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 188,
+        "QA": 136
+    }
+}

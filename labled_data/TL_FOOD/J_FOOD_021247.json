@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_021247",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "宝門亭 ( 보문정 )"
+    },
+    "text": "宝門亭 ( 보문정 )\n慶尚北道 安東市 豊川面 千年スプ西路 15\n蔓人蔘焼きとゆで肉の組み合わせが抜群の店です。慶尚北道のアンドン市に位置した韓食専門店です。代表的なメニューはカルビです。",
+    "QA": [
+        {
+            "question": "宝門亭はどこに位置していますか？",
+            "answer": "宝門亭は慶尚北道のアンドン市に位置しています。"
+        },
+        {
+            "question": "宝門亭の代表的なメニューは何ですか？",
+            "answer": "宝門亭の代表的なメニューはカルビです。"
+        },
+        {
+            "question": "宝門亭の料理の特徴は何ですか？",
+            "answer": "宝門亭の料理は、蔓人蔘焼きとゆで肉の組み合わせが抜群です。"
+        },
+        {
+            "question": "宝門亭の住所は何ですか？",
+            "answer": "宝門亭の住所は慶尚北道安東市豊川面千年スプ西路15です。"
+        }
+    ],
+    "word_Count": {
+        "text": 70,
+        "QA": 117
+    }
+}

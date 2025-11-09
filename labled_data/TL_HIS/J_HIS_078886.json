@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_078886",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=812&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=00520000&ccbaCtcd=21&ccbaCpno=2332100520000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2001-10-17",
+        "domain": "문화/역사관광",
+        "title": "사처석교비"
+    },
+    "text": "朝鮮時代、正祖5年(1781)に東莱府使のイ・ムンウォンの寄付金と東莱府の有志たちの募金で東莱府の南門の外にいた木の橋四ヵ所を石橋に変える記念石碑が建てられた。海辺にあった碑石は道路拡張工事によって錦江(クムガン)公園、臨津江(イムジンガン)、東莱(トンレ)議員総会の入口に移され、その後現在の位置に移されたのだ。この木の橋は1~2年ごとに民たちに費用を収めて直して積むようになって民に苦しみをもたらした。なので、地域住民カンウィソンが石橋を作ろうと提案し、パクドユ、博士であるなど4~5人が地域を回りながら募金した後、東莱府使でもお金を寄付して石橋を完成した。この碑石は、当時の道路や橋の状況を知らせる歴史的価値と建設連帯性、石橋改築年代が明確に郷土史的な価値も高い文化財である。",
+    "QA": [
+        {
+            "question": "この碑石が建てられた年はいつですか？",
+            "answer": "この碑石は朝鮮時代、正祖5年(1781)に建てられました。"
+        },
+        {
+            "question": "この碑石を建てるために寄付した人物は誰ですか？",
+            "answer": "この碑石を建てるためには、東莱府使のイ・ムンウォンや地域住民カンウィソンなどが寄付しました。"
+        },
+        {
+            "question": "木の橋から石橋に変えられた理由は何ですか？",
+            "answer": "木の橋は1~2年ごとに修理が必要であり、地域住民に負担をかけていたため、石橋に変えることになりました。"
+        },
+        {
+            "question": "この碑石の移動経緯について教えてください。",
+            "answer": "碑石は海辺から道路拡張工事によって錦江(クムガン)公園、臨津江(イムジンガン)、東莱(トンレ)議員総会の入口に移され、その後現在の位置に移されました。"
+        },
+        {
+            "question": "この碑石の文化財的な価値は何ですか？",
+            "answer": "この碑石は当時の道路や橋の状況を知らせる歴史的価値や、建設連帯性、石橋改築年代が明確に郷土史的な価値を持っています。"
+        }
+    ],
+    "word_Count": {
+        "text": 250,
+        "QA": 264
+    }
+}

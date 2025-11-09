@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_031903",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2022-04-19",
+        "domain": "문화/역사관광",
+        "title": "湫岩吊橋（추암 출렁다리）"
+    },
+    "text": "湫岩吊橋\n江原道 東海市 チョッテパウィキル 28\n湫岩吊橋は、日の出スポットとして有名な湫岩（チュアム）燭台岩（チョッテパウィ）がある湫岩海岸に、2019年6月新たに造られた全長72メートルの海上吊橋で、韓国では唯一、海の上に架けられた吊橋です。",
+    "QA": [
+        {
+            "question": "湫岩吊橋はどこにありますか？",
+            "answer": "湫岩吊橋は江原道東海市の湫岩海岸にあります。"
+        },
+        {
+            "question": "湫岩吊橋の全長は何メートルですか？",
+            "answer": "湫岩吊橋の全長は72メートルです。"
+        },
+        {
+            "question": "湫岩吊橋はいつ造られましたか？",
+            "answer": "湫岩吊橋は2019年6月に造られました。"
+        },
+        {
+            "question": "湫岩吊橋は韓国で唯一の海上吊橋ですか？",
+            "answer": "はい、湫岩吊橋は韓国で唯一の海上に架けられた吊橋です。"
+        },
+        {
+            "question": "湫岩吊橋の特徴は何ですか？",
+            "answer": "湫岩吊橋の特徴は日の出スポットとして有名な湫岩燭台岩があることです。"
+        }
+    ],
+    "word_Count": {
+        "text": 90,
+        "QA": 145
+    }
+}

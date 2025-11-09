@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_037653",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=428&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=00690000&ccbaCtcd=22&ccbaCpno=2112200690000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2013-10-30",
+        "domain": "문화/역사관광",
+        "title": "천자문"
+    },
+    "text": "千字文 (천자문)\\n\n大邱広域市南区\\n\n大邱広域市有形文化財、この本は朝鮮中期書道家である韓濩(ハンホ/1543~1605)の筆跡で、孝宗1年(1650)に木活字で刊行した『千字文』だ。 児童用の漢字教育書籍で、文字ごとにハングル素子の発音、意味と声調が付記されている。 印刷が非常に鮮明で、辛丑本(1601)の重補本として朝鮮中期の漢字音の変遷を究明することができ、巻末に収録された引き出し機を通じて最初の版刻時期と増補時期を把握することができ、朝鮮中期の『千字文』刊行研究に重要な資料だ。 現在伝えられている大部分の『千字文』が木版本であるのに比べ、特大型木活字で引き出された珍しい本という点で書誌学的資料として価値がある。",
+    "QA": [
+        {
+            "question": "この本は誰によって書かれましたか？",
+            "answer": "この本は韓濩（ハンホ）という朝鮮中期の書道家によって書かれました。"
+        },
+        {
+            "question": "この本はいつ刊行されましたか？",
+            "answer": "この本は孝宗1年（1650年）に刊行されました。"
+        },
+        {
+            "question": "この本は何のために使われる書籍ですか？",
+            "answer": "この本は児童のための漢字教育書籍です。"
+        },
+        {
+            "question": "この本はどのような特徴がありますか？",
+            "answer": "この本は文字ごとにハングル素子の発音、意味と声調が付記されており、非常に鮮明な印刷がされています。また、引き出し機を通じて版刻時期と増補時期を把握することができる重要な資料となっています。"
+        },
+        {
+            "question": "この本はどのような価値がありますか？",
+            "answer": "この本は特大型木活字で引き出された珍しい本であり、書誌学的な資料として価値があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 231,
+        "QA": 220
+    }
+}

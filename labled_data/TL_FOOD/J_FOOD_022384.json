@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_022384",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2020-11-26",
+        "domain": "음식점",
+        "title": "三昧 ゼウォン( 잔마이 제원 )"
+    },
+    "text": "三昧 ゼウォン( 잔마이 제원 )\\n\n済州特別自治道 済州市  ジェウォンキル 16\\n\n新鮮なマグロの刺身が味わえます。おすすめはサーモン丼です。済州特別自治道のジェジュ市に位置した和食専門店です。",
+    "QA": [
+        {
+            "question": "この和食専門店の場所はどこですか？",
+            "answer": "済州特別自治道のジェジュ市に位置しています。"
+        },
+        {
+            "question": "この和食専門店のおすすめメニューは何ですか？",
+            "answer": "新鮮なマグロの刺身が味わえるサーモン丼がおすすめです。"
+        },
+        {
+            "question": "この和食専門店の住所は何ですか？",
+            "answer": "済州特別自治道済州市ジェウォンキル16です。"
+        }
+    ],
+    "word_Count": {
+        "text": 74,
+        "QA": 92
+    }
+}

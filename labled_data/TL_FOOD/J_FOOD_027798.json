@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_027798",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "青鶴洞黒山羊肉 ( 청학동흑염소 )"
+    },
+    "text": "青鶴洞黒山羊肉 ( 청학동흑염소 )\\n\nソウル特別市 ヨンドゥンポ区 ヨンドゥンポロ356\\n\n体に良い様々な黒山羊料理を味わえる店です。おすすめは山羊肉の寄せ鍋です。ソウル特別市のヨンドゥンポ区に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "このレストランの場所はどこですか？",
+            "answer": "ソウル特別市のヨンドゥンポ区に位置しています。"
+        },
+        {
+            "question": "このレストランの特徴は何ですか？",
+            "answer": "体に良い様々な黒山羊料理を味わえる店です。"
+        },
+        {
+            "question": "おすすめのメニューは何ですか？",
+            "answer": "おすすめは山羊肉の寄せ鍋です。"
+        },
+        {
+            "question": "このレストランは何を専門としていますか？",
+            "answer": "韓食を専門としています。"
+        }
+    ],
+    "word_Count": {
+        "text": 82,
+        "QA": 101
+    }
+}

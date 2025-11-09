@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_010943",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-01",
+        "domain": "음식점",
+        "title": "トンシンマクチャン ( 동신막창 )"
+    },
+    "text": "トンシンマクチャン ( 동신막창 )\n慶尚北道 安東市 太華5キル 2-1\n地元の人々がよく訪れる隠れたグルメ店です。 慶尚北道のアンドン市に位置した韓食専門店です。おすすめは牛マクチャンです。",
+    "QA": [
+        {
+            "question": "このグルメ店の名前は何ですか？",
+            "answer": "このグルメ店の名前はトンシンマクチャンです。"
+        },
+        {
+            "question": "この店はどこに位置していますか？",
+            "answer": "この店は慶尚北道のアンドン市、太華5キル2-1に位置しています。"
+        },
+        {
+            "question": "この店のおすすめメニューは何ですか？",
+            "answer": "この店のおすすめメニューは牛マクチャンです。"
+        },
+        {
+            "question": "この店は地元の人々によく訪れると言われていますか？",
+            "answer": "はい、この店は地元の人々によく訪れる隠れたグルメ店です。"
+        }
+    ],
+    "word_Count": {
+        "text": 71,
+        "QA": 130
+    }
+}

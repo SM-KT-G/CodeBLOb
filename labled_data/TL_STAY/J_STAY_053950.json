@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_053950",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42020&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "베니키아 양산 호텔"
+    },
+    "text": "ヤンサン市唯一の観光ホテルで、品格とインテリアが自慢です。 このホテルはブサンから17km、キムヘ国際空港からも17km離れたところに位置しており、都心へのアクセスと多くの観光地との近接性を持っています。 その他にも古い寺院であるトンド寺とネワン寺、多くのゴルフコース(パブリックコースおよび正規コース)、そして通度ファンタジアテーマパークやエデンベリースキー場などにも近い位置にあります。",
+    "QA": [
+        {
+            "question": "このホテルはどこに位置していますか？",
+            "answer": "このホテルはヤンサン市に位置しています。"
+        },
+        {
+            "question": "ホテルからブサンまでの距離は何キロですか？",
+            "answer": "ホテルからブサンまでの距離は17kmです。"
+        },
+        {
+            "question": "ホテルからキムヘ国際空港までの距離は何キロですか？",
+            "answer": "ホテルからキムヘ国際空港までの距離も17kmです。"
+        },
+        {
+            "question": "どの観光地に近接していますか？",
+            "answer": "ホテルは都心へのアクセスと多くの観光地との近接性を持っており、古い寺院であるトンド寺とネワン寺、多くのゴルフコース、そして通度ファンタジアテーマパークやエデンベリースキー場にも近い位置にあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 143,
+        "QA": 178
+    }
+}

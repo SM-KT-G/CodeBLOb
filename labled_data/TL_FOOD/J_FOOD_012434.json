@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_012434",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-01",
+        "domain": "음식점",
+        "title": "ビョゴドン ( 벽오동 )"
+    },
+    "text": "ビョゴドン ( 벽오동 )\\n\n全羅南道 順天市 上沙湖キル 73\\n\n麦ご飯と様々な種類のおかずを葉野菜で包んで食べる料理を提供する店です。全羅南道のスンチョン市に位置した麦ご飯専門店です。代表的なメニューは麦ご飯定食です。",
+    "QA": [
+        {
+            "question": "ビョゴドンはどんな料理ですか？",
+            "answer": "ビョゴドンは麦ご飯と様々な種類のおかずを葉野菜で包んで食べる料理です。"
+        },
+        {
+            "question": "ビョゴドンの店舗はどこにありますか？",
+            "answer": "ビョゴドンの店舗は全羅南道のスンチョン市に位置しています。具体的な住所は全羅南道 順天市 上沙湖キル 73です。"
+        },
+        {
+            "question": "ビョゴドンの代表的なメニューは何ですか？",
+            "answer": "ビョゴドンの代表的なメニューは麦ご飯定食です。"
+        }
+    ],
+    "word_Count": {
+        "text": 82,
+        "QA": 122
+    }
+}

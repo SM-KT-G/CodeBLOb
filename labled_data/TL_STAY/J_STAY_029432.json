@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_029432",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2020-03-18",
+        "domain": "숙박",
+        "title": "헬레나 홈스테이"
+    },
+    "text": "ヘレナホームステイ (헬레나 홈스테이)\\n\nソウル特別市江南区道谷路93ギル12(大峙洞、レミアン大峙ハイストン)206棟102号\\n\n当店は外国人観光客専用の民宿業です。韓国人のご利用はできません。",
+    "QA": [
+        {
+            "question": "ヘレナホームステイの場所はどこですか？",
+            "answer": "ヘレナホームステイはソウル特別市江南区道谷路93ギル12にあります。"
+        },
+        {
+            "question": "ヘレナホームステイは誰が利用できますか？",
+            "answer": "ヘレナホームステイは外国人観光客専用の民宿業です。韓国人の利用はできません。"
+        },
+        {
+            "question": "ヘレナホームステイの建物の番号は何番ですか？",
+            "answer": "ヘレナホームステイの建物は206棟102号です。"
+        }
+    ],
+    "word_Count": {
+        "text": 74,
+        "QA": 115
+    }
+}

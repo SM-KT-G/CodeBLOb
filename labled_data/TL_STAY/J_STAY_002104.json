@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_002104",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42070&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "괴산 스테이나루펜션"
+    },
+    "text": "STAYNARUは、澄んだ川辺の新鮮さと清涼な空気、美しい時間が一緒に調和し、幸せなヒーリングをプレゼントします。 過ごすその瞬間があなたの記憶の中に良い思い出として残ることを願います。 22時以降に入室される場合は予めご連絡ください。",
+    "QA": [
+        {
+            "question": "澄んだ川辺とはどのような場所ですか？",
+            "answer": "澄んだ川辺は、透明度の高い川や川岸のことを指します。清澄な水が流れ、周りの景色も美しい場所です。"
+        },
+        {
+            "question": "STAYNARUで提供される新鮮さとは何ですか？",
+            "answer": "STAYNARUでは、新鮮な食材や空気、川辺の自然環境を大切にしています。食事や自然の中で感じる清涼感、新鮮さが特徴です。"
+        },
+        {
+            "question": "STAYNARUで過ごす時間はどのような思い出になりますか？",
+            "answer": "STAYNARUで過ごす時間は、心地よい空間と美しい自然に囲まれた思い出として残ることでしょう。澄んだ川辺でのヒーリング体験や夜の静けさも特別な思い出になるはずです。"
+        },
+        {
+            "question": "22時以降に入室する場合はどのように連絡すればいいですか？",
+            "answer": "22時以降に入室する場合は、事前にご連絡いただければ対応いたします。お手数ですが、連絡方法をお教えください。"
+        }
+    ],
+    "word_Count": {
+        "text": 86,
+        "QA": 254
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_002556",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/goods/GN0002158517?startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0%5E&npprmaxsort=min",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "제주 이테르펜션"
+    },
+    "text": "イテルはラテン語で旅行または旅程を意味する名前の宿です。 イテルは涯月沖を一望でき、美しいサンセットを誇っています。 宿泊施設内の客室はオーシャンビューを備えており、客室内には無料Wi-Fiと洗面用具が備えられています。 また、個別の屋外バーベキュー施設も提供されます。 バーベキュー施設は炭とグリルのセットが提供され、利用時間は18:00から21:00までです。",
+    "QA": [
+        {
+            "question": "イテルは何を意味する名前の宿ですか？",
+            "answer": "イテルはラテン語で旅行または旅程を意味する名前の宿です。"
+        },
+        {
+            "question": "イテルの客室にはどのような設備がありますか？",
+            "answer": "イテルの客室はオーシャンビューを備えており、無料Wi-Fiと洗面用具が備えられています。"
+        },
+        {
+            "question": "イテルではバーベキュー施設を利用することができますか？",
+            "answer": "はい、イテルでは個別の屋外バーベキュー施設を提供しています。利用時間は18:00から21:00までです。"
+        }
+    ],
+    "word_Count": {
+        "text": 133,
+        "QA": 140
+    }
+}

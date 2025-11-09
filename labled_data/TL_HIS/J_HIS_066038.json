@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_066038",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1083&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=01860000&ccbaCtcd=38&ccbaCpno=3413801860000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1991-12-23",
+        "domain": "문화/역사관광",
+        "title": "밀양 교동 손정식 고가"
+    },
+    "text": "密陽校洞 ソンジョンシク 高価\\n\n慶尚南道密陽市密陽郷校1ギル2-11(校洞)\\n\n慶尚南道文化財資料、密陽(ミルヤン)郷校西西村に位置する古巣に、朝鮮時代の高宗8年(1871)に建てた。母屋を中心に鉤型サランチェ(居間棟)や蔵軒がㅁジャ型に配置されている。中門の門屋社債はサランチェ(居間棟)につながっており、中庭を中心にすべての空間が連結されており、門屋は最近建設されたものだ。母屋は表7間・側面2間規模であり、屋根は側面から見ると、人の教わる字形の切妻屋根である。前方にトェカンがおり、裏には部分的にトェカンをめぐった。台所を増やして眉毛屋根で処理した出入り口は特異である。サランチェは表4間・側面2間規模で屋根は切妻屋根である。4両が直角につながり、鉤型をなしており、3間規模の中門の門屋て平行に連結されている。裏の縁側と中庭が連結されており、部屋の数が増えて機能の分化が行われた。",
+    "QA": [
+        {
+            "question": "この建物はいつ建てられましたか？",
+            "answer": "この建物は高宗8年（1871年）に建てられました。"
+        },
+        {
+            "question": "この建物はどのような配置になっていますか？",
+            "answer": "この建物は母屋を中心に鉤型サランチェ（居間棟）や蔵軒が配置されています。"
+        },
+        {
+            "question": "中門の門屋は何につながっていますか？",
+            "answer": "中門の門屋はサランチェ（居間棟）につながっています。"
+        },
+        {
+            "question": "この建物の特徴的な屋根の形は何ですか？",
+            "answer": "この建物の屋根は側面から見ると人の教わる字形の切妻屋根です。"
+        },
+        {
+            "question": "この建物の出入り口の処理はどのようになっていますか？",
+            "answer": "この建物の出入り口は特異で、眉毛屋根で処理されています。"
+        },
+        {
+            "question": "中庭はどのような役割を果たしていますか？",
+            "answer": "中庭は中心にすべての空間が連結されており、裏の縁側とも連結されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 290,
+        "QA": 220
+    }
+}

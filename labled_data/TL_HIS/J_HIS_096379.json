@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_096379",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1270&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=79&ccbaAsno=08380000&ccbaCtcd=35&ccbaCpno=4413508380000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2022-09-07",
+        "domain": "문화/역사관광",
+        "title": "이영춘 농촌위생 진료 기록물"
+    },
+    "text": "イ·ヨンチュン農村衛生診療記録物\\n\n全羅北道群山市海望路240(チャンミドン、ジャンミドン)\\n\n1936~1954年、国の登録文化財、\"イ・ヨンチュン、農村衛生診療記録物\"は、農村保健衛生の先駆者と呼ばれる、イ・ヨンチュン博士が直接記録した慈恵診療所日誌と改正中央病院日誌、農村衛生研究所の日誌など関連記録物3件だ。慈恵診療所の日誌は1935年日本人が経営する群山熊本農場の医療院の慈恵診療所の所長に赴任後熊本農場小作人3千世帯二万人余りを対象に診療し、記録した記録物だ。改正中央病院日誌は診療所で治療しにくい入院や手術患者のために1947年に設立された改正中央病院の診療記録で、当時農村住民の健康状態と農村の医療の実態を確認することができる。また、イ・ヨンチュン、博士は、セブランス医学専門学校在学時代に設立者エビスンの教えだった\"治療より予防の重要性\"を実践するため、1948年、農村の衛生研究所を設立した。イ・ヨンチュン、博士が直接作成した農村衛生研究所の日誌は農村社会に蔓延した寄生虫、結核、伝染病などから農民の健康を守るために展開した農村衛生事業活動の過程を垣間見ることのできる資料であり、医療体系が構築される前に農村保健衛生システムを備えた珍しい例として、公衆保健医療私的に貴重な価値を持つ。",
+    "QA": [
+        {
+            "question": "誰が農村保健衛生の先駆者と呼ばれる？",
+            "answer": "イ・ヨンチュン博士"
+        },
+        {
+            "question": "どんな記録物が含まれていますか？",
+            "answer": "慈恵診療所日誌、改正中央病院日誌、農村衛生研究所の日誌"
+        },
+        {
+            "question": "どこに慈恵診療所が位置していましたか？",
+            "answer": "群山熊本農場"
+        },
+        {
+            "question": "いつ改正中央病院が設立されましたか？",
+            "answer": "1947年"
+        },
+        {
+            "question": "なぜイ・ヨンチュン博士は農村の衛生研究所を設立しましたか？",
+            "answer": "治療より予防の重要性を実践するため"
+        }
+    ],
+    "word_Count": {
+        "text": 406,
+        "QA": 120
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_108178",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/view?relicId=73672",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2023-10-11",
+        "domain": "문화/역사관광",
+        "title": "청자 대반"
+    },
+    "text": "青磁大盤 (청자 대반)\\n\n中国の元時代に存在した青磁製の陶磁器です。これは食生活に関連した食べ物に使用されたもので、その高さは62cm、口の直径は34cm、底の直径は8cmです。",
+    "QA": [
+        {
+            "question": "この青磁大盤はどのように使われていましたか？",
+            "answer": "この青磁大盤は食生活に関連した食べ物に使用されていました。"
+        },
+        {
+            "question": "青磁大盤の高さ、口の直径、底の直径はそれぞれいくつですか？",
+            "answer": "青磁大盤の高さは62cm、口の直径は34cm、底の直径は8cmです。"
+        },
+        {
+            "question": "この青磁大盤はどの時代に存在しましたか？",
+            "answer": "この青磁大盤は中国の元時代に存在しました。"
+        }
+    ],
+    "word_Count": {
+        "text": 66,
+        "QA": 113
+    }
+}

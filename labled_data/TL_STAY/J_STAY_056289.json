@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_056289",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2023-03-02",
+        "domain": "숙박",
+        "title": "에버미라클호텔[한국관광 품질인증/Korea Quality]"
+    },
+    "text": "エバーミラクルホテルは宿泊客の体と心に安らぎを与えかねないことを祈願します。各種の悩みに心が疲れるときごとに気軽に立ち寄って健康な食べ物とのティータイムを好んで見ます。",
+    "QA": [
+        {
+            "question": "エバーミラクルホテルはどのような祈願をしていますか？",
+            "answer": "エバーミラクルホテルは宿泊客の体と心に安らぎを与えかねないことを祈願しています。"
+        },
+        {
+            "question": "エバーミラクルホテルではどのようなティータイムが提供されていますか？",
+            "answer": "エバーミラクルホテルでは健康な食べ物とのティータイムを提供しており、宿泊客の心が疲れるときに気軽に立ち寄ることができます。"
+        },
+        {
+            "question": "エバーミラクルホテルのティータイムは好まれていますか？",
+            "answer": "はい、エバーミラクルホテルのティータイムは好まれています。宿泊客は悩みを忘れてリラックスし、健康な食べ物と一緒にくつろぐことができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 61,
+        "QA": 187
+    }
+}

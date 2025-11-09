@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_080177",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ja",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2022-06-10",
+        "domain": "문화/역사관광",
+        "title": "샤또무주"
+    },
+    "text": "韓国初のドメイン・ワイナリーである。韓国固有の犬種ヤマブドウでワインを作ってその優秀性とシャト茂朱を知らせるため、見学や体験プログラムを運営している。ワイン、ジャム、パイなど作って味わう体験で、家族たちの満足度が高い。。",
+    "QA": [
+        {
+            "question": "韓国初のドメイン・ワイナリーとは何ですか？",
+            "answer": "韓国初のドメイン・ワイナリーは、韓国固有の犬種ヤマブドウでワインを作るワイナリーです。"
+        },
+        {
+            "question": "ワイナリーでの体験プログラムには何が含まれていますか？",
+            "answer": "ワイナリーでの体験プログラムには、ワイン、ジャム、パイなどを作って味わう体験が含まれています。"
+        },
+        {
+            "question": "ワイナリーの見学について教えてください。",
+            "answer": "ワイナリーでは、シャト茂朱の優秀性やヤマブドウの特徴について学ぶことができる見学が行われています。"
+        }
+    ],
+    "word_Count": {
+        "text": 80,
+        "QA": 151
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_032920",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1262&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=79&ccbaAsno=07770300&ccbaCtcd=38&ccbaCpno=4413807770300&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2020-03-09",
+        "domain": "문화/역사관광",
+        "title": "통영 중앙동 근대상가주택 1"
+    },
+    "text": "統営中央洞近代商店街住宅1 (통영 중앙동 근대상가주택 1 )\\n\n慶尚南道統営市中央路151-8(中央洞、金剛製靴衣類店)78-1及び78-4\\n\n日帝強占期、国家登録文化財、日本による植民地時代に建設され、解放後も引き続き商店として使われ、洗兵路の賑やかな雰囲気を盛り込んだ建築物であり、1919年の3·1運動と関連した場所という側面で場所的、歴史的価値を持つものと見られる。全般的な空間構成が残っており、2階は本来の構造と形態をよく維持しており、登録する価値があると判断される。",
+    "QA": [
+        {
+            "question": "この建物はいつ建てられましたか？",
+            "answer": "この建物は日帝強占期に建設されました。"
+        },
+        {
+            "question": "この建物はどのように使われていましたか？",
+            "answer": "この建物は商店として使われていました。"
+        },
+        {
+            "question": "この建物は何の関連性がありますか？",
+            "answer": "この建物は1919年の3·1運動と関連しています。"
+        },
+        {
+            "question": "この建物はどのような歴史的価値を持っていますか？",
+            "answer": "この建物は国家登録文化財であり、日本による植民地時代の建築物です。また、洗兵路の賑やかな雰囲気を盛り込んでいます。"
+        },
+        {
+            "question": "この建物の2階はどのような状態ですか？",
+            "answer": "この建物の2階は本来の構造と形態をよく維持しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 178,
+        "QA": 178
+    }
+}

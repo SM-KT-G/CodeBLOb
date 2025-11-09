@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_014928",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=880&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=01800000&ccbaCtcd=37&ccbaCpno=2333701800000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2020-10-22",
+        "domain": "문화/역사관광",
+        "title": "예천 수한리 소나무"
+    },
+    "text": "醴泉水寒里松 (예천 수한리 소나무)\\n\n慶尚北道醴泉郡甘川面寿寒里山30\\n\n余末禅草 , 慶尚北道記念物 , 水漢里の松は甘川面水漢里のハンティ村の北側のハンティ峠に位置しており、ハンティ松とも呼ばれる。 樹齢が600年余りと推定される水寒里の松は、2本の水管*が合わさって遠くから見れば1本の双幹**を成すように見えるなど、樹形が特異で水管が良く生態学的価値がある。 村では高麗忠臣のパク·ゴンが600年余り前にハンティ村に場所を定め忠節を誓い、峠に松3本を植えたという伝説が伝えられているが、その中で一本は50年余り前に枯死**され、2本が残った。村人たちは今までも村を守ってくれる守護神と考え、祭祀の対象にしたりもするなど歴史的·文化的価値が高い。 *樹冠:木の枝と葉がついている部分で、元の胴体から出た茎**双幹:木の根の部分で二つの茎が育ってできた樹形*** 枯死:木や草などが枯れて死亡",
+    "QA": [
+        {
+            "question": "この醴泉水寒里松はどこに位置していますか？",
+            "answer": "醴泉水寒里松は慶尚北道醴泉郡甘川面寿寒里山30に位置しています。"
+        },
+        {
+            "question": "この松の樹齢は何歳ですか？",
+            "answer": "この水寒里の松の樹齢は600年余りと推定されています。"
+        },
+        {
+            "question": "どうしてこの松は特異な樹形をしているのですか？",
+            "answer": "この水寒里の松は2本の水管が合わさって遠くから見れば1本の双幹を成すように見えるため、特異な樹形をしています。"
+        },
+        {
+            "question": "この松の歴史的・文化的価値は何ですか？",
+            "answer": "この松は高麗忠臣のパク・ゴンが600年余り前にハンティ村に場所を定め忠節を誓い、峠に松3本を植えたという伝説があります。村人たちは今でも村を守ってくれる守護神と考え、祭祀の対象にしたりもするなど、歴史的・文化的価値が高いです。"
+        }
+    ],
+    "word_Count": {
+        "text": 294,
+        "QA": 222
+    }
+}

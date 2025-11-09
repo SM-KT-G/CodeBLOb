@@ -1,0 +1,55 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_034174",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.booking.com/hotel/kr/deonaeunseutei.ko.html",
+        "collectedDate": "2023-11-17",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "Thenaeun Stay"
+    },
+    "text": "西帰浦に位置するThenaeun Stayは、セソカクから2.9km、ヒュエリ自然生活公園から7.9km離れています。 この宿には無料Wi-Fiが完備された客室とバーベキュー施設があります。 客室には、エアコン、キッチン、食事スペース、薄型テレビ、シャワー設備、無料の洗面用具、ヘアドライヤーなどが提供されています。 冷蔵庫、電子レンジ、やかんもご利用いただけます。 宿からは済州ワールドカップ競技場まで10km、済州中門リゾートまで19kmの距離に位置し、最寄り空港は済州国際空港から40km離れています。 Thenaeun Stayは西帰浦の中心部から3.8kmの距離にあり、チェックインは15:00から始まり、チェックアウトは11:00までです。",
+    "QA": [
+        {
+            "question": "Thenaeun Stayはどこに位置していますか？",
+            "answer": "Thenaeun Stayは西帰浦に位置しています。"
+        },
+        {
+            "question": "Thenaeun Stayからセソカクまでの距離は何キロですか？",
+            "answer": "Thenaeun Stayからセソカクまでの距離は2.9キロです。"
+        },
+        {
+            "question": "Thenaeun Stayからヒュエリ自然生活公園までの距離は何キロですか？",
+            "answer": "Thenaeun Stayからヒュエリ自然生活公園までの距離は7.9キロです。"
+        },
+        {
+            "question": "Thenaeun Stayの客室には何が備わっていますか？",
+            "answer": "Thenaeun Stayの客室には無料Wi-Fi、エアコン、キッチン、食事スペース、薄型テレビ、シャワー設備、無料の洗面用具、ヘアドライヤーが備わっています。"
+        },
+        {
+            "question": "Thenaeun Stayの周辺にはどのような観光スポットがありますか？",
+            "answer": "Thenaeun Stayの周辺には済州ワールドカップ競技場や済州中門リゾートなどの観光スポットがあります。"
+        },
+        {
+            "question": "最寄りの空港からThenaeun Stayまでの距離は何キロですか？",
+            "answer": "最寄りの空港からThenaeun Stayまでの距離は40キロです。"
+        },
+        {
+            "question": "Thenaeun Stayのチェックイン時間は何時ですか？",
+            "answer": "Thenaeun Stayのチェックイン時間は15:00からです。"
+        },
+        {
+            "question": "Thenaeun Stayのチェックアウト時間は何時ですか？",
+            "answer": "Thenaeun Stayのチェックアウト時間は11:00までです。"
+        }
+    ],
+    "word_Count": {
+        "text": 239,
+        "QA": 430
+    }
+}

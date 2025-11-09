@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_018265",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42020&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "창원 중앙동 킴스호텔"
+    },
+    "text": "客室の入室基準を確認してください。 追加で人数を入室するには、当日現地にて追加料金を決済する必要があります。 オンシーズン、特定の日、祝日には料金が変動する場合があります。 払い戻しおよびキャンセル規定は、さまざまに処理される場合があります。 入室の際には身分証明書を提示し、未成年者は入室が制限されます。 親切にお答えします。",
+    "QA": [
+        {
+            "question": "入室基準にはどのような要件がありますか？",
+            "answer": "入室基準は、当日現地での追加料金を支払うことが必要です。また、オンシーズンや特定の日や祝日には料金が変動する場合があります。"
+        },
+        {
+            "question": "追加の人数を入室する場合、どのような手続きが必要ですか？",
+            "answer": "追加の人数を入室する場合、当日現地で追加料金を支払う必要があります。"
+        },
+        {
+            "question": "払い戻しやキャンセル規定はどのように処理されますか？",
+            "answer": "払い戻しやキャンセル規定は、さまざまな方法で処理される場合があります。詳細はお答えできますので、お気軽にお尋ねください。"
+        },
+        {
+            "question": "入室時に必要な身分証明書は何ですか？",
+            "answer": "入室時には身分証明書の提示が必要です。未成年者の場合、入室が制限されることがありますのでご注意ください。"
+        }
+    ],
+    "word_Count": {
+        "text": 120,
+        "QA": 220
+    }
+}

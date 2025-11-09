@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_096530",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/collectionList#######",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2023-10-11",
+        "domain": "문화/역사관광",
+        "title": "이재관필 산수도2"
+    },
+    "text": "李載寛筆山水図 (이재관필 산수도)\\n\n国籍/時代: 「韓国-朝鮮」の作家である李在寛による作品は、繊維である絹を使用しています。この作品は文化芸術の一環として、書道と絵の要素を組み合わせています。サイズは120.6cm×47.3cmです。",
+    "QA": [
+        {
+            "question": "この絵の作者は誰ですか？",
+            "answer": "この絵は韓国-朝鮮の作家である李在寛によるものです。"
+        },
+        {
+            "question": "この絵のサイズはどのくらいですか？",
+            "answer": "この絵のサイズは120.6cm×47.3cmです。"
+        },
+        {
+            "question": "この絵は何を使用して描かれていますか？",
+            "answer": "この絵は繊維である絹を使用して描かれています。"
+        },
+        {
+            "question": "この絵のテーマは何ですか？",
+            "answer": "この絵のテーマは山水図（さんすいず）として知られる風景画です。"
+        },
+        {
+            "question": "この絵にはどのような文化芸術の要素が組み合わさっていますか？",
+            "answer": "この絵は書道と絵の要素が組み合わさっています。"
+        }
+    ],
+    "word_Count": {
+        "text": 88,
+        "QA": 160
+    }
+}

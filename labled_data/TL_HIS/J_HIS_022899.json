@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_022899",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2017-01-02",
+        "domain": "문화/역사관광",
+        "title": "水西駅（SRT）（수서역（SRT））"
+    },
+    "text": "水西駅（SRT）\nソウル特別市 江南区 水西洞\n「水西（スソ）駅」は江南エリアと全国の主要都市を繋ぐ鉄道駅で、2016年12月9日SRT（Super Rapid Train）高速列車が開通しました。",
+    "QA": [
+        {
+            "question": "水西駅（SRT）はどこにありますか？",
+            "answer": "水西駅（SRT）はソウル特別市江南区水西洞にあります。"
+        },
+        {
+            "question": "水西駅はいつ開通しましたか？",
+            "answer": "水西駅は2016年12月9日にSRT（Super Rapid Train）高速列車が開通しました。"
+        },
+        {
+            "question": "水西駅はどのような都市と繋がっていますか？",
+            "answer": "水西駅は江南エリアと全国の主要都市と繋がっています。"
+        }
+    ],
+    "word_Count": {
+        "text": 72,
+        "QA": 113
+    }
+}

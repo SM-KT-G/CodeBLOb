@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_001078",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2023-06-13",
+        "domain": "문화/역사관광",
+        "title": "SJ.KUNSTHALLE（SJ쿤스트할레）"
+    },
+    "text": "SJ.KUNSTHALLE（SJ쿤스트할레）\\n\nソウル特別市カンナム区オンジュロ148ギル5\\n\n「SJ KUNSTHALLE」は展示、公演、パーティー、パフォーマンス、ファッションショー、ワークショップなど日常生活の中の芸術プログラムを提供する文化芸術界の出会いの場所であり、討論の場所となるプラットフォームとしての役割をするために造られました。28のコンテナで構成されたSJ KUNSTHALLEは既存のギャラリーでは表現できなかった多様な文化を自由に表現しようと最小のインテリアで広い空間を提供しています。これによって芸術の多様性と創作的文化の実現空間として注目を集めています。",
+    "QA": [
+        {
+            "question": "SJ.KUNSTHALLEはどのような場所ですか？",
+            "answer": "SJ.KUNSTHALLEは展示、公演、パーティー、パフォーマンス、ファッションショー、ワークショップなど日常生活の中の芸術プログラムを提供する文化芸術界の出会いの場所であり、討論の場所となるプラットフォームとしての役割をするために造られました。"
+        },
+        {
+            "question": "SJ.KUNSTHALLEはどこにありますか？",
+            "answer": "SJ.KUNSTHALLEはソウル特別市カンナム区オンジュロ148ギル5にあります。"
+        },
+        {
+            "question": "SJ.KUNSTHALLEは何で構成されていますか？",
+            "answer": "SJ.KUNSTHALLEは28のコンテナで構成されています。"
+        },
+        {
+            "question": "SJ.KUNSTHALLEはなぜ注目を集めていますか？",
+            "answer": "SJ.KUNSTHALLEは既存のギャラリーでは表現できなかった多様な文化を自由に表現しようと最小のインテリアで広い空間を提供しているため、芸術の多様性と創作的文化の実現空間として注目を集めています。"
+        }
+    ],
+    "word_Count": {
+        "text": 214,
+        "QA": 291
+    }
+}

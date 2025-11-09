@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_037500",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1224&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=79&ccbaAsno=04040000&ccbaCtcd=31&ccbaCpno=4413104040000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2008-09-17",
+        "domain": "문화/역사관광",
+        "title": "용인 장욱진 가옥"
+    },
+    "text": "龍仁張旭鎮家屋 (용인 장욱진 가옥)\\n\n京畿道龍仁市器興区麻北洞243-5番地、244-2、238\\n\n韓屋:1884年(1986年改修)洋館:1989年、国家登録文化財、この家屋は韓国の洋画家1世代で近現代画壇に大きな足跡を残したチャン·ウクジン(1917~1990)画伯が1986年から亡くなるまで居住しながら作品活動をしたところだ。 韓屋は母屋とサランチェ、物置で構成され、京畿道伝統的な民家の「ㅁ」の形であり、チャン·ウクジン画伯が直接修理して作業室と居住空間として使用した。 洋館は1953年の作品「自動車のある風景」に描いたレンガ造りの家をもとに、チャン画伯が直接構想して建てた。",
+    "QA": [
+        {
+            "question": "この家屋はいつ建てられましたか？",
+            "answer": "この家屋は韓屋が1884年に建てられ、洋館が1989年に建てられました。"
+        },
+        {
+            "question": "この家屋はどのような形状ですか？",
+            "answer": "この家屋は伝統的な韓国の民家の「ㅁ」の形状をしています。"
+        },
+        {
+            "question": "この家屋は誰が作ったのですか？",
+            "answer": "この家屋は韓国の洋画家であるチャン·ウクジン画伯が構想し、修理して建てました。"
+        },
+        {
+            "question": "この家屋はどんな人が住んでいましたか？",
+            "answer": "チャン·ウクジン画伯が1986年から亡くなるまでこの家屋で居住し、作品活動をしました。"
+        },
+        {
+            "question": "この家屋は国家登録文化財ですか？",
+            "answer": "はい、この家屋は国家登録文化財です。"
+        }
+    ],
+    "word_Count": {
+        "text": 218,
+        "QA": 180
+    }
+}

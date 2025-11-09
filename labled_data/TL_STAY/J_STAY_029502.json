@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_029502",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42010&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "김포 벨루치 드라이브인 무인텔"
+    },
+    "text": "基本規定ドライブである無人テル1客室1台目のシステムで運営されています。 無人テルとして運営されています。 ヤノルジャ会員の注意事項は、客室入室後、フロント0番に電話をしなければならないそうです。 ペットは入室できません。",
+    "QA": [
+        {
+            "question": "無人テル1客室1台目はどのように運営されていますか？",
+            "answer": "無人テル1客室1台目は、基本規定ドライブで運営されています。"
+        },
+        {
+            "question": "無人テル1客室1台目では、どのようなサービスが提供されていますか？",
+            "answer": "無人テル1客室1台目では、無人テルとして運営されています。"
+        },
+        {
+            "question": "ヤノルジャ会員の注意事項は何ですか？",
+            "answer": "ヤノルジャ会員の注意事項は、客室入室後、フロント0番に電話をしなければなりません。"
+        },
+        {
+            "question": "ペットは無人テル1客室1台目に入室できますか？",
+            "answer": "ペットは入室できません。"
+        }
+    ],
+    "word_Count": {
+        "text": 81,
+        "QA": 155
+    }
+}

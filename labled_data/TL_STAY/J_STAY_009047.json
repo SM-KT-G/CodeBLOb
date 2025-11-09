@@ -1,0 +1,51 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_009047",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42040&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "목포 가족 관광호텔 운영 정책"
+    },
+    "text": "チェックインは15:00以降に可能で、チェックアウトは11:00までです。 人数追加時、2歳以下のお子様は無料で同伴宿泊が可能で、3歳から小学生は5000ウォン、大人は10000ウォンの追加料金が必要です。 寝具の追加は10000ウォンで、入室利用の案内はありません。",
+    "QA": [
+        {
+            "question": "チェックインは何時から可能ですか？",
+            "answer": "チェックインは15:00以降に可能です。"
+        },
+        {
+            "question": "チェックアウトは何時までですか？",
+            "answer": "チェックアウトは11:00までです。"
+        },
+        {
+            "question": "2歳以下のお子様は宿泊料金がかかりますか？",
+            "answer": "2歳以下のお子様は無料で同伴宿泊が可能です。"
+        },
+        {
+            "question": "3歳から小学生のお子様は宿泊料金がかかりますか？",
+            "answer": "3歳から小学生のお子様は5000ウォンの追加料金が必要です。"
+        },
+        {
+            "question": "大人の追加料金はいくらですか？",
+            "answer": "大人の追加料金は10000ウォンです。"
+        },
+        {
+            "question": "寝具の追加料金はいくらですか？",
+            "answer": "寝具の追加料金は10000ウォンです。"
+        },
+        {
+            "question": "入室利用の案内はありますか？",
+            "answer": "入室利用の案内はありません。"
+        }
+    ],
+    "word_Count": {
+        "text": 98,
+        "QA": 193
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_027896",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42060&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "태안 밀키블루펜션(스파,OTT,캠핑테라스,조미료)"
+    },
+    "text": "青浦台海水浴場に位置するカップルスパペンションミルキーブルーは、客室内で個別バーベキューを楽しむことができるペンションです。 バーベキューはガスグリルを利用して用意されており、お連れ様が2り以上の場合は客室予約はできません。 これらの事項はお知らせにてお伝えされており、また、当日入室予約や19時以降に入室される場合は、ペンションまで予めご連絡ください。",
+    "QA": [
+        {
+            "question": "ミルキーブルーはどこに位置していますか？",
+            "answer": "ミルキーブルーは青浦台海水浴場に位置しています。"
+        },
+        {
+            "question": "ミルキーブルーではバーベキューを楽しむことができますか？",
+            "answer": "はい、ミルキーブルーでは客室内で個別バーベキューを楽しむことができます。"
+        },
+        {
+            "question": "バーベキューはどのように利用できますか？",
+            "answer": "バーベキューはガスグリルを利用して用意されており、客室内で楽しむことができます。"
+        },
+        {
+            "question": "2人以上で宿泊する場合は客室予約はできませんか？",
+            "answer": "はい、2人以上の場合は客室予約はできません。"
+        },
+        {
+            "question": "当日入室予約や19時以降の入室は可能ですか？",
+            "answer": "はい、可能ですが、事前にペンションに連絡してください。"
+        }
+    ],
+    "word_Count": {
+        "text": 129,
+        "QA": 192
+    }
+}

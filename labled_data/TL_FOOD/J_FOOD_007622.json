@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_007622",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2020-12-09",
+        "domain": "음식점",
+        "title": "ジホ韓方サムゲタン( 지호한방삼계탕 )"
+    },
+    "text": "ジホ韓方サムゲタン( 지호한방삼계탕 )\\n\n江原道 ガンヌン市 ジョンウォンロ83-9\\n\n韓国の滋養食の一つサムゲタンです。代表的なメニューはサムゲタンです。江原道のガンヌン市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "場所はどこですか？",
+            "answer": "ジホ韓方サムゲタンは江原道のガンヌン市に位置しています。"
+        },
+        {
+            "question": "サムゲタンとはどのような料理ですか？",
+            "answer": "サムゲタンは韓国の滋養食であり、代表的なメニューです。"
+        },
+        {
+            "question": "この店の特徴は何ですか？",
+            "answer": "ジホ韓方サムゲタンは韓食専門店で、本場の味を提供しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 75,
+        "QA": 90
+    }
+}

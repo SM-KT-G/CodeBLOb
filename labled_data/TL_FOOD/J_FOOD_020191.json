@@ -1,0 +1,31 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_020191",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-08-31",
+        "domain": "음식점",
+        "title": "李家面屋（이가면옥）"
+    },
+    "text": "李家面屋（이가면옥）\\n\nソウル特別市 鐘路区 紫霞門路1キル 33\\n\nソウル特別市キョンボックン駅の近くに位置した冷麺専門店です。咸興(ハムフン)式冷麺の専門店です。おすすめは刺身入り冷麺です。",
+    "QA": [
+        {
+            "question": "この李家面屋（이가면옥）はどこに位置していますか？",
+            "answer": "李家面屋（이가면옥）はソウル特別市 鐘路区 紫霞門路1キル 33に位置しています。"
+        },
+        {
+            "question": "李家面屋（이가면옥）のおすすめ料理は何ですか？",
+            "answer": "李家面屋（이가면옥）のおすすめ料理は刺身入り冷麺です。"
+        }
+    ],
+    "word_Count": {
+        "text": 72,
+        "QA": 85
+    }
+}

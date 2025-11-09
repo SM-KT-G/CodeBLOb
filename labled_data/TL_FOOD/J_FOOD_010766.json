@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_010766",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-05",
+        "domain": "음식점",
+        "title": "トプカムジャタン ( 돕감자탕 )"
+    },
+    "text": "トプカムジャタン ( 돕감자탕 )\\n\nソウル特別市 広津区 アチャサンロ31ギル9\\n\nコンデ(建大)の隠れた名店です。ソウル特別市のグァンジン区に位置した韓食専門店です。おすすめはカムジャタンです。",
+    "QA": [
+        {
+            "question": "このレストランの場所はどこですか？",
+            "answer": "トプカムジャタンはソウル特別市広津区のアチャサンロ31ギル9に位置しています。"
+        },
+        {
+            "question": "このレストランのおすすめメニューは何ですか？",
+            "answer": "トプカムジャタンのおすすめはカムジャタンです。"
+        },
+        {
+            "question": "このレストランはどのような種類の料理を提供していますか？",
+            "answer": "トプカムジャタンは韓食専門店で、カムジャタンなどの韓国料理を提供しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 74,
+        "QA": 122
+    }
+}

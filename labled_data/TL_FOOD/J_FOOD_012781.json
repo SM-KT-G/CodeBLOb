@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_012781",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2023-08-02",
+        "domain": "음식점",
+        "title": "부빙"
+    },
+    "text": "ブビン (부빙)\\n\nソウル特別市鍾路区ペンロ136\\n\nソウル鍾路区に位置するかき氷専門店「ブビン」は、チェンの近くにあります。ブビンは、釜岩洞かき氷店の略称で、様々な種類のかき氷を提供しています。すべてのメニューは1人分の量で提供され、こちらで使用される小豆は直接契約栽培されています。",
+    "QA": [
+        {
+            "question": "ブビンはどこに位置していますか？",
+            "answer": "ブビンはソウル特別市鍾路区ペンロ136に位置しています。"
+        },
+        {
+            "question": "ブビンは何の専門店ですか？",
+            "answer": "ブビンはかき氷専門店です。"
+        },
+        {
+            "question": "ブビンの略称は何ですか？",
+            "answer": "ブビンの略称は釜岩洞かき氷店です。"
+        },
+        {
+            "question": "ブビンではどんな種類のかき氷が提供されていますか？",
+            "answer": "ブビンでは様々な種類のかき氷が提供されています。"
+        },
+        {
+            "question": "ブビンで使用される小豆はどのように栽培されていますか？",
+            "answer": "ブビンで使用される小豆は直接契約栽培されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 106,
+        "QA": 146
+    }
+}

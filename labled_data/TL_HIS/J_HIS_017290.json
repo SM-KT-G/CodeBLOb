@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_017290",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1061&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=01430000&ccbaCtcd=38&ccbaCpno=3413801430000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1985-11-14",
+        "domain": "문화/역사관광",
+        "title": "밀양 표충사 명부전"
+    },
+    "text": "密陽表虫寺冥府殿 (밀양 표충사 명부전)\\n\n慶尚南道密陽市檀荘面表忠路1338(九千里)\\n\n慶尚南道文化財資料 , 表忠寺は通度寺についた寺で、四明大師の忠訓を追慕するために建てた表忠寺堂がある寺だ。 冥府殿は有名界の審判官である時王を祀っているとして、時王殿または地蔵菩薩を中心に祀っていることから地蔵殿とも呼ばれる。 詩王は死者の罪を裁く10人の地獄王で、一般に広く知られている閻魔大王はこのうち5番目の王だ。 地蔵菩薩は仏教救援の理想を象徴する菩薩として、すべての人間が救援を受けるまで自分は仏になることを先送りし、天上から地獄に至る六道の衆生を一つ一つ教化させる役割を果たしたという。",
+    "QA": [
+        {
+            "question": "表忠寺冥府殿はどこにありますか？",
+            "answer": "表忠寺冥府殿は慶尚南道密陽市檀荘面表忠路1338に位置しています。"
+        },
+        {
+            "question": "表忠寺冥府殿は何を祀っていますか？",
+            "answer": "表忠寺冥府殿は有名界の審判官である時王を祀っています。また、地蔵菩薩も中心に祀られています。"
+        },
+        {
+            "question": "表忠寺冥府殿はなぜ地蔵殿とも呼ばれていますか？",
+            "answer": "表忠寺冥府殿は地蔵菩薩を中心に祀っていることから地蔵殿とも呼ばれています。"
+        },
+        {
+            "question": "詩王とは何ですか？",
+            "answer": "詩王は死者の罪を裁く10人の地獄王の一人で、一般的には閻魔大王として知られています。"
+        },
+        {
+            "question": "地蔵菩薩はどのような存在ですか？",
+            "answer": "地蔵菩薩は仏教救援の理想を象徴する菩薩であり、すべての人間が救援を受けるまで自分は仏になることを先送りし、六道の衆生を教化する役割を果たしました。"
+        }
+    ],
+    "word_Count": {
+        "text": 219,
+        "QA": 228
+    }
+}

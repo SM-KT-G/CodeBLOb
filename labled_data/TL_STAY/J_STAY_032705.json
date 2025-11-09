@@ -1,0 +1,71 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_032705",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.booking.com/hotel/kr/sogcodaemyeongpensyeon-samseonghompeureseutiji-sogcosi.ko.html",
+        "collectedDate": "2023-11-17",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "속초대명펜션 삼성홈프레스티지"
+    },
+    "text": "束草大明ペンションサムスンホームプレステージは束草に位置する宿で、灯台ビーチと大浦港、雪岳ウォーターピアとの距離がそれぞれ2km、6.4km、6.6kmです。 有料Wi-Fiを提供し、マンションタイプの宿として束草文化会館と永郎湖との距離は1.7kmと3.7kmです。 周辺にはSeokbong Ceramic Museum、束草エキスポ公園、束草エキスポタワーのような観光名所があります。 近くの空港には襄陽国際空港があり、約20kmの距離に位置しています。 宿泊施設は束草の中心部から約850m離れており、チェックインは15:00から可能で、チェックアウトは11:00までです。",
+    "QA": [
+        {
+            "question": "ペンションサムスンホームプレステージはどこに位置していますか？",
+            "answer": "束草に位置しています。"
+        },
+        {
+            "question": "周辺にどのような観光名所がありますか？",
+            "answer": "Seokbong Ceramic Museum、束草エキスポ公園、束草エキスポタワーなどがあります。"
+        },
+        {
+            "question": "有料Wi-Fiの提供はありますか？",
+            "answer": "はい、有料Wi-Fiを提供しています。"
+        },
+        {
+            "question": "チェックインはいつから可能ですか？",
+            "answer": "チェックインは15:00から可能です。"
+        },
+        {
+            "question": "チェックアウトは何時までですか？",
+            "answer": "チェックアウトは11:00までです。"
+        },
+        {
+            "question": "近くの空港はどこにありますか？",
+            "answer": "近くの空港は襄陽国際空港で、約20kmの距離にあります。"
+        },
+        {
+            "question": "マンションタイプの宿泊施設ですか？",
+            "answer": "はい、マンションタイプの宿泊施設です。"
+        },
+        {
+            "question": "束草文化会館との距離はどのくらいですか？",
+            "answer": "束草文化会館との距離は約1.7kmです。"
+        },
+        {
+            "question": "永郎湖との距離はどのくらいですか？",
+            "answer": "永郎湖との距離は約3.7kmです。"
+        },
+        {
+            "question": "灯台ビーチの距離はどのくらいですか？",
+            "answer": "灯台ビーチとの距離は約2kmです。"
+        },
+        {
+            "question": "大浦港の距離はどのくらいですか？",
+            "answer": "大浦港との距離は約6.4kmです。"
+        },
+        {
+            "question": "雪岳ウォーターピアの距離はどのくらいですか？",
+            "answer": "雪岳ウォーターピアとの距離は約6.6kmです。"
+        }
+    ],
+    "word_Count": {
+        "text": 213,
+        "QA": 354
+    }
+}

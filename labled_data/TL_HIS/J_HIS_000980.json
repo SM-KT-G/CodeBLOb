@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_000980",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/festival/grand-k-pop-festival",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "Grand K-POP Festival"
+    },
+    "text": "Grand K-POP Festival\\n\nソウル特別市 松坡区 オリンピック路 25\\n\nコリアグランドセール期間（8月14日~10月31日）に韓国を訪問する外国人観光客を対象に、大規模な韓流コンサートが文化体育観光部と韓国観光公社により開催されます。今回の「Grand K-POP Festival」には少女時代、CNBLUE、BEASTなど韓国の人気K-POPアーティスト達が出演します。さらに、韓国料理の試食や韓服体験など多様なイベントも同時に楽しむことができます。",
+    "QA": [
+        {
+            "question": "このイベントはいつ開催されますか？",
+            "answer": "Grand K-POP Festivalは8月14日から10月31日まで開催されます。"
+        },
+        {
+            "question": "Grand K-POP Festivalはどこで開催されますか？",
+            "answer": "Grand K-POP Festivalはソウル特別市の松坡区オリンピック路25で開催されます。"
+        },
+        {
+            "question": "どのK-POPアーティストが出演する予定ですか？",
+            "answer": "少女時代、CNBLUE、BEASTなど韓国の人気K-POPアーティストが出演予定です。"
+        },
+        {
+            "question": "イベント中にはどのようなイベントが楽しめますか？",
+            "answer": "イベント中には韓国料理の試食や韓服体験など多様なイベントが楽しめます。"
+        }
+    ],
+    "word_Count": {
+        "text": 174,
+        "QA": 195
+    }
+}

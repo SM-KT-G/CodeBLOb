@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_021395",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-06",
+        "domain": "음식점",
+        "title": "鳳山屋 ( 봉산옥 )"
+    },
+    "text": "鳳山屋 ( 봉산옥 )\\n\nソウル特別市 瑞草区 パンポデロ8ギル5-6\\n\nミシュランガイド2021に選定された店です。おすすめは餃子スープです。ソウル特別市のソチョ区に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "鳳山屋はどこに位置していますか？",
+            "answer": "鳳山屋はソウル特別市瑞草区パンポデロ8ギル5-6に位置しています。"
+        },
+        {
+            "question": "鳳山屋は何をおすすめしていますか？",
+            "answer": "鳳山屋では餃子スープがおすすめです。"
+        },
+        {
+            "question": "鳳山屋はどのガイドブックに選定されましたか？",
+            "answer": "鳳山屋はミシュランガイド2021に選定されました。"
+        },
+        {
+            "question": "鳳山屋はどの区に位置していますか？",
+            "answer": "鳳山屋はソウル特別市のソチョ区に位置しています。"
+        },
+        {
+            "question": "鳳山屋のジャンルは何ですか？",
+            "answer": "鳳山屋は韓食専門店です。"
+        }
+    ],
+    "word_Count": {
+        "text": 71,
+        "QA": 145
+    }
+}

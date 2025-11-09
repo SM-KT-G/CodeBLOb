@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001626",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/dessertree",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "DESSERTREE"
+    },
+    "text": "DESSERTREE\\n\nソウル特別市 江南区 新沙洞 653-7\\n\nデザートメニューを専門とするカフェ「DESSERTREE」。 メニューにDESSERTREEセット(アミューズ、メインデザート、プチフールとドリンクの組み合わせ)、メインデザートとしては、ダークチョコレートケーキとアイスクリーム、バニラアイスとイチゴシャーベット、天然塩キャラメルアイスクリームと焼いたバナナなどがあります。",
+    "QA": [
+        {
+            "question": "DESSERTREEはどこにありますか？",
+            "answer": "DESSERTREEはソウル特別市江南区新沙洞653-7にあります。"
+        },
+        {
+            "question": "DESSERTREEではどんなデザートが提供されていますか？",
+            "answer": "DESSERTREEではダークチョコレートケーキとアイスクリーム、バニラアイスとイチゴシャーベット、天然塩キャラメルアイスクリームと焼いたバナナなどのメインデザートが提供されています。"
+        },
+        {
+            "question": "DESSERTREEにはどんなセットメニューがありますか？",
+            "answer": "DESSERTREEにはDESSERTREEセットというアミューズ、メインデザート、プチフールとドリンクが組み合わされたセットメニューがあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 145,
+        "QA": 203
+    }
+}

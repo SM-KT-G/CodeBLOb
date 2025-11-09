@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_019594",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "都市魚夫 ( 도시어부 )"
+    },
+    "text": "都市魚夫 ( 도시어부 )\n京畿道 平沢市 ヒョンシン1キル 5\n新鮮でさっぱりした味が自慢の店です。おすすめは刺身入り冷やしスープです。京畿道のピョンテク市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "都市魚夫 (도시어부) は京畿道 平沢市 ヒョンシン1キル 5 に位置しています。"
+        },
+        {
+            "question": "この店の特産品は何ですか？",
+            "answer": "都市魚夫では、新鮮でさっぱりした味が自慢の刺身入り冷やしスープがおすすめです。"
+        },
+        {
+            "question": "この店は何を専門としていますか？",
+            "answer": "都市魚夫は韓食専門店です。"
+        }
+    ],
+    "word_Count": {
+        "text": 67,
+        "QA": 99
+    }
+}

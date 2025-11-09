@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_054127",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/view?relicId=210266",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "글자를 새긴 수키와 조각27"
+    },
+    "text": "文字を刻んだ圓瓦片 (글자를 새긴 수키와 조각)\\n\n瓦には斜線が平行に描かれ、その中に「栗木(栗木)」の字が両角に繰り返し刻まれています。この瓦は、現在の果川（韓国統一新羅時代）で使われた土製の屋根材で、主に建築部材として使用されます。そのサイズは現在の幅127cm、長さ213cm、幅126cm、長さ226cmです。",
+    "QA": [
+        {
+            "question": "この瓦はどのように使用されますか？",
+            "answer": "この瓦は建築部材として使用されます。"
+        },
+        {
+            "question": "この瓦のサイズは何ですか？",
+            "answer": "この瓦のサイズは幅127cm、長さ213cm、幅126cm、長さ226cmです。"
+        },
+        {
+            "question": "この瓦にはどのような字が刻まれていますか？",
+            "answer": "この瓦には「栗木」の字が両角に繰り返し刻まれています。"
+        },
+        {
+            "question": "この瓦はどこで使用されていましたか？",
+            "answer": "この瓦は現在の果川（韓国統一新羅時代）で使用されていました。"
+        },
+        {
+            "question": "この瓦の材料は何ですか？",
+            "answer": "この瓦は土製の屋根材です。"
+        }
+    ],
+    "word_Count": {
+        "text": 118,
+        "QA": 153
+    }
+}

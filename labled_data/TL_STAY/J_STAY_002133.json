@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_002133",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2019-09-10",
+        "domain": "숙박",
+        "title": "The S Hotel（더에스호텔（The S Hotel））"
+    },
+    "text": "The S Hotel（더에스호텔（The S Hotel））\nソウル特別市 瑞草区 瑞草大路77キル11 （瑞草洞）\nソウル特別市江南（カンナム）を代表する商業・ビジネスの中心地であり、多くのショップが立ち並ぶ江南駅のそばにある「The S Hotel（ザ・エスホテル）」は一流ホテル級の施設を取り揃え、低価格で旅行客を迎えます。ソウル地下鉄2号線「江南駅」9番出口から約1分とアクセスがよく、ショッピングやグルメだけでなく、医療観光にも最適なホテルです。",
+    "QA": [
+        {
+            "question": "このホテルはどこに位置していますか？",
+            "answer": "ソウル特別市 瑞草区 瑞草大路77キル11 （瑞草洞）に位置しています。"
+        },
+        {
+            "question": "このホテルはどのような施設を提供していますか？",
+            "answer": "一流ホテル級の施設を取り揃えており、低価格で旅行客を迎えます。"
+        },
+        {
+            "question": "このホテルのアクセスはどのようになっていますか？",
+            "answer": "ソウル地下鉄2号線「江南駅」9番出口から約1分でアクセスできます。"
+        },
+        {
+            "question": "このホテルはどのような旅行客に適していますか？",
+            "answer": "ショッピングやグルメだけでなく、医療観光にも最適なホテルです。"
+        }
+    ],
+    "word_Count": {
+        "text": 167,
+        "QA": 160
+    }
+}

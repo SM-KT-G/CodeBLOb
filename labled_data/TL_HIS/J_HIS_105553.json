@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_105553",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1012&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=00650000&ccbaCtcd=11&ccbaCpno=3411100650000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2016-02-18",
+        "domain": "문화/역사관광",
+        "title": "천축사 마애사리탑"
+    },
+    "text": "朝鮮時代のソウル特別市文化財資料である天竺会社磨崖舎利塔2基は道峰区道峰山マンジャンボンの裾の東側に位置した大韓仏教曹渓宗直轄寺院である天竺会社の一柱門の後ろの岩壁にそれぞれ刻まれています。岩壁の南向きで彫刻された舎利塔は、舎利を入れた龕室の上には\"チョンシンニョ正月栄州ボンアンタプ丁丑四月一\"という刻印が刻まれています。これを通じて女性ジェカジャのお正月の仏舎利が奉安されたことを知ることができます。また、動向に彫刻された舎利塔は\"神女永遠に主塔イムオパルウォル\"と刻まれているが、これは壬午年の八月にシンニョヨンという人物の仏舎利が奉安されたものと推定されます。天竺会社磨崖舎利塔は名文を通じて、製作年代と舎利塔の主人公を確認できるが、これは19世紀後半の石造美術史研究においても学術的価値がある資料です。",
+    "QA": [
+        {
+            "question": "天竺会社磨崖舎利塔はどこに位置していますか？",
+            "answer": "天竺会社磨崖舎利塔は道峰区道峰山マンジャンボンの裾の東側に位置しています。"
+        },
+        {
+            "question": "舎利塔に刻まれた文字から何がわかりますか？",
+            "answer": "舎利塔に刻まれた文字から、舎利を入れた龕室の上には'チョンシンニョ正月栄州ボンアンタプ丁丑四月一'という刻印が刻まれており、女性ジェカジャのお正月の仏舎利が奉安されたことがわかります。また、もう一つの舎利塔には'神女永遠に主塔イムオパルウォル'と刻まれており、壬午年の八月にシンニョヨンという人物の仏舎利が奉安されたものと推定されます。"
+        },
+        {
+            "question": "天竺会社磨崖舎利塔の彫刻された舎利塔は何年代のものだと推定されますか？",
+            "answer": "天竺会社磨崖舎利塔の彫刻された舎利塔は19世紀後半のものと推定されます。"
+        }
+    ],
+    "word_Count": {
+        "text": 261,
+        "QA": 233
+    }
+}

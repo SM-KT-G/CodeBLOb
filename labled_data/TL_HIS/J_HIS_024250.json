@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_024250",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=920&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=24&ccbaAsno=00140000&ccbaCtcd=37&ccbaCpno=2443700140000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1973-08-31",
+        "domain": "문화/역사관광",
+        "title": "안동사월동초가토담집"
+    },
+    "text": "安東四月洞チョガトダムジプ (안동사월동초가토담집)\\n\n慶尚北道安東市城谷洞山225-1番地\\n\n慶尚北道民俗文化財 , 安東地方の農家で藁葺き屋根の家だ。 元々は沙月洞にあったが、安東ダム建設によって1976年に今の位置に移した。 この家は柱を立てずに版築方式で積み上げた土塀の家だ。 板軸は板と板の間に土を入れて堅く固めたり、板台の両側に土を積むことだ。 木材は、桁·垂木·戸枠などに使用された。 厚い藁葺き屋根で寒さと暑さを効率的に防止し快適な住居環境を提供する長所がある家だ。",
+    "QA": [
+        {
+            "question": "この建物はどこにありますか？",
+            "answer": "慶尚北道安東市城谷洞山225-1番地に位置しています。"
+        },
+        {
+            "question": "この建物は何のために移動されましたか？",
+            "answer": "安東ダム建設によって移動されました。"
+        },
+        {
+            "question": "この家の特徴は何ですか？",
+            "answer": "この家は柱を立てずに版築方式で積み上げた土塀の家で、厚い藁葺き屋根を持っています。"
+        },
+        {
+            "question": "木材はどこに使用されましたか？",
+            "answer": "木材は桁・垂木・戸枠などに使用されました。"
+        },
+        {
+            "question": "この家の藁葺き屋根は何のために使われますか？",
+            "answer": "藁葺き屋根は寒さと暑さを効率的に防止し、快適な住居環境を提供するために使われます。"
+        }
+    ],
+    "word_Count": {
+        "text": 178,
+        "QA": 168
+    }
+}

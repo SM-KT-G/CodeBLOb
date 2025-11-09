@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_025736",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/ilmi-sikdang",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "一味食堂"
+    },
+    "text": "一味食堂\\n\n慶尚北道 安東市 知豊路 1672\\n\n安東市民もよく訪れる店です。慶尚北道のアンドン市に位置した中華専門店です。おすすめはジャージャー麺です。",
+    "QA": [
+        {
+            "question": "一味食堂の場所はどこですか？",
+            "answer": "一味食堂は慶尚北道安東市知豊路1672に位置しています。"
+        },
+        {
+            "question": "一味食堂の料理は何ですか？",
+            "answer": "一味食堂は中華専門店で、ジャージャー麺がおすすめです。"
+        },
+        {
+            "question": "安東市で人気のあるレストランですか？",
+            "answer": "はい、一味食堂は安東市民もよく訪れる人気のレストランです。"
+        }
+    ],
+    "word_Count": {
+        "text": 57,
+        "QA": 94
+    }
+}

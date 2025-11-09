@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_037338",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1065&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=01510000&ccbaCtcd=34&ccbaCpno=3413401510000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1984-05-17",
+        "domain": "문화/역사관광",
+        "title": "정혜사"
+    },
+    "text": "定慧寺 (정혜사)\\n\n忠清南道青陽郡長坪面サンジキル165-10(花山里)\\n\n忠清南道文化財資料、七甲山の南麓に位置している寺で、新羅文聖王3年(841)に恵祖国師が建てたと伝えられている。 以後、517年頃、殿閣が全て焼失し、三尊仏像万化を免れた。 16年後、麻谷寺の仁明禅師が建て直し、数回補修·再建した。 1907年に大きな火災で焼失したが、1908年にウォルパ僧が建て直した。 現在、寺の中には三尊仏像を祀っている大雄殿と山神閣、石窟庵、中庵、西庵などの庵がある。 貞恵寺の扁額は3·1運動の33人の一人であるオ·セチャン先生が直接書いたものだ。",
+    "QA": [
+        {
+            "question": "この寺の名称は何ですか？",
+            "answer": "定慧寺 (정혜사)です。"
+        },
+        {
+            "question": "この寺はどこに位置していますか？",
+            "answer": "青陽郡長坪面サンジキル165-10(花山里)に位置しています。"
+        },
+        {
+            "question": "この寺はいつ建てられましたか？",
+            "answer": "新羅文聖王3年(841)に建てられました。"
+        },
+        {
+            "question": "この寺は何度も補修や再建が行われましたか？",
+            "answer": "麻谷寺の仁明禅師が16年後に建て直し、その後も数回補修や再建が行われました。"
+        },
+        {
+            "question": "この寺にはどんな建物がありますか？",
+            "answer": "寺の中には大雄殿と山神閣、石窟庵、中庵、西庵などの庵があります。"
+        },
+        {
+            "question": "貞恵寺の扁額は誰が書いたものですか？",
+            "answer": "3・1運動の33人の一人であるオ・セチャン先生が直接書いたものです。"
+        }
+    ],
+    "word_Count": {
+        "text": 204,
+        "QA": 195
+    }
+}

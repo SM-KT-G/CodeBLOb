@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_033253",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=749&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=22&ccbaAsno=00480000&ccbaCtcd=31&ccbaCpno=2223100480000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "평택민요"
+    },
+    "text": "平沢民謡 (평택민요)\\n\n京畿道無形文化財、平沢民謡は京畿道平沢地域で伝承される労働謡をまとめて文化財に指定したものだ。 平沢が西海岸と接しており、広い農地を含む地域なので稲作に使われる農謡と海事に歌う漁労で、そして葬儀の儀式謡の3つの民謡を一つにまとめて伝承している。農謡では苗を植える時に歌う田植えの音である「サンサソリ」を歌うが、この曲は京畿道南部で広く歌われている楽曲タイプだ。 田は下地·財閥·万物の3回にわたって海苔を巻く。 この時にはドゥレを組織して団体で仕事をしながら歌う。 素伐採では土が塊になっているという意味の「オルカ塊の音」を歌い、二伐採では「漁火そろそろ大腰」と言って一度腰を曲げてそろそろ土を解きほぐすという意味のサビを持つ「大腰の音」を歌う。 三つ編みでは「オギヤ-フンエ-エイオホラバンゲフンゲが遊ぶ」の「バンゲタリョン」を歌う。 その他「ビダン打令」を歌う。",
+    "QA": [
+        {
+            "question": "平沢民謡はどの地域で伝承されていますか？",
+            "answer": "平沢民謡は京畿道平沢地域で伝承されています。"
+        },
+        {
+            "question": "平沢民謡は何のために歌われるのですか？",
+            "answer": "平沢民謡は稲作に使われる農謡、海事に歌う漁労、そして葬儀の儀式謡の3つの民謡を一つにまとめて伝承しています。"
+        },
+        {
+            "question": "農謡ではどのような曲が歌われますか？",
+            "answer": "農謡では田植えの音である「サンサソリ」が歌われます。この曲は京畿道南部で広く歌われている楽曲タイプです。"
+        },
+        {
+            "question": "平沢民謡の労働謡にはどのような歌がありますか？",
+            "answer": "労働謡では素伐採では「オルカ塊の音」、二伐採では「大腰の音」という歌があります。"
+        },
+        {
+            "question": "平沢民謡の葬儀の儀式謡にはどのような歌がありますか？",
+            "answer": "葬儀の儀式謡では三つ編みで「バンゲタリョン」、その他「ビダン打令」が歌われます。"
+        }
+    ],
+    "word_Count": {
+        "text": 291,
+        "QA": 230
+    }
+}

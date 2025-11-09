@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_037958",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=87&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=06540000&ccbaCtcd=11&ccbaCpno=1121106540000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1979-02-08",
+        "domain": "문화/역사관광",
+        "title": "자수가사"
+    },
+    "text": "刺繍袈裟 (자수가사)\\n\nソウル特別市鍾路区栗谷路3ギル4(安国洞、ソウル工芸博物館)\\n\n朝鮮時代(18世紀)、宝物、刺繍袈裟は25条(条)の大袈裟で、大きさは240cm×63cmである。 歌詞は各行ごとに4面は長く、1面が短い4長1段で構成されている。 一番上の段には仏、二段目と三段目には菩薩、四段目には経典、五段目には尊者が並んで配列されている。 白色の模様がない絹地の上に火、菩薩、経典、尊者を紫蓮樹·平樹·仙水などの技法と黄色·朱などの色糸を使用して精巧で美しく刺繍した。 この歌詞は18世紀前期のものだと伝えられており、歌詞の裏面に人の名前があるが生存年代を確認することはできない。 現在伝えられている歌詞としては10点余りがあり、その中でもこの歌詞は全体が絵で刺繍された唯一の遺物だ。",
+    "QA": [
+        {
+            "question": "この刺繍袈裟はどの時代に作られましたか？",
+            "answer": "この刺繍袈裟は18世紀の朝鮮時代に作られました。"
+        },
+        {
+            "question": "刺繍袈裟の大きさはどれくらいですか？",
+            "answer": "刺繍袈裟の大きさは240cm×63cmです。"
+        },
+        {
+            "question": "刺繍袈裟の歌詞はどのように構成されていますか？",
+            "answer": "刺繍袈裟の歌詞は4長1段の構成で、一番上の段には仏、二段目と三段目には菩薩、四段目には経典、五段目には尊者が並んで配列されています。"
+        },
+        {
+            "question": "刺繍袈裟の刺繍に使用された技法や色糸は何ですか？",
+            "answer": "刺繍袈裟の刺繍には紫蓮樹・平樹・仙水などの技法と黄色・朱などの色糸が使用されています。"
+        },
+        {
+            "question": "刺繍袈裟の歌詞の裏面に記された人の名前は誰ですか？",
+            "answer": "刺繍袈裟の歌詞の裏面に記された人の名前は生存年代が確認できないため、特定することはできません。"
+        }
+    ],
+    "word_Count": {
+        "text": 257,
+        "QA": 228
+    }
+}

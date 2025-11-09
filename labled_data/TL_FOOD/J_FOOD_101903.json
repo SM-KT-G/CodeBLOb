@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_101903",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2023-05-30",
+        "domain": "음식점",
+        "title": "콩마당"
+    },
+    "text": "京畿道烏山市芝串洞（キョンギド·オサンシ·チゴッドン）にある豆腐料理専門店「コンマダン」は100%国産豆にこだわり、手豆腐はウェルビーイングメニューだ。 コンマダンでは様々な種類の豆腐料理を提供している。",
+    "QA": [
+        {
+            "question": "コンマダンはどこにありますか？",
+            "answer": "コンマダンは京畿道烏山市芝串洞にあります。"
+        },
+        {
+            "question": "コンマダンでは何種類の豆腐料理が提供されていますか？",
+            "answer": "コンマダンでは様々な種類の豆腐料理が提供されています。"
+        },
+        {
+            "question": "コンマダンの手豆腐は何のためのメニューですか？",
+            "answer": "コンマダンの手豆腐はウェルビーイングメニューです。"
+        },
+        {
+            "question": "コンマダンの豆腐料理はどのように作られていますか？",
+            "answer": "コンマダンの豆腐料理は100%国産豆にこだわって作られています。"
+        }
+    ],
+    "word_Count": {
+        "text": 74,
+        "QA": 142
+    }
+}

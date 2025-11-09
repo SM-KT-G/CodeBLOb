@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_001340",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/goods/GN0002155752?startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0%5E&npprmaxsort=min",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "사천 더원호텔"
+    },
+    "text": "2022年8月にGRAND OPENした当ホテルは、お客様の便宜のために努力しています。 海を眺めることができるオーシャンビュー客室とルーフトップで良い思い出を作ることができます。 清潔さは私たちの最優先事項であり、常にお客様に快適な環境を提供したいと考えています。 快適な宿泊のため、ルーフトップは無料でご利用いただけます。 ありがとうございます。",
+    "QA": [
+        {
+            "question": "ホテルのGRAND OPENはいつですか？",
+            "answer": "2022年8月にGRAND OPENしました。"
+        },
+        {
+            "question": "ホテルの客室からは何が見えますか？",
+            "answer": "海を眺めることができるオーシャンビュー客室があります。"
+        },
+        {
+            "question": "ルーフトップは何に使えますか？",
+            "answer": "ルーフトップでは良い思い出を作ることができます。"
+        },
+        {
+            "question": "ホテルの清潔さについてどのような取り組みがありますか？",
+            "answer": "清潔さは最優先事項であり、常にお客様に快適な環境を提供するために努力しています。"
+        },
+        {
+            "question": "ルーフトップの利用料金はかかりますか？",
+            "answer": "ルーフトップは無料でご利用いただけます。"
+        },
+        {
+            "question": "ホテルのオープン以来、お客様の評判はいかがですか？",
+            "answer": "お客様からは好評をいただいております。"
+        }
+    ],
+    "word_Count": {
+        "text": 128,
+        "QA": 203
+    }
+}

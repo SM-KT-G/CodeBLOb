@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_029872",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.goodchoice.kr/product/detail?ano=72885&adcno=1&sel_date=2023-11-07&sel_date2=2023-11-08",
+        "collectedDate": "2023-11-15",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "제주 에이원"
+    },
+    "text": "親切なサービスでお返しします。 駐車可能台数は5台(機械式駐車)でソナタまで入荷可能です。 また、客室内部にはインターネット無料Wi-Fiと駐車施設が提供されます。 コピー機、エレベーター、禁煙室、エアコン、ヘアドライヤー、コーヒー/お茶、冷蔵庫、ケーブルテレビもご提供しております。",
+    "QA": [
+        {
+            "question": "駐車場には何台駐車できますか？",
+            "answer": "駐車可能台数は5台です。"
+        },
+        {
+            "question": "駐車場はどのようなタイプですか？",
+            "answer": "駐車場は機械式駐車です。"
+        },
+        {
+            "question": "客室内にはどんな設備がありますか？",
+            "answer": "客室内にはインターネット無料Wi-Fi、駐車施設、コピー機、エレベーター、禁煙室、エアコン、ヘアドライヤー、コーヒー/お茶、冷蔵庫、ケーブルテレビがあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 104,
+        "QA": 110
+    }
+}

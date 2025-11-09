@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001839",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-05",
+        "domain": "음식점",
+        "title": "Laderach SFC ( 레더라 SFC )"
+    },
+    "text": "Laderach SFC ( 레더라 SFC )\\n\nソウル特別市 中区 セジョンデロ136\\n\nスイスのチョコレート専門店です。代表的なメニューはチョコレートドリンクです。ソウル特別市のジュン区に位置した洋食です。",
+    "QA": [
+        {
+            "question": "レデラ SFCはどこに位置していますか？",
+            "answer": "レデラ SFCはソウル特別市の中区に位置しています。"
+        },
+        {
+            "question": "レデラ SFCの代表的なメニューは何ですか？",
+            "answer": "レデラ SFCの代表的なメニューはチョコレートドリンクです。"
+        },
+        {
+            "question": "レデラ SFCはどのようなお店ですか？",
+            "answer": "レデラ SFCはスイスのチョコレート専門店です。"
+        }
+    ],
+    "word_Count": {
+        "text": 79,
+        "QA": 103
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_020485",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1088&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=01990000&ccbaCtcd=38&ccbaCpno=3413801990000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1993-12-27",
+        "domain": "문화/역사관광",
+        "title": "산청 송계재"
+    },
+    "text": "山清松渓斎 (산청 송계재)\\n\n慶尚南道山清郡五富面梧桐路273番キル88-7(内谷里)\\n\n慶尚南道文化財資料 , 高麗後期の文臣である民安部先生の墓の近くに建てられた斎室だ。 民安部が予兆判書を務めていた時、高麗は国運が傾き始め、イ·ソンゲが違和度会軍を行い、チェ·ヨン、チョン·モンジュの除去と革命を起こした騒々しい時期だった。 彼は官職を捨てて高麗維新72県と斗門洞(現在の京畿道開豊郡広徳山)に入り朝鮮に反対して抗争し、辛うじて死を免れ慶尚南道山清郡に降りて隠遁した。 そこで自然と共に余生を送り、彼の息子たちも彼の意思によって朝鮮時代に官職に就かなかった。 その後、子孫たちが繁盛し、山清閔氏の始祖になった。 最初は墓の近くに小川があったというが、今はなくなり、今ある建物は朝鮮憲宗5年(1839)に再建されたものだ。",
+    "QA": [
+        {
+            "question": "斎室はどこに建てられていますか？",
+            "answer": "斎室は慶尚南道山清郡五富面梧桐路273番キル88-7(内谷里)に建てられています。"
+        },
+        {
+            "question": "山清松渓斎はいつ建てられましたか？",
+            "answer": "山清松渓斎は朝鮮憲宗5年(1839)に再建されました。"
+        },
+        {
+            "question": "山清松渓斎は誰のために建てられた斎室ですか？",
+            "answer": "山清松渓斎は高麗後期の文臣である民安部先生のために建てられた斎室です。"
+        },
+        {
+            "question": "民安部先生はどのような役職を務めていましたか？",
+            "answer": "民安部先生は予兆判書を務めていました。"
+        },
+        {
+            "question": "民安部先生はなぜ高麗を離れ、山清郡に隠遁したのですか？",
+            "answer": "民安部先生は高麗が国運が傾き始めた時期に、高麗維新72県と斗門洞で抗争し、辛うじて死を免れたため、山清郡に隠遁しました。"
+        }
+    ],
+    "word_Count": {
+        "text": 268,
+        "QA": 210
+    }
+}

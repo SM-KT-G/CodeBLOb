@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_001112",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2020-06-26",
+        "domain": "문화/역사관광",
+        "title": "YOON\"S COLOR（윤스칼라）"
+    },
+    "text": "YOON\"S COLOR\nソウル特別市 麻浦区 臥牛山路14キル12 （上水洞）\nYOON\"S COLOR（ユンスカラー／旧FOUR SEASONS HOUSE）には、純粋な愛を美しい映像で表現した韓流ドラマの代表的な作品ユン・ソクホ監督の四季シリーズ『冬のソナタ』『秋の童話』『夏の香り』『春のワルツ』で使用された小道具や撮影現場の写真、ドラマのセットなどが展示されています。 四季シリーズの他、ドラマ『雪の女王』などの展示館が地下1階にある他、屋外では夏の香りのプロポーズ部屋と冬のソナタ・春のワルツのベンチ、ピンクのトラックを見ることができます。",
+    "QA": [
+        {
+            "question": "場所はどこですか？",
+            "answer": "YOON'S COLORは麻浦区臥牛山路14キル12（上水洞）にあります。"
+        },
+        {
+            "question": "何が展示されていますか？",
+            "answer": "YOON'S COLORでは、ユン・ソクホ監督の四季シリーズ『冬のソナタ』『秋の童話』『夏の香り』『春のワルツ』で使用された小道具や撮影現場の写真、ドラマのセットなどが展示されています。また、ドラマ『雪の女王』などの展示もあります。"
+        },
+        {
+            "question": "屋外に何がありますか？",
+            "answer": "屋外には夏の香りのプロポーズ部屋と冬のソナタ・春のワルツのベンチ、ピンクのトラックがあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 202,
+        "QA": 170
+    }
+}

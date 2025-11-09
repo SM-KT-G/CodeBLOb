@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_029538",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=572&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=02760000&ccbaCtcd=37&ccbaCpno=2113702760000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1992-11-26",
+        "domain": "자연관광",
+        "title": "군자정"
+    },
+    "text": "慶尚北道有形文化財である君子亭はイ・ドクホン先生の学問的な業績を称えるため建てられた建物である。イ・ドクホン先生は李滉先生の弟子として学問的な本をたくさん残して、文禄・慶長の役当時も、海と陸地に亀甲船を提案するなど創意的な考えを持った人物として知られている。文禄・慶長の役以降は、民を助けることに多くの努力を傾け、多くの本を残した。君子は、朝鮮宣祖3年に建てられた建物として華やかな入母屋屋根と前にあるグンジャダン池、西にある五戒書院とともにイ・ドクホンの学問と徳行を追悼する空間として知られている。朝鮮時代の士林(サリム)の典型的な東屋で、認められている。",
+    "QA": [
+        {
+            "question": "君子亭は何のために建てられた建物ですか？",
+            "answer": "君子亭はイ・ドクホン先生の学問的な業績を称えるために建てられた建物です。"
+        },
+        {
+            "question": "イ・ドクホン先生は何で知られていますか？",
+            "answer": "イ・ドクホン先生は創意的な考えを持ち、文禄・慶長の役当時に海と陸地に亀甲船を提案するなどの業績で知られています。"
+        },
+        {
+            "question": "君子亭は何年に建てられましたか？",
+            "answer": "君子亭は朝鮮宣祖3年に建てられました。"
+        },
+        {
+            "question": "君子亭にはどんな特徴がありますか？",
+            "answer": "君子亭には華やかな入母屋屋根と前にあるグンジャダン池、西にある五戒書院という特徴があります。"
+        },
+        {
+            "question": "君子亭はどのような場所として知られていますか？",
+            "answer": "君子亭はイ・ドクホンの学問と徳行を追悼する空間として知られています。"
+        }
+    ],
+    "word_Count": {
+        "text": 204,
+        "QA": 210
+    }
+}

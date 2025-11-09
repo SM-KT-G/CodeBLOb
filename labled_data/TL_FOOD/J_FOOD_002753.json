@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_002753",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-05-27",
+        "domain": "음식점",
+        "title": "イェンナルオマクチプ（옛날오막집）"
+    },
+    "text": "イェンナルオマクチプ\\n\n釜山広域市 西区 九徳路274番キル14\\n\n30年伝統の釜山ヤンコプチャン（ミノ・ホルモン）炭火焼き専門店のなかで最も古いお店です。",
+    "QA": [
+        {
+            "question": "この店はどこにありますか？",
+            "answer": "この店は釜山広域市西区の九徳路274番キル14にあります。"
+        },
+        {
+            "question": "この店の特徴は何ですか？",
+            "answer": "この店は30年以上の伝統を持つ釜山ヤンコプチャン（ミノ・ホルモン）炭火焼き専門店で、最も古いお店です。"
+        },
+        {
+            "question": "どんな料理が提供されていますか？",
+            "answer": "この店ではヤンコプチャン（ミノ・ホルモン）の炭火焼きが提供されています。"
+        },
+        {
+            "question": "どのくらいの価格帯ですか？",
+            "answer": "具体的な価格については情報がありませんが、一般的な炭火焼きレストランの価格帯と考えられます。"
+        },
+        {
+            "question": "この店には何年の歴史がありますか？",
+            "answer": "この店は30年以上の歴史を持っています。"
+        }
+    ],
+    "word_Count": {
+        "text": 58,
+        "QA": 185
+    }
+}

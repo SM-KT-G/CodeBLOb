@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_098899",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/view?relicId=910",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2023-10-11",
+        "domain": "문화/역사관광",
+        "title": "장도"
+    },
+    "text": "長刀 (장도)\\n\nこの装飾用の刀は、木で作られています。四角い木の表面には美しい模様が彫り込まれており、刃はなくなっています。この刀は韓国-朝鮮時代のもので、材質は金属の銅合金です。衣生活の中でも装身具として使用されるこの刀は、長さ12.4cm、幅1.2cm、長さ6.2cm、幅1.2cm",
+    "QA": [
+        {
+            "question": "これらの刀が作られた時期はいつですか？",
+            "answer": "これらの刀は韓国-朝鮮時代に作られました。"
+        },
+        {
+            "question": "この刀の材質は何ですか？",
+            "answer": "この刀の材質は金属の銅合金です。"
+        },
+        {
+            "question": "この刀の長さと幅はどのくらいですか？",
+            "answer": "この刀の長さは12.4cm、幅は1.2cmです。"
+        },
+        {
+            "question": "この刀はどのように使用されていましたか？",
+            "answer": "この刀は衣生活の中でも装身具として使用されていました。"
+        },
+        {
+            "question": "この刀には刃がありますか？",
+            "answer": "いいえ、この刀には刃はありません。"
+        }
+    ],
+    "word_Count": {
+        "text": 106,
+        "QA": 137
+    }
+}

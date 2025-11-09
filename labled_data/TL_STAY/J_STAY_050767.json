@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_050767",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42020&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "거제도 장목 Y"
+    },
+    "text": "部屋の入室基準を確認し、追加人数は当日現地にて追加料金を決済してください。 オンシーズン、特定日および祝日(前日含む)には料金が変動する場合がありますのでご注意ください。 入室の際には身分証明書を確認し、未成年者の入室は制限されます。 身分証明書を必ずお持ちください。 貸室のご利用は承っておりませんし、貸室が不可能な時間は別途決まっておりません。 そして7月から8月までの連泊は可能です。",
+    "QA": [
+        {
+            "question": "入室の基準は何ですか？",
+            "answer": "部屋の入室基準を確認し、追加人数は当日現地にて追加料金を決済してください。"
+        },
+        {
+            "question": "オンシーズンや特定日、祝日の料金はどうなりますか？",
+            "answer": "オンシーズン、特定日および祝日(前日含む)には料金が変動する場合がありますのでご注意ください。"
+        },
+        {
+            "question": "身分証明書を持っていかなければならないのですか？",
+            "answer": "入室の際には身分証明書を確認し、未成年者の入室は制限されます。身分証明書を必ずお持ちください。"
+        },
+        {
+            "question": "貸室は利用できますか？",
+            "answer": "貸室のご利用は承っておりません。"
+        },
+        {
+            "question": "連泊は可能ですか？",
+            "answer": "7月から8月までの連泊は可能です。"
+        }
+    ],
+    "word_Count": {
+        "text": 143,
+        "QA": 178
+    }
+}

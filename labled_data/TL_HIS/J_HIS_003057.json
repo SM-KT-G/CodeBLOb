@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_003057",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=247&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=13&ccbaAsno=02530000&ccbaCtcd=11&ccbaCpno=1331102530000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1977-11-22",
+        "domain": "문화/역사관광",
+        "title": "서울 구 러시아공사관"
+    },
+    "text": "ソウル ク・ロシア公事官 (서울 구 러시아공사관)\\n\nソウル中区貞洞キル21-18(チョンドン)\\n\n朝鮮高宗27年(1890) , 史跡 , 高宗27年(1890)に建てられたルネサンス風の2階建てレンガ造りの建物だ。 朝鮮戦争で建物がひどく破壊され塔と地下2階だけが残っていたが、1973年に復旧された。 一方に塔を建て、正門は凱旋門様式である。 日本軍による明成皇后殺害事件以後、1896年2月から1897年2月まで高宗が世子と共に避難していたところだ。 この期間、親日派のキム·ホンジプ内閣が崩壊し、親ロシア的なパク·ジョンヤン内閣が組織され、ソ·ジェピルが主導する独立協会が結成された。 高宗が経て行った部屋の内部は、建物のようなルネサンス風の室内装飾が施されている。",
+    "QA": [
+        {
+            "question": "この建物は何年に建てられましたか？",
+            "answer": "朝鮮高宗27年(1890)に建てられました。"
+        },
+        {
+            "question": "この建物は何のために使われていましたか？",
+            "answer": "ソウル ク・ロシア公事官の建物で、ロシアの公使館として使われていました。"
+        },
+        {
+            "question": "この建物はどのようなスタイルで建てられていますか？",
+            "answer": "ルネサンス風の2階建てレンガ造りの建物です。"
+        },
+        {
+            "question": "この建物は何かの事件や歴史的な出来事と関係がありますか？",
+            "answer": "朝鮮戦争で建物が破壊され、日本軍による明成皇后殺害事件後、高宗が避難していた場所として関係があります。"
+        },
+        {
+            "question": "この建物の内部はどのような装飾が施されていますか？",
+            "answer": "建物のようなルネサンス風の室内装飾が施されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 250,
+        "QA": 199
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_004212",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=784&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=00231200&ccbaCtcd=50&ccbaCpno=2333900231200&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1996-07-18",
+        "domain": "문화/역사관광",
+        "title": "대포연대"
+    },
+    "text": "テポ・連隊 (대포연대)\\n\n済州西帰浦市大浦洞2506番地\\n\n済州特別自治道記念物 , 連隊は松明と煙を利用して政治·軍事的に急な便りを伝えた通信手段をいう。 烽燧台とは機能面で差がないが、連隊は主に丘陵地や海辺地域に設置され、烽燧台は山頂に設置し、昼間は煙で夜は松明を起こして信号を送った。 済州牧大静県に所属していたチョン·ジンは西帰浦市大浦洞海岸北側丘陵に位置している。 松明と煙で普段は1個、怪しい船が現れると2個、陸地に近く接近すれば3個、陸地に侵犯すれば4個、戦闘が始まれば5個を上げたという。 大砲連隊は東に馬熙川連隊、西に星ノ川連隊と信号を交わした。",
+    "QA": [
+        {
+            "question": "テポ・連隊はどのような通信手段を利用していましたか？",
+            "answer": "テポ・連隊は松明と煙を利用して政治・軍事的に急な便りを伝えました。"
+        },
+        {
+            "question": "テポ・連隊と烽燧台の違いは何ですか？",
+            "answer": "機能面では差がないですが、テポ・連隊は主に丘陵地や海辺地域に設置され、烽燧台は山頂に設置されました。"
+        },
+        {
+            "question": "テポ・連隊の所在地はどこですか？",
+            "answer": "テポ・連隊は済州西帰浦市大浦洞2506番地に位置しています。"
+        },
+        {
+            "question": "テポ・連隊の信号の種類は何種類ありましたか？",
+            "answer": "テポ・連隊の信号は普段は1個、怪しい船が現れると2個、陸地に近く接近すれば3個、陸地に侵犯すれば4個、戦闘が始まれば5個を上げました。"
+        },
+        {
+            "question": "テポ・連隊は他の連隊と信号を交わしましたか？",
+            "answer": "はい、テポ・連隊は東に馬熙川連隊、西に星ノ川連隊と信号を交わしました。"
+        }
+    ],
+    "word_Count": {
+        "text": 209,
+        "QA": 233
+    }
+}

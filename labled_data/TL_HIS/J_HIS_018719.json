@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_018719",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1064&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=01490000&ccbaCtcd=37&ccbaCpno=3413701490000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1985-08-05",
+        "domain": "문화/역사관광",
+        "title": "봉산리사"
+    },
+    "text": "峰山理沙 (봉산리사)\\n\n慶尚北道奉化郡礼峰路1840(奉化邑)\\n\n慶尚北道文化財資料 , 朝鮮中期の文臣であるキム·ジョンゴル(1628~1708)先生を追慕するために士林たちが建てた建物だ。 先生は学問と徳行だけでなく親孝行で、両親が病気になると蘇泰山に登って7日間断食祈祷を捧げた。 その後、薬を探しに行く途中に虎が現れて導き、命薬を手に入れて両親の病気を産ませたというエピソードが伝えられている。 彼は死後、李朝参判に推戴された。 正祖17年(1793)に建てられたこの祠堂は興宣大院君の書院撤廃令で高宗5年(1868)閉鎖されたが、1925年に復元して今日に至っている。 祭官室付きの門間棟と一字型の母屋が調和し、全体的にロ字型を成している。 前方には先生の位牌を祀った祠堂が位置しており、春、秋に祭祀を行っている。",
+    "QA": [
+        {
+            "question": "この建物は何のために建てられましたか？",
+            "answer": "この建物は、文臣であるキム・ジョンゴル先生を追慕するために士林たちが建てたものです。"
+        },
+        {
+            "question": "キム・ジョンゴル先生について教えてください。",
+            "answer": "キム・ジョンゴル先生は、朝鮮中期の文臣であり、学問と徳行に優れた人物でした。また、親孝行な人でもありました。"
+        },
+        {
+            "question": "キム・ジョンゴル先生はどのようなエピソードで有名ですか？",
+            "answer": "キム・ジョンゴル先生は、両親が病気になった際に蘇泰山に登って7日間断食祈祷を捧げ、命薬を手に入れて両親を救ったというエピソードが有名です。"
+        },
+        {
+            "question": "この祠堂はいつ建てられましたか？",
+            "answer": "この祠堂は正祖17年(1793)に建てられました。ただし、興宣大院君の書院撤廃令で閉鎖され、1925年に復元されました。"
+        },
+        {
+            "question": "この祠堂の特徴は何ですか？",
+            "answer": "この祠堂は、門間棟と一字型の母屋が調和し、ロ字型を成しています。また、先生の位牌を祀った祠堂もあります。"
+        },
+        {
+            "question": "この祠堂では何の祭祀が行われますか？",
+            "answer": "この祠堂では春と秋に先生の祭祀が行われます。"
+        }
+    ],
+    "word_Count": {
+        "text": 267,
+        "QA": 304
+    }
+}

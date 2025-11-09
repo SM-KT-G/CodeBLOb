@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_066458",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=756&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=00010000&ccbaCtcd=25&ccbaCpno=2332500010000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1989-03-18",
+        "domain": "문화/역사관광",
+        "title": "박팽년선생유허"
+    },
+    "text": "パク·ペンニョン先生の遺許\\n\n大田市東区牛岩路326番キル28(加陽洞)\\n\n15世紀、大田広域市記念物、朝鮮前期の文臣であり、死六臣の一人である朴彭年(1417∼1456)が暮らしていた所だ。朴彭年は世宗16年(1434)に文科に及第した後、官職を広く歴任し、集賢殿の官吏がなった。1455年、首陽大君が幼い甥の端宗の王位を奪うと、端宗復位運動をめぐらす世祖2年(1456)に処刑された。死んだ後に儒林の学者たちが先生の家の敷地がなくなることを懸念して、顕宗9年(1668)に礎を集めて宋時烈(ソン・シヨル)が文を書き、ソンジュンギルが文字を書いて碑文を立てた。顕宗13年(1672)には碑閣(碑閣)を建ててジャンジョルチョンとした。",
+    "QA": [
+        {
+            "question": "この場所はどこですか？",
+            "answer": "大田市東区牛岩路326番キル28(加陽洞)にある、朴彭年先生が暮らしていた所です。"
+        },
+        {
+            "question": "朴彭年先生は何をしていた人ですか？",
+            "answer": "朴彭年は15世紀の文臣であり、死六臣の一人でした。彼は官職を広く歴任し、集賢殿の官吏にもなりました。"
+        },
+        {
+            "question": "なぜ朴彭年の家の敷地がなくなることを懸念していたのですか？",
+            "answer": "朴彭年の死後、儒林の学者たちは彼の家の敷地がなくなることを心配していました。"
+        },
+        {
+            "question": "碑文はいつ立てられましたか？",
+            "answer": "顕宗9年(1668)に、宋時烈が文を書き、ソンジュンギルが文字を書いて碑文が立てられました。"
+        },
+        {
+            "question": "碑閣はいつ建てられましたか？",
+            "answer": "顕宗13年(1672)に碑閣が建てられ、ジャンジョルチョンと名付けられました。"
+        }
+    ],
+    "word_Count": {
+        "text": 233,
+        "QA": 219
+    }
+}

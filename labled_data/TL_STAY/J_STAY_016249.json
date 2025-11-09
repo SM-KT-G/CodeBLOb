@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_016249",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42020&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "거제도 베르데펜션(신축,감성바베큐)"
+    },
+    "text": "ベルデペンションは、感性的なバーベキューを楽しみながらくつろげる場所です。 海を眺めながら愛する人と一緒に過ごす時間はきっと良い思い出になるでしょう。 良い景色、穏やかな音楽、無料で提供されるおいしい飲み物があります。 ペットと一緒にお越しいただけます。 お知らせは、22時以降に入室される場合、ペンションまで予めご連絡ください。 全室禁煙であり、客室内での肉、魚、海産物の焼き物は禁止されています。",
+    "QA": [
+        {
+            "question": "ベルデペンションはどんな場所ですか？",
+            "answer": "ベルデペンションは感性的なバーベキューを楽しむことができる場所で、海を眺めながらくつろげます。"
+        },
+        {
+            "question": "ベルデペンションでは何が提供されますか？",
+            "answer": "ベルデペンションでは良い景色、穏やかな音楽、無料のおいしい飲み物が提供されます。"
+        },
+        {
+            "question": "ペットを連れて行くことはできますか？",
+            "answer": "はい、ペットを連れて行くことができます。"
+        },
+        {
+            "question": "22時以降に入室する場合、事前に何をすればいいですか？",
+            "answer": "22時以降に入室する場合は、事前にペンションに連絡する必要があります。"
+        },
+        {
+            "question": "客室内での飲食は可能ですか？",
+            "answer": "客室内での肉、魚、海産物の焼き物は禁止されていますが、それ以外の飲食は可能です。"
+        }
+    ],
+    "word_Count": {
+        "text": 146,
+        "QA": 204
+    }
+}

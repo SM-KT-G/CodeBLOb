@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_010559",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-14",
+        "domain": "음식점",
+        "title": "トゥップルトゥンシム カロスキル( 투뿔등심 가로수길 )"
+    },
+    "text": "トゥップルトゥンシム カロスキル\\n\nソウル特別市 江南区 カロスギル73\\n\nシェフが直接焼いてくれる韓牛焼きの名店です。おすすめは韓牛ロースです。ソウル特別市のガンナム区に位置した韓国料理店です。",
+    "QA": [
+        {
+            "question": "このお店の場所はどこですか？",
+            "answer": "このお店はソウル特別市江南区カロスギル73にあります。"
+        },
+        {
+            "question": "このお店の名物料理は何ですか？",
+            "answer": "このお店のおすすめは韓牛ロースです。"
+        },
+        {
+            "question": "このお店の特徴は何ですか？",
+            "answer": "このお店はシェフが直接焼いてくれる韓牛焼きの名店です。"
+        },
+        {
+            "question": "このお店はどの区に位置していますか？",
+            "answer": "このお店はソウル特別市のガンナム区に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 73,
+        "QA": 115
+    }
+}

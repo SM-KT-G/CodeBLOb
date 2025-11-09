@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_055414",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/tteurae-honghapbap",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "トゥル愛ガイ飯"
+    },
+    "text": "トゥル愛ガイ飯\\n\n江原道 三陟市 セ千年道路 615\\n\n旬の食材を用いた、上品な定食を提供しています。 代表的なメニューはムール貝ご飯です。江原道のサムチョク市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "このレストランの場所はどこですか？",
+            "answer": "このレストランは韓国の江原道三陟市のセ千年道路615に位置しています。"
+        },
+        {
+            "question": "このレストランの特徴的なメニューは何ですか？",
+            "answer": "このレストランの代表的なメニューはムール貝ご飯です。"
+        },
+        {
+            "question": "このレストランではどのような食材を使用していますか？",
+            "answer": "このレストランでは旬の食材を使用して上品な定食を提供しています。"
+        },
+        {
+            "question": "このレストランは何を専門としていますか？",
+            "answer": "このレストランは韓食専門店です。"
+        }
+    ],
+    "word_Count": {
+        "text": 69,
+        "QA": 142
+    }
+}

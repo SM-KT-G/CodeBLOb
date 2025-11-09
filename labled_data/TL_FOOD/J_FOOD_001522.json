@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001522",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "C TAVERN（씨태번）"
+    },
+    "text": "C TAVERN（씨태번）\\n\nソウル特別市 中区 明洞8カキル 52\\n\nソウル特別市のミョン洞に位置したビール専門店です。クラフトビールが楽しめるお店です。おすすめは手作りビールです。",
+    "QA": [
+        {
+            "question": "このお店の場所はどこですか？",
+            "answer": "ソウル特別市中区明洞8カキル52に位置しています。"
+        },
+        {
+            "question": "このお店はどのようなビールを提供していますか？",
+            "answer": "このお店はクラフトビールが楽しめます。特に手作りビールがおすすめです。"
+        },
+        {
+            "question": "このお店のおすすめはありますか？",
+            "answer": "おすすめは手作りビールです。ぜひお試しください。"
+        }
+    ],
+    "word_Count": {
+        "text": 68,
+        "QA": 100
+    }
+}

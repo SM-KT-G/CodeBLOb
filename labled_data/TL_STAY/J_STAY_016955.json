@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_016955",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42031&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "대구 팔공산 맥섬석 유스호스텔"
+    },
+    "text": "マクソムソクユースホステルは駐車できますし、調理は難しいです。 予約を希望する場合は、オンドルB、ベッド特等室、あるいはオンドル特等室を選択し、予約をする前にフロントから客室在庫を確認する必要があります。",
+    "QA": [
+        {
+            "question": "マクソムソクユースホステルでは駐車できますか？",
+            "answer": "はい、マクソムソクユースホステルでは駐車することができます。"
+        },
+        {
+            "question": "マクソムソクユースホステルでは調理はできますか？",
+            "answer": "申し訳ありませんが、マクソムソクユースホステルでは調理は難しいです。"
+        },
+        {
+            "question": "予約を希望する場合、どの部屋タイプがおすすめですか？",
+            "answer": "予約を希望する場合は、オンドルB、ベッド特等室、あるいはオンドル特等室を選択することをおすすめします。"
+        },
+        {
+            "question": "予約をする前に客室在庫を確認するにはどうすればよいですか？",
+            "answer": "予約をする前に客室在庫を確認するためには、フロントにお問い合わせください。"
+        }
+    ],
+    "word_Count": {
+        "text": 74,
+        "QA": 186
+    }
+}

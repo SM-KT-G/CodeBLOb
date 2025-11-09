@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_055373",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/jeonggam-eorin",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "チョンガモリン"
+    },
+    "text": "チョンガモリン\\n\nソウル特別市 龍山区 厚岩洞 255-1 )\\n\n30年の伝統を持つ韓国料理店であるJ岩E林は、厳選された食材を使ったおいしい食事を楽しむことができる場所です。",
+    "QA": [
+        {
+            "question": "この韓国料理店の名前は何ですか？",
+            "answer": "韓国料理店の名前はチョンガモリンです。"
+        },
+        {
+            "question": "この韓国料理店はどこにありますか？",
+            "answer": "この韓国料理店はソウル特別市龍山区厚岩洞255-1にあります。"
+        },
+        {
+            "question": "この韓国料理店の特徴は何ですか？",
+            "answer": "この韓国料理店は厳選された食材を使ったおいしい食事を楽しむことができるところです。"
+        },
+        {
+            "question": "この韓国料理店は何年の伝統を持っていますか？",
+            "answer": "この韓国料理店は30年の伝統を持っています。"
+        }
+    ],
+    "word_Count": {
+        "text": 66,
+        "QA": 134
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_027743",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-24",
+        "domain": "음식점",
+        "title": "青瓦三代( 청와삼대 )"
+    },
+    "text": "青瓦三代( 청와삼대 )\\n\nソウル特別市 江東区 オルリムピクロ690\\n\n青瓦台の調理長が運営する名品の豚足、ポッサム専門店です。おすすめは豚足です。ソウル特別市のガンドン区に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "このレストランはどこにありますか？",
+            "answer": "ソウル特別市のガンドン区に位置しています。"
+        },
+        {
+            "question": "このレストランの名前は何ですか？",
+            "answer": "青瓦三代( 청와삼대 )という名前です。"
+        },
+        {
+            "question": "このレストランのおすすめの料理は何ですか？",
+            "answer": "豚足がおすすめです。"
+        },
+        {
+            "question": "このレストランは何を専門としていますか？",
+            "answer": "豚足とポッサムを専門としています。"
+        },
+        {
+            "question": "このレストランの運営者は誰ですか？",
+            "answer": "青瓦台の調理長が運営しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 74,
+        "QA": 128
+    }
+}

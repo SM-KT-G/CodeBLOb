@@ -1,0 +1,31 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_019655",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "豚サチョン ( 돈사촌 )"
+    },
+    "text": "豚サチョン ( 돈사촌 )\n済州特別自治道 西帰浦市 東烘中央路54ボンキル 4 (동홍동)\n済州産の黒豚を練炭で焼いて食べる店です。済州特別自治道のソグィポ市に位置した韓食専門店です。代表的なメニューは黒豚サムギョプサルです。",
+    "QA": [
+        {
+            "question": "豚サチョンはどこに位置していますか？",
+            "answer": "豚サチョンは済州特別自治道の西帰浦市に位置しています。具体的な住所は東烘中央路54ボンキル 4 (동홍동)です。"
+        },
+        {
+            "question": "豚サチョンの代表的なメニューは何ですか？",
+            "answer": "豚サチョンの代表的なメニューは黒豚サムギョプサルです。"
+        }
+    ],
+    "word_Count": {
+        "text": 83,
+        "QA": 88
+    }
+}

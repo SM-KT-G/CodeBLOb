@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_055453",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/nammae-boyangtang",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "ナンメボヤンタン"
+    },
+    "text": "ナンメボヤンタン\\n\n江原道 ガンヌン市 ギョドングァンジャンロ84\\n\n体に良い滋養食のスープです。江原道のガンヌン市に位置した韓食専門店です。おすすめは鴨肉の水炊きです。",
+    "QA": [
+        {
+            "question": "このお店はどこにありますか？",
+            "answer": "このお店は江原道のガンヌン市に位置しています。"
+        },
+        {
+            "question": "このお店のおすすめは何ですか？",
+            "answer": "このお店のおすすめは鴨肉の水炊きです。"
+        },
+        {
+            "question": "このお店の滋養食は体にどんな良さがありますか？",
+            "answer": "このお店の滋養食は体に栄養を与え、健康に良い効果があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 63,
+        "QA": 90
+    }
+}

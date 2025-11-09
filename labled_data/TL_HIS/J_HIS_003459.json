@@ -1,0 +1,63 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_003459",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=249&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=13&ccbaAsno=02810000&ccbaCtcd=11&ccbaCpno=1331102810000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1981-09-25",
+        "domain": "문화/역사관광",
+        "title": "서울 중앙고등학교 본관"
+    },
+    "text": "ソウル中央高等学校本館 (서울 중앙고등학교 본관)\\n\nソウル鍾路区昌徳宮キル164(桂洞)\\n\n1937年 , 史跡 , 日本による植民地時代パク·ドンジンが設計して建てた石造2階建ての建物である。 1917年、中学課程に降りてきたこの学校をキム·ソンスが買収し、白頭山を象徴する白山学校として学校名をつけようとした。 しかし、日本の妨害で結局中央高等普通学校と名付けられ、新しい建物を建てることになった。 平面は「H」型の姿をし、1階中央は行政空間として使用し、残りは教室として使用している。 旧本館は1934年に焼失し、代わりに建てられたこの建物は暗鬱だった日本による植民地時代を経て民族教育の正しい道を定めた学びの場として数多くの指導者を輩出した由緒あるところだ。 韓国の建築家が設計し、近代初期様式で建築した民間学校の建物として意義がある。",
+    "QA": [
+        {
+            "question": "この建物はいつ建てられましたか？",
+            "answer": "1937年に建てられました。"
+        },
+        {
+            "question": "この建物の設計者は誰ですか？",
+            "answer": "パク・ドンジンが設計しました。"
+        },
+        {
+            "question": "この学校の元の名前は何でしたか？",
+            "answer": "元の名前は白山学校でした。"
+        },
+        {
+            "question": "なぜ学校名は変更されたのですか？",
+            "answer": "日本の妨害により、学校名は中央高等普通学校に変更されました。"
+        },
+        {
+            "question": "この建物は何階建てですか？",
+            "answer": "この建物は2階建てです。"
+        },
+        {
+            "question": "この建物はどのような形をしていますか？",
+            "answer": "この建物は「H」型の形をしています。"
+        },
+        {
+            "question": "この建物は何に使用されていますか？",
+            "answer": "1階中央は行政空間として使用され、残りは教室として使用されています。"
+        },
+        {
+            "question": "この建物はどのような意義がありますか？",
+            "answer": "この建物は暗鬱な日本の植民地時代を経て、民族教育の正しい道を定めた学びの場として数多くの指導者を輩出した由緒ある建物です。"
+        },
+        {
+            "question": "この建物はどのような建築様式で設計されましたか？",
+            "answer": "この建物は近代初期様式で建築されています。"
+        },
+        {
+            "question": "この建物は誰によって建設されましたか？",
+            "answer": "韓国の建築家によって建設されました。"
+        }
+    ],
+    "word_Count": {
+        "text": 275,
+        "QA": 299
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_034190",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=784&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=00231400&ccbaCtcd=50&ccbaCpno=2333900231400&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1996-07-18",
+        "domain": "문화/역사관광",
+        "title": "함덕연대"
+    },
+    "text": "咸徳連隊 (함덕연대)\\n\n済州市朝天邑咸徳里2152-1番地\\n\n済州特別自治道記念物 , 連帯は松明と煙を利用して政治·軍事的に急な便りを伝えた通信手段をいう。 烽燧台とは機能面で差がないが、連隊は主に丘陵地や海辺地域に設置され、烽燧台は山頂に設置し、昼間は煙で夜は松明を起こして信号を送った。 朝天津に所属していた咸徳連隊は、北済州郡朝天邑咸徳里の西側にある済州大学校海洋研究所の中にある。 現在、毀損が多く、下の部分の横7.9m、縦8.1m、高さ1.6~2.4m程度が残っている。 朝天津所属の将軍6人と烽燧軍12人が配置され交代で24時間守り、東側に瑞山烽燧台を経て茂朱連隊、西側には倭砲連隊と信号を交わした。",
+    "QA": [
+        {
+            "question": "咸徳連隊はどこにありますか？",
+            "answer": "咸徳連隊は済州市朝天邑咸徳里2152-1番地にあります。"
+        },
+        {
+            "question": "咸徳連隊は何を使って通信手段を伝えましたか？",
+            "answer": "咸徳連隊は松明と煙を利用して通信手段を伝えました。"
+        },
+        {
+            "question": "咸徳連隊と烽燧台の違いは何ですか？",
+            "answer": "咸徳連隊と烽燧台は機能面では差がありませんが、連隊は丘陵地や海辺地域に設置され、烽燧台は山頂に設置されました。"
+        },
+        {
+            "question": "咸徳連隊はどのように信号を送りましたか？",
+            "answer": "咸徳連隊は昼間は煙で夜は松明を起こして信号を送りました。"
+        },
+        {
+            "question": "咸徳連隊は現在どのような状態ですか？",
+            "answer": "咸徳連隊は現在、毀損が多く、下の部分の横7.9m、縦8.1m、高さ1.6~2.4m程度が残っています。"
+        }
+    ],
+    "word_Count": {
+        "text": 227,
+        "QA": 203
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_055617",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-03",
+        "domain": "음식점",
+        "title": "ユッパンジャン ( 육반장 )"
+    },
+    "text": "ユッパンジャン ( 육반장 )\\n\n江原道 ガンヌン市 トソンロ169\\n\n昔ながらのユッケジャンが味わえる店です。江原道のガンヌン市に位置した韓食専門店です。おすすめはユッケジャンカルグクスです。",
+    "QA": [
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "ユッパンジャンは江原道のガンヌン市に位置しています。具体的な住所はトソンロ169です。"
+        },
+        {
+            "question": "この店のおすすめメニューは何ですか？",
+            "answer": "おすすめはユッケジャンカルグクスです。昔ながらのユッケジャンを味わうことができます。"
+        },
+        {
+            "question": "ユッパンジャンで提供される料理は何ですか？",
+            "answer": "ユッパンジャンでは韓食を専門としており、ユッケジャンカルグクスをはじめとする様々な料理が提供されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 72,
+        "QA": 139
+    }
+}

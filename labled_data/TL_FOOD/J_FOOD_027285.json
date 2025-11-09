@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_027285",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000501370#",
+        "collectedDate": "2023-09-05",
+        "publishedDate": "2016-05-30",
+        "domain": "음식점",
+        "title": "중문수원음식점"
+    },
+    "text": "中文水原飲食店\n済州特別自治道西帰浦市天帝淵路83\n黒豚、済州銀タチウオ、トコブシの海鮮鍋などをメインメニューとしています。 屋外テラスもあり、屋外でも楽しめます。",
+    "QA": [
+        {
+            "question": "この水原飲食店はどこにありますか？",
+            "answer": "この水原飲食店は済州特別自治道西帰浦市天帝淵路83にあります。"
+        },
+        {
+            "question": "この水原飲食店のメインメニューは何ですか？",
+            "answer": "この水原飲食店のメインメニューは黒豚、済州銀タチウオ、トコブシの海鮮鍋です。"
+        },
+        {
+            "question": "この水原飲食店には屋外テラスがありますか？",
+            "answer": "はい、この水原飲食店には屋外テラスもありますので、屋外でもお食事を楽しむことができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 60,
+        "QA": 126
+    }
+}

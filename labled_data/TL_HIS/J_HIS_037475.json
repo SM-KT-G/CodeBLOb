@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_037475",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=464&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=01160000&ccbaCtcd=37&ccbaCpno=2113701160000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1979-01-25",
+        "domain": "문화/역사관광",
+        "title": "청도덕양동삼층석탑"
+    },
+    "text": "清道徳陽洞三層石塔 (청도덕양동삼층석탑)\\n\n慶尚北道清道郡豊角面徳陽里1372番地\\n\n慶尚北道有形文化財、徳陽村近隣の麓に倒れていた塔で、1972年に村人たちがここに移した。 塔は全体の重さを支える基壇が1階になっているが、本来は2階だったと見られ、その上に3階の塔身を積み上げた。 基壇の四面と塔身部の石は角ごとに柱の形を真似て彫っただけで、他の装飾はない。 石を覆っている各層の屋根石は底面に4段の支えを置いた。 全体的に軽い感じがし、基壇から柱状の彫刻を角だけに置いて面の真ん中には置いていない点を除けば、概して統一新羅石塔の様式によく従っており、この時期の作品と推定される。",
+    "QA": [
+        {
+            "question": "この石塔はどこにありますか？",
+            "answer": "慶尚北道清道郡豊角面徳陽里1372番地にあります。"
+        },
+        {
+            "question": "この石塔はいつ移動されましたか？",
+            "answer": "1972年に村人たちが移動しました。"
+        },
+        {
+            "question": "この石塔の特徴は何ですか？",
+            "answer": "基壇の四面と塔身部の石は角ごとに柱の形を真似て彫っただけで、他の装飾はありません。"
+        },
+        {
+            "question": "この石塔はどのような様式に従っていますか？",
+            "answer": "統一新羅石塔の様式によく従っており、この時期の作品と推定されます。"
+        },
+        {
+            "question": "この石塔の屋根石はどのようにして支えられていますか？",
+            "answer": "各層の屋根石は底面に4段の支えを置いています。"
+        }
+    ],
+    "word_Count": {
+        "text": 215,
+        "QA": 168
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_LEI_002321",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2022-12-29",
+        "domain": "레포츠",
+        "title": "호텔롯데 휘트니스클럽"
+    },
+    "text": "ホテルロッテフィットネスクラブ (호텔롯데 휘트니스클럽)\\n\nソウル特別市中区乙支路30(小公洞)\\n\nデホテルソウルメインタワー4階に位置するフィットネスセンターはPT Studio、GX Studioなどの最新施設を備えている。 多様な運動プログラムを通じて健康で楽しい生活を作ることができ、最新3D器具であるKINESIS Station、人体工学的設計および先端機能を備えたイタリアテクノジム(Technogym)をはじめ、90台余りの最新装備が効果的な運動法を提案する。 また、多様な目的に合うCardio Zone、Weight Zone、Free Weight Zone、Stretch Zoneなどの空間が最適の便利さを提供する。",
+    "QA": [
+        {
+            "question": "ホテルロッテフィットネスクラブはどこに位置していますか？",
+            "answer": "ホテルロッテフィットネスクラブはソウル特別市中区乙支路30に位置しています。"
+        },
+        {
+            "question": "ホテルロッテフィットネスクラブはどのような施設を提供していますか？",
+            "answer": "ホテルロッテフィットネスクラブはPTスタジオ、GXスタジオなどの最新施設を提供しています。"
+        },
+        {
+            "question": "ホテルロッテフィットネスクラブではどのような運動プログラムがありますか？",
+            "answer": "ホテルロッテフィットネスクラブでは多様な運動プログラムを提供しています。"
+        },
+        {
+            "question": "ホテルロッテフィットネスクラブの設備はどのようなものですか？",
+            "answer": "ホテルロッテフィットネスクラブの設備にはKINESISステーションやイタリアテクノジムなどがあります。"
+        },
+        {
+            "question": "ホテルロッテフィットネスクラブにはどのようなエリアがありますか？",
+            "answer": "ホテルロッテフィットネスクラブにはCardioゾーン、Weightゾーン、Free Weightゾーン、Stretchゾーンなどのエリアがあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 237,
+        "QA": 295
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_029341",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-06",
+        "domain": "음식점",
+        "title": "幸運豚カツ ( 행운돈까스 )"
+    },
+    "text": "幸運豚カツ ( 행운돈까스 )\\n\nソウル特別市 城東区 マジョロ1ギル2\\n\n大学の近くにあり、若者たちがよく訪れるところです。代表的なメニューはチーズカツです。ソウル特別市のソンドン区に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "幸運豚カツはどこにありますか？",
+            "answer": "幸運豚カツはソウル特別市城東区マジョロ1ギル2に位置しています。"
+        },
+        {
+            "question": "幸運豚カツの代表的なメニューは何ですか？",
+            "answer": "幸運豚カツの代表的なメニューはチーズカツです。"
+        },
+        {
+            "question": "幸運豚カツはどのような場所ですか？",
+            "answer": "幸運豚カツは大学の近くにあり、若者たちがよく訪れるところです。"
+        },
+        {
+            "question": "幸運豚カツはどんな料理を提供していますか？",
+            "answer": "幸運豚カツは韓国料理を専門としており、主に豚カツを提供しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 78,
+        "QA": 140
+    }
+}

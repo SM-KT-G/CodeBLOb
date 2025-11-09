@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_028972",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "韓国で２番目の楊平酔い覚ましスープ専門  ( 한국에서두번째양평해장국전문 )"
+    },
+    "text": "韓国で２番目の楊平酔い覚ましスープ専門  ( 한국에서두번째양평해장국전문 )\\n\nソウル特別市 ヨンドゥンポ区 ドシンロ189\\n\n豚の特殊部位で出したスープを使ったさっぱりした味の料理です。ソウル特別市のヨンドゥンポ区に位置した韓食専門店です。代表的なメニューは酔い覚ましスープです。",
+    "QA": [
+        {
+            "question": "このレストランの場所はどこですか？",
+            "answer": "ソウル特別市のヨンドゥンポ区に位置しています。"
+        },
+        {
+            "question": "このレストランの特徴的なメニューは何ですか？",
+            "answer": "代表的なメニューは酔い覚ましスープです。"
+        },
+        {
+            "question": "どのような味の料理ですか？",
+            "answer": "豚の特殊部位で出したスープを使ったさっぱりした味の料理です。"
+        }
+    ],
+    "word_Count": {
+        "text": 105,
+        "QA": 91
+    }
+}

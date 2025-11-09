@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_086702",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/collectionList#######",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2023-10-11",
+        "domain": "문화/역사관광",
+        "title": "신학사교정고본관판서경대전"
+    },
+    "text": "神学史教正古本館版書経大典 (신학사교정고본관판서경대전)\\n\n国籍および時代不詳の韓国の作家によって書かれたとされる紙の巻物があります。この巻物は文化術の一環として分類されており、その大きさは27.5cm×17cmです。",
+    "QA": [
+        {
+            "question": "巻物の大きさは何センチですか？",
+            "answer": "27.5センチ×17センチです。"
+        },
+        {
+            "question": "巻物はどのような文化的な活動の一環として分類されていますか？",
+            "answer": "巻物は文化術の一環として分類されています。"
+        },
+        {
+            "question": "巻物を書いたとされる作家の国籍は何ですか？",
+            "answer": "国籍および時代は不詳ですが、韓国の作家によって書かれたとされています。"
+        }
+    ],
+    "word_Count": {
+        "text": 81,
+        "QA": 101
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_094328",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=95&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=07450600&ccbaCtcd=11&ccbaCpno=1121107450600&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1983-05-07",
+        "domain": "문화/역사관광",
+        "title": "월인석보 권21"
+    },
+    "text": "明宗17年(1562)に編纂された宝物な『ウォルインソクボ』は『月』と『釈譜詳節』を結合した仏教大蔵経である。ソクボは、釈迦牟尼仏のニョンボに、彼の一代記を意味する。世宗29年(1447)に世宗は『釈譜詳節』を読んで、各節ごとに2節に対する賛歌を浮かべた。これがまさに『月』だ。現在までウォルインソクボの全権数量は知ることができず、『ウォルインソクボ』権21は明宗17年(1562)に全羅道、淳昌ムリャングルで復刻された1冊2本の重刊本だ。しかし、この本は、最初の刊行本ではないが、複製品であるため、原本と類似し、21冊は他の所で発見されていない唯一の図書である。",
+    "QA": [
+        {
+            "question": "ウォルインソクボはいつ編纂されましたか？",
+            "answer": "明宗17年(1562)に編纂されました。"
+        },
+        {
+            "question": "ウォルインソクボは何を結合した仏教大蔵経ですか？",
+            "answer": "『月』と『釈譜詳節』を結合したものです。"
+        },
+        {
+            "question": "ソクボとは何を意味する言葉ですか？",
+            "answer": "ソクボは、釈迦牟尼仏のニョンボに、彼の一代記を意味します。"
+        },
+        {
+            "question": "世宗29年に世宗が何を読んで賛歌を浮かべたのですか？",
+            "answer": "世宗は『釈譜詳節』を読んで、各節ごとに2節に対する賛歌を浮かべました。"
+        },
+        {
+            "question": "ウォルインソクボの全権数量は何冊ですか？",
+            "answer": "現在までウォルインソクボの全権数量は知ることができず、『ウォルインソクボ』権21は明宗17年(1562)に全羅道、淳昌ムリャングルで復刻された1冊2本の重刊本です。"
+        }
+    ],
+    "word_Count": {
+        "text": 206,
+        "QA": 214
+    }
+}

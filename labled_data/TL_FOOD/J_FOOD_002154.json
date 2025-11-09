@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_002154",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-01",
+        "domain": "음식점",
+        "title": "Ttoollae ( 또올래 )"
+    },
+    "text": "Ttoollae \n京畿道 平沢市 彭城邑 安停ショピン路 24-2\n20年以上この場所を守ってきたメイン商店街にある、韓国料理のグルメ店です。 おすすめはビビンバです。",
+    "QA": [
+        {
+            "question": "このグルメ店はどこにありますか？",
+            "answer": "このグルメ店は、京畿道 平沢市 彭城邑 安停ショピン路 24-2にあります。"
+        },
+        {
+            "question": "このグルメ店のおすすめは何ですか？",
+            "answer": "このグルメ店のおすすめはビビンバです。"
+        },
+        {
+            "question": "このグルメ店は何年以上営業していますか？",
+            "answer": "このグルメ店は20年以上営業しています。"
+        },
+        {
+            "question": "このグルメ店はどの商店街にありますか？",
+            "answer": "このグルメ店はメイン商店街にあります。"
+        },
+        {
+            "question": "このグルメ店はどの国の料理を提供していますか？",
+            "answer": "このグルメ店は韓国料理を提供しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 62,
+        "QA": 154
+    }
+}

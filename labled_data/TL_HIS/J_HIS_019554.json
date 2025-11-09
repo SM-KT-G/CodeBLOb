@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_019554",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=401&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=00360000&ccbaCtcd=32&ccbaCpno=2113200360000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1971-12-16",
+        "domain": "문화/역사관광",
+        "title": "방내리삼층석탑"
+    },
+    "text": "部屋の内裏三階石塔 (방내리삼층석탑)\\n\n江原道江陵市郷校マルキル22(連谷面)\\n\n江原特別自治道 有形文化財 , 新羅の昔の寺跡として伝えられているところに残っている3層石塔だ。 塔の周辺に民家が建っており、塔以外に寺院があった跡は見当たらない。 基壇部は毀損が激しく、本来の姿が分からず、現在小さな岩盤の上に3階の塔身が積まれている。 塔身の石には柱の形が彫られ、特に1階の石の4面には如来坐像が彫刻されている。 屋根石の底面には3段の支えがあり、厚い落水面には急な傾斜が流れる。 頂上には覆鉢(ひっくり返した器形装飾)と仰花(湧き出た蓮の花形装飾)が残って頭飾りをしている。 高麗時代の石塔で、1層体石に比べて2層体石が急激に減って全体の比例が調和しないが、1層体石に仏像彫刻を置いた点は注目に値する。",
+    "QA": [
+        {
+            "question": "この建物は何階建てですか？",
+            "answer": "この建物は内裏三階石塔で、三階建てです。"
+        },
+        {
+            "question": "この建物はどの時代のものですか？",
+            "answer": "この建物は高麗時代の石塔です。"
+        },
+        {
+            "question": "周りに寺院の跡はありますか？",
+            "answer": "塔の周辺には民家が建っており、寺院の跡は見当たりません。"
+        },
+        {
+            "question": "塔の基壇部はどのような状態ですか？",
+            "answer": "塔の基壇部は毀損が激しく、本来の姿は分かりません。現在は小さな岩盤の上に3階の塔身が積まれています。"
+        },
+        {
+            "question": "塔身の石には何が彫られていますか？",
+            "answer": "塔身の石には柱の形が彫られており、特に1階の石の4面には如来坐像が彫刻されています。"
+        },
+        {
+            "question": "屋根石の特徴は何ですか？",
+            "answer": "屋根石の底面には3段の支えがあり、厚い落水面には急な傾斜が流れています。頂上には覆鉢と仰花が残っており、頭飾りをしています。"
+        }
+    ],
+    "word_Count": {
+        "text": 261,
+        "QA": 224
+    }
+}

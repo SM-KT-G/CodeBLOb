@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_041420",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2019-03-20",
+        "domain": "문화/역사관광",
+        "title": "K-FOOD PLAZA"
+    },
+    "text": "K-FOOD PLAZA\n江原道 平昌郡 大関嶺面 横渓里 310-2\nK-FOOD PLAZAが位置するフェスティバルパーク平昌は平昌文化オリンピックの一環として大韓民国と江原道の文化を紹介する複合文化空間で、平昌冬季オリンピック及びパラリンピック期間運営されます。韓国の国内外の観光客に韓国料理・韓食やK-FOODを紹介するK-FOOD PLAZA広報館のほか、韓国を代表する65の韓食を楽しむことができるK-FOOD PLAZA食品館、公演館、商品館、世界飲食文化館などもあります。",
+    "QA": [
+        {
+            "question": "K-FOOD PLAZAはどこに位置していますか？",
+            "answer": "K-FOOD PLAZAは江原道平昌郡大関嶺面横渓里310-2に位置しています。"
+        },
+        {
+            "question": "K-FOOD PLAZAはどんな施設ですか？",
+            "answer": "K-FOOD PLAZAはフェスティバルパーク平昌に位置する複合文化空間で、広報館、食品館、公演館、商品館、世界飲食文化館などがあります。"
+        },
+        {
+            "question": "K-FOOD PLAZAでは何を楽しむことができますか？",
+            "answer": "K-FOOD PLAZAでは韓国料理・韓食やK-FOODを紹介する広報館や、65の韓食を楽しむことができる食品館などがあります。"
+        },
+        {
+            "question": "K-FOOD PLAZAは何のために運営されますか？",
+            "answer": "K-FOOD PLAZAは平昌文化オリンピックの一環として大韓民国と江原道の文化を紹介するために運営されます。"
+        }
+    ],
+    "word_Count": {
+        "text": 178,
+        "QA": 241
+    }
+}

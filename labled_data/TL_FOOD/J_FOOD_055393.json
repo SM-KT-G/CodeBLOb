@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_055393",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/teppen",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "てっぺん"
+    },
+    "text": "てっぺん\\n\nソウル特別市 麻浦区 臥牛山路17キル 15 )\\n\n日本に本社のある鉄板料理のお店です。野菜と麺に卵とソースをからめたてっぺん焼きが人気メニューです。活気ある店員達のサービスとおいしい料理に1人2,500ウォンのサービス料が別途かかります。",
+    "QA": [
+        {
+            "question": "このお店の場所はどこですか？",
+            "answer": "ソウル特別市麻浦区臥牛山路17キル15番地にあります。"
+        },
+        {
+            "question": "このお店の特徴的な料理は何ですか？",
+            "answer": "おすすめの料理は、野菜と麺に卵とソースをからめたてっぺん焼きです。"
+        },
+        {
+            "question": "サービス料金はいくらですか？",
+            "answer": "1人につき2,500ウォンのサービス料が別途かかります。"
+        },
+        {
+            "question": "店員達のサービスはどうですか？",
+            "answer": "活気ある店員達がお客様にサービスを提供しています。"
+        },
+        {
+            "question": "このお店の本社はどこにありますか？",
+            "answer": "本社は日本にあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 93,
+        "QA": 147
+    }
+}

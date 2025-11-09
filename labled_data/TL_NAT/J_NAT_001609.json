@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_001609",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=910&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=24&ccbaAsno=00040100&ccbaCtcd=50&ccbaCpno=2443900040100&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1978-11-14",
+        "domain": "자연관광",
+        "title": "김석윤가옥"
+    },
+    "text": "キム·ソクユン家屋 (김석윤가옥)\\n\n済州市鎮南路44(華北一洞)\\n\n近代 , 済州特別自治道民俗文化財 , 済州島の民家の中で瓦葺きの家は非常に珍しい。 官吏たちの住居地である墨城と延六浦口である華北、新村、朝川に数軒が散在したほどだった。 1904年に建築し、3代目に渡って受け継がれてきたこの家は、済州民家の発展形式の中で代表的な例といえる。 門屋と奥の距離だけが瓦葺きで、外の距離とモカリは藁葺き屋根で庭を中心にコ字型の別棟に配置することで、済州の伝統住居形式の土台に韓本土の上流住宅が持つ男性空間であるサランチェの機能を接合した形式を見せてくれる。 特に、非常に重くて粗い円形の済州旗とモルパン石、広いヌルワット(ガリの跡)、ウヨンポッド(跡の外側)とサランチェのウヨンに四君子である菊、竹、梅で造園した専用情緒空間が用意されたのがまた別の特徴だ。",
+    "QA": [
+        {
+            "question": "この家屋はどこにありますか？",
+            "answer": "済州市鎮南路44(華北一洞)にあります。"
+        },
+        {
+            "question": "この家屋は何時代に建てられましたか？",
+            "answer": "1904年に建築されました。"
+        },
+        {
+            "question": "この家屋はどのような特徴がありますか？",
+            "answer": "この家屋は瓦葺きの屋根が特徴であり、庭を中心にコ字型の別棟に配置されています。また、済州の伝統住居形式と韓本土の上流住宅の男性空間であるサランチェの機能を組み合わせています。"
+        },
+        {
+            "question": "この家屋の庭にはどのような特徴がありますか？",
+            "answer": "庭には済州旗とモルパン石があり、菊・竹・梅の四君子で造園された専用情緒空間があります。また、広いヌルワット(ガリの跡)とウヨンポッド(跡の外側)もあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 279,
+        "QA": 199
+    }
+}

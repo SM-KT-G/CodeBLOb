@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_002129",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/lodge/the-jackson9s-hotel-korea-quality",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "THE JACKSON9s HOTEL"
+    },
+    "text": "THE JACKSON9s HOTEL\n江原道春川市中央路193 )\nTHE JACKSON9s HOTEL(ザ・ジャクソンナインズホテル)は、春川の孔之川十字路に位置する地下4階、地上16階建ての大型ホテルだ。孔之川と義岩湖が目の前にあるので、ホテルに滞在するだけで湖畔の都市、春川らしさを感じることができる。 約390の客室は、スタンダードダブルからプレミアムスイートまで、全部で9つのタイプに分けられる。ファミリーオンドルを除いた全客室にクイーンサイズのベッドを備えて安らかな熟睡を保証する。スタンダードダブル・スタンダードツイン・スーペリアダブル・スーペリアツイン客室からは広い枠なしの窓越しに春川の山水が広がり、ジャグジースイートとプレミアムスイート客室にはテラスに屋外ジャグジーがあるので心地よい休息を取ることができる。 孔之川の流れを眺めながらコーヒーが飲めるザ・キングカフェ、子どもたちが走り回るのに最適なキダルトパークであり、ワインやウィスキーを販売するバーである2階のザ・モンサンド、汗を流すことができる3階のジャクソン・サウナ、コンビニなど、必要なアメニティ施設はだいたいホテル内に集まっているので便利だ。",
+    "QA": [
+        {
+            "question": "The Jackson9s Hotelはどこに位置していますか？",
+            "answer": "The Jackson9s Hotel(ザ・ジャクソンナインズホテル)は、江原道春川市中央路193に位置しています。"
+        },
+        {
+            "question": "The Jackson9s Hotelの客室は何タイプありますか？",
+            "answer": "The Jackson9s Hotelの客室は全部で9つのタイプあります。"
+        },
+        {
+            "question": "The Jackson9s Hotelの各客室にはどのようなベッドが備えられていますか？",
+            "answer": "The Jackson9s Hotelの全客室（ファミリーオンドルを除く）にはクイーンサイズのベッドが備えられています。"
+        },
+        {
+            "question": "The Jackson9s Hotelのどの客室からは春川の山水が見えますか？",
+            "answer": "The Jackson9s Hotelのスタンダードダブル・スタンダードツイン・スーペリアダブル・スーペリアツイン客室からは春川の山水を広い窓越しに眺めることができます。"
+        },
+        {
+            "question": "The Jackson9s Hotelのジャグジースイートとプレミアムスイート客室には何がありますか？",
+            "answer": "The Jackson9s Hotelのジャグジースイートとプレミアムスイート客室には屋外ジャグジーがテラスに備えられています。"
+        },
+        {
+            "question": "The Jackson9s Hotelにはどのようなアメニティ施設がありますか？",
+            "answer": "The Jackson9s Hotelにはザ・キングカフェ、キダルトパーク、ザ・モンサンド、ジャクソン・サウナ、コンビニなどのアメニティ施設があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 376,
+        "QA": 453
+    }
+}

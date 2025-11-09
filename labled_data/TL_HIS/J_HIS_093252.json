@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_093252",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ja",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2023-08-10",
+        "domain": "문화/역사관광",
+        "title": "우리의 종과 판화를 찾아서, 진천 여행 [웰촌]"
+    },
+    "text": "私たちの鐘と版画を探して、鎮川旅行 [ウェルチョン] (우리의 종과 판화를 찾아서, 진천 여행 [웰촌])\\n\n鎮川鐘は、韓国の種に関する研究や収集、展示、保存に加えて、企画展示や教育活動などを通じて、世界的にその芸術的価値と優秀性を広めるため、2005年9月に開館しました。",
+    "QA": [
+        {
+            "question": "鎮川鐘はいつ開館しましたか？",
+            "answer": "2005年9月に開館しました。"
+        },
+        {
+            "question": "鎮川鐘は何を目的としていますか？",
+            "answer": "韓国の種に関する研究や収集、展示、保存に加えて、企画展示や教育活動などを通じて、世界的にその芸術的価値と優秀性を広めるために開館しました。"
+        },
+        {
+            "question": "鎮川鐘ではどのような展示や活動が行われていますか？",
+            "answer": "韓国の種に関する研究や収集、展示、保存に加えて、企画展示や教育活動などが行われています。"
+        }
+    ],
+    "word_Count": {
+        "text": 102,
+        "QA": 134
+    }
+}

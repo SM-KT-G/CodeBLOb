@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_097180",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1225&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=79&ccbaAsno=04270000&ccbaCtcd=23&ccbaCpno=4412304270000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2008-10-27",
+        "domain": "문화/역사관광",
+        "title": "인천 제물포고등학교 강당"
+    },
+    "text": "仁川済物浦高等学校講堂\\n\n仁川市中区ジャンロ58-9(電動)\\n\n1935年、国の登録文化財、1935年に建立されたこの建物は日本の植民地支配当時建設された講堂に、学校の講堂の機能をしただけでなく、仁川(インチョン)地域社会の大型集会の空間として利用してきた歴史的な場所である。15メートルもなった幅を中間柱無しに処理したのが特徴的であり、全体的にとても簡潔ながらも、機能的だ。この建物は当時、済物浦(チェムルポ)高校の生徒たちが多くの愛国志士などの講義を聞きながら青雲の夢を育てたところでもある。",
+    "QA": [
+        {
+            "question": "この講堂はいつ建てられましたか？",
+            "answer": "この講堂は1935年に建てられました。"
+        },
+        {
+            "question": "この講堂はどのような機能を持っていますか？",
+            "answer": "この講堂は学校の講堂の機能だけでなく、仁川地域社会の大型集会の空間としても利用されています。"
+        },
+        {
+            "question": "講堂の特徴的な点は何ですか？",
+            "answer": "講堂の特徴的な点は、15メートルもなった幅を中間柱無しに処理したことです。"
+        },
+        {
+            "question": "済物浦高校の生徒たちは何をするためにこの講堂を利用していましたか？",
+            "answer": "済物浦高校の生徒たちは多くの愛国志士などの講義を聞きながら青雲の夢を育てるためにこの講堂を利用していました。"
+        }
+    ],
+    "word_Count": {
+        "text": 183,
+        "QA": 176
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_018861",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-07-30",
+        "domain": "음식점",
+        "title": "唐津第一コッケジャン（당진제일꽃게장）"
+    },
+    "text": "唐津第一コッケジャン（당진제일꽃게장）\\n\n忠清南道 唐津市 白岩路246 （彩雲洞）\\n\n「唐津第一コッケジャン（タンジンジェイルコッケジャン）」では、塩辛くも甘くもない、ちょうどいい味が口の中いっぱいに広がる絶妙な味付けの美味しいケジャンを堪能できます。",
+    "QA": [
+        {
+            "question": "このレストランの名前は何ですか？",
+            "answer": "唐津第一コッケジャン（タンジンジェイルコッケジャン）です。"
+        },
+        {
+            "question": "どこにありますか？",
+            "answer": "忠清南道唐津市白岩路246（彩雲洞）にあります。"
+        },
+        {
+            "question": "どのような味付けですか？",
+            "answer": "塩辛くも甘くもない、ちょうどいい味が口の中いっぱいに広がる絶妙な味付けです。"
+        }
+    ],
+    "word_Count": {
+        "text": 94,
+        "QA": 93
+    }
+}

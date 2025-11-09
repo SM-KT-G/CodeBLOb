@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_000886",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-02-06",
+        "domain": "문화/역사관광",
+        "title": "a moment in time（시간을 담다）"
+    },
+    "text": "a moment in time\nソウル特別市 中区 三一大路8キル 20-1\n「a moment in time」は人物の特徴を誇張して描く人物画・カリカチュアの店。いままでのカリカチュアとは一線を画し、韓国の伝統衣装、花、ランドマーク（光化門、南大門）、ヘテなどをカリカチュアに加え、韓国で体験した思い出をカリカチュアで描きます。カリカチュア以外にも伝統民画塗り絵体験などの体験プログラムの実施及びギフト用小物の販売を行っており、店内の全商品が独自のデザインとなっています。",
+    "QA": [
+        {
+            "question": "このお店の名前は何ですか？",
+            "answer": "a moment in time"
+        },
+        {
+            "question": "このお店ではどのような絵を描いていますか？",
+            "answer": "人物の特徴を誇張して描く人物画・カリカチュアを描いています。"
+        },
+        {
+            "question": "他にどんな体験プログラムがありますか？",
+            "answer": "伝統民画塗り絵体験などの体験プログラムがあります。"
+        },
+        {
+            "question": "お店の商品は一体どんなデザインですか？",
+            "answer": "お店の全商品が独自のデザインとなっています。"
+        }
+    ],
+    "word_Count": {
+        "text": 175,
+        "QA": 121
+    }
+}

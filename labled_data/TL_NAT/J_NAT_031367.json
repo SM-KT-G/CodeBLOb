@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_031367",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101933",
+        "collectedDate": "2023-10-06",
+        "publishedDate": "2020-01-01",
+        "domain": "자연관광",
+        "title": "대운산"
+    },
+    "text": "デウンサンは蔚山広域市蔚州郡と慶尚南道梁山市と釜山広域市機張郡境界にある山で、東国輿地勝覧と古いウプジには仏光山という名前で表記されています。この山の南東には、元暁大師が創建したというジャンアンサがあり、東の山のふもとには、ネウォンアムが形成されています。",
+    "QA": [
+        {
+            "question": "デウンサンはどこにありますか？",
+            "answer": "デウンサンは蔚山広域市蔚州郡と慶尚南道梁山市と釜山広域市機張郡の境界にあります。"
+        },
+        {
+            "question": "ジャンアンサは誰によって創建されましたか？",
+            "answer": "ジャンアンサは元暁大師によって創建されました。"
+        },
+        {
+            "question": "ネウォンアムはどのように形成されましたか？",
+            "answer": "ネウォンアムは山のふもとに形成されました。"
+        }
+    ],
+    "word_Count": {
+        "text": 93,
+        "QA": 103
+    }
+}

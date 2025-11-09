@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_018309",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42060&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "천안 시크릿"
+    },
+    "text": "客室内部の施設ノーハードPC全室エアコン設置全室女性のためのヘアアイロン設置(ヘアドライヤー一体型)ネットフリックス(本人アカウント必要なし)、PC内に設置テレビで視聴可能周辺情報-地下鉄1号線-天安ターミナル、新世界百貨店徒歩5分の距離に位置。 - 檀国大学天安キャンパス、天安IC隣接- 天安駅/斗井駅/天安KTX車両10分の距離に位置。 駐車場情報駐車施設を保有している宿泊施設です。",
+    "QA": [
+        {
+            "question": "客室内には何が設置されていますか？",
+            "answer": "全室にはノーハードPCとエアコンが設置されています。また、女性のためのヘアアイロンも設置しています（ヘアドライヤー一体型）"
+        },
+        {
+            "question": "ネットフリックスは利用できますか？",
+            "answer": "はい、宿泊施設のPC内にネットフリックスが設置されています。本人のアカウントは必要ありません。また、テレビでの視聴も可能です"
+        },
+        {
+            "question": "周辺にはどんな施設がありますか？",
+            "answer": "宿泊施設は天安ターミナルと新世界百貨店から徒歩5分の距離に位置しています。また、檀国大学天安キャンパスや天安ICも隣接しています。天安駅や斗井駅、天安KTX車両へのアクセスも10分の距離です"
+        },
+        {
+            "question": "駐車場はありますか？",
+            "answer": "はい、宿泊施設は駐車施設を保有しています"
+        }
+    ],
+    "word_Count": {
+        "text": 143,
+        "QA": 218
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_071439",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=524&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=01980000&ccbaCtcd=11&ccbaCpno=2111101980000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2004-10-30",
+        "domain": "문화/역사관광",
+        "title": "백자청화매죽문시명병"
+    },
+    "text": "18世紀のソウル特別市有形文化財に属する白磁瓶は丸く広がった黒幕と太さと長さが適当な首、そして乾かした唇で構成されている。このような形は18世紀の白磁瓶でよく見られる特徴だ。この病気の胴体部中央には行く竹と花だけを咲いている梅の木が青和で描かれており、その間には書体で書かれた有名な詩行が含まれている。白磁瓶のユダヤ色は典型的な乳白色であり、竹の下、地表面を詩文と清潔な書体の始球式を書いた作品だ。",
+    "QA": [
+        {
+            "question": "この白磁瓶は何世紀に作られましたか？",
+            "answer": "この白磁瓶は18世紀に作られました。"
+        },
+        {
+            "question": "白磁瓶の形について教えてください。",
+            "answer": "白磁瓶の形は丸く広がった黒幕と太さと長さが適当な首で構成されています。"
+        },
+        {
+            "question": "白磁瓶の胴体部に描かれているのは何ですか？",
+            "answer": "白磁瓶の胴体部には行く竹と花だけを咲いている梅の木が描かれています。"
+        },
+        {
+            "question": "白磁瓶の色は何色ですか？",
+            "answer": "白磁瓶の色は典型的な乳白色です。"
+        },
+        {
+            "question": "白磁瓶の詩文はどのように書かれていますか？",
+            "answer": "白磁瓶の詩文は書体で書かれており、清潔な印象を与えています。"
+        }
+    ],
+    "word_Count": {
+        "text": 145,
+        "QA": 162
+    }
+}

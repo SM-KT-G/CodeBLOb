@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_027928",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=291&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=16&ccbaAsno=01660000&ccbaCtcd=32&ccbaCpno=1363201660000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1964-01-31",
+        "domain": "자연관광",
+        "title": "강릉 장덕리 은행나무"
+    },
+    "text": "天然記念物のイチョウの木は長く生きられる木で韓国、日本、中国などに分布している。この木は儒教と仏教が伝わる時、中国で一緒に入ってきたという。そして秋になると美しい紅葉が落ちるが、この木には、病虫害がなくてたくさん植えている。注文津長徳里に位置したイチョウの木は約800年くらいの歳と推定され、高さは26mで周囲は9.63mだ。この木は8つの大きな枝に分かれており、さらに特異だ。興味深い話としては昔にはこの木に多くの銀行が開かれたが、実が嫌なにおいが漂う時からは実を結んでいないということだ。このような話によってイチョウの木は注文津長徳里で天然記念物に指定されて保護されている。",
+    "QA": [
+        {
+            "question": "イチョウの木は何年くらいの歳と推定されていますか？",
+            "answer": "イチョウの木は約800年くらいの歳と推定されています。"
+        },
+        {
+            "question": "イチョウの木の高さと周囲の大きさはどのくらいですか？",
+            "answer": "イチョウの木の高さは26mで、周囲は9.63mです。"
+        },
+        {
+            "question": "イチョウの木の枝は何本に分かれていますか？",
+            "answer": "イチョウの木は8つの大きな枝に分かれています。"
+        },
+        {
+            "question": "なぜイチョウの木は注文津長徳里で天然記念物に指定されて保護されていますか？",
+            "answer": "イチョウの木は注文津長徳里で天然記念物に指定されて保護されています。"
+        },
+        {
+            "question": "イチョウの木には何か特徴的な話がありますか？",
+            "answer": "イチョウの木には昔に多くの銀行が開かれたが、実が嫌なにおいが漂う時からは実を結ばないという特徴的な話があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 211,
+        "QA": 217
+    }
+}

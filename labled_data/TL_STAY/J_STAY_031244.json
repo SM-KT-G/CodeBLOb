@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_031244",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42050&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "전주 고사동 씨네마"
+    },
+    "text": "こんにちは。全州コサドンシネマです。 弊社のコサドンシネマをご利用いただきありがとうございます。 まず、基本規定の入室時の基準人数は2人です。 追加人数がいる場合、当日現地にて追加料金を支払っていただきます。 チェックインの際に客室が割り当てられ、上記の画像と異なる客室が割り当てられることがあります。 また、オンシーズンおよび特定日、祝日(前日含む)には料金が変動する場合がありますので、ご注意ください。 ありがとうございます。",
+    "QA": [
+        {
+            "question": "コサドンシネマの基本規定の入室時の基準人数は何人ですか？",
+            "answer": "基本規定の入室時の基準人数は2人です。"
+        },
+        {
+            "question": "追加人数がいる場合、どうなりますか？",
+            "answer": "追加人数がいる場合、当日現地にて追加料金を支払っていただきます。"
+        },
+        {
+            "question": "チェックイン時に異なる客室が割り当てられることがあるのですか？",
+            "answer": "チェックインの際に客室が割り当てられ、上記の画像と異なる客室が割り当てられることがあります。"
+        },
+        {
+            "question": "オンシーズンおよび特定日、祝日には料金が変動しますか？",
+            "answer": "オンシーズンおよび特定日、祝日(前日含む)には料金が変動する場合がありますので、ご注意ください。"
+        }
+    ],
+    "word_Count": {
+        "text": 157,
+        "QA": 182
+    }
+}

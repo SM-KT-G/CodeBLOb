@@ -1,0 +1,31 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_021039",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2019-07-31",
+        "domain": "숙박",
+        "title": "洛山スイートホテル（낙산스위트호텔）"
+    },
+    "text": "洛山スイートホテル（낙산스위트호텔）\\n\n江原道 襄陽郡 襄陽邑 ヘマジキル 84 （襄陽邑）\\n\n江原道の洛山道立公園内に位置する洛山スイートホテルは、目の前に広がる洛山海水浴場をはじめ、洛山寺、雪岳山、五色温泉、統一展望台、龍平スキー場などの観光地が近くにあります。",
+    "QA": [
+        {
+            "question": "洛山スイートホテルはどこに位置していますか？",
+            "answer": "洛山スイートホテルは江原道襄陽郡襄陽邑ヘマジキル84に位置しています。"
+        },
+        {
+            "question": "洛山スイートホテルの周辺にはどのような観光地がありますか？",
+            "answer": "洛山スイートホテルの周辺には洛山海水浴場、洛山寺、雪岳山、五色温泉、統一展望台、龍平スキー場などの観光地があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 99,
+        "QA": 105
+    }
+}

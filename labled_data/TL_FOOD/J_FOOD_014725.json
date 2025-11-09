@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_014725",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "ヤドレポサム ( 야드레보쌈 )"
+    },
+    "text": "ヤドレポサム ( 야드레보쌈 )\n全羅南道 モクポ市 ハダンナムブロ10\nポッサムとキムチ巻きを一緒に味わうことができます。おすすめはポサムです。全羅南道のモクポ市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "ヤドレポサム（ 야드레보쌈 ）はどこに位置していますか？",
+            "answer": "ヤドレポサムは全羅南道のモクポ市に位置しています。"
+        },
+        {
+            "question": "ヤドレポサムのおすすめは何ですか？",
+            "answer": "ヤドレポサムのおすすめはポサムです。"
+        },
+        {
+            "question": "ヤドレポサムでは何を味わうことができますか？",
+            "answer": "ヤドレポサムではポサムとキムチ巻きを一緒に味わうことができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 69,
+        "QA": 104
+    }
+}

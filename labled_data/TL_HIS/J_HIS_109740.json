@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_109740",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=121&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=10300000&ccbaCtcd=11&ccbaCpno=1123110300000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1990-05-21",
+        "domain": "문화/역사관광",
+        "title": "청자 상감운학문 화분"
+    },
+    "text": "高麗時代に作られた青磁鉢である。 この植木鉢は高さ23.0㎝、口の直径28.2㎝、下径22.0㎝の大きさを持っている。 植木鉢の本体は上がやや広い円筒形になっており、底の中央には直径6㎝ほどの穴が空いている。 これにより、水が抜けることができるようになっている。 植木鉢の口は厚く外に巻いて処理され、胴体の中間と下の部分には同じ太さの縞模様が囲まれている。 上部には雲と鶴の模様が交互に3つずつ配置されている。 雲は白色で表現され、鶴は黒色と白色を象嵌技法で処理された。 下側は蓮の葉が重なった形に囲まれている。 構成はほぼ二等分だが、下側は陰刻線で弱く処理され、上面の雲と鶴の模様だけが目立って見える。 釉薬は光沢がほとんどなく前面に氷列が広がっており、部分的に黄緑色を帯びている。",
+    "QA": [
+        {
+            "question": "この植木鉢の大きさは？",
+            "answer": "この植木鉢は高さ23.0㎝、口の直径28.2㎝、下径22.0㎝の大きさを持っています。"
+        },
+        {
+            "question": "植木鉢の本体に空いている穴の大きさは？",
+            "answer": "植木鉢の本体に空いている穴の直径は6㎝ほどです。"
+        },
+        {
+            "question": "植木鉢の口の処理はどのようにされていますか？",
+            "answer": "植木鉢の口は厚く外に巻いて処理されています。"
+        },
+        {
+            "question": "植木鉢の模様には何が描かれていますか？",
+            "answer": "植木鉢の模様には雲と鶴の模様、そして蓮の葉が描かれています。"
+        },
+        {
+            "question": "植木鉢の釉薬の特徴は何ですか？",
+            "answer": "植木鉢の釉薬は光沢がほとんどなく、前面に氷列が広がっており、部分的に黄緑色を帯びています。"
+        }
+    ],
+    "word_Count": {
+        "text": 250,
+        "QA": 183
+    }
+}

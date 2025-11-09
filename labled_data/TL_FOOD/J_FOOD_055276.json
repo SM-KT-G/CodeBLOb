@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_055276",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/suhui-sikdang",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "スヒ食堂"
+    },
+    "text": "スヒ食堂\\n\n済州道西帰浦市正方洞444番地\\n\n済州の郷土飲食店であるスヒ食堂からは天地淵瀑布の下流と西帰浦七十里が一目で見下ろせます。海産物を煮込んだ鍋や、アカアマダイ焼き、粗塩を振って焼いた済州のタチウオ焼き、新鮮なサザエの冷たいスープが逸品です。",
+    "QA": [
+        {
+            "question": "スヒ食堂はどこにありますか？",
+            "answer": "スヒ食堂は済州道西帰浦市正方洞444番地にあります。"
+        },
+        {
+            "question": "スヒ食堂ではどんな料理が楽しめますか？",
+            "answer": "スヒ食堂では海産物を煮込んだ鍋や、アカアマダイ焼き、済州のタチウオ焼き、サザエの冷たいスープなどが楽しめます。"
+        },
+        {
+            "question": "スヒ食堂からは何が一望できますか？",
+            "answer": "スヒ食堂からは天地淵瀑布の下流と西帰浦七十里が一目で見下ろせます。"
+        }
+    ],
+    "word_Count": {
+        "text": 93,
+        "QA": 120
+    }
+}

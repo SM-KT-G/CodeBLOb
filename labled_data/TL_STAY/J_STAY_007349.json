@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_007349",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/goods/GN0002157784?startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "고성 VIP 운영 정책"
+    },
+    "text": "チェックインは15:00から可能で、チェックアウトは11:00までです。 チェックインとチェックアウト時間の案内が提供されます。 予約のお知らせによって人数を超過する場合、追加費用が発生することがあり、これは現場で決済されます。 これに関する案内も提供されます。 詳細な入室利用案内は与えられていません。",
+    "QA": [
+        {
+            "question": "チェックインは何時から可能ですか？",
+            "answer": "チェックインは15:00から可能です。"
+        },
+        {
+            "question": "チェックアウトは何時までですか？",
+            "answer": "チェックアウトは11:00までです。"
+        },
+        {
+            "question": "予約のお知らせによって人数を超過する場合、追加費用は発生しますか？",
+            "answer": "はい、予約のお知らせによって人数を超過する場合、追加費用が発生することがあります。追加費用は現場で決済されます。"
+        },
+        {
+            "question": "チェックインとチェックアウト時間の案内は提供されますか？",
+            "answer": "はい、チェックインとチェックアウト時間の案内が提供されます。"
+        }
+    ],
+    "word_Count": {
+        "text": 111,
+        "QA": 159
+    }
+}

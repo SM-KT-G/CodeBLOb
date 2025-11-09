@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_020899",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=801&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=00400000&ccbaCtcd=32&ccbaCpno=2333200400000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1980-02-26",
+        "domain": "문화/역사관광",
+        "title": "삼척저승굴"
+    },
+    "text": "三陟底勝窟 (삼척저승굴)\\n\n江原道三陟市道渓邑ハンネ里山55番地\\n\n江原特別自治道 記念物 , 三陟死神窟は3階建ての洞窟で、全長は1200mだ。 洞窟の中にはつららのような形をした鍾乳石と洞窟の底から突出して上がってきた石筍、そして鍾乳石と石筍が会って柱を成した石柱が多様に広がっており、地下水が豊富で高さ11mの巨大な滝を形成している。 洞窟の入口が外部河川より低く洪水の時には落ち葉や土などが入ってくることもあるが、中·上部は元の状態でよく保存されている。",
+    "QA": [
+        {
+            "question": "三陟底勝窟は何階建てですか？",
+            "answer": "三陟底勝窟は3階建てです。"
+        },
+        {
+            "question": "洞窟の全長は何メートルですか？",
+            "answer": "洞窟の全長は1200mです。"
+        },
+        {
+            "question": "洞窟の中にあるものは何ですか？",
+            "answer": "洞窟の中にはつららのような形をした鍾乳石、石筍、そして石柱が広がっています。"
+        },
+        {
+            "question": "洞窟の中にはどんな滝がありますか？",
+            "answer": "洞窟の中には高さ11mの巨大な滝があります。"
+        },
+        {
+            "question": "洞窟の入口はどのような状態ですか？",
+            "answer": "洞窟の入口は外部河川より低くなっており、洪水の時には落ち葉や土などが入ってくることもありますが、中·上部は元の状態で保存されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 171,
+        "QA": 170
+    }
+}

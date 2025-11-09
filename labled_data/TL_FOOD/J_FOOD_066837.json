@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_066837",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-05",
+        "domain": "음식점",
+        "title": "童話マウルジャンチナル ( 동화마을잔칫날 )"
+    },
+    "text": "童話マウルジャンチナル ( 동화마을잔칫날 )\\n\nソウル特別市 江西区 クムナンファロ287-50\\n\n手頃な価格でおいしい麺を味わうことができます。ソウル特別市のガンソ区に位置した韓食専門店です。代表的なメニューは混ぜ素麺です。",
+    "QA": [
+        {
+            "question": "このレストランの場所はどこですか？",
+            "answer": "ソウル特別市のガンソ区に位置しています。"
+        },
+        {
+            "question": "このレストランの料理は何ですか？",
+            "answer": "代表的なメニューは混ぜ素麺です。"
+        },
+        {
+            "question": "このレストランの特徴は何ですか？",
+            "answer": "手頃な価格でおいしい麺を味わうことができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 85,
+        "QA": 79
+    }
+}

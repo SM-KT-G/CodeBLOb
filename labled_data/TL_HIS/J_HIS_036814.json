@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_036814",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1213&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=79&ccbaAsno=02760000&ccbaCtcd=35&ccbaCpno=4413502760000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2006-09-19",
+        "domain": "문화/역사관광",
+        "title": "정읍 나용균 생가와 사당"
+    },
+    "text": "井邑羅容均生家と祠堂 (정읍 나용균 생가와 사당)\\n\n全羅北道井邑市永元面164-1番地、166-1\\n\n1890年代、国家登録文化財、1890年代に建設されたこの家屋は日帝強占期に民族独立のために努力し、大韓民国樹立以後、議会政治指導者として国の発展に貢献したナ·ヨンギュン(1895~1984)の生家として歴史的価値が高いところだ。 現在、母屋は主礎石の一部だけが残っており、サランチェ、門間棟、古房が保存されており、生家の近くに祠堂がある。",
+    "QA": [
+        {
+            "question": "この家屋はいつ建設されましたか？",
+            "answer": "1890年代に建設されました。"
+        },
+        {
+            "question": "この家屋は誰の生家ですか？",
+            "answer": "この家屋はナ·ヨンギュンの生家です。"
+        },
+        {
+            "question": "ナ·ヨンギュンは何のために努力しましたか？",
+            "answer": "ナ·ヨンギュンは民族独立のために努力しました。"
+        },
+        {
+            "question": "ナ·ヨンギュンはどのような役割を果たしましたか？",
+            "answer": "ナ·ヨンギュンは議会政治指導者として国の発展に貢献しました。"
+        },
+        {
+            "question": "この家屋の近くには何がありますか？",
+            "answer": "この家屋の近くには祠堂があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 165,
+        "QA": 142
+    }
+}

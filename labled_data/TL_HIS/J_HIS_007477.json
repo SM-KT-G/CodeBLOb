@@ -1,0 +1,55 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_007477",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=247&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=13&ccbaAsno=02450000&ccbaCtcd=37&ccbaCpno=1333702450000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1975-11-20",
+        "domain": "문화/역사관광",
+        "title": "경주 나정"
+    },
+    "text": "慶州羅井 (경주 나정)\\n\n慶尚北道慶州市塔洞700-1番地\\n\n新羅 , 史跡 , 新羅の始祖パク·ヒョクゴセが生まれた伝説を秘めた井戸だ。 新羅が建てられる前の慶州地域一帯は辰韓の土地で、6人の村長が分けて治めていた。 そのうち、古虚村長のソボルドリ公が梁山の麓の井戸端で白い馬一頭がひざまずいて泣いているのを発見し、そこに行ってみると輝く大きな卵が一つあった。 卵の中に男の子が生まれると、空から送ってくれた子だと思ってよく育てた。 ヒョウタンのような形をした卵から生まれたからといって姓をパク(朴)と言い、世の中を明るくするという意味で名前を赫居世と言った。 子供が13歳になった年のB·C57年、王の座に上がって国を建て、ソラボルと名付けた。",
+    "QA": [
+        {
+            "question": "この井戸はどこにありますか？",
+            "answer": "慶尚北道慶州市塔洞700-1番地にあります。"
+        },
+        {
+            "question": "この井戸について何か伝説がありますか？",
+            "answer": "この井戸は新羅の始祖パク·ヒョクゴセが生まれた伝説を秘めています。"
+        },
+        {
+            "question": "この井戸の近くには他に何がありますか？",
+            "answer": "この井戸の近くには新羅の史跡や他の観光スポットがたくさんあります。"
+        },
+        {
+            "question": "この井戸はどのようにして発見されましたか？",
+            "answer": "古虚村長のソボルドリ公が梁山の麓の井戸端で白い馬一頭がひざまずいて泣いているのを発見しました。"
+        },
+        {
+            "question": "この井戸から生まれた子供はどのようにして育てられましたか？",
+            "answer": "ソボルドリ公は卵の中から生まれた男の子を大切に育てました。"
+        },
+        {
+            "question": "この井戸から生まれた子供は何歳の時に王になりましたか？",
+            "answer": "この井戸から生まれた子供は13歳の時に王になりました。"
+        },
+        {
+            "question": "この井戸には何の意味を持つ名前がありますか？",
+            "answer": "この井戸には赫居世という名前があり、世の中を明るくするという意味です。"
+        },
+        {
+            "question": "この井戸から生まれた王の名前は何ですか？",
+            "answer": "この井戸から生まれた王の名前はソラボルです。"
+        }
+    ],
+    "word_Count": {
+        "text": 239,
+        "QA": 307
+    }
+}

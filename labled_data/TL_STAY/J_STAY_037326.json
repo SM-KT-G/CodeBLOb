@@ -1,0 +1,71 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_037326",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://kr.hotels.com/ho2129159840/jeonju-sanjeongdong-hotel-sopung-jeonju-hangug/?chkin=2023-11-14&chkout=2023-11-15&x_pwa=1&rfrr=HSR&pwa_ts=1699025557485&referrerUrl=aHR0cHM6Ly9rci5ob3RlbHMuY29tL0hvdGVsLVNlYXJjaA%3D%3D&useRewards=false&rm1=a2&regionId=6345218&destination=%EC%9D%B5%EC%82%B0%2C+%EC%A0%84%EB%B6%81%2C+%ED%95%9C%EA%B5%AD&destType=MARKET&latLong=35.94865%2C126.9767&sort=RECOMMENDED&top_dp=36364&top_cur=KRW&userIntent=&selectedRoomType=322808055&selectedRatePlan=391840652&expediaPropertyId=66504995&searchId=8ec93ebc-3977-4a70-89df-cfad05be3ff7",
+        "collectedDate": "2023-11-15",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "전주 산정동 호텔 소풍"
+    },
+    "text": "全州山亭洞ホテル・ソプン\\n\n大韓民国 North Jeolla Jeonju 全羅北道全州市徳津区山井3ギル6\\n\n全州山亭洞ホテル・ソプンから車で5分の距離には、全州韓屋村もあります。ここでは、WiFiとセルフパーキングの無料特典をご利用いただけます。ホテルは全34室で構成されており、チェックインは23:00から始まり、チェックアウトは11:00です。COVID-19関連の制限事項が適用されますので、旅行前に必ずご確認ください。チェックイン時には、付帯費用に備えてクレジットカード、デビットカードまたは現金デポジットが必要で、政府発行の身分証明書の写真が必要になる場合があります。チェックインは21歳から可能で、ペットの同伴はできません。 また、客室内では無料WiFiが利用可能で、施設内にセルフパーキングがあります。さらに、指定された喫煙エリアがあります。",
+    "QA": [
+        {
+            "question": "ホテル名は何ですか？",
+            "answer": "全州山亭洞ホテル・ソプンです。"
+        },
+        {
+            "question": "ホテルの場所はどこですか？",
+            "answer": "ホテルは大韓民国、全羅北道全州市徳津区山井3ギル6にあります。"
+        },
+        {
+            "question": "ホテルから全州韓屋村までの距離はどれくらいですか？",
+            "answer": "ホテルから全州韓屋村までは車で5分の距離です。"
+        },
+        {
+            "question": "ホテルのチェックインとチェックアウトの時間は何時ですか？",
+            "answer": "ホテルのチェックインは23:00から始まり、チェックアウトは11:00です。"
+        },
+        {
+            "question": "ホテルで利用できる無料特典は何ですか？",
+            "answer": "ホテルではWiFiとセルフパーキングの無料特典を利用できます。"
+        },
+        {
+            "question": "ホテルの客室数は何室ですか？",
+            "answer": "ホテルは全34室で構成されています。"
+        },
+        {
+            "question": "チェックイン時に必要なものは何ですか？",
+            "answer": "チェックイン時には、クレジットカード、デビットカード、または現金デポジットが必要で、政府発行の身分証明書の写真が必要になる場合があります。"
+        },
+        {
+            "question": "何歳からチェックインできますか？",
+            "answer": "チェックインは21歳から可能です。"
+        },
+        {
+            "question": "ペットを連れて行くことはできますか？",
+            "answer": "ペットの同伴はできません。"
+        },
+        {
+            "question": "ホテル内で利用できるWiFiは無料ですか？",
+            "answer": "はい、ホテル内で利用できるWiFiは無料です。"
+        },
+        {
+            "question": "ホテル内に駐車場はありますか？",
+            "answer": "はい、ホテル内にはセルフパーキングがあります。"
+        },
+        {
+            "question": "喫煙エリアはありますか？",
+            "answer": "はい、ホテルには指定された喫煙エリアがあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 280,
+        "QA": 392
+    }
+}

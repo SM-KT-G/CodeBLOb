@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_001843",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42021&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "부산 콘트호텔"
+    },
+    "text": "HOTEL CONTは空間の現代的解釈とデザインで近代釜山のHeritageが込められた美化で、文化通りで現代と歴史を連結する新しい文化コンテンツサービスを提供します。 自然に地域と商圏を連結し、快適に滞在できる交流の空間を作り出すことで、様々な経験と思い出を作ることができます。 HOTEL CONTで龍頭山公園を抱いた文化の一日を楽しむことができます。",
+    "QA": [
+        {
+            "question": "ホテルCONTはどのようなデザインをしていますか？",
+            "answer": "ホテルCONTは空間の現代的解釈とデザインで近代釜山のHeritageが込められた美化で、文化通りで現代と歴史を連結する新しい文化コンテンツサービスを提供しています。"
+        },
+        {
+            "question": "ホテルCONTはどのような空間を提供していますか？",
+            "answer": "ホテルCONTは自然に地域と商圏を連結し、快適に滞在できる交流の空間を作り出すことで、様々な経験と思い出を作ることができます。"
+        },
+        {
+            "question": "ホテルCONTの周辺にはどのような観光スポットがありますか？",
+            "answer": "ホテルCONTの近くには龍頭山公園があります。龍頭山公園は美しい自然景観を楽しむことができ、文化体験もできる素晴らしい場所です。"
+        },
+        {
+            "question": "ホテルCONTを利用すると、どのような文化の一日を楽しむことができますか？",
+            "answer": "ホテルCONTで龍頭山公園を抱いた文化の一日を楽しむことができます。龍頭山公園で自然散策やピクニックを楽しんだり、近くの文化施設を訪れたりすることができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 130,
+        "QA": 297
+    }
+}

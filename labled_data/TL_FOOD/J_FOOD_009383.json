@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_009383",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-06",
+        "domain": "음식점",
+        "title": "ソンリ黄土バン ( 솜리황토방 )"
+    },
+    "text": "ソンリ黄土バン ( 솜리황토방 )\\n\nソウル特別市 瑞草区 シンバンポロ194\\n\n1人で食事するのにぴったりの店です。おすすめはピリ辛スンドゥブです。ソウル特別市のソチョ区に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "ソウル特別市 瑞草区 シンバンポロ194に位置しています。"
+        },
+        {
+            "question": "この店のおすすめの料理は何ですか？",
+            "answer": "ピリ辛スンドゥブがおすすめです。"
+        },
+        {
+            "question": "この店は一人で食事するのにぴったりですか？",
+            "answer": "はい、一人で食事するのにぴったりの店です。"
+        },
+        {
+            "question": "この店は韓国料理の専門店ですか？",
+            "answer": "はい、韓国料理の専門店です。"
+        }
+    ],
+    "word_Count": {
+        "text": 74,
+        "QA": 107
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_053451",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=843&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=01030000&ccbaCtcd=35&ccbaCpno=2333501030000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1999-11-19",
+        "domain": "문화/역사관광",
+        "title": "구파백정기의사고택지"
+    },
+    "text": "旧波百丁期の事故宅地\\n\n全羅北道井邑市永元面葛仙1ギル17-13(隠善里)\\n\n日帝時代、全羅北道記念物、旧派白貞基(1896∼1934)義士が幼い頃住んでいたところだ。先生は建陽1年(1896)扶安で生まれ、幼くして父親を亡くして1907年、ここに移住して1919年に独立運動のために中国へ亡命するまで12年間生活したという。3・1独立運動に加担した後、独立運動を継続した容疑で逮捕されて日本の長期刑務所で服役していたところ、持病が悪化して、1934年殉国した。1946年、日本で遺骨を送還しての孝昌(ヒョチャン)公園に埋葬し、1963年、建国勲章独立章が授与された。家屋はもともと韓屋楚歌だったが、崩れ、その席に1975年頃に立てたセメントブルロクチョにスレート屋根をした家屋が入っている。前面3間・側面1間の規模の建物に立てた当時の痕跡は見当たらない。",
+    "QA": [
+        {
+            "question": "この事故宅地はどこに位置していますか？",
+            "answer": "この事故宅地は全羅北道井邑市永元面葛仙1ギル17-13(隠善里)に位置しています。"
+        },
+        {
+            "question": "旧派白貞基義士はどのような人物でしたか？",
+            "answer": "旧派白貞基(1896∼1934)義士は日帝時代に生まれ、幼い頃に父親を亡くし、1919年まで12年間ここで生活していました。彼は独立運動にも加担し、逮捕されて長期刑務所で服役し、1934年に殉国しました。"
+        },
+        {
+            "question": "旧波百丁期の事故宅地にはどのような建物がありますか？",
+            "answer": "旧波百丁期の事故宅地には、1975年頃に建てられたセメントブルロクチョにスレート屋根の家屋が入っています。しかし、当時の痕跡は見当たりません。"
+        },
+        {
+            "question": "旧派白貞基義士の遺骨はどこに埋葬されていますか？",
+            "answer": "旧派白貞基義士の遺骨は1946年に日本から送還され、孝昌(ヒョチャン)公園に埋葬されました。彼には1963年に建国勲章独立章が授与されました。"
+        }
+    ],
+    "word_Count": {
+        "text": 278,
+        "QA": 274
+    }
+}

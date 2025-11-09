@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_001060",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2017-02-14",
+        "domain": "문화/역사관광",
+        "title": "O HUI SPA（오휘스파）"
+    },
+    "text": "O HUI SPA\nソウル特別市 江南区 鶴洞路21キル52 （論峴洞）\n韓国だけなくアジアのスターたちにも愛される「O HUI SPA（オフィスパ）」では、最先端のエステ技術とサービスを提供しています。 庭園の鳥のさえずりをききながら癒される、落ち着いた高級感あふれる雰囲気、多様なプレミアムライフスタイルを満喫できる選ばれし空間です。施術前には専門セラピストとのカウンセリングによる1:1オーダーメードケアが行われ、施術後にはコンディションに応じてホームケアサンプルおよび処方せんが提供されるなど、差別化されたサービスを受けることができます。",
+    "QA": [
+        {
+            "question": "O HUI SPAはどこにありますか？",
+            "answer": "O HUI SPAはソウル特別市江南区鶴洞路21キル52にあります。"
+        },
+        {
+            "question": "O HUI SPAの特徴は何ですか？",
+            "answer": "O HUI SPAは最先端のエステ技術とサービスを提供しており、高級感あふれる雰囲気で落ち着いた空間です。"
+        },
+        {
+            "question": "O HUI SPAではどのような施術が受けられますか？",
+            "answer": "O HUI SPAでは1:1オーダーメードケアが行われ、専門セラピストとのカウンセリングを受けることができます。"
+        },
+        {
+            "question": "O HUI SPAの施術後には何が提供されますか？",
+            "answer": "O HUI SPAでは施術後にコンディションに応じてホームケアサンプルおよび処方せんが提供されます。"
+        }
+    ],
+    "word_Count": {
+        "text": 200,
+        "QA": 206
+    }
+}

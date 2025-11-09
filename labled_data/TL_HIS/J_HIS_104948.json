@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_104948",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=42&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=01460000&ccbaCtcd=38&ccbaCpno=1123801460000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1963-01-21",
+        "domain": "문화/역사관광",
+        "title": "창녕 관룡사 약사전"
+    },
+    "text": "朝鮮時代初期、宝物、観龍寺は新羅時代の8大寺院の一つで、寺の歴史に関する明確な記録はありません。文禄·慶長の役の時、薬師殿だけを残し、他の建物はすべて焼失したそうです。薬師殿は朝鮮前期の建物と推定され、建物の中には衆生の病気を治すという薬師如来が祀られています。規模は前面1間·側面1間で、非常に小さな仏堂です。屋根は側面から見て人の字の形をした切妻屋根で、屋根軒を支えるために装飾された簡潔な形は柱の上だけにある柱心包様式です",
+    "QA": [
+        {
+            "question": "観龍寺は何時代に建てられましたか？",
+            "answer": "観龍寺は新羅時代に建てられました。"
+        },
+        {
+            "question": "観龍寺の薬師殿はどのような建物ですか？",
+            "answer": "薬師殿は朝鮮前期の建物で、薬師如来が祀られている小さな仏堂です。"
+        },
+        {
+            "question": "薬師殿の屋根の形はどのような形ですか？",
+            "answer": "薬師殿の屋根は側面から見て人の字の形をした切妻屋根です。"
+        },
+        {
+            "question": "観龍寺の歴史に関する明確な記録はありますか？",
+            "answer": "観龍寺の歴史に関する明確な記録はありません。"
+        },
+        {
+            "question": "文禄·慶長の役の時、観龍寺の建物に何が起こりましたか？",
+            "answer": "文禄·慶長の役の時、観龍寺の建物は薬師殿を除いてすべて焼失しました。"
+        }
+    ],
+    "word_Count": {
+        "text": 156,
+        "QA": 173
+    }
+}

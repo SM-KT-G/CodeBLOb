@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_022590",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "瑞源（서원）"
+    },
+    "text": "瑞源（서원）\\n\nソウル特別市 中区 退渓路 141\\n\nソウル特別市のミョン洞に位置した韓食です。朝食に適したお店です。代表的なメニューは特大アワビ粥です。",
+    "QA": [
+        {
+            "question": "このお店はどこにありますか？",
+            "answer": "瑞源（서원）はソウル特別市の中区退渓路141に位置しています。"
+        },
+        {
+            "question": "このお店の料理は何ですか？",
+            "answer": "このお店は韓食を提供しています。代表的なメニューは特大アワビ粥です。"
+        },
+        {
+            "question": "このお店は朝食に適していますか？",
+            "answer": "はい、このお店は朝食に適しているお店です。"
+        }
+    ],
+    "word_Count": {
+        "text": 57,
+        "QA": 94
+    }
+}

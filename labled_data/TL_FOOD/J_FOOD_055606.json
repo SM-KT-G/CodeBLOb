@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_055606",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "ムジンジャン牛テールのコムタン ( 무진장꼬리곰탕 )"
+    },
+    "text": "ムジンジャン牛テールのコムタン ( 무진장꼬리곰탕 )\\n\n全羅南道 モクポ市 ビパロ7\\n\n30年以上の歴史のあるコムタン専門店です。代表的なメニューは牛の尾スープ です。全羅南道のモクポ市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "コムタン専門店の名前は何ですか？",
+            "answer": "ムジンジャン牛テールのコムタン"
+        },
+        {
+            "question": "どこの地域に位置していますか？",
+            "answer": "全羅南道のモクポ市に位置しています。"
+        },
+        {
+            "question": "コムタン専門店の代表的なメニューは何ですか？",
+            "answer": "牛の尾スープです。"
+        },
+        {
+            "question": "コムタン専門店の歴史は何年以上ですか？",
+            "answer": "30年以上の歴史があります。"
+        },
+        {
+            "question": "コムタン専門店の住所はどこですか？",
+            "answer": "全羅南道モクポ市ビパロ7"
+        }
+    ],
+    "word_Count": {
+        "text": 79,
+        "QA": 115
+    }
+}

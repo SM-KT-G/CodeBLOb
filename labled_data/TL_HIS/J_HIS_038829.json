@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_038829",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=105&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=08510000&ccbaCtcd=11&ccbaCpno=1121108510000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1985-08-09",
+        "domain": "문화/역사관광",
+        "title": "창경궁 관천대"
+    },
+    "text": "昌慶宮観天台 (창경궁 관천대)\\n\nソウル特別市鍾路区昌慶宮路185(臥龍洞、昌慶宮)\\n\n朝鮮時代、宝物、ソウルには現在、朝鮮時代に作られた2つの観天台がある。 一つは昌慶宮の中にあるもので、もう一つは製作年代が知られていないが、旧北部観相監の場所である前徽文高等学校の校地にあるものだが、二つの観天台は構造や大きさ、製作方法がほとんど同じだ。 昌慶宮の中にあるこの天文観測所は『瑞雲観志』によると、朝鮮粛宗14年(1688)に作られた。 高さ3m、横2.9m、縦2.3m程度の花崗岩の石台の上に朝鮮時代の基本的な天体観測機器の一つである簡儀を設置し、天体の位置を観測したという。 今は簡儀はなく石台だけが残っているが、当時は観測所を所幹医大、または瞻星台とも呼んだ。 観相監の官員たちはこの観測台で空で起きるすべての現象を絶えず観測した。 17世紀の天文観測通りとしては比較的完全な姿で残っているという点で貴重であり、観相感に建てられた朝鮮初期のもう一つの観天台とともに朝鮮時代の天文台様式を表す代表的な遺物だ。",
+    "QA": [
+        {
+            "question": "この観天台はどこにありますか？",
+            "answer": "ソウル特別市鍾路区昌慶宮路185(臥龍洞、昌慶宮)にあります。"
+        },
+        {
+            "question": "この観天台はいつ作られましたか？",
+            "answer": "この観天台は朝鮮粛宗14年(1688)に作られました。"
+        },
+        {
+            "question": "この観天台はどのような構造ですか？",
+            "answer": "この観天台は高さ3m、横2.9m、縦2.3m程度の花崗岩の石台の上に朝鮮時代の基本的な天体観測機器の一つである簡儀を設置したものです。"
+        },
+        {
+            "question": "この観天台は何のために使用されましたか？",
+            "answer": "この観天台は天体の位置を観測するために使用されました。"
+        },
+        {
+            "question": "この観天台はどのような名前で呼ばれていましたか？",
+            "answer": "この観天台は観相監の官員たちによって所幹医大や瞻星台と呼ばれていました。"
+        }
+    ],
+    "word_Count": {
+        "text": 336,
+        "QA": 205
+    }
+}

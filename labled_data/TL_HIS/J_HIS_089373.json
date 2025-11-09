@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_089373",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/collectionList#######",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2023-10-11",
+        "domain": "문화/역사관광",
+        "title": "양이부완 유개양이부완"
+    },
+    "text": "猫用ブワン ユゲ猫用ブワン (양이부완 유개양이부완)\\n\n韓国と日本による植民地支配の時代における現国立中央博物館所蔵（羽衣犬除外）は、ガラスや宝石を材料にしたメディアであるフィルムを扱っています。そのフィルムは、横16.4cm、縦11.9cmの大きさです。",
+    "QA": [
+        {
+            "question": "このフィルムのサイズは何ですか？",
+            "answer": "横16.4cm、縦11.9cmの大きさです。"
+        },
+        {
+            "question": "このフィルムは何の材料で作られていますか？",
+            "answer": "ガラスや宝石を材料にしたメディアで作られています。"
+        },
+        {
+            "question": "このフィルムはどの時代のものですか？",
+            "answer": "韓国と日本による植民地支配の時代におけるものです。"
+        },
+        {
+            "question": "このフィルムはどこに所蔵されていますか？",
+            "answer": "現国立中央博物館に所蔵されています。"
+        },
+        {
+            "question": "このフィルムの用途は何ですか？",
+            "answer": "犬を除外して、その他の用途はガイドすることです。"
+        }
+    ],
+    "word_Count": {
+        "text": 95,
+        "QA": 149
+    }
+}

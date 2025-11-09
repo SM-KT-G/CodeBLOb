@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001897",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/mobssie",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "MOBSSIE"
+    },
+    "text": "MOBSSIE\\n\nソウル特別市 麻浦区 臥牛山路27キル34\\n\n「MOBSSIE（モプシ）」は、弘大で人気のデザートカフェです。1号店はチョコレートケーキ、2号店はチーズケーキを主に販売しています。特に20代の女性に人気が高いのは1号店で、注文してから焼いてくれる焼きたてチョコレートケーキが人気です。",
+    "QA": [
+        {
+            "question": "MOBSSIE（モプシ）はどこにありますか？",
+            "answer": "MOBSSIE（モプシ）はソウル特別市 麻浦区 臥牛山路27キル34にあります。"
+        },
+        {
+            "question": "MOBSSIE（モプシ）の1号店と2号店ではどんなケーキが販売されていますか？",
+            "answer": "1号店では注文してから焼いてくれる焼きたてチョコレートケーキが主に販売されています。2号店ではチーズケーキが主に販売されています。"
+        },
+        {
+            "question": "MOBSSIE（モプシ）のケーキは特に誰に人気がありますか？",
+            "answer": "MOBSSIE（モプシ）の焼きたてチョコレートケーキは特に20代の女性に人気が高いです。"
+        }
+    ],
+    "word_Count": {
+        "text": 112,
+        "QA": 176
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_011212",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=103&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=08280000&ccbaCtcd=35&ccbaCpno=1123508280000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1985-01-08",
+        "domain": "문화/역사관광",
+        "title": "김제 금산사 석등"
+    },
+    "text": "金堤金山寺石灯籠 (김제 금산사 석등)\\n\n全羅北道金堤市錦山面モアク15ギル1、錦山寺(クムサンリ)\\n\n高麗時代 , 宝物 , 金堤金山寺大蔵殿の前庭に置かれている八角石灯籠で、火を灯す部分である火舍石を中心にその下に下支え石、中柱、上支え石で3段を積み、上には屋根石と頭飾りを載せているが、頂上の頭飾りまで全て残っている。 下支え石は丸い平面の上に8枚の蓮の葉を刻み、その上に建てられた中柱は上は狭く下が広い形だ。 上台石は下台石より大きくて重いが、やはり丸い平面の上に8枚の蓮の花びらを彫刻した。 火砂石は4面に窓を作って光が広がるようにした。 窓の周りには穴が3つずつ開いているが、窓を取り付けるための穴だったようだ。 屋根石は8つの角に小さな花で飾られている。 全体的に単純さの美しさを見せているが、屋根石の花彫刻や石灯籠各部分の彫刻手法などから考えて高麗時代の作品と推察される。",
+    "QA": [
+        {
+            "question": "この石灯籠はどの時代に作られましたか？",
+            "answer": "この石灯籠は高麗時代に作られました。"
+        },
+        {
+            "question": "石灯籠の構造には何段ありますか？",
+            "answer": "石灯籠の構造には3段あります。"
+        },
+        {
+            "question": "石灯籠の下支え石には何が彫刻されていますか？",
+            "answer": "石灯籠の下支え石には蓮の葉が彫刻されています。"
+        },
+        {
+            "question": "屋根石には何が飾られていますか？",
+            "answer": "屋根石には小さな花が飾られています。"
+        },
+        {
+            "question": "この石灯籠はどの寺に置かれていますか？",
+            "answer": "この石灯籠は金堤金山寺に置かれています。"
+        }
+    ],
+    "word_Count": {
+        "text": 291,
+        "QA": 136
+    }
+}

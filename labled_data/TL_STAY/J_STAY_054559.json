@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_054559",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42020&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "사천 CG"
+    },
+    "text": "基本的に人数は2名であり、追加で人数を受け取る場合は現場で追加料金を支払う必要があります。 客室はチェックイン時に割り当てられ、実際の客室は上記の画像と異なる場合があります。 また、オンシーズンや特定の日、祝日には料金が変動する場合があります。",
+    "QA": [
+        {
+            "question": "このホテルの客室の最大収容人数は何名ですか？",
+            "answer": "基本的に人数は2名であり、追加で人数を受け取る場合は現場で追加料金を支払う必要があります。"
+        },
+        {
+            "question": "チェックイン時に割り当てられる客室はどのように決まるのですか？",
+            "answer": "チェックイン時に割り当てられる客室は、予約状況や利用可能な客室によって決まります。実際の客室は上記の画像と異なる場合があります。"
+        },
+        {
+            "question": "オンシーズンや特定の日、祝日には料金が変動するのですか？",
+            "answer": "はい、オンシーズンや特定の日、祝日には料金が変動する場合があります。ご了承ください。"
+        }
+    ],
+    "word_Count": {
+        "text": 89,
+        "QA": 170
+    }
+}

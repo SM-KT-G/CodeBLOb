@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_088864",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=498&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=01640000&ccbaCtcd=11&ccbaCpno=2111101640000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2002-12-26",
+        "domain": "문화/역사관광",
+        "title": "앙부일구"
+    },
+    "text": "朝鮮時代の代表的な日時計である仰釜日区は、ソウル特別市有形文化財に登録されています。 この日時計は朝鮮世宗の時に初めて作られ、様々な形で製作されました。 ソウル歴史博物館に所蔵されている仰釜日丘は、横3.1cm×縦7.2cm×高さ3.8cmの玉石に小型羅針盤を取り付け、携帯用として使用できるように作られています。 日時計面の直径は3cm、羅針盤の直径は1.9cmです。 羅針盤の周りには24向が表示されています。 日時計盤の下段には「北極高三十七度三十九分十五秒」と刻まれていますが、これはこの日時計がソウルの緯度を標準としていることを示しています。 日時計盤の内部には寅·卯·辰·巳·未·申·酉·戌などの時間と時刻線が刻まれています。 これにより、午前 3 時から夕方 9 時の間の時間を測定できることがわかります。 日時計の側面両側には太陽が最も強く、最も弱い時期である夏至と冬至までの節気が表示されており、底面には製作年代と製作者の姓名が刻まれています。 この仰釜一球は、時盤の目盛りが正確で、韓国の日時計製作技術の優秀性を示す科学遺物です。 また工芸品としての美しさも目立ち、製作者と製作年代も明確に分かります。",
+    "QA": [
+        {
+            "question": "仰釜日区は何時代の代表的な日時計ですか？",
+            "answer": "朝鮮時代の代表的な日時計であります。"
+        },
+        {
+            "question": "仰釜日区はどのような玉石に小型羅針盤を取り付け、携帯用として使用できるように作られていますか？",
+            "answer": "横3.1cm×縦7.2cm×高さ3.8cmの玉石に小型羅針盤を取り付け、携帯用として使用できるように作られています。"
+        },
+        {
+            "question": "日時計盤の下段には何が刻まれていますか？",
+            "answer": "日時計盤の下段には「北極高三十七度三十九分十五秒」と刻まれています。"
+        },
+        {
+            "question": "仰釜一球は何を示す科学遺物ですか？",
+            "answer": "仰釜一球は、時盤の目盛りが正確で、韓国の日時計製作技術の優秀性を示す科学遺物です。"
+        },
+        {
+            "question": "仰釜一球の底面には何が刻まれていますか？",
+            "answer": "底面には製作年代と製作者の姓名が刻まれています。"
+        }
+    ],
+    "word_Count": {
+        "text": 374,
+        "QA": 219
+    }
+}

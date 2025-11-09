@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_010916",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-10",
+        "domain": "음식점",
+        "title": "ドンガンどじょうスープソガンチゲ( 동강추어탕서강짜글이 )"
+    },
+    "text": "ドンガンどじょうスープソガンチゲ\\n\n京畿道 ピョンテク市 ウォンピョンロ39ボンギル27\\n\n様々な韓国料理が味わえる店です。代表的なメニューはチゲです。京畿道のピョンテク市に位置した韓国料理店です。",
+    "QA": [
+        {
+            "question": "このレストランの場所はどこですか？",
+            "answer": "ウォンピョンロ39ボンギル27、京畿道のピョンテク市に位置しています。"
+        },
+        {
+            "question": "このレストランでは何が食べられますか？",
+            "answer": "様々な韓国料理が味わえますが、特に代表的なメニューはチゲです。"
+        },
+        {
+            "question": "このレストランの特徴は何ですか？",
+            "answer": "韓国料理の様々な種類を楽しむことができるレストランです。"
+        }
+    ],
+    "word_Count": {
+        "text": 74,
+        "QA": 107
+    }
+}

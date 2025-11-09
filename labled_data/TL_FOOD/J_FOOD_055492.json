@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_055492",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "ハムチョカンジャンケジャン（함초간장게장）"
+    },
+    "text": "ハムチョカンジャンケジャン（함초간장게장）\\n\nソウル特別市 中区 明洞8カキル 27\\n\nソウル特別市のミョン洞に位置した韓食です。代表的なメニューはカンジャンジョンボク(アワビの醤油漬け)です。薬味と醤油とカニを一緒に熟成させました。",
+    "QA": [
+        {
+            "question": "ハムチョカンジャンケジャンはどこにありますか？",
+            "answer": "ハムチョカンジャンケジャンはソウル特別市の中区明洞8カキル27にあります。"
+        },
+        {
+            "question": "ハムチョカンジャンケジャンの代表的なメニューは何ですか？",
+            "answer": "ハムチョカンジャンケジャンの代表的なメニューはカンジャンジョンボク（アワビの醤油漬け）です。"
+        },
+        {
+            "question": "カンジャンジョンボクとはどのような料理ですか？",
+            "answer": "カンジャンジョンボクは薬味と醤油とカニを一緒に熟成させたアワビの醤油漬けです。"
+        }
+    ],
+    "word_Count": {
+        "text": 87,
+        "QA": 143
+    }
+}

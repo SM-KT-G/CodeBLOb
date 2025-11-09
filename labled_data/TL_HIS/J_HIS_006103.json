@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_006103",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=927&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=24&ccbaAsno=00300000&ccbaCtcd=11&ccbaCpno=2441100300000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1999-07-10",
+        "domain": "문화/역사관광",
+        "title": "가회동 김형태 가옥"
+    },
+    "text": "嘉会洞キム·ヒョンテ家屋 (가회동 김형태 가옥)\\n\nソウル鍾路区北村路67-4(嘉会洞)\\n\n19世紀末~20世紀初め , ソウル特別市民俗文化財 , キム·ヒョンテ家屋は母屋(「ㄷ」字、門間棟を含む)、サランチェ(「ㄹ」字)で構成されているが、サランチェとアンチェがいずれもグルドリ五梁家で、19世紀末のソウルの金持ちの家(士大夫家ではない)の住宅様式を典型的に示している。",
+    "QA": [
+        {
+            "question": "キム·ヒョンテ家屋はどのような時代の建物ですか？",
+            "answer": "キム·ヒョンテ家屋は19世紀末から20世紀初めの建物です。"
+        },
+        {
+            "question": "キム·ヒョンテ家屋はどの区に位置していますか？",
+            "answer": "キム·ヒョンテ家屋はソウル鍾路区に位置しています。"
+        },
+        {
+            "question": "キム·ヒョンテ家屋はどのような構成になっていますか？",
+            "answer": "キム·ヒョンテ家屋は母屋とサランチェで構成されています。"
+        },
+        {
+            "question": "キム·ヒョンテ家屋はどのような住宅様式を示していますか？",
+            "answer": "キム·ヒョンテ家屋は19世紀末のソウルの金持ちの家の住宅様式を典型的に示しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 139,
+        "QA": 165
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_002089",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2020-07-15",
+        "domain": "숙박",
+        "title": "SONO Belle辺山（旧 大明リゾート辺山）（소노벨 변산（구 대명리조트 변산）"
+    },
+    "text": "SONO Belle辺山（旧 大明リゾート辺山）（소노벨 변산（구 대명리조트 변산）\n全羅北道 扶安郡 辺山面 辺山海岸路51\n「SONO Belle辺山（ソノベルピョンサン）」は格浦ターミナルから車で5分のところにあります。格浦海水浴場がすぐ前にあり、彩石江までは約500メートル、来蘇寺は車で30分、コムソ塩田は車で35分です。客室はスタイリッシュで、冷蔵庫、ミニバー、薄型テレビを完備しています。",
+    "QA": [
+        {
+            "question": "SONO Belle辺山はどこにありますか？",
+            "answer": "SONO Belle辺山は全羅北道扶安郡辺山面辺山海岸路51に位置しています。"
+        },
+        {
+            "question": "SONO Belle辺山周辺にはどのような観光地がありますか？",
+            "answer": "SONO Belle辺山周辺には格浦海水浴場、彩石江、来蘇寺、コムソ塩田などがあります。"
+        },
+        {
+            "question": "SONO Belle辺山の客室にはどのような設備がありますか？",
+            "answer": "SONO Belle辺山の客室には冷蔵庫、ミニバー、薄型テレビなどの設備が完備されています。"
+        },
+        {
+            "question": "格浦ターミナルからSONO Belle辺山までの所要時間はどれくらいですか？",
+            "answer": "格浦ターミナルからSONO Belle辺山まで車で約5分です。"
+        }
+    ],
+    "word_Count": {
+        "text": 148,
+        "QA": 206
+    }
+}

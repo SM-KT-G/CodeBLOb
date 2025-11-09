@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_008657",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=29&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=11&ccbaAsno=03290000&ccbaCtcd=11&ccbaCpno=1111103290000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2020-02-27",
+        "domain": "문화/역사관광",
+        "title": "공주 충청감영 측우기"
+    },
+    "text": "公州忠清監営測雨器 (공주 충청감영 측우기)\\n\nソウル特別市鍾路区松月キル52(松月洞、国立気象博物館)\\n\n朝鮮時代 , 国宝 , 国宝「公州忠清監営測雨器」は1837年(憲宗3)に製作されたもので、測雨台はなく測雨器だけが伝えられている。 朝鮮時代忠南地域の監督官庁だった公州監営に設置されたもので、1915年頃、日本人気象学者和田雄治が国外に搬出した後、1971年に日本から還収され気象庁が保管してきている。 朝鮮時代には中央政府で測雨器を製作し全国の監営に送ったために色々な点が作られたと予想されるが、今まで「公州忠清監営測雨器」だけが唯一知られている。 1442年(世宗24)に発明された測雨器は西洋より約200年前に発明された世界初の科学的降雨測定器である。 朝鮮の測雨器は地に染み込んだ水の深さを測定していた以前の非合理的な降雨測定方式から抜け出し、本格的に降水量を定量的に測定可能にした発明品という点で世界科学史的な意味が非常に大きい。",
+    "QA": [
+        {
+            "question": "公州忠清監営測雨器はいつ製作されましたか？",
+            "answer": "公州忠清監営測雨器は1837年(憲宗3)に製作されました。"
+        },
+        {
+            "question": "公州忠清監営測雨器はどこに設置されていましたか？",
+            "answer": "公州忠清監営測雨器は忠南地域の監督官庁だった公州監営に設置されていました。"
+        },
+        {
+            "question": "測雨器はどのようなものでしたか？",
+            "answer": "測雨器は測雨台はなく、測雨器だけが伝えられていました。"
+        },
+        {
+            "question": "公州忠清監営測雨器はどのようにして現在の場所に保管されていますか？",
+            "answer": "1915年頃、日本人気象学者和田雄治が国外に搬出し、その後1971年に日本から還収され気象庁が保管しています。"
+        },
+        {
+            "question": "朝鮮の測雨器はどのような特徴がありますか？",
+            "answer": "朝鮮の測雨器は地に染み込んだ水の深さを測定していた以前の非合理的な降雨測定方式から抜け出し、本格的に降水量を定量的に測定可能にした発明品です。"
+        }
+    ],
+    "word_Count": {
+        "text": 313,
+        "QA": 244
+    }
+}

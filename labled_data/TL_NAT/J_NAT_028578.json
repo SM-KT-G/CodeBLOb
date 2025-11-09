@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_028578",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=798&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=00370000&ccbaCtcd=38&ccbaCpno=2333800370000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1977-12-28",
+        "domain": "자연관광",
+        "title": "고성 학림리 지석묘"
+    },
+    "text": "慶尚南道記念物である支石墓は、先史時代の石墓である支石墓を意味します。しかし、最初は8基がいたが、現在は6基のみがまだ残っています。支石墓は、学林里村の前の西の方の野原の入口に位置して住民たちはこれを'七星(チルソン)岩'と呼び、保護の垣根を置いて管理しています。覆い石は、台座の上に掲載された大きな石を意味し、学林里支石墓の覆い石は約30cmで60cm大きさを持っています。その中で一番大きい2基の覆い石は約340cm×260cm×20cmの大きさを持ちます。1968年に土地を開墾する過程で支石墓周辺でドルノル墓とドルトゥコン芽墓が確認され、内部では短剣と赤色磨研土器など様々な出土物が確認されました。学林里は海岸地域に位置してこの地の青銅器時代文化研究にも重要な資料として活用されています。",
+    "QA": [
+        {
+            "question": "支石墓は何を意味しますか？",
+            "answer": "支石墓は先史時代の石墓を意味します。"
+        },
+        {
+            "question": "支石墓は何基があり、現在は何基が残っていますか？",
+            "answer": "最初は8基ありましたが、現在は6基のみが残っています。"
+        },
+        {
+            "question": "支石墓の覆い石の大きさはどのくらいですか？",
+            "answer": "覆い石の大きさは約30cm×60cmで、最も大きい2基は約340cm×260cm×20cmの大きさを持っています。"
+        },
+        {
+            "question": "学林里周辺で何が発見されましたか？",
+            "answer": "学林里周辺でドルノル墓とドルトゥコン芽墓が確認され、内部では短剣と赤色磨研土器など様々な出土物が確認されました。"
+        },
+        {
+            "question": "学林里はどのような文化研究に重要な資料として活用されていますか？",
+            "answer": "学林里は海岸地域に位置してこの地の青銅器時代文化研究にも重要な資料として活用されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 255,
+        "QA": 227
+    }
+}

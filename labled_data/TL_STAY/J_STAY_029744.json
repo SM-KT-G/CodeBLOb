@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_029744",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42090&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "서귀포 레지나펜션"
+    },
+    "text": "レジナペンションは済州に位置するマイホームのようなところです。 中文観光団地と西帰浦市内の間に位置し、交通の中心地にあります。 スローガンである「Home away from Home」のように、 すべての方々に楽な場所を提供したいです。 心を込めて努力しています。",
+    "QA": [
+        {
+            "question": "レジナペンションはどこに位置していますか？",
+            "answer": "レジナペンションは済州に位置しています。中文観光団地と西帰浦市内の間にあります。"
+        },
+        {
+            "question": "レジナペンションのスローガンは何ですか？",
+            "answer": "レジナペンションのスローガンは「Home away from Home」です。"
+        },
+        {
+            "question": "レジナペンションはどんな場所を提供していますか？",
+            "answer": "レジナペンションはすべての方々に楽な場所を提供したいと心を込めて努力しています。"
+        },
+        {
+            "question": "レジナペンションは交通の中心地に位置していますか？",
+            "answer": "はい、レジナペンションは交通の中心地に位置しています。"
+        },
+        {
+            "question": "レジナペンションはマイホームのようなところですか？",
+            "answer": "はい、レジナペンションはマイホームのようなところです。"
+        }
+    ],
+    "word_Count": {
+        "text": 97,
+        "QA": 211
+    }
+}

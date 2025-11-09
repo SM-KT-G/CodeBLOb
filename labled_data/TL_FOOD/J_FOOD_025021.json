@@ -1,0 +1,135 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_025021",
+        "source": "도서",
+        "writer": "김나성, 유지연",
+        "ISBN_ISNN": "979-11-6050-370-8",
+        "version": "초판",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "나홀로 푸드트립",
+        "collectedDate": "2023-11-01",
+        "publishedDate": "2017-12-12",
+        "domain": "음식점",
+        "title": "유유유유"
+    },
+    "text": "蔚山広域市北区東海岸路1414に位置するuu車は駐車場をご利用ください。 駐車場はカフェの前とヒドゥンビルのプールビラの隣に位置しており、江東交差点から主戦方向に徒歩5分の距離にあります。 このカフェでは様々なメニューが楽しめます。 Filter Coffeeは変動価格であり、Cakeは12,000ウォン、Cookie Ballは6,500ウォン、Panna Cottaは6,000ウォンFinancier(Plain)は6,000ウォン、Financier(B&O)は6,000ウォン、Madeleninesは6,000ウォン、Cookie Chouは6,000ウォン、Lemongrass Adeは7,500ウォン、Ginger Adeは7,500ウォン、Passion Fruit Adeは7,500ウォン、Basil Adeは7,500ウォン、Spiced Milkは7,000ウォン、Lemongrass Teaは7,000ウォン、Ginger Teaは7,000ウォン、Valrhona Chocolateは7,000ウォン、Chamomileは6,500ウォン、Rooibos Supremeは6,500ウォン、Breakfastは6,500ウォン、Vanilla Bean Latteは6,800ウォン、Latteは6,500ウォン、Affogatoは6,500ウォン、Long Blackは6,000ウォン、Espressoは6,000ウォンです。",
+    "QA": [
+        {
+            "question": "uu車はどこに位置していますか？",
+            "answer": "蔚山広域市北区東海岸路1414に位置しています。"
+        },
+        {
+            "question": "uu車の駐車場はどこにありますか？",
+            "answer": "カフェの前とヒドゥンビルのプールビラの隣に位置しています。"
+        },
+        {
+            "question": "uu車の駐車場へのアクセス方法はどうすれば良いですか？",
+            "answer": "江東交差点から主戦方向に徒歩5分の距離にあります。"
+        },
+        {
+            "question": "uu車のカフェではどんなメニューが楽しめますか？",
+            "answer": "Filter Coffee、Cake、Cookie Ball、Panna Cotta、Financier(Plain)、Financier(B&O)、Madelenines、Cookie Chou、Lemongrass Ade、Ginger Ade、Passion Fruit Ade、Basil Ade、Spiced Milk、Lemongrass Tea、Ginger Tea、Valrhona Chocolate、Chamomile、Rooibos Supreme、Breakfast、Vanilla Bean Latte、Latte、Affogato、Long Black、Espressoが楽しめます。"
+        },
+        {
+            "question": "Filter Coffeeの価格はどのように変動しますか？",
+            "answer": "変動価格です。"
+        },
+        {
+            "question": "Cakeの価格はいくらですか？",
+            "answer": "12,000ウォンです。"
+        },
+        {
+            "question": "Cookie Ballの価格はいくらですか？",
+            "answer": "6,500ウォンです。"
+        },
+        {
+            "question": "Panna Cottaの価格はいくらですか？",
+            "answer": "6,000ウォンです。"
+        },
+        {
+            "question": "Financier(Plain)の価格はいくらですか？",
+            "answer": "6,000ウォンです。"
+        },
+        {
+            "question": "Financier(B&O)の価格はいくらですか？",
+            "answer": "6,000ウォンです。"
+        },
+        {
+            "question": "Madeleninesの価格はいくらですか？",
+            "answer": "6,000ウォンです。"
+        },
+        {
+            "question": "Cookie Chouの価格はいくらですか？",
+            "answer": "6,000ウォンです。"
+        },
+        {
+            "question": "Lemongrass Adeの価格はいくらですか？",
+            "answer": "7,500ウォンです。"
+        },
+        {
+            "question": "Ginger Adeの価格はいくらですか？",
+            "answer": "7,500ウォンです。"
+        },
+        {
+            "question": "Passion Fruit Adeの価格はいくらですか？",
+            "answer": "7,500ウォンです。"
+        },
+        {
+            "question": "Basil Adeの価格はいくらですか？",
+            "answer": "7,500ウォンです。"
+        },
+        {
+            "question": "Spiced Milkの価格はいくらですか？",
+            "answer": "7,000ウォンです。"
+        },
+        {
+            "question": "Lemongrass Teaの価格はいくらですか？",
+            "answer": "7,000ウォンです。"
+        },
+        {
+            "question": "Ginger Teaの価格はいくらですか？",
+            "answer": "7,000ウォンです。"
+        },
+        {
+            "question": "Valrhona Chocolateの価格はいくらですか？",
+            "answer": "7,000ウォンです。"
+        },
+        {
+            "question": "Chamomileの価格はいくらですか？",
+            "answer": "6,500ウォンです。"
+        },
+        {
+            "question": "Rooibos Supremeの価格はいくらですか？",
+            "answer": "6,500ウォンです。"
+        },
+        {
+            "question": "Breakfastの価格はいくらですか？",
+            "answer": "6,500ウォンです。"
+        },
+        {
+            "question": "Vanilla Bean Latteの価格はいくらですか？",
+            "answer": "6,800ウォンです。"
+        },
+        {
+            "question": "Latteの価格はいくらですか？",
+            "answer": "6,500ウォンです。"
+        },
+        {
+            "question": "Affogatoの価格はいくらですか？",
+            "answer": "6,500ウォンです。"
+        },
+        {
+            "question": "Long Blackの価格はいくらですか？",
+            "answer": "6,000ウォンです。"
+        },
+        {
+            "question": "Espressoの価格はいくらですか？",
+            "answer": "6,000ウォンです。"
+        }
+    ],
+    "word_Count": {
+        "text": 464,
+        "QA": 934
+    }
+}

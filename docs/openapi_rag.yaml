@@ -1,0 +1,176 @@
+openapi: 3.0.1
+info:
+  title: FastAPI RAG Backend API
+  description: OpenAPI/Swagger specification for the RAG backend used by the Node.js frontend. Includes query expansion and parent context options.
+  version: '0.1.0'
+servers:
+  - url: http://localhost:8000
+paths:
+  /health:
+    get:
+      summary: Health check
+      description: Returns service health and basic checks.
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/HealthCheckResponse'
+  /rag/query:
+    post:
+      summary: RAG Query (Retrieval + optional expansion)
+      description: |
+        Perform a retrieval-augmented query. Options:
+        - `expansion`: run multiple query variants and merge results
+        - `parent_context`: include parent document summary in returned content
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/RAGQueryRequest'
+            examples:
+              basic:
+                summary: Basic stay query with expansion
+                value:
+                  question: "温泉旅館のおすすめはありますか"
+                  top_k: 3
+                  domain: "stay"
+                  area: "부산"
+                  expansion: true
+                  expansion_variations: ["温泉 おすすめ", "温泉 露天風呂"]
+                  parent_context: true
+      responses:
+        '200':
+          description: Successful RAG response
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/RAGQueryResponse'
+              examples:
+                example-1:
+                  summary: Top-document snippet + sources
+                  value:
+                    answer: "親ドキュメント要約:\n..."
+                    sources: ["J_STAY_000123", "J_STAY_000456"]
+                    latency: 0.78
+                    metadata:
+                      retrieved_count: 2
+        '400':
+          description: Bad request (validation error)
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ErrorResponse'
+              examples:
+                missing_question:
+                  value:
+                    error: "Bad Request"
+                    detail: "question: field required"
+                    timestamp: "2025-11-08T15:00:00Z"
+        '500':
+          description: Internal server error
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ErrorResponse'
+components:
+  schemas:
+    DomainEnum:
+      type: string
+      enum:
+        - food
+        - stay
+        - nat
+        - his
+        - shop
+        - lei
+    RAGQueryRequest:
+      type: object
+      required:
+        - question
+      properties:
+        question:
+          type: string
+          description: User question in Japanese
+          minLength: 2
+          maxLength: 500
+        top_k:
+          type: integer
+          description: Number of documents to retrieve
+          default: 5
+          minimum: 1
+          maximum: 10
+        domain:
+          $ref: '#/components/schemas/DomainEnum'
+        area:
+          type: string
+          description: Region filter (e.g., 서울, 부산)
+          nullable: true
+        expansion:
+          type: boolean
+          description: Enable Query Expansion (run multiple variants)
+          default: false
+        expansion_variations:
+          type: array
+          items:
+            type: string
+          description: Optional user-provided query variants
+        parent_context:
+          type: boolean
+          description: Include parent document summary in results
+          default: true
+    RAGQueryResponse:
+      type: object
+      required:
+        - answer
+        - sources
+        - latency
+      properties:
+        answer:
+          type: string
+          description: Generated answer or top document snippet
+        sources:
+          type: array
+          items:
+            type: string
+          description: document_id list of retrieved documents
+        latency:
+          type: number
+          format: float
+          description: Response time in seconds
+        metadata:
+          type: object
+          additionalProperties: true
+          description: Optional metadata (e.g., model, retrieved_count)
+    HealthCheckResponse:
+      type: object
+      properties:
+        status:
+          type: string
+          description: service status
+        timestamp:
+          type: string
+        version:
+          type: string
+        checks:
+          type: object
+          additionalProperties:
+            type: string
+    ErrorResponse:
+      type: object
+      required:
+        - error
+        - timestamp
+      properties:
+        error:
+          type: string
+        detail:
+          type: string
+          nullable: true
+        timestamp:
+          type: string
+tags:
+  - name: RAG
+    description: Retrieval-augmented generation endpoints

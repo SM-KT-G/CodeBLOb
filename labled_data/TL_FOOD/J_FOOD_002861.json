@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_002861",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2020-12-04",
+        "domain": "음식점",
+        "title": "イットラーメン( 잇또라멘 평택고덕 )"
+    },
+    "text": "イットラーメン( 잇또라멘 평택고덕 )\\n\n京畿道 平沢市 京畿大路 987\\n\n様々な種類のラーメンが味わえる店です。 京畿道のピョンテク市に位置したラーメン専門店です。おすすめは豚骨ラーメンです。",
+    "QA": [
+        {
+            "question": "イットラーメンはどこに位置していますか？",
+            "answer": "イットラーメンは京畿道 平沢市 京畿大路 987に位置しています。"
+        },
+        {
+            "question": "イットラーメンではどんな種類のラーメンが味わえますか？",
+            "answer": "イットラーメンでは様々な種類のラーメンが味わえます。"
+        },
+        {
+            "question": "イットラーメンのおすすめは何ですか？",
+            "answer": "イットラーメンのおすすめは豚骨ラーメンです。"
+        }
+    ],
+    "word_Count": {
+        "text": 74,
+        "QA": 107
+    }
+}

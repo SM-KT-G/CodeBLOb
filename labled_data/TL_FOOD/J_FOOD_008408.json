@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_008408",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "セルフジプバプサラン ( 셀프집밥사랑 )"
+    },
+    "text": "セルフジプバプサラン ( 셀프집밥사랑 )\n慶尚北道 安東市 豊川面 千年スプ東路 46\n韓国風の様々なおかずが一度に味わえる店です。慶尚北道のアンドン市に位置した韓食専門店です。代表的なメニューは家庭料理定食です。",
+    "QA": [
+        {
+            "question": "セルフジプバプサランはどこに位置していますか？",
+            "answer": "セルフジプバプサランは慶尚北道のアンドン市に位置しています。"
+        },
+        {
+            "question": "セルフジプバプサランの代表的なメニューは何ですか？",
+            "answer": "セルフジプバプサランの代表的なメニューは家庭料理定食です。"
+        },
+        {
+            "question": "セルフジプバプサランではどのようなおかずが味わえますか？",
+            "answer": "セルフジプバプサランでは韓国風の様々なおかずが一度に味わえます。"
+        }
+    ],
+    "word_Count": {
+        "text": 79,
+        "QA": 122
+    }
+}

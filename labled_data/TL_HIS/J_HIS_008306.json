@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_008306",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=769&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=00100000&ccbaCtcd=36&ccbaCpno=2333600100000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1974-09-24",
+        "domain": "문화/역사관광",
+        "title": "고하도이충무공유적"
+    },
+    "text": "高下島李忠武公 遺蹟 (고하도이충무공유적)\\n\n全羅南道木浦市達洞山230番地\\n\n全羅南道記念物 , 忠武公李舜臣（イ·スンシン）将軍が丁酉再乱の時の朝鮮宣祖30年（1597年）10月から翌年3月まで滞在し、軍糧米や軍需物資を集めて戦争に備えた場所だ。 将軍はここに石で南·西の長さ1km、高さ2m、幅1mの城を築き敵の船を区別し、軍資金を集めるために行き来する船に1~3石の食糧を出し通行帖を受け取るようにして10日で1万石の軍糧米を備蓄した。 また、ここで武器と船を作り、戦列を整えたという。",
+    "QA": [
+        {
+            "question": "この遺跡はどこにありますか？",
+            "answer": "全羅南道木浦市達洞山230番地にあります。"
+        },
+        {
+            "question": "この遺跡は何のために使われていましたか？",
+            "answer": "ここは、朝鮮宣祖30年（1597年）の丁酉再乱の時に、忠武公李舜臣将軍が滞在し、軍糧米や軍需物資を集めて戦争に備えるための場所として使われていました。"
+        },
+        {
+            "question": "将軍はどのようにして軍糧米を備蓄していたのでしょうか？",
+            "answer": "将軍はここに築かれた城で、敵の船を区別し、軍資金を集めるための船に1~3石の食糧を提供し、通行証を受け取るようにして10日で1万石の軍糧米を備蓄していました。"
+        },
+        {
+            "question": "この遺跡では、他にどのような活動が行われていましたか？",
+            "answer": "ここでは武器や船の製作、戦列の整備なども行われていました。"
+        }
+    ],
+    "word_Count": {
+        "text": 183,
+        "QA": 214
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_025804",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42030&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "영덕 소나무 펜션"
+    },
+    "text": "人生を自由に楽しんで余裕を感じることができる場所、松のペンションです。 家族と一緒に大切な思い出を作ることができる海の眺めが自慢の松ペンションでいかがでしょうか？ 様々な海の様子を松のペンションで鑑賞することができます。 お知らせでは、22時以降に入室される場合は予めご連絡ください。 ありがとうございます。",
+    "QA": [
+        {
+            "question": "松のペンションとはどのような場所ですか？",
+            "answer": "松のペンションは、人生を自由に楽しんで余裕を感じることができる場所です。海の眺めが自慢で、家族と一緒に大切な思い出を作ることができます。"
+        },
+        {
+            "question": "松のペンションではどのような海の様子を鑑賞することができますか？",
+            "answer": "松のペンションでは、様々な海の様子を鑑賞することができます。具体的な様子については、お客様のご予約時にお尋ねいたします。"
+        },
+        {
+            "question": "松のペンションへの入室時間に制限はありますか？",
+            "answer": "特に制限はありませんが、お知らせでは、22時以降に入室される場合は予めご連絡くださいと記載されています。ご了承ください。"
+        }
+    ],
+    "word_Count": {
+        "text": 112,
+        "QA": 192
+    }
+}

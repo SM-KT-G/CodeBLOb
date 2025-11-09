@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_029606",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.visitjeju.net/kr/detail/view?contentsid=CNTS_000000000019076#",
+        "collectedDate": "2023-09-05",
+        "publishedDate": "2016-10-19",
+        "domain": "숙박",
+        "title": "해변의집"
+    },
+    "text": "海辺の家\n済州特別自治道済州市西海岸路224-1\n美しい済州のオルムである道頭峰があり、ペンションから頂上まで10分で歩いて登山でき、済州空港の飛行機移着率風景と済州市全景と青い海のハルラサンを挟んで日の出と月出が一望できる場所でもあります。",
+    "QA": [
+        {
+            "question": "海辺の家はどこにありますか？",
+            "answer": "海辺の家は済州特別自治道済州市西海岸路224-1にあります。"
+        },
+        {
+            "question": "海辺の家から道頭峰までの登山はどれくらいかかりますか？",
+            "answer": "海辺の家から道頭峰までの登山は10分ほどです。"
+        },
+        {
+            "question": "海辺の家からは何が見えますか？",
+            "answer": "海辺の家からは済州空港の飛行機移着率風景と済州市全景と青い海のハルラサンを挟んで日の出と月出が一望できます。"
+        }
+    ],
+    "word_Count": {
+        "text": 88,
+        "QA": 119
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_029598",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/lodge/benikea-premier-marigold-hotel",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "マリーゴールドホテル"
+    },
+    "text": "マリーゴールドホテル\\n\nソウル特別市 麻浦区 楊花路112 )\\n\n若さと文化の中心地・弘大にあるマリーゴールドホテルは、市内中心地に近く、ビジネスにも観光にも最適の立地です。シンプルでモダンなデザインの客室を合理的な価格で提供しています。",
+    "QA": [
+        {
+            "question": "ホテルの名前は何ですか？",
+            "answer": "マリーゴールドホテル"
+        },
+        {
+            "question": "ホテルの場所はどこですか？",
+            "answer": "ソウル特別市 麻浦区 楊花路112"
+        },
+        {
+            "question": "弘大はどんな場所ですか？",
+            "answer": "若さと文化の中心地です。"
+        },
+        {
+            "question": "ホテルの客室のデザインはどんな感じですか？",
+            "answer": "シンプルでモダンなデザインです。"
+        },
+        {
+            "question": "ホテルの立地はどうですか？",
+            "answer": "市内中心地に近く、ビジネスにも観光にも最適な立地です。"
+        },
+        {
+            "question": "ホテルの価格帯はどうですか？",
+            "answer": "合理的な価格で提供しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 88,
+        "QA": 133
+    }
+}

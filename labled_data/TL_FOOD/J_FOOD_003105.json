@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_003105",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "ウォニョン魚焼き ( 원영생선구이 )"
+    },
+    "text": "ウォニョン魚焼き ( 원영생선구이 )\\n\n江原道 ガンヌン市 ジュムンジン邑 ヘアン3ギル24\\n\n30年以上の歴史を持つ焼き魚の名店です。江原道のガンヌン市に位置した韓食専門店です。代表的なメニューは焼き魚定食です。",
+    "QA": [
+        {
+            "question": "この魚焼き店はどこにありますか？",
+            "answer": "ウォニョン魚焼きは、江原道のガンヌン市に位置しています。具体的な住所はジュムンジン邑ヘアン3ギル24です。"
+        },
+        {
+            "question": "ウォニョン魚焼きはどのくらいの歴史がありますか？",
+            "answer": "ウォニョン魚焼きは30年以上の歴史を持つお店です。"
+        },
+        {
+            "question": "ウォニョン魚焼きの代表的なメニューは何ですか？",
+            "answer": "ウォニョン魚焼きの代表的なメニューは焼き魚定食です。おすすめの一品です。"
+        }
+    ],
+    "word_Count": {
+        "text": 80,
+        "QA": 129
+    }
+}

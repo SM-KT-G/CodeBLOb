@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_013486",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2020-12-29",
+        "domain": "음식점",
+        "title": "ホサンジョン( 호산정 )"
+    },
+    "text": "ホサンジョン( 호산정 )\\n\n全羅南道 海南郡 海南邑 コサンロ140\\n\n地鶏のコース料理を提供しています。代表的なメニューは地鶏の水炊きです。全羅南道のヘナム郡に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "ホサンジョンは何県に位置していますか？",
+            "answer": "ホサンジョンは全羅南道に位置しています。"
+        },
+        {
+            "question": "ホサンジョンではどのような料理を提供していますか？",
+            "answer": "ホサンジョンでは地鶏のコース料理を提供しています。代表的なメニューは地鶏の水炊きです。"
+        },
+        {
+            "question": "ホサンジョンの住所は何ですか？",
+            "answer": "ホサンジョンの住所は全羅南道海南郡海南邑コサンロ140です。"
+        },
+        {
+            "question": "ホサンジョンはどのような店ですか？",
+            "answer": "ホサンジョンは韓食専門店で、全羅南道のヘナム郡に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 70,
+        "QA": 147
+    }
+}

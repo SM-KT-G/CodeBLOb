@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_021225",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1167&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=05580000&ccbaCtcd=37&ccbaCpno=3413705580000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2009-10-12",
+        "domain": "문화/역사관광",
+        "title": "상주 청간정"
+    },
+    "text": "尚州青幹亭 (상주 청간정)\\n\n慶尚北道尚州市洛東面雲坪里154\\n\n1650 , 慶尚北道文化財資料 , 清澗亭は佳谷公造詣(1608~1661)が1650年頃に建築したと推定され、豊陽趙氏の検間公宗派子孫たちの学問の場所であり嶺南儒林の人々が集まって時局を論じて詩会を開いた場所として知られている。 現在、清澗亭には清澗亭と益岩書堂の2つの扁額がある。 清澗亭は17世紀後半に建てられ、19世紀後半に重修されたもので、朝鮮中期の亭子建物の特性を備えており、建設当時の規模と構成形式が比較的よく維持されているため、朝鮮時代の亭子建築研究の資料的価値が高いと判断される。",
+    "QA": [
+        {
+            "question": "青幹亭はいつ建てられましたか？",
+            "answer": "青幹亭は1650年頃に建てられました。"
+        },
+        {
+            "question": "青幹亭は誰によって建築されましたか？",
+            "answer": "青幹亭は佳谷公造詣によって建築されました。"
+        },
+        {
+            "question": "青幹亭はどのような場所ですか？",
+            "answer": "青幹亭は豊陽趙氏の検間公宗派子孫たちの学問の場所であり、嶺南儒林の人々が集まって時局を論じて詩会を開いた場所として知られています。"
+        },
+        {
+            "question": "現在の青幹亭には何つの扁額がありますか？",
+            "answer": "現在の青幹亭には清澗亭と益岩書堂の2つの扁額があります。"
+        },
+        {
+            "question": "青幹亭の建築はどのような特徴がありますか？",
+            "answer": "青幹亭は17世紀後半に建てられ、19世紀後半に重修されたもので、朝鮮中期の亭子建物の特性を備えています。建設当時の規模と構成形式が比較的よく維持されているため、朝鮮時代の亭子建築研究の資料的価値が高いと判断されます。"
+        }
+    ],
+    "word_Count": {
+        "text": 209,
+        "QA": 242
+    }
+}

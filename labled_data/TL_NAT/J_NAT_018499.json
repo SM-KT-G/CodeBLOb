@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_018499",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=172&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=15900000&ccbaCtcd=11&ccbaCpno=1121115900000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2008-12-22",
+        "domain": "자연관광",
+        "title": "화동고지도"
+    },
+    "text": "華東高地図 (화동고지도)\\n\nソウル冠岳区冠岳路1,103洞ソウル大学奎章閣韓国学研究院(新林洞、ソウル大学)\\n\n16世紀 , 宝物 , 朝鮮前期の朝鮮と中国を中心に東アジア地域を描いた世界地図である。 海の波模様[水波廟]、中国の年号と地名などを見ると、16世紀中頃に製作されたものと推定される。 地図の全体的な輪郭は1402年に作られた『渾一江里歴代国都之図』と似ているが、朝鮮の部分はより詳しく正確に描かれている。 反面、日本は地図が省略されたまま朝鮮の南側に位置だけが表示された。 このように中国と朝鮮だけ詳しく描き、その他の地域は位置だけを簡略に表示した方式は、中国中心の世界観が反映された結果と考えられる。 本地図では朝鮮の八道と中国の各省は地名の色彩を異にして区分したが、ただ咸鏡道地域は薄落が激しく郡県名が分かりにくい。 山東半島南側の黄海部分には変動が多かった黄河の流路変遷の歴史が記録されている。 壬辰倭乱以前に製作された地図として顕伝することが非常に少ない状況で、本地図は16世紀東アジアの地理的な内容および当時の朝鮮地図の実状を示す、資料的価値が非常に高い地図と評価される。",
+    "QA": [
+        {
+            "question": "この地図は何世紀に作られましたか？",
+            "answer": "16世紀中頃に製作されました。"
+        },
+        {
+            "question": "この地図はどのような特徴がありますか？",
+            "answer": "海の波模様や中国の年号と地名が描かれており、中国と朝鮮が詳しく描かれています。"
+        },
+        {
+            "question": "なぜこの地図には日本が省略されていますか？",
+            "answer": "この地図は中国中心の世界観が反映されており、そのため他の地域は位置だけが簡略に表示されたからです。"
+        },
+        {
+            "question": "この地図はどのような価値がありますか？",
+            "answer": "この地図は16世紀の東アジアの地理的内容や朝鮮地図の実状を示す資料として非常に高い価値があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 367,
+        "QA": 167
+    }
+}

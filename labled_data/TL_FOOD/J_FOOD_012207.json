@@ -1,0 +1,31 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_012207",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-01",
+        "domain": "음식점",
+        "title": "ハン土鍋 ( 한뚝배기 )"
+    },
+    "text": "ハン土鍋 ( 한뚝배기 )\n釜山広域市 釜山鎮区 中央大路692ボンキル 45-4\n1人前ずつ注文できる韓国料理店です。釜山広域市のブサンジン区に位置した韓食専門店です。おすすめはゆで肉です。",
+    "QA": [
+        {
+            "question": "ハン土鍋はどこに位置していますか？",
+            "answer": "ハン土鍋は釜山広域市のブサンジン区に位置しています。"
+        },
+        {
+            "question": "ハン土鍋のおすすめ料理は何ですか？",
+            "answer": "ハン土鍋のおすすめはゆで肉です。"
+        }
+    ],
+    "word_Count": {
+        "text": 70,
+        "QA": 55
+    }
+}

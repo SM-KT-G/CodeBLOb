@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_005616",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=803&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=00420000&ccbaCtcd=34&ccbaCpno=2333400420000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1982-12-31",
+        "domain": "자연관광",
+        "title": "공주공산성연지"
+    },
+    "text": "公州公山性蓮池 (공주공산성연지)\\n\n忠清南道公州市錦城洞58番地\\n\n忠清南道記念物 , 公山城の中にある池の一つである。 全体的な姿は石垣を段が背負うように整然と積み上げ、東西に最大長さ21m、幅12m程度で上を広くし、下は最大長さ9m、幅4mに狭めて積み上げた石塔を逆さまに立てた形をしている。 西南方向にはよく整えられた石2枚ずつを長く積み、10個余りの階段を設置して出入りできる通路を設けた。 床には板一つの石を敷き、東·西壁側には幅40㎝の排水路を設置して水の流れを容易にした。 この池は百済時代から引き続き利用されていたものと推定されている。 特に池に至る岩門(城壁からよく見えない地点を選んで密かに出入りするようにした小さな門)が発掘され、山城の構造を研究する上で重要な資料となっている。",
+    "QA": [
+        {
+            "question": "公州公山性蓮池はどこにありますか？",
+            "answer": "公州公山性蓮池は忠清南道公州市錦城洞58番地にあります。"
+        },
+        {
+            "question": "公州公山性蓮池は何のために使われていましたか？",
+            "answer": "公州公山性蓮池は百済時代から引き続き利用されていたものと推定されています。"
+        },
+        {
+            "question": "公州公山性蓮池の特徴は何ですか？",
+            "answer": "公州公山性蓮池の特徴は、石垣を段が背負うように整然と積み上げ、逆さまに立てた石塔の形をしていることです。西南方向には出入りできる通路があり、床には排水路が設置されています。"
+        },
+        {
+            "question": "公州公山性蓮池の岩門は何のために重要なのですか？",
+            "answer": "岩門は山城の構造を研究する上で重要な資料となっています。岩門は密かに出入りするようにした小さな門で、公州公山性蓮池に至る道のりを示しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 258,
+        "QA": 221
+    }
+}

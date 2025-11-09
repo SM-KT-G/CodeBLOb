@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_009203",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=312&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=16&ccbaAsno=04260000&ccbaCtcd=37&ccbaCpno=1363704260000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2000-10-13",
+        "domain": "자연관광",
+        "title": "문경 대하리 소나무"
+    },
+    "text": "聞慶大河里松 (문경 대하리 소나무)\\n\n慶尚北道聞慶市山北面大下里16番地\\n\nチョニョンギニョンムル , 聞慶大下里の松は、長水黄氏の思政公派の宗中所有の樹齢400年余りと推定される盤松で、幹と枝が龍トリムの形に曲がって横に伸び、傘2本を支えたような形をしており、非常にユニークで美しい。 過去、芳村のファン·ヒ先生の遺影を祀った長寿ファン氏の宗宅(地方文化財第236号)の祠堂と寺院がこの木の周辺にあり、村の名前を霊閣洞と呼び、毎年旧暦の小正月に村の住民たちが集まって「霊閣洞祭」という堂山祭を行ったという。 2本の傘を突き合わせたような樹形が特異で損傷がほとんどなく、観賞的な価値が大きく、霊閣洞祭を行う象徴木として学術および文化的価値が大きい。",
+    "QA": [
+        {
+            "question": "この聞慶大河里松は何番地にありますか？",
+            "answer": "慶尚北道聞慶市山北面大下里16番地にあります。"
+        },
+        {
+            "question": "この松の樹齢は何年くらいですか？",
+            "answer": "この松の樹齢は推定で400年以上です。"
+        },
+        {
+            "question": "この松の形はどのような形をしていますか？",
+            "answer": "この松の幹と枝は龍トリムの形に曲がって横に伸び、傘2本を支えたような形をしています。"
+        },
+        {
+            "question": "この松の周辺には何がありますか？",
+            "answer": "この松の周辺には芳村のファン·ヒ先生の遺影を祀った長寿ファン氏の宗宅の祠堂と寺院があります。"
+        },
+        {
+            "question": "毎年何の祭りが行われるのですか？",
+            "answer": "毎年旧暦の小正月に村の住民たちが集まって「霊閣洞祭」という堂山祭を行います。"
+        },
+        {
+            "question": "この松の形は何か象徴していますか？",
+            "answer": "この松の2本の傘を突き合わせたような樹形は特異で、観賞的な価値が大きく、霊閣洞祭を行う象徴木とされています。"
+        }
+    ],
+    "word_Count": {
+        "text": 240,
+        "QA": 239
+    }
+}

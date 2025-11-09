@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_019551",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2023-01-17",
+        "domain": "자연관광",
+        "title": "ファーストガーデン（퍼스트가든）"
+    },
+    "text": "ファーストガーデン（퍼스트가든）\\n\nキョンギ道パジュ市タプサッコルギル260\\n\nファーストガーデンは2017年4月にオープンした約20,000坪の大規模複合文化施設です。23のテーマをもつアドニス庭園にレストラン、ウェディングホール、遊び施設（アミューズメント施設、動物農園）など多様な施設を有しています。",
+    "QA": [
+        {
+            "question": "First Gardenはいつオープンしましたか？",
+            "answer": "First Gardenは2017年4月にオープンしました。"
+        },
+        {
+            "question": "First Gardenの所在地はどこですか？",
+            "answer": "First Gardenはキョンギ道パジュ市タプサッコルギル260にあります。"
+        },
+        {
+            "question": "First Gardenはどのような施設を有していますか？",
+            "answer": "First Gardenは23のテーマをもつアドニス庭園にレストラン、ウェディングホール、遊び施設（アミューズメント施設、動物農園）など多様な施設を有しています。"
+        },
+        {
+            "question": "First Gardenの面積はどれくらいですか？",
+            "answer": "First Gardenは約20,000坪の面積を持っています。"
+        }
+    ],
+    "word_Count": {
+        "text": 113,
+        "QA": 208
+    }
+}

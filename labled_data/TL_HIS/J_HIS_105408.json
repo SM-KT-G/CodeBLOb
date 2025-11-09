@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_105408",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=435&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=00780000&ccbaCtcd=21&ccbaCpno=2112100780000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2007-09-07",
+        "domain": "문화/역사관광",
+        "title": "천상열차분야지도"
+    },
+    "text": "天上列車分野地図\\n\n釜山広域市南区国連平和路63(大淵洞、釜山広域市南区国連平和路63)\\n\n釜山広域市有形文化財、この作品は1687年(粛宗13)に石刻(石刻)で製作された天象列次分野之図(宝物第837号)を基本として空の星座を紙に筆写した天文図で、空のカタチ(星座)を順番に分けた絵という意味だ。画面の一番上の上段には区画して郷友側でヒャンジュワチュクにヘンソチェに''天象列次分野地圖''と書いており、その下に天文図と明文が記録されている。この天文図の正確な制作経緯は知らないが、天文暦法を身につけるために、陰陽と(陰陽科)出身の家庭で教材用に作った可能性とグヮンサンガム(觀象監、朝鮮(チョソン)時代の天文暦法を担当していた機関)内部で褒貶考課(褒貶考課)を向けてよく知って見られるように作った可能性もある。この天文図は粛宗復刻本(宝物第837号)を基本として朝鮮後期の概ね17世紀末から18世紀初に製作されたとされる筆写本で、これまで知られてきた他の天象列次分野之図の中で最も詳しく、星座の大きさと色の違いで識別が容易になったのだ。",
+    "QA": [
+        {
+            "question": "この天文図の制作年はいつですか？",
+            "answer": "この天文図は1687年(粛宗13)に石刻で製作されました。"
+        },
+        {
+            "question": "天文図は何を基本として作成されたのですか？",
+            "answer": "この天文図は粛宗復刻本(宝物第837号)を基本として作成されました。"
+        },
+        {
+            "question": "天文図の制作目的は何でしょうか？",
+            "answer": "天文図は天文暦法を身につけるための教材として作られた可能性があります。"
+        },
+        {
+            "question": "天文図の制作に関わった機関は何でしょうか？",
+            "answer": "天文図の制作には朝鮮時代の天文暦法を担当していた機関、グヮンサンガム(觀象監)が関わっている可能性があります。"
+        },
+        {
+            "question": "天文図の特徴は何ですか？",
+            "answer": "この天文図は星座の大きさと色の違いで識別が容易になるように詳細に描かれています。"
+        }
+    ],
+    "word_Count": {
+        "text": 346,
+        "QA": 204
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_030773",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42060&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "천안 B호텔"
+    },
+    "text": "予約案内:一人当たり36ヶ月から1万ウォン追加(現地決済)朝食:ソーセージと野菜炒め、卵スクランブル、野菜サラダ、わかめスープ、キムチ、トースト、コーヒー、ジュース2種無料提供。ミニバー:無料提供。 ビジネスセンター: 24 時間無料開放(ファックス、カラーコピー機、インターネット無料使用可能)。 天安駅まで:1.2kmの距離(タクシーの基本料金/乗用車で3分かかります)。",
+    "QA": [
+        {
+            "question": "このホテルの朝食はどのようなメニューがありますか？",
+            "answer": "ソーセージと野菜炒め、卵スクランブル、野菜サラダ、わかめスープ、キムチ、トースト、コーヒー、ジュース2種が無料で提供されます。"
+        },
+        {
+            "question": "ホテルのミニバーはどのようなものがありますか？",
+            "answer": "ホテルのミニバーは無料で提供されていますが、具体的なアイテムについては文書には記載されていません。"
+        },
+        {
+            "question": "ビジネスセンターの利用時間は何時から何時までですか？",
+            "answer": "ビジネスセンターは24時間利用可能で、ファックス、カラーコピー機、インターネットが無料で使えます。"
+        },
+        {
+            "question": "ホテルまでの天安駅までの距離はどのくらいですか？",
+            "answer": "天安駅までの距離は1.2kmで、タクシーで約3分かかります。"
+        }
+    ],
+    "word_Count": {
+        "text": 137,
+        "QA": 211
+    }
+}

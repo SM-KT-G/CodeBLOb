@@ -1,0 +1,55 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_032665",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.booking.com/hotel/kr/paciflc.ko.html",
+        "collectedDate": "2023-11-17",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "Pacific7 Hotel"
+    },
+    "text": "Pacific7 Hotelは平沢から27km離れた場所に位置する宿です。 当宿はテラス、無料専用駐車場、レストラン、バーなどの施設を提供しています。 無料Wi-Fi、共用キッチン、24時間フロントデスクなどのアメニティもあります。 客室はバルコニーと様々な施設で構成されており、エアコンと薄型テレビも備えています。 一部の客室は都市の眺めを提供し、冷蔵庫などの便益施設もあります。 金浦国際空港は67km離れており、平沢中心部からは14km離れています。 チェックインは午後3時から可能で、チェックアウトは午前11時30分までです。 朝食はレストラン#1でお楽しみいただけます。",
+    "QA": [
+        {
+            "question": "Pacific7 Hotelはどこに位置していますか？",
+            "answer": "Pacific7 Hotelは平沢から27km離れた場所に位置しています。"
+        },
+        {
+            "question": "Pacific7 Hotelはどのような施設を提供していますか？",
+            "answer": "Pacific7 Hotelはテラス、無料専用駐車場、レストラン、バーなどの施設を提供しています。"
+        },
+        {
+            "question": "Pacific7 Hotelで利用できるアメニティはありますか？",
+            "answer": "Pacific7 Hotelでは無料Wi-Fi、共用キッチン、24時間フロントデスクなどのアメニティが利用できます。"
+        },
+        {
+            "question": "Pacific7 Hotelの客室にはどのような設備がありますか？",
+            "answer": "Pacific7 Hotelの客室にはバルコニー、エアコン、薄型テレビなどの設備があります。一部の客室には都市の眺めや冷蔵庫などの便益施設もあります。"
+        },
+        {
+            "question": "Pacific7 Hotelから金浦国際空港までの距離はどれくらいですか？",
+            "answer": "Pacific7 Hotelから金浦国際空港までの距離は67kmです。"
+        },
+        {
+            "question": "Pacific7 Hotelから平沢中心部までの距離はどれくらいですか？",
+            "answer": "Pacific7 Hotelから平沢中心部までの距離は14kmです。"
+        },
+        {
+            "question": "Pacific7 Hotelのチェックイン・チェックアウトの時間は何時ですか？",
+            "answer": "Pacific7 Hotelのチェックインは午後3時から可能で、チェックアウトは午前11時30分までです。"
+        },
+        {
+            "question": "Pacific7 Hotelで朝食は提供されていますか？",
+            "answer": "Pacific7 Hotelでは朝食はレストラン#1で提供されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 212,
+        "QA": 470
+    }
+}

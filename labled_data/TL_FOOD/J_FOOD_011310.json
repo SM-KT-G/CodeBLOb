@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_011310",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2023-01-17",
+        "domain": "음식점",
+        "title": "파크프리베(Parc Prive)"
+    },
+    "text": "パークフリーベ(Parc Prive) (파크프리베(Parc Prive))\\n\n京畿道議政府市東一路192番キル28-27(長岩洞)\\n\n1階はカフェで、2階はレストランです。この建物は競馬公園の中に位置していて、周囲の景色がとても素敵です。建物の前には広い芝生と木があり、野外のテーブル席も設置されています。ここでは本格的なイタリア料理やドリンクを楽しむことができ、見た目も美しく、美味しい様々なデザートも販売されています。",
+    "QA": [
+        {
+            "question": "パークフリーベ(Parc Prive)はどこにありますか？",
+            "answer": "パークフリーベ(Parc Prive)は京畿道議政府市東一路192番キル28-27(長岩洞)にあります。"
+        },
+        {
+            "question": "パークフリーベ(Parc Prive)の建物の前には何がありますか？",
+            "answer": "パークフリーベ(Parc Prive)の建物の前には広い芝生と木があります。野外のテーブル席も設置されています。"
+        },
+        {
+            "question": "パークフリーベ(Parc Prive)では何を楽しむことができますか？",
+            "answer": "パークフリーベ(Parc Prive)では本格的なイタリア料理やドリンクを楽しむことができます。また、美味しい様々なデザートも販売されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 157,
+        "QA": 203
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_001840",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2023-07-02",
+        "domain": "숙박",
+        "title": "HJ매그놀리아용평호텔앤리조트"
+    },
+    "text": "HJ・マグノリア・龍平・ホテルアンドリゾート\n韓国の白頭大幹の真ん中に位置する龍平リゾートは、海抜700～1500mの清浄な高原に位置しており、韓国のアルプスと呼ばれる場所で、ソウルから200kmの距離にある。1975年、国内初の現代式施設を備えて誕生した龍平リゾートは、韓国スキーのメッカと呼ばれるほど、韓国スキーの発展と大衆化の主役となってきた。海抜1,458mの発王山の麓に位置し、年間平均250cmの積雪量で11月中旬から翌年4月初旬までスキーを楽しめる天恵の立地条件を備えている。\n車＆ヨンドン高速道路大関嶺ICを利用\n▶ 龍平リゾートへのアクセス情報https://www.yongpyong.co.kr/kor/customer/location/car.do\n公共交通機関▶ KTX珍富駅及び無料シャトルバス利用情報はこちらhttps://www.yongpyong.co.kr/kor/customer/location/ktx01.do ▶ 首都圏シャトルバス(有料、京畿大原高速)利用情報はこちらhttps://www.yongpyong.co.kr/kor/customer/location/bus01.do ▶ 横渓/江陵市内バス利用情報はこちらhttps://www.yongpyong.co.kr/kor/customer/location/bus02.do ▶ 東ソウル/南大門ターミナル市外バス情報はこちらhttps://www.yongpyong.co.kr/kor/customer/location/bus03.do",
+    "QA": [
+        {
+            "question": "龍平リゾートはどこに位置していますか？",
+            "answer": "龍平リゾートは韓国の白頭大幹の真ん中に位置しており、海抜700～1500mの清浄な高原にあります。ソウルから200kmの距離にあります。"
+        },
+        {
+            "question": "龍平リゾートは何年に誕生しましたか？",
+            "answer": "龍平リゾートは1975年に誕生しました。"
+        },
+        {
+            "question": "龍平リゾートはなぜ韓国スキーのメッカと呼ばれていますか？",
+            "answer": "龍平リゾートは韓国スキーの発展と大衆化の主役となっており、韓国スキーのメッカと呼ばれています。"
+        },
+        {
+            "question": "龍平リゾートはどのような立地条件を備えていますか？",
+            "answer": "龍平リゾートは海抜1,458mの発王山の麓に位置しており、年間平均250cmの積雪量で11月中旬から翌年4月初旬までスキーを楽しむことができる立地条件を備えています。"
+        },
+        {
+            "question": "龍平リゾートへのアクセス方法はありますか？",
+            "answer": "龍平リゾートへのアクセス方法としては、車を利用する場合はヨンドン高速道路大関嶺ICを利用することができます。また、公共交通機関としてはKTX珍富駅を利用し、無料のシャトルバスを利用することもできます。さらに、有料の首都圏シャトルバス(京畿大原高速)や横渓/江陵市内バス、東ソウル/南大門ターミナル市外バスも利用することができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 497,
+        "QA": 362
+    }
+}

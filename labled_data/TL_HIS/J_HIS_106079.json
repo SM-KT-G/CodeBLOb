@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_106079",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/collectionList#######",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2023-10-11",
+        "domain": "문화/역사관광",
+        "title": "청동 고"
+    },
+    "text": "青銅の鼓 (청동 고)\\n\nこの杯は、相手から周まで使われていたものであり、中原地域諸侯以上の墓から出土しました。腹部には陶鉄模様とセミ模様が施されており、底の内側には銘文が刻まれています。国籍や時代は中国のものであり、材質は金属の青銅です。この杯は社会生活の一環で行われる儀礼的な祭りで使用される祭器です。サイズは高さ305cm、着丈160cm、底径88cmです。",
+    "QA": [
+        {
+            "question": "この杯はどこで見つかりましたか？",
+            "answer": "この杯は中原地域諸侯以上の墓から出土しました。"
+        },
+        {
+            "question": "この杯の材質は何ですか？",
+            "answer": "この杯の材質は金属の青銅です。"
+        },
+        {
+            "question": "この杯はどのような祭りで使用される祭器ですか？",
+            "answer": "この杯は社会生活の一環で行われる儀礼的な祭りで使用される祭器です。"
+        }
+    ],
+    "word_Count": {
+        "text": 134,
+        "QA": 89
+    }
+}

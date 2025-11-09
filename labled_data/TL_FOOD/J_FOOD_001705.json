@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001705",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-05",
+        "domain": "음식점",
+        "title": "GREEN CHICKEN DOCTOR ( 그린치킨닥터 )"
+    },
+    "text": "GREEN CHICKEN DOCTOR ( 그린치킨닥터 )\\n\nソウル特別市 東大門区 イムンロ28ギル8\\n\nリーズナブルで、大学生にも人気の店です。ソウル特別市のドンデムン区に位置した洋食専門店です。代表的なメニューはチキンステーキです。",
+    "QA": [
+        {
+            "question": "このレストランの名前は何ですか？",
+            "answer": "グリーンチキンドクター（Green Chicken Doctor）です。"
+        },
+        {
+            "question": "レストランの場所はどこですか？",
+            "answer": "ソウル特別市東大門区イムンロ28ギル8にあります。"
+        },
+        {
+            "question": "このレストランの料理は何ですか？",
+            "answer": "チキンステーキが代表的なメニューです。"
+        },
+        {
+            "question": "このレストランはどのような価格帯ですか？",
+            "answer": "リーズナブルな価格で、大学生にも人気の店です。"
+        },
+        {
+            "question": "このレストランはどのような人におすすめですか？",
+            "answer": "大学生など、リーズナブルで美味しい洋食を楽しみたい人におすすめです。"
+        }
+    ],
+    "word_Count": {
+        "text": 90,
+        "QA": 166
+    }
+}

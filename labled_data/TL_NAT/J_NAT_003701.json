@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_003701",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://apis.data.go.kr/1400000/service/cultureInfoService2/mntInfoOpenAPI2",
+        "collectedDate": "2023-11-22",
+        "publishedDate": "2020-12-01",
+        "domain": "자연관광",
+        "title": "꼭지산"
+    },
+    "text": "ヘタ酸 (꼭지산)\\n\n全羅北道鎮安郡上田面月浦里\\n\nコッチャ山は鎮安郡上田面月浦里に位置している。 龍潭湖を挟んでいてその景観と展望がとても美しい。 星州峰と龍頭峰が山の頂上を成しており、登山路の下山道には金池貯水池が広く青く位置している。",
+    "QA": [
+        {
+            "question": "ヘタ酸 (꼭지산) はどこに位置していますか？",
+            "answer": "ヘタ酸 (꼭지산) は全羅北道鎮安郡上田面月浦里に位置しています。"
+        },
+        {
+            "question": "ヘタ酸 (꼭지산) の周辺にはどんな景観がありますか？",
+            "answer": "ヘタ酸 (꼭지산) の周辺には龍潭湖を挟んでおり、その景観と展望がとても美しいです。"
+        },
+        {
+            "question": "ヘタ酸 (꼭지산) の頂上には何がありますか？",
+            "answer": "ヘタ酸 (꼭지산) の頂上には星州峰と龍頭峰があります。"
+        },
+        {
+            "question": "下山道には何がありますか？",
+            "answer": "下山道には金池貯水池が広がっています。"
+        }
+    ],
+    "word_Count": {
+        "text": 89,
+        "QA": 152
+    }
+}

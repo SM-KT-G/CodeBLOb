@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_021800",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42080&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "철원 바위샘펜션"
+    },
+    "text": "美しい自然環境と安らかな休息空間で有名な岩泉ペンションでは、広い庭園と涼しい泉が特徴です。 このようなペンションでは、漢湯江ラフティングを楽しむこともできますし、軍の面会者も歓迎します。 注意すべき点は、入室時間が予約日の午後2時以降に制限され、退室は翌日の12時まででなければならないということです。 また、ペットは入室できません。",
+    "QA": [
+        {
+            "question": "この岩泉ペンションの特徴は何ですか？",
+            "answer": "広い庭園と涼しい泉が特徴です。"
+        },
+        {
+            "question": "漢湯江ラフティングを楽しむことはできますか？",
+            "answer": "はい、漢湯江ラフティングを楽しむことができます。"
+        },
+        {
+            "question": "軍の面会者は歓迎されますか？",
+            "answer": "はい、軍の面会者も歓迎されます。"
+        },
+        {
+            "question": "ペンションへの入室時間は何時からですか？",
+            "answer": "入室時間は予約日の午後2時以降です。"
+        },
+        {
+            "question": "ペンションからの退室時間は何時までですか？",
+            "answer": "退室時間は翌日の12時までです。"
+        },
+        {
+            "question": "ペンションでペットは入室できますか？",
+            "answer": "申し訳ありませんが、ペットは入室できません。"
+        }
+    ],
+    "word_Count": {
+        "text": 122,
+        "QA": 164
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_059177",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2019-11-11",
+        "domain": "숙박",
+        "title": "충정로 삼성 홈스테이"
+    },
+    "text": "#本施設は、外国人観光都市民宿業に外国人だけが利用が可能で、韓国人は利用できません。忠正路駅5番出口で3分の距離、ソウル駅15番出口で15分の距離に位置したゲストハウスである。",
+    "QA": [
+        {
+            "question": "この施設はどのくらいの距離に位置していますか？",
+            "answer": "この施設は忠正路駅5番出口で3分の距離に位置しています。"
+        },
+        {
+            "question": "どのような施設ですか？",
+            "answer": "この施設は外国人観光都市民宿業に外国人だけが利用が可能なゲストハウスです。"
+        },
+        {
+            "question": "韓国人はこの施設を利用することができますか？",
+            "answer": "いいえ、韓国人はこの施設を利用することはできません。"
+        },
+        {
+            "question": "どの駅から近いですか？",
+            "answer": "この施設はソウル駅15番出口で15分の距離に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 64,
+        "QA": 137
+    }
+}

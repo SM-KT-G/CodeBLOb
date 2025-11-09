@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_017774",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "金剛野菜入り豚肉チゲ（금강섞어찌개）"
+    },
+    "text": "金剛野菜入り豚肉チゲ（금강섞어찌개）\\n\nソウル特別市 中区 明洞7カキル 20-8\\n\nソウル特別市のミョン洞に位置した韓食です。代表的なメニューは野菜入り豚肉チゲです。3代にわたって営業しているお店です。",
+    "QA": [
+        {
+            "question": "このお店の名前は何ですか？",
+            "answer": "このお店の名前は“금강섞어찌개”です。"
+        },
+        {
+            "question": "このお店はどこにありますか？",
+            "answer": "このお店はソウル特別市中区明洞7カキル 20-8に位置しています。"
+        },
+        {
+            "question": "このお店の代表的なメニューは何ですか？",
+            "answer": "このお店の代表的なメニューは野菜入り豚肉チゲです。"
+        },
+        {
+            "question": "このお店は何代にわたって営業していますか？",
+            "answer": "このお店は3代にわたって営業しています。"
+        },
+        {
+            "question": "このお店の営業時間は何時から何時までですか？",
+            "answer": "申し訳ありませんが、営業時間についての情報は提供されていません。"
+        }
+    ],
+    "word_Count": {
+        "text": 76,
+        "QA": 159
+    }
+}

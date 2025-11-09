@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_003153",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2023-01-11",
+        "domain": "문화/역사관광",
+        "title": "서울 빛초롱"
+    },
+    "text": "ソウルの光チョロン (서울 빛초롱)\\n\nソウル特別市鍾路区世宗大路1725号線光化門駅\\n\n2022年に開催される第14回ソウル光チョロン展示は、光化門広場の再開を記念して、光化門広場で行われる予定です。このイベントでは、美しい光とメディアファサードを楽しむことができます。",
+    "QA": [
+        {
+            "question": "このイベントはいつ開催されますか？",
+            "answer": "2022年に開催されます。"
+        },
+        {
+            "question": "ソウル光チョロン展示はどこで行われますか？",
+            "answer": "光化門広場で行われます。"
+        },
+        {
+            "question": "光化門広場の再開を記念して開催されるイベントは何ですか？",
+            "answer": "第14回ソウル光チョロン展示です。"
+        },
+        {
+            "question": "このイベントでは何を楽しむことができますか？",
+            "answer": "美しい光とメディアファサードを楽しむことができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 101,
+        "QA": 114
+    }
+}

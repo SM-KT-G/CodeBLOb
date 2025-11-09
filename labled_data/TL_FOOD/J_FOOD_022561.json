@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_022561",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-01",
+        "domain": "음식점",
+        "title": "西面ジプ ( 서면집 )"
+    },
+    "text": "西面ジプ ( 서면집 )\n釜山広域市 釜山鎮区 東川路85ボンキル 20-6\nご家族との食事だけでなく、会社員もよく訪れる店です。 おすすめは鴨プルゴギです。釜山広域市のブサンジン区に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "この店は釜山広域市 釜山鎮区 東川路85ボンキル 20-6に位置しています。"
+        },
+        {
+            "question": "この店のおすすめメニューは何ですか？",
+            "answer": "この店のおすすめは鴨プルゴギです。"
+        },
+        {
+            "question": "この店はどんな人たちに人気ですか？",
+            "answer": "この店はご家族との食事だけでなく、会社員もよく訪れる店です。"
+        }
+    ],
+    "word_Count": {
+        "text": 76,
+        "QA": 97
+    }
+}

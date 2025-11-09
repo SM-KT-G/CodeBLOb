@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_021121",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1049&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=01240000&ccbaCtcd=35&ccbaCpno=3413501240000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1986-09-08",
+        "domain": "문화/역사관광",
+        "title": "상이암부도"
+    },
+    "text": "上耳岩浮図 (상이암부도)\\n\n全羅北道任実郡聖水面聖壽里山1-1番地\\n\n全羅北道文化財資料 , 浮屠は僧侶の墓を象徴し、その遺骨や舎利を祀っておくところだ。 上岩の裏庭に位置しているこの2基の浮屠はそれぞれ「海月堂」、「斗谷堂」という号を持つ2人の僧侶の舎利を祀っている。 海月堂浮屠は一つの石で構成された3段の支えの上に、壺の形をした塔身の石を置き、屋根石を乗せた。 下敷き石には洗練されていない蓮の花模様があり、屋根石は8隅が上に少し傾いている。 頂上には下の部分が割れたつぼみ状の石が置かれ、頭飾りをしている。 斗谷堂浮図は八角の台石の上に鐘状の塔身を上げ、つぼみ状の頭飾りを載せた構造で、塔身には上下につる模様を置いて装飾した。 二つの不渡りを出した時期は明らかにされていない。",
+    "QA": [
+        {
+            "question": "浮屠は何を象徴していますか？",
+            "answer": "浮屠は僧侶の墓を象徴し、その遺骨や舎利を祀っています。"
+        },
+        {
+            "question": "海月堂浮屠の特徴は何ですか？",
+            "answer": "海月堂浮屠は一つの石で構成された3段の支えの上に、壺の形をした塔身の石を置き、屋根石を乗せています。下敷き石には洗練されていない蓮の花模様があり、屋根石は8隅が上に少し傾いています。頂上には下の部分が割れたつぼみ状の石が置かれ、頭飾りをしています。"
+        },
+        {
+            "question": "斗谷堂浮図の特徴は何ですか？",
+            "answer": "斗谷堂浮図は八角の台石の上に鐘状の塔身を上げ、つぼみ状の頭飾りを載せた構造で、塔身には上下につる模様を置いて装飾しました。"
+        },
+        {
+            "question": "浮屠の建設時期は分かっていますか？",
+            "answer": "二つの浮屠の建設時期は明らかにされていません。"
+        }
+    ],
+    "word_Count": {
+        "text": 253,
+        "QA": 215
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_030895",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42010&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "가평 힐하우스펜션"
+    },
+    "text": "朝のコヨ樹木園から5分の距離に位置するヒルハウスペンションはモダン風の建物で、居心地の良いカップルや家族の客室を運営しています。 ペンションにいらっしゃる方には、様々な楽しみを提供しています。 個別的に客室の前テラスではバーベキューが可能で、特に2階の客室では素晴らしい景色を眺めながらバーベキューが楽しめます。 また、入室時間が22時以降の場合は、事前にペンションまでご連絡ください。",
+    "QA": [
+        {
+            "question": "ヒルハウスペンションはどのくらいの距離にありますか？",
+            "answer": "ヒルハウスペンションは朝のコヨ樹木園から5分の距離に位置しています。"
+        },
+        {
+            "question": "ヒルハウスペンションの建物はどんな雰囲気ですか？",
+            "answer": "ヒルハウスペンションはモダン風の建物で、居心地の良いカップルや家族の客室を提供しています。"
+        },
+        {
+            "question": "ヒルハウスペンションではどんな楽しみがありますか？",
+            "answer": "ヒルハウスペンションではバーベキューが楽しめます。特に2階の客室では素晴らしい景色を眺めながらバーベキューが楽しめます。"
+        },
+        {
+            "question": "入室時間が22時以降の場合は、どうすれば良いですか？",
+            "answer": "入室時間が22時以降の場合は、事前にペンションまでご連絡ください。"
+        }
+    ],
+    "word_Count": {
+        "text": 141,
+        "QA": 200
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_029961",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/samhui-bullak",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "サムヒブルラク"
+    },
+    "text": "サムヒブルラク\\n\n光州広域市 西区 尙武繁栄路37\\n\n1971年に忠壮路で1代目が開店したサムヒブルラクが尚武地区に移転し、現在2代目が営業しています。毎日、全羅南道務安郡から水揚げされた新鮮なテナガダコを使って調理しています。",
+    "QA": [
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "光州広域市 西区 尚武繁栄路37にあります。"
+        },
+        {
+            "question": "この店の歴史は何年ですか？",
+            "answer": "1971年に1代目が開店しました。"
+        },
+        {
+            "question": "なぜこの店は移転しましたか？",
+            "answer": "尚武地区に移転したため、2代目が営業しています。"
+        },
+        {
+            "question": "この店の特徴的な料理は何ですか？",
+            "answer": "新鮮なテナガダコを使った料理が特徴です。"
+        },
+        {
+            "question": "テナガダコはどこから入荷されていますか？",
+            "answer": "毎日、全羅南道務安郡から水揚げされています。"
+        }
+    ],
+    "word_Count": {
+        "text": 85,
+        "QA": 132
+    }
+}

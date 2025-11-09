@@ -1,0 +1,55 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_032063",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://kr.hotels.com/ho1243318816/sincheon-hotel-deo-kaeseul-seoul-hangug/?chkin=2023-11-14&chkout=2023-11-15&x_pwa=1&rfrr=HSR&pwa_ts=1698917970888&referrerUrl=aHR0cHM6Ly9rci5ob3RlbHMuY29tL0hvdGVsLVNlYXJjaA%3D%3D&useRewards=false&rm1=a2&regionId=6342989&destination=%EA%B4%91%EC%A3%BC%2C+%EA%B2%BD%EA%B8%B0%2C+%ED%95%9C%EA%B5%AD&destType=MARKET&neighborhoodId=6347337&latLong=37.403001%2C127.301384&sort=RECOMMENDED&top_dp=154545&top_cur=KRW&userIntent=&selectedRoomType=218761618&selectedRatePlan=278229157&expediaPropertyId=38822463&searchId=784e01d8-940c-47b6-8bb8-80ac7c4ed140",
+        "collectedDate": "2023-11-15",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "신천 호텔 더 캐슬"
+    },
+    "text": "新川ホテルザ·キャッスル\\n\n大韓民国ソウル特別市オリンピック路12キル4-17\\n\n68室の客室を持つこのホテルは、新型コロナウイルス感染症関連の制限事項をご確認ください。 到着時にフロントデスクのスタッフがチェックインをお手伝いし、クレジットカードまたは現金デポジットと政府発行の身分証明書が必要になる場合があります。 また、ペットの同伴は不可であり、障害者の場合は動物と一緒に滞在することができます。 インターネットは共用エリアで無料WiFiを提供し、施設内の駐車場は高さ制限のある駐車スペースを提供します。 このホテルは禁煙施設です。",
+    "QA": [
+        {
+            "question": "新川ホテルザ・キャッスルはどこにありますか？",
+            "answer": "新川ホテルザ・キャッスルは大韓民国ソウル特別市オリンピック路にあります。"
+        },
+        {
+            "question": "新川ホテルザ・キャッスルは何室の客室がありますか？",
+            "answer": "新川ホテルザ・キャッスルは68室の客室を持っています。"
+        },
+        {
+            "question": "新型コロナウイルス感染症関連の制限事項はありますか？",
+            "answer": "新型コロナウイルス感染症関連の制限事項はありますので、到着時にフロントデスクのスタッフにご確認ください。"
+        },
+        {
+            "question": "チェックインに必要なものは何ですか？",
+            "answer": "チェックインにはクレジットカードまたは現金デポジットと政府発行の身分証明書が必要です。"
+        },
+        {
+            "question": "ペットの同伴は可能ですか？",
+            "answer": "申し訳ありませんが、ペットの同伴は不可です。"
+        },
+        {
+            "question": "インターネットは利用できますか？",
+            "answer": "はい、インターネットは共用エリアで無料のWiFiを提供しています。"
+        },
+        {
+            "question": "駐車場はありますか？",
+            "answer": "はい、施設内には駐車場がありますが、高さ制限のある駐車スペースです。"
+        },
+        {
+            "question": "禁煙ですか？",
+            "answer": "はい、このホテルは禁煙施設です。"
+        }
+    ],
+    "word_Count": {
+        "text": 198,
+        "QA": 292
+    }
+}

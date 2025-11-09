@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_094529",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/collectionList#######",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2023-10-11",
+        "domain": "문화/역사관광",
+        "title": "유금은방합"
+    },
+    "text": "流金銀の併合 (유금은방합)\\n\n金メッキの方形の合金で作られた箱の表と裏には、美しい模様が施されました。特に、魚の字をベースにした4つの花びら模様は、非常に精巧に装飾されています。この箱の国籍と時代は中国唐のものであり、材質は金属です。この箱は文化芸術の一環として工芸品に分類され、全高11cm、縦43cm、横61cmです。",
+    "QA": [
+        {
+            "question": "この箱は何で作られていますか？",
+            "answer": "金メッキの方形の合金で作られています。"
+        },
+        {
+            "question": "箱の表と裏にはどんな模様が施されていますか？",
+            "answer": "美しい模様が施されており、特に魚の字をベースにした4つの花びら模様が非常に精巧に装飾されています。"
+        },
+        {
+            "question": "この箱の国籍と時代は何ですか？",
+            "answer": "この箱は中国唐のものであり、材質は金属です。"
+        },
+        {
+            "question": "この箱は何に分類されますか？",
+            "answer": "この箱は文化芸術の一環として工芸品に分類されます。"
+        },
+        {
+            "question": "この箱のサイズはどれくらいですか？",
+            "answer": "全高11cm、縦43cm、横61cmです。"
+        }
+    ],
+    "word_Count": {
+        "text": 119,
+        "QA": 160
+    }
+}

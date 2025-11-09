@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_056254",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://myrealtrip.com/accommodations/stays/2484588?place[place_type]=GID&place[gid]=2484588&place[latitude]=37.7011744996&place[longitude]=127.4970660987&checkin=2023-12-03&checkout=2023-12-04&adult_count=1&curation_type=ALL",
+        "collectedDate": "2023-11-14",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "어거스트청평"
+    },
+    "text": "Room 2は、最大6名まで宿泊できる客室です。 LK3プレミア201号も、最大6名まで入室可能な客室です。 VIP301は最大6人まで宿泊が可能で、Pent houseは最大8人まで宿泊できる客室です。 VIP 101 PRIVATE POOLは最大8人まで入室可能です。 全客室の基準は4人で、追加で入室できる最大人数はそれぞれ明示されています。",
+    "QA": [
+        {
+            "question": "Room 2は最大何名まで宿泊できますか？",
+            "answer": "Room 2は最大6名まで宿泊できます。"
+        },
+        {
+            "question": "LK3プレミア201号は最大何名まで入室可能ですか？",
+            "answer": "LK3プレミア201号は最大6名まで入室可能です。"
+        },
+        {
+            "question": "VIP301は最大何人まで宿泊が可能ですか？",
+            "answer": "VIP301は最大6人まで宿泊が可能です。"
+        },
+        {
+            "question": "Pent houseは最大何人まで宿泊できますか？",
+            "answer": "Pent houseは最大8人まで宿泊できます。"
+        },
+        {
+            "question": "VIP 101 PRIVATE POOLは最大何人まで入室可能ですか？",
+            "answer": "VIP 101 PRIVATE POOLは最大8人まで入室可能です。"
+        }
+    ],
+    "word_Count": {
+        "text": 128,
+        "QA": 185
+    }
+}

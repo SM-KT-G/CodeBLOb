@@ -1,0 +1,51 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_061223",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.goodchoice.kr/product/detail?ano=4781&adcno=1&sel_date=2023-11-06&sel_date2=2023-11-07",
+        "collectedDate": "2023-11-15",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "화정 호텔"
+    },
+    "text": "大型駐車場が利用可能であり、計30台分の自動車を駐車できる施設があります。また、地下鉄3号線ファジョン駅と京義中央線ヌンゴク駅に近接しているため、交通アクセスが便利です。客室内部ではTVで再視聴できるVOD映画サービスも提供しており、シネホテルでは全客室でWi-Fiを使用できます。客室はツインベッドを備えています。",
+    "QA": [
+        {
+            "question": "この施設は駐車場を提供していますか？",
+            "answer": "はい、大型駐車場があります。"
+        },
+        {
+            "question": "駐車できる台数は何台ですか？",
+            "answer": "計30台分の自動車が駐車できます。"
+        },
+        {
+            "question": "最寄りの地下鉄駅はどこですか？",
+            "answer": "最寄りの地下鉄駅はファジョン駅です。"
+        },
+        {
+            "question": "最寄りの鉄道駅はどこですか？",
+            "answer": "最寄りの鉄道駅はヌンゴク駅です。"
+        },
+        {
+            "question": "客室内では何が提供されていますか？",
+            "answer": "客室内ではVOD映画サービスが提供されています。"
+        },
+        {
+            "question": "全客室で利用できるWi-Fiがありますか？",
+            "answer": "はい、全客室でWi-Fiを使用できます。"
+        },
+        {
+            "question": "客室はどのようになっていますか？",
+            "answer": "客室はツインベッドを備えています。"
+        }
+    ],
+    "word_Count": {
+        "text": 115,
+        "QA": 176
+    }
+}

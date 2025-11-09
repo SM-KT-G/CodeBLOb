@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_041342",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2023-08-11",
+        "domain": "문화/역사관광",
+        "title": "6.25전쟁 최대 격전지, 칠곡 방어선 돌아보기"
+    },
+    "text": "漆谷護国平和記念館は6ㆍ25戦争の間起きた多くの戦闘のうち、55日間の洛東江防衛ライン戦闘を通じて戦況を逆転させて大韓民国を守り抜いた洛東江防衛ライン戦闘の最大激戦地の漆谷に位置した記念館だ。",
+    "QA": [
+        {
+            "question": "この記念館はどの戦闘を記念していますか？",
+            "answer": "この記念館は洛東江防衛ライン戦闘を記念しています。"
+        },
+        {
+            "question": "洛東江防衛ライン戦闘は何日間続きましたか？",
+            "answer": "洛東江防衛ライン戦闘は55日間続きました。"
+        },
+        {
+            "question": "洛東江防衛ライン戦闘はどのように戦況を逆転させましたか？",
+            "answer": "洛東江防衛ライン戦闘は多くの戦闘の中で最大の激戦地であり、戦況を逆転させて大韓民国を守り抜きました。"
+        },
+        {
+            "question": "この記念館はどこに位置していますか？",
+            "answer": "この記念館は漆谷に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 70,
+        "QA": 146
+    }
+}

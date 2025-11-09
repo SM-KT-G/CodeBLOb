@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_106026",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=531&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=02070000&ccbaCtcd=37&ccbaCpno=2113702070000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1985-10-15",
+        "domain": "문화/역사관광",
+        "title": "청도향교"
+    },
+    "text": "チョンド・ヒャンギョ\\n\n慶尚北道清道郡華陽邑東橋キル36(校村里)\\n\n慶尚北道有形文化財、郷校は立派な儒学者を祭祀と地方民の留学教育科教化を向けて国で建てた教育機関である朝鮮宣祖1年(1568)にコピョンドンに立てていたことを英祖10年(1734)に今の地位に移した。華陽郷校とも呼ぶ。郷校内の建物としては祠堂の出入り口の内三門、祠である大成殿と東・西廡、勉強するところである明倫堂と東・書斎などがある。ところが、建物の配置のうち、一般的に明倫堂が前で、大成殿が後にある転校後名の配置ではなく、大成殿、明倫堂が左右に置かれているのが特徴する。朝鮮時代には、国家から土地と戦跡・奴婢などを受けて生徒たちに教えたが、甲午改革(1894)以後、祭祀を務めている。清道郷校は特異な建物配置を持った由緒深い郷校だ。",
+    "QA": [
+        {
+            "question": "何処に華陽郷校は立てられたか？",
+            "answer": "慶尚北道清道郡華陽邑東橋キル36(校村里)に立てられました。"
+        },
+        {
+            "question": "華陽郷校は何年に建てられたか？",
+            "answer": "朝鮮宣祖1年(1568)にコピョンドンに建てられ、英祖10年(1734)に今の地位に移されました。"
+        },
+        {
+            "question": "華陽郷校は何のために建てられたか？",
+            "answer": "地方民の留学教育科教化を向けて国で建てられた教育機関であり、立派な儒学者を祭祀するために建てられました。"
+        },
+        {
+            "question": "華陽郷校内にどのような建物があるか？",
+            "answer": "郷校内の建物としては祠堂の出入り口の内三門、祠である大成殿と東・西廡、勉強するところである明倫堂と東・書斎などがあります。"
+        },
+        {
+            "question": "郷校内の建物配置に特徴があるか？",
+            "answer": "はい、一般的な配置と異なり、明倫堂が前で、大成殿が後にある配置ではなく、大成殿、明倫堂が左右に置かれています。"
+        }
+    ],
+    "word_Count": {
+        "text": 259,
+        "QA": 240
+    }
+}

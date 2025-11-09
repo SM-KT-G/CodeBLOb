@@ -1,0 +1,31 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_001739",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-02-02",
+        "domain": "숙박",
+        "title": "DAWN BEACH HOTEL（돈비치관광호텔）"
+    },
+    "text": "DAWN BEACH HOTEL（돈비치관광호텔）\n釜山広域市 水営区 広南路96\nDAWN BEACH HOTEL（ドンビーチ観光ホテル）は釜山広安里ビーチ沿いに位置したホテルです。",
+    "QA": [
+        {
+            "question": "DAWN BEACH HOTEL（ドンビーチ観光ホテル）はどこに位置していますか？",
+            "answer": "DAWN BEACH HOTEL（ドンビーチ観光ホテル）は釜山広安里ビーチ沿いに位置しています。"
+        },
+        {
+            "question": "DAWN BEACH HOTEL（ドンビーチ観光ホテル）はどのようなホテルですか？",
+            "answer": "DAWN BEACH HOTEL（ドンビーチ観光ホテル）は釜山広安里ビーチ沿いに位置したホテルです。"
+        }
+    ],
+    "word_Count": {
+        "text": 67,
+        "QA": 132
+    }
+}

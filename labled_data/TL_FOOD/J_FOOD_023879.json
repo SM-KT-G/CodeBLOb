@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_023879",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-03",
+        "domain": "음식점",
+        "title": "辛辛メウンカルビチム ( 신신매운갈비찜 )"
+    },
+    "text": "辛辛メウンカルビチム ( 신신매운갈비찜 )\\n\nソウル特別市 ヨンドゥンポ区 グクフェデロ36ギル8-1\\n\n辛さを調節できるカルビの蒸し物を提供する店です。おすすめはカルビの蒸し物です。ソウル特別市のヨンドゥンポ区に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "このレストランの名前は何ですか？",
+            "answer": "辛辛メウンカルビチム ( 신신매운갈비찜 ) です。"
+        },
+        {
+            "question": "このレストランはどこにありますか？",
+            "answer": "ソウル特別市のヨンドゥンポ区に位置しています。具体的な住所はグクフェデロ36ギル8-1です。"
+        },
+        {
+            "question": "このレストランのおすすめメニューは何ですか？",
+            "answer": "おすすめはカルビの蒸し物です。辛さを調節することができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 89,
+        "QA": 115
+    }
+}

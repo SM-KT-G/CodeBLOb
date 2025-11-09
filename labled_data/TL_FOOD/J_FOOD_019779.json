@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_019779",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-03",
+        "domain": "음식점",
+        "title": "銅山港刺身入り冷やしスープ ( 동산항물회 )"
+    },
+    "text": "銅山港刺身入り冷やしスープ ( 동산항물회 )\\n\n江原道 ガンヌン市 ギョンガンロ2267ボンギル22\\n\n新鮮な活魚を使った料理が味わえる店です。代表的なメニューは刺身入り冷やしスープです。江原道のガンヌン市に位置した和食専門店です。",
+    "QA": [
+        {
+            "question": "この店の特徴は何ですか？",
+            "answer": "新鮮な活魚を使った料理が味わえる店です。"
+        },
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "江原道のガンヌン市に位置しています。"
+        },
+        {
+            "question": "代表的なメニューは何ですか？",
+            "answer": "代表的なメニューは刺身入り冷やしスープです。"
+        }
+    ],
+    "word_Count": {
+        "text": 87,
+        "QA": 72
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_021512",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42020&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "창원 마산 J"
+    },
+    "text": "馬山魚市場のうなぎ路地の入口と馬山トソム船着場は位置がとても便利だ。 そして料金は一部の特定日と祝日には変動することがあるので注意しなければならない。 また、電気自動車の使用者も心配しなくてもいいが、電気自動車の充電器が設置されているからだ。",
+    "QA": [
+        {
+            "question": "馬山魚市場のうなぎ路地の入口はどこですか？",
+            "answer": "馬山魚市場のうなぎ路地の入口は、位置がとても便利です。"
+        },
+        {
+            "question": "馬山トソム船着場はどこにありますか？",
+            "answer": "馬山トソム船着場は、位置がとても便利です。"
+        },
+        {
+            "question": "料金はどのように変動しますか？",
+            "answer": "料金は一部の特定日と祝日によって変動することがありますので注意が必要です。"
+        },
+        {
+            "question": "電気自動車の充電器はありますか？",
+            "answer": "はい、馬山魚市場のうなぎ路地と馬山トソム船着場には電気自動車の充電器が設置されていますので、心配する必要はありません。"
+        }
+    ],
+    "word_Count": {
+        "text": 88,
+        "QA": 156
+    }
+}

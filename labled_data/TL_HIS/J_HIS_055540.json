@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_055540",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=800&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=00390000&ccbaCtcd=21&ccbaCpno=2332100390000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1996-05-25",
+        "domain": "문화/역사관광",
+        "title": "기장향교"
+    },
+    "text": "1617年に初めて建てられた釜山広域市の記念物である機長郷校は、孔子と多くの聖賢に祭祀をして、地方民の教育と教化のために国で立てた教育機関です。この郷校は、大成殿、明倫堂、ドンジェ・書斎、プンファル、内三門、ウェサムムンなどの建物で構成されています。大成殿は前面3間・側面3間規模であり、人因子を作った切妻屋根を持っています。大成殿の内側には孔子をはじめ、中国と韓国聖賢の位牌が仕えています。明倫堂は、学生たちが勉強する講堂で、両サイドはオンドル部屋で、真ん中は床の間になっています。該当郷校は、朝鮮時代には、国家で学生を教えるために支援を受けたが、現在は教育機能は消えて祭祀の役割だけが残っています。",
+    "QA": [
+        {
+            "question": "機長郷校は何年に建てられましたか？",
+            "answer": "機長郷校は1617年に建てられました。"
+        },
+        {
+            "question": "機長郷校はどのような建物で構成されていますか？",
+            "answer": "機長郷校は大成殿、明倫堂、ドンジェ・書斎、プンファル、内三門、ウェサムムンなどの建物で構成されています。"
+        },
+        {
+            "question": "大成殿はどのような特徴を持っていますか？",
+            "answer": "大成殿は前面3間・側面3間規模であり、切妻屋根を持っています。内側には孔子や聖賢の位牌が祀られています。"
+        },
+        {
+            "question": "明倫堂はどのような役割を果たしていましたか？",
+            "answer": "明倫堂は学生たちが勉強する講堂であり、両サイドはオンドル部屋で、真ん中は床の間になっています。"
+        },
+        {
+            "question": "機長郷校は現在どのような役割を果たしていますか？",
+            "answer": "機長郷校は現在は教育機能は消えて祭祀の役割だけが残っています。"
+        }
+    ],
+    "word_Count": {
+        "text": 220,
+        "QA": 225
+    }
+}

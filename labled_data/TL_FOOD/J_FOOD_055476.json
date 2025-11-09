@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_055476",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/paju-gamaksan",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "パジュガムアクサン"
+    },
+    "text": "パジュガムアクサン\\n\nソウル特別市 ジョンノ区 デハクロ12ギル 4\\n\n飲み会に適した焼肉店です。おすすめは韓牛ロースです。ソウル特別市のテハンノに位置したバーベキュー専門店です。",
+    "QA": [
+        {
+            "question": "この焼肉店はどの区に位置していますか？",
+            "answer": "ジョンノ区に位置しています。"
+        },
+        {
+            "question": "この焼肉店のおすすめは何ですか？",
+            "answer": "おすすめは韓牛ロースです。"
+        },
+        {
+            "question": "この焼肉店は何を専門としていますか？",
+            "answer": "この店はバーベキュー専門店です。"
+        },
+        {
+            "question": "この焼肉店の住所は何ですか？",
+            "answer": "住所はソウル特別市 ジョンノ区 デハクロ12ギル 4です。"
+        },
+        {
+            "question": "この焼肉店は飲み会に適していますか？",
+            "answer": "はい、飲み会に適しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 67,
+        "QA": 125
+    }
+}

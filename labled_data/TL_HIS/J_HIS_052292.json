@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_052292",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=265&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=13&ccbaAsno=04740000&ccbaCtcd=34&ccbaCpno=1333404740000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2006-11-06",
+        "domain": "문화/역사관광",
+        "title": "공주 정지산 유적"
+    },
+    "text": "コンジュ・チョンジサン・ユジョク\\n\n忠清南道公州市錦城洞山1番地の他\\n\n私的、公州、金星洞に位置したチョンジサンの丘陵地帯に位置する遺跡として1996年、国立公州博物館の発掘調査の結果によって百済時代、国家的レベルの提案施設と推定される遺跡である。公州チョンジサン遺跡では国家の重要施設にのみ使用された8の葉の蓮の葉が刻まれた軒丸瓦が発見され、華やかな装飾が施された長考型の器台など国家の祭祀と関連された遺物が出土した。遺跡の立地方向は、武寧王陵で出土された武寧王と王妃の締め圏に記録された真司(申地)、維持(酉地)の方向と一致しており、一部の学者たちは王妃の遺体が死後に武寧王陵に安置されるまで2~3年間収容されて保管された場所である可能性を提起している。特に建物の柱を支える礎が発見されなかったことから、永久的な目的で造成したものではなく、遺跡地内のデビョク建物地では氷を保管しているものと推定されるという点などは、祭祀遺跡としての可能性を裏付けている。",
+    "QA": [
+        {
+            "question": "この遺跡はどこにありますか？",
+            "answer": "この遺跡は韓国の公州市錦城洞山にあります。"
+        },
+        {
+            "question": "この遺跡はいつ発掘されましたか？",
+            "answer": "この遺跡は1996年に国立公州博物館の発掘調査によって発掘されました。"
+        },
+        {
+            "question": "この遺跡はどのような施設と推定されていますか？",
+            "answer": "この遺跡は国家的レベルの提案施設と推定されています。"
+        },
+        {
+            "question": "どのような遺物がこの遺跡から見つかりましたか？",
+            "answer": "この遺跡からは8つの葉の蓮の葉が刻まれた軒丸瓦や華やかな装飾が施された長考型の器台などが見つかりました。"
+        },
+        {
+            "question": "この遺跡の立地方向は何と一致していますか？",
+            "answer": "この遺跡の立地方向は武寧王陵の方向と一致しています。"
+        },
+        {
+            "question": "この遺跡は何の目的で造成されたと推定されていますか？",
+            "answer": "この遺跡は永久的な目的で造成されたものではなく、祭祀のために使用された可能性があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 316,
+        "QA": 239
+    }
+}

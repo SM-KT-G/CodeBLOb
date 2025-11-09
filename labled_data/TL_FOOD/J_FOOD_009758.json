@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_009758",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-16",
+        "domain": "음식점",
+        "title": "チキン678 明洞（치킨678 명동）"
+    },
+    "text": "チキン678 明洞（치킨678 명동）\\n\nソウル特別市 中区 明洞7キル 21\\n\nソウル特別市のミョン洞に位置したチキン専門店です。おすすめはパリパリチキンです。フュージョン韓国料理スタイルのチキン専門店です。",
+    "QA": [
+        {
+            "question": "チキン678 明洞はどこにありますか？",
+            "answer": "チキン678 明洞はソウル特別市 中区 明洞7キル 21に位置しています。"
+        },
+        {
+            "question": "チキン678 明洞のおすすめメニューは何ですか？",
+            "answer": "チキン678 明洞のおすすめはパリパリチキンです。"
+        },
+        {
+            "question": "チキン678 明洞はどのようなスタイルのチキン専門店ですか？",
+            "answer": "チキン678 明洞はフュージョン韓国料理スタイルのチキン専門店です。"
+        }
+    ],
+    "word_Count": {
+        "text": 78,
+        "QA": 123
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_090864",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=909&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=24&ccbaAsno=00030000&ccbaCtcd=36&ccbaCpno=2443600030000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1978-09-22",
+        "domain": "문화/역사관광",
+        "title": "영암월곡리전씨고택"
+    },
+    "text": "霊岩月谷里チョン氏の故宅\\n\n全羅南道霊岩郡郡西面月山キル35(月谷里)\\n\n全羅南道・民俗文化財、朝鮮英祖1年(1724)に唐津県監パクチョンテクが建てたと伝えた昔の家だ。現所有者の高曽祖父がパクチョンテクの曾孫に買い入れて5代目が暮らしている。元々は母屋・サランチェ・祠・門屋などがあったというが、今は母屋だけが残っている。母屋は表6間・側面2間規模であり、屋根側面が八(八部)字形の入母屋造りである。広い敷地のいたるところにある石物で昔の生活の痕跡を感じられ、中上位層住宅の姿を持った朝鮮後期の建物だ。",
+    "QA": [
+        {
+            "question": "この故宅はいつ建てられましたか？",
+            "answer": "この故宅は朝鮮英祖1年（1724年）に建てられました。"
+        },
+        {
+            "question": "故宅の所有者の家族は何代にわたって住んでいましたか？",
+            "answer": "故宅の所有者の家族は5代にわたって住んでいます。"
+        },
+        {
+            "question": "故宅には何が残っていますか？",
+            "answer": "故宅には母屋だけが残っています。"
+        },
+        {
+            "question": "故宅の建物の特徴はなんですか？",
+            "answer": "故宅の建物は屋根側面が八(八部)字形の入母屋造りで、中上位層住宅の姿を持っています。"
+        },
+        {
+            "question": "故宅の敷地には何がありますか？",
+            "answer": "故宅の敷地には石物があり、昔の生活の痕跡を感じることができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 186,
+        "QA": 166
+    }
+}

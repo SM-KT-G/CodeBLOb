@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_007336",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=85&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=06330000&ccbaCtcd=37&ccbaCpno=1123706330000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1978-12-07",
+        "domain": "문화/역사관광",
+        "title": "경주 황남동 금제 드리개"
+    },
+    "text": "慶州 皇南洞 金製 ドリゲ (경주 황남동 금제 드리개)\\n\n慶尚北道 慶州市 日程路 186, 国立慶州博物館 (仁王洞,国立慶州博物館)\\n\n新羅時代(5~6世紀) , 宝物 , 慶州皇南洞の金製のドリゲは慶州皇南洞にある新羅弥鄒王陵で発見された長さ15.5㎝の一列は長く、三列は短い金製ドリゲ(樹食)だ。 長い列は中が空いた金玉に花びら装飾を金糸でねじって連結し、最後に翡翠色の玉を付けた。 小さな列も長い列のような形をしている。 現在の状態が原型かどうかは定かではないが、新羅の墓から出土する垂木の中で最も豪華な作品だ。",
+    "QA": [
+        {
+            "question": "この金製ドリゲはどこで発見されましたか？",
+            "answer": "慶州皇南洞にある新羅弥鄒王陵で発見されました。"
+        },
+        {
+            "question": "この金製ドリゲの長さは何センチメートルですか？",
+            "answer": "この金製ドリゲの長さは15.5センチメートルです。"
+        },
+        {
+            "question": "この金製ドリゲの形はどのような形をしていますか？",
+            "answer": "この金製ドリゲは一列は長く、三列は短い形をしています。"
+        },
+        {
+            "question": "この金製ドリゲの装飾は何でできていますか？",
+            "answer": "この金製ドリゲの装飾は金糸でねじって連結された花びら装飾と翡翠色の玉でできています。"
+        },
+        {
+            "question": "この金製ドリゲは新羅時代の何の墓から出土しましたか？",
+            "answer": "この金製ドリゲは新羅弥鄒王陵から出土しました。"
+        }
+    ],
+    "word_Count": {
+        "text": 194,
+        "QA": 186
+    }
+}

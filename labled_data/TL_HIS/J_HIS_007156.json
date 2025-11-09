@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_007156",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=101&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=08090000&ccbaCtcd=11&ccbaCpno=1121108090000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1985-01-08",
+        "domain": "문화/역사관광",
+        "title": "경복궁 자경전"
+    },
+    "text": "景福宮慈慶殿 (경복궁 자경전)\\n\nソウル特別市鍾路区社稷路161(世宗路、景福宮)\\n\n朝鮮高宗4年(1867) , 宝物 , 慈慶殿は1867年に景福宮を建て直し、慈美堂跡に高宗の養母である趙大妃(シンジョンワンフ)のために建てた大妃殿で、再建後の火災で焼失したことから高宗25年(1888)に建て直され、今日に至る。 慈慶殿は大妃が日常生活をする寝殿建物で、計44間の規模だ。 冬に暖かく過ごせるよう西北側に福安堂という寝室を置き、中央には中心建物である慈慶殿を置いた。 また、東南側には屋根裏部屋である青淵楼を置いて夏を涼しく過ごせるようにした。 周辺には数十個の家と塀、門があったが、日本による植民地時代を経てほとんどなくなった。 今は長寿を祈願する意味を持つ文字と花·蝶·竹の形を土で焼いて刻んだ美しい花塀と動植物模様の十長生を調和よく刻んだ家の形の煙突が残っている。 慈慶殿は朝鮮時代の法宮である景福宮の中に残っている唯一の大妃殿である。",
+    "QA": [
+        {
+            "question": "慈慶殿はいつ建てられましたか？",
+            "answer": "慈慶殿は1867年に建て直され、高宗25年(1888)に再建されました。"
+        },
+        {
+            "question": "慈慶殿はどのような役割を果たしていますか？",
+            "answer": "慈慶殿は高宗の養母である趙大妃のために建てられた大妃殿で、彼女が日常生活をする場所です。"
+        },
+        {
+            "question": "慈慶殿の規模はどれくらいですか？",
+            "answer": "慈慶殿は計44間の規模です。"
+        },
+        {
+            "question": "慈慶殿の周辺には何がありますか？",
+            "answer": "慈慶殿の周辺にはかつて数十個の家と塀、門がありましたが、ほとんどが日本の植民地時代に失われました。現在、花塀と煙突が残っています。"
+        },
+        {
+            "question": "慈慶殿は景福宮の中で何を残していますか？",
+            "answer": "慈慶殿は景福宮の中で唯一の大妃殿です。"
+        }
+    ],
+    "word_Count": {
+        "text": 313,
+        "QA": 195
+    }
+}

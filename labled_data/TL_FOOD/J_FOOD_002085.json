@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_002085",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-12",
+        "domain": "음식점",
+        "title": "SODAMGOEUL 彭城 ( 소담고을 팽성 )"
+    },
+    "text": "SODAMGOEUL 彭城 \\n\n京畿道 平沢市 彭城邑 彭城南山5キル 33\\n\n家族のお集まりだけでなく、団体での会食も可能です。炭火カルビ、咸興冷麺専門の店です。 おすすめは豚カルビです。",
+    "QA": [
+        {
+            "question": "このお店の場所はどこですか？",
+            "answer": "彭城邑彭城南山5キル33に位置しています。"
+        },
+        {
+            "question": "このお店では何をオススメしていますか？",
+            "answer": "豚カルビがオススメです。"
+        },
+        {
+            "question": "このお店では団体での会食もできますか？",
+            "answer": "はい、団体での会食も可能です。"
+        },
+        {
+            "question": "このお店では何の専門料理を提供していますか？",
+            "answer": "炭火カルビと咸興冷麺が専門料理です。"
+        },
+        {
+            "question": "このお店は家族連れにも適していますか？",
+            "answer": "はい、家族連れにも適しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 71,
+        "QA": 128
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_109704",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=9&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=11&ccbaAsno=00980000&ccbaCtcd=11&ccbaCpno=1111100980000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1962-12-20",
+        "domain": "문화/역사관광",
+        "title": "청자 상감모란문 항아리"
+    },
+    "text": "青磁象嵌牡丹文の壺\\n\nソウル特別市龍山区西氷庫路137(龍山洞6街、ジャン·ジャン)\\n\n高麗時代(12世紀)、国宝、高麗時代に作られた青磁の壺に大きさは高さ20.1センチ、口直径20.7センチ、ミッジルム14.8センチだ。胴体には前後に牡丹が一条ずつ施されている。牡丹の花は葉脈までも細かく描写されているが、胴体の一側面にいっぱいに大きな文様を入れて印象的で冷たい感じを与える。特に花は白色で葉は黒い色で象嵌(ぞうがん)したが、花を中心に葉を左・右・賞・下対称されるように配列した。釉薬は澄んだ緑色は感度は青灰色(せいかいしょく)で非常に薄く均一に塗られている。釉薬の感じや甕の形からして、12世紀ごろの作品に見えるこの壺は花と葉が大々的に表現されることで、白黒のコントラストが強く、涼しい感じを与え、面相風邪法を効果的に使用して象嵌技法の高い品格を見せてくれている。",
+    "QA": [
+        {
+            "question": "この壺は何時代に作られましたか？",
+            "answer": "高麗時代に作られました。"
+        },
+        {
+            "question": "壺の大きさは何ですか？",
+            "answer": "壺の高さは20.1センチ、口直径は20.7センチ、ミッジルムは14.8センチです。"
+        },
+        {
+            "question": "壺の胴体には何が施されていますか？",
+            "answer": "壺の胴体には前後に牡丹が一条ずつ施されています。"
+        },
+        {
+            "question": "釉薬の色は何ですか？",
+            "answer": "釉薬は澄んだ緑色で感度は青灰色(せいかいしょく)です。"
+        },
+        {
+            "question": "象嵌(ぞうがん)技法の特徴は何ですか？",
+            "answer": "花と葉が大々的に表現され、白黒のコントラストが強く、涼しい感じを与える面相風邪法を効果的に使用しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 283,
+        "QA": 168
+    }
+}

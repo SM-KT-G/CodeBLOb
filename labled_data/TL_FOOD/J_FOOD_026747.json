@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_026747",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-01",
+        "domain": "음식점",
+        "title": "宗家本カルビ ( 종가본갈비 )"
+    },
+    "text": "宗家本カルビ \n京畿道 平沢市 静庵路 104-23\n飲み会などに最適な店で、上質なお肉を味わえるところです。 京畿道のピョンテク市に位置したBBQ専門店です。おすすめは味付け牛カルビです。",
+    "QA": [
+        {
+            "question": "この店の名前は何ですか？",
+            "answer": "宗家本カルビ"
+        },
+        {
+            "question": "この店はどこに位置していますか？",
+            "answer": "京畿道 平沢市 静庵路 104-23"
+        },
+        {
+            "question": "この店の特徴は何ですか？",
+            "answer": "飲み会などに最適な店で、上質なお肉を味わえるところです。"
+        },
+        {
+            "question": "おすすめメニューは何ですか？",
+            "answer": "味付け牛カルビがおすすめです。"
+        },
+        {
+            "question": "この店は何を専門としていますか？",
+            "answer": "BBQを専門としています。"
+        },
+        {
+            "question": "この店の周辺にはどんな施設がありますか？",
+            "answer": "周辺にはピョンテク市があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 69,
+        "QA": 136
+    }
+}

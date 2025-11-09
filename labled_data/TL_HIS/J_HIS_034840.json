@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_034840",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=521&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=01930000&ccbaCtcd=31&ccbaCpno=2113101930000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2003-09-08",
+        "domain": "문화/역사관광",
+        "title": "현등사신중도"
+    },
+    "text": "賢等四神衆図 (현등사신중도)\\n\n京畿道加平郡玄燈寺ギル34(操縦面、玄燈寺)\\n\n京畿道有形文化財 , 玄燈寺神衆図は朝鮮後期の一般的な大きさで、横122㎝、縦123㎝であり、画面を2等分して尊像の大きさを似たように描き、尊像の位階が反映されなかった。 右側には梵天と帝釈天を中心に左右に日月天子と桃と瓶を持った童子像を配置した。 左上に羽の羽が上がった兜をかぶった危なっかしい川が描かれているが、顔は目鼻立ちが明確で、鼻に比べて目と口が小さいのが特徴だ。 この神衆図は画記によって官許堂雪訓、龍鳳堂景天の作品であることが分かるが、これらは玄燈寺青銅地蔵菩薩坐像を彫刻し、同じ僧侶によって仏像と仏画が製作された例がほとんど調査されず、18世紀後半の仏教美術研究に重要な資料と評価されている。",
+    "QA": [
+        {
+            "question": "この図はどこにあるのですか？",
+            "answer": "この図は京畿道加平郡の玄燈寺にあります。"
+        },
+        {
+            "question": "この図は何時代のものですか？",
+            "answer": "この図は朝鮮後期のものです。"
+        },
+        {
+            "question": "この図の大きさは何㎝ですか？",
+            "answer": "この図の大きさは横122㎝、縦123㎝です。"
+        },
+        {
+            "question": "この図にはどのような尊像が描かれていますか？",
+            "answer": "この図には梵天、帝釈天、日月天子、桃と瓶を持った童子像が描かれています。"
+        },
+        {
+            "question": "この図に描かれている川の特徴は何ですか？",
+            "answer": "この図に描かれている川は兜をかぶった危なっかしい川で、顔は目鼻立ちが明確で、鼻に比べて目と口が小さいのが特徴です。"
+        },
+        {
+            "question": "この図が重要な資料と評価されている理由は何ですか？",
+            "answer": "この図は官許堂雪訓、龍鳳堂景天の作品であり、18世紀後半の仏教美術研究に重要な資料と評価されているからです。"
+        }
+    ],
+    "word_Count": {
+        "text": 254,
+        "QA": 228
+    }
+}

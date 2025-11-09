@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_037915",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1015&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=00680000&ccbaCtcd=34&ccbaCpno=3413400680000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1984-05-17",
+        "domain": "문화/역사관광",
+        "title": "천진보탑"
+    },
+    "text": "天真宝塔 (천진보탑)\\n\n忠清南道公州市鶏龍面中長里\\n\n忠清南道文化財資料、鶏龍山内に峰のようにそびえている自然岩で、人の手によって作られたものではなく、自然そのままの塔だ。 塔とは仏の舎利を祀っておくところを指すもので、この塔には次のような伝説が伝えられている。 釈迦牟尼が涅槃した後、インドの阿育王は旧品川国にある舎利塔から大量の舎利を発見し、これを四方世界(十ヶ所の方向にある衆生の世界へ、東·西·南·北·東北·東南·西南·西北·上にある無限の世界を指す)に配った。 その時、四天王(仏教の法を守る群れで、東·西·南·北の4ヶ所を守っている)のうち、北を担当していた毘沙門天王をここ鶏龍山に送り、この岩の中に入れておくようにし、後日阿道和尚がこれを発見して「天真宝塔」と名付けた。",
+    "QA": [
+        {
+            "question": "天真宝塔はどこにありますか？",
+            "answer": "天真宝塔は忠清南道公州市鶏龍面中長里にあります。"
+        },
+        {
+            "question": "天真宝塔は何で作られていますか？",
+            "answer": "天真宝塔は自然岩で作られておらず、自然のままの塔です。"
+        },
+        {
+            "question": "天真宝塔にはどのような伝説が伝えられていますか？",
+            "answer": "天真宝塔には、釈迦牟尼が涅槃した後、インドの阿育王が舎利を四方世界に配った際、毘沙門天王を鶏龍山に送り、この岩の中に舎利を納めたという伝説があります。"
+        },
+        {
+            "question": "天真宝塔は何を指していますか？",
+            "answer": "天真宝塔は仏の舎利を祀る場所を指しています。"
+        },
+        {
+            "question": "天真宝塔は誰によって名付けられましたか？",
+            "answer": "天真宝塔は阿道和尚によって名付けられました。"
+        }
+    ],
+    "word_Count": {
+        "text": 253,
+        "QA": 189
+    }
+}

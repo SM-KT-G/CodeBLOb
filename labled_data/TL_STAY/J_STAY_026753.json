@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_026753",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/goods/GN0002158628?startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0%5E&npprmaxsort=min",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "제주 에녹"
+    },
+    "text": "済州空港から20分の距離に位置する涯月海岸道路の入り口にある温水プール一軒家宿は、海を見ることができる素敵な場所にあります。 この宿は高級で特別な室内空間とオブジェ、クオリティのあるアメニティと家電家具などを提供します。",
+    "QA": [
+        {
+            "question": "涯月海岸道路の入り口にある温水プール一軒家宿はどこに位置していますか？",
+            "answer": "済州空港から20分の距離に位置しています。"
+        },
+        {
+            "question": "この宿の特徴は何ですか？",
+            "answer": "高級で特別な室内空間とオブジェ、クオリティのあるアメニティと家電家具などを提供します。"
+        },
+        {
+            "question": "この宿は海を見ることができる場所ですか？",
+            "answer": "はい、海を見ることができる素敵な場所にあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 80,
+        "QA": 113
+    }
+}

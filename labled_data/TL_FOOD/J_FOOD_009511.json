@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_009511",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "タッハンマリテジハングン（닭한마리돼지한근）"
+    },
+    "text": "タッハンマリテジハングン（닭한마리돼지한근）\\n\nソウル特別市 中区 東湖路24キル 33\\n\n奨忠洞商店街繁栄会会員がおすすめする名店です。代表的なメニューは鶏肉の炒め煮です。ソウル特別市トンデイック駅の近くに位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "このレストランの名前は何ですか？",
+            "answer": "タッハンマリテジハングン（닭한마리돼지한근）です。"
+        },
+        {
+            "question": "このレストランはどこにありますか？",
+            "answer": "ソウル特別市 中区 東湖路24キル 33にあります。"
+        },
+        {
+            "question": "このレストランの代表的なメニューは何ですか？",
+            "answer": "鶏肉の炒め煮が代表的なメニューです。"
+        },
+        {
+            "question": "このレストランはどのような場所に位置していますか？",
+            "answer": "ソウル特別市トンデイック駅の近くに位置しています。"
+        },
+        {
+            "question": "このレストランはどのような店舗ですか？",
+            "answer": "ソウル特別市中区の奨忠洞商店街繁栄会会員がおすすめする名店です。"
+        }
+    ],
+    "word_Count": {
+        "text": 86,
+        "QA": 165
+    }
+}

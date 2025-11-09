@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_020233",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-08-11",
+        "domain": "음식점",
+        "title": "利川屋（이천옥）"
+    },
+    "text": "利川屋（이천옥）\\n\n京畿道 利川市 中里川路115番キル18\\n\n「利川屋（イチョノク／イチョンオク）」は温泉都市、利川にある韓定食料理店です。東ソウルと江南ターミナルから50分以内の距離にあるので、都会生活のストレスを解消しながら、利川の特産米で炊いたご飯と食欲をそそる数々のおかずが堪能できます。",
+    "QA": [
+        {
+            "question": "利川屋（イチョンオク）はどこにありますか？",
+            "answer": "利川屋は京畿道利川市中里川路115番キル18にあります。"
+        },
+        {
+            "question": "利川屋の特徴は何ですか？",
+            "answer": "利川屋は温泉都市利川にあり、特産米で炊いたご飯と食欲をそそる数々のおかずが楽しめる韓定食料理店です。"
+        },
+        {
+            "question": "利川屋はどのくらいの距離にありますか？",
+            "answer": "利川屋は東ソウルと江南ターミナルから50分以内の距離にあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 110,
+        "QA": 118
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_032320",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.booking.com/hotel/kr/hao-guesthouse-seoul.ko.html",
+        "collectedDate": "2023-11-17",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "Hao Guesthouse in Hongdae"
+    },
+    "text": "ソウルのHao Guesthouse in Hongdaeは、お客様に快適な宿泊を提供する場所です。 客室内にはエアコンと薄型テレビがあり、無料Wi-Fiをご利用いただけます。 ここには共用キッチンとラウンジがあり、ゆったりとくつろぐことができます。 客室には専用バスルームがあり、シャワー設備、洗面用具、ヘアドライヤーが完備されています。 朝食も毎日提供されます。 このゲストハウスは弘益大学や梨花女子大学のような有名な観光地に近く、金浦国際空港からも13kmの距離に位置しています。 チェックインは午後3時から可能で、チェックアウトは午前11時までです。",
+    "QA": [
+        {
+            "question": "Hao Guesthouse in Hongdaeの客室にはどのような設備がありますか？",
+            "answer": "Hao Guesthouse in Hongdaeの客室にはエアコンと薄型テレビがあります。"
+        },
+        {
+            "question": "Hao Guesthouse in Hongdaeでは無料Wi-Fiを利用することができますか？",
+            "answer": "はい、Hao Guesthouse in Hongdaeでは無料Wi-Fiを利用することができます。"
+        },
+        {
+            "question": "Hao Guesthouse in Hongdaeには共用キッチンやラウンジがありますか？",
+            "answer": "はい、Hao Guesthouse in Hongdaeには共用キッチンとラウンジがあります。"
+        },
+        {
+            "question": "Hao Guesthouse in Hongdaeの客室には専用バスルームがありますか？",
+            "answer": "はい、Hao Guesthouse in Hongdaeの客室には専用バスルームがあります。"
+        },
+        {
+            "question": "Hao Guesthouse in Hongdaeの朝食は提供されますか？",
+            "answer": "はい、Hao Guesthouse in Hongdaeでは朝食が毎日提供されます。"
+        },
+        {
+            "question": "Hao Guesthouse in Hongdaeの近くにはどのような有名な観光地がありますか？",
+            "answer": "Hao Guesthouse in Hongdaeの近くには弘益大学や梨花女子大学などの有名な観光地があります。"
+        },
+        {
+            "question": "Hao Guesthouse in Hongdaeは金浦国際空港からどのくらいの距離に位置していますか？",
+            "answer": "Hao Guesthouse in Hongdaeは金浦国際空港から13kmの距離に位置しています。"
+        },
+        {
+            "question": "Hao Guesthouse in Hongdaeのチェックインとチェックアウトの時間は何時ですか？",
+            "answer": "Hao Guesthouse in Hongdaeのチェックインは午後3時から可能で、チェックアウトは午前11時までです。"
+        }
+    ],
+    "word_Count": {
+        "text": 204,
+        "QA": 561
+    }
+}

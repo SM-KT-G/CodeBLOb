@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_015265",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42040&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "여수 노체델마르가족오션뷰펜션"
+    },
+    "text": "ノチェデルマールはスペイン語で夜の海という意味で、美しい麗水の夜の海を一緒に楽しめる場所です。 ここでは疲れた体と心を癒すことができます。 夜空に広がる星と一緒に聞こえてくる波の音、そして愛する人たちと一緒に過ごす幸せな時間は忘れられない大切な思い出として残るでしょう。 しかし、チェックインはPM10時以降は不可能で、この時間以降は自動的にノーショー処理されます。",
+    "QA": [
+        {
+            "question": "ノチェデルマールとはどういう意味ですか？",
+            "answer": "ノチェデルマールはスペイン語で夜の海という意味です。"
+        },
+        {
+            "question": "ノチェデルマールでできることは何ですか？",
+            "answer": "ノチェデルマールでは夜空の星を眺めたり、波の音を聞きながらリラックスしたりすることができます。"
+        },
+        {
+            "question": "チェックインの時間は何時までですか？",
+            "answer": "チェックインはPM10時までです。PM10時以降はチェックインができませんので、ご注意ください。"
+        },
+        {
+            "question": "チェックインがPM10時以降だとどうなりますか？",
+            "answer": "チェックインがPM10時以降の場合、自動的にノーショー処理されます。"
+        },
+        {
+            "question": "ノチェデルマールでの過ごし方には何を持って行くといいですか？",
+            "answer": "ノチェデルマールで過ごす際には、星を見るための望遠鏡や、快適に過ごすためのブランケットやクッションなどを持って行くと便利です。"
+        }
+    ],
+    "word_Count": {
+        "text": 134,
+        "QA": 242
+    }
+}

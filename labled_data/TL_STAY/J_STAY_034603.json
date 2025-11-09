@@ -1,0 +1,59 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_034603",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.booking.com/hotel/kr/gureumedalgadeusi.ko.html",
+        "collectedDate": "2023-11-17",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "Moon on the Cloud"
+    },
+    "text": "寧越に位置するMoon on the Cloudは、宿泊客のために素晴らしい眺めと様々な施設を提供しています。 客室には無料Wi-Fiとともに快適な宿泊のためのエアコン、キッチン、TV、シャワー設備、洗面用具などを備えています。 当宿には専用駐車場があり、車を利用する旅行客に便利なサービスを提供しています。 朝鮮民話博物館やSaekyung Universityなどの名所が利用でき、原州空港までは約105kmの距離にあり、チェックインは14:00から可能で、チェックアウトは11:00までです。 この宿はプールやバドミントン用品も利用できるので、様々な活動を楽しむことができます。 15kmの距離にある寧越中心部からこの宿までの実際の移動距離は異なる場合があります。",
+    "QA": [
+        {
+            "question": "Moon on the Cloudはどこに位置していますか？",
+            "answer": "Moon on the Cloudは寧越に位置しています。"
+        },
+        {
+            "question": "Moon on the Cloudはどのような施設を提供していますか？",
+            "answer": "Moon on the Cloudは宿泊客のために素晴らしい眺めと様々な施設を提供しています。"
+        },
+        {
+            "question": "Moon on the Cloudの客室には何が備えられていますか？",
+            "answer": "Moon on the Cloudの客室には無料Wi-Fiとともに快適な宿泊のためのエアコン、キッチン、TV、シャワー設備、洗面用具などが備えられています。"
+        },
+        {
+            "question": "Moon on the Cloudには駐車場がありますか？",
+            "answer": "はい、Moon on the Cloudには専用駐車場があります。"
+        },
+        {
+            "question": "Moon on the Cloudの近くにはどのような名所がありますか？",
+            "answer": "Moon on the Cloudの近くには朝鮮民話博物館やSaekyung Universityなどの名所があります。"
+        },
+        {
+            "question": "Moon on the Cloudから原州空港までの距離はどのくらいですか？",
+            "answer": "Moon on the Cloudから原州空港までは約105kmの距離です。"
+        },
+        {
+            "question": "Moon on the Cloudのチェックインとチェックアウトの時間は何時ですか？",
+            "answer": "Moon on the Cloudのチェックインは14:00から可能で、チェックアウトは11:00までです。"
+        },
+        {
+            "question": "Moon on the Cloudではどのような活動が楽しめますか？",
+            "answer": "Moon on the Cloudではプールやバドミントン用品も利用できるので、様々な活動を楽しむことができます。"
+        },
+        {
+            "question": "寧越中心部からMoon on the Cloudまでの移動距離はどのくらいですか？",
+            "answer": "寧越中心部からMoon on the Cloudまでの実際の移動距離は異なる場合がありますが、約15kmの距離です。"
+        }
+    ],
+    "word_Count": {
+        "text": 245,
+        "QA": 566
+    }
+}

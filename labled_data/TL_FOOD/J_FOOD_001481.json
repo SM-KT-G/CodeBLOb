@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001481",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/blue-moon-restaurant",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "BLUE MOON"
+    },
+    "text": "BLUE MOON\\n\n大邱広域市 東区 把溪路 685 )\\n\n八公山の中腹にある「BLUE MOON（ブルームーン）」では正統派ステーキやフュージョン料理を味わうことができます。また、公園散策路があるので、食後、澄んだ空気を満喫しながら散歩できます。",
+    "QA": [
+        {
+            "question": "ブルームーンはどこにありますか？",
+            "answer": "ブルームーンは、大邱広域市東区の把溪路685番地にあります。"
+        },
+        {
+            "question": "ブルームーンで食べられる料理は何ですか？",
+            "answer": "ブルームーンでは、正統派ステーキやフュージョン料理を味わうことができます。"
+        },
+        {
+            "question": "ブルームーンの周辺には何がありますか？",
+            "answer": "ブルームーンは八公山の中腹にあり、公園散策路もありますので、食後に散歩を楽しむことができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 93,
+        "QA": 123
+    }
+}

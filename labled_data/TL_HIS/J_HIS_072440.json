@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_072440",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/view?relicId=93361",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "병"
+    },
+    "text": "瓶 (병)\\n\n国籍/時代:「韓国の歴史を遡ると、どの時代に作られたかは不明ですが、」 材質:「このボトルは硬質の土で作られています。」 分類:「食生活に関連する道具であり、食べ物を保存や運搬するために使用されました」 大きさ:「このボトルは高さ151mm、着丈47mm、底径69mmという大きさです。」",
+    "QA": [
+        {
+            "question": "この瓶はどの時代に作られましたか？",
+            "answer": "韓国の歴史を遡ると、どの時代に作られたかは不明ですが、"
+        },
+        {
+            "question": "この瓶はどのような材質で作られていますか？",
+            "answer": "このボトルは硬質の土で作られています。"
+        },
+        {
+            "question": "この瓶はどのような分類に属していますか？",
+            "answer": "食生活に関連する道具であり、食べ物を保存や運搬するために使用されました"
+        },
+        {
+            "question": "この瓶の大きさはどれくらいですか？",
+            "answer": "このボトルは高さ151mm、着丈47mm、底径69mmという大きさです。"
+        }
+    ],
+    "word_Count": {
+        "text": 111,
+        "QA": 140
+    }
+}

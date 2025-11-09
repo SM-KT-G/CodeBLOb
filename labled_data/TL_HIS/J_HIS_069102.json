@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_069102",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/view?relicId=110404",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "백자 조각"
+    },
+    "text": "白磁器の欠片 (백자 조각)\\n\n韓国-朝鮮の時代には、白磁を使った陶磁器が広く使用されていました。これらの陶磁器は、食生活や料理における重要な役割を果たしていました。例えば、現在の高さ17.5cm、高台の高さは0.95cm、底径は4.8cmで、現在の高さが3cmで底径が6.2cmのような大きさで作られていました。",
+    "QA": [
+        {
+            "question": "白磁器はどのような役割を果たしていましたか？",
+            "answer": "白磁器は食生活や料理において重要な役割を果たしていました。"
+        },
+        {
+            "question": "白磁器の大きさはどのように作られていましたか？",
+            "answer": "白磁器は現在の高さ17.5cm、高台の高さは0.95cm、底径は4.8cmのような大きさで作られていました。"
+        },
+        {
+            "question": "白磁器の形状はどのように変化しましたか？",
+            "answer": "白磁器の形状は現在の高さが3cmで底径が6.2cmのような大きさに変化しました。"
+        }
+    ],
+    "word_Count": {
+        "text": 115,
+        "QA": 137
+    }
+}

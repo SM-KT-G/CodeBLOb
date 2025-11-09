@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_009447",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=249&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=13&ccbaAsno=02790000&ccbaCtcd=11&ccbaCpno=1331102790000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1981-09-25",
+        "domain": "문화/역사관광",
+        "title": "구 공업전습소 본관"
+    },
+    "text": "旧工業伝習所本館 (구 공업전습소 본관)\\n\nソウル鍾路区東崇洞169-1番地\\n\n1908年竣工 , 史跡 , 大韓帝国純宗隆熙2年(1908)に建設されたこの建物は、建片997㎡の2階建て木造で、当時の濁地部建築所で設計された。 当時の木造建物としては唯一残ったもので、壁はドイツ式鱗板であり、外形はルネサンス様式を模倣した。この建物は本来、転換国時代から機械試験所があった場所に1906年に工業伝習所が発足したことにより、その本館として建てられたものだ。 後日、国立工業試験院本館となり、再び通信大学で使用して今日に至る。 設計は旧韓国政府の濁支部建築所で担当し、施工は日本人吉田謙造が下支えした。 平面はH字型で中央部に玄関を置き、外壁は木のうろこ板であり、屋根は瓦継ぎだ。 特に中央玄関部上部には塔を置き、塔の上に半円球のドームを載せ、左右両側突出部1階と2階上部にはパラジオが好んで使ったディオクレチアンウィンドウ(Dioclentian window)を設置し、全体的にルネサンス時代のパラッツォ風(Palazzo風))を形成している。",
+    "QA": [
+        {
+            "question": "この建物はいつ竣工しましたか？",
+            "answer": "1908年"
+        },
+        {
+            "question": "この建物はどのような様式ですか？",
+            "answer": "ルネサンス様式"
+        },
+        {
+            "question": "この建物は何のために建てられましたか？",
+            "answer": "工業伝習所の本館として"
+        },
+        {
+            "question": "設計者と施工者は誰ですか？",
+            "answer": "設計：旧韓国政府の濁支部建築所、施工：吉田謙造"
+        },
+        {
+            "question": "この建物の特徴は何ですか？",
+            "answer": "木のうろこ板の外壁、瓦継ぎの屋根、ルネサンス時代のパラッツォ風のデザイン"
+        }
+    ],
+    "word_Count": {
+        "text": 349,
+        "QA": 115
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_019803",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/goods/GN0002155414?startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0%5E&npprmaxsort=min",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "남해 별담다애견동반펜션"
+    },
+    "text": "南海ビョルダムダペンションでは皆様を歓迎します。 私たちの人生には、時には静かな休息が必要な瞬間があります。 そんな時にはどこか遠くへ旅立ちたい欲求が湧きませんか？ そんな時、ビョルダムダペンションは皆さんに完璧な憩いの場になるでしょう。 私たちはまるで産物のように旅行になってくれるペンションです。",
+    "QA": [
+        {
+            "question": "南海ビョルダムダペンションでは何を提供していますか？",
+            "answer": "南海ビョルダムダペンションでは、静かな休息を提供しています。"
+        },
+        {
+            "question": "ビョルダムダペンションはどんな場所ですか？",
+            "answer": "ビョルダムダペンションは遠くへ旅立つための完璧な憩いの場です。"
+        },
+        {
+            "question": "ビョルダムダペンションはどのような産物ですか？",
+            "answer": "ビョルダムダペンションはまるで産物のように旅行になってくれるペンションです。"
+        }
+    ],
+    "word_Count": {
+        "text": 110,
+        "QA": 123
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_028930",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42040&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "여수 노블 호텔"
+    },
+    "text": "閑麗水道の始まり、美しい麗水旅行の安らかな憩いの場であるノーブルホテルは、長い道のりを歩んできた旅行者に安らぎを提供しています。 果てしなく広がる美しい慶尚道の沖合と漁村の全景が鑑賞でき、麗水市内圏に隣接して旅行の便利さを増してくれます。旅行者は麗水突山大橋、亀甲船大橋などのアクセスに優れた交通条件を楽しむことができます。",
+    "QA": [
+        {
+            "question": "ノーブルホテルはどこに位置していますか？",
+            "answer": "ノーブルホテルは麗水市内圏に隣接しています。"
+        },
+        {
+            "question": "ノーブルホテルからどのような風景が見えますか？",
+            "answer": "ノーブルホテルからは広がる美しい慶尚道の沖合と漁村の全景を楽しむことができます。"
+        },
+        {
+            "question": "ノーブルホテルの周辺にはどのような観光名所がありますか？",
+            "answer": "ノーブルホテルの周辺には麗水突山大橋や亀甲船大橋など、アクセスに優れた交通条件を楽しめる観光名所があります。"
+        },
+        {
+            "question": "ノーブルホテルは旅行者にどのような安らぎを提供していますか？",
+            "answer": "ノーブルホテルは長い道のりを歩んできた旅行者に安らぎを提供しています。"
+        },
+        {
+            "question": "ノーブルホテルはどのような旅行の便利さを増してくれますか？",
+            "answer": "ノーブルホテルは麗水市内圏に隣接しており、旅行の便利さを増してくれます。"
+        }
+    ],
+    "word_Count": {
+        "text": 118,
+        "QA": 232
+    }
+}

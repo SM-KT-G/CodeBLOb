@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_031184",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=823&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=00680000&ccbaCtcd=33&ccbaCpno=2333300680000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1984-12-31",
+        "domain": "문화/역사관광",
+        "title": "청주 최명길 묘소"
+    },
+    "text": "淸原 崔鳴吉 墓所 (청주 최명길 묘소)\\n\n清州市清原区北二面大栗里253-3\\n\n忠清北道記念物、朝鮮中期の文臣、池川崔明吉（1586~1674）の墓所だ。 かつてイ·ハンボク門下で学問を学び、文章と字に優れていた。 宣祖38年(1605)、文科に及第し、様々な官職を経た。 光海君6年(1614)明との問題で官職を剥奪され、1623年仁祖反正の功臣となり完成部員軍となった。 仁祖14年(1636)丙子胡乱の時、清と和議を結ぶことを主張して戦争を解決し、翌年に領議政に上がった。 墳丘が3基で、真ん中にある先生の墳丘の下には、周囲の石を囲んでいる。 墓所の前には神道碑(王や高官などの生涯業績を称えるために墓の近くの道端に建てた碑)があるが、粛宗28年(1702)に建てられたものだ。",
+    "QA": [
+        {
+            "question": "清原崔鳴吉墓所はどこにありますか？",
+            "answer": "清州市清原区北二面大栗里253-3にあります。"
+        },
+        {
+            "question": "崔鳴吉はどのような人物ですか？",
+            "answer": "崔鳴吉は朝鮮中期の文臣で、イ・ハンボク門下の学者でした。文章と字に優れており、様々な官職を経験しました。"
+        },
+        {
+            "question": "崔鳴吉の墓所には何がありますか？",
+            "answer": "崔鳴吉の墓所には3つの墳丘があります。真ん中の墳丘の下には周囲の石で囲まれています。また、墓所の前には神道碑があります。"
+        },
+        {
+            "question": "崔鳴吉はどのような功績を残しましたか？",
+            "answer": "崔鳴吉は仁祖反正の功臣であり、丙子胡乱の時には戦争解決のために清と和議を結ぶことを主張しました。その後、領議政に上がりました。"
+        }
+    ],
+    "word_Count": {
+        "text": 253,
+        "QA": 194
+    }
+}

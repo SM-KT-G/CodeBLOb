@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_014990",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-06",
+        "domain": "음식점",
+        "title": "ヨンスナック ( 영스낵 )"
+    },
+    "text": "ヨンスナック ( 영스낵 )\\n\nソウル特別市 蘆原区 ハングルビソクロ245\\n\n20年の伝統を誇るトッポッキが食べられる店です。おすすめはトッポッキです。ソウル特別市のノウォン区に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "ヨンスナックはどこにありますか？",
+            "answer": "ヨンスナックはソウル特別市 蘆原区に位置しています。"
+        },
+        {
+            "question": "ヨンスナックは何を提供していますか？",
+            "answer": "ヨンスナックでは、20年の伝統を誇るトッポッキが食べられます。特におすすめはトッポッキです。"
+        },
+        {
+            "question": "ヨンスナックの特徴は何ですか？",
+            "answer": "ヨンスナックは韓食専門店で、ソウル特別市のノウォン区に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 76,
+        "QA": 114
+    }
+}

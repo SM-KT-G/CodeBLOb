@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_060854",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/view?relicId=37749",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "도기 조각"
+    },
+    "text": "陶器片 (도기 조각)\\n\n国籍/時代: 韓国の高麗時代 材質: 硬質の土 分類: 食生活の一環であり、食べ物と関係する 大きさ: 現在の長さは11.7cm、幅は9.3cm、また現在の長さは406cm、幅は4.2cmである。",
+    "QA": [
+        {
+            "question": "この陶器片はどこの国のものですか？",
+            "answer": "この陶器片は韓国の高麗時代のものです。"
+        },
+        {
+            "question": "この陶器片は何の材料で作られていますか？",
+            "answer": "この陶器片は硬質の土で作られています。"
+        },
+        {
+            "question": "この陶器片は何に分類されますか？",
+            "answer": "この陶器片は食生活の一環であり、食べ物と関係するものです。"
+        },
+        {
+            "question": "この陶器片の大きさは何ですか？",
+            "answer": "現在の陶器片の大きさは長さが11.7cm、幅が9.3cmです。"
+        },
+        {
+            "question": "この陶器片の元の大きさは何でしたか？",
+            "answer": "元の陶器片の大きさは長さが406cm、幅が4.2cmでした。"
+        }
+    ],
+    "word_Count": {
+        "text": 82,
+        "QA": 156
+    }
+}

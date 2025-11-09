@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_036557",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1173&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=05930000&ccbaCtcd=37&ccbaCpno=3413705930000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2012-06-11",
+        "domain": "문화/역사관광",
+        "title": "청송향교"
+    },
+    "text": "青松郷校 (청송향교)\\n\n慶尚北道青松郡青松邑月幕里251-1外5\\n\n慶尚北道文化財資料、青松郷校は朝鮮中期の時、現地に移建した建物で、後に多くの建築的変化を持っている郷校だ。 大成殿は上部家具やサルミの姿から1600~1700年代の姿を多く持っているものと見られる。 また、大成門は建築年代は分からず、小さな規模だが構造的に細かく配慮されており、特色ある姿で建築的価値があると見られる。",
+    "QA": [
+        {
+            "question": "この青松郷校はいつ建てられましたか？",
+            "answer": "青松郷校は朝鮮中期の時に建てられました。"
+        },
+        {
+            "question": "青松郷校はどのような建物ですか？",
+            "answer": "青松郷校は慶尚北道文化財資料であり、後に多くの建築的変化を持つ郷校です。"
+        },
+        {
+            "question": "大成殿はいつの時代の姿を持っていますか？",
+            "answer": "大成殿は1600年代から1700年代の姿を多く持っているものと見られています。"
+        },
+        {
+            "question": "大成門はどのような特徴がありますか？",
+            "answer": "大成門は建築年代は分からないものの、細かく配慮された特色ある姿を持つ小さな規模の門です。"
+        }
+    ],
+    "word_Count": {
+        "text": 143,
+        "QA": 154
+    }
+}

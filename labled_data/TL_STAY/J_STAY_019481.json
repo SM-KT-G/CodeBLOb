@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_019481",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42030&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "상주 맥스(MAX)"
+    },
+    "text": "禁煙客室と環境にやさしい宿として紹介されるこの宿は、新型コロナウイルス感染症の安全宿舎としても認証されました。 新型コロナウイルス感染症に対する消毒防疫は必須で、シートも交換されます。 ヤノルジャ会員に与えられるお知らせで、オンシーズンや特定日、祝日(前日含む)は料金が変動する場合がありますのでご注意ください。 また、入室の際には身分証明書を確認し、未成年者の場合は入室が制限される場合がありますので、身分証明書を必ず持参してください。",
+    "QA": [
+        {
+            "question": "この宿は何で認証されましたか？",
+            "answer": "新型コロナウイルス感染症の安全宿舎として認証されました。"
+        },
+        {
+            "question": "新型コロナウイルス感染症に対する消毒防疫はどのように行われますか？",
+            "answer": "消毒防疫は必須です。シートも交換されます。"
+        },
+        {
+            "question": "ヤノルジャ会員にとって注意すべきことはありますか？",
+            "answer": "オンシーズンや特定日、祝日(前日含む)は料金が変動する場合がありますのでご注意ください。"
+        },
+        {
+            "question": "入室の際に必要なものはありますか？",
+            "answer": "入室の際には身分証明書を確認し、未成年者の場合は入室が制限される場合がありますので、身分証明書を必ず持参してください。"
+        }
+    ],
+    "word_Count": {
+        "text": 160,
+        "QA": 177
+    }
+}

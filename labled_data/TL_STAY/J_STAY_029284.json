@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_029284",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-02-03",
+        "domain": "숙박",
+        "title": "火旺山SPAホテル（旧ガーデン観光ホテル）（화왕산스파호텔（구 가든 관광호텔））"
+    },
+    "text": "火旺山SPAホテル（旧ガーデン観光ホテル）（화왕산스파호텔（구 가든 관광호텔））\\n\n慶尚南道 昌寧郡 釜谷面 温泉1キル3\\n\n火旺山SPAホテルは、密陽駅から車で30分の所にあり、サウナ、セミナー室、キッズランドなどの施設が備えられています。",
+    "QA": [
+        {
+            "question": "火旺山SPAホテルはどこにありますか？",
+            "answer": "火旺山SPAホテルは慶尚南道昌寧郡釜谷面温泉1キル3にあります。"
+        },
+        {
+            "question": "火旺山SPAホテルはどのくらいの距離にありますか？",
+            "answer": "火旺山SPAホテルは密陽駅から車で30分の距離にあります。"
+        },
+        {
+            "question": "火旺山SPAホテルにはどんな施設がありますか？",
+            "answer": "火旺山SPAホテルにはサウナ、セミナー室、キッズランドなどの施設があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 90,
+        "QA": 121
+    }
+}

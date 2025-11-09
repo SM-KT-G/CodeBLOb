@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_079485",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ja",
+        "translator": null,
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101971",
+        "collectedDate": "2023-09-07",
+        "publishedDate": "2021-11-22",
+        "domain": "문화/역사관광",
+        "title": "三聖閣"
+    },
+    "text": "三聖閣\n三聖閣  三聖閣の内部には三聖幀画・七星幀画・独聖幀画を安置していますが、三聖とは指空僧侶・懶翁僧侶・無学僧侶で、彼らは全て高麗時代以来尊敬された高僧です。三聖閣は、三聖を祀る目的のほかにも、人間の長寿と福、理知の悟りを願う複合的機能を持つ建物です。",
+    "QA": [
+        {
+            "question": "三聖閣に安置されている幀画は何ですか？",
+            "answer": "三聖閣には三聖幀画・七星幀画・独聖幀画が安置されています。"
+        },
+        {
+            "question": "三聖とは何を指しますか？",
+            "answer": "三聖とは空僧侶・懶翁僧侶・無学僧侶を指し、彼らは高麗時代以来尊敬された高僧です。"
+        },
+        {
+            "question": "三聖閣の建物はどのような機能を持っていますか？",
+            "answer": "三聖閣は、三聖を祀る目的のほかにも、人間の長寿と福、理知の悟りを願う複合的機能を持つ建物です。"
+        }
+    ],
+    "word_Count": {
+        "text": 94,
+        "QA": 124
+    }
+}

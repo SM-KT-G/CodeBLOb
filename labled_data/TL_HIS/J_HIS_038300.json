@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_038300",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=822&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=00650000&ccbaCtcd=50&ccbaCpno=2333900650000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2009-07-29",
+        "domain": "문화/역사관광",
+        "title": "의귀리 김만일묘역"
+    },
+    "text": "衣貴里金萬鎰墓域 (의귀리 김만일묘역)\\n\n南原邑義貴里1773番地\\n\n済州特別自治道記念物、朝鮮中期の献馬功臣·金満一墳墓は比較的正確な築造時期を知ることができ、17世紀の済州墳墓の山塀と墳丘の築造様式および構造を把握することができる資料である。 墓域内には同一時期と推定される墳丘1基、混遊石1基、碑石1基、文人石2基などがあり、文人石はトルハルバンのような形の済州型で済州固有の石造物文化を明らかにするのに重要資料となる。憲馬功臣キム·マンイルは1592年から仁祖代(1623~1649)にかけて続いた戦争当時、自らの済州馬を数次国家に献納し「憲馬功臣」という称号を受けた。 地位は従二品嘉善大夫五衛都総府都総管、続いて従一品崇政大夫まで達し、その子孫たちは孝宗9年(1658)から高宗32年(1895)までキム·マンイルの馬牧場をはじめとする山馬場の監牧官を世襲していった。",
+    "QA": [
+        {
+            "question": "この墓域はどのような場所にありますか？",
+            "answer": "衣貴里金萬鎰墓域は南原邑に位置しています。"
+        },
+        {
+            "question": "この墓域はどのような記念物ですか？",
+            "answer": "衣貴里金萬鎰墓域は済州特別自治道の記念物であり、朝鮮中期の献馬功臣・金満一の墳墓です。"
+        },
+        {
+            "question": "この墓域にはどのような建造物がありますか？",
+            "answer": "墓域内には墳丘1基、混遊石1基、碑石1基、文人石2基などがあります。"
+        },
+        {
+            "question": "文人石とはどのようなものですか？",
+            "answer": "文人石は済州固有の石造物文化を明らかにするための重要な資料で、トルハルバンのような形の済州型の石造物です。"
+        },
+        {
+            "question": "金満一はどのような功績を持っていた人物ですか？",
+            "answer": "金満一は戦争当時、自らの済州馬を国家に献納し「憲馬功臣」という称号を受けた人物です。その後、高い地位にまで昇進し、子孫たちも馬牧場の監牧官を世襲していきました。"
+        }
+    ],
+    "word_Count": {
+        "text": 288,
+        "QA": 239
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_020644",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "明洞ソットゥコン ( 명동솥뚜껑 )"
+    },
+    "text": "明洞ソットゥコン ( 명동솥뚜껑 )\\n\nソウル特別市 中区 明洞7キル 14-4\\n\n韓国の代表料理の一つであるキムチで作ったスープ料理と、豚肉焼きの両方が味わえる店です。 代表的なメニューはサムギョプサルです。ソウル特別市の中区に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "明洞ソットゥコンはどのような料理が楽しめるお店ですか？",
+            "answer": "明洞ソットゥコンは、キムチで作ったスープ料理と豚肉焼きの両方が味わえるお店です。代表的なメニューはサムギョプサルです。"
+        },
+        {
+            "question": "明洞ソットゥコンの場所はどこですか？",
+            "answer": "明洞ソットゥコンはソウル特別市中区の明洞7キルに位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 94,
+        "QA": 99
+    }
+}

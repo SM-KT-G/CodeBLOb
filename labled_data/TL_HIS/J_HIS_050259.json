@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_050259",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=187&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=17440000&ccbaCtcd=37&ccbaCpno=1123717440000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2011-12-30",
+        "domain": "문화/역사관광",
+        "title": "경주 불국사 대웅전"
+    },
+    "text": "朝鮮時代、慶州・仏国寺は宝とされる寺で、西側の麓に位置している。地形は、北朝鮮側が高く、南側が低く、東側が高く、西側が低い石垣で構成された。大雄殿は中央捜査と保守を経て現在の姿を備えており、八角を基本とした典型的な統一新羅石灯籠で飾られている。外観は華やかな彫刻と文様で飾られており、大雄殿の基壇には統一新羅時代の世帯式基壇である。大雄殿は再建された後に一度の修理と重唱が行われて現在まで保存されてきた。",
+    "QA": [
+        {
+            "question": "慶州・仏国寺はどこに位置していますか？",
+            "answer": "慶州・仏国寺は西側の麓に位置しています。"
+        },
+        {
+            "question": "慶州・仏国寺の地形はどのようになっていますか？",
+            "answer": "慶州・仏国寺の地形は、北朝鮮側が高く、南側が低く、東側が高く、西側が低い石垣で構成されています。"
+        },
+        {
+            "question": "慶州・仏国寺の大雄殿はどのような特徴がありますか？",
+            "answer": "慶州・仏国寺の大雄殿は八角を基本とした典型的な統一新羅石灯籠で飾られており、華やかな彫刻と文様で飾られています。"
+        },
+        {
+            "question": "慶州・仏国寺の大雄殿の基壇は何時代のものですか？",
+            "answer": "慶州・仏国寺の大雄殿の基壇は統一新羅時代の世帯式基壇です。"
+        },
+        {
+            "question": "慶州・仏国寺の大雄殿は何度修理や重彫が行われましたか？",
+            "answer": "慶州・仏国寺の大雄殿は再建された後に一度の修理と重彫が行われました。"
+        }
+    ],
+    "word_Count": {
+        "text": 148,
+        "QA": 223
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_003224",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-01",
+        "domain": "음식점",
+        "title": "ウリソ ( 우리소 )"
+    },
+    "text": "ウリソ \n忠清北道 堤川市 奈吐路7キル 7\n最上級1++絶品の韓牛のみを提供しています。 代表的なメニューは霜降り牛ロースです。忠淸北道のジェチョン市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "このレストランの場所はどこですか？",
+            "answer": "このレストランは忠清北道の堤川市奈吐路7キル7に位置しています。"
+        },
+        {
+            "question": "このレストランの特徴的なメニューは何ですか？",
+            "answer": "このレストランでは最上級の1++絶品の韓牛のみを提供しています。特に代表的なメニューは霜降り牛ロースです。"
+        },
+        {
+            "question": "このレストランはどのような料理を提供していますか？",
+            "answer": "このレストランは韓国料理を専門としており、最上級の韓牛を使った料理を提供しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 65,
+        "QA": 140
+    }
+}

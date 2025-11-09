@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_031470",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42010&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "남양주 진우네펜션"
+    },
+    "text": "こんにちは。ナミャンジュのジヌネペンションです。 我が宿泊施設は居心地の良い快適な空間を提供するために努力しています。 ご利用のお客様の便宜のために愛犬運動場と個別テラスを保有しており、ペットと一緒に快適な時間を過ごすことができます。 また、便宜事項としてお知らせします。 22時以降に入室される場合は、予めご連絡いただければ幸いです。 また、17時以降に当日予約される場合も予めご連絡ください。 お客様の便宜のために最善を尽くします。 ありがとうございます。",
+    "QA": [
+        {
+            "question": "Q: ペンションの施設はどのような環境ですか？",
+            "answer": "A: ナミャンジュのジヌネペンションは居心地の良い快適な空間を提供しています。"
+        },
+        {
+            "question": "Q: ペットと一緒に宿泊することはできますか？",
+            "answer": "A: はい、愛犬運動場と個別テラスを保有しており、ペットと一緒に快適な時間を過ごすことができます。"
+        },
+        {
+            "question": "Q: 入室時間に制限はありますか？",
+            "answer": "A: 22時以降に入室される場合は、予めご連絡いただければ幸いです。また、17時以降に当日予約される場合も予めご連絡ください。"
+        },
+        {
+            "question": "Q: 予約が必要ですか？",
+            "answer": "A: はい、予約をしていただくことでお客様の便宜のために最善を尽くします。"
+        }
+    ],
+    "word_Count": {
+        "text": 168,
+        "QA": 192
+    }
+}

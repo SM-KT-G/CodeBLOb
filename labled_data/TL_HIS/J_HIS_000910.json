@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_000910",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2022-04-14",
+        "domain": "문화/역사관광",
+        "title": "BUSAN X the SKY（부산엑스더스카이）"
+    },
+    "text": "BUSAN X the SKY\n釜山広域市 海雲台区 タルマジキル 30 LCTランドマークタワー 98～100階\nBUSAN X the SKY（釜山エックスザスカイ）は韓国で2番目に高い（411.6メートル）海雲台LCTランドマークタワーに位置しており、シーサイドビューとシティービューが同時に楽しめる韓国最大規模の展望台です。海雲台ビーチと都市の夜景、広安大橋、釜山港大橋、二妓台、タルマジゴゲ（月見峠）、冬柏島など釜山の名所が一望できるパノラミックオーシャンビューを誇るだけでなく、リラックス空間「X the LOUNGE」、特別な思い出を残す「X the PHOTO／X the GIFT」などを備えています。",
+    "QA": [
+        {
+            "question": "BUSAN X the SKYはどこに位置していますか？",
+            "answer": "BUSAN X the SKYは釜山広域市海雲台区タルマジキル30のLCTランドマークタワー98～100階に位置しています。"
+        },
+        {
+            "question": "BUSAN X the SKYはどのくらいの高さですか？",
+            "answer": "BUSAN X the SKYは411.6メートルで、韓国で2番目に高い展望台です。"
+        },
+        {
+            "question": "BUSAN X the SKYからはどのような景色を楽しむことができますか？",
+            "answer": "BUSAN X the SKYからは海雲台ビーチや都市の夜景、広安大橋、釜山港大橋、二妓台、タルマジゴゲ（月見峠）、冬柏島など、釜山の名所が一望できるパノラミックオーシャンビューを楽しむことができます。"
+        },
+        {
+            "question": "BUSAN X the SKYにはどのような施設がありますか？",
+            "answer": "BUSAN X the SKYにはリラックス空間「X the LOUNGE」や特別な思い出を残す「X the PHOTO／X the GIFT」などの施設があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 227,
+        "QA": 302
+    }
+}

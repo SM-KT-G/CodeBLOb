@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_073028",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/collectionList#######",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "봄의 물결"
+    },
+    "text": "春の波 (봄의 물결)\\n\n緑の表紙を持つこの本は、安益泰さんが所蔵する日本の書物です。この本は日本で書かれ、1945年以降に出版されました。紙の材質は日向です。作者は水上勉さんで、分類は文化芸術の一環である文学の中の小説です。本のサイズは横135cm、縦192cm、高さ17cmです。",
+    "QA": [
+        {
+            "question": "この本は誰が所蔵していますか？",
+            "answer": "この本は安益泰さんが所蔵しています。"
+        },
+        {
+            "question": "この本はいつ出版されましたか？",
+            "answer": "この本は1945年以降に出版されました。"
+        },
+        {
+            "question": "この本の紙の材質は何ですか？",
+            "answer": "この本の紙の材質は日向です。"
+        },
+        {
+            "question": "この本の作者は誰ですか？",
+            "answer": "この本の作者は水上勉さんです。"
+        },
+        {
+            "question": "この本はどの分類に属していますか？",
+            "answer": "この本は文化芸術の一環である文学の中の小説です。"
+        },
+        {
+            "question": "この本のサイズは何ですか？",
+            "answer": "この本のサイズは横135cm、縦192cm、高さ17cmです。"
+        }
+    ],
+    "word_Count": {
+        "text": 104,
+        "QA": 152
+    }
+}

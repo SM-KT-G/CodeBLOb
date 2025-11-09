@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_020755",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-05",
+        "domain": "음식점",
+        "title": "名品館 順天湾 ( 명품관 순천만 )"
+    },
+    "text": "名品館 順天湾 ( 명품관 순천만 )\n全羅南道 順天市 スンチョンマンギル67\n様々な韓牛を直接選べる韓牛精肉食堂です。全羅南道のスンチョン市に位置した韓食専門店です。おすすめは韓牛焼きです。",
+    "QA": [
+        {
+            "question": "この名品館はどこに位置していますか？",
+            "answer": "名品館は全羅南道順天市に位置しています。"
+        },
+        {
+            "question": "名品館でおすすめのメニューは何ですか？",
+            "answer": "名品館でおすすめのメニューは韓牛焼きです。"
+        },
+        {
+            "question": "名品館ではどのような韓牛を選ぶことができますか？",
+            "answer": "名品館では様々な韓牛を直接選ぶことができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 71,
+        "QA": 91
+    }
+}

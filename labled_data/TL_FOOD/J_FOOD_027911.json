@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_027911",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2023-08-02",
+        "domain": "음식점",
+        "title": "최소한끼"
+    },
+    "text": "最低一食 (최소한끼)\\n\n全羅南道木浦市栄山路20(大儀洞3街)\\n\n「多様な食性を持つ人々が調和した食卓文化を作ってみよう」という考えが集まって作られたビーガン食堂です。健康で美味しい食事を食べてほしいという願いから、季節ごとに旬の野菜を使った料理を提供しています。",
+    "QA": [
+        {
+            "question": "最低一食はどのような食堂ですか？",
+            "answer": "最低一食はビーガン食堂で、多様な食性を持つ人々が調和した食卓文化を作ることを目指しています。季節ごとに旬の野菜を使った料理を提供しています。"
+        },
+        {
+            "question": "最低一食の場所はどこですか？",
+            "answer": "最低一食は全羅南道木浦市栄山路20(大儀洞3街)にあります。"
+        },
+        {
+            "question": "最低一食の料理はどのようなものがありますか？",
+            "answer": "最低一食では健康で美味しい料理を提供しています。季節ごとに旬の野菜を使った料理を楽しむことができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 99,
+        "QA": 148
+    }
+}

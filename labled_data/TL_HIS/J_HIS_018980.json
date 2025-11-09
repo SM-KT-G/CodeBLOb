@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_018980",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=751&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=22&ccbaAsno=00530000&ccbaCtcd=35&ccbaCpno=2223500530000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "부거리옹기장"
+    },
+    "text": "釜ゴリ甕器場 (부거리옹기장)\\n\n全羅北道無形文化財 , 金堤市白山面釜居里で甕器作りに邁進している甕器職人アン·シソン氏は1992年、釜居里甕器村に甕器作りに名望が高かった故ピョン·ドンスン先生に伝統作業方式と甕器職人としての精神を師事され、国内唯一保存されている釜居里甕器窯と作業場を20年以上守ってきて国家登録文化財に指定されるのに寄与し、金堤釜居里で伝承されてきた伝統製作方式をそのまま再現すると同時に、実生活に必要な商品開発にも絶え間ない研究を続けてきた人物だ。また、過去の儒教社会身分制の産物として、甕器窯に対する村人の否定的認識を各種文化行事を主催し、次第に村人たちと共にする和合の雰囲気を造成するのに寄与している甕器職人だ。",
+    "QA": [
+        {
+            "question": "この甕器職人の名前は何ですか？",
+            "answer": "アン·シソン氏です。"
+        },
+        {
+            "question": "アン·シソン氏はどのように甕器の作り方を学びましたか？",
+            "answer": "故ピョン·ドンスン先生から伝統作業方式と甕器職人としての精神を師事されました。"
+        },
+        {
+            "question": "アン·シソン氏が守っている釜居里甕器窯と作業場は何年以上存在していますか？",
+            "answer": "20年以上存在しています。"
+        },
+        {
+            "question": "アン·シソン氏の研究は何に焦点を当てていますか？",
+            "answer": "伝統製作方式の再現と実生活に必要な商品開発に焦点を当てています。"
+        },
+        {
+            "question": "アン·シソン氏はどのように甕器窯に対する村人の認識を変えたのですか？",
+            "answer": "各種文化行事を主催し、村人たちと共にする和合の雰囲気を造成することで、否定的な認識を変えました。"
+        }
+    ],
+    "word_Count": {
+        "text": 235,
+        "QA": 204
+    }
+}

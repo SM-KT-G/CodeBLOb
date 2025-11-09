@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_007377",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-06",
+        "domain": "음식점",
+        "title": "サンダリ技士食堂 ( 쌍다리기사식당 )"
+    },
+    "text": "サンダリ技士食堂 ( 쌍다리기사식당 )\\n\nソウル特別市 城北区 ソンブクロ23ギル4\\n\n手頃な価格で食べられる店で、地元民もよく行く名店です。代表的なメニューは豚プルゴギです。ソウル特別市のソンブク区に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "ソウル特別市のソンブク区のソンブクロ23ギル4にあります。"
+        },
+        {
+            "question": "この店の代表的なメニューは何ですか？",
+            "answer": "この店の代表的なメニューは豚プルゴギです。"
+        },
+        {
+            "question": "この店はどのような価格帯ですか？",
+            "answer": "この店は手頃な価格で食べられる店です。"
+        },
+        {
+            "question": "この店は地元民に人気ですか？",
+            "answer": "はい、この店は地元民にもよく行かれる名店です。"
+        }
+    ],
+    "word_Count": {
+        "text": 85,
+        "QA": 112
+    }
+}

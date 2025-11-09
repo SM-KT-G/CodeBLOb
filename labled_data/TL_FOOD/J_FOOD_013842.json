@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_013842",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-09-01",
+        "domain": "음식점",
+        "title": "マチョマラ ( 마쵸마라 )"
+    },
+    "text": "マチョマラ ( 마쵸마라 )\\n\nソウル特別市 鐘路区 鐘路8キル 5\\n\n辛い料理が好きな韓国人の間で流行っている「麻辣料理」を取り扱っています。代表的なメニューは麻辣湯です。ソウル特別市のジョンノ区に位置した中華料理屋です。",
+    "QA": [
+        {
+            "question": "この中華料理屋の名前は何ですか？",
+            "answer": "マチョマラ（마쵸마라）です。"
+        },
+        {
+            "question": "この中華料理屋はどこに位置していますか？",
+            "answer": "ソウル特別市の鐘路区鐘路8キル5に位置しています。"
+        },
+        {
+            "question": "麻辣料理とはどのような料理ですか？",
+            "answer": "麻辣料理は辛い料理のことで、特に韓国人の間で人気です。代表的なメニューは麻辣湯です。"
+        }
+    ],
+    "word_Count": {
+        "text": 83,
+        "QA": 98
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_040537",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42021&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "그랜드 엘시티 레지던스"
+    },
+    "text": "Grand LCT Residenceは、韓国初の5つ星クラスのラグジュアリーレジデンスで提供される品格のある宿泊型施設です。 この宿泊施設は101階のLCTタワーで私たちの日常を休暇にしてくれます。 全客室はオーシャンビューを誇り、海と空を一望できます。 また、広安大橋、椿島、萇山シティ、タルマジ峠などの名所も鑑賞できます。 グランドLCT Residenceのインテリアは品格があり、快適さを追求し、先端施設が揃っています。 チェックインは16:00時以降で、チェックアウトは11:00時以前です。 客室は2Bedroom(50坪台)と3Bedroom(66~80坪台)に分かれています。 追加の寝具はお一人様44,000ウォンの料金が加算され、駐車は事前登録が必要です。 客室内には家電製品と必要な施設が備わっており、客室内で発生する紛失や破損は追加費用が決済されます。 この宿では客室内での騒乱行為は控え、喫煙は禁止されます。 また、火災の危険性があるため、引火性物質や花火、バーナーなどの使用は禁止され、ペットと一緒に宿泊することはできません。 最後に退室前にはキッチンの整理と分別をお願いします。",
+    "QA": [
+        {
+            "question": "グランドLCT Residenceはどのような施設ですか？",
+            "answer": "グランドLCT Residenceは韓国初の5つ星クラスのラグジュアリーレジデンスで、品格のある宿泊型施設です。"
+        },
+        {
+            "question": "グランドLCT Residenceの客室はどのような特徴がありますか？",
+            "answer": "グランドLCT Residenceの全客室はオーシャンビューで、海と空を一望できます。また、広安大橋、椿島、萇山シティ、タルマジ峠などの名所も鑑賞できます。"
+        },
+        {
+            "question": "グランドLCT Residenceのインテリアはどのようなものですか？",
+            "answer": "グランドLCT Residenceのインテリアは品格があり、快適さを追求しています。また、先端施設も揃っています。"
+        },
+        {
+            "question": "グランドLCT Residenceのチェックインとチェックアウトの時間は何時ですか？",
+            "answer": "グランドLCT Residenceのチェックインは16:00時以降で、チェックアウトは11:00時以前です。"
+        },
+        {
+            "question": "グランドLCT Residenceではどのような客室が提供されていますか？",
+            "answer": "グランドLCT Residenceでは2Bedroom(50坪台)と3Bedroom(66~80坪台)の客室が提供されています。"
+        },
+        {
+            "question": "グランドLCT Residenceでの追加の寝具や駐車はどのように手続きすればよいですか？",
+            "answer": "グランドLCT Residenceでの追加の寝具はお一人様44,000ウォンの料金が加算されます。駐車は事前登録が必要です。"
+        },
+        {
+            "question": "グランドLCT Residenceの客室内にはどのような設備が備わっていますか？",
+            "answer": "グランドLCT Residenceの客室内には家電製品と必要な施設が備わっています。"
+        },
+        {
+            "question": "グランドLCT Residenceでの紛失や破損はどのような対応がされますか？",
+            "answer": "グランドLCT Residenceで客室内で発生する紛失や破損は追加費用が決済されます。"
+        },
+        {
+            "question": "グランドLCT Residenceでの客室内でのルールはありますか？",
+            "answer": "グランドLCT Residenceでは客室内での騒乱行為は控えるようお願いしています。また、喫煙は禁止されています。"
+        },
+        {
+            "question": "グランドLCT Residenceでの使用禁止物品やペットの宿泊は可能ですか？",
+            "answer": "グランドLCT Residenceでは火災の危険性があるため、引火性物質や花火、バーナーなどの使用は禁止されています。また、ペットと一緒に宿泊することはできません。"
+        },
+        {
+            "question": "グランドLCT Residenceの退室時には何か注意事項がありますか？",
+            "answer": "グランドLCT Residenceの退室前にはキッチンの整理と分別をお願いしています。"
+        }
+    ],
+    "word_Count": {
+        "text": 370,
+        "QA": 770
+    }
+}

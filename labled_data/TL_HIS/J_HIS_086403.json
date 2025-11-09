@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_086403",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/collectionList#######",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2023-10-11",
+        "domain": "문화/역사관광",
+        "title": "신선을 그린 그림"
+    },
+    "text": "神仙を描いた絵 (신선을 그린 그림)\\n\n国籍/時代:「日本の江戸時代」です。材質は「絹」で作られています。この絵は「文化芸術の一環としての書画の一般絵画」として分類されます。大きさは、縦198.9cm、横68.6cm、軸長74.9cmです。",
+    "QA": [
+        {
+            "question": "絵は何を描いていますか？",
+            "answer": "神仙を描いています。"
+        },
+        {
+            "question": "絵はどの時代のものですか？",
+            "answer": "江戸時代の絵です。"
+        },
+        {
+            "question": "絵はどのような材料で作られていますか？",
+            "answer": "絹で作られています。"
+        },
+        {
+            "question": "絵の大きさはどれくらいですか？",
+            "answer": "縦198.9cm、横68.6cm、軸長74.9cmです。"
+        },
+        {
+            "question": "この絵はどのように分類されますか？",
+            "answer": "文化芸術の一環としての書画の一般絵画として分類されます。"
+        }
+    ],
+    "word_Count": {
+        "text": 89,
+        "QA": 118
+    }
+}

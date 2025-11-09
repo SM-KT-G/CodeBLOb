@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_027173",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.goodchoice.kr/product/detail?ano=5801&adcno=1&sel_date=2023-11-07&sel_date2=2023-11-08",
+        "collectedDate": "2023-11-15",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "무안 오늘호텔"
+    },
+    "text": "駐車場情報:計40台の駐車施設があります。 客室内部の設備 : 客室には羽毛寝具類とコネクテッドブランク、M04ダンロプラテックスマットレスがあります。 また、58インチのスマートテレビを利用してNetflixを無料で視聴できます。 フロントおよびその他の施設:施設には屋内外の駐車場があり、最大40台の車を駐車できます。",
+    "QA": [
+        {
+            "question": "駐車場は何台分ありますか？",
+            "answer": "駐車場は最大40台の車を駐車できます。"
+        },
+        {
+            "question": "客室の寝具には何が用意されていますか？",
+            "answer": "客室には羽毛寝具類とコネクテッドブランク、M04ダンロプラテックスマットレスがあります。"
+        },
+        {
+            "question": "客室ではどのようなテレビが利用できますか？",
+            "answer": "客室では58インチのスマートテレビを利用してNetflixを無料で視聴できます。"
+        },
+        {
+            "question": "施設には何台の駐車スペースがありますか？",
+            "answer": "施設には最大40台の車を駐車できる屋内外の駐車場があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 118,
+        "QA": 151
+    }
+}

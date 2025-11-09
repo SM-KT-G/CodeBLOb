@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_114810",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=506&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=01740000&ccbaCtcd=33&ccbaCpno=2113301740000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1993-11-05",
+        "domain": "문화/역사관광",
+        "title": "청주 서기사 석조약사여래좌상"
+    },
+    "text": "清州書記寺石造薬師如来坐像\\n\n清原区栗梁洞山91-1\\n\n高麗時代、忠清北道有形文化財、忠清北道清州市上党区栗陽洞書士にある仏像で左手に薬の器を持っていて衆生の病の苦痛から離れさせてくれという薬師仏を形象化したことを知ることができる。体の後ろの光背(光背)は、別に作っており、首は折れていたものをセメントで補強しておいた。頭の上には常套の形の頭の束が低くそびえており、顔には、プリプリている。堂々とした肩には左にのみ服がわたっていて平行線を成す服のしわを描きながら手首と膝の下まで覆っている。太った胸は、露出が多く、乳首が事実的に表現されて注目され、手の形は、右手エッジ上が地に向かっている。作られた連帯は高麗時代と推定され、全高は86㎝、肩幅は42センチだ。",
+    "QA": [
+        {
+            "question": "この薬師如来坐像は何時代のものですか？",
+            "answer": "高麗時代のものです。"
+        },
+        {
+            "question": "薬師如来坐像はどのような姿勢で座っていますか？",
+            "answer": "左手に薬の器を持っていています。"
+        },
+        {
+            "question": "この仏像の高さは何センチですか？",
+            "answer": "全高は86㎝です。"
+        },
+        {
+            "question": "薬師如来坐像の肩幅は何センチですか？",
+            "answer": "肩幅は42センチです。"
+        },
+        {
+            "question": "薬師如来坐像は何を象徴していますか？",
+            "answer": "薬師仏を象徴しており、衆生の病の苦痛から離れさせてくれるとされています。"
+        },
+        {
+            "question": "この仏像はどのような補強がされていますか？",
+            "answer": "首は折れていたものをセメントで補強してあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 242,
+        "QA": 162
+    }
+}

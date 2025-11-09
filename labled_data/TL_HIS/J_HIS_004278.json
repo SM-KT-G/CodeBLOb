@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_004278",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101933",
+        "collectedDate": "2023-10-06",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "덕산항"
+    },
+    "text": "トクサンハン \\n\nトクサンハンは次のことを指す言葉だ。三陟市近徳面徳山里にある国家漁港である。 チュンは全羅南道高興郡桃花面徳中里にある小規模漁港である。 チョンランは全羅南道長興郡会津面徳山里にある小規模漁港である。\\n\n",
+    "QA": [
+        {
+            "question": "トクサンハンはどこにありますか？",
+            "answer": "トクサンハンは三陟市近徳面徳山里にあります。"
+        },
+        {
+            "question": "チュンはどこにありますか？",
+            "answer": "チュンは全羅南道高興郡桃花面徳中里にあります。"
+        },
+        {
+            "question": "チョンランはどこにありますか？",
+            "answer": "チョンランは全羅南道長興郡会津面徳山里にあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 82,
+        "QA": 83
+    }
+}

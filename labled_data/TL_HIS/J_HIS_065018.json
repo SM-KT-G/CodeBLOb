@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_065018",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1101&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=02450000&ccbaCtcd=37&ccbaCpno=3413702450000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1991-05-14",
+        "domain": "문화/역사관광",
+        "title": "묵헌종택"
+    },
+    "text": "ムコン・ジョンテク\\n\n慶尚北道漆谷郡石田路3ギル13-5(倭館邑)\\n\n朝鮮、慶尚北道文化財資料、ムクホンイマンウンが死んだ後、儒林の意味によって朝鮮純祖(スンジョ)20年(1820)に建てられた建物だ。ムクホンイマンウン(1736∼1820)は退渓、漢江(ハンガン)、ムンイクコンをつなぐ正統朱子学者で韓国国学研究に貴重な資料となる『増補東国文献備考』を編纂した。もともとこの家は門屋と粉屋戸もあったが、今はサランチェと定針、祠堂が残っている。定針とサランチェはムンイクコンイウォンチョンの息子であるイハンミョン(1651∼1681)が朝鮮の顕宗(ヒョンジョン)11年(1670)に立て、祠堂は純祖(スンジョ)20年(1820)に儒林で立てた。サランチェは表10間・側面1間規模であり、屋根は側面から見ると、人の教わる字形をした切妻屋根である。うち、中門がなく10間が相次いでいる非常に特異な構造をなしている。定針は前面7間・側面3間規模で蹄鉄をなしている。祠堂は前面3間・側面1間規模で屋根は切妻屋根で飾った。配置形態が開放的で、地域的な特色をよく現わしている。",
+    "QA": [
+        {
+            "question": "この建物はいつ建てられましたか？",
+            "answer": "この建物は朝鮮純祖20年(1820)に建てられました。"
+        },
+        {
+            "question": "この建物は誰によって建てられましたか？",
+            "answer": "この建物はムクホンイマンウンによって建てられました。"
+        },
+        {
+            "question": "ムクホンイマンウンとはどのような人物ですか？",
+            "answer": "ムクホンイマンウンは退渓、漢江、ムンイクコンをつなぐ正統朱子学者で、『増補東国文献備考』を編纂した人物です。"
+        },
+        {
+            "question": "この建物の配置形態はどのような特徴がありますか？",
+            "answer": "この建物の配置形態は開放的で、地域的な特色をよく現わしています。"
+        },
+        {
+            "question": "この建物には何が残っていますか？",
+            "answer": "この建物にはサランチェ、定針、祠堂が残っています。"
+        }
+    ],
+    "word_Count": {
+        "text": 354,
+        "QA": 191
+    }
+}

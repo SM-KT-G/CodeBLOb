@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_015084",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=324&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=16&ccbaAsno=05680000&ccbaCtcd=32&ccbaCpno=1363205680000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2021-12-30",
+        "domain": "자연관광",
+        "title": "정선 봉양리 뽕나무"
+    },
+    "text": "旌善鳳陽里桑の木 (정선 봉양리 뽕나무)\\n\n江原特別自治道 旌善郡\\n\nチョニョンギニョンムル , 旌善鳳陽里の桑の木は2株が並んで育ち、既存に単木に指定された桑の木とは差別性があり、生育状態が良く樹形が美しい。 500年前、済州高氏一家が旌善に移り植えた木と伝えられ、旌善地域の養蚕文化の象徴と古宅と共に歩んできた老巨樹として生活·民俗的·歴史的価値がある",
+    "QA": [
+        {
+            "question": "この桑の木は何株育っていますか？",
+            "answer": "この桑の木は2株が育っています。"
+        },
+        {
+            "question": "旌善鳳陽里の桑の木は何年前に植えられましたか？",
+            "answer": "旌善鳳陽里の桑の木は500年前に植えられました。"
+        },
+        {
+            "question": "この桑の木はどのような価値を持っていますか？",
+            "answer": "この桑の木は旌善地域の養蚕文化の象徴であり、生活·民俗的·歴史的価値があります。"
+        },
+        {
+            "question": "この桑の木はどの家族によって植えられましたか？",
+            "answer": "この桑の木は済州高氏一家によって植えられました。"
+        },
+        {
+            "question": "この桑の木はどのような生育状態ですか？",
+            "answer": "この桑の木は生育状態が良く、樹形が美しいです。"
+        }
+    ],
+    "word_Count": {
+        "text": 132,
+        "QA": 168
+    }
+}

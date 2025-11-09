@@ -1,0 +1,31 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_002546",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2019-07-31",
+        "domain": "숙박",
+        "title": "イッツ観光ホテル（이츠관광호텔）"
+    },
+    "text": "イッツ観光ホテル（이츠관광호텔）\\n\n仁川広域市 中区 沿岸埠頭路53番キル 15 （港洞7街）\\n\nイッツ観光（クァングァン）ホテルは、観光特区である沿岸波止場の中にあります。また、最先端の施設と、洗練されたデザインが施されています。",
+    "QA": [
+        {
+            "question": "イッツ観光ホテルはどこにありますか？",
+            "answer": "イッツ観光ホテルは仁川広域市 中区 沿岸埠頭路53番キル 15 （港洞7街）にあります。"
+        },
+        {
+            "question": "イッツ観光ホテルはどんな特徴がありますか？",
+            "answer": "イッツ観光ホテルは観光特区である沿岸波止場の中にあり、最先端の施設と洗練されたデザインが特徴です。"
+        }
+    ],
+    "word_Count": {
+        "text": 86,
+        "QA": 96
+    }
+}

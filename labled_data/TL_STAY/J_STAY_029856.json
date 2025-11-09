@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_029856",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2019-10-25",
+        "domain": "숙박",
+        "title": "프리차(Preecha)"
+    },
+    "text": "フリーチャ(Preecha) (프리차(Preecha))\\n\n釜山広域市東区望洋路474-4(草梁洞)\\n\n当店は外国人観光客専用の民宿で、外国人の方のみご利用いただけます。宿の前にはバス停があり、釜山駅や釜山の有名な観光地へのアクセスも便利です。釜山駅までは徒歩で約15分です。",
+    "QA": [
+        {
+            "question": "フリーチャ(Preecha)の宿泊施設の場所はどこですか？",
+            "answer": "フリーチャ(Preecha)の宿泊施設は、釜山広域市東区望洋路474-4(草梁洞)にあります。"
+        },
+        {
+            "question": "フリーチャ(Preecha)の宿泊施設は誰が利用できますか？",
+            "answer": "フリーチャ(Preecha)の宿泊施設は外国人観光客専用の民宿で、外国人の方のみご利用いただけます。"
+        },
+        {
+            "question": "フリーチャ(Preecha)の宿泊施設の前には何がありますか？",
+            "answer": "フリーチャ(Preecha)の宿泊施設の前にはバス停があります。"
+        },
+        {
+            "question": "フリーチャ(Preecha)の宿泊施設から釜山駅へのアクセスはどのくらいですか？",
+            "answer": "フリーチャ(Preecha)の宿泊施設から釜山駅までは徒歩で約15分です。"
+        }
+    ],
+    "word_Count": {
+        "text": 103,
+        "QA": 217
+    }
+}

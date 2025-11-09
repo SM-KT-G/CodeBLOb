@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_019208",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-01",
+        "domain": "음식점",
+        "title": "大成韓方ゆで肉クッパ ( 대성한방수육국밥 )"
+    },
+    "text": "大成韓方ゆで肉クッパ ( 대성한방수육국밥 )\\n\n全羅南道 麗水市 忠武路 39\\n\n韓方スープで作ったクッパが特徴のお店です。代表的なメニューは豚肉クッパです。全羅南道のヨス市に位置した牛肉クッパ専門店です。",
+    "QA": [
+        {
+            "question": "このお店の特徴は何ですか？",
+            "answer": "このお店の特徴は、韓方スープで作ったクッパです。代表的なメニューは豚肉クッパです。"
+        },
+        {
+            "question": "このお店はどこにありますか？",
+            "answer": "このお店は全羅南道の麗水市忠武路39に位置しています。"
+        },
+        {
+            "question": "このお店の名前は何ですか？",
+            "answer": "このお店の名前は大成韓方ゆで肉クッパ（대성한방수육국밥）です。"
+        },
+        {
+            "question": "このお店はどんな料理を提供していますか？",
+            "answer": "このお店は豚肉クッパなどの韓方スープで作ったクッパを提供しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 77,
+        "QA": 141
+    }
+}

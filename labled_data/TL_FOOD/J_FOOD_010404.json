@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_010404",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-05",
+        "domain": "음식점",
+        "title": "テバク野菜包みご飯豚肉炒め ( 대박쌈밥두루치기 )"
+    },
+    "text": "テバク野菜包みご飯豚肉炒め ( 대박쌈밥두루치기 )\\n\nソウル特別市 恩平区 ウンアムロ9ギル7\\n\n新鮮な包み野菜と様々な牛肉と豚肉が味わえる店です。おすすめは野菜包みご飯定食です。ソウル特別市のウンピョン区に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "この店の特徴は何ですか？",
+            "answer": "新鮮な包み野菜と様々な牛肉と豚肉が味わえることが特徴です。"
+        },
+        {
+            "question": "オススメのメニューはありますか？",
+            "answer": "おすすめは野菜包みご飯定食です。"
+        },
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "この店はソウル特別市のウンピョン区に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 87,
+        "QA": 82
+    }
+}

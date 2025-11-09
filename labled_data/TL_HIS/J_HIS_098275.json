@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_098275",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/collectionList#######",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2023-10-11",
+        "domain": "문화/역사관광",
+        "title": "잔손질 격지"
+    },
+    "text": "小細工の隔地 (잔손질 격지)\\n\nこの韓国の旧石器時代のギターは、石で作られた生活具です。大きさは現在の58cmの長さ、30cmの幅から、59cmの長さ、31cmの幅、42cmの長さ、47cmの幅、44cmの長さ、33cmの幅、49%の長さ、43%の幅、55%の長さ、36%の幅、63%の長さ、35%の幅、60%の長さ、41%の幅と変化してきました。",
+    "QA": [
+        {
+            "question": "このギターはどのように作られましたか？",
+            "answer": "このギターは石で作られ、縄で巧妙に編まれています。"
+        },
+        {
+            "question": "このギターの大きさはどのくらいですか？",
+            "answer": "このギターは様々な大きさがあり、最小のものは58cmの長さ、30cmの幅から、最大のものは55%の長さ、41%の幅になります。"
+        },
+        {
+            "question": "このギターは何世紀前に作られましたか？",
+            "answer": "このギターは約何千年も前に作られたものです。"
+        }
+    ],
+    "word_Count": {
+        "text": 129,
+        "QA": 122
+    }
+}

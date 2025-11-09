@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_092394",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=715&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=22&ccbaAsno=00100000&ccbaCtcd=24&ccbaCpno=2222400100000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2023-11-03",
+        "domain": "문화/역사관광",
+        "title": "완제시조창"
+    },
+    "text": "光州広域市の無形文化財であるシチョチャンは始祖市を歌と呼ぶのだ。時代家、時代の単価、ダンカラも言う。始祖は韓国固有の定型詩で、英祖時代に辛光樹(シン・グァンス)が始祖に調子をつけた詩が初めて出るようになった。そして純祖(スンジョ)時代にはユイェジとグラチョルサクムよりで始祖の楽譜が初めて登場した。以降、歌曲の影響を受け、始祖曲調が普及し、地域的特徴を持って分かれようになった。完成始祖は全羅道(チョンラド)を中心としたシチョチャンで、平始祖と私設始祖がほとんどである。しかし、オッ始祖、バンサソル詩調などの明確な区分が難しい始祖らもいる。シチョチャンは、楽器なしにチャングや膝拍子で一時的演奏が実施されるために酢と中将、とことん団で5拍子が減ったりもする。音階は悲しくて凄絶な感じを与える3音のギェミョンチョと晴れて元気な感じを与える5音の佑助になっており、連結性が発達して音が豊かなのが特徴だ。完成始祖は韓国固有の大衆音楽で長年にわたって人たちに愛されてきた音楽だ。現在、光州(クァンジュ)に住むイサンスル氏は全羅道(チョルラド)の人たちの特有の気迫がついている完成、時調の見事な演奏者である。",
+    "QA": [
+        {
+            "question": "始祖市は何を歌と呼ぶのですか？",
+            "answer": "始祖市は歌を始祖市と呼びます。"
+        },
+        {
+            "question": "始祖市の定型詩はどの時代に誕生しましたか？",
+            "answer": "始祖市の定型詩は英祖時代に誕生しました。"
+        },
+        {
+            "question": "始祖市の楽譜が初めて登場したのはどの時代ですか？",
+            "answer": "始祖市の楽譜が初めて登場したのは純祖時代です。"
+        },
+        {
+            "question": "始祖市の演奏に使われる楽器はありますか？",
+            "answer": "始祖市の演奏には楽器なしでチャングや膝拍子が使われます。"
+        },
+        {
+            "question": "始祖市の音階はどのような特徴がありますか？",
+            "answer": "始祖市の音階は悲しくて凄絶な感じを与える3音のギェミョンチョと晴れて元気な感じを与える5音の佑助になっており、音が豊かなのが特徴です。"
+        }
+    ],
+    "word_Count": {
+        "text": 365,
+        "QA": 186
+    }
+}

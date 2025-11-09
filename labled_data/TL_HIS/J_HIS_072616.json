@@ -1,0 +1,55 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_072616",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=530&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=02050000&ccbaCtcd=36&ccbaCpno=2113602050000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1998-08-20",
+        "domain": "문화/역사관광",
+        "title": "보림사사천왕상복장경전불서"
+    },
+    "text": "宝林寺四天王像服装経典仏書\\n\n全羅南道長興郡乳峙面鳳徳里\\n\n朝鮮時代、全羅南道有形文化財、寶林寺は全羅南道長興郡カジサンにある寺で、860年新羅の僧侶、チェジンによって創建された。この本は、宝林寺四天王像の腹の中に入れて保管していた遺物の一つで、いずれも41種58本だ。クムカンギョンと法華経をはじめとする経典類が主流をなしているのが特徴で、クムカンギョンは''金剛般若波羅蜜経''の略語で般若心経とともに、曹渓宗の根本経典に多く読まれている。また、''妙法蓮華経''と呼ばれる法華経は、天台宗の根本経典と、華厳経と一緒に韓国仏教思想の確立に大きく影響を及ぼした仏経だ。これらの本の大半は全羅道地域にある寺院で刊行されたのが特徴で、この点から、四天王像の造成を前後した時期に寶林寺の活動が活発であったことを考察することができる。",
+    "QA": [
+        {
+            "question": "寶林寺はどこにありますか？",
+            "answer": "寶林寺は全羅南道長興郡カジサンにあります。"
+        },
+        {
+            "question": "寶林寺はいつ創建されましたか？",
+            "answer": "寶林寺は860年に新羅の僧侶、チェジンによって創建されました。"
+        },
+        {
+            "question": "宝林寺四天王像の腹の中には何が入っていたのですか？",
+            "answer": "宝林寺四天王像の腹の中には経典仏書が入っていました。"
+        },
+        {
+            "question": "経典類の中で主流をなしているものは何ですか？",
+            "answer": "経典類の中で主流をなしているのはクムカンギョンと法華経です。"
+        },
+        {
+            "question": "クムカンギョンは何の略語ですか？",
+            "answer": "クムカンギョンは『金剛般若波羅蜜経』の略語です。"
+        },
+        {
+            "question": "法華経はどのような影響を与えた仏経ですか？",
+            "answer": "法華経は天台宗の根本経典として、韓国仏教思想の確立に大きく影響を与えた仏経です。"
+        },
+        {
+            "question": "これらの本の大半はどこで刊行されましたか？",
+            "answer": "これらの本の大半は全羅道地域にある寺院で刊行されました。"
+        },
+        {
+            "question": "寶林寺の活動が活発だった時期は何時期ですか？",
+            "answer": "寶林寺の活動が活発だった時期は四天王像の造成を前後した時期です。"
+        }
+    ],
+    "word_Count": {
+        "text": 268,
+        "QA": 283
+    }
+}

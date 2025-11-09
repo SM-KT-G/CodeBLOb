@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_074035",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1231&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=79&ccbaAsno=04870000&ccbaCtcd=31&ccbaCpno=4411104870000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2012-02-16",
+        "domain": "문화/역사관광",
+        "title": "부채를 든 자화상"
+    },
+    "text": "1915年の夏、コヒドンは暑さを冷やすため、負債を振り上げながら自分の姿を描くため、<扇子を持った自画像>を描いた。この作品は、国家登録文化財に登録されていた油絵作品で、明るい黄土色ズボンと白い上着を着た若い男を描いた。彼の白い上着のボタンを外して胸の一部を露出しており、右腕は膝に載せて扇子を持っている。1972年に国立現代美術館がこの作品を購入して毀損された右側部分を補修し、ほこりを拭いて現在は良好な状態で保存されている。この作品は'1915 Ko Hei Tong'という英文署名があるが、これは作家の署名だ。この作品は韓国初の洋画家の作品として美術史的な価値があり、1910年代の印象主義の画風を収容した美術家のアイデンティティを読むことのできる貴重な資料だ。",
+    "QA": [
+        {
+            "question": "この作品の作者は誰ですか？",
+            "answer": "この作品の作者はコヒドンです。"
+        },
+        {
+            "question": "この作品はいつ描かれましたか？",
+            "answer": "この作品は1915年の夏に描かれました。"
+        },
+        {
+            "question": "この作品は何のために描かれましたか？",
+            "answer": "この作品はコヒドンが暑さを冷やし、自分の姿を描くために描かれました。"
+        },
+        {
+            "question": "この作品はどのような人物を描いていますか？",
+            "answer": "この作品は明るい黄土色ズボンと白い上着を着た若い男を描いています。"
+        },
+        {
+            "question": "この作品はどのような状態で保存されていますか？",
+            "answer": "この作品は1972年に国立現代美術館が購入し、毀損された右側部分を補修して良好な状態で保存されています。"
+        },
+        {
+            "question": "この作品は何の美術史的な価値がありますか？",
+            "answer": "この作品は韓国初の洋画家の作品であり、1910年代の印象主義の画風を収容しているため、美術史的な価値があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 245,
+        "QA": 235
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_018413",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2016-12-03",
+        "domain": "문화/역사관광",
+        "title": "宝城駅（보성역）"
+    },
+    "text": "宝城駅\n全羅南道 宝城郡 宝城邑 顕忠路90\n「宝城駅（ポソンヨク）」は、慶全線にある汽車駅（普通駅）として営業を始めました。ムグンファ号が運行されており、旅客、貨物、乗車券の発売といった業務を担当しています。 \n宝城は全羅南道南部の中央に位置し、海洋性気候の影響により緑茶の栽培地として有名です。",
+    "QA": [
+        {
+            "question": "宝城駅はどこにありますか？",
+            "answer": "宝城駅は全羅南道宝城郡宝城邑顕忠路90にあります。"
+        },
+        {
+            "question": "宝城駅では何の業務を担当していますか？",
+            "answer": "宝城駅では旅客、貨物、乗車券の発売などの業務を担当しています。"
+        },
+        {
+            "question": "宝城はどのような特産品で有名ですか？",
+            "answer": "宝城は海洋性気候の影響により緑茶の栽培地として有名です。"
+        }
+    ],
+    "word_Count": {
+        "text": 109,
+        "QA": 98
+    }
+}

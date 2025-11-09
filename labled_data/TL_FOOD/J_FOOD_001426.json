@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001426",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-08-31",
+        "domain": "음식점",
+        "title": "Asian Table（아시안테이블）"
+    },
+    "text": "Asian Table（아시안테이블）\\n\nソウル特別市 鐘路区 成均館路3キル 11\\n\nこの店はソウル特別市のジョンノ区に位置したアジア料理専門店です。各種東南アジアのビールが味わえるお店です。代表的なメニューはパッタイです。",
+    "QA": [
+        {
+            "question": "このお店の場所はどこですか？",
+            "answer": "このお店はソウル特別市のジョンノ区に位置しています。"
+        },
+        {
+            "question": "このお店の特徴は何ですか？",
+            "answer": "このお店では各種東南アジアのビールが味わえることが特徴です。"
+        },
+        {
+            "question": "このお店の代表的なメニューは何ですか？",
+            "answer": "このお店の代表的なメニューはパッタイです。"
+        }
+    ],
+    "word_Count": {
+        "text": 84,
+        "QA": 90
+    }
+}

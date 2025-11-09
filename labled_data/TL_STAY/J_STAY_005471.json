@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_005471",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42091&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "울산 삼산 솜누스"
+    },
+    "text": "サンサンソムヌスで皆さんを待っています~ サムサンソムヌスは清潔で清潔な客室環境を提供します。 しかし、注意すべきこともあります。 また、身分証明書を持参したり紛失した場合は入室できず、この場合は払い戻しもできません。 ヤノルジャの会員でしたら会員特典が受けられますので、ぜひご確認ください！",
+    "QA": [
+        {
+            "question": "サンサンソムヌスの客室環境はどのようになっていますか？",
+            "answer": "サンサンソムヌスでは清潔で清潔な客室環境を提供しています。"
+        },
+        {
+            "question": "サンサンソムヌスには何を持参すればいいですか？",
+            "answer": "サンサンソムヌスには身分証明書を持参する必要があります。"
+        },
+        {
+            "question": "身分証明書を紛失した場合、サンサンソムヌスに入室することはできますか？",
+            "answer": "身分証明書を持参しない場合、サンサンソムヌスには入室できません。"
+        },
+        {
+            "question": "入室できなかった場合、払い戻しはできますか？",
+            "answer": "身分証明書を持参しない場合、入室できず払い戻しもできません。"
+        },
+        {
+            "question": "ヤノルジャの会員でない場合、会員特典は受けられますか？",
+            "answer": "ヤノルジャの会員でない場合、会員特典は受けられません。"
+        },
+        {
+            "question": "ヤノルジャの会員であれば、どのような特典が受けられますか？",
+            "answer": "ヤノルジャの会員であれば、特典が受けられますが、詳細はご確認ください。"
+        }
+    ],
+    "word_Count": {
+        "text": 107,
+        "QA": 252
+    }
+}

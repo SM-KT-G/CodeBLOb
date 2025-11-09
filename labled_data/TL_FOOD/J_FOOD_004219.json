@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_004219",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2023-08-08",
+        "domain": "음식점",
+        "title": "カフェ385（카페 385）"
+    },
+    "text": "カフェ385（카페 385）\nプサン広域市ヨンド区テジョンロ539\n釜山の影島（ヨンド）に位置する「カフェ385」は海を眺めながらおいしいコーヒーとパンが味わえる大型カフェです。",
+    "QA": [
+        {
+            "question": "カフェ385はどこにありますか？",
+            "answer": "カフェ385は釜山の影島（ヨンド）に位置しています。"
+        },
+        {
+            "question": "カフェ385で楽しめるものは何ですか？",
+            "answer": "カフェ385では海を眺めながらおいしいコーヒーとパンが楽しめます。"
+        },
+        {
+            "question": "カフェ385の住所は何ですか？",
+            "answer": "カフェ385の住所はプサン広域市ヨンド区テジョンロ539です。"
+        }
+    ],
+    "word_Count": {
+        "text": 65,
+        "QA": 102
+    }
+}

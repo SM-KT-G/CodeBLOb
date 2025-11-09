@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_002190",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-03",
+        "domain": "음식점",
+        "title": "XINCHAO VIETNAM ( 신짜오베트남 )"
+    },
+    "text": "XINCHAO VIETNAM ( 신짜오베트남 )\\n\n江原道 ガンヌン市 ソンドクポナムロ188ボンギル29\\n\nベトナム人シェフが運営し、ベトナムの食品も販売しています。代表的なメニューはフォーです。江原道のガンヌン市に位置したフォー専門店です。",
+    "QA": [
+        {
+            "question": "XINCHAO VIETNAMはどの地域に位置していますか？",
+            "answer": "XINCHAO VIETNAMは江原道のガンヌン市に位置しています。"
+        },
+        {
+            "question": "XINCHAO VIETNAMはどのような食品を販売していますか？",
+            "answer": "XINCHAO VIETNAMでは主にフォーというベトナムの食品を販売しています。"
+        },
+        {
+            "question": "XINCHAO VIETNAMは誰が運営していますか？",
+            "answer": "XINCHAO VIETNAMはベトナム人シェフが運営しています。"
+        },
+        {
+            "question": "XINCHAO VIETNAMの代表的なメニューは何ですか？",
+            "answer": "XINCHAO VIETNAMの代表的なメニューはフォーです。"
+        }
+    ],
+    "word_Count": {
+        "text": 92,
+        "QA": 189
+    }
+}

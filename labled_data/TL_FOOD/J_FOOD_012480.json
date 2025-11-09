@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_012480",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-11-29",
+        "domain": "음식점",
+        "title": "ピョンファフェッチプ（평화횟집）"
+    },
+    "text": "ピョンファフェッチプ（평화횟집）\\n\n慶尚南道 巨済市 沙等面 城浦路3キル12\\n\n「ピョンファフェッチプ」は、2代にわたって50年以上同じ場所で変わらぬ味を提供している刺身屋です。100％天然鮮魚にこだわっているだけでなく、テンジャンやコチュジャンは自家製のものを使っています。",
+    "QA": [
+        {
+            "question": "平和回転寿司はどこにありますか？",
+            "answer": "平和回転寿司は慶尚南道巨済市沙等面城浦路3キル12にあります。"
+        },
+        {
+            "question": "ピョンファフェッチプで提供される食材は何ですか？",
+            "answer": "ピョンファフェッチプでは100％天然鮮魚を使用しています。"
+        },
+        {
+            "question": "ピョンファフェッチプで使用されるテンジャンとコチュジャンはどのように作られていますか？",
+            "answer": "ピョンファフェッチプではテンジャンとコチュジャンを自家製で作っています。"
+        }
+    ],
+    "word_Count": {
+        "text": 103,
+        "QA": 131
+    }
+}

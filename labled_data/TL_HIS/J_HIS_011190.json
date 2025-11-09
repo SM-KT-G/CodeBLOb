@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_011190",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2022-08-31",
+        "domain": "문화/역사관광",
+        "title": "金堤 母岳山祭り（김제 모악산축제）"
+    },
+    "text": "金堤 母岳山祭り（김제 모악산축제）\\n\n全羅北道 金堤市 金山面 母岳路 455\\n\n金堤（キムジェ）母岳山（モアクサン）祭りは、母岳山ならではの観光資源を活用した文化観光コンテンツ中心型のお祭りです。祝賀公演、自動車劇場、音楽会、平和ミッションツアーなど約20のプログラムが用意される他、金堤の特産品を安く買える市場も設けられます。",
+    "QA": [
+        {
+            "question": "日本語での金堤母岳山祭りの開催地はどこですか？",
+            "answer": "金堤市金山面母岳路455です。"
+        },
+        {
+            "question": "金堤母岳山祭りはどのようなコンテンツがありますか？",
+            "answer": "祝賀公演、自動車劇場、音楽会、平和ミッションツアーなど約20のプログラムがあります。"
+        },
+        {
+            "question": "金堤母岳山祭りの特産品を買える市場は何がありますか？",
+            "answer": "金堤の特産品を安く買える市場が設けられています。"
+        }
+    ],
+    "word_Count": {
+        "text": 123,
+        "QA": 113
+    }
+}

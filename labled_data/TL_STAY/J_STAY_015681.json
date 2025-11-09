@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_015681",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42040&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "구례 별이준펜션"
+    },
+    "text": "ビョルイジュンは全国で最もきれいで美しい川である蟾津江を眺めながら休息を楽しむことができるところです。 智異山の精気を直接感じることができ、休暇、休養、家族旅行、恋人旅行など様々な目的で訪れることができる場所でもあります。 ここは清潔で清潔な環境を整えており、親切なサービスでお客様をお迎えします。 ただし、夜10時以降に入室される場合は、あらかじめペンションまでご連絡ください。",
+    "QA": [
+        {
+            "question": "蟾津江はどのような特徴がありますか？",
+            "answer": "蟾津江は全国で最もきれいで美しい川であり、智異山の精気を感じることができます。"
+        },
+        {
+            "question": "蟾津江周辺にはどのようなアクティビティがありますか？",
+            "answer": "蟾津江周辺では、休暇や休養を楽しむことができるだけでなく、家族旅行や恋人旅行などの目的でも訪れることができます。"
+        },
+        {
+            "question": "蟾津江の周辺環境はどのように整えられていますか？",
+            "answer": "蟾津江周辺は清潔であり、親切なサービスが提供されています。"
+        },
+        {
+            "question": "夜遅くに蟾津江の宿泊施設に入室する場合はどうすればよいですか？",
+            "answer": "夜10時以降に入室する場合は、事前にペンションに連絡してください。"
+        }
+    ],
+    "word_Count": {
+        "text": 139,
+        "QA": 187
+    }
+}

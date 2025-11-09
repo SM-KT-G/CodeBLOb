@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_076070",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.doopedia.co.kr/",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2023-10-11",
+        "domain": "문화/역사관광",
+        "title": "비서감일기_1"
+    },
+    "text": "秘書官日記 (비서감일기)\\n\n「筆写本は八冊あり、それは1894年（高宗31年）に承政院の廃止と宮内府への事務移管が行われた後、1895年（高宗32年）に秘書監の設置が決まり、宮内府の仕事を分担することとなった際に作成された日記です。この日記は、承政院、承宣院、宮内府の3つの日記に続いて作成されました。」",
+    "QA": [
+        {
+            "question": "What is the purpose of the eight handwritten books mentioned in the text?",
+            "answer": "それらは1894年に承政院の廃止と宮内府への事務移管が行われた後、1895年に秘書監の設置が決まり、宮内府の仕事を分担することとなった際に作成された日記です。"
+        },
+        {
+            "question": "When were the handwritten books created?",
+            "answer": "1894年に承政院の廃止と宮内府への事務移管が行われた後、1895年に秘書監の設置が決まり、宮内府の仕事を分担することとなった際に作成されました。"
+        },
+        {
+            "question": "Why were the handwritten books created?",
+            "answer": "承政院の廃止と宮内府への事務移管が行われた後、秘書監の設置が決まり、宮内府の仕事を分担することとなったため、それに伴って作成されました。"
+        },
+        {
+            "question": "Who decided to create the handwritten books?",
+            "answer": "秘書監の設置が決まり、それに伴って作成されました。"
+        },
+        {
+            "question": "How many handwritten books were created?",
+            "answer": "八冊あります。"
+        }
+    ],
+    "word_Count": {
+        "text": 112,
+        "QA": 357
+    }
+}

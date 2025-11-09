@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_080904",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=30&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=00010000&ccbaCtcd=11&ccbaCpno=1121100010000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1963-01-21",
+        "domain": "문화/역사관광",
+        "title": "서울 흥인지문"
+    },
+    "text": "朝鮮高宗6年(1869)、宝物、ソウル城郭は昔、重要な国家施設がある漢城府を保護するために作られた都城で、興仁之門は城郭8つの門のうち東にある門です。よく東大門とも呼ばれますが、朝鮮太祖5年(1396年)都城築造の際に建設されましたが、端宗元年(1453年)に建て直され、現在ある門は高宗6年(1869年)に建て直されました。前面5間·側面2間規模の2階建てで、屋根は前面から見て台形をした右陣閣の屋根です屋根の軒を支えるために装飾して作られた空砲が柱の上だけでなく柱の間にもある多砲様式ですが、その形が細く弱く、過度に装飾された部分が多く、朝鮮後期の特徴をよく表しています。また、外側には城門を保護し、堅固に守るために半円形の甕城が築かれていますが、これは敵を攻撃するのに合理的に計画された施設といえます。興仁之門は都城の8つの城門の中で唯一甕城を備えており、朝鮮後期の建築様式をよく表しています",
+    "QA": [
+        {
+            "question": "興仁之門は何年に再建されましたか？",
+            "answer": "興仁之門は高宗6年(1869年)に再建されました。"
+        },
+        {
+            "question": "興仁之門の屋根の形はどのような形をしていますか？",
+            "answer": "興仁之門の屋根は台形をした右陣閣の屋根です。"
+        },
+        {
+            "question": "興仁之門の柱の上だけでなく柱の間にもある装飾は何ですか？",
+            "answer": "興仁之門の柱の上だけでなく柱の間にもある空砲が柱の軒を支えるために装飾して作られています。"
+        },
+        {
+            "question": "興仁之門の外側に何が築かれていて、どんな目的がありますか？",
+            "answer": "興仁之門の外側には半円形の甕城が築かれており、これは城門を保護し、堅固に守るために設けられた施設です。"
+        },
+        {
+            "question": "興仁之門が都城の8つの城門の中で特別な点は何ですか？",
+            "answer": "興仁之門は都城の8つの城門の中で唯一甕城を備えており、朝鮮後期の建築様式をよく表しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 292,
+        "QA": 229
+    }
+}

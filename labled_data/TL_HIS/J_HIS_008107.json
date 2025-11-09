@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_008107",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=611&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=03570000&ccbaCtcd=38&ccbaCpno=2113803570000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2000-08-31",
+        "domain": "문화/역사관광",
+        "title": "고성 운흥사 아미타불회도"
+    },
+    "text": "固城雲興寺阿弥陀仏会図 (고성 운흥사 아미타불회도)\\n\n慶尚南道河東郡\\n\n. , 慶尚南道有形文化財 , 西方極楽世界を司る阿弥陀仏を描写した仏会図で、画面の中に主仏である阿弥陀仏が大きく配置されている。 阿弥陀仏は両肩をすべて覆っている服を着て、右足を左膝に乗せている吉祥坐の姿だ。 絵の一番上の部分には阿弥陀仏の言葉を聞くために集まった多くの聖衆の群れが表現されており、その下には白衣をまとった観世音菩薩をはじめとする阿弥陀8大菩薩と仏法を守護する四天王像がある。 この絵は雲興寺薬師仏会図(慶尚南道有形文化財第358号)と全般的に似た構図と人物の形、色彩を見せており、同一作家によって描かれたものと考えられる。",
+    "QA": [
+        {
+            "question": "この図は何を描いていますか？",
+            "answer": "この図は阿弥陀仏を描写した仏会図です。"
+        },
+        {
+            "question": "図の中で主要な仏像は何ですか？",
+            "answer": "図の中で主要な仏像は阿弥陀仏です。"
+        },
+        {
+            "question": "阿弥陀仏はどのような姿勢で描かれていますか？",
+            "answer": "阿弥陀仏は右足を左膝に乗せている吉祥坐の姿勢で描かれています。"
+        },
+        {
+            "question": "絵の上部にはどのような人物が描かれていますか？",
+            "answer": "絵の上部には阿弥陀仏の言葉を聞くために集まった多くの聖衆の群れが描かれています。"
+        },
+        {
+            "question": "絵の下部にはどのような仏像が描かれていますか？",
+            "answer": "絵の下部には白衣をまとった観世音菩薩をはじめとする阿弥陀８大菩薩と仏法を守護する四天王像が描かれています。"
+        },
+        {
+            "question": "この絵は他の作品とどのように関連していますか？",
+            "answer": "この絵は雲興寺薬師仏会図と全般的に似た構図と人物の形、色彩を持ち、同一作家によって描かれたものと考えられています。"
+        }
+    ],
+    "word_Count": {
+        "text": 228,
+        "QA": 247
+    }
+}

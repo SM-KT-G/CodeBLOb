@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_018080",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-08-31",
+        "domain": "음식점",
+        "title": "南海カキクッパ（남해굴국밥）"
+    },
+    "text": "南海カキクッパ（남해굴국밥）\\n\nソウル特別市 鐘路区 鐘路46キル 11\\n\n毎日統営から送られる牡蠣で料理するお店です。代表的なメニューはカキクッパです。ソウル特別市トンデムン駅の近くに位置した韓国料理店です。",
+    "QA": [
+        {
+            "question": "このレストランの場所はどこですか？",
+            "answer": "南海カキクッパは、ソウル特別市鐘路区鐘路46キル11にあります。"
+        },
+        {
+            "question": "このレストランの特徴は何ですか？",
+            "answer": "南海カキクッパは、毎日統営から送られる新鮮な牡蠣を使った料理を提供しています。代表的なメニューはカキクッパです。"
+        },
+        {
+            "question": "どのようなメニューがありますか？",
+            "answer": "南海カキクッパでは、カキクッパをはじめとする韓国料理が楽しめます。"
+        },
+        {
+            "question": "このレストランはどのくらいの距離にありますか？",
+            "answer": "南海カキクッパは、ソウル特別市トンデムン駅の近くに位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 78,
+        "QA": 165
+    }
+}

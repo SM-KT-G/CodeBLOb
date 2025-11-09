@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_018261",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=710&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=22&ccbaAsno=00060000&ccbaCtcd=34&ccbaCpno=2223400060000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "보령남포벼루제작"
+    },
+    "text": "保寧南浦硯製作 (보령남포벼루제작)\\n\n忠清南道無形文化財 , 保寧南浦面にある烏石で作った硯で、南浦地方で多く生産されることから南浦硯と呼ばれるようになった。 硯は落浪の時から使われ、高麗時代の性理学の盛んで硯の使用度が広くなった。 したがって技術も発展するようになり、1961年以降は輸出もしている。 製作過程は五石を持ってきて手で加工をした後、それぞれ異なる文様と模様を彫刻して完成すれば終わりだ。 模様としては龍·鳳凰·松·竹など伝統的な模様を彫刻する。 南浦硯の特徴は餌がよく分かれ、墨が乾かずに長く残っていることだ。 保寧南浦硯の製作技術は3代にわたる体系化された技法として文化財的次元で価値が認められ無形文化財に認定され、現在機能保有者としてキム·ジンハン氏がその脈を継続している。",
+    "QA": [
+        {
+            "question": "南浦硯は何で作られていますか？",
+            "answer": "南浦硯は烏石で作られています。"
+        },
+        {
+            "question": "南浦硯はなぜ南浦地方で多く生産されるようになりましたか？",
+            "answer": "南浦硯は南浦地方で多く生産されるようになりました。"
+        },
+        {
+            "question": "南浦硯の製作過程はどのようになっていますか？",
+            "answer": "南浦硯の製作過程は五石を持ってきて手で加工し、それぞれ異なる文様と模様を彫刻して完成します。"
+        },
+        {
+            "question": "南浦硯の特徴について教えてください。",
+            "answer": "南浦硯の特徴は餌がよく分かれ、墨が乾かずに長く残ることです。"
+        },
+        {
+            "question": "保寧南浦硯の製作技術は何代にわたって継承されていますか？",
+            "answer": "保寧南浦硯の製作技術は3代にわたって継承されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 255,
+        "QA": 186
+    }
+}

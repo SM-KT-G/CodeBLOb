@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_024136",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=878&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=01750000&ccbaCtcd=37&ccbaCpno=2333701750000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2017-05-15",
+        "domain": "문화/역사관광",
+        "title": "안동 청성서원"
+    },
+    "text": "安東チョンソン書院 (안동 청성서원)\\n\n慶尚北道安東市ウッマクシルキル10(豊山邑、清城書院)\\n\n慶尚北道記念物 , 松庵クォン·ホムン(1532~1587)を追慕する書院だ。 クォン·ホムンは朝鮮宣祖(在位1567~1608)の時の文人であり学者として一生を自然に埋めて暮らしたが、徳望が高くて訪ねてくる文人が多かった。 宣祖41年(1608)に建てられたこの書院は光海君4年(1612)に先生の位牌を祀って祭祀を行い、英祖43年(1767)に今の場所に移した。 高宗5年(1868)に興宣大院君の書院撤廃令で撤去されたが、その後1909年道内の儒林たちの意思により旧跡に復元した。 書院の中には講堂、東斎·西斎、チョン·ドムン、清風寺、全社庁、新聞など計7棟の建物がある。 この書院では毎年2月と8月に祭祀を行っている。",
+    "QA": [
+        {
+            "question": "安東チョンソン書院はどこにありますか？",
+            "answer": "安東チョンソン書院は慶尚北道安東市ウッマクシルキル10にあります。"
+        },
+        {
+            "question": "安東チョンソン書院は何のために建てられましたか？",
+            "answer": "安東チョンソン書院は松庵クォン・ホムンを追慕するために建てられました。"
+        },
+        {
+            "question": "松庵クォン・ホムンとはどのような人物ですか？",
+            "answer": "松庵クォン・ホムンは朝鮮宣祖の時の文人であり学者でした。"
+        },
+        {
+            "question": "安東チョンソン書院にはどのような建物がありますか？",
+            "answer": "安東チョンソン書院には講堂、東斎・西斎、チョン・ドムン、清風寺、全社庁、新聞などの建物があります。"
+        },
+        {
+            "question": "安東チョンソン書院ではどのような祭祀が行われますか？",
+            "answer": "安東チョンソン書院では毎年2月と8月に祭祀が行われます。"
+        }
+    ],
+    "word_Count": {
+        "text": 267,
+        "QA": 211
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_019486",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42010&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "가평 오늘도가평키즈풀빌라"
+    },
+    "text": "今日も加平キッズプールビラでは、森の中の風景を鑑賞しながらリラックスできます。 ここはモダンな雰囲気とキッズテーマで構成されており、子供たちに大きな楽しみと幸せをプレゼントします。 また、ここでは大切な人たちと一緒に楽しくて面白い思い出を作ることもできます。 しかし、22時以降に入室される場合は、ペンションまで事前にご連絡ください。",
+    "QA": [
+        {
+            "question": "加平キッズプールビラでは何を楽しめますか？",
+            "answer": "加平キッズプールビラでは森の中の風景を鑑賞しながらリラックスできます。"
+        },
+        {
+            "question": "加平キッズプールビラの雰囲気はどんな感じですか？",
+            "answer": "加平キッズプールビラはモダンな雰囲気とキッズテーマで構成されています。"
+        },
+        {
+            "question": "加平キッズプールビラでは何をプレゼントしてくれますか？",
+            "answer": "加平キッズプールビラでは子供たちに大きな楽しみと幸せをプレゼントします。"
+        },
+        {
+            "question": "加平キッズプールビラではどんな思い出を作ることができますか？",
+            "answer": "加平キッズプールビラでは大切な人たちと一緒に楽しくて面白い思い出を作ることができます。"
+        },
+        {
+            "question": "22時以降に入室する場合は何をすればいいですか？",
+            "answer": "22時以降に入室される場合は、ペンションまで事前にご連絡ください。"
+        }
+    ],
+    "word_Count": {
+        "text": 122,
+        "QA": 225
+    }
+}

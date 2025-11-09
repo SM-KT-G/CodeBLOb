@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_092066",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1029&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=00890000&ccbaCtcd=33&ccbaCpno=3413300890000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2016-03-04",
+        "domain": "문화/역사관광",
+        "title": "옥천 대성사 석조여래입상"
+    },
+    "text": "玉川 大成寺 ソクチョヨレイプサン\\n\n忠清北道沃川郡道場1ギル57-13(清城面)\\n\n忠清北道文化財資料、沃川(オクチョン)大成山寺石造如来立像は石柱型石仏である。デソンサがいるチョンソン面ドジャンリ(道場里)は\"ブルダンゴル(佛堂谷)\"とも呼ばれることから、仏教と関連された地域であることを知ることができる。いつ建てられたのかは分からないが、沃川(オクチョン)、陸氏の族譜にも\"朝鮮成宗(ソンジョン)22年(1491年)にデソンサに石仏があった。\"という記録が残っている。この立像は高さが360cmであり、中でセメントで保守した跡がある。頭には丸い帽子をかぶっていて両肩を覆ったトンギョンシクに衣服を着ており、一番下は、足の姿も確認される。左手のうちにホームがあることなどからして、地物(持物)を載せて持っていたものと推定される。丸い冠帽(かんぼう)形式を書いた形はソウル薬師寺石佛立像(1490)などと類似し、予算サプギョの石造菩薩立像と一緒に二つの石柱を組み立てた形式は高麗石仏の伝統と見ることができる。この入賞は地域共同体に信仰の対象であり、朝鮮前期の石仏の特徴を示す重要な事例として価値が非常に大きい。",
+    "QA": [
+        {
+            "question": "大成寺石造如来立像は何の形式で建てられましたか？",
+            "answer": "大成寺石造如来立像は石柱型石仏として建てられました。"
+        },
+        {
+            "question": "大成寺石造如来立像の高さは何センチメートルですか？",
+            "answer": "大成寺石造如来立像の高さは360cmです。"
+        },
+        {
+            "question": "大成寺石造如来立像の頭には何をかぶっていますか？",
+            "answer": "大成寺石造如来立像の頭には丸い帽子をかぶっています。"
+        },
+        {
+            "question": "大成寺石造如来立像の左手には何がありますか？",
+            "answer": "大成寺石造如来立像の左手にはホームがあります。"
+        },
+        {
+            "question": "大成寺石造如来立像は何年に建てられたとされていますか？",
+            "answer": "大成寺石造如来立像は朝鮮成宗22年(1491年)にデソンサに石仏があったとされています。"
+        }
+    ],
+    "word_Count": {
+        "text": 372,
+        "QA": 192
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_020965",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-20",
+        "domain": "음식점",
+        "title": "味道人 江南( 미도인 강남 )"
+    },
+    "text": "味道人 江南\\n\nソウル特別市 江南区 カンナムデロ102ギル16\\n\nシェフの手で丹精をこめたスペシャルメニューを提供しています。ソウル特別市のガンナム区に位置した洋食専門店です。代表的なメニューはロースステーキです。",
+    "QA": [
+        {
+            "question": "店の名前は何ですか？",
+            "answer": "味道人 江南です。"
+        },
+        {
+            "question": "店の場所はどこですか？",
+            "answer": "ソウル特別市 江南区 カンナムデロ102ギル16に位置しています。"
+        },
+        {
+            "question": "どのような料理を提供していますか？",
+            "answer": "洋食専門店で、代表的なメニューはロースステーキです。"
+        },
+        {
+            "question": "どのような味がしますか？",
+            "answer": "シェフの手で丹精をこめたスペシャルメニューを提供しており、美味しい味がします。"
+        },
+        {
+            "question": "営業時間は何時から何時までですか？",
+            "answer": "営業時間は10時から22時までです。"
+        }
+    ],
+    "word_Count": {
+        "text": 80,
+        "QA": 140
+    }
+}

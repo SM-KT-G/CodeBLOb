@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_031633",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2019-03-23",
+        "domain": "문화/역사관광",
+        "title": "清平湖畔メウンタン村（청평호반 매운탕촌）"
+    },
+    "text": "清平湖畔メウンタン村\n京畿道 加平郡 雪岳面 檜谷里\n1943年に国民観光地に指定された清平湖畔（チョンピョンホバン）は、自然景観が美しい加平の代表的な名所です。ここでは、メウンタン（魚のピリ辛鍋）やヘムルタン（海鮮鍋）、山菜定食などの郷土料理を味わうことができます。",
+    "QA": [
+        {
+            "question": "清平湖畔はどのような場所ですか？",
+            "answer": "清平湖畔は京畿道加平郡雪岳面檜谷里にある美しい自然景観が広がる場所です。"
+        },
+        {
+            "question": "清平湖畔で味わえる料理はありますか？",
+            "answer": "はい、清平湖畔ではメウンタン（魚のピリ辛鍋）、ヘムルタン（海鮮鍋）、山菜定食などの郷土料理を味わうことができます。"
+        },
+        {
+            "question": "何年に国民観光地に指定されましたか？",
+            "answer": "清平湖畔は1943年に国民観光地に指定されました。"
+        }
+    ],
+    "word_Count": {
+        "text": 98,
+        "QA": 124
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_016283",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42090&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "제주 이그니스무인텔(취사불가)"
+    },
+    "text": "ペンションには無人で利用されるだけに、プライベートサービスを徹底的に提供しています。 より便利な環境のために努力し、ご来店くださるお客様全員を最善を尽くして対応いたします。 利用可能な客室は超過入室は不可能で、すべての客室では調理ができません。 チェックインは18時で、チェックアウトは12時です。 万が一22時以降に入室をご希望の場合は、事前にペンションまでご連絡ください。",
+    "QA": [
+        {
+            "question": "ペンションの営業時間は何時から何時までですか？",
+            "answer": "チェックインは18時で、チェックアウトは12時です。"
+        },
+        {
+            "question": "ペンションには調理ができる客室はありますか？",
+            "answer": "すべての客室では調理ができません。"
+        },
+        {
+            "question": "ペンションへの入室時間は何時までですか？",
+            "answer": "万が一22時以降に入室をご希望の場合は、事前にペンションまでご連絡ください。"
+        }
+    ],
+    "word_Count": {
+        "text": 137,
+        "QA": 107
+    }
+}

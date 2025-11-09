@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_000887",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2023-06-22",
+        "domain": "문화/역사관광",
+        "title": "AGROLANDテシン牧場（아그로랜드 태신목장）"
+    },
+    "text": "AGROLANDテシン牧場（아그로랜드 태신목장）\\n\nチュンチョンナムド道イェサン郡コドク面サンモン2ギル231\\n\nAGROLAND（アグロランド）テシン牧場は韓国酪農業の胎動期に設立され、今に至るまで畜産業の発展のために努力してきた牧場です。韓国内で初めて「酪農体験牧場」の認証を受け、2004年から牧場を開放し、乳牛と家畜そして牧場が体験できるようになりました。緑の草原で感じられる牧歌的な風景とともに牛とのふれあい体験ができる場を提供します。体験室で乳搾りや草原で牛に餌をあげる体験ができる他、牛乳を使ったアイスクリームやかき氷などをくつるなどさまざまな酪農体験が可能です。",
+    "QA": [
+        {
+            "question": "AGROLANDテシン牧場はどこにありますか？",
+            "answer": "AGROLANDテシン牧場はチュンチョンナムド道イェサン郡コドク面サンモン2ギル231に位置しています。"
+        },
+        {
+            "question": "AGROLANDテシン牧場は何のために設立されましたか？",
+            "answer": "AGROLANDテシン牧場は韓国酪農業の発展のために設立されました。"
+        },
+        {
+            "question": "AGROLANDテシン牧場は何の認証を受けていますか？",
+            "answer": "AGROLANDテシン牧場は韓国内で初めて「酪農体験牧場」の認証を受けています。"
+        },
+        {
+            "question": "AGROLANDテシン牧場はいつから牧場を開放していますか？",
+            "answer": "AGROLANDテシン牧場は2004年から牧場を開放しています。"
+        },
+        {
+            "question": "AGROLANDテシン牧場ではどのような体験ができますか？",
+            "answer": "AGROLANDテシン牧場では乳搾りや牛に餌をあげる体験などができます。また、牛乳を使ったアイスクリームやかき氷なども楽しむことができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 214,
+        "QA": 267
+    }
+}

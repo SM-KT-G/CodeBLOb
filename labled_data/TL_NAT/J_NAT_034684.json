@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_034684",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=899&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=02660000&ccbaCtcd=38&ccbaCpno=2333802660000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2007-09-06",
+        "domain": "자연관광",
+        "title": "산청 공개바위"
+    },
+    "text": "慶尚南道に位置した記念物は5つの立方体の岩で構成されています。この岩は25~30度に傾いており、5階石塔の様式を果たしています。岩は、以前は土に埋もれていたが、長い年月の間の風化作用によって、土が分離され、現在の姿に露出されたものと推定されます。この岩はお手玉を楽しんでいた孫のばあさんが持っている石な子だったという伝説があって\"公開岩\"という名称が付けられました。",
+    "QA": [
+        {
+            "question": "この記念物は何でできていますか？",
+            "answer": "この記念物は5つの立方体の岩で構成されています。"
+        },
+        {
+            "question": "記念物は何度傾いていますか？",
+            "answer": "この記念物は25~30度に傾いています。"
+        },
+        {
+            "question": "記念物の様式は何ですか？",
+            "answer": "この記念物は5階石塔の様式を果たしています。"
+        },
+        {
+            "question": "岩が土に埋もれていた理由は何ですか？",
+            "answer": "岩は風化作用によって土が分離され、長い年月の間の風化作用によって、現在の姿に露出されたものと推定されます。"
+        },
+        {
+            "question": "この岩の名称は何ですか？",
+            "answer": "この岩は伝説によると「お手玉を楽しんでいた孫のばあさんが持っている石な子」という伝説があり、そのため'公開岩'という名称が付けられました。"
+        }
+    ],
+    "word_Count": {
+        "text": 134,
+        "QA": 190
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_086342",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/view?relicId=425",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2023-10-11",
+        "domain": "문화/역사관광",
+        "title": "신발"
+    },
+    "text": "靴 (신발)\\n\nこのものは、トゥルパン·アスタナ古墳群から見つかりました。紙は八重に重ねられていて、内部には墨の跡がありますので、おそらくは廃文書を利用して作られたものと考えられます。サイズは長さ25cmです。",
+    "QA": [
+        {
+            "question": "これらの靴はどこで見つかりましたか？",
+            "answer": "これらの靴はトゥルパン·アスタナ古墳群から見つかりました。"
+        },
+        {
+            "question": "靴のサイズは何センチですか？",
+            "answer": "靴のサイズは長さ25cmです。"
+        },
+        {
+            "question": "この靴は何で作られていますか？",
+            "answer": "この靴は紙で作られており、おそらく廃文書を利用して作られたものです。"
+        }
+    ],
+    "word_Count": {
+        "text": 77,
+        "QA": 91
+    }
+}

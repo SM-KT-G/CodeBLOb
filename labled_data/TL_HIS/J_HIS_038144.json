@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_038144",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1184&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=06590000&ccbaCtcd=37&ccbaCpno=3413706590000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2018-02-26",
+        "domain": "문화/역사관광",
+        "title": "청송 경모정"
+    },
+    "text": "青松敬慕亭 (청송 경모정)\\n\n慶尚北道青松郡元昌陽キル127(県東面)\\n\n慶尚北道文化財資料、青松敬慕亭は正面3間、側面2間の中央に板の間を置き、左右にオンドル部屋を置いた中堂協室型平面で、18世紀末に建設されたと知られている。 本建物は咸安趙氏の新唐公派門中の時祭を奉行する斎舎であり、門中の学童を教育する講学施設として活用されてきており、家中義長約条によると門中の求心的建築物として維持されてきたことが確認される。 数回の改修過程を経たが、古式の柱と格式ある建具などを通じて建物の地位を推察させる。現在は正面が3間で構成されているが、本来は正面4間規模で中央2間幅の板の間で講学を行い、左右の狭間を祭礼と寝食の空間として活用したと知られている。 規模は4間から3間に減ったが、その用途と平面構成は現在まで同じように続いてきたと考えられる。",
+    "QA": [
+        {
+            "question": "青松敬慕亭はどのような建物ですか？",
+            "answer": "青松敬慕亭は正面3間、側面2間の中央に板の間を置き、左右にオンドル部屋を置いた中堂協室型平面で、18世紀末に建設された斎舎です。"
+        },
+        {
+            "question": "青松敬慕亭はどのような用途で使われていましたか？",
+            "answer": "青松敬慕亭は咸安趙氏の新唐公派門中の時祭を奉行する斎舎であり、門中の学童を教育する講学施設としても使われていました。"
+        },
+        {
+            "question": "青松敬慕亭の建物の特徴は何ですか？",
+            "answer": "青松敬慕亭は古式の柱や格式ある建具を通じて、建物の地位を推察させることができます。また、本来は正面4間規模で中央2間幅の板の間で講学を行い、左右の狭間を祭礼と寝食の空間として活用されていました。"
+        },
+        {
+            "question": "青松敬慕亭は現在も同じような用途と平面構成で使われていますか？",
+            "answer": "青松敬慕亭の規模は4間から3間に減りましたが、その用途と平面構成は現在まで同じように続いています。"
+        }
+    ],
+    "word_Count": {
+        "text": 274,
+        "QA": 261
+    }
+}

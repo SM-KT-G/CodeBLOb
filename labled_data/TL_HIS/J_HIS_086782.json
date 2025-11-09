@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_086782",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1028&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=00870000&ccbaCtcd=35&ccbaCpno=3413500870000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1984-04-01",
+        "domain": "문화/역사관광",
+        "title": "심곡사대웅전"
+    },
+    "text": "深谷寺大雄殿\\n\n全羅北道益山市郎山面長岩キル113（郎山里）\\n\n全羅北道文化財資料、深谷住む新羅無塩大使が始めたと伝えており、大雄殿は朝鮮純祖(スンジョ)19年(1819)に建てられたという。大雄殿は前面3間・側面2間規模で屋根は側面から見ると、八(八部)字形の入母屋屋根である。内側中央に釈迦牟尼仏をその左右に地蔵菩薩と観音菩薩を祀っているが、仏像の手法と様式からみて、朝鮮時代の作品と推定する。その他に阿弥陀如来フブル幀画2点、慎重幀画1点、ヒョンワン幀画1点、七星(チルソン)幀画1点と木造、羅漢像1体がいる。",
+    "QA": [
+        {
+            "question": "寺の名前は何ですか？",
+            "answer": "深谷寺大雄殿"
+        },
+        {
+            "question": "寺が建てられた年はいつですか？",
+            "answer": "朝鮮純祖(スンジョ)19年(1819)"
+        },
+        {
+            "question": "どのような仏像が寺に祀られていますか？",
+            "answer": "釈迦牟尼仏、地蔵菩薩、観音菩薩、阿弥陀如来、フブル幀画、慎重幀画、ヒョンワン幀画、七星(チルソン)幀画、木造、羅漢像"
+        },
+        {
+            "question": "寺の屋根の形はどのような形ですか？",
+            "answer": "八(八部)字形の入母屋屋根"
+        },
+        {
+            "question": "寺の所在地はどこですか？",
+            "answer": "全羅北道益山市郎山面長岩キル113（郎山里）"
+        }
+    ],
+    "word_Count": {
+        "text": 190,
+        "QA": 140
+    }
+}

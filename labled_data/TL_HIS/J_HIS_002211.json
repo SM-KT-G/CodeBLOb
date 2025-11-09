@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_002211",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101933",
+        "collectedDate": "2023-10-06",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "구일역"
+    },
+    "text": "クイルヨク \\n\nギルステーション（Guil station, 九一駅）は、ソウル特別市九老区九一路133にある首都圏電鉄1号線の電車駅である。副駅名は東洋未来大学で、近隣に東洋未来大学がある。この駅は安養川の上にあり、逍遥山行きと仁川行きの乗り場の階数が異なる。近くに高尺スカイドームがある。\\n\n",
+    "QA": [
+        {
+            "question": "ギルステーションはどこにありますか？",
+            "answer": "ギルステーションはソウル特別市九老区九一路133にあります。"
+        },
+        {
+            "question": "ギルステーションの副駅名は何ですか？",
+            "answer": "ギルステーションの副駅名は東洋未来大学です。"
+        },
+        {
+            "question": "ギルステーションの近くに何がありますか？",
+            "answer": "ギルステーションの近くには高尺スカイドームがあります。"
+        },
+        {
+            "question": "ギルステーションはどのような場所にありますか？",
+            "answer": "ギルステーションは安養川の上にあり、逍遥山行きと仁川行きの乗り場の階数が異なります。"
+        }
+    ],
+    "word_Count": {
+        "text": 110,
+        "QA": 146
+    }
+}

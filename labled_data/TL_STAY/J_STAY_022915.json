@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_022915",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42080&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "양양 설악바다나무로펜션"
+    },
+    "text": "雪岳海のナムロペンションは雪岳山と洛山の間に位置する雪岳圏の観光一番地です。 ペンションは東海を眺めることができる全客室を備えており、特に朝には東海の美しい日の出を鑑賞することができます。 また、ペンションでは22時以降に入室される場合は事前にご連絡をお願いしています。",
+    "QA": [
+        {
+            "question": "ペンションの場所はどこですか？",
+            "answer": "雪岳海のナムロペンションは雪岳山と洛山の間に位置しています。"
+        },
+        {
+            "question": "ペンションの客室はどのような眺めがありますか？",
+            "answer": "ペンションの全客室からは東海を眺めることができます。特に朝には美しい日の出を鑑賞することができます。"
+        },
+        {
+            "question": "ペンションへの入室時間は何時までですか？",
+            "answer": "22時以降に入室される場合は事前にご連絡をお願いしています。"
+        }
+    ],
+    "word_Count": {
+        "text": 99,
+        "QA": 123
+    }
+}

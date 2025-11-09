@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_002732",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "イェチョン ( 예촌 )"
+    },
+    "text": "イェチョン \n忠清北道 堤川市 清風面 清風明月路 28\n堤川市で人気の飲食店で、健康食が味わえる店です。 代表的なメニューは粗挽きカルビ焼き定食です。忠淸北道のジェチョン市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "この店は忠清北道のジェチョン市に位置しています。"
+        },
+        {
+            "question": "この店の名前は何ですか？",
+            "answer": "この店の名前はありませんが、代表的なメニューは粗挽きカルビ焼き定食です。"
+        },
+        {
+            "question": "この店の特徴は何ですか？",
+            "answer": "この店は健康食が味わえる店で、韓食専門店です。"
+        },
+        {
+            "question": "この店の人気メニューは何ですか？",
+            "answer": "この店の代表的なメニューは粗挽きカルビ焼き定食です。"
+        }
+    ],
+    "word_Count": {
+        "text": 73,
+        "QA": 118
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_102801",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=968&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=00160000&ccbaCtcd=26&ccbaCpno=3412600160000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2000-11-09",
+        "domain": "문화/역사관광",
+        "title": "주전봉수대관련고문서"
+    },
+    "text": "蔚山広域市文化財資料は、主力烽燧台(蔚山広域市記念物第3号)の運営実像を示す古文書だ。この古文書は哲宗9年(1858)から高宗33年(1896)までの期間中に作成されており、計11点の文書で構成されている。この文書は韓紙に筆写されたものだ。古文書には主力烽燧台の別荘任命状と近隣の同数に軍浦を徹底的に徴収するというチョンリョンムン、烽燧台近くの村から得た金銭の内訳を記録した文書、兵器と装備の一覧、そして別荘の異常有無を点検して報告した文書が含まれている。この古文書を通じて主力烽燧台は、受領の管轄下ににあり、烽燧軍は、ボンス業務だけでなく、敵軍との戦闘にも参加する軍事的な役割を遂行したということを知ることができる。また、烽燧台付近の住民たちが烽燧軍の役を演じ、軍用などの運営経費を共同で負担したことを知ることができる。",
+    "QA": [
+        {
+            "question": "主力烽燧台はいつ建設されましたか？",
+            "answer": "主力烽燧台は哲宗9年（1858年）から高宗33年（1896年）までの期間に建設されました。"
+        },
+        {
+            "question": "主力烽燧台の運営に関して、どのような文書が作成されましたか？",
+            "answer": "主力烽燧台の運営に関しては、別荘任命状、チョンリョンムン（軍浦徴収の文書）、金銭の内訳記録、兵器と装備の一覧、異常報告などの文書が作成されました。"
+        },
+        {
+            "question": "主力烽燧台の役割は何ですか？",
+            "answer": "主力烽燧台は、受領の管轄下にあり、烽燧軍の運営だけでなく、敵軍との戦闘にも参加する軍事的な役割を遂行しました。"
+        },
+        {
+            "question": "烽燧軍の運営経費は誰が負担しましたか？",
+            "answer": "烽燧軍の運営経費は、烽燧台付近の住民たちが共同で負担しました。"
+        }
+    ],
+    "word_Count": {
+        "text": 264,
+        "QA": 208
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_005000",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42060&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "서산 웅도스토리펜션"
+    },
+    "text": "こんにちは。忠清南道瑞山に位置するウンドストーリーペンションです。 ウンドストーリーペンションでは、お客様の便宜のためにいくつかの事項をご案内したいと思います。 まず、入室の際には泊まる時間を確認してください。 そして、もし22時以降に入室される場合は、あらかじめペンションまでご連絡いただき、事前にお知らせいただければ幸いです。 ありがとうございます。",
+    "QA": [
+        {
+            "question": "ウンドストーリーペンションの場所はどこですか？",
+            "answer": "ウンドストーリーペンションは忠清南道瑞山に位置しています。"
+        },
+        {
+            "question": "ウンドストーリーペンションのチェックイン時間はいつですか？",
+            "answer": "ウンドストーリーペンションのチェックイン時間はご予約の時間によりますので、事前に確認してください。"
+        },
+        {
+            "question": "ウンドストーリーペンションのチェックインが22時以降の場合はどうすればいいですか？",
+            "answer": "ウンドストーリーペンションのチェックインが22時以降の場合は、事前にペンションまでご連絡いただき、お知らせください。"
+        }
+    ],
+    "word_Count": {
+        "text": 129,
+        "QA": 167
+    }
+}

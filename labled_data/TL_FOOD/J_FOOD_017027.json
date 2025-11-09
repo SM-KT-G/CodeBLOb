@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_017027",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/gyeryongsaneop",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "鷄龍産業（株）德裕山（下）サービスエリア （德裕山飯床）"
+    },
+    "text": "鷄龍産業（株）德裕山（下）サービスエリア （德裕山飯床）\\n\n全羅北道 長水郡 渓北面 トンヨンデジョンゴソクトロ 147\\n\n高速道路サービスエリアの韓食堂です。",
+    "QA": [
+        {
+            "question": "このサービスエリアの名称は何ですか？",
+            "answer": "鷄龍産業（株）德裕山（下）サービスエリア （德裕山飯床）です。"
+        },
+        {
+            "question": "このサービスエリアがある場所はどこですか？",
+            "answer": "全羅北道 長水郡 渓北面 トンヨンデジョンゴソクトロ 147にあります。"
+        },
+        {
+            "question": "このサービスエリアの特徴は何ですか？",
+            "answer": "高速道路サービスエリアの韓食堂です。"
+        }
+    ],
+    "word_Count": {
+        "text": 60,
+        "QA": 104
+    }
+}

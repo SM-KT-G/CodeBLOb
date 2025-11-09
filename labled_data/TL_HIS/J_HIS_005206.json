@@ -1,0 +1,55 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_005206",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=500&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=01650100&ccbaCtcd=38&ccbaCpno=2113801650100&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1979-12-29",
+        "domain": "문화/역사관광",
+        "title": "허전 성재집 목판"
+    },
+    "text": "ホジョンソンジェの家の木版 (허전 성재집 목판 )\\n\n慶尚南道晋州市晋州大路501(加佐洞、慶尚大学校)\\n\n朝鮮高宗 , 慶尚南道有形文化財 , この本版は朝鮮時代の文臣·許伝の文集であるソンジェ文集を刊行するために作ったものである。 許田(1797~1886)の字<字>は色<<老>、号<号>はソンジェ、本貫<本貫>は陽川<陽川>である。 憲宗<憲宗>元年<元禄年>(1835)別試文科<別試文科>に及第<及第>して兵曹<兵曹>·刑曹<刑曹>·吏曹参判<曹参判>を経て漢城府判尹<漢城府判尹>·刑曹判書〈刑事判書〉·同志成均館史〈同知成監事〉·知経研事〉を歴任 < 臨調判書〉に至った。 諡号< 諡号 >は文献< 文献 >である。 ソンジェ文集は、史義、宗要録、宗要録などが収録され、鉄名編<哲命編>とともに板刻<板刻>された744枚が、麗澤堂蔵板閣に保存されている。 李宅堂は許前の業績を称えるために厚生たちが高宗28年(1891)に建てた斎室である。",
+    "QA": [
+        {
+            "question": "許伝の文集を刊行するために作られたこの木版はどこにありますか？",
+            "answer": "この木版は慶尚南道晋州市晋州大路501にあるホジョンソンジェの家にあります。"
+        },
+        {
+            "question": "許伝の字は何ですか？",
+            "answer": "許伝の字は色です。"
+        },
+        {
+            "question": "許伝の号は何ですか？",
+            "answer": "許伝の号はソンジェです。"
+        },
+        {
+            "question": "許伝の本貫はどこですか？",
+            "answer": "許伝の本貫は陽川です。"
+        },
+        {
+            "question": "許伝はどのような地位を歴任しましたか？",
+            "answer": "許伝は兵曹・刑曹・吏曹参判を経て漢城府判尹・刑曹判書・同志成均館史・知経研事に至りました。"
+        },
+        {
+            "question": "ソンジェ文集は何が収録されていますか？",
+            "answer": "ソンジェ文集には史義・宗要録などが収録されています。"
+        },
+        {
+            "question": "ソンジェ文集は何枚の板刻が保存されていますか？",
+            "answer": "ソンジェ文集は744枚の板刻が麗澤堂蔵板閣に保存されています。"
+        },
+        {
+            "question": "李宅堂は誰のために建てられましたか？",
+            "answer": "李宅堂は許前の業績を称えるために厚生たちが建てました。"
+        }
+    ],
+    "word_Count": {
+        "text": 316,
+        "QA": 250
+    }
+}

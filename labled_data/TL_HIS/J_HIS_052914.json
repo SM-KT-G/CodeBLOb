@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_052914",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1122&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=03220000&ccbaCtcd=37&ccbaCpno=3413703220000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1996-12-05",
+        "domain": "문화/역사관광",
+        "title": "광풍정"
+    },
+    "text": "先生は、官職を志しておらず、故郷で学問研究に没頭して多くの後輩を養成した。精子は憲宗4年に儒林たちが直して現在の姿になった。規模は表3間、側面2間で構成され、入母屋屋根で構成されている。光風亭は特異な平面構造で対角線で対称された空間配置をしており、建築史的意義が大きい。",
+    "QA": [
+        {
+            "question": "この建物の名称は何ですか？",
+            "answer": "この建物の名称は光風亭です。"
+        },
+        {
+            "question": "光風亭は何のために使用されていましたか？",
+            "answer": "光風亭は学問研究のために使用されていました。"
+        },
+        {
+            "question": "光風亭はいつ建てられましたか？",
+            "answer": "光風亭は憲宗4年に建てられました。"
+        },
+        {
+            "question": "光風亭の規模はどれくらいですか？",
+            "answer": "光風亭の規模は表3間、側面2間です。"
+        },
+        {
+            "question": "光風亭はどのような平面構造を持っていますか？",
+            "answer": "光風亭は特異な平面構造で対角線で対称された空間配置をしています。"
+        },
+        {
+            "question": "光風亭の建築史的意義は何ですか？",
+            "answer": "光風亭の建築史的意義は非常に大きいです。"
+        }
+    ],
+    "word_Count": {
+        "text": 99,
+        "QA": 165
+    }
+}

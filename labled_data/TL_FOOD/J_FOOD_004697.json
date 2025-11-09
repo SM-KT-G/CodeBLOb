@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_004697",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-06-24",
+        "domain": "음식점",
+        "title": "カヤハルメミルミョン専門店（가야할매밀면전문점）"
+    },
+    "text": "カヤハルメミルミョン専門店（가야할매밀면전문점）釜山広域市 蓮堤区 ワールドカップ大路145番キル32\\n\n「カヤハルメミルミョン」は、蓮山洞に位置する釜山の代表料理であるミルミョン（小麦麺）の専門店です。",
+    "QA": [
+        {
+            "question": "カヤハルメミルミョン専門店はどこにありますか？",
+            "answer": "カヤハルメミルミョン専門店は釜山広域市蓮堤区ワールドカップ大路145番キル32に位置しています。"
+        },
+        {
+            "question": "カヤハルメミルミョンとはどのような料理ですか？",
+            "answer": "カヤハルメミルミョンは釜山の代表的な料理であるミルミョン（小麦麺）の専門店です。"
+        },
+        {
+            "question": "ミルミョンとは何ですか？",
+            "answer": "ミルミョンは小麦麺のことで、釜山で人気のある麺料理です。"
+        }
+    ],
+    "word_Count": {
+        "text": 75,
+        "QA": 127
+    }
+}

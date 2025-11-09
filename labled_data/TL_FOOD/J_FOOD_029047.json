@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_029047",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "漢南干しスケトウダラスープ ( 한남북엇국 )"
+    },
+    "text": "漢南干しスケトウダラスープ ( 한남북엇국 )\nソウル特別市 龍山区 読書堂路 65-7\nチヂミのおつまみが人気の居酒屋です。おすすめは干しスケトウダラスープです。ソウル特別市のヨンサン区に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "この居酒屋の場所はどこですか？",
+            "answer": "ソウル特別市のヨンサン区に位置しています。"
+        },
+        {
+            "question": "この居酒屋のおすすめ料理は何ですか？",
+            "answer": "干しスケトウダラスープがおすすめです。"
+        },
+        {
+            "question": "この居酒屋の特徴は何ですか？",
+            "answer": "チヂミのおつまみが人気です。"
+        },
+        {
+            "question": "この居酒屋は韓国のどの地域にありますか？",
+            "answer": "ソウル特別市のヨンサン区に位置しています。"
+        },
+        {
+            "question": "この居酒屋は何で有名ですか？",
+            "answer": "干しスケトウダラスープが人気です。"
+        }
+    ],
+    "word_Count": {
+        "text": 78,
+        "QA": 126
+    }
+}

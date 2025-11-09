@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_029485",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-06",
+        "domain": "음식점",
+        "title": "紅味鶏足 禾谷洞 ( 홍미닭발 화곡동 )"
+    },
+    "text": "紅味鶏足 禾谷洞 ( 홍미닭발 화곡동 )\\n\nソウル特別市 江西区 ファゴクロ56ギル33\\n\n韓国人が好む辛い味が楽しめる店です。おすすめは鶏足です。ソウル特別市のガンソ区に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "この店の名前は何ですか？",
+            "answer": "紅味鶏足 禾谷洞 ( 홍미닭발 화곡동 )"
+        },
+        {
+            "question": "この店はどこに位置していますか？",
+            "answer": "ソウル特別市 江西区 ファゴクロ56ギル33"
+        },
+        {
+            "question": "この店ではどんな料理が楽しめますか？",
+            "answer": "鶏足などの韓国人が好む辛い味の料理が楽しめます。"
+        },
+        {
+            "question": "この店は韓食専門店ですか？",
+            "answer": "はい、韓食専門店です。"
+        },
+        {
+            "question": "この店のおすすめメニューは何ですか？",
+            "answer": "おすすめは鶏足です。"
+        }
+    ],
+    "word_Count": {
+        "text": 74,
+        "QA": 121
+    }
+}

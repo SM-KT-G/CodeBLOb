@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_110224",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=22&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=11&ccbaAsno=02530000&ccbaCtcd=11&ccbaCpno=1111102530000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1990-05-21",
+        "domain": "문화/역사관광",
+        "title": "청자 양각연화당초상감모란문 은테 발"
+    },
+    "text": "青磁 陽刻蓮華堂 肖像画 牡丹門 銀縁 足\\n\nソウル特別市龍山区西氷庫路137(龍山洞6街、ジャン·ジャン)\\n\n国宝、高麗時代に作られた青磁大楪と口のあたりに白覆輪があり、大きさは高さ7.7センチ、口直径18.7センチ、下の直径6.3センチだ。の内側の面には蓮の花、蔓の模様を大々的に撮って、外側の面には牡丹を簡略に象嵌(ぞうがん)し、互いに他の技法で内・外面に文様を装飾する方法を取った。側面中央には円があり、その中に花柄があり、側面には、蓮の花のつるが、口のまわりには、蔓の模様の帯がめぐらされている。外径面には中央の三箇所に牡丹の文様が白黒の象眼なっている。釉薬はやや半透明な淡いブルーを帯びたフェノクセクだ。この大皿は、内側と外の面で互いに異なった手法を使用したのですが、この手法は玉様式(象嵌青磁の本格的に流行する前に一面に象嵌技法(ぞうがんぎほう)を使用)と象嵌青磁(ぞうがんせいじ)様式を混合したもので、この遺物が唯一だという点で価値が高い。",
+    "QA": [
+        {
+            "question": "この国宝の青磁大楪は何時代に作られましたか？",
+            "answer": "この国宝の青磁大楪は高麗時代に作られました。"
+        },
+        {
+            "question": "青磁大楪の大きさはどのくらいですか？",
+            "answer": "青磁大楪の大きさは、高さ7.7センチ、口直径18.7センチ、下の直径6.3センチです。"
+        },
+        {
+            "question": "青磁大楪の内側の面にはどのような模様がありますか？",
+            "answer": "青磁大楪の内側の面には蓮の花、蔓の模様が大々的に撮ってあります。"
+        },
+        {
+            "question": "青磁大楪の外側の面には何が象嵌されていますか？",
+            "answer": "青磁大楪の外側の面には牡丹が簡略に象嵌されています。"
+        },
+        {
+            "question": "青磁大楪の釉薬の色はどのような特徴がありますか？",
+            "answer": "青磁大楪の釉薬はやや半透明な淡いブルーを帯びたフェノクセクです。"
+        }
+    ],
+    "word_Count": {
+        "text": 315,
+        "QA": 195
+    }
+}

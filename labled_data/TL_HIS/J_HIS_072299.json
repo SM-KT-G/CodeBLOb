@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_072299",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/view?relicId=107685",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "벽화 조각"
+    },
+    "text": "壁画片 (벽화 조각)\\n\n,国籍/時代:'韓国 - 時代不詳' ,材質:'ギター - ギター' ,分類:'文化芸術 - 書画 - 壁画 - 壁画' ,サイズ:'現在長さ60cm、現在幅47cm'",
+    "QA": [
+        {
+            "question": "この壁画片はどの国のものですか？",
+            "answer": "この壁画片は韓国のものです。"
+        },
+        {
+            "question": "この壁画片は何時代のものですか？",
+            "answer": "この壁画片の制作時代は詳しく分かっておりません。"
+        },
+        {
+            "question": "この壁画片は何の材質で作られていますか？",
+            "answer": "この壁画片はギターの材質で作られています。"
+        },
+        {
+            "question": "この壁画片はどのような分類に属していますか？",
+            "answer": "この壁画片は文化芸術の一環として書画と壁画の分類に属しています。"
+        },
+        {
+            "question": "この壁画片の現在の大きさは何ですか？",
+            "answer": "この壁画片の現在の長さは60cm、幅は47cmです。"
+        }
+    ],
+    "word_Count": {
+        "text": 71,
+        "QA": 153
+    }
+}

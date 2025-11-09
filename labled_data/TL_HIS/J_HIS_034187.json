@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_034187",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1097&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=02300000&ccbaCtcd=37&ccbaCpno=3413702300000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1990-08-07",
+        "domain": "문화/역사관광",
+        "title": "함계정사"
+    },
+    "text": "艦鶏艇士 (함계정사)\\n\n慶尚北道永川市臨皐面仙源里203-2番地\\n\n慶尚北道文化財資料 , 壬辰倭乱の時、義兵長だったチョン·セア先生の子孫であるチョン·ソクダル(1660~1720)が学問を教えるために建てた建物だ。 チョン·ソクダルは朝鮮後期の性理学者で人柄と徳望が高かった。 病臥イ·ヒョンサン先生と学問を講論して一生を過ごし、文集としては『嘉礼考証』などが残っている。 粛宗28年(1702)に安楽斎という名前で建てたこの建物は正祖3年(1779)先生の孫日燦公が建て直し、咸渓亭寺と言った。",
+    "QA": [
+        {
+            "question": "この建物は何のために建てられましたか？",
+            "answer": "チョン·ソクダル先生が学問を教えるために建てられました。"
+        },
+        {
+            "question": "チョン·ソクダル先生は何を研究していましたか？",
+            "answer": "チョン·ソクダル先生は朝鮮後期の性理学者でした。"
+        },
+        {
+            "question": "この建物はいつ建てられましたか？",
+            "answer": "粛宗28年(1702)に安楽斎という名前で建てられました。"
+        },
+        {
+            "question": "この建物は後に何と呼ばれるようになりましたか？",
+            "answer": "後に咸渓亭寺と呼ばれるようになりました。"
+        },
+        {
+            "question": "チョン·ソクダル先生の文集には何が残っていますか？",
+            "answer": "チョン·ソクダル先生の文集としては『嘉礼考証』などが残っています。"
+        }
+    ],
+    "word_Count": {
+        "text": 185,
+        "QA": 176
+    }
+}

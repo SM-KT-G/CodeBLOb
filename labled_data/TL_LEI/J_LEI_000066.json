@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_LEI_000066",
+        "source": "도서",
+        "writer": "이명성",
+        "ISBN_ISNN": "978-89-9865-693-5",
+        "version": "초판",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "오늘도 공방으로 출근합니다",
+        "collectedDate": "2023-11-10",
+        "publishedDate": "2020-01-22",
+        "domain": "레포츠",
+        "title": "studio when you smile"
+    },
+    "text": "「when you smile」は光州新倉洞に位置するキャンドル工房で、香り高い製品を作り出す空間です。 現在キャンドルクラスを再オープンして常時募集中であり、詳しいカリキュラムはブログで確認できます。 ご注文の商品は1~2日前にご注文いただき、「when you smile」クラスは予約制で小規模で行われます。 作業室を空ける外部スケジュールがありますので、訪問前にご連絡ください。 営業時間は水曜日から木曜日まで12:30~19:00で、土曜日は13:00~18:00に営業しています。 \"when you smile\"は光州新倉洞工房通りに位置し、駐車場入口側に位置する新倉洞行政福祉センターの向かい側にあります。",
+    "QA": [
+        {
+            "question": "「when you smile」はどこに位置していますか？",
+            "answer": "「when you smile」は光州新倉洞に位置しています。"
+        },
+        {
+            "question": "「when you smile」は何を作っていますか？",
+            "answer": "「when you smile」は香り高い製品を作っています。"
+        },
+        {
+            "question": "「when you smile」の営業時間は何時から何時までですか？",
+            "answer": "「when you smile」の営業時間は水曜日から木曜日まで12:30〜19:00、土曜日は13:00〜18:00です。"
+        },
+        {
+            "question": "「when you smile」クラスはどのように予約することができますか？",
+            "answer": "「when you smile」クラスは予約制であり、事前にご連絡いただくことで予約することができます。"
+        },
+        {
+            "question": "「when you smile」の作業室を訪問する前に連絡する必要がありますか？",
+            "answer": "はい、訪問前にご連絡いただく必要があります。作業室が外部スケジュールで空ける場合があるため、事前に連絡してください。"
+        }
+    ],
+    "word_Count": {
+        "text": 228,
+        "QA": 294
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "data_info": {
+        "documentID": "J_LEI_000268",
+        "source": "도서",
+        "writer": "경기관광공사",
+        "ISBN_ISNN": "978-89-8431-959-2",
+        "version": "초판",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "아이와 함께 떠나는 주말 체험 여행",
+        "collectedDate": "2023-11-10",
+        "publishedDate": "2016-02-10",
+        "domain": "레포츠",
+        "title": "어스"
+    },
+    "text": "AUTH perfume studioのクラスは1チームのみで運営され、専門調香師が集中的に受講生の好みを把握し、香水の製造をお手伝いします。 これにより、他の場所よりも完成度の高い香水を作ることができます。 クラスは100%先行予約制で運営され、1チームのみで行われます。 香料は動物性実験を行わないビーガン香料で製作されます。 AUTHパフュマーは調香師資格証と専門講師資格証を保有しており、韓国調香教育振興院所属の専門調香講師です。 江陵を訪れた方、一日を記憶したい方、ヒーリングを望む方、特別なプレゼントをしたい方に最も意味のある時間を提供します。 ワンデークラスは香水の製造に集中し、他のフレグランス製品は製作依頼のみ可能です。 駐車は無料公営駐車場が利用でき、徒歩約3分の距離に位置しています。",
+    "QA": [
+        {
+            "question": "AUTH perfume studioは何人の専門調香師で運営されていますか？",
+            "answer": "AUTH perfume studioは1人の専門調香師のみで運営されています。"
+        },
+        {
+            "question": "AUTH perfume studioではどのような香水の製造を手伝ってもらえますか？",
+            "answer": "AUTH perfume studioでは専門調香師が受講生の好みを把握し、香水の製造を手伝ってくれます。"
+        },
+        {
+            "question": "AUTH perfume studioでは香料にどのようなものを使用していますか？",
+            "answer": "AUTH perfume studioでは動物性実験を行わないビーガン香料を使用しています。"
+        },
+        {
+            "question": "AUTHパフュマーはどのような資格を持っていますか？",
+            "answer": "AUTHパフュマーは調香師資格証と専門講師資格証を持っています。"
+        },
+        {
+            "question": "AUTH perfume studioを訪れるとどのような時間を過ごすことができますか？",
+            "answer": "AUTH perfume studioを訪れると、一日を記憶したりヒーリングしたりすることができます。また、特別なプレゼントを作ることもできます。"
+        },
+        {
+            "question": "AUTH perfume studioのワンデークラスではどのような製品を製作できますか？",
+            "answer": "AUTH perfume studioのワンデークラスでは香水の製造に集中し、他のフレグランス製品は製作依頼のみ可能です。"
+        },
+        {
+            "question": "AUTH perfume studioの駐車場は利用できますか？",
+            "answer": "AUTH perfume studioの駐車場は無料公営駐車場が利用できます。"
+        }
+    ],
+    "word_Count": {
+        "text": 258,
+        "QA": 450
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_005993",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=741&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=22&ccbaAsno=00340000&ccbaCtcd=35&ccbaCpno=2223500340000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "가사"
+    },
+    "text": "歌辞 (가사)\\n\n全羅北道無形文化財 , 1935年扶安で生まれたキム·ボンギは幼い頃、石岩チョン·ギョンテと同じ村で暮らしながら歌詞を学び、以後全羅北道無形文化財コ·ミンスンからも師事された。キム·ボンギは清が澄んで静かなだけでなく、高音処理にも途切れそうでも途切れずに玉が転がるように柔軟に音を継続する感じが特徴だ。 キム·ボンギは全州全国男女時調経営大会、全国男女時調競唱大会など多数の大会で入賞した。",
+    "QA": [
+        {
+            "question": "キム・ボンギはいつ生まれましたか？",
+            "answer": "キム・ボンギは1935年に生まれました。"
+        },
+        {
+            "question": "キム・ボンギはどこで生まれましたか？",
+            "answer": "キム・ボンギは全羅北道の扶安で生まれました。"
+        },
+        {
+            "question": "キム・ボンギはどのように歌詞を学びましたか？",
+            "answer": "キム・ボンギは石岩チョン・ギョンテと同じ村で暮らしながら歌詞を学びました。"
+        },
+        {
+            "question": "キム・ボンギはどのような歌唱スタイルを持っていますか？",
+            "answer": "キム・ボンギは清が澄んで静かなだけでなく、高音処理にも途切れそうでも途切れずに玉が転がるように柔軟に音を継続する感じが特徴です。"
+        },
+        {
+            "question": "キム・ボンギはどのような大会で入賞しましたか？",
+            "answer": "キム・ボンギは全州全国男女時調経営大会、全国男女時調競唱大会など多数の大会で入賞しました。"
+        }
+    ],
+    "word_Count": {
+        "text": 150,
+        "QA": 216
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_005024",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "キョンイル大飯店 ( 경일대반점 )"
+    },
+    "text": "キョンイル大飯店 ( 경일대반점 )\n慶尚北道 安東市 太華キル 52\n安東で抹茶麺を使った老舗の名店です。慶尚北道のアンドン市に位置した中華専門店です。おすすめはジャージャー麺です。",
+    "QA": [
+        {
+            "question": "キョンイル大飯店はどこにありますか？",
+            "answer": "キョンイル大飯店は慶尚北道安東市太華キル52に位置しています。"
+        },
+        {
+            "question": "キョンイル大飯店でおすすめのメニューは何ですか？",
+            "answer": "おすすめはジャージャー麺です。"
+        },
+        {
+            "question": "キョンイル大飯店はどのようなお店ですか？",
+            "answer": "キョンイル大飯店は老舗の中華専門店です。"
+        },
+        {
+            "question": "キョンイル大飯店の特徴は何ですか？",
+            "answer": "キョンイル大飯店は抹茶麺を使った料理が人気の特徴です。"
+        },
+        {
+            "question": "キョンイル大飯店の住所は何ですか？",
+            "answer": "キョンイル大飯店の住所は慶尚北道安東市太華キル52です。"
+        }
+    ],
+    "word_Count": {
+        "text": 67,
+        "QA": 159
+    }
+}

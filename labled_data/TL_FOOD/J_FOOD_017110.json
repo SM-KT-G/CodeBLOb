@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_017110",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2022-11-25",
+        "domain": "음식점",
+        "title": "고려한방삼계탕"
+    },
+    "text": "高麗韓方 (고려한방삼계탕)\\n\n仁川広域市弥鄒忽区仁州大路404\\n\n高麗参鶏湯の韓方参鶏湯には特別な要素があります。なぜなら、オーナーの父親は中央韓方医院の院長であり、韓方医院で直接作られた薬剤を使用しているからです。そのため、味だけでなく健康にも非常に良いと言えます。",
+    "QA": [
+        {
+            "question": "高麗韓方の場所はどこですか？",
+            "answer": "高麗韓方は仁川広域市弥鄒忽区仁州大路404にあります。"
+        },
+        {
+            "question": "韓方参鶏湯の特別な要素は何ですか？",
+            "answer": "韓方参鶏湯には中央韓方医院の院長が直接作った薬剤が使用されており、健康に非常に良いと言われています。"
+        },
+        {
+            "question": "韓方参鶏湯の味はどうですか？",
+            "answer": "韓方参鶏湯はただ美味しいだけでなく、健康にも良いと言われています。"
+        }
+    ],
+    "word_Count": {
+        "text": 100,
+        "QA": 113
+    }
+}

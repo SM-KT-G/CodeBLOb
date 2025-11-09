@@ -1,0 +1,51 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_038567",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=453&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=01010000&ccbaCtcd=33&ccbaCpno=2113301010000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1981-12-26",
+        "domain": "문화/역사관광",
+        "title": "진천향교"
+    },
+    "text": "鎮川郷校 (진천향교)\\n\n忠清北道鎮川郡鎮川邑文化5ギル30(校城里)\\n\n忠清北道有形文化財、郷校は立派な儒学者を祭祀し、地方民の儒学教育と教化のために国で建てた教育機関だ。 鎮川郷校は朝鮮太祖(在位1392~1398)の時に建てられたもので、純祖4年(1804)に明倫堂と東斎·西斎を直し、風化楼を建てた。 1816年には大成殿を修理し、その後数回の修理があった。 現在残っている建物は大成殿·東武·庶務·明倫堂·風化楼などと付属建物が残っている。 大成殿は孔子をはじめとする多くの聖賢の位牌を祀って祭祀を行う場所で、東武·庶務と共に祭祀空間を形成する。 明倫堂は学生たちが勉強していた講堂で、これを中心に学びの空間が行われる。 風化楼は学生たちの憩いの場であり、楼門の機能も果たした。 朝鮮時代には国家から土地·本·奴婢などを支給され学生たちを教えたが、甲午改革(1894)以後には教育的機能は消え春·秋の2回にわたって祭祀だけが行われている。",
+    "QA": [
+        {
+            "question": "鎮川郷校はどのような教育機関ですか？",
+            "answer": "鎮川郷校は、地方民の儒学教育と教化のために国で建てられた教育機関です。"
+        },
+        {
+            "question": "鎮川郷校はいつ建てられましたか？",
+            "answer": "鎮川郷校は朝鮮太祖の時に建てられ、純祖4年(1804)に明倫堂と東斎・西斎を直し、風化楼を建てました。"
+        },
+        {
+            "question": "鎮川郷校にはどのような建物が残っていますか？",
+            "answer": "鎮川郷校には大成殿・東武・庶務・明倫堂・風化楼などの建物が残っています。"
+        },
+        {
+            "question": "大成殿は何のために使われていましたか？",
+            "answer": "大成殿は聖賢の位牌を祀り、祭祀を行うための場所でした。"
+        },
+        {
+            "question": "明倫堂はどのような場所でしたか？",
+            "answer": "明倫堂は学生たちが勉強していた講堂でした。"
+        },
+        {
+            "question": "風化楼はどのような役割を果たしていましたか？",
+            "answer": "風化楼は学生たちの憩いの場であり、楼門の機能も果たしていました。"
+        },
+        {
+            "question": "鎮川郷校は現在も教育機能を持っていますか？",
+            "answer": "甲午改革以後、鎮川郷校の教育的機能は消えており、現在は春・秋の2回にわたって祭祀が行われています。"
+        }
+    ],
+    "word_Count": {
+        "text": 312,
+        "QA": 282
+    }
+}

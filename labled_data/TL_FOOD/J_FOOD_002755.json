@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_002755",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "イェンナルジブチャムスッグイ（옛날집참숯구이）"
+    },
+    "text": "イェンナルジブチャムスッグイ（옛날집참숯구이）\\n\nソウル特別市 麻浦区 オウルマダン路 143\\n\nソウル特別市ホンデイック駅の近くに位置したバーベキュー専門店です。韓国式BBQ専門店です。おすすめはサムギョプサルです。",
+    "QA": [
+        {
+            "question": "イェンナルジブチャムスッグイはどこに位置していますか？",
+            "answer": "イェンナルジブチャムスッグイはソウル特別市麻浦区オウルマダン路143に位置しています。"
+        },
+        {
+            "question": "イェンナルジブチャムスッグイは何を専門としていますか？",
+            "answer": "イェンナルジブチャムスッグイは韓国式BBQ専門店です。"
+        },
+        {
+            "question": "イェンナルジブチャムスッグイのおすすめは何ですか？",
+            "answer": "イェンナルジブチャムスッグイのおすすめはサムギョプサルです。"
+        }
+    ],
+    "word_Count": {
+        "text": 81,
+        "QA": 131
+    }
+}

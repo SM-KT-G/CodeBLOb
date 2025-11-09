@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_029504",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/goods/GN0002155020?startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0%5E&npprmaxsort=min",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "용인 해피사바스 운영 정책"
+    },
+    "text": "チェックインは午後3時となっており、チェックアウトは午前11時となっています。 入室のご利用案内にはキッチンで直接料理できるスペースや庭内にバーベキューができるかまどがあるそうです。 キッチンには浄水器も設置されています。",
+    "QA": [
+        {
+            "question": "チェックインとチェックアウトの時間は何時ですか？",
+            "answer": "チェックインは午後3時となっており、チェックアウトは午前11時となっています。"
+        },
+        {
+            "question": "キッチンで料理ができるスペースはありますか？",
+            "answer": "はい、キッチンで直接料理ができるスペースがあります。"
+        },
+        {
+            "question": "庭内でバーベキューができるかまどはありますか？",
+            "answer": "はい、庭内にバーベキューができるかまどがあります。"
+        },
+        {
+            "question": "キッチンには浄水器がありますか？",
+            "answer": "はい、キッチンには浄水器が設置されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 81,
+        "QA": 144
+    }
+}

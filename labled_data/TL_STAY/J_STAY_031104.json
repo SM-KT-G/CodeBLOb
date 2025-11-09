@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_031104",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/goods/GN0002142881?startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0%5E&npprmaxsort=min",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "남양주 북한강펜션"
+    },
+    "text": "こんにちは。ナミャンジュ北漢江ペンションです。 ペンションでは22時以降は庭で騒いではいけません。 これは、他の宿泊客の休憩を妨げる可能性があるためです。 また、お子様連れの場合、塗り絵具やサインペンなどの絵の具はお持ち込みいただけません。 これは、破損や寝具類の汚染を予防するための措置です。 もし破損または汚染が発生した場合、洗濯費と修理費が発生することがありますのでご注意ください。 ありがとうございます。",
+    "QA": [
+        {
+            "question": "ペンションでの庭での騒ぎはなぜ禁止されていますか？",
+            "answer": "他の宿泊客の休憩を妨げる可能性があるためです。"
+        },
+        {
+            "question": "お子様連れの場合、なぜ絵の具を持ち込むことはできませんか？",
+            "answer": "破損や寝具類の汚染を予防するための措置です。"
+        },
+        {
+            "question": "破損や汚染が発生した場合、どのような費用が発生しますか？",
+            "answer": "洗濯費と修理費が発生することがあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 151,
+        "QA": 107
+    }
+}

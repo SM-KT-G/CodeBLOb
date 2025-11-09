@@ -1,0 +1,51 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_081703",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=459&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=01090000&ccbaCtcd=31&ccbaCpno=2113101090000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1981-07-16",
+        "domain": "문화/역사관광",
+        "title": "석남사마애여래입상"
+    },
+    "text": "京畿道有形文化財、石南寺で約1km離れた山の麓に位置した高さ7m、幅6.5mに達する岸壁に刻まれた高麗時代の磨崖(佛像だ。この、磨崖(佛像は上半身と下半身の割合が少し異なり、身体屈曲や量感がはっきりしなくて少し平面的な感じを与える。衣のひだでは統一新羅時代の仏像の形式をよく受け継ぎ、彫りが鮮明、かなり完成度のある賞と推定される。頭から出る光を形象化した同心円の原型頭光と身体から出る光を形象化した信光が長く表現された。足の指5本がある限り、二重ヨンファ台座の上には太く短い顔、目と鼻、口が小さな顔がある。耳は長くて薄いですが一方、首は短くて太く、壮大な咽喉縫合線がある。両手を胸まで持ち上げ、右手は手の平を外にして、左手は手の甲を見せ、冒頭の親指と中指を突き合わせている。これはブッダが教えを広げる時の手の姿と推定される。",
+    "QA": [
+        {
+            "question": "この磨崖(佛像が位置する場所はどこですか？",
+            "answer": "石南寺から約1km離れた山の麓に位置しています。"
+        },
+        {
+            "question": "磨崖(佛像の高さと幅はそれぞれいくらですか？",
+            "answer": "高さは7m、幅は6.5mに達しています。"
+        },
+        {
+            "question": "この磨崖(佛像は何時代のものですか？",
+            "answer": "高麗時代の磨崖(佛像です。"
+        },
+        {
+            "question": "この磨崖(佛像の特徴は何ですか？",
+            "answer": "上半身と下半身の割合が少し異なり、身体屈曲や量感がはっきりしなくて少し平面的な感じを与えています。"
+        },
+        {
+            "question": "磨崖(佛像の彫りはどのような特徴がありますか？",
+            "answer": "統一新羅時代の仏像の形式を受け継ぎ、彫りが鮮明でかなり完成度のある賞と推定されています。"
+        },
+        {
+            "question": "この磨崖(佛像にはどのような光が表現されていますか？",
+            "answer": "頭から出る光を形象化した同心円の原型頭光と身体から出る光を形象化した信光が長く表現されています。"
+        },
+        {
+            "question": "磨崖(佛像の手の姿は何を表していると推定されていますか？",
+            "answer": "両手を胸まで持ち上げ、右手は手の平を外にして、左手は手の甲を見せ、冒頭の親指と中指を突き合わせている姿は、ブッダが教えを広げる時の手の姿と推定されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 265,
+        "QA": 315
+    }
+}

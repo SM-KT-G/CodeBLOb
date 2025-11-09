@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_105250",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=724&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=22&ccbaAsno=00170000&ccbaCtcd=22&ccbaCpno=2222200170000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2023-11-03",
+        "domain": "문화/역사관광",
+        "title": "창호장"
+    },
+    "text": "大邱広域市は無形文化財として、韓国建築議長(建築意匠)で建具の重要性が大きい。特に宮殿建築の場合、ほとんど大部分を扉で処理する。韓国の建具は建築の場を決定する重要な要素であり、種類と大きさも多様だ。したがって、韓国伝統建具の製作のためには、熟練したチャンホジャンが必要である。チャンホジャンは、書き入れ時と小目に分けられるが、内容は、建築の構造を担当して小目は、首長と装飾を担当する。チャンホジャンは細かさと精密な継手で建築の完成度を高める役割をする。このような理由でチャンホジャンは長年の熟練を要求し、装備と木材の使用、技法で内容と違いがある。例えば、花の門箭は、平凡な支柱とムンオルグルと違ってトゥミルとドゥンミルイなどに精密な技法が必要である。イジョンハンは、建具製作に従事し、様々なプロジェクトに参加し、関連機能を備えることになった。伝統建築で窓を制作するチャンホジャンは収益性が少なくて伝承が難しく、ごく少数に過ぎない。これによって全勝価値が高いということを知ることができる。",
+    "QA": [
+        {
+            "question": "伝統建具の製作には、どのような職人が必要ですか？",
+            "answer": "伝統建具の製作には、熟練したチャンホジャンが必要です。彼らは建築の構造を担当する書き入れ時と、首長と装飾を担当する小目に分けられます。"
+        },
+        {
+            "question": "韓国の建具は、建築の場を決定する重要な要素ですが、具体的にどのような役割を果たしていますか？",
+            "answer": "韓国の建具は建築の場を決定する重要な要素であり、建築の完成度を高めるために細かさと精密な継手で役割を果たします。"
+        },
+        {
+            "question": "伝統建築で窓を制作するチャンホジャンの役割は何ですか？",
+            "answer": "伝統建築で窓を制作するチャンホジャンは、伝承が難しく収益性が少ないため、ごく少数しか存在せず、全体的な価値が高いことを知ることができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 324,
+        "QA": 211
+    }
+}

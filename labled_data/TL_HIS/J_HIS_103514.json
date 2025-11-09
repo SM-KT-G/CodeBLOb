@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_103514",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=184&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=17160000&ccbaCtcd=23&ccbaCpno=1122317160000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2011-06-21",
+        "domain": "문화/역사관광",
+        "title": "중수정화경사증류비용본초 권17"
+    },
+    "text": "朝鮮時代には略称で『蒸留費用本草』、\"浄化本草\"などと呼ばれた計30冊の宝物『傾斜蒸留ビグプ本草』があった。芸術家であるダンシンミは医者に有名、人々の病気を治療した。彼は対価を受けずに、自分が知っているヤクミョンとドラッグストアを教えてほしいと要請する人たちに薬物を提供した。この本は、彼が集めた名邦と飛躍を基に作成された。何度も改正され、その中一度は大観傾斜蒸留ビグプ本草で改正された。そして再び浄化神授蒸留費用本草で改正された。この本は計30冊だが、一部の板本が残っており、計31冊のように知られている。この本は日本、台湾、韓国など多様なところで見ることができ、一部は国内の故宮博物院や大学の所蔵品に知られている。この本は本草学のグォンウィソとして中国から持ってきた最も古い本草お互い、朝鮮時代の漢方医学科の本草学研究に重要な資料である。",
+    "QA": [
+        {
+            "question": "この本草学のグォンウィソはどこから持ってきたものですか？",
+            "answer": "中国から持ってきた最も古い本草学の一つです。"
+        },
+        {
+            "question": "この『傾斜蒸留ビグプ本草』は何冊ありますか？",
+            "answer": "計30冊の宝物がありますが、一部の板本が残っており、計31冊のように知られています。"
+        },
+        {
+            "question": "ダンシンミは何に有名な芸術家ですか？",
+            "answer": "医者に有名で、人々の病気を治療した芸術家です。"
+        },
+        {
+            "question": "この本草はどのように改正されましたか？",
+            "answer": "一度は大観傾斜蒸留ビグプ本草で改正され、そして再び浄化神授蒸留費用本草で改正されました。"
+        },
+        {
+            "question": "この本草はどの国で見ることができますか？",
+            "answer": "日本、台湾、韓国など、多様なところで見ることができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 272,
+        "QA": 195
+    }
+}

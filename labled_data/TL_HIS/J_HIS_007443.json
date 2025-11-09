@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_007443",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2016-12-22",
+        "domain": "문화/역사관광",
+        "title": "慶州南山弥勒谷石造如来座像（경주 남산 미륵곡 석조여래좌상）"
+    },
+    "text": "慶州南山弥勒谷石造如来座像\n慶尚北道 慶州市 排盤洞 山 66-2\n新羅時代の菩提寺址と推定される場所に残っている全体の高さが4.36m、仏像の高さが2.44mの石仏座像で現在慶州南山にある新羅時代の石仏の中で最も完璧に保存されています。",
+    "QA": [
+        {
+            "question": "何時代の仏像ですか？",
+            "answer": "この仏像は新羅時代のものです。"
+        },
+        {
+            "question": "この仏像はどの場所にありますか？",
+            "answer": "この仏像は慶尚北道慶州市の南山にあります。"
+        },
+        {
+            "question": "仏像の高さは何メートルですか？",
+            "answer": "仏像の高さは2.44メートルです。"
+        },
+        {
+            "question": "この石仏座像はどのように保存されているのですか？",
+            "answer": "この石仏座像は非常に完璧に保存されています。"
+        },
+        {
+            "question": "この仏像は菩提寺址の場所に残っていますか？",
+            "answer": "はい、この仏像は菩提寺址の場所に残っています。"
+        }
+    ],
+    "word_Count": {
+        "text": 87,
+        "QA": 134
+    }
+}

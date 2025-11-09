@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_002140",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "The Masyalla ( 더마샬라 )"
+    },
+    "text": "The Masyalla ( 더마샬라 )\nソウル特別市 中区 明洞キル 14\n明洞の近くに位置する、サラリーマンの間で有名なインド料理の名店です。ソウル特別市のジュン区に位置したインド料理専門店です。代表的なメニューはチキンカレーです。",
+    "QA": [
+        {
+            "question": "この店の名前は何ですか？",
+            "answer": "この店の名前は「The Masyalla ( 더마샬라 )」です。"
+        },
+        {
+            "question": "この店はどこに位置していますか？",
+            "answer": "この店はソウル特別市の中区に位置しています。"
+        },
+        {
+            "question": "この店の近くにはどのような観光名所がありますか？",
+            "answer": "この店の近くには明洞があります。明洞はショッピングや観光名所が豊富なエリアです。"
+        },
+        {
+            "question": "この店の代表的なメニューは何ですか？",
+            "answer": "この店の代表的なメニューはチキンカレーです。"
+        },
+        {
+            "question": "この店はどのような客層に人気ですか？",
+            "answer": "この店はサラリーマンの間で有名なインド料理の名店です。"
+        }
+    ],
+    "word_Count": {
+        "text": 87,
+        "QA": 170
+    }
+}

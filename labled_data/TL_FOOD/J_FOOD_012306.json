@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_012306",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "ヒズクヒズク ( 희죽희죽 )"
+    },
+    "text": "ヒズクヒズク ( 희죽희죽 )\nソウル特別市 中区 明洞8カキル 52\n伝統的なお粥を提供する専門店です。代表的なメニューはアワビ粥です。ソウル特別市のジュン区に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "ヒズクヒズクはどこにありますか？",
+            "answer": "ヒズクヒズクはソウル特別市の中区に位置しています。"
+        },
+        {
+            "question": "ヒズクヒズクの代表的なメニューは何ですか？",
+            "answer": "ヒズクヒズクの代表的なメニューはアワビ粥です。"
+        },
+        {
+            "question": "ヒズクヒズクの特徴は何ですか？",
+            "answer": "ヒズクヒズクは伝統的なお粥を提供する専門店です。"
+        },
+        {
+            "question": "ヒズクヒズクの所在地は明洞8カキル52ですか？",
+            "answer": "はい、ヒズクヒズクの所在地は明洞8カキル52です。"
+        }
+    ],
+    "word_Count": {
+        "text": 68,
+        "QA": 126
+    }
+}

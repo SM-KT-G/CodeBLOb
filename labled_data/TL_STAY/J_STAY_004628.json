@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_004628",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42040&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "여수 도그펄슨애견수영장애견펜션"
+    },
+    "text": "こんにちは。麗水ドッグパールソンペンションです。 玄関のドアを叩くと、小さな子犬が駆けつけてきて私たちを迎えてくれます。 リラックスした雰囲気の中でペットと一緒に過ごす旅行をお楽しみいただけます。 チェックインはご利用当日15:00~22:00までです。 午後10時以降にペンションに到着する場合、予めご連絡ください。 万が一事前連絡がない場合、入室制限を受ける場合があります。 チェックアウトは最終日の午前11時までです。 次の利用者のために退室時間を遵守してください。 ありがとうございます。",
+    "QA": [
+        {
+            "question": "チェックインは何時から何時までですか？",
+            "answer": "チェックインはご利用当日15:00~22:00までです。"
+        },
+        {
+            "question": "チェックインが午後10時以降の場合はどうすればいいですか？",
+            "answer": "午後10時以降にペンションに到着する場合、事前にご連絡ください。"
+        },
+        {
+            "question": "チェックアウトの時間は何時ですか？",
+            "answer": "チェックアウトは最終日の午前11時までです。"
+        },
+        {
+            "question": "チェックアウト時間を遵守しない場合はどうなりますか？",
+            "answer": "チェックアウト時間を遵守していただくようお願いします。次の利用者のために退室が必要です。"
+        }
+    ],
+    "word_Count": {
+        "text": 181,
+        "QA": 159
+    }
+}

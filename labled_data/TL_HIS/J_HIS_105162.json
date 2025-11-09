@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_105162",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=451&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=00980000&ccbaCtcd=38&ccbaCpno=2113800980000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1979-05-02",
+        "domain": "문화/역사관광",
+        "title": "창원 삼정자동 마애여래좌상"
+    },
+    "text": "昌原サムジョンジャドンジャン\\n\n慶尚南道昌原市城山区サムジョンジャ路79(サムジョンジャ洞)\\n\n統一新羅時代、慶尚南道有形文化財、慶尚南道昌原市三丁子洞の自然岩盤に刻まれた磨崖仏だ。頭には常套の形の頭の束がそびえていて、顔は、風化が激しく、ほとんど見分けられない。双肩にわたった服の表現は細かくチェックしないが、ひざを閉じながら、台座まで流れ、覆っているものとみられる。左手は膝の上に置いて、右手は膝の上に上げて指先が地を指している。台座(臺座)上には3重の蹄鉄のしわを留めて波模様を表現したが、このような表現は形式的だが独特な姿をしている。体の後ろの光背(光背)には何の装飾もなく頭と身体部分に線だけで表示している。光背と台座を備えた彫刻技法が優れた作品だが、全体的に毀損が激しい方だ。様々な彫刻技法を考慮する時、統一新羅時代に作られたものと推定される。",
+    "QA": [
+        {
+            "question": "この磨崖仏はどこに位置していますか？",
+            "answer": "この磨崖仏は慶尚南道昌原市城山区サムジョンジャ路79(サムジョンジャ洞)に位置しています。"
+        },
+        {
+            "question": "磨崖仏はどの時代に作られたものですか？",
+            "answer": "磨崖仏は統一新羅時代に作られたものと推定されています。"
+        },
+        {
+            "question": "磨崖仏の顔の状態はどうですか？",
+            "answer": "磨崖仏の顔は風化が激しく、ほとんど見分けられない状態です。"
+        },
+        {
+            "question": "磨崖仏の服の表現はどのような特徴がありますか？",
+            "answer": "磨崖仏の服の表現は細かくチェックしないが、ひざを閉じながら台座まで流れ、覆っているものとみられます。"
+        },
+        {
+            "question": "磨崖仏の彫刻技法について教えてください。",
+            "answer": "磨崖仏の光背と台座を備えた彫刻技法が優れていますが、全体的に毀損が激しい方です。"
+        }
+    ],
+    "word_Count": {
+        "text": 278,
+        "QA": 209
+    }
+}

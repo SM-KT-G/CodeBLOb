@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_052995",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=413&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=00500000&ccbaCtcd=33&ccbaCpno=2113300500000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1978-10-27",
+        "domain": "문화/역사관광",
+        "title": "괴산 애한정"
+    },
+    "text": "槐山愛限定\\n\n忠清北道槐山郡槐山邑黔昇里76番地\\n\n忠清北道有形文化財、朝鮮宣祖(在位1567∼1608)の時の儒者であるパクジギョムが世を避けて過ごした場所だ。光海君6年(1614)になっており、彼の雅号を取ってエハンチョンとした。顕宗14年(1673)に建て直り、粛宗38年(1712)と44年(1718)に直しており、その後も数回修理があった。建物の規模は始めた当時は前面3間・側面1間半の小さな建物だったようだが、後に受理し、前面6間・側面2間半の規模に増やしたものとみられる。屋根側面が八(八部)字形の入母屋造りである。ここには''エハンチョン(愛閑亭)''という扁額がかかっていて、光海君6年(1614)にパクジギョムが建てた\"エハンチョン機\"と\"エハンチョン八景市\"をはじめとして多くの記録がある。",
+    "QA": [
+        {
+            "question": "この建物は誰のために建てられたのですか？",
+            "answer": "この建物は朝鮮宣祖時代の儒者、パクジギョムが建てられました。"
+        },
+        {
+            "question": "エハンチョンの意味は何ですか？",
+            "answer": "エハンチョンは、パクジギョムの雅号を取ったもので、この建物の名前です。"
+        },
+        {
+            "question": "この建物は何度か修理されたそうですね。何度修理されたのでしょうか？",
+            "answer": "この建物は顕宗14年、粛宗38年、粛宗44年など、数回修理されました。"
+        },
+        {
+            "question": "この建物の規模はどのように変化しましたか？",
+            "answer": "最初は前面3間・側面1間半の小さな建物でしたが、後に受理され、前面6間・側面2間半に増やされました。"
+        },
+        {
+            "question": "エハンチョンにはどのような記録が残っていますか？",
+            "answer": "エハンチョンには、パクジギョムが建てた'エハンチョン機'と'エハンチョン八景市'をはじめ、多くの記録が残されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 262,
+        "QA": 236
+    }
+}

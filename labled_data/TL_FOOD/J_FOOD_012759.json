@@ -1,0 +1,31 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_012759",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2023-01-16",
+        "domain": "음식점",
+        "title": "북카페 지상의 양식"
+    },
+    "text": "ブックカフェ地上の様式 (북카페 지상의 양식)\\n\n忠清南道瑞山市繁華3ギル8\\n\nブックカフェ地上は、書店、カフェ、小物ショップが一緒になった場所です。ここでは、瑞山地域の活動作家の本を手に取ることができます。また、図書出版ワークショップや人文学の講演など、地域の文化に関するイベントも行われています。",
+    "QA": [
+        {
+            "question": "ブックカフェ地上はどこにありますか？",
+            "answer": "ブックカフェ地上は忠清南道瑞山市繁華3ギル8にあります。"
+        },
+        {
+            "question": "ブックカフェ地上では何ができますか？",
+            "answer": "ブックカフェ地上では、書店、カフェ、小物ショップが一緒になっており、活動作家の本を手に取ることができます。また、図書出版ワークショップや人文学の講演などの地域の文化に関するイベントも行われています。"
+        }
+    ],
+    "word_Count": {
+        "text": 112,
+        "QA": 119
+    }
+}

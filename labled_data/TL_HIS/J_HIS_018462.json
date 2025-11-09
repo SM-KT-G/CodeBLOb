@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_018462",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=921&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=24&ccbaAsno=00160000&ccbaCtcd=33&ccbaCpno=2443300160000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2005-03-11",
+        "domain": "문화/역사관광",
+        "title": "보은 최혁재 고가"
+    },
+    "text": "報恩チェ·ヒョクジェ古家 (보은 최혁재 고가)\\n\n報恩郡三升面仙谷里309-1\\n\n1871 , 忠清北道民俗文化財 , °この建物は築造年代が鐘道里の上梁門に崇禎後四己酉年(憲宗15年、1849年)となっており、近隣のチェ監察宅より先にその価値が大きく、特に部材の規格と仕組みに優れている。 また、後代に築造されたチェ監察宅の藁葺きより構造上の安定性を考慮した部材と家具などが優秀だ。 しかし、サランチェとその他の付属建物が火災で焼失し、一部部材が交替した跡があるが、部材の状態や歯木手法、床青板は古式技法で朝鮮時代の歯木技法が歴然と現れている。 母屋は正面5間半、側面2間の一軒八作瓦葺きだ。",
+    "QA": [
+        {
+            "question": "この古家はどの場所にありますか？",
+            "answer": "報恩郡三升面仙谷里309-1にあります。"
+        },
+        {
+            "question": "この古家の築造年代はいつですか？",
+            "answer": "鐘道里の上梁門に崇禎後四己酉年（1849年）となっています。"
+        },
+        {
+            "question": "この古家はどのような価値がありますか？",
+            "answer": "部材の規格と仕組みに優れており、後代に築造されたチェ監察宅の藁葺きより構造上の安定性を考慮した部材や家具などが優秀です。"
+        },
+        {
+            "question": "この古家は火災で被害を受けたことがありますか？",
+            "answer": "はい、サランチェとその他の付属建物が火災で焼失し、一部の部材が交替しました。"
+        },
+        {
+            "question": "この古家の部材の状態や歯木手法はどうですか？",
+            "answer": "部材の状態や歯木手法、床青板は古式技法で朝鮮時代の歯木技法が現れています。"
+        }
+    ],
+    "word_Count": {
+        "text": 220,
+        "QA": 206
+    }
+}

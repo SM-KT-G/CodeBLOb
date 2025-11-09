@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_096413",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=437&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=00800000&ccbaCtcd=31&ccbaCpno=2113100800000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1978-11-10",
+        "domain": "문화/역사관광",
+        "title": "이원익선생영정"
+    },
+    "text": "朝鮮時代の京畿道有形文化財である李元翼の肖像画は朝鮮中期の文臣の李元翼を描いたものである。李元翼は、平安道観察使を務めており、彼の業績を称えるために、平壌(ピョンヤン)の生祠堂にかかった。しかし、この肖像画は李元翼が住んでいた時代の肖像画とは形式的に合わない。胸の胸背がとても大きくて、両手が出ており、官服の形も変わっている。李元翼の文集によると、平壌(ピョンヤン)の代理たちが自分を描くように花園をさせたという。肖像画を描いた画家は李元翼に似た他の青写真を集めてこの肖像画を完成させた。しかし、細部の描写は緻密で完成度が高い。この肖像画を描いた画家は僧侶画家と推定される。平壌(ピョンヤン)の代理らは、周辺の査察で活動する画僧に肖像画をお願いした。画僧たちは不和を描くために慣れた仏教の遺影のように手が出ていて、自由な姿勢で描いた。",
+    "QA": [
+        {
+            "question": "李元翼の肖像画はどこにかかっていますか？",
+            "answer": "生祠堂にかかっています。"
+        },
+        {
+            "question": "李元翼の肖像画を描いたのは誰ですか？",
+            "answer": "画僧たちが描きました。"
+        },
+        {
+            "question": "李元翼の肖像画の特徴は何ですか？",
+            "answer": "胸の胸背が大きく、両手が出ており、官服の形も変わっています。"
+        },
+        {
+            "question": "李元翼の肖像画の完成度はどうですか？",
+            "answer": "細部の描写は緻密であり、完成度が高いです。"
+        },
+        {
+            "question": "李元翼の肖像画を描いた画家は何と推定されていますか？",
+            "answer": "僧侶画家と推定されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 269,
+        "QA": 136
+    }
+}

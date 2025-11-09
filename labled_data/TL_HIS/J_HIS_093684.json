@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_093684",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=239&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=13&ccbaAsno=01530000&ccbaCtcd=26&ccbaCpno=1332601530000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1966-12-27",
+        "domain": "문화/역사관광",
+        "title": "울주 언양읍성"
+    },
+    "text": "ウルチュ・オニャンウプソン\\n\n蔚山広域市蔚州郡城安2ギル55-8(彦陽邑)\\n\n光海君9年(1617)、私的、例から、慶州(キョンジュ)・蔚山・密陽・量産との交通の中心地として戦略的に非常に重要な位置を占めていた旧彦陽郡の邑城だ。楽安邑城という軍や県の住民を保護して、軍事的・行政的な機能を共にする性をいう。最初は土で城を築いたものを燕山君6年(1500)に県監イダムリョンが拡張して石で積み直した。平地には四角形に作られた稀な平地性で、元々は周りが約1,000m、高さが4m、お城の中には4つの井戸があったそうですが、今は城を築いた大きな石が部分的に残っているだけだ。城壁は、朝鮮前期の邑城築造の一般的な方式が反映された。大きな石を大まかに砕いて積んだ後空きスペースに小石を満たして城壁を丈夫にした。彦陽城(ナグァンウプソン)は全国の重要邑城が作られ始めた14∼15世紀の築造方法を示すものとして、高麗末期から朝鮮初期に現れる築城法変遷の姿をよく見せてくれる重要な資料である。※(オンヤン山林邑城→蔚州彦陽邑城)に名称変更になりました。(2011.07.28の告示)。",
+    "QA": [
+        {
+            "question": "何時に彦陽城が建てられましたか？",
+            "answer": "彦陽城は光海君9年(1617)に建てられました。"
+        },
+        {
+            "question": "なぜ彦陽城は戦略的に重要な位置を占めていたのですか？",
+            "answer": "彦陽城は慶州(キョンジュ)・蔚山・密陽・量産との交通の中心地として戦略的に重要な位置を占めていました。"
+        },
+        {
+            "question": "彦陽城はどのような形状に作られていましたか？",
+            "answer": "彦陽城は平地に四角形に作られた稀な平地性の形状でした。"
+        },
+        {
+            "question": "彦陽城の城壁はどのような方式で築かれていましたか？",
+            "answer": "彦陽城の城壁は大きな石を大まかに砕いて積んだ後、空きスペースに小石を満たして丈夫に築かれていました。"
+        },
+        {
+            "question": "彦陽城はどの時代の築造方法を示していますか？",
+            "answer": "彦陽城は高麗末期から朝鮮初期に現れる築城法変遷の姿を示しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 356,
+        "QA": 217
+    }
+}

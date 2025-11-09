@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_036456",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://kr.hotels.com/ho2354931904/good-time-hotel-seoul-seoul-hangug/?chkin=2023-11-14&chkout=2023-11-15&x_pwa=1&rfrr=HSR&pwa_ts=1698998796435&referrerUrl=aHR0cHM6Ly9rci5ob3RlbHMuY29tL0hvdGVsLVNlYXJjaA%3D%3D&useRewards=false&rm1=a2&regionId=6171132&destination=%EA%B4%91%EB%AA%85%2C+%EA%B2%BD%EA%B8%B0%2C+%ED%95%9C%EA%B5%AD&destType=MARKET&neighborhoodId=6159389&latLong=37.445068%2C126.864702&sort=RECOMMENDED&userIntent=&expediaPropertyId=73560372&searchId=e6e91cf2-b049-4de2-bb9a-21732d114174",
+        "collectedDate": "2023-11-15",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "Good Time Hotel Seoul"
+    },
+    "text": "グッド・タイム・ホテル・ソウル\\n\n大韓民国 Seoul 145, Sinchon-ro, Seodaemun-gu、\\n\nグッド・タイム・ホテル・ソウルは、ロッテアウトレット - ソウル駅店、明洞通りなどの人気スポットが車で5分の距離に位置しています。南大門市場と光化門も車で5分の距離にあり、観光客に便利です。公共交通機関を利用したい方には、新村駅から徒歩4分、梨泰院(イデ)駅から5分の距離に位置しており、便利な移動が可能です。新型コロナウイルスの影響で旅行に制限事項がある場合がありますので、事前にご確認ください。チェックイン時には、クレジットカード、デビットカード、または現金デポジットをご用意いただき、政府発行の身分証明書に写真が添付されている必要があります。ホテル内の公共エリアでは無料WiFiを提供しています。",
+    "QA": [
+        {
+            "question": "グッド・タイム・ホテル・ソウルはどこにありますか？",
+            "answer": "グッド・タイム・ホテル・ソウルは大韓民国ソウル市西大門区新村路145に位置しています。"
+        },
+        {
+            "question": "グッド・タイム・ホテル・ソウルの周辺にはどんな観光スポットがありますか？",
+            "answer": "グッド・タイム・ホテル・ソウルの周辺にはロッテアウトレット - ソウル駅店や明洞通りなどの人気スポットがあります。南大門市場と光化門も近くにあります。"
+        },
+        {
+            "question": "グッド・タイム・ホテル・ソウルへのアクセス方法はありますか？",
+            "answer": "グッド・タイム・ホテル・ソウルへは、新村駅から徒歩4分、梨泰院(イデ)駅から5分の距離に位置しています。"
+        },
+        {
+            "question": "新型コロナウイルスの影響で制限事項がある場合はありますか？",
+            "answer": "新型コロナウイルスの影響で、旅行に制限事項がある場合がありますので、事前にご確認ください。"
+        },
+        {
+            "question": "チェックイン時に必要なものは何ですか？",
+            "answer": "チェックイン時には、クレジットカード、デビットカード、または現金デポジットをご用意いただき、政府発行の身分証明書に写真が添付されている必要があります。"
+        },
+        {
+            "question": "ホテル内の公共エリアでは何を提供していますか？",
+            "answer": "ホテル内の公共エリアでは無料WiFiを提供しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 266,
+        "QA": 351
+    }
+}

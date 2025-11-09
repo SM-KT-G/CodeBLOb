@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_035303",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=259&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=13&ccbaAsno=03990000&ccbaCtcd=11&ccbaCpno=1331103990000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1997-11-11",
+        "domain": "자연관광",
+        "title": "서울 양화나루와 잠두봉 유적"
+    },
+    "text": "史跡、韓国カトリックの聖地である蚕頭峰と周辺にあった洋画渡し場を指します。蚕頭峰は峰が蚕の頭に似ていることから付けられた名前です。1966年、カトリック教会で蚕頭峰を中心に聖堂と記念館を建て、周辺地域を公園にしました。聖堂と記念館の中には李碧（イ·ビョク）、李嘉煥（イ·ガファン）、丁若鏞（チョン·ヤクヨン）などカトリック関連の朝鮮時代後期の学者たちの遺物が展示されており、広場の中には金大建（キム·デゴン）、南鍾三（ナム·ジョンサム）の銅像と史跡碑があります蚕頭峰周辺にあった洋画渡し場は、蚕頭峰が史跡に指定された後、さらに指定された遺跡です。今は昔の姿を見ることはできませんが、朝鮮時代の交通の要地であり、穀物を分配し、軍事上重要な機能を担っていた場所です。朝鮮時代後期の歴史の流れとともに、時代の多くの痕跡を垣間見ることができる価値のある遺跡です。※(ヤンファナル·チャムドゥボン遺跡→ソウルヤンファナルとチャムドゥボン遺跡)に名称変更されました",
+    "QA": [
+        {
+            "question": "蚕頭峰とは何ですか？",
+            "answer": "蚕頭峰とは、韓国カトリックの聖地であり、聖堂や記念館が建てられた歴史的な場所です。"
+        },
+        {
+            "question": "蚕頭峰周辺にあった洋画渡し場はどのような場所でしたか？",
+            "answer": "蚕頭峰周辺にあった洋画渡し場は、朝鮮時代の交通の要地であり、穀物の分配や軍事上の重要な機能を担っていた場所です。"
+        },
+        {
+            "question": "蚕頭峰周辺にある聖堂と記念館に展示されている遺物は何ですか？",
+            "answer": "蚕頭峰周辺にある聖堂と記念館には、李碧、李嘉煥、丁若鏞などのカトリック関連の朝鮮時代後期の学者たちの遺物が展示されています。"
+        },
+        {
+            "question": "蚕頭峰周辺にある広場には何がありますか？",
+            "answer": "蚕頭峰周辺の広場には、金大建や南鍾三の銅像と史跡碑があります。"
+        },
+        {
+            "question": "洋画渡し場はいつ指定された遺跡ですか？",
+            "answer": "洋画渡し場は、蚕頭峰が史跡に指定された後、さらに指定された遺跡です。"
+        }
+    ],
+    "word_Count": {
+        "text": 312,
+        "QA": 242
+    }
+}

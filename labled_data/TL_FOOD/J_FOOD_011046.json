@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_011046",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-05",
+        "domain": "음식점",
+        "title": "ナドゥリ ( 나들이 )"
+    },
+    "text": "ナドゥリ ( 나들이 )\\n\n江原道 ガンヌン市 ソンサン面 グサンガンビョンギル76\\n\n様々な鴨料理が味わえる店です。おすすめは鴨肉焼きです。江原道のガンヌン市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "このレストランの場所はどこですか？",
+            "answer": "ナドゥリ ( 나들이 )は、江原道 ガンヌン市 ソンサン面 グサンガンビョンギル76に位置しています。"
+        },
+        {
+            "question": "このレストランでは何が食べられますか？",
+            "answer": "ナドゥリでは様々な鴨料理が味わえます。特におすすめは鴨肉焼きです。"
+        },
+        {
+            "question": "このレストランはどのような特徴がありますか？",
+            "answer": "ナドゥリは韓食専門店であり、江原道のガンヌン市に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 69,
+        "QA": 127
+    }
+}

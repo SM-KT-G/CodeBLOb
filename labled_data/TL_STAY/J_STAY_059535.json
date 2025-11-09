@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_059535",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42060&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "태안 칸호텔"
+    },
+    "text": "2023.08.28 GRAND OPEN!カンヌホテルでは全室禁煙となっています。 入室の際、身分証明書の確認が行われ、未成年者の入室は制限されます。 当ホテルは常にお客様のリラックスのために努力し、悩んでいます。 また、駐車に関する情報もご案内します。 当ホテルは広くて便利な大型駐車場を完備しており、室内と屋外での駐車が可能なので、訪問時の駐車の心配なくご利用いただけます。",
+    "QA": [
+        {
+            "question": "カンヌホテルでは全室禁煙となっていますか？",
+            "answer": "はい、カンヌホテルでは全室禁煙となっています。"
+        },
+        {
+            "question": "入室の際に身分証明書の確認は行われますか？",
+            "answer": "はい、入室の際に身分証明書の確認が行われます。"
+        },
+        {
+            "question": "未成年者の入室は制限されますか？",
+            "answer": "はい、未成年者の入室は制限されます。"
+        },
+        {
+            "question": "カンヌホテルはお客様のリラックスのために努力していますか？",
+            "answer": "はい、カンヌホテルは常にお客様のリラックスのために努力しています。"
+        },
+        {
+            "question": "駐車場はありますか？",
+            "answer": "はい、カンヌホテルは広くて便利な大型駐車場を完備しており、室内と屋外での駐車が可能です。"
+        },
+        {
+            "question": "訪問時の駐車に心配はありますか？",
+            "answer": "いいえ、カンヌホテルでは広い駐車場を完備しているため、訪問時の駐車の心配はありません。"
+        }
+    ],
+    "word_Count": {
+        "text": 139,
+        "QA": 217
+    }
+}

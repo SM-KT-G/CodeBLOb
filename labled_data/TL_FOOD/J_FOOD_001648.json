@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001648",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2020-12-28",
+        "domain": "음식점",
+        "title": "EGG DROP 西面ロッテ後門( 에그드랍 서면롯데후문 )"
+    },
+    "text": "EGG DROP 西面ロッテ後門( 에그드랍 서면롯데후문 )\\n\n釜山広域市 釜山鎮区 プジョンロ66ボンギル12\\n\nエッグサンドイッチで有名な店です。釜山広域市のブサンジン区に位置したカフェ（コーヒーショップ）です。おすすめはサンドイッチです。",
+    "QA": [
+        {
+            "question": "エッグドロップ西面ロッテ後門はどこにありますか？",
+            "answer": "釜山広域市釜山鎮区プジョンロ66ボンギル12に位置しています。"
+        },
+        {
+            "question": "エッグドロップ西面ロッテ後門はどんなお店ですか？",
+            "answer": "エッグサンドイッチで有名なカフェです。"
+        },
+        {
+            "question": "エッグドロップ西面ロッテ後門のおすすめは何ですか？",
+            "answer": "サンドイッチがおすすめです。"
+        }
+    ],
+    "word_Count": {
+        "text": 91,
+        "QA": 100
+    }
+}

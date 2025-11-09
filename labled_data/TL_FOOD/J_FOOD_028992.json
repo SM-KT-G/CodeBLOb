@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_028992",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-05-14",
+        "domain": "음식점",
+        "title": "韓国の家（한국집）"
+    },
+    "text": "韓国の家\\n\n全羅北道 全州市 完山区 御真キル119\\n\nソウル特別市、全州市指定の郷土料理店で、50年以上の伝統料理だけを提供し、コチュジャン･醤油・油などは自家製のものだけを使用しています。",
+    "QA": [
+        {
+            "question": "この郷土料理店の場所はどこですか？",
+            "answer": "この郷土料理店は、全羅北道全州市完山区の御真キル119にあります。"
+        },
+        {
+            "question": "この郷土料理店はどのくらいの年数、伝統料理を提供していますか？",
+            "answer": "この郷土料理店は50年以上の伝統料理だけを提供しています。"
+        },
+        {
+            "question": "この郷土料理店ではどのような材料を使用していますか？",
+            "answer": "この郷土料理店では、自家製のコチュジャン、醤油、油などの材料を使用しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 71,
+        "QA": 128
+    }
+}

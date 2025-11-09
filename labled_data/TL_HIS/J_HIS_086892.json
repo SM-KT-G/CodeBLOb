@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_086892",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=364&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=00020000&ccbaCtcd=24&ccbaCpno=2112400020000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1986-11-01",
+        "domain": "문화/역사관광",
+        "title": "십신사지석불"
+    },
+    "text": "高麗時代、光州広域市有形文化財、大皇寺の寺跡で発見され、旧光州農庫跡に移され、再び光州歴史民俗博物館に移され保管されています。八角形の石柱の表面に仏像、台座などが簡略に表現されています。はげ頭には穴があって宝冠をかぶったものと見られ、楕円形の評判的な顔からは土俗的な守護神の表情が感じられます。石柱の形を変えず、顔の幅とほぼ同じ幅で肩を作り、体が萎縮していることを示しています右手は胸の方に上げて宝珠のようなものを握っており、左手はお腹に当てて裾を掴んでいますが、顔に比べて硬直した姿で技法も落ちて見えます。台座には蓮の花模様と小さな仏が刻まれていますが、やはり硬い姿です。手に宝珠を持って菩薩と見間違えることもありますが、身体表現が簡略化され、壊体化された弥勒仏を表現したものと見るのが正しいと思われます",
+    "QA": [
+        {
+            "question": "この石柱はどこで発見されましたか？",
+            "answer": "光州広域市の大皇寺の寺跡で発見されました。"
+        },
+        {
+            "question": "この石柱はどのような形をしていますか？",
+            "answer": "八角形の形をしています。"
+        },
+        {
+            "question": "石柱の表面に何が表現されていますか？",
+            "answer": "仏像や台座などが簡略に表現されています。"
+        },
+        {
+            "question": "この石柱にはどのような顔が彫られていますか？",
+            "answer": "楕円形の評判的な顔が彫られており、土俗的な守護神の表情が感じられます。"
+        },
+        {
+            "question": "石柱に彫られたものは菩薩ですか？",
+            "answer": "いいえ、簡略化された弥勒仏を表現したものとされています。"
+        },
+        {
+            "question": "この石柱はどこに移されて保管されていますか？",
+            "answer": "光州歴史民俗博物館に移されて保管されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 258,
+        "QA": 185
+    }
+}

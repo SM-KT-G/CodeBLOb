@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_026071",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42030&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "청송 코리아나"
+    },
+    "text": "入室基準と追加料金の決済についてご案内いたします。 オンシーズンや特定日、祝日には料金が変動することがありますので、ご注意ください。 また、入室の際には身分証明書を確認し、未成年者の入室は制限されます。 身分証明書を必ずお持ちください。 ありがとうございます。",
+    "QA": [
+        {
+            "question": "入室基準は何ですか？",
+            "answer": "入室基準は、オンシーズンや特定日、祝日によって異なります。料金や制限があることもありますので、事前にご確認ください。"
+        },
+        {
+            "question": "入室の際に必要なものは何ですか？",
+            "answer": "入室の際には身分証明書が必要です。未成年者の入室は制限される場合もありますので、身分証明書を必ずお持ちください。"
+        },
+        {
+            "question": "料金はどのように決済するのですか？",
+            "answer": "料金の決済方法は現金やクレジットカードなど、施設によって異なります。入室前にお問い合わせいただくか、施設のウェブサイトでご確認ください。"
+        }
+    ],
+    "word_Count": {
+        "text": 95,
+        "QA": 165
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_081686",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/view?relicId=92380",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2023-10-11",
+        "domain": "문화/역사관광",
+        "title": "석기 조각"
+    },
+    "text": "石器片 (석기 조각)\\n\n国籍と時代: 「この青銅器は韓国のもので、古代の作品です。」 材質: 「石でできた矢じりは、他よりはるかに堅固です。」 分類: 「この矢じりは、産業や生業の一環として使われた狩猟用具です。」 大きさ: 「現在の矢じりは、長さ4.5cmで幅3.7cmありますが、古代のものは長さ3.1cmで幅2.0cmほどです。」",
+    "QA": [
+        {
+            "question": "この石器片はどこの国のものですか？",
+            "answer": "韓国のもので、古代の作品です。"
+        },
+        {
+            "question": "この石器片は何時代のものですか？",
+            "answer": "古代のものです。"
+        },
+        {
+            "question": "この石器片は何でできていますか？",
+            "answer": "石でできています。"
+        },
+        {
+            "question": "この石器片は何のために使われていましたか？",
+            "answer": "狩猟用具として使われていました。"
+        },
+        {
+            "question": "この石器片の大きさはどれくらいですか？",
+            "answer": "古代のものは長さ3.1cmで幅2.0cmほどです。"
+        }
+    ],
+    "word_Count": {
+        "text": 124,
+        "QA": 118
+    }
+}

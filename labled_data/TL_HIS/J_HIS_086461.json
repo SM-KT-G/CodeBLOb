@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_086461",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1220&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=79&ccbaAsno=03610000&ccbaCtcd=36&ccbaCpno=4413603610000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2007-11-22",
+        "domain": "문화/역사관광",
+        "title": "신안 증도 석조소금창고"
+    },
+    "text": "1953年国家登録文化財である塩の保管倉庫が太平塩田のためには石山で発破した石を使用して造られました。この建物は初期の様子をそのまま維持しており、塩田の歴史と石造建築史において重要な意味を持っています。80年代後半には木材の倉庫として使用されたが、2007年7月には石造塩倉庫の外側と内側をそのまま活用して塩博物館に開館されました。",
+    "QA": [
+        {
+            "question": "この塩倉庫はいつ建てられましたか？",
+            "answer": "塩の保管倉庫は1953年に建てられました。"
+        },
+        {
+            "question": "この塩倉庫はどのような材料で造られていますか？",
+            "answer": "この塩倉庫は太平塩田のために石山で発破した石を使用して造られました。"
+        },
+        {
+            "question": "この塩倉庫は何のために使用されていましたか？",
+            "answer": "初期には塩の保管倉庫として使用されていました。"
+        },
+        {
+            "question": "この塩倉庫は現在何に利用されていますか？",
+            "answer": "この塩倉庫は現在は塩博物館として利用されています。"
+        },
+        {
+            "question": "この塩倉庫の重要性は何ですか？",
+            "answer": "この塩倉庫は塩田の歴史と石造建築史において重要な意味を持っています。"
+        }
+    ],
+    "word_Count": {
+        "text": 121,
+        "QA": 171
+    }
+}

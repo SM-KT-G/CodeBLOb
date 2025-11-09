@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_020214",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-06-23",
+        "domain": "음식점",
+        "title": "李朝韓定食（이조한정식）"
+    },
+    "text": "李朝韓定食（이조한정식）\\n\n蔚山広域市 南区 三山路 77番キル 25\\n\nメニューは旬のものをふんだんに用いているため季節によって異なります。清潔感のある店内のインテリアとおいしい料理で満足度がアップします。肉類と魚介類が調和を成した韓国料理を堪能することができます。",
+    "QA": [
+        {
+            "question": "このレストランの名前は何ですか？",
+            "answer": "李朝韓定食（이조한정식）です。"
+        },
+        {
+            "question": "このレストランの場所はどこですか？",
+            "answer": "蔚山広域市南区三山路77番キル25です。"
+        },
+        {
+            "question": "このレストランのメニューはどのようなものですか？",
+            "answer": "メニューは旬のものをふんだんに用いているため季節によって異なります。肉類と魚介類が調和を成した韓国料理を堪能することができます。"
+        },
+        {
+            "question": "このレストランの店内はどのような雰囲気ですか？",
+            "answer": "清潔感のある店内のインテリアです。"
+        },
+        {
+            "question": "このレストランの料理はおいしいですか？",
+            "answer": "はい、おいしい料理です。"
+        }
+    ],
+    "word_Count": {
+        "text": 99,
+        "QA": 166
+    }
+}

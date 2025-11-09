@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_030256",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/goods/GN0002152985?startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0%5E&npprmaxsort=min",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "제주 샤모니리조트"
+    },
+    "text": "西帰浦の中心地に位置するここは、オレ道(6コース、7コース、7-1コース、8コース)ワールドカップ競技場、カンチャンハク球場、中文観光団地に隣接しています。 ここでは企業セミナーや各種小規模、大規模イベントのための宴会場と付帯施設が用意されており、最上のサービスと快適さを提供しています。 こちらはペット同伴の入室はできません。",
+    "QA": [
+        {
+            "question": "この施設はどこに位置していますか？",
+            "answer": "ここは西帰浦の中心地に位置しています。"
+        },
+        {
+            "question": "どのような施設が用意されていますか？",
+            "answer": "企業セミナーや各種小規模、大規模イベントのための宴会場と付帯施設が用意されています。"
+        },
+        {
+            "question": "ペットを連れて入室することはできますか？",
+            "answer": "申し訳ありませんが、ペット同伴の入室はできません。"
+        }
+    ],
+    "word_Count": {
+        "text": 120,
+        "QA": 103
+    }
+}

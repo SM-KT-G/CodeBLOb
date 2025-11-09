@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_038271",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1227&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=79&ccbaAsno=04470000&ccbaCtcd=11&ccbaCpno=4411104470000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2009-10-12",
+        "domain": "문화/역사관광",
+        "title": "제중원 1차년도 보고서"
+    },
+    "text": "済衆院一次年度報告書 (제중원 1차년도 보고서)\\n\nソウル特別市西大門区延世路50(新村洞、延世大学校)学術文化処\\n\n1886年、国家登録文化財、韓国初の近代式病院である済衆院の初年度(1885.4.10-1886.4.10)の活動報告書である。 済衆院医師アレン(H.N.Allen、1858-1932)とヘロン(J.H.Heron、1856-1890)が済衆院開院1周年を迎えて作成したもので、19世紀後半、韓国人が患っていた病気の様相を研究する上で重要な資料となり、表紙上段の「Compliments H.N.Allen」と書いたアレンの署名があり、医学史的·史料的価値が大きい。報告書には、済衆院の図面、病院開院の経緯、朝鮮によくある病気、1年間診療した外来·入院患者の統計、財政状況などが載っており、特に患者統計は近代医学の疾病分類法どおり詳細に区分されている。",
+    "QA": [
+        {
+            "question": "済衆院は何年に開院されましたか？",
+            "answer": "済衆院は1886年に開院されました。"
+        },
+        {
+            "question": "済衆院はどこに位置していますか？",
+            "answer": "済衆院はソウル特別市西大門区延世路50に位置しています。"
+        },
+        {
+            "question": "済衆院は何のために作られたのですか？",
+            "answer": "済衆院は韓国初の近代式病院であり、19世紀後半の朝鮮の病気の研究に重要な役割を果たしました。"
+        },
+        {
+            "question": "済衆院の初年度報告書にはどのような内容が含まれていますか？",
+            "answer": "済衆院の初年度報告書には、済衆院の図面、病院開院の経緯、朝鮮によくある病気、1年間の診療統計、財政状況などが含まれています。"
+        },
+        {
+            "question": "済衆院の初年度報告書は医学史的な価値がありますか？",
+            "answer": "はい、済衆院の初年度報告書は医学史的な価値が非常に高いです。特に、近代医学の疾病分類法に基づく患者統計が詳細に記載されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 285,
+        "QA": 236
+    }
+}

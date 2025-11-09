@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_066485",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42050&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "전주 진북동 대화탕여관"
+    },
+    "text": "予約のお知らせ - 予約するすべてのお客様に大切な情報をお伝えいたします。 予約された方の中で宿泊される方にはサウナのご利用が無料で提供されます。 サウナの無料利用は宿泊される方にのみ適用され、追加情報はありません。 観光地の案内 - 全州韓屋村と国立博物館が近くに位置しています。 全州韓屋村と国立博物館を訪れる方に大切な情報をお知らせします。 当ホガンは各部屋ごとに入室基準がありますので、追加人数で入室される場合には当日追加料金の決済が必要です。 入室の際には身分証明書の確認が必要であり、未成年者は入室が制限されます。",
+    "QA": [
+        {
+            "question": "サウナの無料利用は誰に提供されますか？",
+            "answer": "宿泊される方にのみ提供されます。"
+        },
+        {
+            "question": "観光地の案内について教えてください。",
+            "answer": "全州韓屋村と国立博物館が近くに位置しています。"
+        },
+        {
+            "question": "追加人数で入室する場合に必要なことは何ですか？",
+            "answer": "追加人数で入室する場合には当日追加料金の決済が必要です。"
+        },
+        {
+            "question": "入室の際に必要なものは何ですか？",
+            "answer": "身分証明書の確認が必要です。"
+        },
+        {
+            "question": "未成年者の入室について教えてください。",
+            "answer": "未成年者の入室は制限されます。"
+        }
+    ],
+    "word_Count": {
+        "text": 192,
+        "QA": 140
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_004923",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-16",
+        "domain": "음식점",
+        "title": "キムキョンザソムンナンタラ王ポルチム( 김경자소문난대구왕뽈찜 )"
+    },
+    "text": "キムキョンザソムンナンタラ王ポルチム\\n\n京畿道 平沢市 チョゲト路26ボンキル 27\\n\n様々な海鮮がたっぷり入った蒸し料理を味わえるところです。おすすめはアンコウの蒸し物です。京畿道のピョンテク市に位置した韓国料理店です。",
+    "QA": [
+        {
+            "question": "このレストランはどのような料理を提供していますか？",
+            "answer": "様々な海鮮がたっぷり入った蒸し料理がおすすめです。特にアンコウの蒸し物が人気です。"
+        },
+        {
+            "question": "このレストランの場所はどこですか？",
+            "answer": "このレストランは京畿道の平沢市に位置しています。具体的な住所はチョゲト路26ボンキル27です。"
+        },
+        {
+            "question": "このレストランはどのくらいの広さですか？",
+            "answer": "レストランの広さについての情報は提供されていませんが、おそらく一定の席数を持っているでしょう。"
+        }
+    ],
+    "word_Count": {
+        "text": 82,
+        "QA": 144
+    }
+}

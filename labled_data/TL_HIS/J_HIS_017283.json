@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_017283",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=656&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=04670000&ccbaCtcd=38&ccbaCpno=2113804670000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2008-01-10",
+        "domain": "문화/역사관광",
+        "title": "밀양 표충사 아미타구품도"
+    },
+    "text": "密陽表忠寺阿弥陀九品図 (밀양 표충사 아미타구품도)\\n\n慶尚南道密陽市表忠路1338(丹長面、表忠寺)\\n\n1882 , 慶尚南道有形文化財 , 表忠寺大弘願殿に奉安されている阿弥陀九品幀は阿弥陀九品幀画の一種で、『阿弥彌経』に基づいて描かれた幀画だ。 すなわち、極楽浄土の姿を密かつ細密に画面全体に描写している観経変相図である。 この幀画は現在、大弘院殿内に用意された仏壇の上に額縁の形で奉安されており、最近、幀画の前方の四方外郭に再び木で型を組んだ状態だ。 したがって、画面下段に墨書されている画記部分が枠の中に隠されているため、その内容を詳しく把握することはできない。",
+    "QA": [
+        {
+            "question": "この幀画はどこに奉安されていますか？",
+            "answer": "幀画は表忠寺大弘願殿に奉安されています。"
+        },
+        {
+            "question": "この幀画はどのような幀画ですか？",
+            "answer": "この幀画は阿弥陀九品幀画の一種で、『阿弥彌経』に基づいて描かれた観経変相図です。"
+        },
+        {
+            "question": "幀画の内容は何を描写していますか？",
+            "answer": "幀画は極楽浄土の姿を密かつ細密に画面全体に描写しています。"
+        },
+        {
+            "question": "幀画の画記部分はどこにありますか？",
+            "answer": "画記部分は枠の中に隠されているため、詳細はわかりません。"
+        }
+    ],
+    "word_Count": {
+        "text": 211,
+        "QA": 135
+    }
+}

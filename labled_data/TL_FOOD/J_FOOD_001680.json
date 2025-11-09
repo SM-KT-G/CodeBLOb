@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001680",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/gaon",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "GAON"
+    },
+    "text": "GAON\\n\nソウル特別市 江南区 島山大路 317\\n\n江南に位置するGAON（ガオン）はコース料理が味わえる高級韓国料理店です。オンナルコースとガオンコースがあり、旬の食材を使い、食材本来の味を引き出しています。GAONの料理は韓国料理の奥深さや上品さがよく表現されています。",
+    "QA": [
+        {
+            "question": "GAONはどんな種類のレストランですか？",
+            "answer": "GAONは高級韓国料理店です。"
+        },
+        {
+            "question": "GAONの場所はどこですか？",
+            "answer": "GAONはソウル特別市江南区島山大路317に位置しています。"
+        },
+        {
+            "question": "GAONではどんな料理が味わえますか？",
+            "answer": "GAONではオンナルコースとガオンコースのコース料理が味わえます。"
+        },
+        {
+            "question": "GAONの料理はどのように表現されていますか？",
+            "answer": "GAONの料理は韓国料理の奥深さや上品さがよく表現されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 102,
+        "QA": 136
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_012749",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/goods/GN0002161913?startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0%5E&npprmaxsort=min",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "부안 캘리포니아 운영 정책"
+    },
+    "text": "チェックインは午後5時、チェックアウトは午前12時とし、ご案内いたします。 ご利用の間、便利な施設をご利用いただけます。 ジャズ センターは、コンピュータ、プリンターなどの施設をご利用いただけます。またはファミリー スタイルでご提供しております。 扶安ツリー全体の空間はWi-Fiが可能で、ユーチューブ、ネットフリックス、ティービング、ディズニーなど多様なottが楽しめます。 朝食も提供され、コーヒーショップも運営しています。",
+    "QA": [
+        {
+            "question": "チェックインとチェックアウトの時間はいつですか？",
+            "answer": "チェックインは午後5時で、チェックアウトは午前12時です。"
+        },
+        {
+            "question": "ジャズセンターで利用できる施設はありますか？",
+            "answer": "ジャズセンターではコンピュータやプリンターなどの施設を利用することができます。"
+        },
+        {
+            "question": "ホテル全体の空間ではWi-Fiが使えますか？",
+            "answer": "はい、ホテル全体の空間ではWi-Fiが使えます。"
+        },
+        {
+            "question": "朝食は提供されますか？",
+            "answer": "はい、朝食が提供されます。"
+        },
+        {
+            "question": "コーヒーショップはありますか？",
+            "answer": "はい、コーヒーショップも運営されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 156,
+        "QA": 161
+    }
+}

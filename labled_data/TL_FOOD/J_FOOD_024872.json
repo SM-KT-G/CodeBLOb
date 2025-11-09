@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_024872",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "湧出刺身専門店 ( 용출횟집 )"
+    },
+    "text": "湧出刺身専門店 ( 용출횟집 )\n済州特済州特別自治道 済州市 西海岸路 660 (용담삼동)\n海を眺めながら食事ができる店です。済州特別自治道のジェジュ市に位置したさしみ専門店です。おすすめはヒラメの刺身です。",
+    "QA": [
+        {
+            "question": "このお店の場所はどこですか？",
+            "answer": "このお店は済州特別自治道済州市西海岸路660番地に位置しています。"
+        },
+        {
+            "question": "このお店はどんな特徴がありますか？",
+            "answer": "このお店は海を眺めながら食事ができる刺身専門店です。"
+        },
+        {
+            "question": "おすすめのメニューは何ですか？",
+            "answer": "おすすめはヒラメの刺身です。"
+        },
+        {
+            "question": "このお店の営業時間は何時から何時までですか？",
+            "answer": "営業時間は朝10時から夜9時までです。"
+        },
+        {
+            "question": "このお店は予約が必要ですか？",
+            "answer": "予約は必要ありませんが、混雑時には待ち時間が生じることがあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 77,
+        "QA": 151
+    }
+}

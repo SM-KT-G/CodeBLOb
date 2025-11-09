@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_031991",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=37&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=00760000&ccbaCtcd=32&ccbaCpno=1123200760000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1963-01-21",
+        "domain": "문화/역사관광",
+        "title": "춘천 근화동 당간지주"
+    },
+    "text": "春川槿花洞幢竿支柱 (춘천 근화동 당간지주)\\n\n江原道春川市近和洞793-1番地\\n\n高麗時代、宝物、幢竿支柱は寺の入口に立てておくもので、寺に行事がある時にここに幢という旗を付けておくが、この旗をかけておく細長い竿を幢竿といい、幢竿の両側に立ってこれを持ちこたえる二つの石柱を幢竿支柱という。 春川市内で衣岩湖に沿って春川駅に戻る道路の横に建てられているこの幢竿支柱は、何の飾りもない簡潔な形だ。向かい合っている二つの柱の間には2段で構成された幢竿の支え石が置かれているが、下段は丸い彫刻があり、上段は16葉の蓮の彫刻が回されている。 柱のてっぺんは半円形を成しており、一ヶ所だけに旗竿を固定させた溝の跡が残っている。 石を整えた技法や蓮の花びらを刻んだ手法から見て、高麗中期の作品と推定される。",
+    "QA": [
+        {
+            "question": "この幢竿支柱は何のために使われていましたか？",
+            "answer": "幢竿支柱は寺の入口に立てておくもので、寺に行事がある時にここに幢という旗を付けておきます。"
+        },
+        {
+            "question": "この幢竿支柱はどの時代の作品ですか？",
+            "answer": "幢竿支柱は高麗時代の作品であると推定されています。"
+        },
+        {
+            "question": "幢竿支柱の形はどのようなものですか？",
+            "answer": "幢竿支柱は簡潔な形をしており、二つの柱の間に2段で構成された幢竿の支え石が置かれています。"
+        },
+        {
+            "question": "幢竿支柱の柱のてっぺんには何がありますか？",
+            "answer": "幢竿支柱の柱のてっぺんは半円形を成しており、一ヶ所だけに旗竿を固定させた溝の跡が残っています。"
+        },
+        {
+            "question": "幢竿支柱の技法や彫刻は何によって推定される高麗時代の作品ですか？",
+            "answer": "石を整えた技法や蓮の花びらを刻んだ手法から見て、幢竿支柱は高麗中期の作品と推定されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 257,
+        "QA": 233
+    }
+}

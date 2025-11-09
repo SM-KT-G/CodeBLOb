@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_008912",
+        "source": "도서",
+        "writer": "헤이데이 편집부",
+        "ISBN_ISNN": "978-89-9131-760-4",
+        "version": "초판",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "서울맛집",
+        "collectedDate": "2023-11-01",
+        "publishedDate": "2015-06-01",
+        "domain": "음식점",
+        "title": "유목커피바"
+    },
+    "text": "ソウル特別市城北区東小門路24キル47に位置するお店では、様々な飲み物やデザートが楽しめます。 インスタグラムでメニューと日程を確認すると、より正確かつ迅速に情報を得ることができます。 お店は毎日12時30分から22時まで営業しています。 メニューでは Chocolate pudding, Espresso, Americano, Flat White, Latte, Vanilla Latte, Einspanner, Cream Latte, Pumpkin Tea, Tomato/Basil Ade, Guarana Antarctica, Banana pudding, Banana Cake, Lemon Ade 背中が おり, それぞれの 値段は 違います。",
+    "QA": [
+        {
+            "question": "このお店はどこにありますか？",
+            "answer": "このお店はソウル特別市城北区東小門路24キル47に位置しています。"
+        },
+        {
+            "question": "お店の営業時間は何時から何時までですか？",
+            "answer": "お店は毎日12時30分から22時まで営業しています。"
+        },
+        {
+            "question": "お店で提供されているメニューは何ですか？",
+            "answer": "メニューでは Chocolate pudding, Espresso, Americano, Flat White, Latte, Vanilla Latte, Einspanner, Cream Latte, Pumpkin Tea, Tomato/Basil Ade, Guarana Antarctica, Banana pudding, Banana Cake, Lemon Adeが楽しめます。"
+        },
+        {
+            "question": "メニューの値段はどれくらいですか？",
+            "answer": "メニューの値段はそれぞれ異なります。具体的な値段はお店でご確認ください。"
+        },
+        {
+            "question": "お店のインスタグラムで確認できる情報は何ですか？",
+            "answer": "お店のインスタグラムではメニューと日程を確認することができます。最新の情報を得るには、インスタグラムをチェックしてください。"
+        }
+    ],
+    "word_Count": {
+        "text": 248,
+        "QA": 332
+    }
+}

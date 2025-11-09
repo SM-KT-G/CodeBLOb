@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_017906",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42001&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "신림 러브"
+    },
+    "text": "各部屋の入室基準をご確認の上、追加人数の場合は当日現地にて追加料金が決済されることをお知らせします。 オンシーズンや特定日、祝日(前日含む)には料金が変わる場合があります。 入室の際は身分証明書を確認し、未成年者は入室制限されます(身分証明書を必ず持参してください。 親切にお答えします。",
+    "QA": [
+        {
+            "question": "入室基準は何ですか？",
+            "answer": "各部屋の入室基準は、お客様が事前にご確認ください。"
+        },
+        {
+            "question": "追加人数の場合、追加料金はかかりますか？",
+            "answer": "追加人数の場合は、当日現地にて追加料金が決済されることをお知らせします。"
+        },
+        {
+            "question": "オンシーズンや特定日、祝日には料金が変わりますか？",
+            "answer": "オンシーズンや特定日、祝日(前日含む)には料金が変わる場合があります。"
+        },
+        {
+            "question": "入室の際に身分証明書は必要ですか？",
+            "answer": "入室の際は身分証明書を確認します。未成年者は入室制限されますので、必ず身分証明書を持参してください。"
+        },
+        {
+            "question": "親切にお答えいただけますか？",
+            "answer": "もちろん、親切にお答えします。どんな質問でもお気軽にどうぞ。"
+        }
+    ],
+    "word_Count": {
+        "text": 105,
+        "QA": 192
+    }
+}

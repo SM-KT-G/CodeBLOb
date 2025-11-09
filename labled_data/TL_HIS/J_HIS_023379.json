@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_023379",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1037&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=01020000&ccbaCtcd=37&ccbaCpno=3413701020000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1985-08-05",
+        "domain": "문화/역사관광",
+        "title": "신녕향교대성전"
+    },
+    "text": "新寧郷校大成殿 (신녕향교대성전)\\n\n慶尚北道永川市新寧面クンゴルキル30-7(華城里)\\n\n慶尚北道文化財資料 , 郷校は孔子と多くの聖賢に祭祀を行い、地方民の教育と教化のために国で建てた教育機関だ。 新寧郷校は建てた時期を正確に分からないが、朝鮮宣祖25年(1592)に火事が起きてなくなった。 光海君7年(1615)に初めて建てられた場所から500m離れた地点に建て直したが、粛宗12年(1686)に現在の場所に移した。 大成殿は孔子をはじめ、中国と韓国の儒学者の位牌を祀って祭祀を行う場所だ。 前面3間の規模であり、東武·庶務がなく韓国の聖賢も全て大成殿に祀られた。 朝鮮時代には国から土地と奴婢·本などを支援され学生を教えたが、今は教育機能はなくなり祭祀機能だけが残っている。",
+    "QA": [
+        {
+            "question": "新寧郷校大成殿はどのような場所ですか？",
+            "answer": "新寧郷校大成殿は孔子と多くの聖賢を祀る場所で、地方の教育機関でした。"
+        },
+        {
+            "question": "新寧郷校大成殿はいつ建てられましたか？",
+            "answer": "正確な建設時期は分かりませんが、朝鮮宣祖25年(1592)に火事でなくなりました。その後、光海君7年(1615)に別の場所に再建され、粛宗12年(1686)に現在の場所に移されました。"
+        },
+        {
+            "question": "大成殿ではどんな祭祀が行われますか？",
+            "answer": "大成殿では、孔子をはじめとする中国と韓国の儒学者の位牌を祀り、祭祀が行われます。"
+        },
+        {
+            "question": "新寧郷校大成殿は現在も教育機能がありますか？",
+            "answer": "いいえ、現在は教育機能はなく、祭祀機能のみが残っています。"
+        }
+    ],
+    "word_Count": {
+        "text": 252,
+        "QA": 200
+    }
+}

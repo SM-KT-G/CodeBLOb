@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_081190",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/collectionList#######",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2023-10-11",
+        "domain": "문화/역사관광",
+        "title": "서울종로 세검정 좌측면"
+    },
+    "text": "ソウル鍾路区細黒の左側 (서울종로 세검정 좌측면)\\n\n1932年に行われた調査によると、ソウル特別市鍾路区新栄洞の左側面にある、韓国と日本の植民地支配時代の記録物であるガラス製のフィルムについて説明しています。フィルムの大きさは横164cm、縦119cmです。",
+    "QA": [
+        {
+            "question": "フィルムの大きさは何ですか？",
+            "answer": "横164cm、縦119cmです。"
+        },
+        {
+            "question": "フィルムは何年に調査されましたか？",
+            "answer": "1932年に調査されました。"
+        },
+        {
+            "question": "フィルムはどの地域にありますか？",
+            "answer": "ソウル特別市鍾路区新栄洞の左側面にあります。"
+        },
+        {
+            "question": "フィルムは何の記録物ですか？",
+            "answer": "韓国と日本の植民地支配時代の記録物です。"
+        },
+        {
+            "question": "フィルムの材質は何ですか？",
+            "answer": "ガラス製です。"
+        },
+        {
+            "question": "調査によると、フィルムの内容は何について説明していますか？",
+            "answer": "ソウル特別市鍾路区新栄洞の左側面にある、韓国と日本の植民地支配時代の記録物について説明しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 96,
+        "QA": 169
+    }
+}

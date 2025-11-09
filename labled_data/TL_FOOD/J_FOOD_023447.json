@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_023447",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2022-04-22",
+        "domain": "음식점",
+        "title": "스시 오타루"
+    },
+    "text": "寿司小樽 (스시 오타루)\\n\n済州特別自治道済州市インダ2ギル(30)\\n\n済州市内に位置するおまかせ専門店「寿司小樽」は、旬の食材を使った新鮮な寿司や熟成刺身を楽しむことができます。ここでは、品質の高い食材を使いながら品々がリーズナブルに提供されています。",
+    "QA": [
+        {
+            "question": "スシ オタルはどこに位置していますか？",
+            "answer": "スシ オタルは済州市内に位置しています。具体的な住所は済州特別自治道済州市インダ2ギル(30)です。"
+        },
+        {
+            "question": "スシ オタルではどんな料理を楽しむことができますか？",
+            "answer": "スシ オタルでは旬の食材を使った新鮮な寿司や熟成刺身を楽しむことができます。"
+        },
+        {
+            "question": "スシ オタルの特徴は何ですか？",
+            "answer": "スシ オタルでは品質の高い食材を使いながら、品々がリーズナブルに提供されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 95,
+        "QA": 138
+    }
+}

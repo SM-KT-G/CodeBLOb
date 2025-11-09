@@ -1,0 +1,31 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_016377",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-05",
+        "domain": "음식점",
+        "title": "開花 ( 개화 )"
+    },
+    "text": "開花 ( 개화 )\\n\nソウル特別市 中区 ナムデムンロ52-5\\n\n独特なジャージャー麺がある中華料理店です。ソウル特別市のチュン区に位置した中華専門店です。代表的なメニューはジャージャー麺です。",
+    "QA": [
+        {
+            "question": "開花はどこに位置していますか？",
+            "answer": "開花はソウル特別市のチュン区に位置しています。"
+        },
+        {
+            "question": "開花の代表的なメニューは何ですか？",
+            "answer": "開花の代表的なメニューはジャージャー麺です。"
+        }
+    ],
+    "word_Count": {
+        "text": 72,
+        "QA": 56
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_028621",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1228&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=79&ccbaAsno=04550000&ccbaCtcd=31&ccbaCpno=4413104550000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2010-02-19",
+        "domain": "자연관광",
+        "title": "고양 행주성당"
+    },
+    "text": "1910年に建てられた韓屋聖堂は1928年に移築され、棟上げモクブジェを含めて当時使用した基礎の不在をリサイクルし、1949年には増築が行われた。このような過程で建物の変遷過程が記録され、記録はよく保存された。また、建物の柱を構成する木造世帯の場合、最初の建設部分と増築部分が残っていて歴史性をよく保存している。このような理由で韓屋聖堂は、国家登録文化財に登録されている。",
+    "QA": [
+        {
+            "question": "韓屋聖堂はいつ建てられましたか？",
+            "answer": "韓屋聖堂は1910年に建てられました。"
+        },
+        {
+            "question": "韓屋聖堂はどこに移築されましたか？",
+            "answer": "韓屋聖堂は1928年に移築されました。"
+        },
+        {
+            "question": "どんな建築基礎が再利用されましたか？",
+            "answer": "棟上げモクブジェを含めて当時使用した基礎が再利用されました。"
+        },
+        {
+            "question": "韓屋聖堂は何年に増築されましたか？",
+            "answer": "韓屋聖堂は1949年に増築されました。"
+        },
+        {
+            "question": "なぜ韓屋聖堂は国家登録文化財に登録されていますか？",
+            "answer": "韓屋聖堂は建物の変遷過程が記録され、記録がよく保存されているため国家登録文化財に登録されています。また、建物の柱を構成する木造世帯の場合、最初の建設部分と増築部分が残っており、歴史性がよく保存されているためです。"
+        }
+    ],
+    "word_Count": {
+        "text": 136,
+        "QA": 209
+    }
+}

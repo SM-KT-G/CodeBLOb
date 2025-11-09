@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_049446",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://abnb.me/Cf8AvBmPIvb",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "Leo\"s house"
+    },
+    "text": "Leo\"s house\\n\n大邱広域市寿城区チョンス路31キル2-3、3階\\n\n若い感覚のインテリアデザインで飾られた宿です。ゲスト用のルーフトップシェルターがあり、徒歩3分距離にバス停や地下鉄駅もあります。",
+    "QA": [
+        {
+            "question": "場所はどこですか？",
+            "answer": "大邱広域市寿城区チョンス路31キル2-3、3階にあります。"
+        },
+        {
+            "question": "宿の特徴は何ですか？",
+            "answer": "宿は若い感覚のインテリアデザインで飾られています。"
+        },
+        {
+            "question": "ルーフトップシェルターはありますか？",
+            "answer": "はい、ゲスト用のルーフトップシェルターがあります。"
+        },
+        {
+            "question": "バス停や地下鉄駅はどのくらいの距離ですか？",
+            "answer": "バス停や地下鉄駅は徒歩3分の距離にあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 76,
+        "QA": 116
+    }
+}

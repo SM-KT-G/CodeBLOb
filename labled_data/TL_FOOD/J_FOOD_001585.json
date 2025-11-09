@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001585",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/ceci-cela",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "Ceci Cela"
+    },
+    "text": "Ceci Cela\\n\nソウル市カンナムグトサンデロ45ギル10-4\\n\nオレンジ色の地中海風の雰囲気で、様々なパンが楽しめる。ケーキやベルギーワッフル、パンケーキブランチが味わえる。クリームチーズと生クリームがたっぷり入ったニンジンケーキが代表メニュー。",
+    "QA": [
+        {
+            "question": "このお店の名前と住所は？",
+            "answer": "このお店の名前はCeci Celaで、住所はソウル市カンナムグトサンデロ45ギル10-4です。"
+        },
+        {
+            "question": "このお店の雰囲気はどんな感じですか？",
+            "answer": "このお店はオレンジ色の地中海風の雰囲気で、とても素敵ですよ。"
+        },
+        {
+            "question": "このお店ではどんなパンが楽しめますか？",
+            "answer": "このお店では様々なパンが楽しめます。ケーキやベルギーワッフル、パンケーキブランチなどもありますよ。"
+        },
+        {
+            "question": "このお店の代表メニューは何ですか？",
+            "answer": "このお店の代表メニューは、クリームチーズと生クリームがたっぷり入ったニンジンケーキです。ぜひお試しください。"
+        }
+    ],
+    "word_Count": {
+        "text": 93,
+        "QA": 180
+    }
+}

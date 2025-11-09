@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_036829",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=979&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=00250100&ccbaCtcd=38&ccbaCpno=3413800250100&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1983-08-06",
+        "domain": "문화/역사관광",
+        "title": "창녕 문암정"
+    },
+    "text": "昌寧聞巌亭 (창녕 문암정)\\n\n慶尚南道昌寧郡桂城面沙里314\\n\n慶尚南道文化財資料、昌寧文岩亭は壬辰倭乱の時、義兵長として活躍した新潮将軍を祀ったところだ。 新潮の号である「文岩」は若くて戦場では退くことなく必死の覚悟で戦い、年を取って岩に暮らしながら徳を積み学問を磨く士人として生きるという意味で付けたという。 文岩亭は昌寧桂城川の右岸岩の上に建てられたが、子孫によって永正閣、付属亭子、大門棟などが加わり計4棟の建物がロ字型に配置されている。",
+    "QA": [
+        {
+            "question": "昌寧聞巌亭はどこにありますか？",
+            "answer": "昌寧聞巌亭は慶尚南道昌寧郡桂城面沙里314にあります。"
+        },
+        {
+            "question": "昌寧聞巌亭は何を祀っていますか？",
+            "answer": "昌寧聞巌亭は新潮将軍を祀っています。"
+        },
+        {
+            "question": "新潮将軍の号は何ですか？",
+            "answer": "新潮将軍の号は「文岩」です。"
+        },
+        {
+            "question": "文岩という号の意味は何ですか？",
+            "answer": "文岩という号は、若くて戦場で必死の覚悟で戦い、岩に暮らしながら学問を磨く士人として生きることを意味しています。"
+        },
+        {
+            "question": "文岩亭はどのような建物がありますか？",
+            "answer": "文岩亭には永正閣、付属亭子、大門棟などが加わり、計4棟の建物がロ字型に配置されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 165,
+        "QA": 171
+    }
+}

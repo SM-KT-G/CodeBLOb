@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_001709",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.yanolja.com/motel/3016131",
+        "collectedDate": "2023-11-07",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "강릉 S"
+    },
+    "text": "BoutiqueHOTELSは計19室の客室を保有しています。この宿は近くにKTX江陵電鉄の駅があり、公共交通機関の利用が便利です。韓国語を含む様々な言語で案内サービスを提供しています。客室はネットフリックスを視聴でき、本人のアカウントを使って利用できます。",
+    "QA": [
+        {
+            "question": "BoutiqueHOTELSは何階建てですか？",
+            "answer": "BoutiqueHOTELSは何階建てですか？"
+        },
+        {
+            "question": "BoutiqueHOTELSの客室数はいくつですか？",
+            "answer": "BoutiqueHOTELSは計19室の客室を保有しています。"
+        },
+        {
+            "question": "BoutiqueHOTELSの近くに公共交通機関はありますか？",
+            "answer": "BoutiqueHOTELSは近くにKTX江陵電鉄の駅があり、公共交通機関の利用が便利です。"
+        },
+        {
+            "question": "BoutiqueHOTELSはどのような言語で案内サービスを提供していますか？",
+            "answer": "BoutiqueHOTELSは韓国語を含む様々な言語で案内サービスを提供しています。"
+        },
+        {
+            "question": "BoutiqueHOTELSの客室ではネットフリックスを視聴できますか？",
+            "answer": "BoutiqueHOTELSの客室ではネットフリックスを視聴でき、本人のアカウントを使って利用できます。"
+        }
+    ],
+    "word_Count": {
+        "text": 94,
+        "QA": 255
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_027819",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-05",
+        "domain": "음식점",
+        "title": "草堂ゴル純豆腐 ( 초당골순두부 )"
+    },
+    "text": "草堂ゴル純豆腐 ( 초당골순두부 )\\n\n江原道 ガンヌン市 チョダンスンドゥブギル33-1\\n\n柔らかい豆腐料理が味わえる店です。おすすめは豆腐の寄せ鍋です。江原道のガンヌン市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "この店はどこにありますか？",
+            "answer": "草堂ゴル純豆腐は江原道のガンヌン市にあります。"
+        },
+        {
+            "question": "この店のおすすめ料理は何ですか？",
+            "answer": "おすすめは豆腐の寄せ鍋です。柔らかい豆腐が味わえます。"
+        },
+        {
+            "question": "この店の特徴は何ですか？",
+            "answer": "この店は韓食専門店で、豆腐料理が特に人気です。"
+        }
+    ],
+    "word_Count": {
+        "text": 74,
+        "QA": 83
+    }
+}

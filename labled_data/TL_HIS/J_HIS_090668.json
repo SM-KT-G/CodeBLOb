@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_090668",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=489&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=01510000&ccbaCtcd=33&ccbaCpno=2113301510000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1986-04-28",
+        "domain": "문화/역사관광",
+        "title": "영동 사로당"
+    },
+    "text": "忠清北道有形文化財であるサロン党は朝鮮粛宗36年に建てられた。この建物は前面3間、側面2間の規模を持っており、横顔が八の字型の入母屋屋根で屋根が行われている。建物は土から1.2m高さに床が設置されており、前面3間の左側の末1間と右の角はオンドル部屋で構成されていて、残りは板の間になっている。台の上には礎石が置かれており、丸い柱が建てられている。四方には簡潔な欄干が張り巡らされていて、オンドル部屋の建具も適度に組まれている。このような特徴を持っているサロン党は、典型的な別棟建築により、忠清北道有形文化財に指定されている。",
+    "QA": [
+        {
+            "question": "この建物はいつ建てられましたか？",
+            "answer": "サロン党は朝鮮粛宗36年に建てられました。"
+        },
+        {
+            "question": "この建物の規模はどのくらいですか？",
+            "answer": "この建物は前面3間、側面2間の規模を持っています。"
+        },
+        {
+            "question": "この建物の屋根の形はどのような形ですか？",
+            "answer": "この建物の屋根は八の字型の入母屋屋根です。"
+        },
+        {
+            "question": "この建物の内部はどのようになっていますか？",
+            "answer": "建物は土から1.2m高さに床が設置されており、オンドル部屋と板の間に区切られています。"
+        },
+        {
+            "question": "この建物の特徴的な点は何ですか？",
+            "answer": "サロン党は典型的な別棟建築であり、簡潔な欄干や適度に組まれたオンドル部屋の建具などが特徴です。"
+        }
+    ],
+    "word_Count": {
+        "text": 192,
+        "QA": 181
+    }
+}

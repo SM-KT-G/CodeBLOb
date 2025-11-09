@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_017997",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/namguung-authentic-chinese-restaurant",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "南宮"
+    },
+    "text": "南宮\\n\n京畿道 高陽市 一山西区 一山路682 )\\n\n「南宮（ナムグン）」は、京畿道一山にある中華料理専門店です。多彩な正統派中華料理とフュージョン料理を味わうことができる他、会議などにも使えるプロジェクターを備えた個室もあります。",
+    "QA": [
+        {
+            "question": "南宮はどこにありますか？",
+            "answer": "南宮は京畿道高陽市一山西区一山路682にあります。"
+        },
+        {
+            "question": "南宮ではどのような料理が味わえますか？",
+            "answer": "南宮では多彩な正統派中華料理とフュージョン料理を味わうことができます。"
+        },
+        {
+            "question": "南宮にはプロジェクターを備えた個室がありますか？",
+            "answer": "はい、南宮には会議などに使えるプロジェクターを備えた個室もあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 86,
+        "QA": 109
+    }
+}

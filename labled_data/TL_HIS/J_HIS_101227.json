@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_101227",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1216&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=79&ccbaAsno=03080000&ccbaCtcd=50&ccbaCpno=4413903080000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2006-12-04",
+        "domain": "문화/역사관광",
+        "title": "제주 가마오름 일제 동굴진지"
+    },
+    "text": "済州カマオルム 日本製 洞窟陣地\\n\n済州市韓京面青水里1171番地、798-2\\n\n1940年ごろ、国家登録文化財、1945年ごろ建設が施設物は、日本軍最高指揮部の第58軍司令部の駐屯地として釜オルム洞窟陣地が陥落した場合最後の抵抗拠点にするために建設された。2つのバンカーと3つの洞窟陣地などで構成されており、そのうちの長さが300mに達する洞窟陣地は入り口が三ヵ所であり、内部空間は格子型で構成されている。トーチカは厚い鉄筋とセメントで堅固に構築し、外を観測できる銃の中(銃眼)が梯形模様で作られている。太平洋戦争末期、守勢に追い込まれた日本軍が済州道を抵抗の足がかりにした侵略の歴史を見せてくれている。",
+    "QA": [
+        {
+            "question": "この洞窟陣地はいつ建設されましたか？",
+            "answer": "1940年ごろ、国家登録文化財、1945年ごろ建設が施設物は、日本軍最高指揮部の第58軍司令部の駐屯地として釜オルム洞窟陣地が陥落した場合最後の抵抗拠点にするために建設されました。"
+        },
+        {
+            "question": "洞窟陣地は何で構成されていますか？",
+            "answer": "2つのバンカーと3つの洞窟陣地などで構成されており、そのうちの長さが300mに達する洞窟陣地は入り口が三ヵ所であり、内部空間は格子型で構成されています。"
+        },
+        {
+            "question": "洞窟陣地がどのように構築されていますか？",
+            "answer": "トーチカは厚い鉄筋とセメントで堅固に構築され、外を観測できる銃の中(銃眼)が梯形模様で作られています。"
+        },
+        {
+            "question": "この洞窟陣地はどのような歴史的な役割を果たしましたか？",
+            "answer": "太平洋戦争末期、守勢に追い込まれた日本軍が済州道を抵抗の足がかりにした侵略の歴史を見せてくれています。"
+        }
+    ],
+    "word_Count": {
+        "text": 223,
+        "QA": 256
+    }
+}

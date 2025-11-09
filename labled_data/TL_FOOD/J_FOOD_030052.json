@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_030052",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2022-08-17",
+        "domain": "음식점",
+        "title": "해진횟집"
+    },
+    "text": "海津刺身屋 (해진횟집)\\n\n済州特別自治道済州市西部ドゥギル22-1(建入洞)\\n\n済州市塔洞西埠頭防波堤入口に位置するヘジン刺身屋は、2階と3階の一方がガラス壁になっており、海の全景を一望でき、青い海を眺めながら新鮮な刺身と海の趣を一緒に楽しむことができます。",
+    "QA": [
+        {
+            "question": "ヘジン刺身屋はどのような場所に位置していますか？",
+            "answer": "ヘジン刺身屋は済州市塔洞西埠頭防波堤入口に位置しています。"
+        },
+        {
+            "question": "ヘジン刺身屋でできることは何ですか？",
+            "answer": "ヘジン刺身屋では、新鮮な刺身を楽しみながら青い海を眺めることができます。"
+        },
+        {
+            "question": "ヘジン刺身屋の建物はどのような特徴がありますか？",
+            "answer": "ヘジン刺身屋の建物は、2階と3階の一方がガラス壁になっており、海の全景を一望することができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 96,
+        "QA": 131
+    }
+}

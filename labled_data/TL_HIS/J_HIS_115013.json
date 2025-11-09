@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_115013",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/collectionList#######",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2023-10-11",
+        "domain": "문화/역사관광",
+        "title": "청화 백자 종지 및 백자 접시"
+    },
+    "text": "青華白磁小皿及び白磁皿 (청화 백자 종지 및 백자 접시)\\n\n左側の彫刻の内底面には、美しい「寿」の字が刻まれています。この作品は、韓国-朝鮮の時代に作られたもので、材質は白磁の陶磁器です。この彫刻は、食生活に関連する小皿として使用されるもので、大きさは高さ73cm、厚さ115cm、底径57cmです。また、別の部分の大きさは高さ32cm、厚さ98cm、底径55cmです。",
+    "QA": [
+        {
+            "question": "この陶磁器の作品はどこで作られましたか？",
+            "answer": "この陶磁器の作品は韓国-朝鮮の時代に作られました。"
+        },
+        {
+            "question": "この陶磁器の材質は何ですか？",
+            "answer": "この陶磁器の材質は白磁です。"
+        },
+        {
+            "question": "この陶磁器の彫刻は何のために使用されるものですか？",
+            "answer": "この彫刻は食生活に関連する小皿として使用されます。"
+        },
+        {
+            "question": "小皿の大きさはどのくらいですか？",
+            "answer": "小皿の大きさは高さ73cm、厚さ115cm、底径57cmです。"
+        },
+        {
+            "question": "もう一つの部分の大きさはどのくらいですか？",
+            "answer": "もう一つの部分の大きさは高さ32cm、厚さ98cm、底径55cmです。"
+        }
+    ],
+    "word_Count": {
+        "text": 137,
+        "QA": 165
+    }
+}

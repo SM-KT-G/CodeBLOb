@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_027209",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-23",
+        "domain": "문화/역사관광",
+        "title": "益山駅（익산역）"
+    },
+    "text": "益山駅\n全羅北道 益山市 益山大路 153\n益山駅は1915年1月1日、裡里駅という名前で営業をスタートし、1977年11月11日、裡里駅の爆破事故で大きく損傷しました。1978年、壊れた駅を新築で建て替え、1995年、益山駅へと改称し、現在に至ります。",
+    "QA": [
+        {
+            "question": "益山駅の開業はいつですか？",
+            "answer": "益山駅は1915年1月1日、裡里駅として開業しました。"
+        },
+        {
+            "question": "裡里駅の爆破事故はいつ起きましたか？",
+            "answer": "裡里駅の爆破事故は1977年11月11日に起きました。"
+        },
+        {
+            "question": "益山駅の建て替えはいつ行われましたか？",
+            "answer": "益山駅は1978年に壊れた駅を新築で建て替えました。"
+        },
+        {
+            "question": "益山駅への改称はいつ行われましたか？",
+            "answer": "益山駅への改称は1995年に行われました。"
+        }
+    ],
+    "word_Count": {
+        "text": 93,
+        "QA": 123
+    }
+}

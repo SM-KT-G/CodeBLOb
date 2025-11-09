@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_017048",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-07",
+        "domain": "음식점",
+        "title": "季節パプサン COEX MALL（계절밥상 코엑스몰）"
+    },
+    "text": "季節パプサン COEX MALL\\n\nソウル特別市 江南区 奉恩寺路 524\\n\nソウル特別市サムソン(三成)駅の近くに位置した韓国料理店です。各種韓国料理メニューをお楽しみいただけます。代表的なメニューは韓国料理店です。",
+    "QA": [
+        {
+            "question": "この韓国料理店の場所はどこですか？",
+            "answer": "ソウル特別市 江南区 奉恩寺路 524に位置しています。"
+        },
+        {
+            "question": "この韓国料理店の近くにはどの駅がありますか？",
+            "answer": "ソウル特別市サムソン(三成)駅が近くにあります。"
+        },
+        {
+            "question": "この韓国料理店では何が楽しめますか？",
+            "answer": "各種韓国料理メニューをお楽しみいただけます。代表的なメニューは韓国料理です。"
+        }
+    ],
+    "word_Count": {
+        "text": 81,
+        "QA": 107
+    }
+}

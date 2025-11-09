@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001797",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2020-12-18",
+        "domain": "음식점",
+        "title": "KIM YOUNGMO 道谷タワー( 김영모과자점 도곡타워 )"
+    },
+    "text": "KIM YOUNGMO 道谷タワー( 김영모과자점 도곡타워 )\\n\nソウル特別市 江南区 オンジュロ30ギル10\\n\n30年の伝統を持つベーカリーです。ソウル特別市のガンナム区に位置したカフェ（コーヒーショップ）です。代表的なメニューはパンです。",
+    "QA": [
+        {
+            "question": "道谷タワー( 김영모과자점 도곡타워 )はどこにありますか？",
+            "answer": "道谷タワー( 김영모과자점 도곡타워 )はソウル特別市の江南区オンジュロ30ギル10に位置しています。"
+        },
+        {
+            "question": "道谷タワー( 김영모과자점 도곡타워 )ではどのようなメニューがありますか？",
+            "answer": "道谷タワー( 김영모과자점 도곡타워 )では主にパンが代表的なメニューです。"
+        },
+        {
+            "question": "道谷タワー( 김영모과자점 도곡타워 )は何年の伝統を持っていますか？",
+            "answer": "道谷タワー( 김영모과자점 도곡타워 )は30年の伝統を持っています。"
+        },
+        {
+            "question": "道谷タワー( 김영모과자점 도곡타워 )はどの区に位置していますか？",
+            "answer": "道谷タワー( 김영모과자점 도곡타워 )はソウル特別市の江南区に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 90,
+        "QA": 220
+    }
+}

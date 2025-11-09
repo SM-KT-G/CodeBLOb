@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_063938",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=401&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=00370000&ccbaCtcd=22&ccbaCpno=2112200370000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1995-05-12",
+        "domain": "문화/역사관광",
+        "title": "명심보감판본"
+    },
+    "text": "肝に銘じ宝鑑判本\\n\n大邱達城郡花園邑仁興2ギル26(本里里)\\n\n大邱広域市有形文化財、この文章は推計チュ氏である追跡の先生(1246∼1317)が編著したのだ。追跡は高麗の原種2年(1261)に文科に上がってミンブへイェムングヮン部経済学を務めた。現在に伝わるのは、高宗6年(1869)チュセムンが出版したインフンジェサボンが伝授されて邦訳出版されたことにより、家庭、学校で教育用として広く使われてきた。これは計31枚でインフン書院の木版が唯一だ。この版木は、中国、日本にも広く普及されており、英文でも翻訳され、韓国学研究の資料として使われたりもする。",
+    "QA": [
+        {
+            "question": "この宝鑑判本は誰が編著したのですか？",
+            "answer": "追跡チュ氏（1246∼1317）が編著しました。"
+        },
+        {
+            "question": "この宝鑑判本はいつ出版されましたか？",
+            "answer": "高宗6年（1869）にチュセムンが出版しました。"
+        },
+        {
+            "question": "この宝鑑判本はどのような用途で使われてきましたか？",
+            "answer": "家庭や学校で教育用として広く使われてきました。"
+        },
+        {
+            "question": "この宝鑑判本は他の国でも広く普及されていますか？",
+            "answer": "はい、中国や日本でも広く普及されています。"
+        },
+        {
+            "question": "この宝鑑判本は韓国学研究の資料としても使われていますか？",
+            "answer": "はい、韓国学研究の資料としても使われています。"
+        }
+    ],
+    "word_Count": {
+        "text": 203,
+        "QA": 167
+    }
+}

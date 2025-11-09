@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_056293",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.booking.com/hotel/kr/hostel-espace.ko.html",
+        "collectedDate": "2023-11-17",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "에스파스 호스텔"
+    },
+    "text": "チュンチョンに位置するエスパスホステルは、車で来るお客様のための無料専用駐車場を提供しています。 また、共用ラウンジと無料Wi-Fiも付いていて便利な宿泊ができます。 宿はCatholic Jungnim-dong Churchからは15分の距離、Ethiopian Korea War Memorialからは1.5kmの距離にあります。 また、宿泊客はKangwon National University Chunchoen campusまでは約2km、Chuncheon War Memorialまでは2.4km、Chuncheon National University of Educationまでは2.5kmの距離で移動できます。 また、宿からはChunghon Geulin Parkまでは18分距離で移動でき、禁煙室も利用できます。 エスパスホステルの客室にはTVが備えられており、シャワー設備とヘアドライヤーがついた専用バスルームと都市展望を提供します。 また、客室内にはベッドリネンやタオルなどが用意されており、リラックスできます。 エスパスホステルからはChucheon Child Parkまでは2.6km、Hallym Universityまでは2.9kmの距離に位置する様々な名所が楽しめます。 宿から一番近い空港は64kmの距離に位置する原州空港で、エスパスホステルはチュンチョン中心部からは約950mの距離に位置しています。 チェックインは16:00から始まり、チェックアウトは12:00まで可能です。 すべての距離は直線距離に基づいて測定され、実際の移動距離とは異なる場合があります。",
+    "QA": [
+        {
+            "question": "エスパスホステルはどこに位置していますか？",
+            "answer": "エスパスホステルはチュンチョンに位置しています。"
+        },
+        {
+            "question": "エスパスホステルはどのような設備がありますか？",
+            "answer": "エスパスホステルには専用駐車場、共用ラウンジ、無料Wi-Fiがあります。"
+        },
+        {
+            "question": "エスパスホステルの周辺にはどのような観光スポットがありますか？",
+            "answer": "エスパスホステルの周辺にはCatholic Jungnim-dong Church、Ethiopian Korea War Memorial、Kangwon National University Chunchoen campusなどがあります。"
+        },
+        {
+            "question": "エスパスホステルの客室にはどのような設備がありますか？",
+            "answer": "エスパスホステルの客室にはTV、専用バスルーム、都市展望があります。"
+        },
+        {
+            "question": "エスパスホステルから最も近い空港はどこですか？",
+            "answer": "エスパスホステルから最も近い空港は原州空港です。"
+        }
+    ],
+    "word_Count": {
+        "text": 519,
+        "QA": 268
+    }
+}

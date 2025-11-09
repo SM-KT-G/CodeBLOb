@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_032470",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1182&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=06460000&ccbaCtcd=37&ccbaCpno=3413706460000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2016-09-12",
+        "domain": "문화/역사관광",
+        "title": "칠곡 진주댁"
+    },
+    "text": "漆谷晋州宅 (칠곡 진주댁)\\n\n慶尚北道漆谷郡梅園3ギル30-5(倭館邑)\\n\n朝鮮、慶尚北道文化財資料、漆谷晋州宅は倭館邑梅原村の上梅に位置し、朴谷イ·ウォンロクの9世孫上立によって建設された。 晋州宅は前面の農耕地と東亭川、モッアンドル安山を一望できる典型的な背山臨水の条件を備えている。 本来、母屋、サランチェ、蔵屋、大門で構成された裕福な両班家の末裔の住宅と見られる。 現存する母屋とサランチェは日本の植民支配期の新しい様式が部分的に受け入れられたが、概して梅原村の伝統的な建築様式が継承·維持されていると評価される。 また、母屋は左右側面に眉屋根を付けて実空間を効率的に拡張し、板の間前面にドアを付けて外気を防ぐようにした。 このような姿は実空間を効率的に利用しようとした朝鮮後期上流家屋の特性をよく示している。",
+    "QA": [
+        {
+            "question": "この建物は誰によって建設されましたか？",
+            "answer": "この建物は朴谷イ·ウォンロクの9世孫上立によって建設されました。"
+        },
+        {
+            "question": "この建物はどのような条件を備えていますか？",
+            "answer": "この建物は典型的な背山臨水の条件を備えています。"
+        },
+        {
+            "question": "この建物はどのような構成になっていますか？",
+            "answer": "この建物は母屋、サランチェ、蔵屋、大門から構成されています。"
+        },
+        {
+            "question": "この建物はどのような建築様式を継承していますか？",
+            "answer": "この建物は梅原村の伝統的な建築様式が継承されています。"
+        },
+        {
+            "question": "母屋の特徴は何ですか？",
+            "answer": "母屋は眉屋根を付けて実空間を効率的に拡張し、板の間前面にドアを付けて外気を防ぐようになっています。"
+        }
+    ],
+    "word_Count": {
+        "text": 265,
+        "QA": 189
+    }
+}

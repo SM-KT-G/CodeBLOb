@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_020515",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42001&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "중곡 문"
+    },
+    "text": "当駐車場は広い空間を保有しており、自由に駐車することができます。 また、私たちはお客様に親切なサービスと快適なルームコンディションを提供しており、快適な時間を過ごすことができます。 当空間はバトルグラウンドを楽しめる高仕様PCも備えております。 i5-8500/3.0GHzのCPUと27、30インチのモニターを使用できます。 当一般室は1台を備えており、特室とカップルルームは2台を使用できます。 利用する方が多かったらいいですね。 多くの方々のご来店をお待ちしております。",
+    "QA": [
+        {
+            "question": "駐車場はどのくらいの広さですか？",
+            "answer": "当駐車場は広い空間を保有しており、自由に駐車することができます。"
+        },
+        {
+            "question": "お客様に提供しているサービスは何ですか？",
+            "answer": "私たちはお客様に親切なサービスと快適なルームコンディションを提供しており、快適な時間を過ごすことができます。"
+        },
+        {
+            "question": "PCルームにはどのような機材がありますか？",
+            "answer": "当空間はバトルグラウンドを楽しめる高仕様PCも備えております。i5-8500/3.0GHzのCPUと27、30インチのモニターを使用できます。"
+        },
+        {
+            "question": "一般室には何台のPCがありますか？",
+            "answer": "一般室は1台を備えております。"
+        },
+        {
+            "question": "特室とカップルルームには何台のPCがありますか？",
+            "answer": "特室とカップルルームは2台を使用できます。"
+        },
+        {
+            "question": "利用する人数に制限はありますか？",
+            "answer": "制限はありません。多くの方々のご来店をお待ちしております。"
+        }
+    ],
+    "word_Count": {
+        "text": 174,
+        "QA": 246
+    }
+}

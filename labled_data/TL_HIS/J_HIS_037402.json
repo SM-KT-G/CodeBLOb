@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_037402",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=983&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=00290000&ccbaCtcd=37&ccbaCpno=3413700290000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1985-08-05",
+        "domain": "문화/역사관광",
+        "title": "의성쌍호동삼층석탑"
+    },
+    "text": "義城双湖洞三層石塔 (의성쌍호동삼층석탑)\\n\n慶尚北道義城郡安寺面双湖里山11番地\\n\n慶尚北道文化財資料、清湖村東北側の麓にそびえ立っている石塔で、自然岩盤を床石にして1層基壇を上げた後、3層の塔身を上げた姿だ。 塔身の各石は角ごとに柱の形を模した彫刻を置き、屋根石は底面に1階は4段、2·3階は3段ずつの台を刻んだ。 特に屋根石は底面と上面の傾斜が似ていて単調な感じを与える。 1階の石が長すぎて不安定に見え、退化した様式を示す屋根石によって全体的に鈍く見える。 山腹に位置した点と自然岩盤を床石にした点、単純な彫刻の腕前から見て高麗時代に建てられた塔と推測される。",
+    "QA": [
+        {
+            "question": "この石塔はどこに位置していますか？",
+            "answer": "慶尚北道義城郡安寺面双湖里山11番地に位置しています。"
+        },
+        {
+            "question": "この石塔は何階建てですか？",
+            "answer": "この石塔は3階建てです。"
+        },
+        {
+            "question": "この石塔はいつ建てられましたか？",
+            "answer": "この石塔は高麗時代に建てられたと推測されています。"
+        },
+        {
+            "question": "この石塔の特徴は何ですか？",
+            "answer": "この石塔は自然岩盤を床石にし、1層基壇を上げた後、3層の塔身を上げた姿が特徴です。また、塔身の各石には角ごとに柱の形を模した彫刻があり、屋根石には底面に段台が刻まれています。"
+        },
+        {
+            "question": "この石塔はどのような印象を与えますか？",
+            "answer": "この石塔は1階の石が長すぎて不安定に見え、屋根石によって全体的に鈍く見えるという印象を与えます。"
+        }
+    ],
+    "word_Count": {
+        "text": 209,
+        "QA": 203
+    }
+}

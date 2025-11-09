@@ -1,0 +1,31 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_026559",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-01",
+        "domain": "음식점",
+        "title": "済州ふぐ専門店 ( 제주복어 )"
+    },
+    "text": "済州ふぐ専門店 \n慶尚北道 安東市 ボクジュ3キル 54\n様々なふぐ料理が味わえる店です。 おすすめはふぐスープです。慶尚北道のアンドン市に位置したふぐ専門店です。",
+    "QA": [
+        {
+            "question": "この店ではどんなふぐ料理が味わえますか？",
+            "answer": "当店では様々なふぐ料理をお楽しみいただけます。特におすすめはふぐスープです。"
+        },
+        {
+            "question": "この店はどこにありますか？",
+            "answer": "当店は慶尚北道の安東市に位置しています。具体的な住所はボクジュ3キル 54です。"
+        }
+    ],
+    "word_Count": {
+        "text": 60,
+        "QA": 81
+    }
+}

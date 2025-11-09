@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_024020",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-01",
+        "domain": "음식점",
+        "title": "安東ジプ ( 안동집 )"
+    },
+    "text": "安東ジプ \n慶尚北道 安東市 豊川面 ジョンソ路 214-6\n韓国の伝統家屋様式の一つであるオンドルで食事ができるところです。 おすすめはカンゴドゥンオ定食です。慶尚北道のアンドン市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "この場所はどこにありますか？",
+            "answer": "この場所は慶尚北道のアンドン市に位置しています。"
+        },
+        {
+            "question": "この場所の特徴は何ですか？",
+            "answer": "この場所は韓国の伝統家屋様式であるオンドルを使用しており、食事ができる特徴があります。"
+        },
+        {
+            "question": "おすすめのメニューは何ですか？",
+            "answer": "おすすめのメニューはカンゴドゥンオ定食です。"
+        },
+        {
+            "question": "この場所の住所は何ですか？",
+            "answer": "この場所の住所は韓国の安東ジプ慶尚北道安東市豊川面ジョンソ路214-6です。"
+        }
+    ],
+    "word_Count": {
+        "text": 76,
+        "QA": 133
+    }
+}

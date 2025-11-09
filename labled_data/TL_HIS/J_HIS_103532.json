@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_103532",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/view?relicId=36552924",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2023-10-11",
+        "domain": "문화/역사관광",
+        "title": "중용구경연의"
+    },
+    "text": "中庸具競演医 (중용구경연의)\\n\n一部の本には水浸痕や汚れ、摩耗が見られますが、それが全体的に読書にやさしくない印象を与える要因となっています。この本は韓国-朝鮮の時代背景を持ち、紙を素材として使用しています。作家はイ・オンジョク氏で、分類は宗教信仰の一環である儒教の経典である「四書五経」に該当します。また、本の寸法は縦338cm、横228cmです。",
+    "QA": [
+        {
+            "question": "この本の作者は誰ですか？",
+            "answer": "イ・オンジョク氏"
+        },
+        {
+            "question": "この本のジャンルは何ですか？",
+            "answer": "宗教信仰の一環である儒教の経典"
+        },
+        {
+            "question": "この本の寸法は何ですか？",
+            "answer": "縦338cm、横228cm"
+        },
+        {
+            "question": "この本はどの時代背景を持っていますか？",
+            "answer": "韓国-朝鮮の時代背景"
+        },
+        {
+            "question": "この本の素材は何ですか？",
+            "answer": "紙"
+        }
+    ],
+    "word_Count": {
+        "text": 129,
+        "QA": 85
+    }
+}

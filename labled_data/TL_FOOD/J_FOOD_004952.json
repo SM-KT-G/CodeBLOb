@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_004952",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-17",
+        "domain": "음식점",
+        "title": "キムヒソン済州豚肉入りホンダワラ( 김희선제주몸국 )"
+    },
+    "text": "キムヒソン済州豚肉入りホンダワラ\\n\n済州特別自治道 済州市 オヨンキル19\\n\nホンダワラで作った済州の郷土料理「モムクク(豚肉入りホンダワラスープ)」を販売している店です。代表的なメニューは豚肉入りホンダワラスープです。済州特別自治道の済州市に位置した韓国料理店です。",
+    "QA": [
+        {
+            "question": "この店はどこに位置していますか？",
+            "answer": "済州特別自治道の済州市のオヨンキル19に位置しています。"
+        },
+        {
+            "question": "この店の代表的なメニューは何ですか？",
+            "answer": "この店の代表的なメニューは豚肉入りホンダワラスープです。"
+        },
+        {
+            "question": "モムククはどのように作られますか？",
+            "answer": "モムククはホンダワラで作られた済州の郷土料理で、豚肉も入っています。"
+        }
+    ],
+    "word_Count": {
+        "text": 99,
+        "QA": 103
+    }
+}

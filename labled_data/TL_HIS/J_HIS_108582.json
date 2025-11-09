@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_108582",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/view?relicId=115921",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2023-10-11",
+        "domain": "문화/역사관광",
+        "title": "청자 바닥 조각"
+    },
+    "text": "青磁底片 (청자 바닥 조각)\\n\nヒールの底に、鉄貨で「成」の字が描かれています。この靴は、韓国の高麗時代の陶磁器である青磁が使われており、食べ物をテーマにした鉢のアイテムとして分類されます。サイズは現在の高さ37cm、幅91cm、長さ09cm、幅47cmです。",
+    "QA": [
+        {
+            "question": "この青磁底片は何のアイテムとして分類されますか？",
+            "answer": "この青磁底片は、食べ物をテーマにした鉢のアイテムとして分類されます。"
+        },
+        {
+            "question": "青磁底片に描かれている鉄貨には何の文字が描かれていますか？",
+            "answer": "ヒールの底には、「成」の字が描かれています。"
+        },
+        {
+            "question": "青磁底片のサイズは何ですか？",
+            "answer": "青磁底片の現在のサイズは、高さ37cm、幅91cm、長さ09cm、幅47cmです。"
+        }
+    ],
+    "word_Count": {
+        "text": 96,
+        "QA": 120
+    }
+}

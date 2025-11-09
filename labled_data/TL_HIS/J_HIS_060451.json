@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_060451",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2023-08-08",
+        "domain": "문화/역사관광",
+        "title": "대통령의 별장을 거닐다"
+    },
+    "text": "デチョンダムが建設された以降に造成された青南台は、歴代の大統領が休暇を過ごしていた大統領専用別荘だ。大清湖(デチョンホ)の秀麗な風景が繰り広げられる美しい家と道が絶え間なく続いている。ドラマ黄金の帝国、製パン王キム・タック、映画孝子洞(ヒョジャドン)理髪師などが撮影されたりもした。",
+    "QA": [
+        {
+            "question": "デチョンダムとは何ですか？",
+            "answer": "デチョンダムは青南台の建設後に造成された大統領専用別荘です。"
+        },
+        {
+            "question": "青南台はどのような場所ですか？",
+            "answer": "青南台は大統領専用別荘がある美しい場所で、デチョンホの風景が広がっています。"
+        },
+        {
+            "question": "どのようなドラマや映画が青南台で撮影されましたか？",
+            "answer": "ドラマ『黄金の帝国』や『製パン王キム・タック』、映画『孝子洞理髪師』などが青南台で撮影されました。"
+        }
+    ],
+    "word_Count": {
+        "text": 103,
+        "QA": 124
+    }
+}

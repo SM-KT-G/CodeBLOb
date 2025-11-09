@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_091982",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101933",
+        "collectedDate": "2023-10-06",
+        "publishedDate": "2023-10-06",
+        "domain": "문화/역사관광",
+        "title": "옥계역"
+    },
+    "text": "玉渓駅玉渓駅(Okgye station、玉溪驛)は、江原道(カンウォンド)特別自治道江陵市玉渓面に位置した嶺東線の鉄道駅である。また、旅客扱いはせず、主に玉渓駅は近くのセメント工場で生産されるセメントを輸送する役割をしている。",
+    "QA": [
+        {
+            "question": "玉渓駅はどこに位置していますか？",
+            "answer": "玉渓駅は江原道江陵市玉渓面に位置しています。"
+        },
+        {
+            "question": "玉渓駅は何を主な役割としていますか？",
+            "answer": "玉渓駅は近くのセメント工場で生産されるセメントを輸送する役割をしています。"
+        },
+        {
+            "question": "玉渓駅はどのような鉄道駅ですか？",
+            "answer": "玉渓駅は嶺東線の鉄道駅であり、旅客扱いはせず、貨物輸送を主としています。"
+        },
+        {
+            "question": "玉渓駅の歴史はどのようなものですか？",
+            "answer": "玉渓駅はセメント工場のための輸送拠点として、地域経済の発展に寄与してきました。"
+        },
+        {
+            "question": "玉渓駅周辺にはどのような観光名所がありますか？",
+            "answer": "玉渓駅周辺には自然豊かな景観や温泉地などがあり、リラックスした時間を過ごすことができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 83,
+        "QA": 198
+    }
+}

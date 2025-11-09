@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_001035",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2020-02-07",
+        "domain": "문화/역사관광",
+        "title": "LA VIE D\"OR RESORT（라비돌리조트）"
+    },
+    "text": "LA VIE D\"OR RESORT\n京畿道 華城市 正南面 世子路286 （正南面）\nソウルから30分ほどのところにある「LA VIE D\"OR RESORT（ラヴィドルリゾート）」は、10万坪の敷地内に洋室、オンドルの客室を有する宿泊施設、韓国料理・中華料理・洋食といった多彩でおいしい料理や飲み物を提供するレストラン、四季折々の花も楽しめるパブリックゴルフ場、室内外プール、ジム、サウナなどのスポーツ施設が備わっている国内初のシルバータウンを兼ねた総合休養施設です。",
+    "QA": [
+        {
+            "question": "LA VIE D'OR RESORTはどこにありますか？",
+            "answer": "LA VIE D'OR RESORTは京畿道華城市に位置しています。"
+        },
+        {
+            "question": "LA VIE D'OR RESORTの客室はどのような種類がありますか？",
+            "answer": "LA VIE D'OR RESORTでは洋室とオンドルの客室があります。"
+        },
+        {
+            "question": "LA VIE D'OR RESORTのレストランは何を提供していますか？",
+            "answer": "LA VIE D'OR RESORTのレストランでは韓国料理、中華料理、洋食など多彩な料理や飲み物を提供しています。"
+        },
+        {
+            "question": "LA VIE D'OR RESORTにはどのような施設がありますか？",
+            "answer": "LA VIE D'OR RESORTにはパブリックゴルフ場、室内外プール、ジム、サウナなどのスポーツ施設があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 173,
+        "QA": 234
+    }
+}

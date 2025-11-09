@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_022963",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2022-09-21",
+        "domain": "문화/역사관광",
+        "title": "水原郷校（수원향교）"
+    },
+    "text": "水原郷校（수원향교）\\n\nキョンギ道スウォン市パルダル区ヒャンギョロ107-9\\n\n水原郷校は朝鮮時代の郷校のひとつ。郷校とは地方の教育機関であったところで、この水原郷校には孔子と孟子、そして韓国の有識者25人の位牌が祀られています。朝鮮初期に地方民の教育と教化のために創建されました。本来は華城市にあった建物ですが、華城の築城と共に現在の位置に移されました。",
+    "QA": [
+        {
+            "question": "水原郷校は何時代に創建されましたか？",
+            "answer": "水原郷校は朝鮮時代に創建されました。"
+        },
+        {
+            "question": "水原郷校には何人の有識者の位牌が祀られていますか？",
+            "answer": "水原郷校には韓国の有識者25人の位牌が祀られています。"
+        },
+        {
+            "question": "水原郷校はどうやって現在の位置に移されましたか？",
+            "answer": "水原郷校は華城の築城と共に現在の位置に移されました。"
+        }
+    ],
+    "word_Count": {
+        "text": 132,
+        "QA": 101
+    }
+}

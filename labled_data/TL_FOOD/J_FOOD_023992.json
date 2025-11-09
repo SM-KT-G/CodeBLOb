@@ -1,0 +1,31 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_023992",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-08-05",
+        "domain": "음식점",
+        "title": "阿蘇山（아소산）"
+    },
+    "text": "阿蘇山（아소산）\\n\n京畿道 高陽市 一山東区 正鉢山路128\\n\n「阿蘇山（アソサン）」では刺身、寿司、うどんなど多彩なメニューを提供しています。",
+    "QA": [
+        {
+            "question": "阿蘇山はどこにありますか？",
+            "answer": "阿蘇山（아소산）は京畿道高陽市一山東区正鉢山路128にあります。"
+        },
+        {
+            "question": "阿蘇山ではどんなメニューが提供されていますか？",
+            "answer": "阿蘇山（アソサン）では刺身、寿司、うどんなど多彩なメニューが提供されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 54,
+        "QA": 78
+    }
+}

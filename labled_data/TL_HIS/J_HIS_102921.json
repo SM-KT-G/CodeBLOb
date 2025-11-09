@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_102921",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/view?relicId=184156",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2023-10-11",
+        "domain": "문화/역사관광",
+        "title": "죽제고비"
+    },
+    "text": "竹製峠 (죽제고비)\\n\n現在、竹製峠。現在は国立中央博物館が所蔵しています。この竹製峠は韓国日本の植民地支配時代の遺物で、材質はガラスと宝石で構成されています。竹製峠はメディアや記録物の一部であり、フィルムに収められています。サイズは横119cm、縦164cmです。",
+    "QA": [
+        {
+            "question": "竹製峠は何で作られていますか？",
+            "answer": "竹製峠はガラスと宝石で作られています。"
+        },
+        {
+            "question": "竹製峠のサイズはどのくらいですか？",
+            "answer": "竹製峠のサイズは横119cm、縦164cmです。"
+        },
+        {
+            "question": "竹製峠は何時代の遺物ですか？",
+            "answer": "竹製峠は韓国日本の植民地支配時代の遺物です。"
+        },
+        {
+            "question": "竹製峠はどこで所蔵されていますか？",
+            "answer": "竹製峠は国立中央博物館が所蔵しています。"
+        },
+        {
+            "question": "竹製峠は何の一部ですか？",
+            "answer": "竹製峠はメディアや記録物の一部です。"
+        }
+    ],
+    "word_Count": {
+        "text": 98,
+        "QA": 130
+    }
+}

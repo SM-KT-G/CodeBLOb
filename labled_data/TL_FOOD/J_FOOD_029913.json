@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_029913",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/kkui-jeombbang",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "クイ店パン"
+    },
+    "text": "クイ店パン\\n\n釜山広域市 ブサンジン区 ジュンアンデロ680ボンガギル 5\\n\n釜山広域市のブサンジン区に位置した韓食です。代表的なメニューは霜降り肉です。韓国風タレで味付けた即席味付け肉が味わえるレストランです。",
+    "QA": [
+        {
+            "question": "このお店の名前は何ですか？",
+            "answer": "クイ店パン"
+        },
+        {
+            "question": "このお店の場所はどこですか？",
+            "answer": "釜山広域市のブサンジン区に位置しています。"
+        },
+        {
+            "question": "このお店の代表的なメニューは何ですか？",
+            "answer": "霜降り肉が代表的なメニューです。"
+        },
+        {
+            "question": "このお店ではどのような料理が味わえますか？",
+            "answer": "韓国風タレで味付けた即席味付け肉が味わえます。"
+        }
+    ],
+    "word_Count": {
+        "text": 79,
+        "QA": 96
+    }
+}

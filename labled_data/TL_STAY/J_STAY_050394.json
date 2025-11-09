@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_050394",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42011&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "강화도 나눔펜션(키즈 풀빌라 수영장)"
+    },
+    "text": "毎日のように繰り返される日常の中で、心の余裕を与えたい時、分かち合いペンションを訪ねてください。 分かち合いは海辺の小さな丘の上に位置しており、くつろぎの空間のペンションとこじんまりとしたカフェを備えています。 そして、分かち合いのすぐ前の干潟は、分かち合いを求めるお客様を自然に招待する私たちの分かち合いの最高の贈り物です。 お知らせですので、22時以降に入室される場合は予めご連絡ください。",
+    "QA": [
+        {
+            "question": "分かち合いペンションはどこに位置していますか？",
+            "answer": "分かち合いペンションは海辺の小さな丘の上に位置しています。"
+        },
+        {
+            "question": "分かち合いにはどのような施設がありますか？",
+            "answer": "分かち合いにはくつろぎの空間のペンションとこじんまりとしたカフェがあります。"
+        },
+        {
+            "question": "分かち合いの前の干潟はどんな特徴がありますか？",
+            "answer": "分かち合いの前の干潟は自然に招待する贈り物であり、分かち合いを求めるお客様を招き入れます。"
+        },
+        {
+            "question": "22時以降に入室する場合は予め何をすべきですか？",
+            "answer": "22時以降に入室する場合は事前にご連絡ください。"
+        }
+    ],
+    "word_Count": {
+        "text": 144,
+        "QA": 166
+    }
+}

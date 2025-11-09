@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_084708",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ja",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2022-07-14",
+        "domain": "문화/역사관광",
+        "title": "수심대"
+    },
+    "text": "水深帯は錦山郡福寿面ゴクナム里小川渡り、松村の部落に位置した遺書深い所だ。ここは中峰朝憲が尊敬を受けた場所であり、小さな峰には松が生い茂っていて、岩には朝憲が建てた\"スシムデ\"という名前が刻まれている。また、友巖宋時烈(ソン・シヨル)がこの岩に文章を書いて残した。水深帯の下には、中峰朝憲の祠堂扶助のお墓が位置しており、現在は忠清南道指定文化財資料として管理されている。",
+    "QA": [
+        {
+            "question": "水深帯はどこに位置していますか？",
+            "answer": "錦山郡福寿面ゴクナム里小川渡り、松村の部落に位置しています。"
+        },
+        {
+            "question": "水深帯の中にある岩に何が刻まれていますか？",
+            "answer": "岩には朝憲が建てた'Sushiimde'という名前が刻まれています。"
+        },
+        {
+            "question": "水深帯の下にあるものは何ですか？",
+            "answer": "水深帯の下には、中峰朝憲の祠堂扶助のお墓が位置しており、現在は忠清南道指定文化財資料として管理されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 135,
+        "QA": 125
+    }
+}

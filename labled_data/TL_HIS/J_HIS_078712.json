@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_078712",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=958&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=00080000&ccbaCtcd=31&ccbaCpno=3413100080000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1983-09-19",
+        "domain": "문화/역사관광",
+        "title": "사세충렬문"
+    },
+    "text": "朝鮮中期には、京畿道にある文化財資料の中で、社勢チュンリョルムンと呼ばれる正門があります。サセチュンリョルムンは国家で風俗を推奨するために作られた赤い門で、忠臣・孝子・烈女の住む町の入り口や家の門の前に建てられました。この正門は文禄・慶長の役で殉国したキムヨムルと丙子胡乱の時、清軍に敗れて烈女精神を守ったこの家の女たちを称えるために建てられたものです。現在の建物は1971年に直って1983年には補修工事をしました。キムヨムルは壬辰倭乱が起きると、申立とともに、忠州で倭軍と戦ったが、失敗して川に投身して殉国しました。烈女はキムヨムルの妾妻の平山申氏、息子キムリュの処の晋州柳氏、孫キムギョンジンの処の高齢朴氏、曾孫の金振杓(キム・ジンピョ)の処の晋州チョン氏だが、これらは敵軍からの強姦を防ぐため、江華島水に身を投げました。建物は前面には3間があり、側面には、2間がいるが、中央間には民家門形式の扉をつけて\"社勢チュンリョルムン\"と書かれた看板がかかっています。内側は2間に分かれているが、右の部屋には忠臣の正門があり、左側の部屋には4代烈女の正門が建てられています。",
+    "QA": [
+        {
+            "question": "この正門はどのような目的で建てられましたか？",
+            "answer": "この正門は国家で風俗を推奨するために作られた赤い門で、忠臣・孝子・烈女の住む町の入り口や家の門の前に建てられました。"
+        },
+        {
+            "question": "キムヨムルと烈女たちがどのような歴史的出来事で活躍しましたか？",
+            "answer": "キムヨムルは壬辰倭乱で申立とともに倭軍と戦い、失敗して川に投身して殉国しました。烈女たちは敵軍からの強姦を防ぐために江華島水に身を投げました。"
+        },
+        {
+            "question": "この建物の修復はいつ行われましたか？",
+            "answer": "現在の建物は1971年に直って1983年には補修工事をしました。"
+        }
+    ],
+    "word_Count": {
+        "text": 356,
+        "QA": 170
+    }
+}

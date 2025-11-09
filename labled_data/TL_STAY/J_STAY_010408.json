@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_010408",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42001&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "화곡 HOTEL A 운영 정책"
+    },
+    "text": "チェックインは23:00から可能で、チェックアウトは12:00までです。 ご予約のお知らせによると、一部の宿泊施設は予約数量がなくなり、追加予約ができない場合があります。 電話で予約する場合、チェックイン前の30分まで可能で、その後の時間は予約口座に事前に入金してください。 チェックイン後、宿泊施設を利用できる案内は別途提供していません。",
+    "QA": [
+        {
+            "question": "チェックインは何時から可能ですか？",
+            "answer": "チェックインは23:00から可能です。"
+        },
+        {
+            "question": "チェックアウトは何時までですか？",
+            "answer": "チェックアウトは12:00までです。"
+        },
+        {
+            "question": "一部の宿泊施設は追加予約ができない場合があるということですが、予約数量がなくなるとはどういう意味ですか？",
+            "answer": "一部の宿泊施設は予約数量が限られており、予約が満席になると追加予約ができなくなります。"
+        },
+        {
+            "question": "電話で予約する場合、チェックイン前の30分まで予約が可能ですか？",
+            "answer": "はい、電話での予約の場合、チェックイン前の30分まで予約が可能です。"
+        },
+        {
+            "question": "チェックイン後、宿泊施設を利用できる案内はありますか？",
+            "answer": "チェックイン後の宿泊施設の利用方法については、別途の案内は提供されていません。"
+        }
+    ],
+    "word_Count": {
+        "text": 124,
+        "QA": 217
+    }
+}

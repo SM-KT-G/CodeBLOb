@@ -1,0 +1,83 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_053922",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.booking.com/hotel/kr/balri-motel.ko.html",
+        "collectedDate": "2023-11-17",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "발리모텔"
+    },
+    "text": "バリモーテルは公州に位置しており、お客様は快適な客室をご利用いただけます。 宿所は大田ワールドカップ競技場から10km、E-anlandから14km離れています。 また、Donghaksa Templeからは約70m、Gyeryongsan National Parkからも70mの距離に位置しており、鶏龍山自然史博物館からは3kmの距離にあります。 ここに泊まると、15kmの距離にあるArchaeological Site in Seokjang-ri、Gongju、19kmの距離にあるGeumgang Natural Recreation Forestなどの場所を訪れることもできます。 また、Gapsa Templeは23kmの距離に位置しており、Sinwonsa Templeは28kmの距離にあります。 最寄りの空港は清州国際空港で、距離は65kmです。 バリモーテルは公州の中心部から13km離れており、チェックインは12:00から始まり、チェックアウトは10:00までです。",
+    "QA": [
+        {
+            "question": "バリモーテルはどこに位置していますか？",
+            "answer": "バリモーテルは公州に位置しています。"
+        },
+        {
+            "question": "バリモーテルから大田ワールドカップ競技場までの距離はどのくらいですか？",
+            "answer": "バリモーテルから大田ワールドカップ競技場までは約10kmです。"
+        },
+        {
+            "question": "バリモーテルからE-anlandまでの距離はどのくらいですか？",
+            "answer": "バリモーテルからE-anlandまでは約14kmです。"
+        },
+        {
+            "question": "バリモーテルからDonghaksa Templeまでの距離はどのくらいですか？",
+            "answer": "バリモーテルからDonghaksa Templeまでは約70mです。"
+        },
+        {
+            "question": "バリモーテルからGyeryongsan National Parkまでの距離はどのくらいですか？",
+            "answer": "バリモーテルからGyeryongsan National Parkまでは約70mです。"
+        },
+        {
+            "question": "バリモーテルから鶏龍山自然史博物館までの距離はどのくらいですか？",
+            "answer": "バリモーテルから鶏龍山自然史博物館までは約3kmです。"
+        },
+        {
+            "question": "バリモーテルからArchaeological Site in Seokjang-riまでの距離はどのくらいですか？",
+            "answer": "バリモーテルからArchaeological Site in Seokjang-riまでは約15kmです。"
+        },
+        {
+            "question": "バリモーテルからGongjuまでの距離はどのくらいですか？",
+            "answer": "バリモーテルからGongjuまでは約15kmです。"
+        },
+        {
+            "question": "バリモーテルからGeumgang Natural Recreation Forestまでの距離はどのくらいですか？",
+            "answer": "バリモーテルからGeumgang Natural Recreation Forestまでは約19kmです。"
+        },
+        {
+            "question": "バリモーテルからGapsa Templeまでの距離はどのくらいですか？",
+            "answer": "バリモーテルからGapsa Templeまでは約23kmです。"
+        },
+        {
+            "question": "バリモーテルからSinwonsa Templeまでの距離はどのくらいですか？",
+            "answer": "バリモーテルからSinwonsa Templeまでは約28kmです。"
+        },
+        {
+            "question": "最寄りの空港はどこですか？",
+            "answer": "最寄りの空港は清州国際空港で、距離は65kmです。"
+        },
+        {
+            "question": "バリモーテルは公州の中心部からどのくらい離れていますか？",
+            "answer": "バリモーテルは公州の中心部から約13km離れています。"
+        },
+        {
+            "question": "チェックインの時間は何時からですか？",
+            "answer": "チェックインの時間は12:00からです。"
+        },
+        {
+            "question": "チェックアウトの時間は何時までですか？",
+            "answer": "チェックアウトの時間は10:00までです。"
+        }
+    ],
+    "word_Count": {
+        "text": 327,
+        "QA": 709
+    }
+}

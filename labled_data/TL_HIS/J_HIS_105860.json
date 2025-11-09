@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_105860",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1120&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=03150000&ccbaCtcd=37&ccbaCpno=3413703150000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1995-12-01",
+        "domain": "문화/역사관광",
+        "title": "첨모당"
+    },
+    "text": "尖毛堂\\n\n慶尚北道栄州市丹山面屏山里315番地\\n\n慶尚北道文化財資料、通例員ボンリェを務めたファンチョンイ、世宗(セジョン)11年(1429)に学問を研磨し、地方の儒者を教えるために建てた建物である。その後領主地域、昌原(チャンウォン)、黄氏を中心に士林らが英祖11年(1735)に祠堂に再びなっており、現在の建物は正祖2年(1778)れ直して作ったものだ。前面3間・側面1間規模であり、屋根は側面から見ると、人の教わる字形をした切妻屋根の端麗な建物である。中で床がいて両側にオンドル部屋を配置した。",
+    "QA": [
+        {
+            "question": "この建物はいつ建てられましたか？",
+            "answer": "世宗11年(1429)に建てられました。"
+        },
+        {
+            "question": "この建物は何のために建てられましたか？",
+            "answer": "地方の儒者を教えるために建てられました。"
+        },
+        {
+            "question": "この建物はどのような形状をしていますか？",
+            "answer": "前面3間・側面1間規模であり、屋根は側面から見ると、人の教わる字形をした切妻屋根の端麗な建物です。"
+        },
+        {
+            "question": "この建物の中には何がありますか？",
+            "answer": "中で床があり、両側にオンドル部屋が配置されています。"
+        },
+        {
+            "question": "この建物の周辺にはどのような地域がありますか？",
+            "answer": "慶尚北道栄州市丹山面屏山里315番地に位置し、周辺には丹山や屏山といった地域があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 184,
+        "QA": 185
+    }
+}

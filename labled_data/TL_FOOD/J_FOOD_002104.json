@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_002104",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-01",
+        "domain": "음식점",
+        "title": "SUKULE ( 쑥꿀레 )"
+    },
+    "text": "SUKULE \n全羅南道 木浦市 栄山路59ボンキル 43-1\n1956年から木浦の名物として定着した店で、多数のテレビ番組で紹介されたところです。全羅南道のモクポ市に位置した韓食専門店です。代表的なメニューはよもぎ餅です。",
+    "QA": [
+        {
+            "question": "この店はどこにありますか？",
+            "answer": "この店は全羅南道の木浦市に位置しています。栄山路59ボンキル 43-1にあります。"
+        },
+        {
+            "question": "この店は何年から存在していますか？",
+            "answer": "この店は1956年から存在しています。"
+        },
+        {
+            "question": "この店は何の名物ですか？",
+            "answer": "この店の代表的なメニューはよもぎ餅です。"
+        },
+        {
+            "question": "この店はどうやって有名になりましたか？",
+            "answer": "この店は多数のテレビ番組で紹介され、木浦の名物として定着しました。"
+        },
+        {
+            "question": "この店の名前は何ですか？",
+            "answer": "この店の名前は「SUKULE」です。"
+        }
+    ],
+    "word_Count": {
+        "text": 82,
+        "QA": 149
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_026431",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-01",
+        "domain": "음식점",
+        "title": "井邑韓牛 ( 정읍한우 )"
+    },
+    "text": "井邑韓牛 \n全羅北道 井邑市 北面 ファピョンキル 2\n100%井邑韓牛のみで提供しており、広い駐車場を完備しています。全羅北道のジョンウブ市に位置した韓食専門店です。おすすめは韓牛ユッケビビンバです。",
+    "QA": [
+        {
+            "question": "井邑韓牛はどのような料理を提供していますか？",
+            "answer": "井邑韓牛は韓牛のみを使用した料理を提供しています。特におすすめは韓牛ユッケビビンバです。"
+        },
+        {
+            "question": "井邑韓牛はどこに位置していますか？",
+            "answer": "井邑韓牛は全羅北道のジョンウブ市に位置しています。"
+        },
+        {
+            "question": "井邑韓牛には駐車場はありますか？",
+            "answer": "井邑韓牛には広い駐車場が完備されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 74,
+        "QA": 106
+    }
+}

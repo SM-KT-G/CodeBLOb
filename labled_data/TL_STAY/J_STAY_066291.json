@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_066291",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42010&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "수원(인계동) SR HOTEL"
+    },
+    "text": "水原市役所の目の前に位置するSR HOTELは、仁渓洞グルメ通りと商圏がとても近くて便利です。 客室は常に着実に管理され、清潔に維持され、居心地の良い施設を提供できるよう努力しています。 当ホテルは、常に清潔で快適な客室で皆様をお迎えします。 お客様のご来店にお応えするため、常に最善を尽くします。 当ホテルにお越しいただきありがとうございます。 ご連絡いただければ、親切な対応をお約束いたします。 ご予約後、訪問日とお名前を教えてください。 ご予約者名と宿泊客が異なる場合のために予めお知らせいたします。",
+    "QA": [
+        {
+            "question": "SR HOTELはどこに位置していますか？",
+            "answer": "水原市役所の目の前に位置しています。"
+        },
+        {
+            "question": "SR HOTELはどんな施設を提供していますか？",
+            "answer": "SR HOTELは常に清潔で快適な客室を提供しています。"
+        },
+        {
+            "question": "SR HOTELの近くにはどんな便利な場所がありますか？",
+            "answer": "仁渓洞グルメ通りと商圏がとても近くにあります。"
+        },
+        {
+            "question": "SR HOTELの客室はどのように管理されていますか？",
+            "answer": "客室は常に着実に管理され、清潔に維持されています。"
+        },
+        {
+            "question": "SR HOTELのスタッフはどのような対応をしてくれますか？",
+            "answer": "ご連絡いただければ、親切な対応をお約束いたします。"
+        }
+    ],
+    "word_Count": {
+        "text": 185,
+        "QA": 182
+    }
+}

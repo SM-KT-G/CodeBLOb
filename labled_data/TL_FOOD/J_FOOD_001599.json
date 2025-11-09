@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001599",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-02-19",
+        "domain": "음식점",
+        "title": "ChirChir 明洞（치르치르 명동）"
+    },
+    "text": "ChirChir 明洞（치르치르 명동）\\n\nソウル特別市 中区 明洞7キル 21\\n\nフュージョン韓国料理スタイルのチキン専門店です。おすすめは骨なしフライドチキンです。ソウル特別市のミョン洞に位置したチキン専門店です。",
+    "QA": [
+        {
+            "question": "明洞に位置するチキン専門店の名前は何ですか？",
+            "answer": "チリチリ明洞（ChirChir 명동）です。"
+        },
+        {
+            "question": "チリチリ明洞の料理スタイルは何ですか？",
+            "answer": "フュージョン韓国料理スタイルのチキン専門店です。"
+        },
+        {
+            "question": "チリチリ明洞のおすすめメニューは何ですか？",
+            "answer": "骨なしフライドチキンがおすすめです。"
+        },
+        {
+            "question": "チリチリ明洞はどこに位置していますか？",
+            "answer": "ソウル特別市中区明洞7キル21に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 81,
+        "QA": 123
+    }
+}

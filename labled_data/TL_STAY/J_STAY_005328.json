@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_005328",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42031&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "THE J HOTEL"
+    },
+    "text": "ザ·ジェイホテルは、お客様のリラックスのために最善を尽くしています。 位置は大邱観光地の中間に位置し、東城路までは8分、アンジランまでは6分、スソン池までは10分、イーワールドまでは10分の距離にあります。",
+    "QA": [
+        {
+            "question": "ザ・ジェイホテルの位置はどこですか？",
+            "answer": "ザ・ジェイホテルは大邱観光地の中間に位置しています。"
+        },
+        {
+            "question": "東城路までの距離はどのくらいですか？",
+            "answer": "東城路までは8分の距離です。"
+        },
+        {
+            "question": "アンジランまでの距離はどのくらいですか？",
+            "answer": "アンジランまでは6分の距離です。"
+        },
+        {
+            "question": "スソン池までの距離はどのくらいですか？",
+            "answer": "スソン池までは10分の距離です。"
+        },
+        {
+            "question": "イーワールドまでの距離はどのくらいですか？",
+            "answer": "イーワールドまでは10分の距離です。"
+        }
+    ],
+    "word_Count": {
+        "text": 75,
+        "QA": 136
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001840",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/lake-hill",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "LAKE HILLS"
+    },
+    "text": "LAKE HILLS\\n\n忠清南道 論山市 可也谷面 塔亭路872 )\\n\n論山市内から約10キロ離れたところにあるLAKE HILLS(レイクヒルズ)はホテルとレストランを持っています。ヨーロッパ風インテリアレストランでは湖を眺めながら洋食を味わうことができ、ライブ公演も楽しめます。",
+    "QA": [
+        {
+            "question": "LAKE HILLSはどこにありますか？",
+            "answer": "LAKE HILLSは忠清南道論山市の塔亭路872にあります。"
+        },
+        {
+            "question": "LAKE HILLSにはどんな施設がありますか？",
+            "answer": "LAKE HILLSにはホテルとレストランがあります。"
+        },
+        {
+            "question": "LAKE HILLSのレストランでは何を味わうことができますか？",
+            "answer": "LAKE HILLSのレストランでは洋食を湖を眺めながら味わうことができます。"
+        },
+        {
+            "question": "LAKE HILLSではどんなイベントが楽しめますか？",
+            "answer": "LAKE HILLSではライブ公演などのイベントも楽しめます。"
+        },
+        {
+            "question": "LAKE HILLSは論山市からどれくらいの距離ですか？",
+            "answer": "LAKE HILLSは論山市内から約10キロ離れた場所にあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 104,
+        "QA": 214
+    }
+}

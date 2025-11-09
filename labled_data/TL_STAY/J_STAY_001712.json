@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_001712",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/goods/GN0002151032?startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0%5E&npprmaxsort=min",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "부산 남포동 브로시스호텔"
+    },
+    "text": "''Brother''と''Sister''の合成語で老若男女が気楽に利用できるフレンドリーなホテルであるBROSIS HOTELは、様々なライフスタイルホテルとして若い感覚の宿泊施設を提供し、リーズナブルな価格でプレミアム級サービスを提供する ''どこにでもあるホテル』を追求しています。 特に、韓国のどこでも見たことのない体験と楽しいライフスタイルホテルで、お客様に特別な休息と思い出を作ってあげられるホテルになろうと思います。 これについてご了承ください。 予約を進めるにあたっては、この点にご注意ください。 また、朝食は月曜日は休みです。 朝食のご利用は8時30分から10時まで可能で、利用場所は1階に位置するカッピングブレッドです。 朝食のご利用料金はお一人様7,000ウォンで、メニューとしてペストリーとポテトセットが提供されます。",
+    "QA": [
+        {
+            "question": "BROSIS HOTELの特徴は何ですか？",
+            "answer": "BROSIS HOTELは若い感覚の宿泊施設であり、リーズナブルな価格でプレミアム級サービスを提供しています。"
+        },
+        {
+            "question": "BROSIS HOTELの朝食の利用時間は何時から何時までですか？",
+            "answer": "朝食の利用時間は8時30分から10時までです。"
+        },
+        {
+            "question": "BROSIS HOTELの朝食の料金はいくらですか？",
+            "answer": "朝食の料金はお一人様7,000ウォンです。"
+        },
+        {
+            "question": "BROSIS HOTELの朝食のメニューは何ですか？",
+            "answer": "朝食のメニューとしてペストリーとポテトセットが提供されます。"
+        },
+        {
+            "question": "BROSIS HOTELの朝食は月曜日は利用できますか？",
+            "answer": "いいえ、朝食は月曜日は休みです。"
+        }
+    ],
+    "word_Count": {
+        "text": 272,
+        "QA": 204
+    }
+}

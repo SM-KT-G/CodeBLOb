@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_036402",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.menupan.com/restaurant/onepage.asp?acode=G101636",
+        "collectedDate": "2023-11-14",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "디어브레드(Dear. Bread)"
+    },
+    "text": "\"ディアブレッド(Dear. Bread)\\n\nソウル城北区安岩洞5街101-82\\n\nベーカリー、09:00~18:00、日曜日休み、座席なし、ディアブレッドの看板と外観は入口から可愛くてきれいさを誇る。 清潔でシンプルな店内の雰囲気は、新鮮でこんがりと焼き上がったパンと調和しています。 クリンベリーバゲットは人気のメニューで、サクサクと焼き上がり、どんどん食べたくなるパンである。 チーズチャバッタは脂っこくなくあっさりしているので、コーヒー一杯に合うメニューである。 ルーラン·ボアズも独特でコシのある味を感じることができる。」",
+    "QA": [
+        {
+            "question": "ディアブレッド(Dear. Bread)の営業時間は何時から何時までですか？",
+            "answer": "ディアブレッド(Dear. Bread)の営業時間は09:00から18:00です。"
+        },
+        {
+            "question": "ディアブレッド(Dear. Bread)は日曜日は営業していますか？",
+            "answer": "ディアブレッド(Dear. Bread)は日曜日は休業日です。"
+        },
+        {
+            "question": "ディアブレッド(Dear. Bread)の店内には座席はありますか？",
+            "answer": "ディアブレッド(Dear. Bread)の店内には座席はありません。"
+        },
+        {
+            "question": "ディアブレッド(Dear. Bread)の人気メニューは何ですか？",
+            "answer": "ディアブレッド(Dear. Bread)の人気メニューはクリンベリーバゲットです。"
+        },
+        {
+            "question": "ディアブレッド(Dear. Bread)のチーズチャバッタはどんな特徴がありますか？",
+            "answer": "ディアブレッド(Dear. Bread)のチーズチャバッタは脂っこくなく、あっさりとしています。"
+        },
+        {
+            "question": "ディアブレッド(Dear. Bread)のルーラン·ボアズはどんな味ですか？",
+            "answer": "ディアブレッド(Dear. Bread)のルーラン·ボアズは独特でコシのある味を感じることができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 196,
+        "QA": 341
+    }
+}

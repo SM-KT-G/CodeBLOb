@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001981",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2020-12-04",
+        "domain": "음식점",
+        "title": "PALMIAN( 팔미엔 )"
+    },
+    "text": "PALMIAN( 팔미엔 )\\n\n釜山広域市 釜山鎮区 西田路38ボンキル 76\\n\n丸い形をした酢豚を提供する店です。 釜山広域市のブサンジン区に位置した中華料理屋です。おすすめは酢豚です。",
+    "QA": [
+        {
+            "question": "パルミアンはどこに位置していますか？",
+            "answer": "パルミアンは釜山広域市の釜山鎮区に位置しています。"
+        },
+        {
+            "question": "パルミアンではどのような料理が提供されていますか？",
+            "answer": "パルミアンでは丸い形をした酢豚が提供されています。"
+        },
+        {
+            "question": "パルミアンのおすすめメニューは何ですか？",
+            "answer": "パルミアンのおすすめは酢豚です。"
+        }
+    ],
+    "word_Count": {
+        "text": 70,
+        "QA": 94
+    }
+}

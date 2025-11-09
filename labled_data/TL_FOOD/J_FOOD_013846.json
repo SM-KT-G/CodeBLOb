@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_013846",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-08-27",
+        "domain": "음식점",
+        "title": "マッインヌンキムチの蒸し物&スンドゥブ ( 맛있는김치찜&순두부 )"
+    },
+    "text": "マッインヌンキムチの蒸し物&スンドゥブ ( 맛있는김치찜&순두부 )\\n\nソウル特別市 鐘路区 郵征局路2キル 31\\n\n清渓川を観光してから訪れるのにちょうどいいお店で、辛いスープ料理を取り扱っています。 ソウル特別市のジョンノ区に位置した韓国料理店です。おすすめは豚キムチチゲです。",
+    "QA": [
+        {
+            "question": "このお店の場所はどこですか？",
+            "answer": "このお店はソウル特別市鐘路区郵征局路2キル31に位置しています。"
+        },
+        {
+            "question": "このお店はどんな料理を提供していますか？",
+            "answer": "このお店では辛いスープ料理を提供しています。特におすすめは豚キムチチゲです。"
+        },
+        {
+            "question": "清渓川を観光した後にこのお店に行くのはどうですか？",
+            "answer": "清渓川を観光した後にこのお店に行くのはちょうどいいです。ここで美味しい韓国料理を楽しむことができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 104,
+        "QA": 132
+    }
+}

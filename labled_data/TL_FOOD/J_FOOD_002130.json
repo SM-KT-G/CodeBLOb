@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_002130",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-01",
+        "domain": "음식점",
+        "title": "The Blend ( 더블렌드 )"
+    },
+    "text": "The Blend \n京畿道 平沢市 中央2路 152\n快適で居心地の良い雰囲気のカフェです。代表的なメニューはカフェラテです。京畿道のに位置したカフェ（コーヒーショップ）です。",
+    "QA": [
+        {
+            "question": "このカフェの場所はどこですか？",
+            "answer": "このカフェは京畿道平沢市中央2路 152番地に位置しています。"
+        },
+        {
+            "question": "このカフェの雰囲気はどうですか？",
+            "answer": "このカフェは快適で居心地の良い雰囲気です。"
+        },
+        {
+            "question": "このカフェの代表的なメニューは何ですか？",
+            "answer": "このカフェの代表的なメニューはカフェラテです。"
+        },
+        {
+            "question": "このカフェは何県に位置していますか？",
+            "answer": "このカフェは京畿道に位置しています。"
+        },
+        {
+            "question": "このカフェはコーヒーショップですか？",
+            "answer": "はい、このカフェはコーヒーショップです。"
+        }
+    ],
+    "word_Count": {
+        "text": 65,
+        "QA": 146
+    }
+}

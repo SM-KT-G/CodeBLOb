@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_005597",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1248&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=79&ccbaAsno=06760000&ccbaCtcd=11&ccbaCpno=4411106760000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2017-02-15",
+        "domain": "문화/역사관광",
+        "title": "대한성공회 서울주교좌성당 모자이크 제단화"
+    },
+    "text": "モザイク(大韓聖公会ソウル主教座教会モザイク祭壇画) 모자이크 제단화 (대한성공회 서울주교좌성당 모자이크 제단화)\\n\nソウル特別市中区世宗大路21ギル15(貞洞、大韓聖公会ソウル大聖堂)\\n\n国家登録文化財 , モザイクはジョージ·ジャック(1855-1932)のデザインにより1927年から1938年にかけて製作された。 イエスが持っている本には「私は世界の光だ(Ego Sum Lux Mundi)」という文句が書かれており、中央のイエスの下には聖母マリアを中心に左側に聖使徒ヨハネと聖ステファノ、右側に聖イザヤ預言者と聖ニコラスが描写されている。照明によって黄金色に輝くモザイク壁画は素朴なロマネスク聖堂で華麗でオーラが満ちた聖なる雰囲気を演出している。",
+    "QA": [
+        {
+            "question": "このモザイク祭壇画は何年から何年までに作られましたか？",
+            "answer": "1927年から1938年にかけて製作されました。"
+        },
+        {
+            "question": "このモザイク祭壇画は誰のデザインによって作られましたか？",
+            "answer": "ジョージ·ジャック(1855-1932)のデザインによって作られました。"
+        },
+        {
+            "question": "イエスが持っている本には何と書かれていますか？",
+            "answer": "「私は世界の光だ(Ego Sum Lux Mundi)」と書かれています。"
+        },
+        {
+            "question": "モザイク祭壇画の中央には誰が描かれていますか？",
+            "answer": "中央には聖母マリアを中心に左側に聖使徒ヨハネと聖ステファノ、右側に聖イザヤ預言者と聖ニコラスが描かれています。"
+        },
+        {
+            "question": "モザイク祭壇画の照明はどのような雰囲気を演出していますか？",
+            "answer": "照明によって黄金色に輝くモザイク壁画は素朴なロマネスク聖堂で華麗でオーラが満ちた聖なる雰囲気を演出しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 244,
+        "QA": 247
+    }
+}

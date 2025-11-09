@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_020629",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1099&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=02380000&ccbaCtcd=34&ccbaCpno=3413402380000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1984-05-17",
+        "domain": "문화/역사관광",
+        "title": "삼도해운판관비"
+    },
+    "text": "三島海運販管費 (삼도해운판관비)\\n\n忠清南道牙山市仁州面攻勢キル67(孔世里)\\n\n9年(1478) , 忠清南道文化財資料 , 計9基の雨で、これまで村の道路沿いに散らばっていたものを一堂に集めたのだ。 このうち3基は県監の善良な政治を記念するための選定碑であり、残りの6基は海運弁官碑だ。 海運弁官とは、租税を徴収して忠清·全羅·慶尚の3道に倉庫を建てて保管したり、ソウルに移す朝雲業務を担当する管理をいう。 この碑は朝鮮中宗18年(1523)、ここに倉庫を建て、保管とソウルへの運送を担当した官吏たちの清廉な徳を記念するために建てられたものだ。 碑の前面にはすべて「三島海運弁官碑」という名称が刻まれている。 9基の碑の中で最も古いのは仁祖27年(1649)に建てられた碑で、一番最近のは粛宗34年(1708)に建てられた碑だ。",
+    "QA": [
+        {
+            "question": "この碑は何のために建てられたのですか？",
+            "answer": "この碑は海運弁官たちの清廉な徳を記念するために建てられました。"
+        },
+        {
+            "question": "海運弁官とはどのような役割を担当していたのですか？",
+            "answer": "海運弁官は租税の徴収や倉庫の管理、ソウルへの運送など、海運業務を担当していました。"
+        },
+        {
+            "question": "この碑の前面には何という名称が刻まれていますか？",
+            "answer": "この碑の前面には「三島海運弁官碑」という名称が刻まれています。"
+        },
+        {
+            "question": "この碑の中で最も古いのはいつ建てられたものですか？",
+            "answer": "この碑の中で最も古いのは仁祖27年(1649)に建てられた碑です。"
+        },
+        {
+            "question": "この碑の中で一番最近のはいつ建てられたものですか？",
+            "answer": "この碑の中で一番最近のは粛宗34年(1708)に建てられた碑です。"
+        }
+    ],
+    "word_Count": {
+        "text": 270,
+        "QA": 210
+    }
+}

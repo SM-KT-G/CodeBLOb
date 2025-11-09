@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_LEI_001723",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101933",
+        "collectedDate": "2023-09-21",
+        "publishedDate": "2023-01-16",
+        "domain": "레포츠",
+        "title": "한산도 충무공교실 야영장"
+    },
+    "text": "チュンムゴン教室キャンプ場 (한산도 충무공교실 야영장)\\n\n慶尚南道統営市閑山面閑山一周路622\\n\n「民間」で「直営」方法で運営しています。 '''カーキャンプ場'''をご利用いただけます。 '''直営'''方式で運営しています。",
+    "QA": [
+        {
+            "question": "キャンプ場の名前は何ですか？",
+            "answer": "チュンムゴン教室キャンプ場 (한산도 충무공교실 야영장) です。"
+        },
+        {
+            "question": "キャンプ場の場所はどこですか？",
+            "answer": "慶尚南道統営市閑山面閑山一周路622 にあります。"
+        },
+        {
+            "question": "キャンプ場はどのように運営されていますか？",
+            "answer": "「民間」で「直営」方法で運営されています。"
+        },
+        {
+            "question": "どのようなキャンプができますか？",
+            "answer": "カーキャンプができます。"
+        },
+        {
+            "question": "キャンプ場は誰が運営していますか？",
+            "answer": "キャンプ場は「直営」方式で運営されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 86,
+        "QA": 143
+    }
+}

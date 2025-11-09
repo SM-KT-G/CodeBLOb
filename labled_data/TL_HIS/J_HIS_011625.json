@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_011625",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1017&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=00710000&ccbaCtcd=37&ccbaCpno=3413700710000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1985-08-05",
+        "domain": "문화/역사관광",
+        "title": "남양사지삼층석탑"
+    },
+    "text": "南陽寺址三層石塔 (남양사지삼층석탑)\\n\n慶尚北道安東市緑田面源泉里804番地\\n\n統一新羅時代 , 慶尚北道文化財資料 , 南陽寺跡に伝わるところに立っている3層石塔で、1層基壇の上に3層の塔身を上げた。 基壇の四隅には柱の形が刻まれている。 塔身部の石と屋根石はそれぞれ一つの石になっており、石には角ごとに柱の形が彫刻されている。 頂上には露盤(頭飾り台石)の上に細長い覆鉢(ひっくり返した器形の装飾)が置かれ、頭飾りをしている。 塔身の1階の体石に比べて2階の体石が急激に減り、基壇の中央柱の彫刻が省略され、屋根石の軒が水平になるなどの彫刻手法と様式から見て統一新羅時代後期に建てられたものと推定される。 現在、基壇部の損傷が激しく、針金で巻いた状態だ。",
+    "QA": [
+        {
+            "question": "この南陽寺址三層石塔は何時代に建てられましたか？",
+            "answer": "統一新羅時代に建てられました。"
+        },
+        {
+            "question": "南陽寺址三層石塔はどの地域に位置していますか？",
+            "answer": "慶尚北道安東市緑田面源泉里804番地に位置しています。"
+        },
+        {
+            "question": "南陽寺址三層石塔の特徴は何ですか？",
+            "answer": "1層基壇の上に3層の塔身を上げた構造で、角ごとに柱の形が彫刻されています。頂上には露盤の上に細長い覆鉢が置かれており、頭飾りをしています。"
+        },
+        {
+            "question": "南陽寺址三層石塔はいつ建てられたと推定されていますか？",
+            "answer": "彫刻手法と様式から見て統一新羅時代後期に建てられたと推定されています。"
+        },
+        {
+            "question": "南陽寺址三層石塔の現状はどうですか？",
+            "answer": "基壇部が損傷しており、針金で巻かれている状態です。"
+        }
+    ],
+    "word_Count": {
+        "text": 242,
+        "QA": 205
+    }
+}

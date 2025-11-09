@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_023240",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-06",
+        "domain": "음식점",
+        "title": "笑豪亭 良才 ( 소호정 양재 )"
+    },
+    "text": "笑豪亭 良才 ( 소호정 양재 )\\n\nソウル特別市 瑞草区 ノンヒョンロ27\\n\n多くのテレビ番組で紹介された店です。ソウル特別市のソチョ区に位置した韓食専門店です。おすすめはアンドン素麺です。",
+    "QA": [
+        {
+            "question": "この店の名前は何ですか？",
+            "answer": "この店の名前は笑豪亭 良才（소호정 양재）です。"
+        },
+        {
+            "question": "この店はどこにありますか？",
+            "answer": "この店はソウル特別市瑞草区ノンヒョンロ27にあります。"
+        },
+        {
+            "question": "この店では何がおすすめですか？",
+            "answer": "この店ではアンドン素麺がおすすめです。"
+        }
+    ],
+    "word_Count": {
+        "text": 71,
+        "QA": 80
+    }
+}

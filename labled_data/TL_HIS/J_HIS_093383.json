@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_093383",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1170&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=05720000&ccbaCtcd=37&ccbaCpno=3413705720000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2010-04-05",
+        "domain": "문화/역사관광",
+        "title": "운문사 내원암 산신도"
+    },
+    "text": "雲門寺内院庵山神図\\n\n慶尚北道清道郡\\n\n慶尚北道文化財資料、このサンシンドは見本彩色に縦99.0cm、横64.4cmの小さな大きさの絵画として、画面は山神と童子、虎が中心途上(圖像)を成し、松と岩山、そして遠景の滝が背景に登場する典型的な形式の山神図である。絵の全般的な状態は良好な方や画面上段の彩色が下の部分に比べて非常に濁った状態だ。画面下段の画記(畵記)を通じてこの絵が1898年(光武(光武)2)にネウォンアム(內院庵)の金堂(金堂)に安置されており、製作に東胡なった鉄(東昊震撤)、ヨンウンのボンス(影雲奉秀)、尚早(尙祚)、グンヨプ(亘燁)など4人の華やか(畵師)が参加したことを知ることができる。その中でも手話士(首畵師)である東胡なった鉄(東昊震撤)は19世紀後半に京畿道を中心に活動していた会社として1886年、金泉(キムチョン)の直指寺(チクジサ)神衆図以降は慶尚道地域の仏事に積極的に参加する姿を見ることができる。",
+    "QA": [
+        {
+            "question": "この絵画のサイズは何ですか？",
+            "answer": "縦99.0cm、横64.4cmの小さな大きさの絵画です。"
+        },
+        {
+            "question": "この絵画の中心にあるのは何ですか？",
+            "answer": "山神と童子、虎が中心に描かれています。"
+        },
+        {
+            "question": "この絵画が安置されている場所はどこですか？",
+            "answer": "1898年(光武2)にネウォンアムの金堂に安置されています。"
+        },
+        {
+            "question": "この絵画を製作した画家は誰ですか？",
+            "answer": "製作には東胡なった鉄、ヨンウンのボンス、尚早、グンヨプなど4人の画家が参加しました。"
+        },
+        {
+            "question": "この絵画の状態はどうですか？",
+            "answer": "絵の全般的な状態は良好ですが、画面上段の彩色が下の部分に比べて非常に濁った状態です。"
+        }
+    ],
+    "word_Count": {
+        "text": 308,
+        "QA": 178
+    }
+}

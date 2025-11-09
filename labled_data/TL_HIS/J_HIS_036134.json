@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_036134",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1213&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=79&ccbaAsno=02790000&ccbaCtcd=36&ccbaCpno=4413602790000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2006-12-04",
+        "domain": "문화/역사관광",
+        "title": "청산도 상서마을 옛 담장"
+    },
+    "text": "青山島祥瑞村の旧塀 (청산도 상서마을 옛 담장)\\n\n全羅南道莞島郡青山面上洞キル76-3、灯(上洞里)\\n\n村の形成時期朝鮮時代、国家登録文化財、­風の多い島嶼地方の環境に合わせて強塀構造で堅固で高く築造されている。 曲がった村の中の道とともに家屋の形とも調和している。",
+    "QA": [
+        {
+            "question": "この塀はいつ作られましたか？",
+            "answer": "この塀は朝鮮時代に作られました。"
+        },
+        {
+            "question": "この塀はどのような構造ですか？",
+            "answer": "この塀は強塀構造で堅固で高く築造されています。"
+        },
+        {
+            "question": "この塀はなぜ高く築造されているのですか？",
+            "answer": "この塀は風の多い島嶼地方の環境に合わせて高く築造されています。"
+        },
+        {
+            "question": "この塀はどのような形状ですか？",
+            "answer": "この塀は曲がった村の中の道と調和しており、家屋の形とも調和しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 100,
+        "QA": 123
+    }
+}

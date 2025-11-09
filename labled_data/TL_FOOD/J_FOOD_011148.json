@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_011148",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "ヌィジョ（뉘조）"
+    },
+    "text": "ヌィジョ（뉘조）\nソウル特別市 鐘路区 仁寺洞14キル27\n韓定食専門店「ヌィジョ」では1年中味わえる野草や旬の野草など、数百種類もの野草を使ったコース料理を提供しています。",
+    "QA": [
+        {
+            "question": "ヌィジョはどこにありますか？",
+            "answer": "ヌィジョ（뉘조）はソウル特別市鐘路区仁寺洞14キル27にあります。"
+        },
+        {
+            "question": "ヌィジョではどんな料理が提供されていますか？",
+            "answer": "ヌィジョでは数百種類もの野草を使ったコース料理が提供されています。"
+        },
+        {
+            "question": "ヌィジョの特徴は何ですか？",
+            "answer": "ヌィジョの特徴は、1年中味わえる野草や旬の野草を使った料理を提供していることです。"
+        }
+    ],
+    "word_Count": {
+        "text": 63,
+        "QA": 114
+    }
+}

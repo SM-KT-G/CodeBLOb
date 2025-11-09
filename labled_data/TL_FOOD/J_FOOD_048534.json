@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_048534",
+        "source": "도서",
+        "writer": "김나성, 유지연",
+        "ISBN_ISNN": "979-11-6050-370-8",
+        "version": "초판",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "나홀로 푸드트립",
+        "collectedDate": "2023-11-01",
+        "publishedDate": "2017-12-12",
+        "domain": "음식점",
+        "title": "더포레스트"
+    },
+    "text": "The Forestは京畿道楊平郡ソジョン面ブクハンカン路1284に位置したベーカリーカフェです。うちのカフェでは、都心で疲れた心をヒルリンできる良い材料で作ったパンと飲み物をご提供しています。庭のあるカフェで、素敵な風景を眺めながら心の疲れを癒すことができます。別館では愛犬と一緒に訪問することができます。運営時間は毎日10:00から20:00までで、月曜日は休業日です。メニューにはAmericano、Cafe latte、Cafe mocha、Cappuccino、Vanilla latte、Affogato、Earl gray、Peppermint、Chamomile、ジンジャーレモンティー、ジャモンティー、チェリーヒビスコス、アイスミルクティー、桃、アイスティー、グレープフルーツオレンジの生果物ジュース、オレンジジュース、パイナップルジュース、旬の果物[スイカ]、レモネイド、グレープフルーツ・エイド、青葡萄・エイド、有機栽培のミスッカル、クロワッサンなどの様々なメニューを準備しています。",
+    "QA": [
+        {
+            "question": "The Forestはどこに位置していますか？",
+            "answer": "The Forestは京畿道楊平郡ソジョン面ブクハンカン路1284に位置しています。"
+        },
+        {
+            "question": "The Forestはどのような雰囲気のカフェですか？",
+            "answer": "The Forestは庭のあるカフェで、素敵な風景を眺めながら心の疲れを癒すことができるカフェです。"
+        },
+        {
+            "question": "The Forestではどのようなメニューが提供されていますか？",
+            "answer": "The ForestではAmericano、Cafe latte、Cafe mocha、Cappuccino、Vanilla latte、Affogato、Earl gray、Peppermint、Chamomile、ジンジャーレモンティー、ジャモンティー、チェリーヒビスコス、アイスミルクティー、桃、アイスティー、グレープフルーツオレンジの生果物ジュース、オレンジジュース、パイナップルジュース、旬の果物[スイカ]、レモネイド、グレープフルーツ・エイド、青葡萄・エイド、有機栽培のミスッカル、クロワッサンなどの様々なメニューが提供されています。"
+        },
+        {
+            "question": "The Forestの営業時間はいつですか？",
+            "answer": "The Forestの営業時間は毎日10:00から20:00までです。ただし、月曜日は休業日です。"
+        },
+        {
+            "question": "The Forestでは愛犬と一緒に訪問することができますか？",
+            "answer": "The Forestの別館では愛犬と一緒に訪問することができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 332,
+        "QA": 426
+    }
+}

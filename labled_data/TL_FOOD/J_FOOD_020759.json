@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_020759",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-05",
+        "domain": "음식점",
+        "title": "名品松茸豚足 ( 명품송이족발 )"
+    },
+    "text": "名品松茸豚足 ( 명품송이족발 )\\n\nソウル特別市 銅雀区 サダンロ17ギル11\\n\n韓国産の肉を使って豚足を作っている店です。ソウル特別市のドンジャク区に位置した韓食専門店です。代表的なメニューは豚足です。",
+    "QA": [
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "ソウル特別市 銅雀区 サダンロ17ギル11に位置しています。"
+        },
+        {
+            "question": "この店ではどんな料理が提供されていますか？",
+            "answer": "この店では豚足が代表的なメニューとなっております。"
+        },
+        {
+            "question": "この店の豚足はどのように作られていますか？",
+            "answer": "この店では韓国産の肉を使用して豚足を作っています。"
+        }
+    ],
+    "word_Count": {
+        "text": 77,
+        "QA": 99
+    }
+}

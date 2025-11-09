@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_020328",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "万船食堂 ( 만선식당 )"
+    },
+    "text": "万船食堂 ( 만선식당 )\n済州特別自治道 西帰浦市 大静邑 下模港口路 44\n15年間営業しているサバの刺身専門店です。済州特別自治道のソグィポ市に位置した海鮮専門店です。代表的なメニューはサバの刺身です。",
+    "QA": [
+        {
+            "question": "このお店の名前は何ですか？",
+            "answer": "万船食堂 ( 만선식당 )"
+        },
+        {
+            "question": "このお店はどこに位置していますか？",
+            "answer": "済州特別自治道 西帰浦市 大静邑 下模港口路 44"
+        },
+        {
+            "question": "このお店の営業年数は何年ですか？",
+            "answer": "15年間"
+        },
+        {
+            "question": "このお店の特徴的なメニューは何ですか？",
+            "answer": "サバの刺身"
+        },
+        {
+            "question": "このお店はどのようなお店ですか？",
+            "answer": "海鮮専門店"
+        },
+        {
+            "question": "このお店はどの市に位置していますか？",
+            "answer": "ソグィポ市"
+        }
+    ],
+    "word_Count": {
+        "text": 76,
+        "QA": 114
+    }
+}

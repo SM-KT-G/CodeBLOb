@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_031246",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42010&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "수원역 자볼레"
+    },
+    "text": "当店は駐車スペースが狭いため、徒歩での利用をお勧めします。 ゲーミングヘッドセットは身分証明書を保管する際にレンタルできます。 全客室はリモデリングが完了しており、高仕様のゲーミングPC、ネットフリックス、ユーチューブテレビ視聴が楽しめます。 客室にLGトロンスタイラーと靴乾燥機が設置されています。 PC仕様はI59400F、16G、GTX2060で、32インチモニターとLEDキーボード、ゲーミングヘッドセットも提供されます。",
+    "QA": [
+        {
+            "question": "当店の利用には駐車スペースが必要ですか？",
+            "answer": "当店は駐車スペースが狭いため、徒歩での利用をお勧めします。"
+        },
+        {
+            "question": "身分証明書を保管する際にゲーミングヘッドセットはレンタルできますか？",
+            "answer": "はい、身分証明書を保管する際にゲーミングヘッドセットをレンタルすることができます。"
+        },
+        {
+            "question": "客室にはどのような設備がありますか？",
+            "answer": "全客室はリモデリングが完了しており、高仕様のゲーミングPC、ネットフリックス、ユーチューブテレビ視聴が楽しめます。また、LGトロンスタイラーと靴乾燥機も設置されています。"
+        },
+        {
+            "question": "PCの仕様はどのようになっていますか？",
+            "answer": "PCの仕様はI59400F、16G、GTX2060で、32インチモニターとLEDキーボード、ゲーミングヘッドセットも提供されます。"
+        }
+    ],
+    "word_Count": {
+        "text": 157,
+        "QA": 228
+    }
+}

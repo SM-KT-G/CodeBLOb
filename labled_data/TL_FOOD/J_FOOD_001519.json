@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001519",
+        "source": "도서",
+        "writer": "임선영",
+        "ISBN_ISNN": "979-11-8651-740-6",
+        "version": "초판",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "셰프의 맛집",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2015-12-02",
+        "domain": "음식점",
+        "title": "버터풀앤크리멀러스 롯데백화점 동탄점"
+    },
+    "text": "BUTTERFUL & CREAMOROUSは最高級の材料とバター、小麦粉を使用してパンを作るのにヨーロッパ風の天然発酵を利用しています。 営業時間は平日は10:30~20:00、週末は10:30~20:30です。 メニューにはバターフルクロワッサンが3800ウォン、クリーメラスバスクチーズケーキ(カット)が9,500ウォン、練乳クリームクロワッサンが6,000ウォン、バゲットアンビュールが5,000ウォンがあります。",
+    "QA": [
+        {
+            "question": "BUTTERFUL & CREAMOROUSの営業時間は何時から何時までですか？",
+            "answer": "BUTTERFUL & CREAMOROUSの営業時間は平日は10:30から20:00、週末は10:30から20:30です。"
+        },
+        {
+            "question": "BUTTERFUL & CREAMOROUSのメニューにはどんなパンがありますか？",
+            "answer": "BUTTERFUL & CREAMOROUSのメニューにはバターフルクロワッサン（3800ウォン）、クリーメラスバスクチーズケーキ（カット、9500ウォン）、練乳クリームクロワッサン（6000ウォン）、バゲットアンビュール（5000ウォン）があります。"
+        },
+        {
+            "question": "BUTTERFUL & CREAMOROUSのパンはどのように作られていますか？",
+            "answer": "BUTTERFUL & CREAMOROUSのパンは最高級の材料とバター、小麦粉を使用してヨーロッパ風の天然発酵を利用して作られています。"
+        }
+    ],
+    "word_Count": {
+        "text": 154,
+        "QA": 277
+    }
+}

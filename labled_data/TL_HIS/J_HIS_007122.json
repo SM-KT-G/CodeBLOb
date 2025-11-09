@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_007122",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-18",
+        "domain": "문화/역사관광",
+        "title": "慶南道立美術館（경남도립미술관）"
+    },
+    "text": "慶南道立美術館（경남도립미술관）\\n\n慶尙南道 昌原市 義昌区 龍池路 296 （退村洞）\\n\n慶尚南道昌原市義昌区にある「慶南道立美術館」は、2004年6月23日にオープンしました。地上4階、地下1階からなる建物で、展示コーナーや学術的研究施設、教育施設などが完備されています。",
+    "QA": [
+        {
+            "question": "慶南道立美術館はいつオープンしましたか？",
+            "answer": "慶南道立美術館は2004年6月23日にオープンしました。"
+        },
+        {
+            "question": "慶南道立美術館はどの地区にありますか？",
+            "answer": "慶南道立美術館は慶尚南道昌原市義昌区の龍池路296番地（退村洞）にあります。"
+        },
+        {
+            "question": "慶南道立美術館は何階建てですか？",
+            "answer": "慶南道立美術館は地上4階、地下1階からなる建物です。"
+        },
+        {
+            "question": "慶南道立美術館にはどのような施設がありますか？",
+            "answer": "慶南道立美術館には展示コーナーや学術的研究施設、教育施設などが完備されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 102,
+        "QA": 154
+    }
+}

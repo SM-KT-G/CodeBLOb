@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_055135",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=414&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=00510000&ccbaCtcd=11&ccbaCpno=2111100510000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1982-12-17",
+        "domain": "문화/역사관광",
+        "title": "기기국 번사창"
+    },
+    "text": "キギグク・ポンサチャン\\n\nソウル鍾路区三清路118(三清洞)\\n\nソウル特別市有形文化財、朝鮮末期、近代の武器を製作したキキチャンの建物に江華島条約が行われて8年後の高宗21年(1884)に建てられた。当時は武器の近代化に向けて、新制度をつくり、近代的な軍事訓練と武器の製造に努めていた。建物の名前である''飜沙(ポンサ)''という言葉の意味は土で作った枠に金属溶液を混ぜて作ることを言う。黒灰色のレンガで壁を積まれており、赤いレンガで帯を巻いた後、屋根側面が人の教わる字形の切妻屋根を上げた。門は虹の形であり、正門は花崗岩、わき戸は赤いレンガで帯を入れて装飾した。",
+    "QA": [
+        {
+            "question": "この建物はいつ建てられましたか？",
+            "answer": "高宗21年(1884)に建てられました。"
+        },
+        {
+            "question": "この建物の名前の意味は何ですか？",
+            "answer": "「飜沙(ポンサ)」という言葉は、土で作った枠に金属溶液を混ぜて作ることを意味します。"
+        },
+        {
+            "question": "この建物の壁はどのような材料で作られていますか？",
+            "answer": "黒灰色のレンガで壁が積まれています。"
+        },
+        {
+            "question": "この建物の門はどのような形をしていますか？",
+            "answer": "門は虹の形をしています。"
+        },
+        {
+            "question": "この建物の装飾はどのようにされていますか？",
+            "answer": "正門は花崗岩で作られ、わき戸は赤いレンガで帯を入れて装飾されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 208,
+        "QA": 165
+    }
+}

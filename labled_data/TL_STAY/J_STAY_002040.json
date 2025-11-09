@@ -1,0 +1,51 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_002040",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-06-22",
+        "domain": "숙박",
+        "title": "PHILOS HOTEL（필로스호텔）"
+    },
+    "text": "PHILOS HOTEL（필로스호텔）\n慶尚北道 浦項市 北区 竹派路6\n「PHILOS HOTEL」は広くて快適な131の客室、約400台の駐車施設、エリア最大規模のコンベンションホール、品格あるウェディングホール、一流シェフがお届けするプレミアムビュッフェレストランなどを完備しています。",
+    "QA": [
+        {
+            "question": "PHILOS HOTEL（필로스호텔）はどの地域に位置していますか？",
+            "answer": "PHILOS HOTEL（필로스호텔）は慶尚北道 浦項市 北区 竹派路6に位置しています。"
+        },
+        {
+            "question": "PHILOS HOTEL（필로스호텔）は何を提供していますか？",
+            "answer": "PHILOS HOTEL（필로스호텔）は広くて快適な客室、駐車施設、コンベンションホール、ウェディングホール、プレミアムビュッフェレストランなどを提供しています。"
+        },
+        {
+            "question": "PHILOS HOTEL（필로스호텔）の客室数は何室ですか？",
+            "answer": "PHILOS HOTEL（필로스호텔）は131の客室を提供しています。"
+        },
+        {
+            "question": "PHILOS HOTEL（필로스호텔）の駐車施設の台数は何台ですか？",
+            "answer": "PHILOS HOTEL（필로스호텔）の駐車施設は約400台の台数があります。"
+        },
+        {
+            "question": "PHILOS HOTEL（필로스호텔）のコンベンションホールはどのくらいの規模ですか？",
+            "answer": "PHILOS HOTEL（필로스호텔）のコンベンションホールはエリア最大規模です。"
+        },
+        {
+            "question": "PHILOS HOTEL（필로스호텔）のウェディングホールはどんな特徴がありますか？",
+            "answer": "PHILOS HOTEL（필로스호텔）のウェディングホールは品格があります。"
+        },
+        {
+            "question": "PHILOS HOTEL（필로스호텔）のレストランはどんな料理を提供していますか？",
+            "answer": "PHILOS HOTEL（필로스호텔）のレストランは一流シェフがお届けするプレミアムビュッフェを提供しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 107,
+        "QA": 432
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_035734",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://kr.hotels.com/ho1334654752/yang-yang-hwansang-uiseong-yang-yang-hangug/?chkin=2023-11-14&chkout=2023-11-15&x_pwa=1&rfrr=HSR&pwa_ts=1698430532943&referrerUrl=aHR0cHM6Ly9rci5ob3RlbHMuY29tL0hvdGVsLVNlYXJjaA%3D%3D&useRewards=false&rm1=a2&regionId=1751&destination=%EA%B0%95%EB%A6%89%2C+%EA%B0%95%EC%9B%90%2C+%ED%95%9C%EA%B5%AD&destType=MARKET&latLong=37.767868%2C128.935684&sort=RECOMMENDED&top_dp=227273&top_cur=KRW&userIntent=&selectedRoomType=220265251&selectedRatePlan=288268141&expediaPropertyId=41676711&searchId=97b7d18b-50b8-4705-904b-e329a78c27b8",
+        "collectedDate": "2023-11-15",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "양양 환상의성"
+    },
+    "text": "襄陽幻の城\\n\n大韓民国江原道襄陽郡県北面御城田キル384\\n\n襄陽に位置している襄陽幻の城で、快適で心地よい宿泊を楽しむことができます。WiFiとセルフパーキングの無料特典を提供しています。すべてのコンドミニアムには簡易キッチン、薄型テレビ、高級寝具が備わっています。チェックインは15:00から、チェックアウトは11:00です。COVID-19に関する制限事項をご確認ください。フロントデスクは毎日07:00から01:00まで営業しており、到着時にフロントスタッフがお手伝いします。チェックイン時にクレジットカード、デビットカードまたは現金デポジットが必要で、政府発行の写真付き身分証明書を提示する必要があります。チェックインは18歳から可能で、ペットの同伴はできません。無料WiFiを提供しています。",
+    "QA": [
+        {
+            "question": "この襄陽幻の城はどこに位置していますか？",
+            "answer": "襄陽幻の城は大韓民国江原道襄陽郡県北面御城田キル384に位置しています。"
+        },
+        {
+            "question": "襄陽幻の城で提供されている無料特典は何ですか？",
+            "answer": "襄陽幻の城ではWiFiとセルフパーキングの無料特典を提供しています。"
+        },
+        {
+            "question": "コンドミニアムにはどのような設備が備わっていますか？",
+            "answer": "コンドミニアムには簡易キッチン、薄型テレビ、高級寝具が備わっています。"
+        },
+        {
+            "question": "チェックインとチェックアウトの時間は何時ですか？",
+            "answer": "チェックインは15:00から、チェックアウトは11:00です。"
+        },
+        {
+            "question": "フロントデスクの営業時間は何時から何時までですか？",
+            "answer": "フロントデスクは毎日07:00から01:00まで営業しています。"
+        },
+        {
+            "question": "チェックインの際に必要なものは何ですか？",
+            "answer": "チェックイン時にクレジットカード、デビットカードまたは現金デポジットが必要で、政府発行の写真付き身分証明書を提示する必要があります。"
+        },
+        {
+            "question": "何歳からチェックインが可能ですか？",
+            "answer": "チェックインは18歳から可能です。"
+        },
+        {
+            "question": "ペットを連れて宿泊することはできますか？",
+            "answer": "ペットの同伴はできません。"
+        }
+    ],
+    "word_Count": {
+        "text": 258,
+        "QA": 321
+    }
+}

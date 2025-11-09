@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_023371",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "秀家（수가）"
+    },
+    "text": "秀家（수가）\\n\nソウル特別市 中区 明洞8カキル 42-1\\n\nソウル特別市のミョン洞に位置した韓食です。ソルロンタン(牛骨スープ)、スユク(茹で豚)専門店です。代表的なメニューはゆで肉の盛り合わせです。",
+    "QA": [
+        {
+            "question": "この韓食レストランの場所はどこですか？",
+            "answer": "この韓食レストランはソウル特別市の中区明洞8カキル 42-1にあります。"
+        },
+        {
+            "question": "このレストランの代表的なメニューは何ですか？",
+            "answer": "このレストランの代表的なメニューはゆで肉の盛り合わせです。"
+        },
+        {
+            "question": "このレストランはどのような特徴がありますか？",
+            "answer": "このレストランはソルロンタン(牛骨スープ)、スユク(茹で豚)専門店です。"
+        },
+        {
+            "question": "このレストランは明洞に位置していますか？",
+            "answer": "はい、このレストランはソウル特別市のミョン洞に位置しています。"
+        },
+        {
+            "question": "このレストランの名前は何ですか？",
+            "answer": "このレストランの名前は秀家（수가）です。"
+        }
+    ],
+    "word_Count": {
+        "text": 75,
+        "QA": 184
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_086490",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1086&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=01940000&ccbaCtcd=36&ccbaCpno=3413601940000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1994-01-31",
+        "domain": "문화/역사관광",
+        "title": "신안흑산진리지석묘군"
+    },
+    "text": "全羅南道は青銅器時代の代表的な墓である支石墓が位置しています。この墓は支石墓とも呼ばれ、経済力のある支配層の墓と知られています。韓国の支石墓は、テーブル式と碁盤式に区分されます。この中でも全羅南道は、支石墓が最も多く発見された地域です。ここでは約二万枚以上の支石墓が確認されました。フクサン真理支石墓群はフクサン小学校で発見されたことに、最大の支石墓は、長さ2.25m、幅1.57mです。ここでは発掘調査を通じて先史時代の土器と彫刻物が発見されました。これは、新石器∼青銅器時代に人らが居住していたことを示す重要な資料です。また、陸地から遠く離れた島地域でも、支石墓が発見されたが、これは韓国の支石墓の電波のプロセスを理解するうえで役立つ資料です。",
+    "QA": [
+        {
+            "question": "支石墓は何時代の墓ですか？",
+            "answer": "支石墓は新石器∼青銅器時代の墓です。"
+        },
+        {
+            "question": "支石墓が最も多く発見された地域はどこですか？",
+            "answer": "支石墓が最も多く発見された地域は全羅南道です。"
+        },
+        {
+            "question": "フクサン真理支石墓群で最大の支石墓の長さと幅はそれぞれ何ですか？",
+            "answer": "フクサン真理支石墓群で最大の支石墓は、長さ2.25m、幅1.57mです。"
+        },
+        {
+            "question": "先史時代の土器と彫刻物がどのように発見されましたか？",
+            "answer": "発掘調査を通じて先史時代の土器と彫刻物が発見されました。"
+        },
+        {
+            "question": "島地域でも支石墓が発見された理由は何ですか？",
+            "answer": "陸地から遠く離れた島地域でも、支石墓が発見されたが、これは韓国の支石墓の分布のプロセスを理解するうえで役立つ資料です。"
+        }
+    ],
+    "word_Count": {
+        "text": 237,
+        "QA": 204
+    }
+}

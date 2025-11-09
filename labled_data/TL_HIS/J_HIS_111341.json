@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_111341",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=121&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=10350000&ccbaCtcd=11&ccbaCpno=1121110350000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1990-05-21",
+        "domain": "문화/역사관광",
+        "title": "청자 음각운문 병"
+    },
+    "text": "青磁陰刻雲門瓶\\n\nソウル龍山区梨泰院路55キル60-16、ジャン·ジャン·ジャン(漢南洞)\\n\n高麗時代、宝物、高麗時代に作られた青磁瓶で高さ29.0センチ、口直径5.9センチ、ミッジルム9.5センチの洗練された形の徳利だ。口部分は薄くて外に広く行われており、首が長い。肩は緩やかな曲線をなして、胴体の下の部分が突き出て焼いたやや高く、広くて全体的に安定感を与える。釉薬は微細な気泡があり、薄くて透明で、薄いノクチョンセクを帯びている。口の下部分は柄の背景を広く取って両脚の効果を出す判陽刻(半陽刻)技法で蔓の模様を入れた。肩上部は縞模様を入れ、下に花柄をバンヤンそれぞれ法で飾った。胴体にはちらほら小さな雲紋様が刻まれ、胴体下部には蓮華(れんげ)文を巻いた。",
+    "QA": [
+        {
+            "question": "この青磁陰刻雲門瓶はいつ作られましたか？",
+            "answer": "高麗時代に作られました。"
+        },
+        {
+            "question": "この青磁陰刻雲門瓶の高さは何センチですか？",
+            "answer": "高さは29.0センチです。"
+        },
+        {
+            "question": "青磁陰刻雲門瓶の釉薬にはどんな特徴がありますか？",
+            "answer": "釉薬は微細な気泡があり、薄くて透明で、薄いノクチョンセクを帯びています。"
+        },
+        {
+            "question": "青磁陰刻雲門瓶の胴体にはどんな模様が刻まれていますか？",
+            "answer": "胴体にはちらほら小さな雲紋様が刻まれ、胴体下部には蓮華(れんげ)文を巻いています。"
+        },
+        {
+            "question": "青磁陰刻雲門瓶の口の下部には何の模様が入っていますか？",
+            "answer": "口の下部には判陽刻(半陽刻)技法で蔓の模様が入っています。"
+        },
+        {
+            "question": "青磁陰刻雲門瓶の形はどのように洗練されていますか？",
+            "answer": "口部分は薄くて外に広く行われ、首が長く、肩は緩やかな曲線をなし、胴体の下の部分が突き出て焼かれています。"
+        }
+    ],
+    "word_Count": {
+        "text": 242,
+        "QA": 239
+    }
+}

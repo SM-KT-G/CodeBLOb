@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_072842",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=581&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=02960000&ccbaCtcd=33&ccbaCpno=2113302960000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2008-11-14",
+        "domain": "문화/역사관광",
+        "title": "보은 법주사 대웅보전 후불도"
+    },
+    "text": "忠清北道有形文化財である法住寺(ポプチュサ)大雄宝殿小組サムブル座像は1897年前後に製作されたと推測されて、それぞれ労使や火、毘盧遮那仏、釈迦牟尼仏が存在し、四天王幀画も2幅が分離されてかけられている。この仏像は5幅で構成されたフブル仏画であり、ともに良好な状態だ。特に1897年に製作された三人の画家の絵は、洋画法を受け入れ、近代化されており、綿布を使用して製作された。法住寺(ポプチュサ)と境内建物のフブル仏画は錦湖堂若效をはじめとする彼の弟子たちによって製作され、製作会社たちの高い認知度と文化財・学術研究対象としての価値も知られている。",
+    "QA": [
+        {
+            "question": "この仏像はいつ頃製作されたのですか？",
+            "answer": "この仏像は1897年前後に製作されました。"
+        },
+        {
+            "question": "この仏像にはどのような仏が存在していますか？",
+            "answer": "この仏像には労使や火、毘盧遮那仏、釈迦牟尼仏が存在しています。"
+        },
+        {
+            "question": "フブル仏画は何幅で構成されていますか？",
+            "answer": "フブル仏画は5幅で構成されています。"
+        },
+        {
+            "question": "この仏像の制作にはどのような技法や素材が使用されていますか？",
+            "answer": "この仏像は洋画法を受け入れた近代的な技法で製作され、綿布を使用しています。"
+        },
+        {
+            "question": "この仏像のフブル仏画は誰によって製作されましたか？",
+            "answer": "法住寺(ポプチュサ)と境内建物のフブル仏画は錦湖堂若效をはじめとする彼の弟子たちによって製作されました。"
+        }
+    ],
+    "word_Count": {
+        "text": 200,
+        "QA": 200
+    }
+}

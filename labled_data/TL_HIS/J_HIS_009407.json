@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_009407",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=249&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=13&ccbaAsno=02780000&ccbaCtcd=11&ccbaCpno=1331102780000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1981-09-25",
+        "domain": "문화/역사관광",
+        "title": "구 서울대학교 본관"
+    },
+    "text": "旧ソウル大学本館 (구 서울대학교 본관)\\n\nソウル鍾路区東崇キル3(東崇洞)\\n\n1931年 , 史跡 , 日本による植民地時代の1931年に竣工した旧京城帝国大学の本館で、1945年以降ソウル大学本館として使われた。 ソウル大学校が1972年冠岳キャンパスに移転した後、文化芸術振興院庁舎として使われている。 京城帝国大学は3·1独立運動が起きた後、イ·サンジェ先生を代表とした朝鮮民立大学の既成会が結成されると、これを阻止するために日帝が京城帝国大学令を公布し、予科を募集して1926年に法文学部と医学部を開設することから始まった。 本館はレンガで積み上げた3階建てで、韓国建築界の先駆者であるパク·ギルリョン氏が設計し、工事は日本人会社宮川組が引き受けた。 平面は長方形で、屋根の姿は洗練されて優雅だ。 建物の一部出入口などが古典風のアーチを持っているが、概して過去の建物の様式を模倣しないという近代的性格の建物で、鍾路区にあったソウル大学校の建物の中で唯一残った建物だ。",
+    "QA": [
+        {
+            "question": "この建物はいつ建てられましたか？",
+            "answer": "1931年に建てられました。"
+        },
+        {
+            "question": "この建物は何のために使われていましたか？",
+            "answer": "旧京城帝国大学の本館として使われていました。"
+        },
+        {
+            "question": "ソウル大学本館はいつから使われていましたか？",
+            "answer": "1945年以降、ソウル大学本館として使われていました。"
+        },
+        {
+            "question": "この建物は現在どのように使われていますか？",
+            "answer": "ソウル大学校が移転した後、文化芸術振興院庁舎として使われています。"
+        },
+        {
+            "question": "この建物は誰が設計しましたか？",
+            "answer": "建築家のパク・ギルリョン氏が設計しました。"
+        },
+        {
+            "question": "この建物の特徴的な点を教えてください。",
+            "answer": "レンガで積み上げられた3階建てで、洗練された屋根の姿が優雅です。また、一部の出入口には古典風のアーチがあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 323,
+        "QA": 209
+    }
+}

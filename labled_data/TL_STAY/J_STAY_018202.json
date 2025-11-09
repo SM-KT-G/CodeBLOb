@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_018202",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42090&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "제주 올레뷰펜션"
+    },
+    "text": "皆様をおもてなしするOLEVIEW PENSION、済州の海の美しい風景が盛り込まれた異国的な場所です。 ここで余裕を感じてみてください。 客室はモダンでシンプルなデザインで済州の海の美しさを盛り込みました。 広くて美しい済州の海はあなたに忘れられない思い出をプレゼントしてくれるでしょう。 皆さんをもう一度記憶できるOLEVIEW PENSIONにご招待します。 22時以降に入室される場合は予めご連絡ください。",
+    "QA": [
+        {
+            "question": "OLEVIEW PENSIONはどのような場所ですか？",
+            "answer": "OLEVIEW PENSIONは異国的な雰囲気を持つ場所で、済州の美しい海の風景が楽しめます。"
+        },
+        {
+            "question": "OLEVIEW PENSIONの客室はどのようなデザインですか？",
+            "answer": "OLEVIEW PENSIONの客室はモダンでシンプルなデザインで、済州の海の美しさが取り入れられています。"
+        },
+        {
+            "question": "済州の海はどのような特徴がありますか？",
+            "answer": "済州の海は広くて美しいです。その風景は忘れられない思い出を作ることでしょう。"
+        },
+        {
+            "question": "OLEVIEW PENSIONには何時までに入室する必要がありますか？",
+            "answer": "22時以降に入室される場合は、事前にご連絡ください。"
+        },
+        {
+            "question": "OLEVIEW PENSIONでは何が提供されますか？",
+            "answer": "OLEVIEW PENSIONでは皆様をおもてなしするためにさまざまなサービスが提供されています。具体的な詳細はオフィシャルウェブサイトをご確認ください。"
+        }
+    ],
+    "word_Count": {
+        "text": 151,
+        "QA": 280
+    }
+}

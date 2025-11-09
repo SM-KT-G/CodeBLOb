@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_024956",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2020-06-19",
+        "domain": "음식점",
+        "title": "芸堂（예당）"
+    },
+    "text": "芸堂（예당）\\n\n釜山広域市 中区 光復路 61-1\\n\nスンドゥブ専門店「芸堂」は現在2代目に受け継がれ、さっぱりとした韓国料理の味と、真心込められた伝統的なスンドゥブ、海鮮とねぎのチヂミ、石焼ビビンバ、粗挽きカルビ焼き、プルゴギ、カルビの蒸し物などのメニューが揃い、韓国人はもちろん外国人にも人気があります。",
+    "QA": [
+        {
+            "question": "芸堂はどこにありますか？",
+            "answer": "釜山広域市 中区 光復路 61-1にあります。"
+        },
+        {
+            "question": "芸堂の料理はどんな特徴がありますか？",
+            "answer": "芸堂ではさっぱりとした韓国料理の味と、真心込められた伝統的なスンドゥブ、海鮮とねぎのチヂミ、石焼ビビンバ、粗挽きカルビ焼き、プルゴギ、カルビの蒸し物などのメニューが揃っています。"
+        },
+        {
+            "question": "芸堂はどのようなお客様に人気がありますか？",
+            "answer": "芸堂は韓国人はもちろん外国人にも人気があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 114,
+        "QA": 137
+    }
+}

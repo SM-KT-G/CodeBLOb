@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_002041",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/ristorante-eo",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "Ristorante Eo"
+    },
+    "text": "Ristorante Eo\\n\nソウル特別市 江南区 島山大路 75キル 15 )\\n\n清潭洞にあるイタリアンレストランRistorante Eo(リストランテ·エオ)は、国内屈指のイタリアンシェフであるオ·ユングォン氏が運営するところです。店内のテーブルは4つだけで、小規模なお客様に最上のサービスと最高の料理を提供しています。 予約必須",
+    "QA": [
+        {
+            "question": "レストランEoの場所はどこですか？",
+            "answer": "レストランEoはソウル特別市江南区島山大路75キル15にあります。"
+        },
+        {
+            "question": "レストランEoは何を提供していますか？",
+            "answer": "レストランEoは最上のサービスと最高の料理を提供しています。"
+        },
+        {
+            "question": "レストランEoはいくつのテーブルがありますか？",
+            "answer": "レストランEoには4つのテーブルがあります。"
+        },
+        {
+            "question": "レストランEoの予約は必須ですか？",
+            "answer": "はい、レストランEoの予約は必須です。"
+        },
+        {
+            "question": "レストランEoのオーナーシェフは誰ですか？",
+            "answer": "レストランEoのオーナーシェフはオ・ユングォン氏です。"
+        }
+    ],
+    "word_Count": {
+        "text": 124,
+        "QA": 167
+    }
+}

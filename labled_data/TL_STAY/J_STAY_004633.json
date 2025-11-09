@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_004633",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42040&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "여수 호두121펜션"
+    },
+    "text": "こんにちは。麗水の広い海辺が目の前に広がっており、ロマンと癒しが共存する一軒家の宿、クルミ121ペンションです。 当宿は老若男女問わず誰もが好むフィンランド式サウナ、大型家族湯や地下映画館、カラオケが完備されており、麗水のどこにもないプライベートな宿です。 お知らせ 22時以降に入室される場合、ペンションまで予めご連絡ください。",
+    "QA": [
+        {
+            "question": "ペンションの名前は何ですか？",
+            "answer": "クルミ121ペンションです。"
+        },
+        {
+            "question": "どのような設備がありますか？",
+            "answer": "フィンランド式サウナ、大型家族湯、地下映画館、カラオケがあります。"
+        },
+        {
+            "question": "ペンションまでの連絡方法はありますか？",
+            "answer": "22時以降に入室される場合は、予めご連絡ください。"
+        }
+    ],
+    "word_Count": {
+        "text": 121,
+        "QA": 87
+    }
+}

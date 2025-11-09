@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_030127",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42050&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "전주 호텔 더 빈센트"
+    },
+    "text": "全州ホテルのザ·ヴィンセントは韓屋村、客リダンキル、ウェリダンキルから非常に近い距離に位置しています。 ホテルは清潔と親切を保つのはもちろん、フィンセント·ファン·ゴッホ作品の感性を随所で感じることができるホテルです。 当ホテルは韓国的な都市である全州を訪れる旅行客が気楽に一日を過ごせるようお客様を迎えています。",
+    "QA": [
+        {
+            "question": "全州ホテルザ·ヴィンセントはどこに位置していますか？",
+            "answer": "全州ホテルザ·ヴィンセントは韓屋村、客リダンキル、ウェリダンキルから非常に近い距離に位置しています。"
+        },
+        {
+            "question": "ホテルの特徴は何ですか？",
+            "answer": "ホテルは清潔と親切を保つのはもちろん、フィンセント·ファン·ゴッホ作品の感性を随所で感じることができるホテルです。"
+        },
+        {
+            "question": "ホテルはどのような客を迎えていますか？",
+            "answer": "当ホテルは韓国的な都市である全州を訪れる旅行客が気楽に一日を過ごせるようお客様を迎えています。"
+        }
+    ],
+    "word_Count": {
+        "text": 115,
+        "QA": 154
+    }
+}

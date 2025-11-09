@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_003660",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-07",
+        "domain": "음식점",
+        "title": "オシム5（오심5）"
+    },
+    "text": "オシム5\\n\n江原道 春川市 新東面シルレキル 45\\n\n屋外テラスを完備した飲食店です。代表的なメニューはカンウォンナムルご飯ブランチです。江原道のチュンチョン市に位置したカフェ（コーヒーショップ）です。",
+    "QA": [
+        {
+            "question": "この飲食店はどこに位置していますか？",
+            "answer": "この飲食店は江原道の春川市新東面シルレキル45に位置しています。"
+        },
+        {
+            "question": "この飲食店の特徴は何ですか？",
+            "answer": "この飲食店は屋外テラスを完備しており、カンウォンナムルご飯ブランチが代表的なメニューです。"
+        },
+        {
+            "question": "このカフェはどこに位置していますか？",
+            "answer": "このカフェは江原道のチュンチョン市に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 75,
+        "QA": 112
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_080867",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=209&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=20040000&ccbaCtcd=11&ccbaCpno=1121120040000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2018-10-30",
+        "domain": "문화/역사관광",
+        "title": "서울 칠보사 목조석가여래좌상"
+    },
+    "text": "宝物「ソウル七宝寺木造釈迦如来坐像」は1622年(光海君14年)、光海君整備章烈王后が王族と実家の両親の遷都を目的に発願し、王室の願刹である慈寿寺と仁寿寺に奉安した11尊の仏像の一つと推定されます。慈寿寺と仁寿寺に奉安されたものと見られるこの釈迦如来坐像は、17世紀の代表的な彫刻僧、玄眞、守淵、応元、印均など当時の有名彫刻僧が合作して作った作品で、彫刻僧の特徴が複合的に反映された仏像です頭と上半身を前に少し下げた姿勢で右手は地面を指し、左手は橋の上に置いた降魔触地印をした姿です。上半身は腰が短く肩が広い反面、下半身は足が高くヒョンジン特有の彫刻傾向が感じられる。一方、あごを水平に削った四角い顔に両頬がふっくらとボリュームがあり、小さくて細い目に小鼻、微笑のある小さな口など端正で慈しみ深い印象はスヨンの作品を連想させます",
+    "QA": [
+        {
+            "question": "この釈迦如来坐像はいつ奉安されたものですか？",
+            "answer": "1622年、光海君整備章烈王后が発願し、王室の願刹である慈寿寺と仁寿寺に奉安されました。"
+        },
+        {
+            "question": "この釈迦如来坐像を制作した彫刻僧は誰ですか？",
+            "answer": "17世紀の代表的な彫刻僧、玄眞、守淵、応元、印均などが合作して制作しました。"
+        },
+        {
+            "question": "釈迦如来坐像の特徴的な姿勢は何ですか？",
+            "answer": "頭と上半身を前に少し下げた姿勢で、右手は地面を指し、左手は降魔触地印をした姿です。"
+        },
+        {
+            "question": "釈迦如来坐像の顔の特徴は何ですか？",
+            "answer": "あごを水平に削った四角い顔に両頬がふっくらとボリュームがあり、小さくて細い目に小鼻、微笑のある小さな口など端正で慈しみ深い印象があります。"
+        },
+        {
+            "question": "この仏像の制作に関わった彫刻僧の特徴は何ですか？",
+            "answer": "当時の有名彫刻僧が合作して作られたため、彫刻僧の特徴が複合的に反映されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 266,
+        "QA": 246
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_067451",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2023-07-02",
+        "domain": "숙박",
+        "title": "로즈밸리"
+    },
+    "text": "ローズバレー (로즈밸리)\\n\n江原特別自治道 三陟市元徳邑イムウォンギル525-9\\n\nローズバレーペンションは、海と山、さらに渓谷が近くにあり、空気が澄んだ場所に位置しています。",
+    "QA": [
+        {
+            "question": "場所はどこですか？",
+            "answer": "ローズバレーペンションは、江原特別自治道三陟市元徳邑イムウォンギル525-9に位置しています。"
+        },
+        {
+            "question": "周辺に何がありますか？",
+            "answer": "海と山、渓谷が近くにあり、空気が澄んだ場所に位置しています。"
+        },
+        {
+            "question": "どのような特徴がありますか？",
+            "answer": "ローズバレーペンションは、海と山、渓谷が近くにあり、空気が澄んだ場所に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 66,
+        "QA": 112
+    }
+}

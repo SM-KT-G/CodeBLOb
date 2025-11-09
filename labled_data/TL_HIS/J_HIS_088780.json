@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_088780",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/view?relicId=61812",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2023-10-11",
+        "domain": "문화/역사관광",
+        "title": "암키와 조각"
+    },
+    "text": "平瓦片 (암키와 조각)\\n\n,国籍/時代:'韓国 - 統一新羅' ,材質:'土 - 瓦質' ,分類:'主生活 - 建築部材 - 屋根材 - 平瓦' ,サイズ:'現在の長さ168cm、現在の幅148cm、現在の長さ87cm、現在の幅57cm'",
+    "QA": [
+        {
+            "question": "何がこの瓦片の材料ですか？",
+            "answer": "この瓦片は土でできています。"
+        },
+        {
+            "question": "この瓦片はどのように使用されますか？",
+            "answer": "この瓦片は屋根材として使用されます。"
+        },
+        {
+            "question": "この瓦片のサイズはどのくらいですか？",
+            "answer": "現在の長さは168cm、現在の幅は148cm、現在の長さは87cm、現在の幅は57cmです。"
+        },
+        {
+            "question": "この瓦片の国籍/時代は何ですか？",
+            "answer": "この瓦片は韓国・統一新羅時代のものです。"
+        },
+        {
+            "question": "この瓦片はどのように作られましたか？",
+            "answer": "この瓦片は土を瓦質にして作られました。"
+        }
+    ],
+    "word_Count": {
+        "text": 88,
+        "QA": 146
+    }
+}

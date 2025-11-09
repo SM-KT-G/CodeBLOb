@@ -1,0 +1,51 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_002938",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-06",
+        "domain": "음식점",
+        "title": "イモ牛ミノ焼き ( 이모양곱창 )"
+    },
+    "text": "イモ牛ミノ焼き ( 이모양곱창 )\\n\n釜山広域市 釜山鎮区 プジョンロ49\\n\nコプチャンが柔らかくおいしい店で、値段も手頃です。代表的なメニューはコプチャン焼きです。釜山広域市のブサンジン区に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "この店の名前は何ですか？",
+            "answer": "イモ牛ミノ焼き ( 이모양곱창 ) です。"
+        },
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "釜山広域市 釜山鎮区 プジョンロ49です。"
+        },
+        {
+            "question": "この店の特徴的なメニューは何ですか？",
+            "answer": "代表的なメニューはコプチャン焼きです。"
+        },
+        {
+            "question": "この店の料金はどのくらいですか？",
+            "answer": "値段も手頃です。"
+        },
+        {
+            "question": "この店はどのようなジャンルのレストランですか？",
+            "answer": "韓食専門店です。"
+        },
+        {
+            "question": "この店のコプチャンはどのような味ですか？",
+            "answer": "コプチャンが柔らかくおいしいです。"
+        },
+        {
+            "question": "この店の位置はどこですか？",
+            "answer": "釜山広域市のブサンジン区に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 80,
+        "QA": 168
+    }
+}

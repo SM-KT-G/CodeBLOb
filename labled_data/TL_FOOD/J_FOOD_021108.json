@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_021108",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "白い綿 ( 하얀목화 )"
+    },
+    "text": "白い綿 ( 하얀목화 )\\n\n全羅南道 木浦市 柳洞路 55\\n\n各種アイスクリームが味わえるカフェです。 全羅南道のモクポ市に位置したカフェです。代表的なメニューはソフトクリームです。",
+    "QA": [
+        {
+            "question": "このカフェの名前は何ですか？",
+            "answer": "このカフェの名前は白い綿（하얀목화）です。"
+        },
+        {
+            "question": "このカフェはどこにありますか？",
+            "answer": "このカフェは全羅南道の木浦市の柳洞路55にあります。"
+        },
+        {
+            "question": "このカフェでは何が飲食できますか？",
+            "answer": "このカフェでは様々なアイスクリームが味わえます。"
+        },
+        {
+            "question": "このカフェの代表的なメニューは何ですか？",
+            "answer": "このカフェの代表的なメニューはソフトクリームです。"
+        }
+    ],
+    "word_Count": {
+        "text": 68,
+        "QA": 118
+    }
+}

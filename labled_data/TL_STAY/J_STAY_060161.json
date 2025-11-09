@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_060161",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.goodchoice.kr/product/detail?ano=59609&adcno=1&sel_date=2023-11-07&sel_date2=2023-11-08",
+        "collectedDate": "2023-11-15",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "포항 XYM2"
+    },
+    "text": "駐車場情報:現在、駐車可能な台数は0台です。 駐車施設保有周辺情報: 周辺には市外バスターミナルとビーチがあり、徒歩2分です。 総合運動場までの距離は不明で、サンヨン交差点までは600m離れています。 また、ゼロペイ加盟店とKB国民カードスターshopで積立が可能です。",
+    "QA": [
+        {
+            "question": "駐車場は現在何台利用可能ですか？",
+            "answer": "現在、駐車可能な台数は0台です。"
+        },
+        {
+            "question": "駐車施設保有周辺にはどのような施設がありますか？",
+            "answer": "駐車施設保有周辺には市外バスターミナルとビーチがあります。徒歩2分の距離です。"
+        },
+        {
+            "question": "総合運動場までの距離はどのくらいですか？",
+            "answer": "総合運動場までの距離は不明です。"
+        },
+        {
+            "question": "サンヨン交差点までの距離は何メートルですか？",
+            "answer": "サンヨン交差点までの距離は600メートルです。"
+        },
+        {
+            "question": "どのようなお店で積立が可能ですか？",
+            "answer": "ゼロペイ加盟店とKB国民カードスターshopで積立が可能です。"
+        }
+    ],
+    "word_Count": {
+        "text": 99,
+        "QA": 164
+    }
+}

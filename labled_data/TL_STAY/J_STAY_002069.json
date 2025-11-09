@@ -1,0 +1,63 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_002069",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/goods/GN0002018356?startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0%5E&npprmaxsort=min",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "서울숲 스테이"
+    },
+    "text": "SEOULFORESTSTAYは、お客様に快適な宿泊経験を提供するため、様々な施設とサービスを備えています。 この宿は地下鉄駅から非常に近い位置にあり、都市の主要観光地点に簡単にアクセスできる便利な長所を持っています。 また、ルーフトップテラスでは都心の美しい眺めを鑑賞しながら旅行の楽しさをさらに感じることができます。 そのゲストハウスは共用スペースを使用するものなので、利用規則を遵守する必要があります。 予約は当日夜10時まで可能で、遅く到着する場合は事前にご連絡ください。 また、過度の飲酒や騒ぎは避けなければならず、ペットは同伴できません。 個人用品の保管は各自の責任であり、客室内での調理、飲食、喫煙は禁止されます。 未成年者の宿泊及び男女同室での宿泊は認められておらず、施設の毀損や紛失についてはお客様本人に責任があります。 最後に靴は下駄箱に必ず入れなければならず、紛失した場合の補償はできません。",
+    "QA": [
+        {
+            "question": "SEOULFORESTSTAYはどのような施設を提供していますか？",
+            "answer": "SEOULFORESTSTAYは快適な宿泊経験を提供するため、様々な施設とサービスを備えています。"
+        },
+        {
+            "question": "SEOULFORESTSTAYはどのような利点を持っていますか？",
+            "answer": "SEOULFORESTSTAYは地下鉄駅から非常に近く、都市の主要観光地点に簡単にアクセスできる便利な長所を持っています。"
+        },
+        {
+            "question": "SEOULFORESTSTAYのルーフトップテラスでは何が楽しめますか？",
+            "answer": "SEOULFORESTSTAYのルーフトップテラスでは都心の美しい眺めを鑑賞しながら旅行の楽しさをさらに感じることができます。"
+        },
+        {
+            "question": "SEOULFORESTSTAYでの予約は何時まで可能ですか？",
+            "answer": "SEOULFORESTSTAYでの予約は当日夜10時まで可能です。遅く到着する場合は事前にご連絡ください。"
+        },
+        {
+            "question": "SEOULFORESTSTAYではどのような利用規則がありますか？",
+            "answer": "SEOULFORESTSTAYは共用スペースを使用するものなので、利用規則を遵守する必要があります。"
+        },
+        {
+            "question": "SEOULFORESTSTAYでの宿泊には制限がありますか？",
+            "answer": "SEOULFORESTSTAYでは未成年者の宿泊及び男女同室での宿泊は認められておらず、施設の毀損や紛失についてはお客様本人に責任があります。"
+        },
+        {
+            "question": "SEOULFORESTSTAYでの個人用品の保管は誰の責任ですか？",
+            "answer": "SEOULFORESTSTAYでの個人用品の保管は各自の責任です。"
+        },
+        {
+            "question": "SEOULFORESTSTAYでの調理や喫煙はできますか？",
+            "answer": "SEOULFORESTSTAYでは客室内での調理、飲食、喫煙は禁止されています。"
+        },
+        {
+            "question": "SEOULFORESTSTAYではペットを同伴できますか？",
+            "answer": "SEOULFORESTSTAYではペットは同伴できません。"
+        },
+        {
+            "question": "SEOULFORESTSTAYでの靴の取り扱いについて教えてください。",
+            "answer": "SEOULFORESTSTAYでは靴は下駄箱に必ず入れなければならず、紛失した場合の補償はできません。"
+        }
+    ],
+    "word_Count": {
+        "text": 298,
+        "QA": 601
+    }
+}

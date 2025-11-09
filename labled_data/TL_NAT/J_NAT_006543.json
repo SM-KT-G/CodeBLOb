@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_006543",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=978&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=00250000&ccbaCtcd=25&ccbaCpno=3412500250000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1991-07-10",
+        "domain": "자연관광",
+        "title": "김정선생묘소일원"
+    },
+    "text": "金正先生の墓所一円 (김정선생묘소일원)\\n\n大田東区会南路117(シンハドン)\\n\n1522(中宗16) , 大田広域市文化財資料 , 朝鮮中宗の時、刑曹判書兼芸文館の祭学を務めた忠庵·金正(1486~1521)先生の位牌が祀られている建物だ。 先生は趙広祚とともに知治主義を実現するために迷信打破と郷論の相互扶助に努め、郷約を全国に実施するのに大きな業績を残した。 中宗14年(1519)、己卯士禍の時、趙広祚らと共に投獄され、錦山に流刑された後、済州で死薬を受けて死んだ。 大徳区東面内塔里にあった建物と墓所を1978年に東区新下洞に移した。 建物の中には仁祖19年(1641)に建てられた神道碑(王や高官などの生涯業績を称えるために墓の近くの道端に建てられた碑)と位牌が祀られている祠堂、夫人の旌閭閣がある。",
+    "QA": [
+        {
+            "question": "金正先生の墓所はどこにありますか？",
+            "answer": "金正先生の墓所は大田東区会南路117にあります。"
+        },
+        {
+            "question": "金正先生は何を務めましたか？",
+            "answer": "金正先生は趙広祚とともに知治主義を実現するために迷信打破と郷論の相互扶助に努め、郷約を全国に実施するのに大きな業績を残しました。"
+        },
+        {
+            "question": "金正先生はいつ亡くなりましたか？",
+            "answer": "金正先生は中宗14年(1519)、己卯士禍の時に投獄され、錦山に流刑された後、済州で死薬を受けて亡くなりました。"
+        },
+        {
+            "question": "金正先生の墓所にはどんな建物がありますか？",
+            "answer": "金正先生の墓所には祠堂と夫人の旌閭閣があります。また、神道碑も建てられています。"
+        }
+    ],
+    "word_Count": {
+        "text": 262,
+        "QA": 184
+    }
+}

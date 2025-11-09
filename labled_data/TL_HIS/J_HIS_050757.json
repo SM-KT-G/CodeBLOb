@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_050757",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=544&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=02280000&ccbaCtcd=31&ccbaCpno=2113102280000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2009-10-16",
+        "domain": "문화/역사관광",
+        "title": "계해사궤장연첩"
+    },
+    "text": "鶏海蛇軌章連帖\\n\n京畿道光明市オリロ347番キル5-6(ソハドン、ジャン·ジャン)\\n\n朝鮮時代、京畿道有形文化財、''癸亥会社グェジャンヨンチョプ''はこのソチョプの表紙に記録されたタイトルであり、''ギェヘニョンにグェジャンを授けられた後に開かれた祝宴のシチョプ''と解釈される。1623年(仁祖元年)9月6日に領議政李元翼(李元翼、1547∼1634)が国王からグェジャン(几杖;アンソクと杖)を授けられた後に開かれた宴会で、出席した賓客たちが祝詩を集めてシチョプで作ったことを元に再び移動して書いたシチョプだ。表紙を越すと、本文の最初のページに震源豊府院君(晉原府院君)劉瑾(柳根)の詩の序文、次いで、オーウェン倍率(五言排律)シプウンシ(十韻詩)があり、ここにチャウン(次韻)ある出席者たちの詩21本と宴会後に送ってきた詩11方が収録されている。行事当日参加した人物21因果当日出席できず、首唱(酬唱)した11人で、当代の著名人が多数参加した。チュンヒョン博物館所蔵本は、原本を基にして一人が移して書いたものですが、宴会もが抜けているが、原本を補完する資料的価値がある。",
+    "QA": [
+        {
+            "question": "このギェジャンヨンチョプはいつ開かれましたか？",
+            "answer": "1623年(仁祖元年)9月6日に開かれました。"
+        },
+        {
+            "question": "ギェジャンヨンチョプはどのような行事でしたか？",
+            "answer": "領議政李元翼が国王からグェジャンを授けられた後に開かれた宴会でした。"
+        },
+        {
+            "question": "ギェジャンとは何ですか？",
+            "answer": "ギェジャンは几杖（アンソクと杖）というものです。"
+        },
+        {
+            "question": "このソチョプにはどのような詩が収録されていますか？",
+            "answer": "ソチョプには震源豊府院君劉瑾の詩や出席者たちの詩などが収録されています。"
+        },
+        {
+            "question": "ソチョプの表紙には何が記録されていますか？",
+            "answer": "ソチョプの表紙には「癸亥会社グェジャンヨンチョプ」というタイトルが記録されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 360,
+        "QA": 192
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_019263",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/traffic/busan-jonghap-bus-terminal",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "釜山総合バスターミナル"
+    },
+    "text": "釜山総合バスターミナル\\n\n釜山広域市 金井区 中央大路2238\\n\n韓国第2の都市、釜山の関門として慶釜高速道路と連携し高速バスと市外バスが一緒になった総合バスターミナルです。",
+    "QA": [
+        {
+            "question": "このバスターミナルはどこにありますか？",
+            "answer": "釜山広域市金井区中央大路2238に位置しています。"
+        },
+        {
+            "question": "このバスターミナルはどのようなバスが利用できますか？",
+            "answer": "慶釜高速道路と連携しており、高速バスと市外バスが利用できます。"
+        },
+        {
+            "question": "このバスターミナルは何のための関門ですか？",
+            "answer": "釜山の関門として、高速バスと市外バスが一緒になった総合バスターミナルです。"
+        }
+    ],
+    "word_Count": {
+        "text": 65,
+        "QA": 116
+    }
+}

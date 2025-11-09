@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_002194",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "Yeonnam Seosikdang ( 연남서식당 )"
+    },
+    "text": "Yeonnam Seosikdang ( 연남서식당 )\nソウル特別市 麻浦区 白凡路2キル 32\n立ち食いカルビ店です。おすすめはカルビです。ソウル特別市のマポ区に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "このレストランの名前は何ですか？",
+            "answer": "Yeonnam Seosikdang ( 연남서식당 ) ソウル特別市 麻浦区 白凡路2キル 32 立ち食いカルビ店です。"
+        },
+        {
+            "question": "おすすめのメニューは何ですか？",
+            "answer": "おすすめはカルビです。"
+        },
+        {
+            "question": "このレストランはどこにありますか？",
+            "answer": "ソウル特別市のマポ区に位置しています。"
+        },
+        {
+            "question": "このレストランの特徴は何ですか？",
+            "answer": "韓食専門店です。"
+        }
+    ],
+    "word_Count": {
+        "text": 69,
+        "QA": 119
+    }
+}

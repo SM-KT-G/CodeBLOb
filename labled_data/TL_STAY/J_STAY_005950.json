@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_005950",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42001&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "로얄 호텔 서울"
+    },
+    "text": "ソウルの中心である明洞に位置する最高の安息所特急ホテルは都心の中のオアシスという別名を持っています。 このホテルは、ふわふわの羽毛寝具のある居心地の良い客室と、上品なレストランでの食事を楽しむことができます。 また、当ホテルは乙支路入口駅と明洞駅の間に位置しており、ソウル市内の便利なアクセスを誇ります。",
+    "QA": [
+        {
+            "question": "特急ホテルはどこに位置していますか？",
+            "answer": "特急ホテルはソウルの中心である明洞に位置しています。"
+        },
+        {
+            "question": "特急ホテルはどんな部屋を提供していますか？",
+            "answer": "特急ホテルでは、ふわふわの羽毛寝具のある居心地の良い客室を提供しています。"
+        },
+        {
+            "question": "特急ホテルにはレストランがありますか？",
+            "answer": "はい、特急ホテルには上品なレストランがあります。"
+        },
+        {
+            "question": "特急ホテルはどの駅の近くにありますか？",
+            "answer": "特急ホテルは乙支路入口駅と明洞駅の間に位置しています。"
+        },
+        {
+            "question": "特急ホテルはどのようなアクセスを提供していますか？",
+            "answer": "特急ホテルはソウル市内の便利なアクセスを提供しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 111,
+        "QA": 178
+    }
+}

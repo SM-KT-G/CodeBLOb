@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_034974",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1005&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=00570000&ccbaCtcd=37&ccbaCpno=3413700570000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1985-08-05",
+        "domain": "문화/역사관광",
+        "title": "호고와종택"
+    },
+    "text": "戸越宗宅 (호고와종택)\\n\n慶尚北道亀尾市海平面水流道44-20(イルソン里)\\n\n慶尚北道文化財資料 , 朝鮮後期の学者ユ·フィムン(1773~1827)が建てた家だ。 1700年代に建てたこの家はユ·フィムンの号を取って「ホゴとジョンテク」という名前が付けられた。 今ある建物はもともと安東市臨東面馬嶺里にあったが、臨河ダム建設に移して建てたものだ。",
+    "QA": [
+        {
+            "question": "この建物は誰によって建てられましたか？",
+            "answer": "この建物は学者ユ・フィムンによって建てられました。彼は朝鮮後期の学者でした。"
+        },
+        {
+            "question": "この建物はいつ建てられましたか？",
+            "answer": "この建物は1700年代に建てられました。"
+        },
+        {
+            "question": "この建物はどのような名前が付けられていますか？",
+            "answer": "この建物にはユ・フィムンの号を取って「ホゴとジョンテク」という名前が付けられています。"
+        },
+        {
+            "question": "なぜこの建物は移築されたのですか？",
+            "answer": "この建物はもともと安東市臨東面馬嶺里にあったが、臨河ダム建設のために移築されました。"
+        }
+    ],
+    "word_Count": {
+        "text": 130,
+        "QA": 159
+    }
+}

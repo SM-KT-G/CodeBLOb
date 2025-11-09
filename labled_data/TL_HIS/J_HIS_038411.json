@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_038411",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=489&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=01510000&ccbaCtcd=34&ccbaCpno=2113401510000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1997-12-23",
+        "domain": "문화/역사관광",
+        "title": "장곡사설선당"
+    },
+    "text": "長谷寺說禅堂 (장곡사설선당)\\n\n忠清南道青陽郡大峙洞長谷キル241(長谷里)\\n\n朝鮮中期、忠清南道有形文化財、長谷寺は統一新羅の文聖王12年(850)に普照禅師が初めて建てた寺で、その後長い歳月を経て多くの修理があったが、詳しい記録は伝えられていない。 傾斜地を磨いて上下に寺跡を作ったが、下に雪仙堂が位置する。 長谷寺の2つの大雄殿のうち、下大雄殿のように朝鮮中期に建てられた雪仙堂は、下大雄殿の左側に動向して建てられた僧侶たちの住居だ。 建物の前面に「雪仙堂」という扁額がかかっており、言葉を論じて参禅のためのところであると同時に尼僧侶たちが修道するところであることを示している。 建物の前から見ると、右側の3間は柱や屋根を支える恐怖が精巧な構造と様式を示し、本来の建物であることが分かる。 しかし、左側につながる2間はその構造と様式が変形を見せており、これは後に補修されたり再建築されたものと見られる。",
+    "QA": [
+        {
+            "question": "長谷寺說禅堂はいつ建てられましたか？",
+            "answer": "統一新羅の文聖王12年(850)に普照禅師が初めて建てました。"
+        },
+        {
+            "question": "長谷寺の特徴的な建物はありますか？",
+            "answer": "朝鮮中期に建てられた雪仙堂があります。"
+        },
+        {
+            "question": "雪仙堂は何のために使われていましたか？",
+            "answer": "雪仙堂は尼僧侶たちが修道するための場所でした。"
+        },
+        {
+            "question": "雪仙堂の前には何の扁額がありますか？",
+            "answer": "雪仙堂の前には「雪仙堂」という扁額がかかっています。"
+        },
+        {
+            "question": "長谷寺の大雄殿はいくつありますか？",
+            "answer": "長谷寺には2つの大雄殿があります。"
+        },
+        {
+            "question": "長谷寺の下大雄殿と雪仙堂はどのように関係していますか？",
+            "answer": "下大雄殿の左側に動向して建てられた僧侶たちの住居である雪仙堂と関係しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 298,
+        "QA": 198
+    }
+}

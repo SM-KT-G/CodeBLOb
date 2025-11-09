@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_043474",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.booking.com/hotel/kr/g-stay-malu.ko.html",
+        "collectedDate": "2023-11-17",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "Malu Hotel Suwon"
+    },
+    "text": "Malu Hotel Suwonは水原に位置するホテルです。 当ホテルは、車で来る宿泊客のための無料専用駐車場と共用ラウンジ、無料Wi-Fiを提供しています。 宿は華城とガーデンファイブからそれぞれ3kmと31kmの距離にあり、文井洞ロデオ通り、江南駅、国立中央博物館からそれぞれ32km、33km、33kmの距離に位置しています。 Malu Hotel Suwonは共用キッチン、コンシェルジュサービス、手荷物預かり所サービスを提供しています。 客室にはエアコン、ケーブルチャンネルを備えたテレビ、冷蔵庫、やかん、ウォッシュレット、無料洗面用具、机などが備えられています。 それぞれの客室にはシャワー、ヘアドライヤーなどを備えた個別バスルームがあり、一部の客室には電子レンジを備えた簡易キッチンがあります。 すべての客室にはベッドリネン、タオルなどが提供されます。 宿からは加山デジタル団地と加山デジタル団地駅のような名所が34kmの距離にあり、最寄り空港は42kmの距離にある金浦国際空港です。 宿泊施設で提供する有料空港シャトルサービスをご利用いただけます。 Malu Hotel Suwonは水原の中心部から2kmの距離に位置しており、チェックインは16:00から始まり、チェックアウトは12:00までです。",
+    "QA": [
+        {
+            "question": "Malu Hotel Suwonはどこに位置していますか？",
+            "answer": "Malu Hotel Suwonは水原に位置しています。"
+        },
+        {
+            "question": "Malu Hotel Suwonはどのような設備を提供していますか？",
+            "answer": "Malu Hotel Suwonは無料専用駐車場、共用ラウンジ、無料Wi-Fiを提供しています。"
+        },
+        {
+            "question": "Malu Hotel Suwonはどの観光名所からの距離に位置していますか？",
+            "answer": "Malu Hotel Suwonは華城から3km、ガーデンファイブから31kmの距離に位置しています。"
+        },
+        {
+            "question": "Malu Hotel Suwonから江南駅までの距離は何キロですか？",
+            "answer": "Malu Hotel Suwonから江南駅までの距離は33kmです。"
+        },
+        {
+            "question": "Malu Hotel Suwonから最寄り空港までの距離は何キロですか？",
+            "answer": "Malu Hotel Suwonから最寄り空港までの距離は42kmです。"
+        }
+    ],
+    "word_Count": {
+        "text": 409,
+        "QA": 269
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_100060",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=438&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=00820000&ccbaCtcd=23&ccbaCpno=2112300820000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2022-12-19",
+        "domain": "문화/역사관광",
+        "title": "전등사 대웅보전 후불탱"
+    },
+    "text": "1916年に製作された伝燈寺大雄宝殿木造三尊仏坐像のフブルテンは、有形文化財である。幀画とは布や紙に絵を描いて額縁や掛け軸の形で作られる仏画を言う。この作品は、一幅に釈迦と薬剤師、阿弥陀を描いた一幅サムセブル化だ。絵は黄土色と濃い緑色の、明るい煉瓦色の色を使用しており、顔や衣服には洋画式陰影法が適用されている。",
+    "QA": [
+        {
+            "question": "伝燈寺大雄宝殿木造三尊仏坐像のフブルテンは何年に製作されましたか？",
+            "answer": "1916年に製作されました。"
+        },
+        {
+            "question": "伝燈寺大雄宝殿木造三尊仏坐像のフブルテンは何の有形文化財ですか？",
+            "answer": "有形文化財です。"
+        },
+        {
+            "question": "幀画とは何を言いますか？",
+            "answer": "布や紙に絵を描いて額縁や掛け軸の形で作られる仏画を言います。"
+        },
+        {
+            "question": "伝燈寺大雄宝殿木造三尊仏坐像のフブルテンはどのような絵画ですか？",
+            "answer": "一幅に釈迦と薬剤師、阿弥陀を描いた一幅サムセブル化です。"
+        },
+        {
+            "question": "伝燈寺大雄宝殿木造三尊仏坐像のフブルテンの絵画で使用された色は何色ですか？",
+            "answer": "黄土色と濃い緑色の、明るい煉瓦色の色が使用されています。"
+        },
+        {
+            "question": "伝燈寺大雄宝殿木造三尊仏坐像のフブルテンの絵画で、どのような陰影法が適用されていますか？",
+            "answer": "洋画式陰影法が適用されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 114,
+        "QA": 230
+    }
+}

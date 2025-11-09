@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_029816",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-03",
+        "domain": "음식점",
+        "title": "喜劇之王 ( 희극지왕 )"
+    },
+    "text": "喜劇之王 ( 희극지왕 )\\n\nソウル特別市 ヨンドゥンポ区 グクフェデロ34ギル10\\n\n汝矣島のサラリーマンに人気の店です。おすすめはゆでイカです。ソウル特別市のヨンドゥンポ区に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "喜劇之王はどこに位置していますか？",
+            "answer": "喜劇之王はソウル特別市ヨンドゥンポ区に位置しています。"
+        },
+        {
+            "question": "喜劇之王でおすすめの料理は何ですか？",
+            "answer": "喜劇之王でおすすめの料理はゆでイカです。"
+        },
+        {
+            "question": "喜劇之王はどんな店ですか？",
+            "answer": "喜劇之王は韓食専門店で、汝矣島のサラリーマンに人気があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 75,
+        "QA": 92
+    }
+}

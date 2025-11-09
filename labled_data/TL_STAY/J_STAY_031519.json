@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_031519",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42050&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "순창 강천산펜션"
+    },
+    "text": "ペンションに到着していただきありがとうございます。 当ペンションは美しい淳昌江川山に位置しています。 ここで皆さんと一緒に幸せで余裕のある時間を過ごせるように最善を尽くしています。 春になると渓谷と森の中で生命が咲き乱れて美しい姿を現します。 そして家族旅行や団体旅行にも適したペンションです。 私たちは皆様を歓迎し、最善の親切なサービスでおもてなしします。 そしてお知らせがあります。 もし22時以降に入室される場合は、事前にご連絡ください。 改めて感謝いたします.",
+    "QA": [
+        {
+            "question": "このペンションはどこに位置していますか？",
+            "answer": "当ペンションは淳昌江川山に位置しています。"
+        },
+        {
+            "question": "このペンションではどのようなサービスを提供していますか？",
+            "answer": "私たちは皆様を歓迎し、最善の親切なサービスでおもてなしします。"
+        },
+        {
+            "question": "春になると何が美しい姿を現しますか？",
+            "answer": "春になると渓谷と森の中で生命が咲き乱れて美しい姿を現します。"
+        },
+        {
+            "question": "このペンションは家族旅行や団体旅行に適していますか？",
+            "answer": "はい、このペンションは家族旅行や団体旅行にも適しています。"
+        },
+        {
+            "question": "22時以降に入室する場合は何をすべきですか？",
+            "answer": "22時以降に入室される場合は、事前にご連絡ください。"
+        }
+    ],
+    "word_Count": {
+        "text": 171,
+        "QA": 184
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001630",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2020-12-30",
+        "domain": "음식점",
+        "title": "DombeChobab( 돔베초밥 )"
+    },
+    "text": "DombeChobab( 돔베초밥 )\\n\n京畿道 平沢市 ピジョン5ロ20-24\\n\n新鮮な刺身を仕入れて寿司を提供する店です。京畿道のピョンテク市に位置した和食専門店です。おすすめは寿司です。",
+    "QA": [
+        {
+            "question": "ドムベチョバブはどこに位置していますか？",
+            "answer": "ドムベチョバブは京畿道平沢市に位置しています。"
+        },
+        {
+            "question": "ドムベチョバブでは何を提供していますか？",
+            "answer": "ドムベチョバブでは新鮮な刺身を仕入れて寿司を提供しています。"
+        },
+        {
+            "question": "おすすめの料理は何ですか？",
+            "answer": "おすすめの料理は寿司です。"
+        }
+    ],
+    "word_Count": {
+        "text": 71,
+        "QA": 87
+    }
+}

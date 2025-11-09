@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_037269",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1128&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=03550000&ccbaCtcd=34&ccbaCpno=3413403550000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1997-08-05",
+        "domain": "문화/역사관광",
+        "title": "천안노은정"
+    },
+    "text": "天安老隱亭 (천안노은정)\\n\n忠清南道天安市東南区並川面桃源里山19番地\\n\n忠清南道文化財資料、老隠亭は老隠金相基が学問の練磨と後輩養成のために粛宗15年(1689)に建てた亭子だ。 建物の名前は先生の号に由来し、哲宗4年(1853)に初めて直した後、数回補修した。 建物は花崗岩の上に前面·側面2間規模で建てられ、床は井戸の床を敷いた。あずま屋の各柱には水浸しを防ぐ突起などを使って安全を図った。 老隠亭は天安市で最も古い亭子であり、300年前の韓国の伝統建築様式を示す建物として周囲の景観も美しく「桃源8景」の一つとして伝えられている。",
+    "QA": [
+        {
+            "question": "老隠亭は何のために建てられましたか？",
+            "answer": "老隠亭は老隠金相基が学問の練磨と後輩養成のために建てられました。"
+        },
+        {
+            "question": "老隠亭は何年に建てられましたか？",
+            "answer": "老隠亭は粛宗15年（1689年）に建てられました。"
+        },
+        {
+            "question": "老隠亭は何度か修理されましたか？",
+            "answer": "老隠亭は哲宗4年（1853年）に初めて修理され、その後数回補修されました。"
+        },
+        {
+            "question": "老隠亭はどのような建物ですか？",
+            "answer": "老隠亭は花崗岩の上に前面・側面2間規模で建てられ、床には井戸の床が敷かれています。各柱には安全を図るための突起などがあります。"
+        },
+        {
+            "question": "老隠亭は何を示す建物ですか？",
+            "answer": "老隠亭は300年前の韓国の伝統建築様式を示す建物です。周囲の景観も美しく、「桃源8景」の一つとして伝えられています。"
+        }
+    ],
+    "word_Count": {
+        "text": 199,
+        "QA": 215
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_036817",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=440&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=00840000&ccbaCtcd=33&ccbaCpno=2113300840000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1981-05-01",
+        "domain": "문화/역사관광",
+        "title": "제천 황석리 고가"
+    },
+    "text": "淸風黃石里古家 (제천 황석리 고가)\\n\n忠清北道堤川市清風面清風湖路2048(ムルテリ)\\n\n朝鮮時代、忠清北道有形文化財、清風黄石里にある旧家で、前面4間規模で右側の前に退間を置いた。 台所·奥の間·上の部屋を並べて配置し、端に出居を置いた。 奥の間と上の部屋の前には床を置き、出居の前には床なしで屋外炊事空間である台所を置き、頭の退に縁側を置いて客を迎えることができるようにした。 清風黄石里高架は、頭を下げた4間の家の最も代表的なタイプだ。",
+    "QA": [
+        {
+            "question": "この古家はどこにありますか？",
+            "answer": "この古家は忠清北道堤川市清風面清風湖路2048（ムルテリ）にあります。"
+        },
+        {
+            "question": "この古家は何時代に建てられましたか？",
+            "answer": "この古家は朝鮮時代に建てられました。"
+        },
+        {
+            "question": "この古家はどのような配置になっていますか？",
+            "answer": "この古家は奥の間・上の部屋を並べて配置し、台所を置き、出居の前には床なしで屋外炊事空間である台所を置いています。"
+        },
+        {
+            "question": "この古家はどのような特徴がありますか？",
+            "answer": "この古家は前面4間規模で、右側の前に退間を置いた構造になっており、頭を下げた4間の家の最も代表的なタイプです。"
+        },
+        {
+            "question": "この古家は何を文化財として保護されていますか？",
+            "answer": "この古家は忠清北道有形文化財として保護されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 165,
+        "QA": 209
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_111338",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=139&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=12280000&ccbaCtcd=11&ccbaCpno=1121112280000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1995-12-04",
+        "domain": "문화/역사관광",
+        "title": "청자 음각용문 주전자"
+    },
+    "text": "青磁陰刻龍門やかん\\n\nソウル龍山区梨泰院路55キル60-16、ジャン·ジャン·ジャン(漢南洞)\\n\n12世紀前半の初期、宝物、高麗時代に作られた青磁やかんで高さ21.1センチ、口直径6.7センチ、ミッジルム8.4センチだ。空に上がる直前、土地に座っている龍(バンリョン)の形を刻んだとしてバンヨンムン候補と呼ばれる。大きさに比べて口直径が広くており、全体的に安定した形を成している胴体や取っ手がいるつぼ状のヤカンだ。水を伴う走狗と本体は稲妻形帯を2ヵ所を囲んで大きく3等分されている。バンヨンムンは胴体の上部の2部分に前・後ろに一匹ずつ計4頭が刻まれているが、一匹は口の長い三角形の顔であり、世界一匹は四角型であり、雌雄を表現したと考えられる。口直径が広く、喉の部分は短くて太いつぼ状の胴体と外で起きた低い台脚(だいきゃく)、つまみ上部の曲がったこと、力強く伸びた口で金属製のやかんをモデルにしたとみられる。精巧に処理された稲妻模様とバンヨンムンで12世紀前半に製作された優秀な青磁であることを知ることができる。このような形のヤカンは今までその由来が知られていない特異な形で全羅南道康津の窯で製作されたものとみえる。",
+    "QA": [
+        {
+            "question": "これは何時代に作られたか？",
+            "answer": "高麗時代に作られました。"
+        },
+        {
+            "question": "この青磁やかんの高さは何センチですか？",
+            "answer": "高さは21.1センチです。"
+        },
+        {
+            "question": "口の直径は何センチですか？",
+            "answer": "口直径は6.7センチです。"
+        },
+        {
+            "question": "何に刻まれた形を持っていますか？",
+            "answer": "龍（バンリョン）の形を刻んでいます。"
+        },
+        {
+            "question": "この青磁やかんを製作した窯はどこにありますか？",
+            "answer": "全羅南道康津の窯で製作されたものと考えられています。"
+        },
+        {
+            "question": "この青磁やかんの形状は何をモデルにしていますか？",
+            "answer": "金属製のやかんをモデルにしています。"
+        }
+    ],
+    "word_Count": {
+        "text": 373,
+        "QA": 152
+    }
+}

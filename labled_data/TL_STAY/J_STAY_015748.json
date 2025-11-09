@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_015748",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42030&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "포항 화진별장펜션"
+    },
+    "text": "ファジン別荘は海の香りと共にするヒーリングの場所です。 愛する人と大変だった日常の荷物を下ろして一緒に楽しむ準備ができたら、ここに来てください。 華やかな都心でかすかになった私の小さな夢を海風が吹いてくる自然の中で新しく始めることができます。 チェックイン時間は22時以降の場合、ペンションまで予めご連絡いただければ幸いです。",
+    "QA": [
+        {
+            "question": "ファジン別荘はどのような場所ですか？",
+            "answer": "ファジン別荘は海の香りと共にするヒーリングの場所です。"
+        },
+        {
+            "question": "ファジン別荘では何ができますか？",
+            "answer": "ファジン別荘では、大変だった日常の荷物を下ろして一緒に楽しむことができます。"
+        },
+        {
+            "question": "どのような人と一緒にファジン別荘に来ると良いですか？",
+            "answer": "ファジン別荘には愛する人と一緒に来ると良いです。"
+        },
+        {
+            "question": "ファジン別荘でのチェックイン時間はいつですか？",
+            "answer": "ファジン別荘でのチェックイン時間は22時以降の場合、事前に連絡していただければ幸いです。"
+        },
+        {
+            "question": "ファジン別荘の周辺には何がありますか？",
+            "answer": "ファジン別荘の周辺には自然があり、海風が吹いてきます。"
+        },
+        {
+            "question": "ファジン別荘で始めることができる新しいことは何ですか？",
+            "answer": "ファジン別荘では海風が吹いてくる自然の中で新しいことを始めることができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 119,
+        "QA": 239
+    }
+}

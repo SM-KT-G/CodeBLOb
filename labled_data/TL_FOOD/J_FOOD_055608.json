@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_055608",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "モイセ酔い覚ましスープ ( 모이세해장국 )"
+    },
+    "text": "モイセ酔い覚ましスープ ( 모이세해장국 )\n済州特別自治道 済州市 蓮北路 221\n卵を溶いて食べるとよりおいしい、ヘジャンククの名店です。代表的なメニューは酔い覚ましスープです。済州特別自治道のジェジュ市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "このレストランはどこにありますか？",
+            "answer": "このレストランは済州特別自治道の済州市にあります。"
+        },
+        {
+            "question": "モイセ酔い覚ましスープはどのように食べるのがおいしいですか？",
+            "answer": "モイセ酔い覚ましスープを食べる際は、卵を溶いて一緒に食べるとよりおいしいです。"
+        },
+        {
+            "question": "このレストランの代表的なメニューは何ですか？",
+            "answer": "このレストランの代表的なメニューは酔い覚ましスープです。"
+        },
+        {
+            "question": "このレストランは韓食専門店ですか？",
+            "answer": "はい、このレストランは韓食専門店です。"
+        }
+    ],
+    "word_Count": {
+        "text": 85,
+        "QA": 144
+    }
+}

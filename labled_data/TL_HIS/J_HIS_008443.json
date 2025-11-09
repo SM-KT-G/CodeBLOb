@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_008443",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=414&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=00510000&ccbaCtcd=36&ccbaCpno=2113600510000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1974-09-24",
+        "domain": "문화/역사관광",
+        "title": "곡성 충렬문"
+    },
+    "text": "谷城忠烈門 (곡성 충렬문)\\n\n全羅南道谷城郡立面サムオグンドンギル101-6(サムオリ)\\n\n全羅南道有形文化財 , ここは丁卯胡乱の時、義兵長だったパク·オンベとその夫人イ氏の高い忠節を称えるために建てられた旌閭閣だ。 パク·オンベは玉果の士族でパク·ヨンの子孫だ。 朝鮮仁祖5年(1627)、清の軍事が襲来すると義兵長として安州の戦いに参加して戦死した。 このニュースが伝わると、夫人の李氏もまた、後を追って命を絶った。 忠烈門は純祖5年(1805)に建立されたものである。",
+    "QA": [
+        {
+            "question": "この建物は何のために建てられましたか？",
+            "answer": "この建物はパク・オンベとその夫人イ氏の忠節を称えるために建てられました。"
+        },
+        {
+            "question": "パク・オンベとはどのような人物ですか？",
+            "answer": "パク・オンベは玉果の士族で、義兵長として活躍しました。"
+        },
+        {
+            "question": "パク・オンベは何の戦いで戦死しましたか？",
+            "answer": "パク・オンベは朝鮮仁祖5年(1627)の安州の戦いで戦死しました。"
+        },
+        {
+            "question": "李氏はどのような行動を取りましたか？",
+            "answer": "李氏はパク・オンベの死後、後を追って命を絶ちました。"
+        },
+        {
+            "question": "忠烈門はいつ建てられましたか？",
+            "answer": "忠烈門は純祖5年(1805)に建立されました。"
+        }
+    ],
+    "word_Count": {
+        "text": 176,
+        "QA": 173
+    }
+}

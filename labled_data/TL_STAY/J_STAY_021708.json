@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_021708",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42080&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "춘천 서린(글램독)펜션"
+    },
+    "text": "文字数を増やすために、次のような文章を追加しました。 春川ソリンは愛犬専用の一軒家宿泊施設として、お子様のための最上の便益施設とサービスを提供しています。 宿の内部にはペットのための特別な空間である愛犬ペンションが設けられており、安全で快適な環境で休息を楽しむことができます。 \".",
+    "QA": [
+        {
+            "question": "春川ソリンはどのような施設ですか？",
+            "answer": "春川ソリンは一軒家宿泊施設で、愛犬専用のペンションもあります。"
+        },
+        {
+            "question": "春川ソリンの特徴は何ですか？",
+            "answer": "春川ソリンの特徴は、お子様のための便益施設やサービスを提供していることです。"
+        },
+        {
+            "question": "愛犬ペンションの内部はどのような空間ですか？",
+            "answer": "愛犬ペンションの内部は、安全で快適な環境で休息を楽しむことができる特別な空間です。"
+        }
+    ],
+    "word_Count": {
+        "text": 103,
+        "QA": 119
+    }
+}

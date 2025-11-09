@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_015958",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "江陵土鍋 ( 강릉뚝배기 )"
+    },
+    "text": "江陵土鍋 ( 강릉뚝배기 )\\n\n江原道 ガンヌン市 ナムブロ5\\n\nクッパは韓国風の牛肉スープ料理でご飯が入っています。江原道のガンヌン市に位置した韓食専門店です。おすすめは牛肉クッパです。",
+    "QA": [
+        {
+            "question": "江陵土鍋はどのような料理ですか？",
+            "answer": "江陵土鍋は牛肉スープ料理で、ご飯も一緒に入っています。"
+        },
+        {
+            "question": "江陵土鍋のお店はどこにありますか？",
+            "answer": "江陵土鍋のお店は韓国の江原道ガンヌン市のナムブロ5にあります。"
+        },
+        {
+            "question": "江陵土鍋のおすすめは何ですか？",
+            "answer": "江陵土鍋のおすすめは牛肉クッパです。"
+        }
+    ],
+    "word_Count": {
+        "text": 70,
+        "QA": 90
+    }
+}

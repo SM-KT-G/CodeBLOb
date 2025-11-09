@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_025372",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/ulmildae-mapo",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "乙密台"
+    },
+    "text": "乙密台\\n\nソウル特別市 麻浦区 塩里洞 147-6\\n\nここは40年以上の伝統を持っている、冷麺専門店です。 韓牛スープで汁を出して、蕎麦で作った麺を使います。 メニューは水冷麺が一番人気です。 平壌冷麺特有の独特な味を楽しめます。 予約はお昼12時予約だけ受けており、4人以上から可能です。",
+    "QA": [
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "乙密台ソウル特別市麻浦区塩里洞147-6です。"
+        },
+        {
+            "question": "この店の特徴は何ですか？",
+            "answer": "この店は40年以上の伝統を持つ冷麺専門店です。韓牛スープと蕎麦で作った麺を使用しています。"
+        },
+        {
+            "question": "一番人気のメニューは何ですか？",
+            "answer": "一番人気は水冷麺です。平壌冷麺特有の独特な味を楽しむことができます。"
+        },
+        {
+            "question": "予約はどのようにできますか？",
+            "answer": "予約はお昼12時予約のみ受け付けており、4人以上から可能です。"
+        }
+    ],
+    "word_Count": {
+        "text": 107,
+        "QA": 137
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_010931",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-05",
+        "domain": "음식점",
+        "title": "ドングル魚の辛味スープ ( 동굴매운탕 )"
+    },
+    "text": "ドングル魚の辛味スープ ( 동굴매운탕 )\\n\n慶尚北道 アンドン市 ガンナムロ26-2\\n\nピリ辛な川魚のメウンタン(魚の辛味スープ)が有名です。おすすめは魚の辛味スープです。慶尚北道のアンドン市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "この店の名前は何ですか？",
+            "answer": "ドングル魚の辛味スープ"
+        },
+        {
+            "question": "この店はどこにありますか？",
+            "answer": "慶尚北道のアンドン市のガンナムロ26-2に位置しています。"
+        },
+        {
+            "question": "この店の特徴的な料理は何ですか？",
+            "answer": "おすすめは魚の辛味スープです。"
+        }
+    ],
+    "word_Count": {
+        "text": 82,
+        "QA": 70
+    }
+}

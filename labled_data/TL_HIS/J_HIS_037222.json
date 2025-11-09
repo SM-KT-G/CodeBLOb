@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_037222",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1192&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=79&ccbaAsno=00090000&ccbaCtcd=33&ccbaCpno=4413300090000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2002-02-28",
+        "domain": "문화/역사관광",
+        "title": "청주 문화동 일·양 절충식 가옥"
+    },
+    "text": "清州文化洞の日·洋折衷式家屋 (청주 문화동 일·양 절충식 가옥)\\n\n忠清北道清州市上党区大成路122番キル18(文化洞)\\n\n1924、国家登録文化財、1924年に建設されたこの建物は、1924年に朝鮮金融組合連合会忠北支部長の社宅として建設されたが、今はマリンバー(メキシコ中部および南アメリカ地域の民俗楽器)演奏者を輩出する芸能院として使われている。 屋根の形は薄空屋根を十字形に直角交差させて構成し、薄空面の下側2階に接客用途の部屋を置いて眺望を確保するなど1920年代に紹介されたバンガロー風の異国的な外観になっている。",
+    "QA": [
+        {
+            "question": "この建物はいつ建てられましたか？",
+            "answer": "1924年に建設されました。"
+        },
+        {
+            "question": "この建物はどのような用途で使用されていますか？",
+            "answer": "現在はマリンバー演奏者の育成施設として使われています。"
+        },
+        {
+            "question": "この建物の屋根の形はどのようになっていますか？",
+            "answer": "屋根の形は薄空屋根を十字形に直角交差させて構成されています。"
+        },
+        {
+            "question": "この建物の外観はどのようになっていますか？",
+            "answer": "1920年代に紹介されたバンガロー風の異国的な外観をしています。"
+        }
+    ],
+    "word_Count": {
+        "text": 195,
+        "QA": 136
+    }
+}

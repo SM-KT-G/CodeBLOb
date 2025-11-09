@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_003244",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1215&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=79&ccbaAsno=03000000&ccbaCtcd=11&ccbaCpno=4411103000000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2006-12-04",
+        "domain": "문화/역사관광",
+        "title": "서울 구 화랑대역"
+    },
+    "text": "ソウル区花郎大駅 (서울 구 화랑대역)\\n\nソウル特別市蘆原区花郎路610(孔陵洞、花郎大歴史館)\\n\n1939年 , 国家登録文化財 , 花郎台駅1棟、1階規模で建築面積154.9㎡、鉄路長さ左右それぞれ150mだ。花郎台駅は当初泰陵駅と呼ばれていたが、1958年1月1日花郎台駅に改称された慶全線路の駅舎として1939年に建設され、1939年7月4日に普通駅として営業を開始した。 構造は木造で屋根の形が続く珍しい屋根だ。 配置は待合室、事務室、宿直室に分かれており、待合室は他の駅舎のように迫工部分に配置している。 駅は現在廃駅になって未開放中であり、所有者である韓国鉄道公社は一般人に賃貸予定だと知られている。",
+    "QA": [
+        {
+            "question": "花郎台駅はいつ建設されましたか？",
+            "answer": "花郎台駅は1939年に建設されました。"
+        },
+        {
+            "question": "花郎台駅はどのような構造ですか？",
+            "answer": "花郎台駅は木造で、珍しい屋根の形をしています。"
+        },
+        {
+            "question": "花郎台駅はいつ営業を開始しましたか？",
+            "answer": "花郎台駅は1939年7月4日に普通駅として営業を開始しました。"
+        },
+        {
+            "question": "花郎台駅は現在どうなっていますか？",
+            "answer": "花郎台駅は廃駅になり、未開放中です。韓国鉄道公社は一般人に賃貸予定です。"
+        }
+    ],
+    "word_Count": {
+        "text": 227,
+        "QA": 129
+    }
+}

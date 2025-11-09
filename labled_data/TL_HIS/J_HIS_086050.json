@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_086050",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=398&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=00330000&ccbaCtcd=37&ccbaCpno=2113700330000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1973-08-31",
+        "domain": "문화/역사관광",
+        "title": "시사단"
+    },
+    "text": "慶尚北道有形文化財である朝鮮時代の嶺南地方の科挙試験場所を記念するために立てられた建物である。この建物は、正祖の時の李万洙(イ・マンス)に並べ替えることができる人材を選抜するようにドサンビョルグヮを新しく作る目的で建てられた。これを記念するために操20年に碑文を刻んで示唆団を立て、純祖(スンジョ)24年には立て直して、安東(アンドン)ダム建設によって現在の位置へ移転された。この建物は地上10mの石垣の上に碑閣と雨を移して建てられており、碑閣は前面1間、側面1間規模だ。さらに建物の屋根は側面が売りの形をしており、柱と壁の間にはパンビョクがあり、風雨を阻止し、安定感を与えている。",
+    "QA": [
+        {
+            "question": "この建物は何のために立てられましたか？",
+            "answer": "この建物は、正祖の時の李万洙(イ・マンス)に並べ替えることができる人材を選抜するようにドサンビョルグヮを新しく作る目的で建てられました。"
+        },
+        {
+            "question": "碑閣と雨を移して建てられた建物はどのような構造ですか？",
+            "answer": "碑閣と雨を移して建てられたこの建物は、地上10mの石垣の上に建てられており、碑閣は前面1間、側面1間規模であり、屋根は側面が売りの形をしています。さらに、柱と壁の間にはパンビョクがあり、風雨を阻止し、安定感を与えています。"
+        },
+        {
+            "question": "この建物は、安東(アンドン)ダム建設によって何故移転されましたか？",
+            "answer": "この建物は、安東(アンドン)ダム建設によって移転された経緯がありますか？"
+        }
+    ],
+    "word_Count": {
+        "text": 213,
+        "QA": 215
+    }
+}

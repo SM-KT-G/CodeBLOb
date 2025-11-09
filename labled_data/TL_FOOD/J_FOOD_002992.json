@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_002992",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-09-01",
+        "domain": "음식점",
+        "title": "インサドンマヌルボサム（인사동마늘보쌈）"
+    },
+    "text": "インサドンマヌルボサム（인사동마늘보쌈）\\n\nソウル特別市 鐘路区 仁寺洞8キル 12-5\\n\nソウル特別市のインサ洞に位置した韓国料理店です。仁寺洞のサムジギルに位置しています。代表的なメニューはにんにくのポサムです。",
+    "QA": [
+        {
+            "question": "場所はどこですか？",
+            "answer": "インサドンマヌルボサムはソウル特別市 鐘路区 仁寺洞8キル 12-5に位置しています。"
+        },
+        {
+            "question": "料理は何ですか？",
+            "answer": "代表的なメニューはにんにくのポサムです。"
+        },
+        {
+            "question": "どのような場所に位置していますか？",
+            "answer": "インサドンマヌルボサムは仁寺洞のサムジギルに位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 80,
+        "QA": 93
+    }
+}

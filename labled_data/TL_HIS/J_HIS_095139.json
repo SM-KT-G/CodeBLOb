@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_095139",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/collectionList#######",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2023-10-11",
+        "domain": "문화/역사관광",
+        "title": "윤언이 묘지명"
+    },
+    "text": "閏言の墓誌名 (윤언이 묘지명)\\n\n「この墓誌名は、余震を征伐した名将ユン・グァン(尹寛)の息子ユン・オンイ(?~1149)のものです。この墓誌名には、クム(金:ヨジン)が要求した臣下の例を受け入れられないというユン・オンイの立場が明確に現れています。墓誌の国籍と時代は、韓国の高麗時代です。材質は石で、分類は社会生活の一環である儀礼生活の中の喪章であり、使用される場所は墓地です。墓誌の大きさは、横105cm、縦434cm、厚さ22cmです。」",
+    "QA": [
+        {
+            "question": "この墓誌名は誰のものですか？",
+            "answer": "ユン・オンイ(尹寛)の息子ユン・オンイのものです。"
+        },
+        {
+            "question": "この墓誌名はどの時代のものですか？",
+            "answer": "高麗時代のものです。"
+        },
+        {
+            "question": "この墓誌名の材質は何ですか？",
+            "answer": "石です。"
+        },
+        {
+            "question": "この墓誌名はどのような場所で使用されるのですか？",
+            "answer": "墓地で使用されます。"
+        },
+        {
+            "question": "この墓誌名の大きさはどれくらいですか？",
+            "answer": "横105cm、縦434cm、厚さ22cmです。"
+        }
+    ],
+    "word_Count": {
+        "text": 164,
+        "QA": 117
+    }
+}

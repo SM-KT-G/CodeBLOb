@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_099320",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ja",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2023-05-03",
+        "domain": "문화/역사관광",
+        "title": "잼버리 공원"
+    },
+    "text": "第25回世界スカウトジャンボリーの開催場所として、2023年に開かれる世界ジャンボリーは169カ国の五万人余りのスカウトの隊員たちが大挙参加するスカウトのキャンプ大会だ。。",
+    "QA": [
+        {
+            "question": "世界ジャンボリーはいつ開催されますか？",
+            "answer": "2023年に開催されます。"
+        },
+        {
+            "question": "世界ジャンボリーはどこで開催されますか？",
+            "answer": "日本で開催されます。"
+        },
+        {
+            "question": "世界ジャンボリーには何カ国のスカウトが参加する予定ですか？",
+            "answer": "169カ国のスカウトが参加する予定です。"
+        },
+        {
+            "question": "世界ジャンボリーに参加する予定のスカウトは何人ぐらいですか？",
+            "answer": "5万人余りのスカウトが参加する予定です。"
+        },
+        {
+            "question": "世界ジャンボリーは何のために開催されますか？",
+            "answer": "スカウトのキャンプ大会です。"
+        }
+    ],
+    "word_Count": {
+        "text": 63,
+        "QA": 144
+    }
+}

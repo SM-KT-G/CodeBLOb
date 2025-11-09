@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_007948",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=235&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=13&ccbaAsno=00970000&ccbaCtcd=38&ccbaCpno=1333800970000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1963-01-21",
+        "domain": "자연관광",
+        "title": "양산 신기리 산성"
+    },
+    "text": "梁山新基里山城 (양산 신기리 산성)\\n\n慶尚南道梁山市北井洞\\n\n新羅時代 , 史跡 , 海抜232mの山城峰の頂上一帯を石で積み上げた城で、城隍山にあって城隍山城とも呼ばれる。 ほとんど崩れたが、周囲2,6km、高さ1m程度が残っている。 『三国史記』によると、新羅が洛東江を通じて侵入する倭寇を防ぐために梁山に城を築いたという記録がある。 このような記録と城の中で新羅の土器彫刻が発見される点から見て、新羅時代に築城されたものと見ている。 城の南側にはこの山城と規模が似ている北部東山城があり、双城の形を成す。 城隍山には梁山夫婦塚で有名な6世紀頃の新基里墓が散在しており、この一帯が新羅時代の重要なところと考えられる。",
+    "QA": [
+        {
+            "question": "梁山新基里山城はどこにありますか？",
+            "answer": "梁山新基里山城は慶尚南道梁山市北井洞にあります。"
+        },
+        {
+            "question": "梁山新基里山城は何時代に築城されましたか？",
+            "answer": "梁山新基里山城は新羅時代に築城されました。"
+        },
+        {
+            "question": "梁山新基里山城はどのような城ですか？",
+            "answer": "梁山新基里山城は海抜232mの山城峰の頂上一帯を石で積み上げた城です。周囲2.6km、高さ1m程度が残っています。"
+        },
+        {
+            "question": "なぜ梁山新基里山城が築城されたのですか？",
+            "answer": "『三国史記』によると、新羅が洛東江を通じて侵入する倭寇を防ぐために梁山に城を築いたという記録があります。"
+        },
+        {
+            "question": "梁山新基里山城の周辺には他の城がありますか？",
+            "answer": "梁山新基里山城の南側には北部東山城という規模が似た城があり、双城の形を成しています。"
+        },
+        {
+            "question": "梁山新基里山城の周辺にはどのような遺跡がありますか？",
+            "answer": "梁山新基里山城の周辺には梁山夫婦塚で有名な6世紀頃の新基里墓が散在しており、この一帯が新羅時代の重要なところと考えられています。"
+        }
+    ],
+    "word_Count": {
+        "text": 230,
+        "QA": 281
+    }
+}

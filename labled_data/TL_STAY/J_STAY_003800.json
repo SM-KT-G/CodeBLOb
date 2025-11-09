@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_003800",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42060&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "천안 K호텔"
+    },
+    "text": "コロナ関連でセスコ防疫が完了しました。 全客室にはTV、空気清浄機、ヘアドライヤーが備えられており、一部の客室にはヘアアイロンや携帯電話の充電器も備えられています。 また、すべての客室にはWi-Fi、エアコン、冷蔵庫、電気ケトル、オフィスPC、IPTV、ネットフリックスが提供されます。 一部の客室にはウォッシュレット、浴槽、シャワーブース、ガウン、スリッパ、ソファー、卓上と椅子、鏡、靴べらも備えられています。",
+    "QA": [
+        {
+            "question": "セスコ防疫とは何ですか？",
+            "answer": "セスコ防疫は、コロナ関連の予防対策の一環として行われる清掃と衛生管理のことです。"
+        },
+        {
+            "question": "セスコ防疫が完了した客室にはどのような設備がありますか？",
+            "answer": "セスコ防疫が完了した客室にはTV、空気清浄機、ヘアドライヤーが備えられています。また、一部の客室にはヘアアイロンや携帯電話の充電器も備えられています。"
+        },
+        {
+            "question": "全客室に提供される設備は何ですか？",
+            "answer": "全客室にはWi-Fi、エアコン、冷蔵庫、電気ケトル、オフィスPC、IPTV、ネットフリックスが提供されます。"
+        },
+        {
+            "question": "一部の客室にはどのような設備が備えられていますか？",
+            "answer": "一部の客室にはウォッシュレット、浴槽、シャワーブース、ガウン、スリッパ、ソファー、卓上と椅子、鏡、靴べらが備えられています。"
+        }
+    ],
+    "word_Count": {
+        "text": 151,
+        "QA": 229
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_005325",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-03",
+        "domain": "음식점",
+        "title": "グリーン刺身専門店 ( 그린횟집 )"
+    },
+    "text": "グリーン刺身専門店 ( 그린횟집 )\\n\n江原道 ガンヌン市 サチョン面 ジンリヘビョンギル123\\n\n新鮮な刺身が味わえる店です。江原道のガンヌン市に位置した和食専門店です。代表的なメニューは活魚の刺身です。",
+    "QA": [
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "グリーン刺身専門店は江原道のガンヌン市のサチョン面に位置しています。具体的な住所はジンリヘビョンギル123です。"
+        },
+        {
+            "question": "この店の特徴的なメニューは何ですか？",
+            "answer": "この店の代表的なメニューは活魚の刺身です。新鮮な刺身をお楽しみいただけます。"
+        },
+        {
+            "question": "この店は和食専門店ですか？",
+            "answer": "はい、グリーン刺身専門店は和食専門店です。和食を中心に提供しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 77,
+        "QA": 126
+    }
+}

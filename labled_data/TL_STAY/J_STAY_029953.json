@@ -1,0 +1,31 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_029953",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42010&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "용인 아담스토리펜션"
+    },
+    "text": "こんにちは。アダムストーリーペンションです。 ご利用のすべてのお客様に案内事項があり、このようにお知らせでお伝えします。 まず、入室時間についてですが、22時以降にペンションに入室される場合は事前にご連絡ください。 そして大学生の場合はペンションをご利用いただけません。 ありがとうございます。",
+    "QA": [
+        {
+            "question": "入室時間について教えてください。",
+            "answer": "22時以降にペンションに入室される場合は事前にご連絡ください。"
+        },
+        {
+            "question": "大学生はペンションを利用できますか？",
+            "answer": "申し訳ございませんが、大学生の方はペンションをご利用いただけません。"
+        }
+    ],
+    "word_Count": {
+        "text": 107,
+        "QA": 72
+    }
+}

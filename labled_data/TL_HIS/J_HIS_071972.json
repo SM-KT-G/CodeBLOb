@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_071972",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=595&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=03230000&ccbaCtcd=31&ccbaCpno=2113103230000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2018-04-30",
+        "domain": "문화/역사관광",
+        "title": "번암선생집"
+    },
+    "text": "番岩先生の家\\n\n京畿道水原市八達区倉龍大路21(梅香洞、ペン·ペン博物館)\\n\n京畿道有形文化財、貞操帯初代火星有数を務めて領議政まで上がったボンアム蔡済恭(チェ・ジェゴン)(蔡濟恭、1720~1799)の詩文集(詩文集)草稿本だ。蔡済恭(チェ・ジェゴン)は、思悼世子チュスン、ヒョンリュンウォンの造成、スウォンウプチ以前、水原華城聖域など、正祖が推進する主要事業を遂行した人物だ。1799年(正祖24)1月に蔡済恭(チェ・ジェゴン)がこの世を去ると、その年の秋に、文人(門人)の丁若鏞(丁若鏞)と李家煥(イ・ガファン)(李家煥)などがユーゴを矯正した。翌年、正祖が蔡済恭(チェ・ジェゴン)の文集編集と刊行に大きな関心を持って直接凡例(凡例)をつけてくれ、文集を編集する基準としせた。計62冊30本のうち、表紙の右上に''巻数(卷首)''と表記された第1本を含めて27冊22本だけを伝えている。...",
+    "QA": [
+        {
+            "question": "この詩文集草稿本は何のために作られたのですか？",
+            "answer": "この詩文集草稿本は、貞操帯初代火星有数を務めて領議政まで上がった蔡済恭（チェ・ジェゴン）の詩文集の草稿本です。"
+        },
+        {
+            "question": "蔡済恭（チェ・ジェゴン）はどのような人物ですか？",
+            "answer": "蔡済恭（チェ・ジェゴン）は思悼世子チュスン、ヒョンリュンウォンの造成、スウォンウプチ以前、水原華城聖域など、正祖が推進する主要事業を遂行した人物です。"
+        },
+        {
+            "question": "蔡済恭（チェ・ジェゴン）の文集は何冊ありますか？",
+            "answer": "蔡済恭（チェ・ジェゴン）の文集は計62冊30本あります。"
+        },
+        {
+            "question": "この詩文集草稿本は何冊ありますか？",
+            "answer": "この詩文集草稿本は27冊22本あります。"
+        },
+        {
+            "question": "文集はいつ編集され、刊行されましたか？",
+            "answer": "文集は翌年に編集され、刊行されました。それ以前に丁若鏞（ティン・ヤクヨン）と李家煥（イ・ガファン）がユーゴを矯正しました。"
+        }
+    ],
+    "word_Count": {
+        "text": 294,
+        "QA": 253
+    }
+}

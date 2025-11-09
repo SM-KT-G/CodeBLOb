@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_022365",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-03",
+        "domain": "음식점",
+        "title": "三橋里元祖ドンチミ混ぜそば ( 삼교리원조동치미막국수 )"
+    },
+    "text": "三橋里元祖ドンチミ混ぜそば ( 삼교리원조동치미막국수 )\\n\n江原道 ガンヌン市 ジュムンジン邑 シンリチョンロ760\\n\nそば粉で作った麺と大根の水キムチを入れた麺料理です。代表的なメニューは混ぜそばです。江原道のガンヌン市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "このレストランの名前は何ですか？",
+            "answer": "三橋里元祖ドンチミ混ぜそば ( 삼교리원조동치미막국수 ) です。"
+        },
+        {
+            "question": "このレストランはどこにありますか？",
+            "answer": "江原道のガンヌン市、ジュムンジン邑のシンリチョンロ760にあります。"
+        },
+        {
+            "question": "どんな料理を提供していますか？",
+            "answer": "そば粉で作った麺と大根の水キムチを入れた麺料理を提供しています。代表的なメニューは混ぜそばです。"
+        }
+    ],
+    "word_Count": {
+        "text": 93,
+        "QA": 119
+    }
+}

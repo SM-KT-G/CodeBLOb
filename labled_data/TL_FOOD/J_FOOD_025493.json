@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_025493",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/insadong-chatjip",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "仁寺洞チャッチプ/茶房"
+    },
+    "text": "仁寺洞チャッチプ/茶房\\n\nソウル市鍾路区寬勲洞 )\\n\n仁寺洞にある韓屋の茶房で、全ての伝統茶は直接沸かして出しています。夏のメニューであるかき氷(ピンス)の小豆も手作りです。",
+    "QA": [
+        {
+            "question": "この茶房はどこにありますか？",
+            "answer": "仁寺洞にあります。"
+        },
+        {
+            "question": "この茶房ではどのようなお茶を提供していますか？",
+            "answer": "伝統的なお茶を直接沸かして提供しています。"
+        },
+        {
+            "question": "夏のメニューには何がありますか？",
+            "answer": "夏のメニューには手作りのかき氷(ピンス)の小豆があります。"
+        },
+        {
+            "question": "この茶房の建物のスタイルはどのようなものですか？",
+            "answer": "この茶房は韓屋と呼ばれる伝統的な韓国の建物スタイルです。"
+        }
+    ],
+    "word_Count": {
+        "text": 65,
+        "QA": 120
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_091124",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1078&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=01770000&ccbaCtcd=31&ccbaCpno=3413101770000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2014-07-08",
+        "domain": "문화/역사관광",
+        "title": "영조어필벼루"
+    },
+    "text": "京畿道文化財資料には英祖(ヨンジョ、1694~1776)が71歳の時、自分の年表を留めた硯がある。硯の裏面には'昨日'と'アピール'という文字がある英祖が直接書いたのであることを知ることができる。硯には英祖の号\"ジャソンさんが、71歳マンパルの年に視力を試験する年表を書く\"という文句があり、以降2~9番目の車両にはガプスルニョンから甲申年まで自分の人生を10年単位で整理して主要の行動を記録した。後尾車両には、文章を建てて書いた時期が書かれている。このスズリは、王と関連された明確な記録を持っていて非常に稀なものだ。また、王の字をそのまま彫ったという点で、その意味は大きい。このスズリは、やや赤色を帯び、文様のない素朴なデザインで、英祖の倹約崇尚とこれを実践した才能を見せてくれる。その大きさは横31.2センチ、縦49.8センチであり、厚さは4.5センチ、重さは17.1キロだ。このスズリは、国内で唯一ように王室硯に指定された文化財である。",
+    "QA": [
+        {
+            "question": "英祖の年表が書かれた硯の裏面には何と書かれていますか？",
+            "answer": "裏面には'昨日'と'アピール'という文字が書かれています。"
+        },
+        {
+            "question": "英祖の号'ジャソンさんが、71歳マンパルの年に視力を試験する年表を書く'という文句が誰によって書かれたものですか？",
+            "answer": "英祖自身によって書かれた文句です。"
+        },
+        {
+            "question": "英祖の年表の記録は何年から何年まで続いていますか？",
+            "answer": "英祖の年表の記録はガプスルニョンから甲申年まで続いています。"
+        },
+        {
+            "question": "英祖の硯には何という王の字が彫られていますか？",
+            "answer": "英祖の硯には、英祖の字が彫られています。"
+        },
+        {
+            "question": "英祖の硯はどのようなデザインですか？",
+            "answer": "英祖の硯はやや赤色を帯び、文様のない素朴なデザインです。"
+        }
+    ],
+    "word_Count": {
+        "text": 308,
+        "QA": 200
+    }
+}

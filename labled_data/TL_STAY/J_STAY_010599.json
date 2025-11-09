@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_010599",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42010&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "용인 YAJA 용인터미널점 운영 정책"
+    },
+    "text": "チェックインは午後10時から可能で、チェックアウトは昼12時まで可能です。 また、ろうそくの使用や風船、ステッカーを壁に貼ることも禁止されています。 また、ペット、ペットの猫のようなペットは予約および入室が絶対できません。 入室に関する詳しいご案内はご用意しております。",
+    "QA": [
+        {
+            "question": "チェックインは何時から可能ですか？",
+            "answer": "チェックインは午後10時から可能です。"
+        },
+        {
+            "question": "チェックアウトは何時まで可能ですか？",
+            "answer": "チェックアウトは昼12時まで可能です。"
+        },
+        {
+            "question": "ろうそくの使用はできますか？",
+            "answer": "ろうそくの使用は禁止されています。"
+        },
+        {
+            "question": "風船やステッカーを壁に貼ることはできますか？",
+            "answer": "風船やステッカーを壁に貼ることは禁止されています。"
+        },
+        {
+            "question": "ペットは宿泊できますか？",
+            "answer": "ペットは予約および入室が絶対できません。"
+        },
+        {
+            "question": "入室に関する詳しいご案内はありますか？",
+            "answer": "入室に関する詳しいご案内はご用意しております。"
+        }
+    ],
+    "word_Count": {
+        "text": 99,
+        "QA": 165
+    }
+}

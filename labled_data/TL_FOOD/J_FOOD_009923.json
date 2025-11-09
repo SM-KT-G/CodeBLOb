@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_009923",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "チュイパン ( 쭈이빵 )"
+    },
+    "text": "チュイパン ( 쭈이빵 )\n済州特別自治道 済州市 連洞7キル 42\n済州で最高のタラバガニコース料理専門店です。代表的なメニューはタラバガニです。済州特別自治道のジェジュ市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "このレストランの場所はどこですか？",
+            "answer": "このレストランは済州特別自治道の済州市連洞7キルにあります。"
+        },
+        {
+            "question": "このレストランの特徴的なメニューは何ですか？",
+            "answer": "このレストランの代表的なメニューはタラバガニです。"
+        },
+        {
+            "question": "このレストランは何に特化していますか？",
+            "answer": "このレストランはタラバガニコース料理に特化しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 73,
+        "QA": 102
+    }
+}

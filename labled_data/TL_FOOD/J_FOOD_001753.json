@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001753",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-01",
+        "domain": "음식점",
+        "title": "IONPARTY 西面 ( 아이온파티 서면 )"
+    },
+    "text": "IONPARTY 西面 ( 아이온파티 서면 )\n釜山広域市 釜山鎮区 西面路 47\nサラリーマンや釜山市民だけでなく、観光客も訪れる店です。様々な韓国料理が味わえる韓国料理ビュッフェです。",
+    "QA": [
+        {
+            "question": "IONPARTY 西面はどこにありますか？",
+            "answer": "IONPARTY 西面は釜山広域市釜山鎮区西面路47にあります。"
+        },
+        {
+            "question": "IONPARTY 西面はどのような店ですか？",
+            "answer": "IONPARTY 西面はサラリーマンや釜山市民だけでなく、観光客も訪れる韓国料理ビュッフェの店です。"
+        },
+        {
+            "question": "IONPARTY 西面では何を味わうことができますか？",
+            "answer": "IONPARTY 西面では様々な韓国料理が味わえます。"
+        }
+    ],
+    "word_Count": {
+        "text": 69,
+        "QA": 131
+    }
+}

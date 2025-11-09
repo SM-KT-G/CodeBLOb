@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_092312",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ja",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2023-01-30",
+        "domain": "문화/역사관광",
+        "title": "와우 주"
+    },
+    "text": "ワウする慶尚北道慶州市路西洞にある。アルパカ、豚、兎、猫、オウムなど日常生活で接すること大変なかわいい動物たちに会うことができる。子供から大人まで家族全員が一緒に楽しむことができる空間だ。ここは慶州(キョンジュ)ICと近い。周辺には慶州(キョンジュ)校村韓屋村、瞻星台などがあり、連携観光に乗り出しやすい。...",
+    "QA": [
+        {
+            "question": "ここはどこにありますか？",
+            "answer": "慶尚北道慶州市路西洞にあります。"
+        },
+        {
+            "question": "どんな動物がいますか？",
+            "answer": "アルパカ、豚、兎、猫、オウムなど、かわいい動物たちがいます。"
+        },
+        {
+            "question": "どんな年齢の人が楽しむことができますか？",
+            "answer": "子供から大人まで家族全員が一緒に楽しむことができる空間です。"
+        },
+        {
+            "question": "周辺には何がありますか？",
+            "answer": "慶州(キョンジュ)校村韓屋村、瞻星台などがあり、連携観光に乗り出しやすいです。"
+        },
+        {
+            "question": "どこに近いですか？",
+            "answer": "慶州(キョンジュ)ICに近いです。"
+        }
+    ],
+    "word_Count": {
+        "text": 114,
+        "QA": 143
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_005844",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-05",
+        "domain": "음식점",
+        "title": "ゴソン混ぜそば ( 고성막국수 )"
+    },
+    "text": "ゴソン混ぜそば ( 고성막국수 )\\n\nソウル特別市 江西区 パンファデロ49ギル6-7\\n\nTVのグルメ番組に紹介されたマッククス(混ぜそば)がおいしい店です。ソウル特別市のガンソ区に位置した韓食専門店です。代表的なメニューは大根の水キムチ混ぜそばです。",
+    "QA": [
+        {
+            "question": "店の名前は何ですか？",
+            "answer": "店の名前はゴソン混ぜそば (고성막국수)です。"
+        },
+        {
+            "question": "店の場所はどこですか？",
+            "answer": "店の場所はソウル特別市江西区パンファデロ49ギル6-7です。"
+        },
+        {
+            "question": "どのような料理がおすすめですか？",
+            "answer": "代表的なメニューは大根の水キムチ混ぜそばです。"
+        },
+        {
+            "question": "この店はどのような特徴がありますか？",
+            "answer": "この店はテレビのグルメ番組に紹介されたことがあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 93,
+        "QA": 115
+    }
+}

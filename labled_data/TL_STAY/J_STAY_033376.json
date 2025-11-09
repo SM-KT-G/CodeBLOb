@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_033376",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.booking.com/hotel/kr/yeoconseutei.ko.html",
+        "collectedDate": "2023-11-17",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "StayReposo"
+    },
+    "text": "StayReposoは西帰浦に位置する宿で、独自の屋外プールと庭園をご提供します。 ゲストは無料Wi-Fiとエアコンを使用して快適な宿泊を楽しむことができます。 城山日出峰とビザ林は宿からそれぞれ10kmと21km離れており、専用駐車場があります。 キッチンには冷蔵庫、電子レンジ、やかんなどが備えられています。 また、薄型テレビもあり、快適な時間を過ごすことができます。 周辺にはベンディ窟やヒュエリ自然生活公園などの観光名所があります。 済州国際空港までは約45kmの距離で、StayReposoは西帰浦の中心部から約34km離れています。 チェックインは16:00から可能で、チェックアウトは11:00までです。",
+    "QA": [
+        {
+            "question": "StayReposoはどこに位置していますか？",
+            "answer": "StayReposoは西帰浦に位置しています。"
+        },
+        {
+            "question": "StayReposoはどのような設備を提供していますか？",
+            "answer": "StayReposoは屋外プールと庭園を提供しています。また、無料Wi-Fiとエアコンもあります。"
+        },
+        {
+            "question": "StayReposoの近くにはどのような観光名所がありますか？",
+            "answer": "StayReposoの近くには城山日出峰やビザ林などの観光名所があります。"
+        },
+        {
+            "question": "StayReposoのキッチンにはどのような設備がありますか？",
+            "answer": "StayReposoのキッチンには冷蔵庫、電子レンジ、やかんなどが備えられています。"
+        },
+        {
+            "question": "StayReposoはどれくらいの距離に位置していますか？",
+            "answer": "StayReposoは西帰浦の中心部から約34km離れています。"
+        }
+    ],
+    "word_Count": {
+        "text": 226,
+        "QA": 238
+    }
+}

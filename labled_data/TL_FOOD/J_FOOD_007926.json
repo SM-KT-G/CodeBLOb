@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_007926",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "スイジェ1928（수이재1928）"
+    },
+    "text": "スイジェ1928（수이재1928）\\n\n忠清北道 清州市 興徳区 直指大路 308\\n\n忠淸北道のチョンジュ市に位置したプルゴギ専門店です。おすすめは韓牛プルゴギです。韓国伝統スタイルのインテリアです。",
+    "QA": [
+        {
+            "question": "このプルゴギ専門店はどこにありますか？",
+            "answer": "スイジェ1928は忠清北道清州市興徳区直指大路308に位置しています。"
+        },
+        {
+            "question": "このプルゴギ専門店のおすすめメニューは何ですか？",
+            "answer": "おすすめは韓牛プルゴギです。"
+        },
+        {
+            "question": "このプルゴギ専門店のインテリアはどのようなスタイルですか？",
+            "answer": "韓国伝統スタイルのインテリアです。"
+        }
+    ],
+    "word_Count": {
+        "text": 74,
+        "QA": 101
+    }
+}

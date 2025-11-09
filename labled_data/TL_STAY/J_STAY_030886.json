@@ -1,0 +1,55 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_030886",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42080&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "강릉관광호텔 운영 정책"
+    },
+    "text": "チェックイン時間は午後3時以降です。 チェックアウト時間は午前11時以前です。 歯ブラシと歯磨き粉は無料で提供します。 ビジネスセンターやラウンジも利用可能で、ノートパソコンのレンタルも無料です。 駐車場とWi-Fiも無料です。 追加費用は当日現地にてお支払いいただく必要があります。 ただし、Design Hotelの特性上、客室の割り当ては写真と異なるテーマである可能性があります。",
+    "QA": [
+        {
+            "question": "チェックインは何時からですか？",
+            "answer": "チェックイン時間は午後3時以降です。"
+        },
+        {
+            "question": "チェックアウトは何時までですか？",
+            "answer": "チェックアウト時間は午前11時以前です。"
+        },
+        {
+            "question": "歯ブラシと歯磨き粉は提供していますか？",
+            "answer": "はい、歯ブラシと歯磨き粉は無料で提供します。"
+        },
+        {
+            "question": "ビジネスセンターやラウンジは利用できますか？",
+            "answer": "はい、ビジネスセンターやラウンジも利用可能です。"
+        },
+        {
+            "question": "ノートパソコンのレンタルは可能ですか？",
+            "answer": "はい、ノートパソコンのレンタルも無料です。"
+        },
+        {
+            "question": "駐車場とWi-Fiは無料ですか？",
+            "answer": "はい、駐車場とWi-Fiも無料です。"
+        },
+        {
+            "question": "追加費用はどのように支払いますか？",
+            "answer": "追加費用は当日現地にてお支払いいただく必要があります。"
+        },
+        {
+            "question": "客室のテーマは写真と同じですか？",
+            "answer": "Design Hotelの特性上、客室の割り当ては写真と異なるテーマである可能性があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 141,
+        "QA": 246
+    }
+}

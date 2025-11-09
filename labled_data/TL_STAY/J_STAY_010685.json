@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_010685",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42011&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "인천호텔 에어스테이 운영 정책"
+    },
+    "text": "チェックインは午後1時以降で可能で、チェックアウトは午前12時までです。 保護者同伴の児童は8歳未満なら無料で宿泊可能であり、人数追加時に1人当たり10,000ウォンの費用がかかります。 ファックスとコピー機が利用でき、無料Wi-Fiも提供されます。 すべての追加費用は当日、現地にてお支払いいただくことになります。",
+    "QA": [
+        {
+            "question": "チェックインとチェックアウトの時間は何時から何時までですか？",
+            "answer": "チェックインは午後1時以降で可能で、チェックアウトは午前12時までです。"
+        },
+        {
+            "question": "8歳未満の児童は無料で宿泊できますか？",
+            "answer": "はい、保護者同伴の児童は8歳未満なら無料で宿泊可能です。"
+        },
+        {
+            "question": "人数を追加した場合の追加費用はいくらですか？",
+            "answer": "人数追加時に1人当たり10,000ウォンの費用がかかります。"
+        },
+        {
+            "question": "ファックスやコピー機は利用できますか？",
+            "answer": "はい、ファックスとコピー機が利用できます。"
+        },
+        {
+            "question": "無料Wi-Fiは提供されますか？",
+            "answer": "はい、無料Wi-Fiも提供されます。"
+        },
+        {
+            "question": "追加費用はいつ支払う必要がありますか？",
+            "answer": "すべての追加費用は当日、現地にてお支払いいただくことになります。"
+        }
+    ],
+    "word_Count": {
+        "text": 115,
+        "QA": 212
+    }
+}

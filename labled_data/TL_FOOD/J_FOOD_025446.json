@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_025446",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-01",
+        "domain": "음식점",
+        "title": "異斯夫韓方サムゲタン 佛堂 ( 이사부한방삼계탕 불당 )"
+    },
+    "text": "異斯夫韓方サムゲタン 佛堂 ( 이사부한방삼계탕 불당 )\\n\n忠清南道 天安市 西北区 仏堂16キル 11\\n\n韓国の滋養食の一つであるサムゲタンに、韓方スープを使用しているお店です。おすすめはコウタケ入りサムゲタンです。この店は忠淸南道のチョンアン市に位置したサムゲタン専門店です。",
+    "QA": [
+        {
+            "question": "このお店はどこにありますか？",
+            "answer": "このお店は韓国の忠清南道天安市西北区仏堂16キル11にあります。"
+        },
+        {
+            "question": "このお店の特徴は何ですか？",
+            "answer": "このお店の特徴は、韓方スープを使用したサムゲタンを提供していることです。"
+        },
+        {
+            "question": "おすすめのメニューはありますか？",
+            "answer": "おすすめのメニューはコウタケ入りサムゲタンです。"
+        },
+        {
+            "question": "このお店はどんな種類の食材を使用していますか？",
+            "answer": "このお店ではサムゲタンに韓方スープを使用しており、コウタケも入っています。"
+        }
+    ],
+    "word_Count": {
+        "text": 104,
+        "QA": 143
+    }
+}

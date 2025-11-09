@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_087147",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=336&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=17&ccbaAsno=01270000&ccbaCtcd=38&ccbaCpno=1273801270000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2023-11-03",
+        "domain": "문화/역사관광",
+        "title": "아랫녘 수륙재"
+    },
+    "text": "国家無形文化財である水陸測る朝鮮時代からすべての水陸の鬼遷都をために実施された仏教儀式例です。イシクリェは『朝鮮王朝実録』にも記録されており、歴史性と芸術性に優れ、個人的な遷都の特性を持った霊山斎とは違って大衆的な性格が強調されています。水陸測るナッジェとバムジェのハプソルという特異な儀礼を持っており、特殊性を持っています。特に、慶尚南道地方から伝わってきた梵唄の連続性を受け継ぎ、儀礼と音楽的な面で、同地域の地域性を内包している価値が大きいです。",
+    "QA": [
+        {
+            "question": "何がイシクリェとは関係がありますか？",
+            "answer": "イシクリェは朝鮮時代の水陸を祈る仏教儀式であり、朝鮮王朝実録にも記録されています。"
+        },
+        {
+            "question": "イシクリェにはどのような特異な儀礼が含まれていますか？",
+            "answer": "イシクリェには水陸測るナッジェとバムジェのハプソルという特異な儀礼が含まれており、特殊性を持っています。"
+        },
+        {
+            "question": "どのような価値がイシクリェに内包されていますか？",
+            "answer": "イシクリェは梵唄の連続性を受け継ぎ、地域性を内包しているため、特に慶尚南道地方の地域性を大きく反映しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 165,
+        "QA": 159
+    }
+}

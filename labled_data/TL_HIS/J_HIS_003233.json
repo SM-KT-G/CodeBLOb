@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_003233",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1192&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=79&ccbaAsno=00110000&ccbaCtcd=11&ccbaCpno=4411100110000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2002-05-31",
+        "domain": "문화/역사관광",
+        "title": "서울 구 국회의사당"
+    },
+    "text": "ソウル区国会議事堂 (서울 구 국회의사당)\\n\nソウル中区世宗大路125(テピョンロ1街)\\n\n1935 , 国家登録文化財 , この建物は1935年に京城府公演場として建設された公演施設建物で、1954年に国会議事堂として使われ、現在ソウル市議会建物として使われている。定礎には建物建設当時、京城府尹だった日本人伊達四雄が書いたものと確認される「定休昭和十年六月一日伊達四雄」の記録が残っており、日本が韓国を侵奪した辛い歴史を証言している。地下1階地上3階の鉄筋コンクリート造建物として、前面の一部を塔式に高め権威性·象徴性を強調したものが見られる。",
+    "QA": [
+        {
+            "question": "この建物はいつ建てられましたか？",
+            "answer": "この建物は1935年に建てられました。"
+        },
+        {
+            "question": "この建物は何のために使われていましたか？",
+            "answer": "建てられた当初は京城府公演場として使われていました。"
+        },
+        {
+            "question": "1954年から現在までこの建物は何に使われていますか？",
+            "answer": "1954年から現在まで、この建物は国会議事堂として使われています。"
+        },
+        {
+            "question": "この建物の定礎にはどんな記録が残っていますか？",
+            "answer": "建物建設当時、京城府尹だった日本人伊達四雄が書いた「定休昭和十年六月一日伊達四雄」という記録が残っています。"
+        },
+        {
+            "question": "この建物の建築様式は何ですか？",
+            "answer": "この建物は地下1階地上3階の鉄筋コンクリート造建物で、前面の一部を塔式に高め権威性·象徴性を強調した建築様式です。"
+        }
+    ],
+    "word_Count": {
+        "text": 203,
+        "QA": 212
+    }
+}

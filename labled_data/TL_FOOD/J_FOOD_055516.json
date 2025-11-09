@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_055516",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "ヒョクシンヘジャングク（혁신해장국）"
+    },
+    "text": "ヒョクシンヘジャングク（혁신해장국）\\n\n江原道 原州市 健康路 25\\n\n江原道のウォンジュ市に位置した韓食です。各種韓国風へジャンク(酔い覚ましスープ)を味わうことができます。代表的なメニューは豚の背骨酔い覚ましスープです。",
+    "QA": [
+        {
+            "question": "ヒョクシンヘジャングクはどこに位置していますか？",
+            "answer": "ヒョクシンヘジャングクは江原道のウォンジュ市に位置しています。"
+        },
+        {
+            "question": "ヒョクシンヘジャングクの代表的なメニューは何ですか？",
+            "answer": "ヒョクシンヘジャングクの代表的なメニューは豚の背骨酔い覚ましスープです。"
+        },
+        {
+            "question": "ヒョクシンヘジャングクの味はどうですか？",
+            "answer": "ヒョクシンヘジャングクでは各種韓国風へジャンク(酔い覚ましスープ)を味わうことができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 83,
+        "QA": 133
+    }
+}

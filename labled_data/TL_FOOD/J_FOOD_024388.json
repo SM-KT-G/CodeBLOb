@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_024388",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-06",
+        "domain": "음식점",
+        "title": "悦賓 ( 열빈 )"
+    },
+    "text": "悦賓 ( 열빈 )\\n\nソウル特別市 永登浦区 ククジェグムユンロ78\\n\n1978年から運営している店舗、広い空間を完備しています。代表的なメニューはユニジャージャー麺です。ソウル特別市のヨンドゥンポ区に位置した中華専門店です。",
+    "QA": [
+        {
+            "question": "悦賓はどこに位置していますか？",
+            "answer": "悦賓はソウル特別市のヨンドゥンポ区に位置しています。"
+        },
+        {
+            "question": "悦賓が提供しているメニューは何ですか？",
+            "answer": "悦賓の代表的なメニューはユニジャージャー麺です。"
+        },
+        {
+            "question": "悦賓はいつから運営されていますか？",
+            "answer": "悦賓は1978年から運営されています。"
+        },
+        {
+            "question": "悦賓の店舗はどのような空間ですか？",
+            "answer": "悦賓の店舗は広い空間を完備しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 84,
+        "QA": 114
+    }
+}

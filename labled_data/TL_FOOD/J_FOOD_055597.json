@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_055597",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "ミョンヒネ飲食店（명희네 음식점）"
+    },
+    "text": "ミョンヒネ飲食店（명희네 음식점）\\n\n全羅南道 長興郡 長興邑 土曜市場2キル 3-6\\n\n全羅南道のジャンフン郡に位置した韓食です。三合(サムハプ)は全羅道地域の代表料理で、3種類のものを一緒にいただく料理です。代表的なメニューはサムハプです。",
+    "QA": [
+        {
+            "question": "ミョンヒネ飲食店はどこにありますか？",
+            "answer": "ミョンヒネ飲食店は全羅南道の長興郡に位置しています。"
+        },
+        {
+            "question": "ミョンヒネ飲食店の特徴的な料理は何ですか？",
+            "answer": "ミョンヒネ飲食店の代表的な料理はサムハプです。"
+        },
+        {
+            "question": "サムハプとはどのような料理ですか？",
+            "answer": "サムハプは全羅道地域の代表料理で、3種類のものを一緒にいただく料理です。"
+        }
+    ],
+    "word_Count": {
+        "text": 90,
+        "QA": 103
+    }
+}

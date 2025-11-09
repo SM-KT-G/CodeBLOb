@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_036911",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=842&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=01010000&ccbaCtcd=38&ccbaCpno=2333801010000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1990-12-20",
+        "domain": "문화/역사관광",
+        "title": "의령 호미산성"
+    },
+    "text": "宜寧虎尾山城 (의령 호미산성)\\n\n慶尚南道宜寧郡正谷面竹田里51-1、51-2\\n\n慶尚南道記念物、宜寧郡正谷面竹田里にある虎尾山の頂上部に約200mほどの土で積み上げた城の跡が残っている。 この山城を築いた時期は正確には分からないが、宜寧邑下里壁画山にある壁画山城と似た時期に積み上げたものと推定される。 この山城は壬辰倭乱の時の義兵長である忘憂堂クァク·ジェウ(1552~1617)将軍の戦績地の一つであり、虎尾山は山の形が虎の尻尾に似ていると言って得た名前だ。",
+    "QA": [
+        {
+            "question": "宜寧虎尾山城はどこにありますか？",
+            "answer": "宜寧虎尾山城は慶尚南道宜寧郡正谷面竹田里にあります。"
+        },
+        {
+            "question": "宜寧虎尾山城は何で作られていますか？",
+            "answer": "宜寧虎尾山城は約200mほどの土で積み上げられています。"
+        },
+        {
+            "question": "宜寧虎尾山城はいつ築かれましたか？",
+            "answer": "宜寧虎尾山城の築かれた時期は正確には分かりませんが、壬辰倭乱時の義兵長である忘憂堂クァク・ジェウ将軍の戦績地の一つです。"
+        },
+        {
+            "question": "宜寧虎尾山城の名前の由来は何ですか？",
+            "answer": "宜寧虎尾山城の名前は、山の形が虎の尻尾に似ていると言われることから得た名前です。"
+        }
+    ],
+    "word_Count": {
+        "text": 172,
+        "QA": 163
+    }
+}

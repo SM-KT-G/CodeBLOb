@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_002027",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2020-11-25",
+        "domain": "음식점",
+        "title": "QooQoo( 쿠우쿠우 명동 )"
+    },
+    "text": "QooQoo( 쿠우쿠우 명동 )\\n\nソウル特別市 中区 明洞キル 55\\n\n様々な種類のすしとサラダを提供する店です。代表的なメニューは寿司です。ソウル特別市の中区に位置した和食専門店です。",
+    "QA": [
+        {
+            "question": "QooQoo(クウクウ)とはどんなお店ですか？",
+            "answer": "QooQoo(クウクウ)はソウル特別市中区明洞に位置する和食専門店で、様々な種類の寿司とサラダを提供しています。"
+        },
+        {
+            "question": "QooQoo(クウクウ)の代表的なメニューは何ですか？",
+            "answer": "QooQoo(クウクウ)の代表的なメニューは寿司です。"
+        },
+        {
+            "question": "QooQoo(クウクウ)はどこにありますか？",
+            "answer": "QooQoo(クウクウ)はソウル特別市中区明洞キル55にあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 71,
+        "QA": 137
+    }
+}

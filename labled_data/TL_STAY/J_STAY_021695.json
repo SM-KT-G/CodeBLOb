@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_021695",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2019-11-12",
+        "domain": "숙박",
+        "title": "聞慶観光ホテル（문경관광호텔）"
+    },
+    "text": "聞慶観光ホテル（문경관광호텔）\\n\n慶尚北道 聞慶市 聞慶邑 セジェ2キル32-11\\n\n「聞慶（ムンギョン）観光ホテル」は、聞慶セジェ道立公園内に位置し、主屹山などの優れた自然環境を前に、新鮮な空気と静かで快適な施設が備えられたホテルです。KBSドラマ『太祖王建』の撮影チームやタレントも利用した所です。",
+    "QA": [
+        {
+            "question": "このホテルはどこに位置していますか？",
+            "answer": "聞慶セジェ道立公園内に位置しています。"
+        },
+        {
+            "question": "このホテルはどのような自然環境の前にありますか？",
+            "answer": "主屹山などの優れた自然環境を前にしています。"
+        },
+        {
+            "question": "このホテルの特徴は何ですか？",
+            "answer": "新鮮な空気と静かで快適な施設が備えられています。"
+        },
+        {
+            "question": "どのような人々がこのホテルを利用することがありますか？",
+            "answer": "KBSドラマ『太祖王建』の撮影チームやタレントも利用することがあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 112,
+        "QA": 134
+    }
+}

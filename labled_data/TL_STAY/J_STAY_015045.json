@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_015045",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://yeyak.daegu.go.kr/yeyak/camp/campListView.do",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "ドハックキャンプ場"
+    },
+    "text": "ドハックキャンプ場\\n\n大邱広域市東区八公山路237キル47\\n\n八公山にあるキャンプ場で、八公山の綺麗な空気、自然の中でキャンプを楽しめます。 道路沿いに位置しており、アクセスも便利です。",
+    "QA": [
+        {
+            "question": "キャンプ場の名前は何ですか？",
+            "answer": "ドハックキャンプ場"
+        },
+        {
+            "question": "キャンプ場はどこにありますか？",
+            "answer": "大邱広域市東区八公山路237キル47"
+        },
+        {
+            "question": "キャンプ場の特徴は何ですか？",
+            "answer": "八公山の綺麗な空気、自然の中でキャンプを楽しめます。"
+        },
+        {
+            "question": "キャンプ場のアクセスはどうですか？",
+            "answer": "道路沿いに位置しており、アクセスも便利です。"
+        }
+    ],
+    "word_Count": {
+        "text": 69,
+        "QA": 99
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_016525",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2020-03-25",
+        "domain": "숙박",
+        "title": "ホテルインターナショナル（호텔인터내셔널）"
+    },
+    "text": "ホテルインターナショナル（호텔인터내셔널）\\n\n慶尚南道 昌原市 城山区 中央大路69\\n\n「ホテルインターナショナル（HOTEL INTERNATIONAL）」は、1989年に国際ホテルという名称でオープンし、1997年にリニューアルしました。地下4階、地上9階建てで、慶尚南道で最大規模のコンベンションホールやレストラン、サウナなど、各種の施設を有しています。",
+    "QA": [
+        {
+            "question": "このホテルはいつオープンしましたか？",
+            "answer": "1989年に国際ホテルという名称でオープンしました。"
+        },
+        {
+            "question": "このホテルはどのような施設を有していますか？",
+            "answer": "地下4階、地上9階建てで、慶尚南道で最大規模のコンベンションホールやレストラン、サウナなど、各種の施設を有しています。"
+        },
+        {
+            "question": "このホテルの所在地はどこですか？",
+            "answer": "慶尚南道 昌原市 城山区 中央大路69にあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 133,
+        "QA": 121
+    }
+}

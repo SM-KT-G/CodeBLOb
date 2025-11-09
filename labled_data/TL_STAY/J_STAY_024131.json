@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_024131",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/goods/GN0002025562?startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0%5E&npprmaxsort=min",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "서산 알레호텔"
+    },
+    "text": "施設案内:大型駐車場完備、テラスルーム完備 客室:Wi-Fi提供、テラスルーム完備サービス:1階ロビーのスナックバーでヤノルジャ会員であることをお知らせください 会員特典:提携店内規に従って適用されます。",
+    "QA": [
+        {
+            "question": "施設はどのような設備を完備していますか？",
+            "answer": "大型駐車場とテラスルームが完備されています。"
+        },
+        {
+            "question": "客室ではどのようなサービスが提供されていますか？",
+            "answer": "Wi-Fiが提供されており、またテラスルームも完備されています。"
+        },
+        {
+            "question": "どのような特典がヤノルジャ会員にありますか？",
+            "answer": "提携店内の規定に従って特典が適用されます。"
+        }
+    ],
+    "word_Count": {
+        "text": 74,
+        "QA": 103
+    }
+}

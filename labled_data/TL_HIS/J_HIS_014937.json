@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_014937",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=591&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=03150000&ccbaCtcd=37&ccbaCpno=2113703150000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1999-12-30",
+        "domain": "문화/역사관광",
+        "title": "예천청주정씨재실"
+    },
+    "text": "醴泉清州鄭氏斎室 (예천청주정씨재실)\\n\n慶尚北道醴泉郡虎鳴面本里14-2番地\\n\n慶尚北道有形文化財 , 朝鮮中期の文臣であるチョンタク(1526~1605)を称えて祭祀を行う場所である。 チョンタクは明宗から宣祖の時までの人で、壬辰倭乱の時に大きな功績を立て、獄中にいるイ·スンシン将軍の命を救った有名なエピソードを持っている。 死後、醴泉の道政書院に祀られ、子孫たちが建てた今の建物に移された。 斎室と門からなっている。 斎室は前面5間·側面3間のコ字型になっている。 デムンチェは側面1間で一字型であり、馬小屋·古坊·精米所などがある。 斎室の大庁の裏壁にある永双窓は、この建物が17世紀に建てられたことを示している。",
+    "QA": [
+        {
+            "question": "この斎室は何のために使われていましたか？",
+            "answer": "この斎室は、朝鮮中期の文臣であるチョンタクを称えて祭祀を行う場所として使われていました。"
+        },
+        {
+            "question": "チョンタクはどのような功績を立てましたか？",
+            "answer": "チョンタクは壬辰倭乱の時に大きな功績を立て、獄中にいるイ·スンシン将軍の命を救った有名なエピソードを持っています。"
+        },
+        {
+            "question": "この建物はいつ建てられましたか？",
+            "answer": "この建物は17世紀に建てられました。斎室の大庁の裏壁にある永双窓が、その時代の建築を示しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 230,
+        "QA": 151
+    }
+}

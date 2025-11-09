@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_057297",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=411&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=00470000&ccbaCtcd=35&ccbaCpno=2113500470000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1974-09-27",
+        "domain": "문화/역사관광",
+        "title": "낙동리석조여래입상"
+    },
+    "text": "洛東里ソクチョヨレイプサン\\n\n全羅北道南原市周生面洛東里山15-6番地\\n\n全羅北道有形文化財、全羅北道南原のナクドンリ、寺跡と推定される山に位置しているが、膝の下が埋め立てられていたことを近年発掘した。仏像が置かれた台座(臺座)の下台石において光背の端までの高さは2.4mだ。頭部の上で髷の形の頭の束が大大として、顔は摩耗がひどくていないが、柔和な印象を漂わせる。両肩を抱いた服は胸の前で平行を描きながら膝まで降りてきており、両腕にかかった裾も橋の左右に長く降りている。手の形は左手を胸の高さで持っていて、右手は船の前で曲げているが、指の形をうかがうことは難しい。仏の体から出る光を形象化した光背(光背)は船(舟)形であり、正面に花柄を刻んだ。モリグヮンベとモムグヮンついた2本の線で表現しているが、内側には花模様を外には花火の形を留めている。この仏像は南原万福死地石佛立像(宝物第43号)と手口が似ていると見て、高麗初期の作品と推定される。",
+    "QA": [
+        {
+            "question": "この仏像はどこに位置していますか？",
+            "answer": "この仏像は全羅北道南原市周生面洛東里山15-6番地に位置しています。"
+        },
+        {
+            "question": "この仏像の高さは何メートルですか？",
+            "answer": "この仏像の高さは2.4メートルです。"
+        },
+        {
+            "question": "この仏像はどの時代の作品と推定されていますか？",
+            "answer": "この仏像は高麗初期の作品と推定されています。"
+        },
+        {
+            "question": "この仏像の光背はどのような形をしていますか？",
+            "answer": "この仏像の光背は船形であり、正面に花柄が刻まれています。"
+        },
+        {
+            "question": "この仏像の手の形はどのような形をしていますか？",
+            "answer": "この仏像の左手は胸の高さで持っており、右手は船の前で曲げています。指の形は確認するのが難しいです。"
+        }
+    ],
+    "word_Count": {
+        "text": 310,
+        "QA": 185
+    }
+}

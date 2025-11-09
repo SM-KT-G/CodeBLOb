@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_017223",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1207&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=79&ccbaAsno=02040000&ccbaCtcd=38&ccbaCpno=4413802040000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2005-09-14",
+        "domain": "문화/역사관광",
+        "title": "밀양 상동터널"
+    },
+    "text": "密陽上東トンネル (밀양 상동터널)\\n\n慶尚南道密陽市上東面安仁里1611-19番地外1筆地、上東面玉山里88-2\\n\n1905年以前 , 国家登録文化財 , 1905年頃に建設されたこの施設は長さがそれぞれ40m、60mのトンネルで、京釜線開通(1905年)のために建設された。 しかし1960年代初め、京釜線鉄道路線が変更され、床の鉄路の位置をコンクリートで舗装し、今は自動車と歩行者用トンネルとして利用されている。 1905年以前に建設されたにもかかわらず長さが非常に長い半円形天井を形成し、下は石で上はレンガで積むなど当時としては非常にレベルの高い建築技術で作られた。",
+    "QA": [
+        {
+            "question": "このトンネルはどのように建設されましたか？",
+            "answer": "1905年頃に建設されたこの施設は長さがそれぞれ40m、60mのトンネルで、京釜線開通(1905年)のために建設されました。当時の建築技術を駆使し、半円形の天井を石で積み、上部はレンガで作られました。"
+        },
+        {
+            "question": "このトンネルは何のために使われていましたか？",
+            "answer": "元々は京釜線の鉄道路線として利用されていましたが、後に1960年代初めに路線変更され、現在は自動車と歩行者用のトンネルとして利用されています。"
+        },
+        {
+            "question": "このトンネルはどのような形状をしていますか？",
+            "answer": "このトンネルは長さが40mと60mの2つの部分から構成されており、半円形の天井を持っています。"
+        },
+        {
+            "question": "このトンネルはどのような場所にありますか？",
+            "answer": "このトンネルは韓国の慶尚南道密陽市上東面安仁里と玉山里の間に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 211,
+        "QA": 250
+    }
+}

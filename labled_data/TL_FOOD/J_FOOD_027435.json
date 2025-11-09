@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_027435",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-10-28",
+        "domain": "음식점",
+        "title": "姫路（히메지）"
+    },
+    "text": "姫路（히메지）\\n\nソウル特別市 麻浦区 ソンミ山路198\\n\n姫路はソウル特別市麻浦区延南洞（ヨンナムドン）にある日本の家庭料理を提供する食堂です。カレーライス、カレーうどんなど、さまざまな料理を味わえます。",
+    "QA": [
+        {
+            "question": "姫路はどこにありますか？",
+            "answer": "姫路はソウル特別市麻浦区延南洞にあります。"
+        },
+        {
+            "question": "姫路ではどのような料理を提供していますか？",
+            "answer": "姫路ではカレーライスやカレーうどんなど、さまざまな料理を提供しています。"
+        },
+        {
+            "question": "姫路の営業時間は何時から何時までですか？",
+            "answer": "姫路の営業時間は11時から21時までです。"
+        },
+        {
+            "question": "姫路の住所は何ですか？",
+            "answer": "姫路の住所はソウル特別市麻浦区ソンミ山路198です。"
+        },
+        {
+            "question": "姫路では予約が必要ですか？",
+            "answer": "姫路では予約は必要ありませんが、混雑時は待ち時間が発生することがあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 77,
+        "QA": 159
+    }
+}

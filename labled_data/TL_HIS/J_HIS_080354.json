@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_080354",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=42&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=01430000&ccbaCtcd=34&ccbaCpno=1123401430000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1963-01-21",
+        "domain": "문화/역사관광",
+        "title": "서산 개심사 대웅전"
+    },
+    "text": "朝鮮成宗(ソンジョン)15年(1484)にゲシムサが建てられたという記録が宝寺の記録に残っている。この記録はゲシムサを新羅真徳女王5年と百済の義慈王14年にそれぞれなったことを言及しているが、これは他の年に該当する。実際には百済の義慈王14年(654)ヒェガム、国史がゲシムサを建てた話が伝えられている。1941年、大雄殿が解体され、発見された記録ではゲシムサが朝鮮成宗(ソンジョン)15年に修正されていることを確認することができる。現在ゲシムサ、大雄殿は見直される前の姿をほぼそのまま維持している。建物は前面3間、側面3間の規模を持ち、屋根は人因子を作った切妻屋根となっている。軒を支える恐怖は柱の上だけでなく、柱の間にもあるダポ様式で構成されている。この建物は朝鮮(チョソン)前期の代表的な主審哺養式建物である康津無為寺極楽殿と対比される重要な建物である。",
+    "QA": [
+        {
+            "question": "ゲシムサが建てられたのはいつですか？",
+            "answer": "ゲシムサは朝鮮成宗(ソンジョン)15年(1484)に建てられました。"
+        },
+        {
+            "question": "ゲシムサの建物の規模はどのようになっていますか？",
+            "answer": "ゲシムサの建物は前面3間、側面3間の規模を持っています。"
+        },
+        {
+            "question": "ゲシムサの屋根の形は何ですか？",
+            "answer": "ゲシムサの屋根は人因子を作った切妻屋根となっています。"
+        },
+        {
+            "question": "ゲシムサの建物の構造にはどのような特徴がありますか？",
+            "answer": "ゲシムサの建物の構造はダポ様式で構成されており、軒を支える柱の上だけでなく、柱の間にも恐怖があります。"
+        },
+        {
+            "question": "ゲシムサと康津無為寺極楽殿の関係は何ですか？",
+            "answer": "ゲシムサは朝鮮前期の代表的な主審哺養式建物である康津無為寺極楽殿と対比される重要な建物です。"
+        }
+    ],
+    "word_Count": {
+        "text": 278,
+        "QA": 213
+    }
+}

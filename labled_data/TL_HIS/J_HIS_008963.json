@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_008963",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1009&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=00620000&ccbaCtcd=22&ccbaCpno=3412200620000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1989-05-29",
+        "domain": "문화/역사관광",
+        "title": "광석재"
+    },
+    "text": "鉱石材 (광석재)\\n\n大邱広域市\\n\n朝鮮時代 , 大邱広域市文化財資料 , 斎室は祭祀を行うために先祖の墓所または祠堂の近くに建てた家だ。 一般的に斎室の近くには先祖の墓である善山と門中の先祖を祀った宗山、墓で過ごす祭祀の費用を用意するために耕作していた田畑である位土がある。 斎室には墓守、または山守が住んでいる。 光石斎は高麗後期の忠臣であるイ·リョとその曾孫である義城の代表的な学者イ·セヒョンを祀るために子孫イ·ジョンギが17世紀に建てた。 李麗は高麗が滅びると、一生を二門不出で過ごした忠臣に名前まで麗に変えた。 入る正面には1間幅の広い階段があり、全体的にロ字型構造だ。斎室裏の丘の上には祠堂である慕徳寺と永川李氏の始祖を祭祀する壇がある。 現在、広徳寺境内には彼らの位牌を祀った慕徳寺の前に1982年に建てた管理寺がある。 地形を利用したㄷ字型の平面、屋根を支える仕組みと屋根の形は朝鮮後期の斎室建築を理解する上で重要な資料だ。",
+    "QA": [
+        {
+            "question": "この斎室はどのような目的で建てられたのですか？",
+            "answer": "斎室は祭祀を行うために先祖の墓所または祠堂の近くに建てられました。"
+        },
+        {
+            "question": "斎室の近くにはどのようなものがありますか？",
+            "answer": "斎室の近くには先祖の墓の善山や宗山、そして位土と呼ばれる田畑があります。"
+        },
+        {
+            "question": "光石斎はどのような人物を祀るために建てられたのですか？",
+            "answer": "光石斎は高麗後期の忠臣であるイ・リョとその曾孫である義城の代表的な学者イ・セヒョンを祀るために建てられました。"
+        },
+        {
+            "question": "斎室の建築様式はどのような特徴がありますか？",
+            "answer": "斎室は地形を利用したㄷ字型の平面と、朝鮮後期の斎室建築の特徴である屋根の形を持っています。"
+        },
+        {
+            "question": "斎室の裏にある丘には何がありますか？",
+            "answer": "斎室の裏の丘には祠堂である慕徳寺と永川李氏の始祖を祭祀する壇があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 310,
+        "QA": 231
+    }
+}

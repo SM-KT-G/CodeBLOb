@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_089167",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=466&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=01190000&ccbaCtcd=38&ccbaCpno=2113801190000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1979-05-02",
+        "domain": "문화/역사관광",
+        "title": "양산 안적암 대웅전"
+    },
+    "text": "慶尚南道有形文化財、遠積山の稜線の上にある朝鮮時代の庵で、内院寺渓谷にあったという89庵の一つです。善徳女王15年(646)に元暁大師が建て、仁祖24年(1646)に永興大師が建て直しました。その後、数回の修理を経て今日に至っています。法堂の扁額は大雄殿となっており、前面6間·側面3間の規模です。屋根は側面が八の字型の入母屋造りで、柱の上から屋根軒を支える空砲が柱の上だけにある柱心砲様式の建物です",
+    "QA": [
+        {
+            "question": "この庵はいつ建てられましたか？",
+            "answer": "元暁大師が善徳女王15年(646)に建てました。"
+        },
+        {
+            "question": "この庵はどこに位置していますか？",
+            "answer": "この庵は慶尚南道に位置し、遠積山の稜線の上にあります。"
+        },
+        {
+            "question": "この庵の修理歴はありますか？",
+            "answer": "仁祖24年(1646)に永興大師が建て直し、その後も数回の修理を経て今日に至っています。"
+        },
+        {
+            "question": "この庵の法堂の扁額は何と書かれていますか？",
+            "answer": "法堂の扁額は「大雄殿」となっております。"
+        },
+        {
+            "question": "この庵の屋根の造りはどのような形ですか？",
+            "answer": "屋根は側面が八の字型の入母屋造りで、柱の上から屋根軒を支える空砲が柱の上だけにある柱心砲様式の建物です。"
+        }
+    ],
+    "word_Count": {
+        "text": 146,
+        "QA": 185
+    }
+}

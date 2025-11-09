@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_010738",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=375&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=00120000&ccbaCtcd=50&ccbaCpno=2113900120000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1991-06-04",
+        "domain": "문화/역사관광",
+        "title": "급제선생안"
+    },
+    "text": "及第先生案 (급제선생안)\\n\n済州市三成路22(イドイル洞)\\n\n済州特別自治道有形文化財 , 朝鮮時代、武科に及第した人の名前を記録した名簿だ。 粛宗46年(1720年)にキム·ヨガン、キム·ウチョン、ヤン·ユソンなどによって初めて作られた。 内容は序文、節目、名簿の順に記録されている。 序文は孝宗9年(1658)に武術坊(科挙合格者としてまだ任官されていない人)出身のイ·ギバルが書き、名簿は明宗13年(1558)武五坊から計338人の及第した人の名前と及第1年の干支が記録されている。 また、名簿は後代に進むにつれ、多くの人が引き続き追加で記録したものと見られる。",
+    "QA": [
+        {
+            "question": "この及第先生案の名簿はいつ作られましたか？",
+            "answer": "粛宗46年(1720年)にキム·ヨガン、キム·ウチョン、ヤン·ユソンなどによって初めて作られました。"
+        },
+        {
+            "question": "名簿には何が記録されていますか？",
+            "answer": "名簿には計338人の及第した人の名前と及第1年の干支が記録されています。"
+        },
+        {
+            "question": "名簿は後代に追加で記録されたものですか？",
+            "answer": "はい、後代に進むにつれ、多くの人が引き続き追加で記録したものと見られます。"
+        }
+    ],
+    "word_Count": {
+        "text": 210,
+        "QA": 132
+    }
+}

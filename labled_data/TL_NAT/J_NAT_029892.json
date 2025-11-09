@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_029892",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=773&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=00150000&ccbaCtcd=21&ccbaCpno=2332100150000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1972-06-26",
+        "domain": "자연관광",
+        "title": "금정산성부설비"
+    },
+    "text": "釜山広域市記念物、韓国最大の山城である金井山城を補修した後、山城の姿を新しくしたことを記念するために建てられた碑です。現在、金井小学校から西に約200m地点の住宅地の真ん中に置かれている大きな岩の上に位置しています。金井山城は『増補文献備考』によると、粛宗29年(1703)監事チョ·テドンが東莱府使パク·テハンに積ませたものです。しかし、それ以前の顕宗8年(1667)、統制使の李ジヒョンが王に金井山城の補修を建議する記録があり、これより古い時期に製作されたものと思われます現在残っている山城の基礎は文禄·慶長の役と丙子胡乱を経験した後の粛宗29年(1703年)、国防に対する新しい認識の中で築城されたものです。その後、純祖の代に東莱府使のオ·ハンウォンが城門を収縮させ、崩れた城郭を再び築き、新しく復元しましたが、この碑はこの時の事実を記録しています。碑の形は単純な長方形で、上の角の両端を丸く処理しているだけで、特別な装飾はありません",
+    "QA": [
+        {
+            "question": "金井山城はいつ建てられましたか？",
+            "answer": "金井山城は粛宗29年（1703年）に建てられました。"
+        },
+        {
+            "question": "金井山城の補修を建議したのは誰ですか？",
+            "answer": "顕宗8年（1667年）に統制使の李ジヒョンが王に金井山城の補修を建議しました。"
+        },
+        {
+            "question": "金井山城の基礎はいつ築かれましたか？",
+            "answer": "現在残っている山城の基礎は粛宗29年（1703年）に築かれました。"
+        },
+        {
+            "question": "金井山城の再建を行ったのは誰ですか？",
+            "answer": "純祖の代に東莱府使のオ·ハンウォンが城門を収縮させ、崩れた城郭を再び築き、新しく復元しました。"
+        },
+        {
+            "question": "金井山城の碑の形はどのような形ですか？",
+            "answer": "金井山城の碑の形は単純な長方形で、上の角の両端を丸く処理しているだけで、特別な装飾はありません。"
+        }
+    ],
+    "word_Count": {
+        "text": 308,
+        "QA": 207
+    }
+}

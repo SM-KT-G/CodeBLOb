@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_103793",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/view?relicId=116026",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2023-10-11",
+        "domain": "문화/역사관광",
+        "title": "직물 조각"
+    },
+    "text": "織物彫刻 (직물 조각)\\n\n国籍/時代: 韓国（楽浪） 材質: 繊維 分類: 医生活 - 官帽 サイズ: 現在長さ40cm、現在幅76cm、現在長さ04cm、現在幅05cm 修正: この帽子は韓国の楽浪時代に作られたもので、繊維を使用しています。分類としては医師の生活用具であり、官帽として使われていました。サイズは現在、長さ40cm、幅76cm、高さ04cm、厚さ05cmとなっています。",
+    "QA": [
+        {
+            "question": "この帽子の材料は何ですか？",
+            "answer": "この帽子は繊維を使用しています。"
+        },
+        {
+            "question": "この帽子はどの国の何時代のものですか？",
+            "answer": "この帽子は韓国の楽浪時代に作られたものです。"
+        },
+        {
+            "question": "この帽子の分類は何ですか？",
+            "answer": "この帽子は医師の生活用具であり、官帽として使われていました。"
+        },
+        {
+            "question": "この帽子のサイズはどのくらいですか？",
+            "answer": "現在、長さ40cm、幅76cm、高さ04cm、厚さ05cmとなっています。"
+        }
+    ],
+    "word_Count": {
+        "text": 143,
+        "QA": 123
+    }
+}

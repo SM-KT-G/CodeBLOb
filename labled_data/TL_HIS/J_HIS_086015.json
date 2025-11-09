@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_086015",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/view?relicId=105569",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2023-10-11",
+        "domain": "문화/역사관광",
+        "title": "시루 조각"
+    },
+    "text": "シル彫刻 (시루 조각)\\n\n国籍/時代:「このシルは韓国の高麗時代に使用されていました。」 材質:「土で作られ、とても硬いです。」 分類:「食生活や調理に関連する調理道具の一つであり、シルと呼ばれます。」 大きさ:「現在のシルの長さは121cmで、幅は147cmです。」",
+    "QA": [
+        {
+            "question": "このシルは何時代に使用されていましたか？",
+            "answer": "高麗時代に使用されていました。"
+        },
+        {
+            "question": "このシルは何で作られていますか？",
+            "answer": "土で作られています。"
+        },
+        {
+            "question": "このシルは何に関連する道具ですか？",
+            "answer": "食生活や調理に関連する道具です。"
+        },
+        {
+            "question": "現在のシルの大きさはどれくらいですか？",
+            "answer": "長さは121cmで、幅は147cmです。"
+        }
+    ],
+    "word_Count": {
+        "text": 99,
+        "QA": 97
+    }
+}

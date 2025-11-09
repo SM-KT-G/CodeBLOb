@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_003090",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-06",
+        "domain": "음식점",
+        "title": "ウエスト ( 우에스토 )"
+    },
+    "text": "ウエスト ( 우에스토 )\\n\nソウル特別市 中区 ミョンドン9ガギル14\\n\n明洞の会社員がよく訪れる店です。ソウル特別市のジュン区に位置した韓食専門店です。代表的なメニューはカツ丼です。",
+    "QA": [
+        {
+            "question": "ウエストはどこに位置していますか？",
+            "answer": "ウエストはソウル特別市の中区ミョンドン9ガギル14に位置しています。"
+        },
+        {
+            "question": "ウエストのおすすめメニューは何ですか？",
+            "answer": "ウエストの代表的なメニューはカツ丼です。"
+        },
+        {
+            "question": "ウエストは誰によく訪れられる店ですか？",
+            "answer": "ウエストは明洞の会社員がよく訪れる店です。"
+        }
+    ],
+    "word_Count": {
+        "text": 69,
+        "QA": 95
+    }
+}

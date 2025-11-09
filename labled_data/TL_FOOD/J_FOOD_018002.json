@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_018002",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-06",
+        "domain": "음식점",
+        "title": "南道ハイガイ韓定食 ( 남도꼬막한정식 )"
+    },
+    "text": "南道ハイガイ韓定食 ( 남도꼬막한정식 )\\n\n釜山広域市 釜山鎮区 カヤデロ784ボンギル46-9\\n\n釜山で有名なハイガイの名店です。釜山広域市のブサンジン区に位置した韓食専門店です。代表的なメニューはハイガイです。",
+    "QA": [
+        {
+            "question": "この店はどこにありますか？",
+            "answer": "この店は釜山広域市の釜山鎮区にあります。"
+        },
+        {
+            "question": "この店の代表的なメニューは何ですか？",
+            "answer": "この店の代表的なメニューはハイガイです。"
+        },
+        {
+            "question": "この店の住所は何ですか？",
+            "answer": "この店の住所は釜山広域市釜山鎮区カヤデロ784ボンギル46-9です。"
+        },
+        {
+            "question": "この店の特徴は何ですか？",
+            "answer": "この店の特徴は、釜山で有名なハイガイが楽しめることです。"
+        },
+        {
+            "question": "この店の名物料理はありますか？",
+            "answer": "はい、この店の名物料理はハイガイです。"
+        }
+    ],
+    "word_Count": {
+        "text": 80,
+        "QA": 140
+    }
+}

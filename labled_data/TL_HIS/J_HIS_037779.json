@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_037779",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=373&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=00100000&ccbaCtcd=36&ccbaCpno=2113600100000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1972-01-29",
+        "domain": "문화/역사관광",
+        "title": "진도상만리오층석탑"
+    },
+    "text": "珍島上万里五層石塔 (진도상만리오층석탑)\\n\n全羅南道珍島郡臨淮面上万吉58(上万里)\\n\n全羅南道有形文化財、上万寺跡と伝えられるところに立っている塔で、現在はここに亀岩寺という新しい寺ができて塔を保護、管理している。 形は2階の基壇に5階の塔身を上げた姿だ。 上の階の基壇と塔身の石にはかすかに柱の形を彫っているが、特に石の部分はほとんど見分けがつかないほどだ。 屋根石は底面の支えが1階から4階までは3段ずつで、5階は2段に減った。 頂上には露盤(頭飾り台)の上に宝珠(つぼみ形の飾り)が残って頭飾りをしている。 全体的に統一新羅石塔様式に従っているが、彫刻技法がほとんど形式的に変わり、屋根石支えの数が一定ではなく高麗時代に建てたものと推定される。",
+    "QA": [
+        {
+            "question": "この石塔はどこにありますか？",
+            "answer": "全羅南道珍島郡臨淮面上万吉58(上万里)にあります。"
+        },
+        {
+            "question": "この石塔は何のために建てられましたか？",
+            "answer": "この石塔は上万寺跡と伝えられるところに立っており、かつての上万寺を記念するために建てられました。"
+        },
+        {
+            "question": "この石塔はどのような形をしていますか？",
+            "answer": "この石塔は2階の基壇に5階の塔身を上げた姿をしています。"
+        },
+        {
+            "question": "この石塔の屋根石はどのような構造ですか？",
+            "answer": "屋根石は底面の支えが1階から4階までは3段ずつで、5階は2段に減っています。"
+        },
+        {
+            "question": "この石塔はどの時代に建てられたと推定されますか？",
+            "answer": "統一新羅時代の石塔様式に従っていますが、彫刻技法や屋根石の支えの数から、高麗時代に建てられたと推定されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 241,
+        "QA": 214
+    }
+}

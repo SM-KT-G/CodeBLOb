@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_009634",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1193&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=79&ccbaAsno=00300000&ccbaCtcd=36&ccbaCpno=4413600300000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2002-05-31",
+        "domain": "문화/역사관광",
+        "title": "구 목포공립심상소학교"
+    },
+    "text": "旧木浦公立尋常小学校 (구 목포공립심상소학교)\\n\n全羅南道木浦市栄山路10番キル10(儒達洞)\\n\n1910 , 国家登録文化財 , 1929年に建設されたこの建物は、日本人の子供を教育するために木浦に初めて設立した尋常小学校の講堂だ。 鉄筋コンクリート構造に前面と両面は2色のタイルで仕上げ、2階には幅が狭いアーチ窓を置いた。 木浦に残っている唯一の日帝強占期の初等学校の建物で、当時の講堂建築の特徴をよく表している。",
+    "QA": [
+        {
+            "question": "旧木浦浦公立尋常小学校の建物はいつ建てられましたか？",
+            "answer": "1929年に建設されました。"
+        },
+        {
+            "question": "旧木浦浦公立尋常小学校の建物はどのような特徴がありますか？",
+            "answer": "この建物は鉄筋コンクリート構造で、前面と両面には2色のタイルが施されています。また、2階には幅が狭いアーチ窓があります。"
+        },
+        {
+            "question": "旧木浦浦公立尋常小学校の建物は何のために建てられましたか？",
+            "answer": "この建物は日本人の子供を教育するために設立された尋常小学校の講堂です。"
+        },
+        {
+            "question": "旧木浦浦公立尋常小学校の建物は何のために国家登録文化財になりましたか？",
+            "answer": "この建物は日帝強占期の初等学校の建物として、当時の講堂建築の特徴をよく表しているため、国家登録文化財になりました。"
+        }
+    ],
+    "word_Count": {
+        "text": 155,
+        "QA": 209
+    }
+}

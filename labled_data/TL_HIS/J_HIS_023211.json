@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_023211",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1116&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=03000000&ccbaCtcd=34&ccbaCpno=3413403000000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1988-08-30",
+        "domain": "문화/역사관광",
+        "title": "숭의사"
+    },
+    "text": "崇義寺 (숭의사)\\n\n忠清南道泰安郡南面赤石キル415(楊蚕里)\\n\n朝鮮時代 , 忠清南道文化財資料 , 焼酎家氏である家釉薬·家相·家枕など三代を称えるための祠堂だ。 嘉有若は中国の名高い将軍で、蘇州嘉氏の中始祖（衰退した一族を興した先祖）である。 彼は文禄·慶長の役(1592)が起きると、李汝松とともに朝鮮に来て倭軍を倒すのに大きな功績を立てて帰った。 しばらくして宣祖30年(1597)、丁酉再乱が起きると、息子と孫の嘉祥将軍、嘉チムを連れて再び朝鮮に来ることになった。 カユヤクは、カチムをめぐってガサンと釜山で倭軍と戦い、共に戦死した。 カチムは仇を討つために戦場に行こうとしたが、周囲の引き止めで死体を集めて葬儀を行い、墓を祀った。 その後、カチムの息子4兄弟が中国に帰るため泰安まで来たが、船便の都合で朝鮮に滞在することになる。 時間が流れ子孫が繁盛すると、彼の子孫たちが朝廷に建議して崇義寺を建てることになった。 朝鮮時代の哲宗2年(1851)、王命によって建物を建てたのだ。",
+    "QA": [
+        {
+            "question": "崇義寺はどこにありますか？",
+            "answer": "崇義寺は忠清南道泰安郡南面赤石キル415(楊蚕里)に位置しています。"
+        },
+        {
+            "question": "崇義寺は何のために建てられたのですか？",
+            "answer": "崇義寺は家釉薬・家相・家枕など三代を称えるための祠堂です。"
+        },
+        {
+            "question": "崇義寺とは何の関係があるのですか？",
+            "answer": "崇義寺は嘉有若将軍とその子孫たちを祀るために建てられました。"
+        },
+        {
+            "question": "嘉有若将軍はどのような功績を立てましたか？",
+            "answer": "嘉有若将軍は文禄・慶長の役(1592)で朝鮮に来て倭軍を倒すのに大きな功績を立てました。"
+        },
+        {
+            "question": "崇義寺の建設はいつ行われましたか？",
+            "answer": "崇義寺の建設は朝鮮時代の哲宗2年(1851)に王命によって行われました。"
+        }
+    ],
+    "word_Count": {
+        "text": 329,
+        "QA": 190
+    }
+}

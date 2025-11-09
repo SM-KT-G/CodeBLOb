@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_025732",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-16",
+        "domain": "음식점",
+        "title": "一味里金鶏チムダク 明洞（일미리금계찜닭 명동）"
+    },
+    "text": "一味里金鶏チムダク 明洞（일미리금계찜닭 명동）\\n\nソウル特別市 中区 明洞9カキル 21 2、3階\\n\nソウル特別市のミョン洞に位置した韓食です。代表的なメニューはチムダクです。韓国の鶏肉料理文化が体験できるお店です。",
+    "QA": [
+        {
+            "question": "このレストランの名前は何ですか？",
+            "answer": "一味里金鶏チムダク 明洞（일미리금계찜닭 명동）"
+        },
+        {
+            "question": "このレストランはどこに位置していますか？",
+            "answer": "ソウル特別市 中区 明洞9カキル 21 2、3階"
+        },
+        {
+            "question": "このレストランではどのような料理が提供されていますか？",
+            "answer": "代表的なメニューはチムダクです。韓国の鶏肉料理文化が体験できるお店です。"
+        }
+    ],
+    "word_Count": {
+        "text": 81,
+        "QA": 107
+    }
+}

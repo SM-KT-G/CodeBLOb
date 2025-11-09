@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_005763",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1130&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=03600000&ccbaCtcd=37&ccbaCpno=3413703600000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1999-08-09",
+        "domain": "문화/역사관광",
+        "title": "영주수도리김위진가옥"
+    },
+    "text": "ヨンジュ スドリ キム·ウィジン家屋 (영주수도리김위진가옥)\\n\n慶尚北道栄州市文殊面茂室234番キル31-10(スドリ)\\n\n19世紀末期 , 慶尚北道文化財資料 , 現在の所有者の祖父が1800年代末期に非常に丹念に建てた家だ。 中門を中心に左側にサランチェ、右側に馬小屋、そして中門を入った正面にある「ㄷ」字型母屋が集まって「ㅁ」字型構造を作っている家だ。 母屋は中央の板の間を中心に左側に道場部屋があり、右側に奥の間がある。 そしてその前に停止と光、上方と小さな停止が置かれ、それぞれ馬小屋とサランチェにつながっている。 サランチェはサランマルとサランバンになっているが、サランマルは左に1間突出している。 そして3面を板壁を設置し、床の部屋にした。 サランマルとサランバンの前には退間を置いて欄干を巡らした。 馬小屋を住宅の中に置いた点と、出居から母屋に出入りするためのドアを居間の台所側に出した構成から、昔の配置方式を垣間見ることができる。",
+    "QA": [
+        {
+            "question": "この家屋は何時期に建てられましたか？",
+            "answer": "この家屋は19世紀末期に建てられました。"
+        },
+        {
+            "question": "この家屋はどの地域に位置していますか？",
+            "answer": "この家屋は慶尚北道栄州市文殊面茂室234番キル31-10に位置しています。"
+        },
+        {
+            "question": "この家屋は誰が建てましたか？",
+            "answer": "この家屋は現在の所有者の祖父が1800年代末期に建てました。"
+        },
+        {
+            "question": "この家屋の構造はどのような形をしていますか？",
+            "answer": "この家屋は「ㄷ」字型の母屋と、左側にサランチェ、右側に馬小屋を持ち、中門を入った正面にある「ㅁ」字型の構造をしています。"
+        },
+        {
+            "question": "この家屋の母屋にはどのような部屋がありますか？",
+            "answer": "この家屋の母屋には中央の板の間を中心に左側に道場部屋があり、右側に奥の間があります。"
+        },
+        {
+            "question": "この家屋の特徴的な点はありますか？",
+            "answer": "この家屋には馬小屋が住宅の中にあり、出居から母屋に出入りするためのドアが居間の台所側に設置されています。昔の配置方式が垣間見られます。"
+        }
+    ],
+    "word_Count": {
+        "text": 313,
+        "QA": 270
+    }
+}

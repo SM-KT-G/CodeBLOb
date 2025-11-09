@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_098238",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/view?relicId=164182",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2023-10-11",
+        "domain": "문화/역사관광",
+        "title": "작은 병"
+    },
+    "text": "小瓶 (작은 병)\\n\n国籍/時代: 中国-元 材質: 陶磁器 - 雜釉 分類: 食生活 - 食べ物 - 保存運搬 - 壺 大きさ: 高さ19cm、口径96cm、底径85cm 修正案: この壺は、中国の元時代のもので、陶磁器製であり、雜釉が塗られています。食生活に関連し、食べ物の保存や運搬に使用されていたものです。サイズは高さ19cm、口径96cm、底径85cmです。",
+    "QA": [
+        {
+            "question": "この小瓶は何時代のものですか？",
+            "answer": "この壺は、中国の元時代のものです。"
+        },
+        {
+            "question": "この小瓶の材質は何ですか？",
+            "answer": "この壺は陶磁器製です。"
+        },
+        {
+            "question": "この小瓶はどのように使用されていましたか？",
+            "answer": "この壺は食生活に関連し、食べ物の保存や運搬に使用されていました。"
+        },
+        {
+            "question": "この小瓶の大きさはどのくらいですか？",
+            "answer": "この壺のサイズは高さ19cm、口径96cm、底径85cmです。"
+        }
+    ],
+    "word_Count": {
+        "text": 135,
+        "QA": 115
+    }
+}

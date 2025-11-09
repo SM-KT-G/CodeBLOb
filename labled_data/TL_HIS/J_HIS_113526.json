@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_113526",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=8&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=11&ccbaAsno=00950000&ccbaCtcd=11&ccbaCpno=1111100950000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1962-12-20",
+        "domain": "문화/역사관광",
+        "title": "청자 투각칠보문뚜껑 향로"
+    },
+    "text": "青磁透角七宝門蓋香炉\\n\nソウル特別市龍山区西氷庫路137(龍山洞6街、ジャン·ジャン)\\n\n高麗時代(12世紀)、国宝、高麗電気の香炉で、高さ15.3センチ、台座直径11.2センチの大きさであり、ふたと身二つの部分で構成されている。ふたは香が咲いてきに渡るように開けて装飾した旧型(球形)部分とその下に当て物部分からなっている。旧型部分のいたるところの交差地点には白い斑点が一つずつ施されている。胴体は二つの部分で頂上部分は丸い火鉢の形だが、何重もの菊の葉に包まれていて再び大きな菊の葉がこれを支えている。下の部分は、香炉体を支えている台座に、3匹のウサギが背中とあがめている。台座の側面には、蔓の模様が刻まれており、ウサギの目は黒い点を撮って示した。釉薬は青灰色(せいかいしょく)で、和やかな光沢が出る。この作品は象嵌青磁の一種で見られるが、高麗青磁では珍しく、様々なテクニックを弄した作品であると言える。工芸的な繊細な装飾が多いようでも全体的に調和と均衡がとれた安定感のある優れた香炉である。",
+    "QA": [
+        {
+            "question": "この香炉は何時代のものですか？",
+            "answer": "この香炉は高麗時代（12世紀）のものです。"
+        },
+        {
+            "question": "香炉の高さと台座の直径はそれぞれ何センチですか？",
+            "answer": "香炉の高さは15.3センチ、台座の直径は11.2センチです。"
+        },
+        {
+            "question": "香炉はどのような部分で構成されていますか？",
+            "answer": "香炉はふたと身の二つの部分で構成されています。"
+        },
+        {
+            "question": "香炉のふたにはどのような装飾が施されていますか？",
+            "answer": "香炉のふたには香が咲いてきに渡るように開けて装飾した旧型（球形）部分と白い斑点が一つずつ施されています。"
+        },
+        {
+            "question": "香炉の釉薬の色は何色ですか？",
+            "answer": "香炉の釉薬は青灰色（せいかいしょく）で、和やかな光沢が出ます。"
+        },
+        {
+            "question": "香炉の台座には何が彫られていますか？",
+            "answer": "香炉の台座の側面には蔓の模様が刻まれており、ウサギの目は黒い点を撮って示されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 329,
+        "QA": 231
+    }
+}

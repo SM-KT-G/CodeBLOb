@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_011667",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "バダプンギョン刺身専門店（바다풍경횟집）"
+    },
+    "text": "バダプンギョン刺身専門店（바다풍경횟집）\\n\n済州特別自治道 済州市 西海岸路 654\\n\n済州特別自治道のジェジュ市に位置した韓食です。代表的なメニューは刺身の盛り合わせです。浜辺に位置した飲食店です。",
+    "QA": [
+        {
+            "question": "バダプンギョン刺身専門店はどこに位置していますか？",
+            "answer": "バダプンギョン刺身専門店は済州特別自治道のジェジュ市に位置しています。"
+        },
+        {
+            "question": "バダプンギョン刺身専門店の代表的なメニューは何ですか？",
+            "answer": "バダプンギョン刺身専門店の代表的なメニューは刺身の盛り合わせです。"
+        },
+        {
+            "question": "バダプンギョン刺身専門店はどのような雰囲気ですか？",
+            "answer": "バダプンギョン刺身専門店は浜辺に位置した飲食店です。"
+        }
+    ],
+    "word_Count": {
+        "text": 74,
+        "QA": 125
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_004844",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "ギェリムマヌルダル（계림마늘닭）"
+    },
+    "text": "ギェリムマヌルダル（계림마늘닭）\\n\nソウル特別市 中区 忠武路2キル 43\\n\nソウル特別市チュンムロ駅の近くに位置した韓食専門店です。鶏肉のピリ辛スープ料理をお出しするお店です。代表的なメニューは鶏肉の炒め煮です。",
+    "QA": [
+        {
+            "question": "ギェリムマヌルダル（계림마늘닭）はどのようなお店ですか？",
+            "answer": "ギェリムマヌルダル（계림마늘닭）は韓国料理専門店で、鶏肉のピリ辛スープ料理を提供しています。特に鶏肉の炒め煮が代表的なメニューです。"
+        },
+        {
+            "question": "ギェリムマヌルダル（계림마늘닭）の場所はどこですか？",
+            "answer": "ギェリムマヌルダル（계림마늘닭）はソウル特別市中区忠武路2キル43に位置しています。チュンムロ駅の近くにあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 79,
+        "QA": 129
+    }
+}

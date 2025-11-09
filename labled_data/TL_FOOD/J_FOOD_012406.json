@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_012406",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-08-31",
+        "domain": "음식점",
+        "title": "ヒメシヤ（히메시야）"
+    },
+    "text": "ヒメシヤ（히메시야）\\n\nソウル特別市 鐘路区 昌慶宮路26キル 40\\n\nこの店はソウル特別市のチャンギョングンに位置した和食専門店です。和風丼料理の専門店です。代表的なメニューはカツ丼です。",
+    "QA": [
+        {
+            "question": "この店はどこにありますか？",
+            "answer": "この店はソウル特別市の鐘路区にあります。"
+        },
+        {
+            "question": "この店の代表的なメニューは何ですか？",
+            "answer": "この店の代表的なメニューはカツ丼です。"
+        },
+        {
+            "question": "この店の特徴は何ですか？",
+            "answer": "この店は和風丼料理の専門店であり、ソウル特別市に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 71,
+        "QA": 83
+    }
+}

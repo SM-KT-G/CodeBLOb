@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_010634",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2022-09-26",
+        "domain": "음식점",
+        "title": "등경돌식당"
+    },
+    "text": "トゥンギョンドル食堂 (등경돌식당)\\n\n済州特別自治道西帰浦市城山邑日の出路279\\n\n城山日出峰駐車場の入口にある飲食店の中でも、代表的なメニューは海鮮鍋とオブンジャクトゥッペギです。この料理は、海鮮鍋の中には新鮮な貝がたくさん入っており、さっぱりとしたスープの味わいを楽しむことができます。",
+    "QA": [
+        {
+            "question": "この食堂の名前は何ですか？",
+            "answer": "トゥンギョンドル食堂 (등경돌식당)です。"
+        },
+        {
+            "question": "この食堂の場所はどこですか？",
+            "answer": "済州特別自治道西帰浦市城山邑日の出路279にあります。"
+        },
+        {
+            "question": "この食堂の代表的なメニューは何ですか？",
+            "answer": "代表的なメニューは海鮮鍋とオブンジャクトゥッペギです。"
+        },
+        {
+            "question": "海鮮鍋の中には何が入っていますか？",
+            "answer": "海鮮鍋の中には新鮮な貝がたくさん入っています。"
+        },
+        {
+            "question": "海鮮鍋のスープの味わいはどんなですか？",
+            "answer": "海鮮鍋のスープはさっぱりとした味わいです。"
+        }
+    ],
+    "word_Count": {
+        "text": 108,
+        "QA": 147
+    }
+}

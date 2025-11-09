@@ -1,0 +1,55 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_032754",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.booking.com/hotel/kr/the-la-boum-suite-1.ko.html",
+        "collectedDate": "2023-11-17",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "더 라 봄 스위트 1"
+    },
+    "text": "ザ·ラボムスイート1は麗水に位置した宿泊施設で、無料Wi-Fiと海の眺めを提供します。 宿は熊川親水公園(海水浴場)からたった18分の距離にあります。 このアパートタイプの宿にはエアコンがあり、寝室1つ、ケーブルフラットテレビ、食事スペース、そしてキッチンが用意されています。 Statue of PeaceとGeobukseon Ship Yi Sun-Sin Plazaが約6.6kmと6.7kmの距離に位置しており、最寄り空港は麗水空港に約13km離れています。 また、麗水中心部から2.8km離れており、チェックインは15:00から始まり、チェックアウトは11:30までです。",
+    "QA": [
+        {
+            "question": "ラボムスイート1はどこに位置していますか？",
+            "answer": "ラボムスイート1は麗水に位置しています。"
+        },
+        {
+            "question": "ラボムスイート1は何を提供していますか？",
+            "answer": "ラボムスイート1は無料Wi-Fiと海の眺めを提供しています。"
+        },
+        {
+            "question": "ラボムスイート1から熊川親水公園(海水浴場)までの距離はどれくらいですか？",
+            "answer": "ラボムスイート1から熊川親水公園(海水浴場)まではたった18分の距離です。"
+        },
+        {
+            "question": "ラボムスイート1の設備は何がありますか？",
+            "answer": "ラボムスイート1にはエアコン、寝室1つ、ケーブルフラットテレビ、食事スペース、そしてキッチンがあります。"
+        },
+        {
+            "question": "Statue of PeaceとGeobukseon Ship Yi Sun-Sin Plazaはどれくらいの距離にありますか？",
+            "answer": "Statue of PeaceとGeobukseon Ship Yi Sun-Sin Plazaは約6.6kmと6.7kmの距離に位置しています。"
+        },
+        {
+            "question": "ラボムスイート1から最寄り空港までの距離はどれくらいですか？",
+            "answer": "ラボムスイート1から最寄り空港までは約13kmの距離です。"
+        },
+        {
+            "question": "ラボムスイート1は麗水中心部からどれくらい離れていますか？",
+            "answer": "ラボムスイート1は麗水中心部から2.8km離れています。"
+        },
+        {
+            "question": "チェックインとチェックアウトの時間は何時ですか？",
+            "answer": "チェックインは15:00から始まり、チェックアウトは11:30までです。"
+        }
+    ],
+    "word_Count": {
+        "text": 214,
+        "QA": 403
+    }
+}

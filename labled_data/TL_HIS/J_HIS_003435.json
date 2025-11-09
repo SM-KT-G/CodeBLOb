@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_003435",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1198&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=79&ccbaAsno=00840000&ccbaCtcd=11&ccbaCpno=4411100840000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2004-09-04",
+        "domain": "문화/역사관광",
+        "title": "서울 원서동 고희동 가옥"
+    },
+    "text": "ソウル原書洞古希洞家屋 (서울 원서동 고희동 가옥)\\n\nソウル鍾路区原書洞16番地\\n\n1955 登記 , 国家登録文化財 , 初の洋画家として後進を養成し、近代的な画壇を形成し、導いていった高熙東先生が住んでいた場所である。 先生が日本留学を終えて帰ってきて建てた木造瓦葺きで、近代初期の韓国住宅の特徴をよく示している。",
+    "QA": [
+        {
+            "question": "この家屋はいつ建てられましたか？",
+            "answer": "1955年に建てられました。"
+        },
+        {
+            "question": "この家屋はどの区にありますか？",
+            "answer": "この家屋は鍾路区にあります。"
+        },
+        {
+            "question": "この家屋は国家登録文化財に登録されていますか？",
+            "answer": "はい、この家屋は国家登録文化財に登録されています。"
+        },
+        {
+            "question": "この家屋はどのような特徴を持っていますか？",
+            "answer": "この家屋は木造瓦葺きで、近代初期の韓国住宅の特徴をよく示しています。"
+        },
+        {
+            "question": "この家屋には誰が住んでいましたか？",
+            "answer": "高熙東先生が住んでいました。彼は初の洋画家として後進を養成し、近代的な画壇を形成し、導いていきました。"
+        }
+    ],
+    "word_Count": {
+        "text": 119,
+        "QA": 168
+    }
+}

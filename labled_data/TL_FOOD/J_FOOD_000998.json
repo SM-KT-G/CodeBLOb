@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_000998",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/1bunji-seolleongtang",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "1番地ソルロンタン"
+    },
+    "text": "1番地ソルロンタン\\n\n江原道 ガンヌン市 ヨンゴク面 ナムピョンギル1\\n\n濃く煮出されたスープにご飯を混ぜて食べる店です。代表的なメニューはソルロンタンです。江原道のガンヌン市に位置した韓国料理屋です。",
+    "QA": [
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "この店は江原道のガンヌン市に位置しています。"
+        },
+        {
+            "question": "この店の代表的なメニューは何ですか？",
+            "answer": "この店の代表的なメニューはソルロンタンです。"
+        },
+        {
+            "question": "どのように食べるのがおすすめですか？",
+            "answer": "濃く煮出されたスープにご飯を混ぜて食べるのがおすすめです。"
+        }
+    ],
+    "word_Count": {
+        "text": 75,
+        "QA": 89
+    }
+}

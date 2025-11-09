@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_029315",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2022-09-27",
+        "domain": "음식점",
+        "title": "단골집"
+    },
+    "text": "行きつけの店 (단골집)\\n\n慶尚南道密陽市常設市場3ギル18-16\\n\n慶尚南道密陽市明日洞にある行きつけの店は、密陽伝統市場内に位置するテジクッパ専門店だ。 メニューとしてはテジクッパとゆで豚肉を提供し、テジクッパの場合は土廉食で出す。<br>",
+    "QA": [
+        {
+            "question": "この店の住所はどこですか？",
+            "answer": "慶尚南道密陽市常設市場3ギル18-16"
+        },
+        {
+            "question": "この店のメニューは何ですか？",
+            "answer": "テジクッパとゆで豚肉を提供します"
+        },
+        {
+            "question": "テジクッパはどのように提供されますか？",
+            "answer": "テジクッパは土廉食で提供されます"
+        }
+    ],
+    "word_Count": {
+        "text": 90,
+        "QA": 71
+    }
+}

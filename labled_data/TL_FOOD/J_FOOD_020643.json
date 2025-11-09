@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_020643",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "明洞ソソカルビ（명동서서갈비）"
+    },
+    "text": "明洞ソソカルビ（명동서서갈비）\\n\nソウル特別市 中区 明洞10キル 35-10\\n\nこの店はソウル特別市のミョンドン・ソンダンに位置した韓食専門店です。代表的なメニューは牛カルビです。立ち食い焼肉店です。",
+    "QA": [
+        {
+            "question": "明洞ソソカルビはどこに位置していますか？",
+            "answer": "明洞ソソカルビはソウル特別市の中区明洞に位置しています。"
+        },
+        {
+            "question": "明洞ソソカルビの代表的なメニューは何ですか？",
+            "answer": "明洞ソソカルビの代表的なメニューは牛カルビです。"
+        },
+        {
+            "question": "明洞ソソカルビは立ち食い焼肉店ですか？",
+            "answer": "はい、明洞ソソカルビは立ち食い焼肉店です。"
+        }
+    ],
+    "word_Count": {
+        "text": 75,
+        "QA": 98
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_097974",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/view?relicId=217560",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2023-10-11",
+        "domain": "문화/역사관광",
+        "title": "자기 조각"
+    },
+    "text": "磁器片 (자기 조각)\\n\n国籍/時代: 韓国 材質: 陶磁器 分類: 食生活 - 食べ物 大きさ: 現在の高さ3.2cm、幅7.2cm、深さ1.1cm、幅4.8cm （※おそらく上記の文章は分けて表示されているため、簡潔に修正しています。） 修正例: この陶磁器は韓国の作品で、食生活の一環として使われます。サイズは現在、高さ3.2cm、幅7.2cm、深さ1.1cm、幅4.8cmです。",
+    "QA": [
+        {
+            "question": "この陶磁器はどこの国の作品ですか？",
+            "answer": "この陶磁器は韓国の作品です。"
+        },
+        {
+            "question": "どのような材料で作られていますか？",
+            "answer": "この陶磁器は陶磁器でできています。"
+        },
+        {
+            "question": "この陶磁器はどのような分類に属していますか？",
+            "answer": "この陶磁器は食生活 - 食べ物に分類されます。"
+        },
+        {
+            "question": "どのくらいの大きさですか？",
+            "answer": "現在の大きさは、高さ3.2cm、幅7.2cm、深さ1.1cm、幅4.8cmです。"
+        }
+    ],
+    "word_Count": {
+        "text": 142,
+        "QA": 119
+    }
+}

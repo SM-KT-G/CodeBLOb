@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_007599",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=241&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=13&ccbaAsno=01810000&ccbaCtcd=37&ccbaCpno=1333701810000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1969-08-27",
+        "domain": "문화/역사관광",
+        "title": "경주 신문왕릉"
+    },
+    "text": "慶州神文王陵 (경주 신문왕릉)\\n\n慶尚北道慶州市梨盤洞453-1番地\\n\n統一新羅新聞王(西暦688年頃) , 史跡 , 新羅第31代神文王(在位681~692)の墓だ。 神文王は文武王の息子で貴族の反乱を鎮圧した後、新羅の中代専制王権を確固たるものにした。 国立教育機関である国学を設立し、地方統治のために9州5小京制度を設置し、高句麗·百済·末葛人を含めた中央軍事組織である9書堂を完成させるなど、中央と地方の政治制度を整備して専制王権を固めた。 高さ7.6m、直径29.3mの丸く土を積んだ円形の墳丘だ。 周りの石はレンガの形に整え、5段に積み上げられ、44個の三角形の支え石が周りの石を丈夫に支えている。 『三国史記』によると、郎山の東側に新門王を葬ったとされており、郎山の東側の皇福寺跡の下側12地神像が残っている崩れた王陵を新門王墓と見る見解もある。※(新羅神文王陵→慶州神文王陵)に名称変更されました。(2011.07.28告示)",
+    "QA": [
+        {
+            "question": "神文王陵はどこにありますか？",
+            "answer": "慶州市梨盤洞453-1番地にあります。"
+        },
+        {
+            "question": "神文王陵は何のための墓ですか？",
+            "answer": "神文王陵は統一新羅第31代神文王の墓です。"
+        },
+        {
+            "question": "神文王は何を成し遂げましたか？",
+            "answer": "神文王は新羅の中代専制王権を確立し、国学を設立し、9州5小京制度を設置し、9書堂を完成させました。"
+        },
+        {
+            "question": "神文王陵の形はどのようなものですか？",
+            "answer": "神文王陵は高さ7.6m、直径29.3mの丸く土を積んだ円形の墳丘です。周りにはレンガの形に整えられた石があり、44個の三角形の支え石が周りの石を支えています。"
+        },
+        {
+            "question": "新門王墓とは何ですか？",
+            "answer": "新門王墓は『三国史記』によれば、神文王陵の東側にある崩れた王陵であり、皇福寺跡の下側に12地神像が残っているとされています。"
+        }
+    ],
+    "word_Count": {
+        "text": 310,
+        "QA": 222
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_025998",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/jangsu-galbi",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "長寿カルビ"
+    },
+    "text": "長寿カルビ\\n\nソウル特別市 中区 ミョンドン2ギル54-1\\n\n1968年から営業している店です。おすすめはカルビです。ソウル特別市のジュン区に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "この店はいつオープンしましたか？",
+            "answer": "1968年から営業しています。"
+        },
+        {
+            "question": "この店のおすすめは何ですか？",
+            "answer": "カルビがおすすめです。"
+        },
+        {
+            "question": "この店はどこに位置していますか？",
+            "answer": "ソウル特別市の中区ミョンドン2ギル54-1に位置しています。"
+        },
+        {
+            "question": "この店は何を専門としていますか？",
+            "answer": "この店は韓食専門店です。"
+        }
+    ],
+    "word_Count": {
+        "text": 62,
+        "QA": 95
+    }
+}

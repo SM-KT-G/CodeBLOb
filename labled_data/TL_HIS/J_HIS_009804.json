@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_009804",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=838&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=00940000&ccbaCtcd=37&ccbaCpno=2333700940000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1994-04-16",
+        "domain": "문화/역사관광",
+        "title": "구암정사"
+    },
+    "text": "九岩精舎 (구암정사)\\n\n慶尚北道安東市日直面九尾里358-359番地山144\\n\n慶尚北道記念物 , 義城金氏として初めてここに住み始めた金根（キム·グン、1579~1656）先生の位牌を祀っている祠堂だ。 5代にわたって襄陽、晋城、安望などを転々としていた生活を清算し、光海君7年(1615)、彼の年齢37歳の時に場所を定めて子孫たちがここに定着することになった。 先生は仁祖20年(1642)、進士市に合格した後、官職をあきらめ学問だけに専念した。 彼を指してチョン·ヒョングァン先生は「儒林老成」と称賛した。 その後、子孫であるキム·グァンが主導して正祖15年(1791)から4年にわたる工事の末に祠堂建物をはじめとする東斎·西斎と講堂を20間余り規模で用意したという。 現在は祠堂の建物である永慕寺と正使の2軒だけが残っている。",
+    "QA": [
+        {
+            "question": "九岩精舎はどこにありますか？",
+            "answer": "九岩精舎は慶尚北道安東市日直面九尾里に位置しています。"
+        },
+        {
+            "question": "九岩精舎は何を祀っていますか？",
+            "answer": "九岩精舎は金根（キム·グン、1579~1656）先生の位牌を祀っています。"
+        },
+        {
+            "question": "九岩精舎の歴史はどのようなものですか？",
+            "answer": "金根先生は光海君7年(1615)に子孫たちと共に九岩精舎に定着しました。その後、子孫のキム·グァンが正祖15年(1791)に祠堂建物を含む施設を建設しました。"
+        },
+        {
+            "question": "九岩精舎には現在何が残っていますか？",
+            "answer": "九岩精舎には永慕寺と正使の2軒の建物が残っています。"
+        },
+        {
+            "question": "金根先生について何か有名なエピソードはありますか？",
+            "answer": "金根先生は仁祖20年(1642)に進士試験に合格した後、官職を辞めて学問に専念しました。彼は「儒林老成」と称えられました。"
+        }
+    ],
+    "word_Count": {
+        "text": 271,
+        "QA": 235
+    }
+}

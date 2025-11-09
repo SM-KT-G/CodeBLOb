@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_030883",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/lodge/kal-hotel-jeju",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "済州KALホテル"
+    },
+    "text": "済州KALホテル\\n\n済州特別自治道 済州市 中央路 151（二徒1洞）\\n\n済州KALホテルは1974年2月17日にオープンしました。済州島の発展を先導する企業として品格高く作られた済州島KALホテルは済州島の観光、歴史にとって大きなターニングポイントとなりました。済州島国際空港から約10分の距離にあり済州島市内の繁華街にも近く、観光にもとても便利です。夜には夜景も綺麗に見えます。",
+    "QA": [
+        {
+            "question": "済州KALホテルはいつオープンしましたか？",
+            "answer": "済州KALホテルは1974年2月17日にオープンしました。"
+        },
+        {
+            "question": "済州KALホテルはどのような場所に位置していますか？",
+            "answer": "済州KALホテルは済州特別自治道済州市中央路151に位置しています。"
+        },
+        {
+            "question": "済州KALホテルはどの空港から近いですか？",
+            "answer": "済州KALホテルは済州島国際空港から約10分の距離にあります。"
+        },
+        {
+            "question": "済州KALホテルは周辺に何がありますか？",
+            "answer": "済州KALホテルは済州島市内の繁華街にも近く、観光にもとても便利です。"
+        },
+        {
+            "question": "済州KALホテルの夜景は綺麗ですか？",
+            "answer": "はい、済州KALホテルの夜景はとても綺麗に見えます。"
+        }
+    ],
+    "word_Count": {
+        "text": 141,
+        "QA": 191
+    }
+}

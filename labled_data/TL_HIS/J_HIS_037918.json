@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_037918",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=592&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=03170000&ccbaCtcd=38&ccbaCpno=2113803170000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1997-01-30",
+        "domain": "문화/역사관광",
+        "title": "이원 청향당실기 목판"
+    },
+    "text": "李源淸香堂実紀木板 (이원 청향당실기 목판)\\n\n慶尚南道咸陽郡\\n\n慶尚南道有形文化財、李滉と趙植の文人であり、嶺南学派儒林の代表的人物だった清香堂李元(1501~1569)先生の文を木版に刻んだのだ。 大きさは横20.5cm、縦16.5cmであり、計68枚だ。 本の頭文字には兵曹参判ユ·チミョンが書いた序文があり、巻1にはイ·ファン先生の詩をはじめ言動録、妙葛、妙名そして培山書院の書院記などが収録されている。 巻2にはイ·ファン先生の詩12首とチョ·シク先生の詩10首などが収録されている。 刊行記録から見て、山清丹城の培山書堂から刊行され、子孫たちが先生の講学所である九舎斎に移ってきたものと推定される。 これはイ·ウォン先生と交流した人物と彼の思想を把握できる資料と評価される。",
+    "QA": [
+        {
+            "question": "清香堂実紀木板はどこで見ることができますか？",
+            "answer": "清香堂実紀木板は慶尚南道咸陽郡で見ることができます。"
+        },
+        {
+            "question": "清香堂李元先生はどのような人物でしたか？",
+            "answer": "清香堂李元先生は嶺南学派儒林の代表的人物であり、文人でした。"
+        },
+        {
+            "question": "清香堂実紀木板はどのような内容が刻まれていますか？",
+            "answer": "清香堂実紀木板には言動録、詩、書院記などが収録されています。"
+        },
+        {
+            "question": "清香堂実紀木板はいつ刊行されましたか？",
+            "answer": "刊行記録から見て、山清丹城の培山書堂から刊行されたと推定されます。"
+        },
+        {
+            "question": "清香堂実紀木板はどのような資料と評価されていますか？",
+            "answer": "清香堂実紀木板はイ・ウォン先生と交流した人物と彼の思想を把握できる資料と評価されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 253,
+        "QA": 202
+    }
+}

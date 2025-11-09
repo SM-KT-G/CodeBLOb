@@ -1,0 +1,55 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_096238",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=82&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=05930000&ccbaCtcd=11&ccbaCpno=1121105930000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1975-05-16",
+        "domain": "문화/역사관광",
+        "title": "이상좌 불화첩"
+    },
+    "text": "朝鮮時代の画家イサンジュワが描いた様々な仏像絵を集めた絵本であるイサンジュワブルファチョプは横31.1センチ、縦50.7センチの大きさを持っている。イサンジュワは、奴隷出身だったが、絵をよく描く才能を持っていて図画署の花園となり、特に人物画をよく描く才能を見せた。このブルファチョプには仏の説法を聞いて聖者になった羅漢を描いた絵がある。この絵は、紙ベースに彩色はなくムクソンだけで描かれているが、現在は5点だけが残っており、このうち16人の羅漢を描いたものと思われる絵もある。背景に使用するために作られたこの絵は、筆の動きが活発して筆がきれいし、人物をよく表現している。顔は、細い線で繊細に表現されており、服は細い線と太い線を適切に組み合わせて描いた。このブルファチョプは朝鮮時代前期で類例のないイサンジュワの絵作風を見られるが、朝鮮時代の人物画の画法を研究するうえで非常に有用な資料として価値が大きい。",
+    "QA": [
+        {
+            "question": "この絵本の名前は何ですか？",
+            "answer": "イサンジュワブルファチョプ"
+        },
+        {
+            "question": "イサンジュワの絵本の大きさは何ですか？",
+            "answer": "横31.1センチ、縦50.7センチ"
+        },
+        {
+            "question": "イサンジュワは何出身ですか？",
+            "answer": "奴隷出身"
+        },
+        {
+            "question": "イサンジュワの絵本には何が描かれていますか？",
+            "answer": "様々な仏像絵が描かれています"
+        },
+        {
+            "question": "絵本に残っている羅漢の絵は何点ですか？",
+            "answer": "5点"
+        },
+        {
+            "question": "羅漢の絵を描いた絵本の背景に使用されたものは何ですか？",
+            "answer": "紙ベースに彩色はなくムクソンだけで描かれたもの"
+        },
+        {
+            "question": "イサンジュワの絵本は何時代のものですか？",
+            "answer": "朝鮮時代前期"
+        },
+        {
+            "question": "絵本に描かれた人物画の画法は何を研究するのに非常に有用な資料とされますか？",
+            "answer": "朝鮮時代の人物画の画法を研究するうえで非常に有用な資料として価値が大きい"
+        }
+    ],
+    "word_Count": {
+        "text": 294,
+        "QA": 209
+    }
+}

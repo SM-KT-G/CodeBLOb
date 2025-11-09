@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_065367",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2023-07-02",
+        "domain": "음식점",
+        "title": "대관령황태촌"
+    },
+    "text": "注文津に位置した大関嶺(テグァンリョン)魚村は魚料理専門店で、さまざまな調味料を作って魚を焼く時に一つ一つ心を込めて味付けを塗って焼いている。皇泰定食をはじめ、魚の煮物、大豆もやしへジャン汁などが用意されている。",
+    "QA": [
+        {
+            "question": "この大関嶺魚村はどこに位置していますか？",
+            "answer": "大関嶺魚村は注文津に位置しています。"
+        },
+        {
+            "question": "大関嶺魚村は何を専門としていますか？",
+            "answer": "大関嶺魚村は魚料理を専門としています。"
+        },
+        {
+            "question": "大関嶺魚村ではどのような調味料が使用されていますか？",
+            "answer": "大関嶺魚村ではさまざまな調味料が使用されています。"
+        },
+        {
+            "question": "大関嶺魚村の料理にはどのようなメニューがありますか？",
+            "answer": "大関嶺魚村の料理には皇泰定食や魚の煮物、大豆もやしへジャン汁などがあります。"
+        },
+        {
+            "question": "大関嶺魚村の料理はどのように調理されますか？",
+            "answer": "大関嶺魚村では魚を焼く際に一つ一つ心を込めて味付けを塗って焼いています。"
+        }
+    ],
+    "word_Count": {
+        "text": 77,
+        "QA": 181
+    }
+}

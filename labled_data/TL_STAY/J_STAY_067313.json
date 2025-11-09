@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_067313",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2022-11-04",
+        "domain": "숙박",
+        "title": "500호호텔"
+    },
+    "text": "500号ホテル (500호호텔)\\n\n全羅南道木浦市平和路140番キル22(玉岩洞)\\n\n木浦市の代表的なモーテルである500thモーテルは、現代的な建物と最高水準のサービスを提供しています。そのため、木浦市だけでなく、他地域から訪れる観光客にも高い評価を得ています。",
+    "QA": [
+        {
+            "question": "この500호호텔の場所はどこですか？",
+            "answer": "500호호텔は全羅南道木浦市に位置し、平和路140番キル22にあります。"
+        },
+        {
+            "question": "500호호텔の特徴は何ですか？",
+            "answer": "500호호텔は現代的な建物と最高水準のサービスを提供しており、木浦市だけでなく他地域からの観光客にも高い評価を得ています。"
+        },
+        {
+            "question": "500호호텔の周辺にはどんな観光名所がありますか？",
+            "answer": "500호호텔の周辺には木浦市の代表的な観光名所が多くあります。例えば、玉岩洞などがあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 98,
+        "QA": 147
+    }
+}

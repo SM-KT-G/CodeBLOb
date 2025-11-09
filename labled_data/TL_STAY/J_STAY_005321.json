@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_005321",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://kr.hotels.com/ho499313/deo-kei-hotel-gyeongju-gyeongju-hangug/?chkin=2023-11-21&chkout=2023-11-22&x_pwa=1&rfrr=HSR&pwa_ts=1699174227554&referrerUrl=aHR0cHM6Ly9rci5ob3RlbHMuY29tL0hvdGVsLVNlYXJjaA%3D%3D&useRewards=false&rm1=a2&regionId=6129081&destination=%EA%B2%BD%EC%83%81%EB%B6%81%EB%8F%84%2C+%ED%95%9C%EA%B5%AD&destType=MARKET&latLong=36.575917%2C128.506012&sort=DISTANCE&top_dp=113636&top_cur=KRW&userIntent=&selectedRoomType=202410840&selectedRatePlan=212273999&expediaPropertyId=10218601&searchId=017b00f1-99ff-4fe5-9ef3-895483558309",
+        "collectedDate": "2023-11-15",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "더 케이 호텔 경주"
+    },
+    "text": "ザ·ケイ·ホテル·レース (더 케이 호텔 경주)\nザ·ケイホテル慶州はファンリダンキルから9.6km離れています。 当ホテルは室内プールとシーズン別に運営される屋外プールを提供します。 そして韓国料理専門レストランのMoogunghwaでは朝食、昼食、夕食を楽しむことができます。 当ホテルはフィットネスセンター、サウナ、スチームルームなどの様々なアメニティとサービスを提供しています。",
+    "QA": [
+        {
+            "question": "ザ·ケイ·ホテル·レースはどこに位置していますか？",
+            "answer": "ザ·ケイホテル慶州はファンリダンキルから9.6km離れています。"
+        },
+        {
+            "question": "ザ·ケイホテル慶州はどのような施設を提供していますか？",
+            "answer": "ザ·ケイホテル慶州は室内プールとシーズン別に運営される屋外プールを提供しています。また、フィットネスセンターやサウナ、スチームルームなどの様々なアメニティとサービスも提供しています。"
+        },
+        {
+            "question": "ザ·ケイホテル慶州のレストランで何を楽しむことができますか？",
+            "answer": "ザ·ケイホテル慶州の韓国料理専門レストランMoogunghwaでは朝食、昼食、夕食を楽しむことができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 142,
+        "QA": 189
+    }
+}

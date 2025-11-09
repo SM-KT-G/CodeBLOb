@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_027724",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-05",
+        "domain": "음식점",
+        "title": "青松食堂 ( 청송식당 )"
+    },
+    "text": "青松食堂 ( 청송식당 )\\n\n江原道 ガンヌン市 ボムイルロ579ボンギル59\\n\n様々な中華料理が味わえる店です。江原道のガンヌン市に位置した韓食専門店です。おすすめは海鮮ちゃんぽんです。",
+    "QA": [
+        {
+            "question": "青松食堂はどこに位置していますか？",
+            "answer": "青松食堂は江原道のガンヌン市に位置しています。"
+        },
+        {
+            "question": "青松食堂ではどのような料理が味わえますか？",
+            "answer": "青松食堂では様々な中華料理が味わえます。"
+        },
+        {
+            "question": "青松食堂のおすすめ料理は何ですか？",
+            "answer": "青松食堂のおすすめ料理は海鮮ちゃんぽんです。"
+        }
+    ],
+    "word_Count": {
+        "text": 70,
+        "QA": 88
+    }
+}

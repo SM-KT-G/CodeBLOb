@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_093944",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=365&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=00030000&ccbaCtcd=32&ccbaCpno=2113200030000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1971-12-16",
+        "domain": "문화/역사관광",
+        "title": "원주 강원감영 포정루"
+    },
+    "text": "原州ジャンポジョンル\\n\n江原道原州市一山洞54-4\\n\n江原特別自治道 有形文化財、朝鮮太祖4年(1395)原州に設置された江原監営は江原監事の執務処で、70間余りの規模だった。 壬辰倭乱(1592)の時に壊れて再び建物を建てたが、韓国戦争の時に大きな被害を受け、現在は観察使執務処だった宣和堂と正門の門楼だけが残っている。 門楼には朝鮮戦争以後から「江原監営門楼」という扁額が掲げられていたが、「輿地図書」などの文献を根拠に1991年に「浦井楼」に書き換えた。 前面3間·側面2間の2階楼閣建物で、屋根は側面が八の字型をしている入母屋造りだ。 1階の真ん中のマスには2組の板を取り付けた。 2階は周囲を手すりに回して四方を開放し、天井は骨組みが見える提灯天井で飾った。 監営の場に郡庁が建てられたが、宣和堂はそのまま残っている。 壬辰倭乱以後、1667年に再建された宣和堂は前面7間·側面4間の1階建てで、門楼のような入母屋造りの平凡な官衙建物だ。 大庁側と前面、右側などは独特に帯殺門として処理されている。 浦井楼および宣和堂は朝鮮時代の監営の形態を知らせる重要な資料だ。 ※ 2004年1月17日、江原道有形文化財第3号江原監営(門楼及び宣和堂)から浦井楼及び宣和堂に名称変更。",
+    "QA": [
+        {
+            "question": "江原監営は何年に設置されましたか？",
+            "answer": "江原監営は朝鮮太祖4年(1395)に設置されました。"
+        },
+        {
+            "question": "江原監営の規模はどれくらいでしたか？",
+            "answer": "江原監営は70間余りの規模でした。"
+        },
+        {
+            "question": "浦井楼および宣和堂は何時に名称変更されましたか？",
+            "answer": "浦井楼および宣和堂は2004年1月17日に名称変更されました。"
+        },
+        {
+            "question": "宣和堂は何年に再建されましたか？",
+            "answer": "宣和堂は壬辰倭乱以後の1667年に再建されました。"
+        },
+        {
+            "question": "江原監営の門楼に何という扁額が掲げられていましたか？",
+            "answer": "江原監営の門楼には朝鮮戦争以後から「江原監営門楼」という扁額が掲げられていました。"
+        }
+    ],
+    "word_Count": {
+        "text": 398,
+        "QA": 176
+    }
+}

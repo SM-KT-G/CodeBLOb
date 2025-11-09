@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_064181",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=173&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=15950200&ccbaCtcd=21&ccbaCpno=1122115950200&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2008-12-22",
+        "domain": "문화/역사관광",
+        "title": "목장지도"
+    },
+    "text": "牧場地図\\n\n釜山広域市金井区釜山大学路63番キル2(長田洞)釜山大学図書館\\n\n1678年、宝物、1678年に全国に分布する牧場を描いた筆写本の地図帳だ。朝鮮時代の牧場地図は朝鮮前期に第1次編纂し、1635(仁祖13)年に長幼が第2次編纂し、1658(孝宗9)年に第3次編纂した。このような牧場の指導は屏風で制作したが、現存しない。第4車線は1678(粛宗4)に許穆などが編纂して国王に捧げ、その副本を作ってその一つの本貫は私服時に所蔵し、また一つは春秋館に保管した。保管の必要性のために3枚が同時に作られており、その一部が国立中央図書館にはもう一部が釜山(プサン)大学図書館蔵書のものとみられる。牧場の指導は表紙1面と本文36面、あとがき6面など計43面構成していたが、この釜山(プサン)大学の図書館所蔵本は、若干の欠場がある。牧場の指導は私服の時価国家の重大な魔晶(馬政)の政策樹立に活用するために、全国のガムモクグヮンに命じて、牧場の実態を絵と地理的知識を報告することにしてこれを基に、整理編纂したもので、歴史的価値が高く、会話私的にも大きな意味がある。",
+    "QA": [
+        {
+            "question": "この牧場地図はいつ作られましたか？",
+            "answer": "1678年に作られました。"
+        },
+        {
+            "question": "なぜ牧場地図が作られたのですか？",
+            "answer": "牧場の実態を絵と地理的知識を報告するために、政策樹立に活用するために作られました。"
+        },
+        {
+            "question": "牧場地図は何枚構成されていますか？",
+            "answer": "表紙1面と本文36面、あとがき6面など、計43面構成されています。"
+        },
+        {
+            "question": "この牧場地図はどこに所蔵されていますか？",
+            "answer": "この牧場地図の一部は国立中央図書館に所蔵されており、また一部は釜山大学図書館に保管されています。"
+        },
+        {
+            "question": "牧場地図の歴史的価値はどのようなものですか？",
+            "answer": "牧場地図は朝鮮時代の重要な政策資料であり、歴史的価値が非常に高いものです。"
+        }
+    ],
+    "word_Count": {
+        "text": 352,
+        "QA": 193
+    }
+}

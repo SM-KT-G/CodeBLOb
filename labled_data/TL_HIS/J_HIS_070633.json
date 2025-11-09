@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_070633",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=214&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=20640000&ccbaCtcd=21&ccbaCpno=1122120640000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2020-04-23",
+        "domain": "문화/역사관광",
+        "title": "백자 항아리"
+    },
+    "text": "朝鮮後期(17世紀末∼18世紀初め)に作られた'白磁の壺(白磁大壺)'は高さ52.6cmの大型イプホです。口縁部と肩には微細にひび割れた部分がいましたが、ほとんどの形が完全であり保存状態も良好です。この壺はやや非対称な形を示しているが、自然で堂々として、次青白色の釉薬に安定した品格を見せてくれます。この壺は17世紀後半~18世紀前半の官窯で作られており、官窯白磁の製作技術が成熟した段階に行われたことを示す重要な作品です。釜山博物館で所蔵しているこの壺は、大型イプホとして希少性を持っており、破損や修理がほとんどなされておらず、完全性が維持されました。また、比例が適当な造形性と精製された釉、優秀な番組技法を備えたこの壺は、朝鮮時代の陶磁史の代表作品として評価され、宝物に指定されて研究、管理及び保存する価値があると考えられています。",
+    "QA": [
+        {
+            "question": "この白磁の壺は何時代に作られましたか？",
+            "answer": "この白磁の壺は朝鮮後期、17世紀末から18世紀初めに作られました。"
+        },
+        {
+            "question": "この白磁の壺の特徴は何ですか？",
+            "answer": "この白磁の壺はやや非対称な形を示しており、自然で堂々とした品格を持っています。また、次青白色の釉薬が安定していて、保存状態も良好です。"
+        },
+        {
+            "question": "この白磁の壺はどのように作られましたか？",
+            "answer": "この白磁の壺は官窯と呼ばれる窯で作られました。17世紀後半から18世紀前半に官窯の白磁の製作技術が成熟した時期に作られた重要な作品です。"
+        },
+        {
+            "question": "この白磁の壺はどのような価値がありますか？",
+            "answer": "この白磁の壺は大型イプホとして希少性を持ち、破損や修理がほとんどなされておらず、完全性が維持されています。また、比例が適当な造形性と精製された釉、優秀な番組技法を備えており、朝鮮時代の陶磁史の代表作品として評価されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 269,
+        "QA": 260
+    }
+}

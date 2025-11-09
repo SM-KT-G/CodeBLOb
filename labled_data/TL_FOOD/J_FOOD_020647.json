@@ -1,0 +1,31 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_020647",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2020-12-07",
+        "domain": "음식점",
+        "title": "明洞チゲマウル 永登浦( 명동찌개마을 영등포 )"
+    },
+    "text": "明洞チゲマウル 永登浦( 명동찌개마을 영등포 )\\n\nソウル特別市 ヨンドゥンポ区 ヨンジュンロ10ギル6\\n\n明洞のサラリーマンがよく訪れる店です。 ソウル特別市のヨンドゥンポ区に位置した韓食専門店です。代表的なメニューはキムチチゲです。",
+    "QA": [
+        {
+            "question": "明洞チゲマウル 永登浦はどこに位置していますか？",
+            "answer": "ソウル特別市のヨンドゥンポ区に位置しています。"
+        },
+        {
+            "question": "明洞チゲマウル 永登浦の代表的なメニューは何ですか？",
+            "answer": "キムチチゲが代表的なメニューです。"
+        }
+    ],
+    "word_Count": {
+        "text": 88,
+        "QA": 66
+    }
+}

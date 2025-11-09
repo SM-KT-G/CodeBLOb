@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_025425",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/traffic/yeongwol-station",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "寧越駅"
+    },
+    "text": "寧越駅\\n\n江原道 寧越郡\\n\n寧越駅は1955年6月に竣工し、端宗と関連のある地域的な特色をいかして瓦屋根の駅舎となっています。全国で一番美しい駅のひとつして数えられている寧越駅は高級感を感じることができます。",
+    "QA": [
+        {
+            "question": "駅舎はいつ竣工しましたか？",
+            "answer": "駅舎は1955年6月に竣工しました。"
+        },
+        {
+            "question": "駅舎の特徴は何ですか？",
+            "answer": "駅舎は瓦屋根のデザインが特徴であり、全国で一番美しい駅の一つとして評価されています。"
+        },
+        {
+            "question": "駅舎からは何を感じることができますか？",
+            "answer": "駅舎からは高級感を感じることができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 77,
+        "QA": 90
+    }
+}

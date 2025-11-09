@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_030093",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42010&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "성남 뉴타임"
+    },
+    "text": " 車12台駐車可能 -一般(オンドル)2人基準で1人追加する場合は1万ウォンの追加です。 - 長期滞在部屋(1、2、3人)オンドル部屋が用意されています。 無限大室の入室は10時から19時まで最大9時間です。 （031-758-3353）- いつも清潔な客室状態を維持いたします。 ご利用ありがとうございます。",
+    "QA": [
+        {
+            "question": "駐車場には車が何台停められますか？",
+            "answer": "駐車場は12台停められます。"
+        },
+        {
+            "question": "追加料金で1人追加することは可能ですか？",
+            "answer": "はい、追加料金として1万ウォンがかかります。"
+        },
+        {
+            "question": "長期滞在部屋には何人まで泊まることができますか？",
+            "answer": "長期滞在部屋は1人、2人、3人用の部屋が用意されています。"
+        },
+        {
+            "question": "無限大室の入室時間は何時から何時までですか？",
+            "answer": "無限大室の入室時間は10時から19時までです。"
+        },
+        {
+            "question": "お部屋は常に清潔な状態を保っていますか？",
+            "answer": "はい、いつも清潔な客室状態を維持しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 113,
+        "QA": 156
+    }
+}

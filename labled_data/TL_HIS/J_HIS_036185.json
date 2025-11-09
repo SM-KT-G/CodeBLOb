@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_036185",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1225&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=79&ccbaAsno=04260000&ccbaCtcd=11&ccbaCpno=4411104260000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2008-10-17",
+        "domain": "문화/역사관광",
+        "title": "전차 363호"
+    },
+    "text": "電車363号 (전차 363호)\\n\nソウル特別市鍾路区昌慶宮路215(臥龍洞、国立子ども科学館)\\n\n1930年、国家登録文化財、1930年に日本の日本車両株式会社で製作された半鋼製ボギー式(Bogie式)軌道車両で、ソウル西大門~鍾路~東大門~清涼里区間で運行され、韓国最古の路面電車である",
+    "QA": [
+        {
+            "question": "この電車はいつ作られましたか？",
+            "answer": "この電車は1930年に日本の日本車両株式会社で製作されました。"
+        },
+        {
+            "question": "この電車はどこで運行されていましたか？",
+            "answer": "この電車はソウル西大門~鍾路~東大門~清涼里区間で運行されていました。"
+        },
+        {
+            "question": "この電車は何のために使用されていましたか？",
+            "answer": "この電車は路面電車として使用されていました。"
+        },
+        {
+            "question": "この電車はどのような特徴がありますか？",
+            "answer": "この電車は半鋼製ボギー式(Bogie式)軌道車両で、韓国最古の路面電車です。"
+        },
+        {
+            "question": "この電車はどこにありますか？",
+            "answer": "この電車はソウル特別市鍾路区昌慶宮路215にあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 107,
+        "QA": 176
+    }
+}

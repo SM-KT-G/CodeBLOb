@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_028968",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2020-12-07",
+        "domain": "음식점",
+        "title": "韓国スンデ 永登浦区庁( 한국순대 영등포구청 )"
+    },
+    "text": "韓国スンデ 永登浦区庁( 한국순대 영등포구청 )\\n\nソウル特別市 ヨンドゥンポ区 ダンサンロ38ギル3\\n\n豚骨をからとったスープにスンデを入れて煮込んだ料理です。おすすめはスンデスープです。ソウル特別市のヨンドゥンポ区に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "スンデ永登浦区庁はどこにありますか？",
+            "answer": "スンデ永登浦区庁はソウル特別市のヨンドゥンポ区に位置しています。"
+        },
+        {
+            "question": "スンデとはどのような料理ですか？",
+            "answer": "スンデは豚骨をからとったスープにスンデを入れて煮込んだ料理です。"
+        },
+        {
+            "question": "スンデスープはおすすめですか？",
+            "answer": "はい、スンデスープはおすすめです。"
+        }
+    ],
+    "word_Count": {
+        "text": 91,
+        "QA": 95
+    }
+}

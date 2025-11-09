@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_037991",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1148&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=04390000&ccbaCtcd=38&ccbaCpno=3413804390000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2008-02-05",
+        "domain": "문화/역사관광",
+        "title": "의령 안호상 고택"
+    },
+    "text": "宜寧安浩相古宅 (의령 안호상 고택)\\n\n慶尚南道宜寧郡入山路2ギル13-6(ブリム面)\\n\n1911年、慶尚南道文化財資料、アン·ホサン古宅は耽津アン氏が累代で世居している宜寧郡入山村の中央部に位置しており、1948年大韓民国政府樹立の時に初代文教部長官を歴任したアン·ホサン博士の生家だ。安戸上の古宅で建築史的価値を持つのは1911年に建築した母屋だけであり、母屋を除いた下棟、狭門などは建築年代が遅く、建物配置および外部空間の構成面から見てサランチェと大門棟およびその他の付属建物の滅失によって原型が大きく毀損されている状態だ。母屋は正面5間、側面1間の一字型の建物で、前後左右に退が発達した一軒妻の切妻家で、鐘楼台の長与に「歳在辛亥二月十五日…」と書いた墨書名があり、1911年に建築したことが分かる。",
+    "QA": [
+        {
+            "question": "この古宅は何年に建てられましたか？",
+            "answer": "この古宅は1911年に建てられました。"
+        },
+        {
+            "question": "宜寧安浩相古宅はどのような位置にありますか？",
+            "answer": "宜寧安浩相古宅は慶尚南道宜寧郡入山村の中央部に位置しています。"
+        },
+        {
+            "question": "この古宅は誰の生家ですか？",
+            "answer": "この古宅はアン·ホサン博士の生家です。"
+        },
+        {
+            "question": "この古宅の建物配置や外部空間はどのようになっていますか？",
+            "answer": "この古宅の建物配置や外部空間はサランチェと大門棟およびその他の付属建物の滅失によって原型が大きく毀損されています。"
+        },
+        {
+            "question": "この古宅の建築史的価値を持つのはどの部分ですか？",
+            "answer": "この古宅の建築史的価値を持つのは母屋です。"
+        }
+    ],
+    "word_Count": {
+        "text": 261,
+        "QA": 184
+    }
+}

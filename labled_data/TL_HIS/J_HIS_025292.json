@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_025292",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=720&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=22&ccbaAsno=00140000&ccbaCtcd=33&ccbaCpno=2223300140000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "영동 내포제 시조창"
+    },
+    "text": "永同内包製時調唱 (영동 내포제 시조창)\\n\n忠清北道無形文化財 , 始祖唱は朝鮮後期の歌客イ·セチュンによって始まり、朝鮮純祖(在位1800~1834)の時に刊行された『遊芸志』に初めて経済に該当する平時調楽譜が伝える。 その後、歌曲の影響で多くの時調曲調が派生し、時調唱が各地方に広く普及したことにより地域的特性を帯びるようになるが、ソウル地方を中心に経済、全羅道の完済、忠清道の内浦制、慶尚道の嶺制などに区分された。 内包祭は忠清南道西北部地域で始まった始祖唱で、忠清地域固有の音楽だ。 韓禹燮が師匠である宋隠鄭求益から伝授された内包制始祖の種類には平時調·半角時調·私設時調·余昌径時調·南昌径時調·中腰時調·折り時調がある。 ハン·ウソプが伝承している始祖唱は忠清地域内包祭始祖唱の音楽的特徴である初章·中章·終章の最後の部分で3ないし5拍子が縮小される点が現れており、音の構成は黄鐘·仲呂·林鐘となっている。",
+    "QA": [
+        {
+            "question": "時調唱はいつ始まりましたか？",
+            "answer": "時調唱は朝鮮後期の歌客イ·セチュンによって始まりました。"
+        },
+        {
+            "question": "時調唱はどのように広まりましたか？",
+            "answer": "時調唱は各地方に広く普及しました。ソウル地方を中心に経済、全羅道の完済、忠清道の内浦制、慶尚道の嶺制などに区分されました。"
+        },
+        {
+            "question": "内包祭はどの地域で始まりましたか？",
+            "answer": "内包祭は忠清南道の西北部地域で始まりました。"
+        },
+        {
+            "question": "内包祭始祖唱の種類は何ですか？",
+            "answer": "内包祭始祖唱の種類には平時調・半角時調・私設時調・余昌径時調・南昌径時調・中腰時調・折り時調があります。"
+        },
+        {
+            "question": "ハン・ウソプが伝承している始祖唱の音楽的特徴は何ですか？",
+            "answer": "ハン・ウソプが伝承している始祖唱の音楽的特徴は、最後の部分で3ないし5拍子が縮小されることがあり、音の構成は黄鐘・仲呂・林鐘となっています。"
+        }
+    ],
+    "word_Count": {
+        "text": 301,
+        "QA": 237
+    }
+}

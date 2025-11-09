@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_030334",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42020&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "통영 동양"
+    },
+    "text": "ヤノルジャの会員は東ピラン壁画村に隣接した宿で特別特典を受けることができます。 この宿は統営中央市場まで約400m、徒歩では5分の距離に位置し、統営江口岸までは約250m、徒歩では3分の距離に位置しています。 また、東ピラン壁画村までは約600m、徒歩では9分、統営旅客ターミナルまでは約400m、徒歩では5分の距離に位置しています。",
+    "QA": [
+        {
+            "question": "この宿はどのくらいの距離にありますか？",
+            "answer": "統営中央市場まで約400m、統営江口岸までは約250m、東ピラン壁画村までは約600m、統営旅客ターミナルまでは約400mです。"
+        },
+        {
+            "question": "宿の特典は何ですか？",
+            "answer": "ヤノルジャの会員は東ピラン壁画村に隣接した宿で特別特典を受けることができます。"
+        },
+        {
+            "question": "どのくらいの時間で統営江口岸に行けますか？",
+            "answer": "徒歩では約3分の距離に位置しています。"
+        },
+        {
+            "question": "徒歩で統営旅客ターミナルまで行くにはどのくらいかかりますか？",
+            "answer": "約5分の距離に位置しています。"
+        },
+        {
+            "question": "東ピラン壁画村まで徒歩で行くにはどのくらいの時間がかかりますか？",
+            "answer": "約9分の距離に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 122,
+        "QA": 193
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_026752",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "鐘路スケトウダラ漁場（종로명태덕장）"
+    },
+    "text": "鐘路スケトウダラ漁場（종로명태덕장）\\n\nソウル特別市 鐘路区 水標路20キル 9\\n\n鐘路の隠れた名店で、辛い魚の煮付けが味わえます。 おすすめはスケトウダラの煮付けです。ソウル特別市のジョンノ区に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "このレストランの名前は何ですか？",
+            "answer": "鐘路スケトウダラ漁場（종로명태덕장）です。"
+        },
+        {
+            "question": "このレストランはどこにありますか？",
+            "answer": "ソウル特別市 鐘路区 水標路20キル 9に位置しています。"
+        },
+        {
+            "question": "このレストランのおすすめメニューは何ですか？",
+            "answer": "おすすめはスケトウダラの煮付けです。"
+        },
+        {
+            "question": "このレストランは何を専門としていますか？",
+            "answer": "韓食を専門としています。"
+        },
+        {
+            "question": "このレストランはどのような雰囲気ですか？",
+            "answer": "鐘路の隠れた名店であり、アットホームな雰囲気を味わえます。"
+        }
+    ],
+    "word_Count": {
+        "text": 82,
+        "QA": 149
+    }
+}

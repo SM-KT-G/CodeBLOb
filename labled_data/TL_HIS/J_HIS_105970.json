@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_105970",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=205&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=19560000&ccbaCtcd=37&ccbaCpno=1123719560000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2017-12-26",
+        "domain": "문화/역사관광",
+        "title": "청도 용천사 영산회상도"
+    },
+    "text": "清道龍泉寺霊山会上図\\n\n慶尚北道清道郡ハルティ路1375-9(角北面、龍泉寺)\\n\n1749年(英祖25)、宝物、清道ヨンチョンサヨンサン会商道は、画面の高さが4メートルに近い大型級フブル仏画だ。1749年(英祖25)に造成され、2000年5月30日頃ヨンチョンサで盗難されたが、2014年8月、回収された。不和を造成した火縄は分からないが、画面構成をはじめ、仏・菩薩の温和で端正な顔と身体の形、細く弾力のある描写、法の(法衣)に装飾された繊細な小型の文様、彩度の低い赤と緑の中心の落ち着いた色などからして、17世紀中葉祗林寺、通度寺、石南寺などの慶尚道地域で活動した際しての(任閑)の画風と非常に類似して注目される。釈迦如来を中心に数多くの眷属たちを登場させて勇壮な霊山会相の場面をしっかりしている構図と洗練された筆致でうまく具現したという点で国家指定文化財としての価値を認められた。",
+    "QA": [
+        {
+            "question": "この大型級仏画は何年に造成されましたか？",
+            "answer": "1749年(英祖25)に造成されました。"
+        },
+        {
+            "question": "盗難された後、いつ回収されたのですか？",
+            "answer": "盗難された後、2014年8月に回収されました。"
+        },
+        {
+            "question": "この大型級仏画の画面の高さはどのくらいありますか？",
+            "answer": "画面の高さは4メートルに近い大型級です。"
+        },
+        {
+            "question": "仏画の特徴的な点は何ですか？",
+            "answer": "仏画の特徴的な点は、仏・菩薩の温和で端正な顔と身体の形、細く弾力のある描写、法の(法衣)に装飾された繊細な小型の文様、彩度の低い赤と緑の中心の落ち着いた色などがあります。"
+        },
+        {
+            "question": "この仏画の価値は何によって認められたのですか？",
+            "answer": "この仏画の価値は、釈迦如来を中心に数多くの眷属たちを登場させて勇壮な霊山会相の場面をしっかりしている構図と洗練された筆致でうまく具現したという点で国家指定文化財としての価値を認められました。"
+        }
+    ],
+    "word_Count": {
+        "text": 288,
+        "QA": 252
+    }
+}

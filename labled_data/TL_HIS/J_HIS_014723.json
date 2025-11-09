@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_014723",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=725&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=22&ccbaAsno=00180000&ccbaCtcd=35&ccbaCpno=2223500180000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "영산작법"
+    },
+    "text": "霊山作法 (영산작법)\\n\n全羅北道無形文化財 , パンソリ、歌曲と共に韓国の三大声楽曲の一つである梵唄は仏教音楽で亡くなった人を極楽に送る天道儀式で歌う儀式音楽だ。 広い意味の梵唄には音以外に踊りが含まれるが、この時の踊りを指して作法という。 作法は灰(冥福を祈るために捧げる仏功)でしか見られない独特の仏教舞踊で、蝶の踊り、バラの踊り、法鼓の踊りの3種類に分けられ、全羅北道地域では蝶の踊りを魚山の踊りと呼ぶ。 栄山作法は全羅北道地域の文化芸術的な特性を持っており、ソウル地域の作法とは差があるが、ソウル地域では郷画界を主に行うのに対し、全羅北道地域では雲心界を主に行う。 三角帽子の落款でもソウル地域には花が描かれているが、全羅北道地域では鯉が描かれており、巫俗的な要素が加味されたものと見られる。 霊山作法は特に魚山踊りとバラ踊りの踊りが多様で芸術的な美しさが宿っており、法鼓踊りの場合、足の動作がほとんどなく踊りが保守的な面を見せるのが特徴だ。",
+    "QA": [
+        {
+            "question": "梵唄とは何ですか？",
+            "answer": "梵唄は韓国の三大声楽曲の一つで、亡くなった人を極楽に送る天道儀式で歌う儀式音楽です。"
+        },
+        {
+            "question": "霊山作法の特徴は何ですか？",
+            "answer": "霊山作法は仏教音楽である梵唄に加えて、踊りを含んだ儀式舞踊です。作法は灰でしか見られない独特な仏教舞踊で、蝶の踊り、バラの踊り、法鼓の踊りの3種類に分けられます。特に魚山踊りとバラ踊りは多様で芸術的な美しさがあります。"
+        },
+        {
+            "question": "全羅北道地域とソウル地域の作法の違いは何ですか？",
+            "answer": "全羅北道地域の作法はソウル地域とは差があります。全羅北道地域では雲心界を主に行い、三角帽子の落款には鯉が描かれています。一方、ソウル地域では花が描かれています。全羅北道地域の作法には巫俗的な要素も加味されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 313,
+        "QA": 222
+    }
+}

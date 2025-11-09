@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_067327",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2020-03-18",
+        "domain": "숙박",
+        "title": "Mr. Brown"
+    },
+    "text": "Mr. Brown (Mr. Brown)\\n\nソウル特別市 麻浦区 聖美山路29キル 10 (延南洞)\\n\n当店は外国人観光客専用の民宿です。韓国国籍の方はご利用いただけません。お客様が友達の家に遊びに来たようにくつろいでお過ごしいただけます。",
+    "QA": [
+        {
+            "question": "どのような客室がありますか？",
+            "answer": "シングルルーム、ダブルルーム、ツインルームなどがございます。"
+        },
+        {
+            "question": "朝食は提供されますか？",
+            "answer": "はい、朝食を提供しております。"
+        },
+        {
+            "question": "Wi-Fiは利用できますか？",
+            "answer": "はい、Wi-Fiをご利用いただけます。"
+        },
+        {
+            "question": "周辺に観光スポットはありますか？",
+            "answer": "はい、周辺には観光スポットがたくさんあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 90,
+        "QA": 104
+    }
+}

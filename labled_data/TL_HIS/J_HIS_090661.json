@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_090661",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=486&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=01460000&ccbaCtcd=33&ccbaCpno=2113301460000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1985-12-28",
+        "domain": "문화/역사관광",
+        "title": "영동 묵정리 고가"
+    },
+    "text": "嶺東墨井里高架\\n\n忠清北道永同郡陽江面墨井里598番地\\n\n忠清北道有形文化財、墨井里古閑は、1932年に龍華の面ウォルチョンリにいたチョンチャムボンの家を移したと伝えてきている住宅と''ヨンサジェ''と呼ばれる。古い建物ではないが、特徴ある細部の所在を備えている。鉤型の母屋とㅡの字型の付属建物そしてヘングラングチェの屋根より一言高く作った門構えなどが残っている。母屋は、自然石を積み上げて作った基壇の上に床の前面には長い礎をめぐって他の部分には4角で磨いた足がかりを作った。屋根は横顔が八(八部)字形の入母屋屋根である。",
+    "QA": [
+        {
+            "question": "この高架はいつ建てられましたか？",
+            "answer": "この高架は1932年に建てられました。"
+        },
+        {
+            "question": "この高架の場所はどこですか？",
+            "answer": "この高架は忠清北道永同郡陽江面墨井里598番地にあります。"
+        },
+        {
+            "question": "この高架の特徴的な部分は何ですか？",
+            "answer": "この高架の特徴的な部分は、鉤型の母屋、ㅡの字型の付属建物、そしてヘングラングチェの屋根より一言高く作った門構えです。"
+        },
+        {
+            "question": "この高架はどのような目的で使用されていましたか？",
+            "answer": "この高架は龍華の面ウォルチョンリにいたチョンチャムボンの家を移すために使用されました。"
+        },
+        {
+            "question": "この高架の建築スタイルは何ですか？",
+            "answer": "この高架の建築スタイルは入母屋屋根で、母屋は自然石を積み上げて作られています。"
+        }
+    ],
+    "word_Count": {
+        "text": 192,
+        "QA": 202
+    }
+}

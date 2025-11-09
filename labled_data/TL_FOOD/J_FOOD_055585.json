@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_055585",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/mandujip",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "マンドゥチプ"
+    },
+    "text": "マンドゥチプ\\n\nソウル特別市 江南区 狎鴎亭路338\\n\nマンドゥ（餃子）一筋30年の「マンドゥチプ」。素朴な平安道スタイルのマンドゥグク（餃子スープ）が代表メニューです。",
+    "QA": [
+        {
+            "question": "このお店の名前は何ですか？",
+            "answer": "マンドゥチプです。"
+        },
+        {
+            "question": "お店の場所はどこですか？",
+            "answer": "ソウル特別市江南区狎鴎亭路338にあります。"
+        },
+        {
+            "question": "どのようなメニューがありますか？",
+            "answer": "代表的なメニューは素朴な平安道スタイルのマンドゥグク（餃子スープ）です。"
+        },
+        {
+            "question": "このお店で何年間マンドゥを作っていますか？",
+            "answer": "マンドゥチプは30年間、マンドゥ（餃子）を作っています。"
+        }
+    ],
+    "word_Count": {
+        "text": 63,
+        "QA": 115
+    }
+}

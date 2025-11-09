@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_024186",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=926&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=24&ccbaAsno=00260000&ccbaCtcd=37&ccbaCpno=2443700260000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1981-04-25",
+        "domain": "문화/역사관광",
+        "title": "안동김씨태장재사"
+    },
+    "text": "安東金氏太蔵斎舎 (안동김씨태장재사)\\n\n慶尚北道安東市西後面豊山泰寺路3193-6(泰場里)\\n\n慶尚北道民俗文化財 , 安東金氏の始祖である太寺金善平公の墓を守り、祭祀を行うための家で、朝鮮英祖26年(1750)に子孫たちが建てたが、植樹難と病気が重なり、元々あった僧侶の家を撤去し、正祖17年(1793)に建て直した。 1913年に10間を建て直し、1960年に修理した。 胎蔵斎舎というのは斎舎全体を指す言葉であり、ロ字型の斎舎と一字型の李相楼、コ字型の管理士で構成されている。 斎舎は内政より一段高く構成されている建物だ。 軒先には光や雨を防ぐために設置した日よけがあり、簡潔で質素な家だ。 斎舎には祭祀を準備する遺事室と戦死庁、参祭員室がある。 イ·サンルは家の前面にある建物で、祭祀を行った後に食べ物を食べたり門中会議を開く場所として使われるところだ。 この地域の斎舎建物の中でも規模が比較的大きく、各部分が用途によって明確に区分されている建物で、毎年10月10日に祭祀を行う。",
+    "QA": [
+        {
+            "question": "この斎舎の建物はいつ建てられましたか？",
+            "answer": "朝鮮英祖26年(1750)に建てられましたが、正祖17年(1793)に建て直されました。"
+        },
+        {
+            "question": "斎舎はどのような建物ですか？",
+            "answer": "斎舎は内政より一段高く構成されている建物で、軒先には日よけがあります。"
+        },
+        {
+            "question": "斎舎にはどんな部屋がありますか？",
+            "answer": "斎舎には祭祀を準備する遺事室と戦死庁、参祭員室があります。"
+        },
+        {
+            "question": "イ・サンルはどのような場所ですか？",
+            "answer": "イ・サンルは祭祀後の食事や門中会議が行われる場所です。"
+        },
+        {
+            "question": "この斎舎の祭祀はいつ行われますか？",
+            "answer": "毎年10月10日に祭祀が行われます。"
+        }
+    ],
+    "word_Count": {
+        "text": 327,
+        "QA": 173
+    }
+}

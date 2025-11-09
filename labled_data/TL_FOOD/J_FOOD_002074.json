@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_002074",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-01",
+        "domain": "음식점",
+        "title": "SHABU MOON Pyeongtaek ( 샤브문 평택 )"
+    },
+    "text": "SHABU MOON Pyeongtaek \n京畿道 平沢市 京畿大路 279\nヘルシーで新鮮な素材をおいしく楽しめる1人しゃぶしゃぶ専門店です。8種類の野菜と最高級オーストラリア産の牛肉、カルグクス、栄養粥まで味わえます。 代表的なメニューは牛肉しゃぶしゃぶです。",
+    "QA": [
+        {
+            "question": "このお店の場所はどこですか？",
+            "answer": "SHABU MOONは京畿道平沢市の京畿大路279にあります。"
+        },
+        {
+            "question": "このお店の特徴は何ですか？",
+            "answer": "SHABU MOONは1人しゃぶしゃぶ専門店で、ヘルシーで新鮮な素材を使ったおいしい料理が楽しめます。牛肉しゃぶしゃぶやカルグクス、栄養粥などのメニューもあります。"
+        },
+        {
+            "question": "このお店の代表的なメニューは何ですか？",
+            "answer": "SHABU MOONの代表的なメニューは牛肉しゃぶしゃぶです。"
+        },
+        {
+            "question": "このお店の野菜は何種類ありますか？",
+            "answer": "SHABU MOONでは8種類の野菜が用意されています。"
+        },
+        {
+            "question": "このお店の牛肉はどこ産ですか？",
+            "answer": "SHABU MOONの牛肉は最高級のオーストラリア産です。"
+        }
+    ],
+    "word_Count": {
+        "text": 97,
+        "QA": 204
+    }
+}

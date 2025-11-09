@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_003911",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42020&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "통영 씨앤씨펜션(신축)"
+    },
+    "text": "こんにちは！統営シーアンドシーペンションです。 統営シーエヌシーペンションは海が一望できるオーシャンビューの空間で、泊まるだけでも幸せが感じられる場所です。 今度は私のペンションで美しい思い出を作って行ってください。 また、重要なお知らせとしては退室時間の延長に関する事項があります。 1時間当たり20,000ウォンの追加費用をお支払いいただければ、退室時間を延長することができます。 ありがとうございます。",
+    "QA": [
+        {
+            "question": "統営シーエヌシーペンションの特徴は何ですか？",
+            "answer": "統営シーエヌシーペンションは海が一望できるオーシャンビューの空間です。"
+        },
+        {
+            "question": "統営シーエヌシーペンションでできることは何ですか？",
+            "answer": "統営シーエヌシーペンションでは、泊まるだけでも幸せが感じられます。"
+        },
+        {
+            "question": "退室時間の延長について教えてください。",
+            "answer": "退室時間を延長する場合、1時間当たり20,000ウォンの追加費用がかかります。"
+        },
+        {
+            "question": "統営シーエヌシーペンションの周辺には何がありますか？",
+            "answer": "統営シーエヌシーペンションの周辺には美しい自然景観や観光スポットがあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 149,
+        "QA": 173
+    }
+}

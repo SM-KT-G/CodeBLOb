@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_LEI_010999",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2023-05-03",
+        "domain": "레포츠",
+        "title": "까치양어장"
+    },
+    "text": "カササギ養魚場 (까치양어장)\\n\n京畿道始興市水仁路2107番キル146(城南洞)\\n\n京畿道始興市朝南洞に位置する「カササギ養魚場」は、淡水釣りができる楽しい場所です。ここでは、魚を捕まえて放すだけでなく、持ち帰って楽しむこともできます。雑魚場で捕まえた魚は、1人当たり10kg以下で持ち帰るか、1kg当たり1000ウォンで販売することができます。",
+    "QA": [
+        {
+            "question": "場所はどこですか？",
+            "answer": "カササギ養魚場は京畿道始興市朝南洞に位置しています。"
+        },
+        {
+            "question": "何をすることができますか？",
+            "answer": "ここでは淡水釣りが楽しめます。魚を捕まえて放すだけでなく、持ち帰って楽しむこともできます。"
+        },
+        {
+            "question": "魚を持ち帰る際のルールは何ですか？",
+            "answer": "雑魚場で捕まえた魚は、1人当たり10kg以下で持ち帰るか、1kg当たり1000ウォンで販売することができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 129,
+        "QA": 121
+    }
+}

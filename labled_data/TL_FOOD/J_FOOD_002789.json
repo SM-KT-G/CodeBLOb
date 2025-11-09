@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_002789",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "イジョンカルグクスモミル ( 이정칼국수모밀 )"
+    },
+    "text": "イジョンカルグクスモミル ( 이정칼국수모밀 )\n京畿道 ピョンテク市 ビョンドン2ギル5\n様々な麺料理が味わえる店です。おすすめはピリ辛カルグクスです。京畿道のピョンテク市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "イジョンカルグクスモミルはどこに位置していますか？",
+            "answer": "イジョンカルグクスモミルは京畿道のピョンテク市に位置しています。"
+        },
+        {
+            "question": "イジョンカルグクスモミルではどんな麺料理が味わえますか？",
+            "answer": "イジョンカルグクスモミルでは様々な麺料理が味わえます。特におすすめはピリ辛カルグクスです。"
+        },
+        {
+            "question": "ピリ辛カルグクスはどんな味ですか？",
+            "answer": "ピリ辛カルグクスは辛さのあるカルグクスで、スパイシーな味わいです。"
+        }
+    ],
+    "word_Count": {
+        "text": 73,
+        "QA": 132
+    }
+}

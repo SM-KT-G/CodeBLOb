@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_064959",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1037&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=01030000&ccbaCtcd=35&ccbaCpno=3413501030000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1984-04-01",
+        "domain": "문화/역사관광",
+        "title": "무주향교대성전"
+    },
+    "text": "全羅北道には文化財資料がたくさん存在します。その一つが郷校です。このところは孔子と多くの聖賢たちに祭祀をして地方の人たちの教育と教化のために国で立てた教育機関です。茂朱郷校は、朝鮮太祖7年に初めて設立されており、最初は現在の位置から北に位置しました。しかし、虎による被害が激しく、粛宗18年にヒャンロサン西に移住することになりました。しかし、ここの丘陵地がしめっという理由で、純祖(スンジョ)34年以降現在位置へ再び移動しました。今とても位置を移動できないのです。現在の郷校の建物は、以降数回の報酬を経て、その姿は過去と一緒に保存されています。大成殿は孔子と中国儒学者の位牌を祭って祭祀を行う空間で、規模は表が3間、側面が2つあります。屋根は切妻屋根で構成されています。朝鮮時代には国で土地と奴婢、本などを受け、学生たちを教えたりしたが、現在は教育機能はなく、祭祀の役割だけが残っています。",
+    "QA": [
+        {
+            "question": "茂朱郷校はいつ設立されましたか？",
+            "answer": "茂朱郷校は朝鮮太祖7年に初めて設立されました。"
+        },
+        {
+            "question": "茂朱郷校は最初はどこに位置していましたか？",
+            "answer": "茂朱郷校は最初は現在の位置から北に位置していました。"
+        },
+        {
+            "question": "なぜ茂朱郷校は移動することになりましたか？",
+            "answer": "茂朱郷校は虎による被害が激しく、粛宗18年にヒャンロサン西に移住することになりました。"
+        },
+        {
+            "question": "なぜ茂朱郷校は現在の位置へ再び移動しましたか？",
+            "answer": "茂朱郷校はここの丘陵地がしめっという理由で、純祖34年以降現在位置へ再び移動しました。"
+        },
+        {
+            "question": "現在の郷校の建物の規模はどのようになっていますか？",
+            "answer": "現在の郷校の建物は表が3間、側面が2つの規模で構成されています。"
+        },
+        {
+            "question": "茂朱郷校の大成殿はどのような役割を果たしていますか？",
+            "answer": "茂朱郷校の大成殿は孔子と中国儒学者の位牌を祭って祭祀を行う空間で、教育機能はなく祭祀の役割だけが残っています。"
+        }
+    ],
+    "word_Count": {
+        "text": 289,
+        "QA": 259
+    }
+}

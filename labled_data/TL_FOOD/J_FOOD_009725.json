@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_009725",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-06",
+        "domain": "음식점",
+        "title": "チェゴジプ炭火タッカルビ専門店 ( 최고집숯불닭갈비전문점 )"
+    },
+    "text": "チェゴジプ炭火タッカルビ専門店 ( 최고집숯불닭갈비전문점 )\\n\nソウル特別市 中区 ミョンドン8ギル21-7\\n\n韓国で人気のタッカルビ料理に様々なトッピングを加えて楽しめる店です。ソウル特別市のジュン区に位置した韓食専門店です。おすすめはタッカルビです。",
+    "QA": [
+        {
+            "question": "このレストランの名前は何ですか？",
+            "answer": "チェゴジプ炭火タッカルビ専門店 ( 최고집숯불닭갈비전문점 )です。"
+        },
+        {
+            "question": "このレストランはどこにありますか？",
+            "answer": "ソウル特別市中区ミョンドン8ギル21-7にあります。"
+        },
+        {
+            "question": "このレストランの特徴は何ですか？",
+            "answer": "このレストランでは、韓国で人気のタッカルビ料理に様々なトッピングを加えて楽しむことができます。"
+        },
+        {
+            "question": "おすすめのメニューは何ですか？",
+            "answer": "おすすめはタッカルビです。"
+        },
+        {
+            "question": "このレストランはどのような雰囲気ですか？",
+            "answer": "このレストランは韓食専門店で、アットホームな雰囲気があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 95,
+        "QA": 172
+    }
+}

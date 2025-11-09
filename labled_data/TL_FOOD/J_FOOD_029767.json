@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_029767",
+        "source": "도서",
+        "writer": "안혜연",
+        "ISBN_ISNN": "978-89-6053-269-4",
+        "version": "초판",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "그 카페에 가다",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2012-09-05",
+        "domain": "음식점",
+        "title": "아티제 인천송도점"
+    },
+    "text": "休日には童話の中にどぶんはまることができるところがある。 そこはA fairy-tale HOLIDAYだ。 メニューを開けてみると、カフェアメリカーノから様々な飲み物やケーキまで多様な選択肢が用意されている。 カフェラテ、スパニッシュラテ、フラットホワイト、カプチーノなど多様なコーヒー飲料と各種フルーツジュース、レモネード、トマトジュースなど新鮮な飲み物も楽しめる。 そしてダブルストロベリーシフォンケーキ、テディベアチョコシフォン、アールグレイシフォンケーキなど多様な種類のケーキもあり、価格対比クオリティが非常に優れている。 ここはまるで童話の中のカフェのようなところだ。 本当に幻想的な休暇を過ごしたいなら、A fairy-tale HOLIDAYに行ってみてはどうだろうか。",
+    "QA": [
+        {
+            "question": "A fairy-tale HOLIDAYではどんな飲み物が楽しめますか？",
+            "answer": "A fairy-tale HOLIDAYではカフェアメリカーノ、カフェラテ、スパニッシュラテ、フラットホワイト、カプチーノなど多様なコーヒー飲料や各種フルーツジュース、レモネード、トマトジュースなど新鮮な飲み物が楽しめます。"
+        },
+        {
+            "question": "A fairy-tale HOLIDAYではどんな種類のケーキがありますか？",
+            "answer": "A fairy-tale HOLIDAYではダブルストロベリーシフォンケーキ、テディベアチョコシフォン、アールグレイシフォンケーキなど多様な種類のケーキがあります。"
+        },
+        {
+            "question": "A fairy-tale HOLIDAYの価格対比クオリティはどうですか？",
+            "answer": "A fairy-tale HOLIDAYの価格対比クオリティは非常に優れています。"
+        },
+        {
+            "question": "A fairy-tale HOLIDAYは童話の中のカフェのような場所ですか？",
+            "answer": "はい、A fairy-tale HOLIDAYはまるで童話の中のカフェのような場所です。"
+        },
+        {
+            "question": "A fairy-tale HOLIDAYで本当に幻想的な休暇を過ごすことができますか？",
+            "answer": "はい、A fairy-tale HOLIDAYで本当に幻想的な休暇を過ごすことができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 251,
+        "QA": 379
+    }
+}

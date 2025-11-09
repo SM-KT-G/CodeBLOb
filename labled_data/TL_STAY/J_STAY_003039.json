@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_003039",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42020&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "창원 용호동 성산호텔"
+    },
+    "text": "お知らせ: この宿泊施設は貸室時間を提供します。 この宿は龍池湖から徒歩1分の距離に位置しております。 また、ワイファイを使用することもできますし、手荷物を保管することもできます。 インフォメーションデスクは24時間営業しております。 しかし、この宿は愛犬同伴はできません。 ダブルルーム及びツインルームには合計3名以上から1万ウォンの追加料金が発生します。",
+    "QA": [
+        {
+            "question": "この宿泊施設はどのくらいの距離に位置していますか？",
+            "answer": "龍池湖から徒歩1分の距離に位置しております。"
+        },
+        {
+            "question": "ワイファイの利用は可能ですか？",
+            "answer": "はい、ワイファイの利用が可能です。"
+        },
+        {
+            "question": "手荷物の保管はできますか？",
+            "answer": "はい、手荷物の保管が可能です。"
+        },
+        {
+            "question": "インフォメーションデスクは何時まで営業していますか？",
+            "answer": "インフォメーションデスクは24時間営業しております。"
+        },
+        {
+            "question": "愛犬を連れて泊まることはできますか？",
+            "answer": "申し訳ございませんが、愛犬同伴はできません。"
+        },
+        {
+            "question": "ダブルルーム及びツインルームには何名以上から追加料金が発生しますか？",
+            "answer": "ダブルルーム及びツインルームには合計3名以上から1万ウォンの追加料金が発生します。"
+        }
+    ],
+    "word_Count": {
+        "text": 131,
+        "QA": 200
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_038891",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=32&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=00180000&ccbaCtcd=34&ccbaCpno=1123400180000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1963-01-21",
+        "domain": "문화/역사관광",
+        "title": "청양 서정리 구층석탑"
+    },
+    "text": "靑陽西亭里九層石塔 (청양 서정리 구층석탑)\\n\n忠清南道青陽郡定山面西亭里16-2番地\\n\n高麗時代、宝物、公州から青陽側に23km離れた野原の中に立っている塔で、付近に高麗時代の白谷寺という寺があったというが、周囲に瓦礫などが散らばっているだけで他の遺物は見当たらない。 塔は2段の基壇の上に9階建ての塔身を置いた姿だ。 下の階の基壇には眼象を回して彫ったが、底線が花の形にそびえており、高麗時代の様式上の特徴を表している。 上層基壇には4角と面の中央に柱の形を刻み、その上に適当な厚さの石を覆って安定した形をしている。 塔身1階が大きい点が特徴的だが、2階からは高さが明確に減るが、広さは大きく狭くならず優雅な感じだ。 屋根石は底面に1階は5段、残りの階は3段ずつの支えを置き、4隅が少しずつ持ち上げられている。 全体的に新羅時代から続いてきた石塔様式に忠実に従っているが、9階にもなる層数によって形が非常に高くなり安定感が足りない。 各部分の細部的彫刻様式や基壇の眼像を刻んだ手法から見て、高麗前期に建てられたものと推定される。",
+    "QA": [
+        {
+            "question": "この石塔は何世紀に建てられましたか？",
+            "answer": "この石塔は高麗時代に建てられました。"
+        },
+        {
+            "question": "この石塔はどのような形をしていますか？",
+            "answer": "この石塔は2段の基壇の上に9階建ての塔身を持つ形をしています。"
+        },
+        {
+            "question": "なぜこの石塔は高麗時代の様式上の特徴を表していますか？",
+            "answer": "この石塔の基壇の底線が花の形にそびえており、それが高麗時代の様式上の特徴を表しています。"
+        },
+        {
+            "question": "この石塔の屋根石はどのような形をしていますか？",
+            "answer": "この石塔の屋根石は底面に1階は5段、残りの階は3段ずつの支えを置き、4隅が少しずつ持ち上げられています。"
+        },
+        {
+            "question": "この石塔はどの時期に建てられたものと推定されますか？",
+            "answer": "この石塔は各部分の細部的彫刻様式や基壇の眼像を刻んだ手法から見て、高麗前期に建てられたものと推定されます。"
+        }
+    ],
+    "word_Count": {
+        "text": 343,
+        "QA": 228
+    }
+}

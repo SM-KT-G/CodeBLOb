@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_096001",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=791&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=00300000&ccbaCtcd=23&ccbaCpno=2332300300000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1995-03-02",
+        "domain": "문화/역사관광",
+        "title": "이건창 생가"
+    },
+    "text": "イ·ゴンチャン生家\\n\n仁川江華郡花島面海岸南路1114番キル6(沙木里)\\n\n19世紀ごろ、仁川広域市記念物、文章家として名前が高かった朝鮮後期の文臣英才李建昌(1852∼1898)先生が住んでいた生家だ。高宗3年(1866)15歳の幼い年で文科に合格し、高宗11年(1874)ソジャングヮンに抜擢され、忠清、牛島の暗行御史などを務めた。剛直な性格のために三度も島流しされ、また、釈放された。彼の著書『ダンウィトンリャク』は党派を超越して親族を越えて公正な立場で派閥間争いの原因と展開過程を記述した名著と評価されている。著書には、『ダンウィトンリャク』のほかに『ミョンミダン家』がある。この建物が建てられた時期は定かではないものの柱や梁などの治木手法(治木手法)として見る場合百年余りがなったと判断され、自然石の基壇の上に礎をめぐって三両(三樑)世帯で、体全体を絞った典型的な韓屋の構造になっている。母屋は''イ''字型であり、板の間を中心に寝室と部屋が左右にあり、奥の間の庭には台所を出すなど、京畿道(キョンギド)地方の一般的な住居の姿をしている。建物のすぐそばにはイグヮンミョン(李匡明)、大の李(李是遠)など祖先の墓地がある。",
+    "QA": [
+        {
+            "question": "この家を建てた人物は誰ですか？",
+            "answer": "李建昌(1852∼1898)先生が住んでいた生家です。"
+        },
+        {
+            "question": "この家の建築様式はどのようなものですか？",
+            "answer": "典型的な韓屋の構造になっており、母屋は''イ''字型で、板の間を中心に寝室と部屋が左右にあります。"
+        },
+        {
+            "question": "この家の周辺には何がありますか？",
+            "answer": "建物のすぐそばにはイグヮンミョン(李匡明)、大の李(李是遠)など祖先の墓地があります。"
+        },
+        {
+            "question": "どのような著書がありますか？",
+            "answer": "彼の著書には、『ダンウィトンリャク』のほかに『ミョンミダン家』があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 379,
+        "QA": 162
+    }
+}

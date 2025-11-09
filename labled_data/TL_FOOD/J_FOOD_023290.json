@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_023290",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/songdo-galmaegi-songrim-branch",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "松島カルメギ 松林店"
+    },
+    "text": "松島カルメギ 松林店\\n\n仁川広域市 西区 ペクポムロ 872, Aドン 2階\\n\n1988年開店以来、仁川松島の名物として定着し、豚肉の部位の中でも少量しか取れないカルメギサルを主なメニューにしている韓食レストランです。",
+    "QA": [
+        {
+            "question": "このレストランの名前は何ですか？",
+            "answer": "松島カルメギ 松林店です。"
+        },
+        {
+            "question": "このレストランはどこにありますか？",
+            "answer": "仁川広域市西区ペクポムロ872, Aドンの2階にあります。"
+        },
+        {
+            "question": "このレストランはいつ開店しましたか？",
+            "answer": "このレストランは1988年に開店しました。"
+        },
+        {
+            "question": "このレストランの主なメニューは何ですか？",
+            "answer": "このレストランの主なメニューは豚肉の部位の中でも少量しか取れないカルメギサルです。"
+        },
+        {
+            "question": "このレストランはどんな名物がありますか？",
+            "answer": "このレストランの名物は豚肉の部位の中でも少量しか取れないカルメギサルです。"
+        }
+    ],
+    "word_Count": {
+        "text": 81,
+        "QA": 170
+    }
+}

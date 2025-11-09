@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_087965",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/collectionList#######",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2023-10-11",
+        "domain": "문화/역사관광",
+        "title": "안익태의 엽서2"
+    },
+    "text": "安益泰のはがき ( 안익태의 엽서)\\n\nアメリカ合衆国のアン・イクテ先生が、ローリータ夫人に送った葉書です。この葉書は紙製で、洋紙を使用しています。アン・イクテ先生は交通・通信の専門家であり、この葉書は郵便の通信手段として使用されます。サイズは横144cm、縦105cmです。",
+    "QA": [
+        {
+            "question": "誰がこの葉書を送ったのですか？",
+            "answer": "アメリカ合衆国のアン・イクテ先生が、この葉書を送りました。"
+        },
+        {
+            "question": "この葉書はどのような紙で作られていますか？",
+            "answer": "この葉書は紙製で、洋紙を使用しています。"
+        },
+        {
+            "question": "アン・イクテ先生の専門は何ですか？",
+            "answer": "アン・イクテ先生は交通・通信の専門家です。"
+        },
+        {
+            "question": "この葉書のサイズは何ですか？",
+            "answer": "この葉書のサイズは横144cm、縦105cmです。"
+        }
+    ],
+    "word_Count": {
+        "text": 101,
+        "QA": 118
+    }
+}

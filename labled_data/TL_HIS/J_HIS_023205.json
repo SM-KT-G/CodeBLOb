@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_023205",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1032&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=00940000&ccbaCtcd=37&ccbaCpno=3413700940000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1985-08-05",
+        "domain": "문화/역사관광",
+        "title": "숭복사지삼층석탑"
+    },
+    "text": "崇福寺跡 三階石塔 (숭복사지삼층석탑)\\n\n慶尚北道慶州市外洞邑末方里山23-1番地\\n\n慶尚北道文化財資料 , 崇福寺跡に東西に立っている双塔で、両塔とも2層基壇の上に3層の塔身を上げた姿だ。 互いに同じ規模と様式をしているため、下·上層基壇に柱の形を刻み、特に上階基壇には柱彫刻の間の面ごとに八部衆神(仏陀で仏法を守護し大衆を教化するという8群の守護神)の姿を彫刻した。 塔身の石にも柱の形が刻まれており、1階の石の4面には門の形の彫刻が置かれている。 屋根石は底面に4段の支えを置いた。 現在、二つの塔は一部の石材が破壊されたり消えたまま残っている。 東塔は基壇の一部が破壊され塔身の2階建ての石と頭飾りがなくなり、西塔も基壇の一部が破壊され塔身の2·3階建ての石と3階建ての石、頭飾りがなくなった。 全体的に典型的な統一新羅石塔様式に従っているが、屋根石の支えが4段に減ることから、統一新羅時代後期に建てたものと見られる。",
+    "QA": [
+        {
+            "question": "この塔は何階建てですか？",
+            "answer": "この塔は3階建てです。"
+        },
+        {
+            "question": "塔身の石には何が彫刻されていますか？",
+            "answer": "塔身の石には柱の形が刻まれており、1階の石の4面には門の形の彫刻が置かれています。"
+        },
+        {
+            "question": "塔の屋根石は何段の支えを持っていますか？",
+            "answer": "塔の屋根石は底面に4段の支えを持っています。"
+        },
+        {
+            "question": "この塔はいつ建てられましたか？",
+            "answer": "この塔は統一新羅時代後期に建てられたものと見られています。"
+        },
+        {
+            "question": "現在、この塔は完全な形で残っていますか？",
+            "answer": "現在、この塔は一部の石材が破壊されたり消えたまま残っています。"
+        }
+    ],
+    "word_Count": {
+        "text": 305,
+        "QA": 160
+    }
+}

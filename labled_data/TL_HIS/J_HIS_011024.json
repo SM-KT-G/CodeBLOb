@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_011024",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1099&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=02370000&ccbaCtcd=34&ccbaCpno=3413402370000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1984-05-17",
+        "domain": "문화/역사관광",
+        "title": "김육비"
+    },
+    "text": "金六碑 (김육비)\\n\n忠清南道牙山市新昌面邑內里310-1\\n\n1660年 , 忠清南道文化財資料 , 朝鮮顕宗の時、大同法を主張して施行させたキム·ユク先生の功を称えるために建てられた碑だ。 金六（キム·ユク、1580~1658）は実学思想を基に制度改革を推進した朝鮮後期の文臣である。 宣祖38年(1605)、科挙に及第して官職に進み忠清道観察使、道勝地、右議政、左議政、領議政などを務めた。 彼は特に各地方の土産物を捧げさせる供物法を廃止し、米と捕虜に代わる大同法の実施を主張したが、この大同法の実施で農民の負担を減らし、国家の財政もそれなりに確保することになった。 雨は亀の台の上に雨体を立てて頭石をのせた。 頭石には互いに睨み合う2匹の龍の姿を生き生きと彫刻している。 碑に刻まれた「純治17年名」という記録から見て、顕宗1年(1660年)にこの碑を建てたものと推定される。",
+    "QA": [
+        {
+            "question": "この金六碑はいつ建てられましたか？",
+            "answer": "この金六碑は顕宗1年（1660年）に建てられました。"
+        },
+        {
+            "question": "金六碑はどのような人物を称えるために建てられましたか？",
+            "answer": "金六碑は実学思想を基に制度改革を推進したキム・ユク先生の功績を称えるために建てられました。"
+        },
+        {
+            "question": "金六碑の場所はどこですか？",
+            "answer": "金六碑は韓国の忠清南道牙山市新昌面邑内里310-1にあります。"
+        },
+        {
+            "question": "金六碑にはどのような彫刻がありますか？",
+            "answer": "金六碑には互いに睨み合う2匹の龍の姿が生き生きと彫刻されています。"
+        },
+        {
+            "question": "金六碑は何の法を主張して施行させた人物を称えるために建てられましたか？",
+            "answer": "金六碑は大同法を主張して施行させたキム・ユク先生を称えるために建てられました。"
+        }
+    ],
+    "word_Count": {
+        "text": 288,
+        "QA": 209
+    }
+}

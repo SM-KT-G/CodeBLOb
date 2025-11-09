@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_023355",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-02-18",
+        "domain": "음식점",
+        "title": "松鶴韓定食（송학한정식）"
+    },
+    "text": "松鶴韓定食（송학한정식）\n光州広域市 西区 尚武中央101\n「松鶴（ソンハク）」は、光州広域市庁主催の美味しい店大会で2回連続優勝したこともある、20年の伝統を誇る韓定食が味わえる店で、接待・両家の顔合わせ・還暦祝いなど、特別な日の食事に最適です。",
+    "QA": [
+        {
+            "question": "このレストランの名前は何ですか？",
+            "answer": "松鶴韓定食（송학한정식）"
+        },
+        {
+            "question": "このレストランはどこにありますか？",
+            "answer": "光州広域市 西区 尚武中央101"
+        },
+        {
+            "question": "このレストランの特徴は何ですか？",
+            "answer": "光州広域市庁主催の美味しい店大会で2回連続優勝したこともある、20年の伝統を誇る韓定食が味わえる店です。"
+        },
+        {
+            "question": "このレストランはどんな特別な日の食事に向いていますか？",
+            "answer": "接待・両家の顔合わせ・還暦祝いなど、特別な日の食事に最適です。"
+        }
+    ],
+    "word_Count": {
+        "text": 90,
+        "QA": 137
+    }
+}

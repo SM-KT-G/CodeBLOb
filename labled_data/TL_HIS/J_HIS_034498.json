@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_034498",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=545&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=02280000&ccbaCtcd=38&ccbaCpno=2113802280000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1983-08-12",
+        "domain": "문화/역사관광",
+        "title": "합천향교"
+    },
+    "text": "陜川郷校 (합천향교)\\n\n慶尚南道陜川郡郷校路17-3(夜路面、祭室)\\n\n慶尚南道有形文化財 , 郷校は立派な儒学者を祭祀し、地方民の儒学教育と教化のために国で建てた教育機関である世宗(在位1418~1450)の時に建てられた後、高宗18年(1881)洪水により陜川郡庁を現在の位置に移し、一緒に移り現在に至っている。 建物は出入り口である霊貴楼、勉強する所である明倫堂、祠堂である大成殿と東·庶務がある。 配置は明倫堂が前にあり、大成殿が後にある転校後墓に配置されている。 境内にはこの地域出身で壬辰倭乱の時に命をかけて郷校を守ったチョン氏夫人の祠堂があり、明倫堂の大庁には各種扁額がかかっており郷校に関する良い研究資料になる。 朝鮮時代には国家から田畑と奴婢·典籍などを受けて学生たちを教えたが、甲午改革(1894)以後、祭祀だけが行われている。",
+    "QA": [
+        {
+            "question": "陜川郷校はいつ建てられましたか？",
+            "answer": "陜川郷校は世宗の時に建てられました。"
+        },
+        {
+            "question": "陜川郷校はどのような建物がありますか？",
+            "answer": "陜川郷校には霊貴楼、明倫堂、大成殿、東·庶務の建物があります。"
+        },
+        {
+            "question": "陜川郷校の配置はどのようになっていますか？",
+            "answer": "陜川郷校の配置は明倫堂が前にあり、大成殿が後ろにあります。"
+        },
+        {
+            "question": "陜川郷校の境内にはどんな祠堂がありますか？",
+            "answer": "陜川郷校の境内にはチョン氏夫人の祠堂があります。"
+        },
+        {
+            "question": "陜川郷校はどのような教育機関ですか？",
+            "answer": "陜川郷校は地方民の儒学教育と教化のために国で建てられた教育機関です。"
+        }
+    ],
+    "word_Count": {
+        "text": 276,
+        "QA": 169
+    }
+}

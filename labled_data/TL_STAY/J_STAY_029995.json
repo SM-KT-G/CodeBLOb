@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_029995",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/goods/GN0002152266?startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0%5E&npprmaxsort=min",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "온양 제일호텔"
+    },
+    "text": "当宿泊施設は、お客様にユニークで驚くべき満足を提供するため、差別化された施設と快適な客室を提供しています。 特に水質が良く水量が豊富な温陽温泉が楽しめるサウナがあり、お客様が特別なヒーリングサービスをお楽しみいただけます。 宿は温陽温泉駅から約500mの距離に位置しているのでアクセスにも便利です。",
+    "QA": [
+        {
+            "question": "この宿泊施設はどのような特徴がありますか？",
+            "answer": "お客様にユニークで驚くべき満足を提供するため、差別化された施設と快適な客室を提供しています。"
+        },
+        {
+            "question": "サウナで楽しめる温陽温泉について教えてください。",
+            "answer": "温陽温泉は水質が良く水量も豊富な温泉で、特別なヒーリングサービスを提供しています。"
+        },
+        {
+            "question": "宿はどのくらいの距離に位置していますか？",
+            "answer": "宿は温陽温泉駅から約500mの距離に位置しています。"
+        },
+        {
+            "question": "アクセスは便利ですか？",
+            "answer": "はい、宿は温陽温泉駅から近く、アクセスが便利です。"
+        }
+    ],
+    "word_Count": {
+        "text": 109,
+        "QA": 156
+    }
+}

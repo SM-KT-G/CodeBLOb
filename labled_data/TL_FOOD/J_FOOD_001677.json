@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001677",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-13",
+        "domain": "음식점",
+        "title": "Ganga 狎鴎亭 ( 강가 압구정 )"
+    },
+    "text": "Ganga 狎鴎亭 \\n\nソウル特別市 江南区 ノンヒョンロ868\\n\nインドで20年以上の経歴を持つシェフたちが直接調理します。おすすめはタンドリーチキンです。ソウル特別市のガンナム区に位置したしたインド料理専門店です。",
+    "QA": [
+        {
+            "question": "ガンガ狎鴎亭はどこにありますか？",
+            "answer": "ソウル特別市江南区ノンヒョンロ868にあります。"
+        },
+        {
+            "question": "どのような料理がおすすめですか？",
+            "answer": "おすすめはタンドリーチキンです。"
+        },
+        {
+            "question": "シェフたちはどれくらいの経験を持っていますか？",
+            "answer": "シェフたちはインドで20年以上の経験を持っています。"
+        }
+    ],
+    "word_Count": {
+        "text": 81,
+        "QA": 88
+    }
+}

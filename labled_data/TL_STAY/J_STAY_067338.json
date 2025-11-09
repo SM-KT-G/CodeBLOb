@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_067338",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2020-04-08",
+        "domain": "숙박",
+        "title": "Y\"s house"
+    },
+    "text": "Y\"s house (Y\"s house)\\n\nソウル特別市麻浦区ワールドカップ北路6ギル89-92、3階(延南洞)\\n\nY'shouseは、ヨントラルパークからわずか1分の場所に位置するゲストハウスです。仁川空港からも簡単にアクセスできるため、ソウルを観光するのに理想的な拠点となります。また、ソウルの主要な観光スポットへも簡単にアクセスできる立地です。",
+    "QA": [
+        {
+            "question": "Y's houseはどこに位置していますか？",
+            "answer": "Y's houseはソウル特別市麻浦区ワールドカップ北路6ギル89-92、3階(延南洞)に位置しています。"
+        },
+        {
+            "question": "Y's houseはどんな場所ですか？",
+            "answer": "Y's houseはヨントラルパークからわずか1分の場所に位置するゲストハウスで、ソウルを観光するのに理想的な拠点となっています。"
+        },
+        {
+            "question": "Y's houseから何が簡単にアクセスできますか？",
+            "answer": "Y's houseからは仁川空港やソウルの主要な観光スポットへも簡単にアクセスできます。"
+        }
+    ],
+    "word_Count": {
+        "text": 130,
+        "QA": 167
+    }
+}

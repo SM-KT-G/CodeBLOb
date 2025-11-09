@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_044062",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2023-03-08",
+        "domain": "문화/역사관광",
+        "title": "갤러리 MOA"
+    },
+    "text": "2004年4月に開館したギャラリーMOAは実験精神が強い芸術作家たちを選別し、展示会を開催してセミナーも進行する。ニューメディアアート、設置、彫刻、版画、ドローイング、写真、映像、平面化など、多様な芸術作品を展示しており、イギリスのユニボス会社で出版した\"1001の死ぬ前に必見の世界建築物\"に選定されたこともある。",
+    "QA": [
+        {
+            "question": "MOAギャラリーはいつ開館しましたか？",
+            "answer": "MOAギャラリーは2004年4月に開館しました。"
+        },
+        {
+            "question": "MOAギャラリーはどのような芸術作品を展示していますか？",
+            "answer": "MOAギャラリーではニューメディアアート、設置、彫刻、版画、ドローイング、写真、映像、平面化など、多様な芸術作品を展示しています。"
+        },
+        {
+            "question": "MOAギャラリーは'1001の死ぬ前に必見の世界建築物'に選ばれたことがありますか？",
+            "answer": "はい、MOAギャラリーはイギリスのユニボス会社で出版した'1001の死ぬ前に必見の世界建築物'に選定されました。"
+        }
+    ],
+    "word_Count": {
+        "text": 115,
+        "QA": 171
+    }
+}

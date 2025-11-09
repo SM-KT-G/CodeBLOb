@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_012311",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.menupan.com/restaurant/onepage.asp?acode=R107077",
+        "collectedDate": "2023-11-14",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "비스테까(BISTECCA)"
+    },
+    "text": "ビステカ(BISTECCA) (비스테까(BISTECCA))\\n\nソウル龍山区梨泰院洞211-33\\n\n洋食 - イタリア料理 , 12:00 ~ 22:30Break time 16:00~18:00 , 名節 , 80席/部屋:部屋なし , イタリア語に直訳すると「Bistecca」の「Steak」。ビステカはひっそりとした南山のふもとに位置している。 店内では美しい南山の風景と快適なインテリアが調和している。 ここでは快適さと楽しさを提供し、最上級の食材の味を表現するために料理をテーブルにサービングするまでの全過程を店内で自主的に処理する。",
+    "QA": [
+        {
+            "question": "ビステカはどのような料理を提供していますか？",
+            "answer": "ビステカでは洋食のイタリア料理を提供しています。"
+        },
+        {
+            "question": "営業時間は何時から何時までですか？",
+            "answer": "ビステカの営業時間は12時から22時30分です。ただし、16時から18時までは休憩時間です。"
+        },
+        {
+            "question": "ビステカの席数は何席ありますか？",
+            "answer": "ビステカには80席あります。"
+        },
+        {
+            "question": "ビステカには個室はありますか？",
+            "answer": "ビステカには個室はありません。"
+        },
+        {
+            "question": "ビステカの場所はどこですか？",
+            "answer": "ビステカはソウル龍山区梨泰院洞211-33に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 203,
+        "QA": 156
+    }
+}

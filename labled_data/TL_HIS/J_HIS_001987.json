@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_001987",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=139&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=12210000&ccbaCtcd=37&ccbaCpno=1123712210000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1995-07-19",
+        "domain": "문화/역사관광",
+        "title": "김진 초상"
+    },
+    "text": "キム·ジンの肖像 (김진 초상)\\n\n慶尚北道安東市退渓路1997(道山面、韓国国学振興院)\\n\n朝鮮宣祖5年(1572) , 宝物 , 清渓金鎮(1500~)の肖像画で、大きさは横109センチ、縦142センチだ。 金鎮は朝鮮の学者で、中宗20年(1525)に科挙に合格し、吏曹判書まで上がった人物だ。 カラムシの土台に彩色して描いたこの肖像画は右側を眺めながら座っている姿で、両手は袖の中で向かい合っている。 頭には高くて縁の広い前立腺をかぶり、緑色の服を着ている。 顔はいくつかの線だけで処理し、目元は非常に細い。 瞑想に浸ったような顔と全体的な雰囲気が学者としての面貌を暗示している。 敷いて座った虎の皮の座布団はかさばらず、非常に平面的だが、絵がぎこちなくない。 墨線だけを使用したのではなく、多様に茶色の線、赤い線などを使用した点が特徴だ。 宣祖5年(1572)に描かれたこの肖像画は人物を正確に描写し、先生の性格や気品がよく表れている。 イ·ヒョンボ先生の肖像画とともに安東地域の士大夫像を代表する貴重な作品だ。",
+    "QA": [
+        {
+            "question": "この肖像画は何時代の作品ですか？",
+            "answer": "この肖像画は宣祖5年(1572)に描かれた作品です。"
+        },
+        {
+            "question": "この肖像画の大きさはどれくらいですか？",
+            "answer": "この肖像画の大きさは横109センチ、縦142センチです。"
+        },
+        {
+            "question": "金鎮はどのような人物でしたか？",
+            "answer": "金鎮は朝鮮の学者で、中宗20年(1525)に科挙に合格し、吏曹判書まで上がった人物でした。"
+        },
+        {
+            "question": "この肖像画の特徴は何ですか？",
+            "answer": "この肖像画の特徴は、彩色されたカラムシの土台に描かれており、茶色や赤い線などが使用されている点です。また、瞑想に浸ったような顔と学者の雰囲気が表現されています。"
+        },
+        {
+            "question": "この肖像画はどのような人物像を表していますか？",
+            "answer": "この肖像画は金鎮先生の面貌を暗示しており、正確に描写されています。先生の性格や気品がよく表れています。"
+        }
+    ],
+    "word_Count": {
+        "text": 338,
+        "QA": 232
+    }
+}

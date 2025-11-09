@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_028305",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/traffic/jeongdongjin-station",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "正東津駅"
+    },
+    "text": "正東津駅\\n\n江原道 江陵市 江東面 正東津ギル 17\\n\n正東津駅は11月8日に小さな駅舎が新築竣工され、旅客と貨物輸送業務を始めました。正東津駅は全国的に日の出の名所、ドラマ「砂時計」の撮影場所として有名になり、多くの観光客が訪れる場所です。",
+    "QA": [
+        {
+            "question": "正東津駅はいつ竣工されたの？",
+            "answer": "正東津駅は11月8日に竣工されました。"
+        },
+        {
+            "question": "正東津駅はどのような業務を始めましたか？",
+            "answer": "正東津駅は旅客と貨物輸送業務を始めました。"
+        },
+        {
+            "question": "正東津駅はどのくらいの有名な観光地ですか？",
+            "answer": "正東津駅は全国的に日の出の名所であり、ドラマ「砂時計」の撮影場所としても有名です。多くの観光客が訪れます。"
+        },
+        {
+            "question": "正東津駅はどの市に位置していますか？",
+            "answer": "正東津駅は江原道江陵市江東面に位置しています。"
+        },
+        {
+            "question": "正東津駅の駅舎はどのようなものですか？",
+            "answer": "正東津駅の駅舎は新築された小さな建物です。"
+        }
+    ],
+    "word_Count": {
+        "text": 90,
+        "QA": 167
+    }
+}

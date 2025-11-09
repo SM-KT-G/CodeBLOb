@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_054996",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2020-12-07",
+        "domain": "음식점",
+        "title": "MyeongRyun Jinsagalbi 木浦下塘( 명륜진사갈비 목포하당 )"
+    },
+    "text": "MyeongRyun Jinsagalbi 木浦下塘( 명륜진사갈비 목포하당 )\\n\n全羅南道 モクポ市 ジャンミロ74\\n\n食べ放題で焼き肉が味わえる店です。代表的なメニューは豚カルビです。全羅南道のモクポ市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "この店の名前は何ですか？",
+            "answer": "店の名前は「明倫震莎ガルビ 牧浦下塘」といいます。"
+        },
+        {
+            "question": "この店はどこに位置していますか？",
+            "answer": "この店は全羅南道のモクポ市ジャンミロ74に位置しています。"
+        },
+        {
+            "question": "この店の特徴的なメニューは何ですか？",
+            "answer": "この店の代表的なメニューは豚カルビです。"
+        },
+        {
+            "question": "この店で提供される料理は何ですか？",
+            "answer": "この店では焼き肉が味わえます。"
+        },
+        {
+            "question": "この店は食べ放題ですか？",
+            "answer": "はい、この店は食べ放題のコースがあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 87,
+        "QA": 135
+    }
+}

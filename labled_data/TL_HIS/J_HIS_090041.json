@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_090041",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/view?relicId=389",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2023-10-11",
+        "domain": "문화/역사관광",
+        "title": "연꽃 무늬 벽돌"
+    },
+    "text": "蓮の花模様のれんが (연꽃 무늬 벽돌)\\n\nこの蓮の花と唐草模様の装飾が施されたものは、おそらく仏教寺院の床に使われていたと推定されます。元々は中国唐時代の作品で、材質は土と瓦質です。その大きさは横315cm、縦315cmです。この装飾は、主に建築部材として使用されました。",
+    "QA": [
+        {
+            "question": "この蓮の花模様のれんがは、どのような場所で使用されていたのですか？",
+            "answer": "おそらく仏教寺院の床に使用されていたと推定されます。"
+        },
+        {
+            "question": "この蓮の花模様のれんがの元々の作品は、どの国のものですか？",
+            "answer": "元々は中国唐時代の作品です。"
+        },
+        {
+            "question": "この蓮の花模様のれんがの材質は何ですか？",
+            "answer": "材質は土と瓦質です。"
+        },
+        {
+            "question": "この蓮の花模様のれんがの大きさはどのくらいですか？",
+            "answer": "その大きさは横315cm、縦315cmです。"
+        },
+        {
+            "question": "この蓮の花模様のれんがは、主にどのように使用されていたのですか？",
+            "answer": "主に建築部材として使用されました。"
+        }
+    ],
+    "word_Count": {
+        "text": 101,
+        "QA": 167
+    }
+}

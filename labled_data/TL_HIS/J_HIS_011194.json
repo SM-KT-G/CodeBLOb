@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_011194",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1208&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=79&ccbaAsno=02190000&ccbaCtcd=35&ccbaCpno=4413502190000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2005-12-09",
+        "domain": "문화/역사관광",
+        "title": "김제 신풍동 근대 한옥"
+    },
+    "text": "金堤 新豊洞 近代韓屋 (김제 신풍동 근대 한옥)\\n\n全羅北道金堤市中央15ギル35-6(新豊洞)\\n\n1939年 , 国家登録文化財 , 1939年建設、この建物は金堤地域で精米所を運営したある財力家の住宅だ。 三角形の大地の形のため、門を角の部分に置き、伝統的な韓屋では珍しい進入方式を取っている。 母屋の平面を「ㄱ」字型に構成し、縁側の端にガラス扉を設置して床の内部化を図るなど、近代韓屋の特徴をよく示している。",
+    "QA": [
+        {
+            "question": "この建物は何年に建設されましたか？",
+            "answer": "1939年に建設されました。"
+        },
+        {
+            "question": "この建物は何のために使われていましたか？",
+            "answer": "この建物は精米所を運営するための住宅として使われていました。"
+        },
+        {
+            "question": "この建物はどのような進入方式を取っているのですか？",
+            "answer": "この建物は角の部分に門を置くという進入方式を取っています。"
+        },
+        {
+            "question": "この建物の母屋の平面はどのような形ですか？",
+            "answer": "この建物の母屋の平面は「ㄱ」字型になっています。"
+        },
+        {
+            "question": "この建物の特徴は何ですか？",
+            "answer": "この建物は三角形の大地の形やガラス扉を設置した縁側など、近代韓屋の特徴を示しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 154,
+        "QA": 173
+    }
+}

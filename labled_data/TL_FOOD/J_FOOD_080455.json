@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_080455",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2022-11-17",
+        "domain": "음식점",
+        "title": "삼포쌈밥"
+    },
+    "text": "葉野菜以外の材料もすべて慶州の近くで直接持ってきて誠意がこもっている。特に、サンパプの中核ともいえる醬の味や塩辛の味が逸品だ。包みご飯に出たデンザンチゲはご飯と適度に交わって、テンジャンは深い味がする。近くのガンポ海辺で掴み上げた太いカタクチイワシ塩辛も濃い味が逸品だ。。",
+    "QA": [
+        {
+            "question": "このレストランの材料はどこから取ってきていますか？",
+            "answer": "葉野菜以外の材料もすべて慶州の近くで直接持ってきています。"
+        },
+        {
+            "question": "サンパプの醬の味や塩辛の味はどうですか？",
+            "answer": "特に、サンパプの醬の味や塩辛の味は逸品です。"
+        },
+        {
+            "question": "デンザンチゲはどんな味ですか？",
+            "answer": "デンザンチゲはご飯と適度に交わり、テンジャンは深い味がします。"
+        },
+        {
+            "question": "太いカタクチイワシ塩辛はどのような味ですか？",
+            "answer": "近くのガンポ海辺で掴み上げた太いカタクチイワシ塩辛は濃い味が逸品です。"
+        }
+    ],
+    "word_Count": {
+        "text": 99,
+        "QA": 145
+    }
+}

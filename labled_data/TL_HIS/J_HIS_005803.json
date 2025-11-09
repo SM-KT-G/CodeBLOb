@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_005803",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1138&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=03950000&ccbaCtcd=37&ccbaCpno=3413703950000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2000-09-04",
+        "domain": "문화/역사관광",
+        "title": "영해경주댁"
+    },
+    "text": "ヨンヘ慶州のお宅 (영해경주댁)\\n\n慶尚北道盈徳郡永海面ホジマウル1ギル24(槐市里)\\n\n朝鮮純祖(1830) , 慶尚北道文化財資料 , 虎池村にある旧家で、純祖30年(1830年)に建てられたと伝えられている。 門を入ると庭を挟んでロ字型の正針が位置している。 中門の右側にあるサランチェは左側からサランマルとサランバン·ガムシルの順に配置された。 床の前面と左側の側面には板壁を設置して床部屋を設け、前面には半間幅の縁側を置いた。 サランマルの側面から右側の塀までは前庭の間に塀を設置し、ドアを開けて別途の空間を形成した。 全体配置は西向きだが、サランチェは南向きにして、この村特有の配置タイプに従っている。 中門を入ると正面に板の間があり、その両側に奥の間と向かい側の部屋を配置した。 奥の間の前に台所·光が中庭を包み込んでおり、台所をはじめとする部屋は現代風に直した。 母屋は他の家と違って一軒家でありながら低く建てて素朴な形を見せている。 若干の変形があるが、全体構造と配置でホジ村住宅が持つ特徴をよく持っている家だ。",
+    "QA": [
+        {
+            "question": "この家の建てられた年は何年ですか？",
+            "answer": "この家は純祖30年(1830年)に建てられました。"
+        },
+        {
+            "question": "この家はどこに位置していますか？",
+            "answer": "この家は慶尚北道盈徳郡永海面ホジマウル1ギル24(槐市里)に位置しています。"
+        },
+        {
+            "question": "この家の特徴的な配置タイプは何ですか？",
+            "answer": "この家の特徴的な配置タイプは、サランチェが南向きであるホジ村特有の配置タイプに従っています。"
+        },
+        {
+            "question": "この家の庭には何がありますか？",
+            "answer": "この家の庭にはロ字型の正針があります。"
+        },
+        {
+            "question": "この家の中にはどのような部屋がありますか？",
+            "answer": "この家の中には板の間、奥の間、向かい側の部屋、台所などがあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 342,
+        "QA": 182
+    }
+}

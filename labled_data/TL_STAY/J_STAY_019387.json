@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_019387",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42090&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "서귀포 파밀리아"
+    },
+    "text": "国際的なリゾート地で、最適な立地条件を備えています！ スペイン語で家族を意味するホテル名FAMILIA、お客様を家族のように大切にするサービスをご提供します！ 全客室がオーシャンビューです！ 大浦港清浄の青い海を鑑賞してください。喫煙情報は全客室禁煙です。 駐車情報は十分な駐車場を提供します。 調理情報は簡単な料理が可能です。",
+    "QA": [
+        {
+            "question": "このホテルの名前は何ですか？",
+            "answer": "ホテルの名前はFAMILIAです。"
+        },
+        {
+            "question": "このホテルはどこにありますか？",
+            "answer": "このホテルは国際的なリゾート地にあります。"
+        },
+        {
+            "question": "全客室はどのようなビューがありますか？",
+            "answer": "全客室はオーシャンビューです。"
+        },
+        {
+            "question": "喫煙は可能ですか？",
+            "answer": "いいえ、全客室禁煙です。"
+        },
+        {
+            "question": "駐車場はありますか？",
+            "answer": "はい、十分な駐車場を提供しています。"
+        },
+        {
+            "question": "調理はできますか？",
+            "answer": "はい、簡単な料理が可能です。"
+        }
+    ],
+    "word_Count": {
+        "text": 120,
+        "QA": 126
+    }
+}

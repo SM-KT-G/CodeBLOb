@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_002005",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2020-12-29",
+        "domain": "음식점",
+        "title": "PHOMEIN 平沢ニューコア( 포메인 평택뉴코아 )"
+    },
+    "text": "PHOMEIN 平沢ニューコア( 포메인 평택뉴코아 )\\n\n京畿道 平沢市 クァンギョマウルロ279\\n\nベトナム本場のフォーが味わえます。京畿道のピョンテク市に位置したフォー専門店です。代表的なメニューはフォーです。",
+    "QA": [
+        {
+            "question": "このレストランの場所はどこですか？",
+            "answer": "このレストランは京畿道平沢市に位置しています。具体的な住所はクァンギョマウルロ279です。"
+        },
+        {
+            "question": "このレストランではどのようなメニューが提供されていますか？",
+            "answer": "このレストランではベトナム本場のフォーが味わえます。フォーが代表的なメニューです。"
+        },
+        {
+            "question": "フォー以外のメニューもありますか？",
+            "answer": "はい、フォー以外にも様々なメニューがあります。詳細なメニューについては店舗にお問い合わせください。"
+        }
+    ],
+    "word_Count": {
+        "text": 80,
+        "QA": 145
+    }
+}

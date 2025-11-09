@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_038660",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=403&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=00380000&ccbaCtcd=22&ccbaCpno=2112200380000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1995-05-12",
+        "domain": "문화/역사관광",
+        "title": "이철견신도비"
+    },
+    "text": "李鉄堅神道碑 (이철견신도비)\\n\n大邱広域市達城郡玉浦邑校項里2963\\n\n朝鮮時代(1497年)、大邱広域市有形文化財、この碑は朝鮮成宗（ソンジョン）時代の功臣である李哲堅（イ·チョルギョン）将軍の神道碑だ。 神道碑は王や功臣の生涯を記録し、彼の墓の前に建てた碑石だ。 朝鮮時代には正二品以上の官職を務めた人に建て、その生涯を称えるようにした。 イ·チョルギョン(1435~1496)は世祖妃正喜王后の姉の息子であり、世祖から燕山君の間に義金府使、五位道庁副総官、北条判書、慶尚道観察使、漢城判尹などを務め、イ·シエの乱を平定するのに功を奏した。 碑石の支え石は花崗石であり、碑石の胴体石と碑石の頭石は一つの大理石でできている。 頭石は屋根の形で朝鮮前期の神道碑の典型的な様式を示す良い金石資料だ。 1497年(燕山郡3年)に建立したこの碑石は、洪貴達が碑文を作り、安針が字を書いた。 本来、ソウル奉天洞にあったものを1969年に都市計画の関係で現在の位置に移してきたのだ。",
+    "QA": [
+        {
+            "question": "この李鉄堅神道碑は何時代のものですか？",
+            "answer": "この李鉄堅神道碑は朝鮮成宗（ソンジョン）時代のものです。"
+        },
+        {
+            "question": "李鉄堅将軍はどのような功績を上げましたか？",
+            "answer": "李鉄堅将軍はイ・シエの乱を平定するのに功を奏しました。"
+        },
+        {
+            "question": "この神道碑はどのような目的で建てられましたか？",
+            "answer": "この神道碑は李鉄堅将軍の生涯を称えるために建てられました。"
+        },
+        {
+            "question": "この碑石はどのような材料でできていますか？",
+            "answer": "この碑石の支え石は花崗石であり、碑石の胴体石と頭石は一つの大理石でできています。"
+        },
+        {
+            "question": "この碑石はいつ建立されましたか？",
+            "answer": "この碑石は1497年に建立されました。"
+        }
+    ],
+    "word_Count": {
+        "text": 321,
+        "QA": 178
+    }
+}

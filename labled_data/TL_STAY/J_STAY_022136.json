@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_022136",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-07-19",
+        "domain": "숙박",
+        "title": "釜山観光ホテル（부산관광호텔）"
+    },
+    "text": "釜山観光ホテル（부산관광호텔）釜山広域市 中区 光復路97番キル23\n「釜山観光ホテル」は1974年にオープンしました。龍頭山公園の下、国際旅客ターミナル、国際市場、チャガルチ市場の間に位置し、貿易の中心、映画の都市釜山にビジネスや観光で訪れる人々に合理的な価格と親切なサービスを提供しています。",
+    "QA": [
+        {
+            "question": "このホテルはいつオープンしましたか？",
+            "answer": "1974年にオープンしました。"
+        },
+        {
+            "question": "このホテルはどのような場所に位置していますか？",
+            "answer": "龍頭山公園の下、国際旅客ターミナル、国際市場、チャガルチ市場の間に位置しています。"
+        },
+        {
+            "question": "このホテルはどのようなサービスを提供していますか？",
+            "answer": "合理的な価格と親切なサービスを提供しています。"
+        },
+        {
+            "question": "このホテルは誰にオススメですか？",
+            "answer": "ビジネスや観光で釜山を訪れる人々にオススメです。"
+        }
+    ],
+    "word_Count": {
+        "text": 108,
+        "QA": 135
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_025231",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1092&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=02090000&ccbaCtcd=37&ccbaCpno=3413702090000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1988-09-23",
+        "domain": "문화/역사관광",
+        "title": "영덕만괴헌"
+    },
+    "text": "盈徳万塊軒 (영덕만괴헌)\\n\n慶尚北道盈徳郡昌水面仁良4ギル41-8(仁良里)\\n\n慶尚北道文化財資料 , 平山シン氏が居住する古い家で、万槐軒という名前は現在の所有主の6代目シン·ジェスの号を取って付けた名前だ。 もともとこの建物は野性鄭氏の邸宅だったが、純祖15年(1815年)イ·スミンが買い入れ、その後憲宗9年(1843年)シン·ジェスが再び買い入れたのだ。 今ある建物は現在の所有者の高祖父であるシン·ウィヨンが拡張して建て直したものだ。",
+    "QA": [
+        {
+            "question": "この建物は誰の邸宅だったのですか？",
+            "answer": "この建物は野性鄭氏の邸宅でしたが、後にイ・スミン氏が買い入れ、さらにシン・ジェス氏が再び買い入れました。"
+        },
+        {
+            "question": "建物の名前は何ですか？",
+            "answer": "この建物の名前は万槐軒（영덕만괴헌）です。現在の所有者であるシン・ジェス氏の号を取って付けられた名前です。"
+        },
+        {
+            "question": "建物はいつ建てられましたか？",
+            "answer": "現在の建物は所有者の高祖父であるシン・ウィヨン氏が拡張して建て直したものです。具体的な建築年はわかりませんが、憲宗9年（1843年）以降に建てられたと考えられます。"
+        },
+        {
+            "question": "この建物はどこにありますか？",
+            "answer": "この建物は慶尚北道盈徳郡昌水面仁良4ギル41-8（仁良里）にあります。"
+        },
+        {
+            "question": "この建物は何の文化財ですか？",
+            "answer": "この建物は慶尚北道の文化財資料です。"
+        }
+    ],
+    "word_Count": {
+        "text": 165,
+        "QA": 227
+    }
+}

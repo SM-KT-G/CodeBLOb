@@ -1,0 +1,63 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_020492",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1114&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=02910000&ccbaCtcd=38&ccbaCpno=3413802910000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2001-02-22",
+        "domain": "문화/역사관광",
+        "title": "산청 신안정사"
+    },
+    "text": "山清新安精舎 (산청 신안정사)\\n\n慶尚南道山清郡丹城面ソジェギル56,746(カンヌリ)\\n\n慶尚南道文化財資料 , この境内には新安影堂がある。 この霊堂は中宗35年(1538)に建立され、朱子と牛岩ソン·シヨルの遺影が奉安されている。 高宗9年(1872)にこの建物を修復したが、遺影は高宗演歌により焼失した。 この霊堂の他にも付属建物として水晶宮がある。朝鮮中宗33年(1538)に中国新安にある朱子寺堂を見習って安東権氏と星州李氏が一丸となって創建し、朱子の遺影を祀った霊堂は大院君執権時に焼失し礎石だけが残っていたが、2006年に復元した。",
+    "QA": [
+        {
+            "question": "この山清新安精舎はどこにありますか？",
+            "answer": "山清新安精舎は慶尚南道山清郡丹城面ソジェギル56,746(カンヌリ)にあります。"
+        },
+        {
+            "question": "新安影堂はいつ建立されましたか？",
+            "answer": "新安影堂は中宗35年(1538)に建立されました。"
+        },
+        {
+            "question": "新安影堂にはどのような遺影が奉安されていますか？",
+            "answer": "新安影堂には朱子と牛岩ソン·シヨルの遺影が奉安されています。"
+        },
+        {
+            "question": "新安影堂は何年に修復されましたか？",
+            "answer": "新安影堂は高宗9年(1872)に修復されました。"
+        },
+        {
+            "question": "なぜ新安影堂の遺影は焼失したのですか？",
+            "answer": "新安影堂の遺影は高宗演歌により焼失しました。"
+        },
+        {
+            "question": "水晶宮はどのような建物ですか？",
+            "answer": "水晶宮は霊堂の付属建物です。"
+        },
+        {
+            "question": "水晶宮はいつ創建されましたか？",
+            "answer": "水晶宮は朝鮮中宗33年(1538)に創建されました。"
+        },
+        {
+            "question": "水晶宮は何のために建てられましたか？",
+            "answer": "水晶宮は中国新安の朱子寺堂を見習って創建され、朱子の遺影を祀るために建てられました。"
+        },
+        {
+            "question": "水晶宮はどのような状態でしたか？",
+            "answer": "水晶宮は大院君執権時に焼失し、礎石だけが残っていました。"
+        },
+        {
+            "question": "水晶宮はいつ復元されましたか？",
+            "answer": "水晶宮は2006年に復元されました。"
+        }
+    ],
+    "word_Count": {
+        "text": 203,
+        "QA": 324
+    }
+}

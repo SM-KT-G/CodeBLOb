@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_028907",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42021&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "부산 비센트 호텔"
+    },
+    "text": "韓国観光公社品質認証制を通じてプレミア等級を達成したここではモダンなインテリアと快適な空間を体験できます。 釜山旅行の最適な位置とリーズナブルな価格、さらにアップグレードされた快適さを提供します。 釜山駅2番出口から徒歩約6分の距離で簡単に訪れることができます。",
+    "QA": [
+        {
+            "question": "このホテルが韓国観光公社品質認証制を通じてプレミア等級を達成したとはどういうことですか？",
+            "answer": "韓国観光公社品質認証制は、韓国の観光業界で品質を保証するための認証制度です。このホテルがプレミア等級を達成したことは、高品質なサービスと施設を提供していることを意味します。"
+        },
+        {
+            "question": "このホテルのインテリアはどのようなスタイルですか？",
+            "answer": "このホテルはモダンなインテリアを採用しており、快適な空間を提供しています。"
+        },
+        {
+            "question": "このホテルはどのような立地ですか？",
+            "answer": "このホテルは釜山駅2番出口から徒歩約6分の距離にあり、釜山旅行の最適な位置にあります。"
+        },
+        {
+            "question": "このホテルは価格帯はどのようなものですか？",
+            "answer": "このホテルはリーズナブルな価格で宿泊することができます。"
+        },
+        {
+            "question": "このホテルは快適さを重視していますか？",
+            "answer": "はい、このホテルはアップグレードされた快適さを提供しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 96,
+        "QA": 257
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_007180",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-08-27",
+        "domain": "음식점",
+        "title": "ザハ手作り餃子 ( 자하손만두 )"
+    },
+    "text": "ザハ手作り餃子 ( 자하손만두 )\\n\nソウル特別市 鐘路区 ペクソクドンギル12\\n\nミシュランガイドソウル2021に選定された店です。代表的なメニューは餃子スープです。ソウル特別市のチョンノ区に位置した餃子専門店です。",
+    "QA": [
+        {
+            "question": "このレストランの名前は何ですか？",
+            "answer": "ザハ手作り餃子 ( 자하손만두 )"
+        },
+        {
+            "question": "このレストランはどこにありますか？",
+            "answer": "ソウル特別市 鐘路区 ペクソクドンギル12"
+        },
+        {
+            "question": "ソウル特別市のチョンノ区に位置する餃子専門店の特徴は何ですか？",
+            "answer": "ミシュランガイドソウル2021に選定された店であり、代表的なメニューは餃子スープです。"
+        },
+        {
+            "question": "このレストランの代表的なメニューは何ですか？",
+            "answer": "餃子スープです。"
+        }
+    ],
+    "word_Count": {
+        "text": 81,
+        "QA": 128
+    }
+}

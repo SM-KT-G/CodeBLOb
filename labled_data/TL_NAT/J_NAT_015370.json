@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_015370",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1216&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=79&ccbaAsno=03130000&ccbaCtcd=50&ccbaCpno=4413903130000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2006-12-04",
+        "domain": "자연관광",
+        "title": "제주 송악산 해안 일제 동굴진지"
+    },
+    "text": "済州松岳山海岸 日本製洞窟陣地 (제주 송악산 해안 일제 동굴진지)\\n\n済州西帰浦市大静邑上森194-2番地及び支線公有水面\\n\n1945年頃 , 国家登録文化財 , 1945年頃に建設されたこの施設は、日本による植民地時代末に敗戦に直面した日本軍が海上に入ってくる連合軍艦隊に向かって小型船舶を利用した自爆攻撃を行うために構築した軍事施設だ。 その形は「一」字型、「H」字型、「ㄷ」字型などになっており、済州道の南東側にある松岳山海岸絶壁に沿って17基が作られた。 済州道住民を強制動員して海岸絶壁を突き破って作ったこの施設は、日帝侵略の現場を生々しく証言すると共に、戦争の残酷さと死が強要される戦争をリアルに見せている。",
+    "QA": [
+        {
+            "question": "この施設はいつ建設されましたか？",
+            "answer": "1945年頃に建設されました。"
+        },
+        {
+            "question": "この施設はどのような目的で構築されましたか？",
+            "answer": "日本軍が海上に入ってくる連合軍艦隊に向かって小型船舶を利用した自爆攻撃を行うために構築されました。"
+        },
+        {
+            "question": "この施設の形はどのようなものですか？",
+            "answer": "この施設は「一」字型、「H」字型、「ㄷ」字型などの形をしています。"
+        },
+        {
+            "question": "この施設はどのようにして作られましたか？",
+            "answer": "済州道住民を強制動員して海岸絶壁を突き破って作られました。"
+        },
+        {
+            "question": "この施設は何を証言していますか？",
+            "answer": "この施設は日帝侵略の現場を生々しく証言しており、戦争の残酷さと死が強要される戦争をリアルに見せています。"
+        }
+    ],
+    "word_Count": {
+        "text": 230,
+        "QA": 198
+    }
+}

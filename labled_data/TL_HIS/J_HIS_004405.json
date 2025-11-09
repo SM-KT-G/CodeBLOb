@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_004405",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101971",
+        "collectedDate": "2023-09-07",
+        "publishedDate": "2021-12-01",
+        "domain": "문화/역사관광",
+        "title": "ナイキミサイル"
+    },
+    "text": "ナイキミサイル\n野外教育場の戦闘機や戦車の後方にある丘には、2機の格好いいミサイルが展示されています。「ナイキミサイル」と呼ばれるものです。  これは、地上や空中のターゲットを攻撃できる、地対地、地対空、誘導弾用ミサイルとなっています。 韓国の基地防空隊で運用されていましたが、2014年5月30日に退役しています。",
+    "QA": [
+        {
+            "question": "ナイキミサイルはどのようなミサイルですか？",
+            "answer": "ナイキミサイルは地上や空中のターゲットを攻撃できる、地対地、地対空、誘導弾用ミサイルです。"
+        },
+        {
+            "question": "ナイキミサイルはどのような役割を果たしていましたか？",
+            "answer": "ナイキミサイルは基地防空隊で運用され、敵の攻撃から基地を守るために使用されていました。"
+        },
+        {
+            "question": "ナイキミサイルはいつ退役しましたか？",
+            "answer": "ナイキミサイルは2014年5月30日に退役しました。"
+        }
+    ],
+    "word_Count": {
+        "text": 115,
+        "QA": 131
+    }
+}

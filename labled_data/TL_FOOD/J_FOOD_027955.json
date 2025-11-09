@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_027955",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/chuncheonjip-dakgalbi-makguksu-sinchon-branch",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "春川タッカルビマッククス(新村店)"
+    },
+    "text": "春川タッカルビマッククス(新村店)\\n\nソウル特別市西大門区滄川洞 )\\n\nタッカルビの肉に辛いソースをからめて鉄板で炒めて食べる料理です。骨のない肉の方が食べやすいです。マカロニとキムチはおかわり自由です。",
+    "QA": [
+        {
+            "question": "このお店の名前は何ですか？",
+            "answer": "春川タッカルビマッククス(新村店)"
+        },
+        {
+            "question": "どの地域にありますか？",
+            "answer": "ソウル特別市西大門区滄川洞"
+        },
+        {
+            "question": "タッカルビマッククスとはどんな料理ですか？",
+            "answer": "タッカルビの肉に辛いソースをからめて鉄板で炒めて食べる料理です。骨のない肉の方が食べやすいです。"
+        },
+        {
+            "question": "マカロニとキムチはおかわり自由ですか？",
+            "answer": "はい、おかわり自由です。"
+        }
+    ],
+    "word_Count": {
+        "text": 76,
+        "QA": 112
+    }
+}

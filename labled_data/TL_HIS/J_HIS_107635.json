@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_107635",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=667&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=05090000&ccbaCtcd=37&ccbaCpno=2113705090000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2017-08-28",
+        "domain": "문화/역사관광",
+        "title": "청송 만세루"
+    },
+    "text": "青松万歳楼\\n\n慶尚北道青松郡顕忠路51-352(青松邑、普光寺)\\n\n慶尚北道有形文化財、朝鮮王朝の世宗(在位1418∼1450)が副詞荷担に命じて建てたビルで、昭憲王后(世宗の雨)の実家青松・沈氏祖先の墓所に祭祀を行なったところだ。哲宗7年(1856)に、沈氏子孫たちが立て直しており、1958年に再び手直しして立てた。その後、1968年チャンギョンルを直して立てたら一緒に改称された。前面5間・側面2間規模であり、屋根は側面から見ると、人の教わる字形の切妻屋根である。4面に欄干を設置しており、2階に上り下りするできる階段が後方にある。",
+    "QA": [
+        {
+            "question": "この建物は誰によって建てられましたか？",
+            "answer": "世宗(在位1418∼1450)が副詞荷担に命じて建てられました。"
+        },
+        {
+            "question": "この建物はどこに位置していますか？",
+            "answer": "青松邑、普光寺のある慶尚北道青松郡に位置しています。"
+        },
+        {
+            "question": "この建物はいつ修復されましたか？",
+            "answer": "哲宗7年(1856)に、沈氏子孫たちが立て直し、1958年に再び手直しして立てられました。"
+        },
+        {
+            "question": "この建物の屋根の形はどのような形ですか？",
+            "answer": "側面から見ると、人の教わる字形の切妻屋根です。"
+        },
+        {
+            "question": "この建物の後ろにある階段はどこに向かっていますか？",
+            "answer": "後ろにある階段は2階に上り下りすることができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 198,
+        "QA": 181
+    }
+}

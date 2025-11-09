@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_087701",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=937&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=24&ccbaAsno=01290000&ccbaCtcd=37&ccbaCpno=2443701290000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2002-10-14",
+        "domain": "문화/역사관광",
+        "title": "안동제산종택"
+    },
+    "text": "安東済山宗宅\\n\n慶尚北道安東市臨下面ネアプギル39-1(天田里)\\n\n除算宗宅(1814)、迂曲草堂(1855)、慶尚北道民俗文化財、朝鮮後期の学者である諸山(霽山)キムソンタク(金聖鐸、1684~1747)が18世紀初めに負けて居住した住まいであり、宗宅の右側の迂曲草堂(雨谷草堂)は彼が1718年に建設して後学を養成したところだ。キムソンタクは朝鮮後期の文臣であり、優れた文章家として性理学に造詣が深かっただけでなく、1728年(英祖4)李麟佐の乱では義兵を起こして文章を作って乱の鎮圧で功を立てたりもした。宗宅は母屋屋根瓦に刻まれた文字(嘉慶18、1814)と現存建物の建築様式からみて、1814年に改築し、今日に至ったものと推定される。先頭のままの両端が母屋の左右より各クラスのカンヌほど突き出た字型を成している。迂曲草葺きの離れは正面3間、側面1間半の一軒(ひとのき)切妻屋根の建物だ。宗宅と迂曲草葺きの離れは建設年代を推し量る細部形式をはじめ、構造様式や平面構成が19世紀の建立当時から大きな変化なくよく保全された建物である。",
+    "QA": [
+        {
+            "question": "この宗宅に住んでいた学者は誰ですか？",
+            "answer": "この宗宅に住んでいた学者は、諸山(霽山)キムソンタク(金聖鐸)という朝鮮後期の学者でした。"
+        },
+        {
+            "question": "迂曲草堂は何のために建設されたのですか？",
+            "answer": "迂曲草堂は、諸山キムソンタクが後学を養成するために1718年に建設されました。"
+        },
+        {
+            "question": "宗宅の建築年はいつですか？",
+            "answer": "宗宅の建築年は、1814年に改築されたものと推定されます。"
+        },
+        {
+            "question": "宗宅の屋根瓦には何と刻まれた文字がありますか？",
+            "answer": "宗宅の母屋屋根瓦には、嘉慶18、1814と刻まれた文字があります。"
+        },
+        {
+            "question": "宗宅の建築様式から何が推定されますか？",
+            "answer": "宗宅の建築様式からは、1814年に改築され、今日に至ったものと推定されます。"
+        }
+    ],
+    "word_Count": {
+        "text": 344,
+        "QA": 203
+    }
+}

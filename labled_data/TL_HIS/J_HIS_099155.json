@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_099155",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=925&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=24&ccbaAsno=00250000&ccbaCtcd=11&ccbaCpno=2441100250000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1977-09-05",
+        "domain": "문화/역사관광",
+        "title": "장위동김진흥가옥"
+    },
+    "text": "ソウル特別市民俗文化財である純祖の三女のおかげきた姫の夫ユンウィソンが建てた家は高宗2年(1865)に建てられました。この家はコの字型、母屋と鉤型サランチェ、コの字型ジュンムンガンヘンランチェ、コの字型離れ、一字型ビョルダンチェで構成されています。中央板の間を中心に部屋がある右には鉤に折れ曲がったかまど台所、板の間、サランチェの寝房が配置されています。板の間左側には上の部屋とホームがあり、折れて台所とチャンマルが位置しています。母屋左の跡には、離れ屋軒が位置しており、サランチェはジュンムンガンヘンランチェ右にある一部門を通じて出入りされます。この家は大きな客間、大青(テチョン)、小さなサランバン、寝室となっているが、この寝房は母屋と連結されて小さなサランバン北には、離れ屋が位置します。この家はマダン内部の隅の客室を凸凹に処理して大きな空間に変化を与えており、視線方向による雰囲気を安定感をもって処理した住宅です。",
+    "QA": [
+        {
+            "question": "この家はいつ建てられましたか？",
+            "answer": "この家は高宗2年(1865)に建てられました。"
+        },
+        {
+            "question": "この家はどのような構造になっていますか？",
+            "answer": "この家はコの字型、母屋と鉤型サランチェ、コの字型ジュンムンガンヘンランチェ、コの字型離れ、一字型ビョルダンチェで構成されています。"
+        },
+        {
+            "question": "この家にはどのような部屋がありますか？",
+            "answer": "この家には大きな客間、大青(テチョン)、小さなサランバン、寝室などがあります。"
+        },
+        {
+            "question": "この家の内部はどのような特徴がありますか？",
+            "answer": "この家はマダン内部の隅の客室を凸凹に処理して大きな空間に変化を与えており、視線方向による雰囲気を安定感をもって処理した住宅です。"
+        },
+        {
+            "question": "この家の特別な意義は何ですか？",
+            "answer": "この家はソウル特別市民俗文化財である純祖の三女のおかげきた姫の夫ユンウィソンが建てた家であり、歴史的な意義を持っています。"
+        }
+    ],
+    "word_Count": {
+        "text": 301,
+        "QA": 250
+    }
+}

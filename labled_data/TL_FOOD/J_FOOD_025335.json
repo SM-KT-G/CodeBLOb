@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_025335",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-01",
+        "domain": "음식점",
+        "title": "肉家代表菁蘿 ( 육가대표 청라 )"
+    },
+    "text": "肉家代表菁蘿 \n仁川広域市 西区 菁蘿カナル路 229-12\n上質なお肉を店頭で直接切り分けて販売している店です。仁川広域市のソ区に位置したBBQ専門店です。代表的なメニューはザブトン(韓牛)です。",
+    "QA": [
+        {
+            "question": "このお店はどのようなメニューを提供していますか？",
+            "answer": "当店では、上質なお肉を店頭で直接切り分けて販売しています。代表的なメニューはザブトン(韓牛)です。"
+        },
+        {
+            "question": "このお店の場所はどこですか？",
+            "answer": "当店は仁川広域市のソ区に位置しており、菁蘿カナル路229-12にあります。"
+        },
+        {
+            "question": "このお店はBBQ専門店ですか？",
+            "answer": "はい、当店はBBQ専門店です。お客様自身でお肉を焼いてお楽しみいただけます。"
+        },
+        {
+            "question": "このお店の特徴は何ですか？",
+            "answer": "当店の特徴は、直接切り分けた上質なお肉を提供していることです。新鮮で美味しいお肉をお楽しみいただけます。"
+        },
+        {
+            "question": "このお店のおすすめメニューは何ですか？",
+            "answer": "当店のおすすめメニューはザブトン(韓牛)です。是非お試しください。"
+        }
+    ],
+    "word_Count": {
+        "text": 72,
+        "QA": 215
+    }
+}

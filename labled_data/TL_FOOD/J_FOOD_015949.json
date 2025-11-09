@@ -1,0 +1,31 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_015949",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-03",
+        "domain": "음식점",
+        "title": "江陵生太マッケジプ ( 강릉생태막회집 )"
+    },
+    "text": "江陵生太マッケジプ ( 강릉생태막회집 )\\n\nソウル特別市 ヨンドゥンポ区 グクフェデロ34ギル6\\n\n新鮮な刺身が味わえる店です。ソウル特別市のヨンドゥンポ区に位置した韓食専門店です。おすすめは雑魚の刺身です。",
+    "QA": [
+        {
+            "question": "この店はどこにありますか？",
+            "answer": "この店はソウル特別市のヨンドゥンポ区に位置しています。"
+        },
+        {
+            "question": "この店のおすすめ料理は何ですか？",
+            "answer": "この店のおすすめは雑魚の刺身です。新鮮な刺身が味わえます。"
+        }
+    ],
+    "word_Count": {
+        "text": 78,
+        "QA": 62
+    }
+}

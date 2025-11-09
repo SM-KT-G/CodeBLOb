@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_011153",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-01",
+        "domain": "음식점",
+        "title": "ヌタウナギ ( 송여사숯불왕꼼장어 )"
+    },
+    "text": "ヌタウナギ \n江原道 江陵市 ナムグキル18ボンキル 15\n韓国ドラマによく登場する屋台のような雰囲気で、食事ができるところです。 江原道のガンヌン市に位置した韓食専門店です。代表的なメニューはヌタウナギ焼きです。",
+    "QA": [
+        {
+            "question": "この屋台の場所はどこですか？",
+            "answer": "この屋台は韓国の江原道江陵市に位置しています。"
+        },
+        {
+            "question": "この屋台の名前は何ですか？",
+            "answer": "この屋台の名前は「ナムグキル18ボンキル」と言います。"
+        },
+        {
+            "question": "この屋台で食べられる料理は何ですか？",
+            "answer": "この屋台では代表的なメニューとして「ヌタウナギ焼き」が食べられます。"
+        }
+    ],
+    "word_Count": {
+        "text": 78,
+        "QA": 94
+    }
+}

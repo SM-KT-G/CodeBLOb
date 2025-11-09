@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_003486",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2022-09-21",
+        "domain": "숙박",
+        "title": "ケンシントンリゾート西帰浦（켄싱턴리조트 서귀포）"
+    },
+    "text": "ケンシントンリゾート西帰浦（켄싱턴리조트 서귀포）\\n\nチェジュ特別自治道ソグィポ市イオドロ684\\n\n「ケンシントンリゾート（KENSINGTON RESORT）西帰浦」は、漢拏山と青い海が見られる恵まれた自然環境が自慢のホテルです。",
+    "QA": [
+        {
+            "question": "ケンシントンリゾート西帰浦はどこにありますか？",
+            "answer": "ケンシントンリゾート西帰浦はチェジュ特別自治道ソグィポ市イオドロ684にあります。"
+        },
+        {
+            "question": "ケンシントンリゾート西帰浦の自然環境はどのようなのですか？",
+            "answer": "ケンシントンリゾート西帰浦は漢拏山と青い海が見られる恵まれた自然環境が自慢です。"
+        },
+        {
+            "question": "ケンシントンリゾート西帰浦はどのようなホテルですか？",
+            "answer": "ケンシントンリゾート西帰浦は自然環境に恵まれたホテルで、漢拏山と青い海を楽しむことができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 86,
+        "QA": 151
+    }
+}

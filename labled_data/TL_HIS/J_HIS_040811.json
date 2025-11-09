@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_040811",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/collectionList#######",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "\"장사군\" 글자가 있는 벽돌7"
+    },
+    "text": "「張使君」という文字のレンガのかけら ( \"장사군\" 글자가 있는 벽돌 조각)\\n\n壁面には、「張使君伝」という文字が刻まれています。この壁の国籍と時代は、韓国の高句麗です。材質は土で、瓦のような質感があります。この壁は主に生活用途に使用される建築部材であり、床や壁の材料として使用されます。現在の長さは228cm、幅は159cm、厚さは58cmです。",
+    "QA": [
+        {
+            "question": "この壁の国籍はどこですか？",
+            "answer": "この壁は韓国の高句麗のものです。"
+        },
+        {
+            "question": "この壁はどの時代のものですか？",
+            "answer": "この壁は高句麗時代のものです。"
+        },
+        {
+            "question": "この壁の材質は何ですか？",
+            "answer": "この壁の材質は土です。"
+        },
+        {
+            "question": "この壁は何に使われていましたか？",
+            "answer": "この壁は主に生活用途に使用される建築部材であり、床や壁の材料として使用されていました。"
+        },
+        {
+            "question": "この壁の現在のサイズは何ですか？",
+            "answer": "この壁の現在の長さは228cm、幅は159cm、厚さは58cmです。"
+        }
+    ],
+    "word_Count": {
+        "text": 129,
+        "QA": 140
+    }
+}

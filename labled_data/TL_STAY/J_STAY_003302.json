@@ -1,0 +1,63 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_003302",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://kr.hotels.com/ho645059/gumi-ihotel-gumi-hangug/?chkin=2023-11-21&chkout=2023-11-22&x_pwa=1&rfrr=HSR&pwa_ts=1699174229452&referrerUrl=aHR0cHM6Ly9rci5ob3RlbHMuY29tL0hvdGVsLVNlYXJjaA%3D%3D&useRewards=false&rm1=a2&regionId=6129081&destination=%EA%B2%BD%EC%83%81%EB%B6%81%EB%8F%84%2C+%ED%95%9C%EA%B5%AD&destType=MARKET&latLong=36.575917%2C128.506012&sort=DISTANCE&top_dp=47500&top_cur=KRW&userIntent=&selectedRoomType=201757717&selectedRatePlan=208768298&expediaPropertyId=16700887&searchId=017b00f1-99ff-4fe5-9ef3-895483558309",
+        "collectedDate": "2023-11-15",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "구미 이호텔"
+    },
+    "text": "グミ·イー·ホテル (구미 이호텔)\n亀尾に位置する亀尾このホテルでは、快適で心地よい宿泊をお楽しみいただけます。 当ホテルでは、無料で提供されているWiFiやセルフ駐車の特典をご利用いただけます。 , ホテルサイズ : 48室の客室 , チェックイン開始時間:13:00 最小チェックイン年齢（満）:19歳 チェックアウト時間:正午 , 旅行関連の制限事項 : 新型コロナウイルス感染症に関する制限事項をご確認ください。 , 特別チェックインのご案内 : 到着時にフロントデスクのスタッフがお手伝いします。 , チェックイン時に必要な事項 : 付帯費用に備えてクレジットカード、デビットカード、または現金保証金が必要な写真が貼られた政府発行身分証明書が必要な場合があります。チェックイン可能年齢:満19歳から , ベビーベッドなし , ペット : ペット同伴不可 , インターネット : 共用エリアで無料WiFiを提供 客室内の無料WiFi , 駐車案内 : 無料施設内のセルフ駐車(屋根付き)施設内の車椅子で利用可能な駐車場 , その他 : 禁煙施設",
+    "QA": [
+        {
+            "question": "このホテルはどこに位置していますか？",
+            "answer": "亀尾に位置しています。"
+        },
+        {
+            "question": "このホテルではどのような特典がありますか？",
+            "answer": "無料で提供されているWiFiやセルフ駐車があります。"
+        },
+        {
+            "question": "このホテルの客室の数は何室ですか？",
+            "answer": "48室です。"
+        },
+        {
+            "question": "チェックインの開始時間は何時ですか？",
+            "answer": "13:00からです。"
+        },
+        {
+            "question": "チェックアウトの時間は何時ですか？",
+            "answer": "正午です。"
+        },
+        {
+            "question": "チェックインに必要なものは何ですか？",
+            "answer": "クレジットカード、デビットカード、または現金保証金と写真が貼られた政府発行身分証明書が必要です。"
+        },
+        {
+            "question": "ペットは同伴できますか？",
+            "answer": "ペットは同伴できません。"
+        },
+        {
+            "question": "このホテルで利用できるインターネットはありますか？",
+            "answer": "共用エリアで無料のWiFiが利用できます。また、客室内でも無料のWiFiが利用できます。"
+        },
+        {
+            "question": "駐車場はありますか？",
+            "answer": "はい、無料のセルフ駐車(屋根付き)が利用できます。また、車椅子で利用可能な駐車場もあります。"
+        },
+        {
+            "question": "禁煙施設ですか？",
+            "answer": "はい、禁煙施設です。"
+        }
+    ],
+    "word_Count": {
+        "text": 349,
+        "QA": 280
+    }
+}

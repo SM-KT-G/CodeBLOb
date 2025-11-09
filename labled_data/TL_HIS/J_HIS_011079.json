@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_011079",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1238&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=79&ccbaAsno=05590200&ccbaCtcd=11&ccbaCpno=4411105590200&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2013-08-27",
+        "domain": "문화/역사관광",
+        "title": "금성 라디오 A-501"
+    },
+    "text": "金星ラジオ A-501 (금성 라디오 A-501)\\n\nソウル特別市鍾路区世宗大路198-大韓民国歴史博物館\\n\n1959年 , 国家登録文化財 , 1959年に金星社で製造した韓国初の真空管式ラジオで、5つの真空管と5インチスピーカーを装着した。放送周波数選択は可変コンデンサを使用するダイヤル調整方式で、短波帯を含む2バンドシステムを通じて地域放送および海外放送も聴取できる機能を持ち、最新技術であるスーパーヘテロダイン方式を採択して色々な異なる周波数を一定の感度(sensitivity)を持たせた。電子回路の設計と製品生産の技術蓄積など電子産業の発展に重要な役割を担い、産業デザインの歴史的側面でも象徴的な意味を持つ。",
+    "QA": [
+        {
+            "question": "金星ラジオ A-501の製造年は何年ですか？",
+            "answer": "金星ラジオ A-501は1959年に製造されました。"
+        },
+        {
+            "question": "金星ラジオ A-501は何のために国家登録文化財に指定されましたか？",
+            "answer": "金星ラジオ A-501は韓国初の真空管式ラジオであり、電子産業の発展に重要な役割を果たしたため、国家登録文化財に指定されました。"
+        },
+        {
+            "question": "金星ラジオ A-501はどのような機能を持っていますか？",
+            "answer": "金星ラジオ A-501は5つの真空管と5インチスピーカーを装着し、可変コンデンサを使用するダイヤル調整方式で放送周波数を選択できます。2バンドシステムを通じて地域放送や海外放送も聴取できます。また、スーパーヘテロダイン方式を採用しており、一定の感度を持って異なる周波数を受信することができます。"
+        },
+        {
+            "question": "金星ラジオ A-501はどのような歴史的な意味を持っていますか？",
+            "answer": "金星ラジオ A-501は電子回路の設計と製品生産の技術蓄積など、産業デザインの歴史的側面でも象徴的な意味を持っています。"
+        }
+    ],
+    "word_Count": {
+        "text": 230,
+        "QA": 302
+    }
+}

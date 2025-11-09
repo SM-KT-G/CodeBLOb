@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_017275",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=377&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=00140000&ccbaCtcd=38&ccbaCpno=2113800140000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1972-02-12",
+        "domain": "문화/역사관광",
+        "title": "밀양 표충사 석등"
+    },
+    "text": "密陽表忠寺石灯籠 (밀양 표충사 석등)\\n\n慶尚南道密陽市表忠路1338(丹長面、表忠寺)\\n\n慶尚南道有形文化財 , 表忠寺境内にある石灯籠(宝物第467号)とともに立っている石灯籠で、もともとここにあったわけではないようだ。 細長い柱の上に支え石、火を灯しておく火舍石、屋根石を順に上げた一般的な形で、各部材が八角を成している。 上の台石は蓮の花を刻んで装飾し、花沙石は4面に窓を置いた。 屋根石は角の部分の破損が激しく、頂上には簡単な構造の頭飾りを上げている。 全体的に統一新羅石灯籠の様式を見せているが、彫刻手法と規模から見て、時代が少し遅れた統一新羅時代後期のものと推定される。",
+    "QA": [
+        {
+            "question": "この石灯籠は何でできていますか？",
+            "answer": "この石灯籠は石でできています。"
+        },
+        {
+            "question": "この石灯籠はどの時代のものですか？",
+            "answer": "この石灯籠は統一新羅時代後期のものと推定されています。"
+        },
+        {
+            "question": "石灯籠の形状はどのようなものですか？",
+            "answer": "石灯籠の形状は、細長い柱の上に支え石、火を灯しておく火舍石、屋根石を順に上げた一般的な形です。"
+        },
+        {
+            "question": "石灯籠の装飾には何がありますか？",
+            "answer": "石灯籠の上の台石には蓮の花が刻まれており、花沙石には4面に窓があります。"
+        },
+        {
+            "question": "この石灯籠はどこにありますか？",
+            "answer": "この石灯籠は慶尚南道密陽市表忠路1338の表忠寺境内にあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 216,
+        "QA": 175
+    }
+}

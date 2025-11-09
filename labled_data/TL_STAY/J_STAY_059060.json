@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_059060",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42070&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "청주 클레오파트라 무인텔"
+    },
+    "text": "俗離山、美東山樹木園、上党山城、玉華九景、華陽渓谷などの名所が密集しており、周辺の観光客に様々な観光スポットを提供しています。 この天恵の自然環境と由緒ある歴史的名所を楽しむことができます。 ここには大型駐車場が設けられており、40台余りの車を便利に駐車することができます。 そのため、観光客は周辺の名所を快適に観光でき、車の駐車場の心配をする必要はありません。 駐車場は観光客に便利な施設を提供し、周辺の名所を訪れるのに役立ちます。",
+    "QA": [
+        {
+            "question": "天恵山にはどのような名所がありますか？",
+            "answer": "天恵山には俗離山、美東山樹木園、上党山城、玉華九景、華陽渓谷などの名所があります。"
+        },
+        {
+            "question": "天恵山周辺にはどのような観光スポットがありますか？",
+            "answer": "天恵山周辺には由緒ある歴史的名所や自然環境を楽しめる観光スポットがあります。"
+        },
+        {
+            "question": "天恵山には大型駐車場がありますか？",
+            "answer": "はい、天恵山には大型駐車場が設けられており、40台余りの車を便利に駐車することができます。"
+        },
+        {
+            "question": "天恵山周辺の駐車場は観光客に便利な施設ですか？",
+            "answer": "はい、天恵山周辺の駐車場は観光客に便利な施設であり、周辺の名所を訪れる際に役立ちます。"
+        }
+    ],
+    "word_Count": {
+        "text": 159,
+        "QA": 184
+    }
+}

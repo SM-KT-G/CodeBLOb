@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_107671",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ja",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2023-08-09",
+        "domain": "문화/역사관광",
+        "title": "청송의 송소고택과 주산지를 보다"
+    },
+    "text": "慶尚北道青松の主な遺跡であるソンソ古宅は7洞99間の大家だ。サムブジャデクと呼ばれたこの家は伝統的な両班の家をそのまま残した文化財として有名だ。歌美術館と周辺ヨンモさん岩と広く知られた主な産地も、青松(チョンソン)の見どころだ。",
+    "QA": [
+        {
+            "question": "青松の主な遺跡であるソンソ古宅は何洞ですか？",
+            "answer": "7洞です。"
+        },
+        {
+            "question": "ソンソ古宅の大きさは何間ですか？",
+            "answer": "99間です。"
+        },
+        {
+            "question": "ソンソ古宅は何と呼ばれていますか？",
+            "answer": "サムブジャデクと呼ばれています。"
+        },
+        {
+            "question": "ソンソ古宅は何の文化財として有名ですか？",
+            "answer": "伝統的な両班の家をそのまま残した文化財として有名です。"
+        },
+        {
+            "question": "青松の歌美術館の周辺には何がありますか？",
+            "answer": "周辺にはヨンモさん岩があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 83,
+        "QA": 121
+    }
+}

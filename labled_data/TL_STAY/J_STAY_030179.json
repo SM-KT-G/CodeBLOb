@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_030179",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42091&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "울산 일산 윈"
+    },
+    "text": "貸室は24時間利用可能で、予約が閉まっても現場にいらっしゃれば迅速にご案内いたします。 ヤノルジャ会員特典により、オンシーズンや特定日、祝日には料金が変わることがあります。 周辺の案内では大王岩公園、釣り橋入口までは徒歩3分、一山海水浴場までは徒歩4分です。 防保津市外バス停までは車で4分、防保津港までは約3分です。",
+    "QA": [
+        {
+            "question": "貸室は何時まで利用できますか？",
+            "answer": "貸室は24時間利用可能です。"
+        },
+        {
+            "question": "予約が閉まっても現場に行けば利用できますか？",
+            "answer": "はい、予約が閉まっていても現場にいらっしゃれば迅速にご案内いたします。"
+        },
+        {
+            "question": "ヤノルジャ会員特典は何ですか？",
+            "answer": "ヤノルジャ会員特典により、オンシーズンや特定日、祝日には料金が変わることがあります。"
+        },
+        {
+            "question": "周辺にはどのような観光地がありますか？",
+            "answer": "周辺には大王岩公園や釣り橋入口があります。徒歩3分です。また、一山海水浴場も徒歩4分の場所にあります。"
+        },
+        {
+            "question": "防保津市外バス停までの所要時間はどれくらいですか？",
+            "answer": "防保津市外バス停までは車で約4分です。"
+        },
+        {
+            "question": "防保津港へのアクセスはどうですか？",
+            "answer": "防保津港までは車で約3分です。"
+        }
+    ],
+    "word_Count": {
+        "text": 116,
+        "QA": 211
+    }
+}

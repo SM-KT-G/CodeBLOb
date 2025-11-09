@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_028552",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-07-02",
+        "domain": "음식점",
+        "title": "泰臨鳳（태림봉）"
+    },
+    "text": "泰臨鳳（태림봉）\\n\n仁川広域市 中区 チャイナタウン路59番キル23\\n\n2000年に開店した泰臨鳳（テリムボン）では、さまざまな中華コース料理が楽しめます。海鮮ちゃんぽん、八珍炒麺が代表メニューとなっており、その他ジャージャーメンやちゃんぽんも人気です。",
+    "QA": [
+        {
+            "question": "泰臨鳳は何年に開店しましたか？",
+            "answer": "2000年に開店しました。"
+        },
+        {
+            "question": "泰臨鳳はどの地区にありますか？",
+            "answer": "泰臨鳳は仁川広域市の中区にあります。"
+        },
+        {
+            "question": "泰臨鳳の代表メニューは何ですか？",
+            "answer": "泰臨鳳の代表メニューは海鮮ちゃんぽんと八珍炒麺です。"
+        },
+        {
+            "question": "その他に人気のあるメニューはありますか？",
+            "answer": "その他にもジャージャーメンやちゃんぽんも人気です。"
+        }
+    ],
+    "word_Count": {
+        "text": 94,
+        "QA": 108
+    }
+}

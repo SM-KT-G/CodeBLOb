@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_094069",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=446&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=00930000&ccbaCtcd=11&ccbaCpno=2111100930000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1993-04-10",
+        "domain": "문화/역사관광",
+        "title": "원지동 석불입상 및 석탑"
+    },
+    "text": "ウォンジドン(原芝洞) ペンライト及び石塔\\n\nソウル瑞草区遠池洞362-4番地、362-5\\n\nソウル特別市有形文化財、清渓山(チョンゲサン)登山路に進入する高速道路地下道入口の右側にミルクダンが建てられているのに、その中には彌勒仏が祀られていて小さな規模の3階石塔がある。弥勒菩薩は約2m大きさの立っている姿で、高麗末、朝鮮初期の土俗的な様式を帯びている。ウォンから村の守護神とされ、1年に一度の住民たちが祭祀を捧げるという。この弥勒菩薩に知性をすれば吉凶禍福を啓示するとして、日本人たちが弥勒仏を日本に搬出しようとして失敗したことがあった。弥勒仏の不思議な霊験に人々が継続して集まったら日本人たちは弥勒仏の腹をつついて出したがその後から弥勒仏の神々しい能力が失われたという。",
+    "QA": [
+        {
+            "question": "弥勒菩薩はどのような様式を帯びていますか？",
+            "answer": "弥勒菩薩は高麗末、朝鮮初期の土俗的な様式を帯びています。"
+        },
+        {
+            "question": "弥勒菩薩は何を知性することができるとされていますか？",
+            "answer": "弥勒菩薩に知性をすると、吉凶禍福を啓示するとされています。"
+        },
+        {
+            "question": "日本人たちが弥勒仏を日本に搬出しようとした際、何が起きたのですか？",
+            "answer": "日本人たちは弥勒仏の不思議な霊験に人々が継続して集まったため、弥勒仏を搬出しようとしましたが、失敗しました。"
+        },
+        {
+            "question": "弥勒仏の神々しい能力が失われたきっかけは何ですか？",
+            "answer": "日本人たちが弥勒仏の腹をつついて出したことがきっかけで、その後から弥勒仏の神々しい能力が失われたとされています。"
+        }
+    ],
+    "word_Count": {
+        "text": 249,
+        "QA": 199
+    }
+}

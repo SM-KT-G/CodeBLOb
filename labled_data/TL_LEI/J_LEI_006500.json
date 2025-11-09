@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_LEI_006500",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2022-09-08",
+        "domain": "레포츠",
+        "title": "DGB 대구은행파크"
+    },
+    "text": "DGB大邱銀行パークは大邱広域市のサッカー競技場で、大邱市民運動場をリモデリングして建設されました。 2017年夏から工事が始まり、2019年1月19日に完成しました。 競技場は完工前まで「大邱フォレストアリーナ」等の仮称と呼ばれていましたが、DGB金融グループが命名権を得て2019年2月に「DGB大邱銀行パーク」に正式名称が決定されました。",
+    "QA": [
+        {
+            "question": "DGB大邱銀行パークはどこにありますか？",
+            "answer": "DGB大邱銀行パークは大邱広域市にあります。"
+        },
+        {
+            "question": "DGB大邱銀行パークの建設はいつ始まりましたか？",
+            "answer": "DGB大邱銀行パークの建設は2017年夏から始まりました。"
+        },
+        {
+            "question": "DGB大邱銀行パークの完成はいつですか？",
+            "answer": "DGB大邱銀行パークの完成は2019年1月19日です。"
+        },
+        {
+            "question": "DGB大邱銀行パークの仮称は何でしたか？",
+            "answer": "DGB大邱銀行パークの仮称は「大邱フォレストアリーナ」等でした。"
+        },
+        {
+            "question": "DGB大邱銀行パークの正式名称はいつ決定されましたか？",
+            "answer": "DGB大邱銀行パークの正式名称は2019年2月に決定されました。"
+        }
+    ],
+    "word_Count": {
+        "text": 126,
+        "QA": 185
+    }
+}

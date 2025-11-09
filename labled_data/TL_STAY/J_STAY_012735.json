@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_012735",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42041&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "광주 STAY 호텔 운영 정책"
+    },
+    "text": "チェックインは午後4時以降可能で、チェックアウトは午前12時までです。 朝食は火曜日から日曜日まで韓食朝食が提供され、月曜日は簡単な朝食が提供されます。 祝日や連休期間には簡単な朝食が提供されます。 無料で駐車でき、無料Wi-Fiと電気自動車の充電器も外部駐車場に設置されています。 すべての追加費用は当日現地にてお支払いいただく必要があります。",
+    "QA": [
+        {
+            "question": "チェックインとチェックアウトの時間は何時ですか？",
+            "answer": "チェックインは午後4時以降可能で、チェックアウトは午前12時までです。"
+        },
+        {
+            "question": "朝食は何時から何時まで提供されますか？",
+            "answer": "火曜日から日曜日までの朝食は韓食で提供され、月曜日は簡単な朝食が提供されます。祝日や連休期間には簡単な朝食が提供されます。"
+        },
+        {
+            "question": "駐車場は無料ですか？",
+            "answer": "はい、無料で駐車できます。"
+        },
+        {
+            "question": "Wi-Fiは利用できますか？",
+            "answer": "はい、無料のWi-Fiが利用できます。"
+        },
+        {
+            "question": "電気自動車の充電器はありますか？",
+            "answer": "はい、電気自動車の充電器も外部駐車場に設置されています。"
+        },
+        {
+            "question": "追加費用はいつ支払う必要がありますか？",
+            "answer": "すべての追加費用は当日現地にてお支払いいただく必要があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 126,
+        "QA": 211
+    }
+}

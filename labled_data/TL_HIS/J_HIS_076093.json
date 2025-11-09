@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_076093",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=857&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=01290000&ccbaCtcd=34&ccbaCpno=2333401290000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1997-12-23",
+        "domain": "문화/역사관광",
+        "title": "비인향교"
+    },
+    "text": "非人郷橋\\n\n忠清南道舒川郡飛仁面飛仁路136番キル68(城内里)\\n\n忠清南道記念物、郷校は、孔子と多くの聖賢に祭祀をして地方民の教育と教化のために国で立てた教育機関だ。非郷校を建てた時期は正確に分からないが、全国的に郷校が設置された朝鮮前期に建てられたものと伝えている。その後、何回直して建設して受理したと推測するが、資料は伝えない。建物は正門であるウェサムムン、学問を学ぶ空間である明倫堂、内三門、法事の空間である大成殿の順になっている。大成殿は前面3間・側面3間規模であり、屋根は側面から見ると、人の教わる字形の切妻屋根である。明倫堂は前面5間・側面2間で、屋根は側面から見ると、八(八部)字形の入母屋屋根で飾った。",
+    "QA": [
+        {
+            "question": "非郷校はいつ建てられましたか？",
+            "answer": "非郷校は朝鮮前期に建てられたものと伝えられています。"
+        },
+        {
+            "question": "非郷校の建物にはどのような空間がありますか？",
+            "answer": "非郷校の建物には正門であるウェサムムン、学問を学ぶ空間である明倫堂、内三門、法事の空間である大成殿があります。"
+        },
+        {
+            "question": "大成殿の屋根の形はどのような形ですか？",
+            "answer": "大成殿の屋根は側面から見ると、人の教わる字形の切妻屋根です。"
+        },
+        {
+            "question": "明倫堂の屋根の形はどのような形ですか？",
+            "answer": "明倫堂の屋根は側面から見ると、八(八部)字形の入母屋屋根で飾られています。"
+        }
+    ],
+    "word_Count": {
+        "text": 228,
+        "QA": 163
+    }
+}

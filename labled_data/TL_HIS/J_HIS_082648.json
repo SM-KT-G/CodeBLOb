@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_082648",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/collectionList#######",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2023-10-11",
+        "domain": "문화/역사관광",
+        "title": "성벽 일부 전경"
+    },
+    "text": "城壁の一部の全景 (성벽 일부 전경)\\n\n1920年に、谷井済一が調査した城壁の一部全景の写真です。写真の左下には黒文字で「大正」、赤文字で「九七」と書かれており、右下には鉛筆で「18-3」と記録がされています。この写真は韓国が日本による植民地支配を受けていた時代のものです。材質はガラスで、宝石-ガラスとして分類されています。大きさは横164cm、縦120cmです。",
+    "QA": [
+        {
+            "question": "城壁の一部の写真は誰によって撮影されましたか？",
+            "answer": "谷井済一によって撮影されました。"
+        },
+        {
+            "question": "写真はいつ撮影されましたか？",
+            "answer": "1920年に撮影されました。"
+        },
+        {
+            "question": "写真の大きさは何ですか？",
+            "answer": "横164cm、縦120cmです。"
+        },
+        {
+            "question": "城壁の材質は何ですか？",
+            "answer": "ガラスです。"
+        },
+        {
+            "question": "写真に記録された文字は何を表していますか？",
+            "answer": "「大正」、「九七」、「18-3」という時代や番号を表しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 135,
+        "QA": 121
+    }
+}

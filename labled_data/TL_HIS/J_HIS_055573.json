@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_055573",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2023-08-02",
+        "domain": "문화/역사관광",
+        "title": "기흥맛깔촌"
+    },
+    "text": "器興入り村は、京畿道が2007年に飲食文化の実験の街に指定した。京畿道博物館と韓国民俗村、白南準美術館が位置している烏山川沿道を中心に様々な飲食店が整然と並んでいる。海産物鍋、ウナギ、韓国料理などの郷土料理を味わうことができる。",
+    "QA": [
+        {
+            "question": "器興入り村はどこに位置していますか？",
+            "answer": "器興入り村は京畿道に位置しています。"
+        },
+        {
+            "question": "京畿道が器興入り村を何のために指定しましたか？",
+            "answer": "京畿道は器興入り村を飲食文化の実験の街に指定しました。"
+        },
+        {
+            "question": "器興入り村で味わえる郷土料理は何ですか？",
+            "answer": "器興入り村では海産物鍋、ウナギ、韓国料理などの郷土料理を味わうことができます。"
+        },
+        {
+            "question": "器興入り村の主な観光スポットは何ですか？",
+            "answer": "器興入り村の主な観光スポットは京畿道博物館、韓国民俗村、白南準美術館です。"
+        }
+    ],
+    "word_Count": {
+        "text": 83,
+        "QA": 148
+    }
+}

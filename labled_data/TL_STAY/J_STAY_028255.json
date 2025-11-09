@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_028255",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42061&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "대전 신탄진 hotel lod"
+    },
+    "text": "親切で清潔な最高級施設が完備された新灘津1等宿泊施設では、出張のお客様を歓迎します。 電話で予約を受け付けており、大型駐車場も完備されており、1車両可能です。 ご予約の際はお知らせを必ずご確認ください。 お知らせを確認せずに予約すると払い戻しが難しいです。 朝食サービスにはトースト、シリアル、コーヒーが提供されます。 朝食のご利用は午前06:00から10:30まで可能です。 退室前には客室をよく見て回り、忘れ物がないか必ず探してみてください。 忘れ物については責任を負いません。",
+    "QA": [
+        {
+            "question": "予約はどのように行いますか？",
+            "answer": "予約はお電話にて承っております。"
+        },
+        {
+            "question": "駐車場の利用料金はありますか？",
+            "answer": "駐車場は無料でご利用いただけます。"
+        },
+        {
+            "question": "朝食の提供時間は何時から何時までですか？",
+            "answer": "朝食は午前06:00から10:30までの間にご利用いただけます。"
+        },
+        {
+            "question": "忘れ物についてはどうすれば良いですか？",
+            "answer": "退室前に客室をよく見て回り、忘れ物がないか必ず探してください。忘れ物については責任を負いませんのでご注意ください。"
+        }
+    ],
+    "word_Count": {
+        "text": 176,
+        "QA": 139
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_029594",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.goodchoice.kr/product/detail?ano=69&adcno=1&sel_date=2023-11-07&sel_date2=2023-11-08",
+        "collectedDate": "2023-11-15",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "원주 뉴스카이"
+    },
+    "text": "多くのOTTコンテンツを無制限に鑑賞できるこの宿では、ネットフリックス、ディズニープラス、ティービング、アップルテレビ、広告なしのユーチューブを無料で提供しています。 無料駐車場もあり、便利に車を利用する方のために必要な設備を備えています。",
+    "QA": [
+        {
+            "question": "この宿で利用できるOTTコンテンツは何ですか？",
+            "answer": "ネットフリックス、ディズニープラス、ティービング、アップルテレビ、広告なしのユーチューブが無料で提供されています。"
+        },
+        {
+            "question": "この宿には無料の駐車場はありますか？",
+            "answer": "はい、無料の駐車場も完備しています。"
+        },
+        {
+            "question": "この宿は車を利用する方のためにどのような設備がありますか？",
+            "answer": "便利に車を利用する方のために必要な設備を備えています。"
+        }
+    ],
+    "word_Count": {
+        "text": 88,
+        "QA": 126
+    }
+}

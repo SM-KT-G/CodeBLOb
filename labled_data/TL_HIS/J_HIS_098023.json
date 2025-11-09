@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_098023",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ja",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2023-08-10",
+        "domain": "문화/역사관광",
+        "title": "자라섬에서의 낭만 넘치는 오토캠핑"
+    },
+    "text": "京畿道加平に位置したジャ島キャンプ場は、キャンパーたちなら一度は行ってみたり、行きたい美しいキャンプ場だ。周辺アチムゴヨ樹木園や南怡島など美しい遊園地があって、自然を散歩して楽しむのに一番いい所だ。ここは10月に開かれる国際ジャズフェスティバルでも有名なところだ。",
+    "QA": [
+        {
+            "question": "ジャ島キャンプ場はどこに位置していますか？",
+            "answer": "ジャ島キャンプ場は京畿道加平に位置しています。"
+        },
+        {
+            "question": "ジャ島キャンプ場での主なアクティビティは何ですか？",
+            "answer": "ジャ島キャンプ場では自然を散歩したり、周辺の美しい遊園地を楽しむことができます。"
+        },
+        {
+            "question": "ジャ島キャンプ場で開催される国際ジャズフェスティバルの開催時期はいつですか？",
+            "answer": "ジャ島キャンプ場で開催される国際ジャズフェスティバルは10月に開かれます。"
+        }
+    ],
+    "word_Count": {
+        "text": 96,
+        "QA": 134
+    }
+}

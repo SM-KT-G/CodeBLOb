@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_030331",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42060&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "한화리조트 대천 파로스"
+    },
+    "text": "西海と、美しい夕焼けを眺めながら、日差しのこもった大川海水浴場で楽しさに満ちた時間をお過ごしください。 松林のセルフバーベキュー場では、鬱蒼とした木陰の下で楽しく涼しいバーベキューを楽しめます。 16階に位置するスカイ刺身屋では青い海が一望できます。 これらすべての場所を含め、豊富な選択肢を持って貴重な時間を一緒に作ってみましょう。",
+    "QA": [
+        {
+            "question": "大川海水浴場で何ができますか？",
+            "answer": "大川海水浴場では海水浴を楽しむことができます。また、セルフバーベキュー場でバーベキューも楽しめます。"
+        },
+        {
+            "question": "セルフバーベキュー場の特徴は何ですか？",
+            "answer": "セルフバーベキュー場は松林の中に位置しており、木陰の下で涼しくバーベキューを楽しめます。"
+        },
+        {
+            "question": "スカイ刺身屋の特徴は何ですか？",
+            "answer": "スカイ刺身屋は16階に位置しています。そこから青い海を一望することができます。"
+        },
+        {
+            "question": "大川海水浴場での過ごし方について教えてください。",
+            "answer": "大川海水浴場では海水浴を楽しんだり、セルフバーベキュー場でバーベキューを楽しんだりすることができます。また、スカイ刺身屋で美しい夕焼けを眺めながら食事を楽しむこともできます。"
+        }
+    ],
+    "word_Count": {
+        "text": 122,
+        "QA": 214
+    }
+}

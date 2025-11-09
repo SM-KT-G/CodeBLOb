@@ -1,0 +1,51 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_022522",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42040&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "보성 벌교 시드니 운영 정책"
+    },
+    "text": "使用可能な冷暖房設備、ケーブルテレビ洗面用具、タオル、ヘアドライヤー、使い捨て歯ブラシ及び歯磨き粉をご提供しております。 客室内の朝食は提供しておりません。 長期滞在などの追加サービスを利用する場合、利用料が発生することがあります。 担当スタッフは24時間常駐しており、利便性を提供しています。 ペットのお連れはできません。",
+    "QA": [
+        {
+            "question": "この宿泊施設ではどのような冷暖房設備が利用できますか？",
+            "answer": "冷暖房設備は使用可能です。"
+        },
+        {
+            "question": "客室にはケーブルテレビがありますか？",
+            "answer": "はい、ケーブルテレビがあります。"
+        },
+        {
+            "question": "洗面用具やタオル、ヘアドライヤーは提供されていますか？",
+            "answer": "洗面用具やタオル、ヘアドライヤーは提供しております。"
+        },
+        {
+            "question": "使い捨て歯ブラシや歯磨き粉はありますか？",
+            "answer": "はい、使い捨て歯ブラシ及び歯磨き粉を提供しております。"
+        },
+        {
+            "question": "長期滞在などの追加サービスを利用する場合、料金はかかりますか？",
+            "answer": "はい、長期滞在などの追加サービスを利用する場合、料金が発生することがあります。"
+        },
+        {
+            "question": "スタッフはいつでも利用できますか？",
+            "answer": "担当スタッフは24時間常駐しており、いつでも利用できます。"
+        },
+        {
+            "question": "ペットを連れて宿泊することはできますか？",
+            "answer": "申し訳ありませんが、ペットのお連れはできません。"
+        }
+    ],
+    "word_Count": {
+        "text": 118,
+        "QA": 244
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_016771",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1217&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=79&ccbaAsno=03260000&ccbaCtcd=37&ccbaCpno=4413703260000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2007-04-30",
+        "domain": "문화/역사관광",
+        "title": "문경 구 불정역사"
+    },
+    "text": "聞慶区仏井駅舎 (문경 구 불정역사)\\n\n慶尚北道聞慶市仏井江辺キル187(仏井洞)\\n\n1955年 , 国家登録文化財 , 旧仏井駅は聞慶線の駅舎で1954年11月10日に普通駅として営業を開始し、駅舎建設は1955年9月15日に竣工した。 仏頂駅の外観下部は花崗石仕上げに上部は近隣の九郎里川の強砂利を材料に仕上げ、他の簡易駅とは異なる独特な外観を持っている。 薄空屋根の側面に出入口を配置し、平面は待合室と駅員室で構成し、駅員室が乗り場側に突出して乗客を管理しやすく配置した。 解放後、聞慶炭鉱の石炭産業と連携した歴史として場所性を持っている。",
+    "QA": [
+        {
+            "question": "仏井駅舎はいつ建設されましたか？",
+            "answer": "仏井駅舎は1955年9月15日に竣工しました。"
+        },
+        {
+            "question": "仏井駅舎の外観はどのような特徴がありますか？",
+            "answer": "仏井駅舎の外観は、下部が花崗石仕上げ、上部が近隣の九郎里川の強砂利で仕上げられており、独特な雰囲気を持っています。"
+        },
+        {
+            "question": "仏井駅舎の平面はどのように構成されていますか？",
+            "answer": "仏井駅舎の平面は、待合室と駅員室で構成されています。駅員室は乗り場側に突出しており、乗客を管理しやすい配置となっています。"
+        },
+        {
+            "question": "仏井駅舎はどのような歴史的な背景を持っていますか？",
+            "answer": "仏井駅舎は、解放後の聞慶炭鉱の石炭産業と連携した歴史を持っています。"
+        }
+    ],
+    "word_Count": {
+        "text": 202,
+        "QA": 191
+    }
+}

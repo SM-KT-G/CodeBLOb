@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_026017",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "長安門（장안문）"
+    },
+    "text": "長安門（장안문）\\n\nソウル特別市 中区 乙支路3キル 29\\n\nソウル特別市ウルチロイック駅の近くに位置したバーベキュー専門店です。おすすめは牛のともばら肉です。韓国式BBQ専門店です。",
+    "QA": [
+        {
+            "question": "長安門はどこに位置していますか？",
+            "answer": "長安門はソウル特別市 中区 乙支路3キル 29に位置しています。"
+        },
+        {
+            "question": "長安門のおすすめメニューは何ですか？",
+            "answer": "おすすめは牛のともばら肉です。"
+        },
+        {
+            "question": "長安門は何の専門店ですか？",
+            "answer": "長安門は韓国式BBQ専門店です。"
+        }
+    ],
+    "word_Count": {
+        "text": 68,
+        "QA": 80
+    }
+}

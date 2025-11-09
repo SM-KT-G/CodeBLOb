@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_011669",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-01",
+        "domain": "음식점",
+        "title": "バダルタムタ ( 바다를담다 )"
+    },
+    "text": "バダルタムタ ( 바다를담다 )\n江原道 江陵市 江東面 献花路 1025\n砂時計公園が見渡せる景観で、新鮮な海産物を味わえるところです。 江原道のガンヌン市に位置した海鮮専門店です。おすすめはズワイガニの蒸し物です。",
+    "QA": [
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "バダルタムタは江原道江陵市江東面献花路1025に位置しています。"
+        },
+        {
+            "question": "この店では何を楽しむことができますか？",
+            "answer": "この店では新鮮な海産物を味わうことができます。特におすすめはズワイガニの蒸し物です。"
+        },
+        {
+            "question": "この店からはどのような景色が見えますか？",
+            "answer": "この店からは砂時計公園が見渡せる景観が楽しめます。"
+        },
+        {
+            "question": "この店の周辺には他に何がありますか？",
+            "answer": "この店の周辺には他にも観光名所や飲食店があります。"
+        },
+        {
+            "question": "この店での食事はどのくらいの価格帯ですか？",
+            "answer": "この店での食事の価格帯は中程度です。"
+        }
+    ],
+    "word_Count": {
+        "text": 79,
+        "QA": 170
+    }
+}

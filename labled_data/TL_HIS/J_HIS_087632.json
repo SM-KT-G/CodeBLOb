@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_087632",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=55&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=03060000&ccbaCtcd=37&ccbaCpno=1123703060000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1963-01-21",
+        "domain": "문화/역사관광",
+        "title": "안동 하회 양진당"
+    },
+    "text": "安東河回良進堂\\n\n慶尚北道安東市河回宗家キル68(豊川面)\\n\n朝鮮時代中期、宝物、養真堂はギョムアムリュウンリョン(1539∼1601)の家に非常に長くなった豊山柳氏の終値である。笠岩リュジュンヨン(1515∼1573)の号を祈って''笠岩古宅(立巖古宅)''という扁額が掛かっているが、リュジュンヨンはリュウンリョンの父である。養真堂はリュウンリョンの6貸倒れリュヨン(1687∼1761)の幼い時名前から取ってきたのだ。規模は表4間・側面3間であり、屋根は側面から見ると、八(八部)の字の形をした入母屋屋根である。右3間は板の間、左1間はオンドル部屋で外の周りに縁側と欄干が巡らされ、まるで楼に自宅のような印象を与え、板の間にはドアをつけて3間、いずれも開催できるようにした。建物の内側の天井は屋根の材料が素通しの提灯天井とし、''養真堂(養眞堂)''という堂号と共に様々な扁額がかかっている。建物の内側、一部の材料を作った手法が優れ、一般住宅だけでは、かなり規模が大きい朝鮮時代、別棟建築物の一つである。",
+    "QA": [
+        {
+            "question": "養真堂は何時代に建てられましたか？",
+            "answer": "養真堂は朝鮮時代中期に建てられました。"
+        },
+        {
+            "question": "養真堂の建物の規模はどのくらいですか？",
+            "answer": "養真堂の建物の規模は表4間・側面3間であり、八(八部)の字の形をした入母屋屋根を持っています。"
+        },
+        {
+            "question": "養真堂の堂号と共に何が建物の内側にかかっていますか？",
+            "answer": "養真堂の堂号と共に様々な扁額が建物の内側にかかっています。"
+        },
+        {
+            "question": "養真堂は誰の家の終値であるとされていますか？",
+            "answer": "養真堂は非常に長くなった豊山柳氏の終値であるとされています。"
+        },
+        {
+            "question": "養真堂の名前は誰から取られたものですか？",
+            "answer": "養真堂の名前はリュウンリョンの6貸倒れリュヨンの幼い時の名前から取られたものです。"
+        }
+    ],
+    "word_Count": {
+        "text": 335,
+        "QA": 198
+    }
+}

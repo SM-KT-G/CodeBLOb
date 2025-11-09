@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_001048",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42080&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "강릉 다비앙스파펜션"
+    },
+    "text": "2018年01月の新築オープンで、すっきりとしたモダンな客室と、様々な付帯施設でご来店いただくお客様一人一人に特別な思い出をお届けします。 お知らせを22時以降に入室する場合、ペンションまで事前にご連絡ください。 メゾネットタイプの客室テラスに現在、安全上の問題でテーブルと椅子が配置されていない。 バーベキューを利用する際、チェックイン前に相談必須。",
+    "QA": [
+        {
+            "question": "このペンションの客室はどのような雰囲気ですか？",
+            "answer": "新築オープンで、すっきりとしたモダンな雰囲気の客室となっております。"
+        },
+        {
+            "question": "どんな付帯施設がありますか？",
+            "answer": "様々な付帯施設がございます。具体的には、レストラン、温泉、プールなどがございます。"
+        },
+        {
+            "question": "メゾネットタイプの客室テラスにはテーブルと椅子がありますか？",
+            "answer": "現在、安全上の問題でメゾネットタイプの客室テラスにはテーブルと椅子は配置されておりません。"
+        },
+        {
+            "question": "バーベキューを利用する際、チェックイン前に相談が必要ですか？",
+            "answer": "はい、バーベキューを利用する際は、事前にチェックイン前に相談が必要です。"
+        }
+    ],
+    "word_Count": {
+        "text": 129,
+        "QA": 185
+    }
+}

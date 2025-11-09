@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_011445",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "パクモリ 弘大（파쿠모리 홍대）"
+    },
+    "text": "パクモリ 弘大（파쿠모리 홍대）\\n\nソウル特別市 麻浦区 オウルマダン路 132-1\\n\nソウル特別市ホンデイック駅の近くに位置した和食専門店です。代表的なメニューは手作り豚カツです。和風カレー専門店です。",
+    "QA": [
+        {
+            "question": "パクモリ 弘大はどこに位置していますか？",
+            "answer": "パクモリ 弘大はソウル特別市 麻浦区 オウルマダン路 132-1に位置しています。"
+        },
+        {
+            "question": "パクモリ 弘大の代表的なメニューは何ですか？",
+            "answer": "パクモリ 弘大の代表的なメニューは手作り豚カツです。"
+        },
+        {
+            "question": "パクモリ 弘大はどんな種類のレストランですか？",
+            "answer": "パクモリ 弘大は和風カレー専門店です。"
+        }
+    ],
+    "word_Count": {
+        "text": 76,
+        "QA": 110
+    }
+}

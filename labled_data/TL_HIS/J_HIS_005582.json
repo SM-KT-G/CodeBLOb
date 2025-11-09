@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_005582",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=504&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=01710000&ccbaCtcd=37&ccbaCpno=2113701710000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1983-06-20",
+        "domain": "문화/역사관광",
+        "title": "목은영정"
+    },
+    "text": "モク·ウンジョン (목은영정)\\n\n慶尚北道安東市一直面元里山9番地\\n\n慶尚北道有形文化財 , 高麗後期の刺青である首は、イ·セク(1328~1396)先生の肖像画である。 李舜臣は恭愍王1年(1352年)、税金制度の改革、国防計画、教育奨励、仏教抑制など様々な政策について建議文を載せた。 恭譲王1年(1389)、李成桂一派が威化島回軍として勢力を握ると、長短地域に流されたりもした。 その後、イ·ソンゲが彼を朝廷に呼び入れたが、これを断り翌年、麗江地域に向かう途中、人生を終えた。 絵の作家は不明だが、朝鮮前期の大学者だったクォン·グンの賛美文があり、「永楽甲申9月」という記録が一緒にあり、朝鮮太宗4年(1404)以前の作品と推定される。 最初は隠居した後、野人姿の肖像画が別にあったというが、今は伝えられていない。 一方、この肖像画は壬辰倭乱当時に紛失し、日本に行った使臣によって取り戻すことになったという説も一緒に伝えられている。",
+    "QA": [
+        {
+            "question": "この肖像画はどの時代の作品ですか？",
+            "answer": "この肖像画は朝鮮太宗4年(1404)以前の作品と推定されます。"
+        },
+        {
+            "question": "この肖像画はどのように紛失し、取り戻されたのですか？",
+            "answer": "この肖像画は壬辰倭乱当時に紛失し、日本に行った使臣によって取り戻されました。"
+        },
+        {
+            "question": "この肖像画を描いた絵の作家は誰ですか？",
+            "answer": "絵の作家は不明ですが、朝鮮前期の大学者であるクォン・グンの賛美文があります。"
+        },
+        {
+            "question": "この肖像画はどのように使われていましたか？",
+            "answer": "この肖像画は李舜臣の肖像画として使われていました。"
+        },
+        {
+            "question": "この肖像画はどのような政策について建議文を載せていましたか？",
+            "answer": "李舜臣は恭愍王1年(1352年)、税金制度の改革、国防計画、教育奨励、仏教抑制など様々な政策について建議文を載せていました。"
+        }
+    ],
+    "word_Count": {
+        "text": 308,
+        "QA": 225
+    }
+}

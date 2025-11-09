@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_007570",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-06",
+        "domain": "음식점",
+        "title": "シゴルポサム ( 시골보쌈 )"
+    },
+    "text": "シゴルポサム ( 시골보쌈 )\\n\nソウル特別市 瑞草区 パンベチョンロ2ギル25\\n\nカムジャオンシミ(じゃがいもニョッキ)も人気メニューです。代表的なメニューはポサムです。ソウル特別市のソチョ区に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "シゴルポサムはどんな料理ですか？",
+            "answer": "シゴルポサムはソウル特別市のソチョ区に位置した韓食専門店で、代表的なメニューはポサムです。"
+        },
+        {
+            "question": "カムジャオンシミはおいしいですか？",
+            "answer": "カムジャオンシミはじゃがいもニョッキで、人気メニューの一つです。ぜひお試しください。"
+        },
+        {
+            "question": "シゴルポサムの住所はどこですか？",
+            "answer": "シゴルポサムはソウル特別市瑞草区パンベチョンロ2ギル25にあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 82,
+        "QA": 124
+    }
+}

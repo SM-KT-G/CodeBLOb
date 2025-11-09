@@ -1,0 +1,31 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_003294",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/culture/seoul-metropolitan-library",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "ソウル図書館"
+    },
+    "text": "ソウル図書館\\n\nソウル特別市 中区 世宗大路 110\\n\nソウル市に関する資料を豊富に保有する他、歴史、文化、都市計画、交通、環境、行政など、全ての分野に関する資料や海外旅行レポート、研究論文、映像資料、電子情報などを幅広く保有しています。",
+    "QA": [
+        {
+            "question": "ソウル図書館はどのような資料を保有していますか？",
+            "answer": "ソウル図書館はソウル市に関する資料を豊富に保有しています。歴史、文化、都市計画、交通、環境、行政など、全ての分野に関する資料や海外旅行レポート、研究論文、映像資料、電子情報などが幅広く揃っています。"
+        },
+        {
+            "question": "ソウル図書館の場所はどこですか？",
+            "answer": "ソウル図書館はソウル特別市中区世宗大路110にあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 88,
+        "QA": 122
+    }
+}

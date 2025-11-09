@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_107747",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=45&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=01810000&ccbaCtcd=34&ccbaCpno=1123401810000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1963-01-21",
+        "domain": "문화/역사관광",
+        "title": "청양 장곡사 하 대웅전"
+    },
+    "text": "青陽長谷寺下大雄殿\\n\n忠清南道青陽郡大峙面長谷キル241、長谷寺(長谷里)\\n\n朝鮮時代中期、宝物、長谷寺は七甲山にある寺で、新羅時代後期ボチョグクサが建てたという。詳しい沿革は伝えないが、朝鮮時代、正祖1年(1777)して作り直して高宗3年(1866)と1906年、1960年に大きく改築されて今日に至っている。この寺は地形に沿って上下に2つの大雄殿があるユニークな配置をしている。上下大雄殿は入れ違えに配置されたが、ハ、大雄殿は上に大雄殿よりはるかに低いところに東南郷に位置している。ハ、大雄殿は朝鮮中期に建てたのに、前面3間・側面2間の大きさだ。屋根は側面から見ると、人の教わる字形の切妻屋根をしており、屋根の軒を支える装飾区組が柱の上と柱の間にもあるダポ様式である。素朴な切妻屋根に華やかなダポ様式を加味したのは珍しい例である。建物の内側には上に大雄殿がセンをはできのとは違って、床を敷き、仏壇には青陽長谷寺の金銅薬師如来坐像(宝物)を祀っているが、これは、高麗時代後期のことで知られている。",
+    "QA": [
+        {
+            "question": "長谷寺はどの時代に建てられましたか？",
+            "answer": "新羅時代後期、ボチョグクサが建てました。"
+        },
+        {
+            "question": "長谷寺には何宝物が祀られていますか？",
+            "answer": "青陽長谷寺の金銅薬師如来坐像が祀られています。"
+        },
+        {
+            "question": "大雄殿の屋根はどのような形状ですか？",
+            "answer": "切妻屋根で、華やかなダポ様式が加味されています。"
+        },
+        {
+            "question": "長谷寺の位置はどこですか？",
+            "answer": "青陽郡大峙面長谷キル241、長谷寺(長谷里)にあります。"
+        },
+        {
+            "question": "長谷寺の建物内に祀られている仏壇には何が祀られていますか？",
+            "answer": "青陽長谷寺の金銅薬師如来坐像が祀られています。"
+        }
+    ],
+    "word_Count": {
+        "text": 330,
+        "QA": 156
+    }
+}

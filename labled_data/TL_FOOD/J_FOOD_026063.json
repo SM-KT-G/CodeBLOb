@@ -1,0 +1,31 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_026063",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-01",
+        "domain": "음식점",
+        "title": "赤瓦チュクミ ( 홍기와쭈꾸미 )"
+    },
+    "text": "赤瓦チュクミ \n慶尚北道 安東市 江南路 450\n辛い韓国式海鮮炒めを提供しています。 おすすめはイイダコ炒めです。慶尚北道のアンドン市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "赤瓦チュクミはどのような料理を提供していますか？",
+            "answer": "赤瓦チュクミは辛い韓国式海鮮炒めを提供しています。特におすすめはイイダコ炒めです。"
+        },
+        {
+            "question": "赤瓦チュクミはどこに位置していますか？",
+            "answer": "赤瓦チュクミは慶尚北道のアンドン市の江南路450に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 59,
+        "QA": 85
+    }
+}

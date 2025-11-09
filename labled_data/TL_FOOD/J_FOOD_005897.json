@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_005897",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-01",
+        "domain": "음식점",
+        "title": "コドクふぐジプ 松炭 ( 고덕복집 송탄 )"
+    },
+    "text": "コドクふぐジプ 松炭 \n京畿道 平沢市 松一路5ボンキル 54\n様々なふぐ料理を味わえるところです。 代表的なメニューはふぐプルゴギです。京畿道のピョンテク市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "このレストランの場所はどこですか？",
+            "answer": "松炭  京畿道 平沢市 松一路5ボンキル 54にあります。"
+        },
+        {
+            "question": "このレストランは何を提供していますか？",
+            "answer": "様々なふぐ料理を提供しています。代表的なメニューはふぐプルゴギです。"
+        },
+        {
+            "question": "このレストランはどのような雰囲気ですか？",
+            "answer": "京畿道のピョンテク市に位置し、韓食専門店です。"
+        }
+    ],
+    "word_Count": {
+        "text": 67,
+        "QA": 104
+    }
+}

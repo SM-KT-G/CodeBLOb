@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_019592",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-01",
+        "domain": "음식점",
+        "title": "島少年 ( 섬소년 )"
+    },
+    "text": "島少年 \nソウル特別市 麻浦区 ワールドカップ北路6キル 12\n東海岸から直接仕入れた天然の海鮮を使う料理店です。ソウル特別市のマポ区に位置した韓食専門店です。代表的なメニューはスケトウダラの辛味スープです。",
+    "QA": [
+        {
+            "question": "このレストランの場所はどこですか？",
+            "answer": "このレストランはソウル特別市の麻浦区に位置しています。"
+        },
+        {
+            "question": "このレストランの特徴的なメニューは何ですか？",
+            "answer": "このレストランの代表的なメニューはスケトウダラの辛味スープです。"
+        },
+        {
+            "question": "このレストランの海鮮はどこから仕入れていますか？",
+            "answer": "このレストランの海鮮は東海岸から直接仕入れています。"
+        }
+    ],
+    "word_Count": {
+        "text": 76,
+        "QA": 108
+    }
+}

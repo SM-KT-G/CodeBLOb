@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_081702",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=458&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=01080000&ccbaCtcd=31&ccbaCpno=2113101080000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1981-07-16",
+        "domain": "문화/역사관광",
+        "title": "석남사대웅전"
+    },
+    "text": "京畿道有形文化財である石南寺の仏殿は建物の中でも最も中心となる建物だ。石南寺大雄殿は文禄・慶長の役に火に焼けてなくなって1684年に建て直して、1725年に大幅に受理した建物である。別途の石垣はなく、簡単に磨いた自然石の基壇だけ一段を置いて、自然石、週明けと丸い柱を使用して胴体を構成している。屋根は側面が垂直に締め切られる切妻屋根をしている。建物の重さを支えて華やかに引き立たせない恐怖は前後にしての側面には置かなかった。この建物は1725年修理の時の姿を保っている。しかし、何度も部分的な修理が進行され、さまざまな時期の姿がともに現れている。前の恐怖は柱の間に2個を置いて、後ろは1つだけ置いてお互いに違う方式で配置されている。また、前のグィポが八作屋根に使われる手口で45度斜めの方向に不在を組んで入れた姿はこの建物の独特な部分だ。このような姿は、朝鮮後期には従来の建築物を積極的にリサイクルする時代的特性をよく示している。",
+    "QA": [
+        {
+            "question": "寺の仏殿はいつ建て直されましたか？",
+            "answer": "1684年に建て直されました。"
+        },
+        {
+            "question": "仏殿の屋根はどのような形をしていますか？",
+            "answer": "仏殿の屋根は切妻屋根をしています。"
+        },
+        {
+            "question": "仏殿の柱の配置について教えてください。",
+            "answer": "前の恐怖は柱の間に2個を置いて、後ろは1つだけ置いてお互いに違う方式で配置されています。"
+        },
+        {
+            "question": "石南寺大雄殿の特徴的な部分は何ですか？",
+            "answer": "石南寺大雄殿の特徴的な部分は、前のグィポが八作屋根に使われる手口で45度斜めの方向に不在を組んで入れた姿です。"
+        },
+        {
+            "question": "石南寺大雄殿が示している時代的特性は何ですか？",
+            "answer": "石南寺大雄殿が示している時代的特性は、朝鮮後期には従来の建築物を積極的にリサイクルする時代的特性をよく示しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 304,
+        "QA": 210
+    }
+}

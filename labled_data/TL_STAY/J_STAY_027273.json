@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_027273",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42090&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "중문 보우힐리조트"
+    },
+    "text": "中文観光団地内に位置するホテルで、主要観光地である柱状節理帯と中文索達海辺、そして薬泉寺までは車で3分以内に移動できる。 また、このホテルは無料自転車レンタルを提供し、近くに位置するオルレギル8コースを回りながら自由に観光を楽しめる環境を提供する。 特に屋上からは漢拏山と済州の美しい青い海が鑑賞でき、広々とした眺めが楽しめるホテルだ。",
+    "QA": [
+        {
+            "question": "このホテルはどこに位置していますか？",
+            "answer": "このホテルは中文観光団地内に位置しています。"
+        },
+        {
+            "question": "主要観光地である柱状節理帯と中文索達海辺、薬泉寺までの移動手段はありますか？",
+            "answer": "はい、このホテルでは車で3分以内で主要観光地である柱状節理帯と中文索達海辺、薬泉寺に移動することができます。"
+        },
+        {
+            "question": "このホテルではどのようなサービスが提供されていますか？",
+            "answer": "このホテルでは無料自転車レンタルサービスを提供しており、近くに位置するオルレギル8コースを回りながら自由に観光を楽しむことができます。"
+        },
+        {
+            "question": "このホテルの特徴的な眺めはありますか？",
+            "answer": "はい、このホテルの屋上からは漢拏山と済州の美しい青い海を鑑賞することができ、広々とした眺めを楽しむことができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 123,
+        "QA": 221
+    }
+}

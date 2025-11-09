@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_029722",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42061&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "대전 아이호텔(I-HOTEL)"
+    },
+    "text": "儒城区エキスポ科学公園から車から1分の距離に位置する大徳特区ゲストハウスは、周辺に大田コンベンションセンター、ハンバッ樹木園など様々な見どころがあります。 このゲストハウスは、川や山を一望できる複合眺望権とともにジョギングや散歩ができる良い環境を提供しています。",
+    "QA": [
+        {
+            "question": "大徳特区ゲストハウスの周辺にはどんな見どころがありますか？",
+            "answer": "大徳特区ゲストハウスの周辺には大田コンベンションセンターやハンバッ樹木園など様々な見どころがあります。"
+        },
+        {
+            "question": "大徳特区ゲストハウスからどのくらいの距離で儒城区エキスポ科学公園に行けますか？",
+            "answer": "大徳特区ゲストハウスから儒城区エキスポ科学公園までは車で1分の距離です。"
+        },
+        {
+            "question": "大徳特区ゲストハウスの周辺には自然環境が整っていますか？",
+            "answer": "はい、大徳特区ゲストハウスは川や山を一望できる複合眺望権とともにジョギングや散歩ができる良い環境を提供しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 96,
+        "QA": 176
+    }
+}

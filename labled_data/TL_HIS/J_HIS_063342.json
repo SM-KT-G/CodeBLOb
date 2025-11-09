@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_063342",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/collectionList#######",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "마요르카 안내책자"
+    },
+    "text": "マヨルカのパンフレット (마요르카 안내책자)\\n\n速記されたロリータの直筆メモは、ヨーロッパのスペインで書かれたものです。紙は日向の木から作られ、作家はPEDRO FERREN GIBERT氏です。このメモは、文化芸術の一環として、文献や文学、日記や紀行として分類されます。大きさは、横175cm、縦25cm、高さ15cmです。",
+    "QA": [
+        {
+            "question": "この直筆メモは誰が書かれましたか？",
+            "answer": "PEDRO FERREN GIBERT氏が書かれました。"
+        },
+        {
+            "question": "このメモの大きさは何センチですか？",
+            "answer": "横175cm、縦25cm、高さ15cmです。"
+        },
+        {
+            "question": "このメモはどのような分類に属していますか？",
+            "answer": "文化芸術の一環として、文献や文学、日記や紀行として分類されます。"
+        },
+        {
+            "question": "このメモはどのような紙から作られていますか？",
+            "answer": "このメモは日向の木から作られた紙を使用しています。"
+        },
+        {
+            "question": "このメモの起源はどこですか？",
+            "answer": "このメモはヨーロッパのスペインで書かれました。"
+        }
+    ],
+    "word_Count": {
+        "text": 121,
+        "QA": 162
+    }
+}

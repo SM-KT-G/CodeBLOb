@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_019775",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "東部炭火カルビ ( 동부숯불갈비 )"
+    },
+    "text": "東部炭火カルビ ( 동부숯불갈비 )\n慶尚北道 安東市 慶東路 677-10\n上質な韓牛が味わえる店です。慶尚北道のアンドン市に位置した韓食専門店です。おすすめは韓牛カルビです。",
+    "QA": [
+        {
+            "question": "この店の特徴は何ですか？",
+            "answer": "東部炭火カルビは、上質な韓牛を提供することが特徴です。"
+        },
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "東部炭火カルビは慶尚北道安東市慶東路677-10に位置しています。"
+        },
+        {
+            "question": "この店のおすすめは何ですか？",
+            "answer": "東部炭火カルビのおすすめは韓牛カルビです。"
+        }
+    ],
+    "word_Count": {
+        "text": 65,
+        "QA": 88
+    }
+}

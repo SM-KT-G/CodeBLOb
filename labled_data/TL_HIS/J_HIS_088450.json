@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_088450",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/view?relicId=84903",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2023-10-11",
+        "domain": "문화/역사관광",
+        "title": "암키와"
+    },
+    "text": "平瓦 (암키와)\\n\n国籍と時代は韓国の高麗時代です。材質は硬質の土です。分類は主生活の建築部材で、屋根材として使用される平瓦です。現在の長さは32.4cmで、厚さは2.1cm。また、他の2つの材料はそれぞれ長さ33.3cmで厚さ1.7cm、長さ17.8cmで厚さ1.5cmです。最後の材料の全長は19.0cmで厚さは0.8cmです。",
+    "QA": [
+        {
+            "question": "この平瓦の材質は何ですか？",
+            "answer": "この平瓦の材質は硬質の土です。"
+        },
+        {
+            "question": "平瓦はどのように使用されますか？",
+            "answer": "平瓦は屋根材として使用されます。"
+        },
+        {
+            "question": "平瓦の現在の長さは何ですか？",
+            "answer": "平瓦の現在の長さは32.4cmです。"
+        },
+        {
+            "question": "平瓦以外の材料の長さと厚さはそれぞれ何ですか？",
+            "answer": "平瓦以外の材料は、それぞれ長さ33.3cmで厚さ1.7cm、長さ17.8cmで厚さ1.5cmです。最後の材料の全長は19.0cmで厚さは0.8cmです。"
+        }
+    ],
+    "word_Count": {
+        "text": 122,
+        "QA": 140
+    }
+}

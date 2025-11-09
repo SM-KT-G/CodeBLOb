@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_080577",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1257&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=79&ccbaAsno=07440000&ccbaCtcd=11&ccbaCpno=4411107440000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2019-03-11",
+        "domain": "문화/역사관광",
+        "title": "서울 구 공군사관학교 교회"
+    },
+    "text": "1960年代に建築家チェチャンギュによって設計された\"ソウル旧空軍士官学校教会\"は、今はソウル市銅雀区庁で文化・芸術空間(動作アートギャラリーて使われている。この建物は国登録文化財に指定されているが、1985年に空軍士官学校が清州に移転し、ボラメ公園内に造成された。当時の一般的な教会建築とは違う独特な建築技法でデザインされたこの建物は急傾斜でデザインされた屋根形態と垂直性を強調した内部空間を持っている。これを通じてかつて空軍士官学校の歴史を象徴的に示している。",
+    "QA": [
+        {
+            "question": "この建物の設計者は誰ですか？",
+            "answer": "建築家チェ・チャンギュによって設計されました。"
+        },
+        {
+            "question": "この建物はどのような目的で使われていますか？",
+            "answer": "今は文化・芸術空間として使われており、動作アートギャラリーとして利用されています。"
+        },
+        {
+            "question": "この建物は何年代に建てられましたか？",
+            "answer": "1960年代に建てられました。"
+        },
+        {
+            "question": "この建物はどのような形態を持っていますか？",
+            "answer": "急傾斜でデザインされた屋根形態と垂直性を強調した内部空間を持っています。"
+        },
+        {
+            "question": "この建物はどのような歴史的な意義を持っていますか？",
+            "answer": "かつての空軍士官学校の歴史を象徴的に示しており、国登録文化財に指定されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 170,
+        "QA": 187
+    }
+}

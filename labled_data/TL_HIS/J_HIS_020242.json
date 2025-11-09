@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_020242",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=992&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=00400000&ccbaCtcd=38&ccbaCpno=3413800400000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1983-08-06",
+        "domain": "문화/역사관광",
+        "title": "사천 구계서원"
+    },
+    "text": "四川 クゲ・ソウォン (사천 구계서원)\\n\n慶尚南道泗川市泗川邑亀岩里山118番地\\n\n朝鮮時代 , 慶尚南道文化財資料 , 朝鮮明宗(在位1545~1567)の時、学者である亀岩李貞を追慕するために建てた書院だ。 李貞(1512~1571)は中宗31年(1536年)に進士として別試文科に荘園及第し、高い官職をあまねく経験した。 性理学に詳しく、後進養成教育に力を注いだ。 この書院は宣祖39年(1606)に建てられ、光海君3年(1611)祠堂である亀山寺を建てた。 粛宗2年(1676年)に「九渓」という扁額を奈良から受け取り、「九渓」に昇格した。 慶宗3年(1723年)には聖翁金徳咸の位牌が追加で祀られ、高宗5年(1868年)興宣大院君の書院撤廃令で閉鎖されたものを1931年に建て直した。 書院の中には大観台、祠堂、東斎·西斎、内三門、外三門などがあり、毎年3月と9月に祭祀を行っている。",
+    "QA": [
+        {
+            "question": "この書院はいつ建てられましたか？",
+            "answer": "この書院は宣祖39年(1606)に建てられました。"
+        },
+        {
+            "question": "亀岩李貞とはどのような人物ですか？",
+            "answer": "亀岩李貞は朝鮮時代の学者であり、中宗31年(1536年)に進士として荘園及第し、高い官職を経験しました。性理学に詳しく、後進養成教育に力を注いだ人物です。"
+        },
+        {
+            "question": "何のためにこの書院が建てられましたか？",
+            "answer": "この書院は亀岩李貞を追慕するために建てられました。"
+        },
+        {
+            "question": "書院の中にはどのような建物がありますか？",
+            "answer": "書院の中には大観台、祠堂、東斎、西斎、内三門、外三門などがあります。"
+        },
+        {
+            "question": "毎年何月に祭祀が行われますか？",
+            "answer": "毎年3月と9月に祭祀が行われます。"
+        }
+    ],
+    "word_Count": {
+        "text": 293,
+        "QA": 194
+    }
+}

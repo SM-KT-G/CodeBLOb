@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_078868",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=44&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=01770000&ccbaCtcd=11&ccbaCpno=1121101770000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1963-01-21",
+        "domain": "문화/역사관광",
+        "title": "사직단 대문"
+    },
+    "text": "朝鮮時代中期、宝物、社稷壇とは、国と国民生活の安らぎを祈り、豊作を祈願して祭祀を行う場所で、社は地の神を、織は穀物の神を指します。また、国に大変なことがあった時や雨が降らず日照りになった時に儀式を行ったりもしました。この門は社稷壇の正門で太祖3年(1394年)社稷壇を建てる時に一緒に建てましたが、壬辰倭乱の時に燃えてしまいました。その後、粛宗46年(1720年)、強風で傾いたものを建て直したという『朝鮮王朝実録』の記録から、文禄·慶長の役の後に建てられたものと推測されます",
+    "QA": [
+        {
+            "question": "社稷壇は何を祈るための場所ですか？",
+            "answer": "社稷壇は国と国民生活の安らぎを祈り、豊作を祈願するための場所です。"
+        },
+        {
+            "question": "社稷壇の正門は何を象徴していますか？",
+            "answer": "社稷壇の正門は国と国民の安全、豊作を祈るための象徴です。"
+        },
+        {
+            "question": "社稷壇の正門はいつ建てられましたか？",
+            "answer": "太祖3年(1394年)に社稷壇を建てる際に、社稷壇の正門も一緒に建てられました。"
+        },
+        {
+            "question": "社稷壇の正門は何が起きた後に建て直されましたか？",
+            "answer": "壬辰倭乱の後に社稷壇の正門が燃えたため、粛宗46年(1720年)に建て直されました。"
+        },
+        {
+            "question": "社稷壇の正門の建て直しはいつ行われましたか？",
+            "answer": "粛宗46年(1720年)に、壬辰倭乱の後に燃えた社稷壇の正門が建て直されました。"
+        }
+    ],
+    "word_Count": {
+        "text": 174,
+        "QA": 206
+    }
+}

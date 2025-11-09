@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_029895",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/apple-house",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "アップルハウス"
+    },
+    "text": "アップルハウス\\n\nソウル特別市 瑞草区 盤浦洞 978, 2F\\n\n低価格の新党洞式即席トッポッキで有名な「アップルハウス」です。入り口は建物の後ろにあります。食事の時間に行くと30分ぐらい待つことが多いです。",
+    "QA": [
+        {
+            "question": "アップルハウスはどこにありますか？",
+            "answer": "アップルハウスはソウル特別市瑞草区盤浦洞978、2Fにあります。"
+        },
+        {
+            "question": "アップルハウスはどんな料理で有名ですか？",
+            "answer": "アップルハウスは低価格の新党洞式即席トッポッキで有名です。"
+        },
+        {
+            "question": "アップルハウスの入り口はどこですか？",
+            "answer": "アップルハウスの入り口は建物の後ろにあります。"
+        },
+        {
+            "question": "アップルハウスに行くと待ち時間はどれくらいですか？",
+            "answer": "アップルハウスに食事の時間に行くと、30分ぐらい待つことが多いです。"
+        }
+    ],
+    "word_Count": {
+        "text": 77,
+        "QA": 145
+    }
+}

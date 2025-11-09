@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_106483",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=54&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=02880000&ccbaCtcd=31&ccbaCpno=1123102880000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1963-01-21",
+        "domain": "문화/역사관광",
+        "title": "청동 은입사 향완"
+    },
+    "text": "青銅銀入糸香腕\\n\n京畿道儀旺市\\n\n忠穆王2年(1346)、宝物、お寺で儀式を行ったり、仏壇の上に乗せて香を焚くために使用する香炉中で、このように胴体の下、ラッパ型に広がり、円盤型台を持つことを特に香垸(こうかん)とした。青銅銀入糸香垸(靑銅銀入絲香垸)は、高さ28.8センチ、口直径29.1㎝で、本体と台全体の面に銀糸を利用して装飾(銀象嵌)をした。胴体表面は4ヵ所に2本の線に円を作り、その中に梵字を1字ずつ入れ、ウォンジュビョンに花柄を刻んだ。体の下には蓮の花を囲み、、台の上に蓮の葉を巻いた。台に龍文と下には、蔓の模様を刻んだ。それによると、高麗・忠穆王2年(1346)に作っており、もともと金剛山(クムガンサン)容共の使用で製作されたものだったが、韓国戦争の時、南方に持ってきたものと知られている。この香炉は14世紀、銀象嵌香炉のうちの模様が華やかな方だが、胴体に比べて台が弱まった不均衡を成す時代的な特徴をよく表している。",
+    "QA": [
+        {
+            "question": "この香炉の製作年はいつですか？",
+            "answer": "製作年は忠穆王2年(1346)です。"
+        },
+        {
+            "question": "香炉の素材には何が使用されていますか？",
+            "answer": "香炉の素材には青銅と銀が使用されています。"
+        },
+        {
+            "question": "香炉の高さは何センチですか？",
+            "answer": "香炉の高さは28.8センチです。"
+        },
+        {
+            "question": "香炉の表面には何の装飾が施されていますか？",
+            "answer": "香炉の表面には銀象嵌装飾が施されており、梵字や花柄が描かれています。"
+        },
+        {
+            "question": "この香炉はどのお寺で使用されていたものですか？",
+            "answer": "この香炉は金剛山(クムガンサン)容共で使用されていたものです。"
+        },
+        {
+            "question": "戦争の際にこの香炉はどうなりましたか？",
+            "answer": "韓国戦争の時、この香炉は南方に持ってこられたとされています。"
+        }
+    ],
+    "word_Count": {
+        "text": 306,
+        "QA": 191
+    }
+}

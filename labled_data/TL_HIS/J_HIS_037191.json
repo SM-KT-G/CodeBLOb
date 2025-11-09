@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_037191",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=437&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=00800000&ccbaCtcd=35&ccbaCpno=2113500800000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1977-12-31",
+        "domain": "문화/역사관광",
+        "title": "전주부지도"
+    },
+    "text": "全州府地図 (전주부지도)\\n\n全羅北道全州市徳津区百済大路567(錦岩洞、全北大学校)\\n\n全羅北道有形文化財、この地図は全州府城の中を中心に全州府内の全域を描いた大型地図で、4幅の屏風式になっている。 地図には城の表示と城門、そして官衙の配置、郷校、書院、樹木などが描かれており、城の外は山川の地形を昔の方式で描き、各面の名前を書いた。 地図の角には全州府の四方距離と隣の村からの距離を表示しており、全州府内4面の元号3,783号、全州府外各面の元号12,215号など計31面に元号15,998号を正確に明らかにしている。",
+    "QA": [
+        {
+            "question": "この地図はどのような特徴がありますか？",
+            "answer": "この地図は全州府城を中心に全州府内の全域を描いた大型地図で、屏風式になっています。城の表示や城門、官衙の配置、郷校、書院、樹木などが描かれており、城の外は昔の方式で山川の地形が描かれています。地図の角には全州府の四方距離と隣の村からの距離が表示されています。"
+        },
+        {
+            "question": "この地図にはどのような情報が書かれていますか？",
+            "answer": "地図には城の表示や城門、官衙の配置、郷校、書院、樹木などが描かれています。また、地図の角には全州府の四方距離と隣の村からの距離が表示されています。"
+        },
+        {
+            "question": "この地図はどのような形式で描かれていますか？",
+            "answer": "この地図は4幅の屏風式に描かれています。"
+        },
+        {
+            "question": "この地図の番号には何の意味がありますか？",
+            "answer": "地図の番号には元号が使われており、全州府内4面の元号3,783号、全州府外各面の元号12,215号など計31面に元号15,998号が正確に表示されています。"
+        },
+        {
+            "question": "この地図はどの時代のものですか？",
+            "answer": "地図には有形文化財として描かれており、具体的な時代の情報は提供されていません。"
+        }
+    ],
+    "word_Count": {
+        "text": 192,
+        "QA": 321
+    }
+}

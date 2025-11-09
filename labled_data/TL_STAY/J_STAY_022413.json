@@ -1,0 +1,51 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_022413",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42010&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "일산(백석) HOTEL ANTIVES"
+    },
+    "text": "非喫煙室(一部の客室)が運営されており、予約またはチェックイン時にフロントデスクに要請すればご利用いただけます。 スタイラーデラックス、スタンダードBルーム(2階)に装着されており、予約またはチェックイン時にフロントデスクに要請すれば使用できます。 すべての客室が最新のPCに交換されました。 ACEベッドが全客室に適用されており、快適な寝床を提供します。 ネットフリックスを全客室で利用でき、既存の使用環境が改善されました。 Wi-Fiは客室別に個別使用が可能です。 ジェットスパサービスは、お客様の衛生と安全のために中断されました。",
+    "QA": [
+        {
+            "question": "どの客室で喫煙ができますか？",
+            "answer": "一部の客室が喫煙室となっており、予約またはチェックイン時にフロントデスクに要請すれば利用できます。"
+        },
+        {
+            "question": "どの客室にはスタイラーデラックスやスタンダードBルームがありますか？",
+            "answer": "スタイラーデラックスやスタンダードBルームは2階にあります。"
+        },
+        {
+            "question": "どの客室にはPCが装備されていますか？",
+            "answer": "すべての客室に最新のPCが交換されました。"
+        },
+        {
+            "question": "どの客室にACEベッドがありますか？",
+            "answer": "全客室にACEベッドがあり、快適な寝床を提供しています。"
+        },
+        {
+            "question": "どの客室でネットフリックスが利用できますか？",
+            "answer": "全客室でネットフリックスが利用でき、使用環境が改善されました。"
+        },
+        {
+            "question": "どの客室で個別のWi-Fi利用が可能ですか？",
+            "answer": "客室別に個別のWi-Fi利用が可能です。"
+        },
+        {
+            "question": "ジェットスパサービスは利用できますか？",
+            "answer": "ジェットスパサービスはお客様の衛生と安全のために中断されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 196,
+        "QA": 264
+    }
+}

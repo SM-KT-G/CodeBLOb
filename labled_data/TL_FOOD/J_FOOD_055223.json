@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_055223",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/chataigne",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "シャテーニュ"
+    },
+    "text": "シャテーニュ\\n\nソウル特別市 鍾路区 三清路5キル 19 )\\n\n伝統韓屋で楽しむフランス料理レストランです。フレンチをベースにし韓国の食材料を使ったコース料理が人気です。",
+    "QA": [
+        {
+            "question": "このレストランはどこにありますか？",
+            "answer": "このレストランはソウル特別市鍾路区三清路5キル19にあります。"
+        },
+        {
+            "question": "このレストランではどのような料理が提供されていますか？",
+            "answer": "このレストランではフレンチをベースにした韓国の食材を使ったコース料理が提供されています。"
+        },
+        {
+            "question": "このレストランは何が人気ですか？",
+            "answer": "このレストランで人気のある料理はコース料理です。"
+        }
+    ],
+    "word_Count": {
+        "text": 63,
+        "QA": 116
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_029103",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-05",
+        "domain": "음식점",
+        "title": "韓牛ランテジラン ( 한우랑돼지랑 )"
+    },
+    "text": "韓牛ランテジラン ( 한우랑돼지랑 )\\n\n江原道 ガンヌン市 ハスルラロ127\\n\n韓国式BBQが味わえる店です。おすすめはロースです。江原道のガンヌン市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "このレストランの場所はどこですか？",
+            "answer": "韓牛ランテジランは江原道ガンヌン市のハスルラロ127に位置しています。"
+        },
+        {
+            "question": "このレストランの特徴は何ですか？",
+            "answer": "韓牛ランテジランは韓国式BBQが味わえる専門店で、おすすめはロースです。"
+        },
+        {
+            "question": "このレストランのおすすめのメニューは何ですか？",
+            "answer": "韓牛ランテジランのおすすめメニューはロースです。"
+        },
+        {
+            "question": "このレストランは何を提供していますか？",
+            "answer": "韓牛ランテジランは韓国式BBQを提供しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 66,
+        "QA": 142
+    }
+}

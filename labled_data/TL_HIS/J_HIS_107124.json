@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_107124",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/view?relicId=213022",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2023-10-11",
+        "domain": "문화/역사관광",
+        "title": "청백자 은구 잔"
+    },
+    "text": "青白銀球杯 (청백자 은구 잔)\\n\n中国の元時代の陶磁器であるウォンは、青白磁という素材で作られています。このウォンは食生活や飲み物に関するもので、特に杯として使用されています。その大きさは高さ35cm、着丈9cm、底径29cmです。",
+    "QA": [
+        {
+            "question": "青白銀球杯は何時代の陶磁器ですか？",
+            "answer": "元時代の陶磁器である"
+        },
+        {
+            "question": "青白銀球杯はどんな素材で作られていますか？",
+            "answer": "青白磁という素材で作られています"
+        },
+        {
+            "question": "青白銀球杯は何に使用されていますか？",
+            "answer": "食生活や飲み物に関するものとして使用されています"
+        },
+        {
+            "question": "青白銀球杯の大きさはどれくらいですか？",
+            "answer": "高さ35cm、着丈9cm、底径29cmです"
+        },
+        {
+            "question": "青白銀球杯はどのように使用されていますか？",
+            "answer": "特に杯として使用されています"
+        }
+    ],
+    "word_Count": {
+        "text": 86,
+        "QA": 132
+    }
+}

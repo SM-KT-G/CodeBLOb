@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001540",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/cafe-coin",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "cafe coin １号店"
+    },
+    "text": "cafe coin １号店\\n\nソウル市 中区 明洞2街 54-20 sadaビル 2階\\n\n古風な雰囲気のカフェで、たっぷりのかき氷が有名なところで、濃い緑茶アイスクリームを3スクープのせてくれます。 ワッフルやコーヒーを楽しむのにも良いです。",
+    "QA": [
+        {
+            "question": "このカフェの名前は何ですか？",
+            "answer": "カフェコイン１号店です。"
+        },
+        {
+            "question": "このカフェの場所はどこですか？",
+            "answer": "ソウル市中区明洞2街54-20 sadaビル2階にあります。"
+        },
+        {
+            "question": "このカフェの雰囲気はどんな感じですか？",
+            "answer": "古風な雰囲気のカフェです。"
+        },
+        {
+            "question": "このカフェで有名なメニューは何ですか？",
+            "answer": "たっぷりのかき氷が有名で、濃い緑茶アイスクリームを3スクープのせてくれます。"
+        },
+        {
+            "question": "このカフェで他に楽しめるものはありますか？",
+            "answer": "ワッフルやコーヒーも楽しむことができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 90,
+        "QA": 148
+    }
+}

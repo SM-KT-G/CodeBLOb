@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_006937",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1049&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=01220000&ccbaCtcd=38&ccbaCpno=3413801220000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1985-01-23",
+        "domain": "문화/역사관광",
+        "title": "거창 동호리 이씨고가"
+    },
+    "text": "居昌東湖里イ氏の古家 (거창 동호리 이씨고가)\\n\n慶尚南道居昌郡熊陽面東湖1ギル217(東湖里)\\n\n1830 , 慶尚南道文化財資料 , 朝鮮純祖10年(1810)、イ·ジンアクが建てた家で、祖父のイ·ジユの号を取って東湖斎と言った。 建物は大門屋、サランチェ、中門屋、母屋、蔵屋、馬小屋などで構成されている。 母屋は前面5間半·側面2間規模であり、構造は台所1間·奥の間1間·大庁2間·向い部屋1間·半分幅の床で構成されている。 部屋と板の間の前面に半分幅の開放された縁側が置かれており、後ろには半分幅の押入れと縁側が付いている。 サランチェは前面3間·裏面3間規模で前面3間は開放された床を置き、裏面3間は部屋を入れた。 真ん中の部屋を前面に若干突出させ、前面の床が真ん中の1間だけ半間幅の大きさだ。 一定の格式に縛られず、実生活に合わせて建てた家で、南部地方の民家の特徴をよく表している。",
+    "QA": [
+        {
+            "question": "この古家は何年に建てられましたか？",
+            "answer": "朝鮮純祖10年(1810)、イ·ジンアクが建てました。"
+        },
+        {
+            "question": "この古家はどのような構造で構成されていますか？",
+            "answer": "大門屋、サランチェ、中門屋、母屋、蔵屋、馬小屋などで構成されています。"
+        },
+        {
+            "question": "母屋の特徴は何ですか？",
+            "answer": "前面5間半・側面2間規模であり、台所1間・奥の間1間・大庁2間・向い部屋1間・半分幅の床があります。"
+        },
+        {
+            "question": "サランチェの特徴は何ですか？",
+            "answer": "前面3間・裏面3間で、前面3間は開放された床、裏面3間は部屋を入れています。"
+        },
+        {
+            "question": "この古家はどのような特徴を持っていますか？",
+            "answer": "一定の格式に縛られず、実生活に合わせて建てられた家で、南部地方の民家の特徴をよく表しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 293,
+        "QA": 207
+    }
+}

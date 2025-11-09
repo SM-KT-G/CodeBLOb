@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_003223",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "ウリジプ食肉食堂 ( 우리집식육식당 )"
+    },
+    "text": "ウリジプ食肉食堂 ( 우리집식육식당 )\n全羅南道 モクポ市 オクアムロ46ボンギル31\n様々な韓国式BBQが味わえる店です。代表的なメニューは牛刺しです。全羅南道のモクポ市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "ウリジプ食肉食堂はどこにありますか？",
+            "answer": "ウリジプ食肉食堂は全羅南道のモクポ市に位置しています。"
+        },
+        {
+            "question": "ウリジプ食肉食堂の代表的なメニューは何ですか？",
+            "answer": "ウリジプ食肉食堂の代表的なメニューは牛刺しです。"
+        },
+        {
+            "question": "ウリジプ食肉食堂ではどんな韓国式BBQが楽しめますか？",
+            "answer": "ウリジプ食肉食堂では様々な韓国式BBQが楽しめます。"
+        }
+    ],
+    "word_Count": {
+        "text": 73,
+        "QA": 106
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_000969",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-02-24",
+        "domain": "문화/역사관광",
+        "title": "EXCO（엑스코）"
+    },
+    "text": "EXCO（엑스코）\\n\n大邱広域市 北区 エクスコ路10 （山格洞）\\n\nEXCOは2001年4月に開館した国際規模の先端展示・コンベンションセンターです。これまで国際青年会議所アジア太平洋大会（JCI　ASPAC）、大邱国際光学展（DIOPS）、大邱国際繊維展（PID）、国際情報ディスプレイ学術大会および展示会（IMID）など、大型国際行事を開催してきました。また、2003年夏季ユニバーシアード大会の際にはメインプレスセンター（MPC）と国際放送センター（IBC）に指定され、大会開催に大きく貢献しました。",
+    "QA": [
+        {
+            "question": "EXCOはいつ開館しましたか？",
+            "answer": "EXCOは2001年4月に開館しました。"
+        },
+        {
+            "question": "EXCOはどの区に位置していますか？",
+            "answer": "EXCOは大邱広域市北区に位置しています。"
+        },
+        {
+            "question": "EXCOはどのような施設ですか？",
+            "answer": "EXCOは国際規模の先端展示・コンベンションセンターです。"
+        },
+        {
+            "question": "EXCOはこれまでどのような国際行事を開催してきましたか？",
+            "answer": "EXCOはこれまで国際青年会議所アジア太平洋大会、大邱国際光学展、大邱国際繊維展、国際情報ディスプレイ学術大会および展示会など、大型国際行事を開催してきました。"
+        },
+        {
+            "question": "EXCOは2003年夏季ユニバーシアード大会にどのように貢献しましたか？",
+            "answer": "EXCOはメインプレスセンター（MPC）と国際放送センター（IBC）に指定され、大会開催に大きく貢献しました。"
+        }
+    ],
+    "word_Count": {
+        "text": 187,
+        "QA": 233
+    }
+}

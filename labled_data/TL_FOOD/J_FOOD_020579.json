@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_020579",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/maehwa-banjum",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "梅花飯店"
+    },
+    "text": "梅花飯店\\n\nソウル 広津区 紫陽4洞 4-11\\n\n中国料理専門店「梅花飯店」です。 酢豚や羊肉串焼きで有名で話題になって夕食時間には行列ができます。 ここのメイン料理である羊肉串焼きは自分で焼いて食べることではなく、焼いて出てくるためにやわらかい最上の状態の味を味わえます。 また、人気メニューの一つである茄子の天ぷらは食感がよくて人気です。",
+    "QA": [
+        {
+            "question": "この梅花飯店はどこにありますか？",
+            "answer": "梅花飯店はソウル広津区紫陽4洞4-11にあります。"
+        },
+        {
+            "question": "梅花飯店の特徴的な料理は何ですか？",
+            "answer": "梅花飯店の特徴的な料理は酢豚や羊肉串焼きです。"
+        },
+        {
+            "question": "羊肉串焼きはどのように提供されますか？",
+            "answer": "羊肉串焼きは自分で焼くのではなく、焼いて出てきます。"
+        },
+        {
+            "question": "茄子の天ぷらはどのような食感ですか？",
+            "answer": "茄子の天ぷらは食感がよくて人気です。"
+        }
+    ],
+    "word_Count": {
+        "text": 126,
+        "QA": 118
+    }
+}

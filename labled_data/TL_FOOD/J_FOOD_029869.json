@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_029869",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/cafe-midam",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "カフェ美淡"
+    },
+    "text": "カフェ美淡\\n\n江原道 ガンヌン市 ナムブロ17ボンギル8\\n\n様々な種類のコーヒーやデザートが味わえる店です。江原道のガンヌン市に位置したカフェ（コーヒーショップ）です。おすすめはアメリカーノです。",
+    "QA": [
+        {
+            "question": "カフェ美淡はどこに位置していますか？",
+            "answer": "カフェ美淡は江原道のガンヌン市に位置しています。"
+        },
+        {
+            "question": "カフェ美淡では何が味わえますか？",
+            "answer": "カフェ美淡では様々な種類のコーヒーやデザートが味わえます。特におすすめはアメリカーノです。"
+        },
+        {
+            "question": "カフェ美淡の住所は何ですか？",
+            "answer": "カフェ美淡の住所は江原道 ガンヌン市 ナムブロ17ボンギル8です。"
+        }
+    ],
+    "word_Count": {
+        "text": 73,
+        "QA": 110
+    }
+}

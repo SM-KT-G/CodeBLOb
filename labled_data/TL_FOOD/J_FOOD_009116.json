@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_009116",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2020-12-08",
+        "domain": "음식점",
+        "title": "ソダム村安東店( 소담촌안동점 )"
+    },
+    "text": "ソダム村安東店( 소담촌안동점 )\\n\n慶尚北道 アンドン市 オクドン2ギル41-18\\n\n温かいスープが食べたい時におすすめの店です。代表的なメニューはしゃぶしゃぶです。慶尚北道のアンドン市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "この店の名前は何ですか？",
+            "answer": "ソダム村安東店( 소담촌안동점 )です。"
+        },
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "慶尚北道 アンドン市 オクドン2ギル41-18に位置しています。"
+        },
+        {
+            "question": "この店の特徴的な料理は何ですか？",
+            "answer": "しゃぶしゃぶが代表的なメニューです。"
+        },
+        {
+            "question": "この店はどのような店ですか？",
+            "answer": "韓食専門店で、温かいスープが食べたい時におすすめです。"
+        },
+        {
+            "question": "この店はどのような場所に位置していますか？",
+            "answer": "慶尚北道のアンドン市に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 79,
+        "QA": 140
+    }
+}

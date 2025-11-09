@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_009740",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2020-12-04",
+        "domain": "음식점",
+        "title": "チェソンダンしゃぶしゃぶ 平沢古徳( 채선당샤브샤브 평택고덕 )"
+    },
+    "text": "チェソンダンしゃぶしゃぶ 平沢古徳( 채선당샤브샤브 평택고덕 )\\n\n京畿道 平沢市 京畿大路 987-1\\n\n温かいスープと新鮮な野菜と海鮮が味わえる店です。 おすすめはしゃぶしゃぶです。京畿道のピョンテク市に位置したしゃぶしゃぶ専門店です。",
+    "QA": [
+        {
+            "question": "このチェソンダンしゃぶしゃぶ 平沢古徳はどこに位置していますか？",
+            "answer": "この店は京畿道 平沢市 京畿大路 987-1に位置しています。"
+        },
+        {
+            "question": "チェソンダンしゃぶしゃぶ 平沢古徳ではどのような料理が楽しめますか？",
+            "answer": "おすすめはしゃぶしゃぶです。温かいスープと新鮮な野菜と海鮮が味わえます。"
+        },
+        {
+            "question": "この店はどのような特徴がありますか？",
+            "answer": "この店はしゃぶしゃぶ専門店で、温かいスープと新鮮な野菜と海鮮を提供しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 90,
+        "QA": 139
+    }
+}

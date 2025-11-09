@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_052695",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2020-12-28",
+        "domain": "숙박",
+        "title": "다온민박"
+    },
+    "text": "良田民宿は安東河回村内に川辺と近いところに位置しており、静かで風情のある新築伝統のわらぶきの家だ。室内にはクーラーや木材の押し入れ、シャワー室などすべての便宜施設を備えている。",
+    "QA": [
+        {
+            "question": "良田民宿はどこに位置していますか？",
+            "answer": "良田民宿は安東河回村内に位置しています。"
+        },
+        {
+            "question": "良田民宿の特徴は何ですか？",
+            "answer": "良田民宿は静かで風情のある新築伝統のわらぶきの家です。"
+        },
+        {
+            "question": "良田民宿の室内にはどのような設備がありますか？",
+            "answer": "良田民宿の室内にはクーラーや木材の押し入れ、シャワー室などすべての便宜施設が備えられています。"
+        }
+    ],
+    "word_Count": {
+        "text": 64,
+        "QA": 107
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_014674",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-05",
+        "domain": "음식점",
+        "title": "モルタマグロ ( 몰타참치 )"
+    },
+    "text": "モルタマグロ ( 몰타참치 )\\n\nソウル特別市 江南区 サムソンロ85ギル26\\n\n様々な部位のマグロの刺身を提供している店です。おすすめはマグロの刺身です。ソウル特別市のガンナム区に位置した和食専門店です。",
+    "QA": [
+        {
+            "question": "モルタマグロはどこに位置していますか？",
+            "answer": "モルタマグロはソウル特別市江南区サムソンロ85ギル26に位置しています。"
+        },
+        {
+            "question": "モルタマグロではどのような料理が提供されていますか？",
+            "answer": "モルタマグロでは様々な部位のマグロの刺身が提供されています。特におすすめはマグロの刺身です。"
+        },
+        {
+            "question": "モルタマグロは和食専門店ですか？",
+            "answer": "はい、モルタマグロは和食専門店です。"
+        },
+        {
+            "question": "モルタマグロのお店はどのくらいの広さですか？",
+            "answer": "モルタマグロのお店の広さはわかりませんが、ソウル特別市のガンナム区に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 77,
+        "QA": 165
+    }
+}

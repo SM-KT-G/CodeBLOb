@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_004730",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2022-11-28",
+        "domain": "문화/역사관광",
+        "title": "헬로, 메리크리스마루 「CHRISTMAS MARKET」"
+    },
+    "text": "ハロー、メリクリスマール「CHRISTMAS MARKET」 (헬로, 메리크리스마루 「CHRISTMAS MARKET」)\\n\nソウル特別市麻浦区弘益路18\\n\nKB青春マルと小商工人がコラボしたクリスマスイベントでは、たくさんのクリスマスアイテムが取り揃えられています。だけでなく、暖かい年末の雰囲気を味わえるルミナリエの展示や、さまざまなイベントも開催されています。",
+    "QA": [
+        {
+            "question": "イベントの場所はどこですか？",
+            "answer": "ソウル特別市麻浦区弘益路18です。"
+        },
+        {
+            "question": "このイベントはどんなクリスマスアイテムがありますか？",
+            "answer": "たくさんのクリスマスアイテムが取り揃えられています。"
+        },
+        {
+            "question": "他に何が楽しめますか？",
+            "answer": "暖かい年末の雰囲気を味わえるルミナリエの展示や、さまざまなイベントも開催されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 137,
+        "QA": 100
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_013862",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2020-12-29",
+        "domain": "음식점",
+        "title": "マッチャンドルワンソグムグイ 海雲台( 맛찬들왕소금구이 해운대 )"
+    },
+    "text": "マッチャンドルワンソグムグイ 海雲台( 맛찬들왕소금구이 해운대 )\\n\n釜山広域市 海雲台区 ヘウンデロ608ボンギル46\\n\n14日間熟成した最高の熟成肉が味わえます。釜山広域市のヘウンデ区に位置した韓食専門店です。おすすめはサムギョプサルです。",
+    "QA": [
+        {
+            "question": "このレストランの場所はどこですか？",
+            "answer": "このレストランは釜山広域市海雲台区のヘウンデロ608ボンギル46に位置しています。"
+        },
+        {
+            "question": "このレストランでは何がおすすめですか？",
+            "answer": "このレストランでは、14日間熟成した最高の熟成肉が味わえます。特におすすめはサムギョプサルです。"
+        },
+        {
+            "question": "このレストランの特徴は何ですか？",
+            "answer": "このレストランは韓食専門店であり、最高の熟成肉を提供しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 91,
+        "QA": 126
+    }
+}

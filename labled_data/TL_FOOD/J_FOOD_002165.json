@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_002165",
+        "source": "도서",
+        "writer": "박정배",
+        "ISBN_ISNN": "978-89-9882-225-5",
+        "version": "초판",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "푸드 인 더 시티",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2016-09-29",
+        "domain": "음식점",
+        "title": "UFO Pound"
+    },
+    "text": "UFO.Pound(ユーエフオーポンド)は、WA4B星でおいしいパウンドケーキを探し回ったワビーが披露するパウンドケーキ専門店です。 営業時間は毎日12:00~21:00で、主なメニューとしてはWA4Bキングダムが3,800ウォン、WA4Bアインシュペナーが6,000ウォンで販売されています。",
+    "QA": [
+        {
+            "question": "UFO.Pound(ユーエフオーポンド)はどこで営業していますか？",
+            "answer": "UFO.Pound(ユーエフオーポンド)はWA4B星で営業しています。"
+        },
+        {
+            "question": "UFO.Pound(ユーエフオーポンド)の営業時間は何時から何時までですか？",
+            "answer": "UFO.Pound(ユーエフオーポンド)の営業時間は毎日12:00~21:00です。"
+        },
+        {
+            "question": "UFO.Pound(ユーエフオーポンド)で販売されているメニューはどのようなものがありますか？",
+            "answer": "UFO.Pound(ユーエフオーポンド)では、WA4Bキングダムが3,800ウォン、WA4Bアインシュペナーが6,000ウォンで販売されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 107,
+        "QA": 196
+    }
+}

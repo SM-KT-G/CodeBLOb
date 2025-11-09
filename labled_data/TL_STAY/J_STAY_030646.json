@@ -1,0 +1,55 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_030646",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42050&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "전주 스테이리봄"
+    },
+    "text": "こんにちは~ステイリボムは4つの魅力で構成されています。 ステイリボムは1号~4号店で、雰囲気とフォトゾーンが多彩に構成されています。 ここでは余裕のある一日を楽しむことができます。 そして、一緒にお知らせするお知らせがあります。 22時以降に入室される場合は、予めペンションにご連絡ください。 それでは、ステイリーボムで素敵な一日を過ごしてみてはいかがでしょうか。",
+    "QA": [
+        {
+            "question": "ステイリボムは何店舗ありますか？",
+            "answer": "ステイリボムは1号~4号店まであります。"
+        },
+        {
+            "question": "ステイリボムの魅力は何ですか？",
+            "answer": "ステイリボムの魅力は4つあります。"
+        },
+        {
+            "question": "ステイリボムの雰囲気はどんな感じですか？",
+            "answer": "ステイリボムの雰囲気は多彩です。"
+        },
+        {
+            "question": "ステイリボムのフォトゾーンはありますか？",
+            "answer": "ステイリボムにはフォトゾーンがあります。"
+        },
+        {
+            "question": "22時以降に入室する場合はどうすればいいですか？",
+            "answer": "22時以降に入室する場合は、予めペンションにご連絡ください。"
+        },
+        {
+            "question": "ステイリボムで一日を過ごすことができますか？",
+            "answer": "はい、ステイリボムで余裕のある一日を過ごすことができます。"
+        },
+        {
+            "question": "ステイリボムに関するお知らせはありますか？",
+            "answer": "お知らせがあります。"
+        },
+        {
+            "question": "ステイリボムで素敵な一日を過ごすための提案はありますか？",
+            "answer": "ステイリボムで素敵な一日を過ごすためには、楽しむことをおすすめします。"
+        }
+    ],
+    "word_Count": {
+        "text": 134,
+        "QA": 251
+    }
+}

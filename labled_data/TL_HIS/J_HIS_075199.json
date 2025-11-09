@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_075199",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/view?relicId=121295",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2023-10-11",
+        "domain": "문화/역사관광",
+        "title": "분청사기 접시 조각"
+    },
+    "text": "粉青沙器皿片(분청사기 접시 조각)\\n\n国籍/時代：韓国-朝鮮 材質：陶磁器 - 粉青 分類：食生活 - 食器 - 皿 大きさ：高さ4.2cm、底径5.6cm（現在高さ2.4cm、現在幅63cm） 修正例： この陶磁器の皿は、韓国-朝鮮の粉青で作られています。食器の分類では、食生活において使われる皿に分類されます。サイズは高さ4.2cm、底径5.6cmで、現在のサイズは高さ2.4cm、幅6.3cmです。",
+    "QA": [
+        {
+            "question": "この陶磁器の皿はどこの国のものですか？",
+            "answer": "韓国-朝鮮の粉青で作られています。"
+        },
+        {
+            "question": "この皿は何に使われていますか？",
+            "answer": "食器の分類では、食生活において使われます。"
+        },
+        {
+            "question": "この陶磁器の皿のサイズはどのくらいですか？",
+            "answer": "サイズは高さ4.2cm、底径5.6cmで、現在のサイズは高さ2.4cm、幅6.3cmです。"
+        }
+    ],
+    "word_Count": {
+        "text": 149,
+        "QA": 101
+    }
+}

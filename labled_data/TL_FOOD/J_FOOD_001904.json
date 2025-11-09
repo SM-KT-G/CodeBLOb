@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001904",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/mothers-office",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "Mother\"s Office"
+    },
+    "text": "Mother\"s Office\\n\nソウル特別市 龍山区 緑莎坪大路46キル 5（梨泰院洞） )\\n\n清潭洞にあるヨーロッパテイストのおしゃれな手作りハンバーガー店です。オーストラリア産ビーフパティと毎日焼かれるチャバッタ、良い材料や種類が豊富なソースで作られるハンバーガーは大人気です。",
+    "QA": [
+        {
+            "question": "お店の場所はどこですか？",
+            "answer": "ソウル特別市 龍山区 緑莎坪大路46キル 5（梨泰院洞）にあります。"
+        },
+        {
+            "question": "お店の雰囲気はどのような感じですか？",
+            "answer": "ヨーロッパテイストでおしゃれな雰囲気です。"
+        },
+        {
+            "question": "ハンバーガーの材料はどのように作られていますか？",
+            "answer": "オーストラリア産ビーフパティと毎日焼かれるチャバッタ、良い材料や種類が豊富なソースで作られています。"
+        },
+        {
+            "question": "このハンバーガー店は人気ですか？",
+            "answer": "はい、とても人気のあるお店です。"
+        }
+    ],
+    "word_Count": {
+        "text": 105,
+        "QA": 140
+    }
+}

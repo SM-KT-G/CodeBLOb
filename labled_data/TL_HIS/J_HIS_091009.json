@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_091009",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1018&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=00720000&ccbaCtcd=32&ccbaCpno=3413200720000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1985-01-17",
+        "domain": "문화/역사관광",
+        "title": "영월 창원리 고택"
+    },
+    "text": "寧越昌原里古宅\\n\n江原道寧越郡南面ウォンゴルキル170-9(昌原1里)\\n\n江原道特別自治道文化財資料、山を背にして位置するこの家は母屋とサランチェが隣接してコの字型構造をなしており、一字型納屋軒が配置され、全体ではㅁジャ型配置を帯びている。母屋は縁側を設置した板の間を中心に、右にウッバン・ホーム・台所を直角に配置した。左側には部屋が接して鉤型をなしているが、これは嶺西(ヨンソ)・中部地方の民家の形式をとっている。サランチェの屋根は側面から見ると、八(八部)の字の形をした入母屋屋根として高く、軽快な構成を見せている。",
+    "QA": [
+        {
+            "question": "この家はどのような形をしていますか？",
+            "answer": "この家はコ字型構造をなしており、一字型納屋軒が配置され、全体ではㅁジャ型配置を帯びています。"
+        },
+        {
+            "question": "母屋の中心には何が配置されていますか？",
+            "answer": "母屋の中心には縁側を設置した板の間を中心に、右にウッバン・ホーム・台所を直角に配置しています。"
+        },
+        {
+            "question": "サランチェの屋根はどのような形をしていますか？",
+            "answer": "サランチェの屋根は側面から見ると、八(八部)の字の形をした入母屋屋根として高く、軽快な構成をしています。"
+        },
+        {
+            "question": "この家はどの地方の民家の形式を取っていますか？",
+            "answer": "この家は嶺西(ヨンソ)・中部地方の民家の形式を取っています。"
+        }
+    ],
+    "word_Count": {
+        "text": 192,
+        "QA": 189
+    }
+}

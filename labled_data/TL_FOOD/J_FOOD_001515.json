@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001515",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-11-12",
+        "domain": "음식점",
+        "title": "Buona Sera（보나세라）"
+    },
+    "text": "Buona Sera（보나세라）\\n\nソウル特別市 江南区 島山大路45キル18-2\\n\n「Buona Sera（ボナセーラ）」は正統派イタリアンレストランで、イタリアの文化やファッション、芸術、音楽などに出合える新しい概念のウェルビーイングレストランです。イタリア現地最高の料理やレストラン、ブランドコンサルティング専門家によって誕生したボナセーラは、韓国最高のイタリア料理専門家が揃っており、本場のイタリア料理を味わうことができる場所です。",
+    "QA": [
+        {
+            "question": "Buona Seraはどのようなイタリアンレストランですか？",
+            "answer": "Buona Sera（ボナセーラ）は正統派イタリアンレストランで、イタリアの文化やファッション、芸術、音楽などに出合える新しい概念のウェルビーイングレストランです。"
+        },
+        {
+            "question": "Buona Seraの場所はどこですか？",
+            "answer": "Buona Sera（ボナセーラ）はソウル特別市江南区島山大路45キル18-2に位置しています。"
+        },
+        {
+            "question": "Buona Seraの料理はどのようなものがありますか？",
+            "answer": "Buona Seraでは本場のイタリア料理を味わうことができます。イタリアの料理専門家が揃っており、最高の料理を提供しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 162,
+        "QA": 199
+    }
+}

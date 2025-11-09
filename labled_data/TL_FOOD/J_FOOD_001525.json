@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001525",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-11-12",
+        "domain": "음식점",
+        "title": "CA’ DEL LUPO（까델루뽀）"
+    },
+    "text": "CA’ DEL LUPO（까델루뽀）\\n\nソウル特別市 鐘路区 紫霞門路16キル 5-5\\n\nCA\" DEL LUPO（カデルルーポ）はソウル特別市鐘路区（チョンノグ）孝子洞（ヒョジャドン）のイタリアンレストランです。CA\" DEL LUPOはイタリアンレストランですが店舗は韓屋で、人々の固定観念を破るように洋の東西が融合しており、東洋の温かさと西洋のスタイリッシュな雰囲気を兼ね備えています。",
+    "QA": [
+        {
+            "question": "カデルルーポはどこにありますか？",
+            "answer": "カデルルーポはソウル特別市鐘路区孝子洞にあります。"
+        },
+        {
+            "question": "カデルルーポは何のレストランですか？",
+            "answer": "カデルルーポはイタリアンレストランです。"
+        },
+        {
+            "question": "カデルルーポの店舗はどのような雰囲気ですか？",
+            "answer": "カデルルーポの店舗は韓屋で、東洋の温かさと西洋のスタイリッシュな雰囲気が融合しています。"
+        },
+        {
+            "question": "カデルルーポの特徴は何ですか？",
+            "answer": "カデルルーポは東洋と西洋が融合した雰囲気を持つイタリアンレストランです。"
+        }
+    ],
+    "word_Count": {
+        "text": 145,
+        "QA": 143
+    }
+}

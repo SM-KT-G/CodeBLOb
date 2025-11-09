@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_082477",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ja",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2023-08-09",
+        "domain": "문화/역사관광",
+        "title": "설봉산 일대의 산책과 미술관 관람"
+    },
+    "text": "ナート幕下て風情のある登山コースであるソンボンサンを一回りして来ると、静かな、張遇聖(チャン・ウソン)の美術館を観覧することができる。静かで静かな中で東洋画を鑑賞したり、おいしい利川米の白ご飯で食事をした後、きれいに造成されている雪峯公園で、午後一時を楽しむのは極めて適したコース旅行になりそうだ。...",
+    "QA": [
+        {
+            "question": "ソンボンサンコースの始まりはどこですか？",
+            "answer": "ソンボンサンコースはどこから始まりますか？"
+        },
+        {
+            "question": "美術館の中で何を見ることができますか？",
+            "answer": "美術館の中で何を鑑賞することができますか？"
+        },
+        {
+            "question": "利川米の白ご飯は何味ですか？",
+            "answer": "利川米の白ご飯はどんな味ですか？"
+        },
+        {
+            "question": "雪峯公園で何を楽しむことができますか？",
+            "answer": "雪峯公園で何を楽しむことができますか？"
+        }
+    ],
+    "word_Count": {
+        "text": 111,
+        "QA": 109
+    }
+}

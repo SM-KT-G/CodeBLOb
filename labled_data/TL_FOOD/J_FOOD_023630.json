@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_023630",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-05",
+        "domain": "음식점",
+        "title": "淳昌クッパ ( 순창국밥 )"
+    },
+    "text": "淳昌クッパ ( 순창국밥 )\\n\n全羅南道 順天市 ソクヒョンギル67\\n\nスンデスープは豚肉で作った韓国ソーセージのスンデを煮込んだ、韓国伝統のスープ料理です。全羅南道のスンチョン市に位置した韓食専門店です。代表的なメニューはスンデクッパです。",
+    "QA": [
+        {
+            "question": "淳昌クッパの場所はどこですか？",
+            "answer": "淳昌クッパは韓国の全羅南道順天市のソクヒョンギル67に位置しています。"
+        },
+        {
+            "question": "スンデスープはどのように作られますか？",
+            "answer": "スンデスープは豚肉で作った韓国ソーセージのスンデを煮込んで作られる、韓国伝統のスープ料理です。"
+        },
+        {
+            "question": "淳昌クッパの代表的なメニューは何ですか？",
+            "answer": "淳昌クッパの代表的なメニューはスンデクッパです。"
+        }
+    ],
+    "word_Count": {
+        "text": 90,
+        "QA": 117
+    }
+}

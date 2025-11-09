@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_SHOP_028244",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.ssfshop.com/ADER-ERROR/GM0022090718646/good",
+        "collectedDate": "2023-11-13",
+        "publishedDate": "2020-01-01",
+        "domain": "쇼핑",
+        "title": "(MEN) HAT - BLACK"
+    },
+    "text": "2018年に設立された韓国ブランドのADERERRORは、様々な背景と文化を持つ人々が集まり、差別化されたコンテンツを制作するために設立されました。 ブランドのメッセージと価値観を個人の声で伝えないために、創設者とクリエイティブ ディレクターは秘密にされています。 ADER ERRORは、常に新しいことを追求し、経験することを好む人々が集まって作ったブランドです。 メーカーもADER ERRORで同じで、その商品の素材は表地が毛80%、アクリル20%です。",
+    "QA": [
+        {
+            "question": "ADERERRORはいつ設立されましたか？",
+            "answer": "2018年に設立されました。"
+        },
+        {
+            "question": "ADERERRORのメーカーはどんな素材を使用していますか？",
+            "answer": "ADER ERRORの商品の素材は表地が毛80%、アクリル20%です。"
+        },
+        {
+            "question": "ADERERRORの創設者やクリエイティブ ディレクターは誰ですか？",
+            "answer": "創設者とクリエイティブ ディレクターは秘密にされています。"
+        },
+        {
+            "question": "ADERERRORのメッセージと価値観は何ですか？",
+            "answer": "様々な背景と文化を持つ人々が集まり、差別化されたコンテンツを制作するために設立されました。"
+        },
+        {
+            "question": "ADERERRORはどんな人々が集まって作られたブランドですか？",
+            "answer": "経験することを好む人々が集まって作られたブランドです。"
+        }
+    ],
+    "word_Count": {
+        "text": 168,
+        "QA": 214
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_005763",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=848&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=01130000&ccbaCtcd=36&ccbaCpno=2333601130000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1987-06-01",
+        "domain": "자연관광",
+        "title": "광양김시식지"
+    },
+    "text": "光陽キム·シシクジ (광양김시식지)\\n\n全羅南道光陽市キム·シシクジ1ギル57-6(テインドン)\\n\n全羅南道記念物 , 韓国で初めて海苔を養殖したキム·ヨイク(1606~1660)を称えるために建てられた建物だ。 キム·ヨイクは仁祖18年(1640)に泰仁島に入って初めて海海苔を養殖した人だ。 記録によると、キム·ヨイクは丙子胡乱(1636)の時に義兵を起こしたが、朝廷が中国清に降伏すると、泰仁島に入って海苔養殖をしながら暮らしたという。 彼が海苔養殖法を考案したのは仁祖18年(1640)から顕宗元年(1659)の間だと見ている。 「キム」の本来の名前が「海衣」だったが、「キム」に直して呼んだのは海苔養殖を初めて創案したキム·ヨイクの苗字に倣ったものだと伝えられることもある。",
+    "QA": [
+        {
+            "question": "キム・シシクジはどこに建てられた建物ですか？",
+            "answer": "光陽市キム・シシクジ1ギル57-6（テインドン）に建てられました。"
+        },
+        {
+            "question": "キム・ヨイクは何をする人ですか？",
+            "answer": "キム・ヨイクは韓国で初めて海苔を養殖した人です。"
+        },
+        {
+            "question": "キム・ヨイクは何年に海苔養殖法を考案しましたか？",
+            "answer": "キム・ヨイクは仁祖18年（1640）から顕宗元年（1659）の間に海苔養殖法を考案しました。"
+        },
+        {
+            "question": "キム・ヨイクの本来の名前は何ですか？",
+            "answer": "キム・ヨイクの本来の名前は海衣でしたが、後にキムに直して呼ばれるようになりました。"
+        }
+    ],
+    "word_Count": {
+        "text": 252,
+        "QA": 164
+    }
+}

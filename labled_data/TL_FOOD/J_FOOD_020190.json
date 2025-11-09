@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_020190",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "李家葛冷面 ( 이가칡냉면 )"
+    },
+    "text": "李家葛冷面 ( 이가칡냉면 )\n慶尚北道 安東市 オクミョンキル 67\n20年の伝統を誇る安東を代表する冷麺専門店です。代表的なメニューは冷麺です。慶尚北道のアンドン市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "李家葛冷面はどの地域に位置していますか？",
+            "answer": "李家葛冷面は慶尚北道の安東市に位置しています。"
+        },
+        {
+            "question": "李家葛冷面の代表的なメニューは何ですか？",
+            "answer": "李家葛冷面の代表的なメニューは冷麺です。"
+        },
+        {
+            "question": "李家葛冷面は何年の伝統を持っていますか？",
+            "answer": "李家葛冷面は20年の伝統を誇っています。"
+        },
+        {
+            "question": "李家葛冷面は韓食専門店ですか？",
+            "answer": "はい、李家葛冷面は韓食専門店です。"
+        }
+    ],
+    "word_Count": {
+        "text": 71,
+        "QA": 113
+    }
+}

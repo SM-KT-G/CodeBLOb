@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_015473",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2023-04-13",
+        "domain": "숙박",
+        "title": "파라다이스[한국관광 품질인증/Korea Quality]"
+    },
+    "text": "パラダイス[韓国観光品質認証/Korea Quality] (파라다이스[한국관광 품질인증/Korea Quality])\\n\n忠清南道牙山市牙山温泉路157番キル7-7\\n\n忠清南道牙山に位置するパラダイスは、周辺が山で囲まれており、広くて便利な駐車スペースを備えている。 全客室は地中海式インテリアと構造を備えているが、特に広いジェットバスとバスベッドまたはスチームサウナを個別に備えているVIP室が人気が高い。 家族連れの客が多いだけに、すべての客室が清潔に管理されている。",
+    "QA": [
+        {
+            "question": "パラダイスはどこに位置していますか？",
+            "answer": "パラダイスは忠清南道牙山市に位置しています。"
+        },
+        {
+            "question": "パラダイス周辺には何がありますか？",
+            "answer": "パラダイス周辺は山で囲まれており、自然環境が豊かです。"
+        },
+        {
+            "question": "パラダイスにはどのような設備がありますか？",
+            "answer": "パラダイスには広い駐車スペースがあり、地中海式インテリアを備えた客室やジェットバス、バスベッド、スチームサウナを備えたVIP室などがあります。"
+        },
+        {
+            "question": "パラダイスは家族連れにおすすめですか？",
+            "answer": "はい、パラダイスは家族連れの方にもおすすめです。清潔な客室が用意されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 176,
+        "QA": 171
+    }
+}

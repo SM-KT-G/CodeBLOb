@@ -1,0 +1,51 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_008665",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=433&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=00750000&ccbaCtcd=34&ccbaCpno=2113400750000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1978-03-31",
+        "domain": "문화/역사관광",
+        "title": "공주향교"
+    },
+    "text": "公州郷校 (공주향교)\\n\n忠清南道公州市校洞211番地\\n\n太祖~太宗年間 , 忠清南道有形文化財 , 朝鮮初期に儒学者の位牌を祀って祭祀を行い、地方民の教育と教化のために国で建てた教育機関だ。 初めて建てられた正確な年代は分からないが、もともと熊津洞松山の麓にあったのを仁祖元年(1623)に今の位置に移されたと伝える。 その後、数回の補修があり、1954年に文廟·明倫堂·東斎·尊経閣などを補修して現在に至っている。 外三門を入ると講堂である明倫堂があり、その両側に東斎と尊敬閣がある。 後方の一層高いところにある内三門を入ると正面に祠堂である大成殿があり、その両側に東武と庶務がある。 すなわち、教育空間は前方に、祭祀空間は後方に区分して配置している。 朝鮮時代には国家から土地と奴婢·本などを支給され学生を教えたが、甲午経蔵(1894)以後教育機能はなくなり祭祀機能だけが残っている",
+    "QA": [
+        {
+            "question": "公州郷校の正確な建てられた年代は何年ですか？",
+            "answer": "正確な年代は分かっていませんが、仁祖元年（1623年）に現在の位置に移されました。"
+        },
+        {
+            "question": "忠清南道公州市校洞211番地に何がありますか？",
+            "answer": "忠清南道公州市校洞211番地には公州郷校（공주향교）があります。"
+        },
+        {
+            "question": "公州郷校はどのような機能を持っていましたか？",
+            "answer": "公州郷校は、儒学者の位牌を祀って祭祀を行い、地方民の教育と教化のために建てられた教育機関でした。"
+        },
+        {
+            "question": "公州郷校は何回補修されましたか？",
+            "answer": "公州郷校は数回の補修がありました。"
+        },
+        {
+            "question": "公州郷校の主な建物は何ですか？",
+            "answer": "公州郷校の主な建物は明倫堂、東斎、尊経閣、大成殿などです。"
+        },
+        {
+            "question": "公州郷校の教育機能はいつなくなりましたか？",
+            "answer": "甲午経蔵（1894年）以後、教育機能はなくなりました。"
+        },
+        {
+            "question": "公州郷校はどのように配置されていますか？",
+            "answer": "公州郷校は、教育空間を前方に配置し、祭祀空間を後方に区分しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 290,
+        "QA": 269
+    }
+}

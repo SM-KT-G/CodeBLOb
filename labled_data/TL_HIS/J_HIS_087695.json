@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_087695",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=970&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=00180000&ccbaCtcd=37&ccbaCpno=3413700180000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1985-08-05",
+        "domain": "문화/역사관광",
+        "title": "안동안기동삼층석탑"
+    },
+    "text": "慶尚北道に位置した安奇洞民家にある石塔である。この石塔は2階の基壇の上に3階の塔身が上がっている構造だ。下の基壇にはいなくなってセメントで作られていて、上の階基壇には角と中央に円柱が刻まれている。塔身の各レイヤー石核にも角ごとにの柱の形の彫刻が置かれている。特に1階石核には四角いガムシルイ設置されている。ジブンドルは四隅がつり上がって、下面は、盤の数が刻まれている。脚の数の段数は1階は6段、2階は5段、3階は4段になっている。頂上にはボクバル形の丸い石が置かれている。全体的に統一新羅の石塔様式に従っているが、ジブンドルの様式と脚の数が一定しなくて高麗時代前期に建てられたものと推定される。この石塔は安奇洞石仏坐像と近くにいるため、同じ査察の遺物と推定されて、統一新羅末と高麗初期に安東地域の仏教彫刻の遺物を研究する上で、重要な資料となる。",
+    "QA": [
+        {
+            "question": "この石塔は何階建てですか？",
+            "answer": "この石塔は3階建てです。"
+        },
+        {
+            "question": "石塔の基壇はどのような形をしていますか？",
+            "answer": "石塔の基壇は2階の基壇の上に3階の塔身が上がっている構造です。"
+        },
+        {
+            "question": "石塔の脚の数の段数はそれぞれ何段ですか？",
+            "answer": "石塔の脚の数の段数は1階は6段、2階は5段、3階は4段です。"
+        },
+        {
+            "question": "石塔の建設時期はいつ頃ですか？",
+            "answer": "石塔の建設時期は高麗時代前期と推定されています。"
+        },
+        {
+            "question": "石塔の特徴的な彫刻は何ですか？",
+            "answer": "石塔の特徴的な彫刻には、1階石核に置かれている四角いガムシルイがあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 272,
+        "QA": 159
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_052091",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1238&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=79&ccbaAsno=05520200&ccbaCtcd=11&ccbaCpno=4411105520200&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2013-08-27",
+        "domain": "문화/역사관광",
+        "title": "공병우 세벌식 타자기"
+    },
+    "text": "1949年から1952年まで国家登録文化財に登録されたコンビョンウが開発したセボルシクのタイプライターは、最初の量産モデルだ。このタイプライターは、米国のアンダーウッド社に依頼して生産されて韓国に輸入された。現在、使用する標準キーボードはドゥボルシク配列だが、コンビョンウタジャキはセボルシク配列となっており、グルスェには子音、母音、台まで追加されている。このセボルシクの配列は訓民正音創製の原理である初声・中性・終声とタイプライターの子音、母音、台のグルスェで具現されている。このタイプライターは実用化されたハングルタイプライターの初期の製品として、ハングルの機械化に重要な役割を果たす。",
+    "QA": [
+        {
+            "question": "セボルシクのタイプライターはいつ登録されましたか？",
+            "answer": "1949年から1952年まで国家登録文化財に登録されました。"
+        },
+        {
+            "question": "セボルシクのタイプライターはどの会社によって生産されましたか？",
+            "answer": "セボルシクのタイプライターはアンダーウッド社によって生産され、韓国に輸入されました。"
+        },
+        {
+            "question": "セボルシクのタイプライターのキーボード配列はどのような特徴がありますか？",
+            "answer": "セボルシクのタイプライターのキーボード配列は、コンビョンウタジャキが開発したセボルシク配列となっており、訓民正音創製の原理である初声・中性・終声とタイプライターの子音、母音、台のグルスェで具現されています。"
+        },
+        {
+            "question": "セボルシクのタイプライターはハングルの機械化にどのような役割を果たしましたか？",
+            "answer": "セボルシクのタイプライターはハングルタイプライターの初期の製品として、ハングルの機械化に重要な役割を果たしました。"
+        }
+    ],
+    "word_Count": {
+        "text": 216,
+        "QA": 266
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_019388",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=835&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=00880000&ccbaCtcd=34&ccbaCpno=2333400880000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1993-07-20",
+        "domain": "문화/역사관광",
+        "title": "부여구아리백제유적"
+    },
+    "text": "扶余·九阿里百済遺跡 (부여구아리백제유적)\\n\n忠清南道扶余郡扶余邑九阿里64番地\\n\n忠清南道記念物 , 百済時代の遺跡として「天王」という文字を刻んだ瓦礫が発見され、天王寺跡と推定されるところだ。 発掘の結果、百済時代に井戸2基が発見され、南北方向に配置されている。 北側の井戸は石で作られたもので平面4角形に深さ270㎝であり、上から深さ70㎝程度になる南側の壁に南側の井戸と連結される4角溝筒がある。 ここから360㎝離れたところにある南側の井戸は平面正方形で深さは270㎝だ。 上から下に深さ90㎝まで板を4段に積み、井の字型に組み合わせ、その下は石で積み上げ、北側の井戸と連結された樋がある。 周辺では大量の瓦や土器、軒丸瓦、木材などの生活道具が発見され、周辺に建物があったものと推定される。 百済の井戸跡が調査されたのは初めてで、井戸の構造が体系的に明らかになり、当時の生活遺跡の構造を研究する上で重要な資料となっている。",
+    "QA": [
+        {
+            "question": "この遺跡はどこにありますか？",
+            "answer": "この遺跡は忠清南道扶余郡扶余邑九阿里64番地にあります。"
+        },
+        {
+            "question": "この遺跡は何のために使われていましたか？",
+            "answer": "この遺跡は百済時代の天王寺跡と推定されており、発掘の結果、井戸などが発見されました。"
+        },
+        {
+            "question": "この遺跡で発見されたものは何ですか？",
+            "answer": "この遺跡で発見されたものには瓦や土器、軒丸瓦、木材などの生活道具が含まれています。"
+        },
+        {
+            "question": "井戸の構造はどのようになっていますか？",
+            "answer": "北側の井戸は石で作られた平面4角形で、深さは270㎝です。南側の井戸は平面正方形で深さも270㎝です。"
+        },
+        {
+            "question": "この遺跡の調査は何が初めてですか？",
+            "answer": "この遺跡の百済の井戸跡の調査は初めてであり、井戸の構造が体系的に明らかになりました。"
+        }
+    ],
+    "word_Count": {
+        "text": 307,
+        "QA": 214
+    }
+}

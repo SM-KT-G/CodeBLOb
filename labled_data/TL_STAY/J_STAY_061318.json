@@ -1,0 +1,59 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_061318",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://kr.hotels.com/ho1214050144/osyeonseutei-hotel-suyeong-gu-busan-hangug/?chkin=2023-11-14&chkout=2023-11-15&x_pwa=1&rfrr=HSR&pwa_ts=1698926148407&referrerUrl=aHR0cHM6Ly9rci5ob3RlbHMuY29tL0hvdGVsLVNlYXJjaA%3D%3D&useRewards=false&rm1=a2&regionId=6236074&destination=%EC%96%91%EC%82%B0%2C+%EA%B2%BD%EC%83%81%EB%82%A8%EB%8F%84%2C+%ED%95%9C%EA%B5%AD&destType=MARKET&neighborhoodId=3000746982&latLong=35.403385%2C129.039467&sort=RECOMMENDED&top_dp=73864&top_cur=KRW&userIntent=&selectedRoomType=217857207&selectedRatePlan=272216069&expediaPropertyId=37907817&searchId=3213f4e0-a87c-4cd4-99f3-06fe71a6395e",
+        "collectedDate": "2023-11-15",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "오션스테이 호텔"
+    },
+    "text": "オーシャンステイホテル\\n\n大韓民国釜山広域市広安海辺路278番キル42\\n\nオーシャンステイホテルは、美しい広安里海水浴場と新世界センタムシティから車で5分の距離に位置しております。 14の客室からなるこのホテルでは、無料でWiFiとセルフ駐車をご利用いただけます。 また、毎朝07:00~09:00には無料でセルフサービスの朝食を提供しています。 ホテルは海雲台海水浴場から3.9km、ロッテ百貨店釜山本店から8.6km離れています。 チェックインは17:00から可能で、チェックアウトは正午に行われます。 満18歳からチェックインが可能で、クレジットカード、デビットカード、または現金デポジットを提示する必要があります。 子供(7歳以下)の最大2人は、保護者や保護者のような客室で寝具を追加しなくても無料で宿泊できます。 ペットは同伴できませんが、障害者案内動物は可能です。 共用エリアでは無料WiFiを提供し、施設内には屋根付きのセルフ駐車スペースがあります。 このホテルは禁煙施設です。",
+    "QA": [
+        {
+            "question": "ホテルの名前は何ですか？",
+            "answer": "オーシャンステイホテル"
+        },
+        {
+            "question": "ホテルの場所はどこですか？",
+            "answer": "大韓民国釜山広域市広安海辺路278番キル42"
+        },
+        {
+            "question": "ホテルの周辺にはどんな観光スポットがありますか？",
+            "answer": "美しい広安里海水浴場と新世界センタムシティが車で5分の距離にあります。"
+        },
+        {
+            "question": "朝食は何時から何時まで提供されていますか？",
+            "answer": "毎朝07:00~09:00に無料でセルフサービスの朝食が提供されています。"
+        },
+        {
+            "question": "チェックインとチェックアウトの時間は何時ですか？",
+            "answer": "チェックインは17:00から可能で、チェックアウトは正午に行われます。"
+        },
+        {
+            "question": "子供の宿泊について教えてください。",
+            "answer": "子供(7歳以下)の最大2人は、保護者や保護者のような客室で寝具を追加しなくても無料で宿泊できます。"
+        },
+        {
+            "question": "ペットの同伴は可能ですか？",
+            "answer": "ペットは同伴できませんが、障害者案内動物は可能です。"
+        },
+        {
+            "question": "ホテル内で利用できる無料の設備は何ですか？",
+            "answer": "共用エリアでは無料WiFiを提供し、屋根付きのセルフ駐車スペースがあります。"
+        },
+        {
+            "question": "禁煙施設ですか？",
+            "answer": "はい、このホテルは禁煙施設です。"
+        }
+    ],
+    "word_Count": {
+        "text": 328,
+        "QA": 309
+    }
+}

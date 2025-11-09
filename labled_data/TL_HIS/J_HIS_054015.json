@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_054015",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/view?relicId=106585",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "글자 기와 조각"
+    },
+    "text": "字瓦片 (글자 기와 조각)\\n\n瓦には、「王」という文字に似た模様が刻まれています。この瓦は、韓国・高麗時代に使われた屋根材で、土と瓦質でできています。現在のサイズは、幅11.3cm、長さ14.4cmとなっています。",
+    "QA": [
+        {
+            "question": "この瓦は何時代に使われましたか？",
+            "answer": "この瓦は韓国・高麗時代に使われました。"
+        },
+        {
+            "question": "この瓦のサイズは何ですか？",
+            "answer": "この瓦のサイズは幅11.3cm、長さ14.4cmです。"
+        },
+        {
+            "question": "この瓦はどのような材料でできていますか？",
+            "answer": "この瓦は土と瓦質でできています。"
+        },
+        {
+            "question": "瓦に刻まれている模様はどの文字と似ていますか？",
+            "answer": "瓦に刻まれている模様は「王」という文字に似ています。"
+        }
+    ],
+    "word_Count": {
+        "text": 79,
+        "QA": 117
+    }
+}

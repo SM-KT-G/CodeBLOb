@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_031838",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=904&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=24&ccbaAsno=00020000&ccbaCtcd=24&ccbaCpno=2442400020000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1989-03-20",
+        "domain": "문화/역사관광",
+        "title": "최승효가옥"
+    },
+    "text": "崔昇孝家屋 (최승효가옥)\\n\n光州南区陽村キル29-4(陽林洞)\\n\n1920年代、光州広域市民俗文化財、この家は正面8間、側面4間で規模が大きく、屋根は釉薬を塗った赤色の瓦でユニークで、正面に非対称手法を用いてリズム感を与えるなど、伝統家屋が開花期の韓屋に変化する過程を示す資料である。右側の傾斜した敷地を自然そのまま利用して半地下層を構成し、丘と岩壁から流れ落ちる夕刊水を引いて池を作って建物の風情を一層引き立たせた。1920年代に建てられたこの家屋は屋根の下に屋根裏があり、独立運動家たちが避難していた場所としてまた別の意味がある。",
+    "QA": [
+        {
+            "question": "この家屋はどのような特徴がありますか？",
+            "answer": "この家屋は正面8間、側面4間で規模が大きく、屋根は釉薬を塗った赤色の瓦でユニークで、正面に非対称手法を用いてリズム感を与えるなど、伝統家屋が開花期の韓屋に変化する過程を示す資料です。"
+        },
+        {
+            "question": "この家屋の敷地はどのように利用されていますか？",
+            "answer": "右側の傾斜した敷地を自然そのまま利用して半地下層を構成し、丘と岩壁から流れ落ちる夕刊水を引いて池を作って建物の風情を一層引き立たせています。"
+        },
+        {
+            "question": "この家屋はいつ建てられましたか？",
+            "answer": "1920年代に建てられました。"
+        },
+        {
+            "question": "この家屋にはどのような歴史的な意味がありますか？",
+            "answer": "この家屋は屋根の下に屋根裏があり、独立運動家たちが避難していた場所としてまた別の意味があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 198,
+        "QA": 224
+    }
+}

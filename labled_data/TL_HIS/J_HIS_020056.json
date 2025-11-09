@@ -1,0 +1,55 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_020056",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1072&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=01660000&ccbaCtcd=35&ccbaCpno=3413501660000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2000-11-17",
+        "domain": "문화/역사관광",
+        "title": "사계정사"
+    },
+    "text": "四季情事 (사계정사)\\n\n全羅北道南原市周生面永川キル43-32(永川里)\\n\n朝鮮高宗(1863) , 全羅北道文化財資料 , 南陽パン氏の先祖バン·ウンヒョンが朝鮮中期に初めて建てた亭子だ。 亭子の横に流れる小川はモレネ、すなわち「沙渓」と呼ばれる。 壬辰倭乱(1592年)の時に建物が焼失し、以後子孫たちが何度も建て直した。 パン·ウンヒョンは官職を志さず学問を磨きながら一生をここで過ごした。 彼はイ·ハン、ノ·スシン、チョ·シク、ノ·ジンなど有名人と親しく過ごし、亭子の中には彼らの文が数編かかっている。 建物の中で一間の部屋を置いて四方に床を置いた構造で、一般的な湖南地方亭子の様式に従った。",
+    "QA": [
+        {
+            "question": "この亭子はどこにありますか？",
+            "answer": "この亭子は全羅北道南原市周生面永川キル43-32(永川里)にあります。"
+        },
+        {
+            "question": "この亭子はいつ建てられましたか？",
+            "answer": "この亭子は朝鮮高宗の時代、1863年に建てられました。"
+        },
+        {
+            "question": "この亭子は誰によって建てられましたか？",
+            "answer": "この亭子は南陽パン氏の先祖バン·ウンヒョンによって朝鮮中期に建てられました。"
+        },
+        {
+            "question": "亭子の隣にある小川の名前は何ですか？",
+            "answer": "亭子の隣にある小川はモレネ、すなわち「沙渓」と呼ばれています。"
+        },
+        {
+            "question": "この亭子は何度も建て直されたそうですが、その理由はなんですか？",
+            "answer": "壬辰倭乱(1592年)の時に建物が焼失したため、子孫たちが何度も建て直したそうです。"
+        },
+        {
+            "question": "パン·ウンヒョンは何をしていましたか？",
+            "answer": "パン·ウンヒョンは官職を志さず学問を磨きながら一生を亭子で過ごしました。"
+        },
+        {
+            "question": "この亭子にはどのような文物がありますか？",
+            "answer": "亭子の中には有名人であるイ・ハン、ノ・スシン、チョ・シク、ノ・ジンなどの文が数編かかっています。"
+        },
+        {
+            "question": "この亭子の建物の特徴は何ですか？",
+            "answer": "この亭子の建物は一間の部屋を置いて四方に床を置いた構造で、一般的な湖南地方亭子の様式に従っています。"
+        }
+    ],
+    "word_Count": {
+        "text": 222,
+        "QA": 337
+    }
+}

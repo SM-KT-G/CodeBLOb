@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_033074",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=792&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=00310000&ccbaCtcd=31&ccbaCpno=2333100320000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1976-08-27",
+        "domain": "문화/역사관광",
+        "title": "팔곡리향나무"
+    },
+    "text": "八谷里イブキ (팔곡리향나무)\\n\n京畿道安山市常緑区八谷一洞59-3\\n\n京畿道記念物、このイブキは身長が9m、胸高の幹回り3mに達する大きな木で、年齢が600年余りとも言われているが、確かではない。 イブキは本来、身長が23m、茎の胸高の周囲が3m以上まで育つヌルプルンナムであり、枝が上と下に伸びる特徴がある。 葉は針状のものとうろこ状のものがあり、7~8年生まれ以上のものは主にうろこ状の葉がつくが、萌芽<蕾>では針状の葉が生える。",
+    "QA": [
+        {
+            "question": "このイブキはどれくらいの高さに成長しますか？",
+            "answer": "イブキは本来、身長が23mまで成長します。"
+        },
+        {
+            "question": "このイブキの幹の周囲は何メートルですか？",
+            "answer": "このイブキの幹の胸高周囲は3メートルです。"
+        },
+        {
+            "question": "このイブキの年齢は何歳くらいですか？",
+            "answer": "このイブキの年齢は600年以上と言われていますが、確かではありません。"
+        },
+        {
+            "question": "イブキの葉はどんな形状ですか？",
+            "answer": "イブキの葉には針状のものとうろこ状のものがあります。"
+        },
+        {
+            "question": "イブキの枝はどのように伸びますか？",
+            "answer": "イブキの枝は上と下に伸びる特徴があります。"
+        },
+        {
+            "question": "イブキの葉は何歳以上になると主にうろこ状になりますか？",
+            "answer": "イブキの葉は7〜8年生まれ以上になると主にうろこ状の葉がつきますが、萌芽（蕾）では針状の葉が生えます。"
+        }
+    ],
+    "word_Count": {
+        "text": 161,
+        "QA": 215
+    }
+}

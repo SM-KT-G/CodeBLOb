@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_021232",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2022-12-15",
+        "domain": "음식점",
+        "title": "남다르게"
+    },
+    "text": "並々ならぬ (남다르게)\\n\n束草市チョンヒマンギル59 チョン水産市場S棟17号\\n\n特別に、私たちはいつも味も一番～優しい価格で、歩留まりの高いカニだけを厳選しています。お客様に対しては、真心を込めて料理を提供しています。ペットも一緒にお越しいただき、気軽にお召し上がりください～^^また、駐車券も支給いたします～",
+    "QA": [
+        {
+            "question": "場所はどこですか？",
+            "answer": "束草市チョンヒマンギル59 チョン水産市場S棟17号にあります。"
+        },
+        {
+            "question": "何を提供していますか？",
+            "answer": "私たちは高品質なカニを提供しています。"
+        },
+        {
+            "question": "料理はどのように提供されますか？",
+            "answer": "私たちは真心を込めて料理を提供しています。"
+        },
+        {
+            "question": "ペットを連れていってもいいですか？",
+            "answer": "はい、ペットも一緒にお越しいただけます。"
+        },
+        {
+            "question": "駐車券はもらえますか？",
+            "answer": "はい、駐車券も支給しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 116,
+        "QA": 125
+    }
+}

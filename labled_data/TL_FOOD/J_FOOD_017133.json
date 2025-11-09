@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_017133",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/goam",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "高岩食堂"
+    },
+    "text": "高岩食堂\\n\nソウル特別市 龍山区 梨泰院洞 123-3\\n\n梨泰院(イテウォン)へミルトンホテル路地内に位置する正統ブデチゲが有名な食堂です。 いつもお客さんが多い「高岩食堂」のメニューはプデチゲ一つしかありません。",
+    "QA": [
+        {
+            "question": "高岩食堂はどこにありますか？",
+            "answer": "ソウル特別市 龍山区 梨泰院洞 123-3に位置しています。"
+        },
+        {
+            "question": "高岩食堂の特徴は何ですか？",
+            "answer": "高岩食堂は正統ブデチゲが有名な食堂で、いつもお客さんが多いです。"
+        },
+        {
+            "question": "高岩食堂のメニューは何がありますか？",
+            "answer": "高岩食堂のメニューはプデチゲ一つしかありません。"
+        },
+        {
+            "question": "高岩食堂はどのホテルの路地内にありますか？",
+            "answer": "高岩食堂はミルトンホテルの路地内に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 79,
+        "QA": 129
+    }
+}

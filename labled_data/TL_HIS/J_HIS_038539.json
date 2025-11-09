@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_038539",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=954&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=00050000&ccbaCtcd=23&ccbaCpno=3412300050000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1990-11-09",
+        "domain": "문화/역사관광",
+        "title": "원인재"
+    },
+    "text": "源仁斎 (원인재)\\n\n仁川延寿区慶元大路322(延寿洞)\\n\n仁川広域市文化財資料、仁川李氏の重曹である李許謙（イ·ホギョム）の墓前に建てられた建物だ。 中侍祖とは、名前があまりなかった姓氏を持つ家を興した先祖のことをいう。 『高麗史』によると、彼の先祖は新羅の時から今の仁川である小城県に住んでいたが、新羅の使臣として中国唐に行って天子から姓をもらったという。 しかし仁川イ氏が高麗時代貴族隊列に入れるようになったのはイ·ホギョムの時からで、彼の孫娘3人が皆顕宗の妃になった。 長女は元聖皇后で徳宗と正宗の2王を、次女は文宗を産んだ。 その後、文宗から人種に至るまで7代にわたって貴族政治の強大な派閥を成した。 この建物をいつ建てたのか正確な時期は分からないが、32代の孫と33代の孫の文章を通じて、朝鮮純祖7年(1807)または高宗4年(1835)に建てられたものと見られる。 元々は近くのシンジ村にあったが、宅地開発で今ある場所に移った。",
+    "QA": [
+        {
+            "question": "この建物は誰の墓前に建てられたものですか？",
+            "answer": "この建物は、仁川広域市文化財資料、仁川李氏の重曹である李許謙（イ·ホギョム）の墓前に建てられました。"
+        },
+        {
+            "question": "中侍祖とは何を指していますか？",
+            "answer": "中侍祖とは、名前があまりなかった姓氏を持つ家を興した先祖のことを指しています。"
+        },
+        {
+            "question": "仁川イ氏が高麗時代貴族隊列に入れるようになったのはいつからですか？",
+            "answer": "仁川イ氏が高麗時代貴族隊列に入れるようになったのは、イ·ホギョムの時からです。"
+        },
+        {
+            "question": "この建物はいつ建てられたのですか？",
+            "answer": "この建物をいつ建てたのか正確な時期は分からないが、朝鮮純祖7年(1807)または高宗4年(1835)に建てられたものと見られます。"
+        },
+        {
+            "question": "元々この建物はどこにありましたか？",
+            "answer": "元々は近くのシンジ村にあったが、宅地開発で今ある場所に移りました。"
+        }
+    ],
+    "word_Count": {
+        "text": 310,
+        "QA": 241
+    }
+}

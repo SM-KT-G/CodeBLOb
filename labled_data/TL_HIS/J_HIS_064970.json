@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_064970",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1065&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=01520000&ccbaCtcd=37&ccbaCpno=3413701520000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1985-08-05",
+        "domain": "문화/역사관광",
+        "title": "무진장재"
+    },
+    "text": "無尽蔵材\\n\n慶尚北道奉化郡上雲面茂津ジャンギル245(文村里)\\n\n慶尚北道文化財資料、新羅時代に漬けたが、朝鮮前期の文臣のクムウォンチョン(1472∼1557)先生が成宗の11年(1480)この建物を買収し、''ムジンジャンジェ''と改名し、用途も斎室に変わった。彼は燕山君の時陳謝になり、中宗10年(1515)商売と領海薫陶(訓導)を歴任してヒョンリャン(賢良)になった。しかし、中宗14年(1519)フンク勢力によってである趙光祖(チョ・グァンジョ)などの新進勢力が災いに遭った''己卯士禍''が発生すると、官職を捨てて自然に埋もれて学問の研究や人材養成に力を入れながら、生きた。当時、生員市に合格した人々の集まりである''死に神刺身(司馬會)''を主管しており、現在保存している看板に彼の筆法が長けていたことを知ることができる。この建物は前面5間・側面6間規模で、全体的にㅁジャ型構造をなしている。",
+    "QA": [
+        {
+            "question": "この建物は何時代に建てられましたか？",
+            "answer": "この建物は新羅時代に建てられました。"
+        },
+        {
+            "question": "この建物はどのような用途で使われましたか？",
+            "answer": "最初は文村里という地域の漬け物の貯蔵庫として使われていましたが、後に文臣のクムウォンチョン先生によって斎室に変えられました。"
+        },
+        {
+            "question": "クムウォンチョン先生はどのような役職を持っていましたか？",
+            "answer": "クムウォンチョン先生は商売と領海薫陶(訓導)を歴任してヒョンリャン(賢良)になりました。"
+        },
+        {
+            "question": "なぜクムウォンチョン先生は官職を捨てて学問の研究や人材養成に力を入れましたか？",
+            "answer": "クムウォンチョン先生は己卯士禍によって新進勢力が災いに遭ったため、官職を捨てて自然に埋もれながら学問の研究や人材養成に力を入れました。"
+        },
+        {
+            "question": "この建物の構造はどのような形をしていますか？",
+            "answer": "この建物は前面5間・側面6間規模で、全体的にㅁジャ型構造をなしています。"
+        }
+    ],
+    "word_Count": {
+        "text": 296,
+        "QA": 260
+    }
+}

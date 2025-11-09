@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_022389",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42080&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "춘천(남이섬) 쏠리오펜션"
+    },
+    "text": "北漢江の青い光を一望できるプールビラペンションは、まるで海外を出たような異国的な雰囲気を誇っています。 当ペンションは横8mのスイミングスパとアロマ用品セット及び朝食無料提供、任天堂とバーベキューパーティーまで提供し、夢見ていたすべてを叶えてくれます。 ここは品格のある施設に驚くべき場所でもあります。 ソリオで特別な思い出を作ってみてください。 お知らせとしては、22時以降に入室される場合は予めご連絡ください。",
+    "QA": [
+        {
+            "question": "このプールビラペンションはどのような雰囲気ですか？",
+            "answer": "北漢江の青い光を一望できるプールビラペンションは、まるで海外を出たような異国的な雰囲気を誇っています。"
+        },
+        {
+            "question": "どのような特典が提供されていますか？",
+            "answer": "当ペンションは横8mのスイミングスパとアロマ用品セット及び朝食無料提供、任天堂とバーベキューパーティーまで提供しています。"
+        },
+        {
+            "question": "このペンションの施設にはどのような特徴がありますか？",
+            "answer": "ここは品格のある施設に驚くべき場所でもあります。"
+        },
+        {
+            "question": "22時以降に入室する場合はどうすればいいですか？",
+            "answer": "22時以降に入室される場合は予めご連絡ください。"
+        }
+    ],
+    "word_Count": {
+        "text": 151,
+        "QA": 185
+    }
+}

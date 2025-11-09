@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_002073",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/seolnun",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "Seolnun"
+    },
+    "text": "Seolnun\\n\nソルヌンは韓国の伝統料理平壌冷麺専門店だ。北朝鮮から移住してきた平壌高麗ホテルのシェフが直接料理を作り、ソウルで北朝鮮料理を楽しむことができる。平壌冷麺の他にも餃子、緑豆チヂミ、ゆで肉などはすでにおいしいと噂されており、テレビ番組で紹介されたこともある。",
+    "QA": [
+        {
+            "question": "このレストランの名前は何ですか？",
+            "answer": "このレストランの名前はソルヌンです。"
+        },
+        {
+            "question": "ソルヌンは何の料理が専門ですか？",
+            "answer": "ソルヌンは平壌冷麺が専門です。"
+        },
+        {
+            "question": "シェフはどこから移住してきましたか？",
+            "answer": "シェフは北朝鮮から移住してきました。"
+        },
+        {
+            "question": "他にどんな料理がありますか？",
+            "answer": "他にも餃子、緑豆チヂミ、ゆで肉などがあります。"
+        },
+        {
+            "question": "このレストランはどこで紹介されましたか？",
+            "answer": "このレストランはテレビ番組で紹介されました。"
+        }
+    ],
+    "word_Count": {
+        "text": 100,
+        "QA": 132
+    }
+}

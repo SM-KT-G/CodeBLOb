@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_021535",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42040&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "여수 댕댕이애견가족펜션골드"
+    },
+    "text": "忙しく疲れた都市の人々のための日常脱出の憩いの場として麗水海の香り愛犬同伴ペンションがあります。 ここは全客室でオーシャンビューを楽しむことができ、日差しに満ちた広い窓から海の美しさを感じることができます。 また、愛するペットと一緒に休息を楽しむことができる空間がありますので、同伴の愛犬を飼う方に良い選択になるでしょう。 入室時間が20時以降の場合は、事前にご連絡ください。",
+    "QA": [
+        {
+            "question": "このペンションの名前は何ですか？",
+            "answer": "このペンションの名前は麗水海の香り愛犬同伴ペンションです。"
+        },
+        {
+            "question": "何を楽しむことができますか？",
+            "answer": "全客室でオーシャンビューを楽しむことができ、日差しに満ちた広い窓から海の美しさを感じることができます。"
+        },
+        {
+            "question": "ペットを連れて行くことはできますか？",
+            "answer": "はい、愛するペットと一緒に休息を楽しむことができる空間がありますので、同伴の愛犬を飼う方に良い選択になるでしょう。"
+        },
+        {
+            "question": "入室時間が20時以降の場合はどうすればいいですか？",
+            "answer": "入室時間が20時以降の場合は、事前にご連絡ください。"
+        }
+    ],
+    "word_Count": {
+        "text": 137,
+        "QA": 173
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_073526",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1194&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=79&ccbaAsno=00410000&ccbaCtcd=21&ccbaCpno=4412100410000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2002-09-13",
+        "domain": "문화/역사관광",
+        "title": "부산 임시수도 정부청사"
+    },
+    "text": "釜山臨時首都政府庁舎\\n\n釜山西区九徳路225(富民洞二街)\\n\n1925、国家登録文化財、この建物は道庁所在地を晋州(チンジュ)で釜山に移しながら建設した慶尚南道庁で、朝鮮戦争当時、臨時政府庁舎で使用した。初めて竣工する時は''一口''字型の平面で構成したが、1960年代の増・改築で''ㅁ''字形、''日''字型に変わった。正面の中央に玄関ポーチ(porch)が突出しており、中央と両端部分を突出させてその上を切妻屋根で構成するなど、全体的に威厳のある立面を持っている。韓国近代史の政治・社会的変化を秘めた歴史的な建物として旧慶尚南道知事官邸(今の臨時首都記念館とともに釜山(プサン)地域の代表的な近代の公共建築物だ。現在、東亜大学博物館としている。",
+    "QA": [
+        {
+            "question": "この建物はいつ建設されましたか？",
+            "answer": "1925年に建設されました。"
+        },
+        {
+            "question": "この建物はどのような形状をしていますか？",
+            "answer": "最初は一口字型の平面でしたが、1960年代に改築されてㅁ字形や日字形に変わりました。"
+        },
+        {
+            "question": "この建物はどのような特徴を持っていますか？",
+            "answer": "正面の中央に突出した玄関ポーチがあり、全体的に威厳のある立面を持っています。"
+        },
+        {
+            "question": "この建物は何に使用されていましたか？",
+            "answer": "朝鮮戦争当時、臨時政府庁舎として使用されました。"
+        },
+        {
+            "question": "現在のこの建物の用途は何ですか？",
+            "answer": "現在は東亜大学博物館として使用されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 239,
+        "QA": 169
+    }
+}

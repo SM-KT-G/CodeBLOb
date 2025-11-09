@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_007899",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-09-01",
+        "domain": "음식점",
+        "title": "シンフンユクガ（신흥육가）"
+    },
+    "text": "シンフンユクガ（신흥육가）\\n\nソウル特別市 鐘路区 三一大路20キル 15\\n\nソウル特別市のチョンノに位置したバーベキュー専門店です。おすすめはサムギョプサルです。イベリコ豚が味わえるお店です。",
+    "QA": [
+        {
+            "question": "このバーベキュー専門店の場所はどこですか？",
+            "answer": "ソウル特別市 鐘路区 三一大路20キル 15に位置しています。"
+        },
+        {
+            "question": "このお店のおすすめ料理は何ですか？",
+            "answer": "おすすめはサムギョプサルです。イベリコ豚が味わえる料理です。"
+        },
+        {
+            "question": "このお店は何を専門としていますか？",
+            "answer": "このお店はバーベキューを専門としています。"
+        }
+    ],
+    "word_Count": {
+        "text": 72,
+        "QA": 100
+    }
+}

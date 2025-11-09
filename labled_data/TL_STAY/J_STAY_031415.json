@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_031415",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42010&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "인덕원 발리"
+    },
+    "text": "VIP客室利用案内(特別仕様) - お客様の便宜のためにVIP客室にはラブソファ、スタイラー、フットマッサージ機が備えられています。 たくさんご利用ください。 - 入室時間が早いため、入室時間以前は入室できません。 追加料金が発生する場合がありますので、ご了承ください。 - 駐車場が狭いため、1部屋あたり1台駐車が原則です。 入室時間以前には駐車できませんのでご了承ください。 - もし入室時間の前に駐車をご利用いただく場合は、駐車料金がかかります。",
+    "QA": [
+        {
+            "question": "VIP客室にはどんな特別な設備がありますか？",
+            "answer": "VIP客室にはラブソファ、スタイラー、フットマッサージ機が備えられています。"
+        },
+        {
+            "question": "VIP客室の入室時間はいつですか？",
+            "answer": "入室時間が早いため、入室時間以前は入室できません。"
+        },
+        {
+            "question": "VIP客室の駐車場はどのようになっていますか？",
+            "answer": "駐車場が狭いため、1部屋あたり1台駐車が原則です。入室時間以前には駐車できませんのでご了承ください。"
+        },
+        {
+            "question": "入室時間の前に駐車を利用する場合はどうなりますか？",
+            "answer": "もし入室時間の前に駐車をご利用いただく場合は、駐車料金がかかります。"
+        }
+    ],
+    "word_Count": {
+        "text": 165,
+        "QA": 171
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_057847",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=578&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=02890000&ccbaCtcd=31&ccbaCpno=2113102890000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2014-05-09",
+        "domain": "문화/역사관광",
+        "title": "남양주 흥국사 영산전"
+    },
+    "text": "1568年(宣祖1)に京畿道に位置した有形文化財である'霊山殿'は仏前の一つであり、捌相殿とも呼ばれる。この仏殿は先祖の父親である徳興大院君のために建てられたのである。現在の建物は1892年に再建されたもので、花崗岩に基壇を積み、礎石と柱を使用して胴体を構成した。屋根は入母屋屋根で、屋根の下には恐怖が設置されている。前面は4隻のドアを持っていて、横面と裏面は木の板と土で壁を打って壁画を描いた。内部は床の上に仏壇を設置し、仏像の上にはダッジプがあるが、寂滅宮とネウォングンという名前がついている。建物は龍と蓮の花で美しく装飾されており、天井には学科、蓮の花、サンヒヒジャを描いた。こんな派手な装飾は、朝鮮後期の仏典の特徴と王室の福を祈る所であることを象徴する。",
+    "QA": [
+        {
+            "question": "霊山殿は何のために建てられましたか？",
+            "answer": "霊山殿は徳興大院君のために建てられました。"
+        },
+        {
+            "question": "霊山殿はいつ再建されたのですか？",
+            "answer": "霊山殿は1892年に再建されました。"
+        },
+        {
+            "question": "霊山殿の建物の特徴は何ですか？",
+            "answer": "霊山殿の建物は花崗岩に基壇を積み、屋根は入母屋屋根であり、天井には学科、蓮の花、サンヒヒジャを描いています。"
+        },
+        {
+            "question": "霊山殿の内部には何がありますか？",
+            "answer": "霊山殿の内部には床の上に仏壇があり、仏像の上にはダッジプ、寂滅宮、ネウォングンがあります。"
+        },
+        {
+            "question": "霊山殿の装飾はどのような意味を持っていますか？",
+            "answer": "霊山殿の派手な装飾は、朝鮮後期の仏典の特徴と王室の福を祈る所であることを象徴しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 242,
+        "QA": 198
+    }
+}

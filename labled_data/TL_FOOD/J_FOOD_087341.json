@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_087341",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2023-02-28",
+        "domain": "음식점",
+        "title": "안동국시소람"
+    },
+    "text": "安東国是ソラムは20年余りの安東の両班の伝統調理法で韓国固有の味を固守する安東めん専門店だ。代表メニューは国是とクッパであり、ギョッドゥルイ料理で煮物と盛り合わせ前も人気が多い。。",
+    "QA": [
+        {
+            "question": "安東国是ソラムは何年ほど前にオープンしましたか？",
+            "answer": "安東国是ソラムは20年余り前の伝統調理法でオープンしました。"
+        },
+        {
+            "question": "安東国是ソラムの代表的なメニューは何ですか？",
+            "answer": "安東国是ソラムの代表的なメニューは国是とクッパです。"
+        },
+        {
+            "question": "安東国是ソラムではどのような料理が人気ですか？",
+            "answer": "安東国是ソラムではギョッドゥルイ料理の煮物と盛り合わせ前が人気です。"
+        }
+    ],
+    "word_Count": {
+        "text": 66,
+        "QA": 116
+    }
+}

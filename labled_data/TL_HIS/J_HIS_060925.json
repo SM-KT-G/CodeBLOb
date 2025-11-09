@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_060925",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/view?relicId=78215",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "도서자료"
+    },
+    "text": "図書資料 (도서자료)\\n\nこの図書資料は、韓国における日本の植民地支配時代の文化遺産に関連しています。内容は、ガラスおよび油で作られた面が汚れていることについて説明しています。資料はメディアの一種であり、具体的にはフィルムとして分類されます。サイズは横120cm、縦164cmです。",
+    "QA": [
+        {
+            "question": "この図書資料は何に関連していますか？",
+            "answer": "この図書資料は、日本の植民地支配時代の文化遺産に関連しています。"
+        },
+        {
+            "question": "資料の内容は何について説明していますか？",
+            "answer": "資料の内容は、ガラスおよび油で作られた面が汚れていることについて説明しています。"
+        },
+        {
+            "question": "この図書資料はどのようなメディアですか？",
+            "answer": "この図書資料は、フィルムとして分類されるメディアです。"
+        },
+        {
+            "question": "この図書資料のサイズは何ですか？",
+            "answer": "この図書資料のサイズは、横120cm、縦164cmです。"
+        }
+    ],
+    "word_Count": {
+        "text": 104,
+        "QA": 147
+    }
+}

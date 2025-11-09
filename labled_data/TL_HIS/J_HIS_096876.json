@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_096876",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=950&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=00010000&ccbaCtcd=26&ccbaCpno=3412600010000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1997-10-09",
+        "domain": "문화/역사관광",
+        "title": "이휴정"
+    },
+    "text": "イ·ヒュジョン\\n\n蔚山広域市南区イ·ヒュジョンギル20(新井洞、イ·ヒュジョン)\\n\n蔚山広域市文化財資料、本来は蔚山都護府客舎だった鶴城館の南側門楼だが、今は亭子形式を備えている。 客舎とは、地方に出張した官吏や外国使臣がしばらく滞在していたところをいう。 太和楼と呼ばれたりもしたこの建物は日帝時代末に図書館を兼ねて使用してきたが、1940年に蔚山公立普通学校(現在の蔚山初等学校)の校庭を広げ、現在の場所に移すことになった。 移築当時、鶴城李氏月津派の正覚だった李休廷の名前を借りてきて、建物も亭子形式に一部直したが、楼下の両側の間を塞いでオンドル部屋を作ることで門楼形式から亭子形式に完全に変貌することになった。 屋根は側面から見ると八の字型の入母屋造りであり、部材と建築手法が朝鮮後期の門楼の姿を見せている。 2003年9月に火災で全焼し、2005年6月に復元され、2007年11月に丹青補修が完了した。",
+    "QA": [
+        {
+            "question": "この建物は何のために使用されていましたか？",
+            "answer": "日帝時代末には図書館として使用されていました。"
+        },
+        {
+            "question": "建物が移築された理由は何ですか？",
+            "answer": "1940年に蔚山公立普通学校の校庭を広げるため、建物が移築されることになりました。"
+        },
+        {
+            "question": "建物の屋根の形はどのような形ですか？",
+            "answer": "側面から見ると八の字型の入母屋造りの屋根を持っています。"
+        },
+        {
+            "question": "建物が火災で全焼した年はいつですか？",
+            "answer": "2003年9月に火災で全焼しました。"
+        },
+        {
+            "question": "建物が復元された年はいつですか？",
+            "answer": "2005年6月に復元されました。"
+        }
+    ],
+    "word_Count": {
+        "text": 299,
+        "QA": 157
+    }
+}

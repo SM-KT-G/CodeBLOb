@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_007779",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-10",
+        "domain": "음식점",
+        "title": "ジョンソンダムンバプジプユル( 정성담은밥집율 )"
+    },
+    "text": "ジョンソンダムンバプジプユル\\n\n慶尚北道 アンドン市 プンヨ3ギル32-16\\n\n元気回復に良い様々な鴨料理が味わえる店です。慶尚北道のアンドン市に位置した韓国料理店です。おすすめはチョングクチャンです。",
+    "QA": [
+        {
+            "question": "この店はどこにありますか？",
+            "answer": "この店は慶尚北道のアンドン市に位置しています。"
+        },
+        {
+            "question": "この店の名前は何ですか？",
+            "answer": "この店の名前はジョンソンダムンバプジプユルです。"
+        },
+        {
+            "question": "この店では何を提供していますか？",
+            "answer": "この店では様々な鴨料理が味わえます。特におすすめはチョングクチャンです。"
+        },
+        {
+            "question": "この店の住所は何ですか？",
+            "answer": "この店の住所は慶尚北道アンドン市プンヨ3ギル32-16です。"
+        },
+        {
+            "question": "この店は元気回復に良いですか？",
+            "answer": "はい、この店の料理は元気回復に良いとされています。"
+        }
+    ],
+    "word_Count": {
+        "text": 75,
+        "QA": 151
+    }
+}

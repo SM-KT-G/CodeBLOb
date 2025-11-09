@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_028060",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42091&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "울산 커스텀호텔"
+    },
+    "text": "最新のリニューアルで快適なお部屋と最高のサービスでお休みいただけるよう努力いたします。 朝食は時間は07:00~09:00までで、場所は9階のダイニングルームで提供されます。 日曜日と祝日は朝食の運営をしておりません。",
+    "QA": [
+        {
+            "question": "朝食の提供時間は何時から何時までですか？",
+            "answer": "朝食の提供時間は07:00~09:00までです。"
+        },
+        {
+            "question": "朝食はどこで提供されますか？",
+            "answer": "朝食は9階のダイニングルームで提供されます。"
+        },
+        {
+            "question": "日曜日と祝日は朝食の運営をしていますか？",
+            "answer": "日曜日と祝日は朝食の運営をしておりません。"
+        }
+    ],
+    "word_Count": {
+        "text": 79,
+        "QA": 88
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_030213",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42010&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "양주 PD"
+    },
+    "text": "1. 客室の入室基準をご確認の上、2. 追加人数の場合、当日追加料金が決済されることをお知らせします。 3. オンシーズンや特定日、祝日(前日含む)には料金が変わる場合があります。 4. 入室の際は身分証明書を確認し、未成年者の入室は制限されます。 5. 身分証明書を必ずお持ちください。 6. 7。 親切にお答えします。",
+    "QA": [
+        {
+            "question": "客室の入室基準は何ですか？",
+            "answer": "客室の入室基準は、予約人数と客室の最大収容人数の間で決まります。"
+        },
+        {
+            "question": "追加人数がいる場合、追加料金はいくらですか？",
+            "answer": "追加人数がいる場合、当日追加料金が発生します。詳細な料金はお問い合わせください。"
+        },
+        {
+            "question": "オンシーズンや特定日、祝日には料金が変わりますか？",
+            "answer": "はい、オンシーズンや特定日、祝日(前日含む)には料金が変動する場合があります。詳細はお問い合わせください。"
+        },
+        {
+            "question": "入室の際に必要なものはありますか？",
+            "answer": "入室の際には身分証明書が必要です。必ず身分証明書をお持ちください。"
+        },
+        {
+            "question": "未成年者は入室できますか？",
+            "answer": "未成年者の入室は制限されています。身分証明書の確認がありますので、ご了承ください。"
+        },
+        {
+            "question": "質問があったらどうすればいいですか？",
+            "answer": "質問がある場合は、お気軽にお尋ねください。お答えいたします。"
+        }
+    ],
+    "word_Count": {
+        "text": 118,
+        "QA": 247
+    }
+}

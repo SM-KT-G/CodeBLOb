@@ -1,0 +1,31 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_029002",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "韓国館 ( 한국관 )"
+    },
+    "text": "韓国館 ( 한국관 )\n慶尚北道 アンドン市 プンヨ6ギル36\nキムチ料理の専門店です。慶尚北道のアンドン市に位置した韓食専門店です。おすすめはキムチの蒸し物です。",
+    "QA": [
+        {
+            "question": "この韓国館はどこに位置していますか？",
+            "answer": "この韓国館は慶尚北道のアンドン市に位置しています。"
+        },
+        {
+            "question": "この韓国館のおすすめ料理は何ですか？",
+            "answer": "この韓国館のおすすめ料理はキムチの蒸し物です。"
+        }
+    ],
+    "word_Count": {
+        "text": 60,
+        "QA": 61
+    }
+}

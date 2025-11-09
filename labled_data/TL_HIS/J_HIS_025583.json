@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_025583",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=576&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=02860000&ccbaCtcd=37&ccbaCpno=2113702860000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1994-04-16",
+        "domain": "문화/역사관광",
+        "title": "영천보성리암각화"
+    },
+    "text": "永川宝城里岩刻画 (영천보성리암각화)\\n\n慶尚北道永川市清通面宝城里666-2番地\\n\n慶尚北道有形文化財 , 岩刻画は先史時代の人々が岩や洞窟の壁に記号や物、動物などの絵を刻んだものをいうが、主に農作業の豊かさと生産を祈願した呪術行為の結果と見られる。 この岩刻画は亀の形をした岩の片側に7つの絵を刻んだ。 絵を刻んだ面の広さは最大長さ337㎝、最大幅130㎝だ。 浦項七田里と高霊陽田洞、栄州加興里にある岩刻画と似ていることから見て同じ文化類型と推定されるが、各絵の細部形式が少しずつ異なり、互いに時代が違ったり、あるいは地域が違うためと見られる。 年代を正確に究明することは難しいが、青銅器後期や鉄器時代初期段階のものと見られ、先史時代慶北地方に住んでいた人々の生活方式と精神世界を理解する上で重要な資料だ。",
+    "QA": [
+        {
+            "question": "この岩刻画はどこにありますか？",
+            "answer": "永川宝城里にあります。"
+        },
+        {
+            "question": "岩刻画は何を刻んだものですか？",
+            "answer": "岩刻画は亀の形をした岩の片側に7つの絵を刻んだものです。"
+        },
+        {
+            "question": "岩刻画は何を祈願したものですか？",
+            "answer": "岩刻画は主に農作業の豊かさと生産を祈願した呪術行為の結果であると考えられています。"
+        },
+        {
+            "question": "この岩刻画はどの時代のものですか？",
+            "answer": "年代を正確に究明することは難しいですが、青銅器後期や鉄器時代初期段階のものと見られています。"
+        },
+        {
+            "question": "この岩刻画は他の岩刻画とどのように関連していますか？",
+            "answer": "浦項七田里と高霊陽田洞、栄州加興里にある岩刻画と似ていることから同じ文化類型と推定されますが、各絵の細部形式が少しずつ異なるため、時代や地域が異なる可能性があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 262,
+        "QA": 218
+    }
+}

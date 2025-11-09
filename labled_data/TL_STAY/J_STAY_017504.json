@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_017504",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2022-10-05",
+        "domain": "숙박",
+        "title": "리베로호텔"
+    },
+    "text": "リベロホテル\n釜山広域市海雲台区九南路29番キル21\nリベロホテルは、海雲台地下鉄駅から徒歩5分の距離に位置しており、海雲台文化イベントを代表する旧南路通りの中心にあります。ホテルの建物の下には大型デパートSAVEZONEがあり、旅行の楽しみやビジネス、そして生活の利便性とアクセスの両方をお客様に提供しています。",
+    "QA": [
+        {
+            "question": "リベロホテルはどこに位置していますか？",
+            "answer": "リベロホテルは釜山広域市海雲台区九南路29番キル21に位置しています。"
+        },
+        {
+            "question": "リベロホテルの近くに何がありますか？",
+            "answer": "リベロホテルの近くには大型デパートSAVEZONEがあります。"
+        },
+        {
+            "question": "リベロホテルは海雲台地下鉄駅からどのくらいの距離ですか？",
+            "answer": "リベロホテルは海雲台地下鉄駅から徒歩5分の距離です。"
+        }
+    ],
+    "word_Count": {
+        "text": 115,
+        "QA": 115
+    }
+}

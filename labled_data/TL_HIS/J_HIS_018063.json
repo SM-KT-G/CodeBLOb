@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_018063",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1016&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=00700000&ccbaCtcd=22&ccbaCpno=3412200700000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2008-03-24",
+        "domain": "문화/역사관광",
+        "title": "법주사 보광명전"
+    },
+    "text": "法住寺普光明殿 (법주사 보광명전)\\n\n大邱広域市\\n\n朝鮮時代 , 大邱広域市文化財資料 , 法住寺普光明殿は法住寺の旧中心法堂で、朝鮮粛宗16年(1690)に建て直したものと見られる。 今は栄山殿に名前が変わった。 1977年に雨漏りして屋根を直すために開けた時、貴重な仏教経典が発見された。 法堂の中には顕宗1年(1660)に造成した木造阿弥陀三尊仏があり、三尊仏の裏壁と側面壁には康熙(1662~1722)と乾隆(1736~1795)時期に製作された壁にかける仏画がある。 普光明殿の大きさは前面が3間、側面が3間だ。 室内は壁なしで広く使用し、床は床が敷かれている。 室内中央間の裏には柱2本を立て、前には仏像を祀った壇を置き、仏像の裏には仏画がかかっている。 出入り口は4方向にあるが、ドアの開閉方式とドアの形は位置によって異なる。",
+    "QA": [
+        {
+            "question": "この寺院はどこにありますか？",
+            "answer": "法住寺普光明殿は大邱広域市に位置しています。"
+        },
+        {
+            "question": "どの時代に建てられましたか？",
+            "answer": "法住寺普光明殿は朝鮮時代に建て直されました。"
+        },
+        {
+            "question": "この寺院は何のために修復されましたか？",
+            "answer": "法住寺普光明殿は雨漏りのために修復されました。"
+        },
+        {
+            "question": "法住寺普光明殿の中に何が発見されましたか？",
+            "answer": "法住寺普光明殿の修復時に貴重な仏教経典が発見されました。"
+        },
+        {
+            "question": "法住寺普光明殿の大きさはどれくらいですか？",
+            "answer": "法住寺普光明殿の大きさは前面が3間、側面が3間です。"
+        }
+    ],
+    "word_Count": {
+        "text": 273,
+        "QA": 154
+    }
+}

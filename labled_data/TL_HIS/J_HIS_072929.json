@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_072929",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=956&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=00060000&ccbaCtcd=32&ccbaCpno=3413200060000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1984-06-02",
+        "domain": "문화/역사관광",
+        "title": "보진당"
+    },
+    "text": "江原道特別自治道に位置した文化財資料は朝鮮中期にグォンサギュンが建設した建物である。朝鮮時代の高宗4年に火災で焼失したこの建物は、翌年に再び建てられた。この建物は表が4間、側面が3間の大きさを持ち、屋根は入母屋屋根となっている。建物前面にはチョン・ヒョンソクの落款が押された看板があり、柱ごとに縦に文字が書かれている。また、前軒の上には輪が設置されていて、夏にドアを持ち上げて暑さを冷やすことができる。建物の内側は右側に部屋1間があり、左側3間は板の間になっている。",
+    "QA": [
+        {
+            "question": "この建物はいつ、誰によって建てられましたか？",
+            "answer": "この建物は朝鮮中期にグォンサギュンによって建てられました。"
+        },
+        {
+            "question": "この建物は何間の大きさを持っていますか？",
+            "answer": "この建物は表が4間、側面が3間の大きさを持っています。"
+        },
+        {
+            "question": "建物前面にはどのような看板がありますか？",
+            "answer": "建物前面にはチョン・ヒョンソクの落款が押された看板があります。"
+        },
+        {
+            "question": "建物の内側はどのような構造になっていますか？",
+            "answer": "建物の内側は右側に部屋1間があり、左側3間は板の間になっています。"
+        },
+        {
+            "question": "夏にはどのようにして暑さを冷やすことができますか？",
+            "answer": "夏には建物の前軒の上に設置された輪を使って、ドアを持ち上げて暑さを冷やすことができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 170,
+        "QA": 200
+    }
+}

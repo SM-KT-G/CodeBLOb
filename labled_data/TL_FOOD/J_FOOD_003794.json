@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_003794",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "オモニバプサン ( 어머니밥상 )"
+    },
+    "text": "オモニバプサン ( 어머니밥상 )\n全羅南道 モクポ市 ベクニョンデロ279ボンギル9\n特製タレで作った太刀魚料理が味わえる店です。全羅南道のモクポ市に位置した韓食専門店です。おすすめは定食です。",
+    "QA": [
+        {
+            "question": "オモニバプサンはどこに位置していますか？",
+            "answer": "オモニバプサンは全羅南道のモクポ市に位置しています。"
+        },
+        {
+            "question": "オモニバプサンのおすすめは何ですか？",
+            "answer": "オモニバプサンのおすすめは特製タレで作った太刀魚料理の定食です。"
+        },
+        {
+            "question": "オモニバプサンではどのような料理が味わえますか？",
+            "answer": "オモニバプサンでは特製タレで作った太刀魚料理が味わえます。"
+        }
+    ],
+    "word_Count": {
+        "text": 71,
+        "QA": 109
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_095611",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/collectionList#######",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2023-10-11",
+        "domain": "문화/역사관광",
+        "title": "음악감상법 2"
+    },
+    "text": "音楽鑑賞法2 (음악감상법 2)\\n\n安益泰所蔵図書は、日本の近代における貴重な資料です。この図書は紙で作られており、材質は日向です。作家は湯淺永年であり、分類は文化芸術の中でも音楽に関連する書籍や楽書に分類されます。また、この図書の大きさは横16cm、縦23cm、高さ2cmです。",
+    "QA": [
+        {
+            "question": "この図書の材質は何ですか？",
+            "answer": "この図書の材質は日向です。"
+        },
+        {
+            "question": "この図書の作家は誰ですか？",
+            "answer": "この図書の作家は湯淺永年です。"
+        },
+        {
+            "question": "この図書の大きさはどのくらいですか？",
+            "answer": "この図書の大きさは横16cm、縦23cm、高さ2cmです。"
+        },
+        {
+            "question": "この図書は何に分類されますか？",
+            "answer": "この図書は文化芸術の中でも音楽に関連する書籍や楽書に分類されます。"
+        }
+    ],
+    "word_Count": {
+        "text": 103,
+        "QA": 109
+    }
+}

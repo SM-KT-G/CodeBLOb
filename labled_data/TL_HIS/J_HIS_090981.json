@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_090981",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1016&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=00700000&ccbaCtcd=32&ccbaCpno=3413200700000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1985-01-17",
+        "domain": "문화/역사관광",
+        "title": "영월 북쌍리 고택"
+    },
+    "text": "寧越北双里古宅\\n\n江原道寧越郡南面トゥルゴルアンギル127-4(北双里)\\n\n江原道特別自治道文化財資料、立てた時期を正確に分からないが、100年以上なったと伝え、母屋とサランチェ、納屋で構成されたㅁジャ型構造だ。母屋屋根は側面から見ると、八(八部)の字の形をした入母屋屋根である。板の間柱だけは太い円形の柱を使用した点が特異し、板の間を中心に右側に部屋を置いて左に奥の間や台所を直角に置いた。サランチェは前面3間・側面1間規模に一字型平面を備えている。板の間・サランバン・門で構成されているが部屋の前には広縁を設置した。正門の左側には2間の客間を配置し、部屋の前面には縁側を置いた。納屋戸は後に増やして建てたビルで、様式は、嶺西(ヨンソ)地方選考の伝統民家の形式に従っている。",
+    "QA": [
+        {
+            "question": "この古宅の場所はどこですか？",
+            "answer": "江原道寧越郡南面トゥルゴルアンギル127-4(北双里)にあります。"
+        },
+        {
+            "question": "この古宅は何年以上前に建てられましたか？",
+            "answer": "建てた時期を正確に分からないが、100年以上前に建てられたと伝えられています。"
+        },
+        {
+            "question": "この古宅は何部屋で構成されていますか？",
+            "answer": "母屋とサランチェ、納屋の3つの部屋で構成されています。"
+        },
+        {
+            "question": "母屋の屋根の形はどのような形をしていますか？",
+            "answer": "側面から見ると、八(八部)の字の形をした入母屋屋根です。"
+        },
+        {
+            "question": "サランチェの前面の規模は何間ですか？",
+            "answer": "サランチェの前面は3間の規模です。"
+        },
+        {
+            "question": "納屋はどの地方の伝統民家の形式に従って建てられましたか？",
+            "answer": "納屋は嶺西(ヨンソ)地方選考の伝統民家の形式に従って建てられています。"
+        }
+    ],
+    "word_Count": {
+        "text": 249,
+        "QA": 220
+    }
+}

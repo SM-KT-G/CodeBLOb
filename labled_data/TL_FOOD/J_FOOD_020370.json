@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_020370",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "望鄕混ぜ素麺 世宗 ( 망향비빔국수 세종 )"
+    },
+    "text": "望鄕混ぜ素麺 世宗 \n世宗特別自治市 バルン7キル 4\n地元を代表する人気店で、韓国風の麺料理が味わえる店です。 代表的なメニューは混ぜ素麺です。世宗特別自治市のバルン7キルに位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "この店の特徴は何ですか？",
+            "answer": "この店は韓国風の麺料理が味わえる人気店で、代表的なメニューは混ぜ素麺です。世宗特別自治市のバルン7キルに位置しています。"
+        },
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "この店は世宗特別自治市のバルン7キルに位置しています。"
+        },
+        {
+            "question": "どんなメニューがありますか？",
+            "answer": "この店では韓国風の麺料理が楽しめます。特におすすめのメニューは混ぜ素麺です。"
+        }
+    ],
+    "word_Count": {
+        "text": 73,
+        "QA": 120
+    }
+}

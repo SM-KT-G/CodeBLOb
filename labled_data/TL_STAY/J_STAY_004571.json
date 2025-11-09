@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_004571",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/goods/GN0002032542?startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0%5E&npprmaxsort=min",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "영암 남향재한옥체험펜션"
+    },
+    "text": "こんにちは。当ナムヒャンジェは月出山国立公園と霊岩郡観光地の中心に位置し、家族と団体訪問客のための体験場です。 湖南最大の韓屋体験空間に訪問し、月出山の気と自然の余裕と韓国伝統の趣を感じてみてください。",
+    "QA": [
+        {
+            "question": "月出山国立公園はどこに位置していますか？",
+            "answer": "月出山国立公園は霊岩郡に位置しています。"
+        },
+        {
+            "question": "月出山国立公園はどのような体験場ですか？",
+            "answer": "月出山国立公園は家族や団体訪問客のための体験場です。"
+        },
+        {
+            "question": "月出山国立公園で何を体験できますか？",
+            "answer": "月出山国立公園では月出山の気と自然の余裕と韓国伝統の趣を体験することができます。"
+        },
+        {
+            "question": "当ナムヒャンジェはどのような施設ですか？",
+            "answer": "当ナムヒャンジェは湖南最大の韓屋体験空間です。"
+        },
+        {
+            "question": "当ナムヒャンジェで何を感じることができますか？",
+            "answer": "当ナムヒャンジェでは月出山の気と自然の余裕と韓国伝統の趣を感じることができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 74,
+        "QA": 183
+    }
+}

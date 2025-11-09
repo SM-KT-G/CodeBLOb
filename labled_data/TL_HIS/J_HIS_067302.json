@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_067302",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=610&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=03560000&ccbaCtcd=31&ccbaCpno=2113103560000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2019-08-23",
+        "domain": "문화/역사관광",
+        "title": "백자 대병"
+    },
+    "text": "白磁大兵\\n\n京畿道広州市慶忠大路727(昆池岩邑、光州陶磁器エックス包装)\\n\n朝鮮時代、京畿道有形文化財、高さ47cmの大型の白磁の瓶で首がひときわ長くて、ガチョウ病気とも呼ぶ。病気は胴体部分で首が長くて細く上がり、口縁部で丸く巻いた姿だ。長い首に比べて胴体がやや小さく見えてチョヒョンサンのバランス感がやや落ちるが、厚めに製作された、下部が重心を組んで安定感がある。不純物が少し含まれた白土に透明釉をシユハて光沢が出る。白磁を焼く過程で生じた者た氷裂(表面のユヤクチュンに小さく反復的にひびが入った状態)があり、瓶詰にした、液体が下段ににじみ出て跡に残ったが、ほのかな純白の油面は暖かい感じを与えており、政治・経済的に富をした18世紀の朝鮮の堂々たる地位を表わしているようだ。京畿道陶磁博物館所蔵の白磁大軍の用途は多病(茶甁;車を入れる瓶)だったものとみられる。",
+    "QA": [
+        {
+            "question": "この白磁の瓶はどのような特徴がありますか？",
+            "answer": "この白磁の瓶は首が長くて細く、胴体がやや小さく見えます。また、白土に透明釉を使用して光沢が出ています。"
+        },
+        {
+            "question": "白磁の瓶の製作過程で生じた氷裂とは何ですか？",
+            "answer": "白磁を焼く過程で生じた氷裂は、表面の釉薬に小さく反復的にひびが入った状態です。これは瓶詰にした際に液体が下段ににじみ出て跡に残ったものです。"
+        },
+        {
+            "question": "白磁大軍の用途は何でしたか？",
+            "answer": "白磁大軍は茶甁（茶を入れる瓶）として使用されていたと考えられています。"
+        }
+    ],
+    "word_Count": {
+        "text": 281,
+        "QA": 156
+    }
+}

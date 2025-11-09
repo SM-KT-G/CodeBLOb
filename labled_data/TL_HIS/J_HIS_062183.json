@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_062183",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/view?relicId=35832579",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "동전"
+    },
+    "text": "銅貨 (동전)\\n\n韓国の三国時代に作られた、金属製の青銅でできた貨幣である葉銭は、現在のサイズで言うと長さ2.5cm、幅2.6cm、直径2.4cmほどである。この葉銭は、産業や商業において使用され、貨幣としての役割を果たしていた。",
+    "QA": [
+        {
+            "question": "葉銭は何のために作られましたか？",
+            "answer": "葉銭は産業や商業において使用され、貨幣としての役割を果たすために作られました。"
+        },
+        {
+            "question": "葉銭のサイズはどれくらいですか？",
+            "answer": "葉銭の現在のサイズは長さ2.5cm、幅2.6cm、直径2.4cmほどです。"
+        },
+        {
+            "question": "葉銭はどの時代に作られましたか？",
+            "answer": "葉銭は韓国の三国時代に作られました。"
+        },
+        {
+            "question": "葉銭は何の材料でできていますか？",
+            "answer": "葉銭は金属製の青銅でできています。"
+        }
+    ],
+    "word_Count": {
+        "text": 85,
+        "QA": 128
+    }
+}

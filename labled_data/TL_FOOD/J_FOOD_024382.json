@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_024382",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-03",
+        "domain": "음식점",
+        "title": "蓮花マウル ( 연화마을 )"
+    },
+    "text": "蓮花マウル ( 연화마을 )\\n\n江原道 ガンヌン市 ガンドン面 プンホギル100-1\\n\n韓国の滋養食の一つであるサムゲタンにコウタケを使用する飲食店です。代表的なメニューはコウタケ入り鶏肉の水炊きです。江原道のガンヌン市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "このレストランはどこにありますか？",
+            "answer": "韓国の江原道ガンヌン市ガンドン面プンホギル100-1に位置しています。"
+        },
+        {
+            "question": "このレストランの特徴は何ですか？",
+            "answer": "このレストランは韓国の滋養食であるサムゲタンにコウタケを使用しており、代表的なメニューはコウタケ入り鶏肉の水炊きです。"
+        },
+        {
+            "question": "このレストランの名前は何ですか？",
+            "answer": "このレストランの名前は『蓮花マウル ( 연화마을 )』です。"
+        }
+    ],
+    "word_Count": {
+        "text": 91,
+        "QA": 126
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001604",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-06",
+        "domain": "음식점",
+        "title": "COCKTAIL&DREAM ( 칵테일앤드림 )"
+    },
+    "text": "COCKTAIL&DREAM ( 칵테일앤드림 )\\n\nソウル特別市 冠岳区 シンリムロ329\\n\n広々としたホールがあり、会食にぴったりの店です。ソウル特別市のグァンアク区に位置した洋食専門店です。代表的なメニューはカクテルです。",
+    "QA": [
+        {
+            "question": "このレストランの場所はどこですか？",
+            "answer": "ソウル特別市 冠岳区 シンリムロ329に位置しています。"
+        },
+        {
+            "question": "このレストランの雰囲気はどうですか？",
+            "answer": "広々としたホールがあり、会食にぴったりの店です。"
+        },
+        {
+            "question": "このレストランのメニューは何ですか？",
+            "answer": "代表的なメニューはカクテルです。"
+        }
+    ],
+    "word_Count": {
+        "text": 85,
+        "QA": 88
+    }
+}

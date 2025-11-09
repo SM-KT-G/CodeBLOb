@@ -1,0 +1,51 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_053144",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1111&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=02800000&ccbaCtcd=37&ccbaCpno=3413702800000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1993-11-30",
+        "domain": "문화/역사관광",
+        "title": "구강재"
+    },
+    "text": "口腔材\\n\n慶尚北道星州郡星州路1037(錦繍面)\\n\n慶尚北道文化財資料、遠征ヨヒリム(1481∼1553)先生を祀る祠である。ヨヒリムは中宗2年(1507)に死に神市に合格してある趙光祖(チョ・グァンジョ)、金ジョンなどと交友関係を結んでおり、中宗11年(1516)には故郷に行って呂氏ヒャンヤクを実施した。この祠堂は、朝鮮明宗13年(1558)に子孫らが設立したが、主ダム建設で元々あった場所が水没して今いる場所に移した。前面3間・側面2間規模であり、屋根は側面から見ると、八(八部)の字の形をした入母屋屋根で飾った。ジュンアンカンと右の車両にわたってオンドル部屋を連結させ、部屋の間にドアをつけて、必要に応じて空間を分けることができるようにした。...",
+    "QA": [
+        {
+            "question": "この祠堂は誰を祀っていますか？",
+            "answer": "この祠堂は遠征ヨヒリム先生を祀っています。"
+        },
+        {
+            "question": "ヨヒリム先生は何年に死にましたか？",
+            "answer": "ヨヒリム先生は中宗2年(1507)に死にました。"
+        },
+        {
+            "question": "ヨヒリム先生はどのような功績を残しましたか？",
+            "answer": "ヨヒリム先生は趙光祖、金ジョンなどと交友関係を結び、故郷で呂氏ヒャンヤクを実施しました。"
+        },
+        {
+            "question": "この祠堂はいつ設立されましたか？",
+            "answer": "この祠堂は朝鮮明宗13年(1558)に設立されました。"
+        },
+        {
+            "question": "なぜこの祠堂は移動されましたか？",
+            "answer": "この祠堂は主ダム建設により、元々あった場所が水没したため、現在の場所に移動されました。"
+        },
+        {
+            "question": "この祠堂の屋根はどのような形をしていますか？",
+            "answer": "この祠堂の屋根は側面から見ると、八の字の形をしています。"
+        },
+        {
+            "question": "この祠堂はどのような建物の構造をしていますか？",
+            "answer": "この祠堂は前面3間・側面2間の規模であり、ジュンアンカンと右の車両にわたってオンドル部屋を連結させ、部屋の間にドアをつけて、必要に応じて空間を分けることができるようになっています。"
+        }
+    ],
+    "word_Count": {
+        "text": 242,
+        "QA": 299
+    }
+}

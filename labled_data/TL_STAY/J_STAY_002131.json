@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_002131",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-02-18",
+        "domain": "숙박",
+        "title": "The Ocean RESORT（디오션리조트）"
+    },
+    "text": "The Ocean RESORT（디오션리조트）\\n\n全羅南道 麗水市 蘇湖路295\\n\n「The Ocean RESORT（ジ・オーシャンリゾート）」は、全羅南道麗水市にあるリゾートホテルで、全室オーシャンビューとなっています。\\n\nコンベンションセンター、ゴルフ場、ウォーターパークなどを完備しており、麗水を代表する海洋リゾートとして知られています。",
+    "QA": [
+        {
+            "question": "このリゾートホテルの名称は何ですか？",
+            "answer": "「The Ocean RESORT（ジ・オーシャンリゾート）」です。"
+        },
+        {
+            "question": "このホテルはどこに位置していますか？",
+            "answer": "全羅南道麗水市蘇湖路295に位置しています。"
+        },
+        {
+            "question": "このホテルの特徴は何ですか？",
+            "answer": "全室オーシャンビューとなっており、コンベンションセンター、ゴルフ場、ウォーターパークなどが完備されています。"
+        },
+        {
+            "question": "このホテルはどのようなリゾートとして知られていますか？",
+            "answer": "麗水を代表する海洋リゾートとして知られています。"
+        }
+    ],
+    "word_Count": {
+        "text": 129,
+        "QA": 154
+    }
+}

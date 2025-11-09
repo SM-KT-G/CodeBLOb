@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_029097",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "韓牛サムギョプ ( 한우삼겹 )"
+    },
+    "text": "韓牛サムギョプ ( 한우삼겹 )\nソウル特別市 中区 明洞4キル 31\n新鮮な熟成肉が味わえます。おすすめはサムギョプサルです。ソウル特別市のジュン区に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "韓牛サムギョプ (한우삼겹)はどこに位置していますか？",
+            "answer": "ソウル特別市のジュン区に位置しています。"
+        },
+        {
+            "question": "韓牛サムギョプのおすすめメニューは何ですか？",
+            "answer": "おすすめはサムギョプサルです。"
+        },
+        {
+            "question": "韓牛サムギョプでは何を味わえますか？",
+            "answer": "新鮮な熟成肉が味わえます。"
+        },
+        {
+            "question": "韓牛サムギョプの店の名前は何ですか？",
+            "answer": "韓牛サムギョプです。"
+        }
+    ],
+    "word_Count": {
+        "text": 64,
+        "QA": 104
+    }
+}

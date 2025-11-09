@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_007745",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-06",
+        "domain": "음식점",
+        "title": "ジョゲト貝の寄せ鍋 ( 조개터조개전골 )"
+    },
+    "text": "ジョゲト貝の寄せ鍋 ( 조개터조개전골 )\n京畿道 平沢市 チュンアン2ロ142\n海の香りが漂うすっきりとした貝のスープ料理が味わえます。京畿道のピョンテク市に位置した韓食専門店です。代表的なメニューは貝の寄せ鍋です。",
+    "QA": [
+        {
+            "question": "場所はどこですか？",
+            "answer": "京畿道平沢市チュンアン2ロ142に位置しています。"
+        },
+        {
+            "question": "どんな料理が楽しめますか？",
+            "answer": "代表的なメニューは貝の寄せ鍋です。"
+        },
+        {
+            "question": "料理の特徴は何ですか？",
+            "answer": "海の香りが漂うすっきりとした貝のスープ料理です。"
+        }
+    ],
+    "word_Count": {
+        "text": 79,
+        "QA": 72
+    }
+}

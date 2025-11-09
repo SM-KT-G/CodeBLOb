@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001833",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-05",
+        "domain": "음식점",
+        "title": "la qoutte 健大 ( 라구뜨 건대 )"
+    },
+    "text": "la qoutte 健大 ( 라구뜨 건대 )\\n\nソウル特別市 広津区 ヌンドンロ92\\n\n専門シェフがその場で調理する料理を味わうことができます。ソウル特別市のグァンジン区に位置した韓食専門店です。代表的なメニューはビュッフェです。",
+    "QA": [
+        {
+            "question": "このレストランの場所はどこですか？",
+            "answer": "ソウル特別市広津区ヌンドンロ92に位置しています。"
+        },
+        {
+            "question": "このレストランではどんな料理が楽しめますか？",
+            "answer": "専門シェフがその場で調理する料理を味わうことができます。代表的なメニューはビュッフェです。"
+        },
+        {
+            "question": "このレストランの特徴は何ですか？",
+            "answer": "ソウル特別市のグァンジン区に位置した韓食専門店で、専門シェフがその場で調理する料理を提供しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 86,
+        "QA": 128
+    }
+}

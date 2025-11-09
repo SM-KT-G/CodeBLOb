@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_015202",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-03",
+        "domain": "숙박",
+        "title": "ニュー東海観光ホテル（뉴 동해 관광호텔）"
+    },
+    "text": "ニュー東海観光ホテル（뉴 동해 관광호텔）\\n\n江原道 東海市 平陵キル1 （泉谷洞）\\n\n「ニュー東海（トンヘ）観光ホテル（HOTEL NEW DONGHAE）」は、1990年にオープンしたホテルで、最高のサービスと味、清潔さをモットーとしています。また、バスターミナルから近く、市内中心地に位置しているため交通のアクセスが便利です。",
+    "QA": [
+        {
+            "question": "このホテルの名称は何ですか？",
+            "answer": "ニュー東海観光ホテル（뉴 동해 관광호텔）です。"
+        },
+        {
+            "question": "ホテルはどこに位置していますか？",
+            "answer": "江原道 東海市 平陵キル1 （泉谷洞）に位置しています。"
+        },
+        {
+            "question": "何年にオープンしましたか？",
+            "answer": "このホテルは1990年にオープンしました。"
+        },
+        {
+            "question": "ホテルのモットーは何ですか？",
+            "answer": "最高のサービスと味、清潔さをモットーとしています。"
+        },
+        {
+            "question": "ホテルは交通のアクセスが便利ですか？",
+            "answer": "はい、バスターミナルから近く、市内中心地に位置しているため交通のアクセスが便利です。"
+        }
+    ],
+    "word_Count": {
+        "text": 123,
+        "QA": 157
+    }
+}

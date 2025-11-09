@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_009849",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "チャムマンナ黒豚 ( 참맛나흑돼지 )"
+    },
+    "text": "チャムマンナ黒豚 ( 참맛나흑돼지 )\n済州特別自治道 済州市 新大路8キル 29\nボリュームたっぷりの黒豚専門店です。済州特別自治道のジェジュ市に位置した韓食専門店です。代表的なメニューは黒豚の皮付サムギョプサルです。",
+    "QA": [
+        {
+            "question": "チャムマンナ黒豚はどこに位置していますか？",
+            "answer": "チャムマンナ黒豚は済州特別自治道のジェジュ市に位置しています。"
+        },
+        {
+            "question": "チャムマンナ黒豚の代表的なメニューは何ですか？",
+            "answer": "チャムマンナ黒豚の代表的なメニューは黒豚の皮付サムギョプサルです。"
+        },
+        {
+            "question": "チャムマンナ黒豚はどのような特徴がありますか？",
+            "answer": "チャムマンナ黒豚はボリュームたっぷりで黒豚専門の専門店です。"
+        }
+    ],
+    "word_Count": {
+        "text": 80,
+        "QA": 118
+    }
+}

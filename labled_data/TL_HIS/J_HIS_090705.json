@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_090705",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=490&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=01520000&ccbaCtcd=33&ccbaCpno=2113301520000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1986-04-28",
+        "domain": "문화/역사관광",
+        "title": "영동 흥학당"
+    },
+    "text": "永同興学堂\\n\n忠清北道永同郡梅谷面老川里452-1番地\\n\n忠清北道有形文化財、忠州(チュンジュ)朴氏一族で、子孫らが学問を磨いて研究するために建てた家だ。朝鮮中宗15年(1520)に建てられたもので、\"フンダンハク機\"によると朝鮮粛宗(在位1674∼1720)の際改めて建設した後、英祖(在位1724∼1776)、高宗(在位1863∼1907)の時に直して作ったものを知ることができる。前面4間・側面2間の規模を持った南向きの建物である。屋根は側面が八(八部)字と似たような入母屋屋根であり、中央2間は格子模様の床に敷いて広い板の間に利用した。量クッバンはオンドル部屋にした。",
+    "QA": [
+        {
+            "question": "この学堂は誰によって建てられましたか？",
+            "answer": "朝鮮中宗15年(1520)に建てられたもので、朴氏一族によって建てられました。"
+        },
+        {
+            "question": "この学堂はどのような形状をしていますか？",
+            "answer": "この学堂は前面4間・側面2間の南向きの建物であり、側面が八(八部)字と似たような入母屋屋根を持っています。"
+        },
+        {
+            "question": "学堂の屋根の特徴は何ですか？",
+            "answer": "屋根は側面が八(八部)字と似たような入母屋屋根であり、中央2間は格子模様の床に敷いて広い板の間に利用されています。"
+        },
+        {
+            "question": "この学堂は何のために建てられましたか？",
+            "answer": "朴氏一族が子孫らが学問を磨いて研究するために建てた家です。"
+        },
+        {
+            "question": "この学堂はいつ直されましたか？",
+            "answer": "フンダンハク機によると、朝鮮粛宗の際に建設され、後に英祖、高宗の時に直して作られたものと知られています。"
+        }
+    ],
+    "word_Count": {
+        "text": 212,
+        "QA": 232
+    }
+}

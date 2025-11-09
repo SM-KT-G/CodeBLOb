@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_026005",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-01",
+        "domain": "음식점",
+        "title": "長寿屋ソルロンタン ( 장수옥설렁탕 )"
+    },
+    "text": "長寿屋ソルロンタン ( 장수옥설렁탕 )\\n\n全羅南道 木浦市 三郷川路 4\\n\n昔ながらの伝統的な方法で料理を作っている店です。全羅南道のモクポ市に位置した韓食専門店です。おすすめはソルロンタンです。",
+    "QA": [
+        {
+            "question": "長寿屋ソルロンタンはどこに位置していますか？",
+            "answer": "長寿屋ソルロンタンは全羅南道の木浦市に位置しています。"
+        },
+        {
+            "question": "長寿屋ソルロンタンではどのような料理がおすすめですか？",
+            "answer": "長寿屋ソルロンタンではソルロンタンがおすすめです。"
+        },
+        {
+            "question": "長寿屋ソルロンタンはどのような方法で料理を作っていますか？",
+            "answer": "長寿屋ソルロンタンでは昔ながらの伝統的な方法で料理を作っています。"
+        }
+    ],
+    "word_Count": {
+        "text": 74,
+        "QA": 119
+    }
+}

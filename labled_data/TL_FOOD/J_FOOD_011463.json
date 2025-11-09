@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_011463",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "パジュオク 碑前 ( 파주옥 비전 )"
+    },
+    "text": "パジュオク 碑前 ( 파주옥 비전 )\n京畿道 ピョンテク市 ウンアムロ164\n韓国のグルメ番組で数回紹介された店で、無添加の牛骨スープを使っています。京畿道のピョンテク市に位置した韓食専門店です。代表的なメニューはコムタンです。",
+    "QA": [
+        {
+            "question": "この店の名前は何ですか？",
+            "answer": "この店の名前はパジュオク 碑前 ( 파주옥 비전 ) です。"
+        },
+        {
+            "question": "この店はどこにありますか？",
+            "answer": "この店は京畿道のピョンテク市に位置しています。"
+        },
+        {
+            "question": "この店の特徴的なメニューは何ですか？",
+            "answer": "この店の代表的なメニューはコムタンです。"
+        },
+        {
+            "question": "この店のスープは何を使っていますか？",
+            "answer": "この店のスープは無添加の牛骨スープを使っています。"
+        },
+        {
+            "question": "この店は韓国のどの番組で紹介されましたか？",
+            "answer": "この店は韓国のグルメ番組で数回紹介されました。"
+        }
+    ],
+    "word_Count": {
+        "text": 84,
+        "QA": 148
+    }
+}

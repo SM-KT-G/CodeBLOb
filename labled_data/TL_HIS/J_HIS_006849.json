@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_006849",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=847&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=01100000&ccbaCtcd=38&ccbaCpno=2333801100000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1991-12-23",
+        "domain": "문화/역사관광",
+        "title": "거제 가배량진성"
+    },
+    "text": "巨済可倍良津城 (거제 가배량진성)\\n\n慶尚南道巨済市東部面加倍里山17-1番地\\n\n朝鮮時代 , 慶尚南道記念物 , 慶尚南道巨済市東部面老子山（キョンサンナムド·コジェシ·トンブミョン·ノジャサン）麓の奥深い海岸である五亜浦（オアポ、現在、カベリャン）にある城だ。 壬辰倭乱の時、イ·スンシン将軍がウ·スヨンを閑山島の斗億浦から全羅道の鹿島、珍島に移し巨済の五馬浦に移し城を築いた。 朝鮮宣祖34年(1601)には梧馬浦に統制営があったが統制営に適当ではなく高城郡春元浦に移したが、再び統営に移った。 城の西側と南側の一部には敵の攻撃から城を守るために水路を作って作った堀があり、西南側の峰には望台跡が残っている。 城内では瓦礫が発見され、統制営の官衙があったところも礎石が残っている。",
+    "QA": [
+        {
+            "question": "巨済可倍良津城はどこにありますか？",
+            "answer": "巨済可倍良津城は慶尚南道巨済市東部面加倍里山にあります。"
+        },
+        {
+            "question": "巨済可倍良津城は何時代の記念物ですか？",
+            "answer": "巨済可倍良津城は朝鮮時代の記念物です。"
+        },
+        {
+            "question": "巨済可倍良津城はどの時期に築かれましたか？",
+            "answer": "巨済可倍良津城は壬辰倭乱の時に築かれました。"
+        },
+        {
+            "question": "巨済可倍良津城はどの将軍によって築かれましたか？",
+            "answer": "巨済可倍良津城はイ·スンシン将軍によって築かれました。"
+        },
+        {
+            "question": "巨済可倍良津城はどの場所に移されましたか？",
+            "answer": "巨済可倍良津城はウ·スヨンが閑山島の斗億浦から全羅道の鹿島、珍島に移し、最終的に五馬浦に移されました。"
+        },
+        {
+            "question": "巨済可倍良津城内には何が残っていますか？",
+            "answer": "巨済可倍良津城内には水路を作って作った堀や望台跡、瓦礫、統制営の官衙の礎石が残っています。"
+        }
+    ],
+    "word_Count": {
+        "text": 253,
+        "QA": 230
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_014576",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-01",
+        "domain": "음식점",
+        "title": "モグリ刺身専門店 ( 머구리횟집 )"
+    },
+    "text": "モグリ刺身専門店 \n江原道 江陵市 滄海路 19\n店が魚を直接仕入れることで、リーズナブルな価格設定で天然刺身を味わえるところです。 代表的なメニューは刺身の盛り合わせです。江原道のガンヌン市に位置した海鮮専門店です。",
+    "QA": [
+        {
+            "question": "この店の特徴は何ですか？",
+            "answer": "この店は魚を直接仕入れることで、リーズナブルな価格設定で天然刺身を味わえるところです。"
+        },
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "この店は江原道江陵市滄海路19番地に位置しています。"
+        },
+        {
+            "question": "この店の代表的なメニューは何ですか？",
+            "answer": "この店の代表的なメニューは刺身の盛り合わせです。"
+        },
+        {
+            "question": "この店はどの市に位置していますか？",
+            "answer": "この店は江原道のガンヌン市に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 79,
+        "QA": 128
+    }
+}

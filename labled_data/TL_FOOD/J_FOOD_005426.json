@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_005426",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-01",
+        "domain": "음식점",
+        "title": "クンジプ ( 큰집 )"
+    },
+    "text": "クンジプ \n慶尚南道 巨済市 鶏竜路 70\n巨済の郷土料理を提供しています。慶尚南道のゴジェ市に位置した韓食専門店です。代表的なメニューはワタリガニ鍋です。",
+    "QA": [
+        {
+            "question": "鶏竜路 70 巨済市はどこに位置していますか？",
+            "answer": "鶏竜路 70 巨済市は慶尚南道のゴジェ市に位置しています。"
+        },
+        {
+            "question": "この韓食専門店の代表的なメニューは何ですか？",
+            "answer": "この韓食専門店の代表的なメニューはワタリガニ鍋です。"
+        },
+        {
+            "question": "この店では他にどんな料理を提供していますか？",
+            "answer": "この店では他にも慶尚南道の郷土料理を提供しています。"
+        },
+        {
+            "question": "巨済の郷土料理はどんな特徴がありますか？",
+            "answer": "巨済の郷土料理は独特の味と素材のバランスが特徴です。"
+        }
+    ],
+    "word_Count": {
+        "text": 57,
+        "QA": 142
+    }
+}

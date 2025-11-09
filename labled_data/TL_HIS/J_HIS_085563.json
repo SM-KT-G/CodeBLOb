@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_085563",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=51&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=02630000&ccbaCtcd=36&ccbaCpno=1123602630000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1963-01-21",
+        "domain": "문화/역사관광",
+        "title": "순천 송광사 하사당"
+    },
+    "text": "朝鮮時代初期、松広寺は統一新羅景文王7年(867)に初めて建てられた。しかし、ほとんどの建物が崩れて高麗中期にボチョグクサが弟子たちに指示し、再びなり、光海君14年(1622)には、現在の寺を再び立て直した。ハサダンは、僧侶が生活していたところで、前面3間・側面2間の大きさであり、左2間は縁側を備えたオンドル部屋であり、右側1間は台所に使用される。屋根はイン(人)の字の形をした切妻屋根であり、柱の上でのみ構造装飾がある。台所の屋根の上には四角い穴と小さな通気口がいるが、これは他の建物には見られない施設だ。この建物は、朝鮮前期の僧侶たちの僧坊建築に重要な価値を持っている。",
+    "QA": [
+        {
+            "question": "松広寺はいつ建てられましたか？",
+            "answer": "松広寺は統一新羅景文王7年(867)に初めて建てられました。"
+        },
+        {
+            "question": "松広寺は何故再建されましたか？",
+            "answer": "松広寺のほとんどの建物が崩れてしまったため、高麗中期に再建されました。"
+        },
+        {
+            "question": "ハサダンとは何ですか？",
+            "answer": "ハサダンは、僧侶が生活していた建物で、前面3間・側面2間の大きさであり、左2間は縁側を備えたオンドル部屋であり、右側1間は台所に使用されます。"
+        },
+        {
+            "question": "松広寺の屋根の形はどのような形ですか？",
+            "answer": "松広寺の屋根はイン(人)の字の形をした切妻屋根です。"
+        },
+        {
+            "question": "台所の屋根の上にある四角い穴と小さな通気口は何のためですか？",
+            "answer": "台所の屋根の上にある四角い穴と小さな通気口は、他の建物には見られない施設で、通気や換気を目的としています。"
+        }
+    ],
+    "word_Count": {
+        "text": 211,
+        "QA": 223
+    }
+}

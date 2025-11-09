@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_019625",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-05",
+        "domain": "음식점",
+        "title": "都一処 ( 도일처 )"
+    },
+    "text": "都一処 ( 도일처 )\\n\nソウル特別市 江西区 ケファドンロ567\\n\n中国の伝統料理の他にも様々な料理を提供しています。ソウル特別市のガンソ区に位置した中華専門店です。おすすめは東坡肉(豚の角煮）です。",
+    "QA": [
+        {
+            "question": "場所はどこですか？",
+            "answer": "ソウル特別市のガンソ区に位置しています。"
+        },
+        {
+            "question": "どんな料理を提供していますか？",
+            "answer": "中国の伝統料理の他にも様々な料理を提供しています。"
+        },
+        {
+            "question": "おすすめの料理はありますか？",
+            "answer": "おすすめは東坡肉（豚の角煮）です。"
+        }
+    ],
+    "word_Count": {
+        "text": 75,
+        "QA": 73
+    }
+}

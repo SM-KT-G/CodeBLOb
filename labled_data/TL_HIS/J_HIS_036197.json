@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_036197",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2023-08-10",
+        "domain": "문화/역사관광",
+        "title": "청풍명월의 풍경 속으로 풍덩!"
+    },
+    "text": "清風明月の風景の中にどぶん！ (청풍명월의 풍경 속으로 풍덩!)\\n\n特恵を受けた都市、堤川は清風と明月に包まれています。山と湖が織り成す驚異的な風景は、湖の国であるカナダさえも羨むほどです。堤川に行ったら、ぜひ美しい湖を挟んだドライブを体験してみてください。そのスリル満点の体験が待っています！",
+    "QA": [
+        {
+            "question": "堤川はどのような特恵を受けていますか？",
+            "answer": "堤川は清風と明月に包まれています。"
+        },
+        {
+            "question": "堤川の風景はどのような特徴がありますか？",
+            "answer": "山と湖が織り成す驚異的な風景があります。"
+        },
+        {
+            "question": "堤川はどの国と比べても美しい風景ですか？",
+            "answer": "カナダさえも羨むほど美しい風景です。"
+        },
+        {
+            "question": "堤川で体験できるスリル満点のアクティビティは何ですか？",
+            "answer": "美しい湖を挟んだドライブを体験することです。"
+        }
+    ],
+    "word_Count": {
+        "text": 109,
+        "QA": 119
+    }
+}

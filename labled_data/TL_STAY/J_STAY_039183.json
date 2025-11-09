@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_039183",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42030&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "구미 원평동 HOTEL GUMI"
+    },
+    "text": "2022年6月に新しくオープンした亀尾遠平洞Hotel Gumiは、高仕様PCを備えたゲーミングホテルで、ホカンス、ビジネス、旅行に理想的な宿です。 あらゆる年齢層のお客様におすすめのHotel Gumiは、ネットカフェのマニュアルも備えており、食べ物と飲み物を両方楽しむことができます。 居心地の良い快適な空間と細心のサービスで幸せな一日をプレゼントします。 このホテルのおススメ理由は次のとおりです。 まず、便利な駐車場です。 第二に、コストパフォーマンスの良いホテルの清潔さとリニューアルです。 第三に、高性能コンピュータであるi5、GTX3060仕様を備えています。 第四に、ルームサービスとしてトッポッキ、クッパ、スナックなどを楽しむことができます。 第五に、Netflix、アップルテレビなどの視聴が可能で、第六に亀尾駅から徒歩1分の距離に位置しています。 オンシーズンと特定日、祝日には料金が変動する場合があり、払い戻しおよびキャンセルポリシーは異なる場合があります。",
+    "QA": [
+        {
+            "question": "Hotel Gumiのオープン日はいつですか？",
+            "answer": "Hotel Gumiは2022年6月にオープンしました。"
+        },
+        {
+            "question": "Hotel Gumiはどのような宿泊施設ですか？",
+            "answer": "Hotel Gumiは高仕様PCを備えたゲーミングホテルで、ホカンス、ビジネス、旅行に理想的な宿です。"
+        },
+        {
+            "question": "Hotel Gumiのおすすめポイントは何ですか？",
+            "answer": "Hotel Gumiのおすすめポイントは、便利な駐車場、コストパフォーマンスの良さと清潔さ、高性能コンピュータ、ルームサービス、視聴可能なNetflixやアップルテレビ、亀尾駅からの近さです。"
+        },
+        {
+            "question": "Hotel Gumiの料金はどのように変動しますか？",
+            "answer": "Hotel Gumiの料金はオンシーズンや特定の日、祝日によって変動する場合があります。詳細な払い戻しやキャンセルポリシーは異なる場合があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 323,
+        "QA": 253
+    }
+}

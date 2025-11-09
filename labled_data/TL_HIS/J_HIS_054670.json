@@ -1,0 +1,51 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_054670",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=99&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=07790000&ccbaCtcd=11&ccbaCpno=1121107790000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1984-08-06",
+        "domain": "문화/역사관광",
+        "title": "금동여래입상"
+    },
+    "text": "三国時代の8世紀、宝物、金銅如来立像は虎岩美術館に所蔵されており、保存状態が良好な高さ25.4cmの統一新羅時代の仏像です。頭には小さなサザエの形をした髪の毛が付いており、その上にはサントゥの形をした大きな髪の束がそびえています。丸い顔には目·鼻·口などが鋭く表現され、謹厳な印象を与えます。服は両肩に厚く羽織っており、U字型に広く露出した胸の中には下着が表現されています",
+    "QA": [
+        {
+            "question": "この宝物、金銅如来立像はどこの美術館に所蔵されていますか？",
+            "answer": "虎岩美術館に所蔵されています。"
+        },
+        {
+            "question": "この仏像はどの時代のものですか？",
+            "answer": "統一新羅時代の仏像です。"
+        },
+        {
+            "question": "この仏像の保存状態はどうですか？",
+            "answer": "保存状態は良好です。"
+        },
+        {
+            "question": "この仏像の高さは何cmですか？",
+            "answer": "高さは25.4cmです。"
+        },
+        {
+            "question": "この仏像の頭には何が付いていますか？",
+            "answer": "頭には小さなサザエの形をした髪の毛が付いています。"
+        },
+        {
+            "question": "この仏像の顔はどのように表現されていますか？",
+            "answer": "丸い顔には目·鼻·口などが鋭く表現されています。"
+        },
+        {
+            "question": "この仏像の服装はどのようなものですか？",
+            "answer": "服は両肩に厚く羽織っており、U字型に広く露出した胸の中には下着が表現されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 136,
+        "QA": 200
+    }
+}

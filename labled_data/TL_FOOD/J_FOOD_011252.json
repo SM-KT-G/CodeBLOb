@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_011252",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "ノダジ ( 노다지 )"
+    },
+    "text": "ノダジ \n忠清北道 堤川市 奈吐路47キル 21\n韓国のグルメ番組で紹介された店で、団体席や駐車場も完備しています。 代表的なメニューはユッケビビンバです。忠淸北道のジェチョン市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "この店は韓国の忠清北道堤川市奈吐路47キル21に位置しています。"
+        },
+        {
+            "question": "この店では何が食べられますか？",
+            "answer": "この店ではユッケビビンバなどの韓国料理が楽しめます。"
+        },
+        {
+            "question": "この店の特徴は何ですか？",
+            "answer": "この店は団体席や駐車場を完備しており、韓国のグルメ番組で紹介されたことでも知られています。"
+        }
+    ],
+    "word_Count": {
+        "text": 74,
+        "QA": 104
+    }
+}

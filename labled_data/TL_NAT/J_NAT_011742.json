@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_011742",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://apis.data.go.kr/1400000/service/cultureInfoService2/mntInfoOpenAPI2",
+        "collectedDate": "2023-11-22",
+        "publishedDate": "2020-12-01",
+        "domain": "자연관광",
+        "title": "성황산"
+    },
+    "text": "城隍山 (성황산)\\n\n全羅北道井邑市太仁面古川里\\n\n山の高さ : 126.5m , 全羅北道井邑市の主山で井邑市街地の北側を包んでいる。 高当山から伸びた山脈が七宝山を経て城隍山につながり、城隍山から再び頭楽峰につながる。",
+    "QA": [
+        {
+            "question": "城隍山はどこにありますか？",
+            "answer": "城隍山は全羅北道井邑市太仁面古川里にあります。"
+        },
+        {
+            "question": "城隍山の高さは何メートルですか？",
+            "answer": "城隍山の高さは126.5メートルです。"
+        },
+        {
+            "question": "城隍山は井邑市街地のどの方向に位置していますか？",
+            "answer": "城隍山は井邑市街地の北側に位置しています。"
+        },
+        {
+            "question": "城隍山はどの山脈とつながっていますか？",
+            "answer": "城隍山は高当山から伸びた山脈が七宝山を経てつながっています。また、城隍山から再び頭楽峰につながっています。"
+        }
+    ],
+    "word_Count": {
+        "text": 82,
+        "QA": 137
+    }
+}

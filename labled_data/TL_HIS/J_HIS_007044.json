@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_007044",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1017&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=00720000&ccbaCtcd=11&ccbaCpno=3411100720000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2018-08-09",
+        "domain": "문화/역사관광",
+        "title": "경국대전"
+    },
+    "text": "経国大典 (경국대전)\\n\nソウル特別市江南区\\n\n朝鮮時代(1668年) , ソウル特別市文化財資料 , 経国大典は世祖が崔恒と盧思愼などに命じ、1460年(世祖6)に護典を、1461年に刑典、1466年に残りの経典、礼典、兵典、工典を進呈したことで1次完成した。 以後、成宗年間に経国大典を再び修正し1471年から施行されたのが「辛卯大典」であり、漏れた条文を再び改修して1474年から「甲午大典」が施行された。 1485年には「乙巳大典」が完成し、以後からは経国大戦に対する修正と増補を加えず、永世不変の法典とすることになる。 この6巻3冊の個人所蔵経国大典は「乙巳大典」の内容を含んでおり、巻6末に「戊申三月日平壤府開帳」という抄録があり、1668年に平壌で刊行された責任が分かる。 寛申年間記だけでは明確な印刷時期を確定するのは難しいが、紙の地質、印刷状態、版式などで判断してみれば版刻時期は1668年の無新年だと考えられる。 また、調査対象本の第3冊の表紙裏打ち紙として使われた捷文の作成記録に「康熙七年(1668)三月初三日行郡守鄭」もこの時点で刊行されたことを裏付ける。",
+    "QA": [
+        {
+            "question": "経国大典は何年に完成しましたか？",
+            "answer": "経国大典は1466年に完成しました。"
+        },
+        {
+            "question": "経国大典の再修正は何年に行われましたか？",
+            "answer": "経国大典の再修正は成宗年間に行われ、1471年から施行されました。"
+        },
+        {
+            "question": "経国大典の最終的な版刻時期はいつですか？",
+            "answer": "経国大典の最終的な版刻時期は1668年の無新年だと考えられます。"
+        },
+        {
+            "question": "経国大典の刊行責任が分かる記録はありますか？",
+            "answer": "経国大典は1668年に平壌で刊行されたことが、“戊申三月日平壌府開帳”という抄録から分かります。"
+        },
+        {
+            "question": "経国大典は何冊の巻数で構成されていますか？",
+            "answer": "経国大典は6巻3冊で構成されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 361,
+        "QA": 182
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_002040",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-12",
+        "domain": "음식점",
+        "title": "Rishimill( 리쉬밀 )"
+    },
+    "text": "Rishimill( 리쉬밀 )\\n\n江原道 原州市 地正面 シンジジョンロ199-5\\n\nオーガニックのパンと様々なお茶が味わえるベーカリーです。江原道のウォンジュ市に位置したカフェ（コーヒーショップ）です。代表的なメニューは黒糖ラテです。",
+    "QA": [
+        {
+            "question": "リシュミルはどこに位置していますか？",
+            "answer": "リシュミルは江原道のウォンジュ市に位置しています。"
+        },
+        {
+            "question": "リシュミルはどのようなメニューがありますか？",
+            "answer": "リシュミルではオーガニックのパンや様々なお茶を楽しむことができます。代表的なメニューは黒糖ラテです。"
+        },
+        {
+            "question": "リシュミルの住所は何ですか？",
+            "answer": "リシュミルの住所は江原道原州市地正面シンジジョンロ199-5です。"
+        },
+        {
+            "question": "リシュミルの特徴は何ですか？",
+            "answer": "リシュミルはオーガニックのパンと様々なお茶が楽しめるベーカリー（カフェ）です。"
+        },
+        {
+            "question": "リシュミルでおすすめのメニューは何ですか？",
+            "answer": "リシュミルでおすすめのメニューは黒糖ラテです。"
+        }
+    ],
+    "word_Count": {
+        "text": 88,
+        "QA": 189
+    }
+}

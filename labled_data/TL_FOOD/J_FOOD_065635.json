@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_065635",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2022-11-22",
+        "domain": "음식점",
+        "title": "대하닭갈비"
+    },
+    "text": "大河タッカルビは大邱(テグ)トンソン路のロデオ通りの近くに位置したタッカルビ専門店でタッカルビ、鶏の内臓、マックッス(甘辛そば)をメニューとし、タッカルビに各種の舎利を追加して味わうことができる。。",
+    "QA": [
+        {
+            "question": "大河タッカルビはどこに位置していますか？",
+            "answer": "大河タッカルビは大邱(テグ)トンソン路のロデオ通りの近くに位置しています。"
+        },
+        {
+            "question": "大河タッカルビではどのようなメニューがありますか？",
+            "answer": "大河タッカルビではタッカルビ、鶏の内臓、マックッス(甘辛そば)をメニューとして提供しています。"
+        },
+        {
+            "question": "大河タッカルビで舎利を追加して味わうことはできますか？",
+            "answer": "はい、大河タッカルビではタッカルビに各種の舎利を追加して味わうことができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 72,
+        "QA": 143
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_018903",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-29",
+        "domain": "숙박",
+        "title": "高麗ホテル（고려호텔）"
+    },
+    "text": "高麗ホテル\n京畿道 富川市 吉州路66\n芸術・文化・ビジネスの中心街富川市上洞にある特級ホテル「高麗（コリョ）ホテル（KORYO HOTEL）」は、最高のサービス・施設・システムでお客様にやすらぎの空間を提供しています。",
+    "QA": [
+        {
+            "question": "高麗ホテルはどこにありますか？",
+            "answer": "高麗ホテルは京畿道富川市吉州路66にあります。"
+        },
+        {
+            "question": "高麗ホテルはどのようなサービスを提供していますか？",
+            "answer": "高麗ホテルは最高のサービス・施設・システムでお客様にやすらぎの空間を提供しています。"
+        },
+        {
+            "question": "高麗ホテルは何の中心街にありますか？",
+            "answer": "高麗ホテルは芸術・文化・ビジネスの中心街富川市上洞にあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 80,
+        "QA": 112
+    }
+}

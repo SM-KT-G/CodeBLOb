@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_106920",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=529&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=02050000&ccbaCtcd=11&ccbaCpno=2111102050000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2005-12-29",
+        "domain": "문화/역사관광",
+        "title": "청룡사 가사도"
+    },
+    "text": "ソウル特別市有形文化財青龍寺カサドは1902年に造成されたカサテン(袈裟幀)で歌詞の形を絵で描いたものである。ボクチョンムンを描くが、画面は赤地の上に縦に27間のボクチョンムンを描く。左右2間を除いた25間には各車両ごとに上から4列までは仏、菩薩像、その次2列はチェクガプにお経が入っている。一番下列のには非構想を描き入れて計125区の尊像を描写した。朝鮮末期の王室で流行した装飾のファインチェッコリ屏風形式にならって作った歌詞テンイダ。赤い袈裟の周りに沿って、繊細裁縫、自国を表現したのが特徴だ。元々は洋酒水落山ハクリムアムに安置されたが、青龍寺に移管されている。皇室の安寧と王の長寿を祈願し、皇室の発願によって造られた推定され、代表的な画僧たちが参加した作品だ。湖巖(ホアム)美術館所蔵の歌詞もおよび、仙岩寺の歌詞の道を除いて類例があまりない。",
+    "QA": [
+        {
+            "question": "青龍寺のカサドはいつ造られましたか？",
+            "answer": "1902年に造られました。"
+        },
+        {
+            "question": "カサドに何が描かれていますか？",
+            "answer": "ボクチョンムンや仏、菩薩像、お経、非構想などが描かれています。"
+        },
+        {
+            "question": "カサドの特徴は何ですか？",
+            "answer": "赤い袈裟の周りに沿って繊細な裁縫や自国を表現したことが特徴です。"
+        },
+        {
+            "question": "カサドはどのような目的で造られたと考えられていますか？",
+            "answer": "皇室の安寧と王の長寿を祈願し、皇室の発願によって造られたと考えられています。"
+        },
+        {
+            "question": "青龍寺のカサドはどこに移管されたのですか？",
+            "answer": "青龍寺に移管されました。"
+        }
+    ],
+    "word_Count": {
+        "text": 274,
+        "QA": 160
+    }
+}

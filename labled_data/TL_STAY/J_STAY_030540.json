@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_030540",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42050&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "남원 지리산뱀사골별빛정원펜션"
+    },
+    "text": "澄んだ空気とさわやかな環境で共に過ごすリラックスした時間と環境がペンションPineSionの魅力です。 ここではリラックスを楽しむことができ、空間自体が休息に最適化されていてゆったりとくつろげる場所です。 駐車場も完備されており、車の利用が便利です。 入室時間も柔軟に調整できますし、22時以降に到着する場合は予めペンションまでご連絡いただければ幸いです。",
+    "QA": [
+        {
+            "question": "ペンションPineSionの魅力は何ですか？",
+            "answer": "ペンションPineSionの魅力は、澄んだ空気とさわやかな環境で共に過ごすリラックスした時間と環境です。"
+        },
+        {
+            "question": "駐車場はありますか？",
+            "answer": "はい、ペンションPineSionには駐車場が完備されておりますので、車の利用が便利です。"
+        },
+        {
+            "question": "入室時間について教えてください。",
+            "answer": "入室時間は柔軟に調整することができます。22時以降に到着する場合は、事前にペンションまでご連絡いただければ幸いです。"
+        }
+    ],
+    "word_Count": {
+        "text": 130,
+        "QA": 148
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_036550",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=616&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=03690000&ccbaCtcd=37&ccbaCpno=2113703690000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2005-11-07",
+        "domain": "문화/역사관광",
+        "title": "인동 장형수 소장 영양역증"
+    },
+    "text": "仁同張亨洙所蔵永陽歷贈 (인동 장형수 소장 영양역증)\\n\n慶尚北道亀尾市ヨホン路38-7(仁義洞)\\n\n朝鮮時代、慶尚北道有形文化財、この本は蘆渓パク·インロの歌詞集だ。イ·ユンムン(1646~1717)が永陽、永陽(永川の古號郡守)になって曽祖韓陰、イ·ドクヒョン(1561~1613)と関連した老渓歌詞および始祖を収載し後識を付けて1690年(粛宗16)頃に永川で刊行した庚午本だ。",
+    "QA": [
+        {
+            "question": "この本は何の歌詞集ですか？",
+            "answer": "この本は蘆渓パク·インロの歌詞集です。"
+        },
+        {
+            "question": "この本はいつ、どこで刊行されましたか？",
+            "answer": "この本は1690年(粛宗16)頃に永川で刊行されました。"
+        },
+        {
+            "question": "この本はどのような形で収載されていますか？",
+            "answer": "この本には老渓歌詞および始祖が収載されており、後識も付けられています。"
+        },
+        {
+            "question": "この本は何の関連がありますか？",
+            "answer": "この本はイ·ユンムンと関連した老渓歌詞および始祖と関連しています。"
+        },
+        {
+            "question": "この本は何の古號郡守の永陽ですか？",
+            "answer": "この本は永陽(永川の古號郡守)になったイ·ユンムンが関連した老渓歌詞および始祖を収載したものです。"
+        },
+        {
+            "question": "この本はどこで入手できますか？",
+            "answer": "この本は慶尚北道亀尾市ヨホン路38-7(仁義洞)にある仁同張亨洙所蔵永陽歷贈で入手できます。"
+        }
+    ],
+    "word_Count": {
+        "text": 143,
+        "QA": 227
+    }
+}

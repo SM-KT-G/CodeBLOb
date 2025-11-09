@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_055384",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42010&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "수원 구운동 시네마 운영 정책"
+    },
+    "text": "ご予約いただいたスワングウン洞シネマホテルでのチェックイン及びチェックアウト時間のご案内です。 チェックインは午後11時、チェックアウトは翌日の午前12時と決まっています。 予約特典としてOTTルームが提供され、Netflix、Apple TV、ティービング、ウェーブ、ディズニー+、ユーチューブ、ワッチャを無料で視聴することができます。 また、全客室にはバスタブが設置されており、KINGSIZE BEDと羽毛Beddingが提供されます。 枕は各部屋ごとに4つ備えられています。 一般室には50インチLGテレビが設置されており、準特室以上の客室には65インチ以上の大型LGテレビが設置されています。 最後に、すべての客室にはサムスンの天井型システムエアコンが設置されています。 ぜひご利用ください。",
+    "QA": [
+        {
+            "question": "チェックインとチェックアウトの時間は何時ですか？",
+            "answer": "チェックインは午後11時、チェックアウトは翌日の午前12時です。"
+        },
+        {
+            "question": "予約特典として提供されるOTTルームで視聴できるサービスは何ですか？",
+            "answer": "予約特典として提供されるOTTルームでは、Netflix、Apple TV、ティービング、ウェーブ、ディズニー+、ユーチューブ、ワッチャを無料で視聴することができます。"
+        },
+        {
+            "question": "客室にはどのような設備がありますか？",
+            "answer": "全客室にはバスタブが設置されており、KINGSIZE BEDと羽毛Beddingが提供されます。枕は各部屋ごとに4つ備えられています。一般室には50インチLGテレビが設置されており、準特室以上の客室には65インチ以上の大型LGテレビが設置されています。また、すべての客室にはサムスンの天井型システムエアコンが設置されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 257,
+        "QA": 260
+    }
+}

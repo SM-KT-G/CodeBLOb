@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_027132",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.goodchoice.kr/product/detail?ano=66602&adcno=1&sel_date=2023-11-07&sel_date2=2023-11-08",
+        "collectedDate": "2023-11-15",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "청주 월송모텔"
+    },
+    "text": "駐車場内には計5台の駐車施設があり、客室内部施設としてはIPTVを利用でき、無料Wi-Fiとエアコン、電気カーペットが提供され、長期部屋を歓迎する。 また、フロントに冷蔵庫とヘアドライヤーを利用することができる。",
+    "QA": [
+        {
+            "question": "この駐車場は何台の駐車施設がありますか？",
+            "answer": "この駐車場内には計5台の駐車施設があります。"
+        },
+        {
+            "question": "客室内部施設として何が提供されていますか？",
+            "answer": "客室内部施設としてはIPTVを利用でき、無料Wi-Fiとエアコン、電気カーペットが提供されています。"
+        },
+        {
+            "question": "長期部屋を利用することはできますか？",
+            "answer": "はい、長期部屋を歓迎しています。"
+        },
+        {
+            "question": "フロントで利用できるものは何ですか？",
+            "answer": "フロントには冷蔵庫とヘアドライヤーが利用できます。"
+        }
+    ],
+    "word_Count": {
+        "text": 77,
+        "QA": 139
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_005387",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=780&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=00210000&ccbaCtcd=25&ccbaCpno=2332500210000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1991-07-10",
+        "domain": "자연관광",
+        "title": "고봉산성"
+    },
+    "text": "高峰山城 (고봉산성)\\n\n大田市東区周山洞山19-1番地\\n\n百済 , 大田広域市記念物 , 大田広域市東区周山洞の海抜340mの高峰山にある高峰山城は石で積み上げた山城で、その周囲は約250mだ。 この山城は山の頂上部を取り囲んでいるが、このような形をテメ式山城という。 山城は東に長く山の形勢に沿って楕円形の平面形態をしている。 西側の壁面に3段ほどの石垣が残っているだけで、城壁はほとんど崩れて輪郭だけが確認できる。 約300m離れたところに質峴城があり、質峴城の子城としての役割を果たしたと考えられる。 また、高峰山城はジルティ峠を置いてジルヒョン城と並んでおり、この峠を監視するための目的で築かれたと推測している。",
+    "QA": [
+        {
+            "question": "高峰山城はどこにありますか？",
+            "answer": "大田市東区周山洞山19-1番地にあります。"
+        },
+        {
+            "question": "高峰山城はどのような城ですか？",
+            "answer": "高峰山城は石で積み上げた山城で、周囲は約250mのテメ式山城です。"
+        },
+        {
+            "question": "高峰山城の平面形態は何ですか？",
+            "answer": "高峰山城は楕円形の平面形態をしています。"
+        },
+        {
+            "question": "高峰山城の城壁はどのような状態ですか？",
+            "answer": "西側の壁面に3段ほどの石垣が残っているだけで、城壁はほとんど崩れて輪郭だけが確認できます。"
+        },
+        {
+            "question": "高峰山城と質峴城の関係は何ですか？",
+            "answer": "高峰山城は質峴城の子城としての役割を果たしたと考えられています。"
+        },
+        {
+            "question": "高峰山城はどのような目的で築かれたと推測されていますか？",
+            "answer": "高峰山城はジルティ峠を監視するための目的で築かれたと推測されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 229,
+        "QA": 215
+    }
+}

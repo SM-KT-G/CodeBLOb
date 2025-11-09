@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_095053",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=425&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=00650000&ccbaCtcd=32&ccbaCpno=2113200650000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1981-08-05",
+        "domain": "문화/역사관광",
+        "title": "육절려"
+    },
+    "text": "肉切励み\\n\n江原道横城郡孔根面孔根南路169番キル92-7(梅谷里)\\n\n江原道特別自治道有形文化財、壬辰の乱の時、倭敵と戦って死んだ晋州牧師ソイェウォンをはじめとする彼の一家6人の忠節を称えるために立てたのだ。ソイェウォンは朝鮮宣祖26年(1593)日本の2次侵入の際、少ない軍事や武器を持って晋州城を堅く守る結局戦死した。彼の夫人李氏と長男の啓星(ケソン)、嫁、盧氏そして幼い娘も昼夜に軍事たちを助けながら戦い、城が陥落されると、南江(ナムカン)に飛び込んで自ら命を絶った。次男ギェチョルは川に身を投げたが、倭敵に捕まれて日本に連行され、13年後に戻ってくることができた。粛宗4年(1678)、徐氏家族の忠節が明らかになった後、粛宗18年(1692)家族の忠孝を称えるために、彼の子孫が住んでいるここにチョンリョガクを立てた。前面4間・側面1間規模であり、屋根側面が人の教わる字形の切妻屋根の家だ。10個の大黒柱からなっており、ネビョクは赤い色を塗った長い木の棒を回して立てた。",
+    "QA": [
+        {
+            "question": "何のために晋州城を守ったのですか？",
+            "answer": "晋州城は倭敵の侵入から朝鮮を守るために守られました。"
+        },
+        {
+            "question": "晋州城を守るために戦った人々の名前は何ですか？",
+            "answer": "晋州城を守るために戦った人々は晋州牧師ソイェウォンと彼の一家6人です。"
+        },
+        {
+            "question": "晋州城が陥落した後、家族はどこに逃れましたか？",
+            "answer": "晋州城が陥落した後、家族は南江(ナムカン)に逃れました。"
+        },
+        {
+            "question": "家族の忠節を称えるために何が建てられましたか？",
+            "answer": "家族の忠節を称えるためにチョンリョガクが建てられました。"
+        },
+        {
+            "question": "チョンリョガクの屋根の形はどんな形ですか？",
+            "answer": "チョンリョガクの屋根は人の教わる字形の切妻屋根の形をしています。"
+        }
+    ],
+    "word_Count": {
+        "text": 324,
+        "QA": 187
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_017769",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "金剛山ズワイガニ刺身専門店 ( 금강산대게횟집 )"
+    },
+    "text": "金剛山ズワイガニ刺身専門店 ( 금강산대게횟집 )\\n\n江原道 襄陽郡 降峴面 ヘマジキル 8-5\\n\n各種海の幸を取り扱う料理店です。 代表的なメニューはタラバガニです。江原道のヤンヤン郡に位置した海鮮専門店です。",
+    "QA": [
+        {
+            "question": "金剛山ズワイガニ刺身専門店はどこにありますか？",
+            "answer": "金剛山ズワイガニ刺身専門店は江原道襄陽郡降峴面ヘマジキル8-5に位置しています。"
+        },
+        {
+            "question": "金剛山ズワイガニ刺身専門店の代表的なメニューは何ですか？",
+            "answer": "金剛山ズワイガニ刺身専門店の代表的なメニューはタラバガニです。"
+        },
+        {
+            "question": "金剛山ズワイガニ刺身専門店では何を取り扱っていますか？",
+            "answer": "金剛山ズワイガニ刺身専門店では各種海の幸を取り扱っています。"
+        },
+        {
+            "question": "金剛山ズワイガニ刺身専門店はどの地域に位置していますか？",
+            "answer": "金剛山ズワイガニ刺身専門店は江原道のヤンヤン郡に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 79,
+        "QA": 175
+    }
+}

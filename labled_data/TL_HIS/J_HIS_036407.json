@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_036407",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2022-08-26",
+        "domain": "문화/역사관광",
+        "title": "진영P&T"
+    },
+    "text": "ジンヨンP&T (진영P&T)\\n\n大邱広域市西区染色公団川路31\\n\nジニョンP&Tは、キルト用捺染生地の製造と輸出を行っています。2002年にエコラベル認証を取得して以来、毎年さまざまな受賞を受けるなど、優れた企業として大邱の「繊維ストリーム産業観光コース」に含まれています。工場では、捺染および後加工の工程を見学し、最終製品を観覧することができます。",
+    "QA": [
+        {
+            "question": "ジニョンP&Tはどんな製品を作っていますか？",
+            "answer": "ジニョンP&Tはキルト用捺染生地の製造を行っています。"
+        },
+        {
+            "question": "ジニョンP&Tはどのような受賞を受けていますか？",
+            "answer": "ジニョンP&Tはエコラベル認証を取得しており、さまざまな受賞を受けています。"
+        },
+        {
+            "question": "ジニョンP&Tの工場では何が見学できますか？",
+            "answer": "工場では捺染および後加工の工程を見学し、最終製品を観覧することができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 130,
+        "QA": 124
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_017084",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2023-01-12",
+        "domain": "문화/역사관광",
+        "title": "미양서원"
+    },
+    "text": "美陽書院 (미양서원)\\n\n慶尚南道金海市進永邑進永路430-16\\n\n慶尚南道金海（キョンサンナムド·キムヘ）にある美陽書院は、朝鮮前期の学者である西江（ソガン）金桂錦（キム·ゲグム）先生を称えている。 美陽書院には西江金桂錦一古本板(慶尚南道有形文化財)を保管している。",
+    "QA": [
+        {
+            "question": "美陽書院はどこにありますか？",
+            "answer": "美陽書院は慶尚南道金海市進永邑進永路430-16にあります。"
+        },
+        {
+            "question": "誰を称えているのですか？",
+            "answer": "美陽書院は朝鮮前期の学者である西江金桂錦先生を称えています。"
+        },
+        {
+            "question": "美陽書院には何を保管していますか？",
+            "answer": "美陽書院には西江金桂錦一古本板（慶尚南道有形文化財）を保管しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 100,
+        "QA": 101
+    }
+}

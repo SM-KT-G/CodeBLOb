@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_007429",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=957&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=00070000&ccbaCtcd=37&ccbaCpno=3413700070000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1985-08-05",
+        "domain": "문화/역사관광",
+        "title": "경주남사리북삼층석탑"
+    },
+    "text": "慶州南沙里北三層石塔 (경주남사리북삼층석탑)\\n\n慶尚北道慶州市玄谷面南沙里313-4番地\\n\n慶尚北道文化財資料 , この塔は1973年慶州警察署新庁舎を竣工する時、基壇部だけを残して屋根石3個を警察署庭園に移し保存してきたが、住民たちの持続的な要請により1995年に元の位置であるここに移し名称も今の名前に変えた。断層である基壇は本来の石と同じ大きさに新しく作り、4つの石を組み合わせたが、角柱と内柱を彫刻した。 その上に3階に石と屋根石を載せた。 屋根石の底面に刻まれた5段の支えは比較的はっきりしている。塔を建て直して残った石は今も塔の西側にそのまま保存されており、本来の姿をより確実に知ることができるようにしている。 塔の建立時期は統一新羅時代と推定される。",
+    "QA": [
+        {
+            "question": "この塔はどこにありますか？",
+            "answer": "慶尚北道慶州市玄谷面南沙里313-4番地にあります。"
+        },
+        {
+            "question": "この塔の建設時期はいつですか？",
+            "answer": "塔の建立時期は統一新羅時代と推定されています。"
+        },
+        {
+            "question": "この塔はどのように移されましたか？",
+            "answer": "1973年に慶州警察署の新庁舎が竣工する際、基壇部だけが残され、屋根石3個が警察署庭園に移されて保存されました。その後、住民たちの要請により1995年に元の位置であるここに移され、名称も現在の名前に変更されました。"
+        },
+        {
+            "question": "塔の基壇はどのように作られましたか？",
+            "answer": "断層である基壇は、本来の石と同じ大きさに新しく作られ、4つの石が組み合わされ、角柱と内柱が彫刻されました。"
+        },
+        {
+            "question": "塔の屋根石には何が刻まれていますか？",
+            "answer": "屋根石の底面には5段の支えが刻まれています。"
+        },
+        {
+            "question": "残された石はどこに保存されていますか？",
+            "answer": "塔を建て直して残った石は今も塔の西側にそのまま保存されており、本来の姿をより確実に知ることができるようになっています。"
+        }
+    ],
+    "word_Count": {
+        "text": 245,
+        "QA": 286
+    }
+}

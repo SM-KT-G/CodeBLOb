@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_031727",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101971",
+        "collectedDate": "2023-09-07",
+        "publishedDate": "2021-11-25",
+        "domain": "문화/역사관광",
+        "title": "草衣生家"
+    },
+    "text": "草衣生家\n草衣（チョイ）禅師の生家は、当時の姿を想像して建てられた、こぢんまりとした草屋です。禅師の詩『歸故鄕（キゴヒャン）』によると、兄弟の親族は村で暮らしていたものの、生家は生前に既に廃墟と化していたそうです。  復元された生家は、典型的な田舎の草屋となっています。",
+    "QA": [
+        {
+            "question": "草衣禅師の生家の特徴は何ですか？",
+            "answer": "草衣禅師の生家は、当時の姿を想像して建てられた、こぢんまりとした草屋です。"
+        },
+        {
+            "question": "禅師の兄弟や親族は村で暮らしていましたか？",
+            "answer": "禅師の詩『歸故鄕』によると、兄弟の親族は村で暮らしていたそうです。"
+        },
+        {
+            "question": "禅師の生家は廃墟になっていましたか？",
+            "answer": "禅師の詩『歸故鄕』によると、生家は生前に既に廃墟と化していたそうです。"
+        },
+        {
+            "question": "復元された生家はどのような姿になっていますか？",
+            "answer": "復元された生家は、典型的な田舎の草屋となっています。"
+        }
+    ],
+    "word_Count": {
+        "text": 99,
+        "QA": 153
+    }
+}

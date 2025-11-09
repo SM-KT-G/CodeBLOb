@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_021211",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2020-12-24",
+        "domain": "음식점",
+        "title": "碧帝カルビ 芳荑( 벽제갈비 방이 )"
+    },
+    "text": "碧帝カルビ 芳荑( 벽제갈비 방이 )\\n\nソウル特別市 松坡区 ヤンジェデロ71ギル1-4\\n\n最上級の1%の韓牛を使用しています。ソウル特別市のソンパ区に位置した韓食専門店です。代表的なメニューは霜降り牛ロースです。",
+    "QA": [
+        {
+            "question": "このレストランの場所はどこですか？",
+            "answer": "ソウル特別市 松坡区 ヤンジェデロ71ギル1-4に位置しています。"
+        },
+        {
+            "question": "このレストランの特徴的なメニューは何ですか？",
+            "answer": "代表的なメニューは霜降り牛ロースです。"
+        },
+        {
+            "question": "このレストランで使用している韓牛は何ですか？",
+            "answer": "最上級の1%の韓牛を使用しています。"
+        },
+        {
+            "question": "このレストランは何を専門としていますか？",
+            "answer": "韓食専門店です。"
+        },
+        {
+            "question": "このレストランはどの地区に位置していますか？",
+            "answer": "ソウル特別市のソンパ区に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 80,
+        "QA": 147
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_091546",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1156&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=04920000&ccbaCtcd=37&ccbaCpno=3413704920000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2005-09-20",
+        "domain": "문화/역사관광",
+        "title": "예천 석문종택"
+    },
+    "text": "醴泉石門宗宅\\n\n慶尚北道醴泉郡\\n\n慶尚北道文化財資料、この家屋は1609年(光海君1)に石門チョンヨンバンが建築した建物として、一字型が、門屋の裏にㄇ兄和賀母屋が開いた口の字型をなしており、母屋は、母屋とサランチェが90°角に曲がって座って内外空間が左右に区分されている。このような配置及び平面構成は19世紀後半以降の住宅で主に見られる類型に伝統韓屋の変遷過程を理解する上で重要な資料である。",
+    "QA": [
+        {
+            "question": "この家屋は誰によって建築されましたか？",
+            "answer": "石門チョンヨンバンによって建築されました。"
+        },
+        {
+            "question": "この家屋はいつ建築されましたか？",
+            "answer": "1609年(光海君1)に建築されました。"
+        },
+        {
+            "question": "この家屋はどのような形をしていますか？",
+            "answer": "この家屋は一字型と口の字型をなしています。"
+        },
+        {
+            "question": "母屋とサランチェの配置はどのようになっていますか？",
+            "answer": "母屋は、母屋とサランチェが90°角に曲がって座って内外空間が左右に区分されています。"
+        },
+        {
+            "question": "この家屋の平面構成は何を示していますか？",
+            "answer": "この家屋の平面構成は19世紀後半以降の住宅で主に見られる類型に伝統韓屋の変遷過程を示しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 145,
+        "QA": 184
+    }
+}

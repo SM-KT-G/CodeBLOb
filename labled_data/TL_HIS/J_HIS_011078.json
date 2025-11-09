@@ -1,0 +1,55 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_011078",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1239&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=79&ccbaAsno=05610200&ccbaCtcd=11&ccbaCpno=4411105610200&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2013-08-27",
+        "domain": "문화/역사관광",
+        "title": "금성 텔레비전 VD-191"
+    },
+    "text": "金星テレビVD-191 (금성 텔레비전 VD-191)\\n\nソウル特別市鍾路区世宗大路198-大韓民国歴史博物館\\n\n1966年 , 国家登録文化財 , 1966年に金星社で製造した韓国初の白黒テレビで、画面の大きさは19インチであり、製品によって支え脚を設置して高級家具のイメージを付与したりもした。NTCS方式、走査線525の飛越走査方式で、手動でチャンネルを選択する機械的チューナーを使用し、コントラスト調整端子とボリューム調整端子が前部に配置されている。 12個の真空管として能動回路を構成し、増幅、検波、同期分離、音声および映像信号増幅などの機能を持っている。テレビは回路技術、通信技術などの複合的なシステムで構成されている電子製品で、このテレビの開発で当時立ち遅れた電子通信技術·産業の発達に重要な役割を果たし、産業デザインの歴史的側面でも象徴的な意味を持つだけでなく、映像媒体時代に進入させた土台を用意した。",
+    "QA": [
+        {
+            "question": "このテレビはいつ製造されましたか？",
+            "answer": "1966年に製造されました。"
+        },
+        {
+            "question": "このテレビの画面の大きさは何インチですか？",
+            "answer": "このテレビの画面の大きさは19インチです。"
+        },
+        {
+            "question": "このテレビはどのような方式で動作しますか？",
+            "answer": "このテレビはNTCS方式、525の飛越走査方式で動作します。"
+        },
+        {
+            "question": "このテレビにはどのような機能がありますか？",
+            "answer": "このテレビには増幅、検波、同期分離、音声および映像信号増幅などの機能があります。"
+        },
+        {
+            "question": "このテレビの製造には何個の真空管が使用されていますか？",
+            "answer": "このテレビの製造には12個の真空管が使用されています。"
+        },
+        {
+            "question": "このテレビはどのような役割を果たしましたか？",
+            "answer": "このテレビは当時立ち遅れた電子通信技術·産業の発達に重要な役割を果たし、産業デザインの歴史的側面でも象徴的な意味を持ちました。"
+        },
+        {
+            "question": "このテレビはどのような電子製品ですか？",
+            "answer": "このテレビは回路技術、通信技術などの複合的なシステムで構成される電子製品です。"
+        },
+        {
+            "question": "このテレビはどのような土台を提供しましたか？",
+            "answer": "このテレビは映像媒体時代に進入させる土台を提供しました。"
+        }
+    ],
+    "word_Count": {
+        "text": 302,
+        "QA": 316
+    }
+}

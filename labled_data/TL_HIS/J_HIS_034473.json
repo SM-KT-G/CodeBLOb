@@ -1,0 +1,51 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_034473",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=41&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=01290000&ccbaCtcd=38&ccbaCpno=1123801290000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1963-01-21",
+        "domain": "문화/역사관광",
+        "title": "합천 월광사지 동·서 삼층석탑"
+    },
+    "text": "陜川月光寺址東·西 (합천 월광사지 동·서 삼층석탑)\\n\n慶尚南道陜川郡夜路面月光里369-1,365-1\\n\n統一新羅時代 , 宝物 , 月光寺跡に東西に建てられた双塔で、全て2層基壇の上に3層塔身を載せた一般的な姿だ。 基壇は下·上層ともに各面の角と中央に柱状の彫刻を置いた。 塔身の各石にも角ごとに柱の彫刻を置き、屋根石は底面の支えが5段ずつだ。 全体的に見ると二つの塔がほとんど似ているが、東塔は全体の規模に比べて基壇部の構成で多少多くの石を使用し、西塔は倒れて壊れたのを最近立てて破損した跡が見える。 また、基壇の各面の中央にも柱の形を模して刻まれているが、西塔は2つで、東塔は1つだ。 統一新羅の塔ではあるが、互いに姿が似ていながらも各部分の構成方法や様式が若干異なる点を見せており、作られた年代に少し差が出ていることを推測させる。",
+    "QA": [
+        {
+            "question": "月光寺址東·西はどの時代に建てられましたか？",
+            "answer": "統一新羅時代に建てられました。"
+        },
+        {
+            "question": "月光寺址東·西は何の宝物ですか？",
+            "answer": "月光寺址東·西は宝物です。"
+        },
+        {
+            "question": "月光寺址東·西の塔身は何層ですか？",
+            "answer": "月光寺址東·西の塔身は3層です。"
+        },
+        {
+            "question": "月光寺址東·西の基壇にはどのような彫刻がありますか？",
+            "answer": "基壇には各面の角と中央に柱状の彫刻が置かれています。"
+        },
+        {
+            "question": "月光寺址東・西の屋根石は何段の支えがありますか？",
+            "answer": "屋根石は底面の支えが5段ずつあります。"
+        },
+        {
+            "question": "月光寺址東・西の塔の姿はどのように異なりますか？",
+            "answer": "東塔は基壇部で多少多くの石を使用しており、西塔は倒れて壊れた跡が見えます。また、基壇の各面の中央にも柱の形を模して刻まれているが、西塔は2つで、東塔は1つです。"
+        },
+        {
+            "question": "月光寺址東・西の塔はどのような構成方法や様式を示していますか？",
+            "answer": "月光寺址東・西の塔は統一新羅の塔ですが、互いに姿が似ていながらも各部分の構成方法や様式が若干異なります。作られた年代に少し差があると推測されます。"
+        }
+    ],
+    "word_Count": {
+        "text": 274,
+        "QA": 294
+    }
+}

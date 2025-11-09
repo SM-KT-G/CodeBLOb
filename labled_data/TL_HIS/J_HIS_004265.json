@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_004265",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101933",
+        "collectedDate": "2023-10-06",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "두류역"
+    },
+    "text": "トゥリュヨク \\n\n頭流駅(Duryustation, 頭流駅)は大韓民国大邱広域市達西区達区伐大路に位置する大邱都市鉄道2号線の電車駅であり、大邱都市鉄道2号線を総括する大邱交通公社CS2本部が所在する駅だ。 近くに西部教育庁と達城高等学校、Eワールドがある。 現在、副役名で大邱キリスト病院が併記されている。\n",
+    "QA": [
+        {
+            "question": "頭流駅はどこに位置していますか？",
+            "answer": "頭流駅は大韓民国大邱広域市達西区達区伐大路に位置しています。"
+        },
+        {
+            "question": "頭流駅の近くにはどんな施設がありますか？",
+            "answer": "頭流駅の近くには西部教育庁、達城高等学校、Eワールドなどがあります。"
+        },
+        {
+            "question": "頭流駅には何の役所が所在していますか？",
+            "answer": "頭流駅には大邱交通公社CS2本部が所在しています。"
+        },
+        {
+            "question": "現在、頭流駅の副役名として何が併記されていますか？",
+            "answer": "現在、頭流駅の副役名として大邱キリスト病院が併記されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 115,
+        "QA": 146
+    }
+}

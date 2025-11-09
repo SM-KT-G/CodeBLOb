@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_032011",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2016-12-12",
+        "domain": "문화/역사관광",
+        "title": "春川駅（춘천역）"
+    },
+    "text": "春川駅\n江原道 春川市 平和路1 （槿花洞）\n春川駅は1939年7月25日にオープンしました。豊富な観光資源や、漫画祭り、国際マイム祭り、マッククス祭りなどの様々なお祭りやイベントが行われます。鉄道顧客センター：+82-1599-7777",
+    "QA": [
+        {
+            "question": "春川駅はいつオープンしましたか？",
+            "answer": "春川駅は1939年7月25日にオープンしました。"
+        },
+        {
+            "question": "春川市で行われるお祭りやイベントはありますか？",
+            "answer": "はい、春川市では様々なお祭りやイベントが行われます。漫画祭りや国際マイム祭り、マッククス祭りなどがあります。"
+        },
+        {
+            "question": "春川駅の連絡先は何ですか？",
+            "answer": "春川駅の連絡先は+82-1599-7777です。"
+        }
+    ],
+    "word_Count": {
+        "text": 87,
+        "QA": 112
+    }
+}

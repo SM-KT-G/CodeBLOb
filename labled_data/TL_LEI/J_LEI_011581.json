@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_LEI_011581",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2023-07-01",
+        "domain": "레포츠",
+        "title": "오리온스"
+    },
+    "text": "ウェルリヒルリパーク周辺では最も古いスキー/ボード専門レンタル店で宿泊(ペンション、民宿)予約など、顧客たちがスキー場を便利に利用することができるように助けている。*開業日-1995年10月1日*ウェルリヒルリパークまで約1分所要。",
+    "QA": [
+        {
+            "question": "ウェルリヒルリパーク周辺にある最も古いスキー/ボード専門レンタル店の開業日はいつですか？",
+            "answer": "1995年10月1日"
+        },
+        {
+            "question": "ウェルリヒルリパークまでの所要時間はどのくらいですか？",
+            "answer": "約1分"
+        },
+        {
+            "question": "ウェルリヒルリパーク周辺の宿泊施設はどのように顧客を助けていますか？",
+            "answer": "スキー場を便利に利用することができるように、スキー/ボード専門レンタル店や宿泊施設の予約を手伝っています。"
+        }
+    ],
+    "word_Count": {
+        "text": 85,
+        "QA": 125
+    }
+}

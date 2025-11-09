@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_016336",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101933",
+        "collectedDate": "2023-10-06",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "모전석탑"
+    },
+    "text": "模塼石塔\\n\n模塼石塔は石をレンガの形に整えて積み上げた石塔だ。 三国時代の仏教導入初期の木塔に続いて建てられ始めた。 最も古いのは慶州の芬皇寺の茅田石塔で、634年に建設された。 茅田石塔は韓国ならではの様式で、三国時代から朝鮮時代まで着実に製作されてきた。",
+    "QA": [
+        {
+            "question": "模塼石塔は何で作られていますか？",
+            "answer": "模塼石塔は石で作られています。"
+        },
+        {
+            "question": "模塼石塔はいつ建設されましたか？",
+            "answer": "最も古い模塼石塔は634年に建設されました。"
+        },
+        {
+            "question": "模塼石塔はどこにありますか？",
+            "answer": "模塼石塔は慶州の芬皇寺にあります。"
+        },
+        {
+            "question": "模塼石塔はどのような様式ですか？",
+            "answer": "模塼石塔は韓国ならではの様式です。"
+        },
+        {
+            "question": "模塼石塔はどの時代に製作されましたか？",
+            "answer": "模塼石塔は三国時代から朝鮮時代まで製作されました。"
+        }
+    ],
+    "word_Count": {
+        "text": 95,
+        "QA": 129
+    }
+}

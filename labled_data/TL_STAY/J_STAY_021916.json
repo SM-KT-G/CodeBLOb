@@ -1,0 +1,51 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_021916",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42080&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "고성 더솔펜션"
+    },
+    "text": "白島海水浴場の近くに位置する新築ペンションです。 入室は15:00から可能で、退室は11:00までです。 送迎サービスは提供しておりません。 バーベキューをご利用の場合は、炭とグリルを別々にご利用ください。 2~4人は20,000ウォン、5~6人は30,000ウォンで利用可能であり、時間は17時から22時までです。 バーベキュー場は共用で使用し、当日現地にて決済する必要があります。 Wi-Fiは無料で提供されます。 ペットは入室できません。 ペンションには駐車場もあります。 入室は15:00から、退室は11:00までです。",
+    "QA": [
+        {
+            "question": "ペンションの入室時間は何時からですか？",
+            "answer": "入室は15:00から可能です。"
+        },
+        {
+            "question": "ペンションの退室時間は何時までですか？",
+            "answer": "退室は11:00までです。"
+        },
+        {
+            "question": "バーベキューの利用料金はいくらですか？",
+            "answer": "2~4人は20,000ウォン、5~6人は30,000ウォンです。"
+        },
+        {
+            "question": "バーベキューの利用時間は何時から何時までですか？",
+            "answer": "バーベキューの利用時間は17時から22時までです。"
+        },
+        {
+            "question": "ペンションにはWi-Fiがありますか？",
+            "answer": "はい、無料でWi-Fiを提供しております。"
+        },
+        {
+            "question": "ペットを連れて入室できますか？",
+            "answer": "申し訳ありませんが、ペットは入室できません。"
+        },
+        {
+            "question": "ペンションには駐車場がありますか？",
+            "answer": "はい、ペンションには駐車場もあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 193,
+        "QA": 204
+    }
+}

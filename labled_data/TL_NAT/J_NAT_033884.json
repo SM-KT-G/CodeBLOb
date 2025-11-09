@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_033884",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=292&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=16&ccbaAsno=01760000&ccbaCtcd=21&ccbaCpno=1362101760000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1966-01-13",
+        "domain": "자연관광",
+        "title": "부산 범어사 등나무 군락"
+    },
+    "text": "コングヮに属する落葉ドングルソン植物の藤は紫の花を咲かせながら、春に育つ。移植のついた右で絡んで巻いて育ち、10m以上の大きさを持つ。韓国には赤ちゃんなどや藤、二種類が自生し、造景に多く使われる。特に、梵魚寺藤群落は、釜山(プサン)の梵魚寺の前の谷に位置する。梵魚寺は新羅の文武王の時に建てられたもので、様々な高僧の深い悟りを受けた地域だ。渓谷に育った500本余りの藤は松とエノキなどの大きな木を覆って上がって大きな岩の間に覆われている。ここは金井山景色の一部に挙げられる。藤らが集まって住んでいるこの谷は背雲谷とも呼ばれ、自生地は天然記念物に指定されて保護される。これは藤がこんなに群れをなして育つことが広まっていないため、生物学的研究に非常に重要な価値を持っているためだ。",
+    "QA": [
+        {
+            "question": "この地域に自生する藤の種類は何ですか？",
+            "answer": "この地域にはコングヮという落葉ドングルソン植物の藤と、藤の二種類が自生しています。"
+        },
+        {
+            "question": "梵魚寺藤群落は何本ほどの藤が育っているのですか？",
+            "answer": "梵魚寺藤群落には500本余りの藤が育っています。"
+        },
+        {
+            "question": "藤が自生している谷の名前は何ですか？",
+            "answer": "藤が集まって住んでいる谷は背雲谷と呼ばれています。"
+        },
+        {
+            "question": "藤が自生している谷の保護状況はどうなっていますか？",
+            "answer": "この谷は天然記念物に指定されて保護されています。"
+        },
+        {
+            "question": "藤が自生している谷の特別な価値は何ですか？",
+            "answer": "藤がこんなに群れをなして育つことが広まっていないため、生物学的研究に非常に重要な価値を持っています。"
+        }
+    ],
+    "word_Count": {
+        "text": 247,
+        "QA": 198
+    }
+}

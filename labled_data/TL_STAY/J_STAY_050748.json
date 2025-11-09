@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_050748",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42020&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "거제도 쏠라펜션"
+    },
+    "text": "こんにちは。コジェ島のソラペンションです。 コジェ島の美しい海を存分に楽しみながら、愛する人たちと幸せな時間を過ごしてみてください。 午前11時から午後3時までは客室清掃時間ですのでご了承ください。 退室時間を超えて客室内にお泊まりになる場合には、追加料金が発生することがありますので、ご注意ください。 18時以降に到着する際には事前にご連絡ください。",
+    "QA": [
+        {
+            "question": "Q: ソラペンションはどこにありますか？",
+            "answer": "A: ソラペンションはコジェ島にあります。"
+        },
+        {
+            "question": "Q: ソラペンションの清掃時間はいつですか？",
+            "answer": "A: ソラペンションの清掃時間は午前11時から午後3時です。"
+        },
+        {
+            "question": "Q: 退室時間を超える場合にはどうなりますか？",
+            "answer": "A: 退室時間を超えて客室内にお泊まりになる場合には、追加料金が発生することがありますので、ご注意ください。"
+        },
+        {
+            "question": "Q: 18時以降に到着する場合にはどうすればいいですか？",
+            "answer": "A: 18時以降に到着する際には事前にご連絡ください。"
+        }
+    ],
+    "word_Count": {
+        "text": 129,
+        "QA": 165
+    }
+}

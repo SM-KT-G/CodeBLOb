@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_092028",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1059&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=01410000&ccbaCtcd=35&ccbaCpno=3413501410000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1998-11-27",
+        "domain": "문화/역사관광",
+        "title": "옥산서원"
+    },
+    "text": "1948年から1987年まで再建された書院である玉山書院は、全羅北道文化財資料に指定されており、金南植(キム・ナムシク)とキムイソン、金聖恩(キム・ソンウン)の学問と徳行を称えるために建てられたところだ。玉山書院は、サウス、講堂、庫直舎、インイルチョンの霊堂とサムカンムンなど三領域に区分される。サウスは1956年に再び建てられたもので、金南植(キム・ナムシク)を祀っており、、左右にはキムイソンと金聖恩(キム・ソンウン)を祀っている。玉山精舎は正祖10年に改築したもので、1987年に復元された。インイルチョン霊堂は切妻屋根に、前面3間側面2間の規模で建てられた。サムカンムンは1948年に再び建てられたもので、、前面3間、側面2間の規模で、入母屋屋根形式で屋根が行われている。",
+    "QA": [
+        {
+            "question": "玉山書院は何年から何年まで再建されましたか？",
+            "answer": "1948年から1987年まで再建されました。"
+        },
+        {
+            "question": "玉山書院はどのような文化財資料に指定されていますか？",
+            "answer": "玉山書院は全羅北道文化財資料に指定されています。"
+        },
+        {
+            "question": "玉山書院は何のために建てられましたか？",
+            "answer": "玉山書院は金南植(キム・ナムシク)とキムイソン、金聖恩(キム・ソンウン)の学問と徳行を称えるために建てられました。"
+        },
+        {
+            "question": "玉山書院はどのように区分されていますか？",
+            "answer": "玉山書院はサウス、講堂、庫直舎、インイルチョンの霊堂とサムカンムンなど三領域に区分されています。"
+        },
+        {
+            "question": "玉山書院のサウスには何が祀られていますか？",
+            "answer": "サウスには金南植(キム・ナムシク)、キムイソン、および金聖恩(キム・ソンウン)が祀られています。"
+        }
+    ],
+    "word_Count": {
+        "text": 249,
+        "QA": 225
+    }
+}

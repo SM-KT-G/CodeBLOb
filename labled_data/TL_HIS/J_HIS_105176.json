@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_105176",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=692&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=05790000&ccbaCtcd=38&ccbaCpno=2113805790000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2015-06-11",
+        "domain": "문화/역사관광",
+        "title": "창원 성흥사 목조아미타여래삼존좌상"
+    },
+    "text": "昌原聖興寺木造三尊坐像\\n\n慶尚南道昌原市\\n\n慶尚南道有形文化財、昌原(チャンウォン)ソンフンサ木造阿弥陀如来三尊仏坐像はソンフンサ大雄殿に安置されている本尊仏上と左右の脇侍菩薩像だ。三尊仏はヨンファ台座の上に座っているのに、阿弥陀如来座像を中心に左右に軟化の枝を持った観音菩薩像と大勢至宝破壊だ。昌原(チャンウォン)ソンフンサ木造阿弥陀如来三尊仏坐像の顔表現と裾、服、しわなどは17世紀中葉に慶尚道地域を中心に活動したチョガクスンヒジャンが製作した仏像と非常に類似している。現在、服装発願文は残っていないが、様式的な特徴から分析できる製作時期と寄与した点で、1658年ごろヒジャンギェ作品である可能性が非常に高い。ヒジャンは梁山の通度寺と釜山(プサン)、梵魚寺をはじめ、慶尚道と全羅道地域に多くの作品を残した17世紀中葉ごろの最も代表的なチョガクスンだ。制作年代の把握が可能で、彫刻の技法が優秀な作品だ。",
+    "QA": [
+        {
+            "question": "寺の名前は何ですか？",
+            "answer": "聖興寺"
+        },
+        {
+            "question": "どの地域に聖興寺はありますか？",
+            "answer": "慶尚南道昌原市"
+        },
+        {
+            "question": "三尊坐像は何時代に作られましたか？",
+            "answer": "17世紀中葉"
+        },
+        {
+            "question": "誰が三尊坐像を製作しましたか？",
+            "answer": "チョガクスンヒジャン"
+        },
+        {
+            "question": "三尊坐像にはどのような仏像が含まれていますか？",
+            "answer": "阿弥陀如来、観音菩薩、大勢至菩薩"
+        }
+    ],
+    "word_Count": {
+        "text": 296,
+        "QA": 89
+    }
+}

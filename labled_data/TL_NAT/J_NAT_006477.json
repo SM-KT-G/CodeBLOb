@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_006477",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://apis.data.go.kr/1400000/service/cultureInfoService2/mntInfoOpenAPI2",
+        "collectedDate": "2023-11-22",
+        "publishedDate": "2020-12-01",
+        "domain": "자연관광",
+        "title": "금산"
+    },
+    "text": "金山 (금산)\\n\n全羅北道淳昌郡淳昌邑福実里\\n\n山の高さ : 433m , 順層邑淳和里と福実里に接している山で、淳昌邑跡の主山だ。 昔の記録によると、最初は秋山、錦山または錦山と記録されているが、それぞれその意味があって書かれたものと見られる。",
+    "QA": [
+        {
+            "question": "金山はどこに位置していますか？",
+            "answer": "金山は全羅北道淳昌郡淳昌邑福実里に位置しています。"
+        },
+        {
+            "question": "金山の高さは何メートルですか？",
+            "answer": "金山の高さは433メートルです。"
+        },
+        {
+            "question": "金山はどの里と接していますか？",
+            "answer": "金山は順層邑淳和里と福実里に接しています。"
+        },
+        {
+            "question": "金山の昔の名前は何でしたか？",
+            "answer": "金山の昔の名前は秋山、錦山または錦山と記録されていました。"
+        },
+        {
+            "question": "金山の名前の意味は何ですか？",
+            "answer": "金山の名前の意味は明示されていませんが、秋山、錦山という名前はそれぞれ特定の意味を持っていたと考えられます。"
+        }
+    ],
+    "word_Count": {
+        "text": 91,
+        "QA": 159
+    }
+}

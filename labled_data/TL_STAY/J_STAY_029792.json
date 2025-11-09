@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_029792",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42011&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "강화도 태그하우스펜션"
+    },
+    "text": "夕暮れ時の海を鑑賞することができる赤い夕焼けを眺めることができるスパ保有ペンションです。 特異事項ではペットの同伴入室は不可能であり、最大人数を超過入室した場合、退室措置及び払い戻しはできません。 また、保護者同伴なしの未成年者の入室は不可能であり、同性の場合のみ可能です。",
+    "QA": [
+        {
+            "question": "このスパはどのような特徴がありますか？",
+            "answer": "夕暮れ時の海を鑑賞することができる赤い夕焼けを眺めることができるスパ保有ペンションです。"
+        },
+        {
+            "question": "ペットを連れて入室することはできますか？",
+            "answer": "ペットの同伴入室は不可能です。"
+        },
+        {
+            "question": "最大人数を超過して入室した場合、どうなりますか？",
+            "answer": "退室措置及び払い戻しはできません。"
+        },
+        {
+            "question": "未成年者が保護者なしで入室することは可能ですか？",
+            "answer": "保護者同伴なしの未成年者の入室は不可能です。"
+        },
+        {
+            "question": "同性の未成年者同士で入室することは可能ですか？",
+            "answer": "同性の場合のみ可能です。"
+        }
+    ],
+    "word_Count": {
+        "text": 100,
+        "QA": 161
+    }
+}

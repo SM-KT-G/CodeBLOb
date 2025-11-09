@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_109703",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=10&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=11&ccbaAsno=01160000&ccbaCtcd=11&ccbaCpno=1111101160000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1962-12-20",
+        "domain": "문화/역사관광",
+        "title": "청자 상감모란문 표주박모양 주전자"
+    },
+    "text": "青磁象嵌牡丹門ひょうたん形のやかん\\n\nソウル特別市龍山区西氷庫路137(龍山洞6街、ジャン·ジャン)\\n\n高麗時代(12世紀)、国宝、12世紀中葉の高麗時代青磁やかんで高麗磁器の中でしばしば確認されるひょうたんの形をしている。水を伴うくちばしと取っ手を備えており、大きさは高さ34.4センチ、口直径2センチ、ベジルム16センチ、ミッジルム9.7センチだ。洗練された流線型の形に完璧な比例の美しさまで添え、調和させたこの作品は首の上部に白黒の象眼で雲とハクムヌィを描いた。くびれた首はゴールが負うよう掘れていてしわが畳まれているような形をなしている。病気の下の部分、胴体には満開した牡丹と皮脂ない蕾、葉たちがしっかりしたまま、全体を飾っている。容器の形や釉薬の色でみると、線が非常に優雅ながらも安定感を与え、忍耐した光を浮かべていて、高麗人の造形性を遺憾なく見せつけている。",
+    "QA": [
+        {
+            "question": "このやかんは何時代の作品ですか？",
+            "answer": "このやかんは高麗時代の作品です。"
+        },
+        {
+            "question": "やかんの大きさはどのくらいですか？",
+            "answer": "やかんの大きさは高さ34.4センチ、口直径2センチ、ベジルム16センチ、ミッジルム9.7センチです。"
+        },
+        {
+            "question": "やかんの形状は何を模していますか？",
+            "answer": "やかんの形状はひょうたんを模しています。"
+        },
+        {
+            "question": "やかんに描かれている模様は何ですか？",
+            "answer": "やかんには首の上部に白黒の象眼で雲とハクムヌィが描かれています。"
+        },
+        {
+            "question": "やかんの下部には何が描かれていますか？",
+            "answer": "やかんの下部には満開した牡丹と皮脂ない蕾、葉たちが描かれています。"
+        }
+    ],
+    "word_Count": {
+        "text": 283,
+        "QA": 174
+    }
+}

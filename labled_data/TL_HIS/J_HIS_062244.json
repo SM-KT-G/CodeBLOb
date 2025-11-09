@@ -1,0 +1,51 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_062244",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/view?relicId=4255",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "동제 젓가락"
+    },
+    "text": "銅製の箸 (동제 젓가락)\\n\n取る部分に行くほど先端が細くなり断面が四角形であり、柄の先端には小さな輪でつながっている高麗時代の箸だ。 、国籍/時代:「韓国 - 高麗」、材質:「金属 - 銅合金」、分類:「食生活 - 食器 - 食べ物 - 箸」、サイズ:「高さ23.6cm」",
+    "QA": [
+        {
+            "question": "箸の材質は何ですか？",
+            "answer": "銅合金です。"
+        },
+        {
+            "question": "箸の長さは何センチですか？",
+            "answer": "高さ23.6cmです。"
+        },
+        {
+            "question": "箸の形状はどうなっていますか？",
+            "answer": "取る部分に行くほど先端が細くなり断面が四角形です。"
+        },
+        {
+            "question": "箸の先端には何がついていますか？",
+            "answer": "小さな輪でつながっています。"
+        },
+        {
+            "question": "この箸はどの時代のものですか？",
+            "answer": "高麗時代の箸です。"
+        },
+        {
+            "question": "この箸はどこの国のものですか？",
+            "answer": "韓国の箸です。"
+        },
+        {
+            "question": "箸はどのように使いますか？",
+            "answer": "箸を持ち、食べ物を掴むようにして使います。"
+        }
+    ],
+    "word_Count": {
+        "text": 101,
+        "QA": 139
+    }
+}

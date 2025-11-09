@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_020013",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.goodchoice.kr/product/detail?ano=59658&adcno=1&sel_date=2023-11-07&sel_date2=2023-11-08",
+        "collectedDate": "2023-11-15",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "신진도 제이드리조텔"
+    },
+    "text": "当ジェイドリゾテルは広い屋外駐車場を保有しております。 乗用車からバスまで十分駐車できますので、安心してご利用ください。 当ホテルは計40台の駐車施設を保有しています。 客室の内部施設としては、全室にTV、ヘアドライヤー、エアコン、冷蔵庫、電気ケトルが備えられています。 また、全客室にIPTVの設置が完了しており、一部の客室にはバスタブもあります。 無料でNetflixをご覧いただけます。",
+    "QA": [
+        {
+            "question": "ジェイドリゾテルはどのくらいの駐車場を保有していますか？",
+            "answer": "ジェイドリゾテルは計40台の駐車施設を保有しています。"
+        },
+        {
+            "question": "客室の内部施設は何が備えられていますか？",
+            "answer": "全室にTV、ヘアドライヤー、エアコン、冷蔵庫、電気ケトルが備えられています。"
+        },
+        {
+            "question": "IPTVはどの客室に設置されていますか？",
+            "answer": "全客室にIPTVの設置が完了しており、一部の客室にはバスタブもあります。"
+        },
+        {
+            "question": "無料で視聴できる動画配信サービスはありますか？",
+            "answer": "無料でNetflixをご覧いただけます。"
+        }
+    ],
+    "word_Count": {
+        "text": 143,
+        "QA": 155
+    }
+}

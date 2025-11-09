@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_011626",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101933",
+        "collectedDate": "2023-10-06",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "파스타"
+    },
+    "text": "パスタ \nハスタはイタリアの小麦食品である。デュラムミル·セモラーに水を混ぜたり、小麦粉に卵を混ぜて膨らませずに反対器を作って麺などの形で作った料理で、煮たり焼いて食べる。イタリアの主食であり、国民食の一つと考えられている。\n",
+    "QA": [
+        {
+            "question": "パスタはどのように作られますか？",
+            "answer": "パスタはデュラムミル・セモリナに水や卵を混ぜて作られます。その後、麺などの形にして煮たり焼いたりして食べます。"
+        },
+        {
+            "question": "パスタはイタリアの主食ですか？",
+            "answer": "はい、パスタはイタリアの主食の一つと考えられています。"
+        },
+        {
+            "question": "パスタは何で作られていますか？",
+            "answer": "パスタは小麦粉やデュラムミル・セモリナ、水、卵を使用して作られます。"
+        },
+        {
+            "question": "パスタはどのように調理されますか？",
+            "answer": "パスタは一般的に煮たり焼いたりして調理されます。イタリア料理では様々なソースと組み合わせて提供されることが一般的です。"
+        }
+    ],
+    "word_Count": {
+        "text": 82,
+        "QA": 174
+    }
+}

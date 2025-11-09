@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001895",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "Miss Lee BURGER ( 미쓰리햄버거 )"
+    },
+    "text": "Miss Lee BURGER ( 미쓰리햄버거 )\n京畿道 ピョンテク市 ショピンロ33\n様々な種類のハンバーガーが味わえる店です。代表的なメニューはハンバーガーです。京畿道のピョンテク市に位置した洋食専門店です。",
+    "QA": [
+        {
+            "question": "ミスリーバーガーの場所はどこですか？",
+            "answer": "ミスリーバーガーは京畿道のピョンテク市に位置しています。"
+        },
+        {
+            "question": "ミスリーバーガーの代表的なメニューは何ですか？",
+            "answer": "ミスリーバーガーの代表的なメニューはハンバーガーです。"
+        },
+        {
+            "question": "ミスリーバーガーで何種類のハンバーガーがありますか？",
+            "answer": "ミスリーバーガーではさまざまな種類のハンバーガーがあります。"
+        },
+        {
+            "question": "ミスリーバーガーの住所は何ですか？",
+            "answer": "ミスリーバーガーの住所は京畿道ピョンテク市ショピンロ33です。"
+        },
+        {
+            "question": "ミスリーバーガーの特徴は何ですか？",
+            "answer": "ミスリーバーガーは洋食専門店で、様々な種類のハンバーガーが味わえるのが特徴です。"
+        }
+    ],
+    "word_Count": {
+        "text": 79,
+        "QA": 188
+    }
+}

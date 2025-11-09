@@ -1,0 +1,59 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_054882",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42090&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "서귀포 파밀리아 운영 정책"
+    },
+    "text": "チェックイン時間は15:00以降で、チェックアウト時間は11:00以前です。 追加人数がいる場合、1人当たり10,000ウォンの現地決済が必要で、寝具を追加する場合には20,000ウォンを当日現地にて決済してください。 朝食(American Breakfast, ABF)はお一人様5,000ウォンで当日現地にてお支払いいただけます。 朝食時間は08:00から09:30までです。 無料駐車及び無料Wi-Fiを提供し、歯ブラシ及び歯磨き粉も提供します。",
+    "QA": [
+        {
+            "question": "チェックイン時間は何時ですか？",
+            "answer": "チェックイン時間は15:00以降です。"
+        },
+        {
+            "question": "チェックアウト時間は何時ですか？",
+            "answer": "チェックアウト時間は11:00以前です。"
+        },
+        {
+            "question": "追加人数の料金はいくらですか？",
+            "answer": "追加人数がいる場合、1人当たり10,000ウォンの現地決済が必要です。"
+        },
+        {
+            "question": "寝具を追加する場合の料金はいくらですか？",
+            "answer": "寝具を追加する場合には20,000ウォンを当日現地にて決済してください。"
+        },
+        {
+            "question": "朝食の料金はいくらですか？",
+            "answer": "朝食(American Breakfast, ABF)はお一人様5,000ウォンで当日現地にてお支払いいただけます。"
+        },
+        {
+            "question": "朝食の提供時間は何時から何時までですか？",
+            "answer": "朝食時間は08:00から09:30までです。"
+        },
+        {
+            "question": "駐車場は無料ですか？",
+            "answer": "はい、無料で駐車場をご利用いただけます。"
+        },
+        {
+            "question": "Wi-Fiは無料ですか？",
+            "answer": "はい、無料でWi-Fiを提供しています。"
+        },
+        {
+            "question": "歯ブラシと歯磨き粉は提供してもらえますか？",
+            "answer": "はい、歯ブラシ及び歯磨き粉も提供しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 166,
+        "QA": 288
+    }
+}

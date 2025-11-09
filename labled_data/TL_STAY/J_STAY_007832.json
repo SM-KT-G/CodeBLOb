@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_007832",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42020&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "사천 BEE 드라이브인 무인텔 운영 정책"
+    },
+    "text": "チェックインは15:00から可能で、チェックアウトは12:00までです。 入室時間や利用時間のご案内です。 また、予約したお客様には複数の特典があります。 駐車場は広く設けられており、客室内にはパソコンが用意されています。 ホテル内ではシネホテルが利用でき、最新の設備を備えています。 カラオケ施設も利用可能で、基本的に2時間利用すると20,000ウォンが請求されます。",
+    "QA": [
+        {
+            "question": "チェックインとチェックアウトの時間は何時ですか？",
+            "answer": "チェックインは15:00から可能で、チェックアウトは12:00までです。"
+        },
+        {
+            "question": "お部屋にはパソコンがありますか？",
+            "answer": "はい、お部屋にはパソコンが用意されています。"
+        },
+        {
+            "question": "駐車場はありますか？",
+            "answer": "はい、駐車場は広く設けられています。"
+        },
+        {
+            "question": "ホテル内にカラオケ施設がありますか？",
+            "answer": "はい、ホテル内にはカラオケ施設があります。基本的に2時間利用すると20,000ウォンが請求されます。"
+        }
+    ],
+    "word_Count": {
+        "text": 135,
+        "QA": 142
+    }
+}

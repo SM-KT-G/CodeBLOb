@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_092752",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/view?relicId=35834726",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2023-10-11",
+        "domain": "문화/역사관광",
+        "title": "용도미상 청동제품"
+    },
+    "text": "用途不詳 青銅製品 (용도미상 청동제품)\\n\n国籍や時代は不明ですが、この作品は韓国のものとされています。素材は青銅でできており、用途は不明です。サイズは高さ9.5cm、直径34.0cmであり、もう一つの部分は高さ3.7cm、直径20.8cmです。穴の直径はそれぞれ6.0cmと6.6cmです。",
+    "QA": [
+        {
+            "question": "この青銅製品は何で作られていますか？",
+            "answer": "この青銅製品は青銅で作られています。"
+        },
+        {
+            "question": "この青銅製品の国籍や時代は分かりますか？",
+            "answer": "この青銅製品の国籍や時代は不明です。"
+        },
+        {
+            "question": "この青銅製品はどのような用途があるのでしょうか？",
+            "answer": "この青銅製品の用途は不明です。"
+        },
+        {
+            "question": "この青銅製品のサイズはどのくらいですか？",
+            "answer": "この青銅製品のサイズは高さ9.5cm、直径34.0cmであり、もう一つの部分は高さ3.7cm、直径20.8cmです。"
+        },
+        {
+            "question": "この青銅製品にはどんな穴がありますか？",
+            "answer": "この青銅製品には穴の直径がそれぞれ6.0cmと6.6cmのものがあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 108,
+        "QA": 181
+    }
+}

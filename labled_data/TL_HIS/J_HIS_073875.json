@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_073875",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=195&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=18450000&ccbaCtcd=34&ccbaCpno=1123418450000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2014-12-31",
+        "domain": "문화/역사관광",
+        "title": "부여 사택지적비"
+    },
+    "text": "百済時代、宝物、扶余私宅指摘費は百済椅子、王の人物である対ジュワピョンサテクジジョクが引退後寺を建てたことを記念して作った遺物で、碑石の形を備えており、百済人によって製作された唯一の遺物だ。サテクジジョクは、大成八足の一つであるサテクシの出身で、\"日本書紀\"で対ジュワピョンの地位で倭国に使者に派遣された事実が確認される。したがって、寺院の建物とタプサンを造成し、刻んだ碑石は文化的・歴史的価値が非常に高い。この碑石は百済時代後期の貴族たちの人生と思想を理解して百済官等を理解するうえで貴重な資料である。しかも格調高い文体と書法は百済の水準の高い文化をよく示している。",
+    "QA": [
+        {
+            "question": "百済時代の宝物は何ですか？",
+            "answer": "百済時代の宝物は扶余私宅指摘費（ふよされいたくしてきひ）です。"
+        },
+        {
+            "question": "百済椅子とは何ですか？",
+            "answer": "百済椅子（くだらい）は百済時代の王の人物、対ジュワピョンサテクジジョクが引退後に建てた寺を記念して作られた遺物です。"
+        },
+        {
+            "question": "扶余私宅指摘費はどのような形をしていますか？",
+            "answer": "扶余私宅指摘費は碑石の形をしており、百済人によって製作された唯一の遺物です。"
+        },
+        {
+            "question": "対ジュワピョンサテクジジョクはどのような人物ですか？",
+            "answer": "対ジュワピョンサテクジジョクは大成八足の一つであるサテクシの出身で、百済の使者として倭国に派遣されたことが記録されています。"
+        },
+        {
+            "question": "扶余私宅指摘費の文化的・歴史的価値は何ですか？",
+            "answer": "扶余私宅指摘費は百済時代後期の貴族たちの人生と思想を理解するうえで貴重な資料であり、百済の文化の高さを示す格調高い文体と書法を持っています。"
+        }
+    ],
+    "word_Count": {
+        "text": 208,
+        "QA": 259
+    }
+}

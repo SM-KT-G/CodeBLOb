@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_019401",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=59&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=03560000&ccbaCtcd=34&ccbaCpno=1123403560000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1963-01-21",
+        "domain": "문화/역사관광",
+        "title": "부여 무량사 극락전"
+    },
+    "text": "扶余·無量寺極楽殿 (부여 무량사 극락전)\\n\n忠清南道扶余郡外山面無量路203、無量寺(マンスリー)\\n\n朝鮮時代中期 , 宝物 , 無量寺は新羅末期に凡一が建て、何度も工事を経たが、詳しい年代は伝わらない。 ただ、新羅末の高僧·無塩大師が一時滞在し、高麗時代に大きく建て直し、キム·シソプがこの寺で晩年を過ごして世を去ったという。 この建物は韓国ではそれほど珍しい2階建ての仏殿で、無量寺の中心建物だ。 外観上は2階だが、内部では下·上階が区分されずに一つに開けている。 下の階の平面は前面5間·側面4間で柱の間を分けておいたが、柱は非常に高いものを使用した。 上の階は下の階に立てた高い柱がそのまま延長され、4面の壁面柱を形成している。 元々はそのわずかな低い壁面に光を受け入れるための窓を設置していたが、今は木版の壁で塞がれている。 三尊像を祀っているこの仏殿は、朝鮮中期の様式的特徴をよく表した仏教建築として重要な価値を持つ優秀な建物である。",
+    "QA": [
+        {
+            "question": "この極楽殿はどこに位置していますか？",
+            "answer": "無量寺は忠清南道扶余郡外山面無量路203に位置しています。"
+        },
+        {
+            "question": "無量寺はいつ建てられましたか？",
+            "answer": "詳しい年代は伝わっていませんが、無量寺は新羅末期に凡一によって建てられ、高麗時代に大きく建て直されました。"
+        },
+        {
+            "question": "無量寺はどのような特徴がありますか？",
+            "answer": "無量寺は2階建ての仏殿で、外観上は2階ですが内部では下・上階が区分されずに一つに開けています。また、朝鮮中期の様式的特徴をよく表しており、重要な価値を持つ建物です。"
+        },
+        {
+            "question": "無量寺には何が祀られていますか？",
+            "answer": "無量寺の仏殿には三尊像が祀られています。"
+        },
+        {
+            "question": "無量寺はどのような歴史的な人物と関係がありますか？",
+            "answer": "無量寺には新羅末の高僧・無塩大師やキム・シソプが関わっており、特にキム・シソプはこの寺で晩年を過ごしました。"
+        }
+    ],
+    "word_Count": {
+        "text": 313,
+        "QA": 242
+    }
+}

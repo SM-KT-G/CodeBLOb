@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_009437",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-09-01",
+        "domain": "음식점",
+        "title": "ダクコブセ（닭곱새）"
+    },
+    "text": "ダクコブセ（닭곱새）\\n\nソウル特別市 鐘路区 鐘路5キル 7\\n\nソウル特別市チョンガク駅の近くに位置した韓国料理店です。代表的なメニューは鶏肉と海老入りコプチャンの寄せ鍋です。鶏肉、ホルモン、エビをピリ辛タレで炒めて食べるお店です。",
+    "QA": [
+        {
+            "question": "このレストランの名前は何ですか？",
+            "answer": "ダクコブセ（닭곱새）です。"
+        },
+        {
+            "question": "このレストランはどこにありますか？",
+            "answer": "ソウル特別市 鐘路区 鐘路5キル 7に位置しています。"
+        },
+        {
+            "question": "このレストランの代表的なメニューは何ですか？",
+            "answer": "鶏肉と海老入りコプチャンの寄せ鍋が代表的なメニューです。"
+        },
+        {
+            "question": "このレストランではどんな料理を提供していますか？",
+            "answer": "鶏肉、ホルモン、エビをピリ辛タレで炒めた料理を提供しています。"
+        },
+        {
+            "question": "このレストランはどの駅の近くにありますか？",
+            "answer": "ソウル特別市チョンガク駅の近くに位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 86,
+        "QA": 163
+    }
+}

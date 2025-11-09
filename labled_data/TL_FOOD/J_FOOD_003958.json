@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_003958",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-05",
+        "domain": "음식점",
+        "title": "お好み ( 오코노미 )"
+    },
+    "text": "お好み ( 오코노미 )\\n\nソウル特別市 恩平区 ヨンソロ29ギル7\\n\n日本式の鉄板料理専門店です。おすすめはお好み焼きです。ソウル特別市のウンピョン区に位置した和食専門店です。",
+    "QA": [
+        {
+            "question": "お好み焼きのお店、お好みはどのような料理ですか？",
+            "answer": "お好み焼きがおすすめです。"
+        },
+        {
+            "question": "お好み焼きのお店の場所はどこですか？",
+            "answer": "ソウル特別市の恩平区ヨンソロ29ギル7に位置しています。"
+        },
+        {
+            "question": "お好み焼きのお店は何を専門としていますか？",
+            "answer": "日本式の鉄板料理を専門としています。"
+        },
+        {
+            "question": "お好み焼きのお店の名前は何ですか？",
+            "answer": "お好み ( 오코노미 )です。"
+        },
+        {
+            "question": "お好み焼きのお店はどんな雰囲気ですか？",
+            "answer": "和食専門店であり、落ち着いた雰囲気です。"
+        }
+    ],
+    "word_Count": {
+        "text": 66,
+        "QA": 141
+    }
+}

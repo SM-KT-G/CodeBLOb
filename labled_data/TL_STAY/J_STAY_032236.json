@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_032236",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42041&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "광주 하운드 호텔 충장점(구. 광주워싱턴호텔)"
+    },
+    "text": "2021年7月に新築されたBusiness Hotelとして、当(株)光州ワシントンホテルは光州市内の重点に位置しています。 ACC国立アジア文化殿堂と陽林洞ペンギン村は徒歩10分の距離にありアクセスが非常に良いです。 当ホテルは、様々な客室タイプと展望の良いビュー、最高級の寝具などを備えており、ビジネス出張で来られる方だけでなく、家族と一緒に訪れるお客様に特別な経験をお届けしたいと考えています。 また、朝食(韓国料理ビュッフェ)は無料で提供され、お客様に便宜を提供しています。 当ホテルは常に親切なサービスでお客様にお応えしようと努力しています。",
+    "QA": [
+        {
+            "question": "当ホテルはいつオープンしましたか？",
+            "answer": "当ホテルは2021年7月にオープンしました。"
+        },
+        {
+            "question": "当ホテルの立地はどのようになっていますか？",
+            "answer": "当ホテルは光州市内の重点に位置しています。"
+        },
+        {
+            "question": "ACC国立アジア文化殿堂と陽林洞ペンギン村はどのくらいの距離ですか？",
+            "answer": "ACC国立アジア文化殿堂と陽林洞ペンギン村は徒歩10分の距離です。"
+        },
+        {
+            "question": "当ホテルはどのような客室タイプを提供していますか？",
+            "answer": "当ホテルは様々な客室タイプを提供しています。"
+        },
+        {
+            "question": "朝食は無料で提供されますか？",
+            "answer": "はい、朝食は無料で提供されます。"
+        },
+        {
+            "question": "当ホテルはどのようなサービスを提供していますか？",
+            "answer": "当ホテルは常に親切なサービスを提供しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 202,
+        "QA": 199
+    }
+}

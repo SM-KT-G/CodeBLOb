@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_063350",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2023-08-02",
+        "domain": "음식점",
+        "title": "남항횟집"
+    },
+    "text": "南港刺身屋 (남항횟집)\\n\n釜山広域市機張郡機張邑機張海岸路572\\n\n南港刺身屋は放送でも紹介されています。このお店は30年以上の伝統を誇り、天然のカルメ焼き、カルメ刺身0、穴子の刺身を専門としています。",
+    "QA": [
+        {
+            "question": "南港刺身屋の場所はどこですか？",
+            "answer": "南港刺身屋は釜山広域市機張郡機張邑機張海岸路572にあります。"
+        },
+        {
+            "question": "南港刺身屋の歴史は何年以上ですか？",
+            "answer": "南港刺身屋は30年以上の伝統を誇っています。"
+        },
+        {
+            "question": "南港刺身屋の専門料理は何ですか？",
+            "answer": "南港刺身屋の専門料理は天然のカルメ焼き、カルメ刺身、穴子の刺身です。"
+        },
+        {
+            "question": "南港刺身屋は放送で紹介されたことがありますか？",
+            "answer": "はい、南港刺身屋は放送でも紹介されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 76,
+        "QA": 132
+    }
+}

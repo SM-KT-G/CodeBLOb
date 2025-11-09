@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_080518",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/collectionList#######",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2023-10-11",
+        "domain": "문화/역사관광",
+        "title": "서안1"
+    },
+    "text": "西岸 (서안)\\n\n国籍と時代: 韓国の作品で、制作時期は明らかではありません。 材質: この家具は「血の木」という種類の木材を使用しています。 作家: 作者は正確にはわかっていません。 分類: この家具は主に生活用品や家電を収納するための家具で、西岸地域のスタイルに分類されます。 大きさ: 高さ345cm、長さ770cm、幅325cmの大きなサイズです。",
+    "QA": [
+        {
+            "question": "この家具の制作時期は何時ですか？",
+            "answer": "制作時期は明らかではありません。"
+        },
+        {
+            "question": "この家具の材質は何ですか？",
+            "answer": "この家具は「血の木」という種類の木材を使用しています。"
+        },
+        {
+            "question": "この家具の作家は誰ですか？",
+            "answer": "作者は正確にはわかっていません。"
+        },
+        {
+            "question": "この家具の大きさは何ですか？",
+            "answer": "高さ345cm、長さ770cm、幅325cmの大きなサイズです。"
+        },
+        {
+            "question": "この家具はどのような分類に入りますか？",
+            "answer": "この家具は主に生活用品や家電を収納するための家具で、西岸地域のスタイルに分類されます。"
+        }
+    ],
+    "word_Count": {
+        "text": 131,
+        "QA": 153
+    }
+}

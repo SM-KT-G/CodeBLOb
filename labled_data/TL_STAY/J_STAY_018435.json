@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_018435",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.goodchoice.kr/product/detail?ano=1053&adcno=1&sel_date=2023-11-07&sel_date2=2023-11-08",
+        "collectedDate": "2023-11-15",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "천안 도쿄호텔"
+    },
+    "text": "客室駐車は計50台、駐車施設を保有しています。 鳳鳴駅と双龍駅が近くにあります。 客室内部にはNetflixが設置されています。 高仕様のPCやバトルグラウンドレベルのゲームを楽しめるゲームも可能です。 東京ホテルではNetflix、ディズニー+、YouTube、ワッチャ、ティービングを全客室で提供しています。 ロビー施設にはコーヒーマシン、氷冷蔵庫、ミネラルウォーター冷蔵庫があります。",
+    "QA": [
+        {
+            "question": "客室駐車は何台ありますか？",
+            "answer": "計50台の駐車スペースがあります。"
+        },
+        {
+            "question": "近くにある駅はどこですか？",
+            "answer": "近くには鳳鳴駅と双龍駅があります。"
+        },
+        {
+            "question": "客室内にはどのようなサービスがありますか？",
+            "answer": "客室内にはNetflixが設置されています。高仕様のPCやバトルグラウンドレベルのゲームも楽しめます。"
+        },
+        {
+            "question": "東京ホテルではどのようなストリーミングサービスを提供していますか？",
+            "answer": "東京ホテルでは全客室でNetflix、ディズニー+、YouTube、ワッチャ、ティービングを提供しています。"
+        },
+        {
+            "question": "ロビー施設には何がありますか？",
+            "answer": "ロビー施設にはコーヒーマシン、氷冷蔵庫、ミネラルウォーター冷蔵庫があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 143,
+        "QA": 199
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_050626",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=382&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=00190000&ccbaCtcd=11&ccbaCpno=2111100190000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1974-01-15",
+        "domain": "문화/역사관광",
+        "title": "경희궁 흥화문"
+    },
+    "text": "慶熙宮興化門\\n\nソウル特別市鍾路区セムンアン路55(シンムンロ2街、シェル·ジャン)\\n\n1616(光海君8年)、ソウル特別市有形文化財、光海君8年(1616)に建てられた慶熙宮の正門だ。しかし、日帝は、京城中学校を建設しようと宮内の多くの殿閣を壊し、その機能を喪失した。その後、日本による植民地は1932年南山の裾に二等博聞(伊藤博文)に向けた祠である博文寺(博文寺)を建立する時に正門として使用した。解放後博聞社は廃寺となって興化門(フンファムンは迎賓館(迎賓館)及び新羅ホテルの正門として使われたりもした。1988年ソウル市は、慶熙宮復元計画の一環として興化門(フンファムンを現在の場所に移転復元した。しかし、元の席は動向を見て配置したとはいえ、その位置は現在見つけるのが難しい。正面3間、側面2間の寄棟屋根のダポ様式の建物に、正殿の崇政殿、黄鶴亭とともに、建築的性格を理解する上で重要な資料である。",
+    "QA": [
+        {
+            "question": "この建物は何のために建てられましたか？",
+            "answer": "慶熙宮の正門として建てられました。"
+        },
+        {
+            "question": "この建物はいつ建てられましたか？",
+            "answer": "光海君8年(1616)に建てられました。"
+        },
+        {
+            "question": "なぜこの建物は移動され復元されましたか？",
+            "answer": "慶熙宮復元計画の一環として、ソウル市が移動・復元しました。"
+        },
+        {
+            "question": "この建物はどのような建築様式ですか？",
+            "answer": "寄棟屋根のダポ様式です。"
+        },
+        {
+            "question": "この建物の位置はどこですか？",
+            "answer": "現在の場所に移転されましたが、元の位置は現在見つけるのが難しいです。"
+        }
+    ],
+    "word_Count": {
+        "text": 296,
+        "QA": 145
+    }
+}

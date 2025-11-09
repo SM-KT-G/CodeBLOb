@@ -1,0 +1,51 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_044137",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=768&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=00090000&ccbaCtcd=38&ccbaCpno=2333800090000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1974-02-16",
+        "domain": "문화/역사관광",
+        "title": "거제 사등성"
+    },
+    "text": "巨済四等星\\n\n慶尚南道巨済市沙等面沙等里2300番地\\n\n朝鮮時代、慶尚南道記念物、サドゥンソンは慶尚南道巨済市沙登面沙登里平地の野原に石で築いた城で、周囲986m、高さ6.1mだ。『朝鮮王朝実録』によると高麗の原種12年(1271)日本の侵入と巨済(コジェ)道民が晋州・居昌(コチャン)方面に避難した時、水月里で木の垣根を張って生活したが、世宗4年(1422)になど里に官衙を移して城を築いたという。その後、城が狭くて水が不足してコヒョンソンに官衙を移転する前まで巨済(コジェ)邑城で使われた。城壁には''山陰(山陰)''、''謹んで(三加)''、''賞(裳)''などの文字が刻まれた石材があり、東・西・南・北の聞いたのには城門を保護するために築いた鉤状の甕城が設置されている。城壁の周りには隣接した野原より20m幅で低く溝を掘って誠意の守備を強化した。",
+    "QA": [
+        {
+            "question": "サドゥンソンはどの時代に建てられましたか？",
+            "answer": "サドゥンソンは朝鮮時代に建てられました。"
+        },
+        {
+            "question": "サドゥンソンの周囲の長さは何メートルですか？",
+            "answer": "サドゥンソンの周囲の長さは986メートルです。"
+        },
+        {
+            "question": "サドゥンソンの高さは何メートルですか？",
+            "answer": "サドゥンソンの高さは6.1メートルです。"
+        },
+        {
+            "question": "サドゥンソンはどのような材料で築かれましたか？",
+            "answer": "サドゥンソンは石で築かれました。"
+        },
+        {
+            "question": "サドゥンソンはなぜ築かれましたか？",
+            "answer": "サドゥンソンは巨済(コジェ)邑城として使われるために築かれました。"
+        },
+        {
+            "question": "サドゥンソンの周りにはどのような甕城が設置されていますか？",
+            "answer": "サドゥンソンの周りには鉤状の甕城が設置されています。"
+        },
+        {
+            "question": "サドゥンソンの周りには何が掘られていますか？",
+            "answer": "サドゥンソンの周りには低い溝が掘られています。"
+        }
+    ],
+    "word_Count": {
+        "text": 277,
+        "QA": 230
+    }
+}

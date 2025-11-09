@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_004752",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-03",
+        "domain": "음식점",
+        "title": "カルビ家 ( 갈비가 )"
+    },
+    "text": "カルビ家 ( 갈비가 )\\n\nソウル特別市 ヨンドゥンポ区 ダンサンロ32ギル11\\n\n韓国式BBQが味わえる店です。おすすめは韓牛ロースです。ソウル特別市のヨンドゥンポ区に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "カルビ家はどこに位置していますか？",
+            "answer": "カルビ家はソウル特別市のヨンドゥンポ区に位置しています。"
+        },
+        {
+            "question": "カルビ家のおすすめメニューは何ですか？",
+            "answer": "カルビ家のおすすめは韓牛ロースです。"
+        },
+        {
+            "question": "カルビ家の特徴は何ですか？",
+            "answer": "カルビ家は韓国式BBQが味わえる店で、韓食専門店です。"
+        }
+    ],
+    "word_Count": {
+        "text": 72,
+        "QA": 89
+    }
+}

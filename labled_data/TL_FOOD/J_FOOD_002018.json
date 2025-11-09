@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_002018",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-06",
+        "domain": "음식점",
+        "title": "POPOLARITA ( 포폴라리타 )"
+    },
+    "text": "POPOLARITA ( 포폴라리타 )\\n\nソウル特別市 瑞草区 サピョンデロ22ギル41\\n\nソレ村初のイタリアンレストランです。代表的なメニューはパスタです。ソウル特別市のソチョ区に位置した洋食専門店です。",
+    "QA": [
+        {
+            "question": "ポポラリタはどこにありますか？",
+            "answer": "ポポラリタはソウル特別市瑞草区サピョンデロ22ギル41にあります。"
+        },
+        {
+            "question": "ポポラリタの代表的なメニューは何ですか？",
+            "answer": "ポポラリタの代表的なメニューはパスタです。"
+        },
+        {
+            "question": "ポポラリタはどのようなレストランですか？",
+            "answer": "ポポラリタはソウル特別市のソチョ区に位置した洋食専門店です。"
+        }
+    ],
+    "word_Count": {
+        "text": 77,
+        "QA": 101
+    }
+}

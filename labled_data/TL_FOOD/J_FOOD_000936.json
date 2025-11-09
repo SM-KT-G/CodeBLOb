@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_000936",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-16",
+        "domain": "음식점",
+        "title": "1975ヨンゲ素麺theロース( 1975영계국수The등심 )"
+    },
+    "text": "1975ヨンゲ素麺theロース\\n\n江原道 平昌郡 大関嶺面 ソルボン路 296\\n\n肉屋が直営する店なので、新鮮な肉が味わえます。江原道のピョンチャン郡に位置した韓国料理店です。代表的なメニューはプデチゲです。",
+    "QA": [
+        {
+            "question": "この店の名前は何ですか？",
+            "answer": "この店の名前は「1975ヨンゲ素麺theロース」です。"
+        },
+        {
+            "question": "この店はどこにありますか？",
+            "answer": "この店は江原道平昌郡大関嶺面ソルボン路296にあります。"
+        },
+        {
+            "question": "この店ではどのような料理が味わえますか？",
+            "answer": "この店では新鮮な肉が味わえます。特に代表的なメニューはプデチゲです。"
+        },
+        {
+            "question": "この店はどのような特徴がありますか？",
+            "answer": "この店は肉屋が直営しているため、新鮮な肉を味わうことができます。また、江原道のピョンチャン郡に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 77,
+        "QA": 151
+    }
+}

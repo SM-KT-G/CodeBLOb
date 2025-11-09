@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_002602",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-06",
+        "domain": "음식점",
+        "title": "アンシネイイダコ ( 안씨네쭈꾸미 )"
+    },
+    "text": "アンシネイイダコ ( 안씨네쭈꾸미 )\\n\nソウル特別市 東大門区 イムンロ17-26\\n\n免疫力強化に良いキクラゲを提供しています。ソウル特別市のドンデムン区に位置した韓食専門店です。代表的なメニューはイイダコ入りサムギョプサル炒めです。",
+    "QA": [
+        {
+            "question": "アンシネイダコはどこに位置していますか？",
+            "answer": "アンシネイダコはソウル特別市の東大門区に位置しています。"
+        },
+        {
+            "question": "アンシネイダコの特徴的なメニューは何ですか？",
+            "answer": "アンシネイダコの代表的なメニューはイイダコ入りサムギョプサル炒めです。"
+        },
+        {
+            "question": "アンシネイダコはどんな食事を提供していますか？",
+            "answer": "アンシネイダコは韓食専門店で、免疫力強化に良いキクラゲを提供しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 88,
+        "QA": 120
+    }
+}

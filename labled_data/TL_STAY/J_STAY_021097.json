@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_021097",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/goods/GN0002027718?startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0%5E&npprmaxsort=min",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "양산 석계 CF"
+    },
+    "text": "梁山石渓キャンプラウンドと梁山CCまでは車で行く場合、それぞれ2kmと5km、時間では6分と22分がかかる。 梁山通度寺までは車で11kmを移動すれば19分がかかり、梁山内院寺までは車で8kmを移動すれば15分がかかる。 会員特典としては、繁忙期や特定日および祝日（前日含む）には料金が調整されることがある。 また、未成年者や男女同室での宿泊は禁止されている。",
+    "QA": [
+        {
+            "question": "梁山石渓キャンプラウンドまでの距離と所要時間は？",
+            "answer": "梁山石渓キャンプラウンドまでは車で2km移動し、所要時間は6分です。"
+        },
+        {
+            "question": "梁山CCまでの距離と所要時間は？",
+            "answer": "梁山CCまでは車で5km移動し、所要時間は22分です。"
+        },
+        {
+            "question": "梁山通度寺までの距離と所要時間は？",
+            "answer": "梁山通度寺までは車で11km移動し、所要時間は19分です。"
+        },
+        {
+            "question": "梁山内院寺までの距離と所要時間は？",
+            "answer": "梁山内院寺までは車で8km移動し、所要時間は15分です。"
+        },
+        {
+            "question": "会員特典について教えてください。",
+            "answer": "繁忙期や特定日および祝日（前日含む）には料金が調整されることがあります。"
+        },
+        {
+            "question": "未成年者や男女同室での宿泊は可能ですか？",
+            "answer": "未成年者や男女同室での宿泊は禁止されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 132,
+        "QA": 210
+    }
+}

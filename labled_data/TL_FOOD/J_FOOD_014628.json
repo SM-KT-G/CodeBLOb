@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_014628",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-05",
+        "domain": "음식점",
+        "title": "モドゥラン ( 모두랑 )"
+    },
+    "text": "モドゥラン ( 모두랑 )\\n\nソウル特別市 広津区 チャヤンロ28ギル24\\n\n韓国の代表的なストリートフードであるトッポッキが味わえます。ソウル特別市のグァンジン区に位置した韓食専門店です。代表的なメニューはトッポッキです。",
+    "QA": [
+        {
+            "question": "このお店の場所はどこですか？",
+            "answer": "モドゥランはソウル特別市広津区のチャヤンロ28ギル24にあります。"
+        },
+        {
+            "question": "モドゥランで食べられる料理は何ですか？",
+            "answer": "モドゥランでは、代表的な韓国のストリートフードであるトッポッキが味わえます。"
+        },
+        {
+            "question": "このお店はどのような特徴を持っていますか？",
+            "answer": "モドゥランは韓食専門店であり、特にトッポッキが人気です。"
+        },
+        {
+            "question": "このお店の営業時間は何時から何時までですか？",
+            "answer": "お店の営業時間については、具体的な情報が提供されていません。"
+        },
+        {
+            "question": "このお店の周辺には他に何がありますか？",
+            "answer": "モドゥランの周辺には、グァンジン区の他の韓食店や観光スポットがあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 83,
+        "QA": 190
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_000975",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2019-03-19",
+        "domain": "문화/역사관광",
+        "title": "GEEK LIVE HOUSE（긱 라이브하우스）"
+    },
+    "text": "GEEK LIVE HOUSE\nソウル特別市 麻浦区 新村路10キル7 （東橋洞）\nクラブで有名な弘大ストリートにあるライブクラブの一つで、韓国で流行しているインディーズミュージックと弘大クラブ文化の一面を体験できる所です。ダンスよりも公演中心の専門クラブで、2003年2月にプロミュージシャンが集まって作られました。プロミュージシャンが主軸になっているだけに、ステージ、音響、照明施設の全てがハイレベルです。インディーズバンドの企画公演はもちろんプロからアマチュアの貸館公演まで、幅広く多彩な公演が催されるのが特徴です。",
+    "QA": [
+        {
+            "question": "GEEK LIVE HOUSEはどのような場所ですか？",
+            "answer": "GEEK LIVE HOUSEは、ソウル特別市麻浦区にあるライブクラブで、韓国で流行しているインディーズミュージックと弘大クラブ文化を体験できる場所です。ダンスよりも公演中心の専門クラブであり、プロミュージシャンが主軸となっており、ステージ、音響、照明施設もハイレベルです。幅広く多彩な公演が催されることが特徴です。"
+        },
+        {
+            "question": "GEEK LIVE HOUSEはいつ作られましたか？",
+            "answer": "GEEK LIVE HOUSEは2003年2月にプロミュージシャンが集まって作られました。"
+        },
+        {
+            "question": "GEEK LIVE HOUSEで何が行われますか？",
+            "answer": "GEEK LIVE HOUSEでは、インディーズバンドの企画公演はもちろん、プロからアマチュアの貸館公演まで幅広い公演が行われます。"
+        },
+        {
+            "question": "GEEK LIVE HOUSEの場所はどこですか？",
+            "answer": "GEEK LIVE HOUSEはソウル特別市麻浦区新村路10キル7にあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 191,
+        "QA": 301
+    }
+}

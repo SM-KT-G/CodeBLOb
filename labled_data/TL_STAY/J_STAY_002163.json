@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_002163",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2020-03-09",
+        "domain": "숙박",
+        "title": "VILLAE RESORT (빌레리조트)"
+    },
+    "text": "VILLAE RESORT (빌레리조트)\n済州特別自治道 済州市 涯月邑 高內路13キル 79\n南国の自然と息吹が宿る済州島（チェジュド）でも、最も美しい海岸道路沿いに建つVILLAE RESORT（ビレリゾート）は、窓越しに青い海原が広がる絶景のロケ―ションにある宿泊施設。様々なタイプの客室や各種施設が完備して、リゾート内で憩いのひと時を快適にお過ごしいただけます。\n済州島内には、漢拏山（ハルラサン）や城山日出峰（ソンサンイルチュルボン）、天地淵瀑布（チョンジヨンポッポ）や正房瀑布（チョンバンポッポ）、牛島（ウド）などの数多くの観光スポットをはじめ、新鮮な刺身や黒豚などのグルメも数多く、ご満喫いただけます。",
+    "QA": [
+        {
+            "question": "VILLAE RESORT（ビレリゾート）はどこにありますか？",
+            "answer": "VILLAE RESORT（ビレリゾート）は済州特別自治道 済州市 涯月邑 高內路13キルに位置しています。"
+        },
+        {
+            "question": "VILLAE RESORT（ビレリゾート）の周辺にはどのような観光スポットがありますか？",
+            "answer": "VILLAE RESORT（ビレリゾート）の周辺には漢拏山（ハルラサン）や城山日出峰（ソンサンイルチュルボン）、天地淵瀑布（チョンジヨンポッポ）や正房瀑布（チョンバンポッポ）、牛島（ウド）などの数多くの観光スポットがあります。"
+        },
+        {
+            "question": "VILLAE RESORT（ビレリゾート）にはどのような施設がありますか？",
+            "answer": "VILLAE RESORT（ビレリゾート）には様々なタイプの客室や各種施設が完備されています。"
+        },
+        {
+            "question": "済州島で楽しめるグルメにはどのようなものがありますか？",
+            "answer": "済州島では新鮮な刺身や黒豚などのグルメが楽しめます。"
+        }
+    ],
+    "word_Count": {
+        "text": 226,
+        "QA": 277
+    }
+}

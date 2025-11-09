@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_029510",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/lodge/hotel-atti-chungmuro-goodstay",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "ホテルアッティ [優秀宿泊施設]"
+    },
+    "text": "ホテルアッティ [優秀宿泊施設]\\n\nソウル特別市 中区 西厓路 22-1 )\\n\nホテルアッティは都心の中心部にあり、客室はテーマごとにインテリアが施されています。ビジネスルームがあり、屋上ではBBQをすることができます。",
+    "QA": [
+        {
+            "question": "ホテルアッティはどこにありますか？",
+            "answer": "ホテルアッティはソウル特別市 中区 西厓路 22-1にあります。"
+        },
+        {
+            "question": "ホテルアッティの客室はどのようなインテリアですか？",
+            "answer": "ホテルアッティの客室はテーマごとにインテリアが施されています。"
+        },
+        {
+            "question": "ホテルアッティにはビジネスルームはありますか？",
+            "answer": "はい、ホテルアッティにはビジネスルームがあります。"
+        },
+        {
+            "question": "ホテルアッティの屋上では何ができますか？",
+            "answer": "ホテルアッティの屋上ではBBQをすることができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 82,
+        "QA": 145
+    }
+}

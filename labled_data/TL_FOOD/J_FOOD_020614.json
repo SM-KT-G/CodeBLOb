@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_020614",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "名家 ( 명가 )"
+    },
+    "text": "名家 ( 명가 )\\n\n江原道 平昌郡 蓬坪面 宝来嶺路 16-7\\n\n各種中華料理が楽しめるだけでなく、店舗が広いので、団体でのご来店も可能です。 おすすめはジャージャー麺です。江原道のピョンチャン郡に位置した中華専門店です。",
+    "QA": [
+        {
+            "question": "この中華専門店の場所はどこですか？",
+            "answer": "江原道平昌郡蓬坪面宝来嶺路16-7に位置しています。"
+        },
+        {
+            "question": "この中華専門店ではどのような料理が楽しめますか？",
+            "answer": "各種中華料理が楽しめます。特におすすめはジャージャー麺です。"
+        },
+        {
+            "question": "この中華専門店は団体での来店も可能ですか？",
+            "answer": "はい、店舗が広いので、団体でのご来店も可能です。"
+        },
+        {
+            "question": "この中華専門店はどのような特徴がありますか？",
+            "answer": "江原道のピョンチャン郡に位置し、中華料理の専門店です。"
+        }
+    ],
+    "word_Count": {
+        "text": 83,
+        "QA": 140
+    }
+}

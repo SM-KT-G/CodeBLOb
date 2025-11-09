@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_043654",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=501&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=01670000&ccbaCtcd=38&ccbaCpno=2113801670000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1972-12-29",
+        "domain": "문화/역사관광",
+        "title": "강익 개암문집 목판"
+    },
+    "text": "慶尚南道の有形文化財はハシバミの実カンイクの文集を広く刊行するために作ったチェクパンです。カンイクウン朝食文人で、陳謝を務めて上訴を行い、努力し、学問と後進育成に力を入れました。このチェクパンは上下1本で構成されており、商圏には、市・西・基・追録が、下巻には世界・年譜・頭取・祭文などが収録されています。序文はジョン・ジユンが書いており、刊行は既になされたことが明らかになりました。この文集は追録部分に先生が建てた始祖3数が含まれており、始祖の研究に重要な資料です。",
+    "QA": [
+        {
+            "question": "このチェクパンは何のために作られましたか？",
+            "answer": "このチェクパンはハシバミの実カンイクの文集を広く刊行するために作られました。"
+        },
+        {
+            "question": "カンイクウン朝食文人とはどのような人物ですか？",
+            "answer": "カンイクウン朝食文人は陳謝を務めて上訴を行い、努力し、学問と後進育成に力を入れた人物です。"
+        },
+        {
+            "question": "このチェクパンにはどのような内容が含まれていますか？",
+            "answer": "このチェクパンには上下1本で構成されており、商圏には市・西・基・追録が、下巻には世界・年譜・頭取・祭文などが収録されています。"
+        },
+        {
+            "question": "この文集は何のために重要な資料ですか？",
+            "answer": "この文集は始祖の研究に重要な資料であり、追録部分には先生が建てた始祖3数が含まれています。"
+        }
+    ],
+    "word_Count": {
+        "text": 170,
+        "QA": 205
+    }
+}

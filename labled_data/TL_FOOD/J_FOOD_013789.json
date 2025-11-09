@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_013789",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-09-01",
+        "domain": "음식점",
+        "title": "まぐろ専門店 ( 참치마을 )"
+    },
+    "text": "まぐろ専門店 ( 참치마을 )\\n\nソウル特別市 鐘路区 敦化門路 31\\n\nマグロの各種部位が味わえるお店です。ソウル特別市のジョンノ区に位置した和食専門店です。おすすめはマグロの刺身です。",
+    "QA": [
+        {
+            "question": "このまぐろ専門店はどこにありますか？",
+            "answer": "ソウル特別市 鐘路区 敦化門路 31に位置しています。"
+        },
+        {
+            "question": "このまぐろ専門店ではどのような料理が提供されていますか？",
+            "answer": "マグロの各種部位が味わえる料理が提供されています。特におすすめはマグロの刺身です。"
+        },
+        {
+            "question": "このまぐろ専門店は和食専門店ですか？",
+            "answer": "はい、このまぐろ専門店は和食専門店です。"
+        },
+        {
+            "question": "このまぐろ専門店はどのくらいの広さですか？",
+            "answer": "店舗の広さについての情報は提供されていません。"
+        },
+        {
+            "question": "このまぐろ専門店の営業時間は何時から何時までですか？",
+            "answer": "営業時間についての情報は提供されていません。"
+        }
+    ],
+    "word_Count": {
+        "text": 70,
+        "QA": 178
+    }
+}

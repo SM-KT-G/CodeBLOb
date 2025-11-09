@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001766",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-01",
+        "domain": "음식점",
+        "title": "Jeju Swellfish House ( 제주복어 )"
+    },
+    "text": "Jeju Swellfish House \n京畿道 平沢市 振威面 エルジ路 73\n様々なふぐの料理を味わえるところです。 おすすめはふぐの辛味スープです。京畿道のピョンテク市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "この店は京畿道 平沢市 振威面 エルジ路 73 に位置しています。"
+        },
+        {
+            "question": "この店の特徴は何ですか？",
+            "answer": "この店は様々なふぐの料理を味わえるところです。特におすすめはふぐの辛味スープです。"
+        },
+        {
+            "question": "この店はどのような料理を提供していますか？",
+            "answer": "この店では韓食を専門としており、様々なふぐの料理を提供しています。"
+        },
+        {
+            "question": "この店の評判はどうですか？",
+            "answer": "この店は評判が良く、ふぐの料理が美味しいと評判です。"
+        },
+        {
+            "question": "この店の営業時間は何時から何時までですか？",
+            "answer": "この店の営業時間は営業日によって異なります。正確な営業時間については店舗に直接お問い合わせください。"
+        }
+    ],
+    "word_Count": {
+        "text": 74,
+        "QA": 192
+    }
+}

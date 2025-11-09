@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_111774",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=15&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=11&ccbaAsno=01670000&ccbaCtcd=11&ccbaCpno=1111101670000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1974-07-09",
+        "domain": "문화/역사관광",
+        "title": "청자 인물형 주전자"
+    },
+    "text": "青磁人物形やかん\\n\nソウル特別市龍山区西氷庫路137(龍山洞6街、ジャン·ジャン)\\n\n高麗時代(13世紀前半)、国宝、高麗時代の作られた象形青磁(せいじ)で高さ28.0センチ、ミッジルム11.6センチのヤカンだ。象形青磁(せいじ)は、物事の姿をそのまま真似て作ったもので、このやかんは頭に帽子(棺)を使って塗布を着た人が桃をのせた器を持っている姿だ。帽子の前部分に穴を開けて水を入れられるようにし、さした桃の前部分にまた他の穴をあけて水を名乗ることができるように作った。人の後ろに取っ手を貼っており、、その頂に小さな輪を作って貼った。帽子に鳥の形を作って飾り、帽子、襟、チョゴリのひも、モモに白い斑点を撮って、飾りの効果を出した。晴れて光沢が私はダムロクの青磁(せいじ)の釉薬を全面に厚く塗った。このやかんは1971年大邱市郊外のある果樹園で発見されて、文化財に指定されており、出土地が明確な13世紀前半の象形青磁(せいじ)の一つだ。...",
+    "QA": [
+        {
+            "question": "このヤカンの素材は何ですか？",
+            "answer": "このヤカンは高麗時代に作られた象形青磁(せいじ)で作られています。"
+        },
+        {
+            "question": "このヤカンの大きさはどのくらいですか？",
+            "answer": "このヤカンの高さは28.0センチ、ミッジルム11.6センチです。"
+        },
+        {
+            "question": "このヤカンの発見された場所はどこですか？",
+            "answer": "このヤカンは1971年大邱市郊外のある果樹園で発見されました。"
+        },
+        {
+            "question": "このヤカンの装飾にはどのような意味がありますか？",
+            "answer": "このヤカンの帽子に鳥の形を作って飾り、帽子、襟、チョゴリのひも、モモに白い斑点を撮って、飾りの効果を出しました。"
+        },
+        {
+            "question": "このヤカンは何世紀に作られたものですか？",
+            "answer": "このヤカンは明確な13世紀前半の象形青磁(せいじ)の一つで、高麗時代に作られました。"
+        }
+    ],
+    "word_Count": {
+        "text": 309,
+        "QA": 213
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_009081",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-06",
+        "domain": "음식점",
+        "title": "ソグロンタン ( 서글렁탕 )"
+    },
+    "text": "ソグロンタン ( 서글렁탕 )\\n\nソウル特別市 永登浦区 ヨウィデバンロ394\\n\n特製ソースをつけて食べるサムギョプサルの名店です。ソウル特別市のヨンドゥンポ区に位置した韓食専門店です。代表的なメニューはサムギョプサルです。",
+    "QA": [
+        {
+            "question": "このレストランの場所はどこですか？",
+            "answer": "ソウル特別市 永登浦区 ヨウィデバンロ394にあります。"
+        },
+        {
+            "question": "このレストランの特製ソースはどんな味ですか？",
+            "answer": "特製ソースは、サムギョプサルに合う甘辛い味付けのソースです。"
+        },
+        {
+            "question": "このレストランの代表的なメニューは何ですか？",
+            "answer": "代表的なメニューはサムギョプサルです。"
+        }
+    ],
+    "word_Count": {
+        "text": 83,
+        "QA": 101
+    }
+}

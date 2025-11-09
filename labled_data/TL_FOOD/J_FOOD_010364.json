@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_010364",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/daesung-galbi",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "テソンカルビ"
+    },
+    "text": "テソンカルビ\\n\nソウル市 城東区 聖水洞1 街668-21\\n\n伝統あるカルビ食堂「 テソンカルビ 」です。 カルビと一緒に食べる野菜が提供され、マッシュルームと餅などを肉と一緒に焼いて楽しめます。 最近、グルメ番組に放送され、人気がさらに高まりました。",
+    "QA": [
+        {
+            "question": "このカルビ食堂はどこにありますか？",
+            "answer": "テソンカルビはソウル市城東区聖水洞1街668-21にあります。"
+        },
+        {
+            "question": "テソンカルビでは何が提供されますか？",
+            "answer": "テソンカルビではカルビと一緒に食べる野菜が提供されます。また、マッシュルームや餅なども肉と一緒に焼いて楽しめます。"
+        },
+        {
+            "question": "最近、テソンカルビの人気はどうなっていますか？",
+            "answer": "最近、テソンカルビはグルメ番組に放送され、人気がさらに高まっています。"
+        }
+    ],
+    "word_Count": {
+        "text": 93,
+        "QA": 132
+    }
+}

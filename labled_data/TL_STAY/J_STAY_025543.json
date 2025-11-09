@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_025543",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42060&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "예산 아리아오투펜션"
+    },
+    "text": "鬱蒼とした松林が広がるアリアo2ペンションでは徳山面大峙里の清浄地域に位置しています。 アリアo2ペンションは古い松の木が逸品で、森を美しく成しています。 このペンションは元暁峰に登る登山道と一緒に位置しているので、渓谷との調和が素敵です。 特に雨が降ると流れる水の音が楽しさを与えてくれます。 また、22時以降に入室される場合、ペンションまで予めご連絡ください。",
+    "QA": [
+        {
+            "question": "アリアo2ペンションはどの地域に位置していますか？",
+            "answer": "アリアo2ペンションは徳山面大峙里の清浄地域に位置しています。"
+        },
+        {
+            "question": "アリアo2ペンションの周辺はどのような風景ですか？",
+            "answer": "アリアo2ペンションの周辺は鬱蒼とした松林が広がっており、森を美しく成す古い松の木が特徴です。"
+        },
+        {
+            "question": "アリアo2ペンションはどのような特徴がありますか？",
+            "answer": "アリアo2ペンションは元暁峰に登る登山道と一緒に位置しており、渓谷との調和が素敵です。特に雨が降ると流れる水の音が楽しさを与えてくれます。"
+        },
+        {
+            "question": "アリアo2ペンションへの入室時間に制限はありますか？",
+            "answer": "22時以降に入室される場合、ペンションまで予めご連絡ください。"
+        }
+    ],
+    "word_Count": {
+        "text": 133,
+        "QA": 204
+    }
+}

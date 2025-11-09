@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_034917",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101971",
+        "collectedDate": "2023-09-07",
+        "publishedDate": "2021-12-20",
+        "domain": "문화/역사관광",
+        "title": "護国安保展示館"
+    },
+    "text": "護国安保展示館\n護国安保展示館は、韓国の自主独立を称えるために建てられた展示館で、1910年の独立軍による義兵活動から、建国期を経て現在に至る陸・海・空軍の歴史のほか、武器の発展の歴史をまとめて観覧できる教育施設となっています。",
+    "QA": [
+        {
+            "question": "護国安保展示館はいつ建てられましたか？",
+            "answer": "護国安保展示館は、韓国の自主独立を称えるために建てられました。"
+        },
+        {
+            "question": "護国安保展示館では何を観覧できますか？",
+            "answer": "護国安保展示館では、陸・海・空軍の歴史や武器の発展の歴史をまとめて観覧することができます。"
+        },
+        {
+            "question": "護国安保展示館の展示内容はどのようなものですか？",
+            "answer": "護国安保展示館の展示内容には、1910年の独立軍による義兵活動から建国期までの歴史が含まれています。"
+        }
+    ],
+    "word_Count": {
+        "text": 83,
+        "QA": 137
+    }
+}

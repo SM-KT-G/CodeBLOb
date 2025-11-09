@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_001063",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2023-08-02",
+        "domain": "문화/역사관광",
+        "title": "OmyNara（오미나라）"
+    },
+    "text": "OmyNara（오미나라）\\n\nキョンサンブク道ムンギョン市ムンギョン邑セジェロ609\\n\nOmyNara（オミナラ）は韓国が原産地である五味子を原料に伝統発酵工法とオーク樽熟成方式でワインを製造する五味子ワイナリーです。 ワイナリーツアー、自分だけの記念ワインづくりなどさまざまな体験プログラムやワインエチケット、正統スパークリングワイン製造基本課程など教育プログラムも運営しています。ワイナリースタッフの案内でOmyNaraを見学し、ワインの製造工程や試飲といった体験ができます。",
+    "QA": [
+        {
+            "question": "OmyNara（オミナラ）はどこの場所にありますか？",
+            "answer": "OmyNara（オミナラ）は韓国が原産地である五味子を原料に伝統発酵工法とオーク樽熟成方式でワインを製造する五味子ワイナリーです。住所はキョンサンブク道ムンギョン市ムンギョン邑セジェロ609です。"
+        },
+        {
+            "question": "OmyNaraワイナリーではどのような体験プログラムがありますか？",
+            "answer": "OmyNaraワイナリーではワイナリーツアーや自分だけの記念ワインづくりなどさまざまな体験プログラムがあります。"
+        },
+        {
+            "question": "OmyNaraワイナリーで提供される教育プログラムはありますか？",
+            "answer": "はい、OmyNaraワイナリーではワインエチケットや正統スパークリングワイン製造基本課程などの教育プログラムも運営しています。"
+        },
+        {
+            "question": "OmyNaraワイナリースタッフによる見学や体験はどのように行われますか？",
+            "answer": "OmyNaraワイナリースタッフの案内でOmyNaraを見学し、ワインの製造工程や試飲などの体験ができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 177,
+        "QA": 292
+    }
+}

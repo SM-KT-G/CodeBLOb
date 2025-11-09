@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_029736",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.goodchoice.kr/product/detail?ano=1207&adcno=1&sel_date=2023-11-07&sel_date2=2023-11-08",
+        "collectedDate": "2023-11-15",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "삼계 넥스트호텔-NEXT"
+    },
+    "text": "駐車場に関する情報:-駐車可能な車両は20台まで可能で、大型車両であるSUVとRVも駐車可能です。 - 駐車施設は地下に位置しております。 地下鉄情報: - 近くには釜山金海軽電鉄線の長神大駅とヨンジ公園駅があります。 - この二つの駅を利用すると交通が便利です。",
+    "QA": [
+        {
+            "question": "駐車場は何台まで駐車可能ですか？",
+            "answer": "駐車可能な車両は20台まで可能です。"
+        },
+        {
+            "question": "SUVやRVなどの大型車両も駐車できますか？",
+            "answer": "はい、大型車両であるSUVやRVも駐車可能です。"
+        },
+        {
+            "question": "駐車施設はどこにありますか？",
+            "answer": "駐車施設は地下に位置しています。"
+        },
+        {
+            "question": "近くにある地下鉄の駅はどこですか？",
+            "answer": "近くには釜山金海軽電鉄線の長神大駅とヨンジ公園駅があります。"
+        },
+        {
+            "question": "どの駅を利用すれば便利ですか？",
+            "answer": "長神大駅とヨンジ公園駅の二つを利用すると交通が便利です。"
+        }
+    ],
+    "word_Count": {
+        "text": 96,
+        "QA": 146
+    }
+}

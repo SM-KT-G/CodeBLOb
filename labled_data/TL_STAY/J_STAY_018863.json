@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_018863",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42060&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "공주 인연의향기(인향)펜션"
+    },
+    "text": "鶏龍山の美しい風景と縁の香りペンションは、疲れた日常から抜け出して休息を楽しみたい方に最適な場所です。 当店は常に清潔と衛生を重視し、お客様に快適な宿泊を提供しています。 鶏龍山の自然とともに楽しめる環境の中で、愛する人たちと一緒にゆったりと幸せな時間を過ごすことができます。 追加料金は基本人数につき10,000ウォンであり、22時以降の入室は事前にご連絡をお願いします。 ペンションでは常にお客様の満足のために最善を尽くしています。",
+    "QA": [
+        {
+            "question": "このペンションの場所はどこですか？",
+            "answer": "鶏龍山に位置しています。"
+        },
+        {
+            "question": "このペンションの特徴は何ですか？",
+            "answer": "清潔で衛生的な宿泊環境と美しい風景を特徴としています。"
+        },
+        {
+            "question": "追加料金はいくらですか？",
+            "answer": "追加料金は基本人数につき10,000ウォンです。"
+        },
+        {
+            "question": "22時以降に入室する場合はどうすればよいですか？",
+            "answer": "22時以降の入室は事前にご連絡をお願いします。"
+        },
+        {
+            "question": "お客様の満足度を重視しているとのことですが、具体的にはどのような取り組みをしていますか？",
+            "answer": "ペンションでは常にお客様の満足のために最善を尽くしています。清潔さや快適さに重点を置き、お客様に心地よい宿泊環境を提供しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 159,
+        "QA": 193
+    }
+}

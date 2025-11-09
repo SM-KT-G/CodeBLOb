@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_029858",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/italy-moon",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "イテリムン"
+    },
+    "text": "イテリムン\\n\n서울특별시 종로구 대학로12길 21 2층\\n\nこの店はソウル特別市のテハンノに位置した洋食専門店です。代表的なメニューはピザです。学生証をお持ちの方は割引が受けられるお店です。",
+    "QA": [
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "この店はソウル特別市のテハンノに位置しています。"
+        },
+        {
+            "question": "この店の料理は何ですか？",
+            "answer": "この店は洋食専門店で、代表的なメニューはピザです。"
+        },
+        {
+            "question": "学生証を持っていると割引が受けられるのですか？",
+            "answer": "はい、学生証をお持ちの方は割引が受けられます。"
+        }
+    ],
+    "word_Count": {
+        "text": 71,
+        "QA": 88
+    }
+}

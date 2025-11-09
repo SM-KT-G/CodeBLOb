@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_LEI_006008",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101933",
+        "collectedDate": "2023-09-21",
+        "publishedDate": "2023-01-16",
+        "domain": "레포츠",
+        "title": "노을길 야영장"
+    },
+    "text": "夕焼けキャンプ場\\n\n全羅南道務安郡望雲面シェルキル128-68\\n\n民間で運営する一般キャンプ場では、周辺の自然環境を楽しめる海辺を提供し、委託方式で運営しています。 ここでは遊歩道、水上レジャー、釣り、海水浴など様々な活動を楽しむことができます。",
+    "QA": [
+        {
+            "question": "このキャンプ場はどこにありますか？",
+            "answer": "夕焼けキャンプ場は全羅南道務安郡望雲面に位置しています。"
+        },
+        {
+            "question": "このキャンプ場では何が楽しめますか？",
+            "answer": "遊歩道、水上レジャー、釣り、海水浴など様々な活動が楽しめます。"
+        },
+        {
+            "question": "このキャンプ場はどのような環境ですか？",
+            "answer": "周辺の自然環境を楽しめる海辺のキャンプ場です。"
+        },
+        {
+            "question": "このキャンプ場の運営方法はどうなっていますか？",
+            "answer": "民間で運営されており、委託方式によって管理されています。"
+        },
+        {
+            "question": "このキャンプ場で海水浴ができますか？",
+            "answer": "はい、このキャンプ場では海水浴も楽しむことができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 91,
+        "QA": 170
+    }
+}

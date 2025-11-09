@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_027711",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/goods/GN0002153657?startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0%5E&npprmaxsort=min",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "제주 유에프오펜션"
+    },
+    "text": "青い海と共にするUFOペンションへようこそ。 お子様が好きなUFOコンセプトの客室とオーシャンビューを鑑賞できる客室がございます。 UFOペンションでは楽しい時間を過ごせるよう、様々なアトラクションや活動を提供しています。 また、バーベキューパーティーを楽しめる施設もあり、済州旅行の安息所になるでしょう。 UFOペンションで素敵な休暇をお過ごしください。",
+    "QA": [
+        {
+            "question": "UFOペンションではどのような客室がありますか？",
+            "answer": "UFOペンションではUFOコンセプトの客室とオーシャンビューを鑑賞できる客室がございます。"
+        },
+        {
+            "question": "UFOペンションではどのようなアトラクションや活動が提供されていますか？",
+            "answer": "UFOペンションでは様々なアトラクションや活動を提供しています。"
+        },
+        {
+            "question": "UFOペンションにはバーベキューパーティーを楽しめる施設がありますか？",
+            "answer": "はい、UFOペンションにはバーベキューパーティーを楽しめる施設がございます。"
+        },
+        {
+            "question": "UFOペンションは済州旅行の安息所になりますか？",
+            "answer": "はい、UFOペンションは済州旅行の安息所になることでしょう。"
+        },
+        {
+            "question": "UFOペンションで素敵な休暇を過ごせますか？",
+            "answer": "はい、UFOペンションで素敵な休暇をお過ごしいただけます。"
+        }
+    ],
+    "word_Count": {
+        "text": 130,
+        "QA": 231
+    }
+}

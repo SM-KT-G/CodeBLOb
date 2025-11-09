@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_032905",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1062&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=01450000&ccbaCtcd=38&ccbaCpno=3413801450000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1985-11-14",
+        "domain": "문화/역사관광",
+        "title": "통영 안정사 만세루"
+    },
+    "text": "統営安靜寺万歳楼 (통영 안정사 만세루)\\n\n慶尚南道統営市広道面安定1ギル363(安亭里)\\n\n12年(1686年)、慶尚南道文化財資料、安靜寺は新羅武烈王1年(654)、元暁大師が碧芳山の麓に建てた寺だ。 万歳楼は朝鮮粛宗12年(1686)に初めて建てられ、憲宗7年(1841)に建て直して今日に至っている。 前面3間·側面2間の規模を備えており、門楼の機能はなく法会場所と鐘楼の機能として使用している 楼閣は一般的に寺の中心建物の前に建て、出入りの役割である門楼の機能と鐘をかける鐘楼の機能、法会を行う講堂の機能を一緒に持つ場合が多い。 朝鮮時代の慶尚南道地域にあった寺に作られた楼閣の顕著な特徴を持つ建築物である。",
+    "QA": [
+        {
+            "question": "安靜寺万歳楼はいつ建てられましたか？",
+            "answer": "安靜寺万歳楼は朝鮮粛宗12年(1686)に初めて建てられました。"
+        },
+        {
+            "question": "どのような機能を持っている建物ですか？",
+            "answer": "安靜寺万歳楼は門楼の機能はなく、法会場所と鐘楼の機能として使用されています。"
+        },
+        {
+            "question": "楼閣は一般的にどのような機能を持っているのですか？",
+            "answer": "楼閣は一般的に寺の中心建物の前に建てられ、出入りの役割である門楼の機能と鐘をかける鐘楼の機能、法会を行う講堂の機能を一緒に持つ場合が多いです。"
+        },
+        {
+            "question": "万歳楼の特徴は何ですか？",
+            "answer": "万歳楼は朝鮮時代の慶尚南道地域にあった寺に作られた楼閣の顕著な特徴を持つ建築物です。"
+        }
+    ],
+    "word_Count": {
+        "text": 228,
+        "QA": 188
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_102769",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=483&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=01420000&ccbaCtcd=38&ccbaCpno=2113801420000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1976-04-15",
+        "domain": "문화/역사관광",
+        "title": "주세붕 초상"
+    },
+    "text": "朝鮮時代の慶尚南道有形文化財であるジュセブン先生の肖像画は、国立中央博物館に保管されている。この肖像画は原本を移して描いたもので、大きさは横100センチ、縦150センチだ。土台は絹で梅と竹文があり、調伏は緑が美しく調和している。肖像画でジュセブン先生は全身坐像で描かれており、虎の皮を使用した椅子に座っている。しかし、黒のプライベートを着用した姿は少し不自然に感じられる。また、顔の輪郭が不明確で、優れた画家の作品ではないようだ。しかし、むちむちで大きな目と鼻、太い眉は素敵な印象を与えている。この肖像画は1919年にジュセブン先生の子孫たちが原本を移して描いたものである。この肖像画を奉られてために立てた狂風角度ジュハクピョという12世の孫によって建てられた。",
+    "QA": [
+        {
+            "question": "ジュセブン先生の肖像画はどこに保管されていますか？",
+            "answer": "国立中央博物館に保管されています。"
+        },
+        {
+            "question": "肖像画の大きさは何センチですか？",
+            "answer": "横100センチ、縦150センチです。"
+        },
+        {
+            "question": "肖像画の土台の素材は何ですか？",
+            "answer": "絹で梅と竹文があり、調伏は緑が美しく調和しています。"
+        },
+        {
+            "question": "肖像画に描かれているジュセブン先生の姿勢はどのようなものですか？",
+            "answer": "全身坐像で、虎の皮を使用した椅子に座っています。"
+        },
+        {
+            "question": "肖像画の作者についてどのような特徴がありますか？",
+            "answer": "顔の輪郭が不明確で、優れた画家の作品ではないようですが、むちむちで大きな目と鼻、太い眉が素敵な印象を与えています。"
+        },
+        {
+            "question": "肖像画はいつ描かれたものですか？",
+            "answer": "1919年にジュセブン先生の子孫たちが原本を移して描いたものです。"
+        },
+        {
+            "question": "肖像画を奉られたために立てられた建物について教えてください。",
+            "answer": "肖像画を奉られたために立てられた狂風角度ジュハクピョという12世の孫によって建てられたと言われています。"
+        }
+    ],
+    "word_Count": {
+        "text": 242,
+        "QA": 282
+    }
+}

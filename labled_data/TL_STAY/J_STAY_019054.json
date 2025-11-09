@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_019054",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42060&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "아산 머루"
+    },
+    "text": "広い駐車場を保有している牙山バスターミナルから徒歩3分の距離に位置する宿です。 また、牙山の繁華街とも隣接して最高の位置に位置しています。 入室および退室時間は遵守してください。 ご予約の際、2人基準で価格を測定し、人数追加ごとに10,000ウォンの追加料金が発生します。",
+    "QA": [
+        {
+            "question": "この宿の場所はどこですか？",
+            "answer": "この宿は牙山バスターミナルから徒歩3分の距離に位置しています。"
+        },
+        {
+            "question": "この宿の周辺には何がありますか？",
+            "answer": "この宿は牙山の繁華街と隣接しており、最高の位置に位置しています。"
+        },
+        {
+            "question": "駐車場はありますか？",
+            "answer": "はい、この宿は広い駐車場を保有しています。"
+        },
+        {
+            "question": "チェックインとチェックアウトの時間は何時ですか？",
+            "answer": "チェックインとチェックアウトの時間は予約時に遵守してください。"
+        },
+        {
+            "question": "予約時の価格は2人基準ですか？",
+            "answer": "はい、予約時の価格は2人基準で測定されます。人数追加ごとに10,000ウォンの追加料金が発生します。"
+        }
+    ],
+    "word_Count": {
+        "text": 99,
+        "QA": 178
+    }
+}

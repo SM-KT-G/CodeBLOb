@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_002215",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=422&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=00620000&ccbaCtcd=31&ccbaCpno=2113100620000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1974-09-26",
+        "domain": "문화/역사관광",
+        "title": "궐리사성적도"
+    },
+    "text": "クォリサ成績図 (궐리사성적도)\\n\n京畿道烏山市\\n\n京畿道有形文化財 , 郭里祠に所蔵されている木版聖蹟図を指す。 国理寺は孔子を祀る祠堂で、「国理」は中国山東省曲部にある孔子が生まれて暮らしていた国理村を模して付けた名前だ。 聖蹟図は孔子の行跡を絵に描いた後、解説を付けた図説をいう。 この聖蹟図は高宗<高宗>光武<光武>8年(1904)に趙炳植<趙炳植>らが中国山東省から求めた聖蹟図を持ってきて木版に刻んだものである。 板木は血の木で、全部で60板で構成されている。 絵は両面に108編が刻まれている。 最初の章は孔子と杏子の姿を描いた「先聖小像」で始まるが、主に孔子の誕生と孔子の大小の主要行跡、関連した逸話などをはじめ、孔子の周辺人物の行跡まで含まれている。 背景は簡略に表し、人物の行跡を重点的に表現した。 板刻であるにもかかわらず、比較的曲線美を柔らかく生かして表している。",
+    "QA": [
+        {
+            "question": "このクォリサ成績図はどこに所蔵されていますか？",
+            "answer": "このクォリサ成績図は京畿道烏山市にある郭里祠に所蔵されています。"
+        },
+        {
+            "question": "国理寺とは何ですか？",
+            "answer": "国理寺は孔子を祀る祠堂で、中国山東省曲部にある孔子の出身地である国理村を模して名付けられた祠堂です。"
+        },
+        {
+            "question": "聖蹟図とは何を指しますか？",
+            "answer": "聖蹟図は孔子の行跡を絵に描いた後、解説を付けた図説のことを指します。"
+        },
+        {
+            "question": "このクォリサ成績図はどのように作られましたか？",
+            "answer": "このクォリサ成績図は1904年に趙炳植らが中国山東省から持ち帰った聖蹟図を木版に刻んで作られました。血の木でできた60枚の木版に、両面に108編の絵が刻まれています。"
+        },
+        {
+            "question": "このクォリサ成績図はどのような内容が描かれていますか？",
+            "answer": "このクォリサ成績図は主に孔子の誕生や主要な行跡、逸話などを描いており、孔子の周辺人物の行跡も含まれています。背景は簡略に表現され、人物の行跡が重点的に描かれています。"
+        }
+    ],
+    "word_Count": {
+        "text": 290,
+        "QA": 277
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_006037",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-16",
+        "domain": "음식점",
+        "title": "コレコレ水産刺身＆海産物ポチャ( 고래고래수산회&해산물포차 )"
+    },
+    "text": "コレコレ水産刺身＆海産物ポチャ\\n\n京畿道 平沢市 平沢5路20ボンキル 33\\n\n毎日新鮮な海産物を仕入れて新鮮な料理を出している店です。代表的なメニューはヒラメの刺身です。京畿道のピョンテク市に位置した韓国料理店です。",
+    "QA": [
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "京畿道 平沢市 平沢5路20ボンキル 33にあります。"
+        },
+        {
+            "question": "この店ではどのような海産物が提供されていますか？",
+            "answer": "毎日新鮮な海産物を仕入れて新鮮な料理を提供しています。"
+        },
+        {
+            "question": "この店の代表的なメニューは何ですか？",
+            "answer": "ヒラメの刺身が代表的なメニューです。"
+        },
+        {
+            "question": "この店はどの市に位置していますか？",
+            "answer": "この店は京畿道のピョンテク市に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 81,
+        "QA": 122
+    }
+}

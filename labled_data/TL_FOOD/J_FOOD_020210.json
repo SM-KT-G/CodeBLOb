@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_020210",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-08-27",
+        "domain": "음식점",
+        "title": "李朝 ( 이조 )"
+    },
+    "text": "李朝 ( 이조 )\\n\nソウル特別市 鐘路区 インサドン3ギル8\\n\nカルビの蒸し物は、カルビを醤油で味付けした韓国伝統のメニューです。ソウル特別市のジョンノ区に位置した韓食専門店です。代表的なメニューはカルビの蒸し物です。",
+    "QA": [
+        {
+            "question": "この韓食専門店の場所はどこですか？",
+            "answer": "ソウル特別市のジョンノ区に位置しています。"
+        },
+        {
+            "question": "カルビの蒸し物はどのように味付けされますか？",
+            "answer": "カルビは醤油で味付けされます。"
+        },
+        {
+            "question": "この韓食専門店の代表的なメニューは何ですか？",
+            "answer": "代表的なメニューはカルビの蒸し物です。"
+        }
+    ],
+    "word_Count": {
+        "text": 82,
+        "QA": 85
+    }
+}

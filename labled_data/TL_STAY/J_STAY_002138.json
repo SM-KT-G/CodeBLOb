@@ -1,0 +1,31 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_002138",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-02-10",
+        "domain": "숙박",
+        "title": "The-Kホテル慶州（더 케이 호텔 경주）"
+    },
+    "text": "The-Kホテル慶州（더 케이 호텔 경주）\\n\n慶尚北道 慶州市 エクスポ路45\\n\n「The-Kホテル慶州（キョンジュ）」は新羅千年の古都、普門湖の秀麗な自然景観を背景にする慶州の普文観光団地内に位置する一流ホテルです。差別化されたイベント進行、真心のこもったサービス、慶州ならではの自然景観、各種レポーツ施設を誇ります。",
+    "QA": [
+        {
+            "question": "The-Kホテル慶州はどこに位置していますか？",
+            "answer": "The-Kホテル慶州（더 케이 호텔 경주）は慶尚北道慶州市エクスポ路45に位置しています。"
+        },
+        {
+            "question": "The-Kホテル慶州はどのようなホテルですか？",
+            "answer": "The-Kホテル慶州は一流ホテルであり、新羅千年の古都である慶州の普文観光団地内に位置しています。慶州ならではの自然景観を背景にし、差別化されたイベント進行と真心のこもったサービスを提供しています。また、各種レジャー施設も充実しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 119,
+        "QA": 154
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_054067",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42060&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "보령(대천) 에이프레임하우스"
+    },
+    "text": "モダンで独特な''A frame house''は敷地200坪の面積に2軒が連動した形で、今年6月に新築された木造住宅です。 室内は整理収納士のマネージャーが丁寧にきれいに管理して快適な宿泊を提供します。 2階から眺めた夕焼けと暖かさをそのまま盛り込んだここは、雰囲気に酔ってより長く泊まりたい場所です。 緑の芝や盛んに育っている葦、周辺の騒音がないので静かな家族休暇を希望される方におすすめです。 現場では便利な宿泊のため、22時以降に入室される場合は事前にご連絡ください。 家族が泊まるのに適した''A frame house''で忘れられない思い出を作ってみてください。",
+    "QA": [
+        {
+            "question": "この'A frame house'はいつ建てられましたか？",
+            "answer": "この'A frame house'は今年6月に建てられました。"
+        },
+        {
+            "question": "'A frame house'の室内はどのように管理されていますか？",
+            "answer": "'A frame house'の室内は整理収納士のマネージャーが丁寧に管理しています。"
+        },
+        {
+            "question": "'A frame house'の周辺はどのような風景ですか？",
+            "answer": "'A frame house'の周辺には緑の芝や盛んに育っている葦があり、周囲は静かなので、静かな家族休暇を希望される方におすすめです。"
+        },
+        {
+            "question": "'A frame house'では22時以降に入室できますか？",
+            "answer": "'A frame house'では22時以降に入室される場合は事前にご連絡いただければ便利です。"
+        },
+        {
+            "question": "'A frame house'はどのような思い出を作るのに適していますか？",
+            "answer": "'A frame house'は家族が泊まるのに適した場所で、忘れられない思い出を作ることができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 211,
+        "QA": 294
+    }
+}

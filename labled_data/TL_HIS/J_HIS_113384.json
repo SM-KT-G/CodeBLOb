@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_113384",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=10&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=11&ccbaAsno=01130000&ccbaCtcd=11&ccbaCpno=1111101130000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1962-12-20",
+        "domain": "문화/역사관광",
+        "title": "청자 철화양류문 통형 병"
+    },
+    "text": "高麗時代に製作された高さ31.6センチの撤回チョンジャビョンは長い筒状に、前後に一本ずつの柳を赤い土で描いた素朴な病気だ。この病気は単調さを減らすため、肩部分を適当に面取りをして、口が外に行われた形を持っている。ただし、柳を除いた部分には特別な装飾がない。柳は大胆に単純化されており、趣があり、洗練された感覚を感じることができる。釉薬の偶然な反映とした面は青色を帯びているが、これは、池のような絵画的効果を与える。この瓶は高麗時代の撤回青磁の特異な形を持っているが、1931年、朝鮮総督府博物館が日本の収集家から入手した作品だ。形態上の比例と肩の面取り形態、自然な流れの線、独創的な表現が目立つ作品だ。",
+    "QA": [
+        {
+            "question": "この病気の名前は何ですか？",
+            "answer": "この病気は高さ31.6センチの撤回チョンジャビョンと呼ばれています。"
+        },
+        {
+            "question": "この病気の特徴的な装飾は何ですか？",
+            "answer": "柳を赤い土で描いた素朴な病気です。"
+        },
+        {
+            "question": "この病気の釉薬の反映はどのような色をしていますか？",
+            "answer": "釉薬の偶然な反映とした面は青色を帯びています。"
+        },
+        {
+            "question": "この病気は何年に作られましたか？",
+            "answer": "この病気は高麗時代に製作されました。"
+        },
+        {
+            "question": "この病気が見つかった場所はどこですか？",
+            "answer": "朝鮮総督府博物館で見つかりました。"
+        },
+        {
+            "question": "この病気の形態上の比例と肩の面取り形態はどのような特徴がありますか？",
+            "answer": "形態上の比例と肩の面取り形態、自然な流れの線、独創的な表現が目立ちます。"
+        }
+    ],
+    "word_Count": {
+        "text": 220,
+        "QA": 197
+    }
+}

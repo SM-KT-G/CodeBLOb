@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_098963",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1071&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=01640000&ccbaCtcd=36&ccbaCpno=3413601640000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1988-03-16",
+        "domain": "문화/역사관광",
+        "title": "장성 가산사 소장 익재 영정"
+    },
+    "text": "長城加山寺所蔵益斎遺影\\n\n全羅南道長城郡三西面洪井里488-2番地\\n\n朝鮮、全羅南道文化財資料、高麗時代後期の文臣のイクジェ李斉賢(1287∼1367)先生の肖像画である。先生は元の万冊当たりで趙孟フなどとの交流を通じて高麗に新学問と思想などを紹介して性理学の伝播と発展にも重要な役割を果たした。趙孟フ字を導入しており、『国史』、『ヨクオンペソル』などを著述した。先生の肖像画は計4点が伝えますが、そのうち1点と、忠粛王6年(1319)先生が王によって中国に行った時に震撼余暇に描いた原本(国立中央博物館所蔵)を18世紀後半に移して描いたものである。左を眺めながら椅子に座った全身像で、両手は袖で取っている。いすのうしろで、本と香炉、琴が置かれたテーブルを配置している。瞳・ひげ・唇は後代に補修されたものとみられる。珍本をしたものだが、顔の表現、服のしわの処理、椅子や物などの表現が原本とほぼ似ている。...",
+    "QA": [
+        {
+            "question": "この肖像画の作者は誰ですか？",
+            "answer": "この肖像画の作者は、高麗時代後期の文臣であるイクジェ李斉賢(1287∼1367)先生の肖像画を18世紀後半に描いたものです。"
+        },
+        {
+            "question": "この肖像画はどのような形式で描かれていますか？",
+            "answer": "この肖像画は、先生が中国に行った際に描かれた原本を18世紀後半に移して描かれたもので、先生が左を眺めながら椅子に座った全身像で、両手は袖で取っています。"
+        },
+        {
+            "question": "この肖像画にはどんなものが配置されていますか？",
+            "answer": "この肖像画には、いすのうしろで本と香炉、琴が置かれたテーブルが配置されています。"
+        },
+        {
+            "question": "この肖像画にはどのような特徴がありますか？",
+            "answer": "この肖像画は、瞳・ひげ・唇が後代に補修されたものとみられますが、顔の表現、服のしわの処理、椅子や物などの表現が原本とほぼ似ています。"
+        }
+    ],
+    "word_Count": {
+        "text": 297,
+        "QA": 238
+    }
+}

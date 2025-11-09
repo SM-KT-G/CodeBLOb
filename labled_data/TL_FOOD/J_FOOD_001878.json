@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001878",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "MBRO豚カツ（엠브로돈까스）"
+    },
+    "text": "MBRO豚カツ（엠브로돈까스）\\n\nソウル特別市 江南区 宣陵路152キル 21\\n\nアメリカの3大ステーキ専門店です。代表的なメニューはステーキです。ソウル特別市のアブグジョン洞に位置した洋食です。",
+    "QA": [
+        {
+            "question": "このレストランの名前は何ですか？",
+            "answer": "MBRO豚カツ（엠브로돈까스）です。"
+        },
+        {
+            "question": "このレストランはどこにありますか？",
+            "answer": "ソウル特別市江南区宣陵路152キル21に位置しています。"
+        },
+        {
+            "question": "このレストランの代表的なメニューは何ですか？",
+            "answer": "ステーキです。"
+        },
+        {
+            "question": "このレストランは洋食ですか？",
+            "answer": "はい、洋食です。"
+        },
+        {
+            "question": "このレストランはどのような雰囲気ですか？",
+            "answer": "アメリカの3大ステーキ専門店ということで、落ち着いた雰囲気のレストランです。"
+        }
+    ],
+    "word_Count": {
+        "text": 73,
+        "QA": 137
+    }
+}

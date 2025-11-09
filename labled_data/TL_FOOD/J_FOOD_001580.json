@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001580",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-11-25",
+        "domain": "음식점",
+        "title": "CANADIAN LOBSTER（카나디안 랍스터）"
+    },
+    "text": "CANADIAN LOBSTER（카나디안 랍스터）\\n\nソウル特別市 瑞草区 南部循環路2385\\n\n「CANADIAN LOBSTER（カナディアンロブスター）」はロブスター料理専門店で、刺身、バター、チリソース、蒸し物、グラタン、グリルといった多様な料理や100種類以上のワインを楽しめます。",
+    "QA": [
+        {
+            "question": "カナディアンロブスターはどのような料理専門店ですか？",
+            "answer": "カナディアンロブスターはロブスター料理専門店で、刺身、バター、チリソース、蒸し物、グラタン、グリルなど多様な料理を提供しています。"
+        },
+        {
+            "question": "カナディアンロブスターの場所はどこですか？",
+            "answer": "カナディアンロブスターはソウル特別市瑞草区南部循環路2385にあります。"
+        },
+        {
+            "question": "カナディアンロブスターでは何種類以上のワインが楽しめますか？",
+            "answer": "カナディアンロブスターでは100種類以上のワインを楽しむことができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 109,
+        "QA": 156
+    }
+}

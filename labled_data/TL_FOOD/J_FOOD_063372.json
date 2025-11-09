@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_063372",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2023-07-02",
+        "domain": "음식점",
+        "title": "납작식당"
+    },
+    "text": "横渓(カンウォンド・フェンゲ)イカとサムギョプサルのプルコギで有名な平食堂は新鮮な材料とこの家だけの独特な味がさっぱりして告訴したブルゴギ(焼肉)の味が逸品だ。そしておかずまた、主人の味がいっぱい詰まった味が食欲をそそる。",
+    "QA": [
+        {
+            "question": "平食堂はどんな料理で有名ですか？",
+            "answer": "平食堂はイカとサムギョプサルのプルコギで有名です。"
+        },
+        {
+            "question": "平食堂の味はどんな特徴がありますか？",
+            "answer": "平食堂の味は新鮮な材料と独特な味があり、さっぱりしていて食欲をそそります。"
+        },
+        {
+            "question": "平食堂のおかずには何がありますか？",
+            "answer": "平食堂のおかずには主人の味がいっぱい詰まった料理があります。"
+        },
+        {
+            "question": "平食堂の焼肉の味はどうですか？",
+            "answer": "平食堂の焼肉は逸品で、ブルゴギの味があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 81,
+        "QA": 132
+    }
+}

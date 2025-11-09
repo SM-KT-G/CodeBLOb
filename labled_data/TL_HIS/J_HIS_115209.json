@@ -1,0 +1,59 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_115209",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=490&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=01520000&ccbaCtcd=11&ccbaCpno=2111101520000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2002-08-16",
+        "domain": "문화/역사관광",
+        "title": "청화백자산수인물문병"
+    },
+    "text": "ソウル特別市に位置した有形文化財はつむの針を利用して整形した朝鮮後期の病気だ。この病気は口緣部の最後が丸く仕上げらられていて首はやや長く、太く、一定の太さに下る肩部分で行われる形態を持っている。胴体は量感が豊かな方だが、完全に張られて放さず、安定しながらも緊張した味を出している。曲がった広くてやや高く、どっしりとした印象を与えるのに、外側の部分は垂直に削られ、内面は軽く傾斜している。表面には文様が装飾されているが、これは近接した山水と樓閣、ラバに乗って行く人物を繊細に描き入れた。この文様は他の山水とは違って、青和顔料の影響を強く受けた。土器も緻密で、外部の床には\"甲\"という字が刻まれている。病気の下部とヒールの部分に若干の修理があるが、形態は安定的にバランスを取っておりよく作られている。優れた腕前で山水画を描き入れた。",
+    "QA": [
+        {
+            "question": "これらの有形文化財は何処に位置していますか？",
+            "answer": "ソウル特別市に位置しています。"
+        },
+        {
+            "question": "この有形文化財は何時代のものですか？",
+            "answer": "朝鮮後期のものです。"
+        },
+        {
+            "question": "これらの有形文化財はどのような形態を持っていますか？",
+            "answer": "口緣部の最後が丸く仕上げられていて首はやや長く、太く、一定の太さに下る肩部分で行われる形態を持っています。"
+        },
+        {
+            "question": "この有形文化財の胴体にはどのような特徴がありますか？",
+            "answer": "胴体は量感が豊かな方だが、完全に張られて放さず、安定しながらも緊張した味を出しています。"
+        },
+        {
+            "question": "この有形文化財の表面には何が装飾されていますか？",
+            "answer": "山水と樓閣、ラバに乗って行く人物を繊細に描き入れた文様が装飾されています。"
+        },
+        {
+            "question": "この文様はどのような影響を受けたと言えますか？",
+            "answer": "青和顔料の影響を強く受けたと言えます。"
+        },
+        {
+            "question": "土器の外部の床に何が刻まれていますか？",
+            "answer": "「甲」という字が刻まれています。"
+        },
+        {
+            "question": "この有形文化財の下部とヒールの部分に何がありますか？",
+            "answer": "若干の修理があるが、形態は安定的にバランスを取っておりよく作られています。"
+        },
+        {
+            "question": "どのような絵が描き入れられていますか？",
+            "answer": "山水画が描き入れられています。"
+        }
+    ],
+    "word_Count": {
+        "text": 266,
+        "QA": 329
+    }
+}

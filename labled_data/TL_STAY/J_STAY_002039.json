@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_002039",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/lodge/philos-hotel",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "PHILOS HOTEL"
+    },
+    "text": "PHILOS HOTEL\n慶尚北道 浦項市 北区 竹派路6 )\n「PHILOS HOTEL」は広くて快適な131の客室、約400台の駐車施設、最大1,000人を同時収容できるエリア最大規模のコンベンションホール、品格あるウェディングホール、一流シェフがお届けするプレミアムビュッフェレストランなどを完備しています。",
+    "QA": [
+        {
+            "question": "PHILOS HOTELの客室数はいくつありますか？",
+            "answer": "PHILOS HOTELには131の客室があります。"
+        },
+        {
+            "question": "PHILOS HOTELの駐車施設は何台分ありますか？",
+            "answer": "PHILOS HOTELには約400台の駐車施設があります。"
+        },
+        {
+            "question": "PHILOS HOTELのコンベンションホールは最大で何人収容できますか？",
+            "answer": "PHILOS HOTELのコンベンションホールは最大で1,000人を同時収容することができます。"
+        },
+        {
+            "question": "PHILOS HOTELにはウェディングホールがありますか？",
+            "answer": "はい、PHILOS HOTELには品格あるウェディングホールがあります。"
+        },
+        {
+            "question": "PHILOS HOTELのレストランはどのような料理を提供していますか？",
+            "answer": "PHILOS HOTELのレストランでは一流シェフがお届けするプレミアムビュッフェレストランを提供しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 115,
+        "QA": 257
+    }
+}

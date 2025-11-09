@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_034043",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42060&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "브라운도트호텔 천안터미널점"
+    },
+    "text": "Yanoljabrand-Browndot HOTEL天安ターミナル店は感性を刺激できる空間を提供します。 洗練されたデザインの客室で平凡な日常を特別な瞬間にしてみてください。 モダンな客室インテリアとホテル式寝具でお客様に満足感を与えます。 天安ターミナル店は社長が直接管理する客室衛生は清潔ディテールで迎え、防疫は快適さと安全を感じさせます。 天井型システムエアコンを備えた最新の設備を提供します。 禁煙となっており、ホテルの衛生管理規則と新型コロナウイルス感染症予防規則を徹底的に守っていきます。 出入り時にマスクを着用し、チェックイン時に症状の有無を知らせなければなりません。 客室外に移動する際にもマスク着用を必ず守らなければなりません。",
+    "QA": [
+        {
+            "question": "ホテルの名前は何ですか？",
+            "answer": "ホテルの名前はYanoljabrand-Browndot HOTEL天安ターミナル店です。"
+        },
+        {
+            "question": "ホテルの特徴は何ですか？",
+            "answer": "ホテルは感性を刺激できる空間を提供し、洗練されたデザインの客室やモダンなインテリアが特徴です。"
+        },
+        {
+            "question": "客室の設備はどのようなものがありますか？",
+            "answer": "客室にはホテル式寝具や最新の設備である天井型システムエアコンが備えられています。"
+        },
+        {
+            "question": "ホテルでは禁煙ですか？",
+            "answer": "はい、ホテルでは禁煙です。"
+        },
+        {
+            "question": "新型コロナウイルス感染症の予防策はどのように行われていますか？",
+            "answer": "ホテルは衛生管理規則や新型コロナウイルス感染症予防規則を徹底し、出入り時にはマスクの着用と症状の有無の確認を求めています。また、客室衛生の管理もしっかり行っています。"
+        }
+    ],
+    "word_Count": {
+        "text": 237,
+        "QA": 230
+    }
+}

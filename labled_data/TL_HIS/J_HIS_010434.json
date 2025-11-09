@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_010434",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=547&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=02330000&ccbaCtcd=38&ccbaCpno=2113802330000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1983-08-12",
+        "domain": "문화/역사관광",
+        "title": "권도 동계문집 목판"
+    },
+    "text": "權道冬季文集木版 (권도 동계문집 목판)\\n\n慶尚南道晋州市\\n\n慶尚南道有形文化財 , この本版は朝鮮中期の文臣である冬季權道(クォンド、1575~1644)の詩文を集めて刊行したものだ。 權道は39歳の時、秋の増光市に及第して官職に進み始め、内外職をあまねく歴任した。 この本版は純祖9年(1809)に刊行し、全部で8冊となっており、序文は林載鄭鍾魯が書き、発文は金宏が書いた。 巻1~2には詩、巻3には萬、詩より散文性の強い文である簿、そして巻4には教書、小、答辞、啓史、巻5には書、巻6には雑書、針、策文、表典、全文,巻7には祝文,祭文,墓碑に書く文である卯葛,明知,行状,巻8には付録,年譜が入っている。 この本版には上記のような多様な文が載っており、当時の郷村社会の姿を研究するのに良い資料になるものと評価される。",
+    "QA": [
+        {
+            "question": "この本版は冬季權道の詩文を集めて刊行したものですか？",
+            "answer": "はい、正解です。この本版は朝鮮中期の文臣である冬季權道の詩文を集めて刊行したものです。"
+        },
+        {
+            "question": "冬季權道はどのような官職に就きましたか？",
+            "answer": "冬季權道は39歳の時、秋の増光市に及第して官職に進み始め、内外職をあまねく歴任しました。"
+        },
+        {
+            "question": "この本版の発文は誰が書きましたか？",
+            "answer": "この本版の発文は金宏が書きました。"
+        },
+        {
+            "question": "この本版にはどのような文が載っていますか？",
+            "answer": "この本版には詩、簿、教書、小、答辞、啓史、書、雑書、針、策文、表典、祝文、祭文、墓碑に書く文である卯葛、明知、行状、付録、年譜など、多様な文が載っています。"
+        },
+        {
+            "question": "この本版はどのような資料になりますか？",
+            "answer": "この本版は当時の郷村社会の姿を研究するのに良い資料になるものと評価されます。"
+        }
+    ],
+    "word_Count": {
+        "text": 266,
+        "QA": 236
+    }
+}

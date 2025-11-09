@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_005069",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "キンパプナラ（김밥나라）"
+    },
+    "text": "キンパプナラ（김밥나라）\\n\nソウル特別市 龍山区 漢江大路 53\\n\nソウル特別市ヨンサンヨクの近くに位置した韓食専門店です。代表的なメニューはキンパプです。各種韓国料理をお手頃価格で簡単にお楽しみいただけます。",
+    "QA": [
+        {
+            "question": "キンパプナラ（김밥나라）はどこに位置していますか？",
+            "answer": "キンパプナラはソウル特別市 龍山区 漢江大路 53に位置しています。"
+        },
+        {
+            "question": "キンパプナラの代表的なメニューは何ですか？",
+            "answer": "キンパプナラの代表的なメニューはキンパプです。"
+        },
+        {
+            "question": "キンパプナラではどのような料理を楽しむことができますか？",
+            "answer": "キンパプナラでは各種韓国料理をお手頃価格で簡単に楽しむことができます。"
+        },
+        {
+            "question": "キンパプナラの場所はヨンサンヨクに近いですか？",
+            "answer": "はい、キンパプナラはソウル特別市ヨンサンヨクの近くに位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 78,
+        "QA": 163
+    }
+}

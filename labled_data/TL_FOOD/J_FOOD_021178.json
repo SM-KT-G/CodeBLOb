@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_021178",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-08-11",
+        "domain": "음식점",
+        "title": "百済嶺（백제령）"
+    },
+    "text": "百済嶺（백제령）慶尚南道 昌原市 馬山合浦区 3・15大路383-4\\n\n「百済嶺（ペクチェリョン）サムゲタン」は、1982年に開店したサムゲタン専門店です。韓屋と綺麗に手入れされた庭が上品で落ち着いた雰囲気を醸し出しています。サムゲタンはさっぱりした淡白な味が特徴です。",
+    "QA": [
+        {
+            "question": "百済嶺（ペクチェリョン）サムゲタンはいつ開店しましたか？",
+            "answer": "百済嶺（ペクチェリョン）サムゲタンは1982年に開店しました。"
+        },
+        {
+            "question": "百済嶺（ペクチェリョン）サムゲタンの特徴的な雰囲気はどんなものですか？",
+            "answer": "百済嶺（ペクチェリョン）サムゲタンは韓屋と綺麗に手入れされた庭が上品で落ち着いた雰囲気を醸し出しています。"
+        },
+        {
+            "question": "百済嶺（ペクチェリョン）サムゲタンの味の特徴は何ですか？",
+            "answer": "百済嶺（ペクチェリョン）サムゲタンはさっぱりした淡白な味が特徴です。"
+        }
+    ],
+    "word_Count": {
+        "text": 99,
+        "QA": 153
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_088979",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ja",
+        "translator": null,
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101971",
+        "collectedDate": "2023-09-07",
+        "publishedDate": "2021-11-22",
+        "domain": "문화/역사관광",
+        "title": "薬師殿"
+    },
+    "text": "薬師殿\n薬師殿  薬師殿は、薬師如来を本尊仏として奉安する殿閣です。 薬師如来は、衆生の病気を直して命を延長させ、災禍を消滅して無上菩提を証得させる仏です。 建物内部に奉安されている薬師如来後仏図は、慶南有形文化財第419号に指定されています。",
+    "QA": [
+        {
+            "question": "薬師殿は何を奉安する殿閣ですか？",
+            "answer": "薬師殿は薬師如来を本尊仏として奉安する殿閣です。"
+        },
+        {
+            "question": "薬師如来はどのような仏ですか？",
+            "answer": "薬師如来は、衆生の病気を直して命を延長させ、災禍を消滅して無上菩提を証得させる仏です。"
+        },
+        {
+            "question": "薬師如来後仏図は何号に指定されていますか？",
+            "answer": "薬師如来後仏図は慶南有形文化財第419号に指定されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 89,
+        "QA": 109
+    }
+}

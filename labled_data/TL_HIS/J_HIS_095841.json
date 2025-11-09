@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_095841",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=940&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=24&ccbaAsno=01650000&ccbaCtcd=37&ccbaCpno=2443701650000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2013-04-08",
+        "domain": "문화/역사관광",
+        "title": "의성 운곡당"
+    },
+    "text": "義城雲谷堂\\n\n慶尚北道義城郡錦城面山雲里158\\n\n慶尚北道民俗文化財、義城の代表的な両班村であるサンウン村に所在しており、現所有者の5対照イヒバルが寧越府使としているとき建てた家だという。1800年初めに建てられたものと推定するのに、母屋は約60年余り前にイルブウルも敗れた。母屋、サランチェ、祠堂で構成されているこの村の代表的な建物だ。",
+    "QA": [
+        {
+            "question": "この家はいつ建てられましたか？",
+            "answer": "1800年初めに建てられたものと推定されています。"
+        },
+        {
+            "question": "この家はどのように構成されていますか？",
+            "answer": "母屋、サランチェ、祠堂で構成されています。"
+        },
+        {
+            "question": "この家を建てた所有者について教えてください。",
+            "answer": "現所有者の5対照イヒバルが寧越府使としていた時に建てられた家です。"
+        },
+        {
+            "question": "この家がある場所を教えてください。",
+            "answer": "この家は慶尚北道義城郡錦城面山雲里158に所在しています。"
+        },
+        {
+            "question": "この家はどのような意義を持っていますか？",
+            "answer": "この家は義城の代表的な両班村であるサンウン村に所在し、代表的な建物とされています。"
+        }
+    ],
+    "word_Count": {
+        "text": 125,
+        "QA": 177
+    }
+}

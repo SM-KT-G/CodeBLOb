@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_007774",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "ジョンジュコンナムルハンウグクバブ（전주콩나물한우국밥）"
+    },
+    "text": "ジョンジュコンナムルハンウグクバブ（전주콩나물한우국밥）\\n\n京畿道 富川市 深谷路9ボンキル 33\\n\n全州式もやしクッパを味わうことができます。代表的なメニューは豆もやしクッパです。京畿道のブチョン市に位置した韓食です。",
+    "QA": [
+        {
+            "question": "このレストランはどこにありますか？",
+            "answer": "このレストランは京畿道富川市深谷路にあります。"
+        },
+        {
+            "question": "このレストランの代表的なメニューは何ですか？",
+            "answer": "このレストランの代表的なメニューは豆もやしクッパです。"
+        },
+        {
+            "question": "このレストランはどのような韓国料理を提供していますか？",
+            "answer": "このレストランは全州式もやしクッパを提供しています。"
+        },
+        {
+            "question": "このレストランは何市に位置していますか？",
+            "answer": "このレストランは京畿道のブチョン市に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 82,
+        "QA": 137
+    }
+}

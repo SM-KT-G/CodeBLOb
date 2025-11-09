@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_010268",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-01",
+        "domain": "음식점",
+        "title": "テギネ貝の寄せ鍋 ( 택이네조개전골 )"
+    },
+    "text": "テギネ貝の寄せ鍋 \n京畿道 平沢市 碑前2路 19\nすっきりしたスープにお好きな海鮮を選んで食べる店です。京畿道のピョンテク市に位置した韓食専門店です。おすすめは貝の寄せ鍋です。",
+    "QA": [
+        {
+            "question": "このレストランはどこにありますか？",
+            "answer": "テギネ貝の寄せ鍋は京畿道平沢市碑前2路19に位置しています。"
+        },
+        {
+            "question": "このレストランの特徴は何ですか？",
+            "answer": "テギネ貝の寄せ鍋は、すっきりしたスープにお好きな海鮮を選んで食べることができる店です。"
+        },
+        {
+            "question": "おすすめのメニューは何ですか？",
+            "answer": "テギネ貝の寄せ鍋がおすすめです。"
+        },
+        {
+            "question": "このレストランは何市にありますか？",
+            "answer": "テギネ貝の寄せ鍋は京畿道のピョンテク市に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 65,
+        "QA": 133
+    }
+}

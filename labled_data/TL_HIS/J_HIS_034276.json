@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_034276",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=584&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=03000000&ccbaCtcd=38&ccbaCpno=2113803000000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1994-07-04",
+        "domain": "문화/역사관광",
+        "title": "함양 노진 신도비"
+    },
+    "text": "咸陽老津神道碑 (함양 노진 신도비 )\\n\n慶尚南道咸陽郡芝谷面坪村里山32番地\\n\n仁祖9年(1631年) , 慶尚南道有形文化財 , 神道碑とは王や高官などの生涯業績を記録し、彼の墓の南東側に立てておくもので、この碑は朝鮮中期の文臣であるノ·ジン先生の行跡を称えている。 魯迅(1518~1578)先生は明宗1年(1548)文科に及第し、僧門院の博士として官職に就き、礼曹·吏曹判書を務めた。 公的なことと私的なことを明確にし、親孝行で清白里に選ばれ、著書としては『玉渓文集』がある。 碑の形は亀の台石の上に碑身を立て、龍を刻んだ頭石を乗せた姿だ。 亀の背中に設けられた碑座(碑座:碑身を挿しておく四角い溝)には精巧な彫刻を置き、頭石には雲の中を泳ぐ6頭の龍が互いに如意宝珠を争う場面が表現されている。 碑文はイ·ジョングが建て、シン·イクソンが字を刻んだ。 王様が降った黄海道海中石を利用して仁祖9年(1631)に建てた碑で、精巧な彫刻が目立つ美しい作品だ。",
+    "QA": [
+        {
+            "question": "この咸陽老津神道碑はいつ建てられましたか？",
+            "answer": "仁祖9年(1631年)に建てられました。"
+        },
+        {
+            "question": "この咸陽老津神道碑はどの地域にありますか？",
+            "answer": "慶尚南道咸陽郡芝谷面坪村里山32番地にあります。"
+        },
+        {
+            "question": "この咸陽老津神道碑は何のために建てられたのですか？",
+            "answer": "この碑は朝鮮中期の文臣であるノ・ジン先生の行跡を称えるために建てられました。"
+        },
+        {
+            "question": "咸陽老津神道碑の形はどのようなものですか？",
+            "answer": "碑の形は亀の台石の上に碑身を立て、龍を刻んだ頭石を乗せた姿です。"
+        },
+        {
+            "question": "咸陽老津神道碑の碑座と頭石にはどのような彫刻がありますか？",
+            "answer": "碑座には精巧な彫刻があり、頭石には雲の中を泳ぐ6頭の龍が互いに如意宝珠を争う場面が表現されています。"
+        },
+        {
+            "question": "咸陽老津神道碑の碑文は誰が建て、誰が字を刻んだのですか？",
+            "answer": "イ・ジョングが建て、シン・イクソンが字を刻みました。"
+        }
+    ],
+    "word_Count": {
+        "text": 317,
+        "QA": 245
+    }
+}

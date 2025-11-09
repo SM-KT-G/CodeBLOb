@@ -1,0 +1,63 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_007419",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=591&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=03140000&ccbaCtcd=33&ccbaCpno=2113303140000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2009-12-04",
+        "domain": "문화/역사관광",
+        "title": "경주김씨 판도판서공파 족보 목판"
+    },
+    "text": "慶州金氏版図版 西公派系図 木版 (경주김씨 판도판서공파 족보 목판)\\n\n忠清北道報恩郡\\n\n忠清北道有形文化財 , 慶州金氏の版図版書公派の系図を刊行して伝えられている版木で、系図の序文と抜文によると系図の原稿が完成したのは1648年であり、版木が刻まれたのは1685年頃と判断される。 系図を通じてみると、版木の数量は合計40枚程度であり、現在17枚の版木は焼失し、23枚の版木だけが伝えられている。たとえ欠版があるものの、17世紀の地方木版印刷術の水準と版刻術を推察できる資料であり、保存状態が良好だ。",
+    "QA": [
+        {
+            "question": "この版木は何年に作られましたか？",
+            "answer": "版木は1685年頃に刻まれました。"
+        },
+        {
+            "question": "版木の保存状態はどうですか？",
+            "answer": "版木の保存状態は良好です。"
+        },
+        {
+            "question": "版木の枚数は合計何枚ですか？",
+            "answer": "版木の枚数は合計40枚程度です。"
+        },
+        {
+            "question": "現在残っている版木の数は何枚ですか？",
+            "answer": "現在、残っている版木は23枚です。"
+        },
+        {
+            "question": "この系図はどの地域の金氏に関するものですか？",
+            "answer": "この系図は慶州金氏に関するものです。"
+        },
+        {
+            "question": "この系図は何によって伝えられているものですか？",
+            "answer": "この系図は版木によって伝えられています。"
+        },
+        {
+            "question": "この系図は何年に完成されましたか？",
+            "answer": "この系図は1648年に完成されました。"
+        },
+        {
+            "question": "この系図はどのような資料として利用できますか？",
+            "answer": "この系図は17世紀の地方木版印刷術と版刻術の資料として利用できます。"
+        },
+        {
+            "question": "この系図にはどのような内容が含まれていますか？",
+            "answer": "この系図には慶州金氏の版図版書公派の系図が含まれています。"
+        },
+        {
+            "question": "この系図の抜文は何によって記載されていますか？",
+            "answer": "この系図の抜文は序文によって記載されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 187,
+        "QA": 292
+    }
+}

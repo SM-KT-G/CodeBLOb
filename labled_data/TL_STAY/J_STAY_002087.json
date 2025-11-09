@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_002087",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2020-08-11",
+        "domain": "숙박",
+        "title": "SONO Belle ビバルディパーク（소노벨 비발디파크）"
+    },
+    "text": "SONO Belle ビバルディパーク（소노벨 비발디파크）\\n\n江原道 洪川郡 西面 ハンチゴルキル 262\\n\nSONO Belle ビバルディパークは、夏の水遊びに最適なウォーターテーマパーク・オーシャンワールドをはじめ、冬のスポーツレジャー施設・スキーワールド、ゴルフ場、各種施設を備えた総合エンターテインメントリゾートです。いつの季節も素晴らしい自然のなかで休息・休養できる空間というだけでなく、一年を通じここでしか体験できない多種多彩なイベントも楽しめます。  ゴルフ、スキー、アクアなどさまざまなレジャースポーツ施設やショッピングモールがあるオールシーズンレジャースポーツ施設・SONO Belle ビバルディパークには韓国最大規模の宿泊施設も併設しています。",
+    "QA": [
+        {
+            "question": "SONO Belle ビバルディパークはどこにありますか？",
+            "answer": "SONO Belle ビバルディパークは江原道洪川郡西面ハンチゴルキル262にあります。"
+        },
+        {
+            "question": "SONO Belle ビバルディパークにはどんな施設がありますか？",
+            "answer": "SONO Belle ビバルディパークにはウォーターテーマパーク・オーシャンワールド、スキーワールド、ゴルフ場などの施設があります。"
+        },
+        {
+            "question": "SONO Belle ビバルディパークではどんなイベントが開催されますか？",
+            "answer": "SONO Belle ビバルディパークでは一年を通じて多種多彩なイベントが開催されます。"
+        },
+        {
+            "question": "SONO Belle ビバルディパークには宿泊施設がありますか？",
+            "answer": "はい、SONO Belle ビバルディパークには韓国最大規模の宿泊施設があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 247,
+        "QA": 239
+    }
+}

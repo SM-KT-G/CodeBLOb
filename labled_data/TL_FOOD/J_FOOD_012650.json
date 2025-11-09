@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_012650",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "ブウォンキンパプ ( 부원김밥 )"
+    },
+    "text": "ブウォンキンパ ( 부원김밥 )\n京畿道 ピョンテク市 ピョンテクロ39ボンギル41\n伝統あるキンパとラーメンを提供する店です。代表的なメニューはツナキンパです。京畿道のピョンテク市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "ブウォンキンパはどこに位置していますか？",
+            "answer": "ブウォンキンパは京畿道のピョンテク市に位置しています。"
+        },
+        {
+            "question": "ブウォンキンパは何を提供していますか？",
+            "answer": "ブウォンキンパは伝統あるキンパとラーメンを提供しています。"
+        },
+        {
+            "question": "ブウォンキンパの代表的なメニューは何ですか？",
+            "answer": "ブウォンキンパの代表的なメニューはツナキンパです。"
+        }
+    ],
+    "word_Count": {
+        "text": 76,
+        "QA": 104
+    }
+}

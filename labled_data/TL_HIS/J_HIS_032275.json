@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_032275",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=706&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=22&ccbaAsno=00020000&ccbaCtcd=33&ccbaCpno=2223300020000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "충주  청명주"
+    },
+    "text": "忠州淸明酒 (충주 청명주)\\n\n忠清北道無形文化財、1年24節気の一つである清明日(太陽暦4月5、6日頃)に使うために作られた民俗酒である。 朝鮮時代に漢江上流の帆船集結地である忠州地方一帯に行き来する客が好んで飲み始め、昔の士大夫のための客接待用はもちろん、名節と祭祀の日に愛用していた酒で宮中に上げたりもしたという。 純米と在来種の全粒粉で製造した麹のみを使用し、低温で約100日間発酵·熟成させて作る。 忠州清明酒はアルコール濃度が高く、色·香り·味が優れている。 現在、技能保有者のキム・ヨンギ氏によって伝承されている。",
+    "QA": [
+        {
+            "question": "忠州清明酒はどのように作られていますか？",
+            "answer": "忠州清明酒は純米と在来種の全粒粉で製造した麹のみを使用し、低温で約100日間発酵・熟成させて作られます。"
+        },
+        {
+            "question": "忠州清明酒はどんな特徴がありますか？",
+            "answer": "忠州清明酒はアルコール濃度が高く、色・香り・味が優れています。"
+        },
+        {
+            "question": "忠州清明酒はどのような時に使われる民俗酒ですか？",
+            "answer": "忠州清明酒は、1年24節気の一つである清明日(太陽暦4月5、6日頃)に使われる民俗酒です。"
+        },
+        {
+            "question": "忠州清明酒はどのような歴史を持っていますか？",
+            "answer": "忠州清明酒は、朝鮮時代に漢江上流の帆船集結地である忠州地方一帯に行き来する客が好んで飲まれており、士大夫の客接待や名節・祭祀の日に愛用されていました。宮中にも献上されたこともありました。"
+        }
+    ],
+    "word_Count": {
+        "text": 194,
+        "QA": 223
+    }
+}

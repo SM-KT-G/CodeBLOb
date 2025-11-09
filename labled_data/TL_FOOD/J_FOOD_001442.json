@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001442",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/baerlin",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "Baerlinレストラン"
+    },
+    "text": "Baerlinレストラン\\n\nソウル特別市 鍾路区 栗谷路2キル7\\n\n2005年にソウルの中心にオープンした本格ドイツ料理レストランです。ドイツの食文化が堪能できる落ち着いた雰囲気のレストランで、家族や恋人、同僚など、誰とでも気軽に楽しめます。",
+    "QA": [
+        {
+            "question": "このレストランはいつオープンしましたか？",
+            "answer": "2005年にソウルの中心にオープンしました。"
+        },
+        {
+            "question": "このレストランの場所はどこですか？",
+            "answer": "ソウル特別市 鍾路区 栗谷路2キル7にあります。"
+        },
+        {
+            "question": "このレストランでは何を楽しむことができますか？",
+            "answer": "ドイツの食文化を堪能することができます。"
+        },
+        {
+            "question": "このレストランの雰囲気はどんな感じですか？",
+            "answer": "落ち着いた雰囲気のレストランです。"
+        },
+        {
+            "question": "このレストランは誰と一緒に楽しむことができますか？",
+            "answer": "家族や恋人、同僚など、誰とでも気軽に楽しむことができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 90,
+        "QA": 159
+    }
+}

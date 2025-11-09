@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001721",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/hakrim-dabang",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "Hakrim Dabang"
+    },
+    "text": "Hakrim Dabang\\n\nソウル特別市 鍾路区 テハクロ119 )\\n\n1956年から営業している、レトロな雰囲気の店です。おすすめはウィンナーコーヒーです。ソウル特別市のチョンノ区に位置したカフェ（コーヒーショップ）です。",
+    "QA": [
+        {
+            "question": "このカフェはいつから営業していますか？",
+            "answer": "1956年から営業しています。"
+        },
+        {
+            "question": "このカフェのおすすめメニューは何ですか？",
+            "answer": "おすすめはウィンナーコーヒーです。"
+        },
+        {
+            "question": "このカフェの場所はどこですか？",
+            "answer": "このカフェはソウル特別市のチョンノ区に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 84,
+        "QA": 82
+    }
+}

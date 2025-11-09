@@ -1,0 +1,63 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_035131",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.booking.com/hotel/kr/kondominieom.ko.html",
+        "collectedDate": "2023-11-17",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "콘도미니엄"
+    },
+    "text": "平沢内に位置するコンドミニアムはエバーランドとカリビアンベイからそれぞれ44kmと45km離れています。 このアパートにはキッチンやその他のアメニティが備わっています。 また、華城は39kmの距離に位置し、アクセスが容易で、無料Wi-Fiと構内専用駐車場も提供しています。 アパート内には寝室1つ、薄型テレビ、エアコン、リビングなどがあり、快適な宿泊を楽しめます。 Hankyong National Universityはコンドミニアムから12km離れており、Osan City Hallは21kmの距離に位置しています。 清州国際空港は最寄りの空港で64km離れており、便利な移動が可能です。 コンドミニアムは平沢の中心部から18km離れており、実際の移動距離は異なる場合があります。",
+    "QA": [
+        {
+            "question": "エバーランドとカリビアンベイはコンドミニアムからどのくらいの距離ですか？",
+            "answer": "エバーランドとカリビアンベイはそれぞれ44kmと45km離れています。"
+        },
+        {
+            "question": "このアパートにはどのような設備が備わっていますか？",
+            "answer": "このアパートにはキッチンやその他のアメニティが備わっています。"
+        },
+        {
+            "question": "華城はどのくらいの距離に位置していますか？",
+            "answer": "華城は39kmの距離に位置しています。"
+        },
+        {
+            "question": "このアパートではWi-Fiを利用することができますか？",
+            "answer": "はい、無料Wi-Fiが利用できます。"
+        },
+        {
+            "question": "アパートには駐車場がありますか？",
+            "answer": "はい、構内専用駐車場があります。"
+        },
+        {
+            "question": "アパート内にはどのような部屋がありますか？",
+            "answer": "アパート内には寝室1つ、薄型テレビ、エアコン、リビングなどがあります。"
+        },
+        {
+            "question": "Hankyong National Universityはどのくらいの距離にありますか？",
+            "answer": "Hankyong National Universityはコンドミニアムから12km離れています。"
+        },
+        {
+            "question": "Osan City Hallはどのくらいの距離にありますか？",
+            "answer": "Osan City Hallは21kmの距離に位置しています。"
+        },
+        {
+            "question": "最寄りの空港はどこですか？",
+            "answer": "最寄りの空港は清州国際空港で、64km離れています。"
+        },
+        {
+            "question": "コンドミニアムは平沢の中心部からどれくらい離れていますか？",
+            "answer": "コンドミニアムは平沢の中心部から18km離れています。"
+        }
+    ],
+    "word_Count": {
+        "text": 252,
+        "QA": 402
+    }
+}

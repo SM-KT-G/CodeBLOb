@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_017892",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-05-25",
+        "domain": "음식점",
+        "title": "金剛山（금강산）"
+    },
+    "text": "金剛山\\n\n江原道 横城郡 横城邑 文化体育路 54\\n\n金剛山では横城蓄協と供給契約を結び、信頼の置ける肉だけを取り扱っており、野菜は農場で直接栽培したものだけを使用しています。韓牛の本来の美味しさを味わうことができます。",
+    "QA": [
+        {
+            "question": "金剛山はどこにありますか？",
+            "answer": "金剛山は江原道横城郡横城邑文化体育路54に位置しています。"
+        },
+        {
+            "question": "金剛山ではどのような食材を使用していますか？",
+            "answer": "金剛山では横城蓄協と供給契約を結んでおり、信頼の置ける肉を取り扱っています。また、野菜は農場で直接栽培したものを使用しています。"
+        },
+        {
+            "question": "金剛山で味わえる料理はどのようなものがありますか？",
+            "answer": "金剛山では韓牛の本来の美味しさを味わうことができます。具体的な料理の種類については、現地での提供状況により異なる場合があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 82,
+        "QA": 159
+    }
+}

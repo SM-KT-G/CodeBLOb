@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_029866",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/igamyeonok",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "イガミョンオク"
+    },
+    "text": "イガミョンオク\\n\nソウル特別市 ジョンノ区 ジャハムンロ1ギル 33\\n\nソウル特別市キョンボックン駅の近くに位置した冷麺専門店です。咸興(ハムフン)式冷麺の専門店です。おすすめは刺身入り冷麺です。",
+    "QA": [
+        {
+            "question": "この冷麺専門店はどのエリアに位置していますか？",
+            "answer": "この冷麺専門店はソウル特別市ジョンノ区に位置しています。"
+        },
+        {
+            "question": "この冷麺専門店のおすすめは何ですか？",
+            "answer": "この冷麺専門店のおすすめは刺身入り冷麺です。"
+        },
+        {
+            "question": "この冷麺専門店はどの駅の近くにありますか？",
+            "answer": "この冷麺専門店はソウル特別市キョンボックン駅の近くに位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 73,
+        "QA": 107
+    }
+}

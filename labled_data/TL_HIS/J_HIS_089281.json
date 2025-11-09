@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_089281",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1120&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=03160100&ccbaCtcd=38&ccbaCpno=3413803160100&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2002-08-14",
+        "domain": "문화/역사관광",
+        "title": "양산 통도사 함풍7년명 현왕탱"
+    },
+    "text": "梁山通度寺咸豊7年明顕王幀\\n\n慶尚南道梁山市下北面芝山里583\\n\n朝鮮時代、慶尚南道文化財資料、慶尚南道梁山市河北面池山里583番地の通度寺聖宝博物館にあるヒョンワン仏画だ。ヒョンワンテンイという地獄の王と彼の眷属たちを示した図である。絹の生地に色を塗った絵であり、3幅を相互に縛り、連結している。本誌の大きさは横126.3センチ、縦126.2センチで画面の大きさは横117.1センチ、縦122.2センチだ。絵の中央にあるヒョンワンは正面から見て左を見て座っており、両手にホール(笏を持っている。ヒョンワンの裏手には12幅の屏風が立っていてヒョンワンの周りには新館眷属たち、ノクサ、童子像、馬頭(馬頭)、牛痘身の上(牛頭神像)などがある。変色が激しく、保存状態がよくない。絵の下側にある画記(畵記)を見ると、咸豊7年、つまり1857年(哲宗8)に制作されたことを知ることができる。朝鮮時代の仏画を研究するうえに使用される。2002年8月14日、慶尚南道文化財資料第316号に指定された。",
+    "QA": [
+        {
+            "question": "この仏画は何時に制作されましたか？",
+            "answer": "仏画は咸豊7年、つまり1857年に制作されました。"
+        },
+        {
+            "question": "ヒョンワン仏画の大きさはどれくらいですか？",
+            "answer": "ヒョンワン仏画の大きさは横126.3センチ、縦126.2センチで、画面の大きさは横117.1センチ、縦122.2センチです。"
+        },
+        {
+            "question": "ヒョンワン仏画に描かれている主な図は何ですか？",
+            "answer": "ヒョンワン仏画には地獄の王であるヒョンワンと彼の眷属たちが描かれています。"
+        },
+        {
+            "question": "この仏画はどのような材料で制作されていますか？",
+            "answer": "仏画は絹の生地に色を塗ったものであり、絵の大きさは横126.3センチ、縦126.2センチです。"
+        },
+        {
+            "question": "この仏画はどのような保存状態にありますか？",
+            "answer": "保存状態は変色が激しく、良くない状態にあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 326,
+        "QA": 220
+    }
+}

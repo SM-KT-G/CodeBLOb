@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_088704",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/view?relicId=31469",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2023-10-11",
+        "domain": "문화/역사관광",
+        "title": "암키와 조각"
+    },
+    "text": "平瓦片 (암키와 조각)\\n\nこの建物の国籍と時代は、韓国の統一新羅時代です。屋根材は土で作られ、特に瓦質の平瓦として分類されます。現在のサイズは、長さ82cmと幅163cmの一部と、長さ54cmと幅68cmの別の部分があります。",
+    "QA": [
+        {
+            "question": "この瓦の建物の国籍は何ですか？",
+            "answer": "この建物は韓国の統一新羅時代のものです。"
+        },
+        {
+            "question": "この瓦は何で作られていますか？",
+            "answer": "この瓦は土で作られています。"
+        },
+        {
+            "question": "この瓦のサイズはどのくらいですか？",
+            "answer": "現在のサイズは、長さ82cmと幅163cmの一部と、長さ54cmと幅68cmの別の部分があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 84,
+        "QA": 95
+    }
+}

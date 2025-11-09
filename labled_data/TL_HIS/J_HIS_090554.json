@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_090554",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ja",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2022-12-27",
+        "domain": "문화/역사관광",
+        "title": "영광문화원"
+    },
+    "text": "栄光文化院 (영광문화원)\\n\n全羅南道霊光郡霊光邑千年路13ギル2-28\\n\n1969年に設立された大ファンは、故郷文化の保存、伝承、発掘、啓示に先駆けており、地域文化学校、文化芸術招請講演などを行い、地域文化の発展に貢献しています。",
+    "QA": [
+        {
+            "question": "設立された年は？",
+            "answer": "1969年"
+        },
+        {
+            "question": "栄光文化院はどこに位置していますか？",
+            "answer": "全羅南道霊光郡霊光邑千年路13ギル2-28"
+        },
+        {
+            "question": "栄光文化院の目的は何ですか？",
+            "answer": "故郷文化の保存、伝承、発掘、啓示"
+        },
+        {
+            "question": "栄光文化院はどのような活動を行っていますか？",
+            "answer": "地域文化学校、文化芸術招請講演など"
+        },
+        {
+            "question": "栄光文化院が地域文化に貢献している点は何ですか？",
+            "answer": "地域文化の発展に貢献しています"
+        }
+    ],
+    "word_Count": {
+        "text": 86,
+        "QA": 117
+    }
+}

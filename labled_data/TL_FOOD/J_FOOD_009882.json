@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_009882",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-06",
+        "domain": "음식점",
+        "title": "チャンウンオク ( 장은옥 )"
+    },
+    "text": "チャンウンオク ( 장은옥 )\n京畿道 平沢市 チュンアン2ロ157\n伝統的な方法で煮込んだ、あっさりしたスープの滋養食が味わえる店です。京畿道のピョンテク市に位置した韓食専門店です。代表的なメニューは牛テールのコムタンです。",
+    "QA": [
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "チャンウンオク ( 장은옥 ) は京畿道平沢市チュンアン2ロ157に位置しています。"
+        },
+        {
+            "question": "この店の特徴的なメニューは何ですか？",
+            "answer": "この店の代表的なメニューは牛テールのコムタンです。"
+        },
+        {
+            "question": "この店のスープはどんな味ですか？",
+            "answer": "この店のスープはあっさりとした味わいです。"
+        },
+        {
+            "question": "この店は何を提供していますか？",
+            "answer": "この店では伝統的な方法で煮込んだ滋養食を提供しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 82,
+        "QA": 130
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_030321",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/harris-coffee-park",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "HARRIS COFFEE PARK"
+    },
+    "text": "HARRIS COFFEE PARK\\n\nソウル特別市 江南区 駅三洞 601-16\\n\n-CNNソウルでブランチがおいしいカフェTOP 6選定 -オーストラリア・シドニーからSingle Origin Roastersプレミアムコーヒー豆を国内に独占供給 -イタリアミシュランガイド、ツースターを受けたメインパートシェフ迎入",
+    "QA": [
+        {
+            "question": "ハリスコーヒーパークはどこにありますか？",
+            "answer": "ハリスコーヒーパークはソウル特別市江南区駅三洞601-16にあります。"
+        },
+        {
+            "question": "ハリスコーヒーパークはどのランキングでブランチがおいしいカフェに選ばれましたか？",
+            "answer": "ハリスコーヒーパークはCNNソウルでブランチがおいしいカフェTOP 6に選ばれました。"
+        },
+        {
+            "question": "ハリスコーヒーパークはどこの国からコーヒー豆を供給していますか？",
+            "answer": "ハリスコーヒーパークはオーストラリア・シドニーからSingle Origin Roastersのプレミアムコーヒー豆を国内に独占供給しています。"
+        },
+        {
+            "question": "ハリスコーヒーパークのメインパートシェフはどのミシュランガイドでツースターを受けましたか？",
+            "answer": "ハリスコーヒーパークのメインパートシェフはイタリアミシュランガイドでツースターを受けました。"
+        }
+    ],
+    "word_Count": {
+        "text": 119,
+        "QA": 244
+    }
+}

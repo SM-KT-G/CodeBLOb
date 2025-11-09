@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_021002",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'http://www.toyoko-inn.co.kr",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "東横INN大邱東城路"
+    },
+    "text": "東横INN大邱東城路\\n\n大邱広域市中区東城路1キル15\\n\n大邱の中心半月堂駅から徒歩3分距離にある宿です。清潔で手頃な料金のため、ビジネスと観光の方々に両方最適な場所です。",
+    "QA": [
+        {
+            "question": "この宿の場所はどこですか？",
+            "answer": "東横INN大邱東城路は大邱広域市中区東城路1キル15にあります。"
+        },
+        {
+            "question": "この宿はどのくらいの距離にありますか？",
+            "answer": "大邱の中心半月堂駅から徒歩3分の距離にあります。"
+        },
+        {
+            "question": "この宿はどのような宿ですか？",
+            "answer": "東横INN大邱東城路は清潔で手頃な料金の宿です。"
+        },
+        {
+            "question": "この宿は誰におすすめですか？",
+            "answer": "この宿はビジネスと観光の方々に両方最適です。"
+        },
+        {
+            "question": "この宿の周辺にはどんな観光名所がありますか？",
+            "answer": "この宿の周辺には半月堂などの観光名所があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 64,
+        "QA": 152
+    }
+}

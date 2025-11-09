@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_067420",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2023-04-13",
+        "domain": "숙박",
+        "title": "더존호텔 [한국관광 품질인증/Korea Quality]"
+    },
+    "text": "ザ·ゾーンホテル[韓国観光品質認証/Korea Quality] (더존호텔 [한국관광 품질인증/Korea Quality])\\n\n光州広域市光山区イムバンウル大路826番キル60-37(月渓洞)\\n\nザ・ゾーンホテルは光州広域市先端地区に位置し、光州科学技術院および政府総合2庁舎の近くにあります。また、空港やKTX松亭里駅、潭陽や長城などの観光地へのアクセスも便利で、学会宿泊や南道探訪、ゴルフ旅行にも最適な立地条件と言えます。",
+    "QA": [
+        {
+            "question": "このホテルの場所はどこですか？",
+            "answer": "光州広域市光山区イムバンウル大路826番キル60-37(月渓洞)に位置しています。"
+        },
+        {
+            "question": "ホテルの近くにある観光地は何ですか？",
+            "answer": "ホテルの近くには光州科学技術院や政府総合2庁舎があります。また、空港やKTX松亭里駅、潭陽や長城などの観光地へのアクセスも便利です。"
+        },
+        {
+            "question": "どんな旅行に最適な立地条件ですか？",
+            "answer": "学会宿泊や南道探訪、ゴルフ旅行などに最適な立地条件です。"
+        }
+    ],
+    "word_Count": {
+        "text": 159,
+        "QA": 135
+    }
+}

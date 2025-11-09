@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_016008",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2019-08-01",
+        "domain": "숙박",
+        "title": "ブルービーチホテル（블루비치호텔）"
+    },
+    "text": "ブルービーチホテル（블루비치호텔）\\n\n釜山広域市 海雲台区 青沙浦路 128番キル 40 （中洞）\\n\n海雲台の青沙浦入口からすぐのところに位置するブルービーチホテルは安い客室料金と様々な施設が揃い観光客から人気のホテルです。",
+    "QA": [
+        {
+            "question": "ブルービーチホテルはどこにありますか？",
+            "answer": "ブルービーチホテルは釜山広域市海雲台区青沙浦路128番キル40（中洞）に位置しています。"
+        },
+        {
+            "question": "ブルービーチホテルはどのような施設がありますか？",
+            "answer": "ブルービーチホテルには様々な施設があります。"
+        },
+        {
+            "question": "ブルービーチホテルはなぜ観光客に人気なのですか？",
+            "answer": "ブルービーチホテルは安い客室料金と様々な施設が揃っているため、観光客に人気です。"
+        }
+    ],
+    "word_Count": {
+        "text": 83,
+        "QA": 126
+    }
+}

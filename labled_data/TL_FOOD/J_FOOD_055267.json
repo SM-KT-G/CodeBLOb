@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_055267",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "スソン食堂 ( 수성식당 )"
+    },
+    "text": "スソン食堂 ( 수성식당 )\n慶尚北道 安東市 ジャント2キル 3\n脂っこくなく、さっぱりしたスープが絶品の店です。慶尚北道のアンドン市に位置した韓食専門店です。代表的なメニューは鶏肉のユッケジャンです。",
+    "QA": [
+        {
+            "question": "このスソン食堂はどこに位置していますか？",
+            "answer": "スソン食堂は慶尚北道のアンドン市に位置しています。"
+        },
+        {
+            "question": "スソン食堂の代表的なメニューは何ですか？",
+            "answer": "スソン食堂の代表的なメニューは鶏肉のユッケジャンです。"
+        },
+        {
+            "question": "スソン食堂のスープはどのような味ですか？",
+            "answer": "スソン食堂のスープは脂っこくなく、さっぱりしています。"
+        }
+    ],
+    "word_Count": {
+        "text": 74,
+        "QA": 101
+    }
+}

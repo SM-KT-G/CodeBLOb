@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_024044",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-03",
+        "domain": "음식점",
+        "title": "安木港刺身入り冷やしスープ ( 안목항물회 )"
+    },
+    "text": "安木港刺身入り冷やしスープ ( 안목항물회 )\\n\n江原道 ガンヌン市 ギョンガンロ2609\\n\n様々な刺身が味わえる店です。おすすめは刺身入り冷やしスープです。江原道のガンヌン市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "このお店はどこにありますか？",
+            "answer": "このお店は韓国の江原道ガンヌン市のギョンガンロ2609に位置しています。"
+        },
+        {
+            "question": "このお店のおすすめメニューは何ですか？",
+            "answer": "このお店のおすすめは刺身入り冷やしスープです。"
+        },
+        {
+            "question": "このお店ではどんな刺身が味わえますか？",
+            "answer": "このお店では様々な刺身が味わえます。"
+        }
+    ],
+    "word_Count": {
+        "text": 75,
+        "QA": 94
+    }
+}

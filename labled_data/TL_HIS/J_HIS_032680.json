@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_032680",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=816&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=00580000&ccbaCtcd=32&ccbaCpno=2333200580000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1986-11-19",
+        "domain": "문화/역사관광",
+        "title": "태백월둔동굴"
+    },
+    "text": "太白月屯洞窟 (태백월둔동굴)\\n\n江原道太白市元洞山117番地\\n\n江原特別自治道 記念物、太白月屯洞窟は今から約5億年前に作られた洞窟だ。 縦に地中深く伸びた円筒形をしており、大小7つの空き水たまりと広い空間で構成されている。 洞窟の中にはつららのような形をした鍾乳石と洞窟の底から突出して上がってきた石筍が列を作って作った石筍柵が広がっており、洞窟の壁には珊瑚の形をした生成物と滝の形をした鍾乳石がある。 一番最後の空間には深さ4m程度の水たまりがあり、真ん中には高さ8mの大型石筍がある。",
+    "QA": [
+        {
+            "question": "太白月屯洞窟は何年前に作られましたか？",
+            "answer": "太白月屯洞窟は約5億年前に作られました。"
+        },
+        {
+            "question": "太白月屯洞窟の形はどのような形をしていますか？",
+            "answer": "太白月屯洞窟は縦に地中深く伸びた円筒形をしています。"
+        },
+        {
+            "question": "太白月屯洞窟の中にはどのような構成要素がありますか？",
+            "answer": "太白月屯洞窟の中には大小7つの空き水たまりと広い空間があります。"
+        },
+        {
+            "question": "太白月屯洞窟の中にはどのような鍾乳石がありますか？",
+            "answer": "太白月屯洞窟の中にはつららのような形をした鍾乳石と洞窟の底から突出して上がってきた石筍が列を作って作った石筍柵が広がっています。"
+        },
+        {
+            "question": "太白月屯洞窟の壁にはどのような生成物がありますか？",
+            "answer": "太白月屯洞窟の壁には珊瑚の形をした生成物と滝の形をした鍾乳石があります。"
+        },
+        {
+            "question": "太白月屯洞窟の最後の空間には何がありますか？",
+            "answer": "太白月屯洞窟の最後の空間には深さ4m程度の水たまりと高さ8mの大型石筍があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 181,
+        "QA": 263
+    }
+}

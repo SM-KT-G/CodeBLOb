@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_003201",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "ウヒャンジョン（우향정）"
+    },
+    "text": "ウヒャンジョン（우향정）\\n\n江原道 原州市 北原路 2232-13\\n\n江原道のウォンジュ市に位置した韓食です。韓国式BBQ専門店です。代表的なメニューは霜降り韓牛ロースです。",
+    "QA": [
+        {
+            "question": "このレストランはどこにありますか？",
+            "answer": "ウヒャンジョン（우향정）は江原道のウォンジュ市に位置しています。"
+        },
+        {
+            "question": "このレストランの特徴的な料理は何ですか？",
+            "answer": "ウヒャンジョン（우향정）の代表的なメニューは霜降り韓牛ロースです。"
+        },
+        {
+            "question": "このレストランは何を提供していますか？",
+            "answer": "ウヒャンジョン（우향정）は韓国式BBQを専門として提供しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 65,
+        "QA": 112
+    }
+}

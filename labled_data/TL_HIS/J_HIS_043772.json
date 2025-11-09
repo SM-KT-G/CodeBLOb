@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_043772",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=81&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=05890000&ccbaCtcd=11&ccbaCpno=1121105890000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1975-05-16",
+        "domain": "문화/역사관광",
+        "title": "강현 초상"
+    },
+    "text": "強賢肖像\\n\nソウル特別市龍山区西氷庫路137(龍山洞6街、ジャン·ジャン)\\n\n朝鮮景宗(キョンジョン)1年(1721)、宝物、<カンヒョン肖像(姜鋧肖像)>は、朝鮮中期文臣のカンヒョン(1650∼1733)先生の肖像画、右を眺めながら椅子に座っている横96センチ、縦165.8センチの大きさの前身肖像画である。カンヒョン先生は、文人書画家である姜世晃の父と、大提学、礼曹の長官など様々な官職を行った人物である。この肖像画での様子は管理者が使用する帽子と緑の官服を着ており、虎の皮が敷かれた椅子に座っている。顔の描写は目、鼻、あご、両頬の部分に細い線を利用して陰影を入れており、老人特有の赤気味がよく表現された。服のしわは陰影が入っていない範囲内にいくつかのしわのみ示し、人物の気品を見せてくれている。この絵は椅子に敷かれた虎の皮など18世紀の肖像画の典型的な形式や話法を見せてくれている。",
+    "QA": [
+        {
+            "question": "このカンヒョン肖像画は何年に作られましたか？",
+            "answer": "カンヒョン肖像画は朝鮮景宗1年(1721)に作られました。"
+        },
+        {
+            "question": "カンヒョン先生はどのような職業を持っていましたか？",
+            "answer": "カンヒョン先生は文人書画家であり、また大提学や礼曹の長官などの官職も持っていました。"
+        },
+        {
+            "question": "この肖像画でカンヒョン先生が座っている椅子には何が敷かれていますか？",
+            "answer": "この肖像画でカンヒョン先生が座っている椅子には虎の皮が敷かれています。"
+        },
+        {
+            "question": "カンヒョン肖像画はどのような服装をしていますか？",
+            "answer": "カンヒョン肖像画では、カンヒョン先生が管理者が使用する帽子と緑の官服を着ています。"
+        },
+        {
+            "question": "この肖像画ではどのように顔の描写がされていますか？",
+            "answer": "この肖像画では、顔の描写に細い線を利用して陰影を入れており、老人特有の赤気味がよく表現されています。"
+        },
+        {
+            "question": "この肖像画はどの時代の典型的な形式や話法を示していますか？",
+            "answer": "この肖像画は18世紀の肖像画の典型的な形式や話法を示しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 290,
+        "QA": 284
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_009255",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-03",
+        "domain": "음식점",
+        "title": "ソルヒャンズワイガニ ( 솔향대게 )"
+    },
+    "text": "ソルヒャンズワイガニ ( 솔향대게 )\\n\n江原道 ガンヌン市 ヘアンロ286\\n\nリーズナブルな価格でロシア産ズワイガニを提供する店です。江原道のガンヌン市に位置した韓食専門店です。おすすめはズワイガニです。",
+    "QA": [
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "ソルヒャンズワイガニは江原道のガンヌン市のヘアンロ286に位置しています。"
+        },
+        {
+            "question": "この店の特徴は何ですか？",
+            "answer": "ソルヒャンズワイガニはリーズナブルな価格でロシア産ズワイガニを提供する店です。"
+        },
+        {
+            "question": "おすすめの料理は何ですか？",
+            "answer": "おすすめはズワイガニです。"
+        }
+    ],
+    "word_Count": {
+        "text": 77,
+        "QA": 93
+    }
+}

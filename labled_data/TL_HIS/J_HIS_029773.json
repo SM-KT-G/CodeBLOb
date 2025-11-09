@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_029773",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2023-08-09",
+        "domain": "문화/역사관광",
+        "title": "지리산에 깃든 산사의 매력을 느껴보다"
+    },
+    "text": "智異山に宿る山寺の魅力を感じてみる (지리산에 깃든 산사의 매력을 느껴보다)\\n\n求礼は智異山を抱える地域で、五つの市郡にまたがっています。智異山の麓には、華厳寺をはじめとした千年以上の歴史を持つ古刹が残っており、そこをめぐる旅は山寺の魅力を十分に感じられるものです。また、智異山ではツキノワグマに会える貴重な自然体験もできます。",
+    "QA": [
+        {
+            "question": "智異山はどの地域に広がっていますか？",
+            "answer": "智異山は求礼地域に広がっています。"
+        },
+        {
+            "question": "智異山の麓には何が残っていますか？",
+            "answer": "智異山の麓には華厳寺をはじめとした千年以上の歴史を持つ古刹が残っています。"
+        },
+        {
+            "question": "智異山でできる自然体験は何がありますか？",
+            "answer": "智異山ではツキノワグマに会える貴重な自然体験もできます。"
+        }
+    ],
+    "word_Count": {
+        "text": 122,
+        "QA": 100
+    }
+}

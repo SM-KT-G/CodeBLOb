@@ -1,0 +1,55 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_070454",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=99&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=07860000&ccbaCtcd=11&ccbaCpno=1123107860000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1984-08-06",
+        "domain": "문화/역사관광",
+        "title": "백자 청화운룡문 병"
+    },
+    "text": "朝鮮時代に作られた宝物な白磁チョンファウンリョンムン病気は高さ21.5センチ、口直径4.6センチ、ミッジルム6.6センチの大きさを持っている。この病気は青華白瓷雲龍文のビンとともに出土されたが、口は外に起きて首は狭い形態を帯びている。下に日増しに膨張し、豊満な感じを与えており、淡いブルーを帯びた白磁釉に堅固で、緻密に塗られている。青和顔料にコバルト色を使用した図は暗い方だが、雲と龍の顔に濃淡の差を置いて豊富な変化を示している。雲の中で如意宝珠を得ようとする龍は生きて動くような頭をもたげたことと目で見える気が引き立つ。龍文は王が使用する器に使用されており、王室の年次用に使われた可能性が高い。この瓶は、朝鮮初期、京畿道光州(クァンジュ)一帯の国家が管理する窯で作られており、青華白瓷のうち、龍文が刻まれた重要な資料である。",
+    "QA": [
+        {
+            "question": "この白磁チョンファウンリョンムン病気はどの時代に作られましたか？",
+            "answer": "この病気は朝鮮時代に作られました。"
+        },
+        {
+            "question": "この病気の大きさはどれくらいですか？",
+            "answer": "この病気は高さ21.5センチ、口直径4.6センチ、ミッジルム6.6センチの大きさです。"
+        },
+        {
+            "question": "この病気はどのような形態をしていますか？",
+            "answer": "この病気は口が外に起きて首が狭い形態をしています。"
+        },
+        {
+            "question": "この病気の釉にはどんな色が使われていますか？",
+            "answer": "この病気の釉には淡いブルーを帯びた白磁釉が使われています。"
+        },
+        {
+            "question": "この病気の図案にはどんなものが描かれていますか？",
+            "answer": "この病気の図案には雲と龍が描かれており、雲の中で龍が如意宝珠を得ようとしています。"
+        },
+        {
+            "question": "この病気は王室の年次用に使われた可能性がありますか？",
+            "answer": "はい、この病気は王室の年次用に使われた可能性が高いです。"
+        },
+        {
+            "question": "この病気はどの窯で作られましたか？",
+            "answer": "この病気は朝鮮初期、京畿道光州(クァンジュ)一帯の国家が管理する窯で作られました。"
+        },
+        {
+            "question": "この病気は青華白瓷の中で何が刻まれた資料ですか？",
+            "answer": "この病気は青華白瓷の中で龍文が刻まれた重要な資料です。"
+        }
+    ],
+    "word_Count": {
+        "text": 266,
+        "QA": 318
+    }
+}

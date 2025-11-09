@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_069531",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=156&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=14250000&ccbaCtcd=11&ccbaCpno=1121114250000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2004-11-26",
+        "domain": "문화/역사관광",
+        "title": "백자 철화매죽문 항아리"
+    },
+    "text": "朝鮮時代(17世紀)、宝物、朝鮮前期の余韻が残る、立派な形をした一幅の文人画を見るように、絵の味が絶品の壺です。文様は暗褐色の濃い針金顔料を使用していますが、口と胴体の底部には図式化された三角形の蓮の葉を描き、肩には変形した如意頭紋帯を配置して広い文様帯を区画しています。胴体には朝鮮初期からよく登場する梅と竹を前後に分けて描いていますが、紙の上に墨で描くように大胆な筆致で巧みに描写しています",
+    "QA": [
+        {
+            "question": "この壺はいつの時代のものですか？",
+            "answer": "この壺は朝鮮時代の17世紀のものです。"
+        },
+        {
+            "question": "この壺はどのような形をしていますか？",
+            "answer": "この壺は立派な形をしており、一幅の文人画を思わせる美しいデザインです。"
+        },
+        {
+            "question": "この壺の文様はどのように描かれていますか？",
+            "answer": "この壺の文様は暗褐色の濃い針金顔料を使って描かれています。口と胴体の底部には図式化された蓮の葉、肩には変形した如意頭紋帯が配置され、大胆な筆致で描写されています。"
+        },
+        {
+            "question": "この壺の胴体に描かれている梅と竹はどのように描かれていますか？",
+            "answer": "この壺の胴体に描かれている梅と竹は前後に分けて描かれており、紙の上に墨で描くような大胆な筆致で巧みに描写されています。"
+        },
+        {
+            "question": "この壺の特徴的な文様は何ですか？",
+            "answer": "この壺の特徴的な文様は、口と胴体の底部に描かれた図式化された蓮の葉と、肩に配置された変形した如意頭紋帯です。"
+        }
+    ],
+    "word_Count": {
+        "text": 144,
+        "QA": 256
+    }
+}

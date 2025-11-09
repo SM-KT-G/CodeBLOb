@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_094974",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1000&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=00520000&ccbaCtcd=35&ccbaCpno=3413500520000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1984-04-01",
+        "domain": "문화/역사관광",
+        "title": "유천서원"
+    },
+    "text": "全羅北道に位置した文化財資料である5賢士はバンサリャン、屁きた、安全、バンウンヒョン、アンチャングクを称えるための書院である。バンサリャンは、高麗末∼朝鮮初期の議員で朝鮮日本酒1年(1399)に刊行した『ヒャンヤク済生集成の部屋』と『新撰家性魔の部屋・友誼の部屋』の編集に参加した。ユチョン書院は、純祖(スンジョ)30年(1830)に建てられたが、興宣大院君(テウォングン)の書院撤廃令で閉鎖された。子孫たちは1909年に書院席にユホビを立てており、現在は建物が消えて塀だけが残っている姿だ。",
+    "QA": [
+        {
+            "question": "何が文化財資料である5賢士を称えるための書院ですか？",
+            "answer": "バンサリャン、屁きた、安全、バンウンヒョン、アンチャングクを称えるための書院です。"
+        },
+        {
+            "question": "いつユチョン書院が建てられましたか？",
+            "answer": "ユチョン書院は純祖30年（1830）に建てられました。"
+        },
+        {
+            "question": "誰が高麗末∼朝鮮初期の議員で、『ヒャンヤク済生集成の部屋』と『新撰家性魔の部屋・友誼の部屋』の編集に参加しましたか？",
+            "answer": "バンサリャンがその議員で、編集に参加しました。"
+        },
+        {
+            "question": "なぜユチョン書院は閉鎖されましたか？",
+            "answer": "興宣大院君の書院撤廃令により、ユチョン書院は閉鎖されました。"
+        },
+        {
+            "question": "現在のユチョン書院の状態はどのようですか？",
+            "answer": "子孫たちは1909年に書院席にユホビを立てており、現在は建物が消えて塀だけが残っているようです。"
+        }
+    ],
+    "word_Count": {
+        "text": 180,
+        "QA": 227
+    }
+}

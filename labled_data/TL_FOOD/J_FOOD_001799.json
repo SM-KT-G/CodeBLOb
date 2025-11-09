@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001799",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2020-12-04",
+        "domain": "음식점",
+        "title": "Kimbabchunkuk cafe 平沢古徳( 김밥천국 평택고덕 )"
+    },
+    "text": "Kimbabchunkuk cafe 平沢古徳( 김밥천국 평택고덕 )\\n\n京畿道 平沢市 京畿大路 987\\n\n新鮮な材料を使った様々な韓国料理が味わえる店です。 京畿道のピョンテク市に位置した韓国料理店です。代表的なメニューは豚肉炒め丼です。",
+    "QA": [
+        {
+            "question": "平沢古徳カフェの特徴は何ですか？",
+            "answer": "平沢古徳カフェは新鮮な材料を使った様々な韓国料理が味わえる店です。代表的なメニューは豚肉炒め丼です。"
+        },
+        {
+            "question": "平沢古徳カフェの場所はどこですか？",
+            "answer": "平沢古徳カフェは京畿道平沢市の京畿大路987に位置しています。"
+        },
+        {
+            "question": "平沢古徳カフェの営業時間は何時から何時までですか？",
+            "answer": "平沢古徳カフェの営業時間は朝10時から夜9時までです。"
+        },
+        {
+            "question": "平沢古徳カフェの代表的なメニューは何ですか？",
+            "answer": "平沢古徳カフェの代表的なメニューは豚肉炒め丼です。"
+        },
+        {
+            "question": "平沢古徳カフェでは他にどんな料理が提供されていますか？",
+            "answer": "平沢古徳カフェでは新鮮な材料を使った様々な韓国料理が提供されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 90,
+        "QA": 201
+    }
+}

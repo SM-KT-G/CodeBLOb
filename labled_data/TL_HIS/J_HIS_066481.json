@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_066481",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=962&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=00110000&ccbaCtcd=35&ccbaCpno=3413500110000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1984-04-01",
+        "domain": "문화/역사관광",
+        "title": "반곡서원"
+    },
+    "text": "パンゴク・ソウォン\\n\n全羅北道全州市完山区東西鶴2街210番地\\n\n全羅北道文化財資料、この書院は、朝鮮(チョソン)時代の学者だったユンファン(尹惶)の位牌が祀られて祭る所だ。ユンファンウンの丙子胡乱の時、最後まで戦うことを主張する提言を申し上げた剛直な臣下で有名だ。ユンファンウン字に長けているため、当代の名筆として名を高めており、仁祖の時には全州府尹という官職を務めたりもした。盤谷書院はユンファンウィ位牌が中央に仕えて、朝鮮時代の学者である李ヨンソン(李榮先)とソピルウォン(徐必遠)をともに仕えた。この書院は高宗5年(1868)の書院撤廃令によって壊されたが、高宗15年(1878)に再び建てられた。",
+    "QA": [
+        {
+            "question": "この書院はどの時代の学者の位牌が祀られていますか？",
+            "answer": "朝鮮(チョソン)時代の学者、ユンファン(尹惶)の位牌が祀られています。"
+        },
+        {
+            "question": "ユンファンはどのような人物でしたか？",
+            "answer": "ユンファンは剛直な臣下で、丙子胡乱の時に最後まで戦うことを主張する提言を申し上げたことで有名な学者でした。"
+        },
+        {
+            "question": "ユンファンはどのような才能を持っていましたか？",
+            "answer": "ユンファンは字に長けており、当代の名筆として名を高めていました。"
+        },
+        {
+            "question": "この書院ではどのような学者が仕えていましたか？",
+            "answer": "この書院では、ユンファンの位牌の他にも李ヨンソン(李榮先)とソピルウォン(徐必遠)という朝鮮時代の学者が仕えていました。"
+        },
+        {
+            "question": "盤谷書院は何年に再建されましたか？",
+            "answer": "盤谷書院は高宗15年(1878)に再建されました。"
+        }
+    ],
+    "word_Count": {
+        "text": 223,
+        "QA": 228
+    }
+}

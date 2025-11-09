@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_102714",
+        "source": "도서",
+        "writer": "배동렬",
+        "ISBN_ISNN": "978-89-9350-838-3",
+        "version": "초판",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "블로거 비밀이야의 전국해장음식열전",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2017-03-10",
+        "domain": "음식점",
+        "title": "투썸플레이스 서충주신도시점"
+    },
+    "text": "A Two Some Placeは、大韓民国コーヒーブランド1位を誇ります。味と品質を向けて全ての職員が努力しています。ソチュンジュ新ドシジョムでは今日も苦労した私をための小さな贅沢を楽しむことができます。運営時間は毎日08:30から23:00までで、ソチュンジュこの楽な世の中の向かい側に位置し、ノーブランドの隣にあります。メニューにはアメリカーノが4,500ウォン、ラテが5,000ウォン、ティラミスが37,000ウォン、ストロベリーチョコレート生クリームが37,000ウォンで提供されます。",
+    "QA": [
+        {
+            "question": "A Two Some Placeの営業時間は何時から何時までですか？",
+            "answer": "A Two Some Placeは毎日08:30から23:00まで営業しています。"
+        },
+        {
+            "question": "A Two Some Placeはどこに位置していますか？",
+            "answer": "A Two Some Placeはソチュンジュの向かい側に位置し、ノーブランドの隣にあります。"
+        },
+        {
+            "question": "A Two Some Placeのメニューには何がありますか？",
+            "answer": "A Two Some Placeのメニューにはアメリカーノ、ラテ、ティラミス、ストロベリーチョコレート生クリームがあります。価格はアメリカーノが4,500ウォン、ラテが5,000ウォン、ティラミスとストロベリーチョコレート生クリームが37,000ウォンです。"
+        },
+        {
+            "question": "A Two Some Placeは韓国のコーヒーブランドの中で何位ですか？",
+            "answer": "A Two Some Placeは大韓民国コーヒーブランド1位です。"
+        },
+        {
+            "question": "A Two Some Placeの職員は何のために努力していますか？",
+            "answer": "A Two Some Placeの職員は味と品質を向けて努力しています。"
+        },
+        {
+            "question": "A Two Some Placeで贅沢を楽しむことができますか？",
+            "answer": "はい、A Two Some Placeでは今日も苦労した人々のための小さな贅沢を楽しむことができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 181,
+        "QA": 392
+    }
+}

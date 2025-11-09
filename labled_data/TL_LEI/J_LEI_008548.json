@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_LEI_008548",
+        "source": "도서",
+        "writer": "이명성",
+        "ISBN_ISNN": "978-89-9865-693-5",
+        "version": "초판",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "오늘도 공방으로 출근합니다",
+        "collectedDate": "2023-11-10",
+        "publishedDate": "2020-01-22",
+        "domain": "레포츠",
+        "title": "랩포터리"
+    },
+    "text": "こんにちは、陶磁器工房「LAB POTTERY」です。 私たちは陶磁器を楽しめる多様で体系的な陶芸プログラムを研究·運営しています。 お子様からお年寄りまで誰でも簡単に陶磁器を楽しめる機会を提供しています。 僕たちのスローガンは 「Our pottery, your happiness」で 土と友達になってみてください :) クラス情報は次のとおりです:大人ワンデークラスは65,000ウォンで、子供ワンデークラスは45,000ウォンです。 LAB POTTERYで陶磁器を作り、塗り絵をしながら楽しい時間をお過ごしください。 ありがとうございます。",
+    "QA": [
+        {
+            "question": "陶磁器工房「LAB POTTERY」ではどのようなプログラムが提供されていますか？",
+            "answer": "陶磁器工房「LAB POTTERY」では、陶磁器を楽しめる多様で体系的な陶芸プログラムを研究·運営しています。"
+        },
+        {
+            "question": "陶磁器工房「LAB POTTERY」のスローガンは何ですか？",
+            "answer": "陶磁器工房「LAB POTTERY」のスローガンは「Our pottery, your happiness」です。"
+        },
+        {
+            "question": "陶磁器工房「LAB POTTERY」の大人ワンデークラスはいくらですか？",
+            "answer": "陶磁器工房「LAB POTTERY」の大人ワンデークラスは65,000ウォンです。"
+        },
+        {
+            "question": "陶磁器工房「LAB POTTERY」の子供ワンデークラスはいくらですか？",
+            "answer": "陶磁器工房「LAB POTTERY」の子供ワンデークラスは45,000ウォンです。"
+        }
+    ],
+    "word_Count": {
+        "text": 202,
+        "QA": 247
+    }
+}

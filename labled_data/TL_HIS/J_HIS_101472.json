@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_101472",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=400&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=00350000&ccbaCtcd=33&ccbaCpno=2113300350000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1976-12-21",
+        "domain": "문화/역사관광",
+        "title": "제천 청풍 팔영루"
+    },
+    "text": "朝鮮時代、忠清北道有形文化財、昔の清風府への出入り口だった楼門で、高宗(在位1863~1907)の時の府使ミン·チサンが清風8景を歌った八詠詩によって八詠楼と呼ばれるようになりました。朝鮮粛宗28年(1702年)に府使イ·ギホンが玄徳門と言った場所に高宗7年(1870年)府使イ·ジョンヒョンが建て直しました。忠州ダム建設により1983年現在の位置に移築されました",
+    "QA": [
+        {
+            "question": "この楼門は何時代のものですか？",
+            "answer": "朝鮮時代の楼門で、高宗の時に建て直されました。"
+        },
+        {
+            "question": "この楼門はどこに移築されましたか？",
+            "answer": "忠州ダム建設により1983年現在の位置に移築されました。"
+        },
+        {
+            "question": "楼門は何のために使われていましたか？",
+            "answer": "昔の清風府への出入り口として使われていました。"
+        },
+        {
+            "question": "誰が八詠楼と呼ばれるようになるきっかけとなった詩を書きましたか？",
+            "answer": "高宗の時の府使ミン·チサンが清風8景を歌った八詠詩を書きました。"
+        },
+        {
+            "question": "この楼門の名称の由来は何ですか？",
+            "answer": "高宗7年(1870年)府使イ·ジョンヒョンが建て直したことによって八詠楼と呼ばれるようになりました。"
+        }
+    ],
+    "word_Count": {
+        "text": 133,
+        "QA": 186
+    }
+}

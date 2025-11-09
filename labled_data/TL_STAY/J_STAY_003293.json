@@ -1,0 +1,51 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_003293",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2023-07-02",
+        "domain": "숙박",
+        "title": "굿모닝가족호텔"
+    },
+    "text": "グッドモーニングファミリーホテル\nグッドモーニングファミリーホテルは2003年7月、雪岳圏旅行の中心地である束草市束草海水浴場内に現代式のおしゃれなインテリアで建築した新たなファミリーホテルです。ホテルの品格にコンドミニアムの実用性を加え、おしゃれな客室の雰囲気にコンドミニアムの便利さを満喫できるように配慮し、快適な自由旅行スタイルを楽しむ家族や恋人、旅行者に適している。グッドモーニングファミリーホテルの魅力は、客室から東海の日の出が眺められることです。客室はSea Side Guest RoomとMountain view Guest Roomがあり、Mountain view Guest Roomは雪岳山の尾根を眺めることができます。Sea Side Guest Roomは、東海の雄大な日の出と水平線、操業する漁船、夜景など海の全景を鑑賞できる美しい客室です。また、大型コンビニや韓国料理店、カラオケなど様々な施設を備え、快適な雪岳圏旅行の休憩所になるだろう。",
+    "QA": [
+        {
+            "question": "グッドモーニングファミリーホテルの建設年月日はいつですか？",
+            "answer": "グッドモーニングファミリーホテルは2003年7月に建設されました。"
+        },
+        {
+            "question": "グッドモーニングファミリーホテルはどのような場所にありますか？",
+            "answer": "グッドモーニングファミリーホテルは束草市束草海水浴場内にあります。"
+        },
+        {
+            "question": "グッドモーニングファミリーホテルの客室の特徴は何ですか？",
+            "answer": "グッドモーニングファミリーホテルの客室にはSea Side Guest RoomとMountain view Guest Roomがあります。"
+        },
+        {
+            "question": "Mountain view Guest Roomから何が眺められますか？",
+            "answer": "Mountain view Guest Roomからは雪岳山の尾根が眺められます。"
+        },
+        {
+            "question": "Sea Side Guest Roomから何が鑑賞できますか？",
+            "answer": "Sea Side Guest Roomからは東海の日の出と水平線、漁船の操業、夜景など海の全景が鑑賞できます。"
+        },
+        {
+            "question": "グッドモーニングファミリーホテルの周辺にはどのような施設がありますか？",
+            "answer": "グッドモーニングファミリーホテルの周辺には大型コンビニや韓国料理店、カラオケなど様々な施設があります。"
+        },
+        {
+            "question": "グッドモーニングファミリーホテルはどのような旅行者に適していますか？",
+            "answer": "グッドモーニングファミリーホテルは家族や恋人、旅行者に適しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 320,
+        "QA": 397
+    }
+}

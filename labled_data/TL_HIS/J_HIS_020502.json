@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_020502",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1182&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=06480000&ccbaCtcd=38&ccbaCpno=3413806480000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2018-07-12",
+        "domain": "문화/역사관광",
+        "title": "산청 완계서원"
+    },
+    "text": "山清完渓書院 (산청 완계서원)\\n\n慶尚南道山清郡新登嘉会路114番キル61(新登面、完渓書院)\\n\n朝鮮中期建設、朝鮮後期(1788年)完渓書院賜額 , 慶尚南道文化財資料 , 完渓書院は朝鮮中期の文臣である東渓権道を祀るために建立された書院で、1788年(正祖12)に建立され、以後東山権克亮を共に祀った。 1866年(高宗3年)書院撤廃令で消えたが、1874年(高宗11年)講堂を再建し、以後大門と東斎、西斎内三門、祠堂を復元して現在の姿を整えた。 書院の建物配置形態がよく生きており、教育的、歴史的資料として活用価値の高い建物だ。",
+    "QA": [
+        {
+            "question": "完渓書院はいつ建てられましたか？",
+            "answer": "完渓書院は1788年に建立されました。"
+        },
+        {
+            "question": "完渓書院はどのような目的で建てられましたか？",
+            "answer": "完渓書院は文臣である東渓権道を祀るために建立されました。"
+        },
+        {
+            "question": "完渓書院はどのような建物配置形態を持っていますか？",
+            "answer": "完渓書院は建物配置形態がよく生きており、教育的、歴史的資料として活用価値の高い建物です。"
+        },
+        {
+            "question": "完渓書院は一度撤廃されたことがありましたか？",
+            "answer": "はい、1866年に書院撤廃令で消えましたが、1874年に講堂を再建し、以後大門と東斎、西斎内三門、祠堂を復元して現在の姿を整えました。"
+        }
+    ],
+    "word_Count": {
+        "text": 198,
+        "QA": 178
+    }
+}

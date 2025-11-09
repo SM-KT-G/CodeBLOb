@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_038493",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=981&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=00280000&ccbaCtcd=32&ccbaCpno=3413200280000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1984-06-02",
+        "domain": "문화/역사관광",
+        "title": "주천삼층석탑"
+    },
+    "text": "酒泉三層石塔 (주천삼층석탑)\\n\n江原道寧越郡酒泉面酒泉里1124-1\\n\n江原特別自治道 文化財資料、2階の基壇の上に3階の塔身を上げた姿で、興寧寺という寺を初めて建てる時、この寺を案内するために建てた3基の塔の一つと伝えられている。 基壇は一部離れており、各面の中央と角ごとに柱を模して刻まれている。 下の階の基壇の一番上の石には卵穴<聖穴>のような穴が3ヶ所あり、上面には蓮の花模様が飾られている。 塔身は1階の石にだけ柱の形を刻んだ。 2階建ての屋根石は先端が割れているが、そのせいで3階建ての屋根石がさらに大きく見え、まるで他の塔のものを挟んだように見える。 興寧寺創建当時に作ったと伝えられているが、各部分の比例がよく合わず、2·3階の石に柱を刻んでいない点などから見て高麗末·朝鮮初期に建てたものと推察される。 本来は川岸にあったものを、堤防を積みながら今の場所に移しておいたが、この時塔の中で金銅仏像を発見したという。",
+    "QA": [
+        {
+            "question": "この酒泉三層石塔は何時代に建てられましたか？",
+            "answer": "高麗末・朝鮮初期に建てられました。"
+        },
+        {
+            "question": "この酒泉三層石塔はどの寺のために建てられたのですか？",
+            "answer": "この酒泉三層石塔は興寧寺の案内のために建てられました。"
+        },
+        {
+            "question": "この酒泉三層石塔の基壇には何が刻まれていますか？",
+            "answer": "基壇の各面の中央と角ごとに柱を模して刻まれています。"
+        },
+        {
+            "question": "この酒泉三層石塔の塔身には何が刻まれていますか？",
+            "answer": "塔身には1階の石にだけ柱の形が刻まれています。"
+        },
+        {
+            "question": "この酒泉三層石塔はどのようにして現在の場所に移動されましたか？",
+            "answer": "元々は川岸にありましたが、堤防を積みながら現在の場所に移動されました。"
+        }
+    ],
+    "word_Count": {
+        "text": 306,
+        "QA": 187
+    }
+}

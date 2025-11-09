@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_099316",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=116&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=09690000&ccbaCtcd=11&ccbaCpno=1121109690000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1988-12-28",
+        "domain": "문화/역사관광",
+        "title": "재조본 유가사지론 권64"
+    },
+    "text": "再造本遺事誌論 巻64\\n\nソウル特別市龍山区西氷庫路137(龍山洞6街、ジャン·ジャン)\\n\nこの本は、高麗高宗33年(1246)に大将図鑑で刊行したジェチョボン高麗大蔵経版本の一つで全体100冊のうち、権64だ。韓国伝統の紙でつくったに撮った木版本へと形態は屏風のように巻いて保管することができるようになっていて、縦36.8センチ、横49センチの大きさを26枚つなげた。在朝大将警は伝わっている文章が様々であるが、印刷が精巧で紙の質が厚くしたコウゾ紙であり、表紙とタイトルが原型のまま残っているのは珍しい例である。印刷状態がはっきりして精巧なことから、13世紀から14世紀の間に発行したものと推定される。",
+    "QA": [
+        {
+            "question": "この本は何年に刊行されましたか？",
+            "answer": "この本は高麗高宗33年(1246)に刊行されました。"
+        },
+        {
+            "question": "この本の形態はどのようになっていますか？",
+            "answer": "この本は伝統の紙で作られ、木版本に撮影されており、屏風のように巻いて保管できるようになっています。"
+        },
+        {
+            "question": "この本の大きさは何ですか？",
+            "answer": "この本の大きさは縦36.8センチ、横49センチで、全体で26枚つなげられています。"
+        },
+        {
+            "question": "この本は何種類の紙で作られていますか？",
+            "answer": "この本は韓国伝統の紙で作られており、コウゾ紙を使用しています。"
+        },
+        {
+            "question": "この本の印刷状態はどのようですか？",
+            "answer": "この本の印刷状態は精巧であり、13世紀から14世紀の間に発行されたものと推定されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 222,
+        "QA": 203
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_030881",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.goodchoice.kr/product/detail?ano=353&adcno=1&sel_date=2023-11-07&sel_date2=2023-11-08",
+        "collectedDate": "2023-11-15",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "양산 버튼"
+    },
+    "text": "2020年7月にオープンしたGRAND HOTELは梁山で最高の宿泊施設とされています。 最上の客室で快適な一日を過ごせるだけでなく、計40台の駐車施設を提供しており、車で来られる方も便利に利用できます。 また、2号線南陽山駅と釜山大学梁山キャンパス駅とのアクセスも優れており、地下鉄を利用する方にも便利な位置にあります。 GRAND HOTELで最高の休息と快適さをご体験ください。",
+    "QA": [
+        {
+            "question": "GRAND HOTELはいつオープンしましたか？",
+            "answer": "GRAND HOTELは2020年7月にオープンしました。"
+        },
+        {
+            "question": "GRAND HOTELはどこにありますか？",
+            "answer": "GRAND HOTELは梁山にあります。"
+        },
+        {
+            "question": "GRAND HOTELはどのような施設を提供していますか？",
+            "answer": "GRAND HOTELは最上の客室と40台の駐車施設を提供しています。"
+        },
+        {
+            "question": "GRAND HOTELへのアクセス方法はありますか？",
+            "answer": "GRAND HOTELへは2号線南陽山駅と釜山大学梁山キャンパス駅からアクセスすることができます。"
+        },
+        {
+            "question": "GRAND HOTELでの滞在はどのような体験ができますか？",
+            "answer": "GRAND HOTELでは最高の休息と快適さを体験することができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 140,
+        "QA": 218
+    }
+}

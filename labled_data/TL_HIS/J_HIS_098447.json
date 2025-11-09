@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_098447",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/view?relicId=167040",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2023-10-11",
+        "domain": "문화/역사관광",
+        "title": "잡유 도기 항아리"
+    },
+    "text": "雑遊陶器の壺 (잡유 도기 항아리)\\n\n国籍/時代: 中国-ウォン 材質: 陶磁器 - 雑油 分類: 食生活 - 食べ物 - 保存運搬 - 壺 大きさ: 高さ19cm、着丈95cm、底径9cm 修正例: この壺は、ウォン時代の中国で作られたもので、陶磁器と雑油でできています。食生活の一部であり、食べ物を保存や運搬するために用いられる壺です。サイズは高さ19cm、着丈95cm、底径9cmです。",
+    "QA": [
+        {
+            "question": "この壺はどこの国の何時代のものですか？",
+            "answer": "この壺は中国のウォン時代のものです。"
+        },
+        {
+            "question": "この壺はどんな材質でできていますか？",
+            "answer": "この壺は陶磁器と雑油でできています。"
+        },
+        {
+            "question": "この壺は何に分類されますか？",
+            "answer": "この壺は食生活の一部であり、食べ物を保存や運搬するために用いられる壺です。"
+        },
+        {
+            "question": "この壺の大きさはどのくらいですか？",
+            "answer": "この壺の大きさは高さ19cm、着丈95cm、底径9cmです。"
+        }
+    ],
+    "word_Count": {
+        "text": 145,
+        "QA": 125
+    }
+}

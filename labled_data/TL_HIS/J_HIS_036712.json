@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_036712",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=438&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=00810000&ccbaCtcd=37&ccbaCpno=2113700810000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1975-12-30",
+        "domain": "문화/역사관광",
+        "title": "우금촌두암고택"
+    },
+    "text": "友琴村斗巌古宅 (우금촌두암고택)\\n\n慶尚北道栄州市二山面新岩里304番地\\n\n慶尚北道有形文化財、友琴村斗岩古宅は斗岩が20歳で分家する時に建てた家で、胴体24間·箱当たり6間·寺当たり6間となっている。 正針は朝鮮宣祖23年(1590)に建てられ、咸集堂と祠堂はその後代に建てられたものだ。 斗岩キム·ウイク(1571~1639)は光海君4年(1612年)に文科に及第し、永元郡守、海美県監を歴任した後、漢城府員に至った。",
+    "QA": [
+        {
+            "question": "友琴村斗巌古宅はどこにありますか？",
+            "answer": "友琴村斗巌古宅は慶尚北道栄州市二山面新岩里304番地にあります。"
+        },
+        {
+            "question": "友琴村斗巌古宅は何のために建てられましたか？",
+            "answer": "友琴村斗巌古宅は斗岩が20歳で分家する時に建てられた家です。"
+        },
+        {
+            "question": "友琴村斗巌古宅の建物の広さはどのくらいですか？",
+            "answer": "友琴村斗巌古宅の建物の広さは胴体24間・箱当たり6間・寺当たり6間となっています。"
+        },
+        {
+            "question": "友琴村斗巌古宅にはどのような建物がありますか？",
+            "answer": "友琴村斗巌古宅には正針、咸集堂、祠堂などの建物があります。"
+        },
+        {
+            "question": "斗岩キム・ウイクは何をしましたか？",
+            "answer": "斗岩キム・ウイクは文科に及第し、永元郡守、海美県監を歴任した後、漢城府員に至りました。"
+        }
+    ],
+    "word_Count": {
+        "text": 156,
+        "QA": 203
+    }
+}

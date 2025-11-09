@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_031537",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/tartine-itaewon",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "TARTINE 梨泰院店"
+    },
+    "text": "TARTINE 梨泰院店\\n\nソウル龍山区梨泰院洞119-15\\n\nアメリカ人シェフが直接焼いて出す高級パイをアイスクリームと一緒にたのしんでください。正統レシピにこだわるパイ専門店であり、その他のメニューも正統レシピだけをこだわります。 週末にだけ作る特別なメレンゲパイとココナッツ、バナナクリームなどを楽しめます。 お持ち帰りも可能です。 注文予約は可能ですが、座の予約は不可能です。",
+    "QA": [
+        {
+            "question": "場所はどこですか？",
+            "answer": "梨泰院店はソウル龍山区梨泰院洞119-15にあります。"
+        },
+        {
+            "question": "どのようなメニューがありますか？",
+            "answer": "TARTINE 梨泰院店では、高級パイとアイスクリームを一緒に楽しめます。他にも特別なメレンゲパイやココナッツ、バナナクリームなどのメニューもあります。"
+        },
+        {
+            "question": "注文予約は可能ですか？",
+            "answer": "はい、注文予約は可能ですが、座席の予約はできません。"
+        },
+        {
+            "question": "お持ち帰りはできますか？",
+            "answer": "はい、お持ち帰りも可能です。"
+        },
+        {
+            "question": "どんなレシピにこだわっていますか？",
+            "answer": "TARTINE 梨泰院店では、正統なレシピにこだわっています。"
+        }
+    ],
+    "word_Count": {
+        "text": 142,
+        "QA": 175
+    }
+}

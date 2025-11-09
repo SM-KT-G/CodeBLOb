@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_LEI_006087",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2023-02-13",
+        "domain": "레포츠",
+        "title": "서산 덕송지"
+    },
+    "text": "徳松池は八峰山麓の渓谷に40年前の1968年に築造された1万坪余りの美しい風景を持つ渓谷地です。 中流橋の下のムルゴル地帯が主なポイントで、沿岸に葦といかだ水草が発達しています。 エビが主力のエサや太い粒を狙うなら、真魚が特効です。 シーズンは年中均一に楽しめます。",
+    "QA": [
+        {
+            "question": "徳松池はいつ築造されましたか？",
+            "answer": "徳松池は1968年に築造されました。"
+        },
+        {
+            "question": "徳松池はどのような風景を持っていますか？",
+            "answer": "徳松池は八峰山麓の渓谷に位置し、美しい風景を持っています。"
+        },
+        {
+            "question": "徳松池の主なポイントはどこですか？",
+            "answer": "徳松池の主なポイントは中流橋の下のムルゴル地帯です。"
+        },
+        {
+            "question": "徳松池では何のエサを使うと良いですか？",
+            "answer": "徳松池ではエビが主力のエサですが、太い粒を狙うなら真魚が特効です。"
+        },
+        {
+            "question": "徳松池のシーズンはいつですか？",
+            "answer": "徳松池では年中均一に楽しむことができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 97,
+        "QA": 156
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_010035",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-01",
+        "domain": "음식점",
+        "title": "チョンアリ ( 청아리 )"
+    },
+    "text": "チョンアリ \n京畿道 平沢市 京畿大路 987-1\n魚の新鮮さが生きているスープと焼き魚を味わえます。おすすめはサバ焼きです。京畿道のピョンテク市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "このレストランの場所はどこですか？",
+            "answer": "チョンアリ  京畿道 平沢市 京畿大路 987-1 にあります。"
+        },
+        {
+            "question": "このレストランはどのような料理を提供していますか？",
+            "answer": "このレストランでは、魚の新鮮さが生きているスープや焼き魚などの韓国料理を提供しています。特におすすめはサバ焼きです。"
+        },
+        {
+            "question": "このレストランはどのくらいの広さですか？",
+            "answer": "広さについての具体的な情報は提供されていませんが、京畿道のピョンテク市に位置しているとのことです。"
+        },
+        {
+            "question": "このレストランはどのような特徴がありますか？",
+            "answer": "このレストランの特徴は、魚の新鮮さが生きている料理が楽しめることです。また、焼き魚もおすすめです。"
+        }
+    ],
+    "word_Count": {
+        "text": 63,
+        "QA": 199
+    }
+}

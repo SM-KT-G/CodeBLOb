@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_060946",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/collectionList#######",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "도서자료 개성구식부기장"
+    },
+    "text": "図書資料開城旧式簿記帳 (도서자료 개성구식부기장)\\n\n1924年の調査時に作成された図書資料は、「開城旧式簿記帳」と呼ばれており、韓国が日本によって植民地支配されていた時代のものです。この資料は、ガラスと宝石でできたフィルムに記録されており、サイズは横16.4cm、縦12.0cmです。",
+    "QA": [
+        {
+            "question": "この図書資料は何年に作成されましたか？",
+            "answer": "1924年に作成されました。"
+        },
+        {
+            "question": "この図書資料のサイズは何ですか？",
+            "answer": "横16.4cm、縦12.0cmです。"
+        },
+        {
+            "question": "この図書資料は何で記録されていますか？",
+            "answer": "ガラスと宝石でできたフィルムに記録されています。"
+        },
+        {
+            "question": "この図書資料は何と呼ばれていますか？",
+            "answer": "開城旧式簿記帳と呼ばれています。"
+        },
+        {
+            "question": "この図書資料はどの時代のものですか？",
+            "answer": "韓国が日本によって植民地支配されていた時代のものです。"
+        }
+    ],
+    "word_Count": {
+        "text": 106,
+        "QA": 138
+    }
+}

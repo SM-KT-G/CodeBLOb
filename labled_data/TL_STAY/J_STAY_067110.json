@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_067110",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.booking.com/hotel/kr/cs-gwangju.ko.html",
+        "collectedDate": "2023-11-17",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "CS 호텔"
+    },
+    "text": "CSホテルは光州西区尚武平和路128に位置し、快適で広い客室を提供しています。 国立アジア文化殿堂から約6.9km、河南産業団地から約8.3km離れており、光州ワールドカップ競技場、国立博物館、芸術の街とも近い距離に位置しています。 CSホテルでは、アメリカン料理を楽しめるレストランと無料の専用駐車場を提供しています。 宿泊客はアジア式の朝食を楽しむことができ、レセプションスタッフは常に有用な情報を提供しています。 CSホテル周辺にはGwangju Statue of Peace、金大中コンベンションセンター、Gwangju Student independence Movement Memorial Hallなどの主要名所があり、最寄り空港は光州空港から約5kmの距離に位置しています。 光州の中心部から約5km離れており、チェックインは15:00から可能で、チェックアウトは11:00まで行われます。 場所内のバーやレストランは、様々な雰囲気を提供し、宿泊客に多彩な食事体験を提供します。",
+    "QA": [
+        {
+            "question": "ホテルCSの場所はどこですか？",
+            "answer": "光州西区尚武平和路128に位置しています。"
+        },
+        {
+            "question": "ホテルCSの周辺にはどのような名所がありますか？",
+            "answer": "Gwangju Statue of Peace、金大中コンベンションセンター、Gwangju Student independence Movement Memorial Hallなどの主要名所があります。"
+        },
+        {
+            "question": "ホテルCSの最寄り空港はどこですか？",
+            "answer": "光州空港から約5kmの距離に位置しています。"
+        },
+        {
+            "question": "ホテルCSではどのような朝食が楽しめますか？",
+            "answer": "アジア式の朝食を楽しむことができます。"
+        },
+        {
+            "question": "ホテルCSのチェックインとチェックアウトの時間はいつですか？",
+            "answer": "チェックインは15:00から可能で、チェックアウトは11:00まで行われます。"
+        }
+    ],
+    "word_Count": {
+        "text": 330,
+        "QA": 229
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_012158",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-12",
+        "domain": "음식점",
+        "title": "バンビョンチョン魚の辛味スープ ( 반변천매운탕 )"
+    },
+    "text": "バンビョンチョン(半邊川)魚の辛味スープ\\n\n慶尚北道 安東市 ドンフンキル 32\\n\nメウンタン(魚の辛味スープ)を提供する店です。慶尚北道のアンドン市に位置した韓国料理店です。代表的なメニューはナマズスープです。",
+    "QA": [
+        {
+            "question": "この店の名前は何ですか？",
+            "answer": "バンビョンチョン(半邊川)魚の辛味スープです。"
+        },
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "慶尚北道の安東市ドンフンキル 32に位置しています。"
+        },
+        {
+            "question": "この店の特徴的なメニューは何ですか？",
+            "answer": "代表的なメニューはナマズスープです。"
+        }
+    ],
+    "word_Count": {
+        "text": 79,
+        "QA": 80
+    }
+}

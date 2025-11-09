@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_037443",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1079&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=01780200&ccbaCtcd=37&ccbaCpno=3413701780200&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1986-12-11",
+        "domain": "문화/역사관광",
+        "title": "창석사당"
+    },
+    "text": "蒼石祠堂 (창석사당)\\n\n慶尚北道尚州市嘉泉3ギル70(清里面、蒼石祠堂(慶北文化財資料第178-2号))\\n\n慶尚北道文化財資料、棣華堂の中にある建物で、蒼石李埈先生（1560~1635）を祀った祠堂だ。李俊先生は朝鮮中期の文臣で、壬辰倭乱の時には彼の兄の月刊移転とともに義兵を集めて倭敵に対抗した。彩画は兄弟を意味するもので、これら兄弟の友愛を象徴したという。昌石寺堂はもともと孝宗7年(1656)が他の所に建てたが、英祖47年(1771)、月刊先生が晩年に学問を遂行した棣華堂があるここに移転した。月刊先生を祀った祠堂のような構造になっており、両端に風を防ぐ風板を設置した。",
+    "QA": [
+        {
+            "question": "この祠堂はどこにありますか？",
+            "answer": "蒼石祠堂は慶尚北道尚州市嘉泉3ギル70にあります。"
+        },
+        {
+            "question": "蒼石李埈先生とはどのような人物ですか？",
+            "answer": "蒼石李埈先生は朝鮮中期の文臣で、壬辰倭乱の時には兄とともに義兵を集めて倭敵に対抗しました。"
+        },
+        {
+            "question": "この祠堂にはどのような彩画がありますか？",
+            "answer": "この祠堂には兄弟を象徴する彩画があります。"
+        },
+        {
+            "question": "蒼石祠堂は元々どこに建てられましたか？",
+            "answer": "蒼石祠堂は元々孝宗7年に建てられたものでしたが、英祖47年にここに移転されました。"
+        },
+        {
+            "question": "この祠堂の特徴は何ですか？",
+            "answer": "蒼石祠堂は月刊先生を祀った祠堂のような構造になっており、両端に風を防ぐ風板が設置されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 213,
+        "QA": 193
+    }
+}

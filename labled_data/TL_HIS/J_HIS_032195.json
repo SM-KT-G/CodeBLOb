@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_032195",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=780&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=00210000&ccbaCtcd=33&ccbaCpno=2333300210000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1978-02-22",
+        "domain": "문화/역사관광",
+        "title": "충주 이수일 묘소"
+    },
+    "text": "忠州李守一墓所 (충주 이수일 묘소)\\n\n忠清北道忠州市金佳面梧石里202-1番地\\n\n忠清北道記念物、朝鮮中期の武臣である隠庵·李秀逸（イ·スイル、1554~1632）将軍の墓所だ。 宣祖16年(1583)、武科に及第した後、訓練員の官職を経て宣伝官になり、壬辰倭乱の時には長期県監で義兵を起こし大きな功績を立てた。 その後、密陽牧師と慶尚左道水軍節度使を務め、丁酉再乱の時には星州牧師として倭敵を撃退した。 仁祖2年(1624)、李适の乱が起きた時には平安道兵馬節度使兼副元帥となり反乱軍を大破した。 忠清北道忠州市金加面五石里に位置した彼の墓は、夫人全州李氏と合葬したもので、花崗岩で墳丘の下の部分を囲んだ。 墳墓の前には上石と童子石一対があり、右側にはキムジプが文を作り、ソン·ジュンギルが字を書いた墓碑が建てられている。 墓所の下側には顕宗8年(1667)に大理石で建てた神道碑(王や高官などの生涯業績を称えるために墓の近くの道端に建てた碑)があり、50m離れたところには祠がある。",
+    "QA": [
+        {
+            "question": "この墓所は誰のために建てられましたか？",
+            "answer": "この墓所は隠庵·李秀逸（イ·スイル）将軍のために建てられました。"
+        },
+        {
+            "question": "李秀逸将軍は何をなさった方ですか？",
+            "answer": "李秀逸将軍は朝鮮中期の武臣であり、壬辰倭乱や丁酉再乱などの戦争で大きな功績を立てた方です。"
+        },
+        {
+            "question": "この墓所はどの地域に位置していますか？",
+            "answer": "この墓所は忠清北道忠州市金加面梧石里に位置しています。"
+        },
+        {
+            "question": "墓の前には何がありますか？",
+            "answer": "墓の前には上石と童子石があります。"
+        },
+        {
+            "question": "墓所の下側には何がありますか？",
+            "answer": "墓所の下側には顕宗8年(1667)に建てられた神道碑があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 327,
+        "QA": 173
+    }
+}

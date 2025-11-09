@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001685",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "Geon Won ( 전원 )"
+    },
+    "text": "Geon Won ( 전원 )\n慶尚北道 アンドン市 アンギョジョルゴルギル23-6\n鴨肉と鍋料理を提供する店です。慶尚北道のアンドン市に位置した韓食専門店です。代表的なメニューは鶏肉入り海鮮の保養スープです。",
+    "QA": [
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "この店は慶尚北道のアンドン市に位置しています。"
+        },
+        {
+            "question": "この店の名前は何ですか？",
+            "answer": "この店の名前は「전원」です。"
+        },
+        {
+            "question": "この店の特徴的なメニューは何ですか？",
+            "answer": "この店の代表的なメニューは鶏肉入り海鮮の保養スープです。"
+        },
+        {
+            "question": "この店で提供される料理は何ですか？",
+            "answer": "この店では鴨肉と鍋料理を提供しています。"
+        },
+        {
+            "question": "この店の住所は何ですか？",
+            "answer": "この店の住所は慶尚北道アンドン市アンギョジョルゴルギル23-6です。"
+        }
+    ],
+    "word_Count": {
+        "text": 77,
+        "QA": 140
+    }
+}

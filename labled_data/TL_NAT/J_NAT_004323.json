@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_004323",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1023&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=00800000&ccbaCtcd=31&ccbaCpno=3413100800000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1990-09-06",
+        "domain": "자연관광",
+        "title": "가운동지석묘"
+    },
+    "text": "加雲洞支石墓 (가운동지석묘)\\n\n京畿道南楊州市茶山洞6244\\n\n青銅器 , 京畿道文化財資料 , 支石墓は青銅器時代の代表的な墓で、主に経済力があったり政治権力を持った支配層の墓として知られている。 巨大な蓋石が地上に現れており、その下に溜め石、墓域施設、墓室などがある構造を持っている。 一般的には墓場が地上に位置した卓式と地下に位置した基盤式または碁盤式に分類されている。 「佳雲洞支石墓」は漢江に王淑川が合流する地点の東側低い丘陵(標高80m)の斜面に位置する。 本来は複数の支石墓があったと知られているが、住民たちが支石墓の石材を家屋建設に活用して滅失し、現在の支石墓も破損して本来より大きさが減ったという。支石墓は地上に蓋石だけが露出しているが、大きさは長さ3.1m、幅1.48mで平面形態は台形の形だ。 長軸方向は南北方向に漢江が流れる方向と概して一致する。 蓋石の下に一部の小さな溜め石2個を支えたとして碁盤式と推定しているが、発掘調査が行われておらず正確な下部構造は把握しにくい。",
+    "QA": [
+        {
+            "question": "この支石墓はどのような時代の墓ですか？",
+            "answer": "この支石墓は青銅器時代の墓です。"
+        },
+        {
+            "question": "支石墓はどのような構造を持っていますか？",
+            "answer": "支石墓は巨大な蓋石の下に溜め石、墓域施設、墓室などがある構造を持っています。"
+        },
+        {
+            "question": "この支石墓はどのような位置にありますか？",
+            "answer": "この支石墓は漢江に王淑川が合流する地点の東側低い丘陵の斜面に位置しています。"
+        },
+        {
+            "question": "この支石墓の大きさはどれくらいですか？",
+            "answer": "支石墓の大きさは長さ3.1m、幅1.48mであり、平面形態は台形の形をしています。"
+        },
+        {
+            "question": "この支石墓の下部構造についてはどのような推定がなされていますか？",
+            "answer": "この支石墓の下部構造については、一部の小さな溜め石2個を支えたとして碁盤式と推定されていますが、正確な把握はまだ行われていません。"
+        }
+    ],
+    "word_Count": {
+        "text": 330,
+        "QA": 225
+    }
+}

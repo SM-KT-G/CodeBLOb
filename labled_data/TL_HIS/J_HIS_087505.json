@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_087505",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=631&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=04060000&ccbaCtcd=37&ccbaCpno=2113704060000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2008-11-03",
+        "domain": "문화/역사관광",
+        "title": "안동 봉황사 삼세불화"
+    },
+    "text": "慶尚北道有形文化財であるサムセブル化は釈迦の不和、阿弥陀仏化、薬剤師の不和で構成されている。彼らはすべて3幅でなっており、釈迦の不和、阿弥陀仏化、薬剤師仏画はそれぞれ霊山会相図、阿弥陀極楽会上図、薬剤師会常道と呼ばれ、ボンファンサ、大雄殿のフブル仏画に安置されている。この時、霊山会上図を中心に左右には薬剤師会上都と阿弥陀極楽会上図が位置する。釈迦仏恩現在を意味して、薬師仏は過去を意味し、阿弥陀如来坐像は未来を意味する。材質は主に麻本彩色を使用して、一部区間では絹本が使用された。大きさは横に240-280cm、縦では380-390cmほどだ。サムセブル化は、釈迦牟尼仏と阿弥陀仏、薬師如来の會上を描いており、薬剤師会賞もの畵記を通じて1725年に造成されたことを確認することができる。また、この作品は細部の描写と個性の際立つ形、美しい彩色で朝鮮時代サムセブル化研究において貴重な資料として活用され得る。",
+    "QA": [
+        {
+            "question": "サムセブル化は何で構成されていますか？",
+            "answer": "サムセブル化は釈迦の不和、阿弥陀仏化、薬剤師の不和で構成されています。"
+        },
+        {
+            "question": "サムセブル化の大きさはどのくらいですか？",
+            "answer": "サムセブル化の大きさは横に240-280cm、縦では380-390cmほどです。"
+        },
+        {
+            "question": "サムセブル化は何年に造成されたことが確認されていますか？",
+            "answer": "サムセブル化は薬剤師会賞もの畵記を通じて1725年に造成されたことが確認されています。"
+        },
+        {
+            "question": "サムセブル化の彩色には何が主に使用されていますか？",
+            "answer": "サムセブル化の彩色には主に麻本彩色が使用されています。"
+        },
+        {
+            "question": "サムセブル化はどのような意味を持っていますか？",
+            "answer": "サムセブル化は釈迦仏恩現在を意味し、薬師仏は過去を意味し、阿弥陀如来坐像は未来を意味します。"
+        }
+    ],
+    "word_Count": {
+        "text": 295,
+        "QA": 224
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_031264",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42050&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "무주 이소콘도펜션"
+    },
+    "text": "イソコンドは九千洞の山と渓谷に位置しています。 ここは清らかで清潔な環境を誇り、癒しに最適な場所です。 私たちはあなたの旅行に満足していただけるように最善を尽くします。 イソコンドは4つの客室で構成されており、多くの人数も気軽に収容できます。 また、バーベキュー場も完備されており、屋外でのロマンチックな雰囲気を楽しむことができます。 ただし、22時以降に入室される場合は、予めペンションまでご連絡ください。 ありがとうございます。",
+    "QA": [
+        {
+            "question": "イソコンドはどこに位置していますか？",
+            "answer": "イソコンドは九千洞の山と渓谷に位置しています。"
+        },
+        {
+            "question": "イソコンドはどのような環境ですか？",
+            "answer": "イソコンドは清らかで清潔な環境を誇り、癒しに最適な場所です。"
+        },
+        {
+            "question": "イソコンドには何部屋ありますか？",
+            "answer": "イソコンドは4つの客室で構成されています。"
+        },
+        {
+            "question": "イソコンドは何人まで収容できますか？",
+            "answer": "イソコンドは多くの人数も気軽に収容できます。"
+        },
+        {
+            "question": "イソコンドにはバーベキュー場がありますか？",
+            "answer": "イソコンドにはバーベキュー場も完備されており、屋外でのロマンチックな雰囲気を楽しむことができます。"
+        },
+        {
+            "question": "イソコンドへの入室時間はいつまでですか？",
+            "answer": "22時以降に入室される場合は、予めペンションまでご連絡ください。"
+        }
+    ],
+    "word_Count": {
+        "text": 158,
+        "QA": 210
+    }
+}

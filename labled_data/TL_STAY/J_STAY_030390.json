@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_030390",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.goodchoice.kr/product/detail?ano=46505&adcno=1&sel_date=2023-11-07&sel_date2=2023-11-08",
+        "collectedDate": "2023-11-15",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "동천 갤러리아"
+    },
+    "text": "駐車場情報:駐車施設をご利用いただける宿です。 ）駐車場を利用して便利に車を駐車することができます。 地下鉄情報:宿の近くには、3号線八巨駅と東川駅があります。 利用する方は最寄り駅を利用すると便利です。 客室の内部施設:特室はノーハードパソコンが設置されており、高仕様ゲームを楽しめます。 快適な宿泊とゲームの楽しさを同時に体験できます。",
+    "QA": [
+        {
+            "question": "駐車場はありますか？",
+            "answer": "はい、駐車場をご利用いただけます。"
+        },
+        {
+            "question": "最寄りの地下鉄駅はどこですか？",
+            "answer": "宿の近くには八巨駅と東川駅があります。"
+        },
+        {
+            "question": "特別室にはどんな設備がありますか？",
+            "answer": "特別室にはノーハードパソコンが設置されており、高仕様ゲームが楽しめます。"
+        }
+    ],
+    "word_Count": {
+        "text": 124,
+        "QA": 83
+    }
+}

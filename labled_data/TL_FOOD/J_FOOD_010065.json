@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_010065",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-05",
+        "domain": "음식점",
+        "title": "チョンソッコル ( 청석골 )"
+    },
+    "text": "チョンソッコル ( 청석골 )\\n\n全羅南道 海南郡 海南邑 プクブ循環道路166\\n\n自家製のだし汁を使用しています。全羅南道のヘナム郡に位置した韓食専門店です。代表的なメニューは冷麺です。",
+    "QA": [
+        {
+            "question": "チョンソッコルはどこに位置していますか？",
+            "answer": "チョンソッコルは全羅南道海南郡海南邑プクブ循環道路166に位置しています。"
+        },
+        {
+            "question": "チョンソッコルでは何を使って料理を作りますか？",
+            "answer": "チョンソッコルでは自家製のだし汁を使用して料理を作っています。"
+        },
+        {
+            "question": "チョンソッコルの代表的なメニューは何ですか？",
+            "answer": "チョンソッコルの代表的なメニューは冷麺です。"
+        }
+    ],
+    "word_Count": {
+        "text": 70,
+        "QA": 113
+    }
+}

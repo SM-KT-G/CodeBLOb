@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_008287",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1084&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=01900000&ccbaCtcd=35&ccbaCpno=3413501900000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2012-11-02",
+        "domain": "문화/역사관광",
+        "title": "고창 화동서원 정모재"
+    },
+    "text": "高敞華東書院ジョンモジェ (고창 화동서원 정모재)\\n\n全羅北道高敞郡校洞キル24(大山面)\\n\n全羅北道文化財資料 , 華東書院は高麗（コリョ）時代に入れ墨だった文安公（ムンアンゴン）、金良鑑（キム·ヤンガム）を主壁に李朝判書の金仁宇（キム·インウ）、謝恩金勝吉（キム·スンギル）、梅隠（メウン）金五行（キム·オヘン）の4人の位牌を奉安。 光山金氏文献録によると、1898年以前から藁葺きの形で建物があったと伝えており、1912年に講堂であるジョンモジェとソ·ジェインミョンジェを再建したことが明らかになっている。華東書院は講堂であるジョンモジェを中心に左右に東斎であるチギョンジェとソ·ジェインミョンジェがあり、内三門を過ぎると祠堂である校洞寺があり典型的な転校後墓型の配置を成している。 講堂であるジョンモジェは5段の自然石花崗岩基壇の上に正面5間、側面3間で構成されているが、中央2間の板の間を中心に左右3間は部屋になっている。 構造は基壇の上に花崗石の塊柱を置いて頭柱を立てた後、桁で結具し、屋根は一軒家の様式だ。",
+    "QA": [
+        {
+            "question": "華東書院はどこに位置していますか？",
+            "answer": "華東書院は全羅北道高敞郡校洞キル24に位置しています。"
+        },
+        {
+            "question": "華東書院の建物はいつ建てられましたか？",
+            "answer": "華東書院の建物は1912年に再建されました。"
+        },
+        {
+            "question": "華東書院にはどのような建物がありますか？",
+            "answer": "華東書院には講堂であるジョンモジェ、東斎であるチギョンジェとソ・ジェインミョンジェ、祠堂である校洞寺があります。"
+        },
+        {
+            "question": "ジョンモジェの構造はどのようになっていますか？",
+            "answer": "ジョンモジェは5段の自然石花崗岩基壇の上に正面5間、側面3間で構成されています。中央2間の板の間を中心に左右3間は部屋になっています。"
+        }
+    ],
+    "word_Count": {
+        "text": 339,
+        "QA": 184
+    }
+}

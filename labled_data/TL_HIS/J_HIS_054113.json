@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_054113",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/view?relicId=101030",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "글자를 새긴 수키와 조각13"
+    },
+    "text": "文字を刻んだ男瓦彫刻 (글자를 새긴 수키와 조각)\\n\n凡その時、がれきが平行門の間から飛び出し、水城を襲った。被害を受けたのは、統一新羅時代の韓国人で、両脚をもって打ち倒された。このがれきは、土と瓦でできており、主に屋根材として使われていた。その大きさは、現在の幅139cm、長さ243cmである。",
+    "QA": [
+        {
+            "question": "この男性は何をしていましたか？",
+            "answer": "この男性は文字を刻んでいました。"
+        },
+        {
+            "question": "男性はどのような被害を受けましたか？",
+            "answer": "男性は両脚をもって打ち倒されました。"
+        },
+        {
+            "question": "このがれきは何でできていましたか？",
+            "answer": "このがれきは土と瓦でできていました。"
+        },
+        {
+            "question": "このがれきは主に何に使われていましたか？",
+            "answer": "このがれきは主に屋根材として使われていました。"
+        },
+        {
+            "question": "このがれきの大きさは何でしたか？",
+            "answer": "このがれきの大きさは、幅139cm、長さ243cmでした。"
+        }
+    ],
+    "word_Count": {
+        "text": 110,
+        "QA": 139
+    }
+}

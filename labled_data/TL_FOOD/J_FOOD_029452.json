@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_029452",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-08-27",
+        "domain": "음식점",
+        "title": "虎叱 ( 호질 )"
+    },
+    "text": "虎叱 ( 호질 )\\n\nソウル特別市 鐘路区 紫霞門路9キル 15\\n\n観光スポットの一つである景福宮の近くに位置しており、観光のついでにアクセスしやすいレストランです。 おすすめはつぶ貝の和え物です。ソウル特別市のジョンノ区に位置した韓国料理店です。",
+    "QA": [
+        {
+            "question": "このレストランの場所はどこですか？",
+            "answer": "このレストランはソウル特別市鐘路区紫霞門路9キル15に位置しています。"
+        },
+        {
+            "question": "このレストランはどのような場所にありますか？",
+            "answer": "このレストランは景福宮の近くに位置しており、観光のついでにアクセスしやすいです。"
+        },
+        {
+            "question": "このレストランのおすすめ料理は何ですか？",
+            "answer": "このレストランのおすすめはつぶ貝の和え物です。"
+        },
+        {
+            "question": "このレストランはどのような料理を提供していますか？",
+            "answer": "このレストランは韓国料理を提供しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 92,
+        "QA": 148
+    }
+}

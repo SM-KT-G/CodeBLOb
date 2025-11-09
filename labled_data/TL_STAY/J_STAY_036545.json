@@ -1,0 +1,59 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_036545",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42010&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "일산 킨텍스 바이 케이트리"
+    },
+    "text": "Kintex by K-treeホテルは、キンテックスに位置するレジデンスホテルで、合計422室を保有しています。客室は様々なタイプで構成されており、効率的な業務空間とモダンなデザインで快適さを感じることができます。テラスからは自然光と夜景を眺めることができ、現代百貨店と大型マートが徒歩3分以内に位置しています。金浦空港と仁川空港からのアクセスも良く、3号線大田駅も徒歩5分の距離にあり、都心まで簡単に移動することができます。ホテルはキンテックスの隣に位置し、MICEとビジネスイベントに最適化されており、客室1室につき宿泊期間中、1台の車は無料で駐車可能です。さらに、大人と子供の追加人数に対する費用も案内されており、ホテル内には様々な付帯施設も提供され、朝食を提供するビュッフェとフィットネスセンターもご利用いただけます。",
+    "QA": [
+        {
+            "question": "Kintex by K-treeホテルはどこに位置していますか？",
+            "answer": "Kintex by K-treeホテルはキンテックスに位置しています。"
+        },
+        {
+            "question": "Kintex by K-treeホテルは何室の客室を保有していますか？",
+            "answer": "Kintex by K-treeホテルは合計422室の客室を保有しています。"
+        },
+        {
+            "question": "Kintex by K-treeホテルの客室はどのような特徴がありますか？",
+            "answer": "Kintex by K-treeホテルの客室は様々なタイプで構成されており、効率的な業務空間とモダンなデザインが特徴です。"
+        },
+        {
+            "question": "Kintex by K-treeホテルの周辺にはどのような施設がありますか？",
+            "answer": "Kintex by K-treeホテルの周辺には現代百貨店と大型マートが徒歩3分以内に位置しています。"
+        },
+        {
+            "question": "Kintex by K-treeホテルへのアクセスはどのようになっていますか？",
+            "answer": "Kintex by K-treeホテルへのアクセスは金浦空港と仁川空港からも良く、3号線大田駅も徒歩5分の距離にあります。"
+        },
+        {
+            "question": "Kintex by K-treeホテルはMICEやビジネスイベントに最適化されていますか？",
+            "answer": "はい、Kintex by K-treeホテルはキンテックスの隣に位置し、MICEとビジネスイベントに最適化されています。"
+        },
+        {
+            "question": "Kintex by K-treeホテルでの駐車場の利用料金はどのようになっていますか？",
+            "answer": "Kintex by K-treeホテルでは宿泊期間中、客室1室につき1台の車は無料で駐車可能です。"
+        },
+        {
+            "question": "Kintex by K-treeホテルでの追加人数に対する費用はどのようになっていますか？",
+            "answer": "Kintex by K-treeホテルでは大人と子供の追加人数に対する費用が案内されています。"
+        },
+        {
+            "question": "Kintex by K-treeホテル内にはどのような施設がありますか？",
+            "answer": "Kintex by K-treeホテル内には様々な付帯施設が提供されており、朝食を提供するビュッフェとフィットネスセンターが利用できます。"
+        }
+    ],
+    "word_Count": {
+        "text": 266,
+        "QA": 602
+    }
+}

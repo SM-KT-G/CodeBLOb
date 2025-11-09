@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_030146",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/blt-steak",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "ビエルティステイク"
+    },
+    "text": "ビエルティステイク\\n\nソウル特別市 ジョンノ区 チョンギェチョンロ 279, JW Marriott Dongdaemun Square Seoul 2階\\n\nソウル特別市トンデムン駅の近くに位置した洋食専門店です。代表的なメニューはステーキです。ニューヨークの3大ステーキ店です。",
+    "QA": [
+        {
+            "question": "場所はどこですか？",
+            "answer": "ソウル特別市 ジョンノ区 チョンギェチョンロ 279, JW Marriott Dongdaemun Square Seoul 2階"
+        },
+        {
+            "question": "どのような料理がありますか？",
+            "answer": "洋食専門店で、代表的なメニューはステーキです"
+        },
+        {
+            "question": "どのような店ですか？",
+            "answer": "ニューヨークの3大ステーキ店の1つです"
+        }
+    ],
+    "word_Count": {
+        "text": 104,
+        "QA": 102
+    }
+}

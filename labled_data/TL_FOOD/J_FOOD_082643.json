@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_082643",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/somyeonjjang",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "素麺チャン"
+    },
+    "text": "素麺チャン\\n\n慶尚北道 アンドン市 テサ1ギル18\\n\nボリュームたっぷりで、様々な料理が味わえる店です。慶尚北道のアンドン市に位置した韓食専門店です。代表的なメニューはユッケジャンです。",
+    "QA": [
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "この店はアンドン市のテサ1ギル18にあります。"
+        },
+        {
+            "question": "この店の特徴的な料理は何ですか？",
+            "answer": "この店の代表的なメニューはユッケジャンです。"
+        },
+        {
+            "question": "この店の料理はボリュームがありますか？",
+            "answer": "はい、この店の料理はボリュームたっぷりです。"
+        },
+        {
+            "question": "この店では他にどんな料理が味わえますか？",
+            "answer": "この店では様々な料理が味わえます。具体的な料理については店内メニューをご確認ください。"
+        }
+    ],
+    "word_Count": {
+        "text": 69,
+        "QA": 130
+    }
+}

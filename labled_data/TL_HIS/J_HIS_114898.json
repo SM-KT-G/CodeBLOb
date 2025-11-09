@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_114898",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=826&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=00730000&ccbaCtcd=33&ccbaCpno=2333300730000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1987-03-31",
+        "domain": "문화/역사관광",
+        "title": "청주 체화당사 및 사적비"
+    },
+    "text": "清州滞貨当社及び史跡碑\\n\n清州市上党区南一面新松里山69-2\\n\n朝鮮粛宗27年(1701)、忠清北道記念物、滞貨当社は朝鮮中期の先祖の時に学者の交河盧氏の4兄弟ノギェウォン・老後員・ノジョンウォン・ノイルウォンの位牌を祭った祠である。『増補文献備考』の記録によると、領議政(今の首相)柳成龍(1542∼1607)がこれら4兄弟の特別な友愛と親孝行したのを見て先祖にお知らせたら先祖が自らチェファダンという文字を使って、その家にかけるようにした。粛宗27年(1701)に子孫らが南面カサンリに祠堂を立てて滞貨当社と名づけたが、高宗の時に撤廃された。その後、1967年に子孫らが今ある地位に祠を建て直して私的費も移した。建物の規模は表3間・側面2間であり、屋根は側面から見ると、八(八部)字形の入母屋屋根である。祠堂の前にはイウギョムが建設してソンヨンイ書いて粛宗45年(1719)に建てられた滞貨の党本部的な碑がある。",
+    "QA": [
+        {
+            "question": "この滞貨当社はいつ建てられましたか？",
+            "answer": "滞貨当社は朝鮮粛宗27年(1701)に建てられました。"
+        },
+        {
+            "question": "滞貨当社の位置はどこですか？",
+            "answer": "滞貨当社は清州市上党区南一面新松里山69-2に位置しています。"
+        },
+        {
+            "question": "なぜこの祠堂は撤廃されたのですか？",
+            "answer": "滞貨当社は高宗の時に撤廃されました。"
+        },
+        {
+            "question": "滞貨当社の建物の規模はどのようになっていますか？",
+            "answer": "建物の規模は表3間・側面2間であり、屋根は八(八部)字形の入母屋屋根です。"
+        },
+        {
+            "question": "滞貨当社の前に何が建てられていますか？",
+            "answer": "滞貨当社の前にはイウギョムが建設してソンヨンイ書かれた碑が建てられています。"
+        }
+    ],
+    "word_Count": {
+        "text": 300,
+        "QA": 178
+    }
+}

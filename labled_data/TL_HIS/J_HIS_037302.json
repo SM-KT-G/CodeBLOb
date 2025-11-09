@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_037302",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1133&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=03770000&ccbaCtcd=37&ccbaCpno=3413703770000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1999-12-30",
+        "domain": "문화/역사관광",
+        "title": "의성서계당"
+    },
+    "text": "義城西溪堂 (의성서계당)\\n\n慶尚北道義城郡店谷面義城吉安路1045-3(潤岩里)\\n\n慶尚北道文化財資料、所有者のナム·ジョング氏の3代目ナム·ヨンジン氏が建てた住宅だ。 1800年末頃に建てられたと伝えられ、母屋、サランチェ、蔵屋、門屋で構成されている。 門を入ると広いサランマダンがあり、北側に一字型サランチェを南向きに配置し、後方にコ字型母屋があり、全体的に開けたロ字型構造を見せる。 母屋の西側には精米所がある。 使用人たちが住んでいた3間の藁葺き屋根や井戸などが垣根の中に残っており、昔の生活の跡を多く見ることができ、保存する価値がある。",
+    "QA": [
+        {
+            "question": "この建物はいつ建てられましたか？",
+            "answer": "1800年末頃に建てられました。"
+        },
+        {
+            "question": "この建物はどのような構造ですか？",
+            "answer": "母屋、サランチェ、蔵屋、門屋で構成されています。"
+        },
+        {
+            "question": "建物の中には何がありますか？",
+            "answer": "広いサランマダン、一字型のサランチェ、コ字型の母屋、精米所などがあります。"
+        },
+        {
+            "question": "この建物は誰が建てましたか？",
+            "answer": "文化財資料所有者のナム・ジョング氏の3代目ナム・ヨンジン氏が建てました。"
+        },
+        {
+            "question": "建物内にはどのような跡が残っていますか？",
+            "answer": "藁葺き屋根や井戸など、昔の生活の跡が垣根の中に残っています。"
+        },
+        {
+            "question": "この建物は保存する価値がありますか？",
+            "answer": "はい、昔の生活の跡を多く見ることができ、保存する価値があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 202,
+        "QA": 200
+    }
+}

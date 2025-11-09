@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_029422",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42080&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "평창 AM 호텔"
+    },
+    "text": "2017年11月にオープンした平昌の最新式ホテルは、高級感あふれるインテリアと居心地の良い空間を提供します。 当ホテルは羊牧場、五台山国立公園、大関嶺自然休養林に近い位置にあり、移動に便利です。",
+    "QA": [
+        {
+            "question": "このホテルはいつオープンしましたか？",
+            "answer": "このホテルは2017年11月にオープンしました。"
+        },
+        {
+            "question": "このホテルの特徴は何ですか？",
+            "answer": "このホテルは高級感あふれるインテリアと居心地の良い空間を提供しています。"
+        },
+        {
+            "question": "このホテルはどこに位置していますか？",
+            "answer": "このホテルは羊牧場、五台山国立公園、大関嶺自然休養林に近い位置にあります。"
+        },
+        {
+            "question": "このホテルの周辺に何がありますか？",
+            "answer": "このホテルの周辺には羊牧場、五台山国立公園、大関嶺自然休養林があります。"
+        },
+        {
+            "question": "このホテルの利便性はどうですか？",
+            "answer": "このホテルは移動に便利な位置にあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 71,
+        "QA": 173
+    }
+}

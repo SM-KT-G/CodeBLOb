@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_001098",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2023-01-09",
+        "domain": "문화/역사관광",
+        "title": "The bay101（더베이101）"
+    },
+    "text": "The bay101（더베이101）\\n\n釜山広域市 海雲台区 冬柏路 52 （佑洞）\\n\n美しい山と海、そして現代的なビル群が建ち並ぶ世界的なリゾート地・海雲台（ヘウンデ）。\\n\n文化と芸術のための空間、海が与えてくれる興奮をより一層感じられる空間、誰でも憩いのひとときを過ごせる楽しい空間、それがThe bay101（ザ・ベイ101）です。The bay101は釜山・海雲台にある複合文化芸術スペースで、夜景スポットとして人気の高いところです。",
+    "QA": [
+        {
+            "question": "The bay101はどこにありますか？",
+            "answer": "The bay101（ザ・ベイ101）は釜山広域市海雲台区冬柏路52（佑洞）にあります。"
+        },
+        {
+            "question": "The bay101はどのような場所ですか？",
+            "answer": "The bay101は釜山・海雲台にある複合文化芸術スペースで、夜景スポットとして人気の高いところです。"
+        },
+        {
+            "question": "The bay101で何が楽しめますか？",
+            "answer": "The bay101では美しい山と海の景色を楽しむことができます。また、文化や芸術に触れることもできます。"
+        },
+        {
+            "question": "海雲台（ヘウンデ）の特徴は何ですか？",
+            "answer": "海雲台は美しい山と海があり、現代的なビル群が建ち並ぶ世界的なリゾート地です。"
+        }
+    ],
+    "word_Count": {
+        "text": 164,
+        "QA": 195
+    }
+}

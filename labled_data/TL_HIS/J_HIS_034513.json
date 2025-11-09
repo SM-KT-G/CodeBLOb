@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_034513",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1125&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=03380000&ccbaCtcd=37&ccbaCpno=3413703380000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1997-09-29",
+        "domain": "문화/역사관광",
+        "title": "해와고택"
+    },
+    "text": "海と古宅 (해와고택)\\n\n慶尚北道奉化郡奉化邑バレミギル33-1(海渚1里)\\n\n慶尚北道文化財資料 , チョンハ郡守を務めたヘとキム·ヒテク(1742~1818)の孫であるキム·ジュンス(1791~1868)が建てた家だ。 キム·ジュンスは祖父の遺言により家を建て「ヘワ古宅」と呼ぶようになった。 建物はこの地方の両班の家の配置方法である「ロ」字型とは異なり、母屋と前面のサランチェおよび中文チェが2つの「ロ」字型に分かれている。 サランチェは前面3間·側面4間半で大きなサランバンと床で構成されている。 母屋は前面4間·側面3間で、板の間を中心に左右にオンドル部屋を配置した。 中門屋はサランチェの左側に連結されており、前面3間·側面1間で構成されている。",
+    "QA": [
+        {
+            "question": "この建物は誰によって建てられましたか？",
+            "answer": "キム·ジュンスが建てました。"
+        },
+        {
+            "question": "なぜこの建物は「ヘワ古宅」と呼ばれていますか？",
+            "answer": "キム·ジュンスが祖父の遺言に従って家を建て、「ヘワ古宅」と名付けたからです。"
+        },
+        {
+            "question": "この建物の配置方法はどのような形ですか？",
+            "answer": "この建物は通常の「ロ」字型ではなく、母屋と前面のサランチェおよび中文チェが2つの「ロ」字型に分かれています。"
+        },
+        {
+            "question": "サランチェはどのように構成されていますか？",
+            "answer": "サランチェは前面3間・側面4間半で、大きなサランバンと床からなります。"
+        },
+        {
+            "question": "母屋はどのように配置されていますか？",
+            "answer": "母屋は前面4間・側面3間で、板の間を中心に左右にオンドル部屋を配置しています。"
+        },
+        {
+            "question": "中門屋はどのように構成されていますか？",
+            "answer": "中門屋はサランチェの左側に連結されており、前面3間・側面1間で構成されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 242,
+        "QA": 249
+    }
+}

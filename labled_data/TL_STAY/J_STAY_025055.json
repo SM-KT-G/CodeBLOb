@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_025055",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42060&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "서산 라온 무인텔"
+    },
+    "text": "予約客室の写真はホテルの各客室の代表写真で、電子レンジは備え付けてあります。 しかし、ペットと一緒に入室することは不可能であり、確認すると払い戻しなしで退室措置になる場合があります。 入室は基本的に2名のみ可能で、管理室は午後23時まで運営されます。 ペットとの同伴入室は許可されません。",
+    "QA": [
+        {
+            "question": "予約客室には電子レンジがありますか？",
+            "answer": "はい、予約客室には電子レンジが備え付けられています。"
+        },
+        {
+            "question": "ペットと一緒に入室することは可能ですか？",
+            "answer": "いいえ、ペットと一緒に入室することは不可能です。ペットとの同伴入室は許可されていません。"
+        },
+        {
+            "question": "入室は何名まで可能ですか？",
+            "answer": "入室は基本的に2名まで可能です。"
+        },
+        {
+            "question": "管理室は何時まで運営されていますか？",
+            "answer": "管理室は午後23時まで運営されています。"
+        },
+        {
+            "question": "退室時に払い戻しはありますか？",
+            "answer": "ペットと一緒に入室した場合、確認された場合は払い戻しなしで退室措置になる可能性があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 105,
+        "QA": 172
+    }
+}

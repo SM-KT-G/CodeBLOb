@@ -1,0 +1,55 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_036806",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/cafe-babara",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "Cafe BABARA"
+    },
+    "text": "Cafe BABARA\\n\n慶尚南道 晋州市 江辺キル10ボンキル 22-17\\n\nインテリアが有名なカフェで、大型シャンデリアが飾られています。 代表的なメニューはアメリカーノです。慶尚南道のジンジュ市に位置したカフェです。 管理者 BABARA( (BABARA) ) TEL +82-10-4597-2878 休業日 土・日、祝日休み 営業時間 12:00-22:00 メニュー 価格は事前の予告なく変更になる場合がありますアメリカーノ 付帯施設 男女別トイレあり 駐車施設 可能 クレジットカード決済 可能 予約案内 可能 禁煙 / 喫煙 全席禁煙",
+    "QA": [
+        {
+            "question": "カフェBABARAはどこにありますか？",
+            "answer": "カフェBABARAは慶尚南道の晋州市に位置しています。"
+        },
+        {
+            "question": "カフェBABARAの代表的なメニューは何ですか？",
+            "answer": "カフェBABARAの代表的なメニューはアメリカーノです。"
+        },
+        {
+            "question": "カフェBABARAの営業時間は何時から何時までですか？",
+            "answer": "カフェBABARAの営業時間は12:00から22:00までです。"
+        },
+        {
+            "question": "カフェBABARAの休業日は何曜日ですか？",
+            "answer": "カフェBABARAの休業日は土・日、祝日です。"
+        },
+        {
+            "question": "カフェBABARAには駐車施設はありますか？",
+            "answer": "カフェBABARAには駐車施設があります。"
+        },
+        {
+            "question": "カフェBABARAでクレジットカード決済は可能ですか？",
+            "answer": "カフェBABARAではクレジットカード決済が可能です。"
+        },
+        {
+            "question": "カフェBABARAでは予約は可能ですか？",
+            "answer": "カフェBABARAでは予約が可能です。"
+        },
+        {
+            "question": "カフェBABARAでは喫煙可能ですか？",
+            "answer": "カフェBABARAでは全席禁煙です。"
+        }
+    ],
+    "word_Count": {
+        "text": 203,
+        "QA": 274
+    }
+}

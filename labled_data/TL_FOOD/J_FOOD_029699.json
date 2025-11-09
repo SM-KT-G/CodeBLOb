@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_029699",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-03",
+        "domain": "음식점",
+        "title": "黄海道九月山 ( 황해도구월산 )"
+    },
+    "text": "黄海道九月山 ( 황해도구월산 )\\n\nソウル特別市 ヨンドゥンポ区 グクフェデロ36ギル5-1\\n\nじっくり煮込んだスープで作ったヘルシーなスープ料理です。ソウル特別市のヨンドゥンポ区に位置した韓食専門店です。おすすめは牛の膝軟骨スープです。",
+    "QA": [
+        {
+            "question": "このお店の場所はどこですか？",
+            "answer": "ソウル特別市ヨンドゥンポ区グクフェデロ36ギル5-1に位置しています。"
+        },
+        {
+            "question": "このお店の名前は何ですか？",
+            "answer": "お店の名前は黄海道九月山です。"
+        },
+        {
+            "question": "このお店の特徴は何ですか？",
+            "answer": "このお店はじっくり煮込んだスープで作ったヘルシーなスープ料理が特徴です。"
+        },
+        {
+            "question": "おすすめのメニューは何ですか？",
+            "answer": "おすすめは牛の膝軟骨スープです。"
+        }
+    ],
+    "word_Count": {
+        "text": 89,
+        "QA": 115
+    }
+}

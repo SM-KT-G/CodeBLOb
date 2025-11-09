@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_012444",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-05",
+        "domain": "음식점",
+        "title": "ヒョドン会館 ( 효동회관 )"
+    },
+    "text": "ヒョドン会館 ( 효동회관 )\\n\n全羅南道 順天市 チャンチョン2ギル20-14\\n\n順天ターミナル近くに位置する23年伝統の韓牛専門店です。代表的なメニューは韓牛焼きです。全羅南道のスンチョン市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "ヒョドン会館はどこに位置していますか？",
+            "answer": "ヒョドン会館は全羅南道順天市チャンチョン2ギル20-14に位置しています。"
+        },
+        {
+            "question": "ヒョドン会館の代表的なメニューは何ですか？",
+            "answer": "ヒョドン会館の代表的なメニューは韓牛焼きです。"
+        },
+        {
+            "question": "ヒョドン会館は何年の伝統を持っていますか？",
+            "answer": "ヒョドン会館は23年の伝統を持っています。"
+        },
+        {
+            "question": "ヒョドン会館はどのような店ですか？",
+            "answer": "ヒョドン会館は韓食専門店であり、全羅南道のスンチョン市に位置しています。"
+        },
+        {
+            "question": "ヒョドン会館の近くには何がありますか？",
+            "answer": "ヒョドン会館の近くには順天ターミナルがあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 82,
+        "QA": 174
+    }
+}

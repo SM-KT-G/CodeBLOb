@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_091276",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=938&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=24&ccbaAsno=01390000&ccbaCtcd=37&ccbaCpno=2443701390000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2010-03-11",
+        "domain": "문화/역사관광",
+        "title": "영천 지산고택"
+    },
+    "text": "永川ジサン古宅\\n\n慶尚北道永川市ヨンジキル117-9(テチャンミョン、ジサン古宅)\\n\n慶尚北道民俗文化財、朝鮮宣祖時代の文官で、文禄・慶長の役の時ソモグヮン(召募官になって功を立てたチョホイク(曺好益)の宗宅である。チョホイクが1603年頃、芝山村へ移転したという記録から見て、この時に建立したものと推定される。家屋の配置は一字型の母屋が南向きに建てられていて、全面的に左側にはした字型のサランチェが、右側には一字型の物置軒がいるが、全体的にはㅁジャ家の形だ。北東側に京橋駅を異にして祠堂が一段高いところに土石の塀で囲まれている。サランチェは正面4間、側面4間にした字形切妻屋根の家であり、全体の面積が13.18坪だ。マクドルキ団の上に角柱を使用した3両の世帯の家だ。母屋は正面5間、側面2間に一字型の入母屋造りであり、祠堂は正面3間、側面1間の切妻屋根の家だ。",
+    "QA": [
+        {
+            "question": "この古宅はどこにありますか？",
+            "answer": "永川市ヨンジキル117-9(テチャンミョン、ジサン古宅)にあります。"
+        },
+        {
+            "question": "この古宅の建設年はいつですか？",
+            "answer": "この古宅はおよそ1603年頃に建立されたと推定されています。"
+        },
+        {
+            "question": "この古宅の主な建築様式は何ですか？",
+            "answer": "この古宅の家屋の配置は一字型の母屋が南向きに建てられており、サランチェと物置軒があり、全体的にはㅁジャ家の形をしています。"
+        },
+        {
+            "question": "この古宅の面積はどのくらいですか？",
+            "answer": "サランチェは13.18坪の面積を持ち、母屋と祠堂も含めた全体の面積は詳細には記載されていません。"
+        },
+        {
+            "question": "この古宅の特徴的な構造は何ですか？",
+            "answer": "この古宅は母屋が一字型の入母屋造りであり、祠堂は切妻屋根の家であることが特徴です。"
+        }
+    ],
+    "word_Count": {
+        "text": 280,
+        "QA": 215
+    }
+}

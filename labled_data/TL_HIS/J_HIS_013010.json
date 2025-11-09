@@ -1,0 +1,51 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_013010",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=261&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=13&ccbaAsno=04240000&ccbaCtcd=23&ccbaCpno=1332304240000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2001-01-04",
+        "domain": "문화/역사관광",
+        "title": "대한성공회 강화성당"
+    },
+    "text": "大韓聖公会江華聖堂 (대한성공회 강화성당)\\n\n仁川江華郡江華邑官庁キル22(官庁里)\\n\n1900年代(大韓帝国) , 史跡 , 大韓聖公会江華聖堂は1900年11月15日に建設された東西の長さ10間、南北の長さ4間の韓食重層建物だ。 この聖堂は西洋のバシリカ式教会建築空間構成に従っているが、家具構造は韓国式木構造と瓦屋根でできている点が特徴だ。 構造と外観を韓国伝統建築様式に適応させることで、外来宗教に対する拒否感を緩和する手段として活用されたことが分かる。 聖公会江華聖堂は西側に出入り口を配置して西区の形を取りながら、全体的には船の形を真似て船首である西側には外三門および内三門と同種を配置し、中央には聖堂を置いた。 入江は司祭館を配置して特異な様式を見せ、韓国の建築史研究に貴重な資料となる遺跡だ。",
+    "QA": [
+        {
+            "question": "江華聖堂はいつ建設されましたか？",
+            "answer": "江華聖堂は1900年11月15日に建設されました。"
+        },
+        {
+            "question": "江華聖堂はどのような建物ですか？",
+            "answer": "江華聖堂は東西の長さ10間、南北の長さ4間の韓食重層建物です。"
+        },
+        {
+            "question": "江華聖堂の特徴は何ですか？",
+            "answer": "江華聖堂は西洋のバシリカ式教会建築空間構成に従っていますが、家具構造は韓国式木構造と瓦屋根でできている点が特徴です。"
+        },
+        {
+            "question": "江華聖堂はどのような形をしていますか？",
+            "answer": "江華聖堂は船の形を真似ており、船首である西側には外三門および内三門と同種を配置し、中央には聖堂が置かれています。"
+        },
+        {
+            "question": "江華聖堂はどのような位置にありますか？",
+            "answer": "江華聖堂は仁川江華郡江華邑官庁キル22(官庁里)に位置しています。"
+        },
+        {
+            "question": "江華聖堂は何のために活用されましたか？",
+            "answer": "江華聖堂は構造と外観を韓国伝統建築様式に適応させることで、外来宗教に対する拒否感を緩和する手段として活用されました。"
+        },
+        {
+            "question": "江華聖堂はどのような遺跡ですか？",
+            "answer": "江華聖堂は入江に司祭館を配置して特異な様式を見せ、韓国の建築史研究に貴重な資料となる遺跡です。"
+        }
+    ],
+    "word_Count": {
+        "text": 261,
+        "QA": 312
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_065235",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=619&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=03760200&ccbaCtcd=37&ccbaCpno=2113703760200&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2006-01-02",
+        "domain": "문화/역사관광",
+        "title": "문원공 회재 이언적 신도비"
+    },
+    "text": "慶尚北道有形文化財である李彦迪(イ・オンジョク)は1491年から1554年の間に住んだ。彼は16世紀前半期を代表する朱子学者であり、士林派官僚だった。李彦迪(イ・オンジョク)は、宣祖初めとチュスンの過程で奇大升(キ・デスン)によって神道碑名が撰してきた。そして先祖10年の1577年には離散しての文字で玉山(オクサン)書院内に神道碑が建立された。以後、9年後の1586年にはソンヨプの文字で神道碑(しんどうひ)が再びお墓の前に建設された。",
+    "QA": [
+        {
+            "question": "李彦迪(イ・オンジョク)は何年から何年の間に住んでいましたか？",
+            "answer": "李彦迪(イ・オンジョク)は1491年から1554年の間に住んでいました。"
+        },
+        {
+            "question": "李彦迪(イ・オンジョク)はどのような人物でしたか？",
+            "answer": "李彦迪(イ・オンジョク)は16世紀前半期を代表する朱子学者であり、士林派官僚でした。"
+        },
+        {
+            "question": "李彦迪(イ・オンジョク)が建立した神道碑はどのように撰定されましたか？",
+            "answer": "李彦迪(イ・オンジョク)の神道碑は宣祖初めとチュスンの過程で奇大升(キ・デスン)によって神道碑名が撰定されました。"
+        },
+        {
+            "question": "李彦迪(イ・オンジョク)の神道碑はいつ建立されましたか？",
+            "answer": "李彦迪(イ・オンジョク)の神道碑は1577年に離散しての文字で玉山(オクサン)書院内に建立され、その後9年後の1586年にはソンヨプの文字で再びお墓の前に建設されました。"
+        }
+    ],
+    "word_Count": {
+        "text": 160,
+        "QA": 248
+    }
+}

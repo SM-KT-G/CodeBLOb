@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001875",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-24",
+        "domain": "음식점",
+        "title": "May 飛 ( 카페메이비 )"
+    },
+    "text": "May 飛 ( 카페메이비 )\n済州特別自治道 西帰浦市 李仲燮路 11\n済州島観光地の近くに位置する雰囲気の良いカフェです。おすすめはアメリカーノです。済州特別自治道のソグィポ市に位置したカフェ（コーヒーショップ）です。",
+    "QA": [
+        {
+            "question": "このカフェはどこに位置していますか？",
+            "answer": "このカフェは済州特別自治道 西帰浦市の李仲燮路11に位置しています。"
+        },
+        {
+            "question": "このカフェのおすすめは何ですか？",
+            "answer": "このカフェのおすすめはアメリカーノです。"
+        },
+        {
+            "question": "このカフェはどのような雰囲気ですか？",
+            "answer": "このカフェは雰囲気の良いカフェで、済州島観光地の近くに位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 81,
+        "QA": 103
+    }
+}

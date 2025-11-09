@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_007273",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-09-01",
+        "domain": "음식점",
+        "title": "サムヤンサムギェタン（삼양삼계탕）"
+    },
+    "text": "サムヤンサムギェタン（삼양삼계탕）\\n\nソウル特別市 鐘路区 水標路20キル 9\\n\nこの店はソウル特別市のチョンノに位置した韓国料理店です。電気式鶏の丸焼きも逸品です。代表的なメニューはアワビ入りサムゲタンです。",
+    "QA": [
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "この店はソウル特別市のチョンノに位置しています。"
+        },
+        {
+            "question": "この店の代表的なメニューは何ですか？",
+            "answer": "この店の代表的なメニューはアワビ入りサムゲタンです。"
+        },
+        {
+            "question": "この店の特徴的な料理はありますか？",
+            "answer": "この店の特徴的な料理は電気式鶏の丸焼きです。"
+        }
+    ],
+    "word_Count": {
+        "text": 78,
+        "QA": 88
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_008295",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=864&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=01440000&ccbaCtcd=37&ccbaCpno=2333701440000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2003-08-14",
+        "domain": "문화/역사관광",
+        "title": "고천서원"
+    },
+    "text": "古川書院 (고천서원)\\n\n慶尚北道永川市臨皐面古川里245番地ほか\\n\n慶尚北道記念物 , 古川書院は1592年(宣祖25)、壬辰倭乱の時に義兵を起こし、慈仁戦闘、永川城戦闘などに参加して戦功を立て慶州城戦闘に参加して殉国した永川地域の義兵を祭郷している書院で、ここに配向された人物は皆永川地域出身の中堅官僚および士林で近隣地域の農民を率いて倭軍の撃破に努力したが、全て一度に殉国した。 朝鮮粛宗31年(1705)に祠堂を建設し、正祖21年(1797)に講堂を建設し、大院君の廃鉄令で廃鉄されたが、1916年に儒林が十忠賢を復郷し、毎年祭祀を行っている。",
+    "QA": [
+        {
+            "question": "古川書院はいつ建てられましたか？",
+            "answer": "古川書院は1592年(宣祖25)に建てられました。"
+        },
+        {
+            "question": "古川書院はどのような場所にありますか？",
+            "answer": "古川書院は慶尚北道永川市臨皐面古川里に位置しています。"
+        },
+        {
+            "question": "古川書院は何のために建てられましたか？",
+            "answer": "古川書院は永川地域の義兵を祭郷するために建てられました。"
+        },
+        {
+            "question": "古川書院の配向された人物はどんな人々ですか？",
+            "answer": "古川書院に配向された人物は永川地域出身の中堅官僚や士林、および近隣地域の農民で、倭軍の撃破に努力しました。"
+        },
+        {
+            "question": "古川書院はどのような施設がありますか？",
+            "answer": "古川書院には祠堂と講堂があります。"
+        },
+        {
+            "question": "古川書院はいつ祭祀を行っていますか？",
+            "answer": "古川書院では毎年祭祀を行っています。"
+        }
+    ],
+    "word_Count": {
+        "text": 203,
+        "QA": 206
+    }
+}

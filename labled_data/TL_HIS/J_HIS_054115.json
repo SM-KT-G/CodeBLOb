@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_054115",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/view?relicId=65355",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "글자를 새긴 수키와 조각15"
+    },
+    "text": "文字を刻んだ男瓦彫刻 (글자를 새긴 수키와 조각)\\n\nがれきには、両脚で「ほっ」と呟きながら繰り返し打刃を加えました。このがれきは、韓国の統一新羅時代に使用されていた土製で瓦のような質感を持つ建築部材で、屋根材として使用されていたものです。現在の大きさは、幅88cm、長さ76cmです。",
+    "QA": [
+        {
+            "question": "このがれきはどの時代に使用されていた建築部材ですか？",
+            "answer": "このがれきは、統一新羅時代に使用されていたものです。"
+        },
+        {
+            "question": "このがれきはどのような質感を持っていますか？",
+            "answer": "このがれきは土製で瓦のような質感を持っています。"
+        },
+        {
+            "question": "現在のこのがれきの大きさはどれくらいですか？",
+            "answer": "現在のこのがれきの大きさは幅88cm、長さ76cmです。"
+        }
+    ],
+    "word_Count": {
+        "text": 106,
+        "QA": 108
+    }
+}

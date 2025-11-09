@@ -1,0 +1,51 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_016614",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=408&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=00440000&ccbaCtcd=25&ccbaCpno=2112500440000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2010-04-12",
+        "domain": "문화/역사관광",
+        "title": "무수동도"
+    },
+    "text": "無愁洞図 (무수동도)\\n\n大田広域市中区\\n\n朝鮮後期 , 大田広域市有形文化財 , もともとこの絵は8幅だったが、1幅が残っていなかった。 それで2003年に権鑑(1760~1823)の「題無愁動図」一幅を加えて8幅屏風に飾った。 第8幅にある権監の七言詩によると、彼の4代祖クォン·イジン(1668~1734)が北条判書として過ごしながら長い間故郷に行けないことを残念に思い、1729年に自身の宗家と仙影がいる故郷ムス洞を焼き討ちして描かせたという。 現在、舞水洞に遊会堂などの遺跡が残っており、地形もほとんど変わっておらず、各幅の景物を把握することができる。 また、舞水洞の色々な場所を描きながら興味深いことにその周囲の田畑が積極的に表現されたが、これは化工の選択だったというよりは注文者であるクォン·イジンの意図が反映されたものと見られ、朝鮮時代の両班の郷村の世居地をリアルに再現した事例だ。",
+    "QA": [
+        {
+            "question": "この絵はいつ描かれましたか？",
+            "answer": "この絵は朝鮮後期に描かれました。"
+        },
+        {
+            "question": "この絵はどこで見ることができますか？",
+            "answer": "この絵は大田広域市中区で見ることができます。"
+        },
+        {
+            "question": "絵の幅は元々何幅あったのですか？",
+            "answer": "元々この絵は8幅でしたが、1幅が残っていませんでした。"
+        },
+        {
+            "question": "この絵にはどのような場面が描かれていますか？",
+            "answer": "この絵には舞水洞の景色が描かれています。"
+        },
+        {
+            "question": "なぜ権監の七言詩が絵の中に含まれているのですか？",
+            "answer": "権監の七言詩は、この絵を描かせたクォン・イジンの意図が反映されたものです。"
+        },
+        {
+            "question": "現在、舞水洞には何が残っていますか？",
+            "answer": "現在、舞水洞には遊会堂などの遺跡が残っています。"
+        },
+        {
+            "question": "絵の中に描かれている田畑の表現には特に意味がありますか？",
+            "answer": "田畑の表現は、朝鮮時代の両班の郷村の世居地をリアルに再現したものです。"
+        }
+    ],
+    "word_Count": {
+        "text": 294,
+        "QA": 235
+    }
+}

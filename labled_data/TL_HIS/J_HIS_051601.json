@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_051601",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=925&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=24&ccbaAsno=00220000&ccbaCtcd=38&ccbaCpno=2443800220000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2011-07-14",
+        "domain": "문화/역사관광",
+        "title": "고성 학림리 최씨종가"
+    },
+    "text": "高城鶴林里(コソンハクリムニ)\\n\n慶尚南道高城郡下一面鶴林里927\\n\n慶尚南道・民俗文化財、高城郡(カンウォンド・コソングン)のハイル面、学林里927番地内古城、学林里チェ氏の終値は約330年前・ハイル面鶴洞村に定着し、築造した建築物で土塀と平たい石でチュクダムウル何層も積んだ後、その上に建築物を築造した形は他の地域では見られない特異して独特な様式に母屋とサランチェ、コバンチェ、土塀でよく積んだ倉庫、家の庭先の畑、村の特色であるドルチュクデ、石垣の上に土塀と広いドルドプゲ屋根の鶏舎、母屋後、甕台は階段式墩台で、その面積がかなり広くて古風さを漂わせる。",
+    "QA": [
+        {
+            "question": "この建築物はどこにありますか？",
+            "answer": "この建築物は慶尚南道高城郡下一面の鶴林里927番地にあります。"
+        },
+        {
+            "question": "この建築物は何年前に築造されましたか？",
+            "answer": "この建築物は約330年前に築造されました。"
+        },
+        {
+            "question": "この建築物の特徴は何ですか？",
+            "answer": "この建築物の特徴は、土塀と平たい石でチュクダムウル何層も積んだ後、その上に建築物を築造した独特な様式です。また、庭先には畑やドルチュクデ（鶴舎）があり、石垣の上には土塀と広い屋根の鶏舎もあります。"
+        },
+        {
+            "question": "この建築物の甕台はどのような特徴がありますか？",
+            "answer": "この建築物の甕台は階段式墩台で、面積が広くて古風な雰囲気を漂わせています。"
+        },
+        {
+            "question": "この建築物の周辺には何がありますか？",
+            "answer": "この建築物の周辺には、ハイル面の鶴洞村があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 205,
+        "QA": 220
+    }
+}

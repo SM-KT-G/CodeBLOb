@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_002033",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/redsun-myeongdong",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "Red Sun 明洞直営店"
+    },
+    "text": "Red Sun 明洞直営店\\n\nソウル特別市 中区 明洞2街 55-14, 2~3階\\n\n即席トッポッキ専門店レッドサンは、中国、日本など現地の韓国観光紹介サイトやブログでソウルに行くと必ず食べてみるべき食べ物として紹介されています。トッポッキソースは辛さが選べ、辛さが苦手な方でも美味しく召し上がれます。",
+    "QA": [
+        {
+            "question": "レッドサンはどこにありますか？",
+            "answer": "レッドサンはソウル特別市中区明洞2街55-14の2~3階にあります。"
+        },
+        {
+            "question": "レッドサンでは何を食べることができますか？",
+            "answer": "レッドサンでは即席トッポッキを食べることができます。辛さの選択もでき、辛さが苦手な方でも美味しく召し上がれます。"
+        },
+        {
+            "question": "レッドサンはどのような特徴がありますか？",
+            "answer": "レッドサンはソウルの明洞にある直営店で、現地の韓国観光紹介サイトやブログで必ず食べるべき食べ物として紹介されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 112,
+        "QA": 150
+    }
+}

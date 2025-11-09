@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_007851",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-01",
+        "domain": "음식점",
+        "title": "ジンジュ食堂 ( 진주식당 )"
+    },
+    "text": "ジンジュ食堂 ( 진주식당 )\\n\n済州特別自治道 西帰浦市 太平路335ボンキル 16 314-7\\n\n新鮮で様々な海鮮が入った海鮮土鍋が味わえる店です。おすすめはアワビ土鍋です。済州特別自治道のソグィポ市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "ジンジュ食堂はどこにありますか？",
+            "answer": "ジンジュ食堂は済州特別自治道の西帰浦市にあります。具体的には太平路335ボンキル 16 314-7です。"
+        },
+        {
+            "question": "ジンジュ食堂ではどんな料理が味わえますか？",
+            "answer": "ジンジュ食堂では新鮮で様々な海鮮が入った海鮮土鍋が味わえます。特におすすめはアワビ土鍋です。"
+        },
+        {
+            "question": "ジンジュ食堂はどんな種類の店ですか？",
+            "answer": "ジンジュ食堂は済州特別自治道のソグィポ市に位置した韓食専門店です。"
+        }
+    ],
+    "word_Count": {
+        "text": 85,
+        "QA": 136
+    }
+}

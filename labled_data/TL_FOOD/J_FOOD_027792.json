@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_027792",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "淸風黃金マス ( 청풍황금송어 )"
+    },
+    "text": "淸風黃金マス \n忠清北道 堤川市 錦城面 清風湖路39キル 25\n美しい風景をバックに新鮮なマス料理が味わえる店です。代表的なメニューはマスの刺身です。忠淸北道のジェチョン市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "この店の名前は何ですか？",
+            "answer": "淸風黃金マス"
+        },
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "忠清北道 堤川市 錦城面 清風湖路39キル 25"
+        },
+        {
+            "question": "この店の特徴は何ですか？",
+            "answer": "美しい風景をバックに新鮮なマス料理が味わえる店です。"
+        },
+        {
+            "question": "この店の代表的なメニューは何ですか？",
+            "answer": "マスの刺身です。"
+        },
+        {
+            "question": "この店は韓食専門店ですか？",
+            "answer": "はい、韓食専門店です。"
+        },
+        {
+            "question": "この店はどの市に位置していますか？",
+            "answer": "ジェチョン市に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 73,
+        "QA": 128
+    }
+}

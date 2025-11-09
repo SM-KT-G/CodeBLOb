@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_106354",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/view?relicId=121231",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2023-10-11",
+        "domain": "문화/역사관광",
+        "title": "청동 숟가락"
+    },
+    "text": "青銅スプーン (청동 숟가락)\\n\n竹で作られた柄には竹門と斜線門の模様があります。この柄の国籍と時代は韓国-朝鮮であり、材質は金属の青銅です。食生活の一部として詩にも関連しており、大きさは現在、長さ237mm、幅33mmで、かつては長さ156mm、幅11mmであったと言われています。",
+    "QA": [
+        {
+            "question": "この青銅スプーンの柄は何で作られていますか？",
+            "answer": "竹で作られた柄には竹門と斜線門の模様があります。"
+        },
+        {
+            "question": "青銅スプーンの国籍と時代は何ですか？",
+            "answer": "韓国-朝鮮であり、材質は金属の青銅です。"
+        },
+        {
+            "question": "青銅スプーンの大きさはどのくらいですか？",
+            "answer": "現在、長さ237mm、幅33mmで、かつては長さ156mm、幅11mmであったと言われています。"
+        }
+    ],
+    "word_Count": {
+        "text": 104,
+        "QA": 111
+    }
+}

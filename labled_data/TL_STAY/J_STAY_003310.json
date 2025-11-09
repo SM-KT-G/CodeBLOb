@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_003310",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-02-03",
+        "domain": "숙박",
+        "title": "クラウン観光ホテル（크라운관광호텔）"
+    },
+    "text": "クラウン観光ホテル（크라운관광호텔）\\n\n慶尚南道 昌原市 義昌区 昌原大路363番キル22-5\\n\n「クラウン（CROWN）観光ホテル」はCR（CENTER）とOWN（自分の、所有する）の合成語で、自分が中心になり、自分だけの空間を持つという意味を持っています。平凡ながらも特別な、宿泊客の便宜を徹底的に考えた高クオリティのビジネスホテルです。",
+    "QA": [
+        {
+            "question": "このホテルはどこにありますか？",
+            "answer": "クラウン観光ホテルは慶尚南道昌原市義昌区昌原大路363番キル22-5にあります。"
+        },
+        {
+            "question": "クラウン観光ホテルの名前の意味は何ですか？",
+            "answer": "「クラウン（CROWN）観光ホテル」はCR（CENTER）とOWN（自分の、所有する）の合成語で、自分が中心になり、自分だけの空間を持つという意味を持っています。"
+        },
+        {
+            "question": "このホテルはどのような特徴を持っていますか？",
+            "answer": "クラウン観光ホテルは平凡ながらも特別な、宿泊客の便宜を徹底的に考えた高クオリティのビジネスホテルです。"
+        }
+    ],
+    "word_Count": {
+        "text": 126,
+        "QA": 168
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_036475",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2023-03-08",
+        "domain": "문화/역사관광",
+        "title": "청암서원"
+    },
+    "text": "青岩書院 (청암서원)\\n\n慶尚北道尚州市孔剣面イェジュ3ギル29-32\\n\n1752年には陶渓精祠と雅谷精祠が合祀され、それを清岩書院と呼ぶようになりました。しかし、1868年にはこの書院は取り壊されてしまいました。それ以降、この地では春と秋の壇享が行われてきましたが、1991年になって祠宇や講堂、内外三門の復元が行われ、毎年3月中に津波に合祀されるようになりました。",
+    "QA": [
+        {
+            "question": "清岩書院はどこにありますか？",
+            "answer": "清岩書院は慶尚北道尚州市孔剣面イェジュ3ギル29-32にあります。"
+        },
+        {
+            "question": "清岩書院の建物はいつ取り壊されたのですか？",
+            "answer": "清岩書院の建物は1868年に取り壊されました。"
+        },
+        {
+            "question": "津波に合祀されるのは何月ですか？",
+            "answer": "津波に合祀されるのは毎年3月中です。"
+        }
+    ],
+    "word_Count": {
+        "text": 136,
+        "QA": 91
+    }
+}

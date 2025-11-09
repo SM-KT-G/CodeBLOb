@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_033342",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.booking.com/hotel/kr/jeonjusigeuniceo.ko.html",
+        "collectedDate": "2023-11-17",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "전주 시그니처 호텔"
+    },
+    "text": "全州シグネチャーホテルは全州駅とYewon Arts Universityに近いホテルです。 当ホテルは無料Wi-Fiと様々な施設を提供し、全州韓屋村からも近い距離に位置しています。 客室は空気清浄機や薄型TVなどの便益施設を備えており、冷蔵庫や電子レンジを備えた簡易キッチンも一部の客室に設けられています。 また、駐車場やビジネスセンターもご利用いただけます。 周辺にはJeonju DreamLandとJihaengdangなどの観光名所もあり、最寄りの群山国際空港とも近いです。 ホテルは全州の中心部からも近く、チェックインやチェックアウトの時間も便利に利用でき、ホテル内では韓牛しゃぶしゃぶ料理を楽しめます。",
+    "QA": [
+        {
+            "question": "全州シグネチャーホテルはどこに位置していますか？",
+            "answer": "全州駅とYewon Arts Universityに近いです。"
+        },
+        {
+            "question": "全州シグネチャーホテルはどのような施設を提供していますか？",
+            "answer": "無料Wi-Fiや駐車場、ビジネスセンターなどの施設があります。"
+        },
+        {
+            "question": "客室にはどのような設備が備わっていますか？",
+            "answer": "空気清浄機や薄型TV、冷蔵庫、電子レンジなどが備わっています。一部の客室には簡易キッチンもあります。"
+        },
+        {
+            "question": "全州シグネチャーホテルの周辺にはどのような観光名所がありますか？",
+            "answer": "Jeonju DreamLandやJihaengdangなどの観光名所があります。"
+        },
+        {
+            "question": "全州シグネチャーホテルは群山国際空港からどのくらいの距離ですか？",
+            "answer": "群山国際空港からも近いです。"
+        },
+        {
+            "question": "全州シグネチャーホテルでは何の料理が楽しめますか？",
+            "answer": "ホテル内では韓牛しゃぶしゃぶ料理を楽しむことができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 225,
+        "QA": 262
+    }
+}

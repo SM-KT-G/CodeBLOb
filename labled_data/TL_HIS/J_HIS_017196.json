@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_017196",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1207&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=79&ccbaAsno=02060000&ccbaCtcd=38&ccbaCpno=4413802060000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2005-09-14",
+        "domain": "문화/역사관광",
+        "title": "밀양 구 비행기 격납고"
+    },
+    "text": "密陽区の飛行機格納庫 (밀양 구 비행기 격납고)\\n\n慶尚南道密陽市上南面基山里1373-1番地外5筆地、蓮金里1072番地外1筆地\\n\n1940年前後 , 国家登録文化財 , 1940年前後に建設されたこの施設は、日本が起こした太平洋戦争で連合軍のレーダーと爆撃を避けるために作られた飛行機格納庫だ。 一部毀損された部分があるが、前面のアーチ型開口部と曲面型一体式構造がよく残っており、日帝強占期当時の日本の密陽地域での戦闘準備状況を示している。",
+    "QA": [
+        {
+            "question": "この飛行機格納庫はいつ建設されましたか？",
+            "answer": "1940年前後に建設されました。"
+        },
+        {
+            "question": "この飛行機格納庫はどのような目的で作られましたか？",
+            "answer": "連合軍のレーダーと爆撃を避けるために作られました。"
+        },
+        {
+            "question": "この飛行機格納庫の特徴は何ですか？",
+            "answer": "前面のアーチ型開口部と曲面型一体式構造がよく残っています。"
+        },
+        {
+            "question": "この飛行機格納庫は何を示していますか？",
+            "answer": "日帝強占期当時の日本の密陽地域での戦闘準備状況を示しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 165,
+        "QA": 133
+    }
+}

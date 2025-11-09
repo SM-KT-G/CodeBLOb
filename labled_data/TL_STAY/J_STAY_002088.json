@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_002088",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2022-10-18",
+        "domain": "숙박",
+        "title": "SONO Belle慶州（旧大明リゾート慶州）（소노벨 경주（구 대명리조트 경주））"
+    },
+    "text": "SONO Belle慶州（旧大明リゾート慶州）（소노벨 경주（구 대명리조트 경주））\\n\n慶尚北道 慶州市 普門路402-12\\n\n「SONO Belle慶州（ソノベルキョンジュ）」には417室の客室があり、51坪タイプ、42坪タイプ、スイートタイプ、ファミリータイプなど、様々な部屋が用意されています。またスーパーやゲームセンター、韓国料理レストラン、カフェテリアなど、様々な付帯施設も揃っています。1年中水遊びができるアクアワールドの他、ウェディングホール、宴会場などの施設もあります。",
+    "QA": [
+        {
+            "question": "SONO Belle慶州はどこにありますか？",
+            "answer": "SONO Belle慶州は慶尚北道慶州市普門路402-12にあります。"
+        },
+        {
+            "question": "SONO Belle慶州には何種類の客室がありますか？",
+            "answer": "SONO Belle慶州には51坪タイプ、42坪タイプ、スイートタイプ、ファミリータイプなど、様々な部屋が用意されています。"
+        },
+        {
+            "question": "SONO Belle慶州にはどんな施設がありますか？",
+            "answer": "SONO Belle慶州にはスーパーやゲームセンター、韓国料理レストラン、カフェテリアなど、様々な付帯施設があります。"
+        },
+        {
+            "question": "SONO Belle慶州のアクアワールドで何ができますか？",
+            "answer": "SONO Belle慶州のアクアワールドでは1年中水遊びができます。"
+        },
+        {
+            "question": "SONO Belle慶州にはウェディングホールや宴会場がありますか？",
+            "answer": "はい、SONO Belle慶州にはウェディングホールや宴会場などの施設もあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 180,
+        "QA": 270
+    }
+}

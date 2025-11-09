@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_012376",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "ビハインドゥユ（비하인드유）"
+    },
+    "text": "ビハインドゥユ（비하인드유）\\n\n江原道 原州市 健康路 1\\n\n韓国の各種飲み物をお楽しみいただけます。代表的なメニューはリアルイチゴラテです。江原道のウォンジュ市に位置したカフェ（コーヒーショップ）です。",
+    "QA": [
+        {
+            "question": "ビハインドゥユはどこに位置していますか？",
+            "answer": "ビハインドゥユは韓国の江原道原州市健康路1に位置しています。"
+        },
+        {
+            "question": "ビハインドゥユで代表的なメニューは何ですか？",
+            "answer": "ビハインドゥユで代表的なメニューはリアルイチゴラテです。"
+        },
+        {
+            "question": "ビハインドゥユはどのようなお店ですか？",
+            "answer": "ビハインドゥユはカフェ（コーヒーショップ）です。"
+        },
+        {
+            "question": "ビハインドゥユはどの市に位置していますか？",
+            "answer": "ビハインドゥユは江原道のウォンジュ市に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 76,
+        "QA": 140
+    }
+}

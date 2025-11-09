@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_020574",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.marriott.co.kr/hotels/travel/taemc-daegu-marriott-hotel",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "大邱マリオットホテル"
+    },
+    "text": "大邱マリオットホテル\\n\n大邱広域市東区東部路26キル6\\n\n大邱初のマリオットインターナショナル5つ星ホテルです。コージーな部屋と様々な付帯施設を利用しながらリラックスできます。東大邱駅、大邱国際空港など、都心交通の中心に位置し、ショッピング、観光、グルメなど様々な体験を提供します。",
+    "QA": [
+        {
+            "question": "このホテルの名前は何ですか？",
+            "answer": "大邱マリオットホテル"
+        },
+        {
+            "question": "このホテルの場所はどこですか？",
+            "answer": "大邱広域市東区東部路26キル6"
+        },
+        {
+            "question": "このホテルの星の数は何つ星ですか？",
+            "answer": "5つ星"
+        },
+        {
+            "question": "このホテルの特徴は何ですか？",
+            "answer": "コージーな部屋と様々な付帯施設を提供します"
+        },
+        {
+            "question": "このホテルの近くにどんな交通機関がありますか？",
+            "answer": "東大邱駅、大邱国際空港などがあります"
+        },
+        {
+            "question": "このホテルの周辺には何がありますか？",
+            "answer": "ショッピング、観光、グルメなど様々な体験ができます"
+        }
+    ],
+    "word_Count": {
+        "text": 104,
+        "QA": 141
+    }
+}

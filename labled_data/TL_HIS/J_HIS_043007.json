@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_043007",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=998&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=00490000&ccbaCtcd=32&ccbaCpno=3413200490000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1984-06-02",
+        "domain": "문화/역사관광",
+        "title": "강릉효자리비"
+    },
+    "text": "江原特別自治道文化財資料、江陵沃川洞に位置する小さな碑閣の中に立っている碑で、朝鮮中宗の時の人である金徳将の孝行と徳を称えています。キム·ドクジャンは父親が亡くなり、3年間墓のそばに穴蔵を建てて暮らしたが、その時山火事が起きて火が墓にまで届くと号泣しながら空に向かって祈った。すると急に風雨が吹きつけて山火事が消えるようになりました。朝廷は彼のこのような親孝行を聞き、旌閭門を下し、「孝友堂」と名づけ、村名を「孝座」と名付けました金徳将はまた、この一帯が凶作になるたびに自分の倉庫の門を開けて貧しい人々を救いましたが、宣祖11年(1578)、彼を表彰する旌閭閣を下し、宣祖23年(1590)には平岡県訓導に任命し、北条参判に贈職しました。今は旌閭閣はなくなり、彼の子孫が建てたこの碑だけが残っています。荒々しく整えられた細長い姿で、前面には「孝子里」という碑の名称が縦に大きく刻まれています",
+    "QA": [
+        {
+            "question": "この碑はどこにありますか？",
+            "answer": "この碑は江陵沃川洞に位置しています。"
+        },
+        {
+            "question": "この碑は誰のために建てられましたか？",
+            "answer": "この碑は金徳将という人のために建てられました。"
+        },
+        {
+            "question": "金徳将はどのような徳を称えられていますか？",
+            "answer": "金徳将は孝行と徳を称えられています。"
+        },
+        {
+            "question": "金徳将はどのような孝行をしましたか？",
+            "answer": "金徳将は父親が亡くなった後、3年間墓のそばに穴蔵を建てて暮らし、山火事が起きた際には祈りを捧げて山火事を消しました。また、凶作の際には倉庫の門を開けて貧しい人々を救いました。"
+        },
+        {
+            "question": "この碑の名称は何ですか？",
+            "answer": "この碑の名称は「孝子里」と言います。"
+        },
+        {
+            "question": "旌閭閣は何ですか？",
+            "answer": "旌閭閣は金徳将を表彰するために建てられた建物でしたが、現在は存在しません。"
+        }
+    ],
+    "word_Count": {
+        "text": 289,
+        "QA": 214
+    }
+}

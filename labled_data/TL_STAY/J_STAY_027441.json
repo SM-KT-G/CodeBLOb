@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_027441",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42080&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "더케이설악산가족호텔"
+    },
+    "text": "窓の外に広がる美しい風景を鑑賞しながら雪岳山でリラックスしてください！ 国立公園内に位置する日の出公園と大浦港は車で10分の距離に位置しています。 また、外熊峙海水浴場と束草海水浴場までは車で15分で到着できます。 そして、チューン·チューンまでは約20分かかります。 これらすべての場所は雪岳山の近くに位置し、自然と海の美しさを一緒に楽しむことができます。",
+    "QA": [
+        {
+            "question": "このエリアで人気の観光スポットはありますか？",
+            "answer": "はい、日の出公園と大浦港が人気です。"
+        },
+        {
+            "question": "雪岳山近くにある海水浴場はどれくらいの距離ですか？",
+            "answer": "外熊峙海水浴場と束草海水浴場までは車で15分です。"
+        },
+        {
+            "question": "チューン·チューンまでの所要時間はどれくらいですか？",
+            "answer": "チューン·チューンまで約20分かかります。"
+        },
+        {
+            "question": "このエリアの自然の美しさを楽しむためのおすすめのアクティビティはありますか？",
+            "answer": "雪岳山周辺では、ハイキングや自然散策などがおすすめです。"
+        },
+        {
+            "question": "このエリアでの観光シーズンはいつですか？",
+            "answer": "雪岳山周辺の観光シーズンは、春から秋にかけてが最も人気です。"
+        }
+    ],
+    "word_Count": {
+        "text": 131,
+        "QA": 185
+    }
+}

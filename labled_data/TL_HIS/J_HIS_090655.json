@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_090655",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=846&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=01090000&ccbaCtcd=33&ccbaCpno=2333301090000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1999-09-15",
+        "domain": "문화/역사관광",
+        "title": "영동 덕수이씨 육세팔효정문"
+    },
+    "text": "永同徳水李氏六世八孝貞門\\n\n忠清北道永同郡梁山面元堂里424-1番地\\n\n朝鮮英祖王40年(1764)、忠清北道記念物、正門(旌門)という忠臣・孝子・烈女を表彰するため、村の入口や家の門の前に立てた赤い色のドアをいう。ここで支えている6人の目玉は、李鶴洙(イ・ハクス)、イテン、イマンチュン、異彩、イボクチョ、イジョンチョルで2人の孝婦はボクチョの処のチャン氏とジョンチョルの処の金さんだ。",
+    "QA": [
+        {
+            "question": "何が忠臣・孝子・烈女を表彰するため、村の入口や家の門の前に立てられた赤い色のドアですか？",
+            "answer": "正門(旌門)です。"
+        },
+        {
+            "question": "正門(旌門)を支えている6人の目玉は誰ですか？",
+            "answer": "李鶴洙(イ・ハクス)、イテン、イマンチュン、異彩、イボクチョ、イジョンチョルです。"
+        },
+        {
+            "question": "孝婦は誰ですか？",
+            "answer": "ボクチョの処のチャン氏とジョンチョルの処の金さんです。"
+        }
+    ],
+    "word_Count": {
+        "text": 143,
+        "QA": 111
+    }
+}

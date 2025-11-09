@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_008083",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-18",
+        "domain": "음식점",
+        "title": "スタ鶏肉入り海鮮鍋（스타해천탕）"
+    },
+    "text": "スタ鶏肉入り海鮮鍋（스타해천탕）\\n\nソウル特別市 中区 蘭渓路 179\\n\nソウル特別市シンダン駅の近くに位置した海鮮鍋専門店です。おすすめは鶏肉入り海鮮鍋です。海鮮鍋と蒸し料理が有名なお店です。",
+    "QA": [
+        {
+            "question": "このお店はどのような場所に位置していますか？",
+            "answer": "ソウル特別市シンダン駅の近くに位置しています。"
+        },
+        {
+            "question": "このお店のおすすめ料理は何ですか？",
+            "answer": "おすすめは鶏肉入り海鮮鍋です。"
+        },
+        {
+            "question": "このお店の特徴は何ですか？",
+            "answer": "海鮮鍋と蒸し料理が有名なお店です。"
+        }
+    ],
+    "word_Count": {
+        "text": 72,
+        "QA": 78
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_092198",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=811&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=00490900&ccbaCtcd=50&ccbaCpno=2333900490900&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1998-01-07",
+        "domain": "문화/역사관광",
+        "title": "온평환해장성"
+    },
+    "text": "オンピョン・ファンヘジャンソン\\n\n済州西帰浦市城山邑環海長城路732、外6筆地先(温坪里)\\n\n済州特別自治道記念物、船に乗って入ってくる外敵の侵入を防ぐため、済州島では海岸線を歩きながら、城を築いたが、これをフヮンヘジャンソンという。現在城壁が残っているところはオンピョン里、杏園里・ヘンウォンリ、ハンドンリ。ドンボクリ、ブクチョンリ、エウォル)、コネ里など、14ヵ所がある。金相憲(キム・サンホン)が建てた『ナムサロク』にはフヮンヘジャンソンを指して''耽羅の万里の長城''と呼んでいる。現在残っているオンピョンフヮンヘジャンソン城壁の長さは約2,120mで他のフヮンヘジャンソンたちと比較して非常に長い。オンピョン里の河東の海岸でシンサンリ村境界に至るまで繰り広げられたこのフヮンヘジャンソンは1、2、3、4地点に分けられる。98年文化財に指定されて以降徐々に補修を行っている。",
+    "QA": [
+        {
+            "question": "済州島の城山邑環海長城路732にあるフヮンヘジャンソン城壁の長さは何メートルですか？",
+            "answer": "約2,120mです。"
+        },
+        {
+            "question": "フヮンヘジャンソン城壁は何のために築かれましたか？",
+            "answer": "海岸線を歩きながら、船に乗って入ってくる外敵の侵入を防ぐために築かれました。"
+        },
+        {
+            "question": "フヮンヘジャンソン城壁は何と呼ばれていますか？",
+            "answer": "金相憲(キム・サンホン)が建てた『ナムサロク』にはフヮンヘジャンソンを指して''耽羅の万里の長城''と呼んでいます。"
+        },
+        {
+            "question": "フヮンヘジャンソンは何地点に分けられますか？",
+            "answer": "オンピョン里の河東の海岸でシンサンリ村境界に至るまで繰り広げられたフヮンヘジャンソンは1、2、3、4地点に分けられます。"
+        },
+        {
+            "question": "フヮンヘジャンソンは何年に文化財に指定されましたか？",
+            "answer": "98年に文化財に指定されました。"
+        }
+    ],
+    "word_Count": {
+        "text": 288,
+        "QA": 234
+    }
+}

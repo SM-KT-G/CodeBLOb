@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_022538",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42080&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "인제 한석펜션"
+    },
+    "text": "山が良く水が良い江原道麟蹄のネリン川、シラカバの森に近い所に位置する一軒家、メゾネットタイプの麟蹄韓石ペンションです。 ペンションの窓から前の韓石山を眺めながら、ご家族と一緒に自然にやさしい環境で休息を楽しむことができる最高の憩いの場です。",
+    "QA": [
+        {
+            "question": "このペンションの場所はどこですか？",
+            "answer": "このペンションは江原道麟蹄に位置しています。麟蹄のネリン川とシラカバの森の近くにあります。"
+        },
+        {
+            "question": "このペンションからの景色はどうですか？",
+            "answer": "このペンションからは、前の韓石山を眺めることができます。自然に囲まれた環境で、美しい景色を楽しむことができます。"
+        },
+        {
+            "question": "このペンションはどのようなタイプですか？",
+            "answer": "このペンションはメゾネットタイプの一軒家です。ご家族と一緒にくつろげるスペースを提供しています。"
+        },
+        {
+            "question": "周辺に何がありますか？",
+            "answer": "周辺にはネリン川やシラカバの森など、自然が豊かな場所があります。散策やアウトドア活動を楽しむことができます。"
+        },
+        {
+            "question": "このペンションでできるアクティビティはありますか？",
+            "answer": "このペンションでは、ハイキングや釣りなどのアクティビティを楽しむことができます。また、周辺の自然を満喫しながらリラックスすることもできます。"
+        }
+    ],
+    "word_Count": {
+        "text": 88,
+        "QA": 267
+    }
+}

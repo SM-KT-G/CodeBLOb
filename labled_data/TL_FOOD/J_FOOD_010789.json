@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_010789",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2020-11-26",
+        "domain": "음식점",
+        "title": "ドヤ豚足 安東( 도야족발 안동 )"
+    },
+    "text": "ドヤ豚足 安東( 도야족발 안동 )\\n\n慶尚北道 安東市 ジェビ院路 111\\n\n様々な豚足を一度に味わえます。慶尚北道のアンドン市に位置した韓食専門店です。代表的なメニューは豚足です。",
+    "QA": [
+        {
+            "question": "ドヤ豚足 安東はどこに位置していますか？",
+            "answer": "ドヤ豚足 安東は慶尚北道の安東市に位置しています。"
+        },
+        {
+            "question": "ドヤ豚足 安東の代表的なメニューは何ですか？",
+            "answer": "ドヤ豚足 安東の代表的なメニューは豚足です。"
+        },
+        {
+            "question": "ドヤ豚足 安東では何種類の豚足が味わえますか？",
+            "answer": "ドヤ豚足 安東では様々な豚足を一度に味わえます。"
+        },
+        {
+            "question": "ドヤ豚足 安東は韓食専門店ですか？",
+            "answer": "はい、ドヤ豚足 安東は韓食専門店です。"
+        }
+    ],
+    "word_Count": {
+        "text": 68,
+        "QA": 126
+    }
+}

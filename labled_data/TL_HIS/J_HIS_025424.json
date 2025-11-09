@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_025424",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2016-10-04",
+        "domain": "문화/역사관광",
+        "title": "寧越駅（영월역）"
+    },
+    "text": "寧越駅\n江原道 寧越郡 寧越邑 寧越路2106\n寧越駅は1955年6月に竣工し、端宗と関連のある地域的な特色をいかした瓦屋根の駅舎となっています。全国で一番美しい駅のひとつして数えられている寧越駅は高級感を感じることができます。",
+    "QA": [
+        {
+            "question": "この駅の名前は何ですか？",
+            "answer": "この駅の名前は寧越駅です。"
+        },
+        {
+            "question": "どのような特徴がありますか？",
+            "answer": "寧越駅は瓦屋根の駅舎が特徴で、全国で一番美しい駅のひとつとして知られています。"
+        },
+        {
+            "question": "いつ建設されましたか？",
+            "answer": "寧越駅は1955年6月に建設されました。"
+        },
+        {
+            "question": "どの地域に位置していますか？",
+            "answer": "寧越駅は江原道寧越郡寧越邑に位置しています。"
+        },
+        {
+            "question": "高級感を感じることができますか？",
+            "answer": "はい、寧越駅は高級感を感じることができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 83,
+        "QA": 134
+    }
+}

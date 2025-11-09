@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_057805",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.goodchoice.kr/product/detail?ano=4072&adcno=1&sel_date=2023-11-06&sel_date2=2023-11-07",
+        "collectedDate": "2023-11-15",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "일산 HOTEL VALENTINE"
+    },
+    "text": "地下鉄情報 : 宿泊施設は3号線馬頭駅と3号線白石駅に位置しております。すべての客室はネットフリックスが視聴可能であり、ACEのふわふわベッドと一部のスイートルームではスタイラーが利用できます。未成年者の場合、予約キャンセルが不可能であり、退室措置が行われます。 駐車は入室時間以前に可能です。",
+    "QA": [
+        {
+            "question": "宿泊施設はどこに位置していますか？",
+            "answer": "宿泊施設は3号線馬頭駅と3号線白石駅に位置しています。"
+        },
+        {
+            "question": "客室にはどのような設備が備わっていますか？",
+            "answer": "すべての客室はネットフリックスが視聴可能であり、一部のスイートルームではスタイラーが利用できます。"
+        },
+        {
+            "question": "未成年者の場合、予約キャンセルは可能ですか？",
+            "answer": "未成年者の場合、予約キャンセルが不可能であり、退室措置が行われます。"
+        },
+        {
+            "question": "駐車はいつから可能ですか？",
+            "answer": "駐車は入室時間以前に可能です。"
+        }
+    ],
+    "word_Count": {
+        "text": 107,
+        "QA": 145
+    }
+}

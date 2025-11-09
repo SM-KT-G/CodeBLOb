@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_028430",
+        "source": "도서",
+        "writer": "김용철",
+        "ISBN_ISNN": "978-89-3520-841-8",
+        "version": "초판",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "맛객의 맛있는 인생",
+        "collectedDate": "2023-11-01",
+        "publishedDate": "2010-09-05",
+        "domain": "음식점",
+        "title": "바운스무드"
+    },
+    "text": "忠清北道清州市清原区梧倉邑中心商業路31-4の1階バウンスムード「BOUNCEMOOD」はハンバーガーを召し上がる前後も常に良い気分を維持させるために作られました。 オチャンはオチャンプラザ下車徒歩8分、717バス利用時オチャンプラザ下車徒歩1分の距離にあります。 メニューでは CLASSIC BURGER, CLASSI DOUBLE BURGER, CHEESE BURGER, CHEESE DOUBLE BURGER, BACON CHEES BURGER, BACON CHEESE DOUBLE, TRUFFLE BURGER, TRUFFLE DOUBLE BURGE, AVOCADO BURGER, SHRIMP BURGER, WASABI SHRIMP BURGER, HOT CHICKEN BURGER, ORIGINAL FRIES, CHEESE FRIES, GARLIC HONEY FRIES, DIRTY FRIES, SWEET POTATO, GENERAL TSO, BUFFALO WINGS(6pc)、 CHEESESTICK(3pc)、フルーツポンチ、ゼロコーラ、ペプシゼロ、マウンテンデュー、ジャム、ウェルチグレープ、スナッフルピーチティー、スナッフルレモンティー、ポロロミルク、ハリトスグアバ、ハリトスライムがあります。 当店ではハウスソースと新鮮な野菜を一緒にお楽しみいただけます。",
+    "QA": [
+        {
+            "question": "BOUNCEMOODはどのような場所にありますか？",
+            "answer": "BOUNCEMOODは忠清北道清州市清原区梧倉邑中心商業路31-4の1階にあります。"
+        },
+        {
+            "question": "バウンスムードはどのような料理を提供していますか？",
+            "answer": "バウンスムードではハンバーガーやフライドポテト、チキンウィングなどを提供しています。"
+        },
+        {
+            "question": "オチャンへのアクセス方法はありますか？",
+            "answer": "オチャンへのアクセス方法としては、オチャンプラザ下車後徒歩8分または717バスを利用しオチャンプラザ下車後徒歩1分の距離です。"
+        },
+        {
+            "question": "BOUNCEMOODのメニューにはどのような種類がありますか？",
+            "answer": "BOUNCEMOODのメニューには、クラシックバーガー、チーズバーガー、ベーコンチーズバーガーなどのハンバーガーや、フライドポテト、チキンウィングなどのサイドメニューがあります。"
+        },
+        {
+            "question": "BOUNCEMOODではどのようなソースが提供されていますか？",
+            "answer": "BOUNCEMOODではハウスソースが提供されており、新鮮な野菜と一緒にお楽しみいただけます。"
+        }
+    ],
+    "word_Count": {
+        "text": 454,
+        "QA": 303
+    }
+}

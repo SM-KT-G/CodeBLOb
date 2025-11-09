@@ -1,0 +1,31 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_005652",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-12-28",
+        "domain": "숙박",
+        "title": "シャンボール観光ホテル（샹보르 관광호텔）"
+    },
+    "text": "シャンボール観光ホテル（샹보르 관광호텔）\\n\n全羅南道 麗水市 公和南2キル20\\n\nシャンボール観光ホテルは、全羅南道でも秀麗な自然環境を誇る麗水に位置しており、清潔な空間の中で最高のサービスを提供しています。",
+    "QA": [
+        {
+            "question": "シャンボール観光ホテルはどこに位置していますか？",
+            "answer": "シャンボール観光ホテルは全羅南道、麗水市の公和南2キル20に位置しています。"
+        },
+        {
+            "question": "シャンボール観光ホテルはどのようなサービスを提供していますか？",
+            "answer": "シャンボール観光ホテルでは、清潔な空間の中で最高のサービスを提供しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 78,
+        "QA": 96
+    }
+}

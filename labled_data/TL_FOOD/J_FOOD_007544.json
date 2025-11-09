@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_007544",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "シクサシガン（식사시간）"
+    },
+    "text": "シクサシガン（식사시간）\\n\n江原道 原州市 健康路 17-3\\n\n江原道のウォンジュ市に位置した韓食です。代表的なメニューはプデチゲです。スープが美味しいブデチゲ(ハム・ソーセージ入りキムチ鍋)です。",
+    "QA": [
+        {
+            "question": "シクサシガン（식사시간）はどこにありますか？",
+            "answer": "シクサシガン（식사시간）は江原道のウォンジュ市に位置しています。"
+        },
+        {
+            "question": "シクサシガン（식사시간）で代表的なメニューは何ですか？",
+            "answer": "シクサシガン（식사시간）で代表的なメニューはプデチゲです。"
+        },
+        {
+            "question": "プデチゲとはどのような料理ですか？",
+            "answer": "プデチゲはハム・ソーセージ入りキムチ鍋の美味しいスープです。"
+        }
+    ],
+    "word_Count": {
+        "text": 74,
+        "QA": 115
+    }
+}

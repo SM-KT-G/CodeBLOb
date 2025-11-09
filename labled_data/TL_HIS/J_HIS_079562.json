@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_079562",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1093&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=02140000&ccbaCtcd=38&ccbaCpno=3413802140000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1995-05-02",
+        "domain": "문화/역사관광",
+        "title": "삼중대광사도광리군 목상"
+    },
+    "text": "慶尚南道文化財資料、高麗太祖王建を助け、後百済を平定することに尽力した密陽孫氏の入郷祖であり、中始祖である孫謙勲(ソン·グンフン)。ソン·グンフンは高麗建国功臣で太祖王建を助け、後百済の甄萱の息子である神剣を黄山の戦いで思潮させた功労で左明功臣に選ばれ、光利軍に封じられ、彼の死後に三重大光使徒に追贈されました。1894年の甲午競艇以後、官郷が廃止されると、子孫が春福斎の顕忠祠に移封して祀り、現在は密陽市立博物館に保管されています",
+    "QA": [
+        {
+            "question": "孫謙勲は何をした功績がありますか？",
+            "answer": "孫謙勲は高麗太祖王建を助け、後百済を平定することに尽力しました。"
+        },
+        {
+            "question": "孫謙勲はどのようにして左明功臣に選ばれましたか？",
+            "answer": "孫謙勲は黄山の戦いで後百済の甄萱の息子である神剣を思潮させた功労により、左明功臣に選ばれました。"
+        },
+        {
+            "question": "孫謙勲は何のために光利軍に封じられましたか？",
+            "answer": "孫謙勲は功績により光利軍に封じられました。"
+        },
+        {
+            "question": "孫謙勲の死後に何に追贈されましたか？",
+            "answer": "孫謙勲の死後、三重大光使徒に追贈されました。"
+        },
+        {
+            "question": "孫謙勲の子孫は何を行いましたか？",
+            "answer": "1894年の甲午競艇以後、官郷が廃止されると、子孫が春福斎の顕忠祠に移封して祀りました。"
+        }
+    ],
+    "word_Count": {
+        "text": 158,
+        "QA": 193
+    }
+}

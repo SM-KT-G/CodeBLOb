@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_013232",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "ベクニョントジョンサムギェタン（백년토종삼계탕）"
+    },
+    "text": "ベクニョントジョンサムギェタン（백년토종삼계탕）\\n\nソウル特別市 麻浦区 楊花路 118\\n\nソウル特別市ホンデイック駅の近くに位置した韓食専門店です。会社員に人気のお店です。代表的なメニューは地鶏サムゲタンです。",
+    "QA": [
+        {
+            "question": "ベクニョントジョンサムギェタンはどのエリアに位置していますか？",
+            "answer": "ベクニョントジョンサムギェタンはソウル特別市 麻浦区 楊花路 118に位置しています。"
+        },
+        {
+            "question": "ベクニョントジョンサムギェタンはどのようなお店ですか？",
+            "answer": "ベクニョントジョンサムギェタンは韓食専門店で、会社員に人気のお店です。"
+        },
+        {
+            "question": "ベクニョントジョンサムギェタンの代表的なメニューは何ですか？",
+            "answer": "ベクニョントジョンサムギェタンの代表的なメニューは地鶏サムゲタンです。"
+        }
+    ],
+    "word_Count": {
+        "text": 79,
+        "QA": 147
+    }
+}

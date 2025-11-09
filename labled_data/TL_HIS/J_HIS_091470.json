@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_091470",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=453&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=01020000&ccbaCtcd=34&ccbaCpno=2113401020000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1983-09-29",
+        "domain": "문화/역사관광",
+        "title": "예산이성만형제효제비"
+    },
+    "text": "礼山イ·ソンマン兄弟ヒョジェビ\\n\n忠清南道礼山郡大興面東西里102\\n\n忠清南道有形文化財、高麗電気の人の理性だけ・李舜臣(イ・スンシン)将軍兄弟の孝行と兄弟の義を称えるために立てた雨だ。『新増東国輿地勝覧』の記録によると、兄弟が共に至孝に親を仕えたという。両親が亡くなった後にも兄は父の墓を守って弟はお母さん墓を3年間そばで守りながら面倒を見た。一つの食べ物ができても兄弟の一人がなければ食べておらず、朝はヒョンジプで夕食は弟の家で、朝食と夕飯を一緒に入った。朝鮮時代の調整はこの事実を表彰して雨を立てるようにした。雨は細長いビモムの上に定礎をのせた姿であり、下にある台座は後代に来て作ったものである。定礎はまるでビモムの上に帽子を被せたような姿で、頂上に大きくて丸い髪飾りをのせた。もともと燕山君3年(1497)に建設されカバンギョの隣に位置していたが、イェダン貯水池水没によって現在の席に移したのだ。",
+    "QA": [
+        {
+            "question": "この雨の場所はどこですか？",
+            "answer": "この雨は忠清南道礼山郡大興面東西里102にあります。"
+        },
+        {
+            "question": "なぜこの雨が建てられたのですか？",
+            "answer": "この雨は、忠清南道の有形文化財であり、高麗時代の将軍である李舜臣将軍と兄弟の義を称えるために建てられました。"
+        },
+        {
+            "question": "兄弟の孝行と義について具体的に何が記録されていますか？",
+            "answer": "『新増東国輿地勝覧』の記録によると、兄弟は両親が亡くなった後も、兄は父の墓を守り、弟は母の墓を3年間そばで守り、一緒に食事をし、朝はヒョンジプで夕食は弟の家で一緒に食べました。"
+        },
+        {
+            "question": "この雨の定礎はどのような形をしていますか？",
+            "answer": "この雨の定礎は細長いビモムの上に定礎をのせた姿であり、下にある台座は後代に来て作られたものです。"
+        },
+        {
+            "question": "なぜこの雨が現在の位置に移されたのですか？",
+            "answer": "もともと燕山君3年(1497)に建設されましたが、後にイェダン貯水池水没によって現在の場所に移されました。"
+        }
+    ],
+    "word_Count": {
+        "text": 296,
+        "QA": 269
+    }
+}

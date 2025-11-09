@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_000192",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2023-05-08",
+        "domain": "자연관광",
+        "title": "발랑저수지"
+    },
+    "text": "\n京畿道坡州市広灘面バラン里\n京畿道坡州市広灘面に位置するバラン貯水池は、広さ1,65,289㎡を誇り、深さは4～5mです。この貯水池は時々「飛岩貯水池」とも呼ばれています。周辺の標高100mの野山渓谷に造られており、周囲の景色が美しく、清澄な水で知られる避暑地です。",
+    "QA": [
+        {
+            "question": "貯水池の名前は何ですか？",
+            "answer": "バラン貯水池、または飛岩貯水池と呼ばれています。"
+        },
+        {
+            "question": "貯水池の広さはどれくらいですか？",
+            "answer": "貯水池の広さは1,65,289㎡です。"
+        },
+        {
+            "question": "貯水池の深さはどれくらいですか？",
+            "answer": "貯水池の深さは4～5mです。"
+        },
+        {
+            "question": "貯水池の周辺の標高はどれくらいですか？",
+            "answer": "貯水池の周辺は標高100mの野山渓谷に位置しています。"
+        },
+        {
+            "question": "貯水池の周囲の景色はどうですか？",
+            "answer": "貯水池の周囲の景色は美しく、清澄な水で知られています。"
+        }
+    ],
+    "word_Count": {
+        "text": 98,
+        "QA": 139
+    }
+}

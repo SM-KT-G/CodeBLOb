@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_042808",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1030&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=00910000&ccbaCtcd=32&ccbaCpno=3413200910000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1985-01-17",
+        "domain": "문화/역사관광",
+        "title": "강릉 시호 고택"
+    },
+    "text": "江原特別自治道文化財資料、江陵の有名なソンビ、パク·ゲドンが住んでいた場所で、サランチェは建てて約300年、母屋と蔵屋は建てて約150年になります。建物は「ㅁ」の字型の構造になっていますが、母屋とサランチェに分かれています。門の向かい側にある母屋は、前面に縁側を置き、左側にある板の間まで続きます。サランチェは前面4間の規模で、屋根は側面から見て八の字型の入母屋造りです",
+    "QA": [
+        {
+            "question": "この建物はどのような形状ですか？",
+            "answer": "この建物は「ㅁ」の字型の構造になっています。"
+        },
+        {
+            "question": "母屋と蔵屋はどのくらいの年代ですか？",
+            "answer": "母屋は約300年前に建てられ、蔵屋は約150年前に建てられました。"
+        },
+        {
+            "question": "母屋はどのような特徴がありますか？",
+            "answer": "門の向かい側にある母屋は、前面に縁側を置き、左側にある板の間まで続いています。"
+        },
+        {
+            "question": "サランチェの規模は何間ですか？",
+            "answer": "サランチェは前面4間の規模です。"
+        },
+        {
+            "question": "サランチェの屋根の形はどのような形ですか？",
+            "answer": "サランチェの屋根は側面から見て八の字型の入母屋造りです。"
+        }
+    ],
+    "word_Count": {
+        "text": 135,
+        "QA": 165
+    }
+}

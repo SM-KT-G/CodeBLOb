@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_037792",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=488&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=01500000&ccbaCtcd=33&ccbaCpno=2113301500000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1985-12-28",
+        "domain": "문화/역사관광",
+        "title": "청주 순치명 석조여래입상"
+    },
+    "text": "淸州順治銘石造如來立像 (청주 순치명 석조여래입상)\\n\n忠清北道清州市上党区龍井洞532-102\\n\n朝鮮、忠清北道有形文化財、忠清北道清州市上党区龍井洞にあるこの仏像は、石柱を利用して顔と上半身を彫刻し、石長僧のような姿をしている。 額には大きな円形の白毫が際立って刻まれており、眉毛は長く大きく表現されている。 半月の形をした口は目と共に顔全体で笑みを浮かべる。 手は集めてあごの下につけているが、両腕を水平に処理して未熟な彫刻手法を見せている。 下半身は彫刻をしていない状態で、中間部分に順治9年(孝宗3年、1652年)11月16日に作ったという字を書いてある。 実際は寺院の礼拝仏ではなく、村の守護神機能を持っていた民間信仰対象であると推定される。",
+    "QA": [
+        {
+            "question": "この仏像はどこにありますか？",
+            "answer": "この仏像は忠清北道清州市上党区龍井洞532-102にあります。"
+        },
+        {
+            "question": "この仏像は何のために作られましたか？",
+            "answer": "この仏像は村の守護神機能を持っていた民間信仰対象として作られました。"
+        },
+        {
+            "question": "この仏像の特徴は何ですか？",
+            "answer": "この仏像は石柱を利用して顔と上半身を彫刻し、石長僧のような姿をしています。額には大きな円形の白毫が際立って刻まれ、眉毛は長く大きく表現されています。半月の形をした口は目と共に顔全体で笑みを浮かべています。手は集めてあごの下につけているが、両腕を水平に処理して未熟な彫刻手法を見せています。下半身は彫刻されていない状態です。"
+        },
+        {
+            "question": "この仏像はいつ作られましたか？",
+            "answer": "この仏像は順治9年(孝宗3年、1652年)11月16日に作られました。"
+        }
+    ],
+    "word_Count": {
+        "text": 242,
+        "QA": 235
+    }
+}

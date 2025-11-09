@@ -1,0 +1,31 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001528",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/cacaodada",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "CACAODADA"
+    },
+    "text": "CACAODADA\\n\nソウル特別市 麻浦区 喜雨亭路10キル 15\\n\nCACAODADA（カカオダダ）では世界各地から輸入したカカオ豆をローストしてすり潰し、練り上げてチョコレートを作っています。食品添加物を一切使用せず、カカオビーンと砂糖のみでチョコレートを作っています。",
+    "QA": [
+        {
+            "question": "CACAODADAはどこにありますか？",
+            "answer": "CACAODADAはソウル特別市麻浦区喜雨亭路10キル15にあります。"
+        },
+        {
+            "question": "CACAODADAはどのようなチョコレートを作っていますか？",
+            "answer": "CACAODADAでは世界各地から輸入したカカオ豆をローストしてすり潰し、練り上げてチョコレートを作っています。食品添加物を一切使用せず、カカオビーンと砂糖のみでチョコレートを作っています。"
+        }
+    ],
+    "word_Count": {
+        "text": 101,
+        "QA": 131
+    }
+}

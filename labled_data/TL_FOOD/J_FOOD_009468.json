@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_009468",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "タコ大橋 ( 문어대교 )"
+    },
+    "text": "タコ大橋 ( 문어대교 )\n全羅南道 モクポ市 ヘヤンデハクロ66-1\n海鮮で様々な料理が味わえる店です。全羅南道のモクポ市に位置した韓食専門店です。代表的なメニューはゆでタコです。",
+    "QA": [
+        {
+            "question": "タコ大橋はどこに位置していますか？",
+            "answer": "タコ大橋は全羅南道のモクポ市に位置しています。"
+        },
+        {
+            "question": "タコ大橋ではどんな料理が味わえますか？",
+            "answer": "タコ大橋では海鮮を中心に様々な料理が味わえます。特におすすめはゆでタコです。"
+        },
+        {
+            "question": "タコ大橋の代表的なメニューは何ですか？",
+            "answer": "タコ大橋の代表的なメニューはゆでタコです。"
+        }
+    ],
+    "word_Count": {
+        "text": 66,
+        "QA": 100
+    }
+}

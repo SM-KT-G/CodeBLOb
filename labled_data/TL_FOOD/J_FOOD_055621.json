@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_055621",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/yurae-hoegwan",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "ユレ会館"
+    },
+    "text": "ユレ会館\\n\nソウル特別市 城東区 マジャンロ196\\n\n57年伝統の韓牛ロースが味わえる名店です。ソウル特別市のソンドン区に位置した韓食専門店です。代表的なメニューはロースです。",
+    "QA": [
+        {
+            "question": "ユレ会館はどこにありますか？",
+            "answer": "ユレ会館はソウル特別市の城東区のマジャンロ196にあります。"
+        },
+        {
+            "question": "ユレ会館の特徴的なメニューは何ですか？",
+            "answer": "ユレ会館の特徴的なメニューは韓牛のロースです。"
+        },
+        {
+            "question": "ユレ会館は何年の伝統を持っていますか？",
+            "answer": "ユレ会館は57年の伝統を持っています。"
+        },
+        {
+            "question": "ユレ会館はどの区に位置していますか？",
+            "answer": "ユレ会館はソウル特別市のソンドン区に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 66,
+        "QA": 123
+    }
+}

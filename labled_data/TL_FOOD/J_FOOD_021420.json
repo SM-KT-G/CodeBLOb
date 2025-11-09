@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_021420",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "富強玉 ( 부강옥 )"
+    },
+    "text": "富強玉 ( 부강옥 )\n世宗特別自治市 芙江面 芙江外川路 103\n各種メディアでよく紹介されている名店です。世宗特別自治市に位置した韓国料理専門店です。代表的なメニューはスンデクッパです。",
+    "QA": [
+        {
+            "question": "この名店の場所はどこですか？",
+            "answer": "富強玉 ( 부강옥 ) 世宗特別自治市 芙江面 芙江外川路 103 に位置しています。"
+        },
+        {
+            "question": "この名店の代表的なメニューは何ですか？",
+            "answer": "代表的なメニューはスンデクッパです。"
+        },
+        {
+            "question": "この名店はどのような特徴がありますか？",
+            "answer": "よく各種メディアで紹介されており、韓国料理専門店です。"
+        },
+        {
+            "question": "この名店はどのような評判がありますか？",
+            "answer": "各種メディアでよく紹介されており、評判が良いです。"
+        }
+    ],
+    "word_Count": {
+        "text": 69,
+        "QA": 134
+    }
+}

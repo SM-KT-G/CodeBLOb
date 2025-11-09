@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_022552",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42020&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "사천 백운이머무는곳펜션"
+    },
+    "text": "山にはツツジをはじめとするあらゆる花が季節によって咲き、夜になると空いっぱいの星がきらきら輝くところに草虫愛の歌を聞きながら休める家です。 朝になると、山鳥たちの歌に再び甘い深い眠りに落ちるところ、時には白い雲が風に沿って行き、山の腰をつかんで休んでいくところです。 ただし、お知らせでは夜10時以降に入室される場合は予めペンションまでご連絡ください。 また、ペット同伴は制限されますので、ご協力とご了承ください。",
+    "QA": [
+        {
+            "question": "このペンションの周りにはどんな花が咲きますか？",
+            "answer": "このペンションの周りにはツツジをはじめとするあらゆる花が季節によって咲きます。"
+        },
+        {
+            "question": "夜には何が見えますか？",
+            "answer": "夜になると空いっぱいの星がきらきら輝きます。"
+        },
+        {
+            "question": "朝になると何が起こりますか？",
+            "answer": "朝になると山鳥たちの歌が聞こえ、甘い深い眠りに落ちることができます。"
+        },
+        {
+            "question": "ペットを同伴できますか？",
+            "answer": "申し訳ありませんが、ペット同伴は制限されておりますので、ご協力とご了承ください。"
+        }
+    ],
+    "word_Count": {
+        "text": 151,
+        "QA": 143
+    }
+}

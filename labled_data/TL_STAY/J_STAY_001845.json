@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_001845",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-01-12",
+        "domain": "숙박",
+        "title": "Hotel De Urban（드어반관광호텔）"
+    },
+    "text": "Hotel De Urban（드어반관광호텔）\nソウル特別市 江西区 コムダルレ路24キル35\nソウル江西区カチ山に位置する快適な空間で安らぎを提供する観光ホテルです。現代的なインテリアデザイン、真心のこもったサービス、そして金浦空港から10分、仁川空港から40分というアクセスの良さを誇ります。",
+    "QA": [
+        {
+            "question": "ホテル De Urban（ドエルバン）はどこに位置していますか？",
+            "answer": "ホテル De Urban（ドエルバン）はソウル江西区カチ山に位置しています。"
+        },
+        {
+            "question": "ホテル De Urban（ドエルバン）の特徴は何ですか？",
+            "answer": "ホテル De Urban（ドエルバン）の特徴は、現代的なインテリアデザイン、真心のこもったサービス、そして金浦空港から10分、仁川空港から40分というアクセスの良さです。"
+        },
+        {
+            "question": "ホテル De Urban（ドエルバン）のアクセスはどうですか？",
+            "answer": "ホテル De Urban（ドエルバン）へのアクセスは、金浦空港から10分、仁川空港から40分というアクセスの良さを誇っています。"
+        },
+        {
+            "question": "ホテル De Urban（ドエルバン）のサービスはどのようなものですか？",
+            "answer": "ホテル De Urban（ドエルバン）は真心のこもったサービスを提供しており、快適な空間で安らぎを提供しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 108,
+        "QA": 272
+    }
+}

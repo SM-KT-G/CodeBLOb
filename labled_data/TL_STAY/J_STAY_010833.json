@@ -1,0 +1,55 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_010833",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42060&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "보령(대천) 힐링 운영 정책"
+    },
+    "text": "チェックインは午後2時で、チェックアウトは午前11時です。 チェックインとチェックアウト時間のご案内です。 入室のご利用についてのご案内です。 予約をされた方には特別特典が与えられます。 全客室にはWi-Fiが設置されています。 客室では最新の映画を鑑賞できます。 駐車可能な車両は最大14台です。 屋上にはバーベキュー施設が備わっています。 また、青少年向けのゲームセンターも運営しています。 .",
+    "QA": [
+        {
+            "question": " チェックインとチェックアウトの時間はいつですか？",
+            "answer": " チェックインは午後2時で、チェックアウトは午前11時です。"
+        },
+        {
+            "question": " 入室できる時間帯はありますか？",
+            "answer": " チェックインは午後2時からです。"
+        },
+        {
+            "question": " 予約をした人には特典はありますか？",
+            "answer": " はい、予約をされた方には特別特典が与えられます。"
+        },
+        {
+            "question": " 全客室にはWi-Fiがありますか？",
+            "answer": " はい、全客室にはWi-Fiが設置されています。"
+        },
+        {
+            "question": " 最新の映画を鑑賞できるのは客室ですか？",
+            "answer": " はい、客室で最新の映画を鑑賞できます。"
+        },
+        {
+            "question": " 駐車場の台数は何台まで可能ですか？",
+            "answer": " 駐車可能な車両は最大14台です。"
+        },
+        {
+            "question": " 屋上には何が備わっていますか？",
+            "answer": " 屋上にはバーベキュー施設が備わっています。"
+        },
+        {
+            "question": " 青少年向けの施設はありますか？",
+            "answer": " はい、青少年向けのゲームセンターも運営しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 145,
+        "QA": 240
+    }
+}

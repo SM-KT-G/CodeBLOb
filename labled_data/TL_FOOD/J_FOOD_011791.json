@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_011791",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-05",
+        "domain": "음식점",
+        "title": "パプザルハヌンジプ ( 밥잘하는집 )"
+    },
+    "text": "パプザルハヌンジプ ( 밥잘하는집 )\\n\n慶尚北道 アンドン市 ソフ面 グィヨリギル31\\n\n様々な韓国料理が味わえる店です。慶尚北道のアンドン市に位置した韓食専門店です。代表的なメニューは牛肉プルゴギです。",
+    "QA": [
+        {
+            "question": "このレストランはどのような場所に位置していますか？",
+            "answer": "パプザルハヌンジプは慶尚北道のアンドン市に位置しています。"
+        },
+        {
+            "question": "このレストランではどのような料理が楽しめますか？",
+            "answer": "様々な韓国料理が楽しめます。特に代表的なメニューは牛肉プルゴギです。"
+        },
+        {
+            "question": "このレストランの名前は何ですか？",
+            "answer": "このレストランの名前はパプザルハヌンジプ ( 밥잘하는집 ) です。"
+        },
+        {
+            "question": "このレストランの住所は何ですか？",
+            "answer": "このレストランの住所は慶尚北道アンドン市ソフ面グィヨリギル31です。"
+        }
+    ],
+    "word_Count": {
+        "text": 77,
+        "QA": 155
+    }
+}

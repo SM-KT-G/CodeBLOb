@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_073800",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2022-08-29",
+        "domain": "음식점",
+        "title": "미니네"
+    },
+    "text": "ミニネ (미니네)\\n\nソウル特別市中区茶山路219-1\\n\n1988年にオープンしたこの家は、約30年の歳月が経ちましたが、この街では歴史が比較的短い方です。学生たちはこの家をよく訪れます。",
+    "QA": [
+        {
+            "question": "この家はいつオープンしましたか？",
+            "answer": "1988年にオープンしました。"
+        },
+        {
+            "question": "この家はどのくらいの歴史がありますか？",
+            "answer": "約30年の歴史があります。"
+        },
+        {
+            "question": "この家を訪れる人たちは主に誰ですか？",
+            "answer": "学生たちがこの家をよく訪れます。"
+        },
+        {
+            "question": "この家はどの区に位置していますか？",
+            "answer": "この家はソウル特別市中区に位置しています。"
+        },
+        {
+            "question": "この家の住所は何ですか？",
+            "answer": "この家の住所はソウル特別市中区茶山路219-1です。"
+        }
+    ],
+    "word_Count": {
+        "text": 70,
+        "QA": 126
+    }
+}

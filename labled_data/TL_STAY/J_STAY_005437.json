@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_005437",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2020-03-24",
+        "domain": "숙박",
+        "title": "サムウォンプラザホテル（삼원프라자호텔）"
+    },
+    "text": "サムウォンプラザホテル（삼원프라자호텔）\\n\n京畿道 安養市 万安区 牆内路139番キル7\\n\n「サムウォンプラザホテル（HOTEL SAMWON PLAZA）」は、安養市内のショッピング中心街に位置する新しいスタイルの一級ホテルであり、ビジネスにも最適な宿泊施設です。",
+    "QA": [
+        {
+            "question": "サムウォンプラザホテルはどこにありますか？",
+            "answer": "サムウォンプラザホテルは京畿道安養市万安区にあります。"
+        },
+        {
+            "question": "サムウォンプラザホテルはどんなホテルですか？",
+            "answer": "サムウォンプラザホテルは一級ホテルであり、ビジネスに最適な宿泊施設です。"
+        },
+        {
+            "question": "サムウォンプラザホテルはどのような施設がありますか？",
+            "answer": "サムウォンプラザホテルにはショッピング中心街に位置する施設があります。"
+        },
+        {
+            "question": "サムウォンプラザホテルはどのようなスタイルですか？",
+            "answer": "サムウォンプラザホテルは新しいスタイルのホテルです。"
+        },
+        {
+            "question": "サムウォンプラザホテルはビジネスに適していますか？",
+            "answer": "はい、サムウォンプラザホテルはビジネスに最適な宿泊施設です。"
+        }
+    ],
+    "word_Count": {
+        "text": 99,
+        "QA": 200
+    }
+}

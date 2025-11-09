@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_020141",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42001&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "목시 바이 메리어트 서울 인사동"
+    },
+    "text": "当ホテルはPlay Moxy、Rooftop BARなど様々な付帯施設を提供し、リラックスできる時間を楽しむことができます。 また、鍾路3街駅との隣接性で移動が非常に便利で、宗廟、昌徳宮など様々な文化観光地まで徒歩で移動できます。 何よりも、すべての客室でネットフリックスを視聴でき、便利さを増してくれます。 \".",
+    "QA": [
+        {
+            "question": "このホテルはどのような付帯施設を提供していますか？",
+            "answer": "当ホテルはPlay Moxy、Rooftop BARなど様々な付帯施設を提供しています。"
+        },
+        {
+            "question": "このホテルの周辺にはどのような観光地がありますか？",
+            "answer": "このホテルは宗廟、昌徳宮など様々な文化観光地が徒歩圏内にあります。"
+        },
+        {
+            "question": "客室で視聴できるネットフリックスはすべての客室で利用できますか？",
+            "answer": "はい、すべての客室でネットフリックスを視聴することができます。"
+        },
+        {
+            "question": "このホテルの周辺にはどのような交通手段がありますか？",
+            "answer": "このホテルは鍾路3街駅に隣接しているため、移動が非常に便利です。"
+        },
+        {
+            "question": "このホテルでリラックスできる時間を楽しむことはできますか？",
+            "answer": "はい、このホテルではPlay Moxy、Rooftop BARなど様々な付帯施設を提供しており、リラックスできる時間を楽しむことができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 115,
+        "QA": 254
+    }
+}

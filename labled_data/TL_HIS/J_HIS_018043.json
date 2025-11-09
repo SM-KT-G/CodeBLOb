@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_018043",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101933",
+        "collectedDate": "2023-10-06",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "법장사"
+    },
+    "text": "法蔵寺\\n\n大邱の前の山、大徳山、高山谷の深い谷間に位置している古刹だ。 大韓仏教曹渓宗第9教区本寺である東和寺の末寺であり、創建年代および重唱の歴史は伝来していないが、口伝および現存する遺物から見て新羅末期に創建された寺院と伝えられている。",
+    "QA": [
+        {
+            "question": "寺院の名前は何ですか？",
+            "answer": "法蔵寺です。"
+        },
+        {
+            "question": "法蔵寺はどこに位置していますか？",
+            "answer": "法蔵寺は大邱の前の山、大徳山、高山谷の深い谷間に位置しています。"
+        },
+        {
+            "question": "法蔵寺はどの宗派に属していますか？",
+            "answer": "法蔵寺は大韓仏教曹渓宗第9教区本寺であり、東和寺の末寺です。"
+        },
+        {
+            "question": "法蔵寺の創建年代や歴史は分かっていますか？",
+            "answer": "残念ながら、法蔵寺の創建年代や重要な歴史は伝来していませんが、口伝や現存する遺物から新羅末期に創建されたと伝えられています。"
+        }
+    ],
+    "word_Count": {
+        "text": 88,
+        "QA": 143
+    }
+}

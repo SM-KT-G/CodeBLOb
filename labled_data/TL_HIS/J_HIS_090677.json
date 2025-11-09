@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_090677",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=117&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=09840000&ccbaCtcd=33&ccbaCpno=1123309840000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1989-04-10",
+        "domain": "문화/역사관광",
+        "title": "영동 신항리 석조여래삼존입상"
+    },
+    "text": "永同 新港里 ソクチョヨレサムジョニプサン\\n\n忠清北道永同郡龍山面西新港キル135-8(新港里)\\n\n統一新羅時代、宝物、昔の席は死地に建てられた統一新羅時代の石仏立像で、現在瓦屋根だけをかぶせた楼閣の中に立っている。長方形の角、平らな石に刻まれたこの仏像は中央の本尊仏を中心に左右に菩薩立像が配置された三尊仏(三尊佛)形式をなしている。本尊は、スキンヘッドの上に小さなまげの形の頭(肉髻(にくけい))があり、丸い顔には笑みを浮かべている。両肩を覆って着た厚い服は胸から蹄鉄をなしており、その間には▽形のティメドゥプがある。衣装は右手の下で3本の陰刻線を成して流れている。両方の菩薩像はそれぞれ手で物をかばって握ったり、合掌した姿勢だ。端正ながらも上品な肩と重厚な体格など身体各部分で昔の形式が現れるこの三尊仏上は、泰安の磨崖三尊仏像などとともに7世紀ソクブルサンを継承したものと7世紀後半ないし8世紀初頭の作品として大きく注目をされる。",
+    "QA": [
+        {
+            "question": "この仏像はどの時代に建てられましたか？",
+            "answer": "統一新羅時代に建てられました。"
+        },
+        {
+            "question": "仏像の形式はどのようなものですか？",
+            "answer": "三尊仏(三尊佛)形式をなしており、中央の本尊仏を中心に左右に菩薩立像が配置されています。"
+        },
+        {
+            "question": "本尊仏の特徴は何ですか？",
+            "answer": "本尊仏はスキンヘッドの上に小さなまげの形の頭(肉髻(にくけい))があり、丸い顔に笑みを浮かべています。"
+        },
+        {
+            "question": "菩薩像の特徴は何ですか？",
+            "answer": "菩薩像はそれぞれ手で物をかばって握ったり、合掌した姿勢をとっています。"
+        },
+        {
+            "question": "この三尊仏像は何時代の作品とされていますか？",
+            "answer": "この三尊仏像は7世紀後半ないし8世紀初頭の作品として大きく注目されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 308,
+        "QA": 194
+    }
+}

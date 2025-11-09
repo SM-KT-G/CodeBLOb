@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_094047",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=427&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=00680000&ccbaCtcd=32&ccbaCpno=2113200680000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1982-11-03",
+        "domain": "문화/역사관광",
+        "title": "원주봉산동석불좌상"
+    },
+    "text": "江原道特別自治道有形文化財である江原道原州市鳳山洞の石仏坐像は光背と台座を備えているが、手と顔が割れている。肩は自然に処理されており、胸は広く、安定した姿勢を見せてくれる。腕や足などの身体表現は量感が適当に表現され、統一新羅時代のソクブルサンの特徴をよく引いている。肩を包めている服は平行しわの形に統一新羅時代後期の特徴と類似するが、形式がやや変化している。光背はペ某さんであり、蔓模様と火花模様で華やかに彫刻された。台座は3段の8角ヨンファ大佐で、中で段は8角の側面に天女像が刻まれていて上の段は蓮の花模様の中に小さな花模様が刻まれている。これは、統一新羅時代ソクブルサンの特徴をよく受け継いだ高麗初期のソクブルサンだ。",
+    "QA": [
+        {
+            "question": "この石仏坐像はどこに位置していますか？",
+            "answer": "江原道原州市鳳山洞に位置しています。"
+        },
+        {
+            "question": "石仏坐像の特徴的な部分は何ですか？",
+            "answer": "光背と台座、そして肩や胸の形状が特徴的です。"
+        },
+        {
+            "question": "石仏坐像の光背には何が彫刻されていますか？",
+            "answer": "光背には蔓模様と火花模様が華やかに彫刻されています。"
+        },
+        {
+            "question": "台座にはどのような模様が刻まれていますか？",
+            "answer": "台座には天女像や蓮の花模様などが刻まれています。"
+        },
+        {
+            "question": "この石仏坐像の時代や特徴について教えてください。",
+            "answer": "この石仏坐像は統一新羅時代の特徴を受け継いだ高麗初期のものです。"
+        }
+    ],
+    "word_Count": {
+        "text": 228,
+        "QA": 164
+    }
+}

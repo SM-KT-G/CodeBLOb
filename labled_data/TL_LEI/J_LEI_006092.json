@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_LEI_006092",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2022-12-05",
+        "domain": "레포츠",
+        "title": "청도 자연속캠핑장"
+    },
+    "text": "古い樹木が鬱蒼とした陰を垂れる自然の中のペンションキャンプ場ではペンションとキャンプ場を一緒に運営しています。 キャンプ場は近くの渓谷で水遊びを楽しんだり、夏にはキャンプ場内のプールも運営しており、大きな木が多いため、全体的に木陰の下でキャンプを楽しむことができます。",
+    "QA": [
+        {
+            "question": "ペンションキャンプ場では何を楽しむことができますか？",
+            "answer": "キャンプ、水遊び、プールを楽しむことができます。"
+        },
+        {
+            "question": "キャンプ場内にはどんな特徴的なものがありますか？",
+            "answer": "キャンプ場内にはたくさんの大きな木があり、木陰の下でキャンプを楽しむことができます。"
+        },
+        {
+            "question": "キャンプ場周辺にはどんな自然がありますか？",
+            "answer": "キャンプ場周辺には鬱蒼とした陰を垂れる古い樹木があり、近くの渓谷で水遊びも楽しむことができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 98,
+        "QA": 135
+    }
+}

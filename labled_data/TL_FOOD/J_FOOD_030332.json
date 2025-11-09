@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_030332",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/obaltan",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "OBALTAN（松坡店）（오발탄（송파본점））"
+    },
+    "text": "OBALTAN（松坡店）（오발탄（송파본점））\\n\nソウル特別市 松坡区 松坡区 慰礼城大路206\\n\n「OBALTAN（オバルタン）」は堅炭を入れた火鉢でホルモンを焼いて食べるホルモン焼き専門店です。若い世代から中高年層まで誰もが美味しく食べられるように厳選した食材を使用しており、心のこもった味とサービスを味わえるお店です。",
+    "QA": [
+        {
+            "question": "OBALTAN（松坡店）はどのようなお店ですか？",
+            "answer": "OBALTAN（松坡店）はホルモン焼き専門店で、堅炭を使った火鉢でホルモンを焼いて食べることができます。"
+        },
+        {
+            "question": "OBALTAN（松坡店）ではどのような食材を使用していますか？",
+            "answer": "OBALTAN（松坡店）では、若い世代から中高年層まで誰もが美味しく食べられるように厳選した食材を使用しています。"
+        },
+        {
+            "question": "OBALTAN（松坡店）の味やサービスについてはどうですか？",
+            "answer": "OBALTAN（松坡店）では心のこもった味とサービスを提供しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 120,
+        "QA": 167
+    }
+}

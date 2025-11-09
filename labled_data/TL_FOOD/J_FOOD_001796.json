@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001796",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-13",
+        "domain": "음식점",
+        "title": "KERVANレストラン（케르반레스토랑）"
+    },
+    "text": "KERVANレストラン\\n\nソウル特別市 龍山区 梨泰院路192\\n\n「KERVAN（ケルバン）」は世界3大料理のひとつであるトルコ料理を味わえるレストランです。現地のコックによる料理もさることながら、現地の技術で作られた窯、トルコ伝統タイルを使用したキッチンやインテリアは、韓国でトルコ文化を体験できる機会を提供しています。",
+    "QA": [
+        {
+            "question": "KERVANレストランはどのエリアにありますか？",
+            "answer": "KERVAN（ケルバン）レストランは、ソウル特別市龍山区の梨泰院路192にあります。"
+        },
+        {
+            "question": "KERVANレストランではどのような料理を楽しむことができますか？",
+            "answer": "KERVAN（ケルバン）レストランでは、世界3大料理のひとつであるトルコ料理を味わうことができます。"
+        },
+        {
+            "question": "KERVANレストランのキッチンやインテリアにはどのような要素が取り入れられていますか？",
+            "answer": "KERVAN（ケルバン）レストランのキッチンやインテリアには、現地の技術で作られた窯やトルコ伝統タイルが使用されており、韓国でトルコ文化を体験することができます。"
+        },
+        {
+            "question": "KERVANレストランはどのような体験を提供していますか？",
+            "answer": "KERVAN（ケルバン）レストランは、韓国でトルコ文化を体験できる機会を提供しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 119,
+        "QA": 254
+    }
+}

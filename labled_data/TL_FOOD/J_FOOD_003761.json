@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_003761",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-15",
+        "domain": "음식점",
+        "title": "オボクダルパンマリ 乙支路(오복닭한마리 을지로)"
+    },
+    "text": "オボクダルパンマリ 乙支路\\n\nソウル特別市 中区 乙支路27キル 32-3\\n\nこの店はソウル特別市のチョンゲチョンに位置した韓国料理店です。澄んだスープに鶏肉1羽を煮込んだ料理をご用意しております。代表的なメニューは鶏肉カルグクスです。",
+    "QA": [
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "この店はソウル特別市中区乙支路27キル32-3に位置しています。"
+        },
+        {
+            "question": "この店の料理は何ですか？",
+            "answer": "この店では澄んだスープに鶏肉1羽を煮込んだ料理を提供しています。代表的なメニューは鶏肉カルグクスです。"
+        },
+        {
+            "question": "この店の名前は何ですか？",
+            "answer": "この店の名前はオボクダルパンマリ 乙支路です。"
+        },
+        {
+            "question": "この店はどのエリアに位置していますか？",
+            "answer": "この店はソウル特別市のチョンゲチョンに位置しています。"
+        },
+        {
+            "question": "この店の特徴は何ですか？",
+            "answer": "この店の特徴は鶏肉を使った澄んだスープにこだわった韓国料理を提供していることです。"
+        }
+    ],
+    "word_Count": {
+        "text": 88,
+        "QA": 177
+    }
+}

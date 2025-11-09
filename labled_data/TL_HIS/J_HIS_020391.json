@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_020391",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=444&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=00890000&ccbaCtcd=38&ccbaCpno=2113800890000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1974-02-16",
+        "domain": "문화/역사관광",
+        "title": "산청 덕천서원"
+    },
+    "text": "山清 トクチョン書院 (산청 덕천서원)\\n\n慶尚南道山清郡市川面元里\\n\n慶尚南道有形文化財 , 南明朝食(1501~1572)の学徳を称えるために彼が学問を磨いていたところに建てた書院だ。 朝鮮宣祖9年(1576)に建てられ、光海君元年(1608)にチャンとなり、国の公認と支援を受けた。 高宗(在位1863~1907)の時、興宣大院君の書院撤廃令で撤去されたが、1930年代に再建され今日に至っている。 今残っている建物としては祠堂、新聞、講堂、東斎と書斎、外三門などだ。 勉強する空間が前方にあり、祠堂が後方にある転校後墓の配置を成している。 今は書院の教育的機能はなくなり、祭祀の機能だけが残っている。",
+    "QA": [
+        {
+            "question": "この山清 トクチョン書院はいつ建てられましたか？",
+            "answer": "この書院は朝鮮宣祖9年(1576)に建てられました。"
+        },
+        {
+            "question": "この書院は誰によって建てられましたか？",
+            "answer": "この書院は南明朝食(1501~1572)の学徳を称えるために建てられました。"
+        },
+        {
+            "question": "この書院はどのような建物がありますか？",
+            "answer": "この書院には祠堂、新聞、講堂、東斎と書斎、外三門などの建物があります。"
+        },
+        {
+            "question": "書院の教育的機能は今も残っていますか？",
+            "answer": "いいえ、書院の教育的機能はなくなり、現在は祭祀の機能だけが残っています。"
+        }
+    ],
+    "word_Count": {
+        "text": 224,
+        "QA": 158
+    }
+}

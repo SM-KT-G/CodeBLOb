@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_059575",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42060&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "태안 호수와바다펜션(애견동반,독채)"
+    },
+    "text": "こんにちは。泰安(アンミョンド)湖と海のペンションです。 海釣り体験は有料で可能で、定規と船釣りが可能です。 ペンションからすぐ車で10分の距離に位置しています。 また、9月1日からはイイダコ釣りも可能ですので、多くの関心をお願いします。 そしてお知らせでは、22時以降に入室される場合は予めご連絡ください。",
+    "QA": [
+        {
+            "question": "泰安湖と海のペンションはどのようなアクティビティを提供していますか？",
+            "answer": "泰安湖と海のペンションでは、海釣り体験が有料で可能です。定規と船釣りが楽しめます。また、9月1日からはイイダコ釣りも可能です。"
+        },
+        {
+            "question": "泰安湖と海のペンションから海釣りの場所までの距離はどれくらいですか？",
+            "answer": "泰安湖と海のペンションから海釣りの場所までは車で10分ほどです。"
+        },
+        {
+            "question": "ペンションに宿泊する際、22時以降に入室する場合は何か注意事項はありますか？",
+            "answer": "ペンションに22時以降に入室する場合は、事前にご連絡いただくようお願いしています。"
+        }
+    ],
+    "word_Count": {
+        "text": 112,
+        "QA": 177
+    }
+}

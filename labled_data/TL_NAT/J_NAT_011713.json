@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_011713",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://apis.data.go.kr/1400000/service/cultureInfoService2/mntInfoOpenAPI2",
+        "collectedDate": "2023-11-22",
+        "publishedDate": "2020-12-01",
+        "domain": "자연관광",
+        "title": "성재산"
+    },
+    "text": "性財産 (성재산)\\n\n忠清北道清州市清原区北二面釜淵里\\n\n山の高さ : 256.5m , ソンジェ山登山路は、北二面土城里、釜淵里の3つの村を境にした登山路で、山は険しくなく平凡な村の登山路だ。 山頂から見れば南側には釜淵貯水池が見え、北側には広岩里石山開発地の毀損された部分が入ってくる。",
+    "QA": [
+        {
+            "question": "この山の名前は何ですか？",
+            "answer": "この山はソンジェ山と呼ばれています。"
+        },
+        {
+            "question": "この山の高さは何メートルですか？",
+            "answer": "この山の高さは256.5メートルです。"
+        },
+        {
+            "question": "この山にはどのような登山路がありますか？",
+            "answer": "この山には北二面土城里、釜淵里の3つの村を境にした登山路があります。"
+        },
+        {
+            "question": "山頂から見える景色はどんなものですか？",
+            "answer": "山頂からは南側に釜淵貯水池が見え、北側には広岩里石山開発地の毀損された部分が入ってきます。"
+        }
+    ],
+    "word_Count": {
+        "text": 107,
+        "QA": 134
+    }
+}

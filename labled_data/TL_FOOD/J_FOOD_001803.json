@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001803",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-02-18",
+        "domain": "음식점",
+        "title": "KITCHEN LAB カロスキル( 키친랩 가로수길 )"
+    },
+    "text": "KITCHEN LAB カロスキル( 키친랩 가로수길 )\\n\nソウル特別市 江南区 アブグジョンロ10ギル30-1\\n\nトレンドをリードするイタリアンカジュアルレストランです。ソウル特別市のガンナム区に位置した洋食専門店です。おすすめはステーキです。",
+    "QA": [
+        {
+            "question": "キッチンラボカロスキルはどこに位置していますか？",
+            "answer": "キッチンラボカロスキルはソウル特別市江南区に位置しています。具体的な住所は、アブグジョンロ10ギル30-1です。"
+        },
+        {
+            "question": "キッチンラボカロスキルの料理はどのような特徴がありますか？",
+            "answer": "キッチンラボカロスキルはイタリアンカジュアルレストランで、洋食専門店です。特におすすめはステーキです。"
+        },
+        {
+            "question": "キッチンラボカロスキルの雰囲気はどうですか？",
+            "answer": "キッチンラボカロスキルはトレンドをリードするレストランで、カジュアルな雰囲気を持っています。"
+        }
+    ],
+    "word_Count": {
+        "text": 92,
+        "QA": 167
+    }
+}

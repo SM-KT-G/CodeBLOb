@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_086658",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=586&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=03060000&ccbaCtcd=11&ccbaCpno=2111103060000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2010-06-17",
+        "domain": "문화/역사관광",
+        "title": "신축진연도병"
+    },
+    "text": "1901年、ソウル特別市有形文化財である8幅のジンヨンを描いた屏風には7月26日のウェジンヨン、27日のネジンヨン、同じ日の夜のヤジンヨン、29日のイクイルフェジャクなど四場面が描かれている。また、ジンヨンチョンものとナンチョンウィ左目が使われており、この屏風がジンヨンチョンで作ったものであることを示してくれる。11人の人物たちも屏風に記録されている。同屏風は1901年に制作された。1848年<武臣進餐も病気>から診察・ジンヨンも病気の最初の場面には濃いもが描かれるのが一般的だったが、この作品ではヨンヒャン場面で構成されていて異例のことだ。また、1901年7月のジンヨンに対する情報は<新築ジンヨンウィグェ>が残っていて考証できる。屏風の各場面は、大韓帝国期の変化を見せており、細かい細部描写、華やかな宮廷ヨンヒャンの雰囲気をよく伝達している。この作品は非常に重要な有形文化財として知られている。",
+    "QA": [
+        {
+            "question": "この屏風に描かれたジンヨンの場面は何月何日ですか？",
+            "answer": "7月26日のウェジンヨン、27日のネジンヨン、同じ日の夜のヤジンヨン、29日のイクイルフェジャクなどが描かれています。"
+        },
+        {
+            "question": "屏風に描かれているジンヨンチョンものとナンチョンウィ左目が使われている理由は何ですか？",
+            "answer": "ジンヨンチョンで作られたものであることを示しています。"
+        },
+        {
+            "question": "この屏風が作られた年はいつですか？",
+            "answer": "1901年に制作されました。"
+        },
+        {
+            "question": "ジンヨンチョンで作られた屏風に記録されている人物は何人ですか？",
+            "answer": "11人の人物が記録されています。"
+        },
+        {
+            "question": "ジンヨンも病気の最初の場面について、この作品が他と異なる点は何ですか？",
+            "answer": "ヨンヒャン場面で構成されていて異例のことです。"
+        }
+    ],
+    "word_Count": {
+        "text": 294,
+        "QA": 212
+    }
+}

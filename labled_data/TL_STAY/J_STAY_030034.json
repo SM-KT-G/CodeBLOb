@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_030034",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42010&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "파주 마린펜션"
+    },
+    "text": "美しい自然が共にするマリンペンションへようこそお越しくださいました。 直川貯水池が一望できるペンションで、良い景色を楽しみながら、家族や友達、恋人が美しい思い出を作ってください。 単独バーベキューが可能で、すべり台プールをご利用いただけます。 マリンペンションをご利用の間、楽しい旅行になりますように。",
+    "QA": [
+        {
+            "question": "マリンペンションからの眺めはどのようなですか？",
+            "answer": "マリンペンションからは直川貯水池が一望できます。美しい景色を楽しむことができますよ。"
+        },
+        {
+            "question": "バーベキューはできますか？",
+            "answer": "はい、単独でバーベキューを楽しむことができます。"
+        },
+        {
+            "question": "プールはありますか？",
+            "answer": "はい、すべり台プールがご利用いただけます。涼しく楽しい時間を過ごせますよ。"
+        },
+        {
+            "question": "どんな思い出を作ることができますか？",
+            "answer": "マリンペンションでは家族や友達、恋人と一緒に美しい思い出を作ることができます。自然に囲まれながらリラックスした時間を過ごせますよ。"
+        }
+    ],
+    "word_Count": {
+        "text": 110,
+        "QA": 170
+    }
+}

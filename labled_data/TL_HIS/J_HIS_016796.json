@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_016796",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2017-03-01",
+        "domain": "문화/역사관광",
+        "title": "聞慶陶芸村（문경도예촌）"
+    },
+    "text": "聞慶陶芸村\n慶尚南道 聞慶市 聞慶邑 一帯\n聞慶の陶磁器の生産は朝鮮時代初期から始まり、現在約10ヶ所の陶芸窯があります。ここでは青華白磁、粉青沙器、白磁、茶器セット、高麗茶碗などが伝統的な方式で生産されています。 ",
+    "QA": [
+        {
+            "question": "聞慶陶芸村はいつから陶磁器の生産を始めましたか？",
+            "answer": "聞慶陶芸村の陶磁器の生産は朝鮮時代初期から始まりました。"
+        },
+        {
+            "question": "聞慶陶芸村ではどのような陶磁器が生産されていますか？",
+            "answer": "聞慶陶芸村では青華白磁、粉青沙器、白磁、茶器セット、高麗茶碗などが伝統的な方式で生産されています。"
+        },
+        {
+            "question": "聞慶陶芸村には何ヶ所の陶芸窯がありますか？",
+            "answer": "聞慶陶芸村には約10ヶ所の陶芸窯があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 79,
+        "QA": 124
+    }
+}

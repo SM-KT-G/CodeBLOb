@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_104670",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-01",
+        "domain": "음식점",
+        "title": "港湾刺身ガーデン ( 항만회가든 )"
+    },
+    "text": "港湾刺身ガーデン \n京畿道 平沢市 浦升邑 西東大路 497\n5種類の果物を使ったソースで作ったムルフェ(刺身の冷たいスープ)を味わえる店です。京畿道のピョンテク市に位置した韓食専門店です。おすすめはワタリガニのカンジャンケジャンです。",
+    "QA": [
+        {
+            "question": "港湾刺身ガーデンはどこに位置していますか？",
+            "answer": "港湾刺身ガーデンは京畿道平沢市浦升邑西東大路497に位置しています。"
+        },
+        {
+            "question": "港湾刺身ガーデンで味わえる料理は何ですか？",
+            "answer": "港湾刺身ガーデンでは、5種類の果物を使ったソースで作ったムルフェ(刺身の冷たいスープ)や、ワタリガニのカンジャンケジャンなどがおすすめです。"
+        },
+        {
+            "question": "港湾刺身ガーデンのおすすめ料理は何ですか？",
+            "answer": "港湾刺身ガーデンのおすすめ料理はワタリガニのカンジャンケジャンです。"
+        }
+    ],
+    "word_Count": {
+        "text": 86,
+        "QA": 147
+    }
+}

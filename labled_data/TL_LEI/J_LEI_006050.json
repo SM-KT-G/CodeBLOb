@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_LEI_006050",
+        "source": "도서",
+        "writer": "엄지영, 강세종",
+        "ISBN_ISNN": "978-89-5605-946-4",
+        "version": "초판",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "올 어바웃 플라워숍(All about Flower Shop)",
+        "collectedDate": "2023-11-10",
+        "publishedDate": "2018-01-30",
+        "domain": "레포츠",
+        "title": "우덕"
+    },
+    "text": "OH、WEE flower studioは、江南医療機関の2階に位置する花屋です。 私たちはさまざまな商品を提供しています。 また、授業も行います。 ワンデークラスやフローリスト対比クラス、創業および花卉装飾技能士対比クラス、そしてプラント課程を提供します。",
+    "QA": [
+        {
+            "question": "OH、WEE flower studioはどこに位置していますか？",
+            "answer": "OH、WEE flower studioは江南医療機関の2階に位置しています。"
+        },
+        {
+            "question": "OH、WEE flower studioはどのような商品を提供していますか？",
+            "answer": "OH、WEE flower studioはさまざまな商品を提供しています。"
+        },
+        {
+            "question": "OH、WEE flower studioは何種類の授業を提供していますか？",
+            "answer": "OH、WEE flower studioはワンデークラス、フローリスト対比クラス、創業および花卉装飾技能士対比クラス、プラント課程を提供しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 94,
+        "QA": 189
+    }
+}

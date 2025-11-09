@@ -1,0 +1,51 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_030076",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42050&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "풍남관광호텔 운영 정책"
+    },
+    "text": "チェックインは15時以降可能で、チェックアウトは12時以前にお願いします。 無料駐車と無料Wi-Fiを提供します。 24時間フロントデスクや手荷物預かりサービス、ビジネスセンター、有料宴会場、有料セミナー室もご利用いただけます。 追加費用は当日現地にてお支払いいただく必要があります。 入室のご利用案内です。",
+    "QA": [
+        {
+            "question": "チェックインとチェックアウトの時間は何時ですか？",
+            "answer": "チェックインは15時以降可能で、チェックアウトは12時以前にお願いします。"
+        },
+        {
+            "question": "無料の駐車場とWi-Fiがありますか？",
+            "answer": "はい、無料の駐車場と無料のWi-Fiを提供しています。"
+        },
+        {
+            "question": "24時間フロントデスクはありますか？",
+            "answer": "はい、24時間フロントデスクをご利用いただけます。"
+        },
+        {
+            "question": "手荷物の預かりサービスはありますか？",
+            "answer": "はい、手荷物預かりサービスをご利用いただけます。"
+        },
+        {
+            "question": "ビジネスセンターや宴会場はありますか？",
+            "answer": "はい、ビジネスセンターと有料宴会場をご利用いただけます。"
+        },
+        {
+            "question": "追加費用はどのように支払えばよいですか？",
+            "answer": "追加費用は、当日現地にてお支払いいただく必要があります。"
+        },
+        {
+            "question": "入室に関する案内を教えてください。",
+            "answer": "チェックインのご案内です。"
+        }
+    ],
+    "word_Count": {
+        "text": 112,
+        "QA": 232
+    }
+}

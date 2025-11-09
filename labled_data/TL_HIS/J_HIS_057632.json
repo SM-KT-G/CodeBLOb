@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_057632",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=741&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=22&ccbaAsno=00340000&ccbaCtcd=36&ccbaCpno=2223600340000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "남도잡가"
+    },
+    "text": "全羅南道は無形文化財を保有している所で、雑歌という上層文化圏の伝統歌謡の歌曲と始祖とは他の雑と定義される。雑歌はギョンキチェとともに高麗時代の歌謡のうち一部分であり、朝鮮後期に専門的な歌い手たちによって創出された。もともと雑歌は朝鮮末期に形成されて繁昌したが、1830年前後に西洋風の歌の影響に押し出された。南道雑歌はごらん、草花の交差点、陸自の、自ら陸自の、興打令(チョナンフンタリョン)、カエルの話、鳥)タリョン、ソンジュプルイなどの曲で構成されている。南道雑歌は朝鮮王朝の文学的に重要なジャンルとして現在と過去をつなぐ役割もする。",
+    "QA": [
+        {
+            "question": "全羅南道はどのような無形文化財を保有していますか？",
+            "answer": "全羅南道は雑歌という上層文化圏の伝統歌謡の歌曲と始祖を保有しています。"
+        },
+        {
+            "question": "雑歌はどのような特徴を持っていますか？",
+            "answer": "雑歌は朝鮮後期に専門的な歌い手たちによって創出され、朝鮮王朝の文学的に重要なジャンルとして現在と過去をつなぐ役割を果たしています。"
+        },
+        {
+            "question": "南道雑歌にはどのような曲がありますか？",
+            "answer": "南道雑歌には「ごらん」「草花の交差点」「陸自の」「自ら陸自の」「興打令(チョナンフンタリョン)」「カエルの話」「鳥(タリョン)」「ソンジュプルイ」などの曲があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 196,
+        "QA": 180
+    }
+}

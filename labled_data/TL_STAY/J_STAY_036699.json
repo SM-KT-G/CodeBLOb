@@ -1,0 +1,59 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_036699",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://kr.hotels.com/ho2292626688/yongin-bellino-s-yong-in-hangug/?chkin=2023-11-14&chkout=2023-11-15&x_pwa=1&rfrr=HSR&pwa_ts=1699004558396&referrerUrl=aHR0cHM6Ly9rci5ob3RlbHMuY29tL0hvdGVsLVNlYXJjaA%3D%3D&useRewards=false&rm1=a2&regionId=6141672&destination=%EC%95%84%EC%82%B0%2C+%EC%B6%A9%EC%B2%AD%EB%82%A8%EB%8F%84%2C+%ED%95%9C%EA%B5%AD&destType=MARKET&latLong=36.808583%2C126.978247&sort=RECOMMENDED&top_dp=45455&top_cur=KRW&userIntent=&selectedRoomType=315645366&selectedRatePlan=385228528&expediaPropertyId=71613334&searchId=3e9cabca-33ae-400d-86cc-d422f3a4c1d2",
+        "collectedDate": "2023-11-15",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "용인 벨리노 S"
+    },
+    "text": "龍仁ベリーノS\\n\n大韓民国 Gyeonggi Yongin 京畿道龍仁市器興区龍口大路 2361\\n\n龍仁ベリーノ・エスは、車で15 分圏内にエバーランドがあり、家族旅行に最適なロケーションに位置しています。このモーテルは全31室の客室を保有しており、チェックインは23:00から可能です。チェックアウトは13:00までです。COVID-19に関する制限事項をご確認ください。宿泊施設に事前に連絡し、チェックインのご案内をお受けください。チェックインの際、クレジットカード、デビットカード、または現金デポジットが必要な場合があり、政府発行の写真付き身分証明書が必要な場合があります。ペットの同伴は不可、共用エリアと客室内では無料WiFiを提供しています。 また、施設内にはセルフパーキングがあります。指定された喫煙エリアもございます。",
+    "QA": [
+        {
+            "question": "このモーテルはどのようなロケーションに位置していますか？",
+            "answer": "龍仁ベリーノ・エスは、家族旅行に最適な場所であり、車で15分圏内にエバーランドがあります。"
+        },
+        {
+            "question": "このモーテルには何部屋の客室がありますか？",
+            "answer": "このモーテルには全31室の客室があります。"
+        },
+        {
+            "question": "チェックインとチェックアウトの時間は何時ですか？",
+            "answer": "チェックインは23:00から可能であり、チェックアウトは13:00までです。"
+        },
+        {
+            "question": "COVID-19に関する制限事項はありますか？",
+            "answer": "COVID-19に関する制限事項については、宿泊施設に事前に連絡し、チェックインのご案内を受ける必要があります。"
+        },
+        {
+            "question": "チェックインの際に必要なものはありますか？",
+            "answer": "チェックインの際には、クレジットカード、デビットカード、または現金デポジットが必要であり、政府発行の写真付き身分証明書が必要となる場合があります。"
+        },
+        {
+            "question": "ペットを連れて宿泊することはできますか？",
+            "answer": "申し訳ありませんが、ペットの同伴は不可です。"
+        },
+        {
+            "question": "モーテル内で利用できるWiFiの情報を教えてください。",
+            "answer": "モーテルの共用エリアと客室内では無料のWiFiが利用できます。"
+        },
+        {
+            "question": "駐車場はありますか？",
+            "answer": "はい、モーテルにはセルフパーキングがあります。"
+        },
+        {
+            "question": "喫煙エリアはありますか？",
+            "answer": "モーテル内には指定された喫煙エリアがあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 269,
+        "QA": 379
+    }
+}

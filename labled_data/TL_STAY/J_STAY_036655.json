@@ -1,0 +1,59 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_036655",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://kr.hotels.com/ho2292630592/jongno-city-days-inn-hotel-seoul-hangug/?chkin=2023-11-14&chkout=2023-11-15&x_pwa=1&rfrr=HSR&pwa_ts=1698836439526&referrerUrl=aHR0cHM6Ly9rci5ob3RlbHMuY29tL0hvdGVsLVNlYXJjaA%3D%3D&useRewards=false&rm1=a2&regionId=6159319&destination=%EC%9D%98%EC%A0%95%EB%B6%80%2C+%EA%B2%BD%EA%B8%B0%2C+%ED%95%9C%EA%B5%AD&destType=MARKET&neighborhoodId=553248635976381172&latLong=37.736412%2C127.068388&sort=RECOMMENDED&top_dp=63636&top_cur=KRW&userIntent=&selectedRoomType=316295923&selectedRatePlan=385778469&expediaPropertyId=71613456&searchId=26666e80-3e5c-4f3a-b874-c571228c1964",
+        "collectedDate": "2023-11-15",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "종로 시티데이즈 인 호텔"
+    },
+    "text": "鐘路シティデイズインホテル\\n\n大韓民国ソウル特別市Seoulソウル特別市鍾路区鍾路48キル12(昌信洞)\\n\n鍾路シティデイズインホテルは、東大門歴史文化公園と明洞通りに車で5分の距離に位置しています。 また、光化門と南大門市場も車で5分の距離にあります。東大門駅から徒歩4分、トンミョン駅からは6分と公共交通機関を利用するのに便利な立地です。チェックアウト時間は12:00です。COVID-19による旅行制限事項をご確認ください。チェックインの際、クレジットカード、デビットカード、現金デポジットが必要で、政府発行の身分証明書が必要な場合があります。ペットの同伴は不可、公共エリアでは無料WiFiを提供しており、客室内でも無料WiFiを利用できます。 また、施設内には無料のセルフパーキングがあり、指定された喫煙エリアがあります。",
+    "QA": [
+        {
+            "question": "ホテルの場所はどこにありますか？",
+            "answer": "鍾路シティデイズインホテルは大韓民国ソウル特別市鍾路区鍾路48キル12に位置しています（昌信洞）。"
+        },
+        {
+            "question": "ホテルから観光スポットまでの距離はどれくらいですか？",
+            "answer": "東大門歴史文化公園と明洞通りまでは車で5分の距離です。光化門と南大門市場も車で5分の距離にあります。"
+        },
+        {
+            "question": "公共交通機関は利用しやすいですか？",
+            "answer": "はい、東大門駅から徒歩4分、トンミョン駅からは6分と公共交通機関を利用するのに便利な立地です。"
+        },
+        {
+            "question": "チェックアウトの時間は何時ですか？",
+            "answer": "チェックアウトの時間は12:00です。"
+        },
+        {
+            "question": "チェックインの際、必要なものはありますか？",
+            "answer": "チェックインの際には、クレジットカード、デビットカード、現金デポジットが必要で、政府発行の身分証明書が必要な場合があります。"
+        },
+        {
+            "question": "ペットの同伴は可能ですか？",
+            "answer": "申し訳ありませんが、ペットの同伴は不可です。"
+        },
+        {
+            "question": "ホテル内でWiFiは利用できますか？",
+            "answer": "はい、公共エリアでは無料WiFiを提供しており、客室内でも無料WiFiを利用できます。"
+        },
+        {
+            "question": "駐車場はありますか？",
+            "answer": "はい、施設内には無料のセルフパーキングがあります。"
+        },
+        {
+            "question": "喫煙は可能ですか？",
+            "answer": "はい、指定された喫煙エリアがあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 269,
+        "QA": 354
+    }
+}

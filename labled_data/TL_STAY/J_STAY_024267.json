@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_024267",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42020&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "거제도 칠천도풍차펜션"
+    },
+    "text": "新築、一軒家ペンション、漆川島の涼しい海の風景、美しい巨済の海と夕日、七千両海戦の遺跡、水遊び施設、釣り、広いプール、幼児用プール、1階A型と2階B型、同日A型とB型にそれぞれ異なる予約は受け付けていない。一日に一つの予約のみ受け付ける。 お知らせ:22時以降入室の際は予めご連絡ください。",
+    "QA": [
+        {
+            "question": "ペンションの場所はどこですか？",
+            "answer": "私たちのペンションは漆川島にあります。涼しい海の風景と美しい巨済の海と夕日が楽しめます。"
+        },
+        {
+            "question": "ペンションにはどのような施設がありますか？",
+            "answer": "ペンションには水遊び施設や釣りが楽しめる場所、広いプールや幼児用プールなどがあります。また、1階にA型のお部屋、2階にB型のお部屋があります。同日にA型とB型に異なる予約は受け付けていません。"
+        },
+        {
+            "question": "予約について教えてください。",
+            "answer": "当ペンションでは、一日に一つの予約のみ受け付けています。22時以降の入室の際は事前にご連絡ください。"
+        },
+        {
+            "question": "近くに何か観光スポットはありますか？",
+            "answer": "近くには七千両海戦の遺跡があります。歴史的な場所であり、訪れる価値があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 106,
+        "QA": 217
+    }
+}

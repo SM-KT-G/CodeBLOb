@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_021437",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-08-27",
+        "domain": "음식점",
+        "title": "夫婦食堂 ( 부부식당 )"
+    },
+    "text": "夫婦食堂 ( 부부식당 )\\n\nソウル特別市 鐘路区 トンスンギル43\\n\n可愛らしい雰囲気でフュージョン料理が味わえます。ソウル特別市のチョンノ区に位置した韓食専門店です。代表的なメニューは宮中トッポッキです。",
+    "QA": [
+        {
+            "question": "このレストランの名前は何ですか？",
+            "answer": "夫婦食堂 ( 부부식당 ) という名前です。"
+        },
+        {
+            "question": "このレストランはどこにありますか？",
+            "answer": "ソウル特別市の鐘路区トンスンギル43にあります。"
+        },
+        {
+            "question": "このレストランではどのような料理が楽しめますか？",
+            "answer": "こちらのレストランではフュージョン料理が楽しめます。"
+        },
+        {
+            "question": "特におすすめのメニューはありますか？",
+            "answer": "代表的なメニューは宮中トッポッキです。"
+        }
+    ],
+    "word_Count": {
+        "text": 77,
+        "QA": 121
+    }
+}

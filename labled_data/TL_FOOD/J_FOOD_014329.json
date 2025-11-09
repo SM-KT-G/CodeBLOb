@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_014329",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "ムジュム手打ち麺 ( 무주무손국수 )"
+    },
+    "text": "ムジュム手打ち麺 ( 무주무손국수 )\n慶尚北道 アンドン市 ムジュム4ギル29-10\n手頃な値段で麺が味わえる店です。 慶尚北道のアンドン市に位置した韓食専門店です。おすすめはそば粉こんにゃくご飯です。",
+    "QA": [
+        {
+            "question": "この店の名前は何ですか？",
+            "answer": "ムジュム手打ち麺（무주무손국수）"
+        },
+        {
+            "question": "この店はどこにありますか？",
+            "answer": "慶尚北道のアンドン市に位置しています。"
+        },
+        {
+            "question": "この店のおすすめメニューは何ですか？",
+            "answer": "そば粉こんにゃくご飯がおすすめです。"
+        },
+        {
+            "question": "この店の特徴は何ですか？",
+            "answer": "手頃な値段で麺が味わえる店です。"
+        }
+    ],
+    "word_Count": {
+        "text": 74,
+        "QA": 90
+    }
+}

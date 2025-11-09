@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001476",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-01",
+        "domain": "음식점",
+        "title": "BLACKUP COFFEE ( 블랙업커피 )"
+    },
+    "text": "BLACKUP COFFEE ( 블랙업커피 )\n釜山広域市 釜山鎮区 西田路10ボンキル 41\n釜山市民だけでなく、観光客も訪れる店です。釜山広域市のブサンジン区に位置したカフェ（コーヒーショップ）です。おすすめはハンドドリップコーヒーです。",
+    "QA": [
+        {
+            "question": "ブラックアップコーヒーはどこに位置していますか？",
+            "answer": "ブラックアップコーヒーは釜山広域市のブサンジン区に位置しています。"
+        },
+        {
+            "question": "ブラックアップコーヒーのおすすめは何ですか？",
+            "answer": "ブラックアップコーヒーのおすすめはハンドドリップコーヒーです。"
+        },
+        {
+            "question": "ブラックアップコーヒーには誰が訪れますか？",
+            "answer": "ブラックアップコーヒーには釜山市民だけでなく、観光客も訪れます。"
+        }
+    ],
+    "word_Count": {
+        "text": 89,
+        "QA": 119
+    }
+}

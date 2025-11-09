@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_012671",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "フェヤングァグクスグン（회양과국수군）"
+    },
+    "text": "フェヤングァグクスグン（회양과국수군）\\n\n済州特別自治道 済州市 牛島面 牛島海岸キル270\\n\n済州特別自治道のジェジュ市に位置した海鮮専門店です。おすすめは海鮮鍋です。社長が毎日海で海産物を採ってきます。",
+    "QA": [
+        {
+            "question": "フェヤングァグクスグンはどこに位置していますか？",
+            "answer": "フェヤングァグクスグンは済州特別自治道のジェジュ市に位置しています。"
+        },
+        {
+            "question": "フェヤングァグクスグンでおすすめのメニューは何ですか？",
+            "answer": "フェヤングァグクスグンでおすすめのメニューは海鮮鍋です。"
+        },
+        {
+            "question": "どうやってフェヤングァグクスグンの海産物を調達しているのですか？",
+            "answer": "フェヤングァグクスグンの社長は毎日海で海産物を採ってきます。"
+        }
+    ],
+    "word_Count": {
+        "text": 77,
+        "QA": 128
+    }
+}

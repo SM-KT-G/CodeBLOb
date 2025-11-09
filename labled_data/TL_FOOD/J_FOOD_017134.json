@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_017134",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2023-02-16",
+        "domain": "음식점",
+        "title": "민쿡앞바당"
+    },
+    "text": "高陽市の花井、元堂、元興、三松の近くの聖沙洞に位置しています。旬の魚とおかずで作られた旬の魚料理専門店であります。駐車場も便利で広く、快適な店舗です。",
+    "QA": [
+        {
+            "question": "この店舗はどこに位置していますか？",
+            "answer": "この店舗は高陽市の聖沙洞に位置しています。"
+        },
+        {
+            "question": "この店舗はどのような特徴がありますか？",
+            "answer": "この店舗は旬の魚とおかずで作られた旬の魚料理専門店であり、広くて快適な店舗です。"
+        },
+        {
+            "question": "この店舗の駐車場はありますか？",
+            "answer": "はい、この店舗には便利で広い駐車場があります。"
+        },
+        {
+            "question": "この店舗で提供される料理は何ですか？",
+            "answer": "この店舗では旬の魚料理が提供されます。"
+        }
+    ],
+    "word_Count": {
+        "text": 55,
+        "QA": 126
+    }
+}

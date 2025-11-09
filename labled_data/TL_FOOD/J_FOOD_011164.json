@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_011164",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-05",
+        "domain": "음식점",
+        "title": "ヌルカメ ( 느루카메 )"
+    },
+    "text": "ヌルカメ ( 느루카메 )\\n\n江原道 原州市 ウンビ3ギル26\\n\nすべてのうどんメニューが7,000ウォンです。代表的なメニューはうどんです。江原道のウォンジュ市に位置した和食専門店です。",
+    "QA": [
+        {
+            "question": "この和食専門店の場所はどこですか？",
+            "answer": "この和食専門店は江原道原州市ウンビ3ギル26に位置しています。"
+        },
+        {
+            "question": "この和食専門店のメニューは何ですか？",
+            "answer": "この和食専門店の代表的なメニューはうどんです。すべてのうどんメニューが7,000ウォンです。"
+        },
+        {
+            "question": "この和食専門店の価格はどのくらいですか？",
+            "answer": "この和食専門店のすべてのうどんメニューは7,000ウォンです。"
+        },
+        {
+            "question": "この和食専門店はどの市に位置していますか？",
+            "answer": "この和食専門店は江原道のウォンジュ市に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 70,
+        "QA": 154
+    }
+}

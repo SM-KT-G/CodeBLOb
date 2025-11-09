@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_002202",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-12-27",
+        "domain": "문화/역사관광",
+        "title": "クァンナル漢江公園（광나루한강공원）"
+    },
+    "text": "クァンナル漢江公園\nソウル特別市 江東区 先史路83-66\n蚕室、トゥクソム、蚕院など、全部で12の地区で構成された漢江市民公園は、さまざまなスポーツ施設や生態公園があり、年間で4千万人以上の人が訪れます。",
+    "QA": [
+        {
+            "question": "漢江市民公園はどのように構成されていますか？",
+            "answer": "漢江市民公園は、蚕室、トゥクソム、蚕院など、全部で12の地区で構成されています。"
+        },
+        {
+            "question": "漢江市民公園には何がありますか？",
+            "answer": "漢江市民公園には、さまざまなスポーツ施設や生態公園があります。"
+        },
+        {
+            "question": "漢江市民公園は年間でどれくらいの人が訪れますか？",
+            "answer": "漢江市民公園は年間で4千万人以上の人が訪れます。"
+        }
+    ],
+    "word_Count": {
+        "text": 75,
+        "QA": 115
+    }
+}

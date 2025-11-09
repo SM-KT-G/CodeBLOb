@@ -1,0 +1,51 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_030389",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.goodchoice.kr/product/detail?ano=66628&adcno=1&sel_date=2023-11-07&sel_date2=2023-11-08",
+        "collectedDate": "2023-11-15",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "나주 호텔 뷰"
+    },
+    "text": "周辺情報:羅州市外バスターミナルまで8.5km車4分、羅州市庁まで7.5km車4分、羅州駅まで7.3km車4分、東信大学まで車7分、ピッカラム湖公園まで8km 車6分 客室内部施設:ホテルビューの自慢の広々としたベッドサイズ！ 2000-3000完備、全室空気循環システムの完備、全室簡単朝食付きです。 Netflix可能(個人ログイン)。",
+    "QA": [
+        {
+            "question": "羅州市外バスターミナルまでの距離は何キロですか？",
+            "answer": "羅州市外バスターミナルまで8.5kmです。"
+        },
+        {
+            "question": "羅州市庁までの距離は何キロですか？",
+            "answer": "羅州市庁まで7.5kmです。"
+        },
+        {
+            "question": "羅州駅までの距離は何キロですか？",
+            "answer": "羅州駅まで7.3kmです。"
+        },
+        {
+            "question": "東信大学までの距離は何キロですか？",
+            "answer": "東信大学まで車で7分です。"
+        },
+        {
+            "question": "ピッカラム湖公園までの距離は何キロですか？",
+            "answer": "ピッカラム湖公園まで車で8kmです。"
+        },
+        {
+            "question": "客室内にはどのような施設がありますか？",
+            "answer": "ホテルビューの自慢の広々としたベッドサイズと2000-3000完備、全室空気循環システムの完備、全室簡単朝食付きです。"
+        },
+        {
+            "question": "Netflixは利用できますか？",
+            "answer": "はい、Netflixは利用可能です。個人ログインが必要です。"
+        }
+    ],
+    "word_Count": {
+        "text": 124,
+        "QA": 218
+    }
+}

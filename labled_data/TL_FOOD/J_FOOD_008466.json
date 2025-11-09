@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_008466",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "ソウルカムジャタン ( 서울감자탕 )"
+    },
+    "text": "ソウルカムジャタン ( 서울감자탕 )\n京畿道 ピョンテク市 ビジョン6ギル2\n熟成したキムチと濃厚なスープで作ったカムジャタンが味わえる店です。京畿道のピョンテク市に位置した韓食専門店です。おすすめはカムジャタンです。",
+    "QA": [
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "ソウルカムジャタンは京畿道のピョンテク市にあります。ビジョン6ギル2に位置しています。"
+        },
+        {
+            "question": "この店のおすすめメニューは何ですか？",
+            "answer": "おすすめは熟成したキムチと濃厚なスープで作ったカムジャタンです。"
+        },
+        {
+            "question": "カムジャタン以外に何の料理がありますか？",
+            "answer": "ソウルカムジャタンでは、カムジャタン以外にも様々な韓国料理を提供しています。"
+        },
+        {
+            "question": "この店の営業時間は何時から何時までですか？",
+            "answer": "営業時間は〇〇時から〇〇時までです。"
+        },
+        {
+            "question": "予約は必要ですか？",
+            "answer": "予約は必要ですか？"
+        }
+    ],
+    "word_Count": {
+        "text": 80,
+        "QA": 162
+    }
+}

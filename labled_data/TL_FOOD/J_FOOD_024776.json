@@ -1,0 +1,31 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_024776",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-19",
+        "domain": "음식점",
+        "title": "温達トッポッキ 堂山1号( 온달떡볶이 당산1호 )"
+    },
+    "text": "温達トッポッキ 堂山1号\\n\nソウル特別市 ヨンドゥンポ区 グクフェデロ37ギル17\\n\nトッポッキは、韓国人に人気の辛い料理です。ソウル特別市のヨンドゥンポ区に位置したトッポッキ専門店です。代表的なメニューはトッポッキです。",
+    "QA": [
+        {
+            "question": "このトッポッキ専門店の場所はどこですか？",
+            "answer": "温達トッポッキ 堂山1号はソウル特別市のヨンドゥンポ区に位置しています。具体的な住所はグクフェデロ37ギル17です。"
+        },
+        {
+            "question": "トッポッキはどのような料理ですか？",
+            "answer": "トッポッキは辛い料理で、韓国人に人気があります。代表的なメニューはトッポッキです。"
+        }
+    ],
+    "word_Count": {
+        "text": 82,
+        "QA": 99
+    }
+}

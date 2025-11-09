@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_011050",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "ナニアレストラン（나니아레스토랑）"
+    },
+    "text": "ナニアレストラン（나니아레스토랑）\\n\n済州特別自治道 西帰浦市 猊来路396ボンキル 13-33\\n\n済州特別自治道のソグィポ市に位置した洋食です。トリップアドバイザーで訪問1位のレストランです。代表的なメニューはカルパッチョです。",
+    "QA": [
+        {
+            "question": "ナニアレストランはどこにありますか？",
+            "answer": "ナニアレストランは済州特別自治道の西帰浦市に位置しています。"
+        },
+        {
+            "question": "ナニアレストランの代表的なメニューは何ですか？",
+            "answer": "ナニアレストランの代表的なメニューはカルパッチョです。"
+        },
+        {
+            "question": "ナニアレストランはトリップアドバイザーで何位ですか？",
+            "answer": "ナニアレストランはトリップアドバイザーで訪問1位のレストランです。"
+        }
+    ],
+    "word_Count": {
+        "text": 85,
+        "QA": 115
+    }
+}

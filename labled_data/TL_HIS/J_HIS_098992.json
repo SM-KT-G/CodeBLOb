@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_098992",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=408&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=00430000&ccbaCtcd=36&ccbaCpno=2113600430000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1974-09-24",
+        "domain": "문화/역사관광",
+        "title": "장성 백양사 대웅전"
+    },
+    "text": "長城白羊寺大雄殿\\n\n全羅南道長城郡北下面白楊路1239(薬水里)\\n\n1917年、全羅南道有形文化財、白羊寺は百済の武王33年(632)にヨフヮンが初めて建てた後、数回の工事と名称の変更があった寺院である。今の白羊寺という名前を持つようになったのは、朝鮮宣祖7年(1574)フヮンヤンが建て直した以後からだ。フヮンヤンが白羊寺にいながら毎日『法華経』を読む時白な量が経を読む声を聞いて集まっていることが多くなると、寺の名を白羊寺と改めたという。大雄殿は1917年寺が再び建てられたら一緒に建てたもので、中には釈迦如来三尊仏上と10隻の高さの仏像、竜頭観音幀画が祀られている。また、右側には針の穴を通す姿、背中を掻いている姿など滑稽な姿をしている羅漢の絵16点がある。前面5間・側面3間規模のビルで、屋根側面が八(八部)字形の入母屋屋根の家であり、規模が大きかった仏殿に属する。2段の長い石で築いた気団のうちで階段を置いた。白羊寺大雄殿は日帝時代初期に建てられた建物で、朝鮮後期の華やかなダポ様式から後退した姿を見ることができる。",
+    "QA": [
+        {
+            "question": "白羊寺は何年に建てられましたか？",
+            "answer": "白羊寺は百済の武王33年(632)に建てられました。"
+        },
+        {
+            "question": "誰が白羊寺にいながら毎日『法華経』を読むことから、寺の名を白羊寺と改めたと言われていますか？",
+            "answer": "フヮンヤンが白羊寺にいながら毎日『法華経』を読むことから、寺の名を白羊寺と改めたと言われています。"
+        },
+        {
+            "question": "白羊寺大雄殿には何が祀られていますか？",
+            "answer": "白羊寺大雄殿には釈迦如来三尊仏上と10隻の高さの仏像、竜頭観音幀画が祀られています。"
+        },
+        {
+            "question": "白羊寺大雄殿は何時代に建てられましたか？",
+            "answer": "白羊寺大雄殿は日帝時代初期に建てられました。"
+        }
+    ],
+    "word_Count": {
+        "text": 341,
+        "QA": 176
+    }
+}

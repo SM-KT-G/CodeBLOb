@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_029491",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.goodchoice.kr/product/detail?ano=3115&adcno=1&sel_date=2023-11-07&sel_date2=2023-11-08",
+        "collectedDate": "2023-11-15",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "사상 센스"
+    },
+    "text": "1. 駐車場情報:駐車場が狭いため、公共交通機関をご利用ください。 駐車施設を保有している3.地下鉄情報:2号線沙上駅、釜山金海軽電鉄線沙上駅4.周辺情報:地下鉄沙上駅2番出口、軽電鉄沙上駅番出口から徒歩50mの距離。",
+    "QA": [
+        {
+            "question": "駐車場情報はありますか？",
+            "answer": "駐車場が狭いため、公共交通機関をご利用ください。"
+        },
+        {
+            "question": "どの地下鉄駅が最寄りですか？",
+            "answer": "最寄りの地下鉄駅は2号線沙上駅と釜山金海軽電鉄線沙上駅です。"
+        },
+        {
+            "question": "地下鉄駅からの距離はどのくらいですか？",
+            "answer": "地下鉄沙上駅2番出口、軽電鉄沙上駅番出口から徒歩50mの距離です。"
+        }
+    ],
+    "word_Count": {
+        "text": 79,
+        "QA": 96
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_070425",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=154&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=13900000&ccbaCtcd=11&ccbaCpno=1121113900000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2003-12-30",
+        "domain": "문화/역사관광",
+        "title": "백자 청화동정추월문 항아리"
+    },
+    "text": "朝鮮時代(18世紀)には表面に発色が良い青和顔料で山水画を描いた白磁の壷が製作されました。この壺は、杵のようにできて'杵病気'と呼ばれたりもしました。この病気は花瓶として使われており、絵は一面には絶壁の上に建てられた楼閣や旗、そして遠くサムサンボンが見える江村の風景を描きました。このような山水画は、京畿道広州分院で制作されており、絵の筆力と構図は突出して宮中所属の図画署画員が描いたものと推定されます。この作品は青い光がこもった清らかで透明な白磁釉にかけられており、これは18世紀後半頃に作られた白磁の特徴です。また、この壺はかかとの底の内側を丸く掘り出して作ったアングプで接地面の幅が狭くけずりかたが断定します。作品全体的に涼しくて優れた絵の実力が引き立って見えます。",
+    "QA": [
+        {
+            "question": "この壺はいつ製作されましたか？",
+            "answer": "この壺は18世紀の朝鮮時代に製作されました。"
+        },
+        {
+            "question": "この壺はどのような絵が描かれていますか？",
+            "answer": "この壺には絶壁の上に建てられた楼閣や旗、そして遠くサムサンボンが見える江村の風景が描かれています。"
+        },
+        {
+            "question": "この壺の制作場所はどこですか？",
+            "answer": "この壺は京畿道広州分院で制作されました。"
+        },
+        {
+            "question": "この壺の特徴は何ですか？",
+            "answer": "この壺は青い光がこもった清らかで透明な白磁釉が特徴です。また、かかとの底の内側を丸く掘り出して作ったアングプも特徴です。"
+        },
+        {
+            "question": "この壺の絵の実力はどのように評価されていますか？",
+            "answer": "この壺の絵の実力は非常に優れており、宮中所属の図画署画員が描いたものと推定されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 246,
+        "QA": 206
+    }
+}

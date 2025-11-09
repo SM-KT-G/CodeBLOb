@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_026599",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42090&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "제주 스테이라그랑주"
+    },
+    "text": "済州ステイラグランジュは250坪の敷地に位置する宿泊施設です。 ここでは、大型屋外プールとは独立した屋内のぬるま湯プールを楽しむことができます。 また、当宿泊施設では22時以降入室される場合、予めご連絡ください。 ありがとうございます。",
+    "QA": [
+        {
+            "question": "済州ステイラグランジュの敷地面積は何坪ですか？",
+            "answer": "済州ステイラグランジュの敷地面積は250坪です。"
+        },
+        {
+            "question": "済州ステイラグランジュにはどのようなプールがありますか？",
+            "answer": "済州ステイラグランジュには大型屋外プールと屋内のぬるま湯プールがあります。"
+        },
+        {
+            "question": "22時以降に入室する場合、事前に連絡する必要がありますか？",
+            "answer": "はい、済州ステイラグランジュでは22時以降に入室される場合、事前に連絡をする必要があります。"
+        },
+        {
+            "question": "済州ステイラグランジュの敷地内に何がありますか？",
+            "answer": "済州ステイラグランジュの敷地内には大型屋外プールと屋内のぬるま湯プールがあります。"
+        },
+        {
+            "question": "済州ステイラグランジュの敷地面積は何ですか？",
+            "answer": "済州ステイラグランジュの敷地面積は250坪です。"
+        }
+    ],
+    "word_Count": {
+        "text": 86,
+        "QA": 218
+    }
+}

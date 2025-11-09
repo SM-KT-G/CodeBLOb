@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_000294",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42030&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "경주 라비에벨펜션"
+    },
+    "text": "\"ラビエベル\"はフランス語で\"人生は美しい\"という意味です。 大変な日常を離れて楽しい旅行を楽しむとき、ラビエベルは余裕と楽しさをプレゼントします。 恋人や家族と一緒に大切な時間と楽しい思い出を作れるように頑張ります。 当ペンションは、すべての訪問者の人生がより美しくなることを願っています。 ご予約の際、ペンション到着予定時間を必ずご記入ください。 もし22時以降に到着される予定でしたら事前にご連絡お願いします。",
+    "QA": [
+        {
+            "question": "ラビエベルの意味は何ですか？",
+            "answer": "ラビエベルはフランス語で'人生は美しい'という意味です。"
+        },
+        {
+            "question": "ラビエベルでは何を提供していますか？",
+            "answer": "ラビエベルでは、快適な滞在や楽しい旅行を提供しています。"
+        },
+        {
+            "question": "ペンション到着予定時間を教えてください。",
+            "answer": "ご予約の際、ペンション到着予定時間を必ずご記入ください。"
+        },
+        {
+            "question": "22時以降に到着する場合はどうすればいいですか？",
+            "answer": "22時以降に到着される予定でしたら事前にご連絡お願いします。"
+        },
+        {
+            "question": "ラビエベルでは何を目指していますか？",
+            "answer": "当ペンションは、すべての訪問者の人生がより美しくなることを願っています。"
+        }
+    ],
+    "word_Count": {
+        "text": 152,
+        "QA": 178
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_003880",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-09-01",
+        "domain": "음식점",
+        "title": "オンマウル ( 온마을 )"
+    },
+    "text": "オンマウル ( 온마을 )\\n\nソウル特別市 鐘路区 三清路 127\\n\n健康にいい豆を利用した料理を取り扱っています。おすすめはビジ（おから）チゲです。ソウル特別市のジョンノ区に位置した韓国料理店です。",
+    "QA": [
+        {
+            "question": "オンマウルはどこに位置していますか？",
+            "answer": "オンマウルはソウル特別市の鐘路区三清路127に位置しています。"
+        },
+        {
+            "question": "オンマウルではどのような料理が取り扱われていますか？",
+            "answer": "オンマウルでは健康にいい豆を利用した料理が取り扱われています。特におすすめはビジ（おから）チゲです。"
+        },
+        {
+            "question": "オンマウルはどの区に位置していますか？",
+            "answer": "オンマウルはソウル特別市のジョンノ区に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 74,
+        "QA": 125
+    }
+}

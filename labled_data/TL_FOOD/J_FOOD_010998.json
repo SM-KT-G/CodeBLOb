@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_010998",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-08-31",
+        "domain": "음식점",
+        "title": "トン豚肉炒め（통돼지두루치기）"
+    },
+    "text": "トン豚肉炒め（통돼지두루치기）\\n\nソウル特別市 鐘路区 鐘路 252-6\\n\nこの店はソウル特別市のトンデムンに位置した韓国料理店です。豚肉と野菜をコチュジャンソースで炒めたトゥルチギも有名です。代表的なメニューは豚キムチチゲです。",
+    "QA": [
+        {
+            "question": "この店の名前は何ですか？",
+            "answer": "トン豚肉炒め（통돼지두루치기）"
+        },
+        {
+            "question": "この店はどこに位置していますか？",
+            "answer": "ソウル特別市 鐘路区 鐘路 252-6"
+        },
+        {
+            "question": "この店の特徴的な料理は何ですか？",
+            "answer": "豚肉と野菜をコチュジャンソースで炒めたトゥルチギも有名です。代表的なメニューは豚キムチチゲです。"
+        }
+    ],
+    "word_Count": {
+        "text": 85,
+        "QA": 92
+    }
+}

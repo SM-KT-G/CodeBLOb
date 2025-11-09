@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001672",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2020-12-18",
+        "domain": "음식점",
+        "title": "Fun BeerKing( 펀비어킹 )"
+    },
+    "text": "Fun BeerKing( 펀비어킹 )\\n\nソウル特別市 瑞草区 シンバンポロ194\\n\nチメクはチキンとビールを一緒に楽しむ韓国文化です。ソウル特別市のソチョ区に位置した韓食専門店です。代表的なメニューはチキンです。",
+    "QA": [
+        {
+            "question": "ビールキングはどこのエリアにありますか？",
+            "answer": "ビールキングはソウル特別市の瑞草区に位置しています。"
+        },
+        {
+            "question": "チメクとは何ですか？",
+            "answer": "チメクはチキンとビールを一緒に楽しむ韓国の文化です。"
+        },
+        {
+            "question": "ビールキングの代表的なメニューは何ですか？",
+            "answer": "ビールキングの代表的なメニューはチキンです。"
+        }
+    ],
+    "word_Count": {
+        "text": 80,
+        "QA": 91
+    }
+}

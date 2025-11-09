@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_007420",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2023-01-27",
+        "domain": "음식점",
+        "title": "삼보가든"
+    },
+    "text": "サンボガーデン (삼보가든)\\n\n慶尚北道浦項市北区松羅面宝慶路475\\n\n慶尚北道浦項市北区松羅面にある韓国料理店「サンボガーデン」のメニューはカルグクス、山菜ビビンバ、地鶏の水炊き、鴨肉プルゴギなどがある。 フットサル場施設があり、泊れるところである。<br>",
+    "QA": [
+        {
+            "question": "サンボガーデンはどこにありますか？",
+            "answer": "サンボガーデンは慶尚北道浦項市北区松羅面宝慶路475にあります。"
+        },
+        {
+            "question": "サンボガーデンのメニューには何がありますか？",
+            "answer": "サンボガーデンのメニューにはカルグクス、山菜ビビンバ、地鶏の水炊き、鴨肉プルゴギなどがあります。"
+        },
+        {
+            "question": "サンボガーデンではフットサルができますか？",
+            "answer": "はい、サンボガーデンにはフットサル場の施設があります。"
+        },
+        {
+            "question": "サンボガーデンには宿泊施設はありますか？",
+            "answer": "はい、サンボガーデンには宿泊できる施設があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 96,
+        "QA": 155
+    }
+}

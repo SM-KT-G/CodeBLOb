@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_007813",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=681&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=05320000&ccbaCtcd=38&ccbaCpno=2113805320000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2013-01-03",
+        "domain": "문화/역사관광",
+        "title": "계재 정제용 초상화"
+    },
+    "text": "桂材精製用肖像画 (계재 정제용 초상화)\\n\n晋州市晋州大路501\\n\n慶尚南道有形文化財 , 渓斎チョン·ジェヨン(1865-1907)の正面坐像を描いた肖像画だ。 チョン·ジェヨンは朝鮮末期、明利を求めずに昔の先賢たちの教えに忠実に従い、党派を越えて一生君子の道を進もうとしたまっすぐな性情の人物だ。 この肖像画は、特別な装飾なしに整然とした姿勢で正面を凝視している点や、朝鮮末期の肖像画の大家だったチェ·ヨンシンの筆致とされており、歴史的、絵画史的価値が大きいため、慶尚南道有形文化遺産に指定して保存。管理しようとする。",
+    "QA": [
+        {
+            "question": "この肖像画は誰のために描かれましたか？",
+            "answer": "チョン·ジェヨン(1865-1907)のために描かれました。"
+        },
+        {
+            "question": "チョン·ジェヨンはどのような人物でしたか？",
+            "answer": "チョン·ジェヨンは朝鮮末期に活躍した人物で、先賢たちの教えに忠実に従い、君子の道を進むことを信条としていました。"
+        },
+        {
+            "question": "この肖像画の特徴は何ですか？",
+            "answer": "この肖像画は、特別な装飾を持たず、整然とした姿勢で正面を凝視しています。また、チェ·ヨンシンという朝鮮末期の肖像画の大家によって描かれたとされています。"
+        },
+        {
+            "question": "なぜこの肖像画は慶尚南道有形文化遺産に指定されましたか？",
+            "answer": "この肖像画は歴史的、絵画史的な価値が非常に高いため、慶尚南道有形文化遺産に指定されました。"
+        },
+        {
+            "question": "この肖像画はどこで保存されていますか？",
+            "answer": "この肖像画は晋州市晋州大路501にある慶尚南道有形文化財として管理されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 193,
+        "QA": 255
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_002185",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2020-11-25",
+        "domain": "음식점",
+        "title": "WINE BISTRO CHACHA( 와인주막차차 을지로 )"
+    },
+    "text": "WINE BISTRO CHACHA( 와인주막차차 을지로 )\\n\nソウル特別市 中区 乙支路 170\\n\nワインと韓国料理をセットで提供する店です。おすすめはポサム定食です。ソウル特別市の中区に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "ワインバー チャチャはどんな店ですか？",
+            "answer": "ワインバー チャチャは、ワインと韓国料理をセットで提供する店です。ポサム定食がおすすめです。"
+        },
+        {
+            "question": "ワインバー チャチャの場所はどこですか？",
+            "answer": "ワインバー チャチャはソウル特別市の中区乙支路170に位置しています。"
+        },
+        {
+            "question": "ワインバー チャチャで食べられるメニューはありますか？",
+            "answer": "はい、ワインバー チャチャでは韓国料理を提供しています。特にポサム定食がおすすめです。"
+        }
+    ],
+    "word_Count": {
+        "text": 81,
+        "QA": 139
+    }
+}

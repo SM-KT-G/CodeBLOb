@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_055325",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/solhyang-hanuchon",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "ソルヒャン韓牛村"
+    },
+    "text": "ソルヒャン韓牛村\\n\n江原道 ガンヌン市 ヨンゴク面 ヨンジュロ186-4\\n\n最上級の韓牛が食べられる店です。代表的なメニューは韓牛です。江原道のガンヌン市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "ソルヒャン韓牛村は江原道のガンヌン市に位置しています。具体的な住所はヨンゴク面ヨンジュロ186-4です。"
+        },
+        {
+            "question": "この店の特徴的なメニューは何ですか？",
+            "answer": "この店の代表的なメニューは韓牛です。最上級の韓牛を楽しむことができます。"
+        },
+        {
+            "question": "この店は何を専門としていますか？",
+            "answer": "この店は韓食を専門としています。韓牛を中心に、おいしい韓国料理を提供しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 67,
+        "QA": 128
+    }
+}

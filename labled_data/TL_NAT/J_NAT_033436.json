@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_033436",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=389&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=00250000&ccbaCtcd=21&ccbaCpno=2112100250000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1999-09-03",
+        "domain": "자연관광",
+        "title": "범어사 청룡암시 목판"
+    },
+    "text": "光海君元年(1609)に朝鮮中期、東莱府使を歴任したイアンヌル先生が自筆で書いた\"青龍暗示\"と\"梵魚寺症桃源先人\"詩を板刻した木版が釜山広域市有形文化財に登録されています。イアンヌル先生は1608年2月から1609年7月まで、東莱府使を務め、朝鮮中期の文臣として活動しました。丙子胡乱が起きた後にもまた帰って活躍し、結局は病気によって死亡しました。イアンヌル先生は詩を作るのに優れ、多くの詩集を残したりもしました。彼は東莱府使を歴任した間によく梵魚寺を捜したが、梵魚寺ヒェチャン長老が詩を岩に刻まれたことをお願いし、\"青龍暗示\"が作られました。この版木は地方史研究に重要な資料として活用されることのできる文化財です。",
+    "QA": [
+        {
+            "question": "青龍暗示を作ったイアンヌル先生は、何を務めていたのですか？",
+            "answer": "イアンヌル先生は1608年2月から1609年7月まで、東莱府使を務めていました。"
+        },
+        {
+            "question": "イアンヌル先生が作った'青龍暗示'と'梵魚寺症桃源先人'詩を板刻した木版は何に登録されていますか？",
+            "answer": "釜山広域市有形文化財に登録されています。"
+        },
+        {
+            "question": "イアンヌル先生は、梵魚寺ヒェチャン長老に何をお願いしたのですか？",
+            "answer": "イアンヌル先生は梵魚寺ヒェチャン長老に詩を岩に刻むことをお願いし、'青龍暗示'が作られました。"
+        },
+        {
+            "question": "イアンヌル先生は病気で亡くなるまで、何を活動していましたか？",
+            "answer": "イアンヌル先生は病気によって死亡するまで、文臣として活動していました。"
+        },
+        {
+            "question": "イアンヌル先生は、詩を作るのに何に優れていましたか？",
+            "answer": "イアンヌル先生は詩を作るのに優れており、多くの詩集を残したりもしました。"
+        }
+    ],
+    "word_Count": {
+        "text": 225,
+        "QA": 252
+    }
+}

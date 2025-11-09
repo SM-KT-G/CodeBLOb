@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_086847",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2023-03-21",
+        "domain": "음식점",
+        "title": "아소산"
+    },
+    "text": "あそさん (아소산)\\n\n京畿道高陽市一山東区丁鉢山路128\\n\n阿蘇山は、カン·チャンだけでなく、寿司や本格的な和風うどんを含むさまざまなメニューを提供しています。モダンで清潔なインテリアと最高品質の食材、味わいで人々を魅了し、家族や友人の集まる素敵な場所としても最適です。",
+    "QA": [
+        {
+            "question": "阿蘇山はどのようなメニューを提供していますか？",
+            "answer": "阿蘇山は、カン·チャンだけでなく、寿司や本格的な和風うどんを含むさまざまなメニューを提供しています。"
+        },
+        {
+            "question": "阿蘇山の雰囲気はどのような感じですか？",
+            "answer": "阿蘇山はモダンで清潔なインテリアと最高品質の食材、味わいで人々を魅了しています。"
+        },
+        {
+            "question": "阿蘇山は家族や友人の集まる場所として適していますか？",
+            "answer": "はい、阿蘇山は家族や友人の集まる素敵な場所としても最適です。"
+        }
+    ],
+    "word_Count": {
+        "text": 101,
+        "QA": 137
+    }
+}

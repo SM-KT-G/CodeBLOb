@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_055398",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-03",
+        "domain": "음식점",
+        "title": "デバッジャント牛の頭部肉クッパ ( 대박장터소머리국밥 )"
+    },
+    "text": "デバッジャント牛の頭部肉クッパ ( 대박장터소머리국밥 )\\n\n江原道 ガンヌン市 ソンドクロ302-14\\n\n様々なクッパが味わえる店です。代表的なメニューは牛の頭部肉のコムタンです。江原道のガンヌン市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "この店の名前は何ですか？",
+            "answer": "デバッガント牛の頭部肉クッパ（대박장터소머리국밥）です。"
+        },
+        {
+            "question": "この店はどこにありますか？",
+            "answer": "江原道のガンヌン市のソンドクロ302-14に位置しています。"
+        },
+        {
+            "question": "この店の特色は何ですか？",
+            "answer": "様々なクッパが味わえることが特色です。代表的なメニューは牛の頭部肉のクッパ（コムタン）です。"
+        }
+    ],
+    "word_Count": {
+        "text": 84,
+        "QA": 103
+    }
+}

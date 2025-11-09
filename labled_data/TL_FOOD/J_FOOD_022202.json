@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_022202",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-06",
+        "domain": "음식점",
+        "title": "謝謝 ( 쎄쎄 )"
+    },
+    "text": "謝謝 ( 쎄쎄 )\\n\nソウル特別市 道峰区 サムヤンロ532\\n\n華僑が運営する店です。代表的なメニューは酢豚です。ソウル特別市のドボン区に位置した中華専門店です。",
+    "QA": [
+        {
+            "question": "サムヤンロ532はどこに位置していますか？",
+            "answer": "サムヤンロ532はソウル特別市の道峰区に位置しています。"
+        },
+        {
+            "question": "華僑が運営する店ですか？",
+            "answer": "はい、華僑が運営する店です。"
+        },
+        {
+            "question": "代表的なメニューは何ですか？",
+            "answer": "代表的なメニューは酢豚です。"
+        }
+    ],
+    "word_Count": {
+        "text": 60,
+        "QA": 75
+    }
+}

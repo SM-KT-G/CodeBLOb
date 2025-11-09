@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_002093",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2022-09-06",
+        "domain": "음식점",
+        "title": "SOUNDS COFFEE"
+    },
+    "text": "SOUNDS COFFEE (SOUNDS COFFEE)\\n\n大邱広域市中区達区伐大路447ギル19\\n\nSOUNDS COFFEEは大邱広域市中区三徳洞3街にあります。 代表メニューはエチオピアのシダモベンサケラモナチュラル、強いローストのサウンズブレンド、コロンビアEAデカフェなど各種フィルターコーヒーです。 このほか、カフェラテ、バニララテ、クリームラテ、ラテアイスクリーム、牛乳アイスクリームなども味わえます。 大邱地下鉄2号線慶大病院駅と北大邱ICから近いです。 近くにキム·グァンソク描き直し道、古本屋路地、大邱銀行金融博物館などの観光地があり、連携観光が容易です。",
+    "QA": [
+        {
+            "question": "Sounds Coffeeはどこにありますか？",
+            "answer": "Sounds Coffeeは大邱広域市中区三徳洞3街にあります。"
+        },
+        {
+            "question": "Sounds Coffeeの代表メニューは何ですか？",
+            "answer": "Sounds Coffeeの代表メニューはエチオピアのシダモベンサケラモナチュラル、強いローストのサウンズブレンド、コロンビアEAデカフェなど各種フィルターコーヒーです。"
+        },
+        {
+            "question": "Sounds Coffeeの近くにはどんな観光地がありますか？",
+            "answer": "Sounds Coffeeの近くにはキム·グァンソク描き直し道、古本屋路地、大邱銀行金融博物館などの観光地があります。"
+        },
+        {
+            "question": "Sounds Coffeeへのアクセス方法はどうですか？",
+            "answer": "Sounds Coffeeへのアクセス方法は大邱地下鉄2号線慶大病院駅と北大邱ICから近いです。"
+        },
+        {
+            "question": "Sounds Coffeeで飲めるコーヒー以外のメニューはありますか？",
+            "answer": "Sounds Coffeeではカフェラテ、バニララテ、クリームラテ、ラテアイスクリーム、牛乳アイスクリームなども味わえます。"
+        }
+    ],
+    "word_Count": {
+        "text": 213,
+        "QA": 314
+    }
+}

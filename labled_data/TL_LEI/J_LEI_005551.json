@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_LEI_005551",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101933",
+        "collectedDate": "2023-09-21",
+        "publishedDate": "2023-01-16",
+        "domain": "레포츠",
+        "title": "포천캠핑마을"
+    },
+    "text": "抱川キャンプ村 (포천캠핑마을)\\n\n京畿道抱川市新北面清新路1196番キル293-57\\n\n「民間」で「直営」方法で運営しています。 '''一般キャンプ場'''をご利用いただけます。 周辺の自然環境としては「山、森」があり、「直営」方式で運営しています。 「渓谷水遊び」が利用できます。",
+    "QA": [
+        {
+            "question": "抱川キャンプ村はどのように運営されていますか？",
+            "answer": "抱川キャンプ村は「民間」で「直営」方式で運営されています。"
+        },
+        {
+            "question": "抱川キャンプ村ではどのようなキャンプ場が利用できますか？",
+            "answer": "抱川キャンプ村では一般キャンプ場をご利用いただけます。"
+        },
+        {
+            "question": "周辺の自然環境はどのようなものがありますか？",
+            "answer": "周辺の自然環境としては「山、森」があります。"
+        },
+        {
+            "question": "抱川キャンプ村でできるアクティビティはありますか？",
+            "answer": "抱川キャンプ村では「渓谷水遊び」が利用できます。"
+        }
+    ],
+    "word_Count": {
+        "text": 105,
+        "QA": 146
+    }
+}

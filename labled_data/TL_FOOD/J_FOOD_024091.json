@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_024091",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "安一屋 ( 안일옥 )"
+    },
+    "text": "安一屋 \n京畿道 安城市 中央路411ボンキル 20\n100年の伝統を持つ有名店です。おすすめはソルロンタンです。京畿道のアンソン市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "この有名店の名前は何ですか？",
+            "answer": "安一屋"
+        },
+        {
+            "question": "この有名店の場所はどこですか？",
+            "answer": "京畿道 安城市 中央路411ボンキル 20"
+        },
+        {
+            "question": "この有名店のおすすめ料理は何ですか？",
+            "answer": "ソルロンタン"
+        },
+        {
+            "question": "この有名店は何年の伝統を持っていますか？",
+            "answer": "100年"
+        },
+        {
+            "question": "この有名店は何を専門としていますか？",
+            "answer": "韓食"
+        },
+        {
+            "question": "この有名店はどの市に位置していますか？",
+            "answer": "安城市"
+        }
+    ],
+    "word_Count": {
+        "text": 57,
+        "QA": 104
+    }
+}

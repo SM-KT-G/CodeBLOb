@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_062088",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2022-10-18",
+        "domain": "문화/역사관광",
+        "title": "동아방송예술대학교 DIMA아트센터"
+    },
+    "text": "東亜放送芸術大学DIMA M.O.Aは多様な芸術作品を所蔵している専門美術館に2012年開館以来、持続的な企画展示を通じて、地域文化芸術の発展にプラスになろうと努力している。京畿道安城(アンソン)地域に設立された唯一の大学美術館で、展示、さまざまな教育プログラムを開発、運営して、学内構成員だけでなく、一般人たちの文化体験空間としての役割を遂行しており、併せて文化芸術機関としての専門性と様々な公演などのジャンル間の相互連携を通じた複合文化空間を狙っている。。...",
+    "QA": [
+        {
+            "question": "DIMAMOAはいつ開館しましたか？",
+            "answer": "東亜放送芸術大学DIMA M.O.Aは2012年に開館しました。"
+        },
+        {
+            "question": "DIMAMOAはどのような作品を所蔵していますか？",
+            "answer": "DIMAMOAは多様な芸術作品を所蔵しています。"
+        },
+        {
+            "question": "DIMAMOAはどの地域に設立されましたか？",
+            "answer": "DIMAMOAは京畿道安城(アンソン)地域に設立されました。"
+        },
+        {
+            "question": "DIMAMOAは何を目指していますか？",
+            "answer": "DIMAMOAは地域文化芸術の発展にプラスになることを目指しています。"
+        },
+        {
+            "question": "DIMAMOAはどのような役割を果たしていますか？",
+            "answer": "DIMAMOAは一般人たちの文化体験空間としての役割を果たしています。"
+        },
+        {
+            "question": "DIMAMOAはどのようなプログラムを開発・運営していますか？",
+            "answer": "DIMAMOAは展示やさまざまな教育プログラムを開発・運営しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 170,
+        "QA": 242
+    }
+}

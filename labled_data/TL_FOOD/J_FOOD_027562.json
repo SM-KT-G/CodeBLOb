@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_027562",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-06",
+        "domain": "음식점",
+        "title": "菜食料理専門店オセゲヒャン（채식요리전문점 오세계향）"
+    },
+    "text": "菜食料理専門店オセゲヒャン（채식요리전문점 오세계향）\\n\nソウル特別市 鐘路区 仁寺洞12キル14-5\\n\n文化芸術の街「仁寺洞」に位置する菜食料理専門店「オセゲヒャン」。菜食文化の普及をモットーに、斬新かつ多彩な菜食料理を提供しています。",
+    "QA": [
+        {
+            "question": "オセゲヒャンはどのような場所に位置していますか？",
+            "answer": "オセゲヒャンはソウル特別市鐘路区仁寺洞に位置しています。"
+        },
+        {
+            "question": "オセゲヒャンではどのような料理が提供されていますか？",
+            "answer": "オセゲヒャンでは斬新かつ多彩な菜食料理が提供されています。"
+        },
+        {
+            "question": "オセゲヒャンのモットーは何ですか？",
+            "answer": "オセゲヒャンのモットーは菜食文化の普及です。"
+        }
+    ],
+    "word_Count": {
+        "text": 88,
+        "QA": 107
+    }
+}

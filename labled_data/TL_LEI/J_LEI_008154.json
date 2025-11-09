@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_LEI_008154",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2022-11-25",
+        "domain": "레포츠",
+        "title": "더크로스비GC"
+    },
+    "text": "京畿道利川市戸法面に位置するパブリックゴルフ場は全長9,076mの長さと27ホールを備えています。 このゴルフ場はCharlotte、Aria、Billieの3つのコースで構成されており、それぞれ9つのホールがあります。 ゴルフ場はゴルネミ山の麓に位置しており、独特の形で見ることができ、ここは自然を感じながら挑戦的なラウンドを楽しめる場所として評価されています。 それに利川ICと徳坪ICは東に、南利川ICと西利川ICは北に位置しています。 近くにロッテアウトレットもあり、様々なショッピングや観光が楽しめます。",
+    "QA": [
+        {
+            "question": "このゴルフ場は何ホールありますか？",
+            "answer": "このゴルフ場には27ホールあります。"
+        },
+        {
+            "question": "ゴルフ場の名前は何ですか？",
+            "answer": "ゴルフ場の名前はありません。"
+        },
+        {
+            "question": "ゴルフ場はどのような場所に位置していますか？",
+            "answer": "ゴルフ場はゴルネミ山の麓に位置しています。"
+        },
+        {
+            "question": "近くにどのICがありますか？",
+            "answer": "近くには利川ICと徳坪ICが東に、南利川ICと西利川ICが北に位置しています。"
+        },
+        {
+            "question": "近くに何がありますか？",
+            "answer": "近くにはロッテアウトレットがあり、ショッピングや観光を楽しむことができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 188,
+        "QA": 151
+    }
+}

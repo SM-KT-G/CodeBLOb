@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_015016",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42090&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "제주 설렘펜션"
+    },
+    "text": "ときめきを感じないことはありません。 芝生がなくても美しい一団遊歩道を歩きたいという気持ちがときめきの原動力になります。 プールがなくても、サム·チャンの砂浜とエメラルド色の海がときめきと安らぎを与えます。 忙しい日常や都会の汚い空気から抜け出したいとき、ときめきは旅のパートナーです。 青い海と日没、スズメのさえずりと澄んだ空気はペンションで一緒に過ごせる特別な経験です。 入室時間に関するお知らせもありますので、22時以降に入室される場合は事前にご連絡ください。",
+    "QA": [
+        {
+            "question": "どんな気持ちになりますか？",
+            "answer": "ときめきを感じます。"
+        },
+        {
+            "question": "一団遊歩道を歩くことで得られるものは何ですか？",
+            "answer": "美しい景色を楽しむことができます。"
+        },
+        {
+            "question": "プールがなくても楽しめる場所はありますか？",
+            "answer": "サム·チャンの砂浜とエメラルド色の海があります。"
+        },
+        {
+            "question": "都会の空気から抜け出すことができる場所はありますか？",
+            "answer": "ペンションで青い海と日没を楽しむことができます。"
+        },
+        {
+            "question": "宿泊時間に関してどのようなお知らせがありますか？",
+            "answer": "22時以降に入室される場合は事前にご連絡ください。"
+        }
+    ],
+    "word_Count": {
+        "text": 170,
+        "QA": 151
+    }
+}

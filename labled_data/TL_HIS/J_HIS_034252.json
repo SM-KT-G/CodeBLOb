@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_034252",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=897&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=02540000&ccbaCtcd=38&ccbaCpno=2333802540000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "함양개평리소나무군락지"
+    },
+    "text": "咸陽開坪里松群落地 (함양개평리소나무군락지)\\n\n慶尚南道記念物 , 開坪里は一頭のチョン·ヨチャン先生をはじめとする儒学者を輩出した伝統村であり、多くの文化財と記念物がすでに指定されている。 村前の野山の稜線に沿って生存している松の群落は風水的意味により村を保護するための森として造成され、今日に至っており、樹齢は300~400年生まれと推定され、大きな木は樹高15M、胸高周囲160~220Cm、小径木は樹高10M胸高周囲80~150Cm程度であり、現在100株余り生存している。",
+    "QA": [
+        {
+            "question": "この地域はどのような伝統村ですか？",
+            "answer": "開坪里は一頭のチョン·ヨチャン先生をはじめとする儒学者を輩出した伝統村です。"
+        },
+        {
+            "question": "村前の野山にある松の群落は何のために造成されましたか？",
+            "answer": "村前の野山の稜線に沿って生存している松の群落は風水的意味により村を保護するための森として造成されました。"
+        },
+        {
+            "question": "松の群落の樹齢は何年くらいですか？",
+            "answer": "松の群落の樹齢は300~400年生まれと推定されています。"
+        },
+        {
+            "question": "松の群落にはどのくらいの数の木が生存していますか？",
+            "answer": "現在、松の群落には100株余りの木が生存しています。"
+        },
+        {
+            "question": "松の群落の大きな木のサイズはどのくらいですか？",
+            "answer": "松の群落の大きな木は樹高15M、胸高周囲160~220Cmです。"
+        },
+        {
+            "question": "松の群落の小径木のサイズはどのくらいですか？",
+            "answer": "松の群落の小径木は樹高10M胸高周囲80~150Cm程度です。"
+        }
+    ],
+    "word_Count": {
+        "text": 178,
+        "QA": 248
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_LEI_001755",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101933",
+        "collectedDate": "2023-09-21",
+        "publishedDate": "2023-01-19",
+        "domain": "레포츠",
+        "title": "반달곰이 살던 숲"
+    },
+    "text": "ツキノワグマが住んでいた森 (반달곰이 살던 숲)\\n\n京畿道華城市正南面正松キル23番キル18\\n\n「民間」で「直営」方法で運営しています。 '''一般キャンプ場'''をご利用いただけます。 周辺の自然環境としては「山、森」があり、「直営」方式で運営しています。",
+    "QA": [
+        {
+            "question": "このキャンプ場はどこにありますか？",
+            "answer": "このキャンプ場は京畿道華城市正南面正松キル23番キル18にあります。"
+        },
+        {
+            "question": "このキャンプ場では何をすることができますか？",
+            "answer": "このキャンプ場では一般キャンプを楽しむことができます。"
+        },
+        {
+            "question": "周辺の自然環境はどうですか？",
+            "answer": "周辺には山や森があり、自然環境が豊かです。"
+        },
+        {
+            "question": "このキャンプ場はどのような方式で運営されていますか？",
+            "answer": "このキャンプ場は民間で直営方式で運営されています。"
+        },
+        {
+            "question": "このキャンプ場はどのように利用できますか？",
+            "answer": "このキャンプ場は一般キャンプ場として利用できます。"
+        }
+    ],
+    "word_Count": {
+        "text": 96,
+        "QA": 170
+    }
+}

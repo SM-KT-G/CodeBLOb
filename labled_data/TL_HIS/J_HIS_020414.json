@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_020414",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101933",
+        "collectedDate": "2023-10-06",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "산청휴게소"
+    },
+    "text": "山清サービスエリア\\n\n山清サービスエリア(Sancheong Service Area)は慶尚南道山清郡丹城面に位置する統営大田高速道路の高速道路サービスエリアである。 両方とも存在する。 住所は大田方向が慶尚南道山清郡丹城面統営大田高速道路76、統営方向が慶尚南道山清郡丹城面統営大田高速道路77だ。",
+    "QA": [
+        {
+            "question": "山清サービスエリアはどこに位置していますか？",
+            "answer": "山清サービスエリアは慶尚南道山清郡丹城面に位置しています。"
+        },
+        {
+            "question": "山清サービスエリアの住所は何ですか？",
+            "answer": "山清サービスエリアの住所は大田方向が慶尚南道山清郡丹城面統営大田高速道路76、統営方向が慶尚南道山清郡丹城面統営大田高速道路77です。"
+        },
+        {
+            "question": "山清サービスエリアはどの高速道路に位置していますか？",
+            "answer": "山清サービスエリアは統営大田高速道路に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 111,
+        "QA": 138
+    }
+}

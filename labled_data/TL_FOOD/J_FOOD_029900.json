@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_029900",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2022-12-16",
+        "domain": "음식점",
+        "title": "인사동찻집"
+    },
+    "text": "仁寺洞茶屋 (인사동찻집)\\n\nソウル特別市鍾路区仁寺洞キル33-1\\n\n仁寺洞にある韓屋茶屋では、すべての伝統茶を手作りで提供しています。また、夏のメニューであるかき氷の小豆も、手作りで作ってかき氷を作ります。",
+    "QA": [
+        {
+            "question": "仁寺洞茶屋の場所はどこですか？",
+            "answer": "仁寺洞茶屋はソウル特別市鍾路区仁寺洞キル33-1にあります。"
+        },
+        {
+            "question": "仁寺洞茶屋ではどのような茶を提供していますか？",
+            "answer": "仁寺洞茶屋ではすべての伝統茶を手作りで提供しています。"
+        },
+        {
+            "question": "仁寺洞茶屋では夏のかき氷も提供していますか？",
+            "answer": "はい、仁寺洞茶屋では夏のメニューであるかき氷の小豆も手作りで提供しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 77,
+        "QA": 113
+    }
+}

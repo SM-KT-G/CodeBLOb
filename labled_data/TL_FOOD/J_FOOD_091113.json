@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_091113",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-01",
+        "domain": "음식점",
+        "title": "五洋水産 ( 오양수산 )"
+    },
+    "text": "五洋水産 \n釜山広域市 機張郡 機張邑 機張海岸路 548-3\n釜山で新鮮な海の幸が味わえる有名な店です。釜山広域市のギジャン郡に位置した海鮮専門店です。おすすめはヌタウナギ焼きです。",
+    "QA": [
+        {
+            "question": "五洋水産はどこに位置していますか？",
+            "answer": "五洋水産は釜山広域市の機張郡に位置しています。"
+        },
+        {
+            "question": "五洋水産のおすすめ料理は何ですか？",
+            "answer": "五洋水産のおすすめ料理はヌタウナギ焼きです。"
+        },
+        {
+            "question": "五洋水産はどのようなお店ですか？",
+            "answer": "五洋水産は海鮮専門店で、新鮮な海の幸が味わえる有名な店です。"
+        }
+    ],
+    "word_Count": {
+        "text": 67,
+        "QA": 91
+    }
+}

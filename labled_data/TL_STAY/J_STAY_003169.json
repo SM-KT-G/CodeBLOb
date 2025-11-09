@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_003169",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'http://www.khanhotel.net/",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "カンホテル"
+    },
+    "text": "カンホテル\\n\n大邱広域市達城郡グジ画達洞2次洞1路141\\n\n国家産業団地の中心にあるビジネスホテルです。全てのルームに無料朝食が付きます。",
+    "QA": [
+        {
+            "question": "カンホテルはどこにありますか？",
+            "answer": "カンホテルは大邱広域市達城郡グジ画達洞2次洞1路141にあります。"
+        },
+        {
+            "question": "カンホテルはどのようなホテルですか？",
+            "answer": "カンホテルはビジネスホテルで、国家産業団地の中心に位置しています。"
+        },
+        {
+            "question": "カンホテルの客室には何が付いていますか？",
+            "answer": "カンホテルの全ての客室には無料の朝食が付いています。"
+        }
+    ],
+    "word_Count": {
+        "text": 52,
+        "QA": 106
+    }
+}

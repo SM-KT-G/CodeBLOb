@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_054920",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-06",
+        "domain": "음식점",
+        "title": "Forcitta ( 포르시따 )"
+    },
+    "text": "Forcitta ( 포르시따 )\\n\nソウル特別市 城東区 ワンシブリグァンジャンロ17\\n\n本場イタリアのかまどピザとパスタが味わえます。代表的なメニューはピザです。ソウル特別市のソンドン区に位置した洋食専門店です。",
+    "QA": [
+        {
+            "question": "このレストランの名前は何ですか？",
+            "answer": "レストランの名前はフォルチッタ（ポルシッタ）です。"
+        },
+        {
+            "question": "このレストランはどこにありますか？",
+            "answer": "このレストランはソウル特別市城東区ワンシブリグァンジャンロ17にあります。"
+        },
+        {
+            "question": "このレストランではどのような料理が味わえますか？",
+            "answer": "このレストランでは本場イタリアのかまどピザとパスタが味わえます。特にピザが代表的なメニューです。"
+        },
+        {
+            "question": "このレストランの特徴は何ですか？",
+            "answer": "このレストランは洋食専門店であり、本場イタリアの味を提供しています。"
+        },
+        {
+            "question": "このレストランの場所はどうやって行けますか？",
+            "answer": "このレストランはソウル特別市のソンドン区に位置しています。具体的な交通手段は、公共交通機関を利用して行くことができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 80,
+        "QA": 219
+    }
+}

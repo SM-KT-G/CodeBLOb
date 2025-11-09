@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_013029",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1030&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=00910000&ccbaCtcd=33&ccbaCpno=3413300910000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2017-06-30",
+        "domain": "문화/역사관광",
+        "title": "대혜보각선사서"
+    },
+    "text": "大恵普覚禅師書 (대혜보각선사서)\\n\n忠清北道清州市\\n\n1576年 , 忠清北道文化財資料 , 「大慧普覚禅師書」は中国宋の臨済宗僧侶である大慧宗考(1088~1163)の手紙文を弟子の慧然が集め、黄文昌が編んだ本だ。 従吾の諡号は普覚で看話禅を集大成した。 本の内容は当代の名士42人に禅に関する様々なことを答えた手紙62通だ。 手紙を集めた本であるだけに、他に「書状」と呼ばれることもある。僧侶や女性だけでなく、当代の文士たちと交わした手紙で、広範囲な思想的理解を基にした本で、知訥以降現代に至るまで韓国禅に多大な影響を及ぼし、高麗時代から朝鮮時代を通じて多く刊行された。 多くの版本が伝えるだけに刊行時期(1576年)と刊行誌(安心船員)が確実な資料として仏教史と書誌学的価値が優れている。",
+    "QA": [
+        {
+            "question": "大恵普覚禅師書は誰によって編まれましたか？",
+            "answer": "大恵普覚禅師書は黄文昌によって編まれました。"
+        },
+        {
+            "question": "大恵普覚禅師書はどのような内容の本ですか？",
+            "answer": "大恵普覚禅師書は当代の名士に関する禅に関する手紙62通が集められた本です。"
+        },
+        {
+            "question": "大恵普覚禅師書の刊行時期と刊行誌は何ですか？",
+            "answer": "大恵普覚禅師書は1576年に刊行され、刊行誌は安心船員です。"
+        },
+        {
+            "question": "大恵普覚禅師書はどのような影響を与えましたか？",
+            "answer": "大恵普覚禅師書は韓国禅に多大な影響を与えました。"
+        },
+        {
+            "question": "大恵普覚禅師書は何者によって書かれましたか？",
+            "answer": "大恵普覚禅師書は中国宋の臨済宗僧侶である大慧宗考の手紙文を弟子の慧然が集めたものです。"
+        }
+    ],
+    "word_Count": {
+        "text": 256,
+        "QA": 194
+    }
+}

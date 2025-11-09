@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_014278",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "ミレ食堂 ( 미래식당 )"
+    },
+    "text": "ミレ食堂 ( 미래식당 )\\n\n全羅南道 モクポ市 ベクニョンデロ307ボンギル17\\n\n木浦市民がよく訪れる隠れた名店です。全羅南道のモクポ市に位置した韓食専門店です。代表的なメニューはサムゲタンです。",
+    "QA": [
+        {
+            "question": "ミレ食堂はどこにありますか？",
+            "answer": "ミレ食堂は全羅南道のモクポ市に位置しています。"
+        },
+        {
+            "question": "ミレ食堂はどんな料理を提供していますか？",
+            "answer": "ミレ食堂は韓食専門店で、代表的なメニューはサムゲタンです。"
+        },
+        {
+            "question": "ミレ食堂は地元の人々によく訪れるお店ですか？",
+            "answer": "はい、ミレ食堂は木浦市民がよく訪れる隠れた名店として知られています。"
+        }
+    ],
+    "word_Count": {
+        "text": 74,
+        "QA": 104
+    }
+}

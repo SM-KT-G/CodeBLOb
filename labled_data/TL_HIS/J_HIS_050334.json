@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_050334",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=63&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=04110000&ccbaCtcd=37&ccbaCpno=1123704110000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1964-11-14",
+        "domain": "문화/역사관광",
+        "title": "경주 양동 무첨당"
+    },
+    "text": "競走バケツ無添加\\n\n慶尚北道慶州市江東面ジャンギル32-19(楊東里)\\n\n朝鮮時代中期、宝物、朝鮮時代の朱子学者であり、入れ墨だった李彦迪(イ・オンジョク)(1491∼1553)先生の終値の一部で、朝鮮中期に建てられた建物だ。前面5間・側面2間の規模であり、建物内部を三つの部分に区分して、中で3間は板の間であり、左右1間ずつはオンドル部屋だ。板の間は前面の柱の間を開放して高い板の間でも板の間を向けた側は開放されており、裏と横面は壁を打って扉をつけた。平面は鉤型を帯びていて丸い柱や四角柱を立てて放課床を配置している。この建物の機能は上流住宅に属しているサランチェの延長の建物にお客さん接待、休憩所、本を読んでいるなどの様々な用途で使われていたところだ。素朴ながらも洗練された腕を見せており、別棟建築の機能に忠実に建てた建築物で李彦迪(イ・オンジョク)先生の遺物を保管している。",
+    "QA": [
+        {
+            "question": "この建物は何のために建てられましたか？",
+            "answer": "この建物は朝鮮中期に建てられ、朝鮮時代の朱子学者であった李彦迪先生の終焉の場所として使用されました。"
+        },
+        {
+            "question": "この建物の機能は何ですか？",
+            "answer": "この建物は上流住宅に属しており、お客様の接待や休憩所、本を読む場所など、様々な用途で利用されていました。"
+        },
+        {
+            "question": "建物の内部はどのように区分されていますか？",
+            "answer": "建物の内部は三つの部分に区分されており、中央の部分は板の間で、左右の部分はオンドル部屋です。"
+        },
+        {
+            "question": "この建物はどのような特徴を持っていますか？",
+            "answer": "この建物は板の間とオンドル部屋を組み合わせた構造であり、洗練された腕を持った建築物です。"
+        },
+        {
+            "question": "この建物は李彦迪先生の遺物を保管していますか？",
+            "answer": "はい、この建物は李彦迪先生の遺物を保管しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 287,
+        "QA": 230
+    }
+}

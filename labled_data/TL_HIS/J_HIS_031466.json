@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_031466",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=134&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=11670000&ccbaCtcd=33&ccbaCpno=1123311670000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1993-09-10",
+        "domain": "문화/역사관광",
+        "title": "청주 운천동 출토 동종"
+    },
+    "text": "淸州 雲泉洞 出土 銅鍾 (청주 운천동 출토 동종)\\n\n忠清北道 清州市 上党区 明暗路 143, 国立淸州博物館 (明岩洞、国立淸州博物館)\\n\n統一新羅時代、宝物、清州市雲川洞で金銅仏像と高麗時代の青銅金鼓とともに出土した同種だ。 全長が78㎝、種の胴体の高さ64㎝、直径47.4㎝の中間サイズの種で、上·下の段にいかなる模様もなく単純に区画だけを置いたのが、むしろこの種の特徴だ。 四角形の連郭幅の部分には3体の飛天像と唐草文、3宝文で飾られ、その中に9つの突出した蓮雷がある。 鐘体の前後には2体の飛天像が彫刻されている。 蓮の花で飾った鐘を鳴らす部分である円形の当座を2つ配置したが、当座にはつる模様が刻まれている。 現在、龍筒は一部なくなったが、鐘の輪の部分であるヨンニュウは一匹の龍が口を開けて首を曲げて天板をくわえている形が完全に残っている。 また、前後頭構の飛天像と当座の文様から見て、統一新羅時代後期(9世紀中頃)の鐘と推定される。",
+    "QA": [
+        {
+            "question": "この銅鍾は何時代のものですか？",
+            "answer": "統一新羅時代です。"
+        },
+        {
+            "question": "この銅鍾はどこで出土されましたか？",
+            "answer": "清州市の雲川洞で出土されました。"
+        },
+        {
+            "question": "この銅鍾はどのような特徴がありますか？",
+            "answer": "この銅鍾は全長が78㎝で、種の胴体の高さは64㎝、直径は47.4㎝です。鐘体の前後には2体の飛天像が彫刻されており、四角形の連郭幅の部分には3体の飛天像と唐草文、3宝文が飾られています。また、鐘の輪の部分であるヨンニュウには一匹の龍が口を開けて首を曲げて天板をくわえている形が完全に残っています。"
+        },
+        {
+            "question": "この銅鍾はいつ頃のものと推定されていますか？",
+            "answer": "統一新羅時代後期（9世紀中頃）と推定されています。"
+        },
+        {
+            "question": "この銅鍾はどのような使い方がされていましたか？",
+            "answer": "この銅鍾は蓮の花で飾った鐘を鳴らす部分である円形の当座を2つ配置しており、宗教的な儀式や祭りなどで使用されたと考えられています。"
+        }
+    ],
+    "word_Count": {
+        "text": 313,
+        "QA": 262
+    }
+}

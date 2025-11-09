@@ -1,0 +1,59 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001434",
+        "source": "도서",
+        "writer": "스타일북스 편집부",
+        "ISBN_ISNN": "978-89-6260-384-2",
+        "version": "초판",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "커피 앳 카페",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2012-05-25",
+        "domain": "음식점",
+        "title": "아방 갤러리 카페 디큐브시티점"
+    },
+    "text": "AVANT Gallery Cafeでは、素敵な食材を使ったデザート、高級豆のコーヒーを提供しています。 店舗は国内外の有名作家たちの美術作品を常設展示して販売を代行します。 このカフェはギャラリーカフェで、大衆の日常に浸透する芸術を意味します。 営業時間は毎日11:00～09:30で、現代百貨店ディキューブシティ店で運営されています。 店舗へのアクセスは新通林駅5番出口から徒歩1分の距離です。ナビゲーションで「デキューブシティ」や「シンドリム駅」を検索すると簡単に見つけることができます。 店舗はディキューブシティ店の3階にあります。 店舗はディキューブシティ店の3階にあります。 駐車スペースは快適で、無料駐車場1時間が可能なので、自家用に来るのもおすすめです。 メニューにはブラウニー、レッドベルベットケーキ、キャラメルピーカンシナモンロールなど様々なデザートやエスプレッソ、アメリカーノ、カプチーノ、コールドブルーなど様々なコーヒーがあります。 その他にも様々なドリンクやクッキーも販売しています。 AVANT Gallery Cafeは「A Life with Art」を楽しめる場所で、お客様に特別な経験をお届けします。",
+    "QA": [
+        {
+            "question": "AVANT Gallery Cafeはどんな食材を使ったデザートを提供していますか？",
+            "answer": "AVANT Gallery Cafeでは、ブラウニーやレッドベルベットケーキ、キャラメルピーカンシナモンロールなど様々なデザートを提供しています。"
+        },
+        {
+            "question": "AVANT Gallery Cafeでは何種類のコーヒーが提供されていますか？",
+            "answer": "AVANT Gallery Cafeでは、エスプレッソ、アメリカーノ、カプチーノ、コールドブルーなど様々なコーヒーが提供されています。"
+        },
+        {
+            "question": "AVANT Gallery Cafeの営業時間は何時から何時までですか？",
+            "answer": "AVANT Gallery Cafeの営業時間は毎日11:00～09:30です。"
+        },
+        {
+            "question": "AVANT Gallery Cafeの場所はどこですか？",
+            "answer": "AVANT Gallery Cafeはディキューブシティ店の3階にあります。"
+        },
+        {
+            "question": "AVANT Gallery Cafeへのアクセス方法はありますか？",
+            "answer": "AVANT Gallery Cafeへのアクセスは新通林駅5番出口から徒歩1分の距離です。"
+        },
+        {
+            "question": "AVANT Gallery Cafeでは無料駐車場がありますか？",
+            "answer": "AVANT Gallery Cafeでは、駐車場は快適で、無料駐車場1時間が利用可能です。"
+        },
+        {
+            "question": "AVANT Gallery Cafeはどのような場所ですか？",
+            "answer": "AVANT Gallery Cafeはギャラリーカフェであり、大衆の日常に芸術を浸透させる場所です。"
+        },
+        {
+            "question": "AVANT Gallery Cafeでは何を販売していますか？",
+            "answer": "AVANT Gallery Cafeでは、美術作品の販売代行を行っています。また、デザートやコーヒー、ドリンク、クッキーなども販売しています。"
+        },
+        {
+            "question": "AVANT Gallery Cafeではどのような経験を提供していますか？",
+            "answer": "AVANT Gallery Cafeでは、“A Life with Art”を楽しむ特別な経験をお客様に提供しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 379,
+        "QA": 584
+    }
+}

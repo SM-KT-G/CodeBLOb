@@ -1,0 +1,51 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_038990",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=107&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=08730000&ccbaCtcd=25&ccbaCpno=1121108730000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1986-10-15",
+        "domain": "문화/역사관광",
+        "title": "정선 필 육상묘도"
+    },
+    "text": "鄭敾筆毓祥廟図 (정선 필 육상묘도)\\n\n大田広域市西区\\n\n朝鮮英祖15年(1739)、宝物、鄭敾筆（チョン·ソンピル）<陸上妙図>は、朝鮮後期の韓国の美しい山水を実際に見て描く真景山水画風を創始した謙斎鄭善(1676~1759)が、ソウル宮廷洞にある陸相廟とその後ろにある白岳山を描いたもので、一種の記録画だ。 陸相墓は粛宗の側室であり英祖の母である粛嬪崔氏の位牌を祀るために英祖6年(1725)に建てられたものだ。 この絵は絹地に彩色されており、大きさは横63cm、縦146.5cmで保存状態が比較的良い。 絵の上段には陸相墓を建てるのに関与した18人の官員について書き、下段には低い丘と種類の異なる木を左右に適切に配置しており、後方には藁葺きの家でできた陸相墓が北岳山を背景に描かれている。 絵の左上には旌善が満63歳の時の1739年に描いた絵であることが記されている。 この絵は木、家、山の表現に水墨と薄い淡彩を使って内面世界を表出する南宗画風の影響が明確に見え、旌善個人の画風が明確に現れているだけでなく記録画として歴史的·学術的な意義が大きい作品だ。",
+    "QA": [
+        {
+            "question": "この絵は何年に描かれましたか？",
+            "answer": "この絵は朝鮮英祖15年（1739）に描かれました。"
+        },
+        {
+            "question": "この絵の作者は誰ですか？",
+            "answer": "この絵の作者は謙斎鄭善（チョン・ソンピル）です。"
+        },
+        {
+            "question": "この絵の描かれている場所はどこですか？",
+            "answer": "この絵はソウル宮廷洞にある陸相墓とその後ろにある白岳山を描いています。"
+        },
+        {
+            "question": "この絵の保存状態はどうですか？",
+            "answer": "この絵の保存状態は比較的良いです。"
+        },
+        {
+            "question": "この絵にはどのような影響が見られますか？",
+            "answer": "この絵には南宗画風の影響が見られます。"
+        },
+        {
+            "question": "この絵の画風はどのような特徴がありますか？",
+            "answer": "この絵の画風は水墨と薄い淡彩を使い、内面世界を表現する南宗画風の特徴があります。"
+        },
+        {
+            "question": "この絵の歴史的・学術的な意義は何ですか？",
+            "answer": "この絵は記録画としてだけでなく、旌善個人の画風や南宗画風の影響が見られることから歴史的・学術的な意義があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 354,
+        "QA": 247
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_029135",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-06-18",
+        "domain": "음식점",
+        "title": "韓彩堂（한채당）"
+    },
+    "text": "韓彩堂（한채당）\\n\n京畿道 河南市 渼沙東路38\\n\n「韓彩堂（ハンチェダン）」は自然の中で韓国の伝統とモダンな美しさが調和する宮廷料理専門レストランです。\\n\n自然の美と韓屋の美を中心とし、ヘルシーで品のある韓国伝統の味を提供しています。",
+    "QA": [
+        {
+            "question": "韓彩堂（한채당）はどこにありますか？",
+            "answer": "韓彩堂（한채당）は京畿道 河南市 渼沙東路38にあります。"
+        },
+        {
+            "question": "韓彩堂（한채당）はどのようなレストランですか？",
+            "answer": "韓彩堂（한채당）は自然の中で韓国の伝統とモダンな美しさが調和する宮廷料理専門レストランです。"
+        },
+        {
+            "question": "韓彩堂（한채당）ではどのような料理が提供されますか？",
+            "answer": "韓彩堂（한채당）ではヘルシーで品のある韓国伝統の味を提供しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 88,
+        "QA": 129
+    }
+}

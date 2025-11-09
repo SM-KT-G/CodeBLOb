@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_005147",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-13",
+        "domain": "음식점",
+        "title": "クジプ食堂 ( 그집식당 )"
+    },
+    "text": "クジプ食堂\\n\n慶尚北道 アンドン市 プンサン邑 ヨクジョン1ギル2\\n\n様々な韓国式のおかずが味わえる店です。おすすめはキムチチゲです。慶尚北道のアンドン市に位置した韓国料理店です。",
+    "QA": [
+        {
+            "question": "この店の名前は何ですか？",
+            "answer": "クジプ食堂"
+        },
+        {
+            "question": "この店はどこにありますか？",
+            "answer": "慶尚北道アンドン市プンサン邑ヨクジョン1ギル2にあります。"
+        },
+        {
+            "question": "この店では何を食べることができますか？",
+            "answer": "様々な韓国式のおかずが味わえます。特におすすめはキムチチゲです。"
+        },
+        {
+            "question": "この店のお勧め料理は何ですか？",
+            "answer": "おすすめはキムチチゲです。"
+        },
+        {
+            "question": "この店はどんな雰囲気ですか？",
+            "answer": "韓国料理店で、アンドン市に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 67,
+        "QA": 126
+    }
+}

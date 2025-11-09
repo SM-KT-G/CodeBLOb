@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_020276",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-11-04",
+        "domain": "음식점",
+        "title": "馬山チプ（마산집）"
+    },
+    "text": "馬山チプ（마산집）\\n\nソウル特別市 中区 世宗大路14キル22-5\\n\n「馬山（マサン）チプ」は、古い韓屋を改造した店舗で40年以上営業を続けています。アンコウの辛味蒸煮や豚肉の辛味炒め、クッパ、牡蠣や唐辛子のチヂミが人気です。会社帰りに気軽に一杯できる雰囲気で、常連客の多い店です。",
+    "QA": [
+        {
+            "question": "この店の住所はどこですか？",
+            "answer": "ソウル特別市 中区 世宗大路14キル22-5"
+        },
+        {
+            "question": "馬山チプの特徴は何ですか？",
+            "answer": "古い韓屋を改造した店舗で、40年以上営業していることです。"
+        },
+        {
+            "question": "馬山チプで人気のメニューは何ですか？",
+            "answer": "アンコウの辛味蒸煮や豚肉の辛味炒め、クッパ、牡蠣や唐辛子のチヂミが人気です。"
+        },
+        {
+            "question": "馬山チプの雰囲気はどうですか？",
+            "answer": "会社帰りに気軽に一杯できる雰囲気で、常連客の多い店です。"
+        }
+    ],
+    "word_Count": {
+        "text": 104,
+        "QA": 129
+    }
+}

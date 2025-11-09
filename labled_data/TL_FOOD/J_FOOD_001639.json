@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001639",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-08-02",
+        "domain": "음식점",
+        "title": "DUBAI RESTAURANT（두바이레스토랑）"
+    },
+    "text": "DUBAI RESTAURANT（두바이레스토랑）\\n\nソウル特別市 龍山区 梨泰院路192\\n\n「DUBAI RESTAURANT（ドバイレストラン）」は梨泰院に位置しており、本場のアラビア料理を提供しています。シーシャ（水タバコ）も体験できます。",
+    "QA": [
+        {
+            "question": "ダブリンレストランはどこに位置していますか？",
+            "answer": "ダブリンレストランはソウル特別市 龍山区 梨泰院路192に位置しています。"
+        },
+        {
+            "question": "ダブリンレストランではどのような料理が提供されていますか？",
+            "answer": "ダブリンレストランでは本場のアラビア料理が提供されています。"
+        },
+        {
+            "question": "ダブリンレストランではシーシャ（水タバコ）が体験できますか？",
+            "answer": "はい、ダブリンレストランではシーシャ（水タバコ）を体験することができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 91,
+        "QA": 135
+    }
+}

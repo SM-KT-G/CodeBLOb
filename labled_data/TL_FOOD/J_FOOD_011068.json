@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_011068",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2022-09-19",
+        "domain": "음식점",
+        "title": "ナミアイランドブックカフェ（남이아일랜드북까페）"
+    },
+    "text": "ナミアイランドブックカフェ（남이아일랜드북까페）\nカンウォン道チュンチョン市ナミソムギル1\n100ヶ国以上の国から送られてきた童話の本が置いてあるナミアイランドブックカフェ。広くゆったりとした雰囲気の中でおいしいコーヒーやドリンク、ヘルシーなジェラート、パンなどを味わうことができます。",
+    "QA": [
+        {
+            "question": "このカフェはどのような雰囲気ですか？",
+            "answer": "ナミアイランドブックカフェは広くゆったりとした雰囲気のカフェです。"
+        },
+        {
+            "question": "このカフェでは何を楽しむことができますか？",
+            "answer": "このカフェではおいしいコーヒーやドリンク、ヘルシーなジェラート、パンなどを楽しむことができます。"
+        },
+        {
+            "question": "このカフェにはどのような童話の本が置かれていますか？",
+            "answer": "このカフェには100ヶ国以上の国から送られてきた童話の本が置かれています。"
+        }
+    ],
+    "word_Count": {
+        "text": 104,
+        "QA": 134
+    }
+}

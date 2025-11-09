@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_022377",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-01",
+        "domain": "음식점",
+        "title": "三代素麺会館 ( 삼대국수회관 )"
+    },
+    "text": "三代素麺会館 ( 삼대국수회관 )\n済州特別自治道 済州市 三姓路 41\n済州の清浄豚肉のみを使う肉入り麺を味わえる店です。済州特別自治道のジェジュ市に位置した韓食専門店です。おすすめは混ぜ素麺です。",
+    "QA": [
+        {
+            "question": "このお店はどこにありますか？",
+            "answer": "このお店は済州特別自治道済州市三姓路41に位置しています。"
+        },
+        {
+            "question": "このお店の名前は何ですか？",
+            "answer": "このお店の名前は三代素麺会館（삼대국수회관）です。"
+        },
+        {
+            "question": "このお店では何がおすすめですか？",
+            "answer": "このお店では混ぜ素麺がおすすめです。"
+        },
+        {
+            "question": "このお店では何を使った肉入り麺が味わえますか？",
+            "answer": "このお店では済州の清浄豚肉のみを使った肉入り麺が味わえます。"
+        }
+    ],
+    "word_Count": {
+        "text": 73,
+        "QA": 123
+    }
+}

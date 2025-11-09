@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_054267",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42021&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "부산 하단 퀸"
+    },
+    "text": "ヤノルジャ会員特典により、オンシーズン及び特定日、祝日(前日含む)には料金が変わることがあります。 周辺案内としてはハダン駅1番出口まで70m、徒歩2分のエデン公園まで200m、徒歩2分の東亜大学スンハクキャンパスまで750m、徒歩12分の乙淑島公園5km、自動車5分の距離、多大浦海水浴場9km、20分の距離があります。 実習無修証をお持ちでないと入室不可であり、キャンセル及び払い戻しはできない場合がありますので、必ず実習無修証を持参してください。",
+    "QA": [
+        {
+            "question": "ヤノルジャ会員特典はどのようなものですか？",
+            "answer": "ヤノルジャ会員特典には、オンシーズンや特定日、祝日などに料金が変わることがあります。"
+        },
+        {
+            "question": "周辺にどのような施設がありますか？",
+            "answer": "周辺にはハダン駅やエデン公園、東亜大学スンハクキャンパスなどがあります。"
+        },
+        {
+            "question": "実習無修証とは何ですか？",
+            "answer": "実習無修証は入室するために必要であり、持っていない場合は入室できません。キャンセルや払い戻しもできませんので、必ず持参してください。"
+        }
+    ],
+    "word_Count": {
+        "text": 165,
+        "QA": 142
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_029916",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/lamitie",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "L\"amitie"
+    },
+    "text": "L\"amitie\\n\nソウル特別市 江南区 彦州路153キル7\\n\n1999年にオープンしたフレンチレストラン「L\"amitie（ラミティエ）」では、韓国産の食材とフランスの伝統料理法を元に再解釈した料理を楽しめます。",
+    "QA": [
+        {
+            "question": "L'amitieはいつオープンしましたか？",
+            "answer": "1999年にオープンしました。"
+        },
+        {
+            "question": "L'amitieではどのような料理が楽しめますか？",
+            "answer": "韓国産の食材とフランスの伝統料理法を元に再解釈した料理が楽しめます。"
+        }
+    ],
+    "word_Count": {
+        "text": 79,
+        "QA": 69
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_028005",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=394&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=00300000&ccbaCtcd=23&ccbaCpno=2112300300000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1995-03-02",
+        "domain": "자연관광",
+        "title": "강화 석수문"
+    },
+    "text": "江華石水門\\n\n仁川広域市江華郡江華邑菊里883-1\\n\n仁川広域市有形文化財、江華邑の中心部を流れるドンラクチョンの上に設置した水門である。朝鮮粛宗37年(1711)に江華山城の耐性を築いた際に連結して初めて設置したが、光武4年(1900)に甲串渡り場の通路にするために小川語句に移した。その後、1977年に再び、これの位置に移し、復元した。長さは18.2mで高さは2.7m、幅は4.7mだ。虹模様の水門が3個であり、花崗岩を削り、築いた。",
+    "QA": [
+        {
+            "question": "この水門はいつ作られましたか？",
+            "answer": "朝鮮粛宗37年(1711)に江華山城の耐性を築いた際に連結して初めて設置されました。"
+        },
+        {
+            "question": "水門の長さ、高さ、幅はそれぞれいくつですか？",
+            "answer": "水門の長さは18.2mで、高さは2.7m、幅は4.7mです。"
+        },
+        {
+            "question": "水門は何で築かれていますか？",
+            "answer": "水門は花崗岩を削って築かれています。"
+        },
+        {
+            "question": "水門は何に使われていた場所に再び移されたことがありますか？",
+            "answer": "光武4年(1900)に甲串渡り場の通路にするために小川語句に移されました。その後、1977年に再び、元の位置に移し、復元されました。"
+        }
+    ],
+    "word_Count": {
+        "text": 162,
+        "QA": 173
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_083170",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ja",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2023-08-09",
+        "domain": "문화/역사관광",
+        "title": "소소한 일상의 아름다움과 함께 걷자"
+    },
+    "text": "天安(チョンアン)三叉路ナンチャンゴリいるヌンス枝垂れ柳の下にきれいな娘たちを見るためには、天安博物館に行かなければならない。統一を願う人々の心が盛り込まれた覚願寺青銅の大仏が印象的だ。清州ユッコリ市場の些細な日常を眺めるのも人生に活力になるだろう。出典:滞在すればするほど魅力ある忠清。",
+    "QA": [
+        {
+            "question": "天安博物館は何を見るべきですか？",
+            "answer": "天安博物館では、枝垂れ柳の下にきれいな娘たちを見るために必見のスポットです。"
+        },
+        {
+            "question": "覚願寺には何がありますか？",
+            "answer": "覚願寺には、統一を願う人々の心が盛り込まれた青銅の大仏が印象的にそびえ立っています。"
+        },
+        {
+            "question": "清州ユッコリ市場では何ができますか？",
+            "answer": "清州ユッコリ市場では、些細な日常を眺めることができ、人生に活力を与えるでしょう。"
+        }
+    ],
+    "word_Count": {
+        "text": 105,
+        "QA": 122
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_051702",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=489&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=01510000&ccbaCtcd=37&ccbaCpno=2113701510000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1982-02-24",
+        "domain": "문화/역사관광",
+        "title": "고운사가운루"
+    },
+    "text": "コウンサガウンル\\n\n慶尚北道義城郡丹村面高雲寺キル415(九渓里)\\n\n慶尚北道有形文化財、ドゥンウンサンに位置した孤雲寺は新羅文武王元年(681)に義湘大師が建てたお寺として、新羅(シンラ)の崔致遠が僧余地、夫人大使などとともにカウンル・ウファルを立ててこれを記念して彼の雅号を取って''孤雲寺(孤雲寺)''と名前を変えた。その後、雲珠と天祐僧侶が2回にわたって寺を拡張してなり、文禄・慶長の役(1592)の時には、四溟(サミョン)大師が僧兵の基地として使用することもした。1835年の火災で焼失されて新しく建てたが、1970年代に建物の一部がまた失われた。孤雲寺カウンルは屋根側面が八(八部)字形の入母屋造りの重層(中層)の楼閣だ内部の構造物で、彫刻の腕が他の部材が一緒にいることから、補修工事をして部分的な変形があったと考えられる。",
+    "QA": [
+        {
+            "question": "孤雲寺は何年に建てられましたか？",
+            "answer": "孤雲寺は新羅文武王元年(681)に建てられました。"
+        },
+        {
+            "question": "なぜ孤雲寺は孤雲寺と名付けられましたか？",
+            "answer": "孤雲寺は崔致遠の雅号を取って名前を変えました。"
+        },
+        {
+            "question": "孤雲寺は何度か拡張されましたか？",
+            "answer": "孤雲寺は雲珠と天祐僧侶によって2回拡張されました。"
+        },
+        {
+            "question": "孤雲寺はどのような構造の建物ですか？",
+            "answer": "孤雲寺は八部字形の入母屋造りの楼閣です。"
+        },
+        {
+            "question": "孤雲寺は何年に焼失しましたか？",
+            "answer": "孤雲寺は1835年に焼失しました。"
+        },
+        {
+            "question": "孤雲寺は何年に再建されましたか？",
+            "answer": "孤雲寺は1835年の火災後に再建されました。"
+        }
+    ],
+    "word_Count": {
+        "text": 271,
+        "QA": 170
+    }
+}

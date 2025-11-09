@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_035332",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1029&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=00890000&ccbaCtcd=34&ccbaCpno=3413400890000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1984-05-17",
+        "domain": "문화/역사관광",
+        "title": "화성리오층석탑"
+    },
+    "text": "華城里五重石塔 (화성리오층석탑)\\n\n忠清南道扶余郡外山面華城里601番地\\n\n忠清南道文化財資料 , 花岩寺という小さな庵の前庭に位置している塔で、昔の寺の跡は見当たらない。 庵を建てる時に一緒に復元しておいたこの塔は、多くの部分がなくなり、本来の姿を失いつつある。 今は一番下に基壇の一部と見られる平たい四角石を置き、その上に塔身の1階の石を載せた後、4つの屋根石を重ねた姿だが、周辺に屋根石がもう一つ残っており、本来は5階石塔だったと見られる。 それでも残っている塔身の1階の石は、3~3程度削られており、塔全体が崩れるような危険を抱えている。 屋根石は底面に4段ずつの支えがあり、軒は直線を保つ 両端から徐々に曲線を描いている。 屋根石の姿や塔の全体的な構成様式から見て、高麗時代前期に建てられた塔と推測される。",
+    "QA": [
+        {
+            "question": "この華城里五重石塔はどこに位置していますか？",
+            "answer": "忠清南道扶余郡外山面華城里601番地に位置しています。"
+        },
+        {
+            "question": "華城里五重石塔はどのような場所に建っていますか？",
+            "answer": "華岩寺という小さな庵の前庭に建っています。"
+        },
+        {
+            "question": "華城里五重石塔は昔の寺の跡に建てられたものですか？",
+            "answer": "いいえ、昔の寺の跡は見当たらないようです。庵を建てる時に一緒に復元されたものです。"
+        },
+        {
+            "question": "華城里五重石塔は元々どのような姿をしていましたか？",
+            "answer": "元々は5階石塔で、一番下に基壇の一部と見られる平たい四角石を置き、その上に塔身の1階の石を載せ、4つの屋根石を重ねる形状でした。"
+        },
+        {
+            "question": "華城里五重石塔の現在の状態はどうですか？",
+            "answer": "多くの部分がなくなり、本来の姿を失いつつあります。塔身の1階の石は削られており、塔全体が崩れる危険を抱えています。"
+        },
+        {
+            "question": "華城里五重石塔はいつ頃建てられたと推測されていますか？",
+            "answer": "屋根石の姿や塔の構成様式から見て、高麗時代前期に建てられたと推測されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 264,
+        "QA": 287
+    }
+}

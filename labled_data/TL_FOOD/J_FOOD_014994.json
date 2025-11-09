@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_014994",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-12",
+        "domain": "음식점",
+        "title": "ヨンソジプ ( 용소집 )"
+    },
+    "text": "ヨンソジプ \\n\n江原道 ガンヌン市 ジュムンジン邑 グシジャンギル3-3\\n\n様々な韓国料理が味わえる店です。江原道のガンヌン市に位置した韓国料理店です。代表的なメニューはたらの頭の蒸し物です。",
+    "QA": [
+        {
+            "question": "この店の名前は何ですか？",
+            "answer": "この店の名前はヨンソジプです。"
+        },
+        {
+            "question": "この店はどこに位置していますか？",
+            "answer": "この店は江原道のガンヌン市に位置しています。"
+        },
+        {
+            "question": "この店ではどんな料理が味わえますか？",
+            "answer": "この店では様々な韓国料理が味わえます。特に代表的なメニューはたらの頭の蒸し物です。"
+        }
+    ],
+    "word_Count": {
+        "text": 71,
+        "QA": 90
+    }
+}

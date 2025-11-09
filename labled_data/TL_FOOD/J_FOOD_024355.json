@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_024355",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-20",
+        "domain": "음식점",
+        "title": "駅前会館 ( 역전회관 )"
+    },
+    "text": "駅前会館\\n\nソウル特別市 麻浦区 トジョンロ37ギル47\\n\n「駅前会館（ヨクチョンフェグァン）」は、1962年に龍山駅の向かいで店を始めた、パサップルコギと牛の血固め入りスープ定食が看板メニューの韓国料理店+M19です。その時その時代の味を守るという信念をもち、いまでは3代続く老舗となっています。",
+    "QA": [
+        {
+            "question": "この駅前会館はいつオープンしましたか？",
+            "answer": "「駅前会館（ヨクチョンフェグァン）」は、1962年にオープンしました。"
+        },
+        {
+            "question": "駅前会館の看板メニューは何ですか？",
+            "answer": "駅前会館の看板メニューは、パサップルコギと牛の血固め入りスープ定食です。"
+        },
+        {
+            "question": "駅前会館はどのような料理店ですか？",
+            "answer": "駅前会館は、韓国料理店で、その時その時代の味を守るという信念を持っています。"
+        },
+        {
+            "question": "この駅前会館は何代目の老舗ですか？",
+            "answer": "この駅前会館は3代続く老舗です。"
+        }
+    ],
+    "word_Count": {
+        "text": 110,
+        "QA": 143
+    }
+}

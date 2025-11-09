@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_031048",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/conversation",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "CONVERSATION"
+    },
+    "text": "CONVERSATION\\n\nソウル特別市 江南区 新沙洞 554-31\\n\nロシア・モスクワでデザートカフェで有名な「CONVERSATION」が韓国初にカロスキルにできました。絵本だけに存在すると思っていた一段一段積もったパンやクリーム、フルーツで重ねて積み上げたたっぷりのケーキが目でも口でも楽しめる「CONVERSATION」。 目で見ただけでも幸せになる気分～",
+    "QA": [
+        {
+            "question": "CONVERSATIONはどこにありますか？",
+            "answer": "CONVERSATIONはソウル特別市江南区新沙洞554-31にあります。"
+        },
+        {
+            "question": "CONVERSATIONはどんなお店ですか？",
+            "answer": "CONVERSATIONはロシア・モスクワで有名なデザートカフェで、韓国初のカロスキルになりました。パンやクリーム、フルーツで重ねて積み上げたたっぷりのケーキが楽しめます。"
+        },
+        {
+            "question": "CONVERSATIONのケーキはどんな特徴がありますか？",
+            "answer": "CONVERSATIONのケーキは、一段一段積もったパンやクリーム、フルーツで重ねて作られており、見た目でも口でも楽しむことができます。目で見ただけでも幸せな気分になります。"
+        }
+    ],
+    "word_Count": {
+        "text": 135,
+        "QA": 207
+    }
+}

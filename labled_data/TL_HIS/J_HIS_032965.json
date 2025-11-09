@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_032965",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1030&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=00910000&ccbaCtcd=34&ccbaCpno=3413400910000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1984-05-17",
+        "domain": "문화/역사관광",
+        "title": "퇴수서원"
+    },
+    "text": "退修書院 (퇴수서원)\\n\n忠清南道扶余郡臨川面萬沙里191番地\\n\n忠清南道文化財資料、豊陽趙氏3人(石谷趙博·成江早見所·退水斎趙成福)を称えている書院である。 趙博(1577~1650)は宣祖39年(1606)に科挙に及第して官職に就いた。 国政を遂行する最高の官僚集団である党上官の中で統政大夫を務めた。 早見所(1611~1677)は朝鮮後期の文臣で、官職が禁句県令に達したが辞職し学問と後学を教えることに専念した。チョ·ソンボク(1681~1723)は官職が大使館に達したが、政治的に反対する人々によって流刑され、そこで死を迎えた。 この書院は英祖33年(1757)、細道面東沙里に初めて建てられたが、最初はチョ·ソンボクの位牌だけを祀った。 その後、1957年に今いる場所に移り、早泊と早見所を一緒に祀り始めた。",
+    "QA": [
+        {
+            "question": "この書院はどこにありますか？",
+            "answer": "この書院は忠清南道扶余郡臨川面萬沙里にあります。"
+        },
+        {
+            "question": "この書院は誰を称えていますか？",
+            "answer": "この書院は趙博、早見所、退水斎趙成福を称えています。"
+        },
+        {
+            "question": "趙博はどのような人物でしたか？",
+            "answer": "趙博は宣祖39年に科挙に及第し、統政大夫を務めた官僚でした。"
+        },
+        {
+            "question": "早見所は何をした人物でしたか？",
+            "answer": "早見所は辞職し学問と後学の教育に専念した文臣でした。"
+        },
+        {
+            "question": "チョ・ソンボクはどのような境遇でしたか？",
+            "answer": "チョ・ソンボクは官職が大使館に達しましたが、政治的に反対する人々によって流刑されました。"
+        },
+        {
+            "question": "この書院はいつ建てられましたか？",
+            "answer": "この書院は英祖33年に初めて建てられ、その後1957年に現在の場所に移りました。"
+        }
+    ],
+    "word_Count": {
+        "text": 266,
+        "QA": 209
+    }
+}

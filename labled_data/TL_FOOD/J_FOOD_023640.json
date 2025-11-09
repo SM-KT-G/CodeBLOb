@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_023640",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-10-08",
+        "domain": "음식점",
+        "title": "順天家 ( 순천가 )"
+    },
+    "text": "順天家 ( 순천가 )\\n\nソウル特別市 鐘路区 水標路 109-2\\n\n鐘路の変わらぬ名店で、韓国式BBQとチゲの両方を味わえるお店です。ソウル特別市のジョンノ区に位置した韓国料理店です。おすすめはサムギョプサルです。",
+    "QA": [
+        {
+            "question": "順天家はどこにありますか？",
+            "answer": "順天家はソウル特別市鐘路区水標路109-2にあります。"
+        },
+        {
+            "question": "順天家ではどんな料理が楽しめますか？",
+            "answer": "順天家では韓国式BBQとチゲの両方が楽しめます。特におすすめはサムギョプサルです。"
+        },
+        {
+            "question": "順天家のお店の雰囲気はどうですか？",
+            "answer": "順天家は鐘路の変わらぬ名店であり、落ち着いた雰囲気です。"
+        },
+        {
+            "question": "順天家はジョンノ区に位置していますか？",
+            "answer": "はい、順天家はジョンノ区に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 80,
+        "QA": 134
+    }
+}

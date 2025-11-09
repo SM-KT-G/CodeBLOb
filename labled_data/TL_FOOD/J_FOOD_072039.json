@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_072039",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2022-10-21",
+        "domain": "음식점",
+        "title": "명동보리밥"
+    },
+    "text": "※営業時間11:00~22:00、天安の代表的な郷土料理店だ。カキ栄養ご飯、ボッサムが代表するメニューである。味噌とチョングッチャンは、国産豆で直接作っている。",
+    "QA": [
+        {
+            "question": "このレストランの営業時間は何時から何時までですか？",
+            "answer": "このレストランの営業時間は11:00から22:00までです。"
+        },
+        {
+            "question": "このレストランの代表的な郷土料理は何ですか？",
+            "answer": "このレストランの代表的な郷土料理はカキ栄養ご飯とボッサムです。"
+        },
+        {
+            "question": "味噌とチョングッチャンはどのように作られていますか？",
+            "answer": "味噌とチョングッチャンは、国産豆で直接作られています。"
+        }
+    ],
+    "word_Count": {
+        "text": 58,
+        "QA": 118
+    }
+}

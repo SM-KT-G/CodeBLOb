@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_007568",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-13",
+        "domain": "음식점",
+        "title": "シゴルトゥッベギシヒャン 安東中央( 시골뚝배기시향설렁탕 안동중앙 )"
+    },
+    "text": "シゴルトゥッベギシヒャン 安東中央\\n\n慶尚北道 アンドン市 ジュンアンシジャンギル7\\n\n様々なさっぱりした韓国のスープ料理が味わえる店です。おすすめはカルビタンです。慶尚北道のアンドン市に位置した韓国料理店です。",
+    "QA": [
+        {
+            "question": "この店はどの地域に位置していますか？",
+            "answer": "この店は慶尚北道のアンドン市に位置しています。"
+        },
+        {
+            "question": "この店ではどのような料理が味わえますか？",
+            "answer": "この店では様々なさっぱりした韓国のスープ料理が味わえます。特におすすめはカルビタンです。"
+        },
+        {
+            "question": "この店の住所は何ですか？",
+            "answer": "この店の住所は安東中央、慶尚北道アンドン市ジュンアンシジャンギル7です。"
+        }
+    ],
+    "word_Count": {
+        "text": 79,
+        "QA": 112
+    }
+}

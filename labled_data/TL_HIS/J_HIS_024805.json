@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_024805",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1011&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=00640000&ccbaCtcd=22&ccbaCpno=3412200640000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1989-05-29",
+        "domain": "문화/역사관광",
+        "title": "양암정"
+    },
+    "text": "陽暗亭 (양암정)\\n\n大邱広域市\\n\n朝鮮時代 , 大邱広域市文化財資料 , 陽岩亭は、ソダム·ホンウィが光海君4年(1612年)に学友たちと共に自然を楽しみながら学問を磨くために建てた亭子だ。 高宗5年(1868)になくなると、高宗25年(1888)、旧跡に建て直した。 景色が秀麗な渭川の横の絶壁の端に位置し、渭川周辺の南側方向の山と広い野原を眺めている。 建物としては出入り口と亭子があり、周囲は塀を積み上げた。 出入り口に入る右側に陽岩亭と刻んだ岩がある。 規模は前面3間、側面1.5間だ。 中央のオンドル部屋1間を三面で床が取り囲む独特な構成だ。 天然岩盤の上に丸く整えられた礎石には丸い柱、自然石でできた礎石には四角柱を区分して建てた。",
+    "QA": [
+        {
+            "question": "陽岩亭はいつ建てられましたか？",
+            "answer": "陽岩亭は光海君4年(1612年)に建てられました。"
+        },
+        {
+            "question": "陽岩亭はどのような目的で建てられましたか？",
+            "answer": "陽岩亭はソダム·ホンウィが学問を磨くために自然を楽しむために建てられました。"
+        },
+        {
+            "question": "陽岩亭はどこに位置していますか？",
+            "answer": "陽岩亭は渭川の横の絶壁の端に位置しています。"
+        },
+        {
+            "question": "陽岩亭の建物の特徴は何ですか？",
+            "answer": "陽岩亭は出入り口と亭子があり、周囲には塀があります。中央の部屋はオンドルで、床が取り囲んでいます。"
+        },
+        {
+            "question": "陽岩亭の建物はどのような構造になっていますか？",
+            "answer": "陽岩亭は天然岩盤の上に丸く整えられた礎石に建てられており、丸い柱と自然石でできた礎石が使用されました。"
+        }
+    ],
+    "word_Count": {
+        "text": 238,
+        "QA": 201
+    }
+}

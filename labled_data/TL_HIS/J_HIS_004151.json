@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_004151",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101933",
+        "collectedDate": "2023-10-06",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "대구은행역"
+    },
+    "text": "テグウンヘンヨク → テグウンヘンヨク \\n\n大韓民国のDaegu Bank station（大邱銀行駅）は、広域市寿城区の大邱銀行交差点に位置し、大邱都市鉄道2号線の電車駅および管理駅です。この駅はハーザートンネルを通じて慶大病院駅と接続しており、副役名は大邱教育庁です。\\n\n",
+    "QA": [
+        {
+            "question": "韓国のDaegu Bank駅はどこに位置していますか？",
+            "answer": "Daegu Bank駅は広域市寿城区の大邱銀行交差点に位置しています。"
+        },
+        {
+            "question": "Daegu Bank駅はどの鉄道路線の駅ですか？",
+            "answer": "Daegu Bank駅は大邱都市鉄道2号線の駅です。"
+        },
+        {
+            "question": "Daegu Bank駅と慶大病院駅はどのように接続されていますか？",
+            "answer": "Daegu Bank駅と慶大病院駅はハーザートンネルを通じて接続されています。"
+        },
+        {
+            "question": "Daegu Bank駅の副役名は何ですか？",
+            "answer": "Daegu Bank駅の副役名は大邱教育庁です。"
+        }
+    ],
+    "word_Count": {
+        "text": 102,
+        "QA": 167
+    }
+}

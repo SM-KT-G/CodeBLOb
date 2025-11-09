@@ -1,0 +1,55 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_037637",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1247&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=79&ccbaAsno=06570000&ccbaCtcd=31&ccbaCpno=4413106570000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2016-02-15",
+        "domain": "문화/역사관광",
+        "title": "이천 수광리 오름가마"
+    },
+    "text": "利川水広里オルムガマ (이천 수광리 오름가마)\\n\n京畿道利川市慶忠大路3234 (新屯面)\\n\n昭和24年初築1962年改築、国家登録文化財、窯構造 : 階段式間窯(12間) 窯長 : 全長 27m(幅 2~3m) 窯傾斜 : 22-25 窯1949年初築の漆器窯を1962年改築した12間階段式間窯で、壁体および天井をレンガ(棒筒部はマンセンイ)で築造し、外部は粘土を塗って仕上げた。 Οの長さが約27mで長く、間数が12間と多いのが特徴だが、内壁の幅が1番目の間は1.65m、12番目の間は3mで後ろに上がるほど広くなる構造であり、かまどから煙突を眺めながら右側に各間ごとに出入口1つ、火付け窓が1つずつ設置されている。",
+    "QA": [
+        {
+            "question": "このオルムガマはいつ初築されましたか？",
+            "answer": "昭和24年初築、1962年に改築されました。"
+        },
+        {
+            "question": "オルムガマの窯構造はどのようになっていますか？",
+            "answer": "オルムガマは階段式間窯であり、全長27m、幅2〜3mです。"
+        },
+        {
+            "question": "オルムガマの窯傾斜は何度ですか？",
+            "answer": "オルムガマの窯傾斜は22-25度です。"
+        },
+        {
+            "question": "オルムガマの特徴的な壁体と天井は何で築造されていますか？",
+            "answer": "オルムガマの壁体と天井はレンガで築造されています。"
+        },
+        {
+            "question": "オルムガマの外部はどのように仕上げられていますか？",
+            "answer": "オルムガマの外部は粘土を塗って仕上げられています。"
+        },
+        {
+            "question": "オルムガマの間数は何間ですか？",
+            "answer": "オルムガマは12間あります。"
+        },
+        {
+            "question": "オルムガマの特徴的な構造について教えてください。",
+            "answer": "オルムガマの内壁は1番目の間から12番目の間まで幅が異なり、後ろに上がるほど広くなる構造となっています。"
+        },
+        {
+            "question": "オルムガマにはどのような窓や出入口がありますか？",
+            "answer": "オルムガマには各間ごとに出入口1つと火付け窓が1つずつ設置されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 230,
+        "QA": 290
+    }
+}

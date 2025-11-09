@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_055475",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/pajuok-bijeon-branch",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "パジュオク 碑前"
+    },
+    "text": "パジュオク 碑前\\n\n京畿道 ピョンテク市 ウンアムロ164\\n\n韓国のグルメ番組で数回紹介された店で、無添加の牛骨スープを使っています。京畿道のピョンテク市に位置した韓食専門店です。代表的なメニューはコムタンです。",
+    "QA": [
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "京畿道のピョンテク市に位置しています。"
+        },
+        {
+            "question": "この店はどんな料理を提供していますか？",
+            "answer": "この店では無添加の牛骨スープを使ったコムタンが代表的なメニューです。"
+        },
+        {
+            "question": "この店はどのような特徴がありますか？",
+            "answer": "この店は韓国のグルメ番組で数回紹介されたことがあり、無添加の牛骨スープを使っていることが特徴です。"
+        }
+    ],
+    "word_Count": {
+        "text": 79,
+        "QA": 111
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_007214",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "サムギョプサル專門店 大統領（삼겹살전문점대통령）"
+    },
+    "text": "サムギョプサル專門店 大統領（삼겹살전문점대통령）\\n\nソウル特別市 中区 奨忠壇路 249-24\\n\n韓国式BBQ専門店です。おすすめはサムギョプサルです。ソウル特別市のトンデムンに位置したバーベキュー専門店です。",
+    "QA": [
+        {
+            "question": "この店の名前は何ですか？",
+            "answer": "この店の名前はサムギョプサル専門店 大統領です。"
+        },
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "この店の場所はソウル特別市中区奨忠壇路249-24です。"
+        },
+        {
+            "question": "この店では何をおすすめしますか？",
+            "answer": "この店ではサムギョプサルをおすすめします。"
+        },
+        {
+            "question": "この店はどんな料理を提供していますか？",
+            "answer": "この店は韓国式BBQを専門としており、サムギョプサルなどが提供されています。"
+        },
+        {
+            "question": "この店はどのような雰囲気ですか？",
+            "answer": "この店はソウル特別市のトンデムンに位置しており、バーベキュー専門店として活気のある雰囲気があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 79,
+        "QA": 173
+    }
+}

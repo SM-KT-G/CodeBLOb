@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_005759",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2022-12-08",
+        "domain": "숙박",
+        "title": "스탕달호텔"
+    },
+    "text": "スタンダルホテル\nスタンダルホテルは大田広域市儒城区奉明洞にある。現代的な感覚が際立つ外観と洗練された雰囲気を演出するインテリアが目立ちます。客室はPresidential Suite Penthouseなど7つのタイプに分かれており、客室総数は70室です。付属施設には、モダンな雰囲気のイタリアンレストラン「14番街レストラン」がある。専門イタリア料理はもちろん、一般的な料理も味わえる。儒城ICから近く、周辺には儒城温泉公園、エキスポ橋と加水原橋をつなぐ甲川ヌリギル1コースがある。",
+    "QA": [
+        {
+            "question": "スタンダルホテルはどこにありますか？",
+            "answer": "スタンダルホテルは大田広域市儒城区奉明洞にあります。"
+        },
+        {
+            "question": "スタンダルホテルの客室は何種類ありますか？",
+            "answer": "スタンダルホテルの客室はPresidential Suite Penthouseなど7つのタイプに分かれており、客室総数は70室です。"
+        },
+        {
+            "question": "スタンダルホテルの付属施設には何がありますか？",
+            "answer": "スタンダルホテルの付属施設には、モダンな雰囲気のイタリアンレストラン「14番街レストラン」があります。"
+        },
+        {
+            "question": "スタンダルホテルの周辺にはどんな観光地がありますか？",
+            "answer": "スタンダルホテルの周辺には儒城温泉公園、エキスポ橋と加水原橋をつなぐ甲川ヌリギル1コースがあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 178,
+        "QA": 206
+    }
+}

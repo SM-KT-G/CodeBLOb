@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_029302",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-14",
+        "domain": "음식점",
+        "title": "海州冷麺（해주냉면）"
+    },
+    "text": "海州冷麺\\n\nソウル特別市 松坡区 百済古墳路7キル 8-16\\n\nソウル特別市松坡区にある海州冷麺（ヘジュネンミョン）は1983年にオープンしたお店で代表メニューは冷麺です。",
+    "QA": [
+        {
+            "question": "海州冷麺の場所はどこですか？",
+            "answer": "ソウル特別市 松坡区 百済古墳路7キル 8-16にあります。"
+        },
+        {
+            "question": "海州冷麺はいつオープンしましたか？",
+            "answer": "1983年にオープンしました。"
+        },
+        {
+            "question": "海州冷麺の代表メニューは何ですか？",
+            "answer": "代表メニューは冷麺です。"
+        }
+    ],
+    "word_Count": {
+        "text": 64,
+        "QA": 77
+    }
+}

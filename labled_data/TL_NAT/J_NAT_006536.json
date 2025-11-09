@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_006536",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=764&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=00050000&ccbaCtcd=45&ccbaCpno=2334500050000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2012-12-31",
+        "domain": "자연관광",
+        "title": "금이성"
+    },
+    "text": "金伊城 (금이성)\\n\n世宗特別自治市殿東面松城里山86番地の他2筆地\\n\n世宗特別自治市記念物 , 金伊城は殿洞面松城里に位置し、周囲714m、高さ3~10m、幅2mだ。 「鉄城」と呼ばれ、金城と表記したところ、三国史記に金峴城がまさにこの城だ。 金沙里側から正北に30里を延びた山脈の最高峰である金城山に構築され、北に戦意·天安方面、南に錦江一帯を見下ろしている。 典型的な百済山城で、険しい地形を利用して堅固に構築され、鉄甕城だ。",
+    "QA": [
+        {
+            "question": "金伊城はどこに位置していますか？",
+            "answer": "金伊城は世宗特別自治市殿東面松城里山86番地の他2筆地に位置しています。"
+        },
+        {
+            "question": "金伊城の特徴は何ですか？",
+            "answer": "金伊城は周囲714m、高さ3〜10m、幅2mで、典型的な百済山城であり、険しい地形を利用して堅固に構築されています。また、鉄甕城とも呼ばれています。"
+        },
+        {
+            "question": "金伊城は何と呼ばれているのですか？",
+            "answer": "金伊城は「鉄城」と呼ばれており、また三国史記では金峴城と表記されています。"
+        },
+        {
+            "question": "金伊城はどのような地域を見下ろしていますか？",
+            "answer": "金伊城は北に戦意・天安方面、南に錦江一帯を見下ろしています。"
+        },
+        {
+            "question": "金伊城はどの山に構築されていますか？",
+            "answer": "金伊城は金城山という山脈の最高峰に構築されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 159,
+        "QA": 211
+    }
+}

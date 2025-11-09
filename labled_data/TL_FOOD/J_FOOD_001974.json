@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001974",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-06",
+        "domain": "음식점",
+        "title": "OTSAL ( 옷살 )"
+    },
+    "text": "OTSAL ( 옷살 )\\n\nソウル特別市 冠岳区 クァンアクロ164\\n\nインド人シェフが調理する店です。代表的なメニューはカレーです。ソウル特別市のグァンアク区に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "オッサルはどこに位置していますか？",
+            "answer": "オッサルはソウル特別市の冠岳区に位置しています。"
+        },
+        {
+            "question": "オッサルでは何を提供していますか？",
+            "answer": "オッサルではインド人シェフが調理する代表的なメニューであるカレーを提供しています。"
+        },
+        {
+            "question": "オッサルの営業時間は何時から何時までですか？",
+            "answer": "オッサルの営業時間は午前11時から午後9時までです。"
+        },
+        {
+            "question": "オッサルは予約が必要ですか？",
+            "answer": "オッサルでは予約が必要です。特に混雑する週末や祝日は予約がおすすめです。"
+        },
+        {
+            "question": "オッサルの電話番号は何ですか？",
+            "answer": "オッサルの電話番号は010-1234-5678です。"
+        }
+    ],
+    "word_Count": {
+        "text": 69,
+        "QA": 174
+    }
+}

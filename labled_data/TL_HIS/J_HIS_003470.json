@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_003470",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1194&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=79&ccbaAsno=00400000&ccbaCtcd=11&ccbaCpno=4411100400000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2002-09-13",
+        "domain": "문화/역사관광",
+        "title": "서울 창녕위궁 재사"
+    },
+    "text": "ソウル昌寧慰宮斎舎 (서울 창녕위궁 재사)\\n\nソウル江北区月渓路173(番洞)\\n\nサランチェの一部 19世紀 , 国家登録文化財 , 高い長台石基壇に囲まれた伝統韓国式木造家屋である。朝鮮王朝第23代純祖の釜馬昌寧尉·金秉柱の斎舍として、韓日合併後、金秉柱の孫·金錫珍が日本の男爵位を断って殉国自決した歴史的意味を持つ建築物である。 純祖の釜馬キム·ビョンジュ斎舎として建てられた部分を母屋とし、サランチェは他の場所から移築したと伝えられており、朝鮮戦争時に被爆して斎舎と門屋を建て直した。",
+    "QA": [
+        {
+            "question": "このソウル昌寧慰宮斎舎はどのような建物ですか？",
+            "answer": "ソウル昌寧慰宮斎舎は、高い長台石基壇に囲まれた伝統韓国式木造家屋で、朝鮮王朝第23代純祖の釜馬昌寧尉·金秉柱の斎舍として建てられました。"
+        },
+        {
+            "question": "誰がこの斎舎を建てたのですか？",
+            "answer": "この斎舎は、朝鮮王朝第23代純祖の釜馬昌寧尉·金秉柱が建てました。"
+        },
+        {
+            "question": "この斎舎にはどのような歴史的な意味がありますか？",
+            "answer": "韓日合併後、金秉柱の孫·金錫珍が日本の男爵位を断って殉国自決したため、この斎舎は歴史的な意味を持っています。"
+        },
+        {
+            "question": "サランチェはどこから移築されたのですか？",
+            "answer": "サランチェは他の場所から移築されたと伝えられていますが、具体的な場所はわかっていません。"
+        },
+        {
+            "question": "この斎舎は朝鮮戦争時に被爆していると言われていますか？",
+            "answer": "はい、朝鮮戦争時に被爆してしまいましたが、斎舎と門屋は建て直されました。"
+        }
+    ],
+    "word_Count": {
+        "text": 181,
+        "QA": 252
+    }
+}

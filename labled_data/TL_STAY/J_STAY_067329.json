@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_067329",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2022-09-21",
+        "domain": "숙박",
+        "title": "on온모텔"
+    },
+    "text": "オンオンモーテル (on온모텔)\\n\n慶尚南道高城郡高城邑東外路151番キル24\\n\n高城邑は慶尚南道に位置し、自信を持って言えるほど素晴らしい宿泊施設があります。一般室、特室、VIPルーム、スイートルームの4つの種類の客室で構成されており、まるで高級ホテルのようなモーテルです。(情報提供者:高城郡庁)",
+    "QA": [
+        {
+            "question": "高城邑はどこの道に位置していますか？",
+            "answer": "慶尚南道に位置しています。"
+        },
+        {
+            "question": "高城邑にはどんな種類の客室がありますか？",
+            "answer": "一般室、特室、VIPルーム、スイートルームの4つの種類の客室があります。"
+        },
+        {
+            "question": "高城邑のモーテルはどのような施設ですか？",
+            "answer": "高級ホテルのようなモーテルで、自信を持って言えるほど素晴らしい宿泊施設です。"
+        }
+    ],
+    "word_Count": {
+        "text": 111,
+        "QA": 106
+    }
+}

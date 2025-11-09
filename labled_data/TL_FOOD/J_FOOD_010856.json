@@ -1,0 +1,31 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_010856",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-05",
+        "domain": "음식점",
+        "title": "ドルマダンクッパ ( 돌마당국밥 )"
+    },
+    "text": "ドルマダンクッパ ( 돌마당국밥 )\\n\n全羅南道 順天市 トクウォルギル54\\n\n熱々の韓国式スープ料理が味わえる店です。全羅南道のスンチョン市に位置した韓食専門店です。おすすめは牛肉クッパです。",
+    "QA": [
+        {
+            "question": "ドルマダンクッパはどのような料理を提供していますか？",
+            "answer": "ドルマダンクッパは熱々の韓国式スープ料理が味わえる店です。特に牛肉クッパがおすすめです。"
+        },
+        {
+            "question": "ドルマダンクッパはどこに位置していますか？",
+            "answer": "ドルマダンクッパは全羅南道順天市のトクウォルギル54に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 72,
+        "QA": 92
+    }
+}

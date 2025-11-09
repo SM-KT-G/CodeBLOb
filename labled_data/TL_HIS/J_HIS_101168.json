@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_101168",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1103&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=02500000&ccbaCtcd=37&ccbaCpno=3413702500000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1991-09-06",
+        "domain": "문화/역사관광",
+        "title": "제남헌"
+    },
+    "text": "慶尚北道文化財資料、興海君の官吏たちが業務を処理していた官衙建物です。いつ初めて建てられたのか分からず、これは市に出たという道光15年(1835年)という上梁門だけが残っていますが、これも建設当時のものなのか中建上梁門なのかは明らかではありません。その後、1925年に元の場所から東南に70m離れた興海邑事務所に移りましたが、1976年に元の場所に移築されました。興海邑城と官衙の建物は日帝強占期にすべて取り壊され、この建物だけが残った。前面7間·側面3間の規模に一字型の平面を備えた建物です屋根は側面から見て八の字型の入母屋造りです",
+    "QA": [
+        {
+            "question": "この官衙建物はいつ建てられましたか？",
+            "answer": "建設年代ははっきりしておらず、残っている上梁門が道光15年（1835年）という年号が刻まれていますが、それが建設当時のものなのかは不明です。"
+        },
+        {
+            "question": "興海邑事務所に移転された理由は何ですか？",
+            "answer": "興海邑事務所に移転されたのは1925年で、元の場所から70m離れた場所に移転しました。移転理由については具体的な記録が残っていませんが、行政上の必要や施設の改善などが関係していた可能性があります。"
+        },
+        {
+            "question": "興海邑城と官衙の建物が取り壊された理由は何ですか？",
+            "answer": "興海邑城と官衙の建物が日帝強占期に取り壊された理由については、具体的な記録が残っていません。しかし、当時の政治的状況や施設の利用目的が関係していた可能性が考えられます。"
+        },
+        {
+            "question": "この建物の平面や屋根の形について教えてください。",
+            "answer": "この建物は前面7間・側面3間の一字型の平面を持ち、側面から見て八の字型の入母屋造りの屋根をしています。"
+        }
+    ],
+    "word_Count": {
+        "text": 195,
+        "QA": 286
+    }
+}

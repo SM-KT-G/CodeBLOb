@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_076060",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=14&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=11&ccbaAsno=01520000&ccbaCtcd=11&ccbaCpno=1111101520000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1973-12-31",
+        "domain": "문화/역사관광",
+        "title": "비변사등록"
+    },
+    "text": "非弁士登録\\n\nソウル冠岳区冠岳路1,103号棟ソウル大学奎章閣韓国学研究院(新林洞、ソウル大学)\\n\n備辺司の略称が比国(備局)であり、''比国登録(備局謄錄)''とも言う。壬辰倭乱より以前の『備辺司登録』は全焼し、現在は1617年(光海君9)から1892年(高宗29)まで276年間の記録273本が残っている。登録は1年1本に作成するのが原則や、事件が多い時には2本または3本で作成することもあった。備辺司は高宗2年(1865)に廃止されたにもかかわらず、1892年まで登録が記録されたのは備辺司を廃止した後、議政府(ウィジョンブ)が備辺司の役割を引き続き担当し、『、議政府(ウィジョンブ)登録』と一緒に名称が違うだけで、従来と同じ体制の登録を作成してきたからだ。朝鮮後期の国政全般に対する基本資料が収録されており、『、承政院日記(承政院日記)』、『日省録(日省錄)』などとともに『朝鮮王朝実録』編纂の重要な資料として利用された。",
+    "QA": [
+        {
+            "question": "何が備辺司登録の略称ですか？",
+            "answer": "備辺司登録の略称は比国(備局)です。"
+        },
+        {
+            "question": "備辺司登録がいつからいつまでの記録が残っていますか？",
+            "answer": "備辺司登録は1617年から1892年までの記録が残っています。"
+        },
+        {
+            "question": "備辺司登録はいつ作成するのが原則ですか？",
+            "answer": "備辺司登録は1年1本に作成するのが原則ですが、事件が多い時には2本または3本で作成することもありました。"
+        },
+        {
+            "question": "備辺司はいつ廃止されましたか？",
+            "answer": "備辺司は高宗2年(1865)に廃止されました。"
+        },
+        {
+            "question": "なぜ1892年まで登録が記録されたのですか？",
+            "answer": "1892年まで登録が記録されたのは、備辺司を廃止した後、議政府(ウィジョンブ)が備辺司の役割を引き続き担当し、『、議政府(ウィジョンブ)登録』と一緒に名称が違うだけで、従来と同じ体制の登録を作成してきたからです。"
+        }
+    ],
+    "word_Count": {
+        "text": 305,
+        "QA": 239
+    }
+}

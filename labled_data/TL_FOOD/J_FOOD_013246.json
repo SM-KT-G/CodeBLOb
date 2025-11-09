@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_013246",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-09-16",
+        "domain": "음식점",
+        "title": "ヘジンフェッチプ（해진횟집）"
+    },
+    "text": "ヘジンフェッチプ（해진횟집）\\n\n済州特別自治道 済州市 西埠頭キル22\\n\n済州市塔洞の西埠頭の防波堤入口に位置する「ヘジンフェッチプ」は、2階と3階が一面ガラス張りになっているので、新鮮な刺身を楽しみながら青い海を眺めることができます。",
+    "QA": [
+        {
+            "question": "ヘジンフェッチプはどこに位置していますか？",
+            "answer": "ヘジンフェッチプは済州特別自治道 済州市 西埠頭キル22に位置しています。"
+        },
+        {
+            "question": "ヘジンフェッチプの特徴は何ですか？",
+            "answer": "ヘジンフェッチプの特徴は、2階と3階が一面ガラス張りになっていることです。"
+        },
+        {
+            "question": "ヘジンフェッチプからは何を楽しむことができますか？",
+            "answer": "ヘジンフェッチプからは新鮮な刺身を楽しみながら青い海を眺めることができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 88,
+        "QA": 128
+    }
+}

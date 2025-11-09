@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_066115",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=578&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=02890000&ccbaCtcd=38&ccbaCpno=2113802890000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1993-01-08",
+        "domain": "문화/역사관광",
+        "title": "밀양 탁삼재 유물"
+    },
+    "text": "朝鮮時代、慶尚南道有形文化財であるタクサムジェは壬辰倭乱の時忠孝の名前で高く評価されるキムユブをはじめ、丙子胡乱の時も殉死したチェ氏、ソン氏などの徳目を称えるために1905年に建設された家です。タクサムジェという名前は、忠、孝、熱、この三つの徳目を一族で成し遂げた行動を示すために下した二文字の\"タクサム\"から由来されました。このタクサムジェには構内紙など古文書44点と木で作った雨1点、扁額2点、ノクグォン1点などが所蔵されています。また、タクサムジェの隣にはキムユブの忠孝を称えるためのチュンヒョガクが建てられています。",
+    "QA": [
+        {
+            "question": "タクサムジェはいつ建てられましたか？",
+            "answer": "タクサムジェは1905年に建てられました。"
+        },
+        {
+            "question": "タクサムジェはどのような目的で建設されましたか？",
+            "answer": "タクサムジェは慶尚南道のキムユブなどの忠孝を称えるために建設されました。"
+        },
+        {
+            "question": "タクサムジェには何が所蔵されていますか？",
+            "answer": "タクサムジェには古文書44点と木で作った雨1点、扁額2点、ノクグォン1点などが所蔵されています。"
+        },
+        {
+            "question": "タクサムジェの隣には何が建てられていますか？",
+            "answer": "タクサムジェの隣にはキムユブの忠孝を称えるためのチュンヒョガクが建てられています。"
+        }
+    ],
+    "word_Count": {
+        "text": 192,
+        "QA": 168
+    }
+}

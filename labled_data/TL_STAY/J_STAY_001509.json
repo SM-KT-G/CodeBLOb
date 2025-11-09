@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_001509",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42041&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "광주 하남 Hotel STAY35"
+    },
+    "text": "22年4月ALLリモデリング完了HotelSTAY35です。 ビジネスホテルでリラックスできるように努力します。 客室の入室基準を確認し、追加人数は当日現地にて追加料金を決済してください。 入室の際は身分証明書を持参してください。未成年者は入室が制限されます。",
+    "QA": [
+        {
+            "question": "ホテルSTAY35のリモデリングはいつ完了しましたか？",
+            "answer": "22年4月に完了しました。"
+        },
+        {
+            "question": "ホテルSTAY35はどのようなホテルですか？",
+            "answer": "ホテルSTAY35はビジネスホテルで、リラックスできるように努力しています。"
+        },
+        {
+            "question": "ホテルSTAY35の入室基準は何ですか？",
+            "answer": "客室の入室基準を確認し、追加人数は当日現地にて追加料金を決済してください。"
+        },
+        {
+            "question": "入室の際に必要なものはありますか？",
+            "answer": "入室の際は身分証明書を持参してください。未成年者は入室が制限されます。"
+        }
+    ],
+    "word_Count": {
+        "text": 95,
+        "QA": 153
+    }
+}

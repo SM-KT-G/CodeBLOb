@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_054177",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/view?relicId=163341",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "글자를 새긴 암키와 조각"
+    },
+    "text": "文字を刻んだ平瓦片 (글자를 새긴 암키와 조각)\\n\n国籍と時代は韓国の統一新羅で、材質は土で作られた瓦質の建築部材で、平瓦として屋根材として使用されています。現在のサイズは幅166cm、長さ194cm、幅78cm、長さ62cmです。",
+    "QA": [
+        {
+            "question": "この平瓦片はどの国で作られましたか？",
+            "answer": "韓国の統一新羅で作られました。"
+        },
+        {
+            "question": "この平瓦片はどの時代に作られましたか？",
+            "answer": "統一新羅時代に作られました。"
+        },
+        {
+            "question": "この平瓦片はどのような材質で作られていますか？",
+            "answer": "土で作られた瓦質の建築部材です。"
+        },
+        {
+            "question": "この平瓦片はどのように使用されていますか？",
+            "answer": "屋根材として使用されています。"
+        },
+        {
+            "question": "現在の平瓦片のサイズはどれくらいですか？",
+            "answer": "幅166cm、長さ194cm、幅78cm、長さ62cmです。"
+        }
+    ],
+    "word_Count": {
+        "text": 86,
+        "QA": 140
+    }
+}

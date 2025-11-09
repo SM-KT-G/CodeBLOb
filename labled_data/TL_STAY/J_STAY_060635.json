@@ -1,0 +1,31 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_060635",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2023-07-02",
+        "domain": "숙박",
+        "title": "하이디하우스"
+    },
+    "text": "広くて青い芝生が魅力的なここは江原道平昌郡に位置した'ハイジペンション'だ。このペンションは365日、チャとワインを楽しむことができるコミュニティで有名で、冬は暖かな室内バーベキュー場に変身する。夏は涼しい野外バーベキュー場で美味しい食事を楽しむことができる。",
+    "QA": [
+        {
+            "question": "ハイジペンションはどこに位置していますか？",
+            "answer": "ハイジペンションは江原道平昌郡に位置しています。"
+        },
+        {
+            "question": "ハイジペンションでは何を楽しむことができますか？",
+            "answer": "ハイジペンションでは365日、チャとワインを楽しむことができます。冬は暖かな室内バーベキュー場に変身し、夏は涼しい野外バーベキュー場で美味しい食事を楽しむことができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 95,
+        "QA": 112
+    }
+}

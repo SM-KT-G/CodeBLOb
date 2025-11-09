@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_023191",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1104&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=02540000&ccbaCtcd=37&ccbaCpno=3413702540000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1992-07-18",
+        "domain": "문화/역사관광",
+        "title": "숭덕전"
+    },
+    "text": "崇徳殿 (숭덕전)\\n\n慶尚北道慶州市塔洞77番地\\n\n慶尚北道文化財資料 , 新羅の始祖パク·ヒョクゴセの祭祀を行うところで、五陵の南側にある。 朝鮮世宗11年(1429)に建てられたが、壬辰倭乱の時に燃えてしまったものを宣祖33年(1600)に建て直し、粛宗20年(1694)に修理した。 現在、境内には朝鮮英祖35年(1759)に建てられた朴赫居世と崇徳殿の来歴を記した神道碑がある。 ここは慶宗3年(1723)に至って崇徳殿と呼ばれ、祭祀を行う参奉3人を置くことになった。 最初は国家ですべてを主管したが、壬辰倭乱以後に来てパク氏の門中で主管し春·秋に祭祀を行っている。",
+    "QA": [
+        {
+            "question": "崇徳殿はどのような場所ですか？",
+            "answer": "崇徳殿は慶尚北道慶州市に位置し、新羅の始祖パク·ヒョクゴセの祭祀を行う場所です。"
+        },
+        {
+            "question": "崇徳殿はいつ建てられましたか？",
+            "answer": "崇徳殿は朝鮮世宗11年(1429)に建てられましたが、壬辰倭乱によって燃えてしまいました。その後、宣祖33年(1600)に再建され、粛宗20年(1694)に修理されました。"
+        },
+        {
+            "question": "崇徳殿の境内にはどのような碑がありますか？",
+            "answer": "崇徳殿の境内には朝鮮英祖35年(1759)に建てられた朴赫居世と崇徳殿の来歴を記した神道碑があります。"
+        },
+        {
+            "question": "崇徳殿はどのような祭祀が行われていますか？",
+            "answer": "崇徳殿ではパク氏の門中で春・秋に祭祀が行われています。最初は国家ですべてを主管していましたが、壬辰倭乱以後はパク氏の門中で主管するようになりました。"
+        }
+    ],
+    "word_Count": {
+        "text": 211,
+        "QA": 236
+    }
+}

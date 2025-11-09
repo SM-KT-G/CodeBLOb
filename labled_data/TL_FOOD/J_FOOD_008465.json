@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_008465",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-06",
+        "domain": "음식점",
+        "title": "ソウルオク ( 서울옥 )"
+    },
+    "text": "ソウルオク ( 서울옥 )\n京畿道 平沢市 クァングァントゥクグロ16\n24時間営業の店です。京畿道のピョンテク市に位置した韓食専門店です。代表的なメニューはカルビタンです。",
+    "QA": [
+        {
+            "question": "このお店はどこに位置していますか？",
+            "answer": "このお店は京畿道平沢市に位置しています。"
+        },
+        {
+            "question": "このお店の営業時間は何時から何時までですか？",
+            "answer": "このお店は24時間営業しています。"
+        },
+        {
+            "question": "このお店の代表的なメニューは何ですか？",
+            "answer": "このお店の代表的なメニューはカルビタンです。"
+        }
+    ],
+    "word_Count": {
+        "text": 63,
+        "QA": 85
+    }
+}

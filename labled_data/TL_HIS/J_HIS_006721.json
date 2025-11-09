@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_006721",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=405&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=00410000&ccbaCtcd=23&ccbaCpno=2112300410000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2002-02-04",
+        "domain": "문화/역사관광",
+        "title": "강화 온수리 성공회사제관"
+    },
+    "text": "江華温水里聖公会司祭館 (강화 온수리 성공회사제관)\\n\n仁川広域市江華郡吉祥面温水里505-11\\n\n仁川広域市有形文化財 , 江華温水里聖公会司祭館は我が国に聖公会が初めて伝播され始めた時、初代宣教師コ·ヨハン司教と共に英国から来韓した助馬家神父が1896年江華に赴任して宣教をしながら2年後の1898年に建築した建物だ。 その後、司祭館が衰退すると、1933年に原型のまま修復し、今日に至っている。 この司祭館は英国聖公会が宣教を始め、英国人神父が韓国伝統住居文化の中にどのように適応してきたかを推察させる住居空間であり、また建築手法や歯木形式で完全に韓国的なものだけでなく、英国人の注文をどのような方法で消化して技術的な適用をしたかを示す建築といえる。 建物の形式は「ㄷ」字型の煉瓦構造の5両4間の一軒家だ。",
+    "QA": [
+        {
+            "question": "江華温水里聖公会司祭館はいつ建築されましたか？",
+            "answer": "江華温水里聖公会司祭館は1898年に建築されました。"
+        },
+        {
+            "question": "江華温水里聖公会司祭館はどのような建物ですか？",
+            "answer": "江華温水里聖公会司祭館は、煉瓦構造の5両4間の一軒家で、形式は「ㄷ」字型です。"
+        },
+        {
+            "question": "江華温水里聖公会司祭館はどのような歴史的価値がありますか？",
+            "answer": "江華温水里聖公会司祭館は、初代宣教師コ·ヨハン司教と共に英国から来韓した助馬家神父によって建築され、韓国における聖公会の最初の伝道所としての歴史的価値があります。"
+        },
+        {
+            "question": "江華温水里聖公会司祭館の修復はいつ行われましたか？",
+            "answer": "江華温水里聖公会司祭館の修復は1933年に行われました。"
+        },
+        {
+            "question": "江華温水里聖公会司祭館はどのような文化的特徴がありますか？",
+            "answer": "江華温水里聖公会司祭館は、英国聖公会の宣教による建築でありながら、韓国の伝統住居文化との調和が見られ、英国人の技術的な適用も示される建物です。"
+        }
+    ],
+    "word_Count": {
+        "text": 263,
+        "QA": 274
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_010345",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "テサンシクダン（태산식당）"
+    },
+    "text": "テサンシクダン（태산식당）\\n\n済州特別自治道 済州市 三無路 61\\n\n韓国の伝統料理であるプルコギ(焼肉)を味わうことができます。おすすめはプルゴギです。済州特別自治道のジェジュ市に位置したプルゴギ専門店です。",
+    "QA": [
+        {
+            "question": "テサンシクダン（태산식당）はどこに位置していますか？",
+            "answer": "テサンシクダン（태산식당）は済州特別自治道 済州市 三無路 61に位置しています。"
+        },
+        {
+            "question": "テサンシクダン（태산식당）で味わえる料理は何ですか？",
+            "answer": "テサンシクダン（태산식당）では韓国の伝統料理であるプルコギ(焼肉)を味わうことができます。おすすめはプルゴギです。"
+        },
+        {
+            "question": "テサンシクダン（태산식당）はどの都市に位置していますか？",
+            "answer": "テサンシクダン（태산식당）は済州特別自治道のジェジュ市に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 78,
+        "QA": 156
+    }
+}

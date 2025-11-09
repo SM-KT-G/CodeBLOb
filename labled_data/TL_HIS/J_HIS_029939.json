@@ -1,0 +1,55 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_029939",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101933",
+        "collectedDate": "2023-10-06",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "진도"
+    },
+    "text": "珍島\n珍島は韓国にある島だ。 珍島郡は韓国にある行政区域だ。 珍島邑(チンドウプ)は韓国にある行政区域だ。 珍島は三国時代初め、韓国で対馬島を指していた言葉だ。震度は地震の大きさを表す尺度である。 日本気象庁震度階級(JMA intensity scale)修正メルカリ震度階級(MM scale) - 韓国で使用される基準だ。 珍島は中国三国時代の蜀漢の将である。\n",
+    "QA": [
+        {
+            "question": "珍島はどこにありますか？",
+            "answer": "珍島は韓国にあります。"
+        },
+        {
+            "question": "珍島郡はどこにありますか？",
+            "answer": "珍島郡も韓国にあります。"
+        },
+        {
+            "question": "珍島邑はどこにありますか？",
+            "answer": "珍島邑も韓国にあります。"
+        },
+        {
+            "question": "珍島は何を指していましたか？",
+            "answer": "珍島は三国時代初め、韓国で対馬島を指していました。"
+        },
+        {
+            "question": "震度とは何ですか？",
+            "answer": "震度は地震の大きさを表す尺度です。"
+        },
+        {
+            "question": "日本気象庁震度階級とは何ですか？",
+            "answer": "日本気象庁震度階級は日本で使用される震度の基準です。"
+        },
+        {
+            "question": "修正メルカリ震度階級とは何ですか？",
+            "answer": "修正メルカリ震度階級は韓国で使用される震度の基準です。"
+        },
+        {
+            "question": "珍島はどの時代の将ですか？",
+            "answer": "珍島は中国三国時代の蜀漢の将です。"
+        }
+    ],
+    "word_Count": {
+        "text": 134,
+        "QA": 186
+    }
+}

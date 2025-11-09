@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_083002",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101933",
+        "collectedDate": "2023-10-06",
+        "publishedDate": "2023-10-06",
+        "domain": "문화/역사관광",
+        "title": "세종문화회관"
+    },
+    "text": "世宗文化会館\\n\n世宗文化会館(Sejong Center for the Performing Arts)は、ソウル特別市鍾路区世宗大路175(世宗路81-3)に位置する53,202m²の総合芸術施設である。\n",
+    "QA": [
+        {
+            "question": "世宗文化会館はどこに位置していますか？",
+            "answer": "ソウル特別市鍾路区世宗大路175(世宗路81-3)に位置しています。"
+        },
+        {
+            "question": "世宗文化会館の敷地面積はどのくらいですか？",
+            "answer": "53,202m²の総合芸術施設です。"
+        },
+        {
+            "question": "世宗文化会館は何のための施設ですか？",
+            "answer": "総合芸術施設で、様々な芸術活動が行われています。"
+        },
+        {
+            "question": "世宗文化会館は誰によって利用されていますか？",
+            "answer": "芸術家や観客など、多くの人々に利用されています。"
+        },
+        {
+            "question": "世宗文化会館ではどのようなイベントが行われていますか？",
+            "answer": "演劇、音楽コンサート、ダンス公演など、多彩なイベントが行われています。"
+        }
+    ],
+    "word_Count": {
+        "text": 77,
+        "QA": 177
+    }
+}

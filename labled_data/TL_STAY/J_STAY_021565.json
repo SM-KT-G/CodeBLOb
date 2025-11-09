@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_021565",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42001&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "IBC 호텔"
+    },
+    "text": "明洞と東大門圏に位置するここは文化とショッピングの中心地として知られています。 特に風物市場は過去と現在の姿が共存する場所として有名です。 また、ソウルの中に自然が調和した清渓川も周辺に位置しています。 ここでは大型マートも隣接しており、ソウルならではの様々な魅力を感じることができます。 訪れるのも簡単です。 新設洞駅の10番出口から徒歩5分の距離で、清渓川からは徒歩2分の距離にあります。",
+    "QA": [
+        {
+            "question": "明洞と東大門圏はどのような場所ですか？",
+            "answer": "明洞と東大門圏は文化とショッピングの中心地として知られています。"
+        },
+        {
+            "question": "特に風物市場は何が有名ですか？",
+            "answer": "風物市場は過去と現在の姿が共存する場所として有名です。"
+        },
+        {
+            "question": "どのような自然が周辺にありますか？",
+            "answer": "ソウルの中に自然が調和した清渓川が周辺に位置しています。"
+        },
+        {
+            "question": "どのような施設が隣接していますか？",
+            "answer": "大型マートも隣接しており、様々な魅力を感じることができます。"
+        },
+        {
+            "question": "アクセス方法はどうなっていますか？",
+            "answer": "新設洞駅の10番出口から徒歩5分の距離で、清渓川からは徒歩2分の距離にあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 143,
+        "QA": 177
+    }
+}

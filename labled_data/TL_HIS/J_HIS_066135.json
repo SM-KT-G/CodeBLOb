@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_066135",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=580&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=02930000&ccbaCtcd=38&ccbaCpno=2113802930000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1993-12-27",
+        "domain": "문화/역사관광",
+        "title": "밀양 표충사 유물"
+    },
+    "text": "密陽表忠祠遺物\\n\n慶尚南道密陽市檀荘面表忠路1338(九千里)\\n\n慶尚南道有形文化財、慶尚南道密陽(ミルヤン)にある表忠寺は壬辰倭乱の時僧兵を起こして国に大きな功を立てた、四溟(サミョン)大師を追悼するため、国で春・秋で祭祀を務めていた祠堂が位置している。この祠堂を当時、書院のようにボアピョチュン書院としたが、査察で管理して、自然に買って(祠)が買って(寺)に変わったものとみられる。丙子胡乱の時、廃墟になったのを粛宗40年(1714)に再び立てながら、四溟(サミョン)大師と彼の師匠である西山、壬辰の乱の時、錦山の戦いで戦死したキホダン(騎虛堂)の遺影を一緒に祀ることになった。この寺の遺品展示館には先祖38年(1604)日本に行って来ながらプレゼントでもらった、大型木鐸と北朝鮮を含めて200点余りの展示物があるが、ほとんど、四溟(サミョン)大師が使用していた遺品が保管されている。",
+    "QA": [
+        {
+            "question": "この祠堂は何のために建てられましたか？",
+            "answer": "この祠堂は壬辰倭乱の時に僧兵を起こした四溟(サミョン)大師を追悼するために建てられました。"
+        },
+        {
+            "question": "この祠堂はどのような名前で呼ばれていましたか？",
+            "answer": "この祠堂は当時、書院のようにボアピョチュン書院と呼ばれていました。"
+        },
+        {
+            "question": "何故この祠堂は寺に変わったのですか？",
+            "answer": "査察で管理されていた結果、自然に祠堂が寺に変わったものと思われます。"
+        },
+        {
+            "question": "この寺にはどのような遺品が展示されていますか？",
+            "answer": "この寺の遺品展示館には大型木鐸や四溟(サミョン)大師が使用していた遺品など200点余りの展示物があります。"
+        },
+        {
+            "question": "この寺はいつ再建されたのですか？",
+            "answer": "丙子胡乱の時に廃墟になった後、粛宗40年(1714)に再建されました。"
+        }
+    ],
+    "word_Count": {
+        "text": 290,
+        "QA": 219
+    }
+}

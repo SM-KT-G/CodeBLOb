@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_024278",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-06",
+        "domain": "음식점",
+        "title": "楊花亭 ( 양화정 )"
+    },
+    "text": "楊花亭 ( 양화정 )\\n\nソウル特別市 麻浦区 ウォルドゥコブロ1ギル17\\n\n30年伝統の豚カルビ専門店です。ソウル特別市のマポ区に位置した韓食専門店です。代表的なメニューは味付けカルビです。",
+    "QA": [
+        {
+            "question": "楊花亭はどのくらいの歴史がありますか？",
+            "answer": "楊花亭は30年の伝統を持つ豚カルビ専門店です。"
+        },
+        {
+            "question": "楊花亭はどこに位置していますか？",
+            "answer": "楊花亭はソウル特別市の麻浦区に位置しています。具体的な住所はウォルドゥコブロ1ギル17です。"
+        },
+        {
+            "question": "楊花亭の代表的なメニューは何ですか？",
+            "answer": "楊花亭の代表的なメニューは味付けカルビです。"
+        }
+    ],
+    "word_Count": {
+        "text": 71,
+        "QA": 105
+    }
+}

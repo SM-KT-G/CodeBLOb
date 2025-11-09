@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_080149",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/collectionList#######",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2023-10-11",
+        "domain": "문화/역사관광",
+        "title": "색회 자기 다완"
+    },
+    "text": "色灰自己多腕 (색회 자기 다완)\\n\n国籍/時代: 日本-近代 材質: 陶磁器 - その他 分類: 食生活 - 食べ物 大きさ: 高さ75cm、着丈127cm、底径61cm この作品は、近代の日本で作られた陶磁器製の食器で、食べ物を盛るために使用されます。その大きさは、高さ75cm、着丈127cm、底径61cmです。",
+    "QA": [
+        {
+            "question": "この食器はどのような目的で使用されますか？",
+            "answer": "この食器は食べ物を盛るために使用されます。"
+        },
+        {
+            "question": "この食器の大きさはどのくらいですか？",
+            "answer": "この食器の大きさは、高さ75cm、着丈127cm、底径61cmです。"
+        },
+        {
+            "question": "この食器は何時代に作られましたか？",
+            "answer": "この食器は近代の日本で作られました。"
+        },
+        {
+            "question": "この食器はどのような材質で作られていますか？",
+            "answer": "この食器は陶磁器で作られています。"
+        },
+        {
+            "question": "この食器はどのような国籍ですか？",
+            "answer": "この食器は日本のものです。"
+        },
+        {
+            "question": "この食器は一般的にどのような食べ物を盛るために使用されますか？",
+            "answer": "この食器は一般的には、特別な機会に使用されることが多く、料理全体を盛るために使用されます。"
+        }
+    ],
+    "word_Count": {
+        "text": 117,
+        "QA": 200
+    }
+}

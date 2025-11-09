@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_020202",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "利秀屋 ( 이수옥 )"
+    },
+    "text": "利秀屋 ( 이수옥 )\n慶尚北道 アンドン市 チョンニョンスプドンロ38\n肉のスープに肉の薬味をのせた麺です。慶尚北道のアンドン市に位置した韓食専門店です。おすすめは素麺です。",
+    "QA": [
+        {
+            "question": "利秀屋 ( 이수옥 ) はどこに位置していますか？",
+            "answer": "利秀屋 ( 이수옥 ) は慶尚北道のアンドン市に位置しています。"
+        },
+        {
+            "question": "利秀屋 ( 이수옥 ) のおすすめの料理は何ですか？",
+            "answer": "利秀屋 ( 이수옥 ) のおすすめの料理は素麺です。"
+        },
+        {
+            "question": "利秀屋 ( 이수옥 ) の素麺にはどんな具材がのっていますか？",
+            "answer": "利秀屋 ( 이수옥 ) の素麺には肉のスープと肉の薬味がのっています。"
+        }
+    ],
+    "word_Count": {
+        "text": 64,
+        "QA": 128
+    }
+}

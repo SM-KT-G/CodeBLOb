@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_001506",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42080&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "삼척(장호항) 힐스노클비치 Hotel"
+    },
+    "text": "22年12月に新築グランドオープンしたホテルです。 ルーフトップ内にプール施設を保有しており、チューブのレンタルも可能です。 パーティー会場内には屋外テラスとパラソルが計10個備えられています。 また、会議が可能なセミナー室も保有しており、ビームプロジェクターを通じてPPTを使用することができます。 ホテル内では無料Wi-Fiをご利用いただけます。 そしてホテルと隣接したところにはカフェ、レストラン、コンビニ、食堂など多様な便宜施設が位置しています。",
+    "QA": [
+        {
+            "question": "このホテルはいつオープンしましたか？",
+            "answer": "このホテルは22年12月にオープンしました。"
+        },
+        {
+            "question": "ホテル内にはどんな施設がありますか？",
+            "answer": "ホテル内にはルーフトップにプール施設があり、チューブのレンタルも可能です。また、パーティー会場内には屋外テラスとパラソルが計10個備えられています。さらに、セミナー室もあり、ビームプロジェクターを通じてPPTを使用することができます。"
+        },
+        {
+            "question": "ホテル内でWi-Fiは利用できますか？",
+            "answer": "はい、ホテル内では無料Wi-Fiをご利用いただけます。"
+        },
+        {
+            "question": "ホテルの周辺にはどんな便宜施設がありますか？",
+            "answer": "ホテルと隣接したところにはカフェ、レストラン、コンビニ、食堂など多様な便宜施設が位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 166,
+        "QA": 213
+    }
+}

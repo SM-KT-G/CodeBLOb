@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_017381",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1105&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=02580000&ccbaCtcd=37&ccbaCpno=3413702580000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1992-07-18",
+        "domain": "문화/역사관광",
+        "title": "반구정재사"
+    },
+    "text": "半球晶載詞 (반구정재사)\\n\n慶尚北道安東市甕井コルキル81-7(頂上洞)\\n\n慶尚北道文化財資料 , 朝鮮中宗の時、学者の李宏が中宗25年(1530)頃に建てた亭子だ。 李宏は成宗11年(1480)文科に及第し、1500年に執議を経て開城府有数になった。 燕山君10年(1504)には甲子寺化で官職を削られたが、1506年に中宗班政に再び起用された。 その後、官職を辞めて安東に降りてきてこの家を建てて学問と自然を楽しんだ。 当時、安東ソンビたちと宿泊者が多くなって建物を増やして建て、学問を身につけ研究する機関として造成することになった。 1945年の火災で燃えてしまったものを1946年に建て直した。",
+    "QA": [
+        {
+            "question": "この半球晶載詞はいつ建てられましたか？",
+            "answer": "李宏が中宗25年(1530)頃に建てました。"
+        },
+        {
+            "question": "李宏はどのような人物でしたか？",
+            "answer": "李宏は学者であり、成宗11年(1480)に文科に及第し、開城府で執議を経て有名な存在となりました。"
+        },
+        {
+            "question": "なぜ李宏は安東に降りてきてこの家を建てましたか？",
+            "answer": "李宏は官職を辞め、学問と自然を楽しむために安東に移住し、この家を建てました。"
+        },
+        {
+            "question": "半球晶載詞はどのような機関として造成されましたか？",
+            "answer": "安東ソンビたちと宿泊者が多くなり、学問を身につけ研究するために、建物が増やされて機関として造成されました。"
+        },
+        {
+            "question": "半球晶載詞は火災で燃えてしまったことがありましたか？",
+            "answer": "1945年に火災で燃えてしまいましたが、翌年の1946年に建て直されました。"
+        }
+    ],
+    "word_Count": {
+        "text": 222,
+        "QA": 226
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_016467",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2016-08-08",
+        "domain": "문화/역사관광",
+        "title": "木浦駅（목포역）"
+    },
+    "text": "木浦駅\n全羅南道 木浦市 栄山路 98 (湖南洞）\n木浦駅はKORAIL光州本部所属で全羅南道木浦市にある駅です。湖南線の発着駅で任城里駅の次にあります。1931年5月15日から運営を開始し、KTX、セマウル号、ムグンファ号が運行されており、旅客、貨物、乗車券の発売などの業務を行っています。",
+    "QA": [
+        {
+            "question": "木浦駅は何県にありますか？",
+            "answer": "木浦駅は全羅南道にあります。"
+        },
+        {
+            "question": "木浦駅は何年に開業しましたか？",
+            "answer": "木浦駅は1931年に開業しました。"
+        },
+        {
+            "question": "木浦駅で発売されている乗車券は何ですか？",
+            "answer": "木浦駅ではKTX、セマウル号、ムグンファ号の乗車券が発売されています。"
+        },
+        {
+            "question": "木浦駅ではどのような業務が行われていますか？",
+            "answer": "木浦駅では旅客、貨物、乗車券の発売などの業務が行われています。"
+        }
+    ],
+    "word_Count": {
+        "text": 107,
+        "QA": 122
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_097088",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ja",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2022-04-18",
+        "domain": "문화/역사관광",
+        "title": "인산정사"
+    },
+    "text": "リン酸精舎は朝鮮王朝哲宗(朝鮮朝哲宗)の時8軍の郡守(・郡守)を務めたキョンジェ(景齋)ウソンギュ(禹成圭)を追慕して教え子(弟子)らが1905年に建てたものだ。大地は123坪であり、4間の10坪の定針(正寢)は入母屋造(八作)屋根の和賀(瓦家)だ。建物はジンチョウゲ(西向)であり、垣根はセメントブロックで築いた。。",
+    "QA": [
+        {
+            "question": "この建物は誰によって建てられましたか？",
+            "answer": "景齋禹成圭とその教え子らによって建てられました。"
+        },
+        {
+            "question": "建物の大きさは何坪ですか？",
+            "answer": "123坪です。"
+        },
+        {
+            "question": "この建物の屋根の形は何ですか？",
+            "answer": "入母屋造(八作)屋根の和賀(瓦家)です。"
+        },
+        {
+            "question": "建物の向きはどちらを向いていますか？",
+            "answer": "西向きです。"
+        },
+        {
+            "question": "垣根は何で築かれていますか？",
+            "answer": "セメントブロックで築かれています。"
+        }
+    ],
+    "word_Count": {
+        "text": 116,
+        "QA": 112
+    }
+}

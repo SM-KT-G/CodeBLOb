@@ -1,0 +1,51 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_070472",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=124&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=10590000&ccbaCtcd=11&ccbaCpno=1121110590000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1991-01-25",
+        "domain": "문화/역사관광",
+        "title": "백자 청화초화문 필통"
+    },
+    "text": "宝物は朝鮮後期に作られた文房具類で、紙を留めておいているためだ。この筋は、高さが16センチで口直径は13.1センチ、ミッジルムは12.6センチだ。円筒型をしており、見かけは簡潔ながらも堂々としている。下の部分かかとの上に一条の青い色の線が巻き、その上は満開した蘭、一株ずつを素朴で洗練された筆致で描いていた。蘭文様は明るい青で淡泊できれいな感じを与える。釉薬は薄い青色を帯は白い釉薬で、全体に選ぶように塗られた。釉薬の形態や青色の模様で見て、この宝物は18世紀前半に、光州(クァンジュ)クムサリの釜や少し遅い時期のブンウォンリ窯で作られたものとみられる。この筋は、京畿道光州(クァンジュ)地方で製作された紙を留めておいた箱の中で形や文様、釉を塗った形が一番優れている。",
+    "QA": [
+        {
+            "question": "この宝物はいつ作られましたか？",
+            "answer": "この宝物は朝鮮後期に作られました。"
+        },
+        {
+            "question": "この宝物の形はどのようなものですか？",
+            "answer": "この宝物は円筒型をしています。"
+        },
+        {
+            "question": "この宝物の釉薬の色は何色ですか？",
+            "answer": "この宝物の釉薬の色は薄い青色です。"
+        },
+        {
+            "question": "この宝物はどの地域で作られましたか？",
+            "answer": "この宝物は京畿道光州(クァンジュ)地方で作られました。"
+        },
+        {
+            "question": "この宝物はどのような文様が描かれていますか？",
+            "answer": "この宝物には満開した蘭の文様が描かれています。"
+        },
+        {
+            "question": "この宝物はどのような感じを与えますか？",
+            "answer": "この宝物は簡潔で堂々とした感じを与えます。"
+        },
+        {
+            "question": "この宝物はどのような釜で作られましたか？",
+            "answer": "この宝物は光州(クァンジュ)クムサリの釜で作られました。"
+        }
+    ],
+    "word_Count": {
+        "text": 244,
+        "QA": 202
+    }
+}

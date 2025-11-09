@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_029068",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "漢城アンコウの蒸し物 ( 한성아구찜 )"
+    },
+    "text": "漢城アンコウの蒸し物 ( 한성아구찜 )\\n\n慶尚北道 安東市 ウムシクウィキル 26\\n\n30年の伝統を持つお店で、釜山から毎日仕入れた海の幸を使用しています。慶尚北道のアンドン市に位置した海鮮専門店です。代表的なメニューはアンコウの蒸し物です。",
+    "QA": [
+        {
+            "question": "このお店の特産料理は何ですか？",
+            "answer": "このお店の代表的なメニューはアンコウの蒸し物です。"
+        },
+        {
+            "question": "お店の場所はどこですか？",
+            "answer": "お店は慶尚北道の安東市に位置しています。具体的な住所はウムシクウィキル26番地です。"
+        },
+        {
+            "question": "このお店は何年の歴史がありますか？",
+            "answer": "このお店は30年の伝統を持っています。"
+        },
+        {
+            "question": "どのような食材を使用していますか？",
+            "answer": "このお店では釜山から毎日仕入れた海の幸を使用しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 90,
+        "QA": 128
+    }
+}

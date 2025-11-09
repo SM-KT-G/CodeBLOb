@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_087702",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1146&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=04320000&ccbaCtcd=37&ccbaCpno=3413704320000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2002-10-14",
+        "domain": "문화/역사관광",
+        "title": "안동천전리추파고택"
+    },
+    "text": "19世紀半ばに建設された義城金氏の伝統的住宅と推定される建物である。この家は川前里の宗宅の中にあったが、後に分家したという。建築様式からみて、1850年代以降に建てられており、正面6間、側面5間の瓦屋根の形態をしている。しかし、大きさが小さくて一般的な瓦屋とは違って見える。この建物は庭に正面2間、側面1間の門屋が一緒にいて外見上の独特の構造を持っている。この建物は義城金氏の伝統的住宅が密集した地域に位置して文化的価値が高い。また、建立当時の様式をよく保存している。金ビョンシクは1995年に建国勲章愛族章に叙勲された独立運動家として、1907年にシャフトに設立された協同学校の教師と校長を歴任したことがある。",
+    "QA": [
+        {
+            "question": "この建物が建てられたのはいつですか？",
+            "answer": "建築様式からみて、1850年代以降に建てられたと推定されています。"
+        },
+        {
+            "question": "この建物は誰のために建てられましたか？",
+            "answer": "この建物は義城金氏の伝統的住宅と推定されています。"
+        },
+        {
+            "question": "この建物の特徴的な構造は何ですか？",
+            "answer": "この建物は庭に正面2間、側面1間の門屋が一緒にあり、外見上の独特な構造を持っています。"
+        },
+        {
+            "question": "この建物はどのような文化的価値を持っていますか？",
+            "answer": "この建物は義城金氏の伝統的住宅が密集した地域に位置し、建立当時の様式をよく保存しているため、文化的価値が高いとされています。"
+        },
+        {
+            "question": "金ビョンシクとはどのような人物ですか？",
+            "answer": "金ビョンシクは独立運動家であり、1907年にシャフトに設立された協同学校の教師と校長を歴任したことがあります。また、彼は1995年に建国勲章愛族章に叙勲されました。"
+        }
+    ],
+    "word_Count": {
+        "text": 224,
+        "QA": 250
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_020183",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/goods/GN0002025957?startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0%5E&npprmaxsort=min",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "공주(동학사) G7"
+    },
+    "text": "当ホテルは環境部が許可したコロナウイルス殺菌剤を使用し、お客様の退室後、常に専門消毒を行っています。 全客室には65インチウルトラHDTVが備えられており、NETFLIXを無料で視聴できます。 また、電子レンジも全客室に備えられています。 シネホテルはチャンネルスタイラーとマッサージチェアを運営しており、サウナルームも運営しています。",
+    "QA": [
+        {
+            "question": "消毒剤について教えてください。",
+            "answer": "当ホテルでは環境部が許可したコロナウイルス殺菌剤を使用しており、お客様の退室後に常に専門の消毒を行っています。"
+        },
+        {
+            "question": "客室にはどのような設備がありますか？",
+            "answer": "全客室には65インチウルトラHDTVが備えられており、NETFLIXを無料で視聴することができます。また、電子レンジも全客室に完備されています。"
+        },
+        {
+            "question": "シネホテルではどのような施設が利用できますか？",
+            "answer": "シネホテルではチャンネルスタイラーやマッサージチェアを運営しており、サウナルームも利用できます。"
+        }
+    ],
+    "word_Count": {
+        "text": 123,
+        "QA": 169
+    }
+}

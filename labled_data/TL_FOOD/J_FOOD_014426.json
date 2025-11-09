@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_014426",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2022-07-01",
+        "domain": "음식점",
+        "title": "멕시칼리"
+    },
+    "text": "メキシカリ (멕시칼리)\\n\nソウル特別市広津区陵洞256-81階\\n\nメキシカリはメキシコ北部地域のおいしいたこが楽しめる場所であり、毎朝トルティーヤとサルサ、すべての材料を手作りで製作しています。特にアメリカーノ特有の視覚的な面と風味が加わり、食欲を刺激します。",
+    "QA": [
+        {
+            "question": "メキシカリはどこにありますか？",
+            "answer": "メキシカリはソウル特別市広津区陵洞256-8階にあります。"
+        },
+        {
+            "question": "メキシカリでは何が楽しめますか？",
+            "answer": "メキシカリではメキシコ北部地域のおいしいたこが楽しめます。特にアメリカーノ特有の視覚的な面と風味が加わり、食欲を刺激します。"
+        },
+        {
+            "question": "メキシカリで製作されるものは手作りですか？",
+            "answer": "はい、メキシカリでは毎朝トルティーヤとサルサ、すべての材料を手作りで製作しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 97,
+        "QA": 135
+    }
+}

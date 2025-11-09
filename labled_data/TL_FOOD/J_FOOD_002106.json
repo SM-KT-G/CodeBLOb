@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_002106",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2020-12-04",
+        "domain": "음식점",
+        "title": "Sumbi Sori 西面( 숨비소리 서면 )"
+    },
+    "text": "Sumbi Sori 西面( 숨비소리 서면 )\\n\n釜山広域市 釜山鎮区 中央大路691ボンキル 53\\n\n釜山市民に人気の海鮮専門店の一つです。 おすすめは焼き大正海老です。釜山広域市のブサンジン区に位置した海鮮専門店です。",
+    "QA": [
+        {
+            "question": "このお店はどこにありますか？",
+            "answer": "このお店は釜山広域市釜山鎮区中央大路691ボンキル53にあります。"
+        },
+        {
+            "question": "このお店のおすすめ料理は何ですか？",
+            "answer": "このお店のおすすめは焼き大正海老です。"
+        },
+        {
+            "question": "このお店はどのような特徴がありますか？",
+            "answer": "このお店は釜山市民に人気の海鮮専門店の一つです。"
+        }
+    ],
+    "word_Count": {
+        "text": 83,
+        "QA": 92
+    }
+}

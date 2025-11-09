@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_061675",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://myrealtrip.com/accommodations/stays/1071154?place[place_type]=GID&place[gid]=1071154&place[latitude]=37.0577703273&place[longitude]=128.4164512437&checkin=2023-12-03&checkout=2023-12-04&adult_count=1&curation_type=ALL",
+        "collectedDate": "2023-11-14",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "단양 피플스토리펜션"
+    },
+    "text": "People Storyは自然の中の小さな空間で、夢と希望、過去と未来の物語を作る宿です。 宿は東江と清嶺浦など美しい自然景色が周辺にあります。 ここでは南漢江で釣りを楽しむこともできますし、2階には音楽が流れるカフェもあります。 周辺 観光地としては タニャンパルギョン, オンダル・グァングァンジ, ソベクサン・グンニプコンウォン 背中が あります。 リラックスした宿泊とともに様々な活動を楽しめるPeople Storyで美しい物語を作ってみてください。",
+    "QA": [
+        {
+            "question": "People Storyの宿の周辺には何がありますか？",
+            "answer": "東江と清嶺浦など美しい自然景色があります。南漢江で釣りを楽しむこともできます。"
+        },
+        {
+            "question": "People Storyの宿ではどのような活動が楽しめますか？",
+            "answer": "南漢江での釣りや2階の音楽が流れるカフェなど、様々な活動が楽しめます。"
+        },
+        {
+            "question": "宿の特徴は何ですか？",
+            "answer": "宿は自然の中の小さな空間で、夢と希望、過去と未来の物語を作る場所です。"
+        }
+    ],
+    "word_Count": {
+        "text": 168,
+        "QA": 129
+    }
+}

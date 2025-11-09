@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_007387",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=36&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=00670000&ccbaCtcd=37&ccbaCpno=1123700670000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1963-01-21",
+        "domain": "문화/역사관광",
+        "title": "경주 효현동 삼층석탑"
+    },
+    "text": "慶州ヒョヒョン洞三層石塔 (경주 효현동 삼층석탑)\\n\n慶尚北道慶州市孝賢洞419-1番地\\n\n統一新羅時代 , 宝物 , 塔が建てられたこの跡は新羅の法興王が死ぬ前まで僧侶として仏道を磨いたという哀公寺があったところだと伝えられているが、周辺が田畑に変わり寺の跡は見当たらない。 塔は2段の基壇の上に3階の塔身を立てた姿だ。 基壇は四方四面に柱状の彫刻を置いたが、塔身に比べて過重な比率を見せており重い感じを与える。 塔身は各層の石の角ごとに柱を模した彫刻を置き、屋根石は空に向かって四隅が少し聞こえていて軽快な曲線を成す。 屋根石の底面の支えが4段になっており、各部分の彫刻が細く弱く現れており、9世紀頃、統一新羅石塔の特徴を示している。",
+    "QA": [
+        {
+            "question": "この慶州ヒョヒョン洞三層石塔はどの時代に建てられましたか？",
+            "answer": "統一新羅時代に建てられました。"
+        },
+        {
+            "question": "この慶州ヒョヒョン洞三層石塔はどのような形をしていますか？",
+            "answer": "2段の基壇の上に3階の塔身を持つ姿です。"
+        },
+        {
+            "question": "周辺には何があったと伝えられていますか？",
+            "answer": "塔が建てられた跡には、新羅の法興王が死ぬ前まで僧侶として修行したという哀公寺があったと伝えられていますが、現在は田畑に変わっており、寺の跡は見当たりません。"
+        },
+        {
+            "question": "この塔の基壇にはどのような彫刻がありますか？",
+            "answer": "基壇には四方四面に柱状の彫刻があります。"
+        },
+        {
+            "question": "この塔の塔身はどのような特徴がありますか？",
+            "answer": "塔身は各層の石の角ごとに柱を模した彫刻があり、屋根石は空に向かって四隅が少し聞こえていて軽快な曲線を成します。"
+        },
+        {
+            "question": "この塔の彫刻はどのような特徴がありますか？",
+            "answer": "塔の彫刻は9世紀頃の統一新羅石塔の特徴を示し、細く弱く現れています。"
+        }
+    ],
+    "word_Count": {
+        "text": 236,
+        "QA": 266
+    }
+}

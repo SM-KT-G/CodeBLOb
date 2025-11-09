@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_013466",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-05",
+        "domain": "음식점",
+        "title": "ポクギ ( 뻐꾸기 )"
+    },
+    "text": "ポクギ ( 뻐꾸기 )\\n\nソウル特別市 江南区 トサンデロ17ギル4\\n\n若者がよく訪れる店です。ソウル特別市のガンナム区に位置した韓食専門店です。おすすめは牛ミノ焼きです。",
+    "QA": [
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "ポクギ（뻐꾸기）はソウル特別市江南区トサンデロ17ギル4に位置しています。"
+        },
+        {
+            "question": "この店はどんな店ですか？",
+            "answer": "ポクギ（뻐꾸기）は韓食専門店で、若者がよく訪れるお店です。"
+        },
+        {
+            "question": "この店のおすすめ料理は何ですか？",
+            "answer": "ポクギ（뻐꾸기）のおすすめは牛ミノ焼きです。"
+        }
+    ],
+    "word_Count": {
+        "text": 64,
+        "QA": 94
+    }
+}

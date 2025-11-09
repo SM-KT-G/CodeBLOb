@@ -1,0 +1,31 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_019652",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-05-25",
+        "domain": "음식점",
+        "title": "豚カツカフェ ( 돈까스카페 )"
+    },
+    "text": "豚カツカフェ \\n\n慶尚北道 安東市 江南路 277\\n\n完璧なソースとサクサクした洋食トンカツの組み合わせが抜群の店です。慶尚北道のアンドン市に位置した韓国料理店です。おすすめは豚カツです。",
+    "QA": [
+        {
+            "question": "豚カツカフェはどこに位置していますか？",
+            "answer": "豚カツカフェは慶尚北道のアンドン市の江南路277に位置しています。"
+        },
+        {
+            "question": "豚カツカフェのおすすめメニューは何ですか？",
+            "answer": "豚カツカフェのおすすめは豚カツです。完璧なソースとサクサクした洋食トンカツの組み合わせが抜群です。"
+        }
+    ],
+    "word_Count": {
+        "text": 70,
+        "QA": 89
+    }
+}

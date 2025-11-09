@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_041373",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.booking.com/hotel/kr/namhae-beach.ko.html",
+        "collectedDate": "2023-11-17",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "남해 비치 호텔"
+    },
+    "text": "南海ビーチホテルは南海に位置し、南面南西大路575-13番地にあります。 当ホテルは、車で来る宿泊客のための無料専用駐車場を提供しています。 季節によって運営される屋外プールと無料Wi-Fiも提供します。 また、禁煙室を利用することができ、客室には薄型テレビややかんなどが備えられています。 一部の客室には冷蔵庫と電子レンジが完備されたキッチンもあります。 客室ごとにエアコンと専用バスルームが完備されています。 南海ビーチホテルの最寄り空港は泗川空港で約48kmの距離に位置し、南海中心部からは約8kmの距離にあります。 チェックインは15:00から始まり、チェックアウトは11:00までです。 このホテルはYongmunsa Templeから約3.9km、Gacheon male and female rocksから約8.5km、Ssanghongmunから約13km、南海ドイツ村から約16km、House N Gardenから約16kmの距離に位置しています。 南海ビーチホテルから約17kmの距離にはTopia Land Gardenがあり、約18kmの距離にはMulgeonbangjoeoboo Forestもあります。",
+    "QA": [
+        {
+            "question": "南海ビーチホテルはどこに位置していますか？",
+            "answer": "南海ビーチホテルは南海に位置しています。"
+        },
+        {
+            "question": "南海ビーチホテルはどのような設備を提供していますか？",
+            "answer": "南海ビーチホテルでは専用駐車場、屋外プール、無料Wi-Fiなどの設備を提供しています。"
+        },
+        {
+            "question": "南海ビーチホテルの客室にはどのような設備が備えられていますか？",
+            "answer": "南海ビーチホテルの客室には薄型テレビややかんなどが備えられています。一部の客室には冷蔵庫と電子レンジが完備されたキッチンもあります。"
+        },
+        {
+            "question": "南海ビーチホテルの最寄り空港はどこですか？",
+            "answer": "南海ビーチホテルの最寄り空港は泗川空港です。"
+        },
+        {
+            "question": "南海ビーチホテルから近くの観光スポットはありますか？",
+            "answer": "南海ビーチホテルからはYongmunsa Temple、Gacheon male and female rocks、Ssanghongmunなどが近くにあります。また、南海ドイツ村やTopia Land Gardenなどもアクセス可能です。"
+        },
+        {
+            "question": "南海ビーチホテルのチェックインとチェックアウトの時間は何時ですか？",
+            "answer": "南海ビーチホテルのチェックインは15:00から始まり、チェックアウトは11:00までです。"
+        }
+    ],
+    "word_Count": {
+        "text": 379,
+        "QA": 347
+    }
+}

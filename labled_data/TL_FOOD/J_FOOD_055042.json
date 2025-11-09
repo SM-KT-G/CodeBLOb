@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_055042",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "Sushi Feel ( 스시필 )"
+    },
+    "text": "Sushi Feel ( 스시필 )\n京畿道 ピョンテク市 トンボクシジャンロ13ボンギル6-3\n熟成した刺身を使用している店です。京畿道のピョンテク市に位置した和食専門店です。代表的なメニューはマグロ寿司です。",
+    "QA": [
+        {
+            "question": "この店の住所はどこですか？",
+            "answer": "この店の住所は京畿道 ピョンテク市 トンボクシジャンロ13ボンギル6-3です。"
+        },
+        {
+            "question": "この店はどんな料理を提供していますか？",
+            "answer": "この店は熟成した刺身を使用した和食専門店です。特におすすめはマグロ寿司です。"
+        },
+        {
+            "question": "この店の代表的なメニューは何ですか？",
+            "answer": "この店の代表的なメニューはマグロ寿司です。"
+        },
+        {
+            "question": "この店はどのような特徴を持っていますか？",
+            "answer": "この店は熟成した刺身を使用しており、品質にこだわっています。"
+        }
+    ],
+    "word_Count": {
+        "text": 77,
+        "QA": 145
+    }
+}

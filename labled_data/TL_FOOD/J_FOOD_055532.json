@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_055532",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/buchon-yukhoe",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "プチョンユッケ"
+    },
+    "text": "プチョンユッケ\\n\nソウル特別市 鍾路区 鍾路200-12\\n\n「プチョンユッケ」は、鍾路ユッケ通りにある60年の伝統を持つお店です。安くておいしいユッケの他にもさまざまなメニューを取り揃えています。",
+    "QA": [
+        {
+            "question": "プチョンユッケはどこにありますか？",
+            "answer": "プチョンユッケはソウル特別市 鍾路区 鍾路200-12にあります。"
+        },
+        {
+            "question": "プチョンユッケは何年の伝統を持っていますか？",
+            "answer": "プチョンユッケは60年の伝統を持っています。"
+        },
+        {
+            "question": "プチョンユッケではどんなメニューがありますか？",
+            "answer": "プチョンユッケでは安くておいしいユッケの他にもさまざまなメニューを取り揃えています。"
+        }
+    ],
+    "word_Count": {
+        "text": 73,
+        "QA": 116
+    }
+}

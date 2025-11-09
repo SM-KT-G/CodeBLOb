@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_086640",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=848&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=01130000&ccbaCtcd=34&ccbaCpno=2333401130000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1997-12-23",
+        "domain": "문화/역사관광",
+        "title": "신창향교"
+    },
+    "text": "新昌郷校\\n\n忠清南道牙山市新昌面西部南路840番キル29(邑内里)\\n\n9年(1872)、忠清南道記念物、郷校は、孔子と多くの聖賢に祭祀をして地方民の教育と教化のために国で立てた教育機関だ。シンチャン郷校は、朝鮮粛宗(在位1674∼1720)の時になったと、記録はなく、高宗9年(1872)初めて建てたものと見るのが一般的だ。今残っている建物としては大成殿、明倫堂、ドンジェ・書斎、内三門などだ。大成殿は法事の空間に、前面5間・側面3間規模だ。屋根は側面から見ると、人の教わる字形の切妻屋根である。軒を支えようと装飾して作った恐怖は新しい翼の形であるつの翼型、様式で飾った。中には孔子を中心に彼の弟子たちと中国・韓国聖賢を祀っている。明倫堂は学生たちが集まって勉強する講堂で、前面5間・側面2間規模だ。屋根は側面から見ると、八(八部)字形の入母屋屋根である。朝鮮時代には国で土地と奴婢・本などの支援を受けて生徒たちに教えたが、今は教育機能はなくなり、祭祀の役割だけが残っている。",
+    "QA": [
+        {
+            "question": "この郷校はいつ建てられましたか？",
+            "answer": "この郷校は高宗9年(1872)に建てられました。"
+        },
+        {
+            "question": "郷校の建物の中で一番大きいものは何ですか？",
+            "answer": "郷校の建物の中で一番大きいのは大成殿です。"
+        },
+        {
+            "question": "どのような役割を持っていた建物が今も残っていますか？",
+            "answer": "郷校の建物の中で、今も残っている建物には大成殿や明倫堂があります。"
+        },
+        {
+            "question": "この郷校の屋根の形はどのような形ですか？",
+            "answer": "郷校の屋根は、大成殿が切妻屋根であるのに対し、明倫堂は入母屋屋根です。"
+        },
+        {
+            "question": "何を中心に祀っている建物がありますか？",
+            "answer": "大成殿では孔子を中心に彼の弟子たちと中国・韓国聖賢を祀っています。"
+        }
+    ],
+    "word_Count": {
+        "text": 322,
+        "QA": 181
+    }
+}

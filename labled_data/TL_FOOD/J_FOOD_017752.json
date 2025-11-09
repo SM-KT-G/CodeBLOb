@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_017752",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2022-02-15",
+        "domain": "음식점",
+        "title": "귀촌부부"
+    },
+    "text": "貴村夫婦 (귀촌부부)\\n\n忠清南道扶余郡扶余邑クムソン路（29）\\n\n扶余にあるリゾット、パスタの美味しいお店です！ 地元の人の間では有名で、料理がさっぱりしておいしいですよ~ 特に扶余は栗が有名ですが、栗スープもありキノコがたくさん入ったリゾットも最高です！",
+    "QA": [
+        {
+            "question": "このお店はどこにありますか？",
+            "answer": "扶余郡扶余邑クムソン路（29）にあります。"
+        },
+        {
+            "question": "このお店の名前は何ですか？",
+            "answer": "このお店の名前は『貴村夫婦』です。"
+        },
+        {
+            "question": "このお店の料理はどんな味ですか？",
+            "answer": "このお店の料理はさっぱりしておいしいです。特に栗スープやキノコがたくさん入ったリゾットがおすすめです。"
+        },
+        {
+            "question": "このお店は地元の人にも人気ですか？",
+            "answer": "はい、このお店は地元の人の間でも有名です。"
+        },
+        {
+            "question": "扶余で有名な食材は何ですか？",
+            "answer": "扶余は栗が有名です。"
+        }
+    ],
+    "word_Count": {
+        "text": 96,
+        "QA": 142
+    }
+}

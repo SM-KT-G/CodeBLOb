@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_011111",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1028&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=00880000&ccbaCtcd=34&ccbaCpno=3413400880000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1984-05-17",
+        "domain": "문화/역사관광",
+        "title": "금암리오층석탑"
+    },
+    "text": "金岩里五重石塔 (금암리오층석탑)\\n\n忠清南道扶余郡圭岩面西宮路169番キル33-12(金岩里)\\n\n忠清南道文化財資料 , すぐに村に位置している石塔で、家の敷地を固めていたところ、塔の部分石材が発見され復元しておいたのだ。 村の名前は「金寺」という寺の名前から取ったものだといい、工事当時金銅で作った仏像の一部が一緒に発見され、この一帯が寺跡だったことを裏付けている。 塔は丸い板石の上に塔の石が一つ置かれており、その上に5つの屋根石を順に積み上げた姿だ。 丸い板石がこの塔の基壇の役割をするようだが、本来のものではないものと見られる。 一つだけ残っている塔身の石は、四隅に柱の形が刻まれている。 屋根石は各階に3段の支えがある。 特に5階建ての屋蓋石の台座は3段ではあるが、一番下は非常に退化している状態だ。 なくなった部分が多く、本来の姿を失いつつあり、他の塔に比べて規模も小さく不完全な姿だ。 屋根石の下敷きを3段に置いたり、3階以上は全く置かないなど不規則な様式を見せており、高麗時代に建てられた塔と推測される。",
+    "QA": [
+        {
+            "question": "この石塔は何階建てですか？",
+            "answer": "この石塔は5階建てです。"
+        },
+        {
+            "question": "この石塔はどの時代に建てられましたか？",
+            "answer": "この石塔は高麗時代に建てられました。"
+        },
+        {
+            "question": "この石塔の役割は何ですか？",
+            "answer": "この石塔は寺の一部であり、仏教信仰の象徴として建てられました。"
+        },
+        {
+            "question": "この石塔の特徴は何ですか？",
+            "answer": "この石塔は丸い板石の基壇の上に塔の石が置かれ、その上に5つの屋根石が積み上げられています。また、屋根石の配置には不規則な様式が見られます。"
+        },
+        {
+            "question": "この石塔の周辺に他の文化財はありますか？",
+            "answer": "この石塔の周辺には他にも文化財がありますが、具体的な情報はありません。"
+        }
+    ],
+    "word_Count": {
+        "text": 339,
+        "QA": 178
+    }
+}

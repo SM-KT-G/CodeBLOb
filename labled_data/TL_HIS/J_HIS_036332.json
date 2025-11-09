@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_036332",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=272&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=13&ccbaAsno=05560000&ccbaCtcd=23&ccbaCpno=1332305560000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2020-05-22",
+        "domain": "문화/역사관광",
+        "title": "인천 계양산성"
+    },
+    "text": "仁川桂陽山城 (인천 계양산성)\\n\n仁川広域市桂陽区桂山洞山10-1\\n\n三国時代、史跡、三国時代に初めて築造された後、区間別に改修され、統一新羅時代を経て高麗、朝鮮時代まで使われた石山城で、三国時代の築城技術だけでなく、後代に改修する際に使用した痕跡をよく示しているという点で、時期別城郭施設を比較できる歴史的·学術的価値に優れている",
+    "QA": [
+        {
+            "question": "この城はどの時代に築かれましたか？",
+            "answer": "三国時代、史跡、三国時代に初めて築造されました。"
+        },
+        {
+            "question": "この城はどのように改修されましたか？",
+            "answer": "区間別に改修され、統一新羅時代を経て高麗、朝鮮時代まで使用されました。"
+        },
+        {
+            "question": "この城は何の価値がありますか？",
+            "answer": "この城は時期別城郭施設を比較できる歴史的·学術的価値に優れています。"
+        },
+        {
+            "question": "石山城はどのような痕跡を示していますか？",
+            "answer": "石山城は三国時代の築城技術だけでなく、後代に改修する際に使用した痕跡をよく示しています。"
+        },
+        {
+            "question": "この城はどの場所にありますか？",
+            "answer": "仁川広域市桂陽区桂山洞山10-1にあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 123,
+        "QA": 178
+    }
+}

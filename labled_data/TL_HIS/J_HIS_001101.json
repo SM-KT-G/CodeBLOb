@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_001101",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-02-23",
+        "domain": "문화/역사관광",
+        "title": "The-K慶州ホテルスパ温泉（더케이경주호텔 스파온천）"
+    },
+    "text": "The-K慶州ホテルスパ温泉（더케이경주호텔 스파온천）\\n\n慶尚北道 慶州市 エキスポ路45 （薪坪洞）\\n\n2001年6月にオープンしたスパワールドはサウナ・露天風呂・フィットネス・プールなどを備えています。The-K慶州ホテルが誇る自社開発温泉水は地下630メートルから湧き出る100％天然温泉水で1日900トンの豊かな温泉資源を保有しています。",
+    "QA": [
+        {
+            "question": "温泉水はどこから湧き出ていますか？",
+            "answer": "温泉水は地下630メートルから湧き出ています。"
+        },
+        {
+            "question": "温泉水の特徴は何ですか？",
+            "answer": "温泉水は100％天然で、1日900トンもの豊かな温泉資源を保有しています。"
+        },
+        {
+            "question": "スパワールドにはどんな施設がありますか？",
+            "answer": "スパワールドにはサウナ・露天風呂・フィットネス・プールなどがあります。"
+        },
+        {
+            "question": "The-K慶州ホテルスパ温泉はいつオープンしましたか？",
+            "answer": "The-K慶州ホテルスパ温泉は2001年6月にオープンしました。"
+        }
+    ],
+    "word_Count": {
+        "text": 129,
+        "QA": 148
+    }
+}

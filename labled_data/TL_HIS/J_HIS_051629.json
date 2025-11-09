@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_051629",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=842&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=01010000&ccbaCtcd=31&ccbaCpno=2333101010000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1987-02-12",
+        "domain": "문화/역사관광",
+        "title": "고송정지"
+    },
+    "text": "京畿道に位置したコソン、ジョンウン氏朝鮮時代、純祖(スンジョ)27年(1827)にキムチョイルがキムチュンジュを追悼するために建てられた精子です。キムチュンジュは絶滅復位運動参加で死を受けたおじいさんとお父さんを悲しみながら、隠れて生きながら一生肉と酒を食べずにベオッに平民たちが使った帽子を書いたと伝えます。彼は端宗の墓がある寧越を見ながら号泣して流した涙によって松の木が枯れてしまったそうです。彼は自分をタンオン(炭翁)として炭を職業にしてコソンチョンからをタンオンコトラとも言ったです。精子は大きさが表2間、側面2間であり、屋根は入母屋屋根で構成されています。精子左側には'タンオンの高地'と書かれた岩があり、コソンチョン右へと上がれば、端宗を描いて泣いていたマンウォル岩という岩があります。",
+    "QA": [
+        {
+            "question": "この精子はいつ建てられましたか？",
+            "answer": "純祖27年(1827)に建てられました。"
+        },
+        {
+            "question": "キムチュンジュさんはなぜキムチョイルによって追悼されましたか？",
+            "answer": "キムチュンジュさんは絶滅復位運動参加で死を受けたおじいさんとお父さんを悲しみながら、隠れて生きながら一生肉と酒を食べずにベオッに平民たちが使った帽子を書いたため、追悼されました。"
+        },
+        {
+            "question": "キムチュンジュさんが涙を流して松の木を枯らしてしまった場所はどこですか？",
+            "answer": "彼は端宗の墓がある寧越を見ながら号泣して流した涙によって松の木が枯れてしまいました。"
+        },
+        {
+            "question": "精子の大きさと屋根の形はどうなっていますか？",
+            "answer": "精子の大きさは表2間、側面2間であり、屋根は入母屋屋根で構成されています。"
+        },
+        {
+            "question": "精子の左側にある岩には何が書かれていますか？",
+            "answer": "精子の左側には'タンオンの高地'と書かれた岩があります。"
+        },
+        {
+            "question": "コソンチョン右にある岩の名前は何ですか？",
+            "answer": "コソンチョン右には端宗を描いて泣いていたマンウォル岩という岩があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 255,
+        "QA": 292
+    }
+}

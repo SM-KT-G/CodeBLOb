@@ -1,0 +1,51 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_008928",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42080&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "강릉 망상비치 운영 정책"
+    },
+    "text": "チェックインは15:00時から可能で、チェックアウトは11:00時までです。 チェックインとチェックアウトに関する案内事項は次のとおりです。 ゲストのための様々な施設とサービスが提供されます。 予約をしたお客様には特別な特典が与えられます。 カフェや刺身屋もあり、便利に食事ができます。 朝食は08:00から10:00まで提供され、1人当たり10,000ウォン(幼児含む)で韓国料理で提供されます。",
+    "QA": [
+        {
+            "question": "チェックインは何時から可能ですか？",
+            "answer": "チェックインは15:00時から可能です。"
+        },
+        {
+            "question": "チェックアウトは何時までですか？",
+            "answer": "チェックアウトは11:00時までです。"
+        },
+        {
+            "question": "どのような施設とサービスが提供されますか？",
+            "answer": "ゲストのために様々な施設とサービスが提供されます。"
+        },
+        {
+            "question": "予約をしたお客様には特典がありますか？",
+            "answer": "予約をしたお客様には特別な特典が与えられます。"
+        },
+        {
+            "question": "食事はどのように利用できますか？",
+            "answer": "カフェや刺身屋もあり、便利に食事ができます。"
+        },
+        {
+            "question": "朝食は何時から何時まで提供されますか？",
+            "answer": "朝食は08:00から10:00まで提供されます。"
+        },
+        {
+            "question": "朝食はどのような料理が提供されますか？",
+            "answer": "朝食は1人当たり10,000ウォン(幼児含む)で韓国料理で提供されます。"
+        }
+    ],
+    "word_Count": {
+        "text": 145,
+        "QA": 217
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_009599",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=776&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=00180000&ccbaCtcd=11&ccbaCpno=2331100180000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2002-02-05",
+        "domain": "문화/역사관광",
+        "title": "구용산수위관측소"
+    },
+    "text": "九龍山水位観測所 (구용산수위관측소)\\n\nソウル龍山区青岩洞169,169-1番地\\n\n1924年 , ソウル特別市記念物 , 旧龍山水位観測所は漢江沿いでは初めて、全国では9番目に建設された磁気観測所として潮位と洪水位を観測する目的で建設された。 この観測所が建てられる前の1917年度からすでに同一地点では'九龍山'という揚水標名で普通水位観測が行われていたが、1924年12月に旧龍山水位観測所が建設され、1925年1月に観測が正式に開始されてからより科学的で現代的な水位観測が開始された。 旧龍山水位観測所は潮位変動により1977年に閉鎖されたが、実際の水位観測は1976年9月まで行われた。 ただし、1945年光復以後、6·25戦争による政治的混乱期にはしばらく観測が中断されたようだ。 全体的に原型がよく残っており、水位測定をしていた独立構造物としてソウル漢江沿いでは唯一の現存物であり、全国的にも残っている例が珍しいものと見られる。",
+    "QA": [
+        {
+            "question": "この観測所はいつ建設されましたか？",
+            "answer": "1924年に建設されました。"
+        },
+        {
+            "question": "どのような目的で建設されましたか？",
+            "answer": "潮位と洪水位を観測する目的で建設されました。"
+        },
+        {
+            "question": "この観測所はどのような観測を行っていましたか？",
+            "answer": "水位観測を行っていました。"
+        },
+        {
+            "question": "観測所の閉鎖はいつ行われましたか？",
+            "answer": "1977年に閉鎖されました。"
+        },
+        {
+            "question": "観測所の建物はどのような状態で残っていますか？",
+            "answer": "全体的に原型がよく残っており、現存しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 310,
+        "QA": 134
+    }
+}

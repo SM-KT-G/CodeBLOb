@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_070397",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/collectionList#######",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "백자 청화 풀무늬 항아리1"
+    },
+    "text": "白磁 青花 草文の壺 (백자 청화 풀무늬 항아리)\\n\n国籍/時代: 韓国-朝鮮の陶磁器で作られた白磁製品は、食生活において重要な役割を果たしていました。特に保存や運搬に適しており、団地の住民にとって大切な存在でした。その陶磁器の大きさは、着丈109cm、底径88cm、高さ157cmです。",
+    "QA": [
+        {
+            "question": "この白磁 青花 草文の壺はどこの国のどの時代に作られましたか？",
+            "answer": "この白磁 青花 草文の壺は朝鮮の陶磁器で、韓国の時代に作られました。"
+        },
+        {
+            "question": "なぜ白磁製品は食生活において重要な役割を果たしていたのですか？",
+            "answer": "白磁製品は保存や運搬に適していたため、食品の保存や運搬に使用され、食生活において重要な役割を果たしていました。"
+        },
+        {
+            "question": "この陶磁器の大きさはどのくらいですか？",
+            "answer": "この陶磁器の大きさは、着丈109cm、底径88cm、高さ157cmです。"
+        }
+    ],
+    "word_Count": {
+        "text": 107,
+        "QA": 151
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_009541",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42080&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "양양 빅소 스테이 운영 정책"
+    },
+    "text": "チェックインは16:00に可能で、チェックアウトは11:00までです。 ただし、案内事項としては当建物にはエレベーターがございませんので、ご予約の際にご希望の階を事前にお知らせいただければ、それに合った客室をご用意いたします。 また、入室の際にバーベキューをご希望の場合、炭とグリルをお持ちいただくとバーベキュー場を無料でご利用いただけます。",
+    "QA": [
+        {
+            "question": "チェックインは何時から可能ですか？",
+            "answer": "チェックインは16:00に可能です。"
+        },
+        {
+            "question": "チェックアウトは何時までですか？",
+            "answer": "チェックアウトは11:00までです。"
+        },
+        {
+            "question": "エレベーターはありますか？",
+            "answer": "当建物にはエレベーターがございません。"
+        },
+        {
+            "question": "階を指定して予約することはできますか？",
+            "answer": "はい、ご予約の際にご希望の階を事前にお知らせいただければ、それに合った客室をご用意いたします。"
+        },
+        {
+            "question": "バーベキューを利用する場合は何を持っていけばいいですか？",
+            "answer": "炭とグリルをお持ちいただくと、バーベキュー場を無料でご利用いただけます。"
+        }
+    ],
+    "word_Count": {
+        "text": 125,
+        "QA": 169
+    }
+}

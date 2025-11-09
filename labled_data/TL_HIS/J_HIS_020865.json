@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_020865",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=833&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=00850000&ccbaCtcd=32&ccbaCpno=2333200850000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2005-04-02",
+        "domain": "문화/역사관광",
+        "title": "삼척안의리모과나무"
+    },
+    "text": "三陟の中の里カリン (삼척안의리모과나무)\\n\n江原道三陟市新基面安義里207番地\\n\n江原特別自治道 記念物 , 安義里のカリンは高さ14m、周囲1.05mの大きな木で、年齢は600年余りと推定される。 一般的なカリンの高さが約10m程度であるのに対し、安義里のカリンは高くてもまっすぐに育って生物学的価値が大きい。 この木は200年前と現在の大きさに大きな変化がないと伝えられている。 100年余り前、木の根元が焼け、今も跡が残っている。 茎がほとんど割れて二股に育ったように見える点が独特だ。",
+    "QA": [
+        {
+            "question": "このカリンの名前は何ですか？",
+            "answer": "このカリンの名前は三陟の中の里カリンです。"
+        },
+        {
+            "question": "このカリンの場所はどこですか？",
+            "answer": "このカリンは江原道三陟市新基面安義里207番地にあります。"
+        },
+        {
+            "question": "このカリンの特徴は何ですか？",
+            "answer": "このカリンは高さ14m、周囲1.05mの大きな木で、年齢は600年余りと推定されます。通常のカリンよりも高くまっすぐに育っており、生物学的価値が大きいです。また、茎がほとんど割れて二股に育ったように見える点も独特です。"
+        },
+        {
+            "question": "このカリンの歴史について教えてください。",
+            "answer": "このカリンは200年前から現在の大きさに大きな変化がないと伝えられています。また、100年余り前に木の根元が焼け、その跡が今も残っています。"
+        }
+    ],
+    "word_Count": {
+        "text": 182,
+        "QA": 214
+    }
+}

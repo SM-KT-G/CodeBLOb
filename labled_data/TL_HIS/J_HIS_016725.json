@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_016725",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=795&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=00330000&ccbaCtcd=50&ccbaCpno=2333900330000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1976-09-09",
+        "domain": "문화/역사관광",
+        "title": "무환자나무"
+    },
+    "text": "無患者の木 (무환자나무)\\n\n済州島済州市アラドン山1番地\\n\n済州特別自治道記念物 , 無病者の木は子供に災いが及ばないことから無病者の木と呼ばれ、済州道ではトウクナンまたはトドクナンとも呼ばれている。 実は数珠を作るのに使われたため、寺が建てられた後に植えられたものと見られる。 阿羅洞錦山公園の渓谷で育つ無病者の木は高さが10mで、周囲が3.4mで非常に大きな木だった。 しかし、過去に切られて今は4つの芽が生えている。 このうち周囲が一番大きいのは1.5mに達する。 無患者の木はよく見られない木で、記念物に指定して保護している。",
+    "QA": [
+        {
+            "question": "この木はどこにありますか？",
+            "answer": "無患者の木は済州島済州市アラドン山1番地にあります。"
+        },
+        {
+            "question": "なぜこの木は無病者の木と呼ばれていますか？",
+            "answer": "この木は子供に災いが及ばないため、無病者の木と呼ばれています。"
+        },
+        {
+            "question": "この木はどのようにして済州道に植えられたのですか？",
+            "answer": "この木は数珠を作るために使われた後、寺が建てられた後に植えられました。"
+        },
+        {
+            "question": "無患者の木はどれくらい大きいですか？",
+            "answer": "無患者の木は高さが10mで、周囲が3.4mと非常に大きな木です。"
+        },
+        {
+            "question": "無患者の木はなぜ記念物に指定されているのですか？",
+            "answer": "無患者の木は珍しい木であり、保護のために記念物に指定されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 198,
+        "QA": 189
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_007675",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "しゃぶ王 ( 샤브왕 )"
+    },
+    "text": "しゃぶ王 ( 샤브왕 )\\n\nソウル特別市 ヨンドゥンポ区 シンギルロ167\\n\n辛いものが好きな韓国人の間で流行っている「麻辣料理」を提供しています。ソウル特別市のヨンドゥンポ区に位置した韓食専門店です。おすすめは麻辣湯です。",
+    "QA": [
+        {
+            "question": "しゃぶ王はどのような料理を提供していますか？",
+            "answer": "しゃぶ王は辛い韓国料理を提供しています。特におすすめは麻辣湯です。"
+        },
+        {
+            "question": "しゃぶ王の場所はどこですか？",
+            "answer": "しゃぶ王はソウル特別市のヨンドゥンポ区に位置しています。具体的な住所はシンギルロ167です。"
+        },
+        {
+            "question": "なぜしゃぶ王は韓国人の間で人気があるのですか？",
+            "answer": "しゃぶ王は辛い料理が好きな韓国人にとって魅力的な麻辣料理を提供しているため、人気があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 83,
+        "QA": 134
+    }
+}

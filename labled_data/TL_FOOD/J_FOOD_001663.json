@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001663",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "Flying geckos ( 플라잉게코스 )"
+    },
+    "text": "Flying geckos ( 플라잉게코스 )\n京畿道 ピョンテク市 ペンソンデギョギル97\nアメリカ式のスモークバーベキューが味わえる店です。京畿道のピョンテク市に位置した洋食専門店です。おすすめはステーキです。",
+    "QA": [
+        {
+            "question": "この店の特徴は何ですか？",
+            "answer": "この店の特徴は、アメリカ式のスモークバーベキューが味わえることです。"
+        },
+        {
+            "question": "この店はどこにありますか？",
+            "answer": "この店は京畿道のピョンテク市に位置しています。"
+        },
+        {
+            "question": "この店のおすすめは何ですか？",
+            "answer": "この店のおすすめはステーキです。"
+        }
+    ],
+    "word_Count": {
+        "text": 79,
+        "QA": 82
+    }
+}

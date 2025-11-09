@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_023304",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-06",
+        "domain": "음식점",
+        "title": "松林食堂 ( 송림식당 )"
+    },
+    "text": "松林食堂 ( 송림식당 )\\n\nソウル特別市 広津区 チャヤンボンヨンロ79\\n\nご飯を炒めて食べる豚プルゴギ定食の名店です。ソウル特別市のグァンジン区に位置した韓食専門店です。おすすめは豚プルゴギ定食です。",
+    "QA": [
+        {
+            "question": "松林食堂はどこにありますか？",
+            "answer": "松林食堂はソウル特別市広津区チャヤンボンヨンロ79にあります。"
+        },
+        {
+            "question": "松林食堂のおすすめメニューは何ですか？",
+            "answer": "松林食堂のおすすめは豚プルゴギ定食です。ご飯を炒めて食べる豚プルゴギが人気ですよ。"
+        },
+        {
+            "question": "松林食堂はどのエリアに位置していますか？",
+            "answer": "松林食堂はソウル特別市のグァンジン区に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 76,
+        "QA": 111
+    }
+}

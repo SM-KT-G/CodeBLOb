@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_029511",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/lodge/hotel-charis",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "ホテルカリス"
+    },
+    "text": "ホテルカリス\\n\n仁川広域市 桂陽区 桂陽大路 28\\n\n21世紀国際都市、仁川とソウルの中心地、富平ICにあるホテルカリスは、ソウルと仁川国際空港との移動が楽で、金浦空港の移動にも20分で行け、アクセスが自由なホテルです。",
+    "QA": [
+        {
+            "question": "ホテルカリスはどこにありますか？",
+            "answer": "ホテルカリスは仁川広域市桂陽区桂陽大路28番地にあります。"
+        },
+        {
+            "question": "ホテルカリスはどのような立地ですか？",
+            "answer": "ホテルカリスは21世紀国際都市である仁川とソウルの中心地に位置しており、富平ICにも近い便利な場所にあります。"
+        },
+        {
+            "question": "ホテルカリスへのアクセスは便利ですか？",
+            "answer": "はい、ホテルカリスへのアクセスは非常に便利です。ソウルと仁川国際空港への移動が楽であり、金浦空港へも20分で行くことができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 82,
+        "QA": 147
+    }
+}

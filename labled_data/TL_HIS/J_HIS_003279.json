@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_003279",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1221&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=79&ccbaAsno=03690000&ccbaCtcd=11&ccbaCpno=4411103690000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2008-02-28",
+        "domain": "문화/역사관광",
+        "title": "서울대학교 구 공과대학 광산학과 교사"
+    },
+    "text": "ソウル大学旧工科大学鉱山学科校舎 (서울대학교 구 공과대학 광산학과 교사)\\n\nソウル蘆原区孔陵洞189番地\\n\n1942年 , 国家登録文化財 , 昭和17年新築の建物で中央の本館を中心に武道場と講堂(現実験室と研究室)が配置されている。日本による植民地時代には京城帝国大学鉱山学科として、光復後1980年まではソウル大学工科大学として使われ、現在はソウル科学技術大学校(旧ソウル産業大学校)で使用されている。デザインはモダニズム風に従っているが、全体配置では古典的な枠組みを見せており、特に本館中央に塔を高く配置して本館の権威を視覚的に表わし、日本による植民地時代高等教育施設の面貌がよく表れている。",
+    "QA": [
+        {
+            "question": "この建物はいつ建てられましたか？",
+            "answer": "1942年に建てられました。"
+        },
+        {
+            "question": "この建物はどのような用途で使用されていましたか？",
+            "answer": "日本の植民地時代には京城帝国大学鉱山学科として、光復後はソウル大学工科大学として使用されました。"
+        },
+        {
+            "question": "現在はどの大学に使用されていますか？",
+            "answer": "現在はソウル科学技術大学校（旧ソウル産業大学校）で使用されています。"
+        },
+        {
+            "question": "この建物のデザインはどのようなスタイルですか？",
+            "answer": "モダニズム風のデザインですが、全体的な配置では古典的な枠組みを持っています。"
+        },
+        {
+            "question": "建物の中で特に目を引く部分はありますか？",
+            "answer": "本館中央に高い塔が配置されており、建物の権威を視覚的に表しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 222,
+        "QA": 197
+    }
+}

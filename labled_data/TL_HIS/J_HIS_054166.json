@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_054166",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/view?relicId=147614",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "글자를 새긴 암키와 조각"
+    },
+    "text": "文字を刻んだ平瓦片 (글자를 새긴 암키와 조각)\\n\nがれきには、両角に「開」の字が打刃されています。このがれきの国籍と時代は、韓国の統一新羅時代です。材質は土でできており、瓦のような質感があります。分類としては、主生活の建築部材の一つである屋根材の一部として使われていました。サイズは、現在の幅は103cm、長さは155cmであり、また幅も120cm、長さも97cmです。",
+    "QA": [
+        {
+            "question": "このがれきの国籍は何ですか？",
+            "answer": "韓国"
+        },
+        {
+            "question": "このがれきは何時代のものですか？",
+            "answer": "統一新羅時代"
+        },
+        {
+            "question": "このがれきはどのような材質でできていますか？",
+            "answer": "土"
+        },
+        {
+            "question": "このがれきは何に使われていましたか？",
+            "answer": "屋根材の一部として使われていました"
+        },
+        {
+            "question": "このがれきのサイズは何ですか？",
+            "answer": "幅は103cm、長さは155cmであり、また幅も120cm、長さも97cmです"
+        }
+    ],
+    "word_Count": {
+        "text": 137,
+        "QA": 110
+    }
+}

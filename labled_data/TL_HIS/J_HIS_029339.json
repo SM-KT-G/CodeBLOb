@@ -1,0 +1,31 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_029339",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101971",
+        "collectedDate": "2023-09-07",
+        "publishedDate": "2022-03-04",
+        "domain": "문화/역사관광",
+        "title": "周辺観光地　案内"
+    },
+    "text": "周辺観光地　案内\n萬人契ウェルカムセンターを過ぎて上の方に上がると、萬人契跡、虹の歩道橋があります。 虹の歩道橋を降りると、金祐鎭（キム・ウジン）通り、車凡錫（チャ・ボムソク）通り、木原洞壁画通りなど、様々な通りや観光地に遭遇できます。   萬人契ウェルカムセンターの左側付近には、ノラノ美術館があります。",
+    "QA": [
+        {
+            "question": "万人契ウェルカムセンターを過ぎて上の方に上がると、どんな観光地がありますか？",
+            "answer": "萬人契跡や虹の歩道橋があります。また、虹の歩道橋を降りると、金祐鎭通りや車凡錫通り、木原洞壁画通りなど、様々な通りや観光地に遭遇できます。"
+        },
+        {
+            "question": "萬人契ウェルカムセンターの左側にある美術館は何ですか？",
+            "answer": "ノラノ美術館です。"
+        }
+    ],
+    "word_Count": {
+        "text": 112,
+        "QA": 104
+    }
+}

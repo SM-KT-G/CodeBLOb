@@ -1,0 +1,31 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_026878",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42070&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "제천 M 모텔"
+    },
+    "text": "堤川Mは堤川唯一の非喫煙者専用モーテルです。 客室内では禁煙が行われ、喫煙者はモーテルの駐車場にある喫煙エリアを利用できます。 非喫煙客室で喫煙すると入室を拒否され、1人追加につき1万ウォンの追加料金が発生し、オンシーズン料金は別途適用されます。",
+    "QA": [
+        {
+            "question": "堤川Mはどのような施設ですか？",
+            "answer": "堤川Mは非喫煙者専用モーテルで、客室内では禁煙が行われています。喫煙者は駐車場にある喫煙エリアを利用することができます。"
+        },
+        {
+            "question": "非喫煙客室で喫煙するとどうなりますか？",
+            "answer": "非喫煙客室で喫煙すると、入室を拒否されます。また、1人追加ごとに1万ウォンの追加料金が発生し、オンシーズン料金が適用されます。"
+        }
+    ],
+    "word_Count": {
+        "text": 90,
+        "QA": 115
+    }
+}

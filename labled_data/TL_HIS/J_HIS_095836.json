@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_095836",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=358&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=18&ccbaAsno=02370000&ccbaCtcd=37&ccbaCpno=1483702370000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2000-01-07",
+        "domain": "문화/역사관광",
+        "title": "의성 소우당 고택"
+    },
+    "text": "朝鮮時代に栄えた国家民俗文化財であるこの古宅は北側には金城山、南は矛がかかる野原がいるサンウン村に位置している。この村は朝鮮明宗時代の永川が種が入って同じ苗字村に繁盛した。村には雲谷党とソウダンをはじめ、10軒余りの伝統家屋が残っている。ウンゴクダンはソウダンを建てた伊賀発議実兄である雲谷イウィバルが建てたものだ。ソウダンは義城地方の両班の家で生活と離れ屋に分けられている。所帯戸は、門屋、母屋、サランチェ、ジュンムンチェとなっており、母屋は1880年代に、サランチェは19世紀初期に建てられた。知ったサランチェは、前に池と森が造成されて静かで美しい場所だ。ソウダンの特徴は中心領域の西側に土塀をおいて広い空間を用意して、別段叙情員を造成したのだ。また、サランチェの東端にある中文を通じて、母屋に出入りする方式は、朝鮮後期の両班の家の特徴を見せてくれる。この古宅は一般的に観覧が可能な文化財だが、所有主の事情によって観覧が制限されることもできる。",
+    "QA": [
+        {
+            "question": "この古宅が位置している村の名前は何ですか？",
+            "answer": "この古宅が位置している村の名前はサンウン村です。"
+        },
+        {
+            "question": "この古宅の特徴的な建築物は何ですか？",
+            "answer": "この古宅の特徴的な建築物はソウダンと呼ばれるものです。"
+        },
+        {
+            "question": "ソウダンが建てられたのは誰ですか？",
+            "answer": "ソウダンが建てられたのは伊賀発議実兄である雲谷イウィバルです。"
+        },
+        {
+            "question": "サランチェがいつ建てられましたか？",
+            "answer": "サランチェは19世紀初期に建てられました。"
+        },
+        {
+            "question": "この古宅の特徴的な庭園はどのようなものですか？",
+            "answer": "この古宅の特徴的な庭園は、前に池と森が造成されて静かで美しい場所です。"
+        }
+    ],
+    "word_Count": {
+        "text": 310,
+        "QA": 171
+    }
+}

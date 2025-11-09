@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_006493",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://apis.data.go.kr/1400000/service/cultureInfoService2/mntInfoOpenAPI2",
+        "collectedDate": "2023-11-22",
+        "publishedDate": "2020-12-01",
+        "domain": "자연관광",
+        "title": "금성산"
+    },
+    "text": "金星山 (금성산)\\n\n慶尚南道陜川郡大柄面城里\\n\n山の高さ : 592.1m , 錦城山は陜川郡大柄面長短里と城里、檜陽里の境界を成す地点にある。 頂上は奇妙な岩も見ごたえがあるが、眺望がやはり最高だ。 コバルト色の陜川湖はもちろん、パノラマで広がる周辺の山群の全景が壮観だ。",
+    "QA": [
+        {
+            "question": "金星山 (금성산)はどこに位置していますか？",
+            "answer": "金星山は慶尚南道陜川郡大柄面城里に位置しています。"
+        },
+        {
+            "question": "金星山の高さは何メートルですか？",
+            "answer": "金星山の高さは592.1メートルです。"
+        },
+        {
+            "question": "金星山の頂上には何がありますか？",
+            "answer": "金星山の頂上には奇妙な岩があります。"
+        },
+        {
+            "question": "金星山から見える景色はどのようなものですか？",
+            "answer": "金星山からは陜川湖のコバルト色や周辺の山群の全景が壮観に見えます。"
+        },
+        {
+            "question": "金星山はどのようにアクセスできますか？",
+            "answer": "金星山へは陜川郡大柄面長短里と城里、檜陽里の境界にあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 102,
+        "QA": 161
+    }
+}

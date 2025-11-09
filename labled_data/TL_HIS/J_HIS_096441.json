@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_096441",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1252&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=79&ccbaAsno=07130000&ccbaCtcd=37&ccbaCpno=4413707130000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2018-05-08",
+        "domain": "문화/역사관광",
+        "title": "이육사 친필원고 ‘편복’"
+    },
+    "text": "国家登録文化財に指定された李陸史(イウォンロク、1904~1944)は詩人であり、独立運動家として知られている。彼が残した詩人'便服'は、植民地支配期に我が民族の現実をコウモリに比喩して形象化した作品である。しかし、当時、日本の事前検閲によって発表されることができないまま残されていた。しかし、独立後の1956年に初めて'陸士詩集'に収録されて一般に知られるようになった。李陸史の'便服'はその中でも最も重量、立派な作品の一つと評価されている。この直筆原稿は遺族たちによって慶尚北道安東(キョンサンプクト・アンドン)に所在した李陸史文学館に寄贈された。また、政府は、彼の功勲を称えるため、1990年に大韓民国建国勲章愛国章を追敍した。",
+    "QA": [
+        {
+            "question": "李陸史はどのような文化財に指定されていますか？",
+            "answer": "李陸史は国家登録文化財に指定されています。"
+        },
+        {
+            "question": "李陸史の詩人としての作品は何に例えられていますか？",
+            "answer": "彼の作品'便服'は植民地支配期に我が民族の現実をコウモリに例えて形象化したものです。"
+        },
+        {
+            "question": "李陸史の詩人としての評価はどのようなものですか？",
+            "answer": "彼の'便服'は最も重厚で立派な作品の一つと評価されています。"
+        },
+        {
+            "question": "李陸史の功績を称えるために政府が行った行動は何ですか？",
+            "answer": "政府は彼の功績を称えるため、1990年に大韓民国建国勲章愛国章を追贈しました。"
+        }
+    ],
+    "word_Count": {
+        "text": 232,
+        "QA": 169
+    }
+}

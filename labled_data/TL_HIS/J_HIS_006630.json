@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_006630",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=463&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=01150000&ccbaCtcd=36&ccbaCpno=2113601150000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1985-02-25",
+        "domain": "문화/역사관광",
+        "title": "강진향교"
+    },
+    "text": "康津郷校 (강진향교)\\n\n全羅南道康津郡康津邑郷校路140(東城里)\\n\n全羅南道有形文化財 , 郷校は立派な儒学者を祭祀し、地方民の儒学教育と教化のために国で建てた教育機関だ。 初めて建てられた年代は不明だが、ユンタクが大成殿にイチョウを植えることを勧めたという記録と現在のイチョウの年齢を推察して朝鮮前期の1400年代と推定される。 現在残っている建物は大成殿·東斎·西斎·明倫堂などがある。 前方に明倫堂を中心に学びの空間を置き、後方に大成殿を中心に祭祀空間を置いており、転校後墓の配置形式に従っている。 朝鮮時代には国家から土地、奴婢、本などを支給され学生たちを教えたが、甲午改革(1894)以後に教育的機能はなくなり春·秋に祭祀だけが行われる。 ここに保管されている本は地方郷土史研究に良い資料になる。",
+    "QA": [
+        {
+            "question": "この康津郷校はどのような場所ですか？",
+            "answer": "康津郷校は全羅南道康津郡康津邑郷校路に位置している教育機関です。儒学者の祭祀と儒学教育のために建てられました。"
+        },
+        {
+            "question": "康津郷校の建物は何がありますか？",
+            "answer": "康津郷校には大成殿、東斎、西斎、明倫堂などの建物があります。"
+        },
+        {
+            "question": "康津郷校の建物の年代はいつ頃ですか？",
+            "answer": "正確な年代は不明ですが、朝鮮前期の1400年代と推定されています。"
+        },
+        {
+            "question": "康津郷校は何のために使用されていましたか？",
+            "answer": "康津郷校は地方民の儒学教育と教化のために使用されていました。"
+        },
+        {
+            "question": "康津郷校の教育機能は今も残っていますか？",
+            "answer": "甲午改革以後に教育的機能はなくなりましたが、春・秋に祭祀が行われています。"
+        },
+        {
+            "question": "康津郷校にはどのような資料が保管されていますか？",
+            "answer": "康津郷校には地方郷土史研究に役立つ本などが保管されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 261,
+        "QA": 243
+    }
+}

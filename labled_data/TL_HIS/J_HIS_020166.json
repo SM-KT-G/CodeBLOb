@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_020166",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1150&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=04520000&ccbaCtcd=38&ccbaCpno=3413804520000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2008-10-30",
+        "domain": "문화/역사관광",
+        "title": "사서석의 목판"
+    },
+    "text": "司書席の木版 (사서석의 목판)\\n\n慶尚南道山清郡\\n\n慶尚南道文化財資料 , 栗谷は朝鮮中期の大学者として西人、老論の学派で宗主とする人物だ。 司書釈義はこのような人物が司書の各一節解釈に対して具体的にどのような立場を取っていたのかを知ることができる重要な資料だ。 その中でも特に「紅圈黑圈」など、彼が朱子およびその他の学者が分析していた内容に対する疑問を提起したり同感する様々な表示をしている蘇州勧評部分が注目される。 原本だった筆写本が現在残っているかは分からないが、これを刊行する媒介となったこの本版は非常に重要な資料と見ることができる。",
+    "QA": [
+        {
+            "question": "この木版はどこにありますか？",
+            "answer": "この木版は慶尚南道山清郡にあります。"
+        },
+        {
+            "question": "栗谷はどのような人物ですか？",
+            "answer": "栗谷は朝鮮中期の大学者で、西人、老論の学派で宗主とされる人物です。"
+        },
+        {
+            "question": "司書釈義とは何ですか？",
+            "answer": "司書釈義は、司書の各一節解釈に対して具体的にどのような立場を取っていたかを知ることができる重要な資料です。"
+        },
+        {
+            "question": "蘇州勧評部分については何が注目されますか？",
+            "answer": "蘇州勧評部分では、朱子やその他の学者が分析していた内容に対する疑問を提起したり同感する表示がみられます。"
+        },
+        {
+            "question": "この木版は現存していますか？",
+            "answer": "原本の筆写本は現在残っているかは分かりませんが、この本版は非常に重要な資料と見なされています。"
+        }
+    ],
+    "word_Count": {
+        "text": 200,
+        "QA": 203
+    }
+}

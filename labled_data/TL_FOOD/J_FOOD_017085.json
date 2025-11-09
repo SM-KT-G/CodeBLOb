@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_017085",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-05",
+        "domain": "음식점",
+        "title": "高大前カタクチイワシ素麺 ( 고대앞멸치국수 )"
+    },
+    "text": "高大前カタクチイワシ素麺 ( 고대앞멸치국수 )\\n\nソウル特別市 東大門区 チェギロ2\\n\n漫画「食客」で紹介された名店です。ソウル特別市のドンデムン区に位置した韓食専門店です。代表的なメニューはカタクチイワシ素麺です。",
+    "QA": [
+        {
+            "question": "このレストランの名前は何ですか？",
+            "answer": "高大前カタクチイワシ素麺 ( 고대앞멸치국수 )"
+        },
+        {
+            "question": "このレストランはどこにありますか？",
+            "answer": "ソウル特別市 東大門区 チェギロ2"
+        },
+        {
+            "question": "このレストランはどの漫画で紹介されましたか？",
+            "answer": "「食客」"
+        },
+        {
+            "question": "このレストランの代表的なメニューは何ですか？",
+            "answer": "カタクチイワシ素麺"
+        }
+    ],
+    "word_Count": {
+        "text": 81,
+        "QA": 96
+    }
+}

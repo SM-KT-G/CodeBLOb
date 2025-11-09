@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_001553",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42021&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "부산 사상 호텔앤레스트"
+    },
+    "text": "23年5月新築オープンホテルアンドレストは、お客様のすっきりとした快適な一日のために最善を尽くしています。 お客様の多くのご利用をお待ちしております。 駐車をご希望のお客様は、車の鍵をお預かりしていただければ、代理駐車いたします。 建物全体が禁煙建物に指定されており、喫煙は禁止されています。 また、ペットの同伴はできません。 ありがとうございます。",
+    "QA": [
+        {
+            "question": "ホテルアンドレストはいつオープンしましたか？",
+            "answer": "ホテルアンドレストは23年5月に新築オープンしました。"
+        },
+        {
+            "question": "ホテルアンドレストでは駐車場が利用できますか？",
+            "answer": "はい、ホテルアンドレストでは駐車場をご利用いただけます。お客様の車の鍵をお預かりして代理駐車をいたします。"
+        },
+        {
+            "question": "ホテルアンドレストは禁煙ですか？",
+            "answer": "はい、ホテルアンドレストは建物全体が禁煙建物ですので、喫煙は禁止されています。"
+        },
+        {
+            "question": "ペットを連れて宿泊することはできますか？",
+            "answer": "申し訳ございませんが、ホテルアンドレストではペットの同伴はできません。"
+        }
+    ],
+    "word_Count": {
+        "text": 128,
+        "QA": 172
+    }
+}

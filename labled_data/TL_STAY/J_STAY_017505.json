@@ -1,0 +1,31 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_017505",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-02-25",
+        "domain": "숙박",
+        "title": "リベロホテル（旧ホテルリベラ海雲台）（리베로호텔（구. 호텔리베라 해운대））"
+    },
+    "text": "リベロホテル（旧ホテルリベラ海雲台）（리베로호텔（구. 호텔리베라 해운대））\\n\n釜山広域市 海雲台区 亀南路29番キル21\\n\nリベロホテルは91の客室、ウエディングホール、宴会場やレストラン、コーヒーショップ、超高速インターネットを完備しています。",
+    "QA": [
+        {
+            "question": "リベロホテルはどのような設備を持っていますか？",
+            "answer": "リベロホテルは91の客室、ウエディングホール、宴会場やレストラン、コーヒーショップ、超高速インターネットを完備しています。"
+        },
+        {
+            "question": "リベロホテルの場所はどこですか？",
+            "answer": "リベロホテルは釜山広域市海雲台区亀南路29番キル21に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 93,
+        "QA": 99
+    }
+}

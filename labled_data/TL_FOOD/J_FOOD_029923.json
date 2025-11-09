@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_029923",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/petra-palace",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "PETRA PALACE"
+    },
+    "text": "PETRA PALACE\\n\nソウル特別市 龍山区 梨泰院路197\\n\nソウル市梨泰院洞にある「PETRA PALACE（ペトラパレス／ペトゥラペリス）」は中東料理が味わえるお店で、新鮮でヘルシーな料理を提供しています。",
+    "QA": [
+        {
+            "question": "ペトラパレスはどこにありますか？",
+            "answer": "ペトラパレスはソウル市梨泰院洞にあります。"
+        },
+        {
+            "question": "ペトラパレスではどのような料理が提供されていますか？",
+            "answer": "ペトラパレスでは中東料理が提供されています。"
+        },
+        {
+            "question": "ペトラパレスの料理は新鮮ですか？",
+            "answer": "はい、ペトラパレスでは新鮮な料理が提供されています。"
+        },
+        {
+            "question": "ペトラパレスの料理はヘルシーですか？",
+            "answer": "はい、ペトラパレスの料理はヘルシーです。"
+        }
+    ],
+    "word_Count": {
+        "text": 80,
+        "QA": 121
+    }
+}

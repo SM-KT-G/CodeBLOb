@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_002145",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-08-31",
+        "domain": "음식점",
+        "title": "THE SKI&Coffee（더스키앤커피）"
+    },
+    "text": "THE SKI&Coffee（더스키앤커피）\\n\nソウル特別市 鐘路区 東崇キル 63\\n\nワッフルも有名なお店です。代表的なメニューはアメリカーノです。この店はソウル特別市のテハンノに位置したカフェ（コーヒーショップ）です。",
+    "QA": [
+        {
+            "question": "このカフェの場所はどこですか？",
+            "answer": "ソウル特別市のテハンノに位置しています。"
+        },
+        {
+            "question": "このカフェで有名なメニューは何ですか？",
+            "answer": "代表的なメニューはアメリカーノです。"
+        },
+        {
+            "question": "このカフェの特徴は何ですか？",
+            "answer": "ワッフルも有名なお店です。"
+        }
+    ],
+    "word_Count": {
+        "text": 82,
+        "QA": 72
+    }
+}

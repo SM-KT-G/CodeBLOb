@@ -1,0 +1,31 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_017746",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-11-24",
+        "domain": "음식점",
+        "title": "貴賓トルソッパプ（귀빈돌솥밥）"
+    },
+    "text": "貴賓トルソッパプ（귀빈돌솥밥）\\n\n大田広域市 中区 中橋路51\\n\n「貴賓トルソッパプ（キビントルソッパプ）」は、釜飯（トルソッパプ）やさまざまな山菜を味わえる韓国料理店です。",
+    "QA": [
+        {
+            "question": "このレストランの場所はどこですか？",
+            "answer": "貴賓トルソッパプ（キビントルソッパプ）は大田広域市中区中橋路51にあります。"
+        },
+        {
+            "question": "このレストランではどんな料理が楽しめますか？",
+            "answer": "このレストランでは釜飯（トルソッパプ）やさまざまな山菜を味わうことができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 65,
+        "QA": 85
+    }
+}

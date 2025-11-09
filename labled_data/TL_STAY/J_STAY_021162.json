@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_021162",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42040&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "여수 터틀베이펜션"
+    },
+    "text": "麗水タートルベイペンションは、あなたのための憩いの場として余裕と癒しを提供しています。 客室は午後3時に入室可能で、午前11時に退室する必要があります。 次の利用者のために備品整理と清掃時間のために時間を守ることが重要です。 もし22:00以降に到着する場合は、事前にご連絡ください。 退室の際には必ずチェックアウト点検を受けなければならず、客室什器破損が発生した場合はペンションのスタッフに知らせなければなりません。 ゴミは指定された場所に分別する必要があります。",
+    "QA": [
+        {
+            "question": "チェックインの時間は何時ですか？",
+            "answer": "午後3時に入室可能です。"
+        },
+        {
+            "question": "チェックアウトの時間は何時ですか？",
+            "answer": "午前11時に退室する必要があります。"
+        },
+        {
+            "question": "22時以降に到着する場合はどうすればいいですか？",
+            "answer": "事前にご連絡ください。"
+        },
+        {
+            "question": "退室の際に何をしなければなりませんか？",
+            "answer": "チェックアウト点検を受けなければなりません。"
+        },
+        {
+            "question": "客室什器破損が発生した場合はどうすればいいですか？",
+            "answer": "ペンションのスタッフに知らせなければなりません。"
+        },
+        {
+            "question": "ゴミの処理方法はありますか？",
+            "answer": "ゴミは指定された場所に分別する必要があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 170,
+        "QA": 165
+    }
+}

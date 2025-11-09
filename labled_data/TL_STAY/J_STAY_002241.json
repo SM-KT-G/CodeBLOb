@@ -1,0 +1,63 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_002241",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42040&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "영광 하운드 호텔 영광터미널점"
+    },
+    "text": "Yanolja Brand HOUND HOTELは全羅道で初めて霊光ターミナル店から上陸しました。 このホテルでは、シリベッドを提供し、リラックスできます。 また、65インチTVが客室に備えられており、ホットなドラマや映画を楽しみながらぐっすり眠ることができます。 しかも、ヒーリングをご希望の方のために心を楽にすることができます。 当ホテルは大型駐車場を完備しており、車を便利に駐車できるメリットがあります。 また、無料で簡単な朝食を提供し、旅行者の味覚を心地よくすることができます。 洗濯及び乾燥セルフサービスも提供され、皆様のニーズに応えることができます。 すべての客室にはシーリーベッドが完備されており、無制限のWi-Fiをご利用いただけます。",
+    "QA": [
+        {
+            "question": "ホテルの名前は何ですか？",
+            "answer": "Yanolja Brand HOUND HOTEL（ヤノルジャブランドハウンドホテル）です。"
+        },
+        {
+            "question": "どこに位置していますか？",
+            "answer": "霊光ターミナル店から上陸しました。"
+        },
+        {
+            "question": "どのような部屋が提供されていますか？",
+            "answer": "シリベッドが提供され、リラックスできる部屋をご用意しています。"
+        },
+        {
+            "question": "客室には何が備えられていますか？",
+            "answer": "65インチTVが備えられ、ホットなドラマや映画を楽しむことができます。"
+        },
+        {
+            "question": "ヒーリングを希望する方に何が提供されていますか？",
+            "answer": "心を楽にすることができる施設があります。"
+        },
+        {
+            "question": "駐車場はありますか？",
+            "answer": "はい、大型駐車場を完備しています。"
+        },
+        {
+            "question": "朝食は提供されますか？",
+            "answer": "はい、無料で簡単な朝食を提供しています。"
+        },
+        {
+            "question": "洗濯サービスはありますか？",
+            "answer": "はい、洗濯及び乾燥セルフサービスが提供されています。"
+        },
+        {
+            "question": "どのようなベッドが提供されますか？",
+            "answer": "シーリーベッドが提供されています。"
+        },
+        {
+            "question": "Wi-Fiは利用できますか？",
+            "answer": "はい、無制限のWi-Fiをご利用いただけます。"
+        }
+    ],
+    "word_Count": {
+        "text": 239,
+        "QA": 292
+    }
+}

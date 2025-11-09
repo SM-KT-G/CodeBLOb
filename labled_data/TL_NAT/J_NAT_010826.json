@@ -1,0 +1,51 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_010826",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=899&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=02750000&ccbaCtcd=38&ccbaCpno=2333802750000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2010-06-17",
+        "domain": "자연관광",
+        "title": "산청 청송사 소나무"
+    },
+    "text": "山清青松寺松 (산청 청송사 소나무)\\n\n慶尚南道山清郡市川面中山里309ほか\\n\n慶尚南道記念物 , マツはマツ科の常緑針葉喬木で、学名はPinus densiflora S.et Z.である。 松の花は4~5月に開花し、実は球果として翌年9~10月に開かれる。 青松寺の松は山清郡市川面中山里の大韓仏教曹渓宗青松寺境内にあるが、高さが14~17m、周囲が3.9mだ。 年輪測定上、約400~500年生まれと推定される老巨樹として樹冠が一ヶ所に伸び樹形が良く、1987年に保護樹に指定されてきたが、2007年1月に山清郡が文化財指定申請をして市道記念物に指定された。 新羅末期の学者であるチェ·チウォンが全国を遊覧して智異山の下にある青松寺に至って松を植えたが、初期に死んでその後一本の松が生き返ったのが今の青松寺の松だと伝えている。",
+    "QA": [
+        {
+            "question": "この松の学名は何ですか？",
+            "answer": "この松の学名はPinus densiflora S.et Z.です。"
+        },
+        {
+            "question": "松の花はいつ咲きますか？",
+            "answer": "松の花は4~5月に咲きます。"
+        },
+        {
+            "question": "松の実はいつ開きますか？",
+            "answer": "松の実は翌年の9~10月に開きます。"
+        },
+        {
+            "question": "この松の高さはどれくらいですか？",
+            "answer": "この松の高さは14~17mです。"
+        },
+        {
+            "question": "この松は何年生まれだと推定されていますか？",
+            "answer": "この松は約400~500年生まれだと推定されています。"
+        },
+        {
+            "question": "なぜこの松は保護樹に指定されていますか？",
+            "answer": "この松は樹形が良く、年輪測定上約400~500年生まれの老巨樹であるため、1987年に保護樹に指定されました。"
+        },
+        {
+            "question": "なぜ青松寺の松は特別なのですか？",
+            "answer": "青松寺の松は、新羅末期の学者であるチェ・チウォンが植えた松であり、初期に死んだ後一本の松が生き返ったと伝えられています。"
+        }
+    ],
+    "word_Count": {
+        "text": 270,
+        "QA": 244
+    }
+}

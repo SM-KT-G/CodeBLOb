@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_087486",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=27&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=11&ccbaAsno=03110000&ccbaCtcd=37&ccbaCpno=1113703110000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2009-06-30",
+        "domain": "문화/역사관광",
+        "title": "안동 봉정사 대웅전"
+    },
+    "text": "安東 ポンジョンサ・デウンジョン\\n\n慶尚北道安東市西後面ボンジョンサギル222(胎蔵里)\\n\n朝鮮時代初期、国宝、鳳亭寺(鳳停寺)は672年(新羅の文武王12)ヌンイン大使(能仁大師)によって創建されたという伝説が伝えるのに、<阿弥陀堂中央捜査棟上げ>など発見された具体的な資料を通じてみると、7世紀後半ヌンイン大使によって創建されたものと推定される中心の法堂の大雄殿には釈迦モニー三尊像が祀られている。1962年解体・修理の際に発見した記録から、朝鮮前期の建物と推定される。規模は表3間・側面3間であり、屋根は側面から見ると、八(八部)の字の形をした入母屋屋根である。軒を支えようと装飾して作った恐怖が柱の上だけでなく、柱の間にもあるダポ様式だが、外に伸ばした材料の飾らない形が高麗末・朝鮮初期建築様式をよく備えており、前方に縁側を設置したのが特徴である。建物の内側には、丹青がよく残っている、この時代の文様を研究する上で重要な資料となっており、健全で力強い仕組みをよく備えており、朝鮮前期の建築様式の特徴をよく示している。",
+    "QA": [
+        {
+            "question": "鳳亭寺はいつ創建されましたか？",
+            "answer": "鳳亭寺は672年に創建されました。"
+        },
+        {
+            "question": "鳳亭寺の創建者は誰ですか？",
+            "answer": "鳳亭寺の創建者はヌンイン大使(能仁大師)です。"
+        },
+        {
+            "question": "鳳亭寺で何が祀られていますか？",
+            "answer": "鳳亭寺の大雄殿には釈迦モニー三尊像が祀られています。"
+        },
+        {
+            "question": "鳳亭寺の建物の特徴は何ですか？",
+            "answer": "鳳亭寺の建物は八(八部)の字の形をした入母屋屋根やダポ様式の柱、側面に縁側を設置するなど、高麗末・朝鮮初期建築様式の特徴を示しています。"
+        },
+        {
+            "question": "鳳亭寺の建物内には何が残っていますか？",
+            "answer": "鳳亭寺の建物内には丹青がよく残っており、朝鮮前期の文様を研究する上で重要な資料となっています。"
+        }
+    ],
+    "word_Count": {
+        "text": 340,
+        "QA": 189
+    }
+}

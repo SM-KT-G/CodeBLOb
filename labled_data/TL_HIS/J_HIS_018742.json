@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_018742",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101933",
+        "collectedDate": "2023-10-06",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "봉수대"
+    },
+    "text": "烽燧台\\n\n烽燧または煙信号(Smoke signal)は最も古い形態の長距離通信手段の一つだ。 長距離用視覚的通信手段として烽燧は便り伝達、危険信号または人々を共同区域に呼び集めるのに利用された。\n",
+    "QA": [
+        {
+            "question": "烽燧台は何のために使用されましたか？",
+            "answer": "烽燧台は便り伝達、危険信号または人々を共同区域に呼び集めるために使用されました。"
+        },
+        {
+            "question": "烽燧台はどのように長距離通信を行いましたか？",
+            "answer": "烽燧台は煙信号を使って長距離通信を行いました。"
+        },
+        {
+            "question": "烽燧台はどのような形態の通信手段でしたか？",
+            "answer": "烽燧台は視覚的な通信手段であり、煙信号によって情報を伝えました。"
+        },
+        {
+            "question": "烽燧台はどのような目的で使用されましたか？",
+            "answer": "烽燧台は主に便り伝達や危険信号の送信、人々の共同区域への集結を目的として使用されました。"
+        },
+        {
+            "question": "烽燧台はどのような時代に使用されましたか？",
+            "answer": "烽燧台は古代から中世にかけて使用されました。"
+        }
+    ],
+    "word_Count": {
+        "text": 73,
+        "QA": 193
+    }
+}

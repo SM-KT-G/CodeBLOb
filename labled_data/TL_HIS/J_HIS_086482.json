@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_086482",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=366&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=00030000&ccbaCtcd=34&ccbaCpno=2113400030000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1973-12-26",
+        "domain": "문화/역사관광",
+        "title": "신안사 대광전"
+    },
+    "text": "新安寺大広殿\\n\n忠清南道錦山郡堤原面新安里52\\n\n朝鮮時代、忠清南道有形文化財、シンウムサンの麓に位置した新案住む新羅真平王5年(583)に無染禅師が創建したと知られているが、定かでない。新安というお寺の名前は新羅の最後の王、敬順王(在位927∼935)が\"周りの算数の景色が美しいし、静かに体と心が楽だ\"としたことから始まったと言われる。もともと身安寺には大光戦・極楽殿・ジョン・ですムクダンなどがあったが、現在は大光戦・極楽殿だけが残っている。内部には釈迦が説法をした真理を形象化した毘盧遮那仏を本尊に薬師如来・釈迦如来仏を安置している。正面5間・側面3間規模の切妻屋根の建物で、内部の3間には後払い壁と火って段を造成した。",
+    "QA": [
+        {
+            "question": "このお寺はいつ建てられましたか？",
+            "answer": "このお寺は新羅の真平王5年（583年）に創建されました。"
+        },
+        {
+            "question": "なぜこのお寺の名前が新安寺なのですか？",
+            "answer": "新安寺の名前は新羅の最後の王、敬順王が周りの景色が美しくて静かで心地良いとしたことから始まりました。"
+        },
+        {
+            "question": "このお寺にはどのような建物がありますか？",
+            "answer": "このお寺には大広殿と極楽殿があります。"
+        },
+        {
+            "question": "本尊には何が安置されていますか？",
+            "answer": "本尊には毘盧遮那仏が安置されています。"
+        },
+        {
+            "question": "このお寺の建物の特徴は何ですか？",
+            "answer": "このお寺の建物は正面5間・側面3間規模の切妻屋根の建物で、内部には後払い壁と段を造成した構造が特徴です。"
+        }
+    ],
+    "word_Count": {
+        "text": 231,
+        "QA": 187
+    }
+}

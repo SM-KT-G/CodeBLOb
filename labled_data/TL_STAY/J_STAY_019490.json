@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_019490",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'http://www.otgol.kr.",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "琴田古宅"
+    },
+    "text": "琴田古宅\\n\n大邱広域市東区オッコル路195-2\\n\n慶州崔氏の人同士が集まって暮らす村であるオッコル村の中にある韓屋宿泊施設で、 崔鍾應先生の生家です。最大収容人数は4名です。",
+    "QA": [
+        {
+            "question": "琴田古宅はどこにありますか？",
+            "answer": "大邱広域市東区オッコル路195-2にあります。"
+        },
+        {
+            "question": "琴田古宅はどのような施設ですか？",
+            "answer": "琴田古宅は韓屋宿泊施設で、最大収容人数は4名です。"
+        },
+        {
+            "question": "琴田古宅はどのような村にありますか？",
+            "answer": "琴田古宅は慶州崔氏の人同士が集まって暮らすオッコル村の中にあります。"
+        },
+        {
+            "question": "琴田古宅は誰の生家ですか？",
+            "answer": "琴田古宅は崔鍾應先生の生家です。"
+        }
+    ],
+    "word_Count": {
+        "text": 65,
+        "QA": 116
+    }
+}

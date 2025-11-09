@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001682",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-30",
+        "domain": "음식점",
+        "title": "GEBANG SIKDANG（게방식당）"
+    },
+    "text": "GEBANG SIKDANG（게방식당）\\n\nソウル特別市 江南区 宣陵路 131キル 17\\n\nソウル特別市サムソン(三成)駅の近くに位置した韓食専門店です。ミシュランガイド2019に選ばれたお店です。代表的なメニューはかにみそビビンバです。",
+    "QA": [
+        {
+            "question": "ソウル特別市 江南区にあるゲバンシクダンはどこにありますか？",
+            "answer": "ソウル特別市 江南区 宣陵路 131キル 17に位置しています。"
+        },
+        {
+            "question": "ゲバンシクダンはどのようなお店ですか？",
+            "answer": "ゲバンシクダンは韓食専門店で、ミシュランガイド2019に選ばれたお店です。"
+        },
+        {
+            "question": "ゲバンシクダンの代表的なメニューは何ですか？",
+            "answer": "ゲバンシクダンの代表的なメニューはかにみそビビンバです。"
+        }
+    ],
+    "word_Count": {
+        "text": 89,
+        "QA": 123
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_008154",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-06-23",
+        "domain": "음식점",
+        "title": "スヒ食堂（수희식당）"
+    },
+    "text": "スヒ食堂（수희식당）\\n\n済州特別自治道 西帰浦市 太平路377\\n\n済州の郷土料理店「スヒ食堂」からは天地淵滝の下流と西帰浦七十里が一望できます。海産物を煮込んだ鍋や、アカアマダイ焼き、粗塩を振って焼いた済州のタチウオ焼き、ムルフェ（刺身の冷たいスープ）が逸品です。",
+    "QA": [
+        {
+            "question": "スヒ食堂（수희식당）はどこにありますか？",
+            "answer": "スヒ食堂は済州特別自治道 西帰浦市 太平路377にあります。"
+        },
+        {
+            "question": "スヒ食堂からは何が一望できますか？",
+            "answer": "スヒ食堂からは天地淵滝の下流と西帰浦七十里が一望できます。"
+        },
+        {
+            "question": "スヒ食堂のおすすめメニューは何ですか？",
+            "answer": "スヒ食堂のおすすめメニューは海産物を煮込んだ鍋、アカアマダイ焼き、済州のタチウオ焼き（粗塩を振って焼いたもの）、ムルフェ（刺身の冷たいスープ）です。"
+        }
+    ],
+    "word_Count": {
+        "text": 98,
+        "QA": 138
+    }
+}

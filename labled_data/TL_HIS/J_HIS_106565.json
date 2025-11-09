@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_106565",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=76&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=05600000&ccbaCtcd=11&ccbaCpno=1121105600000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1971-12-21",
+        "domain": "문화/역사관광",
+        "title": "청동 진솔선예백장 인장"
+    },
+    "text": "中国、それに授与された青銅率直ソンイェ百枚印章は高さ2.5センチ、一辺長さ2.3センチで製作された。この印章は中国の秦の時代に作られており、慶尚北道迎日郡で出土された。印章の前面にはさびが厚く覆われており、使用痕跡があることから、実際に使用されたものと推測される。インジャンミョンの上には猿の形の動物が握りに使用されたが、顔はまっすぐに立てられていて目が凹まており、着た前面に突出されている。印章を踏んでいる四つ足のうち、前足はすくめたような姿だ。印章の床には\"晋率善濊伯長\"が刻まれている。印章は、出土された状態で保存状態が良好だ。",
+    "QA": [
+        {
+            "question": "この印章はどの時代に作られましたか？",
+            "answer": "この印章は中国の秦の時代に作られました。"
+        },
+        {
+            "question": "この印章はどこで出土されましたか？",
+            "answer": "この印章は慶尚北道迎日郡で出土されました。"
+        },
+        {
+            "question": "この印章の前面には何が描かれていますか？",
+            "answer": "この印章の前面には猿の形の動物が握りに使用されています。"
+        },
+        {
+            "question": "印章の床には何が刻まれていますか？",
+            "answer": "印章の床には'晋率善濊伯長'が刻まれています。"
+        },
+        {
+            "question": "この印章はどのように使用されたと推測されていますか？",
+            "answer": "この印章は実際に使用されたものと推測されており、使用痕跡があることからそのように考えられています。"
+        }
+    ],
+    "word_Count": {
+        "text": 195,
+        "QA": 175
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_012507",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "ピル食堂 ( 필식당 )"
+    },
+    "text": "ピル食堂 ( 필식당 )\n江原道 ガンヌン市 ホンファロ1009\n地元民だけでなく観光客もよく訪れる店です。江原道のガンヌン市に位置した韓食専門店です。代表的なメニューはサムギョプサルです。",
+    "QA": [
+        {
+            "question": "ピル食堂はどこに位置していますか？",
+            "answer": "ピル食堂は江原道のガンヌン市に位置しています。具体的な住所はホンファロ1009です。"
+        },
+        {
+            "question": "ピル食堂はどのような店ですか？",
+            "answer": "ピル食堂は韓食専門店で、地元民だけでなく観光客もよく訪れる店です。"
+        },
+        {
+            "question": "ピル食堂の代表的なメニューは何ですか？",
+            "answer": "ピル食堂の代表的なメニューはサムギョプサルです。"
+        }
+    ],
+    "word_Count": {
+        "text": 69,
+        "QA": 110
+    }
+}

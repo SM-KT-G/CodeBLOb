@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_052810",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42070&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "단양관광호텔"
+    },
+    "text": "丹陽観光ホテルエーデルワイスは山水が秀麗な湖畔都市である丹陽で唯一の代表ホテルで、80室の様々な客室をご用意しております。 客室ごとに美しい南漢江の全景が鑑賞でき、休息と癒しを同時に楽しめます。 丹陽では南漢江沿いや丹陽八景など自然の美しさが目に入るだけでなく、様々な文化遺跡地も体験できます。 また、隣接する聞慶セジェ、寧越、栄州のような韓国の他の観光名所を訪れることができ、旅行者に多彩な経験をお届けします。",
+    "QA": [
+        {
+            "question": "このホテルの場所はどこですか？",
+            "answer": "丹陽観光ホテルエーデルワイスは山水が秀麗な湖畔都市である丹陽に位置しています。"
+        },
+        {
+            "question": "ホテルの客室数は何部屋ありますか？",
+            "answer": "ホテルには80室の様々な客室があります。"
+        },
+        {
+            "question": "客室からは何を見ることができますか？",
+            "answer": "客室ごとに美しい南漢江の全景を鑑賞することができます。"
+        },
+        {
+            "question": "丹陽での観光名所はどこですか？",
+            "answer": "丹陽では南漢江沿いや丹陽八景など自然の美しさが目に入るだけでなく、様々な文化遺跡地も体験することができます。"
+        },
+        {
+            "question": "他の観光名所を訪れることはできますか？",
+            "answer": "隣接する聞慶セジェ、寧越、栄州のような韓国の他の観光名所も訪れることができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 151,
+        "QA": 193
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_002192",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "YELLOW MUG ( 옐로우머그 )"
+    },
+    "text": "YELLOW MUG ( 옐로우머그 )\\n\nソウル特別市 ヨンドゥンポ区 ダンサンロ172\\n\nハンドドリップコーヒーが味わえる店です。おすすめはアメリカーノです。ソウル特別市のヨンドゥンポ区に位置したカフェ（コーヒーショップ）です。",
+    "QA": [
+        {
+            "question": "このカフェはどのような雰囲気ですか？",
+            "answer": "このカフェはハンドドリップコーヒーが味わえるアットホームな雰囲気の店です。"
+        },
+        {
+            "question": "おすすめのメニューは何ですか？",
+            "answer": "おすすめはアメリカーノです。"
+        },
+        {
+            "question": "このカフェの場所はどこですか？",
+            "answer": "このカフェはソウル特別市のヨンドゥンポ区に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 86,
+        "QA": 93
+    }
+}

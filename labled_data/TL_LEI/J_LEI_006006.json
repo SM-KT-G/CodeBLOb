@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_LEI_006006",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2023-02-17",
+        "domain": "레포츠",
+        "title": "일레븐CC"
+    },
+    "text": "イレブンCCは忠清北道忠州市陽城面に位置しており、ここは幻想的なゴルフコースと美しい芝生が広がる場所です。 周辺には清浄な自然と調和する赤松や白樺、カラマツ団地のような樹木が豊富に位置しており、パノラマのように美しい自然景観を楽しむことができます。",
+    "QA": [
+        {
+            "question": "イレブンCCはどこに位置していますか？",
+            "answer": "イレブンCCは忠清北道忠州市陽城面に位置しています。"
+        },
+        {
+            "question": "イレブンCCはどのような場所ですか？",
+            "answer": "イレブンCCは幻想的なゴルフコースと美しい芝生が広がる場所です。"
+        },
+        {
+            "question": "周辺にはどのような樹木がありますか？",
+            "answer": "周辺には赤松や白樺、カラマツなどの樹木が豊富に位置しています。"
+        },
+        {
+            "question": "周辺の自然景観はどのようですか？",
+            "answer": "周辺の自然景観はパノラマのように美しいです。清浄な自然と調和しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 90,
+        "QA": 143
+    }
+}

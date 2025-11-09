@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_007724",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-05",
+        "domain": "음식점",
+        "title": "ジュンボンイ大皿ジャージャー麺 ( 중본이쟁반짜장 )"
+    },
+    "text": "ジュンボンイ大皿ジャージャー麺 ( 중본이쟁반짜장 )\\n\n全羅北道 ジョンジュ市 ワンサン区 ゴンブクロ71\\n\n様々な中華料理が味わえる店です。全羅北道のジョンジュ市に位置した中華専門店です。代表的なメニューはジャージャー麺です。",
+    "QA": [
+        {
+            "question": "この店の名前は何ですか？",
+            "answer": "ジュンボンイ大皿ジャージャー麺 ( 중본이쟁반짜장 ) です。"
+        },
+        {
+            "question": "この店はどこにありますか？",
+            "answer": "この店は全羅北道ジョンジュ市ワンサン区ゴンブクロ71に位置しています。"
+        },
+        {
+            "question": "この店では何の中華料理が提供されていますか？",
+            "answer": "この店では様々な中華料理が提供されています。特に代表的なメニューはジャージャー麺です。"
+        }
+    ],
+    "word_Count": {
+        "text": 85,
+        "QA": 114
+    }
+}

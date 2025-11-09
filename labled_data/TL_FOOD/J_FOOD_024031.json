@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_024031",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "安東塩サバトズッデガン ( 안동간고등어터줏대감 )"
+    },
+    "text": "安東塩サバトズッデガン ( 안동간고등어터줏대감 )\n慶尚北道 安東市 ジョンソ路 217\n安東代表料理の安東式鶏肉と野菜の蒸し物が味わえる店です。おすすめはアンドンチムダクです。慶尚北道のアンドン市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "このレストランの特徴は何ですか？",
+            "answer": "安東塩サバトズッデガンは、安東市に位置し、安東式鶏肉と野菜の蒸し物が味わえる韓食専門店です。"
+        },
+        {
+            "question": "おすすめの料理は何ですか？",
+            "answer": "当店のおすすめはアンドンチムダクです。"
+        },
+        {
+            "question": "この店の住所はどこですか？",
+            "answer": "安東塩サバトズッデガンは慶尚北道安東市ジョンソ路217にあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 82,
+        "QA": 102
+    }
+}

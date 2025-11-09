@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_072523",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=439&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=00830000&ccbaCtcd=31&ccbaCpno=2113100830000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1979-09-03",
+        "domain": "문화/역사관광",
+        "title": "보광사대웅보전"
+    },
+    "text": "京畿道有形文化財、「普光寺大雄宝殿」は普光寺の様々な仏陀と菩薩を祀って宗教儀式を行う建物である仏殿の中で最も中心となる建築物です。現在の大雄宝殿は1667年に智簡·釈蓮の2人の僧侶が観音殿とともに建て直したもので、1901年に大韓帝国皇室の後援で建て直しました。建物の外観を見ると、長台石(細長い石)で基壇を築き、粗削りな礎石と丸い柱を使って建物の胴体を構成しています屋根は側面が「八」字型の華やかな入母屋造りです。屋根の下の軒と柱の間には建物の重さを支え、華やかに目立つようにする装置である空砲を前後両側に囲んで設置しています。建物の前の各間に4組のドアを開けて開けられるように設置し、両側と後ろは木の板で壁を建て、象に乗った童子像と菩薩、ヨンソンなどが描かれています。内部は木で床を組み、仏像が安置された仏壇を高い柱(古株)の前に置きました",
+    "QA": [
+        {
+            "question": "普光寺大雄宝殿は何を祀っていますか？",
+            "answer": "普光寺大雄宝殿は普光寺の様々な仏陀と菩薩を祀っています。"
+        },
+        {
+            "question": "大雄宝殿はいつ建て直されましたか？",
+            "answer": "現在の大雄宝殿は1667年に智簡·釈蓮の2人の僧侶が観音殿とともに建て直したものです。"
+        },
+        {
+            "question": "大雄宝殿はどのような建物ですか？",
+            "answer": "大雄宝殿は長台石で基壇を築き、粗削りな礎石と丸い柱を使って建物の胴体を構成し、華やかな入母屋造りの屋根を持つ建物です。"
+        },
+        {
+            "question": "大雄宝殿の外観はどのような特徴がありますか？",
+            "answer": "大雄宝殿の外観は長台石で基壇を築き、屋根の下の軒と柱の間には空砲が設置されていることが特徴です。"
+        },
+        {
+            "question": "大雄宝殿の内部はどのようになっていますか？",
+            "answer": "大雄宝殿の内部は木で床を組み、仏像が安置された仏壇を高い柱の前に置かれています。"
+        }
+    ],
+    "word_Count": {
+        "text": 272,
+        "QA": 228
+    }
+}

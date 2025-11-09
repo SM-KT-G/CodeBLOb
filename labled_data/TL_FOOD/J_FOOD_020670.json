@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_020670",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "明洞韓牛房（명동한우방）"
+    },
+    "text": "明洞韓牛房（명동한우방）\\n\nソウル特別市 中区 明洞9キル 37-5\\n\nソウル特別市のミョン洞に位置した韓食です。韓国式BBQ専門店です。代表的なメニューはハラミです。",
+    "QA": [
+        {
+            "question": "明洞韓牛房はどこにありますか？",
+            "answer": "明洞韓牛房はソウル特別市の中区明洞9キル37-5に位置しています。"
+        },
+        {
+            "question": "明洞韓牛房はどのような料理店ですか？",
+            "answer": "明洞韓牛房は韓国式BBQ専門店です。"
+        },
+        {
+            "question": "明洞韓牛房の代表的なメニューは何ですか？",
+            "answer": "明洞韓牛房の代表的なメニューはハラミです。"
+        }
+    ],
+    "word_Count": {
+        "text": 63,
+        "QA": 91
+    }
+}

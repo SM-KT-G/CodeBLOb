@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_029515",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.goodchoice.kr/product/detail?ano=57018&adcno=1&sel_date=2023-11-07&sel_date2=2023-11-08",
+        "collectedDate": "2023-11-15",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "무주 무주무인텔"
+    },
+    "text": "すべての客室は禁煙であり、2名基準で使用できます。 追加で人数を含む場合、追加料金が発生します。 ペットは客室内への立ち入りが禁止されています。 駐車場は計2台まで駐車でき、茂朱リゾートまでは車で5分の距離に位置しています。",
+    "QA": [
+        {
+            "question": "客室の利用人数は最大何名まで可能ですか？",
+            "answer": "2名基準で使用できます。追加で人数を含む場合、追加料金が発生します。"
+        },
+        {
+            "question": "客室内で喫煙はできますか？",
+            "answer": "すべての客室は禁煙です。喫煙はできません。"
+        },
+        {
+            "question": "ペットを客室内に連れて入ることはできますか？",
+            "answer": "ペットは客室内への立ち入りが禁止されています。"
+        },
+        {
+            "question": "駐車場はありますか？",
+            "answer": "はい、駐車場があります。計2台まで駐車が可能です。"
+        },
+        {
+            "question": "茂朱リゾートまでの距離はどのくらいですか？",
+            "answer": "茂朱リゾートまでは車で5分の距離に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 82,
+        "QA": 156
+    }
+}

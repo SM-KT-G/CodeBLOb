@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_024953",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2023-07-26",
+        "domain": "음식점",
+        "title": "구름에달가듯이"
+    },
+    "text": "雲に月の如く (구름에달가듯이)\\n\n全羅南道光陽市光陽邑オンギギル1\\n\n光陽邑から順天に渡る道にある徳礼里に位置するカフェは、遠くから見ると藁葺き屋根の家のように見えます。しかし、近づいてよく見ると、黄土の建物に大きな窓ガラスが付いており、甕台が屋根を覆っている、古風な雰囲気漂うカフェです。",
+    "QA": [
+        {
+            "question": "このカフェはどこにありますか？",
+            "answer": "このカフェは光陽市光陽邑徳礼里に位置しています。"
+        },
+        {
+            "question": "カフェの外観はどのようですか？",
+            "answer": "遠くから見ると藁葺き屋根の家のように見えますが、近づいてよく見ると黄土の建物に大きな窓ガラスが付いています。"
+        },
+        {
+            "question": "このカフェはどんな雰囲気ですか？",
+            "answer": "古風な雰囲気が漂っています。甕台が屋根を覆っているなど、風情があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 108,
+        "QA": 117
+    }
+}

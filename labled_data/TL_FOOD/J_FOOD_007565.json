@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_007565",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-13",
+        "domain": "음식점",
+        "title": "シゴルジャントクッパ炭火焼き( 시골장터국밥숯불구이 )"
+    },
+    "text": "シゴルジャントクッパ炭火焼き\\n\n慶尚北道 アンドン市 ウムシクウィギル32-3\\n\n3代目が継承する100年伝統の市場クッパ専門店です。慶尚北道のアンドン市に位置した韓国料理店です。おすすめは牛肉クッパです。",
+    "QA": [
+        {
+            "question": "この店の特徴は何ですか？",
+            "answer": "シゴルジャントクッパ炭火焼きは慶尚北道アンドン市に位置し、100年以上の歴史がある市場クッパ専門店です。"
+        },
+        {
+            "question": "おすすめのメニューは何ですか？",
+            "answer": "牛肉クッパがおすすめです。"
+        },
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "この店は慶尚北道アンドン市のウムシクウィギル32-3にあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 77,
+        "QA": 100
+    }
+}

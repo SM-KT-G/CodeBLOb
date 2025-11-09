@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001768",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-06",
+        "domain": "음식점",
+        "title": "Jimmy Jinee Park ( 지미지니팍 )"
+    },
+    "text": "Jimmy Jinee Park ( 지미지니팍 )\\n\n釜山広域市 釜山鎮区 釜田洞 プジョンロ66ボンギル24\\n\nチョンポカフェ通りに位置するマカロン専門カフェです。釜山広域市のブサンジン区に位置したカフェ（コーヒーショップ）です。おすすめはデザートです。",
+    "QA": [
+        {
+            "question": "このカフェはどこにありますか？",
+            "answer": "このカフェは釜山広域市の釜山鎮区に位置しています。"
+        },
+        {
+            "question": "このカフェの特徴は何ですか？",
+            "answer": "このカフェはマカロン専門のカフェで、デザートがおすすめです。"
+        },
+        {
+            "question": "このカフェの住所は何ですか？",
+            "answer": "このカフェの住所は釜山広域市釜山鎮区釜田洞プジョンロ66ボンギル24です。"
+        },
+        {
+            "question": "このカフェはどのくらいの広さですか？",
+            "answer": "このカフェの広さについては、文中には記載されていません。"
+        },
+        {
+            "question": "このカフェの営業時間は何時から何時までですか？",
+            "answer": "このカフェの営業時間については、文中には記載されていません。"
+        },
+        {
+            "question": "このカフェの周辺にはどんな観光名所がありますか？",
+            "answer": "このカフェの周辺については、文中には記載されていません。"
+        }
+    ],
+    "word_Count": {
+        "text": 96,
+        "QA": 209
+    }
+}

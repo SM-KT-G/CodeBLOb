@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_013017",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1228&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=79&ccbaAsno=04490000&ccbaCtcd=11&ccbaCpno=4411104490000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2009-10-12",
+        "domain": "문화/역사관광",
+        "title": "대한의원 개원 칙서"
+    },
+    "text": "大韓医院開院勅書 (대한의원 개원 칙서)\\n\nソウル特別市鍾路区大学路101(延建洞、ソウル大学病院)医学博物館\\n\n1908年 , 国家登録文化財 , 1908年10月24日、大韓医院の開院日に皇帝純宗が下した勅書(王が訓戒したり知らせる内容を書いた文)で、縦横11cmの大きさの[ [命之宝]国璽が押されている。 先王である高宗の代から推進したことを締めくくったものであることを明らかにし、民衆に医療の恩恵が及ぶようにという皇帝の意思が込められたこの勅書は、大韓医院が大韓帝国の公式機関であることを宣言する最も高い水準の公式文書として医学史的·象徴的価値が大きい。1906年1月に設置された統監部は、既存の大韓帝国の医療機関である廣済院、医学校、大韓赤十字病院を併合することを決定し、官制制定および病院新築により1908年に大韓医院を開院し、以後大韓医院は韓国最高水準の西洋医学を施術する病院であると同時に植民地保健医療の中枢機能を担当した。",
+    "QA": [
+        {
+            "question": "この勅書は、いつ作られましたか？",
+            "answer": "この勅書は1908年10月24日に作られました。"
+        },
+        {
+            "question": "この勅書にはどんなものが押されていますか？",
+            "answer": "この勅書には縦横11cmの大きさの国璽が押されています。"
+        },
+        {
+            "question": "なぜこの勅書は重要なのですか？",
+            "answer": "この勅書は大韓医院が大韓帝国の公式機関であることを宣言する最も高い水準の公式文書であり、医学史的・象徴的な価値があります。"
+        },
+        {
+            "question": "大韓医院は何のために設立されましたか？",
+            "answer": "大韓医院は韓国最高水準の西洋医学を施術する病院であり、同時に植民地保健医療の中枢機能を担当するために設立されました。"
+        },
+        {
+            "question": "大韓医院はどのような病院ですか？",
+            "answer": "大韓医院は廣済院、医学校、大韓赤十字病院を併合した病院であり、韓国最高水準の西洋医学を施術する病院です。"
+        }
+    ],
+    "word_Count": {
+        "text": 310,
+        "QA": 227
+    }
+}

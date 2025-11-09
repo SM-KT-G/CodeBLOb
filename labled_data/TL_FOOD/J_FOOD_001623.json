@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001623",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/danube",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "DANUBE"
+    },
+    "text": "DANUBE\\n\nソウル市 中区 太平路1街\\n\nコリアナホテルの中に入っているDANUBE（ダニュブ）は、朝はビュッフェ、夜は海産物やステーキを主なメニューとする洋食レストランです。食事以外にも各国から輸入したワインやウィスキーも味わうことができます。",
+    "QA": [
+        {
+            "question": "ダニュブはどこにありますか？",
+            "answer": "ダニュブはソウル市中区太平路1街にあります。"
+        },
+        {
+            "question": "ダニュブはどんなレストランですか？",
+            "answer": "ダニュブは朝はビュッフェ、夜は海産物やステーキを主なメニューとする洋食レストランです。"
+        },
+        {
+            "question": "ダニュブではどんな飲み物が楽しめますか？",
+            "answer": "ダニュブでは各国から輸入したワインやウィスキーも味わうことができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 93,
+        "QA": 110
+    }
+}

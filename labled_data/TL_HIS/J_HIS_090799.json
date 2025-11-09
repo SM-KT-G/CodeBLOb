@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_090799",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=751&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=22&ccbaAsno=00530000&ccbaCtcd=36&ccbaCpno=2223600530000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2023-11-03",
+        "domain": "문화/역사관광",
+        "title": "영암 갈곡리 들소리"
+    },
+    "text": "全羅南道無形文化財である霊岩ガルゴク里ドゥルノレは霊岩郡新北面(シンブクミョン)ガルゴク里で伝承されてきた、榮山江の下流稲作歌を代表するドゥルノレだ。このドゥルノレは稲作の過程を描いており、農業による疲労を歌として仕事をした祖先たちの知恵が含まれている。歌はモチキの音、田植えの音、田の草取音(下の結びと二着マギー、マンドリ、トップで風葬の音)で構成される。\"ガルゴク里ドゥルノレ\"は伝統的な農家の歌とは違って、午前と午後にそれぞれ異なった音を呼び、金を肩にかけることが効率的だと思って特異な形式を持っている。この歌は民俗音楽で使用される'オッモリ'と全羅道(チョルラド)の武家のシニムジャンダン、東海岸の武家のリズムと類似した構成を持ってゴゼのリズムだと推定される。2004年には、大韓民国の民俗芸術祭で大統領賞を受け、その貴重な文化遺産に指定された。",
+    "QA": [
+        {
+            "question": "このドゥルノレは何を代表していますか？",
+            "answer": "このドゥルノレは榮山江の下流稲作歌を代表するものです。"
+        },
+        {
+            "question": "ドゥルノレにはどのような音が含まれていますか？",
+            "answer": "モチキの音、田植えの音、田の草取音などが含まれています。"
+        },
+        {
+            "question": "なぜ'ガルゴク里ドゥルノレ'は特異な形式を持っていると言えるのでしょうか？",
+            "answer": "午前と午後にそれぞれ異なった音を呼び、肩に金をかけることが効率的だと考えられるため、特異な形式を持っています。"
+        },
+        {
+            "question": "この歌はどのような遺産に指定されましたか？",
+            "answer": "この歌は2004年に大韓民国の民俗芸術祭で大統領賞を受け、貴重な文化遺産に指定されました。"
+        }
+    ],
+    "word_Count": {
+        "text": 276,
+        "QA": 187
+    }
+}

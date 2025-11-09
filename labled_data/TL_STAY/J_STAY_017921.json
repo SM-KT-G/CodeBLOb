@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_017921",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42030&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "경주 루나피에나풀빌라"
+    },
+    "text": "甘浦全村海水浴場に位置するルナピエナプールビラは、美しいオーシャンビューをご提供します。 夏場はリゾート地の雰囲気が楽しめ、客室ごとにオーシャンビューがあり、素晴らしい景色を楽しむことができます。 さらに、個別の屋外プールもあり、海を眺めながら泳ぐことができます。 プールビラの裏側は松原につながっていて、また違った雰囲気を感じることができます。 ただし、お知らせでは、22時以降に入室される場合は、ペンションまで予めご連絡ください。",
+    "QA": [
+        {
+            "question": "ルナピエナプールビラはどこに位置していますか？",
+            "answer": "ルナピエナプールビラは甘浦全村海水浴場に位置しています。"
+        },
+        {
+            "question": "ルナピエナプールビラではどのような景色を楽しむことができますか？",
+            "answer": "ルナピエナプールビラでは美しいオーシャンビューを楽しむことができます。"
+        },
+        {
+            "question": "客室ごとに何がありますか？",
+            "answer": "客室ごとにオーシャンビューがあります。"
+        },
+        {
+            "question": "どのようなプールがありますか？",
+            "answer": "個別の屋外プールがあります。"
+        },
+        {
+            "question": "プールビラの裏側はどうなっていますか？",
+            "answer": "プールビラの裏側は松原につながっています。"
+        },
+        {
+            "question": "深夜に入室する場合はどうすればいいですか？",
+            "answer": "22時以降に入室する場合は、ペンションまで事前に連絡してください。"
+        }
+    ],
+    "word_Count": {
+        "text": 159,
+        "QA": 200
+    }
+}

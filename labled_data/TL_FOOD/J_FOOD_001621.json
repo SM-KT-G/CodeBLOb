@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001621",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-01",
+        "domain": "음식점",
+        "title": "DALDHA1078 ( 달다1078 )"
+    },
+    "text": "DALDHA1078 \n仁川広域市 富平区 京仁路 1078\n団体予約も可能な店です。 仁川広域市のブピョン区に位置したカフェです。代表的なメニューはアイスアメリカーノです。",
+    "QA": [
+        {
+            "question": "このカフェはどこにありますか？",
+            "answer": "このカフェは仁川広域市富平区京仁路1078に位置しています。"
+        },
+        {
+            "question": "このカフェの特徴的なメニューは何ですか？",
+            "answer": "このカフェの代表的なメニューはアイスアメリカーノです。"
+        },
+        {
+            "question": "このカフェは団体予約もできますか？",
+            "answer": "はい、このカフェでは団体予約も可能です。"
+        }
+    ],
+    "word_Count": {
+        "text": 63,
+        "QA": 94
+    }
+}

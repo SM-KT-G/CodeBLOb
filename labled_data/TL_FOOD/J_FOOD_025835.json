@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_025835",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-01",
+        "domain": "음식점",
+        "title": "一品カルビ ( 일품갈비 )"
+    },
+    "text": "一品カルビ \n慶尚北道 安東市 ウムシクウィキル 14\n抗生剤不使用の上質な韓牛を提供しています。 代表的なメニューは韓牛カルビです。慶尚北道のアンドン市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "一品カルビはどこに位置していますか？",
+            "answer": "一品カルビは慶尚北道の安東市に位置しています。"
+        },
+        {
+            "question": "一品カルビの代表的なメニューは何ですか？",
+            "answer": "一品カルビの代表的なメニューは韓牛カルビです。"
+        },
+        {
+            "question": "一品カルビでは何を提供していますか？",
+            "answer": "一品カルビでは抗生剤不使用の上質な韓牛を提供しています。"
+        },
+        {
+            "question": "一品カルビは何を専門としていますか？",
+            "answer": "一品カルビは韓食専門店です。"
+        }
+    ],
+    "word_Count": {
+        "text": 66,
+        "QA": 118
+    }
+}

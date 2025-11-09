@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_025815",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-08-27",
+        "domain": "음식점",
+        "title": "日日酒 ( 일일주(日日酒) )"
+    },
+    "text": "日日酒 ( 일일주(日日酒) )\\n\nソウル特別市 鐘路区 サジクロ8ギル4\\n\nおつまみが美味しく雰囲気の良い光化門の名店です。ソウル特別市のチョンノ区に位置した和食専門店です。代表的なメニューはサーモンの刺身です。",
+    "QA": [
+        {
+            "question": "日日酒はどこに位置していますか？",
+            "answer": "日日酒はソウル特別市のチョンノ区に位置しています。"
+        },
+        {
+            "question": "日日酒の代表的なメニューは何ですか？",
+            "answer": "日日酒の代表的なメニューはサーモンの刺身です。"
+        },
+        {
+            "question": "日日酒の雰囲気はどのようですか？",
+            "answer": "日日酒の雰囲気はおつまみが美味しく、良い雰囲気です。"
+        },
+        {
+            "question": "日日酒は和食専門店ですか？",
+            "answer": "はい、日日酒は和食専門店です。"
+        }
+    ],
+    "word_Count": {
+        "text": 79,
+        "QA": 111
+    }
+}

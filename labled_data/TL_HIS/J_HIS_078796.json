@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_078796",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=432&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=00740000&ccbaCtcd=37&ccbaCpno=2113700740000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1975-08-18",
+        "domain": "문화/역사관광",
+        "title": "사의당"
+    },
+    "text": "私議党\\n\n慶尚北道永川市紫陽面城谷里660-1番地\\n\n慶尚北道有形文化財、サウィダンは朝鮮後期に造られたカンハクダンに、朝鮮英祖8年(1732)に丁寧号の兄弟である中期・重・ジュンラクなどが友誼をより深め、学問の研究や弟子の教育のために作ったわけだ。元々は滋養面龍山洞に建てたことを永川(ヨンチョン)ダム建設によって1977年今の位置に移した。前面5間・側面1間の規模であり、屋根側面が人の教わる字形の切妻屋根の建物だ。左2間は板の間であり、右3間は部屋で構成されている。床には丸柱、部屋には四角柱を使用した。",
+    "QA": [
+        {
+            "question": "このサウィダンはいつ造られましたか？",
+            "answer": "朝鮮英祖8年(1732)に造られました。"
+        },
+        {
+            "question": "サウィダンは誰によって作られたのですか？",
+            "answer": "中期・重・ジュンラクなどが友誼をより深め、学問の研究や弟子の教育のために作られました。"
+        },
+        {
+            "question": "サウィダンはどのような建物ですか？",
+            "answer": "前面5間・側面1間の規模であり、屋根側面が人の教わる字形の切妻屋根の建物です。"
+        },
+        {
+            "question": "サウィダンは元々どこに建てられましたか？",
+            "answer": "元々は滋養面龍山洞に建てられましたが、永川(ヨンチョン)ダム建設によって1977年今の位置に移されました。"
+        },
+        {
+            "question": "サウィダンの床や部屋はどのような構造ですか？",
+            "answer": "床には丸柱、部屋には四角柱が使用されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 188,
+        "QA": 201
+    }
+}

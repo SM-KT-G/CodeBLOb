@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_028755",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42030&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "포항 연인바위펜션"
+    },
+    "text": "浦項恋人岩ペンションではお知らせをご案内いたします。 ご予約の際に留意すべき点があります。 22時以降に入室される場合は予めご連絡ください。 また、釣りをするお客様や海流をするお客様は、客室内に釣り用品や海流道具を保管することはできません。 彼らの用品は屋外に保管してください。 ありがとうございます。",
+    "QA": [
+        {
+            "question": "浦項恋人岩ペンションではどんなお知らせがありますか？",
+            "answer": "浦項恋人岩ペンションでは、22時以降に入室される場合は予めご連絡いただくようお願いしています。また、釣りや海流をするお客様は、客室内に釣り用品や海流道具を保管することはできません。彼らの用品は屋外に保管していただくようお願いしています。"
+        },
+        {
+            "question": "浦項恋人岩ペンションで入室時間に制限はありますか？",
+            "answer": "22時以降に入室される場合は予めご連絡いただくようお願いしています。"
+        },
+        {
+            "question": "釣りをする場合、浦項恋人岩ペンションでの保管場所はありますか？",
+            "answer": "釣りをするお客様や海流をするお客様は、客室内に釣り用品や海流道具を保管することはできません。彼らの用品は屋外に保管してください。"
+        }
+    ],
+    "word_Count": {
+        "text": 110,
+        "QA": 218
+    }
+}

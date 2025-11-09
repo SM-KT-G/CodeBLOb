@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_004168",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2015-07-10",
+        "domain": "문화/역사관광",
+        "title": "デジタルメディアシティ駅（디지털미디어시티역）"
+    },
+    "text": "デジタルメディアシティ駅\nソウル特別市 恩平区 水色路 193 (水色洞）\n都市鉄道公社の駅で、空港鉄道の駅です。ソウル都市鉄道6号線「水色（スセク）駅」でしたが京義線の開通にともないデジタルメディアシティ駅に駅名を変更し、既存の京義線水色駅と区別するようになりました。デジタルメディアシティ（Digital Media City）の頭文字をとってDMC駅とも呼ばれています。",
+    "QA": [
+        {
+            "question": "デジタルメディアシティ駅はどこにありますか？",
+            "answer": "デジタルメディアシティ駅はソウル特別市恩平区水色路193にあります。"
+        },
+        {
+            "question": "デジタルメディアシティ駅はどの路線に所属していますか？",
+            "answer": "デジタルメディアシティ駅はソウル都市鉄道6号線に所属しています。"
+        },
+        {
+            "question": "デジタルメディアシティ駅の別名は何ですか？",
+            "answer": "デジタルメディアシティ駅の別名はDMC駅とも呼ばれています。"
+        }
+    ],
+    "word_Count": {
+        "text": 137,
+        "QA": 121
+    }
+}

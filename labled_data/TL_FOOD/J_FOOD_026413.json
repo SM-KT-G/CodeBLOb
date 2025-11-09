@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_026413",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "正食堂 ( 정식당 )"
+    },
+    "text": "正食堂 ( 정식당 )\\n\nソウル特別市 江南区 宣陵路158キル 11\\n\n「ミシュランガイド2020」に選定された店です。ソウル特別市のガンナム区に位置した韓食専門店です。代表的なメニューはヒレステーキです。",
+    "QA": [
+        {
+            "question": "正食堂はどこに位置していますか？",
+            "answer": "正食堂はソウル特別市の江南区に位置しています。"
+        },
+        {
+            "question": "正食堂の特徴的なメニューは何ですか？",
+            "answer": "正食堂の代表的なメニューはヒレステーキです。"
+        },
+        {
+            "question": "正食堂はミシュランガイド2020に選定されましたか？",
+            "answer": "はい、正食堂はミシュランガイド2020に選定されました。"
+        }
+    ],
+    "word_Count": {
+        "text": 77,
+        "QA": 97
+    }
+}

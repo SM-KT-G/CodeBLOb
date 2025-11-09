@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_029424",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/hyeongje-kkochijip",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "兄弟串焼きジプ"
+    },
+    "text": "兄弟串焼きジプ\\n\nソウル特別市 ヨンドゥンポ区 ディジトルロ356\\n\n羊肉串だけでなく、様々な中華料理が味わえる店です。おすすめはラム肉の串焼きです。ソウル特別市のヨンドゥンポ区に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "ソウル特別市のヨンドゥンポ区のディジトルロ356に位置しています。"
+        },
+        {
+            "question": "この店では何が食べられますか？",
+            "answer": "羊肉串だけでなく、様々な中華料理が味わえます。"
+        },
+        {
+            "question": "この店のおすすめメニューは何ですか？",
+            "answer": "おすすめはラム肉の串焼きです。"
+        }
+    ],
+    "word_Count": {
+        "text": 76,
+        "QA": 85
+    }
+}

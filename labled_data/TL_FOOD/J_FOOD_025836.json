@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_025836",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-09-01",
+        "domain": "음식점",
+        "title": "一品堂（일품당프리미엄）"
+    },
+    "text": "一品堂（일품당프리미엄）\\n\nソウル特別市 鐘路区 セムンアン路 5カキル 7\\n\nソウル特別市のクァンファムンに位置したしゃぶしゃぶ専門店です。個室完備のお店です。おすすめはしゃぶしゃぶです。",
+    "QA": [
+        {
+            "question": "一品堂（일품당プレミアム）はどこに位置していますか？",
+            "answer": "一品堂（일품당プレミアム）はソウル特別市鐘路区セムンアン路5カキル7に位置しています。"
+        },
+        {
+            "question": "一品堂（일품당プレミアム）はどんなお店ですか？",
+            "answer": "一品堂（일품당プレミアム）はしゃぶしゃぶ専門店で、個室完備のお店です。"
+        },
+        {
+            "question": "一品堂（일품당プレミアム）のおすすめメニューは何ですか？",
+            "answer": "一品堂（일품당プレミアム）のおすすめはしゃぶしゃぶです。"
+        }
+    ],
+    "word_Count": {
+        "text": 71,
+        "QA": 134
+    }
+}

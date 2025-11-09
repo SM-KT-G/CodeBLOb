@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_052493",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=533&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=02100000&ccbaCtcd=21&ccbaCpno=2112102100000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2019-12-04",
+        "domain": "문화/역사관광",
+        "title": "관세음보살42수진언집"
+    },
+    "text": "釜山広域市有形文化財である'観世音菩薩42スジンオン家'はもともとジョルチョプジャンだったが、保管状態が良くなくて修理して巻物の形で作られました。表紙はいるが、読めなくて、後ろの標識や跋文、奥付がないです。このジンオン家は42数進言を列挙しており、上段に弁償と話題を配置し、弁償の下に梵字を使用した真言が継続されます。ジンオン家の末尾には'デグヮンジ三蔵、不空金剛ボンチョ駅'と明記されています。この遺物は高麗時代に宋から輸入され、高麗から中間れたものとみられ、不服で発見されたものと推定されます。ジンオン家の字は'チョンノヘて金剛般若波羅蜜経'と類似したのに、これは宋で刊行された仏経で高麗でも復刻されたものです。したがって、'観世音菩薩42スジンオン家'も高麗まあ13年(1387)頃に復刻されたものと推定されます。",
+    "QA": [
+        {
+            "question": "このジンオン家は何時代のものですか？",
+            "answer": "このジンオン家は高麗時代のもので、おおよそ13年(1387)頃に復刻されたものと推定されます。"
+        },
+        {
+            "question": "ジンオン家の修理はいつ行われましたか？",
+            "answer": "ジンオン家の修理は、保管状態が悪かったため、巻物の形で作り直されましたが、具体的な修理時期は不明です。"
+        },
+        {
+            "question": "ジンオン家の表紙には何が書かれていますか？",
+            "answer": "ジンオン家の表紙には文字がありますが、内容は読むことができません。"
+        },
+        {
+            "question": "ジンオン家の後ろには何が書かれていますか？",
+            "answer": "ジンオン家の後ろには標識や跋文、奥付は存在せず、何も書かれていません。"
+        },
+        {
+            "question": "ジンオン家の起源はどこですか？",
+            "answer": "ジンオン家は高麗時代に宋から輸入され、高麗で中間されたものと考えられています。"
+        }
+    ],
+    "word_Count": {
+        "text": 264,
+        "QA": 219
+    }
+}

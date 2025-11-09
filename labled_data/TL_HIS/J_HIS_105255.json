@@ -1,0 +1,59 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_105255",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=791&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=00300000&ccbaCtcd=31&ccbaCpno=2333100300000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1976-08-27",
+        "domain": "문화/역사관광",
+        "title": "채산사"
+    },
+    "text": "採算会社'は京畿道に位置した記念物で、朝鮮時代末期の儒者である崔益鉉の業績を称えるために立てられた祠である。崔益鉉は'衛正斥邪思想'を主唱し、1905年、日本の強制的な'乙巳条約'締結に反対した。彼は、義兵運動を起こしたが、逮捕され、対馬島に流された。採算士は、崔益鉉の愛国心を称えるため建立されたが、日本による撤去と儒林達による再建が繰り返された。光復後復元された建物は1975年に解体・復元された。祠堂は3間規模のビルで、屋根は人字の形の切妻屋根となっている。祠堂の前にはわいを三門がある。",
+    "QA": [
+        {
+            "question": "この記念物はどこに位置していますか？",
+            "answer": "この記念物は京畿道に位置しています。"
+        },
+        {
+            "question": "誰の業績を称えるためにこの記念物が建てられましたか？",
+            "answer": "この記念物は朝鮮時代末期の儒者である崔益鉉の業績を称えるために建てられました。"
+        },
+        {
+            "question": "崔益鉉は何を主唱しましたか？",
+            "answer": "崔益鉉は'衛正斥邪思想'を主唱しました。"
+        },
+        {
+            "question": "崔益鉉は何に反対したことで知られていますか？",
+            "answer": "崔益鉉は1905年、日本の強制的な'乙巳条約'締結に反対したことで知られています。"
+        },
+        {
+            "question": "崔益鉉は何を起こしたが、その結果どうなりましたか？",
+            "answer": "崔益鉉は義兵運動を起こしましたが、逮捕され、対馬島に流されました。"
+        },
+        {
+            "question": "採算士は何を称えるために建立されましたか？",
+            "answer": "採算士は崔益鉉の愛国心を称えるために建立されました。"
+        },
+        {
+            "question": "この記念物は何度撤去と再建されましたか？",
+            "answer": "この記念物は日本による撤去と儒林達による再建が繰り返されました。"
+        },
+        {
+            "question": "この祠堂の屋根の形は何ですか？",
+            "answer": "この祠堂の屋根は人字の形の切妻屋根です。"
+        },
+        {
+            "question": "祠堂の前に何がありますか？",
+            "answer": "祠堂の前にはわいを三門があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 181,
+        "QA": 308
+    }
+}

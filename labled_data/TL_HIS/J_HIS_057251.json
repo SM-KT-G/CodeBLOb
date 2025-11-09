@@ -1,0 +1,51 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_057251",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=254&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=13&ccbaAsno=03370000&ccbaCtcd=36&ccbaCpno=1333603370000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1990-10-31",
+        "domain": "문화/역사관광",
+        "title": "나주읍성"
+    },
+    "text": "羅州邑城\\n\n全羅南道羅州市南內洞2-20番地ほか\\n\n私的、高麗時代に築城した城で、朝鮮の世祖3年(1457)に城を拡張し、文禄・慶長の役(1592)の後に大々的な補修工事があった。石を積み上げて作ったものとまわりは3,126隻(約940m)、高さは9隻(約2.7m)であり、大砲を撃つことができる城壁に出たフォルガー3つであり、井戸が20個余りあるたという。城門は4つに東・西・南・北にいたが、現在はすべてなくなり、北門の敷地にキチョソクだけが残っている。1993年南門址に復元したナムコムンがあるが、2階になった楼には表3間・側面2間であり、屋根は華麗だ。横から見ると、八(八部)字形の入母屋屋根になっており、羅州邑城の昔の姿の一部分を見せてくれる。南門址の石垣は、小に残っているが、歴史的レベルで保存しなければならない重要な遺跡である。",
+    "QA": [
+        {
+            "question": "この城はいつ建てられましたか？",
+            "answer": "この城は朝鮮の世祖3年(1457)に築城されました。"
+        },
+        {
+            "question": "この城はどのように作られていますか？",
+            "answer": "この城は石を積み上げて作られており、周囲は3,126隻(約940m)、高さは9隻(約2.7m)で、大砲を撃つことができる城壁があります。"
+        },
+        {
+            "question": "この城には何個の井戸がありますか？",
+            "answer": "この城には20個以上の井戸があります。"
+        },
+        {
+            "question": "城門は何箇所ありますか？",
+            "answer": "この城にはかつて東・西・南・北の4つの城門がありましたが、現在はすべてなくなっています。"
+        },
+        {
+            "question": "城門のうち、キチョソクはどこに残っていますか？",
+            "answer": "キチョソクは北門の敷地に残っています。"
+        },
+        {
+            "question": "南門址に復元された建物はどのような特徴がありますか？",
+            "answer": "南門址に復元された建物は2階建てで、表面は3間、側面は2間の大きさです。屋根も華麗なデザインです。"
+        },
+        {
+            "question": "羅州邑城の南門址の石垣はどのような状態ですか？",
+            "answer": "南門址の石垣は一部が残っており、歴史的な遺跡として保存されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 272,
+        "QA": 288
+    }
+}

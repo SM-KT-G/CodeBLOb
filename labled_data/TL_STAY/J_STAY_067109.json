@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_067109",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.booking.com/hotel/kr/coegogeub-peuraibis-pensyeon-bilreggos-villecot.ko.html",
+        "collectedDate": "2023-11-17",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "Luxury Pool Villa, Villecot"
+    },
+    "text": "西帰浦市内に位置するLuxury Pool Villa, Villecotに泊まってみてください。 宿泊施設では無料Wi-Fi、海の眺め、庭園、テラスなどの施設をご提供しております。 このホテルはバルコニーと山の眺めがあるところで、寝室3つ、リビング、キッチン、バスルーム2つが含まれています。 薄型TVや温水浴槽などの便益施設が用意されています。 宿はクァンチギ海辺と城山日出峰が近く、済州国際空港までは約45kmです。 チェックインは16:00から可能で、チェックアウトは11:00までです。",
+    "QA": [
+        {
+            "question": "Villecotの宿泊施設には何が含まれていますか？",
+            "answer": "寝室3つ、リビング、キッチン、バスルーム2つが含まれています。"
+        },
+        {
+            "question": "Villecotの宿泊施設では何が無料で利用できますか？",
+            "answer": "無料Wi-Fi、庭園、テラスが利用できます。"
+        },
+        {
+            "question": "Villecotの宿泊施設から近くにある観光スポットは何ですか？",
+            "answer": "クァンチギ海辺と城山日出峰が近くにあります。"
+        },
+        {
+            "question": "Villecotの宿泊施設でのチェックイン/チェックアウトの時間は何ですか？",
+            "answer": "チェックインは16:00から可能で、チェックアウトは11:00までです。"
+        },
+        {
+            "question": "Villecotの宿泊施設から済州国際空港までの距離はどのくらいですか？",
+            "answer": "約45kmです。"
+        }
+    ],
+    "word_Count": {
+        "text": 181,
+        "QA": 204
+    }
+}

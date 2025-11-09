@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_022984",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42020&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "거제도 로제스풀빌라"
+    },
+    "text": "世界中から愛されているスペインの有名海辺休養地ローゼスとともに、韓国巨済の興南海水浴場に位置するPOOL&SPAローゼスがオープンしました。 ローゼス海辺とそっくりな地形と美しい海辺の景観を誇るここでは、特別で細心な設計で建てられたプライベートプールビラで休息を楽しむことができます。 また、銀色のビーチではプールビラから出て走り出せるほど近い距離で忘れられない時間を過ごすことができます。 ただし、22時以降に入室される場合は事前にご連絡ください。",
+    "QA": [
+        {
+            "question": "ローゼスとはどのような場所ですか？",
+            "answer": "ローゼスはスペインの有名な海辺休養地であり、韓国巨済の興南海水浴場に位置するPOOL&SPAです。"
+        },
+        {
+            "question": "ローゼスの特徴的な景観はどのようなものですか？",
+            "answer": "ローゼスはローゼス海辺と似た地形と美しい海辺の景観を誇っています。"
+        },
+        {
+            "question": "プールビラでの休息を楽しむことができますか？",
+            "answer": "はい、特別で細心な設計で建てられたプライベートプールビラで休息を楽しむことができます。"
+        },
+        {
+            "question": "ビーチへのアクセスは便利ですか？",
+            "answer": "はい、銀色のビーチはプールビラから出てすぐで、忘れられない時間を過ごすことができます。"
+        },
+        {
+            "question": "22時以降に入室する場合は何か注意事項がありますか？",
+            "answer": "22時以降に入室する場合は事前にご連絡ください。"
+        }
+    ],
+    "word_Count": {
+        "text": 165,
+        "QA": 217
+    }
+}

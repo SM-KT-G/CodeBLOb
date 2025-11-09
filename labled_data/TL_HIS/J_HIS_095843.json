@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_095843",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=638&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=04280000&ccbaCtcd=37&ccbaCpno=2113704280000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2011-04-27",
+        "domain": "문화/역사관광",
+        "title": "의성 운람사 목조아미타 여래좌상과 복장 일괄유물"
+    },
+    "text": "慶尚北道に位置した有形文化財はこの仏像である。この仏像は両手の親指と障子を交えて說法印を結んで結跏趺坐した姿勢で姿を見せてくれる。仏像の大きさは高さ101㎝、肩幅47.9センチ、膝の幅73.9センチだ。仏像の保存状態は比較的良好だが、金箔に亀裂や剥離した部分があり、相好部分はX-Rayを通じて受理されたものと推定される。この仏像は、木材、複数の布切れをつなぎ合わせた融合組で作られており、両手は別途に製作され、手首にブッヒョジョている。",
+    "QA": [
+        {
+            "question": "この仏像はどこに位置していますか？",
+            "answer": "慶尚北道に位置しています。"
+        },
+        {
+            "question": "この仏像の大きさは何ですか？",
+            "answer": "高さ101㎝、肩幅47.9センチ、膝の幅73.9センチです。"
+        },
+        {
+            "question": "この仏像はどのような姿勢をしていますか？",
+            "answer": "両手の親指と障子を交えて說法印を結んで結跏趺坐した姿勢をしています。"
+        },
+        {
+            "question": "この仏像はどのような材料で作られていますか？",
+            "answer": "木材、複数の布切れをつなぎ合わせた融合組で作られており、両手は別途に製作され、手首にブッヒョジョています。"
+        },
+        {
+            "question": "この仏像の保存状態はどうですか？",
+            "answer": "比較的良好ですが、金箔に亀裂や剥離した部分があり、相好部分はX-Rayを通じて受理されたものと推定されます。"
+        },
+        {
+            "question": "この仏像の推定年代は何ですか？",
+            "answer": "推定年代は与那国町遺跡出土の類似品と同様の特徴があるため、7世紀後半から8世紀初頭と考えられています。"
+        }
+    ],
+    "word_Count": {
+        "text": 160,
+        "QA": 248
+    }
+}

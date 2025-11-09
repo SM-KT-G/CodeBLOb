@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_SHOP_009733",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.oliveyoung.co.kr/store/goods/getGoodsDetail.do?goodsNo=A000000185048&dispCatNo=100000100070007&t_page=카테고리관&t_click=스킨케어_전체__상품상세&t_number=8",
+        "collectedDate": "2023-11-20",
+        "publishedDate": "2020-01-01",
+        "domain": "쇼핑",
+        "title": "아이오페 맨 프로 레티놀 올인원 120ml 기획(+클렌저 50g 증정)"
+    },
+    "text": "アイオペで販売しているメンズケアラインのスキンケア製品は120mlの容量で構成されています。製品の使用期限は開封前は36ヶ月、開封後は12ヶ月となっています。製品の構成成分は様々な成分で構成されており、レチノール含有量は504 IU/gで、β-カロチン含有量は7.5 ppmです。",
+    "QA": [
+        {
+            "question": "このメンズケアラインのスキンケア製品はどれくらいの容量ですか？",
+            "answer": "このメンズケアラインのスキンケア製品は120mlの容量です。"
+        },
+        {
+            "question": "この製品の使用期限はどれくらいですか？",
+            "answer": "この製品の使用期限は開封前は36ヶ月、開封後は12ヶ月です。"
+        },
+        {
+            "question": "この製品に含まれるレチノールの含有量はどれくらいですか？",
+            "answer": "この製品に含まれるレチノールの含有量は504 IU/gです。"
+        },
+        {
+            "question": "この製品に含まれるβ-カロチンの含有量はどれくらいですか？",
+            "answer": "この製品に含まれるβ-カロチンの含有量は7.5 ppmです。"
+        }
+    ],
+    "word_Count": {
+        "text": 102,
+        "QA": 166
+    }
+}

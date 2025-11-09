@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_111111",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/collectionList#######",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2023-10-11",
+        "domain": "문화/역사관광",
+        "title": "청자 음각 연꽃무늬 뚜껑 조각"
+    },
+    "text": "青磁 陰刻 蓮華文 蓋 彫刻 (청자 음각 연꽃무늬 뚜껑 조각)\\n\n国籍/時代: 高麗時代の韓国、 材質: 青磁の陶磁器、 分類: 犬を食材とする食生活、 大きさ: 現在の長さは149cm、幅は215cm、また現在の長さは80cm、幅は140cm。",
+    "QA": [
+        {
+            "question": "この陰刻蓮華文蓋彫刻はどのような国籍/時代のものですか？",
+            "answer": "これは韓国の高麗時代の作品です。"
+        },
+        {
+            "question": "この青磁の陶磁器の材質は何ですか？",
+            "answer": "この陶磁器の材質は青磁です。"
+        },
+        {
+            "question": "この食生活の分類に関連する犬を食材とする文化について教えてください。",
+            "answer": "韓国ではかつて犬を食材とする食文化が存在しました。"
+        },
+        {
+            "question": "この陰刻蓮華文蓋彫刻の大きさはどのくらいですか？",
+            "answer": "現在の大きさは長さ149cm、幅215cm、また現在の大きさは長さ80cm、幅140cmです。"
+        }
+    ],
+    "word_Count": {
+        "text": 92,
+        "QA": 150
+    }
+}

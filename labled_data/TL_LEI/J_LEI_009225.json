@@ -1,0 +1,63 @@
+{
+    "data_info": {
+        "documentID": "J_LEI_009225",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2022-12-22",
+        "domain": "레포츠",
+        "title": "이천실크밸리GC"
+    },
+    "text": "京畿道利川市栗面に位置するゴルフ場は、大証第27ホールで約1,000,000m2にパー108の面積を保有しています。 このゴルフ場はValleyコース、Lakeコース、Silkコースで構成されており、それぞれのコースはパー36で構成されています。 Valleyコースは全長3,315m、Lakeコースは3.245m、Silkコースは3,310mで構成されています。 このゴルフ場は壬午山の麓の緩やかなクルンジに位置しており、快適なラウンドが可能です。 周辺にはジェンズフィールドCC、レインボーCC、セールCCなどのゴルフ場があり、様々な選択が可能です。 また、中部高速道路一竹ICから車で20分の距離にあり、アクセスが容易です。",
+    "QA": [
+        {
+            "question": "ゴルフ場の名前は何ですか？",
+            "answer": "大証第27ホール"
+        },
+        {
+            "question": "ゴルフ場の面積は何平方メートルですか？",
+            "answer": "約1,000,000m2"
+        },
+        {
+            "question": "ゴルフ場はどのコースで構成されていますか？",
+            "answer": "Valleyコース、Lakeコース、Silkコース"
+        },
+        {
+            "question": "各コースのパー数は何ですか？",
+            "answer": "各コースはパー36で構成されています"
+        },
+        {
+            "question": "Valleyコースの全長は何メートルですか？",
+            "answer": "Valleyコースの全長は3,315mです"
+        },
+        {
+            "question": "Lakeコースの全長は何メートルですか？",
+            "answer": "Lakeコースの全長は3,245mです"
+        },
+        {
+            "question": "Silkコースの全長は何メートルですか？",
+            "answer": "Silkコースの全長は3,310mです"
+        },
+        {
+            "question": "ゴルフ場はどのような地形に位置していますか？",
+            "answer": "ゴルフ場は壬午山の麓の緩やかなクルンジに位置しています"
+        },
+        {
+            "question": "周辺にはどのようなゴルフ場がありますか？",
+            "answer": "周辺にはジェンズフィールドCC、レインボーCC、セールCCなどのゴルフ場があります"
+        },
+        {
+            "question": "ゴルフ場へのアクセスはどのようになっていますか？",
+            "answer": "ゴルフ場は中部高速道路一竹ICから車で20分の距離にあり、アクセスが容易です"
+        }
+    ],
+    "word_Count": {
+        "text": 231,
+        "QA": 310
+    }
+}

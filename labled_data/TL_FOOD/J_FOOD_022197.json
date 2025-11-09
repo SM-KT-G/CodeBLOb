@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_022197",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-05-27",
+        "domain": "음식점",
+        "title": "思味軒（사미헌）"
+    },
+    "text": "思味軒\\n\n釜山広域市 釜山鎮区 西面文化路19\\n\n「思味軒（サミホン）」は韓牛焼肉、牛カルビスープなどを味わうことのできるㅏ韓国料理店です。",
+    "QA": [
+        {
+            "question": "釜山広域市の釜山鎮区にある思味軒はどのような韓国料理店ですか？",
+            "answer": "思味軒は韓牛焼肉、牛カルビスープなどを味わうことのできる韓国料理店です。"
+        },
+        {
+            "question": "思味軒の場所はどこですか？",
+            "answer": "思味軒は釜山広域市の釜山鎮区西面文化路19に位置しています。"
+        },
+        {
+            "question": "思味軒で提供されている料理は何ですか？",
+            "answer": "思味軒では韓牛焼肉や牛カルビスープなどの韓国料理が提供されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 52,
+        "QA": 119
+    }
+}

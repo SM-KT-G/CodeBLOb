@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_090634",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=486&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=01470000&ccbaCtcd=33&ccbaCpno=2113301470000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1985-12-28",
+        "domain": "문화/역사관광",
+        "title": "영동 가곡리 고가"
+    },
+    "text": "永同加谷里高架\\n\n忠清北道永同郡梁山面佳谷里146番地\\n\n忠清北道有形文化財、1917年に建てられた住居に母屋とサランチェ、門屋より屋根をしたという高めて作った大門が残っている。ㅡの字型平面の母屋は自然石の基壇に四角形の礎をめぐって四角柱を立てた。屋根は横顔が八(八部)字形の入母屋屋根で華やかだ。屋根の最後の部分の瓦に''朝鮮ゲグクオ百二十五年ビョンジンウォルシプ日数富貴男''と書かれた文章があるので、建物の連帯を知ることができる。屋根の四つの角の先にある瓦には太極の4卦の模様を刻んでおいた。建物が建てられた年度は古くなかったが伝統的建築の形態をよく保存している。",
+    "QA": [
+        {
+            "question": "この建物はいつ建てられましたか？",
+            "answer": "この建物は1917年に建てられました。"
+        },
+        {
+            "question": "この建物はどこにありますか？",
+            "answer": "この建物は忠清北道永同郡梁山面佳谷里にあります。"
+        },
+        {
+            "question": "この建物の特徴は何ですか？",
+            "answer": "この建物は母屋とサランチェ、門屋より屋根をしたという高めて作った大門が残っています。"
+        },
+        {
+            "question": "この建物の屋根に書かれた文章は何を意味しますか？",
+            "answer": "屋根の瓦に書かれた文章は建物の連帯を知ることができるもので、建物の歴史を示しています。"
+        },
+        {
+            "question": "この建物にはどんな模様が刻まれていますか？",
+            "answer": "この建物の屋根の四つの角の先にある瓦には太極の4卦の模様が刻まれています。"
+        },
+        {
+            "question": "この建物はどのような形態の伝統的建築を保存していますか？",
+            "answer": "この建物は自然石の基壇に四角形の礎をめぐって四角柱を立てた、ㅡの字型平面の母屋を保存しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 210,
+        "QA": 241
+    }
+}

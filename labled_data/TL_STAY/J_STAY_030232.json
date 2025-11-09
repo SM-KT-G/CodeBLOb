@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_030232",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42030&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "경주 풀하우스펜션"
+    },
+    "text": "フルハウスペンションは慶州普門団地の入口に位置しており、普門観光団地の散策路や施設を利用できる便利な位置にあります。 ここは景色の良い風景と涼しい景観を誇り、自然に囲まれた居心地の良い憩いの場です。 フルハウスペンションは、皆様のリラックスのために最善を尽くしており、チェックイン時間が22時以降の場合は予めご連絡ください。",
+    "QA": [
+        {
+            "question": "フルハウスペンションはどこに位置していますか？",
+            "answer": "フルハウスペンションは慶州普門団地の入口に位置しています。"
+        },
+        {
+            "question": "フルハウスペンションの周辺にはどのような施設がありますか？",
+            "answer": "フルハウスペンションの周辺には普門観光団地の散策路や施設があります。"
+        },
+        {
+            "question": "フルハウスペンションはどのような景色が楽しめますか？",
+            "answer": "フルハウスペンションは景色の良い風景と涼しい景観を誇っています。"
+        },
+        {
+            "question": "フルハウスペンションはどのようなサービスを提供していますか？",
+            "answer": "フルハウスペンションは皆様のリラックスのために最善を尽くしており、様々なサービスを提供しています。"
+        },
+        {
+            "question": "フルハウスペンションへのチェックイン時間は何時ですか？",
+            "answer": "フルハウスペンションへのチェックイン時間は22時以降の場合は予めご連絡ください。"
+        }
+    ],
+    "word_Count": {
+        "text": 118,
+        "QA": 233
+    }
+}

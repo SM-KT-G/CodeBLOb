@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_041414",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2018-07-10",
+        "domain": "문화/역사관광",
+        "title": "KBS水原センター（KBS 수원센터）"
+    },
+    "text": "KBS水原センター\n京畿道 水原市 八達区 仁渓路 123 （仁渓洞）\nドラマ好きならKBS水原センター！\nKBS水原センターは韓国国内最大の総合映像製作団地です。デジタルテレビドラマ制作のメッカで、関連施設などがあります。観覧には専門ガイドの案内が付き、ドラマスタジオや野外撮影セットなど制作の現場を中心に見学できます。",
+    "QA": [
+        {
+            "question": "KBS水原センターはどこにありますか？",
+            "answer": "KBS水原センターは京畿道水原市八達区仁渓洞にあります。"
+        },
+        {
+            "question": "KBS水原センターは何のための施設ですか？",
+            "answer": "KBS水原センターは韓国国内最大の総合映像製作団地で、デジタルテレビドラマ制作のメッカです。"
+        },
+        {
+            "question": "KBS水原センターでは何を見学できますか？",
+            "answer": "KBS水原センターではドラマスタジオや野外撮影セットなど、制作の現場を中心に見学することができます。"
+        },
+        {
+            "question": "KBS水原センターの見学にはガイドが付きますか？",
+            "answer": "はい、KBS水原センターの見学には専門ガイドが案内付きで同行します。"
+        },
+        {
+            "question": "KBS水原センターへのアクセス方法はありますか？",
+            "answer": "KBS水原センターへのアクセス方法は、公共交通機関を利用することが一般的です。詳細なアクセス方法は事前に確認してください。"
+        }
+    ],
+    "word_Count": {
+        "text": 118,
+        "QA": 240
+    }
+}

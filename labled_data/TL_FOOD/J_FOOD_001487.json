@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001487",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2020-12-24",
+        "domain": "음식점",
+        "title": "bonbon.roastery（봉봉방앗간）"
+    },
+    "text": "bonbon.roastery（봉봉방앗간）\\n\n江原道 江陵市 京江路2024番キル17-1\\n\n「bonbon.roastery（ボンボンバンアッカン）」は昔、精米所だった建物をリモデリングしてコーヒーと文化芸術が共存するカフェへと生まれ変わった空間です。ペンキが剥がれた壁、古いタイルの床や窓など、時を経たカッコよさが感じられます。",
+    "QA": [
+        {
+            "question": "場所はどこですか？",
+            "answer": "江原道江陵市京江路2024番キル17-1にあります。"
+        },
+        {
+            "question": "建物の歴史は何ですか？",
+            "answer": "この建物は昔、精米所として使われていましたが、現在はカフェにリモデリングされています。"
+        },
+        {
+            "question": "どんな雰囲気のカフェですか？",
+            "answer": "壁にはペンキが剥げており、古いタイルの床や窓など、時代を感じさせるカッコいい雰囲気のカフェです。"
+        },
+        {
+            "question": "どんなメニューがありますか？",
+            "answer": "当店ではコーヒーを中心に、様々なドリンクや軽食が提供されています。"
+        },
+        {
+            "question": "周辺には何がありますか？",
+            "answer": "周辺には美しい自然や観光スポット、アートギャラリーなどがありますので、観光客にもおすすめです。"
+        }
+    ],
+    "word_Count": {
+        "text": 123,
+        "QA": 188
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_002200",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-03",
+        "domain": "음식점",
+        "title": "YOUTH COFFEE ( 유스커피 )"
+    },
+    "text": "YOUTH COFFEE ( 유스커피 )\\n\nソウル特別市 ヨンドゥンポ区 ダンサンロ30ギル7\\n\n様々な種類のコーヒーやデザートが味わえる店です。ソウル特別市のヨンドゥンポ区に位置したカフェ（コーヒーショップ）です。代表的なメニューはアメリカーノです。",
+    "QA": [
+        {
+            "question": "ヨンドゥンポ区にあるYOUTH COFFEEの場所はどこですか？",
+            "answer": "YOUTH COFFEE（ユースコーヒー）はソウル特別市ヨンドゥンポ区のダンサンロ30ギル7に位置しています。"
+        },
+        {
+            "question": "YOUTH COFFEEではどんな種類のコーヒーやデザートが提供されていますか？",
+            "answer": "YOUTH COFFEEでは様々な種類のコーヒーやデザートが味わえます。"
+        },
+        {
+            "question": "YOUTH COFFEEの代表的なメニューは何ですか？",
+            "answer": "YOUTH COFFEEの代表的なメニューはアメリカーノです。"
+        }
+    ],
+    "word_Count": {
+        "text": 94,
+        "QA": 162
+    }
+}

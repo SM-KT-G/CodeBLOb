@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_LEI_012882",
+        "source": "도서",
+        "writer": "최정화",
+        "ISBN_ISNN": "978-89-2780-602-8",
+        "version": "초판",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "어떤 날에 원데이 클래스",
+        "collectedDate": "2023-11-10",
+        "publishedDate": "2015-01-05",
+        "domain": "레포츠",
+        "title": "LEATHER Chimera"
+    },
+    "text": "大邱香村洞に位置するLEATHERChimeraは革の種類と道具の使い方、そして基本的な革に関する知識を学ぶことができる場所です。 ここでは初心者でも簡単に作れる実用的なデザインで、自分だけのカードケースなど様々な小物を製作することができます。 営業時間は毎日11:00~21:00で、予約が必須です。 ここではキーリング、カードケース(1段、計3マス)、コイン財布、2段カードケース(計5マス)などのクラスを提供し、それぞれの価格は50,000ウォンと60,000ウォンです。 この場所に来る道は中央路4番出口から向かい側に位置しており、gs25コンビニの隣にある化粧品売り場を通ってまっすぐ入ってください。 LEATHERChimeraは庭園食堂の2階に位置しております。",
+    "QA": [
+        {
+            "question": "LEATHERChimeraはどこに位置していますか？",
+            "answer": "LEATHERChimeraは大邱香村洞に位置しています。"
+        },
+        {
+            "question": "LEATHERChimeraの営業時間は何時から何時までですか？",
+            "answer": "LEATHERChimeraの営業時間は毎日11:00~21:00です。"
+        },
+        {
+            "question": "LEATHERChimeraではどのようなクラスが提供されていますか？",
+            "answer": "LEATHERChimeraではキーリング、カードケース(1段、計3マス)、コイン財布、2段カードケース(計5マス)などのクラスが提供されています。"
+        },
+        {
+            "question": "LEATHERChimeraのクラスの価格はいくらですか？",
+            "answer": "LEATHERChimeraのクラスの価格は50,000ウォンと60,000ウォンです。"
+        },
+        {
+            "question": "LEATHERChimeraに来る道はどのように行けばいいですか？",
+            "answer": "LEATHERChimeraに来る道は中央路4番出口から向かい側に位置しており、gs25コンビニの隣にある化粧品売り場を通ってまっすぐ入ってください。LEATHERChimeraは庭園食堂の2階に位置しております。"
+        }
+    ],
+    "word_Count": {
+        "text": 247,
+        "QA": 327
+    }
+}

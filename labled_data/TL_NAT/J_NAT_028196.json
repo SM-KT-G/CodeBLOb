@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_028196",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=813&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=00530000&ccbaCtcd=37&ccbaCpno=2333700530000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1984-12-29",
+        "domain": "자연관광",
+        "title": "견훤산성"
+    },
+    "text": "慶尚北道記念物、慶尚北道尚州市長岩里の北側にある長岩山の頂上部を取り囲むテメ式山城で、甄萱が築いたことから甄萱山城と呼ばれています。この山城だけでなく、尚州地域の昔の城が甄萱と関係があるのは、『三国史記』に甄萱とその父アジャゲが尚州出身だという記録があるからです。甄萱は農民の息子として生まれ、新羅の将軍を務めましたが、ここで兵士を養成し、新羅の真聖女王6年(892)に反旗を翻して新羅の多くの城に侵攻し、孝恭王4年(900)に完山州に都を定め、後百済を建国しましたこの山城は概して四角形をしていますが、山勢と地形に沿って岩壁は岩壁通りに利用し、城壁を築く必要があるところにだけ城を築いているため、天然絶壁と城壁が調和しています。城の4角には湾曲した谷城があり、東北と東南の2ヶ所がほぼ完全に残っており、尚州の方を涼しく見下ろすことができます。城壁の周りは650m、高さは7~15m、幅は4~7mです",
+    "QA": [
+        {
+            "question": "甄萱山城はどこの地域にありますか？",
+            "answer": "慶尚北道尚州市長岩里の北側にあります。"
+        },
+        {
+            "question": "甄萱山城は誰によって築かれましたか？",
+            "answer": "甄萱によって築かれました。"
+        },
+        {
+            "question": "甄萱山城の形はどのような形をしていますか？",
+            "answer": "概して四角形をしていますが、山勢と地形に沿って岩壁は岩壁通りに利用し、城壁を築く必要があるところにだけ城を築いているため、天然絶壁と城壁が調和しています。"
+        },
+        {
+            "question": "甄萱はどのような経歴を持っていますか？",
+            "answer": "甄萱は農民の息子として生まれ、新羅の将軍を務め、新羅の多くの城に侵攻し、後百済を建国しました。"
+        },
+        {
+            "question": "甄萱山城の周囲の長さ、高さ、幅はそれぞれいくつですか？",
+            "answer": "城壁の周りは650m、高さは7~15m、幅は4~7mです。"
+        }
+    ],
+    "word_Count": {
+        "text": 293,
+        "QA": 210
+    }
+}

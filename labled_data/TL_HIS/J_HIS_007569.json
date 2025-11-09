@@ -1,0 +1,51 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_007569",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=840&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=00980000&ccbaCtcd=37&ccbaCpno=2333700980000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1994-09-29",
+        "domain": "문화/역사관광",
+        "title": "경주석장동암각화"
+    },
+    "text": "慶州石蔵洞岩刻画 (경주석장동암각화)\\n\n慶尚北道慶州市石蔵洞山38-1番地\\n\n慶尚北道記念物 , 岩刻画とは、岩や洞窟の壁面に記号や物の形を刻んだ絵をいう。 この岩刻画は慶州平野を横切る二つの河川が出会う所の北側の岩壁に描かれたものだ。 先史時代のものと推測されるこの絵は、川の水から約15mの高さの垂直絶壁の上部に横約2m、縦約9mの範囲に刻まれており、抽象的で幾何学的に表現されている。 計27点が確認されたが、幾何文8点と剣と創意要素を備えた絵11点、足跡4点、女性器3点、船1点、その他動物の姿と解釈が難しい絵などがある。 互いに少しずつ形を変えているが、基本は盾の形とどんぐりの形、花の形に分けられるが、この中でどんぐりの形と花の形の絵は他の地域の岩絵では見られないこの地域だけの独特な特色だ。 特に、剣と結合された女性記の絵などは、七浦里の影響を多く受けたものと推定される。",
+    "QA": [
+        {
+            "question": "この岩刻画はどの地域にありますか？",
+            "answer": "この岩刻画は慶尚北道慶州市石蔵洞山にあります。"
+        },
+        {
+            "question": "岩刻画とは何ですか？",
+            "answer": "岩刻画とは、岩や洞窟の壁面に記号や物の形を刻んだ絵を指します。"
+        },
+        {
+            "question": "この岩刻画は何時代のものだと推測されていますか？",
+            "answer": "この岩刻画は先史時代のものと推測されています。"
+        },
+        {
+            "question": "この岩刻画はどのように表現されていますか？",
+            "answer": "この岩刻画は抽象的で幾何学的に表現されています。"
+        },
+        {
+            "question": "この岩刻画にはどのような絵が描かれていますか？",
+            "answer": "この岩刻画には盾やどんぐりの形、花の形、剣、女性器などの絵が描かれています。"
+        },
+        {
+            "question": "この岩刻画の特徴は何ですか？",
+            "answer": "この岩刻画の特徴として、どんぐりの形と花の形の絵が他の地域の岩絵には見られない独自の特色だと言えます。"
+        },
+        {
+            "question": "女性記と剣が結合された絵はどの地域の影響を受けたものと推定されていますか？",
+            "answer": "女性記と剣が結合された絵は、七浦里の影響を多く受けたものと推定されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 290,
+        "QA": 274
+    }
+}

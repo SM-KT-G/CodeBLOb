@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_005641",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=929&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=24&ccbaAsno=00340000&ccbaCtcd=37&ccbaCpno=2443700340000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "양동대성헌"
+    },
+    "text": "ヤン·ドンデソンホン (양동대성헌)\\n\n慶尚北道民俗文化財 , 高い丘に位置している家で、18世紀中頃に建てられ、母屋、サランチェ、門屋で構成されている。 ㄱ字型の母屋と一字型のサランチェ、門屋が集まっており、全体的に「ㅁ」の字を成している。 母屋は内側の曲がるところに長い台所があり、右側に奥の間と板の間があり、横に渡った部屋がある。 全体的に縁側が敷かれ、板の間とつながっている。 サランチェは他の建物より高いところに配置されており、「大成軒」という扁額が掲げられた板の間と2間のサランバンがある。 「大成軒」とは聖住山に接しているという意味で、前面には半間幅の縁側を付けた。 門屋は門と部屋、そして家畜を飼うところで構成されている。 この家の母屋とサランチェ、門屋はすべて塀で区分されている。 特にサランチェの板の間の前には、2間に8つの扉を柱なしに付けて4つずつ折り上げるようにしたが、これは他の建物では珍しい独特な構成で目を引く。",
+    "QA": [
+        {
+            "question": "この家はいつ建てられましたか？",
+            "answer": "この家は18世紀中頃に建てられました。"
+        },
+        {
+            "question": "この家はどのような形をしていますか？",
+            "answer": "この家は全体的に「ㅁ」の字を成しています。"
+        },
+        {
+            "question": "母屋にはどのような部屋がありますか？",
+            "answer": "母屋には長い台所、奥の間、板の間、横に渡った部屋があります。"
+        },
+        {
+            "question": "サランチェにはどのような構造がありますか？",
+            "answer": "サランチェには板の間と2間のサランバンがあります。また、前面には半間幅の縁側が付いています。"
+        },
+        {
+            "question": "門屋にはどのような構成がありますか？",
+            "answer": "門屋には門と部屋、そして家畜を飼う場所があります。"
+        },
+        {
+            "question": "この家の特徴的な点はありますか？",
+            "answer": "特にサランチェの板の間の前には、8つの扉を柱なしに付けて4つずつ折り上げるようにした独特な構成があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 308,
+        "QA": 220
+    }
+}

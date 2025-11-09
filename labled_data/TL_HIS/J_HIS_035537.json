@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_035537",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=920&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=24&ccbaAsno=00150000&ccbaCtcd=31&ccbaCpno=2443100150000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2020-05-20",
+        "domain": "문화/역사관광",
+        "title": "화촉"
+    },
+    "text": "火燭 (화촉)\\n\n京畿道龍仁市処仁区陵谷路56番ギル8(慕賢邑、登山博物館)\\n\n朝鮮時代 , 京畿道民俗文化財 , 草花は宮中や上流層で使用し、民間では婚礼式で使用した貴重な草であり、消費財だったため多くの遺物が残っていない。典型的な草花は婚礼などの儀式に使われる時は常にペアで使われていたため、遺物もペアで残っている。 その形は長さ30~40cm、太さ5cm前後の大きさで転がし方で作って中が空いており、紙などで芯を挟んで使用した。 表面は牡丹の花を色を入れて華やかに量感たっぷりに彫刻し、下段には3列の境界線を張り、その間ごとに幾何学模様を囲んで彫った。本草花は民間の婚礼で使われた草花の典型をよく示している。 蜜蝋燭で、油脂を芯として使用し、牡丹の文様を量感たっぷりに装飾した。 しかし、多くの使用をして結実部分があり、部分的に模様が剥がれて毀損された。 また、火を起こして溶けた跡もそのまま残っており、芯として使われた油脂も燃える跡が残っている",
+    "QA": [
+        {
+            "question": "火燭はどのように使われましたか？",
+            "answer": "火燭は朝鮮時代の婚礼などの儀式で使用されました。"
+        },
+        {
+            "question": "火燭はどのように作られましたか？",
+            "answer": "火燭は蜜蝋で作られ、中に油脂を芯として使用しました。"
+        },
+        {
+            "question": "火燭の形状や装飾について教えてください。",
+            "answer": "火燭の形状は長さ30〜40cm、太さ5cm前後で、表面には牡丹の花の彫刻と幾何学模様がありました。"
+        },
+        {
+            "question": "火燭にはどのような遺物が残っていますか？",
+            "answer": "火燭の遺物はペアで残っており、一部は結実部分があり、模様が剥がれて毀損されています。また、火を起こして溶けた跡や芯として使われた油脂の燃える跡も残っています。"
+        },
+        {
+            "question": "火燭はどのような草花で装飾されていましたか？",
+            "answer": "火燭は表面に牡丹の花を彫刻し、色を入れて華やかに装飾されていました。"
+        }
+    ],
+    "word_Count": {
+        "text": 313,
+        "QA": 224
+    }
+}

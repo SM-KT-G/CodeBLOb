@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_019941",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42020&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "통영 1박2일펜션"
+    },
+    "text": "当1泊2日ペンションは統営の魅力的な自然と快適な客室で疲れを癒してくれます。 ペンション周辺の海と山は美しい景観を誇り、様々な活動を楽しむことができます。 夕方には統営の夜の海を眺めながら野外バーベキューを楽しむことができ、ロマンチックな思い出を作ってくれます。 私たちはいつもお客様の幸せな思い出のために最善を尽くします。 チェックアウト時間と客室の鍵の返却を必ず守ってください。 遅い時間に入室される場合はご連絡ください。 ありがとうございます。",
+    "QA": [
+        {
+            "question": "ペンション周辺にはどんな自然がありますか？",
+            "answer": "ペンション周辺には美しい海と山があります。"
+        },
+        {
+            "question": "ペンションでできるアクティビティはありますか？",
+            "answer": "はい、ペンションでは様々なアクティビティが楽しめます。"
+        },
+        {
+            "question": "夕方には何が楽しめますか？",
+            "answer": "夕方には野外バーベキューを楽しむことができます。"
+        },
+        {
+            "question": "チェックアウト時間と客室の鍵の返却について教えてください。",
+            "answer": "チェックアウト時間と客室の鍵の返却は必ず守ってください。"
+        },
+        {
+            "question": "遅い時間に入室する場合はどうすればいいですか？",
+            "answer": "遅い時間に入室される場合は事前にご連絡ください。"
+        }
+    ],
+    "word_Count": {
+        "text": 165,
+        "QA": 170
+    }
+}

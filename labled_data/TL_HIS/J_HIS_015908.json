@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_015908",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=796&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=00350000&ccbaCtcd=35&ccbaCpno=2333500350000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1976-04-02",
+        "domain": "문화/역사관광",
+        "title": "마이산탑"
+    },
+    "text": "馬耳山塔 (마이산탑)\\n\n全羅北道鎮安郡馬霊面馬耳山南路367(東村里)\\n\n全羅北道記念物 , 馬耳山内に積まれている石塔で80基余りに達するが、小さな岩石を積んで作った姿が大壮観を成している。 それぞれの塔は整えられていない小さな石をそのまま使用し、上に上がるほど次第に尖った形で、たとえ膜石ではあるが設計が正確で隙間がなく緻密に積もり、雄大な体躯が空を突くように高くそびえている。 見る人に神秘感を呼び起こしているこの塔はここに住んでいたイ·ガプヨン処士が積み上げたという説があるが確実ではなく、朝鮮前期に国を保護する風水地理的目的で太祖の命によって積み上げたという主張も出てきており、その結果に関心が集まっている。",
+    "QA": [
+        {
+            "question": "馬耳山塔は何で作られていますか？",
+            "answer": "馬耳山塔は小さな岩石を積んで作られています。"
+        },
+        {
+            "question": "馬耳山塔の数はどれくらいですか？",
+            "answer": "馬耳山塔は80基以上あります。"
+        },
+        {
+            "question": "馬耳山塔はどのような形をしていますか？",
+            "answer": "馬耳山塔は上に上がるほど次第に尖った形をしています。"
+        },
+        {
+            "question": "馬耳山塔はいつ作られましたか？",
+            "answer": "馬耳山塔は朝鮮前期に太祖の命によって作られました。"
+        },
+        {
+            "question": "馬耳山塔はどのような目的で作られましたか？",
+            "answer": "馬耳山塔は国を保護する風水地理的な目的で作られました。"
+        }
+    ],
+    "word_Count": {
+        "text": 228,
+        "QA": 148
+    }
+}

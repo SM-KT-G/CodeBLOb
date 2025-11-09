@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_005610",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101933",
+        "collectedDate": "2023-10-06",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "모명재"
+    },
+    "text": "モミョンジェ \\n\n慕明斎は大邱広域市寿城区万村洞に位置する有形文化財だ。 丁酉再乱の時期に朝鮮に帰化した明の将軍である杜師忠を称える祠だ。 1912年に杜師忠の子孫によって建立され、「明を懐かしむ」という意味を持っている。 慕明斎には「万東門」を含む色々なところに扁額がある。",
+    "QA": [
+        {
+            "question": "慕明斎はどこに位置していますか？",
+            "answer": "慕明斎は大邱広域市寿城区万村洞に位置しています。"
+        },
+        {
+            "question": "慕明斎は何を称える祠ですか？",
+            "answer": "慕明斎は明の将軍である杜師忠を称える祠です。"
+        },
+        {
+            "question": "慕明斎はいつ建立されましたか？",
+            "answer": "慕明斎は1912年に建立されました。"
+        },
+        {
+            "question": "慕明斎にはどんな扁額がありますか？",
+            "answer": "慕明斎には「万東門」を含む色々なところに扁額があります。"
+        },
+        {
+            "question": "慕明斎の建立目的は何ですか？",
+            "answer": "慕明斎の建立目的は「明を懐かしむ」という意味を持つことです。"
+        }
+    ],
+    "word_Count": {
+        "text": 101,
+        "QA": 145
+    }
+}

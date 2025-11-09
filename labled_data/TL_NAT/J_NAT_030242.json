@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_030242",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101933",
+        "collectedDate": "2023-10-06",
+        "publishedDate": "2020-01-01",
+        "domain": "자연관광",
+        "title": "낙동강하구둑"
+    },
+    "text": "ナクトンガン하구둑を日本語に変換すると「なくとんがんはぐどく」となります。 \\n\n洛東江河口堤防（Nakdong River Estuary Bank）は、釜山広域市沙下区下端洞にある洛東南路を構成する橋梁であり、江西区鳴旨洞を連結する重要な海上交通手段として建設された河口堤防です。 長さ2230m、最大高さ18.7mのトーニ方式で建設されました。 現在は韓国水資源公社（K-water）が管理しています。 洛東江河口堤防の南側は南海として扱われ、北側は洛東江として扱われます。\\n\n",
+    "QA": [
+        {
+            "question": "洛東江河口堤防はどこに位置していますか？",
+            "answer": "沙下区下端洞に位置しています。"
+        },
+        {
+            "question": "洛東江河口堤防の長さは何メートルですか？",
+            "answer": "長さは2230mです。"
+        },
+        {
+            "question": "洛東江河口堤防は何のために建設されましたか？",
+            "answer": "重要な海上交通手段として建設されました。"
+        },
+        {
+            "question": "洛東江河口堤防を管理しているのは誰ですか？",
+            "answer": "韓国水資源公社（K-water）が管理しています。"
+        },
+        {
+            "question": "洛東江河口堤防の南側は何として扱われますか？",
+            "answer": "南海として扱われます。"
+        },
+        {
+            "question": "洛東江河口堤防の北側は何として扱われますか？",
+            "answer": "洛東江として扱われます。"
+        }
+    ],
+    "word_Count": {
+        "text": 178,
+        "QA": 162
+    }
+}

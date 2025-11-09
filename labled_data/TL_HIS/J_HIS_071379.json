@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_071379",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=610&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=03550000&ccbaCtcd=31&ccbaCpno=2113103550000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2019-08-23",
+        "domain": "문화/역사관광",
+        "title": "백자청화 운룡문호"
+    },
+    "text": "朝鮮時代、京畿道有形文化財、朝鮮白磁といえば代表的に思い浮かぶのが月の壺です。これより細長い形で、背の高い壺に雲をかき分け、如意宝珠を追う龍を闊達な筆致で描いた白磁青花雲龍紋虎は略して龍駿と呼ばれています。龍駿は「珠海」とも呼ばれ、壺と壺の漢字表記である「駿」を付けて龍が描かれた壺を指します京畿陶磁博物館所蔵の白磁青華雲龍門号は朝鮮後期に作られた白磁壷で、比較的状態が良好で釉薬面の光沢が良いです。精選された白土で成形し、上下部を別に作って接合しました。表面の青華文様は龍2頭と雲、如意宝珠などを表現していますが、輪郭線と鱗、瞳などが鮮明な発色を見せ、タラキと背びれなどは非常に細かく表現されています。龍の足の指は4本です",
+    "QA": [
+        {
+            "question": "龍駿とは何ですか？",
+            "answer": "龍駿は白磁青花雲龍紋虎とも呼ばれ、京畿道の代表的な有形文化財であり、月の壺に似た形をしています。背の高い壺に雲をかき分け、如意宝珠を追う龍が描かれています。"
+        },
+        {
+            "question": "京畿陶磁博物館所蔵の白磁青華雲龍門号について教えてください。",
+            "answer": "白磁青華雲龍門号は朝鮮後期に作られた白磁壷で、釉薬面の光沢が良く、状態も比較的良好です。精選された白土で成形され、上下部が別に作られて接合されました。青華文様は龍2頭と雲、如意宝珠などが描かれており、鮮明な発色と細かい表現が特徴です。"
+        },
+        {
+            "question": "龍駿の足の指は何本ですか？",
+            "answer": "龍駿の足の指は4本です。"
+        }
+    ],
+    "word_Count": {
+        "text": 228,
+        "QA": 189
+    }
+}

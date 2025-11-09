@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_072061",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1128&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=03520000&ccbaCtcd=37&ccbaCpno=3413703520000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1998-04-13",
+        "domain": "문화/역사관광",
+        "title": "법계서실"
+    },
+    "text": "法界書室\\n\n慶尚北道奉化郡法田面沙弥亭路51-11(尺谷里)\\n\n慶尚北道文化財資料、朝鮮時代後期の寺子屋の建物だ。当時、儒学者だったヘウンカンピルヒョ(1764∼1848)先生が弟子たちを教えようと正祖24年(1800)村の丘の上にしたのを、憲宗6年(1840)の弟子たちが再びなり、先生が死んだ後、書斎が狭すぎるし、高宗4年(1867)に新たに是正され、現在に至っている。現在、この書斎には先生の文集である『ヘウン家』と『、農奴の家』の木版が保管されている。秘書室の規模は表3間・側面2間であり、屋根は横から見る時八(八部)字形の形の合掌屋根を上げた。内部には板の間一間を置いて、両サイドと前面に床を置いたが、その構成方法が特徴である。板の間は外の床より一言高く敷いて前面と左右の方に揚げ戸文をつけて、必要に応じてドアを持ち上げて板の間と床や外が一つの空間に拡大されるように処理した。一般的な書堂建物ではあるが、特異な平面構成と結句手法を見せている建築物だ。",
+    "QA": [
+        {
+            "question": "この建物の場所はどこですか？",
+            "answer": "慶尚北道奉化郡法田面沙弥亭路51-11(尺谷里)にあります。"
+        },
+        {
+            "question": "この建物は何のために使われていましたか？",
+            "answer": "この建物は、文化財資料であり、朝鮮時代後期の寺子屋の建物として使われていました。"
+        },
+        {
+            "question": "この建物の歴史はいつから始まりましたか？",
+            "answer": "この建物は、正祖24年(1800)に儒学者のヘウンカンピルヒョ先生が弟子たちを教えるために建てられました。"
+        },
+        {
+            "question": "この建物には何が保管されていますか？",
+            "answer": "現在、この建物には先生の文集である『ヘウン家』と『農奴の家』の木版が保管されています。"
+        },
+        {
+            "question": "この建物の特徴的な点は何ですか？",
+            "answer": "この建物は、特異な平面構成と結句手法を持つ一般的な書堂建物です。"
+        }
+    ],
+    "word_Count": {
+        "text": 316,
+        "QA": 209
+    }
+}

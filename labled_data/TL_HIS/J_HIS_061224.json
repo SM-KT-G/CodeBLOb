@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_061224",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/collectionList#######",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "도연명 부사도"
+    },
+    "text": "陶淵明 赴社圖 (도연명 부사도)\\n\nこの絵は、日本の近代の作家である元 富岡鉄斎によって制作されたものです。紙を材料に使っており、分類としては、文化芸術の中でも書画や絵画に分類される作品です。その大きさは、縦196.7cm、横64.9cm、軸長70.3cmです。",
+    "QA": [
+        {
+            "question": "この絵は誰によって制作されましたか？",
+            "answer": "この絵は元富岡鉄斎によって制作されました。"
+        },
+        {
+            "question": "この絵はどのような分類に属していますか？",
+            "answer": "この絵は文化芸術の中でも書画や絵画に分類されます。"
+        },
+        {
+            "question": "この絵の大きさはどれくらいですか？",
+            "answer": "この絵の大きさは縦196.7cm、横64.9cm、軸長70.3cmです。"
+        }
+    ],
+    "word_Count": {
+        "text": 97,
+        "QA": 100
+    }
+}

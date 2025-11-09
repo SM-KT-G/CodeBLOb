@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_010736",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=91&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=07080000&ccbaCtcd=11&ccbaCpno=1121107080000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1981-03-18",
+        "domain": "문화/역사관광",
+        "title": "급암선생시집"
+    },
+    "text": "急岩先生詩集 (급암선생시집)\\n\nソウル特別市中区\\n\n高麗恭愍王19年(1370年) , 宝物 , 及岩先生詩集は高麗後期の文臣であり学者であるミン·サピョン(1295~1359)の個人詩集だ。 ミン·サピョンは文科に及第し、道添の賛成士、進賢官大帝学などの官職を務めた。 この詩集は文人の李端が慶尚道の按察使として在職した時、異色の発問を受け高麗恭愍王19年(1370)に木版本に撮った印刷本だ。 印刷されてからあまりにも古く、序文第1、2枚と巻1~4まで16枚が毀損され、再び印刷されたところもある。 内容は本の冒頭にイ·ジェヒョンと異色の序文があり「急岩墓地名年譜」がある。 そして古詩、律詩、司書など5冊に分けて編成した。 この詩集は若干毀損され、再び印刷した部分があるが、『急岩集』の唯一本として文献学研究および著者の詩学研究に貴重な資料となっている。",
+    "QA": [
+        {
+            "question": "この詩集は誰の詩集ですか？",
+            "answer": "この詩集は文臣であり学者であるミン・サピョンの個人詩集です。"
+        },
+        {
+            "question": "この詩集はいつ出版されましたか？",
+            "answer": "この詩集は高麗恭愍王19年(1370年)に木版本に撮られました。"
+        },
+        {
+            "question": "この詩集はどのように印刷されましたか？",
+            "answer": "この詩集は木版本に撮られ、後に再度印刷された部分もあります。"
+        },
+        {
+            "question": "この詩集はどのような内容ですか？",
+            "answer": "この詩集は古詩、律詩、司書などを含む5冊に分けられた内容です。"
+        },
+        {
+            "question": "この詩集はどのような状態で現存していますか？",
+            "answer": "この詩集は一部が毀損されており、再び印刷された部分もありますが、唯一の本として貴重な資料となっています。"
+        }
+    ],
+    "word_Count": {
+        "text": 280,
+        "QA": 191
+    }
+}

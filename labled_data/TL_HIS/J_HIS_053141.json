@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_053141",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=575&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=02830000&ccbaCtcd=37&ccbaCpno=2113702830000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1993-11-30",
+        "domain": "문화/역사관광",
+        "title": "구가암"
+    },
+    "text": "旧家岩\\n\n慶尚北道奉化郡法田面葛山路1994-99(訥山里)\\n\n慶尚北道有形文化財、移動表先生の次男もう兼(1683∼1742)の墓を保護するために朝鮮純祖(スンジョ)25年(1825)にひ孫である李漢正(イ・ハンジョン)被告を中心に親戚たちが立てた斎室だ。ここで祭祀と家事を議論しており、地方の士林らが集まって詩を作ったり詩について討論もしたという。建物は前面6間・側面3間規模で、屋根は側面が八(八部)者で華麗な入母屋屋根である。台所と部屋、楼閣が鉤型をなしており、前に突き出た楼閣の柱の間隔が異なる奇抜さを見せている。...",
+    "QA": [
+        {
+            "question": "この斎室はいつ建てられましたか？",
+            "answer": "この斎室は朝鮮純祖25年(1825)に建てられました。"
+        },
+        {
+            "question": "この斎室は誰のために建てられましたか？",
+            "answer": "この斎室は李漢正被告のひ孫であるもう兼の墓を保護するために建てられました。"
+        },
+        {
+            "question": "この斎室で行われる祭祀や家事について教えてください。",
+            "answer": "この斎室では祭祀と家事について議論や討論が行われます。地方の士林らが集まって詩を作ったり詩について話し合われることもあります。"
+        },
+        {
+            "question": "この斎室の建物の特徴は何ですか？",
+            "answer": "この斎室の建物は前面6間・側面3間の規模で、華麗な入母屋屋根を持っています。楼閣が鉤型をなしており、前に突き出た楼閣の柱の間隔が異なる奇抜なデザインです。"
+        },
+        {
+            "question": "この斎室はどの地域にありますか？",
+            "answer": "この斎室は慶尚北道奉化郡法田面葛山路1994-99(訥山里)にあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 195,
+        "QA": 244
+    }
+}

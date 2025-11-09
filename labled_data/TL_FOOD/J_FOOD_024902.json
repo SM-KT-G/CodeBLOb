@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_024902",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "牛島食卓 ( 우도밥상 )"
+    },
+    "text": "牛島食卓 ( 우도밥상 )\n済州特別自治道 済州市 牛島面 牛島海岸キル 170\n創業10年目の新鮮な刺身屋です。おすすめは刺身入り冷やしスープです。済州特別自治道のジェジュ市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "牛島食卓（ウドバッサン）はどこに位置していますか？",
+            "answer": "牛島食卓（ウドバッサン）は済州特別自治道済州市牛島面牛島海岸キル170に位置しています。"
+        },
+        {
+            "question": "牛島食卓（ウドバッサン）のおすすめメニューは何ですか？",
+            "answer": "牛島食卓（ウドバッサン）のおすすめは刺身入り冷やしスープです。"
+        },
+        {
+            "question": "牛島食卓（ウドバッサン）は何年目の創業ですか？",
+            "answer": "牛島食卓（ウドバッサン）は創業10年目です。"
+        }
+    ],
+    "word_Count": {
+        "text": 74,
+        "QA": 126
+    }
+}

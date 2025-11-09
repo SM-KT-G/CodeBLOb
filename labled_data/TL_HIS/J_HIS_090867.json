@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_090867",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=921&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=24&ccbaAsno=00160000&ccbaCtcd=36&ccbaCpno=2443600160000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1986-02-07",
+        "domain": "문화/역사관광",
+        "title": "영암집영재"
+    },
+    "text": "全羅南道民俗文化財、寺子屋として使われていた建物で、19世紀末に建てられたものです。母屋と大門棟、付属棟で構成されています。母屋の集英材は前面3間·側面2間の胴体に、前面1間·側面3間半の翼体が胴体より1間差し出されH字型になっている。母屋は3間をすべて板の間とし、6間規模の大きな床の空間を作り、書堂の機能を満たすことができます。板の間の前はドアをつけて開放できるようになっています母屋の両側にある翼棟は、一番前に突き出た1間に板の間を設置し、残りの後ろの間は部屋で構成されています。屋根の側面が八の字型の入母屋造りで、板の間に円形の石柱が建てられています。3間規模の大門は中央に建つ大門があり、両側にそれぞれ1間の部屋が設けられています。集英材はH字型平面という珍しい例で、特にヌマルは規模が小さく威風を保っている建物です",
+    "QA": [
+        {
+            "question": "この建物はいつ建てられましたか？",
+            "answer": "19世紀末に建てられました。"
+        },
+        {
+            "question": "この建物はどのような構造になっていますか？",
+            "answer": "母屋と大門棟、付属棟で構成されており、母屋の集英材はH字型になっています。"
+        },
+        {
+            "question": "この建物の大門部分には何がありますか？",
+            "answer": "大門には中央に建つ大門と、両側にそれぞれ1間の部屋が設けられています。"
+        },
+        {
+            "question": "この建物で何が行われていましたか？",
+            "answer": "この建物は寺子屋として使われていました。"
+        },
+        {
+            "question": "この建物の屋根の形はどのような形をしていますか？",
+            "answer": "屋根の側面が八の字型の入母屋造りになっており、板の間に円形の石柱が建てられています。"
+        }
+    ],
+    "word_Count": {
+        "text": 266,
+        "QA": 179
+    }
+}

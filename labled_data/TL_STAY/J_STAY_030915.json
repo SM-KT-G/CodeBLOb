@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_030915",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42010&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "양평 별따오기펜션"
+    },
+    "text": "四季折々の美しい景色を友として休める場所、ヤンピョンには星トキペンションがあります。 このペンションは最大限クリーンな環境を提供しており、ソウルからも近いためアクセスしやすいです。 ピョルトキペンションは皆様に最高のペンションとしてサービスを提供するために最善を尽くします。 入室時間は22時以降でしたら予めご連絡ください。 また、電気肉の鉄板は持ち込み禁止です。 ありがとうございます。",
+    "QA": [
+        {
+            "question": "星トキペンションはどのような施設ですか？",
+            "answer": "星トキペンションは四季折々の美しい景色を楽しめるペンションで、クリーンな環境を提供しています。"
+        },
+        {
+            "question": "星トキペンションへのアクセスはどうですか？",
+            "answer": "星トキペンションはソウルに近く、アクセスが便利です。"
+        },
+        {
+            "question": "入室時間は何時からですか？",
+            "answer": "入室時間は22時以降ですが、それ以前に入室する場合は事前にご連絡ください。"
+        },
+        {
+            "question": "電気肉の鉄板は持ち込みできますか？",
+            "answer": "申し訳ありませんが、電気肉の鉄板は持ち込み禁止です。"
+        }
+    ],
+    "word_Count": {
+        "text": 142,
+        "QA": 151
+    }
+}

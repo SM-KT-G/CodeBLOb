@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_016073",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=798&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=00370000&ccbaCtcd=23&ccbaCpno=2332300370000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1999-03-29",
+        "domain": "문화/역사관광",
+        "title": "망양 돈대"
+    },
+    "text": "望洋高台 (망양 돈대)\\n\n仁川江華郡内加面外浦里680番地\\n\n仁川広域市記念物 , 敦台は海岸や国境地域に積み上げた小規模観測·防御施設だ。 兵士たちが高台の中で警戒勤務に立ち、外敵の斥候活動をはじめとする各種不審な情況を察して対処する。 敵が侵略する時は、高台の中に備え付けられた武器で防御戦を繰り広げる。 1679年(粛宗5年)5月に完成した48匁台に、以後5匁台が追加で建てられた。 48高台は黄海道·江原道·咸鏡道の僧軍8900人と漁営庁所属の漁営軍4262人が80日ほどかけて積み上げた。 敦大築造を企画·監督した人は兵曹判書の金錫柱（キム·ソクジュ）で、実務総括は江華留守の尹伊済（ユン·イジェ）だった。 望洋高台は1679年(粛宗5)に築いた48高台の一つで、建平高台·三岩高台·石刻高台とともに井浦堰に属した。 方形構造で周囲が130m、石壁の高さは300~340cmだ。 東に外浦里港があり、すぐ下に三別抄項夢遊虚碑がある。 南側は急傾斜でほぼ絶壁に近い。",
+    "QA": [
+        {
+            "question": "望洋高台はどこにありますか？",
+            "answer": "望洋高台は仁川江華郡内加面外浦里680番地にあります。"
+        },
+        {
+            "question": "望洋高台は何のために建てられましたか？",
+            "answer": "望洋高台は海岸や国境地域に積み上げた小規模観測·防御施設です。兵士たちが警戒勤務に立ち、外敵の斥候活動などを察知して対処します。"
+        },
+        {
+            "question": "望洋高台はいつ完成しましたか？",
+            "answer": "望洋高台は1679年(粛宗5年)5月に完成しました。"
+        },
+        {
+            "question": "望洋高台はどのような構造ですか？",
+            "answer": "望洋高台は方形構造で周囲が130m、石壁の高さは300~340cmです。"
+        },
+        {
+            "question": "望洋高台はどのように築かれましたか？",
+            "answer": "望洋高台は黄海道·江原道·咸鏡道の僧軍8900人と漁営庁所属の漁営軍4262人が80日ほどかけて積み上げました。"
+        }
+    ],
+    "word_Count": {
+        "text": 322,
+        "QA": 213
+    }
+}

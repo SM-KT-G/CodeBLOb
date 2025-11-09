@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_025837",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-10-16",
+        "domain": "음식점",
+        "title": "一品梅牛（일품매우）"
+    },
+    "text": "一品梅牛（일품매우）\\n\n全羅南道 順天市 大石3キル3-26\\n\n「一品梅牛（イルプムメウ）」は牛肉を梅と一緒に味わえる肉専門店です。梅コチュジャンと梅味噌ソースで韓牛の味を生かし、ヤンニョムカルビをはじめとして、様々なメニューを提供しています。",
+    "QA": [
+        {
+            "question": "一品梅牛はどこにありますか？",
+            "answer": "一品梅牛は全羅南道順天市大石3キル3-26にあります。"
+        },
+        {
+            "question": "一品梅牛の特徴は何ですか？",
+            "answer": "一品梅牛は牛肉を梅と一緒に味わえる肉専門店です。梅コチュジャンと梅味噌ソースで韓牛の味を生かしたメニューを提供しています。"
+        },
+        {
+            "question": "一品梅牛のメニューには何がありますか？",
+            "answer": "一品梅牛のメニューにはヤンニョムカルビをはじめとして、様々な料理があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 90,
+        "QA": 126
+    }
+}

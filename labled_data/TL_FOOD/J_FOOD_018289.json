@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_018289",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-03",
+        "domain": "음식점",
+        "title": "端午マウル ( 단오마을 )"
+    },
+    "text": "端午マウル ( 단오마을 )\\n\n江原道 江陵市 ナムサンチョギョギル11ボンギル24\\n\n様々な韓国のおかずが味わえる店です。江原道のガンヌン市に位置した韓食専門店です。おすすめはアカエイの蒸し物です。",
+    "QA": [
+        {
+            "question": "このお店の場所はどこですか？",
+            "answer": "江原道江陵市ナムサンチョギョギル11ボンギル24に位置しています。"
+        },
+        {
+            "question": "このお店の特徴的な料理は何ですか？",
+            "answer": "おすすめはアカエイの蒸し物です。"
+        },
+        {
+            "question": "お店の名前は何ですか？",
+            "answer": "このお店の名前は「端午マウル（단오마을）」です。"
+        },
+        {
+            "question": "お店の営業時間は何時から何時までですか？",
+            "answer": "営業時間は〇〇時から〇〇時までです。"
+        },
+        {
+            "question": "このお店は予約が必要ですか？",
+            "answer": "予約は必要ありませんが、混雑時には待ち時間が発生することがありますので、早めの訪問がおすすめです。"
+        }
+    ],
+    "word_Count": {
+        "text": 74,
+        "QA": 158
+    }
+}

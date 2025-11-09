@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_111038",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/collectionList#######",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2023-10-11",
+        "domain": "문화/역사관광",
+        "title": "청자 음각 앵무문 대접"
+    },
+    "text": "青磁陰刻 桜舞文 平鉢 (청자 음각 앵무문 대접)\\n\n国籍/時代: 高麗時代の韓国で作られた作品です。 材質: この作品は陶磁器の一種で、青磁と呼ばれています。 分類: この作品は食生活の一部としての食べ物の足の部分を表したものです。 大きさ: 高さは64cm、着丈は174cm、底径は68cmです。",
+    "QA": [
+        {
+            "question": "この陶磁器はどこの国で作られたものですか？",
+            "answer": "この陶磁器は高麗時代の韓国で作られた作品です。"
+        },
+        {
+            "question": "この陶磁器は何の材料で作られていますか？",
+            "answer": "この作品は青磁と呼ばれる陶磁器の一種で作られています。"
+        },
+        {
+            "question": "この陶磁器はどのような形をしていますか？",
+            "answer": "この陶磁器は平鉢と呼ばれる形状で、食べ物の足の部分を表しています。"
+        },
+        {
+            "question": "この陶磁器の大きさはどのくらいですか？",
+            "answer": "この陶磁器の高さは64cm、着丈は174cm、底径は68cmです。"
+        }
+    ],
+    "word_Count": {
+        "text": 111,
+        "QA": 143
+    }
+}

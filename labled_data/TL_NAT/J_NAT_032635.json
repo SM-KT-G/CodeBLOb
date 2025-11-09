@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_032635",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=295&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=16&ccbaAsno=02110000&ccbaCtcd=36&ccbaCpno=1363602110000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1968-07-24",
+        "domain": "자연관광",
+        "title": "무안 용월리 백로와 왜가리 번식지"
+    },
+    "text": "天然記念物である白鷺は熱帯と温帯で繁殖する鳥類で、韓国全域で繁殖していると知られている。この動物は主に松の木やイチョウの木と同じ木に巣を作って繁殖する。また、アオサギも、韓国のベクログヮの中で最大の大きさを持つ鳥で、韓国の全域で夏だけ繁殖する。そのうち一部は南やソムジバンで冬を過ごすとされている。シラサギやアオサギは主に水田、河川、海岸などで生活しながら、蛙、魚、ヘビなどを食べる。一方、我が国の務安ヨンウォル里はシラサギとアオサギの繁殖地で有名なところで、約500匹のアオサギが朴に巣を作っている。また、チョンリョンサンの繁殖地には約600匹のシラサギやアオサギが集団繁殖しているという。このようなヨンウォル里はシラサギとアオサギの繁殖地として、天然記念物に指定されて保護されている。",
+    "QA": [
+        {
+            "question": "白鷺はどのような場所で繁殖しますか？",
+            "answer": "白鷺は主に松の木やイチョウの木と同じ木に巣を作って繁殖します。"
+        },
+        {
+            "question": "アオサギは何を食べますか？",
+            "answer": "アオサギは主に蛙、魚、ヘビなどを食べます。"
+        },
+        {
+            "question": "ヨンウォル里とはどのような場所ですか？",
+            "answer": "ヨンウォル里はシラサギとアオサギの繁殖地で有名な場所で、約500匹のアオサギが朴に巣を作っています。"
+        },
+        {
+            "question": "チョンリョンサンの繁殖地にはどのような鳥が集団繁殖していますか？",
+            "answer": "チョンリョンサンの繁殖地には約600匹のシラサギやアオサギが集団繁殖しています。"
+        },
+        {
+            "question": "ヨンウォル里はどのような保護がされていますか？",
+            "answer": "ヨンウォル里はシラサギとアオサギの繁殖地として、天然記念物に指定されて保護されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 252,
+        "QA": 213
+    }
+}

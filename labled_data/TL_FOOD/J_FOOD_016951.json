@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_016951",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/gyeongbarwon",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "慶発園"
+    },
+    "text": "慶発園\\n\nソウル特別市 東大門区 マンウロ21ギル34\\n\n華僑が経営する店です。ソウル特別市のドンデムン区に位置した中華専門店です。おすすめは鶏肉の唐揚げ甘酢醤油です。",
+    "QA": [
+        {
+            "question": "このお店の名前と場所はどこですか？",
+            "answer": "このお店の名前は慶発園で、場所はソウル特別市東大門区マンウロ21ギル34です。"
+        },
+        {
+            "question": "このお店は誰が経営していますか？",
+            "answer": "このお店は華僑が経営しています。"
+        },
+        {
+            "question": "このお店のおすすめメニューは何ですか？",
+            "answer": "このお店のおすすめは鶏肉の唐揚げ甘酢醤油です。"
+        }
+    ],
+    "word_Count": {
+        "text": 63,
+        "QA": 95
+    }
+}

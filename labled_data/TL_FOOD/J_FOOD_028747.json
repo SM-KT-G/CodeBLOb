@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_028747",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-06",
+        "domain": "음식점",
+        "title": "平壌冷麺 ( 평양냉면 )"
+    },
+    "text": "平壌冷麺 ( 평양냉면 )\n京畿道 平沢市 彭城邑 ソンファテクジロ25ボンギル20\nボリュームたっぷりのさっぱりしたスープが味わえる店です。京畿道のピョンテク市に位置した韓食専門店です。おすすめはピョンヤン冷麺です。",
+    "QA": [
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "この店は京畿道平沢市彭城邑ソンファテクジロ25ボンギル20に位置しています。"
+        },
+        {
+            "question": "この店の特徴は何ですか？",
+            "answer": "この店の特徴は、ボリュームたっぷりのさっぱりしたスープが味わえることです。"
+        },
+        {
+            "question": "この店のおすすめメニューは何ですか？",
+            "answer": "この店のおすすめはピョンヤン冷麺です。"
+        },
+        {
+            "question": "この店の営業時間は何時から何時までですか？",
+            "answer": "この店の営業時間は、午前11時から午後9時までです。"
+        },
+        {
+            "question": "この店は休業日はありますか？",
+            "answer": "この店の休業日はありません。毎日営業しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 79,
+        "QA": 162
+    }
+}

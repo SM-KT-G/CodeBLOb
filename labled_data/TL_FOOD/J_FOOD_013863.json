@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_013863",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2020-12-28",
+        "domain": "음식점",
+        "title": "マッチャンドルワンソグムグイ西面( 맛찬들왕소금구이 서면 )"
+    },
+    "text": "マッチャンドルワンソグムグイ西面( 맛찬들왕소금구이 서면 )\\n\n釜山広域市 釜山鎮区 チュンアンデロ691ボンガギル24-3\\n\n14日間熟成した最高の熟成肉が味わえます。代表的なメニューはサムギョプサルです。釜山広域市のブサンジン区に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "このお店はどこにありますか？",
+            "answer": "このお店は釜山広域市の釜山鎮区にあります。具体的な住所はチュンアンデロ691ボンガギル24-3です。"
+        },
+        {
+            "question": "このお店ではどのような料理が楽しめますか？",
+            "answer": "このお店では14日間熟成した最高の熟成肉を楽しむことができます。特に代表的なメニューはサムギョプサルです。"
+        },
+        {
+            "question": "このお店はどんな雰囲気ですか？",
+            "answer": "このお店は韓食専門店で、釜山広域市のブサンジン区に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 96,
+        "QA": 136
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_035900",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2023-02-06",
+        "domain": "문화/역사관광",
+        "title": "흥무공원"
+    },
+    "text": "興武公園 (흥무공원)\\n\n慶尚北道慶州市忠孝洞9-2\\n\n興武公園は、韓国の慶尚北道慶州市忠孝洞に位置しています。興武路沿いにあり、金庾信将軍の墓へ向かう途中にあります。金庾信将軍は興武台王に追尊されました。公園は小さいですが、広い芝生と木陰があり、遠足を楽しむのに最適です。*写真出典:慶州市公式ブログ",
+    "QA": [
+        {
+            "question": "興武公園はどこに位置していますか？",
+            "answer": "興武公園は韓国の慶尚北道慶州市忠孝洞に位置しています。"
+        },
+        {
+            "question": "興武公園の特徴は何ですか？",
+            "answer": "興武公園は小さいですが、広い芝生と木陰があり、遠足を楽しむのに最適です。"
+        },
+        {
+            "question": "金庾信将軍の墓へ向かう途中に興武公園はありますか？",
+            "answer": "はい、興武公園は金庾信将軍の墓へ向かう途中にあります。"
+        },
+        {
+            "question": "金庾信将軍は誰ですか？",
+            "answer": "金庾信将軍は興武台王に追尊された将軍です。"
+        }
+    ],
+    "word_Count": {
+        "text": 112,
+        "QA": 129
+    }
+}

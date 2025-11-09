@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_004982",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-03",
+        "domain": "음식점",
+        "title": "ギャラリーソプン ( 갤러리소풍 )"
+    },
+    "text": "ギャラリーソプン ( 갤러리소풍 )\\n\n江原道 ガンヌン市 ガンヌンデロ587ボンギル49-1\\n\n香ばしいクリームソースで味付けしたシーフードクリームスパゲッティが人気メニューです。江原道のガンヌン市に位置した洋食専門店です。代表的なメニューは豚カツです。",
+    "QA": [
+        {
+            "question": "ギャラリーソプンの場所はどこですか？",
+            "answer": "ギャラリーソプンは江原道のガンヌン市に位置しています。具体的な住所はガンヌンデロ587ボンギル49-1です。"
+        },
+        {
+            "question": "ギャラリーソプンの人気メニューは何ですか？",
+            "answer": "ギャラリーソプンの人気メニューは香ばしいクリームソースで味付けしたシーフードクリームスパゲッティです。"
+        },
+        {
+            "question": "ギャラリーソプンで代表的なメニューは何ですか？",
+            "answer": "ギャラリーソプンで代表的なメニューは豚カツです。"
+        }
+    ],
+    "word_Count": {
+        "text": 95,
+        "QA": 140
+    }
+}

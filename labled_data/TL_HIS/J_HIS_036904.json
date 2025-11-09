@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_036904",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=137&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=12090000&ccbaCtcd=23&ccbaCpno=1122312090000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1994-07-29",
+        "domain": "문화/역사관광",
+        "title": "우주두율"
+    },
+    "text": "虞註杜律 (우주두율)\\n\n仁川延寿区清涼路102番キル40-9、嘉泉博物館(玉蓮洞、嘉泉博物館)\\n\n宝物、この本は中国唐の詩聖である杜甫の七言律詩を中国元の学者友集が注を付けて解説をしたことを成宗1年(1470)に当時清州牧師クォン·ジが清州牧から刊行したものだ。 この本の字は槐山郡守のパク·ビョンドクが書き、校庭はイ·ギョンバンが見た。 また、本を刊行した年月が跋文を書いた年月より1年先であり、序·跋および簡記などが完全で書誌学研究の貴重な資料と評価される。",
+    "QA": [
+        {
+            "question": "この本は何の内容ですか？",
+            "answer": "この本は中国唐の詩聖である杜甫の七言律詩を中国元の学者友集が注を付けて解説をした本です。"
+        },
+        {
+            "question": "この本はいつ刊行されましたか？",
+            "answer": "この本は成宗1年(1470)に当時清州牧のクォン・ジが刊行しました。"
+        },
+        {
+            "question": "この本の字を書いた人は誰ですか？",
+            "answer": "この本の字は槐山郡守のパク・ビョンドクが書きました。"
+        },
+        {
+            "question": "この本を刊行した年月は跋文を書いた年月よりどのくらい先ですか？",
+            "answer": "この本を刊行した年月は跋文を書いた年月より1年先です。"
+        },
+        {
+            "question": "この本には何が含まれていますか？",
+            "answer": "この本には杜甫の七言律詩と中国元の学者友集による注釈と解説が含まれています。"
+        },
+        {
+            "question": "この本についての評価はどうですか？",
+            "answer": "この本の序・跋および簡記などは書誌学研究の貴重な資料と評価されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 171,
+        "QA": 228
+    }
+}

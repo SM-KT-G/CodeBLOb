@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_038686",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=778&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=00190000&ccbaCtcd=23&ccbaCpno=2332300190000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1995-03-02",
+        "domain": "문화/역사관광",
+        "title": "장곶돈대"
+    },
+    "text": "長串墩台 (장곶돈대)\\n\n仁川江華郡花島面長花里113番地\\n\n仁川広域市記念物、墩台は敵の動きを観察したり、攻撃に備えるために領土内の国境地域または海岸地域の監視が容易な場所に設けておく警戒所だ。 たいてい高い平地に積んでおくが、外は城郭で高くし、中は低くして砲を設置しておく。 この墩台は自然な地形を利用してその上に小さな要塞を作ったものだ。長串墩台は1679年(粛宗5)に築いた48墩台の一つで、「長串墩台」とも呼ばれる。 海岸に突出した地形に位置し、観測と防御に非常に有利な条件を備えている。 内部直径が31mの円形構造で周囲が128m、石壁高さ210cm~350cmだ。 40~120㎝の四角い石を高さ3mの丸い形に積み上げた後、海岸側に4つの座が設置された。 胞子は直径が45cm、中の幅が18cm、長さが24cmの大きさだ。 その上には低い塀を設置した跡が残っている。 弥串墩台·日朝岬墩台·黔岩墩台とともに長串堡に属した。 現地の石材を使って1993年に補修した。",
+    "QA": [
+        {
+            "question": "この長串墩台は何のために作られましたか？",
+            "answer": "長串墩台は敵の動きを観察したり、攻撃に備えるために領土内の国境地域または海岸地域の監視が容易な場所に設けておく警戒所です。"
+        },
+        {
+            "question": "長串墩台はいつ築かれましたか？",
+            "answer": "長串墩台は1679年(粛宗5)に築かれました。"
+        },
+        {
+            "question": "長串墩台の特徴は何ですか？",
+            "answer": "長串墩台は海岸に突出した地形に位置し、観測と防御に非常に有利な条件を備えています。内部直径が31mの円形構造で周囲が128m、石壁の高さは210cm~350cmです。"
+        },
+        {
+            "question": "長串墩台の石材はどのように使用されましたか？",
+            "answer": "長串墩台では、海岸側に40~120㎝の四角い石を高さ3mの丸い形に積み上げ、その上に4つの座を設置しました。"
+        },
+        {
+            "question": "長串墩台はどのように補修されましたか？",
+            "answer": "長串墩台は現地の石材を使用して1993年に補修されました。"
+        }
+    ],
+    "word_Count": {
+        "text": 323,
+        "QA": 248
+    }
+}

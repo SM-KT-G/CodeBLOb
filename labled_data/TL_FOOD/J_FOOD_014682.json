@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_014682",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-01",
+        "domain": "음식점",
+        "title": "モンジャポチャ ( 몽자포차 )"
+    },
+    "text": "モンジャポチャ \n江原道 原州市 尚志大キル 42\n大学の近くにあり、若者たちが多く訪れるところです。代表的なメニューはつぶ貝素麺です。江原道のウォンジュ市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "この店は江原道原州市に位置しています。"
+        },
+        {
+            "question": "この店は大学の近くにありますか？",
+            "answer": "はい、この店は大学の近くにあります。"
+        },
+        {
+            "question": "この店の人気メニューは何ですか？",
+            "answer": "この店の代表的なメニューはつぶ貝素麺です。"
+        },
+        {
+            "question": "この店には若者が多く訪れますか？",
+            "answer": "はい、この店には若者たちが多く訪れます。"
+        },
+        {
+            "question": "この店は韓食専門店ですか？",
+            "answer": "はい、この店は韓食専門店です。"
+        }
+    ],
+    "word_Count": {
+        "text": 66,
+        "QA": 122
+    }
+}

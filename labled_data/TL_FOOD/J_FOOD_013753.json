@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_013753",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-09-01",
+        "domain": "음식점",
+        "title": "マウムウルダムアネミョン（마음을담아내면）"
+    },
+    "text": "マウムウルダムアネミョン（마음을담아내면）\\n\nソウル特別市 鐘路区 栗谷路3キル 79\\n\nこの店はソウル特別市のチョンノに位置した韓国料理店です。ステーキと丼物も有名です。代表的なメニューは素麺です。",
+    "QA": [
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "この店はソウル特別市のチョンノに位置しています。"
+        },
+        {
+            "question": "この店の特徴的なメニューは何ですか？",
+            "answer": "この店の代表的なメニューは素麺です。"
+        },
+        {
+            "question": "この店の料理のジャンルは何ですか？",
+            "answer": "この店は韓国料理店です。"
+        },
+        {
+            "question": "この店の他にどんな料理が有名ですか？",
+            "answer": "この店ではステーキと丼物も有名です。"
+        }
+    ],
+    "word_Count": {
+        "text": 74,
+        "QA": 101
+    }
+}

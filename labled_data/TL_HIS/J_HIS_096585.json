@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_096585",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=134&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=11740100&ccbaCtcd=31&ccbaCpno=1123111740100&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1993-11-05",
+        "domain": "문화/역사관광",
+        "title": "이중로 정사공신교서 및 초상 - 이중로 정사공신교서"
+    },
+    "text": "朝鮮時代に二重ローラは人が開国功臣李之蘭の後裔にイ・ガルの乱の時に戦死した。イジュンロは16歳の時、武科に及第し、宣傳官になっており、光海君13年には利川副詞となった。仁祖1年には仁祖反正に参加してチョンフングンでふさがれた。この教書演説は、仁祖3年にイジュンロに追贈されたことで、彼の死後に下されたのだ。教書にはイジュンロの肖像を描いて後世に残して、彼の官職を2階級上げ、親、妻子にも同等の恩恵を与えた。また、教書演説は、功臣に奴婢、畑、銀、生地、馬などをご褒美に下すよう指示した。この教書演説は、功臣に対する褒賞の内訳を知ることができる貴重な資料である。",
+    "QA": [
+        {
+            "question": "誰がイ・ガルの乱の時に戦死しましたか？",
+            "answer": "二重ローラは、開国功臣李之蘭の後裔であり、イ・ガルの乱の時に戦死しました。"
+        },
+        {
+            "question": "イジュンロは何歳で武科に及第しましたか？",
+            "answer": "イジュンロは16歳の時に武科に及第しました。"
+        },
+        {
+            "question": "イジュンロは何の官職に就きましたか？",
+            "answer": "イジュンロは光海君13年には利川副詞となりました。"
+        },
+        {
+            "question": "イジュンロの死後に何が彼に追贈されましたか？",
+            "answer": "イジュンロの死後、彼には教書演説が追贈され、彼の肖像が描かれ、官職が2階級上げられ、親、妻子にも同等の恩恵が与えられました。"
+        },
+        {
+            "question": "教書演説は何を指示しましたか？",
+            "answer": "教書演説では、功臣に奴婢、畑、銀、生地、馬などのご褒美を与えるよう指示されました。"
+        }
+    ],
+    "word_Count": {
+        "text": 204,
+        "QA": 206
+    }
+}

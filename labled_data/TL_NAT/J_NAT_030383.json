@@ -1,0 +1,55 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_030383",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=283&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=15&ccbaAsno=01090000&ccbaCtcd=31&ccbaCpno=1353101090000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2014-03-12",
+        "domain": "자연관광",
+        "title": "남양주 운길산 수종사 일원"
+    },
+    "text": "1458年世祖が金剛山を見物に行ったのに、世祖が真夜中に鐘の音を聞いた。世祖は、調査の結果、周辺に岩窟があり、穴の中には18羅漢がおり、水滴の落ちる音が鐘の音みたいに鳴り響いて出て寺を建て、ここに随従士と名付けた。樹種会社は、北漢江と南漢江が合流する両水里を見ることができる景観展望地点で多くの詩人と画家たちがやってきて、、書画を残すもした。丁若鏞は好んで訪れたところで、場所の歴史文化価値が高く、草衣禅師の場所としても深い縁がある。現在樹種会社は、車文化を象徴する寺として知られている。謙斎の京郊名勝帖のうちドクベクタンは南漢江と北漢江が合流する、兩水里(ヤンスリ)の景観を描いた古書画として会話価値がある。",
+    "QA": [
+        {
+            "question": "何を見物に行ったのですか？",
+            "answer": "世祖が金剛山を見物に行きました。"
+        },
+        {
+            "question": "どこで18羅漢が見つかりましたか？",
+            "answer": "岩窟の中に18羅漢が見つかりました。"
+        },
+        {
+            "question": "鐘の音が聞こえたのは何時ですか？",
+            "answer": "鐘の音が真夜中に聞こえたそうです。"
+        },
+        {
+            "question": "誰が随従士と名付けたのですか？",
+            "answer": "随従士という名前は世祖によって付けられました。"
+        },
+        {
+            "question": "どんな景観が見られる場所ですか？",
+            "answer": "北漢江と南漢江が合流する両水里の景観が見られます。"
+        },
+        {
+            "question": "どのような文化人がこの場所を訪れたのですか？",
+            "answer": "多くの詩人と画家たち、そして丁若鏞がこの場所を訪れました。"
+        },
+        {
+            "question": "樹種会社は何を象徴していますか？",
+            "answer": "樹種会社は車文化を象徴する寺として知られています。"
+        },
+        {
+            "question": "どんな古書画が会話価値がありますか？",
+            "answer": "謙斎の京郊名勝帖のうちドクベクタンが兩水里の景観を描いた古書画として会話価値があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 223,
+        "QA": 242
+    }
+}

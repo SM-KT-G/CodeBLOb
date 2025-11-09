@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_022122",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=995&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=00450000&ccbaCtcd=25&ccbaCpno=3412500450000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2001-06-27",
+        "domain": "문화/역사관광",
+        "title": "거룩한말씀의수녀회성당"
+    },
+    "text": "聖なる言葉の修道女会聖堂 (거룩한말씀의수녀회성당)\\n\n大田市中区木洞96-27番地\\n\n1927 , 大田広域市文化財資料 , 1919年カトリック大田本堂が作られた後、1921年に建てられた大田最初の聖堂だ。 全体の外形は単純に処理された中世ゴシック様式を適用し、正面中央部の鐘塔と3廊で構成された長方形平面などは聖堂建築の典型を示している。 内部構造は柱による垂直的分離と木材リブの水平的連続性が調和してカトリック聖堂の特徴をよく示し、祭壇部には3つのアーチを置いて他の空間と区別される位階性と神聖性を付与した。 玄関窓のステンドグラスはフランスから、内部壁面の「十字架の道」扶助と尖塔の十字架はドイツからそれぞれ輸入したもので、いずれも原型がよく保存されている。 大田地域初の聖堂であり、6·25戦争当時、宣教師と良民数百人が虐殺された痛い記憶を持っているという点で歴史的意味が大きい建物だ。",
+    "QA": [
+        {
+            "question": "この建物はいつ建てられましたか？",
+            "answer": "1921年に建てられました。"
+        },
+        {
+            "question": "この建物の外観はどのような特徴がありますか？",
+            "answer": "全体の外形は中世ゴシック様式で、鐘塔と3廊で構成された長方形平面です。"
+        },
+        {
+            "question": "内部はどのような特徴がありますか？",
+            "answer": "内部は柱による垂直的分離と木材リブの水平的連続性が調和しており、祭壇部には3つのアーチがあります。"
+        },
+        {
+            "question": "この建物にはどのような装飾がありますか？",
+            "answer": "玄関窓のステンドグラスや内部壁面の「十字架の道」扶助、尖塔の十字架などがあります。"
+        },
+        {
+            "question": "この建物の歴史的な意味は何ですか？",
+            "answer": "大田地域初の聖堂であり、6・25戦争当時に宣教師と良民が虐殺された痛ましい記憶を持っています。"
+        }
+    ],
+    "word_Count": {
+        "text": 294,
+        "QA": 203
+    }
+}

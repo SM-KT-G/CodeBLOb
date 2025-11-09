@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_075973",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/view?relicId=107983",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2023-10-11",
+        "domain": "문화/역사관광",
+        "title": "붉은 간 토기 조각"
+    },
+    "text": "赤色磨硏土器片 (붉은 간 토기 조각)\\n\n国籍/時代: 韓国の青銅器は、古代のものである。 材質: これらの青銅器は、土を原料として作られた軟質なものである。 分類: これらは、食生活に関連した飲食器具である。 サイズ: 現在の長さは63cmで、幅は65cmである。また、現在の長さは42cmで、幅は30cmである。",
+    "QA": [
+        {
+            "question": "これらの青銅器は、どんな国のものですか？",
+            "answer": "これらの青銅器は、韓国のものです。"
+        },
+        {
+            "question": "これらの青銅器は、何時代のものですか？",
+            "answer": "これらの青銅器は、古代のものです。"
+        },
+        {
+            "question": "これらの青銅器は、何の原料から作られていますか？",
+            "answer": "これらの青銅器は、土を原料として作られています。"
+        },
+        {
+            "question": "これらの青銅器は、どんな分類に属していますか？",
+            "answer": "これらの青銅器は、飲食器具に関連したものです。"
+        },
+        {
+            "question": "これらの青銅器の現在の大きさは何ですか？",
+            "answer": "現在の大きさは63cm×65cmおよび42cm×30cmです。"
+        }
+    ],
+    "word_Count": {
+        "text": 117,
+        "QA": 159
+    }
+}

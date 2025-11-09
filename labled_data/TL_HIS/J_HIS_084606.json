@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_084606",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ja",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2023-08-09",
+        "domain": "문화/역사관광",
+        "title": "수많은 백제 유물들이 그 빛을 발하는 순간들"
+    },
+    "text": "鶏龍山の素晴らしい山の形、錦江の澄んだ水が調和する公州は1500年百済の神秘が伝えられている所だ。長年の歴史の垢が落ちていながらも、親しみを感じ、秀麗な自然をそのまま持っている公州で百済の温和でなめらかな魅力にはまってみて。",
+    "QA": [
+        {
+            "question": "公州で何が特に魅力的ですか？",
+            "answer": "公州は鶏龍山の素晴らしい山の形と錦江の澄んだ水が調和する美しい場所です。長年の歴史の垢が落ちていながらも、親しみを感じ、秀麗な自然をそのまま持っています。"
+        },
+        {
+            "question": "公州に何年に建国された都市ですか？",
+            "answer": "公州は1500年に百済の神秘が伝えられている所として建国されました。"
+        },
+        {
+            "question": "公州で何が伝えられていますか？",
+            "answer": "公州には長年の歴史があり、百済の温和でなめらかな魅力が伝えられています。"
+        }
+    ],
+    "word_Count": {
+        "text": 82,
+        "QA": 141
+    }
+}

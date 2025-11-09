@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_004012",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "カキマウルテイイダコ村 ( 굴마을낙지촌 )"
+    },
+    "text": "カキマウルテイイダコ村 ( 굴마을낙지촌 )\n慶尚北道 安東市 豊饒3キル 26\n様々な海鮮料理とクッパが一緒に味わえる店です。代表的なメニューはカキクッパです。慶尚北道のアンドン市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "カキマウルテイイダコ村は慶尚北道安東市豊饒3キル26に位置しています。"
+        },
+        {
+            "question": "この店の特徴的なメニューは何ですか？",
+            "answer": "この店の代表的なメニューはカキクッパです。"
+        },
+        {
+            "question": "この店ではどんな海鮮料理が味わえますか？",
+            "answer": "この店では様々な海鮮料理が味わえます。"
+        },
+        {
+            "question": "この店はどのような雰囲気ですか？",
+            "answer": "この店は韓食専門店であり、地元の雰囲気を感じることができます。"
+        },
+        {
+            "question": "この店の営業時間は何時から何時までですか？",
+            "answer": "営業時間に関しては、具体的な情報が提供されていません。お客様は事前にお店にお問い合わせいただくことをおすすめします。"
+        }
+    ],
+    "word_Count": {
+        "text": 76,
+        "QA": 184
+    }
+}

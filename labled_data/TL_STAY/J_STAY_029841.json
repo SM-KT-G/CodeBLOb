@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_029841",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42010&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "안산 호텔G9 운영 정책"
+    },
+    "text": "チェックインは午後3時から可能で、チェックアウトは翌日午前11時までです。 連泊される場合は追加料金が発生します。 入室追加費用および迅速な入室サービスは現場で決済可能であり、キャンセルおよび払い戻しはできません。 入室のご利用に関する詳細な案内事項は、予約の際に責任を負います。",
+    "QA": [
+        {
+            "question": "チェックインは何時から可能ですか？",
+            "answer": "チェックインは午後3時から可能です。"
+        },
+        {
+            "question": "チェックアウトは何時までですか？",
+            "answer": "チェックアウトは翌日午前11時までです。"
+        },
+        {
+            "question": "連泊する場合は追加料金が発生しますか？",
+            "answer": "はい、連泊する場合は追加料金が発生します。"
+        },
+        {
+            "question": "入室追加費用は現場で決済可能ですか？",
+            "answer": "はい、入室追加費用は現場で決済可能です。"
+        },
+        {
+            "question": "入室のキャンセルや払い戻しはできますか？",
+            "answer": "入室のキャンセルや払い戻しはできません。"
+        },
+        {
+            "question": "入室の詳細な案内事項は予約時に責任を負いますか？",
+            "answer": "はい、入室の詳細な案内事項は予約時に責任を負います。"
+        }
+    ],
+    "word_Count": {
+        "text": 102,
+        "QA": 175
+    }
+}

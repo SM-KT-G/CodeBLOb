@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_049032",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2022-12-02",
+        "domain": "음식점",
+        "title": "better than yesterday"
+    },
+    "text": "富川市中東に位置したビンセントタワー1階にはbetter than yesterdayというブック・カフェがある。ここは本とコーヒーを一緒に楽しむことができる空間で、内部壁面全体が本棚になっていて雰囲気がとてもいい。座席は階段式になっていて楽に本を読める空間が設けられている。また、テーブルと椅子、机、そして横になって読めるソファーも用意されており、楽に本を読める。ブックカフェであるため、人々が静かに本を読む雰囲気、約9千冊の中古書籍と毎週アップデートされる新刊図書が陳列されていて自由に読書して購入もできる。中古本は市場価格より安くて、新刊図書は10%割引された価格で購入できる。コーヒーとミルクティーだけでなく、様々な飲料を楽しむことができ、コーヒー豆の選択することが可能なアメリカーノと多様な国のコーヒー豆を活用したハンドドリップも楽しむことができる。ビンセント・タワー1階に位置したbetter than yesterdayは7号線新中東駅6番出口のまえにあり、大衆交通を利用して簡単に接続することができる。",
+    "QA": [
+        {
+            "question": "better than yesterdayはどこに位置していますか？",
+            "answer": "better than yesterdayは富川市中東に位置したビンセントタワー1階にあります。"
+        },
+        {
+            "question": "better than yesterdayでは何を楽しむことができますか？",
+            "answer": "better than yesterdayでは本とコーヒーを一緒に楽しむことができます。内部壁面全体が本棚になっており、約9千冊の中古書籍と毎週アップデートされる新刊図書が陳列されています。また、様々な飲料も楽しむことができます。"
+        },
+        {
+            "question": "どのような座席が用意されていますか？",
+            "answer": "better than yesterdayでは階段式の座席やテーブルと椅子、机、ソファーなど、さまざまな座席が用意されています。"
+        },
+        {
+            "question": "本を購入することはできますか？",
+            "answer": "はい、better than yesterdayでは自由に本を読んで購入することができます。中古本は市場価格より安く、新刊図書は10%割引された価格で購入することができます。"
+        },
+        {
+            "question": "better than yesterdayへのアクセス方法を教えてください。",
+            "answer": "better than yesterdayは7号線新中東駅6番出口のまえに位置しています。大衆交通を利用して簡単に接続することができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 336,
+        "QA": 385
+    }
+}

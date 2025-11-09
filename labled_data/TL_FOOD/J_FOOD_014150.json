@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_014150",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-15",
+        "domain": "음식점",
+        "title": "ミダングァンチョン混ぜそば ( 미당광천막국수 )"
+    },
+    "text": "ミダングァンチョン混ぜそば \\n\n忠清北道 堤川市 鳳陽邑 龍頭大路36キル 58\\n\n遠くからも訪れるマッククスが美味しい店で、団体席や駐車場も完備しています。代表的なメニューは混ぜそばです。忠淸北道のジェチョン市に位置した韓国料理店です。",
+    "QA": [
+        {
+            "question": "このお店の場所はどこですか？",
+            "answer": "このお店は韓国の忠清北道堤川市鳳陽邑の龍頭大路36キル58に位置しています。"
+        },
+        {
+            "question": "このお店の特徴的なメニューは何ですか？",
+            "answer": "このお店の代表的なメニューは混ぜそばです。"
+        },
+        {
+            "question": "このお店は団体席や駐車場を提供していますか？",
+            "answer": "はい、このお店は団体席や駐車場も完備しています。"
+        },
+        {
+            "question": "このお店の評判や口コミはどうですか？",
+            "answer": "遠くからも訪れるマッククスが美味しい店で、評判も良いです。"
+        }
+    ],
+    "word_Count": {
+        "text": 88,
+        "QA": 135
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_019043",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2022-12-27",
+        "domain": "숙박",
+        "title": "관음사가는길펜션"
+    },
+    "text": "観音寺行き道ペンション (관음사가는길펜션)\\n\n済州特別自治道済州市山麓北路819(アライルドン)\\n\n漢拏山登山コースである観音寺3分、聖板岳10分、オリモク25分、霊室35分程度しかかからないほど済州島では漢拏山登山コース入口と一番近いペンションだ。<br>",
+    "QA": [
+        {
+            "question": "ペンションの名前は何ですか？",
+            "answer": "観音寺行き道ペンション (관음사가는길펜션)です。"
+        },
+        {
+            "question": "ペンションの場所はどこですか？",
+            "answer": "済州特別自治道済州市山麓北路819(アライルドン)にあります。"
+        },
+        {
+            "question": "漢拏山登山コースまでの距離はどのくらいですか？",
+            "answer": "漢拏山登山コースである観音寺まで3分です。"
+        },
+        {
+            "question": "近くに他の登山コースはありますか？",
+            "answer": "聖板岳までは10分、オリモクまでは25分、霊室までは35分程度です。"
+        },
+        {
+            "question": "済州島で一番近いペンションは何ですか？",
+            "answer": "漢拏山登山コース入口と一番近いペンションです。"
+        }
+    ],
+    "word_Count": {
+        "text": 96,
+        "QA": 162
+    }
+}

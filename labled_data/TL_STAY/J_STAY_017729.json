@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_017729",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-01-06",
+        "domain": "숙박",
+        "title": "伽倻ホテル（가야호텔）"
+    },
+    "text": "伽倻ホテル（가야호텔）\\n\n慶尚北道 星州郡 修倫面 伽倻山植物園キル52\\n\n伽倻（カヤ）ホテルは海抜560メートルの高地にあり、澄んだ空気とともにホテル自慢の天然アルカリ岩盤水サウナで心身の疲れを癒すことができます。\\n\n周辺観光地として、伽倻山の野花を見ることができる伽倻野生花植物園が直ぐ前に位置しています。",
+    "QA": [
+        {
+            "question": "伽倻ホテルはどこに位置していますか？",
+            "answer": "伽倻ホテルは慶尚北道星州郡修倫面伽倻山植物園キル52に位置しています。"
+        },
+        {
+            "question": "伽倻ホテルの特徴は何ですか？",
+            "answer": "伽倻ホテルは海抜560メートルの高地にあり、天然アルカリ岩盤水サウナで心身の疲れを癒すことができます。"
+        },
+        {
+            "question": "周辺にはどのような観光地がありますか？",
+            "answer": "伽倻ホテルの直ぐ前には、伽倻野生花植物園があります。ここでは伽倻山の野花を見ることができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 115,
+        "QA": 134
+    }
+}

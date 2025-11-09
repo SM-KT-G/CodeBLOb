@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_005100",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42060&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "태안(안면도) 휴양림은하수펜션"
+    },
+    "text": "こんにちは。休養林天の川ペンションです。 安眠島コッチ海水浴場と自然休養林の間に位置する休養林天の川ペンションは、コッチ海水浴場から近く、周辺の松林によって山林浴が可能です。 休養林天の川ペンションにいらっしゃると、心の余裕とともに健康も共に得る一石二鳥の効果を感じることができます。 いつも幸せで楽しい旅行になりますように。",
+    "QA": [
+        {
+            "question": "休養林天の川ペンションはどこに位置していますか？",
+            "answer": "休養林天の川ペンションは安眠島コッチ海水浴場と自然休養林の間に位置しています。"
+        },
+        {
+            "question": "休養林天の川ペンションの周辺に何がありますか？",
+            "answer": "休養林天の川ペンションの周辺には松林があり、山林浴が楽しめます。"
+        },
+        {
+            "question": "休養林天の川ペンションに泊まるとどのような効果がありますか？",
+            "answer": "休養林天の川ペンションに泊まると心の余裕を感じることができ、健康も共に得ることができます。"
+        },
+        {
+            "question": "休養林天の川ペンションでの滞在はいつも幸せで楽しいものになりますか？",
+            "answer": "休養林天の川ペンションでの滞在はいつも幸せで楽しいものになるように心掛けています。"
+        }
+    ],
+    "word_Count": {
+        "text": 119,
+        "QA": 196
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_020998",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42090&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "서귀포 에코리조트"
+    },
+    "text": "童話の中に出てきそうなきれいなペンションが城山と中門の中間に位置しており、漢拏山に登る時に一番近いところにあります。 ペンションの裏にはコッチャワルから噴き出すサンスベリア効果で澄んだ空気が感じられます。 周辺には済州清浄海が約15分の距離にあり、オルレギル4コースと5コースも近くにあるので、軽く散歩するのに最適です。 楽で良い旅行のために常に最善を尽くす我がエコリゾートは期間に関係なく2泊以上予約可能であり、22時以降に入室する場合、予めご連絡いただければ幸いです。",
+    "QA": [
+        {
+            "question": "このペンションはどのようにアクセスできますか？",
+            "answer": "このペンションは城山と中門の中間に位置しています。"
+        },
+        {
+            "question": "周辺にはどのような観光地がありますか？",
+            "answer": "周辺には済州清浄海やオルレギルの4コースと5コースがあります。"
+        },
+        {
+            "question": "エコリゾートは何泊以上予約可能ですか？",
+            "answer": "エコリゾートは期間に関係なく2泊以上予約可能です。"
+        },
+        {
+            "question": "22時以降に入室する場合、どうすれば良いですか？",
+            "answer": "22時以降に入室する場合は、事前にご連絡ください。"
+        }
+    ],
+    "word_Count": {
+        "text": 173,
+        "QA": 140
+    }
+}

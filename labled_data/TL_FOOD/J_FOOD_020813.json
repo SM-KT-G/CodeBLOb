@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_020813",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-01",
+        "domain": "음식점",
+        "title": "木浦務安ジプルグイ情 ( 목포무안짚불구이 )"
+    },
+    "text": "木浦務安ジプルグイ情 ( 목포무안짚불구이 )\\n\n全羅南道 木浦市 下塘路 241\\n\n20年の伝統を誇るお店で、韓国のグルメ番組にもよく紹介されています。おすすめはサムギョプサルです。全羅南道のモクポ市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "このお店の場所はどこですか？",
+            "answer": "全羅南道の木浦市下塘路241に位置しています。"
+        },
+        {
+            "question": "このお店は何を提供していますか？",
+            "answer": "このお店は韓食専門店で、特におすすめはサムギョプサルです。"
+        },
+        {
+            "question": "このお店は何年の伝統がありますか？",
+            "answer": "このお店は20年の伝統を誇っています。"
+        },
+        {
+            "question": "このお店は韓国のグルメ番組で紹介されたことがありますか？",
+            "answer": "はい、このお店は韓国のグルメ番組でもよく紹介されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 85,
+        "QA": 128
+    }
+}

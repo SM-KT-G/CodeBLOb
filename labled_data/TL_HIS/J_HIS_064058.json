@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_064058",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1118&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=03070000&ccbaCtcd=34&ccbaCpno=3413403070000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1989-04-20",
+        "domain": "문화/역사관광",
+        "title": "모선재"
+    },
+    "text": "忠清南道文化財資料である金浩(キム・ホ)とキムギェフィの墓近くには彼の子孫が建てた斎室がいる。この建物は前面4間、側面2間で構成されており、屋根は入母屋屋根で、八の字と見られる。内部構造は右1間は台所、中で2間は部屋、左1間は板の間によって構成されている。建物の前面には広い床が設置されている。斎室は立てた時期を正確にわからないが、伝統様式に沿っており、特異な内部構造を持っていて、韓国式家屋の研究に良い資料になるだろう。",
+    "QA": [
+        {
+            "question": "この斎室はどのような構造をしていますか？",
+            "answer": "この斎室は前面4間、側面2間で構成されており、屋根は入母屋屋根で、八の字と見られます。内部構造は右1間は台所、中で2間は部屋、左1間は板の間によって構成されています。"
+        },
+        {
+            "question": "この斎室はいつ建てられましたか？",
+            "answer": "正確な建てられた時期はわかりませんが、伝統様式に沿って建てられ、韓国式家屋の研究に良い資料となっています。"
+        },
+        {
+            "question": "斎室の前面には何が設置されていますか？",
+            "answer": "斎室の前面には広い床が設置されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 154,
+        "QA": 154
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_097107",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/view?relicId=118352",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2023-10-11",
+        "domain": "문화/역사관광",
+        "title": "인장"
+    },
+    "text": "印章 (인장)\\n\n国籍/時代:「韓国 - 朝鮮」、材質:「石」、分類:「伝統科学 - 印章 - 印章」、サイズ:「高さ6.6cm、高さ8.8cm、直径2.7cm、直径6.3cm」",
+    "QA": [
+        {
+            "question": "何時代の印章ですか？",
+            "answer": "朝鮮時代の印章です。"
+        },
+        {
+            "question": "この印章の材質は何ですか？",
+            "answer": "石でできています。"
+        },
+        {
+            "question": "この印章の国籍は？",
+            "answer": "韓国の印章です。"
+        },
+        {
+            "question": "印章のサイズはどれくらいですか？",
+            "answer": "高さ6.6cm、高さ8.8cm、直径2.7cm、直径6.3cmです。"
+        },
+        {
+            "question": "この印章は何に使用されましたか？",
+            "answer": "文書や書画に使用されました。"
+        }
+    ],
+    "word_Count": {
+        "text": 66,
+        "QA": 101
+    }
+}

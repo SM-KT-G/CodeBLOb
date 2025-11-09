@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_007207",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "サムウォンイルシク（삼원일식）"
+    },
+    "text": "サムウォンイルシク（삼원일식）\\n\nソウル特別市 中区 武橋路 32\\n\nこの店はソウル特別市のチョンゲチョンに位置した和食専門店です。武橋洞の隠れた名店です。代表的なメニューはたらスープです。",
+    "QA": [
+        {
+            "question": "この店の名前は何ですか？",
+            "answer": "この店の名前はサムウォンイルシク（삼원일식）です。"
+        },
+        {
+            "question": "この店はどこに位置していますか？",
+            "answer": "この店はソウル特別市中区の武橋路32に位置しています。"
+        },
+        {
+            "question": "この店の特徴的な料理は何ですか？",
+            "answer": "この店の代表的な料理はたらスープです。"
+        },
+        {
+            "question": "この店はどのような雰囲気ですか？",
+            "answer": "この店は武橋洞の隠れた名店で、和食専門店として知られています。"
+        }
+    ],
+    "word_Count": {
+        "text": 71,
+        "QA": 118
+    }
+}

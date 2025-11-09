@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_015586",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-27",
+        "domain": "문화/역사관광",
+        "title": "利瑛美術館（이영미술관）"
+    },
+    "text": "利瑛美術館\n京畿道 龍仁市 器興区 興徳4路 63 （霊徳洞）\n利瑛（イヨン）美術館は2001年6月に開館しました。こぢんまりとした空間に足を踏み入れると、朴生光、全爀林などの大家の作品を見ることができます。",
+    "QA": [
+        {
+            "question": "利瑛美術館はいつ開館しましたか？",
+            "answer": "利瑛美術館は2001年6月に開館しました。"
+        },
+        {
+            "question": "利瑛美術館はどこにありますか？",
+            "answer": "利瑛美術館は京畿道龍仁市器興区興徳4路63（霊徳洞）にあります。"
+        },
+        {
+            "question": "利瑛美術館で見ることができる作家は誰ですか？",
+            "answer": "利瑛美術館では朴生光や全爀林などの大家の作品を見ることができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 76,
+        "QA": 101
+    }
+}

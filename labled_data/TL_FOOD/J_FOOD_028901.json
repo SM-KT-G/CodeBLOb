@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_028901",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-06",
+        "domain": "음식점",
+        "title": "筆洞麺屋（필동면옥）"
+    },
+    "text": "筆洞麺屋（필동면옥）\\n\nソウル特別市 中区 西厓路26\\n\n「筆洞麺屋（ピルドンミョノク）」の冷麺は平壌冷麺で、コクがありすっきりとしたスープに歯ごたえのある麺がよく合います。冷麺の他、平壌式マンドゥ（餃子）もお店の代表的なメニューとなっています。",
+    "QA": [
+        {
+            "question": "필동면옥은 어떤 음식점인가요?",
+            "answer": "필동면옥은 한국의 냉면과 만두를 전문으로 하는 음식점입니다."
+        },
+        {
+            "question": "필동면옥의 냉면은 어떤 종류인가요?",
+            "answer": "필동면옥의 냉면은 평양냉면이며, 깊은 맛과 시원한 국물에 탱탱한 면이 잘 어울립니다."
+        },
+        {
+            "question": "필동면옥의 대표적인 메뉴는 무엇인가요?",
+            "answer": "필동면옥의 대표적인 메뉴는 평양식 만두입니다."
+        }
+    ],
+    "word_Count": {
+        "text": 91,
+        "QA": 118
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_003500",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2019-08-20",
+        "domain": "숙박",
+        "title": "コアム観光ホテル（코암관광호텔）"
+    },
+    "text": "コアム観光ホテル（코암관광호텔）\\n\n京畿道 安養市 万安区 万安路101\\n\n「コアム観光ホテル」はブティックスタイルのビジネスホテルで首都圏からもアクセスしやすい便利な場所に位置しています。客室ごとに内装が異なり、好みに合わせて選ぶことができます。",
+    "QA": [
+        {
+            "question": "コアム観光ホテルはどのようなホテルですか？",
+            "answer": "コアム観光ホテルはブティックスタイルのビジネスホテルです。"
+        },
+        {
+            "question": "コアム観光ホテルの場所はどこですか？",
+            "answer": "コアム観光ホテルは京畿道安養市万安区万安路101に位置しています。"
+        },
+        {
+            "question": "コアム観光ホテルはどのようにアクセスできますか？",
+            "answer": "コアム観光ホテルは首都圏からもアクセスしやすい便利な場所に位置しています。"
+        },
+        {
+            "question": "コアム観光ホテルの客室はどのような特徴がありますか？",
+            "answer": "コアム観光ホテルの客室はそれぞれ内装が異なり、好みに合わせて選ぶことができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 92,
+        "QA": 167
+    }
+}

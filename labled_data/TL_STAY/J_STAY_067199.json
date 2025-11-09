@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_067199",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.booking.com/hotel/kr/kimseu-hauseu-andong.ko.html",
+        "collectedDate": "2023-11-17",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "Wolyeongchae"
+    },
+    "text": "安東に位置するWolyeongchaeは、韓屋宿で部屋4つ、内部バスルーム2つ、外部バスルーム1つ、共用キッチン、共用リビングルームで構成されています。 この宿は住宅街路地に位置しており、居心地の良い静かな雰囲気を誇っています。 周辺にある名所としては、月影橋(3km)、河回村(29km)、陶山書院(26km)、鳳頂寺(17km)があります。 Wolyeongchaeは安東の中心部から2.6kmに位置しており、チェックイン時間は14:00から可能で、チェックアウトは11:00までです。 （総文字数:212）です。",
+    "QA": [
+        {
+            "question": "Wolyeongchaeはどこに位置していますか？",
+            "answer": "Wolyeongchaeは安東に位置しています。"
+        },
+        {
+            "question": "Wolyeongchaeには何部屋ありますか？",
+            "answer": "Wolyeongchaeには部屋4つあります。"
+        },
+        {
+            "question": "Wolyeongchaeには何種類のバスルームがありますか？",
+            "answer": "Wolyeongchaeには内部バスルーム2つと外部バスルーム1つがあります。"
+        },
+        {
+            "question": "周辺にある名所としては何がありますか？",
+            "answer": "周辺にある名所としては月影橋、河回村、陶山書院、鳳頂寺があります。"
+        },
+        {
+            "question": "Wolyeongchaeのチェックイン時間とチェックアウト時間は何時ですか？",
+            "answer": "Wolyeongchaeのチェックイン時間は14:00から可能で、チェックアウトは11:00までです。"
+        }
+    ],
+    "word_Count": {
+        "text": 189,
+        "QA": 223
+    }
+}

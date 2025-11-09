@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_067036",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42091&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "울산 일산 컨시드"
+    },
+    "text": "ガラス張りのオーシャンビューをご体験ください！ 特定の客室スタイラーが完備された1室1台目のオプションもあります。 貸室と宿泊を10回ご利用いただくと、1回無料特典も受けられます。 オンシーズンと特定日、祝日には料金が調整されることがありますのでご注意ください。 周辺には大王岩入口まで250m、一山海水浴場まで400m、防御陣ターミナルまで1.1km、蔚山科学大学まで2.0kmの距離に位置しています。 これらすべてを通して、ガラス張りのオーシャンビューを楽しめるコンシードがおすすめです。",
+    "QA": [
+        {
+            "question": "オーシャンビューの客室には何が完備されていますか？",
+            "answer": "特定の客室スタイラーが完備されています。"
+        },
+        {
+            "question": "貸室と宿泊を10回利用すると、どんな特典がもらえますか？",
+            "answer": "1回無料特典が受けられます。"
+        },
+        {
+            "question": "周辺にある観光スポットの距離を教えてください。",
+            "answer": "大王岩入口まで250m、一山海水浴場まで400m、防御陣ターミナルまで1.1km、蔚山科学大学まで2.0kmです。"
+        },
+        {
+            "question": "オンシーズンと特定日、祝日には何が起こりますか？",
+            "answer": "料金が調整されることがありますのでご注意ください。"
+        },
+        {
+            "question": "どのようにしてガラス張りのオーシャンビューを楽しめますか？",
+            "answer": "コンシードを通して楽しむことがおすすめです。"
+        }
+    ],
+    "word_Count": {
+        "text": 180,
+        "QA": 195
+    }
+}

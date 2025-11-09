@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_073824",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2022-04-21",
+        "domain": "음식점",
+        "title": "미담_1"
+    },
+    "text": "大邱(テグ)樹木園の近くに位置した韓定食専門店はウェルビーイングを追求した場所として知られている。同専門店は会合の座や両家の顔合わせと同様の特別な場合にも良いところでお客に落ち着いた雰囲気を提供するために、別の広いルームを設けている。",
+    "QA": [
+        {
+            "question": "韓定食専門店はどのような場所ですか？",
+            "answer": "大邱(テグ)樹木園の近くに位置した韓定食専門店は、ウェルビーイングを追求した場所として知られています。"
+        },
+        {
+            "question": "韓定食専門店ではどのような雰囲気を提供していますか？",
+            "answer": "韓定食専門店では、お客様に落ち着いた雰囲気を提供するため、別の広いルームも設けています。"
+        },
+        {
+            "question": "韓定食専門店は特別な場合にも利用できますか？",
+            "answer": "はい、韓定食専門店は会合の座や両家の顔合わせと同様の特別な場合にも利用することができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 85,
+        "QA": 151
+    }
+}

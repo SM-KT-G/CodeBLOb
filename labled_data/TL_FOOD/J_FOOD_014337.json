@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_014337",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-01",
+        "domain": "음식점",
+        "title": "ムック村 ( 묵마을 )"
+    },
+    "text": "ムック村 \n忠清北道 堤川市 鳳陽邑 周浦路 3-1\n堤川の郷土料理店で、様々なムク(こんにゃく)の料理を味わえるところです。 おすすめはこんにゃくの和え物です。忠淸北道のジェチョン市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "この店は鳳陽邑の周浦路にあります。"
+        },
+        {
+            "question": "この店ではどんな料理が食べられますか？",
+            "answer": "この店では様々なムク（こんにゃく）の料理を味わうことができます。特におすすめはこんにゃくの和え物です。"
+        },
+        {
+            "question": "この店のおすすめの料理は何ですか？",
+            "answer": "この店のおすすめはこんにゃくの和え物です。ぜひお召し上がりください。"
+        }
+    ],
+    "word_Count": {
+        "text": 77,
+        "QA": 110
+    }
+}

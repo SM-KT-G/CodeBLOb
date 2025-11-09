@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_115571",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/collectionList#######",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2023-10-11",
+        "domain": "문화/역사관광",
+        "title": "초벌구이 잔"
+    },
+    "text": "素焼き杯 (초벌구이 잔)\\n\n国籍と時代は韓国の高麗時代です。材質は他の陶磁器です。分類は食生活の一部であり、食べ物の容器として使われます。その大きさは高さ46cm、厚さ120cm、受け皿50cmで、別の杯は高さ54cm、厚さ110cm、受け皿48cmです。",
+    "QA": [
+        {
+            "question": "この素焼き杯の材質は何ですか？",
+            "answer": "この素焼き杯の材質は他の陶磁器です。"
+        },
+        {
+            "question": "この素焼き杯の大きさはどのくらいですか？",
+            "answer": "この素焼き杯の大きさは高さ46cm、厚さ120cm、受け皿50cmです。"
+        },
+        {
+            "question": "素焼き杯はどの国の時代のものですか？",
+            "answer": "素焼き杯の国籍と時代は韓国の高麗時代です。"
+        },
+        {
+            "question": "素焼き杯は何に使われますか？",
+            "answer": "素焼き杯は食生活の一部であり、食べ物の容器として使われます。"
+        }
+    ],
+    "word_Count": {
+        "text": 95,
+        "QA": 126
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_029527",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42010&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "대부도 누리마루펜션 (독채,풀빌라)"
+    },
+    "text": "デブ島ヌリマルペンションは、7月1日から8月31日までプール込みの価格で運営しています。 1月から6月までと9月から12月まではプールを運営していません。 また、22時以降に入室される場合は、予めペンションまでご連絡ください。",
+    "QA": [
+        {
+            "question": "デブ島ヌリマルペンションの営業期間はいつからいつまでですか？",
+            "answer": "デブ島ヌリマルペンションは、1月から6月までと9月から12月までは営業しておりません。"
+        },
+        {
+            "question": "デブ島ヌリマルペンションのプールはいつ利用できますか？",
+            "answer": "デブ島ヌリマルペンションのプールは、7月1日から8月31日まで利用することができます。"
+        },
+        {
+            "question": "デブ島ヌリマルペンションに22時以降に入室する場合はどうすればいいですか？",
+            "answer": "デブ島ヌリマルペンションに22時以降に入室する場合は、事前にペンションまでご連絡ください。"
+        }
+    ],
+    "word_Count": {
+        "text": 82,
+        "QA": 165
+    }
+}

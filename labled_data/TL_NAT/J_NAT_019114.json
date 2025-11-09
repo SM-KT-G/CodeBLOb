@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_019114",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://apis.data.go.kr/1400000/service/cultureInfoService2/mntInfoOpenAPI2",
+        "collectedDate": "2023-11-22",
+        "publishedDate": "2020-12-01",
+        "domain": "자연관광",
+        "title": "봉제산"
+    },
+    "text": "縫製山 (봉제산)\\n\nソウル特別市江西区登村洞\\n\n山勢は南北に長く広がっており、稜線は概して平凡で傾斜も緩やかな柔らかい山勢を持っている。 東には登村洞があり、西には禾谷洞が位置している。 そして、この山には谷が広く、最も大きな空間を形成している。",
+    "QA": [
+        {
+            "question": "この山の名前は何ですか？",
+            "answer": "この山の名前は縫製山（봉제산）です。"
+        },
+        {
+            "question": "この山はどの地区に位置していますか？",
+            "answer": "この山はソウル特別市江西区に位置しています。"
+        },
+        {
+            "question": "この山の特徴は何ですか？",
+            "answer": "この山の特徴は、南北に長く広がっており、稜線は平凡で傾斜も緩やかな柔らかい山勢を持っています。"
+        },
+        {
+            "question": "この山の東側には何がありますか？",
+            "answer": "この山の東側には登村洞があります。"
+        },
+        {
+            "question": "この山の西側には何がありますか？",
+            "answer": "この山の西側には禾谷洞が位置しています。"
+        },
+        {
+            "question": "この山にはどんな地形がありますか？",
+            "answer": "この山には谷が広く、最も大きな空間を形成しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 92,
+        "QA": 176
+    }
+}

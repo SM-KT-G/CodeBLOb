@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_008649",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=863&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=01420000&ccbaCtcd=34&ccbaCpno=2333401420000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1998-07-25",
+        "domain": "문화/역사관광",
+        "title": "공주중동성당"
+    },
+    "text": "公州中東聖堂 (공주중동성당)\\n\n忠清南道公州市聖堂路6(中東)\\n\n1937年 , 忠清南道記念物 , 丘の上に位置するカトリック聖堂で、西洋中世に流行したゴシック建築様式の建物だ。 平面が若干変形したラテン式十字架型で、外観が赤レンガになっている。 中央玄関の頂上には高い鐘塔があり、玄関出入口と窓の上部は先端が尖ったアーチで飾られている。 内部は中央に数人が座れる長い椅子を置き、その両側に廊下を置いた形式だ。 中央の広い空間と廊下の間には6つの石柱があり、断面が六角形を成している。 1934年に着工し1936年に完工したもので、伝統的な木造建物から現代建築に移る過程を垣間見ることができる。",
+    "QA": [
+        {
+            "question": "公州中東聖堂は何年に建てられましたか？",
+            "answer": "公州中東聖堂は1937年に建てられました。"
+        },
+        {
+            "question": "公州中東聖堂はどのような建物ですか？",
+            "answer": "公州中東聖堂は丘の上に位置するカトリック聖堂で、ゴシック建築様式の赤レンガの建物です。"
+        },
+        {
+            "question": "公州中東聖堂の外観はどのような特徴がありますか？",
+            "answer": "公州中東聖堂の外観は赤レンガで、中央玄関の頂上には高い鐘塔があり、玄関出入口と窓の上部は先端が尖ったアーチで飾られています。"
+        },
+        {
+            "question": "公州中東聖堂の内部はどのような構造ですか？",
+            "answer": "公州中東聖堂の内部は中央に数人が座れる長い椅子を置き、その両側に廊下を置いた形式で、中央の広い空間と廊下の間には6つの石柱があります。"
+        },
+        {
+            "question": "公州中東聖堂の建築にはどのような背景がありますか？",
+            "answer": "公州中東聖堂は1934年に着工し、1936年に完工したもので、伝統的な木造建物から現代建築に移る過程を垣間見ることができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 220,
+        "QA": 266
+    }
+}

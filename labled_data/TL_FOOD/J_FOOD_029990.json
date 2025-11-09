@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_029990",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/votre-maison",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "VOTRE MAISON"
+    },
+    "text": "VOTRE MAISON\\n\nソウル特別市 江南区 彦州路168キル16\\n\n「VOTRE MAISON（ヴォートルメゾン／ボトゥルメジョン）」は、「あなたの家・家族」という意味で、その名のとおり、安らげる暖かい雰囲気のフレンチレストランです。",
+    "QA": [
+        {
+            "question": "VOTRE MAISONの場所はどこですか？",
+            "answer": "VOTRE MAISON（ヴォートルメゾン／ボトゥルメジョン）は、ソウル特別市江南区彦州路168キル16にあります。"
+        },
+        {
+            "question": "VOTRE MAISONの意味は何ですか？",
+            "answer": "VOTRE MAISON（ヴォートルメゾン／ボトゥルメジョン）は「あなたの家・家族」という意味です。"
+        },
+        {
+            "question": "VOTRE MAISONの雰囲気はどうですか？",
+            "answer": "VOTRE MAISONは安らげる暖かい雰囲気のフレンチレストランです。"
+        }
+    ],
+    "word_Count": {
+        "text": 89,
+        "QA": 154
+    }
+}

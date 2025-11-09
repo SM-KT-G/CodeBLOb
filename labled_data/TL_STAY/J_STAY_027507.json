@@ -1,0 +1,59 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_027507",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42020&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "창원 북면 호텔 THE J (더 제이)"
+    },
+    "text": "昌原北面に位置するホテルTHE J(ザ·ジェイ)では、2020年10月にGRAND OPENしました。 このホテルは防疫優秀業者として知られており、北面を代表する防疫業者です。 また、ホテルTHE Jではピックアップサービスを運営しており、昌原市内全区間でお客様をお迎えします。 会員のための様々な特典とともに、快適な宿泊を提供しています。 周辺には北面温泉があり、歩いて4分以内に到着でき、自然温泉も徒歩3分、馬琴山温泉団地も徒歩4分以内に位置しています。 また、自然温泉は徒歩2分の距離にあります。",
+    "QA": [
+        {
+            "question": "ホテルTHE Jはいつオープンしましたか？",
+            "answer": "ホテルTHE Jは2020年10月にオープンしました。"
+        },
+        {
+            "question": "ホテルTHE Jはどのような特典を提供していますか？",
+            "answer": "ホテルTHE Jでは会員のための様々な特典を提供しています。"
+        },
+        {
+            "question": "ホテルTHE Jは防疫業者として何で知られていますか？",
+            "answer": "ホテルTHE Jは防疫優秀業者として知られています。"
+        },
+        {
+            "question": "ホテルTHE Jではどのようなピックアップサービスを提供していますか？",
+            "answer": "ホテルTHE Jでは昌原市内全区間でお客様をお迎えするピックアップサービスを提供しています。"
+        },
+        {
+            "question": "ホテルTHE Jの周辺にはどのような温泉がありますか？",
+            "answer": "ホテルTHE Jの周辺には北面温泉、自然温泉、馬琴山温泉団地があります。"
+        },
+        {
+            "question": "北面温泉までの距離はどのくらいですか？",
+            "answer": "北面温泉まで徒歩4分以内です。"
+        },
+        {
+            "question": "自然温泉までの距離はどのくらいですか？",
+            "answer": "自然温泉まで徒歩3分です。"
+        },
+        {
+            "question": "馬琴山温泉団地までの距離はどのくらいですか？",
+            "answer": "馬琴山温泉団地まで徒歩4分以内です。"
+        },
+        {
+            "question": "自然温泉はどのくらいの距離にありますか？",
+            "answer": "自然温泉は徒歩2分の距離にあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 184,
+        "QA": 326
+    }
+}

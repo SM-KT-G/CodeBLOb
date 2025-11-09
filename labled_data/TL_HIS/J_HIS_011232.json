@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_011232",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=945&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=25&ccbaAsno=00030000&ccbaCtcd=35&ccbaCpno=4423500030000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2021-09-10",
+        "domain": "문화/역사관광",
+        "title": "김제 중앙초등학교 강당"
+    },
+    "text": "金堤中央小学校講堂 (김제 중앙초등학교 강당)\\n\n全羅北道金堤市\\n\n1938 , 全羅北道市道登録文化財 , 金堤中央初等学校は1911年金堤公立普通学校として開校後、1938年金堤中央公立尋常小学校に変更、1996年に現在の名称に変更された。 80年以上保存された地域の初等教育施設として、地域教育史の生々しい現場を保管している。 講堂は1938年に建設され、レンガ組積造1階規模で柱のない開放空間で構成された。 組積壁体構造および開口部の構成、屋根構造などがよく保存されている。 現在、当初の建築物の東側に重ねて空間拡張を行い、2018年に内部を大幅に再建して学校の歴史館および多用途室として活用している。 近代学校の建築的様式をよく示しており、歴史的·建築学的価値がある。",
+    "QA": [
+        {
+            "question": "この講堂はいつ建設されましたか？",
+            "answer": "1938年に建設されました。"
+        },
+        {
+            "question": "講堂の建築様式はどのようなものですか？",
+            "answer": "講堂は近代学校の建築的様式を示しており、組積壁体構造および開口部の構成、屋根構造などがよく保存されています。"
+        },
+        {
+            "question": "講堂は何階建てですか？",
+            "answer": "講堂は1階建てです。"
+        },
+        {
+            "question": "講堂はどのような目的で使用されていますか？",
+            "answer": "現在、講堂は学校の歴史館および多用途室として活用されています。"
+        },
+        {
+            "question": "講堂の内部はどのように再建されましたか？",
+            "answer": "講堂の内部は2018年に大幅に再建されました。"
+        }
+    ],
+    "word_Count": {
+        "text": 250,
+        "QA": 160
+    }
+}

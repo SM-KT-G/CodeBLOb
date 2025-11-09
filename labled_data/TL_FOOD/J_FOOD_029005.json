@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_029005",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-08-31",
+        "domain": "음식점",
+        "title": "韓国館（한국관）"
+    },
+    "text": "韓国館（한국관）\\n\nソウル特別市 鐘路区 成均館路 40\\n\n団体での会食に適したお店です。代表的なメニューは牛カルビです。この店はソウル特別市のジョンノ区に位置した韓国料理店です。",
+    "QA": [
+        {
+            "question": "韓国館（한국관）はどこに位置していますか？",
+            "answer": "ソウル特別市 鐘路区 成均館路 40に位置しています。"
+        },
+        {
+            "question": "韓国館（한국관）はどのようなお店ですか？",
+            "answer": "韓国館（한국관）は、団体での会食に適したお店であり、代表的なメニューは牛カルビです。"
+        },
+        {
+            "question": "韓国館（한국관）の特徴は何ですか？",
+            "answer": "韓国館（한국관）はソウル特別市のジョンノ区に位置しており、韓国料理を提供しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 67,
+        "QA": 123
+    }
+}

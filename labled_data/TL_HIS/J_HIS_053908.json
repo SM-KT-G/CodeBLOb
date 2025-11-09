@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_053908",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=13&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=11&ccbaAsno=01450000&ccbaCtcd=11&ccbaCpno=1111101450000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1972-06-24",
+        "domain": "문화/역사관광",
+        "title": "귀면 청동로"
+    },
+    "text": "高麗時代に作られた釜のような国宝である鬼面青銅炉は高さ12.9センチとして胴体(フンクブ)とバッチムブ(キデブ)で構成されている。胴体は鬼の顔を形象化して作っており、口演部は3つの屈曲した山形で処理された。片方の表面には三角形がそびえていて、両サイドには2つの輪がかかっている。この輪は、柄の飾りをつけた跡があったものと見られるが、現在は残っていない。胴体の下の部分はバッチムブと連結される時くびれて、鬼の顔を大きく彫刻し、口を開けて内部に貫通させた。バッチムブの下には怪獣型の顔で彫刻された3つの橋がついている。釜の内側には火囲いがなくなったけれど、外形上はほぼ完全な状態だ。香炉や太郎に使われる可能性もある。",
+    "QA": [
+        {
+            "question": "この鬼面青銅炉はいつ作られましたか？",
+            "answer": "この鬼面青銅炉は高麗時代に作られました。"
+        },
+        {
+            "question": "鬼面青銅炉の胴体とバッチムブはどのように構成されていますか？",
+            "answer": "鬼面青銅炉の胴体は鬼の顔を形象化して作られ、バッチムブと連結されています。"
+        },
+        {
+            "question": "鬼面青銅炉の胴体にはどのような特徴がありますか？",
+            "answer": "鬼面青銅炉の胴体は口演部が3つの屈曲した山形で処理され、片方の表面には三角形があります。"
+        },
+        {
+            "question": "鬼面青銅炉のバッチムブにはどのような彫刻がありますか？",
+            "answer": "鬼面青銅炉のバッチムブには怪獣型の顔で彫刻された3つの橋があります。"
+        },
+        {
+            "question": "鬼面青銅炉はどのように使用されていましたか？",
+            "answer": "鬼面青銅炉は香炉や太郎に使われる可能性があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 224,
+        "QA": 206
+    }
+}

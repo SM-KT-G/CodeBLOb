@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001740",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-05",
+        "domain": "음식점",
+        "title": "HONKAZ ( 혼가츠 )"
+    },
+    "text": "HONKAZ ( 혼가츠 )\\n\nソウル特別市 麻浦区 ワウサンロ21ギル36-6\\n\nチーズカツで有名な弘大の名店です。ソウル特別市のマポ区に位置した和食専門店です。おすすめはチーズカツです。",
+    "QA": [
+        {
+            "question": "この店の名前は何ですか？",
+            "answer": "この店の名前はホンカツ（ 혼가츠 ）です。"
+        },
+        {
+            "question": "この店はどこにありますか？",
+            "answer": "この店はソウル特別市の麻浦区ワウサンロ21ギル36-6にあります。"
+        },
+        {
+            "question": "この店のおすすめは何ですか？",
+            "answer": "この店のおすすめはチーズカツです。"
+        },
+        {
+            "question": "この店はどんな料理を提供していますか？",
+            "answer": "この店は和食を専門としており、チーズカツを提供しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 71,
+        "QA": 115
+    }
+}

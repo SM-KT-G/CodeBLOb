@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_106000",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=657&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=04730000&ccbaCtcd=37&ccbaCpno=2113704730000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2013-04-08",
+        "domain": "문화/역사관광",
+        "title": "청도 적천사 대웅전"
+    },
+    "text": "朝鮮時代後期の慶尚北道有形文化財であるジョクチョンサは、新羅の文武王4年(664)、元曉大師が首都するため、穴居の形に建てられた。その後統一新羅興徳王3年(828)に芯往事・時の流れが立て直しており、数回焼失して再びなっており、近年では冥府殿と楼閣を立て直した。主要建物である大雄殿は前面3間・側面3間規模で、屋根は側面から見ると、人の教わる字形の切妻屋根である。軒を支えようと装飾して作った恐怖は柱の上と柱の間にもあるダポ様式にした。この建築は朝鮮後期になっており、、朝鮮前期の建築手法の一部が反映されている。",
+    "QA": [
+        {
+            "question": "ジョクチョンサはいつ建てられましたか？",
+            "answer": "ジョクチョンサは新羅の文武王4年(664)に建てられました。"
+        },
+        {
+            "question": "ジョクチョンサの建築様式はどのような特徴がありますか？",
+            "answer": "ジョクチョンサの建築様式は穴居の形に建てられ、大雄殿の屋根は切妻屋根で、柱の上と柱の間にダポ様式の装飾があります。"
+        },
+        {
+            "question": "ジョクチョンサの主要建物である大雄殿の規模はどのくらいですか？",
+            "answer": "大雄殿は前面3間・側面3間規模です。"
+        },
+        {
+            "question": "ジョクチョンサは何度か焼失して再建されたそうですね、その理由は何ですか？",
+            "answer": "ジョクチョンサは統一新羅興徳王3年(828)に焼失し、その後も何度か焼失して再建されました。焼失の理由は火災や戦乱などが考えられます。"
+        },
+        {
+            "question": "ジョクチョンサの建築には何か特別な意味があるのですか？",
+            "answer": "ジョクチョンサの建築には朝鮮後期になっており、朝鮮前期の建築手法の一部が反映されており、歴史的な意味を持っています。"
+        }
+    ],
+    "word_Count": {
+        "text": 187,
+        "QA": 271
+    }
+}

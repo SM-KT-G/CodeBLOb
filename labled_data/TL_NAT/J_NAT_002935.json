@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_002935",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2023-05-12",
+        "domain": "자연관광",
+        "title": "태평염전"
+    },
+    "text": "テピョンヨムジョン (태평염전)\nチョンラナムド・シナングン・チュンド綿 地図証道路 1053-11\n韓国最大の塩生産地で、全国で最も広い面積を持つ塩田があります。そこでは、チョンイル塩という天然塩が生産されています。",
+    "QA": [
+        {
+            "question": "チョンイル塩はどこで生産されていますか？",
+            "answer": "チョンイル塩は韓国最大の塩生産地であるテピョンヨムジョンで生産されています。"
+        },
+        {
+            "question": "テピョンヨムジョンはどのような特徴を持っていますか？",
+            "answer": "テピョンヨムジョンは韓国で最も広い面積を持つ塩田があり、全国的に有名です。"
+        },
+        {
+            "question": "チョンイル塩は何で作られていますか？",
+            "answer": "チョンイル塩は天然塩です。"
+        },
+        {
+            "question": "チョンイル塩はどのように生産されていますか？",
+            "answer": "チョンイル塩は塩田で海水を蒸発させることによって生産されます。"
+        }
+    ],
+    "word_Count": {
+        "text": 79,
+        "QA": 150
+    }
+}

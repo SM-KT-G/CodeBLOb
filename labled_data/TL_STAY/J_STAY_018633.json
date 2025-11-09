@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_018633",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42030&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "청송 주왕산온천관광호텔"
+    },
+    "text": "慶尚北道青松郡青松邑月幕里73-2に位置する青松郡民会館までは204mの距離で、車では約1分かかります。 また青松までは558mの距離で、車では約3分かかります。 そして青松郡庁までは683mの距離で、車では約4分かかり、青松郵便局までは812mの距離で、車では約4分かかります。 最後に青松バスターミナルまでは1.3Kmの距離で、車では約6分かかります。",
+    "QA": [
+        {
+            "question": "青松郡民会館はどのくらいの距離にありますか？",
+            "answer": "青松郡民会館は204mの距離に位置しています。"
+        },
+        {
+            "question": "青松まではどれくらいの距離ですか？",
+            "answer": "青松までは558mの距離です。"
+        },
+        {
+            "question": "青松郡庁までの距離を教えてください。",
+            "answer": "青松郡庁までは683mの距離です。"
+        },
+        {
+            "question": "青松郵便局までの距離を教えてください。",
+            "answer": "青松郵便局までは812mの距離です。"
+        },
+        {
+            "question": "青松バスターミナルまでの距離はどれくらいですか？",
+            "answer": "青松バスターミナルまでは1.3Kmの距離です。"
+        }
+    ],
+    "word_Count": {
+        "text": 130,
+        "QA": 143
+    }
+}

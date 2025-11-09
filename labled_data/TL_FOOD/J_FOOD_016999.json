@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_016999",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-05",
+        "domain": "음식점",
+        "title": "鏡浦ハンミ刺身専門店 ( 경포한미횟집 )"
+    },
+    "text": "鏡浦ハンミ刺身専門店 ( 경포한미횟집 )\\n\n江原道 ガンヌン市 チャンヘロ491\\n\n活魚の刺身とあっさりしたメウンタン(魚の辛味スープ)が味わえる店です。代表的なメニューは刺身の盛り合わせです。江原道のガンヌン市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "この店はどのような料理を提供していますか？",
+            "answer": "鏡浦ハンミ刺身専門店では、活魚の刺身やメウンタンなどのあっさりした魚料理を提供しています。特におすすめは刺身の盛り合わせです。"
+        },
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "鏡浦ハンミ刺身専門店は江原道のガンヌン市チャンヘロ491に位置しています。"
+        },
+        {
+            "question": "この店の特徴は何ですか？",
+            "answer": "鏡浦ハンミ刺身専門店の特徴は、新鮮な活魚の刺身やあっさりしたメウンタンが味わえることです。"
+        }
+    ],
+    "word_Count": {
+        "text": 89,
+        "QA": 140
+    }
+}

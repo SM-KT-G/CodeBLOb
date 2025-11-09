@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_109697",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=10&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=11&ccbaAsno=01140000&ccbaCtcd=11&ccbaCpno=1111101140000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1962-12-20",
+        "domain": "문화/역사관광",
+        "title": "청자 상감모란국화문 참외모양 병"
+    },
+    "text": "高麗時代(12世紀)に作られた瓜形の病気で、この中国で始まった形態が韓国で変化した。この花瓶は、国宝に指定された青磁の瓜形瓶や形が同じで、制作地である全羅北道扶安郡セキュリティ面ユチョンリの窯跡で作られたものと推定される。この花瓶の高さは25.6cm、口直径は9.1cm、下の直径は9.4cmだ。胴体は瓜形で八の部分に分かれて、ゴールで構成されており、首や胴体の継ぎ目は突き出た線で境界を示している。口も瓜の花を形象化したものと長い首の上にラッパのように行われていている。首の中間には白土で象嵌された2列の水平線があり、胴体の中間部には八つの面に牡丹の文様と菊模様が交替して、洗練されるように装飾されている。胴体の下の方は蓮の花が白黒の象眼が明らかになっている。曲がったギャザースカートの形の高いヒールがついており、釉薬はえり好みせず色も暗い方だ。しかし、全体的な比例とバランス面では安定している。このような様子から高麗青磁の全盛期をうかがうことができる瓜形の花瓶である。",
+    "QA": [
+        {
+            "question": "この花瓶の制作地はどこですか？",
+            "answer": "この花瓶は全羅北道扶安郡セキュリティ面ユチョンリの窯跡で作られたと推定されています。"
+        },
+        {
+            "question": "この花瓶の高さは何センチですか？",
+            "answer": "この花瓶の高さは25.6cmです。"
+        },
+        {
+            "question": "花瓶の胴体は何形ですか？",
+            "answer": "花瓶の胴体は瓜形で八の部分に分かれています。"
+        },
+        {
+            "question": "花瓶の首の中間部に何が象嵌されていますか？",
+            "answer": "花瓶の首の中間部には白土で象嵌された2列の水平線があります。"
+        },
+        {
+            "question": "花瓶の胴体の中間部には何の文様が装飾されていますか？",
+            "answer": "花瓶の胴体の中間部には八つの面に牡丹の文様と菊模様が交替して、洗練されるように装飾されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 319,
+        "QA": 182
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001973",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-14",
+        "domain": "음식점",
+        "title": "OSTERIA LA CIVETTA( 오스테리아라치베타 )"
+    },
+    "text": "OSTERIA LA CIVETTA\\n\n釜山広域市 釜山鎮区 カヤデロ784ボンギル46-6\\n\nリーズナブルなイタリアンコース料理が楽しめます。釜山広域市のブサンジン区に位置した洋食専門店です。おすすめはステーキです。",
+    "QA": [
+        {
+            "question": "このレストランの名前は何ですか？",
+            "answer": "レストランの名前はオステリア ラ チヴェッタです。"
+        },
+        {
+            "question": "このレストランの場所はどこですか？",
+            "answer": "このレストランは釜山広域市釜山鎮区カヤデロ784ボンギル46-6に位置しています。"
+        },
+        {
+            "question": "このレストランではどんな料理を楽しむことができますか？",
+            "answer": "このレストランではリーズナブルなイタリアンコース料理が楽しめます。特におすすめはステーキです。"
+        }
+    ],
+    "word_Count": {
+        "text": 81,
+        "QA": 126
+    }
+}

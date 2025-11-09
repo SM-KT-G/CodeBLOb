@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_008468",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-01",
+        "domain": "음식점",
+        "title": "ソウルカルビ ( 서울갈비 )"
+    },
+    "text": "ソウルカルビ \n慶尚北道 安東市 ドンフン1キル19\n30年の伝統を持つ、厳選された韓牛のみを使用するレストランです。 慶尚北道のアンドン市に位置した韓食専門店です。代表的なメニューはカルビです。",
+    "QA": [
+        {
+            "question": "このレストランの場所はどこですか？",
+            "answer": "このレストランは慶尚北道のアンドン市に位置しています。"
+        },
+        {
+            "question": "このレストランで提供されている代表的なメニューは何ですか？",
+            "answer": "このレストランの代表的なメニューはカルビです。"
+        },
+        {
+            "question": "このレストランでは何年の伝統を持っていますか？",
+            "answer": "このレストランは30年の伝統を持っています。"
+        },
+        {
+            "question": "このレストランで使用されている肉はどのように厳選されていますか？",
+            "answer": "このレストランでは厳選された韓牛のみを使用しています。"
+        },
+        {
+            "question": "このレストランの名物料理はありますか？",
+            "answer": "はい、このレストランの名物料理はカルビです。"
+        }
+    ],
+    "word_Count": {
+        "text": 71,
+        "QA": 176
+    }
+}

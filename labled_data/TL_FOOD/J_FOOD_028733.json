@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_028733",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "平來屋 ( 평래옥 )"
+    },
+    "text": "平來屋 ( 평래옥 )\\n\nソウル特別市 中区 マルンネ路 21-1\\n\n1950年から始まったお店で、いつも行列が絶えません。この店はソウル特別市の中区に位置したピョンヤン冷麺専門店です。代表的なメニューはピョンヤン冷麺です。",
+    "QA": [
+        {
+            "question": "このお店はいつから営業していますか？",
+            "answer": "このお店は1950年から営業しています。"
+        },
+        {
+            "question": "このお店の場所はどこですか？",
+            "answer": "このお店はソウル特別市中区マルンネ路21-1にあります。"
+        },
+        {
+            "question": "このお店の代表的なメニューは何ですか？",
+            "answer": "このお店の代表的なメニューはピョンヤン冷麺です。"
+        },
+        {
+            "question": "このお店はいつも行列ができていますか？",
+            "answer": "はい、このお店はいつも行列が絶えません。"
+        },
+        {
+            "question": "このお店の特徴は何ですか？",
+            "answer": "このお店はピョンヤン冷麺専門店で、1950年から営業しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 83,
+        "QA": 151
+    }
+}

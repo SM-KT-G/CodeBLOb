@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_012777",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2023-08-09",
+        "domain": "자연관광",
+        "title": "안산에서 즐기는 시원스런 전망과 즐거운 체험"
+    },
+    "text": "安山で楽しむ涼しい眺めと楽しい体験 (안산에서 즐기는 시원스런 전망과 즐거운 체험)\\n\n海岸に位置する安山は、ひんやりとした展望台と様々な体験地を紹介しています。ガラス工芸を直接作ることができるガラス博物館と漁村博物館·元谷洞の多文化通りでは独特な食べ物も味わえます。",
+    "QA": [
+        {
+            "question": "安山の展望台はどこにありますか？",
+            "answer": "安山には海岸に位置する展望台があります。"
+        },
+        {
+            "question": "ガラス博物館では何をすることができますか？",
+            "answer": "ガラス博物館ではガラス工芸を直接作ることができます。"
+        },
+        {
+            "question": "元谷洞の多文化通りではどんな食べ物が味わえますか？",
+            "answer": "元谷洞の多文化通りでは独特な食べ物を味わうことができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 100,
+        "QA": 100
+    }
+}

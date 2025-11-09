@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_105028",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=535&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=02120000&ccbaCtcd=38&ccbaCpno=2113802120000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1983-08-06",
+        "domain": "문화/역사관광",
+        "title": "창녕 향교"
+    },
+    "text": "慶尚南道有形文化財である郷校は、地方民の教育と教化のために国で立てた教育機関だ。この郷校は、正確な立てた時期を知ることができないが、朝鮮孝宗に再び建てられたと伝えられている。1904年には、保守作業を経て、1987年にはドンジェと書斎を復元した。建物はウェサムムン、明倫堂、東・書斎、大成殿、東・西廡などで構成されている。郷校の典型的な構造では明倫堂がこれに位置して、大成殿が後ろにある。この郷校は、過去は国から土地と全面的、奴婢などを受けて生徒たちに教えたが、甲午改革以降には、祭祀を務めている。この郷校は、他の郷校に比べて多くの戦績を保管しており、地方郷土史研究に多くの資料を提供している。",
+    "QA": [
+        {
+            "question": "この郷校はどのような目的で国によって建てられたのですか？",
+            "answer": "地方民の教育と教化のために国で立てた教育機関です。"
+        },
+        {
+            "question": "この郷校の建設時期は具体的にわかっていますか？",
+            "answer": "正確な立てた時期を知ることができませんが、朝鮮孝宗に再び建てられたと伝えられています。"
+        },
+        {
+            "question": "この郷校にはどのような建物がありますか？",
+            "answer": "ウェサムムン、明倫堂、東・書斎、大成殿、東・西廡などの建物で構成されています。"
+        },
+        {
+            "question": "この郷校の典型的な構造はどのようになっていますか？",
+            "answer": "明倫堂が前に位置し、大成殿が後ろにある典型的な構造です。"
+        },
+        {
+            "question": "この郷校はどのような役割を果たしていますか？",
+            "answer": "過去は国から土地と全面的、奴婢などを受けて生徒たちに教えましたが、甲午改革以降には祭祀を務めています。"
+        },
+        {
+            "question": "この郷校はどのような資料を提供していますか？",
+            "answer": "他の郷校に比べて多くの戦績を保管しており、地方郷土史研究に多くの資料を提供しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 217,
+        "QA": 270
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_098904",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ja",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2023-06-16",
+        "domain": "문화/역사관광",
+        "title": "장동만남공원"
+    },
+    "text": "章動の森林浴場とギェジョクサンを近づけている大田大徳区ジャンドンウィ出会い公園は春には青麦を秋にはコスモスを見物することができる。''大田コスモス''と検索すれば出る花見の代表的観光地の一つで、静かで空気のきれいな村でヒルリンしながら散歩することに最適だ。ペットの散歩コースでも遜色のない公園だ。",
+    "QA": [
+        {
+            "question": "大田大徳区ジャンドンウィ出会い公園で見物できる花は何ですか？",
+            "answer": "春には青麦、秋にはコスモスを見ることができます。"
+        },
+        {
+            "question": "大田大徳区ジャンドンウィ出会い公園での散歩に最適な季節はいつですか？",
+            "answer": "春と秋には、青麦やコスモスを見物しながら散歩することが最適です。"
+        },
+        {
+            "question": "大田大徳区ジャンドンウィ出会い公園はペットの散歩に適していますか？",
+            "answer": "はい、ペットの散歩にも適した公園です。"
+        }
+    ],
+    "word_Count": {
+        "text": 108,
+        "QA": 126
+    }
+}

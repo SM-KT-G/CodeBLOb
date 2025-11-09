@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_017481",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-04",
+        "domain": "자연관광",
+        "title": "八公山道立公園（カッパウィ地区）（팔공산도립공원（갓바위지구））"
+    },
+    "text": "八公山道立公園（カッパウィ地区）（팔공산도립공원（갓바위지구））\\n\n慶尚北道 慶山市 瓦村面 （瓦村面）\\n\n八公山（パルゴンサン）は慶山市の北側にある海抜1192.3メートルの山です。ここには冠峰石造如来坐像（カッパウィ）、元曉寺、千聖寺、仏国寺など新羅の古寺と文化遺跡が多く残っています。",
+    "QA": [
+        {
+            "question": "八公山（パルゴンサン）はどこにありますか？",
+            "answer": "八公山は慶山市の北側にあります。"
+        },
+        {
+            "question": "八公山の海抜は何メートルですか？",
+            "answer": "八公山の海抜は1192.3メートルです。"
+        },
+        {
+            "question": "八公山にはどのような文化遺跡がありますか？",
+            "answer": "八公山には冠峰石造如来坐像（カッパウィ）、元曉寺、千聖寺、仏国寺など新羅の古寺と文化遺跡が多く残っています。"
+        }
+    ],
+    "word_Count": {
+        "text": 107,
+        "QA": 108
+    }
+}

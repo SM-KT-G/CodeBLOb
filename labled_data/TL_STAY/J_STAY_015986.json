@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_015986",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2019-12-06",
+        "domain": "숙박",
+        "title": "プリンスホテル[韓国観光品質認証]（프린스호텔"
+    },
+    "text": "プリンスホテル[韓国観光品質認証]（프린스호텔\n慶尚南道 固城郡 固城邑 南海岸大路2463-7\n超高速インターネット設置（10室）、大型駐車場完備、大型ルーム（特室）、飲み物と食事が準備された食堂（団体での朝食可能）を備えています。",
+    "QA": [
+        {
+            "question": "プリンスホテルはどこに位置していますか？",
+            "answer": "プリンスホテルは韓国の慶尚南道固城郡固城邑の南海岸大路2463-7に位置しています。"
+        },
+        {
+            "question": "プリンスホテルはどのような設備を備えていますか？",
+            "answer": "プリンスホテルは超高速インターネット設置（10室）、大型駐車場完備、大型ルーム（特室）、飲み物と食事が準備された食堂（団体での朝食可能）を備えています。"
+        },
+        {
+            "question": "プリンスホテルは韓国観光品質認証を受けていますか？",
+            "answer": "はい、プリンスホテルは韓国観光品質認証を受けています。"
+        }
+    ],
+    "word_Count": {
+        "text": 85,
+        "QA": 156
+    }
+}

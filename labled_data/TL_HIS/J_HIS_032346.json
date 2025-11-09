@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_032346",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2022-08-17",
+        "domain": "문화/역사관광",
+        "title": "취백정"
+    },
+    "text": "翠白亭 (취백정)\\n\n大田広域市大徳区大清路526番キル45-24\\n\n翠白亭は錦江沿いの野山丘陵の頂上に位置し、帝月堂宋奎廉が晩年に弟子を集めて学問を教えた講学所である。 宋奎廉は学問に優れ、宋時烈、宋浚吉(宋浚吉)と共に三宋と呼ばれた。死後、文僖の諡号が下された。",
+    "QA": [
+        {
+            "question": "翠白亭はどこに位置していますか？",
+            "answer": "翠白亭は錦江沿いの野山丘陵の頂上に位置しています。"
+        },
+        {
+            "question": "翠白亭は何のために使用されていましたか？",
+            "answer": "翠白亭は帝月堂宋奎廉が晩年に弟子を集めて学問を教えた講学所として使用されていました。"
+        },
+        {
+            "question": "宋奎廉はどのような人物でしたか？",
+            "answer": "宋奎廉は学問に優れ、宋時烈、宋浚吉と共に三宋と呼ばれた人物でした。また、彼の死後、文僖の諡号が下されました。"
+        }
+    ],
+    "word_Count": {
+        "text": 99,
+        "QA": 126
+    }
+}

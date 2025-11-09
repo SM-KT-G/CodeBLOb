@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_023075",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=746&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=22&ccbaAsno=00430000&ccbaCtcd=36&ccbaCpno=2223600430000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "순천삼설양굿"
+    },
+    "text": "順天サムソルヤングッ (순천삼설양굿)\\n\n全羅南道無形文化財 , <三雪陽グッ>は、雉瓶グッだけでなく、洗礼グッの最後の手続きで連行されるグッノリで、宗教的儀式としてのグッと、遊びとしての劇が一体となった一人多役劇の形として珍しい民俗劇であり、保有者パク·ギョンジャは伝統的なグッ芸能を保有している巫女として世襲武界の伝統性と歴史性だけでなく、グッの地域性と芸能性でも格別な特徴を持っている。",
+    "QA": [
+        {
+            "question": "三雪陽グッは、どのような形式の民俗劇ですか？",
+            "answer": "三雪陽グッは、一人多役劇の形であり、宗教的儀式としてのグッと、遊びとしての劇が一体となった珍しい民俗劇です。"
+        },
+        {
+            "question": "パク·ギョンジャはどのような役割を果たしていますか？",
+            "answer": "パク·ギョンジャは巫女として世襲武界の伝統性と歴史性を持つだけでなく、伝統的なグッ芸能を保有している人物です。"
+        },
+        {
+            "question": "三雪陽グッにはどんな特徴がありますか？",
+            "answer": "三雪陽グッは、雉瓶グッと洗礼グッの最後の手続きで連行されるグッノリという儀式が含まれており、宗教的儀式としての面と遊びとしての劇が一体となった形式です。また、地域性と芸能性も持っています。"
+        }
+    ],
+    "word_Count": {
+        "text": 144,
+        "QA": 198
+    }
+}

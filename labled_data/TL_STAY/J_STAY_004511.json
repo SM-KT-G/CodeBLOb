@@ -1,0 +1,31 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_004511",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42040&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "구례 카오스371펜션"
+    },
+    "text": "こんにちは。求礼カオス371ペンションです。 当ペンションはお知らせがあるので、ご案内したいと思います。 チェックイン時間は22時以降からは予めご連絡ください。 また、愛犬同伴の場合、寝具の準備のため、事前にお電話ください。",
+    "QA": [
+        {
+            "question": "ペンションのチェックイン時間は何時からですか？",
+            "answer": "チェックイン時間は22時以降からです。22時以降にチェックインを希望される場合は、予めご連絡ください。"
+        },
+        {
+            "question": "愛犬を連れて宿泊する場合、事前に連絡が必要ですか？",
+            "answer": "愛犬同伴の場合、寝具の準備のため、事前にお電話ください。"
+        }
+    ],
+    "word_Count": {
+        "text": 82,
+        "QA": 93
+    }
+}

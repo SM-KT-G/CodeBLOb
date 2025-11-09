@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_024334",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-06",
+        "domain": "음식점",
+        "title": "麗水梧桐島 大峙 ( 여수오동도 대치 )"
+    },
+    "text": "麗水梧桐島 大峙 ( 여수오동도 대치 )\\n\nソウル特別市 江南区 サムソンロ71ギル7\\n\n旬の海鮮を全羅道式に調理する店です。ソウル特別市のガンナム区に位置した韓食専門店です。おすすめはテナガダコスープです。",
+    "QA": [
+        {
+            "question": "大峙（여수오동도 대치）はどこにありますか？",
+            "answer": "大峙（여수오동도 대치）はソウル特別市江南区（강남구）のサムソンロ71ギル7に位置しています。"
+        },
+        {
+            "question": "大峙（여수오동도 대치）はどのような料理店ですか？",
+            "answer": "大峙（여수오동도 대치）は旬の海鮮を全羅道式に調理する韓食専門店です。"
+        },
+        {
+            "question": "大峙（여수오동도 대치）でおすすめの料理は何ですか？",
+            "answer": "大峙（여수오동도 대치）でおすすめの料理はテナガダコスープです。"
+        }
+    ],
+    "word_Count": {
+        "text": 78,
+        "QA": 137
+    }
+}

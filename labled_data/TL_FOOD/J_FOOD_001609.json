@@ -1,0 +1,31 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001609",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-05",
+        "domain": "음식점",
+        "title": "comme lete ( 꼼레떼 )"
+    },
+    "text": "comme lete ( 꼼레떼 )\\n\nソウル特別市 瑞草区 パンベチョンロ4アンギル26\\n\nフランス出身のパティシエ2人が運営するデザート専門店です。代表的なメニューはデザートです。ソウル特別市のソチョ区に位置したカフェ（コーヒーショップ）です。",
+    "QA": [
+        {
+            "question": "コーヒーショップ「 꼼레떼 (ソウル特別市 瑞草区 パンベチョンロ4アンギル26) 」はどのようなお店ですか？",
+            "answer": " 꼼레떼 (ソウル特別市 瑞草区 パンベチョンロ4アンギル26) は、フランス出身のパティシエ2人が運営するデザート専門店で、代表的なメニューはデザートです。"
+        },
+        {
+            "question": "コーヒーショップ「 꼼레떼 (ソウル特別市 瑞草区 パンベチョンロ4アンギル26) 」の場所はどこですか？",
+            "answer": "コーヒーショップ「 꼼레떼 (ソウル特別市 瑞草区 パンベチョンロ4アンギル26) 」はソウル特別市のソチョ区に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 92,
+        "QA": 184
+    }
+}

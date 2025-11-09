@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_025996",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-01",
+        "domain": "음식점",
+        "title": "長寿うどん ( 장수우동 )"
+    },
+    "text": "長寿うどん \n慶尚北道 安東市 広明路 161\n韓国の麺料理をリーズナブルな価格で味わえるところです。代表的なメニューはうどんです。慶尚北道のアンドン市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "長寿うどんは慶尚北道のアンドン市、広明路161に位置しています。"
+        },
+        {
+            "question": "この店のメニューには何がありますか？",
+            "answer": "この店の代表的なメニューはうどんです。他にも麺料理があります。"
+        },
+        {
+            "question": "この店の特徴は何ですか？",
+            "answer": "この店は韓国の麺料理をリーズナブルな価格で提供しています。"
+        },
+        {
+            "question": "この店の名前は何ですか？",
+            "answer": "この店の名前は「長寿うどん」です。"
+        },
+        {
+            "question": "この店の営業時間は何時から何時までですか？",
+            "answer": "具体的な営業時間については記載がありませんが、通常は朝から晩まで営業しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 65,
+        "QA": 165
+    }
+}

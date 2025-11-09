@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_105822",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/view?relicId=93367",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2023-10-11",
+        "domain": "문화/역사관광",
+        "title": "철제품"
+    },
+    "text": "鉄製品 (철제품)\\n\nこの作品は、韓国（朝鮮）の時代に関連するもので、材質は金属（鉄）で作られています。分類としては、産業や生業、具体的には農業の一環である種まき耕作と劇作家に関連しています。 サイズについては、現在の長さが59cmで、幅が31cm、厚さが06cmです。また、別の状態では、現在の長さが51cmで、幅が34cm、厚さが12cmであり、さらに別の状態では、現在の長さが6cmで、幅が37cm、厚さが04cmとなっています。",
+    "QA": [
+        {
+            "question": "この作品は何で作られていますか？",
+            "answer": "この作品は鉄で作られています。"
+        },
+        {
+            "question": "この作品は何の一環であり、どんな産業や生業に関連していますか？",
+            "answer": "この作品は種まき耕作と劇作家に関連しており、農業の一環として関連しています。"
+        },
+        {
+            "question": "この作品のサイズは何ですか？",
+            "answer": "現在の長さが59cmで、幅が31cm、厚さが06cmです。"
+        }
+    ],
+    "word_Count": {
+        "text": 160,
+        "QA": 104
+    }
+}

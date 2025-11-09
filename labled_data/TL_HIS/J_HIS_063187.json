@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_063187",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/collectionList#######",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "로맹 롤랑 전집"
+    },
+    "text": "ロマン·ローラン全集 (로맹 롤랑 전집)\\n\n日本語訳されたロマン·ローランの全集4点です。14巻にはMillet、Michel-Ange、Mahtma Gandhiの伝記が含まれています。17巻は、ロマン·ローランの回顧録です。いくつかの部分には下線が引かれており、145ページには安益泰自筆と思われるメモがあります。22巻は音楽研究の第3巻であり、23巻はベートーベンの研究です。一部のページには下線が引かれています（253、255ページなど）。これらの本は日本の作家、Romain Rollandによって書かれており、分類は文化芸術、文献、文学、小説です。その大きさは横137cm、縦193cm、高さ2cmです。",
+    "QA": [
+        {
+            "question": "ロマン·ローラン全集は何冊ありますか？",
+            "answer": "ロマン·ローラン全集は4冊あります。"
+        },
+        {
+            "question": "14巻にはどのような伝記が含まれていますか？",
+            "answer": "14巻にはMillet、Michel-Ange、Mahtma Gandhiの伝記が含まれています。"
+        },
+        {
+            "question": "17巻は何の回顧録ですか？",
+            "answer": "17巻はロマン·ローランの回顧録です。"
+        },
+        {
+            "question": "22巻は何の研究ですか？",
+            "answer": "22巻は音楽研究の第3巻です。"
+        },
+        {
+            "question": "23巻は誰の研究ですか？",
+            "answer": "23巻はベートーベンの研究です。"
+        }
+    ],
+    "word_Count": {
+        "text": 227,
+        "QA": 143
+    }
+}

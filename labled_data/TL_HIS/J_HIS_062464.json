@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_062464",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=423&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=00630000&ccbaCtcd=32&ccbaCpno=2113200630000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1979-05-30",
+        "domain": "문화/역사관광",
+        "title": "동해 해암정"
+    },
+    "text": "東海海岩亭\\n\n江原道東海市秋岩洞474-5\\n\n江原道特別自治道有形文化財、三陟(サムチョク)シム氏の始祖シムドンロが官職を捨てて下りてきて、弟子を教えながら生活する時に作った精子に、高麗の恭愍王10年(1361)に初めて建設し、朝鮮中宗25年(1530)にシムオングヮンが再びなった。シムドンロは幼い頃から文章をよくしたが、高麗末の混乱した状態を正すように努力して権力を握っていた奸臣の輩たちが気に入らない故郷に解散しようとした。王は彼を止めたが、老人が東に行くという意味の''東魯(東老)''という名前を下し、結局許諾した。前面3間・側面2間規模であり、屋根側面が八(八部)字形の入母屋造りである。前面を除いた3面はすべて4隻程度の高さまで壁を作って全て開放した。ここには宋時烈(ソン・シヨル)がドクウォンに流されていく途中立ち寄って残した''チョハプウン心境戦士(草合雲深逕轉斜)''という文字が残っている。",
+    "QA": [
+        {
+            "question": "東海海岩亭は何年に建設されましたか？",
+            "answer": "東海海岩亭は高麗の恭愍王10年(1361)に初めて建設されました。"
+        },
+        {
+            "question": "東海海岩亭を建設した人物は誰ですか？",
+            "answer": "東海海岩亭を建設した人物は、シムドンロという人物です。"
+        },
+        {
+            "question": "東海海岩亭の特徴的な建築様式は何ですか？",
+            "answer": "東海海岩亭は、前面3間・側面2間規模であり、屋根側面が八(八部)字形の入母屋造りです。"
+        },
+        {
+            "question": "東海海岩亭にはどんな文字が残っているのですか？",
+            "answer": "東海海岩亭には、宋時烈(ソン・シヨル)が残した''チョハプウン心境戦士(草合雲深逕轉斜)''という文字が残っています。"
+        }
+    ],
+    "word_Count": {
+        "text": 299,
+        "QA": 176
+    }
+}

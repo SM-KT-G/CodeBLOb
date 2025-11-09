@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_000944",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2022-09-13",
+        "domain": "문화/역사관광",
+        "title": "DMZ RUN 평화 마라톤"
+    },
+    "text": "DMZ RUN平和マラソン (DMZ RUN 평화 마라톤)\\n\n京畿道坡州市ジャンロ148-40平和ヌリ\\n\nDMZ一帯をスポーツイベントとして楽しむ「DMZRUN」が坡州臨津江平和ヌリ一帯で開催されます。DMZRUNは平和マラソン、平和自転車、平和ウォーキングの3つのイベントを含み、参加者はDMZ一帯を直接走ったり、乗ったり、歩いたりしながら平和の意味を考え、自然の価値を実感することができます。特に平和マラソンでは民間人統制区域はもちろん、南北出入事務所（CIQ）前まで走ることができ、特別な体験ができます。",
+    "QA": [
+        {
+            "question": "DMZ RUN平和マラソンはどこで開催されますか？",
+            "answer": "DMZ RUN平和マラソンは京畿道坡州市ジャンロ148-40平和ヌリで開催されます。"
+        },
+        {
+            "question": "DMZ RUNにはどのようなイベントが含まれていますか？",
+            "answer": "DMZ RUNには平和マラソン、平和自転車、平和ウォーキングの3つのイベントが含まれています。"
+        },
+        {
+            "question": "DMZ RUN平和マラソンではどこまで走ることができますか？",
+            "answer": "DMZ RUN平和マラソンでは民間人統制区域はもちろん、南北出入事務所（CIQ）前まで走ることができます。"
+        },
+        {
+            "question": "DMZ RUNで参加者は何をすることができますか？",
+            "answer": "DMZ RUNで参加者はDMZ一帯を直接走ったり、乗ったり、歩いたりしながら平和の意味を考え、自然の価値を実感することができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 189,
+        "QA": 231
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_016889",
+        "source": "도서",
+        "writer": "김용철",
+        "ISBN_ISNN": "978-89-3520-841-8",
+        "version": "초판",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "맛객의 맛있는 인생",
+        "collectedDate": "2023-11-01",
+        "publishedDate": "2010-09-05",
+        "domain": "음식점",
+        "title": "터프이너프 로스터스"
+    },
+    "text": "京畿道平沢市浦升邑浦升香南路11に位置するTUFF ENUFF ROASTERSは2011年から運営されているカフェです。 私たちは一つの空間で四季を10回も見ました。 これを通じて共にしてきたすべての方々に感謝を感じ、暖かくて冷たいものをバランスよく提供していきます。 当カフェで披露するコーヒー豆とベーカリーデザートは、すべてタフインナープロスターズから直接ローストとベーキングを行う手作り品です。 良い味と風味のために最善を尽くす私たちの製品は多くの方々に愛されています。 TUFF ENUFF ROASTERSは茶色の一戸建てになっており、内記三叉路の近くに位置しています。 営業時間は毎日11:00から22:00までで、年中無休です。 当カフェで提供するメニューの一つであるAMERICANOは5,000ウォンでご購入いただけます。 様々なコーヒー飲料とともに、低価格でおいしいコーヒーをお楽しみいただけます。 多くの方々のご来店をお待ちしております。",
+    "QA": [
+        {
+            "question": "TUFF ENUFF ROASTERSはいつオープンしましたか？",
+            "answer": "TUFF ENUFF ROASTERSは2011年から運営されています。"
+        },
+        {
+            "question": "TUFF ENUFF ROASTERSはどのような場所に位置していますか？",
+            "answer": "TUFF ENUFF ROASTERSは京畿道平沢市浦升邑浦升香南路11に位置しています。"
+        },
+        {
+            "question": "TUFF ENUFF ROASTERSの営業時間は何時から何時までですか？",
+            "answer": "TUFF ENUFF ROASTERSの営業時間は毎日11:00から22:00までです。"
+        },
+        {
+            "question": "TUFF ENUFF ROASTERSは何曜日でも営業していますか？",
+            "answer": "TUFF ENUFF ROASTERSは年中無休で営業しています。"
+        },
+        {
+            "question": "TUFF ENUFF ROASTERSで提供されているコーヒー豆とベーカリーデザートはどのように作られていますか？",
+            "answer": "TUFF ENUFF ROASTERSでは、コーヒー豆とベーカリーデザートは自社で直接ローストとベーキングを行っています。"
+        },
+        {
+            "question": "TUFF ENUFF ROASTERSで提供されるAMERICANOの価格はいくらですか？",
+            "answer": "TUFF ENUFF ROASTERSで提供されるAMERICANOは5,000ウォンです。"
+        },
+        {
+            "question": "TUFF ENUFF ROASTERSはどのような種類のコーヒー飲料を提供していますか？",
+            "answer": "TUFF ENUFF ROASTERSでは様々な種類のコーヒー飲料を提供しています。"
+        },
+        {
+            "question": "TUFF ENUFF ROASTERSでは他にどんなメニューがありますか？",
+            "answer": "TUFF ENUFF ROASTERSでは他にもさまざまなメニューがあります。"
+        },
+        {
+            "question": "TUFF ENUFF ROASTERSへのアクセス方法はどうすればいいですか？",
+            "answer": "TUFF ENUFF ROASTERSへのアクセス方法については、ご案内します。"
+        }
+    ],
+    "word_Count": {
+        "text": 316,
+        "QA": 548
+    }
+}

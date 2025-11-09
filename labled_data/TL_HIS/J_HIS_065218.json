@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_065218",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=379&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=00160000&ccbaCtcd=26&ccbaCpno=2112600160000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2006-12-28",
+        "domain": "문화/역사관광",
+        "title": "문수사탱화"
+    },
+    "text": "朝鮮時代には、幀画と呼ばれる仏教絵画があった。仏画は、お寺の法堂などで礼拝をするために描かれた。蔚山広域市に位置した文殊寺には三つの仏画が有形文化財に指定されている。三つの仏画は釈迦フブルテン、ジジャンテン、チルソンテンがある。彼らは現在、通度寺聖宝博物館に委託保管中だ。釈迦牟尼フブル仏画は朝鮮時代後期に製作され、大きさは178センチ×180センチだ。面、母屋色で描かれており、釈迦如来を大きく描写している。支障幀画は1893年に製作され、大きさは154センチ×114.5センチだ。地蔵菩薩を中心に様々な人物が描かれている。七星(チルソン)幀画は1855年に製作され、大きさは136.5センチ×102.5センチだ。中央にはゴシングヮンが背景に上·中・下三段の左右対称の構図を作っている。仏画は赤と青がコントラストをなし、繊細に彩色されている。",
+    "QA": [
+        {
+            "question": "これらの仏画はどのような目的で描かれましたか？",
+            "answer": "これらの仏画はお寺の法堂などで礼拝をするために描かれました。"
+        },
+        {
+            "question": "釈迦フブルテンとはどのような仏画ですか？",
+            "answer": "釈迦フブルテンは朝鮮時代後期に製作され、大きさは178センチ×180センチで、釈迦如来を大きく描写した仏画です。"
+        },
+        {
+            "question": "支障幀画にはどのような人物が描かれていますか？",
+            "answer": "支障幀画には地蔵菩薩を中心に、様々な人物が描かれています。"
+        },
+        {
+            "question": "七星(チルソン)幀画の特徴は何ですか？",
+            "answer": "七星(チルソン)幀画は1855年に製作され、中央にゴシングヮンが背景に上・中・下三段の左右対称の構図を作っています。また、赤と青のコントラストがあり、繊細に彩色されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 272,
+        "QA": 210
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_025735",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "一味食堂 ( 일미식당 )"
+    },
+    "text": "一味食堂 ( 일미식당 )\n慶尚北道 安東市 知豊路 1672\n安東市民もよく訪れる店です。慶尚北道のアンドン市に位置した中華専門店です。おすすめはジャージャー麺です。",
+    "QA": [
+        {
+            "question": "一味食堂はどこに位置していますか？",
+            "answer": "一味食堂は慶尚北道の安東市に位置しています。"
+        },
+        {
+            "question": "一味食堂のおすすめ料理は何ですか？",
+            "answer": "一味食堂のおすすめ料理はジャージャー麺です。"
+        },
+        {
+            "question": "一味食堂はどのような店ですか？",
+            "answer": "一味食堂は中華専門店で、安東市民もよく訪れる人気の店です。"
+        }
+    ],
+    "word_Count": {
+        "text": 61,
+        "QA": 89
+    }
+}

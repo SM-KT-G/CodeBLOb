@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_017210",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/gongrungdong-chickensoup-dongdaemoon",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "孔陵洞タッカンマリ 東大門店"
+    },
+    "text": "孔陵洞タッカンマリ 東大門店\\n\nソウル特別市 鍾路区 鍾路5街 249, 東大門タッカンマリ横丁 内\\n\n「孔陵洞タッカンマリ」の鶏は凍らせていない国内産の鶏を使用し、新鮮で、肉質がいいです。タッカンマリは温かいスープに鶏を丸ごといれて深い味をがします。食べ終わった後、カルグッス（麺）を追加して食べられます。",
+    "QA": [
+        {
+            "question": "この店の名前は何ですか？",
+            "answer": "孔陵洞タッカンマリ 東大門店です。"
+        },
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "ソウル特別市 鍾路区 鍾路5街 249にあります。東大門タッカンマリ横丁の中にあります。"
+        },
+        {
+            "question": "この店の特徴は何ですか？",
+            "answer": "この店は凍らせていない国内産の新鮮な鶏を使用しており、肉質が良いです。タッカンマリは温かいスープに鶏を丸ごと入れて深い味わいを楽しむことができます。また、食べ終わった後にはカルグッス（麺）を追加して食べることもできます。"
+        }
+    ],
+    "word_Count": {
+        "text": 114,
+        "QA": 152
+    }
+}

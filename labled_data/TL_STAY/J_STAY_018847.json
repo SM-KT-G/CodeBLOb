@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_018847",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.goodchoice.kr/product/detail?ano=65986&adcno=1&sel_date=2023-11-07&sel_date2=2023-11-08",
+        "collectedDate": "2023-11-15",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "동학사 띠아모"
+    },
+    "text": "計8台の駐車場を保有しているこの宿は、客室の内部施設としては、全客室にNetflixと65インチTVが設置されており、スチームクローゼットと空気清浄機も備えています。 また、Drive in 客室にはウォッシュレットが設置されており、駐車前の客室にはTV、ヘアドライヤー、ヘアアイロン、携帯電話の充電器、Wi-Fi、エアコン、電気カーペット 、電気ケトル 、事務用PC 、IPTV 、Netflixなどが備えられています。 また、一部の客室にはバスタブも完備されています。",
+    "QA": [
+        {
+            "question": "この宿は何台の駐車場を保有していますか？",
+            "answer": "この宿は8台の駐車場を保有しています。"
+        },
+        {
+            "question": "客室にはどのような施設が備えられていますか？",
+            "answer": "全客室にはNetflixと65インチTVが設置されており、スチームクローゼットと空気清浄機も備えられています。"
+        },
+        {
+            "question": "どの客室にウォッシュレットが設置されていますか？",
+            "answer": "ウォッシュレットはDrive in客室に設置されています。"
+        },
+        {
+            "question": "駐車前の客室にはどのような設備がありますか？",
+            "answer": "駐車前の客室にはTV、ヘアドライヤー、ヘアアイロン、携帯電話の充電器、Wi-Fi、エアコン、電気カーペット、電気ケトル、事務用PC、IPTV、Netflixなどが備えられています。"
+        },
+        {
+            "question": "客室にはバスタブが備えられているのはどの客室ですか？",
+            "answer": "一部の客室にはバスタブが完備されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 173,
+        "QA": 240
+    }
+}

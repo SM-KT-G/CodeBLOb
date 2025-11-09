@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_022828",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2023-02-15",
+        "domain": "음식점",
+        "title": "聖心堂（성심당）"
+    },
+    "text": "聖心堂（성심당）\\n\nテジョン広域市チュン区テジョンロ480ボンギル15\\n\n1956年にテジョン駅前の小さなパン屋としてオープンした「聖心堂（ソンシムダン）」は大韓民国製菓業界を代表するお店です。厳選した材料を使った手作りパン、16時間天然発酵のスローブレッドなど400種類以上のパンを提供しています。",
+    "QA": [
+        {
+            "question": "聖心堂（성심당）はどこにありますか？",
+            "answer": "聖心堂（성심당）はテジョン広域市チュン区テジョンロ480ボンギル15にあります。"
+        },
+        {
+            "question": "聖心堂（성심당）はいつオープンしましたか？",
+            "answer": "聖心堂（성심당）は1956年にオープンしました。"
+        },
+        {
+            "question": "聖心堂（성심당）はどんなパンを提供していますか？",
+            "answer": "聖心堂（성심당）は手作りパンやスローブレッドなど400種類以上のパンを提供しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 111,
+        "QA": 124
+    }
+}

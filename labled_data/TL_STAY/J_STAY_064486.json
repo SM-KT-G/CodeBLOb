@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_064486",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://myrealtrip.com/accommodations/stays/1094656?place[place_type]=GID&place[gid]=1094656&place[latitude]=33.3049881803&place[longitude]=126.183604061&checkin=2023-12-03&checkout=2023-12-04&adult_count=1&curation_type=ALL",
+        "collectedDate": "2023-11-14",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "일마레 제주"
+    },
+    "text": "ご利用時間はチェックインは16:00から、チェックアウトは11:00までです。 客室情報では愛犬同伴可能な単独ルームがあり、これは基準2名ですが、最大4名までご利用いただけますし、愛犬同伴が不可能なもう一つの単独ルームも基準2名で最大4名までご利用いただけます。 また、一軒家Bと一軒家Aがあり、一軒家Bは基準2名ですが最大4名まで利用でき、一軒家Aは基準2名ですが最大5名まで利用できます。",
+    "QA": [
+        {
+            "question": "チェックインとチェックアウトの時間は何時ですか？",
+            "answer": "チェックインは16:00からで、チェックアウトは11:00までとなっております。"
+        },
+        {
+            "question": "どの客室タイプが犬と一緒に泊まれますか？",
+            "answer": "愛犬同伴可能な単独ルームと一軒家タイプがございます。"
+        },
+        {
+            "question": "一軒家Bの最大利用人数は何名ですか？",
+            "answer": "一軒家Bは最大4名までご利用いただけます。"
+        },
+        {
+            "question": "一軒家Aの最大利用人数は何名ですか？",
+            "answer": "一軒家Aは最大5名までご利用いただけます。"
+        }
+    ],
+    "word_Count": {
+        "text": 143,
+        "QA": 137
+    }
+}

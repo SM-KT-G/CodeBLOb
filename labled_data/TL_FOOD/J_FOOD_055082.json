@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_055082",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "アグランコッケラン（아구랑꽃게랑）"
+    },
+    "text": "アグランコッケラン（아구랑꽃게랑）\\n\nソウル特別市 中区 東湖路24キル 35-5\\n\nソウル特別市トンデイック駅の近くに位置した韓食専門店です。代表的なメニューはカンジャンケジャンです。日本人観光客に人気のお店です。",
+    "QA": [
+        {
+            "question": "このお店はどこにありますか？",
+            "answer": "アグランコッケランはソウル特別市中区東湖路24キル35-5に位置しています。"
+        },
+        {
+            "question": "このお店の代表的なメニューは何ですか？",
+            "answer": "アグランコッケランの代表的なメニューはカンジャンケジャンです。"
+        },
+        {
+            "question": "このお店はどのくらいの人気がありますか？",
+            "answer": "アグランコッケランは日本人観光客に人気のあるお店です。"
+        }
+    ],
+    "word_Count": {
+        "text": 80,
+        "QA": 109
+    }
+}

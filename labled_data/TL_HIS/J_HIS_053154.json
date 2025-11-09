@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_053154",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=140&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=12360200&ccbaCtcd=11&ccbaCpno=1121112360200&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2006-01-17",
+        "domain": "문화/역사관광",
+        "title": "구급간이방 권6"
+    },
+    "text": "中宗~明宗年間(1488~1567)の宝物な救急簡易幇(救急簡易方)は朝鮮成宗(ソンジョン)20年(1489)に編纂され、計8冊8本で構成された。この医書は韓国のクグプバンソとして、疾病を127種に分類し、その治療方法を盛り込んでいる。救急簡易の部屋は乙亥資本(乙亥字本)翻刻本での購入を申し入れさん(雪月堂)キムブリュンの所長であり、これを通じて16世紀に刊本のことを知ることができる。この本は、非常に珍しいオンヘ本医薬書として、漢方医学だけでなく、我々国語研究にも重要な資料と評価される。",
+    "QA": [
+        {
+            "question": "救急簡易幇はいつ編纂されましたか？",
+            "answer": "救急簡易幇は朝鮮成宗20年(1489)に編纂されました。"
+        },
+        {
+            "question": "救急簡易幇は何冊で構成されていますか？",
+            "answer": "救急簡易幇は計8冊8本で構成されています。"
+        },
+        {
+            "question": "救急簡易幇では何種類の疾病を分類していますか？",
+            "answer": "救急簡易幇では疾病を127種に分類しています。"
+        },
+        {
+            "question": "救急簡易幇はどのような医書ですか？",
+            "answer": "救急簡易幇は疾病の治療方法を盛り込んだ医書です。"
+        },
+        {
+            "question": "救急簡易幇はどのような資料と評価されていますか？",
+            "answer": "救急簡易幇は漢方医学だけでなく、国語研究にも重要な資料と評価されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 180,
+        "QA": 170
+    }
+}

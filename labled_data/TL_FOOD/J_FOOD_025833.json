@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_025833",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-01",
+        "domain": "음식점",
+        "title": "一品Garden ( 일품가든 )"
+    },
+    "text": "一品Garden \nソウル特別市 中区 西小門路 109-10\nしゃぶしゃぶと焼き肉の両方を味わえるレストランです。 ソウル特別市のジュン区に位置した韓食専門店です。代表的なメニューはしゃぶしゃぶです。",
+    "QA": [
+        {
+            "question": "一品Gardenはどこに位置していますか？",
+            "answer": "一品Gardenはソウル特別市中区西小門路109-10に位置しています。"
+        },
+        {
+            "question": "一品Gardenでは何がメインの料理を提供していますか？",
+            "answer": "一品Gardenではしゃぶしゃぶと焼き肉の両方の料理を提供しています。"
+        },
+        {
+            "question": "一品Gardenで代表的なメニューは何ですか？",
+            "answer": "一品Gardenで代表的なメニューはしゃぶしゃぶです。"
+        },
+        {
+            "question": "一品Gardenは何区に位置していますか？",
+            "answer": "一品Gardenはソウル特別市の中区に位置しています。"
+        },
+        {
+            "question": "一品Gardenで味わえる料理は何ですか？",
+            "answer": "一品Gardenで味わえる料理はしゃぶしゃぶと焼き肉の両方です。"
+        }
+    ],
+    "word_Count": {
+        "text": 74,
+        "QA": 198
+    }
+}

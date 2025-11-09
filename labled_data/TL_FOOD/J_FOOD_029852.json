@@ -1,0 +1,31 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_029852",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/vatos-itaewon",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "VATOS 梨泰院店"
+    },
+    "text": "VATOS 梨泰院店\\n\nソウル特別市 龍山区 梨泰院洞 181-8\\n\n梨泰院に位置したタコス専門のメキシカンレストラン「VATOS 梨泰院店」です。 タコスをここで直接作るLAスタイルです。",
+    "QA": [
+        {
+            "question": "VATOS 梨泰院店はどこに位置していますか？",
+            "answer": "VATOS 梨泰院店はソウル特別市 龍山区 梨泰院洞 181-8に位置しています。"
+        },
+        {
+            "question": "VATOS 梨泰院店はどのようなレストランですか？",
+            "answer": "VATOS 梨泰院店はタコス専門のメキシカンレストランで、LAスタイルでタコスを直接作ります。"
+        }
+    ],
+    "word_Count": {
+        "text": 71,
+        "QA": 99
+    }
+}

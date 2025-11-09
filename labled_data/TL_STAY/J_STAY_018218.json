@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_018218",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42020&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "통영 궁전"
+    },
+    "text": "客室に入室する際には入室基準をご確認ください。 追加で人数を入室する場合は、当日現地にて追加料金を決済する必要があります。 これは、オンシーズン、特定の日、祝日（前日を含む）にも適用されます。 入室の際には身分証明書を必ず持参してください。未成年者は入室が制限されます。 私たちは親切にお答えします。",
+    "QA": [
+        {
+            "question": "入室基準とは何ですか？",
+            "answer": "入室する際には、特定の基準があります。詳細は以下の項目をご確認ください。"
+        },
+        {
+            "question": "追加で人数を入室する場合、料金はどのように決済すればよいですか？",
+            "answer": "追加で人数を入室する場合、当日現地にて追加料金を決済する必要があります。具体的な料金については、スタッフにお尋ねください。"
+        },
+        {
+            "question": "身分証明書を持参する必要性はありますか？",
+            "answer": "はい、入室の際には必ず身分証明書を持参してください。未成年者の入室は制限される場合がありますので、ご了承ください。"
+        },
+        {
+            "question": "親切にお答えしますとは具体的にどういう意味ですか？",
+            "answer": "私たちはお客様の質問や要望に対して親切にお答えします。可能な限りお客様の満足度を高めるよう努めています。"
+        }
+    ],
+    "word_Count": {
+        "text": 110,
+        "QA": 215
+    }
+}

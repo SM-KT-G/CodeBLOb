@@ -1,0 +1,31 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001926",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2020-12-07",
+        "domain": "음식점",
+        "title": "Nenechicken 下塘( 네네치킨 하당 )"
+    },
+    "text": "Nenechicken 下塘( 네네치킨 하당 )\\n\n全羅南道 モクポ市 ベクニョンデロ297ボンギル12-2\\n\nフュージョンチキン料理が味わえる店です。全羅南道のモクポ市に位置した韓食専門店です。おすすめはチキンです。",
+    "QA": [
+        {
+            "question": "モクポ市にあるNenechicken 下塘はどんな店ですか？",
+            "answer": "Nenechicken 下塘はフュージョンチキン料理が味わえる韓食専門店です。"
+        },
+        {
+            "question": "Nenechicken 下塘のオススメは何ですか？",
+            "answer": "Nenechicken 下塘のオススメはチキンです。"
+        }
+    ],
+    "word_Count": {
+        "text": 82,
+        "QA": 88
+    }
+}

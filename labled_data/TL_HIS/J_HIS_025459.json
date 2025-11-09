@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_025459",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2017-01-26",
+        "domain": "문화/역사관광",
+        "title": "栄州 豆世界科学館（영주 콩세계 과학관）"
+    },
+    "text": "栄州 豆世界科学館\n慶尚北道 栄州市 浮石面 永浮路 23\n栄州は豆の主な生産地であり、この地域の浮石豆は豆の粒も大きく、味も栄養も優秀です。豆世界科学館では茹でた豆をつぶしてメジュを作ったり、スンドゥブを作ったりすることができます。",
+    "QA": [
+        {
+            "question": "栄州は何県に位置していますか？",
+            "answer": "栄州は慶尚北道に位置しています。"
+        },
+        {
+            "question": "栄州の豆の特徴は何ですか？",
+            "answer": "栄州の豆は浮石豆と呼ばれ、豆の粒が大きく、味も栄養も優れています。"
+        },
+        {
+            "question": "豆世界科学館では何ができますか？",
+            "answer": "豆世界科学館では茹でた豆をつぶしてメジュを作ったり、スンドゥブを作ったりすることができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 85,
+        "QA": 101
+    }
+}

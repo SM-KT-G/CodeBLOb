@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_018129",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=126&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=10860000&ccbaCtcd=11&ccbaCpno=1121110860000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1991-09-30",
+        "domain": "문화/역사관광",
+        "title": "벽역신방"
+    },
+    "text": "碧逆神房 (벽역신방)\\n\nソウル冠岳区冠岳路1,103号棟ソウル大学奎章閣韓国学研究院(新林洞、ソウル大学)\\n\n宝物 , 1613年(光海君5)にホ·ジュン(1546~1615)が編纂した医書である。 朝鮮中期に唐紅疫または唐毒疫と呼ばれる伝染病が大流行すると、光海君がホ·ジュンにこれに対する対策を立てるよう指示した。 タンドクえきは、今のソンホンヨルにあたる伝染病である。 王命を受けた許浚は、内科医とともに伝染病の原因と流行状況などを把握した後、疫病の診断および治療法、予防法、薬方などを整理して本書を編纂した。 この本は現在も漢方で猩紅熱の予防および治療に活用されている。 奎章閣には3種の『碧逆神房』が所蔵されているが、全て同じ版本であり、本の表紙裏面の内賜記を通じて各々太白山寺庫、五台山寺庫、教書館などで保管していた本だったことが分かる。",
+    "QA": [
+        {
+            "question": "碧逆神房はいつ、誰によって編纂されましたか？",
+            "answer": "碧逆神房は光海君5年（1613年）にホ・ジュンによって編纂されました。"
+        },
+        {
+            "question": "碧逆神房は何のために編纂されましたか？",
+            "answer": "碧逆神房は唐紅疫（タンドクえき）と呼ばれる伝染病に対する対策を立てるために編纂されました。"
+        },
+        {
+            "question": "碧逆神房はどのように活用されていますか？",
+            "answer": "現在でも碧逆神房は漢方で猩紅熱の予防および治療に活用されています。"
+        },
+        {
+            "question": "碧逆神房は奎章閣にどのように所蔵されていますか？",
+            "answer": "奎章閣には3種の『碧逆神房』が所蔵されており、全て同じ版本であります。"
+        },
+        {
+            "question": "碧逆神房はどこで保管されていた本だったことが分かりますか？",
+            "answer": "碧逆神房の本の表紙裏面の内賜記を通じて、太白山寺庫、五台山寺庫、教書館などで保管されていたことが分かります。"
+        }
+    ],
+    "word_Count": {
+        "text": 277,
+        "QA": 231
+    }
+}

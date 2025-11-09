@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_030534",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101933",
+        "collectedDate": "2023-10-06",
+        "publishedDate": "2020-01-01",
+        "domain": "자연관광",
+        "title": "남해 물건리 방조어부림"
+    },
+    "text": "南海勿巾里防潮魚林 \\n\n南海勿里防潮魚の浮き林は大韓民国慶尚南道南海郡三東面勿里にある天然記念物だ。 この森の長さは1500mで幅は30mだ。 森は海を前にして後方には農耕地が広く位置している。 この森は1640年頃、全州イ氏の子孫など村の住民たちが植えたものだ。 森が陰を作って魚を呼び込む漁夫林の役割をする。\\n\n",
+    "QA": [
+        {
+            "question": "この浮き林はどこにありますか？",
+            "answer": "この浮き林は大韓民国慶尚南道南海郡三東面勿里にあります。"
+        },
+        {
+            "question": "浮き林の長さと幅は何ですか？",
+            "answer": "浮き林の長さは1500mで、幅は30mです。"
+        },
+        {
+            "question": "この浮き林はいつ作られましたか？",
+            "answer": "この浮き林は1640年頃に作られました。"
+        },
+        {
+            "question": "なぜこの浮き林が作られたのですか？",
+            "answer": "この浮き林は漁夫林として魚を呼び込むために作られました。"
+        },
+        {
+            "question": "この浮き林の役割は何ですか？",
+            "answer": "この浮き林は陰を作って魚を呼び込む漁夫林の役割をしています。"
+        }
+    ],
+    "word_Count": {
+        "text": 117,
+        "QA": 149
+    }
+}

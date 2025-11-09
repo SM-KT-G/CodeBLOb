@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_001523",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://apis.data.go.kr/1400000/service/cultureInfoService2/mntInfoOpenAPI2",
+        "collectedDate": "2023-11-22",
+        "publishedDate": "2020-12-01",
+        "domain": "자연관광",
+        "title": "갈미봉"
+    },
+    "text": "カルミ棒 (갈미봉)\\n\n全羅南道光陽市進相面魚峙里\\n\n白頭山を後にして歩いてみると、右側に億仏峰が手に届くように位置しており、左側遠くに名山智異山が居心地よく見え、足元の左側には蟾津江が悠々と流れており、遠く前方には南海を眺めながら山登りをするのに退屈がない。",
+    "QA": [
+        {
+            "question": "カルミ棒はどこに位置していますか？",
+            "answer": "カルミ棒は全羅南道光陽市進相面魚峙里に位置しています。"
+        },
+        {
+            "question": "億仏峰はどの方向に位置していますか？",
+            "answer": "億仏峰はカルミ棒の右側にあります。"
+        },
+        {
+            "question": "智異山はどの方向に位置していますか？",
+            "answer": "智異山はカルミ棒の左側に遠くに見えます。"
+        },
+        {
+            "question": "蟾津江はどのように流れていますか？",
+            "answer": "蟾津江はカルミ棒の足元の左側を悠々と流れています。"
+        },
+        {
+            "question": "南海を眺めながら山登りをすることができますか？",
+            "answer": "はい、カルミ棒からは南海を眺めながら山登りをすることができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 96,
+        "QA": 156
+    }
+}

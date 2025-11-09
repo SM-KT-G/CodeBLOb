@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_012012",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2020-12-04",
+        "domain": "음식점",
+        "title": "ハルメスンデ 平沢古徳( 할매순대 평택고덕 )"
+    },
+    "text": "ハルメスンデ 平沢古徳( 할매순대 평택고덕 )\\n\n京畿道 平沢市 京畿大路 987-1\\n\n濃いスープのおいしいスンデグックを提供する店です。 代表的なメニューはスンデグックです。京畿道のピョンテク市に位置した韓国料理店です。",
+    "QA": [
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "平沢市の京畿大路987-1にあります。"
+        },
+        {
+            "question": "この店の特徴的なメニューは何ですか？",
+            "answer": "代表的なメニューはスンデグックです。"
+        },
+        {
+            "question": "この店のスンデグックはどんな味ですか？",
+            "answer": "濃いスープのおいしいスンデグックです。"
+        },
+        {
+            "question": "この店はどのような料理店ですか？",
+            "answer": "韓国料理店です。"
+        },
+        {
+            "question": "この店はどの市に位置していますか？",
+            "answer": "ピョンテク市に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 84,
+        "QA": 118
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_030314",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42010&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "가평 아제로스펜션"
+    },
+    "text": "アゼロスペンションは家族連れのお客様のために特化したペンションで、清平渓谷、アリムゴヨ樹木園、カピョンの四季ソリ場が近くに位置しており、様々な楽しみどころが周辺にあります。 このペンションは周辺環境がとても静かで静かで休息を取るのにもってこいです。 また、ペンション運営のためお客様に22時以降に入室される場合、予めご連絡ください。",
+    "QA": [
+        {
+            "question": "アゼロスペンションはどんなお客様におすすめですか？",
+            "answer": "アゼロスペンションは家族連れのお客様に特化したペンションで、清平渓谷、アリムゴヨ樹木園、カピョンの四季ソリ場など周辺の観光スポットがあります。"
+        },
+        {
+            "question": "アゼロスペンションの周辺にはどんな楽しみどころがありますか？",
+            "answer": "アゼロスペンションの周辺には清平渓谷、アリムゴヨ樹木園、カピョンの四季ソリ場などがあります。"
+        },
+        {
+            "question": "アゼロスペンションはどんな環境ですか？",
+            "answer": "アゼロスペンションは周辺環境が静かで、休息にぴったりの場所です。"
+        },
+        {
+            "question": "アゼロスペンションに22時以降に入室する場合はどうすればいいですか？",
+            "answer": "アゼロスペンションではペンション運営の都合上、22時以降に入室する場合は事前にご連絡ください。"
+        }
+    ],
+    "word_Count": {
+        "text": 121,
+        "QA": 222
+    }
+}

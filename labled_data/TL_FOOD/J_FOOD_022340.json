@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_022340",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/restaurants-sanha",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "山河"
+    },
+    "text": "山河\\n\nソウル市ヨンドゥンポグヨイデバンロ383 )\\n\nマンドゥ(餃子)で有名なところ。野菜が多く入った北朝鮮の黄海道(ファンフェド)式のマンドゥを味わうことができる。価格帯は若干高めだが、並ばなくてはいけないほどの人気店だ。 ​",
+    "QA": [
+        {
+            "question": "このお店はどこにありますか？",
+            "answer": "ソウル市ヨンドゥンポグヨイデバンロ383にあります。"
+        },
+        {
+            "question": "このお店では何が有名ですか？",
+            "answer": "このお店はマンドゥ(餃子)が有名です。"
+        },
+        {
+            "question": "このお店の特徴は何ですか？",
+            "answer": "このお店では北朝鮮の黄海道(ファンフェド)式のマンドゥを味わうことができます。"
+        },
+        {
+            "question": "このお店の価格帯はどうですか？",
+            "answer": "若干高めですが、人気店のため並ばなくてはいけません。"
+        }
+    ],
+    "word_Count": {
+        "text": 85,
+        "QA": 121
+    }
+}

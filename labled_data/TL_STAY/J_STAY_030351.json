@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_030351",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.booking.com/hotel/kr/yeosu-south-bada.ko.html",
+        "collectedDate": "2023-11-17",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "여수 남쪽바다"
+    },
+    "text": "麗水の南の海は麗水内に位置し、麗水南面安藤海水浴場キル20番地にあります。 ここに泊まってみてください。 最寄りの空港は64km離れた麗水空港です。 麗水の中心部からは32km離れており、これは直線距離を基準にしたもので、実際に移動する際には異なる場合があります。 チェックインは午後3時から始まり、チェックアウトは午前11時までです。",
+    "QA": [
+        {
+            "question": "麗水南面安藤海水浴場は何番地ですか？",
+            "answer": "麗水南面安藤海水浴場はキル20番地にあります。"
+        },
+        {
+            "question": "最寄りの空港はどこですか？",
+            "answer": "最寄りの空港は麗水空港です。"
+        },
+        {
+            "question": "麗水の中心部から海までの距離はどのくらいですか？",
+            "answer": "麗水の中心部から海までの直線距離は32kmです。"
+        },
+        {
+            "question": "チェックインとチェックアウトの時間は何時ですか？",
+            "answer": "チェックインは午後3時から、チェックアウトは午前11時までです。"
+        }
+    ],
+    "word_Count": {
+        "text": 123,
+        "QA": 126
+    }
+}

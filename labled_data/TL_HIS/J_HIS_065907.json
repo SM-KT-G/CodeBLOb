@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_065907",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/view?relicId=217219",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "민무늬 토기 조각"
+    },
+    "text": "無紋土器片 (민무늬 토기 조각)\\n\nこの壺は、韓国の新石器時代に使用されたもので、土で作られています。材質は軟質で、食生活の一環として使用され、保存や運搬に役立っていました。現在の長さは3.9cmで、厚さは1.0cmです。それに加えて、現在の長さ11.2cm、厚さ1.0cm、現在長さ6.4cm、厚さ1.0cmといったサイズもあります。",
+    "QA": [
+        {
+            "question": "この壺は何時代に使用されたものですか？",
+            "answer": "この壺は韓国の新石器時代に使用されたものです。"
+        },
+        {
+            "question": "この壺は何の材質で作られていますか？",
+            "answer": "この壺は土で作られています。"
+        },
+        {
+            "question": "この壺はどのように使用されましたか？",
+            "answer": "この壺は食生活の一環として使用され、保存や運搬に役立っていました。"
+        },
+        {
+            "question": "現在の壺の長さと厚さはどれくらいですか？",
+            "answer": "現在の壺の長さは3.9cmで、厚さは1.0cmです。"
+        },
+        {
+            "question": "他にどんなサイズの壺がありますか？",
+            "answer": "他に現在の長さ11.2cm、厚さ1.0cmの壺や、現在の長さ6.4cm、厚さ1.0cmの壺もあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 124,
+        "QA": 175
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_061349",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://kr.hotels.com/ho2016430304/golden-business-hotel-seosan-hangug/?chkin=2023-11-14&chkout=2023-11-15&x_pwa=1&rfrr=HSR&pwa_ts=1698811114441&referrerUrl=aHR0cHM6Ly9rci5ob3RlbHMuY29tL0hvdGVsLVNlYXJjaA%3D%3D&useRewards=false&rm1=a2&regionId=6127349&destination=%ED%8F%89%ED%83%9D%2C+%EA%B2%BD%EA%B8%B0%2C+%ED%95%9C%EA%B5%AD&destType=MARKET&latLong=37.009255%2C126.982151&sort=RECOMMENDED&top_dp=61815&top_cur=KRW&userIntent=&selectedRoomType=228359470&selectedRatePlan=262382780&expediaPropertyId=62982197&searchId=30a15986-70f0-4158-a472-a300442a7d10",
+        "collectedDate": "2023-11-15",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "Golden Business Hotel"
+    },
+    "text": "\"Golden Business Hotel\\n\n大韓民国忠清南道瑞山市大山邑忠義路1926\\n\n瑞山に位置するGolden Business Hotelで快適で心地よい宿泊をお楽しみいただけます。 こちらではWiFiやセルフ駐車の無料特典をご利用いただけます。 その他のアメニティとサービスにはスナックバー/デリーおよびテラスもあります。 , ホテルのサイズ:40個客室、チェックイン開始時間:15:00、チェックイン終了時間:いつでもチェックアウト時間:11:00、旅行に関する制限事項:新型コロナウイルス感染症に関する制限事項をご確認ください。 , 特別チェックインのご案内:到着時にフロントデスクのスタッフがお手伝いいたします。 , チェックインの際に必要な事項:付帯費用に備えてクレジットカード、デビットカードまたは現金保証金が必要な写真が貼られた政府発行身分証明書が必要なことがある、ペット:ペット同伴不可、障害者案内ペット同伴可能、インターネット:共用エリアで無料WiFi提供客室内に無料WiFi、駐車案内:無料施設内にセルフ駐車(屋根付き)無料24時間宿泊施設外部駐車(100m以内)路上駐車可能、その他:禁煙施設」",
+    "QA": [
+        {
+            "question": "ホテルの名前は何ですか？",
+            "answer": "Golden Business Hotel"
+        },
+        {
+            "question": "ホテルの場所はどこですか？",
+            "answer": "大韓民国忠清南道瑞山市大山邑忠義路1926"
+        },
+        {
+            "question": "ホテルで利用できる無料特典は何ですか？",
+            "answer": "WiFiやセルフ駐車が利用できます"
+        },
+        {
+            "question": "ホテルには何個の客室がありますか？",
+            "answer": "40個の客室があります"
+        },
+        {
+            "question": "チェックインの開始時間は何時ですか？",
+            "answer": "15:00"
+        },
+        {
+            "question": "チェックアウトの時間は何時ですか？",
+            "answer": "11:00"
+        },
+        {
+            "question": "ホテル内にはどのようなアメニティとサービスがありますか？",
+            "answer": "スナックバー/デリーおよびテラスがあります"
+        },
+        {
+            "question": "ペットを連れて行くことはできますか？",
+            "answer": "ペット同伴不可です"
+        },
+        {
+            "question": "駐車場はありますか？",
+            "answer": "無料施設内にセルフ駐車(屋根付き)や24時間宿泊施設外部駐車が可能です"
+        },
+        {
+            "question": "禁煙施設ですか？",
+            "answer": "禁煙施設です"
+        }
+    ],
+    "word_Count": {
+        "text": 378,
+        "QA": 228
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_002011",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.goodchoice.kr/product/detail?ano=52763&adcno=1&sel_date=2023-11-06&sel_date2=2023-11-07",
+        "collectedDate": "2023-11-15",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "외대 LIFE HOTEL RAHA"
+    },
+    "text": "Netflix、ティービング、アップル、YouTubeまでテレビで無限視聴が楽しめる客室です。 駐車場は狭いため、車での駐車が不可能な場合があります。 土日祝日、特定日には追加料金が発生する場合があり、車両を利用した連泊予約は業者の都合により予約がキャンセルされる場合がありますのでご了承ください。 1号線の新耳門駅と外大前駅が最寄りの地下鉄駅です。",
+    "QA": [
+        {
+            "question": "この客室では何が楽しめますか？",
+            "answer": "Netflix、ティービング、アップル、YouTubeなど、テレビで無限視聴が楽しめます。"
+        },
+        {
+            "question": "駐車場はありますか？",
+            "answer": "駐車場は狭いため、車での駐車が不可能な場合があります。"
+        },
+        {
+            "question": "特定の日には追加料金が発生することがありますか？",
+            "answer": "土日祝日や特定の日には追加料金が発生する場合があります。"
+        },
+        {
+            "question": "連泊予約は可能ですか？",
+            "answer": "車両を利用した連泊予約は業者の都合によりキャンセルされる場合がありますので、ご了承ください。"
+        },
+        {
+            "question": "最寄りの地下鉄駅はどこですか？",
+            "answer": "1号線の新耳門駅と外大前駅が最寄りの地下鉄駅です。"
+        }
+    ],
+    "word_Count": {
+        "text": 128,
+        "QA": 180
+    }
+}

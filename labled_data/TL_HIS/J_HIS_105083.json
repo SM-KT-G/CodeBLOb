@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_105083",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=102&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=08130000&ccbaCtcd=11&ccbaCpno=1121108130000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1985-01-08",
+        "domain": "문화/역사관광",
+        "title": "창덕궁 인정문"
+    },
+    "text": "昌徳宮認定門\\n\nソウル鍾路区栗谷路99、昌徳宮(臥龍洞)\\n\n朝鮮純祖(スンジョ)4年(1804)、宝物、インチョンムンは昌徳宮の中心建物の仁政殿の正門だ。孝宗・顕宗・粛宗・英祖(ヨンジョ)など、朝鮮王朝の様々な賃金がここで即位式を挙行して王位に上った。建物は前面3間・側面2間規模であり、屋根は側面から見ると、八(八部)の字の形をした入母屋屋根である。軒を支えようと装飾して作った恐怖は柱と柱の間にもあるダポ様式にした。建物の内側の天井は天井材料が素通しの提灯天井であり、丹青は最も素朴に飾った。王位を受け継ぐ儀式が行われた場所であり、正殿の仁政殿とともに朝鮮王朝の宮殿の威厳と格式を最もよく保存している建築物だ。...",
+    "QA": [
+        {
+            "question": "昌徳宮の正門の名前は何ですか？",
+            "answer": "インチョンムンです。"
+        },
+        {
+            "question": "正門の建物の規模はどのくらいですか？",
+            "answer": "前面3間・側面2間です。"
+        },
+        {
+            "question": "正門の屋根の形は何ですか？",
+            "answer": "八(八部)の字の形をした入母屋屋根です。"
+        },
+        {
+            "question": "正門の柱と柱の間にある恐怖は何ですか？",
+            "answer": "ダポ様式です。"
+        },
+        {
+            "question": "正門の建物内の天井はどのような構造ですか？",
+            "answer": "天井材料が素通しの提灯天井です。"
+        },
+        {
+            "question": "どのような儀式が正門で行われたのですか？",
+            "answer": "王位を受け継ぐ儀式が行われました。"
+        }
+    ],
+    "word_Count": {
+        "text": 228,
+        "QA": 137
+    }
+}

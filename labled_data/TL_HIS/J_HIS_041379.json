@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_041379",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101933",
+        "collectedDate": "2023-10-06",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "DCF대명문화공장"
+    },
+    "text": "DCFテミョンムンファゴンジャン\\n\nDCF大明文化コンジャンヌンソウル特別市鍾路区東崇洞に位置した劇場だ。2014年3月1日に開館した。座席数406 1管ビバルディパークホールの座席数300 2管ライフウェイホールの座席数257 3管スチョ・ヒョンジェ劇場がいる。",
+    "QA": [
+        {
+            "question": "この劇場はいつ開館しましたか？",
+            "answer": "2014年3月1日に開館しました。"
+        },
+        {
+            "question": "この劇場はどこに位置していますか？",
+            "answer": "この劇場はソウル特別市鍾路区東崇洞に位置しています。"
+        },
+        {
+            "question": "この劇場には何種類の座席がありますか？",
+            "answer": "この劇場には3種類の座席があります。1管ビバルディパークホールの座席数は300、2管ライフウェイホールの座席数は257、3管スチョ・ヒョンジェ劇場の座席数は406です。"
+        }
+    ],
+    "word_Count": {
+        "text": 97,
+        "QA": 130
+    }
+}

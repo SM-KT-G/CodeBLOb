@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_088962",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/collectionList#######",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2023-10-11",
+        "domain": "문화/역사관광",
+        "title": "약봉 조각"
+    },
+    "text": "薬棒切れ (약봉 조각)\\n\n左側の彫刻の胴体には、陰刻された「子夫」という文字があります。この彫刻は、韓国の高麗時代の作品であり、材料は白磁の陶磁器です。この彫刻は、伝統科学の一環として医療や製薬、薬研に関連しています。現在の長さは9.0cmと8.4cmです。",
+    "QA": [
+        {
+            "question": "この彫刻の材料は何ですか？",
+            "answer": "陶磁器"
+        },
+        {
+            "question": "この彫刻の作品はどの時代のものですか？",
+            "answer": "高麗時代"
+        },
+        {
+            "question": "彫刻の長さは何センチですか？",
+            "answer": "9.0cmと8.4cm"
+        },
+        {
+            "question": "彫刻に彫られた文字は何ですか？",
+            "answer": "「子夫」"
+        },
+        {
+            "question": "この彫刻はどんな科学の一環として関連していますか？",
+            "answer": "伝統科学の一環として医療や製薬、薬研に関連しています"
+        }
+    ],
+    "word_Count": {
+        "text": 96,
+        "QA": 98
+    }
+}

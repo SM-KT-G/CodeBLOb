@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_002958",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-08-31",
+        "domain": "음식점",
+        "title": "イルソンカルグクス（일송칼국수）"
+    },
+    "text": "イルソンカルグクス（일송칼국수）\\n\nソウル特別市 鐘路区 成均館路 44\\n\nこの店はソウル特別市のジョンノ区に位置した韓国料理店です。リーズナブルな価格のお店です。代表的なメニューはアサリカルグクスです。",
+    "QA": [
+        {
+            "question": "イルソンカルグクス（일송칼국수）はどこに位置していますか？",
+            "answer": "イルソンカルグクス（일송칼국수）はソウル特別市のジョンノ区に位置しています。"
+        },
+        {
+            "question": "イルソンカルグクス（일송칼국수）の代表的なメニューは何ですか？",
+            "answer": "イルソンカルグクス（일송칼국수）の代表的なメニューはアサリカルグクスです。"
+        },
+        {
+            "question": "イルソンカルグクス（일송칼국수）の価格帯はどのくらいですか？",
+            "answer": "イルソンカルグクス（일송칼국수）はリーズナブルな価格設定です。"
+        }
+    ],
+    "word_Count": {
+        "text": 76,
+        "QA": 143
+    }
+}

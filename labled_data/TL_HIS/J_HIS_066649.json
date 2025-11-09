@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_066649",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2022-11-23",
+        "domain": "문화/역사관광",
+        "title": "반야사(논산)"
+    },
+    "text": "一目に見える。洞窟の法堂で下がりかねない道があって、夏は涼しくて冬は暖かな元気が出る。以前は石灰を採掘する鉱山で使われたりもした。華麗な照明とともに法堂と三神が祀られたところ、小さな池がある。",
+    "QA": [
+        {
+            "question": "この洞窟の法堂は何のために使われていましたか？",
+            "answer": "以前は石灰を採掘する鉱山で使われました。"
+        },
+        {
+            "question": "洞窟の法堂はどの季節に特に快適ですか？",
+            "answer": "夏は涼しくて冬は暖かいため、どの季節でも快適です。"
+        },
+        {
+            "question": "洞窟の法堂には何が祀られていますか？",
+            "answer": "法堂には三神が祀られています。"
+        },
+        {
+            "question": "洞窟の法堂には何があるのですか？",
+            "answer": "洞窟の法堂には華麗な照明と小さな池があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 70,
+        "QA": 116
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_062902",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/view?relicId=215772",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "뚜껑 있는 굽다리 접시"
+    },
+    "text": "蓋付きの高杯 (뚜껑 있는 굽다리 접시)\\n\nこの祭器は、韓国の統一新羅時代に使われたもので、材質は土で作られています。社会生活の中で儀式や祭りの場で使用されたもので、その大きさは高さ4.8cm、直径13.5cm、またもう一つは高さ6.8cm、直径13.5cmです。",
+    "QA": [
+        {
+            "question": "この祭器はどの時代に使われたものですか？",
+            "answer": "統一新羅時代に使われたものです。"
+        },
+        {
+            "question": "この祭器はどのような材料で作られていますか？",
+            "answer": "土で作られています。"
+        },
+        {
+            "question": "この祭器はどのような場で使用されましたか？",
+            "answer": "儀式や祭りの場で使用されました。"
+        },
+        {
+            "question": "この祭器の大きさはいくつですか？",
+            "answer": "高さ4.8cm、直径13.5cmと高さ6.8cm、直径13.5cmの2つがあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 98,
+        "QA": 119
+    }
+}

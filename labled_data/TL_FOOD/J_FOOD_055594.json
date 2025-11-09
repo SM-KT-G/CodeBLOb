@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_055594",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/mihyang",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "ミヒャン"
+    },
+    "text": "ミヒャン\\n\n世宗特別自治市 鳥致院邑 文化4キル 1 )\\n\n広い店内と快適な施設の海鮮料理店。質の良い海産物のみを厳選し、海鮮料理20年の経歴を持つ料理長が作るヘムルチム（海鮮の蒸し物）の専門店です。",
+    "QA": [
+        {
+            "question": "この海鮮料理店はどこにありますか？",
+            "answer": "この海鮮料理店は世宗特別自治市鳥致院邑の文化4キルにあります。"
+        },
+        {
+            "question": "この店の特徴は何ですか？",
+            "answer": "この店は広い店内と快適な施設を備えており、海鮮料理20年の経験を持つ料理長が作るヘムルチム（海鮮の蒸し物）の専門店です。"
+        },
+        {
+            "question": "この店では何を提供していますか？",
+            "answer": "この店では質の良い海産物を厳選して提供しています。特にヘムルチムがおすすめです。"
+        }
+    ],
+    "word_Count": {
+        "text": 74,
+        "QA": 129
+    }
+}

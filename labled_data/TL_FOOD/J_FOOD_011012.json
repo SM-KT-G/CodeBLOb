@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_011012",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-09-01",
+        "domain": "음식점",
+        "title": "ナクウォンビンデトク（낙원빈대떡）"
+    },
+    "text": "ナクウォンビンデトク（낙원빈대떡）\\n\nソウル特別市 鐘路区 水標路22キル 3\\n\nこの店はソウル特別市のチョンノに位置した韓国料理店です。楽園商店街の近くに位置した老舗飲食店です。代表的なメニューは緑豆のピンデトクです。",
+    "QA": [
+        {
+            "question": "ナクウォンビンデトクはどこに位置していますか？",
+            "answer": "ナクウォンビンデトクはソウル特別市のチョンノに位置しています。"
+        },
+        {
+            "question": "ナクウォンビンデトクはどのような料理店ですか？",
+            "answer": "ナクウォンビンデトクは韓国料理店です。"
+        },
+        {
+            "question": "ナクウォンビンデトクの代表的なメニューは何ですか？",
+            "answer": "ナクウォンビンデトクの代表的なメニューは緑豆のピンデトクです。"
+        }
+    ],
+    "word_Count": {
+        "text": 82,
+        "QA": 111
+    }
+}

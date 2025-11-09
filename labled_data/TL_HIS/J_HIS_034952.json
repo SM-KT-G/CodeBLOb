@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_034952",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=172&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=15890000&ccbaCtcd=11&ccbaCpno=1121115890000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2008-12-22",
+        "domain": "문화/역사관광",
+        "title": "호서지도"
+    },
+    "text": "湖西地図 (호서지도)\\n\nソウル冠岳区冠岳路1,103洞ソウル大学奎章閣韓国学研究院(新林洞、ソウル大学)\\n\n18世紀 , 宝物 , 朝鮮後期の忠清道地域の郡県地図を収録した地図帳だ。 彩色筆写本であり、英祖~正祖の年間に製作されたものと推定される。 第3冊の忠清道道地図と第5冊の文義地図の裏面に「備辺司」という印が押されており、備辺で所蔵して使用していた地図であることが分かる。 地図帳は計6冊で構成されており、2枚の忠清道全図と67枚の郡県地図が収録されている。 郡県地図は1里方眼、道別地図は10里方眼の目盛りの上に描かれている。 一方、第4冊の12枚と第6冊の16枚など一部地図は方案地図ではなく伝統的な絵画式郡県地図の形式を取っている。 地図余白の注記には、京都との距離、民号、男女人口数、田畑の面積、細谷、郡丁、倉庫、駅站、津渡、面里などの詳しい情報が記録されている。 中央政府が地方の実情把握のために一括的に製作した非弁士地図で、学術的価値が高い。",
+    "QA": [
+        {
+            "question": "この地図帳は何世紀に作られましたか？",
+            "answer": "この地図帳は18世紀に作られました。"
+        },
+        {
+            "question": "この地図帳にはどのような地図が収録されていますか？",
+            "answer": "この地図帳には、忠清道全図が2枚と郡県地図が67枚収録されています。"
+        },
+        {
+            "question": "地図帳の裏面にはどのような印が押されていましたか？",
+            "answer": "地図帳の裏面には「備辺司」という印が押されていました。"
+        },
+        {
+            "question": "地図帳の注記にはどのような情報が記録されていましたか？",
+            "answer": "地図帳の注記には、京都との距離、民号、男女人口数、田畑の面積、細谷、郡丁、倉庫、駅站、津渡、面里などの詳しい情報が記録されていました。"
+        },
+        {
+            "question": "この地図帳はどのような目的で作られたものですか？",
+            "answer": "この地図帳は中央政府が地方の実情把握のために作られた非弁士地図です。"
+        }
+    ],
+    "word_Count": {
+        "text": 318,
+        "QA": 219
+    }
+}

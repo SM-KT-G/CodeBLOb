@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_002002",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2020-12-08",
+        "domain": "음식점",
+        "title": "Pho Bay( 포베이 당산 )"
+    },
+    "text": "Pho Bay( 포베이 당산 )\\n\nソウル特別市 ヨンドゥンポ区 ダンサンロ35ギル1\\n\nベトナムのフォーだけでなくタイ料理も味わえます。ソウル特別市のヨンドゥンポ区に位置したフォー専門店です。おすすめはフォーです。",
+    "QA": [
+        {
+            "question": "このお店はどこにありますか？",
+            "answer": "ソウル特別市のヨンドゥンポ区のダンサンロ35ギル1にあります。"
+        },
+        {
+            "question": "どんな料理がありますか？",
+            "answer": "ベトナムのフォーとタイ料理があります。"
+        },
+        {
+            "question": "おすすめの料理は何ですか？",
+            "answer": "おすすめはフォーです。"
+        }
+    ],
+    "word_Count": {
+        "text": 81,
+        "QA": 73
+    }
+}

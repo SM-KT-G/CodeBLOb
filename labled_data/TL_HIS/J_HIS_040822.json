@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_040822",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/collectionList#######",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "\"천\"글자 수키와 조각"
+    },
+    "text": "「天」文字の平瓦片 ( \"천\"글자 수키와 조각)\\n\n瓦には、魚骨文と「天」の文字が美しく刻まれています。 この瓦の国籍と時代は韓国の高麗時代であり、材質は土で作られており、非常に硬く丈夫です。 この瓦は主に生活の一部として使用され、建築において屋根材として用いられています。 現在の瓦の大きさは、幅110cmと長さ214cm、幅82cmと長さ108cmです。",
+    "QA": [
+        {
+            "question": "この瓦はどの国の時代のものですか？",
+            "answer": "この瓦は韓国の高麗時代のものです。"
+        },
+        {
+            "question": "この瓦はどの材料で作られていますか？",
+            "answer": "この瓦は土で作られています。"
+        },
+        {
+            "question": "この瓦はどのように使用されていますか？",
+            "answer": "この瓦は主に屋根材として使用されています。"
+        },
+        {
+            "question": "現在の瓦の大きさはどれくらいですか？",
+            "answer": "現在の瓦の大きさは幅110cmと長さ214cm、幅82cmと長さ108cmです。"
+        }
+    ],
+    "word_Count": {
+        "text": 132,
+        "QA": 120
+    }
+}

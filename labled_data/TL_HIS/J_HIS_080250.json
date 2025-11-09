@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_080250",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1203&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=79&ccbaAsno=01560000&ccbaCtcd=50&ccbaCpno=4413901560000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2005-04-15",
+        "domain": "문화/역사관광",
+        "title": "서귀포 천제연 관개수로"
+    },
+    "text": "1908年に建てられた国家登録文化財である施設物は済州島の農業用水不足問題を解決するために作られた2kmの長距離灌漑水だ。この施設物は天帝淵滝の落水が流れるように天然岩盤地形を掘って作られて稲作に不向きな済州島の自然環境を克服した。この農業用水の施設によって天帝淵一帯231,000㎡の不毛の地に美田に変貌したが、施工過程において済州道民の大きな犠牲があった。この施設物は、済州道民たちの生活と農業環境を伝えてくれる重要な施設物だ。",
+    "QA": [
+        {
+            "question": "この施設物はいつ建てられましたか？",
+            "answer": "1908年に建てられました。"
+        },
+        {
+            "question": "なぜこの施設物が作られたのですか？",
+            "answer": "済州島の農業用水不足問題を解決するために作られました。"
+        },
+        {
+            "question": "この施設物はどのようにして作られたのですか？",
+            "answer": "天帝淵滝の落水が流れるように天然岩盤地形を掘って作られました。"
+        },
+        {
+            "question": "この農業用水の施設によって何が変わったのですか？",
+            "answer": "231,000㎡の不毛の地が美田に変貌し、済州島の自然環境を克服しました。"
+        },
+        {
+            "question": "施工過程において何が起こったのですか？",
+            "answer": "施工過程において済州道民の大きな犠牲がありました。"
+        },
+        {
+            "question": "なぜこの施設物は済州道民の生活と農業環境を伝えてくれる重要な施設物なのですか？",
+            "answer": "この施設物は済州道民たちの生活と農業環境を伝えてくれる重要な施設物です。"
+        }
+    ],
+    "word_Count": {
+        "text": 158,
+        "QA": 225
+    }
+}

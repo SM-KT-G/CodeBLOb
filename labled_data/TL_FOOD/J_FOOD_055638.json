@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_055638",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-05",
+        "domain": "음식점",
+        "title": "ヨンビジプ ( 용비집 )"
+    },
+    "text": "ヨンビジプ ( 용비집 )\\n\n江原道 ガンヌン市 ナムムンギル20\\n\n韓国のグルメ番組で紹介されて好評だったコチュジャンカルグクス専門店です。江原道のガンヌン市に位置した韓食専門店です。代表的なメニューはコチュジャンカルグクスです。",
+    "QA": [
+        {
+            "question": "このレストランの場所はどこですか？",
+            "answer": "このレストランは韓国の江原道ガンヌン市のナムムンギル20に位置しています。"
+        },
+        {
+            "question": "このレストランの代表的なメニューは何ですか？",
+            "answer": "このレストランの代表的なメニューはコチュジャンカルグクスです。"
+        },
+        {
+            "question": "このレストランはどのような料理を提供していますか？",
+            "answer": "このレストランでは、韓国のグルメ番組で紹介されて好評だったコチュジャンカルグクスを専門に提供しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 86,
+        "QA": 134
+    }
+}

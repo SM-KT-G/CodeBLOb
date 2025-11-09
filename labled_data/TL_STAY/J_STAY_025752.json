@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_025752",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.goodchoice.kr/product/detail?ano=67691&adcno=1&sel_date=2023-11-07&sel_date2=2023-11-08",
+        "collectedDate": "2023-11-15",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "광양 HOTEL NEUL"
+    },
+    "text": "以下は2番の条件を満たす説明です:\"NEUL DRIVE*IN HOTELは2019年5月に新しくオープンした宿です。 連泊のお客様には土曜日と日曜日にゆっくり朝までチェックアウトできる特別な特典をご提供しています。 ただし、利用時間を超えた場合は、1時間あたり1万ウォンの追加料金がかかります。 宿の内部は常に清潔に管理されており、全客室にはNetflixを無料で視聴できる65インチの大型テレビが完備されています。 全ての客室にはウォッシュレット、ヘアドライヤー、ヘアアイロンなどの必須施設に加え、ラテックスマットレスのような高級感のあるアメニティが提供されます。 また、客室の内部には使い捨て備品も適切に備えています。 駐車場は計25台まで収容できるスペースを保有しています。 \".",
+    "QA": [
+        {
+            "question": "NEUL DRIVE*IN HOTELはいつオープンしましたか？",
+            "answer": "NEUL DRIVE*IN HOTELは2019年5月にオープンしました。"
+        },
+        {
+            "question": "連泊のお客様にはどのような特典がありますか？",
+            "answer": "連泊のお客様には土曜日と日曜日にゆっくり朝までチェックアウトできる特別な特典があります。"
+        },
+        {
+            "question": "利用時間を超えた場合の追加料金はいくらですか？",
+            "answer": "利用時間を超えた場合は、1時間あたり1万ウォンの追加料金がかかります。"
+        },
+        {
+            "question": "NEUL DRIVE*IN HOTELの客室にはどのような設備が備えられていますか？",
+            "answer": "NEUL DRIVE*IN HOTELの客室には65インチの大型テレビやウォッシュレット、ヘアドライヤー、ヘアアイロンなどの必須施設が備えられています。"
+        },
+        {
+            "question": "NEUL DRIVE*IN HOTELの客室には何人まで泊まることができますか？",
+            "answer": "NEUL DRIVE*IN HOTELの客室には最大で何人まで泊まることができますか？"
+        },
+        {
+            "question": "NEUL DRIVE*IN HOTELの駐車場は何台まで収容できますか？",
+            "answer": "NEUL DRIVE*IN HOTELの駐車場は最大で25台まで収容できます。"
+        }
+    ],
+    "word_Count": {
+        "text": 252,
+        "QA": 343
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_084990",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/view?relicId=188513",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2023-10-11",
+        "domain": "문화/역사관광",
+        "title": "수키와"
+    },
+    "text": "スッキワ (수키와)\\n\n国籍は韓国-朝鮮、時代は古いものです。材質は土で、硬質です。この土は主に建築部材として使用され、屋根材として利用されました。それはときわと呼ばれました。 この土のサイズは以下の通りです。 - 長さ135cm、幅115cm、厚さ19cm - 長さ157cm、幅102cm、厚さ28cm - 長さ143cm、幅80cm、厚さ20% - 長さ215%、幅94%、厚さ20% - 長さ115%、幅75%、厚さ20% - 長さ10%、幅79cm、厚さ160cm - 幅156cm、厚さ18cm 以上がこの土の具体的なサイズです。",
+    "QA": [
+        {
+            "question": "この土の材質は何ですか？",
+            "answer": "この土の材質は土で、硬質です。"
+        },
+        {
+            "question": "この土は主に何に使用されましたか？",
+            "answer": "この土は主に建築部材として使用され、屋根材として利用されました。"
+        },
+        {
+            "question": "ときわとは何ですか？",
+            "answer": "ときわはこの土の別名です。"
+        },
+        {
+            "question": "この土のサイズは何ですか？",
+            "answer": "この土のサイズは長さ135cm、幅115cm、厚さ19cm、長さ157cm、幅102cm、厚さ28cm、長さ143cm、幅80cm、厚さ20cm、長さ215cm、幅94cm、厚さ20cm、長さ115cm、幅75cm、厚さ20cm、長さ10cm、幅79cm、厚さ160cm、幅156cm、厚さ18cmです。"
+        }
+    ],
+    "word_Count": {
+        "text": 199,
+        "QA": 193
+    }
+}

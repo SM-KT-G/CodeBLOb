@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_015255",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=286&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=16&ccbaAsno=00270000&ccbaCtcd=50&ccbaCpno=1363900270000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1962-12-07",
+        "domain": "자연관광",
+        "title": "제주 무태장어 서식지"
+    },
+    "text": "済州ムテウナギの生息地 (제주 무태장어 서식지)\\n\n済州西帰浦市西洪洞2565\\n\nチョニョンギニョンムル , ムテウナギはウナギ科に属する熱帯性魚としてアフリカ東部から南太平洋、東南アジア、中国などにかけて広く分布し、韓国の済州道は日本の長崎と共にムテウナギが生息できる北側限界地域だ。 体長が2mまで育つ大きな魚で、体は黄褐色ないし暗青色で、腹は淡色だ。 ウナギと似ているが、暗褐色の雲模様の模様と小さな斑点が体とヒレにあるため、簡単に区別できる。 淡水で5~8年間生息し、深い海に降りて卵を産む。 済州道のムテウナギ生息地は現在、各種開発と工事による水質汚染と自然環境破壊によってムテウナギの餌になる水生昆虫や小魚が減っており、天池淵付近の海の環境が悪くなっており、ムテウナギが天池淵側に移動するのに邪魔になっている。",
+    "QA": [
+        {
+            "question": "ムテウナギはどのような魚ですか？",
+            "answer": "ムテウナギはウナギ科に属する熱帯性魚で、体長が2mまで育つ大きな魚です。体は黄褐色ないし暗青色で、腹は淡色です。"
+        },
+        {
+            "question": "ムテウナギとウナギの違いは何ですか？",
+            "answer": "ムテウナギとウナギは似ていますが、ムテウナギは暗褐色の雲模様の模様と小さな斑点が体とヒレにあります。そのため、簡単に区別することができます。"
+        },
+        {
+            "question": "ムテウナギはどこで生息していますか？",
+            "answer": "ムテウナギはアフリカ東部から南太平洋、東南アジア、中国など広範囲に分布しています。韓国の済州道は北側限界地域で、日本の長崎と共にムテウナギが生息できる地域です。"
+        },
+        {
+            "question": "ムテウナギの生息地である済州道の環境はどうなっていますか？",
+            "answer": "済州道のムテウナギ生息地は水質汚染や自然環境破壊によって影響を受けています。ムテウナギの餌になる水生昆虫や小魚が減少し、天池淵付近の海の環境が悪化しています。これがムテウナギの移動を妨げています。"
+        }
+    ],
+    "word_Count": {
+        "text": 266,
+        "QA": 282
+    }
+}

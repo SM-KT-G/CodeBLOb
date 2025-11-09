@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001994",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-08-31",
+        "domain": "음식점",
+        "title": "PAULIN PANCAKE 三淸(폴인팬케이크 삼청)"
+    },
+    "text": "PAULIN PANCAKE 三淸(폴인팬케이크 삼청)\\n\nソウル特別市 鐘路区 三清路 108\\n\nソウル特別市のチョンノに位置したカフェ（コーヒーショップ）です。代表的なメニューはパンケーキです。ここのスフレパンケーキは今韓国で人気のデザートです。",
+    "QA": [
+        {
+            "question": "パウリンパンケーキ三清はどこに位置していますか？",
+            "answer": "パウリンパンケーキ三清はソウル特別市の鐘路区三清路108に位置しています。"
+        },
+        {
+            "question": "パウリンパンケーキ三清の代表的なメニューは何ですか？",
+            "answer": "パウリンパンケーキ三清の代表的なメニューはパンケーキです。特にスフレパンケーキが人気です。"
+        },
+        {
+            "question": "スフレパンケーキはなぜ人気ですか？",
+            "answer": "スフレパンケーキは今韓国で人気のデザートです。そのふわふわした食感と美味しい味が人々を魅了しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 93,
+        "QA": 146
+    }
+}

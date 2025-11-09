@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_041417",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2018-07-19",
+        "domain": "문화/역사관광",
+        "title": "KBS済州（KBS 제주）"
+    },
+    "text": "KBS済州\n済州特別自治道 済州市 福祉路1キル 8 （道南洞）\n済州島の放送局へいらっしゃいませ  \n済州道庁前に位置するKBS済州放送総局は、満5歳以上の団体を対象に見学プログラムを実施しています。放送制作の現場を直接あるいは間接的に体験でき、放送局の一部施設を見学しさまざまな文化イベントにも参加できます。",
+    "QA": [
+        {
+            "question": "KBS済州放送総局はどこにありますか？",
+            "answer": "KBS済州放送総局は済州特別自治道済州市福祉路1キル8（道南洞）に位置しています。"
+        },
+        {
+            "question": "KBS済州放送総局では何歳以上の団体が見学プログラムを受けることができますか？",
+            "answer": "KBS済州放送総局では満5歳以上の団体が見学プログラムを受けることができます。"
+        },
+        {
+            "question": "KBS済州放送総局の見学プログラムでは何を体験することができますか？",
+            "answer": "KBS済州放送総局の見学プログラムでは、放送制作の現場を直接あるいは間接的に体験することができます。また、放送局の一部施設を見学したり、さまざまな文化イベントに参加したりすることもできます。"
+        }
+    ],
+    "word_Count": {
+        "text": 114,
+        "QA": 195
+    }
+}

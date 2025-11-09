@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_022927",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42060&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "태안 안면도별이보이는펜션(조식제공)"
+    },
+    "text": "星が見えるペンションは客室ごとに空と接する窓があり、夜空に彩られた星を鑑賞することができる場所です。 各客室は独立した宿泊施設で、別途の出入口で外部の邪魔なくリラックスすることができます。 また、すべての客室には専用バルコニーがあり、温かいコーヒー一杯の時間を楽しむことができます。 ただし、夜10時以降に入室される場合は事前にご連絡ください。",
+    "QA": [
+        {
+            "question": "ペンションの客室にはどのような窓がありますか？",
+            "answer": "ペンションの客室には空と接する窓があります。"
+        },
+        {
+            "question": "客室ごとに独立した宿泊施設とはどういう意味ですか？",
+            "answer": "客室ごとに独立した宿泊施設とは、各客室が別々の出入口を持ち、外部の邪魔を受けずにリラックスできることを意味します。"
+        },
+        {
+            "question": "客室には専用バルコニーがありますか？",
+            "answer": "はい、すべての客室には専用バルコニーがあります。"
+        },
+        {
+            "question": "客室で温かいコーヒーを楽しむことができますか？",
+            "answer": "はい、客室で温かいコーヒーを楽しむことができます。"
+        },
+        {
+            "question": "夜10時以降に入室する場合はどうすればよいですか？",
+            "answer": "夜10時以降に入室する場合は、事前にご連絡ください。"
+        }
+    ],
+    "word_Count": {
+        "text": 126,
+        "QA": 196
+    }
+}

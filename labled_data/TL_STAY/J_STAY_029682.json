@@ -1,0 +1,31 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_029682",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/goods/GN0002023191?startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0%5E&npprmaxsort=min",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "부안(변산반도) 네버엔딩스토리펜션"
+    },
+    "text": "こんにちは。扶安(辺山半島)ネバーエンディングストーリーペンションです。 オンシーズンには入室および退室時間が15:00から11:00までと設定されています。 また、22時以降に入室される場合は、事前にペンションまでご連絡ください。 ありがとうございます。",
+    "QA": [
+        {
+            "question": "チェックインとチェックアウトの時間は何時から何時までですか？",
+            "answer": "チェックインは15:00から、チェックアウトは11:00までとなっています。"
+        },
+        {
+            "question": "22時以降にチェックインする場合はどうすればいいですか？",
+            "answer": "22時以降にチェックインする場合は、事前にペンションまでご連絡ください。"
+        }
+    ],
+    "word_Count": {
+        "text": 93,
+        "QA": 96
+    }
+}

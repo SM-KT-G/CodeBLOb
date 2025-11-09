@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_114322",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/collectionList#######",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2023-10-11",
+        "domain": "문화/역사관광",
+        "title": "靑磁陽刻蓮瓣文대접"
+    },
+    "text": "靑磁陽刻蓮瓣文大皿 (靑磁陽刻蓮瓣文대접)\\n\n国籍/時代: 韓国 - 高麗 材質: 陶磁器 - 青磁 分類: 食生活 - 食器 - 大皿 大きさ: 高さ約66cm、直径約6cm 改善点: - 「食べ物」の分類が2回繰り返されているので、1回にまとめました。 - 「着丈」は衣類の長さの指定なので、大皿の記述と関係がないため削除しました。また、サイズの単位を明確にしました。 - 全体的な表現をシンプルにしました。",
+    "QA": [
+        {
+            "question": "この大皿の国籍はどこですか？",
+            "answer": "韓国です。"
+        },
+        {
+            "question": "この大皿の時代はいつですか？",
+            "answer": "高麗時代です。"
+        },
+        {
+            "question": "この大皿の材質は何ですか？",
+            "answer": "陶磁器の青磁です。"
+        },
+        {
+            "question": "この大皿の分類は何ですか？",
+            "answer": "食器です。"
+        },
+        {
+            "question": "この大皿の大きさは何ですか？",
+            "answer": "高さは約66cm、直径は約6cmです。"
+        },
+        {
+            "question": "この大皿の改善点は何ですか？",
+            "answer": "「食べ物」の分類が2回繰り返されているので、1回にまとめました。また、「着丈」は大皿の記述と関係がないため削除しました。"
+        }
+    ],
+    "word_Count": {
+        "text": 151,
+        "QA": 137
+    }
+}

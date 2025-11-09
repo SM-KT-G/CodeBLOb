@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_012056",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-13",
+        "domain": "음식점",
+        "title": "ハンアルム精肉&炭火焼き( 한아름정육&숯불구이 )"
+    },
+    "text": "ハンアルム精肉&炭火焼き\\n\n江原道 原州市 チョンメボンギル32-14\\n\n牛肉と豚肉の焼き肉がすべて味わえます。江原道のウォンジュ市に位置した韓国料理店です。代表的なメニューは霜降り牛ロースです。",
+    "QA": [
+        {
+            "question": "ハンアルム精肉&炭火焼きはどこにありますか？",
+            "answer": "ハンアルム精肉&炭火焼きは江原道の原州市に位置しています。具体的な住所はチョンメボンギル32-14です。"
+        },
+        {
+            "question": "ハンアルム精肉&炭火焼きでは何を食べることができますか？",
+            "answer": "ハンアルム精肉&炭火焼きでは牛肉と豚肉の焼き肉を楽しむことができます。特におすすめのメニューは霜降り牛ロースです。"
+        },
+        {
+            "question": "ハンアルム精肉&炭火焼きはどのようなお店ですか？",
+            "answer": "ハンアルム精肉&炭火焼きは韓国料理店で、江原道のウォンジュ市に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 73,
+        "QA": 162
+    }
+}

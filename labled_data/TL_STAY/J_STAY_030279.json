@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_030279",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.goodchoice.kr/product/detail?ano=5551&adcno=1&sel_date=2023-11-07&sel_date2=2023-11-08",
+        "collectedDate": "2023-11-15",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "전주 릴렉스호텔"
+    },
+    "text": "3台駐車施設保有周辺情報:全州韓屋村までは車で5分の距離に位置し、全州市庁までは車で5分の距離にあります。 また、阿中貯水池までは徒歩5分の距離に位置し、レールバイク(廃駅)までは徒歩4分の距離にあります。 追加案内事項としては入室の際に身分証明書の確認が必要であり、この点ご了承ください。 ペット同伴の入室及び入室は不可です。",
+    "QA": [
+        {
+            "question": "全州韓屋村までの距離は？",
+            "answer": "車で5分です。"
+        },
+        {
+            "question": "全州市庁までの距離は？",
+            "answer": "車で5分です。"
+        },
+        {
+            "question": "阿中貯水池までの距離は？",
+            "answer": "徒歩5分です。"
+        },
+        {
+            "question": "レールバイク(廃駅)までの距離は？",
+            "answer": "徒歩4分です。"
+        },
+        {
+            "question": "入室の際に必要なものはありますか？",
+            "answer": "身分証明書の確認が必要です。"
+        },
+        {
+            "question": "ペットを連れて入室できますか？",
+            "answer": "ペット同伴の入室は不可です。"
+        }
+    ],
+    "word_Count": {
+        "text": 120,
+        "QA": 102
+    }
+}

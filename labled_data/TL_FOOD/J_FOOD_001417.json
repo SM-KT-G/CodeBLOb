@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001417",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-06",
+        "domain": "음식점",
+        "title": "another ( 어나더 )"
+    },
+    "text": "another ( 어나더 )\n京畿道 平沢市 チュンアン2ロ166\nコーヒーや様々なケーキが味わえます。京畿道のピョンテク市に位置したカフェ（コーヒーショップ）です。おすすめはコーヒーです。",
+    "QA": [
+        {
+            "question": "このカフェはどこにありますか？",
+            "answer": "このカフェは京畿道の平沢市に位置しています。"
+        },
+        {
+            "question": "このカフェで飲めるおすすめの飲み物は何ですか？",
+            "answer": "このカフェでおすすめの飲み物はコーヒーです。"
+        },
+        {
+            "question": "このカフェで食べられるおすすめのケーキは何ですか？",
+            "answer": "このカフェでおすすめのケーキはさまざまな種類があります。"
+        },
+        {
+            "question": "このカフェの雰囲気はどんな感じですか？",
+            "answer": "このカフェの雰囲気は落ち着いた雰囲気です。"
+        },
+        {
+            "question": "このカフェは何時から営業していますか？",
+            "answer": "このカフェは朝10時から営業しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 70,
+        "QA": 156
+    }
+}

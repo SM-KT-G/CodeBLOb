@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_010234",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "デイラ（데이라）"
+    },
+    "text": "デイラ（데이라）\\n\n大邱広域市 達西区 書堂路9キル 47\\n\nインドカレー専門店です。代表的なメニューはカレーです。大邱広域市のダルソ区に位置したアジア料理専門店です。",
+    "QA": [
+        {
+            "question": "デイラはどこにありますか？",
+            "answer": "デイラは大邱広域市のダルソ区に位置しています。"
+        },
+        {
+            "question": "デイラのメニューは何ですか？",
+            "answer": "デイラの代表的なメニューはカレーです。"
+        },
+        {
+            "question": "デイラの特徴は何ですか？",
+            "answer": "デイラはインドカレー専門店で、アジア料理を提供しています。"
+        },
+        {
+            "question": "デイラにはどのような料理がありますか？",
+            "answer": "デイラではカレーをはじめ、さまざまなアジア料理が楽しめます。"
+        },
+        {
+            "question": "デイラの場所はどうやって行けますか？",
+            "answer": "デイラは大邱広域市のダルソ区にあり、詳しいアクセス方法は公共交通機関を利用することをおすすめします。"
+        }
+    ],
+    "word_Count": {
+        "text": 63,
+        "QA": 166
+    }
+}

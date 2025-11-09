@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_018170",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "多味お粥専門店（다미죽）"
+    },
+    "text": "多味お粥専門店（다미죽）\\n\nソウル特別市 中区 明洞4キル 40\\n\n日本人観光客に人気のお店です。代表的なメニューはサムゲタンです。ソウル特別市ミョンドン駅の近くに位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "多味お粥専門店（다미죽）はどこにありますか？",
+            "answer": "多味お粥専門店（다미죽）はソウル特別市中区明洞4キル40にあります。"
+        },
+        {
+            "question": "多味お粥専門店（다미죽）の代表的なメニューは何ですか？",
+            "answer": "多味お粥専門店（다미죽）の代表的なメニューはサムゲタンです。"
+        },
+        {
+            "question": "多味お粥専門店（다미죽）はどのようなお店ですか？",
+            "answer": "多味お粥専門店（다미죽）は日本人観光客に人気の韓食専門店で、ソウル特別市ミョンドン駅の近くに位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 70,
+        "QA": 140
+    }
+}

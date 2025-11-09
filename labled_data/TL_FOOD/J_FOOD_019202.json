@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_019202",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "大成ソルロンタン ( 대성설렁탕 )"
+    },
+    "text": "大成ソルロンタン ( 대성설렁탕 )\\n\n全羅南道 モクポ市 ハダンロ212\\n\n長い時間煮込んだスープを使用した体に良いスープ料理です。代表的なメニューはソルロンタンです。全羅南道のモクポ市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "大成ソルロンタンはどの地域にありますか？",
+            "answer": "大成ソルロンタンは全羅南道のモクポ市に位置しています。"
+        },
+        {
+            "question": "大成ソルロンタンの代表的なメニューは何ですか？",
+            "answer": "大成ソルロンタンの代表的なメニューはソルロンタンです。"
+        },
+        {
+            "question": "大成ソルロンタンのスープはどのように作られますか？",
+            "answer": "大成ソルロンタンのスープは長い時間煮込んで作られます。"
+        },
+        {
+            "question": "大成ソルロンタンは体に良い料理ですか？",
+            "answer": "はい、大成ソルロンタンは体に良いスープ料理です。"
+        }
+    ],
+    "word_Count": {
+        "text": 79,
+        "QA": 140
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_076892",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/view?relicId=35838758",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2023-10-11",
+        "domain": "문화/역사관광",
+        "title": "사람 치아"
+    },
+    "text": "人の歯 (사람 치아)\\n\n国籍/時代:'韓国 - 時代不詳' ,材質:'骨/角/貝 - 人骨' ,分類:'その他の資料 - その他' ,大きさ:'現在長さ1.0cm、現在幅1.1cm、現在長さ0.7cm、現在幅0.5cm'",
+    "QA": [
+        {
+            "question": "何の材料から作られた歯ですか？",
+            "answer": "人骨から作られました。"
+        },
+        {
+            "question": "歯の大きさはどのくらいですか？",
+            "answer": "現在長さ1.0cm、現在幅1.1cm、現在長さ0.7cm、現在幅0.5cmです。"
+        },
+        {
+            "question": "この歯はどこの国のものですか？",
+            "answer": "韓国のものです。"
+        },
+        {
+            "question": "この歯の時代はどのくらい前ですか？",
+            "answer": "時代は不詳です。"
+        },
+        {
+            "question": "この歯はどのような分類に属していますか？",
+            "answer": "その他の資料に属しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 82,
+        "QA": 119
+    }
+}

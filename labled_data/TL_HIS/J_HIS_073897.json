@@ -1,0 +1,51 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_073897",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=235&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=13&ccbaAsno=00990000&ccbaCtcd=34&ccbaCpno=1333400990000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1963-01-21",
+        "domain": "문화/역사관광",
+        "title": "부여 쌍북리 요지"
+    },
+    "text": "1941年5月に忠清南道扶餘郡(北里(サンブクリ)のでは、百済時代の土器と瓦を焼いた窯跡が発見されました。この窯跡の大きさは長さ約4m、幅135センチ、高さ90センチくらいで、発見当時は土に埋まった状態でした。窯の煙突部分では下に3センチ程度が残っていたが、焚き口部分は把握されませんでした。現在は窯跡の前で道路が作られて、窯の一部が切り取られており、セメントで石室を作って保護しています。窯跡周辺の松の林や尾根の向こうの耕作地では多くの土器の欠片と瓦の破片が発見されているが、これを土台に現在、把握された地域よりさらに広い領域で窯が作動されたものと推定されます。この窯跡は現在夫余邑の中で残っている唯一の土器や瓦窯跡で、その価値が大きいと思います。",
+    "QA": [
+        {
+            "question": "この窯跡はどの時代のものですか？",
+            "answer": "この窯跡は百済時代のものです。"
+        },
+        {
+            "question": "窯跡の大きさはどのくらいですか？",
+            "answer": "窯跡の大きさは長さ約4m、幅135センチ、高さ90センチくらいです。"
+        },
+        {
+            "question": "窯の煙突部分はどのくらい残っていましたか？",
+            "answer": "窯の煙突部分では下に3センチ程度が残っていました。"
+        },
+        {
+            "question": "窯の焚き口部分は把握されませんでしたか？",
+            "answer": "窯の焚き口部分は把握されていません。"
+        },
+        {
+            "question": "窯跡周辺から何の遺物が発見されましたか？",
+            "answer": "窯跡周辺からは多くの土器の欠片と瓦の破片が発見されました。"
+        },
+        {
+            "question": "この窯跡は何かの保護措置がされていますか？",
+            "answer": "現在は窯跡の前で道路が作られており、窯の一部が切り取られてセメントで石室を作って保護されています。"
+        },
+        {
+            "question": "この窯跡の価値はどのくらいですか？",
+            "answer": "この窯跡は夫余邑で唯一残っている土器や瓦窯跡であり、その価値は非常に大きいとされています。"
+        }
+    ],
+    "word_Count": {
+        "text": 238,
+        "QA": 253
+    }
+}

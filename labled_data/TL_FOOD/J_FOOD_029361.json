@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_029361",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-06-04",
+        "domain": "음식점",
+        "title": "香林（향림）"
+    },
+    "text": "香林\\n\nソウル特別市 蘆原区 ハングル碑石路 151\\n\n香林（ヒャンリム）は伝統中華料理料理店です。新鮮な食材を用いて厨房長自ら腕を振るっています。天然調味料を使うことにより油っぽさを抑え、韓国人にはもちろん、外国人の味覚にも合うさっぱりした味が特徴。 特に、カルビの辛味ソース、海老と野菜の煮付け、フカヒレ料理、カニ料理は香林自慢のメニューとなっています。",
+    "QA": [
+        {
+            "question": "香林はどのような料理店ですか？",
+            "answer": "香林は伝統中華料理料理店で、新鮮な食材を用いてさっぱりした味が特徴です。"
+        },
+        {
+            "question": "香林の特徴的なメニューはありますか？",
+            "answer": "特に、カルビの辛味ソース、海老と野菜の煮付け、フカヒレ料理、カニ料理は香林自慢のメニューとなっています。"
+        },
+        {
+            "question": "香林はどこにありますか？",
+            "answer": "香林はソウル特別市麗水区ハングル碑石路151にあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 132,
+        "QA": 118
+    }
+}

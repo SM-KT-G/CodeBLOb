@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_007453",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1190&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=06950000&ccbaCtcd=37&ccbaCpno=3413706950000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2022-03-21",
+        "domain": "문화/역사관광",
+        "title": "경주 남산 탑곡 제1사지 마애조상군"
+    },
+    "text": "慶州南山塔谷第1寺址磨崖先祖群 (경주 남산 탑곡 제1사지 마애조상군 )\\n\n慶尚北道慶州市\\n\n統一新羅時代 , 慶尚北道文化財資料 , 慶州南山タプコル村付近の岩石に刻まれた仏像と塔などで構成された磨崖彫像群で、横8メートル、縦3.9メートル、高さ2.9メートルから4.1メートルの岩壁の東南面と西南面に刻まれている。 東南面を見ると、岩の左側は水平に大きな亀裂が発生して岩面が上下に分かれているが、先祖群は風化などが非常に激しく明確に現れないが、磨崖塔1基、仏菩薩像7体、全角1基、樹木2点が確認される。 西南面は岩にくさびを入れて切断した跡が残っており、その下に線刻立像の下半身だけが3点残っている。 この磨崖彫像群は塔の上輪部や基壇部、殿閣上に見える細部表現などの特徴から見て、統一新羅時代後期以降に造成されたものと推定される。",
+    "QA": [
+        {
+            "question": "この磨崖彫像群はどこにありますか？",
+            "answer": "慶尚北道慶州市の南山タプコル村付近にあります。"
+        },
+        {
+            "question": "この磨崖彫像群は何でできていますか？",
+            "answer": "岩石に刻まれた仏像と塔などで構成されています。"
+        },
+        {
+            "question": "この磨崖彫像群は何時代のものですか？",
+            "answer": "統一新羅時代のものです。"
+        },
+        {
+            "question": "この磨崖彫像群の特徴は何ですか？",
+            "answer": "特徴としては、横8メートル、縦3.9メートル、高さ2.9メートルから4.1メートルの岩壁に刻まれており、細部表現が見られることです。"
+        },
+        {
+            "question": "この磨崖彫像群はいつ造成されたと推定されていますか？",
+            "answer": "統一新羅時代後期以降に造成されたと推定されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 272,
+        "QA": 179
+    }
+}

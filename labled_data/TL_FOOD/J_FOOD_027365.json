@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_027365",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-13",
+        "domain": "음식점",
+        "title": "智異山ワンジェボン黒豚( 지리산왕재봉흑돼지 )"
+    },
+    "text": "智異山ワンジェボン黒豚\\n\nソウル特別市 江東区 サンアムロ26\\n\nきな粉の調味料につけて様々なキムチと一緒に黒豚肉焼きが味わえます。おすすめは黒豚肉焼きです。ソウル特別市のガンドン区に位置した韓国料理店です。",
+    "QA": [
+        {
+            "question": "ワンジェボン黒豚はどこに位置していますか？",
+            "answer": "ワンジェボン黒豚はソウル特別市江東区サンアムロ26に位置しています。"
+        },
+        {
+            "question": "ワンジェボン黒豚でおすすめの料理は何ですか？",
+            "answer": "ワンジェボン黒豚でおすすめの料理は黒豚肉焼きです。"
+        },
+        {
+            "question": "ワンジェボン黒豚ではどのようなキムチと一緒に黒豚肉焼きが味わえますか？",
+            "answer": "ワンジェボン黒豚では様々なキムチと一緒に黒豚肉焼きが味わえます。"
+        }
+    ],
+    "word_Count": {
+        "text": 77,
+        "QA": 123
+    }
+}

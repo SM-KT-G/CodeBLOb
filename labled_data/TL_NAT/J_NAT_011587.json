@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_011587",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://apis.data.go.kr/1400000/service/cultureInfoService2/mntInfoOpenAPI2",
+        "collectedDate": "2023-11-22",
+        "publishedDate": "2020-12-01",
+        "domain": "자연관광",
+        "title": "설산"
+    },
+    "text": "雪山 (설산)\\n\n全羅南道谷城郡玉果面雪玉里\\n\n山の高さ : 523m , 雪山は谷城八景に雪山落照が有名で、その隣の山の掛日山(455m)は本を幾層にも重ねたようなもので、山の外から見ると頂上部が岩崖になっていてとても険しそうですが、見た目とは裏腹に登山道がとてもよくできていて誰でも簡単に登山できます。",
+    "QA": [
+        {
+            "question": "雪山はどこにありますか？",
+            "answer": "雪山は全羅南道谷城郡玉果面雪玉里にあります。"
+        },
+        {
+            "question": "雪山の高さは何メートルですか？",
+            "answer": "雪山の高さは523mです。"
+        },
+        {
+            "question": "雪山は何で有名ですか？",
+            "answer": "雪山は谷城八景に雪山落照が有名です。"
+        },
+        {
+            "question": "雪山の隣にある山は何ですか？",
+            "answer": "雪山の隣にある山は掛日山(455m)です。"
+        },
+        {
+            "question": "掛日山はどのような山ですか？",
+            "answer": "掛日山は本を幾層にも重ねたような形をしており、頂上部が岩崖になっていますが、実際には登山道が整備されており簡単に登山することができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 113,
+        "QA": 152
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001838",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-05",
+        "domain": "음식점",
+        "title": "Lacantina ( 라칸티나 )"
+    },
+    "text": "Lacantina ( 라칸티나 )\\n\nソウル特別市 中区 ウルジロ19\\n\n韓国最高級のイタリアンレストランです。ソウル特別市のチュン区に位置した洋食専門店です。代表的なメニューはパスタです。",
+    "QA": [
+        {
+            "question": "ラカンティーナはどこにありますか？",
+            "answer": "ラカンティーナはソウル特別市中区ウルジロ19に位置しています。"
+        },
+        {
+            "question": "ラカンティーナの料理の特徴は何ですか？",
+            "answer": "ラカンティーナはイタリアンレストランで、代表的なメニューはパスタです。"
+        },
+        {
+            "question": "ラカンティーナの評判はどうですか？",
+            "answer": "ラカンティーナは韓国最高級のイタリアンレストランとして評判が高いです。"
+        }
+    ],
+    "word_Count": {
+        "text": 71,
+        "QA": 112
+    }
+}

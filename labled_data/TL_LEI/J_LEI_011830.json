@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_LEI_011830",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2022-11-14",
+        "domain": "레포츠",
+        "title": "초대길"
+    },
+    "text": "招待の道 (초대길)\\n\nソウル特別市江北区4.19路114(水営洞)\\n\nイ·ジュン氏、シン·イクヒ氏、キム·ビョンロ氏、イ·シヨン先生は、大韓民国の近現代史で初めてその地位についた人々です。彼らの墓地へと続く道です。",
+    "QA": [
+        {
+            "question": "この場所はどこですか？",
+            "answer": "こちらはソウル特別市江北区4.19路114(水営洞)にある招待の道です。"
+        },
+        {
+            "question": "誰がこの道に続く墓地への案内をしていますか？",
+            "answer": "イ·ジュン氏、シン·イクヒ氏、キム·ビョンロ氏、イ·シヨン先生が、この大韓民国の近現代史で初めてその地位についた人々の墓地へと続く道を案内しています。"
+        },
+        {
+            "question": "どのような人々がこの墓地に眠っていますか？",
+            "answer": "彼らは大韓民国の近現代史で初めてその地位についた人々です。"
+        }
+    ],
+    "word_Count": {
+        "text": 80,
+        "QA": 142
+    }
+}

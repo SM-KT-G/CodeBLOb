@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_014221",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=652&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=04520000&ccbaCtcd=38&ccbaCpno=2113804520000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2006-11-09",
+        "domain": "문화/역사관광",
+        "title": "양산 통도사 김경호 초상"
+    },
+    "text": "梁山通度使キム·ギョンホの肖像 (양산 통도사 김경호 초상)\\n\n慶尚南道梁山市通度寺路108(下北面、通度寺)\\n\n1873年 , 慶尚南道有形文化財 , この作品は、嘉善大夫·金ギョンホの肖像画で、正面向きの電信橋の坐像だ。 人物の肉体労働部は肌色を塗って主色に輪郭線を処理し、肉体線に沿って主色を塗って陰影を表現したが、特に広く広げて塗られた額と眉毛が目立つ。 上検線は濃墨細線、下検線は朱色細線で処理し、目の頭と目尻には淡墨で塗り、茶色の瞳の真ん中に濃墨をつけて瞳孔を表現した。 眉毛·ひげの毛根表現はまず胆墨で伸ばし、細線の濃墨と白細線で描写し、耳の毛根表現は塗らず濃墨細線で描き出し、顔面部に若干の変化を与えている。",
+    "QA": [
+        {
+            "question": "この肖像画は誰の肖像画ですか？",
+            "answer": "この作品は、嘉善大夫·金ギョンホの肖像画です。"
+        },
+        {
+            "question": "この肖像画はどのように表現されていますか？",
+            "answer": "肖像画は正面向きの電信橋の坐像として表現されています。人物の肉体労働部は肌色を塗って主色に輪郭線を処理し、肉体線に沿って主色を塗って陰影を表現しています。特に広く広げて塗られた額と眉毛が目立ちます。"
+        },
+        {
+            "question": "肖像画の目の表現はどのようにされていますか？",
+            "answer": "目の頭と目尻には淡墨で塗られ、茶色の瞳の真ん中に濃墨をつけて瞳孔を表現しています。"
+        },
+        {
+            "question": "肖像画の眉毛やひげの表現はどのようにされていますか？",
+            "answer": "眉毛やひげの毛根表現は胆墨で伸ばし、細線の濃墨と白細線で描写されています。耳の毛根表現は塗らず濃墨細線で描き出され、顔面部に若干の変化が与えられています。"
+        }
+    ],
+    "word_Count": {
+        "text": 231,
+        "QA": 237
+    }
+}

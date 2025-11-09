@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_029824",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/agurang-kkokerang",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "アグランコッケラン"
+    },
+    "text": "アグランコッケラン\\n\nソウル特別市 中区 奨忠洞2街 24-31\\n\nアグランコッケランは日本現地で先に認められた隠れている路地裏、ワタリガニとアンコウ料理専門店です。",
+    "QA": [
+        {
+            "question": "アグランコッケランはどこにありますか？",
+            "answer": "アグランコッケランはソウル特別市中区奨忠洞2街24-31にあります。"
+        },
+        {
+            "question": "アグランコッケランは何の料理専門店ですか？",
+            "answer": "アグランコッケランはワタリガニとアンコウ料理の専門店です。"
+        },
+        {
+            "question": "アグランコッケランはどのような特徴がありますか？",
+            "answer": "アグランコッケランは隠れている路地裏に位置しており、ワタリガニとアンコウ料理に特化しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 62,
+        "QA": 127
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_066651",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42061&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "대전 대전역 잉카 운영 정책"
+    },
+    "text": "チェックインは午後6時から可能で、チェックアウトは翌日の午前12時までです。 予約のお知らせで車を利用する場合は、Drive in客室をご利用ください。 これは車の駐車が便利で、多くのお客様が好む客室です。 入室の際には様々な特典が提供されます。 朝食は無料で提供され、客室ごとに55インチの大型テレビが設置されています。 また、会員マイレージを貯めることができ、スタイラー部屋には最新のスタイラーが設置されています。",
+    "QA": [
+        {
+            "question": "チェックインは何時ですか？",
+            "answer": "チェックインは午後6時から可能です。"
+        },
+        {
+            "question": "チェックアウトは何時ですか？",
+            "answer": "チェックアウトは翌日の午前12時までです。"
+        },
+        {
+            "question": "車を利用する場合はどの客室を利用すればいいですか？",
+            "answer": "Drive in客室をご利用ください。"
+        },
+        {
+            "question": "何故Drive in客室を利用する必要がありますか？",
+            "answer": "車の駐車が便利で、多くのお客様が好む客室です。"
+        },
+        {
+            "question": "何故朝食が無料で提供されますか？",
+            "answer": "入室の際には様々な特典が提供されます。"
+        },
+        {
+            "question": "客室ごとに何インチのテレビがありますか？",
+            "answer": "客室ごとに55インチの大型テレビが設置されています。"
+        },
+        {
+            "question": "どんな特典が提供されますか？",
+            "answer": "会員マイレージを貯めることができ、スタイラー部屋には最新のスタイラーが設置されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 153,
+        "QA": 218
+    }
+}

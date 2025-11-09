@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_LEI_005053",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101933",
+        "collectedDate": "2023-09-21",
+        "publishedDate": "2023-08-12",
+        "domain": "레포츠",
+        "title": "제주 산내들 여행사"
+    },
+    "text": "済州山ネドゥル旅行会社 (제주 산내들 여행사)\\n\n済州特別自治道西帰浦市南原邑南朝路861-83\\n\n「直営」方法で運営しています。 '''カーキャンプ場'''をご利用いただけます。 '''直営'''方式で運営しています。",
+    "QA": [
+        {
+            "question": "カーキャンプ場はどこにありますか？",
+            "answer": "カーキャンプ場は済州特別自治道西帰浦市南原邑南朝路861-83にあります。"
+        },
+        {
+            "question": "カーキャンプ場はどのように運営されていますか？",
+            "answer": "カーキャンプ場は「直営」方式で運営されています。"
+        },
+        {
+            "question": "済州山ネドゥル旅行会社はどこにありますか？",
+            "answer": "済州山ネドゥル旅行会社は済州特別自治道西帰浦市南原邑南朝路861-83にあります。"
+        },
+        {
+            "question": "済州山ネドゥル旅行会社はどのように運営されていますか？",
+            "answer": "済州山ネドゥル旅行会社は「直営」方式で運営されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 82,
+        "QA": 159
+    }
+}

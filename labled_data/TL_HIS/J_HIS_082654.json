@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_082654",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ja",
+        "translator": null,
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101971",
+        "collectedDate": "2023-09-07",
+        "publishedDate": "2021-11-22",
+        "domain": "문화/역사관광",
+        "title": "聖宝博物館"
+    },
+    "text": "聖宝博物館\n聖宝博物館  通度寺聖宝博物館は、通度寺の文化財を安全かつ効率的に保存・展示するために建てられました。また信徒と一般人全てが鑑賞できるように、常設展示と企画展示をしており、仏教文化に対する研究を行っています。",
+    "QA": [
+        {
+            "question": "通度寺聖宝博物館は何のために建てられましたか？",
+            "answer": "通度寺聖宝博物館は、通度寺の文化財を安全かつ効率的に保存・展示するために建てられました。"
+        },
+        {
+            "question": "通度寺聖宝博物館では何を鑑賞できますか？",
+            "answer": "通度寺聖宝博物館では、常設展示と企画展示を通じて、信徒と一般人全てが仏教文化を鑑賞することができます。"
+        },
+        {
+            "question": "通度寺聖宝博物館は何の研究を行っていますか？",
+            "answer": "通度寺聖宝博物館では、仏教文化に対する研究を行っています。"
+        }
+    ],
+    "word_Count": {
+        "text": 80,
+        "QA": 138
+    }
+}

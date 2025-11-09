@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_010991",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-02-03",
+        "domain": "음식점",
+        "title": "トンボラ（톰볼라）"
+    },
+    "text": "トンボラ（톰볼라）\\n\nソウル特別市 瑞草区 瑞来路7キル 16\\n\n瑞草区盤浦4洞に位置するトンボラ（tombola）はイタリアの小さなレストランを思わせるようなお店で、落ち着いた雰囲気の中でイタリアの家庭料理をゆったりと味わえます。ここの人気のメニューはチーズのたっぷりのったグラタンです。人気店なので行くなら予約をして行った方がいいでしょう。",
+    "QA": [
+        {
+            "question": "トンボラはどこに位置していますか？",
+            "answer": "トンボラはソウル特別市瑞草区瑞来路7キル16に位置しています。"
+        },
+        {
+            "question": "トンボラはどのような雰囲気ですか？",
+            "answer": "トンボラは落ち着いた雰囲気のお店で、イタリアの小さなレストランを思わせるような雰囲気です。"
+        },
+        {
+            "question": "トンボラの人気メニューは何ですか？",
+            "answer": "トンボラの人気メニューはチーズのたっぷりのったグラタンです。"
+        },
+        {
+            "question": "トンボラに予約は必要ですか？",
+            "answer": "トンボラは人気店ですので、予約をして行った方が良いでしょう。"
+        }
+    ],
+    "word_Count": {
+        "text": 127,
+        "QA": 147
+    }
+}

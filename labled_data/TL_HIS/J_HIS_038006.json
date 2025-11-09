@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_038006",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=388&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=00240000&ccbaCtcd=25&ccbaCpno=2112500240000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1993-06-21",
+        "domain": "문화/역사관광",
+        "title": "은진송씨정려각"
+    },
+    "text": "恩津宋氏旌閭閣 (은진송씨정려각)\\n\n大田大徳区法二洞205-5番地\\n\n1729年(英祖5)、大田広域市有形文化財、松崖堂キム·ギョンヨ(1596~1653)の母親ソン氏夫人の至極の親孝行を称えるために英祖(在位1724~1776)の時に国から授けた旌閭記を保護するための建物だ。 明政の時期は明政によれば「崇禎再己酉今上五年六月日命旌」となっており、1729年(英祖5)であることが分かる。旌閭は四塊石の塀を築いて保護している。 旌閭の規模は前面1間、側面1間だ。 四塊石長台石で積み上げた基壇の上に低い四角い礎石とその上に再び上面だけ8角断面に削られた四角い長草石を置いて短い頭柱を立てた。 重ね軒で恐怖の構成は無出目二翼工系である。 側面と後面の窓の上に長花盤を1体ずつ配置し、建物を一層華やかに飾った。",
+    "QA": [
+        {
+            "question": "この建物は何のために建てられましたか？",
+            "answer": "この建物は、松崖堂キム·ギョンヨの母親ソン氏夫人の親孝行を称えるための旌閭記を保護するために建てられました。"
+        },
+        {
+            "question": "旌閭記とは何ですか？",
+            "answer": "旌閭記は、母親の親孝行を称えるために国から授けられる称号です。"
+        },
+        {
+            "question": "この建物はいつ建てられましたか？",
+            "answer": "この建物は1729年(英祖5)に建てられました。"
+        },
+        {
+            "question": "旌閭の規模はどのくらいですか？",
+            "answer": "旌閭の規模は前面1間、側面1間です。"
+        },
+        {
+            "question": "この建物の特徴的な構造や装飾はありますか？",
+            "answer": "この建物は四塊石の塀を築いて保護されており、重ね軒で恐怖の構成は無出目二翼工系です。また、側面と後面の窓の上に長花盤が配置されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 261,
+        "QA": 202
+    }
+}

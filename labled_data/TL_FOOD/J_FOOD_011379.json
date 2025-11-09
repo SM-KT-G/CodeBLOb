@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_011379",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "バウィソリ（바위소리）"
+    },
+    "text": "バウィソリ（바위소리）\\n\n済州特別自治道 済州市 牛島面 牛島海岸キル 1112\\n\n済州特別自治道のジェジュ市に位置したカフェ（コーヒーショップ）です。代表的なメニューはアイスクリームです。サザエの形をしている建物です。",
+    "QA": [
+        {
+            "question": "場所はどこですか？",
+            "answer": "済州特別自治道 済州市 牛島面 牛島海岸キル 1112に位置しています。"
+        },
+        {
+            "question": "このカフェの特徴は何ですか？",
+            "answer": "サザエの形をしている建物で、代表的なメニューはアイスクリームです。"
+        },
+        {
+            "question": "このカフェの営業時間は何時から何時までですか？",
+            "answer": "営業時間は〇〇時から〇〇時までです。"
+        },
+        {
+            "question": "このカフェで提供されているメニューは何がありますか？",
+            "answer": "主なメニューはアイスクリームですが、他にも〇〇や〇〇があります。"
+        },
+        {
+            "question": "このカフェの周辺には観光名所はありますか？",
+            "answer": "周辺には〇〇や〇〇などの観光名所があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 82,
+        "QA": 171
+    }
+}

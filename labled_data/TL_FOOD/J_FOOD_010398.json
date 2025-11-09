@@ -1,0 +1,31 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_010398",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-10-08",
+        "domain": "음식점",
+        "title": "テナガダコ王国 ( 낙지왕국 )"
+    },
+    "text": "テナガダコ王国 ( 낙지왕국 )\\n\nソウル特別市 鐘路区 敦化門路5カキル 31\\n\n鐘路の会社員がよく訪れるお店として有名です。ソウル特別市のジョンノ区に位置した海鮮専門店です。代表的なメニューはテナガダコ炒めです。",
+    "QA": [
+        {
+            "question": "テナガダコ王国はどこにありますか？",
+            "answer": "テナガダコ王国はソウル特別市の鐘路区にあります。"
+        },
+        {
+            "question": "テナガダコ王国で人気のあるメニューは何ですか？",
+            "answer": "テナガダコ王国で人気のあるメニューはテナガダコ炒めです。"
+        }
+    ],
+    "word_Count": {
+        "text": 80,
+        "QA": 67
+    }
+}

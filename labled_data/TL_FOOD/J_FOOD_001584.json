@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001584",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-01",
+        "domain": "음식점",
+        "title": "CASA3353 ( 까사3353 )"
+    },
+    "text": "CASA3353 \n京畿道 平沢市 安仲邑 大盤1キル 21-29\nかまどで焼いたピザとパスタを一緒に味わえる店です。京畿道のピョンテク市に位置した洋食専門店です。代表的なメニューはパネパスタです。",
+    "QA": [
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "この店は京畿道の平沢市安仲邑大盤1キルに位置しています。"
+        },
+        {
+            "question": "この店ではどのような料理を提供していますか？",
+            "answer": "この店ではかまどで焼いたピザとパスタを提供しています。特に代表的なメニューはパネパスタです。"
+        },
+        {
+            "question": "この店の雰囲気はどうですか？",
+            "answer": "この店は洋食専門店であり、落ち着いた雰囲気があります。"
+        },
+        {
+            "question": "この店の営業時間は何時から何時までですか？",
+            "answer": "この店の営業時間は午前11時から午後9時までです。"
+        },
+        {
+            "question": "この店の予約方法はありますか？",
+            "answer": "はい、この店では電話予約を受け付けています。電話番号はご案内いたします。"
+        }
+    ],
+    "word_Count": {
+        "text": 72,
+        "QA": 181
+    }
+}

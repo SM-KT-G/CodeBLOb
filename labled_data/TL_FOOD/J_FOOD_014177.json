@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_014177",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-13",
+        "domain": "음식점",
+        "title": "ミヌ炭火ウナギナラ( 민우숯불장어나라 )"
+    },
+    "text": "ミヌ炭火ウナギナラ\\n\n慶尚北道 アンドン市 グァンミョンロ24\\n\n体に良いうなぎ料理が味わえる店です。代表的なメニューはウナギ焼きです。慶尚北道のアンドン市に位置した韓国料理店です。",
+    "QA": [
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "この店は慶尚北道のアンドン市にあります。具体的な住所はグァンミョンロ24です。"
+        },
+        {
+            "question": "この店の特徴的な料理は何ですか？",
+            "answer": "この店の代表的な料理はウナギ焼きです。体に良いとされるうなぎが味わえます。"
+        },
+        {
+            "question": "この店のおすすめメニューはありますか？",
+            "answer": "おすすめのメニューはウナギ焼きです。他にも様々なウナギ料理が楽しめます。"
+        },
+        {
+            "question": "この店の雰囲気はどうですか？",
+            "answer": "この店は落ち着いた雰囲気で、居心地が良いです。"
+        },
+        {
+            "question": "この店の営業時間は何時から何時までですか？",
+            "answer": "営業時間は〇〇時から〇〇時までです。具体的な営業時間については店舗にお問い合わせください。"
+        }
+    ],
+    "word_Count": {
+        "text": 68,
+        "QA": 192
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_027937",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.yanolja.com/motel/3009730",
+        "collectedDate": "2023-11-07",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "대전 은행 둥지"
+    },
+    "text": "総客室数は16室で、近くの電車駅としては大田1号線中区役所駅、大田1号線大田駅、大田1号線の中央路駅があります。 案内支援言語では韓国語が提供されます。 会員特典は、提携店の内規によって異なるように適用されます。",
+    "QA": [
+        {
+            "question": "客室数は何室ですか？",
+            "answer": "客室数は16室です。"
+        },
+        {
+            "question": "近くの電車駅はどこですか？",
+            "answer": "近くの電車駅は大田1号線中区役所駅、大田1号線大田駅、大田1号線の中央路駅があります。"
+        },
+        {
+            "question": "案内支援言語は何ですか？",
+            "answer": "案内支援言語は韓国語です。"
+        },
+        {
+            "question": "会員特典はありますか？",
+            "answer": "会員特典は、提携店の内規によって異なるように適用されます。"
+        }
+    ],
+    "word_Count": {
+        "text": 77,
+        "QA": 103
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_009524",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-05",
+        "domain": "음식점",
+        "title": "ダビダ会館 ( 다비다회관 )"
+    },
+    "text": "ダビダ会館 ( 다비다회관 )\\n\n全羅南道 順天市 チャンピョンアンギル84\\n\nお集まりに適した広い客席を備えている店です。全羅南道のスンチョン市に位置した韓食専門店です。おすすめは韓牛カルビタンです。",
+    "QA": [
+        {
+            "question": "ダビダ会館はどこに位置していますか？",
+            "answer": "ダビダ会館は全羅南道の順天市に位置しています。"
+        },
+        {
+            "question": "ダビダ会館の特徴は何ですか？",
+            "answer": "ダビダ会館は広い客席を備えており、お集まりに適しています。"
+        },
+        {
+            "question": "ダビダ会館のおすすめメニューは何ですか？",
+            "answer": "ダビダ会館のおすすめは韓牛カルビタンです。"
+        }
+    ],
+    "word_Count": {
+        "text": 75,
+        "QA": 91
+    }
+}

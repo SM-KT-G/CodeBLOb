@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_031562",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42050&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "전주 별빛마루펜션"
+    },
+    "text": "当日予約は承っておりません。 チェックインは午後3時から可能で、チェックアウトは午前11時までです。 各客室にはエアコンと冷暖房システムが備えられており、快適な宿泊を楽しむことができます。 また、無料Wi-Fiとテレビが提供されます。 近くには全羅北道博物館、全州図書館、全州アナウンド映画専門館などの観光地があり、トレンディな旅行を楽しむこともできます。 また、宿泊施設内のレストランでは毎朝ビュッフェ式朝食も提供していますので、ぜひご利用ください。 ありがとうございます。",
+    "QA": [
+        {
+            "question": "チェックインとチェックアウトの時間は何時ですか？",
+            "answer": "チェックインは午後3時から可能で、チェックアウトは午前11時までです。"
+        },
+        {
+            "question": "客室にはどのような設備がありますか？",
+            "answer": "各客室にはエアコンと冷暖房システムが備えられており、快適な宿泊を楽しむことができます。また、無料Wi-Fiとテレビが提供されます。"
+        },
+        {
+            "question": "近くにどのような観光地がありますか？",
+            "answer": "近くには全羅北道博物館、全州図書館、全州アナウンド映画専門館などの観光地があります。"
+        },
+        {
+            "question": "レストランで提供される朝食のスタイルは何ですか？",
+            "answer": "宿泊施設内のレストランでは毎朝ビュッフェ式朝食が提供されます。"
+        }
+    ],
+    "word_Count": {
+        "text": 174,
+        "QA": 188
+    }
+}

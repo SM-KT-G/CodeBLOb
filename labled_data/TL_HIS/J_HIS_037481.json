@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_037481",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1049&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=01240000&ccbaCtcd=32&ccbaCpno=3413201240000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1998-09-05",
+        "domain": "문화/역사관광",
+        "title": "원주 평장리 석조불두"
+    },
+    "text": "原州平庄里石造仏頭 (원주 평장리 석조불두)\\n\n江原道原州市蘇草面坪長里117-3\\n\n高麗、江原特別自治道 文化財資料、江原道原州市蘇草面校項里の道路沿いの大きな花崗岩岩の上に仏像の頭一つだけが置かれているもので、壬辰倭乱の時に倭兵を退けるために作ったという伝説が伝えられている。 本来は平場里と橋項里の境界になる丘の上にある岩壁にあったもので、仏像の体の部分を彫刻し、その上に頭の部分だけを載せていたのだが、道路拡張工事によって仏像の頭だけが現在位置に移った。全体的に彫刻手法は下手だが、それなりに仏像の姿をよく表しており、各部の彫刻様式手法から見て造成年代は高麗前期と推定される。",
+    "QA": [
+        {
+            "question": "この仏頭はどこに位置していますか？",
+            "answer": "この仏頭は江原道原州市蘇草面校項里の道路沿いの大きな花崗岩岩の上に置かれています。"
+        },
+        {
+            "question": "この仏頭はいつ、どのような目的で作られたのですか？",
+            "answer": "この仏頭は壬辰倭乱の時に倭兵を退けるために作られたという伝説が伝えられています。"
+        },
+        {
+            "question": "元々この仏頭はどのような場所にあったのですか？",
+            "answer": "元々は平場里と橋項里の境界になる丘の上の岩壁にあったもので、仏像の体の部分を彫刻し、その上に頭の部分だけを載せていました。"
+        },
+        {
+            "question": "この仏頭の彫刻手法や様式から推定される造成年代は何年頃ですか？",
+            "answer": "この仏頭の彫刻手法や様式から推定される造成年代は高麗前期とされています。"
+        }
+    ],
+    "word_Count": {
+        "text": 216,
+        "QA": 200
+    }
+}

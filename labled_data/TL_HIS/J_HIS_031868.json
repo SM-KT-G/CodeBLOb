@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_031868",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=813&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=00530000&ccbaCtcd=36&ccbaCpno=2333600530000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1981-10-20",
+        "domain": "문화/역사관광",
+        "title": "최희량장군신도비"
+    },
+    "text": "崔希亮将軍神道碑 (최희량장군신도비)\\n\n全羅南道羅州市多侍面加興里369番地\\n\n全羅南道記念物、神道碑とは王や高官などの生涯業績を記録し、彼の墓の近くに建てておくことで、この碑は朝鮮中期の武臣であるチェ·ヒリャン将軍を称えている。 チェ·ヒリャン(1560~1651)は35歳の宣祖27年(1594)に武科に及第した。 丁酉再乱が起きた時には興譲県監として李舜臣将軍の指揮の下で大きな功を立て、敵の捕虜としていたシン·ドクヒの他700人余りが生きて帰って来られるようにした。 鷺梁海戦で李舜臣が戦死すると官職を捨てて故郷に帰って静かに過ごし、孝宗2年(1651)に生涯を終えた。 碑は四角い台石の上に碑身を立て、その上に屋根石を載せた。 光武5年(1901)将軍の子孫たちが碑を建て、碑文はソン·チギュが文を作り、ここにソン·チギュの子孫であるソン·ジホンが文を付け加えて記録した。",
+    "QA": [
+        {
+            "question": "崔希亮将軍神道碑はどこに建てられていますか？",
+            "answer": "全羅南道羅州市多侍面加興里369番地に建てられています。"
+        },
+        {
+            "question": "崔希亮将軍神道碑は何のために建てられましたか？",
+            "answer": "この碑は朝鮮中期の武臣であるチェ·ヒリャン将軍を称えるために建てられました。"
+        },
+        {
+            "question": "チェ·ヒリャン将軍はいつ生きましたか？",
+            "answer": "チェ·ヒリャン将軍は1560年から1651年まで生きました。"
+        },
+        {
+            "question": "チェ·ヒリャン将軍はどのような功績を残しましたか？",
+            "answer": "チェ·ヒリャン将軍は丁酉再乱で李舜臣将軍の指揮の下で大きな功績を立て、敵の捕虜となっていたシン·ドクヒの他700人余りが生きて帰ることができるようにしました。"
+        },
+        {
+            "question": "崔希亮将軍はいつ亡くなりましたか？",
+            "answer": "崔希亮将軍は孝宗2年（1651年）に亡くなりました。"
+        }
+    ],
+    "word_Count": {
+        "text": 288,
+        "QA": 225
+    }
+}

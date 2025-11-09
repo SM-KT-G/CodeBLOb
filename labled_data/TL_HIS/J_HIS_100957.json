@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_100957",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=57&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=03360000&ccbaCtcd=24&ccbaCpno=1122403360000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1963-01-21",
+        "domain": "문화/역사관광",
+        "title": "정지장군 갑옷"
+    },
+    "text": "高麗時代には戦場で敵の矢や窓、剣から身を保護するため、甲冑を着ました。この甲は鉄板と鉄製の輪をつなげて作ったギョンボンガプと知られています。停止将軍の鎧(鄭地將軍甲衣)の主人である停止将軍は、高麗・忠穆王3年(1347)に生まれ、倭寇を退けたに大きな功績を立て、供養王3年(1391)に死亡しました。この甲は停止将軍が倭寇を追い払うとき直接着用したことを受け、子孫に伝わったのです。鎧は全長70センチ、胸回り79センチ、袖の長さ30センチで製作され、縦7.5∼8センチ、横5∼8.5センチの鉄板に穴を開けて、鉄製の輪で繋がっています。前面には鉄板6のかけらを一列に連結した6列があり、そのうち二列はただすようになっています。裏面は7のかけらを一列に連結した5列に背中をわきまえることができるように制作されました。肩と腕は鉄板なく輪のみを使用して自由に動くことができるようになっています。前面の下には若干の損傷があるが、原型をよくとどめており、特異な鎧として貴重な文化財に評価されることもできます。",
+    "QA": [
+        {
+            "question": "この甲冑を着用した停止将軍は何年生まれですか？",
+            "answer": "停止将軍は高麗・忠穆王3年(1347)に生まれました。"
+        },
+        {
+            "question": "停止将軍の鎧は何で作られていますか？",
+            "answer": "停止将軍の鎧は鉄板と鉄製の輪をつなげて作ったギョンボンガプとして知られています。"
+        },
+        {
+            "question": "この鎧の胸回りのサイズは何センチですか？",
+            "answer": "この鎧の胸回りのサイズは79センチです。"
+        },
+        {
+            "question": "この鎧の製作に使用された鉄板の大きさはどのくらいですか？",
+            "answer": "鉄板は縦7.5∼8センチ、横5∼8.5センチの大きさで使用されました。"
+        },
+        {
+            "question": "この鎧の裏面はどのように制作されていますか？",
+            "answer": "裏面は7のかけらを一列に連結した5列に背中をわきまえることができるように制作されました。"
+        },
+        {
+            "question": "この鎧の特徴的な点は何ですか？",
+            "answer": "肩と腕は鉄板なく輪のみを使用して自由に動くことができるようになっています。"
+        }
+    ],
+    "word_Count": {
+        "text": 328,
+        "QA": 241
+    }
+}

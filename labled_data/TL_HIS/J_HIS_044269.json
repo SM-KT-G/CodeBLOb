@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_044269",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1021&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=00770000&ccbaCtcd=38&ccbaCpno=3413800770000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1983-07-20",
+        "domain": "문화/역사관광",
+        "title": "거창 창충사"
+    },
+    "text": "慶尚南道文化財資料によると、英祖4年(1728)、武臣とは、時に郷里にいた五忠臣についた祠であるオチュンサに対する情報が伝えられている。この祠堂はシングクジョン、シンソクヒョン、シンドクヒョン、シンチグン、シングヮンセなど五忠臣を称えるため建てられたところで、反乱軍を打ち破ることに力を全部した彼らを、祭享の場として知られている。このほかにもオチュンサは別名オチュンサと呼ばれたりもする。位牌堂の建設は乱を平定した後、正祖12年(1788)に行われており、建物の配置はソンアム寺子屋とチャンチュンサとともに動向と南向きに建てられた。祠堂は正面3間、側面2間の切妻屋根を持っており、内三門は正面3間のわいを門で構成されている。また、位牌堂の正門アンジンルは正面3間、側面2間の五良構造入母屋屋根を備えた楼閣形式のウェサムムンに、旧居昌東軒の正門をモデルに取ったものだ。位牌堂の内部にはオチュンシンビが建てられているが、これは五忠臣を象徴的に表現したのだ。このような条件によって慶尚南道文化財資料に記録されたオチュンサに対する情報を整理した。",
+    "QA": [
+        {
+            "question": "オチュンサとは何ですか？",
+            "answer": "オチュンサは、五忠臣を称えるために建てられた祠堂です。"
+        },
+        {
+            "question": "オチュンサはいつ建てられましたか？",
+            "answer": "オチュンサは英祖4年(1728)に建てられました。"
+        },
+        {
+            "question": "オチュンサにはどのような配置がありますか？",
+            "answer": "オチュンサは正面3間、側面2間の切妻屋根を持ち、内三門も備えています。"
+        },
+        {
+            "question": "オチュンサの位牌堂はどのような形状ですか？",
+            "answer": "オチュンサの位牌堂は正面3間、側面2間の五良構造入母屋屋根を備えた楼閣形式のウェサムムンです。"
+        },
+        {
+            "question": "オチュンサ内部には何が建てられていますか？",
+            "answer": "オチュンサの内部にはオチュンシンビが建てられており、五忠臣を象徴的に表現しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 343,
+        "QA": 196
+    }
+}

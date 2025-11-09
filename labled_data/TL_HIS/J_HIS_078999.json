@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_078999",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101933",
+        "collectedDate": "2023-10-06",
+        "publishedDate": "2023-10-06",
+        "domain": "문화/역사관광",
+        "title": "산내JC"
+    },
+    "text": "サンネJC\\n\n山内ジャンクション(山內分岐點、Sannae Junction、山内JC)は大田広域市東区山内洞に設置された中部高速道路と大田南部循環高速道路が交差する分岐点だ。ここから飛龍ジャンクションまでは中部高速道路と大田南部循環高速道路が重畳される。...",
+    "QA": [
+        {
+            "question": "山内JCはどこに位置していますか？",
+            "answer": "山内JCは大田広域市東区山内洞に位置しています。"
+        },
+        {
+            "question": "山内JCから飛龍ジャンクションまでの道路は何ですか？",
+            "answer": "山内JCから飛龍ジャンクションまでは中部高速道路と大田南部循環高速道路が重畳されています。"
+        },
+        {
+            "question": "山内JC周辺には何がありますか？",
+            "answer": "山内JC周辺には近くにはどのような観光地や施設がありますか？"
+        }
+    ],
+    "word_Count": {
+        "text": 96,
+        "QA": 115
+    }
+}

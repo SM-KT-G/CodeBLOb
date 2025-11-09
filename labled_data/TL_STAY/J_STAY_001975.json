@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_001975",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/goods/GN0002154646?startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0%5E&npprmaxsort=min",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "종로메이커스X이쁘다"
+    },
+    "text": "MAKERS HOTELは感覚的なホテルで、リーズナブルな価格で繊細なデザインと最高のサービスをご体験いただけます。 ホテルの内部は独特のデザインと個性あふれる小物で飾られており、独自製作したハンドメイド家具で完成しました。 MAKERS HOTELはソウルの伝統が生きている旅行先である鍾路3街に位置しており、旅の始まりを驚くべき経験にしてくれます。",
+    "QA": [
+        {
+            "question": "MAKERS HOTELはどのような特徴を持っていますか？",
+            "answer": "MAKERS HOTELは感覚的なホテルで、リーズナブルな価格で繊細なデザインと最高のサービスをご体験いただけます。"
+        },
+        {
+            "question": "MAKERS HOTELの内部はどのように装飾されていますか？",
+            "answer": "ホテルの内部は独特のデザインと個性あふれる小物で飾られており、独自製作したハンドメイド家具で完成しました。"
+        },
+        {
+            "question": "MAKERS HOTELはどこに位置していますか？",
+            "answer": "MAKERS HOTELはソウルの伝統が生きている旅行先である鍾路3街に位置しています。"
+        },
+        {
+            "question": "MAKERS HOTELは旅行の始まりをどのような経験にしてくれますか？",
+            "answer": "MAKERS HOTELは旅行の始まりを驚くべき経験にしてくれます。"
+        }
+    ],
+    "word_Count": {
+        "text": 129,
+        "QA": 227
+    }
+}

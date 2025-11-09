@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_024899",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-19",
+        "domain": "음식점",
+        "title": "牛島シュリンプ ( 우도쉬림프 )"
+    },
+    "text": "牛島シュリンプ\\n\n済州特別自治道 済州市 牛島面 牛島海岸キル1112\\n\n新鮮な海鮮が入った料理が味わえる店です。代表的なメニューは海鮮ラーメンです。済州特別自治道のジェジュ市に位置した韓国料理店です。",
+    "QA": [
+        {
+            "question": "この店はどこにありますか？",
+            "answer": "牛島シュリンプは済州特別自治道のジェジュ市にあります。"
+        },
+        {
+            "question": "この店の特徴的なメニューは何ですか？",
+            "answer": "牛島シュリンプの代表的なメニューは海鮮ラーメンです。"
+        },
+        {
+            "question": "この店の住所は何ですか？",
+            "answer": "牛島シュリンプの住所は済州特別自治道済州市牛島面牛島海岸キル1112です。"
+        },
+        {
+            "question": "この店の特産品は何ですか？",
+            "answer": "牛島シュリンプの特産品は新鮮な海鮮料理です。"
+        },
+        {
+            "question": "この店はどのような雰囲気ですか？",
+            "answer": "牛島シュリンプは海鮮が入った料理が味わえる店で、アットホームな雰囲気です。"
+        }
+    ],
+    "word_Count": {
+        "text": 75,
+        "QA": 162
+    }
+}

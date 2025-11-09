@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_038406",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=373&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=00110000&ccbaCtcd=23&ccbaCpno=2112300110000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1990-11-09",
+        "domain": "문화/역사관광",
+        "title": "인천향교"
+    },
+    "text": "仁川郷校 (인천향교)\\n\n仁川広域市弥鄒忽区梅沼ホロ589(文鶴洞、仁川郷校、仁川都護府庁舎)\\n\n仁川広域市有形文化財、郷校は聖賢の位牌を祀り祭祀を行い、地方民の教育を担当するために国家で建てた教育機関で、朝鮮時代には国家から土地·奴婢·本などを支給され学生たちを教えた。 仁川郷校が初めて建てられた年代は分からないが、15世紀半ばに修理したと伝える。 今残っている主要建物は朝鮮後期に建てられたものと見られ、1976年に大成殿·明倫堂·三門などを直した。 現在、大成殿·東武·庶務·明倫堂·東斎·西斎などが残っている。 後方には祭祀空間を成す大成殿と東武·庶務があり、内三門を境に前方には教育空間である明倫堂と学生たちの寮である東斎·西斎があり、転校後墓の配置形式が見られる。 郷校では人性および礼節教育など伝統文化を教える教育の機能はもちろん、聖賢の位牌を祀って祭祀を行う祭祀の機能を現在まで続けている。",
+    "QA": [
+        {
+            "question": "仁川郷校はどこにありますか？",
+            "answer": "仁川広域市弥鄒忽区梅沼ホロ589にあります。"
+        },
+        {
+            "question": "仁川郷校は何のために建てられましたか？",
+            "answer": "仁川郷校は聖賢の位牌を祀り祭祀を行い、地方民の教育を担当するために国家で建てられた教育機関です。"
+        },
+        {
+            "question": "仁川郷校の建物の年代はどのくらいですか？",
+            "answer": "仁川郷校が初めて建てられた年代は分かりませんが、主要な建物は朝鮮後期に建てられたものとされています。"
+        },
+        {
+            "question": "仁川郷校で残っている主要な建物は何ですか？",
+            "answer": "仁川郷校で残っている主要な建物には、大成殿・明倫堂・三門などがあります。"
+        },
+        {
+            "question": "仁川郷校ではどのような機能がありますか？",
+            "answer": "仁川郷校では人性および礼節教育など伝統文化を教える教育の機能だけでなく、聖賢の位牌を祀って祭祀を行う機能もあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 297,
+        "QA": 225
+    }
+}

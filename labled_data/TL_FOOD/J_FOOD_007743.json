@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_007743",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-08-27",
+        "domain": "음식점",
+        "title": "ジョクウィハンス（족의한수）"
+    },
+    "text": "ジョクウィハンス（족의한수）\\n\nソウル特別市 鐘路区 水標路 93-1\\n\nソウル特別市のチョンノに位置した豚足専門店です。おすすめは豚足です。ピリ辛味と炭火焼きの半々チョッパル(豚足)が美味しい店です。",
+    "QA": [
+        {
+            "question": "このお店の場所はどこですか？",
+            "answer": "このお店はソウル特別市 鐘路区 水標路 93-1にあります。"
+        },
+        {
+            "question": "このお店のおすすめ料理は何ですか？",
+            "answer": "このお店のおすすめは豚足です。ピリ辛味と炭火焼きの半々チョッパル(豚足)が美味しいです。"
+        },
+        {
+            "question": "このお店の特徴は何ですか？",
+            "answer": "このお店は豚足専門店で、ピリ辛味と炭火焼きの半々チョッパルが特におすすめです。"
+        }
+    ],
+    "word_Count": {
+        "text": 75,
+        "QA": 115
+    }
+}

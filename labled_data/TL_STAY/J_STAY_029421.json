@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_029421",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.yanolja.com/motel/25615",
+        "collectedDate": "2023-11-07",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "부산 온천장 샤인"
+    },
+    "text": "総客室数は28室で構成されており、周辺には釜山1号線温泉場駅と明倫駅があります。 また、韓国語の他にも支援言語として追加で韓国語を提供しています。 駐車は大型駐車場から最大35台まで可能です。",
+    "QA": [
+        {
+            "question": "客室数は何室ですか？",
+            "answer": "総客室数は28室です。"
+        },
+        {
+            "question": "周辺にはどの駅がありますか？",
+            "answer": "周辺には釜山1号線温泉場駅と明倫駅があります。"
+        },
+        {
+            "question": "他に提供されている支援言語はありますか？",
+            "answer": "はい、韓国語の他にも追加で韓国語を提供しています。"
+        },
+        {
+            "question": "最大で駐車できる台数は何台ですか？",
+            "answer": "最大で35台まで駐車できます。"
+        }
+    ],
+    "word_Count": {
+        "text": 70,
+        "QA": 99
+    }
+}

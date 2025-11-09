@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_026706",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-07",
+        "domain": "음식점",
+        "title": "朝鮮キンパプ（조선김밥）"
+    },
+    "text": "朝鮮キンパプ\\n\nソウル特別市 鐘路区 栗谷路3キル68\\n\n朝鮮キンパプは、鐘路区安国洞にあるキンパプ専門店です。メニューは朝鮮キンパプ、練り天キンパプ、朝鮮ククシ（にゅうめん）などがあり、立食テーブルと座席が用意されています。",
+    "QA": [
+        {
+            "question": "このお店はどこにありますか？",
+            "answer": "朝鮮キンパプは、ソウル特別市鐘路区栗谷路3キル68にあります。"
+        },
+        {
+            "question": "このお店のメニューは何ですか？",
+            "answer": "朝鮮キンパプでは、朝鮮キンパプ、練り天キンパプ、朝鮮ククシ（にゅうめん）などが提供されています。"
+        },
+        {
+            "question": "お店にはテーブル席と立食テーブルがあるんですか？",
+            "answer": "はい、朝鮮キンパプにはテーブル席と立食テーブルの両方が用意されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 84,
+        "QA": 123
+    }
+}

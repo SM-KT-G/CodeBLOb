@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_115024",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/collectionList#######",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2023-10-11",
+        "domain": "문화/역사관광",
+        "title": "청화백자 새장"
+    },
+    "text": "青花白磁の鳥かご (청화백자 새장)\\n\n国籍や時代は、中国の古代のものです。材質は白磁の陶磁器で、作者は不明です。分類は畜産の一環として養鶏のためのオリで、大きさは高さ234cm、直径187cm、高さ19cm、高さ20cmです。",
+    "QA": [
+        {
+            "question": "この鳥かごはどこの国籍ですか？",
+            "answer": "中国の古代のものです。"
+        },
+        {
+            "question": "この鳥かごは何のために使用されましたか？",
+            "answer": "養鶏のためのオリとして使用されました。"
+        },
+        {
+            "question": "この鳥かごの材質は何ですか？",
+            "answer": "白磁の陶磁器でできています。"
+        },
+        {
+            "question": "この鳥かごの大きさはどのくらいですか？",
+            "answer": "高さ234cm、直径187cm、高さ19cm、高さ20cmです。"
+        }
+    ],
+    "word_Count": {
+        "text": 84,
+        "QA": 105
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_010627",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-01",
+        "domain": "음식점",
+        "title": "ドゥルメ薬山黒山羊肉 ( 들뫼약산흑염소전문점 )"
+    },
+    "text": "ドゥルメ薬山黒山羊肉 \n京畿道 平沢市 オリコクキル 101\n体にいい保養食として様々な黒山羊料理を味わえるところです。 代表的なメニューは黒山羊肉の和え物です。京畿道のピョンテク市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "ドゥルメ薬山黒山羊肉はどのような場所ですか？",
+            "answer": "ドゥルメ薬山黒山羊肉は京畿道平沢市オリコクキルに位置し、体にいい保養食として様々な黒山羊料理を味わえるレストランです。"
+        },
+        {
+            "question": "ドゥルメ薬山黒山羊肉の代表的なメニューは何ですか？",
+            "answer": "ドゥルメ薬山黒山羊肉の代表的なメニューは黒山羊肉の和え物です。"
+        },
+        {
+            "question": "ドゥルメ薬山黒山羊肉はどの市に位置していますか？",
+            "answer": "ドゥルメ薬山黒山羊肉は京畿道のピョンテク市に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 76,
+        "QA": 140
+    }
+}

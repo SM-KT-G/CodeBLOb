@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_095501",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=593&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=03190000&ccbaCtcd=37&ccbaCpno=2113703190000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2000-09-04",
+        "domain": "문화/역사관광",
+        "title": "은해사백흥암감로왕도"
+    },
+    "text": "朝鮮時代、正祖(1792)時期に慶尚北道に位置した銀海寺ベクフンアムに保存されている仏画絵の『盂蘭盆経』は長さと幅がそれぞれ218.5センチ、225㎝で、大きく描かれた。絵の上段部分には極楽に行く阿弥陀如来と観世音菩薩、大勢至菩薩などとともに地獄の衆生を救援にきた姿が描かれている。これらを導く、車やインド王菩薩も含まれており、これら周囲を五色の雲が取り巻いている。絵の中央には特に2区のアンコウを強調して大きく描いて、周囲には地獄の苦痛と現世の様々な賞をリアルに表現した。各場面は雲と岩山との境界をなし、赤い紙に説明をつけておいた。絵の下部には、後期の民話によく見られる虎も描かれている。絵の下にある記録を通じてこの作品が正祖16年(1792)に制作されたことを確認することができる。アンコウを強調した特異な画面構成と一貫した線、表現された色感は当時、不和の様式をよく反映している。また、韓国の絵画史ではこの作品を通じて朝鮮後期に現れ始めた不和と風俗画的な要素の変化を観察することができると評価している。",
+    "QA": [
+        {
+            "question": "この仏画絵の大きさは何センチですか？",
+            "answer": "幅が218.5センチ、高さが225センチです。"
+        },
+        {
+            "question": "絵の上段部分には何が描かれていますか？",
+            "answer": "極楽に行く阿弥陀如来と観世音菩薩、大勢至菩薩などが地獄の衆生を救援にきた姿が描かれています。"
+        },
+        {
+            "question": "絵の中央には何が特に大きく描かれていますか？",
+            "answer": "特に2区のアンコウが大きく描かれています。"
+        },
+        {
+            "question": "絵の下部には何が描かれていますか？",
+            "answer": "後期の民話によく見られる虎が描かれています。"
+        },
+        {
+            "question": "この仏画絵が制作された年はいつですか？",
+            "answer": "この作品が制作されたのは正祖16年(1792)です。"
+        },
+        {
+            "question": "この作品の特異な画面構成や色感についてどのような評価がされていますか？",
+            "answer": "アンコウを強調した特異な画面構成と一貫した線、表現された色感は当時の不和の様式をよく反映していると評価されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 332,
+        "QA": 239
+    }
+}

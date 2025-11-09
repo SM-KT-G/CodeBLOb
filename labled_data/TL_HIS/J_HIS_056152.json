@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_056152",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=203&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=19290000&ccbaCtcd=21&ccbaCpno=1122119290000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2017-03-08",
+        "domain": "문화/역사관광",
+        "title": "김윤겸 필 영남기행화첩"
+    },
+    "text": "18世紀後半、朝鮮時代の宝物キムユンギョムは、安東(アンドン)出身で、極洋者と震災、山椒、ムクチョ号を使用した。キムチャンオプの庶子で自分の個性を発揮しており、チャルバンを務めながら活動した。画風上の個性と特徴を見せている姜世晃と一緒に活動したが、単純化させて線で描写して淡彩を添えて抽象美が漂う絵を描いた。実景山水画を主に描く、個性的に表現した。キムユンギョムの作品のうち<嶺南(ヨンナム)紀行画帖>は、釜山や慶尚南道一帯の景勝を描いた14幅の絵として、朝鮮後期の学者たちの旅行や詩文と書画芸術をよく示している。この作品は嶺南(ヨンナム)地域の重要な文化史的な価値をもち、国家指定文化財に選定されている。",
+    "QA": [
+        {
+            "question": "キムユンギョムはどこ出身ですか？",
+            "answer": "キムユンギョムは安東(アンドン)出身です。"
+        },
+        {
+            "question": "キムユンギョムは何を使用して絵を描きましたか？",
+            "answer": "キムユンギョムは極洋者と震災、山椒、ムクチョ号を使用して絵を描きました。"
+        },
+        {
+            "question": "キムユンギョムは何の庶子でしたか？",
+            "answer": "キムユンギョムはキムチャンオプの庶子でした。"
+        },
+        {
+            "question": "キムユンギョムはどのような画風を持っていましたか？",
+            "answer": "キムユンギョムは単純化させて線で描写して淡彩を添えて抽象美が漂う絵を描いていました。"
+        },
+        {
+            "question": "キムユンギョムの代表作品である<嶺南(ヨンナム)紀行画帖>は何を描いた作品ですか？",
+            "answer": "<嶺南(ヨンナム)紀行画帖>は釜山や慶尚南道一帯の景勝を描いた14幅の絵です。"
+        }
+    ],
+    "word_Count": {
+        "text": 222,
+        "QA": 206
+    }
+}

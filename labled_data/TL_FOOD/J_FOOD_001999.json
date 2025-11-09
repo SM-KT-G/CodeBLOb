@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001999",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/pioni",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "peony / ピオニ"
+    },
+    "text": "peony / ピオニ\\n\nソウル特別市 麻浦区 延南洞 366-19\\n\n弘益大学周辺の有名な生クリーム専門店。イチゴケーキが一番有名です。イチゴが重なり合っていておいしいです。",
+    "QA": [
+        {
+            "question": "ピオニはどこにありますか？",
+            "answer": "ピオニはソウル特別市麻浦区延南洞366-19にあります。"
+        },
+        {
+            "question": "ピオニの特徴は何ですか？",
+            "answer": "ピオニは生クリーム専門店で、イチゴケーキが一番有名です。イチゴが重なり合っていておいしいです。"
+        },
+        {
+            "question": "ピオニの周辺には何がありますか？",
+            "answer": "ピオニは弘益大学の周辺にあります。"
+        },
+        {
+            "question": "ピオニのおすすめのメニューは何ですか？",
+            "answer": "ピオニのおすすめはイチゴケーキです。イチゴの味がたっぷり楽しめます。"
+        },
+        {
+            "question": "ピオニの営業時間は何時から何時までですか？",
+            "answer": "ピオニの営業時間は10時から20時までです。"
+        }
+    ],
+    "word_Count": {
+        "text": 66,
+        "QA": 167
+    }
+}

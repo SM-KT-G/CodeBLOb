@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_009823",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1255&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=79&ccbaAsno=07200200&ccbaCtcd=37&ccbaCpno=4413707200200&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2018-08-06",
+        "domain": "문화/역사관광",
+        "title": "구 영주역 7호 관사"
+    },
+    "text": "旧栄州駅7号館舎 (구 영주역 7호 관사 )\\n\n慶尚北道栄州市斗西キル63(栄州洞)\\n\n国家登録文化財 , 旧栄州駅5号館舎と共に日本による植民地時代当時、栄州駅館舎として建設された2号長屋で木造和食館舎住宅の典型を示す建築物の一つで、内部空間構成、外観形態、構造および材料の保存状態も良好だ。 1942年に中央線が開通し、栄州駅が中間駅としての役割を果たしたのが栄州市が近代都市に発展できる契機になり、鉄道集団の官舎として造成された「官舎谷」が持っている都市生活史的保存と活用価値がある。",
+    "QA": [
+        {
+            "question": "この建物は何のために建築されましたか？",
+            "answer": "この建物は、日本の植民地時代に栄州駅の館舎として建設されました。"
+        },
+        {
+            "question": "この建物はどのような建築様式ですか？",
+            "answer": "この建物は木造和食館舎住宅の典型を示す建築物です。"
+        },
+        {
+            "question": "この建物の保存状態はどうですか？",
+            "answer": "この建物は内部空間構成、外観形態、構造および材料の保存状態が良好です。"
+        },
+        {
+            "question": "栄州駅はどのような役割を果たしましたか？",
+            "answer": "栄州駅は中央線の中間駅としての役割を果たし、栄州市の発展の契機となりました。"
+        },
+        {
+            "question": "この建物の周辺にはどのような歴史的な価値がありますか？",
+            "answer": "この建物の周辺には「官舎谷」という鉄道集団の官舎があり、都市生活史的保存と活用価値があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 181,
+        "QA": 203
+    }
+}

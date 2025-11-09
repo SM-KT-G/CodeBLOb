@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_015092",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-09-01",
+        "domain": "음식점",
+        "title": "らくしゅん ( 라크슌 )"
+    },
+    "text": "らくしゅん ( 라크슌 )\\n\nソウル特別市 鐘路区 清渓川路 97-6\\n\n20年の経歴を持つオーナーシェフによる日本料理とフュージョン料理が味わえるお店です。 ソウル特別市のジョンノ区に位置した和食専門店です。おすすめは豚骨ラーメンです。",
+    "QA": [
+        {
+            "question": "このお店の場所はどこですか？",
+            "answer": "このお店はソウル特別市鐘路区清渓川路97-6に位置しています。"
+        },
+        {
+            "question": "このお店のオーナーシェフの経歴はどのようなものですか？",
+            "answer": "このお店のオーナーシェフは20年の経歴を持っています。"
+        },
+        {
+            "question": "このお店ではどんな料理が提供されていますか？",
+            "answer": "このお店では日本料理とフュージョン料理が提供されています。特におすすめは豚骨ラーメンです。"
+        },
+        {
+            "question": "このお店の雰囲気はどのようなものですか？",
+            "answer": "このお店の雰囲気は落ち着いた和風の雰囲気です。"
+        }
+    ],
+    "word_Count": {
+        "text": 88,
+        "QA": 153
+    }
+}

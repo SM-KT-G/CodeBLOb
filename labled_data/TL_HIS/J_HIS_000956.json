@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_000956",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2023-04-23",
+        "domain": "문화/역사관광",
+        "title": "DMZ 평화 걷기"
+    },
+    "text": "DMZ平和歩き (DMZ 평화 걷기)\\n\n京畿道坡州市ジャンロ148-40平和ヌリ\\n\nDMZ一帯で楽しむスポーツイベント！DMZRUNが坡州ジャン平和ヌリ一帯で開催されます。DMZRUNは平和ウォーキングと平和マラソンの2つのイベントを提供し、参加者はDMZ一帯で走ったり乗ったり歩いたりしながら平和の意味を考え、自然の価値を実践的に体感することができます。特に平和ウォーキングでは、軍のパトロール路を使った臨津江辺生態探訪路コースを通ることができ、鉄柵を挟んだ民統線の景色を楽しむこともできます。",
+    "QA": [
+        {
+            "question": "DMZRUNはどこで開催されますか？",
+            "answer": "DMZRUNは坡州ジャン平和ヌリ一帯で開催されます。"
+        },
+        {
+            "question": "DMZRUNは何のイベントですか？",
+            "answer": "DMZRUNは平和ウォーキングと平和マラソンの2つのイベントを提供しています。"
+        },
+        {
+            "question": "DMZRUNで参加者は何をすることができますか？",
+            "answer": "参加者はDMZ一帯で走ったり乗ったり歩いたりしながら平和の意味を考え、自然の価値を実践的に体感することができます。"
+        },
+        {
+            "question": "平和ウォーキングではどのようなコースを通ることができますか？",
+            "answer": "平和ウォーキングでは、軍のパトロール路を使った臨津江辺生態探訪路コースを通ることができます。また、鉄柵を挟んだ民統線の景色を楽しむこともできます。"
+        }
+    ],
+    "word_Count": {
+        "text": 184,
+        "QA": 208
+    }
+}

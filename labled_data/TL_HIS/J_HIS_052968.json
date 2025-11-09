@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_052968",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=975&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=00220000&ccbaCtcd=33&ccbaCpno=3413300220000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1998-01-09",
+        "domain": "문화/역사관광",
+        "title": "괴산 보안사 석조약사여래좌상"
+    },
+    "text": "高麗時代の後期にある忠清北道槐山郡晴安面、ヒョグン里に位置した保安司大雄殿の中には石造ヨレジュワ賞が置かれているが、この仏像は光背と台座は残っていないが、大きく毀損されていない状態だ。顔に比べて肩が萎縮されていて、彫刻技法が鈍化してあごを下げるなどの様相を見せてくれる。仏像の手から、左手の上には薬の器を持っていたものと見られるが、現在は無くなって推定だけ可能だ。この作品は鈍化して萎縮した高麗時代後期の仏像様式を示している。",
+    "QA": [
+        {
+            "question": "この仏像はどこに位置していましたか？",
+            "answer": "この仏像は高麗時代の後期にある忠清北道槐山郡晴安面、ヒョグン里に位置していました。"
+        },
+        {
+            "question": "この仏像はどのような状態で現存していますか？",
+            "answer": "この仏像は光背と台座は残っていないものの、大きく毀損されていない状態で現存しています。"
+        },
+        {
+            "question": "この仏像の特徴は何ですか？",
+            "answer": "この仏像は顔に比べて肩が萎縮されており、彫刻技法が鈍化してあごを下げるなどの様相を見せています。"
+        },
+        {
+            "question": "この仏像は何を持っていましたか？",
+            "answer": "この仏像の手から、左手の上には薬の器を持っていたと見られますが、現在は無くなっているため推定のみです。"
+        },
+        {
+            "question": "この作品はどのような時代の仏像様式を示していますか？",
+            "answer": "この作品は鈍化して萎縮した高麗時代後期の仏像様式を示しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 156,
+        "QA": 227
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_011269",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1186&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=06700000&ccbaCtcd=37&ccbaCpno=3413706700000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2019-03-25",
+        "domain": "문화/역사관광",
+        "title": "김천 계림사 석조불보살좌상"
+    },
+    "text": "金泉桂林寺石造仏菩薩坐像 (김천 계림사 석조불보살좌상 )\\n\n慶尚北道金泉市\\n\n慶尚北道文化財資料 , 桂林寺釈迦三尊仏坐像は18世紀前半に造成されたものと推定され、現在桂林寺大雄殿に奉安中だ。大雄殿の仏壇には釈迦如来坐像を主尊に、香の左側に薬師仏坐像、香の右側に菩薩坐像がある。 釈迦如来坐像は触知人の数人を結び、菩薩坐像は両手を膝の上に上げている。 釈迦如来坐像は勝己之、菩薩坐像は勝己之と浮見義、大義をまたいだ姿だ。 3体の仏像は全て仏石と見られる石で製作され、様式上の特徴から見て18世紀前半に製作されたものと推定される。 このうち釈迦像と菩薩像は18世紀初めに承虎派彫刻僧によって製作されたものと推定され、反面薬師像は金門-清允の系譜に属する彫刻僧によって製作されたものと推定される。",
+    "QA": [
+        {
+            "question": "この仏坐像はどこにあるのですか？",
+            "answer": "金泉市の桂林寺大雄殿に奉安されています。"
+        },
+        {
+            "question": "桂林寺釈迦三尊仏坐像はいつ造られたものですか？",
+            "answer": "18世紀前半に造成されたものと推定されています。"
+        },
+        {
+            "question": "桂林寺大雄殿の仏壇にはどのような仏像がありますか？",
+            "answer": "釈迦如来坐像を主尊に、薬師仏坐像と菩薩坐像があります。"
+        },
+        {
+            "question": "釈迦如来坐像の特徴は何ですか？",
+            "answer": "触知人の数人を結び、姿勢は勝己之です。"
+        },
+        {
+            "question": "菩薩坐像の特徴は何ですか？",
+            "answer": "両手を膝の上に上げており、姿勢は勝己之と浮見義、大義をまたいだ姿です。"
+        },
+        {
+            "question": "仏像はどのような石で製作されていますか？",
+            "answer": "仏石と見られる石で製作されています。"
+        },
+        {
+            "question": "釈迦像と菩薩像はどの時期に製作されたものですか？",
+            "answer": "釈迦像と菩薩像は18世紀初めに製作されたものと推定されています。"
+        },
+        {
+            "question": "薬師像はどの系譜に属する彫刻僧によって製作されたものですか？",
+            "answer": "薬師像は金門-清允の系譜に属する彫刻僧によって製作されたものと推定されます。"
+        }
+    ],
+    "word_Count": {
+        "text": 256,
+        "QA": 277
+    }
+}

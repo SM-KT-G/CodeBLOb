@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_057524",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.goodchoice.kr/product/detail?ano=5814&adcno=1&sel_date=2023-11-06&sel_date2=2023-11-07",
+        "collectedDate": "2023-11-15",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "의정부 라온호텔"
+    },
+    "text": "合計24台分の駐車施設を保有しており、バレットパーキングサービスも提供しています。 駐車場をたくさんご利用ください。 地下鉄の情報としては議政府駅と回龍駅があり、その他にも凡骨駅をご利用ください。 客室内部にはネットフリックスを視聴できるサービスが提供されています。",
+    "QA": [
+        {
+            "question": "駐車場は何台分ありますか？",
+            "answer": "合計24台分の駐車施設を保有しています。"
+        },
+        {
+            "question": "バレットパーキングサービスは提供していますか？",
+            "answer": "はい、バレットパーキングサービスも提供しています。"
+        },
+        {
+            "question": "地下鉄の駅はどこにありますか？",
+            "answer": "議政府駅と回龍駅が利用可能です。また、凡骨駅も利用できます。"
+        },
+        {
+            "question": "客室内で何ができますか？",
+            "answer": "客室内ではネットフリックスを視聴できるサービスが提供されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 97,
+        "QA": 125
+    }
+}

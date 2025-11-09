@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_037426",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=972&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=00200000&ccbaCtcd=25&ccbaCpno=3412500200000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1989-03-18",
+        "domain": "문화/역사관광",
+        "title": "청구풍아"
+    },
+    "text": "青丘風雅 (청구풍아)\\n\n大田広域市儒城区図案大路398(上大洞、大田広域市儒城区図案大路398)\\n\n1531(中宗26)、大田広域市文化財資料、この木版は三国時代以降から朝鮮前期までの韓国の名県の詩を選んで評価し、解釈を付けたものだ。 朝鮮成宗4年(1473)、キム·ジョンジクが編纂作業に着手し、2年後に完成し、中宗26年(1531)公州ですでに出版された本を土台に体制だけを変えて再び刊行した。 構成を見ると、原集が7巻1冊、続集が7巻1冊の計2冊14冊となっている。 安東金氏一族から代々受け継がれてきたもので、金秀仁（キム·スイン）らのインギ（印鑑）が押されている。",
+    "QA": [
+        {
+            "question": "この木版は何のために作られたのですか？",
+            "answer": "この木版は三国時代以降から朝鮮前期までの韓国の名県の詩を選んで評価し、解釈を付けるために作られました。"
+        },
+        {
+            "question": "この木版はいつ作られましたか？",
+            "answer": "朝鮮成宗4年(1473)、キム·ジョンジクが編纂作業に着手し、2年後に完成し、中宗26年(1531)に公州で再び刊行されました。"
+        },
+        {
+            "question": "この木版は何で構成されていますか？",
+            "answer": "原集が7巻1冊、続集が7巻1冊の計2冊14冊で構成されています。"
+        },
+        {
+            "question": "この木版は何のために再び刊行されたのですか？",
+            "answer": "この木版は元々公州で出版された本を土台に体制だけを変えて再び刊行するために再び刊行されました。"
+        },
+        {
+            "question": "この木版にはどのような印鑑が押されていますか？",
+            "answer": "この木版には金秀仁（キム·スイン）らのインギ（印鑑）が押されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 212,
+        "QA": 238
+    }
+}

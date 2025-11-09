@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_019373",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42080&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "고성 금강산콘도"
+    },
+    "text": "国内で最も美しい景観が見られる場所、日常を離れて休みたい時、いつでも気軽に休める場所。 家族と一緒にこぢんまりとした休暇を過ごせる場所だ。 恋人との幸せな思い出を作る場所でもあり、華やかではなくリラックスして居心地の良い場所である。 きれいな空気と自然が息づく場所だ。 広い窓から開けた海が一望できるだけでなく、窓を開けると涼しい海風が胸の中をひゅうひゅうとする。",
+    "QA": [
+        {
+            "question": "この場所で最も美しい景観は何ですか？",
+            "answer": "この場所で最も美しい景観は、広い窓から一望できる海でしょう。"
+        },
+        {
+            "question": "この場所では、日常を離れて休むことができますか？",
+            "answer": "はい、この場所では日常を離れてゆっくりと休むことができます。"
+        },
+        {
+            "question": "家族と一緒に過ごすことができる場所ですか？",
+            "answer": "はい、この場所では家族と一緒にこぢんまりとした休暇を過ごすことができます。"
+        },
+        {
+            "question": "恋人との思い出作りに適していますか？",
+            "answer": "はい、この場所は華やかではなくリラックスして居心地の良い場所であり、恋人との幸せな思い出作りに適しています。"
+        },
+        {
+            "question": "どんな自然がこの場所に息づいていますか？",
+            "answer": "この場所にはきれいな空気と自然が息づいており、海風も感じることができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 133,
+        "QA": 211
+    }
+}

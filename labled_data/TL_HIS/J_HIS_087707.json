@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_087707",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ja",
+        "translator": null,
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-07-15",
+        "domain": "문화/역사관광",
+        "title": "安東河回テンジャン村（안동 하회된장마을）"
+    },
+    "text": "安東河回テンジャン村\n慶尚北道 安東市 豊川面 ジョンソ路 72\n安東河回テンジャン村は、安東市豊川面河回里の河回村と屏山書院との分かれ道に位置しています。この村は河回仮面や柳成龍で有名なところで、テンジャン（味噌）の深い味わいを継承し続けています。",
+    "QA": [
+        {
+            "question": "この村の名前は何ですか？",
+            "answer": "河回テンジャン村"
+        },
+        {
+            "question": "この村はどこに位置していますか？",
+            "answer": "安東市豊川面河回里の河回村と屏山書院との分かれ道に位置しています。"
+        },
+        {
+            "question": "この村で有名な食べ物は何ですか？",
+            "answer": "テンジャン（味噌）"
+        },
+        {
+            "question": "この村で有名な産品は何ですか？",
+            "answer": "河回仮面や柳成龍"
+        },
+        {
+            "question": "この村の特産品はどのような特徴がありますか？",
+            "answer": "テンジャンの深い味わいを継承し続けています。"
+        }
+    ],
+    "word_Count": {
+        "text": 91,
+        "QA": 118
+    }
+}

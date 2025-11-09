@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001720",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-08-27",
+        "domain": "음식점",
+        "title": "Hakrim Dabang ( 학림다방 )"
+    },
+    "text": "Hakrim Dabang ( 학림다방 )\\n\nソウル特別市 鐘路区 テハクロ119\\n\n1956年から営業している、レトロな雰囲気の店です。おすすめはウィンナーコーヒーです。ソウル特別市のチョンノ区に位置したカフェ（コーヒーショップ）です。",
+    "QA": [
+        {
+            "question": "学林ダバン（ハクリムダバン）はいつ営業を始めましたか？",
+            "answer": "1956年から営業しています。"
+        },
+        {
+            "question": "学林ダバンの場所はどこですか？",
+            "answer": "学林ダバンはソウル特別市鐘路区テハクロ119に位置しています。"
+        },
+        {
+            "question": "学林ダバンでおすすめのメニューは何ですか？",
+            "answer": "ウィンナーコーヒーがおすすめです。"
+        },
+        {
+            "question": "学林ダバンはどんな雰囲気の店ですか？",
+            "answer": "学林ダバンはレトロな雰囲気の店です。"
+        }
+    ],
+    "word_Count": {
+        "text": 89,
+        "QA": 118
+    }
+}

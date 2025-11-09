@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_086650",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=979&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=00250300&ccbaCtcd=38&ccbaCpno=3413800250300&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1983-08-06",
+        "domain": "문화/역사관광",
+        "title": "신초 초상"
+    },
+    "text": "新潮の肖像\\n\n慶尚南道昌寧郡桂城面沙里314\\n\n慶尚南道文化財資料、新潮肖像は仁祖15年(1637)に描かれたというか泉書院で盗難にあった。地域の画家の作品と把握され、現在、写真で戦死された実物大のコピーが展示されている。肖像は網巾の上に笠を被って青色用の礼服を着た将軍が斜めな視線で両手を前に揃えて重ねてとって椅子に座っているようだ。",
+    "QA": [
+        {
+            "question": "誰がこの肖像を描いたのですか？",
+            "answer": "泉書院で盗難にあった肖像は、地域の画家によって描かれました。"
+        },
+        {
+            "question": "いつこの肖像が描かれたのですか？",
+            "answer": "この肖像は仁祖15年(1637)に描かれました。"
+        },
+        {
+            "question": "どこでこの肖像が盗難にあったのですか？",
+            "answer": "この肖像は泉書院で盗難にあったとされています。"
+        },
+        {
+            "question": "なぜこの肖像は地域の画家の作品とされていますか？",
+            "answer": "この肖像は地域の画家によって描かれたと把握されています。"
+        },
+        {
+            "question": "この肖像はどこで展示されていますか？",
+            "answer": "現在、写真で戦死された実物大のコピーが展示されています。"
+        },
+        {
+            "question": "肖像の特徴は何ですか？",
+            "answer": "肖像は網巾の上に笠を被って青色用の礼服を着た将軍が斜めな視線で両手を前に揃えて重ねてとって椅子に座っているようです。"
+        }
+    ],
+    "word_Count": {
+        "text": 124,
+        "QA": 215
+    }
+}

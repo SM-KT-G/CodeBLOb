@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_038099",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=449&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=00960000&ccbaCtcd=35&ccbaCpno=2113500960000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1981-04-01",
+        "domain": "문화/역사관광",
+        "title": "용흥리해정사지석탑"
+    },
+    "text": "龍興里海鼎寺址石塔 (용흥리해정사지석탑)\\n\n全羅北道井邑市古阜面龍興里山14番地\\n\n全羅北道有形文化財、古府邑城がある城隍山の北麓に位置している塔だ。 周辺で「海鼎寺」と刻まれた瓦礫が発見され、この寺の旧跡として伝えられている。塔は全体の重さを支える基壇を2階に積み、その上に3階の塔身を乗せた姿で、頂上の頭飾りは後ろに別に作って載せたものだ。 各基壇の4面と塔身部の各石には角ごとに柱の形を模した彫刻が置かれている。屋根石は底面に3段ずつの支えを置いており、全体的に厚い方ではないが軽快な感じは落ちる。簡略に流れている各部分の腕前から見て高麗時代に建てたものと見られるが、塔身部の1階の石が大きすぎてバランスが合わない。 古府邑城周辺の石塔が全て2層基壇に5層以上の高さを持っている点から見て、この塔も5層程度の石塔と推定される。",
+    "QA": [
+        {
+            "question": "この石塔はどこに位置していますか？",
+            "answer": "この石塔は全羅北道井邑市古阜面龍興里山14番地に位置しています。"
+        },
+        {
+            "question": "この石塔は何のために建てられましたか？",
+            "answer": "この石塔は海鼎寺の旧跡として建てられました。"
+        },
+        {
+            "question": "この石塔はどの時代に建てられたと考えられますか？",
+            "answer": "この石塔は高麗時代に建てられたと考えられています。"
+        },
+        {
+            "question": "この石塔の特徴はどのようなものですか？",
+            "answer": "この石塔は基壇を2階に積んでおり、3階の塔身を乗せた姿をしています。また、角ごとに柱の形を模した彫刻が置かれています。"
+        },
+        {
+            "question": "この石塔は何層の構造ですか？",
+            "answer": "この石塔は5層程度の構造を持っていると推定されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 270,
+        "QA": 189
+    }
+}

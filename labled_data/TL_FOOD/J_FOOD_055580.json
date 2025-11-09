@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_055580",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/matdeurim-gimbamnaendeu",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "マッドゥリムギムバブレンドゥ"
+    },
+    "text": "マッドゥリムギムバブレンドゥ\\n\n全羅南道 順天市 八馬路 128\\n\n全羅南道のスンチョン市に位置した韓食です。代表的なメニューは黒米キンパプです。KTX順天駅の近くにあります。",
+    "QA": [
+        {
+            "question": "この韓食店の名前は何ですか？",
+            "answer": "マッドゥリムギムバブレンドゥ"
+        },
+        {
+            "question": "この韓食店はどこにありますか？",
+            "answer": "全羅南道のスンチョン市の八馬路128番地に位置しています。"
+        },
+        {
+            "question": "この韓食店の代表的なメニューは何ですか？",
+            "answer": "黒米キンパプが代表的なメニューです。"
+        },
+        {
+            "question": "この韓食店はKTX順天駅の近くにありますか？",
+            "answer": "はい、KTX順天駅の近くにあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 66,
+        "QA": 110
+    }
+}

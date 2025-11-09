@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_012560",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-01",
+        "domain": "음식점",
+        "title": "ファジョン素麺 ( 화전국수 )"
+    },
+    "text": "ファジョン素麺 ( 화전국수 )\n釜山広域市 釜山鎮区 中央大路702ボンキル 17-2\nボリュームたっぷりの麺とクッパを手頃な値段で食べられる店です。釜山広域市のブサンジン区に位置した韓食専門店です。おすすめは温素麺です。",
+    "QA": [
+        {
+            "question": "この店の名前は何ですか？",
+            "answer": "この店の名前はファジョン素麺です。"
+        },
+        {
+            "question": "この店はどこに位置していますか？",
+            "answer": "この店は釜山広域市のブサンジン区に位置しています。"
+        },
+        {
+            "question": "この店のおすすめメニューは何ですか？",
+            "answer": "この店のおすすめは温素麺です。"
+        },
+        {
+            "question": "この店の特徴は何ですか？",
+            "answer": "この店の特徴はボリュームたっぷりの麺とクッパを手頃な値段で食べられることです。"
+        }
+    ],
+    "word_Count": {
+        "text": 82,
+        "QA": 112
+    }
+}

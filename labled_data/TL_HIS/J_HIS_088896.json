@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_088896",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1230&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=79&ccbaAsno=04750000&ccbaCtcd=34&ccbaCpno=4413404750000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2011-08-24",
+        "domain": "문화/역사관광",
+        "title": "애국창가 악보집"
+    },
+    "text": "1916年に国家登録文化財に登録された\"愛国窓際楽譜集\"は愛国唱歌を集めて編纂した楽譜の家だ。この楽譜集は、米国ハワイで編纂されており、愛国唱歌を集大成したものとして愛国歌、グクミンカ、ゴグクカ、精神家、ハン・ヨンコストなど70本余りの窓際が収録されている。ほとんどの楽曲は西洋の音階を基礎としているが、民謡調の楽曲も含まれているという特徴がある。この楽譜集は、朝鮮の独立と愛国、日本に対する抵抗の意志など、当時の時代相を反映しており、歴史的価値が高い。",
+    "QA": [
+        {
+            "question": "愛国窓際楽譜集は何年に国家登録文化財に登録されましたか？",
+            "answer": "愛国窓際楽譜集は1916年に国家登録文化財に登録されました。"
+        },
+        {
+            "question": "愛国窓際楽譜集はどこで編纂されましたか？",
+            "answer": "愛国窓際楽譜集は米国ハワイで編纂されました。"
+        },
+        {
+            "question": "愛国窓際楽譜集には何種類の愛国唱歌が収録されていますか？",
+            "answer": "愛国窓際楽譜集には愛国歌、グクミンカ、ゴグクカ、精神家、ハン・ヨンコストなど70本余りの窓際が収録されています。"
+        },
+        {
+            "question": "愛国窓際楽譜集の楽曲はどのような特徴がありますか？",
+            "answer": "ほとんどの楽曲は西洋の音階を基礎としていますが、民謡調の楽曲も含まれています。"
+        },
+        {
+            "question": "愛国窓際楽譜集はどのような時代の意思を反映していますか？",
+            "answer": "愛国窓際楽譜集は朝鮮の独立と愛国、日本に対する抵抗の意志など、当時の時代相を反映しており、歴史的価値が高いです。"
+        }
+    ],
+    "word_Count": {
+        "text": 166,
+        "QA": 243
+    }
+}

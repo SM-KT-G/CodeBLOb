@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_026156",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/goods/GN0002024243?startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0%5E&npprmaxsort=min",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "공주 봄날처럼펜션"
+    },
+    "text": "自然の中の憩いの場として知られる鶏龍山を囲むペンション春の日のように、日常に疲れた都市の人々には鶏龍山が与える自然の平和と安らぎを満喫できる最適な場所です。 ペンションの春の日のようにはいつもあなたの訪問を歓迎します。 入室時間が22時以降の場合は、事前にペンションまでご連絡ください。",
+    "QA": [
+        {
+            "question": "鶏龍山はどのような場所ですか？",
+            "answer": "鶏龍山は自然の中の憩いの場として知られており、都市の人々に自然の平和と安らぎを提供しています。"
+        },
+        {
+            "question": "ペンション春の日のようにはどのような特徴がありますか？",
+            "answer": "ペンション春の日のようには、鶏龍山を囲む美しい自然環境を満喫できる最適な場所です。"
+        },
+        {
+            "question": "入室時間が22時以降の場合はどうすればいいですか？",
+            "answer": "入室時間が22時以降の場合は、事前にペンションに連絡する必要があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 104,
+        "QA": 140
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_009587",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-05-25",
+        "domain": "음식점",
+        "title": "タルゲビ（달개비）"
+    },
+    "text": "タルゲビ\\n\nソウル特別市 中区 世宗大路19キル16\\n\n「タルゲビ（タルケビ／ダルゲビ）」は美しい器に料理を盛り付けて出してくれる韓国料理レストランで、マッコリと竹ご飯が主なメニューです。昔ながらの手法で作られたマッコリを器に注ぐと麹のにおいが鼻をくすぐります。竹筒に黍、粟、もち米、豆などを入れて炊いた飯をよそうと、竹の匂いがほのかに香ります。",
+    "QA": [
+        {
+            "question": "このレストランの名前は何ですか？",
+            "answer": "タルゲビ（タルケビ／ダルゲビ）です。"
+        },
+        {
+            "question": "どのような料理がメニューにありますか？",
+            "answer": "主なメニューはマッコリと竹ご飯です。"
+        },
+        {
+            "question": "マッコリはどのように作られますか？",
+            "answer": "昔ながらの手法で作られています。"
+        },
+        {
+            "question": "竹ご飯には何が入っていますか？",
+            "answer": "黍、粟、もち米、豆などが入っています。"
+        },
+        {
+            "question": "レストランの場所はどこですか？",
+            "answer": "ソウル特別市 中区 世宗大路19キル16にあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 128,
+        "QA": 131
+    }
+}

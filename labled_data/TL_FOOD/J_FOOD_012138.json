@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_012138",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-03",
+        "domain": "음식점",
+        "title": "バントルカルグクス ( 밤톨칼국수 )"
+    },
+    "text": "バントルカルグクス ( 밤톨칼국수 )\\n\n江原道 ガンヌン市 ハピョン2ギル6\\n\n海鮮入りカルグクスが味わえる店です。代表的なメニューはカルグクスです。江原道のガンヌン市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "この店の名前は何ですか？",
+            "answer": "バントルカルグクス (밤톨칼국수) です。"
+        },
+        {
+            "question": "この店はどこに位置していますか？",
+            "answer": "この店は江原道のガンヌン市のハピョン2ギル6に位置しています。"
+        },
+        {
+            "question": "この店の代表的なメニューは何ですか？",
+            "answer": "この店の代表的なメニューはカルグクスです。"
+        },
+        {
+            "question": "この店ではどんな料理が味わえますか？",
+            "answer": "この店では海鮮入りカルグクスなどの韓食が味わえます。"
+        }
+    ],
+    "word_Count": {
+        "text": 73,
+        "QA": 119
+    }
+}

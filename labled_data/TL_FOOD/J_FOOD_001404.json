@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001404",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2020-12-21",
+        "domain": "음식점",
+        "title": "a la papa( 아라파파 )"
+    },
+    "text": "a la papa( 아라파파 )\\n\n済州特別自治道 済州市 グクギ路3キル 2\\n\n手作りパンとジャムを販売している店です。 済州特別自治道のジェジュ市に位置したカフェ（コーヒーショップ）です。代表的なメニューは様々なパンです。",
+    "QA": [
+        {
+            "question": "この店はどこにありますか？",
+            "answer": "この店は済州特別自治道のジェジュ市に位置しています。"
+        },
+        {
+            "question": "この店は何を販売していますか？",
+            "answer": "この店は手作りパンとジャムを販売しています。"
+        },
+        {
+            "question": "この店の代表的なメニューは何ですか？",
+            "answer": "この店の代表的なメニューは様々なパンです。"
+        }
+    ],
+    "word_Count": {
+        "text": 85,
+        "QA": 84
+    }
+}

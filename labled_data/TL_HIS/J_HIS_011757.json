@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_011757",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=601&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=03340000&ccbaCtcd=38&ccbaCpno=2113803340000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1997-01-30",
+        "domain": "문화/역사관광",
+        "title": "남원양씨 용성세고 목판"
+    },
+    "text": "南原梁氏龍城細古木版 (남원양씨 용성세고 목판 )\\n\n慶尚南道咸陽郡咸陽邑ピルボンサンギル55(校山里、咸陽博物館)\\n\n慶尚南道有形文化財 , 正祖10年(1786)に刊行された南原梁氏の世稿で計70枚であり、刊行された当時に版刻された能画経版1枚が一緒に所蔵されている。 序文はユン·グァンソが書いており、巻1にはヤン·チョンジ·ヤングァン·ヤンウンゴン·ヤンヒ、巻2にはヤン·ホンス·ヤンブ·ヤンファン、そして付録には柳成龍（ユ·ソンリョン）、李珥（イ·イ）、宋時烈（ソン·シヨル）などの碑文が載っている。 これは当時、南原ヤン氏一族の内訳が分かり、南原ヤン氏一族の人物と交流した人物の関係などを把握できる資料と評価される。",
+    "QA": [
+        {
+            "question": "この南原梁氏龍城細古木版は何年に刊行されましたか？",
+            "answer": "1786年、正祖10年に刊行されました。"
+        },
+        {
+            "question": "南原梁氏龍城細古木版は何枚の巻物で構成されていますか？",
+            "answer": "計70枚の巻物で構成されています。"
+        },
+        {
+            "question": "南原梁氏龍城細古木版には何の碑文が載っていますか？",
+            "answer": "巻1にはヤン・チョンジ・ヤングァン・ヤンウンゴン・ヤンヒ、巻2にはヤン・ホンス・ヤンブ・ヤンファン、そして付録には柳成龍（ユ・ソンリョン）、李珥（イ・イ）、宋時烈（ソン・シヨル）などの碑文が載っています。"
+        },
+        {
+            "question": "南原梁氏龍城細古木版はどのような資料と評価されていますか？",
+            "answer": "この資料は当時、南原ヤン氏一族の内訳や人物の関係などを把握できるものと評価されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 232,
+        "QA": 211
+    }
+}

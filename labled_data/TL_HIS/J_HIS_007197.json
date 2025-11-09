@@ -1,0 +1,51 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_007197",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1173&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=05920000&ccbaCtcd=37&ccbaCpno=3413705920000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2012-05-14",
+        "domain": "문화/역사관광",
+        "title": "경산 환성사 주형석조"
+    },
+    "text": "慶山環城寺鋳型石造 (경산 환성사 주형석조)\\n\n慶尚北道慶山市環城路392-30(河東邑)\\n\n慶尚北道文化財資料 , 環城寺水月館西側に位置する260×280㎝規模の楕円形のこの石造は、自然岩石の上面を歯石して造成した。 水郭上面が長い楕円形であり、下側には丸く感曲されて線形を形成している。 石造の深さは45㎝で、底面には不純物を濾過できる3組の水抜け谷が設置されているが、このような構造は国内で確認された唯一の事例だ。 水郭の基本形態は朝鮮時代の寺院で公納用紙製作に使われた木造水槽の形態と相通じるため、朝鮮後期に製紙の目的で使われた石造である可能性が高いと推定される。 また、この石造は独特の構造と造形性に優れている。",
+    "QA": [
+        {
+            "question": "この石造はどこに位置していますか？",
+            "answer": "慶尚北道慶山市環城路392-30(河東邑)に位置しています。"
+        },
+        {
+            "question": "この石造はどんな形状ですか？",
+            "answer": "この石造は楕円形で、260×280㎝の大きさです。"
+        },
+        {
+            "question": "この石造はどのように造られていますか？",
+            "answer": "自然岩石の上面を歯石して造成されました。"
+        },
+        {
+            "question": "この石造の深さはいくらですか？",
+            "answer": "この石造の深さは45㎝です。"
+        },
+        {
+            "question": "この石造にはどんな特徴がありますか？",
+            "answer": "この石造には3組の水抜け谷があり、国内で唯一の事例です。"
+        },
+        {
+            "question": "この石造は何に使われた可能性が高いですか？",
+            "answer": "この石造は朝鮮後期に製紙の目的で使われた可能性が高いです。"
+        },
+        {
+            "question": "この石造はどのような構造と造形性を持っていますか？",
+            "answer": "この石造は朝鮮時代の寺院で使われた木造水槽の形態と似ており、独特の構造と造形性を持っています。"
+        }
+    ],
+    "word_Count": {
+        "text": 231,
+        "QA": 236
+    }
+}

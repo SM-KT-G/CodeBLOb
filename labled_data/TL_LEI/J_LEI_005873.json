@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_LEI_005873",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2023-01-12",
+        "domain": "레포츠",
+        "title": "한탄강벼룻길"
+    },
+    "text": "漢灘江硯道は漢灘江沿いの崖道で、滝と峡谷、村を結ぶ経路です。 この道は扶蘇川峡谷からハトナン滝まで約6キロ続き、約1時間半の時間がかかります。 この硯は川や海辺に通じる経路を指しています。",
+    "QA": [
+        {
+            "question": "漢灘江硯道はどこに続いていますか？",
+            "answer": "漢灘江硯道は扶蘇川峡谷からハトナン滝まで続いています。"
+        },
+        {
+            "question": "漢灘江硯道の長さは何キロですか？",
+            "answer": "漢灘江硯道の長さは約6キロです。"
+        },
+        {
+            "question": "漢灘江硯道を歩くのにかかる時間はどれくらいですか？",
+            "answer": "漢灘江硯道を歩くのには約1時間半かかります。"
+        },
+        {
+            "question": "漢灘江硯道はどのような風景が広がっていますか？",
+            "answer": "漢灘江硯道には滝や峡谷、村などの風景が広がっています。"
+        },
+        {
+            "question": "漢灘江硯道はどこに通じていますか？",
+            "answer": "漢灘江硯道は川や海辺に通じています。"
+        }
+    ],
+    "word_Count": {
+        "text": 68,
+        "QA": 152
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_066566",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42060&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "예산 덕산허브펜션"
+    },
+    "text": "礼山郡徳山面にあるハーブペンションへようこそお越しくださいました。 ペンションは美しい庭園とバーベキュー場を提供し、客室にはテレビ、冷蔵庫、エアコン、キッチン設備及び用品、炊飯器、電気ケトル、電子レンジなどが備えられています。 徳崇山によりペンションは美しい背景を備えており、リソムスパキャッスルと徳崇山、寿徳寺が周辺にあって観光するのに良い場所です。 22時以降にチェックインされる場合は、事前にご連絡ください。 幸せな旅を愛する方と一緒に楽しめる経験を香り高いハーブペンションで作ってみてください。",
+    "QA": [
+        {
+            "question": "このハーブペンションの客室にはどのような設備がありますか？",
+            "answer": "客室にはテレビ、冷蔵庫、エアコン、キッチン設備及び用品、炊飯器、電気ケトル、電子レンジなどが備えられています。"
+        },
+        {
+            "question": "周辺にある観光スポットは何ですか？",
+            "answer": "徳崇山、リソムスパキャッスル、寿徳寺などが周辺にあり、観光するのに良い場所です。"
+        },
+        {
+            "question": "チェックインの時間について教えてください。",
+            "answer": "22時以降にチェックインされる場合は、事前にご連絡ください。"
+        }
+    ],
+    "word_Count": {
+        "text": 184,
+        "QA": 140
+    }
+}

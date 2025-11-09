@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_030233",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/tailor-coffee",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "TAILOR COFFEE"
+    },
+    "text": "TAILOR COFFEE\\n\nソウル特別市 麻浦区 臥牛山路33キル46\\n\n「TAILOR COFFEE（テイラーコーヒー）」は、コーヒーマニアの間で評判のスペシャルティコーヒーの専門店です。コーヒー以外のメニューもいくつかありますが、なんといっても自家焙煎するコーヒーの味には絶対の自信を持っています。",
+    "QA": [
+        {
+            "question": "TAILOR COFFEEはどこにありますか？",
+            "answer": "TAILOR COFFEEはソウル特別市麻浦区臥牛山路33キル46にあります。"
+        },
+        {
+            "question": "TAILOR COFFEEはどのようなお店ですか？",
+            "answer": "TAILOR COFFEEはコーヒーマニアの間で評判のスペシャルティコーヒーの専門店です。"
+        },
+        {
+            "question": "TAILOR COFFEEで提供されるメニューは何ですか？",
+            "answer": "TAILOR COFFEEではコーヒー以外にもいくつかのメニューが提供されています。"
+        },
+        {
+            "question": "TAILOR COFFEEのコーヒーはどのように自家焙煎されていますか？",
+            "answer": "TAILOR COFFEEでは自家焙煎されたコーヒーの味には絶対の自信を持っています。"
+        },
+        {
+            "question": "TAILOR COFFEEのコーヒーはどのような味ですか？",
+            "answer": "TAILOR COFFEEのコーヒーはコーヒーマニアの間で評判の高い味です。"
+        }
+    ],
+    "word_Count": {
+        "text": 112,
+        "QA": 255
+    }
+}

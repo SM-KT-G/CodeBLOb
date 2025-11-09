@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_007304",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=110&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=09120000&ccbaCtcd=37&ccbaCpno=1123709120000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1987-03-09",
+        "domain": "문화/역사관광",
+        "title": "경주 마동 삼층석탑"
+    },
+    "text": "競走 魔動明活城 (경주 마동 삼층석탑)\\n\n慶尚北道慶州市馬洞101-2、101-3\\n\n統一新羅時代の8世紀 , 宝物 , 仏国寺西北側の丘の畑の中に立っている塔で、2段の基壇の上に3層の塔身を上げた姿だ。 下の階の基壇は4枚、上の階の基壇は8枚の石で構成されている。 各階とも角に一つずつ、真ん中に二つずつ柱の形を模して刻んだ。 3階建ての塔身の石と屋根石はそれぞれ一つの石で構成されている。 屋根石は底面の支えが5段であり、四隅と底面には鈴をつけた穴が残っている。 何の装飾や彫刻も現れておらず、慶州を中心とした慶尚道地域で広く流行した素朴で端正な姿の石塔の一つと見られる。 8世紀後半の作品と推測され、仏国寺とも非常に近い距離に位置しているため目を引く。",
+    "QA": [
+        {
+            "question": "魔動明活城はどこにありますか？",
+            "answer": "魔動明活城は慶尚北道慶州市馬洞101-2、101-3にあります。"
+        },
+        {
+            "question": "魔動明活城は何世紀に建てられましたか？",
+            "answer": "魔動明活城は統一新羅時代の8世紀に建てられました。"
+        },
+        {
+            "question": "魔動明活城の特徴は何ですか？",
+            "answer": "魔動明活城は2段の基壇の上に3層の塔身を持つ石塔で、角に柱の形を模した刻みがあります。装飾や彫刻はなく、素朴で端正な姿が特徴です。"
+        },
+        {
+            "question": "魔動明活城はどの寺院に近いですか？",
+            "answer": "魔動明活城は仏国寺に非常に近い位置にあります。"
+        },
+        {
+            "question": "魔動明活城はどのような時代の作品ですか？",
+            "answer": "魔動明活城は8世紀後半の作品と推測されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 244,
+        "QA": 186
+    }
+}

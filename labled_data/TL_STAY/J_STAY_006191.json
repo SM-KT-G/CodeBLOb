@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_006191",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42021&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "부산 남포 코티스 더 그라운드"
+    },
+    "text": "ただ、人と自然を愛するブランド、コティス(COTICE)は旅行の完全な休息と楽しい経験を提供します。 自然と人に対する経験は時には私を照らしたり、私たちの姿を一緒に表現したりします。 今日もコーティスは持続可能な自然と人への愛情のこもった心で[ひたすら、休む]について研究します。 便利さを備えた生活型宿泊施設にホテル専門人材のサービスを加え、新しく構成されたステイ空間です。 コティスならではの細心の配慮が込められた[MY MOOD ROOM]プログラムを通じて滞在する間、お客様の憩いを守ります。",
+    "QA": [
+        {
+            "question": "コティスはどのようなブランドですか？",
+            "answer": "コティスは人と自然を愛するブランドです。旅行の完全な休息と楽しい経験を提供します。"
+        },
+        {
+            "question": "コティスの目的は何ですか？",
+            "answer": "コティスの目的は、持続可能な自然と人への愛情を大切にすることです。"
+        },
+        {
+            "question": "コティスのステイ空間はどのように構成されていますか？",
+            "answer": "コティスのステイ空間は、便利さを備えた生活型宿泊施設にホテル専門人材のサービスが加えられています。"
+        },
+        {
+            "question": "コティスの滞在中のプログラムについて教えてください。",
+            "answer": "コティスの滞在中のプログラムには、[MY MOOD ROOM]プログラムがあります。細心の配慮が込められたプログラムで、お客様の憩いを守ります。"
+        }
+    ],
+    "word_Count": {
+        "text": 183,
+        "QA": 203
+    }
+}

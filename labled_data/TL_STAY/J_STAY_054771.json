@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_054771",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.booking.com/hotel/kr/siwoon-residence.ko.html",
+        "collectedDate": "2023-11-17",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "샤인레지던스 Shine residence"
+    },
+    "text": "シャインレジデンスShine residenceは、仁川空港貨物庁舎駅から7.9km離れた場所に位置しております。 ここでは客室内のエアコン、バルコニー、無料Wi-Fiを提供しています。 それぞれの客室には、都市の眺めを備えたテラス、薄型テレビ、キッチンがあります。 また、専用バスルームにはシャワー設備、無料の洗面用具、ヘアドライヤーもあります。 客室には冷蔵庫、電子レンジ、クックトップ、やかんも提供されます。 この宿からは松島コンベンションセンターやグリーン気候基金などの名所が24kmの距離に位置し、仁川国際空港は10kmの距離にあり、仁川中心部からは18kmの距離に位置しています。 チェックイン時間は15:00から始まり、チェックアウト時間は11:00までです。 簡単な情報に過ぎませんが、シャインレジデンスShine residenceが提供するサービスと周辺の名所に関する情報を教えてくれます。",
+    "QA": [
+        {
+            "question": "シャインレジデンスShine residenceはどこに位置していますか？",
+            "answer": "シャインレジデンスShine residenceは仁川空港貨物庁舎駅から7.9km離れた場所に位置しています。"
+        },
+        {
+            "question": "シャインレジデンスShine residenceはどのような設備を提供していますか？",
+            "answer": "シャインレジデンスShine residenceでは、客室内のエアコン、バルコニー、無料Wi-Fiを提供しています。"
+        },
+        {
+            "question": "客室には何が備えられていますか？",
+            "answer": "客室には都市の眺めを備えたテラス、薄型テレビ、キッチンが備えられています。"
+        },
+        {
+            "question": "シャインレジデンスShine residenceから近くの名所はありますか？",
+            "answer": "近くの名所としては、松島コンベンションセンターやグリーン気候基金などがあります。"
+        },
+        {
+            "question": "シャインレジデンスShine residenceのチェックインとチェックアウトの時間はいつですか？",
+            "answer": "チェックイン時間は15:00から始まり、チェックアウト時間は11:00までです。"
+        }
+    ],
+    "word_Count": {
+        "text": 297,
+        "QA": 302
+    }
+}

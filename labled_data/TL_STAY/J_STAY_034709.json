@@ -1,0 +1,55 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_034709",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42021&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "부산 더무빙카라반캠핑"
+    },
+    "text": "釜山に位置する''THE MOVING CARAVAN CAMPING''は松林と海水浴場が隣接して美しい景色を持っており、WAVEON COFFEEとゴスラク韓牛食堂、野外プールなど多様な便宜施設があります。 お客様に大切な思い出と楽しい旅行をお届けしようと努力しており、キッチンやシャワールーム、トイレは共同施設を使用しており、客室の予約は品切れによりキャンセルされることがあります。 入室と退室時間を守っていただく必要があり、キャラバンは午後3時から午前11時まで入室可能で、最大4人まで入室可能です。 感性ステイは午後6時から午前10時まで入室可能で、2人以上入室可能で、ペットの同伴も可能です。 バーベキュー施設は追加支払いが必要で、炭とグリルをレンタルできます。",
+    "QA": [
+        {
+            "question": "THE MOVING CARAVAN CAMPINGはどこに位置していますか？",
+            "answer": "THE MOVING CARAVAN CAMPINGは釜山に位置しています。"
+        },
+        {
+            "question": "THE MOVING CARAVAN CAMPINGの周辺にはどのような施設がありますか？",
+            "answer": "THE MOVING CARAVAN CAMPINGの周辺には松林や海水浴場、WAVEON COFFEE、ゴスラク韓牛食堂、野外プールなど多様な便宜施設があります。"
+        },
+        {
+            "question": "THE MOVING CARAVAN CAMPINGのキャラバンの入室可能な時間は何時から何時までですか？",
+            "answer": "THE MOVING CARAVAN CAMPINGのキャラバンは午後3時から午前11時まで入室可能です。"
+        },
+        {
+            "question": "THE MOVING CARAVAN CAMPINGのキャラバンの最大収容人数は何人ですか？",
+            "answer": "THE MOVING CARAVAN CAMPINGのキャラバンは最大4人まで入室可能です。"
+        },
+        {
+            "question": "THE MOVING CARAVAN CAMPINGの感性ステイは何時から何時まで入室可能ですか？",
+            "answer": "THE MOVING CARAVAN CAMPINGの感性ステイは午後6時から午前10時まで入室可能です。"
+        },
+        {
+            "question": "THE MOVING CARAVAN CAMPINGの感性ステイは最大何人まで入室可能ですか？",
+            "answer": "THE MOVING CARAVAN CAMPINGの感性ステイは2人以上入室可能です。"
+        },
+        {
+            "question": "THE MOVING CARAVAN CAMPINGではペットの同伴は可能ですか？",
+            "answer": "THE MOVING CARAVAN CAMPINGではペットの同伴も可能です。"
+        },
+        {
+            "question": "THE MOVING CARAVAN CAMPINGでバーベキューをするには追加料金が必要ですか？",
+            "answer": "THE MOVING CARAVAN CAMPINGでバーベキューをするには追加料金が必要で、炭とグリルをレンタルすることができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 247,
+        "QA": 580
+    }
+}

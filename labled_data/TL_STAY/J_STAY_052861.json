@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_052861",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2022-12-29",
+        "domain": "숙박",
+        "title": "담양펜션스테이"
+    },
+    "text": "青い芝生庭園と渓谷、ロマンと余裕のある潭陽ペンションである。潭陽ペンションは湖畔道路であるダムヤンホの上流に位置しており、クリーンな谷と1,100坪の芝生庭園、故郷の思い出を覚えられる甕台と水車がある自然と共にするペンションである。各ドンマだテラス、野外テーブル、バーベキューグリルが用意されている。",
+    "QA": [
+        {
+            "question": "このペンションはどのような場所に位置していますか？",
+            "answer": "潭陽ペンションは湖畔道路であるダムヤンホの上流に位置しています。"
+        },
+        {
+            "question": "このペンションの特徴は何ですか？",
+            "answer": "潭陽ペンションの特徴は、クリーンな谷と1,100坪の芝生庭園、甕台と水車があることです。"
+        },
+        {
+            "question": "どのような設備が用意されていますか？",
+            "answer": "各ドンマだテラス、野外テーブル、バーベキューグリルが用意されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 110,
+        "QA": 124
+    }
+}

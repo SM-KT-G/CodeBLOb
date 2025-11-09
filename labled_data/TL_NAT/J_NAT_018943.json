@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_018943",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101933",
+        "collectedDate": "2023-10-06",
+        "publishedDate": "2020-01-01",
+        "domain": "자연관광",
+        "title": "조계산도립공원"
+    },
+    "text": "チョゲサン・ドリプコンウォン \n曹溪山は全羅南道順天市にある高さ884mの山だ。1979年12月26日、都立公園に指定された。本来の名前は松広山だが、高麗のヒジョンが曹渓山に変えた。春の桜がすごくて秋の紅葉が有名だ。\n",
+    "QA": [
+        {
+            "question": "曹溪山の指定日はいつですか？",
+            "answer": "曹溪山は1979年12月26日に都立公園に指定されました。"
+        },
+        {
+            "question": "曹溪山の本来の名前は何ですか？",
+            "answer": "曹溪山の本来の名前は松広山ですが、高麗のヒジョンが曹渓山に変えました。"
+        },
+        {
+            "question": "曹溪山の高さは何メートルですか？",
+            "answer": "曹溪山の高さは884mです。"
+        },
+        {
+            "question": "曹溪山の桜はいつ見ごろですか？",
+            "answer": "曹溪山の桜は春に見ごろで、とても美しいです。"
+        },
+        {
+            "question": "曹溪山の紅葉はいつ見ごろですか？",
+            "answer": "曹溪山の紅葉は秋に見ごろで、有名です。"
+        }
+    ],
+    "word_Count": {
+        "text": 79,
+        "QA": 143
+    }
+}

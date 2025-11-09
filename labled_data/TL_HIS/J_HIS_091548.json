@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_091548",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1181&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=06430000&ccbaCtcd=37&ccbaCpno=3413706430000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2016-04-28",
+        "domain": "문화/역사관광",
+        "title": "예천 연방사 석가모니후불탱화"
+    },
+    "text": "慶尚北道に所蔵された醴泉連邦社の釈迦モニーフブル仏画は縦172センチ、横191センチの大きさの絹の生地に彩色を施した仏画です。この作品は釈迦牟尼仏を中心に両側に脇侍菩薩を配置して三尊像を構成しています。作品の上段には梵天、帝釈天、迦葉とアナン、羅漢2位を配置しました。作品全体的に赤色とノクチョンセクに黄白色、白、青を活用した彩色が特徴です。1813年に制作されたこの作品はスファスン定敏を含めた13人が参加して作られました。作品は部分的に本紙と顔料の剥落が進められたが、途上は損なわれず、原形を保っています。ただし、本尊釈迦牟尼顔とジュワヒョプシ菩薩の顔は、後代に全面に追加された色彩によって原形を失った状態です。この仏画は19世紀前半の釈迦説法図の図像研究と朝鮮後期を代表する定敏と愼謙の画風の研究に貴重な資料として使用されことができます。",
+    "QA": [
+        {
+            "question": "この醴泉連邦社の釈迦モニーフブル仏画は何年に制作されましたか？",
+            "answer": "1813年に制作されました。"
+        },
+        {
+            "question": "この仏画はどのような彩色が特徴ですか？",
+            "answer": "赤色とノクチョンセクに黄白色、白、青を活用した彩色が特徴です。"
+        },
+        {
+            "question": "この仏画を制作した際、何人が参加しましたか？",
+            "answer": "スファスン定敏を含めた13人が参加して作られました。"
+        },
+        {
+            "question": "この作品の特徴的な配置は何ですか？",
+            "answer": "釈迦牟尼仏を中心に両側に脇侍菩薩を配置して三尊像を構成し、上段には梵天、帝釈天、迦葉とアナン、羅漢2位を配置しました。"
+        },
+        {
+            "question": "この仏画にはどのような損傷がありますか？",
+            "answer": "部分的に本紙と顔料の剥落が進行していますが、本尊釈迦牟尼とジュワヒョプシ菩薩の顔は後代に追加された色彩によって原形を失った状態です。"
+        }
+    ],
+    "word_Count": {
+        "text": 272,
+        "QA": 223
+    }
+}

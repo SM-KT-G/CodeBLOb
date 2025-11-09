@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_054114",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/view?relicId=174976",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "글자를 새긴 수키와 조각14"
+    },
+    "text": "文字を刻んだ男瓦彫刻 (글자를 새긴 수키와 조각)\\n\nがれきには「蟹」という字が彫られています。このがれきの国籍と時代は韓国の統一新羅です。材質は土で、瓦のような質感を持っています。分類としては、主な生活や建築の部材であり、屋根材として使用されていました。現在の大きさは、幅123cm、長さ222cm、幅50cm、長さ51cmです。",
+    "QA": [
+        {
+            "question": "この瓦彫刻の国籍はどこですか？",
+            "answer": "この瓦彫刻の国籍は韓国の統一新羅です。"
+        },
+        {
+            "question": "この瓦彫刻は何時代のものですか？",
+            "answer": "この瓦彫刻は統一新羅時代のものです。"
+        },
+        {
+            "question": "この瓦彫刻の材質は何ですか？",
+            "answer": "この瓦彫刻の材質は土です。"
+        },
+        {
+            "question": "この瓦彫刻はどのように分類されますか？",
+            "answer": "この瓦彫刻は生活や建築の部材として分類されます。"
+        },
+        {
+            "question": "この瓦彫刻の現在の大きさは何ですか？",
+            "answer": "この瓦彫刻の現在の大きさは幅123cm、長さ222cm、幅50cm、長さ51cmです。"
+        }
+    ],
+    "word_Count": {
+        "text": 123,
+        "QA": 145
+    }
+}

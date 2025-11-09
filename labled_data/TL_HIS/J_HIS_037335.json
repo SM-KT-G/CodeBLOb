@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_037335",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1200&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=79&ccbaAsno=01120000&ccbaCtcd=32&ccbaCpno=4413201120000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2004-09-04",
+        "domain": "문화/역사관광",
+        "title": "철원 금강산 전기철도교량"
+    },
+    "text": "鉄原金剛山電気鉄道橋梁 (철원 금강산 전기철도교량)\\n\n江原道鉄原郡金華邑道昌里山81-2番地 葛末邑正淵里1496外1筆地\\n\n1926、国家登録文化財、この橋梁は1926年に建てられた金剛山電気鉄道用橋梁だ。 金剛山電気鉄道は鉄原駅を始発に終着駅である内金剛駅まで総延長116.6kmに達し、日本による植民地時代には地下資源収奪および金剛山観光用として運行され、解放後の朝鮮戦争で北朝鮮によって軍需物資輸送に使われた。 金剛山電気鉄道の跡をそのまま保っており、南北分断の現実を象徴的に示している。 日本の会社である鉄春鉄道株式会社によって敷設された。",
+    "QA": [
+        {
+            "question": "この橋梁はいつ建てられましたか？",
+            "answer": "1926年に建てられました。"
+        },
+        {
+            "question": "金剛山電気鉄道の延長はどれくらいですか？",
+            "answer": "総延長116.6kmに達しています。"
+        },
+        {
+            "question": "金剛山電気鉄道はどのような目的で運行されましたか？",
+            "answer": "日本による植民地時代には地下資源収奪および金剛山観光用として運行され、解放後の朝鮮戦争で北朝鮮によって軍需物資輸送に使われました。"
+        },
+        {
+            "question": "この橋梁はどの会社によって建設されましたか？",
+            "answer": "鉄春鉄道株式会社によって建設されました。"
+        }
+    ],
+    "word_Count": {
+        "text": 204,
+        "QA": 146
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_005485",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-02-08",
+        "domain": "음식점",
+        "title": "ケッマウル（갯마을）"
+    },
+    "text": "ケッマウル（갯마을）\nソウル特別市 龍山区 西氷庫路56\n手作り餃子スープ専門店「ケッマウル」は綺麗な店内と心のこもったサービス、美味しさから多くの人に知られています。餃子に入っているキムチやおかずとして出てくるキムチなども美味しいと評判です。",
+    "QA": [
+        {
+            "question": "ケッマウルはどこにありますか？",
+            "answer": "ケッマウルはソウル特別市龍山区西氷庫路56にあります。"
+        },
+        {
+            "question": "ケッマウルの特徴は何ですか？",
+            "answer": "ケッマウルの特徴は綺麗な店内と心のこもったサービス、美味しさです。"
+        },
+        {
+            "question": "ケッマウルのキムチは美味しいですか？",
+            "answer": "はい、ケッマウルのキムチは美味しいと評判です。餃子に入っているキムチやおかずとして出てくるキムチもおすすめです。"
+        }
+    ],
+    "word_Count": {
+        "text": 89,
+        "QA": 119
+    }
+}

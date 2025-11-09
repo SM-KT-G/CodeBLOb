@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_019723",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-08-31",
+        "domain": "음식점",
+        "title": "東大門本家ガマソッソルロンタン（동대문본가가마솥설렁탕）"
+    },
+    "text": "東大門本家ガマソッソルロンタン（동대문본가가마솥설렁탕）\\n\nソウル特別市 鐘路区 鐘路 299-1\\n\nこの店はソウル特別市のトンデムンに位置した韓国料理店です。韓国式保養スープ料理をご用意しております。代表的なメニューはソルロンタンです。",
+    "QA": [
+        {
+            "question": "この店はどこに位置していますか？",
+            "answer": "東大門本家ガマソッソルロンタンはソウル特別市の鐘路区鐘路299-1に位置しています。"
+        },
+        {
+            "question": "この店では何を提供していますか？",
+            "answer": "この店では韓国式保養スープ料理を提供しています。特に代表的なメニューはソルロンタンです。"
+        },
+        {
+            "question": "ソルロンタンとは何ですか？",
+            "answer": "ソルロンタンは韓国の保養スープ料理の一つで、特に東大門本家ガマソッソルロンタンでは人気のあるメニューです。"
+        }
+    ],
+    "word_Count": {
+        "text": 88,
+        "QA": 134
+    }
+}

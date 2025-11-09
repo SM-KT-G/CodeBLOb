@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_018940",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1211&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=79&ccbaAsno=02570000&ccbaCtcd=37&ccbaCpno=4413702570000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2006-06-19",
+        "domain": "문화/역사관광",
+        "title": "봉화 척곡교회"
+    },
+    "text": "奉化尺谷教会 (봉화 척곡교회)\\n\n慶尚北道奉化郡法田面ゴンムンコルキル186-42、外1筆地(尺谷里)\\n\n1910年 , 国家登録文化財 , この教会は旧韓末、託支部の管理を務めたキム·ジョンスク(1872~1956)が建設した。 礼拝堂は本来正面3間、側面3間の正方形建物だったが、1990年に前方に玄関を作りながら赤レンガに増築された。 内部の講壇とアーチ型の木の装飾は原型のままよく保存されている。 礼拝堂とともに建てられた明洞西塾は、宗教教育とともに国語、数学、漢文など信者を教育していた建物だ。 この教会は宣教師や団体ではなく、信徒の先駆的な意志で設立したという点で価値がある。",
+    "QA": [
+        {
+            "question": "この教会はいつ建てられましたか？",
+            "answer": "この教会は1910年に建てられました。"
+        },
+        {
+            "question": "誰がこの教会を建設しましたか？",
+            "answer": "この教会はキム・ジョンスクが建設しました。"
+        },
+        {
+            "question": "この教会はどのような建物ですか？",
+            "answer": "この教会は正面3間、側面3間の正方形建物です。"
+        },
+        {
+            "question": "教会の内部はどのように保存されていますか？",
+            "answer": "教会の内部の講壇とアーチ型の木の装飾は原型のままよく保存されています。"
+        },
+        {
+            "question": "教会と一緒に建てられた明洞西塾は何のための建物ですか？",
+            "answer": "明洞西塾は宗教教育とともに国語、数学、漢文など信者を教育していた建物です。"
+        },
+        {
+            "question": "この教会の価値は何ですか？",
+            "answer": "この教会は宣教師や団体ではなく、信徒の先駆的な意志で設立されたという点で価値があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 217,
+        "QA": 210
+    }
+}

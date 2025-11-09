@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_062460",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=438&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=00820000&ccbaCtcd=32&ccbaCpno=2113200820000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1985-01-17",
+        "domain": "문화/역사관광",
+        "title": "동해 심의관 고택"
+    },
+    "text": "江原特別自治道有形文化財、後方の低い野山を背景に位置するこの家は、約250年前に建てられたものと思われます。母屋とサランチェ·蔵によってロの字型に配置されており、中庭があります。母屋は前面3間·側面2間の規模で、一字型の二重家です。右側にキッチンがあり、4つの部屋があり、中庭側に2間の部屋の前に縁側を置いて連絡通路として活用しています。屋根の側面が八の字型の華やかな入母屋造りです台所につながっている蔵と馬小屋がサランチェ側にもつながっており、その間に大門があります。サランチェは「ㄴ」字型に5間の規模で、左側には母屋との間に大門と門屋があります。母屋は高く配置され、サランチェと付属建物は低く配置され、風通しと採光に無理がないようにしました。母屋から右に15mほど離れたところに祠堂がありますが、竹林に囲まれています",
+    "QA": [
+        {
+            "question": "この家はいつ建てられましたか？",
+            "answer": "約250年前に建てられました。"
+        },
+        {
+            "question": "この家の配置はどのようになっていますか？",
+            "answer": "母屋とサランチェ·蔵によってロの字型に配置されており、中庭があります。"
+        },
+        {
+            "question": "母屋の規模はどれくらいですか？",
+            "answer": "前面3間·側面2間の規模です。"
+        },
+        {
+            "question": "蔵と馬小屋はどのように配置されていますか？",
+            "answer": "蔵と馬小屋はサランチェ側にもつながっており、その間に大門があります。"
+        },
+        {
+            "question": "サランチェの規模はどれくらいですか？",
+            "answer": "サランチェは「ㄴ」字型に5間の規模です。"
+        },
+        {
+            "question": "祠堂はどこにありますか？",
+            "answer": "祠堂は母屋から右に15mほど離れたところにあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 264,
+        "QA": 180
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001610",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-05",
+        "domain": "음식점",
+        "title": "Cook and ( 쿠켄 )"
+    },
+    "text": "Cook and ( 쿠켄 )\\n\n江原道 ガンヌン市 ホンジェロ7-11\\n\nコーヒーやワインまで楽しめるバーベキューレストランです。おすすめはバーベキューです。江原道のガンヌン市に位置した洋食専門店です。",
+    "QA": [
+        {
+            "question": "このレストランはどこにありますか？",
+            "answer": "このレストランは江原道のガンヌン市に位置しています。"
+        },
+        {
+            "question": "このレストランの名前は何ですか？",
+            "answer": "このレストランの名前は『Cook and ( 쿠켄 )』です。"
+        },
+        {
+            "question": "このレストランでは何を楽しむことができますか？",
+            "answer": "このレストランではバーベキューやコーヒー、ワインなどを楽しむことができます。"
+        },
+        {
+            "question": "このレストランのおすすめは何ですか？",
+            "answer": "このレストランのおすすめはバーベキューです。"
+        },
+        {
+            "question": "このレストランは洋食専門店ですか？",
+            "answer": "はい、このレストランは洋食専門店です。"
+        }
+    ],
+    "word_Count": {
+        "text": 76,
+        "QA": 166
+    }
+}

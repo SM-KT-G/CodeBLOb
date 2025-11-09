@@ -1,0 +1,31 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_005899",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-08",
+        "domain": "숙박",
+        "title": "センターマークホテル（센터마크호텔）"
+    },
+    "text": "センターマークホテル\nソウル特別市 鐘路区 仁寺洞5キル 38\n仁寺洞に位置する客室数250室のホテルです。周辺観光地として景福宮、昌慶宮、三清洞、北村韓屋村などがあります。",
+    "QA": [
+        {
+            "question": "センターマークホテルはどこにありますか？",
+            "answer": "センターマークホテルはソウル特別市鐘路区仁寺洞5キル38に位置しています。"
+        },
+        {
+            "question": "周辺にどのような観光地がありますか？",
+            "answer": "センターマークホテル周辺には景福宮、昌慶宮、三清洞、北村韓屋村などの観光地があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 63,
+        "QA": 86
+    }
+}

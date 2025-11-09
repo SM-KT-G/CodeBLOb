@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_011429",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-06-17",
+        "domain": "음식점",
+        "title": "パクソガリ（박쏘가리）"
+    },
+    "text": "パクソガリ（박쏘가리）\\n\n忠清北道 丹陽郡 丹陽邑 水辺路85\\n\n「パクソガリ」のコウライケツギョの辛味スープ（ソガリメウンタン）にはナマズの一種のコウライギギが入っており、ほどよい辛さに仕上げられた煮汁が絶品です。",
+    "QA": [
+        {
+            "question": "パクソガリはどこにありますか？",
+            "answer": "パクソガリは韓国の忠清北道丹陽郡丹陽邑水辺路85にあります。"
+        },
+        {
+            "question": "パクソガリのコウライケツギョの辛味スープには何が入っていますか？",
+            "answer": "パクソガリのコウライケツギョの辛味スープにはナマズの一種のコウライギギが入っています。"
+        },
+        {
+            "question": "パクソガリの辛味スープの味はどんな感じですか？",
+            "answer": "パクソガリの辛味スープはほどよい辛さに仕上げられており、絶品の煮汁です。"
+        }
+    ],
+    "word_Count": {
+        "text": 80,
+        "QA": 131
+    }
+}

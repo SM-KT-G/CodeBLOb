@@ -1,0 +1,51 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_011832",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42090&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "제주 불란지 호텔 운영 정책"
+    },
+    "text": "チェックインは午後3時から可能で、チェックアウトは午前11時までです。 親と一緒にいる児童は最大2人まで可能で、満3歳以下の児童は無料で宿泊できます。 追加人数は15,000ウォンの追加料金が発生します。 ホテル内には広い駐車スペースとカラオケがあります。 歯ブラシと歯磨き粉は無料で提供されており、無料Wi-Fiをご利用いただけます。 また、山房山の炭酸温泉を割引してもらえるクーポンが提供されます。",
+    "QA": [
+        {
+            "question": "チェックインとチェックアウトの時間は何時ですか？",
+            "answer": "チェックインは午後3時から可能で、チェックアウトは午前11時までです。"
+        },
+        {
+            "question": "児童の宿泊料金について教えてください。",
+            "answer": "親と一緒にいる児童は最大2人まで可能で、満3歳以下の児童は無料で宿泊できます。追加人数は15,000ウォンの追加料金が発生します。"
+        },
+        {
+            "question": "ホテル内に駐車スペースはありますか？",
+            "answer": "ホテル内には広い駐車スペースがあります。"
+        },
+        {
+            "question": "ホテル内にはカラオケはありますか？",
+            "answer": "ホテル内にはカラオケがあります。"
+        },
+        {
+            "question": "歯ブラシと歯磨き粉は提供されますか？",
+            "answer": "歯ブラシと歯磨き粉は無料で提供されます。"
+        },
+        {
+            "question": "無料Wi-Fiは利用できますか？",
+            "answer": "無料Wi-Fiをご利用いただけます。"
+        },
+        {
+            "question": "山房山の炭酸温泉の割引クーポンはもらえますか？",
+            "answer": "山房山の炭酸温泉を割引してもらえるクーポンが提供されます。"
+        }
+    ],
+    "word_Count": {
+        "text": 147,
+        "QA": 247
+    }
+}

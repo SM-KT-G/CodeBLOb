@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_008070",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "スターボード ( 스타보드 )"
+    },
+    "text": "スターボード ( 스타보드 )\\n\n全羅南道 モクポ市 ヘヤンデハクロ87\\n\n韓国式のおつまみ料理が味わえる店です。おすすめはつぶ貝の和え物です。全羅南道のモクポ市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "スターボードはどこにありますか？",
+            "answer": "スターボードは韓国の全羅南道モクポ市ヘヤンデハクロ87にあります。"
+        },
+        {
+            "question": "スターボードではどんな料理が楽しめますか？",
+            "answer": "スターボードでは韓国式のおつまみ料理が楽しめます。特におすすめはつぶ貝の和え物です。"
+        },
+        {
+            "question": "スターボードの場所はどのように行けばいいですか？",
+            "answer": "スターボードは全羅南道のモクポ市に位置しています。詳しい場所はヘヤンデハクロ87です。"
+        }
+    ],
+    "word_Count": {
+        "text": 70,
+        "QA": 131
+    }
+}

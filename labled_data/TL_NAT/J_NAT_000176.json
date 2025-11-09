@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_000176",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2023-03-09",
+        "domain": "자연관광",
+        "title": "용인자연휴양림"
+    },
+    "text": "\n京畿道龍仁市処仁区慕賢邑チョブ路220\n京畿道龍仁市が慕賢邑正光山の麓に造成した龍仁自然休養林は海抜562mの正光山の南側の麓162haに位置した休養林は秀麗な自然景観に宿泊施設と散策路、子供の遊び場などを備えた滞留型休息所だ。",
+    "QA": [
+        {
+            "question": "龍仁自然休養林はどこに位置していますか？",
+            "answer": "龍仁自然休養林は京畿道龍仁市慕賢邑チョブ路220に位置しています。"
+        },
+        {
+            "question": "龍仁自然休養林はどのような施設を備えていますか？",
+            "answer": "龍仁自然休養林は宿泊施設と散策路、子供の遊び場などを備えています。"
+        },
+        {
+            "question": "龍仁自然休養林の面積はどれくらいですか？",
+            "answer": "龍仁自然休養林は海抜562mの正光山の南側の麓162haに位置しています。"
+        },
+        {
+            "question": "龍仁自然休養林はどのような自然景観がありますか？",
+            "answer": "龍仁自然休養林は秀麗な自然景観を楽しむことができます。"
+        },
+        {
+            "question": "龍仁自然休養林はどのようなタイプの休息所ですか？",
+            "answer": "龍仁自然休養林は滞留型の休息所です。"
+        }
+    ],
+    "word_Count": {
+        "text": 84,
+        "QA": 190
+    }
+}

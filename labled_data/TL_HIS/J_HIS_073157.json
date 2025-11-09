@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_073157",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=987&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=00350000&ccbaCtcd=25&ccbaCpno=3412500350000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1992-10-28",
+        "domain": "문화/역사관광",
+        "title": "봉소루"
+    },
+    "text": "ボンソル\\n\n大田市中区ボンソル路29(石橋洞)\\n\n人造年間、大田広域市文化財資料、宝文山の南の麓にあるボンソルは朝鮮・仁祖(在位1623∼1649)時代の学者でありながら、教育者であるナムブンボン(1607∼1674)が学問を教えていた書斎だ。もともとボンソ測ると呼ばれたが、''ボンソ''は鳥の巣という意味で、実際にもボンソルの周りには数百年のケヤキなどがたくさんあり多くの鳥が行き来している。ボンソルは後進を養成する教育の場で、粛宗40年(1714)と英祖34年(1758)に立て直した記録がある。母屋は表3間・側面1間規模の建物で、出す前面1間・側面2間規模となっている。母屋と誰がついて鉤型をなしており、屋根は側面から見ると、八(八部)字形の入母屋屋根である。ぬ正面にはボンソル看板がかかっている。1970年代に建物を立て直したが、形はそのまま維持している。",
+    "QA": [
+        {
+            "question": "ボンソルはどのような場所ですか？",
+            "answer": "ボンソルは朝鮮・仁祖時代の学者であるナムブンボンが学問を教えていた書斎です。また、ボンソルの周りには数百年のケヤキなどがたくさんあり、多くの鳥が行き来しています。"
+        },
+        {
+            "question": "ボンソルはどのような建物ですか？",
+            "answer": "ボンソルの母屋は表3間・側面1間規模の建物で、出す前面1間・側面2間規模となっています。屋根は八(八部)字形の入母屋屋根です。1970年代に建物を立て直しましたが、形はそのまま維持されています。"
+        },
+        {
+            "question": "ボンソルは何のために使われていましたか？",
+            "answer": "ボンソルは後進を養成する教育の場として使われていました。粛宗40年と英祖34年に立て直された記録があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 282,
+        "QA": 208
+    }
+}

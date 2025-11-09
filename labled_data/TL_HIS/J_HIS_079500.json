@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_079500",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=933&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=24&ccbaAsno=00660000&ccbaCtcd=37&ccbaCpno=2443700660000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1985-12-30",
+        "domain": "문화/역사관광",
+        "title": "삼소재"
+    },
+    "text": "三素材\\n\n慶尚北道安東市豊山邑ソサンウッコルキル56(ソサンリ)\\n\n慶尚北道民俗文化財、船案洞常樂金氏の始祖の18代調印キムヨンチュが朝鮮の顕宗(ヒョンジョン)15年(1674)に建てられた建物だという。家の名前はヨンチュコンの5デソンインキムヨンラク先生の雅号を取ったものだが、サムソは少産に住んできれいな行いをし、質素な食べ物を食べるという意味を意味するものだ。前面6間・側面5間のㅁジャ家に母屋とサランチェを連結し、屋根は別に飾った。屋根は側面が八(八部)字形の入母屋屋根である。特にアンデチョンの向こうの部屋に米びつを置いた点と牛舎の上に台所のように屋根裏部屋を置いた点などが注目される。",
+    "QA": [
+        {
+            "question": "この建物はいつ建てられましたか？",
+            "answer": "この建物は朝鮮の顕宗15年(1674)に建てられました。"
+        },
+        {
+            "question": "この建物の名前の由来は何ですか？",
+            "answer": "この建物の名前は、18代調印キムヨンチュ先生の雅号であるヨンチュコンの5デソンインキムヨンラク先生から取られています。"
+        },
+        {
+            "question": "この建物の特徴的な部分は何ですか？",
+            "answer": "特に注目される点として、アンデチョンの向こうの部屋に米びつを置いたことや、牛舎の上に台所のように屋根裏部屋を置いたことがあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 220,
+        "QA": 147
+    }
+}

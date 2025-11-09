@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_027037",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2017-11-28",
+        "domain": "문화/역사관광",
+        "title": "議政府駅（의정부역）"
+    },
+    "text": "議政府駅\n京畿道 議政府市 平和路525 （議政府洞）\n「議政府（ウィジョンブ）駅」は京元線にある駅で佳陵駅と回龍駅の間にあります。郊外線の終着駅でもありましたが、首都圏鉄道が逍遥山まで開通になり現在は鉄道のみ停車します。",
+    "QA": [
+        {
+            "question": "議政府駅はどの京畿道にありますか？",
+            "answer": "議政府駅は京畿道に位置しています。"
+        },
+        {
+            "question": "議政府駅の住所は何ですか？",
+            "answer": "議政府駅の住所は京畿道議政府市平和路525（議政府洞）です。"
+        },
+        {
+            "question": "議政府駅はどの線にありますか？",
+            "answer": "議政府駅は京元線に位置しています。"
+        },
+        {
+            "question": "議政府駅はどの駅と駅の間にありますか？",
+            "answer": "議政府駅は佳陵駅と回龍駅の間にあります。"
+        },
+        {
+            "question": "議政府駅は以前はどのような駅でしたか？",
+            "answer": "議政府駅は以前は郊外線の終着駅でもありましたが、現在は鉄道のみの停車駅です。"
+        }
+    ],
+    "word_Count": {
+        "text": 81,
+        "QA": 150
+    }
+}

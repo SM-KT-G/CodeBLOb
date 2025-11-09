@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_009316",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-09-01",
+        "domain": "음식점",
+        "title": "ソンギュングァンガムジャタン（성균관감자탕）"
+    },
+    "text": "ソンギュングァンガムジャタン（성균관감자탕）\\n\nソウル特別市 鐘路区 昌慶宮路29キル 37\\n\n韓国を代表するスープ料理のカムジャタン(豚背肉煮込み鍋)を味わうことができます。代表的なメニューはカムジャタンの寄せ鍋です。この店はソウル特別市のチャンドックンに位置した韓国料理店です。",
+    "QA": [
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "ソウル特別市 鐘路区 昌慶宮路29キル 37にあります。"
+        },
+        {
+            "question": "この店の特徴的な料理は何ですか？",
+            "answer": "この店では韓国を代表するスープ料理のカムジャタン(豚背肉煮込み鍋)が味わえます。特に寄せ鍋が人気です。"
+        },
+        {
+            "question": "この店はどのような種類の料理を提供していますか？",
+            "answer": "この店では主にカムジャタンを中心とした韓国料理を提供しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 104,
+        "QA": 120
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_050019",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=7&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=11&ccbaAsno=00790000&ccbaCtcd=11&ccbaCpno=1111100790000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1962-12-20",
+        "domain": "문화/역사관광",
+        "title": "경주 구황동 금제여래좌상"
+    },
+    "text": "統一新羅時代初期、慶州皇福寺址三重石塔(国宝)の解体修理工事中に出た舎利箱で慶州九黄洞金製如来立像(国宝)が発見された。舎利箱には統一新羅の聖徳王5年に純金となった6寸の大きさの阿弥陀像が入っていると記録されているが、これを確認するためには度量衡に対する追加的な研究が必要である。金製如来立像は光背、不信、蓮の花模様の台座で構成されており、各部分には分離されている。この仏像は統一新羅時代の仏像の理想的な姿に近いもので、研究に非常に重要な資料として利用できる。",
+    "QA": [
+        {
+            "question": "この舎利箱はどのように発見されましたか？",
+            "answer": "この舎利箱は慶州皇福寺址三重石塔の解体修理工事中に発見されました。"
+        },
+        {
+            "question": "舎利箱には何が入っていると記録されていましたか？",
+            "answer": "舎利箱には統一新羅の聖徳王5年に純金となった6寸の大きさの阿弥陀像が入っていると記録されていました。"
+        },
+        {
+            "question": "この舎利箱の阿弥陀像はどのような姿で構成されていますか？",
+            "answer": "この舎利箱の阿弥陀像は光背、不信、蓮の花模様の台座で構成されており、各部分には分離されています。"
+        },
+        {
+            "question": "この舎利箱から発見された金製の如来立像はどのような時代の仏像ですか？",
+            "answer": "この舎利箱から発見された金製の如来立像は統一新羅時代の仏像です。"
+        },
+        {
+            "question": "この金製の如来立像はどのような意義を持っていますか？",
+            "answer": "この金製の如来立像は統一新羅時代の仏像の理想的な姿に近いものであり、研究に非常に重要な資料とされています。"
+        }
+    ],
+    "word_Count": {
+        "text": 168,
+        "QA": 255
+    }
+}

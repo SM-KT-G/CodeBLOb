@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_035721",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.booking.com/hotel/kr/mtm.ko.html",
+        "collectedDate": "2023-11-17",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "MTM Family Hotel"
+    },
+    "text": "MTM Family Hotelは慶州に位置する宿泊施設で、無料Wi-Fiと無料の専用駐車場を提供しています。 このホテルは慶州ワールドから約7.8km離れており、石窟庵から8.7km、仏国寺からは約16分の距離、慶州世界文化エキスポ公園からは約7.5km離れています。 また瞻星台も約13kmの距離に位置し、慶州駅は約14km離れています。 MTM Family Hotelの宿泊客は室内プールなど様々な便益施設を自由に利用できます。 また、慶州国立博物館や雁鴨池のような名所は、このホテルから約12kmの距離に位置しています。 このホテルから一番近い空港は蔚山空港に約25km離れていて、慶州中心部からは約11km離れています。 チェックインは午後3時から可能で、チェックアウトは午前11時までです。",
+    "QA": [
+        {
+            "question": "MTM Family Hotelは何階建てですか？",
+            "answer": "MTM Family Hotelは何階建てですか？"
+        },
+        {
+            "question": "MTM Family Hotelの駐車場は無料ですか？",
+            "answer": "はい、MTM Family Hotelの駐車場は無料です。"
+        },
+        {
+            "question": "MTM Family Hotelの周辺にはどのような観光地がありますか？",
+            "answer": "MTM Family Hotelの周辺には慶州ワールドや石窟庵、仏国寺などの観光地があります。"
+        },
+        {
+            "question": "MTM Family Hotelから最も近い空港はどこですか？",
+            "answer": "MTM Family Hotelから最も近い空港は蔚山空港です。"
+        },
+        {
+            "question": "MTM Family Hotelのチェックインとチェックアウトの時間は何時ですか？",
+            "answer": "MTM Family Hotelのチェックインは午後3時から可能で、チェックアウトは午前11時までです。"
+        }
+    ],
+    "word_Count": {
+        "text": 258,
+        "QA": 253
+    }
+}

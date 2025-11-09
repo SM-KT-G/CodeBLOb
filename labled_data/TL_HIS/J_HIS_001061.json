@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_001061",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-12-24",
+        "domain": "문화/역사관광",
+        "title": "o’sullocティーミュージアム（오설록 티뮤지엄）"
+    },
+    "text": "o’sullocティーミュージアム\n済州特別自治道 西帰浦市 安徳面 神話歴史路 15\n済州（チェジュ）o’sulloc（オソルロク）西広（ソグァン）茶畑のすぐそばにあるo’sullocティーミュージアムは、化粧品大手アモーレパシフィックがお茶と韓国の伝統茶文化を紹介・普及する目的で2001年オープンした韓国初のお茶の博物館です。 \n東洋と西洋、伝統と現代が調和をなす文化スペースo’sullocティーミュージアムには、茶遺物館、自然にやさしい憩いのスペース、お茶を使ったおいしい多彩なメニューを楽しめるカフェスペースなどがあります。",
+    "QA": [
+        {
+            "question": "o’sullocティーミュージアムはいつオープンしましたか？",
+            "answer": "o’sullocティーミュージアムは2001年にオープンしました。"
+        },
+        {
+            "question": "o’sullocティーミュージアムは何の目的で作られましたか？",
+            "answer": "o’sullocティーミュージアムはお茶と韓国の伝統茶文化を紹介・普及する目的で作られました。"
+        },
+        {
+            "question": "o’sullocティーミュージアムの近くに何がありますか？",
+            "answer": "o’sullocティーミュージアムの近くには西広（ソグァン）茶畑があります。"
+        },
+        {
+            "question": "o’sullocティーミュージアムにはどんなスペースがありますか？",
+            "answer": "o’sullocティーミュージアムには茶遺物館や憩いのスペース、カフェスペースなどがあります。"
+        },
+        {
+            "question": "o’sullocティーミュージアムで楽しめるメニューはありますか？",
+            "answer": "o’sullocティーミュージアムではお茶を使ったおいしい多彩なメニューを楽しむことができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 196,
+        "QA": 270
+    }
+}

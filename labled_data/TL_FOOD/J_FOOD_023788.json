@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_023788",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "新里麺屋 ( 신리면옥 )"
+    },
+    "text": "新里麺屋 ( 신리면옥 )\\n\n江原道 ガンヌン市 ジュムンジン邑 シンリチョンロ84\\n\n新鮮な材料とさっぱりした味のマッククスが有名な店です。おすすめは混ぜそばです。江原道のガンヌン市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "新里麺屋はどこに位置していますか？",
+            "answer": "新里麺屋は江原道のガンヌン市ジュムンジン邑に位置しています。"
+        },
+        {
+            "question": "新里麺屋の特徴は何ですか？",
+            "answer": "新里麺屋の特徴は、新鮮な材料とさっぱりした味のマッククスです。"
+        },
+        {
+            "question": "新里麺屋のおすすめメニューは何ですか？",
+            "answer": "新里麺屋のおすすめは混ぜそばです。"
+        }
+    ],
+    "word_Count": {
+        "text": 78,
+        "QA": 93
+    }
+}

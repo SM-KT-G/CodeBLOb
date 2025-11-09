@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_007601",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1119&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=03120000&ccbaCtcd=37&ccbaCpno=3413703120000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1995-12-01",
+        "domain": "문화/역사관광",
+        "title": "경주안심리암각화"
+    },
+    "text": "慶州安心里岩刻画 (경주안심리암각화)\\n\n慶尚北道慶州市内南面安心里14番地\\n\n慶尚北道文化財資料 , 岩刻画とは先史時代の人々が岩や洞窟の壁に記号や物、動物などの絵を刻んだものをいうが、主に農作業の豊かさと生産を祈願する呪術行為の結果と見られる。 この岩刻画は地面の上に突出している高さ2mほどの小さな岩石に刻んだものだ。 面全体に刻んだ12点の絵は抽象的な形をしているが、引いたり掘ったりする方式ではなく、絞って作る方式を使用している。 個々の形状と大きさは少しずつ差があるが、その基本様式は左右に対称になるように丸い線を置き、その間に横に線を引き、横線の上下に2つずつの卵穴<性穴>を突き入れた姿だ。 東海岸と洛東江流域の川辺や渓谷に分布する岩刻画遺跡と似ており、先史時代の信仰の対象だったものと推定される。",
+    "QA": [
+        {
+            "question": "この岩刻画は何を表していますか？",
+            "answer": "この岩刻画は農作業の豊かさと生産を祈願する呪術行為の結果と見られます。"
+        },
+        {
+            "question": "岩刻画はどのような形をしていますか？",
+            "answer": "岩刻画は抽象的な形をしていますが、基本的には左右に対称な丸い線を引き、その間に横線を引き、横線の上下に2つずつの卵穴を突き入れる形状です。"
+        },
+        {
+            "question": "この岩刻画はどの地域で見つかりましたか？",
+            "answer": "この岩刻画は慶尚北道慶州市の安心里にあります。"
+        },
+        {
+            "question": "岩刻画はどのような時代のものですか？",
+            "answer": "岩刻画は先史時代のもので、先史時代の信仰の対象だったと推定されます。"
+        },
+        {
+            "question": "岩刻画はどのような目的で作られましたか？",
+            "answer": "岩刻画は農作業の豊かさと生産を祈願するために作られたものと考えられます。"
+        }
+    ],
+    "word_Count": {
+        "text": 263,
+        "QA": 211
+    }
+}

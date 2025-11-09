@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_022773",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-07-02",
+        "domain": "음식점",
+        "title": "城北洞テジカルビ（성북동돼지갈비）"
+    },
+    "text": "城北洞テジカルビ（성북동돼지갈비）\\n\nソウル特別市 城北区 城北路115\\n\n「城北洞（ソンブクトン）テジカルビ」は、1975年にオープンした有名なテジカルビ（豚カルビ）のお店です。前日からタレに漬け込んだ肉は、焼く時に必要ない油が落ち、食べやすくなります。",
+    "QA": [
+        {
+            "question": "このお店はいつオープンしましたか？",
+            "answer": "1975年にオープンしました。"
+        },
+        {
+            "question": "どのように肉を漬け込んでいますか？",
+            "answer": "前日からタレに漬け込んでいます。"
+        },
+        {
+            "question": "どのような効果がありますか？",
+            "answer": "肉は焼く時に必要ない油が落ち、食べやすくなります。"
+        },
+        {
+            "question": "このお店の場所はどこですか？",
+            "answer": "ソウル特別市 城北区 城北路115にあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 95,
+        "QA": 103
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_033171",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2022-08-30",
+        "domain": "자연관광",
+        "title": "배바우청정마을"
+    },
+    "text": "ベパウ清浄村は天然自然の大清湖近くの沃川郡北東部に位置する村に大清湖水質保護区域に位置したクリーン・村である。大清湖(デチョンホ)の涼しい自然、錦江(クムガン)の豊富な観光資源と村の住民の豊かな人情がついているベパウ清浄村では、環境にやさしい農業を実践して自然の美しさを保存しようとする。",
+    "QA": [
+        {
+            "question": "清浄村はどこに位置していますか？",
+            "answer": "清浄村は大清湖の近くに位置し、沃川郡北東部にあります。"
+        },
+        {
+            "question": "清浄村の周辺にはどのような自然の名所がありますか？",
+            "answer": "清浄村の周辺には大清湖と錦江があり、涼しい自然と豊富な観光資源があります。"
+        },
+        {
+            "question": "清浄村の住民はどのような環境にやさしい活動を行っていますか？",
+            "answer": "清浄村の住民は環境にやさしい農業を実践し、自然の美しさを保つ努力をしています。"
+        }
+    ],
+    "word_Count": {
+        "text": 105,
+        "QA": 127
+    }
+}

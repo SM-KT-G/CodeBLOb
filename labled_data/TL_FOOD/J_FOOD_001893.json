@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001893",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/mint-heim",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "MINT HEIM"
+    },
+    "text": "MINT HEIM\\n\nソウル特別市 麻浦区 西橋洞 366-28\\n\nミントを使ったケーキやドリンクが若い女性に人気のカフェ「MINT HEIM」です。店のインテリアからミント色のこの店はケーキから飲み物までミントを使った、ここにしか味わえないメニューが多様にあります。ミント以外のメニューもありますのでミントが好きな人もそうでない人も一緒に楽しめます。",
+    "QA": [
+        {
+            "question": "このカフェの名前は何ですか？",
+            "answer": "MINT HEIMです。"
+        },
+        {
+            "question": "このカフェではどのようなメニューが提供されていますか？",
+            "answer": "ミントを使ったケーキやドリンクが人気ですが、ミント以外のメニューもあります。"
+        },
+        {
+            "question": "このカフェの場所はどこですか？",
+            "answer": "ソウル特別市麻浦区西橋洞366-28です。"
+        },
+        {
+            "question": "このカフェの特徴的な点は何ですか？",
+            "answer": "ミント色のインテリアやミントを使ったメニューが特徴で、若い女性に人気です。"
+        },
+        {
+            "question": "ミントが好きでない人でも楽しめるメニューはありますか？",
+            "answer": "はい、ミント以外のメニューもありますので、ミントが好きでない人も楽しめます。"
+        }
+    ],
+    "word_Count": {
+        "text": 130,
+        "QA": 180
+    }
+}

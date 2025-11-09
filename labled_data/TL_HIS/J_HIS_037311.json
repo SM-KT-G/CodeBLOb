@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_037311",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1119&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=03100000&ccbaCtcd=37&ccbaCpno=3413703100000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1995-06-30",
+        "domain": "문화/역사관광",
+        "title": "울진 내성행상 불망비"
+    },
+    "text": "蔚珍乃城行商不忘碑 (울진 내성행상 불망비)\\n\n慶尚北道蔚珍郡北面斗川里206-1番地\\n\n27年頃(1890年頃)、慶尚北道文化財資料、昔の行商団体の長である接長と半数を務めたチョン·ハンジョとクォン·ジェマンの功績を称えるために建てられた碑だ。 奉化人の接場であるチョン·ハンジョと安東人の半数クォン·ジェマンは蔚珍と奉化を行き来しながら魚類と塩、海藻類などをチョッチョゲに持って行き、物々交換で売った商人たちの商取引に多くの助けを与えた。 彼らの功績を忘れられなかった商人たちが銀功を記念するために朝鮮高宗27年(1890)頃にこの碑を建てた。",
+    "QA": [
+        {
+            "question": "この碑はいつ建てられましたか？",
+            "answer": "この碑は慶尚北道文化財資料によれば、1890年頃に建てられました。"
+        },
+        {
+            "question": "なぜこの碑は建てられたのですか？",
+            "answer": "この碑は、行商団体の長である接長と半数を務めたチョン・ハンジョとクォン・ジェマンの功績を称えるために建てられました。"
+        },
+        {
+            "question": "チョン・ハンジョとクォン・ジェマンはどのような商取引をしていたのですか？",
+            "answer": "チョン・ハンジョとクォン・ジェマンは、蔚珍と奉化を行き来しながら、魚類や塩、海藻類などをチョッチョゲに持って行き、物々交換で売った商人たちの商取引に多くの助けを与えていました。"
+        },
+        {
+            "question": "商人たちはなぜこの碑を建てることを決めたのですか？",
+            "answer": "商人たちはチョン・ハンジョとクォン・ジェマンの功績を忘れられなかったため、彼らの銀功を記念するためにこの碑を建てることを決めました。"
+        }
+    ],
+    "word_Count": {
+        "text": 203,
+        "QA": 247
+    }
+}

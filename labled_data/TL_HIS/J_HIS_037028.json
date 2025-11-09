@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_037028",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=911&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=24&ccbaAsno=00050000&ccbaCtcd=33&ccbaCpno=2443300050000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1981-05-01",
+        "domain": "문화/역사관광",
+        "title": "제천 명오리 고가"
+    },
+    "text": "堤川鳴梧里古家 (제천 명오리 고가)\\n\n忠清北道堤川市寒水面弥勒松渓路1588(松渓里)\\n\n忠清北道民俗文化財、ㄱ字型の母屋とㄱ字型のサランチェがほぼㅁ字型に配置されている。 母屋は上の部屋の外に煙突を置き、台所では火の煙が奥の間と上の部屋を通り、この煙突に抜けるようになっている。 このような構造はこの地方で多く見られるものだ。 サランチェは屋根は上垂木を使って独特な姿を見せてくれる。 母屋の家の構造は一般的な3間の退家を発展させたものと見られ、民家の家屋構造の発展過程をよく示す例だ。",
+    "QA": [
+        {
+            "question": "この古家はどこにありますか？",
+            "answer": "堤川鳴梧里古家は忠清北道堤川市寒水面弥勒松渓路1588(松渓里)にあります。"
+        },
+        {
+            "question": "この古家の特徴は何ですか？",
+            "answer": "この古家はㄱ字型の母屋とㄱ字型のサランチェがほぼㅁ字型に配置されており、母屋の上の部屋の外に煙突が置かれています。台所では火の煙が奥の間と上の部屋を通り、煙突に抜けるようになっています。サランチェの屋根は上垂木を使って独特な姿をしています。"
+        },
+        {
+            "question": "この地方でこのような構造はよく見られるのですか？",
+            "answer": "はい、この地方ではこのような構造はよく見られます。この地方の民家の家屋構造の発展過程をよく示す例です。"
+        },
+        {
+            "question": "この古家はどのような家屋構造を持っていますか？",
+            "answer": "この古家の家屋構造は一般的な3間の退家を発展させたものと見られます。"
+        }
+    ],
+    "word_Count": {
+        "text": 181,
+        "QA": 232
+    }
+}

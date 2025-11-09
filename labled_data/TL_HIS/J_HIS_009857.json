@@ -1,0 +1,55 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_009857",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=429&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=00710000&ccbaCtcd=11&ccbaCpno=2111100710000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1989-05-30",
+        "domain": "문화/역사관광",
+        "title": "옛 제일은행 본점"
+    },
+    "text": "旧第一銀行本店 (옛 제일은행 본점)\\n\nソウル中区忠武路（チュング·チュンムロ）1街53-1\\n\nソウル特別市有形文化財 , 庶民金融の殿堂を目指していた第一銀行本店の社屋だ。 1913年、国内建物としては初めて国際現像設計により1933~1935年に建てられた。 韓国戦争の時も被害がなく、本来の姿をそのまま保存している。 地下1階·地上5階建てで銀行建物としては韓国初の鉄骨·鉄筋構造を使用し、韓国産花崗石を使用して仕上げた。 営業場天井の花形石膏扶助は近代建築様式の傑作という評価を受けている。 全体的に華やかで端麗な形の比例感を見せてくれる典型的なネオバロック様式の建物だ。 日帝時代と建国初期の激動期を経て、最近の高度経済成長を成し遂げるまでの半世紀の間、韓国の金融会社の一ページを飾った記念碑的な建物だ。",
+    "QA": [
+        {
+            "question": "この建物はいつ建てられましたか？",
+            "answer": "1913年に建てられました。"
+        },
+        {
+            "question": "この建物の設計は誰が行いましたか？",
+            "answer": "国際現像設計により建てられました。"
+        },
+        {
+            "question": "この建物は何階建てですか？",
+            "answer": "地下1階・地上5階建てです。"
+        },
+        {
+            "question": "この建物の構造には何が使用されていますか？",
+            "answer": "鉄骨・鉄筋構造が使用されています。"
+        },
+        {
+            "question": "この建物の外装には何が使用されていますか？",
+            "answer": "韓国産花崗石が使用されています。"
+        },
+        {
+            "question": "この建物の特徴的な部分はありますか？",
+            "answer": "営業場天井の花形石膏扶助が近代建築様式の傑作と評価されています。"
+        },
+        {
+            "question": "この建物はどのような建築様式ですか？",
+            "answer": "典型的なネオバロック様式の建物です。"
+        },
+        {
+            "question": "この建物はどのような役割を果たしていましたか？",
+            "answer": "第一銀行本店として、韓国の金融会社の一ページを飾る役割を果たしていました。"
+        }
+    ],
+    "word_Count": {
+        "text": 264,
+        "QA": 228
+    }
+}

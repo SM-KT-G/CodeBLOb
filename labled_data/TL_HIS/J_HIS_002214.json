@@ -1,0 +1,59 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_002214",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=817&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=00580100&ccbaCtcd=50&ccbaCpno=2333900580100&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2002-04-11",
+        "domain": "문화/역사관광",
+        "title": "구억리노랑굴"
+    },
+    "text": "クオクリ・ノラングル (구억리노랑굴)\\n\n済州西帰浦市大静邑九億里721番地\\n\n済州特別自治道記念物 , ここは130年前から先祖の生活道具の一つである甕器を作ったところだ。 私たちの先祖は石窯で甕器を焼いて物々交換を通じて生計を維持した。この石窯は済州地域でしか見られない非常に独特なもので、ここは私たちの先祖の生活を示し、学者たちの研究に良い資料を提供してくれる。黄色窟の火をつけるところを「石」、培研区は「裏ゴーマン」と言い、温度1100℃以上で赤褐色調を出して焼かれるため「黄色窟」と言い、そして焼成をして約900℃内外で煙を飲ませて黒く表す「黒窟」がある。この洞窟には陶窯址の壁と天井がぶつかっている隅に灰水穴が50cm間隔であり、洞窟の規格は長さ17.07m、幅2.89m、高さ2.51mであり、1948年頃に補修したものと推定される。",
+    "QA": [
+        {
+            "question": "この場所はどこにありますか？",
+            "answer": "この場所は韓国の済州特別自治道の西帰浦市にある九億里721番地です。"
+        },
+        {
+            "question": "何を作るための場所ですか？",
+            "answer": "この場所では甕器を作るための石窯があります。"
+        },
+        {
+            "question": "先祖は何を作っていましたか？",
+            "answer": "先祖は甕器を作っていました。"
+        },
+        {
+            "question": "石窯はどのように使われていましたか？",
+            "answer": "石窯は甕器を焼くために使われ、生計を維持するための物々交換に利用されていました。"
+        },
+        {
+            "question": "この石窯はどのような特徴がありますか？",
+            "answer": "この石窯は済州地域でしか見られない非常に独特なもので、私たちの先祖の生活を示し、学者たちの研究に良い資料を提供しています。"
+        },
+        {
+            "question": "この石窯ではどのような窯焚きの方法がありますか？",
+            "answer": "この石窯では黄色窟、裏ゴーマン、黒窟の3つの窯焚きの方法があります。"
+        },
+        {
+            "question": "洞窟の規格はどのくらいですか？",
+            "answer": "洞窟の規格は長さ17.07m、幅2.89m、高さ2.51mです。"
+        },
+        {
+            "question": "この洞窟には何がありますか？",
+            "answer": "この洞窟には陶窯址の壁と天井がぶつかっている隅に灰水穴があります。"
+        },
+        {
+            "question": "この洞窟はいつ頃補修されたものですか？",
+            "answer": "この洞窟は1948年頃に補修されたものと推定されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 275,
+        "QA": 329
+    }
+}

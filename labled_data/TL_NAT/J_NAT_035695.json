@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_035695",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101933",
+        "collectedDate": "2023-10-06",
+        "publishedDate": "2020-01-01",
+        "domain": "자연관광",
+        "title": "설악산국립공원"
+    },
+    "text": "雪岳山国立公園\\n\n雪岳山(ソルアクサン、Seoraksan、Mt.Seorak)は江原特別自治道束草市、襄陽郡、麟蹄郡、高城郡にまたがる標高1,708メートルの山だ。 大韓民国では漢拏山と智異山の次に高い山だ。 秋夕頃から雪が降り始め、夏になってようやく溶ける理由でこのように名付けた。 解放および分断以後、朝鮮戦争の時まではこの山が朝鮮民主主義人民共和国領土に属したが、朝鮮戦争以後には大韓民国領土になった\n",
+    "QA": [
+        {
+            "question": "雪岳山国立公園はどこに位置していますか？",
+            "answer": "江原特別自治道束草市、襄陽郡、麟蹄郡、高城郡に位置しています。"
+        },
+        {
+            "question": "雪岳山の標高は何メートルですか？",
+            "answer": "雪岳山の標高は1,708メートルです。"
+        },
+        {
+            "question": "なぜ雪岳山はその名前がつけられたのですか？",
+            "answer": "秋に雪が降り、夏まで溶けるため、そのような名前がつけられました。"
+        },
+        {
+            "question": "雪岳山は朝鮮戦争以後、どの国の領土になりましたか？",
+            "answer": "朝鮮戦争以後、雪岳山は大韓民国の領土になりました。"
+        }
+    ],
+    "word_Count": {
+        "text": 151,
+        "QA": 138
+    }
+}

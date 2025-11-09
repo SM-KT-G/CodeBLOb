@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_050824",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=86&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=06420000&ccbaCtcd=11&ccbaCpno=1121106420000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1978-12-07",
+        "domain": "문화/역사관광",
+        "title": "고구려 평양성 석편"
+    },
+    "text": "高句麗平壌城石片\\n\nソウル西大門区梨花女子大路52、梨花女子大学校博物館(新村洞)\\n\n高句麗の平原王、宝物、高句麗の平壌(ピョンヤン)城ソクピョン(高句麗平壤城石片)は、高句麗の平壌(ピョンヤン)城を積むことが当時、比較的平らな自然石の上に字を刻んだことだ。平壌(ピョンヤン)城は高句麗の都城で外城(外城)、中性(中城)、耐性(內城)、北城(北城)など4省に分かれている。誠意の長さは全体15㎞で城郭の周辺は川に囲まれ、平壌(ピョンヤン)市の中心部を成し、主に私の城壁は石に、外城壁は土で聖別されている。誠意内部には、当時の高句麗の都市区画の敷地がまだ残っている。この城郭で、現在まで文字が刻まれた4つの城石(城石)が発見されたが、その中に梨花女子大学校博物館に所蔵されているこの城石方は二番目に発見されたのだ。この城石の現在の状態は二番目の行の壊れていた部分とともに、全体9つに亀裂されており、石膏で固定させておいた状態だ。",
+    "QA": [
+        {
+            "question": "高句麗平壌城石片はどこに所蔵されていますか？",
+            "answer": "梨花女子大学校博物館に所蔵されています。"
+        },
+        {
+            "question": "高句麗平壌城石片はどのようなものですか？",
+            "answer": "高句麗の平壌城を積んだ自然石の上に刻まれた文字です。"
+        },
+        {
+            "question": "高句麗の平壌城はどのように分かれていますか？",
+            "answer": "外城、中城、內城、北城の4つに分かれています。"
+        },
+        {
+            "question": "高句麗平壌城石片はいつ発見されましたか？",
+            "answer": "梨花女子大学校博物館に所蔵されている城石は二番目に発見されたものです。"
+        },
+        {
+            "question": "高句麗平壌城石片の現在の状態はどうですか？",
+            "answer": "壊れていた部分があり、全体で9つに亀裂が入っています。現在は石膏で固定されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 304,
+        "QA": 184
+    }
+}

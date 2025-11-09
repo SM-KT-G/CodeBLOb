@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_028653",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=293&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=16&ccbaAsno=01840000&ccbaCtcd=35&ccbaCpno=1363501840000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1967-02-17",
+        "domain": "자연관광",
+        "title": "고창 선운사 동백나무 숲"
+    },
+    "text": "椿は茶の木科に属する木で、我が国と日本、中国などの暖かい地域に主に分布しています。特に南側の海岸や島で多く発見されます。椿は早春に美しい花を咲かせが、この花はチュンベク、チュベク、椿と呼ばれます。この中で高敞サムインリに位置した椿林は、百済の威徳王24年(577)に禅雲寺が立てた以降に造成されました。木の平均高さは約6mであり、周囲は30cmほどです。この森は私が後ろに傾いた山の下に30mの広さで広がっており、細い帯状をしています。この椿林は美しい寺院景観をなしており、寺院の森としての文化的価値だけでなく、古いの椿林としての生物学的保存価値も高く、天然記念物に指定および保護されています。",
+    "QA": [
+        {
+            "question": "椿は何科に属していますか？",
+            "answer": "椿は茶の木科に属しています。"
+        },
+        {
+            "question": "椿の花は何と呼ばれますか？",
+            "answer": "椿の花はチュンベク、チュベク、椿と呼ばれます。"
+        },
+        {
+            "question": "椿林はいつ造成されましたか？",
+            "answer": "椿林は百済の威徳王24年(577)に禅雲寺が立てた以降に造成されました。"
+        },
+        {
+            "question": "椿林の平均高さと周囲の大きさはどれくらいですか？",
+            "answer": "椿林の平均高さは約6mであり、周囲は30cmほどです。"
+        },
+        {
+            "question": "椿林はなぜ天然記念物に指定されていますか？",
+            "answer": "椿林は文化的価値だけでなく、生物学的保存価値も高く、天然記念物に指定および保護されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 217,
+        "QA": 169
+    }
+}

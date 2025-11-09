@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_014842",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-01",
+        "domain": "음식점",
+        "title": "ユリネ食堂 ( 유리네식당 )"
+    },
+    "text": "ユリネ食堂 ( 유리네식당 )\n済州特別自治道 済州市 蓮北路 146\n済州の様々な料理が一ヶ所で味わえる店です。代表的なメニューは太刀魚の煮付けです。済州特別自治道のジェジュ市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "ユリネ食堂はどこにありますか？",
+            "answer": "ユリネ食堂は済州特別自治道の済州市蓮北路146に位置しています。"
+        },
+        {
+            "question": "ユリネ食堂ではどのような料理が味わえますか？",
+            "answer": "ユリネ食堂では済州の様々な料理が一ヶ所で味わえます。特に代表的なメニューは太刀魚の煮付けです。"
+        },
+        {
+            "question": "ユリネ食堂は何を専門としていますか？",
+            "answer": "ユリネ食堂は韓食専門店です。"
+        },
+        {
+            "question": "ユリネ食堂はどの市に位置していますか？",
+            "answer": "ユリネ食堂は済州特別自治道のジェジュ市に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 74,
+        "QA": 143
+    }
+}

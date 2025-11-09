@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_002184",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/goods/GN0002029267?startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0%5E&npprmaxsort=min",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "대전 월평 워커스 호텔 by 아늑"
+    },
+    "text": "WORKERS'' HOTELは働く人たちのためのホテルで、様々な形の働く人を尊重する気持ちで作られました。 このホテルは、誰もが自分の仕事に最高の成果を出せるように、共有オフィスの作業スペースを提供します。 また、客室には自由な雰囲気を造成し、仕事に没頭できる空間とインスピレーションを与える空間を用意しました。 ですから、あなたは[WORKERS'' HOTEL]で仕事に没頭し、インスピレーションを受けて働くことができます。",
+    "QA": [
+        {
+            "question": "WORKERS'' HOTELはどんな人たちのためのホテルですか？",
+            "answer": "働く人たちのためのホテルです。"
+        },
+        {
+            "question": "WORKERS'' HOTELでは何を提供していますか？",
+            "answer": "共有オフィスの作業スペースと自由な雰囲気を持つ客室を提供しています。"
+        },
+        {
+            "question": "なぜWORKERS'' HOTELは働く人に向けて作られましたか？",
+            "answer": "誰もが自分の仕事に最高の成果を出せるようにするためです。"
+        },
+        {
+            "question": "WORKERS'' HOTELで仕事に没頭することはできますか？",
+            "answer": "はい、WORKERS'' HOTELで仕事に没頭し、インスピレーションを受けて働くことができます。"
+        },
+        {
+            "question": "WORKERS'' HOTELはどのような空間を提供していますか？",
+            "answer": "仕事に没頭できる空間とインスピレーションを与える空間を提供しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 157,
+        "QA": 234
+    }
+}

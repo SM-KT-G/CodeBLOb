@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_001738",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=785&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=00232300&ccbaCtcd=50&ccbaCpno=2333900232300&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1996-07-18",
+        "domain": "문화/역사관광",
+        "title": "오소포연대"
+    },
+    "text": "オソポ・ヨンデ (오소포연대)\\n\n済州西帰浦市城山邑梧鳥里392番地\\n\n済州特別自治道記念物 , 連帯は松明と煙を利用して政治·軍事的に急な便りを伝えた通信手段をいう。 烽燧台とは機能面で差がないが、連隊は主に丘陵地や海辺地域に設置され、烽燧台は山頂に設置し、昼間は煙で夜は松明を起こして信号を送った。 この連帯は南済州郡城山水産高等学校の北側畑にあるが、現在多く毀損されている。 水産陣に所属していたここは、水産陣所属の別荘6人、鳳軍12人が配置され、交代で守った。 東に城山烽燧台を経て、西にヒバリ連隊とつながっている。",
+    "QA": [
+        {
+            "question": "この連帯はどのような役割を果たしていましたか？",
+            "answer": "この連帯は政治・軍事的な急な便りを伝えるための通信手段でした。煙や松明を利用して信号を送りました。"
+        },
+        {
+            "question": "連帯と烽燧台の違いは何ですか？",
+            "answer": "機能面では差がありませんが、連帯は丘陵地や海辺地域に設置され、烽燧台は山頂に設置されました。"
+        },
+        {
+            "question": "現在の連帯の状態はどうですか？",
+            "answer": "現在、連帯は多くが毀損している状況です。"
+        },
+        {
+            "question": "連帯はどのような人々によって守られていましたか？",
+            "answer": "水産陣所属の別荘6人と鳳軍12人が交代で連帯を守っていました。"
+        },
+        {
+            "question": "連帯はどのような場所に位置していますか？",
+            "answer": "連帯は南済州郡城山水産高等学校の北側畑に位置しています。"
+        },
+        {
+            "question": "連帯はどのような場所とつながっていますか？",
+            "answer": "連帯は東に城山烽燧台とつながり、西にヒバリ連隊とつながっていました。"
+        }
+    ],
+    "word_Count": {
+        "text": 193,
+        "QA": 239
+    }
+}

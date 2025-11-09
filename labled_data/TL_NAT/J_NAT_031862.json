@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_031862",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2022-07-25",
+        "domain": "자연관광",
+        "title": "동림사(김해)"
+    },
+    "text": "*許王后の兄チャン·ユファサンが創建した寺院、東林寺*神霊的な魚という意味を持つ秀麗な景観と、土俗的な感じが濃い神魚山には駕洛国(43-532)初期にキム·スロ王の王妃である許王后の兄チャン·ユファサンが創建した東林寺があります。東林寺は可楽国の安全と繁栄を願う意味で創建されました伝えていますが、文禄·慶長の役の時にすべて焼失したものを華厳禅師と月主僧侶が復元した",
+    "QA": [
+        {
+            "question": "東林寺は誰によって創建されましたか？",
+            "answer": "許王后の兄チャン·ユファサンによって創建されました。"
+        },
+        {
+            "question": "東林寺は何のために創建されましたか？",
+            "answer": "可楽国の安全と繁栄を願う意味で創建されました。"
+        },
+        {
+            "question": "文禄・慶長の役の時に何が起きましたか？",
+            "answer": "東林寺はすべて焼失しましたが、華厳禅師と月主僧侶が復元しました。"
+        }
+    ],
+    "word_Count": {
+        "text": 134,
+        "QA": 99
+    }
+}

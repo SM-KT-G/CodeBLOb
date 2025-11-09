@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_021679",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-05-21",
+        "domain": "숙박",
+        "title": "茂朱徳裕山リゾート ホテルチロル（무주덕유산리조트 호텔티롤）"
+    },
+    "text": "茂朱徳裕山リゾート ホテルチロル\n全羅北道 茂朱郡 雪川面 万善路185\n1997年1月にオープンした「ホテルチロル（HOTEL TIROL）」は、オーストリア西部にある典型的なリゾートホテルを基本コンセプトとしています。大自然と調和したアルプス風の山岳レジャーホテルです。",
+    "QA": [
+        {
+            "question": "このホテルはいつオープンしましたか？",
+            "answer": "ホテルチロルは1997年1月にオープンしました。"
+        },
+        {
+            "question": "ホテルチロルのコンセプトは何ですか？",
+            "answer": "ホテルチロルの基本コンセプトは、オーストリア西部にある典型的なリゾートホテルです。"
+        },
+        {
+            "question": "ホテルチロルはどのようなホテルですか？",
+            "answer": "ホテルチロルは大自然と調和したアルプス風の山岳レジャーホテルです。"
+        }
+    ],
+    "word_Count": {
+        "text": 100,
+        "QA": 112
+    }
+}

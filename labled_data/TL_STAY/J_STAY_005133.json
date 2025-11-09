@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_005133",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-06-08",
+        "domain": "숙박",
+        "title": "コンラッドソウル（콘래드 서울）"
+    },
+    "text": "コンラッドソウル\nソウル特別市 永登浦区 国際金融路10\nコンラッドソウルは汝矣島ビジネス地区にあるソウル国際金融センターの（IFC Seoul）の4つのビルのうちの1つで、ソウル地下鉄5・9号線「汝矣島駅」とショッピングモール「IFC  MALL」と連結しています。",
+    "QA": [
+        {
+            "question": "コンラッドソウルはどこにありますか？",
+            "answer": "コンラッドソウルはソウル特別市の永登浦区にあります。"
+        },
+        {
+            "question": "どの駅からコンラッドソウルに行けますか？",
+            "answer": "ソウル地下鉄5・9号線の「汝矣島駅」からコンラッドソウルに行くことができます。"
+        },
+        {
+            "question": "コンラッドソウルはどの建物と連結していますか？",
+            "answer": "コンラッドソウルはショッピングモール「IFC MALL」と連結しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 98,
+        "QA": 119
+    }
+}

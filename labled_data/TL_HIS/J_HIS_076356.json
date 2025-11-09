@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_076356",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/view?relicId=117713",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2023-10-11",
+        "domain": "문화/역사관광",
+        "title": "빗살무늬 토기 조각"
+    },
+    "text": "櫛目文土器片 (빗살무늬 토기 조각)\\n\n韓国の新石器時代に使用された保存運搬用の食品容器は、軟らかい土で作られていました。その容器の大きさは現在の基準では、長さが7.3cmで厚さは0.7cm、長さが17.0cmで厚さは1.0cm、長さが11.8cmで厚さは1.7cm、長さが5.0cmで厚さは1.7cm、長さが22.5cmで厚さは2.0cm、長さが8.9cmで厚さは1.0cm、長さが16.6cmで厚さは0.9cmとなっています。",
+    "QA": [
+        {
+            "question": "この食品容器は何時代に使用されましたか？",
+            "answer": "新石器時代に使用されました。"
+        },
+        {
+            "question": "この食品容器の材料は何ですか？",
+            "answer": "軟らかい土で作られています。"
+        },
+        {
+            "question": "この食品容器の大きさはどのくらいですか？",
+            "answer": "長さが7.3cm〜22.5cmで、厚さが0.7cm〜2.0cmです。"
+        },
+        {
+            "question": "この食品容器は何のために使用されましたか？",
+            "answer": "保存運搬用の食品容器として使用されました。"
+        },
+        {
+            "question": "この食品容器の表面に何の模様が付いていますか？",
+            "answer": "櫛目文土器片（빗살무늬 토기 조각）と呼ばれる模様が付いています。"
+        }
+    ],
+    "word_Count": {
+        "text": 159,
+        "QA": 157
+    }
+}

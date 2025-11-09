@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_002923",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "イプクンオリ ( 입큰오리 )"
+    },
+    "text": "イプクンオリ ( 입큰오리 )\nソウル特別市 ヨンドゥンポ区 ドリムロ128\n羊肉串だけでなく、様々な中華料理が味わえる店です。代表的なメニューはラム肉の串焼きです。ソウル特別市のヨンドゥンポ区に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "イプクンオリはソウル特別市のヨンドゥンポ区に位置しています。"
+        },
+        {
+            "question": "この店では何の料理が味わえますか？",
+            "answer": "イプクンオリでは羊肉串だけでなく、様々な中華料理が味わえます。"
+        },
+        {
+            "question": "この店の代表的なメニューは何ですか？",
+            "answer": "イプクンオリの代表的なメニューはラム肉の串焼きです。"
+        }
+    ],
+    "word_Count": {
+        "text": 80,
+        "QA": 99
+    }
+}

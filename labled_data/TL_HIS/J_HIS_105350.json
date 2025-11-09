@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_105350",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=130&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=11270000&ccbaCtcd=11&ccbaCpno=1121111270000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1992-04-20",
+        "domain": "문화/역사관광",
+        "title": "천노해 금강반야바라밀경"
+    },
+    "text": "天ノ海金剛般若原密経\\n\nソウル特別市龍山区西氷庫路137(龍山洞6街、ジャン·ジャン)\\n\n高麗まあ、宝物、金剛般若波羅蜜経は略して''クムカンギョン''とも呼ばれ、韓国の曹渓宗の根本経典である。我が国では般若心経の次に多く読まれる仏教経典だ。この本は、宋の盧寄りが意味を解釈して韻文形式の称賛する文を付けたのだ。木に留めて韓国伝統の紙でつくったに撮っており、大きさは縦26.6センチ、横15.5センチだ。巻末にある異色が書いた文によると、高麗まあ13年(1387)の遺構とカンインブがウワンビに求めて刊行したものであり、この文章はソンボン(宋本)を原本としたことを知ることができる。",
+    "QA": [
+        {
+            "question": "この仏教経典は何と呼ばれていますか？",
+            "answer": "この仏教経典は『クムカンギョン』とも呼ばれています。"
+        },
+        {
+            "question": "この経典は韓国のどの宗派の根本経典ですか？",
+            "answer": "この経典は韓国の曹渓宗の根本経典です。"
+        },
+        {
+            "question": "この経典の大きさは何センチですか？",
+            "answer": "この経典の大きさは縦26.6センチ、横15.5センチです。"
+        },
+        {
+            "question": "この経典は何年に遺構とカンインブによって刊行されましたか？",
+            "answer": "この経典は高麗まあ13年(1387)に遺構とカンインブによって刊行されました。"
+        },
+        {
+            "question": "この経典の作者は誰ですか？",
+            "answer": "この経典の作者は宋の盧寄りです。"
+        }
+    ],
+    "word_Count": {
+        "text": 214,
+        "QA": 166
+    }
+}

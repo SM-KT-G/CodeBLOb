@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_001267",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/goods/GN0002152360?startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0%5E&npprmaxsort=min",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "전주 재즈어라운드 호텔"
+    },
+    "text": "2022年02月GRAND OPENにあるジャズアラウンドホテル全州は大韓民国全州市に位置しています。 ホテル内にはTHE SUITEカフェとJAZZ GALLERY&HALLがあり、お客様にゆったりとした休憩時間を提供します。 毎朝の朝食はJAZGALLERYでお楽しみいただけますし、パッケージや別料金でご利用いただけます。 ホテルの11階のルーフトップにはBRICKルーフトップガーデンスパがあり、PINE TREE、LILAC、PINE NUTの3種類のスパが楽しめます。 家族、旅行、出張客のための様々な部屋が用意されており、最高級の寝具類が提供されています。 全室1人用朝食サービスを提供するオープンイベントを実施しています。 たくさんのご利用をお待ちしております。",
+    "QA": [
+        {
+            "question": "このホテルの場所はどこですか？",
+            "answer": "ジャズアラウンドホテル全州は大韓民国全州市に位置しています。"
+        },
+        {
+            "question": "ホテル内にはどんな施設がありますか？",
+            "answer": "ホテル内にはTHE SUITEカフェとJAZZ GALLERY&HALLがあります。"
+        },
+        {
+            "question": "朝食はどこで楽しめますか？",
+            "answer": "朝食はJAZGALLERYでお楽しみいただけます。"
+        },
+        {
+            "question": "ホテルにはスパがありますか？",
+            "answer": "はい、ホテルの11階にはBRICKルーフトップガーデンスパがあります。"
+        },
+        {
+            "question": "どんな部屋が用意されていますか？",
+            "answer": "家族、旅行、出張客のための様々な部屋が用意されています。"
+        },
+        {
+            "question": "ホテルのオープンイベントについて教えてください。",
+            "answer": "ホテルでは全室1人用朝食サービスを提供するオープンイベントを実施しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 248,
+        "QA": 218
+    }
+}

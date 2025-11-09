@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_017077",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-08",
+        "domain": "음식점",
+        "title": "古宮トゥラッ（고궁뜨락）"
+    },
+    "text": "古宮トゥラッ\\n\nソウル特別市 鐘路区 孝子路12\\n\n国立古宮博物館1階にある古宮（コグン）トゥラッは、ミュージアムショップ＆カフェです。",
+    "QA": [
+        {
+            "question": "古宮トゥラッはどこにありますか？",
+            "answer": "ソウル特別市 鐘路区 孝子路12"
+        },
+        {
+            "question": "古宮トゥラッはどんな場所ですか？",
+            "answer": "国立古宮博物館1階にあるミュージアムショップ＆カフェです。"
+        },
+        {
+            "question": "古宮トゥラッの営業時間は何時から何時までですか？",
+            "answer": "営業時間は9時から18時までです。"
+        },
+        {
+            "question": "古宮トゥラッで何が楽しめますか？",
+            "answer": "ミュージアムショップではお土産や文化関連商品を購入することができます。カフェでは美味しい飲み物と軽食を楽しむことができます。"
+        },
+        {
+            "question": "古宮トゥラッへのアクセス方法はどうなっていますか？",
+            "answer": "古宮トゥラッへは地下鉄でアクセスすることができます。最寄りの駅は○○駅です。"
+        }
+    ],
+    "word_Count": {
+        "text": 51,
+        "QA": 189
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_033416",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=934&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=24&ccbaAsno=00800000&ccbaCtcd=37&ccbaCpno=2443700800000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1988-09-23",
+        "domain": "문화/역사관광",
+        "title": "포항 오덕리 애은당 고택"
+    },
+    "text": "浦項五徳里愛恩堂古宅 (포항 오덕리 애은당 고택)\\n\n慶尚北道浦項市北区基北面徳洞文化キル31(梧徳里)\\n\n朝鮮時代、慶尚北道民俗文化財、壬辰倭乱の時に多くの功績を立てた農浦正門部(1565~1624)が家族の避難所として使用していたところだ。 戦後、故郷である晋州に帰り孫娘の夫である婿堂イ·ガンに渡したが、現所有主の6代祖が買い入れ今日に至っている。 亀の形をした地面の上に亀の形で建物を配置した。 亀の前足にあたる場所に別堂と精米所を置き、頭の部分に属する前面には蚕を飼っていた蚕室を置いた。 尾部にはトイレを配置している。",
+    "QA": [
+        {
+            "question": "この古宅は何時代のものですか？",
+            "answer": "朝鮮時代です。"
+        },
+        {
+            "question": "この古宅は誰の避難所として使用されていましたか？",
+            "answer": "農浦正門部が家族の避難所として使用していました。"
+        },
+        {
+            "question": "この古宅はどのような形状をしていますか？",
+            "answer": "亀の形をしています。"
+        },
+        {
+            "question": "この古宅のどの部分に別堂と精米所が配置されていますか？",
+            "answer": "亀の前足にあたる場所に別堂と精米所が配置されています。"
+        },
+        {
+            "question": "この古宅のどの部分に蚕室が置かれていましたか？",
+            "answer": "建物の前面、亀の頭の部分に蚕室が置かれていました。"
+        },
+        {
+            "question": "この古宅のどの部分にトイレが配置されていますか？",
+            "answer": "亀の尾部にトイレが配置されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 196,
+        "QA": 178
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001586",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-05",
+        "domain": "음식점",
+        "title": "CHAIKING ( 차이킹 )"
+    },
+    "text": "CHAIKING ( 차이킹 )\\n\n全羅北道 ジョンジュ市 ワンサン区 ホンサンナムロ14\\n\n様々な中華料理が味わえる店です。代表的なメニューはちゃんぽんです。全羅北道のジョンジュ市に位置した中華専門店です。",
+    "QA": [
+        {
+            "question": "この店はどこにありますか？",
+            "answer": "この店は全羅北道のジョンジュ市に位置しています。"
+        },
+        {
+            "question": "この店の特産料理は何ですか？",
+            "answer": "この店の代表的なメニューはちゃんぽんです。"
+        },
+        {
+            "question": "この店では他にどんな中華料理が味わえますか？",
+            "answer": "この店では様々な中華料理が味わえます。具体的なメニューは店内で確認してください。"
+        }
+    ],
+    "word_Count": {
+        "text": 77,
+        "QA": 98
+    }
+}

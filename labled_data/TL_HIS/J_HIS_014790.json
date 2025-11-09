@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_014790",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1164&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=05400000&ccbaCtcd=37&ccbaCpno=3413705400000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2008-09-18",
+        "domain": "문화/역사관광",
+        "title": "영주 일우정"
+    },
+    "text": "領主一憂情 (영주 일우정)\\n\n慶尚北道栄州市梨山路938番キル25(梨山面)\\n\n慶尚北道文化財資料 , 一宇亭は1868年に建設した亭子で、愚厳チョン·ギュビョン(1840~1905)が1866年に池を掘り、その横にある岩に「一宇台」を刻み、1868年に亭子を建てて桂堂リュ·ジュモクに頼んで「一宇亭」と名付けたという文献記録が残っている。 亭子と池、金石門と扁額など現存する遺跡を通じて朝鮮時代末期にソンビが飾った遺跡を研究するのに必要な文献資料が共に保存されており、構造様式は目立たないが特殊目的で作られた空間構成と家跡の象徴意味(金亀泥)を生かして観念的形態で特色あるように造成した池と渓流などの伝統造園が注目される。",
+    "QA": [
+        {
+            "question": "一宇亭はいつ建てられましたか？",
+            "answer": "一宇亭は1868年に建てられました。"
+        },
+        {
+            "question": "一宇亭は誰によって建てられましたか？",
+            "answer": "一宇亭は愚厳チョン·ギュビョンによって建てられました。"
+        },
+        {
+            "question": "一宇亭の隣にある岩に何が刻まれていますか？",
+            "answer": "一宇亭の隣にある岩には「一宇台」という文字が刻まれています。"
+        },
+        {
+            "question": "一宇亭の遺跡にはどのような文献資料が保存されていますか？",
+            "answer": "一宇亭の遺跡には朝鮮時代末期のソンビの遺跡を研究するのに必要な文献資料が保存されています。"
+        },
+        {
+            "question": "一宇亭の特徴的な点は何ですか？",
+            "answer": "一宇亭の特徴的な点は、特殊目的で作られた空間構成と家跡の象徴意味を生かして造成された池と渓流の伝統造園です。"
+        }
+    ],
+    "word_Count": {
+        "text": 231,
+        "QA": 198
+    }
+}

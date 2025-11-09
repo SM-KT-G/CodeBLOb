@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_107697",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1047&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=01200000&ccbaCtcd=37&ccbaCpno=3413701200000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1985-08-05",
+        "domain": "문화/역사관광",
+        "title": "청암사대웅전"
+    },
+    "text": "青岩寺大雄殿\\n\n慶尚北道金泉市甑山面坪村2ギル335-48(坪村里)\\n\n慶尚北道文化財資料、青岩士は統一新羅憲安王3年(859)に導線が建てた寺院である。朝鮮時代にも何度も改称されたが、1911年に火災で焼失した。その翌年から3年にわたって再び設立したが、今ある大雄殿もこの際に建てられたものだ。大雄殿は前面3間・側面2間規模で屋根は側面から見ると、八(八部)字形の入母屋屋根で飾った。内側には木造釈迦如来坐像とフブルテン、サンシンテン、シンジュンテン、チルソンテン、ドクソンテンなど数点の幀画と、昭宗(小鐘)、数度(繡幡)がある。",
+    "QA": [
+        {
+            "question": "青岩寺大雄殿はいつ建てられましたか？",
+            "answer": "青岩寺大雄殿は何度も改称されましたが、1911年に火災で焼失し、その翌年から3年にわたって再建されました。"
+        },
+        {
+            "question": "大雄殿の屋根の形はどのような形ですか？",
+            "answer": "大雄殿の屋根は側面から見ると、八(八部)字形の入母屋屋根で飾られています。"
+        },
+        {
+            "question": "大雄殿にはどのような仏教の像や幀画がありますか？",
+            "answer": "大雄殿には木造釈迦如来坐像とフブルテン、サンシンテン、シンジュンテン、チルソンテン、ドクソンテンなど数点の幀画があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 196,
+        "QA": 155
+    }
+}

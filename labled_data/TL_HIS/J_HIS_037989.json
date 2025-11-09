@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_037989",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=483&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=01420000&ccbaCtcd=33&ccbaCpno=2113301420000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1984-12-31",
+        "domain": "문화/역사관광",
+        "title": "진천 이시발 신도비"
+    },
+    "text": "鎮川李時発神道碑 (진천 이시발 신도비)\\n\n忠清北道鎮川郡草坪面龍井里192-11番地\\n\n忠清北道有形文化財、神道碑とは王や高官の生涯業績を記録し、彼の墓の南東側に立てておくもので、この碑は朝鮮中期の文臣であるイ·シバル(1569~1626)先生の行跡を称えている。 イ·シバルは宣祖22年(1580年)、文科に及第して僧門院に登用された。 壬辰倭乱(1592)、李鳳鶴の乱(1596)、李括の乱(1624)当時、大きな功績を挙げ、生涯を終えた後は領議政に追贈された。 宣祖、光海君、仁祖にまたがる3人の王に仕え、民の生活安定と地方民を平穏にした彼の功労を賛えるためにこの碑を建てた。 朝鮮孝宗9年(1658)に建てた碑で、碑文はソン·シヨルが文を作り、ソン·ジュンギルが字を書き、イ·ジョンヨンが刻んだ。",
+    "QA": [
+        {
+            "question": "この神道碑は誰の業績を称えていますか？",
+            "answer": "イ·シバル(1569~1626)先生の行跡を称えています。"
+        },
+        {
+            "question": "イ·シバルはどのような功績を挙げましたか？",
+            "answer": "壬辰倭乱(1592)、李鳳鶴の乱(1596)、李括の乱(1624)当時、大きな功績を挙げました。"
+        },
+        {
+            "question": "この碑はいつ建てられましたか？",
+            "answer": "朝鮮孝宗9年(1658)に建てられました。"
+        },
+        {
+            "question": "誰が碑文を作りましたか？",
+            "answer": "ソン·シヨルが文を作りました。"
+        },
+        {
+            "question": "誰が碑文を書きましたか？",
+            "answer": "ソン·ジュンギルが字を書きました。"
+        },
+        {
+            "question": "誰が碑文を刻みましたか？",
+            "answer": "イ·ジョンヨンが刻みました。"
+        }
+    ],
+    "word_Count": {
+        "text": 261,
+        "QA": 172
+    }
+}

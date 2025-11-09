@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_005755",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-05",
+        "domain": "음식점",
+        "title": "コキリ食堂 ( 코끼리식당 )"
+    },
+    "text": "コキリ食堂 ( 코끼리식당 )\\n\n慶尚北道 アンドン市 プンチョン面 チョンニョンスプソロ7-19\\n\n様々な韓国料理が味わえる店です。慶尚北道のアンドン市に位置した韓食専門店です。おすすめはサムギョプサルです。",
+    "QA": [
+        {
+            "question": "コキリ食堂はどこにありますか？",
+            "answer": "コキリ食堂は慶尚北道のアンドン市に位置しています。"
+        },
+        {
+            "question": "コキリ食堂のおすすめ料理は何ですか？",
+            "answer": "コキリ食堂のおすすめはサムギョプサルです。"
+        },
+        {
+            "question": "コキリ食堂ではどんな韓国料理が味わえますか？",
+            "answer": "コキリ食堂では様々な韓国料理が味わえます。"
+        }
+    ],
+    "word_Count": {
+        "text": 78,
+        "QA": 89
+    }
+}

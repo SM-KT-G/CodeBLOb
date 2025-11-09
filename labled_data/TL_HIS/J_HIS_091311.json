@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_091311",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=83&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=06160000&ccbaCtcd=37&ccbaCpno=1123706160000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1978-04-11",
+        "domain": "문화/역사관광",
+        "title": "영천향교 대성전"
+    },
+    "text": "朝鮮世宗17年(1435)、宝物、永川郷校は昔の聖賢に祭祀を捧げ、学問を磨く地方の国立教育機関です。祭祀を行う空間の中心的な建物である大成殿は、孔子をはじめとする様々な聖賢の位牌が祀られています。朝鮮世宗17年(1435年)に初めて建てられ、中宗8年(1513年)に郡守キム·フムジョが直しましたが、今ある建物はその後も何度も建て直して修理したものです規模は前面5間·側面3間で、屋根は側面から見て人の字型をした切妻屋根です。真ん中のマスと両側の2マスに開閉扉を付けており、扉の上部は井の字型の窓枠になっています。側面1間を空けて廊下形式で作った一般的な大成殿建築形式とは異なり、側面3間をすべて内部に作っている点が特異です。建物の内側は真ん中の間、後ろに1つ、両側に2つずつ祭壇を作り、天井は垂木が見える提灯天井です",
+    "QA": [
+        {
+            "question": "この大成殿はいつ建てられましたか？",
+            "answer": "大成殿は朝鮮世宗17年(1435年)に初めて建てられました。"
+        },
+        {
+            "question": "大成殿の修理は何度行われましたか？",
+            "answer": "大成殿は中宗8年(1513年)に郡守キム·フムジョによって直されましたが、その後も何度も建て直して修理されました。"
+        },
+        {
+            "question": "大成殿の屋根の形はどのような形ですか？",
+            "answer": "大成殿の屋根は側面から見て人の字型をした切妻屋根です。"
+        },
+        {
+            "question": "大成殿の内部の構造はどのようになっていますか？",
+            "answer": "大成殿の内部は中央の間、後ろに1つ、両側に2つずつ祭壇を作り、天井は垂木が見える提灯天井になっています。"
+        },
+        {
+            "question": "大成殿にはどのような聖賢の位牌が祀られていますか？",
+            "answer": "大成殿には孔子をはじめとする様々な聖賢の位牌が祀られています。"
+        }
+    ],
+    "word_Count": {
+        "text": 263,
+        "QA": 218
+    }
+}

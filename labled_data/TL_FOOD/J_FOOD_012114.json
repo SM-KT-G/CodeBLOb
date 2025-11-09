@@ -1,0 +1,31 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_012114",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "ハンソン ( 한성 )"
+    },
+    "text": "ハンソン ( 한성 )\\n\n全羅南道 モクポ市 ハダンナムブロ61ボンギル8\\n\nイイダコとサムギョプサルが一緒に食べられる辛い料理です。全羅南道のモクポ市に位置した韓食専門店です。代表的なメニューはイイダコ炒めです。",
+    "QA": [
+        {
+            "question": "ハンソンはどこに位置していますか？",
+            "answer": "ハンソンは全羅南道のモクポ市に位置しています。"
+        },
+        {
+            "question": "ハンソンの代表的なメニューは何ですか？",
+            "answer": "ハンソンの代表的なメニューはイイダコ炒めです。"
+        }
+    ],
+    "word_Count": {
+        "text": 79,
+        "QA": 60
+    }
+}

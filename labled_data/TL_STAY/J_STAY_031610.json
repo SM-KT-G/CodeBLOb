@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_031610",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42010&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "양평 시계꽃펜션"
+    },
+    "text": "ヤンス里は最高のペンションとして知られています。 そして、そのペンションは甘酸っぱいロマンスをプレゼントします。 \"聖なる愛\"という花言葉を持つ時計の花がある場所でもあります。 ここで愛する人と美しい思い出を作ってみてください。 ペンション周辺には山と清浄な渓谷の水が流れる自然環境が広がっています。 宿泊施設は客室ごとに個別施設とデッキで構成されており、広い庭園には様々な休息空間とテーマ形式の庭園がきれいに飾られています。 事前にお知らせいただければ、22時以降も入室が可能です。",
+    "QA": [
+        {
+            "question": "このペンションはどんな特徴がありますか？",
+            "answer": "ヤンス里は最高のペンションとして知られています。"
+        },
+        {
+            "question": "ペンション周辺にはどんな自然環境が広がっていますか？",
+            "answer": "山と清浄な渓谷の水が流れる自然環境が広がっています。"
+        },
+        {
+            "question": "客室はどのように構成されていますか？",
+            "answer": "宿泊施設は客室ごとに個別施設とデッキで構成されています。"
+        },
+        {
+            "question": "庭園には何がありますか？",
+            "answer": "広い庭園には様々な休息空間とテーマ形式の庭園がきれいに飾られています。"
+        },
+        {
+            "question": "遅い時間にチェックインすることは可能ですか？",
+            "answer": "事前にお知らせいただければ、22時以降も入室が可能です。"
+        }
+    ],
+    "word_Count": {
+        "text": 177,
+        "QA": 175
+    }
+}

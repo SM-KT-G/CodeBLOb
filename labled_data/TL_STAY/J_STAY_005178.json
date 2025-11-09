@@ -1,0 +1,51 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_005178",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42010&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "더휴식 아늑호텔 오산 운영 정책"
+    },
+    "text": "ご予約されたお客様にお知らせする重要な案内事項です。 チェックインは21:00から可能で、チェックアウトは12:00までです。 居心地の良いホテルの客室ではOTTサービスであるネットフリックスをご利用いただけます。 また、クリエイターたちの作品が盛り込まれた額縁や居心地の良いホテルが開発したゴイゴイ寝具類やアメニティをご体験いただけます。 客室は禁煙ですし、入室時間と利用案内に従ってご利用ください。 ありがとうございます。",
+    "QA": [
+        {
+            "question": "チェックインは何時から可能ですか？",
+            "answer": "チェックインは21:00から可能です。"
+        },
+        {
+            "question": "チェックアウトは何時までですか？",
+            "answer": "チェックアウトは12:00までです。"
+        },
+        {
+            "question": "客室では何を利用できますか？",
+            "answer": "客室ではOTTサービスであるネットフリックスをご利用いただけます。"
+        },
+        {
+            "question": "どのようなアメニティが提供されていますか？",
+            "answer": "クリエイターたちの作品が盛り込まれた額縁や居心地の良いホテルが開発したゴイゴイ寝具類やアメニティをご体験いただけます。"
+        },
+        {
+            "question": "客室は禁煙ですか？",
+            "answer": "はい、客室は禁煙です。"
+        },
+        {
+            "question": "入室時間と利用案内に従って利用する必要がありますか？",
+            "answer": "はい、入室時間と利用案内に従ってご利用ください。"
+        },
+        {
+            "question": "何時までにチェックアウトする必要がありますか？",
+            "answer": "チェックアウトは12:00までです。"
+        }
+    ],
+    "word_Count": {
+        "text": 156,
+        "QA": 225
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_001701",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2020-12-19",
+        "domain": "숙박",
+        "title": "B Station（비스테이션）"
+    },
+    "text": "B Station（비스테이션）\\n\n大田広域市 儒城区 鶏龍路141番キル 30-12\\n\n研究開発の核心都市・大田広域市に位置しているB Stationは、韓国の先端科学の揺籃である大徳R&D特区に隣接しています。教育や科学分野の専門家のためのビジネスホテルで、実験、セミナー、ワークショップなどのための様々な施設が備えられており、科学関連の各種のイベントを1ヶ所で効率的に進めることができるようにサービスを提供しています。超高速無線インターネットにアクセスでき、客室では儒城の温泉水で疲れを回復することができます。",
+    "QA": [
+        {
+            "question": "B Stationはどこに位置していますか？",
+            "answer": "B Station（ビステーション）は大田広域市儒城区鶏龍路141番キル30-12に位置しています。"
+        },
+        {
+            "question": "B Stationはどのような施設がありますか？",
+            "answer": "B Stationは実験、セミナー、ワークショップなどのための様々な施設を備えたビジネスホテルです。科学関連の各種のイベントを1ヶ所で効率的に進めることができます。"
+        },
+        {
+            "question": "B Stationでは何をすることができますか？",
+            "answer": "B Stationでは超高速無線インターネットにアクセスできます。また、客室では儒城の温泉水で疲れを回復することができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 190,
+        "QA": 193
+    }
+}

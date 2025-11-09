@@ -1,0 +1,51 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_014247",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1135&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=03850000&ccbaCtcd=38&ccbaCpno=3413803850000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2005-10-13",
+        "domain": "문화/역사관광",
+        "title": "양산 통도사 극락암 가경23년명 신중탱"
+    },
+    "text": "梁山通度寺極楽庵嘉慶23年名神衆幀 (양산 통도사 극락암 가경23년명 신중탱 )\\n\n慶尚南道梁山市通度寺路108(下北面、極楽庵)\\n\n慶尚南道文化財資料 , この仏画は通度寺極楽庵の神衆幀で、大字斎川をはじめ計18位の天人が描写されている。 画面の上段中央には三目八飛の大字才川を中心に左右に梵天·帝釈川など3位が円形頭光を備え合掌した姿で配置されている。 大慈斎川と梵天·帝釈川の縁に散蓋を持った童子像1位、当番を持った童女2位が描かれており、その下の画面の縁には一宮·月宮天子が市立している。 そして画面下段の香左側には珠岳天女4位と合掌型の天女像1位を配置し、反対側の香右側には危なっかしい天と剣を握った神将像2位、相楽竜王と合掌人物像を雲で区切って前のグループと区分している。この神衆幀は火器によって嘉慶23年(1818)に製作されたものであることが分かる。 図像の内容が人物の位置が反対になっている点が異なるだけで、慶尚北道銀海寺の奇器庵に奉安された神衆幀(1771年)とほぼ似ており、同一系抄本を使用した可能性が高い。",
+    "QA": [
+        {
+            "question": "寺の名前は何ですか？",
+            "answer": "梁山通度寺極楽庵"
+        },
+        {
+            "question": "この仏画が描かれている場所はどこですか？",
+            "answer": "慶尚南道梁山市通度寺路108番地の下北面、極楽庵です"
+        },
+        {
+            "question": "この仏画は何年に製作されましたか？",
+            "answer": "嘉慶23年(1818)に製作されました"
+        },
+        {
+            "question": "画面の上段に描かれている天人は何人いますか？",
+            "answer": "計18位の天人が描かれています"
+        },
+        {
+            "question": "画面の上段中央にはどのような天人が配置されていますか？",
+            "answer": "三目八飛の大字才川を中心に左右に梵天·帝釈川など3位が円形頭光を備え合掌した姿で配置されています"
+        },
+        {
+            "question": "画面下段の香左側には何人の天女像が配置されていますか？",
+            "answer": "珠岳天女4位と合掌型の天女像1位が配置されています"
+        },
+        {
+            "question": "画面下段の香右側にはどのような神将像が配置されていますか？",
+            "answer": "危なっかしい天と剣を握った神将像2位が配置されています"
+        }
+    ],
+    "word_Count": {
+        "text": 343,
+        "QA": 234
+    }
+}

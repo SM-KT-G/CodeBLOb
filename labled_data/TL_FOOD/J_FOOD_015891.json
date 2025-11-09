@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_015891",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "江南グイナラ ( 강남구이나라 )"
+    },
+    "text": "江南グイナラ ( 강남구이나라 )\n慶尚北道 安東市 中坪キル 107-7\n直火焼きにより美味しくて食感の良い店です。慶尚北道のアンドン市に位置した韓食専門店です。代表的なメニューは味付けヌタウナギ焼きです。",
+    "QA": [
+        {
+            "question": "江南グイナラはどこにありますか？",
+            "answer": "江南グイナラは慶尚北道安東市中坪キル107-7に位置しています。"
+        },
+        {
+            "question": "江南グイナラの特徴的な料理は何ですか？",
+            "answer": "江南グイナラの代表的なメニューは味付けヌタウナギ焼きです。"
+        },
+        {
+            "question": "江南グイナラの料理はどのような味ですか？",
+            "answer": "江南グイナラの料理は直火焼きにより美味しくて食感の良い味わいです。"
+        },
+        {
+            "question": "江南グイナラはどのような店ですか？",
+            "answer": "江南グイナラは慶尚北道のアンドン市に位置した韓食専門店です。"
+        }
+    ],
+    "word_Count": {
+        "text": 76,
+        "QA": 143
+    }
+}

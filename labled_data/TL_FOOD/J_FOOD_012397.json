@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_012397",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101933",
+        "collectedDate": "2023-10-06",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "비빔냉면"
+    },
+    "text": "ビビン冷麺\\n\n冷麺(文化語:冷麵)は韓国固有の冷やし麺料理の一つで、茹でた麺を冷たい出汁に入れ、薬味と薬味をのせた料理である。 朝鮮民主主義人民共和国の国民食の一つとされ、大韓民国でも好んで食べる。\n",
+    "QA": [
+        {
+            "question": "ビビン冷麺はどのように作られますか？",
+            "answer": "ビビン冷麺は茹でた麺を冷たい出汁に入れ、薬味と薬味をのせて作られます。"
+        },
+        {
+            "question": "ビビン冷麺はどの国の料理ですか？",
+            "answer": "ビビン冷麺は韓国の料理です。"
+        },
+        {
+            "question": "ビビン冷麺は朝鮮民主主義人民共和国でも食べられますか？",
+            "answer": "はい、ビビン冷麺は朝鮮民主主義人民共和国でも国民食の一つとされ、食べられます。"
+        },
+        {
+            "question": "ビビン冷麺は大韓民国でも人気がありますか？",
+            "answer": "はい、ビビン冷麺は大韓民国でも好んで食べられる人気のある料理です。"
+        }
+    ],
+    "word_Count": {
+        "text": 74,
+        "QA": 148
+    }
+}

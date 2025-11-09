@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_037662",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=856&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=01270000&ccbaCtcd=34&ccbaCpno=2333401270000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1997-12-23",
+        "domain": "문화/역사관광",
+        "title": "임천향교"
+    },
+    "text": "林川郷校 (임천향교)\\n\n忠清南道扶余郡臨川面聖興路75番キル6-7(グンサリ)\\n\n忠清南道記念物、郷校は孔子と多くの聖賢に祭祀を行い、地方民の教育と教化のために国で建てた教育機関だ。 臨川郷校はいつ建てられたのかは定かではないが、朝鮮前期に建てられたものと見られる。 本来は九橋里にあったものを粛宗14年(1688)に現在の場所に移した。 その後、何度も建て直し、今日に至る。 今残っている建物としては大成殿、明倫堂、東斎、書斎などだ。 大成殿の中には孔子をはじめ、彼の弟子たちと韓国の聖賢の位牌が祀られている。 朝鮮時代には国から土地と奴婢·本などを支援され学生たちを教えたが、今は教育機能はなくなり祭祀機能だけが残っている。",
+    "QA": [
+        {
+            "question": "この林川郷校はいつ建てられましたか？",
+            "answer": "林川郷校は朝鮮前期に建てられたものと見られますが、具体的な建設年は分かっていません。"
+        },
+        {
+            "question": "林川郷校にはどのような建物がありますか？",
+            "answer": "林川郷校には大成殿、明倫堂、東斎、書斎などの建物があります。"
+        },
+        {
+            "question": "大成殿の中には何が祀られていますか？",
+            "answer": "大成殿の中には孔子をはじめとする彼の弟子たちと韓国の聖賢の位牌が祀られています。"
+        },
+        {
+            "question": "林川郷校は現在も教育機能が残っていますか？",
+            "answer": "いいえ、林川郷校は現在は教育機能はなく、祭祀機能のみが残っています。"
+        }
+    ],
+    "word_Count": {
+        "text": 232,
+        "QA": 163
+    }
+}

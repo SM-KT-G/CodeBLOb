@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_097476",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/view?relicId=175923",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2023-10-11",
+        "domain": "문화/역사관광",
+        "title": "일본 근대 군사관련자료"
+    },
+    "text": "日本近代軍事関連資料 (일본 근대 군사관련자료)\\n\n以下のように整えることができます。 「軍事訓練」という格納箱には、日本近代軍事関連の資料が収められています。ただし、乳剤の一部が損傷しているため、注意が必要です。 この資料の国籍と時代は、「韓国-日本による植民地支配」時代のものです。資料の材質は、ガラスと宝石で構成されています。具体的には、ガラスでできたフィルムが使われています。 このフィルムの大きさは、横164cm、縦120cmです。",
+    "QA": [
+        {
+            "question": "この資料の国籍は何ですか？",
+            "answer": "韓国"
+        },
+        {
+            "question": "この資料の時代は何時代ですか？",
+            "answer": "日本による植民地支配"
+        },
+        {
+            "question": "この資料の材質は何で構成されていますか？",
+            "answer": "ガラスと宝石"
+        },
+        {
+            "question": "フィルムの大きさは何ですか？",
+            "answer": "横164cm、縦120cm"
+        },
+        {
+            "question": "この資料には何が収められていますか？",
+            "answer": "日本近代軍事関連の資料"
+        },
+        {
+            "question": "乳剤の一部が損傷しているため、何が必要ですか？",
+            "answer": "注意が必要です"
+        }
+    ],
+    "word_Count": {
+        "text": 163,
+        "QA": 111
+    }
+}

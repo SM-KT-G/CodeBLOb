@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_027770",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=315&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=16&ccbaAsno=04620000&ccbaCtcd=26&ccbaCpno=1362604620000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2005-08-19",
+        "domain": "자연관광",
+        "title": "가지산 철쭉나무 군락"
+    },
+    "text": "蔚山広域市蔚州郡、慶尚南道密陽市、慶尚北道清道郡に位置したカジサンツツジの木の群落地は天然記念物に認定されている。このところは約40株余りの老巨樹と219,000株余りのツツジの木で行われており、学術的及び景観的価値が高い。ツツジの木は韓国人に親しまれた花で、落葉広葉低木で、全国の山で氾濫する。カジサンには多様な植物が豊富に分布しており、カマク啄木、イヌワシ、アカハラダカ、ワシミミズク、オシドリ、ムササビ、カワウソなど多様な動物たちが繁殖したり、生息している。カジサンはヨンナムパルサンの中で最も高い山であり、白頭大幹の洛東正脈から発源した。",
+    "QA": [
+        {
+            "question": "このカジサンツツジの木の群落地はどこに位置していますか？",
+            "answer": "蔚山広域市蔚州郡、慶尚南道密陽市、慶尚北道清道郡に位置しています。"
+        },
+        {
+            "question": "カジサンツツジの木の群落地には何株の老巨樹と何株のツツジの木がありますか？",
+            "answer": "約40株余りの老巨樹と219,000株余りのツツジの木があります。"
+        },
+        {
+            "question": "カジサンツツジの木はどのような特徴がありますか？",
+            "answer": "カジサンツツジの木は落葉広葉低木で、全国の山で氾濫している花であり、韓国人に親しまれています。"
+        },
+        {
+            "question": "カジサンにはどのような植物が豊富に分布していますか？",
+            "answer": "カジサンには多様な植物が豊富に分布しており、カマク啄木、イヌワシ、アカハラダカ、ワシミミズク、オシドリ、ムササビ、カワウソなどが生息しています。"
+        },
+        {
+            "question": "カジサンはどの山脈から発源した山ですか？",
+            "answer": "カジサンは白頭大幹の洛東正脈から発源した山で、ヨンナムパルサンの中で最も高い山です。"
+        }
+    ],
+    "word_Count": {
+        "text": 200,
+        "QA": 265
+    }
+}

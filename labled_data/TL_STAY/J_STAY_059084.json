@@ -1,0 +1,59 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_059084",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.booking.com/hotel/kr/cheongpung-resort.ko.html",
+        "collectedDate": "2023-11-17",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "청풍리조트"
+    },
+    "text": "清風リゾートではレストラン、無料専用駐車場、バーなどをご利用いただけます。 Jecheon City Hallから20kmの距離にあるこの4つ星リゾートは無料Wi-Fiが完備されています。 Jecheon City Libraryと堤川義兵広場はリゾートから21kmの距離に位置しています。 また、Jecheon City Parkとヒルデスハイムゴルフ場も21kmの距離にあり、最寄り空港は68kmの距離にある原州空港です。 利便性のためサウナ、ゲームセンター、プールも提供され、ファミリールーム、ツインルーム、ダブルルームなど様々な宿泊オプションもございます。 チェックインは15:00から始まり、チェックアウトは11:00までです。",
+    "QA": [
+        {
+            "question": "レストランはありますか？",
+            "answer": "はい、清風リゾートにはレストランがあります。"
+        },
+        {
+            "question": "駐車場はありますか？",
+            "answer": "はい、清風リゾートには無料専用駐車場があります。"
+        },
+        {
+            "question": "Wi-Fiは利用できますか？",
+            "answer": "はい、清風リゾートでは無料Wi-Fiが利用できます。"
+        },
+        {
+            "question": "Jecheon City Hallからの距離はどれくらいですか？",
+            "answer": "Jecheon City Hallから清風リゾートまでは約20kmです。"
+        },
+        {
+            "question": "近くにどんな観光スポットがありますか？",
+            "answer": "近くにはJecheon City Libraryや堤川義兵広場があります。"
+        },
+        {
+            "question": "最寄りの空港はどこですか？",
+            "answer": "最寄りの空港は原州空港で、約68km離れています。"
+        },
+        {
+            "question": "サウナやプールはありますか？",
+            "answer": "はい、清風リゾートにはサウナとプールがあります。"
+        },
+        {
+            "question": "どのような宿泊オプションがありますか？",
+            "answer": "清風リゾートではファミリールーム、ツインルーム、ダブルルームなど様々な宿泊オプションがあります。"
+        },
+        {
+            "question": "チェックインとチェックアウトの時間は何時ですか？",
+            "answer": "チェックインは15:00から始まり、チェックアウトは11:00までです。"
+        }
+    ],
+    "word_Count": {
+        "text": 233,
+        "QA": 319
+    }
+}

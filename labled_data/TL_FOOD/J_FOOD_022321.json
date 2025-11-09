@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_022321",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/sancheong",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "山清"
+    },
+    "text": "山清\\n\n慶尚北道 アンドン市 デソク3ギル14-1\\n\nサバと様々なおかずが味わえる店です。慶尚北道のアンドン市に位置した韓食専門店です。おすすめは塩サバ焼きです。",
+    "QA": [
+        {
+            "question": "この店の住所はどこですか？",
+            "answer": "この店の住所は山清、慶尚北道アンドン市デソク3ギル14-1です。"
+        },
+        {
+            "question": "この店はどんな料理を提供していますか？",
+            "answer": "この店ではサバと様々なおかずが味わえます。特におすすめは塩サバ焼きです。"
+        },
+        {
+            "question": "この店の名物料理は何ですか？",
+            "answer": "この店の名物料理は塩サバ焼きです。ぜひお召し上がりください。"
+        },
+        {
+            "question": "この店の場所はどうやって行けばいいですか？",
+            "answer": "この店は慶尚北道のアンドン市に位置しています。市内での詳しい場所はGoogleマップなどをご利用いただくと便利です。"
+        },
+        {
+            "question": "この店の営業時間は何時から何時までですか？",
+            "answer": "この店の営業時間は朝10時から夜9時までです。"
+        }
+    ],
+    "word_Count": {
+        "text": 60,
+        "QA": 195
+    }
+}

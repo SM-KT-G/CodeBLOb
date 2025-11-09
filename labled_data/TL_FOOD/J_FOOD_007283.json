@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_007283",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-05",
+        "domain": "음식점",
+        "title": "サラインネ刺身専門店 ( 살아있네회집 )"
+    },
+    "text": "サラインネ刺身専門店 ( 살아있네회집 )\\n\n慶尚北道 アンドン市 ソンハ2ギル49-16\\n\nさまざまな種類の新鮮な活魚の刺身が味わえる店です。慶尚北道のアンドン市に位置した韓食専門店です。代表的なメニューは刺身の盛り合わせです。",
+    "QA": [
+        {
+            "question": "この店の特徴は何ですか？",
+            "answer": "サラインネ刺身専門店は、さまざまな種類の新鮮な活魚の刺身が味わえる店です。"
+        },
+        {
+            "question": "この店はどこにありますか？",
+            "answer": "この店は慶尚北道のアンドン市に位置しています。具体的な住所はソンハ2ギル49-16です。"
+        },
+        {
+            "question": "この店の代表的なメニューは何ですか？",
+            "answer": "この店の代表的なメニューは刺身の盛り合わせです。"
+        },
+        {
+            "question": "この店の名前は何ですか？",
+            "answer": "この店の名前は「サラインネ刺身専門店」と言います。"
+        },
+        {
+            "question": "この店の特徴的な料理は何ですか？",
+            "answer": "この店の特徴的な料理は新鮮な活魚の刺身です。"
+        }
+    ],
+    "word_Count": {
+        "text": 85,
+        "QA": 163
+    }
+}

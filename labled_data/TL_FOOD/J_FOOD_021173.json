@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_021173",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2020-10-22",
+        "domain": "음식점",
+        "title": "百済サムゲタン（백제삼계탕）"
+    },
+    "text": "百済サムゲタン（백제삼계탕）\\n\nソウル特別市 中区 明洞8キル 8-10\\n\nソウル特別市のミョン洞に位置した韓国料理店です。代表的なメニューはサムゲタンです。韓国式の澄んだスープと鶏を一緒に煮込んでいただくペクスク(水炊き)をお出しするお店です。",
+    "QA": [
+        {
+            "question": "このレストランの場所はどこですか？",
+            "answer": "このレストランはソウル特別市中区明洞8キル8-10に位置しています。"
+        },
+        {
+            "question": "このレストランの代表的なメニューは何ですか？",
+            "answer": "このレストランの代表的なメニューはサムゲタンです。"
+        },
+        {
+            "question": "サムゲタンとはどのような料理ですか？",
+            "answer": "サムゲタンは韓国式の澄んだスープと鶏を一緒に煮込んでいただく料理です。"
+        },
+        {
+            "question": "このレストランはどのような雰囲気ですか？",
+            "answer": "このレストランは韓国料理店で、落ち着いた雰囲気です。"
+        }
+    ],
+    "word_Count": {
+        "text": 91,
+        "QA": 144
+    }
+}

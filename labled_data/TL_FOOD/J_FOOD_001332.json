@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001332",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "59年往十里煉炭コプチャン焼き ( 59년왕십리연탄곱창구이 )"
+    },
+    "text": "59年往十里煉炭コプチャン焼き ( 59년왕십리연탄곱창구이 )\\n\n全羅南道 モクポ市 ベクニョンデロ323ボンギル7\\n\n豚の様々な部位を焼いて食べる料理です。代表的なメニューはマクチャンです。全羅南道のモクポ市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "この店の名前は何ですか？",
+            "answer": "この店の名前は59年往十里煉炭コプチャン焼きです。"
+        },
+        {
+            "question": "この料理の特徴は何ですか？",
+            "answer": "この料理は豚の様々な部位を焼いて食べることが特徴です。特に代表的なメニューはマクチャンです。"
+        },
+        {
+            "question": "この店はどこにありますか？",
+            "answer": "この店は全羅南道モクポ市ベクニョンデロ323ボンギル7に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 88,
+        "QA": 106
+    }
+}

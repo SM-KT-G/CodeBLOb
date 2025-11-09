@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_021370",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2020-12-24",
+        "domain": "음식점",
+        "title": "本粥 コエックスモール( 본죽 코엑스몰 )"
+    },
+    "text": "本粥 コエックスモール( 본죽 코엑스몰 )\\n\nソウル特別市 江南区 ポンウンサロ524\\n\n様々な種類のお粥が味わえます。ソウル特別市のガンナム区に位置した韓食専門店です。代表的なメニューはアワビ粥です。",
+    "QA": [
+        {
+            "question": "本粥 コエックスモールはどこにありますか？",
+            "answer": "本粥 コエックスモールはソウル特別市江南区ポンウンサロ524に位置しています。"
+        },
+        {
+            "question": "本粥 コエックスモールではどんな種類のお粥が味わえますか？",
+            "answer": "本粥 コエックスモールでは様々な種類のお粥が味わえます。代表的なメニューはアワビ粥です。"
+        },
+        {
+            "question": "本粥 コエックスモールはどの区に位置していますか？",
+            "answer": "本粥 コエックスモールはソウル特別市のガンナム区に位置しています。"
+        },
+        {
+            "question": "本粥 コエックスモールの代表的なメニューは何ですか？",
+            "answer": "本粥 コエックスモールの代表的なメニューはアワビ粥です。"
+        }
+    ],
+    "word_Count": {
+        "text": 76,
+        "QA": 179
+    }
+}

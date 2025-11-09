@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_015944",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-01",
+        "domain": "음식점",
+        "title": "江陵鏡浦刺身入り冷やしスープ ( 강릉경포물회 )"
+    },
+    "text": "江陵鏡浦刺身入り冷やしスープ \n江原道 江陵市 海岸路 609\n海辺にあり、海水浴の後に訪れるのに最適なところです。江原道カンヌン市に位置した海鮮専門店です。おすすめは刺身入り冷やしスープです。",
+    "QA": [
+        {
+            "question": "この海鮮専門店はどこにありますか？",
+            "answer": "海岸路609に位置しています。"
+        },
+        {
+            "question": "この海鮮専門店のおすすめ料理は何ですか？",
+            "answer": "おすすめは刺身入り冷やしスープです。"
+        },
+        {
+            "question": "この海鮮専門店はどんな雰囲気ですか？",
+            "answer": "海辺に位置しており、海水浴の後に訪れるのに最適なところです。"
+        }
+    ],
+    "word_Count": {
+        "text": 71,
+        "QA": 86
+    }
+}

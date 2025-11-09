@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_032202",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=830&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=00810000&ccbaCtcd=33&ccbaCpno=2333300810000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1988-09-30",
+        "domain": "문화/역사관광",
+        "title": "충주 문주리 요지"
+    },
+    "text": "忠州文周里窯址 (충주 문주리 요지)\\n\n忠清北道忠州市大所院面文珠里50-1\\n\n忠清北道記念物、要旨は磁器や瓦、器を作って焼いた窯跡をいう。 文珠里窯は朝鮮時代の瓦窯で、南北12m、幅1.8mの小さな掘窯だ。 1582年に設立された八峰書院に所属した瓦窯として書院の建設と古かったり壊れたところを直すためにできたものと見られる。 ここでは朝鮮時代に最もよく現れる波模様が撮られ、厚さが比較的厚い瓦が出土した。 これは水火思想に由来したもので、木で作られた建物は火に弱いので、波模様をつけて火気を水気で押さえるという考えからだったものと見られる。",
+    "QA": [
+        {
+            "question": "忠州文周里窯址はどこにありますか？",
+            "answer": "忠州文周里窯址は忠清北道忠州市大所院面文珠里50-1にあります。"
+        },
+        {
+            "question": "忠州文周里窯址は何を作るための窯跡ですか？",
+            "answer": "忠州文周里窯址は磁器や瓦、器を作るための窯跡です。"
+        },
+        {
+            "question": "忠州文周里窯址は何時代の窯跡ですか？",
+            "answer": "忠州文周里窯址は朝鮮時代の窯跡です。"
+        },
+        {
+            "question": "忠州文周里窯址はどのような窯ですか？",
+            "answer": "忠州文周里窯址は南北12m、幅1.8mの小さな掘窯です。"
+        },
+        {
+            "question": "忠州文周里窯址はどのような模様の瓦が出土したのですか？",
+            "answer": "忠州文周里窯址では朝鮮時代によく現れる波模様の瓦が出土しました。"
+        },
+        {
+            "question": "なぜ波模様の瓦が作られたのですか？",
+            "answer": "波模様の瓦は、建物を火災から守るため、火気を水気で抑えるという考えから作られました。"
+        }
+    ],
+    "word_Count": {
+        "text": 201,
+        "QA": 216
+    }
+}

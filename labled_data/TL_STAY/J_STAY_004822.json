@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_004822",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42030&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "포항 가가펜션"
+    },
+    "text": "こんにちは。月浦海水浴場に位置するヒーリングスポットガガペンションです。 ペンションの前の広いビーチで海水浴やバーベキューが楽しめます。 大切な人たちと美しい思い出を作って行ってください。 ガガペンションはいつも最善を尽くします。 快適で楽しい旅行のために努力します。 22時以降に入室する場合は事前にご連絡お願いします。",
+    "QA": [
+        {
+            "question": "ガガペンションはどこに位置していますか？",
+            "answer": "ガガペンションは月浦海水浴場に位置しています。"
+        },
+        {
+            "question": "ガガペンションの周辺にはどんなアクティビティがありますか？",
+            "answer": "ガガペンションの前に広いビーチがあり、海水浴やバーベキューが楽しめます。"
+        },
+        {
+            "question": "ガガペンションは何時までチェックイン可能ですか？",
+            "answer": "22時以降に入室する場合は事前にご連絡お願いします。"
+        },
+        {
+            "question": "ガガペンションでは何が提供されていますか？",
+            "answer": "ガガペンションでは快適で楽しい旅行のために努力します。"
+        }
+    ],
+    "word_Count": {
+        "text": 118,
+        "QA": 151
+    }
+}

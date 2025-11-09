@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_001034",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42090&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "제주 버지니아 호텔"
+    },
+    "text": "2017年2月に西帰浦の毎日オルレ市場内に新しくオープンした、済州バージニアホテルは、リラックスできる休息とお客様の健康と便利さのために環境にやさしい資材を使用し、最新施設を備えています。 ここでは、まるで家に帰ったようなリラックスした雰囲気を感じることができ、お客様の旅行をより価値のあるものにしてくれます。 また、思い出の瞬間と一緒に過ごせる空間になるよう、皆様のためのサービスを提供しています。",
+    "QA": [
+        {
+            "question": "バージニアホテルはどこにありますか？",
+            "answer": "バージニアホテルは西帰浦の毎日オルレ市場内にあります。"
+        },
+        {
+            "question": "バージニアホテルではどのようなサービスが提供されていますか？",
+            "answer": "バージニアホテルではリラックスした雰囲気を感じることができ、お客様の健康と便利さのために環境にやさしい資材を使用し、最新施設を備えています。また、思い出の瞬間と一緒に過ごせる空間を提供しています。"
+        },
+        {
+            "question": "バージニアホテルの特徴は何ですか？",
+            "answer": "バージニアホテルの特徴は、まるで家に帰ったようなリラックスした雰囲気を提供してくれることです。"
+        }
+    ],
+    "word_Count": {
+        "text": 146,
+        "QA": 173
+    }
+}

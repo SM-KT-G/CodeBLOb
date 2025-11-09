@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_021879",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-08-27",
+        "domain": "음식점",
+        "title": "釜山食堂（부산식당）"
+    },
+    "text": "釜山食堂（부산식당）\\n\nソウル特別市 鐘路区 仁寺洞11キル12\\n\n1976年から営業している「釜山食堂（プサンシクタン）」は、すっきりした味わいのスープとふっくら炊きたてご飯がおいしい食堂です。",
+    "QA": [
+        {
+            "question": "この釜山食堂はどこにありますか？",
+            "answer": "釜山食堂（プサンシクタン）はソウル特別市鐘路区仁寺洞11キル12にあります。"
+        },
+        {
+            "question": "釜山食堂はいつから営業していますか？",
+            "answer": "釜山食堂は1976年から営業しています。"
+        },
+        {
+            "question": "釜山食堂の特徴的な料理は何ですか？",
+            "answer": "釜山食堂の特徴的な料理は、すっきりした味わいのスープとふっくら炊きたてご飯です。"
+        },
+        {
+            "question": "この食堂の雰囲気はどんな感じですか？",
+            "answer": "釜山食堂はアットホームな雰囲気で、地元の人々に愛されています。"
+        },
+        {
+            "question": "釜山食堂へのアクセス方法はありますか？",
+            "answer": "釜山食堂へのアクセス方法は、鐘路区に位置しているため、地下鉄やバスなどの公共交通機関を利用することができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 73,
+        "QA": 199
+    }
+}

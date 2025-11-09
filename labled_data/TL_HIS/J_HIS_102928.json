@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_102928",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/view?relicId=107059",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2023-10-11",
+        "domain": "문화/역사관광",
+        "title": "죽제필통"
+    },
+    "text": "竹製筆箱 (죽제필통)\\n\n無号621-13は、竹製の筆箱です。この品物は当時の朝鮮総督府博物館が所蔵していましたが、現在は国立中央博物館が所蔵しています。国籍と時代は韓国であり、それは日本による植民地支配の時代です。材質としては、ガラスと宝石が使われており、大きさは横120cm、縦164cmです。これはメディアや記録物の一種であり、具体的にはフィルムとして分類されます。",
+    "QA": [
+        {
+            "question": "この竹製筆箱の大きさは何ですか？",
+            "answer": "横120cm、縦164cmです。"
+        },
+        {
+            "question": "竹製筆箱の材質として何が使われていますか？",
+            "answer": "ガラスと宝石が使われています。"
+        },
+        {
+            "question": "竹製筆箱の所蔵先はどこですか？",
+            "answer": "国立中央博物館が所蔵しています。"
+        },
+        {
+            "question": "竹製筆箱の国籍と時代は何ですか？",
+            "answer": "韓国であり、日本による植民地支配の時代です。"
+        },
+        {
+            "question": "竹製筆箱は何のメディアや記録物ですか？",
+            "answer": "フィルムとして分類されます。"
+        }
+    ],
+    "word_Count": {
+        "text": 137,
+        "QA": 124
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_001491",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42040&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "완도 호텔 케이(HOTEL K)"
+    },
+    "text": "21年5月末新築、莞島最高の施設ホテルKでは客室の入室基準を確認しています。 追加人数によって発生する料金は、現場で決済する必要があります。 オンシーズンおよび特定日、祝日(前日含む)には料金が変動する場合がありますので、ご注意ください。 入室の際は身分証明書を確認し、未成年者は入室が制限されます。 そのため、未成年者の場合も身分証明書を必ず持参してください。",
+    "QA": [
+        {
+            "question": "入室基準にはどのような条件がありますか？",
+            "answer": "入室基準は、追加人数による料金の決済と身分証明書の確認です。"
+        },
+        {
+            "question": "料金はどのように算出されますか？",
+            "answer": "料金は現場で決済する必要があり、追加人数によって発生する料金が変動する場合があります。オンシーズンや特定日、祝日には料金が変動することもありますので、ご注意ください。"
+        },
+        {
+            "question": "身分証明書はなぜ必要ですか？",
+            "answer": "身分証明書の確認は、未成年者の入室制限をするためです。未成年者の場合も身分証明書を持参していただく必要があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 132,
+        "QA": 161
+    }
+}

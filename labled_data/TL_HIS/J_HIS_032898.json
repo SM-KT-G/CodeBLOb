@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_032898",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=845&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=01060000&ccbaCtcd=38&ccbaCpno=2333801060000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1991-12-23",
+        "domain": "문화/역사관광",
+        "title": "통영성지"
+    },
+    "text": "統営聖地 (통영성지)\\n\n慶尚南道統営市北新洞655番地\\n\n4年(1678年)、慶尚南道記念物、統営城は倭敵を防御し居住地と生業地を分ける2つの目的で築いた城で、朝鮮粛宗4年(1678)に築かれ始めた。平地と山地の地形を折衷して建てた城郭で、海抜174.2mの女皇山両側の登城約1,000mは土で積み上げられ、残りは石で積み上げた。 城の周りは2800m、高さ4.5mだ。 城の構造は4大門と2つの暗門(敵または相手が分からないように飾った小さな城門)と3つの砲楼があるが、今は人家が入って城門の礎石だけがいくつか残っている。",
+    "QA": [
+        {
+            "question": "統営聖地はいつ築かれましたか？",
+            "answer": "統営聖地は朝鮮粛宗4年(1678年)に築かれ始めました。"
+        },
+        {
+            "question": "統営聖地はどのような目的で築かれましたか？",
+            "answer": "統営聖地は倭敵を防御し居住地と生業地を分ける2つの目的で築かれました。"
+        },
+        {
+            "question": "統営聖地の城郭の形状はどのようなものですか？",
+            "answer": "統営聖地の城郭は平地と山地の地形を折衷して建てられており、海抜174.2mの女皇山両側の登城約1,000mは土で積み上げられ、残りは石で積み上げられました。"
+        },
+        {
+            "question": "統営聖地の城の周りの長さは何mですか？",
+            "answer": "統営聖地の城の周りの長さは2800mです。"
+        },
+        {
+            "question": "統営聖地の城門の特徴は何ですか？",
+            "answer": "統営聖地には4つの大門と2つの暗門があり、また3つの砲楼もありますが、今は人家が入っているため、城門の礎石が残っているのみです。"
+        }
+    ],
+    "word_Count": {
+        "text": 194,
+        "QA": 233
+    }
+}

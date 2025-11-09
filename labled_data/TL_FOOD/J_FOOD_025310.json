@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_025310",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-05",
+        "domain": "음식점",
+        "title": "有楽刺身専門店 ( 유락횟집 )"
+    },
+    "text": "有楽刺身専門店 ( 유락횟집 )\\n\n全羅南道 海南郡 海南邑 ナムブ循環道路25\\n\n洗練されたインテリアで伝統的な日本料理専門店です。全羅南道のヘナム郡に位置した韓食専門店です。おすすめはマグロの刺身です。",
+    "QA": [
+        {
+            "question": "この楽刺身専門店の場所はどこですか？",
+            "answer": "この楽刺身専門店は全羅南道海南郡海南邑ナムブ循環道路25に位置しています。"
+        },
+        {
+            "question": "この楽刺身専門店の特徴は何ですか？",
+            "answer": "この楽刺身専門店は洗練されたインテリアが特徴で、伝統的な日本料理に特化しています。"
+        },
+        {
+            "question": "この楽刺身専門店のおすすめ料理は何ですか？",
+            "answer": "この楽刺身専門店のおすすめ料理はマグロの刺身です。"
+        }
+    ],
+    "word_Count": {
+        "text": 77,
+        "QA": 116
+    }
+}

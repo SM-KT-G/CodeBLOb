@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_035304",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=256&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=13&ccbaAsno=03620000&ccbaCtcd=11&ccbaCpno=1331103620000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1991-10-25",
+        "domain": "자연관광",
+        "title": "서울 연산군묘"
+    },
+    "text": "1506年、朝鮮10代燕山君と居昌郡夫人、申容疑者の墓だ。燕山君は9代成宗と廃妃尹氏の息子に生まれ、1494年王位に就いた。この墓は、燕山君が王位に上がると、王妃になったが、中宗反正により王妃で廃位された。燕山君は即位して初めには成宗の平和を続けた。彼は贅沢風潮を静めるために、具体的な禁止条項を作って取り締まる、宗廟に位牌が祀られている制度を新たに整備し、ビユン死を設置して鉄のよろいと武器を生産するなど、国防政策にも力を尽くした。しかし、戊午士禍と甲子士禍で多くの人を殺すようになり、以後、国政に関心を持たないことをして贅沢と享楽に調整がくらくらしてきた。結局、1506年、中宗反正により廃位されて江華島に島流しにされ、この世を去った。居昌郡夫人慎氏は、燕山君墓の左に埋もれており、燕山君の墓は配流地に造成されたが、1512年に現在の席に移された。墓の常設は王子の墓制の形で配置されており、墓の前には太宗の後宮議政グンジュ、趙氏の墓と燕山君の娘フィスン姫と婿構文の墓地がある。",
+    "QA": [
+        {
+            "question": "この墓について、誰が埋葬されていますか？",
+            "answer": "燕山君と居昌郡夫人、申容疑者が埋葬されています。"
+        },
+        {
+            "question": "燕山君は何年に王位に就きましたか？",
+            "answer": "燕山君は1494年に王位に就きました。"
+        },
+        {
+            "question": "燕山君はなぜ廃位されたのですか？",
+            "answer": "中宗反正により燕山君は廃位され、江華島に島流しにされました。"
+        },
+        {
+            "question": "墓の前にある墓地には誰の墓がありますか？",
+            "answer": "墓の前には太宗の後宮議政グンジュ、趙氏の墓と燕山君の娘フィスン姫と婿構文の墓地があります。"
+        },
+        {
+            "question": "燕山君が即位して初めに行った政策は何でしたか？",
+            "answer": "燕山君は贅沢風潮を静めるために禁止条項を作り、宗廟に位牌が祀られている制度を整備しました。また、国防政策にも力を尽くし、ビユン死を設置して鉄のよろいと武器を生産しました。"
+        }
+    ],
+    "word_Count": {
+        "text": 322,
+        "QA": 219
+    }
+}

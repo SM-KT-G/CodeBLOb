@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_006662",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=718&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=22&ccbaAsno=00120000&ccbaCtcd=23&ccbaCpno=2222300120000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "강화 용두레질소리"
+    },
+    "text": "江華ヨンドゥレジル歌 (강화 용두레질소리)\\n\n仁川広域市無形文化財 , 江華ヨンドゥレジル歌は内陸地方と比べて一部が黄海道(ヨンベク地方)農謡の影響を受けた。 つるの音は、魚が狭い場合は独唱につながり、広い場合は2つ以上の絨毯を設置してやりとりしながら歌う。 また、田植えの音も狭い田んぼの場合は独唱で口ずさむが、広い田んぼではナマズをしながら歌う。",
+    "QA": [
+        {
+            "question": "江華ヨンドゥレジル歌はどのような音楽ですか？",
+            "answer": "江華ヨンドゥレジル歌は黄海道(ヨンベク地方)農謡の影響を受けた歌で、独唱や絨毯を使いながら歌われます。"
+        },
+        {
+            "question": "江華ヨンドゥレジル歌では、つるの音はどのように使われますか？",
+            "answer": "つるの音は、魚が狭い場合は独唱につながり、広い場合は2つ以上の絨毯を設置してやりとりしながら歌われます。"
+        },
+        {
+            "question": "田植えの音は江華ヨンドゥレジル歌でどのように使われますか？",
+            "answer": "田植えの音は、狭い田んぼの場合は独唱で口ずさまれますが、広い田んぼではナマズをしながら歌われます。"
+        }
+    ],
+    "word_Count": {
+        "text": 129,
+        "QA": 170
+    }
+}

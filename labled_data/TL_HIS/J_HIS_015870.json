@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_015870",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1207&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=79&ccbaAsno=01990000&ccbaCtcd=38&ccbaCpno=4413801990000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2005-09-14",
+        "domain": "문화/역사관광",
+        "title": "마산 봉암수원지"
+    },
+    "text": "馬山鳳岩水源地 (마산 봉암수원지)\\n\n慶尚南道昌原市馬山会原区鳳岩洞山1-12番地外5筆地\\n\n日帝強占期 , 国家登録文化財 , 1930年建設が水源地は日帝強占期当時、馬山に居住していた日本人と日帝賦役者に水を供給するために建設された。 石材を長方形にまっすぐ加工して石と石の間にモルタルを埋めてダムを積み上げ、石材を傾斜して積み上げ、上部2/3程度の地点で垂直に積み上げ構造的に安定した感じを与える。 この地域の大多数の市民が井戸水を汲んで飲んだ状況で建設された水源地であり、当時のダム築造技術をよく示している。",
+    "QA": [
+        {
+            "question": "馬山鳳岩水源地はいつ建設されましたか？",
+            "answer": "馬山鳳岩水源地は1930年に建設されました。"
+        },
+        {
+            "question": "馬山鳳岩水源地はどのように建設されましたか？",
+            "answer": "馬山鳳岩水源地は石材を長方形にまっすぐ加工して石と石の間にモルタルを埋めてダムを積み上げ、石材を傾斜して積み上げ、上部2/3程度の地点で垂直に積み上げ構造的に安定した感じを与える方法で建設されました。"
+        },
+        {
+            "question": "馬山鳳岩水源地は誰に水を供給するために建設されましたか？",
+            "answer": "馬山鳳岩水源地は当時馬山に居住していた日本人と日帝賦役者に水を供給するために建設されました。"
+        },
+        {
+            "question": "馬山鳳岩水源地はどのような役割を果たしていましたか？",
+            "answer": "馬山鳳岩水源地はこの地域の大多数の市民が井戸水を汲んで飲んでいた状況で建設された水源地であり、当時のダム築造技術をよく示している役割を果たしていました。"
+        }
+    ],
+    "word_Count": {
+        "text": 191,
+        "QA": 248
+    }
+}

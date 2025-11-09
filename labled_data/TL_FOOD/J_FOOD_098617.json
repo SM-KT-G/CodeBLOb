@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_098617",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-05",
+        "domain": "음식점",
+        "title": "草堂キルナンマンケジャン ( 초당길낭만게장 )"
+    },
+    "text": "草堂キルナンマンケジャン ( 초당길낭만게장 )\\n\n江原道 ガンヌン市 チョダンウォンギル104\\n\n江陵の名店で、多くの観光客が訪れます。江原道のガンヌン市に位置した韓食専門店です。おすすめはカンジャンケジャン定食です。",
+    "QA": [
+        {
+            "question": "キルナンマンケジャンはどこにありますか？",
+            "answer": "キルナンマンケジャンは江原道のガンヌン市に位置しています。"
+        },
+        {
+            "question": "キルナンマンケジャンのおすすめメニューは何ですか？",
+            "answer": "キルナンマンケジャンのおすすめはカンジャンケジャン定食です。"
+        },
+        {
+            "question": "キルナンマンケジャンはどのような店ですか？",
+            "answer": "キルナンマンケジャンは江陵の名店で、多くの観光客が訪れる韓食専門店です。"
+        }
+    ],
+    "word_Count": {
+        "text": 82,
+        "QA": 118
+    }
+}

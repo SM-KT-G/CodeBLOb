@@ -1,0 +1,31 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_016573",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-08",
+        "domain": "숙박",
+        "title": "ホテルクラウン（仁寺洞）（호텔 크라운（인사동））"
+    },
+    "text": "ホテルクラウン（仁寺洞）\nソウル特別市 鐘路区 三一大路30キル9\n「ホテルクラウン仁寺洞（インサドン）」はソウル中心部の鐘路（チョンノ）や仁寺洞の近くにあり、観光に便利です。",
+    "QA": [
+        {
+            "question": "ホテルクラウン仁寺洞はどこにありますか？",
+            "answer": "ホテルクラウン仁寺洞はソウル特別市鐘路区三一大路30キル9にあります。"
+        },
+        {
+            "question": "ホテルクラウン仁寺洞の近くにはどんな観光地がありますか？",
+            "answer": "ホテルクラウン仁寺洞の近くには、鐘路や仁寺洞があり、観光に便利です。"
+        }
+    ],
+    "word_Count": {
+        "text": 64,
+        "QA": 85
+    }
+}

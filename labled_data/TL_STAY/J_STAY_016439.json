@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_016439",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://kr.hotels.com/ho741663744/epeuenti-hotel-gwangju-hangug/?chkin=2023-11-21&chkout=2023-11-22&x_pwa=1&rfrr=HSR&pwa_ts=1699129476741&referrerUrl=aHR0cHM6Ly9rci5ob3RlbHMuY29tL0hvdGVsLVNlYXJjaA%3D%3D&useRewards=false&rm1=a2&regionId=6129080&destination=%EC%A0%84%EB%82%A8%2C+%ED%95%9C%EA%B5%AD&destType=MARKET&latLong=34.816097%2C126.463498&sort=DISTANCE&top_dp=63636&top_cur=KRW&userIntent=&selectedRoomType=217201400&selectedRatePlan=268005767&expediaPropertyId=23145742&searchId=1ddde45e-cef4-4845-95fb-d4f8614b7aec",
+        "collectedDate": "2023-11-15",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "호텔 볼톤"
+    },
+    "text": "ホテル·ボルトン (호텔 볼톤)\nわずか5.3kmの距離に位置するホテルボルトンは、光州での優れた宿泊経験をお約束します。 ここでは3つのレストランとバーラウンジを見つけることができ、ゆったりとした食事や一杯を楽しむことができます。 また、尚武駅から徒歩7分の距離にあり、公共交通機関を利用するのにも便利です。",
+    "QA": [
+        {
+            "question": "ホテルボルトンはどのくらいの距離に位置していますか？",
+            "answer": "ホテルボルトンは光州からわずか5.3kmの距離に位置しています。"
+        },
+        {
+            "question": "ホテルボルトンではどのようなレストランがありますか？",
+            "answer": "ホテルボルトンでは3つのレストランとバーラウンジをご利用いただけます。"
+        },
+        {
+            "question": "ホテルボルトンから尚武駅までの所要時間はどのくらいですか？",
+            "answer": "ホテルボルトンから尚武駅まで徒歩7分の距離です。"
+        },
+        {
+            "question": "ホテルボルトンの周辺にはどんな公共交通機関がありますか？",
+            "answer": "ホテルボルトンの周辺には公共交通機関が利用できます。"
+        },
+        {
+            "question": "ホテルボルトンでの宿泊はどのような経験になりますか？",
+            "answer": "ホテルボルトンでは光州での優れた宿泊経験をお約束します。"
+        }
+    ],
+    "word_Count": {
+        "text": 113,
+        "QA": 205
+    }
+}

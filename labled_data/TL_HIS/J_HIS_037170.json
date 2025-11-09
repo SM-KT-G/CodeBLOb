@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_037170",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=703&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=06750000&ccbaCtcd=38&ccbaCpno=2113806750000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2021-10-21",
+        "domain": "문화/역사관광",
+        "title": "창원 무량사 법어"
+    },
+    "text": "昌原無量寺法語 (창원 무량사 법어)\\n\n慶尚南道昌原市\\n\n朝鮮時代、慶尚南道有形文化財、昌原無量寺法語は正確な刊行年度は不明だが、本文に収録されたハングル表記である「半歯音、傍点、丙書表記」などを見ると、15世紀に刊行された彦海本の表記法と同じであり、1467年の間経図鑑の版式をそのまま維持しているが、印刷された紙の地質や印刷された面の形態や版式などを見ると、後代の引き出し本と判断され、特にこの資料はこれまで伝わる伝本がそれほど多くない15世紀の間経図鑑版刻であることと16世紀に引き出された重要な有形文化財である",
+    "QA": [
+        {
+            "question": "無量寺法語は何年に刊行されましたか？",
+            "answer": "無量寺法語の正確な刊行年度は不明ですが、彦海本の表記法と同じであり、1467年の間経図鑑の版式を維持しています。"
+        },
+        {
+            "question": "無量寺法語は何のために使用されましたか？",
+            "answer": "無量寺法語は、朝鮮時代の昌原無量寺の文化財として使用されました。"
+        },
+        {
+            "question": "無量寺法語は何の形式で刊行されましたか？",
+            "answer": "無量寺法語は印刷された本の形式で刊行されました。"
+        },
+        {
+            "question": "無量寺法語はどのような表記法を使用していますか？",
+            "answer": "無量寺法語は半歯音、傍点、丙書表記などのハングル表記を使用しています。"
+        },
+        {
+            "question": "無量寺法語は何世紀に引き出された重要な文化財ですか？",
+            "answer": "無量寺法語は16世紀に引き出された重要な有形文化財です。"
+        }
+    ],
+    "word_Count": {
+        "text": 192,
+        "QA": 207
+    }
+}

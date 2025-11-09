@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001433",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2023-07-01",
+        "domain": "음식점",
+        "title": "AURA Cafe&Lounge"
+    },
+    "text": "AURA Cafe&Lounge (AURA Cafe&Lounge)\\n\n江原特別自治道 江陵市蒼海路423H - AVENUEホテル建物1階\\n\nAURACafe&Loungeは江原道江陵市場類を中心とするカフェ兼ラウンジである。コーヒーや飲み物だけでなく、ワイン、ビール、お酒も販売している。営業終了時間は午前2時まで。内部は愛らしいが高級な雰囲気を持っている。内部の窓から見える海の眺めも素晴らしい。お酒に合う様々な種類のおつまみもたくさん販売している。冬季を除いたシーズンには無料で日傘、敷物、テーブルをレンタルするピクニックパッケージもあり、海辺で時間を楽しむことができるが、利用時間は3時間に制限されている。店舗周辺に駐車スペースもあり便利に利用できる。",
+    "QA": [
+        {
+            "question": "AURACafe&Loungeの営業時間は何時から何時までですか？",
+            "answer": "AURACafe&Loungeの営業時間は午前9時から午前2時までです。"
+        },
+        {
+            "question": "AURACafe&Loungeでは何を販売していますか？",
+            "answer": "AURACafe&Loungeではコーヒーや飲み物だけでなく、ワイン、ビール、お酒も販売しています。さらに、様々な種類のおつまみも豊富に取り揃えています。"
+        },
+        {
+            "question": "AURACafe&Loungeの内部はどんな雰囲気ですか？",
+            "answer": "AURACafe&Loungeの内部は愛らしいが高級な雰囲気を持っています。海の眺めが見える窓もあり、とても素晴らしいです。"
+        },
+        {
+            "question": "AURACafe&Loungeで利用できるピクニックパッケージの内容は何ですか？",
+            "answer": "AURACafe&Loungeでは冬季を除いたシーズンには無料で日傘、敷物、テーブルをレンタルするピクニックパッケージがあります。これを利用すれば海辺で快適に時間を楽しむことができますが、利用時間は3時間に制限されています。"
+        },
+        {
+            "question": "AURACafe&Loungeの周辺には駐車スペースはありますか？",
+            "answer": "はい、AURACafe&Loungeの周辺には駐車スペースがありますので、便利に利用することができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 244,
+        "QA": 368
+    }
+}

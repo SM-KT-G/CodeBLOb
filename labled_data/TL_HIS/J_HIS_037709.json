@@ -1,0 +1,51 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_037709",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=763&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=00050000&ccbaCtcd=22&ccbaCpno=2332200050000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1988-05-30",
+        "domain": "문화/역사관광",
+        "title": "용암산성"
+    },
+    "text": "龍岩山城 (용암산성)\\n\n大邱 東区 道東山 35、36\\n\n古代/三国時代、大邱広域市記念物、溶岩山城は海抜380mの山頂に急な傾斜を利用して積み上げた城で、安心と河陽につながる通路上にあり、地形上重要な軍事的要衝地だったと推測される。 城壁の周囲は約1kmであり、城の西側と南側の麓から稜線につながる緩やかな傾斜地には、人工的に絶壁を作って敵の侵入に備えた。 絶壁の前には門跡に見える入口があり、城内の東北側には井戸跡がある。 城の中で新羅の土器彫刻が発見される点から見て、三国時代に作られた城と推測される。 壬辰倭乱の時、大邱地方の義兵たちがこの城に集まって活動したということから見て、三国時代からその後代まで使い続けたと考えられる。",
+    "QA": [
+        {
+            "question": "龍岩山城はどの位置にありますか？",
+            "answer": "龍岩山城は大邱の東区道東山に位置しています。"
+        },
+        {
+            "question": "龍岩山城はいつ作られましたか？",
+            "answer": "龍岩山城は古代/三国時代に作られたと推測されています。"
+        },
+        {
+            "question": "なぜ龍岩山城は重要な軍事的要衝地だったと言われていますか？",
+            "answer": "龍岩山城は安心と河陽をつなぐ通路上にあり、地形上重要な軍事的要衝地だったためです。"
+        },
+        {
+            "question": "龍岩山城の城壁の周囲はどのくらいですか？",
+            "answer": "龍岩山城の城壁の周囲は約1kmです。"
+        },
+        {
+            "question": "龍岩山城の絶壁はどのように作られましたか？",
+            "answer": "龍岩山城の絶壁は人工的に作られ、城の西側と南側の麓から稜線につながる緩やかな傾斜地に設置されました。"
+        },
+        {
+            "question": "龍岩山城の城内には何がありますか？",
+            "answer": "龍岩山城の城内には井戸跡があります。また、新羅の土器彫刻も発見されています。"
+        },
+        {
+            "question": "龍岩山城はどの時代まで使用されていましたか？",
+            "answer": "龍岩山城は三国時代から壬辰倭乱の時代まで使用されていました。"
+        }
+    ],
+    "word_Count": {
+        "text": 235,
+        "QA": 268
+    }
+}

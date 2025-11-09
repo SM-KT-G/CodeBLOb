@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_054225",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/view?relicId=77019",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "글자를 새긴 암키와 조각"
+    },
+    "text": "文字を刻んだ牝瓦彫刻 (글자를 새긴 암키와 조각)\\n\nがれきには、「受取口（奇数解口）」という縦に連続的に打刃された箇所があります。この建築部材は、韓国の統一新羅時代に使用されたもので、材質は土と瓦質です。雌木輪としての分類がされており、現在の幅は187cm、現在の長さは303cmです。",
+    "QA": [
+        {
+            "question": "この牝瓦彫刻はどの時代に使用されましたか？",
+            "answer": "統一新羅時代に使用されました。"
+        },
+        {
+            "question": "この建築部材の材質は何ですか？",
+            "answer": "材質は土と瓦質です。"
+        },
+        {
+            "question": "この牝瓦彫刻は何に使われていましたか？",
+            "answer": "雌木輪として使用されていました。"
+        },
+        {
+            "question": "現在の牝瓦彫刻の幅と長さはそれぞれ何ですか？",
+            "answer": "現在の幅は187cm、現在の長さは303cmです。"
+        }
+    ],
+    "word_Count": {
+        "text": 107,
+        "QA": 104
+    }
+}

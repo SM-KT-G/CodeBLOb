@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_035040",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=287&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=16&ccbaAsno=00690000&ccbaCtcd=37&ccbaCpno=1363700690000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1962-12-07",
+        "domain": "자연관광",
+        "title": "상주 운평리 구상화강암"
+    },
+    "text": "火成岩はほとんど特異な構造の球状構造が発達した岩石で、韓半島の地殻変動の際、マグマが地表面へ飛び上がってくる時に作られる。一村であるウンピョンリではこの岩石を'ゴブクドル'とも呼び、直径は5∼13センチで黒い色の端を帯びている。ウンピョンリの火成岩は世界的に非常に珍しくて変わって天然記念物に指定されて保護されている。この岩石は岩石形成に対する重要な研究資料で人々の注目を受けている。",
+    "QA": [
+        {
+            "question": "火成岩はどのような地殻変動の際に作られるのですか？",
+            "answer": "火成岩は韓半島の地殻変動の際、マグマが地表面へ飛び上がってくる時に作られます。"
+        },
+        {
+            "question": "ウンピョンリの火成岩はどのような特徴を持っていますか？",
+            "answer": "ウンピョンリの火成岩は直径5∼13センチで黒い色の端を帯びており、特異な構造の球状構造が発達しています。"
+        },
+        {
+            "question": "ウンピョンリの火成岩はなぜ世界的に珍しいのですか？",
+            "answer": "ウンピョンリの火成岩は世界的に非常に珍しく、変わって天然記念物に指定されて保護されています。"
+        },
+        {
+            "question": "火成岩はなぜ岩石形成に対する重要な研究資料とされるのですか？",
+            "answer": "火成岩は岩石形成に対する重要な研究資料とされる理由は、人々の注目を受けているからです。"
+        }
+    ],
+    "word_Count": {
+        "text": 140,
+        "QA": 210
+    }
+}

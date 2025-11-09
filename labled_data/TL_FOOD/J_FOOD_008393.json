@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_008393",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-01",
+        "domain": "음식점",
+        "title": "ゼムオク( 잼배옥 )"
+    },
+    "text": "ゼムベオク\nソウル特別市 中区 世宗大路9キル 68-9\n80年以上の伝統を持つ店です。 ソウル特別市ジュン区に位置した韓食専門店です。代表的なメニューはソルロンタンです。",
+    "QA": [
+        {
+            "question": "この店の名前は何ですか？",
+            "answer": "この店の名前はゼムベオクです。"
+        },
+        {
+            "question": "この店はどこにありますか？",
+            "answer": "この店はソウル特別市中区に位置しています。"
+        },
+        {
+            "question": "この店の代表的なメニューは何ですか？",
+            "answer": "この店の代表的なメニューはソルロンタンです。"
+        },
+        {
+            "question": "この店は何年以上の歴史を持っていますか？",
+            "answer": "この店は80年以上の伝統を持っています。"
+        },
+        {
+            "question": "この店の住所は何ですか？",
+            "answer": "この店の住所はソウル特別市中区世宗大路9キル68-9です。"
+        }
+    ],
+    "word_Count": {
+        "text": 63,
+        "QA": 133
+    }
+}

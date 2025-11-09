@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_014653",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42010&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "가평 B481감성펜션(2023리모델링,넷플) 운영 정책"
+    },
+    "text": "チェックイン時間は午後3時でチェックアウト時間は午前11時です。 チェックインとチェックアウト時間の案内を受けてください。 入室施設では無料映画(OTT)を楽しむことができ、プレミアムペンションやプール、ウォータースライド、屋外プール、露天風呂、ブルモンなど様々な施設をご利用いただけます。 駐車場もあり、近くには美しい渓谷もあり、撮影場所としても最適です。",
+    "QA": [
+        {
+            "question": "チェックインは何時ですか？",
+            "answer": "チェックイン時間は午後3時です。"
+        },
+        {
+            "question": "チェックアウトは何時ですか？",
+            "answer": "チェックアウト時間は午前11時です。"
+        },
+        {
+            "question": "どのような施設が利用できますか？",
+            "answer": "入室施設では無料映画(OTT)を楽しむことができ、プレミアムペンションやプール、ウォータースライド、屋外プール、露天風呂、ブルモンなど様々な施設をご利用いただけます。"
+        },
+        {
+            "question": "駐車場はありますか？",
+            "answer": "はい、駐車場もあります。"
+        },
+        {
+            "question": "近くには何がありますか？",
+            "answer": "近くには美しい渓谷もあり、撮影場所としても最適です。"
+        }
+    ],
+    "word_Count": {
+        "text": 131,
+        "QA": 161
+    }
+}

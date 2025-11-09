@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_018515",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=465&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=01180000&ccbaCtcd=33&ccbaCpno=2113301180000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1982-12-17",
+        "domain": "문화/역사관광",
+        "title": "보은 원정리 삼층석탑"
+    },
+    "text": "報恩院井里(ポウンウォンジョンリ)三階石塔(보은 원정리 삼층석탑)\\n\n忠清北道報恩郡麻路面元井里山60番地\\n\n忠清北道有形文化財 , 新羅の旧寺跡にある石塔で、1層基壇の上に3層の塔身を積み、頭飾りを乗せた姿だ。 基壇の四隅には柱の形が刻まれており、上面に高い怪任を置いて塔身の1階の石を支えるようにした。 塔身部の各石にも柱の形が彫刻されているが、一部破損した姿だ。 厚く見える屋根石は四隅が上に聞こえていて軽快で、底面には3段の支えを置いた。 頂上には露盤(頭飾り台)と宝輪(車輪形飾り)だけが残って頭飾りをしている。 基壇が1階である点と高い塔身台、厚い屋根石、3段の屋根石台などから見て高麗時代に建てられたものと見られる。",
+    "QA": [
+        {
+            "question": "この石塔はどの時代に建てられましたか？",
+            "answer": "この石塔は高麗時代に建てられました。"
+        },
+        {
+            "question": "石塔の形はどのような特徴がありますか？",
+            "answer": "この石塔は1層基壇の上に3層の塔身を積み、頭飾りを乗せた形をしています。"
+        },
+        {
+            "question": "塔身の各石には何が彫刻されていますか？",
+            "answer": "塔身の各石には柱の形が彫刻されていますが、一部は破損しています。"
+        },
+        {
+            "question": "屋根石はどのような特徴がありますか？",
+            "answer": "屋根石は四隅が上に聞こえていて軽快で、底面には3段の支えを置いています。"
+        },
+        {
+            "question": "頂上に何が残っていますか？",
+            "answer": "頂上には露盤（頭飾り台）と宝輪（車輪形飾り）が残っています。"
+        }
+    ],
+    "word_Count": {
+        "text": 233,
+        "QA": 176
+    }
+}

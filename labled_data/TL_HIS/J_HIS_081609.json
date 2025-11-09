@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_081609",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/view?relicId=109111",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2023-10-11",
+        "domain": "문화/역사관광",
+        "title": "석기 조각"
+    },
+    "text": "石器片 (석기 조각)\\n\n国籍/時代: 韓国の青銅器について考えましょう。この青銅器は古代の農業時代に使われた半月形の石刀で、収穫や脱穀に役立てられました。その材質は石です。現在のサイズは長さ67cmであり、昔は約38cmだったとされています。",
+    "QA": [
+        {
+            "question": "この石器片は何に使われていましたか？",
+            "answer": "この石器片は古代の農業時代に収穫や脱穀に使われていました。"
+        },
+        {
+            "question": "石器片の材質は何ですか？",
+            "answer": "石器片の材質は石です。"
+        },
+        {
+            "question": "石器片の現在のサイズは何ですか？",
+            "answer": "石器片の現在のサイズは長さ67cmです。"
+        },
+        {
+            "question": "石器片の昔のサイズは何でしたか？",
+            "answer": "石器片の昔のサイズは約38cmでした。"
+        }
+    ],
+    "word_Count": {
+        "text": 90,
+        "QA": 103
+    }
+}

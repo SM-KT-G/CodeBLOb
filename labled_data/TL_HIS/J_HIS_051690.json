@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_051690",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1015&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=00690000&ccbaCtcd=31&ccbaCpno=3413100690000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1985-09-20",
+        "domain": "문화/역사관광",
+        "title": "고양향교"
+    },
+    "text": "京畿道に位置する高陽郷校は、朝鮮時代に公立の教育機関として設立された郷校だ。郷校は、中国の孔子と聖賢たちの祭祀を行って地域の人々に教育を提供する役割を果たした。この郷校は、大成殿、東武ㆍの庶務、明倫堂、ドンジェㆍ書斎などで構成されている。建立年代は不明だが1595年に燃え、なくなった後、再び再建され、1689年には王の指示によって現在の位置に移転された。韓国戦争の時には一部の建物が焼失したが、1984年に新たに建設された。高陽郷校は傾斜地形を活用しての前側と後側に区分されている。大成殿は人の形の切妻屋根を持っており、チョンサチョンは庶務の後ろに位置して最も古い建物として知られている。明倫堂は入母屋屋根で、知られている。現在、郷校は、教育機能を喪失して祭祀の役割だけが維持されている。",
+    "QA": [
+        {
+            "question": "高陽郷校はどのような役割を果たしていましたか？",
+            "answer": "高陽郷校は、朝鮮時代に公立の教育機関として設立され、中国の孔子と聖賢たちの祭祀を行って地域の人々に教育を提供する役割を果たしていました。"
+        },
+        {
+            "question": "高陽郷校の建立年代は何年ですか？",
+            "answer": "高陽郷校の建立年代は不明ですが、再建されたのは1595年であり、1689年には現在の位置に移転されました。"
+        },
+        {
+            "question": "高陽郷校はどのような建物で構成されていますか？",
+            "answer": "高陽郷校は大成殿、東武ㆍの庶務、明倫堂、ドンジェㆍ書斎などの建物で構成されています。"
+        },
+        {
+            "question": "高陽郷校は韓国戦争の時にどうなりましたか？",
+            "answer": "高陽郷校は韓国戦争の時に一部の建物が焼失しましたが、1984年に新たに建設されました。"
+        },
+        {
+            "question": "高陽郷校は現在どのような役割を果たしていますか？",
+            "answer": "高陽郷校は現在、教育機能を喪失して祭祀の役割だけが維持されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 253,
+        "QA": 254
+    }
+}

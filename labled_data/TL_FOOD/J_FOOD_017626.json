@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_017626",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "国民プデチゲ ( 국민부대찌개 )"
+    },
+    "text": "国民プデチゲ ( 국민부대찌개 )\n京畿道 平沢市 碑前5路 19\n23年の秘法で濃厚なプデチゲの醍醐味が味わえる店です。代表的なメニューはプデチゲです。慶尚北道のアンドン市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "このお店の場所はどこですか？",
+            "answer": "このお店は京畿道平沢市碑前5路19に位置しています。"
+        },
+        {
+            "question": "このお店の代表的なメニューは何ですか？",
+            "answer": "このお店の代表的なメニューはプデチゲです。"
+        },
+        {
+            "question": "このお店の特徴は何ですか？",
+            "answer": "このお店の特徴は、23年の秘法で作られる濃厚なプデチゲの醍醐味が味わえることです。"
+        }
+    ],
+    "word_Count": {
+        "text": 73,
+        "QA": 98
+    }
+}

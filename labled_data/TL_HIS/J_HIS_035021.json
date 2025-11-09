@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_035021",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=433&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=00760000&ccbaCtcd=11&ccbaCpno=2111100760000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1991-05-30",
+        "domain": "문화/역사관광",
+        "title": "홍무25년장흥사명 동종"
+    },
+    "text": "洪武25年長興社名銅鐘 (홍무25년장흥사명 동종)\\n\nソウル特別市江南区三成洞73奉恩寺\\n\nソウル特別市有形文化財 , 朝鮮時代に作られた鐘で、もともと長興寺の鐘だったが、いつここ奉恩寺に移されたのかは分からない。 鐘を吊るす龍ニュは落ちていったが、胴体は完全に保存されている。 鐘の下に蓮華台を置き、雲に乗った菩薩と鐘を鳴らす当座がそれぞれ1個ずつ配置されたのが特徴だ。 この鐘には1392年に作ったという記録があり、年代がはっきり分かる種だ。",
+    "QA": [
+        {
+            "question": "この銅鐘はいつ作られましたか？",
+            "answer": "この銅鐘は洪武25年（1392年）に作られました。"
+        },
+        {
+            "question": "もともとこの銅鐘はどこの寺のものでしたか？",
+            "answer": "元々は長興寺の鐘でしたが、いつ奉恩寺に移されたのかは分かりません。"
+        },
+        {
+            "question": "この銅鐘の特徴は何ですか？",
+            "answer": "この銅鐘は、落ちていった龍の胴体が完全に保存されており、蓮華台の下に雲に乗った菩薩と鐘を鳴らす当座が配置されているのが特徴です。"
+        }
+    ],
+    "word_Count": {
+        "text": 165,
+        "QA": 125
+    }
+}

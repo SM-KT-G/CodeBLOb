@@ -1,0 +1,63 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_049501",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://myrealtrip.com/accommodations/stays/1093658?place[place_type]=GID&place[gid]=1093658&place[latitude]=34.7814818367&place[longitude]=127.9275500582&checkin=2023-12-03&checkout=2023-12-04&adult_count=1&curation_type=ALL",
+        "collectedDate": "2023-11-14",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "White House(화이트 하우스)"
+    },
+    "text": "White House Aは1人当たり1泊10,000ウォンであり、最大人数を超えることはできません。 White House Bも同じ価格でご利用いただけます。 White House Dormitory G1、S1、T1は男女共用で使用され、1人当たり1泊30,000ウォンです。 チェックインは14:00で、チェックアウトは11:00です。 ピックアップは不可能であり、炭グリルの場合、1回に20,000ウォンが追加で支払われ、電気グリルは無料で利用できます。 客室の内部には無料Wi-Fiが提供されており、ペットの入室はできません。 駐車場は無料で利用でき、利用時間はチェックイン時間の14:00からチェックアウト時間の11:00までです。 客室情報ではWhite House Dormitory G1は1人基準で最大5人まで、White House Aは2人基準で最大4人まで宿泊できます。",
+    "QA": [
+        {
+            "question": "ホワイトハウスAとBの価格は何ですか？",
+            "answer": "ホワイトハウスAとBは1人当たり1泊10,000ウォンです。"
+        },
+        {
+            "question": "ホワイトハウスドミトリーG1、S1、T1の価格は何ですか？",
+            "answer": "ホワイトハウスドミトリーG1、S1、T1は1人当たり1泊30,000ウォンです。"
+        },
+        {
+            "question": "チェックインとチェックアウトの時間は何時ですか？",
+            "answer": "チェックインは14:00で、チェックアウトは11:00です。"
+        },
+        {
+            "question": "ピックアップサービスはありますか？",
+            "answer": "ピックアップサービスは提供されていません。"
+        },
+        {
+            "question": "炭グリルの利用料金はいくらですか？",
+            "answer": "炭グリルの利用料金は1回につき20,000ウォンです。"
+        },
+        {
+            "question": "ペットは宿泊できますか？",
+            "answer": "ペットの入室はできません。"
+        },
+        {
+            "question": "駐車場の利用は無料ですか？",
+            "answer": "はい、駐車場は無料で利用できます。"
+        },
+        {
+            "question": "客室内で利用できるWi-Fiは無料ですか？",
+            "answer": "はい、客室内で利用できるWi-Fiは無料です。"
+        },
+        {
+            "question": "ホワイトハウスドミトリーG1の最大宿泊人数は何人ですか？",
+            "answer": "ホワイトハウスドミトリーG1は1人基準で最大5人まで宿泊できます。"
+        },
+        {
+            "question": "ホワイトハウスAの最大宿泊人数は何人ですか？",
+            "answer": "ホワイトハウスAは2人基準で最大4人まで宿泊できます。"
+        }
+    ],
+    "word_Count": {
+        "text": 293,
+        "QA": 339
+    }
+}

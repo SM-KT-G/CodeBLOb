@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_050313",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=677&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=05150000&ccbaCtcd=37&ccbaCpno=2113705150000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2018-02-22",
+        "domain": "문화/역사관광",
+        "title": "경주 송선리 마애불"
+    },
+    "text": "慶州松仙里磨崖仏\\n\n慶尚北道有形文化財、この、磨崖(佛像は''慶州ダンソクサンシンソンサ磨崖ブルサングン''(国宝第199号)から北に約2キロの距離に位置した岩壁に刻まれた高さ6.8mに達する大型の磨崖仏坐像である。像の顔をはじめとして上半身は浅い扶助(浮彫)で刻まれてその下は先覚(線刻)に造成した。このような傾向は新羅末から高麗初期にかけた大型の磨崖仏の一般化された形式だ。磨崖(佛像周辺に見えて大小の穴は、世帯(架構)の跡形と推定される。身体の摩耗がひどく、彫刻技法があるのか繊細な顔には謹厳な省庁の姿がよく表現されており、大きさが大きい大型の磨崖(佛像という点で意味がある。",
+    "QA": [
+        {
+            "question": "この磨崖仏はどこに位置していますか？",
+            "answer": "慶州ダンソクサンシンソンサ磨崖ブルサングンから北に約2キロの距離に位置しています。"
+        },
+        {
+            "question": "この磨崖仏の高さは何メートルですか？",
+            "answer": "この磨崖仏の高さは6.8メートルに達しています。"
+        },
+        {
+            "question": "この磨崖仏はどのように彫刻されていますか？",
+            "answer": "像の顔をはじめとして上半身は浅い扶助（浮彫）で刻まれており、その下は先覚（線刻）に造成されています。"
+        },
+        {
+            "question": "この磨崖仏の彫刻技法はどのような特徴がありますか？",
+            "answer": "大型の磨崖仏の形式である新羅末から高麗初期の特徴で、謹厳な省庁の姿がよく表現されています。"
+        },
+        {
+            "question": "この磨崖仏周辺に見える穴は何の跡ですか？",
+            "answer": "穴は世帯（架構）の跡と推定されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 214,
+        "QA": 206
+    }
+}

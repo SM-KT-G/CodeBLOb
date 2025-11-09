@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_054875",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "BULLDOG&CURRY ( 불독카레&스튜 )"
+    },
+    "text": "BULLDOG&CURRY ( 불독카레&스튜 )\n京畿道 ピョンテク市 トンボクシジャンロ13ボンギル6-3\n様々なフュージョン料理が味わえる店です。おすすめはカレーです。京畿道のピョンテク市に位置した洋食専門店です。",
+    "QA": [
+        {
+            "question": "この店の名前は何ですか？",
+            "answer": "BULLDOG&CURRY（불독카레&스튜）です。"
+        },
+        {
+            "question": "この店はどこにありますか？",
+            "answer": "京畿道のピョンテク市のトンボクシジャンロ13ボンギル6-3にあります。"
+        },
+        {
+            "question": "この店はどんな料理を提供していますか？",
+            "answer": "洋食専門店で、様々なフュージョン料理が味わえます。特におすすめはカレーです。"
+        },
+        {
+            "question": "カレー以外にも何かおすすめの料理はありますか？",
+            "answer": "その他にも洋食メニューやステーキなどもおすすめです。"
+        },
+        {
+            "question": "この店の雰囲気はどうですか？",
+            "answer": "落ち着いた雰囲気で、ゆっくりと食事を楽しむことができます。"
+        },
+        {
+            "question": "この店の営業時間は何時から何時までですか？",
+            "answer": "営業時間は10時から22時までです。"
+        }
+    ],
+    "word_Count": {
+        "text": 80,
+        "QA": 200
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_095513",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ja",
+        "translator": null,
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101971",
+        "collectedDate": "2023-09-07",
+        "publishedDate": "2018-05-03",
+        "domain": "문화/역사관광",
+        "title": "乙巳勒約全文"
+    },
+    "text": "「乙巳条約」とも呼ばれる文件です。乙巳勒約は1905年11月17日、伊藤博文が大韓帝国内閣を脅迫し、韓国の外交権を奪った不法協約です。通常の条約成立には、委任、調印、批准という三つの段階がなければなりませんが、乙巳勒約は３つの手続きがすべて無視されました。さらにこの文件には条約の名称すら記されていません。",
+    "QA": [
+        {
+            "question": "乙巳勒約はいつ調印されましたか？",
+            "answer": "1905年11月17日に調印されました。"
+        },
+        {
+            "question": "乙巳勒約は誰によって調印されましたか？",
+            "answer": "伊藤博文が調印しました。"
+        },
+        {
+            "question": "乙巳勒約はなぜ不法だと言われていますか？",
+            "answer": "乙巳勒約は委任、調印、批准という条約成立の手続きが無視された不法な協定です。"
+        },
+        {
+            "question": "乙巳勒約は何を奪った協約ですか？",
+            "answer": "乙巳勒約は韓国の外交権を奪った協約です。"
+        },
+        {
+            "question": "乙巳勒約には何の名称も記されていませんか？",
+            "answer": "乙巳勒約には条約の名称すら記されていません。"
+        }
+    ],
+    "word_Count": {
+        "text": 112,
+        "QA": 149
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_013880",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42050&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "전주관광호텔 운영 정책"
+    },
+    "text": "チェックイン時間は15:00以降となっており、チェックアウト時間は11:00以前です。 ご予約のお知らせでは、チェックインは15:00以降に可能で、チェックアウトは11:00以前に完了しなければならないという案内があります。 無料駐車と無料Wi-Fiサービスを提供しています。 追加費用としては寝具の洗濯とエネルギー使用による10,000ウォンの追加費用があり、これは現場で決済する必要があります。",
+    "QA": [
+        {
+            "question": "チェックイン時間は何時からですか？",
+            "answer": "チェックイン時間は15:00以降となっています。"
+        },
+        {
+            "question": "チェックアウト時間は何時までですか？",
+            "answer": "チェックアウト時間は11:00以前です。"
+        },
+        {
+            "question": "駐車場の利用料金はかかりますか？",
+            "answer": "駐車場の利用は無料です。"
+        },
+        {
+            "question": "Wi-Fiの利用料金はかかりますか？",
+            "answer": "Wi-Fiの利用は無料です。"
+        },
+        {
+            "question": "寝具の洗濯は追加料金がかかりますか？",
+            "answer": "寝具の洗濯には10,000ウォンの追加費用がかかります。"
+        },
+        {
+            "question": "エネルギー使用による追加費用はありますか？",
+            "answer": "エネルギー使用による追加費用には10,000ウォンがかかります。"
+        },
+        {
+            "question": "追加費用は現地で支払いますか？",
+            "answer": "はい、追加費用は現地で支払う必要があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 145,
+        "QA": 201
+    }
+}

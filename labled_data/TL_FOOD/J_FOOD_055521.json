@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_055521",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-01",
+        "domain": "음식점",
+        "title": "ヒョンジェガン ( 형제간 )"
+    },
+    "text": "ヒョンジェガン \n全羅南道 順天市 上沙面 上沙湖キル 282\n地元の人たちにはよく知られている穴場スポットで、いつも長い列が見られるお店です。代表的なメニューはカンジャンケジャン定食です。全羅南道のスンチョン市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "このお店はどこにありますか？",
+            "answer": "このお店は全羅南道のスンチョン市に位置しています。"
+        },
+        {
+            "question": "このお店の代表的なメニューは何ですか？",
+            "answer": "このお店の代表的なメニューはカンジャンケジャン定食です。"
+        },
+        {
+            "question": "このお店は地元の人たちによく知られていますか？",
+            "answer": "はい、このお店は地元の人たちにはよく知られています。いつも長い列が見られます。"
+        },
+        {
+            "question": "このお店は穴場スポットですか？",
+            "answer": "はい、このお店は地元の人たちにはよく知られている穴場スポットです。"
+        },
+        {
+            "question": "このお店の住所は何ですか？",
+            "answer": "このお店の住所は全羅南道順天市上沙面上沙湖キル 282です。"
+        }
+    ],
+    "word_Count": {
+        "text": 87,
+        "QA": 175
+    }
+}

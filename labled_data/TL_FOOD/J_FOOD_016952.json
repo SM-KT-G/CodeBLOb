@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_016952",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "景福宮 ( 경복궁 )"
+    },
+    "text": "景福宮 ( 경복궁 )\\n\n慶尚北道 安東市 忠孝路 4439\\n\n韓国産の旬の食材で料理するお店です。代表的なメニューはユッケビビンバです。慶尚北道のアンドン市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "慶尚北道の安東市にある景福宮はどこに位置していますか？",
+            "answer": "景福宮は安東市の忠孝路4439に位置しています。"
+        },
+        {
+            "question": "景福宮はどのような料理を提供していますか？",
+            "answer": "景福宮では韓国産の旬の食材を使用した料理を提供しています。特に代表的なメニューはユッケビビンバです。"
+        },
+        {
+            "question": "景福宮はどのようなお店ですか？",
+            "answer": "景福宮は韓食専門店で、慶尚北道のアンドン市に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 68,
+        "QA": 122
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_089287",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=449&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=00960000&ccbaCtcd=38&ccbaCpno=2113800960000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1979-05-02",
+        "domain": "문화/역사관광",
+        "title": "양산 호계리 마애여래좌상"
+    },
+    "text": "梁山ホゲリ ジャン\\n\n慶尚南道梁山市虎渓洞\\n\n慶尚南道有形文化財、慶尚南道梁山市虎渓洞の大きな岩に刻まれた磨崖仏で、岩の下の洞窟にはオンドルを設置した跡がある。この洞窟は元曉大師が修業した''班固牡蠣(磻高窟)''とされているが、まだ確実な根拠はない。頭には磨崖仏としては珍しく小さな空模様の髪をつけており、頭頂部には常套の形の小さな頭の束がある。体に比べて大きな顔、長く閉じた目、大きな鼻、閉じ口などは、不恰好な印象を与える。身体は風化が激しく、明確でないんですが、両肩にわたった服が厚く線刻され、手、足も素朴に表現された。台座(臺座)は、蓮の花が満開した形で平面型を線で刻まれ、光背(光背)は楕円に近い形でかすかにソンマン残っている。",
+    "QA": [
+        {
+            "question": "この磨崖仏はどこにありますか？",
+            "answer": "慶尚南道梁山市虎渓洞にあります。"
+        },
+        {
+            "question": "磨崖仏の下の洞窟に何が設置されていましたか？",
+            "answer": "洞窟にはオンドルが設置されていた跡があります。"
+        },
+        {
+            "question": "この磨崖仏の頭にある小さな空模様の髪は何ですか？",
+            "answer": "それは磨崖仏としては珍しい装飾で、頭頂部には常套の形の小さな頭の束があります。"
+        },
+        {
+            "question": "磨崖仏の体にはどのような特徴がありますか？",
+            "answer": "身体は風化が激しく、明確でないですが、両肩にわたった服が厚く線刻され、手、足も素朴に表現されています。"
+        },
+        {
+            "question": "台座はどのような形をしていますか？",
+            "answer": "台座は蓮の花が満開した形で平面型を線で刻まれており、光背は楕円に近い形でかすかにソンマン残っています。"
+        }
+    ],
+    "word_Count": {
+        "text": 235,
+        "QA": 204
+    }
+}

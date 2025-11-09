@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_LEI_006439",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101933",
+        "collectedDate": "2023-10-06",
+        "publishedDate": "2020-01-01",
+        "domain": "레포츠",
+        "title": "남도해양열차"
+    },
+    "text": "ナムドヘヤンヨルチャ\\n\n韓国鉄道公社主管で運営される南道海洋列車は慶全線と全羅線を往復する観光列車で、韓国鉄道公社が推進する5大観光ベルトのうち2番目に披露するものです。 この列車は既存のムグンファ号客車を改造して使用し、セマウル号特室等級で運行されています。 また、この列車はS-Train(エストレイン)という別名も持っています。",
+    "QA": [
+        {
+            "question": "南道海洋列車はどこの観光地を巡るのですか？",
+            "answer": "南道海洋列車は慶全線と全羅線を往復します。"
+        },
+        {
+            "question": "南道海洋列車はどのような列車ですか？",
+            "answer": "南道海洋列車は、既存のムグンファ号客車を改造して使用し、セマウル号特室等級で運行されています。"
+        },
+        {
+            "question": "南道海洋列車は別名何と呼ばれていますか？",
+            "answer": "南道海洋列車はS-Train(エストレイン)という別名も持っています。"
+        }
+    ],
+    "word_Count": {
+        "text": 123,
+        "QA": 118
+    }
+}

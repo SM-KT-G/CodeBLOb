@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_072274",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=514&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=01840000&ccbaCtcd=36&ccbaCpno=2113601840000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1992-11-30",
+        "domain": "문화/역사관광",
+        "title": "벽류정"
+    },
+    "text": "碧流亭\\n\n全羅南道羅州市世知面碧山里475番地\\n\n全羅南道有形文化財、ビョクリュチョンキムウンヘが建立した精子に仁祖18年(1640)に建てられた。元々は助走(趙注)が建てられた別荘があった場所だったが、光山金氏の所有となり、その敷地に建物を建てた。数回の補修工事を経て、比較的よく保存されている。金城山を後にして広がる平野の中に位置した3つの丘の中で最も大きな丘の森の中に位置している。前面3間・側面3間規模の屋根が八の字型の入母屋造りである。内部には字をよく書いたミンギュホ、シンホンなどが書いた扁額をはじめ、11個の扁額を保存している。ビョクリュは、全体的にバランスが取れた美しい東屋である。...",
+    "QA": [
+        {
+            "question": "碧流亭はいつ建てられましたか？",
+            "answer": "碧流亭は仁祖18年(1640)に建てられました。"
+        },
+        {
+            "question": "碧流亭はどのような建物ですか？",
+            "answer": "碧流亭は前面3間・側面3間規模の屋根が八の字型の入母屋造りで、バランスの取れた美しい東屋です。"
+        },
+        {
+            "question": "碧流亭内部には何が保存されていますか？",
+            "answer": "碧流亭内部には、ミンギュホやシンホンなどが書いた扁額をはじめ、11個の扁額が保存されています。"
+        },
+        {
+            "question": "碧流亭はどのような場所に位置していますか？",
+            "answer": "碧流亭は全羅南道羅州市世知面碧山里475番地に位置しており、広がる平野の中の森の中にあります。"
+        },
+        {
+            "question": "碧流亭は何のために建てられましたか？",
+            "answer": "碧流亭は元々は助走が建てられた別荘があった場所でしたが、光山金氏の所有となり、その敷地に建物を建てるために建てられました。"
+        }
+    ],
+    "word_Count": {
+        "text": 222,
+        "QA": 230
+    }
+}

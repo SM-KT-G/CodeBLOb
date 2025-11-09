@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001706",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/green-chicken-doctor",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "GREEN CHICKEN DOCTOR"
+    },
+    "text": "GREEN CHICKEN DOCTOR\\n\nソウル特別市 東大門区 イムンロ28ギル8\\n\nリーズナブルで、大学生にも人気の店です。ソウル特別市のドンデムン区に位置したチキン料理専門店です。代表的なメニューはチキンステーキです。",
+    "QA": [
+        {
+            "question": "このレストランはどこにありますか？",
+            "answer": "ソウル特別市のドンデムン区に位置しています。"
+        },
+        {
+            "question": "このレストランのメニューは何ですか？",
+            "answer": "代表的なメニューはチキンステーキです。"
+        },
+        {
+            "question": "このレストランはどのくらいの価格帯ですか？",
+            "answer": "リーズナブルな価格帯で、大学生にも人気があります。"
+        },
+        {
+            "question": "このレストランは大学生に人気がありますか？",
+            "answer": "はい、大学生にも人気のある店です。"
+        }
+    ],
+    "word_Count": {
+        "text": 84,
+        "QA": 117
+    }
+}

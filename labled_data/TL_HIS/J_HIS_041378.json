@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_041378",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2022-06-13",
+        "domain": "문화/역사관광",
+        "title": "D .FESTA（대학로 거리공연축제）"
+    },
+    "text": "D .FESTA（대학로 거리공연축제）\\n\nソウル特別市 鐘路区 大学路104\\n\n「D .FESTA（大学路ストリートパフォーマンスフェフェスティバル）」は、2015年から地域代表公演芸術祭に選定されており、演劇、舞踊、パントマイムなどさまざまな芸術ジャンルに出会うことのできるイベントです。 イベント内容（2022年）「打楽グループboomboom」、「beadspouch」、「劇団モムジッグッ」、「劇団Soulmate」とともに共同制作公演4編、招待公演8編",
+    "QA": [
+        {
+            "question": "D .FESTA（大学路ストリートパフォーマンスフェスティバル）はどこで開催されますか？",
+            "answer": "D .FESTA（大学路ストリートパフォーマンスフェスティバル）はソウル特別市鐘路区の大学路104で開催されます。"
+        },
+        {
+            "question": "D .FESTAはどのようなイベントですか？",
+            "answer": "D .FESTAは地域代表公演芸術祭に選定されており、演劇、舞踊、パントマイムなどさまざまな芸術ジャンルに出会うことのできるイベントです。"
+        },
+        {
+            "question": "2022年のD .FESTAの内容は何ですか？",
+            "answer": "2022年のD .FESTAの内容は「打楽グループboomboom」、「beadspouch」、「劇団モムジッグッ」、「劇団Soulmate」とともに共同制作公演4編、招待公演8編です。"
+        }
+    ],
+    "word_Count": {
+        "text": 171,
+        "QA": 225
+    }
+}

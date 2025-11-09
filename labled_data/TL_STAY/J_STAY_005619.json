@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_005619",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2020-12-08",
+        "domain": "숙박",
+        "title": "ジャイアントホテル（자이언트호텔）"
+    },
+    "text": "ジャイアントホテル（자이언트호텔）\nソウル特別市 江南区 奉恩寺路459 （三成洞）\nソウル地下鉄2号線三成駅または宣陵駅から徒歩約20分のところにある「ジャイアントホテル（HOTEL GIANT）」は、周辺のショッピング施設はもちろんのこと、観光地にもアクセスが便利です。",
+    "QA": [
+        {
+            "question": "ジャイアントホテルはどこにありますか？",
+            "answer": "ジャイアントホテルはソウル特別市江南区奉恩寺路459（三成洞）にあります。"
+        },
+        {
+            "question": "ジャイアントホテルへのアクセスはどうですか？",
+            "answer": "ジャイアントホテルへは、ソウル地下鉄2号線の三成駅または宣陵駅から徒歩約20分です。"
+        },
+        {
+            "question": "ジャイアントホテルの周辺には何がありますか？",
+            "answer": "ジャイアントホテルの周辺には、ショッピング施設や観光地などがあります。"
+        },
+        {
+            "question": "ジャイアントホテルへのアクセスは便利ですか？",
+            "answer": "ジャイアントホテルへのアクセスは、周辺のショッピング施設や観光地にも便利な位置にあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 100,
+        "QA": 178
+    }
+}

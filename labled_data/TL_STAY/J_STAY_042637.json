@@ -1,0 +1,67 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_042637",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.booking.com/hotel/kr/eseuaenhotel-boryeongsi.ko.html",
+        "collectedDate": "2023-11-17",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "대천 에스앤 호텔"
+    },
+    "text": "大川S&ホテルは保寧中心部から7kmの距離に位置する宿です。 このホテルはBusosanseong FortressとGoransa Templeからそれぞれ49kmと50km離れています。 Muryangsa Templeからは約25km、Geumsa-ri Catholic Churchからは36km、そして定林寺跡からは49km離れています。 大川S&ホテルには専用駐車場があり、客室ごとに庭園の眺めを備えたバルコニーがあり、やかん、ウォッシュレット、無料の洗面用具が設置された専用バスルームが全客室にございます。 一部の客室には、冷蔵庫などのキッチン設備も提供されています。 すべての宿泊施設のオプションには薄型TVとヘアドライヤーも備えられています。 大川S&ホテルではNaghwa RockやImcheon Hyanggyoなどの名所を楽しむことができます。 ホテルから群山国際空港まで約59kmの距離に位置しています。 チェックインは15:00から可能で、チェックアウトは11:00までです。 カラオケ、ゴルフ場、ツインルーム、ダブルルーム、スイートルーム、ビラなど様々な宿泊オプションがホテル周辺にございます。 また、ピークシーズンにはホリデーホームも予約できます。",
+    "QA": [
+        {
+            "question": "大川S&ホテルはどこに位置していますか？",
+            "answer": "大川S&ホテルは保寧中心部から7kmの距離に位置しています。"
+        },
+        {
+            "question": "大川S&ホテルからBusosanseong FortressとGoransa Templeまでの距離はそれぞれ何kmですか？",
+            "answer": "大川S&ホテルからBusosanseong Fortressまでの距離は49kmであり、Goransa Templeまでの距離は50kmです。"
+        },
+        {
+            "question": "大川S&ホテルからMuryangsa Templeまでの距離はどのくらいですか？",
+            "answer": "大川S&ホテルからMuryangsa Templeまでの距離は約25kmです。"
+        },
+        {
+            "question": "大川S&ホテルからGeumsa-ri Catholic Churchまでの距離はどのくらいですか？",
+            "answer": "大川S&ホテルからGeumsa-ri Catholic Churchまでの距離は36kmです。"
+        },
+        {
+            "question": "大川S&ホテルから定林寺跡までの距離は何kmですか？",
+            "answer": "大川S&ホテルから定林寺跡までの距離は49kmです。"
+        },
+        {
+            "question": "大川S&ホテルにはどのような客室がありますか？",
+            "answer": "大川S&ホテルには庭園の眺めを備えたバルコニーがある客室があります。一部の客室にはキッチン設備も提供されています。"
+        },
+        {
+            "question": "大川S&ホテルの客室にはどのような設備がありますか？",
+            "answer": "大川S&ホテルの客室にはやかん、ウォッシュレット、無料の洗面用具が設置された専用バスルームがあります。また、全客室には薄型TVとヘアドライヤーも備えられています。"
+        },
+        {
+            "question": "大川S&ホテル周辺にはどのような宿泊オプションがありますか？",
+            "answer": "大川S&ホテル周辺にはカラオケ、ゴルフ場、ツインルーム、ダブルルーム、スイートルーム、ビラなど様々な宿泊オプションがあります。"
+        },
+        {
+            "question": "大川S&ホテルから群山国際空港までの距離はどのくらいですか？",
+            "answer": "大川S&ホテルから群山国際空港までの距離は約59kmです。"
+        },
+        {
+            "question": "大川S&ホテルのチェックインとチェックアウトの時間は何時ですか？",
+            "answer": "大川S&ホテルのチェックインは15:00から可能で、チェックアウトは11:00までです。"
+        },
+        {
+            "question": "大川S&ホテル周辺にはどのような名所がありますか？",
+            "answer": "大川S&ホテル周辺ではNaghwa RockやImcheon Hyanggyoなどの名所を楽しむことができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 397,
+        "QA": 664
+    }
+}

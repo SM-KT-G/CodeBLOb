@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001554",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-01",
+        "domain": "음식점",
+        "title": "Cafe Sisters ( 카페시스터즈 )"
+    },
+    "text": "Cafe Sisters ( 카페시스터즈 )\\n\n忠清南道 天安市 西北区 仏堂16キル 1\\n\nコーヒーだけでなく、各種飲み物とブランチが楽しめるお店です。おすすめはサンドイッチです。忠淸南道のチョンアン市に位置したカフェです。",
+    "QA": [
+        {
+            "question": "カフェシスターズはどこにありますか？",
+            "answer": "カフェシスターズは忠清南道天安市西北区仏堂16キル1にあります。"
+        },
+        {
+            "question": "カフェシスターズで楽しめるメニューは何ですか？",
+            "answer": "カフェシスターズではコーヒーだけでなく、各種飲み物とブランチも楽しめます。特におすすめはサンドイッチです。"
+        },
+        {
+            "question": "カフェシスターズはどの市に位置していますか？",
+            "answer": "カフェシスターズは忠淸南道のチョンアン市に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 85,
+        "QA": 129
+    }
+}

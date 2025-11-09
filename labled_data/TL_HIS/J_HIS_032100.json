@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_032100",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1073&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=01680000&ccbaCtcd=35&ccbaCpno=3413501680000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2000-11-17",
+        "domain": "문화/역사관광",
+        "title": "충신이흥발지려"
+    },
+    "text": "忠臣イ・フンバル之閭 (충신이흥발지려)\\n\n全羅北道全州市完山区三千3洞山64-3番地\\n\n朝鮮英祖29年(1753)、全羅北道文化財資料、この旌閭閣は朝鮮中期の忠臣イ·フンバルの行跡を称えるために、英祖29年(1753)に国で建立したものだ。李興発は丁卯胡乱以前の仁祖4年(1626)に上訴を行い、清の使臣を首切りするよう要請し、丙子胡乱で清に敗れると官職を捨てた。 この旌閭閣は現存する旌閭の大部分が孝子と烈女に関するものだが、忠臣の旌閭という点で注目され、典型的な旌閭閣建築形式をそのまま備えている。 旌閭閣の上にはイ·フンバルの墓所があり、下には最近建設した宗中斎室がある。",
+    "QA": [
+        {
+            "question": "この旌閭閣は何のために建てられましたか？",
+            "answer": "この旌閭閣は忠臣イ・フンバルの行跡を称えるために、英祖29年(1753)に国で建立されました。"
+        },
+        {
+            "question": "イ・フンバルは何をした忠臣でしたか？",
+            "answer": "イ・フンバルは丁卯胡乱以前の仁祖4年(1626)に上訴を行い、清の使臣を首切りするよう要請し、丙子胡乱で清に敗れると官職を捨てました。"
+        },
+        {
+            "question": "旌閭閣の特徴は何ですか？",
+            "answer": "旌閭閣は孝子と烈女に関するものが多い中で、忠臣の旌閭という点で注目され、典型的な旌閭閣建築形式を備えています。"
+        },
+        {
+            "question": "旌閭閣の上には何がありますか？",
+            "answer": "旌閭閣の上にはイ・フンバルの墓所があります。"
+        },
+        {
+            "question": "旌閭閣の下には何がありますか？",
+            "answer": "旌閭閣の下には最近建設した宗中斎室があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 214,
+        "QA": 215
+    }
+}

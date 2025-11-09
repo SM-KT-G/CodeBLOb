@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_029095",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-01",
+        "domain": "음식점",
+        "title": "韓牛カズア( 한우가즈아 )"
+    },
+    "text": "韓牛カズア\n京畿道 平沢市 産団路52ボンキル 9-7\n飲み会などに適した広い座席を完備しています。おすすめは韓牛ロースです。京畿道のピョンテク市に位置したBBQ専門店です。",
+    "QA": [
+        {
+            "question": "このレストランの名前は何ですか？",
+            "answer": "韓牛カズア"
+        },
+        {
+            "question": "このレストランはどこにありますか？",
+            "answer": "京畿道 平沢市 産団路52ボンキル 9-7"
+        },
+        {
+            "question": "このレストランのおすすめメニューは何ですか？",
+            "answer": "韓牛ロース"
+        },
+        {
+            "question": "このレストランはどのくらいの座席数がありますか？",
+            "answer": "広い座席を完備しています"
+        },
+        {
+            "question": "このレストランはどのようなお客様におすすめですか？",
+            "answer": "飲み会などに適しています"
+        },
+        {
+            "question": "このレストランの周辺にはどのような観光地がありますか？",
+            "answer": "京畿道のピョンテク市に位置しています"
+        }
+    ],
+    "word_Count": {
+        "text": 63,
+        "QA": 149
+    }
+}

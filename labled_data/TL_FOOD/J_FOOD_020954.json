@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_020954",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-05",
+        "domain": "음식점",
+        "title": "味家ハルメ ( 미가할매 )"
+    },
+    "text": "味家ハルメ ( 미가할매 )\\n\nソウル特別市 冠岳区 シンリムロ374\\n\n韓国のグルメ番組で紹介された27年を伝統を持つ名店です。おすすめは韓牛ロースです。ソウル特別市のクァナク区に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "このレストランはどのくらいの歴史を持っていますか？",
+            "answer": "27年の伝統を持っています。"
+        },
+        {
+            "question": "このレストランのおすすめ料理は何ですか？",
+            "answer": "韓牛ロースがおすすめです。"
+        },
+        {
+            "question": "このレストランはどこに位置していますか？",
+            "answer": "韓国のソウル特別市冠岳区のシンリムロ374に位置しています。"
+        },
+        {
+            "question": "このレストランはどのような特徴を持っていますか？",
+            "answer": "韓食専門店であり、グルメ番組でも紹介された名店です。"
+        }
+    ],
+    "word_Count": {
+        "text": 77,
+        "QA": 126
+    }
+}

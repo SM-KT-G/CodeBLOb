@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_002133",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-05",
+        "domain": "음식점",
+        "title": "THE CAFFE 原州革新 ( 더카페 원주혁신 )"
+    },
+    "text": "THE CAFFE 原州革新 ( 더카페 원주혁신 \\n\n江原道 原州市 ファングムロ2\\n\n様々なコーヒーやデザートが味わえる店です。代表的なメニューはアメリカーノです。江原道のウォンジュ市に位置したカフェ（コーヒーショップ）です。",
+    "QA": [
+        {
+            "question": "このカフェはどこにありますか？",
+            "answer": "このカフェは江原道原州市ファングムロ2に位置しています。"
+        },
+        {
+            "question": "このカフェの代表的なメニューは何ですか？",
+            "answer": "このカフェの代表的なメニューはアメリカーノです。"
+        },
+        {
+            "question": "このカフェではどのようなコーヒーやデザートが味わえますか？",
+            "answer": "このカフェでは様々なコーヒーやデザートが味わえます。"
+        },
+        {
+            "question": "このカフェはどのような雰囲気ですか？",
+            "answer": "このカフェはどんな雰囲気ですか？"
+        },
+        {
+            "question": "このカフェの営業時間は何時から何時までですか？",
+            "answer": "このカフェの営業時間は何時ですか？"
+        }
+    ],
+    "word_Count": {
+        "text": 85,
+        "QA": 158
+    }
+}

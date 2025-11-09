@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_104607",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/view?relicId=97901",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2023-10-11",
+        "domain": "문화/역사관광",
+        "title": "짐승눈무늬 암막새 조각"
+    },
+    "text": "けものめ模様の軒平瓦片 (짐승눈무늬 암막새 조각)\\n\nこの建物は、高麗時代の韓国で作られたもので、主に土と瓦でできています。屋根材として使用されているのは、軒平瓦と呼ばれるものです。現在のサイズは、長さ62cm、幅204cm、高さ135cmです。また、建物本体のサイズは、長さ40cm、幅145cm、高さ95cmです。",
+    "QA": [
+        {
+            "question": "この軒平瓦片は何時代のものですか？",
+            "answer": "この建物は、高麗時代の韓国で作られたものです。"
+        },
+        {
+            "question": "この建物のサイズはどのくらいですか？",
+            "answer": "現在のサイズは、長さ62cm、幅204cm、高さ135cmです。また、建物本体のサイズは、長さ40cm、幅145cm、高さ95cmです。"
+        },
+        {
+            "question": "この軒平瓦は何でできていますか？",
+            "answer": "主に土と瓦でできています。"
+        }
+    ],
+    "word_Count": {
+        "text": 118,
+        "QA": 113
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_007633",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-01",
+        "domain": "음식점",
+        "title": "シムヨン ( 마음이머무는곳심연 )"
+    },
+    "text": "シムヨン ( 마음이머무는곳심연 )\n釜山広域市 南区 石浦路27\n様々な韓国料理を味わえる店です。おすすめは鶏肉の水炊きです。釜山広域市のナム区に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "この店は釜山広域市のナム区に位置しています。"
+        },
+        {
+            "question": "この店のおすすめ料理は何ですか？",
+            "answer": "この店のおすすめは鶏肉の水炊きです。"
+        },
+        {
+            "question": "この店ではどのような韓国料理が提供されていますか？",
+            "answer": "この店では様々な韓国料理が提供されています。"
+        },
+        {
+            "question": "この店は何時から営業していますか？",
+            "answer": "この店は営業時間は不明です。"
+        },
+        {
+            "question": "この店は予約が必要ですか？",
+            "answer": "この店での予約については情報がありません。"
+        }
+    ],
+    "word_Count": {
+        "text": 63,
+        "QA": 132
+    }
+}

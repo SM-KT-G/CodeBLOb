@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_011532",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=866&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=01480000&ccbaCtcd=38&ccbaCpno=2333801480000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1995-05-02",
+        "domain": "문화/역사관광",
+        "title": "남명조식 생가지"
+    },
+    "text": "南明朝食生家 (남명조식 생가지)\\n\n慶尚南道陜川郡三佳面外土里488\\n\n慶尚南道記念物 , 朝鮮中期の学者、南明朝食（ナムミョン·チョシク、1501~1572）先生が生まれたところだ。 チョ·シクは慶尚左道の大学者イ·ファンと同じ時代に暮らしながら慶尚右道を代表する儒学者で、彼と双璧を成した。 著書として『南明学期遺編』、『南明集』などがあり、特に義と敬を尊重し、知ることを実践するソンビ精神を強調した。 チョ·シクが亡くなった20年後の宣祖25年(1592)、壬辰倭乱の時には弟子たちであるチョン·インホン、クァク·ジェウなど10人余りが義兵を集めて先生の教えを自ら実践したという。",
+    "QA": [
+        {
+            "question": "南明朝食先生の生まれた場所はどこですか？",
+            "answer": "南明朝食先生は慶尚南道陜川郡三佳面外土里488で生まれました。"
+        },
+        {
+            "question": "南明朝食先生の著書は何ですか？",
+            "answer": "南明朝食先生の著書には『南明学期遺編』や『南明集』があります。"
+        },
+        {
+            "question": "南明朝食先生の教えにはどのような精神が強調されていましたか？",
+            "answer": "南明朝食先生は特に義と敬を尊重し、知ることを実践するソンビ精神を強調していました。"
+        },
+        {
+            "question": "南明朝食先生の弟子たちは何をしたのでしょうか？",
+            "answer": "南明朝食先生が亡くなった後の壬辰倭乱の時には、弟子たちは義兵を集めて先生の教えを実践しました。"
+        }
+    ],
+    "word_Count": {
+        "text": 217,
+        "QA": 174
+    }
+}

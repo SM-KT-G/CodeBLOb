@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_017004",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-05",
+        "domain": "음식점",
+        "title": "鏡浦八道江山 ( 경포팔도강산 )"
+    },
+    "text": "鏡浦八道江山 ( 경포팔도강산 )\\n\n江原道 ガンヌン市 チャンヘロ461\\n\n活魚の刺身とあっさりしたメウンタン(魚の辛味スープ)を24時間味わえる店です。おすすめは活魚の刺身です。江原道のガンヌン市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "この店は韓国の江原道ガンヌン市チャンヘロ461に位置しています。"
+        },
+        {
+            "question": "この店では何が食べられますか？",
+            "answer": "この店では活魚の刺身とあっさりしたメウンタン(魚の辛味スープ)が楽しめます。特におすすめは活魚の刺身です。"
+        },
+        {
+            "question": "この店の営業時間は何時から何時までですか？",
+            "answer": "この店は24時間営業していますので、いつでも楽しむことができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 84,
+        "QA": 122
+    }
+}

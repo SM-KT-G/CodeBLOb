@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_029050",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42040&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "여수 오늘이펜션"
+    },
+    "text": "海のロマンが共にする特別な憩いの場である麗水、今日このペンションは観光地の近くに位置しており、麗水旅行を便利に楽しむことができます。 今日このペンションでは愛する人たちと一緒に幸せな思い出を作ってみてください。 快適な宿泊のために事前にチェックイン時間を確認してください。",
+    "QA": [
+        {
+            "question": "このペンションはどこに位置していますか？",
+            "answer": "当ペンションは観光地の近くに位置しています。"
+        },
+        {
+            "question": "麗水旅行を楽しむために、このペンションは便利ですか？",
+            "answer": "はい、このペンションは麗水旅行を便利に楽しむことができます。"
+        },
+        {
+            "question": "チェックイン時間は何時ですか？",
+            "answer": "快適な宿泊のために事前にチェックイン時間を確認してください。"
+        }
+    ],
+    "word_Count": {
+        "text": 99,
+        "QA": 104
+    }
+}

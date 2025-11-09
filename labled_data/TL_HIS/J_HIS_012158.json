@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_012158",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101971",
+        "collectedDate": "2023-09-07",
+        "publishedDate": "2021-11-25",
+        "domain": "문화/역사관광",
+        "title": "茶聖祠"
+    },
+    "text": "茶聖祠\n茶聖祠（タソンサ）は、茶聖・草衣（チョイ）禅師の銅像が祀られている祠堂で、毎年禅師の誕生日である陰暦4月5日と、禅師が涅槃に入った陰暦8月2日に献茶祭（ホンダジェ／けんちゃさい）と呼ばれる祭祀が行われています。  通常は一般開放されていないため、観覧には事前連絡が必要となります。",
+    "QA": [
+        {
+            "question": "茶聖祠（タソンサ）はどこにありますか？",
+            "answer": "茶聖祠は韓国の江原道洪川郡にあります。"
+        },
+        {
+            "question": "茶聖祠の献茶祭（ホンダジェ）はいつ行われますか？",
+            "answer": "献茶祭は茶聖禅師の誕生日である陰暦4月5日と、禅師が涅槃に入った陰暦8月2日に行われます。"
+        },
+        {
+            "question": "茶聖禅師とはどういう方ですか？",
+            "answer": "茶聖禅師は草衣（チョイ）禅師とも呼ばれ、茶の湯の宗匠として知られています。"
+        },
+        {
+            "question": "茶聖祠は一般開放されていますか？",
+            "answer": "通常は茶聖祠は一般開放されておらず、観覧には事前連絡が必要です。"
+        }
+    ],
+    "word_Count": {
+        "text": 105,
+        "QA": 151
+    }
+}

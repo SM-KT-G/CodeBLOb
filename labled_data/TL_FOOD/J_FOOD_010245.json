@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_010245",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "デウォンガ（대원가）"
+    },
+    "text": "デウォンガ（대원가）\\n\n済州特別自治道 済州市 道南路16キル 15\\n\n済州特別自治道のジェジュ市に位置した韓食です。代表的なメニューはヤリイカ入り冷やしスープです。アワビ料理やタチウオの煮物も有名です。",
+    "QA": [
+        {
+            "question": "デウォンガ（대원가）はどこに位置していますか？",
+            "answer": "デウォンガ（대원가）は済州特別自治道のジェジュ市に位置しています。"
+        },
+        {
+            "question": "デウォンガ（대원가）の代表的なメニューは何ですか？",
+            "answer": "デウォンガ（대원가）の代表的なメニューはヤリイカ入り冷やしスープです。"
+        },
+        {
+            "question": "デウォンガ（대원가）で有名な料理はありますか？",
+            "answer": "デウォンガ（대원가）ではアワビ料理やタチウオの煮物も有名です。"
+        }
+    ],
+    "word_Count": {
+        "text": 76,
+        "QA": 124
+    }
+}

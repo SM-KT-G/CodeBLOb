@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_SHOP_000333",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.ssfshop.com/[BEAKER]-AUTRY/GM0023011036350/good",
+        "collectedDate": "2023-11-13",
+        "publishedDate": "2020-01-01",
+        "domain": "쇼핑",
+        "title": "Medalist Low Sneakers - White"
+    },
+    "text": "[BEAKER] AUTRYは、AUTRYが製造したシグネチャーMEDALISTスニーカーブランドです。 この製品の商品番号はSS23 / QW31K2AY41で、牛革素材を使用して丈夫でクラシックな雰囲気を演出します。 この靴はすっきりとしたホワイトカラーで様々な服装によく似合い、デイリーなスタイリングが可能なアイテムです。 1人当たりの購入数量は2枚に制限されます。 シューの素材は合成ゴムを使ったソールと天然皮革（小）の甲皮です。",
+    "QA": [
+        {
+            "question": "この靴の商品番号は何ですか？",
+            "answer": "SS23 / QW31K2AY41"
+        },
+        {
+            "question": "この靴はどのような素材で作られていますか？",
+            "answer": "この靴のシューの素材は合成ゴムを使ったソールと天然皮革（小）の甲皮です。"
+        },
+        {
+            "question": "この靴はどのような雰囲気を演出しますか？",
+            "answer": "この靴は丈夫でクラシックな雰囲気を演出します。"
+        },
+        {
+            "question": "この靴はどのような服装によく似合いますか？",
+            "answer": "この靴はすっきりとしたホワイトカラーで、様々な服装によく似合います。"
+        },
+        {
+            "question": "この靴の購入数量に制限はありますか？",
+            "answer": "1人当たりの購入数量は2枚に制限されます。"
+        }
+    ],
+    "word_Count": {
+        "text": 160,
+        "QA": 165
+    }
+}

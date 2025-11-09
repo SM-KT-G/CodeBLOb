@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_066249",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/view?relicId=35840111",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "바리"
+    },
+    "text": "バリ (바리)\\n\n国籍/時代: 韓国の朝鮮時代 材質: 白磁の陶磁器 分類: 食生活 - 食器 大きさ: 高さ64cm、身丈142cm、底径57cm、高さ54cm、底径50cm 修正後: この陶磁器は、韓国の朝鮮時代に作られた白磁です。 食生活の一部として使用される食器として分類されます。 サイズは、高さ64cm、身丈142cm、底径57cm、高さ54cm、底径50cmです。",
+    "QA": [
+        {
+            "question": "このバリは何時代の作品ですか？",
+            "answer": "このバリは韓国の朝鮮時代の作品です。"
+        },
+        {
+            "question": "このバリはどのような材質でできていますか？",
+            "answer": "このバリは白磁の陶磁器でできています。"
+        },
+        {
+            "question": "このバリはどのような分類に属しますか？",
+            "answer": "このバリは食生活の一部として使用される食器に分類されます。"
+        },
+        {
+            "question": "このバリのサイズはどれくらいですか？",
+            "answer": "このバリのサイズは高さ64cm、身丈142cm、底径57cm、高さ54cm、底径50cmです。"
+        }
+    ],
+    "word_Count": {
+        "text": 139,
+        "QA": 136
+    }
+}

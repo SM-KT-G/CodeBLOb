@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_005436",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1088&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=01990000&ccbaCtcd=31&ccbaCpno=3413101990000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2021-09-02",
+        "domain": "문화/역사관광",
+        "title": "묘법연화경 권 5~7"
+    },
+    "text": "ミョボビョンファギョン 권 5~7 (묘법연화경 권 5~7)\\n\n京畿道龍仁市\\n\n朝鮮時代 , 京畿道文化財資料 , 龍仁市博物館所蔵の巻5~7は、1443年に華岩寺から刊行された聖達生書本系版本を底本として製作された。巻7末尾の簡記を通じて1575年に敬心が国王の恩恵と亡くなった両親の極楽往生を祈るために1578年に西鳳寺で改版したことが確認される。 しかし、干期から意味する1578年の版本というよりは、その後簡印または翻刻され、既存の数種の版本を底本としたものと見られるが、成達生書本系で顕伝本が多くない瑞鳳寺から簡印されたという点で文化財的価値がある。",
+    "QA": [
+        {
+            "question": "巻5~7は何年に華岩寺から刊行されましたか？",
+            "answer": "巻5~7は1443年に華岩寺から刊行されました。"
+        },
+        {
+            "question": "巻7末尾の簡記によると、何年に西鳳寺で改版されましたか？",
+            "answer": "巻7末尾の簡記によると、1578年に西鳳寺で改版されました。"
+        },
+        {
+            "question": "この版本は何のために1578年に改版されたのですか？",
+            "answer": "この版本は1578年に改版され、敬心が国王の恩恵と亡くなった両親の極楽往生を祈るために製作されました。"
+        },
+        {
+            "question": "この版本はどのような文化財的価値がありますか？",
+            "answer": "この版本は成達生書本系で顕伝本が多くない瑞鳳寺から簡印されたという点で文化財的価値があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 207,
+        "QA": 184
+    }
+}

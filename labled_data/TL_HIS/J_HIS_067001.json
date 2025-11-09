@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_067001",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1111&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=02820000&ccbaCtcd=37&ccbaCpno=3413702820000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1993-11-30",
+        "domain": "문화/역사관광",
+        "title": "백룡사석조여래좌상"
+    },
+    "text": "白竜寺ソクチョヨレジャサン\\n\n慶尚北道栄州市豊基邑水鉄里山17-1番地\\n\n慶尚北道文化財資料、慶尚北道栄州市豊基邑スチョル里の白龍社はもともとジュクリョン床にあったものと、韓国戦争直前に撤去されたが、1952年、再びなった。白龍社の石造如来座像は相手・中隊・下大で構成された台座(臺座)の上に座っているが、現在、下台石はなくなり、ジュンデソクだけが残っている。体の後ろには他の石で用意した船(舟)の形の楕円形光背(光背)がある。上着は両、肩から膝まで覆った服を着、中に着た服は腹部にしわとティメドゥプが刻まれている。光背は蓮華(れんげ)文が刻まれたモリグヮンベと小さな省庁3区、雲の文様、火花模様が刻まれたモムグヮン船で区分される。このような光背の模様は新羅時代の仏像の全盛期を過ぎて現れた様式であり、この仏像は9世紀末に作られたものと推定される。...",
+    "QA": [
+        {
+            "question": "白竜寺ソクチョヨレジャサンはどこにありますか？",
+            "answer": "白竜寺ソクチョヨレジャサンは慶尚北道栄州市豊基邑水鉄里山17-1番地にあります。"
+        },
+        {
+            "question": "白龍社は何のために撤去され、いつ再建されましたか？",
+            "answer": "白龍社は韓国戦争直前に撤去されましたが、1952年に再建されました。"
+        },
+        {
+            "question": "白龍社の石造如来座像はどのような形で構成されていますか？",
+            "answer": "白龍社の石造如来座像は相手・中隊・下大で構成された台座の上に座っています。"
+        },
+        {
+            "question": "白龍社の光背にはどのような模様が刻まれていますか？",
+            "answer": "白龍社の光背には蓮華文が刻まれたモリグヮンベと小さな省庁3区、雲の文様、火花模様が刻まれたモムグヮン船で区分されています。"
+        },
+        {
+            "question": "白龍社の仏像はいつ作られたものと推定されていますか？",
+            "answer": "白龍社の仏像は9世紀末に作られたものと推定されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 277,
+        "QA": 239
+    }
+}

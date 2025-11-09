@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_098169",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/collectionList#######",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2023-10-11",
+        "domain": "문화/역사관광",
+        "title": "자택에서 작곡중인 안익태의 사진"
+    },
+    "text": "自宅で作曲中のアン·イクテの写真 (자택에서 작곡중인 안익태의 사진)\\n\nロリータが自分の手で「Componiendo en la casade Palma」という言葉を写真裏面に書いていたことが記録されています。この写真はヨーロッパのスペインで撮影されたもので、紙でできています。それは他のメディアを使った記録物の一部であり、横88cm、縦6cmの大きさを持っています。",
+    "QA": [
+        {
+            "question": "アン·イクテはどこで作曲中ですか？",
+            "answer": "アン·イクテは自宅で作曲しています。"
+        },
+        {
+            "question": "アン·イクテが何を作曲していますか？",
+            "answer": "アン·イクテはどんな曲を作曲しているのかはわかりませんが、彼の作品は幅広いジャンルにわたることが知られています。"
+        },
+        {
+            "question": "アン·イクテが作曲している写真は何でできていますか？",
+            "answer": "アン·イクテが作曲している写真は紙でできています。"
+        },
+        {
+            "question": "アン·イクテの写真の大きさはどれくらいですか？",
+            "answer": "アン·イクテの写真は横88cm、縦6cmの大きさを持っています。"
+        },
+        {
+            "question": "アン·イクテの写真はどこで撮影されましたか？",
+            "answer": "アン·イクテの写真はヨーロッパのスペインで撮影されました。"
+        },
+        {
+            "question": "アン·イクテの写真裏面に書かれた言葉は何ですか？",
+            "answer": "アン·イクテの写真裏面には「Componiendo en la casade Palma」という言葉が書かれていました。"
+        }
+    ],
+    "word_Count": {
+        "text": 137,
+        "QA": 256
+    }
+}

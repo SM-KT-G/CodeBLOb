@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_020089",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-08-11",
+        "domain": "음식점",
+        "title": "緑園（녹원）"
+    },
+    "text": "緑園（녹원）忠清南道 天安市 東南区 留糧路140\\n\n「緑園（ノグォン）」は20年以上の伝統をもつ韓定食専門店です。大小様々な個室を備えており、還暦祝い、誕生祝い、両家の顔合わせなど、各種イベントにも最適です。",
+    "QA": [
+        {
+            "question": "ノグォンはどの地域にありますか？",
+            "answer": "ノグォンは忠清南道 天安市 東南区 留糧路140にあります。"
+        },
+        {
+            "question": "ノグォンは何を提供していますか？",
+            "answer": "ノグォンは韓定食を提供しています。"
+        },
+        {
+            "question": "ノグォンはどのようなイベントに最適ですか？",
+            "answer": "ノグォンは還暦祝い、誕生祝い、両家の顔合わせなど、各種イベントに最適です。"
+        },
+        {
+            "question": "ノグォンはどれくらいの伝統を持っていますか？",
+            "answer": "ノグォンは20年以上の伝統を持っています。"
+        },
+        {
+            "question": "ノグォンは何種類の個室を用意していますか？",
+            "answer": "ノグォンは大小様々な個室を用意しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 77,
+        "QA": 162
+    }
+}

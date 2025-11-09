@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_102416",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1250&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=79&ccbaAsno=06860000&ccbaCtcd=11&ccbaCpno=4411106860000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2017-05-29",
+        "domain": "문화/역사관광",
+        "title": "조선요리제법"
+    },
+    "text": "朝鮮料理の製法\\n\nソウル特別市城北区安岩路145(安岩洞5街、高麗大学校安岩キャンパス)ジャン·ジャン\\n\n1917年、国の登録文化財、当時、梨花(イファ)女子専門学校カサグヮ教授だったバンシンヨン(1890~1977)が1917年に書いた\"朝鮮料理、なかなかの\"は口伝につながった韓国の伝統食べ物の製造法を体系的に完成した料理書だ。材料の分量を計量化して紹介するなどチョリ科学の発展と大衆化に貢献したという評価を受けている。初版本であるために、朝鮮を過ぎて近代機の調理法の変化を知らせてくれる史料的価値もある。",
+    "QA": [
+        {
+            "question": "朝鮮料理の製法は誰によって体系的に完成されましたか？",
+            "answer": "バンシンヨンによって体系的に完成されました。"
+        },
+        {
+            "question": "朝鮮料理の製法の初版本は何年に書かれましたか？",
+            "answer": "初版本は1917年に書かれました。"
+        },
+        {
+            "question": "朝鮮料理の製法の初版本はどのような評価を受けていますか？",
+            "answer": "材料の分量を計量化して紹介するなどチョリ科学の発展と大衆化に貢献したという評価を受けています。"
+        },
+        {
+            "question": "朝鮮料理の製法の初版本にはどのような史料的価値がありますか？",
+            "answer": "朝鮮を過ぎて近代機の調理法の変化を知らせてくれる史料的価値があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 188,
+        "QA": 167
+    }
+}

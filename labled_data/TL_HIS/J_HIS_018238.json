@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_018238",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=32&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=00190000&ccbaCtcd=34&ccbaCpno=1123400190000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1963-01-21",
+        "domain": "문화/역사관광",
+        "title": "보령 성주사지 오층석탑"
+    },
+    "text": "保寧 聖住寺址五重石塔 (보령 성주사지 오층석탑)\\n\n忠清南道保寧市星州面星州里73番地\\n\n統一新羅時代 , 宝物 , 聖住寺は『三国史記』に出てくる百済の法王の時に創建した烏合寺がこの寺だったといい、統一新羅の文聖王の代に唐から帰ってきた浪恵和尚がこの寺の住職になって繁盛させると、王が「聖住寺」という名前を下したという。 壬辰倭乱の時に焼け、現在は寺跡だけが残っている。 この寺の金堂跡と見えるところの前に立っており、後ろに3層石塔3基が並んで立っているが、互いに階数が違うだけで作った腕前は似ている。 塔は2段の基壇の上に5階の塔身を上げた姿だ。 基壇は各面ごとに角と中央に柱の形を刻んであり、基壇の上には塔身を支えるための平らな石を別に挟んでおいた。 塔身は体石と屋根石がそれぞれ一つの石になっており、各面の角に柱の形を刻んだ。 屋根石は底面に4段の支えを置き、醜女の下は水平を成し、上に少し上げた。 全体的には統一新羅時代の塔の典型的な姿だが、1階建ての石の下に怪任石を別に挟んでおいたのは高麗石塔につながる新しい形式であり、統一新羅後期に建てられたものと推定される。 各層の構成が組まれて優雅な姿だ。",
+    "QA": [
+        {
+            "question": "この五重石塔はどの時代に建てられましたか？",
+            "answer": "統一新羅時代に建てられました。"
+        },
+        {
+            "question": "この寺はどのようにして繁盛しましたか？",
+            "answer": "浪恵和尚がこの寺の住職になって繁盛させました。"
+        },
+        {
+            "question": "この寺の名前は何ですか？",
+            "answer": "王が「聖住寺」という名前を下しました。"
+        },
+        {
+            "question": "この寺は何によって焼失しましたか？",
+            "answer": "壬辰倭乱の時に焼失しました。"
+        },
+        {
+            "question": "この五重石塔はどのように構成されていますか？",
+            "answer": "基壇の上に5階の塔身を上げた姿です。"
+        },
+        {
+            "question": "この五重石塔はどのような形式で建てられましたか？",
+            "answer": "塔は2段の基壇の上に5階の塔身を上げた形式です。"
+        }
+    ],
+    "word_Count": {
+        "text": 373,
+        "QA": 167
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_025850",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "笠巌洞イロンマセオンダ ( 입암동이런맛에온다 )"
+    },
+    "text": "笠巌洞イロンマセオンダ ( 입암동이런맛에온다 )\\n\n江原道 ガンヌン市 イブアムロ148ボンギル4-1\\n\n豚の特殊部位を焼いて食べる店です。江原道のガンヌン市に位置した韓食専門店です。おすすめは特殊部位です。",
+    "QA": [
+        {
+            "question": "このお店はどこにありますか？",
+            "answer": "このお店は江原道ガンヌン市イブアムロ148ボンギル4-1にあります。"
+        },
+        {
+            "question": "このお店のおすすめは何ですか？",
+            "answer": "このお店のおすすめは特殊部位です。"
+        },
+        {
+            "question": "このお店で食べられる料理はどのようなものですか？",
+            "answer": "このお店では豚の特殊部位を焼いて食べる料理が人気です。"
+        },
+        {
+            "question": "このお店の営業時間は何時から何時までですか？",
+            "answer": "このお店の営業時間は〇〇時から〇〇時までです。"
+        },
+        {
+            "question": "このお店の電話番号は何ですか？",
+            "answer": "申し訳ありませんが、お店の電話番号は提供されていません。"
+        }
+    ],
+    "word_Count": {
+        "text": 78,
+        "QA": 160
+    }
+}

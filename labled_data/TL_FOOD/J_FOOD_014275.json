@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_014275",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-13",
+        "domain": "음식점",
+        "title": "ミレニアム安東チムダク( 밀레니엄안동찜닭 )"
+    },
+    "text": "ミレニアム安東チムダク\\n\n慶尚北道 アンドン市 ボンヨンギル9\\n\n鶏肉に各種の野菜と醤油タレを加えて煮詰めた料理です。おすすめはチムダクです。慶尚北道のアンドン市に位置した韓国料理店です。",
+    "QA": [
+        {
+            "question": "ミレニアム安東チムダクはどんな料理ですか？",
+            "answer": "ミレニアム安東チムダクは鶏肉に各種の野菜と醤油タレを加えて煮詰めた料理です。"
+        },
+        {
+            "question": "ミレニアム安東チムダクのおすすめは何ですか？",
+            "answer": "ミレニアム安東チムダクがおすすめです。"
+        },
+        {
+            "question": "ミレニアム安東チムダクはどこの地域の料理ですか？",
+            "answer": "ミレニアム安東チムダクは慶尚北道のアンドン市の料理です。"
+        }
+    ],
+    "word_Count": {
+        "text": 70,
+        "QA": 111
+    }
+}

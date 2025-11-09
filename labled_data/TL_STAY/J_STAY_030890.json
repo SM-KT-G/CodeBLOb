@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_030890",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42090&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "더큐브 리조트 제주 운영 정책"
+    },
+    "text": "チェックインは午後3時に指定されており、チェックアウトは午前11時です。 歯ブラシと歯磨き粉は提供しておりません。 しかし、無料Wi-Fiが提供されます。 追加費用はすべて現場でお支払いいただく必要があります。 フロントの営業時間は午前7時から午後11時までとなっております。 IH調理器、調理器具、皿、キッチン器具及び洗剤が提供され、その利用には10,000ウォンの費用が発生します。",
+    "QA": [
+        {
+            "question": "チェックインとチェックアウトの時間は何時ですか？",
+            "answer": "チェックインは午後3時に指定されており、チェックアウトは午前11時です。"
+        },
+        {
+            "question": "歯ブラシと歯磨き粉は提供されますか？",
+            "answer": "歯ブラシと歯磨き粉は提供しておりません。"
+        },
+        {
+            "question": "無料Wi-Fiは利用できますか？",
+            "answer": "はい、無料Wi-Fiが提供されます。"
+        },
+        {
+            "question": "追加費用はどのように支払う必要がありますか？",
+            "answer": "追加費用はすべて現場でお支払いいただく必要があります。"
+        },
+        {
+            "question": "フロントの営業時間は何時から何時までですか？",
+            "answer": "フロントの営業時間は午前7時から午後11時までとなっております。"
+        },
+        {
+            "question": "キッチン器具は利用できますか？",
+            "answer": "はい、IH調理器、調理器具、皿、キッチン器具及び洗剤が提供され、その利用には10,000ウォンの費用が発生します。"
+        }
+    ],
+    "word_Count": {
+        "text": 141,
+        "QA": 225
+    }
+}

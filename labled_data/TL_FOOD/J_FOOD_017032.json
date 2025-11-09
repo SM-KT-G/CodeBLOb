@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_017032",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-01",
+        "domain": "음식점",
+        "title": "鶏林ヨンちゃんぽん ( 계림용짬뽕 )"
+    },
+    "text": "鶏林ヨンちゃんぽん \n慶尚北道 安東市 テサキル 24\n地元の人々の行きつけの店です。作り置きせず、注文を受けてから調理をはじめます。 慶尚北道のに位置した中華専門店です。代表的なメニューは海鮮ちゃんぽんです。",
+    "QA": [
+        {
+            "question": "鶏林ヨンちゃんぽんはどこの地域にありますか？",
+            "answer": "鶏林ヨンちゃんぽんは慶尚北道の安東市に位置しています。"
+        },
+        {
+            "question": "鶏林ヨンちゃんぽんの特徴は何ですか？",
+            "answer": "鶏林ヨンちゃんぽんは作り置きせず、注文を受けてから調理を始めることが特徴です。"
+        },
+        {
+            "question": "鶏林ヨンちゃんぽんの代表的なメニューは何ですか？",
+            "answer": "鶏林ヨンちゃんぽんの代表的なメニューは海鮮ちゃんぽんです。"
+        }
+    ],
+    "word_Count": {
+        "text": 77,
+        "QA": 116
+    }
+}

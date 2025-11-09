@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_001156",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42021&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "부산 광안리 넘버25 광안점"
+    },
+    "text": "2020年8月1日、広安店として新しくオープンしたNo.25HOTELです。 当ホテルは、全客室で提供される羽毛布団とラテックスマットレスで、より快適な休息を楽しむことができるよう努力しています。 入室基準と追加人数に対する追加料金に関しては、当日現地にてご確認ください。 オンシーズン、特定日、祝日を含む日には料金の変動がある場合があります。 入室の際には身分証明書を確認し、満19歳未満の未成年者は入室制限されます(身分証明書を必ず持参してください)。 親切にお答えします！",
+    "QA": [
+        {
+            "question": "No.25HOTELはいつオープンしましたか？",
+            "answer": "No.25HOTELは2020年8月1日にオープンしました。"
+        },
+        {
+            "question": "No.25HOTELの客室で提供される布団とマットレスについて教えてください。",
+            "answer": "No.25HOTELでは、全客室で羽毛布団とラテックスマットレスを提供しています。これにより、より快適な休息を楽しむことができます。"
+        },
+        {
+            "question": "No.25HOTELの入室基準について教えてください。",
+            "answer": "No.25HOTELの入室基準については、当日現地にてご確認ください。"
+        },
+        {
+            "question": "No.25HOTELでは追加人数に対して追加料金がかかりますか？",
+            "answer": "No.25HOTELでは追加人数に対しては追加料金がかかる場合があります。詳細は当日現地にてご確認ください。"
+        },
+        {
+            "question": "No.25HOTELの料金は季節や特定の日によって変動しますか？",
+            "answer": "No.25HOTELの料金はオンシーズン、特定日、祝日を含む日によって変動する場合があります。詳細は当日現地にてご確認ください。"
+        },
+        {
+            "question": "No.25HOTELの入室制限について教えてください。",
+            "answer": "No.25HOTELの入室制限については、満19歳未満の未成年者は入室制限されます。入室時には必ず身分証明書を持参してください。"
+        }
+    ],
+    "word_Count": {
+        "text": 175,
+        "QA": 361
+    }
+}

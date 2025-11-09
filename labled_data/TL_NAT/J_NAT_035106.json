@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_035106",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2022-11-11",
+        "domain": "자연관광",
+        "title": "새천년기념관"
+    },
+    "text": "2000年国家指定の日の出イベントを記念して\"迎日湾ルネッサンス\"という新しい千年浦項の夢と希望を実現するために建立された新千年記念館を通じて浦項市民の自負心を鼓吹させて、ホミ岬の新しいランドマークとして国内外の観光客たちに観光名所として位置づけられる。",
+    "QA": [
+        {
+            "question": "この新しい千年記念館は何を記念して建立されましたか？",
+            "answer": "2000年国家指定の日の出イベントを記念して建立されました。"
+        },
+        {
+            "question": "新千年記念館を通じて浦項市民に何を鼓吹させることが期待されていますか？",
+            "answer": "浦項市民の自負心を鼓吹させることが期待されています。"
+        },
+        {
+            "question": "この記念館は国内外の観光客たちに何として位置づけられる見込みですか？",
+            "answer": "ホミ岬の新しいランドマークとして位置づけられ、観光名所として位置づけられる見込みです。"
+        }
+    ],
+    "word_Count": {
+        "text": 93,
+        "QA": 142
+    }
+}

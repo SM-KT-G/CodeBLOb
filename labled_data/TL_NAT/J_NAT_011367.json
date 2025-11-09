@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_011367",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=840&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=00970000&ccbaCtcd=34&ccbaCpno=2333400970000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1995-03-06",
+        "domain": "자연관광",
+        "title": "서천장암진성"
+    },
+    "text": "西天長岩鎮性 (서천장암진성)\\n\n忠清南道舒川郡長項邑長岩里山1-1番地の他20筆\\n\n忠清南道記念物 , 忠清南道舒川郡の長岩鎮城は海抜90.1mの後望山の南西端にあり、山城というよりは平地にある平地城に近い。 城壁の周囲は640mで東·西190m、南·北100mで歴史橋形に近い形で、南壁と北壁にそれぞれ1つずつの門跡がある。 東壁から5~7m程度離れたところに幅4m、深さ1.2m程度で周辺に溝を回した堀があり、西壁は日帝時代にほとんど取り壊され形がよく残っていない。 長岩鎮城は高麗時代に呼ばれた名前であり、朝鮮時代には舒川浦邑城、舒川浦鎮城と呼ばれたというが、『新増』によると朝鮮中宗9年(1514)に完成したという。",
+    "QA": [
+        {
+            "question": "長岩鎮城はどのような場所にありますか？",
+            "answer": "長岩鎮城は海抜90.1mの後望山の南西端にあります。"
+        },
+        {
+            "question": "長岩鎮城の周囲の城壁の長さは何メートルですか？",
+            "answer": "長岩鎮城の城壁の周囲は640メートルです。"
+        },
+        {
+            "question": "長岩鎮城の形状はどのようなものですか？",
+            "answer": "長岩鎮城は歴史橋形に近い形状で、平地城に近いと言えます。"
+        },
+        {
+            "question": "長岩鎮城の東壁と西壁には何がありますか？",
+            "answer": "長岩鎮城の東壁には1つの門跡があり、西壁は日帝時代にほとんど取り壊されています。"
+        },
+        {
+            "question": "長岩鎮城はいつ完成されたのですか？",
+            "answer": "長岩鎮城は朝鮮中宗9年(1514)に完成されました。"
+        }
+    ],
+    "word_Count": {
+        "text": 231,
+        "QA": 175
+    }
+}

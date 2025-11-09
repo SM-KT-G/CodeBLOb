@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_026109",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42030&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "경주 마리안느펜션"
+    },
+    "text": "自分だけの特別な旅行を計画しているなら、慶州市河東に位置するマリアンヌペンションをお勧めします。 ここは大切な記憶を作ることができる特別な空間に皆さんを招待します。 マリアンヌでは忘れられない幸せな思い出を作ることができます。 そして、特別なサービスを提供するためのお知らせをお知らせします。 もし22時以降に入室される場合は、あらかじめペンションまでご連絡ください。 そうすることで、より快適な旅行を楽しむことができます。",
+    "QA": [
+        {
+            "question": "マリアンヌペンションはどこに位置していますか？",
+            "answer": "マリアンヌペンションは慶州市河東に位置しています。"
+        },
+        {
+            "question": "マリアンヌペンションではどんな思い出を作ることができますか？",
+            "answer": "マリアンヌペンションでは忘れられない幸せな思い出を作ることができます。"
+        },
+        {
+            "question": "22時以降に入室する場合はどうすればいいですか？",
+            "answer": "22時以降に入室する場合は、あらかじめペンションまでご連絡ください。"
+        },
+        {
+            "question": "どうすればより快適な旅行を楽しむことができますか？",
+            "answer": "より快適な旅行を楽しむためには、22時以降に入室する場合は事前にペンションに連絡することがおすすめです。"
+        }
+    ],
+    "word_Count": {
+        "text": 155,
+        "QA": 181
+    }
+}

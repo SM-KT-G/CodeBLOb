@@ -1,0 +1,59 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_033621",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://kr.hotels.com/ho1183698144/eondeog-wie-hayanjib-jinju-hangug/?chkin=2023-11-14&chkout=2023-11-15&x_pwa=1&rfrr=HSR&pwa_ts=1698981067890&referrerUrl=aHR0cHM6Ly9rci5ob3RlbHMuY29tL0hvdGVsLVNlYXJjaA%3D%3D&useRewards=false&rm1=a2&regionId=1467&destination=%EC%A7%84%EC%A3%BC%2C+%EA%B2%BD%EC%83%81%EB%82%A8%EB%8F%84%2C+%ED%95%9C%EA%B5%AD&destType=MARKET&latLong=35.179487%2C128.106984&sort=RECOMMENDED&top_dp=90909&top_cur=KRW&userIntent=&selectedRoomType=217527110&selectedRatePlan=270115139&expediaPropertyId=36959317&searchId=f8e65b49-7d8f-49c1-bded-1f4e2545dd3f",
+        "collectedDate": "2023-11-15",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "언덕위에 하얀집"
+    },
+    "text": "丘の上に位置するホワイトハウスフパーキングの無料特典を提供しています。コンドミニアム内には簡易キッチンと薄型テレビが備わっています。チェックインは14:00から可能で、チェックアウトは11:00です。 また、旅行に関する制限事項として、COVID-19関連の制約を確認する必要があります。 特別なチェックインの注意事項として、到着時にフロントデスクのスタッフがお手伝いします。チェックインの際、付帯費用に備えてクレジットカード、デビットカード、または現金でのデポジットが必要で、政府発行の身分証明書には写真が添付されている必要があります。チェックインは18歳から可能で、ペットの同伴はできません。無料WiFiをご利用いただけます。",
+    "QA": [
+        {
+            "question": "ホワイトハウスフパーキングの位置はどこですか？",
+            "answer": "ホワイトハウスフパーキングは丘の上に位置しています。"
+        },
+        {
+            "question": "ホワイトハウスフパーキングの特典は何ですか？",
+            "answer": "ホワイトハウスフパーキングでは無料特典を提供しています。"
+        },
+        {
+            "question": "チェックインとチェックアウトの時間は何時ですか？",
+            "answer": "チェックインは14:00から可能で、チェックアウトは11:00です。"
+        },
+        {
+            "question": "COVID-19に関連する制約はありますか？",
+            "answer": "旅行に関する制限事項として、COVID-19関連の制約を確認する必要があります。"
+        },
+        {
+            "question": "特別なチェックインの注意事項はありますか？",
+            "answer": "特別なチェックインの注意事項として、到着時にフロントデスクのスタッフがお手伝いします。"
+        },
+        {
+            "question": "チェックインには何を持っていけばいいですか？",
+            "answer": "チェックインの際、付帯費用に備えてクレジットカード、デビットカード、または現金でのデポジットが必要で、政府発行の身分証明書には写真が添付されている必要があります。"
+        },
+        {
+            "question": "何歳からチェックインできますか？",
+            "answer": "チェックインは18歳から可能です。"
+        },
+        {
+            "question": "ペットを連れていくことはできますか？",
+            "answer": "ペットの同伴はできません。"
+        },
+        {
+            "question": "無料WiFiを利用することができますか？",
+            "answer": "はい、無料WiFiをご利用いただけます。"
+        }
+    ],
+    "word_Count": {
+        "text": 231,
+        "QA": 359
+    }
+}

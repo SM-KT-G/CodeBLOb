@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_009883",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42010&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "양주 HOTEL Black 운영 정책"
+    },
+    "text": "チェックインは18:00に可能で、チェックアウトは12:00に行われます。 チェックインとチェックアウトのご案内は以下の通りです。 入室利用に関する詳しい案内は以下の通りです。 ご予約のお客様はブラックホテルの左側に位置する駐車ビルであるドリームワールド駐車場をご利用いただけます(LJ駐車場)。 また、ホテル1階に位置する商店街駐車場を利用することもできます。",
+    "QA": [
+        {
+            "question": "チェックインは何時から可能ですか？",
+            "answer": "チェックインは18:00から可能です。"
+        },
+        {
+            "question": "チェックアウトは何時までに行われますか？",
+            "answer": "チェックアウトは12:00まで行われます。"
+        },
+        {
+            "question": "入室利用に関する詳しい案内はどこで受けられますか？",
+            "answer": "詳しい案内は以下の通りです。"
+        },
+        {
+            "question": "ご予約のお客様はどの駐車場を利用できますか？",
+            "answer": "ご予約のお客様はドリームワールド駐車場(通称：LJ駐車場)を利用できます。"
+        },
+        {
+            "question": "ホテル1階にある商店街駐車場を利用することはできますか？",
+            "answer": "はい、商店街駐車場も利用することができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 132,
+        "QA": 165
+    }
+}

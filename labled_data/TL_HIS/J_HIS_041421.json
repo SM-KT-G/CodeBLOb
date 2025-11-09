@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_041421",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/collectionList#######",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "Korea and Her Neighbor`s"
+    },
+    "text": "Korea and Her Neighbor`s (Korea and Her Neighbor`s)\\n\n国籍/時代: アメリカ合衆国 - アメリカ 材質: 紙 作家: Isabella B Bishop 分類: 文化芸術 - 文献 - 文学 - 日記/紀行 大きさ: 横15cm、縦21cm この文献は、アメリカの作家、Isabella B Bishopによるもので、文化芸術の一環として日記や紀行を扱っています。 また、この文書のサイズは横15cm、縦21cmです。",
+    "QA": [
+        {
+            "question": "この文書はどの作家によって書かれましたか？",
+            "answer": "Isabella B Bishopによって書かれました。"
+        },
+        {
+            "question": "この文書はどの国籍の作家によって書かれましたか？",
+            "answer": "アメリカの作家によって書かれました。"
+        },
+        {
+            "question": "この文書はどのようなジャンルの文学ですか？",
+            "answer": "日記や紀行としての文学です。"
+        },
+        {
+            "question": "この文書のサイズは何cmですか？",
+            "answer": "横15cm、縦21cmです。"
+        },
+        {
+            "question": "この文書はどのような内容を扱っていますか？",
+            "answer": "韓国とその隣国についての内容を扱っています。"
+        }
+    ],
+    "word_Count": {
+        "text": 173,
+        "QA": 145
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_114873",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=477&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=01340000&ccbaCtcd=33&ccbaCpno=2113301340000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1983-11-30",
+        "domain": "문화/역사관광",
+        "title": "청주 운천동 신라사적비"
+    },
+    "text": "清州雲川洞新羅史跡碑\\n\n忠清北道清州市上党区明岩路143(ミョンアムドン、ジャンアムドン)\\n\n雨の規模は高さ95センチ、幅92㎝で、四角い形だ。1982年に発見されるまで雲泉洞サンジク村の共同ウムルトで洗濯石で使用されたが、そのせいに字がたくさんなくなっている。碑文はブクチョプンの楷書体で刻み、雨の大きさに比べて字が大きい。雨に''手工2年''の中国の年号がとって統一新羅時代の神文王6年(686)にこの碑を建てたことを知ることができる。統一新羅時代当時、清州地域が行政、軍事、文化的に重要な場所イヨッウムを見せている資料だ。...",
+    "QA": [
+        {
+            "question": "この碑文が発見された場所はどこですか？",
+            "answer": "雲泉洞サンジク村"
+        },
+        {
+            "question": "碑文が発見された年はいつですか？",
+            "answer": "1982年"
+        },
+        {
+            "question": "碑文に刻まれた文字は何ですか？",
+            "answer": "ブクチョプンの楷書体"
+        },
+        {
+            "question": "この碑文にはどんな年号が刻まれていますか？",
+            "answer": "「手工2年」の中国の年号"
+        },
+        {
+            "question": "この碑文を建てた時期はいつですか？",
+            "answer": "統一新羅時代の神文王6年(686)"
+        },
+        {
+            "question": "この碑文が示す資料は何ですか？",
+            "answer": "統一新羅時代当時、清州地域が行政、軍事、文化的に重要な場所であったことを示す資料"
+        }
+    ],
+    "word_Count": {
+        "text": 197,
+        "QA": 143
+    }
+}

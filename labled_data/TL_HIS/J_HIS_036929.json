@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_036929",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1226&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=79&ccbaAsno=04330000&ccbaCtcd=32&ccbaCpno=4411104330000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2009-04-22",
+        "domain": "문화/역사관광",
+        "title": "음향인자전신기"
+    },
+    "text": "音響印字電信機 (음향인자전신기)\\n\n江原道原州市杏丘徳峴キル109(杏丘洞、KTリーダーシップアカデミー)史料保管所\\n\n1955年、国家登録文化財、1955年、日本充電器工業株式会社(OKI)で製作された音響因子兼用電信機で、電気の流れを利用して文字情報を符号化し、交信に利用される。 電話局、郵便局で電報送受信用に使用し、特に通信会社の通信技量評価時に主に使われていたモールス符号(Morse Code)送受信機器として印刷電信機(TTY)が導入されるまで使われる。",
+    "QA": [
+        {
+            "question": "この音響印字電信機はいつ、どこで作られましたか？",
+            "answer": "1955年、日本充電器工業株式会社(OKI)で製作され、江原道原州市杏丘徳峴キル109(杏丘洞、KTリーダーシップアカデミー)史料保管所にあります。"
+        },
+        {
+            "question": "この音響印字電信機はどのように使われていましたか？",
+            "answer": "電話局や郵便局で電報の送受信に使用され、特に通信会社の通信技量評価時に使われていました。モールス符号(Morse Code)送受信機器としても利用されていました。"
+        },
+        {
+            "question": "この音響印字電信機は何を利用して文字情報を符号化していましたか？",
+            "answer": "電気の流れを利用して文字情報を符号化していました。"
+        },
+        {
+            "question": "音響印字電信機はいつまで使われていましたか？",
+            "answer": "印刷電信機(TTY)が導入されるまで使われていました。"
+        }
+    ],
+    "word_Count": {
+        "text": 173,
+        "QA": 227
+    }
+}

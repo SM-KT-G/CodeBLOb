@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_004744",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42080&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "속초 버드아일랜드펜션"
+    },
+    "text": "こんにちは。束草バードアイランドペンションです。 束草海水浴場の近くに位置する当ペンションは、全客室でオーシャンビューを楽しむことができ、青い海が鑑賞できます。 ヒーリングをご希望の方にお勧めです。 そして到着時間が22時以降と予想される場合は、事前にご連絡ください。",
+    "QA": [
+        {
+            "question": "束草バードアイランドペンションはどこに位置していますか？",
+            "answer": "束草バードアイランドペンションは束草海水浴場の近くに位置しています。"
+        },
+        {
+            "question": "束草バードアイランドペンションの客室からは何が見えますか？",
+            "answer": "束草バードアイランドペンションの全客室からはオーシャンビュー（青い海）が見えます。"
+        },
+        {
+            "question": "束草バードアイランドペンションはどのような方にお勧めですか？",
+            "answer": "束草バードアイランドペンションはヒーリングをご希望の方にお勧めです。"
+        },
+        {
+            "question": "到着時間が22時以降の場合は何をすればいいですか？",
+            "answer": "到着時間が22時以降と予想される場合は、事前にご連絡ください。"
+        }
+    ],
+    "word_Count": {
+        "text": 98,
+        "QA": 184
+    }
+}

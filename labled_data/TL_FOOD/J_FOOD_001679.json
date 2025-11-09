@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001679",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/ganga-gangnam-branch",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "Ganga"
+    },
+    "text": "Ganga\\n\nソウル特別市 瑞草区 瑞草大路74キル11\\n\n「Ganga（ガンガー）」はインド大陸北部を流れるガンジス川を神格化した女神を意味するインド語に因んだ店名で、正統派インド料理レストランです。人気メニューはインド伝統の香辛料を漬け込んだ鶏肉を壷窯で焼き上げたタンドリーチキンと、同じく壷窯で焼き上げた香ばしいナン、そして新鮮なトマトやクリーム、チーズを入れて作ったマイルドな味のチキンマクニなどです。インドの強い香辛料が苦手な方にはパラクパニール（ホウレンソとチーズのカレー）、チキンマクニ、ビーフドピアザ、タンドリーチキン、タンドリープローンがお勧めです。",
+    "QA": [
+        {
+            "question": "Gangaの所在地はどこですか？",
+            "answer": "Gangaはソウル特別市瑞草区瑞草大路74キル11にあります。"
+        },
+        {
+            "question": "Gangaの店名の由来は何ですか？",
+            "answer": "Gangaという店名は、インド語でガンジス川を神格化した女神を意味します。"
+        },
+        {
+            "question": "Gangaの人気メニューは何ですか？",
+            "answer": "Gangaの人気メニューはタンドリーチキンやナン、チキンマクニなどです。"
+        },
+        {
+            "question": "Gangaでお勧めのメニューはありますか？",
+            "answer": "Gangaでお勧めのメニューはパラクパニール、チキンマクニ、ビーフドピアザ、タンドリーチキン、タンドリープローンです。"
+        },
+        {
+            "question": "Gangaの料理は辛いですか？",
+            "answer": "Gangaの料理は、一部のメニューを除いて辛さを調整することができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 209,
+        "QA": 209
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_025526",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1180&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=06360000&ccbaCtcd=37&ccbaCpno=3413706360000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2015-12-28",
+        "domain": "문화/역사관광",
+        "title": "영주 안양원 독성탱화 및 신중탱화"
+    },
+    "text": "栄州安養院毒性幀画及び神衆幀画 (영주 안양원 독성탱화 및 신중탱화)\\n\n慶尚北道栄州市\\n\n慶尚北道文化財資料 , 安養院所蔵の独聖幀画は嘉慶17年(1812)に造成された仏画で、図像の着衣、経床の配置などから朝鮮19世紀の高僧真影と類似した表現を垣間見ることができ、背景の奇岩と老松を背景に慶尚に寄りかかって遠くを凝視する独聖の姿、画面の色彩駆使と表現が安定感をもって駆使された作品性が目立つ。 その上、造成時期が明確な毒性度という点で価値がある。神衆幀画は光武10年(1906)に製作された仏画で、画面状態が良好で彩色仏画とは異なる線描仏画だが、部分的に黄色と白線を使用して処理した。 図像の構成も伝統的な慎重度とは差を見せており、歓月堂尚休が単独で造成した仏画だ。",
+    "QA": [
+        {
+            "question": "栄州安養院毒性幀画はいつ造成された仏画ですか？",
+            "answer": "栄州安養院毒性幀画は嘉慶17年(1812)に造成されました。"
+        },
+        {
+            "question": "栄州安養院毒性幀画にはどのような特徴がありますか？",
+            "answer": "栄州安養院毒性幀画には、朝鮮19世紀の高僧真影と類似した表現が見られます。背景には奇岩と老松が描かれ、慶尚地方を背景にした独聖の姿があります。また、色彩と表現が安定感を持った作品性が特徴です。"
+        },
+        {
+            "question": "神衆幀画はいつ製作された仏画ですか？",
+            "answer": "神衆幀画は光武10年(1906)に製作されました。"
+        },
+        {
+            "question": "神衆幀画にはどのような特徴がありますか？",
+            "answer": "神衆幀画は、彩色仏画とは異なる線描仏画で、部分的に黄色と白線を使用して処理されています。伝統的な構成とは異なり、歓月堂尚休が単独で造成した作品です。"
+        }
+    ],
+    "word_Count": {
+        "text": 247,
+        "QA": 228
+    }
+}

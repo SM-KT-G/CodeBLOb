@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_030575",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2023-06-30",
+        "domain": "자연관광",
+        "title": "남호해수욕장"
+    },
+    "text": "モレギョル美しい白浜が1kmの海岸線に沿って長く続いていて、雰囲気が落ち着いた海水浴場だ。水深は1.5m前後に傾斜が緩やかで家族避暑地として最適だ。三思海上公園と江口港に近くて各種便宜施設の利用が便利で、7番国道沿いにおいて訪ねやすい。",
+    "QA": [
+        {
+            "question": "白浜の海水浴場はどれくらいの長さですか？",
+            "answer": "1kmです。"
+        },
+        {
+            "question": "海水浴場の水深はどれくらいですか？",
+            "answer": "1.5m前後です。"
+        },
+        {
+            "question": "白浜周辺にある公園や港はどちらに近いですか？",
+            "answer": "三思海上公園と江口港に近いです。"
+        },
+        {
+            "question": "白浜にはどの国道沿いに位置していますか？",
+            "answer": "7番国道沿いに位置しています。"
+        },
+        {
+            "question": "白浜の海水浴場の雰囲気はどのような特徴がありますか？",
+            "answer": "雰囲気が落ち着いていて、家族に最適な海水浴場です。"
+        }
+    ],
+    "word_Count": {
+        "text": 86,
+        "QA": 129
+    }
+}

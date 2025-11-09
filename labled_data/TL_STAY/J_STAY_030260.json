@@ -1,0 +1,51 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_030260",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42091&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "파빌라 호텔 울산 영남알프스점"
+    },
+    "text": "パビラはパーティールームと客室がある所で、パビラ嶺南アルプス店に位置しています。 登億温泉団地に位置するここは、良い水と空気で有名な地域です。 ここではパビラを体験することができますが、2階にはパーティールーム、3階には客室があります。 地下には鉱泉水が提供され、快適で快適な環境で休息とともにパーティーを楽しむことができます。",
+    "QA": [
+        {
+            "question": "パビラはどこに位置していますか？",
+            "answer": "パビラはパーティールームと客室がある所で、パビラ嶺南アルプス店に位置しています。"
+        },
+        {
+            "question": "パビラ嶺南アルプス店はどのような地域に位置していますか？",
+            "answer": "パビラ嶺南アルプス店は良い水と空気で有名な地域である登億温泉団地に位置しています。"
+        },
+        {
+            "question": "パビラでは何を体験することができますか？",
+            "answer": "パビラではパーティールームや客室を利用することができます。"
+        },
+        {
+            "question": "パーティールームはどこにありますか？",
+            "answer": "パーティールームは2階にあります。"
+        },
+        {
+            "question": "客室はどこにありますか？",
+            "answer": "客室は3階にあります。"
+        },
+        {
+            "question": "地下では何が提供されますか？",
+            "answer": "地下では鉱泉水が提供されます。"
+        },
+        {
+            "question": "パーティールームで何を楽しむことができますか？",
+            "answer": "パーティールームで快適で快適な環境で休息とともにパーティーを楽しむことができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 120,
+        "QA": 238
+    }
+}

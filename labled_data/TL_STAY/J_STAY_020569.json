@@ -1,0 +1,63 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_020569",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.booking.com/hotel/kr/daegu-seongseo-billion-western.ko.html",
+        "collectedDate": "2023-11-17",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "Daegu Billion Western Hotel"
+    },
+    "text": "大邱に位置するDaegu Billion Western Hotelは無料Wi-Fiと無料専用駐車場を提供しています。 このホテルはイーワールドから約8.9km離れており、3つ星クラスに分類される宿で、24時間フロントデスクが運営されています。 ホテルの客室からは都市の眺めが鑑賞でき、それぞれの客室にはクローゼットをはじめとする設備が完備されています。 すべての宿泊オプションには専用バスルーム、ウォッシュレット、無料の洗面用具、薄型TV、エアコンなどが提供され、一部の客室には休憩スペースも用意されています。 客室には机とやかんも備えられています。 ホテルでは朝食にアメリカン朝食を提供し、大邱ディアークなどの名所はそれぞれ17kmと5.3kmの距離に位置しています。 ギャンはホテルから約 19 キロ離れており、大邱の中心部までは約 6 キロの距離に位置しています。 チェックインは午後3時から始まり、チェックアウトは午前11時まで行われます。",
+    "QA": [
+        {
+            "question": "Daegu Billion Western Hotelはどこに位置していますか？",
+            "answer": "Daegu Billion Western Hotelは大邱に位置しています。"
+        },
+        {
+            "question": "Daegu Billion Western Hotelは何のサービスを提供していますか？",
+            "answer": "Daegu Billion Western Hotelは無料Wi-Fiと無料専用駐車場を提供しています。"
+        },
+        {
+            "question": "Daegu Billion Western Hotelは何つ星ホテルですか？",
+            "answer": "Daegu Billion Western Hotelは3つ星のホテルです。"
+        },
+        {
+            "question": "Daegu Billion Western Hotelにはどのような設備がありますか？",
+            "answer": "Daegu Billion Western Hotelの客室にはクローゼットや専用バスルーム、ウォッシュレット、薄型TV、エアコンなどの設備があります。"
+        },
+        {
+            "question": "Daegu Billion Western Hotelの朝食は何を提供していますか？",
+            "answer": "Daegu Billion Western Hotelではアメリカン朝食を提供しています。"
+        },
+        {
+            "question": "Daegu Billion Western Hotelからイーワールドまではどのくらいの距離ですか？",
+            "answer": "Daegu Billion Western Hotelからイーワールドまでは約8.9kmの距離です。"
+        },
+        {
+            "question": "Daegu Billion Western Hotelから大邱ディアークまではどのくらいの距離ですか？",
+            "answer": "Daegu Billion Western Hotelから大邱ディアークまでは約17kmの距離です。"
+        },
+        {
+            "question": "Daegu Billion Western Hotelからギャンまではどのくらいの距離ですか？",
+            "answer": "Daegu Billion Western Hotelからギャンまでは約19kmの距離です。"
+        },
+        {
+            "question": "Daegu Billion Western Hotelから大邱の中心部まではどのくらいの距離ですか？",
+            "answer": "Daegu Billion Western Hotelから大邱の中心部までは約6kmの距離です。"
+        },
+        {
+            "question": "Daegu Billion Western Hotelのチェックインとチェックアウトの時間は何時ですか？",
+            "answer": "Daegu Billion Western Hotelのチェックインは午後3時からで、チェックアウトは午前11時までです。"
+        }
+    ],
+    "word_Count": {
+        "text": 311,
+        "QA": 705
+    }
+}

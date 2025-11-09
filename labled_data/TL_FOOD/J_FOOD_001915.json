@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001915",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-05",
+        "domain": "음식점",
+        "title": "MUSE ( 뮤즈 )"
+    },
+    "text": "MUSE ( 뮤즈 )\\n\n慶尚北道 アンドン市 ソクジュロ231\\n\n完璧なソースとサクサクした洋食トンカツの組み合わせが良い店です。代表的なメニューは豚カツです。慶尚北道のアンドン市に位置した洋食専門店です。",
+    "QA": [
+        {
+            "question": "このレストランの場所はどこですか？",
+            "answer": "このレストランは慶尚北道のアンドン市のソクジュロ231に位置しています。"
+        },
+        {
+            "question": "このレストランの特徴的なメニューは何ですか？",
+            "answer": "このレストランの代表的なメニューは豚カツです。"
+        },
+        {
+            "question": "このレストランの料理はどんな特徴がありますか？",
+            "answer": "このレストランの料理は、完璧なソースとサクサクした洋食トンカツの組み合わせが特徴です。"
+        }
+    ],
+    "word_Count": {
+        "text": 77,
+        "QA": 120
+    }
+}

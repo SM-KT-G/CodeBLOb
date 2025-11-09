@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_067098",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.booking.com/hotel/kr/byulbam-guesthouse.ko.html",
+        "collectedDate": "2023-11-17",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "별밤 게스트하우스"
+    },
+    "text": "ビョルバムゲストハウスは光州北区慶陽路147番キル8-6に位置するゲストハウスです。 禁煙室客室、無料Wi-Fi、共用ラウンジ、庭園などの便益施設が提供されます。 光州芸術の街から1.9km、国立アジア文化殿堂から2.2km、Mudungsan Jisan Amusement Parkから4.7km、Gwangju Student independence Movement Memorial Hallから4.9km離れています。 ファミリールームを提供し、すべての客室にはコーヒーマシンと無料の洗面用具がある専用バスルームがあります。 一部の客室には冷蔵庫のあるキッチンもあります。 休憩スペースのある客室をすべて利用でき、毎朝アメリカ式の朝食が提供されます。 光州国立博物館や光州ワールドカップ競技場などの観光名所を訪れることができます。 光州空港までの距離は11kmで、星夜ゲストハウスは光州中心部から約1km離れています。 チェックインは16:00から可能で、チェックアウトは11:00までです。",
+    "QA": [
+        {
+            "question": "ビョルバムゲストハウスはどこに位置していますか？",
+            "answer": "ビョルバムゲストハウスは光州北区慶陽路147番キル8-6に位置しています。"
+        },
+        {
+            "question": "ゲストハウスの便益施設には何がありますか？",
+            "answer": "禁煙室客室、無料Wi-Fi、共用ラウンジ、庭園などの便益施設が提供されます。"
+        },
+        {
+            "question": "ビョルバムゲストハウスの周辺にある観光名所は何ですか？",
+            "answer": "光州芸術の街、国立アジア文化殿堂、Mudungsan Jisan Amusement Park、Gwangju Student independence Movement Memorial Hallなどが近くにあります。"
+        },
+        {
+            "question": "客室には何が備え付けられていますか？",
+            "answer": "専用バスルーム、コーヒーマシン、無料の洗面用具が備え付けられています。一部の客室には冷蔵庫のあるキッチンもあります。"
+        },
+        {
+            "question": "ビョルバムゲストハウスのチェックインとチェックアウトの時間はいつですか？",
+            "answer": "チェックインは16:00から可能で、チェックアウトは11:00までです。"
+        }
+    ],
+    "word_Count": {
+        "text": 332,
+        "QA": 297
+    }
+}

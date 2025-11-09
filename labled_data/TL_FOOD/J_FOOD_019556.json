@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_019556",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-01",
+        "domain": "음식점",
+        "title": "徳盛園 ( 덕성원 )"
+    },
+    "text": "徳盛園 ( 덕성원 )\n済州特別自治道 西帰浦市 太平路401ボンキル 4\n3代目が経営する伝統中華料理店です。済州特別自治道のソグィポ市に位置した中華専門店です。代表的なメニューはジャージャー麺です。",
+    "QA": [
+        {
+            "question": "徳盛園 ( 덕성원 )はどこに位置していますか？",
+            "answer": "徳盛園 ( 덕성원 )は済州特別自治道 西帰浦市 太平路401ボンキル 4に位置しています。"
+        },
+        {
+            "question": "徳盛園 ( 덕성원 )が提供する代表的なメニューは何ですか？",
+            "answer": "徳盛園 ( 덕성원 )の代表的なメニューはジャージャー麺です。"
+        },
+        {
+            "question": "徳盛園 ( 덕성원 )は何代目が経営していますか？",
+            "answer": "徳盛園 ( 덕성원 )は3代目が経営しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 74,
+        "QA": 132
+    }
+}

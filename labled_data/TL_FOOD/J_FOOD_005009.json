@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_005009",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2020-12-04",
+        "domain": "음식점",
+        "title": "キュキュ麺館 平沢古徳( 큐큐면관 평택고덕 )"
+    },
+    "text": "キュキュ麺館 平沢古徳( 큐큐면관 평택고덕 )\\n\n京畿道 平沢市 京畿大路 987\\n\nリーズナブルな価格でおいしい中華料理が味わえる店です。 代表的なメニューはユニジャージャー麺です。京畿道のピョンテク市に位置した中華料理屋です。",
+    "QA": [
+        {
+            "question": "キュキュ麺館 平沢古徳はどのような場所にありますか？",
+            "answer": "キュキュ麺館 平沢古徳は京畿道 平沢市に位置しています。"
+        },
+        {
+            "question": "キュキュ麺館 平沢古徳の特徴的なメニューは何ですか？",
+            "answer": "キュキュ麺館 平沢古徳の代表的なメニューはユニジャージャー麺です。"
+        },
+        {
+            "question": "キュキュ麺館 平沢古徳はどんな料理を提供していますか？",
+            "answer": "キュキュ麺館 平沢古徳ではリーズナブルな価格でおいしい中華料理が味わえます。"
+        }
+    ],
+    "word_Count": {
+        "text": 86,
+        "QA": 130
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_004818",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-01",
+        "domain": "음식점",
+        "title": "ガンナムガーデン ( 강남가든 )"
+    },
+    "text": "ガンナムガーデン ( 강남가든 )\\n\n全羅南道 木浦市 上里路15ボンキル 1-1\\n\n木浦市民もよく訪れるお店です。この店は全羅南道のの近くに位置した韓食専門店です。代表的なメニューはウナギ焼きです。",
+    "QA": [
+        {
+            "question": "全羅南道の木浦市に位置するガンナムガーデンはどういったお店ですか？",
+            "answer": "ガンナムガーデンは韓食専門店であり、木浦市民にもよく訪れるお店です。代表的なメニューはウナギ焼きです。"
+        },
+        {
+            "question": "ガンナムガーデンの住所はどこですか？",
+            "answer": "ガンナムガーデンの住所は全羅南道木浦市上里路15ボンキル 1-1です。"
+        },
+        {
+            "question": "ガンナムガーデンはどのくらいの距離に位置していますか？",
+            "answer": "ガンナムガーデンは全羅南道の近くに位置しています。"
+        },
+        {
+            "question": "ガンナムガーデンで提供されているメニューの中で代表的なものは何ですか？",
+            "answer": "ガンナムガーデンで代表的なメニューはウナギ焼きです。"
+        }
+    ],
+    "word_Count": {
+        "text": 74,
+        "QA": 183
+    }
+}

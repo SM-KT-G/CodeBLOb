@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_004088",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42090&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "제주 에스뜨레야펜션"
+    },
+    "text": "こんにちは、済州エストレーヤペンションです。 済州の美しい月亭里の海が一望できる海の眺めを持っている新築ペンションです。 客室ごとに個別テラスがあり、清潔でリラックスできます。 お知らせ 22時以降に入室される場合、ペンションまで予めご連絡ください。",
+    "QA": [
+        {
+            "question": "ペンションの名前は何ですか？",
+            "answer": "済州エストレーヤペンションです。"
+        },
+        {
+            "question": "済州エストレーヤペンションはどのような眺めを持っていますか？",
+            "answer": "月亭里の海が一望できる海の眺めを持っています。"
+        },
+        {
+            "question": "客室にはどのような設備がありますか？",
+            "answer": "客室ごとに個別テラスがあります。"
+        },
+        {
+            "question": "入室時間についての注意事項はありますか？",
+            "answer": "22時以降に入室される場合、ペンションまで予めご連絡ください。"
+        }
+    ],
+    "word_Count": {
+        "text": 91,
+        "QA": 123
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_020636",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2016-11-04",
+        "domain": "문화/역사관광",
+        "title": "三浪津駅（삼랑진역）"
+    },
+    "text": "三浪津駅\n慶尚南道 密陽市 三浪津邑 天台路 72\n三浪津（サムナンジン）駅は1995年1月1日に普通駅として営業を始め、1999年12月31日に現駅舎の姿となりました。京釜線のムグンファ号が1日36本（上り18本、下り18本）、慶全線のムグンファ号が1日10本（上り5本、下り5本）運行しています。",
+    "QA": [
+        {
+            "question": "三浪津駅はいつ営業を始めましたか？",
+            "answer": "三浪津駅は1995年1月1日に営業を始めました。"
+        },
+        {
+            "question": "三浪津駅はどの路線の駅ですか？",
+            "answer": "三浪津駅は京釜線と慶全線の両方の駅です。"
+        },
+        {
+            "question": "京釜線のムグンファ号は1日に何本運行していますか？",
+            "answer": "京釜線のムグンファ号は1日に36本運行しています。"
+        },
+        {
+            "question": "慶全線のムグンファ号は1日に何本運行していますか？",
+            "answer": "慶全線のムグンファ号は1日に10本運行しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 110,
+        "QA": 129
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_029854",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2023-01-19",
+        "domain": "숙박",
+        "title": "하포펜션"
+    },
+    "text": "下浦ペンション (하포펜션)\\n\n慶尚南道統営市閑山面閑山一周路1198\\n\n下浦ペンションは、美しい閑山島海の前に立地しているため、景色が素晴らしいです。また、閑山島釣りの名所として知られており、ボラック、オジメ、妄想魚など、多種多様な魚が豊富に生息しています。情報提供:統営市庁",
+    "QA": [
+        {
+            "question": "下浦ペンションの場所はどこですか？",
+            "answer": "下浦ペンションは慶尚南道統営市閑山面閑山一周路1198にあります。"
+        },
+        {
+            "question": "下浦ペンションの周辺の景色はどんな感じですか？",
+            "answer": "下浦ペンションは美しい閑山島海の前に立地していますので、景色が素晴らしいです。"
+        },
+        {
+            "question": "下浦ペンションはどんな釣りの名所として知られていますか？",
+            "answer": "下浦ペンションは閑山島釣りの名所として知られており、ボラック、オジメ、妄想魚など、多種多様な魚が豊富に生息しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 103,
+        "QA": 145
+    }
+}

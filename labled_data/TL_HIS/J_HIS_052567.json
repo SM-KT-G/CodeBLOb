@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_052567",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=951&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=00030000&ccbaCtcd=22&ccbaCpno=3412200030000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1982-03-04",
+        "domain": "문화/역사관광",
+        "title": "관풍루"
+    },
+    "text": "大邱広域市文化財資料、昔の慶尚監営の正門で、朝鮮宣祖34年(1601)に建てられました。観風楼の本来の名前は「閉門楼(閉門楼)」で、午前5時にオープンし、夜10時に閉門する風楽を鳴らしたそうです。名前を変えたのは、監事がこの建物の上で世俗を探るということで付けたものです。前面3間·側面2間規模の2階建ての楼閣で、屋根は横から見て八の字型の入母屋造りです",
+    "QA": [
+        {
+            "question": "この建物はいつ建てられましたか？",
+            "answer": "この建物は朝鮮宣祖34年(1601)に建てられました。"
+        },
+        {
+            "question": "観風楼の本来の名前は何ですか？",
+            "answer": "観風楼の本来の名前は「閉門楼」です。"
+        },
+        {
+            "question": "観風楼はいつオープンし、閉門しますか？",
+            "answer": "観風楼は午前5時にオープンし、夜10時に閉門します。"
+        },
+        {
+            "question": "この建物はどのような構造ですか？",
+            "answer": "この建物は前面3間・側面2間規模の2階建ての楼閣で、屋根は横から見て八の字型の入母屋造りです。"
+        },
+        {
+            "question": "なぜ観風楼という名前に変わったのですか？",
+            "answer": "観風楼という名前に変わったのは、監事がこの建物の上で世俗を探るということで付けたものです。"
+        }
+    ],
+    "word_Count": {
+        "text": 129,
+        "QA": 182
+    }
+}

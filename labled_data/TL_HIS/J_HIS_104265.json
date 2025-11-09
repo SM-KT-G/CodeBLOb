@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_104265",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=133&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=11610000&ccbaCtcd=11&ccbaCpno=1121111610000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1993-06-15",
+        "domain": "문화/역사관광",
+        "title": "진충귀 고신왕지"
+    },
+    "text": "宝物は太祖3年(1394)に尽忠耳に下した義州(ウィジュ)牧師に任命された。尽忠耳は太祖2年にチョンジョル祭祀で、ヤングヮンドに派遣されて、太祖5年に傾斜に派遣されており、太祖6年に梁天植(ヤン・チョンシク)などと傾斜で帰ってきた。太宗12年に死亡し、朝鮮王朝実録にはこのような事実が簡略に記録されていたが、他の司書での記録はない。このワンジは、朝鮮集めに活躍した人物を研究する上で、良い資料と評価され、ソンジュド氏家門のワンジと共に貴重な資料である。",
+    "QA": [
+        {
+            "question": "誰が義州(ウィジュ)牧師に任命されましたか？",
+            "answer": "太祖3年に尽忠耳が義州(ウィジュ)牧師に任命されました。"
+        },
+        {
+            "question": "いつ太宗12年に誰が死亡しましたか？",
+            "answer": "太宗12年に尽忠耳が死亡しました。"
+        },
+        {
+            "question": "どこで尽忠耳は太祖2年に派遣されましたか？",
+            "answer": "尽忠耳は太祖2年にチョンジョル祭祀で、ヤングヮンドに派遣されました。"
+        },
+        {
+            "question": "なぜ尽忠耳は太宗12年に死亡しましたか？",
+            "answer": "尽忠耳の死因については記録されていません。"
+        },
+        {
+            "question": "どのような資料と評価される人物ですか？",
+            "answer": "このワンジは、朝鮮集めに活躍した人物を研究する上で、良い資料と評価されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 165,
+        "QA": 176
+    }
+}

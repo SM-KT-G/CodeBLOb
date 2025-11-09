@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_003314",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42031&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "대구 동천동 글램(GLAM)"
+    },
+    "text": "クラシックでモダンなホテルである大邱東川洞グラムは2018年9月にグランドオープンしました。 朝食は提供されましたが、コロナにより一時停止されました。 漆谷3地区東川洞は最高の施設を提供しています。 全客室には空気清浄機が完備されており、PM2.5の心配なく快適に滞在できます。 基本的に宿泊料金には2名基準であり、追加人数がいる場合は追加料金が発生します。",
+    "QA": [
+        {
+            "question": "大邱東川洞グラムはいつオープンしましたか？",
+            "answer": "大邱東川洞グラムは2018年9月にグランドオープンしました。"
+        },
+        {
+            "question": "大邱東川洞グラムで提供される朝食はどうなっていますか？",
+            "answer": "大邱東川洞グラムではコロナの影響で一時停止されていますが、以前は朝食が提供されていました。"
+        },
+        {
+            "question": "大邱東川洞グラムの客室にはどのような設備がありますか？",
+            "answer": "大邱東川洞グラムの全客室には空気清浄機が完備されており、PM2.5の心配なく快適に滞在できます。"
+        },
+        {
+            "question": "大邱東川洞グラムの宿泊料金はどのようになっていますか？",
+            "answer": "大邱東川洞グラムの宿泊料金は基本的に2名基準です。追加人数がいる場合は追加料金が発生します。"
+        }
+    ],
+    "word_Count": {
+        "text": 131,
+        "QA": 198
+    }
+}

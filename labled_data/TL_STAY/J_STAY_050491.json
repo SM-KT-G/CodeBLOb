@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_050491",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/goods/GN0002153402?startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0%5E&npprmaxsort=min",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "강화도 야생화카페펜션"
+    },
+    "text": "カンファに位置する野生花カフェペンションは、閑静で美しい村に位置しています。 広い個別バーベキュー場では、プライベートな時間を過ごすことができます。 また、客室内にはバイクと自転車を持ち込むことはできず、保管するスペースも別途設けておりません。 また、駐車場での駐車も不可能です。",
+    "QA": [
+        {
+            "question": "カフェペンションはどのような場所に位置していますか？",
+            "answer": "カフェペンションは閑静で美しい村に位置しています。"
+        },
+        {
+            "question": "カフェペンションにはバーベキュー場がありますか？",
+            "answer": "はい、広い個別バーベキュー場があります。"
+        },
+        {
+            "question": "バイクや自転車は持ち込むことはできますか？",
+            "answer": "申し訳ありませんが、カフェペンション内にはバイクや自転車を持ち込むことはできません。"
+        },
+        {
+            "question": "バイクや自転車を保管する場所はありますか？",
+            "answer": "申し訳ありませんが、保管するスペースは別途設けておりません。"
+        },
+        {
+            "question": "駐車場はありますか？",
+            "answer": "申し訳ありませんが、駐車場での駐車は不可能です。"
+        }
+    ],
+    "word_Count": {
+        "text": 102,
+        "QA": 178
+    }
+}

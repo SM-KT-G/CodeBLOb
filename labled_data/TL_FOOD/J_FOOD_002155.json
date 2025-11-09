@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_002155",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-09-24",
+        "domain": "음식점",
+        "title": "TUK TUK NOODLE THAI（툭툭누들타이）"
+    },
+    "text": "TUK TUK NOODLE THAI（툭툭누들타이）\\n\nソウル特別市 麻浦区 ソンミ山路161-8\\n\nソウル麻浦区延南洞にあるタイ料理屋(トゥクトゥクヌードルタイ)では、タイ風焼鳥（ガイヤーン）、トムヤムクンなどさまざまなタイの味を楽しめます。",
+    "QA": [
+        {
+            "question": "このレストランの場所はどこですか？",
+            "answer": "ソウル特別市 麻浦区 ソンミ山路161-8にあります。"
+        },
+        {
+            "question": "このレストランの名前は何ですか？",
+            "answer": "このレストランの名前は「TUK TUK NOODLE THAI（툭툭누들타이）」です。"
+        },
+        {
+            "question": "このレストランではどんな料理が楽しめますか？",
+            "answer": "このレストランではタイ風焼鳥（ガイヤーン）やトムヤムクンなどさまざまなタイの味を楽しむことができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 91,
+        "QA": 129
+    }
+}

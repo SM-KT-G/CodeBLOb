@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_010956",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-06",
+        "domain": "음식점",
+        "title": "ドンチャク"
+    },
+    "text": "ドンチャク\\n\n京畿道 平沢市 ヨンジュク5ギル9\\n\n野菜やおかずのセルフバーが利用できます。代表的なメニューはサムギョプサルです。京畿道のピョンテク市に位置した韓国料理店です。",
+    "QA": [
+        {
+            "question": "このお店の場所はどこですか？",
+            "answer": "京畿道 平沢市 ヨンジュク5ギル9に位置しています。"
+        },
+        {
+            "question": "どんな食べ物がありますか？",
+            "answer": "野菜やおかずのセルフバーが利用できます。また、代表的なメニューはサムギョプサルです。"
+        },
+        {
+            "question": "このお店の特徴は何ですか？",
+            "answer": "京畿道のピョンテク市に位置し、韓国料理を提供している店です。"
+        }
+    ],
+    "word_Count": {
+        "text": 66,
+        "QA": 101
+    }
+}

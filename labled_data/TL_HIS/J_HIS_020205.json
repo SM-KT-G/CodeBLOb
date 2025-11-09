@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_020205",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=31&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=00110400&ccbaCtcd=31&ccbaCpno=1123100110400&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2000-02-15",
+        "domain": "문화/역사관광",
+        "title": "사인비구 제작 동종 - 안성 청룡사 동종"
+    },
+    "text": "思印比丘製作同種 - アンソン青龍寺同種 (사인비구 제작 동종 - 안성 청룡사 동종)\\n\n京畿道安城市瑞雲面青龍キル140、青龍寺(青龍里)\\n\n朝鮮顕宗15年(1674) , 宝物 , 朝鮮粛宗の時、京畿道と慶尚道地域で活動した僧侶である舎人碑具によって1674年に作られた朝鮮時代の鐘だ。四人碑具は18世紀、優れた僧侶であり職人で、伝統的な新羅の鐘の製造技法に独創性を合わせた鐘を作った。 現在、彼の作品8句が異なる特徴を見せながら伝えられている。この鐘は鐘を吊るす輪である龍ニューと音の響きを助けるという竹の形の音筒に躍動的な姿の龍が刻まれている。 また、鐘の肩と下の入口部分には蓮華とつるを刻んだ広い帯を巻いており、肩帯の下には四角形の台があり、その間には菩薩像を立てた。写実的に表現した手法が特に目立つ作品で、私人比丘が金龍寺宗、手打寺宗(1670)を製作した後、完熟した技量を発揮した秀作である点で、朝鮮後期の職人社会を研究する上で重要な資料となっている。",
+    "QA": [
+        {
+            "question": "この鐘はいつ作られましたか？",
+            "answer": "朝鮮顕宗15年(1674)に作られました。"
+        },
+        {
+            "question": "この鐘はどのような特徴がありますか？",
+            "answer": "竹の形の音筒に躍動的な姿の龍が刻まれており、肩帯には蓮華とつるの刻まれた広い帯があります。"
+        },
+        {
+            "question": "この鐘は何のために使われていましたか？",
+            "answer": "この鐘は音の響きを助けるための竹の形の音筒に吊るされ、静寂を作り出すために使われていました。"
+        },
+        {
+            "question": "この鐘はどのような僧侶によって作られましたか？",
+            "answer": "舎人碑具という僧侶によって作られました。彼は朝鮮粛宗の時に活動した優れた僧侶であり職人でした。"
+        },
+        {
+            "question": "この鐘はどのような彫刻技法が使われていますか？",
+            "answer": "この鐘は写実的な手法を用いて彫刻されており、特に龍の躍動感が目立ちます。"
+        }
+    ],
+    "word_Count": {
+        "text": 320,
+        "QA": 214
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_019798",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42020&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "남해 스머프빌리지펜션"
+    },
+    "text": "南海の夕焼けが美しい日差しいっぱいのスマーフビレッジペンションの海に向かう遊歩道と素敵な海の美しい景色でストレスを吹き飛ばしてください。 チェックイン時間はご利用当日の15:00以降から20:00までです。 20:00以降ペンションに到着する場合は、事前にご連絡ください。 チェックアウトは最終日の午前11:00までです。 次の顧客のためにチェックアウト時間を必ず守ってください。",
+    "QA": [
+        {
+            "question": "スマーフビレッジペンションのチェックイン時間はいつですか？",
+            "answer": "チェックイン時間はご利用当日の15:00以降から20:00までです。"
+        },
+        {
+            "question": "ペンションに20:00以降到着する場合はどうすればいいですか？",
+            "answer": "20:00以降ペンションに到着する場合は、事前にご連絡ください。"
+        },
+        {
+            "question": "スマーフビレッジペンションのチェックアウト時間は何時までですか？",
+            "answer": "チェックアウトは最終日の午前11:00までです。"
+        },
+        {
+            "question": "チェックアウト時間を守らないとどうなりますか？",
+            "answer": "次の顧客のためにチェックアウト時間を必ず守ってください。"
+        }
+    ],
+    "word_Count": {
+        "text": 139,
+        "QA": 170
+    }
+}

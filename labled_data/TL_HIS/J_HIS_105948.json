@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_105948",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=941&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=24&ccbaAsno=01750000&ccbaCtcd=37&ccbaCpno=2443701750000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2013-04-08",
+        "domain": "문화/역사관광",
+        "title": "청도 도일고택"
+    },
+    "text": "清道 トイル・ゴテク\\n\n慶尚北道清道郡仙岩路465(衿川面、シェル·ジャングル)\\n\n慶尚北道民俗文化財、雲岡パクシムクの弟であるパクキムク(1830∼1911)が光武3年(1899)陜川(ハプチョン)郡守でいるとき建てた家だ。パクキムクが死んだ後にパクシムクの孫の所有だったが、甥のジェス(1894∼1973)の所有になった。この家はジェスの杼(字)に沿って''ドイル古宅''と呼ぶ。門を入ると、右にサランチェ、サランチェの右側に中門がある。中門の奥正面から母屋が見えてその左右に納屋と離れ屋軒がいる。各建物はすべて一字型建物であり、中庭を中心に、全体的にはㅁジャ型をなしており、嶺南平地に建てた家屋の代表的な構造を見せている。",
+    "QA": [
+        {
+            "question": "この家はいつ建てられましたか？",
+            "answer": "この家は光武3年(1899)に建てられました。"
+        },
+        {
+            "question": "この家は誰によって建てられましたか？",
+            "answer": "この家はパクキムクという人によって建てられました。"
+        },
+        {
+            "question": "この家はどこに位置していますか？",
+            "answer": "この家は慶尚北道清道郡仙岩路に位置しています。"
+        },
+        {
+            "question": "この家の建築様式はどのような特徴がありますか？",
+            "answer": "この家は一字型建物であり、中庭を中心に、全体的にはㅁジャ型をなしており、嶺南平地に建てた家屋の代表的な構造を示しています。"
+        },
+        {
+            "question": "この家の所有者について教えてください。",
+            "answer": "この家はパクキムク、その後パクシムクの孫の所有でしたが、甥のジェスが所有者となりました。"
+        }
+    ],
+    "word_Count": {
+        "text": 231,
+        "QA": 195
+    }
+}

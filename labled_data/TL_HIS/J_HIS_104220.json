@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_104220",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.doopedia.co.kr/",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2023-10-11",
+        "domain": "문화/역사관광",
+        "title": "진주향교 하마비_1"
+    },
+    "text": "晋州郷校は、高麗末朝鮮初期に建てられた郷校として、出入者を統制するため、ここに下馬碑を立てました。この雨は'大小インウォンゲ浜(大小人員皆下馬)'という文字が刻まれていたが、一部は落ちました。",
+    "QA": [
+        {
+            "question": "この下馬碑はいつ建てられましたか？",
+            "answer": "高麗末朝鮮初期に建てられました。"
+        },
+        {
+            "question": "下馬碑にはどんな文字が刻まれていましたか？",
+            "answer": "大小人員皆下馬という文字が刻まれていました。"
+        },
+        {
+            "question": "なぜここに下馬碑が立てられたのですか？",
+            "answer": "出入者を統制するために立てられました。"
+        },
+        {
+            "question": "落ちた一部の文字は何でしょうか？",
+            "answer": "一部は'大小インウォンゲ浜'という文字が落ちました。"
+        }
+    ],
+    "word_Count": {
+        "text": 70,
+        "QA": 114
+    }
+}

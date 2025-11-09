@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_090830",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=13&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=11&ccbaAsno=01440000&ccbaCtcd=36&ccbaCpno=1113601440000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1972-03-02",
+        "domain": "문화/역사관광",
+        "title": "영암 월출산 마애여래좌상"
+    },
+    "text": "統一新羅時代後期に位置した国宝の月出山九井峰は西北の岩壁に掘られて仏像が入って座る席を作って、その中に高さ8.6mの巨大な仏像を立てた。この仏像の右膝の隣には釈迦を向かって礼拝する童子像も一緒に彫刻された。この仏像は大きくて高い髷の形の頭を持っており、比較的大きな顔は謹厳で迫力のある感じを与える。服は薄く表現されて身体の屈曲をよく表しており、服のしわは細やかに施され、仏像が座っている台座の下まで流れている。この作品は弾力性と迫力をよく表す繊細な服のしわと量感ある身体表現を通じて安定感と荘重な印象を与えている。腕は細かく表現され、手の形は右手を膝の上に上げて指先が下を向け、左手はハンマチョクジインをしている。光背はモリグヮンベとモムグヮンベを分離して彫刻されており、蓮華(れんげ)文と蔓の模様が刻まれていて、端には、火炎文が刻まれている。全体的には繊細で精巧な彫刻の技法とともに迫力をよく示しているが、顔や腕などで比例の不均衡と硬直された表現が伺え、高麗初期に作られた作品と推定される。",
+    "QA": [
+        {
+            "question": "月出山九井峰はどこに位置していますか？",
+            "answer": "統一新羅時代後期に位置した国宝の月出山九井峰は、西北の岩壁に掘られています。"
+        },
+        {
+            "question": "月出山九井峰にある巨大な仏像の高さはどのくらいですか？",
+            "answer": "月出山九井峰にある巨大な仏像の高さは8.6メートルです。"
+        },
+        {
+            "question": "童子像は誰を向いて礼拝していますか？",
+            "answer": "童子像は釈迦を向かって礼拝しています。"
+        },
+        {
+            "question": "仏像の服のしわはどのように表現されていますか？",
+            "answer": "仏像の服のしわは細やかに施され、身体の屈曲をよく表しており、台座の下まで流れています。"
+        },
+        {
+            "question": "仏像の光背にはどのような模様が刻まれていますか？",
+            "answer": "仏像の光背には蓮華(れんげ)文と蔓の模様、そして端には火炎文が刻まれています。"
+        }
+    ],
+    "word_Count": {
+        "text": 327,
+        "QA": 203
+    }
+}

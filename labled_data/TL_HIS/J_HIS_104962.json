@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_104962",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1190&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=06920000&ccbaCtcd=38&ccbaCpno=3413806920000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2023-03-30",
+        "domain": "문화/역사관광",
+        "title": "창녕 도암재 강당"
+    },
+    "text": "朝鮮時代、慶尚南道文化財資料、道岩斎は低い山裾の先端で傾斜した場所から東北方向に位置しています。道岩斎は傾斜した地形を利用して道岩斎講堂領域と一円閣領域に分けることができます。斎室兼仮宿空間であるトアムジェ講堂が最も高い場所に位置し、前面にデムンチェ、逸院閣の順に配置されています。トアムジェ講堂は斎室で正面4間、側面1.5間の長方形平面で中踏協室型です左右に1間のオンドル部屋を設け、真ん中に2間の床を排泄しました。デムンチェは正面4間、側面1間で、左側からオンドル部屋1間、大門1間、倉庫2間に配置されています。オンドル部屋の正面にセメントレンガ造りの水洗トイレがあり、最近まで使用したものとみられます。デムンチェの正面には15段の階段が設置されており、階段の最上部は建物の基壇となっています。道岩斎領域の右側には高直寺と付属棟がありましたが、1990年代に焼失し、現在の礎石として位置を確認することができます",
+    "QA": [
+        {
+            "question": "場所はどこに位置していますか？",
+            "answer": "道岩斎は低い山裾の先端で傾斜した場所から東北方向に位置しています。"
+        },
+        {
+            "question": "道岩斎をどのように分けることができますか？",
+            "answer": "傾斜した地形を利用して道岩斎講堂領域と一円閣領域に分けることができます。"
+        },
+        {
+            "question": "斎室兼仮宿空間であるトアムジェ講堂はどのように配置されていますか？",
+            "answer": "トアムジェ講堂が最も高い場所に位置し、前面にデムンチェ、逸院閣の順に配置されています。"
+        },
+        {
+            "question": "デムンチェに何が配置されていますか？",
+            "answer": "デムンチェにはオンドル部屋、大門、倉庫が配置されています。"
+        },
+        {
+            "question": "デムンチェの正面に何がありますか？",
+            "answer": "デムンチェの正面には15段の階段が設置されており、階段の最上部は建物の基壇となっています。"
+        }
+    ],
+    "word_Count": {
+        "text": 298,
+        "QA": 212
+    }
+}

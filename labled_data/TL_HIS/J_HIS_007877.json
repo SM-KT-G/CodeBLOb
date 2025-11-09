@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_007877",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1034&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=00980000&ccbaCtcd=34&ccbaCpno=3413400980000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1984-05-17",
+        "domain": "문화/역사관광",
+        "title": "고란사"
+    },
+    "text": "皐蘭寺 (고란사)\\n\n忠清南道扶余郡扶余邑双北里山1番地\\n\n忠清南道文化財資料 , 扶蘇山北麓の白馬江左岸に位置する高蘭寺は正面7間、側面4間の法堂と寮の建物で構成された小さな寺院だ。 この寺は仏蹟よりは古蘭草によって広く知られているが、法堂の裏から出てくる薬水とともにこの寺の名物を成している。 高蘭寺は百済滅亡と関連した様々な伝説が低下したり正確な遺跡や遺物はなく、現在の高蘭寺は高麗時代に創建されたが、現在の寺刹建物は恩山僧閣寺を移建したと伝えられている。",
+    "QA": [
+        {
+            "question": "高蘭寺はどこに位置していますか？",
+            "answer": "高蘭寺は忠清南道扶余郡扶余邑双北里山1番地に位置しています。"
+        },
+        {
+            "question": "高蘭寺の建物はどのように構成されていますか？",
+            "answer": "高蘭寺の建物は正面7間、側面4間の法堂と寮で構成されています。"
+        },
+        {
+            "question": "高蘭寺の名物は何ですか？",
+            "answer": "高蘭寺の名物は法堂の裏から出てくる薬水です。"
+        },
+        {
+            "question": "高蘭寺は何の伝説に関連していますか？",
+            "answer": "高蘭寺は百済滅亡と関連した様々な伝説があります。"
+        },
+        {
+            "question": "高蘭寺はいつ創建されましたか？",
+            "answer": "高蘭寺は高麗時代に創建されました。"
+        },
+        {
+            "question": "現在の高蘭寺の建物はどこから移建されたと伝えられていますか？",
+            "answer": "現在の高蘭寺の建物は恩山僧閣寺から移建されたと伝えられています。"
+        }
+    ],
+    "word_Count": {
+        "text": 170,
+        "QA": 197
+    }
+}

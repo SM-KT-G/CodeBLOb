@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_024213",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42001&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "신림 올인"
+    },
+    "text": "新林グローリアが最近、すっきりきれいに新しい姿に改装されました。 特に客室の内部が完全にリニューアルされました。 今はもっと快適でモダンな雰囲気を感じることができます。 しかし、駐車場の利用はマイルーム利用のお客様には提供されません。 週末や祝日には、貸室を連続してご利用いただけません。",
+    "QA": [
+        {
+            "question": "新林グローリアの改装について教えてください。",
+            "answer": "最近、新林グローリアはすっきりきれいに改装されました。特に客室の内部が完全にリニューアルされました。今はもっと快適でモダンな雰囲気を感じることができます。"
+        },
+        {
+            "question": "駐車場は利用できますか？",
+            "answer": "駐車場の利用はマイルーム利用のお客様には提供されません。"
+        },
+        {
+            "question": "週末や祝日に貸室を利用することはできますか？",
+            "answer": "週末や祝日には、貸室を連続してご利用いただけません。"
+        }
+    ],
+    "word_Count": {
+        "text": 105,
+        "QA": 137
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_081462",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=404&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=00390000&ccbaCtcd=25&ccbaCpno=2112500390000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2009-12-23",
+        "domain": "문화/역사관광",
+        "title": "석각천문도"
+    },
+    "text": "石刻天文図\\n\n大田広域市儒城区大徳大路481(クソンドン、ジャン·ジャン)\\n\n三脚の天文図の前面上部には天文図(天文圖)という文字が篆書体で大きく刻まれており、その下に2つの大きな円を同心円で描き、枠としてその中に主に冬と春に見える30個の西洋星座を刻んでおいた。描写された星座の形は現代の星座のとおりであり、正確に位置を描写しているが、星の明るさに応じて星の大きさは区別していない。19世紀後半以前に製作されたものと推定され、星座描写方法と星座の位置を精巧に刻石したことから見ると、特別な目的を持って製作した可能性が高い。",
+    "QA": [
+        {
+            "question": "この石刻天文図はいつ、どこで作られましたか？",
+            "answer": "この石刻天文図は19世紀後半以前に製作され、韓国大田広域市儒城区の大徳大路481にあります。"
+        },
+        {
+            "question": "石刻天文図には何が描かれていますか？",
+            "answer": "石刻天文図には30個の西洋星座が描かれており、主に冬と春に見えるものが中心です。"
+        },
+        {
+            "question": "石刻天文図の文字は何と書かれていますか？",
+            "answer": "石刻天文図の文字は篆書体で、天文図(天文圖)と書かれています。"
+        },
+        {
+            "question": "星座の位置や形はどのように描かれていますか？",
+            "answer": "星座の位置は正確に描写されており、現代の星座の形に忠実に描かれています。"
+        },
+        {
+            "question": "石刻天文図が製作された目的は何だと考えられますか？",
+            "answer": "星座描写方法や位置の精巧さから見ると、特別な目的を持って製作された可能性が高いと考えられます。"
+        }
+    ],
+    "word_Count": {
+        "text": 193,
+        "QA": 225
+    }
+}

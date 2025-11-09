@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_018054",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-05",
+        "domain": "음식점",
+        "title": "南村コプチャン ( 남촌곱창 )"
+    },
+    "text": "南村コプチャン ( 남촌곱창 )\\n\n江原道 ガンヌン市 ゴッガムジョンギル12\\n\n牛や豚の内臓を焼いて食べる店です。江原道のガンヌン市に位置した韓食専門店です。おすすめは豚コプチャンです。",
+    "QA": [
+        {
+            "question": "この店の名前は何ですか？",
+            "answer": "南村コプチャン (남촌곱창) です。"
+        },
+        {
+            "question": "この店はどこにありますか？",
+            "answer": "江原道 ガンヌン市 ゴッガムジョンギル12 に位置しています。"
+        },
+        {
+            "question": "この店では何を食べられますか？",
+            "answer": "牛や豚の内臓を焼いて食べることができます。特におすすめは豚コプチャンです。"
+        },
+        {
+            "question": "この店のおすすめのメニューは何ですか？",
+            "answer": "豚コプチャンがおすすめです。"
+        }
+    ],
+    "word_Count": {
+        "text": 70,
+        "QA": 116
+    }
+}

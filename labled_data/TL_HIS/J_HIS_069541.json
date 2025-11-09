@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_069541",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=140&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=12310000&ccbaCtcd=11&ccbaCpno=1121112310000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1995-12-04",
+        "domain": "문화/역사관광",
+        "title": "백자 철화운죽문 항아리"
+    },
+    "text": "朝鮮時代中期に作られた高さ33.2センチ、口直径16.8センチ、下の直径15.2センチの壺がある。この壺は、朝鮮時代につくられたもので、中央の膨張された部分には、接合跡がある。口は小さな角をなしており、口の周りが胴体の下の部分よりも大きい。口周りには10つの大きな雲で構成された雲の模様の帯があって、その下にはまた、他の10個の小さな雲で行われた帯がある。胴体の下の部分にも6つの雲で行われた雲模様がある。胴体部中央には酸化鉄顔料を使用して竹文を描いた。釉薬は薄いが、よく溶けて透明、宥免を流れている色は灰白色だ。朝鮮時代の鉄画白磁は電気にも作られたが、その例が多くない。しかし、文禄・慶長の役後の17世紀頃には、青和顔料の不足によってたくさん作られるようになった。この壺は大きく、堂々とした形態を持っており、筆致が躊躇うことなく流れるように模様を描いて涼しさを感じさせる。この陶磁器は、朝鮮時代の中央の鉄画の白磁の選考を示す非常に重要な資料と評価される。",
+    "QA": [
+        {
+            "question": "この壺はいつ作られましたか？",
+            "answer": "この壺は朝鮮時代中期に作られました。"
+        },
+        {
+            "question": "この壺のサイズはどのくらいですか？",
+            "answer": "この壺の高さは33.2センチ、口直径は16.8センチ、下の直径は15.2センチです。"
+        },
+        {
+            "question": "この壺にはどんな模様が描かれていますか？",
+            "answer": "この壺には口周りに大きな雲で構成された雲の模様の帯があり、その下には小さな雲で行われた帯があります。胴体の下の部分にも6つの雲で行われた雲模様があります。また、胴体部中央には酸化鉄顔料を使用して竹文が描かれています。"
+        },
+        {
+            "question": "この壺の釉薬はどんな色ですか？",
+            "answer": "この壺の釉薬は薄く溶けて透明で、宥免を流れている色は灰白色です。"
+        },
+        {
+            "question": "この壺はなぜ重要な資料と評価されるのですか？",
+            "answer": "この壺は朝鮮時代の中央の鉄画の白磁の選考を示す非常に重要な資料と評価されます。"
+        }
+    ],
+    "word_Count": {
+        "text": 313,
+        "QA": 239
+    }
+}

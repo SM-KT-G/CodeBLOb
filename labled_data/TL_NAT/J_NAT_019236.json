@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_019236",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.ngii.go.kr/kor/main.do'",
+        "collectedDate": "2023-11-27",
+        "publishedDate": "2020-01-01",
+        "domain": "자연관광",
+        "title": "송천2"
+    },
+    "text": "松川 (송천)\\n\n忠清南道公州市\\n\n忠清南道公州市の正安面を流れる河川は、月山里の松亭村を通ります。 この河川は月山里の南西側のカルミ峰と鉄湫山などから始まり、月山里を通過し、中東部で正安川と合流します。 この地域には月山里の巨沙幕谷、屏風谷、花平などの村があります。",
+    "QA": [
+        {
+            "question": "この河川の名前は何ですか？",
+            "answer": "この河川の名前は正安川です。"
+        },
+        {
+            "question": "正安川はどこから始まり、どこで合流しますか？",
+            "answer": "正安川は月山里の南西側のカルミ峰と鉄湫山などから始まり、中東部で合流します。"
+        },
+        {
+            "question": "月山里にある村の名前は何ですか？",
+            "answer": "月山里には巨沙幕谷、屏風谷、花平などの村があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 99,
+        "QA": 94
+    }
+}

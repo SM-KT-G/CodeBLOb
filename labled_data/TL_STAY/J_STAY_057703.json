@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_057703",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/goods/GN0002019640?startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0%5E&npprmaxsort=min",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "인천(동암) 피카소"
+    },
+    "text": "インチョンドンアム駅北部駅広場に位置するドンアムピカソモーテルは、広い客室と低価格で提供する宿です。 ドンアムピカソは皆さんの楽しみをプレゼントするために最善を尽くしています。 また、お知らせとしては全客室でネットフリックスをご利用いただけるという案内があります。",
+    "QA": [
+        {
+            "question": "ドンアムピカソモーテルはどこに位置していますか？",
+            "answer": "ドンアムピカソモーテルはインチョンドンアム駅北部駅広場に位置しています。"
+        },
+        {
+            "question": "ドンアムピカソモーテルの特徴は何ですか？",
+            "answer": "ドンアムピカソモーテルは広い客室と低価格で提供する宿です。"
+        },
+        {
+            "question": "ドンアムピカソモーテルでは何を提供していますか？",
+            "answer": "ドンアムピカソモーテルではネットフリックスを全客室でご利用いただけます。"
+        }
+    ],
+    "word_Count": {
+        "text": 96,
+        "QA": 123
+    }
+}

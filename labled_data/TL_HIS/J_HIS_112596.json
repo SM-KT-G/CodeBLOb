@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_112596",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/view?relicId=217145",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2023-10-11",
+        "domain": "문화/역사관광",
+        "title": "청자 접시"
+    },
+    "text": "青磁皿 (청자 접시)\\n\n国籍/時代: 中国-ウォン 材質: 陶磁器 - 青磁 分類: 食生活 - 食器 - 皿 大きさ: 高さ27cm、直径125cm、底の直径7cm ※修正内容： - 「食べ物」の重複箇所を修正しました。 - 「着こなし」は不適切な表現であるため、直径を表す言葉へ修正しました。また、単位を追加しました。 - 文章のスペースなどが整えた結果、文章全体が自然になるように修正しました。",
+    "QA": [
+        {
+            "question": "この青磁皿の国籍はどこですか？",
+            "answer": "中国です。"
+        },
+        {
+            "question": "この青磁皿の時代は何時ですか？",
+            "answer": "ウォン時代です。"
+        },
+        {
+            "question": "この青磁皿の材質は何ですか？",
+            "answer": "陶磁器の青磁です。"
+        },
+        {
+            "question": "この青磁皿の大きさは何ですか？",
+            "answer": "高さ27cm、直径125cm、底の直径7cmです。"
+        },
+        {
+            "question": "この青磁皿はどの分類に属していますか？",
+            "answer": "食生活の食器の皿に属しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 148,
+        "QA": 103
+    }
+}

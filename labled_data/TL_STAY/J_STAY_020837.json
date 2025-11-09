@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_020837",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-12-30",
+        "domain": "숙박",
+        "title": "徳邱温泉リゾートコンドミニアム（덕구온천리조트 콘도）"
+    },
+    "text": "徳邱温泉リゾートコンドミニアム（덕구온천리조트 콘도）\\n\n慶尚北道 蔚珍郡 北面 徳邱温泉路924\\n\n徳邱温泉リゾートコンドミニアムは、山や谷、そして東海に接しており、温泉はもちろん、観光、山登り、釣り、海水浴まで楽しめます。",
+    "QA": [
+        {
+            "question": "このリゾートコンドミニアムの場所はどこですか？",
+            "answer": "徳邱温泉リゾートコンドミニアムは慶尚北道蔚珍郡にあります。"
+        },
+        {
+            "question": "周辺の自然環境はどのようですか？",
+            "answer": "徳邱温泉リゾートコンドミニアムは山や谷、そして東海に接しており、自然豊かな環境です。"
+        },
+        {
+            "question": "どのようなアクティビティが楽しめますか？",
+            "answer": "徳邱温泉リゾートコンドミニアムでは温泉はもちろん、観光、山登り、釣り、海水浴などのアクティビティが楽しめます。"
+        }
+    ],
+    "word_Count": {
+        "text": 84,
+        "QA": 135
+    }
+}

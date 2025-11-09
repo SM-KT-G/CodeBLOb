@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001908",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2020-12-04",
+        "domain": "음식점",
+        "title": "Mr. sushi 平沢古徳( 미스터스시 평택고덕 )"
+    },
+    "text": "Mr. sushi 平沢古徳( 미스터스시 평택고덕 )\\n\n京畿道 平沢市 京畿大路 987-1\\n\n新鮮な活魚を使用し、様々な回転寿司と伝統的な日本の寿司を提供している店です。 代表的なメニューは寿司です。京畿道のピョンテク市に位置した寿司専門店です。",
+    "QA": [
+        {
+            "question": "ミスタースシさんはどこに位置していますか？",
+            "answer": "ミスタースシさんは京畿道平沢市京畿大路987-1に位置しています。"
+        },
+        {
+            "question": "ミスタースシさんの特徴的なメニューは何ですか？",
+            "answer": "ミスタースシさんの特徴的なメニューは寿司です。"
+        },
+        {
+            "question": "ミスタースシさんはどのような魚を使用していますか？",
+            "answer": "ミスタースシさんは新鮮な活魚を使用しています。"
+        },
+        {
+            "question": "ミスタースシさんは何を提供していますか？",
+            "answer": "ミスタースシさんは様々な回転寿司と伝統的な日本の寿司を提供しています。"
+        },
+        {
+            "question": "ミスタースシさんはどの市に位置していますか？",
+            "answer": "ミスタースシさんは京畿道の平沢市に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 93,
+        "QA": 183
+    }
+}

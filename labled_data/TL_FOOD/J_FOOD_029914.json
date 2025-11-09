@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_029914",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/godeokbokjip",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "コドクふぐジプ"
+    },
+    "text": "コドクふぐジプ\\n\n京畿道 平沢市 古徳面 青園路 715-3\\n\n15年の歴史を持つ店で、ふぐ料理の国家資格を持つシェフが料理を作っています。 おすすめはふぐちりです。京畿道のピョンテク市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "この店は京畿道平沢市古徳面青園路715-3に位置しています。"
+        },
+        {
+            "question": "この店の歴史は何年ありますか？",
+            "answer": "この店は15年の歴史を持っています。"
+        },
+        {
+            "question": "この店ではどのような料理が提供されていますか？",
+            "answer": "この店ではふぐ料理が提供されています。特におすすめはふぐちりです。"
+        },
+        {
+            "question": "この店のシェフはどのような資格を持っていますか？",
+            "answer": "この店のシェフはふぐ料理の国家資格を持っています。"
+        },
+        {
+            "question": "この店は韓食専門店ですか？",
+            "answer": "はい、この店は韓食専門店です。"
+        }
+    ],
+    "word_Count": {
+        "text": 79,
+        "QA": 153
+    }
+}

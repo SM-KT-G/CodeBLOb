@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_002088",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.menupan.com/restaurant/onepage.asp?acode=T168330",
+        "collectedDate": "2023-11-14",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "SOM Thai Bistro"
+    },
+    "text": "SOM Thai Bistro (SOM Thai Bistro)\\n\nソウル江南区論峴一洞158-28\\n\nその他/世界-東南アジアの食べ物 , 12:00 ~ 22:00 , 日曜定休日 , 20席 , 嶺東市場に位置するタイ料理専門店「SOM Thai Bistro」は、知っている人だけが知っているという隠れたグルメ店だ。 ここでは本格的なタイ料理を味わうことができます。 新鮮な材料とタイの香辛料の香りが食欲をそそる料理が提供され、柔らかいカレーとたっぷりのプーパッポンカリーが代表メニューである。 タイ料理をきちんと食べたい人にここをお勧めする。",
+    "QA": [
+        {
+            "question": "このレストランの場所はどこですか？",
+            "answer": "SOM Thai Bistroはソウル江南区論峴一洞158-28に位置しています。"
+        },
+        {
+            "question": "このレストランの営業時間は何時から何時までですか？",
+            "answer": "SOM Thai Bistroの営業時間は12:00から22:00までです。"
+        },
+        {
+            "question": "このレストランは何曜日に定休日ですか？",
+            "answer": "SOM Thai Bistroは日曜日に定休日です。"
+        },
+        {
+            "question": "このレストランの席数は何席ですか？",
+            "answer": "SOM Thai Bistroは20席あります。"
+        },
+        {
+            "question": "このレストランの代表メニューは何ですか？",
+            "answer": "SOM Thai Bistroの代表メニューは柔らかいカレーとたっぷりのプーパッポンカリーです。"
+        },
+        {
+            "question": "このレストランはどんな人におすすめですか？",
+            "answer": "タイ料理をきちんと食べたい人にここをお勧めします。"
+        }
+    ],
+    "word_Count": {
+        "text": 204,
+        "QA": 235
+    }
+}

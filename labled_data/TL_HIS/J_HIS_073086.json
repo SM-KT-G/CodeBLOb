@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_073086",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/collectionList#######",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "봉래백학도"
+    },
+    "text": "蓬莱百鶴図 (봉래백학도)\\n\n国籍/時代: 韓国-朝鮮 材質: 繊維（麻） 分類: 文化芸術-書画-絵画-一般絵画 サイズ: 長さ1934cm、幅587cm 修正案： 「この絵画は韓国-朝鮮時代の作品で、繊維（麻）を使用しています。分類としては、文化芸術の一環である書画と絵画に分類されます。また、作品のサイズは長さ1934cm、幅587cmです。」",
+    "QA": [
+        {
+            "question": "この絵画は何時代の作品ですか？",
+            "answer": "この絵画は韓国-朝鮮時代の作品です。"
+        },
+        {
+            "question": "この絵画はどのような材質で作られていますか？",
+            "answer": "この絵画は繊維（麻）を使用して作られています。"
+        },
+        {
+            "question": "この絵画はどのような分類に属していますか？",
+            "answer": "この絵画は文化芸術の一環である書画と絵画に分類されます。"
+        },
+        {
+            "question": "この絵画のサイズは何ですか？",
+            "answer": "この絵画のサイズは長さ1934cm、幅587cmです。"
+        }
+    ],
+    "word_Count": {
+        "text": 129,
+        "QA": 123
+    }
+}

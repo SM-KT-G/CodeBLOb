@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_002189",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2022-10-25",
+        "domain": "숙박",
+        "title": "W호텔"
+    },
+    "text": "Wホテル (W호텔)\\n\n仁川広域市中区月尾路207\\n\n「Wホテルのコンセプトは現代的な感覚と魅惑的なアンティークさだ。\n客室に快適さを加えるためにスリッパ、無線インターネット、エアコン、暖房、電話機などを提供する。 また、3階は全室禁煙客室である。 Wホテルは仁川行きの旅行客のスマートな選択になり得る」",
+    "QA": [
+        {
+            "question": "Wホテルはどのようなコンセプトですか？",
+            "answer": "Wホテルのコンセプトは現代的な感覚と魅惑的なアンティークさです。"
+        },
+        {
+            "question": "Wホテルの客室はどのような設備がありますか？",
+            "answer": "客室にはスリッパ、無線インターネット、エアコン、暖房、電話機などの設備があります。"
+        },
+        {
+            "question": "Wホテルの客室は禁煙ですか？",
+            "answer": "はい、Wホテルの3階は全室禁煙客室です。"
+        },
+        {
+            "question": "Wホテルは仁川行きの旅行客におすすめですか？",
+            "answer": "はい、Wホテルは仁川行きの旅行客のスマートな選択になり得ます。"
+        }
+    ],
+    "word_Count": {
+        "text": 112,
+        "QA": 147
+    }
+}

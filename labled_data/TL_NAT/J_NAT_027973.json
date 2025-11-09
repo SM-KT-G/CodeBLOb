@@ -1,0 +1,55 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_027973",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=290&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=16&ccbaAsno=01510000&ccbaCtcd=36&ccbaCpno=1363601510000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1962-12-07",
+        "domain": "자연관광",
+        "title": "강진 백련사 동백나무 숲"
+    },
+    "text": "韓国と日本、中国地域には椿の木が立っています。椿の花は春に咲いているのに美しく、チュンベク、チュベク、椿三種類に分けられます。また、白蓮寺には約1,500本の椿の森があり、アベマキ、カヤ、タブノキ、プジョーの木なども育っています。椿の平均高さは約7mに椿の花が咲いた時は、特に美しいと言われています。東ベルリンの起源は正確に知られていないが、茶山草堂と連関しているものと推測されます。この東ベルリンは韓国のナンオンデ地方で育つ椿の木だけでなく、丁若鏞先生と文化的価値と関連し、天然記念物に指定されて保護されています。",
+    "QA": [
+        {
+            "question": "椿の花はいつ咲きますか？",
+            "answer": "椿の花は春に咲きます。"
+        },
+        {
+            "question": "椿の木の平均高さはどのくらいですか？",
+            "answer": "椿の木の平均高さは約7mです。"
+        },
+        {
+            "question": "椿の花が咲いた時の美しさについて教えてください。",
+            "answer": "椿の花が咲いた時は特に美しいと言われています。"
+        },
+        {
+            "question": "東ベルリンの起源について教えてください。",
+            "answer": "東ベルリンの起源は正確に知られていませんが、茶山草堂と連関しているものと推測されます。"
+        },
+        {
+            "question": "白蓮寺にある椿の森には何種類の木が育っていますか？",
+            "answer": "白蓮寺には約1,500本の椿の森があり、アベマキ、カヤ、タブノキ、プジョーの木なども育っています。"
+        },
+        {
+            "question": "東ベルリンはどの地域で育つ椿の木と関連していますか？",
+            "answer": "東ベルリンは韓国のナンオンデ地方で育つ椿の木と関連しています。"
+        },
+        {
+            "question": "椿の木には何種類の花がありますか？",
+            "answer": "椿の花はチュンベク、チュベク、椿の三種類に分けられます。"
+        },
+        {
+            "question": "誰が東ベルリンと椿の木に関連していますか？",
+            "answer": "丁若鏞先生と文化的価値と関連し、天然記念物に指定されて保護されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 189,
+        "QA": 292
+    }
+}

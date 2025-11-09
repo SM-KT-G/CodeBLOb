@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_010803",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1223&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=79&ccbaAsno=04000000&ccbaCtcd=11&ccbaCpno=4413104000000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2008-08-12",
+        "domain": "문화/역사관광",
+        "title": "기아 경3륜 트럭"
+    },
+    "text": "起亜軽3輪トラック (기아 경3륜 트럭)\\n\nソウル特別市鍾路区世宗大路198(世宗路、大韓民国歴史博物館)\\n\n1969年 , 国家登録文化財 , この車は起亜自動車の前身である起亜産業が生産した小型トラックT-600モデルだ。 近距離貨物トラックが必要で、起亜産業が日本の3輪トラック生産会社である東洋工業と技術提携して開発·生産した最初の国産トラックで、保存状態が良好だ。 内需産業が活発だった時期に使用した車で、自動車産業で技術史的価値が高い。",
+    "QA": [
+        {
+            "question": "この車は何年に作られましたか？",
+            "answer": "1969年"
+        },
+        {
+            "question": "この車のメーカーは何ですか？",
+            "answer": "起亜自動車（起亜産業）"
+        },
+        {
+            "question": "この車のモデル名は何ですか？",
+            "answer": "T-600"
+        },
+        {
+            "question": "この車はどこで展示されていますか？",
+            "answer": "ソウル特別市鍾路区世宗大路198（世宗路、大韓民国歴史博物館）"
+        },
+        {
+            "question": "なぜこの車は特別な保存状態を保っていますか？",
+            "answer": "内需産業が活発だった時期に使用され、自動車産業で技術史的価値が高いからです。"
+        }
+    ],
+    "word_Count": {
+        "text": 166,
+        "QA": 126
+    }
+}

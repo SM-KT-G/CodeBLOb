@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_028507",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-07-23",
+        "domain": "문화/역사관광",
+        "title": "鄭芝溶文学館（정지용 문학관）"
+    },
+    "text": "鄭芝溶文学館\n忠清北道 沃川郡 沃川邑 ヒャンスキル 56\n忠北沃川郡沃川邑下桂里は、『郷愁』で広く知られる詩人・鄭芝溶（チョン・ジヨン）が生まれ育った故郷です。鄭芝溶の生家横には鄭芝溶の生涯や文学が理解できるよう、鄭芝溶文学館が建てられています。文学展示室にはテーマ別に鄭芝溶の作品が展示されています。",
+    "QA": [
+        {
+            "question": "鄭芝溶はどこで生まれましたか？",
+            "answer": "鄭芝溶は忠清北道沃川郡沃川邑下桂里で生まれました。"
+        },
+        {
+            "question": "鄭芝溶は何で有名ですか？",
+            "answer": "鄭芝溶は『郷愁』という詩で広く知られています。"
+        },
+        {
+            "question": "鄭芝溶の生家の横には何が建てられていますか？",
+            "answer": "鄭芝溶の生家の横には鄭芝溶文学館が建てられています。"
+        },
+        {
+            "question": "鄭芝溶文学館では何が展示されていますか？",
+            "answer": "鄭芝溶文学館ではテーマ別に鄭芝溶の作品が展示されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 111,
+        "QA": 126
+    }
+}

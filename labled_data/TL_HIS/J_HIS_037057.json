@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_037057",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=958&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=00080000&ccbaCtcd=23&ccbaCpno=3412300080000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1995-03-02",
+        "domain": "문화/역사관광",
+        "title": "철종외가"
+    },
+    "text": "哲宗外家 (철종외가)\\n\n仁川江華郡仙源面鉄宗外街キル46-1(冷井里)\\n\n仁川広域市文化財資料、朝鮮哲宗(在位1849~1863)の叔父であるヨム·ボギルが住んでいた家だ。 哲宗4年(1853)に建てられたこの建物は、本来母屋とサランチェを左右に置いてH字型の配置を取っていたが、門屋の一部が取り壊され、今はコ字型の母屋だけが残っている。 サランチェと母屋が一字型に連結されており、中(母屋)と外(サランチェ)の空間を小さな塀で簡単に分離した。 規模は小さいが古めかしい美しさがにじみ出る建物だ。",
+    "QA": [
+        {
+            "question": "この建物は誰が住んでいたのですか？",
+            "answer": "哲宗4年に建てられたこの建物は、朝鮮哲宗の叔父であるヨム・ボギルが住んでいました。"
+        },
+        {
+            "question": "この建物はいつ建てられましたか？",
+            "answer": "この建物は哲宗4年(1853年)に建てられました。"
+        },
+        {
+            "question": "この建物の配置はどのようになっていますか？",
+            "answer": "元々は母屋とサランチェを左右に置いてH字型の配置を取っていたが、現在はコ字型の母屋だけが残っています。"
+        },
+        {
+            "question": "この建物の特徴は何ですか？",
+            "answer": "この建物は規模は小さいですが、古めかしい美しさがにじみ出ていると言えます。"
+        }
+    ],
+    "word_Count": {
+        "text": 184,
+        "QA": 162
+    }
+}

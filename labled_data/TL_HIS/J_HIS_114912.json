@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_114912",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=389&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=00250000&ccbaCtcd=33&ccbaCpno=2113300250000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1976-12-21",
+        "domain": "문화/역사관광",
+        "title": "청주 탑동 오층석탑"
+    },
+    "text": "清州塔洞五重石塔\\n\n忠清北道清州市上党区塔洞路35(タプドン)\\n\nナマルヨチョ、忠清北道有形文化財、清州(チョンジュ)塔洞に立っている塔で、今席から西に40m地点にして崩れていたことを移して建てたものだ。この塔によって''塔洞''という村の名前が生まれた。形からして、2階の基壇(基壇)の上に5階の塔身(塔身)を上げたようだが、今は基壇部がほとんどなくなって塔身部は1階の石核と1、2、3、5階のジブンドルだけが残っている。5階石核との頂上の髪飾りは、塔を復元する際に補充したのだ。一部だけが残った基壇には上面に塔身の1階石核を受けるため分厚いグェイム彫刻を置いた。塔身の1階石核は角ごとにの柱の形の彫刻を置いて、4面に仏像を彫ったが、東は薬師如来像、南はビロジャナ仏像、西は釈迦如来像、北は阿弥陀ヨレジュワ商人ようだ。ジブンドルは底面の子音字が5段ずつであり、四隅がつり上がった。全体的に統一新羅の石塔様式に準拠しているようだが、失われた石材によって勇壮ㅆオッウル塔の昔の姿を見ることができないことが残念だ。統一新羅時代後期∼高麗電気の間に建てたものとみられる。",
+    "QA": [
+        {
+            "question": "この塔は何世紀に建てられましたか？",
+            "answer": "この塔は統一新羅時代後期から高麗時代の間に建てられたものと考えられています。"
+        },
+        {
+            "question": "塔洞という村の名前の由来は何ですか？",
+            "answer": "この塔によって''塔洞''という村の名前が生まれたとされています。"
+        },
+        {
+            "question": "塔洞五重石塔の基壇部は今はどのような状態ですか？",
+            "answer": "今は基壇部がほとんどなくなっています。"
+        },
+        {
+            "question": "塔身の1階石核には何が彫刻されていますか？",
+            "answer": "塔身の1階石核には角ごとに柱の形の彫刻と仏像が彫られており、東は薬師如来像、南はビロジャナ仏像、西は釈迦如来像、北は阿弥陀ヨレジュワ商人像とみられています。"
+        },
+        {
+            "question": "この塔はどのような様式に準拠していますか？",
+            "answer": "この塔は統一新羅の石塔様式に準拠しているようです。"
+        }
+    ],
+    "word_Count": {
+        "text": 354,
+        "QA": 215
+    }
+}

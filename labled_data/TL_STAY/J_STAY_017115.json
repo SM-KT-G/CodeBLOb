@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_017115",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2023-08-31",
+        "domain": "숙박",
+        "title": "모꼬지[한국관광 품질인증/Korea Quality]"
+    },
+    "text": "モコジ[韓国観光品質認証/Korea Quality] (모꼬지[한국관광 품질인증/Korea Quality])\\n\nソウル特別市鍾路区恵化路16ギル13-6\\n\nモコジはソウル鍾路恵化洞、大学路住宅街に位置する韓屋ゲストハウスだ。 地下鉄漢城大入口駅から徒歩10分の距離にあり、公共交通機関の利用が便利だ。 客室は4室で、すべてエアコンが完備されており、快適に宿泊できる。 近くに大学路、昌慶宮、清渓川などの主要観光名所があり、旅行を楽しむのに最適だ。",
+    "QA": [
+        {
+            "question": "モコジはどこに位置していますか？",
+            "answer": "モコジはソウル鍾路恵化洞、大学路住宅街に位置しています。"
+        },
+        {
+            "question": "モコジまでの最寄りの地下鉄駅はどこですか？",
+            "answer": "モコジまでの最寄りの地下鉄駅は漢城大入口駅です。"
+        },
+        {
+            "question": "モコジには何室の客室がありますか？",
+            "answer": "モコジには4室の客室があります。"
+        },
+        {
+            "question": "モコジの客室にはどんな設備が完備されていますか？",
+            "answer": "モコジの客室にはすべてエアコンが完備されています。"
+        },
+        {
+            "question": "モコジの周辺にはどんな観光名所がありますか？",
+            "answer": "モコジの周辺には大学路、昌慶宮、清渓川などの主要な観光名所があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 167,
+        "QA": 167
+    }
+}

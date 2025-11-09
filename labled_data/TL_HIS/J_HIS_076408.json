@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_076408",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/view?relicId=147568",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2023-10-11",
+        "domain": "문화/역사관광",
+        "title": "빗살무늬 토기 조각"
+    },
+    "text": "櫛目文土器片 (빗살무늬 토기 조각)\\n\nこの品物は、韓国で新石器時代に使われた道具です。材料は軟らかい土で作られており、主に食物の保存や運搬に使用されました。現在は長さが10.1cmで厚さが0.7cm、5.0cmで厚さが0.8cm、3.8cmで厚さが0.6cm、11.9cmで厚さが1.9cmとなっています。",
+    "QA": [
+        {
+            "question": "この櫛目文土器片は何時代に使われた道具ですか？",
+            "answer": "この櫛目文土器片は新石器時代に使われた道具です。"
+        },
+        {
+            "question": "櫛目文土器片はどのような材料で作られていますか？",
+            "answer": "櫛目文土器片は軟らかい土で作られています。"
+        },
+        {
+            "question": "櫛目文土器片は主に何に使用されましたか？",
+            "answer": "櫛目文土器片は主に食物の保存や運搬に使用されました。"
+        },
+        {
+            "question": "櫛目文土器片の現在の長さと厚さはそれぞれ何ですか？",
+            "answer": "現在の櫛目文土器片の長さは10.1cm、5.0cm、3.8cm、11.9cmで、厚さはそれぞれ0.7cm、0.8cm、0.6cm、1.9cmです。"
+        }
+    ],
+    "word_Count": {
+        "text": 114,
+        "QA": 173
+    }
+}

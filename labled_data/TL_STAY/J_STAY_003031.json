@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_003031",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42050&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "군산 호텔 은파팰리스"
+    },
+    "text": "お客様を最優先に考え、ウンパパレスは変わらぬ心でお客様に最上のサービスを提供しています。 当ホテルは永久抱卵形の明堂に位置しており、お客様に快適な客室と細心の配慮を提供できる環境です。 全職員はお客様に満足していただけるよう最善を尽くし、一人だけの時間や家族、友人、恋人と一緒に過ごすことができるよう、リラックスして楽しい休息の時間を提供します。",
+    "QA": [
+        {
+            "question": "ウンパパレスはどのような場所に位置していますか？",
+            "answer": "ウンパパレスは明堂に位置しています。"
+        },
+        {
+            "question": "ウンパパレスはどのようなサービスを提供していますか？",
+            "answer": "ウンパパレスはお客様に最上のサービスを提供しています。"
+        },
+        {
+            "question": "ウンパパレスの全職員はどのような心構えで働いていますか？",
+            "answer": "ウンパパレスの全職員はお客様を最優先に考え、最善を尽くしています。"
+        },
+        {
+            "question": "ウンパパレスではどのような時間を過ごすことができますか？",
+            "answer": "ウンパパレスでは一人だけの時間や家族、友人、恋人と一緒に過ごすことができます。"
+        },
+        {
+            "question": "ウンパパレスはどのような環境ですか？",
+            "answer": "ウンパパレスは快適な客室と細心の配慮を提供できる環境です。"
+        }
+    ],
+    "word_Count": {
+        "text": 126,
+        "QA": 198
+    }
+}

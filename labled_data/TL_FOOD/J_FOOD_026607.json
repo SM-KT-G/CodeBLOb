@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_026607",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/jeju-mihyang",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "済州味香"
+    },
+    "text": "済州味香\\n\n済州特別自治道 西帰浦市 天帝淵路 99\\n\n済州中文観光団地に位置する済州味香は青い海、如美地植物園、仙女橋が一望できるところにあります。新鮮な銀色の太刀魚とサバが味わえます。",
+    "QA": [
+        {
+            "question": "済州味香はどこに位置していますか？",
+            "answer": "済州味香は済州特別自治道 西帰浦市 天帝淵路 99に位置しています。"
+        },
+        {
+            "question": "済州味香から見える景色は何ですか？",
+            "answer": "済州味香からは青い海、如美地植物園、仙女橋が一望できます。"
+        },
+        {
+            "question": "済州味香で食べられる料理は何ですか？",
+            "answer": "済州味香では新鮮な銀色の太刀魚とサバが味わえます。"
+        }
+    ],
+    "word_Count": {
+        "text": 70,
+        "QA": 102
+    }
+}

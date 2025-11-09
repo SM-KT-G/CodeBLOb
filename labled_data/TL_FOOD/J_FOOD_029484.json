@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_029484",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "紅武ラム肉の串焼き ( 홍무양꼬치 )"
+    },
+    "text": "紅武ラム肉の串焼き ( 홍무양꼬치 )\\n\nソウル特別市 ヨンドゥンポ区 シンギルロ60ガギル1\\n\nリーズナブルな価格で食事ができる店で、地元民の穴場です ソウル特別市のヨンドゥンポ区に位置した韓食専門店です。おすすめはラム肉の串焼きです。",
+    "QA": [
+        {
+            "question": "この店の名前は何ですか？",
+            "answer": "紅武ラム肉の串焼き（홍무양꼬치）です。"
+        },
+        {
+            "question": "この店はどこにありますか？",
+            "answer": "ソウル特別市のヨンドゥンポ区に位置しています。具体的な住所はシンギルロ60ガギル1です。"
+        },
+        {
+            "question": "この店の料理はどんな特徴がありますか？",
+            "answer": "地元の穴場としてリーズナブルな価格で食事ができる店です。特におすすめはラム肉の串焼きです。"
+        }
+    ],
+    "word_Count": {
+        "text": 88,
+        "QA": 111
+    }
+}

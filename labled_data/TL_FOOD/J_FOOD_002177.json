@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_002177",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-08-27",
+        "domain": "음식점",
+        "title": "WANBAEK BUDAE JJIGAE( 완백부대찌개 )"
+    },
+    "text": "WANBAEK BUDAE JJIGAE( 완백부대찌개 )\\n\nソウル特別市 鐘路区 仁寺洞キル 44\\n\n漫画「食客」で紹介された名店です。代表的なメニューはプデチゲです。ソウル特別市のジョンノ区に位置したプデチゲ専門店です。",
+    "QA": [
+        {
+            "question": "このお店はどこにありますか？",
+            "answer": "ソウル特別市 鐘路区 仁寺洞キル 44にあります。"
+        },
+        {
+            "question": "このお店の代表的なメニューは何ですか？",
+            "answer": "代表的なメニューはプデチゲです。"
+        },
+        {
+            "question": "このお店は何を専門としていますか？",
+            "answer": "このお店はプデチゲ専門店です。"
+        }
+    ],
+    "word_Count": {
+        "text": 84,
+        "QA": 77
+    }
+}

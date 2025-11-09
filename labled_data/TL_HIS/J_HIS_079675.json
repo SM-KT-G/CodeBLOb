@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_079675",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=913&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=24&ccbaAsno=00080000&ccbaCtcd=11&ccbaCpno=2441100080000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1977-03-17",
+        "domain": "문화/역사관광",
+        "title": "삼청동오위장김춘영가옥"
+    },
+    "text": "三清洞五位帳 キム·チュンヨン家屋\\n\nソウル中区退渓路34ギル28、逸院(ピルドン2街)\\n\nソウル特別市民俗文化財、朝鮮時代後期に一番上(五衛將)官職を務めたキムチュンヨンが1890年代に建てた家だ。一番(五衛は朝鮮時代、中央軍事組織を指す。今の建物は鍾路区三清洞(チョンログ・サムチョンドン)にいたことを韓屋村に移し、復元したものと、門屋、サランチェ、母屋で構成されている。サランチェは門屋と相次いで突出されており、サランバン・大青(テチョン)・部屋で構成されている。母屋はコの字型平面に、ソウル地方の一般的な住宅構造によっているが、板の間を中心に右側にもう一つの部屋、左にホーム・台所・マル・光を置いた。門に入って左側には玄関わきの部屋が1間ある。全体的に質素な様式を見える家には奥の間の裏側の壁を独特に積んで家の格式を一層高めている。",
+    "QA": [
+        {
+            "question": "この家は誰のものでしたか？",
+            "answer": "キム・チュンヨンが所有していました。"
+        },
+        {
+            "question": "この家はどこにありますか？",
+            "answer": "ソウル中区退渓路34ギル28、逸院(ピルドン2街)にあります。"
+        },
+        {
+            "question": "この家はいつ建てられましたか？",
+            "answer": "1890年代に建てられました。"
+        },
+        {
+            "question": "この家はどのような構造になっていますか？",
+            "answer": "門屋、サランチェ、母屋で構成されており、母屋はコの字型平面になっています。"
+        },
+        {
+            "question": "この家の特徴は何ですか？",
+            "answer": "奥の間の裏側の壁を独特に積んで家の格式を一層高めています。"
+        }
+    ],
+    "word_Count": {
+        "text": 272,
+        "QA": 148
+    }
+}

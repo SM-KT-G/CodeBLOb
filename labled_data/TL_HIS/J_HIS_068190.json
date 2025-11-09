@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_068190",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=154&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=13910000&ccbaCtcd=11&ccbaCpno=1123113910000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2003-12-30",
+        "domain": "문화/역사관광",
+        "title": "백자 상감투각모란문 병"
+    },
+    "text": "白磁象嵌透角牡丹紋の瓶\\n\nソウル龍山区梨泰院路55キル60-16、ジャン·ジャン·ジャン(漢南洞)\\n\n朝鮮時代(15世紀)、宝物、白瓷象嵌の透かし彫り牡丹見舞いは朝鮮時代前期に製作された象嵌装飾が施されていた病気で、当時の白磁瓶の典型的な形態と装飾素材、釉の色、ヒールの特徴などを備えている。特に典型的でありながら、堂々として優雅な形と、独特な二重の製作技法、透かし彫りと象嵌技法を混用した特異な装飾技法は、現在まで知られた例のない珍しい事例だ。この病気は、口がラッパのように行われていてあり、首は細くて長く、胴体は底部で平べったくに行われた形態である。かかとの高さが比較的高く、大きさも大きな方で朝鮮時代前期に製作された白磁瓶の特徴がよく現れている。",
+    "QA": [
+        {
+            "question": "この瓶はどの時代に作られましたか？",
+            "answer": "この瓶は朝鮮時代前期に作られました。"
+        },
+        {
+            "question": "この瓶はどのような形状と装飾を持っていますか？",
+            "answer": "この瓶は堂々と優雅な形状を持ち、独特な透かし彫りと象嵌技法を混用した装飾を施されています。"
+        },
+        {
+            "question": "この瓶の釉の色はどのような特徴がありますか？",
+            "answer": "この瓶の釉の色は白色です。"
+        },
+        {
+            "question": "この瓶の製作技法にはどのような特異な点がありますか？",
+            "answer": "この瓶の製作技法は特異で、透かし彫りと象嵌技法を混用しています。"
+        },
+        {
+            "question": "この瓶はどのような時代の白磁瓶の特徴を備えていますか？",
+            "answer": "この瓶は朝鮮時代前期に製作された白磁瓶の典型的な形態と装飾素材を備えています。"
+        }
+    ],
+    "word_Count": {
+        "text": 240,
+        "QA": 192
+    }
+}

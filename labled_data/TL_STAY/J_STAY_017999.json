@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_017999",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42080&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "강릉 안목을높이다펜션"
+    },
+    "text": "江陵の眼差しを高めるペンションでは5月15日に新築グランドオープンをしました。 このペンションは眼目ビーチに位置しており、最高のフルワイドオーシャンビューを楽しむことができます。 日常で疲れているすべての方々を見張り、癒しの時間を楽しむことができるでしょう。 お知らせします. ただし、22時以降に入室される場合、ペンションまで予めご連絡ください。全客室は7kg未満のペット1匹を同伴して入室可能です。",
+    "QA": [
+        {
+            "question": "このペンションはどの場所に位置していますか？",
+            "answer": "このペンションは眼目ビーチに位置しています。"
+        },
+        {
+            "question": "新築グランドオープンはいつですか？",
+            "answer": "新築グランドオープンは5月15日です。"
+        },
+        {
+            "question": "どのような眺めが楽しめますか？",
+            "answer": "最高のフルワイドオーシャンビューを楽しむことができます。"
+        },
+        {
+            "question": "疲れている方々が癒されるために何を提供していますか？",
+            "answer": "癒しの時間を楽しむことができる施設です。"
+        },
+        {
+            "question": "何時以降に入室する場合、事前に連絡する必要がありますか？",
+            "answer": "22時以降に入室される場合、ペンションまで予めご連絡ください。"
+        },
+        {
+            "question": "ペットを同伴して入室できますか？",
+            "answer": "全客室は7kg未満のペット1匹を同伴して入室可能です。"
+        }
+    ],
+    "word_Count": {
+        "text": 147,
+        "QA": 198
+    }
+}

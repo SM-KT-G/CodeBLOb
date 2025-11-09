@@ -1,0 +1,59 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_033335",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.booking.com/hotel/kr/the-hyoosik-aank-busan-nampo-branch.ko.html",
+        "collectedDate": "2023-11-17",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "부산 아늑 The Hyoosik Aank Hotel Busan Nampo Branch"
+    },
+    "text": "釜山居心地の良いThe Hyoosik Aank Hotel Busan Nampo Branchは釜山市中区に位置する宿です。 エアコン、薄型テレビなどが完備された客室を提供しており、チャイナタウンから1.8km、釜山駅から2.1km、釜山海洋博物館から6.3kmの距離に位置しています。 構内には専用駐車場が設けられていて便利にご利用いただけます。 客室には専用バスルームがあり、浴槽またはシャワー設備、ヘアドライヤーが備わっています。 レセプションのスタッフは有用な情報を提供し、宿の周辺には光復洞、国際市場、釜山港などの主要名所があり観光にも最適です。 金海国際空港は宿から約14kmの距離に位置しています。",
+    "QA": [
+        {
+            "question": "このホテルの場所はどこですか？",
+            "answer": "The Hyoosik Aank Hotel Busan Nampo Branchは釜山市中区に位置しています。"
+        },
+        {
+            "question": "このホテルの設備には何がありますか？",
+            "answer": "エアコン、薄型テレビなどが完備された客室を提供しています。"
+        },
+        {
+            "question": "このホテルからチャイナタウンまでの距離はどのくらいですか？",
+            "answer": "チャイナタウンまでの距離は1.8kmです。"
+        },
+        {
+            "question": "このホテルから釜山駅までの距離はどのくらいですか？",
+            "answer": "釜山駅までの距離は2.1kmです。"
+        },
+        {
+            "question": "このホテルから釜山海洋博物館までの距離はどのくらいですか？",
+            "answer": "釜山海洋博物館までの距離は6.3kmです。"
+        },
+        {
+            "question": "このホテルには駐車場はありますか？",
+            "answer": "はい、構内には専用駐車場があります。"
+        },
+        {
+            "question": "客室にはどのような設備がありますか？",
+            "answer": "客室には専用バスルーム、浴槽またはシャワー設備、ヘアドライヤーが備わっています。"
+        },
+        {
+            "question": "周辺にはどのような観光名所がありますか？",
+            "answer": "宿の周辺には光復洞、国際市場、釜山港などの主要名所があります。"
+        },
+        {
+            "question": "最寄りの空港はどこですか？",
+            "answer": "最寄りの空港は金海国際空港で、宿から約14kmの距離に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 225,
+        "QA": 331
+    }
+}

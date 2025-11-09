@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_010480",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-06",
+        "domain": "음식점",
+        "title": "テリム山菜定食（태림산채정식）"
+    },
+    "text": "テリム山菜定食\\n\nソウル特別市 道峰区 蘆海路60キル 32 （双門洞）\\n\n山菜和えと蔓人参の香りが店内に広がる「テリム山菜定食（サンチェジョンシク）」。 健康野菜の山菜和えと蔓人参、キキョウの根を使った根菜料理がこのお店のおすすめです。また、薬水（湧水）で漬けた水キムチは、独特な味わいが人気です。",
+    "QA": [
+        {
+            "question": "このお店の場所はどこですか？",
+            "answer": "ソウル特別市 道峰区 蘆海路60キル 32 （双門洞）にあります。"
+        },
+        {
+            "question": "このお店のおすすめは何ですか？",
+            "answer": "おすすめはテリム山菜定食（サンチェジョンシク）です。"
+        },
+        {
+            "question": "どんな山菜が使われているんですか？",
+            "answer": "健康野菜の山菜和えと蔓人参、キキョウの根を使った根菜料理があります。"
+        },
+        {
+            "question": "水キムチはどんな味ですか？",
+            "answer": "薬水（湧水）で漬けた水キムチは、独特な味わいがあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 111,
+        "QA": 132
+    }
+}

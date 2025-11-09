@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_011074",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-08-17",
+        "domain": "문화/역사관광",
+        "title": "金仙寺（ソウル）（금선사（서울））"
+    },
+    "text": "金仙寺（ソウル）\nソウル特別市 鐘路区 飛鳳キル137\n「金仙寺（クムソンサ）」は北漢山国立公園内にある寺院でソウルの閑静な住宅街を抜けると見えてくる静かな登山道を上がった場所にひっそりとあります。車では上がることができないような細い道で、渓谷をや四季折々の自然を感じることができます。",
+    "QA": [
+        {
+            "question": "金仙寺はどこにありますか？",
+            "answer": "金仙寺（クムソンサ）はソウル特別市鐘路区飛鳳キル137にあります。"
+        },
+        {
+            "question": "金仙寺へのアクセス方法はありますか？",
+            "answer": "金仙寺へは、ソウルの閑静な住宅街を抜けると見えてくる静かな登山道を上がることでアクセスできます。"
+        },
+        {
+            "question": "金仙寺の周辺には何がありますか？",
+            "answer": "金仙寺の周辺には北漢山国立公園があり、渓谷や四季折々の自然を楽しむことができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 104,
+        "QA": 123
+    }
+}

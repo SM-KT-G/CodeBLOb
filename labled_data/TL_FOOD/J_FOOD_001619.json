@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001619",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-01",
+        "domain": "음식점",
+        "title": "DABAR ( 다바르 )"
+    },
+    "text": "DABAR ( 다바르 )\n京畿道 平澤市 二忠路 49-31\n動物性食材や小麦粉を使わず、植物性食材のみで料理を作っているところです。 京畿道のピョンテク市に位置したカフェです。代表的なメニューはマフィンです。",
+    "QA": [
+        {
+            "question": "ダバルカフェはどこに位置していますか？",
+            "answer": "ダバルカフェは京畿道平澤市二忠路49-31に位置しています。"
+        },
+        {
+            "question": "ダバルカフェはどんな料理を提供していますか？",
+            "answer": "ダバルカフェは動物性食材や小麦粉を使わず、植物性食材のみで料理を提供しています。代表的なメニューはマフィンです。"
+        },
+        {
+            "question": "ダバルカフェはどのような場所ですか？",
+            "answer": "ダバルカフェは京畿道のピョンテク市に位置しているカフェです。"
+        },
+        {
+            "question": "ダバルカフェの代表的なメニューは何ですか？",
+            "answer": "ダバルカフェの代表的なメニューはマフィンです。"
+        }
+    ],
+    "word_Count": {
+        "text": 77,
+        "QA": 160
+    }
+}

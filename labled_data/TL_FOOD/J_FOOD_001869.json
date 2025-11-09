@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001869",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-05",
+        "domain": "음식점",
+        "title": "Market O  狎鴎亭 ( 마켓오 압구정 )"
+    },
+    "text": "Market O  狎鴎亭 ( 마켓오 압구정 )\\n\nソウル特別市 江南区 トサンデロ310\\n\n食事だけでなく、お集まりの場所としてもぴったりなレストランです。ソウル特別市のガンナム区に位置した洋食専門店です。代表的なメニューはステーキです。",
+    "QA": [
+        {
+            "question": "狎鴎亭（マーケットオー）はどこにありますか？",
+            "answer": "狎鴎亭（マーケットオー）はソウル特別市江南区トサンデロ310に位置しています。"
+        },
+        {
+            "question": "狎鴎亭（マーケットオー）はどんなレストランですか？",
+            "answer": "狎鴎亭（マーケットオー）は食事だけでなく、お集まりの場所としてもぴったりな洋食専門店です。"
+        },
+        {
+            "question": "狎鴎亭（マーケットオー）の代表的なメニューは何ですか？",
+            "answer": "狎鴎亭（マーケットオー）の代表的なメニューはステーキです。"
+        }
+    ],
+    "word_Count": {
+        "text": 90,
+        "QA": 137
+    }
+}

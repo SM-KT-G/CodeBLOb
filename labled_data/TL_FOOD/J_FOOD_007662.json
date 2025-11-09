@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_007662",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-07-07",
+        "domain": "음식점",
+        "title": "ジャスミン（쟈스민）"
+    },
+    "text": "ジャスミン（쟈스민）\\n\n江原道 春川市 ウムッキル74番キル14\\n\n1999年にオープンした「ジャスミン」は新鮮な材料が最上の味をつくり出すという経営理念を持ち、木浦などで獲れた海産物や春川近隣の新鮮な野菜などを使ったおいしい中国料理を提供しています。",
+    "QA": [
+        {
+            "question": "ジャスミンはいつオープンしましたか？",
+            "answer": "ジャスミンは1999年にオープンしました。"
+        },
+        {
+            "question": "ジャスミンはどのような経営理念を持っていますか？",
+            "answer": "ジャスミンは新鮮な材料が最上の味をつくり出すという経営理念を持っています。"
+        },
+        {
+            "question": "ジャスミンではどのような料理を提供していますか？",
+            "answer": "ジャスミンでは木浦などで獲れた海産物や春川近隣の新鮮な野菜などを使ったおいしい中国料理を提供しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 93,
+        "QA": 129
+    }
+}

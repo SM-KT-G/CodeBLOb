@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_016080",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42060&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "공주(동학사) 갤러리"
+    },
+    "text": "フロントでヤノルジャ会員であることを必ずおっしゃっていただければ、提携店の内部によって会員特典が適用されます。 基準人数は全客室が2名であり、人数を超える場合は1名当たり10,000ウォンの追加料金が発生します。 また、自然史博物館と隣接した位置に1室1台駐車施設を保有しています。",
+    "QA": [
+        {
+            "question": "ヤノルジャ会員であることをおっしゃっていただくと、提携店の内部でどのような会員特典が適用されますか？",
+            "answer": "ヤノルジャ会員であることをおっしゃっていただければ、提携店の内部によって会員特典が適用されます。"
+        },
+        {
+            "question": "客室の基準人数は何名ですか？人数を超える場合はどのような料金が発生しますか？",
+            "answer": "全客室が2名であり、人数を超える場合は1名当たり10,000ウォンの追加料金が発生します。"
+        },
+        {
+            "question": "ホテルに駐車施設はありますか？",
+            "answer": "自然史博物館と隣接した位置に1室1台駐車施設を保有しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 103,
+        "QA": 166
+    }
+}

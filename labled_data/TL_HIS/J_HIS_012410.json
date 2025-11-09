@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_012410",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2022-12-23",
+        "domain": "문화/역사관광",
+        "title": "大関嶺ハヌル牧場（대관령 하늘목장）"
+    },
+    "text": "大関嶺ハヌル牧場（대관령 하늘목장）\\n\nカンウォン道ピョンチャン郡テグァルリョン面コッパッヤンジギル458-23\\n\n1974年に設立された「大関嶺ハヌル牧場（テグァルリョンハヌルモクチャン）」は1,000万平方メートルほどの広大な牧場です。現在は約400頭のホルスタインと約100頭の羊、約40頭の馬を飼育しています。",
+    "QA": [
+        {
+            "question": "大関嶺ハヌル牧場はいつ設立されましたか？",
+            "answer": "大関嶺ハヌル牧場は1974年に設立されました。"
+        },
+        {
+            "question": "大関嶺ハヌル牧場の面積はどのくらいですか？",
+            "answer": "大関嶺ハヌル牧場の面積は1,000万平方メートルほどです。"
+        },
+        {
+            "question": "大関嶺ハヌル牧場ではどのような動物が飼育されていますか？",
+            "answer": "大関嶺ハヌル牧場では約400頭のホルスタイン牛、約100頭の羊、約40頭の馬が飼育されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 118,
+        "QA": 123
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_009162",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1241&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=79&ccbaAsno=05900000&ccbaCtcd=24&ccbaCpno=4412405900000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2014-07-01",
+        "domain": "문화/역사관광",
+        "title": "광주 조선대학교 의학대학 본관"
+    },
+    "text": "光州朝鮮大学校医学大学本館 (광주 조선대학교 의학대학 본관)\\n\n光州広域市東区筆門大路365(鶴洞、朝鮮大学校病院)\\n\n国家登録文化財 , 医学大学本館は中央玄関を中心に左右対称を成し、偏腹度を中心に空間を構成し、階高が高く垂直に長い窓を設置して垂直性を強調した外観が特徴的だ。1957年薬学大学教師として建設されたが、1962年頃から医学大学本館として使われている建物で、大学自体での歴史的な価値とともに同時代の建築技術の特性と大学教育施設の特性をよく示す建物として価値がある。",
+    "QA": [
+        {
+            "question": "この建物は何のために建設されましたか？",
+            "answer": "この建物は1957年に薬学大学の教師用に建設されましたが、後に医学大学本館として使用されるようになりました。"
+        },
+        {
+            "question": "この建物の特徴的な外観について教えてください。",
+            "answer": "医学大学本館は中央玄関を中心に左右対称を成し、垂直性を強調した外観が特徴的です。階高が高く、垂直に長い窓も設置されています。"
+        },
+        {
+            "question": "この建物は何の価値がありますか？",
+            "answer": "この建物は大学自体の歴史的な価値に加えて、同時代の建築技術と大学教育施設の特性をよく示す建物として価値があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 178,
+        "QA": 169
+    }
+}

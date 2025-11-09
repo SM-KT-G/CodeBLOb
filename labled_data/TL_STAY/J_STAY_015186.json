@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_015186",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2020-03-25",
+        "domain": "숙박",
+        "title": "ニューアイランド観光ホテル（뉴아일랜드 관광호텔）"
+    },
+    "text": "ニューアイランド観光ホテル（뉴아일랜드 관광호텔）\\n\n済州特別自治道 済州市 連洞6キル17\\n\n新済州に位置するニューアイランド観光ホテルは、低価格な宿泊料金で、様々な便利な施設が備えられています。",
+    "QA": [
+        {
+            "question": "ニューアイランド観光ホテルはどこに位置していますか？",
+            "answer": "ニューアイランド観光ホテルは済州特別自治道済州市連洞6キル17に位置しています。"
+        },
+        {
+            "question": "ニューアイランド観光ホテルにはどのような施設がありますか？",
+            "answer": "ニューアイランド観光ホテルには様々な便利な施設が備えられています。"
+        },
+        {
+            "question": "ニューアイランド観光ホテルの宿泊料金はどのくらいですか？",
+            "answer": "ニューアイランド観光ホテルの宿泊料金は低価格です。"
+        }
+    ],
+    "word_Count": {
+        "text": 74,
+        "QA": 132
+    }
+}

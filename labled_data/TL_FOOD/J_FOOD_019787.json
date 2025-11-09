@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_019787",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-08-31",
+        "domain": "음식점",
+        "title": "東崇炭火カルビ（동숭숯불갈비）"
+    },
+    "text": "東崇炭火カルビ（동숭숯불갈비）\\n\nソウル特別市 鐘路区 大学路9キル 26\\n\nこの店はソウル特別市のテハンノに位置した韓国料理店です。代表的なメニューは豚カルビです。炭火焼き専門店です。",
+    "QA": [
+        {
+            "question": "東崇炭火カルビはどこに位置していますか？",
+            "answer": "東崇炭火カルビはソウル特別市の鐘路区大学路9キル26に位置しています。"
+        },
+        {
+            "question": "東崇炭火カルビの代表的なメニューは何ですか？",
+            "answer": "東崇炭火カルビの代表的なメニューは豚カルビです。"
+        },
+        {
+            "question": "東崇炭火カルビはどのようなお店ですか？",
+            "answer": "東崇炭火カルビは炭火焼き専門店です。"
+        }
+    ],
+    "word_Count": {
+        "text": 69,
+        "QA": 101
+    }
+}

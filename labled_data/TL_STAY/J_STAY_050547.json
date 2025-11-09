@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_050547",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42011&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "강화도 풍경소리펜션"
+    },
+    "text": "当風景音ペンションはカンファ島マニ山の下に位置しております。 風景音ペンションはハンモックと卓球場があり、駐車場が広く、我が家のように静かな雰囲気の中で癒される最高のペンションです。 日常での疲れたストレスを当ペンションにお越しいただき、涼しく吹き飛ばしてください。 22時以降に入室される場合、ペンションまで予めご連絡ください。 ありがとうございます。",
+    "QA": [
+        {
+            "question": "風景音ペンションはどこに位置していますか？",
+            "answer": "風景音ペンションはカンファ島マニ山の下に位置しています。"
+        },
+        {
+            "question": "風景音ペンションにはどのような施設がありますか？",
+            "answer": "風景音ペンションにはハンモックと卓球場があります。"
+        },
+        {
+            "question": "ペンションの駐車場は広いですか？",
+            "answer": "はい、ペンションの駐車場は広くなっております。"
+        },
+        {
+            "question": "風景音ペンションはどんな雰囲気ですか？",
+            "answer": "風景音ペンションは静かな雰囲気であり、我が家のようにくつろげる場所です。"
+        },
+        {
+            "question": "ペンションには何時までに入室する必要がありますか？",
+            "answer": "22時以降に入室される場合は、事前にペンションにご連絡ください。"
+        },
+        {
+            "question": "ペンションでリラックスすることができますか？",
+            "answer": "はい、ペンションにお越しいただき、日常での疲れたストレスを涼しく吹き飛ばすことができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 129,
+        "QA": 231
+    }
+}

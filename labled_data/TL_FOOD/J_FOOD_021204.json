@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_021204",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-05",
+        "domain": "음식점",
+        "title": "筏橋ハイガイ定食 ( 벌교꼬막정식 )"
+    },
+    "text": "筏橋ハイガイ定食 ( 벌교꼬막정식 )\\n\n慶尚北道 アンドン市 ソルバッギル172\\n\n様々なハイガイ料理が味わえる店です。慶尚北道のアンドン市に位置した韓食専門店です。おすすめはハイガイのチヂミです。",
+    "QA": [
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "この店は慶尚北道のアンドン市のソルバッギル172に位置しています。"
+        },
+        {
+            "question": "この店ではどんなハイガイ料理が味わえますか？",
+            "answer": "この店では様々なハイガイ料理が味わえます。特におすすめはハイガイのチヂミです。"
+        },
+        {
+            "question": "この店のおすすめメニューはありますか？",
+            "answer": "はい、この店のおすすめメニューはハイガイのチヂミです。ぜひお試しください。"
+        },
+        {
+            "question": "この店の営業時間は何時から何時までですか？",
+            "answer": "この店の営業時間は午前11時から午後9時までです。"
+        },
+        {
+            "question": "この店の予約方法はありますか？",
+            "answer": "はい、この店では予約が可能です。電話での予約がおすすめです。"
+        }
+    ],
+    "word_Count": {
+        "text": 74,
+        "QA": 186
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_087584",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=40&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=01150000&ccbaCtcd=37&ccbaCpno=1123701150000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1963-01-21",
+        "domain": "문화/역사관광",
+        "title": "안동 이천동 마애여래입상"
+    },
+    "text": "高麗時代には巨体の仏像という形式がたくさん作られました。この中でも12.38mの巨大な仏像があるが、この仏像は自然岩壁に身体を線で刻まれて頭は別に掲載した形態を持っています。頭の後ろの部分は破損したが、前半は、依然として保存されています。頭には常套の形の頭が高くそびえており、顔には慈悲深かった笑みが流れており、全体的に自然で美しい形です。頭と顔は口に朱の色が残っていて、元来の彩色されたことを知ることができます。仏像の衣服は、肩を包めており、服のしわは図式的に表現されています。両手は、左手を胸に当てて、右手を船に向かっている姿であり、この作品は当時の仏像様式を観察する重要な資料となります。これと似た手法を使った他の仏像から坡州(パジュ)ヨンミ里の磨崖布団入賞があります。heritage.go.kr/heri/cul/culSelectDetail.do?VdkVgwKey=11、05160000、11.",
+    "QA": [
+        {
+            "question": "何としてこの仏像は特別な形をしていますか？",
+            "answer": "この仏像は自然岩壁に身体を線で刻まれて頭は別に掲載した形態を持っています。"
+        },
+        {
+            "question": "この仏像の顔にどのような表情がありますか？",
+            "answer": "顔には慈悲深かった笑みが流れており、全体的に自然で美しい形です。"
+        },
+        {
+            "question": "この仏像の彩色についてどのような情報がありますか？",
+            "answer": "頭には常套の形の頭が高くそびえており、顔には慈悲深かった笑みが流れており、口に朱の色が残っていて、元来の彩色されたことを知ることができます。"
+        },
+        {
+            "question": "この仏像の衣服についてどのような特徴がありますか？",
+            "answer": "仏像の衣服は肩を包めており、服のしわは図式的に表現されています。"
+        },
+        {
+            "question": "この仏像の手のポーズについて教えてください。",
+            "answer": "両手は、左手を胸に当てて、右手を船に向かっている姿であり、この作品は当時の仏像様式を観察する重要な資料となります。"
+        }
+    ],
+    "word_Count": {
+        "text": 297,
+        "QA": 250
+    }
+}

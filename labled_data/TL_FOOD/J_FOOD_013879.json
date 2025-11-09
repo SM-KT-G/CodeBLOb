@@ -1,0 +1,31 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_013879",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-08-31",
+        "domain": "음식점",
+        "title": "マッボレ即席トッポッキ（맛보래즉석떡볶이）"
+    },
+    "text": "マッボレ即席トッポッキ（맛보래즉석떡볶이）\\n\nソウル特別市 鐘路区 仁寺洞3キル 9\\n\nソウル特別市のインサ洞に位置したトッポッキ専門店です。おすすめはチーズトッポッキです。ジャージャートッポッキも美味しいです。",
+    "QA": [
+        {
+            "question": "このトッポッキ専門店はどこにありますか？",
+            "answer": "ソウル特別市 鐘路区 仁寺洞3キル 9に位置しています。"
+        },
+        {
+            "question": "この店のおすすめメニューは何ですか？",
+            "answer": "チーズトッポッキがおすすめです。ジャージャートッポッキも美味しいです。"
+        }
+    ],
+    "word_Count": {
+        "text": 79,
+        "QA": 74
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_034249",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://kr.hotels.com/ho641827232/san-ullim-pensyeon-yang-yang-hangug/?chkin=2023-11-14&chkout=2023-11-15&x_pwa=1&rfrr=HSR&pwa_ts=1698431009896&referrerUrl=aHR0cHM6Ly9rci5ob3RlbHMuY29tL0hvdGVsLVNlYXJjaA%3D%3D&useRewards=false&rm1=a2&regionId=1751&destination=%EA%B0%95%EB%A6%89%2C+%EA%B0%95%EC%9B%90%2C+%ED%95%9C%EA%B5%AD&destType=MARKET&latLong=37.767868%2C128.935684&sort=RECOMMENDED&top_dp=72727&top_cur=KRW&userIntent=&selectedRoomType=221740554&selectedRatePlan=298190337&expediaPropertyId=20025851&searchId=97b7d18b-50b8-4705-904b-e329a78c27b8",
+        "collectedDate": "2023-11-15",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "산울림 펜션"
+    },
+    "text": "サンウルリムペンション\\n\n大韓民国江原道襄陽郡九龍嶺路1595\\n\n襄陽に位置するサンウルリムペンションでは、快適で心地よい宿泊が楽しめます。 コンドミニアムには簡易キッチンとフラットテレビがあり、便利に利用できます。 さらにWiFiとセルフ駐車の無料特典も提供します。 チェックインは15:00から可能で、チェックアウトは11:00までです。 フロントデスクは毎日06:00から23:00まで運営されており、到着時にスタッフがサポートしてくれます。 チェックインの際にはクレジットカード、デビットカード、または現金保証金が必要で、政府発行の身分証明書に写真が貼られている必要があります。 ペットは同伴できませんし、無料WiFiを利用することもできます。",
+    "QA": [
+        {
+            "question": "このペンションの場所はどこですか？",
+            "answer": "サンウルリムペンションは大韓民国江原道襄陽郡九龍嶺路1595にあります。"
+        },
+        {
+            "question": "このペンションの設備はどのようなものがありますか？",
+            "answer": "このペンションには簡易キッチンとフラットテレビがあります。"
+        },
+        {
+            "question": "チェックインとチェックアウトの時間は何時ですか？",
+            "answer": "チェックインは15:00から可能で、チェックアウトは11:00までです。"
+        },
+        {
+            "question": "フロントデスクの営業時間は何時から何時までですか？",
+            "answer": "フロントデスクは毎日06:00から23:00まで運営されています。"
+        },
+        {
+            "question": "チェックインの際に必要なものは何ですか？",
+            "answer": "チェックインの際にはクレジットカード、デビットカード、または現金保証金が必要で、政府発行の身分証明書に写真が貼られている必要があります。"
+        },
+        {
+            "question": "ペットを連れて行くことはできますか？",
+            "answer": "ペットは同伴できません。"
+        },
+        {
+            "question": "無料WiFiを利用することはできますか？",
+            "answer": "はい、無料WiFiを利用することができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 240,
+        "QA": 282
+    }
+}

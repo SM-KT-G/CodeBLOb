@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_038885",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=469&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=01240000&ccbaCtcd=31&ccbaCpno=2113101240000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1985-06-28",
+        "domain": "문화/역사관광",
+        "title": "청룡사사적비"
+    },
+    "text": "青龍寺史跡碑 (청룡사사적비)\\n\n京畿道安城市瑞雲面清龍里62-4番地\\n\n京畿道有形文化財、「青龍寺史跡碑」は瑞雲山青龍寺の重修を記念するために朝鮮景宗元年(1721)に建てられた碑で、浮屠群がある寺院の入口に位置する。 長方形の碑座の上に建てられた碑身と、その上に載せた吏首で構成されている。 碑身は花崗岩だが碑文が磨滅して判読できないところが色々ある。 碑銘と序文は羅浚が建て、ファン·ハミンが書き、全額はキム·ジンサンが書いた。碑文の内容を見ると、序文に高麗至正年間：1341~1367)に羅翁が重唱した事実と粛宗46年(1720年)に道人が重修した内容など沿革が順に記述されており、世祖が土地と寺の器物を下賜したこと、仁平大君が願堂として寺を保護したことなどが記されている。悲鳴の内容は序文と大同小異で、最後に西方浄土に入る人は空と有を区別しないが、ひたすら碑石を空門の前に立てて後世に功烈を伝えようとするものだと碑石を立てた理由を明らかにしている点が違う。 碑名の端には粛宗46年(1720年)で、建設時期を明かしている。",
+    "QA": [
+        {
+            "question": "この碑は何のために建てられましたか？",
+            "answer": "この碑は瑞雲山青龍寺の重修を記念するために建てられました。"
+        },
+        {
+            "question": "碑文は何でできていますか？",
+            "answer": "碑文は花崗岩でできています。"
+        },
+        {
+            "question": "碑銘と序文を作った人は誰ですか？",
+            "answer": "碑銘と序文は羅浚が建て、ファン・ハミンが書きました。"
+        },
+        {
+            "question": "碑文の内容には何が記載されていますか？",
+            "answer": "碑文の内容には寺の沿革や世祖と仁平大君による寺の保護などが記載されています。"
+        },
+        {
+            "question": "碑石を立てた理由は何ですか？",
+            "answer": "碑石を立てた理由は後世に功烈を伝えるためです。"
+        }
+    ],
+    "word_Count": {
+        "text": 343,
+        "QA": 154
+    }
+}

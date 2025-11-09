@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_009282",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "ソワウリ ( 소와우리 )"
+    },
+    "text": "ソワウリ ( 소와우리 )\\n\n慶尚北道 安東市 忠孝路 4168\\n\nヤギ肉料理専門店で、韓国の特色ある料理を体験できます。おすすめは山羊肉スープです。慶尚北道のアンドン市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "慶尚北道のアンドン市にあるソワウリはどんな料理を提供していますか？",
+            "answer": "ソワウリはヤギ肉料理専門店で、韓国の特色ある料理を体験できます。特におすすめは山羊肉スープです。"
+        },
+        {
+            "question": "ソワウリの場所はどこですか？",
+            "answer": "ソワウリは慶尚北道安東市の忠孝路4168に位置しています。"
+        },
+        {
+            "question": "他に何かおすすめの料理はありますか？",
+            "answer": "ソワウリでは山羊肉スープ以外にも様々なヤギ肉料理があります。ぜひお試しください。"
+        },
+        {
+            "question": "ソワウリはどのような特徴がありますか？",
+            "answer": "ソワウリは韓食専門店で、韓国の特色ある料理を提供しています。ヤギ肉を使った料理がメインです。"
+        }
+    ],
+    "word_Count": {
+        "text": 73,
+        "QA": 181
+    }
+}

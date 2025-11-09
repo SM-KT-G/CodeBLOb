@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_053005",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42011&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "대부도(영흥도) 로마스파애견동반펜션"
+    },
+    "text": "エキゾチックなヨーロピアン感性を感じることができる高品格スパペンションで、リラックスしてロマンチックな時間を過ごすことができます。 この空間はまるで童話の中にいるような感じを伝えてくれます。 しかし、18時以降も入室できますので、ご安心ください。 心の香りの客室の寝具とスパは最近交換され、スパとベッドは壁で分かれています。",
+    "QA": [
+        {
+            "question": "このスパはどのような雰囲気ですか？",
+            "answer": "このスパはエキゾチックなヨーロピアン感性を感じることができる高品格な雰囲気です。童話の中にいるような感じがします。"
+        },
+        {
+            "question": "スパとベッドはどのように分かれていますか？",
+            "answer": "スパとベッドは壁で分かれています。心の香りの客室の寝具とスパは最近交換されました。"
+        },
+        {
+            "question": "入室時間は何時までですか？",
+            "answer": "このスパでは18時以降も入室することができますので、ご安心ください。"
+        }
+    ],
+    "word_Count": {
+        "text": 118,
+        "QA": 134
+    }
+}

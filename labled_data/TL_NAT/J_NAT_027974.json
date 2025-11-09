@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_027974",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=286&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=16&ccbaAsno=00390000&ccbaCtcd=36&ccbaCpno=1363600390000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1962-12-07",
+        "domain": "자연관광",
+        "title": "강진 삼인리 비자나무"
+    },
+    "text": "韓国と日本で成長する天然記念物であるカヤは観賞用に多く利用され、駆虫剤、便秘治療剤、油などにも活用される。康津サムインリに位置したカヤは約500歳程度と推定され、高さ11.5m、胸の高さの周り5.8mの大きさを誇る。この木は地上1.5m付近で大きな枝がネットに分かれているが、500年間伐採を避けて生きてきた理由には二つの見解がある。第一は太宗17年(1417)に使えそうな木材をすべて切ったのですが、このカヤは建築用に適していないため、生き残るようになったという見解だ。第二は、当時、この木の実が寄生虫を救済する唯一の薬だったために周りの人たちの保護を受けてきたと考えられる。この木は村の人々に守護神とされ、毎年旧暦1月15日には村の平安を祈るために木の周りを回転しながら、真夏には涼しいピソチョとして活用される。カヤは長い間、村の人々の関心と看護を受けてきた歴史的・文化的価値が高く、天然記念物に指定されて保護されている。",
+    "QA": [
+        {
+            "question": "このカヤの成長地はどこですか？",
+            "answer": "このカヤは康津サムインリに位置しています。"
+        },
+        {
+            "question": "カヤの推定年齢は何歳ですか？",
+            "answer": "カヤの推定年齢は約500歳程度です。"
+        },
+        {
+            "question": "カヤの大きさはどのくらいですか？",
+            "answer": "カヤの高さは11.5m、胸の高さの周りは5.8mです。"
+        },
+        {
+            "question": "なぜカヤは伐採を免れて生き続けることができたのですか？",
+            "answer": "カヤが伐採を免れて生き続ける理由には、建築用に適さないため、または寄生虫を救済する薬として保護された可能性があります。"
+        },
+        {
+            "question": "カヤはどのように村の人々に利用されてきたのですか？",
+            "answer": "カヤは村の守護神とされ、年に一度の祈りの儀式や夏の涼しい場所として利用されてきました。"
+        }
+    ],
+    "word_Count": {
+        "text": 302,
+        "QA": 194
+    }
+}

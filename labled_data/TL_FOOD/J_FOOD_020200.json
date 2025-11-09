@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_020200",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-06",
+        "domain": "음식점",
+        "title": "梨水豚足 ( 이수족발 )"
+    },
+    "text": "梨水豚足 ( 이수족발 )\nソウル特別市 瑞草区 パンベチョンロ4ギル42\n韓国産豚を使って豚足を提供する店です。代表的なメニューは豚足です。ソウル特別市のソチョ区に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "梨水豚足はどこに位置していますか？",
+            "answer": "梨水豚足はソウル特別市瑞草区パンベチョンロ4ギル42に位置しています。"
+        },
+        {
+            "question": "梨水豚足の代表的なメニューは何ですか？",
+            "answer": "梨水豚足の代表的なメニューは豚足です。"
+        },
+        {
+            "question": "梨水豚足はどんな肉を使用していますか？",
+            "answer": "梨水豚足は韓国産豚を使用しています。"
+        },
+        {
+            "question": "梨水豚足は何を提供している店ですか？",
+            "answer": "梨水豚足は豚足を提供する店です。"
+        }
+    ],
+    "word_Count": {
+        "text": 69,
+        "QA": 118
+    }
+}

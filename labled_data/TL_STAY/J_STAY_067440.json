@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_067440",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2023-02-03",
+        "domain": "숙박",
+        "title": "라베르 관광호텔"
+    },
+    "text": "ラベール観光ホテル (라베르 관광호텔)\\n\n慶尚南道統営市道南路257-21(道南洞)\\n\n統営に位置する宿は、道南洞遊覧船ターミナルとケーブルカーの近くに素晴らしい立地です。広々とした綺麗な客室と最高級のスカイラウンジがご用意されています。",
+    "QA": [
+        {
+            "question": "ラベール観光ホテルはどこの市に位置していますか？",
+            "answer": "統営市に位置しています。"
+        },
+        {
+            "question": "道南洞遊覧船ターミナルとケーブルカーはホテルからどれくらいの距離にありますか？",
+            "answer": "道南洞遊覧船ターミナルとケーブルカーはホテルの近くにあります。"
+        },
+        {
+            "question": "ラベール観光ホテルの客室はどのような特徴がありますか？",
+            "answer": "広々とした綺麗な客室があります。"
+        },
+        {
+            "question": "ラベール観光ホテルにはどのような施設がありますか？",
+            "answer": "最高級のスカイラウンジがあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 89,
+        "QA": 140
+    }
+}

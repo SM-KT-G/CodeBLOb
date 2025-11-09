@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_030316",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42010&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "포천 헤이미쉬펜션"
+    },
+    "text": "ヘイミッシュはキョンギ道ポチョンに位置する静かで快適なペンションであり、皆様を心より歓迎します。 休息のために最善を尽くします。 チェックイン時間は22時以降でしたら、予めご連絡ください。 また、当日予約は承っておりませんのでご了承ください。 最後に、ペットやペットと一緒に入室できないことをお知らせします。 ありがとうございます。",
+    "QA": [
+        {
+            "question": "ヘイミッシュはどこに位置していますか？",
+            "answer": "ヘイミッシュはキョンギ道ポチョンに位置しています。"
+        },
+        {
+            "question": "ヘイミッシュはどのような場所ですか？",
+            "answer": "ヘイミッシュは静かで快適なペンションです。"
+        },
+        {
+            "question": "チェックイン時間は何時ですか？",
+            "answer": "チェックイン時間は22時以降ですが、予めご連絡いただければ対応いたします。"
+        },
+        {
+            "question": "当日予約は可能ですか？",
+            "answer": "申し訳ありませんが、当日予約は承っておりません。ご了承ください。"
+        },
+        {
+            "question": "ペットと一緒に入室できますか？",
+            "answer": "申し訳ありませんが、ペットやペットと一緒に入室することはできません。"
+        }
+    ],
+    "word_Count": {
+        "text": 121,
+        "QA": 166
+    }
+}

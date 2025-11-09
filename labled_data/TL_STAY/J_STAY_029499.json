@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_029499",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/lodge/hotel-korea",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "ホテルコリア"
+    },
+    "text": "ホテルコリア\\n\n京畿道道 水原市 八達区 勸光路 175番キル62\\n\nホテルコリアは京畿道の行政、産業の中心都市、水原市の行政タウンに市庁とともに位置しています。 また、大企業が近くにあり、効率的なビジネスが可能です。",
+    "QA": [
+        {
+            "question": "ホテルコリアはどこの場所に位置していますか？",
+            "answer": "ホテルコリアは京畿道の水原市八達区の勸光路175番キル62に位置しています。"
+        },
+        {
+            "question": "ホテルコリアの周辺にはどのような企業がありますか？",
+            "answer": "ホテルコリアの周辺には大企業が近くにあります。"
+        },
+        {
+            "question": "ホテルコリアはどのようなビジネスに適していますか？",
+            "answer": "ホテルコリアは効率的なビジネスが可能な場所です。"
+        }
+    ],
+    "word_Count": {
+        "text": 81,
+        "QA": 115
+    }
+}

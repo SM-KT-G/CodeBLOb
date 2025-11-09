@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_095861",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=7&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=11&ccbaAsno=00770000&ccbaCtcd=37&ccbaCpno=1113700770000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1962-12-20",
+        "domain": "문화/역사관광",
+        "title": "의성 탑리리 오층석탑"
+    },
+    "text": "義城塔里里五重石塔\\n\n慶尚北道義城郡錦城面五重石塔キル 5-3 (塔里)\\n\n統一新羅時代、国宝、タプリ里村に建てられている統一新羅時代の5階石塔である。低い1段の基壇(基壇)の上に5階の塔身(塔身)を立てた姿で、石を煉瓦の形に整えて積み上げた塔(塼塔)様式と木造建築の手法を同時に示す特異な構造を持っている。基壇にはいくつかの石で床を敷いた後、木造建築を模して、柱と角の柱すべてをそれぞれ他の石で構成した。塔身は、1階が高く、2階からは高さが急激に減る様子を見せが、1階石核には仏像を祀祭っている邦人の龕室(龕室)を設置した。ジブンドルは塔から見える姿のように下面だけでなく、上面までも層をなしており上面が6段、下面が5段だ。ジブンドルは四隅が少し上がっていて木造建築の屋根の端を思い浮かばせる。各部分で木造建築の様式を応用する一方、各地で塔の造成手法を見せてくれる作品だ。このような独特な特徴によって慶州(キョンジュ)、芬皇寺(ふんこうじ)のボセン石塔(国宝)とともに統一新羅電気の石塔様式を研究する上で貴重な資料となっている。",
+    "QA": [
+        {
+            "question": "この五重石塔は何時に建てられましたか？",
+            "answer": "統一新羅時代に建てられました。"
+        },
+        {
+            "question": "この五重石塔はどこに位置していますか？",
+            "answer": "慶尚北道義城郡錦城面のタプリ里村に位置しています。"
+        },
+        {
+            "question": "この五重石塔は何階建てですか？",
+            "answer": "5階建てです。"
+        },
+        {
+            "question": "この五重石塔の特徴的な構造は何ですか？",
+            "answer": "低い1段の基壇の上に5階の塔身を立てた特異な構造を持ち、石を煉瓦の形に整えて積み上げた塔様式と木造建築の手法を同時に示しています。"
+        },
+        {
+            "question": "この五重石塔の基壇には何が設置されていますか？",
+            "answer": "基壇には仏像を祀祭っている邦人の龕室が設置されています。"
+        },
+        {
+            "question": "この五重石塔のジブンドルについて教えてください。",
+            "answer": "ジブンドルは四角が少し上がっており、木造建築の屋根の端を思わせる特徴があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 342,
+        "QA": 219
+    }
+}

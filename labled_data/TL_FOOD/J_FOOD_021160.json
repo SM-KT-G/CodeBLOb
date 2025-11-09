@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_021160",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-01",
+        "domain": "음식점",
+        "title": "伯秀寿司 ( 백수초밥 )"
+    },
+    "text": "伯秀寿司 ( 백수초밥 )\\n\n全羅南道 麗水市 閭門文化1キル 54\\n\nお寿司とお刺身が味わえる、麗水の代表的な名店の一つです。全羅南道のヨス市に位置した和食専門店です。おすすめは寿司定食です。",
+    "QA": [
+        {
+            "question": "伯秀寿司 ( 백수초밥 )はどこにありますか？",
+            "answer": "伯秀寿司は全羅南道麗水市門文化1キル 54に位置しています。"
+        },
+        {
+            "question": "伯秀寿司はどのようなお店ですか？",
+            "answer": "伯秀寿司はお寿司とお刺身が味わえる和食専門店です。"
+        },
+        {
+            "question": "伯秀寿司のおすすめメニューは何ですか？",
+            "answer": "伯秀寿司のおすすめは寿司定食です。"
+        }
+    ],
+    "word_Count": {
+        "text": 72,
+        "QA": 95
+    }
+}

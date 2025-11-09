@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_037536",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=876&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=01690000&ccbaCtcd=38&ccbaCpno=2333801690000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1997-12-31",
+        "domain": "문화/역사관광",
+        "title": "창원 가을포 봉수대"
+    },
+    "text": "昌原秋浦烽燧台 (창원 가을포 봉수대)\\n\n慶尚南道昌原市馬山合浦区鎮東面山60番地\\n\n高麗時代、慶尚南道記念物、烽燧台は松明と煙を利用して急な便りを伝えた昔の通信手段をいう。 高い山に登って火を起こし、昼は煙で夜は明かりで信号を送った。 秋浦烽燧台は鎮東面広岩村の裏山稜線にあり、ソウル木覔山(今の南山)中央烽燧に至る烽火線路の中間路線を連結する間峰だ。秋浦烽燧台は鎮海邑城と関係があり、隣接した高城ウサン(牛山)烽燧、谷山烽燧の信号を受けて咸安破産烽燧、宜寧加幕山烽燧に伝達した。 現在、直径13m程度の円形軸台の内側にかまど1基を復元しているが、学術的な考証を経ずに復元し、元形に損傷が多い。",
+    "QA": [
+        {
+            "question": "昌原秋浦烽燧台はどこにありますか？",
+            "answer": "慶尚南道昌原市馬山合浦区鎮東面山60番地にあります。"
+        },
+        {
+            "question": "烽燧台とは何ですか？",
+            "answer": "烽燧台は松明と煙を利用して急な便りを伝えた昔の通信手段です。"
+        },
+        {
+            "question": "秋浦烽燧台はどのような役割を果たしていましたか？",
+            "answer": "秋浦烽燧台は、ソウル木覔山と高城ウサン烽燧、谷山烽燧との中間路線を連結し、信号の伝達役割を果たしていました。"
+        },
+        {
+            "question": "現在の秋浦烽燧台はどのような状態ですか？",
+            "answer": "現在、直径13m程度の円形軸台の内側にかまど1基を復元していますが、学術的な考証を経ずに復元され、元形に損傷が多い状態です。"
+        }
+    ],
+    "word_Count": {
+        "text": 220,
+        "QA": 178
+    }
+}

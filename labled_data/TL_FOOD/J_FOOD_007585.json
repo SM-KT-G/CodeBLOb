@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_007585",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "シセムダル（시샘달）"
+    },
+    "text": "シセムダル（시샘달）\\n\nソウル特別市 中区 明洞8キル 2\\n\nソウル特別市のミョン洞に位置したカフェ（コーヒーショップ）です。韓国の夏の代表メニューをお出しするお店です。代表的なメニューは氷小豆です。",
+    "QA": [
+        {
+            "question": "このカフェの場所はどこですか？",
+            "answer": "シセムダル（시샘달）はソウル特別市中区明洞8キル2に位置しています。"
+        },
+        {
+            "question": "シセムダルはどんな種類のカフェですか？",
+            "answer": "シセムダルは韓国の夏の代表メニューを提供するカフェ（コーヒーショップ）です。"
+        },
+        {
+            "question": "シセムダルの代表的なメニューは何ですか？",
+            "answer": "シセムダルの代表的なメニューは氷小豆です。"
+        }
+    ],
+    "word_Count": {
+        "text": 74,
+        "QA": 107
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_009591",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/goods/GN0002016083?startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0%5E&npprmaxsort=min",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "강릉 경포대 수 호텔 운영 정책"
+    },
+    "text": "チェックインは16:00時で、チェックアウトは11:00時です。 チェックインアウトの案内事項では、基準人数以外の追加人数は入室できませんし、ペットは入室できません。任意の同伴入室時に払い戻しなしで強制退室措置となります。 また、入室利用案内では2階を除いた他の階には浄水器と電子レンジが備えられています。",
+    "QA": [
+        {
+            "question": "チェックインとチェックアウトの時間は何時ですか？",
+            "answer": "チェックインは16:00時で、チェックアウトは11:00時です。"
+        },
+        {
+            "question": "追加人数やペットの入室は可能ですか？",
+            "answer": "基準人数以外の追加人数は入室できませんし、ペットも入室できません。"
+        },
+        {
+            "question": "同伴入室時に払い戻しは可能ですか？",
+            "answer": "任意の同伴入室時には払い戻しはできず、強制退室措置となります。"
+        },
+        {
+            "question": "どの階に浄水器と電子レンジが備えられていますか？",
+            "answer": "2階を除いた他の階には浄水器と電子レンジが備えられています。"
+        }
+    ],
+    "word_Count": {
+        "text": 112,
+        "QA": 153
+    }
+}

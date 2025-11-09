@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_029712",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42060&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "보령(대천) 둥지민박펜션"
+    },
+    "text": "こんにちは。ボリョン(大川)トゥンジ民宿ペンションです。 済州島に位置する当ペンションは、美しい大川海水浴場が目の前にあり、広々とした海辺を楽しむことができます。 入室時間には少し制限があり、22時以降に入室される場合、事前にペンションまでご連絡ください。 .",
+    "QA": [
+        {
+            "question": "ボリョン(大川)トゥンジ民宿ペンションはどこに位置していますか？",
+            "answer": "ボリョン(大川)トゥンジ民宿ペンションは済州島に位置しています。"
+        },
+        {
+            "question": "ボリョン(大川)トゥンジ民宿ペンションの近くには何がありますか？",
+            "answer": "ボリョン(大川)トゥンジ民宿ペンションの近くには美しい大川海水浴場があります。"
+        },
+        {
+            "question": "ボリョン(大川)トゥンジ民宿ペンションではどのようなアクティビティが楽しめますか？",
+            "answer": "ボリョン(大川)トゥンジ民宿ペンションでは広々とした海辺を楽しむことができます。"
+        },
+        {
+            "question": "ボリョン(大川)トゥンジ民宿ペンションの入室時間に制限はありますか？",
+            "answer": "はい、ボリョン(大川)トゥンジ民宿ペンションの入室時間には少し制限があります。22時以降に入室される場合は、事前にペンションまでご連絡ください。"
+        }
+    ],
+    "word_Count": {
+        "text": 95,
+        "QA": 236
+    }
+}

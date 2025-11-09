@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001516",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/butterfinger-pancakes",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "Butter Finger Pancakes（江南駅店）"
+    },
+    "text": "Butter Finger Pancakes（江南駅店）\\n\nソウル市ソチョグカンナムデロ61ギル13 )\\n\nワッフルとパンケーキの専門店。様々な種類のワッフルとパンケーキのメニューがあり、ブランチとしても人気だ。行列ができるほどの人気店のため、早く行くのがおすすめ。",
+    "QA": [
+        {
+            "question": "この店舗の場所はどこですか？",
+            "answer": "ソウル市ソチョグカンナムデロ61ギル13にあります。"
+        },
+        {
+            "question": "この店舗はどのようなメニューを提供していますか？",
+            "answer": "ワッフルとパンケーキの専門店で、様々な種類のワッフルとパンケーキのメニューがあります。"
+        },
+        {
+            "question": "この店舗は何時から営業していますか？",
+            "answer": "具体的な営業時間に関する情報は提供されていませんが、早めに行くことをおすすめします。"
+        },
+        {
+            "question": "この店舗は人気があるので、予約は必要ですか？",
+            "answer": "予約についての情報は提供されていませんが、行列ができるほどの人気店ですので、早めに行くことをおすすめします。"
+        },
+        {
+            "question": "この店舗はブランチにおすすめですか？",
+            "answer": "はい、ブランチとしても人気のある店舗です。"
+        }
+    ],
+    "word_Count": {
+        "text": 99,
+        "QA": 206
+    }
+}

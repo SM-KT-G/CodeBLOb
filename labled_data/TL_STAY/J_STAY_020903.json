@@ -1,0 +1,31 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_020903",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2020-12-24",
+        "domain": "숙박",
+        "title": "東ソウル観光ホテル（동서울관광호텔）"
+    },
+    "text": "東ソウル観光ホテル（동서울관광호텔）\nソウル特別市 広津区 九宜江辺路38\n江辺駅近くにある「東ソウル観光ホテル」は様々なテーマの客室、快適な施設を備えたホテルです。ホテル内にはライブホール、パーティー会場、カラオケ、ブックカフェなどがあります。",
+    "QA": [
+        {
+            "question": "ホテル内にどんな施設がありますか？",
+            "answer": "ホテル内にはライブホール、パーティー会場、カラオケ、ブックカフェなどがあります。"
+        },
+        {
+            "question": "東ソウル観光ホテルの場所はどこですか？",
+            "answer": "東ソウル観光ホテルはソウル特別市広津区九宜江辺路38に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 90,
+        "QA": 81
+    }
+}

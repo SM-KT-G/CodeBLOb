@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_023706",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2020-12-24",
+        "domain": "음식점",
+        "title": "食堂真( 식당진 )"
+    },
+    "text": "食堂真( 식당진 )\\n\nソウル特別市 中区 トゥェギェロ22ギル5\\n\n日本の家庭料理専門店です。代表的なメニューはカツ丼です。ソウル特別市の中区に位置した和食専門店です。",
+    "QA": [
+        {
+            "question": "食堂真はどこに位置していますか？",
+            "answer": "食堂真はソウル特別市の中区に位置しています。"
+        },
+        {
+            "question": "食堂真の代表的なメニューは何ですか？",
+            "answer": "食堂真の代表的なメニューはカツ丼です。"
+        },
+        {
+            "question": "食堂真の特徴は何ですか？",
+            "answer": "食堂真は日本の家庭料理専門店で、和食を提供しています。"
+        },
+        {
+            "question": "食堂真の住所は何ですか？",
+            "answer": "食堂真の住所はソウル特別市中区トゥェギェロ22ギル5です。"
+        }
+    ],
+    "word_Count": {
+        "text": 63,
+        "QA": 113
+    }
+}

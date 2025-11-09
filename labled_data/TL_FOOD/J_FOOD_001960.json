@@ -1,0 +1,31 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001960",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-08-27",
+        "domain": "음식점",
+        "title": "OHUJEONG 大学路 ( 오후정 대학로 )"
+    },
+    "text": "OHUJEONG 大学路 ( 오후정 대학로 )\\n\nソウル特別市 鐘路区 テハクロ8ギル25\\n\n日本の家庭料理の名店で、様々な日本食のフュージョン料理が味わえます。ソウル特別市のチョンノ区に位置した和食専門店です。おすすめは明太子パスタです。",
+    "QA": [
+        {
+            "question": "大学路にあるOHUJEONG 大学路はどのようなレストランですか？",
+            "answer": "OHUJEONG 大学路は、ソウル特別市のチョンノ区に位置する和食専門店です。日本の家庭料理の名店で、様々な日本食のフュージョン料理が味わえます。特におすすめは明太子パスタです。"
+        },
+        {
+            "question": "OHUJEONG 大学路の住所を教えてください。",
+            "answer": "OHUJEONG 大学路の住所は、ソウル特別市 鐘路区 テハクロ8ギル25です。"
+        }
+    ],
+    "word_Count": {
+        "text": 90,
+        "QA": 136
+    }
+}

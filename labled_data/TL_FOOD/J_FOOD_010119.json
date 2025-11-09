@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_010119",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-01",
+        "domain": "음식점",
+        "title": "チンジョラン韓牛カルビ ( 친절한한우갈비 )"
+    },
+    "text": "チンジョラン韓牛カルビ \n慶尚北道 安東市 慶東路 677-8\n抗生物質不使用の安東産韓牛のみを提供する店です。 この店は慶尚北道のアンドン（安東）駅の近くに位置したBBQ専門店です。代表的なメニューは韓牛カルビです。",
+    "QA": [
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "この店は慶尚北道の安東市慶東路677-8に位置しています。"
+        },
+        {
+            "question": "この店では何を提供していますか？",
+            "answer": "この店では抗生物質不使用の安東産韓牛のみを提供しています。代表的なメニューは韓牛カルビです。"
+        },
+        {
+            "question": "この店の近くには何がありますか？",
+            "answer": "この店はアンドン（安東）駅の近くに位置しています。"
+        },
+        {
+            "question": "この店の特徴は何ですか？",
+            "answer": "この店の特徴は、抗生物質不使用の安東産韓牛のみを提供していることです。"
+        },
+        {
+            "question": "韓牛カルビ以外にもメニューはありますか？",
+            "answer": "はい、韓牛カルビ以外にもさまざまなメニューがあります。詳細は店舗でご確認ください。"
+        }
+    ],
+    "word_Count": {
+        "text": 79,
+        "QA": 185
+    }
+}

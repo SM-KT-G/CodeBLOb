@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_002601",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42020&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "통영 일루아펜션"
+    },
+    "text": "イルア(名前の意味は\"月\"だ)は言葉では表現しにくい統営の美しい海に位置しており、私の心と目を涼しくしてくれる。 現在、私はここで幸せを感じている。 しかし、注意すべき事項がある。 22時以降に到着される場合は、予めペンションまでご連絡ください。",
+    "QA": [
+        {
+            "question": "イルアはどのような場所ですか？",
+            "answer": "イルアは統営の美しい海に位置しており、心と目を涼しくすることができる場所です。"
+        },
+        {
+            "question": "何時までに到着すれば良いですか？",
+            "answer": "22時以降に到着される場合は、事前にペンションへのご連絡をお願いいたします。"
+        },
+        {
+            "question": "イルアの名前の意味は何ですか？",
+            "answer": "イルアの名前の意味は'月'です。"
+        }
+    ],
+    "word_Count": {
+        "text": 90,
+        "QA": 101
+    }
+}

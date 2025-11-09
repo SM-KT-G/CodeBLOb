@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_073493",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/moonbaedong-yukkal",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "文培洞ユッカル"
+    },
+    "text": "文培洞ユッカル\\n\nソウル特別市 龍山区 文培洞 34-1\\n\n文培洞(ムンベドン)に位置した、30年以上のカルククス専門店です。 メニューはユッケジャン、ユッカルがあります。ユクカルを注文すると、ユッケジャンスープとカルグッス麵が別に出され麵を入れて食べます。",
+    "QA": [
+        {
+            "question": "このレストランの場所はどこですか？",
+            "answer": "ソウル特別市 龍山区 文培洞 34-1に位置しています。"
+        },
+        {
+            "question": "このレストランのメニューは何ですか？",
+            "answer": "ユッケジャンとユッカルの2つのメニューがあります。"
+        },
+        {
+            "question": "ユッカルとはどんな料理ですか？",
+            "answer": "ユッカルはユッケジャンスープとカルグッス麵が別々に出され、麵を入れて食べる料理です。"
+        }
+    ],
+    "word_Count": {
+        "text": 96,
+        "QA": 106
+    }
+}

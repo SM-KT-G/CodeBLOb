@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_019149",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/daedonggang-sikdang",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "大同江"
+    },
+    "text": "大同江\\n\n大邱広域市 南区 大鳳路 57-1\\n\nすべての料理が手作りで、50年余りの伝統を持つお店です。 大邱広域市のナム区に位置したピョンヤン冷麺専門店です。おすすめはピョンヤン冷麺です。",
+    "QA": [
+        {
+            "question": "このお店の場所はどこですか？",
+            "answer": "大同江大邱広域市南区大鳳路57-1に位置しています。"
+        },
+        {
+            "question": "このお店の料理はどのように作られていますか？",
+            "answer": "すべての料理は手作りであり、伝統的な方法で作られています。"
+        },
+        {
+            "question": "このお店のおすすめメニューは何ですか？",
+            "answer": "おすすめはピョンヤン冷麺です。"
+        },
+        {
+            "question": "このお店は何年の歴史を持っていますか？",
+            "answer": "このお店は50年以上の伝統を持っています。"
+        }
+    ],
+    "word_Count": {
+        "text": 71,
+        "QA": 121
+    }
+}

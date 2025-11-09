@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_114763",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=833&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=00850000&ccbaCtcd=33&ccbaCpno=2333300850000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1990-12-14",
+        "domain": "문화/역사관광",
+        "title": "청주 무농정"
+    },
+    "text": "高麗-朝鮮時代に存在した清州のハンさんと関連した精子がいるが、これは忠清北道に位置した記念物だ。精子は清州(チョンジュ)南側の丘の上に建てられており、周辺には広い野原が広がっている。ここは農業に力を入れるように推奨した場所として知られている。しかし、精子は、廃墟化され、1688年に子孫ハンイク私が立てたユホビだけが残っていた。以降1949年にはセメントで精子を再建したが、1988年には木造で再建されたのだ。精子の周辺には小さな門があり、4面を垣根で巡っている。また、精子の前庭左側にはムノンチョンユホビがある。",
+    "QA": [
+        {
+            "question": "清州のハンさんの精子は何年に再建されましたか？",
+            "answer": "清州のハンさんの精子は1988年に再建されました。"
+        },
+        {
+            "question": "清州のハンさんの精子はどのような周辺環境に位置していますか？",
+            "answer": "清州のハンさんの精子は野原が広がる南側の丘の上に位置しています。"
+        },
+        {
+            "question": "清州のハンさんの精子の前庭左側に何がありますか？",
+            "answer": "清州のハンさんの精子の前庭左側にはムノンチョンユホビがあります。"
+        },
+        {
+            "question": "清州のハンさんの精子は何によって再建されましたか？",
+            "answer": "清州のハンさんの精子は1949年にはセメントで再建されましたが、1988年には木造で再建されました。"
+        },
+        {
+            "question": "清州のハンさんの精子はどのような場所として知られていますか？",
+            "answer": "清州のハンさんの精子は農業に力を入れるように推奨された場所として知られています。"
+        }
+    ],
+    "word_Count": {
+        "text": 188,
+        "QA": 228
+    }
+}

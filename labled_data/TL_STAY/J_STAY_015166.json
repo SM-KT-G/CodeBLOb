@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_015166",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42020&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "김해 삼계 넘버25 김해삼계점"
+    },
+    "text": "ナンバー25金海三渓店は疲れを癒してくれるところです。 都心の中で一番近い旅行先で、ときめきと安らぎを提供します。 2人用浴槽が完備された客室と様々なオプションで選択できるヒーリングスペースをご提供します。 朝食も提供され、一日をよく休んだと考えられます。 また、騒音に対するご注意をお願いしますし、周辺の観光地まで車で数分の距離にあります。 夜間の待合室、昼の宿泊、無制限待合室、朝食のご案内など、さまざまな利用オプションもご提供しております。",
+    "QA": [
+        {
+            "question": "このホテルの特徴は何ですか？",
+            "answer": "ナンバー25金海三渓店は都心に位置し、疲れを癒してくれる宿泊施設です。"
+        },
+        {
+            "question": "客室にはどのような設備がありますか？",
+            "answer": "客室には2人用の浴槽が完備されています。"
+        },
+        {
+            "question": "朝食は提供されますか？",
+            "answer": "はい、朝食も提供されます。"
+        },
+        {
+            "question": "周辺にはどのような観光地がありますか？",
+            "answer": "周辺には車で数分の距離に観光地があります。"
+        },
+        {
+            "question": "ホテルの利用オプションには何がありますか？",
+            "answer": "ホテルでは夜間の待合室、昼の宿泊、無制限待合室、朝食のご案内など、さまざまな利用オプションを提供しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 163,
+        "QA": 165
+    }
+}

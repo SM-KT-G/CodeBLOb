@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_010429",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-08-31",
+        "domain": "음식점",
+        "title": "デポチムダク 大学路（대포찜닭 대학로 ）"
+    },
+    "text": "デポチムダク 大学路（대포찜닭 대학로 ）\\n\nソウル特別市 鐘路区 大学路9キル 18\\n\nこの店はソウル特別市のテハンノに位置した韓国料理店です。代表的なメニューはチムダクです。大学生に人気のお店です。",
+    "QA": [
+        {
+            "question": "この店の名前は何ですか？",
+            "answer": "デポチムダク 大学路（대포찜닭 대학로 ）です。"
+        },
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "ソウル特別市 鐘路区 大学路9キル 18に位置しています。"
+        },
+        {
+            "question": "この店の代表的なメニューは何ですか？",
+            "answer": "代表的なメニューはチムダクです。"
+        },
+        {
+            "question": "この店はどのような人々に人気ですか？",
+            "answer": "この店は大学生に人気です。"
+        }
+    ],
+    "word_Count": {
+        "text": 75,
+        "QA": 104
+    }
+}

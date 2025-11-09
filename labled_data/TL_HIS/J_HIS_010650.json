@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_010650",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=727&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=22&ccbaAsno=00190000&ccbaCtcd=34&ccbaCpno=2223400190000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "금산인삼백주"
+    },
+    "text": "錦山人参白酒 (금산인삼백주)\\n\n忠清南道無形文化財 , 錦山人参白酒は錦山金寧金氏の家に伝わる伝統的な酒の製造法で、酒を作る方法は金氏の門中に伝わる『雑録』に記録されている。 これによると、細かく砕いた全粒粉と高麗人参を混ぜて3ヵ月間発酵させて麹を作る。 米でコドゥご飯を炊いて準備しておいた麹と高麗人参を混ぜて下酒を作る。 ここに再び薬よもぎ·松葉·人参·コドゥバブを混ぜて40~60日間熟成させる。 酒が熟したらろ過し、輪を使って蒸留する。 アルコール濃度は43%程度で、高麗人参の香りがして色が柔らかい。 技能保有者のキム·チャンス氏はキム·ムンギの18代孫で祖母と母親からその技術を伝授され継承している。",
+    "QA": [
+        {
+            "question": "錦山人参白酒はどのように作られますか？",
+            "answer": "全粒粉と高麗人参を混ぜ、発酵させて麹を作ります。また、米でコドゥご飯を炊いて麹と高麗人参を混ぜて下酒を作ります。さらに、薬よもぎ・松葉・人参・コドゥバブを混ぜて熟成させ、ろ過と蒸留を行います。"
+        },
+        {
+            "question": "錦山人参白酒のアルコール濃度はどのくらいですか？",
+            "answer": "錦山人参白酒のアルコール濃度は約43%程度です。"
+        },
+        {
+            "question": "錦山人参白酒はどのような特徴がありますか？",
+            "answer": "錦山人参白酒は高麗人参の香りがあり、色が柔らかい特徴があります。"
+        },
+        {
+            "question": "技能保有者のキム・チャンス氏について教えてください。",
+            "answer": "キム・チャンス氏はキム・ムンギの18代孫で、祖母と母親から錦山人参白酒の技術を伝授され継承しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 225,
+        "QA": 214
+    }
+}

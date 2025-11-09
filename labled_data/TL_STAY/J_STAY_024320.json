@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_024320",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42021&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "부산 강서 신호동 S"
+    },
+    "text": "新湖洞で会う特別な施設とサービスを提供するSモーテルです。 ヤノルジャ会員のための特典として、オンシーズンと特定日、祝日には料金が調整されることがあります。 周辺にはルノーサムスン信号地点が約550m、徒歩では7分の距離にあり、釜山地方裁判所西部支庁店は約4.5km、車では10分の距離です。 そして乙淑島までは約11km、車では15分の距離に位置し、金海国際空港までは約16km、車では20分の距離です。",
+    "QA": [
+        {
+            "question": "Sモーテルはどのような特別な施設とサービスを提供していますか？",
+            "answer": "Sモーテルは新湖洞で会う特別な施設とサービスを提供しています。"
+        },
+        {
+            "question": "Sモーテルはどのような特典をヤノルジャ会員に提供していますか？",
+            "answer": "ヤノルジャ会員のための特典として、オンシーズンと特定日、祝日には料金が調整されることがあります。"
+        },
+        {
+            "question": "Sモーテルの周辺にはどのような観光地がありますか？",
+            "answer": "Sモーテルの周辺にはルノーサムスン信号地点や釜山地方裁判所西部支庁店などがあります。"
+        },
+        {
+            "question": "乙淑島へのアクセスはどのくらいかかりますか？",
+            "answer": "乙淑島までは車で約15分の距離です。"
+        },
+        {
+            "question": "金海国際空港までの距離はどのくらいですか？",
+            "answer": "金海国際空港までは車で約20分の距離です。"
+        }
+    ],
+    "word_Count": {
+        "text": 148,
+        "QA": 212
+    }
+}

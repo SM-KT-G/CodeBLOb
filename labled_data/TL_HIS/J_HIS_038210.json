@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_038210",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=835&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=00890000&ccbaCtcd=38&ccbaCpno=2333800890000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1988-12-23",
+        "domain": "문화/역사관광",
+        "title": "창원 유주비각"
+    },
+    "text": "昌原維舟碑閣 (창원 유주비각)\\n\n慶尚南道昌原市鎮海区龍原洞山222、223、197\\n\n伽耶時代、慶尚南道記念物、龍院洞の前の海に雑木で覆われた島を望山島、この島の東南70m海上の岩島を幽州岩と呼ぶが、いずれも可楽国キムスロ王の王妃であるホ太后と関連した伝説があるところだ。 可楽国の水路王が都を定めて7年ぶりに臣下たちが王妃を迎え入れることを話すと「荷物がこの地に降りてきたのは天の意であり、王妃もまた天がくれるだろう」と言った。臣下たちに海辺に出て待つことを命令して待つと、西南側の海上で赤い旗を翻しながら船一隻が近づいてきた。 インドのアユタ国の王女ホ太后一行で、彼らが初めて降りたところが望山島であり、ホ太后一行が乗ってきた船がひっくり返り、幽州岩になったという。 幽州岩と望山島から1km程度離れたところにはホ太后の伝説を伝えている幽州碑閣がある。",
+    "QA": [
+        {
+            "question": "昌原維舟碑閣はどこにありますか？",
+            "answer": "昌原維舟碑閣は慶尚南道昌原市鎮海区龍原洞山222、223、197に位置しています。"
+        },
+        {
+            "question": "昌原維舟碑閣に関連した伝説は何ですか？",
+            "answer": "昌原維舟碑閣には、可楽国キムスロ王の王妃であるホ太后と関連した伝説があります。"
+        },
+        {
+            "question": "伝説の中で、ホ太后はどのようにして昌原維舟碑閣にたどり着いたのですか？",
+            "answer": "可楽国の水路王が臣下たちに王妃を迎え入れることを話した後、ホ太后一行が赤い旗を翻しながら船で昌原維舟碑閣の近くまでやってきました。"
+        },
+        {
+            "question": "昌原維舟碑閣からどれくらいの距離に幽州碑閣がありますか？",
+            "answer": "昌原維舟碑閣から幽州碑閣までは約1kmの距離です。幽州碑閣はホ太后の伝説を伝えています。"
+        }
+    ],
+    "word_Count": {
+        "text": 280,
+        "QA": 210
+    }
+}

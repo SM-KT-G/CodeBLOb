@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_028690",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=307&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=16&ccbaAsno=03620000&ccbaCtcd=36&ccbaCpno=1363603620000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1989-01-14",
+        "domain": "자연관광",
+        "title": "고흥 외나로도 상록수림"
+    },
+    "text": "高興邑から南東に25キロ離れた外羅老道の西北側の海辺に位置した常緑樹林は我が国の数少ない天然記念物に指定されて保護されている。この神秘的な場所は魚たちが暮らすのに適した環境を提供して漁師たちがムルコキテを誘引する役割を果たしている。常緑樹林の間を成す植物では口実松の実栗から榎、クヌギ、イヌシデ、つばき、麦飯木、モチノキ、松嶽(ソンアク)、概算町、ポクイサチョ、ゲッカチ、水泳などがある。このように多様な植物が樹林をなしていて、自然の美しさを感じることができる。常緑樹林は、暖帯林賞をそのまま持っていて学術的価値が高い。",
+    "QA": [
+        {
+            "question": "常緑樹林はどのような場所ですか？",
+            "answer": "常緑樹林は高興邑から南東に25キロ離れた外羅老道の西北側の海辺に位置し、数少ない天然記念物に指定されて保護されています。"
+        },
+        {
+            "question": "常緑樹林にはどのような植物がありますか？",
+            "answer": "常緑樹林の間を成す植物には口実松の実栗から榎、クヌギ、イヌシデ、つばき、麦飯木、モチノキ、松嶽(ソンアク)、概算町、ポクイサチョ、ゲッカチ、水泳などがあります。"
+        },
+        {
+            "question": "常緑樹林はどのような役割を果たしていますか？",
+            "answer": "常緑樹林は漁師たちがムルコキテを誘引する役割を果たしており、魚たちが暮らすのに適した環境を提供しています。"
+        },
+        {
+            "question": "常緑樹林の学術的価値は何ですか？",
+            "answer": "常緑樹林は暖帯林賞をそのまま持っていて学術的価値が高く、自然の美しさを感じることができる場所です。"
+        }
+    ],
+    "word_Count": {
+        "text": 190,
+        "QA": 231
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_006957",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1097&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=02310000&ccbaCtcd=38&ccbaCpno=3413802310000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1996-03-11",
+        "domain": "문화/역사관광",
+        "title": "거창 성암사"
+    },
+    "text": "居昌聖岩寺 (거창 성암사)\\n\n慶尚南道居昌郡柱状面蓮橋里341番地\\n\n慶尚南道文化財資料 , 韓末の憂国志士イ·ジュファンと彼の師匠であるソン·ビョンソン、ソン·ビョンスンの祭祀を行う祠堂だ。 ソン·ビョンソン（1836~1905）はソン·シヨルの9世孫であり、ソン·ビョンスンの兄だ。 朝鮮後期の文人だったが官職に就かず、日帝によって強制的に乙巳條約が締結されると反対運動を展開した。 1905年12月、国権を奪われたことを痛憤して自決した。 ソン·ビョンスン(1839~1912)はソン·ビョンソンの弟で、学行に優れ、文人たちを指導して民族意識を鼓吹するのに全力を傾けた。 1905年、不法な乙巳條約締結で独立運動を強行し、1912年には殉国することを決心し、音読自決した。 現在、ここは居昌の儒林たちを教育する場所として使用している。",
+    "QA": [
+        {
+            "question": "居昌聖岩寺はどこにありますか？",
+            "answer": "居昌聖岩寺は慶尚南道居昌郡柱状面蓮橋里341番地にあります。"
+        },
+        {
+            "question": "居昌聖岩寺はどのような場所ですか？",
+            "answer": "居昌聖岩寺は、慶尚南道文化財資料であり、イ·ジュファンとソン·ビョンソン、ソン·ビョンスンの祭祀を行う祠堂です。"
+        },
+        {
+            "question": "ソン·ビョンソンとはどのような人物ですか？",
+            "answer": "ソン·ビョンソンはソン·シヨルの9世孫であり、ソン·ビョンスンの兄でした。彼は朝鮮後期の文人であり、日帝による乙巳條約の締結に反対し、自決しました。"
+        },
+        {
+            "question": "ソン·ビョンスンとはどのような人物ですか？",
+            "answer": "ソン·ビョンスンはソン·ビョンソンの弟で、学行に優れ、独立運動を強行しました。彼は殉国の決意をし、音読自決しました。"
+        },
+        {
+            "question": "居昌聖岩寺は何のために使用されていますか？",
+            "answer": "居昌聖岩寺は居昌の儒林たちを教育する場所として使用されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 273,
+        "QA": 253
+    }
+}

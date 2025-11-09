@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_014899",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=503&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=01700000&ccbaCtcd=37&ccbaCpno=2113701700000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1983-06-20",
+        "domain": "문화/역사관광",
+        "title": "예천권씨종가문적"
+    },
+    "text": "醴泉権氏宗家門跡 (예천권씨종가문적)\\n\n慶尚北道醴泉郡\\n\n慶尚北道有形文化財 , この門跡は醴泉権氏宗宅の中の百承閣に所蔵されている戦績だ。 朝鮮仁祖の時に学者である竹沼権別(1589~1671)が著したもので、国内初の王朝別、人物辞典類である『海東雑録』と『竹沼日記』の2種類だ。 『竹沼日記』はクォン·ビョルが直接書いた本で1冊であり、1625年から1626年までの日記だ。『海東雑録』は人物を王朝別、姓氏別に分類し、彼らの学問と説話を中心に14巻14冊で編んだ文献説話集だ。 最初の人物事典という点で、その価値が高く評価されるのだ。",
+    "QA": [
+        {
+            "question": "この門跡はどこにありますか？",
+            "answer": "この門跡は醴泉権氏宗宅の中の百承閣に所蔵されています。"
+        },
+        {
+            "question": "竹沼権別は何を著しましたか？",
+            "answer": "竹沼権別は『海東雑録』と『竹沼日記』の2種類を著しました。"
+        },
+        {
+            "question": "『竹沼日記』は何の日記ですか？",
+            "answer": "『竹沼日記』はクォン·ビョルが直接書いたもので、1625年から1626年までの日記です。"
+        },
+        {
+            "question": "『海東雑録』は何の文献説話集ですか？",
+            "answer": "『海東雑録』は人物を王朝別、姓氏別に分類し、彼らの学問と説話を中心に編んだ文献説話集です。"
+        },
+        {
+            "question": "『海東雑録』はどのような価値がありますか？",
+            "answer": "『海東雑録』は国内初の王朝別、人物辞典類であり、その点でその価値が高く評価されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 199,
+        "QA": 198
+    }
+}

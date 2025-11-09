@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_091622",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1063&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=01470000&ccbaCtcd=37&ccbaCpno=3413701470000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1985-08-05",
+        "domain": "문화/역사관광",
+        "title": "예천향석리석조여래좌상"
+    },
+    "text": "慶尚北道文化財資料、長年放置されていたのを、村の住民たちが1914年の保護建造物を立てての普光(ボグァン)前で名前を作って移したものである。金元(キム・ウォン)足は村で紛争が頻繁に起きると、地理的影響と信じて仏の慈悲に阻止しようという意図で仏像を作ったという。仏像は豊満な丸い顔に目は半分閉じていて鼻は脱落したものを保守した。首には3列のしわの三道(三道)をめぐらしたが、現在はセメントで付けておきた。服は左肩にわたっており、華やかな服のしわは、膝まで覆われている。右手は手先が地に向かって左手は膝に乗せたハンマチョクジイン(降魔觸地印)の形をしている。台座(臺座)中央に刻まれた蓮の葉は正面を向くように処理し、左・右へ日増しに避けることに作って高麗時代の蓮華(れんげ)文処理の特色を示している。高麗電気に作られた仏像と推定される。",
+    "QA": [
+        {
+            "question": "仏像はいつ移動され、なぜ移動されたのですか？",
+            "answer": "仏像は1914年に村の住民たちによって移動されました。彼らは保護建造物として立てられていた仏像を村の中心に移し、普光前で名前をつけました。"
+        },
+        {
+            "question": "金元足はなぜ仏像を作ったのですか？",
+            "answer": "金元足は紛争を防ぐために、地理的影響と信じて仏の慈悲に頼ろうとして仏像を作ったと言われています。"
+        },
+        {
+            "question": "仏像の特徴について教えてください。",
+            "answer": "仏像は豊満な丸い顔に半分閉じた目と脱落した鼻を持ち、首には三道のしわを巻き、服は左肩にわたって華やかなしわが膝まで覆っています。右手は地に向かって手を伸ばし、左手は膝に乗せた降魔觸地印の形をしています。"
+        }
+    ],
+    "word_Count": {
+        "text": 268,
+        "QA": 200
+    }
+}

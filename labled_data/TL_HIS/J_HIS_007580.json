@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_007580",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=849&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=01150000&ccbaCtcd=37&ccbaCpno=2333701150000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1996-05-14",
+        "domain": "문화/역사관광",
+        "title": "경주손순유허"
+    },
+    "text": "慶州孫順遺許 (경주손순유허)\\n\n慶尚北道慶州市玄谷面小峴里623番地\\n\n慶尚北道記念物 , ここは新羅時代の至極の孝子である孫順の遺虚地だ。 ここに朝鮮末期の学者である許伝が賛述した碑文を刻んだ遺骸碑があったと伝える。 新羅興徳王の時の人である孫順の孝行は『三国遺事、三国遺事』に記録されている。 この本のソン·スンメア編によると、「毛梁里のソン·スンとその妻は、自分の母親を養うために食べ物を奪って食べる息子を地面に埋めることにし、鷲山に入って地面を掘っている途中、変な石鐘を一つ得た。これに天の意思だと言って子供を聞かずに家に帰って石鐘を吊るして叩くと、その音が王宮にまで聞こえるようになった。 興徳王がこの話を聞いて毎年穀物50石を与え、孝心を称賛した。 後にソンスンは以前住んでいた家を喜捨して弘孝寺と言い、その釈宗を置いたという。 その後、真聖女王の時に後百済の暴悪な泥棒がその村に攻め入ってきて鐘がなくなり寺だけが残っていた。」という。",
+    "QA": [
+        {
+            "question": "この地域はどこに位置していますか？",
+            "answer": "慶尚北道慶州市玄谷面小峴里623番地に位置しています。"
+        },
+        {
+            "question": "この地域はどのような記念物がありますか？",
+            "answer": "新羅時代の孝子である孫順の遺虚地であり、許伝が賛述した碑文を刻んだ遺骸碑があります。"
+        },
+        {
+            "question": "孫順とはどのような人物ですか？",
+            "answer": "孫順は新羅興徳王の時代の人であり、孝行のために有名です。"
+        },
+        {
+            "question": "孫順の孝行について詳しく教えてください。",
+            "answer": "孫順とその妻は、自分の母親を養うために食べ物を奪って食べる息子を地面に埋めることにしました。興徳王はこの行動を称賛し、毎年穀物を与えました。"
+        },
+        {
+            "question": "弘孝寺について教えてください。",
+            "answer": "孫順は以前住んでいた家を喜捨して弘孝寺と言い、その釈宗を置きました。"
+        },
+        {
+            "question": "後百済の泥棒について教えてください。",
+            "answer": "真聖女王の時に後百済の暴悪な泥棒が攻め入り、鐘がなくなりましたが、寺だけが残っていました。"
+        }
+    ],
+    "word_Count": {
+        "text": 313,
+        "QA": 257
+    }
+}

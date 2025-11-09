@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_082935",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/collectionList#######",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2023-10-11",
+        "domain": "문화/역사관광",
+        "title": "세르비아의 민요 Ⅱ"
+    },
+    "text": "セルビアの民謡Ⅱ (세르비아의 민요 Ⅱ)\\n\nベルリンのハンス・リデル書店で購入した古文書は、安益泰所蔵図書の一冊です。具体的には『案213』と呼ばれる第1巻が含まれています。この書籍はヨーロッパ、具体的にはドイツの作品であり、所使用の材質は日向紙です。作者はTalvjという方で、この書籍は文化芸術・音楽・書籍・楽書の分類に該当します。サイズは横136cm、縦202cm、高さ2cmとなっています。",
+    "QA": [
+        {
+            "question": "この古文書はどこで購入されましたか？",
+            "answer": "ベルリンのハンス・リデル書店で購入されました。"
+        },
+        {
+            "question": "この古文書の作者は誰ですか？",
+            "answer": "Talvjという方が作者です。"
+        },
+        {
+            "question": "この書籍が分類されるカテゴリーは何ですか？",
+            "answer": "文化芸術・音楽・書籍・楽書の分類に該当します。"
+        },
+        {
+            "question": "この書籍のサイズはどのくらいですか？",
+            "answer": "横136cm、縦202cm、高さ2cmです。"
+        },
+        {
+            "question": "この書籍に使用されている材質は何ですか？",
+            "answer": "日向紙が使用されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 147,
+        "QA": 137
+    }
+}

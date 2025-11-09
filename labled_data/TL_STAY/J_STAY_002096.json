@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_002096",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-02-22",
+        "domain": "숙박",
+        "title": "SRホテルスイーツ（에스알 호텔 스위츠（SR HOTEL SUITES））"
+    },
+    "text": "SRホテルスイーツ（에스알 호텔 스위츠（SR HOTEL SUITES））\\n\n京畿道 城南市 盆唐区 ファンセウル路319番キル9\\n\n2007年にオープンしたSRホテルは2018年にリモデリングを経てSRホテルスイーツ（SR HOTEL SUITES）として新たにオープンしました。ビジネス、レジャーに最適な立地を誇り、差別化されたサービスを提供するビジネスホテルです。",
+    "QA": [
+        {
+            "question": "SRホテルスイーツはいつオープンしましたか？",
+            "answer": "SRホテルスイーツは2007年にオープンしました。"
+        },
+        {
+            "question": "SRホテルスイーツはどの地域に位置していますか？",
+            "answer": "SRホテルスイーツは京畿道城南市盆唐区に位置しています。"
+        },
+        {
+            "question": "SRホテルスイーツはどのようなサービスを提供していますか？",
+            "answer": "SRホテルスイーツはビジネス、レジャーに最適な立地を誇り、差別化されたサービスを提供しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 137,
+        "QA": 129
+    }
+}

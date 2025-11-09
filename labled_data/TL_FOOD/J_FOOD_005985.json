@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_005985",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "ゴミソゴブチャン（고미소곱창）"
+    },
+    "text": "ゴミソゴブチャン（고미소곱창）\\n\nソウル特別市 東大門区 旺山路 228\\n\nコプチャンは豚の内臓を野菜と一緒に炒めた韓国の大衆料理です。おすすめはコプチャン焼きです。ソウル特別市のチョンニャンニヨクに位置したバーベキュー専門店です。",
+    "QA": [
+        {
+            "question": "このレストランの名前は何ですか？",
+            "answer": "ゴミソゴブチャン（고미소곱창）です。"
+        },
+        {
+            "question": "このレストランはどこにありますか？",
+            "answer": "ソウル特別市の東大門区旺山路228にあります。"
+        },
+        {
+            "question": "コプチャンはどのような料理ですか？",
+            "answer": "コプチャンは豚の内臓を野菜と一緒に炒めた韓国の大衆料理です。"
+        },
+        {
+            "question": "このレストランのおすすめメニューは何ですか？",
+            "answer": "おすすめはコプチャン焼きです。"
+        },
+        {
+            "question": "このレストランは何を専門としていますか？",
+            "answer": "このレストランはバーベキューを専門としています。"
+        }
+    ],
+    "word_Count": {
+        "text": 86,
+        "QA": 148
+    }
+}

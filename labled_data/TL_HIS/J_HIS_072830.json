@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_072830",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=736&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=22&ccbaAsno=00280000&ccbaCtcd=33&ccbaCpno=2223300280000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "보은 각자장"
+    },
+    "text": "忠清北道は無形文化財に登録された各磁場について説明している。各磁場は書籍製作に必要なチェクパンの文字と細密な絵を刻むことを担当し、チェクパン管理とオンドルの床の担当の役割を遂行する。忠清北道はこの地域がコインスェ文化の中心地として位置づけられており、これに合わせて木版印刷文化を保存しようと忠清北道の無形文化財に指定することに決定した。また、チェクパン伝統彫刻技法に対する研究と体系的かつ多様な思考を通じてパクヨンドクが継承・発展に努力しており、それを各磁場の技能保有者に認めて命脈を維持しようとする。",
+    "QA": [
+        {
+            "question": "忠清北道はどのような役割を果たしていますか？",
+            "answer": "忠清北道は書籍製作に必要なチェクパンの文字と細密な絵を刻むことや、チェクパン管理とオンドルの床の担当などの役割を果たしています。"
+        },
+        {
+            "question": "忠清北道の無形文化財に指定された理由は何ですか？",
+            "answer": "忠清北道はコインスェ文化の中心地であり、木版印刷文化を保存するために無形文化財に指定されました。"
+        },
+        {
+            "question": "パクヨンドクはどのような努力をしていますか？",
+            "answer": "パクヨンドクはチェクパン伝統彫刻技法に対する研究と体系的な思考を通じて継承と発展に努力しています。"
+        },
+        {
+            "question": "各磁場の技能保有者はどのような役割を果たしていますか？",
+            "answer": "各磁場の技能保有者はチェクパンの文字と絵の彫刻、チェクパンの管理、オンドルの床の担当などの役割を果たしています。"
+        }
+    ],
+    "word_Count": {
+        "text": 184,
+        "QA": 228
+    }
+}

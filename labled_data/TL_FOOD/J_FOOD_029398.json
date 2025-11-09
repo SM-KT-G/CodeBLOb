@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_029398",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-05",
+        "domain": "음식점",
+        "title": "玄大噌カルグッス 魯巌 ( 현대장칼국수 노암 )"
+    },
+    "text": "玄大噌カルグッス 魯巌 ( 현대장칼국수 노암 )\\n\n江原道 ガンヌン市 ナムブロ90\\n\n韓国のグルメ番組で何度も紹介された名店です。江原道のガンヌン市に位置した韓食専門店です。代表的なメニューはカルグクスです。",
+    "QA": [
+        {
+            "question": "このレストランの名前は何ですか？",
+            "answer": "玄大噌カルグッス 魯巌 ( 현대장칼국수 노암 )です。"
+        },
+        {
+            "question": "このレストランはどこに位置していますか？",
+            "answer": "江原道のガンヌン市に位置しています。"
+        },
+        {
+            "question": "このレストランは何の料理を専門としていますか？",
+            "answer": "韓食を専門としています。特に代表的なメニューはカルグクスです。"
+        },
+        {
+            "question": "このレストランは何度も紹介されたことがありますか？",
+            "answer": "はい、韓国のグルメ番組で何度も紹介された名店です。"
+        }
+    ],
+    "word_Count": {
+        "text": 79,
+        "QA": 136
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_099145",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ja",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2023-08-23",
+        "domain": "문화/역사관광",
+        "title": "장애인문화예술축제 A+ Festival"
+    },
+    "text": "障害者文化芸術フェスティバルA+Festivalは2009年から始まり、今年15回を迎える祭りで、障害者らの潜在的可能性、開かれたアクセス性、活気に満ちた躍動性をモットーとして、障害者と健常者がともに芸術とともに、祭りです。2023障害者文化芸術フェスティバルは障害芸術人たちの精神的経験が、他の価値の中で咲いて、そこで初めて光を放つ祭りで開催され、スローガンは\"初めて芸術\"です。この祭りは9月1日から3日まで大統領府のヘリコプーター着陸地の春秋館の周辺で行われます。",
+    "QA": [
+        {
+            "question": "障害者文化芸術フェスティバルA+Festivalは何年から始まりましたか？",
+            "answer": "2009年から始まりました。"
+        },
+        {
+            "question": "障害者文化芸術フェスティバルA+Festivalのスローガンは何ですか？",
+            "answer": "スローガンは'初めて芸術'です。"
+        },
+        {
+            "question": "障害者文化芸術フェスティバルA+Festivalはどこで行われますか？",
+            "answer": "大統領府のヘリコプーター着陸地の春秋館の周辺で行われます。"
+        },
+        {
+            "question": "障害者文化芸術フェスティバルA+Festivalのスローガンは何ですか？",
+            "answer": "スローガンは'初めて芸術'です。"
+        },
+        {
+            "question": "障害者文化芸術フェスティバルA+Festivalの開催日はいつですか？",
+            "answer": "9月1日から3日までです。"
+        }
+    ],
+    "word_Count": {
+        "text": 172,
+        "QA": 195
+    }
+}

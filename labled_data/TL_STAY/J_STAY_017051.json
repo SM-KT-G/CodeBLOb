@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_017051",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42020&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "합천 문레이크호텔"
+    },
+    "text": "ムーンレイクホテル、陜川湖回陽観光団地内に位置。 最先端の1:1無人ドライブインシステム導入。 23種類のコンセプトのブティックホテル。 ホテル式寝具類の提供。 無人システムで運営。 22時以降入室の際は事前連絡が必要。",
+    "QA": [
+        {
+            "question": "ムーンレイクホテルはどこに位置していますか？",
+            "answer": "ムーンレイクホテルは陜川湖回陽観光団地内に位置しています。"
+        },
+        {
+            "question": "ムーンレイクホテルはどのようなドライブインシステムを導入していますか？",
+            "answer": "ムーンレイクホテルは最先端の1:1無人ドライブインシステムを導入しています。"
+        },
+        {
+            "question": "ムーンレイクホテルではどのようなコンセプトのブティックホテルが提供されていますか？",
+            "answer": "ムーンレイクホテルでは23種類のコンセプトのブティックホテルが提供されています。"
+        },
+        {
+            "question": "ムーンレイクホテルではどのような寝具が提供されていますか？",
+            "answer": "ムーンレイクホテルではホテル式の寝具が提供されています。"
+        },
+        {
+            "question": "ムーンレイクホテルの運営はどのように行われていますか？",
+            "answer": "ムーンレイクホテルは無人システムで運営されています。"
+        },
+        {
+            "question": "ムーンレイクホテルに22時以降に入室する場合は何か注意が必要ですか？",
+            "answer": "ムーンレイクホテルに22時以降に入室する場合は事前に連絡が必要です。"
+        }
+    ],
+    "word_Count": {
+        "text": 80,
+        "QA": 280
+    }
+}

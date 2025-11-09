@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_030667",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42010&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "양평 해피알프스펜션"
+    },
+    "text": "こんにちは。ハッピーアルプスペンションです。 当ペンションは環境にやさしい木造建物として建設されています。 ヤンプンアルプスの風景と様々な周辺観光地が一望できる位置です。 また、常に最高のサービスで旅行者の心まで休めるように最善を尽くしています。 22時以降に入室される場合、ペンションまで予めご連絡ください。 客室内喫煙時、100,000ウォンの過料が負担されます。",
+    "QA": [
+        {
+            "question": "このペンションの特徴は何ですか？",
+            "answer": "ハッピーアルプスペンションは環境にやさしい木造建物として建設されています。"
+        },
+        {
+            "question": "周辺観光地はどのようなものがありますか？",
+            "answer": "ヤンプンアルプスの風景と様々な周辺観光地が一望できる位置にあります。"
+        },
+        {
+            "question": "サービスはどのように提供されていますか？",
+            "answer": "常に最高のサービスで旅行者の心まで休めるように最善を尽くしています。"
+        },
+        {
+            "question": "22時以降に入室する場合はどうすればいいですか？",
+            "answer": "22時以降に入室される場合は、事前にペンションまでご連絡ください。"
+        },
+        {
+            "question": "客室内で喫煙してもいいですか？",
+            "answer": "客室内で喫煙される場合、100,000ウォンの過料が負担されます。"
+        }
+    ],
+    "word_Count": {
+        "text": 134,
+        "QA": 195
+    }
+}

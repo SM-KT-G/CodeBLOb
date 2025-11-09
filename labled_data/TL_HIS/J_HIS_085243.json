@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_085243",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/view?relicId=27581",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2023-10-11",
+        "domain": "문화/역사관광",
+        "title": "수키와 조각"
+    },
+    "text": "スッキと彫刻 (수키와 조각)\\n\n国籍/時代: 韓国の高麗時代 材質: 硬質の土 分類: 主に生活のための建築部材で、屋根材として使用されているものです。特にときわとして使用されます。 大きさ: 現在の長さは196cmで、幅は140cm。また、現在の長さは155cmで、現在の幅は143cmです。",
+    "QA": [
+        {
+            "question": "この彫刻の材質は何ですか？",
+            "answer": "この彫刻の材質は硬質の土です。"
+        },
+        {
+            "question": "この彫刻はどのように使用されましたか？",
+            "answer": "この彫刻は、主に生活のための建築部材として使用され、特に屋根材として使用されていました。"
+        },
+        {
+            "question": "この彫刻の大きさはどのくらいですか？",
+            "answer": "この彫刻の長さは現在196cmで、幅は140cmです。また、長さは155cmで、幅は143cmです。"
+        }
+    ],
+    "word_Count": {
+        "text": 109,
+        "QA": 116
+    }
+}

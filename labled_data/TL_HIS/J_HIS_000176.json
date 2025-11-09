@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_000176",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101971",
+        "collectedDate": "2023-09-07",
+        "publishedDate": "2021-07-01",
+        "domain": "문화/역사관광",
+        "title": "「扶蘇山城」 泗疵楼"
+    },
+    "text": "「扶蘇山城」 泗疵楼\n\"泗疵楼    泗疵楼（サジャル）は扶蘇山で最も高いところにあり、周辺の景色を楽しむことができます。ここにはもともと月見をする「送月台（ソンウォルデ）」がありましたが、1919年に林川官衙（イムチョングァナ）の正門「背山楼（ペサルル）」が移され、名称が「泗疵楼」に変更されました。 \"",
+    "QA": [
+        {
+            "question": "扶蘇山城はどこにありますか？",
+            "answer": "扶蘇山城は泗疵楼のある扶蘇山にあります。"
+        },
+        {
+            "question": "泗疵楼はどのような場所ですか？",
+            "answer": "泗疵楼は扶蘇山で最も高い場所にあり、周辺の景色を楽しむことができます。"
+        },
+        {
+            "question": "泗疵楼にはどんな建物がありますか？",
+            "answer": "泗疵楼には元々月見をするための「送月台」と林川官衙の正門である「背山楼」があります。"
+        },
+        {
+            "question": "背山楼はいつ移され、名称が変更されたのですか？",
+            "answer": "背山楼は1919年に移され、名称が「泗疵楼」に変更されました。"
+        }
+    ],
+    "word_Count": {
+        "text": 112,
+        "QA": 144
+    }
+}

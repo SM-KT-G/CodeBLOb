@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_011882",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2023-02-05",
+        "domain": "문화/역사관광",
+        "title": "남포동 BIFF 거리"
+    },
+    "text": "南浦洞BIFF通り (남포동 BIFF 거리)\\n\n釜山広域市中区南浦洞6街74-1\\n\n釜山国際映画祭のアイデンティティが宿る場所は、『釜山国際映画祭』の中心地、南浦洞にあります。このエリアには、4つの上映館が集まっています。歩道ブロックの上には、韓国初の映画製作者である春史ナ·ウンギュに関する記録や映画界の巨匠たちの手形があり、映画の雰囲気が感じられます。",
+    "QA": [
+        {
+            "question": "南浦洞BIFF通りはどこにありますか？",
+            "answer": "南浦洞BIFF通りは釜山広域市中区南浦洞6街74-1にあります。"
+        },
+        {
+            "question": "南浦洞BIFF通りには何がありますか？",
+            "answer": "南浦洞BIFF通りには4つの上映館があります。また、春史ナ·ウンギュに関する記録や映画界の巨匠たちの手形もあります。"
+        },
+        {
+            "question": "南浦洞BIFF通りはどのような雰囲気がありますか？",
+            "answer": "南浦洞BIFF通りは釜山国際映画祭のアイデンティティが宿る場所です。映画の雰囲気が感じられる場所であり、歩道ブロックの上には春史ナ·ウンギュに関する記録や映画界の巨匠たちの手形があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 132,
+        "QA": 181
+    }
+}

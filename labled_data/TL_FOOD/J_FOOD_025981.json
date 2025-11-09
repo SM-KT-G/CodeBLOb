@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_025981",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "長今煎家 ( 장금이전집 )"
+    },
+    "text": "長今煎家 \nソウル特別市 中区 退渓路 147-9\n韓国人だけでなく、外国人の間でも広く知られています。各種韓国料理を取り扱っています。 代表的なメニューは海鮮炒めです。ソウル特別市のジュン区に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "長今煎家はどこに位置していますか？",
+            "answer": "長今煎家はソウル特別市中区の退渓路147-9に位置しています。"
+        },
+        {
+            "question": "長今煎家はどのような料理を提供していますか？",
+            "answer": "長今煎家では、各種韓国料理を取り扱っていますが、代表的なメニューは海鮮炒めです。"
+        },
+        {
+            "question": "長今煎家は韓国人だけでなく、外国人にも人気ですか？",
+            "answer": "はい、長今煎家は韓国人だけでなく、外国人の間でも広く知られています。"
+        }
+    ],
+    "word_Count": {
+        "text": 79,
+        "QA": 123
+    }
+}

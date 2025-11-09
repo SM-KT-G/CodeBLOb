@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_054096",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/collectionList#######",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "글자를 새긴 기와"
+    },
+    "text": "字を刻んだ瓦 (글자를 새긴 기와)\\n\n瓦の表面には幾何学的な文様と「土」という文字が彫られています。これは、韓国-朝鮮の建築部材であり、主に屋根材として使用されています。この瓦のサイズは、幅131cm、長さ296cmです。",
+    "QA": [
+        {
+            "question": "この瓦は何に使用されますか？",
+            "answer": "この瓦は主に屋根材として使用されます。"
+        },
+        {
+            "question": "この瓦のサイズは何ですか？",
+            "answer": "この瓦のサイズは幅131cm、長さ296cmです。"
+        },
+        {
+            "question": "瓦の表面には何が彫られていますか？",
+            "answer": "瓦の表面には幾何学的な文様と「土」という文字が彫られています。"
+        }
+    ],
+    "word_Count": {
+        "text": 82,
+        "QA": 87
+    }
+}

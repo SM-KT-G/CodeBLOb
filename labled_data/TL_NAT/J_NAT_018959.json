@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_018959",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101933",
+        "collectedDate": "2023-10-06",
+        "publishedDate": "2020-01-01",
+        "domain": "자연관광",
+        "title": "성주산"
+    },
+    "text": "聖住山\\n\n聖住山は大韓民国の忠清南道保寧市美山面と聖住面にまたがっている山だ。 高さは680m。成人が住むからといって星州山という名前がついたという。 かつては石炭産地として有名だった。 星州面には保寧石炭博物館がある。",
+    "QA": [
+        {
+            "question": "聖住山はどこに位置していますか？",
+            "answer": "聖住山は大韓民国の忠清南道保寧市美山面と聖住面にまたがっています。"
+        },
+        {
+            "question": "聖住山の高さは何メートルですか？",
+            "answer": "聖住山の高さは680メートルです。"
+        },
+        {
+            "question": "聖住山の別名は何ですか？",
+            "answer": "聖住山の別名は星州山です。"
+        },
+        {
+            "question": "星州山という名前がついた理由は何ですか？",
+            "answer": "星州山という名前がついた理由は、かつて成人が住んでいたからです。"
+        },
+        {
+            "question": "聖住山はかつて何で有名でしたか？",
+            "answer": "聖住山はかつて石炭産地として有名でした。"
+        },
+        {
+            "question": "星州面にある保寧石炭博物館は何を展示していますか？",
+            "answer": "保寧石炭博物館は石炭に関する展示をしています。"
+        }
+    ],
+    "word_Count": {
+        "text": 81,
+        "QA": 178
+    }
+}

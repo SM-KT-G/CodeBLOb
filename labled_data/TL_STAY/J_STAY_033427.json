@@ -1,0 +1,51 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_033427",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/goods/GN0002161838?startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0%5E&npprmaxsort=min",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "인천(연안부두) 에이스"
+    },
+    "text": "NetflixとYouTubeのティービングが視聴できる空間であるACE Motelは、親切なサービスとリラックスを提供します。 部屋ごとの入室基準を確認し、追加人数は当日現地にて決済してください。 未成年者の場合、身分証明書の持参が必要であり、入室が制限されることがあります。 エースモーテルはインチョン沿岸魚市場から徒歩1分の距離に位置しており、以下の航路を利用して現代遊覧船にも乗車できます。 また、沿岸埠頭海洋広場、ヨンアン埠頭のベンデンイ食堂通り、インチョン総合魚市場、南港釣り船埠頭、マンモス会センターも徒歩で利用できます。 フロントの前には漢江ラーメン調理器と追加ミネラルウォーターと飲み物がご提供されます。",
+    "QA": [
+        {
+            "question": "ACE Motelの場所はどこですか？",
+            "answer": "ACE Motelはインチョン沿岸魚市場から徒歩1分の場所にあります。"
+        },
+        {
+            "question": "ACE Motelはどのようなサービスを提供していますか？",
+            "answer": "ACE Motelは親切なサービスとリラックスを提供しています。"
+        },
+        {
+            "question": "ACE Motelの部屋ごとの入室基準は何ですか？",
+            "answer": "ACE Motelの部屋ごとの入室基準は、詳細を確認するためにお問い合わせください。"
+        },
+        {
+            "question": "ACE Motelでの追加人数の決済方法は何ですか？",
+            "answer": "ACE Motelでの追加人数は当日現地にて決済してください。"
+        },
+        {
+            "question": "未成年者の場合、ACE Motelへの入室には何が必要ですか？",
+            "answer": "未成年者の場合、身分証明書の持参が必要であり、入室が制限されることがあります。"
+        },
+        {
+            "question": "ACE Motelの近くにどんな観光名所がありますか？",
+            "answer": "ACE Motelの近くにはインチョン沿岸埠頭海洋広場、ヨンアン埠頭のベンデンイ食堂通り、インチョン総合魚市場、南港釣り船埠頭、マンモス会センターなどがあります。"
+        },
+        {
+            "question": "ACE Motelのフロントで何が提供されていますか？",
+            "answer": "ACE Motelのフロントの前には漢江ラーメン調理器と追加ミネラルウォーターと飲み物が提供されます。"
+        }
+    ],
+    "word_Count": {
+        "text": 228,
+        "QA": 363
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_003290",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "エウォルリアン（애월리안）"
+    },
+    "text": "エウォルリアン（애월리안）\\n\n済州特別自治道 済州市 涯月邑 涯院路 4\\n\n済州特別自治道のジェジュ市に位置した海鮮専門店です。おすすめは海鮮焼きの盛り合わせです。ホテル出身のシェフが調理します。",
+    "QA": [
+        {
+            "question": "エウォルリアンはどこに位置していますか？",
+            "answer": "エウォルリアンは済州特別自治道のジェジュ市に位置しています。"
+        },
+        {
+            "question": "エウォルリアンはどのような料理を提供していますか？",
+            "answer": "エウォルリアンは海鮮専門店で、特に海鮮焼きの盛り合わせがおすすめです。ホテル出身のシェフが調理します。"
+        },
+        {
+            "question": "エウォルリアンの住所は何ですか？",
+            "answer": "エウォルリアンの住所は済州特別自治道 済州市 涯月邑 涯院路 4 です。"
+        }
+    ],
+    "word_Count": {
+        "text": 73,
+        "QA": 130
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_080153",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ja",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2023-08-08",
+        "domain": "문화/역사관광",
+        "title": "생각이 스치는 자리, 휴전선 여행"
+    },
+    "text": "台風展望台は天下無敵台風部隊で1991年12月3日に建立したものであり、ソウルから約65km、平壌(ピョンヤン)で約140km離れた中面・ビキサンの最も高い修理(スリ)峰に位置する。",
+    "QA": [
+        {
+            "question": "場所はどこですか？",
+            "answer": "修理(スリ)峰に位置する"
+        },
+        {
+            "question": "台風展望台はいつ建立されましたか？",
+            "answer": "1991年12月3日に建立されました"
+        },
+        {
+            "question": "台風展望台は何キロメートル離れた場所にありますか？",
+            "answer": "ソウルから約65km、平壌(ピョンヤン)で約140km離れた中面・ビキサンの最も高い修理(スリ)峰に位置する"
+        }
+    ],
+    "word_Count": {
+        "text": 66,
+        "QA": 99
+    }
+}

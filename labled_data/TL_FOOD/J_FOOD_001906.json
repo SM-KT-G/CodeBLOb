@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001906",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-01",
+        "domain": "음식점",
+        "title": "Moti Mahal Humphreys ( 모티마할 험프리 )"
+    },
+    "text": "Moti Mahal Humphreys \n京畿道 平沢市 彭城邑 安停循環路 65\n現地のシェフが天然香辛料を使って様々なインド料理を提供しています。おすすめはチキンカレーです。京畿道のピョンテク市に位置したインド料理専門店です。",
+    "QA": [
+        {
+            "question": "このレストランはどこにありますか？",
+            "answer": "レストランは京畿道の平沢市にあります。"
+        },
+        {
+            "question": "このレストランの名前は何ですか？",
+            "answer": "レストランの名前はMoti Mahal Humphreysです。"
+        },
+        {
+            "question": "このレストランではどのような料理が提供されていますか？",
+            "answer": "このレストランでは様々なインド料理が提供されています。特におすすめはチキンカレーです。"
+        },
+        {
+            "question": "このレストランの場所はどうやって見つけられますか？",
+            "answer": "このレストランは京畿道のピョンテク市の安停循環路65番地に位置しています。"
+        },
+        {
+            "question": "このレストランの特徴は何ですか？",
+            "answer": "このレストランの特徴は、現地のシェフが天然香辛料を使って料理を提供していることです。"
+        }
+    ],
+    "word_Count": {
+        "text": 85,
+        "QA": 200
+    }
+}

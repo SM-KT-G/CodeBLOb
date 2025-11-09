@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_098146",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=144&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=12810100&ccbaCtcd=11&ccbaCpno=1121112810000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1998-06-29",
+        "domain": "문화/역사관광",
+        "title": "자치통감 권236~238"
+    },
+    "text": "''資治通鑑''巻236~238\\n\nソウル特別市龍山区西氷庫路137(龍山洞6街、ジャン·ジャン)\\n\n朝鮮王朝の世宗18年(1436)、宝物、死に神光が編纂した編年体(編年體:連帯によって編纂した歴史編纂の一つの体制)の中国通史を朝鮮時代の世宗の命令で輪廻、グォンジェなどが矯正して主席を付け加えたり、抜いて世宗18年(1436)に刊行した古文書だ。大きさは横14.7センチ、縦27.7センチであり、刊行に関する記録はないが、ワンジルが伝える重刊本の巻末に''正統元年(1436)8月引き出し''という員間の記録でその年に刊行されたことを知ることができる。まれに初版本が伝わっていくことに書誌学研究の貴重な資料と評価される。",
+    "QA": [
+        {
+            "question": "何が世宗18年(1436)に刊行されたのですか？",
+            "answer": "中国通史が世宗18年(1436)に刊行されました。"
+        },
+        {
+            "question": "なぜその書物は貴重な資料と評価されるのですか？",
+            "answer": "その書物は、初版本が伝わっていることにより書誌学研究の貴重な資料と評価されます。"
+        },
+        {
+            "question": "どんな大きさの書物ですか？",
+            "answer": "その書物の大きさは横14.7センチ、縦27.7センチです。"
+        },
+        {
+            "question": "誰がその書物を編纂したのですか？",
+            "answer": "宝物、死に神光が編纂し、世宗の命令で輪廻、グォンジェなどが矯正して主席を付け加えたり、抜いて世宗18年(1436)に刊行されました。"
+        },
+        {
+            "question": "その書物は何によって主席を付け加えたり、抜いたのですか？",
+            "answer": "その書物は輪廻、グォンジェなどによって主席を付け加えたり、抜かれたりしました。"
+        },
+        {
+            "question": "その書物の刊行に関する記録はありますか？",
+            "answer": "その書物の刊行に関する記録はありませんが、ワンジルが伝える重刊本の巻末に''正統元年(1436)8月引き出し''という員間の記録でその年に刊行されたことを知ることができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 230,
+        "QA": 300
+    }
+}

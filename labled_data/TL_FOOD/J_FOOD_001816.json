@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001816",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2022-12-28",
+        "domain": "음식점",
+        "title": "KUTH"
+    },
+    "text": "KUTH (KUTH)\\n\n京畿道安養市万安区芸術公園路168(安養洞)1階、2階\\n\nKUTHは安養市万安区芸術公園路にあるカフェです。 バイクカフェでバイク関連の小物を展示し、関連用品を販売しています。 2階にもカフェでテラスもあります。 クロフルから果汁パンパンイチゴが噛まれる魔法のいちごラテが人気です。",
+    "QA": [
+        {
+            "question": "KUTHはどこにありますか？",
+            "answer": "KUTHは京畿道安養市万安区芸術公園路にあります。"
+        },
+        {
+            "question": "KUTHは何を展示していますか？",
+            "answer": "KUTHはバイク関連の小物を展示しています。"
+        },
+        {
+            "question": "KUTHでは何を販売していますか？",
+            "answer": "KUTHでは関連用品を販売しています。"
+        },
+        {
+            "question": "KUTHの2階には何がありますか？",
+            "answer": "KUTHの2階にもカフェとテラスがあります。"
+        },
+        {
+            "question": "KUTHで人気のドリンクは何ですか？",
+            "answer": "KUTHで人気のドリンクはクロフルから果汁パンパンイチゴが噛まれる魔法のいちごラテです。"
+        }
+    ],
+    "word_Count": {
+        "text": 114,
+        "QA": 156
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_007263",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-06",
+        "domain": "음식점",
+        "title": "サムバプエコッチダ ( 쌈밥에꽃이다 )"
+    },
+    "text": "サムバプエコッチダ ( 쌈밥에꽃이다 )\n京畿道 平沢市 チョゲトロ25ボンギル7\n15種類の包み野菜と健康に良い韓国料理が味わえる店です。京畿道のピョンテク市に位置した韓食専門店です。代表的なメニューは野菜包みご飯定食です。",
+    "QA": [
+        {
+            "question": "サムバプエコッチダはどこに位置していますか？",
+            "answer": "サムバプエコッチダは京畿道平沢市チョゲトロ25ボンギル7に位置しています。"
+        },
+        {
+            "question": "サムバプエコッチダのメニューは何ですか？",
+            "answer": "サムバプエコッチダの代表的なメニューは野菜包みご飯定食です。"
+        },
+        {
+            "question": "サムバプエコッチダは何を提供していますか？",
+            "answer": "サムバプエコッチダでは15種類の包み野菜と健康に良い韓国料理が提供されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 82,
+        "QA": 124
+    }
+}

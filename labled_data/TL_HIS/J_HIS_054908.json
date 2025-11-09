@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_054908",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/view?relicId=97896",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "금속 조각"
+    },
+    "text": "金属片 (금속 조각)\\n\n原産地と製造時期：中国の元 素材：金属 分類：その他の資料 - 用途不明品 大きさ：長さ48cm、幅2cm、高さ42cm、厚さ4cm",
+    "QA": [
+        {
+            "question": "この金属片はどこで作られましたか？",
+            "answer": "この金属片は中国で作られました。"
+        },
+        {
+            "question": "この金属片はいつ作られましたか？",
+            "answer": "具体的な製造時期はわかりませんが、中国の元で作られました。"
+        },
+        {
+            "question": "この金属片は何のために使われますか？",
+            "answer": "この金属片の用途は不明です。"
+        },
+        {
+            "question": "この金属片の大きさはどれくらいですか？",
+            "answer": "この金属片の大きさは長さ48cm、幅2cm、高さ42cm、厚さ4cmです。"
+        }
+    ],
+    "word_Count": {
+        "text": 58,
+        "QA": 121
+    }
+}

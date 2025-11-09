@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_013403",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-10-08",
+        "domain": "음식점",
+        "title": "ヘンボクハンコンイヤギ ( 행복한콩이야기 )"
+    },
+    "text": "ヘンボクハンコンイヤギ ( 행복한콩이야기 )\\n\nソウル特別市 鐘路区 水標路 89-11\\n\n鐘路の会社員たちが訪れる隠れた名店です。おすすめは豆もやしクッパです。ソウル特別市のジョンノ区に位置した韓国料理店です。",
+    "QA": [
+        {
+            "question": "このお店の場所はどこですか？",
+            "answer": "このお店はソウル特別市鐘路区水標路89-11に位置しています。"
+        },
+        {
+            "question": "このお店の名物料理は何ですか？",
+            "answer": "このお店のおすすめは豆もやしクッパです。"
+        },
+        {
+            "question": "このお店はどんな人におすすめですか？",
+            "answer": "このお店は鐘路の会社員たちが訪れる隠れた名店です。"
+        }
+    ],
+    "word_Count": {
+        "text": 79,
+        "QA": 90
+    }
+}

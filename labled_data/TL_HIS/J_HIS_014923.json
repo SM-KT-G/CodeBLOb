@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_014923",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=937&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=24&ccbaAsno=01340000&ccbaCtcd=37&ccbaCpno=2443701340000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2005-11-20",
+        "domain": "문화/역사관광",
+        "title": "예천 삼강주막"
+    },
+    "text": "醴泉三強酒幕 (예천 삼강주막)\\n\n慶尚北道醴泉郡豊陽面三江里キル27\\n\n慶尚北道民俗文化財 , 三江酒幕は三江渡し場の外出客に飢えを免れ、行商人たちの宿食所として、時には詩人墨客の有償所として利用された建物だ。 1900年頃に建てられたこの酒幕は規模は小さいが、その機能に忠実な集約的平面構成の特徴を示しており、建築歴史資料として希少価値が大きいだけでなく、昔の時代像を読める地域の歴史と文化的意義を秘めている。",
+    "QA": [
+        {
+            "question": "この醴泉三強酒幕はどこにありますか？",
+            "answer": "醴泉三強酒幕は慶尚北道醴泉郡豊陽面三江里に位置しています。"
+        },
+        {
+            "question": "何のために三江酒幕が建てられましたか？",
+            "answer": "三江酒幕は外出客や行商人の宿食所として利用されたほか、詩人墨客の有償所としても使用されました。"
+        },
+        {
+            "question": "三江酒幕はいつ建てられましたか？",
+            "answer": "この酒幕は1900年頃に建てられました。"
+        },
+        {
+            "question": "三江酒幕の建築様式はどのような特徴がありますか？",
+            "answer": "三江酒幕は規模は小さいですが、集約的な平面構成の特徴を持っています。"
+        },
+        {
+            "question": "三江酒幕はどのような歴史的・文化的意義を持っていますか？",
+            "answer": "三江酒幕は建築歴史資料としての希少価値があり、地域の歴史と文化的意義を秘めています。"
+        }
+    ],
+    "word_Count": {
+        "text": 153,
+        "QA": 203
+    }
+}

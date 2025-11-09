@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_026394",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2022-11-14",
+        "domain": "음식점",
+        "title": "쇼쿠지"
+    },
+    "text": "正久寺 (쇼쿠지)\\n\n京畿道平沢市碑前9キル38(碑前洞)\\n\n京畿道平沢市に位置するのは、日本式家庭料理専門店です。この店の名前は、日本語で「食事」という意味の「ソクジ」となっています。メニューは日本式家庭料理で、家庭料理の特徴から、年齢に関係なく誰でも好むことができます。最初は松炭から始まり、現在は平沢を中心に近隣地域に9つのチェーン店、更には釜山にもチェーン店があります。",
+    "QA": [
+        {
+            "question": "正久寺はどこにありますか？",
+            "answer": "正久寺は京畿道平沢市碑前9キル38(碑前洞)に位置しています。"
+        },
+        {
+            "question": "正久寺のメニューは何ですか？",
+            "answer": "正久寺のメニューは日本式家庭料理です。"
+        },
+        {
+            "question": "正久寺は何店舗ありますか？",
+            "answer": "現在、平沢を中心に近隣地域に9つのチェーン店があり、釜山にもチェーン店があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 140,
+        "QA": 96
+    }
+}

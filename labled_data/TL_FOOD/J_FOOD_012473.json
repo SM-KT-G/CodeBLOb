@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_012473",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-05",
+        "domain": "음식점",
+        "title": "ピョンジン冷麺 ( 평진냉면 )"
+    },
+    "text": "ピョンジン冷麺 ( 평진냉면 )\\n\n江原道 ガンヌン市 ソンドクロ89\\n\n様々な麺料理が味わえる店です。代表的なメニューは水冷麺です。江原道のガンヌン市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "ピョンジン冷麺はどこにありますか？",
+            "answer": "ピョンジン冷麺は江原道ガンヌン市のソンドクロ89に位置しています。"
+        },
+        {
+            "question": "ピョンジン冷麺ではどのような麺料理が楽しめますか？",
+            "answer": "ピョンジン冷麺では様々な麺料理が楽しめますが、代表的なメニューは水冷麺です。"
+        },
+        {
+            "question": "江原道のガンヌン市にあるピョンジン冷麺は何を専門としていますか？",
+            "answer": "ピョンジン冷麺は韓食専門店です。"
+        }
+    ],
+    "word_Count": {
+        "text": 66,
+        "QA": 118
+    }
+}

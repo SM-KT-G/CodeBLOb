@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_039110",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=39&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=00990000&ccbaCtcd=34&ccbaCpno=1123400990000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1963-01-21",
+        "domain": "문화/역사관광",
+        "title": "천안 천흥사지 당간지주"
+    },
+    "text": "天安天興寺址幢竿支柱 (천안 천흥사지 당간지주)\\n\n忠清南道天安市西北区城居邑天興4ギル115-5(天興里)\\n\n高麗時代、宝物、高麗太祖4年(921)に創建された天興寺の幢竿支柱で、現在天安市天興里村の真ん中に位置している。 寺では儀式がある時に寺の入口に幢という旗を付けておくが、旗を付けておく竿を幢竿といい、この幢竿を両側から支える二つの石柱を幢竿支柱という。 東·西に立っている2つの支柱は60㎝の間隔を置いており、2段の基壇の上に建てられた。 基壇は散らばっていたものを復元したが、基壇の周囲に眼象を刻み込み、幢竿支柱の装飾化された側面を見せている。 東西支柱の間に旗竿を直接支えた支えは残っていない。 内面に彫刻がなく、上段のてっぺんの1ヶ所だけに旗竿を固定させるための四角い穴がある。 支柱の外面は上から下まで中央に1列の線を刻んだ。 地主各部の様式で統一新羅時代の形式を持っているが、退化した技法で作られ高麗時代の作品と見られる。 特に、天興寺跡から出土した天興寺銅鐘に刻まれた銘文によると、高麗顕宗元年(1010)となっており、この幢竿支柱も寺を創建しながら一緒に建てたものと見られる。",
+    "QA": [
+        {
+            "question": "この寺はいつ建てられましたか？",
+            "answer": "天興寺は高麗太祖4年(921)に創建されました。"
+        },
+        {
+            "question": "幢竿支柱はどのように使われていましたか？",
+            "answer": "幢竿支柱は寺の入口に幢という旗を付けるために使用されていました。"
+        },
+        {
+            "question": "幢竿支柱はどのような形状ですか？",
+            "answer": "幢竿支柱は東·西に立っており、2つの石柱が60㎝の間隔を置いて建てられています。"
+        },
+        {
+            "question": "幢竿支柱にはどのような装飾がありますか？",
+            "answer": "幢竿支柱の基壇周囲には眼象が刻まれ、側面には装飾が施されています。"
+        },
+        {
+            "question": "幢竿支柱はどの時代の作品ですか？",
+            "answer": "幢竿支柱は高麗時代の作品であり、高麗顕宗元年(1010)に創建された天興寺と一緒に建てられたと考えられています。"
+        }
+    ],
+    "word_Count": {
+        "text": 369,
+        "QA": 199
+    }
+}

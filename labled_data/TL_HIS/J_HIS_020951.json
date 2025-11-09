@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_020951",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=396&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=00320000&ccbaCtcd=24&ccbaCpno=2112400320000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2022-07-19",
+        "domain": "문화/역사관광",
+        "title": "삼한시귀감"
+    },
+    "text": "三韓詩亀鑑 (삼한시귀감)\\n\n光州広域市北区龍鳳路77(龍鳳洞、全南大学校)\\n\n朝鮮初期 , 光州広域市有形文化財 , 余末禅草文臣チョ·ウンフル(1332~1404)がチェ·ヘ(1288~1340)の『東人之文五七』から優れた詩を選んで編纂した詩選集であり、詩批評集だ。 上中下3冊で新羅末のチェ·チウォンから高麗忠烈王の時まで韓国の詩人45人が書いた247首が収録されている。 初刊本は現在伝えられておらず、1566年(明宗21)順天で刊行した中間本2種が高麗大学校と日本国会図書館に伝えている珍しい本だ。 全南大学校図書館所蔵本は学界に報告されていない版本で、中間本と字体は同じだが形が異なり、中間本には見えない誤字が多数見られ、中間本より進んだ版本と推定される。上下2冊に分冊されており、下冊表紙の裏に「正統拾丁丁(1447)月日順天都府」墨書があり、これまで顕伝していないと知られていた初刊本である可能性が高く注目される。",
+    "QA": [
+        {
+            "question": "この詩集はいつ編纂されましたか？",
+            "answer": "この詩集は朝鮮初期に余末禅草文臣チョ・ウンフルによって編纂されました。"
+        },
+        {
+            "question": "この詩集にはどのような詩が収録されていますか？",
+            "answer": "この詩集には新羅末から高麗忠烈王の時までの韓国の詩人45人が書いた247首の詩が収録されています。"
+        },
+        {
+            "question": "初刊本は現在どこに所蔵されていますか？",
+            "answer": "初刊本は現在は伝えられておらず、中間本2種が高麗大学校と日本国会図書館に所蔵されています。"
+        },
+        {
+            "question": "全南大学校図書館所蔵本は他の版とどのように異なっていますか？",
+            "answer": "全南大学校図書館所蔵本は学界に報告されていない版本であり、中間本と字体は同じですが形が異なり、中間本には見えない誤字が多数見られます。初刊本と推定される進んだ版本である可能性が高く注目されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 306,
+        "QA": 231
+    }
+}

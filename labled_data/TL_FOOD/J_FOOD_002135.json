@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_002135",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-01",
+        "domain": "음식점",
+        "title": "THE HALAL GUYS 梨泰院 ( 할랄가이즈 이태원 )"
+    },
+    "text": "THE HALAL GUYS 梨泰院 \nソウル特別市 龍山区 梨泰院路 187\nアメリカンハラルフードの販売店で、外国人の多い梨泰院でも評判のいい店です。 ソウル特別市のヨンサン区に位置した洋食専門店です。おすすめはサンドイッチです。",
+    "QA": [
+        {
+            "question": "ハラルガイズはどこに位置していますか？",
+            "answer": "ハラルガイズはソウル特別市のヨンサン区に位置しています。"
+        },
+        {
+            "question": "ハラルガイズでおすすめのメニューは何ですか？",
+            "answer": "ハラルガイズでおすすめのメニューはサンドイッチです。"
+        },
+        {
+            "question": "梨泰院で人気のある店としてハラルガイズは有名ですか？",
+            "answer": "はい、ハラルガイズは梨泰院でも評判のいい店として知られています。"
+        }
+    ],
+    "word_Count": {
+        "text": 85,
+        "QA": 112
+    }
+}

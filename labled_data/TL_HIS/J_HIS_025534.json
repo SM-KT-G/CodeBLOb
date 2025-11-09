@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_025534",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=877&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=01720000&ccbaCtcd=37&ccbaCpno=2333701720000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2016-03-17",
+        "domain": "문화/역사관광",
+        "title": "영주 의산서원"
+    },
+    "text": "栄州義山書院 (영주 의산서원)\\n\n慶尚北道栄州市龍州路342番キル11-20(長水面)\\n\n慶尚北道記念物 , この書院は村の士林たちが後進養成のために光海君2年(1610)に城谷2里の義山村(盆地居陵谷)行義寺跡に義山書堂を建設したことから始まる。 顕宗5年(1664)祠堂を建立し、省吾堂イ·ゲリプの位牌を奉安しながら節孝祠と呼ばれたが、粛宗5年(1679)学士キム·ウンジョを配向して書院に昇格した。 高宗の時に撤廃されたが、1970年に現在の位置に復元し、絶孝寺を景徳祠に変えた。書院は養卒堂·義山書堂·内三門·舎堂が一直線上に配置されており、各建物は少しずつ離れて座っている。 義山書院は楊州郷村社会を率いた公論を生産する儒生たちの根拠地となり、多数の過去の及第者を輩出した重要な教育機関であり、現在も郷士の伝統が維持されている。",
+    "QA": [
+        {
+            "question": "栄州義山書院はいつ建設されましたか？",
+            "answer": "栄州義山書院は光海君2年(1610)に建設されました。"
+        },
+        {
+            "question": "栄州義山書院はどのような目的で建設されましたか？",
+            "answer": "栄州義山書院は後進養成のために建設されました。"
+        },
+        {
+            "question": "栄州義山書院はどのような建物がありますか？",
+            "answer": "栄州義山書院には養卒堂・義山書堂・内三門・舎堂があります。"
+        },
+        {
+            "question": "栄州義山書院はどのような教育機関ですか？",
+            "answer": "栄州義山書院は楊州郷村社会を率いた儒生たちの根拠地であり、重要な教育機関です。"
+        },
+        {
+            "question": "栄州義山書院は現在も何の伝統を維持していますか？",
+            "answer": "栄州義山書院は現在も郷士の伝統を維持しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 272,
+        "QA": 182
+    }
+}

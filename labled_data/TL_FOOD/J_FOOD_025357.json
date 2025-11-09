@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_025357",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/gin-ja-bundang-seohyeon-branch",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "銀座"
+    },
+    "text": "銀座\\n\n京畿道 城南市 盆唐区 セマウル路75 )\\n\n城南市盆唐栗洞公園近くにある「銀座」では東海から直送される新鮮な食材で作られる活魚の刺身をはじめとした、さまざまな料理を楽しめます。",
+    "QA": [
+        {
+            "question": "場所はどこですか？",
+            "answer": "銀座は京畿道城南市盆唐区にあります。"
+        },
+        {
+            "question": "どのような料理が楽しめますか？",
+            "answer": "銀座では新鮮な食材を使用して様々な料理が楽しめます。特に活魚の刺身がおすすめです。"
+        },
+        {
+            "question": "どのような特徴的なメニューがありますか？",
+            "answer": "銀座の特徴的なメニューは活魚の刺身です。東海から直送される新鮮な魚を使用しています。"
+        },
+        {
+            "question": "近くにどんな観光スポットがありますか？",
+            "answer": "銀座の近くには盆唐洞公園があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 69,
+        "QA": 133
+    }
+}

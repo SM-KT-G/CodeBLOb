@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_023600",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1220&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=79&ccbaAsno=03600000&ccbaCtcd=36&ccbaCpno=4413603600000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2007-11-22",
+        "domain": "문화/역사관광",
+        "title": "신안 증도 태평염전"
+    },
+    "text": "新安 曽島 テピョンヨムジョン (신안 증도 태평염전)\\n\n全羅南道新安郡甑島面甑洞里1931番地以外\\n\n1953年 , 国家登録文化財 , この塩田は朝鮮戦争以後、避難民救済と国内塩生産増大を目的に建設された。 田曽島と厚曽島を堤防で連結し、その間に干潟に造成した国内最大の単一塩田で、東西方向に長い長方形の1工区が北側に、2工区が南側に、南北方向に3工区が造成されている。 塩田領域には木造塩倉庫、石造塩倉庫、塩釜寺、銭湯などの建築物があり、自然生態の干潟、貯水池とともに天恵の美しい景色を成している。",
+    "QA": [
+        {
+            "question": "この塩田はいつ建設されましたか？",
+            "answer": "1953年に建設されました。"
+        },
+        {
+            "question": "この塩田はどのような目的で建設されましたか？",
+            "answer": "避難民救済と国内塩生産増大を目的に建設されました。"
+        },
+        {
+            "question": "この塩田はどのような形状をしていますか？",
+            "answer": "田曽島と厚曽島を堤防で連結し、長方形の形状をしています。"
+        },
+        {
+            "question": "この塩田の面積はどのくらいですか？",
+            "answer": "国内最大の単一塩田であり、広大な面積を持っています。具体的な面積は不明です。"
+        },
+        {
+            "question": "この塩田にはどのような建築物がありますか？",
+            "answer": "塩倉庫、塩釜寺、銭湯などの建築物があります。"
+        },
+        {
+            "question": "この塩田の周辺にはどのような自然景観がありますか？",
+            "answer": "干潟や貯水池など、自然生態の美しい景観があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 187,
+        "QA": 200
+    }
+}

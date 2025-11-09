@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_020600",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=436&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=00790000&ccbaCtcd=22&ccbaCpno=2112200790000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2017-01-31",
+        "domain": "문화/역사관광",
+        "title": "삼국사기"
+    },
+    "text": "三国史記 (삼국사기)\\n\n大邱広域市達西区達区伐大路1095(新堂洞、啓明大学校)東山図書館\\n\n大邱広域市有形文化財 , この本は高麗の仁宗の命でキム·ブシクなどが編纂した高句麗·百済·新羅三国の歴史書で、1711年に粛宗が息子として後に英祖となる延英君(1694-1776)に下賜した内賜記があり、明確な刊行年度が分かる。 朝鮮時代に5回あった三国史記刊行のうち、最後にあった18世紀の顕宗実録者(1677年『顕宗実録』を引き出すために作った同活字)として刊行した本で、伝来本が比較的多いが英祖が所蔵する書冊だったということに重要な学術的意義がある。",
+    "QA": [
+        {
+            "question": "この本は誰が編纂しましたか？",
+            "answer": "この本は高麗の仁宗の命でキム・ブシクなどが編纂しました。"
+        },
+        {
+            "question": "この本はいつ刊行されましたか？",
+            "answer": "この本は1711年に粛宗が延英君に下賜した内賜記として刊行されました。"
+        },
+        {
+            "question": "朝鮮時代に何回三国史記が刊行されましたか？",
+            "answer": "朝鮮時代には合計5回三国史記が刊行されました。"
+        },
+        {
+            "question": "この本は誰が所蔵していましたか？",
+            "answer": "この本は英祖が所蔵していました。"
+        },
+        {
+            "question": "この本は何の歴史書ですか？",
+            "answer": "この本は高句麗・百済・新羅三国の歴史書です。"
+        }
+    ],
+    "word_Count": {
+        "text": 203,
+        "QA": 148
+    }
+}

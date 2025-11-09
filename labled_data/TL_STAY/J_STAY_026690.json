@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_026690",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42090&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "제주 파도소리펜션(자전거,낚시대 무료대여,해돋이명소)"
+    },
+    "text": "済州パドソリペンションは下道海水浴場と城山日出峰の近くに位置しています。 ペンションの隣には有名なムンジュラン自生地であるウサギ島があります。 すべての客室は海に囲まれており、素晴らしい雰囲気をお届けしています。 波音ペンションで家族や恋人と一緒にバルコニーから海や牛島を眺めながら、済州旅行の珍味を楽しめます。 22時以降に入室される場合は、予めペンションにご連絡ください。",
+    "QA": [
+        {
+            "question": "パドソリペンションはどこに位置していますか？",
+            "answer": "パドソリペンションは下道海水浴場と城山日出峰の近くに位置しています。"
+        },
+        {
+            "question": "パドソリペンションの隣には何がありますか？",
+            "answer": "パドソリペンションの隣にはウサギ島があります。"
+        },
+        {
+            "question": "客室はどのような雰囲気ですか？",
+            "answer": "すべての客室は海に囲まれており、素晴らしい雰囲気をお届けしています。"
+        },
+        {
+            "question": "波音ペンションで何を楽しむことができますか？",
+            "answer": "波音ペンションで家族や恋人と一緒にバルコニーから海や牛島を眺めながら、済州旅行の珍味を楽しむことができます。"
+        },
+        {
+            "question": "22時以降に入室する場合はどうすれば良いですか？",
+            "answer": "22時以降に入室される場合は、予めペンションにご連絡ください。"
+        }
+    ],
+    "word_Count": {
+        "text": 137,
+        "QA": 205
+    }
+}

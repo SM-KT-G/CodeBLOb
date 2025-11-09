@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_037209",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=723&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=22&ccbaAsno=00160000&ccbaCtcd=23&ccbaCpno=2222300160000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "인천근해 도서지방 상여소리"
+    },
+    "text": "仁川近海島嶼地方喪輿ソリ (인천근해 도서지방 상여소리)\\n\n仁川広域市無形文化財、我が民族は古くから冠婚葬祭の4大儀礼を最も貴重なものと考え実行してきた。 そのうち、喪礼の手続きは全国的に似ているが、地方によって変形され、多少異なる形に変わったことが見られる。仁川近海の島嶼地方は地勢が均一でないだけでなく、京畿道、黄海道と隣接しており、生活手段も漁業につながっており、喪輿ソリも京畿道、黄海道の民謡と舟歌の影響を多く受けている。喪輿の音は初婚および運柩、行商、山オルムと一本橋越え、痰の音とフェダジの音、告別の音で構成される。",
+    "QA": [
+        {
+            "question": "喪輿ソリはどのような儀礼の一部ですか？",
+            "answer": "喪輿ソリは冠婚葬祭の4大儀礼のうちの一つで、喪礼の手続きに関連しています。"
+        },
+        {
+            "question": "仁川近海の島嶼地方で喪輿ソリの音はどのように構成されていますか？",
+            "answer": "喪輿ソリの音は初婚および運柩、行商、山オルムと一本橋越え、痰の音とフェダジの音、告別の音で構成されています。"
+        },
+        {
+            "question": "喪輿ソリはどの地方の影響を受けていますか？",
+            "answer": "仁川近海の島嶼地方の喪輿ソリは京畿道、黄海道の民謡と舟歌の影響を多く受けています。"
+        },
+        {
+            "question": "喪輿ソリはどのような生活手段につながっていますか？",
+            "answer": "仁川近海の島嶼地方の生活手段は漁業につながっており、喪輿ソリもそれに関連しています。"
+        },
+        {
+            "question": "喪輿ソリは仁川近海の島嶼地方でのみ見られるものですか？",
+            "answer": "喪輿ソリは全国的に似た形式がありますが、仁川近海の島嶼地方では地域に特有の変形や異なる形式が見られます。"
+        }
+    ],
+    "word_Count": {
+        "text": 195,
+        "QA": 256
+    }
+}

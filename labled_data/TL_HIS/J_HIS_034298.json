@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_034298",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=592&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=03160000&ccbaCtcd=38&ccbaCpno=2113803160000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1997-01-30",
+        "domain": "문화/역사관광",
+        "title": "함양 벽송사 벽송당 지엄 진영"
+    },
+    "text": "咸陽碧松寺碧松堂之厳陣営 (함양 벽송사 벽송당 지엄 진영 )\\n\n慶尚南道咸陽郡\\n\n慶尚南道有形文化財 , 朝鮮中宗の僧侶である智厳(1464~1534)の肖像画である。 智厳は朝鮮仏教の正統法脈を受け継いだ方で、堂号が碧松で属性は宋氏だ。 肖像画は絹地に彩色して描き、横85cm、縦134cmの大きさだ。 やや右を向いて椅子に座っている全身像で、僧服に赤い袈裟をかけ、左手には先に酒を垂らした仏の字を握っており、右手は楽に椅子の肘掛けに乗せた。 光海君9年(1617)、王の命により仁悟僧侶が描いた5大寺の肖像画の一つで、三和像(慶尚南道有形文化財第277号)と似た技法を見せている。 5大寺は碧溪正心·碧松池岩·芙蓉塩館·清虚休亭·富休·紅角燈渓である。 絵にある記録は壊れていないが、画幅の上部にある休廷大師の詩はよく保存されている。",
+    "QA": [
+        {
+            "question": "碧松堂はどのような建物ですか？",
+            "answer": "碧松堂は咸陽碧松寺にある建物で、朝鮮中宗の僧侶である智厳の肖像画が保管されています。"
+        },
+        {
+            "question": "智厳僧侶はどのような人物ですか？",
+            "answer": "智厳僧侶は朝鮮仏教の正統法脈を受け継いだ方で、碧松寺の住職でした。"
+        },
+        {
+            "question": "智厳僧侶の肖像画はどのように描かれていますか？",
+            "answer": "智厳僧侶の肖像画は絹地に彩色して描かれており、横85cm、縦134cmの大きさで、やや右を向いて椅子に座っています。"
+        },
+        {
+            "question": "智厳僧侶の肖像画にはどんな特徴がありますか？",
+            "answer": "智厳僧侶の肖像画では、僧服に赤い袈裟をかけ、左手には仏の字を握っています。右手は楽に椅子の肘掛けに乗せられています。"
+        },
+        {
+            "question": "智厳僧侶の肖像画はどの時代に描かれましたか？",
+            "answer": "智厳僧侶の肖像画は光海君9年(1617)に王の命により仁悟僧侶によって描かれました。"
+        }
+    ],
+    "word_Count": {
+        "text": 273,
+        "QA": 242
+    }
+}

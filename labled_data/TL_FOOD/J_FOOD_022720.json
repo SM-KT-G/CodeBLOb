@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_022720",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-05",
+        "domain": "음식점",
+        "title": "雪岳どじょうスープ ( 설악추어탕 )"
+    },
+    "text": "雪岳どじょうスープ ( 설악추어탕 )\\n\n慶尚北道 アンドン市 グァンソク1ギル8\\n\n韓国式の魚スープ料理が味わえる店です。おすすめはどじょうスープです。慶尚北道のアンドン市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "この店の名前は何ですか？",
+            "answer": "雪岳どじょうスープ ( 설악추어탕 ) です。"
+        },
+        {
+            "question": "どの地域に位置していますか？",
+            "answer": "慶尚北道のアンドン市に位置しています。"
+        },
+        {
+            "question": "この店ではどのような料理が味わえますか？",
+            "answer": "韓国式の魚スープ料理が味わえます。特におすすめはどじょうスープです。"
+        },
+        {
+            "question": "どのような店ですか？",
+            "answer": "韓食専門店です。"
+        }
+    ],
+    "word_Count": {
+        "text": 74,
+        "QA": 102
+    }
+}

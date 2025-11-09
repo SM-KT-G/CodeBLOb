@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001656",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-06",
+        "domain": "음식점",
+        "title": "FATUM（파툼）"
+    },
+    "text": "FATUM（파툼）\\n\nソウル特別市 鐘路区 三清路86-5\\n\n三清洞にある「FATUM」は見晴らしがよいことで評判のカフェです。1階は自然の岩、2階はゆったりとした椅子、3・4階は室内からの眺め、5階は室外からの眺めが楽しめ、各階ごとに変わったインテリアがおしゃれなお店です。北岳山と仁王山、景福宮などが一望できる場所にあり、季節ごとに違った自然風景を観賞することができます。特に日没の景色は幻想的です。",
+    "QA": [
+        {
+            "question": "FATUM（파툼）はどこにありますか？",
+            "answer": "FATUM（파툼）はソウル特別市 鐘路区 三清路86-5にあります。"
+        },
+        {
+            "question": "FATUM（파툼）はどのようなカフェですか？",
+            "answer": "FATUM（파툼）は見晴らしがよいことで評判のカフェで、1階は自然の岩、2階はゆったりとした椅子、3・4階は室内からの眺め、5階は室外からの眺めが楽しめます。各階ごとに変わったインテリアがおしゃれなお店です。"
+        },
+        {
+            "question": "FATUM（파툼）の周辺の景色はどのように楽しむことができますか？",
+            "answer": "FATUM（파툼）は北岳山と仁王山、景福宮などが一望できる場所にあり、季節ごとに違った自然風景を観賞することができます。特に日没の景色は幻想的です。"
+        }
+    ],
+    "word_Count": {
+        "text": 149,
+        "QA": 209
+    }
+}

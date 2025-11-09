@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_090890",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=656&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=04710000&ccbaCtcd=37&ccbaCpno=2113704710000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2013-04-08",
+        "domain": "문화/역사관광",
+        "title": "영양 삼지동 모전석탑"
+    },
+    "text": "慶尚北道に有形文化財である石塔があるが、この石塔は絶壁を成した山の中腹の岩の上に建てられたのだ。石塔はレンガの形に整えた石を積んで作られており、大きな岩を基壇と塔身を置いた形だ。元々は3階建てだが、今は2階まで残っている。ジブンドルは下記の上の階全て段をなしている。この石塔は昔に位置したヨンヒョルサに建てられたものと推定され、ヨンヒョルサは新羅の三国統一以前に設立された寺院である。1998年にこの石塔が解体され、補修作業が行われた際、石材舎利箱や道理1構図発見された。",
+    "QA": [
+        {
+            "question": "この石塔はどのような形で作られていますか？",
+            "answer": "この石塔はレンガの形に整えた石を積んで作られており、大きな岩を基壇と塔身を置いた形です。"
+        },
+        {
+            "question": "石塔の元々の階数は何階建てだったのですか？",
+            "answer": "石塔は元々3階建てでしたが、今は2階まで残っています。"
+        },
+        {
+            "question": "この石塔はどのような場所に建てられていますか？",
+            "answer": "この石塔は絶壁を成した山の中腹の岩の上に建てられています。"
+        },
+        {
+            "question": "この石塔が位置したヨンヒョルサについて教えてください。",
+            "answer": "ヨンヒョルサは新羅の三国統一以前に設立された寺院でした。"
+        },
+        {
+            "question": "この石塔が解体された際に発見されたものは何でしたか？",
+            "answer": "この石塔が解体された際、石材舎利箱や道理1構図が発見されました。"
+        }
+    ],
+    "word_Count": {
+        "text": 173,
+        "QA": 203
+    }
+}

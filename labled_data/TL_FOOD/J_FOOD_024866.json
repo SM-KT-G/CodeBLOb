@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_024866",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-06",
+        "domain": "음식점",
+        "title": "龍頭洞チュクミ  ( 용두동쭈꾸미 )"
+    },
+    "text": "龍頭洞チュクミ  ( 용두동쭈꾸미 )\\n\nソウル特別市 東大門区 ムハクロ36ギル10\\n\n韓国のグルメ番組でよく紹介される店です。おすすめはイイダコ焼きです。ソウル特別市のドンデムン区に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "ソウル特別市 東大門区 ムハクロ36ギル10に位置しています。"
+        },
+        {
+            "question": "この店は何を特におすすめですか？",
+            "answer": "イイダコ焼きがおすすめです。"
+        },
+        {
+            "question": "この店はどのような料理を提供していますか？",
+            "answer": "韓食を専門としており、様々な料理を提供しています。"
+        },
+        {
+            "question": "この店はどのような雰囲気ですか？",
+            "answer": "韓国のグルメ番組でよく紹介される店で、活気のある雰囲気があります。"
+        },
+        {
+            "question": "この店の営業時間は何時から何時までですか？",
+            "answer": "営業時間は店舗によって異なりますので、事前に確認することをおすすめします。"
+        }
+    ],
+    "word_Count": {
+        "text": 78,
+        "QA": 166
+    }
+}

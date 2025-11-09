@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_000977",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2019-03-20",
+        "domain": "문화/역사관광",
+        "title": "GOEUN MUSEUM OF PHOTOGRAPHY（고은사진미술관）"
+    },
+    "text": "GOEUN MUSEUM OF PHOTOGRAPHY\n釜山広域市 海雲台区 海雲台路452番キル16 （佑洞）\nコウン文化財団が運営する「GOEUN MUSEUM OF PHOTOGRAPHY（コウン写真美術館）」とコウンコンテンポラリー写真美術館は、釜山海雲台を素材にした地方初の写真専門美術館です。写真アーカイブを構築するとともに内外のレベルの高い写真作品展示を企画し、独創的で未来指向的な新進作家を発掘・支援しています。また、写真文化の大衆化のために出版事業や教育および学術セミナーなど、さまざまな活動を繰り広げることで地域の開かれた文化芸術空間としての役割を担っています。",
+    "QA": [
+        {
+            "question": "GOEUN MUSEUM OF PHOTOGRAPHYの所在地はどこですか？",
+            "answer": "GOEUN MUSEUM OF PHOTOGRAPHYの所在地は釜山広域市海雲台区海雲台路452番キル16です。"
+        },
+        {
+            "question": "GOEUN MUSEUM OF PHOTOGRAPHYは何を展示していますか？",
+            "answer": "GOEUN MUSEUM OF PHOTOGRAPHYは内外のレベルの高い写真作品を展示しています。"
+        },
+        {
+            "question": "GOEUN MUSEUM OF PHOTOGRAPHYではどのような活動を行っていますか？",
+            "answer": "GOEUN MUSEUM OF PHOTOGRAPHYでは写真アーカイブの構築や新進作家の発掘・支援、出版事業や教育および学術セミナーなど、さまざまな活動を行っています。"
+        },
+        {
+            "question": "GOEUN MUSEUM OF PHOTOGRAPHYはどのような役割を担っていますか？",
+            "answer": "GOEUN MUSEUM OF PHOTOGRAPHYは地域の開かれた文化芸術空間としての役割を担っています。"
+        }
+    ],
+    "word_Count": {
+        "text": 213,
+        "QA": 302
+    }
+}

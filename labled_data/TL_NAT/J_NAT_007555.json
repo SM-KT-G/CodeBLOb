@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_007555",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-07-21",
+        "domain": "자연관광",
+        "title": "道洞湧水公園（도동약수공원）"
+    },
+    "text": "道洞湧水公園（도동약수공원）\\n\n慶尚北道 鬱陵郡 鬱陵邑 道洞里\\n\n道洞湧水は土類炭酸鉄泉であり、マグネシウム、塩素、炭酸イオンなどの成分が含まれ、貧血、生理障害、リュウマチ性疾患、湿疹など皮膚病に効果があることで知られています。",
+    "QA": [
+        {
+            "question": "道洞湧水公園はどこにありますか？",
+            "answer": "道洞湧水公園は慶尚北道鬱陵郡鬱陵邑道洞里にあります。"
+        },
+        {
+            "question": "道洞湧水はどのような成分が含まれていますか？",
+            "answer": "道洞湧水はマグネシウム、塩素、炭酸イオンなどの成分が含まれています。"
+        },
+        {
+            "question": "道洞湧水はどのような効果がありますか？",
+            "answer": "道洞湧水は貧血、生理障害、リュウマチ性疾患、湿疹など皮膚病に効果があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 85,
+        "QA": 113
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_035136",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1072&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=01660000&ccbaCtcd=34&ccbaCpno=3413401660000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1984-05-17",
+        "domain": "문화/역사관광",
+        "title": "홍주성수성비"
+    },
+    "text": "紅柱性水性比 (홍주성수성비)\\n\n忠清南道洪城郡\\n\n1824年 , 忠清南道文化財資料 , 洪州城を建て直し、これを記念するために建てられた碑だ。 洪州は西海に向かう街角で交通の中心であり、忠清西部地域の軍事的要衝地になるところだ。 洪州城は朝鮮時代、文宗1年(1451)地方行政区域を改編しながら積み上げたところで、ミン·ジョンシク、イ·セヨン、チェ·グァンムク、アン·ビョンチャンなどが日帝によって強制的に締結された乙巳條約に反対して義兵を起こし、ここに来て城に留まっていた日本軍を徳山に追い出して城を取り戻した戦闘で有名だ。 碑文には純祖24年(1824)、真将キム·ゲムクと牧師イ·ヒョンギュがこの城を振り返り城が荒廃した姿に嘆息し修理することになったという内容が書かれている。",
+    "QA": [
+        {
+            "question": "この碑はいつ建てられましたか？",
+            "answer": "1824年に建てられました。"
+        },
+        {
+            "question": "この碑はどこにありますか？",
+            "answer": "この碑は忠清南道洪城郡にあります。"
+        },
+        {
+            "question": "なぜこの碑が建てられたのですか？",
+            "answer": "この碑は洪州城を建て直し、それを記念するために建てられました。"
+        },
+        {
+            "question": "洪州城はどのような役割を果たしていましたか？",
+            "answer": "洪州城は交通の中心であり、忠清西部地域の軍事的要衝地でした。"
+        },
+        {
+            "question": "洪州城の歴史的な出来事について教えてください。",
+            "answer": "洪州城は乙巳條約に反対して義兵を起こし、日本軍を徳山に追い出して城を取り戻した戦闘で有名です。"
+        },
+        {
+            "question": "なぜこの碑文にはキム・ゲムクとイ・ヒョンギュの名前が書かれていますか？",
+            "answer": "この碑文には、真将キム・ゲムクと牧師イ・ヒョンギュが城の荒廃した姿を見て修理することになったという内容が書かれています。"
+        }
+    ],
+    "word_Count": {
+        "text": 253,
+        "QA": 236
+    }
+}

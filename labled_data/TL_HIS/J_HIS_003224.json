@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_003224",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1210&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=79&ccbaAsno=02380000&ccbaCtcd=11&ccbaCpno=4411102380000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2006-03-02",
+        "domain": "문화/역사관광",
+        "title": "서울 구 미국문화원"
+    },
+    "text": "ソウル区アメリカ文化院 (서울 구 미국문화원)\\n\nソウル中区乙支路23(ウルチロ1街)\\n\n1938年 , 国家登録文化財 , 1938年に三井物産株式会社京城支店の建物として新築され、1985年からは米文化院として、現在はソウル市役所乙支路別館などとして使われている。 外観上は単純で装飾のないモダニズム様式に、入口部分から2階建ての高さにフレームされた突出部装飾が特徴的な建物で歴史的、建築的価値がある。",
+    "QA": [
+        {
+            "question": "この建物は何年に建設されましたか？",
+            "answer": "この建物は1938年に建設されました。"
+        },
+        {
+            "question": "この建物は何のために使われていましたか？",
+            "answer": "この建物は三井物産株式会社京城支店の建物として使われていました。"
+        },
+        {
+            "question": "現在この建物は何として使われていますか？",
+            "answer": "現在、この建物はソウル市役所乙支路別館などとして使われています。"
+        },
+        {
+            "question": "この建物の外観はどのような特徴がありますか？",
+            "answer": "この建物の外観は単純で装飾のないモダニズム様式に、入口部分から2階建ての高さにフレームされた突出部装飾が特徴的です。"
+        },
+        {
+            "question": "この建物には歴史的、建築的な価値がありますか？",
+            "answer": "はい、この建物には歴史的、建築的な価値があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 151,
+        "QA": 196
+    }
+}

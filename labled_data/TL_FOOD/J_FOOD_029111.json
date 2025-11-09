@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_029111",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-01",
+        "domain": "음식점",
+        "title": "韓牛停 ( 하누정 )"
+    },
+    "text": "韓牛停 ( 하누정 )\\n\n全羅南道 麗水市 閭門文化キル 51\\n\n新鮮な肉とボリューム満点のランチセットメニューが味わえる店です。おすすめはサムギョプサルです。全羅南道のヨス市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "この店は全羅南道の麗水市の閭門文化キル51に位置しています。"
+        },
+        {
+            "question": "この店では何が味わえますか？",
+            "answer": "この店では新鮮な肉とボリューム満点のランチセットメニューが味わえます。特におすすめはサムギョプサルです。"
+        },
+        {
+            "question": "この店はどのような料理を提供していますか？",
+            "answer": "この店は韓食専門店で、サムギョプサルをはじめとするさまざまな韓国料理を提供しています。"
+        },
+        {
+            "question": "この店のおすすめメニューは何ですか？",
+            "answer": "この店のおすすめメニューはサムギョプサルです。新鮮な肉を楽しめる人気の一品です。"
+        }
+    ],
+    "word_Count": {
+        "text": 75,
+        "QA": 169
+    }
+}

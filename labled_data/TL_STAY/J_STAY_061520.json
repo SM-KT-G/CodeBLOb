@@ -1,0 +1,51 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_061520",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://kr.hotels.com/ho881330592/seutella-hoseutel-seoul-hangug/?chkin=2023-11-14&chkout=2023-11-15&x_pwa=1&rfrr=HSR&pwa_ts=1698918454170&referrerUrl=aHR0cHM6Ly9rci5ob3RlbHMuY29tL0hvdGVsLVNlYXJjaA%3D%3D&useRewards=false&rm1=a2&regionId=6342989&destination=%EA%B4%91%EC%A3%BC%2C+%EA%B2%BD%EA%B8%B0%2C+%ED%95%9C%EA%B5%AD&destType=MARKET&neighborhoodId=553248635976380780&latLong=37.403001%2C127.301384&sort=RECOMMENDED&top_dp=85455&top_cur=KRW&userIntent=&selectedRoomType=215414330&selectedRatePlan=256060233&expediaPropertyId=27510331&searchId=784e01d8-940c-47b6-8bb8-80ac7c4ed140",
+        "collectedDate": "2023-11-15",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "스텔라 호스텔"
+    },
+    "text": "ステラホステル\\n\n大韓民国ソウル特別市ソウル特別市江南区宣陵路90キル62\\n\nステラホステルは車で5分の距離にロッテワールドおよびスターフィールドCOEXモールがあります。 アパートには簡易キッチンと洗濯機/乾燥機が備えられており、LCD TVと無料WiFiも提供されています。 宣陵駅から徒歩7分の距離にあり、三成駅からは13分の距離に位置しており、公共交通機関の利用にも便利です。 チェックインは15:00から可能で、チェックアウトは11:00です。 外出の際は、新型コロナウイルス感染症に関する制限事項をご確認ください。 フロントデスクはありませんが、到着予定時に施設にあらかじめ連絡してチェックインの指針とアクセスコードを確認し、専用の出入口をご利用ください。 付帯費用に備えたクレジットカード、デビットカード、または現金保証金が必要で、身分証明書を持参してチェックイン時に提示する必要があります。 満18歳からチェックインが可能で、ベビーベッドは提供しておりません。 ペットの同伴は不可であり、無料WiFiを利用できます。",
+    "QA": [
+        {
+            "question": "宿泊施設の名称は何ですか？",
+            "answer": "ステラホステル"
+        },
+        {
+            "question": "宿泊施設の所在地はどこですか？",
+            "answer": "大韓民国ソウル特別市ソウル特別市江南区宣陵路90キル62"
+        },
+        {
+            "question": "ロッテワールドおよびスターフィールドCOEXモールまでの距離はどのくらいですか？",
+            "answer": "車で5分の距離です。"
+        },
+        {
+            "question": "宿泊施設に備えられている設備は何ですか？",
+            "answer": "簡易キッチンと洗濯機/乾燥機が備えられており、LCD TVと無料WiFiも提供されています。"
+        },
+        {
+            "question": "最寄りの駅からの距離はどのくらいですか？",
+            "answer": "宣陵駅から徒歩7分、三成駅からは13分の距離に位置しています。"
+        },
+        {
+            "question": "チェックインおよびチェックアウトの時間は何時ですか？",
+            "answer": "チェックインは15:00から可能で、チェックアウトは11:00です。"
+        },
+        {
+            "question": "ペットを宿泊施設に同伴できますか？",
+            "answer": "ペットの同伴は不可です。"
+        }
+    ],
+    "word_Count": {
+        "text": 343,
+        "QA": 233
+    }
+}

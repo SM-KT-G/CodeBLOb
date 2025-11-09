@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_061717",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/view?relicId=89647",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "돌칼"
+    },
+    "text": "石刀 (돌칼)\\n\nこの文化の起源は韓国であり、青銅器時代に遡ります。その時代の生活具の一つであるこのアイテムは、石で作られています。この生活具は、先史時代の人々が使用していたものであり、彼らの生活や産業に密接に関連しています。その大きさは、長さ112cm、幅51cm、厚さ18cmです。",
+    "QA": [
+        {
+            "question": "この石刀は何で作られていますか？",
+            "answer": "この石刀は石で作られています。"
+        },
+        {
+            "question": "この石刀の大きさはどれくらいですか？",
+            "answer": "この石刀の大きさは長さ112cm、幅51cm、厚さ18cmです。"
+        },
+        {
+            "question": "この石刀はどの時代に使われていた道具ですか？",
+            "answer": "この石刀は青銅器時代に使用されていました。"
+        },
+        {
+            "question": "この石刀はどのように使用されていましたか？",
+            "answer": "この石刀は先史時代の人々の生活や産業に密接に関連して使用されていました。"
+        },
+        {
+            "question": "この石刀の起源はどこですか？",
+            "answer": "この石刀の起源は韓国です。"
+        }
+    ],
+    "word_Count": {
+        "text": 105,
+        "QA": 152
+    }
+}

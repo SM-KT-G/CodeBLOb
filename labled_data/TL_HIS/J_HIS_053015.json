@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_053015",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=794&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=00330000&ccbaCtcd=33&ccbaCpno=2333300330000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1980-11-13",
+        "domain": "문화/역사관광",
+        "title": "괴산 정인지 묘소"
+    },
+    "text": "忠清北道には、朝鮮時代初期の大学者であり、政治家だったハクヨクジェジョン・インジの墓がある。ジョン・インジは太宗14年に荘園に及第し、様々な官職を歴任し、多様な編纂事業に参加した。特に、集賢殿の学士として訓民正音を創製するのに大きな貢献をした。また、端宗1年にはギェユチョンラン時の世祖を手伝って1等功臣となっており、領議政にまで昇進した。彼は端宗から成宗年間には民心の鎮静に大きく寄与し、『ハクヨクジェジプ』という著書を残した。ハクヨクジェ墓域内には特別な施設はないが、墓の下に設置されたソゴチョンがある。道しるべは1958年に初めて建てられたが、文章を作った神道碑が墓近く道端に位置している。",
+    "QA": [
+        {
+            "question": "ハクヨクジェジョン・インジの墓はどこにありますか？",
+            "answer": "ハクヨクジェジョン・インジの墓は忠清北道にあります。"
+        },
+        {
+            "question": "ハクヨクジェジョン・インジは何をした人ですか？",
+            "answer": "ハクヨクジェジョン・インジは朝鮮時代初期の大学者であり、政治家でした。"
+        },
+        {
+            "question": "ハクヨクジェジョン・インジはどのような貢献をしましたか？",
+            "answer": "ハクヨクジェジョン・インジは訓民正音の創製や領議政への昇進など、多くの貢献をしました。"
+        },
+        {
+            "question": "ハクヨクジェ墓域内には何がありますか？",
+            "answer": "ハクヨクジェ墓域内には特別な施設はありませんが、ソゴチョンが設置されています。"
+        },
+        {
+            "question": "ハクヨクジェジョン・インジの著書は何ですか？",
+            "answer": "ハクヨクジェジョン・インジの著書は『ハクヨクジェジプ』です。"
+        }
+    ],
+    "word_Count": {
+        "text": 218,
+        "QA": 212
+    }
+}

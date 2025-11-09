@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_050396",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=242&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=13&ccbaAsno=01900000&ccbaCtcd=37&ccbaCpno=1333701900000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1970-02-06",
+        "domain": "문화/역사관광",
+        "title": "경주 전 민애왕릉"
+    },
+    "text": "慶州全民愛王陵\\n\n慶尚北道慶州市内南面望城里山40番地\\n\n統一新羅閔哀王、私的、新羅第44代閔哀王(838∼839)の墓と高さ3.8m、直径12.5mだ。何度も盗掘を受けたが、1984年9月に国立慶州博物館で墓と周辺を発掘調査して規模を明らかにして、現在の姿に整備した。調査結果によれば、墓の下部外側に一定の間隔の12個の穴があった。穴は、滑石で作られた12匹の動物の顔に人の姿をしている十二支神像を一つずつ埋めた。調査当時にはネズミ・牛・鶏・豚4個だけ発見された。残りは墓の外部バッチムソクが作られた時、破損され、なくなったものと推定された。墓周辺で骨壷が発見されたが、ふたに''ウォンファシプニョン(元和十年)''という文字があり、憲徳王7年(815)に作ったことを知ることができる。この骨壷は墓が作られた後に埋められたと墓は815年以前に作られたものと判断される。したがって、839年に亡くなった閔哀王とは時期的に差がある。※(チョンミンエ王陵→、慶州(キョンジュ)前ミンエの王陵)に名称変更になりました。(2011.07.28の告示)。",
+    "QA": [
+        {
+            "question": "慶州全民愛王陵はどこにありますか？",
+            "answer": "慶州全民愛王陵は慶尚北道慶州市内南面望城里山40番地にあります。"
+        },
+        {
+            "question": "誰の墓ですか？",
+            "answer": "慶州全民愛王陵は統一新羅閔哀王、私的、新羅第44代閔哀王(838∼839)の墓です。"
+        },
+        {
+            "question": "慶州全民愛王陵の大きさはどれくらいですか？",
+            "answer": "慶州全民愛王陵の高さは3.8m、直径は12.5mです。"
+        },
+        {
+            "question": "墓の周辺で何が発掘されましたか？",
+            "answer": "墓の周辺で骨壷が発掘されました。"
+        },
+        {
+            "question": "墓の周辺で発見された骨壷には何と書かれていましたか？",
+            "answer": "発見された骨壷には「ウォンファシプニョン(元和十年)」という文字が書かれていました。"
+        }
+    ],
+    "word_Count": {
+        "text": 347,
+        "QA": 180
+    }
+}

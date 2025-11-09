@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_086236",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=817&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=00580400&ccbaCtcd=50&ccbaCpno=2333900580400&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2005-10-05",
+        "domain": "문화/역사관광",
+        "title": "신도리도요지"
+    },
+    "text": "済州特別自治道には'イルゴプドゥル、黄色、カキ'とも呼ばれる遺跡がある。ここは陶器を作るところとして、我々先賢たちがホボク・トンゲ・病気・ジャンテなどの陶器を作成するために使用したところだ。有名な点は他の地域では器の表面に釉薬を塗っが、ここでは釉薬を塗らず自然的に発色させるという点だ。また、他の地域は土曜(土窯)である一方、済州島の東洋は世界で唯一のソクヨ(石窯)だ。この遺跡は、済州島の陶器文化を広める役割をしただけでなく、先賢の知恵を見ることができる場所としてよく知られている。黄色の穴窯址は土庫ソジョで築造された。火口はパンサンヒョン玄武岩3つを用いて作られ、部長の天井はブルビョクとつながるところに急な曲線を成すように造成された。これはおそらく地形的な理由と推定される。穴内部には壁と天井が争っている片隅に灰汁穴が50cm間隔に配置されている。現在残っているカキの大きさは長さ8.85m、幅2・5.7m、高さ1.56mと推定され、近代初期・中期に建てられたものと推定される。",
+    "QA": [
+        {
+            "question": "黄色の穴窯址は何で作られた？",
+            "answer": "火口はパンサンヒョン玄武岩3つを用いて作られました。"
+        },
+        {
+            "question": "穴窯址の大きさはどのくらいですか？",
+            "answer": "残っているカキの大きさは長さ8.85m、幅2・5.7m、高さ1.56mと推定されています。"
+        },
+        {
+            "question": "済州島の東洋は何で唯一なのですか？",
+            "answer": "済州島の東洋は世界で唯一のソクヨ（石窯）です。"
+        },
+        {
+            "question": "黄色の穴窯址で使用された陶器の特徴は何ですか？",
+            "answer": "他の地域では器の表面に釉薬を塗りますが、ここでは釉薬を塗らず自然的に発色させるという特徴があります。"
+        },
+        {
+            "question": "黄色の穴窯址は何の役割を果たしていますか？",
+            "answer": "この遺跡は済州島の陶器文化を広める役割を果たしています。また、先賢の知恵を見ることができる場所としてもよく知られています。"
+        }
+    ],
+    "word_Count": {
+        "text": 324,
+        "QA": 217
+    }
+}

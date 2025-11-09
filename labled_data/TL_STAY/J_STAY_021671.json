@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_021671",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-19",
+        "domain": "숙박",
+        "title": "茂朱トビスコンド（무주토비스콘도）"
+    },
+    "text": "茂朱トビスコンド\n全羅北道 茂朱郡 茂豊面 九天洞路350\n「茂朱（ムジュ）トビスコンド」は地下1階～地上4階規模で、さまざまな大きさの客室と付帯施設を備えています。周辺には多くの遺跡や観光地がある他、茂朱は南部エリアのスキーのメッカでもあります。",
+    "QA": [
+        {
+            "question": "このホテルの場所はどこですか？",
+            "answer": "茂朱（ムジュ）トビスコンドは全羅北道茂朱郡茂豊面九天洞路350に位置しています。"
+        },
+        {
+            "question": "このホテルの客室の種類は何ですか？",
+            "answer": "茂朱トビスコンドにはさまざまな大きさの客室があります。"
+        },
+        {
+            "question": "周辺には何か観光地や遺跡はありますか？",
+            "answer": "周辺には多くの遺跡や観光地があります。"
+        },
+        {
+            "question": "茂朱はどんな場所ですか？",
+            "answer": "茂朱は南部エリアのスキーのメッカでもあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 90,
+        "QA": 126
+    }
+}

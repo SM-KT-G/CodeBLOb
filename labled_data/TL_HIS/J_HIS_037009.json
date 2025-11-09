@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_037009",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=848&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=01130000&ccbaCtcd=35&ccbaCpno=2333501130000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2001-12-27",
+        "domain": "문화/역사관광",
+        "title": "익산향교의은행나무"
+    },
+    "text": "益山郷校のイチョウ (익산향교의은행나무)\\n\n全羅北道益山市金馬面\\n\n全羅北道記念物、イチョウは古生代末期に現れ、中生代半ばにかけて全盛し、現在地球上に残っている唯一の単一種だ。 このイチョウは郷校の歴史と類似していると推測されるが、樹齢は約500~600年程度と推測され、儒教教育の象徴である杏壇の意味がある。 イチョウの高さは15~16mで地上8mから4つの枝が分かれている。 幹の一部が切断された点を勘案すると、現在の状態より木の高さと枝の大きさがはるかに大きかったと推測される。",
+    "QA": [
+        {
+            "question": "このイチョウは何年ぐらい前に生えましたか？",
+            "answer": "約500〜600年前に生えたと推定されています。"
+        },
+        {
+            "question": "なぜこのイチョウは益山郷校の歴史と類似していると言われていますか？",
+            "answer": "このイチョウは儒教教育の象徴である杏壇の意味があり、益山郷校も儒教教育を行う学校であったため、その歴史と関連づけられています。"
+        },
+        {
+            "question": "このイチョウはどのくらいの高さですか？",
+            "answer": "このイチョウの高さは15〜16mです。"
+        },
+        {
+            "question": "イチョウの枝は何本ありますか？",
+            "answer": "地上8mから4本の枝が分かれています。"
+        },
+        {
+            "question": "このイチョウは以前はもっと大きかったと言われていますか？",
+            "answer": "一部が切断されたため、現在よりも以前は木の高さや枝の大きさがはるかに大きかったと推測されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 179,
+        "QA": 212
+    }
+}

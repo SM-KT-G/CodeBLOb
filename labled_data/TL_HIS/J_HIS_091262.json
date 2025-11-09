@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_091262",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=100&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=07900000&ccbaCtcd=37&ccbaCpno=1123707900000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1984-07-05",
+        "domain": "문화/역사관광",
+        "title": "영천 은해사 백흥암 극락전"
+    },
+    "text": "新羅末に建てられたベクフンアムは銀海寺に属した庵で、朝鮮明宗1年(1546)に人種のテシルを祀るため、八公山に建てられたことで知られている。ベクフンアムは大きく改築され、極楽世界を示す阿弥陀三尊仏が祀られている極楽殿がある。この建物は仁祖21年(1643)に建てられた建物で、現在までも何度も受理された。ベクフンアムの規模は表3間、側面3間であり、入母屋屋根で、八の字の形をしている。柱胃の部分には構造がさらに堅固にするため、装飾が組まれているが、これはダポ様式として知られている。内側の天井は中央を引き上げ、周辺を低く作って層を構成しており、ベクフンアムの須彌壇は彫刻が特異して優秀で、宝物の永川銀海寺ベクフンアム須彌壇の名称を受けた。",
+    "QA": [
+        {
+            "question": "ベクフンアムはどの宗派に属していますか？",
+            "answer": "銀海寺に属しています。"
+        },
+        {
+            "question": "ベクフンアムは誰を祀るために建てられましたか？",
+            "answer": "人種のテシルを祀るために建てられました。"
+        },
+        {
+            "question": "ベクフンアムの規模は何間ですか？",
+            "answer": "表3間、側面3間です。"
+        },
+        {
+            "question": "ベクフンアムの屋根の形は何ですか？",
+            "answer": "入母屋屋根で、八の字の形をしています。"
+        },
+        {
+            "question": "ベクフンアムの柱胃の部分には何が組まれていますか？",
+            "answer": "構造がさらに堅固にするため、装飾が組まれています。"
+        },
+        {
+            "question": "ベクフンアムの須彌壇はどのような特徴がありますか？",
+            "answer": "彫刻が特異して優秀で、宝物の永川銀海寺ベクフンアム須彌壇の名称を受けています。"
+        }
+    ],
+    "word_Count": {
+        "text": 233,
+        "QA": 184
+    }
+}

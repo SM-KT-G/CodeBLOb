@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_024099",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42040&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "순천 베네치아 호텔"
+    },
+    "text": "順天湾庭園博覧会場から車で10分の距離に位置する順天ホテルでは、家族連れの旅行客のための広い客室でゆったりとくつろげます。 順天駅、順天総合バスターミナルから公共交通機関で20分以内に位置するこのホテルは交通も便利です。 加えて、韓国料理の朝食を無料で提供しますので、お見逃しなく。",
+    "QA": [
+        {
+            "question": "ホテルの場所はどこですか？",
+            "answer": "順天湾庭園博覧会場から車で10分の距離に位置しています。"
+        },
+        {
+            "question": "ホテルの近くに公共交通機関はありますか？",
+            "answer": "はい、順天駅、順天総合バスターミナルがあり、公共交通機関で20分以内でアクセスできます。"
+        },
+        {
+            "question": "朝食はありますか？",
+            "answer": "はい、韓国料理の朝食を無料で提供しています。"
+        },
+        {
+            "question": "客室はどのような設備がありますか？",
+            "answer": "家族連れの旅行客のための広い客室でゆったりとくつろげます。"
+        }
+    ],
+    "word_Count": {
+        "text": 103,
+        "QA": 133
+    }
+}

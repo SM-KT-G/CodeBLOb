@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_021133",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-08-27",
+        "domain": "음식점",
+        "title": "百年土種サムゲタン ( 백년토종삼계탕 )"
+    },
+    "text": "百年土種サムゲタン ( 백년토종삼계탕 )\\n\nソウル特別市 鐘路区 北村路 41\\n\nミシュランガイドに選定された店です。ソウル特別市のジョンノ区に位置した韓国料理店です。代表的なメニューはサムゲタンです。",
+    "QA": [
+        {
+            "question": "この店はどこにありますか？",
+            "answer": "この店はソウル特別市の鐘路区北村路41に位置しています。"
+        },
+        {
+            "question": "この店はどんなメニューがありますか？",
+            "answer": "この店の代表的なメニューはサムゲタンです。"
+        },
+        {
+            "question": "この店はミシュランガイドに選定されていますか？",
+            "answer": "はい、この店はミシュランガイドに選定されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 76,
+        "QA": 93
+    }
+}

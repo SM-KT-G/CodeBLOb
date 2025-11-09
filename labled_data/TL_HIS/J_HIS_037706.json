@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_037706",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=941&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=24&ccbaAsno=01830000&ccbaCtcd=37&ccbaCpno=2443701830000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2013-04-08",
+        "domain": "문화/역사관광",
+        "title": "울릉 나리동 투막집"
+    },
+    "text": "鬱陵羅里洞トゥマクチプ (울릉 나리동 투막집)\\n\n慶尚北道鬱陵郡ナリ1ギル71-346(北面、トゥマクチプ慶北民俗資料183号)\\n\n慶尚北道民俗文化財、鬱陵島にある伝統家屋で、この家は元々あったものを取り壊し、その木材を利用して1984年に建て直したものだ。 投幕屋とも呼ばれる耳枠屋は丸太を井の字型に耳を合わせて積み上げて壁を作り、その上にノワ·グルピ·花皮などで屋根を繋いだ家を指す。 4間規模の一字型の家で、台所を中心に両側に部屋を配置した。 台所の床は軸より低くして階段を置いて上り下りさせた。防壁と外壁の間の空間である軒下の石垣は周囲をススキで囲み、前方をさらに広くして活動しやすいようにした。 屋根と外壁はススキを利用した。",
+    "QA": [
+        {
+            "question": "この建物は何年に建て直されましたか？",
+            "answer": "1984年に建て直されました。"
+        },
+        {
+            "question": "この家屋はどのような特徴がありますか？",
+            "answer": "耳枠屋とも呼ばれる投幕屋で、丸太を井の字型に積み上げて壁を作り、ススキやノワ・グルピ・花皮で屋根を繋いだ家です。"
+        },
+        {
+            "question": "この家屋はどのような間取りですか？",
+            "answer": "4間規模の一字型の家で、台所を中心に両側に部屋を配置しています。"
+        },
+        {
+            "question": "台所の床はなぜ軸より低くなっていますか？",
+            "answer": "台所の床は軸より低くして階段を置いて上り下りさせるためです。"
+        },
+        {
+            "question": "軒下の石垣はどのように活用されていますか？",
+            "answer": "軒下の石垣は周囲をススキで囲み、前方を広くして活動しやすくしています。"
+        },
+        {
+            "question": "屋根と外壁には何を利用していますか？",
+            "answer": "屋根と外壁にはススキを利用しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 235,
+        "QA": 220
+    }
+}

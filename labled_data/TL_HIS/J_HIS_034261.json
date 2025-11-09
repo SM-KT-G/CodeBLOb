@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_034261",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1108&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=02680000&ccbaCtcd=38&ccbaCpno=3413802680000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1998-11-13",
+        "domain": "문화/역사관광",
+        "title": "함양 금대암 동종"
+    },
+    "text": "咸陽金帯岩同種 (함양 금대암 동종 )\\n\n慶尚南道咸陽郡\\n\n慶尚南道文化財資料 , 朝鮮時代に作られた高さ59センチ、口の直径43センチの梵鐘だ。 鐘の上には韓国の鐘の特徴である音の響きを柔らかくしてくれるという龍筒が若干毀損されたが残っており、鐘の輪には龍頭が精巧に刻まれている。 鐘の胴体には一列の線を横に引き、7文字の仏様の言葉である法語が刻まれている。 下に四角形の遊郭には櫛目文が刻まれており、その中に遊頭を9つずつ置いた。 両手を合わせて合掌する菩薩像を4面に刻んだ。 この鐘は朝鮮英祖10年(1734)に双渓寺で製作されたという銘文が残っているが、鐘の形式から見ても典型的な朝鮮中期の鐘であることが分かる。",
+    "QA": [
+        {
+            "question": "この鐘は何時代に作られましたか？",
+            "answer": "この鐘は朝鮮時代に作られました。"
+        },
+        {
+            "question": "この鐘はどのような特徴がありますか？",
+            "answer": "この鐘の上には龍筒があり、鐘の輪には精巧に刻まれた龍頭があります。また、鐘の胴体には法語が刻まれています。"
+        },
+        {
+            "question": "この鐘はどこで製作されましたか？",
+            "answer": "この鐘は慶尚南道咸陽郡の双渓寺で製作されました。"
+        },
+        {
+            "question": "この鐘は何センチの高さですか？",
+            "answer": "この鐘の高さは59センチです。"
+        },
+        {
+            "question": "この鐘は何センチの口の直径ですか？",
+            "answer": "この鐘の口の直径は43センチです。"
+        }
+    ],
+    "word_Count": {
+        "text": 229,
+        "QA": 151
+    }
+}

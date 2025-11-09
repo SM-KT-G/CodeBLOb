@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_102522",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=146&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=12980000&ccbaCtcd=31&ccbaCpno=1123112980000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1999-12-15",
+        "domain": "문화/역사관광",
+        "title": "조영복 초상"
+    },
+    "text": "朝鮮英祖1年(1725)に描かれた、チョ・ヨンボクの肖像画がある。この肖像画は、チョ・ヨンボクが白い服を着て座っている姿と空腹を着て右を向けている姿の二つに構成されている。塗布を着た姿の肖像画は弟の趙栄祏が描いたもので、全身像で描かれており、座っている様子だ。この肖像画は縦125センチ、横76センチの大きさであり、両手が出ていたまれな朝鮮の肖像画の特徴を持っている。この肖像画は儒学者の気品と士大夫の姿が込められており、非常に価値のある絵だ。別の肖像画は空腹を羽織った姿で、縦154センチ、横79センチの大きさだ。この絵は画家、秦再奚が描いており、17世紀末期と18世紀初頭の功臣上姿を精巧に描写している。この肖像画は椅子に座って右を向けている姿で描かれた。2人の肖像画は同じ人物を描いたが、塗布を着た姿の肖像画は警鐘4年(1724)に、空腹を着た姿の肖像画は英祖1年(1725)に描いた。これは二つの絵の性格と特性を比較する良い資料となっている。",
+    "QA": [
+        {
+            "question": "チョ・ヨンボクの肖像画は何年に描かれた？",
+            "answer": "チョ・ヨンボクの肖像画は英祖1年(1725)に描かれました。"
+        },
+        {
+            "question": "チョ・ヨンボクの塗布を着た姿の肖像画を描いたのは誰ですか？",
+            "answer": "チョ・ヨンボクの塗布を着た姿の肖像画を描いたのは弟の趙栄祏です。"
+        },
+        {
+            "question": "チョ・ヨンボクの肖像画の大きさは何センチですか？",
+            "answer": "チョ・ヨンボクの塗布を着た姿の肖像画は縦125センチ、横76センチの大きさです。"
+        },
+        {
+            "question": "秦再奚によって描かれたチョ・ヨンボクの肖像画の特徴は何ですか？",
+            "answer": "秦再奚によって描かれたチョ・ヨンボクの肖像画は17世紀末期と18世紀初頭の功臣上姿を精巧に描写しています。"
+        },
+        {
+            "question": "チョ・ヨンボクの空腹を着た姿の肖像画はいつ描かれましたか？",
+            "answer": "チョ・ヨンボクの空腹を着た姿の肖像画は警鐘4年(1724)に描かれました。"
+        }
+    ],
+    "word_Count": {
+        "text": 311,
+        "QA": 238
+    }
+}

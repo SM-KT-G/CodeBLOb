@@ -1,0 +1,51 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_086757",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=409&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=00450000&ccbaCtcd=35&ccbaCpno=2113500450000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1974-09-27",
+        "domain": "문화/역사관광",
+        "title": "실상사극락전"
+    },
+    "text": "全羅北道有形文化財である実相寺は智異山(チリサン)に位置した寺で、統一新羅興徳王3年(828)にホンチョクが最初に立てたことで知られている。ホンチョクは唐から勉強を終えて帰って来て風水地理学的にここにお寺を立てなければ、韓国の精気が日本に渡ると判断して、この寺を建てたと伝えられている。極楽殿は朝鮮宣祖30年(1597)に起きた文禄・慶長の役のとき、火に乗って再び建てられており、純祖(スンジョ)31年(1831)に建てられたと記録されている。この建物は前面が3間、側面が2両で構成されており、切妻屋根の家として知られている。中央間には三つの文があって、両方の欄にはそれぞれ一つのドアがある。建物内部は床に板の間を敷いており、裏手には高い柱の間に後払い壁が設置されている。仏壇の上には阿弥陀仏が安置されている。",
+    "QA": [
+        {
+            "question": "実相寺はどこに位置していますか？",
+            "answer": "智異山(チリサン)に位置しています。"
+        },
+        {
+            "question": "実相寺を最初に建てたのは誰ですか？",
+            "answer": "統一新羅興徳王3年(828)にホンチョクが最初に建てました。"
+        },
+        {
+            "question": "なぜホンチョクは実相寺を建てることになったのですか？",
+            "answer": "風水地理学的にここにお寺を建てなければ、韓国の精気が日本に渡ると判断して、この寺を建てたと伝えられています。"
+        },
+        {
+            "question": "極楽殿はいつ再建されましたか？",
+            "answer": "朝鮮宣祖30年(1597)に起きた文禄・慶長の役のとき、火に乗って再び建てられました。"
+        },
+        {
+            "question": "極楽殿はどのような構造をしていますか？",
+            "answer": "前面が3間、側面が2両で構成されており、切妻屋根の家として知られています。"
+        },
+        {
+            "question": "実相寺の建物内部はどのようになっていますか？",
+            "answer": "床に板の間を敷いており、裏手には高い柱の間に後払い壁が設置されています。"
+        },
+        {
+            "question": "仏壇の上には何が安置されていますか？",
+            "answer": "仏壇の上には阿弥陀仏が安置されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 260,
+        "QA": 272
+    }
+}

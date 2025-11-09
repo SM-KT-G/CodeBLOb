@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_006783",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://apis.data.go.kr/1400000/service/cultureInfoService2/mntInfoOpenAPI2",
+        "collectedDate": "2023-11-22",
+        "publishedDate": "2020-12-01",
+        "domain": "자연관광",
+        "title": "남전산"
+    },
+    "text": "南電産 (남전산)\\n\n江原特別自治道 旌善郡花岩面乾川里\\n\n山の高さ : 948m , 南殿山の登山路は登山客が利用せず、茂みが茂っており、登山路がほとんど消えた状態だ。 頂上には以前山火事監視警戒所があり(人はいない)数多くの山を見ることができる。",
+    "QA": [
+        {
+            "question": "南電産はどこに位置していますか？",
+            "answer": "南電産は江原特別自治道旌善郡花岩面乾川里に位置しています。"
+        },
+        {
+            "question": "南殿山の高さは何メートルですか？",
+            "answer": "南殿山の高さは948メートルです。"
+        },
+        {
+            "question": "南殿山の登山路の状態はどうですか？",
+            "answer": "南殿山の登山路は登山客が利用せず、茂みが茂っており、登山路がほとんど消えた状態です。"
+        },
+        {
+            "question": "南殿山の頂上には何がありますか？",
+            "answer": "南殿山の頂上には以前山火事監視警戒所がありますが、人はいません。頂上からは数多くの山を見ることができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 93,
+        "QA": 151
+    }
+}

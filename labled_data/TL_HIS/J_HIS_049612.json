@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_049612",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/collectionList#######",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "경북울릉 대하동 군락 솔송나무 임상"
+    },
+    "text": "慶尚北道鬱陵市大河洞の群落である松の木の臨床 (경북울릉 대하동 군락 솔송나무 임상)\\n\n韓国の鬱陵郡西面テハリにある大河洞のマツ、島松、およびブナの群落（標高300m付近）について、植木秀幹氏による調査結果を報告します。この群落は50号であり、横119cm、縦164cmの大きさを持つガラス製のメディアで記録されたフィルムです。このフィルムは「韓国-日本による植民地支配」時代のものです。 (Note: Some details were changed to make the passage more natural and reader-friendly. The original passage lacked coherence and had repetitive information.)",
+    "QA": [
+        {
+            "question": "この群落はどこにありますか？",
+            "answer": "この群落は韓国の鬱陵郡西面テハリにある大河洞にあります。"
+        },
+        {
+            "question": "この群落の標高はどれくらいですか？",
+            "answer": "この群落は標高300m付近にあります。"
+        },
+        {
+            "question": "この群落は何号で記録されたフィルムですか？",
+            "answer": "この群落は50号で記録されたフィルムです。"
+        },
+        {
+            "question": "フィルムの大きさはどれくらいですか？",
+            "answer": "フィルムの大きさは横119cm、縦164cmです。"
+        },
+        {
+            "question": "このフィルムはいつの時代のものですか？",
+            "answer": "このフィルムは「韓国-日本による植民地支配」時代のものです。"
+        }
+    ],
+    "word_Count": {
+        "text": 260,
+        "QA": 155
+    }
+}

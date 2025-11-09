@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_018899",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/daegwanwon",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "大観園"
+    },
+    "text": "大観園\\n\n済州特別自治道 済州市 新大路13キル3\\n\n「大観園（テグァンウォン）」は、2代にわたって約50年営業している中華料理専門店で、本場中国・台湾の観光客も多く利用するお店です。",
+    "QA": [
+        {
+            "question": "大観園はどのようなお店ですか？",
+            "answer": "大観園は中華料理専門店で、本場中国・台湾の観光客も多く利用するお店です。"
+        },
+        {
+            "question": "大観園の場所はどこですか？",
+            "answer": "大観園は済州特別自治道済州市新大路13キル3にあります。"
+        },
+        {
+            "question": "大観園は何年間営業していますか？",
+            "answer": "大観園は約50年間営業しています。"
+        },
+        {
+            "question": "どのような顧客が大観園を利用していますか？",
+            "answer": "大観園は本場中国・台湾の観光客も多く利用しています。"
+        },
+        {
+            "question": "大観園ではどのような料理が提供されていますか？",
+            "answer": "大観園では中華料理が提供されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 68,
+        "QA": 156
+    }
+}

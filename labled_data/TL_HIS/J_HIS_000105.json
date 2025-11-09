@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_000105",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101971",
+        "collectedDate": "2023-09-07",
+        "publishedDate": "2021-07-01",
+        "domain": "문화/역사관광",
+        "title": "「公山城」 公山亭"
+    },
+    "text": "「公山城」 公山亭\n公山亭   公山亭（コンサンジョン）は公山城の西北の山の背にある楼閣です。ここからは、悠々と流れる錦江（クムガン）や錦江橋など、公州の全景が一望できます。なかでもここから眺める錦江の夕日と夜景は格別の美しさを誇ります。  維新台、展望台などと呼ばれてきましたが、2009年に市民公募により公山亭と名づけられました。",
+    "QA": [
+        {
+            "question": "公山亭はどこにありますか？",
+            "answer": "公山亭は公山城の西北の山の背にあります。"
+        },
+        {
+            "question": "公山亭から何が一望できますか？",
+            "answer": "公山亭からは錦江や錦江橋など、公州の全景が一望できます。"
+        },
+        {
+            "question": "公山亭からの夕日と夜景はどうですか？",
+            "answer": "公山亭から眺める錦江の夕日と夜景は格別の美しさを誇ります。"
+        }
+    ],
+    "word_Count": {
+        "text": 122,
+        "QA": 90
+    }
+}

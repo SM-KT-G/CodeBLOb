@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_019840",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-02-02",
+        "domain": "음식점",
+        "title": "斗佳軒（두가헌）"
+    },
+    "text": "斗佳軒（두가헌）\\n\nソウル特別市 鐘路区 三清路14\\n\n三清洞通りの入り口に位置するワインレストラン「斗佳軒（トゥガホン）」は、ギャラリー現代の裏にある新しい文化空間です。古さと洗練された現代文化とが共存するこの店では「Wine  & Art」をコンセプトとしており、伝統家屋の空間の中で美術文化とワインが味わえます。「斗佳軒」とは「とても美しい家」という意味で、その名の通り、店は1910年代の伝統的な家屋で趣があります。旧韓末のロシア式のレンガ造りの建物「Gallery  Do Ga Hun」では、国内外のさまざまな格調高い美術作品が展示されています。",
+    "QA": [
+        {
+            "question": "斗佳軒（トゥガホン）はどこに位置していますか？",
+            "answer": "斗佳軒（トゥガホン）はソウル特別市鐘路区三清路14に位置しています。"
+        },
+        {
+            "question": "斗佳軒のコンセプトは何ですか？",
+            "answer": "斗佳軒のコンセプトは「Wine & Art」です。"
+        },
+        {
+            "question": "斗佳軒では何が味わえますか？",
+            "answer": "斗佳軒では美術文化とワインが味わえます。"
+        },
+        {
+            "question": "斗佳軒の建物の特徴はなんですか？",
+            "answer": "斗佳軒の建物は1910年代の伝統的な家屋で、ロシア式のレンガ造りです。"
+        },
+        {
+            "question": "Gallery Do Ga Hunでは何が展示されていますか？",
+            "answer": "Gallery Do Ga Hunでは国内外のさまざまな格調高い美術作品が展示されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 206,
+        "QA": 189
+    }
+}

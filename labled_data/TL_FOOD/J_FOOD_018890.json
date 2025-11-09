@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_018890",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "大関嶺ガーデン ( 대관령가든 )"
+    },
+    "text": "大関嶺ガーデン ( 대관령가든 )\\n\n江原道 平昌郡 大関嶺面 京江路 5087\\n\n観光地へのアクセスが便利なお店です。 代表的なメニューは干しスケトウダラの寄せ鍋です。江原道のピョンチャン郡に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "大関嶺ガーデンはどこに位置していますか？",
+            "answer": "大関嶺ガーデンは江原道平昌郡大関嶺面京江路5087に位置しています。"
+        },
+        {
+            "question": "大関嶺ガーデンの代表的なメニューは何ですか？",
+            "answer": "大関嶺ガーデンの代表的なメニューは干しスケトウダラの寄せ鍋です。"
+        },
+        {
+            "question": "大関嶺ガーデンへのアクセスは便利ですか？",
+            "answer": "はい、大関嶺ガーデンへのアクセスは観光地へのアクセスが便利なお店です。"
+        }
+    ],
+    "word_Count": {
+        "text": 81,
+        "QA": 119
+    }
+}

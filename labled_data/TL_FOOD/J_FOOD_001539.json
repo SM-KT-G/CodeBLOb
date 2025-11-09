@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001539",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "CAFE COIN (카페코인)"
+    },
+    "text": "CAFE COIN (카페코인)\\n\nソウル特別市 中区 明洞6キル 10\\n\n韓国の人気ドラマにも登場したカフェです。ソウル特別市のに位置したカフェ（コーヒーショップ）です。代表的なメニューはティラミスです。",
+    "QA": [
+        {
+            "question": "カフェコインはどこに位置していますか？",
+            "answer": "カフェコインはソウル特別市中区明洞6キル10に位置しています。"
+        },
+        {
+            "question": "カフェコインの代表的なメニューは何ですか？",
+            "answer": "カフェコインの代表的なメニューはティラミスです。"
+        },
+        {
+            "question": "カフェコインはどのようなドラマに登場しましたか？",
+            "answer": "カフェコインは韓国の人気ドラマにも登場しました。"
+        }
+    ],
+    "word_Count": {
+        "text": 77,
+        "QA": 104
+    }
+}

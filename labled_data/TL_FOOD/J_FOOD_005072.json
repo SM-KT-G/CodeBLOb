@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_005072",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101933",
+        "collectedDate": "2023-10-06",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "김말이튀김"
+    },
+    "text": "キンマリ・ティギム \\n\nキンマリ・ティギムはいろいろな材料を海苔で巻いて油で練って揚げた料理である。 主に春雨を海苔で巻いて揚げ、タレと添えて食べることもある。 一般的に屋台や軽食店で食べることができる。 韓国のありふれたおやつだ。\\n\n",
+    "QA": [
+        {
+            "question": "キンマリ・ティギムとはどんな料理ですか？",
+            "answer": "キンマリ・ティギムはいろいろな材料を海苔で巻いて油で練って揚げた料理です。"
+        },
+        {
+            "question": "キンマリ・ティギムはどこで食べることができますか？",
+            "answer": "一般的には屋台や軽食店で食べることができます。"
+        },
+        {
+            "question": "キンマリ・ティギムにはどんな材料が使われますか？",
+            "answer": "キンマリ・ティギムには春雨が使われることがあります。海苔で巻いて揚げられ、タレと添えて食べることもあります。"
+        },
+        {
+            "question": "キンマリ・ティギムは韓国のどんな料理ですか？",
+            "answer": "キンマリ・ティギムは韓国のありふれたおやつの一つです。"
+        }
+    ],
+    "word_Count": {
+        "text": 88,
+        "QA": 170
+    }
+}

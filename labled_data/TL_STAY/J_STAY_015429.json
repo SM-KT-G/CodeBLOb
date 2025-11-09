@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_015429",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42020&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "양산(배내골) 배컴펜션"
+    },
+    "text": "バッカムペンションへようこそ。 自然と共にするヒーリング旅行に出かけてください！ ベッカムペンションは、澄んだ空気と青い森を存分に満喫できるベネコルに位置しています。 家族や恋人と一緒に美しい思い出を作ってみましょう。 このペンションは常にリラックスできるように最善を尽くします。 そしてお知らせでお知らせしますが、22時以降に入室される場合は予めご連絡をお願いします。 .",
+    "QA": [
+        {
+            "question": "ベッカムペンションはどこに位置していますか？",
+            "answer": "ベッカムペンションはベネコルに位置しています。"
+        },
+        {
+            "question": "ベッカムペンションの周辺にはどんな自然がありますか？",
+            "answer": "ベッカムペンションの周辺には澄んだ空気と青い森があります。"
+        },
+        {
+            "question": "ベッカムペンションではどんな思い出を作ることができますか？",
+            "answer": "ベッカムペンションでは家族や恋人と一緒に美しい思い出を作ることができます。"
+        },
+        {
+            "question": "ベッカムペンションはいつもリラックスできますか？",
+            "answer": "ベッカムペンションは常にリラックスできるように最善を尽くします。"
+        },
+        {
+            "question": "ベッカムペンションへ22時以降に入室する場合はどうすればいいですか？",
+            "answer": "ベッカムペンションへ22時以降に入室される場合は予めご連絡をお願いします。"
+        }
+    ],
+    "word_Count": {
+        "text": 137,
+        "QA": 214
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001991",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2020-12-19",
+        "domain": "음식점",
+        "title": "Paul&Paulina 弘大( 폴앤폴리나 홍대 )"
+    },
+    "text": "Paul&Paulina 弘大( 폴앤폴리나 홍대 )\\n\nソウル特別市 麻浦区 ワウサンロ23ギル9\\n\nヨーロッパ式の発酵パンが味わえるベーカリーカフェです。おすすめはパンです。ソウル特別市のマポ区に位置したカフェ（コーヒーショップ）です。",
+    "QA": [
+        {
+            "question": "ポールアンドポリーナ 弘大はどこにありますか？",
+            "answer": "ポールアンドポリーナ 弘大はソウル特別市の麻浦区ワウサンロ23ギル9にあります。"
+        },
+        {
+            "question": "ポールアンドポリーナ 弘大で味わえるものは何ですか？",
+            "answer": "ポールアンドポリーナ 弘大ではヨーロッパ式の発酵パンが味わえます。"
+        },
+        {
+            "question": "ポールアンドポリーナ 弘大はどんな種類のお店ですか？",
+            "answer": "ポールアンドポリーナ 弘大はベーカリーカフェです。"
+        }
+    ],
+    "word_Count": {
+        "text": 89,
+        "QA": 126
+    }
+}

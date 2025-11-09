@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_006731",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=779&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=00200000&ccbaCtcd=23&ccbaCpno=2332300200000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1995-03-02",
+        "domain": "문화/역사관광",
+        "title": "강화전성"
+    },
+    "text": "江華殿城 (강화전성)\\n\n仁川江華郡仏恩面梧頭里563番地\\n\n仁川広域市記念物 , 江華殿城は高麗高宗が1232年モンゴルの侵入で江華島に遷都した後、海岸防御のために赤北敦大路から草芝鎮まで約23kmにわたって築いた江華外城の一部区間を朝鮮英祖の時にレンガで積み上げた城だ。 江華外城は朝鮮光海君の時から粛宗の代まで数回補修した。 特に英祖の時には江華留守キム·シヒョクの建議により1742年(英祖18)から1744年(英祖20)まで梧斗高台周辺の外城を改築しながらレンガを利用して積み上げた。 この城を江華殿城という。 現在、梧頭高台周辺には当時積み上げた全盛の跡が確認でき、梧頭高台南側の一部区間は現代に復元されたりもした。 江華全城は水原華城(史跡第3号)とともに全築城研究に貴重な資料を提供している。",
+    "QA": [
+        {
+            "question": "江華殿城は何時期に築かれましたか？",
+            "answer": "江華殿城は高麗高宗が1232年に江華島に遷都した後に築かれました。"
+        },
+        {
+            "question": "江華殿城はどのような目的で築かれましたか？",
+            "answer": "江華殿城は海岸防御のために築かれました。"
+        },
+        {
+            "question": "江華殿城の全長は何キロメートルですか？",
+            "answer": "江華殿城は約23キロメートルの範囲にわたって築かれました。"
+        },
+        {
+            "question": "江華殿城がレンガで積み上げられたのはいつですか？",
+            "answer": "江華殿城は朝鮮英祖の時に1742年から1744年までの間にレンガで積み上げられました。"
+        },
+        {
+            "question": "江華殿城はどのような修復が行われましたか？",
+            "answer": "江華殿城は朝鮮光海君の時から粛宗の代まで数回修復されました。特に英祖の時には梧斗高台周辺の外城を改築しながらレンガを利用して積み上げました。"
+        }
+    ],
+    "word_Count": {
+        "text": 261,
+        "QA": 217
+    }
+}

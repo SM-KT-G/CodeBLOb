@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_019231",
+        "source": "도서",
+        "writer": "박정배",
+        "ISBN_ISNN": "978-89-9882-225-5",
+        "version": "초판",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "푸드 인 더 시티",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2016-09-29",
+        "domain": "음식점",
+        "title": "컴포즈커피 명지국제신도시점"
+    },
+    "text": "大容量の高品質コーヒーコンポズコーヒー明知国際新都市店は、月曜日から金曜日までは07:00から22:30まで運営しており、週末は07:00から23:00まで運営しています。 メニューにはアメリカーノHOT & ICE D] TAKE OUTがあり、価格は1,500ウォンです。",
+    "QA": [
+        {
+            "question": "営業時間は何時から何時までですか？",
+            "answer": "月曜日から金曜日は07:00から22:30まで、週末は07:00から23:00まで営業しています。"
+        },
+        {
+            "question": "コーヒーの種類は何ですか？",
+            "answer": "アメリカーノHOT & ICE D] TAKE OUTがあります。"
+        },
+        {
+            "question": "アメリカーノHOT & ICE D] TAKE OUTの価格はいくらですか？",
+            "answer": "価格は1,500ウォンです。"
+        }
+    ],
+    "word_Count": {
+        "text": 101,
+        "QA": 120
+    }
+}

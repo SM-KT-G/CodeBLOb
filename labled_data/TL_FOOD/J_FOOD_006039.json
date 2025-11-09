@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_006039",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-08-31",
+        "domain": "음식점",
+        "title": "ゴレのスプ（고래의숲）"
+    },
+    "text": "ゴレのスプ（고래의숲）\\n\nソウル特別市 鐘路区 東崇キル 136\\n\n韓国式洋食レストランです。代表的なメニューは手作りロースカツです。この店はソウル特別市のテハンノに位置した韓国式洋食屋です。",
+    "QA": [
+        {
+            "question": "このレストランの場所はどこですか？",
+            "answer": "ソウル特別市 鐘路区 東崇キル 136にあります。"
+        },
+        {
+            "question": "このレストランの代表的なメニューは何ですか？",
+            "answer": "手作りロースカツが代表的なメニューです。"
+        },
+        {
+            "question": "このレストランはどのようなタイプの洋食店ですか？",
+            "answer": "韓国式洋食屋です。"
+        }
+    ],
+    "word_Count": {
+        "text": 71,
+        "QA": 85
+    }
+}

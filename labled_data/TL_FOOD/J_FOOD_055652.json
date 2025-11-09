@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_055652",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "ワントル ( 원뜰 )"
+    },
+    "text": "ワントル \n忠清北道 堤川市 錦城面 国師峰路26キル 18\n薬草や韓方薬を使用した料理を提供する店で、3年以上熟成させた味噌やコチュジャンも使用しています。 忠淸北道のジェチョン市に位置した韓食専門店です。おすすめは薬菜定食です。",
+    "QA": [
+        {
+            "question": "この店ではどのような料理が提供されていますか？",
+            "answer": "この店では、薬草や韓方薬を使用した料理が提供されています。特に、3年以上熟成させた味噌やコチュジャンも使用されています。"
+        },
+        {
+            "question": "おすすめのメニューは何ですか？",
+            "answer": "おすすめは薬菜定食です。"
+        },
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "この店は、忠清北道のジェチョン市に位置しています。具体的な住所は錦城面国師峰路26キル 18です。"
+        }
+    ],
+    "word_Count": {
+        "text": 85,
+        "QA": 126
+    }
+}

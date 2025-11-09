@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_036884",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=584&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=03010000&ccbaCtcd=37&ccbaCpno=2113703010000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1997-12-19",
+        "domain": "문화/역사관광",
+        "title": "의성석탑리방단형적석탑"
+    },
+    "text": "義城石塔里方壇形積石塔 (의성석탑리방단형적석탑)\\n\n慶尚北道義城郡安平面石塔1ギル141-14(石塔里)\\n\n慶尚北道有形文化財、不規則な形の自然石を積んで作った高麗時代の石塔だ。 塔に関する記録はもちろん、周辺に関する記録も伝えていない。 塔は建物跡ほど広く低い段を設け、その上に階段状の段を作った。 1、2段にわたって4面に木塔のように紺室を掘って仏像を祀っている。 現在、上部が崩れ、元々何階だったのか分からず、基壇と塔身の区分も曖昧な独特な形式の塔だ。",
+    "QA": [
+        {
+            "question": "この石塔は何時代に作られましたか？",
+            "answer": "この石塔は高麗時代に作られました。"
+        },
+        {
+            "question": "この石塔はどのような形をしていますか？",
+            "answer": "この石塔は不規則な形をしています。"
+        },
+        {
+            "question": "この石塔には何階建ての塔でしたか？",
+            "answer": "現在は崩れているため、元々何階だったのか分かりません。"
+        },
+        {
+            "question": "この石塔には何が祀られていましたか？",
+            "answer": "この石塔の1、2段には木塔のように紺室を掘って仏像が祀られていました。"
+        },
+        {
+            "question": "この石塔はどのような記録が残っていますか？",
+            "answer": "この石塔に関する記録は残っていません。"
+        }
+    ],
+    "word_Count": {
+        "text": 170,
+        "QA": 151
+    }
+}

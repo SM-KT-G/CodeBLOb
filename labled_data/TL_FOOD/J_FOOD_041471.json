@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_041471",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2023-02-07",
+        "domain": "음식점",
+        "title": "HDD피자"
+    },
+    "text": "ソウル地下鉄2号線聖水駅の4番出口、京東中学校の近くに位置するHDDピザは別途駐車場は設けられておりません。 ここはこじんまりとした大きさの店で、赤レンガ造りの建物の1階に位置しており、Pepperoni(熟成ペペロニピザ)、Cheese(チーズピザ)、Truffle Potato(トリュフポテトピザ)、Hot chicken(ホットチキンピザ)など、様々なピザや飲み物、ビールをご提供しております。 このピザ売り場はボリュームたっぷりのトッピングで有名です。 店舗の近くにはソウルの森があり、気軽に散歩を楽しむことができ、聖水洞カフェ通り、聖水洞靴テーマ公園、トゥクソム遊園地など様々な観光地とも連携して訪れることができます。 ペット同伴で訪問することができます。",
+    "QA": [
+        {
+            "question": "HDDピザはどんな種類のピザを提供していますか？",
+            "answer": "HDDピザではPepperoni(熟成ペペロニピザ)、Cheese(チーズピザ)、Truffle Potato(トリュフポテトピザ)、Hot chicken(ホットチキンピザ)など、様々な種類のピザを提供しています。"
+        },
+        {
+            "question": "HDDピザの店舗はどのような場所にありますか？",
+            "answer": "HDDピザはソウル地下鉄2号線聖水駅の4番出口、京東中学校の近くに位置しています。"
+        },
+        {
+            "question": "HDDピザの特徴は何ですか？",
+            "answer": "HDDピザはボリュームたっぷりのトッピングが特徴です。"
+        },
+        {
+            "question": "HDDピザの近くにはどんな観光地がありますか？",
+            "answer": "HDDピザの近くにはソウルの森、聖水洞カフェ通り、聖水洞靴テーマ公園、トゥクソム遊園地など様々な観光地があります。"
+        },
+        {
+            "question": "HDDピザにはペットを連れて行くことができますか？",
+            "answer": "はい、HDDピザではペット同伴での訪問も可能です。"
+        }
+    ],
+    "word_Count": {
+        "text": 244,
+        "QA": 269
+    }
+}

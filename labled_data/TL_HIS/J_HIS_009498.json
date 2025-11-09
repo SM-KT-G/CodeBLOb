@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_009498",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1194&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=79&ccbaAsno=00340000&ccbaCtcd=36&ccbaCpno=4413600340000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2002-05-31",
+        "domain": "문화/역사관광",
+        "title": "구 나주경찰서"
+    },
+    "text": "旧羅州警察署 (구 나주경찰서)\\n\n全羅南道羅州市南古門路65(金城洞)\\n\n1910 , 国家登録文化財 , 1910年建設、この建物は日本が主権を奪った1910年に日本が建てた官公庁建物だ。 赤レンガを積んで作った2階建てで、窓や出入口など建物の外観上重要な部分に白いペンキを塗っており、垂直性を強調した単純な形だ。 日帝強占期に日本が韓国国民を抑圧し民族活動家たちに残忍な拷問を行ったところで、当時日帝の蛮行を証言している。",
+    "QA": [
+        {
+            "question": "この建物はいつ建てられましたか？",
+            "answer": "この建物は1910年に建てられました。"
+        },
+        {
+            "question": "この建物はどのような形をしていますか？",
+            "answer": "この建物は赤レンガを積んで作られた2階建てで、垂直性を強調した単純な形をしています。"
+        },
+        {
+            "question": "この建物はどのような重要な部分がありますか？",
+            "answer": "この建物の外観上重要な部分には、窓や出入口などに白いペンキが塗られています。"
+        },
+        {
+            "question": "この建物の歴史的な背景について教えてください。",
+            "answer": "この建物は日本が主権を奪った1910年に日本が建てた官公庁建物です。当時の日帝強占期には日本が韓国国民を抑圧し、民族活動家たちに残忍な拷問を行った場所としても知られています。"
+        },
+        {
+            "question": "この建物は何のために使用されていましたか？",
+            "answer": "この建物は旧羅州警察署として使用されていました。"
+        }
+    ],
+    "word_Count": {
+        "text": 158,
+        "QA": 228
+    }
+}

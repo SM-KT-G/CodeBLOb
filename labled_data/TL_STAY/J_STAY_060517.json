@@ -1,0 +1,31 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_060517",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2023-06-10",
+        "domain": "숙박",
+        "title": "풍차언덕관광펜션"
+    },
+    "text": "浮気が見える丘に位置した紫色の風車の丘ペンションは柔らかな砂浜の海水浴場や浮気海上公園、海金剛(ヘグムガン)出発する遊覧船船着場が歩いて5分の距離に位置している。。",
+    "QA": [
+        {
+            "question": "このペンションはどのくらいの距離に位置していますか？",
+            "answer": "このペンションは浮気海上公園や海金剛出発する遊覧船船着場から歩いて5分の距離に位置しています。"
+        },
+        {
+            "question": "このペンション周辺にはどんな観光スポットがありますか？",
+            "answer": "このペンション周辺には柔らかな砂浜の海水浴場や浮気海上公園、海金剛出発する遊覧船船着場があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 60,
+        "QA": 109
+    }
+}

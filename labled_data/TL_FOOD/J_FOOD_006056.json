@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_006056",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-06",
+        "domain": "음식점",
+        "title": "コンイサロン ( 콩이살롱 )"
+    },
+    "text": "コンイサロン ( 콩이살롱 )\\n\n京畿道 楊州市 オクジョンドンロ7ダギル46\\n\n辛さを選んで食べられる店です。京畿道のヤンジュ市に位置した韓食専門店です。おすすめはLAカルビです。",
+    "QA": [
+        {
+            "question": "コンイサロンはどこに位置していますか？",
+            "answer": "コンイサロンは京畿道の楊州市に位置しています。"
+        },
+        {
+            "question": "コンイサロンのおすすめは何ですか？",
+            "answer": "コンイサロンのおすすめはLAカルビです。"
+        },
+        {
+            "question": "コンイサロンでは何が食べられますか？",
+            "answer": "コンイサロンでは辛さを選んで食べられます。"
+        }
+    ],
+    "word_Count": {
+        "text": 68,
+        "QA": 86
+    }
+}

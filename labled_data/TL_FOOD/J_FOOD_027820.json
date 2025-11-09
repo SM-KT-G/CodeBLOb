@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_027820",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/chodanggol-sundubu",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "草堂ゴル純豆腐"
+    },
+    "text": "草堂ゴル純豆腐\\n\n江原道 ガンヌン市 チョダンスンドゥブギル33-1\\n\n柔らかい豆腐料理が味わえる店です。おすすめは豆腐の寄せ鍋です。江原道のガンヌン市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "この店の名前は何ですか？",
+            "answer": "草堂ゴル純豆腐"
+        },
+        {
+            "question": "この店はどこにありますか？",
+            "answer": "江原道 ガンヌン市 チョダンスンドゥブギル33-1"
+        },
+        {
+            "question": "この店の特徴は何ですか？",
+            "answer": "柔らかい豆腐料理が味わえることが特徴です。"
+        },
+        {
+            "question": "おすすめの料理は何ですか？",
+            "answer": "豆腐の寄せ鍋がおすすめです。"
+        },
+        {
+            "question": "この店は何の専門店ですか？",
+            "answer": "韓食専門店です。"
+        }
+    ],
+    "word_Count": {
+        "text": 66,
+        "QA": 101
+    }
+}

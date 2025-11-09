@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_019182",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=50&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=02500000&ccbaCtcd=21&ccbaCpno=1122102500000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1963-01-21",
+        "domain": "문화/역사관광",
+        "title": "부산 범어사 삼층석탑"
+    },
+    "text": "釜山梵魚寺(プサン·ボムオサ) 三階石塔 (부산 범어사 삼층석탑)\\n\n釜山金井区梵魚寺路250、梵魚寺(青龍洞)\\n\n新羅時代後期 , 宝物 , 梵魚寺大雄殿前にある石塔で、2段の基壇の上に3層の塔身を立てた姿だ。 この塔の特徴は塔の台座の役割をする基壇で見つけることができるが、上·下層基壇の側面を柱状に飾らずに代わりに眼象を大きく彫刻したものだ。 塔身部は1階の石に比べて2階以上は急激に減っている。 平らで薄い屋根石は軒が水平になり、底面の支えが4段になっており、統一新羅後期の様式を示している。 頂上には頭飾りを支えていた四角い台石の上に宝珠(蓮のつぼみ状の飾り)が残っているだけで、他のものはなくなった。 統一新羅興徳王(在位826~836)の時に建てられた塔で、日帝時代に大きく修理する時に基壇の下の部分に石一つを添加したため基壇部が大きすぎて高い感じを与える。 下に囲まれた欄干もこの時に作られたという。",
+    "QA": [
+        {
+            "question": "この石塔はどの時代に建てられましたか？",
+            "answer": "この石塔は新羅時代後期に建てられました。"
+        },
+        {
+            "question": "この石塔はどのような特徴がありますか？",
+            "answer": "この石塔の特徴は、基壇に彫刻された眼象です。また、塔身部は上階に行くほど急激に減っている点も特徴的です。"
+        },
+        {
+            "question": "この石塔の屋根石はどのような形状ですか？",
+            "answer": "この石塔の屋根石は平らで薄く、軒が水平になっています。底面の支えは4段になっており、統一新羅後期の様式を示しています。"
+        },
+        {
+            "question": "この石塔の頂上には何が残っていますか？",
+            "answer": "この石塔の頂上には宝珠（蓮のつぼみ状の飾り）が残っています。しかし、他のものはなくなっています。"
+        },
+        {
+            "question": "この石塔はいつ修理されましたか？",
+            "answer": "この石塔は日帝時代に大きく修理されました。修理の際に基壇の下の部分に石が追加され、基壇部が大きくなりました。また、この時に囲まれた欄干も作られました。"
+        }
+    ],
+    "word_Count": {
+        "text": 301,
+        "QA": 254
+    }
+}

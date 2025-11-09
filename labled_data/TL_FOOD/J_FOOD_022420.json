@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_022420",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "三日ガーデン ( 삼일가든 )"
+    },
+    "text": "三日ガーデン ( 삼일가든 )\n慶尚北道 アンドン市 ソクジュロ207\nピリ辛な川魚メウンタン(魚の辛味スープ)が有名です。代表的なメニューはコウライケツギョスープです。慶尚北道のアンドン市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "三日ガーデンの場所はどこですか？",
+            "answer": "三日ガーデンは慶尚北道のアンドン市に位置しています。"
+        },
+        {
+            "question": "三日ガーデンで有名な料理は何ですか？",
+            "answer": "三日ガーデンではピリ辛な川魚メウンタン（魚の辛味スープ）が有名です。特にコウライケツギョスープが代表的なメニューです。"
+        },
+        {
+            "question": "三日ガーデンは何を専門としていますか？",
+            "answer": "三日ガーデンは韓食を専門としたレストランです。"
+        }
+    ],
+    "word_Count": {
+        "text": 79,
+        "QA": 118
+    }
+}

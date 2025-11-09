@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_050548",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/goods/GN0002157414?startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0%5E&npprmaxsort=min",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "강화도 풍경이그려지는집펜션"
+    },
+    "text": "こんにちは。カンファの風景が描かれる家ペンションです。 お知らせです。 夜8時以降に入室予定の場合は、ペンションまで必ず事前にご連絡ください。 入室·退室時間は、次の予約のお客様のために必ず守ってください。 ※ チェックアウトの際は必ず鍵を返却していただくか、ドアノブにかけてください。",
+    "QA": [
+        {
+            "question": "チェックインの時間は何時からですか？",
+            "answer": "チェックインの時間は午後3時からです。"
+        },
+        {
+            "question": "チェックアウトの時間は何時までですか？",
+            "answer": "チェックアウトの時間は午前11時までです。"
+        },
+        {
+            "question": "夜8時以降に入室する場合はどうすればいいですか？",
+            "answer": "夜8時以降に入室する場合は、必ず事前にご連絡をお願いします。"
+        },
+        {
+            "question": "鍵の返却方法はどうなっていますか？",
+            "answer": "チェックアウトの際には、必ず鍵を返却していただくか、ドアノブにかけてください。"
+        }
+    ],
+    "word_Count": {
+        "text": 104,
+        "QA": 137
+    }
+}

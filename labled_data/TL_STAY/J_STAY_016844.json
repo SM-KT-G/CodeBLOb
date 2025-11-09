@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_016844",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2020-04-01",
+        "domain": "숙박",
+        "title": "ホテル金烏山（호텔금오산）"
+    },
+    "text": "ホテル金烏山（호텔금오산）\n慶尚北道 亀尾市 金烏山路400 （南通洞）\n品格ある客室で快適な休息を楽しむことができる「ホテル金烏山（クモサン）／HOTEL GEUMOSAN」。\n自然のなかで休息するだけでなく、ビジネス空間として先端施設を有する多様な宴会場を取り揃え、最高の料理を味わうことはもちろん、各種集会やイベントを格調高く演出します。",
+    "QA": [
+        {
+            "question": "ホテル金烏山はどこにありますか？",
+            "answer": "ホテル金烏山は慶尚北道亀尾市金烏山路400にあります。"
+        },
+        {
+            "question": "ホテル金烏山の客室はどのような特徴がありますか？",
+            "answer": "ホテル金烏山の客室は品格があり、快適な休息を楽しむことができます。"
+        },
+        {
+            "question": "ホテル金烏山はどのような宴会場を提供していますか？",
+            "answer": "ホテル金烏山は先端施設を備えた多様な宴会場を取り揃えており、各種集会やイベントを格調高く演出できます。"
+        },
+        {
+            "question": "ホテル金烏山の料理はどうですか？",
+            "answer": "ホテル金烏山では最高の料理を味わうことができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 126,
+        "QA": 159
+    }
+}

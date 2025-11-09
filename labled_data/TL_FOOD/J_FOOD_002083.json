@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_002083",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-01",
+        "domain": "음식점",
+        "title": "SO-DAM Cafe ( 소담카페 )"
+    },
+    "text": "SO-DAM Cafe \n京畿道 平沢市 彭城邑 彭城南山5キル 33\\\n広い駐車場と屋内空間を完備しています 手ごろな価格で美味しい飲み物や広々とした空間で 家族のお集まりにも最適です。 京畿道のピョンテク市に位置したカフェです。代表的なメニューはカフェラテです。",
+    "QA": [
+        {
+            "question": "このカフェはどこにありますか？",
+            "answer": "SO-DAM Cafeは京畿道の平沢市に位置しています。"
+        },
+        {
+            "question": "SO-DAM Cafeの代表的なメニューは何ですか？",
+            "answer": "カフェラテがSO-DAM Cafeの代表的なメニューです。"
+        },
+        {
+            "question": "SO-DAM Cafeにはどんな設備がありますか？",
+            "answer": "SO-DAM Cafeには広い駐車場と屋内空間が完備されています。"
+        },
+        {
+            "question": "SO-DAM Cafeは家族のお集まりに適していますか？",
+            "answer": "はい、SO-DAM Cafeは手ごろな価格で美味しい飲み物や広々とした空間を提供しており、家族のお集まりに最適です。"
+        }
+    ],
+    "word_Count": {
+        "text": 97,
+        "QA": 177
+    }
+}

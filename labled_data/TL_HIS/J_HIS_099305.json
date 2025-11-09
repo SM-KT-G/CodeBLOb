@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_099305",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=132&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=11560000&ccbaCtcd=11&ccbaCpno=1121111560000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1993-04-27",
+        "domain": "문화/역사관광",
+        "title": "재조본 경률이상 권8"
+    },
+    "text": "再造本経律以上巻8\\n\nソウル特別市龍山区西氷庫路137(龍山洞6街、ジャン·ジャン)\\n\n宝物、この本は経と律(律)で要点を各テーマ別に選んで出場を表示して学習するのに便利につづった一種の百科事典だ。高麗高宗30年(1243)に南海の噴射大将図鑑で木版が刻まれて、高麗後期で朝鮮前期に刊行されたものとみられる。これは全体50冊のうち第8巻に該当されるが、『高麗大蔵』を製本したのだ。また、刻んだ人の名前が表示されているが、刻んだ人の腕によって精巧で稠密の違いを見せる。この本は高麗時代の大蔵経を研究する上で相互補完的な性格を有している。",
+    "QA": [
+        {
+            "question": "この本はいつ刊行されましたか？",
+            "answer": "この本は高麗後期で朝鮮前期に刊行されました。"
+        },
+        {
+            "question": "この本の製本者は誰ですか？",
+            "answer": "この本の製本者は『高麗大蔵』を製本した人です。"
+        },
+        {
+            "question": "この本の刻んだ人の名前はありますか？",
+            "answer": "はい、刻んだ人の名前が表示されています。"
+        },
+        {
+            "question": "この本の特徴は何ですか？",
+            "answer": "この本は経と律(律)で要点を各テーマ別に選んで出場を表示して学習するのに便利につづった一種の百科事典で、高麗時代の大蔵経を研究する上で相互補完的な性格を有しています。"
+        },
+        {
+            "question": "この本は何冊のうち第8巻に該当されますか？",
+            "answer": "この本は全体50冊のうち第8巻に該当されます。"
+        }
+    ],
+    "word_Count": {
+        "text": 197,
+        "QA": 183
+    }
+}

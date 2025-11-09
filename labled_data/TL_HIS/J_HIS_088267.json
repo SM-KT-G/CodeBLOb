@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_088267",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "https://www.museum.go.kr/site/main/relic/search/view?relicId=12.7958",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2023-10-11",
+        "domain": "문화/역사관광",
+        "title": "암키와"
+    },
+    "text": "平瓦 (암키와)\\n\n国籍と時代は韓国の高麗時代です。この建材の材質は土で、硬質です。分類は主生活の建築部材で、具体的には屋根材の平瓦となります。現在の大きさは、 横幅14.9cm、縦幅16.5cm、長さ23.7cmのものが一つ、 横幅21.2.0cm、縦幅27.6cm、長さ14.1cmのものが一つ、 横幅23.7cm、縦幅18.6cmのものが一つ、 幅32.0cm、長さ17.8cmのものが一つ、 幅21.4cm、長さ12.3cmのものが一つ、 長さ16.6cm、幅18.1cmのものが一つ、 長さ11.6cmのものが一つ 現在の大きさとなっています。",
+    "QA": [
+        {
+            "question": "この平瓦は何で作られていますか？",
+            "answer": "この平瓦は土で作られています。"
+        },
+        {
+            "question": "平瓦の大きさは何ですか？",
+            "answer": "平瓦の大きさは横幅14.9cm、縦幅16.5cm、長さ23.7cmなど、様々です。"
+        },
+        {
+            "question": "平瓦の用途は何ですか？",
+            "answer": "平瓦は主に屋根材として使用されます。"
+        },
+        {
+            "question": "平瓦の国籍と時代はどこですか？",
+            "answer": "平瓦の国籍と時代は韓国の高麗時代です。"
+        },
+        {
+            "question": "平瓦の材質はどのような特性がありますか？",
+            "answer": "平瓦の材質は土で、硬質です。"
+        }
+    ],
+    "word_Count": {
+        "text": 203,
+        "QA": 132
+    }
+}

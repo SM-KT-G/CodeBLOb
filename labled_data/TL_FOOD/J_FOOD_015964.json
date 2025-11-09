@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_015964",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "江門魚火刺身専門店 ( 강문어화횟집 )"
+    },
+    "text": "江門魚火刺身専門店 ( 강문어화횟집 )\n江原道 ガンヌン市 チャンヘロ348\n海を眺めながら食事ができる店です。江原道のガンヌン市に位置した韓食専門店です。おすすめは刺身の盛り合わせです。",
+    "QA": [
+        {
+            "question": "この店の名前は何ですか？",
+            "answer": "江門魚火刺身専門店（강문어화횟집）です。"
+        },
+        {
+            "question": "この店はどこにありますか？",
+            "answer": "この店は江原道のガンヌン市に位置しています。"
+        },
+        {
+            "question": "この店のおすすめメニューは何ですか？",
+            "answer": "おすすめは刺身の盛り合わせです。"
+        },
+        {
+            "question": "この店では海を眺めながら食事ができますか？",
+            "answer": "はい、この店では海を眺めながら食事ができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 69,
+        "QA": 106
+    }
+}

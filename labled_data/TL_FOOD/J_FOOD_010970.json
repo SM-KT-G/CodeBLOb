@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_010970",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-05",
+        "domain": "음식점",
+        "title": "ドンバドルソッカンムジャタン ( 돈바돌솥감자탕해장국 )"
+    },
+    "text": "ドンバドルソッカンムジャタン ( 돈바돌솥감자탕해장국 )\\n\n全羅南道 海南郡 海南邑 キョユクチョンギル5\\n\nカムジャタンは豚肉とじゃがいもで作った辛いスープ料理です。全羅南道のヘナム郡に位置した韓食専門店です。代表的なメニューはカムジャタンです。",
+    "QA": [
+        {
+            "question": "カムジャタンはどのように作られますか？",
+            "answer": "カムジャタンは豚肉とじゃがいもで作られます。"
+        },
+        {
+            "question": "ドンバドルソッカンムジャタンはどこに位置していますか？",
+            "answer": "ドンバドルソッカンムジャタンは全羅南道の海南郡に位置しています。"
+        },
+        {
+            "question": "ドンバドルソッカンムジャタンの代表的なメニューは何ですか？",
+            "answer": "ドンバドルソッカンムジャタンの代表的なメニューはカムジャタンです。"
+        }
+    ],
+    "word_Count": {
+        "text": 93,
+        "QA": 118
+    }
+}

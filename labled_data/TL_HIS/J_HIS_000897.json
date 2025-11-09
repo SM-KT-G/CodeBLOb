@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_000897",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/festival/bastille-day",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "Bastille Day"
+    },
+    "text": "Bastille Day\\n\nソウル特別市 中区 東湖路 287\\n\nFKCCIバスティーユ・デイ行事は、韓仏商工会議所の最も大きい恒例行事の1つで、2011年から毎年開催されてきました。バスティーユ・デイを祝う参加者らが集まり、楽しく愉快な雰囲気でフランス文化を楽しみます。 バスティーユ・デイは、フランス革命の発端となった事件で、フランスの平民層がバスティーユ牢獄を襲撃した革命の日。自由、平等、博愛をモットーに、フランス共和国を樹立した日として記念されています。フランスで最も大きな国典で、「La Fete Nationale」または「Le quatorze juillet」と呼ばれているバスティーユ・デイは、毎年7月14日にフランスの各地で様々なイベントや祝典が開かれる日です。",
+    "QA": [
+        {
+            "question": "イベントの名前は何ですか？",
+            "answer": "バスティーユ・デイ"
+        },
+        {
+            "question": "イベントはどこで開催されますか？",
+            "answer": "ソウル特別市中区東湖路287"
+        },
+        {
+            "question": "イベントは何年から開催されていますか？",
+            "answer": "2011年から"
+        },
+        {
+            "question": "バスティーユ・デイは何を祝う行事ですか？",
+            "answer": "フランス革命の発端となった事件"
+        },
+        {
+            "question": "バスティーユ・デイはいつ開催されますか？",
+            "answer": "毎年7月14日"
+        }
+    ],
+    "word_Count": {
+        "text": 252,
+        "QA": 102
+    }
+}

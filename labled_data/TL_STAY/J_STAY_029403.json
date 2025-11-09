@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_029403",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/lodge/rio-tourist-hotel",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "リオ観光ホテル"
+    },
+    "text": "リオ観光ホテル\\n\n京畿安山市一洞 119-2番地\\n\nリオ観光(クァングァン)ホテルは、安山の関門で、周辺に山が屏風のように広がっていて景観が良く、空気が澄んだところです。",
+    "QA": [
+        {
+            "question": "リオ観光ホテルはどこにありますか？",
+            "answer": "リオ観光ホテルは京畿安山市一洞の119-2番地にあります。"
+        },
+        {
+            "question": "周辺の景観はどうですか？",
+            "answer": "周辺には山が屏風のように広がっていて景観がとても良く、空気も澄んでいます。"
+        },
+        {
+            "question": "リオ観光ホテルの特徴は何ですか？",
+            "answer": "リオ観光ホテルの特徴は、関門の近くに位置しており、周囲の景色が素晴らしいことです。"
+        }
+    ],
+    "word_Count": {
+        "text": 63,
+        "QA": 111
+    }
+}

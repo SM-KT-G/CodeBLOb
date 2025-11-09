@@ -1,0 +1,55 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_066845",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42070&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "청주 빈센트 HOTEL 오송역점 운영 정책"
+    },
+    "text": "チェックイン時間は午後3時で、チェックアウト時間は午後12時です。 チェックインとチェックアウトのご案内が提供されます。 入室施設を利用する際の案内もあります。 また、ご予約時に特別な特典を受けることもできます。 ダイニングやカフェ施設もあり、コインランドリーにはドラム式洗濯機や乾燥機をご利用いただけます。 ホテル全体は禁煙エリアで、外部に喫煙室があります。",
+    "QA": [
+        {
+            "question": "チェックイン時間は何時ですか？",
+            "answer": "午後3時です。"
+        },
+        {
+            "question": "チェックアウト時間は何時ですか？",
+            "answer": "午後12時です。"
+        },
+        {
+            "question": "チェックアウトの際に提供されるものは何ですか？",
+            "answer": "チェックアウトのご案内が提供されます。"
+        },
+        {
+            "question": "施設利用の際の案内はありますか？",
+            "answer": "入室施設を利用する際の案内もあります。"
+        },
+        {
+            "question": "特別な特典を受けることはできますか？",
+            "answer": "ご予約時に特別な特典を受けることもできます。"
+        },
+        {
+            "question": "施設内のダイニングやカフェ施設はありますか？",
+            "answer": "ダイニングやカフェ施設もあります。"
+        },
+        {
+            "question": "コインランドリーの利用方法は？",
+            "answer": "コインランドリーにはドラム式洗濯機や乾燥機をご利用いただけます。"
+        },
+        {
+            "question": "禁煙エリアはありますか？",
+            "answer": "ホテル全体は禁煙エリアで、外部に喫煙室があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 132,
+        "QA": 209
+    }
+}

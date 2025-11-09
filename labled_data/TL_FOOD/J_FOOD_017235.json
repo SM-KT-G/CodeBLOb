@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_017235",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-05",
+        "domain": "음식점",
+        "title": "空港カルグクス ( 공항칼국수 )"
+    },
+    "text": "空港カルグクス ( 공항칼국수 )\\n\nソウル特別市 江西区 ナムブ循環道路5\\n\n金浦空港近くにある、芸能人がよく訪れるカルグクス専門店です。ソウル特別市のガンソ区に位置した韓食専門店です。おすすめはきのこカルグクスです。",
+    "QA": [
+        {
+            "question": "カルグクス専門店の場所はどこですか？",
+            "answer": "カルグクス専門店はソウル特別市江西区のナムブ循環道路5にあります。"
+        },
+        {
+            "question": "カルグクス専門店はどのような特徴がありますか？",
+            "answer": "カルグクス専門店は金浦空港の近くに位置し、芸能人がよく訪れるお店です。"
+        },
+        {
+            "question": "おすすめのメニューは何ですか？",
+            "answer": "おすすめはきのこカルグクスです。"
+        }
+    ],
+    "word_Count": {
+        "text": 82,
+        "QA": 102
+    }
+}

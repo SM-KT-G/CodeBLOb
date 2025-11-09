@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_114815",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=488&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=01490000&ccbaCtcd=33&ccbaCpno=2113301490000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1985-12-28",
+        "domain": "문화/역사관광",
+        "title": "청주 성공회 성당"
+    },
+    "text": "日本による植民地時代忠清北道有形文化財、清州市が一望できる牛岩山の麓の小さな小山に位置する聖堂で、1935年に建てられたものです。建物は低い基壇の上に礎石を置き、四角い柱を建てました。屋根は横顔が八の字型の入母屋造りで、韓国式瓦が施されています。壁体は外壁をレンガとコンクリートで、内壁は石灰で仕上げました。初期の聖公会神父の先住民化への意志がよく表れていると考えられています",
+    "QA": [
+        {
+            "question": "この聖堂はいつ建てられましたか？",
+            "answer": "1935年に建てられました。"
+        },
+        {
+            "question": "この聖堂の建築様式は何ですか？",
+            "answer": "入母屋造りで、韓国式瓦が施されています。"
+        },
+        {
+            "question": "この聖堂の壁体はどのように仕上げられていますか？",
+            "answer": "外壁はレンガとコンクリートで、内壁は石灰で仕上げられています。"
+        },
+        {
+            "question": "この聖堂はどのような場所に位置していますか？",
+            "answer": "牛岩山の麓の小さな小山に位置しています。"
+        },
+        {
+            "question": "この聖堂の建築にはどのような意図が込められていますか？",
+            "answer": "初期の聖公会神父の先住民化への意志が表れています。"
+        }
+    ],
+    "word_Count": {
+        "text": 137,
+        "QA": 156
+    }
+}

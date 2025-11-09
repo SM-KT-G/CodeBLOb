@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_007883",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "シンドリ韓牛村 ( 신도리한우촌 )"
+    },
+    "text": "シンドリ韓牛村 ( 신도리한우촌 )\\n\n忠清南道 鶏竜市 奄寺面 繁栄11キル 4-57\\n\n発酵食品を代表する名人が35年間運営してきたレストランです。 忠淸南道のギェリョン市に位置した韓食専門店です。おすすめは韓牛焼きです。",
+    "QA": [
+        {
+            "question": "このレストランの名前は何ですか？",
+            "answer": "シンドリ韓牛村 ( 신도리한우촌 ) です。"
+        },
+        {
+            "question": "このレストランはどこに位置していますか？",
+            "answer": "忠清南道 鶏竜市 奄寺面 繁栄11キル 4-57 に位置しています。"
+        },
+        {
+            "question": "このレストランのオーナーは何年間運営してきましたか？",
+            "answer": "35年間運営してきました。"
+        },
+        {
+            "question": "このレストランのおすすめ料理は何ですか？",
+            "answer": "おすすめは韓牛焼きです。"
+        },
+        {
+            "question": "このレストランはどのような特徴を持っていますか？",
+            "answer": "発酵食品を代表する名人が経営している韓食専門店です。"
+        }
+    ],
+    "word_Count": {
+        "text": 84,
+        "QA": 156
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_029306",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42010&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "하남 리버파크 호텔"
+    },
+    "text": "確認事項をお知らせします。 客室の入室基準を確認し、追加人数を含む場合は当日現地にて追加料金を決済してください。 入室の際は身分証明書を確認し、未成年者は入室が制限されますので、必ず身分証明書を持参してください。",
+    "QA": [
+        {
+            "question": "客室の入室基準は何ですか？",
+            "answer": "客室の入室基準は、チェックイン時間以降になります。追加人数を含む場合は、当日現地にて追加料金をお支払いください。"
+        },
+        {
+            "question": "未成年者の入室制限について教えてください。",
+            "answer": "未成年者の方は、身分証明書を持参していただく必要があります。身分証明書の確認が行われ、未成年者の方の入室は制限される場合がありますので、ご了承ください。"
+        }
+    ],
+    "word_Count": {
+        "text": 77,
+        "QA": 121
+    }
+}

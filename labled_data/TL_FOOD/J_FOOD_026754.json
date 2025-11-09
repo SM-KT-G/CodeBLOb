@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_026754",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "鐘路チョッパル ( 종로족빨 )"
+    },
+    "text": "鐘路チョッパル ( 종로족빨 )\\n\nソウル特別市 鐘路区 郵征局路2キル 22\\n\n鐘路の会社員たちの間で有名な会食スポットです。ソウル特別市のジョンノ区に位置した韓食専門店です。おすすめは豚足です。",
+    "QA": [
+        {
+            "question": "鐘路チョッパルはどこに位置していますか？",
+            "answer": "鐘路チョッパルはソウル特別市の鐘路区に位置しています。"
+        },
+        {
+            "question": "鐘路チョッパルは何を提供していますか？",
+            "answer": "鐘路チョッパルは韓国料理の専門店で、特に豚足がおすすめです。"
+        },
+        {
+            "question": "鐘路チョッパルは鐘路の会社員たちの間で有名ですか？",
+            "answer": "はい、鐘路チョッパルは鐘路の会社員たちの間で有名な会食スポットです。"
+        }
+    ],
+    "word_Count": {
+        "text": 74,
+        "QA": 113
+    }
+}

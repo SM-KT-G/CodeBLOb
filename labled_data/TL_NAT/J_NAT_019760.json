@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_019760",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2022-06-13",
+        "domain": "자연관광",
+        "title": "ディピラン（디피랑（DPIRANG））"
+    },
+    "text": "ディピラン（디피랑（DPIRANG））\\n\n慶尚南道 統営市 南望公園キル29\\n\nDPIRANG（ディピラン）は、南望山公園の散策路に沿って光とメディアファサードを活用した15のテーマ空間を楽しめる夜間デジタルテーマパークです。DPIRANGは既存の公園の夜の風景を変化させることで、多くの人々が訪れる夜間景観スポットとなりました。",
+    "QA": [
+        {
+            "question": "このDPIRANGはどの場所にありますか？",
+            "answer": "DPIRANG（ディピラン）は慶尚南道 統営市の南望公園キル29にあります。"
+        },
+        {
+            "question": "DPIRANGは何を楽しめる場所ですか？",
+            "answer": "DPIRANGは光とメディアファサードを活用した15のテーマ空間を楽しむことができる夜間デジタルテーマパークです。"
+        },
+        {
+            "question": "DPIRANGはどのような目的で作られましたか？",
+            "answer": "DPIRANGは既存の公園の夜の風景を変化させ、多くの人々が訪れる夜間景観スポットになることを目的として作られました。"
+        }
+    ],
+    "word_Count": {
+        "text": 122,
+        "QA": 160
+    }
+}

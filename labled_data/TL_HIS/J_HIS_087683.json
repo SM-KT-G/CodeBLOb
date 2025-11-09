@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_087683",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=499&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=01640000&ccbaCtcd=37&ccbaCpno=2113701640000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1982-12-01",
+        "domain": "문화/역사관광",
+        "title": "안동삼산정"
+    },
+    "text": "安東三山亭\\n\n慶尚北道安東市礼安面周津里948番地\\n\n慶尚北道有形文化財、朝鮮英祖26年(1750)頃にユチョンウォン(1702∼1761)が作って学問を研磨して後学を教えていた東屋だ。今はその子孫たちが先生の徳行を称え、子孫たちを教える所として使っている。ユチョンウォンは英祖(ヨンジョ)時代の文臣であり、ホンムングヮンスチャン・司諫院教理などを経て、大司諌に達した。英祖の寵愛と蔡済恭(チェ・ジェゴン)の推薦でジャンホン世子に講義したこともある。一方、地方官である時には、百姓らに善政を施し、丁若ヨン(チョン・ヤクヨン)の『牧民心書』でその治績を扱ったりした。前面3間・側面2間の規模であり、屋根の側面が八(八部)字形の入母屋造りである。",
+    "QA": [
+        {
+            "question": "この東屋を建てた人物は誰ですか？",
+            "answer": "ユチョンウォンという人物がこの東屋を建てました。"
+        },
+        {
+            "question": "この東屋は何年頃に建てられましたか？",
+            "answer": "この東屋は朝鮮英祖26年（1750年）頃に建てられました。"
+        },
+        {
+            "question": "この東屋の目的は何でしょうか？",
+            "answer": "この東屋はユチョンウォンが学問を研究し、後進を教育するための場所として使用されていました。"
+        },
+        {
+            "question": "この東屋の建築様式はどのようなものですか？",
+            "answer": "この東屋は屋根の側面が八(八部)字形の入母屋造りであり、前面3間・側面2間の規模を持っています。"
+        },
+        {
+            "question": "この東屋は現在、どのように使用されていますか？",
+            "answer": "今ではユチョンウォンの子孫たちが先生の徳行を称え、後進を教育するための場所として使用されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 236,
+        "QA": 211
+    }
+}

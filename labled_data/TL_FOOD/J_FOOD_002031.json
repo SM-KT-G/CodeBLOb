@@ -1,0 +1,31 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_002031",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "RAJMAHAL ( 라지마할 )"
+    },
+    "text": "RAJMAHAL ( 라지마할 )\\n\n済州特別自治道 済州市 新光路 43\\n\n豊富なスパイスで作ったインドの伝統料理を提供する店です。おすすめはカレーです。済州特別自治道のジェジュ市に位置した専門店です。",
+    "QA": [
+        {
+            "question": "ラジマハールはどのような料理を提供していますか？",
+            "answer": "ラジマハールは豊富なスパイスで作ったインドの伝統料理を提供しています。特におすすめはカレーです。"
+        },
+        {
+            "question": "ラジマハールはどこに位置していますか？",
+            "answer": "ラジマハールは済州特別自治道のジェジュ市の新光路43番地に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 76,
+        "QA": 93
+    }
+}

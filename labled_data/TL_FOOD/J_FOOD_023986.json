@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_023986",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-29",
+        "domain": "음식점",
+        "title": "峨嵋山（아미산）"
+    },
+    "text": "峨嵋山\\n\n釜山広域市 海雲台区 海雲台海辺路154\\n\n中国の峨嵋山に因んだ名前で、1996年1月、海雲台マリーナセンター内にオープンした中華料理店「峨嵋山（アミサン）」は、味と充実したサービスで中華料理愛好家たちに愛されており、釜山を訪れる有名人も立ち寄るお店です。",
+    "QA": [
+        {
+            "question": "峨嵋山はどこにありますか？",
+            "answer": "峨嵋山は中国の峨嵋山に因んだ名前で、釜山広域市海雲台区の海雲台海辺路154にあります。"
+        },
+        {
+            "question": "峨嵋山はいつオープンしましたか？",
+            "answer": "峨嵋山は1996年1月にオープンしました。"
+        },
+        {
+            "question": "峨嵋山はどのような特徴がありますか？",
+            "answer": "峨嵋山は味と充実したサービスで中華料理愛好家たちに愛されており、釜山を訪れる有名人も立ち寄るお店です。"
+        }
+    ],
+    "word_Count": {
+        "text": 99,
+        "QA": 118
+    }
+}

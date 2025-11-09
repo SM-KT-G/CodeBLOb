@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_020633",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42031&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "대구 동대구역 디자인 호텔 블랑"
+    },
+    "text": "大邱新川のラグジュアリーなホテルでは2019年2月にリニューアルオープンしました。 ホテルが提供するサービスの中には朝食が含まれており、月曜日から土曜日まで朝食を提供しています。 朝食は朝7時から10時まで利用でき、メニューとしてはアワビ粥、サラダ、シリアル、牛乳、ラーメン、おにぎりなどが提供されます。 また、オンシーズンや特定の日、祝日には料金が変動する場合があります。 ホテル内の客室すべてではWi-Fiを使用できます。 リニューアルされたホテルを訪問してみてください。",
+    "QA": [
+        {
+            "question": "このホテルのリニューアルはいつ行われましたか？",
+            "answer": "大邱新川のラグジュアリーなホテルは2019年2月にリニューアルオープンしました。"
+        },
+        {
+            "question": "ホテルの朝食は何時から何時まで提供されますか？",
+            "answer": "朝食は朝7時から10時まで提供されます。"
+        },
+        {
+            "question": "朝食のメニューには何が含まれていますか？",
+            "answer": "朝食のメニューにはアワビ粥、サラダ、シリアル、牛乳、ラーメン、おにぎりなどが含まれています。"
+        },
+        {
+            "question": "ホテル内の客室でWi-Fiを利用することができますか？",
+            "answer": "はい、ホテル内の客室すべてでWi-Fiを利用することができます。"
+        },
+        {
+            "question": "特定の日や祝日には料金が変動することがありますか？",
+            "answer": "はい、特定の日や祝日には料金が変動する場合があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 174,
+        "QA": 207
+    }
+}

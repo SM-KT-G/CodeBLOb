@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_037248",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=564&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=02630000&ccbaCtcd=35&ccbaCpno=2113502630000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2019-12-20",
+        "domain": "문화/역사관광",
+        "title": "완주 구룡암 사법어"
+    },
+    "text": "完州九龍庵四法語 (완주 구룡암 사법어)\\n\n全羅北道完州郡\\n\n朝鮮時代、全羅北道有形文化財、私法語言解本は1467年刊経図鑑で「完山正応禅師詩夢山法語」、「東山雄壮周松子行覚法語」、「夢山和尚詩中」、「古潭和尚法語」など高僧の法語を邦訳して初刊された。 完州九龍岩所蔵の司法語は1562年刊行された言解本で、5針船長の形で装丁されており、表紙に「法語」というタイトルが黙書されている。 九龍庵所蔵の司法語は1517年忠清道蓮山古雲寺で改版された版本を底本に復刻したものと推定され、東日本が発見されたり紹介された事実がない唯一の版本だ。",
+    "QA": [
+        {
+            "question": "九龍庵四法語はいつ初版されましたか？",
+            "answer": "九龍庵四法語は1562年に初版されました。"
+        },
+        {
+            "question": "九龍庵所蔵の司法語はどの版を底本にしていますか？",
+            "answer": "九龍庵所蔵の司法語は1517年に忠清道蓮山古雲寺で改版された版本を底本にしています。"
+        },
+        {
+            "question": "九龍庵の司法語は他の地域で発見されたり紹介されたことがありますか？",
+            "answer": "九龍庵の司法語は東日本で発見されたり紹介された事実がない唯一の版本です。"
+        }
+    ],
+    "word_Count": {
+        "text": 198,
+        "QA": 127
+    }
+}

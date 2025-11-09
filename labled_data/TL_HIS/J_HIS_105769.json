@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_105769",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/view?relicId=107050",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2023-10-11",
+        "domain": "문화/역사관광",
+        "title": "철제품"
+    },
+    "text": "鉄製品 (철제품)\\n\n,国籍/時代:'韓国 - 高麗' ,材質:'金属-鉄' ,分類:'その他の資料 - 用途不明 - 用途不明品' ,大きさ:'現在の長さ3.9cm、現在の幅11.5cm、現在の長さ3.2cm、現在の幅1.8cm、現在の長さ2.6cm、現在の幅3.8cm、現在の幅1.7cm、現在の長さ3.1cm、現時点での幅1.8cm'",
+    "QA": [
+        {
+            "question": "この鉄製品はどこの国のものですか？",
+            "answer": "この鉄製品は韓国 - 高麗のものです。"
+        },
+        {
+            "question": "この鉄製品は何時代のものですか？",
+            "answer": "この鉄製品は高麗時代のものです。"
+        },
+        {
+            "question": "この鉄製品の材質は何ですか？",
+            "answer": "この鉄製品の材質は金属-鉄です。"
+        },
+        {
+            "question": "この鉄製品はどのような分類に属していますか？",
+            "answer": "この鉄製品はその他の資料 - 用途不明 - 用途不明品に属しています。"
+        },
+        {
+            "question": "この鉄製品の大きさはどのくらいですか？",
+            "answer": "現在の長さ3.9cm、現在の幅11.5cm、現在の長さ3.2cm、現在の幅1.8cm、現在の長さ2.6cm、現在の幅3.8cm、現在の幅1.7cm、現在の長さ3.1cm、現時点での幅1.8cmです。"
+        }
+    ],
+    "word_Count": {
+        "text": 125,
+        "QA": 200
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_028633",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2022-11-28",
+        "domain": "자연관광",
+        "title": "고운골남한강갈대숲"
+    },
+    "text": "コウンゴール、南漢江の茂った葦は景観が優れ、茂った葦を背景にして写真名所として注目されている。散策路(デッキ)が整備されており、南漢江と茂った葦の見通しを眺めながら散歩が可能で、散策路周辺にトイレや小規模駐車場が整備されている。",
+    "QA": [
+        {
+            "question": "南漢江の茂った葦は何のために注目されていますか？",
+            "answer": "南漢江の茂った葦は景観が優れ、写真名所として注目されています。"
+        },
+        {
+            "question": "散策路(デッキ)では何ができますか？",
+            "answer": "散策路(デッキ)では南漢江と茂った葦の見通しを眺めながら散歩ができます。"
+        },
+        {
+            "question": "散策路周辺にはどのような施設が整備されていますか？",
+            "answer": "散策路周辺にはトイレや小規模駐車場が整備されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 83,
+        "QA": 118
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_055282",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/view?relicId=107877",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "기와 조각"
+    },
+    "text": "瓦礫片 (기와 조각)\\n\n,国籍/時代:'韓国 - 新羅' ,材質:'土 - 瓦質' ,分類:'主生活 - 建築部材 - 屋根材 - 平瓦' ,サイズ:'現在長さ112cm、現在幅75cm、現在長さ58cm、現在幅57cm'",
+    "QA": [
+        {
+            "question": "この瓦礫片は、どの時代の建築に使用されましたか？",
+            "answer": "この瓦礫片は、新羅時代の建築に使用されました。"
+        },
+        {
+            "question": "この瓦礫片は、どのような材質でできていますか？",
+            "answer": "この瓦礫片は、土でできています。"
+        },
+        {
+            "question": "この瓦礫片は、どのような分類に属していますか？",
+            "answer": "この瓦礫片は、主生活の建築部材の一部であり、屋根材の一種である平瓦に分類されます。"
+        },
+        {
+            "question": "この瓦礫片の現在のサイズはどのくらいですか？",
+            "answer": "この瓦礫片の現在の長さは112cm、現在の幅は75cm、現在の長さは58cm、現在の幅は57cmです。"
+        }
+    ],
+    "word_Count": {
+        "text": 82,
+        "QA": 163
+    }
+}

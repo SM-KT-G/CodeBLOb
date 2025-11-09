@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_019163",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "大林カルビ ( 대림갈비 )"
+    },
+    "text": "大林カルビ ( 대림갈비 )\\n\n忠清北道 堤川市 龍頭大路7アンキル 16-9\\n\n優良店に選ばれた、韓国産の韓牛と豚カルビのみを使用する堤川市のグルメスポットです。おすすめは韓牛カルビです。忠淸北道のジェチョン市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "大林カルビはどこに位置していますか？",
+            "answer": "大林カルビは忠清北道堤川市に位置しています。"
+        },
+        {
+            "question": "大林カルビの特徴的なメニューはありますか？",
+            "answer": "大林カルビでは、韓牛カルビが特におすすめです。"
+        },
+        {
+            "question": "大林カルビはどのような肉を使用していますか？",
+            "answer": "大林カルビでは、韓国産の韓牛と豚カルビのみを使用しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 88,
+        "QA": 99
+    }
+}

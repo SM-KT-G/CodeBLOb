@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_067625",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/view?relicId=76968",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "백자 명문 발"
+    },
+    "text": "白磁の銘文のある鉢 (백자 명문 발)\\n\n内側に釉薬を塗り、「川」の字を陰核した。\n国籍・時代：韓国 - 麗末鮮初、材質：陶磁器 - 白磁、分類：食生活 - 食器 - 食べ物 - 鉢、サイズ：高さ8.5cm、口径17.5cm、底の長さ7.0cm",
+    "QA": [
+        {
+            "question": "この白磁の銘文のある鉢はどこの国の作品ですか？",
+            "answer": "韓国の作品です。"
+        },
+        {
+            "question": "この鉢の時代は何ですか？",
+            "answer": "麗末鮮初の時代の作品です。"
+        },
+        {
+            "question": "この鉢はどのような材質で作られていますか？",
+            "answer": "陶磁器の白磁で作られています。"
+        },
+        {
+            "question": "この鉢はどのような分類に属していますか？",
+            "answer": "食生活の食器の一つで、食べ物を盛るための鉢です。"
+        },
+        {
+            "question": "この鉢のサイズはどれくらいですか？",
+            "answer": "高さは8.5cm、口径は17.5cm、底の長さは7.0cmです。"
+        }
+    ],
+    "word_Count": {
+        "text": 90,
+        "QA": 135
+    }
+}

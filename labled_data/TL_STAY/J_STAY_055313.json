@@ -1,0 +1,51 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_055313",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://kr.hotels.com/ho3100273376/sollago-myeongdong-hotel-aen-lejideonseu-seoul-hangug/?chkin=2023-11-14&chkout=2023-11-15&x_pwa=1&rfrr=HSR&pwa_ts=1698837961860&referrerUrl=aHR0cHM6Ly9rci5ob3RlbHMuY29tL0hvdGVsLVNlYXJjaA%3D%3D&useRewards=false&rm1=a2&regionId=6159319&destination=%EC%9D%98%EC%A0%95%EB%B6%80%2C+%EA%B2%BD%EA%B8%B0%2C+%ED%95%9C%EA%B5%AD&destType=MARKET&neighborhoodId=553248635976383325&latLong=37.736412%2C127.068388&sort=RECOMMENDED&top_dp=179618&top_cur=KRW&userIntent=&selectedRoomType=322831898&selectedRatePlan=392345212&expediaPropertyId=96852293&searchId=26666e80-3e5c-4f3a-b874-c571228c1964",
+        "collectedDate": "2023-11-15",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "솔라고 명동 호텔 앤 레지던스"
+    },
+    "text": "ソラゴ明洞ホテルアンドレジデンス\\n\n大韓民国ソウル特別市ソウル特別市中区忠武路2ギル9\\n\nソラゴ明洞ホテルアンドレジデンスは明洞通りおよび南大門市場と東大門歴史文化公園、光化門に近い位置にあります。 公共交通機関も忠武路駅から徒歩3分、乙支路3街駅からは6分と便利です。 ホテルは14階建てで450室の客室を保有しています。 チェックインは15:00から始まり、03:00まで利用可能で、チェックアウトは正午に行われます。 新型コロナウイルス感染症に関する制限事項を確認する必要があり、到着時にフロントデスクのスタッフが手伝ってくれます。 チェックインの際には付帯費用に備えてクレジットカード、デビットカードまたは現金で保証金を納付しなければならず、政府発行身分証に写真が貼られていなければなりません。 満19歳からチェックインが可能で、ペットは同伴できません。 駐車スペースは施設内にはなく、禁煙施設です。",
+    "QA": [
+        {
+            "question": "ホテルの場所はどこですか？",
+            "answer": "ソラゴ明洞ホテルアンドレジデンスは大韓民国ソウル特別市中区忠武路2ギル9に位置しています。"
+        },
+        {
+            "question": "ホテルの近くにどんな観光スポットがありますか？",
+            "answer": "ホテルは明洞通りおよび南大門市場と東大門歴史文化公園、光化門に近い位置にあります。"
+        },
+        {
+            "question": "ホテルの客室数はいくつですか？",
+            "answer": "ホテルは14階建てで450室の客室を保有しています。"
+        },
+        {
+            "question": "チェックインとチェックアウトの時間は何時ですか？",
+            "answer": "チェックインは15:00から始まり、03:00まで利用可能で、チェックアウトは正午に行われます。"
+        },
+        {
+            "question": "ホテルの駐車場はありますか？",
+            "answer": "駐車スペースは施設内にはなく、駐車場は提供されていません。"
+        },
+        {
+            "question": "ペットを連れて行けますか？",
+            "answer": "ペットは同伴できません。"
+        },
+        {
+            "question": "ホテルは禁煙ですか？",
+            "answer": "はい、ホテルは禁煙施設です。"
+        }
+    ],
+    "word_Count": {
+        "text": 297,
+        "QA": 239
+    }
+}

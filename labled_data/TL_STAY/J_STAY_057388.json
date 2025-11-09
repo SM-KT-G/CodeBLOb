@@ -1,0 +1,51 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_057388",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.booking.com/hotel/kr/westernbaymarina.ko.html",
+        "collectedDate": "2023-11-17",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "웨스턴 베이 마리나 호텔"
+    },
+    "text": "ウエスタンベイマリーナホテルは平沢に位置しており、無料Wi-Fiと無料駐車場を提供しています。 宿所は華城から47km離れており、Hwaseong Memorial Park、Geumsansa、Soonchunhyang Universityからそれぞれ約30kmの距離に位置しています。 ファミリールームがあるこのホテルの客室は、クローゼットと薄型テレビを備えています。 エアコンと専用バスルームがそれぞれの客室に備えられています。 Dangjin City Hallはホテルから32km離れており、Hwaseong City Hallは36km離れています。 最寄りの空港は金浦国際空港に70km離れています。 ホテルは平沢の中心部から8km離れており、チェックインは15:00から可能で、チェックアウトは11:00までです。",
+    "QA": [
+        {
+            "question": "ウエスタンベイマリーナホテルはどこに位置していますか？",
+            "answer": "ウエスタンベイマリーナホテルは平沢に位置しています。"
+        },
+        {
+            "question": "ウエスタンベイマリーナホテルは何のサービスを提供していますか？",
+            "answer": "ウエスタンベイマリーナホテルは無料Wi-Fiと無料駐車場を提供しています。"
+        },
+        {
+            "question": "ウエスタンベイマリーナホテルはどの観光地に近いですか？",
+            "answer": "ウエスタンベイマリーナホテルは華城、Hwaseong Memorial Park、Geumsansa、Soonchunhyang Universityからそれぞれ約30kmの距離に位置しています。"
+        },
+        {
+            "question": "ウエスタンベイマリーナホテルの客室にはどのような設備がありますか？",
+            "answer": "ウエスタンベイマリーナホテルの客室にはクローゼットと薄型テレビがあります。エアコンと専用バスルームも完備されています。"
+        },
+        {
+            "question": "ウエスタンベイマリーナホテルから最も近い市役所はどこですか？",
+            "answer": "ウエスタンベイマリーナホテルから32km離れた場所にDangjin City Hallがあります。"
+        },
+        {
+            "question": "ウエスタンベイマリーナホテルから最も近い空港はどこですか？",
+            "answer": "ウエスタンベイマリーナホテルから最寄りの空港は金浦国際空港で、約70km離れています。"
+        },
+        {
+            "question": "ウエスタンベイマリーナホテルのチェックインとチェックアウトの時間は何時ですか？",
+            "answer": "ウエスタンベイマリーナホテルのチェックインは15:00から可能で、チェックアウトは11:00までです。"
+        }
+    ],
+    "word_Count": {
+        "text": 268,
+        "QA": 424
+    }
+}

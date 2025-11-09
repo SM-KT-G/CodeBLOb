@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_004733",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42030&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "성주 그린나래펜션"
+    },
+    "text": "こんにちは。星州グリーンナレペンションです。 遠いところに来てくださったお客様に少しでも多く休めるように配慮したいのですが、不如意でいつも残念な気持ちです。 次のお客様を迎える時間のために必要な時間ですので、ご了承ください。 22時以降に入室される場合、ペンションまで予めご連絡ください。 入室の際は従量制封入をお願いします。 (未持参の場合、ペンション内の売店でご購入いただけます。)。",
+    "QA": [
+        {
+            "question": "星州グリーンナレペンションとはどのような場所ですか？",
+            "answer": "星州グリーンナレペンションは、お客様がゆっくり休むための宿泊施設です。お客様の快適な滞在をサポートするために、配慮しています。"
+        },
+        {
+            "question": "22時以降に入室する場合はどうすればいいですか？",
+            "answer": "22時以降に入室される場合は、予めペンションまでご連絡ください。お客様のために必要な準備をいたします。"
+        },
+        {
+            "question": "入室の際に従量制封入をする必要がありますか？",
+            "answer": "はい、入室の際には従量制封入をお願いしております。封入袋を持参していない場合は、ペンション内の売店で購入いただけます。"
+        }
+    ],
+    "word_Count": {
+        "text": 142,
+        "QA": 179
+    }
+}

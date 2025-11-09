@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_041201",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "https://www.museum.go.kr/site/main/relic/search/view?relicId=221.458",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "1682년 조선 국왕에게 보낸 일본 외교 문서"
+    },
+    "text": "1682年、朝鮮国王に送った日本の外交文書 (1682년 조선 국왕에게 보낸 일본 외교 문서 )\\n\n1692年日本が朝鮮国王に送った外交文書です（5-4）。本山彦一が所蔵しています。韓国の統治時代に調査されたもので、材質はガラス・宝石です。メディア記録物の一つであるフィルムに記録されており、大きさは横30.3cm、縦25.2cmです。",
+    "QA": [
+        {
+            "question": "この文書は何年に日本が朝鮮国王に送った外交文書ですか？",
+            "answer": "1682年"
+        },
+        {
+            "question": "この外交文書は誰が所蔵していますか？",
+            "answer": "本山彦一"
+        },
+        {
+            "question": "この外交文書は何の材質で作られていますか？",
+            "answer": "ガラス・宝石"
+        },
+        {
+            "question": "この外交文書はどのようなメディアに記録されていますか？",
+            "answer": "フィルム"
+        },
+        {
+            "question": "この外交文書の大きさは何ですか？",
+            "answer": "横30.3cm、縦25.2cm"
+        }
+    ],
+    "word_Count": {
+        "text": 125,
+        "QA": 104
+    }
+}

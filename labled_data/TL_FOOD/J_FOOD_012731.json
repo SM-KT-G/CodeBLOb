@@ -1,0 +1,31 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_012731",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "フクドンヒャン（흑돈향）"
+    },
+    "text": "フクドンヒャン（흑돈향）\\n\n済州特別自治道 西帰浦市 太平路 58\\n\n済州特別自治道のソグィポ市に位置したバーベキュー専門店です。おすすめは黒豚肉焼きです。黒豚焼きは済州島の代表的な料理です。",
+    "QA": [
+        {
+            "question": "このバーベキュー専門店はどこにありますか？",
+            "answer": "フクドンヒャン（흑돈향）は済州特別自治道 西帰浦市 太平路 58に位置しています。"
+        },
+        {
+            "question": "このバーベキュー専門店のおすすめは何ですか？",
+            "answer": "フクドンヒャン（흑돈향）のおすすめは黒豚肉焼きです。黒豚焼きは済州島の代表的な料理です。"
+        }
+    ],
+    "word_Count": {
+        "text": 71,
+        "QA": 93
+    }
+}

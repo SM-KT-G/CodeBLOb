@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_094896",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/collectionList#######",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2023-10-11",
+        "domain": "문화/역사관광",
+        "title": "유적지 발굴 조사중 칠기 출토 상태"
+    },
+    "text": "遺跡発掘調査中、漆器出土の状態 (유적지 발굴 조사중 칠기 출토 상태)\\n\n遺跡発掘調査中、漆器が出土しました。これは韓国による日本の植民地支配時代のものです。材質はガラスと宝石でできており、分類されるとすればメディアの記録物の一部となります。大きさは横164cm、縦120cmです。",
+    "QA": [
+        {
+            "question": "この漆器は何時期に作られたものですか？",
+            "answer": "この漆器は日本の植民地支配時代に作られたものです。"
+        },
+        {
+            "question": "漆器の材質は何ですか？",
+            "answer": "漆器の材質はガラスと宝石です。"
+        },
+        {
+            "question": "漆器の大きさはどのくらいですか？",
+            "answer": "漆器の大きさは横164cm、縦120cmです。"
+        },
+        {
+            "question": "この漆器が発掘された遺跡はどこですか？",
+            "answer": "この漆器が発掘された遺跡は韓国です。"
+        },
+        {
+            "question": "漆器はどのように分類されますか？",
+            "answer": "漆器はメディアの記録物の一部として分類されます。"
+        }
+    ],
+    "word_Count": {
+        "text": 105,
+        "QA": 136
+    }
+}

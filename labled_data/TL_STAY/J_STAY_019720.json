@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_019720",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/goods/GN0002028218?startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0%5E&npprmaxsort=min",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "회기 리오"
+    },
+    "text": "喫煙情報を考慮し、快適な環境のために禁煙客室を運営しています。 宿は私有会基駅1番出口の50m前に位置しており、便利にアクセスできます。 また、騒音が少なく、静かな環境で快適に滞在でき、十分な温水で楽しいシャワーと安らかな睡眠を取ることができます。",
+    "QA": [
+        {
+            "question": "この宿はどのくらいの距離に位置していますか？",
+            "answer": "宿は私有会基駅1番出口の50m前に位置しています。"
+        },
+        {
+            "question": "禁煙客室はありますか？",
+            "answer": "はい、喫煙情報を考慮し、快適な環境のために禁煙客室を運営しています。"
+        },
+        {
+            "question": "宿の周辺は静かですか？",
+            "answer": "はい、騒音が少なく、静かな環境で快適に滞在できます。"
+        },
+        {
+            "question": "シャワーは温かいですか？",
+            "answer": "はい、十分な温水があり、楽しいシャワーをお楽しみいただけます。"
+        },
+        {
+            "question": "宿で十分な睡眠を取ることができますか？",
+            "answer": "はい、静かな環境のため、安らかな睡眠を取ることができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 90,
+        "QA": 161
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_114892",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=459&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=01090000&ccbaCtcd=33&ccbaCpno=2113301090000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1982-12-17",
+        "domain": "문화/역사관광",
+        "title": "청주 청녕각"
+    },
+    "text": "清州清寧閣\\n\n忠清北道清州市上党区上党路69番キル38(北門路1街)\\n\n朝鮮時代、忠清北道有形文化財、清寧閣は東軒として使っていた建物で、朝鮮時代に地方長官である監事や首領が公務を執行していたところであり、官庁の中心建物だ。 朝鮮時代の清州牧官庁の建物は東軒をはじめ客観·香寺堂など多くの建物があったが、現在は建物一軒だけが残って全てなくなった。 上良文によると、1656年(孝宗7)に牧師シム·ファンが創建し、1732年(英祖8)県監イ·ビョンジョンが重修し、1825年(純祖25)に牧師イ·ドクスが建て直した。 最初の規模は10間だったが、牧師のイ·ドクスが28間規模に拡張し、扁額も清寧閣に変えたと推定される。 恐怖の形が朝鮮後期の様式を表しており、現在の建物は1825年に建て直したものであることがわかる。前面7間·側面4間で1階であり、側面が八の字型で最も華麗な入母屋造りだ。 朝鮮後期の地方官庁建築を原型どおり見せる貴重な資料として過去清原郡庁舎の一部として使用したが、2009年に復元して現在の姿をしている。",
+    "QA": [
+        {
+            "question": "清寧閣は何時代に建てられましたか？",
+            "answer": "清寧閣は朝鮮時代に建てられました。"
+        },
+        {
+            "question": "清寧閣はどの地域に位置していますか？",
+            "answer": "清寧閣は忠清北道清州市上党区に位置しています。"
+        },
+        {
+            "question": "清寧閣の建物は何に使用されていましたか？",
+            "answer": "清寧閣の建物は地方長官や監事、首領が公務を執行するために使用されていました。"
+        },
+        {
+            "question": "清寧閣は誰によって創建されましたか？",
+            "answer": "清寧閣は牧師シム・ファンによって1656年に創建されました。"
+        },
+        {
+            "question": "清寧閣の建物はいつ重修されましたか？",
+            "answer": "清寧閣は1732年に県監イ・ビョンジョンによって重修されました。"
+        },
+        {
+            "question": "清寧閣の建物はいつ建て直されましたか？",
+            "answer": "清寧閣の建物は1825年に牧師イ・ドクスによって建て直されました。"
+        }
+    ],
+    "word_Count": {
+        "text": 339,
+        "QA": 207
+    }
+}

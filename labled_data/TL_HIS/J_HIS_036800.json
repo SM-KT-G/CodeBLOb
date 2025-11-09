@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_036800",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1148&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=04390000&ccbaCtcd=37&ccbaCpno=3413704390000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2003-04-14",
+        "domain": "문화/역사관광",
+        "title": "의성대곡사명부전"
+    },
+    "text": "義城大谷寺冥府殿 (의성대곡사명부전)\\n\n慶尚北道義城郡多仁面大谷寺キル80(鳳亭里)\\n\n慶尚北道文化財資料、大谷寺は高麗恭愍王17年(1368)に智公禅寺と羅雄禅寺によって創建されたが、壬辰倭乱の時に火災で焼失し、朝鮮宣祖38年(1602)に丹羽大師が再建し、粛宗13年(1687)に再建した。 大谷寺冥府殿は建立当時から冥府殿として建立されたのかは定かではないが、建具構成手法、致木方法など建築手法において17~8世紀の形式を維持している",
+    "QA": [
+        {
+            "question": "大谷寺冥府殿はいつ創建されましたか？",
+            "answer": "大谷寺は高麗恭愍王17年(1368)に智公禅寺と羅雄禅寺によって創建されました。"
+        },
+        {
+            "question": "大谷寺冥府殿は何度再建されましたか？",
+            "answer": "大谷寺は朝鮮宣祖38年(1602)と粛宗13年(1687)に再建されました。"
+        },
+        {
+            "question": "大谷寺冥府殿はどのような建築手法を維持していますか？",
+            "answer": "大谷寺冥府殿は建具構成手法や致木方法など、17~18世紀の形式を維持しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 163,
+        "QA": 132
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_034060",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101933",
+        "collectedDate": "2023-10-06",
+        "publishedDate": "2020-01-01",
+        "domain": "자연관광",
+        "title": "북바위산"
+    },
+    "text": "北岩山\\n\n北岩山は忠清北道忠州市と提川市にまたがっている高さ772mの山だ。 山の名前はジルプジェから北に位置する岩山という理由もあるが、住民たちによると、山裾に打楽器である鼓に似た巨大な奇岩があり、北岩山と呼ばれるという。",
+    "QA": [
+        {
+            "question": "北岩山はどこに位置していますか？",
+            "answer": "北岩山は忠清北道忠州市と提川市にまたがっています。"
+        },
+        {
+            "question": "北岩山の高さは何メートルですか？",
+            "answer": "北岩山の高さは772mです。"
+        },
+        {
+            "question": "北岩山の名前の由来は何ですか？",
+            "answer": "北岩山の名前はジルプジェから北に位置する岩山という理由もあるが、住民たちによると、山裾に打楽器である鼓に似た巨大な奇岩があり、北岩山と呼ばれるという。"
+        }
+    ],
+    "word_Count": {
+        "text": 82,
+        "QA": 118
+    }
+}

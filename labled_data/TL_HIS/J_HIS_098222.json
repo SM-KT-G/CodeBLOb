@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_098222",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/collectionList#######",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2023-10-11",
+        "domain": "문화/역사관광",
+        "title": "작곡가 오네게르의 편지 및 봉투"
+    },
+    "text": "作曲家オネゲルの手紙と封筒 (작곡가 오네게르의 편지 및 봉투)\\n\n1936年9月28日に、フランスの作曲家オネゲルがアン·イクテ先生に送った手紙と封筒があります。この手紙はパリで英文タイピングで作成されました。 手紙の国籍/時代は「ヨーロッパ - フランス」、材質は「紙 - 日向」となっています。作家は「A Honegger」で、分類は「文化芸術 - 文献 - 西間類 - 西間類」となっています。大きさは、横 21cm、縦 27cmの手紙と、横 146cm、縦 114cmの封筒です。",
+    "QA": [
+        {
+            "question": "手紙と封筒は何年に作成されましたか？",
+            "answer": "手紙と封筒は1936年に作成されました。"
+        },
+        {
+            "question": "手紙と封筒の作成国はどこですか？",
+            "answer": "手紙と封筒の作成国はフランスです。"
+        },
+        {
+            "question": "手紙と封筒の作成者は誰ですか？",
+            "answer": "手紙と封筒の作成者はA.オネゲルです。"
+        },
+        {
+            "question": "手紙の材質は何ですか？",
+            "answer": "手紙の材質は紙で、日向です。"
+        },
+        {
+            "question": "封筒の大きさはどのくらいですか？",
+            "answer": "封筒の大きさは横146cm、縦114cmです。"
+        }
+    ],
+    "word_Count": {
+        "text": 181,
+        "QA": 123
+    }
+}

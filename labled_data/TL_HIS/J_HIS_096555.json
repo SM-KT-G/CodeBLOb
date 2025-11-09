@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_096555",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=430&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=00720000&ccbaCtcd=33&ccbaCpno=2113300720000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1980-11-13",
+        "domain": "문화/역사관광",
+        "title": "이제현 초상"
+    },
+    "text": "忠清北道にいる有形文化財であるイクジェ李斉賢先生の肖像画がある。この肖像画は、高麗時代後期の文臣とされる先生の遺影で国立中央博物館に現在保管されている。この肖像画は国宝第110号に分類されるが、形式は高麗時代に描かれたものとみられる。肖像画は全身坐像で描かれており、やや右に座って両手を前に揃えておいた姿勢を見せてくれる。大きさは横96センチ、縦165センチだ。このような構成は興味深い画面を表示している。椅子の把手はこれに向かっており、本がある机は人物の後で自然に置かれて人物の安定感を増してくれる。顔はスムーズに処理され、線は部分的に違うように描かれて性格を表している。この肖像画は原本をそのまま移して描いたものだが、高麗(コリョ)時代の肖像画の特徴をよく示し、全般的な表現方式は、原本を忠実に従っている。",
+    "QA": [
+        {
+            "question": "イクジェ李斉賢先生の肖像画はどこに保管されていますか？",
+            "answer": "国立中央博物館に保管されています。"
+        },
+        {
+            "question": "イクジェ李斉賢先生の肖像画の大きさは何ですか？",
+            "answer": "横96センチ、縦165センチです。"
+        },
+        {
+            "question": "イクジェ李斉賢先生の肖像画はどの時代のものとみられますか？",
+            "answer": "高麗時代に描かれたものとみられます。"
+        },
+        {
+            "question": "イクジェ李斉賢先生の肖像画の特徴的な構成は何ですか？",
+            "answer": "全身坐像で描かれており、やや右に座って両手を前にそろえています。"
+        },
+        {
+            "question": "イクジェ李斉賢先生の肖像画は何号に分類されていますか？",
+            "answer": "国宝第110号に分類されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 260,
+        "QA": 170
+    }
+}

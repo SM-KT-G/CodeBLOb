@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_066179",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2023-08-10",
+        "domain": "문화/역사관광",
+        "title": "바다 가운데 파라다이스 외도 보타니아에 가다."
+    },
+    "text": "海の中でパラダイス外もボタニアに行く。 (바다 가운데 파라다이스 외도 보타니아에 가다.)\\n\n外島海上公園は、30年前に一人の個人が買い取って丁寧に育てたものです。島全体には珍しい植物が広がっており、彫刻像との調和が美しい景色を見せます。何よりもこの公園の美しさは、まるで海の上にある自然の庭園を思わせます。",
+    "QA": [
+        {
+            "question": "外島海上公園は誰が作りましたか？",
+            "answer": "外島海上公園は30年前に一人の個人によって作られました。"
+        },
+        {
+            "question": "外島海上公園には何が広がっていますか？",
+            "answer": "外島海上公園には珍しい植物が広がっています。"
+        },
+        {
+            "question": "外島海上公園の景色はどのようなものですか？",
+            "answer": "外島海上公園の景色は彫刻像との調和が美しい、海の上にある自然の庭園を思わせる美しさです。"
+        }
+    ],
+    "word_Count": {
+        "text": 115,
+        "QA": 110
+    }
+}

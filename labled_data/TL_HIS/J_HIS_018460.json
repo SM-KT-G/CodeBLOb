@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_018460",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=872&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=01610000&ccbaCtcd=33&ccbaCpno=2333301610000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2014-01-03",
+        "domain": "문화/역사관광",
+        "title": "보은 이제현 영당"
+    },
+    "text": "報恩イ·ジェヒョンヨンダン (보은 이제현 영당)\\n\n忠清北道報恩郡下長2ギル100(丹富面、寺院)\\n\n忠清北道記念物 , 高麗末の名神であり儒学者である李斉賢肖像(有形文化財第71号)を奉安するために報恩に初めて入ってきた李思均が建立したもので、数回にわたって直した。 前面に斎室である念修斎と後面に影堂があり、その間に内三門を設置し塀を回した。1938年、霊堂の重修工事の時に建設されたと推定される塩水斎は楼門形式で、下の階は外門、上の階は斎室の機能を持つ複合的な性格を帯びている。 この建物は基壇の上にオンドルを築造した一般的な伝統建築形態とは異なり、高く持ち上げてオンドルを入れた独特な形態と構成を見せている。",
+    "QA": [
+        {
+            "question": "この建物は誰によって建てられましたか？",
+            "answer": "この建物は李思均によって建てられました。"
+        },
+        {
+            "question": "この建物はどのような形式で構成されていますか？",
+            "answer": "この建物は内三門、念修斎、影堂、塩水斎などの要素で構成されています。"
+        },
+        {
+            "question": "この建物はどのような特徴を持っていますか？",
+            "answer": "この建物は伝統的な形態とは異なり、基壇の上に高く持ち上げられた独特な形態を持っています。"
+        },
+        {
+            "question": "塩水斎はどのような機能を持っていますか？",
+            "answer": "塩水斎は楼門形式で、下の階は外門、上の階は斎室の機能を持つ複合的な性格を持っています。"
+        },
+        {
+            "question": "この建物はいつ建設されましたか？",
+            "answer": "この建物は李斉賢肖像のために建立され、数回にわたって直されましたが、具体的な建設年は不明です。"
+        }
+    ],
+    "word_Count": {
+        "text": 228,
+        "QA": 210
+    }
+}

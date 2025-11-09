@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_005650",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=963&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=00120000&ccbaCtcd=24&ccbaCpno=3412400120000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1990-11-15",
+        "domain": "문화/역사관광",
+        "title": "양과동정"
+    },
+    "text": "ヤングァドンジョン (양과동정)\\n\n光州南区楊果洞166-1番地\\n\n光州広域市文化財資料 , この亭子はここ出身の人物が看官として多く進出し、ここで国のことを議論したとして「看院台」とも呼ばれる。 建てた時は正確には分からないが、良瓜洞亭という字はソン·シヨル(1607~1689)が書いたものだ。ギャンは洞約や郷約の施行先として活用されたため、洞亭という名前を書き、亭子の中には楼亭詩文と「良果洞籍立議書」や「良瓜洞郷約書」のような洞約と郷約に関する文章が掲げられている。",
+    "QA": [
+        {
+            "question": "この亭子はどこにありますか？",
+            "answer": "ヤングァドンジョン (양과동정)は光州南区楊果洞166-1番地にあります。"
+        },
+        {
+            "question": "この亭子は何のために建てられましたか？",
+            "answer": "この亭子はここ出身の人物が看官として多く進出し、ここで国のことを議論したため、「看院台」とも呼ばれるようになりました。"
+        },
+        {
+            "question": "この亭子の名前「良瓜洞亭」の由来は何ですか？",
+            "answer": "この亭子の名前「良瓜洞亭」はソン・シヨルが書いたもので、ギャンは洞約や郷約の施行先として活用されたため、洞亭という名前が付けられました。"
+        },
+        {
+            "question": "この亭子にはどのような文章が掲げられていますか？",
+            "answer": "この亭子の中には楼亭詩文や「良果洞籍立議書」、さらに「良瓜洞郷約書」のような洞約と郷約に関する文章が掲げられています。"
+        }
+    ],
+    "word_Count": {
+        "text": 175,
+        "QA": 221
+    }
+}

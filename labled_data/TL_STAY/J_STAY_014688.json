@@ -1,0 +1,51 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_014688",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42080&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "평창 장평모텔 운영 정책"
+    },
+    "text": "チェックイン時間は午後4時からで、チェックアウト時間は午前12時までです。 チェックインとチェックアウトの例を受け取ってのご案内です。 予約のお知らせによると、客室内の物品破損または毀損時には購入価値に合わせて弁償しなければなりません。 また、客室内での調理は絶対禁止となり、もし摘発された場合、強力な措置と強制退室措置になります。 ペットと一緒に宿泊することはできず、摘発された場合は直ちに強制退室措置をとります。 入室のご利用についての様々なご案内が提供されます。",
+    "QA": [
+        {
+            "question": "チェックインの時間は何時ですか？",
+            "answer": "チェックイン時間は午後4時からです。"
+        },
+        {
+            "question": "チェックアウトの時間は何時ですか？",
+            "answer": "チェックアウト時間は午前12時までです。"
+        },
+        {
+            "question": "物品が破損した場合、いくらの弁償が必要ですか？",
+            "answer": "物品破損時には購入価値に合わせて弁償する必要があります。"
+        },
+        {
+            "question": "客室内での調理はできますか？",
+            "answer": "客室内での調理は絶対禁止です。"
+        },
+        {
+            "question": "ペットと一緒に宿泊できますか？",
+            "answer": "ペットと一緒に宿泊することはできません。"
+        },
+        {
+            "question": "摘発された場合、どのような措置が取られますか？",
+            "answer": "摘発された場合、強制退室措置が取られます。"
+        },
+        {
+            "question": "入室に関するご利用案内はありますか？",
+            "answer": "入室に関するご利用案内が提供されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 171,
+        "QA": 197
+    }
+}

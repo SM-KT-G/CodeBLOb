@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_027813",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42070&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "청주 SUM(썸) HOTEL"
+    },
+    "text": "清州SUM HOTELでは21年のリニューアル工事を通じてさらに新しくなりました。 これでもっとリラックスして楽しい休息を楽しむことができます。 65 インチのスマート テレビと最高級のゲーミング PC もインストールされています。 常に最高の休息を提供するために最善を尽くしています。 駐車の利便性を図るため、270坪規模の広い駐車施設を完備しています。 快適な睡眠のためにラテックスベッドと最高級枕、布団を提供します。 宿泊1０回には宿泊無料クーポンを、貸室1回には貸室無料クーポンを発行いたします。 会員特典は提携店の内規に従って適用されます。 フロントでヤノルジャ会員であることをお知らせください。 会員認証はアプリ会員認証でのみ可能です。",
+    "QA": [
+        {
+            "question": "清州SUM HOTELのリニューアル工事はいつ行われましたか？",
+            "answer": "21年にリニューアル工事が行われました。"
+        },
+        {
+            "question": "清州SUM HOTELにはどのような設備がありますか？",
+            "answer": "清州SUM HOTELには65インチのスマートテレビと最高級のゲーミングPCがあります。"
+        },
+        {
+            "question": "清州SUM HOTELの駐車施設はどのくらいの広さですか？",
+            "answer": "清州SUM HOTELの駐車施設は270坪の広さです。"
+        },
+        {
+            "question": "清州SUM HOTELではどのような寝具が提供されますか？",
+            "answer": "清州SUM HOTELではラテックスベッドと最高級枕、布団が提供されます。"
+        },
+        {
+            "question": "清州SUM HOTELの会員特典はどのように利用できますか？",
+            "answer": "清州SUM HOTELの会員特典はアプリ会員認証で利用できます。"
+        }
+    ],
+    "word_Count": {
+        "text": 237,
+        "QA": 224
+    }
+}

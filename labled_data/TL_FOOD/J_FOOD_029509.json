@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_029509",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-05",
+        "domain": "음식점",
+        "title": "洪川土鍋 ( 홍천뚝배기 )"
+    },
+    "text": "洪川土鍋 ( 홍천뚝배기 )\\n\n全羅南道 順天市 チュンアンロ303\\n\nお店で直接煮て提供している店です。全羅南道のスンチョン市に位置した韓食専門店です。代表的なメニューはカムジャタンです。",
+    "QA": [
+        {
+            "question": "洪川土鍋はどこにありますか？",
+            "answer": "洪川土鍋は全羅南道順天市のチュンアンロ303に位置しています。"
+        },
+        {
+            "question": "洪川土鍋は何を提供していますか？",
+            "answer": "洪川土鍋では、カムジャタンなどの韓食を提供しています。"
+        },
+        {
+            "question": "洪川土鍋はどのように料理を提供していますか？",
+            "answer": "洪川土鍋では、お店で直接煮て提供しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 71,
+        "QA": 96
+    }
+}

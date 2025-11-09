@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_017036",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/gyerim-sikdang",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "雞林食堂"
+    },
+    "text": "雞林食堂\\n\nソウル特別市 鍾路区 敦化門路4キル 39\\n\nこの店はソウル特別市のチョンノに位置した韓食専門店です。代表的なメニューは鶏肉の炒め煮です。韓国風のピリ辛鶏肉料理を味わうことができます。",
+    "QA": [
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "この店はソウル特別市のチョンノに位置しています。"
+        },
+        {
+            "question": "この店の代表的なメニューは何ですか？",
+            "answer": "この店の代表的なメニューは鶏肉の炒め煮です。"
+        },
+        {
+            "question": "韓国風のピリ辛鶏肉料理を味わうことができますか？",
+            "answer": "はい、この店では韓国風のピリ辛鶏肉料理を味わうことができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 73,
+        "QA": 96
+    }
+}

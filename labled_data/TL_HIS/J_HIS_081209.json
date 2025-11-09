@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_081209",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/collectionList#######",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2023-10-11",
+        "domain": "문화/역사관광",
+        "title": "서울종로 창덕궁 비원 연경당 농수정"
+    },
+    "text": "ソウル鐘路(チョンノ) ⇒農水亭 (서울종로 창덕궁 비원 연경당 농수정)\\n\n「史跡 122号昌徳宮は、ソウル鍾路区臥龍洞（チョンノグ·ワリョンドン）に位置するビウォン農水亭です。場所は、かつて日本の植民地支配下にあった韓国の歴史的な史跡です。ビウォン農水亭は、ガラスと宝石で作られた美しい作品で、メディアとしてフィルムに記録されています。そのサイズは、横164cm、縦120cmです。」",
+    "QA": [
+        {
+            "question": "昌徳宮はどこに位置していますか？",
+            "answer": "臥龍洞に位置しています。"
+        },
+        {
+            "question": "昌徳宮は何で作られた美しい作品ですか？",
+            "answer": "ガラスと宝石で作られた美しい作品です。"
+        },
+        {
+            "question": "ビウォン農水亭のサイズは何ですか？",
+            "answer": "横164cm、縦120cmです。"
+        }
+    ],
+    "word_Count": {
+        "text": 143,
+        "QA": 72
+    }
+}

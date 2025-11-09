@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_050133",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=67&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=04540000&ccbaCtcd=11&ccbaCpno=1121104540000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1967-06-21",
+        "domain": "문화/역사관광",
+        "title": "경주 노서동 금팔찌"
+    },
+    "text": "慶州 老西洞 金ブレスレット\\n\nソウル特別市龍山区西氷庫路137(龍山洞6街、ジャン·ジャン)\\n\n宝物、慶州路西洞、金の腕輪(慶州路西洞金製釧)は、慶州(キョンジュ)路西洞にある墓から発見された直径8センチの新羅の禁制の腕輪だ。平たい断面の外側にそれぞれ59個ずつの突起を出して一つ一つに玉を象嵌した。この突起の左右には4匹の竜が口を開いて、お互いに他の竜の尾をかけては姿をダイナミックに解釈した。体は鱗を綿密に彫刻し、目は陰刻した。慶州市内にある新羅時代の墓では各種の金製や金銅製のブレスレットが発見されているが、装飾がなかったり、簡単な文様がいることがほとんどである。このように龍が彫刻された例は非常に稀であり、その中でもこのブレスレットは優れた傑作と評価されている。",
+    "QA": [
+        {
+            "question": "この金の腕輪はどこで発見されましたか？",
+            "answer": "金の腕輪は慶州路西洞にある墓から発見されました。"
+        },
+        {
+            "question": "この金の腕輪の特徴は何ですか？",
+            "answer": "金の腕輪は直径8センチの平たい断面で、外側には59個の突起があり、それぞれに玉が象嵌されています。また、突起の左右には4匹の竜が彫刻されています。"
+        },
+        {
+            "question": "他の金製のブレスレットとはどのように異なりますか？",
+            "answer": "慶州市内の新羅時代の墓からは金製や金銅製のブレスレットが発見されていますが、ほとんどは装飾がないか、簡単な文様があります。この金の腕輪は珍しい龍の彫刻が施された傑作とされています。"
+        }
+    ],
+    "word_Count": {
+        "text": 247,
+        "QA": 180
+    }
+}

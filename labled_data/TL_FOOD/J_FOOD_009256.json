@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_009256",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "ソルヒャン韓牛村 ( 솔향한우촌 )"
+    },
+    "text": "ソルヒャン韓牛村 ( 솔향한우촌 )\\n\n江原道 ガンヌン市 ヨンゴク面 ヨンジュロ186-4\\n\n最上級の韓牛が食べられる店です。代表的なメニューは韓牛です。江原道のガンヌン市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "この店の名前は何ですか？",
+            "answer": "ソルヒャン韓牛村 ( 솔향한우촌 )です。"
+        },
+        {
+            "question": "この店はどこにありますか？",
+            "answer": "江原道のガンヌン市に位置しています。"
+        },
+        {
+            "question": "この店の特徴的なメニューは何ですか？",
+            "answer": "代表的なメニューは韓牛です。"
+        },
+        {
+            "question": "この店はどのような料理を提供していますか？",
+            "answer": "最上級の韓牛が食べられます。"
+        }
+    ],
+    "word_Count": {
+        "text": 74,
+        "QA": 96
+    }
+}

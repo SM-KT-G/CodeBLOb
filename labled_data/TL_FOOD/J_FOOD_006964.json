@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_006964",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2020-12-25",
+        "domain": "음식점",
+        "title": "コンブル ヨンシンネ( 콩불 연신내 )"
+    },
+    "text": "コンブル ヨンシンネ( 콩불 연신내 )\\n\nソウル特別市 恩平区 ヨンソロ29ギル14-3\\n\nコンブルは豚肉に豆もやしを入れて炒める辛い料理です。代表的なメニューは豆もやし入りプルゴギです。ソウル特別市のウンピョン区に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "コンブルとはどんな料理ですか？",
+            "answer": "コンブルは豚肉に豆もやしを入れて炒めた辛い料理です。"
+        },
+        {
+            "question": "コンブルの代表的なメニューは何ですか？",
+            "answer": "コンブルの代表的なメニューは豆もやし入りプルゴギです。"
+        },
+        {
+            "question": "コンブルヨンシンネの場所はどこですか？",
+            "answer": "コンブルヨンシンネはソウル特別市の恩平区ヨンソロ29ギル14-3に位置しています。"
+        },
+        {
+            "question": "コンブルヨンシンネの特徴は何ですか？",
+            "answer": "コンブルヨンシンネは韓食専門店であり、豆もやし入りのプルゴギが人気です。"
+        }
+    ],
+    "word_Count": {
+        "text": 90,
+        "QA": 147
+    }
+}

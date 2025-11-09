@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_024642",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-01",
+        "domain": "음식점",
+        "title": "藝鄕刺身定食 ( 예향회정식 )"
+    },
+    "text": "藝鄕刺身定食 ( 예향회정식 )\\n\n全羅南道 木浦市 平和路 40\\n\n新鮮な海の幸を味わうことができる店です。全羅南道のモクポ市に位置した和食専門店です。おすすめは刺身定食です。",
+    "QA": [
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "この店は全羅南道の木浦市に位置しています。平和路40番地です。"
+        },
+        {
+            "question": "この店の名前は何ですか？",
+            "answer": "この店の名前は藝鄕刺身定食です。または、예향회정식とも呼ばれています。"
+        },
+        {
+            "question": "この店ではどんな料理がおすすめですか？",
+            "answer": "この店では新鮮な海の幸を味わうことができる刺身定食がおすすめです。"
+        },
+        {
+            "question": "この店の特徴は何ですか？",
+            "answer": "この店の特徴は和食専門店であり、新鮮な海の幸を提供していることです。"
+        },
+        {
+            "question": "この店の注文方法はどうなっていますか？",
+            "answer": "この店では、刺身定食を注文することができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 66,
+        "QA": 169
+    }
+}

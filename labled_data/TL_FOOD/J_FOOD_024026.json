@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_024026",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "安東毎日チムダク ( 안동매일찜닭 )"
+    },
+    "text": "安東毎日チムダク ( 안동매일찜닭 )\n慶尚北道 アンドン市 ボンヨン1ギル47\n伝統的な鶏肉と野菜の蒸し物ソースで作った鶏料理が味わえる店です。おすすめはチムダクです。慶尚北道のアンドン市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "このレストランの場所はどこですか？",
+            "answer": "安東毎日チムダクは慶尚北道のアンドン市に位置しています。ボンヨン1ギル47です。"
+        },
+        {
+            "question": "このレストランでいただける料理はどのようなものですか？",
+            "answer": "このレストランでは、伝統的な鶏肉と野菜の蒸し物ソースで作った鶏料理が味わえます。特におすすめはチムダクです。"
+        },
+        {
+            "question": "このレストランの名前はなんですか？",
+            "answer": "このレストランの名前は安東毎日チムダク（안동매일찜닭）です。"
+        },
+        {
+            "question": "このレストランは韓食専門店ですか？",
+            "answer": "はい、安東毎日チムダクは韓食専門店です。"
+        }
+    ],
+    "word_Count": {
+        "text": 79,
+        "QA": 162
+    }
+}

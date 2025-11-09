@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_006756",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42091&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "울산 54 게스트하우스 운영 정책"
+    },
+    "text": "チェックインは14:00時に可能で、チェックアウトは11:00時までです。 ご予約の客室は4人基準で利用可能であり、追加人数は1人当たり2万ウォンの費用が発生します。 この費用は現場で決済していただく必要があります。 客室内で外部の食べ物を摂取できます。 ただし、バーベキューは予約特典に含まれていません。",
+    "QA": [
+        {
+            "question": "チェックインとチェックアウトの時間は何時ですか？",
+            "answer": "チェックインは14:00時に可能で、チェックアウトは11:00時までです。"
+        },
+        {
+            "question": "追加人数は何人まで可能ですか？",
+            "answer": "ご予約の客室は4人基準で利用可能であり、追加人数は1人当たり2万ウォンの費用が発生します。"
+        },
+        {
+            "question": "追加費用は予約時に支払う必要がありますか？",
+            "answer": "追加人数の費用は現場で決済していただく必要があります。"
+        },
+        {
+            "question": "客室内で外部の食べ物を摂取できますか？",
+            "answer": "客室内で外部の食べ物を摂取することは可能です。"
+        },
+        {
+            "question": "バーベキューは予約特典に含まれていますか？",
+            "answer": "バーベキューは予約特典には含まれていません。"
+        }
+    ],
+    "word_Count": {
+        "text": 112,
+        "QA": 186
+    }
+}

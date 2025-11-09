@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_030181",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2020-03-25",
+        "domain": "숙박",
+        "title": "허브 게스트 하우스(Hub Guest House)"
+    },
+    "text": "ハーブゲストハウス(Hub Guest House) (허브 게스트 하우스(Hub Guest House))\\n\n仁川広域市中区百年路9番キル8-1(雲沙洞)\\n\n当店は外国人観光都市民宿業で、外国人の方のみご利用いただけます。仁川広域市中区に位置する仁川ハブゲストハウスは、外国人の宿泊客を対象とした専用施設です。",
+    "QA": [
+        {
+            "question": "ハーブゲストハウスはどこにありますか？",
+            "answer": "ハーブゲストハウスは仁川広域市中区百年路に位置しています。"
+        },
+        {
+            "question": "ハーブゲストハウスはどのような施設ですか？",
+            "answer": "ハーブゲストハウスは外国人のための宿泊施設で、仁川市中区にあります。"
+        },
+        {
+            "question": "ハーブゲストハウスは誰が利用できますか？",
+            "answer": "ハーブゲストハウスは外国人の方のみ利用することができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 117,
+        "QA": 111
+    }
+}

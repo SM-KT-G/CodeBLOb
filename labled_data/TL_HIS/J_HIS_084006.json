@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_084006",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/view?relicId=35837751",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2023-10-11",
+        "domain": "문화/역사관광",
+        "title": "쇠 못"
+    },
+    "text": "鉄の釘 (쇠 못)\\n\n韓国の高句麗時代には、金属鉄で作られた精鑿（せいさく）が存在しました。この精鑿は、在来工業の一環として製造され、産業や生業の一部とされていました。現在の精鑿は、長さ10.6cmで幅2.7cmあります。また、別の精鑿は長さ9.2cmで幅は0.9cmです。",
+    "QA": [
+        {
+            "question": "高句麗時代の精鑿は何で作られていましたか？",
+            "answer": "高句麗時代の精鑿は金属鉄で作られていました。"
+        },
+        {
+            "question": "精鑿の製造はどのような産業や生業の一部とされていましたか？",
+            "answer": "精鑿の製造は在来工業の一環として、産業や生業の一部とされていました。"
+        },
+        {
+            "question": "現在の精鑿の長さと幅はそれぞれいくつですか？",
+            "answer": "現在の精鑿は長さ10.6cmで幅2.7cmあります。"
+        },
+        {
+            "question": "別の精鑿の長さと幅はそれぞれいくつですか？",
+            "answer": "別の精鑿は長さ9.2cmで幅は0.9cmです。"
+        }
+    ],
+    "word_Count": {
+        "text": 101,
+        "QA": 145
+    }
+}

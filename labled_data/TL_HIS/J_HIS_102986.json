@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_102986",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/collectionList#######",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2023-10-11",
+        "domain": "문화/역사관광",
+        "title": "중국 백자 청화무늬 조각"
+    },
+    "text": "中国白磁 青花模様の彫刻 (중국 백자 청화무늬 조각)\\n\n内部の中央には、「福」と思われる文字が刻まれています。出所は中国で時代は特定されていません。陶磁器製の作品で、白磁が使用されています。分類は食生活の一部で、食べ物に関連するものです。それに加え、現在の高さは4.1cmで底径は5.1cmです。",
+    "QA": [
+        {
+            "question": "この作品の由来はどこですか？",
+            "answer": "この作品の出所は中国で、時代は特定されていません。"
+        },
+        {
+            "question": "この作品はどのような素材で作られていますか？",
+            "answer": "この作品は陶磁器製で、白磁が使用されています。"
+        },
+        {
+            "question": "作品の中央に刻まれた文字は何ですか？",
+            "answer": "作品の中央には、「福」と思われる文字が刻まれています。"
+        },
+        {
+            "question": "現在の作品の寸法はどのくらいですか？",
+            "answer": "現在の高さは4.1cmで、底径は5.1cmです。"
+        },
+        {
+            "question": "この作品は何に分類されますか？",
+            "answer": "この作品は食生活の一部で、食べ物に関連するものです。"
+        }
+    ],
+    "word_Count": {
+        "text": 110,
+        "QA": 155
+    }
+}

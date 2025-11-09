@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_019546",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42021&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "부산 수영 S"
+    },
+    "text": "基本規定に基づき当ホテルは2名基準で入室可能であり、追加人数がいる場合には当日追加料金を決済しなければなりません。 チェックイン時に客室が割り当てられ、上記の画像と実際の客室が異なる場合があります。 また、オンシーズン、特定日、祝日(それに含まれる前日)には料金が変わる場合があります。",
+    "QA": [
+        {
+            "question": "チェックイン時に追加人数がいる場合、いくら追加料金がかかりますか？",
+            "answer": "追加人数がいる場合、当日に追加料金を決済する必要があります。具体的な料金はチェックイン時にお知らせいたします。"
+        },
+        {
+            "question": "客室の割り当てはチェックイン時に行われますか？",
+            "answer": "はい、チェックイン時に客室が割り当てられます。ただし、提供された画像と実際の客室が異なる場合もありますのでご了承ください。"
+        },
+        {
+            "question": "オンシーズンや特定の日、祝日の料金は通常とは異なりますか？",
+            "answer": "はい、オンシーズンや特定の日、祝日(それに含まれる前日)には通常の料金とは異なる場合があります。具体的な料金についてはご予約時にお問い合わせください。"
+        }
+    ],
+    "word_Count": {
+        "text": 104,
+        "QA": 202
+    }
+}

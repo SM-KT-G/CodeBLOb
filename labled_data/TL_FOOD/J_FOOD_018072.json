@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_018072",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "南漢江 ( 남한강 )"
+    },
+    "text": "南漢江 \n忠清北道 堤川市 清風面 ベシロン路 5-4\nトッカルビだけでなく、韓国風の魚辛味スープも味わえる店です。忠淸北道のジェチョン市に位置した韓食専門店です。おすすめは粗挽きカルビ焼きです。",
+    "QA": [
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "この店の場所は忠清北道のジェチョン市にあります。"
+        },
+        {
+            "question": "この店では何を食べることができますか？",
+            "answer": "この店では粗挽きカルビ焼きや魚辛味スープなど、韓国風の料理を楽しむことができます。"
+        },
+        {
+            "question": "この店のおすすめメニューは何ですか？",
+            "answer": "この店のおすすめメニューは粗挽きカルビ焼きです。"
+        }
+    ],
+    "word_Count": {
+        "text": 71,
+        "QA": 101
+    }
+}

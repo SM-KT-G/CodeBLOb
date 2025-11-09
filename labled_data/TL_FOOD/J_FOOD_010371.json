@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_010371",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "デチュン酔い覚ましスープ ( 대춘해장국 )"
+    },
+    "text": "デチュン酔い覚ましスープ ( 대춘해장국 )\n済州特別自治道 済州市 蓮北路 398\n30年の伝統がある店です。済州特別自治道のジェジュ市に位置した韓食専門店です。代表的なメニューは酔い覚ましスープです。",
+    "QA": [
+        {
+            "question": "この店の名前は何ですか？",
+            "answer": "デチュン酔い覚ましスープです。"
+        },
+        {
+            "question": "この店はどこに位置していますか？",
+            "answer": "済州特別自治道のジェジュ市に位置しています。"
+        },
+        {
+            "question": "この店の特徴的なメニューは何ですか？",
+            "answer": "代表的なメニューは酔い覚ましスープです。"
+        },
+        {
+            "question": "この店の歴史は何年ありますか？",
+            "answer": "30年の伝統があります。"
+        },
+        {
+            "question": "この店の料理ジャンルは何ですか？",
+            "answer": "韓食専門店です。"
+        }
+    ],
+    "word_Count": {
+        "text": 74,
+        "QA": 112
+    }
+}

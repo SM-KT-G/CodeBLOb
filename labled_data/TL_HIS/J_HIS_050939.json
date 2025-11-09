@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_050939",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=198&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=18820200&ccbaCtcd=11&ccbaCpno=1121118820200&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2016-01-07",
+        "domain": "문화/역사관광",
+        "title": "고려 십육나한도"
+    },
+    "text": "高麗時代羅漢信仰は、全時期にかけて流行し、この作品は話題として知られている。作品はアデ尊者と彼をシボンハの侍者2人が描かれているが、奴婢区の姿にもかかわらず、表情に気迫が生きている。作品は画面の余白を尊重した安定した構図の中に深い空間感や立体感を表現し、線と色彩対比を通じて格調の高い絵を完成した。作者名を作品に記録したことも特異な点として注目される。作品は時間がたつにつれて傷跡があるが、高麗時代の仏画は数が少なく、国内に残存する事例もまれなので、その価値を持っているといえる。",
+    "QA": [
+        {
+            "question": "この作品は何時代のものですか？",
+            "answer": "この作品は高麗時代のものです。"
+        },
+        {
+            "question": "この作品は何について描かれていますか？",
+            "answer": "この作品は羅漢信仰について描かれています。"
+        },
+        {
+            "question": "作品には何人の人物が描かれていますか？",
+            "answer": "作品にはアデ尊者と彼をシボンハの侍者2人が描かれています。"
+        },
+        {
+            "question": "作品の特徴は何ですか？",
+            "answer": "作品は画面の余白を尊重した安定した構図の中に深い空間感や立体感を表現し、線と色彩対比を通じて格調の高い絵を完成しています。"
+        },
+        {
+            "question": "作品に作者名が記録されている点は何か特異な点ですか？",
+            "answer": "はい、作品に作者名が記録されていることは特異な点として注目されます。"
+        },
+        {
+            "question": "この作品の保存状態はどうですか？",
+            "answer": "時間がたつにつれて傷跡があるものの、高麗時代の仏画は数が少なく、国内に残存する事例もまれなので、その価値を持っています。"
+        }
+    ],
+    "word_Count": {
+        "text": 176,
+        "QA": 239
+    }
+}

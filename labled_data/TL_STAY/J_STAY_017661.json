@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_017661",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-02-02",
+        "domain": "숙박",
+        "title": "ロッテホテル蔚山（롯데호텔 울산）"
+    },
+    "text": "ロッテホテル蔚山（롯데호텔 울산）\\n\n蔚山広域市 南区 三山路 282\\n\nロッテホテル蔚山は、地理的に便利な新都心に位置しています。近くにバスターミナルや金融圏、映画館、ロッテデパートがあり、最適なビジネス環境を提供しています。",
+    "QA": [
+        {
+            "question": "ロッテホテル蔚山の場所はどこですか？",
+            "answer": "ロッテホテル蔚山は蔚山広域市南区三山路282に位置しています。"
+        },
+        {
+            "question": "ロッテホテル蔚山の近くにはどんな施設がありますか？",
+            "answer": "ロッテホテル蔚山の近くにはバスターミナルや金融圏、映画館、ロッテデパートなどがあります。"
+        },
+        {
+            "question": "ロッテホテル蔚山はどんなビジネス環境を提供していますか？",
+            "answer": "ロッテホテル蔚山は地理的に便利な新都心に位置しており、バスターミナルや金融圏、映画館、ロッテデパートが近くにあり、最適なビジネス環境を提供しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 85,
+        "QA": 162
+    }
+}

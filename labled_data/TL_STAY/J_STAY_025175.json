@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_025175",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42040&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "순천 자바"
+    },
+    "text": "延香洞に位置するジャバホテルは、常に快適な客室管理で快適な休憩を提供しています。 基本規定客室はチェックインの際に割り当てられ、上記画像とは異なる場合があります。 オンシーズンや特定日、祝日には料金が変動する場合があります。 ヤノルジャ会員特典は提携店の内規に従って適用されます。 フロントでヤノルジャ会員であることを教えてください。",
+    "QA": [
+        {
+            "question": "ジャバホテルはどこに位置していますか？",
+            "answer": "ジャバホテルは延香洞に位置しています。"
+        },
+        {
+            "question": "ジャバホテルの客室管理はどのように行われていますか？",
+            "answer": "ジャバホテルでは常に快適な客室管理を行っており、快適な休憩を提供しています。"
+        },
+        {
+            "question": "基本規定客室とはなんですか？",
+            "answer": "基本規定客室はチェックインの際に割り当てられる客室であり、上記画像とは異なる場合があります。"
+        },
+        {
+            "question": "オンシーズンや特定日、祝日には料金は変動しますか？",
+            "answer": "はい、オンシーズンや特定日、祝日には料金が変動する場合があります。"
+        },
+        {
+            "question": "ヤノルジャ会員特典はどのように適用されますか？",
+            "answer": "ヤノルジャ会員特典は提携店の内規に従って適用されます。フロントでヤノルジャ会員であることを伝えてください。"
+        }
+    ],
+    "word_Count": {
+        "text": 122,
+        "QA": 217
+    }
+}

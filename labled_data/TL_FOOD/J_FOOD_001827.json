@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001827",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/la-celtique",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "La Celtique"
+    },
+    "text": "La Celtique\\n\nソウル特別市 西大門区 ミョンムルキル 72 （滄川洞） )\\n\nLa Celtique(ラ·セルティック)は、フランスのブルターニュ地方出身のシェフが運営するクレープ専門店です。そば粉のクレープは様々なトッピングで食事に、小麦粉のクレープは果物やチョコレート、アイスクリームでデザートとして楽しめます。ブルターニュ地方の雰囲気を感じることができるかわいらしく素朴なレストランで、フランス伝統のクレープを楽しむことができます。",
+    "QA": [
+        {
+            "question": "La Celtiqueはどこにありますか？",
+            "answer": "La Celtiqueはソウル特別市西大門区ミョンムルキル72にあります。"
+        },
+        {
+            "question": "La Celtiqueは何を提供していますか？",
+            "answer": "La Celtiqueはクレープを専門としており、そば粉のクレープは様々なトッピングで食事に、小麦粉のクレープは果物やチョコレート、アイスクリームでデザートとして楽しむことができます。"
+        },
+        {
+            "question": "La Celtiqueの雰囲気はどのような感じですか？",
+            "answer": "La Celtiqueはブルターニュ地方の雰囲気を感じることができるかわいらしく素朴なレストランです。"
+        },
+        {
+            "question": "La Celtiqueで楽しめる料理は何ですか？",
+            "answer": "La Celtiqueではフランス伝統のクレープを楽しむことができます。"
+        },
+        {
+            "question": "La Celtiqueのシェフはどこから来ましたか？",
+            "answer": "La Celtiqueのシェフはフランスのブルターニュ地方出身です。"
+        }
+    ],
+    "word_Count": {
+        "text": 166,
+        "QA": 272
+    }
+}

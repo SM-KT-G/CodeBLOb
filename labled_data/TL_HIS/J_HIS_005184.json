@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_005184",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=763&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=00050000&ccbaCtcd=24&ccbaCpno=2332400050000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1986-09-29",
+        "domain": "문화/역사관광",
+        "title": "허백련춘설헌"
+    },
+    "text": "ホ·ベクリョン春雪軒 (허백련춘설헌)\\n\n光州東区雲林洞山151番地\\n\n光州広域市記念物 , 春雪軒は韓国画の大家、義才ホ·ベクリョンが解放直後の1946年から1977年まで30年間暮らしながら作品活動をしていたところだ。 ホ·ベクリョンは朝鮮後期、韓国の南宗画を完成させたホ·リョンの子孫で、ホ·リョンの息子ホ·ヒョンから絵の基本を学び、日本とソウルで絵の勉強をしながら経験を積んだ。 1938年全羅道広州に定着して活動しながら研進会を発足し、伝統書画と後進養成に努力し、三愛学院を設立して農村指導者を育成した。 また日本人が捨てて去った無等山の茶畑を買収して春雪茶園を経営しながら、伝統茶の栽培と普及に努めた。 春雪軒は1950年に従来の古い家を壊してレンガで新しく建てた建物で、床には春雪軒という扁額がかかっている。 床の左側には作品活動をしていた2つの部屋があるが、一つはオンドル部屋で一つは和室だ。",
+    "QA": [
+        {
+            "question": "春雪軒は誰が暮らしていた場所ですか？",
+            "answer": "ベクリョン春雪軒は韓国画の大家、義才ホ·ベクリョンが解放直後の1946年から1977年まで30年間暮らしながら作品活動をしていた場所です。"
+        },
+        {
+            "question": "ベクリョンは何を学びましたか？",
+            "answer": "ベクリョンはホ·リョンの息子ホ·ヒョンから絵の基本を学び、日本とソウルで絵の勉強をしながら経験を積みました。"
+        },
+        {
+            "question": "ベクリョンはどの地域で活動していましたか？",
+            "answer": "ベクリョンは全羅道広州に定着して活動していました。"
+        },
+        {
+            "question": "ベクリョンはどのような努力をしていましたか？",
+            "answer": "ベクリョンは研進会を発足し、伝統書画と後進養成に努力し、三愛学院を設立して農村指導者を育成しました。また、春雪茶園で伝統茶の栽培と普及にも努めました。"
+        },
+        {
+            "question": "春雪軒はいつ建てられましたか？",
+            "answer": "春雪軒は1950年に従来の古い家を壊してレンガで新しく建てられました。"
+        }
+    ],
+    "word_Count": {
+        "text": 297,
+        "QA": 255
+    }
+}

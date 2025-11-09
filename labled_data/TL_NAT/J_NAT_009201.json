@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_009201",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1170&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=05740000&ccbaCtcd=37&ccbaCpno=3413705740000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2010-06-10",
+        "domain": "자연관광",
+        "title": "문경 김룡사 대성암 금당"
+    },
+    "text": "聞慶金龍寺大成庵金堂 (문경 김룡사 대성암 금당 )\\n\n慶尚北道聞慶市\\n\n慶尚北道文化財資料 , 大成庵金堂は一つ屋根の下に礼仏する大部屋に僧坊機能と台所を備え、周辺の自然景観を鑑賞できる板の間まで置いた集約的複合建物という点が目立つだけでなく、母屋と寮の建具構成などが目立つ建物だ。近隣の本社である金龍寺から移建してきたものだが、19世紀後半の重創の時、当時の時代の変化によって現れた大方の寺院の造営法を反映し、相当部分を建て直した珍しい建物で、19世紀以降の寺院建築変遷を示す重要な建物だ。",
+    "QA": [
+        {
+            "question": "金堂はどのような建物ですか？",
+            "answer": "大成庵金堂は一つ屋根の下に礼仏する大部屋に僧坊機能と台所を備え、周辺の自然景観を鑑賞できる板の間まで置いた集約的複合建物です。"
+        },
+        {
+            "question": "金堂は何のために使われていますか？",
+            "answer": "金堂は礼仏するための広い部屋であり、僧坊機能や台所も備えています。"
+        },
+        {
+            "question": "金堂の特徴は何ですか？",
+            "answer": "金堂は一つ屋根の下に複数の機能を持つ集約的な建物であり、周辺の自然景観を楽しむことができる板の間もあります。また、建具構成なども特徴的です。"
+        },
+        {
+            "question": "金堂はどのような時代に建てられましたか？",
+            "answer": "金堂は19世紀後半に建てられました。当時の時代の変化によって現れた大方の寺院の造営法を反映しており、19世紀以降の寺院建築変遷を示す重要な建物です。"
+        },
+        {
+            "question": "金堂は金龍寺から移建されたものですか？",
+            "answer": "はい、金堂は金龍寺から移建されたものです。"
+        }
+    ],
+    "word_Count": {
+        "text": 183,
+        "QA": 250
+    }
+}

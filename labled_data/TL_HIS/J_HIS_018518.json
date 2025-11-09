@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_018518",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=994&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=00440000&ccbaCtcd=33&ccbaCpno=3413300440000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2004-09-17",
+        "domain": "문화/역사관광",
+        "title": "보은 최재한 고가"
+    },
+    "text": "報恩最在の古家 (보은 최재한 고가)\\n\n忠清北道報恩郡巨賢松竹路301-5(三升面)\\n\n忠清北道文化財資料 , チェ·ジェハン高架は塀を挟んでいるチェ監察宅(1892)と似た機器に建築されたものと推定され、母屋、広棟、サランチェ、門間棟で構成されている。 母屋は正面6間、側面2間の藁葺き屋根の家で、藁葺き屋根としては規模が非常に大きい。サランチェは吠えて当時はなかったが、2009年資料を考証して復元し、正面3間、側面2間、一軒軒家、牛三角屋根の建物だ。孤児院は正面8間、側面1間一軒の建物だ",
+    "QA": [
+        {
+            "question": "この古家はどのような場所に位置していますか？",
+            "answer": "この古家は忠清北道報恩郡巨賢松竹路301-5(三升面)に位置しています。"
+        },
+        {
+            "question": "この古家はどのような建物で構成されていますか？",
+            "answer": "この古家は母屋、広棟、サランチェ、門間棟の4つの建物で構成されています。"
+        },
+        {
+            "question": "母屋の屋根はどのような素材で作られていますか？",
+            "answer": "母屋の屋根は藁で葺かれています。"
+        },
+        {
+            "question": "サランチェはどのような建物ですか？",
+            "answer": "サランチェは正面3間、側面2間、一軒軒家、牛三角屋根の建物です。"
+        },
+        {
+            "question": "孤児院はどのような建物ですか？",
+            "answer": "孤児院は正面8間、側面1間一軒の建物です。"
+        }
+    ],
+    "word_Count": {
+        "text": 183,
+        "QA": 176
+    }
+}

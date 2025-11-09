@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_073402",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=377&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=00140000&ccbaCtcd=26&ccbaCpno=2112600140000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2006-01-26",
+        "domain": "문화/역사관광",
+        "title": "부북일기"
+    },
+    "text": "朝鮮時代、蔚山広域市有形文化財、釜北日記は朝鮮時代蔚山に住んでいた蔚山朴氏朴啓淑（パク·ゲスク、1569~1646）と朴翠文（パク·チムン、1617~1690）親子が残した日記です。パク·ゲスクは1605年に、パク·チュムンは1644年に咸鏡道に派遣され、約1年間軍官として服務し、それに対する日常生活を詳しく記録しました。本は1冊で計79枚で、パク·ゲスク日記が24枚、パク·チムン日記が55枚で、大きさは横19cm、縦27cmですこの日記は朝鮮時代の武官が残したものという点で希少価値が大きく、父と息子の2代にわたる日記を合わせたもので注目を集めています。何より生活周辺の細々たることまでも隠すことなく詳しく書いてあるのが非常に驚くべきです。また、17世紀の辺境地域における軍事業務の実態と軍官の生活状況を調べるのに役立ちます。慶尚道蔚山から咸鏡道会寧に至る路程が一日も欠かさず記録されており、当時の道路交通の実態も分かります",
+    "QA": [
+        {
+            "question": "この蔚山広域市有形文化財、釜北日記は誰が書いたのですか？",
+            "answer": "蔚山朴氏朴啓淑（パク·ゲスク）と朴翠文（パク·チムン）親子が書きました。"
+        },
+        {
+            "question": "この日記は何枚で構成されていますか？",
+            "answer": "この日記は1冊で計79枚で構成されています。"
+        },
+        {
+            "question": "なぜこの日記は希少価値が大きいですか？",
+            "answer": "この日記は朝鮮時代の武官が残したものであり、父と息子の2代にわたる日記を合わせたものです。また、17世紀の辺境地域における軍事業務の実態と軍官の生活状況を知ることができます。"
+        },
+        {
+            "question": "この日記には何が詳しく書かれていますか？",
+            "answer": "この日記には生活周辺の細々たることまでも隠すことなく詳しく書かれています。また、慶尚道蔚山から咸鏡道会寧に至る路程も一日も欠かさず記録されており、当時の道路交通の実態も分かります。"
+        }
+    ],
+    "word_Count": {
+        "text": 304,
+        "QA": 234
+    }
+}

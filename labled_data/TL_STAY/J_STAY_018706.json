@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_018706",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42030&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "경주 신라부티크호텔 프리미엄"
+    },
+    "text": "慶州に位置するブティックホテルは過去と現代の文化と歴史が調和した中心地として知られています。 当ホテルは普段の生活では見られない洗練された雰囲気と客室インテリアでお客様に特別な経験をお届けします。 特に家族旅行者のためのキッズルームが用意されており、家族に思い出を作ってくれます。 ホテルはまた、キッズパークを運営しており、家族旅行者により便利な旅行を提供しています。",
+    "QA": [
+        {
+            "question": "このホテルはどこに位置していますか？",
+            "answer": "ブティックホテルは慶州に位置しています。"
+        },
+        {
+            "question": "このホテルはどのような雰囲気ですか？",
+            "answer": "ホテルは洗練された雰囲気を持っています。"
+        },
+        {
+            "question": "このホテルの客室インテリアはどのような特徴がありますか？",
+            "answer": "客室インテリアは特別な経験を提供する洗練された雰囲気を持っています。"
+        },
+        {
+            "question": "このホテルは家族旅行者にどのようなサービスを提供していますか？",
+            "answer": "ホテルはキッズルームやキッズパークなど、家族旅行者に便利なサービスを提供しています。"
+        },
+        {
+            "question": "このホテルはどのように過去と現代の文化と歴史を調和させていますか？",
+            "answer": "ホテルは過去と現代の文化と歴史が調和した中心地として知られています。"
+        }
+    ],
+    "word_Count": {
+        "text": 134,
+        "QA": 203
+    }
+}

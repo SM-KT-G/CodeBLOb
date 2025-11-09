@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_016867",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2022-09-02",
+        "domain": "문화/역사관광",
+        "title": "文山駅（문산역）"
+    },
+    "text": "文山駅（문산역）\\n\nキョンギ道パジュ市ムンサン邑ムンサンヨクロ94\\n\n文山駅は1906年4月に普通駅として営業を開始しました。京義線と、この駅から都羅山駅まで運行している通勤列車の始発および終着駅です。1953年京義線の終着駅に指定され、運営されました。2009年に首都圏鉄道京義線が開通して運営されています。",
+    "QA": [
+        {
+            "question": "文山駅はいつ営業を開始しましたか？",
+            "answer": "1906年4月に営業を開始しました。"
+        },
+        {
+            "question": "文山駅は何のための駅ですか？",
+            "answer": "京義線と通勤列車の始発および終着駅です。"
+        },
+        {
+            "question": "京義線の終着駅に指定されたのはいつですか？",
+            "answer": "1953年に京義線の終着駅に指定されました。"
+        },
+        {
+            "question": "京義線が開通したのはいつですか？",
+            "answer": "2009年に京義線が開通しました。"
+        }
+    ],
+    "word_Count": {
+        "text": 115,
+        "QA": 106
+    }
+}

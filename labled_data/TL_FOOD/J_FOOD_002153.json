@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_002153",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-06",
+        "domain": "음식점",
+        "title": "Trevia ( 트레비아 )"
+    },
+    "text": "Trevia ( 트레비아 )\\n\nソウル特別市 龍山区 イテウォンロ15ギル1\\n\nさっぱりしたイタリアのピザが味わえます。おすすめはピザです。ソウル特別市のヨンサン区に位置した洋食専門店です。",
+    "QA": [
+        {
+            "question": "トレビアはどこに位置していますか？",
+            "answer": "ソウル特別市のヨンサン区に位置しています。"
+        },
+        {
+            "question": "トレビアのおすすめメニューは何ですか？",
+            "answer": "おすすめはピザです。"
+        },
+        {
+            "question": "トレビアはどんな雰囲気の洋食専門店ですか？",
+            "answer": "トレビアはさっぱりしたイタリアのピザが味わえる洋食専門店です。"
+        }
+    ],
+    "word_Count": {
+        "text": 71,
+        "QA": 87
+    }
+}

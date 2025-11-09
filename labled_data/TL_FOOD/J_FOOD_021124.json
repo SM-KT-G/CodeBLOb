@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_021124",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2020-12-30",
+        "domain": "음식점",
+        "title": "百年カルビ 素沙( 백년갈비 소사 )"
+    },
+    "text": "百年カルビ 素沙( 백년갈비 소사 )\\n\n京畿道 平沢市 ピョンナムロ858\\n\n肉の炭火焼きが食べられる店です。京畿道のピョンテク市に位置した韓食専門店です。おすすめは特大豚カルビです。",
+    "QA": [
+        {
+            "question": "このお店はどこにありますか？",
+            "answer": "このお店は京畿道平沢市にあります。"
+        },
+        {
+            "question": "このお店では何が食べられますか？",
+            "answer": "このお店では肉の炭火焼きが食べられます。特におすすめは特大豚カルビです。"
+        },
+        {
+            "question": "このお店は何時から営業していますか？",
+            "answer": "このお店は営業時間は不明です。事前に確認することをおすすめします。"
+        }
+    ],
+    "word_Count": {
+        "text": 69,
+        "QA": 98
+    }
+}

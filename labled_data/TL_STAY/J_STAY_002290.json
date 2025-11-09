@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_002290",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-12",
+        "domain": "숙박",
+        "title": "アイパークコンド（아이파크콘도）"
+    },
+    "text": "アイパークコンド\n江原道 高城郡 土城面 高城大路75-16\n雪岳の情緒を感じることのできる場所にある「アイパークコンド（I PARK Condominium）」は自然との調和、静けさを感じながらくつろげる空間です。訪れるすべてのお客様にリラックスして休息できる空間を提供するために、全スタッフが真心をこめておもてなしします。",
+    "QA": [
+        {
+            "question": "アイパークコンドはどこにありますか？",
+            "answer": "アイパークコンドは江原道高城郡土城面高城大路75-16にあります。"
+        },
+        {
+            "question": "アイパークコンドはどのような場所ですか？",
+            "answer": "アイパークコンドは雪岳の情緒を感じることのできる場所で、自然との調和、静けさを感じながらくつろげる空間です。"
+        },
+        {
+            "question": "アイパークコンドのスタッフはどのようなおもてなしをしてくれますか？",
+            "answer": "アイパークコンドのスタッフは全スタッフが真心をこめてお客様にリラックスして休息できる空間を提供するためにおもてなしします。"
+        }
+    ],
+    "word_Count": {
+        "text": 119,
+        "QA": 160
+    }
+}

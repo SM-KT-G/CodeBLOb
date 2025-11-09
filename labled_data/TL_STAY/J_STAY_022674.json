@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_022674",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/goods/GN0002143079?startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0%5E&npprmaxsort=min",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "상주 아이쉼터키즈풀빌라"
+    },
+    "text": "尚州アイシムターキッズプールビラではお知らせをお知らせします。 これは安全のための措置です。 また、プールビラの外部にはCCTVが設置されています。 早期チェックインとレイトチェックアウトは不可能であり、子供プールをご利用の際には必ず保護者同伴が必要です。 また、客室内では肉、魚、天ぷらなど臭いがしたり、脂っこい食べ物を調理することはできません。",
+    "QA": [
+        {
+            "question": "プールビラの外部には何が設置されていますか？",
+            "answer": "プールビラの外部にはCCTVが設置されています。"
+        },
+        {
+            "question": "早期チェックインやレイトチェックアウトは可能ですか？",
+            "answer": "早期チェックインとレイトチェックアウトは不可能です。"
+        },
+        {
+            "question": "子供プールを利用する際に必要な条件はありますか？",
+            "answer": "子供プールをご利用の際には必ず保護者同伴が必要です。"
+        },
+        {
+            "question": "客室内で調理できる食べ物に制限はありますか？",
+            "answer": "客室内では肉、魚、天ぷらなど臭いがしたり、脂っこい食べ物を調理することはできません。"
+        }
+    ],
+    "word_Count": {
+        "text": 127,
+        "QA": 155
+    }
+}

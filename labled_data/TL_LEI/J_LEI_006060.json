@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_LEI_006060",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2023-02-21",
+        "domain": "레포츠",
+        "title": "로얄포레CC"
+    },
+    "text": "ロイヤルフォーレCCは忠清北道忠州市新尼面大化里に位置し、ここは大衆祭ゴルフ場として18ホールあります。 クラブハウス、レストラン、ゲストハウス、スタートハウス、ロッカールーム、プロショップなどの付帯施設も提供されます。 ゴルフ場は西忠州ICの近くにあります。",
+    "QA": [
+        {
+            "question": "ロイヤルフォーレCCはどこに位置していますか？",
+            "answer": "ロイヤルフォーレCCは忠清北道忠州市新尼面大化里に位置しています。"
+        },
+        {
+            "question": "ロイヤルフォーレCCにはどんな施設がありますか？",
+            "answer": "ロイヤルフォーレCCにはクラブハウス、レストラン、ゲストハウス、スタートハウス、ロッカールーム、プロショップなどの付帯施設があります。"
+        },
+        {
+            "question": "ロイヤルフォーレCCはどのようなゴルフ場ですか？",
+            "answer": "ロイヤルフォーレCCは大衆祭ゴルフ場であり、18ホールを提供しています。"
+        },
+        {
+            "question": "ロイヤルフォーレCCはどのくらいの距離に位置していますか？",
+            "answer": "ロイヤルフォーレCCは西忠州ICの近くに位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 95,
+        "QA": 193
+    }
+}

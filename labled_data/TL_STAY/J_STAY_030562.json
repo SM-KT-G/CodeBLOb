@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_030562",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42010&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "포천 키즈몽풀빌라(황태해장국 조식무료제공)"
+    },
+    "text": "抱川キッズモンペンションは干しスケトウダラの酔い覚ましスープ朝食を無料で提供しており、これは週末を除くすべての日に楽しめます。 入室時間はご利用当日の15時から22時までで、もし22時以降に到着される場合は事前にご連絡ください。 また、チェックアウトはご利用最終日の11時までとなっており、これは次のご利用のお客様のためにチェックアウト時間を守ってください。",
+    "QA": [
+        {
+            "question": "朝食は何時から提供されますか？",
+            "answer": "朝食は週末を除くすべての日に、干しスケトウダラの酔い覚ましスープが無料で提供されます。"
+        },
+        {
+            "question": "入室時間は何時から何時までですか？",
+            "answer": "入室時間はご利用当日の15時から22時までとなっております。22時以降に到着される場合は、事前にご連絡ください。"
+        },
+        {
+            "question": "チェックアウトの時間は何時までですか？",
+            "answer": "チェックアウトはご利用最終日の11時までとなっております。次のご利用のお客様のために、時間を守ってチェックアウトしてください。"
+        }
+    ],
+    "word_Count": {
+        "text": 131,
+        "QA": 156
+    }
+}

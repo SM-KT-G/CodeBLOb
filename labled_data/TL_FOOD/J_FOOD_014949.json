@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_014949",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "ヨルドゥダルバプサン ( 열두달밥상 )"
+    },
+    "text": "ヨルドゥダルバプサン \n忠清北道 堤川市 白雲面 クンボン路 161\n韓国のグルメ番組で紹介された堤川市のナムルが美味しい店です。忠淸北道のジェチョン市に位置した韓食専門店です。代表的なメニューは薬草定食です。",
+    "QA": [
+        {
+            "question": "この店の名前は何ですか？",
+            "answer": "この店の名前はヨルドゥダルバプサンです。"
+        },
+        {
+            "question": "この店はどこにありますか？",
+            "answer": "この店は忠清北道堤川市白雲面クンボン路161に位置しています。"
+        },
+        {
+            "question": "この店の特徴的なメニューは何ですか？",
+            "answer": "この店の代表的なメニューは薬草定食です。"
+        },
+        {
+            "question": "この店は何で有名ですか？",
+            "answer": "この店は韓国のグルメ番組で紹介された堤川市のナムルが美味しい店です。"
+        },
+        {
+            "question": "この店はどのような料理を提供していますか？",
+            "answer": "この店は韓食専門店です。"
+        }
+    ],
+    "word_Count": {
+        "text": 77,
+        "QA": 141
+    }
+}

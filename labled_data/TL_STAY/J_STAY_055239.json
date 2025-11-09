@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_055239",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.booking.com/hotel/kr/sobaegsanpunggionceonrijoteu.ko.html",
+        "collectedDate": "2023-11-17",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "소백산 풍기 온천 리조트"
+    },
+    "text": "豊基邑竹嶺路1400に位置する小白山豊基温泉リゾートは、Yeongjuから6.2km、Yeongju Municipal Libraryから16km離れたところに位置しています。 この3つ星ホテルはエアコンと無料Wi-Fiが完備された客室と共用ラウンジを提供し、すべての客室には専用バスルームがあります。 また、構内には専用駐車場があります。 客室はケーブルチャンネルを備えたフラットテレビ、冷蔵庫、やかん、シャワー設備、無料洗面用具、クローゼットなどで快適に構成されています。 毎朝アジア式朝食を楽しむことができ、ホテルの近くにはKyungbuk College(17km)、Sobaeksan National Park(20km)などの観光地があります。 最寄り空港は97km離れた原州空港で、小白山豊基温泉リゾートはYeongjuの中心から15km離れています。 チェックインは15:00から可能で、チェックアウトは11:00までとなっています。",
+    "QA": [
+        {
+            "question": "豊基温泉リゾートはどこに位置していますか？",
+            "answer": "豊基温泉リゾートは豊基邑竹嶺路1400に位置しています。"
+        },
+        {
+            "question": "豊基温泉リゾートからYeongju Municipal Libraryまでの距離は何キロメートルですか？",
+            "answer": "豊基温泉リゾートからYeongju Municipal Libraryまでは16キロメートル離れています。"
+        },
+        {
+            "question": "ホテルの客室にはどのような設備がありますか？",
+            "answer": "ホテルの客室にはエアコンと無料Wi-Fiが完備されており、専用バスルームもあります。"
+        },
+        {
+            "question": "ホテルの近くにはどのような観光地がありますか？",
+            "answer": "ホテルの近くにはKyungbuk College(17キロメートル)やSobaeksan National Park(20キロメートル)などの観光地があります。"
+        },
+        {
+            "question": "最寄り空港はどこですか？",
+            "answer": "最寄り空港は原州空港で、97キロメートル離れています。"
+        },
+        {
+            "question": "チェックインとチェックアウトの時間を教えてください。",
+            "answer": "チェックインは15:00から可能で、チェックアウトは11:00までとなっています。"
+        }
+    ],
+    "word_Count": {
+        "text": 313,
+        "QA": 313
+    }
+}

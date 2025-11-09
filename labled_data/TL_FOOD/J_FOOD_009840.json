@@ -1,0 +1,31 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_009840",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "チャムたらスープ（참대구탕）"
+    },
+    "text": "チャムたらスープ（참대구탕）\\n\nソウル特別市 龍山区 漢江大路62キル 3\\n\nこの店はソウル特別市のイテウォンに位置した韓食専門店です。タラで煮込んだ澄んだスープ料理です。代表的なメニューはたらスープです。",
+    "QA": [
+        {
+            "question": "チャムたらスープ（참대구탕）はどんな料理ですか？",
+            "answer": "チャムたらスープは、ソウル特別市イテウォンに位置した韓食専門店で提供される料理です。タラで煮込んだ澄んだスープ料理です。代表的なメニューはたらスープです。"
+        },
+        {
+            "question": "チャムたらスープを提供している店の場所はどこですか？",
+            "answer": "チャムたらスープを提供している店は、ソウル特別市の龍山区漢江大路62キル 3に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 77,
+        "QA": 127
+    }
+}

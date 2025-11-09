@@ -1,0 +1,63 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_032511",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=768&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=00100000&ccbaCtcd=24&ccbaCpno=2332400100000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1979-08-03",
+        "domain": "문화/역사관광",
+        "title": "칠석동은행나무"
+    },
+    "text": "漆石洞イチョウ (칠석동은행나무)\\n\n光州南区七石洞120番地\\n\n光州広域市記念物、このイチョウは約25mの高さに全体の周囲が13mで、樹齢は約650年と推定される。 七石洞の漆石村の前にあり、木に石を積んで田んぼと境界を形成している。この木は祖母堂山で村の前の野原にあるが、裏山の祖父堂山松と共に毎年小正月前日に堂山祭を行うところで、祭が終われば上·下村に分けて苦闘遊びをする。 竹嶺山の下の平野地帯にある七夕洞は風水地理上、牛が横になっている姿だというが、この牛の手綱をつないでおくためにイチョウを植えたという伝説がある。",
+    "QA": [
+        {
+            "question": "イチョウの樹齢は何歳ですか？",
+            "answer": "イチョウの樹齢は約650年と推定されています。"
+        },
+        {
+            "question": "イチョウの高さはどれくらいですか？",
+            "answer": "イチョウの高さは約25mです。"
+        },
+        {
+            "question": "イチョウの周囲の幅は何メートルですか？",
+            "answer": "イチョウの周囲の幅は13mです。"
+        },
+        {
+            "question": "イチョウはどの地域に位置していますか？",
+            "answer": "イチョウは光州南区七石洞に位置しています。"
+        },
+        {
+            "question": "イチョウは何を形成していますか？",
+            "answer": "イチョウは木に石を積んで田んぼと境界を形成しています。"
+        },
+        {
+            "question": "イチョウは何の記念物ですか？",
+            "answer": "イチョウは光州広域市の記念物です。"
+        },
+        {
+            "question": "イチョウの周りには何がありますか？",
+            "answer": "イチョウの周りには七石洞の漆石村があります。"
+        },
+        {
+            "question": "イチョウはどのような伝説がありますか？",
+            "answer": "イチョウの伝説としては、牛の手綱をつないでおくために植えられたというものがあります。"
+        },
+        {
+            "question": "イチョウのそばには何がありますか？",
+            "answer": "イチョウのそばには祖母堂山と祖父堂山松があります。"
+        },
+        {
+            "question": "イチョウは何の祭を行いますか？",
+            "answer": "イチョウは毎年小正月前日に堂山祭を行います。"
+        }
+    ],
+    "word_Count": {
+        "text": 194,
+        "QA": 291
+    }
+}

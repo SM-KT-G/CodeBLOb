@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_010053",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "チョンギェサンゴンドゥレジブ（청계산곤드레집）"
+    },
+    "text": "チョンギェサンゴンドゥレジブ（청계산곤드레집）\\n\nソウル特別市 瑞草区 チョンニョンマウル1キル1\\n\nこの店はソウル特別市のチョンゲサンに位置した韓食専門店です。ビビンバ専門店です。代表的なメニューはコンドゥレナムルご飯です。",
+    "QA": [
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "ソウル特別市の瑞草区チョンニョンマウル1キル1に位置しています。"
+        },
+        {
+            "question": "この店の特徴的なメニューは何ですか？",
+            "answer": "この店の代表的なメニューはコンドゥレナムルご飯です。"
+        },
+        {
+            "question": "この店は何を専門としていますか？",
+            "answer": "この店は韓食を専門としています。特にビビンバが得意です。"
+        },
+        {
+            "question": "コンドゥレナムルご飯はどのような料理ですか？",
+            "answer": "コンドゥレナムルご飯は、ビビンバの一種で、具材とご飯を混ぜて食べる料理です。"
+        }
+    ],
+    "word_Count": {
+        "text": 84,
+        "QA": 141
+    }
+}

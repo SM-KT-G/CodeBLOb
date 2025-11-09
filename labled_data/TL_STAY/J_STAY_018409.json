@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_018409",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42030&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "포항 죽도시장 신화"
+    },
+    "text": "客室入室基準のご確認をお願いします。 追加人数は当日現地にて料金決済されます。 オンシーズンや祝日には料金が変わる場合があります。 入室の際には身分証明書の確認をしなければならず、未成年者は入室が制限されます。 親切なお返事をお手伝いいたします！",
+    "QA": [
+        {
+            "question": "宿泊の基準は何ですか？",
+            "answer": "宿泊の基準は一部のホテルによって異なる場合がありますが、一般的には大人1人あたりの宿泊費用を基準にしています。"
+        },
+        {
+            "question": "追加人数の料金はいつ支払われますか？",
+            "answer": "追加人数の料金は実際に現地でチェックインする際にお支払いいただく必要があります。"
+        },
+        {
+            "question": "オンシーズンや祝日には料金が変わることがありますか？",
+            "answer": "はい、オンシーズンや祝日には一部のホテルでは料金が変動する場合があります。事前にご確認ください。"
+        },
+        {
+            "question": "入室の際には身分証明書が必要ですか？",
+            "answer": "はい、入室の際には身分証明書の確認が必要です。"
+        },
+        {
+            "question": "未成年者の入室は制限されますか？",
+            "answer": "はい、未成年者の場合、一部のホテルでは入室が制限されることがあります。ご了承ください。"
+        }
+    ],
+    "word_Count": {
+        "text": 90,
+        "QA": 218
+    }
+}

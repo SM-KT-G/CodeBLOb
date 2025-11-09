@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_025624",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1138&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=03960000&ccbaCtcd=37&ccbaCpno=3413703960000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2000-09-04",
+        "domain": "문화/역사관광",
+        "title": "영해구계댁"
+    },
+    "text": "永海区系の家 (영해구계댁)\\n\n慶尚北道盈徳郡永海面ホジマウル1ギル28(槐市里)\\n\n朝鮮純祖(1805) , 慶尚北道文化財資料 , 虎池村に位置しているこの家は朝鮮純祖5年(1805)頃に建てられた建物だという。 ホジ村の家は山を背にしながら西向きに位置しているのが特徴だ。 クゲデクも他の家と同様に西向きでありながらサランチェは南向きに配置したこの村特有の配置タイプに従っている。 建物は大きくサランチェ、母屋を中心に構成されており、ロ字型の平面を備えている。 サランチェはサランマル·サランマルバンなどを配置しており、前面には退間を置き、マルバンの前面の床は退間より長く差し出した。 母屋は前後2列に分けられた二重の家の形をしている。 前面2間の奥の間と板の間を中心に、奥の間の左側に台所、右側に向かい側の部屋をそれぞれ配置した。 台所の裏には物置を置いて奥の間に出入りできるようにし、向かい側の部屋の前には1間の床を敷いて欄干を巻いた。",
+    "QA": [
+        {
+            "question": "この家はいつ建てられましたか？",
+            "answer": "朝鮮純祖5年(1805)頃に建てられました。"
+        },
+        {
+            "question": "この家はどのような配置になっていますか？",
+            "answer": "建物は大きくサランチェ、母屋を中心に構成されており、ロ字型の平面を備えています。"
+        },
+        {
+            "question": "サランチェにはどのようなものが配置されていますか？",
+            "answer": "サランチェにはサランマル·サランマルバンなどが配置されており、前面には退間が置かれています。"
+        },
+        {
+            "question": "母屋はどのような形をしていますか？",
+            "answer": "母屋は前後2列に分けられた二重の家の形をしています。"
+        },
+        {
+            "question": "台所はどこに配置されていますか？",
+            "answer": "台所は奥の間の左側に配置されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 311,
+        "QA": 180
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_029890",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/osegyehyang",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "オセゲヒャン"
+    },
+    "text": "オセゲヒャン\\n\nソウル特別市 鐘路区 仁寺洞12キル 14-5\\n\n文化と芸術の街「仁寺洞」に菜食料理展「オセゲヒャン」がオープンしました。菜食文化の普及を狙ったコンセプトで、幅広いメニューを提供しています。",
+    "QA": [
+        {
+            "question": "オセゲヒャンはどこにありますか？",
+            "answer": "オセゲヒャンはソウル特別市鐘路区仁寺洞にあります。"
+        },
+        {
+            "question": "オセゲヒャンのコンセプトは何ですか？",
+            "answer": "オセゲヒャンのコンセプトは菜食文化の普及を狙ったものです。"
+        },
+        {
+            "question": "オセゲヒャンではどのようなメニューが提供されていますか？",
+            "answer": "オセゲヒャンでは幅広いメニューが提供されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 77,
+        "QA": 103
+    }
+}

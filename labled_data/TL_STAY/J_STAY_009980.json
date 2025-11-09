@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_009980",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42010&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "평택 부티크호텔 XYM 운영 정책"
+    },
+    "text": "チェックインは19:00以降に可能で、週末は19:00以降にスタンダードとデラックス客室のチェックインが可能です。 チェックアウトは13:00以前です。 追加人数がいる場合、1人当たり10,000ウォンの費用が追加されます。 歯ブラシと歯磨き粉は無料で提供します。 また、駐車場とWi-Fiは無料で利用でき、追加費用は当日現地にて決済いたします。",
+    "QA": [
+        {
+            "question": "チェックインは何時から可能ですか？",
+            "answer": "チェックインは19:00以降に可能です。"
+        },
+        {
+            "question": "週末にチェックインする場合、何時からスタンダードとデラックス客室に入室できますか？",
+            "answer": "週末にチェックインする場合、スタンダードとデラックス客室の入室は19:00以降です。"
+        },
+        {
+            "question": "チェックアウトは何時までですか？",
+            "answer": "チェックアウトは13:00以前です。"
+        },
+        {
+            "question": "追加人数がいる場合、費用はいくらですか？",
+            "answer": "追加人数がいる場合、1人当たり10,000ウォンの費用が追加されます。"
+        },
+        {
+            "question": "歯ブラシと歯磨き粉は提供されますか？",
+            "answer": "はい、歯ブラシと歯磨き粉は無料で提供されます。"
+        },
+        {
+            "question": "駐車場とWi-Fiは利用料金がかかりますか？",
+            "answer": "いいえ、駐車場とWi-Fiは無料で利用できます。"
+        }
+    ],
+    "word_Count": {
+        "text": 126,
+        "QA": 217
+    }
+}

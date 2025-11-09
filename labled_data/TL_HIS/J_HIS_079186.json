@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_079186",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=129&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=11140000&ccbaCtcd=38&ccbaCpno=1123811140000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1992-01-15",
+        "domain": "문화/역사관광",
+        "title": "산청 대포리 삼층석탑"
+    },
+    "text": "新羅時代デポリ村にある塔は2段の基壇の上に3階の塔身があることで知られています。この塔は基壇の各面には彫刻が刻まれており、特に下では真ん中に2つの柱があることが特徴です。塔身は、それぞれの階ごとに石核とジブンドルが一つの石に囲まれているが、2・3階は1階より小さく作られています。ジブンドルは下面が4段であり、四隅では傾斜があります。軒は水平に、両端での倒れたことが特徴です。塔の頭部分は残っていないため、止まった感じを与えるが、、この塔は盗掘され、崩れたことを再度打ち立てたものと推定され、1階石核は壊れて新しく作られました。基壇には2段になっており、ジブンドルの下敷きは4段で構成されます。統一新羅時代後期の塔とされ、特に中での2本柱はこの地域ではありふれていない例に、一部破損したが、原型をよく維持しており、価値のあるものと考えられます。",
+    "QA": [
+        {
+            "question": "デポリ村にある塔は何段の基壇の上にあるのですか？",
+            "answer": "2段の基壇の上に3階の塔身があります。"
+        },
+        {
+            "question": "塔の基壇の各面に何が刻まれていますか？",
+            "answer": "基壇の各面には彫刻が刻まれています。"
+        },
+        {
+            "question": "塔身の各階には何が囲まれていますか？",
+            "answer": "塔身の各階には石核とジブンドルが囲まれています。"
+        },
+        {
+            "question": "ジブンドルの下面は何段で構成されていますか？",
+            "answer": "ジブンドルの下面は4段で構成されています。"
+        },
+        {
+            "question": "塔の頭部分は何が特徴ですか？",
+            "answer": "塔の頭部分は残っていないため、止まった感じを与えます。"
+        },
+        {
+            "question": "塔は何時代のものとされていますか？",
+            "answer": "統一新羅時代後期の塔とされています。"
+        }
+    ],
+    "word_Count": {
+        "text": 272,
+        "QA": 176
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001844",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-05",
+        "domain": "음식점",
+        "title": "Le pain ( 르빵 )"
+    },
+    "text": "Le pain ( 르빵 )\\n\nソウル特別市 松坡区 ペクジェゴブンロ41ギル12\\n\nイチゴ生クリームケーキが有名なベーカリーです。代表的なメニューはパンです。ソウル特別市のソンパ区に位置したカフェ（コーヒーショップ）です。",
+    "QA": [
+        {
+            "question": "このベーカリーの場所はどこですか？",
+            "answer": "ソウル特別市 松坡区 ペクジェゴブンロ41ギル12に位置しています。"
+        },
+        {
+            "question": "このベーカリーで有名なメニューは何ですか？",
+            "answer": "イチゴ生クリームケーキが有名ですが、代表的なメニューはパンです。"
+        },
+        {
+            "question": "このベーカリーはどんな雰囲気のカフェですか？",
+            "answer": "このベーカリーはソウル特別市のソンパ区に位置しているカフェです。"
+        }
+    ],
+    "word_Count": {
+        "text": 83,
+        "QA": 115
+    }
+}

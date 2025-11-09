@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_015707",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-06",
+        "domain": "음식점",
+        "title": "ワンテバクチヂミ村 ( 왕대박지지미촌 )"
+    },
+    "text": "ワンテバクチヂミ村 ( 왕대박지지미촌 )\\n\nソウル特別市 中区 トゥェギェロ62-1\\n\n雨の日にぴったりの店です。ソウル特別市のジュン区に位置した韓食専門店です。代表的なメニューは三色チヂミです。",
+    "QA": [
+        {
+            "question": "ワンテバクチヂミ村はどこにありますか？",
+            "answer": "ワンテバクチヂミ村はソウル特別市の中区に位置しています。"
+        },
+        {
+            "question": "ワンテバクチヂミ村の代表的なメニューは何ですか？",
+            "answer": "ワンテバクチヂミ村の代表的なメニューは三色チヂミです。"
+        },
+        {
+            "question": "ワンテバクチヂミ村はどんな日におすすめですか？",
+            "answer": "ワンテバクチヂミ村は雨の日にぴったりの店です。"
+        }
+    ],
+    "word_Count": {
+        "text": 74,
+        "QA": 105
+    }
+}

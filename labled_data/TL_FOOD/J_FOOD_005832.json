@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_005832",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-05",
+        "domain": "음식점",
+        "title": "ゴスコルガーデン ( 고수골가든 )"
+    },
+    "text": "ゴスコルガーデン ( 고수골가든 )\\n\n全羅南道 海南郡 海南邑 コサンロ159-41\\n\n地鶏のコース料理を提供しています。代表的なメニューは地鶏の水炊きです。全羅南道のヘナム郡に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "ゴスコルガーデンはどこに位置していますか？",
+            "answer": "ゴスコルガーデンは全羅南道海南郡海南邑コサンロ159-41に位置しています。"
+        },
+        {
+            "question": "ゴスコルガーデンの特徴的なメニューは何ですか？",
+            "answer": "ゴスコルガーデンの特徴的なメニューは地鶏の水炊きです。"
+        },
+        {
+            "question": "ゴスコルガーデンはどんな種類のレストランですか？",
+            "answer": "ゴスコルガーデンは韓食専門店です。"
+        }
+    ],
+    "word_Count": {
+        "text": 76,
+        "QA": 110
+    }
+}

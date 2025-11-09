@@ -1,0 +1,31 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_029856",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/kokkiri-sikdang",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "コキリ食堂"
+    },
+    "text": "コキリ食堂\\n\n慶尚北道 アンドン市 プンチョン面 チョンニョンスプソロ7-19\\n\n様々な韓国料理が味わえる店です。慶尚北道のアンドン市に位置した韓食専門店です。おすすめはサムギョプサルです。",
+    "QA": [
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "この店は慶尚北道のアンドン市にあります。具体的な住所はプンチョン面チョンニョンスプソロ7-19です。"
+        },
+        {
+            "question": "この店では何の料理が食べられますか？",
+            "answer": "この店では様々な韓国料理が味わえます。特におすすめはサムギョプサルです。"
+        }
+    ],
+    "word_Count": {
+        "text": 71,
+        "QA": 85
+    }
+}

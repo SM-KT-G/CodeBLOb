@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_010114",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-06",
+        "domain": "음식점",
+        "title": "チングクソルロンタン ( 진국설렁탕 )"
+    },
+    "text": "チングクソルロンタン ( 진국설렁탕 )\\n\nソウル特別市 城東区 コサンジャロ293\\n\n24時間営業の店です。ソウル特別市のソンドン区に位置した韓食専門店です。おすすめはソルロンタンです。",
+    "QA": [
+        {
+            "question": "チングクソルロンタンはどこにありますか？",
+            "answer": "チングクソルロンタンはソウル特別市の城東区に位置しています。"
+        },
+        {
+            "question": "チングクソルロンタンの営業時間は何時から何時までですか？",
+            "answer": "チングクソルロンタンは24時間営業しています。"
+        },
+        {
+            "question": "チングクソルロンタンのおすすめメニューは何ですか？",
+            "answer": "チングクソルロンタンのおすすめはソルロンタンです。"
+        }
+    ],
+    "word_Count": {
+        "text": 70,
+        "QA": 110
+    }
+}

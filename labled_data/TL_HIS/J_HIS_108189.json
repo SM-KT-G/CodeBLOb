@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_108189",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/view?relicId=154854",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2023-10-11",
+        "domain": "문화/역사관광",
+        "title": "청자 대발 조각"
+    },
+    "text": "青磁竹片 (청자 대발 조각)\\n\n国籍と時代は、韓国の高麗時代の陶磁器の一つで、材質は青磁です。この作品は食生活に関連するものであり、食べ物の一部である足の形をしています。現在の長さは56cm、48cmで、高さは101cm、74cm、67cmです。",
+    "QA": [
+        {
+            "question": "この竹片は何国の何時代の作品ですか？",
+            "answer": "韓国の高麗時代の陶磁器であり、国籍は韓国、時代は高麗時代です。"
+        },
+        {
+            "question": "この竹片の材質は何ですか？",
+            "answer": "この竹片の材質は青磁です。"
+        },
+        {
+            "question": "この竹片はどのような形をしていますか？",
+            "answer": "この竹片は食べ物の一部である足の形をしています。"
+        },
+        {
+            "question": "この竹片の現在の長さと高さはそれぞれいくつですか？",
+            "answer": "現在の長さは56cm、48cmで、高さは101cm、74cm、67cmです。"
+        }
+    ],
+    "word_Count": {
+        "text": 91,
+        "QA": 132
+    }
+}

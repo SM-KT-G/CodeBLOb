@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_100831",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=828&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=00760000&ccbaCtcd=36&ccbaCpno=2333600760000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1985-02-15",
+        "domain": "문화/역사관광",
+        "title": "정운충신각"
+    },
+    "text": "チョンウン・チュンシンガク\\n\n全羅南道海南郡玉川面大山里534-1\\n\n全羅南道記念物、壬辰の乱の時、忠臣である忠壮公の正雲氏の功労を称えるために立てた角だ。忠壮公の正雲(ジョンウン)将軍は朝鮮中期の武臣に先祖3年(1570)に科挙に及第して熊川県監などを務めた。先祖25年(1592)に壬辰倭乱が起きると、李舜臣(イ・スンシン)将軍の指揮の下、大きな功績を立て、9月、釜山浦海戦で戦死した。この角は前面3間・側面1間規模で、屋根は側面から見ると、人の教わる字形をした切妻屋根で飾った。",
+    "QA": [
+        {
+            "question": "誰が角を建てたのですか？",
+            "answer": "正雲将軍の功績を称えるために、忠壮公の正雲氏が角を建てました。"
+        },
+        {
+            "question": "角の屋根の形はどのような形ですか？",
+            "answer": "角の屋根は側面から見ると、人の教わる字形をした切妻屋根で飾られています。"
+        },
+        {
+            "question": "角が建てられた場所はどこですか？",
+            "answer": "角は全羅南道海南郡玉川面大山里534-1に建てられています。"
+        },
+        {
+            "question": "正雲将軍は何のために戦死しましたか？",
+            "answer": "正雲将軍は壬辰倭乱の時、釜山浦海戦で戦死しました。"
+        },
+        {
+            "question": "正雲将軍の先祖は何を務めましたか？",
+            "answer": "正雲将軍の先祖は科挙に及第して熊川県監などを務めました。"
+        }
+    ],
+    "word_Count": {
+        "text": 178,
+        "QA": 168
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_015539",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-12",
+        "domain": "숙박",
+        "title": "ハンファリゾート龍仁Besançon（한화리조트 용인 베잔송）"
+    },
+    "text": "ハンファリゾート龍仁Besançon\n京畿道 龍仁市 処仁区 南四面 鳳舞路153番キル79\n「ハンファリゾート龍仁（ヨンイン）Besançon」はソウルからも近く、余裕ある36ホールゴルフコースの他、夏は屋外プール、冬は雪ソリなどを楽しめ、家族でのお出かけにもビジネスにも最適なリゾートです。",
+    "QA": [
+        {
+            "question": "このリゾートはどこにありますか？",
+            "answer": "ハンファリゾート龍仁（ヨンイン）Besançonは京畿道龍仁市処仁区南四面鳳舞路153番キル79に位置しています。"
+        },
+        {
+            "question": "このリゾートでは何が楽しめますか？",
+            "answer": "このリゾートでは36ホールのゴルフコースや屋外プール、雪ソリなどが楽しめます。"
+        },
+        {
+            "question": "このリゾートはどんな人におすすめですか？",
+            "answer": "このリゾートは家族でのお出かけやビジネス目的の方におすすめです。"
+        }
+    ],
+    "word_Count": {
+        "text": 107,
+        "QA": 132
+    }
+}

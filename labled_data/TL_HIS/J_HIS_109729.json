@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_109729",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=19&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=11&ccbaAsno=02200000&ccbaCtcd=11&ccbaCpno=1111102200000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1984-08-06",
+        "domain": "문화/역사관광",
+        "title": "청자 상감용봉모란문 합 및 탁"
+    },
+    "text": "青磁象嵌龍鳳牡丹文合及び托\\n\nソウル龍山区梨泰院路55キル60-16、ジャン·ジャン·ジャン(漢南洞)\\n\n高麗時代(13世紀)、国宝、高麗時代に作られた蓋付青磁大楪と高さ19.3センチ、口直径18.5センチ、下の直径6.8センチだ。ふたと台、水底まで完全に揃っている遺物として、蓋にリスの形の栓を作った。リスを中心にその下に白黒の象眼の二重蓮華(れんげ)文帯と波模様の帯を置き、その下に鳳凰と龍を刻んだ。器にスプーンを挿した時に蓋と器の距離が離れないように蓋の隅に溝を掘っており、おもてなしの口の端には稲妻形帯を巻く、その下に学科の雲紋様が規則的に解釈した。表面には二重の円を描いて、その中に牡丹を白黒の象眼で装飾しており、残りの余白は菊模様で埋めている。釉薬は部分的に黄緑色を帯びるが、おおむね晴天の方だ。ふた、接遇、脚の全面にわたって、象嵌されている文様表現が目立ち、当時の象眼模様がほぼ網羅されており、この遺物が王族階層で使用されたものと推定される。",
+    "QA": [
+        {
+            "question": "この蓋付青磁大楪の高さは何センチですか？",
+            "answer": "この蓋付青磁大楪の高さは19.3センチです。"
+        },
+        {
+            "question": "蓋には何の形の栓が作られていますか？",
+            "answer": "蓋にはリスの形の栓が作られています。"
+        },
+        {
+            "question": "この器はどの時代に作られましたか？",
+            "answer": "この器は高麗時代(13世紀)に作られました。"
+        },
+        {
+            "question": "この蓋付青磁大楪を使用していたのはどの階層の人々ですか？",
+            "answer": "この遺物が王族階層で使用されたものと推定されています。"
+        },
+        {
+            "question": "蓋と器の距離が離れないように工夫されている部分はどこですか？",
+            "answer": "蓋にはスプーンを挿した時に蓋と器の距離が離れないように溝が掘られています。"
+        }
+    ],
+    "word_Count": {
+        "text": 315,
+        "QA": 175
+    }
+}

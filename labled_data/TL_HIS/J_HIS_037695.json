@@ -1,0 +1,51 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_037695",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=264&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=13&ccbaAsno=04710000&ccbaCtcd=35&ccbaCpno=1333504710000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2006-04-06",
+        "domain": "문화/역사관광",
+        "title": "완주 위봉산성"
+    },
+    "text": "完州威鳳山城 (완주 위봉산성)\\n\n全羅北道完州郡昭陽面山7-4番地外1-32外\\n\n史跡、朝鮮後期の変乱に備えて住民を避難させ保護する目的で険しい地形を利用して粛宗元年(1675)~粛宗8年(1682年)に築かれた包谷式山城である。 城壁の周囲は約8、539m、城壁の高さは1.8~2.6mで、関連施設としては城門4ヶ所、岩門6ヶ所、竿2ヶ所、砲楼址13ヶ所、推定建物址15ヶ所、水口址1ヶ所が確認された。 一部の城壁を除いては城壁および城門、砲楼、女将、銃眼、暗門などがよく保存されており、他の山城とは異なり軍事的目的だけでなく有事の際に太祖·李成桂の遺影を祀るための行宮を城内に置くなど、朝鮮後期の城郭研究に貴重な資料となっている。",
+    "QA": [
+        {
+            "question": "この城はいつ築かれましたか？",
+            "answer": "この城は粛宗元年(1675)から粛宗8年(1682年)にかけて築かれました。"
+        },
+        {
+            "question": "城壁の周囲の長さは何メートルですか？",
+            "answer": "城壁の周囲は約8,539メートルです。"
+        },
+        {
+            "question": "城壁の高さはどれくらいですか？",
+            "answer": "城壁の高さは1.8~2.6メートルです。"
+        },
+        {
+            "question": "この城にはどのような関連施設がありますか？",
+            "answer": "城門4ヶ所、岩門6ヶ所、竿2ヶ所、砲楼址13ヶ所、推定建物址15ヶ所、水口址1ヶ所が確認されています。"
+        },
+        {
+            "question": "この城はどのような目的で築かれましたか？",
+            "answer": "この城は史跡であり、朝鮮後期の変乱に備えて住民を避難させ保護する目的で築かれました。"
+        },
+        {
+            "question": "この城は何のために祀られた行宮を持っているのですか？",
+            "answer": "この城は有事の際に太祖・李成桂の遺影を祀るための行宮を持っています。"
+        },
+        {
+            "question": "この城の保存状態はどうですか？",
+            "answer": "一部の城壁を除いては城壁および城門、砲楼、女将、銃眼、暗門などがよく保存されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 234,
+        "QA": 275
+    }
+}

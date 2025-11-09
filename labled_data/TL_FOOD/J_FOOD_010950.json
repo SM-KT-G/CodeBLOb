@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_010950",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "ドンソンル ( 동성루 )"
+    },
+    "text": "ドンソンル ( 동성루 )\n慶尚北道 安東市 黄土マウル1キル 6-2\n様々な種類の中華料理が味わえる店です。おすすめはジャージャー麺です。慶尚北道のアンドン市に位置した中華専門店です。",
+    "QA": [
+        {
+            "question": "この中華料理店の名前は何ですか？",
+            "answer": "ドンソンル ( 동성루 )"
+        },
+        {
+            "question": "この店はどこにありますか？",
+            "answer": "慶尚北道の安東市に位置しています。"
+        },
+        {
+            "question": "この店では何を食べることができますか？",
+            "answer": "様々な種類の中華料理が味わえます。特にジャージャー麺がおすすめです。"
+        },
+        {
+            "question": "この店の雰囲気はどうですか？",
+            "answer": "中華専門店ですので、中華風の雰囲気が漂っています。"
+        },
+        {
+            "question": "営業時間は何時から何時までですか？",
+            "answer": "営業時間は公式ウェブサイトでご確認ください。"
+        }
+    ],
+    "word_Count": {
+        "text": 68,
+        "QA": 139
+    }
+}

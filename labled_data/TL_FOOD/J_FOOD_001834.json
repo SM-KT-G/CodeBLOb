@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001834",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-12",
+        "domain": "음식점",
+        "title": "La Seineロッテホテルソウル（라세느 롯데호텔서울）"
+    },
+    "text": "La Seineロッテホテルソウル\\n\nソウル特別市 中区 乙支路 30\\n\nソウル特別市ウルチロイック駅の近くに位置したビュッフェです。代表的なメニューはビュッフェです。韓国の有名ホテル内に位置しています。",
+    "QA": [
+        {
+            "question": "Seineロッテホテルソウルはどこに位置していますか？",
+            "answer": "ソウル特別市 中区 乙支路 30に位置しています。"
+        },
+        {
+            "question": "Seineロッテホテルソウルの近くには何がありますか？",
+            "answer": "ソウル特別市ウルチロイック駅が近くにあります。"
+        },
+        {
+            "question": "Seineロッテホテルソウルの特徴的なメニューは何ですか？",
+            "answer": "代表的なメニューはビュッフェです。"
+        },
+        {
+            "question": "Seineロッテホテルソウルはどのような場所に位置していますか？",
+            "answer": "Seineロッテホテルソウルは韓国の有名ホテル内に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 76,
+        "QA": 156
+    }
+}

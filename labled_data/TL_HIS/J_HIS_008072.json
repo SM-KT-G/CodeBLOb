@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_008072",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=862&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=01390000&ccbaCtcd=38&ccbaCpno=2333801390000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1994-07-04",
+        "domain": "문화/역사관광",
+        "title": "고성 소을비포진성"
+    },
+    "text": "固城小乙非包振性 (고성 소을비포진성)\\n\n慶尚南道高城郡下一面東和里398-4外9筆地\\n\n慶尚南道記念物 , 固城ソウルビポジン城は朝鮮時代の水軍が戦闘のために海岸の壁に積み上げた城郭だ。 世宗30年(1448)に世宗実録巻121で初めてソウルビポが登場し、当時軍艦製作に使われる松の栽培地だったという記録がある。 また、沙梁津だった地名を世祖1年(1455)に蘇乙飛浦に変えた。 浦を守護する水軍だけが湖営の所在地だったためだ。 「蘇乙飛浦城は県の西側47里にあり、成宗22年(1491)に築かれた。 周囲は835隻（250メートル）だ。 蘇乙飛浦城には朝鮮時代に規模の小さい地域の首長である従九品権官が派遣された」という記録が大同地誌に伝える。 兵士を呼び集める所であるソモジンを宣祖37年に巨済に移し、宣祖39年にここに再び移した。 この時、地名をソビポから今の名前であるソウルビポに変え、内陸に深く入った港の東側丘陵稜線の端にソウルビポ城を作った。 平面形態は半円形であり、周囲330m、体性の幅は5~6mだ。 体城を築いた方法は朝鮮時代の邑城の築いた方法と似ている。 門址3ヶ所と雉城、城内には建物址が確認され、そのうち工房の跡が確認された。",
+    "QA": [
+        {
+            "question": "固城ソウルビポジン城は何時代に建てられましたか？",
+            "answer": "固城ソウルビポジン城は朝鮮時代に建てられました。"
+        },
+        {
+            "question": "ソウルビポジン城はどのような目的で建設されましたか？",
+            "answer": "ソウルビポジン城は水軍が戦闘のために海岸の壁に積み上げた城郭です。"
+        },
+        {
+            "question": "ソウルビポジン城の周囲の長さはどれくらいですか？",
+            "answer": "ソウルビポジン城の周囲の長さは330mです。"
+        },
+        {
+            "question": "ソウルビポジン城の平面形態はどのような形ですか？",
+            "answer": "ソウルビポジン城の平面形態は半円形です。"
+        },
+        {
+            "question": "ソウルビポジン城内にはどのような建物がありましたか？",
+            "answer": "ソウルビポジン城内には建物址が確認され、工房の跡も確認されました。"
+        }
+    ],
+    "word_Count": {
+        "text": 387,
+        "QA": 187
+    }
+}

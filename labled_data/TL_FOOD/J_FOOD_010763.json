@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_010763",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-06",
+        "domain": "음식점",
+        "title": "トバンネ ( 터방내 )"
+    },
+    "text": "トバンネ ( 터방내 )\\n\nソウル特別市 銅雀区 フクソクロ101-7\\n\n1983年にオープンした老舗です。ソウル特別市のドンジャク区に位置したカフェ（コーヒーショップ）です。代表的なメニューはコーヒーです。",
+    "QA": [
+        {
+            "question": "このカフェの名前は何ですか？",
+            "answer": "トバンネ（터방내）です。"
+        },
+        {
+            "question": "このカフェはいつオープンしましたか？",
+            "answer": "1983年にオープンしました。"
+        },
+        {
+            "question": "このカフェはどこに位置していますか？",
+            "answer": "ソウル特別市の銅雀区フクソクロ101-7に位置しています。"
+        },
+        {
+            "question": "このカフェの代表的なメニューは何ですか？",
+            "answer": "コーヒーです。"
+        }
+    ],
+    "word_Count": {
+        "text": 77,
+        "QA": 97
+    }
+}

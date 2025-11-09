@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_019736",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101933",
+        "collectedDate": "2023-10-06",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "북충주IC"
+    },
+    "text": "北忠州IC\\n\n北忠州インターチェンジ(N.Chungju IC)は忠清北道忠州市老隠面新孝里と水龍里にかけて設置された平沢提川高速道路の13番、中部内陸高速道路の23番交差点だ。 平沢~堤川高速道路では堤川方向への進入と平沢方向への進出だけが可能だ。 国家支援地方道第82号線を通じて老隠面、中央塔面などに進出でき、インターチェンジ周辺には乙宮山、中央塔公園(中院塔坪里7重石塔)がある。",
+    "QA": [
+        {
+            "question": "北忠州ICはどこにありますか？",
+            "answer": "北忠州ICは忠清北道忠州市老隠面新孝里と水龍里に位置しています。"
+        },
+        {
+            "question": "北忠州IC周辺には何がありますか？",
+            "answer": "北忠州IC周辺には乙宮山と中央塔公園（中院塔坪里7重石塔）があります。"
+        },
+        {
+            "question": "北忠州ICからどの方向に進入できますか？",
+            "answer": "北忠州ICからは堤川方向への進入ができます。"
+        },
+        {
+            "question": "北忠州ICからどの方向に進出できますか？",
+            "answer": "北忠州ICからは平沢方向への進出ができます。"
+        },
+        {
+            "question": "北忠州ICを通じてどの地域に進出できますか？",
+            "answer": "北忠州ICを通じて国家支援地方道第82号線を通じて老隠面や中央塔面などに進出できます。"
+        }
+    ],
+    "word_Count": {
+        "text": 143,
+        "QA": 181
+    }
+}

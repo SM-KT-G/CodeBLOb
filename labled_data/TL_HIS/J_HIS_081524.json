@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_081524",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/view?relicId=77304",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2023-10-11",
+        "domain": "문화/역사관광",
+        "title": "석관"
+    },
+    "text": "石棺 (석관)\\n\n国籍と時代は韓国で、材質は石です。この石は、社会生活の中の儀礼生活において使用される冠の一部です。冠の大きさは、長さが687cm、幅が558cm、厚さが18cmです。また、冠の他の部分もあり、その大きさは長さが64cm、幅が35cm、厚さが2cmです。さらに、別の部分の大きさは長さが613cm、幅が359cm、厚さが23％で、長さが66％、幅が363％です。",
+    "QA": [
+        {
+            "question": "この石棺はどの国籍ですか？",
+            "answer": "韓国です。"
+        },
+        {
+            "question": "この石棺の材質は何ですか？",
+            "answer": "石です。"
+        },
+        {
+            "question": "この石棺は何のために使用されますか？",
+            "answer": "社会生活の中の儀礼生活において使用される冠の一部です。"
+        },
+        {
+            "question": "この石棺の大きさはどのくらいですか？",
+            "answer": "長さが687cm、幅が558cm、厚さが18cmです。"
+        },
+        {
+            "question": "この石棺の他の部分の大きさはどのくらいですか？",
+            "answer": "別の部分の大きさは長さが64cm、幅が35cm、厚さが2cmです。"
+        },
+        {
+            "question": "この石棺の別の部分の大きさはどのくらいですか？",
+            "answer": "別の部分の大きさは長さが613cm、幅が359cm、厚さが23％です。"
+        }
+    ],
+    "word_Count": {
+        "text": 139,
+        "QA": 175
+    }
+}

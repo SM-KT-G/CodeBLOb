@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_055299",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "スンミネヘンボクケジャン 東大門（순미네행복게장 동대문）"
+    },
+    "text": "スンミネヘンボクケジャン 東大門（순미네행복게장 동대문）\\n\nソウル特別市 中区 乙支路43キル 38\\n\nケジャン(タレ漬けカニ)を食べ放題でお楽しみいただけます。代表的なメニューはカンジャンケジャンです。この店はソウル特別市のトンデムンに位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "ソウル特別市 中区 乙支路43キル 38に位置しています。"
+        },
+        {
+            "question": "この店の代表的なメニューは何ですか？",
+            "answer": "代表的なメニューはカンジャンケジャンです。"
+        },
+        {
+            "question": "この店で食べ放題のケジャンを楽しむことができますか？",
+            "answer": "はい、この店ではケジャンを食べ放題で楽しむことができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 98,
+        "QA": 99
+    }
+}

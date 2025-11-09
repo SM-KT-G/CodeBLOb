@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_050069",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=46&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=01980000&ccbaCtcd=37&ccbaCpno=1123701980000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1963-01-21",
+        "domain": "문화/역사관광",
+        "title": "경주 남산 불곡 마애여래좌상"
+    },
+    "text": "三国時代に宝物な石仏があるが、この石仏は、慶州は南山の裾の東側にある省庁谷間のある岩に深みが1m程度掘られたところに位置している。石仏は、頭に頭巾を使っているが耳まで覆っており、顔は丸くて少し下がりている。目は腫れたようで着た深く掘られており、内面の微笑がよく現われている。このような特徴からみて、インワンリ石仏坐像と似ているが、全体的には美しく女性的な姿勢を見せてくれる。衣服は、肩にかけていたが、下に長く垂らしては台座まで覆っている。裾は波模様のように彫刻されており、全体的に調和で美しい。この石仏は、慶州(キョンジュ)南山(ナムサン)にある新羅石仏の中で一番古いと推定され、三国時代後期に作られたものとみられる。それでここが省庁の谷と呼ばれるようになった。",
+    "QA": [
+        {
+            "question": "この石仏はどこに位置していますか？",
+            "answer": "この石仏は、慶州の南山の裾の東側にある省庁谷間のある岩に深みが1m程度掘られたところに位置しています。"
+        },
+        {
+            "question": "この石仏はどのような特徴を持っていますか？",
+            "answer": "この石仏は、頭に頭巾を使っており、耳まで覆っています。顔は丸くて少し下がりており、目は腫れたようで着た深く掘られています。内面の微笑がよく現れており、全体的には美しく女性的な姿勢を見せてくれます。衣服は肩にかけていたが、下に長く垂らしては台座まで覆っていて、裾は波模様のように彫刻されています。"
+        },
+        {
+            "question": "この石仏はいつ作られたと推定されていますか？",
+            "answer": "この石仏は、慶州南山にある新羅石仏の中で一番古いと推定され、三国時代後期に作られたものとみられています。"
+        },
+        {
+            "question": "なぜここが省庁の谷と呼ばれるようになったのですか？",
+            "answer": "この石仏が位置している慶州の南山の谷間は、かつて省庁のための重要な地域であったため、省庁の谷と呼ばれるようになりました。"
+        }
+    ],
+    "word_Count": {
+        "text": 242,
+        "QA": 289
+    }
+}

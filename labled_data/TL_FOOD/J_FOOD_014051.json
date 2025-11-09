@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_014051",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "マンリヒャン ( 만리향 )"
+    },
+    "text": "マンリヒャン ( 만리향 )\\n\n江原道 華川郡 上西面 ヨンソロ7706-1\\n\nリーズナブルな価格でおいしい中華料理が味わえる店です。江原道のファチョン郡に位置した中華専門店です。代表的なメニューは酢豚です。",
+    "QA": [
+        {
+            "question": "この中華専門店はどこにありますか？",
+            "answer": "この中華専門店は江原道華川郡上西面ヨンソロ7706-1にあります。"
+        },
+        {
+            "question": "この店の特徴的な料理は何ですか？",
+            "answer": "この店の代表的な料理は酢豚です。リーズナブルな価格でおいしい中華料理が味わえます。"
+        },
+        {
+            "question": "この店の価格帯はどのくらいですか？",
+            "answer": "この店はリーズナブルな価格で提供されています。具体的な価格は店内のメニューに記載されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 77,
+        "QA": 125
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_098724",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "草原の家 ( 초원의집 )"
+    },
+    "text": "草原の家 ( 초원의집 )\nソウル特別市 中区 三一大路 299\n15年以上の経歴を持つ韓国料理専門店です。おすすめはカンジャンケジャンです。ソウル特別市のジュン区に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "この韓国料理専門店の場所はどこですか？",
+            "answer": "草原の家 ( 초원의집 ) はソウル特別市中区三一大路299に位置しています。"
+        },
+        {
+            "question": "この韓国料理専門店はどれくらいの経歴を持っていますか？",
+            "answer": "草原の家 ( 초원의집 ) は15年以上の経歴を持つ韓国料理専門店です。"
+        },
+        {
+            "question": "この韓国料理専門店のおすすめ料理は何ですか？",
+            "answer": "草原の家 ( 초원의집 ) のおすすめ料理はカンジャンケジャンです。"
+        },
+        {
+            "question": "この韓国料理専門店はどの区に位置していますか？",
+            "answer": "草原の家 ( 초원의집 ) はソウル特別市のジュン区に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 69,
+        "QA": 172
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_003584",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1271&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=80&ccbaAsno=00030000&ccbaCtcd=40&ccbaCpno=8004000030000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2009-08-26",
+        "domain": "문화/역사관광",
+        "title": "서도선소리산타령‘놀량사거리’"
+    },
+    "text": "ソドソンソリサンタリョン「ノリャン交差点」 (서도선소리산타령‘놀량사거리’ )\\n\n黄海道\\n\n以北5島無形文化財 , ソンソリサンタリョンは『ソンソリ』、『サンタリョン』、『ノルリャン』など様々な名前で呼ばれ、ソウル·京畿道を中心に伝承された京畿ソンソリサンタリョンと黄海道を中心に発達したソドソンソリサンタリョンに分かれ、17C頃に原型が成立したものと見られる黄海道地域の代表的な郷土文化である。特に、ノリャンは歌と塗り絵で構成された板で連行されるマダンの音一つで高度の音楽性と大衆芸術性を持ち、2オクターブの広い音域を持っており、音が迫力にあふれたくましい趣を漂わせながら興をそそる男性的な音楽だ。",
+    "QA": [
+        {
+            "question": "このソドソンソリサンタリョンはどの地域で伝承されていますか？",
+            "answer": "黄海道地域で伝承されています。"
+        },
+        {
+            "question": "ソドソンソリサンタリョンは何で構成されていますか？",
+            "answer": "ソドソンソリサンタリョンは歌と塗り絵で構成された板で連行されるマダンの音一つで構成されています。"
+        },
+        {
+            "question": "ノリャンはどのような特徴を持っていますか？",
+            "answer": "ノリャンは2オクターブの広い音域を持ち、高度の音楽性と大衆芸術性を持っており、男性的な音楽です。"
+        }
+    ],
+    "word_Count": {
+        "text": 222,
+        "QA": 137
+    }
+}

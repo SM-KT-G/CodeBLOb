@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_004469",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "カフェヒルロ ソチャン（카페힐로 서창）"
+    },
+    "text": "カフェヒルロ ソチャン（카페힐로 서창）\\n\n仁川広域市 南洞区 西倉南路 69\\n\n仁川広域市のナムドン区に位置したカフェ（コーヒーショップ）です。代表的なメニューはコーヒーです。コーヒーとサンドイッチを一緒にお楽しみいただけます。",
+    "QA": [
+        {
+            "question": "カフェヒルロ ソチャンはどこにありますか？",
+            "answer": "カフェヒルロ ソチャンは仁川広域市の南洞区に位置しています。"
+        },
+        {
+            "question": "カフェヒルロ ソチャンの代表的なメニューは何ですか？",
+            "answer": "カフェヒルロ ソチャンの代表的なメニューはコーヒーです。"
+        },
+        {
+            "question": "カフェヒルロ ソチャンでは何を楽しむことができますか？",
+            "answer": "カフェヒルロ ソチャンではコーヒーとサンドイッチを一緒に楽しむことができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 85,
+        "QA": 125
+    }
+}

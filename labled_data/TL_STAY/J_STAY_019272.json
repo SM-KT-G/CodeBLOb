@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_019272",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42010&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "광주 k401펜션"
+    },
+    "text": "教えることなく一つの段落にまとめてください。 昆池岩リゾートに行く街角に位置するK401は、町の中心に位置し、都市的風景は少しずつ薄くなり、自然の濃度が濃くなり始める場所があります。 お茶一杯の余裕が楽しめるカフェと夏にはPrivateプール、冬には昆池岩スキー場を利用するスキーヤーのための憩いの場となるSTAY2軒で単独Villageが形成されています。 K401を訪れるすべての方々が暮らしの余裕を楽しめる空間になるよう努力します。 お知らせ 22時以降に入室される場合、ペンションまで予めご連絡ください。 \".",
+    "QA": [
+        {
+            "question": "昆池岩リゾートはどのような場所ですか？",
+            "answer": "昆池岩リゾートは町の中心に位置し、都市的風景は少しずつ薄くなり、自然の濃度が濃くなり始める場所です。"
+        },
+        {
+            "question": "K401はどのような施設ですか？",
+            "answer": "K401はカフェとプール、スキー場を備えたステイ2軒からなる憩いの場です。"
+        },
+        {
+            "question": "K401を訪れると何が楽しめますか？",
+            "answer": "K401を訪れるすべての方々がお茶一杯の余裕を楽しめるカフェや夏にはプライベートプール、冬には昆池岩スキー場を利用できるスキーヤーのための憩いの場があります。"
+        },
+        {
+            "question": "何時以降に入室する場合、連絡が必要ですか？",
+            "answer": "22時以降に入室される場合は、事前にペンションへご連絡ください。"
+        }
+    ],
+    "word_Count": {
+        "text": 189,
+        "QA": 199
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_011536",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1089&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=02010000&ccbaCtcd=34&ccbaCpno=3413402010000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1984-05-17",
+        "domain": "문화/역사관광",
+        "title": "남문리오층석탑"
+    },
+    "text": "南門里五重石塔 (남문리오층석탑)\\n\n忠清南道泰安郡泰安邑南門里436-1\\n\n高麗時代 , 忠清南道文化財資料 , 南門里村の中に位置している塔で、広く用意された石段の上に置かれている。 数年前まで周辺で瓦礫が発見され、近隣民家の前で小さな石仏が発見され、ここが寺跡だったことを物語っている。 概して破損がひどくないこの塔は基壇を1階に積み、その上に5階の塔身を上げた姿だ。 基壇は上の石を支える部分に2段の高い塊任を置いた。 塔身の各屋根石は底面に4段ずつの支えが刻まれており、直線を描いていた軒は両端からゆっくりと上に聞こえている。 てっぺんには四角い台石の上に高い頭飾りをのせて仕上げている。 上に上がるほど減る割合がそれほど大きくなく、細長い印象を与えている。 全体的なスタイルから見て、高麗時代後期の作品と推測される。",
+    "QA": [
+        {
+            "question": "この南門里五重石塔はどの時代に建てられましたか？",
+            "answer": "高麗時代に建てられました。"
+        },
+        {
+            "question": "この塔は何に使われていましたか？",
+            "answer": "この塔はおそらく寺跡の一部として使用されていたと考えられます。"
+        },
+        {
+            "question": "この塔の特徴的なデザインは何ですか？",
+            "answer": "この塔は基壇を1階に積み、その上に5階の塔身を上げた姿が特徴です。"
+        },
+        {
+            "question": "塔身の各屋根石には何が刻まれていますか？",
+            "answer": "塔身の各屋根石には底面に4段ずつの支えが刻まれています。"
+        },
+        {
+            "question": "この塔はどの時代に作られたと推測されますか？",
+            "answer": "全体的なスタイルから見て、高麗時代後期の作品と推測されます。"
+        }
+    ],
+    "word_Count": {
+        "text": 268,
+        "QA": 172
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_019574",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42020&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "창녕 남지 러브홀릭"
+    },
+    "text": "基本規定入室時によって人数は2人と定められており、追加人数がいる場合、現場で追加料金が決済されなければなりません。 客室はチェックイン時に割り当てられ、上記の画像とは異なる場合があります。 また、オンシーズンおよび特定日、祝日(前日を含む)には料金が変わる場合があります。",
+    "QA": [
+        {
+            "question": "チェックイン時に割り当てられる客室はどのように決まりますか？",
+            "answer": "客室は予約時に希望の部屋タイプを選択できますが、チェックイン時に実際の客室が割り当てられます。希望に添えない場合もありますので、ご了承ください。"
+        },
+        {
+            "question": "追加人数がいる場合、追加料金はいくらですか？",
+            "answer": "追加人数がいる場合、追加料金が発生します。具体的な料金は現場で決済されますので、お問い合わせいただくか、チェックイン時にご確認ください。"
+        },
+        {
+            "question": "オンシーズンや特定日、祝日の料金は通常と比べていくらくらい高くなりますか？",
+            "answer": "オンシーズンや特定日、祝日(前日を含む)には料金が通常よりも高くなる場合があります。具体的な料金は日によって異なりますので、予約時にご確認ください。"
+        }
+    ],
+    "word_Count": {
+        "text": 99,
+        "QA": 222
+    }
+}

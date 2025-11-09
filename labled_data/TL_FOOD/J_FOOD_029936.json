@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_029936",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/little-much",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "LITTLE & MUCH"
+    },
+    "text": "LITTLE & MUCH\\n\nソウル特別市 江南区 鶴洞路56キル 49\\n\nLITTLE & MUCH（リトルアンドマッチ）はパティシエ夫婦が営むムースケーキ専門店です。ケーキの種類が多い方で、コーヒーや紅茶もあります。",
+    "QA": [
+        {
+            "question": "リトルアンドマッチはどんな種類のケーキを提供していますか？",
+            "answer": "リトルアンドマッチでは、ムースケーキを専門としており、様々な種類のケーキを提供しています。"
+        },
+        {
+            "question": "リトルアンドマッチにはコーヒーや紅茶もありますか？",
+            "answer": "はい、リトルアンドマッチにはコーヒーや紅茶も取り揃えています。"
+        },
+        {
+            "question": "リトルアンドマッチの場所はどこですか？",
+            "answer": "リトルアンドマッチはソウル特別市江南区鶴洞路56キル49にあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 82,
+        "QA": 134
+    }
+}

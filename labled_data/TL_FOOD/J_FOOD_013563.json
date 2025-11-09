@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_013563",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-13",
+        "domain": "음식점",
+        "title": "ホバンタッカルビ ( 호반닭갈비 )"
+    },
+    "text": "ホバンタッカルビ \\n\n江原道 原州市 ウンビ1ギル17\\n\n新鮮なタッカルビを仕入れて提供している店です。おすすめはチーズタッカルビです。江原道のウォンジュ市に位置した韓国料理店です。",
+    "QA": [
+        {
+            "question": "ホバンタッカルビはどのようなお店ですか？",
+            "answer": "ホバンタッカルビは新鮮なタッカルビを仕入れて提供している店です。チーズタッカルビがおすすめです。"
+        },
+        {
+            "question": "ホバンタッカルビはどこにありますか？",
+            "answer": "ホバンタッカルビは江原道原州市のウンビ1ギル17に位置しています。"
+        },
+        {
+            "question": "タッカルビ以外のメニューはありますか？",
+            "answer": "はい、タッカルビ以外にも様々な韓国料理があります。お店によって異なる場合がありますので、予約やメニュー確認をおすすめします。"
+        }
+    ],
+    "word_Count": {
+        "text": 68,
+        "QA": 146
+    }
+}

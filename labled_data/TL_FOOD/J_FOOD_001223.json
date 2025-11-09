@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001223",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "2CAFE ( 2카페 )"
+    },
+    "text": "2CAFE ( 2카페 )\\n\nソウル特別市 ヨンドゥンポ区 ダンサンロ36ギル5\\n\n様々なコーヒーが味わえる店です。代表的なメニューはアメリカーノです。ソウル特別市のヨンドゥンポ区に位置したカフェ（コーヒーショップ）です。",
+    "QA": [
+        {
+            "question": "2CAFEはどこに位置していますか？",
+            "answer": "2CAFEはソウル特別市のヨンドゥンポ区に位置しています。"
+        },
+        {
+            "question": "2CAFEではどのようなコーヒーが味わえますか？",
+            "answer": "2CAFEでは様々なコーヒーが味わえます。代表的なメニューはアメリカーノです。"
+        },
+        {
+            "question": "2CAFEのおすすめメニューは何ですか？",
+            "answer": "2CAFEのおすすめメニューはアメリカーノです。"
+        }
+    ],
+    "word_Count": {
+        "text": 82,
+        "QA": 112
+    }
+}

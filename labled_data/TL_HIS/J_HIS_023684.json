@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_023684",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=799&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=00380000&ccbaCtcd=37&ccbaCpno=2333700380000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1982-08-04",
+        "domain": "문화/역사관광",
+        "title": "신유장군 유적"
+    },
+    "text": "新遊将軍遺跡 (신유장군 유적)\\n\n慶尚北道漆谷郡新流路172(若木面)\\n\n朝鮮 , 慶尚北道記念物 , 朝鮮中期の武臣臣有(1619~1680)将軍の位牌を祀った祠堂だ。 申維は仁祖24年(1646)、武科に及第した後、様々な官職をあまねく歴任した。 咸鏡北道兵馬雨侯だった時、中国清の頼みで孝宗9年(1658)軍隊を率いて黒竜江付近でロシア軍の船10隻と270人余りの兵士を倒す大きな功績を立てた。 これを羅先征伐といい、将軍はこの遠征の内容を『北征日記』という記録で後世に残した。 『北征日記』は韓国とロシアの間で最初の接触で現地司令官が書いた記録という点で世界史的な資料と評価されている。",
+    "QA": [
+        {
+            "question": "この遺跡はどこにありますか？",
+            "answer": "新遊将軍遺跡は慶尚北道漆谷郡新流路にあります。"
+        },
+        {
+            "question": "新遊将軍遺跡は何を祀っていますか？",
+            "answer": "新遊将軍遺跡は朝鮮中期の武臣臣有である将軍の位牌を祀った祠堂です。"
+        },
+        {
+            "question": "将軍はどのような功績を立てたのですか？",
+            "answer": "将軍は咸鏡北道兵馬雨侯だった時、中国清の頼みで孝宗9年(1658)に軍隊を率いて黒竜江付近でロシア軍を撃退しました。"
+        },
+        {
+            "question": "将軍の遠征内容はどのように記録されていますか？",
+            "answer": "将軍はこの遠征の内容を『北征日記』という記録で後世に残しました。『北征日記』は韓国とロシアの間で最初の接触で現地司令官が書いた記録として世界史的な資料とされています。"
+        }
+    ],
+    "word_Count": {
+        "text": 220,
+        "QA": 198
+    }
+}

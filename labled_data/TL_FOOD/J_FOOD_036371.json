@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_036371",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2022-11-04",
+        "domain": "음식점",
+        "title": "컬드삭"
+    },
+    "text": "Cul de Sacはフランス語で行き止まりという意味を持っています。 ここは夕日が沈むときに美しい風景を鑑賞できる場所として知られています。 1階はカフェとして運営されており、美味しい飲み物が楽しめます。 3階はレストランとして運営されており、ミシュランスターレストランで豊富な経歴を積んだシェフが素晴らしい料理を調理しています。 その他にもCul de Sacは川辺に位置し、漢江と美しい庭園風景を鑑賞することができる場所として有名です。 このような美しい環境のため、Cul de Sacはウェディング場所としても多く活用されます。",
+    "QA": [
+        {
+            "question": "Cul de Sacの場所はどこですか？",
+            "answer": "Cul de Sacは川辺に位置しており、美しい庭園風景を楽しむことができます。"
+        },
+        {
+            "question": "Cul de Sacの1階では何が楽しめますか？",
+            "answer": "Cul de Sacの1階はカフェとして運営されており、美味しい飲み物を楽しむことができます。"
+        },
+        {
+            "question": "Cul de Sacの3階では何が提供されていますか？",
+            "answer": "Cul de Sacの3階ではレストランとして運営されており、ミシュランスターレストランで豊富な経歴を持つシェフが素晴らしい料理を提供しています。"
+        },
+        {
+            "question": "Cul de Sacはウェディング場所としても利用されますか？",
+            "answer": "はい、Cul de Sacは美しい環境のため、ウェディング場所としてもよく利用されます。"
+        }
+    ],
+    "word_Count": {
+        "text": 196,
+        "QA": 224
+    }
+}

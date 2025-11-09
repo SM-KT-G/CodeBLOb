@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_037748",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=367&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=00050000&ccbaCtcd=11&ccbaCpno=2111100050000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1972-05-25",
+        "domain": "문화/역사관광",
+        "title": "정업원 터"
+    },
+    "text": "淨業院の跡 (정업원 터)\\n\nソウル鍾路区崇仁洞山3番地\\n\n英祖47年(1771年)、ソウル特別市有形文化財、端宗の王妃である貞純王后宋氏を追慕するために建てられた碑だ。 ソン氏は端宗が寧越で死に遭うと、ジョン・オプウォンに留まり一生彼の冥福を祈った。 ジョン・オプウォンは女僧房で、もともと昌徳宮からそれほど遠くない都城の中にあるものだが、城の外にあったという伝説に従って、ここに碑を建て碑閣も建てることになった。 これは貞純王后宋氏が東大門の外のここで過ごした事実とジョン・オプウォンの住職としてあったことが絡み合って誤って伝えてきたものと見られる。 朝鮮英祖47年(1771)に建てられた碑で、碑文の一部と碑閣扁額の文は王が直接書いたものだ。",
+    "QA": [
+        {
+            "question": "この碑はいつ建てられましたか？",
+            "answer": "英祖47年(1771年)に建てられました。"
+        },
+        {
+            "question": "この碑は誰のために建てられましたか？",
+            "answer": "この碑は端宗の王妃である貞純王后宋氏を追慕するために建てられました。"
+        },
+        {
+            "question": "ジョン・オプウォンはどこにあるのですか？",
+            "answer": "ジョン・オプウォンはソウルの都城の中にあります。"
+        },
+        {
+            "question": "ジョン・オプウォンの住職は誰でしたか？",
+            "answer": "ジョン・オプウォンの住職は貞純王后宋氏でした。"
+        },
+        {
+            "question": "この碑の碑文と碑閣扁額は誰が書きましたか？",
+            "answer": "碑文の一部と碑閣扁額の文は王が直接書いたものです。"
+        }
+    ],
+    "word_Count": {
+        "text": 239,
+        "QA": 161
+    }
+}

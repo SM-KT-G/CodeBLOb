@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_005034",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://apis.data.go.kr/1400000/service/cultureInfoService2/mntInfoOpenAPI2",
+        "collectedDate": "2023-11-22",
+        "publishedDate": "2020-12-01",
+        "domain": "자연관광",
+        "title": "경마산"
+    },
+    "text": "競馬の山 (경마산)\\n\n慶尚北道漆谷郡石積邑南栗里\\n\n競馬山は住居団地裏の小山のように頂上の高さが高くなく緩やかな傾斜が続き散歩兼登山に容易で、主に松葉の匂いでフィトンチッド効果がある。 中間地点の突出した地点からは都心が見下ろせるが、頂上からは霞んで景観が遮られている。",
+    "QA": [
+        {
+            "question": "競馬の山はどこにありますか？",
+            "answer": "競馬の山は慶尚北道漆谷郡石積邑南栗里にあります。"
+        },
+        {
+            "question": "競馬の山の特徴は何ですか？",
+            "answer": "競馬の山は住居団地裏の小山で、頂上の高さが高くなく緩やかな傾斜が続いています。散歩や登山には容易で、松葉の匂いでフィトンチッド効果があります。"
+        },
+        {
+            "question": "競馬の山からは何が見えますか？",
+            "answer": "競馬の山の中間地点の突出した地点からは都心が見下ろせますが、頂上からは霞んで景観が遮られています。"
+        }
+    ],
+    "word_Count": {
+        "text": 101,
+        "QA": 136
+    }
+}

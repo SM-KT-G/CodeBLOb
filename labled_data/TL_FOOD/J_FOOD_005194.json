@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_005194",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "グデガコッ( 그대가꽃 )"
+    },
+    "text": "グデガコッ( 그대가꽃 )\\n\n全羅南道モクポ市ユドンロ42ボンギル5\\n\n木浦の観光地の一つである近代歴史館からアクセスしやすいカフェです。 全羅南道のに位置したカフェ（コーヒーショップ）です。おすすめはアイスラテです。",
+    "QA": [
+        {
+            "question": "このカフェはどこにありますか？",
+            "answer": "グデガコッ（그대가꽃）は全羅南道モクポ市ユドンロ42ボンギル5に位置しています。"
+        },
+        {
+            "question": "このカフェはどのようにアクセスできますか？",
+            "answer": "グデガコッ（그대가꽃）は近代歴史館からアクセスしやすいです。"
+        },
+        {
+            "question": "全羅南道の観光地の一つである近代歴史館はどこにありますか？",
+            "answer": "近代歴史館は木浦に位置しています。"
+        },
+        {
+            "question": "このカフェのおすすめは何ですか？",
+            "answer": "グデガコッ（그대가꽃）のおすすめはアイスラテです。"
+        }
+    ],
+    "word_Count": {
+        "text": 81,
+        "QA": 141
+    }
+}

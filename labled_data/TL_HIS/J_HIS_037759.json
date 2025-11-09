@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_037759",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=160&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=14630100&ccbaCtcd=22&ccbaCpno=1122214630000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2006-04-28",
+        "domain": "문화/역사관광",
+        "title": "용비어천가 권8, 9, 10"
+    },
+    "text": "竜飛御天歌 巻8·9·10 (용비어천가 권8、9、10)\\n\n大邱広域市達西区\\n\n世宗29年(1447)、宝物、『龍飛御天歌』は訓民正音が創製された後、正音として記録された最初の文献であると同時に『月印千江之曲』と共に朝鮮時代の楽章文学の代表的作品と評価されている本で、世宗朝の国語学と書誌学研究に重要な資料である。 啓明大学校所蔵の『龍飛御天歌』は全10巻のうち巻8~巻10の3巻で、字体は朝鮮初期に流行した趙孟夫の松雪体と判刻したものであり、判心には朝鮮初期の形式である黒口に内向黒魚尾があり、初刊本と推定される。 しかし、この本は章次にあり、いくつかの五角があり、修正した跡があることから見て、初版本の本版の修正を経て引き出したものと見られる。",
+    "QA": [
+        {
+            "question": "龍飛御天歌は何年に創製されましたか？",
+            "answer": "龍飛御天歌は世宗29年(1447)に創製されました。"
+        },
+        {
+            "question": "『龍飛御天歌』はどのような文献ですか？",
+            "answer": "『龍飛御天歌』は訓民正音が創製された後、正音として記録された最初の文献です。また、朝鮮時代の楽章文学の代表的作品とされています。"
+        },
+        {
+            "question": "『龍飛御天歌』はどのような字体で刻まれていますか？",
+            "answer": "『龍飛御天歌』は朝鮮初期に流行した趙孟夫の松雪体と判刻されています。判心には黒口に内向黒魚尾という初期の形式があります。"
+        },
+        {
+            "question": "『龍飛御天歌』の本版は修正されたものですか？",
+            "answer": "はい、『龍飛御天歌』の本版は修正を経て引き出されたものと見られます。章次や五角の存在、修正した跡が見受けられるため、初版本の本版を修正したものと考えられます。"
+        }
+    ],
+    "word_Count": {
+        "text": 239,
+        "QA": 229
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_011284",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2020-12-21",
+        "domain": "음식점",
+        "title": "ノルブプデチゲ&鉄板焼き( 놀부부대찌개&철판구이 )"
+    },
+    "text": "ノルブプデチゲ&鉄板焼き( 놀부부대찌개&철판구이 )\\n\nソウル特別市 ヨンドゥンポ区 ギョンインロ775\\n\nプデチゲはいろいろなハムと韓国式のスープをソースと一緒に煮込むスープ料理です。 ソウル特別市のヨンドゥンポ区に位置した韓食専門店です。おすすめはプデチゲです。",
+    "QA": [
+        {
+            "question": "このレストランの場所はどこですか？",
+            "answer": "ソウル特別市のヨンドゥンポ区のギョンインロ775に位置しています。"
+        },
+        {
+            "question": "プデチゲとはどんな料理ですか？",
+            "answer": "プデチゲはいろいろなハムと韓国式のスープをソースと一緒に煮込むスープ料理です。"
+        },
+        {
+            "question": "このレストランのおすすめ料理は何ですか？",
+            "answer": "おすすめはプデチゲです。"
+        }
+    ],
+    "word_Count": {
+        "text": 99,
+        "QA": 99
+    }
+}

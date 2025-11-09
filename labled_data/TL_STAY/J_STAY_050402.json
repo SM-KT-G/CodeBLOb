@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_050402",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42011&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "강화도 네르하펜션"
+    },
+    "text": "ネルハペンションはカンファ島西海岸のマニ山の麓がフポ港ソンスポグと出会う岬に位置しており、まるで地中海を見下ろすスペンサーであるネルハ地方の雰囲気と似ているところで、3面が海に囲まれています。 海辺の景色がとても優れているところです。 客室の入室時間は午後3時からで、退室時間は翌日11時までです。 清掃及び客室清掃のために制限された時間ですので、お間違えのないようお願いいたします。",
+    "QA": [
+        {
+            "question": "ネルハペンションはどこに位置していますか？",
+            "answer": "ネルハペンションはカンファ島西海岸のマニ山の麓に位置しています。"
+        },
+        {
+            "question": "ネルハペンションの周辺はどのような景色ですか？",
+            "answer": "ネルハペンションは地中海を見下ろすような美しい海辺の景色が広がっています。"
+        },
+        {
+            "question": "ネルハペンションの客室の入室時間はいつですか？",
+            "answer": "ネルハペンションの客室の入室時間は午後3時からです。"
+        },
+        {
+            "question": "ネルハペンションの客室の退室時間はいつですか？",
+            "answer": "ネルハペンションの客室の退室時間は翌日の午前11時までです。"
+        },
+        {
+            "question": "なぜ客室の入室時間と退室時間に制限があるのですか？",
+            "answer": "客室の入室時間と退室時間に制限があるのは、清掃と客室の整理を行うためです。"
+        }
+    ],
+    "word_Count": {
+        "text": 140,
+        "QA": 203
+    }
+}

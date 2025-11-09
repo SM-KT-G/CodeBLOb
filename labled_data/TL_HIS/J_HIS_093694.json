@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_093694",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ja",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2023-03-20",
+        "domain": "문화/역사관광",
+        "title": "울주세계산악영화제 (UMFF : Ulju Mountain Film Festival)"
+    },
+    "text": "蔚州世界山岳映画祭 (UMFF : Ulju Mountain Film Festival) (울주세계산악영화제 (UMFF : Ulju Mountain Film Festival))\\n\n蔚山広域市蔚州郡アルプス温泉5キル103-8山岳文化センター\\n\n国内唯一の山岳映画祭である「蔚州世界山岳映画祭」は、かつての重要な世界山岳映画を一堂に集め、山岳文化の流れや最新のトレンドを紹介するプラットフォームとして存在価値を持ちたいと考えています。また、私たちの共感と結びついた自然との共生を表現したいとも思っています。この映画祭では、試練を乗り越えるための努力や挑戦、失敗や成功、そして葛藤との向き合い方など、人生について考える機会が提供されます。",
+    "QA": [
+        {
+            "question": "蔚山広域市蔚州郡アルプス温泉5キル103-8山岳文化センターはどこにありますか？",
+            "answer": "山岳文化センターは蔚山広域市蔚州郡アルプス温泉5キル103-8に位置しています。"
+        },
+        {
+            "question": "蔚州世界山岳映画祭の存在価値は何ですか？",
+            "answer": "蔚州世界山岳映画祭は、かつての重要な世界山岳映画を一堂に集め、山岳文化の流れや最新のトレンドを紹介するプラットフォームとして存在価値を持ちます。"
+        },
+        {
+            "question": "蔚州世界山岳映画祭では、どのような機会が提供されますか？",
+            "answer": "この映画祭では、試練を乗り越えるための努力や挑戦、失敗や成功、そして葛藤との向き合い方など、人生について考える機会が提供されます。"
+        }
+    ],
+    "word_Count": {
+        "text": 239,
+        "QA": 194
+    }
+}

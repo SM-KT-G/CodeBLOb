@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_093164",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=504&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=01710000&ccbaCtcd=35&ccbaCpno=2113501710000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1999-07-09",
+        "domain": "문화/역사관광",
+        "title": "용화사미륵불입상"
+    },
+    "text": "高麗時代にいる全羅北道扶安郡龍華寺の裏手の山では高さ約4.5mである石仏立像がある。この作品は未来世界での衆生を救済する弥勒、釈迦を象徴的に表現したのだ。百済義慈王2年にミョリョン禅師が弥勒寺を創建し、この仏像を製作したものの、作品の形からして、高麗時代の作品と推定される。この石仏立像は頭部分を大きくして下半身は貧弱に処理した。顔は、四角形に近く、穏やかなほほ笑みを盛り込んでいる。耳は肩まで長くのびており、衣服は、肩にわたって歌われている。両手は集まっている胸の下にピース型のしわを成して、その下には蹄鉄のしわをなしている。この石仏立像は全体的なバランス感は喪失したが、忠清南道論山のウンジン弥勒と連携された高麗時代のこと火らとの関連性もあると知られている。この作品は、高麗後期に作られたものと推測される。",
+    "QA": [
+        {
+            "question": "この石仏立像はどの時代に作られたものですか？",
+            "answer": "この石仏立像は高麗時代に作られたものと推定されています。"
+        },
+        {
+            "question": "石仏立像の頭部の特徴は何ですか？",
+            "answer": "石仏立像の頭部は大きく、顔は四角形に近く、穏やかなほほ笑みをしています。"
+        },
+        {
+            "question": "石仏立像の両手のポーズはどのような形をしていますか？",
+            "answer": "石仏立像の両手は胸の下で集まっており、ピース型のしわを成しています。"
+        },
+        {
+            "question": "石仏立像の制作目的は何でしょうか？",
+            "answer": "この作品は未来世界での衆生を救済する弥勒、釈迦を象徴的に表現したものです。"
+        },
+        {
+            "question": "この石仏立像と関連性のある場所はどこですか？",
+            "answer": "この石仏立像は忠清南道論山のウンジン弥勒と連携された高麗時代のこと火らとの関連性もあると知られています。"
+        }
+    ],
+    "word_Count": {
+        "text": 260,
+        "QA": 212
+    }
+}

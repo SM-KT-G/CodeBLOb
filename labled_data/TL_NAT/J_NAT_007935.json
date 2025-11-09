@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_007935",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1084&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=01890000&ccbaCtcd=38&ccbaCpno=3413801890000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1992-10-21",
+        "domain": "자연관광",
+        "title": "양산 우규동 별서"
+    },
+    "text": "梁山ウギュドン別書 (양산 우규동 별서)\\n\n慶尚南道梁山市魚谷洞山337番地\\n\n大韓帝国 , 慶尚南道文化財資料 , 梁山魚谷里の牛圭洞別署は、牛圭洞が3·1運動翌年の1920年、梁山魚谷里に別荘のように別に建てたあずま屋だ。 ウ·ギュドンは朝鮮後期の義禁府道士と統政大夫の官職を務めた人物だ。 牛圭洞別書にはソハンジョンとセシムダンという2つの亭子があり、セシムダンの4壁には「ソハンジョン」·「サンチョンガク」·「セシムダン」·「神仙岩」·「三美川」·「桃源」·「竹院」と刻まれた扁額がかかっている。 亭子の周囲には竹·百日紅·梅·槐花などを植えてあり、小川が流れる美しい自然景観に神仙思想に基づいた12個の名前をそれぞれ付けたのが特異だ。",
+    "QA": [
+        {
+            "question": "この別荘はいつ建てられましたか？",
+            "answer": "牛圭洞別書は、3·1運動翌年の1920年に建てられました。"
+        },
+        {
+            "question": "牛圭洞別書にはどのような亭子がありますか？",
+            "answer": "牛圭洞別書には「ソハンジョン」・「サンチョンガク」・「セシムダン」・「神仙岩」・「三美川」・「桃源」・「竹院」という7つの亭子があります。"
+        },
+        {
+            "question": "亭子の周囲の景観には何がありますか？",
+            "answer": "亭子の周囲には竹・百日紅・梅・槐花などの植物があり、小川も流れる美しい自然景観があります。"
+        },
+        {
+            "question": "なぜ亭子には12個の名前が付けられているのですか？",
+            "answer": "亭子には神仙思想に基づいた12個の名前が付けられており、それぞれの名前は美しい自然景観と結びついています。"
+        }
+    ],
+    "word_Count": {
+        "text": 238,
+        "QA": 202
+    }
+}

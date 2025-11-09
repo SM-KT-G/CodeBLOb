@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_026377",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-23",
+        "domain": "문화/역사관광",
+        "title": "蔚山駅（울산역）"
+    },
+    "text": "蔚山駅\n蔚山広域市 蔚州郡 三南面 蔚山駅路177\n蔚山（ウルサン）の昔の名称「鶴城」から、鶴の羽をイメージし、明るく開放的で快適な室内環境を実現するために計画された駅舎です。",
+    "QA": [
+        {
+            "question": "鶴城の歴史はどのように始まりましたか？",
+            "answer": "鶴城は蔚山（ウルサン）の昔の名称であり、鶴の羽をイメージして駅舎が計画されました。"
+        },
+        {
+            "question": "鶴城駅舎はどのような特徴がありますか？",
+            "answer": "鶴城駅舎は明るく開放的で快適な室内環境を実現するために設計されています。"
+        },
+        {
+            "question": "鶴城駅舎の住所はどこですか？",
+            "answer": "鶴城駅舎の住所は蔚山広域市蔚州郡三南面蔚山駅路177です。"
+        }
+    ],
+    "word_Count": {
+        "text": 64,
+        "QA": 115
+    }
+}

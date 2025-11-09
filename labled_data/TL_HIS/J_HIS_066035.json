@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_066035",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1082&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=01850000&ccbaCtcd=38&ccbaCpno=3413801850000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1991-12-23",
+        "domain": "문화/역사관광",
+        "title": "밀양 교동 손병준 고가"
+    },
+    "text": "慶尚南道文化財資料である密陽(ミルヤン)郷校西村の古い家は朝鮮時代の高宗24年(1887)に建築された家に母屋、サランチェ、ゴッガンチェ、玄関棟に行われている。母屋は表7間・側面2間規模で、入母屋屋根となっている。同様に、サランチェも入母屋屋根となっており、前面は4間・側面は1間の規模である。ジュンサランチェは側面がヒトガタの切妻屋根で屋根が形成されており、前面は4間・側面は1間の規模となっている。特に、蔵戸は中庭に配置され作業機能をここで遂行するように設計された。すべての建物は内部改造が行われ、現在状態だ。",
+    "QA": [
+        {
+            "question": "この古い家が建てられたのはいつですか？",
+            "answer": "朝鮮時代の高宗24年(1887)に建築されました。"
+        },
+        {
+            "question": "この古い家はどのような建築様式ですか？",
+            "answer": "母屋は表7間・側面2間規模で、入母屋屋根となっています。同様に、サランチェも入母屋屋根となっており、前面は4間・側面は1間の規模です。ジュンサランチェは側面がヒトガタの切妻屋根で屋根が形成されており、前面は4間・側面は1間の規模となっています。"
+        },
+        {
+            "question": "この古い家の特徴的な部分はありますか？",
+            "answer": "特に、蔵戸は中庭に配置され作業機能をここで遂行するように設計されています。"
+        },
+        {
+            "question": "この古い家の内部は改造されていますか？",
+            "answer": "はい、すべての建物は内部改造が行われ、現在の状態になっています。"
+        }
+    ],
+    "word_Count": {
+        "text": 188,
+        "QA": 214
+    }
+}

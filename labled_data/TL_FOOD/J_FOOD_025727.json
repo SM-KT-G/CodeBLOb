@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_025727",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-05",
+        "domain": "음식점",
+        "title": "一流良心( 이치류양심 )"
+    },
+    "text": "一流良心 ( 이치류양심 )\\n\n全羅北道 ジョンジュ市 ワンサン区 ホンサンブクロ22\\n\n様々な羊肉料理が味わえる店です。代表的なメニューはラムリブです。全羅北道のジョンジュ市に位置した中華専門店です。",
+    "QA": [
+        {
+            "question": "このレストランの場所はどこですか？",
+            "answer": "このレストランは全羅北道のジョンジュ市ワンサン区ホンサンブクロ22に位置しています。"
+        },
+        {
+            "question": "このレストランの特徴的なメニューは何ですか？",
+            "answer": "このレストランの代表的なメニューはラムリブです。"
+        },
+        {
+            "question": "このレストランはどのような料理を提供していますか？",
+            "answer": "このレストランでは様々な羊肉料理が味わえます。"
+        },
+        {
+            "question": "このレストランは中華料理専門店ですか？",
+            "answer": "はい、このレストランは中華料理専門店です。"
+        }
+    ],
+    "word_Count": {
+        "text": 75,
+        "QA": 141
+    }
+}

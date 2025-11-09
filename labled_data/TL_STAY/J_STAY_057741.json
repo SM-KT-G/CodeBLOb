@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_057741",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/goods/GN0002019376?startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0%5E&npprmaxsort=min",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "인천(신포) 위드"
+    },
+    "text": "客室料金は、全客室を2名基準で策定しています。 週末(土、日)に当日予約をキャンセルした場合は払い戻しできません。 これとは別に、このお知らせは[ヨギオッテ]の予約情報とは関係なく、当該業者が直接運営する自主予約案内です。",
+    "QA": [
+        {
+            "question": "客室料金は何人基準で策定されていますか？",
+            "answer": "全客室を2名基準で策定しています。"
+        },
+        {
+            "question": "週末(土、日)に当日予約をキャンセルした場合、払い戻しは可能ですか？",
+            "answer": "週末(土、日)に当日予約をキャンセルした場合は払い戻しできません。"
+        },
+        {
+            "question": "このお知らせはどの予約情報と関係がありますか？",
+            "answer": "このお知らせは[ヨギオッテ]の予約情報とは関係なく、当該業者が直接運営する自主予約案内です。"
+        }
+    ],
+    "word_Count": {
+        "text": 81,
+        "QA": 126
+    }
+}

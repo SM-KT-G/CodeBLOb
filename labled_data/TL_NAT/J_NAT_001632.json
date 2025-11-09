@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_001632",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=908&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=24&ccbaAsno=00030000&ccbaCtcd=24&ccbaCpno=2442400030000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1989-03-20",
+        "domain": "자연관광",
+        "title": "김용학가옥"
+    },
+    "text": "キムヨンハク・カオク (김용학가옥)\\n\n光州北区下白路29番キル24(梅谷洞)\\n\n光州広域市民俗文化財 , 住居と亭子が丘の上に調和して配置された家で1900年代初めに建てられた。 東北側が低く西南側が高い地形を生かし、低いところにサランチェと母屋を東西中心軸に配置した。 住居空間の左側に池と下恩亭を、その後方には蓮坡亭を配置し、自然と調和するようにした。 母屋の庭から石段に沿って東山に登ると、古い桜に囲まれたハウンジョンとヨンパジョンがある。 河恩亭と蓮坡亭は1933年に建てられた亭子だ。 蓮坡亭は本来、キム·ヨンハクの父親キム·ヒスが祖父のために建てたが、キム·ヨンハクが父親のためにハ·ウンジョンを建てながら火事が起きて建て直したという。 この家は古くはないが、美しい周辺景観と調和している家だ。",
+    "QA": [
+        {
+            "question": "この建物はいつ建てられましたか？",
+            "answer": "この家は1900年代初めに建てられました。"
+        },
+        {
+            "question": "この家はどのような特徴がありますか？",
+            "answer": "この家は住居と亭子が丘の上に調和して配置され、庭に池や亭子が配置されています。また、東山には桜の木があります。"
+        },
+        {
+            "question": "この家の周辺景観とはどのように調和していますか？",
+            "answer": "この家は美しい周辺景観と調和しています。特に庭にある池や亭子は自然と調和しています。"
+        },
+        {
+            "question": "蓮坡亭はいつ建てられましたか？",
+            "answer": "蓮坡亭は1933年に建てられました。"
+        },
+        {
+            "question": "ハ·ウンジョンとヨンパジョンについて教えてください。",
+            "answer": "ハ·ウンジョンとヨンパジョンは古い桜に囲まれた東山にあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 261,
+        "QA": 195
+    }
+}

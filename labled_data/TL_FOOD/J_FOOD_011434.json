@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_011434",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "バグダッド（바그다드）"
+    },
+    "text": "バグダッド（바그다드）\\n\n済州特別自治道 済州市 西広路32キル 38\\n\n済州市庁そばにある「バグダッド」は、経験豊かな料理人が最高の料理を提供するインド料理レストランです。韓国の人にも好評で人足が絶えない人気の店となっており、特に人気のあるメニューはナン、新鮮なトマトとクリーム、チーズで作ったチキンマカニ、タンドリーチキンです。カレーと一緒にナンも食べるのがお勧めです。",
+    "QA": [
+        {
+            "question": "このレストランの名前は何ですか？",
+            "answer": "バグダッドです。"
+        },
+        {
+            "question": "このレストランはどこにありますか？",
+            "answer": "済州特別自治道済州市西広路32キル38にあります。"
+        },
+        {
+            "question": "このレストランの料理は何ですか？",
+            "answer": "インド料理です。"
+        },
+        {
+            "question": "このレストランの人気メニューは何ですか？",
+            "answer": "人気のあるメニューはナン、チキンマカニ、タンドリーチキンです。"
+        },
+        {
+            "question": "このレストランでおすすめの食べ物は何ですか？",
+            "answer": "カレーと一緒にナンを食べることをおすすめします。"
+        }
+    ],
+    "word_Count": {
+        "text": 138,
+        "QA": 137
+    }
+}

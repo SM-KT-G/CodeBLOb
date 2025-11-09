@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_006070",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-05-06",
+        "domain": "숙박",
+        "title": "ソホホテル（서호호텔）"
+    },
+    "text": "ソホホテル\nソウル特別市 瑞草区 江南大路69キル10 （瑞草洞）\nソホホテルでは外国人旅行者に配慮し、全客室の必要備品に英語を表記しています。ソウル地下鉄2号線「江南駅」10番出口から徒歩約5分と好立地にあり、近郊観光地へのアクセスも便利です。",
+    "QA": [
+        {
+            "question": "ソホホテルはどのような場所にありますか？",
+            "answer": "ソホホテルはソウル特別市瑞草区の江南大路69キル10に位置しています。"
+        },
+        {
+            "question": "ソホホテルの周辺にはどのような観光地がありますか？",
+            "answer": "ソホホテルの周辺には多くの観光地があります。例えば、江南駅から徒歩で約5分の距離に位置しており、近郊の観光地へのアクセスも便利です。"
+        },
+        {
+            "question": "ソホホテルでは外国人旅行者に配慮していますか？",
+            "answer": "はい、ソホホテルでは外国人旅行者に配慮しており、全客室の必要備品には英語表記がされています。"
+        }
+    ],
+    "word_Count": {
+        "text": 90,
+        "QA": 157
+    }
+}

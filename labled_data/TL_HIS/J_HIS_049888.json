@@ -1,0 +1,51 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_049888",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=375&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=00120000&ccbaCtcd=26&ccbaCpno=2112600120000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2004-12-16",
+        "domain": "문화/역사관광",
+        "title": "경숙옹주태실및비"
+    },
+    "text": "朝鮮成宗(ソンジョン)16年(1485)に建てられた蔚山(ウルサン)テシルは王や王室の子孫の胎盤を祀る小さな石室である。これは、皇室の繁栄と王室の子孫たちの無病長寿を祈願する意味で、全国にある山の中テボンサンに作られた。テビヌン胎室が整備されているか知らせるために建てた碑石だ。テシルとテビヌン、蔚山地域では唯一、テビの表面には、\"ワンニョハプフヮンお嬢さん態の\"と書かれており、裏面には\"聖火二十一年パルウォルチョユクイルイプ\"と記録されている。これを通じてテシルとテビの設置時期や主人公であるキョンスク翁主を知ることができる。1970年代初めに胎室が整備されて盗掘されたが、国立中央博物館で大切な遺物である胎壺2点と胎脂1点を保管している。",
+    "QA": [
+        {
+            "question": "テシルはいつ建てられましたか？",
+            "answer": "テシルは朝鮮成宗16年(1485)に建てられました。"
+        },
+        {
+            "question": "テシルは何のために建てられたのですか？",
+            "answer": "テシルは王や王室の子孫の胎盤を祀るために建てられました。"
+        },
+        {
+            "question": "テシルはどこにありますか？",
+            "answer": "テシルは蔚山(ウルサン)にあります。"
+        },
+        {
+            "question": "テビヌン胎室は何のために整備されましたか？",
+            "answer": "テビヌン胎室は、テシルが整備されているかどうかを知らせるために整備されました。"
+        },
+        {
+            "question": "テビにはどんな文字が書かれていますか？",
+            "answer": "テビの表面には'ワンニョハプフヮンお嬢さん態の'と書かれており、裏面には'聖火二十一年パルウォルチョユクイルイプ'と記録されています。"
+        },
+        {
+            "question": "テビの設置時期や主人公は何ですか？",
+            "answer": "テビの設置時期は聖火二十一年であり、主人公はキョンスク翁主です。"
+        },
+        {
+            "question": "どのような遺物が国立中央博物館で保管されていますか？",
+            "answer": "国立中央博物館では、胎壺2点と胎脂1点が大切な遺物として保管されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 236,
+        "QA": 276
+    }
+}

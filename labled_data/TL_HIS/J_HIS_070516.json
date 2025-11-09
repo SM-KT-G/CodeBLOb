@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_070516",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=123&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=10550000&ccbaCtcd=11&ccbaCpno=1121110550000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1991-01-25",
+        "domain": "문화/역사관광",
+        "title": "백자 태항아리"
+    },
+    "text": "白磁の胎壺\\n\nソウル冠岳区南部循環路152キル53、ジャン·シンリムドン(新林洞、ジャン·ジャン)\\n\n朝鮮時代(16世紀前半)、宝物、胎壺とは王室に王子や王女が生まれた時、胎盤を盛り込んだつぼに、その中に名前と生年月日が記録されたテジソクを一緒に埋めた。朝鮮時代の胎壺で大きさは外港アリは高さ42.5センチ、口直径25センチ、ミッジルム25.3センチ、内港アリは高さ27.6センチ、口直径10.6センチ、ミッジルム11.7センチだ。内側の壺と外側の壺がほぼ同じ形をしている。ふたは鍋の蓋のようにでき、蛇口には四方に穴が開いているため、胴体上部にある4つの輪と連結してふたを固定する役割をした。胴体の口部分は広くて外に止めており、広い肩から徐々に狭まる形をしていて断定して豊満に見える。薄い青色を帯びる白磁釉が一様に広まっており、さりげない光沢がある。",
+    "QA": [
+        {
+            "question": "この胎壺はいつ作られましたか？",
+            "answer": "この胎壺は朝鮮時代の16世紀前半に作られました。"
+        },
+        {
+            "question": "胎壺には何が盛り込まれていますか？",
+            "answer": "胎壺には王子や王女の胎盤と一緒に、名前と生年月日が記録されたテジソクが盛り込まれています。"
+        },
+        {
+            "question": "胎壺の大きさはどのくらいですか？",
+            "answer": "胎壺の大きさは外港アリは高さ42.5センチ、口直径25センチ、ミッジルム25.3センチ、内港アリは高さ27.6センチ、口直径10.6センチ、ミッジルム11.7センチです。"
+        },
+        {
+            "question": "胎壺のふたはどのように固定されていましたか？",
+            "answer": "胎壺のふたは鍋の蓋のようにできており、蛇口には四方に穴が開いていたため、胴体上部にある4つの輪と連結してふたを固定する役割をしていました。"
+        },
+        {
+            "question": "胎壺の釉薬の色はどのような特徴がありますか？",
+            "answer": "胎壺の釉薬は薄い青色を帯びており、一様に広まっていてさりげない光沢があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 276,
+        "QA": 259
+    }
+}

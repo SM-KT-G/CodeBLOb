@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_004605",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42060&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "예산 산마루펜션"
+    },
+    "text": "こんにちは。徳山温泉と伽倻山に位置するサンマルペンションにお越しいただき、歓迎します。 ここは全国最高の温泉水と静かな憩いの場がある空間です。 サンマルペンションでは温泉浴を通じて疲労やストレスを解消でき、自然の中での楽しい休息が楽しめます。 リアルタイム予約システムを利用して便利に予約できます。 お知らせでは、22時以降に入室予定の場合、事前にご連絡ください。 オウリムカラオケ施設は現在撤収して使用できません。 ありがとうございます。",
+    "QA": [
+        {
+            "question": "徳山温泉とはどこに位置していますか？",
+            "answer": "徳山温泉は伽倻山に位置しています。"
+        },
+        {
+            "question": "サンマルペンションでは何が楽しめますか？",
+            "answer": "サンマルペンションでは温泉浴を通じて疲労やストレスを解消でき、自然の中での楽しい休息が楽しめます。"
+        },
+        {
+            "question": "温泉水はどういう特徴がありますか？",
+            "answer": "温泉水は全国最高の品質を誇り、その効能は多岐にわたります。"
+        },
+        {
+            "question": "22時以降に入室予定の場合、何をする必要がありますか？",
+            "answer": "22時以降に入室予定の場合は、事前にご連絡いただく必要があります。"
+        },
+        {
+            "question": "現在、オウリムカラオケ施設は利用できますか？",
+            "answer": "現在、オウリムカラオケ施設は撤収して使用できません。"
+        }
+    ],
+    "word_Count": {
+        "text": 161,
+        "QA": 189
+    }
+}

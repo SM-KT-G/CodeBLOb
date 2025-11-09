@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_037724",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=917&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=24&ccbaAsno=00110000&ccbaCtcd=34&ccbaCpno=2443400110000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1985-12-31",
+        "domain": "문화/역사관광",
+        "title": "전용일가옥"
+    },
+    "text": "田溶一家屋 (전용일가옥)\\n\n忠清南道洪城郡上村路9番キル21-1(葛山面)\\n\n朝鮮後期、忠清南道民俗文化財、初めて建てた時、この家は99間規模で母屋、サランチェ、門屋などを備えた大きな家だったが、現在は28間程度の母屋だけが残っている。 様々な建築技法から見て1800年代半ばに建てられたものと推定される。 板の間とオンドル部屋を中心に左右に部屋が続いており、前面に中門棟があり、母屋の左側にサランチェがある。 サランチェの前には池があり、池周辺の建物には八角石柱を建てたというが、今は全てなくなり石柱だけを葛山中学校に移して保管している。 全体的に開けた「ロ」字型を成しており、中部地方の特色と朝鮮後期の洗練された腕前をよく見せている家だ。",
+    "QA": [
+        {
+            "question": "この田溶一家屋はいつ建てられましたか？",
+            "answer": "田溶一家屋は1800年代半ばに建てられたものと推定されています。"
+        },
+        {
+            "question": "田溶一家屋はどのような形をしていますか？",
+            "answer": "田溶一家屋は全体的に開けた「ロ」字型を成しており、中部地方の特色と朝鮮後期の洗練された腕前をよく見せています。"
+        },
+        {
+            "question": "田溶一家屋の建物構造にはどのような要素がありますか？",
+            "answer": "田溶一家屋の建物構造には板の間とオンドル部屋が中心で、左右に部屋が続いています。また、前面に中門棟があり、母屋の左側にはサランチェがあります。"
+        },
+        {
+            "question": "田溶一家屋の周辺には何がありますか？",
+            "answer": "田溶一家屋の周辺には池があり、池周辺の建物には八角石柱が建てられていましたが、現在はすべてなくなり、石柱だけが葛山中学校に移されて保管されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 237,
+        "QA": 231
+    }
+}

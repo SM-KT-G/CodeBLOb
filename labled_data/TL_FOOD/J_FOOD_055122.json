@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_055122",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "ウジン酔い覚ましスープ ( 우진해장국 )"
+    },
+    "text": "ウジン酔い覚ましスープ ( 우진해장국 )\n済州特別自治道 済州市 ソサ路 11\n済州式ヘジャンクク(酔い覚ましスープ)料理を味わえる店です。 代表的なメニューはユッケジャンです。済州特別自治道のジェジュ市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "このレストランの名前は何ですか？",
+            "answer": "ウジン酔い覚ましスープ (우진해장국) です。"
+        },
+        {
+            "question": "このレストランはどこにありますか？",
+            "answer": "このレストランは済州特別自治道の済州市、ソサ路11に位置しています。"
+        },
+        {
+            "question": "このレストランの代表的なメニューは何ですか？",
+            "answer": "このレストランの代表的なメニューはユッケジャンです。"
+        },
+        {
+            "question": "このレストランは何を提供していますか？",
+            "answer": "このレストランでは済州式ヘジャンクク（酔い覚ましスープ）料理を提供しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 85,
+        "QA": 143
+    }
+}

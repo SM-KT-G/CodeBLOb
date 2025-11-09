@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_060710",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1070&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=01620000&ccbaCtcd=35&ccbaCpno=3413501620000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2000-06-23",
+        "domain": "문화/역사관광",
+        "title": "덕천사"
+    },
+    "text": "徳泉寺\\n\n全羅北道高敞郡牙山面龍渓里435-1番地\\n\n朝鮮純祖18年(1818)、全羅北道文化財資料、朝鮮前期の文臣であるシン·マルジュ(1439~)先生の位牌を中央に置き、両側にチョ·ユンオク、チャン·ジョピョン先生を配向し、その左右に7人の位牌を祀っている祠堂だ。 シン·マルジュ先生は端宗2年(1454)、科挙に合格し官職が大使館に達したが端宗が廃位されると官職を捨てて淳昌で余生を送った。 徳川寺は純祖18年(1818)に建てられたが、現在の建物は1917年以後に建て直したものだ。 前面3間·側面2間規模であり、建物の前方には前面3間·側面2間の大きさのそびえ立つ大門である内三門がある。 南側には講堂である崇節壇があるが、規模は前面5間·側面2間であり、屋根は横から見ると八の字型の入母屋造りとなっている。 崇節壇は典型的な朝鮮後期の祠堂様式を見せており、非常に重要だ。",
+    "QA": [
+        {
+            "question": "徳泉寺はいつ建てられましたか？",
+            "answer": "徳泉寺は純祖18年(1818)に建てられました。"
+        },
+        {
+            "question": "徳泉寺の建物はいつ建て直されましたか？",
+            "answer": "徳泉寺の現在の建物は1917年以後に建て直されました。"
+        },
+        {
+            "question": "徳泉寺の祠堂にはどのような位牌が祀られていますか？",
+            "answer": "徳泉寺の祠堂にはシン·マルジュ先生を中央に置き、両側にチョ·ユンオク、チャン·ジョピョン先生を配向し、その左右に7人の位牌が祀られています。"
+        },
+        {
+            "question": "徳泉寺の崇節壇はどのような特徴がありますか？",
+            "answer": "徳泉寺の崇節壇は典型的な朝鮮後期の祠堂様式を見せており、前面5間・側面2間の規模であり、屋根は横から見ると八の字型の入母屋造りとなっています。"
+        }
+    ],
+    "word_Count": {
+        "text": 288,
+        "QA": 200
+    }
+}

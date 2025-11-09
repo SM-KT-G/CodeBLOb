@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_037334",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1206&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=79&ccbaAsno=01900000&ccbaCtcd=35&ccbaCpno=4413501900000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2005-06-18",
+        "domain": "문화/역사관광",
+        "title": "장수 호룡보루"
+    },
+    "text": "長水虎龍堡塁 (장수 호룡보루)\\n\n全羅北道長水郡山西面飛行路20(東和里)\\n\n1949年、国家登録文化財、この施設は南北分断後、民主主義と共産主義が対立した時期に共産党勢力の蛮行から村を守るために築造した砦だ。 石材を使って壁体を築造し、壁体の中間ごとに銃口を出したが、上·中·下段にそれぞれ4つの銃口を交錯するように設置して四方を監視できるようにした。 韓国戦争直後、郷土防衛隊がここで警察とともに智異山（チリサン）パルチザンに対抗して戦闘を行い勝利を収めるなど、光復（クァンボク、独立）後、武力衝突に突き進んだ理念対決の歴史を生々しく見せてくれる。",
+    "QA": [
+        {
+            "question": "この施設は何のために築造されましたか？",
+            "answer": "この施設は南北分断後、民主主義と共産主義が対立した時期に共産党勢力の蛮行から村を守るために築造されました。"
+        },
+        {
+            "question": "どのような防御施設ですか？",
+            "answer": "石材を使って壁体を築造し、壁体の中間ごとに銃口を出したが、上・中・下段にそれぞれ4つの銃口を交錯するように設置して四方を監視できるようになっています。"
+        },
+        {
+            "question": "この施設はどのような歴史を持っていますか？",
+            "answer": "韓国戦争直後、郷土防衛隊がここで警察とともに智異山（チリサン）パルチザンに対抗して戦闘を行い勝利を収めるなど、光復（クァンボク、独立）後、武力衝突に突き進んだ理念対決の歴史を生々しく見せてくれます。"
+        }
+    ],
+    "word_Count": {
+        "text": 204,
+        "QA": 205
+    }
+}

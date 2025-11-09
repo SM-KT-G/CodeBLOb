@@ -1,0 +1,63 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_033765",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.booking.com/hotel/kr/elbondeoseutei-busangwangyeogsi.ko.html",
+        "collectedDate": "2023-11-17",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "premium ocean view in HAEHUNDAE BONA TRAVEL"
+    },
+    "text": "釜山に位置するHAEHUNDAE BONA TRAVELは海雲台海水浴場から約6分の距離に位置するアパートです。 このアパートは海の眺めが可能なテラスとバルコニーを備えており、居心地の良い宿泊を提供します。 アパート内にはエアコンが設置されており、食事スペースとキッチンも付いています。 無料Wi-Fiが利用でき、宿泊時にタオルとベッドシーツが提供されます。 また、毎日ヨーロッパ式の朝食をお楽しみいただけます。 周辺にはベクスコや釜山市立美術館などの観光名所があります。 金海国際空港からは約24km離れており、釜山中心部からは約9kmの距離に位置しています。 チェックインは15:00から可能で、チェックアウトは11:00までです。",
+    "QA": [
+        {
+            "question": "HAEHUNDAE BONA TRAVELの場所はどこですか？",
+            "answer": "HAEHUNDAE BONA TRAVELは釜山に位置しています。"
+        },
+        {
+            "question": "HAEHUNDAE BONA TRAVELは何分で海雲台海水浴場から行けますか？",
+            "answer": "HAEHUNDAE BONA TRAVELは海雲台海水浴場から約6分の距離にあります。"
+        },
+        {
+            "question": "HAEHUNDAE BONA TRAVELはどのような設備がありますか？",
+            "answer": "HAEHUNDAE BONA TRAVELはテラスとバルコニーがあり、エアコン、食事スペース、キッチンが備わっています。"
+        },
+        {
+            "question": "HAEHUNDAE BONA TRAVELで利用できるWi-Fiはありますか？",
+            "answer": "はい、HAEHUNDAE BONA TRAVELでは無料のWi-Fiが利用できます。"
+        },
+        {
+            "question": "HAEHUNDAE BONA TRAVELで提供される朝食はどのようなものですか？",
+            "answer": "HAEHUNDAE BONA TRAVELではヨーロッパ式の朝食が毎日提供されます。"
+        },
+        {
+            "question": "HAEHUNDAE BONA TRAVELの周辺にはどのような観光名所がありますか？",
+            "answer": "HAEHUNDAE BONA TRAVELの周辺にはベクスコや釜山市立美術館などの観光名所があります。"
+        },
+        {
+            "question": "HAEHUNDAE BONA TRAVELから金海国際空港までの距離はどのくらいですか？",
+            "answer": "HAEHUNDAE BONA TRAVELから金海国際空港までは約24kmです。"
+        },
+        {
+            "question": "HAEHUNDAE BONA TRAVELから釜山中心部まではどのくらいの距離ですか？",
+            "answer": "HAEHUNDAE BONA TRAVELから釜山中心部までは約9kmの距離です。"
+        },
+        {
+            "question": "HAEHUNDAE BONA TRAVELのチェックイン時間は何時ですか？",
+            "answer": "HAEHUNDAE BONA TRAVELのチェックインは15:00から可能です。"
+        },
+        {
+            "question": "HAEHUNDAE BONA TRAVELのチェックアウト時間は何時ですか？",
+            "answer": "HAEHUNDAE BONA TRAVELのチェックアウトは11:00までです。"
+        }
+    ],
+    "word_Count": {
+        "text": 233,
+        "QA": 604
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_009117",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=786&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=00250000&ccbaCtcd=24&ccbaCpno=2332400250000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1999-04-30",
+        "domain": "문화/역사관광",
+        "title": "광주북동천주교회"
+    },
+    "text": "光州北東カトリック教会 (광주북동천주교회)\\n\n光州北区クムジェ路76(北東)\\n\n1937年 , 光州広域市記念物 , この教会は全羅南道地域が光州教区に昇格した1937年、光州聖堂の4代主任神父に赴任した旧<具>神父(Rev. Thomas Quinlan)が計画を立てて建てたものだ。 ク神父は教会を新築するために聖堂建築に経験の多い中国人ガヨセフに設計と工事を任せ、1937年10月に着工し翌年6月に落成した。 建物の平面は細長い四角形で、正面に鐘塔を配置し、左側にだけ祭儀室と告解室を配置した。 外壁は鼓膜が石を置いて赤色のレンガを積み、鐘塔と側面にある窓枠と門には花崗石で人房を設置した。 内部の壁と天井は特別な装飾がなく白い刺身を塗って仕上げた。 1987年7月に一部を増築し、窓枠と屋根は最近材料を変えて補修した。",
+    "QA": [
+        {
+            "question": "この教会はいつ建てられましたか？",
+            "answer": "1937年に建てられました。"
+        },
+        {
+            "question": "この教会はどのような人物によって建てられましたか？",
+            "answer": "旧<具>神父(Rev. Thomas Quinlan)が計画を立てて建てました。"
+        },
+        {
+            "question": "この教会の設計と工事は誰に任されましたか？",
+            "answer": "ク神父は教会を新築するために聖堂建築に経験の多い中国人ガヨセフに設計と工事を任せました。"
+        },
+        {
+            "question": "この教会の外壁はどのような素材でできていますか？",
+            "answer": "外壁は鼓膜が石を置いて赤色のレンガを積み、鐘塔と側面にある窓枠と門には花崗石で人房を設置しました。"
+        },
+        {
+            "question": "内部の壁と天井の仕上げはどのようになっていますか？",
+            "answer": "内部の壁と天井は特別な装飾がなく白い刺身を塗って仕上げました。"
+        },
+        {
+            "question": "この教会は増築されたことがありますか？",
+            "answer": "1987年7月に一部を増築しました。"
+        },
+        {
+            "question": "最近、この教会の修理や補修は行われましたか？",
+            "answer": "最近材料を変えて窓枠と屋根を補修しました。"
+        }
+    ],
+    "word_Count": {
+        "text": 268,
+        "QA": 270
+    }
+}

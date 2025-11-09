@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_004084",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-05",
+        "domain": "음식점",
+        "title": "カッスンネ韓方鴨 ( 갑순네한방오리 )"
+    },
+    "text": "カッスンネ韓方鴨 ( 갑순네한방오리 )\\n\n全羅南道 順天市 ヘンジュンギル16\\n\n韓国産の韓方材料を使った様々な鴨料理を提供しています。全羅南道のスンチョン市に位置した韓食専門店です。代表的なメニューは鴨プルゴギです。",
+    "QA": [
+        {
+            "question": "カッスンネ韓方鴨はどこに位置していますか？",
+            "answer": "カッスンネ韓方鴨は全羅南道の順天市に位置しています。"
+        },
+        {
+            "question": "カッスンネ韓方鴨の特徴的なメニューは何ですか？",
+            "answer": "カッスンネ韓方鴨の代表的なメニューは鴨プルゴギです。"
+        },
+        {
+            "question": "カッスンネ韓方鴨の料理には韓方材料が使われていますか？",
+            "answer": "はい、カッスンネ韓方鴨の料理には韓方材料が使われています。"
+        }
+    ],
+    "word_Count": {
+        "text": 82,
+        "QA": 111
+    }
+}

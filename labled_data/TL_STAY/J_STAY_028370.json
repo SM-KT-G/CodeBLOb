@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_028370",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42060&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "태안 세라세미펜션"
+    },
+    "text": "泰安光祭り、花祭りが開かれる馬剣浦海水浴場に向かい合ったセラセミペンションは干潟体験、釣りなど様々なレジャーが楽しめる安眠島での思い出を一緒にお作りします！ ペットは入室できませんし、22時以降に入室される場合、予めご連絡ください。",
+    "QA": [
+        {
+            "question": "泰安光祭りはいつ行われますか？",
+            "answer": "泰安光祭りは毎年8月に開催されます。"
+        },
+        {
+            "question": "泰安光祭りの内容は何ですか？",
+            "answer": "泰安光祭りでは、花火大会や屋台などが楽しめます。"
+        },
+        {
+            "question": "セラセミペンションで提供されるレジャーは何ですか？",
+            "answer": "セラセミペンションでは干潟体験や釣りなどのレジャーが楽しめます。"
+        },
+        {
+            "question": "セラセミペンションにはペットは入室できますか？",
+            "answer": "いいえ、セラセミペンションではペットの入室はできません。"
+        },
+        {
+            "question": "セラセミペンションへのチェックインが22時以降の場合、どうすればいいですか？",
+            "answer": "22時以降のチェックインを希望される場合は、事前に連絡してください。"
+        }
+    ],
+    "word_Count": {
+        "text": 85,
+        "QA": 184
+    }
+}

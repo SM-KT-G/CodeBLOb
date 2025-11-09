@@ -1,0 +1,31 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_073945",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2022-11-24",
+        "domain": "음식점",
+        "title": "미소로"
+    },
+    "text": "仁川市南東区万寿洞にあるしゃぶしゃぶ専門店微笑ではしゃぶしゃぶをはじめ、笑顔で定食、チマサル生焼き、きのこうどん鍋、プルコギ(焼肉)、麺類鍋、田舎式キムチチゲ、牛肉味噌チゲなどがある。。",
+    "QA": [
+        {
+            "question": "しゃぶしゃぶ専門店微笑では、どのような料理がありますか？",
+            "answer": "しゃぶしゃぶをはじめ、笑顔で定食、チマサル生焼き、きのこうどん鍋、プルコギ(焼肉)、麺類鍋、田舎式キムチチゲ、牛肉味噌チゲなどがございます。"
+        },
+        {
+            "question": "しゃぶしゃぶ専門店微笑はどこにありますか？",
+            "answer": "しゃぶしゃぶ専門店微笑は仁川市南東区万寿洞にあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 68,
+        "QA": 107
+    }
+}

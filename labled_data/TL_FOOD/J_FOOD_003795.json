@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_003795",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "オモニ豚足 ( 어머니족발 )"
+    },
+    "text": "オモニ豚足 ( 어머니족발 )\\n\nソウル特別市 江南区 三成路100キル 27\\n\nCOEXの近くに位置するおすすめのお店です。代表的なメニューは韓方豚足です。ソウル特別市のガンナム区に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "オモニ豚足はどこに位置していますか？",
+            "answer": "オモニ豚足はソウル特別市江南区三成路100キル27に位置しています。"
+        },
+        {
+            "question": "オモニ豚足の代表的なメニューは何ですか？",
+            "answer": "オモニ豚足の代表的なメニューは韓方豚足です。"
+        },
+        {
+            "question": "オモニ豚足は韓食専門店ですか？",
+            "answer": "はい、オモニ豚足は韓食専門店です。"
+        },
+        {
+            "question": "オモニ豚足はCOEXの近くに位置していますか？",
+            "answer": "はい、オモニ豚足はCOEXの近くに位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 77,
+        "QA": 127
+    }
+}

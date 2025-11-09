@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_052318",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2023-07-02",
+        "domain": "숙박",
+        "title": "까사모로"
+    },
+    "text": "大明ビバルディパークを近郊に天恵の景観であるパルボンサンと洪川江(ホンチョンガン)をそばに置いているペンションである。四季温水スパを楽しむ、疲れを癒すことができたリラックスした憩いの場になるだろう。",
+    "QA": [
+        {
+            "question": "ビバルディパークはどこにありますか？",
+            "answer": "ビバルディパークは天恵の景観であるパルボンサンと洪川江の近くにあります。"
+        },
+        {
+            "question": "ビバルディパークでは何が楽しめますか？",
+            "answer": "ビバルディパークでは四季温水スパを楽しむことができます。"
+        },
+        {
+            "question": "ビバルディパークはリラックスできる場所ですか？",
+            "answer": "はい、ビバルディパークは疲れを癒すことができるリラックスした憩いの場所です。"
+        }
+    ],
+    "word_Count": {
+        "text": 72,
+        "QA": 118
+    }
+}

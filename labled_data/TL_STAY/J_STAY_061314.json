@@ -1,0 +1,55 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_061314",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://kr.hotels.com/ho1113983904/meiwon-hotel-seoul-hangug/?chkin=2023-11-14&chkout=2023-11-15&x_pwa=1&rfrr=HSR&pwa_ts=1698838466717&referrerUrl=aHR0cHM6Ly9rci5ob3RlbHMuY29tL0hvdGVsLVNlYXJjaA%3D%3D&useRewards=false&rm1=a2&regionId=6159319&destination=%EC%9D%98%EC%A0%95%EB%B6%80%2C+%EA%B2%BD%EA%B8%B0%2C+%ED%95%9C%EA%B5%AD&destType=MARKET&neighborhoodId=6156735&latLong=37.736412%2C127.068388&sort=RECOMMENDED&top_dp=127273&top_cur=KRW&userIntent=&selectedRoomType=218443046&selectedRatePlan=276371586&expediaPropertyId=34780747&searchId=26666e80-3e5c-4f3a-b874-c571228c1964",
+        "collectedDate": "2023-11-15",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "메이원 호텔"
+    },
+    "text": "メイワンホテル\\n\n大韓民国ソウル特別市中区明洞10ギル35-12\\n\nメイワンホテルはルーフトップテラスなどの様々な便益施設が提供されており、明洞通りまで徒歩で移動できます。 また、南大門市場と光化門も車で5分の距離に位置しています。 明洞駅から徒歩3分の距離にあり、乙支路入口駅からは8分の距離に位置しているため、公共交通機関を利用するのにも便利です。 ホテルは計78室の客室で構成されており、チェックインは午後3時から可能で、チェックアウトは午前11時までです。 また、新型コロナウイルス感染症に関する制限事項を確認する必要があり、フロントデスクは毎日午後1時30分から10時まで運営されます。 チェックインの際にはクレジットカード、デビットカード、または現金保証金を用意する必要があり、政府発行の身分証明書には写真が貼られている必要がある場合があります。 ベビーベッドは提供されておらず、ペットは同伴できません。 無料WiFiは共用エリアと客室内で利用でき、施設内には駐車スペースがなく禁煙施設です。",
+    "QA": [
+        {
+            "question": "ホテルの名前は何ですか？",
+            "answer": "メイワンホテルです。"
+        },
+        {
+            "question": "ホテルの場所はどこですか？",
+            "answer": "大韓民国ソウル特別市中区明洞10ギル35-12にあります。"
+        },
+        {
+            "question": "ホテルには何が提供されていますか？",
+            "answer": "ルーフトップテラスなどの様々な便益施設が提供されています。"
+        },
+        {
+            "question": "ホテルの客室数は何室ですか？",
+            "answer": "計78室の客室で構成されています。"
+        },
+        {
+            "question": "チェックインとチェックアウトの時間は何時ですか？",
+            "answer": "チェックインは午後3時から可能で、チェックアウトは午前11時までです。"
+        },
+        {
+            "question": "無料WiFiはどこで利用できますか？",
+            "answer": "共用エリアと客室内で利用できます。"
+        },
+        {
+            "question": "ベビーベッドは提供されていますか？",
+            "answer": "ベビーベッドは提供されていません。"
+        },
+        {
+            "question": "ペットは宿泊できますか？",
+            "answer": "ペットは同伴できません。"
+        }
+    ],
+    "word_Count": {
+        "text": 332,
+        "QA": 214
+    }
+}

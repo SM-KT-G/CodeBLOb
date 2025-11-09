@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_054369",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=572&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=02770000&ccbaCtcd=37&ccbaCpno=2113702770000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1993-02-25",
+        "domain": "문화/역사관광",
+        "title": "금대정사"
+    },
+    "text": "慶尚北道有形文化財、咸安趙氏の第16代孫であるジョージ先生の長男であるスド、第5子のドンドと孫のハムスとハムシン先生を祀っている斎室です。建物は朝鮮英祖12年(1736)に建てられ、前面4間·側面2間で構成されています。屋根は側面が八の字型の華やかな入母屋造りで、カササギの穴の形をしているので独特です。建物の東側には安徳に初めて入って定着したジョージと曹洞も父子のための書院建物がありましたが、高宗5年(1868)に興宣大院君の書院撤廃令ですべてなくなり位牌を祀る祠堂だけが残っています",
+    "QA": [
+        {
+            "question": "この斎室は何年に建てられましたか？",
+            "answer": "斎室は朝鮮英祖12年(1736)に建てられました。"
+        },
+        {
+            "question": "斎室の屋根の形はどのような形をしていますか？",
+            "answer": "斎室の屋根は側面が八の字型の華やかな入母屋造りで、カササギの穴の形をしています。"
+        },
+        {
+            "question": "斎室の東側には何があったのですか？",
+            "answer": "斎室の東側には安徳に初めて入って定着したジョージと曹洞も父子のための書院建物がありましたが、高宗5年(1868)に興宣大院君の書院撤廃令ですべてなくなり位牌を祀る祠堂だけが残っています。"
+        }
+    ],
+    "word_Count": {
+        "text": 178,
+        "QA": 156
+    }
+}

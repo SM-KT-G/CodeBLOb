@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_079865",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=115&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=09670000&ccbaCtcd=11&ccbaCpno=1121109670000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1988-12-28",
+        "domain": "문화/역사관광",
+        "title": "상설고문진보대전전집 권7~8"
+    },
+    "text": "常設顧問進歩大全集巻7~8\\n\nソウル特別市龍山区西氷庫路137(龍山洞6街、ジャン·ジャン)\\n\n宝物、文宗の即位の年(1450)に中国の詩文集である『進歩、大田(テジョン)』を活字で印刷した活字本だ。当代の名筆である安平大君の字をその土台文字にして、東を溶かして作った活字であるギョンオジャで撮った本だ。本の大きさは横20センチ、縦28.5センチで、2冊1本だ。安平大君が世祖の王位簒奪を反対する毒薬を下賜されて死んだ後、すぐにギョンオジャを溶かして乙亥字を鋳造したためにギョンオジャで印刷された活字本は非常に稀なものだ。",
+    "QA": [
+        {
+            "question": "この活字本の大きさは何センチですか？",
+            "answer": "20センチ横、28.5センチ縦です。"
+        },
+        {
+            "question": "この活字本は何年に印刷されたものですか？",
+            "answer": "宝物、文宗の即位の年、1450年に印刷されました。"
+        },
+        {
+            "question": "なぜこの活字本は非常に稀なものだと言えるのですか？",
+            "answer": "安平大君が死んだ後、すぐにギョンオジャを溶かして乙亥字を鋳造したためにギョンオジャで印刷された活字本は非常に稀なものです。"
+        },
+        {
+            "question": "この活字本の土台文字に使われたのは誰の名筆ですか？",
+            "answer": "安平大君の字を土台文字にしています。"
+        },
+        {
+            "question": "この活字本は何冊1本ですか？",
+            "answer": "2冊1本です。"
+        }
+    ],
+    "word_Count": {
+        "text": 192,
+        "QA": 169
+    }
+}

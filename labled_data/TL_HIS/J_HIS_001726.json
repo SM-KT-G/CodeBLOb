@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_001726",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1127&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=03490000&ccbaCtcd=37&ccbaCpno=3413703490000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1998-04-13",
+        "domain": "문화/역사관광",
+        "title": "옥소권섭영정"
+    },
+    "text": "オクソクォン·ソプヨンジョン (옥소권섭영정)\\n\n慶尚北道聞慶市聞慶邑堂浦里184番地\\n\n慶尚北道文化財資料 , 朝鮮後期の文臣である玉沼権燮(1671~1759)先生の肖像画だ。 クォン·ソプは官職に進まず郷村で学問研究に努めた人物で、詩と絵に熱中し、後日通徳郎·家宣大夫などに任命されたりもした。 絹に彩色して描いたこの肖像画は右側を眺めている姿を描いたもので、胸の上まで描いた胸像だ。 朝鮮景宗4年(1724)、図画書画員だった李致が描き、絵を見て先生が直接文を作り、弟の権寧が字を書いておいた。 全体的に完全に保存されており陰影が明らかだが、1992年頃に一部を直して元の姿を失った。 遺影を保管する霊閣は1985年に建設されたものだ。",
+    "QA": [
+        {
+            "question": "この肖像画は誰のものですか？",
+            "answer": "この肖像画は玉沼権燮(オクソクォン·ソプヨンジョン)先生のものです。"
+        },
+        {
+            "question": "玉沼権燮(オクソクォン·ソプヨンジョン)先生はどのような人物でしたか？",
+            "answer": "玉沼権燮(オクソクォン·ソプヨンジョン)先生は後期の文臣で、官職に進まず郷村で学問研究に努めた人物でした。詩と絵に熱中し、後に通徳郎や家宣大夫に任命されるなどしました。"
+        },
+        {
+            "question": "この肖像画はいつ描かれましたか？",
+            "answer": "この肖像画は朝鮮景宗4年(1724)に描かれました。"
+        },
+        {
+            "question": "この肖像画は誰によって描かれましたか？",
+            "answer": "この肖像画は図画書画員であった李致によって描かれました。"
+        },
+        {
+            "question": "この肖像画はどのように保存されていますか？",
+            "answer": "この肖像画は絹に彩色されて描かれており、現在は霊閣に保管されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 237,
+        "QA": 228
+    }
+}

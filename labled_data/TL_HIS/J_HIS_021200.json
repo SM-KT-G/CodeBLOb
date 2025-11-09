@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_021200",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=928&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=24&ccbaAsno=00320000&ccbaCtcd=37&ccbaCpno=2443700320000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1982-02-24",
+        "domain": "문화/역사관광",
+        "title": "상주 오작당"
+    },
+    "text": "尚州五雀堂 (상주 오작당)\\n\n慶尚北道尚州市仙上西路1975(洛東面)\\n\n慶尚北道民俗文化財 , 壬辰倭乱の時、義兵長として活躍した朝廷(1555~1636)先生が建てた家だ。 宣祖34年(1601)に初めて建てられたが、顕宗2年(1661)に今の場所に移して建てた。 本来は計40間余りの建物だったが、正祖5年(1781)工事の時に部分的に撤去し、現在は母屋、サランチェ、家墓が残っている。 建築物の一部の手法が昔の様式をとどめており、近隣のヤンジンダンより古い建物と推定され注目されている。",
+    "QA": [
+        {
+            "question": "五雀堂はどこにありますか?",
+            "answer": "五雀堂は慶尚北道尚州市仙上西路1975に位置しています。"
+        },
+        {
+            "question": "五雀堂はいつ建てられましたか?",
+            "answer": "五雀堂は宣祖34年(1601)に初めて建てられましたが、顕宗2年(1661)に現在の場所に移して再建されました。"
+        },
+        {
+            "question": "五雀堂の建物の一部は何時代の様式を持っていますか?",
+            "answer": "五雀堂の建物の一部は昔の様式をとどめており、近隣のヤンジンダンより古い建物と推定されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 183,
+        "QA": 134
+    }
+}

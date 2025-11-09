@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_079780",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=113&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=09370000&ccbaCtcd=11&ccbaCpno=1121109370000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1987-12-26",
+        "domain": "문화/역사관광",
+        "title": "상교정본 자비도량참법 권10"
+    },
+    "text": "宝物な慈悲度量チャムボプは経典を読みながら罪を懺悔する仏教儀式をいう。遂行すれば罪がなくなって福を得る。魂を救済して極楽に導いて苦痛から脱することを望む功徳起源だ。この本は、自費度量チャムボプが誤って伝わり、錯誤が生じたため、再び正しく矯正したのだ。本は屏風のように広げて見る形になっており、大きさは縦34センチ、横14センチだ。最初のページには、七ドルと、弥勒仏の名前と姿が描写されたビョンサンドがある。最後には中宗1年にシンダムが使用し、成長に渡されたという記録がある。刊行年度は分からないが、太祖、定宗、穆宗のフィインイン'件'、'この'、'宋'者の最後の字が抜けている。これは高麗時代に刻まれた木版であることを示してくれる。本の印刷状態からみて、高麗時代の木版を持って朝鮮時代に再び印刷したものと推定される。",
+    "QA": [
+        {
+            "question": "この本の大きさは何センチですか？",
+            "answer": "この本の大きさは縦34センチ、横14センチです。"
+        },
+        {
+            "question": "この本には何が最初のページに描かれていますか？",
+            "answer": "この本の最初のページには七ドルと、弥勒仏の名前と姿が描写されたビョンサンドがあります。"
+        },
+        {
+            "question": "この本が作られた時期は分かりますか？",
+            "answer": "この本の刊行年度は分からないが、太祖、定宗、穆宗のフィインイン'件'、'この'、'宋'者の最後の字が抜けていることから、高麗時代に刻まれた木版であることを示しています。"
+        },
+        {
+            "question": "なぜこの本が再び印刷されたと推定されるのですか？",
+            "answer": "本の印刷状態からみて、高麗時代の木版を持って朝鮮時代に再び印刷したものと推定されます。"
+        }
+    ],
+    "word_Count": {
+        "text": 262,
+        "QA": 201
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001704",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-13",
+        "domain": "음식점",
+        "title": "Gran Piatto 中華山( 그랑삐아또 중화산 )"
+    },
+    "text": "Gran Piatto 中華山\\n\n全羅北道 ジョンジュ市 ワンサン区 ソウォンロ356\\n\n様々な洋食が味わえる店です。全羅北道のジョンジュ市に位置した洋食専門店です。おすすめは石窯ピザです。",
+    "QA": [
+        {
+            "question": "グランピアット中華山はどこにありますか？",
+            "answer": "グランピアット中華山は全羅北道のジョンジュ市ワンサン区ソウォンロ356に位置しています。"
+        },
+        {
+            "question": "グランピアット中華山で味わえる料理は何ですか？",
+            "answer": "グランピアット中華山では様々な洋食が味わえますが、特におすすめは石窯ピザです。"
+        }
+    ],
+    "word_Count": {
+        "text": 71,
+        "QA": 92
+    }
+}

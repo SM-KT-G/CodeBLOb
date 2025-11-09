@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_022436",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2020-12-24",
+        "domain": "음식점",
+        "title": "三清閣( 삼청각 )"
+    },
+    "text": "三清閣( 삼청각 )\\n\nソウル特別市 城北区 テサグァンロ3\\n\n美しい自然環境の中で韓定食が堪能できます。ソウル特別市のソンブク区に位置した韓食専門店です。おすすめは韓定食です。",
+    "QA": [
+        {
+            "question": "三清閣（サムチョンガク）はどこに位置していますか？",
+            "answer": "ソウル特別市のソンブク区に位置しています。"
+        },
+        {
+            "question": "三清閣では何がおすすめですか？",
+            "answer": "三清閣では韓定食がおすすめです。"
+        },
+        {
+            "question": "三清閣周辺の自然環境はどうですか？",
+            "answer": "三清閣周辺は美しい自然環境に囲まれています。"
+        }
+    ],
+    "word_Count": {
+        "text": 66,
+        "QA": 85
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_002196",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2020-12-08",
+        "domain": "음식점",
+        "title": "yo:b( 욥 )"
+    },
+    "text": "yo:b( 욥 )\\n\nソウル特別市 ヨンドゥンポ区 ダンサンロ44ギル3\\n\n様々な手作りパンが味わえます。代表的なメニューはパンです。ソウル特別市のヨンドゥンポ区に位置した韓食です。",
+    "QA": [
+        {
+            "question": "このお店の場所はどこですか？",
+            "answer": "このお店はソウル特別市のヨンドゥンポ区に位置しています。"
+        },
+        {
+            "question": "このお店のメニューは何ですか？",
+            "answer": "このお店の代表的なメニューはパンです。様々な手作りパンが味わえます。"
+        },
+        {
+            "question": "このお店の特徴は何ですか？",
+            "answer": "このお店の特徴は、韓国の伝統的な韓食が楽しめることです。"
+        }
+    ],
+    "word_Count": {
+        "text": 68,
+        "QA": 96
+    }
+}

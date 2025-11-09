@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_SHOP_004948",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.ssfshop.com/FRAMA/GM0022081879358/good",
+        "collectedDate": "2023-11-13",
+        "publishedDate": "2020-01-01",
+        "domain": "쇼핑",
+        "title": "Apothecary Hand Cream | Tube | 60ml"
+    },
+    "text": "FRAMAブランドではSeasonlessという商品番号のApothecary Hand Creamを提供しています。このハンドクリームはFRAMAの代表的なシグネチャーの香りで作られており、Sandalwood、Cedar Wood、Ylang Ylangの香りを持っています。吸収性脂肪酸を含んでおり、肌、キューティクル、爪に強烈な水分と栄養を与えます。この商品はチューブタイプで、容量は60mlです。",
+    "QA": [
+        {
+            "question": "このハンドクリームはどのような香りがありますか？",
+            "answer": "このハンドクリームはSandalwood（サンダルウッド）、Cedar Wood（シダーウッド）、Ylang Ylang（イランイラン）の香りがあります。"
+        },
+        {
+            "question": "このハンドクリームはどのような成分が含まれていますか？",
+            "answer": "このハンドクリームには吸収性脂肪酸が含まれており、肌、キューティクル、爪に水分と栄養を与えます。"
+        },
+        {
+            "question": "このハンドクリームはどのような容器タイプですか？",
+            "answer": "このハンドクリームはチューブタイプです。"
+        },
+        {
+            "question": "このハンドクリームの容量は何mlですか？",
+            "answer": "このハンドクリームの容量は60mlです。"
+        }
+    ],
+    "word_Count": {
+        "text": 148,
+        "QA": 190
+    }
+}

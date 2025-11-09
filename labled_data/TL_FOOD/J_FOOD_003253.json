@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_003253",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "ウンエマダン ( 은애마당 )"
+    },
+    "text": "ウンエマダン ( 은애마당 )\\n\nソウル特別市 ヨンドゥンポ区 ドシンロ53ギル11\\n\nガンギエイを発酵させた匂いの強い料理です。ソウル特別市のヨンドゥンポ区に位置した韓食専門店です。おすすめはガンギエイの刺身です。",
+    "QA": [
+        {
+            "question": "ウンエマダンはどこに位置していますか？",
+            "answer": "ウンエマダンはソウル特別市のヨンドゥンポ区に位置しています。"
+        },
+        {
+            "question": "ウンエマダンのおすすめ料理は何ですか？",
+            "answer": "ウンエマダンのおすすめ料理はガンギエイの刺身です。"
+        },
+        {
+            "question": "ウンエマダンの料理はどのような特徴がありますか？",
+            "answer": "ウンエマダンの料理はガンギエイを発酵させた匂いの強い料理です。"
+        }
+    ],
+    "word_Count": {
+        "text": 80,
+        "QA": 108
+    }
+}

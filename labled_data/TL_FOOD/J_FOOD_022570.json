@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_022570",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "西門会館（서문회관）"
+    },
+    "text": "西門会館（서문회관）\\n\nソウル特別市 中区 世宗大路11キル 47\\n\nソウル特別市シチョン駅の近くに位置したプルゴギ専門店です。おすすめは韓牛プルゴギです。韓国の伝統料理であるプルコギ(焼肉)を味わうことができます。",
+    "QA": [
+        {
+            "question": "西門会館はどこに位置していますか？",
+            "answer": "西門会館はソウル特別市 中区 世宗大路11キル 47に位置しています。"
+        },
+        {
+            "question": "西門会館のおすすめ料理は何ですか？",
+            "answer": "西門会館のおすすめ料理は韓牛プルゴギです。"
+        },
+        {
+            "question": "西門会館ではどのような料理を味わうことができますか？",
+            "answer": "西門会館では韓国の伝統料理であるプルコギ(焼肉)を味わうことができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 80,
+        "QA": 111
+    }
+}

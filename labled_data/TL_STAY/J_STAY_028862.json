@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_028862",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42040&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "여수 호텔 어썸(ASOME BOUTIQUE HOTEL)"
+    },
+    "text": "鶴洞繁華街に位置するアクセスに優れた場所で最高の施設とサービスを提供します。 2名基準で入室でき、追加人数がいる場合は当日現地にて追加料金を決済する必要があります。 客室はチェックイン時に割り当てられ、上記の画像とは異なる場合があります。 オンシーズンと特定日、祝日(前日含む)には料金が変動する場合があります。",
+    "QA": [
+        {
+            "question": "この施設はどのような場所に位置していますか？",
+            "answer": "鶴洞繁華街に位置しています。"
+        },
+        {
+            "question": "この施設はどのようなサービスを提供していますか？",
+            "answer": "最高の施設とサービスを提供しています。"
+        },
+        {
+            "question": "この施設のアクセスは良いですか？",
+            "answer": "アクセスに優れた場所に位置しています。"
+        },
+        {
+            "question": "この施設の客室は何名まで入室できますか？",
+            "answer": "2名まで入室できます。追加人数がいる場合は当日現地にて追加料金を決済する必要があります。"
+        },
+        {
+            "question": "客室は予約時に指定できますか？",
+            "answer": "客室はチェックイン時に割り当てられます。"
+        },
+        {
+            "question": "料金はどのように設定されていますか？",
+            "answer": "オンシーズンと特定日、祝日(前日含む)には料金が変動する場合があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 114,
+        "QA": 195
+    }
+}

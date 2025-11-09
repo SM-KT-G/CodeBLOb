@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_016238",
+        "source": "도서",
+        "writer": "김나성, 유지연",
+        "ISBN_ISNN": "979-11-6050-370-8",
+        "version": "초판",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "나홀로 푸드트립",
+        "collectedDate": "2023-11-01",
+        "publishedDate": "2017-12-12",
+        "domain": "음식점",
+        "title": "MST"
+    },
+    "text": "江原特別自治道 春川市白&#32718;路165に位置するMSTは、余裕を象徴する空間です。 物質的、空間的、時間的に余裕があり、残りがある状態であり、お越しくださる方々に快適さを提供したいと思います。 MSTは江原大学病院の向かい側のイルソントゥルーエルアパート方面の大通り沿いに位置しています。 公共交通機関を利用する場合、青い丘公園バス停で下車した後、江原大学病院方面へ徒歩1分の距離にあります。 MSTでは様々な飲み物や食べ物を楽しむことが。 Americano、Latte、Vanilla Latte、Ice Cream Latte、Filter Coffeeなど様々なコーヒーメニューとEarl Grey Ade、Basil Tomato Ade、Litchi Ade、Lime Pear Ade、Fruits Adeなど様々なエイドメニューが楽しめます。 また, Plum Granita, Omon Granita, Campagne Creamcheese, Baguette Toast, Ciabatta Sandwich, Bagel Sandwich, Focaccia Sandwich, Roll Cake, HBD Ice Cream, Banana Pudding, Raspberry Tarte 等 多様な デザートと 食べ物も 楽しむ 数 あります。 MSTでは余裕のある時間を過ごし、各自の方式で快適に滞在してください。",
+    "QA": [
+        {
+            "question": "MSTはどこに位置していますか？",
+            "answer": "MSTは江原特別自治道 春川市白馬路165に位置しています。"
+        },
+        {
+            "question": "MSTへの公共交通機関の利用方法は？",
+            "answer": "青い丘公園バス停で下車後、江原大学病院方面へ徒歩1分の距離にあります。"
+        },
+        {
+            "question": "MSTではどんな飲み物が楽しめますか？",
+            "answer": "Americano、Latte、Vanilla Latte、Ice Cream Latte、Filter Coffeeなど様々なコーヒーメニューが楽しめます。"
+        },
+        {
+            "question": "MSTではどんなエイドメニューが楽しめますか？",
+            "answer": "Earl Grey Ade、Basil Tomato Ade、Litchi Ade、Lime Pear Ade、Fruits Adeなど様々なエイドメニューが楽しめます。"
+        },
+        {
+            "question": "MSTではどんなデザートや食べ物が楽しめますか？",
+            "answer": "Plum Granita, Omon Granita, Campagne Creamcheese, Baguette Toast, Ciabatta Sandwich, Bagel Sandwich, Focaccia Sandwich, Roll Cake, HBD Ice Cream, Banana Pudding, Raspberry Tarte 等多様なデザートと食べ物が楽しめます。"
+        },
+        {
+            "question": "MSTでの滞在方法は？",
+            "answer": "MSTでは余裕のある時間を過ごし、各自の方式で快適に滞在してください。"
+        }
+    ],
+    "word_Count": {
+        "text": 462,
+        "QA": 419
+    }
+}

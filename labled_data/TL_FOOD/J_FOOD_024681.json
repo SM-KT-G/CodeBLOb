@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_024681",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-01",
+        "domain": "음식점",
+        "title": "五峰混ぜそば ( 오봉막국수 )"
+    },
+    "text": "五峰混ぜそば \n江原道 江陵市 城山面 七峯路 16\n江陵で有名なマッククスを味わえるおところです。おすすめは混ぜそばです。江原道のに位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "五峰混ぜそばはどこで食べることができますか？",
+            "answer": "江原道の江陵市に位置した城山面の七峯路16にある韓食専門店で食べることができます。"
+        },
+        {
+            "question": "江陵で有名なマッククスとは何ですか？",
+            "answer": "マッククスは江陵で有名な韓国の料理で、特におすすめは混ぜそばです。"
+        },
+        {
+            "question": "おすすめのメニューは何ですか？",
+            "answer": "おすすめは五峰混ぜそばです。"
+        },
+        {
+            "question": "どのような場所ですか？",
+            "answer": "五峰混ぜそばは韓食専門店で、江原道の江陵市に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 57,
+        "QA": 134
+    }
+}

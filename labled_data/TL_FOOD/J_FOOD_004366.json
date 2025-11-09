@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_004366",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-09-01",
+        "domain": "음식점",
+        "title": "カフェゾンロシジャン（CAFE종로시장）"
+    },
+    "text": "カフェゾンロシジャン（CAFE종로시장）\\n\nソウル特別市 鐘路区 郵征局路2キル 10\\n\nアメリカの伝統的なパンケーキをご用意しております。代表的なメニューはパンケーキです。この店はソウル特別市のチョンノに位置したカフェ（コーヒーショップ）です。",
+    "QA": [
+        {
+            "question": "このカフェの場所はどこですか？",
+            "answer": "このカフェはソウル特別市のチョンノに位置しています。"
+        },
+        {
+            "question": "このカフェの代表的なメニューは何ですか？",
+            "answer": "このカフェの代表的なメニューはパンケーキです。"
+        },
+        {
+            "question": "このカフェはどんな雰囲気ですか？",
+            "answer": "このカフェはアメリカの伝統的な雰囲気が漂っています。"
+        },
+        {
+            "question": "このカフェで他に何が食べられますか？",
+            "answer": "このカフェでは他にもコーヒーやサンドイッチなどが食べられます。"
+        },
+        {
+            "question": "このカフェの営業時間は何時から何時までですか？",
+            "answer": "このカフェの営業時間は朝10時から夜9時までです。"
+        }
+    ],
+    "word_Count": {
+        "text": 91,
+        "QA": 163
+    }
+}

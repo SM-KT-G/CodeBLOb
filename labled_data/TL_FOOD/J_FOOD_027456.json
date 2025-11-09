@@ -1,0 +1,31 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_027456",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-05",
+        "domain": "음식점",
+        "title": "眞率トンダク ( 진솔통닭 )"
+    },
+    "text": "眞率トンダク ( 진솔통닭 )\\n\n全羅南道 海南郡 海南邑 コサンロ262\\n\n地鶏のコース料理を提供しています。全羅南道のヘナム郡に位置した韓食専門店です。代表的なメニューは地鶏の水炊きです。",
+    "QA": [
+        {
+            "question": "眞率トンダクはどこに位置していますか？",
+            "answer": "眞率トンダクは全羅南道海南郡海南邑コサンロ262に位置しています。"
+        },
+        {
+            "question": "眞率トンダクはどのような料理を提供していますか？",
+            "answer": "眞率トンダクは地鶏のコース料理を提供しています。代表的なメニューは地鶏の水炊きです。"
+        }
+    ],
+    "word_Count": {
+        "text": 71,
+        "QA": 86
+    }
+}

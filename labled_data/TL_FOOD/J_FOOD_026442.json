@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_026442",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-01",
+        "domain": "음식점",
+        "title": "灯台マグロ ( 등대참치 )"
+    },
+    "text": "灯台マグロ \n京畿道 平沢市 平南路 690\nマグロの刺身と熟成や活魚のお刺身をコースで楽しめる店です。 代表的なメニューはマグロの刺身です。京畿道のピョンテク市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "この店はどこにありますか？",
+            "answer": "この店は京畿道平沢市にあります。"
+        },
+        {
+            "question": "この店の特徴的なメニューは何ですか？",
+            "answer": "この店の特徴的なメニューはマグロの刺身です。"
+        },
+        {
+            "question": "この店ではどんなコースが楽しめますか？",
+            "answer": "この店ではマグロの刺身や熟成や活魚のお刺身をコースで楽しむことができます。"
+        },
+        {
+            "question": "この店の場所はどのように行けばいいですか？",
+            "answer": "この店の場所に行くには京畿道平南路の690番地にアクセスしてください。"
+        }
+    ],
+    "word_Count": {
+        "text": 68,
+        "QA": 132
+    }
+}

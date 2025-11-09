@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_002316",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-05-24",
+        "domain": "음식점",
+        "title": "アサダラ（아사다라）"
+    },
+    "text": "アサダラ\\n\n大邱広域市 寿城区 龍鶴路 116-12\\n\nアサダラは「美味しい所、行きたい所、心休まる所、ゆとりが感じられる所」をモットーとする韓牛の専門店です。雰囲気のよい庭園を眺めながら、ゆったりと食事をすることができます。",
+    "QA": [
+        {
+            "question": "アサダラはどの地域にありますか？",
+            "answer": "アサダラは大邱広域市の寿城区にあります。"
+        },
+        {
+            "question": "アサダラのモットーは何ですか？",
+            "answer": "アサダラのモットーは「美味しい所、行きたい所、心休まる所、ゆとりが感じられる所」です。"
+        },
+        {
+            "question": "アサダラでは何を食べることができますか？",
+            "answer": "アサダラでは韓牛を専門としており、美味しい料理を楽しむことができます。"
+        },
+        {
+            "question": "アサダラの雰囲気はどうですか？",
+            "answer": "アサダラの雰囲気はとても良く、庭園を眺めながらゆったりと食事をすることができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 84,
+        "QA": 150
+    }
+}

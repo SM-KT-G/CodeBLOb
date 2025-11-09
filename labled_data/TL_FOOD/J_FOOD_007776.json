@@ -1,0 +1,31 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_007776",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-19",
+        "domain": "음식점",
+        "title": "ジョンジンソギダリンパスタ( 정진석의달인파스타 )"
+    },
+    "text": "ジョンジンソギダリンパスタ\\n\nソウル特別市 ヨンドゥンポ区 ダンサンロ222\\n\n各種野菜とチーズを乗せたパン料理が人気です。ソウル特別市のヨンドゥンポ区に位置した洋食専門店です。おすすめはクリームパスタです。",
+    "QA": [
+        {
+            "question": "ジョンジンソギダリンパスタはどのような料理を提供していますか？",
+            "answer": "ジョンジンソギダリンパスタでは、各種野菜とチーズを乗せたパン料理が人気です。特におすすめはクリームパスタです。"
+        },
+        {
+            "question": "ジョンジンソギダリンパスタの場所はどこですか？",
+            "answer": "ジョンジンソギダリンパスタはソウル特別市のヨンドゥンポ区のダンサンロ222に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 77,
+        "QA": 113
+    }
+}

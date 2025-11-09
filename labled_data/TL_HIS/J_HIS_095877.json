@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_095877",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=606&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=03450000&ccbaCtcd=37&ccbaCpno=2113703450000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2003-03-03",
+        "domain": "문화/역사관광",
+        "title": "의성오봉종택소장전적"
+    },
+    "text": "朝鮮時代の慶尚北道有形文化財であるお盆はシンジジェの雅号で、シンジジェと息子シンホンマン及びその子孫と関連した筆写の原本や古文書だ。これは2003年に慶尚北道有形文化財に指定された。蔵書は韓国国学研究院に寄託されている。シンジジェは義城(キョンサンブクド・ウィソン)出身で1589年に及第し、要職を歴任し、シンホンマンは1639年に及第してくれと政言を歴任した。蔵書はすべて8種5本78枚で構成されており、筆写の原本とその他の文集素材詮議など6種も含まれている。",
+    "QA": [
+        {
+            "question": "シンジジェの雅号は何ですか？",
+            "answer": "シンジジェの雅号はお盆です。"
+        },
+        {
+            "question": "シンジジェの出身地はどこですか？",
+            "answer": "シンジジェの出身地は義城(キョンサンブクド・ウィソン)です。"
+        },
+        {
+            "question": "シンジジェの及第した年はいつですか？",
+            "answer": "シンジジェは1589年に及第しました。"
+        },
+        {
+            "question": "シンホンマンは何年に及第しましたか？",
+            "answer": "シンホンマンは1639年に及第しました。"
+        },
+        {
+            "question": "蔵書はどこに寄託されていますか？",
+            "answer": "蔵書は韓国国学研究院に寄託されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 169,
+        "QA": 135
+    }
+}

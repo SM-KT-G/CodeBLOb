@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001802",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/kingkong-budaejjigae-busan-seo-myeon-lotte",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "KINGKONGブデチゲ 釜山西面ロッテ"
+    },
+    "text": "KINGKONGブデチゲ 釜山西面ロッテ\\n\n釜山広域市 釜山鎮区 カヤデロ784ボンギル46-1\\n\n40年の伝統を持つプデチゲの名店です。釜山広域市のブサンジン区に位置した韓国料理店です。代表的なメニューはプデチゲです。",
+    "QA": [
+        {
+            "question": "このお店はどこにありますか？",
+            "answer": "このお店は釜山広域市の釜山鎮区に位置しています。"
+        },
+        {
+            "question": "このお店の名物メニューは何ですか？",
+            "answer": "このお店の代表的なメニューはプデチゲです。"
+        },
+        {
+            "question": "このお店の伝統は何年ですか？",
+            "answer": "このお店は40年の伝統を持っています。"
+        }
+    ],
+    "word_Count": {
+        "text": 82,
+        "QA": 79
+    }
+}

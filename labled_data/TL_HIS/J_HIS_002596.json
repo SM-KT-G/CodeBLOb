@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_002596",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1090&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=02040000&ccbaCtcd=37&ccbaCpno=3413702040000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1988-09-23",
+        "domain": "문화/역사관광",
+        "title": "삼강강당"
+    },
+    "text": "サムガンダン (삼강강당)\\n\n慶尚北道醴泉郡豊陽面三江里キル53-14(三江里)\\n\n慶尚北道文化財資料 , 清風慈チョン·ユンモク(1571~1629)が後進を養成するために建てた建物だ。 チョン·ユンモクは書院府院郡チョンタクの息子で、草書に優れた学者だ。 光海君の実情に不満を抱いて地方に降りて後進養成に努めた。 三江村の東側の洛東江辺に位置したこの講堂は、前方に丸い柱を立て、側面と後方には四角柱を立てて建物を建てた。 中央に開放された構造の床を置き、両側にオンドル部屋を配置した。 「百世清風」という扁額の字は、チョン·ユンモクが宣祖22年(1589)に父親に従って中国に行き、百二宿題の墓を参拝して帰ってくる時に写してきたものだ。 境内には自然石の上に建てられた小さな規模の鶴堂棟が一緒に残っている。",
+    "QA": [
+        {
+            "question": "この建物は何のために建てられましたか？",
+            "answer": "この建物は清風慈チョン・ユンモクが後進を養成するために建てられました。"
+        },
+        {
+            "question": "チョン・ユンモクはどのような学者でしたか？",
+            "answer": "チョン・ユンモクは書院府院郡チョンタクの息子で、草書に優れた学者でした。"
+        },
+        {
+            "question": "この講堂はどのような構造で建てられましたか？",
+            "answer": "この講堂は前方に丸い柱を立て、側面と後方には四角柱を立てて建物を建てられました。中央に開放された構造の床を置き、両側にオンドル部屋を配置しました。"
+        },
+        {
+            "question": "扁額の字「百世清風」とはどういう意味ですか？",
+            "answer": "扁額の字「百世清風」は、チョン・ユンモクが宣祖22年(1589)に父親に従って中国に行き、百二宿題の墓を参拝して帰ってくる時に写してきたものです。"
+        },
+        {
+            "question": "境内に残っている鶴堂棟の特徴は何ですか？",
+            "answer": "境内に残っている鶴堂棟は小さな規模で、自然石の上に建てられています。"
+        }
+    ],
+    "word_Count": {
+        "text": 261,
+        "QA": 260
+    }
+}

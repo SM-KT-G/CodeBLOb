@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_003411",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=247&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=13&ccbaAsno=02520000&ccbaCtcd=11&ccbaCpno=1331102520000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1977-11-22",
+        "domain": "문화/역사관광",
+        "title": "서울 약현성당"
+    },
+    "text": "ソウル薬峴聖堂 (서울 약현성당)\\n\nソウル中区中林洞149-2番地\\n\n1892年 , 史跡 , 韓国初の近代式建物で、1892年にフランス人神父コーストが設計·監督した。 長さ約32m、幅12mの十字形平面構造であり、比較的小規模の聖堂だ。 側面窓は軒の高さが低く尖ったアーチではなく円形アーチになっているが、前面の出入口と側面左右に突出した出入口窓の部分がそれぞれ尖ったアーチを成してゴシック状をしている。 韓国初の西洋式教会建築という点と、純粋なゴシック様式ではないがレンガでできたゴシック聖堂で後世の韓国教会建築の模範となった。 そしてカトリック迫害時代に数多くの殉教者を出した西小門の外の広場が見下ろせる場所に立っているという場所の歴史性で、韓国カトリック教会史と建築史において重要な意味を持っている。",
+    "QA": [
+        {
+            "question": "薬峴聖堂はいつ建てられましたか？",
+            "answer": "薬峴聖堂は1892年に建てられました。"
+        },
+        {
+            "question": "薬峴聖堂はどのような建物ですか？",
+            "answer": "薬峴聖堂は韓国初の近代式建物で、十字形の平面構造を持つ比較的小規模な聖堂です。"
+        },
+        {
+            "question": "薬峴聖堂の側面窓はどのような形状ですか？",
+            "answer": "薬峴聖堂の側面窓は円形アーチになっています。"
+        },
+        {
+            "question": "薬峴聖堂はどのような歴史的な意義を持っていますか？",
+            "answer": "薬峴聖堂は韓国初の西洋式教会建築であり、後の韓国教会建築の模範となりました。また、カトリック迫害時代に多くの殉教者を出した場所の近くに建っており、韓国カトリック教会史と建築史において重要な意味を持っています。"
+        }
+    ],
+    "word_Count": {
+        "text": 262,
+        "QA": 191
+    }
+}

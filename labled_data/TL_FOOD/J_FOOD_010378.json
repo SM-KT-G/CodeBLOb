@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_010378",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-05",
+        "domain": "음식점",
+        "title": "テッジトゥンボ冷麺 ( 택지뚱보냉면 )"
+    },
+    "text": "テッジトゥンボ冷麺 ( 택지뚱보냉면 )\\n\n江原道 ガンヌン市 ジョンウォンロ78\\n\n様々な麺料理が味わえる店です。おすすめは刺身入り冷麺です。江原道のガンヌン市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "テッジトゥンボ冷麺はどこにありますか？",
+            "answer": "テッジトゥンボ冷麺は江原道ガンヌン市ジョンウォンロ78に位置しています。"
+        },
+        {
+            "question": "テッジトゥンボ冷麺ではどんな麺料理を楽しむことができますか？",
+            "answer": "テッジトゥンボ冷麺では様々な麺料理を楽しむことができます。特におすすめは刺身入り冷麺です。"
+        },
+        {
+            "question": "テッジトゥンボ冷麺のおすすめメニューは何ですか？",
+            "answer": "テッジトゥンボ冷麺のおすすめメニューは刺身入り冷麺です。"
+        }
+    ],
+    "word_Count": {
+        "text": 70,
+        "QA": 133
+    }
+}

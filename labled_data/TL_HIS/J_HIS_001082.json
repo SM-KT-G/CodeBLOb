@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_001082",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-28",
+        "domain": "문화/역사관광",
+        "title": "SKテレコム New ICT体験館 T.um（SK텔레콤 New ICT체험관 T.um）"
+    },
+    "text": "SKテレコム New ICT体験館 T.um\nソウル特別市 中区 乙支路 65 SK Tタワー\n生活のすべてが革新される新しい世界、世界すべてが繋がる未来\n 韓国語の固有語で「芽生える」という意味のティウダという言葉から名づけられたICTミュージアムで、SKテレコムのテクノロジーを体験できるスペースです。一方的な情報発信や機能中心の体験にとどまっていた従来の企業広報館の限界を克服し、多様なICT体験が可能な環境を構築しています。\n 2021年4月からリアルタイムオンラインツアーを行っており、ホームページで予約後、観覧可能です。（詳細はホームページ参照）",
+    "QA": [
+        {
+            "question": "T.umは何を体験できる場所ですか？",
+            "answer": "T.umはSKテレコムのテクノロジーを体験できる場所です。"
+        },
+        {
+            "question": "T.umはどのような環境を提供していますか？",
+            "answer": "T.umは従来の企業広報館の限界を克服し、多様なICT体験が可能な環境を提供しています。"
+        },
+        {
+            "question": "T.umでリアルタイムオンラインツアーはいつから行われていますか？",
+            "answer": "T.umでリアルタイムオンラインツアーは2021年4月から行われています。"
+        },
+        {
+            "question": "T.umのリアルタイムオンラインツアーはどのように予約できますか？",
+            "answer": "T.umのリアルタイムオンラインツアーはホームページで予約後、観覧することができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 204,
+        "QA": 189
+    }
+}

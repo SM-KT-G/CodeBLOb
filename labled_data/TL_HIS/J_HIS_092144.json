@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_092144",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ja",
+        "translator": null,
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-06-08",
+        "domain": "문화/역사관광",
+        "title": "玉浦大捷記念公園（옥포대첩기념공원）"
+    },
+    "text": "玉浦大捷記念公園\n慶尚南道 巨済市 パルランポ2キル87\n「玉浦大捷（オッポデチョプ）記念公園」は壬辰倭乱勃発後、忠武公李舜臣将軍が最初に勝戦した玉浦海戦を記念して忠武公の精神を後世に継承するために由緒ある玉浦湾につくられた記念公園です。公園内には記念塔、参拝壇、玉浦楼、記念館、李舜臣将軍祠堂などがあります。",
+    "QA": [
+        {
+            "question": "記念公園の名前は何ですか？",
+            "answer": "玉浦大捷（オッポデチョプ）記念公園です。"
+        },
+        {
+            "question": "記念公園がどのような出来事を記念していますか？",
+            "answer": "忠武公李舜臣将軍が最初に勝利した玉浦海戦を記念しています。"
+        },
+        {
+            "question": "記念公園内にある施設は何ですか？",
+            "answer": "記念塔、参拝壇、玉浦楼、記念館、李舜臣将軍祠堂などがあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 113,
+        "QA": 96
+    }
+}

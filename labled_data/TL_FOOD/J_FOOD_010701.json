@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_010701",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2020-12-07",
+        "domain": "음식점",
+        "title": "トストグンヌンサラランドォル 枇杷( 토스트굽는사람들 비파 )"
+    },
+    "text": "トストグンヌンサラランドォル 枇杷( 토스트굽는사람들 비파 )\\n\n全羅南道 モクポ市 ベクニョンデロ337ボンギル20\\n\n様々なトッピングのトーストが選べます。全羅南道のモクポ市に位置したその他の案内専門店です。代表的なメニューはトーストです。",
+    "QA": [
+        {
+            "question": "トストグンヌンサラランドォル 枇杷はどこに位置していますか？",
+            "answer": "トストグンヌンサラランドォル 枇杷は全羅南道のモクポ市に位置しています。"
+        },
+        {
+            "question": "トストグンヌンサラランドォル 枇杷の代表的なメニューは何ですか？",
+            "answer": "トストグンヌンサラランドォル 枇杷の代表的なメニューはトーストです。"
+        },
+        {
+            "question": "トストグンヌンサラランドォル 枇杷ではどんなトッピングのトーストが選べますか？",
+            "answer": "トストグンヌンサラランドォル 枇杷では様々なトッピングのトーストが選べます。"
+        }
+    ],
+    "word_Count": {
+        "text": 91,
+        "QA": 153
+    }
+}

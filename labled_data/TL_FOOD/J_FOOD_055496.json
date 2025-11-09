@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_055496",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/halmae-gaya-milmyeon",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "ハルメカヤミルミョン"
+    },
+    "text": "ハルメカヤミルミョン\\n\n釜山広域市 中区 光復路 56-14\\n\n薄い黄色の麺は、適度な弾力があり、澄んだスープには薄い氷が入っており、さっぱりとした味が特徴です。",
+    "QA": [
+        {
+            "question": "このお店の名前は何ですか？",
+            "answer": "このお店の名前はハルメカヤミルミョンです。"
+        },
+        {
+            "question": "このお店はどこにありますか？",
+            "answer": "このお店は韓国の釜山広域市中区光復路56-14にあります。"
+        },
+        {
+            "question": "このお店の特徴的な麺の色は何色ですか？",
+            "answer": "このお店の特徴的な麺の色は薄い黄色です。"
+        },
+        {
+            "question": "このお店のスープに何が入っていますか？",
+            "answer": "このお店のスープには薄い氷が入っています。"
+        },
+        {
+            "question": "このお店のスープの味はどんな味ですか？",
+            "answer": "このお店のスープはさっぱりとした味です。"
+        }
+    ],
+    "word_Count": {
+        "text": 60,
+        "QA": 143
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_114546",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/collectionList#######",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2023-10-11",
+        "domain": "문화/역사관광",
+        "title": "청자주자"
+    },
+    "text": "青磁朱子 (청자주자)\\n\n国籍/時代:「韓国 - 高麗時代」 材質:「陶磁器 - 青磁」 作家:「作者不詳」 分類:「食生活 - 食器 - やかん」 大きさ:「全高295cm、全幅200cm、高さ62cm、底径19cm、高さ270cm、身丈77cm、底径89cm」 修正文: この作品は高麗時代の韓国で作られた陶磁器の青磁製のやかんで、作者は不明です。食生活に関連する食器の一つで、全高295cm、全幅200cm、高さ62cm、底径19cm、高さ270cm、身丈77cm、底径89cmの大きさを持っています。",
+    "QA": [
+        {
+            "question": "この作品は何時代のものですか？",
+            "answer": "高麗時代の作品です。"
+        },
+        {
+            "question": "このやかんの材質は何ですか？",
+            "answer": "青磁という陶磁器の素材でできています。"
+        },
+        {
+            "question": "このやかんの大きさはどのくらいですか？",
+            "answer": "全高295cm、全幅200cm、高さ62cm、底径19cm、高さ270cm、身丈77cm、底径89cmの大きさを持っています。"
+        },
+        {
+            "question": "この作品の作者は誰ですか？",
+            "answer": "作者は不明です。"
+        },
+        {
+            "question": "このやかんはどのような用途に使われていましたか？",
+            "answer": "食生活に関連する食器の一つとして使われていました。"
+        }
+    ],
+    "word_Count": {
+        "text": 187,
+        "QA": 154
+    }
+}

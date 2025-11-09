@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001697",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-05",
+        "domain": "음식점",
+        "title": "GOGOS ( 고고스 )"
+    },
+    "text": "GOGOS ( 고고스 )\\n\nソウル特別市 松坡区 ソンパナルギル256\\n\n石村湖の湖畔に位置し、ビューが素晴らしいカフェです。ソウル特別市のソンパ区に位置したカフェ（コーヒーショップ）です。代表的なメニューは氷小豆です。",
+    "QA": [
+        {
+            "question": "ゴゴス（高古西）はどこに位置していますか？",
+            "answer": "ゴゴス（高古西）はソウル特別市松坡区ソンパナルギル256に位置しています。"
+        },
+        {
+            "question": "ゴゴス（高古西）はどんなカフェですか？",
+            "answer": "ゴゴス（高古西）は石村湖の湖畔に位置し、ビューが素晴らしいカフェです。"
+        },
+        {
+            "question": "ゴゴス（高古西）の代表的なメニューは何ですか？",
+            "answer": "ゴゴス（高古西）の代表的なメニューは氷小豆です。"
+        }
+    ],
+    "word_Count": {
+        "text": 82,
+        "QA": 116
+    }
+}

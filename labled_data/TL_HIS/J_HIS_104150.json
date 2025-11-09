@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_104150",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=415&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=00510000&ccbaCtcd=38&ccbaCpno=2113800510000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1972-02-12",
+        "domain": "문화/역사관광",
+        "title": "진주 청곡사 대웅전"
+    },
+    "text": "晋州清谷寺大雄殿\\n\n慶尚南道晋州市錦山面葛田里\\n\n慶尚南道有形文化財、ウォルアサンの麓に位置したチョンゴクサは統一新羅景文王13年(873)に導線国師が建てた寺で、文禄・慶長の役(1592)で完全に焼けてなくなったことを光海君4年(1612)ーぽー大使が再びなって今日に至っている。釈迦三尊仏の像を奉っている大雄殿は光海君(クァンヘグン、在位1608∼1623)の時に再び建てられた。前面3間・側面2間規模のビルで、屋根側面が八(八部)字形の入母屋造りである。軒を支え、装飾を兼ねた恐怖が柱の上と柱の間にもあるダポギェ建物である。中央間は、隣の両カンよりやや間隔は広いが、恐怖が置かれた間隔は中でカーンと量ヨプカン全部同じである。内部に祀られた釈迦三尊仏上は、光海君7年(1615)に作られたもので、文禄・慶長の役以降に作られたのは比較的大きな仏像に属する。チョンゴクサ、大雄殿は慶尚南道地方に残っている建物の中で一番古いとされている。...",
+    "QA": [
+        {
+            "question": "この寺の名称は何ですか？",
+            "answer": "清谷寺大雄殿"
+        },
+        {
+            "question": "この寺はどの時代に建てられましたか？",
+            "answer": "統一新羅景文王13年(873)に導線国師が建てました。"
+        },
+        {
+            "question": "大雄殿の再建はいつ行われましたか？",
+            "answer": "光海君の時代(クァンヘグン、在位1608∼1623)に再び建てられました。"
+        },
+        {
+            "question": "大雄殿の屋根の形はどのような形ですか？",
+            "answer": "八(八部)字形の入母屋造りです。"
+        },
+        {
+            "question": "大雄殿の内部に祀られた釈迦三尊仏はいつ作られましたか？",
+            "answer": "光海君7年(1615)に作られました。"
+        },
+        {
+            "question": "この寺は慶尚南道地方に残っている建物の中で何番目に古いですか？",
+            "answer": "慶尚南道地方に残っている建物の中で一番古いとされています。"
+        }
+    ],
+    "word_Count": {
+        "text": 310,
+        "QA": 189
+    }
+}

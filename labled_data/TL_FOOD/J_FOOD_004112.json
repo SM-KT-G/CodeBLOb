@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_004112",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-05",
+        "domain": "음식점",
+        "title": "カツ豚カツ ( 가쯔돈까스 )"
+    },
+    "text": "カツ豚カツ ( 가쯔돈까스 )\\n\n慶尚北道 アンドン市 オクドン1ギル2\\n\n完璧なソースとサクサクした洋食トンカツの組み合わせが素敵な店です。慶尚北道のアンドン市に位置した洋食専門店です。おすすめは手作り豚カツです。",
+    "QA": [
+        {
+            "question": "このお店の場所はどこですか？",
+            "answer": "慶尚北道のアンドン市のオクドン1ギル2にあります。"
+        },
+        {
+            "question": "このお店の名前は何ですか？",
+            "answer": "このお店の名前は「カツ豚カツ(가쯔돈까스)」です。"
+        },
+        {
+            "question": "このお店のおすすめメニューは何ですか？",
+            "answer": "このお店のおすすめは手作り豚カツです。"
+        },
+        {
+            "question": "このお店の特徴は何ですか？",
+            "answer": "このお店の特徴は、完璧なソースとサクサクした洋食トンカツの組み合わせです。"
+        }
+    ],
+    "word_Count": {
+        "text": 80,
+        "QA": 121
+    }
+}

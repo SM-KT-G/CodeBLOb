@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_019662",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "豚ボタリ ( 돈보따리 )"
+    },
+    "text": "豚ボタリ ( 돈보따리 )\n済州特別自治道 済州市  ジェウォンキル 6\n特製ソースで味付けした済州島の黒豚が味わえる店です。おすすめは黒豚の皮付サムギョプサルです。済州特別自治道のジェジュ市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "済州特別自治道に位置する豚ボタリはどのような特徴がありますか？",
+            "answer": "豚ボタリは、済州特別自治道の済州市に位置し、特製ソースで味付けした済州島の黒豚が味わえる店です。おすすめは黒豚の皮付サムギョプサルです。"
+        },
+        {
+            "question": "豚ボタリはどの市に位置していますか？",
+            "answer": "豚ボタリは済州特別自治道の済州市に位置しています。"
+        },
+        {
+            "question": "豚ボタリのおすすめメニューは何ですか？",
+            "answer": "豚ボタリのおすすめは黒豚の皮付サムギョプサルです。"
+        }
+    ],
+    "word_Count": {
+        "text": 79,
+        "QA": 136
+    }
+}

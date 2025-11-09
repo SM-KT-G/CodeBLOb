@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_024615",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42090&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "제주 제이르블랑펜션(18년신축)"
+    },
+    "text": "涯月海岸道路と近接しているジェイルブランペンションは、2018年春に新しくオープンした新築ペンションです。 このペンションは済州島で最高の眺めと施設を誇り、お客様を歓迎します。 22時以降に入室される場合は予めご連絡ください。",
+    "QA": [
+        {
+            "question": "このペンションはいつオープンしましたか？",
+            "answer": "ジェイルブランペンションは2018年春にオープンしました。"
+        },
+        {
+            "question": "このペンションはどのような眺めがありますか？",
+            "answer": "涯月海岸道路に近接しているため、ジェイルブランペンションは最高の眺めを楽しむことができます。"
+        },
+        {
+            "question": "22時以降に入室する場合はどうすればよいですか？",
+            "answer": "22時以降に入室する場合は事前にご連絡ください。"
+        },
+        {
+            "question": "このペンションの施設にはどんなものがありますか？",
+            "answer": "ジェイルブランペンションは新築であり、最高の施設を誇っています。具体的な施設については詳細な情報は提供されていません。"
+        }
+    ],
+    "word_Count": {
+        "text": 82,
+        "QA": 181
+    }
+}

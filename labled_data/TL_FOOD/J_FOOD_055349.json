@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_055349",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/jeju-heukdwaeji-sundaegukbap",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "チェジュフクドゥェジスンデグクバブ"
+    },
+    "text": "チェジュフクドゥェジスンデグクバブ\\n\nソウル特別市 ジョンノ区 ドンスンギル 113, 2階\\n\nこの店はソウル特別市のテハンノに位置した韓食専門店です。スンデクッは豚肉で作った韓国式ソーセージのスンデを煮込んだ韓国の伝統的なスープ料理です。代表的なメニューはスンデクッパです。",
+    "QA": [
+        {
+            "question": "この店の名前は何ですか？",
+            "answer": "この店の名前はチェジュフクドゥェジスンデグクバブです。"
+        },
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "この店はソウル特別市のテハンノに位置しています。"
+        },
+        {
+            "question": "この店の特徴的なメニューは何ですか？",
+            "answer": "この店の代表的なメニューはスンデクッパです。"
+        },
+        {
+            "question": "スンデクッはどのような料理ですか？",
+            "answer": "スンデクッは豚肉で作った韓国式ソーセージのスンデを煮込んだ韓国の伝統的なスープ料理です。"
+        }
+    ],
+    "word_Count": {
+        "text": 102,
+        "QA": 129
+    }
+}

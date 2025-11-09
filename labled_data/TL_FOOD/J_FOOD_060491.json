@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_060491",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2023-05-26",
+        "domain": "음식점",
+        "title": "국일관"
+    },
+    "text": "40年以上、イシモチの干物を扱いながら得たノウハウと長くなった取引先を通じて、最高のイシモチの干物を供給するという。韓定食専門店だが、イシモチの干物の料理から麦のイシモチが出てくる選択の幅が多様だ。全ての賞ごとにコチュジャンイシモチやチョキタンは基本メニューだ。",
+    "QA": [
+        {
+            "question": "イシモチの干物を扱っているお店ですか？",
+            "answer": "はい、当店はイシモチの干物を扱っています。"
+        },
+        {
+            "question": "どのようなノウハウを持っていますか？",
+            "answer": "40年以上の経験と取引先との長い関係を通じて、最高のイシモチの干物を供給するためのノウハウを持っています。"
+        },
+        {
+            "question": "イシモチの干物の料理の選択肢はありますか？",
+            "answer": "はい、イシモチの干物の料理から、コチュジャンイシモチやチョキタンなど、多様な選択肢があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 96,
+        "QA": 131
+    }
+}

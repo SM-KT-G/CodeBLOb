@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_004068",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42030&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "경주 달빛여행펜션"
+    },
+    "text": "こんにちは、新羅千年の都市慶州の暖かさが感じられる月光旅行ペンションへようこそ。 当ペンションは慶州普門観光団地内に位置しており、様々な観光地だけでなく、市内やICとも隣接して旅行をさらに楽しめるようにします。 幸せな旅のために、いつも当月光旅行ペンションが共にします。 入室は21時以降は事前にご連絡をお願いいたします。入退室時間は、次の予約のお客様のために守ってください。",
+    "QA": [
+        {
+            "question": "月光旅行ペンションはどこに位置していますか？",
+            "answer": "当ペンションは慶州普門観光団地内に位置しています。"
+        },
+        {
+            "question": "月光旅行ペンションの周辺にはどんな観光地がありますか？",
+            "answer": "慶州普門観光団地周辺には、様々な観光地があります。"
+        },
+        {
+            "question": "月光旅行ペンションは交通の便が良いですか？",
+            "answer": "はい、月光旅行ペンションは市内やICとも隣接しており、交通の便が良いです。"
+        },
+        {
+            "question": "入室時間について教えてください。",
+            "answer": "入室は21時以降は事前にご連絡をお願いいたします。"
+        },
+        {
+            "question": "退室時間について教えてください。",
+            "answer": "退室時間は、次の予約のお客様のために守ってください。"
+        },
+        {
+            "question": "どんな旅行を楽しむことができますか？",
+            "answer": "当ペンションの周辺には様々な観光地や市内があり、様々な旅行を楽しむことができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 137,
+        "QA": 219
+    }
+}

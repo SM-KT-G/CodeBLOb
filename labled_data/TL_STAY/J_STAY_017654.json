@@ -1,0 +1,31 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_017654",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-09",
+        "domain": "숙박",
+        "title": "ロッテホテルワールド（롯데호텔 월드）"
+    },
+    "text": "ロッテホテルワールド（롯데호텔 월드）\\n\nソウル特別市 松坡区 オリンピック路240\\n\nロッテホテルワールドは、世界最大級の室内テーマパーク、ロッテワールドコンプレックス内にあります。レストラン、バー、国際会議場をはじめ各種宴会場、ビジネスマンのためのエグゼクティブフロア、フィットネスセンター、免税店、サウナなど各種施設が揃っています。",
+    "QA": [
+        {
+            "question": "ロッテホテルワールドはどこにありますか？",
+            "answer": "ロッテホテルワールドはソウル特別市 松坡区 オリンピック路240にあります。"
+        },
+        {
+            "question": "ロッテホテルワールドの施設は何がありますか？",
+            "answer": "ロッテホテルワールドにはレストラン、バー、国際会議場、宴会場、エグゼクティブフロア、フィットネスセンター、免税店、サウナなど様々な施設があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 125,
+        "QA": 112
+    }
+}

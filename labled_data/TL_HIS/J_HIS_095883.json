@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_095883",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=489&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=01500000&ccbaCtcd=37&ccbaCpno=2113701500000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1982-02-24",
+        "domain": "문화/역사관광",
+        "title": "의성향교"
+    },
+    "text": "ウィソン・ヒャンギョ\\n\n慶尚北道義城郡義城邑道東里808番地\\n\n慶尚北道有形文化財、郷校は立派な儒学者を祭祀と地方民の留学教育科教化を向けて国で建てた教育機関だ。朝鮮太祖3年(1394)に建てられたと伝え、人種1年(1545)に受理した記録から見て、朝鮮前期に建築されたことが確実だ。大成殿、明倫堂がお互いに他の土塀の中に南向きに配置されて祭祀空間が前にあり、学習空間が後にあるチョンミョフハクに、選考では脱した独特の配置をしている。郷校の中心建物である大成殿は、中国と韓国の成人たちの位牌を祀ったところに、前面5間・側面2間の切妻の家であり、朝鮮中期の建築だ。カンハク空間の中心建物である明倫堂は前面5間・側面2間の横顔が八(八部)字形の入母屋屋根で朝鮮後期の建築物だ。明倫堂の前にある儒学者たちの宿舎のドンジェは表4間・側面2間の切妻の家だ。楼門であるグヮンプンルは表5間・側面3間の2階で屋根の横顔が人の教わる字形の切妻屋根の家だ。2階には欄干が巡らされた。今は郷校の教育的機能はなくなり、春・秋に二度祭祀をしている。",
+    "QA": [
+        {
+            "question": "この学校はいつ建てられましたか？",
+            "answer": "学校は朝鮮太祖3年(1394)に建てられたと伝えられています。"
+        },
+        {
+            "question": "この学校の中心建物である大成殿には何が祀られていますか？",
+            "answer": "大成殿には中国と韓国の成人たちの位牌が祀られています。"
+        },
+        {
+            "question": "明倫堂は何時期の建築物ですか？",
+            "answer": "明倫堂は朝鮮後期の建築物です。"
+        },
+        {
+            "question": "郷校の教育的機能は今どうなっていますか？",
+            "answer": "今は郷校の教育的機能はなくなり、春・秋に二度祭祀をしています。"
+        }
+    ],
+    "word_Count": {
+        "text": 340,
+        "QA": 134
+    }
+}

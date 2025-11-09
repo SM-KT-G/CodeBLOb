@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_000920",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2023-08-03",
+        "domain": "문화/역사관광",
+        "title": "CICA 미술관"
+    },
+    "text": "CICA ミスルグァン (CICA 미술관)\\n\n京畿道金浦市陽村邑三道路196-30\\n\nCzongInstituteforContemporaryArt(CICA)は、1994年に作家の作業室を元にして創り上げた独特な文化空間です。CICAは2014年以来、活発な国際展および出版活動を行っており、現在世界中の3千人以上のアーティストとネットワークを形成しています。CICAは主に現代美術を中心にした社会文化全般の視覚文化テーマの主要国際展、カンファレンス、およびイベントを企画しており、実験的なアーティストや視覚文化学者の研究の場となっています。CICAは、誰もが簡単に現代美術に触れ、日常生活に応用できるオープンな空間を目指しています。",
+    "QA": [
+        {
+            "question": "CICA ミスルグァンはどこにありますか？",
+            "answer": "CICA ミスルグァンは京畿道金浦市陽村邑三道路196-30にあります。"
+        },
+        {
+            "question": "CICAは何を目指していますか？",
+            "answer": "CICAは誰もが簡単に現代美術に触れ、日常生活に応用できるオープンな空間を目指しています。"
+        },
+        {
+            "question": "CICAは何を主に企画していますか？",
+            "answer": "CICAは主に現代美術を中心にした社会文化全般の視覚文化テーマの主要国際展、カンファレンス、およびイベントを企画しています。"
+        },
+        {
+            "question": "CICAはどのようなネットワークを形成していますか？",
+            "answer": "CICAは現在世界中の3千人以上のアーティストとネットワークを形成しています。"
+        },
+        {
+            "question": "CICAはどのような場所ですか？",
+            "answer": "CICAは作家の作業室を元にして創り上げた独特な文化空間です。"
+        }
+    ],
+    "word_Count": {
+        "text": 236,
+        "QA": 227
+    }
+}

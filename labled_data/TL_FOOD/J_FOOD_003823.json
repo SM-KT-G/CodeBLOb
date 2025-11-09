@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_003823",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-06",
+        "domain": "음식점",
+        "title": "オルクンすいとん ( 얼큰수제비 )"
+    },
+    "text": "オルクンすいとん ( 얼큰수제비 )\\n\nソウル特別市 瑞草区 シンバンポロ194\\n\n様々な韓国料理が味わえる店です。ソウル特別市のソチョ区に位置した韓食専門店です。代表的なメニューはピリ辛すいとんです。",
+    "QA": [
+        {
+            "question": "オルクンすいとんはどこに位置していますか？",
+            "answer": "オルクンすいとんはソウル特別市の瑞草区に位置しています。"
+        },
+        {
+            "question": "オルクンすいとんの代表的なメニューは何ですか？",
+            "answer": "オルクンすいとんの代表的なメニューはピリ辛すいとんです。"
+        },
+        {
+            "question": "オルクンすいとんで味わえる他の韓国料理はありますか？",
+            "answer": "オルクンすいとんでは様々な韓国料理を味わうことができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 75,
+        "QA": 113
+    }
+}

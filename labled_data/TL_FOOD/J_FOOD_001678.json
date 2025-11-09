@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001678",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/ganga-apgujeong-branch",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "Ganga 狎鴎亭"
+    },
+    "text": "Ganga 狎鴎亭\\n\nソウル特別市 江南区 ノンヒョンロ868\\n\nインドで20年以上の経歴を持つシェフたちが直接調理します。おすすめはタンドリーチキンです。ソウル特別市のガンナム区に位置しているインド料理専門店です。",
+    "QA": [
+        {
+            "question": "狎鴎亭はどこに位置していますか？",
+            "answer": "狎鴎亭はソウル特別市の江南区に位置しています。"
+        },
+        {
+            "question": "どのような経歴を持つシェフが調理を担当していますか？",
+            "answer": "インドで20年以上の経歴を持つシェフたちが調理を担当しています。"
+        },
+        {
+            "question": "おすすめの料理は何ですか？",
+            "answer": "おすすめの料理はタンドリーチキンです。"
+        }
+    ],
+    "word_Count": {
+        "text": 80,
+        "QA": 94
+    }
+}

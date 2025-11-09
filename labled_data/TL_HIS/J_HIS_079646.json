@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_079646",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=434&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=00760000&ccbaCtcd=32&ccbaCpno=2113200760000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1982-11-03",
+        "domain": "문화/역사관광",
+        "title": "삼척영은사대웅보전"
+    },
+    "text": "三陟ヨンウンサ・テウンボジョン\\n\n江原道三陟市近徳面宮村キル1162 (宮村里)\\n\n江原道特別自治道有形文化財、靈隱寺のは統一新羅の真聖女王6年(892)に凡一調査が初めて建てたお寺で、この時にはウンマンサとした。朝鮮宣祖18年(1585)に、四溟(サミョン)大師が現在の場所に再び移動して建設し、靈隱寺のと名前を変えた。その後、山火事で寺が全焼たことを、純祖(スンジョ)、5年(1805)に再びなったと伝えている。靈隱寺の大雄殿は前面3間・側面3間の規模であり、横から見た時、ジブンソンが人の教わる字形の単純な切妻屋根の家だ。屋根を支え、装飾を兼ねない恐怖は柱の上と柱の間にもあるダポ様式である。ダポシクの建物は普通入母屋屋根や寄棟屋根の家なのに比べて、この建物は切妻屋根の特異だ。内部には釈迦モニー三尊仏上を案内していて5幅の仏画がある。",
+    "QA": [
+        {
+            "question": "靈隱寺はいつ建てられましたか？",
+            "answer": "靈隱寺は統一新羅の真聖女王6年(892)に凡一調査が初めて建てたお寺で、この時にはウンマンサとした。"
+        },
+        {
+            "question": "靈隱寺の名称がいつ変わりましたか？",
+            "answer": "朝鮮宣祖18年(1585)に、四溟(サミョン)大師が現在の場所に再び移動して建設し、靈隱寺のと名前を変えた。"
+        },
+        {
+            "question": "靈隱寺の大雄殿はどんな規模ですか？",
+            "answer": "靈隱寺の大雄殿は前面3間・側面3間の規模であり、横から見た時、ジブンソンが人の教わる字形の単純な切妻屋根の家だ。"
+        },
+        {
+            "question": "靈隱寺の大雄殿にどんな仏画がありますか？",
+            "answer": "内部には釈迦モニー三尊仏上を案内していて5幅の仏画がある。"
+        }
+    ],
+    "word_Count": {
+        "text": 273,
+        "QA": 189
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_008531",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "ソウル食堂 ( 서울식당 )"
+    },
+    "text": "ソウル食堂 ( 서울식당 )\n全羅南道 モクポ市 ベクニョンデロ307ボンギル9-4\n魚料理が味わえる店です。全羅南道のモクポ市に位置した韓食専門店です。おすすめはサバ焼きです。",
+    "QA": [
+        {
+            "question": "このお店はどこにありますか？",
+            "answer": "このお店は全羅南道のモクポ市にあります。"
+        },
+        {
+            "question": "このお店のおすすめ料理は何ですか？",
+            "answer": "このお店のおすすめはサバ焼きです。"
+        },
+        {
+            "question": "このお店の特徴は何ですか？",
+            "answer": "このお店は魚料理が味わえる専門店です。"
+        }
+    ],
+    "word_Count": {
+        "text": 65,
+        "QA": 73
+    }
+}

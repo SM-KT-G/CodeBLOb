@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_025483",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2020-12-07",
+        "domain": "음식점",
+        "title": "忍冬酒マウル( 인동주마을 )"
+    },
+    "text": "忍冬酒マウル( 인동주마을 )\\n\n全羅南道 モクポ市 ボクサンギル12ボンギル5\\n\nスイカズラを使った様々な料理が味わえる店です。 全羅南道のモクポ市に位置した韓食専門店です。代表的なメニューはガンギエイのサムハプです。",
+    "QA": [
+        {
+            "question": "忍冬酒マウルはどこに位置していますか？",
+            "answer": "忍冬酒マウルは全羅南道のモクポ市に位置しています。"
+        },
+        {
+            "question": "忍冬酒マウルで味わえる料理は何ですか？",
+            "answer": "忍冬酒マウルではスイカズラを使った様々な料理が味わえます。"
+        },
+        {
+            "question": "忍冬酒マウルの代表的なメニューは何ですか？",
+            "answer": "忍冬酒マウルの代表的なメニューはガンギエイのサムハプです。"
+        }
+    ],
+    "word_Count": {
+        "text": 82,
+        "QA": 104
+    }
+}

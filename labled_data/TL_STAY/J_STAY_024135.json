@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_024135",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/goods/GN0002021570?startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "서귀포 라운지하우스제주다펜션"
+    },
+    "text": "詩人のチョン·ジヨン先生は旅行を離家楽(イ·ガラク)と表現し、家を出る楽しさを感じると言いました。 彼は自由に離れて自然にやさしい空間で済州の四季を思う存分楽しむ時間を楽しみます。 このような時間を満たすことができる場所としてLounge house 済州だをご紹介します。 こちらはお知らせで、22時以降に入室される場合は予めご連絡をお願いすると案内しています。",
+    "QA": [
+        {
+            "question": "済州の四季を思う存分楽しむ時間を満たすことができる場所はどこですか？",
+            "answer": "そのような時間を満たすことができる場所として、Lounge house 済州をご紹介します。"
+        },
+        {
+            "question": "Lounge house 済州では22時以降に入室する場合、事前に連絡をする必要があるのですか？",
+            "answer": "はい、Lounge house 済州ではお知らせで、22時以降に入室される場合は予めご連絡をお願いすると案内しています。"
+        },
+        {
+            "question": "詩人のチョン·ジヨン先生は旅行を離家楽(イ·ガラク)と表現しましたが、その楽しさを感じるためにどのようなことをするのですか？",
+            "answer": "チョン·ジヨン先生は自然にやさしい空間で済州の四季を思う存分楽しむ時間を楽しむと言っています。"
+        }
+    ],
+    "word_Count": {
+        "text": 133,
+        "QA": 217
+    }
+}

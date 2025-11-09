@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_007454",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=688&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=05550000&ccbaCtcd=37&ccbaCpno=2113705550000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2020-12-17",
+        "domain": "문화/역사관광",
+        "title": "경주 남산 포석곡 제6사지 오층석탑"
+    },
+    "text": "慶州南山浦石谷第6寺址五重石塔 (경주 남산 포석곡 제6사지 오층석탑)\\n\n慶尚北道慶州市\\n\n統一新羅後期から高麗時代にかけて製作された過渡期的様式 , 慶尚北道有形文化財 , 慶州南山浦石谷第6寺址五重石塔は百済系石塔と推定され、新羅の王京だった南山に百済系石塔が建てられたとすれば、これは非常に大切な事例だ。 製作時期は研究者によって若干の差があるが、統一新羅後期から高麗時代に移る頃に製作された過渡期的様式と理解されている。 この石塔が百済系が確実なら王宮に隣接し、王京が一望できる南山稜線に建てられた塔という点で象徴的な意味が大きく、統一新羅時代後半に造成された慶州南山唯一の百済系石塔という点で学術的に重要な意味を持つ。",
+    "QA": [
+        {
+            "question": "この五重石塔はどのような時代に作られましたか？",
+            "answer": "統一新羅後期から高麗時代に移る頃に製作されました。"
+        },
+        {
+            "question": "この石塔はどのような様式で製作されましたか？",
+            "answer": "過渡期的様式で製作されました。"
+        },
+        {
+            "question": "この石塔は何のために建てられましたか？",
+            "answer": "百済系石塔と推定され、百済系石塔が新羅の王京であった南山に建てられたと考えられます。"
+        },
+        {
+            "question": "この石塔はどのような場所に建っていますか？",
+            "answer": "王宮に隣接し、南山稜線に建てられています。"
+        },
+        {
+            "question": "この石塔は慶州南山で唯一の百済系石塔ですか？",
+            "answer": "はい、統一新羅時代後半に造成された慶州南山で唯一の百済系石塔です。"
+        }
+    ],
+    "word_Count": {
+        "text": 233,
+        "QA": 178
+    }
+}

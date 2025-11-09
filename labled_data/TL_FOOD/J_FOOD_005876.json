@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_005876",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-13",
+        "domain": "음식점",
+        "title": "コッタム ( 꽃담 )"
+    },
+    "text": "コッタム \\n\n全羅南道 海南郡 海南邑 キョユクチョンギル29-7\\n\n海南サツマイモの茎のナムルと韓国産のタチウオだけを使用しています。代表的なメニューは太刀魚の煮付けです。全羅南道のヘナム郡に位置した韓国料理店です。",
+    "QA": [
+        {
+            "question": "このレストランの場所はどこですか？",
+            "answer": "コッタムは全羅南道海南郡海南邑キョユクチョンギル29-7に位置しています。"
+        },
+        {
+            "question": "このレストランでは何を提供していますか？",
+            "answer": "コッタムでは海南サツマイモの茎のナムルと韓国産のタチウオの料理が提供されています。"
+        },
+        {
+            "question": "このレストランの代表的なメニューは何ですか？",
+            "answer": "コッタムの代表的なメニューは太刀魚の煮付けです。"
+        },
+        {
+            "question": "このレストランはどのような雰囲気ですか？",
+            "answer": "コッタムは韓国料理店で、全羅南道のヘナム郡に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 81,
+        "QA": 154
+    }
+}

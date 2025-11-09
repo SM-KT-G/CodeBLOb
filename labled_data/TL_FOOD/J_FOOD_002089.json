@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_002089",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/sona",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "SONA"
+    },
+    "text": "SONA\\n\nソウル特別市 江南区 江南大路162キル 40\\n\n新沙洞（シンサドン）カロスキルにあるSONAは、美しくておいしいスイーツが味わえる、目も口も楽しませてくれるカフェです。パティシエがその場で作ってくれるスイーツを単品やコースで味わうことができ、正統派フレンチスイーツというよりは多少アメリカ風のフュージョンスタイルです。",
+    "QA": [
+        {
+            "question": "SONAはどこにありますか？",
+            "answer": "SONAはソウル特別市江南区江南大路162キル40にあります。"
+        },
+        {
+            "question": "SONAはどんなカフェですか？",
+            "answer": "SONAは美しくておいしいスイーツが味わえる、目も口も楽しませてくれるカフェです。"
+        },
+        {
+            "question": "SONAで何が味わえますか？",
+            "answer": "SONAではパティシエがその場で作ってくれるスイーツを単品やコースで味わうことができます。"
+        },
+        {
+            "question": "SONAのスイーツはどんなスタイルですか？",
+            "answer": "SONAのスイーツは正統派フレンチスイーツよりも多少アメリカ風のフュージョンスタイルです。"
+        }
+    ],
+    "word_Count": {
+        "text": 123,
+        "QA": 165
+    }
+}

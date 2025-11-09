@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_092307",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.doopedia.co.kr/",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2023-10-11",
+        "domain": "문화/역사관광",
+        "title": "와리"
+    },
+    "text": "瓦里\\n\nこの地は低い山脈に囲まれ、前方には美しい臥龍川が流れる、静かで穏やかな村です。牧果、鴨谷、元臥といった自然豊かな村々があり、その中でも特に元臥村と呼ばれることが多くなりました。この村は昔からキュウリの栽培で有名でした。",
+    "QA": [
+        {
+            "question": "この村はどんな地形に囲まれていますか？",
+            "answer": "低い山脈に囲まれ、静かで穏やかな村です。"
+        },
+        {
+            "question": "臥龍川はどのような特徴がありますか？",
+            "answer": "美しい臥龍川が流れ、村の前方に広がっています。"
+        },
+        {
+            "question": "この地域にはどのような村々がありますか？",
+            "answer": "牧果、鴨谷、元臥といった自然豊かな村々があります。"
+        },
+        {
+            "question": "元臥村は何で有名ですか？",
+            "answer": "元臥村は昔からキュウリの栽培で有名です。"
+        }
+    ],
+    "word_Count": {
+        "text": 83,
+        "QA": 115
+    }
+}

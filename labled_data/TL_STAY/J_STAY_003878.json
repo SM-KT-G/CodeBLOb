@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_003878",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42090&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "제주 판포현스테이"
+    },
+    "text": "こんにちは！私たちパンポヒョンステイは愛犬を愛する所です。 当ペンションは、済州の美しい海と澄んだ空気が調和した済州の西側、板浦里に位置しています。 そしてしばらく、お知らせがあります。 22時以降に入室される場合は、ペンションまで予めご連絡ください。 .",
+    "QA": [
+        {
+            "question": "パンポヒョンステイはどこに位置していますか？",
+            "answer": "パンポヒョンステイは済州の西側、板浦里に位置しています。"
+        },
+        {
+            "question": "パンポヒョンステイの特徴は何ですか？",
+            "answer": "パンポヒョンステイの特徴は、美しい海と澄んだ空気が調和していることです。"
+        },
+        {
+            "question": "22時以降に入室する場合、何をする必要がありますか？",
+            "answer": "22時以降に入室される場合は、事前にペンションに連絡する必要があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 93,
+        "QA": 121
+    }
+}

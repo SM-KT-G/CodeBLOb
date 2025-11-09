@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_053258",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=479&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=01360000&ccbaCtcd=32&ccbaCpno=2113201360000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2001-12-29",
+        "domain": "문화/역사관광",
+        "title": "구룡사삼장탱화및복장유물"
+    },
+    "text": "朝鮮英祖3年(1727)に、江原道(カンウォンド)の特別自治道に位置した有形文化財に指定された三蔵幀画は、1727年に製作された仏画により、江原道では珍しい作品だ。仏画は天井菩薩、支持菩薩、地蔵菩薩とその眷属たちを描いた仏画で、その途上の由来は分かっていないが、地蔵菩薩信仰の拡大とともに形成されたことで知られている。仏画は天井菩薩が中央に位置して、支持菩薩と地蔵菩薩が左右に並んで配置されている。三菩薩ともに高い須彌壇の上に座っており、天井菩薩は左手に警策を、お地蔵さんは右手に宝珠を、左手で錫杖を引っ張っている。顔は丸い形で、小さくて繊細に描写されており、端正で上品な姿だ。この仏画は朝鮮後期の不和で制作年代が早い方で、保存状態が非常に良く、優秀な作品性を示している。この仏画には三蔵幀画とともに遺物な服装ポケット、フリョントン、風呂敷などが一緒に安置されており、これは画僧白旗と永徽によって製作された。服装ポケットは横11.6センチ、縦13.5㎝で、布で作られている。",
+    "QA": [
+        {
+            "question": "この三蔵幀画はいつ作られましたか？",
+            "answer": "この三蔵幀画は1727年に作られました。"
+        },
+        {
+            "question": "なぜこの三蔵幀画は江原道では珍しい作品とされていますか？",
+            "answer": "江原道ではこの三蔵幀画のような仏画は珍しいためです。"
+        },
+        {
+            "question": "この仏画は何を描いていますか？",
+            "answer": "この仏画は天井菩薩、支持菩薩、地蔵菩薩とその眷属たちを描いています。"
+        },
+        {
+            "question": "この仏画の保存状態はどうですか？",
+            "answer": "この仏画は保存状態が非常に良く、優秀な作品性を示しています。"
+        },
+        {
+            "question": "この仏画は誰によって製作されましたか？",
+            "answer": "この仏画は画僧白旗と永徽によって製作されました。"
+        }
+    ],
+    "word_Count": {
+        "text": 320,
+        "QA": 167
+    }
+}

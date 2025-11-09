@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_055191",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-09-27",
+        "domain": "음식점",
+        "title": "クンギワジプ ( 큰기와집 )_1"
+    },
+    "text": "クンギワジプ ( 큰기와집 )\\n\nソウル特別市 鐘路区 北村路5キル 62\\n\n「2018ミシュランガイド」に選定された店です。代表的なメニューはカンジャンケジャンです。ソウル特別市のジョンノ区に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "この店はどの地区に位置していますか？",
+            "answer": "この店はソウル特別市の鐘路区に位置しています。"
+        },
+        {
+            "question": "この店はどのようなメニューがありますか？",
+            "answer": "この店の代表的なメニューはカンジャンケジャンです。"
+        },
+        {
+            "question": "この店はどのガイドブックに選ばれましたか？",
+            "answer": "この店は「2018ミシュランガイド」に選定されました。"
+        },
+        {
+            "question": "この店はどの区に位置していますか？",
+            "answer": "この店はジョンノ区に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 81,
+        "QA": 123
+    }
+}

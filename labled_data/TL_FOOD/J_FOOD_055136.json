@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_055136",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/eunho-sikdang",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "ウンホシクタン"
+    },
+    "text": "ウンホシクタン\\n\nソウル市チュングナムデムンシジャン4ギル28-4\\n\n長い歴史を持つコリコムタン(テールスープ)専門店。牛のしっぽを煮込んで作るコリコムタンのほかにも、膝の軟骨で作るトガニタン、ソルロンタン(牛の肉や骨を煮込んだスープ)なども味わえる。",
+    "QA": [
+        {
+            "question": "この店の名前は何ですか？",
+            "answer": "ウンホシクタン"
+        },
+        {
+            "question": "この店はどこにありますか？",
+            "answer": "ソウル市チュングナムデムンシジャン4ギル28-4"
+        },
+        {
+            "question": "この店では何が味わえますか？",
+            "answer": "コリコムタン、トガニタン、ソルロンタンなどが味わえます。"
+        },
+        {
+            "question": "コリコムタンはどのように作られますか？",
+            "answer": "牛のしっぽを煮込んで作られます。"
+        },
+        {
+            "question": "トガニタンはどのように作られますか？",
+            "answer": "膝の軟骨で作られます。"
+        },
+        {
+            "question": "ソルロンタンはどのように作られますか？",
+            "answer": "牛の肉や骨を煮込んだスープです。"
+        }
+    ],
+    "word_Count": {
+        "text": 93,
+        "QA": 144
+    }
+}

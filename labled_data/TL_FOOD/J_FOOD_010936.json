@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_010936",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "ドンサク酔い覚ましスープ ( 동삭해장국 )"
+    },
+    "text": "ドンサク酔い覚ましスープ ( 동삭해장국 )\n京畿道 ピョンテク市 ピョンナムロ1063\n直接栽培した唐辛子の粉や良い食材を選別して、料理を作る店です。おすすめはソンジ酔い覚ましスープです。慶尚北道のアンドン市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "この店の名前は何ですか？",
+            "answer": "この店の名前はドンサク酔い覚ましスープです。"
+        },
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "この店は京畿道ピョンテク市ピョンナムロ1063にあります。"
+        },
+        {
+            "question": "この店の特徴的な料理は何ですか？",
+            "answer": "この店の特徴的な料理はソンジ酔い覚ましスープです。"
+        },
+        {
+            "question": "この店はどんな食材を使って料理を作っていますか？",
+            "answer": "この店では直接栽培した唐辛子の粉や良い食材を選別して料理を作っています。"
+        },
+        {
+            "question": "この店はどの地域に位置していますか？",
+            "answer": "この店は慶尚北道のアンドン市に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 86,
+        "QA": 159
+    }
+}

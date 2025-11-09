@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_011992",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-01",
+        "domain": "음식점",
+        "title": "ハルゴ ( 화르고 )"
+    },
+    "text": "ハルゴ \n全羅南道 麗水市 市庁東1キル 5\nドライエイジングを経た肉を提供しています。全羅南道のヨス市に位置したBBQ専門店です。おすすめは黒豚サムギョプサルです。",
+    "QA": [
+        {
+            "question": "この店はどこにありますか？",
+            "answer": "ハルゴ  全羅南道 麗水市 市庁東1キル 5 に位置しています。"
+        },
+        {
+            "question": "この店は何を提供していますか？",
+            "answer": "ドライエイジングを経た肉を提供しています。"
+        },
+        {
+            "question": "この店のおすすめメニューは何ですか？",
+            "answer": "黒豚サムギョプサルがおすすめです。"
+        }
+    ],
+    "word_Count": {
+        "text": 60,
+        "QA": 85
+    }
+}

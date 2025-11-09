@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_018055",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/namchon-gopchang",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "南村コプチャン"
+    },
+    "text": "南村コプチャン\\n\n江原道 ガンヌン市 ゴッガムジョンギル12\\n\n牛や豚の内臓を焼いて食べる店です。江原道のガンヌン市に位置した韓食専門店です。おすすめは豚コプチャンです。",
+    "QA": [
+        {
+            "question": "この店はどこにありますか？",
+            "answer": "この店は江原道のガンヌン市に位置しています。"
+        },
+        {
+            "question": "この店の特徴は何ですか？",
+            "answer": "この店は牛や豚の内臓を焼いて食べることができる韓食専門店です。"
+        },
+        {
+            "question": "おすすめのメニューは何ですか？",
+            "answer": "おすすめは豚コプチャンです。"
+        },
+        {
+            "question": "この店の名前は何ですか？",
+            "answer": "この店の名前は南村コプチャンです。"
+        }
+    ],
+    "word_Count": {
+        "text": 63,
+        "QA": 99
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_085555",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=229&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=22370000&ccbaCtcd=36&ccbaCpno=1123622370000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2023-11-02",
+        "domain": "문화/역사관광",
+        "title": "순천 송광사 조계문"
+    },
+    "text": "朝鮮時代に建立された\"順天の松広寺チョギェムン\"は1802年に再建されており、1842年の火事で大部分が焼失したが、チョギェムンは残っていた。これを通じてチョギェムンが1802年以前にも存在したことを知ることができる。チョギェムンは切妻屋根の建物に二重の軒の屋根になっている。プンパンは切妻屋根の側面にあり、恐怖がよく現われるようにするために下段を直線型で処理し、5つの恐怖がある正面平方に計12個の恐怖を掲載したダポシク恐怖の構造である。ジュキドゥンの両方に前後にそれぞれ八角形の補助柱を立てており、ジュキドゥンの内側の上段に竜頭を置いた。また、柱の両側には土石の塀と連結されており、柱の内側には、荘厳な龍頭彫刻がある。また、一柱門(イルチュムン)全面階段ソメッドルには動物相があり、地域的な特性をよく示している。",
+    "QA": [
+        {
+            "question": "松広寺チョギェムンはいつ建立されましたか？",
+            "answer": "順天の松広寺チョギェムンは朝鮮時代に建立されました。"
+        },
+        {
+            "question": "チョギェムンは何年に再建されましたか？",
+            "answer": "チョギェムンは1802年に再建されました。"
+        },
+        {
+            "question": "チョギェムンの特徴的な建築様式は何ですか？",
+            "answer": "チョギェムンは切妻屋根の建物に二重の軒の屋根になっており、プンパンには5つの恐怖があり、正面平方に計12個の恐怖を掲載したダポシク恐怖の構造です。"
+        },
+        {
+            "question": "チョギェムンのジュキドゥンには何がありますか？",
+            "answer": "チョギェムンのジュキドゥンには前後にそれぞれ八角形の補助柱が立ち、内側の上段に竜頭が置かれています。"
+        },
+        {
+            "question": "チョギェムンの一柱門全面階段にはどのような動物相がありますか？",
+            "answer": "一柱門全面階段には地域的な特性を示す動物相があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 262,
+        "QA": 228
+    }
+}

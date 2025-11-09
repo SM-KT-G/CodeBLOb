@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_000919",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/culture/cgv-myeongdong-station",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "CGV明洞駅（CGV 명동역）"
+    },
+    "text": "CGV明洞駅（CGV 명동역）\\n\nソウル特別市 中区 退渓路 123\\n\nCGV明洞駅は明洞駅に直結しているハイハリオットビルの10階と11階にある映画館です。合計6つのスクリーンと、規模はそれほど大きくありませんが、他の映画館とは異なり全面ガラス張りのため明るく洗練された雰囲気を演出しています。正面の南山タワーと明洞のショッピング街が見渡せ、待ち時間もスカイラウンジ気分を満喫することができます。",
+    "QA": [
+        {
+            "question": "CGV明洞駅はどこにありますか？",
+            "answer": "ソウル特別市 中区 退渓路 123に位置しています。"
+        },
+        {
+            "question": "CGV明洞駅は何階にありますか？",
+            "answer": "CGV明洞駅はハイハリオットビルの10階と11階にあります。"
+        },
+        {
+            "question": "CGV明洞駅は何スクリーンありますか？",
+            "answer": "CGV明洞駅には合計6つのスクリーンがあります。"
+        },
+        {
+            "question": "CGV明洞駅はどのような雰囲気ですか？",
+            "answer": "CGV明洞駅は全面ガラス張りで明るく洗練された雰囲気を演出しています。"
+        },
+        {
+            "question": "CGV明洞駅から何が見えますか？",
+            "answer": "CGV明洞駅からは正面の南山タワーと明洞のショッピング街が見渡せます。"
+        },
+        {
+            "question": "CGV明洞駅の待ち時間はどのように過ごせますか？",
+            "answer": "CGV明洞駅ではスカイラウンジ気分を満喫することができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 147,
+        "QA": 212
+    }
+}

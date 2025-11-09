@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_026346",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42080&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "춘천 아띠펜션"
+    },
+    "text": "電気自動車をお持ちのお客様は電気自動車の充電が可能です。 ときめきいっぱいのスープランゲリーです。 暖かく向かい合った暖かい午後の日差しと、ひんやりとした涼しい風が大好きで幸せな笑みがこぼれるところ。 夜空のきらきら輝く星と音楽があり、鬱蒼とした松林の香りほのかな丘に位置する白い家が用意されています。 お知らせ 22時以降に入室される場合、ペンションまで予めご連絡ください。 退室時間11時。",
+    "QA": [
+        {
+            "question": "お客様が電気自動車を持っている場合、充電は可能ですか？",
+            "answer": "はい、当ペンションでは電気自動車の充電が可能です。お客様の電気自動車をお持ちの場合、充電ステーションをご利用いただけます。"
+        },
+        {
+            "question": "ペンション周辺にはどのような自然環境がありますか？",
+            "answer": "当ペンションは松林に囲まれた丘に位置しており、暖かく向かい合った午後の日差しと、ひんやりとした涼しい風が楽しめます。また、夜空のきらきら輝く星と音楽もお楽しみいただけます。"
+        },
+        {
+            "question": "ペンションの退室時間は何時ですか？",
+            "answer": "ペンションの退室時間は午前11時です。ご了承ください。"
+        }
+    ],
+    "word_Count": {
+        "text": 144,
+        "QA": 178
+    }
+}

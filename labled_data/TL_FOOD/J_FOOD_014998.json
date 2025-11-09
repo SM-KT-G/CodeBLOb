@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_014998",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2020-10-30",
+        "domain": "음식점",
+        "title": "ヨンタバル 三成COEX（연타발 삼성코엑스）"
+    },
+    "text": "ヨンタバル 三成COEX（연타발 삼성코엑스）\\n\nソウル特別市 江南区 テヘラン路87キル 35\\n\nソウル特別市サムソン(三成)駅の近くに位置した韓国料理店です。代表的なメニューは味付け特大カルビです。ソウル市最高評価のAAA認証店です。",
+    "QA": [
+        {
+            "question": "ヨンタバル 三成COEXはどこにありますか？",
+            "answer": "ヨンタバル 三成COEXはソウル特別市江南区テヘラン路87キル 35に位置しています。"
+        },
+        {
+            "question": "ヨンタバル 三成COEXの代表的なメニューは何ですか？",
+            "answer": "ヨンタバル 三成COEXの代表的なメニューは味付け特大カルビです。"
+        },
+        {
+            "question": "ヨンタバル 三成COEXはAAA認証店ですか？",
+            "answer": "はい、ヨンタバル 三成COEXはソウル市で最高評価のAAA認証店です。"
+        }
+    ],
+    "word_Count": {
+        "text": 88,
+        "QA": 134
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_091154",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=50&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=02490000&ccbaCtcd=37&ccbaCpno=1123702490000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1963-01-21",
+        "domain": "문화/역사관광",
+        "title": "영주 부석사 삼층석탑"
+    },
+    "text": "統一新羅時代に建てられた宝物である浮石寺無量寿殿は東側に位置した石塔である。この石塔は基壇と塔身で構成されており、基壇には2段になっており、各面の角との中には円柱の彫刻がある。塔身は3階になっており、石核とジブンドルはそれぞれ一つの石になっている。石核は各角ごとにの柱の形を彫刻し、ジブンドルは下面が5段の典型的な統一新羅の様式に従っている。この石塔は文武王16年(676)に浮石寺を創建した時に作られており、下の階の気団の幅が非常に広く1階石核また、高さに比べて幅が広くて荘重な感じを与える。1956年に解体され、復元する時チョルジェタプ、仏像の破片、玉などが発見され、破損された部分は新たな不在で補充した。普通の石塔は、仏殿の前に建設されるが、この石塔は法堂の東側に建てられていて特異だ。石塔の美しい姿は多くの人々の耳目を引く。",
+    "QA": [
+        {
+            "question": "浮石寺無量寿殿の石塔は何年に建てられましたか？",
+            "answer": "文武王16年(676)に建てられました。"
+        },
+        {
+            "question": "石塔の基壇に何が彫刻されていますか？",
+            "answer": "基壇には円柱の彫刻があります。"
+        },
+        {
+            "question": "石塔の塔身は何階になっていますか？",
+            "answer": "塔身は3階になっています。"
+        },
+        {
+            "question": "石塔の解体および復元の際に何が発見されましたか？",
+            "answer": "解体および復元の際にチョルジェタプ、仏像の破片、玉などが発見されました。"
+        },
+        {
+            "question": "通常、石塔はどこに建てられますか？",
+            "answer": "通常、石塔は仏殿の前に建てられますが、この石塔は法堂の東側に建てられています。"
+        }
+    ],
+    "word_Count": {
+        "text": 268,
+        "QA": 162
+    }
+}

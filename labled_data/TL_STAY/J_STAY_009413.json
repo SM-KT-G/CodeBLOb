@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_009413",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42070&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "청주 크리스탈 운영 정책"
+    },
+    "text": "チェックインは16:00から可能で、チェックアウトは13:00までです。 午前11時から午後2時まではチェックアウトできません。 宿泊予約の際、お客様に防疫消毒サービスを提供し、安全な環境で宿泊を楽しめるよう努力しています。",
+    "QA": [
+        {
+            "question": "チェックインは何時から可能ですか？",
+            "answer": "チェックインは16:00から可能です。"
+        },
+        {
+            "question": "チェックアウトは何時までですか？",
+            "answer": "チェックアウトは13:00までです。"
+        },
+        {
+            "question": "午前11時から午後2時までは何をすることができませんか？",
+            "answer": "午前11時から午後2時まではチェックアウトができません。"
+        },
+        {
+            "question": "宿泊予約の際に提供されるサービスはありますか？",
+            "answer": "宿泊予約の際には防疫消毒サービスが提供されます。"
+        },
+        {
+            "question": "宿泊環境は安全ですか？",
+            "answer": "宿泊予約の際、お客様に安全な環境で宿泊を楽しめるよう努力しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 82,
+        "QA": 159
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_000215",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101971",
+        "collectedDate": "2023-09-07",
+        "publishedDate": "2021-07-01",
+        "domain": "문화/역사관광",
+        "title": "「定林寺址」 講堂址"
+    },
+    "text": "「定林寺址」 講堂址\n講堂址   講堂址は、石塔の中心部から北に57.5mのところにあり、現在そこには石仏坐像を安置するための建物が建てられています。この建物は正面39.1m、側面16.3mの横広がりで、高麗時代に建っていた講堂はこれより小さいものです。",
+    "QA": [
+        {
+            "question": "講堂址はどこにありますか？",
+            "answer": "石塔の中心部から北に57.5mのところにあります。"
+        },
+        {
+            "question": "講堂址には何が建てられていますか？",
+            "answer": "現在そこには石仏坐像を安置するための建物が建てられています。"
+        },
+        {
+            "question": "講堂址の建物の大きさはどのくらいですか？",
+            "answer": "建物は正面39.1m、側面16.3mの横広がりです。"
+        },
+        {
+            "question": "講堂址の建物はいつ建てられましたか？",
+            "answer": "高麗時代に建てられました。"
+        },
+        {
+            "question": "講堂址は以前よりも大きい建物ですか？",
+            "answer": "はい、高麗時代に建てられた講堂よりも大きい建物です。"
+        }
+    ],
+    "word_Count": {
+        "text": 93,
+        "QA": 151
+    }
+}

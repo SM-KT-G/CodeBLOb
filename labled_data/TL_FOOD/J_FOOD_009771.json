@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_009771",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-08-27",
+        "domain": "음식점",
+        "title": "チヂミジプ ( 파전집 )"
+    },
+    "text": "チヂミジプ ( 파전집 )\\n\nソウル特別市 鐘路区 トンファムンロ11ギル27\\n\n雨の日に訪れたくなる店です。ソウル特別市のジョンノ区に位置した韓食専門店です。代表的なメニューはチヂミの盛り合わせです。",
+    "QA": [
+        {
+            "question": "このお店はどこにありますか？",
+            "answer": "ソウル特別市 鐘路区 トンファムンロ11ギル27にあります。"
+        },
+        {
+            "question": "このお店の代表的なメニューは何ですか？",
+            "answer": "代表的なメニューはチヂミの盛り合わせです。"
+        },
+        {
+            "question": "どんな天気の日にこのお店を訪れると良いですか？",
+            "answer": "雨の日に訪れると良いです。"
+        }
+    ],
+    "word_Count": {
+        "text": 75,
+        "QA": 88
+    }
+}

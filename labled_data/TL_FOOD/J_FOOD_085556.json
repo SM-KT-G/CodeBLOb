@@ -1,0 +1,31 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_085556",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-26",
+        "domain": "음식점",
+        "title": "新槪念 ソソカルビ ユクジャンカルビ( 신개념 서서갈비 육장갈비 )"
+    },
+    "text": "新槪念 ソソカルビ ユクジャンカルビ( 신개념 서서갈비 육장갈비 )\\n\n江原道 原州市 ファングムロ5\\n\n豚カルビも有名です。代表的なメニューは味付けカルビです。江原道のウォンジュ市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "ソソカルビ ユクジャンカルビはどのようなお店ですか？",
+            "answer": "ソソカルビ ユクジャンカルビは江原道のウォンジュ市に位置した韓食専門店で、代表的なメニューは味付けカルビです。また、豚カルビも有名です。"
+        },
+        {
+            "question": "ソソカルビ ユクジャンカルビの場所はどこですか？",
+            "answer": "ソソカルビ ユクジャンカルビは江原道の原州市のファングムロ5に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 78,
+        "QA": 115
+    }
+}

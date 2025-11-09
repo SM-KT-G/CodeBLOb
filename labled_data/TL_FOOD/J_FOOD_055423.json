@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_055423",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/ttokkijung-gangnam",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "トッキ停 江南店"
+    },
+    "text": "トッキ停 江南店\\n\nソウル特別市 江南区 駅三洞 812-5\\n\n日本式料理を販売する家庭雰囲気の食堂「トッキ停」です。 独特な雰囲気で夜には深夜食堂のような空間になります。 金曜日、土曜日には夜明け2時まで営業します。",
+    "QA": [
+        {
+            "question": "トッキ停 江南店はどこにありますか？",
+            "answer": "トッキ停 江南店はソウル特別市 江南区 駅三洞 812-5にあります。"
+        },
+        {
+            "question": "トッキ停はどんな雰囲気の食堂ですか？",
+            "answer": "トッキ停は家庭雰囲気の食堂で、独特な雰囲気があります。夜には深夜食堂のような空間になります。"
+        },
+        {
+            "question": "トッキ停はいつまで営業していますか？",
+            "answer": "トッキ停は金曜日と土曜日には夜明け2時まで営業しています。"
+        },
+        {
+            "question": "トッキ停ではどのような料理が販売されていますか？",
+            "answer": "トッキ停では日本式料理が販売されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 81,
+        "QA": 153
+    }
+}

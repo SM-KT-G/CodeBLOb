@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_077179",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/collectionList#######",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2023-10-11",
+        "domain": "문화/역사관광",
+        "title": "사료조사1 함남홍원 굿"
+    },
+    "text": "史料調査1 咸南弘元グッド (사료조사1 함남홍원 굿)\\n\n第1回史料調査は原版番号110131で行われました。調査地はホンウォン郡ホンウォンの咸鏡南道にあります。この史料は、韓国が日帝強占期を受けていた時代のものです。 今回調査した史料の材質はガラスで作られた宝石です。具体的には、ガラスのフィルムとして分類されます。その大きさは横164cm、縦119cmです。",
+    "QA": [
+        {
+            "question": "この史料の材質は何ですか？",
+            "answer": "ガラスで作られた宝石です。"
+        },
+        {
+            "question": "この史料の大きさは何ですか？",
+            "answer": "横164cm、縦119cmです。"
+        },
+        {
+            "question": "この史料の原版番号は何ですか？",
+            "answer": "110131です。"
+        },
+        {
+            "question": "この史料の調査地はどこですか？",
+            "answer": "ホンウォン郡ホンウォンの咸鏡南道です。"
+        },
+        {
+            "question": "この史料は何時代のものですか？",
+            "answer": "日帝強占期を受けていた時代のものです。"
+        }
+    ],
+    "word_Count": {
+        "text": 134,
+        "QA": 108
+    }
+}

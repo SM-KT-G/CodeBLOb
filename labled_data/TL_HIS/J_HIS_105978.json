@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_105978",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=104&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=08350000&ccbaCtcd=37&ccbaCpno=1123708350000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1985-01-08",
+        "domain": "문화/역사관광",
+        "title": "청도 운문사 대웅보전"
+    },
+    "text": "清道雲門寺ジャン\\n\n慶尚北道清道郡雲門面雲門寺キル264、雲門寺(新院里)\\n\n朝鮮時代17世紀、宝物、新羅時代に建てたウンムンサは何度も補修を経て、今のお寺は朝鮮粛宗44年(1718)にあった四番目の保守時のものだ。大雄宝殿もこの時建てられたものと推定する。前面3間・側面3間規模であり、柱の間の間隔を広く捉えて同じ規模の建物より大きい。屋根は側面から見ると、八(八部)の字の形をした入母屋屋根で飾った。軒を支えようと装飾してチャウン構造が柱の上と柱の間にもあるダポ様式で、朝鮮後期の一般的なダポギェ建物とは違って、装飾にかたよらない。前面には花模様を入れたドアをつけたんですけど、、特に中央間は広く、5上扉を付けた。内側は大きな柱を一つだけ立てて広く開けた空間を企んでいる。天井の中では井戸の井の字の字形の天井として華やかに彩色しておいた。建物の組み合わせが朝鮮中期様式をよく示しており、建築史研究に貴重な資料となっている。",
+    "QA": [
+        {
+            "question": "雲門寺は何世紀に建てられましたか？",
+            "answer": "雲門寺は朝鮮時代17世紀に建てられました。"
+        },
+        {
+            "question": "雲門寺の建物の屋根はどのような形をしていますか？",
+            "answer": "雲門寺の建物の屋根は八(八部)の字の形をした入母屋屋根で飾られています。"
+        },
+        {
+            "question": "雲門寺の大雄宝殿はいつ建てられたと推定されていますか？",
+            "answer": "大雄宝殿は朝鮮粛宗44年(1718)に建てられたと推定されています。"
+        },
+        {
+            "question": "雲門寺の建物の内部はどのような特徴がありますか？",
+            "answer": "雲門寺の建物の内部は大きな柱を一つだけ立てて広く開けた空間を持ち、天井には井の字の形をした華やかな彩色が施されています。"
+        },
+        {
+            "question": "雲門寺の建物の組み合わせが何を示していますか？",
+            "answer": "雲門寺の建物の組み合わせが朝鮮中期様式をよく示しており、建築史研究に貴重な資料となっています。"
+        }
+    ],
+    "word_Count": {
+        "text": 304,
+        "QA": 229
+    }
+}

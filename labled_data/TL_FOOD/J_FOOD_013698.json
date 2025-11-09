@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_013698",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "ホンパプ大王 ( 혼밥대왕 )"
+    },
+    "text": "ホンパプ大王 ( 혼밥대왕 )\n釜山広域市 中区 宝水大路44ボンキル 28\n配達と持ち帰りのみ可能な店です。おすすめは黒豚キムチチゲです。釜山広域市のジュン区に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "釜山広域市の中区に位置しているホンパプ大王はどんな店ですか？",
+            "answer": "ホンパプ大王は、釜山広域市の中区に位置する韓食専門店で、配達と持ち帰りのみを行っています。特におすすめのメニューは黒豚キムチチゲです。"
+        },
+        {
+            "question": "ホンパプ大王の所在地はどこですか？",
+            "answer": "ホンパプ大王は釜山広域市中区宝水大路44ボンキル 28に位置しています。"
+        },
+        {
+            "question": "ホンパプ大王のおすすめメニューは何ですか？",
+            "answer": "ホンパプ大王のおすすめメニューは黒豚キムチチゲです。ぜひお試しください。"
+        }
+    ],
+    "word_Count": {
+        "text": 68,
+        "QA": 151
+    }
+}

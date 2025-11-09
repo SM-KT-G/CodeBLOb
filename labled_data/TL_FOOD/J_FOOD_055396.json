@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_055396",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/danamujip",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "テナムジプ"
+    },
+    "text": "テナムジプ\\n\nソウル特別市 松坡区 ペクジェゴブンロ7ギル8-16\\n\n韓定食コース料理の専門店です 代表的なメニューは韓定食です。ソウル特別市のソンパ区に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "このレストランの住所はどこですか？",
+            "answer": "ソウル特別市 松坡区 ペクジェゴブンロ7ギル8-16に位置しています。"
+        },
+        {
+            "question": "このレストランはどのような料理を提供していますか？",
+            "answer": "代表的なメニューは韓定食です。"
+        },
+        {
+            "question": "このレストランはどのような場所に位置していますか？",
+            "answer": "ソウル特別市のソンパ区に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 66,
+        "QA": 100
+    }
+}

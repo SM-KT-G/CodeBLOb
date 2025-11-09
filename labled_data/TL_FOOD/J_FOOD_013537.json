@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_013537",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-08-31",
+        "domain": "음식점",
+        "title": "ポドウォンサムゲタン（포도원삼계탕）"
+    },
+    "text": "ポドウォンサムゲタン（포도원삼계탕）\\n\nソウル特別市 鐘路区 昌慶宮路26キル 41-5\\n\nこの店はソウル特別市のテハンノに位置した韓国料理店です。代表的なメニューはサムゲタンです。韓国の保養食料理をご用意しております。",
+    "QA": [
+        {
+            "question": "この店の名前は何ですか？",
+            "answer": "ポドウォンサムゲタン（포도원삼계탕）です。"
+        },
+        {
+            "question": "この店はどこにありますか？",
+            "answer": "ソウル特別市の鐘路区の昌慶宮路26キル 41-5に位置しています。"
+        },
+        {
+            "question": "この店の特徴的なメニューは何ですか？",
+            "answer": "代表的なメニューはサムゲタンです。"
+        },
+        {
+            "question": "この店はどんな種類の料理を提供していますか？",
+            "answer": "韓国の保養食料理を提供しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 82,
+        "QA": 112
+    }
+}

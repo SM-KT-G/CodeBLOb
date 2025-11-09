@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_024903",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "牛島海女食堂 ( 우도해녀식당 )"
+    },
+    "text": "牛島海女食堂 ( 우도해녀식당 )\n済州特別自治道 済州市 牛島面 牛島海岸キル440\n牛島の海女が獲った新鮮な海産物を使った料理を提供する店です。おすすめはクボガイカルグクスです。済州特別自治道のジェジュ市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "牛島海女食堂はどこにありますか？",
+            "answer": "牛島海女食堂は済州特別自治道の済州市牛島面にあります。"
+        },
+        {
+            "question": "牛島海女食堂のおすすめ料理はありますか？",
+            "answer": "牛島海女食堂のおすすめ料理はクボガイカルグクスです。"
+        },
+        {
+            "question": "牛島海女食堂で使用される食材はどのようなものですか？",
+            "answer": "牛島海女食堂では牛島の海女が獲った新鮮な海産物を使用しています。"
+        },
+        {
+            "question": "牛島海女食堂が位置する場所はどうやって行けばいいですか？",
+            "answer": "牛島海女食堂は済州特別自治道のジェジュ市に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 85,
+        "QA": 149
+    }
+}

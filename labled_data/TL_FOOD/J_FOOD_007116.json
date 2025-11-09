@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_007116",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-06",
+        "domain": "음식점",
+        "title": "サウォルえ麦ご飯&イイダコ 平沢  ( 사월에보리밥&쭈꾸미 평택 )"
+    },
+    "text": "サウォルえ麦ご飯&イイダコ 平沢  ( 사월에보리밥&쭈꾸미 평택 )\n京畿道 平沢市 クァンギョマウルロ279\\n\nセルフサービスの麦ご飯が食べ放題です。京畿道のピョンテク市に位置した韓食専門店です。おすすめは麦ご飯です。",
+    "QA": [
+        {
+            "question": "この韓食専門店の場所はどこですか？",
+            "answer": "この韓食専門店は京畿道平沢市クァンギョマウルロ279に位置しています。"
+        },
+        {
+            "question": "この韓食専門店のおすすめメニューは何ですか？",
+            "answer": "この韓食専門店のおすすめは麦ご飯です。セルフサービスの麦ご飯が食べ放題です。"
+        },
+        {
+            "question": "麦ご飯を食べ放題できる時間帯は何時から何時までですか？",
+            "answer": "麦ご飯を食べ放題できる時間帯は営業時間中、つまり店が開いている時間帯です。具体的な開店時間や閉店時間については店舗にお問い合わせください。"
+        }
+    ],
+    "word_Count": {
+        "text": 82,
+        "QA": 152
+    }
+}

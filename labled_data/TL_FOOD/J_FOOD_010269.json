@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_010269",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-10",
+        "domain": "음식점",
+        "title": "テギネ貝の寄せ鍋 浦升工団( 택이네조개전골 포승공단 )"
+    },
+    "text": "テギネ貝の寄せ鍋 浦升工団\\n\n京畿道 ピョンテク市 ヨスルロ20\\n\n様々な貝料理が味わえる店です。代表的なメニューは貝の寄せ鍋です。慶尚北道のアンドン市に位置した韓国料理店です。",
+    "QA": [
+        {
+            "question": "このレストランはどこにありますか？",
+            "answer": "テギネ貝の寄せ鍋 浦升工団は京畿道ピョンテク市ヨスルロ20にあります。"
+        },
+        {
+            "question": "このレストランの代表的なメニューは何ですか？",
+            "answer": "テギネ貝の寄せ鍋が代表的なメニューです。"
+        },
+        {
+            "question": "このレストランで味わえる料理は何ですか？",
+            "answer": "テギネ貝の寄せ鍋をはじめ、様々な貝料理が味わえます。"
+        },
+        {
+            "question": "このレストランの場所はどのように行けばいいですか？",
+            "answer": "このレストランは慶尚北道のアンドン市に位置しています。具体的な行き方は地元の交通機関を利用することをおすすめします。"
+        }
+    ],
+    "word_Count": {
+        "text": 66,
+        "QA": 163
+    }
+}

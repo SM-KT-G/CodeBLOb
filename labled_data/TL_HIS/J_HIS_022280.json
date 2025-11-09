@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_022280",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101933",
+        "collectedDate": "2023-10-06",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "성산패총"
+    },
+    "text": "城山貝塚\\n\n昌原城山貝塚は慶尚南道昌原市城山区外洞に位置する鉄器時代初期の大規模貝塚だ。 1974年11月2日、大韓民国の史跡第240号馬山外洞城山貝塚に指定されたが、2011年現在の名称に変更された。",
+    "QA": [
+        {
+            "question": "城山貝塚はどこに位置していますか？",
+            "answer": "城山貝塚は慶尚南道昌原市城山区外洞に位置しています。"
+        },
+        {
+            "question": "城山貝塚は何時代の遺跡ですか？",
+            "answer": "城山貝塚は鉄器時代初期の遺跡です。"
+        },
+        {
+            "question": "城山貝塚は何号に指定されていますか？",
+            "answer": "城山貝塚は大韓民国の史跡第240号馬山外洞城山貝塚に指定されています。"
+        },
+        {
+            "question": "城山貝塚の指定名称は何ですか？",
+            "answer": "城山貝塚の指定名称は昌原城山貝塚です。"
+        }
+    ],
+    "word_Count": {
+        "text": 74,
+        "QA": 118
+    }
+}

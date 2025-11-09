@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_067811",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/view?relicId=117851",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "백자 발"
+    },
+    "text": "白磁の足 (백자 발)\\n\n国籍/時代:「中国-ウォン」 材質:「陶磁器 - 白磁」 分類:「食生活 - 食べ物 - 食べ物 - 足」 大きさ:「高さ65cm、着こなし11cm、底径6cm」 修正案: 原産地/時代:「中国-ウォン」 材質:「陶磁器 - 白磁」 分類:「食品 - 食べ物 - 足」 サイズ:「高さ65cm、直径11cm、底直径6cm」",
+    "QA": [
+        {
+            "question": "この白磁の足はどこの国で作られましたか？",
+            "answer": "この白磁の足は中国のウォンで作られました。"
+        },
+        {
+            "question": "この白磁の足の材質は何ですか？",
+            "answer": "この白磁の足は陶磁器の白磁でできています。"
+        },
+        {
+            "question": "この白磁の足は何に分類されますか？",
+            "answer": "この白磁の足は食品の足に分類されます。"
+        },
+        {
+            "question": "この白磁の足のサイズは何ですか？",
+            "answer": "この白磁の足の高さは65cm、着こなしは11cm、底径は6cmです。"
+        }
+    ],
+    "word_Count": {
+        "text": 128,
+        "QA": 119
+    }
+}

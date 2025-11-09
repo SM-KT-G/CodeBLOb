@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_LEI_005867",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2022-07-14",
+        "domain": "레포츠",
+        "title": "[해안누리길] 해넘이길"
+    },
+    "text": "慈恩島の日の出の道は寒雲里から松山里まで続く12kmの徒歩コースで、時間は3時間ほどかかります。 慈恩島日の出道は海洋水産部が指定した主要海岸ヌリ道の一つに選ばれました。",
+    "QA": [
+        {
+            "question": "慈恩島の日の出の道はどこからどこまで続くのですか？",
+            "answer": "慈恩島の日の出の道は寒雲里から松山里まで続く約12kmの徒歩コースです。"
+        },
+        {
+            "question": "慈恩島の日の出の道は何時間くらいかかりますか？",
+            "answer": "慈恩島の日の出の道は約3時間かかります。"
+        },
+        {
+            "question": "慈恩島の日の出道はどのように指定されましたか？",
+            "answer": "慈恩島の日の出道は海洋水産部が指定した主要海岸ヌリ道の一つに選ばれました。"
+        }
+    ],
+    "word_Count": {
+        "text": 62,
+        "QA": 120
+    }
+}

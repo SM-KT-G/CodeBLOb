@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_096757",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1113&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=02870000&ccbaCtcd=34&ccbaCpno=3413402870000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1987-12-30",
+        "domain": "문화/역사관광",
+        "title": "이한직가옥"
+    },
+    "text": "忠清南道文化財資料であるシムアム、チョ・ドゥスンの家は古物だ。チョ・ドゥスンは、朝鮮後期の文臣であり、官途に就いた人物だ。長い歳月の間、さまざまなポストを経て、王に仕えた。この家は鉤型、母屋とヘングラングチェ、門の建物で構成されている。家の正面は門屋、門の建物に行われている。屋根は入母屋屋根で構成されている。家の中には床が中央に位置している。",
+    "QA": [
+        {
+            "question": "この家は何時代のものですか？",
+            "answer": "朝鮮後期の文臣であるチョ・ドゥスンの家です。"
+        },
+        {
+            "question": "この家はどのように構成されていますか？",
+            "answer": "鉤型、母屋、ヘングラングチェ、門の建物で構成されています。"
+        },
+        {
+            "question": "この家の屋根はどのような形状ですか？",
+            "answer": "入母屋屋根で構成されています。"
+        },
+        {
+            "question": "この家の中には何が中央に位置していますか？",
+            "answer": "床が中央に位置しています。"
+        },
+        {
+            "question": "チョ・ドゥスンはどのような経歴を持っていますか？",
+            "answer": "朝鮮後期の文臣であり、官途に就いた人物で、王に仕えました。"
+        }
+    ],
+    "word_Count": {
+        "text": 126,
+        "QA": 149
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_097404",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=961&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=00100000&ccbaCtcd=35&ccbaCpno=3413500100000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1984-04-01",
+        "domain": "문화/역사관광",
+        "title": "인후동석불입상"
+    },
+    "text": "喉の渇きソクプリプサン\\n\n全羅北道全州市徳津区甄萱路177、(龍華寺)(麟後洞1街)\\n\n全羅北道文化財資料、この石仏は省庁の立っている姿で、とても遠い後日に現れ、衆生を救援するという弥勒仏を刻んだのだ。胴体の一部が地中に埋められており、切断された首の部分をセメントで接合させたが、大きな頭と厚いボールが特徴的である。仏像の身なりは左肩から流れる服のしわを左腕の下に落としており、手の形は右手の裏を胸先に向かって左手は胸の高さで折れて手のひらを外に向かっている。毀損された右耳は壬辰倭乱の時日本軍将軍が刀で切りつけたという話が伝えている。この仏像は、製作技法からおせば高麗末期の作品とみられる。",
+    "QA": [
+        {
+            "question": "この石仏は何を象徴していますか？",
+            "answer": "この石仏は弥勒仏を象徴しており、後日に現れて衆生を救援するという教えを持っています。"
+        },
+        {
+            "question": "この仏像の胴体の一部は地中に埋まっている理由は何ですか？",
+            "answer": "この仏像の胴体の一部が地中に埋められているのは、毀損された部分を修復するために行われたものです。"
+        },
+        {
+            "question": "この仏像の特徴的な部分は何ですか？",
+            "answer": "この仏像の特徴的な部分は、大きな頭と厚いボール、そして毀損された右耳の部分です。"
+        },
+        {
+            "question": "この仏像の製作年代はいつ頃ですか？",
+            "answer": "この仏像の製作年代は、高麗末期と考えられています。"
+        },
+        {
+            "question": "この仏像が毀損された経緯について教えてください。",
+            "answer": "この仏像が毀損された経緯は、壬辰倭乱の時に日本軍将軍が刀で切りつけたという話が伝えられています。"
+        }
+    ],
+    "word_Count": {
+        "text": 218,
+        "QA": 223
+    }
+}

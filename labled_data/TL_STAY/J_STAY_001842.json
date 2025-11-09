@@ -1,0 +1,51 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_001842",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42041&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "광주 호텔B"
+    },
+    "text": "Hotel Bは光州広域市尚武地区に位置しており、計65室の客室を保有しています。 このホテルはモダンなインテリアで飾られており、旅行者に安らぎと余裕を提供しています。 また、光州全南地域の拠点である尚武地区に位置しており、光州旅行者に最適な宿泊場所です。 また、全客室にはスタイラーが設置されており、便利な宿泊を楽しむことができます。",
+    "QA": [
+        {
+            "question": "ホテルBはどこに位置していますか？",
+            "answer": "ホテルBは光州広域市尚武地区に位置しています。"
+        },
+        {
+            "question": "ホテルBは何のための拠点として位置していますか？",
+            "answer": "ホテルBは光州全南地域の拠点として位置しています。"
+        },
+        {
+            "question": "ホテルBは何室の客室を保有していますか？",
+            "answer": "ホテルBは計65室の客室を保有しています。"
+        },
+        {
+            "question": "ホテルBの客室はどのように飾られていますか？",
+            "answer": "ホテルBの客室はモダンなインテリアで飾られています。"
+        },
+        {
+            "question": "ホテルBの客室には何が設置されていますか？",
+            "answer": "ホテルBの全客室にはスタイラーが設置されています。"
+        },
+        {
+            "question": "ホテルBは光州旅行者にとってどのような宿泊場所ですか？",
+            "answer": "ホテルBは光州旅行者に最適な宿泊場所です。"
+        },
+        {
+            "question": "ホテルBで便利な宿泊を楽しむことができますか？",
+            "answer": "はい、ホテルBでは便利な宿泊を楽しむことができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 123,
+        "QA": 235
+    }
+}

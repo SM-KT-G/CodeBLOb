@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_010694",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "ドケビプルゴギ（도깨비불고기）"
+    },
+    "text": "ドケビプルゴギ（도깨비불고기）\\n\nソウル特別市 中区 乙支路43キル 38\\n\nソウル特別市のトンデムンに位置したプルゴギ専門店です。おすすめは牛肉プルゴギです。韓国の伝統料理であるプルコギ(焼肉)を味わうことができます。",
+    "QA": [
+        {
+            "question": "このレストランの場所はどこですか？",
+            "answer": "ソウル特別市中区乙支路43キル38に位置しています。"
+        },
+        {
+            "question": "このレストランのおすすめメニューは何ですか？",
+            "answer": "牛肉プルゴギがおすすめです。"
+        },
+        {
+            "question": "プルゴギとはどのような料理ですか？",
+            "answer": "プルゴギは韓国の伝統料理で、焼肉の一種です。"
+        }
+    ],
+    "word_Count": {
+        "text": 82,
+        "QA": 86
+    }
+}

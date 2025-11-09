@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_002007",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2020-03-18",
+        "domain": "숙박",
+        "title": "Namsan Park House"
+    },
+    "text": "Namsan Park House (Namsan Park House)\\n\nソウル特別市龍山区トゥッパル岩路69キル15-8(厚岩洞)303号\\n\n当店は外国人観光都市の民宿業を営んでおり、外国人の皆さまだけが利用いただけます。素晴らしい南山と都心の眺めをお楽しみいただける外国人専用民宿となっております。また、ソウル駅を始めとする多くの主要な観光地にも近い立地です。モダンなデザインと快適なインテリアで、お客様がくつろぎやすい空間を提供しています。",
+    "QA": [
+        {
+            "question": "Namsan Park Houseはどんな場所に位置していますか？",
+            "answer": "Namsan Park Houseはソウル特別市龍山区トゥッパル岩路69キル15-8(厚岩洞)303号に位置しています。"
+        },
+        {
+            "question": "Namsan Park Houseはどんな施設ですか？",
+            "answer": "Namsan Park Houseは外国人専用の民宿で、南山と都心の素晴らしい眺めを楽しむことができます。モダンなデザインと快適なインテリアが特徴で、お客様がくつろぎやすい空間を提供しています。"
+        },
+        {
+            "question": "Namsan Park Houseはどのような観光地に近い立地ですか？",
+            "answer": "Namsan Park Houseはソウル駅をはじめとする多くの主要な観光地に近い立地にあります。"
+        },
+        {
+            "question": "Namsan Park Houseはどのようなお客様が利用できますか？",
+            "answer": "Namsan Park Houseは外国人の皆さまだけが利用できる民宿です。"
+        }
+    ],
+    "word_Count": {
+        "text": 166,
+        "QA": 274
+    }
+}

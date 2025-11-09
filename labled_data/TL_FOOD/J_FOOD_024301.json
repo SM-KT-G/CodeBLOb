@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_024301",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-06",
+        "domain": "음식점",
+        "title": "魚陽 ( 어양 )"
+    },
+    "text": "魚陽 ( 어양 )\\n\nソウル特別市 松坡区 ウィリェソンデロ14\\n\n中国の有名ホテルのレストランで研修を受けた料理人たちが最高の中華料理を提供します。代表的なメニューは海鮮おこげスープです。ソウル特別市のソンパ区に位置した中華専門店です。",
+    "QA": [
+        {
+            "question": "このレストランの住所はどこですか？",
+            "answer": "ソウル特別市 松坡区 ウィリェソンデロ14"
+        },
+        {
+            "question": "このレストランはどのような料理を提供していますか？",
+            "answer": "中国の有名ホテルのレストランで研修を受けた料理人たちが最高の中華料理を提供します。"
+        },
+        {
+            "question": "このレストランの代表的なメニューは何ですか？",
+            "answer": "海鮮おこげスープ"
+        },
+        {
+            "question": "このレストランはどの地域に位置していますか？",
+            "answer": "ソウル特別市のソンパ区"
+        },
+        {
+            "question": "このレストランは何に特化していますか？",
+            "answer": "中華料理"
+        }
+    ],
+    "word_Count": {
+        "text": 88,
+        "QA": 139
+    }
+}

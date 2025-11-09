@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_032686",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1193&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=79&ccbaAsno=00210000&ccbaCtcd=32&ccbaCpno=4413200210000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2002-05-31",
+        "domain": "문화/역사관광",
+        "title": "태백 철암역두 선탄시설"
+    },
+    "text": "太白鉄岩駅頭先炭施設 (태백 철암역두 선탄시설)\\n\n江原道太白市鉄岩洞365-1番地以外18筆地\\n\n1935、国家登録文化財、この施設物は鉄筋コンクリート構造と鋼材でできたトラスを使用するなど近代材料と工法で作った産業施設の代表的な事例だ。 20個の主要施設物で構成されているが、先弾の主要施設物は原弾貯蔵と運搬、軽石選別と破砕運搬、1、2、3次無煙弾先弾、異物分離、各種機械供給と修繕窓など5分野で構成されている。 無煙炭を燃料として本格的に使用し始めた時に作られた国内初の無煙炭先炭施設で、韓国近代産業史を象徴する主要施設と評価されている。",
+    "QA": [
+        {
+            "question": "この施設物はどのような材料で作られていますか？",
+            "answer": "この施設物は鉄筋コンクリート構造と鋼材でできています。"
+        },
+        {
+            "question": "この施設物は何のために使用されていましたか？",
+            "answer": "この施設物は無煙炭の先炭施設として使用されていました。"
+        },
+        {
+            "question": "この施設物はいつ建設されましたか？",
+            "answer": "この施設物は1935年に建設されました。"
+        },
+        {
+            "question": "この施設物はどのような産業施設の代表的な事例ですか？",
+            "answer": "この施設物は近代材料と工法を使用して作られた産業施設の代表的な事例です。"
+        },
+        {
+            "question": "なぜこの施設物は韓国近代産業史を象徴する主要施設と言えるのでしょうか？",
+            "answer": "この施設物は無煙炭を燃料として本格的に使用し始めた時に作られた国内初の無煙炭先炭施設であり、韓国近代産業史を象徴する主要施設と評価されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 201,
+        "QA": 223
+    }
+}

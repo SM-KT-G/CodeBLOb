@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_055774",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42060&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "아산(도고) 타임온천호텔"
+    },
+    "text": "新築リニューアルが完了し、セスコで管理し、客室を清潔で快適に維持しています。 1階にはパソコン、ファックス、コピー機を無料で使用できる施設があります。 当宿は硫黄温泉水を使用する業者なので、東郷から出る硫黄温泉水で溜まっていた疲れを癒して行くことができます。 また、私たちの宿舎は牙山ドゴパラですイスの近くに位置しているので、周辺の観光地を楽しめる場所にあります。 レールバイクを購入される方には牙山レールバイククーポンを提供しています。 このクーポンをご利用いただくと、平日は30パーセントオフ、週末は10パーセントオフになります。",
+    "QA": [
+        {
+            "question": "宿舎はどのような施設を提供していますか？",
+            "answer": "1階にはパソコン、ファックス、コピー機があります。"
+        },
+        {
+            "question": "宿舎はどのような場所に位置していますか？",
+            "answer": "牙山ドゴパラの近くに位置しています。"
+        },
+        {
+            "question": "クーポンを利用するとどのくらい割引が受けられますか？",
+            "answer": "平日は30パーセントオフ、週末は10パーセントオフになります。"
+        }
+    ],
+    "word_Count": {
+        "text": 195,
+        "QA": 102
+    }
+}

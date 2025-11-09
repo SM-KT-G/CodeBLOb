@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_024755",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42010&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "양평 필우재뜰안펜션"
+    },
+    "text": "楊平の70年前の韓屋をリニューアルした宿泊と撮影用空間として使用できます。 ここはビンテージで感覚的な小物が共存する場所で、静かな雰囲気を持っています。 奥の間1つと出居1つ、そしてトイレ1つで構成されており、全体面積は24坪で庭まで合計146坪の広い空間があります。 駐車は最大3台まで可能です。",
+    "QA": [
+        {
+            "question": "この宿泊施設はどのような特徴がありますか？",
+            "answer": "この宿泊施設は楊平の70年前の韓屋をリニューアルした空間で、宿泊と撮影用に利用できます。ビンテージで感覚的な小物が共存し、静かな雰囲気を持っています。"
+        },
+        {
+            "question": "どのような部屋がありますか？",
+            "answer": "この宿泊施設には奥の間1つと出居1つ、そしてトイレ1つがあります。"
+        },
+        {
+            "question": "広さはどのくらいですか？",
+            "answer": "この宿泊施設の全体面積は24坪で、庭も含めると合計146坪の広いスペースがあります。"
+        },
+        {
+            "question": "駐車場はありますか？",
+            "answer": "はい、最大で3台まで駐車可能です。"
+        }
+    ],
+    "word_Count": {
+        "text": 109,
+        "QA": 164
+    }
+}

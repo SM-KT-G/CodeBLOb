@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_002101",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "strada146 ( 스트라다146 )"
+    },
+    "text": "strada146 ( 스트라다146 )\\n\nソウル特別市 ヨンドゥンポ区 ダンサンロ38ギル3-8\\n\n様々なコーヒーが味わえる店です。ソウル特別市のヨンドゥンポ区に位置したカフェ（コーヒーショップ）です。代表的なメニューはアメリカーノです。",
+    "QA": [
+        {
+            "question": "このカフェの場所はどこですか？",
+            "answer": "このカフェはソウル特別市のヨンドゥンポ区に位置しています。"
+        },
+        {
+            "question": "このカフェで味わえる代表的なメニューは何ですか？",
+            "answer": "このカフェで味わえる代表的なメニューはアメリカーノです。"
+        },
+        {
+            "question": "このカフェでは他にどんな種類のコーヒーがありますか？",
+            "answer": "このカフェでは様々なコーヒーが味わえます。具体的な種類については詳細を確認していないため、店舗にお問い合わせください。"
+        }
+    ],
+    "word_Count": {
+        "text": 90,
+        "QA": 132
+    }
+}

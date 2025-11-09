@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_019488",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42020&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "통영 바다와시인펜션"
+    },
+    "text": "今日も海と詩人は音楽と詩の香りに浸っています。 皆さんは温かいお茶と一緒にコバルトブルーの海を楽しむことができます。 また、カモメや花雲が飛び回る美しい風景をご体験いただけます。 当海と詩人では、22時以降に入室される場合は予めご連絡ください。 海と詩人ドリームのお知らせ、22時以降入室の際は予めご連絡ください。",
+    "QA": [
+        {
+            "question": "海と詩人では、何時まで入室できますか？",
+            "answer": "海と詩人では、22時以降に入室される場合は予めご連絡ください。"
+        },
+        {
+            "question": "海と詩人では、何を楽しむことができますか？",
+            "answer": "海と詩人では、温かいお茶と一緒にコバルトブルーの海を楽しむことができます。また、カモメや花雲が飛び回る美しい風景をご体験いただけます。"
+        },
+        {
+            "question": "海と詩人ドリームのお知らせは何ですか？",
+            "answer": "海と詩人ドリームのお知らせは、22時以降に入室される際は予めご連絡くださいということです。"
+        }
+    ],
+    "word_Count": {
+        "text": 115,
+        "QA": 148
+    }
+}

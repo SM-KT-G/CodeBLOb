@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_105219",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=478&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=01350000&ccbaCtcd=38&ccbaCpno=2113801350000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1974-12-28",
+        "domain": "문화/역사관광",
+        "title": "창원향교 대성전"
+    },
+    "text": "朝鮮時代、慶尚南道有形文化財、郷校は立派な儒学者を祭祀し、地方民の留学教育と教化のために国が建てた教育機関です。昌原郷校は高麗忠烈王2年(1276)に建てられたと伝えられていますが、確かな根拠はなく、たいてい朝鮮時代に創建したものと考えられています。本来は現在の馬山市合成洞にありましたが、壬辰倭乱(1592)後、ここに移されたといいます。境内には裏に祭祀を行う空間として大成殿と東·庶務があり、学業の空間である明倫堂と儒生たちが居住していた東·西斎、風化楼が前方に配置されています",
+    "QA": [
+        {
+            "question": "何時、昌原郷校が建てられましたか？",
+            "answer": "昌原郷校は高麗忠烈王2年(1276)に建てられたと伝えられていますが、確かな根拠はなく、朝鮮時代に創建したものと考えられています。"
+        },
+        {
+            "question": "昌原郷校はどのような教育機関ですか？",
+            "answer": "昌原郷校は、立派な儒学者を祭祀し、地方民の留学教育と教化のために国が建てた教育機関です。"
+        },
+        {
+            "question": "昌原郷校の境内には何が配置されていますか？",
+            "answer": "境内には裏に祭祀を行う空間として大成殿と東·庶務があり、学業の空間である明倫堂と儒生たちが居住していた東·西斎、風化楼が前方に配置されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 176,
+        "QA": 173
+    }
+}

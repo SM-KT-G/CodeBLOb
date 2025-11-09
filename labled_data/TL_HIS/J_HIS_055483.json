@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_055483",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/view?relicId=97939",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "기와 조각"
+    },
+    "text": "瓦礫 (기와 조각)\\n\n国籍/時代: 韓国の朝鮮時代の建築に用いられた材質は硬質の土であり、その一つとしてときわと呼ばれる屋根材があります。これらの屋根材は現在の長さ112mm、幅71mm、高さ61mmのサイズで使用されました。",
+    "QA": [
+        {
+            "question": "この瓦礫はどの時代に使用されましたか？",
+            "answer": "この瓦礫は朝鮮時代の建築に使用されました。"
+        },
+        {
+            "question": "この瓦礫はどの国の建築に使用されましたか？",
+            "answer": "この瓦礫は韓国の建築に使用されました。"
+        },
+        {
+            "question": "この瓦礫の材質は何ですか？",
+            "answer": "この瓦礫の材質は硬質の土です。"
+        },
+        {
+            "question": "この瓦礫のサイズは何ですか？",
+            "answer": "この瓦礫のサイズは現在の長さ112mm、幅71mm、高さ61mmです。"
+        }
+    ],
+    "word_Count": {
+        "text": 84,
+        "QA": 115
+    }
+}

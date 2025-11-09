@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_026193",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "全州食堂 ( 전주식당 )"
+    },
+    "text": "全州食堂 ( 전주식당 )\\n\nソウル特別市 ヨンドゥンポ区 ヨウィデバンロ61ギル5-6\\n\n半干しスケトウダラを様々な野菜と一緒に味付けした蒸し料理です。ソウル特別市のヨンドゥンポ区に位置した韓食専門店です。代表的なメニューは半干しスケトウダラの蒸し物です。",
+    "QA": [
+        {
+            "question": "全州食堂の場所はどこですか？",
+            "answer": "ソウル特別市のヨンドゥンポ区のヨウィデバンロ61ギル5-6にあります。"
+        },
+        {
+            "question": "全州食堂の特徴的な料理は何ですか？",
+            "answer": "全州食堂の代表的なメニューは半干しスケトウダラの蒸し物です。"
+        },
+        {
+            "question": "全州食堂ではどのような野菜と一緒に半干しスケトウダラが味付けされていますか？",
+            "answer": "半干しスケトウダラは様々な野菜と一緒に味付けされています。具体的な野菜の種類については詳細が不明です。"
+        }
+    ],
+    "word_Count": {
+        "text": 96,
+        "QA": 135
+    }
+}

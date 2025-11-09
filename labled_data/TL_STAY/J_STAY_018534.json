@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_018534",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42020&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "거제도 블루캐슬애견펜션(포토존,커뮤니티시설)"
+    },
+    "text": "巨済島ブルーキャッスル愛犬ペンションではこんにちはと挨拶します。 今回はお知らせをお伝えしたいと思います。 ペンションの入室時間が22時以降に変更になりましたので、予めご連絡ください。 また、客室の清掃は11時から15時まで行われますので、15時以前は入室できません。 退室時間は最終利用日には11時に決まっています。 次のお客様のために必ず時間を守ってください。 もし退室時間を守らない場合、1時間あたり3万ウォンの賦課料金があります。 また、10分を超えた場合も同様の料金が適用されます。",
+    "QA": [
+        {
+            "question": "入室時間の変更は何時からですか？",
+            "answer": "入室時間は22時以降からです。"
+        },
+        {
+            "question": "客室の清掃は何時から何時まで行われますか？",
+            "answer": "客室の清掃は11時から15時まで行われます。"
+        },
+        {
+            "question": "退室時間は何時ですか？",
+            "answer": "退室時間は11時です。"
+        },
+        {
+            "question": "退室時間を守らない場合、賦課料金が発生しますか？",
+            "answer": "はい、退室時間を守らない場合、1時間あたり3万ウォンの賦課料金が発生します。10分を超えた場合も同様の料金が適用されます。"
+        }
+    ],
+    "word_Count": {
+        "text": 180,
+        "QA": 132
+    }
+}

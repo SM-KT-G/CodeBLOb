@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_024794",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "瓮泉21世紀蒸しパン ( 옹천21세기찐빵 )"
+    },
+    "text": "瓮泉21世紀蒸しパン ( 옹천21세기찐빵 )\n慶尚北道 安東市 慶北大路 959-7\n手頃な価格で、独特の蒸しパンが味わえる店です。おすすめは蒸しパンです。慶尚北道のアンドン市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "このお店の場所はどこですか？",
+            "answer": "このお店は慶尚北道アンドン市の慶北大路959-7に位置しています。"
+        },
+        {
+            "question": "このお店の特徴は何ですか？",
+            "answer": "このお店の特徴は手頃な価格で、独特の蒸しパンが味わえることです。"
+        },
+        {
+            "question": "おすすめのメニューは何ですか？",
+            "answer": "おすすめのメニューは蒸しパンです。"
+        },
+        {
+            "question": "このお店は何の専門店ですか？",
+            "answer": "このお店は韓食専門店です。"
+        },
+        {
+            "question": "このお店の価格帯はどうなっていますか？",
+            "answer": "このお店は手頃な価格帯です。"
+        }
+    ],
+    "word_Count": {
+        "text": 74,
+        "QA": 134
+    }
+}

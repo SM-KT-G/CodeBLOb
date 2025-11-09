@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_022829",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/sung-sim-dang-bakery",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "聖心堂"
+    },
+    "text": "聖心堂\\n\n大田広域市 中区 テ鐘路480番キル 15\\n\n聖心堂は1956年に大田駅前の小さなパン屋としてオープンしたお店で、今では多くの人達に愛されるようになりました。聖心堂は23:00まで運営しており、2011年5月に国内の製菓店として初めてミシュランガイドに登録されました。",
+    "QA": [
+        {
+            "question": "聖心堂はいつオープンしましたか？",
+            "answer": "聖心堂は1956年にオープンしました。"
+        },
+        {
+            "question": "聖心堂はどこにありますか？",
+            "answer": "聖心堂は大田広域市中区テ鐘路480番キル15にあります。"
+        },
+        {
+            "question": "聖心堂は何時まで営業していますか？",
+            "answer": "聖心堂は23:00まで営業しています。"
+        },
+        {
+            "question": "聖心堂は何のガイドに登録されましたか？",
+            "answer": "聖心堂は2011年5月に国内の製菓店として初めてミシュランガイドに登録されました。"
+        },
+        {
+            "question": "聖心堂はどのような人々に愛されていますか？",
+            "answer": "聖心堂は多くの人々に愛されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 103,
+        "QA": 154
+    }
+}

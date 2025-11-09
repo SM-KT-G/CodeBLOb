@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_030860",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101933",
+        "collectedDate": "2023-10-06",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "청구"
+    },
+    "text": "請求 \n請求の別の意味は次のとおりである。\n青丘は古朝鮮江駅にあった昔の地域の名前だ。\n牽青丘は後百済の甄萱の息子だ。\n青丘は朱雀7首の真髄に属する星座の名前だ。\n青丘駅はソウル特別市の地下鉄駅だ。\n請求は法律用語である。\n青丘(チョング)は韓国の建設会社の名。\n",
+    "QA": [
+        {
+            "question": "青丘はどこにありましたか？",
+            "answer": "青丘は古朝鮮江駅にあった昔の地域の名前でした。"
+        },
+        {
+            "question": "牽青丘は誰の息子でしたか？",
+            "answer": "牽青丘は後百済の甄萱の息子でした。"
+        },
+        {
+            "question": "青丘はどんな星座に属していましたか？",
+            "answer": "青丘は朱雀7首の真髄に属する星座の名前でした。"
+        },
+        {
+            "question": "青丘駅はどこの地下鉄駅ですか？",
+            "answer": "青丘駅はソウル特別市の地下鉄駅です。"
+        },
+        {
+            "question": "請求とはどういう意味ですか？",
+            "answer": "請求は法律用語であり、要求や申し立てを意味します。"
+        },
+        {
+            "question": "青丘(チョング)はどんな会社の名前ですか？",
+            "answer": "青丘(チョング)は韓国の建設会社の名前です。"
+        }
+    ],
+    "word_Count": {
+        "text": 96,
+        "QA": 162
+    }
+}

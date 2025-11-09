@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_018915",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://apis.data.go.kr/1400000/service/cultureInfoService2/mntInfoOpenAPI2",
+        "collectedDate": "2023-11-22",
+        "publishedDate": "2020-12-01",
+        "domain": "자연관광",
+        "title": "삼봉산2"
+    },
+    "text": "三峰山 (삼봉산)\\n\n京畿道華城市奉潭邑のネリ\\n\n山の高さ : 270.5m , 三つの峰で構成されている。 山勢が緩やかで登山路線が長く伸びており、頂上に上がれば乾達山、七宝山、ムカデ山などが一望できる。",
+    "QA": [
+        {
+            "question": "三峰山はどこにありますか？",
+            "answer": "三峰山は京畿道華城市奉潭邑にあります。"
+        },
+        {
+            "question": "三峰山の高さはどれくらいですか？",
+            "answer": "三峰山の高さは270.5mです。"
+        },
+        {
+            "question": "三峰山は何つの峰で構成されていますか？",
+            "answer": "三峰山は三つの峰で構成されています。"
+        },
+        {
+            "question": "三峰山の登山路線はどうなっていますか？",
+            "answer": "三峰山の登山路線は山勢が緩やかで長く伸びており、頂上に上がれば乾達山、七宝山、ムカデ山などが一望できます。"
+        },
+        {
+            "question": "三峰山からどのような景色を見ることができますか？",
+            "answer": "三峰山からは乾達山、七宝山、ムカデ山などが一望できます。"
+        }
+    ],
+    "word_Count": {
+        "text": 77,
+        "QA": 165
+    }
+}

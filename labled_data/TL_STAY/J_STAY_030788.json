@@ -1,0 +1,63 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_030788",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42010&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "화성 자연사랑펜션"
+    },
+    "text": "こんにちは！ここは西海の魚島に位置する自然サランペンションです。 ここではヨーロッパ風の木造建物と広い空間を体験でき、自然のさわやかさと緑を鑑賞しながら幸せで穏やかな時間を過ごすことができます。 こちらはお知らせでお知らせしますが、22時以降に入室される方はペンションまで予めご連絡ください。 静かな環境でゆったりとくつろげる自然サランペンションでゆっくり休んでみてください。",
+    "QA": [
+        {
+            "question": "場所はどこにありますか？",
+            "answer": "ここは西海の魚島に位置しています。"
+        },
+        {
+            "question": "どんな建物ですか？",
+            "answer": "ヨーロッパ風の木造建物です。"
+        },
+        {
+            "question": "どのような時間を過ごすことができますか？",
+            "answer": "自然のさわやかさと緑を鑑賞しながら幸せで穏やかな時間を過ごすことができます。"
+        },
+        {
+            "question": "22時以降に入室する場合はどうすればいいですか？",
+            "answer": "ペンションまで予めご連絡ください。"
+        },
+        {
+            "question": "どんな環境でくつろげますか？",
+            "answer": "静かな環境でゆったりとくつろげる自然サランペンションです。"
+        },
+        {
+            "question": "何を体験できますか？",
+            "answer": "ヨーロッパ風の木造建物と広い空間を体験できます。"
+        },
+        {
+            "question": "何を鑑賞できますか？",
+            "answer": "自然のさわやかさと緑を鑑賞することができます。"
+        },
+        {
+            "question": "どのような時間を過ごせますか？",
+            "answer": "幸せで穏やかな時間を過ごすことができます。"
+        },
+        {
+            "question": "どうやって連絡すればいいですか？",
+            "answer": "ペンションまで予めご連絡ください。"
+        },
+        {
+            "question": "何を休めますか？",
+            "answer": "自然のサランペンションでゆっくり休んでみてください。"
+        }
+    ],
+    "word_Count": {
+        "text": 137,
+        "QA": 266
+    }
+}

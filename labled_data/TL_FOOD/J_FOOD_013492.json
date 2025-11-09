@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_013492",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-06",
+        "domain": "음식점",
+        "title": "ホスジプ ( 호수집 )"
+    },
+    "text": "ホスジプ ( 호수집 )\\n\nソウル特別市 中区 チョンパロ443\\n\n忠正路の会社員たちの隠れた名店で、行列ができる店です。代表的なメニューは鶏肉の炒め煮です。ソウル特別市のジュン区に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "ホスジプはどこに位置していますか？",
+            "answer": "ホスジプはソウル特別市の中区に位置しています。"
+        },
+        {
+            "question": "ホスジプの代表的なメニューは何ですか？",
+            "answer": "ホスジプの代表的なメニューは鶏肉の炒め煮です。"
+        },
+        {
+            "question": "ホスジプでは行列ができることがありますか？",
+            "answer": "はい、ホスジプでは行列ができることがあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 77,
+        "QA": 92
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_020268",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "麻辣担々麵 ( 마라탄탄면 )"
+    },
+    "text": "麻辣担々麵 ( 마라탄탄면 )\nソウル特別市 中区 明洞2キル 49\nなかなか体験できない中華料理の専門店です。ソウル特別市のジュン区に位置した中華専門店です。おすすめは担担麺です。",
+    "QA": [
+        {
+            "question": "麻辣担々麵はどこにありますか？",
+            "answer": "麻辣担々麵はソウル特別市中区明洞2キル49にあります。"
+        },
+        {
+            "question": "麻辣担々麵はどんな中華料理の専門店ですか？",
+            "answer": "麻辣担々麵は中華料理の専門店で、ソウル特別市の中区に位置しています。"
+        },
+        {
+            "question": "麻辣担々麵のおすすめは何ですか？",
+            "answer": "麻辣担々麵のおすすめは担担麺です。"
+        }
+    ],
+    "word_Count": {
+        "text": 66,
+        "QA": 95
+    }
+}

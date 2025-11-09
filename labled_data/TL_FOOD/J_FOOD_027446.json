@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_027446",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "真美串焼き ( 진미양꼬치 )"
+    },
+    "text": "真美串焼き ( 진미양꼬치 )\\n\nソウル特別市 ヨンドゥンポ区 ドリムチョンロ11ギル1\\n\n羊肉串と高級ラムリブが味わえます。おすすめはラム肉の串焼きです。ソウル特別市のヨンドゥンポ区に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "真美串焼きはどこにありますか？",
+            "answer": "ソウル特別市のヨンドゥンポ区のドリムチョンロ11ギル1にあります。"
+        },
+        {
+            "question": "真美串焼きでは何を味わえますか？",
+            "answer": "真美串焼きでは羊肉串と高級ラムリブが味わえます。特におすすめはラム肉の串焼きです。"
+        },
+        {
+            "question": "真美串焼きはどのような店ですか？",
+            "answer": "真美串焼きは韓食専門店で、ソウル特別市のヨンドゥンポ区に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 78,
+        "QA": 115
+    }
+}

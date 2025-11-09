@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_007123",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "サギェジンミ 明洞 （사계진미 명동）"
+    },
+    "text": "サギェジンミ 明洞 （사계진미 명동）\\n\nソウル特別市 中区 明洞8ナキル 37\\n\nソウル特別市のミョン洞に位置した韓食です。韓国のチキンBBQが味わえるお店です。代表的なメニューはタッカルビです。",
+    "QA": [
+        {
+            "question": "このレストランの場所はどこですか？",
+            "answer": "ソウル特別市の中区明洞8ナキル37にあります。"
+        },
+        {
+            "question": "このレストランでは何が味わえますか？",
+            "answer": "このレストランでは韓国のチキンBBQが味わえます。特にタッカルビがおすすめです。"
+        },
+        {
+            "question": "このレストランの代表的なメニューは何ですか？",
+            "answer": "このレストランの代表的なメニューはタッカルビです。"
+        }
+    ],
+    "word_Count": {
+        "text": 74,
+        "QA": 106
+    }
+}

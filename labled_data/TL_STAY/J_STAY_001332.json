@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_001332",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42080&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "삼척 사이펜션"
+    },
+    "text": "2022年7月にオープンする新築感性ペンションであるギャン前の新築感性ペンションは、長湖港と葛南港の近くに位置しています。 このペンションは予約前に払い戻しポリシーを必ず確認し、慎重に予約してください。 ペンションの入室時間は午後3時以降で、退室は午前11時以前です。",
+    "QA": [
+        {
+            "question": "ギャン前の新築感性ペンションはどこに位置していますか？",
+            "answer": "ギャン前の新築感性ペンションは長湖港と葛南港の近くに位置しています。"
+        },
+        {
+            "question": "ギャン前の新築感性ペンションの予約前に確認すべきポリシーはありますか？",
+            "answer": "はい、ギャン前の新築感性ペンションの予約前には払い戻しポリシーを必ず確認するようにしてください。"
+        },
+        {
+            "question": "ギャン前の新築感性ペンションの入室時間と退室時間は何時ですか？",
+            "answer": "ギャン前の新築感性ペンションの入室時間は午後3時以降で、退室時間は午前11時以前です。"
+        }
+    ],
+    "word_Count": {
+        "text": 98,
+        "QA": 159
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_034836",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=300&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=16&ccbaAsno=02720000&ccbaCtcd=32&ccbaCpno=1363202720000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1982-11-09",
+        "domain": "자연관광",
+        "title": "삼척 갈전리 당숲"
+    },
+    "text": "韓国、日本、中国に分布する天然記念物であるハルニレは寒さに強く、生活力が強く、成長速度が早いです。花は3月に咲きますが、実は薄いコインと似て油田(楡錢)またはユヒョプチョン(楡莢錢)と呼ばれています。特に三陟ハジャン面に位置したニレの木は約400年前のものと推定されます。この木は高さ20.5mに達して周囲は3.73mです。この木は毎年アオサギが訪れて子を産むが、これを保護するため、村人たちがこの木を村社木で信じたり守り、祭祀を務めたりします。伝わる話によると、この木を植えたのは葛田南氏と申します。三陟ハジャン面のニレの木は長年にわたって村の人々の関心と看護を受けてきた文化的・生物学的資料としての価値が高く、天然記念物に指定されて保護されています。三陟葛田里ニレの木はコナラとハリギリ、カエデなどの他のその他の樹木と共に群落をなしていて、指定名称が三陟葛田里ダンスプに変更され、天然記念物を保存して管理するためです。",
+    "QA": [
+        {
+            "question": "ハルニレの花が咲くのはいつですか？",
+            "answer": "ハルニレの花は3月に咲きます。"
+        },
+        {
+            "question": "ハルニレの実の名前は何ですか？",
+            "answer": "ハルニレの実は油田(楡錢)またはユヒョプチョン(楡莢錢)と呼ばれています。"
+        },
+        {
+            "question": "三陟ハジャン面に位置したニレの木の推定年代は何年ですか？",
+            "answer": "三陟ハジャン面に位置したニレの木は約400年前のものと推定されます。"
+        },
+        {
+            "question": "三陟葛田里ニレの木の高さと周囲の大きさはどのくらいですか？",
+            "answer": "三陟葛田里ニレの木は高さ20.5mに達して周囲は3.73mです。"
+        },
+        {
+            "question": "三陟ハジャン面のニレの木に毎年訪れる鳥は何ですか？",
+            "answer": "三陟ハジャン面のニレの木に毎年訪れる鳥はアオサギです。"
+        },
+        {
+            "question": "三陟葛田里ニレの木を植えた人物の名前は何ですか？",
+            "answer": "三陟葛田里ニレの木を植えたのは葛田南氏と申します。"
+        },
+        {
+            "question": "三陟葛田里ダンスプは何のために指定されましたか？",
+            "answer": "三陟葛田里ダンスプは天然記念物を保存して管理するために指定されました。"
+        }
+    ],
+    "word_Count": {
+        "text": 301,
+        "QA": 269
+    }
+}

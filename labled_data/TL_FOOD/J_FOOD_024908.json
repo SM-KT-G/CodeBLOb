@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_024908",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "牛味屋（우미옥）"
+    },
+    "text": "牛味屋\nソウル特別市 中区 明洞10キル 19-21\nソウル特別市のミョンドン・ソンダンに位置したバーベキュー専門店です。おすすめは牛肉焼きです。最上級の韓牛が味わえるお店です。",
+    "QA": [
+        {
+            "question": "牛味屋はどこに位置していますか？",
+            "answer": "牛味屋はソウル特別市中区明洞10キル19-21に位置しています。"
+        },
+        {
+            "question": "牛味屋のおすすめは何ですか？",
+            "answer": "牛味屋のおすすめは牛肉焼きです。最上級の韓牛が味わえるお店です。"
+        },
+        {
+            "question": "牛味屋で食べられる料理はありますか？",
+            "answer": "はい、牛味屋ではバーベキューが楽しめます。特に牛肉焼きがおすすめです。"
+        }
+    ],
+    "word_Count": {
+        "text": 65,
+        "QA": 107
+    }
+}

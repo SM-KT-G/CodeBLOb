@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_037596",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=392&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=00270000&ccbaCtcd=50&ccbaCpno=2113900270000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2008-12-02",
+        "domain": "문화/역사관광",
+        "title": "장한철의 표해록"
+    },
+    "text": "チャン·ハンチョルの漂海録 (장한철의 표해록)\\n\n済州特別自治道有形文化財、済州市涯月邑涯月里で生まれたチャン·ハンチョルは1770年12月25日、過去の試験を受けるためにソウルに向かう途中、風浪に会って琉球諸島(沖縄)に漂着する。 『表解録』はチャン·ハンチョルが琉球諸島に漂着した後、日本に行く商船に会って救助された後、紆余曲折の末に漢陽に行って過去に受験して落ち、帰郷して書いた本だ。 当時の海路と海流、季節風などに関する海洋地理書として文献的価値が高く、済州道の三姓神話と関連した話、白鹿潭と設問台ハルマンの伝説、遺構太子に関する伝説など当時の済州道の伝説が豊富に記録されており、説話集としての価値も高い。",
+    "QA": [
+        {
+            "question": "チャン·ハンチョルはどこで生まれましたか？",
+            "answer": "チャン·ハンチョルは済州市の涯月里で生まれました。"
+        },
+        {
+            "question": "チャン·ハンチョルは何年に琉球諸島に漂着しましたか？",
+            "answer": "チャン·ハンチョルは1770年に琉球諸島に漂着しました。"
+        },
+        {
+            "question": "チャン·ハンチョルが漂着した後、どうなりましたか？",
+            "answer": "チャン·ハンチョルは商船に救助されて漢陽に行き、過去の試験を受けた後、帰郷して本を書きました。"
+        },
+        {
+            "question": "『表解録』はどのような内容ですか？",
+            "answer": "『表解録』は海洋地理書であり、海路と海流、季節風に関する情報や当時の済州道の伝説などが記録されています。"
+        },
+        {
+            "question": "『表解録』の文献的価値はどのようなものですか？",
+            "answer": "『表解録』は当時の海洋地理や済州道の伝説に関する文献的価値が高いです。"
+        }
+    ],
+    "word_Count": {
+        "text": 226,
+        "QA": 219
+    }
+}

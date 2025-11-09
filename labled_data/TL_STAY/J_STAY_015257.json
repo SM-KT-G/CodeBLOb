@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_015257",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'http://www.hotelnoblestay.com",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "ノーブルステイ"
+    },
+    "text": "ノーブルステイ\\n\n大邱広域市中区東城路1キル15\\n\n大邱中心部に位置したホテルで、旅行者のための様々なサービスや利便施設が用意されています。東城路、西門市場とも近く、歩いて行ける交通が便利な場所であり、大邱旅行に最適な場所です。",
+    "QA": [
+        {
+            "question": "このホテルはどこに位置していますか？",
+            "answer": "ノーブルステイは大邱広域市中区東城路1キル15に位置しています。"
+        },
+        {
+            "question": "ホテル周辺にはどのような施設がありますか？",
+            "answer": "ホテル周辺には東城路や西門市場などがあり、交通が便利な場所です。"
+        },
+        {
+            "question": "このホテルはどのような旅行者におすすめですか？",
+            "answer": "このホテルは大邱旅行をする旅行者に最適です。"
+        }
+    ],
+    "word_Count": {
+        "text": 85,
+        "QA": 108
+    }
+}

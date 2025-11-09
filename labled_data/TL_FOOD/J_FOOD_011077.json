@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_011077",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "ナムギョンミラク ( 남경미락 )"
+    },
+    "text": "ナムギョンミラク ( 남경미락 )\n済州特別自治道 西帰浦市 安徳面 沙渓南路 190-3\n新鮮な済州の天然の刺身が食べられる店です。おすすめはアラの刺身です。済州特別自治道のソグィポ市に位置した海鮮専門店です。",
+    "QA": [
+        {
+            "question": "このお店はどこにありますか？",
+            "answer": "このお店は済州特別自治道のソグィポ市に位置しています。"
+        },
+        {
+            "question": "このお店のおすすめは何ですか？",
+            "answer": "このお店のおすすめはアラの刺身です。"
+        },
+        {
+            "question": "このお店で食べられるものは何ですか？",
+            "answer": "このお店では新鮮な済州の天然の刺身が食べられます。"
+        },
+        {
+            "question": "このお店の住所は何ですか？",
+            "answer": "このお店の住所は済州特別自治道 西帰浦市 安徳面 沙渓南路 190-3です。"
+        }
+    ],
+    "word_Count": {
+        "text": 77,
+        "QA": 123
+    }
+}

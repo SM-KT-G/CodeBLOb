@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_014096",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2022-12-27",
+        "domain": "문화/역사관광",
+        "title": "浪漫屋台（낭만포차）"
+    },
+    "text": "浪漫屋台（낭만포차）\\n\n全羅南道 麗水市 ハメル路 102\\n\n浪漫屋台（ナンマンポチャ）では、さまざまな料理を味わいながら麗水（ヨス）の夜景や公演を同時に楽しむことができます。屋台は現在18軒ほどあります。屋台提供料理：刺身、海鮮鍋（ヘムルタン）、海鮮蒸し（ヘムルチム）、海鮮サムハプなど",
+    "QA": [
+        {
+            "question": "浪漫屋台（낭만포차）はどこにありますか？",
+            "answer": "浪漫屋台（낭만포차）は麗水市のハメル路102にあります。"
+        },
+        {
+            "question": "浪漫屋台では何を楽しむことができますか？",
+            "answer": "浪漫屋台では麗水の夜景や公演を楽しみながら、さまざまな料理を味わうことができます。"
+        },
+        {
+            "question": "浪漫屋台で提供されている料理は何ですか？",
+            "answer": "浪漫屋台では刺身、海鮮鍋（ヘムルタン）、海鮮蒸し（ヘムルチム）、海鮮サムハプなどの料理が提供されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 107,
+        "QA": 133
+    }
+}

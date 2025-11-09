@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_099050",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1208&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=79&ccbaAsno=02160000&ccbaCtcd=35&ccbaCpno=4413502160000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2005-11-11",
+        "domain": "문화/역사관광",
+        "title": "장수경찰서 관사"
+    },
+    "text": "長水警察署官舎\\n\n全羅北道長水郡長水邑芳村キル21(長水里)\\n\n1934年、国の登録文化財、この建物は警察署署長の官舎で1934年建設し、重複度を通じて各実に連結される日食家屋の平面形式を取っている。玄関をはじめ、前面の外壁はセメントモルタルで引けており、側面の一部と後面は木材針板仕上げで二つの技法が混合された独特な様式だ。屋根は和食瓦をメイン材料に寄せ棟屋根が重畳されてブソプの屋根が外郭部に添加された複雑な形態である。内部の平面の糸の構成と配置は変化する生活方式によってたくさん変わったが、外観は以前の姿をよく保存している。",
+    "QA": [
+        {
+            "question": "この官舎はいつ建てられましたか？",
+            "answer": "1934年に建設されました。"
+        },
+        {
+            "question": "官舎の外壁はどのような材料で仕上げられていますか？",
+            "answer": "玄関を含め、前面の外壁はセメントモルタルで引かれています。"
+        },
+        {
+            "question": "官舎の屋根に使用されている主な材料は何ですか？",
+            "answer": "和食瓦をメイン材料にしています。"
+        },
+        {
+            "question": "官舎の内部の構造はどのようになっていますか？",
+            "answer": "内部の平面の構成と配置は生活方式によって変化しますが、外観は以前の姿をよく保存しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 195,
+        "QA": 139
+    }
+}

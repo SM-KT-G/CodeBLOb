@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_024909",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-01",
+        "domain": "음식점",
+        "title": "牛席亭 ( 우석정 )"
+    },
+    "text": "牛席亭 \n江原道 江陵市 江東面 詩洞書堂キル 113\n江陵市模範店に指定された店です。 おすすめはソルロンタンです。江原道のガンヌン市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "牛席亭はどこに位置していますか？",
+            "answer": "牛席亭は江原道江陵市江東面詩洞書堂キル113に位置しています。"
+        },
+        {
+            "question": "牛席亭は何をおすすめしていますか？",
+            "answer": "牛席亭のおすすめはソルロンタンです。"
+        },
+        {
+            "question": "牛席亭は江陵市模範店に指定されましたか？",
+            "answer": "はい、牛席亭は江陵市模範店に指定されました。"
+        }
+    ],
+    "word_Count": {
+        "text": 59,
+        "QA": 90
+    }
+}

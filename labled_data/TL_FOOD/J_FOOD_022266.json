@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_022266",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-05",
+        "domain": "음식점",
+        "title": "山マル山荘 ( 산마루산장 )"
+    },
+    "text": "山マル山荘 ( 산마루산장 )\\n\n慶尚北道 アンドン市 アヌクギル388\\n\n店で育てた地鶏を提供する店です。慶尚北道のアンドン市に位置した韓食専門店です。おすすめは鶏肉の炒め煮です。",
+    "QA": [
+        {
+            "question": "山マル山荘はどこに位置していますか？",
+            "answer": "山マル山荘は慶尚北道のアンドン市に位置しています。"
+        },
+        {
+            "question": "山マル山荘では何を提供していますか？",
+            "answer": "山マル山荘では店で育てた地鶏を提供しています。特におすすめは鶏肉の炒め煮です。"
+        },
+        {
+            "question": "山マル山荘の住所は何ですか？",
+            "answer": "山マル山荘の住所は慶尚北道アンドン市アヌクギル388です。"
+        }
+    ],
+    "word_Count": {
+        "text": 68,
+        "QA": 104
+    }
+}

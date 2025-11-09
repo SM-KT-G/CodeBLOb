@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_080437",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=406&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=00410000&ccbaCtcd=34&ccbaCpno=2113400410000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1976-01-08",
+        "domain": "문화/역사관광",
+        "title": "서산관아문및외동헌"
+    },
+    "text": "1871年、忠清南道有形文化財である官衙の朝鮮時代、瑞山郡の官衙で客観、東軒、楼などで構成されていました。しかし、現在は官衙文系ウェドンホンだけが残っています。官衙の門の瑞山郡の官衙の正門として、現在は、瑞山市庁の入口に位置しています。官衙の門の2階で構成された建ての門楼であり、屋根は、華やかな入母屋造りです。1階は礎石の上に掲載された四角柱をもとに出入りができるように門がかかっています。2階は板の間を敷いて周囲に手すりが巻かれています。グヮンアムンの前面には'ソリョン軍'という扁額がついているが、、ソリョンは瑞山の旧地名です。ウェドンホンは公的な仕事を処理していたビルで、5間×2間規模の入母屋造りです。建物のまわりには半カーンずつトェカンが配置されており、東側面には、高い序盤がある石の柱の形が見えます。ウェドンホン表の中央には'ソリョングヮン'という扁額が掛かっています。東軒は、朝鮮後期の官庁建築様式をよく示す非常に大きく、優雅な建物です。1978年から1979年までは東軒が瑞山市庁西に移動し、官衙の門の報酬が行われたことがあります。",
+    "QA": [
+        {
+            "question": "官衙の朝鮮時代にどのような建物があったのですか？",
+            "answer": "官衙の朝鮮時代には、官衙の門、ウェドンホン、東軒などの建物がありました。"
+        },
+        {
+            "question": "現在、瑞山郡の官衙の門はどこに位置していますか？",
+            "answer": "現在、瑞山郡の官衙の門は、瑞山市庁の入口に位置しています。"
+        },
+        {
+            "question": "官衙の門の屋根の形はどのようなものですか？",
+            "answer": "官衙の門の屋根は華やかな入母屋造りです。"
+        },
+        {
+            "question": "ウェドンホンはどのような公的な仕事を処理していましたか？",
+            "answer": "ウェドンホンは公的な仕事を処理していました。"
+        },
+        {
+            "question": "東軒はどのような特徴を持っていますか？",
+            "answer": "東軒は朝鮮後期の官庁建築様式をよく示す非常に大きく、優雅な建物です。"
+        }
+    ],
+    "word_Count": {
+        "text": 348,
+        "QA": 188
+    }
+}

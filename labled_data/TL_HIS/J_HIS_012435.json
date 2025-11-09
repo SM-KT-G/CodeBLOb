@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_012435",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2023-07-25",
+        "domain": "문화/역사관광",
+        "title": "大邱Spavalley（대구 스파밸리）"
+    },
+    "text": "大邱Spavalley（대구 스파밸리）\\n\nテグ広域市タルソン郡カチャン面カチャンロ891\\n\n大邱Spavalley（テグスパバレー／テグスパベリー）は2003年にオープンした温泉やサウナが楽しめる施設です。1階にはジムや記念品売り場などがあり、2階にはさまざまな温泉プールやチムジルバンがあります。温泉プールには健康によいバスプールやキッズプールなどがあり、チムジルバン施設には、美容と血液循環に効果のあるUK-Ballチムジルバンなどがあります。4階にある大浴場ではテーマ別のサウナや温泉が楽しめます。また、野外ウォーターパークもあります。",
+    "QA": [
+        {
+            "question": "大邱Spavalleyはいつオープンしましたか？",
+            "answer": "大邱Spavalleyは2003年にオープンしました。"
+        },
+        {
+            "question": "大邱Spavalleyには何がありますか？",
+            "answer": "大邱Spavalleyには温泉やサウナ、ジム、記念品売り場、温泉プール、チムジルバン施設などがあります。"
+        },
+        {
+            "question": "大邱Spavalleyの温泉プールにはどんなプールがありますか？",
+            "answer": "大邱Spavalleyの温泉プールには健康によいバスプールやキッズプールなどがあります。"
+        },
+        {
+            "question": "大邱Spavalleyのチムジルバン施設にはどんな施設がありますか？",
+            "answer": "大邱Spavalleyのチムジルバン施設には、美容と血液循環に効果のあるUK-Ballチムジルバンなどがあります。"
+        },
+        {
+            "question": "大邱Spavalleyの4階には何がありますか？",
+            "answer": "大邱Spavalleyの4階にはテーマ別のサウナや温泉が楽しめる大浴場があります。"
+        },
+        {
+            "question": "大邱Spavalleyには野外ウォーターパークもありますか？",
+            "answer": "はい、大邱Spavalleyには野外ウォーターパークもあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 200,
+        "QA": 306
+    }
+}

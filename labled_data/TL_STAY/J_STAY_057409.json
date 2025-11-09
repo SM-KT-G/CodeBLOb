@@ -1,0 +1,31 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_057409",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2022-12-27",
+        "domain": "숙박",
+        "title": "유달장"
+    },
+    "text": "木浦ユダルジャンモーテルは多様な客室を保有しています。 このモーテルはマッサージチェアが完備されており、便利な宿泊を提供しています。 木浦ユダルジャンモーテルは多様な客室に用意されており、マッサージチェアが完備された便利な宿泊施設です。 \".",
+    "QA": [
+        {
+            "question": "木浦ユダルジャンモーテルはどんな客室を提供していますか？",
+            "answer": "木浦ユダルジャンモーテルは多様な客室を保有しており、マッサージチェアが完備されています。"
+        },
+        {
+            "question": "木浦ユダルジャンモーテルはどのような便利な宿泊施設ですか？",
+            "answer": "木浦ユダルジャンモーテルは多様な客室に用意されており、マッサージチェアが完備された便利な宿泊施設です。"
+        }
+    ],
+    "word_Count": {
+        "text": 88,
+        "QA": 111
+    }
+}

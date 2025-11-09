@@ -1,0 +1,31 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_012855",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/traffic/government-complex-daejeon-express-bus-terminal",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "大田庁舎高速ターミナル"
+    },
+    "text": "大田庁舎高速ターミナル\\n\n大田市 西区 屯山2洞\\n\n大田政府庁舎の東門（大田庁舎高速ターミナル）では高速バスが、西門（屯山市外バス停留所）では市外バスが運行されます。",
+    "QA": [
+        {
+            "question": "大田市の西区にある大田政府庁舎の東門では何が運行されていますか？",
+            "answer": "大田庁舎高速ターミナルでは高速バスが運行されます。"
+        },
+        {
+            "question": "大田市の西区にある大田政府庁舎の西門では何が運行されていますか？",
+            "answer": "屯山市外バスが運行されます。"
+        }
+    ],
+    "word_Count": {
+        "text": 62,
+        "QA": 75
+    }
+}

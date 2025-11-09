@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_080466",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=850&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=01160000&ccbaCtcd=34&ccbaCpno=2333401160000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1997-12-23",
+        "domain": "문화/역사관광",
+        "title": "서산향교"
+    },
+    "text": "ソサン・ヒャンギョ\\n\n忠清南道瑞山市郷校1路26(東門洞)\\n\n1406、忠清南道記念物、郷校は、孔子と多くの聖賢に祭祀をして地方民の教育と教化のために国で立てた教育機関だ。瑞山郷校は、朝鮮太宗(チョソン・テジョン)の6年(1406)に序文の外に待機した。その後、先祖7年(1574)に軍需のチェヨリムが今いる席に移動して立てた。郷校の中にある建物では大成殿、明倫堂、東廡、西廡、ドンジェ・書斎、内三門、ウェサムムンがある。祭祀を行う空間である大成殿は前面3間・側面3間規模だ。屋根は側面から見ると、八(八部)字形の入母屋屋根で飾った。内側には孔子をはじめとする中国儒学者7人と韓国聖賢18人など25人の位牌が祀られている。学ぶ空間である明倫堂は前面8間・側面2間規模となっている。明倫堂の前庭には、朝鮮日本酒の時に植えたという500年程度になる銀杏の木がある。...",
+    "QA": [
+        {
+            "question": "この学問機関はいつ設立されましたか？",
+            "answer": "この学問機関は、忠清南道瑞山市にある郷校であり、1406年に朝鮮太宗によって設立されました。"
+        },
+        {
+            "question": "この学問機関の中にある建物にはどのようなものがありますか？",
+            "answer": "この学問機関の中には大成殿、明倫堂、東廡、西廡、ドンジェ・書斎、内三門、ウェサムムンなどの建物があります。"
+        },
+        {
+            "question": "学問機関の大成殿では誰が祀られていますか？",
+            "answer": "大成殿では、中国儒学者7人と韓国聖賢18人など合計25人の位牌が祀られています。"
+        },
+        {
+            "question": "学問機関の前庭にある500年程度の銀杏の木はどのような由来を持っていますか？",
+            "answer": "学問機関の前庭にある500年程度の銀杏の木は、朝鮮時代に植えられたと言われています。"
+        },
+        {
+            "question": "この学問機関で行われる主な行事は何ですか？",
+            "answer": "この学問機関では、孔子と多くの聖賢に祭祀を行うなど、地方民の教育と教化のための行事が行われています。"
+        }
+    ],
+    "word_Count": {
+        "text": 282,
+        "QA": 262
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_105989",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=56&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=03180000&ccbaCtcd=37&ccbaCpno=1123703180000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1963-01-21",
+        "domain": "문화/역사관광",
+        "title": "청도 운문사 석조사천왕상"
+    },
+    "text": "統一新羅時代、宝物、四天王石柱は雲門寺作鴨殿の中に祀られた清道雲門寺石造如来坐像の左右にそれぞれ2基ずつ計4本が石柱のように配置されています。本来の位置ではなく、ここに建てられた煉瓦塔の1階建ての塔身石4面に祀られていたものと思われます。みんな鎧を着て武器を持っていて、頭の後ろに丸い光彩を帯びたまま悪鬼を足で踏んでいます。四天王は仏陀を祀る壇の四方を守るために置く方位神の性格を帯びていますが、東が持国天王、西が広目天王、南が増長天王、北が多聞天王ですこの4つの四天王像の石柱は身体が大きい反面、目立つように彫っていないため量感がよく表れません。また、体格も弱く見えるし、顔立ちも柔らかいことから、時代が下る作品だと言えます。880年に作られた普照禅師塔四天王像や鉄鑑禅師塔四天王像と似ていますが、より大きく帯のしわも太くなるなど形式化された面があり、8世紀の石窟庵の四天王像と比較して時代の違いを感じることができます",
+    "QA": [
+        {
+            "question": "何を祀っていた四天王石柱はどこに配置されていますか？",
+            "answer": "清道雲門寺石造如来坐像の左右に配置されています。"
+        },
+        {
+            "question": "四天王石柱の彫刻にはどのような特徴がありますか？",
+            "answer": "四天王は鎧を着て武器を持ち、頭の後ろに光彩を帯びており、悪鬼を足で踏んでいます。"
+        },
+        {
+            "question": "四天王の中で、東が誰を祀っていますか？",
+            "answer": "東が持国天王を祀っています。"
+        },
+        {
+            "question": "四天王像の石柱はどのような特徴がありますか？",
+            "answer": "四天王像の石柱は大きく、しかし目立つように彫っていないため量感が表れず、体格も弱く見えます。"
+        },
+        {
+            "question": "四天王像の石柱が作られた年はいつですか？",
+            "answer": "880年に作られました。"
+        }
+    ],
+    "word_Count": {
+        "text": 300,
+        "QA": 181
+    }
+}

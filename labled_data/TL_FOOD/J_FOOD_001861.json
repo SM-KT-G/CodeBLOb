@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001861",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "LunaAsia（루나아시아）"
+    },
+    "text": "LunaAsia（루나아시아）\\n\nソウル特別市 江南区 三成路100キル 15\\n\nインド人シェフが調理します。代表的なメニューはタンドリーチキンです。ソウル特別市サムソン(三成)駅の近くに位置したアジア料理専門店です。",
+    "QA": [
+        {
+            "question": "ルナアジアはどこに位置していますか？",
+            "answer": "ルナアジアはソウル特別市江南区三成路100キル 15に位置しています。"
+        },
+        {
+            "question": "ルナアジアの代表的なメニューは何ですか？",
+            "answer": "ルナアジアの代表的なメニューはタンドリーチキンです。"
+        },
+        {
+            "question": "ルナアジアはどんな料理の専門店ですか？",
+            "answer": "ルナアジアはアジア料理専門店です。"
+        },
+        {
+            "question": "ルナアジアはどの駅の近くに位置していますか？",
+            "answer": "ルナアジアはソウル特別市サムソン(三成)駅の近くに位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 81,
+        "QA": 139
+    }
+}

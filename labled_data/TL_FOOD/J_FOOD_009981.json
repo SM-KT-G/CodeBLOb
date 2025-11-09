@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_009981",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-02-18",
+        "domain": "음식점",
+        "title": "チョウォン飲食店（초원음식점）"
+    },
+    "text": "チョウォン飲食店（초원음식점）\\n\n全羅南道 木浦市 繁華路 37-6\\n\nチョウォン飲食店は太刀魚料理の専門店です。国内産の材料のみを使用した太刀魚・ワタリガニ料理を提供しています。",
+    "QA": [
+        {
+            "question": "チョウォン飲食店はどこにありますか？",
+            "answer": "チョウォン飲食店は全羅南道木浦市繁華路37-6にあります。"
+        },
+        {
+            "question": "チョウォン飲食店では何を提供していますか？",
+            "answer": "チョウォン飲食店では太刀魚料理とワタリガニ料理を提供しています。"
+        },
+        {
+            "question": "チョウォン飲食店の料理はどのように作られていますか？",
+            "answer": "チョウォン飲食店の料理は国内産の材料のみを使用して作られています。"
+        }
+    ],
+    "word_Count": {
+        "text": 67,
+        "QA": 116
+    }
+}

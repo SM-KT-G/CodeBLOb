@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_019332",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42030&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "구미 타임호텔"
+    },
+    "text": "亀尾市仁洞広蔵交差点大通り沿いに位置するビジネスホテルです。 客室は2021年12月にリニューアルされ新設され、出張客に最適化された空間です。 最高級マットレスとホテル式寝具類を提供し、リラックスできます。 また、最高のサービスでお客様をお迎えする準備ができています。",
+    "QA": [
+        {
+            "question": "このビジネスホテルはどこに位置していますか？",
+            "answer": "このビジネスホテルは亀尾市仁洞広蔵交差点大通り沿いに位置しています。"
+        },
+        {
+            "question": "客室はいつリニューアルされましたか？",
+            "answer": "客室は2021年12月にリニューアルされました。"
+        },
+        {
+            "question": "客室にはどのような設備がありますか？",
+            "answer": "客室には最高級マットレスとホテル式寝具類が提供されています。"
+        },
+        {
+            "question": "どのようなサービスが提供されていますか？",
+            "answer": "最高のサービスでお客様をお迎えする準備ができています。"
+        }
+    ],
+    "word_Count": {
+        "text": 98,
+        "QA": 141
+    }
+}

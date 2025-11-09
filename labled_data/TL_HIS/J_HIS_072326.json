@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_072326",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/view?relicId=35836242",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "벽화 조각"
+    },
+    "text": "壁画彫刻 (벽화 조각)\\n\nこの壁画は、高句麗時代の韓国で制作されました。使用されている材質はその他で、分類は文化芸術の一環として書画のカテゴリーに入ります。現在のサイズは、長さが57cmで幅が107cmです。",
+    "QA": [
+        {
+            "question": "この壁画は何時代に制作されましたか？",
+            "answer": "この壁画は高句麗時代に制作されました。"
+        },
+        {
+            "question": "この壁画は韓国で制作されましたか？",
+            "answer": "はい、この壁画は韓国で制作されました。"
+        },
+        {
+            "question": "この壁画の材質は何ですか？",
+            "answer": "この壁画の材質はその他です。"
+        },
+        {
+            "question": "この壁画は何のカテゴリーに分類されますか？",
+            "answer": "この壁画は文化芸術の一環として書画のカテゴリーに分類されます。"
+        },
+        {
+            "question": "この壁画の現在のサイズは何ですか？",
+            "answer": "この壁画の現在のサイズは長さが57cmで幅が107cmです。"
+        }
+    ],
+    "word_Count": {
+        "text": 77,
+        "QA": 145
+    }
+}

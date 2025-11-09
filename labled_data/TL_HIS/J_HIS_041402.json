@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_041402",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2023-07-01",
+        "domain": "문화/역사관광",
+        "title": "HAPPY700 평창시네마"
+    },
+    "text": "HAPPY700平昌シネマ (HAPPY700 평창시네마)\\n\n江原特別自治道 平昌郡龍坪面京江路1689龍坪福祉会館2階\\n\n2つの劇場には計97席の座席があり、ポップコーン、飲み物などを購入できる販売店もあります。ここは最新映画が上映される劇場で、平昌で「文化の日」を楽しめる唯一の場所です。",
+    "QA": [
+        {
+            "question": "映画館の名前は何ですか？",
+            "answer": "HAPPY700平昌シネマ"
+        },
+        {
+            "question": "映画館の場所はどこですか？",
+            "answer": "江原特別自治道 平昌郡龍坪面京江路1689龍坪福祉会館2階"
+        },
+        {
+            "question": "座席数は何席ありますか？",
+            "answer": "計97席"
+        },
+        {
+            "question": "映画館内には何が販売されていますか？",
+            "answer": "ポップコーン、飲み物などを購入できる販売店があります"
+        },
+        {
+            "question": "どのような映画が上映されますか？",
+            "answer": "最新映画が上映されます"
+        },
+        {
+            "question": "平昌で文化を楽しめる場所は他にありますか？",
+            "answer": "HAPPY700平昌シネマは平昌で「文化の日」を楽しめる唯一の場所です"
+        }
+    ],
+    "word_Count": {
+        "text": 109,
+        "QA": 154
+    }
+}

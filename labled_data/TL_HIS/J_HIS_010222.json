@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_010222",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=715&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=22&ccbaAsno=00090200&ccbaCtcd=25&ccbaCpno=2222500090200&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "국화주"
+    },
+    "text": "菊酒 (국화주)\\n\n大田広域市無形文化財 , 菊酒は大田地域の代表的な門中である恩津宋氏の東春堂宗宅で伝承的に製造され、祭酒、接賓の用途に使われていた家醸酒で、株式是儀、禹音諸方など文献にも記録がある価値のある無形文化財だ。また、菊酒製造と関連した機能の実現と伝承者養成など保存·伝承のために同機能を持っているキム·ジョンスンを技能保有者と認定した。",
+    "QA": [
+        {
+            "question": "菊酒はどの地域で製造されていますか？",
+            "answer": "菊酒は大田地域の代表的な門中である恩津宋氏の東春堂宗宅で製造されています。"
+        },
+        {
+            "question": "菊酒はどのような用途に使われますか？",
+            "answer": "菊酒は祭酒や接賓の用途に使われます。"
+        },
+        {
+            "question": "菊酒はどのような価値を持っていますか？",
+            "answer": "菊酒は株式是儀や禹音諸方などの文献にも記録があり、価値のある無形文化財とされています。"
+        },
+        {
+            "question": "菊酒製造に関連した機能を持っている人物が認定されましたか？",
+            "answer": "はい、菊酒製造と関連した機能の実現と伝承者養成のためにキム・ジョンスンが技能保有者と認定されました。"
+        }
+    ],
+    "word_Count": {
+        "text": 129,
+        "QA": 170
+    }
+}

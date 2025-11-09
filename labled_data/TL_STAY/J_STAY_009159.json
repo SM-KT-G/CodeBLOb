@@ -1,0 +1,55 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_009159",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42020&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "창원 프라하호텔 운영 정책"
+    },
+    "text": "チェックインは15:00以降に可能で、チェックアウトは12:00以前にお願いします。 追加で人数を増やす場合、1人当たり10,000ウォンの費用が発生します。 朝食は宿泊客に無料で提供されます。 駐車は無料で利用でき、Wi-Fiも無料で提供されます。 追加費用はすべて現場でお支払いいただく必要があります。 ありがとうございます。",
+    "QA": [
+        {
+            "question": "チェックインは何時から可能ですか？",
+            "answer": "チェックインは15:00以降に可能です。"
+        },
+        {
+            "question": "チェックアウトは何時までですか？",
+            "answer": "チェックアウトは12:00以前にお願いします。"
+        },
+        {
+            "question": "追加の人数を増やす場合、料金はいくらですか？",
+            "answer": "追加の人数を増やす場合、1人当たり10,000ウォンの費用が発生します。"
+        },
+        {
+            "question": "朝食はどうなっていますか？",
+            "answer": "朝食は宿泊客に無料で提供されます。"
+        },
+        {
+            "question": "駐車は利用料金がかかりますか？",
+            "answer": "駐車は無料で利用できます。"
+        },
+        {
+            "question": "Wi-Fiは利用料金がかかりますか？",
+            "answer": "Wi-Fiは無料で提供されます。"
+        },
+        {
+            "question": "追加の費用は現地で支払う必要がありますか？",
+            "answer": "追加費用はすべて現場でお支払いいただく必要があります。"
+        },
+        {
+            "question": "どういたしまして。",
+            "answer": "ありがとうございます。"
+        }
+    ],
+    "word_Count": {
+        "text": 121,
+        "QA": 215
+    }
+}

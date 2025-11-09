@@ -1,0 +1,51 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001924",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2022-10-13",
+        "domain": "음식점",
+        "title": "NCNP"
+    },
+    "text": "NCNP (NCNP)\\n\n全羅南道麗水市望洋路201\\n\n麗水の有名観光地である晩成里の黒い砂浜にあるNCNPカフェは「No Coffee No Peace」の略語で、計3階規模の大型カフェだ。 1階、2階、ルーフトップまで建物全体がガラスでできていて、ぱっと開けた感じを与える。 NCNPシグネチャーメニューは、黒ごまクリームラテでコーヒーの上に載せたクリームが香ばしい味を出す。 階ごとに団体席のテーブルが用意されており、裏口からは屋外に出られる空間もある。 葦と木々で飾られたテラスインテリアはカフェの雰囲気とよく合う。 2階からは黒い砂浜とともに山も眺望でき、山と海の景色を同時に楽しむことができる。\n※ ペット同伴不可。",
+    "QA": [
+        {
+            "question": "NCNPカフェはどこにありますか？",
+            "answer": "NCNPは麗水市望洋路201にあります。"
+        },
+        {
+            "question": "NCNPカフェの名前の意味は何ですか？",
+            "answer": "NCNPは「No Coffee No Peace」の略語で、コーヒーがないと平和がないという意味です。"
+        },
+        {
+            "question": "NCNPカフェのシグネチャーメニューは何ですか？",
+            "answer": "NCNPカフェのシグネチャーメニューは黒ごまクリームラテです。"
+        },
+        {
+            "question": "NCNPカフェの建物はどのような特徴がありますか？",
+            "answer": "NCNPカフェの建物はガラスでできており、1階、2階、ルーフトップまであります。"
+        },
+        {
+            "question": "NCNPカフェのテラスインテリアはどのような雰囲気ですか？",
+            "answer": "NCNPカフェのテラスインテリアは葦と木々で飾られており、カフェの雰囲気とよく合っています。"
+        },
+        {
+            "question": "NCNPカフェから眺めることができる景色は何ですか？",
+            "answer": "NCNPカフェからは黒い砂浜と山の景色を同時に楽しむことができます。"
+        },
+        {
+            "question": "NCNPカフェにペットは連れて行けますか？",
+            "answer": "申し訳ありませんが、NCNPカフェにはペット同伴はできません。"
+        }
+    ],
+    "word_Count": {
+        "text": 231,
+        "QA": 303
+    }
+}

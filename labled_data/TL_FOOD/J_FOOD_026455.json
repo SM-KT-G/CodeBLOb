@@ -1,0 +1,31 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_026455",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "定和中華料理 ( 정화중화요리 )"
+    },
+    "text": "定和中華料理 ( 정화중화요리 )\n慶尚北道 安東市 江南8キル 19\nおいしい酢豚が味わえる店です。代表的なメニューは酢豚です。慶尚北道のアンドン市に位置した中華専門店です。",
+    "QA": [
+        {
+            "question": "慶尚北道のアンドン市で酢豚が味わえるレストランの名前は何ですか？",
+            "answer": "慶尚北道のアンドン市に位置した中華専門店の名前は「定和中華料理」です。"
+        },
+        {
+            "question": "定和中華料理の代表的なメニューは何ですか？",
+            "answer": "定和中華料理の代表的なメニューは酢豚です。"
+        }
+    ],
+    "word_Count": {
+        "text": 64,
+        "QA": 79
+    }
+}

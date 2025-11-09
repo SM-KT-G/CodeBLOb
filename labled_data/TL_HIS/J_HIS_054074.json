@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_054074",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/view?relicId=220380",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "글자가 있는 수키와4"
+    },
+    "text": "文字のある牡瓦 (글자가 있는 수키와)\\n\n左側に「中」、右側に「左」の銘文がある。\n国籍・時代：韓国 ‐ 朝鮮、材質：土 ‐ 硬質、分類：住生活・建築部材・屋根材・牡瓦、サイズ：現在長さ19.1cm、厚さ2.1cm、現在長さ9.4cm、厚さ2.2cm",
+    "QA": [
+        {
+            "question": "この牡瓦はどこで使用されていましたか？",
+            "answer": "この牡瓦は韓国・朝鮮で使用されていました。"
+        },
+        {
+            "question": "この牡瓦の材質は何ですか？",
+            "answer": "この牡瓦の材質は土で、硬質です。"
+        },
+        {
+            "question": "この牡瓦はどのように分類されていますか？",
+            "answer": "この牡瓦は住生活・建築部材・屋根材・牡瓦として分類されています。"
+        },
+        {
+            "question": "この牡瓦のサイズはどれくらいですか？",
+            "answer": "現在の牡瓦の長さは19.1cmで、厚さは2.1cmです。"
+        },
+        {
+            "question": "この牡瓦の銘文には何が書かれていますか？",
+            "answer": "この牡瓦の銘文には左側に「中」、右側に「左」と書かれています。"
+        }
+    ],
+    "word_Count": {
+        "text": 93,
+        "QA": 159
+    }
+}

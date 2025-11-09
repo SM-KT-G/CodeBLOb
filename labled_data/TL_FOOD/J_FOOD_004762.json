@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_004762",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-03",
+        "domain": "음식점",
+        "title": "カルメギ茶房 ( 갈매기다방 )"
+    },
+    "text": "カルメギ茶房 ( 갈매기다방 )\\n\n江原道 ガンヌン市 ヨンゴク面 ヨンジンギル63\\n\n海が見えるカフェです。代表的なメニューはワッフルです。江原道のガンヌン市に位置したカフェ（コーヒーショップ）です。",
+    "QA": [
+        {
+            "question": "カルメギ茶房はどこにありますか？",
+            "answer": "カルメギ茶房は江原道のガンヌン市に位置しています。"
+        },
+        {
+            "question": "カルメギ茶房の特徴的なメニューは何ですか？",
+            "answer": "カルメギ茶房の代表的なメニューはワッフルです。"
+        },
+        {
+            "question": "カルメギ茶房からは何が見えますか？",
+            "answer": "カルメギ茶房からは海が見えます。"
+        }
+    ],
+    "word_Count": {
+        "text": 75,
+        "QA": 86
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001751",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "INDIAN KITCHEN ( 인디언키친 )"
+    },
+    "text": "INDIAN KITCHEN ( 인디언키친 )\n済州特別自治道 済州市 涯月邑 涯院路 191\nハラールメニューと祈祷室があり、インド現地のシェフが直接料理する店です。おすすめはラムリブです。済州特別自治道のジェジュ市に位置したしたインド料理専門店です。",
+    "QA": [
+        {
+            "question": "済州特別自治道に位置したインド料理専門店、インディアンキッチンはどこにありますか？",
+            "answer": "インディアンキッチンは済州特別自治道済州市涯月邑の涯院路191に位置しています。"
+        },
+        {
+            "question": "インディアンキッチンではどのようなメニューが提供されていますか？",
+            "answer": "インディアンキッチンではハラールメニューが提供されており、おすすめはラムリブです。"
+        },
+        {
+            "question": "インディアンキッチンでは現地のシェフが直接料理をしていますか？",
+            "answer": "はい、インディアンキッチンではインド現地のシェフが直接料理をしています。"
+        },
+        {
+            "question": "インディアンキッチンには祈祷室がありますか？",
+            "answer": "はい、インディアンキッチンには祈祷室があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 93,
+        "QA": 195
+    }
+}

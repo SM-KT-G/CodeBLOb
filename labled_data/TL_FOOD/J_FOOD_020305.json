@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_020305",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-01",
+        "domain": "음식점",
+        "title": "麻浦炭火カルビ ( 마포숯불갈비 )"
+    },
+    "text": "麻浦炭火カルビ \n京畿道 平沢市 松炭路 69-1\n上質な牛肉を味わえるところです。 京畿道のピョンテク市に位置した韓食専門店です。おすすめは韓牛特殊部位です。",
+    "QA": [
+        {
+            "question": "麻浦炭火カルビはどこに位置していますか？",
+            "answer": "麻浦炭火カルビは京畿道平沢市松炭路69-1に位置しています。"
+        },
+        {
+            "question": "麻浦炭火カルビのおすすめメニューは何ですか？",
+            "answer": "麻浦炭火カルビのおすすめは韓牛特殊部位です。"
+        },
+        {
+            "question": "麻浦炭火カルビの特徴は何ですか？",
+            "answer": "麻浦炭火カルビは上質な牛肉を味わうことができる店です。"
+        }
+    ],
+    "word_Count": {
+        "text": 58,
+        "QA": 100
+    }
+}

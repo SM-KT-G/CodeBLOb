@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_102559",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=973&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=00200000&ccbaCtcd=34&ccbaCpno=3413400200000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1984-05-17",
+        "domain": "문화/역사관광",
+        "title": "조헌사당"
+    },
+    "text": "造憲寺党\\n\n忠清南道錦山郡水深台キル30(複数面)\\n\n忠清南道文化財資料、朝憲祠堂は本来、英祖10年(1734)にゴクナム里振動産に創建されたが、長い時間が流れて建物が崩れ、儒林の子孫たちの声援によって現在の位置に再び建てられたという。祠堂は正面3間、側面2間の切妻屋根の建物だ。朝憲先生は朝鮮中期文臣であり、義兵長であり、儒学者だ。朝鮮明宗20年(1565)成均館に入学し、1567年に文科に及第した。先祖1年(1568)、初めて官職に就くて教授を歴任し、先祖5年(1572)には、校書館に属した。先祖15年(1582)には母艦を受けて罷免されたが、再び復職した。しかし、王の怒りを買って官職から退いた後、弟子の養成と学問を固めに専念した。先祖25年(1592)壬辰倭乱が起きると、義兵など1,600人余りを集め、清州(チョンジュ)城を修復したが、全羅道に進撃していたところ、倭軍を会っていずれも戦死した。",
+    "QA": [
+        {
+            "question": "朝憲祠堂はいつ創建されましたか？",
+            "answer": "朝憲祠堂は英祖10年（1734年）にゴクナム里振動産に創建されました。"
+        },
+        {
+            "question": "朝憲先生はどのような人物でしたか？",
+            "answer": "朝憲先生は朝鮮中期文臣であり、義兵長であり、儒学者でした。"
+        },
+        {
+            "question": "朝憲祠堂の建物はどのような特徴がありますか？",
+            "answer": "朝憲祠堂は正面3間、側面2間の切妻屋根の建物です。"
+        },
+        {
+            "question": "朝憲先生は何時に成均館に入学しましたか？",
+            "answer": "朝憲先生は朝鮮明宗20年（1565年）に成均館に入学しました。"
+        },
+        {
+            "question": "朝憲先生は何年に文科に及第しましたか？",
+            "answer": "朝憲先生は1567年に文科に及第しました。"
+        },
+        {
+            "question": "朝憲先生はどのような活動を行いましたか？",
+            "answer": "朝憲先生は壬辰倭乱が起きると、義兵など1,600人余りを集め、清州城を修復し、倭軍と戦ったが戦死しました。"
+        }
+    ],
+    "word_Count": {
+        "text": 297,
+        "QA": 225
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001393",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/9-nammaejip",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "9ナンメジプ"
+    },
+    "text": "9ナンメジプ\\n\n江原道 ガンヌン市 チョダンウォンギル63-2\\n\n毎日、韓国産大豆を挽いて作っている店です。おすすめはチョングクチャンです。江原道のガンヌン市に位置した韓国料理店です。",
+    "QA": [
+        {
+            "question": "この店はどこにありますか？",
+            "answer": "この店は、韓国の江原道ガンヌン市のチョダンウォンギル63-2に位置しています。"
+        },
+        {
+            "question": "この店では何をおすすめしていますか？",
+            "answer": "この店では、韓国産大豆を挽いて作ったチョングクチャンがおすすめです。"
+        },
+        {
+            "question": "この店では毎日何を作っていますか？",
+            "answer": "この店では、毎日韓国産大豆を挽いて料理を作っています。"
+        }
+    ],
+    "word_Count": {
+        "text": 68,
+        "QA": 108
+    }
+}

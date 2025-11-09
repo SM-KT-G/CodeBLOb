@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_033099",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2022-12-27",
+        "domain": "자연관광",
+        "title": "발효소스토굴"
+    },
+    "text": "全国最大規模の発効ソースの洞窟で、年平均15℃を維持しながら長期熟成中のコチュジャン、味噌や醤油をはじめ、全世界様々なソースを一カ所で見られるように造成された。洞窟内にカフェを造成してチョングクジャンギュン(枯草菌)を利用して発酵した淳昌(スンチャン)の発効コーヒーを会うこともある。。",
+    "QA": [
+        {
+            "question": "洞窟内の年平均温度は何度ですか？",
+            "answer": "年平均温度は15度です。"
+        },
+        {
+            "question": "どのようなソースが洞窟内で熟成されていますか？",
+            "answer": "コチュジャン、味噌、醤油をはじめ、世界中の様々なソースが熟成されています。"
+        },
+        {
+            "question": "枯草菌を利用した淳昌の発酵コーヒーはどのようにして作られていますか？",
+            "answer": "枯草菌を利用して発酵した淳昌の発酵コーヒーは、洞窟内のカフェで提供されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 104,
+        "QA": 118
+    }
+}

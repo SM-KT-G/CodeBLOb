@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_002757",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://aegahanokgh.modoo.at",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "エガ"
+    },
+    "text": "エガ\\n\n大邱広域市中区南山路2キル11-11\\n\n1960年代に建てられた古風な大邱伝統都市韓屋で、大邱の伝統住宅地に位置しています。交通が良く、大邱全域への移動が便利です。",
+    "QA": [
+        {
+            "question": "この韓屋は何年代に建てられましたか？",
+            "answer": "この韓屋は1960年代に建てられました。"
+        },
+        {
+            "question": "この韓屋は大邱のどの地区に位置していますか？",
+            "answer": "この韓屋は大邱広域市中区南山路に位置しています。"
+        },
+        {
+            "question": "この韓屋はどのような特徴がありますか？",
+            "answer": "この韓屋は古風な大邱伝統都市韓屋であり、伝統住宅地に位置しています。"
+        },
+        {
+            "question": "この韓屋から大邱全域への移動は便利ですか？",
+            "answer": "はい、この韓屋の交通は良く、大邱全域への移動が便利です。"
+        }
+    ],
+    "word_Count": {
+        "text": 64,
+        "QA": 136
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_007701",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-10",
+        "domain": "음식점",
+        "title": "ジュジョンミン手製豚カツ( 주정민수제돈까스 )"
+    },
+    "text": "ジュジョンミン手製豚カツ\\n\n京畿道 ピョンテク市 マンセロ1845\\n\n厚くておいしいトンカツが味わえる店です。おすすめは豚カツです。京畿道のピョンテク市に位置した韓国料理店です。",
+    "QA": [
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "京畿道のピョンテク市に位置しています。"
+        },
+        {
+            "question": "この店のおすすめ料理は何ですか？",
+            "answer": "豚カツがおすすめです。"
+        },
+        {
+            "question": "この店の特徴は何ですか？",
+            "answer": "厚くておいしいトンカツが味わえる店です。"
+        },
+        {
+            "question": "この店の名前は何ですか？",
+            "answer": "ジュジョンミン手製豚カツ"
+        }
+    ],
+    "word_Count": {
+        "text": 66,
+        "QA": 84
+    }
+}

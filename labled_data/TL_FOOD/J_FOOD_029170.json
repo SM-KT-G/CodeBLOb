@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_029170",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2022-12-28",
+        "domain": "음식점",
+        "title": "항남뚝배기"
+    },
+    "text": "港南トゥクペギ (항남뚝배기)\\n\n慶尚南道統営市茂田3ギル32(茂田洞)\\n\n長年にわたり、ハンナム食堂は海鮮料理を専門として運営してきました。私たちは常に新鮮な海産物を使用しており、親切なサービスでお客様の満足を追求しています。",
+    "QA": [
+        {
+            "question": "ハンナム食堂はどのような料理を提供していますか？",
+            "answer": "ハンナム食堂は海鮮料理を専門としており、常に新鮮な海産物を使用しています。"
+        },
+        {
+            "question": "ハンナム食堂の場所はどこですか？",
+            "answer": "ハンナム食堂は慶尚南道統営市茂田3ギル32(茂田洞)にあります。"
+        },
+        {
+            "question": "ハンナム食堂のサービスについて教えてください。",
+            "answer": "ハンナム食堂は親切なサービスでお客様の満足を追求しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 85,
+        "QA": 118
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_072367",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=783&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=00230900&ccbaCtcd=50&ccbaCpno=2333900230900&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1996-07-18",
+        "domain": "문화/역사관광",
+        "title": "별도연대"
+    },
+    "text": "済州特別自治道記念物である連帯は政治・軍事的に急なニュースを伝えするため、たいまつと演技を利用した通信手段だ。連帯と烽燧台は機能面で差がないが、連帯は主に丘陵や海岸地域に設置され、烽燧台は山の頂上に設置され、昼間は演技で、夜には松明を咲かせて信号を送った。済州市禾北洞東連帯園に位置した別途連帯はファブクジンに所属し、華北でも呼ばれている。この連帯は現在、崩れており、台座だけが残っている。将軍6人と烽燧軍12人が配置されて、交替で24時間にわたって包囲を守らなければならない、チョチョン連帯と水根連帯の間で信号をやり取りした。このような通信機関は、当時重要な役割を遂行した。",
+    "QA": [
+        {
+            "question": "済州特別自治道記念物の連帯は何のために使用されていましたか？",
+            "answer": "連帯は政治・軍事的な急なニュースを伝えるための通信手段として使用されていました。"
+        },
+        {
+            "question": "連帯と烽燧台の違いは何ですか？",
+            "answer": "連帯と烽燧台は機能的にはほぼ同じですが、連帯は丘陵や海岸地域に設置され、烽燧台は山の頂上に設置されることが多かったです。"
+        },
+        {
+            "question": "連帯はどのような手段で通信を行っていましたか？",
+            "answer": "連帯は昼間は演技、夜には松明を使って信号を送っていました。"
+        },
+        {
+            "question": "別途連帯はどこに位置していましたか？",
+            "answer": "別途連帯は済州市禾北洞東連帯園に位置していました。"
+        },
+        {
+            "question": "連帯の配置にはどのような役割がありましたか？",
+            "answer": "連帯の配置には将軍6人と烽燧軍12人が配置され、24時間交代で包囲を守る役割がありました。"
+        }
+    ],
+    "word_Count": {
+        "text": 211,
+        "QA": 225
+    }
+}

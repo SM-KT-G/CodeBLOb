@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_009123",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1192&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=79&ccbaAsno=00170000&ccbaCtcd=24&ccbaCpno=4412400170000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2002-05-31",
+        "domain": "문화/역사관광",
+        "title": "광주 서석초등학교 본관·별관·체육관"
+    },
+    "text": "光州西石初等学校本館·別館·体育館 (광주 서석초등학교 본관·별관·체육관)\\n\n光州東区チェボン路82番キル26(ソソクドン)\\n\n本館 1935 体育館 1930 別館 1943年 , 国家登録文化財 , 本館1935年、体育館1930年、別館1943年に建設されたソソク初等学校は乙未改革の一環として公布された小学校令により設立された光州初の近代式公立学校だ。 本館は近代レンガ建築の造形美を垣間見ることができる建物で、当時最も品質の良い輸入木材と特殊レンガを使用して建てられたという。 体育館は建物内部に柱を設置しておらず、別館は各教室ごとに煙突を設置し、上人部屋と下人部屋に輪帯を囲んで装飾し、当時の校舎の特徴を示している。",
+    "QA": [
+        {
+            "question": "西石初等学校はいつ建設されましたか？",
+            "answer": "西石初等学校は本館が1935年、体育館が1930年、別館が1943年に建設されました。"
+        },
+        {
+            "question": "西石初等学校はどのような建物ですか？",
+            "answer": "西石初等学校は本館は近代レンガ建築の造形美を垣間見ることができる建物で、体育館は建物内部に柱を設置していない特徴があります。また、別館は各教室ごとに煙突を設置し、上人部屋と下人部屋に輪帯を囲んで装飾されています。"
+        },
+        {
+            "question": "西石初等学校はどのように使われていましたか？",
+            "answer": "西石初等学校は公立学校として設立され、近代式の教育を提供していました。"
+        },
+        {
+            "question": "西石初等学校はどのような教育施設ですか？",
+            "answer": "西石初等学校は光州初の近代式公立学校であり、当時最も品質の良い輸入木材と特殊レンガを使用して建てられました。"
+        },
+        {
+            "question": "西石初等学校は何のために建設されましたか？",
+            "answer": "西石初等学校は乙未改革の一環として公布された小学校令により設立されました。"
+        }
+    ],
+    "word_Count": {
+        "text": 233,
+        "QA": 274
+    }
+}

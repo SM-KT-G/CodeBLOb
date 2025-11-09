@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_014605",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-23",
+        "domain": "자연관광",
+        "title": "一字山自然公園（일자산자연공원）"
+    },
+    "text": "一字山自然公園\\n\nソウル特別市 江東区 東南路660 一帯\\n\n一字山は江東区と京畿道河南市の間に聳える江東区では最高峰を誇る山です。\\n\n遁村・李集先生の詩碑が置かれており、市民の憩いの場として広く愛されています。",
+    "QA": [
+        {
+            "question": "一字山はどこにありますか？",
+            "answer": "一字山はソウル特別市 江東区 東南路660 一帯に位置しています。"
+        },
+        {
+            "question": "一字山はどのくらいの高さですか？",
+            "answer": "一字山は江東区では最高峰で、具体的な高さは不明ですが、市内から見ると聳え立っている山です。"
+        },
+        {
+            "question": "一字山には何がありますか？",
+            "answer": "一字山には遁村・李集先生の詩碑が置かれており、市民の憩いの場として広く愛されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 79,
+        "QA": 119
+    }
+}

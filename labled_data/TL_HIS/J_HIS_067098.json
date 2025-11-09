@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_067098",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=929&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=24&ccbaAsno=00360000&ccbaCtcd=35&ccbaCpno=2443500360000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2002-04-06",
+        "domain": "문화/역사관광",
+        "title": "백운면의물레방아"
+    },
+    "text": "白雲面のジャンケン\\n\n全羅北道鎮安郡白雲面雲橋里976-2番地\\n\n全羅北道民俗文化財、我が国の水車についた最初の記録は『世宗実録』に言及されたソウル洗剣亭(セゴムジョン)の水車として、大半が丘陵性山地から落ちる落差を利用したものだ。雲橋里精米所規模は全面3間・側面1間であり、水を阻止した堰(洑)は61m、堰で水車に達する水路(水路)は252m、水路の広さは2m、深さは2mだ。糸繰り車の材質は松であり、直径が310センチ、幅130センチ、翼は既存の''一口''字形がなく、所有主がドチョンリョクを高めるため、特殊製作した''イ''字型になった47つとして、毎年部分的な保守をして保存状態が良好で、現在も継続して稼動している。",
+    "QA": [
+        {
+            "question": "この水車はどの地域に位置していますか？",
+            "answer": "全羅北道鎮安郡白雲面雲橋里976-2番地にあります。"
+        },
+        {
+            "question": "この水車はどのように記録されましたか？",
+            "answer": "『世宗実録』に言及され、ソウル洗剣亭の水車として最初に記録されました。"
+        },
+        {
+            "question": "この水車の規模はどのくらいですか？",
+            "answer": "全面3間・側面1間の規模であり、堰の長さは61m、水路は252m、広さは2m、深さは2mです。"
+        },
+        {
+            "question": "この水車の糸繰り車の材質は何ですか？",
+            "answer": "糸繰り車の材質は松です。"
+        },
+        {
+            "question": "この水車は現在も稼働していますか？",
+            "answer": "はい、現在も継続して稼働しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 231,
+        "QA": 167
+    }
+}

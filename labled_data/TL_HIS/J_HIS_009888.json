@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_009888",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1204&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=79&ccbaAsno=01680000&ccbaCtcd=25&ccbaCpno=4412501680000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2005-04-15",
+        "domain": "문화/역사관광",
+        "title": "구 철도청 대전지역사무소 보급창고 3호"
+    },
+    "text": "旧鉄道庁大田地域事務所補給倉庫3号 (구 철도청 대전지역사무소 보급창고 3호)\\n\n大田東区蘇蹄洞299番地\\n\n1956 , 国家登録文化財 , 1956年建設、この建物は鉄道庁の必要物資を移動·保管していた倉庫として建設された。 建設当時は「調達本部大田駐在」と呼ばれたが「鉄道庁大田地域事務所財務課普及倉庫」に変更され現在まで使われている。 木材トラス屋根構造で建物内部の中間に柱を設置せず空間の活用性を高め、外部仕上げは木材板を使用して通風性に優れている。",
+    "QA": [
+        {
+            "question": "この建物はいつ建てられましたか？",
+            "answer": "1956年に建設されました。"
+        },
+        {
+            "question": "この建物は何のために使用されていましたか？",
+            "answer": "この建物は鉄道庁の必要物資を移動・保管する倉庫として使用されていました。"
+        },
+        {
+            "question": "当初の建物名は何と呼ばれていましたか？",
+            "answer": "建設当時は「調達本部大田駐在」と呼ばれていました。"
+        },
+        {
+            "question": "現在の建物名は何ですか？",
+            "answer": "現在は「鉄道庁大田地域事務所財務課普及倉庫」という名前です。"
+        },
+        {
+            "question": "この建物の特徴的な構造について教えてください。",
+            "answer": "この建物は木材トラス屋根構造で、中間に柱を設置せず空間の活用性を高めています。また、外部仕上げには木材板が使用され、通風性に優れています。"
+        }
+    ],
+    "word_Count": {
+        "text": 171,
+        "QA": 194
+    }
+}

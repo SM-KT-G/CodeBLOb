@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_091355",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1137&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=03920000&ccbaCtcd=37&ccbaCpno=3413703920000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2000-09-04",
+        "domain": "문화/역사관광",
+        "title": "영해입천정"
+    },
+    "text": "領海入天頂\\n\n慶尚北道盈徳郡永海面ホジマウルキル45-10(槐市里)\\n\n朝鮮時代の高宗(1888)、慶尚北道文化財資料、口の天井は木造建築物で村の山腹に位置している。その下の左に魔界の情事があり、最も下側に庫直舎がある。正確にした時期は分からないが、高宗25年(1888)に本来の姿で再びなったという。口の天井は前面4間・側面2間規模であり、屋根は側面から見ると、八(八部)字形の入母屋屋根である。平面上の前にトェカンを置いた。魔界の精舎は前面3間・側面2間規模であり、屋根は口の天井のような入母屋屋根である。庫直舎は表4間・側面1間の規模で、屋根は側面から見ると、人の教わる字形の切妻屋根で飾った。領海口の天井は古い建物ではないが、19世紀後期の建築をよく現わしている。",
+    "QA": [
+        {
+            "question": "この口天井の建物はどのような歴史的な背景を持っていますか？",
+            "answer": "高宗25年(1888)に建てられた木造建築物であり、朝鮮時代の文化財資料として残っています。"
+        },
+        {
+            "question": "口天井の屋根はどのような形をしていますか？",
+            "answer": "口天井の屋根は側面から見ると、八(八部)字形の入母屋屋根です。"
+        },
+        {
+            "question": "魔界の精舎とはどのようなものですか？",
+            "answer": "魔界の精舎は口天井の下に位置し、前面3間・側面2間規模の建物で、入母屋屋根を持っています。"
+        },
+        {
+            "question": "庫直舎の特徴は何ですか？",
+            "answer": "庫直舎は表4間・側面1間の規模で、人の教わる字形の切妻屋根で飾られています。"
+        },
+        {
+            "question": "口天井の建物は19世紀後期の建築をどのように反映していますか？",
+            "answer": "口天井の建物は19世紀後期の建築をよく現わしており、その時代の特徴が良く表れています。"
+        }
+    ],
+    "word_Count": {
+        "text": 247,
+        "QA": 230
+    }
+}

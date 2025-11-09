@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_027028",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42001&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "신촌 모네(MONET)"
+    },
+    "text": "駐車時のバレットサービスは提供しておりません。 入室の際はフロントデスクで会員であることをお知らせください。 会員割引は現金決済時のみ適用されます。 割引金額は提携店の内規によって決まります。 当日予約以降はチェックイン後のキャンセルや払い戻しはできません。",
+    "QA": [
+        {
+            "question": "駐車時のバレットサービスは提供していますか？",
+            "answer": "申し訳ございませんが、駐車時のバレットサービスは提供しておりません。"
+        },
+        {
+            "question": "入室の際に会員であることを伝える必要がありますか？",
+            "answer": "はい、入室の際にはフロントデスクで会員であることをお知らせください。"
+        },
+        {
+            "question": "会員割引はどのような場合に適用されますか？",
+            "answer": "会員割引は現金決済時のみ適用されます。"
+        },
+        {
+            "question": "割引金額はどのように決まりますか？",
+            "answer": "割引金額は提携店の内規によって決まります。"
+        },
+        {
+            "question": "当日予約後のキャンセルや払い戻しは可能ですか？",
+            "answer": "申し訳ございませんが、当日予約以降はチェックイン後のキャンセルや払い戻しはできません。"
+        }
+    ],
+    "word_Count": {
+        "text": 94,
+        "QA": 189
+    }
+}

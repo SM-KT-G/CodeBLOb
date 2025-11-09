@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_097719",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "青松張カルグクス ( 청송장칼국수 )"
+    },
+    "text": "青松張カルグクス ( 청송장칼국수 )\\n\n江原道 ガンヌン市 ギョンガンロ2323ボンギル\\n\n江陵市民だけでなく観光客の間でも有名な飲食店です。代表的なメニューはコチュジャンカルグクスです。江原道のガンヌン市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "青松張カルグクスはどこに位置していますか？",
+            "answer": "青松張カルグクスは江原道のガンヌン市に位置しています。"
+        },
+        {
+            "question": "青松張カルグクスで有名なメニューは何ですか？",
+            "answer": "青松張カルグクスで有名なメニューはコチュジャンカルグクスです。"
+        },
+        {
+            "question": "青松張カルグクスは観光客にも人気がありますか？",
+            "answer": "はい、青松張カルグクスは江陵市民だけでなく観光客の間でも人気があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 87,
+        "QA": 117
+    }
+}

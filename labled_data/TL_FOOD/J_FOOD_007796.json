@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_007796",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-05",
+        "domain": "음식점",
+        "title": "ジョン手作りコロッケ ( 정수제고로케 )"
+    },
+    "text": "ジョン手作りコロッケ ( 정수제고로케 )\\n\n江原道 原州市 ヤンジロ58-1\\n\n自家栽培の良質な食材を使った手作りコロッケの店です。おすすめはコロッケです。江原道のウォンジュ市に位置したカフェ（コーヒーショップ）です。",
+    "QA": [
+        {
+            "question": "ジョン手作りコロッケはどこにありますか？",
+            "answer": "ジョン手作りコロッケは江原道の原州市ヤンジロ58-1にあります。"
+        },
+        {
+            "question": "ジョン手作りコロッケではどのような食材を使っていますか？",
+            "answer": "ジョン手作りコロッケでは自家栽培の良質な食材を使っています。"
+        },
+        {
+            "question": "ジョン手作りコロッケのおすすめは何ですか？",
+            "answer": "ジョン手作りコロッケのおすすめはコロッケです。"
+        },
+        {
+            "question": "ジョン手作りコロッケはどの市に位置していますか？",
+            "answer": "ジョン手作りコロッケはウォンジュ市に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 82,
+        "QA": 149
+    }
+}

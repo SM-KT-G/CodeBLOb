@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_044130",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=808&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=00460000&ccbaCtcd=38&ccbaCpno=2333800460000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1979-05-02",
+        "domain": "문화/역사관광",
+        "title": "거제 고현성"
+    },
+    "text": "慶尚南道記念物、邑城とは郡や県の住民を保護し、軍事的·行政的な機能を共にする城のことです。巨済の邑城で、慶尚南道巨済市新峴邑古峴里の敷地の上に平面の船の形で石を積んで作りました。顕宗4年(1663)まで巨済郡の官衙として使われたそうです。『東国輿地勝覧』に掲載された記録によると、周囲は3,038尺(921m)、高さは13尺(4m)でしたが、現在確認できる城壁の長さは818m、高さは2mです東·西·南の3ヶ所に城門を建て、城門の前には城門を保護する目的で小さな城を一つずつ築きました。また、城門の上に低い塀を設置し、城の周りに池を掘って水が流れるようにするなどの防御施設が設けられています。この城は宣祖25年(1592年)、文禄·慶長の役が起きると、一時倭軍に陥落しましたが、南海岸水軍の陣営に隣接する要塞地として使われました。その後、官衙を巨済邑に移転し、邑城の機能を失いました",
+    "QA": [
+        {
+            "question": "この邑城はどの地域に位置していますか？",
+            "answer": "この邑城は慶尚南道巨済市新峴邑古峴里に位置しています。"
+        },
+        {
+            "question": "邑城はどのような機能を持っていましたか？",
+            "answer": "邑城は郡や県の住民を保護し、軍事的·行政的な機能を共にする城でした。"
+        },
+        {
+            "question": "邑城の建設はいつ行われましたか？",
+            "answer": "邑城の建設は顕宗4年(1663)までに行われました。"
+        },
+        {
+            "question": "邑城の周囲の城壁の長さと高さはいくらでしたか？",
+            "answer": "邑城の周囲の城壁の長さは818m、高さは2mでした。"
+        },
+        {
+            "question": "邑城には何か防御施設がありましたか？",
+            "answer": "はい、邑城には東·西·南の3ヶ所に城門があり、城門の上に低い塀が設置され、城の周りには水が流れるように池が掘られていました。"
+        },
+        {
+            "question": "邑城はどのような歴史的な出来事に関与しましたか？",
+            "answer": "邑城は宣祖25年(1592年)の文禄·慶長の役の際に一時倭軍に陥落しましたが、その後は南海岸水軍の陣営として使われました。"
+        }
+    ],
+    "word_Count": {
+        "text": 286,
+        "QA": 261
+    }
+}

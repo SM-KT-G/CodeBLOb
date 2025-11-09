@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_092024",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=512&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=01810000&ccbaCtcd=37&ccbaCpno=2113701810000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1984-12-29",
+        "domain": "문화/역사관광",
+        "title": "옥산사마애약사여래좌상"
+    },
+    "text": "統一新羅時代の慶尚北道安東市東北後面ジャンキリ、自然岩壁に刻まれた仏像は、有形文化財に登録されている。この仏像は蓮の花模様の台座の上に座っているが、台座は二重になっており、磨崖如来座像を中心に両側には菩薩がある三尊仏と推定される。仏像の顔には笑顔が濃く描かれており、首には明確に刻まれた三道が3列に見られる。仏像は右側の肩をあらわにして左の肩を抱いた服を着ており、胸元にはスカートのティメドゥプが見える。右手は右の膝の上に上げて、左手は下腹部分で小さな薬の器を持っている。このような磨崖仏は珍しく三尊仏の形でつくられたもので、この類型の仏像を研究する上で重要な資料だ。",
+    "QA": [
+        {
+            "question": "この磨崖仏はどこにありますか？",
+            "answer": "この磨崖仏は韓国の慶尚北道安東市にあります。"
+        },
+        {
+            "question": "この磨崖仏は何時代のものですか？",
+            "answer": "この磨崖仏は統一新羅時代のものです。"
+        },
+        {
+            "question": "磨崖仏には何が刻まれていますか？",
+            "answer": "磨崖仏には蓮の花模様の台座の上に座る仏像と、仏像を中心に両側に菩薩がある三尊仏が刻まれています。"
+        },
+        {
+            "question": "仏像の顔には何が描かれていますか？",
+            "answer": "仏像の顔には濃い笑顔が描かれています。"
+        },
+        {
+            "question": "仏像の服装や手に持っているものについて教えてください。",
+            "answer": "仏像は右側の肩をあらわにして左の肩を抱いた服を着ており、右手は右の膝の上に上げて、左手は下腹部分で小さな薬の器を持っています。"
+        },
+        {
+            "question": "磨崖仏はどのような形でつくられたものですか？",
+            "answer": "磨崖仏は珍しく三尊仏の形でつくられたものです。"
+        }
+    ],
+    "word_Count": {
+        "text": 208,
+        "QA": 224
+    }
+}

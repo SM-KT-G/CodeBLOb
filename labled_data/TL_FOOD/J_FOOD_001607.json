@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001607",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2020-12-08",
+        "domain": "음식점",
+        "title": "COFFEE ONLY 永登浦区庁駅( 커피온리 영등포구청역 )"
+    },
+    "text": "COFFEE ONLY 永登浦区庁駅( 커피온리 영등포구청역 )\\n\nソウル特別市 ヨンドゥンポ区 ダンサンロ134-1\\n\n様々なコーヒーが味わえる店です。おすすめはアメリカーノです。ソウル特別市のヨンドゥンポ区に位置したカフェ（コーヒーショップ）です。",
+    "QA": [
+        {
+            "question": "このカフェの名前は何ですか？",
+            "answer": "コーヒーオンリー 永登浦区庁駅( 커피온리 영등포구청역 )"
+        },
+        {
+            "question": "このカフェはどこにありますか？",
+            "answer": "ソウル特別市 ヨンドゥンポ区 ダンサンロ134-1"
+        },
+        {
+            "question": "このカフェではどんなコーヒーが楽しめますか？",
+            "answer": "さまざまなコーヒーが味わえます。おすすめはアメリカーノです。"
+        },
+        {
+            "question": "このカフェはどのような特徴がありますか？",
+            "answer": "ソウル特別市のヨンドゥンポ区に位置し、様々なコーヒーが楽しめるカフェです。"
+        }
+    ],
+    "word_Count": {
+        "text": 94,
+        "QA": 141
+    }
+}

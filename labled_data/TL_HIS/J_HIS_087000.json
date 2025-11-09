@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_087000",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1013&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=00660000&ccbaCtcd=36&ccbaCpno=3413600660000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1984-02-29",
+        "domain": "문화/역사관광",
+        "title": "쌍봉사극락전"
+    },
+    "text": "双鳳四極楽殿\\n\n全羅南道和順郡梨陽面双山義路459(曽里)\\n\n全羅南道文化財資料、双峰住んでいる統一新羅景文王8年(868)にチョルガム禅師が中国から帰国し、寺跡の景色が良いのを見て立てたという。極楽殿は前面3間・側面3間規模で、屋根は側面から見ると、人の教わる字形の切妻屋根である。軒を支えようと装飾して作った恐怖は柱の上と柱の間にもあるダポ様式にした。天井は井戸の井の字の字型に天井の中を隠した格天井で、床には板の間を敷いた。窓は2ペア扉を付けた。",
+    "QA": [
+        {
+            "question": "この寺の建設者は誰ですか？",
+            "answer": "景文王8年(868)にチョルガム禅師が中国から帰国し、寺跡の景色が良いのを見て立てたという。"
+        },
+        {
+            "question": "極楽殿の屋根の形はどのような形ですか？",
+            "answer": "極楽殿の屋根は側面から見ると、人の教わる字形の切妻屋根である。"
+        },
+        {
+            "question": "極楽殿の柱にはどのような装飾がありますか？",
+            "answer": "極楽殿の柱の上と柱の間にもあるダポ様式の装飾があります。"
+        },
+        {
+            "question": "極楽殿の天井はどのような形ですか？",
+            "answer": "極楽殿の天井は井戸の井の字の字型に天井の中を隠した格天井です。"
+        },
+        {
+            "question": "床には何が敷かれていますか？",
+            "answer": "床には板の間が敷かれています。"
+        },
+        {
+            "question": "窓はどのような形ですか？",
+            "answer": "窓は2ペア扉を付けた形をしています。"
+        }
+    ],
+    "word_Count": {
+        "text": 167,
+        "QA": 194
+    }
+}

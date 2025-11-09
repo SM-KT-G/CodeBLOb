@@ -1,0 +1,31 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_004903",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42090&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "제주 해담풀하우스풀빌라"
+    },
+    "text": "こんにちは。済州ヘダムフルハウスフルビラです。 済州ヘダムフルハウスフルビラではお知らせがあります。 22時以降に入室される場合は、予めペンションまでご連絡ください。 また、チェックアウトは午前11時までに必ず守ってください。 ありがとうございます。",
+    "QA": [
+        {
+            "question": "済州ヘダムフルハウスフルビラでは、何時までにチェックアウトをする必要がありますか？",
+            "answer": "チェックアウトは午前11時までに必ず守ってください。"
+        },
+        {
+            "question": "入室する際、22時以降は何をする必要がありますか？",
+            "answer": "22時以降に入室される場合は、予めペンションまでご連絡ください。"
+        }
+    ],
+    "word_Count": {
+        "text": 91,
+        "QA": 90
+    }
+}

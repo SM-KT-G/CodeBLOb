@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_025443",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42091&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "울산 ST210펜션"
+    },
+    "text": "蔚山のST210ペンションでは広い海との交感が楽しめる場所です。 ここでは特別なドラマが繰り広げられる空間が設けられています。 ST210ペンションのテラスでは海を眺めながらロマンを感じることができ、露天風呂とバーベキューを楽しむこともできます。 また、パステルトーンで飾られた室内空間にはさわやかな感じを与えるために緑の植物が配置されています。 すべての瞬間を幸せに過ごせるST210で皆さんをご招待します。 以上、お知らせでした。",
+    "QA": [
+        {
+            "question": "ST210ペンションではどのような特別なドラマが繰り広げられますか？",
+            "answer": "ST210ペンションでは、広い海との交感を楽しむことができ、特別なドラマが繰り広げられる空間が設けられています。"
+        },
+        {
+            "question": "ST210ペンションのテラスでは何を楽しむことができますか？",
+            "answer": "ST210ペンションのテラスでは海を眺めながらロマンを感じることができ、露天風呂とバーベキューを楽しむこともできます。"
+        },
+        {
+            "question": "ST210ペンションの室内空間にはどんなものが配置されていますか？",
+            "answer": "ST210ペンションの室内空間にはさわやかな感じを与えるためにパステルトーンで飾られ、緑の植物が配置されています。"
+        },
+        {
+            "question": "ST210ペンションで過ごすことができる瞬間はどのようなものですか？",
+            "answer": "ST210ペンションではすべての瞬間を幸せに過ごすことができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 159,
+        "QA": 246
+    }
+}

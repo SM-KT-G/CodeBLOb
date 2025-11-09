@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_001715",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2019-07-27",
+        "domain": "숙박",
+        "title": "B-STAY富川ホテル（B-STAY 부천호텔）"
+    },
+    "text": "B-STAY富川ホテル（B-STAY 부천호텔）\\n\n京畿道 富川市 吉州路131\\n\n富川市遠美区上洞にあるB-STAY富川ホテルは、夢に見ていた都市の中の快適さと余裕で、品格が感じられるホテルです。",
+    "QA": [
+        {
+            "question": "B-STAY富川ホテルはどこにありますか？",
+            "answer": "B-STAY富川ホテルは京畿道富川市吉州路131にあります。"
+        },
+        {
+            "question": "B-STAY富川ホテルの特徴は何ですか？",
+            "answer": "B-STAY富川ホテルは都市の中の快適さと余裕を感じられ、品格があるホテルです。"
+        },
+        {
+            "question": "B-STAY富川ホテルの場所はどのような雰囲気ですか？",
+            "answer": "B-STAY富川ホテルは富川市遠美区上洞に位置し、都市の中にありながらも落ち着いた雰囲気があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 74,
+        "QA": 137
+    }
+}

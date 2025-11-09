@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001990",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/polnpolina",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "Paul & Paulina 光化門店"
+    },
+    "text": "Paul & Paulina 光化門店\\n\nソウル特別市 鍾路区 内需洞 74\\n\nヨーロッパ風のベーカリー。 paul&paulina。弘大前で開始して有名になったパン屋。パンは酵母で長時間発酵して改良剤を添加しない。試食パンが用意されており、食べてみて購買可能。包装専門。",
+    "QA": [
+        {
+            "question": "場所はどこですか？",
+            "answer": "光化門店はソウル特別市鍾路区内需洞74にあります。"
+        },
+        {
+            "question": "パンの特徴は何ですか？",
+            "answer": "パンは酵母で長時間発酵して改良剤を添加しないことが特徴です。"
+        },
+        {
+            "question": "店内で試食パンがありますか？",
+            "answer": "はい、店内には試食パンが用意されており、食べてみてから購買することができます。"
+        },
+        {
+            "question": "パンは包装されていますか？",
+            "answer": "はい、paul&paulinaはパンの包装に特化しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 101,
+        "QA": 125
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_007489",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "ジェームズ チーズ トゥンガルビ 明洞 ( 제임스치즈등갈비 명동 )"
+    },
+    "text": "ジェームズ チーズ トゥンガルビ 明洞 ( 제임스치즈등갈비 명동 )\\n\nソウル特別市 中区 明洞10キル 13\\n\n味付け豚のバックリブとチーズを一緒に食べる料理で明洞で有名なお店です。 ソウル特別市の中区に位置した韓食専門店です。代表的なメニューはバックリブです。",
+    "QA": [
+        {
+            "question": "このお店の名前は何ですか？",
+            "answer": "ジェームズ チーズ トゥンガルビ 明洞 ( 제임스치즈등갈비 명동 )"
+        },
+        {
+            "question": "このお店の場所はどこですか？",
+            "answer": "ソウル特別市 中区 明洞10キル 13"
+        },
+        {
+            "question": "このお店の代表的なメニューは何ですか？",
+            "answer": "バックリブ"
+        },
+        {
+            "question": "このお店は何で有名ですか？",
+            "answer": "味付け豚のバックリブとチーズを一緒に食べる料理で有名です"
+        },
+        {
+            "question": "このお店はどのような料理を提供していますか？",
+            "answer": "韓食専門店で、代表的なメニューはバックリブです"
+        }
+    ],
+    "word_Count": {
+        "text": 99,
+        "QA": 140
+    }
+}

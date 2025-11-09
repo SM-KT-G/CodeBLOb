@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_042222",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/collectionList#######",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "각종 우산"
+    },
+    "text": "各種傘 (각종 우산)\\n\n「傘の種類には、さまざまなものがあります。この特定の傘は、韓国-日本の植民地支配時代に広まった民俗の一環であります。傘の素材はガラスや宝石で装飾されており、メディアの一つとしても使用され、フィルムに撮影されました。その大きさは横120cm、縦164cmです。」",
+    "QA": [
+        {
+            "question": "この傘はどのような傘ですか？",
+            "answer": "この傘は、韓国-日本の植民地支配時代に広まった民俗の一環であります。"
+        },
+        {
+            "question": "この傘の素材は何ですか？",
+            "answer": "この傘の素材は、ガラスや宝石で装飾されております。"
+        },
+        {
+            "question": "この傘はどのように使用されましたか？",
+            "answer": "この傘は、メディアの一つとしても使用され、フィルムに撮影されました。"
+        },
+        {
+            "question": "この傘の大きさはどれくらいですか？",
+            "answer": "この傘の大きさは、横120cm、縦164cmです。"
+        }
+    ],
+    "word_Count": {
+        "text": 105,
+        "QA": 131
+    }
+}

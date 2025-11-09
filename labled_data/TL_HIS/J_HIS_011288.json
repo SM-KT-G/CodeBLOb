@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_011288",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1224&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=79&ccbaAsno=04050000&ccbaCtcd=37&ccbaCpno=4413704050000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2008-10-01",
+        "domain": "문화/역사관광",
+        "title": "김천 부항지서 망루"
+    },
+    "text": "金泉釜項支署望楼 (김천 부항지서 망루)\\n\n慶尚北道金泉市釜項面沙登3ギル12(沙登里)\\n\n1950年 , 国家登録文化財 , この施設は朝鮮戦争直後、住民たちがコンクリートで建築した火器陣地用途の自主的防御施設で、住民たちが警察を支援して北朝鮮軍ゲリラの浸透を防ぐのに大きく寄与したところだ。 コンクリート4面体型で高さは7mで、4面に近代的な射撃用銃眼施設を2つずつ設置している。 屋根と内部に望楼の上に接近できるように設置したはしご施設などは焼失したが、望楼から釜項交番に通じる地下通路入口はそのままよく残っている。",
+    "QA": [
+        {
+            "question": "この施設はいつ建てられましたか？",
+            "answer": "1950年に建てられました。"
+        },
+        {
+            "question": "この施設は何のために建てられましたか？",
+            "answer": "この施設は火器陣地用途の自主的防御施設として建てられました。"
+        },
+        {
+            "question": "この施設はどのような役割を果たしましたか？",
+            "answer": "この施設は住民たちが警察を支援して北朝鮮軍ゲリラの浸透を防ぐのに大きく寄与しました。"
+        },
+        {
+            "question": "この施設の形状や高さはどうなっていますか？",
+            "answer": "この施設はコンクリート4面体型で高さは7mです。"
+        },
+        {
+            "question": "この施設にはどのような設備がありますか？",
+            "answer": "この施設には4面に近代的な射撃用銃眼施設が2つずつ設置されています。"
+        },
+        {
+            "question": "この施設の屋根や内部にはどのような設備がありますか？",
+            "answer": "屋根と内部に望楼の上に接近できるように設置したはしご施設などは焼失しましたが、望楼から釜項交番に通じる地下通路入口はそのままよく残っています。"
+        }
+    ],
+    "word_Count": {
+        "text": 193,
+        "QA": 247
+    }
+}

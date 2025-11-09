@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_004928",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-09-01",
+        "domain": "음식점",
+        "title": "キムジンモクサン ( 김진목삼 )"
+    },
+    "text": "キムジンモクサン ( 김진목삼 )\\n\nソウル特別市 鐘路区 紫霞門路1キル 51\\n\n韓豚認証を受けた豚肉をスタッフが焼いてくれる店です。ソウル特別市のジョンノ区に位置した韓国料理店です。代表的なメニューは豚の肩肉です。",
+    "QA": [
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "この店はソウル特別市の鐘路区紫霞門路1キル51に位置しています。"
+        },
+        {
+            "question": "この店は何を提供していますか？",
+            "answer": "この店では韓豚認証を受けた豚肉を提供しています。特に豚の肩肉が代表的なメニューです。"
+        },
+        {
+            "question": "この店の特徴は何ですか？",
+            "answer": "この店の特徴は、スタッフが豚肉を焼いてくれるところです。"
+        }
+    ],
+    "word_Count": {
+        "text": 81,
+        "QA": 104
+    }
+}

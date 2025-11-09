@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_015590",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2023-01-16",
+        "domain": "음식점",
+        "title": "로스가든 CAFE&VINO"
+    },
+    "text": "ロスガーデンCAFE&VINO (로스가든 CAFE&VINO)\\n\n京畿道安城市陽城面ミリネソンジロ299-8\\n\n俳優のノ・ジュヒョン氏が経営するカフェCAFE&VINOは、ROSHGODEN内にCASATEATROと一緒に運営されており、CASATEATROで公演や映画を鑑賞することができます。CAFE&VINOではコーヒーやお茶、アイスクリームなど様々な種類の飲み物やデザートが楽しめます。",
+    "QA": [
+        {
+            "question": "ロスガーデンCAFE&VINOはどこにありますか？",
+            "answer": "ロスガーデンCAFE&VINOは京畿道安城市陽城面ミリネソンジロ299-8にあります。"
+        },
+        {
+            "question": "ロスガーデンCAFE&VINOはどのような料理や飲み物が楽しめますか？",
+            "answer": "ロスガーデンCAFE&VINOではコーヒーやお茶、アイスクリームなど様々な種類の飲み物やデザートが楽しめます。"
+        },
+        {
+            "question": "ロスガーデンCAFE&VINOはどのような場所で公演や映画を鑑賞できますか？",
+            "answer": "ロスガーデンCAFE&VINOはCASATEATROと一緒に運営されており、CASATEATROで公演や映画を鑑賞することができます。"
+        },
+        {
+            "question": "ロスガーデンCAFE&VINOを経営している人物は誰ですか？",
+            "answer": "ロスガーデンCAFE&VINOは俳優のノ・ジュヒョン氏が経営しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 146,
+        "QA": 241
+    }
+}

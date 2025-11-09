@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_007680",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-09-01",
+        "domain": "음식점",
+        "title": "ジャルパジンメミル 益善（잘빠진메밀 익선）"
+    },
+    "text": "ジャルパジンメミル 益善（잘빠진메밀 익선）\\n\nソウル特別市 鐘路区 栗谷路8キル 73\\n\nこの店はソウル特別市のチョンノに位置した韓国料理店です。各種マッコリを味わうことができます。代表的なメニューは餃子の寄せ鍋です。",
+    "QA": [
+        {
+            "question": "この店はどこに位置していますか？",
+            "answer": "この店はソウル特別市のチョンノに位置しています。"
+        },
+        {
+            "question": "この店の代表的なメニューは何ですか？",
+            "answer": "この店の代表的なメニューは餃子の寄せ鍋です。"
+        },
+        {
+            "question": "この店ではどんな種類のマッコリが味わえますか？",
+            "answer": "この店では各種マッコリが味わえます。"
+        }
+    ],
+    "word_Count": {
+        "text": 82,
+        "QA": 88
+    }
+}

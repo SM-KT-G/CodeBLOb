@@ -1,0 +1,31 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_003827",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-08-27",
+        "domain": "음식점",
+        "title": "オルソ（올쏘）"
+    },
+    "text": "オルソ（올쏘）\\n\nソウル特別市 鐘路区 鐘路14キル 30\\n\nソウル特別市のチョンゲチョンに位置した韓国式BBQ専門店です。おすすめは牛肉焼きです。",
+    "QA": [
+        {
+            "question": "オルソ（올쏘）はどこに位置していますか？",
+            "answer": "オルソ（올쏘）はソウル特別市のチョンゲチョンに位置しています。"
+        },
+        {
+            "question": "オルソ（올쏘）のおすすめメニューは何ですか？",
+            "answer": "オルソ（올쏘）のおすすめは牛肉焼きです。"
+        }
+    ],
+    "word_Count": {
+        "text": 55,
+        "QA": 68
+    }
+}

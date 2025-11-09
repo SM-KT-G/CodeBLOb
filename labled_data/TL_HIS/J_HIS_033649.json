@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_033649",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=432&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=00730000&ccbaCtcd=37&ccbaCpno=2113700730000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1975-08-18",
+        "domain": "문화/역사관광",
+        "title": "하천재<부비각>"
+    },
+    "text": "河川材<浮飛脚> (하천재<부비각>)\\n\n慶尚北道永川市紫陽面城谷里山660-2番地\\n\n慶尚北道有形文化財 , 烏川鄭氏家の墓と江義公チョン·セアの墓場に建てた碑を保護するために建てられた家と碑閣だ。 朝鮮仁祖15年(1637)に晋州牧師のチョン·ホインが初めて建てたという。 今の建物は後に建て直したものと見られ、永川ダム建設によって1976年に今の位置に移された。 康義公チョン·セアは壬辰倭乱(1592)の時、義兵大将に推薦され多くの功績を立てた。 しかし、その功として賞を望まず官職を離れ、田舎で弟子を育てながら学問を修めた徳望の高い士人だった。 境内には河川斎、新道碑閣などがあり、すべて単純で素朴に建てられた建物だ。",
+    "QA": [
+        {
+            "question": "この建物は誰によって建てられましたか？",
+            "answer": "朝鮮仁祖15年(1637)に晋州牧師のチョン·ホインが初めて建てました。"
+        },
+        {
+            "question": "どのような目的でこの建物が建てられましたか？",
+            "answer": "この建物は烏川鄭氏家の墓と江義公チョン·セアの墓場に建てた碑を保護するために建てられました。"
+        },
+        {
+            "question": "康義公チョン·セアはどのような人物でしたか？",
+            "answer": "康義公チョン·セアは壬辰倭乱(1592)の時、義兵大将に推薦され多くの功績を立てました。その後も官職を離れ、田舎で弟子を育てながら学問を修めた徳望の高い士人でした。"
+        },
+        {
+            "question": "この建物はどのように移されましたか？",
+            "answer": "この建物は永川ダム建設によって1976年に今の位置に移されました。"
+        },
+        {
+            "question": "境内にはどのような建物がありますか？",
+            "answer": "境内には河川斎、新道碑閣などがあります。すべて単純で素朴に建てられた建物です。"
+        }
+    ],
+    "word_Count": {
+        "text": 231,
+        "QA": 245
+    }
+}

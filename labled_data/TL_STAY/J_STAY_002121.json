@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_002121",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2019-07-31",
+        "domain": "숙박",
+        "title": "THE BASE（더베이스）"
+    },
+    "text": "THE BASE（더베이스）\\n\n忠清北道 忠州市 虎岩大路 8 (虎岩洞）\\n\nTHE BASEの室内外ウエディングホールには、先端のウエディング演出装置があり、各宴会室別にビームプロジェクト, 超大型壁面スクリーン、音響システム, カラオケ機器、縮小型エッフェル塔を設置して、より風情のある美しい湖畔のロマンあふれるホテルです。",
+    "QA": [
+        {
+            "question": "場所はどこにありますか？",
+            "answer": "THE BASE（더베이스）は、忠清北道 忠州市 虎岩大路 8 (虎岩洞）に位置しています。"
+        },
+        {
+            "question": "THE BASEの特徴は何ですか？",
+            "answer": "THE BASEの室内外ウエディングホールには、先端のウエディング演出装置があり、各宴会室別にビームプロジェクト, 超大型壁面スクリーン、音響システム, カラオケ機器、縮小型エッフェル塔を設置しています。"
+        },
+        {
+            "question": "宴会室にはどんな装置がありますか？",
+            "answer": "宴会室にはビームプロジェクト、超大型壁面スクリーン、音響システム、カラオケ機器、縮小型エッフェル塔が設置されています。"
+        },
+        {
+            "question": "どんな雰囲気のホテルですか？",
+            "answer": "THE BASEは美しい湖畔のロマンあふれるホテルであり、風情があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 121,
+        "QA": 222
+    }
+}

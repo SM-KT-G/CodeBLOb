@@ -1,0 +1,31 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_001001",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2018-08-17",
+        "domain": "문화/역사관광",
+        "title": "KBS On（見学ホール)（KBS 온(견학홀) ）"
+    },
+    "text": "KBS On（見学ホール)\nソウル特別市 永登浦区 汝矣公園路13 （汝矣島洞）\n「KBS On」は韓国の放送歴史を作り上げたKBSの見学ホールです。ラジオのオープンスタジオやミニ博物館、ニュース体験、スポーツ、テレビスタジオ、ホログラム、立体映像体験、クロマキー、キャラクターコーナーなど、放送制作に関する様々な場所を見学・体験することができます。",
+    "QA": [
+        {
+            "question": "KBS Onはどこにありますか？",
+            "answer": "KBS Onはソウル特別市永登浦区汝矣公園路13（汝矣島洞）にあります。"
+        },
+        {
+            "question": "KBS Onでは何を見学・体験することができますか？",
+            "answer": "KBS Onではラジオのオープンスタジオやミニ博物館、ニュース体験、スポーツ、テレビスタジオ、ホログラム、立体映像体験、クロマキー、キャラクターコーナーなど、放送制作に関する様々な場所を見学・体験することができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 128,
+        "QA": 136
+    }
+}

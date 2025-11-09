@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_003475",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "オウヌル ( 어우늘 )"
+    },
+    "text": "オウヌル ( 어우늘 )\n済州特別自治道 済州市 蓮北路 222\nフュージョンアワビ料理を提供する店です。済州特別自治道のジェジュ市に位置した韓食専門店です。代表的なメニューはアワビの釜飯です。",
+    "QA": [
+        {
+            "question": "オウヌルはどこに位置していますか？",
+            "answer": "オウヌルは済州特別自治道のジェジュ市に位置しています。"
+        },
+        {
+            "question": "オウヌルはどのような料理を提供していますか？",
+            "answer": "オウヌルはフュージョンアワビ料理を提供しています。代表的なメニューはアワビの釜飯です。"
+        },
+        {
+            "question": "オウヌルの住所は何ですか？",
+            "answer": "オウヌルの住所は済州特別自治道済州市蓮北路222番地です。"
+        }
+    ],
+    "word_Count": {
+        "text": 71,
+        "QA": 110
+    }
+}

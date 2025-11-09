@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_018819",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.goodchoice.kr/product/detail?ano=60521&adcno=1&sel_date=2023-11-07&sel_date2=2023-11-08",
+        "collectedDate": "2023-11-15",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "문의 썸"
+    },
+    "text": "計20台の駐車施設を備えた駐車場では、すべてNetflix視聴が可能な客室を提供しています。 客室には55インチのスマートテレビが設置されており、ヘアドライヤー、携帯電話の充電器、Wi-Fi、エアコン、冷蔵庫、電気ケトル、IPTV、バスタブ,ガウン,卓上及び椅子が備えられています。 フロントおよびその他の施設は無人技術で運営されています。",
+    "QA": [
+        {
+            "question": "客室には何が備えられていますか？",
+            "answer": "客室には55インチのスマートテレビ、ヘアドライヤー、携帯電話の充電器、Wi-Fi、エアコン、冷蔵庫、電気ケトル、IPTV、バスタブ、ガウン、卓上及び椅子が備えられています。"
+        },
+        {
+            "question": "どのような施設が無人技術で運営されていますか？",
+            "answer": "フロントおよびその他の施設が無人技術で運営されています。"
+        },
+        {
+            "question": "駐車場には何台の駐車施設がありますか？",
+            "answer": "駐車場には20台の駐車施設があります。"
+        },
+        {
+            "question": "何が視聴可能なNetflixを提供していますか？",
+            "answer": "すべての客室でNetflix視聴が可能です。"
+        }
+    ],
+    "word_Count": {
+        "text": 124,
+        "QA": 173
+    }
+}

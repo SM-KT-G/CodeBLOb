@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_027925",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=282&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=15&ccbaAsno=01060000&ccbaCtcd=32&ccbaCpno=1353201060000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2013-03-21",
+        "domain": "자연관광",
+        "title": "강릉 용연계곡 일원"
+    },
+    "text": "江陵市沙川面(カンルンシ・サチョンミョン)サキマク里に位置した龍淵渓谷はウンギェボンとファンビョン山裾チョンマボンの間のサチョンチョンに沿って形成された渓谷である。全体の長さは約6kmであり、ここは小規模の滝、ポクホ、塀、牛などの河川地形や岩石河床、砂利の川床が相次いで広がっていて、自然景観がとても美しい。渓谷のジョルチョンミを成す''日向滝''をはじめ、継続される数多くの牛や滝、緑の澄んだ水と周辺のもみじは秋には特にきれいな姿を見せてくれる。龍淵渓谷周辺には、新羅時代の磁場律師が創建したヨンヨンサがあり、ここは、仏教文化と伝統祭礼、窯業文化など様々な歴史文化的要素が価値を加えた場所として知られている。",
+    "QA": [
+        {
+            "question": "龍淵渓谷はどこに位置していますか？",
+            "answer": "サキマク里に位置したサチョンチョンに沿って形成された渓谷である。"
+        },
+        {
+            "question": "龍淵渓谷の全体の長さはどのくらいですか？",
+            "answer": "全体の長さは約6kmです。"
+        },
+        {
+            "question": "龍淵渓谷周辺にある古代の寺院は何と呼ばれていますか？",
+            "answer": "新羅時代の磁場律師が創建したヨンヨンサと呼ばれています。"
+        },
+        {
+            "question": "龍淵渓谷ではどんな自然景観が楽しめますか？",
+            "answer": "小規模の滝、ポクホ、塀、牛などの河川地形や岩石河床、砂利の川床が楽しめます。"
+        },
+        {
+            "question": "龍淵渓谷周辺のもみじはどんな時期に特にきれいですか？",
+            "answer": "秋に特にきれいな姿を見せてくれます。"
+        },
+        {
+            "question": "龍淵渓谷周辺にはどんな歴史文化的要素がありますか？",
+            "answer": "仏教文化、伝統祭礼、窯業文化など様々な歴史文化的要素があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 223,
+        "QA": 217
+    }
+}

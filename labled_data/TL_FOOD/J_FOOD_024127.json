@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_024127",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-03",
+        "domain": "음식점",
+        "title": "涯月の夜 ( 애월의밤 )"
+    },
+    "text": "涯月の夜  ( 애월의밤 )\\n\nソウル特別市 ヨンドゥンポ区 グクフェデロ34ギル10\\n\n海老と鮭を一度に味わえる店です。代表的なメニューはサーモンの刺身です。ソウル特別市のヨンドゥンポ区に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "このお店の場所はどこですか？",
+            "answer": "ソウル特別市のヨンドゥンポ区のグクフェデロ34ギル10にあります。"
+        },
+        {
+            "question": "このお店の代表的なメニューは何ですか？",
+            "answer": "このお店の代表的なメニューはサーモンの刺身です。"
+        },
+        {
+            "question": "このお店ではどのような海産物が楽しめますか？",
+            "answer": "このお店では海老と鮭を一度に味わうことができます。"
+        },
+        {
+            "question": "このお店は何を専門としていますか？",
+            "answer": "このお店は韓食を専門としています。"
+        },
+        {
+            "question": "このお店はどのような雰囲気ですか？",
+            "answer": "このお店は涯月の夜という店名の通り、夜の雰囲気が特に素敵です。"
+        }
+    ],
+    "word_Count": {
+        "text": 79,
+        "QA": 160
+    }
+}

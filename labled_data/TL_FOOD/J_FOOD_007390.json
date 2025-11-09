@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_007390",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-06",
+        "domain": "음식점",
+        "title": "サンチョンネ2号 ( 삼촌네2호 )"
+    },
+    "text": "サンチョンネ2号 ( 삼촌네2호 )\\n\nソウル特別市 冠岳区 シンリムロ59ギル12\\n\n新林駅スンデタウンにある昔からあるスンデ炒めの名店です。ソウル特別市のクァナク区に位置した韓食専門店です。おすすめはスンデです。",
+    "QA": [
+        {
+            "question": "このスンデ炒めの名店はどこにありますか？",
+            "answer": "新林駅スンデタウンにあります。"
+        },
+        {
+            "question": "このお店のおすすめは何ですか？",
+            "answer": "おすすめはスンデです。"
+        },
+        {
+            "question": "この店の住所を教えてください。",
+            "answer": "ソウル特別市 冠岳区 シンリムロ59ギル12です。"
+        },
+        {
+            "question": "このお店はいつから営業していますか？",
+            "answer": "昔から営業しています。"
+        },
+        {
+            "question": "このお店の雰囲気はどうですか？",
+            "answer": "韓食専門店で、アットホームな雰囲気です。"
+        }
+    ],
+    "word_Count": {
+        "text": 80,
+        "QA": 121
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_006414",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1007&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=00600000&ccbaCtcd=32&ccbaCpno=3413200600000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1985-01-17",
+        "domain": "문화/역사관광",
+        "title": "강릉 모학당 고택"
+    },
+    "text": "江陵茅鶴堂古宅 (강릉 모학당 고택)\\n\n江原道江陵市母山路170-52(潭山洞)\\n\n江原特別自治道 文化財資料 , 江陵市から南西方向に2kmほど離れたところに位置している家だ。 「察訪家」とも呼ばれるが、本来江陵キム氏が代々暮らしていたが、察訪という官職を務めたナムソクがここに引っ越してきて彼の子孫たちが暮らしたと言われ、1992年に現所有者に変わった。 階段を上がって門屋中央のソスル大門を過ぎると、広い中庭の向こう側に母屋が位置している。 母屋は母屋とサランチェで構成されているが、サランチェの右側に母屋に通じる門がある。 母屋は前面3間·側面2間規模の建物で、真ん中に奥の間を置いて床の部屋と広間、台所を配置した。 サランチェは母屋に通じる門を中心に左側に部屋2間と床を置き、床の裏には光と部屋、台所がある。 門の右側には木壁で構成された物置が母屋の台所と連結されている。",
+    "QA": [
+        {
+            "question": "江陵茅鶴堂古宅はどこに位置していますか？",
+            "answer": "江陵茅鶴堂古宅は江原道江陵市母山路170-52(潭山洞)に位置しています。"
+        },
+        {
+            "question": "江陵茅鶴堂古宅は誰が建てた家ですか？",
+            "answer": "江陵茅鶴堂古宅は江陵キム氏が代々暮らしていた家ですが、察訪という官職を務めたナムソクがここに引っ越してきて彼の子孫たちが暮らしたと言われています。"
+        },
+        {
+            "question": "江陵茅鶴堂古宅はいつ建てられましたか？",
+            "answer": "江陵茅鶴堂古宅は1992年に現所有者に変わった後に建てられました。"
+        },
+        {
+            "question": "江陵茅鶴堂古宅の母屋はどのように構成されていますか？",
+            "answer": "江陵茅鶴堂古宅の母屋は前面3間・側面2間規模の建物で、真ん中に奥の間を置いて床の部屋と広間、台所を配置しています。"
+        },
+        {
+            "question": "江陵茅鶴堂古宅のサランチェはどのように構成されていますか？",
+            "answer": "江陵茅鶴堂古宅のサランチェは左側に部屋2間と床を置き、床の裏には光と部屋、台所がある構成です。"
+        }
+    ],
+    "word_Count": {
+        "text": 288,
+        "QA": 263
+    }
+}

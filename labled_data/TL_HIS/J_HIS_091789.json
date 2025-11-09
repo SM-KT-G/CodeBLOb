@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_091789",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=409&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=00450000&ccbaCtcd=32&ccbaCpno=2113200450000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1973-07-31",
+        "domain": "문화/역사관광",
+        "title": "오봉서원"
+    },
+    "text": "オボンソウォン\\n\n江原道江陵市ジャンギル28-7(城山面)\\n\n江原道特別自治道有形文化財、朝鮮明宗11年(1556)、江陵(カンヌン)副詞ハムホンイから使臣として中国に行き、誤って者が描いた孔子の肖像画を持って帰国し、明宗16年(1561)に初めて建てられた。その後、正祖6年(1782)は走者、純祖6年(1806)には宋時烈(ソン・シヨル)をともに仕え、先賢に対する祭祀と地方の教育を担当することになった。興宣大院君(テウォングン)の書院撤廃令によって書院はなくなり、遺影と位牌は江陵郷校に移された。今の書院は1903年に新たに建てられたが、江陵地方の儒林が祠堂を建てて集成として、祠堂の隣には、別廟を立ててチルボンサとした。集成社・チルボンサ・ドア・お盆講堂・墓チョンビガク・2つの墓の整備などが残っている。集成社には孔子・走者・宋時烈(ソン・シヨル)3人の位牌が祀られており、チルボンサにはハムホンの位牌が祭られている。講堂は板の間とオンドル部屋になっているが、各種行事も行なって儒林たちが集まって会議や学問を討論する場所として使われている。毎年旧暦9月2日に祭祀を行っている。",
+    "QA": [
+        {
+            "question": "この書院はいつ建てられましたか？",
+            "answer": "この書院は明宗16年(1561)に初めて建てられました。"
+        },
+        {
+            "question": "書院にはどのような人々の位牌が祀られていますか？",
+            "answer": "書院には孔子・走者・宋時烈(ソン・シヨル)3人の位牌が祀られており、チルボンサにはハムホンの位牌が祭られています。"
+        },
+        {
+            "question": "毎年行われている祭祀の日付はいつですか？",
+            "answer": "毎年旧暦9月2日に祭祀が行われています。"
+        }
+    ],
+    "word_Count": {
+        "text": 362,
+        "QA": 121
+    }
+}

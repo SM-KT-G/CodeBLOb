@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_013787",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-03",
+        "domain": "음식점",
+        "title": "マグロ狂 ( 참치광 )"
+    },
+    "text": "マグロ狂 ( 참치광 )\\n\nソウル特別市 ヨンドゥンポ区 ダンサンロ30ギル9\\n\n新鮮な刺身が味わえる店です。代表的なメニューはマグロの刺身です。ソウル特別市のヨンドゥンポ区に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "マグロ狂はどこに位置していますか？",
+            "answer": "マグロ狂はソウル特別市のヨンドゥンポ区に位置しています。"
+        },
+        {
+            "question": "マグロ狂の代表的なメニューは何ですか？",
+            "answer": "マグロ狂の代表的なメニューはマグロの刺身です。"
+        },
+        {
+            "question": "マグロ狂はどのような店ですか？",
+            "answer": "マグロ狂は新鮮な刺身が味わえる韓食専門店です。"
+        }
+    ],
+    "word_Count": {
+        "text": 74,
+        "QA": 91
+    }
+}

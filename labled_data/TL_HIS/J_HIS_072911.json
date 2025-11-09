@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_072911",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=774&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=00150000&ccbaCtcd=33&ccbaCpno=2333300150000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1976-12-21",
+        "domain": "문화/역사관광",
+        "title": "보은 후율사"
+    },
+    "text": "1928年、忠清北道記念物、朝鮮中期の文臣であり壬辰倭乱の時に義兵長として活躍した趙憲(1544~1592)先生を祀っている祠堂です。趙憲先生は文禄·慶長の役が発生すると、文人の金正伯·李祐らと1,600人余りの義兵を集めて清州城を修復しました。しかし、当時忠清道巡察使だった尹国衡の妨害で義兵たちが強制解散され、残りの700人で錦山で戦い、数的劣勢を克服できずに全員戦死しましたここは錦山戦闘で殉節した700人余りの医師と彼を称えるために粛宗の時に建てられたもので、彼が李律谷の門下生であることから「後律寺」と呼ばれました。高宗8年(1871)、興宣大院君の書院撤廃令で取り壊されたものを1928年に建て直しました。現在は彼とともに殉国した医師20人の位牌が祀られています。前面3間·側面2間規模の建物で、屋根は側面から見て人字型の切妻屋根です",
+    "QA": [
+        {
+            "question": "この祠堂は誰を祀っていますか？",
+            "answer": "この祠堂は、趙憲先生を祀っています。"
+        },
+        {
+            "question": "趙憲先生はどのような人物ですか？",
+            "answer": "趙憲先生は、忠清北道の記念物であり、朝鮮中期の文臣であり、壬辰倭乱の時に義兵長として活躍した人物です。"
+        },
+        {
+            "question": "どのような活動を行ったのですか？",
+            "answer": "趙憲先生は、文禄・慶長の役が発生した際に1,600人余りの義兵を集め、清州城を修復しました。しかし、尹国衡による妨害により義兵たちは強制解散され、700人余りで錦山で戦いましたが、数的劣勢を克服できずに全員戦死しました。"
+        },
+        {
+            "question": "この祠堂はいつ建てられましたか？",
+            "answer": "この祠堂は、粛宗の時に趙憲先生と彼を称えるために建てられました。"
+        },
+        {
+            "question": "何人の医師が祀られていますか？",
+            "answer": "この祠堂には、趙憲先生とともに殉節した医師20人の位牌が祀られています。"
+        },
+        {
+            "question": "この祠堂の建物はどのような特徴がありますか？",
+            "answer": "この祠堂の建物は、前面3間・側面2間の規模で、屋根は側面から見て人字型の切妻屋根です。"
+        }
+    ],
+    "word_Count": {
+        "text": 273,
+        "QA": 286
+    }
+}

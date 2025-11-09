@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_028749",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-05-26",
+        "domain": "음식점",
+        "title": "平壌冷麺（평양냉면）"
+    },
+    "text": "平壌冷麺\\n\n慶尚北道 慶州市 元暁路 109-2\\n\n慶州地域で伝統のある冷麺屋として有名なお店です。国産の蕎麦と澱粉だけを使用して手でこねて作る麺はコシが強く、韓牛の骨をじっくり煮込んで作り上げたスープはさっぱりしています。",
+    "QA": [
+        {
+            "question": "このお店の場所はどこですか？",
+            "answer": "このお店は慶尚北道慶州市元暁路109-2にあります。"
+        },
+        {
+            "question": "このお店の冷麺はどのように作られていますか？",
+            "answer": "このお店では国産の蕎麦と澱粉を使用し、手でこねて作られる麺が提供されています。"
+        },
+        {
+            "question": "このお店のスープはどんな味ですか？",
+            "answer": "このお店のスープはさっぱりしており、韓牛の骨をじっくり煮込んで作られています。"
+        }
+    ],
+    "word_Count": {
+        "text": 83,
+        "QA": 115
+    }
+}

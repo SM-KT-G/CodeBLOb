@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_023628",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1222&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=79&ccbaAsno=03800000&ccbaCtcd=36&ccbaCpno=4413603800000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2008-07-14",
+        "domain": "문화/역사관광",
+        "title": "신안 소흑산도 등대"
+    },
+    "text": "新安小黒山島灯台 (신안 소흑산도 등대)\\n\n全羅南道新安郡黒山面加巨島里山9-2番地山4\\n\n1935年 , 国家登録文化財 , この灯台は西南海岸を行き来していた船舶の道しるべの役割をした施設物で、1907年に無人灯台として築造したが、1935年に有人灯台に増築した。 玄関のポチ(porch)が突出しており、灯明器を保護する灯籠は光をすべての方向に伝達するために円筒形に作られ、内部には機械室のポンプと油タンク、滑車の原理を利用して音を規則的に出す無敵が原型のまま残っている。",
+    "QA": [
+        {
+            "question": "この灯台は何年に築造されましたか？",
+            "answer": "1935年"
+        },
+        {
+            "question": "この灯台はどのような役割を果たしていましたか？",
+            "answer": "船舶の道しるべの役割を果たしていました"
+        },
+        {
+            "question": "灯台の玄関にはどんな特徴がありますか？",
+            "answer": "ポチが突出しています"
+        },
+        {
+            "question": "灯明器を保護する灯籠はどのような形状ですか？",
+            "answer": "円筒形に作られています"
+        },
+        {
+            "question": "灯台の内部にはどのような設備がありますか？",
+            "answer": "機械室のポンプと油タンク、滑車の原理を利用して音を規則的に出す無敵があります"
+        }
+    ],
+    "word_Count": {
+        "text": 177,
+        "QA": 135
+    }
+}

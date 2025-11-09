@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_LEI_000846",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101933",
+        "collectedDate": "2023-10-06",
+        "publishedDate": "2020-01-01",
+        "domain": "레포츠",
+        "title": "강남축구공원"
+    },
+    "text": "カンナム・チュックゴンウォン \\n\nガンナムパーク（Gangnam Football Park）は大韓民国江原特別自治道にあるスポーツ施設である。天然芝フィールドが備えられたサッカー場1面と人工芝フィールドが備えられたサッカー場2面で構成されており、2010年5月に竣工した。\\n\n",
+    "QA": [
+        {
+            "question": "ガンナムパークはどこにありますか？",
+            "answer": "ガンナムパークは大韓民国江原特別自治道にあります。"
+        },
+        {
+            "question": "ガンナムパークには何がありますか？",
+            "answer": "ガンナムパークには天然芝フィールドが備えられたサッカー場と人工芝フィールドが備えられたサッカー場があります。"
+        },
+        {
+            "question": "ガンナムパークはいつ竣工しましたか？",
+            "answer": "ガンナムパークは2010年5月に竣工しました。"
+        }
+    ],
+    "word_Count": {
+        "text": 103,
+        "QA": 112
+    }
+}

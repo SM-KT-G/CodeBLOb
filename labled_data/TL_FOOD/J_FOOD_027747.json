@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_027747",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-09",
+        "domain": "음식점",
+        "title": "青雲食堂 ( 청운식당 )"
+    },
+    "text": "青雲食堂\\n\n済州特別自治道 西帰浦市 城山邑 日出路 285\\n\n早朝でも太刀魚料理が味わえる店です。おすすめは太刀魚定食です。済州特別自治道のソグィポ市に位置した韓国料理店です。",
+    "QA": [
+        {
+            "question": "青雲食堂はどこにありますか？",
+            "answer": "青雲食堂は済州特別自治道 西帰浦市 城山邑 日出路 285にあります。"
+        },
+        {
+            "question": "青雲食堂のおすすめ料理は何ですか？",
+            "answer": "青雲食堂のおすすめは太刀魚定食です。"
+        },
+        {
+            "question": "青雲食堂は何時から営業していますか？",
+            "answer": "青雲食堂は早朝から営業しています。"
+        },
+        {
+            "question": "青雲食堂はどの市に位置していますか？",
+            "answer": "青雲食堂は済州特別自治道のソグィポ市に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 66,
+        "QA": 120
+    }
+}

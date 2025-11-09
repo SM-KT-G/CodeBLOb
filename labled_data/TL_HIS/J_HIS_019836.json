@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_019836",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=960&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=00090000&ccbaCtcd=37&ccbaCpno=3413700090000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1985-08-05",
+        "domain": "문화/역사관광",
+        "title": "분황사석정"
+    },
+    "text": "粉黄砂石晶 (분황사석정)\\n\n慶尚北道慶州市旧黄洞314-5番地\\n\n慶尚北道文化財資料 , これは護国龍辺御井とも呼ばれる新羅時代の井戸である。 井戸枠の外部は高さ70cmの8角、内部は円形だが、これは仏教の八正道と円融の真理を、井戸の中の4角形格子は仏教の根本教理である四聖体を意味する。 『三国遺事』によれば「元聖王11年に唐の使臣が来て新羅の護国龍を3匹の魚に変身させた後、捕まえて本国に向かった。 その一日後、二人の女性が元聖王の前に現れ、自分たちは同志」青地に住む二人の護国用の妻だが、唐の使臣と下西国の人々が自分の夫と芬皇寺八角亭に住む護国用を呪文を覚えて小さな魚に変化させ、竹筒の中に入れて持って行ったと言いながら、これを救ってほしいと訴えた。; 王が人に頼んで唐の使臣を追いかけ、魚を再び奪い、それぞれの井戸に置いて住まわせた。「」という伝説が記されている。",
+    "QA": [
+        {
+            "question": "この井戸は何のために使用されていましたか？",
+            "answer": "この井戸は新羅時代の護国龍辺御井として使用されていました。"
+        },
+        {
+            "question": "井戸枠の外部と内部の形状にはどのような意味がありますか？",
+            "answer": "井戸枠の外部は八角形で、内部は円形です。これは仏教の八正道と円融の真理を表しています。"
+        },
+        {
+            "question": "井戸の中の四角形格子は何を意味していますか？",
+            "answer": "井戸の中の四角形格子は仏教の根本教理である四聖体を意味しています。"
+        },
+        {
+            "question": "唐の使臣が護国龍を変身させた後、何が起こりましたか？",
+            "answer": "唐の使臣が護国龍を変身させた後、魚を捕まえて本国に持ち帰るために竹筒に入れました。その後、元聖王が魚を再び奪い、それぞれの井戸に置いて住まわせました。"
+        },
+        {
+            "question": "この井戸に関連する伝説はありますか？",
+            "answer": "この井戸には「唐の使臣と護国用の妻たちの伝説」という話があります。この伝説では、二人の女性が元聖王の前に現れ、自分たちは護国用の妻であると言っています。"
+        }
+    ],
+    "word_Count": {
+        "text": 285,
+        "QA": 272
+    }
+}

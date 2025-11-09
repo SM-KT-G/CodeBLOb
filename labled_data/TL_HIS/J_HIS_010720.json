@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_010720",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2023-03-23",
+        "domain": "문화/역사관광",
+        "title": "금호리조트 제주아쿠아나"
+    },
+    "text": "錦湖リゾート済州アクア (금호리조트 제주아쿠아나)\\n\n済州特別自治道西帰浦市南原邑太衛路522-12\\n\nクムホ済州リゾートは、南原観光地に位置しており、草原と美しい海岸絶壁に囲まれています。また、リゾート内には済州アクアという施設があり、水遊び施設、屋外プール、スパ施設などの楽しみも味わえます。",
+    "QA": [
+        {
+            "question": "済州アクアはどこにありますか？",
+            "answer": "済州アクアは済州特別自治道西帰浦市南原邑太衛路522-12に位置しています。"
+        },
+        {
+            "question": "クムホ済州リゾートの周辺にはどのような自然がありますか？",
+            "answer": "クムホ済州リゾートは草原と美しい海岸絶壁に囲まれています。"
+        },
+        {
+            "question": "済州アクアではどのような施設がありますか？",
+            "answer": "済州アクアでは水遊び施設、屋外プール、スパ施設などの楽しみが味わえます。"
+        }
+    ],
+    "word_Count": {
+        "text": 110,
+        "QA": 122
+    }
+}

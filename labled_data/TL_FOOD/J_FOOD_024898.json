@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_024898",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "牛島ジャージャー麺（우도짜장맨）"
+    },
+    "text": "牛島ジャージャー麺（우도짜장맨）\\n\n済州特別自治道 済州市 牛島面 牛島海岸キル 1132\\n\n済州特別自治道のジェジュ市に位置した中華です。ヒジキはワカメと同じ海藻類です。代表的なメニューはジャージャー麺です。",
+    "QA": [
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "牛島ジャージャー麺は済州特別自治道のジェジュ市に位置しています。具体的な住所は牛島海岸キル 1132です。"
+        },
+        {
+            "question": "ヒジキとは何ですか？",
+            "answer": "ヒジキはワカメと同じ海藻類の一種です。"
+        },
+        {
+            "question": "この店の代表的なメニューは何ですか？",
+            "answer": "この店の代表的なメニューはジャージャー麺です。"
+        }
+    ],
+    "word_Count": {
+        "text": 78,
+        "QA": 99
+    }
+}

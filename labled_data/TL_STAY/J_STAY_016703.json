@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_016703",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2020-03-24",
+        "domain": "숙박",
+        "title": "ホテルハナ（호텔하나）"
+    },
+    "text": "ホテルハナ（호텔하나）\\n\n済州特別自治道 西帰浦市 中文観光路72番キル 53\\n\n中文観光団地内最高級のホテルであり、海岸散策路に位置する済州ハナホテルは、手頃な宿泊料でありながら清潔感のあるホテルとして人気があります。",
+    "QA": [
+        {
+            "question": "ホテルハナはどこにありますか？",
+            "answer": "ホテルハナは済州特別自治道 西帰浦市 中文観光路72番キル 53に位置しています。"
+        },
+        {
+            "question": "ホテルハナはどのような特徴がありますか？",
+            "answer": "ホテルハナは中文観光団地内に位置し、手頃な宿泊料でありながら清潔感のあるホテルとして人気があります。"
+        },
+        {
+            "question": "ホテルハナの周辺には何がありますか？",
+            "answer": "ホテルハナの周辺には海岸散策路があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 82,
+        "QA": 121
+    }
+}

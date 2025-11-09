@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_029700",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42010&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "가평 해밀펜션"
+    },
+    "text": "当ヘミルペンションは北漢江の川辺の前の眺めの良い憩いの場があり、カピョンの観光名所であるナンイ島とシンガポールの中間に位置しており、家族や恋人と一緒に旅行の思い出を作るのに最適な場所です。 ヘミルペンションでは22時以降に入室される場合、予めご連絡ください。",
+    "QA": [
+        {
+            "question": "ヘミルペンションはどこに位置していますか？",
+            "answer": "ヘミルペンションは北漢江の川辺に位置しています。"
+        },
+        {
+            "question": "ヘミルペンションはどのような施設ですか？",
+            "answer": "ヘミルペンションは眺めの良い憩いの場であり、家族や恋人と一緒に旅行の思い出を作るのに最適な場所です。"
+        },
+        {
+            "question": "ヘミルペンションでは何時までに入室する必要がありますか？",
+            "answer": "ヘミルペンションでは22時以降に入室される場合、予めご連絡ください。"
+        },
+        {
+            "question": "ヘミルペンションの近くにはどのような観光名所がありますか？",
+            "answer": "ヘミルペンションの近くにはカピョンの観光名所であるナンイ島があります。"
+        },
+        {
+            "question": "ヘミルペンションはどのような場所に位置していますか？",
+            "answer": "ヘミルペンションはシンガポールとナンイ島の中間に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 94,
+        "QA": 219
+    }
+}

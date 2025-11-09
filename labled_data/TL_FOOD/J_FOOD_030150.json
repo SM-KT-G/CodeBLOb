@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_030150",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/jangblrang-jerry-naksungdae",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "JEAN BOULANGERIE"
+    },
+    "text": "JEAN BOULANGERIE\\n\nソウル特別市冠岳区奉天洞1660-7\\n\n「JEAN BOULANGERIE」のパンは防腐剤はもちろん化学保存剤が全く入っていないパンを販売しています。 すべてのケーキは牛乳の生クリーム100%だけを使用するので、濃くて柔らかいながらおいしいです。",
+    "QA": [
+        {
+            "question": "店舗の場所はどこですか？",
+            "answer": "JEAN BOULANGERIEはソウル特別市冠岳区奉天洞1660-7にあります。"
+        },
+        {
+            "question": "JEAN BOULANGERIEのパンには防腐剤や化学保存剤は含まれていますか？",
+            "answer": "いいえ、JEAN BOULANGERIEのパンには防腐剤や化学保存剤は一切含まれていません。"
+        },
+        {
+            "question": "ケーキにはどのような材料が使われていますか？",
+            "answer": "JEAN BOULANGERIEのケーキは牛乳の生クリーム100%だけを使用しています。濃くて柔らかく、とてもおいしいです。"
+        }
+    ],
+    "word_Count": {
+        "text": 104,
+        "QA": 163
+    }
+}

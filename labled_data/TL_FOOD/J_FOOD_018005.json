@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_018005",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "南道韓牛 ( 남도한우 )"
+    },
+    "text": "南道韓牛 ( 남도한우 )\\n\n全羅南道 潭陽郡 潭陽邑 竹郷大路 1169\\n\n模範飲食店に選ばれたお店で、韓牛のみを取り扱っています。 おすすめは牛肉です。全羅南道のダムヤン郡に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "南道韓牛はどこで取り扱っていますか？",
+            "answer": "南道韓牛は全羅南道潭陽郡潭陽邑竹郷大路1169で取り扱っています。"
+        },
+        {
+            "question": "南道韓牛のおすすめは何ですか？",
+            "answer": "南道韓牛のおすすめは牛肉です。"
+        },
+        {
+            "question": "南道韓牛はどのようなお店ですか？",
+            "answer": "南道韓牛は全羅南道のダムヤン郡に位置した韓食専門店です。"
+        }
+    ],
+    "word_Count": {
+        "text": 75,
+        "QA": 91
+    }
+}

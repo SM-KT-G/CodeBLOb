@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_091095",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1100&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=02400000&ccbaCtcd=34&ccbaCpno=3413402400000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1984-05-17",
+        "domain": "문화/역사관광",
+        "title": "영인석불"
+    },
+    "text": "霊人石仏\\n\n忠清南道牙山市永仁面牙山里615\\n\n不定、忠清南道文化財資料、忠清南道牙山市霊仁面アサンリに位置した石仏立像で、花崗岩で高さ265センチ、幅87㎝で、彫刻した。首にセメントで保守した形跡があるが、話した話によると、日清戦争の時、首が切断されたまま放置されたが、1945年に補修したのだという。頭には官冠)を使っており、卵形の顔は両ほほが丸々としてるように表現された。堂々たる体躯に服は左肩のみを覆っているが、服のしわは磨滅によって詳しく見えないが、船の下には服のしわを表現した跡が見える。左手の掌には丸い玉が掲載されており、右手は親指と中指を突き合わせて右側の胸の前に乗せている。仏像の彫刻の腕や頭にかぶった棺の形の、顔などを見る限り、高麗時代に作られたものと推定される。",
+    "QA": [
+        {
+            "question": "この石仏立像はどこに位置していますか？",
+            "answer": "この石仏立像は忠清南道牙山市永仁面牙山里615に位置しています。"
+        },
+        {
+            "question": "石仏の高さと幅はそれぞれ何センチですか？",
+            "answer": "石仏の高さは265センチ、幅は87センチです。"
+        },
+        {
+            "question": "石仏が彫刻された材料は何ですか？",
+            "answer": "石仏は花崗岩で彫刻されています。"
+        },
+        {
+            "question": "石仏の首にあるセメントはなぜ使われていますか？",
+            "answer": "石仏の首にセメントが使われたのは、日清戦争の時に首が切断されたためであり、1945年に補修された結果です。"
+        },
+        {
+            "question": "石仏の頭には何が使われていますか？",
+            "answer": "石仏の頭には官冠が使われています。"
+        },
+        {
+            "question": "石仏の作られた時代は何時期と推定されていますか？",
+            "answer": "石仏の彫刻の腕や頭にかぶった棺の形の、顔などを見る限り、高麗時代に作られたものと推定されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 252,
+        "QA": 226
+    }
+}

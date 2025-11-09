@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_080031",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=127&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=11000000&ccbaCtcd=11&ccbaCpno=1121111000000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1991-12-16",
+        "domain": "문화/역사관광",
+        "title": "상지은니 불설보우경 권2"
+    },
+    "text": "サンジウンニ仏説譜経巻2\\n\nソウル冠岳区南部循環路152キル53、ジャン·シンリムドン(新林洞、ジャン·ジャン)\\n\nボウギョン10冊中に権2に該当するこの本は、唐の達磨の維持(達摩流支)が翻訳したものを茶色の紙に銀色の字に移して書いたものだ。屏風のように広げて見られるチョプジャン形式であり、広げた時にの大きさは縦30.5センチ、横11.2センチだ。祗林寺(祈林寺)に所蔵されている『、サンジ銀泥デバンヤ波羅蜜経』権210(宝物)と紙質・本文の文字などが同じて、千字文の表示などからして、同じ時期の14世紀中葉に作られたものと推定される。",
+    "QA": [
+        {
+            "question": "この本は誰によって翻訳されましたか？",
+            "answer": "達磨の維持(達摩流支)が翻訳しました。"
+        },
+        {
+            "question": "この本はどのような形式で書かれていますか？",
+            "answer": "チョプジャン形式で書かれており、屏風のように広げて見られる形式です。"
+        },
+        {
+            "question": "この本の大きさはどのくらいですか？",
+            "answer": "縦30.5センチ、横11.2センチです。"
+        },
+        {
+            "question": "この本が作られた時期はいつですか？",
+            "answer": "同じ時期の14世紀中葉に作られたと推定されます。"
+        },
+        {
+            "question": "この本はどこに所蔵されていますか？",
+            "answer": "祗林寺(祈林寺)に所蔵されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 198,
+        "QA": 150
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_021383",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2022-11-30",
+        "domain": "음식점",
+        "title": "봉덕칼국수"
+    },
+    "text": "奉徳カルグクス (봉덕칼국수)\\n\n京畿道果川市宮末路6(果川洞)\\n\nボンドクは韓国の果川にある、手作りの手打ち麺を提供するホール専門店です。カルグクスを食べる前に、肉と野菜を別に追加して食べると、よりボリューム満点のジャム形式で楽しむことができます。",
+    "QA": [
+        {
+            "question": "場所はどこですか？",
+            "answer": "奉徳カルグクスは京畿道果川市宮末路6(果川洞)にあります。"
+        },
+        {
+            "question": "どのような料理を提供していますか？",
+            "answer": "奉徳カルグクスは手作りの手打ち麺を提供しています。"
+        },
+        {
+            "question": "カルグクスを食べる前に何を追加すればいいですか？",
+            "answer": "カルグクスを食べる前に、肉と野菜を別に追加すると、よりボリューム満点のジャム形式で楽しむことができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 93,
+        "QA": 114
+    }
+}

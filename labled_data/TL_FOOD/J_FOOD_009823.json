@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_009823",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "チャドルバキンチュクミ鐘路（차돌박힌쭈꾸미 종로）"
+    },
+    "text": "チャドルバキンチュクミ鐘路（차돌박힌쭈꾸미 종로）\\n\nソウル特別市 鐘路区 三一大路17キル 47-1\\n\nチャドルバキンチュクミ鐘路はソウル特別市の鐘路に位置する韓食専門店です。代表メニューはイイダコ炒めです。イイダコをチーズフォンデュで味わうことができます。",
+    "QA": [
+        {
+            "question": "チャドルバキンチュクミ鐘路はどこに位置していますか？",
+            "answer": "チャドルバキンチュクミ鐘路はソウル特別市の鐘路区に位置しています。"
+        },
+        {
+            "question": "チャドルバキンチュクミ鐘路の代表メニューは何ですか？",
+            "answer": "チャドルバキンチュクミ鐘路の代表メニューはイイダコ炒めです。"
+        },
+        {
+            "question": "イイダコ炒めをどのように味わうことができますか？",
+            "answer": "イイダコ炒めはチーズフォンデュで味わうことができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 96,
+        "QA": 121
+    }
+}

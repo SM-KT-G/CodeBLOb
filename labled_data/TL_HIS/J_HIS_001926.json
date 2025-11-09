@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_001926",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=497&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=01620000&ccbaCtcd=38&ccbaCpno=2113801620000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1979-12-29",
+        "domain": "문화/역사관광",
+        "title": "김우옹 동강문집 목판"
+    },
+    "text": "キム·ウオン 東江門集 木版 (김우옹 동강문집 목판 )\\n\n慶尚南道晋州市\\n\n慶尚南道有形文化財 , この本版は朝鮮明宗と宣祖の時の文臣である東江金祐翁(1540~1603)先生が宣祖18年(1585)に出版した歴史書だ。 キム·ウオンは南明朝食の文人で、明宗22年(1567年)に文科に及第し、弘文政子、兵曹参判、大寺城を経て大寺軒の官職を務めた。 学問に長けており、『東江集』を残した。 キム·ウオンが本を作った後、110年余りが経つ図案版が腐って虫が食べて再び印刷することが不可能になると、1924年に彼の子孫であるキム·ソンリムが慶尚道儒学者たちの意を集めて再び刊行し、これがこの続講木本版だ。 中国宋時代の大儒学者である朱子が作った綱目の規模と体制に従っているが、見解が若干異なり、鄭求と許穆はこの本を説き乱を治め死したことを防ぐことにおいて人の心を正しくする良い本だと評価している。",
+    "QA": [
+        {
+            "question": "この本版を出版した東江金祐翁について教えてください。",
+            "answer": "東江金祐翁は朝鮮明宗と宣祖の時の文臣で、宣祖18年(1585)にこの歴史書を出版しました。彼は南明朝食の文人で、学問に優れ、『東江集』を残しました。"
+        },
+        {
+            "question": "なぜこの本版は再刊されたのですか？",
+            "answer": "110年以上が経ち、図案版が腐って虫に食べられてしまったため、1924年に東江金祐翁の子孫であるキム·ソンリムが再刊することになりました。"
+        },
+        {
+            "question": "この本版は何に基づいて作られていますか？",
+            "answer": "この本版は中国宋時代の大儒学者朱子の綱目の規模と体制に基づいて作られています。ただし、見解は若干異なります。"
+        },
+        {
+            "question": "この本版はどのような評価を受けていますか？",
+            "answer": "この本版は鄭求と許穆がこの本を説き乱を治め、死を防ぐ上で人の心を正しくする良い本だと評価しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 293,
+        "QA": 242
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_029160",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "咸興冷麺 ( 함흥냉면 )"
+    },
+    "text": "咸興冷麺 ( 함흥냉면 )\nソウル特別市 ヨンドゥンポ区 ヨンドゥンポロ42ギル6\n咸興式の冷麺専門店です。ソウル特別市のヨンドゥンポ区に位置した韓食専門店です。代表的なメニューは冷麺です。",
+    "QA": [
+        {
+            "question": "咸興冷麺（함흥냉면）はどこに位置していますか？",
+            "answer": "ソウル特別市のヨンドゥンポ区に位置しています。"
+        },
+        {
+            "question": "咸興冷麺のメニューは何ですか？",
+            "answer": "代表的なメニューは冷麺です。"
+        },
+        {
+            "question": "咸興冷麺の特徴は何ですか？",
+            "answer": "咸興式の冷麺を提供している専門店です。"
+        },
+        {
+            "question": "咸興冷麺の住所は何ですか？",
+            "answer": "ソウル特別市ヨンドゥンポ区ヨンドゥンポロ42ギル6です。"
+        }
+    ],
+    "word_Count": {
+        "text": 69,
+        "QA": 108
+    }
+}

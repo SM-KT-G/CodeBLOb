@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_084200",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/view?relicId=8976",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2023-10-11",
+        "domain": "문화/역사관광",
+        "title": "쇠도끼"
+    },
+    "text": "鉄の斧 (쇠도끼)\\n\n国籍・時代：韓国 ‐ 高句麗、材質：金属 ‐ 鉄、分類：軍事 ‐ 筋力武器 ‐ 打撃機 ‐ 斧、サイズ：長さ14.4cm、幅6.4cm、厚さ2.4cm",
+    "QA": [
+        {
+            "question": "この斧は何の材料で作られていますか？",
+            "answer": "この斧は鉄で作られています。"
+        },
+        {
+            "question": "この斧の国籍と時代は何ですか？",
+            "answer": "この斧の国籍と時代は韓国の高句麗時代です。"
+        },
+        {
+            "question": "この斧のサイズはどのくらいですか？",
+            "answer": "この斧の長さは14.4cm、幅は6.4cm、厚さは2.4cmです。"
+        }
+    ],
+    "word_Count": {
+        "text": 63,
+        "QA": 86
+    }
+}

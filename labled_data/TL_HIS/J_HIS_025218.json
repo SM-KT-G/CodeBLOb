@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_025218",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1151&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=04600000&ccbaCtcd=37&ccbaCpno=3413704600000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2004-03-11",
+        "domain": "문화/역사관광",
+        "title": "영덕괴시리스므나골재사"
+    },
+    "text": "盈徳怪シリスムナ骨材社 (영덕괴시리스므나골재사)\\n\n慶尚北道盈徳郡永海面槐市写真キル121(槐市里)\\n\n慶尚北道文化財資料 , スムナゴル斎舍は槐亭ナム·ジュンヒョンの墓所を管理するために1780年代に建設したと伝えられ、槐亭公の曾孫である懐寿(ファス、号明、1781~1851)の代に重修した建物だ。 建物は一字型に二重家型の構造を取っており、平面は前列は左側から部屋、二間床、台所となっており、後列は部屋、部屋(塗装)、部屋、台所で構成されている。 自然石の主礎石の上に脚注を建て、上部世帯は納戸里に3坪主5両家で向かい合った。 天井は五味半尺で仕上げ、その上上部は露出させたが、台所と前面右側の床部分の天井は仰壁を張らずに山尺を露出させた状態である。",
+    "QA": [
+        {
+            "question": "この建物はいつ建てられましたか？",
+            "answer": "この建物は1780年代に建てられ、懐寿の代に重修されました。"
+        },
+        {
+            "question": "建物の構造はどのようになっていますか？",
+            "answer": "建物は一字型に二重家型の構造を取っており、前列は左側から部屋、二間床、台所となっており、後列は部屋、部屋(塗装)、部屋、台所で構成されています。"
+        },
+        {
+            "question": "建物の天井はどのように仕上げられていますか？",
+            "answer": "天井は五味半尺で仕上げられており、その上部は露出させましたが、台所と前面右側の床部分の天井は仰壁を張らずに山尺を露出させた状態です。"
+        }
+    ],
+    "word_Count": {
+        "text": 242,
+        "QA": 165
+    }
+}

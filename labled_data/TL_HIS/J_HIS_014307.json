@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_014307",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=460&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=01100000&ccbaCtcd=38&ccbaCpno=2113801100000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1979-05-02",
+        "domain": "문화/역사관광",
+        "title": "양산 통도사 청동시루"
+    },
+    "text": "梁山通度寺青銅蒸し器 (양산 통도사 청동시루)\\n\n慶尚南道梁山市下北面通度寺路108(芝山里)\\n\n慶尚南道有形文化財 , 甑はご飯を蒸したり餅を蒸したりするのに使った厨房器具で、これは全高73㎝、直径123㎝、重さ350斤に達する大型甑だ。 現在、甑の下に支えた足が3つ付いた円形の大型釜は、最初からこの甑と同時に使われていた一対と見られる。 青銅の甑は4ヶ所に取っ手があり、姿は良好な状態で通度寺博物館に保管されている。 朝鮮孝宗10年(1659)に作られたことを知らせる文が書かれている。 青銅でできたこの甑は通度寺の600人余りの僧侶がこの甑に餅とご飯を蒸して食べたと伝えられている。",
+    "QA": [
+        {
+            "question": "この青銅の甑は何に使われていましたか？",
+            "answer": "この青銅の甑はご飯や餅を蒸すために使われていました。"
+        },
+        {
+            "question": "この甑はいつ作られましたか？",
+            "answer": "この甑は朝鮮孝宗10年(1659)に作られました。"
+        },
+        {
+            "question": "この甑はどのくらいの大きさですか？",
+            "answer": "この甑は全高73㎝、直径123㎝、重さ350斤です。"
+        },
+        {
+            "question": "通度寺の僧侶はこの甑を使って何を蒸して食べていましたか？",
+            "answer": "通度寺の僧侶はこの甑を使って餅とご飯を蒸して食べていました。"
+        },
+        {
+            "question": "この甑は現在どこに保管されていますか？",
+            "answer": "この甑は通度寺博物館に保管されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 218,
+        "QA": 164
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_021449",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/busan-agujjim-gulbossam",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "釜山アグチムグルボサム"
+    },
+    "text": "釜山アグチムグルボサム\\n\nソウル特別市 鍾路区 敦化門路 35\\n\nこの店はソウル特別市のチョンノに位置した韓食専門店です。代表的なメニューはアンコウの蒸し物です。アグチム(アンコウの蒸し煮)は魚や野菜を一緒に煮込んだスパイシーな海鮮料理です。",
+    "QA": [
+        {
+            "question": "この店の名前は何ですか？",
+            "answer": "釜山アグチムグルボサム"
+        },
+        {
+            "question": "この店はどこに位置していますか？",
+            "answer": "ソウル特別市のチョンノに位置しています。"
+        },
+        {
+            "question": "この店の代表的なメニューは何ですか？",
+            "answer": "アンコウの蒸し物、アグチム(アンコウの蒸し煮)です。"
+        },
+        {
+            "question": "アグチムとはどのような料理ですか？",
+            "answer": "アグチムは魚や野菜を一緒に煮込んだスパイシーな海鮮料理です。"
+        }
+    ],
+    "word_Count": {
+        "text": 90,
+        "QA": 110
+    }
+}

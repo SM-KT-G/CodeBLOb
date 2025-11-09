@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_005802",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=283&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=15&ccbaAsno=01070000&ccbaCtcd=24&ccbaCpno=1352401070000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2013-11-06",
+        "domain": "자연관광",
+        "title": "광주 환벽당 일원"
+    },
+    "text": "光州環碧堂の一員 (광주 환벽당 일원)\\n\n光州広域市北区忠孝洞387-0\\n\n名勝 , 光州環碧堂は沙村キム·ユンジェ(1501~1572)が父親キム·フ(金()の亭子を重修して建設した亭子だ。 亭子の周辺には無等山元暁渓谷の渓流が流れ、渓谷の下の甑岩川はサルスベリが美しい壮観を成し、紫眉灘と呼ばれた。甑岩川周辺には松江正哲といとこのキム·ユンジェが初めて会ったところだと伝えられる曹台と龍沼、双松が位置している。面仰亭のソンスン(宋純)は、西夏堂のキム·ソンウォン(金成遠)が植影亭を建設し、3年が過ぎた明宗18年(1563)の植影亭の際に次韻し、「植影亭と環壁堂」は兄弟の亭子と言い、小鎖院と植影亭、環壁堂を指して一つの谷に3ヶ所の名勝に挙げた。環碧堂は青みが丸い輪のように亭子を囲んだ美しい景観を成し、当代の名士たちが出入りしながら自然景観を賛美しながら風流を楽しんだ詩文と歌詞作品が伝えており、士林文化の中心として歴史文化的価値が優れた亭子だ。",
+    "QA": [
+        {
+            "question": "光州環碧堂は誰が建設した亭子ですか？",
+            "answer": "光州環碧堂は沙村キム・ユンジェ(1501~1572)が建設した亭子です。"
+        },
+        {
+            "question": "光州環碧堂の周辺には何がありますか？",
+            "answer": "光州環碧堂の周辺には無等山元暁渓谷の渓流と甑岩川があります。"
+        },
+        {
+            "question": "甑岩川周辺にはどんな名所がありますか？",
+            "answer": "甑岩川周辺には曹台と龍沼、双松があります。"
+        },
+        {
+            "question": "光州環碧堂はどのような景観を成しますか？",
+            "answer": "光州環碧堂は青みが丸い輪のように亭子を囲んだ美しい景観を成します。"
+        },
+        {
+            "question": "環碧堂は何のために利用されていましたか？",
+            "answer": "環碧堂は当代の名士たちが出入りしながら自然景観を賛美しながら風流を楽しんだ詩文と歌詞作品が伝えており、士林文化の中心として歴史文化的価値が優れた亭子でした。"
+        }
+    ],
+    "word_Count": {
+        "text": 314,
+        "QA": 214
+    }
+}

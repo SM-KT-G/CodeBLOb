@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_072290",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/collectionList#######",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "벽화"
+    },
+    "text": "壁画 (벽화)\\n\n国籍/時代: 韓国-高句麗 材質: ギター 分類: 文化芸術 - 書画 - 壁画 サイズ: 現在の長さ302cm、現在の幅1298cm 文章の一部を自然に整えると以下のようになります： 作品の国籍と時代は、韓国の高句麗時代です。 この作品はギター材を用いて制作されています。 分類は文化芸術の書画に属し、具体的には壁画です。 作品の現在のサイズは、長さ302cm、幅1298cmです。",
+    "QA": [
+        {
+            "question": "この壁画はどの国のどの時代の作品ですか？",
+            "answer": "この壁画は韓国の高句麗時代の作品です。"
+        },
+        {
+            "question": "この壁画はどの材料を使用して作られましたか？",
+            "answer": "この壁画はギター材を使用して作られました。"
+        },
+        {
+            "question": "この壁画はどのような分類に属していますか？",
+            "answer": "この壁画は文化芸術の書画に属しています。"
+        },
+        {
+            "question": "この壁画の現在のサイズは何ですか？",
+            "answer": "この壁画の現在のサイズは長さ302cm、幅1298cmです。"
+        }
+    ],
+    "word_Count": {
+        "text": 148,
+        "QA": 124
+    }
+}

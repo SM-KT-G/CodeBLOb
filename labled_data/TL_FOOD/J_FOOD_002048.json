@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_002048",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-05",
+        "domain": "음식점",
+        "title": "RYUNIQUE ( 류니끄 )"
+    },
+    "text": "RYUNIQUE ( 류니끄 )\\n\nソウル特別市 江南区 カンナムデロ162ギル40\\n\nミシュランガイド2021に選定されたフュージョン料理専門店です。おすすめは定食です。ソウル特別市のガンナム区に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "このレストランの名前は何ですか？",
+            "answer": "このレストランの名前はリュニック（Ryunique）です。"
+        },
+        {
+            "question": "このレストランはどこにありますか？",
+            "answer": "このレストランはソウル特別市江南区カンナムデロ162ギル40に位置しています。"
+        },
+        {
+            "question": "ミシュランガイド2021に選定されたフュージョン料理専門店ですか？",
+            "answer": "はい、このレストランはミシュランガイド2021に選定されたフュージョン料理専門店です。"
+        },
+        {
+            "question": "おすすめの料理は何ですか？",
+            "answer": "おすすめは定食です。"
+        },
+        {
+            "question": "このレストランの特徴は何ですか？",
+            "answer": "このレストランの特徴はフュージョン料理を専門としており、ソウル特別市のガンナム区に位置していることです。"
+        }
+    ],
+    "word_Count": {
+        "text": 82,
+        "QA": 196
+    }
+}

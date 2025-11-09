@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_001297",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42080&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "강릉 까사드마르펜션(신축,스파,조식)"
+    },
+    "text": "2022年3月にオープンした感性ステイカサダマルペンションで会いましょう。 私たちはギャンから徒歩5分のところに位置しています。 さらに鏡浦湖まで徒歩1分で行くことができます。 美しい風景が目の前に広がるここで、大切な人と一緒に特別な思い出を作ってみてください。 提供される朝食とピックアップサービスも用意されています。 楽しい選択の時間になると思います。 ただし、22時以降に入室される方は予めご連絡ください。 私たちは常にお客様のために最善を尽くしていますので、いつでもご連絡ください。",
+    "QA": [
+        {
+            "question": "カサダマルペンションはどこに位置していますか？",
+            "answer": "カサダマルペンションはギャンから徒歩5分のところに位置しています。"
+        },
+        {
+            "question": "鏡浦湖までの距離はどれくらいですか？",
+            "answer": "鏡浦湖まで徒歩1分で行くことができます。"
+        },
+        {
+            "question": "どのような朝食が提供されますか？",
+            "answer": "朝食は美味しい選択肢があります。"
+        },
+        {
+            "question": "ピックアップサービスはありますか？",
+            "answer": "はい、ピックアップサービスも用意されています。"
+        },
+        {
+            "question": "22時以降に入室する場合はどうすればいいですか？",
+            "answer": "22時以降に入室される方は事前にご連絡ください。"
+        }
+    ],
+    "word_Count": {
+        "text": 179,
+        "QA": 156
+    }
+}

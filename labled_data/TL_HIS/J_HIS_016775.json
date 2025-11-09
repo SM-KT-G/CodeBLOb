@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_016775",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=652&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=04530000&ccbaCtcd=37&ccbaCpno=2113704530000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2012-10-22",
+        "domain": "문화/역사관광",
+        "title": "문경 김룡사 대웅전"
+    },
+    "text": "聞慶金龍寺大雄殿 (문경 김룡사 대웅전)\\n\n慶尚北道聞慶市キム·ヨンギル372(山北面、金龍寺)\\n\n朝鮮時代 , 慶尚北道有形文化財 , 金容師は雲達祖師が新羅真平王10年(588)に建てたと伝えているが、史跡記によると、建てた時期に関する記録がない。 朝鮮仁祖21年(1643)火災で焼失したが、仁祖27年(1649)に新しく復元され現在まで続く。 大雄殿は17世紀に建てられたと見られるが、前面3間·側面3間の規模であり、屋根は側面から見て八の字型のボルの字型である。 屋根の軒を支えるために装飾して作られたホラーは、柱の上と柱の間にもある多包様式で飾られている。 大雄殿の建築様式上、特異なのは建物の基壇の上を平らに整えず、柱を立てて高さが一定ではない。 しかし、柱とも大雄殿の中心側に少しずつ傾き、建物全体が安定感を与える技法を使用した。",
+    "QA": [
+        {
+            "question": "金龍寺大雄殿はいつ建てられましたか？",
+            "answer": "金龍寺大雄殿は17世紀に建てられたと見られますが、具体的な建設時期に関する記録はありません。"
+        },
+        {
+            "question": "金龍寺大雄殿はどのような建物ですか？",
+            "answer": "金龍寺大雄殿は前面3間・側面3間の規模であり、屋根は側面から見て八の字型のボルの字型です。屋根の軒を支えるために装飾して作られたホラーは、柱の上と柱の間にもある多包様式で飾られています。"
+        },
+        {
+            "question": "金龍寺大雄殿の特異な点はありますか？",
+            "answer": "金龍寺大雄殿の建築様式上、特異な点は建物の基壇の上を平らに整えず、柱を立てて高さが一定ではないことです。しかし、柱とも大雄殿の中心側に少しずつ傾き、建物全体が安定感を与える技法を使用しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 275,
+        "QA": 212
+    }
+}

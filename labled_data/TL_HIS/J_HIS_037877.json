@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_037877",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=944&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=25&ccbaAsno=00020000&ccbaCtcd=35&ccbaCpno=4423500020000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2021-09-10",
+        "domain": "문화/역사관광",
+        "title": "전주 풍남초등학교 강당"
+    },
+    "text": "全州豊南初等学校講堂 (전주 풍남초등학교 강당)\\n\n全羅北道全州市\\n\n1936、全羅北道市道登録文化財、全州豊南初等学校は1919年全州女子公立普通学校として開校後、1938年豊南公立小学校に変更、1996年に現在の名称に変更された。 80年以上保存された地域の初等教育施設として、地域教育史の生々しい現場を保管している。 講堂は1936年に建設され、レンガ組積造1階規模で内部柱なしに広々とした開放空間内に舞台がある。 現在、3間程度が重ねて拡張され、トイレ補修など再建築が行われ、今も講堂として活用されている。 組積壁体構造および開口部の構成、屋根構造、舞台部の意匠的処理などがよく保存されている。 近代学校建築の建築的様式をよく示しており、歴史的·建築学的価値がある。",
+    "QA": [
+        {
+            "question": "この学校はいつ建てられましたか？",
+            "answer": "豊南初等学校は1936年に建てられました。"
+        },
+        {
+            "question": "この学校の名前は何度変更されましたか？",
+            "answer": "この学校の名前は3回変更されました。最初は全州女子公立普通学校として開校し、次に豊南公立小学校に変更され、現在の名称になりました。"
+        },
+        {
+            "question": "この学校の講堂はどのような特徴がありますか？",
+            "answer": "この学校の講堂はレンガ組積造1階規模で、内部に柱がなく広々とした開放空間があります。また、舞台もあります。"
+        },
+        {
+            "question": "この学校の講堂は現在もどのように活用されていますか？",
+            "answer": "現在もこの学校の講堂は利用されており、イベントや講演などに活用されています。"
+        },
+        {
+            "question": "この学校の建築的様式はどのような特徴がありますか？",
+            "answer": "この学校の建築的様式は近代学校建築の特徴をよく示しており、組積壁体構造や開口部の構成、屋根構造、舞台部の意匠的処理などが保存されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 249,
+        "QA": 259
+    }
+}

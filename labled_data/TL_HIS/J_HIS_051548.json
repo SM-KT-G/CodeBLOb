@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_051548",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=987&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=00340000&ccbaCtcd=38&ccbaCpno=3413800340000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1983-07-20",
+        "domain": "문화/역사관광",
+        "title": "고성 수림서원"
+    },
+    "text": "古城樹林書院\\n\n慶尚南道高城郡馬岩面花山里998外5筆地\\n\n慶尚南道文化財資料、国に功を立てたムヨルコンベヒョンギョン・ベチョンジ・ベインギョン・ベメングヮン・ベサンゴン・背景を追悼するために位牌が祀られた書院である。朝鮮哲宗7年(1856)に建てられており、高宗(在位1863∼1907)の時、興宣大院君の書院撤廃令で撤廃したが、復元された。建物は前面5間・側面3間に左側に部屋2間、中に大青(テチョン)2間、右側に部屋1両で構成されている。屋根は横から見ると、八(八部)字形の入母屋屋根となっている。正門であるチョジェムンは前面5間・側面2間規模の門構えに中央1間を出入り口で使用している。講堂右側には前面3間・側面3間の大きさの八作屋根になったサンヘチョンが位置している。",
+    "QA": [
+        {
+            "question": "この書院はいつ建てられましたか？",
+            "answer": "書院は朝鮮哲宗7年(1856)に建てられました。"
+        },
+        {
+            "question": "なぜ書院は一度撤廃されたのですか？",
+            "answer": "高宗の時、興宣大院君の書院撤廃令で一度撤廃されましたが、後に復元されました。"
+        },
+        {
+            "question": "書院の建物の構成はどのようになっていますか？",
+            "answer": "建物は前面5間・側面3間に左側に部屋2間、中に大青(テチョン)2間、右側に部屋1両で構成されています。"
+        },
+        {
+            "question": "書院の屋根の形は何ですか？",
+            "answer": "書院の屋根は横から見ると、八(八部)字形の入母屋屋根となっています。"
+        },
+        {
+            "question": "書院の正門はどのような構えですか？",
+            "answer": "書院の正門であるチョジェムンは前面5間・側面2間規模の門構えに中央1間を出入り口で使用しています。"
+        },
+        {
+            "question": "書院の講堂の隣に何がありますか？",
+            "answer": "書院の講堂右側には前面3間・側面3間の大きさの八作屋根になったサンヘチョンが位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 250,
+        "QA": 251
+    }
+}

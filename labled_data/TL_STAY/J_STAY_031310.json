@@ -1,0 +1,55 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_031310",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42010&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "대부도 바다횟집펜션"
+    },
+    "text": "西海を鑑賞することができ、室内にはプールとフットサル場があります。 駐車スペースも広く設けられていて便利です。 私たちは大切な旅行時間を最善で過ごせるように最善を尽くします。 入室時間が22時以降の場合は、予めご連絡ください。 バーベキューセッティングは4人基準で2万ウォンで、炭追加時に1万ウォンが追加されます。 また、ザイグルのレンタルも可能で、室内での飲食も可能です。 1階は、全客室に個別テラスがあります。 ありがとうございます。",
+    "QA": [
+        {
+            "question": "この施設では何ができますか？",
+            "answer": "西海を鑑賞することができ、室内にはプールとフットサル場があります。"
+        },
+        {
+            "question": "駐車場はありますか？",
+            "answer": "はい、広い駐車スペースがあります。"
+        },
+        {
+            "question": "入室時間が22時以降の場合、どうすればいいですか？",
+            "answer": "予めご連絡ください。"
+        },
+        {
+            "question": "バーベキューセッティングの料金や条件はありますか？",
+            "answer": "バーベキューセッティングは4人基準で2万ウォンで、炭追加時に1万ウォンが追加されます。"
+        },
+        {
+            "question": "ザイグルのレンタルは可能ですか？",
+            "answer": "はい、ザイグルのレンタルも可能です。"
+        },
+        {
+            "question": "室内での飲食はできますか？",
+            "answer": "はい、室内での飲食も可能です。"
+        },
+        {
+            "question": "どのような客室設備がありますか？",
+            "answer": "1階は、全客室に個別テラスがあります。"
+        },
+        {
+            "question": "何か他に質問はありますか？",
+            "answer": "お気軽にご質問ください。"
+        }
+    ],
+    "word_Count": {
+        "text": 160,
+        "QA": 219
+    }
+}

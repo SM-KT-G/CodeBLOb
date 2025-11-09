@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_014206",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1083&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=01870000&ccbaCtcd=38&ccbaCpno=3413801870000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1991-12-23",
+        "domain": "문화/역사관광",
+        "title": "양산 우불산 신사"
+    },
+    "text": "梁山牛仏山神社 (양산 우불산 신사)\\n\n慶尚南道梁山市龍塘洞1134牛仏山神社\\n\n慶尚南道文化財資料 , 『三国史記』32巻に「寓話」と記録されているところで、毎年春と秋に雨乞いを行っていた場所だ。 壬辰倭乱の時、倭兵たちが牛仏山の南側に陣取ったが、その夜に神風が起きて皆殺しになり、日帝が祠堂を崩す時に瓦棚を破っていた人夫が血を吐いて死に、このことを指揮した日本憲兵も自殺したという話が伝えられている。 他の文献記録によると、新羅時代から国の太平と国民の平安を祈るための祭祀を毎年旧暦2月に行い、日照りの時に雨を祈ると特にご利益があったと伝えられている。 朝鮮仁祖1年(1623)祠堂の建物を建て、仁祖22年(1644)祠堂と斎室を建て直し、その後も数回補修を経たが、今ある建物は1918年に再び建てたものだ。",
+    "QA": [
+        {
+            "question": "梁山牛仏山神社はどこにありますか？",
+            "answer": "慶尚南道梁山市龍塘洞1134にあります。"
+        },
+        {
+            "question": "梁山牛仏山神社は何のために雨乞いを行っていましたか？",
+            "answer": "梁山牛仏山神社は国の太平と国民の平安を祈るために毎年春と秋に雨乞いを行っていました。"
+        },
+        {
+            "question": "梁山牛仏山神社の由来について教えてください。",
+            "answer": "『三国史記』32巻に記録されているところによると、梁山牛仏山神社は寓話とされており、壬辰倭乱の時に倭兵たちが陣取ったが、神風が起きて皆殺しになり、日帝が祠堂を崩す時に瓦棚を破った人夫が血を吐いて死に、日本憲兵も自殺したという話が伝えられています。"
+        },
+        {
+            "question": "梁山牛仏山神社の建物はいつ建てられましたか？",
+            "answer": "祠堂の建物は朝鮮仁祖1年(1623)に建てられ、仁祖22年(1644)には祠堂と斎室が建て直されました。その後も何度か補修が行われましたが、現在の建物は1918年に再び建てられました。"
+        }
+    ],
+    "word_Count": {
+        "text": 263,
+        "QA": 266
+    }
+}

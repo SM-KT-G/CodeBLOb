@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_012733",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-08-27",
+        "domain": "음식점",
+        "title": "ブクマクコル ( 북막골 )"
+    },
+    "text": "ブクマクコル ( 북막골 )\\n\nソウル特別市 鐘路区 三清路 124-6\\n\nニンニクでローストしたポッサムが味わえる店です。おすすめはポサムです。ソウル特別市のジョンノ区に位置した韓国料理店です。",
+    "QA": [
+        {
+            "question": "このお店はどこにありますか？",
+            "answer": "このお店はソウル特別市 鐘路区 三清路 124-6にあります。"
+        },
+        {
+            "question": "このお店では何が味わえますか？",
+            "answer": "このお店ではニンニクでローストしたポッサムが味わえます。おすすめはポサムです。"
+        },
+        {
+            "question": "このお店はどのくらいの広さですか？",
+            "answer": "このお店の広さについての情報は提供されていません。"
+        }
+    ],
+    "word_Count": {
+        "text": 73,
+        "QA": 103
+    }
+}

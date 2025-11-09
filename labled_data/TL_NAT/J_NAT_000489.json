@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_000489",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101933",
+        "collectedDate": "2023-10-06",
+        "publishedDate": "2020-01-01",
+        "domain": "자연관광",
+        "title": "강정포구"
+    },
+    "text": "。 \\n\n江亭港は次を指す言葉だ。 江亭港は済州特別自治道西帰浦市江亭洞にある地方漁港だ。 「済州海軍基地」または「民軍複合型観光美港」は江亭港付近に建設中の新港湾だ。 江亭港は全羅南道務安郡清渓面江亭里にある小規模漁港だ。\\n\n",
+    "QA": [
+        {
+            "question": "江亭港はどこにありますか？",
+            "answer": "江亭港は済州特別自治道西帰浦市江亭洞にあります。"
+        },
+        {
+            "question": "江亭港の近くに建設中の新港湾は何ですか？",
+            "answer": "江亭港の近くに建設中の新港湾は「済州海軍基地」または「民軍複合型観光美港」と呼ばれています。"
+        },
+        {
+            "question": "江亭港はどの地方にある小規模漁港ですか？",
+            "answer": "江亭港は全羅南道務安郡清渓面江亭里にあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 84,
+        "QA": 107
+    }
+}

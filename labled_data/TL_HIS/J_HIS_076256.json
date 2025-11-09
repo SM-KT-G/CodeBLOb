@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_076256",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/view?relicId=214939",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2023-10-11",
+        "domain": "문화/역사관광",
+        "title": "빗살무늬 토기"
+    },
+    "text": "櫛目文土器 (빗살무늬 토기)\\n\nこの品物は、韓国の新石器時代のもので、土で作られた柔らかい素材です。食生活や食べ物を保存運搬するために使用されました。現在の長さは、6.5cm、5.7cm、6.5cm、10.3cm、9.3cm、10.8cm、6.9cm、8.3cmです。そして、現時点での状態は、7.2cm、5.3cm、3.0cm、5.2cmです。",
+    "QA": [
+        {
+            "question": "この品物は何で作られていますか？",
+            "answer": "この品物は土で作られた柔らかい素材で作られています。"
+        },
+        {
+            "question": "この品物は何のために使用されましたか？",
+            "answer": "この品物は食生活や食べ物を保存運搬するために使用されました。"
+        },
+        {
+            "question": "この品物の現在の長さは何ですか？",
+            "answer": "この品物の現在の長さは、6.5cm、5.7cm、6.5cm、10.3cm、9.3cm、10.8cm、6.9cm、8.3cmです。"
+        },
+        {
+            "question": "この品物の現在の状態は何ですか？",
+            "answer": "この品物の現在の状態は、7.2cm、5.3cm、3.0cm、5.2cmです。"
+        }
+    ],
+    "word_Count": {
+        "text": 128,
+        "QA": 165
+    }
+}

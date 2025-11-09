@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_079977",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1147&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=04380000&ccbaCtcd=37&ccbaCpno=3413704380000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2003-04-14",
+        "domain": "문화/역사관광",
+        "title": "상주 용산정사"
+    },
+    "text": "尚州龍山精舎\\n\n慶尚北道尚州市洛東面ヤンジンダンキル17-40、217号(勝谷里)\\n\n慶尚北道文化財資料、龍山(ヨンサン)という意味はガプジャンサンの九竜(九龍)の一節が東に十数里を走ってきてかけていなった場所から由来したりして、別名ワヨンダン(臥淵堂)と呼ばれている。堂号をワヨンダンとしたのは板の間に横になって家の前の池をのんびりと見ることができるという意味で始まったと言われる。この建物は1849年(、憲宗9年)になっており、構造は正面4間、側面1間入母屋屋根バンジュンチュンの楼閣形式として柱頭と週間(住間)との間にはソローが設置されており、ミンドリ様式であり、全面的に空いた空間はトェッガンで構成されていて欄干帯が形成されている両班の家の構造で19世紀以降、繊細な建築形式がよく表れている。精舍は、調書、大学経済力のある両班たちが勉強していたところや、主に亭子と同じ目的で使用した。",
+    "QA": [
+        {
+            "question": "この精舎はいつ建てられましたか？",
+            "answer": "1849年(憲宗9年)に建てられました。"
+        },
+        {
+            "question": "この精舎の名前の由来は何ですか？",
+            "answer": "龍山という名前は、ガプジャンサンの九竜(九龍)の一節が東に十数里を走ってきてかけていなった場所から由来しています。別名ワヨンダン(臥淵堂)とも呼ばれています。"
+        },
+        {
+            "question": "この精舎の建物の構造はどのようになっていますか？",
+            "answer": "正面4間、側面1間入母屋屋根バンジュンチュンの楼閣形式で、柱頭と週間(住間)との間にはソローが設置されています。ミンドリ様式であり、19世紀以降の両班の家の構造をよく表しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 291,
+        "QA": 179
+    }
+}

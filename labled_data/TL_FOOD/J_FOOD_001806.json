@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001806",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-06",
+        "domain": "음식점",
+        "title": "KNOCKOUT ( 넉아웃 )"
+    },
+    "text": "KNOCKOUT ( 넉아웃 )\\n\n釜山広域市 釜山鎮区 トンチョンロ91-4\\n\nアメリカの小さな村の雰囲気を再現した店です。代表的なメニューはアメリカーノです。釜山広域市のブサンジン区に位置したカフェ（コーヒーショップ）です。",
+    "QA": [
+        {
+            "question": "このカフェはどんな雰囲気を再現していますか？",
+            "answer": "このカフェはアメリカの小さな村の雰囲気を再現しています。"
+        },
+        {
+            "question": "代表的なメニューは何ですか？",
+            "answer": "代表的なメニューはアメリカーノです。"
+        },
+        {
+            "question": "このカフェはどこに位置していますか？",
+            "answer": "このカフェは釜山広域市のブサンジン区に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 85,
+        "QA": 93
+    }
+}

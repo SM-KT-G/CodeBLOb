@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_024366",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-03",
+        "domain": "음식점",
+        "title": "連谷麺屋 ( 연곡면옥 )"
+    },
+    "text": "連谷麺屋 ( 연곡면옥 )\\n\n江原道 ガンヌン市 ヨンゴク面 ナムピョンギル17\\n\n冷たい刺身入り冷麺が絶品の店です。おすすめは冷麺です。江原道のガンヌン市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "連谷麺屋(연곡면옥)はどこに位置していますか？",
+            "answer": "江原道のガンヌン市に位置しています。"
+        },
+        {
+            "question": "連谷麺屋(연곡면옥)のおすすめメニューは何ですか？",
+            "answer": "おすすめは冷麺です。"
+        },
+        {
+            "question": "連谷麺屋(연곡면옥)の冷麺には何が入っていますか？",
+            "answer": "冷たい刺身が入っています。"
+        },
+        {
+            "question": "連谷麺屋(연곡면옥)はどのような店ですか？",
+            "answer": "韓食専門店です。"
+        }
+    ],
+    "word_Count": {
+        "text": 68,
+        "QA": 104
+    }
+}

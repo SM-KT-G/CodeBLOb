@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_053310",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=68&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=04690000&ccbaCtcd=37&ccbaCpno=1123704690000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1968-12-19",
+        "domain": "문화/역사관광",
+        "title": "구미 낙산리 삼층석탑"
+    },
+    "text": "統一新羅時代に仏教が伝わり、先祖の多くの石塔が残っている。この地域は寺の跡だったことを発見された軒丸瓦瓦の破片、土器のかけらで確認することができる。この石塔は損傷があるが、相対的に完全な形で残っており、2段の基壇の上に3階の塔身を掲載した典型的な形態である。基壇には下の階と上の階がそれぞれすみ柱とのうち、柱を刻んでおいた5つの柱で構成されている。ジブンドルは塔の様式に沿って下の支えとおかめ、上面段がすべて構成されている。髪飾りは全て消えて路盤が残っている。この石塔は、初期的な様式で階下気団のうち、柱が3つであることが特徴であり、石核とジブンドルの構成は時代が離れた形態を示している。このような様式は欧米ジュクジャン里五層石塔でも見られるが、石塔の建立時期は統一新羅(シルラ)前期の8世紀頃と推定される。",
+    "QA": [
+        {
+            "question": "この地域はどの時代に仏教が伝わったのですか？",
+            "answer": "統一新羅時代に仏教が伝わりました。"
+        },
+        {
+            "question": "この地域には何が残っているのですか？",
+            "answer": "軒丸瓦瓦の破片や土器のかけらなどが残っています。"
+        },
+        {
+            "question": "この石塔はどのような形態をしていますか？",
+            "answer": "この石塔は2段の基壇の上に3階の塔身を掲載した典型的な形態です。"
+        },
+        {
+            "question": "基壇はどのように構成されていますか？",
+            "answer": "基壇には下の階と上の階がそれぞれすみ柱とのうち、柱を刻んでおいた5つの柱で構成されています。"
+        },
+        {
+            "question": "この石塔の髪飾りはどうなっていますか？",
+            "answer": "髪飾りは全て消えて路盤が残っています。"
+        },
+        {
+            "question": "この石塔の建立時期は何時代ですか？",
+            "answer": "この石塔は統一新羅前期の8世紀頃と推定されます。"
+        }
+    ],
+    "word_Count": {
+        "text": 259,
+        "QA": 202
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_034312",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1188&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=06810000&ccbaCtcd=38&ccbaCpno=3413806810000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2022-03-24",
+        "domain": "문화/역사관광",
+        "title": "함양 영각사 구광루"
+    },
+    "text": "咸陽永覚寺九光楼 (함양 영각사 구광루)\\n\n慶尚南道咸陽郡徳裕月城路567(西面)\\n\n朝鮮時代 , 慶尚南道文化財資料 , 永覚寺九光楼は蔵造りであるにもかかわらず、2階建ての楼閣で建物の構造は非常に丈夫になっているが、穀物などを保管する倉庫として作られているため、建築手法では特異性はない。 ただし、寺院文化財の中で蔵棟として2階楼閣として建設された例がなく、その希少性はある。 建設当時、1階と2階の蔵で構成されていたが、朝鮮戦争以降、永覚寺のすべての殿閣が焼失し、社殿も売却され、社勢が急激に減り蔵として使われなくなり、1階はオンドル部屋と2階は講堂に変更され使用されており、最近補修されたことで伝統形式にふさわしくない中国式木材の建具を付けてその格を下げた。",
+    "QA": [
+        {
+            "question": "永覚寺九光楼はどんな特徴を持っていますか？",
+            "answer": "永覚寺九光楼は蔵造りでありながら、2階建ての楼閣で、非常に丈夫な構造を持っています。ただし、穀物などを保管する倉庫として作られているため、建築手法には特異性はありません。"
+        },
+        {
+            "question": "永覚寺九光楼はどのような用途に使われていましたか？",
+            "answer": "建設当時は穀物などを保管する2階建ての蔵として使われていましたが、朝鮮戦争以降に焼失し、現在は1階がオンドル部屋、2階が講堂として使用されています。"
+        },
+        {
+            "question": "永覚寺九光楼は他の寺院文化財と比べて何か特別な点がありますか？",
+            "answer": "永覚寺九光楼は寺院文化財の中で蔵棟として2階楼閣として建設された珍しい例であり、希少性があります。"
+        },
+        {
+            "question": "永覚寺九光楼は最近補修されたそうですが、どのような変更が行われましたか？",
+            "answer": "最近の補修では、伝統形式にふさわしくない中国式木材の建具が付けられ、その格が下げられました。"
+        }
+    ],
+    "word_Count": {
+        "text": 246,
+        "QA": 269
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_003263",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-08-27",
+        "domain": "음식점",
+        "title": "ウンソン刺身専門店 ( 은성회집 )"
+    },
+    "text": "ウンソン刺身専門店 ( 은성회집 )\\n\nソウル特別市 鐘路区 チャンギョングンロ88\\n\n気分転換に最適のたらのメウンタン(魚の辛味スープ)が味わえます。おすすめはたらの辛味スープです。ソウル特別市のジョンノ区に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "ウンソン刺身専門店はどこにありますか？",
+            "answer": "ウンソン刺身専門店はソウル特別市鐘路区のチャンギョングンロ88に位置しています。"
+        },
+        {
+            "question": "ウンソン刺身専門店のおすすめ料理は何ですか？",
+            "answer": "ウンソン刺身専門店では、気分転換に最適なたらのメウンタン(魚の辛味スープ)がおすすめです。"
+        },
+        {
+            "question": "ウンソン刺身専門店はどのような店ですか？",
+            "answer": "ウンソン刺身専門店は韓食専門店で、ソウル特別市のジョンノ区に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 87,
+        "QA": 134
+    }
+}

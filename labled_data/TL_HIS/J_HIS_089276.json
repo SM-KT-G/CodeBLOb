@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_089276",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=455&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=01040200&ccbaCtcd=38&ccbaCpno=2113801040200&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1979-05-02",
+        "domain": "문화/역사관광",
+        "title": "양산 통도사 청동사리탑"
+    },
+    "text": "梁山通度寺青銅舎利塔\\n\n慶尚南道梁山市通度寺路108(下北面、ジャン·ジャン)\\n\n慶尚南道有形文化財、青銅で作った舎利塔は現在3階の躯体部分と相輪部が残っており、基壇部分は、毀損がひどくて確実な形態を知ることができない。残っている部分を通してよく見ると、3階の胴体は木造塔を忠実に模倣し、相輪部は一般の石塔の形態に従っている。3階の屋根の君の角軒先部分には風鈴をつけており、木造建物の瓦のようにゴールを入れた青銅の舎利塔は塔身部(塔身部)が木塔を様式に従っていることに比べ、相輪部は石塔の相輪部を模倣した点で、独特の形式を示している。青銅の舎利塔は高麗時代の舎利器と仏塔の研究に貴重な資料として価値がある。",
+    "QA": [
+        {
+            "question": "この舎利塔は何で作られていますか？",
+            "answer": "この舎利塔は青銅で作られています。"
+        },
+        {
+            "question": "舎利塔はどの時代に作られましたか？",
+            "answer": "この舎利塔は高麗時代に作られました。"
+        },
+        {
+            "question": "舎利塔の場所はどこですか？",
+            "answer": "舎利塔の場所は慶尚南道梁山市通度寺路108にあります。"
+        },
+        {
+            "question": "舎利塔の残っている部分は何ですか？",
+            "answer": "舎利塔の残っている部分は3階の躯体部分と相輪部です。"
+        },
+        {
+            "question": "舎利塔の研究にはどのような価値がありますか？",
+            "answer": "青銅の舎利塔は高麗時代の舎利器と仏塔の研究に貴重な資料として価値があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 223,
+        "QA": 155
+    }
+}

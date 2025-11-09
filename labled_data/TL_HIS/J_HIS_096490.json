@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_096490",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=211&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=20290000&ccbaCtcd=11&ccbaCpno=1121120290000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2019-06-26",
+        "domain": "문화/역사관광",
+        "title": "이인문 필 강산무진도"
+    },
+    "text": "イ·インムンピルガンサンムジンド\\n\nソウル特別市龍山区西氷庫路137(龍山洞6街、ジャン·ジャン)\\n\n19世紀初め、宝物、''李寅文フィルカンサンムジンも''は18世紀後半~19世紀初め、宮廷画家として名を馳せた李寅文(李寅文、1745~1821)が描いたもので、全長8.5mに達する長い巻き絵である。李寅文は38年間車代大佐花園(差備待令畵員)を務め、1795・1796・1799年の三度も連行(燕行)を通じて蓄積した様々な経験をもとに、歴代化法(畵法)を折衷して算数・人物・花鳥など、さまざまな素材の作品を多数残した。この絵は、東アジアで流行した伝統的な話題(畵題)の''カンサンムジン(江山無盡)''をテーマに果てしなく続く大自然の風景を描写した山水画である。実際に存在した山水がなく、雄大な自然とその中で生きていく人間の世界を描写した観念的な山水を描いたもので、広い平原の構図でスタートしてそびえ立つ絶壁が見える前半部と険しい山々が重なって広大に描かれた中盤部、そして再び静かな平原につながる構成は沈師正(沈師正、1707~1769)の<チョクジャンも(蜀棧圖)>(1768年)と多くの類似性を見せてくれる。",
+    "QA": [
+        {
+            "question": "この巻物絵は何時代のものですか？",
+            "answer": "18世紀後半〜19世紀初めのものです。"
+        },
+        {
+            "question": "この巻物絵を描いた李寅文はどのような経歴を持っていますか？",
+            "answer": "李寅文は38年間車代大佐花園を務め、宮廷画家として名を馳せました。"
+        },
+        {
+            "question": "この巻物絵のテーマは何ですか？",
+            "answer": "山水画で、伝統的な話題の''カンサンムジン(江山無盡)''をテーマにしています。"
+        },
+        {
+            "question": "この巻物絵の構図はどのようになっていますか？",
+            "answer": "広い平原の構図でスタートしてそびえ立つ絶壁が見える前半部と険しい山々が重なって広大に描かれた中盤部、そして再び静かな平原につながる構成になっています。"
+        }
+    ],
+    "word_Count": {
+        "text": 374,
+        "QA": 182
+    }
+}

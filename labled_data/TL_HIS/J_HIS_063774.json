@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_063774",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1257&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=79&ccbaAsno=07460000&ccbaCtcd=36&ccbaCpno=4413607460000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2019-05-07",
+        "domain": "문화/역사관광",
+        "title": "매천 황현 매천야록"
+    },
+    "text": "朝鮮語から大韓帝国期の詩人である黄ヒョンは1864年大院君執政府から1910年の庚戌国恥まで約47年間の歴史を記録した\"メチョンヤロク\"という国家登録文化財を残した。この本は韓国近代史研究に重要な資料とみなされ、計7冊で構成されている。この本には為政者の不正と飛行、そして韓末の時代にあった日帝の侵略とこれに対する韓国民族の抵抗などが盛り込まれている。\"メチョンヤロク\"はファンヒョンイ、庚戌国恥(日韓合併)直前の1910年殉死して残した書き込みだ。その間この本は多くの写真が登場して、最初は絵本のように見えたが、日帝の圧力で全ての寫眞と一部文章が削除され、現在の姿になった。しかし、依然として国登録文化財として残っており、多くの人たちに大切な歴史的価値を伝達している。",
+    "QA": [
+        {
+            "question": "黄ヒョンは何のために'メチョンヤロク'という本を書きましたか？",
+            "answer": "黄ヒョンは大韓帝国期の歴史を記録するために'メチョンヤロク'という本を書きました。"
+        },
+        {
+            "question": "'メチョンヤロク'は何で構成されていますか？",
+            "answer": "'メチョンヤロク'は計7冊で構成されています。"
+        },
+        {
+            "question": "'メチョンヤロク'にはどのような内容が盛り込まれていますか？",
+            "answer": "'メチョンヤロク'には為政者の不正と飛行、そして韓末の時代にあった日帝の侵略とこれに対する韓国民族の抵抗などが盛り込まれています。"
+        },
+        {
+            "question": "'メチョンヤロク'はなぜ絵本のように見えるのですか？",
+            "answer": "'メチョンヤロク'は最初は絵本のように見えたが、日帝の圧力で全ての写真と一部文章が削除され、現在の姿になったためです。"
+        },
+        {
+            "question": "'メチョンヤロク'はどのような歴史的価値を伝達していますか？",
+            "answer": "'メチョンヤロク'は大切な歴史的価値を伝達しており、韓国近代史研究に重要な資料とみなされています。"
+        }
+    ],
+    "word_Count": {
+        "text": 245,
+        "QA": 275
+    }
+}

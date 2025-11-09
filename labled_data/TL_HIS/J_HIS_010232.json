@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_010232",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1234&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=79&ccbaAsno=05250000&ccbaCtcd=11&ccbaCpno=4411105250000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2012-12-24",
+        "domain": "문화/역사관광",
+        "title": "국한회어"
+    },
+    "text": "国韓会語 (국한회어)\\n\nソウル特別市冠岳区冠岳路1ソウル大学校\\n\n1895年 , 国家登録文化財 , 1895年、イ·ジュンヨン、チョン·ヒョン、イ·ギヨン、イ·ミョンソン、カン·ジンヒの5人が編纂した韓国初の国語対訳辞書で、ソウル大学奎章閣所蔵の筆写本だ。 建冊が177枚、困冊が187枚、計364枚の計25,520個の表題項となっている。本の装丁は右鉄の5針船長本だが、本の序文と本文の筆書方式は左から右に進行されており、本文も横書きになっている。また、表題項をカナダラ順に配列し、表題語をハングルで表記し、解説語を漢文で表記したが、外国との交流を通じた新文化·文明の導入にともなう新しい制度と学問に対する用語が多く載っており、19世紀末の音韻論はもちろん語彙史と国語学史研究に貴重な資料だ。",
+    "QA": [
+        {
+            "question": "この辞書は何年に編纂されましたか？",
+            "answer": "1895年に編纂されました。"
+        },
+        {
+            "question": "この辞書は誰によって編纂されましたか？",
+            "answer": "イ・ジュンヨン、チョン・ヒョン、イ・ギヨン、イ・ミョンソン、カン・ジンヒの5人によって編纂されました。"
+        },
+        {
+            "question": "この辞書はどのような特徴を持っていますか？",
+            "answer": "本の装丁は右鉄の5針船長本で、本の序文と本文の筆書方式は左から右に進行されており、本文も横書きになっています。また、表題項をカナダラ順に配列し、表題語をハングルで表記し、解説語を漢文で表記しています。"
+        },
+        {
+            "question": "この辞書はどのような役割を果たしていますか？",
+            "answer": "19世紀末の音韻論や語彙史と国語学史研究に貴重な資料となっています。"
+        }
+    ],
+    "word_Count": {
+        "text": 257,
+        "QA": 203
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_007065",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://apis.data.go.kr/1400000/service/cultureInfoService2/mntInfoOpenAPI2",
+        "collectedDate": "2023-11-22",
+        "publishedDate": "2020-12-01",
+        "domain": "자연관광",
+        "title": "당산봉"
+    },
+    "text": "堂山峰 (당산봉)\\n\n済州島 済州市 寒慶面 高山里\\n\n山の高さ : 145.7m , 堂山峰は、遮帰島の中にあるオルムで、登山路が比較的よくできており、登るのはやや難しい方だが、上がれば、遮帰島の全景が一望でき、涼しい海の光景を抱かせるところだ。",
+    "QA": [
+        {
+            "question": "堂山峰はどこにありますか？",
+            "answer": "堂山峰は済州島の済州市寒慶面高山里にあります。"
+        },
+        {
+            "question": "堂山峰の高さは何メートルですか？",
+            "answer": "堂山峰の高さは145.7メートルです。"
+        },
+        {
+            "question": "堂山峰には登山路がありますか？",
+            "answer": "はい、堂山峰には登山路が比較的よくできています。"
+        },
+        {
+            "question": "堂山峰の登山は難しいですか？",
+            "answer": "堂山峰の登山はやや難しい方ですが、登れば遮帰島の全景が一望でき、涼しい海の光景を楽しむことができます。"
+        },
+        {
+            "question": "堂山峰からは何が見えますか？",
+            "answer": "堂山峰からは遮帰島の全景を一望することができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 92,
+        "QA": 156
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_022501",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42080&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "고성 오마주펜션"
+    },
+    "text": "四季のロマンを感じることができるオマージュペンションへようこそお越しくださいました。 オマージュペンションは江原道高城のコンヒョンジン海水浴場に位置しており、全客室から東海が眺望できる休息空間です。 ペンションはJTBCバラエティ望み通りの海の撮影ペンションとして知られており、客室予約のため、22時以降に入室される場合は予めご連絡ください。",
+    "QA": [
+        {
+            "question": "オマージュペンションの場所はどこですか？",
+            "answer": "オマージュペンションは江原道高城のコンヒョンジン海水浴場に位置しています。"
+        },
+        {
+            "question": "オマージュペンションの特徴は何ですか？",
+            "answer": "オマージュペンションは四季のロマンを感じることができる宿泊施設で、全客室から東海を眺望できます。"
+        },
+        {
+            "question": "オマージュペンションはどのような撮影に利用されていますか？",
+            "answer": "オマージュペンションはJTBCバラエティ望み通りの海の撮影ペンションとして知られています。"
+        },
+        {
+            "question": "22時以降に入室する場合、事前に連絡する必要がありますか？",
+            "answer": "はい、22時以降に入室される場合は予めご連絡ください。"
+        }
+    ],
+    "word_Count": {
+        "text": 125,
+        "QA": 186
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_032753",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1015&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=00680000&ccbaCtcd=37&ccbaCpno=3413700680000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1985-08-05",
+        "domain": "문화/역사관광",
+        "title": "태자사지 귀부 및 이수"
+    },
+    "text": "太子寺跡の貴婦人及び理数 (태자사지 귀부 및 이수)\\n\n慶尚北道安東市陶山面ソジョンリキル26(テジャリ)\\n\n高麗時代、慶尚北道文化財資料、今は廃校になった太子分校左側の畑沿いに位置している碑の一部で、ここに位置していた昔の太子寺の遺物であると推測される。 碑は統一新羅後期の僧侶である浪工大寺のものと伝えられているが、現在、碑体は消え、支え石と頭石だけが残っている。 四角い床石の上に伏せている雨どいの形状は、全体の姿が磨り減っており、昔の姿を確認することができない。 台の上に置いた頭石は雲模様がいっぱい彫刻されており、前面の真ん中には悲鳴称を刻む四角い空間が設けられている。 製作された時期は彫刻手法と形態から見て高麗前期と見られる。",
+    "QA": [
+        {
+            "question": "太子寺跡の貴婦人及び理数はどこに位置しているのですか？",
+            "answer": "太子寺跡の貴婦人及び理数は慶尚北道安東市陶山面ソジョンリキル26に位置しています。"
+        },
+        {
+            "question": "太子寺跡はどの時代の遺物でしょうか？",
+            "answer": "太子寺跡は慶尚北道文化財資料で、高麗時代の遺物と推測されています。"
+        },
+        {
+            "question": "浪工大寺とはどのような僧侶ですか？",
+            "answer": "浪工大寺は統一新羅後期の僧侶です。"
+        },
+        {
+            "question": "太子寺跡の碑にはどのような彫刻がありますか？",
+            "answer": "太子寺跡の碑の頭石には雲模様が彫刻されており、前面の真ん中には悲鳴称を刻む四角い空間が設けられています。"
+        },
+        {
+            "question": "太子寺跡の碑は現在どのような状態ですか？",
+            "answer": "太子寺跡の碑は碑体は消えてしまいましたが、支え石と頭石だけが残っています。"
+        },
+        {
+            "question": "太子寺跡の碑は何時期に製作されたと言われていますか？",
+            "answer": "太子寺跡の碑は彫刻手法と形態から見て高麗前期に製作されたと言われています。"
+        }
+    ],
+    "word_Count": {
+        "text": 236,
+        "QA": 254
+    }
+}

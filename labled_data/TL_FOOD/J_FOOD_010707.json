@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_010707",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-09-01",
+        "domain": "음식점",
+        "title": "トソクジョン（토속정）"
+    },
+    "text": "トソクジョン（토속정）\\n\nソウル特別市 鐘路区 郵征局路 4-1\\n\nこの店はソウル特別市のチョンノに位置した韓国料理店です。代表的なメニューはガンギエイのサムハプです。10種類以上のおかずと一緒に楽しむ伝統の南道飲食店です。",
+    "QA": [
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "この店はソウル特別市のチョンノに位置しています。"
+        },
+        {
+            "question": "この店の代表的なメニューは何ですか？",
+            "answer": "この店の代表的なメニューはガンギエイのサムハプです。"
+        },
+        {
+            "question": "この店では何種類のおかずが楽しめますか？",
+            "answer": "この店では10種類以上のおかずが楽しめます。"
+        },
+        {
+            "question": "この店はどのような料理店ですか？",
+            "answer": "この店は伝統の南道飲食店で、ガンギエイのサムハプを楽しむことができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 83,
+        "QA": 128
+    }
+}

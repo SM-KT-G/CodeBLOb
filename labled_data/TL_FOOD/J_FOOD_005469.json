@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_005469",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-02-17",
+        "domain": "음식점",
+        "title": "ケジョン（개정）"
+    },
+    "text": "ケジョン（개정）\\n\n大邱広域市 中区 東城路36-6\\n\n大邱市内にあるこのお店は、「栄養たっぷり」＆「お料理の相性」を一番に考えた、「ケジョン」独自の秘法にこだわった伝統料理専門店です。",
+    "QA": [
+        {
+            "question": "このお店の場所はどこですか？",
+            "answer": "このお店は大邱広域市中区東城路36-6にあります。"
+        },
+        {
+            "question": "このお店の料理はどんな特徴がありますか？",
+            "answer": "このお店の料理は「栄養たっぷり」＆「お料理の相性」を一番に考えた、「ケジョン」独自の秘法にこだわった伝統料理です。"
+        },
+        {
+            "question": "ケジョンとはどんな料理ですか？",
+            "answer": "ケジョンは大邱市内にある伝統料理専門店で、栄養豊富で相性の良い料理を提供しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 69,
+        "QA": 126
+    }
+}

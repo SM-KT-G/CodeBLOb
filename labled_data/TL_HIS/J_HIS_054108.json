@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_054108",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/collectionList#######",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "글자를 새긴 수막새1"
+    },
+    "text": "字を刻んだ軒丸瓦 (글자를 새긴 수막새)\\n\n国籍/時代: 韓国-朝鮮 材質: 土 (硬質) 分類: 主生活-建築部材-屋根材-軒家 大きさ: 直径最大172cm、現在の長さ290cm、厚さ28cm、現在の直径147cm、厚さ27cm 修正例： この軒家は、韓国-朝鮮時代の建築に使用される屋根材です。材質は硬質な土でできています。大きさは最大直径が172cmで、現在の長さは290cm、厚さは28cmで、現在の直径は147cm、厚さは27cmです。",
+    "QA": [
+        {
+            "question": "この軒丸瓦はどんな国籍で、どの時代に使用されましたか？",
+            "answer": "この軒丸瓦は、韓国-朝鮮時代の建築に使用されました。"
+        },
+        {
+            "question": "軒丸瓦の材質は何ですか？",
+            "answer": "軒丸瓦の材質は硬質な土です。"
+        },
+        {
+            "question": "軒丸瓦の大きさはどれくらいですか？",
+            "answer": "軒丸瓦の直径の最大値は172cmで、現在の長さは290cm、厚さは28cmです。現在の直径は147cmで、厚さは27cmです。"
+        }
+    ],
+    "word_Count": {
+        "text": 165,
+        "QA": 116
+    }
+}

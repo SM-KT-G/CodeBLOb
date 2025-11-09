@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_002609",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1239&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=79&ccbaAsno=05630000&ccbaCtcd=31&ccbaCpno=4413105630000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2013-08-27",
+        "domain": "문화/역사관광",
+        "title": "삼성전자 64K DRAM"
+    },
+    "text": "サムスン電子 64K DRAM (삼성전자 64K DRAM)\\n\n京畿道龍仁市器興区三成2路95-(株)サムスン電子\\n\n1983年 , 国家登録文化財 , 1983年に世界で3番目で韓国で初めて開発した商用化された半導体で、爪ほどの大きさのチップの中に6万4千個のトランジスタなど15万個の素子を800万個の線で連結して8千字の文字を記憶できるVLSI(超高密度集積回路)級半導体だ。64K DRAMの開発を通じて先端技術という半導体分野で世界トップに立つのに大きく寄与し、集積回路の実用化により産業社会から情報化社会への転移を加速化させた。",
+    "QA": [
+        {
+            "question": "サムスン電子 64K DRAMはいつ開発されましたか？",
+            "answer": "1983年"
+        },
+        {
+            "question": "サムスン電子 64K DRAMはどのような特徴を持っていますか？",
+            "answer": "爪ほどの大きさのチップの中に6万4千個のトランジスタなど15万個の素子を800万個の線で連結して8千字の文字を記憶できるVLSI(超高密度集積回路)級半導体です。"
+        },
+        {
+            "question": "サムスン電子 64K DRAMの開発はどのような影響を与えましたか？",
+            "answer": "64K DRAMの開発を通じて先端技術という半導体分野で世界トップに立つのに大きく寄与し、集積回路の実用化により産業社会から情報化社会への転移を加速化させました。"
+        }
+    ],
+    "word_Count": {
+        "text": 200,
+        "QA": 190
+    }
+}

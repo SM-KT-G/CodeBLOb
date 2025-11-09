@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_012844",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101933",
+        "collectedDate": "2023-10-06",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "대전시립미술관"
+    },
+    "text": "大田市立美術館 \\n\n大田市立美術館は大田広域市に居住する市民の美術文化意識向上と健全な美術活動普及のために大田広域市庁傘下に設置された事業所である。市立は、地方書記官、または地方一般任期制公務員として補われる。\\n\n",
+    "QA": [
+        {
+            "question": "大田市立美術館はどこにありますか？",
+            "answer": "大田市立美術館は大田広域市にあります。"
+        },
+        {
+            "question": "大田市立美術館の設置目的は何ですか？",
+            "answer": "大田市立美術館の設置目的は、市民の美術文化意識向上と健全な美術活動普及です。"
+        },
+        {
+            "question": "大田市立美術館にはどのような職員がいますか？",
+            "answer": "大田市立美術館には地方書記官や地方一般任期制公務員が補われています。"
+        }
+    ],
+    "word_Count": {
+        "text": 79,
+        "QA": 108
+    }
+}

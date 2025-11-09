@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_025194",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42030&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "영덕 하늘아래첫동네펜션"
+    },
+    "text": "盈徳で一番高い敷地に初めて建てられたここは、訪問者が話す通り、空のすぐ下にあるように感じられる。 それでここの名前は空の下の最初の町と名付けた。 広い空と青い盈徳の海の水平線が夕焼けと調和して暖かい色になるのを見守りながら、あの雲に私たちの心配と心配は流れてしまう。 私たちの伴侶犬たちもあの雲のように空に浮かんでいる気分がアップするようにだ。",
+    "QA": [
+        {
+            "question": "この町の名前は何ですか？",
+            "answer": "この町の名前は「空の下の最初の町」と言います。"
+        },
+        {
+            "question": "この町はどのような特徴がありますか？",
+            "answer": "この町は、盈徳で一番高い敷地に建てられており、空のすぐ下にあるような感じがします。広い空と青い盈徳の海の水平線が夕焼けと調和して暖かい色になるのが特徴です。"
+        },
+        {
+            "question": "この町ではどんな活動ができますか？",
+            "answer": "この町では、海を眺めながら散歩したり、夕焼けを楽しみながらリラックスしたりすることができます。また、伴侶犬と一緒に過ごすこともできます。"
+        }
+    ],
+    "word_Count": {
+        "text": 126,
+        "QA": 158
+    }
+}

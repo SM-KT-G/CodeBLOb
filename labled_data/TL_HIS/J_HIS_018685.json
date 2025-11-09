@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_018685",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1053&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=01300000&ccbaCtcd=34&ccbaCpno=3413401300000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1984-05-17",
+        "domain": "문화/역사관광",
+        "title": "봉남리삼층석탑"
+    },
+    "text": "鳳南里(ポンナムニ)三階石塔 (봉남리삼층석탑)\\n\n忠清南道舒川郡馬西面鳳南里山57-2\\n\n高麗時代 , 忠清南道文化財資料 , 鳳南里に位置する3層石塔だ。 基壇と塔身の石には柱の形を刻み、特に1階の石には門の形と門の取っ手を彫刻してある。 高麗時代に作った塔と推察され、伝わる言葉には塔の裏側に寺院があったというが、今は寺跡だけが残っている。 塔の中で発見された貴金属は日帝時代に日本軍が盗んで残っていない。",
+    "QA": [
+        {
+            "question": "この石塔は何階建てですか？",
+            "answer": "この石塔は3階建てです。"
+        },
+        {
+            "question": "この石塔はいつ作られましたか？",
+            "answer": "この石塔は高麗時代に作られたと推測されています。"
+        },
+        {
+            "question": "この石塔の周りには何がありますか？",
+            "answer": "この石塔の周りには寺跡が残っています。"
+        },
+        {
+            "question": "この石塔の中から何が発見されましたか？",
+            "answer": "この石塔の中からは貴金属が発見されました。"
+        },
+        {
+            "question": "この石塔はどのように彫刻されていますか？",
+            "answer": "この石塔の基壇と塔身の石には柱の形が彫刻されており、特に1階の石には門の形と門の取っ手が彫刻されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 152,
+        "QA": 156
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_025183",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/wonjo-jangsu-tongdak",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "元祖長寿鶏"
+    },
+    "text": "元祖長寿鶏\\n\n全羅南道 海南邑 高山路 295 )\\n\n創業25年の伝統ある土俗鶏肉料理の専門店です。メニューは土俗鶏と鴨ロースの2つで、海南大興寺への道にあります。",
+    "QA": [
+        {
+            "question": "このレストランはどこにありますか？",
+            "answer": "元祖長寿鶏肉料理の専門店は全羅南道海南邑高山路295番地にあります。"
+        },
+        {
+            "question": "このレストランの特徴は何ですか？",
+            "answer": "このレストランは創業25年の伝統ある土俗鶏肉料理の専門店です。"
+        },
+        {
+            "question": "このレストランのメニューは何ですか？",
+            "answer": "このレストランのメニューは土俗鶏と鴨ロースの2つです。"
+        },
+        {
+            "question": "このレストランは海南大興寺の近くですか？",
+            "answer": "はい、このレストランは海南大興寺への道にあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 61,
+        "QA": 137
+    }
+}

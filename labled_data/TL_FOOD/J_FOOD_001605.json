@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001605",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "CoCoMAMA（코코마마）"
+    },
+    "text": "CoCoMAMA（코코마마）\\n\n済州特別自治道 済州市 牛島面 牛島海岸キル 816\\n\n済州特別自治道のジェジュ市に位置した海鮮専門店です。おすすめは海鮮焼きの盛り合わせです。ロブスター料理がお楽しみいただけます。",
+    "QA": [
+        {
+            "question": "このお店の住所はどこですか？",
+            "answer": "このお店は済州特別自治道 済州市 牛島面 牛島海岸キル 816に位置しています。"
+        },
+        {
+            "question": "このお店の名前は何ですか？",
+            "answer": "このお店の名前はCoCoMAMA（코코마마）です。"
+        },
+        {
+            "question": "このお店のおすすめ料理は何ですか？",
+            "answer": "おすすめは海鮮焼きの盛り合わせです。ロブスター料理もお楽しみいただけます。"
+        },
+        {
+            "question": "このお店で食べられるものはありますか？",
+            "answer": "このお店では海鮮料理を提供しています。特に海鮮焼きの盛り合わせやロブスター料理が人気です。"
+        }
+    ],
+    "word_Count": {
+        "text": 79,
+        "QA": 154
+    }
+}

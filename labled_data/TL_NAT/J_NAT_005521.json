@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_005521",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1197&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=79&ccbaAsno=00700000&ccbaCtcd=36&ccbaCpno=4413600700000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2004-02-06",
+        "domain": "자연관광",
+        "title": "고흥 구 소록도갱생원 식량창고"
+    },
+    "text": "高興旧小鹿島更生院食糧倉庫 (고흥 구 소록도갱생원 식량창고)\\n\n全羅南道高興郡弟里ソンチャンギル57(道陽邑)\\n\n1940 , 国家登録文化財 , 1940年建設、この建物は患者に普及する食糧を保管していた倉庫だ。 海水の中に基礎を築き、その上に床を敷いて潮干満の差による空気循環を誘導し、内部に積まれている食糧が保存されるように設計された。 海に面した部分は海水の影響から水中基礎を保護するためにレンガを積み、外部にコンクリートで仕上げて柱状の礎石を作り、その上にアーチを作った後、レンガで壁を積み上げた。 1940年代に建てられた倉庫建築物としては国内では珍しい形だ。",
+    "QA": [
+        {
+            "question": "この建物は何のために使用されていましたか？",
+            "answer": "この建物は患者に普及する食糧を保管していた倉庫でした。"
+        },
+        {
+            "question": "この建物はいつ建設されましたか？",
+            "answer": "この建物は1940年に建設されました。"
+        },
+        {
+            "question": "この建物はどのように設計されていますか？",
+            "answer": "この建物は海水の中に基礎を築き、その上に床を敷いて潮干満の差による空気循環を誘導するように設計されています。"
+        },
+        {
+            "question": "この建物はどのように保存された食糧を保護していますか？",
+            "answer": "海に面した部分は海水の影響から水中基礎を保護するためにレンガを積み、外部にコンクリートで仕上げて柱状の礎石を作り、その上にアーチを作った後、レンガで壁を積み上げました。"
+        },
+        {
+            "question": "この建物はどのような形状になっていますか？",
+            "answer": "この建物は1940年代に建てられた倉庫建築物としては国内では珍しい形状をしています。"
+        }
+    ],
+    "word_Count": {
+        "text": 212,
+        "QA": 242
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_029265",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=296&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=16&ccbaAsno=02250000&ccbaCtcd=37&ccbaCpno=1363702250000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1970-06-03",
+        "domain": "자연관광",
+        "title": "구미 농소리 은행나무"
+    },
+    "text": "イチョウの木は古い木で韓国、日本、中国などに分布しています。韓国には中国から儒教と仏教が伝わる時一緒に入ってきたものと伝えられています。この木は秋の紅葉が美しく、あづま樹や街路樹として植樹に適しており、病虫害もありません。欧米ノンソリの銀杏の木は400年以上の木で高さは21.6m、周囲は11.85mです。この木は森と一緒に芽が多く、木の幹の高さと似たような大きさになります。木の由来は定かではないが、、谷間にある石垣から見てみると、一時、寺や市場があったものと推測されます。村人たちは、この木が村を保護してくれるものと考え、毎年10月10日に祭祀を務めています。このイチョウの木は文化的な研究資料に活用されるだけでなく、生物学的保存価値も高く、天然記念物に指定されて保護されています。",
+    "QA": [
+        {
+            "question": "いちょうの木はどの国に分布していますか？",
+            "answer": "韓国、日本、中国などに分布しています。"
+        },
+        {
+            "question": "いちょうの木はなぜ秋に美しい紅葉を見せるのですか？",
+            "answer": "秋の紅葉が美しいのは、その木の特徴であり、季節の変化によるものです。"
+        },
+        {
+            "question": "いちょうの木にはどのような文化的な伝承がありますか？",
+            "answer": "村人たちは、この木が村を保護してくれるものと考え、毎年10月10日に祭祀を務めています。"
+        },
+        {
+            "question": "いちょうの木はどのように活用されていますか？",
+            "answer": "このいちょうの木は文化的な研究資料に活用されるだけでなく、生物学的保存価値も高く、天然記念物に指定されて保護されています。"
+        },
+        {
+            "question": "いちょうの木はどのくらいの大きさになることがありますか？",
+            "answer": "欧米ノンソリの銀杏の木は400年以上の木で高さは21.6m、周囲は11.85mになります。"
+        }
+    ],
+    "word_Count": {
+        "text": 251,
+        "QA": 237
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_001949",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1250&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=79&ccbaAsno=06900000&ccbaCtcd=11&ccbaCpno=4411106900000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2017-08-08",
+        "domain": "문화/역사관광",
+        "title": "김 골롬바와 아녜스 자매"
+    },
+    "text": "キム·ゴロンバとアニエス姉妹 (김 골롬바와 아녜스 자매)\\n\nソウル特別市龍山区孝昌院路70ギル35(孝昌洞)キム·セジュン記念事業会\\n\n1954年 , 国家登録文化財 , 韓国の現代彫刻家第1世代に属し、韓国カトリック彫刻の先駆者であるキム·セジュン(1928~1986)の代表作で、1839年の己亥迫害当時殉教したキム·ヒョイムとキム·ヒョジュ姉妹を彫刻した作品だ。 1950年代まで韓国では石膏が彫刻の主材料だったが、ほとんど破損したり原型を維持することは珍しい。 しかし、本石膏像は保存状態が良好で、「第1回性美術展」(1954年)に出品された作品で、1950年代の韓国美術史の様相を見せており、史料的、美術史的価値が大きい。 * キム·ゴロンバとアニエス姉妹:キム·ヒョイム(コロンバ、1814~1839)とキム·ヒョジュ(アニエス、1815~1839)姉妹は第2次カトリック迫害である己亥迫害の時期である1839年9月26日に斬首され、1925年7月5日に侍服され、1984年5月6日に侍聖(教会が敬する聖人と宣言)される",
+    "QA": [
+        {
+            "question": "この彫刻作品は何年に作られましたか？",
+            "answer": "この彫刻作品は1954年に作られました。"
+        },
+        {
+            "question": "キム·セジュンはどのような彫刻家ですか？",
+            "answer": "キム·セジュンは韓国の現代彫刻家であり、韓国カトリック彫刻の先駆者です。"
+        },
+        {
+            "question": "キム·ゴロンバとアニエス姉妹は何年に殉教しましたか？",
+            "answer": "キム·ゴロンバとアニエス姉妹は1839年に殉教しました。"
+        },
+        {
+            "question": "この彫刻作品はどのような材料で作られていますか？",
+            "answer": "この彫刻作品は石膏で作られています。"
+        },
+        {
+            "question": "なぜこの彫刻作品は保存状態が良好であると言われていますか？",
+            "answer": "この彫刻作品は保存状態が良好である理由は、ほとんど破損せずに原型を維持している珍しい作品だからです。"
+        }
+    ],
+    "word_Count": {
+        "text": 344,
+        "QA": 197
+    }
+}

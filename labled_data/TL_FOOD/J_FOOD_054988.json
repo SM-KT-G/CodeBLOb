@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_054988",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2022-11-04",
+        "domain": "음식점",
+        "title": "MELD_1"
+    },
+    "text": "MELDはソウル市城東区聖水洞にある専門ワインバーだ。ソウル地下鉄2号線トゥクソム駅2番出口に近くて訪問時には、自家用車よりもバスや地下鉄など大衆交通を利用したほうがよい。ワインバーらしく、売場はシンプルできれいで、店の前のテラスには大きな植木鉢で飾っておいた。近くに聖水洞(ソンドング・ソンスドン)のカフェ通り、聖水洞靴テーマ公園、ソウルの森、トゥクソム遊園地などがあり連携観光も可能だ。",
+    "QA": [
+        {
+            "question": "MELDはどこにありますか？",
+            "answer": "MELDはソウル市城東区聖水洞にあります。"
+        },
+        {
+            "question": "MELDへのアクセス方法はありますか？",
+            "answer": "MELDへのアクセス方法としては、ソウル地下鉄2号線トゥクソム駅2番出口から徒歩で行くことができます。"
+        },
+        {
+            "question": "MELDの周辺には何がありますか？",
+            "answer": "MELDの周辺には聖水洞のカフェ通り、聖水洞靴テーマ公園、ソウルの森、トゥクソム遊園地などがあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 143,
+        "QA": 126
+    }
+}

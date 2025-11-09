@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_033408",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1040&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=01080000&ccbaCtcd=34&ccbaCpno=3413401080000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1984-05-17",
+        "domain": "자연관광",
+        "title": "백화정"
+    },
+    "text": "1929年に忠清南道文化財資料である百済滅亡当時、絶壁で死んだ女官の魂を追悼するために建てられた東屋である'百花亭'は、中国、蘇東坡の詩人の詩から取った名前だ。この東屋は扶蘇山城北側白馬江の険しい岩の上に位置しており、建物の構造は六角形平面と六角形の屋根になっている。床の周辺には簡単な欄干が設置されていて、天井には多様な蓮華(れんげ)文が描かれている。",
+    "QA": [
+        {
+            "question": "百花亭はどこに位置していますか？",
+            "answer": "百花亭は扶蘇山城北側白馬江の険しい岩の上に位置しています。"
+        },
+        {
+            "question": "百花亭の建物の構造はどのようになっていますか？",
+            "answer": "百花亭の建物の構造は六角形平面と六角形の屋根になっています。"
+        },
+        {
+            "question": "百花亭の床の周辺には何が設置されていますか？",
+            "answer": "百花亭の床の周辺には簡単な欄干が設置されています。"
+        },
+        {
+            "question": "百花亭の天井には何が描かれていますか？",
+            "answer": "百花亭の天井には多様な蓮華文が描かれています。"
+        },
+        {
+            "question": "百花亭は何のために建てられましたか？",
+            "answer": "百花亭は忠清南道文化財資料である百済滅亡当時、絶壁で死んだ女官の魂を追悼するために建てられました。"
+        }
+    ],
+    "word_Count": {
+        "text": 129,
+        "QA": 186
+    }
+}

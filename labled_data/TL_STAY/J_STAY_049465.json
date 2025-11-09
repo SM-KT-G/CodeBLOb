@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_049465",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2020-12-15",
+        "domain": "숙박",
+        "title": "PINE RIDGE RESORT Villa（파인리즈리조트 빌라）"
+    },
+    "text": "PINE RIDGE RESORT Villa（파인리즈리조트 빌라）\n江原道 高城郡 土城面 ジャンボリー東路267\nPINE RIDGE RESORT（パインリッジリゾート）は、リゾートがゴルフコース内にある168室の独立型高級ゴルフビレッジです。整った施設と心の込もったサービス、ヴィラタイプの独立した空間で安らぎのひとときを過ごすことができます。 客室からの眺望はよく、自然を満喫できる他、天然温泉とテラピーでリラックスすることができます。",
+    "QA": [
+        {
+            "question": "パインリッジリゾートはどこにありますか？",
+            "answer": "パインリッジリゾートは江原道高城郡土城面ジャンボリー東路267にあります。"
+        },
+        {
+            "question": "パインリッジリゾートの客室は何室ありますか？",
+            "answer": "パインリッジリゾートには168室の客室があります。"
+        },
+        {
+            "question": "パインリッジリゾートの客室からは何が見えますか？",
+            "answer": "パインリッジリゾートの客室からは自然を満喫することができ、素晴らしい眺望が広がります。"
+        },
+        {
+            "question": "パインリッジリゾートでは何が楽しめますか？",
+            "answer": "パインリッジリゾートではゴルフコースでのプレーが楽しめます。また、天然温泉やテラピーでリラックスすることもできます。"
+        }
+    ],
+    "word_Count": {
+        "text": 164,
+        "QA": 183
+    }
+}

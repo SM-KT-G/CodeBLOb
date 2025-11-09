@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_002105",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-07-15",
+        "domain": "숙박",
+        "title": "STAZ HOTEL JEJU ROBERO（旧HOTEL ROBERO）（스타즈 호텔 제주 로베로（구 로베로호텔））"
+    },
+    "text": "STAZ HOTEL JEJU ROBERO（旧HOTEL ROBERO）（스타즈 호텔 제주 로베로（구 로베로호텔））\\n\n済州特別自治道 済州市 観徳路26\\n\n済州の自然と生活が経験できる「STAZ HOTEL JEJU ROBERO（スタズホテルチェジュロベロ）」は、我が家のような快適なサービスを提供し、大切な思い出として残るよう全てのお客様をVIPとし、丁寧に対応しています。",
+    "QA": [
+        {
+            "question": "スタズホテルチェジュロベロはどこに位置していますか？",
+            "answer": "スタズホテルチェジュロベロは済州特別自治道済州市観徳路26に位置しています。"
+        },
+        {
+            "question": "スタズホテルチェジュロベロはどのようなサービスを提供していますか？",
+            "answer": "スタズホテルチェジュロベロは、快適なサービスを提供し、大切な思い出として残るよう全てのお客様をVIPとし、丁寧に対応しています。"
+        },
+        {
+            "question": "スタズホテルチェジュロベロはどのような体験ができますか？",
+            "answer": "スタズホテルチェジュロベロでは、済州の自然と生活が経験できます。"
+        }
+    ],
+    "word_Count": {
+        "text": 143,
+        "QA": 162
+    }
+}

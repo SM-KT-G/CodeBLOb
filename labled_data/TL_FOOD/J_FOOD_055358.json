@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_055358",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/chakraa-hannam-branch",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "チャクラ（漢南店）"
+    },
+    "text": "チャクラ（漢南店）\\n\nソウル特別市 龍山区 読書堂路 83 （漢南洞） )\\n\nチャクラは、インドの伝統料理専門店です。現地のインド人が食べる料理がそのまま味わえる場所で、薬効がある香料やハーブを使用した味付けなので、どんな人でも楽しめます。 漢南店は、近くにインド大使館をはじめとした大使館があるUNビレッジにあり、座席は60席です。",
+    "QA": [
+        {
+            "question": "チャクラはどんな料理を提供していますか？",
+            "answer": "チャクラは、インドの伝統料理を提供しています。現地のインド人が食べる料理がそのまま味わえます。"
+        },
+        {
+            "question": "チャクラの特徴的な味付けにはどんな香料やハーブが使われていますか？",
+            "answer": "チャクラでは薬効がある香料やハーブを使用した味付けをしています。"
+        },
+        {
+            "question": "漢南店の座席数は何席ありますか？",
+            "answer": "漢南店の座席数は60席です。"
+        }
+    ],
+    "word_Count": {
+        "text": 123,
+        "QA": 118
+    }
+}

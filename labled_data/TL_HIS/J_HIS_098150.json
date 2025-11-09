@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_098150",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=628&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=03980000&ccbaCtcd=33&ccbaCpno=2113303980000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2020-03-06",
+        "domain": "문화/역사관광",
+        "title": "자치통감 권65∼68, 172∼175, 212, 213∼214, 261∼262, 283"
+    },
+    "text": "朝鮮時代(1436年)に忠清北道に位置した有形文化財として知られた歴史本がある。この本は中国宋時代の1084年に死に神光が作成したもので、中国の周(BC 403)から959年までの中国の歴史を294巻で整理したのだ。この本は、朝鮮王朝の世宗の命令で1436年に輪廻、グォンジェなどが矯正して主席を付け加えた後、甲寅字で刊行された。この本は金属活字本と制作されたため、朝鮮前期の印刷文化と出版の過程を理解するには貴重な資料である。",
+    "QA": [
+        {
+            "question": "この歴史本は何年に作成されましたか？",
+            "answer": "1084年に死に神光が作成しました。"
+        },
+        {
+            "question": "この歴史本は何巻で整理されましたか？",
+            "answer": "294巻で整理されました。"
+        },
+        {
+            "question": "この歴史本はどの国の歴史を記録していますか？",
+            "answer": "中国の歴史を記録しています。"
+        },
+        {
+            "question": "この歴史本は何年に矯正されましたか？",
+            "answer": "1436年に矯正されました。"
+        },
+        {
+            "question": "この歴史本はどの王の命令で刊行されましたか？",
+            "answer": "世宗の命令で刊行されました。"
+        },
+        {
+            "question": "この歴史本が金属活字本として制作された理由は何ですか？",
+            "answer": "金属活字本として制作されたため、朝鮮前期の印刷文化と出版の過程を理解するには貴重な資料です。"
+        }
+    ],
+    "word_Count": {
+        "text": 156,
+        "QA": 178
+    }
+}

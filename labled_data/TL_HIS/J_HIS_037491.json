@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_037491",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=250&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=13&ccbaAsno=02870000&ccbaCtcd=23&ccbaCpno=1332302870000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1981-09-25",
+        "domain": "문화/역사관광",
+        "title": "인천 답동성당"
+    },
+    "text": "仁川沓洞聖堂 (인천 답동성당)\\n\n仁川中区右舷路50番キル2(踏洞)\\n\n1937年、史跡、神父ホン·ヨセフが建てたレンガ造りの聖堂で、1897年に初めて建設された。 1937年に2回にわたる内部工事があったが、比較的昔の姿のまま保存されている。 聖堂の平面は十字形であり、赤レンガを主材料として使用したが、重要なところには花崗石材を意匠的に使用した。 正面の中央と両側に出入口があり、中央の出入口の上にバラの花模様の窓を設置した。 建物の中央に大きな塔を置き、傾斜した屋根を翼で付けた後、先端に装飾的な小さな塔を置いているが、これは20世紀初めに建てられた韓国の教会建物の普遍的な形式だ。",
+    "QA": [
+        {
+            "question": "仁川沓洞聖堂はいつ建てられましたか？",
+            "answer": "1937年に建てられました。"
+        },
+        {
+            "question": "仁川沓洞聖堂はどのような建物ですか？",
+            "answer": "仁川沓洞聖堂はレンガ造りの聖堂で、赤レンガを主材料として使用しています。"
+        },
+        {
+            "question": "仁川沓洞聖堂の特徴的なデザインはありますか？",
+            "answer": "建物の中央に大きな塔を置き、傾斜した屋根を翼で付けた後、先端に装飾的な小さな塔を置いています。"
+        },
+        {
+            "question": "仁川沓洞聖堂の内部はどのようになっていますか？",
+            "answer": "内部は比較的昔の姿のまま保存されており、1937年に2回にわたる内部工事が行われました。"
+        },
+        {
+            "question": "仁川沓洞聖堂の入口にはどのような窓がありますか？",
+            "answer": "正面の中央の出入口の上にバラの花模様の窓が設置されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 217,
+        "QA": 202
+    }
+}

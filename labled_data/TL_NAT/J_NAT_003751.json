@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_003751",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=314&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=16&ccbaAsno=04490000&ccbaCtcd=ZZ&ccbaCpno=1369904490000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2005-03-17",
+        "domain": "자연관광",
+        "title": "호사도요"
+    },
+    "text": "ホサドヨ (호사도요 )\\n\nチョニョンギニョンムル , 虎沙島は非常に珍しい渡り鳥で、ソウル付近と忠清南道大湖、慶尚南道洛東江で確認された記録がある。 2000年瑞山浅水湾でホサドヨが繁殖していることが初めて確認されて以来、繁殖し続けている実情だ。 主に中国、台湾、フィリピン、インドネシア、インド、アフリカ、日本全域に分布している。 体長は約24cm程度で、長いくちばしは下にやや曲がっており、赤い茶色を帯び、先端が黒だ。 オスは目の周りが黄色で、頭の上と上の首が茶色で、背中は灰褐色に細い横線がある。 メスは翼、腰、尻尾はオスと似ているが、オスより色がやや濃く体がもう少し大きい。 頭のてっぺんは暗褐色で、中央にはクリーム色の帯がある。 虎沙島は川、河口、貯水池など内陸湿地、田んぼ、水辺の森などで生息し、沼沢地や田んぼの草むらに稲株を集めて皿の形をした巣を作る。",
+    "QA": [
+        {
+            "question": "ホサドヨはどこで確認されましたか？",
+            "answer": "ホサドヨはソウル付近と忠清南道大湖、慶尚南道洛東江で確認された記録があります。"
+        },
+        {
+            "question": "ホサドヨはどの地域に分布していますか？",
+            "answer": "ホサドヨは主に中国、台湾、フィリピン、インドネシア、インド、アフリカ、日本全域に分布しています。"
+        },
+        {
+            "question": "ホサドヨの体長はどれくらいですか？",
+            "answer": "ホサドヨの体長は約24cm程度です。"
+        },
+        {
+            "question": "ホサドヨのオスとメスの違いは何ですか？",
+            "answer": "ホサドヨのオスは目の周りが黄色で、頭の上と上の首が茶色で、背中に細い横線があります。メスはオスより色がやや濃く体がもう少し大きいです。"
+        },
+        {
+            "question": "ホサドヨはどのような巣を作りますか？",
+            "answer": "ホサドヨは沼沢地や田んぼの草むらに稲株を集めて皿の形をした巣を作ります。"
+        }
+    ],
+    "word_Count": {
+        "text": 282,
+        "QA": 218
+    }
+}

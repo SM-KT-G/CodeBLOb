@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_036883",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=956&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=00060000&ccbaCtcd=45&ccbaCpno=3414500060000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2012-12-31",
+        "domain": "문화/역사관광",
+        "title": "장군 덕천군사우"
+    },
+    "text": "将軍德泉君祠宇 (장군 덕천군사우)\\n\n世宗特別自治市泰山キル93-6\\n\n世宗特別自治市文化財資料、朝鮮正宗(在位1398~1400)の10番目の息子である徳川君を祀るために建てられた祠堂である。徳川郡は貧しい民を丹念に助け、王子の身分にも野原に出て農作業をした。 また、夏に洪水で数百人の被災者が発生すると救済し、徳を積んだ大人だからといって赤徳公とも呼ばれた。初めて燕岐郡南面防築里にあった建物が古くなって、朝鮮英祖15年(1739)に現在の場所に移した。",
+    "QA": [
+        {
+            "question": "この祠堂はどこに建てられましたか？",
+            "answer": "世宗特別自治市泰山キル93-6に建てられました。"
+        },
+        {
+            "question": "徳泉君祠宇は誰を祀っていますか？",
+            "answer": "徳泉君祠宇は朝鮮正宗の10番目の息子である徳泉君を祀っています。"
+        },
+        {
+            "question": "徳泉君はどのような人物でしたか？",
+            "answer": "徳泉君は貧しい民を助け、農作業をしていた王子でした。また、洪水の被災者を救済したため、赤徳公とも呼ばれました。"
+        },
+        {
+            "question": "この祠堂はいつ建てられましたか？",
+            "answer": "初めて建てられたのは燕岐郡南面防築里にありましたが、朝鮮英祖15年（1739年）に現在の場所に移されました。"
+        }
+    ],
+    "word_Count": {
+        "text": 170,
+        "QA": 168
+    }
+}

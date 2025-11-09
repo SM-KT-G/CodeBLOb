@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_005280",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://apis.data.go.kr/1400000/service/cultureInfoService2/mntInfoOpenAPI2",
+        "collectedDate": "2023-11-22",
+        "publishedDate": "2020-12-01",
+        "domain": "자연관광",
+        "title": "계족산"
+    },
+    "text": "鶏足山 (계족산)\\n\n江原特別自治道 寧越郡寧越邑延下里\\n\n山の高さ : 889.6m , 寧越邑から東に屏風を立てたように水石のようにそびえ立つ山で、山裾には高句麗の山城である正陽山城と正宗大王胎室碑遺跡がある。 王剣城に登る道には南漢江上流が涼しく見渡せる。",
+    "QA": [
+        {
+            "question": "鶏足山の高さは何メートルですか？",
+            "answer": "鶏足山の高さは889.6メートルです。"
+        },
+        {
+            "question": "鶏足山の近くに何がありますか？",
+            "answer": "鶏足山の近くには高句麗の山城である正陽山城と正宗大王胎室碑遺跡があります。"
+        },
+        {
+            "question": "鶏足山へ登る道からは何が見えますか？",
+            "answer": "鶏足山へ登る道からは南漢江上流が涼しく見渡せます。"
+        }
+    ],
+    "word_Count": {
+        "text": 97,
+        "QA": 95
+    }
+}

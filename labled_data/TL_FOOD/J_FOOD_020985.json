@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_020985",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-06",
+        "domain": "음식점",
+        "title": "美雪刺身専門店 ( 미설횟집 )"
+    },
+    "text": "美雪刺身専門店 ( 미설횟집 )\n釜山広域市 釜山鎮区 プジョンロ65ボンギル4\n新鮮でおいしい刺身が味わえます。代表的なメニューは刺身の盛り合わせです。釜山広域市のブサンジン区に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "このお店の名前は何ですか？",
+            "answer": "美雪刺身専門店（미설횟집）です。"
+        },
+        {
+            "question": "このお店の場所はどこですか？",
+            "answer": "釜山広域市の釜山鎮区に位置しています。"
+        },
+        {
+            "question": "このお店の特徴的なメニューは何ですか？",
+            "answer": "代表的なメニューは刺身の盛り合わせです。"
+        },
+        {
+            "question": "このお店の料理はどのように評判ですか？",
+            "answer": "新鮮でおいしい刺身が味わえると評判です。"
+        },
+        {
+            "question": "このお店はどのような種類の食事を提供していますか？",
+            "answer": "韓食専門店で、刺身が主なメニューです。"
+        }
+    ],
+    "word_Count": {
+        "text": 74,
+        "QA": 134
+    }
+}

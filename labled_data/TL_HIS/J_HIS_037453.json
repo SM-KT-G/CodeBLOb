@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_037453",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=981&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=00280000&ccbaCtcd=22&ccbaCpno=3412200280000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1995-05-12",
+        "domain": "문화/역사관광",
+        "title": "용연사삼층석탑"
+    },
+    "text": "龍淵寺三層石塔 (용연사삼층석탑)\\n\n大邱達城郡玉浦面龍淵寺キル260(盤松里)\\n\n大邱広域市文化財資料、龍淵寺極楽殿の前に立っている塔で、1階の基壇の上に3階の塔身を上げた姿だ。 床石は後代に新しい石で補修した状態であり、基壇と塔身の石の角ごとに柱の形が刻まれている。 屋根石は落水面が短く軒が薄いのに比べ、底面に刻んだ4段の支えが高い。 極楽殿の荘重な規模に比べて石塔の高さが2.6mで小さすぎて、互いによく調和しないような感じを与えている。 全体的に統一新羅の石塔様式に従っているが、基壇が1階に減り、屋根石の彫刻様式が変化したことから高麗時代に建てられたものと推定される。",
+    "QA": [
+        {
+            "question": "この龍淵寺三層石塔はどこにありますか？",
+            "answer": "大邱達城郡玉浦面龍淵寺キル260(盤松里)にあります。"
+        },
+        {
+            "question": "この石塔はどのような形状ですか？",
+            "answer": "1階の基壇の上に3階の塔身を上げた形状です。床石には柱の形が刻まれています。"
+        },
+        {
+            "question": "この石塔の屋根石はどのような特徴がありますか？",
+            "answer": "屋根石は落水面が短く軒が薄いですが、底面には4段の支えが高く刻まれています。"
+        },
+        {
+            "question": "この石塔はいつ建てられたと推定されていますか？",
+            "answer": "統一新羅の石塔様式に従っていますが、基壇の形状や屋根石の彫刻様式から高麗時代に建てられたと推定されています。"
+        },
+        {
+            "question": "この石塔は他の建物との調和が取れていますか？",
+            "answer": "極楽殿の荘重な規模に比べて、石塔の高さが小さすぎて互いによく調和しないような感じを与えています。"
+        }
+    ],
+    "word_Count": {
+        "text": 214,
+        "QA": 225
+    }
+}

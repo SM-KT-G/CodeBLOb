@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_000278",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42020&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "통영 테마펜션"
+    },
+    "text": " 特に金曜日と週末, 祝日には必ず確認してください。 予約前に必ず！！ ご確認ください. チェックインは16時以降で、チェックアウトは11時以前です。 追加で乳幼児も追加人数に含まれ、3歳以上から20,000ウォンの追加料金が現場で決済されます。 お知らせ。",
+    "QA": [
+        {
+            "question": "チェックインとチェックアウトの時間は何時ですか？",
+            "answer": "チェックインは16時以降で、チェックアウトは11時以前です。"
+        },
+        {
+            "question": "追加料金はありますか？",
+            "answer": "追加で乳幼児も追加人数に含まれ、3歳以上から20,000ウォンの追加料金が現場で決済されます。"
+        },
+        {
+            "question": "何曜日に特に確認すべきですか？",
+            "answer": "特に金曜日と週末、祝日には必ず確認してください。"
+        },
+        {
+            "question": "予約前に確認すべきことはありますか？",
+            "answer": "予約前に必ず確認ください。"
+        }
+    ],
+    "word_Count": {
+        "text": 94,
+        "QA": 133
+    }
+}

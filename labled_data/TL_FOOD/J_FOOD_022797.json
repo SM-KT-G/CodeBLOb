@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_022797",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2022-11-21",
+        "domain": "음식점",
+        "title": "성산명가"
+    },
+    "text": "城山名家 (성산명가)\\n\n慶尚南道昌原市城山区マディミロ63番キル7\\n\n輝く地、昌原の名所「城山名家」は、家族を迎える気持ちでお客様に接します。正直な食べ物、サービス、雰囲気で、変わらぬ真心で近づくことをお約束いたします。（情報提供者：昌原市庁）",
+    "QA": [
+        {
+            "question": "城山名家はどこにありますか？",
+            "answer": "城山名家は慶尚南道昌原市城山区マディミロ63番キル7にあります。"
+        },
+        {
+            "question": "城山名家の特徴は何ですか？",
+            "answer": "城山名家は正直な食べ物、サービス、雰囲気で、変わらぬ真心で近づくことをお約束しています。"
+        },
+        {
+            "question": "城山名家はどのような気持ちでお客様に接しますか？",
+            "answer": "城山名家は家族を迎える気持ちでお客様に接します。"
+        },
+        {
+            "question": "城山名家はどのような地域に位置していますか？",
+            "answer": "城山名家は昌原の名所で、輝く地に位置しています。"
+        },
+        {
+            "question": "城山名家の情報提供者は誰ですか？",
+            "answer": "城山名家の情報提供者は昌原市庁です。"
+        }
+    ],
+    "word_Count": {
+        "text": 91,
+        "QA": 169
+    }
+}

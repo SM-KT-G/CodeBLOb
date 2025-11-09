@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_027356",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-12-22",
+        "domain": "문화/역사관광",
+        "title": "仁川文化芸術会館（인천문화예술회관）"
+    },
+    "text": "仁川文化芸術会館\n仁川広域市 南洞区 芸術路149\n1994年にオープンした「仁川（インチョン）文化芸術会館」は大公演場1,332席、小公演場486席、野外公演場440席、大・中 ・小展示室、国際会議144席などを備えています。また、市立交響楽団、市立合唱団、市立舞踊団、市立劇団といった4つの芸術団を運営しています。",
+    "QA": [
+        {
+            "question": "仁川文化芸術会館はいつオープンしましたか？",
+            "answer": "1994年にオープンしました。"
+        },
+        {
+            "question": "仁川文化芸術会館はどのような施設がありますか？",
+            "answer": "大公演場、小公演場、野外公演場、展示室、国際会議室などがあります。"
+        },
+        {
+            "question": "仁川文化芸術会館はどの芸術団を運営していますか？",
+            "answer": "市立交響楽団、市立合唱団、市立舞踊団、市立劇団を運営しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 116,
+        "QA": 108
+    }
+}

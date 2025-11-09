@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_107744",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=43&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=01620000&ccbaCtcd=34&ccbaCpno=1123401620000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1963-01-21",
+        "domain": "문화/역사관광",
+        "title": "청양 장곡사 상 대웅전"
+    },
+    "text": "高麗時代に建てられた長谷寺は七甲山に位置する寺院である。新羅時代後期ボチョグクサが設立したこの査察は朝鮮時代、正祖1年(1777)に直って高宗3年(1866)と1906年、1960年にも大きく保守された。理事摩擦は地形によって上下大雄殿という二つの大雄殿をユニークに配置している。上に大雄殿はハ、大雄殿より高いところに位置し、前面3間・側面2間の大きさだ。この大雄殿は前面から見ると人の教わる字形の切妻屋根で屋根を装飾して作った恐怖が柱の上との間にもあるダポ様式を持っている。建物内部には統一新羅時代の蓮華(れんげ)文を刻んだ葉が8個であるセンが敷かれている。この寺院は建築史研究に重要な資料として活用されており、貴重な文化財である鉄造薬師如来座像及び石造台座(国宝)と鉄造毘盧舎那仏座像及び石造台座(宝物)などを保管している。",
+    "QA": [
+        {
+            "question": "長谷寺は何時代に建てられましたか？",
+            "answer": "新羅時代後期に建てられました。"
+        },
+        {
+            "question": "長谷寺はどこに位置していますか？",
+            "answer": "長谷寺は七甲山に位置しています。"
+        },
+        {
+            "question": "長谷寺の大雄殿は何階建てですか？",
+            "answer": "長谷寺の大雄殿は二階建てです。"
+        },
+        {
+            "question": "長谷寺の大雄殿の屋根はどのような形をしていますか？",
+            "answer": "大雄殿の屋根は切妻屋根で、人の教わる字形の切妻屋根です。"
+        },
+        {
+            "question": "長谷寺にはどのような貴重な文化財が保管されていますか？",
+            "answer": "長谷寺には鉄造薬師如来座像及び石造台座(国宝)と鉄造毘盧舎那仏座像及び石造台座(宝物)などが保管されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 266,
+        "QA": 168
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_013990",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-01",
+        "domain": "음식점",
+        "title": "マンスバンジョム ( 만수반점 )"
+    },
+    "text": "マンスバンジョム \n慶尙北道 安東市 テサ２キル 28\n韓国のサラリーマンが好む料理が味わえる店です。 慶尚北道のアンドン市に位置した中華専門店です。おすすめはジャージャー麺です。",
+    "QA": [
+        {
+            "question": "このレストランの場所はどこですか？",
+            "answer": "慶尚北道のアンドン市のテサ２キル28に位置しています。"
+        },
+        {
+            "question": "このレストランは何を提供していますか？",
+            "answer": "このレストランは中華料理が専門で、特にジャージャー麺がおすすめです。"
+        },
+        {
+            "question": "このレストランはどのような雰囲気ですか？",
+            "answer": "このレストランはサラリーマンが好む料理を提供しており、落ち着いた雰囲気です。"
+        },
+        {
+            "question": "このレストランの営業時間は何時から何時までですか？",
+            "answer": "営業時間は店舗によって異なる場合がありますので、事前に確認することをおすすめします。"
+        },
+        {
+            "question": "このレストランの予約は必要ですか？",
+            "answer": "混雑する場合があるため、予約することをおすすめします。"
+        }
+    ],
+    "word_Count": {
+        "text": 66,
+        "QA": 195
+    }
+}

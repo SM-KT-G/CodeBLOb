@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_001929",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=917&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=24&ccbaAsno=00100000&ccbaCtcd=34&ccbaCpno=2443400100000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1985-12-31",
+        "domain": "문화/역사관광",
+        "title": "김우열가옥"
+    },
+    "text": "キム·ウヨル家屋 (김우열가옥)\\n\n忠清南道洪城郡葛山路79(葛山面)\\n\n朝鮮後期 , 忠清南道民俗文化財 , 母屋、サランチェ、納屋を持つ19世紀後半の家屋で、全体的に開けたロ字型の配置が見られる。 母屋はㄱ字型で、真ん中の板の間を中心に左側に台所と奥の間、右側に向かい側の部屋が配置された典型的な中部地方の平面構成だ。 母屋の南側に一字型に位置したサランチェは左側に大門と門間部屋を置き、右側に板の間と出居を置いて門屋を兼ねている。 朝鮮後期の洗練された建築技術の痕跡を垣間見ることができる住宅だ。",
+    "QA": [
+        {
+            "question": "この家屋はどの地域に位置していますか？",
+            "answer": "この家屋は忠清南道洪城郡葛山路に位置しています。"
+        },
+        {
+            "question": "この家屋はいつ頃建てられましたか？",
+            "answer": "この家屋は19世紀後半に建てられました。"
+        },
+        {
+            "question": "この家屋の間取りはどのような形状ですか？",
+            "answer": "この家屋はロ字型の配置を持っており、母屋はㄱ字型で、サランチェは一字型に配置されています。"
+        },
+        {
+            "question": "この家屋はどのような地方の平面構成ですか？",
+            "answer": "この家屋は中部地方の典型的な平面構成を持っています。"
+        },
+        {
+            "question": "この家屋はどのような特徴的な建築技術を備えていますか？",
+            "answer": "この家屋は朝鮮後期の洗練された建築技術の痕跡を垣間見ることができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 185,
+        "QA": 186
+    }
+}

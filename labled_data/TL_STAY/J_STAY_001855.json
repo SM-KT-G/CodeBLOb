@@ -1,0 +1,51 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_001855",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.booking.com/hotel/kr/lumia.ko.html",
+        "collectedDate": "2023-11-17",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "Hotel Lumia Myeongdong"
+    },
+    "text": "Hotel Lumia Myeongdongはソウルの中心部に位置するホテルで、地下鉄4号線会賢駅1番出口から徒歩3分の距離にあります。 当ホテルは24時間フロントデスクサービス、無料Wi-Fiおよび構内駐車場を提供しています。 各客室にはエアコン、薄型テレビ、ソファーがあり、電気ケトルと冷蔵庫も備えられています。 専用バスルームにはシャワーブース、ヘアドライヤー、無料の洗面用具も完備されています。 ホテルの屋上テラスからは都市の眺めを楽しむことができ、ランドリーサービスは追加料金で利用できます。 南大門市場はホテルから北方向に徒歩5分、明洞通りは東方向に徒歩10分の距離にあります。 Hotel Lumia Myeongdongのチェックインは15:00から始まり、チェックアウトは12:00までです。",
+    "QA": [
+        {
+            "question": "ホテルLumia Myeongdongの場所はどこですか？",
+            "answer": "ホテルLumia Myeongdongはソウルの中心部に位置しています。"
+        },
+        {
+            "question": "ホテルLumia Myeongdongの最寄りの地下鉄駅はどこですか？",
+            "answer": "ホテルLumia Myeongdongの最寄りの地下鉄駅は会賢駅です。"
+        },
+        {
+            "question": "ホテルLumia Myeongdongから地下鉄駅までの距離はどのくらいですか？",
+            "answer": "ホテルLumia Myeongdongから会賢駅まで徒歩3分の距離です。"
+        },
+        {
+            "question": "ホテルLumia Myeongdongで利用できるサービスはありますか？",
+            "answer": "ホテルLumia Myeongdongでは24時間フロントデスクサービス、無料Wi-Fi、構内駐車場が利用できます。"
+        },
+        {
+            "question": "ホテルLumia Myeongdongの客室にはどのような設備がありますか？",
+            "answer": "ホテルLumia Myeongdongの客室にはエアコン、薄型テレビ、ソファー、電気ケトル、冷蔵庫が備えられています。"
+        },
+        {
+            "question": "ホテルLumia Myeongdongの近くにどのような観光スポットがありますか？",
+            "answer": "ホテルLumia Myeongdongの近くには南大門市場や明洞通りがあります。"
+        },
+        {
+            "question": "ホテルLumia Myeongdongのチェックイン・チェックアウト時間は何時ですか？",
+            "answer": "ホテルLumia Myeongdongのチェックインは15:00から、チェックアウトは12:00までです。"
+        }
+    ],
+    "word_Count": {
+        "text": 260,
+        "QA": 424
+    }
+}

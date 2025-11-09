@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_006273",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1003&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=00550000&ccbaCtcd=34&ccbaCpno=3413400550000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1984-05-17",
+        "domain": "문화/역사관광",
+        "title": "갑사중사자암지삼층석탑"
+    },
+    "text": "甲寺中獅子庵址 三層石塔 (갑사중사자암지삼층석탑)\\n\n忠清南道公州市鶏龍面中長里54番地\\n\n忠清南道文化財資料 , 甲寺大雄殿の右側に位置している塔で、本来は甲寺に付いている庵である獅子庵にあったものを大寂殿の裏面に移し、今の場所に移したものだ。 塔は側面に眼象を刻んだ床石の上に基壇の一部が置かれており、その上に3階の塔身が積まれている。 基壇は一番上の石を除いて全てなくなり、塔身は石の角ごとに柱の形を浅く刻んだ。 屋根石は四隅が少し持ち上げられ、底面に3段ずつの支えを置いた。 頂上には本来の髪飾りがなくなったまま、石の質が異なる蓮のつぼみの形をした新しい髪飾りが置かれている。",
+    "QA": [
+        {
+            "question": "この三層石塔はどこに位置していますか？",
+            "answer": "甲寺大雄殿の右側に位置しています。"
+        },
+        {
+            "question": "この三層石塔はなぜ移動されたのですか？",
+            "answer": "この三層石塔は本来は甲寺に付いている庵である獅子庵にあったものですが、大寂殿の裏面に移され、現在の場所に移されました。"
+        },
+        {
+            "question": "この三層石塔の特徴は何ですか？",
+            "answer": "この三層石塔は側面に眼象を刻んだ床石の上に基壇の一部が置かれており、その上に3階の塔身が積まれています。また、塔身は石の角ごとに柱の形を浅く刻んでいます。"
+        },
+        {
+            "question": "この三層石塔の頂上には何が置かれていますか？",
+            "answer": "この三層石塔の頂上には元々の髪飾りがなくなったまま、石の質が異なる蓮のつぼみの形をした新しい髪飾りが置かれています。"
+        }
+    ],
+    "word_Count": {
+        "text": 216,
+        "QA": 209
+    }
+}

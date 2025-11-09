@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_016411",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1251&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=79&ccbaAsno=06960000&ccbaCtcd=36&ccbaCpno=4413606960000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2017-10-23",
+        "domain": "문화/역사관광",
+        "title": "목포 정광정혜원"
+    },
+    "text": "木浦 チョングァン チョン·ヘウォン (목포 정광정혜원)\\n\n全羅南道木浦市露積峰キル26(竹洞)\\n\n国家登録文化財 , 浄光貞恵院の前庭に位置する道玄和尚功徳碑に記録された沿革は、1911年に日本人僧侶道玄和尚が木浦に布教所開設、1917年に興禅寺として開創、解放後、万岩僧侶が浄光貞恵院に改名した。 解放後、万岩僧侶は浄光貞恵院で仏教浄化運動の先頭に立ち、法政僧侶が出家以前に大学生の身分で浄光貞光貞恵院で仏教浄化運動の実務を手伝っていたところ、コ·ウン文人が出家当時一初の縁を持っていた。本来、日本の僧侶によって日食寺院として創建され、建築形式も仏堂と寮舎棟が連結され、一つの建物内で複合的に構成される日食寺院建築形式を基本形式で建築した。 仏堂と寮舎が長方形の中庭を中心に下の玄関兼廊下と上の廊下によって連結され、一つの建物内で礼仏空間と生活空間が複合的に構成される和食寺院の独特な平面および空間を構成している。 仏堂は外部では正面中央の主出入口および向拝、内部空間では内側に装飾的仏壇がある仏間が特徴的要素だ。",
+    "QA": [
+        {
+            "question": "この寺院はいつ、誰によって開設されましたか？",
+            "answer": "この寺院は1911年に日本人僧侶道玄和尚によって開設されました。"
+        },
+        {
+            "question": "解放後、この寺院は何に改名されましたか？",
+            "answer": "解放後、この寺院は万岩僧侶によって浄光貞恵院と改名されました。"
+        },
+        {
+            "question": "浄光貞恵院はどのような建築形式を持っていますか？",
+            "answer": "浄光貞恵院は仏堂と寮舎が連結される日食寺院建築形式を持っています。"
+        },
+        {
+            "question": "仏堂の特徴的な要素は何ですか？",
+            "answer": "仏堂の特徴的な要素は正面中央の主出入口および向拝と、内側にある装飾的仏壇があります。"
+        },
+        {
+            "question": "浄光貞恵院で行われる仏教浄化運動について教えてください。",
+            "answer": "浄光貞恵院では万岩僧侶が仏教浄化運動の先頭に立っており、解放後は法政僧侶が大学生の身分で実務を手伝っていました。"
+        }
+    ],
+    "word_Count": {
+        "text": 338,
+        "QA": 222
+    }
+}

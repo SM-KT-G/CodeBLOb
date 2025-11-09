@@ -1,0 +1,51 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_042986",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=449&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=00960000&ccbaCtcd=32&ccbaCpno=2113200960000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1985-01-17",
+        "domain": "문화/역사관광",
+        "title": "강릉조수환가옥"
+    },
+    "text": "江原特別自治道有形文化財、江陵市内にあった家を150年前に現在の位置に移したもので、最初に建てた年代はわかりません。典型的なロ字型の家で、母屋を中心に左側に小さなサランチェ、右側に蔵屋、前方に大きなサランチェで構成されています。前面5間·側面2間規模の母屋は屋根の側面が八の字型の華やかな入母屋造りで、3つの部屋と床·台所があります本来、母屋は二重の家の形でしたが、今は各部屋が長くつながっており、基壇をサランチェより高くして採光と換気に対する配慮がなされています。母屋の左側には小さなサランチェがあり、小さな門を挟んで大きなサランチェとつながっていますが、サランチェは全体的にㄱ字型になっています。サランチェの中庭の方には縁側があり、各部屋の連結通路の役割を果たしています。蔵屋は母屋の台所とつながっており、門の方には納屋があります",
+    "QA": [
+        {
+            "question": "この家は江陵市内に移される前はどこに建てられていましたか？",
+            "answer": "この家は江陵市内に移される前はどこに建てられていたかはわかりません。"
+        },
+        {
+            "question": "この家は何年前に建てられましたか？",
+            "answer": "この家の最初の建設年代は不明ですが、約150年前に現在の位置に移されました。"
+        },
+        {
+            "question": "この家はどのような形状をしていますか？",
+            "answer": "この家は典型的なロ字型の形状をしています。"
+        },
+        {
+            "question": "母屋の中にはどのような部屋がありますか？",
+            "answer": "母屋には3つの部屋と床・台所があります。"
+        },
+        {
+            "question": "母屋とサランチェのつながりはどのようになっていますか？",
+            "answer": "母屋とサランチェは小さな門を挟んでつながっています。"
+        },
+        {
+            "question": "蔵屋は何とつながっていますか？",
+            "answer": "蔵屋は母屋の台所とつながっています。"
+        },
+        {
+            "question": "この家には納屋もありますか？",
+            "answer": "はい、この家には門の方に納屋もあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 269,
+        "QA": 233
+    }
+}

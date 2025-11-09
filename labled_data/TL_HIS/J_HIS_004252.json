@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_004252",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=430&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=00720000&ccbaCtcd=11&ccbaCpno=2111100720000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1989-09-19",
+        "domain": "문화/역사관광",
+        "title": "뚝도수원지 제1정수장"
+    },
+    "text": "トゥクド水源地第1浄水場 (뚝도수원지 제1정수장)\\n\nソウル特別市城東区聖水洞一街642-1\\n\nソウル特別市有形文化財 , 米国人CollbranとH.R Bostwickが大韓帝国政府から上水道施設に対する特許を取得して建てた浄水場で、光武10年(1906)工事を始め、隆熙2年(1908)に完工した。 工事に使用された機材と施設物の一切は英国と米国の製品とした。 工事が終わった当時、1日の浄水容量は12,500㎡で約165,000人に給水することで当時占めた給水率が32%にもなった。 送水室はレンガを積んで建てた近代的な建物だ。 トゥクド水源地第1浄水場はソウルに初めて建てられた水源地施設として意味深いところだ。",
+    "QA": [
+        {
+            "question": "この浄水場はいつ建てられましたか？",
+            "answer": "光武10年(1906)に工事が始まり、隆熙2年(1908)に完工しました。"
+        },
+        {
+            "question": "この浄水場の建設にはどのような機材や施設物が使用されましたか？",
+            "answer": "この浄水場の建設には英国と米国の製品が使用されました。"
+        },
+        {
+            "question": "当時の1日の浄水容量はどれくらいでしたか？",
+            "answer": "当時の1日の浄水容量は12,500㎡で、約165,000人に給水することができました。"
+        },
+        {
+            "question": "この浄水場はどのような建物ですか？",
+            "answer": "この浄水場の送水室はレンガを積んで建てられた近代的な建物です。"
+        },
+        {
+            "question": "この浄水場はソウルにとってどのような意味を持っていますか？",
+            "answer": "この浄水場はソウルに初めて建てられた水源地施設として意義深い存在です。"
+        }
+    ],
+    "word_Count": {
+        "text": 230,
+        "QA": 211
+    }
+}

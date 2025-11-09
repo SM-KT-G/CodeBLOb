@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_018472",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=607&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=03490000&ccbaCtcd=33&ccbaCpno=2113303490000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2013-05-31",
+        "domain": "문화/역사관광",
+        "title": "보은 능성구씨 보갑 및 구씨가승 목판"
+    },
+    "text": "報恩陵城ク氏の宝甲及びク氏が僧の木版 (보은 능성구씨 보갑 및 구씨가승 목판)\\n\n忠清北道報恩郡青山館基路1377(麻路面、文化財)\\n\n1640年 , 忠清北道有形文化財 , 陵城ク氏の宝甲は特異な形の石造宝甲で、有事の際に系図をはじめとする先祖の遺稿などを永久に伝えるために地下に埋没できるように製作された珍しい石箱で、比較的完形を維持しており、宝学研究に貴重な資料だ。家僧は血統的根源ないし来歴を直系祖先を中心に明らかにした家系記録で、系図の一形態で、具氏家僧木板は具鳳瑞が1640年(仁祖18)10月に製作したもので、高鳳亭寺内の陵城具氏の宝甲に保存したと伝えられ、朝鮮戦争時に一部が紛失し、計18枚のうち現在8枚だけが残っている。",
+    "QA": [
+        {
+            "question": "宝甲とは何ですか？",
+            "answer": "宝甲は陵城ク氏の特異な形の石造宝甲で、先祖の遺稿などを永久に伝えるために地下に埋没できるように製作された石箱です。"
+        },
+        {
+            "question": "宝甲はどのように保存されていますか？",
+            "answer": "宝甲は陵城具氏の宝甲として保存されており、高鳳亭寺内に保管されています。"
+        },
+        {
+            "question": "宝甲は何のために作られましたか？",
+            "answer": "宝甲は有事の際に系図を始めとする先祖の遺稿などを永久に伝えるために作られました。"
+        },
+        {
+            "question": "家僧木版とは何ですか？",
+            "answer": "家僧木版は具氏家の系図を記録した木版です。"
+        },
+        {
+            "question": "具氏家僧木版の一部が紛失したと聞きましたが、現在何枚残っていますか？",
+            "answer": "具氏家僧木版の一部が朝鮮戦争時に紛失し、現在は計8枚が残っています。"
+        }
+    ],
+    "word_Count": {
+        "text": 236,
+        "QA": 202
+    }
+}

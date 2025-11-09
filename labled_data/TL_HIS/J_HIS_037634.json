@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_037634",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=976&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=00230000&ccbaCtcd=34&ccbaCpno=3413400230000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1984-05-17",
+        "domain": "문화/역사관광",
+        "title": "의병승장비"
+    },
+    "text": "義兵僧将碑 (의병승장비)\\n\n忠清南道錦山郡南二面石洞里709\\n\n忠清南道文化財資料、壬辰倭乱の時、僧兵長になって国を救おうとして戦死したヨンギュ大使の忠魂を称えている碑だ。 ヨンギュ大使(~1592)は朝鮮宣祖25年(1592)壬辰倭乱が起きると3日間号泣した後、自ら僧兵長になった。 僧兵数百人を集めて官軍と共に清州城の倭敵を討ち、続いてチョ·ホンと共に錦山戦闘に参加して壮烈に戦い戦死した。 このことはその後、全国的に僧兵が起きるきっかけを作った。 粛宗5年(1839)5月、錦山郡守チョ·チュヨンが建てた碑で、日帝が1940年に碑を保護していた碑閣を壊して碑を埋めておいたものを、解放後に再び取り出して建てたものだ。",
+    "QA": [
+        {
+            "question": "この碑は誰の忠魂を称えていますか？",
+            "answer": "この碑はヨンギュ大使の忠魂を称えています。"
+        },
+        {
+            "question": "ヨンギュ大使は何のために戦死しましたか？",
+            "answer": "ヨンギュ大使は壬辰倭乱の時に国を救うために戦死しました。"
+        },
+        {
+            "question": "ヨンギュ大使は何をするために僧兵長になりましたか？",
+            "answer": "ヨンギュ大使は僧兵長になって官軍と共に戦い、清州城の倭敵を討つためでした。"
+        },
+        {
+            "question": "この碑の建立者は誰ですか？",
+            "answer": "この碑は錦山郡守チョ・チュヨンによって建てられました。"
+        },
+        {
+            "question": "この碑は何年に建てられましたか？",
+            "answer": "この碑は粛宗5年（1839年）に建てられました。"
+        }
+    ],
+    "word_Count": {
+        "text": 230,
+        "QA": 167
+    }
+}

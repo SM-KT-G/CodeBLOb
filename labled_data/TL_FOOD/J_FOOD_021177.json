@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_021177",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "百済豚カルビ ( 백제돼지갈비 )"
+    },
+    "text": "百済豚カルビ ( 백제돼지갈비 )\n全羅南道 モクポ市 オクアムロ46ボンギル17\n家族の集まりだけでなく、飲み会も可能な店です。代表的なメニューは豚カルビです。全羅南道のモクポ市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "この店はどこにありますか？",
+            "answer": "この店は全羅南道のモクポ市に位置しています。"
+        },
+        {
+            "question": "この店の代表的なメニューは何ですか？",
+            "answer": "この店の代表的なメニューは豚カルビです。"
+        },
+        {
+            "question": "この店は家族の集まりや飲み会にも利用できますか？",
+            "answer": "はい、この店は家族の集まりだけでなく、飲み会も可能です。"
+        }
+    ],
+    "word_Count": {
+        "text": 75,
+        "QA": 91
+    }
+}

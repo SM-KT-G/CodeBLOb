@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_029952",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.goodchoice.kr/product/detail?ano=2320&adcno=1&sel_date=2023-11-06&sel_date2=2023-11-07",
+        "collectedDate": "2023-11-15",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "화곡 러쉬-LUSH"
+    },
+    "text": "1部屋あたりの駐車は台湾可能です。 計4台の駐車施設を保有しています。 地下鉄情報は5号線カチサン駅です。 追加でご案内する事項はありません。 サマーホットゲリライベントは8月6日に行われます。 イベントは宿泊スタンダードとデラックス客室に適用されます。 ご来店の方は現場でご確認いただけます。",
+    "QA": [
+        {
+            "question": "駐車施設は何台利用可能ですか？",
+            "answer": "1部屋あたりの駐車は台湾可能です。"
+        },
+        {
+            "question": "地下鉄の最寄り駅はどこですか？",
+            "answer": "地下鉄情報は5号線カチサン駅です。"
+        },
+        {
+            "question": "サマーホットゲリライベントはいつ行われますか？",
+            "answer": "サマーホットゲリライベントは8月6日に行われます。"
+        },
+        {
+            "question": "イベントはどの客室に適用されますか？",
+            "answer": "イベントは宿泊スタンダードとデラックス客室に適用されます。"
+        },
+        {
+            "question": "何台の駐車施設を保有していますか？",
+            "answer": "計4台の駐車施設を保有しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 107,
+        "QA": 141
+    }
+}

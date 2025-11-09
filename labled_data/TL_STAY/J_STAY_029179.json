@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_029179",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.goodchoice.kr/product/detail?ano=2907&adcno=1&sel_date=2023-11-07&sel_date2=2023-11-08",
+        "collectedDate": "2023-11-15",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "증평 스타무인텔"
+    },
+    "text": "現在、ヨギオッテの予約は提供しておりません。 計23台の駐車施設を保有しており、客室内部にはウンジンコーウェイ空気清浄機が設置されています。 高速で快適なWi-Fi環境を構築しており、電気自動車の重電も可能です。 また、Netflixをご利用いただけます。",
+    "QA": [
+        {
+            "question": "ヨギオッテでは予約を提供していますか？",
+            "answer": "現在、ヨギオッテの予約は提供しておりません。"
+        },
+        {
+            "question": "ヨギオッテは何台の駐車施設を保有していますか？",
+            "answer": "ヨギオッテは計23台の駐車施設を保有しております。"
+        },
+        {
+            "question": "客室内部には何が設置されていますか？",
+            "answer": "客室内部にはウンジンコーウェイ空気清浄機が設置されています。"
+        },
+        {
+            "question": "ヨギオッテでは高速で快適なWi-Fi環境を提供していますか？",
+            "answer": "はい、ヨギオッテでは高速で快適なWi-Fi環境を構築しております。"
+        },
+        {
+            "question": "電気自動車の充電は可能ですか？",
+            "answer": "はい、ヨギオッテでは電気自動車の充電も可能です。"
+        },
+        {
+            "question": "Netflixを利用することはできますか？",
+            "answer": "はい、ヨギオッテではNetflixをご利用いただけます。"
+        }
+    ],
+    "word_Count": {
+        "text": 93,
+        "QA": 211
+    }
+}

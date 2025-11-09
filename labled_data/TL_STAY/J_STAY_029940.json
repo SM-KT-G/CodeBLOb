@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_029940",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.goodchoice.kr/product/detail?ano=4592&adcno=1&sel_date=2023-11-06&sel_date2=2023-11-07",
+        "collectedDate": "2023-11-15",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "동탄 탑"
+    },
+    "text": "一度にすべての国を訪問したい人なら、車の駐車スペース40台を保有する駐車場が必要です。 また、烏山大駅という周辺の地下鉄駅があり、アクセスが便利です。 それぞれの客室にはノーハードシステムが設置されていてゲームを楽しむことができ、すべての客室でWiFiとKTIPTVを利用することができます。",
+    "QA": [
+        {
+            "question": "この駐車場は何台の車を駐車できますか？",
+            "answer": "この駐車場では、40台の車を駐車することができます。"
+        },
+        {
+            "question": "烏山大駅からこの駐車場へのアクセスはどうですか？",
+            "answer": "烏山大駅は周辺の地下鉄駅ですので、非常に便利なアクセスとなっています。"
+        },
+        {
+            "question": "客室にはどのような設備がありますか？",
+            "answer": "すべての客室にはノーハードシステムが設置されており、ゲームを楽しむことができます。また、WiFiとKTIPTVも利用することができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 107,
+        "QA": 139
+    }
+}

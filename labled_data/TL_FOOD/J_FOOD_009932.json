@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_009932",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-15",
+        "domain": "음식점",
+        "title": "チュクミワメウンガルビチム(쭈꾸미와매운갈비찜)"
+    },
+    "text": "チュクミワメウンガルビチム\\n\nソウル特別市 中区 マルンネ路2キル 25-1\\n\n会社員に人気のお店です。代表的なメニューはカルビの蒸し物定食です。ソウル特別市チュンムロ駅の近くに位置した韓国料理店です。",
+    "QA": [
+        {
+            "question": "このお店の名前は何ですか？",
+            "answer": "チュクミワメウンガルビチム"
+        },
+        {
+            "question": "このお店はどの区に位置していますか？",
+            "answer": "中区"
+        },
+        {
+            "question": "このお店の住所は何ですか？",
+            "answer": "ソウル特別市中区マルンネ路2キル 25-1"
+        },
+        {
+            "question": "このお店の人気メニューは何ですか？",
+            "answer": "カルビの蒸し物定食"
+        },
+        {
+            "question": "このお店はどの駅の近くに位置していますか？",
+            "answer": "ソウル特別市チュンムロ駅"
+        }
+    ],
+    "word_Count": {
+        "text": 75,
+        "QA": 101
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_030188",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42050&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "남원 지리산 반달곰민박(뱀사골,펜션,계곡)"
+    },
+    "text": "南原ツキノワグマ民宿は居心地の良い民宿ペンションです。 ここは渓谷が隣に位置し、水遊びと智異山トレッキングを同時に楽しめる場所です。 ペンションでは明るくて暖かい雰囲気で休息を取ることができます。 お知らせの中には、22時以降に入室される場合は予めご連絡ください。 ペンションの職員は皆様の便宜のために最善を尽くします。",
+    "QA": [
+        {
+            "question": "この民宿ペンションはどんな特徴がありますか？",
+            "answer": "南原ツキノワグマ民宿は渓谷が隣に位置し、水遊びと智異山トレッキングを同時に楽しめる場所です。明るくて暖かい雰囲気で休息を取ることができます。"
+        },
+        {
+            "question": "ペンションの職員はどのようにお客様の便宜を尽くしてくれますか？",
+            "answer": "ペンションの職員は皆様の便宜のために最善を尽くします。"
+        },
+        {
+            "question": "22時以降に入室する場合は何か連絡をする必要がありますか？",
+            "answer": "はい、22時以降に入室される場合は予めご連絡ください。"
+        }
+    ],
+    "word_Count": {
+        "text": 117,
+        "QA": 151
+    }
+}

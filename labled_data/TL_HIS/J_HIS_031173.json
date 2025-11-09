@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_031173",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101933",
+        "collectedDate": "2023-10-06",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "청운대"
+    },
+    "text": "靑雲台(チョンウンデ) \n青雲大学（チョンウンだいがく, Chungwoon University）は忠清南道洪城郡と仁川広域市弥鄒忽区にキャンパスを置く大韓民国の私立大学である。1995年にイ・ジョンソン忠南紡績会長が設立した忠南産業大学校が母体で、1998年7月に青雲大学(チョンウンだいがく)に校名を変更した。2019年現在、湖原大学とともに大韓民国の産業大学である。\n",
+    "QA": [
+        {
+            "question": "青雲大学はどこにキャンパスを置いていますか？",
+            "answer": "青雲大学は忠清南道洪城郡と仁川広域市弥鄒忽区にキャンパスを置いています。"
+        },
+        {
+            "question": "青雲大学はいつ設立されましたか？",
+            "answer": "青雲大学は1995年に忠南産業大学校が母体となり設立されました。"
+        },
+        {
+            "question": "青雲大学はどのような大学ですか？",
+            "answer": "青雲大学は産業大学であり、湖原大学とともに大韓民国を代表する産業大学です。"
+        }
+    ],
+    "word_Count": {
+        "text": 137,
+        "QA": 116
+    }
+}

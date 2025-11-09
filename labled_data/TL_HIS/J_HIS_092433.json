@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_092433",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=724&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=22&ccbaAsno=00170000&ccbaCtcd=23&ccbaCpno=2222300170000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2023-11-03",
+        "domain": "문화/역사관광",
+        "title": "완초장"
+    },
+    "text": "腕草場\\n\n仁川広域市の無形文化財、莞草匠はワンチョを栽培した後に選別・加工する機能、ワンチョに染料を入れている染色処理機能、染色ワンチョの適切な配列で美的な要素を生かしてできる機能まで3段階の機能を持っている職人をいう。ワンチョ工芸品は''三国史記''に、新羅の時代から使用したと記録された。朝鮮時代には官庁で民間に貢納を要求する品目の一つで、イ草を含めたが、これはワンチョの工芸品がたいへん貴重なものであることを語ってくれている。莞草匠ハンミョンジャ先生はワンチョ工芸の機能により編組法(手を利用した語る法)にファバンソク、容器の形、八角形の艦など美しさと使い道が結合された生活の中の工芸品に作品を制作してワンチョ工芸技能伝承にも最善の努力を尽くしている。",
+    "QA": [
+        {
+            "question": "ワンチョ工芸品はいつから使用されていますか？",
+            "answer": "新羅の時代から使用されています。"
+        },
+        {
+            "question": "莞草匠ハンミョンジャ先生はどのような作品を制作していますか？",
+            "answer": "ファバンソクや容器の形、八角形の艦など、美しさと使い道が結合された生活の中の工芸品を制作しています。"
+        },
+        {
+            "question": "ワンチョ工芸品の機能にはどのようなものがありますか？",
+            "answer": "ワンチョを栽培した後に選別・加工する機能、染色処理機能、美的な要素を生かして適切な配列で作る機能の3段階の機能があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 242,
+        "QA": 150
+    }
+}

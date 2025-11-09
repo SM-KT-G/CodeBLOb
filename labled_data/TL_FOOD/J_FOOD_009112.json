@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_009112",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-02-19",
+        "domain": "음식점",
+        "title": "ソダム（소담）"
+    },
+    "text": "ソダム（소담）\\n\n忠清南道 舒川郡 舒川邑 忠節路41ボンキル 15-9\\n\n忠淸南道のソチョン郡に位置した韓食です。韓国式BBQ専門店です。代表的なメニューは特殊部位です。",
+    "QA": [
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "ソダムは忠清南道舒川郡の舒川邑忠節路41ボンキル15-9にあります。"
+        },
+        {
+            "question": "この店の特徴は何ですか？",
+            "answer": "ソダムは韓国式BBQ専門店で、特殊部位の料理が代表的なメニューです。"
+        },
+        {
+            "question": "この店のおすすめメニューは何ですか？",
+            "answer": "ソダムのおすすめメニューは特殊部位の料理です。"
+        }
+    ],
+    "word_Count": {
+        "text": 64,
+        "QA": 98
+    }
+}

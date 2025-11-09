@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_003522",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'http://hotelgoldencalf.modoo.at",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "ゴールデンカーフホテル"
+    },
+    "text": "ゴールデンカーフホテル\\n\n大邱広域市東区栗岩路156-28\\n\n革新都市内の都市公園である松湖地を背景に建てられ、四季湖の変化を眺めることができる宿泊施設です。こじんまりした静かな部屋でゆっくりすることができます。栗岩ICのすぐ隣で、アクセスも良いです。",
+    "QA": [
+        {
+            "question": "このホテルの場所はどこですか？",
+            "answer": "大邱広域市東区栗岩路156-28にあります。"
+        },
+        {
+            "question": "このホテルの特徴は何ですか？",
+            "answer": "松湖地の都市公園に建てられ、四季湖の変化を眺めることができます。"
+        },
+        {
+            "question": "部屋はどのようになっていますか？",
+            "answer": "こじんまりした静かな部屋で、ゆっくりすることができます。"
+        },
+        {
+            "question": "アクセスは便利ですか？",
+            "answer": "栗岩ICのすぐ隣に位置しており、アクセスも良いです。"
+        }
+    ],
+    "word_Count": {
+        "text": 93,
+        "QA": 120
+    }
+}

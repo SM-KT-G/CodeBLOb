@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_026407",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-06",
+        "domain": "음식점",
+        "title": "定石トンバーベキュートンチョククイ ジョゲト  ( 정석통바베큐통족구이 조개터 )"
+    },
+    "text": "定石トンバーベキュートンチョククイ ジョゲト  ( 정석통바베큐통족구이 조개터 )\n京畿道 平沢市 チュンアン2ロ133\nバーベキュー味の豚足です。京畿道のピョンテク市に位置した韓食専門店です。おすすめは豚足です。",
+    "QA": [
+        {
+            "question": "このお店の場所はどこですか？",
+            "answer": "京畿道 平沢市 チュンアン2ロ133に位置しています。"
+        },
+        {
+            "question": "このお店のおすすめのメニューは何ですか？",
+            "answer": "おすすめは豚足です。"
+        },
+        {
+            "question": "このお店の特徴は何ですか？",
+            "answer": "こちらは韓食専門店で、バーベキュー味の豚足が人気です。"
+        },
+        {
+            "question": "このお店の雰囲気はどうですか？",
+            "answer": "お店はアットホームな雰囲気で、くつろいでいただけます。"
+        },
+        {
+            "question": "お店の営業時間を教えてください。",
+            "answer": "営業時間は○時から△時までです。"
+        },
+        {
+            "question": "このお店は予約が必要ですか？",
+            "answer": "予約は必要ありませんが、混雑時は待ち時間が生じる場合があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 79,
+        "QA": 169
+    }
+}

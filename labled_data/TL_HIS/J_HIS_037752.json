@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_037752",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=485&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=01450000&ccbaCtcd=33&ccbaCpno=2113301450000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1985-12-28",
+        "domain": "문화/역사관광",
+        "title": "청주 신전동 고가"
+    },
+    "text": "淸州薪田洞古家 (청주 신전동 고가)\\n\n忠清北道清州市興徳区新田路175番キル169 (新田洞)\\n\n日本による植民地時代（1926年）、忠清北道有形文化財、1926年に建てられた家で、母屋の天井部材に建築工事と参加者の名前などを記録した上棟門が書かれている。 - 字型の母屋とサランチェ、門屋がコの字型に配置されている。 母屋は長く磨かれた石を3段に積んだ台の上に丸い礎石を置き、四角い柱を立てた。 建物が建てられた年代は古くないが、母屋·サランチェ·ヘンランチェが全て揃って伝統住居建築の姿をよく表しており、細部技法では伝統技法とは異なる変形された形態が現れており、朝鮮時代の伝統的な家屋が日本による植民地時代を通じて変化している姿を見せている。",
+    "QA": [
+        {
+            "question": "この古家はいつ建てられましたか？",
+            "answer": "忠清北道有形文化財、1926年に建てられました。"
+        },
+        {
+            "question": "この古家にはどのような特徴がありますか？",
+            "answer": "母屋の天井部材に建築工事と参加者の名前などを記録した上棟門があり、字型の母屋とサランチェ、門屋がコの字型に配置されています。"
+        },
+        {
+            "question": "建物が建てられた時代には、どのような建築技法が使用されましたか？",
+            "answer": "母屋は長く磨かれた石を3段に積んだ台の上に丸い礎石を置き、四角い柱を立てています。"
+        },
+        {
+            "question": "この古家の建築には、どのような変形された形態が見られますか？",
+            "answer": "細部技法では伝統技法とは異なる変形された形態が現れており、朝鮮時代の伝統的な家屋が日本による植民地時代を通じて変化している姿を見せています。"
+        }
+    ],
+    "word_Count": {
+        "text": 239,
+        "QA": 216
+    }
+}

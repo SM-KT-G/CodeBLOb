@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_056522",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=405&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=00400000&ccbaCtcd=38&ccbaCpno=2113800400000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1979-05-07",
+        "domain": "문화/역사관광",
+        "title": "김해 봉화산 마애여래좌상"
+    },
+    "text": "金海烽火山ジャン\\n\n慶尚南道金海市進永邑本山里山3-17及び3-18\\n\n慶尚南道有形文化財、昔寝る岩路と烽燧台があった烽火山の岩壁に磨崖した石仏として高麗時代の如来坐像で両脚と船体で、高さ2.45m、膝までの高さ1.7mであり、巨大な岩が立ち並んでいた烽火山の中腹岩の隙間に挟まって横に横たわった状態で発見された。仏像の光背はなく、頭はソバルに大きな肉髻(にくけい)を刻んだ。威厳のある表情の顔はボールがむちむちで半ば瞑れるヌンクッが上につれており、若干破損されたが、バランスの取れた鼻面にちょっとした口はもちろん、肩まで垂れ下がった耳などがとても洗練された調和美を見せている。",
+    "QA": [
+        {
+            "question": "金海烽火山ジャンはどこにありますか？",
+            "answer": "金海烽火山ジャンは慶尚南道金海市進永邑本山里山3-17及び3-18にあります。"
+        },
+        {
+            "question": "金海烽火山ジャンには何がありますか？",
+            "answer": "金海烽火山ジャンには高麗時代の如来坐像があります。"
+        },
+        {
+            "question": "如来坐像はどのような姿勢で磨崖されていますか？",
+            "answer": "如来坐像は両脚と船体で横に横たわった状態で磨崖されています。"
+        },
+        {
+            "question": "如来坐像の大きさはどれくらいですか？",
+            "answer": "如来坐像の高さは2.45mで、膝までの高さは1.7mです。"
+        },
+        {
+            "question": "如来坐像の特徴的な部分はありますか？",
+            "answer": "如来坐像の頭には大きな肉髻があり、表情の顔には威厳があります。また、鼻面や口、耳なども洗練された調和美を見せています。"
+        }
+    ],
+    "word_Count": {
+        "text": 213,
+        "QA": 203
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_044203",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=73&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=05300000&ccbaCtcd=38&ccbaCpno=1123805300000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1971-07-07",
+        "domain": "문화/역사관광",
+        "title": "거창 가섭암지 마애여래삼존입상"
+    },
+    "text": "居昌迦葉庵址磨崖如来三尊立像\\n\n慶尚南道居昌郡渭川面上川里山6-2番地\\n\n高麗時代、宝物、岩面全体を船(舟)の形に彫るて体から出る光を形象化した光背(光背)を作り、その中に三尊仏(三尊佛)入賞を浅く留めている。中央の本尊は顔が比較的平たくて、顔に比べて小さな目・鼻、口、のっぺりして長い耳などで鈍重て土俗的な印象を漂わせる。身体の表現は、各負うよう処理された肩、屈曲もなく穏やかな胸、棒のような脚と左右に広げた足などで、高麗時代の形式化された面が見える。左・右脇侍菩薩は本尊仏とほぼ同じ形式で彫刻されたが、肩の表現が本尊仏よりソフトな曲線をしている。最後に触れた蓮の花模様の台座(臺座)と鳥の翼のように左右に伸びた裾などは三国時代の様式と似ているが、形式化されて図式的な要素が見られる。結局、この仏像は三国時代の仏像の様式を継承しながらも考慮的な要素が反映された、磨崖(佛像であることを知ることができる。",
+    "QA": [
+        {
+            "question": "この磨崖仏はどの時代のものですか？",
+            "answer": "この磨崖仏は高麗時代のものです。"
+        },
+        {
+            "question": "この磨崖仏の特徴は何ですか？",
+            "answer": "この磨崖仏は船の形をした光背が特徴で、顔の表現が土俗的な印象を漂わせています。"
+        },
+        {
+            "question": "この磨崖仏の彫刻はどのようになっていますか？",
+            "answer": "この磨崖仏は三尊仏で、中央の本尊と左右の脇侍菩薩が彫刻されています。"
+        },
+        {
+            "question": "この磨崖仏の台座や裾にはどのような要素が見られますか？",
+            "answer": "この磨崖仏の台座には蓮の花模様があり、裾は鳥の翼のように左右に伸びています。"
+        },
+        {
+            "question": "この磨崖仏は三国時代の様式を継承していますか？",
+            "answer": "はい、この磨崖仏は三国時代の仏像の様式を継承しながらも、形式化された要素が見られます。"
+        }
+    ],
+    "word_Count": {
+        "text": 296,
+        "QA": 200
+    }
+}

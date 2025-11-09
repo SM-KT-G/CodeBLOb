@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_028007",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "忠武路土鍋（충무로뚝배기）"
+    },
+    "text": "忠武路土鍋（충무로뚝배기）\\n\nソウル特別市 中区マルンネ路 43\\n\n韓国風ピリ辛チゲが有名です。代表的なメニューはキムチチゲです。ソウル特別市ウルチロサムガ駅の近くに位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "忠武路土鍋（충무로뚝배기）はどこに位置していますか？",
+            "answer": "ソウル特別市 中区マルンネ路 43に位置しています。"
+        },
+        {
+            "question": "忠武路土鍋（충무로뚝배기）の代表的なメニューは何ですか？",
+            "answer": "キムチチゲです。"
+        },
+        {
+            "question": "忠武路土鍋（충무로뚝배기）の特徴的な料理はありますか？",
+            "answer": "韓国風ピリ辛チゲが有名です。"
+        },
+        {
+            "question": "忠武路土鍋（충무로뚝배기）は韓食専門店ですか？",
+            "answer": "はい、韓食専門店です。"
+        },
+        {
+            "question": "忠武路土鍋（충무로뚝배기）はソウル特別市ウルチロサムガ駅の近くに位置していますか？",
+            "answer": "はい、ソウル特別市ウルチロサムガ駅の近くに位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 71,
+        "QA": 170
+    }
+}

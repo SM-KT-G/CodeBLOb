@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_010281",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1207&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=79&ccbaAsno=02070000&ccbaCtcd=35&ccbaCpno=4413502070000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2005-11-11",
+        "domain": "문화/역사관광",
+        "title": "군산 구 제1수원지 제방"
+    },
+    "text": "群山旧第1水源地堤防 (군산 구 제1수원지 제방)\\n\n全羅北道群山市ソルコジ1ギル46、外3筆地(小龍洞)\\n\n1915年頃 , 国家登録文化財 , この水源地は群山市中心部の占方山、雪林山の麓を流れる水が集まるところで、群山地域に飲み水を供給するために1912年に工事を始めた後、延べ10万人を動員して3年ぶりに完工した。 この地域の大多数の市民が井戸水を汲んで飲む時に建設した水源地で、堤防と水門、水位測定塔は近代初期の産業施設建設の水準をよく示している。",
+    "QA": [
+        {
+            "question": "この水源地はいつ建設されましたか？",
+            "answer": "1912年に工事が始まり、延べ10万人を動員して3年後に完成しました。"
+        },
+        {
+            "question": "この水源地はどのような目的で建設されましたか？",
+            "answer": "この水源地は群山地域に飲み水を供給するために建設されました。"
+        },
+        {
+            "question": "この水源地はどのような施設がありますか？",
+            "answer": "この水源地には堤防、水門、水位測定塔があります。"
+        },
+        {
+            "question": "この水源地はどのような価値がありますか？",
+            "answer": "この水源地は近代初期の産業施設建設の水準をよく示しており、群山市の歴史的な価値があります。"
+        },
+        {
+            "question": "この水源地はどのように利用されていますか？",
+            "answer": "この水源地は大多数の市民が井戸水を汲んで飲むために利用されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 170,
+        "QA": 197
+    }
+}

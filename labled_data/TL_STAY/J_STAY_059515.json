@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_059515",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42060&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "태안 영목항 솔빛민박펜션"
+    },
+    "text": "こんにちは。永木港の眺めが良いソルビッ民宿ペンションです。 1階のバーベキュー場と屋上バーベキュー場を備えており、海を見ながらバーベキューを楽しむことができる思い出を作って行くのに最適です。 春にはクロソイ、ヒラメ、マダイ、スズキなどの釣りが可能で、秋にはイイダコ、コウイカなど手の味が楽しめる条件を備えています。 船の斡旋や肉類と他の品物をご注文いただければご用意できます。 たくさん訪ねてくださって楽しい時間をたくさん作って行ってください。 お知らせは午後3時入室、午前11時退室です。",
+    "QA": [
+        {
+            "question": "民宿ペンションのバーベキュー場は何階にありますか？",
+            "answer": "バーベキュー場は1階と屋上の2箇所にあります。"
+        },
+        {
+            "question": "永木港周辺でできる釣りの種類は何ですか？",
+            "answer": "春にはクロソイ、ヒラメ、マダイ、スズキなどが釣れます。"
+        },
+        {
+            "question": "秋には何の釣りが楽しめますか？",
+            "answer": "秋にはイイダコやコウイカの釣りが楽しめます。"
+        },
+        {
+            "question": "船の斡旋や肉類以外の品物も注文できるのですか？",
+            "answer": "はい、船の斡旋や肉類以外の品物もご注文いただければご用意できます。"
+        },
+        {
+            "question": "チェックインとチェックアウトの時間は何時ですか？",
+            "answer": "チェックインは午後3時で、チェックアウトは午前11時です。"
+        }
+    ],
+    "word_Count": {
+        "text": 179,
+        "QA": 176
+    }
+}

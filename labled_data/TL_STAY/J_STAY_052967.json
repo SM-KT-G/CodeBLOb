@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_052967",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/goods/GN0002022650?startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0%5E&npprmaxsort=min",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "대부도(선재도) 달달펜션"
+    },
+    "text": "DALDAL SPECIAL SURROUNDINGSでは、全客室から美しいソンジェ島の海辺の風景が一望できます。 引き潮になると水路が開いて歩いて渡ることができる小さくてきれいなモクソムが徒歩10分の距離にあり、干潟体験や釣り場も徒歩10分の距離にあります。 ペットの同伴は不可であり、各部屋にはベッドが2つありますが、追加の寝具類は提供しておりません。 また、22時以降に入室される場合は事前にご連絡をお願いします。",
+    "QA": [
+        {
+            "question": "このホテルからどのくらいの距離でソンジェ島の海辺の風景を見ることができますか？",
+            "answer": "DALDAL SPECIAL SURROUNDINGSでは、全客室から美しいソンジェ島の海辺の風景が一望できます。"
+        },
+        {
+            "question": "モクソムへのアクセスはどうですか？",
+            "answer": "引き潮になると水路が開いて歩いて渡ることができる小さくてきれいなモクソムが徒歩10分の距離にあります。"
+        },
+        {
+            "question": "モクソムの近くにはどんな体験ができますか？",
+            "answer": "モクソムの近くには干潟体験や釣り場があります。徒歩10分の距離です。"
+        },
+        {
+            "question": "ペットを連れて泊まることはできますか？",
+            "answer": "ペットの同伴は不可です。"
+        },
+        {
+            "question": "客室には何人宿泊できるベッドがありますか？",
+            "answer": "各部屋にはベッドが2つありますが、追加の寝具類は提供しておりません。"
+        },
+        {
+            "question": "22時以降に入室する場合はどうすればいいですか？",
+            "answer": "22時以降に入室される場合は事前にご連絡をお願いします。"
+        }
+    ],
+    "word_Count": {
+        "text": 154,
+        "QA": 261
+    }
+}

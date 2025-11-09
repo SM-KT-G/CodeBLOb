@@ -1,0 +1,31 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_004803",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42091&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "울산 램넌트게스트하우스펜션"
+    },
+    "text": "こんにちは。蔚山ゲストハウスペンションです。 蔚山市役所で降りて、新亭郵便局を右側に挟んで隣の路地に5分ほど歩いて上がってくれば、すぐに見つけることができます。 現在、当ペンションでは22時以降に入室される場合、予めご連絡をお願いします。",
+    "QA": [
+        {
+            "question": "蔚山ゲストハウスペンションはどこにありますか？",
+            "answer": "蔚山ゲストハウスペンションは蔚山市役所の近くにあります。蔚山市役所で降りて、新亭郵便局を右側に挟んで隣の路地に5分ほど歩いて上がってくれば、すぐに見つけることができます。"
+        },
+        {
+            "question": "蔚山ゲストハウスペンションのチェックイン時間は何時ですか？",
+            "answer": "蔚山ゲストハウスペンションでは22時以降に入室される場合、予めご連絡をお願いしています。"
+        }
+    ],
+    "word_Count": {
+        "text": 87,
+        "QA": 132
+    }
+}

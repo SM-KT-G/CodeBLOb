@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_024300",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42090&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "제주 인(in)두모리펜션"
+    },
+    "text": "新築一軒家ペンション in トゥモリが提供するお知らせです。 当ペンションは家族や友達が一緒にこぢんまりと楽しめる空間です。 忙しい日常の中で余裕を見つけてコーヒー一杯と一緒にあざ笑うのも良いカメレオンのような魅力を持っています。 ペンションは一日にたった一チームのみ使用できる空間で、最上の休息を楽しむことができます。",
+    "QA": [
+        {
+            "question": "新築一軒家ペンションはどのような特徴がありますか？",
+            "answer": "当ペンションは家族や友達が一緒にこぢんまりと楽しめる空間です。"
+        },
+        {
+            "question": "ペンションの利用は一日に何チームまで可能ですか？",
+            "answer": "ペンションは一日にたった一チームのみ使用できる空間です。"
+        },
+        {
+            "question": "どのような活動がペンションで楽しめますか？",
+            "answer": "ペンションではコーヒー一杯と一緒にあざ笑うなど、余裕を見つけてリラックスすることができます。"
+        },
+        {
+            "question": "トゥモリでの滞在に最適なペンションですか？",
+            "answer": "はい、トゥモリでの休息に最適なペンションです。"
+        }
+    ],
+    "word_Count": {
+        "text": 117,
+        "QA": 160
+    }
+}

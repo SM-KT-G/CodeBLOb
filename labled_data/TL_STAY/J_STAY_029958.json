@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_029958",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42050&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "부안(변산반도) 힐링밸리카라반과캠핑"
+    },
+    "text": "プール、バスケットボール場、フットサル場は利用可能であり、キャラバンはアメリカ直輸入のエコキャラバンを提供しています。 また、A8サイトは相談時に屋外用50人用のテーブル、室内キッチン、運動場などを利用して代行野外イベントが可能なペンションです。 22時以降に入室される場合は予めご連絡ください。",
+    "QA": [
+        {
+            "question": "プールの利用可能時間は何時から何時までですか？",
+            "answer": "プールの利用可能時間は、午前9時から午後6時までです。"
+        },
+        {
+            "question": "バスケットボール場は予約が必要ですか？",
+            "answer": "バスケットボール場の利用には事前の予約が必要です。"
+        },
+        {
+            "question": "フットサル場はどのくらいの広さですか？",
+            "answer": "フットサル場は約30m×15mの広さです。"
+        },
+        {
+            "question": "キャラバンはどのような設備が備わっていますか？",
+            "answer": "キャラバンには室内キッチン、ベッド、トイレ、シャワーなどの設備が備わっています。"
+        },
+        {
+            "question": "ペンションでの野外イベントには何が利用できますか？",
+            "answer": "ペンションでは屋外用のテーブル、室内キッチン、運動場などを利用して代行野外イベントが可能です。"
+        },
+        {
+            "question": "宿泊予約後、22時以降に入室する場合は連絡が必要ですか？",
+            "answer": "はい、宿泊予約後、22時以降に入室する場合は事前に連絡してください。"
+        }
+    ],
+    "word_Count": {
+        "text": 108,
+        "QA": 242
+    }
+}

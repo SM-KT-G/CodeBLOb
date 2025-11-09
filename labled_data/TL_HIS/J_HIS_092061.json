@@ -1,0 +1,51 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_092061",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=552&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=02430000&ccbaCtcd=33&ccbaCpno=2113302430000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2004-09-17",
+        "domain": "문화/역사관광",
+        "title": "옥천 곽은 재실"
+    },
+    "text": "忠清北道に位置した有形文化財であるこの建物は朝鮮成宗(ソンジョン)時代の文臣のグヮクウン先生の斎室として知られている。グヮクウン先生の死去以降に築造されたものと伝わっており、1894年に改修されて1978年には水害後に、復旧された。この建物は正面5間、側面1間半の一軒(ひとのき)入母屋屋根で構成されており、東側からの、大青(テチョン)、オンドル部屋、台所で構成されている。前面には縁側を置いており、東側オンドル部屋の前には板の間とオンドルがついている。建物構造は高い自然石の基壇の上にどぶんと初めをめぐって、前面には円柱を立てて壁部は四角柱で構成されている。家具の形式は5両がであり、板の間と縁側チョンパンには朝鮮時代の古式治木手法が用いられている。この斎室は、祭祀を務めたり、静かな勉強をする場所で使用されたものと推測される。",
+    "QA": [
+        {
+            "question": "この建物は何時代のものですか？",
+            "answer": "朝鮮成宗(ソンジョン)時代のものです。"
+        },
+        {
+            "question": "この建物の主な機能は何ですか？",
+            "answer": "祭祀を務めたり、静かな勉強をする場所として使用されたと推測されています。"
+        },
+        {
+            "question": "建物の構造にはどのような特徴がありますか？",
+            "answer": "正面5間、側面1間半の一軒入母屋屋根で構成され、高い自然石の基壇の上に建てられています。"
+        },
+        {
+            "question": "この建物が位置する場所はどこですか？",
+            "answer": "忠清北道に位置しています。"
+        },
+        {
+            "question": "この建物は誰の斎室として知られていますか？",
+            "answer": "朝鮮の文臣であるグヮクウン先生の斎室として知られています。"
+        },
+        {
+            "question": "この建物はいつ改修されましたか？",
+            "answer": "1894年に改修されました。"
+        },
+        {
+            "question": "この建物は水害後に復旧されたそうですが、それはいつですか？",
+            "answer": "1978年に水害後に復旧されました。"
+        }
+    ],
+    "word_Count": {
+        "text": 267,
+        "QA": 225
+    }
+}

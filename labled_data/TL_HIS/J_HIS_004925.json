@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_004925",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101933",
+        "collectedDate": "2023-10-06",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "화개장터"
+    },
+    "text": "ファゲ伝統市場\n「ファゲ伝統市場」とは1988年に発表されたチョ·ヨンナムの歌です。今は政治家として活動している俳優チェ·ミョンギルの夫キム·ハンギル議員がチョ·ヨンナムと一緒に部屋で生活していた時、新聞に花開市場の話が出ると即席でキム·ハンギルが歌詞を書き、チョ·ヨンナムがメロディーを作曲し、1988年に発表されました。\n",
+    "QA": [
+        {
+            "question": "この歌のタイトルは何ですか？",
+            "answer": "ファゲ伝統市場"
+        },
+        {
+            "question": "この歌を誰が作曲しましたか？",
+            "answer": "チョ·ヨンナム"
+        },
+        {
+            "question": "この歌を誰が歌詞を書きましたか？",
+            "answer": "キム·ハンギル議員"
+        },
+        {
+            "question": "この歌はいつ発表されましたか？",
+            "answer": "1988年"
+        },
+        {
+            "question": "この歌の背景について教えてください。",
+            "answer": "俳優チェ·ミョンギルの夫キム·ハンギル議員とチョ·ヨンナムが一緒に部屋で生活していたときに、新聞に花開市場の話が出たことをきっかけに作られました。"
+        }
+    ],
+    "word_Count": {
+        "text": 119,
+        "QA": 130
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_028026",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2022-10-25",
+        "domain": "자연관광",
+        "title": "개구리생태공원"
+    },
+    "text": "鮮やかな自然をそのまま描いた温室、子供から大人までみんなが楽しく体験する生態展示館、年中の蛙の書式が可能な野外生態空間まで多様な構成と自然生態を観覧することができる。",
+    "QA": [
+        {
+            "question": "温室内では何を体験することができますか？",
+            "answer": "温室内では、鮮やかな自然をそのまま描いた様々な植物や生態を体験することができます。"
+        },
+        {
+            "question": "生態展示館では誰が楽しむことができますか？",
+            "answer": "生態展示館では、子供から大人まで誰もが楽しく自然の生態を体験することができます。"
+        },
+        {
+            "question": "野外生態空間で何が可能ですか？",
+            "answer": "野外生態空間では、年中の蛙の観察が可能であり、自然生態を存分に観察することができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 60,
+        "QA": 132
+    }
+}

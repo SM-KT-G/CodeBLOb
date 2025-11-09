@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_041390",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-06-01",
+        "domain": "문화/역사관광",
+        "title": "F1963（F1963）"
+    },
+    "text": "F1963\n釜山広域市 水営区 鴎楽路123番キル 20\nワイヤー工場から文化スペースへシックに変身\n高麗製鋼（KISWIRE）は世界最大級の特殊線材会社で、2008年まで吊橋、自動車のタイヤなどに使われるワイヤーロープをこの場所で生産していました。現在、リモデリングを行い公演・展示・学術会議を実施できるようになり、ビールバーやコーヒーショップなども入店しています。ここでインダストリアルインテリアの真髄を楽しめます。",
+    "QA": [
+        {
+            "question": "この地域で何が生産されていたのですか？",
+            "answer": "高麗製鋼はワイヤーロープを生産していました。"
+        },
+        {
+            "question": "現在、この場所はどのように使われていますか？",
+            "answer": "現在は公演・展示・学術会議が行われる文化スペースとなっており、ビールバーやコーヒーショップも入店しています。"
+        },
+        {
+            "question": "どのようなインテリアが楽しめますか？",
+            "answer": "ここではインダストリアルインテリアが楽しめます。"
+        }
+    ],
+    "word_Count": {
+        "text": 154,
+        "QA": 116
+    }
+}

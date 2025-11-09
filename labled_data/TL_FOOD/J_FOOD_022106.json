@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_022106",
+        "source": "도서",
+        "writer": "배동렬",
+        "ISBN_ISNN": "978-89-9350-838-3",
+        "version": "초판",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "블로거 비밀이야의 전국해장음식열전",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2017-03-10",
+        "domain": "음식점",
+        "title": "바흐에스프레소"
+    },
+    "text": "私たちは家の外でくつろげるスペースが必要です。 来てください、どうかゆっくり休んで行ってください。 住所地の建物の1階コーナーに位置しております。 商店街コーナーにありますので、入り口の前に駐車してもいいです。 提供するメニューはEspressoで3,000ウォンで、Cantata 3ozは3,500ウォン、Cantata 8ozは4,000ウォン、Pound Cakeは6,000ウォンです。",
+    "QA": [
+        {
+            "question": "場所はどこですか？",
+            "answer": "私たちのスペースは住所地の建物の1階コーナーにあります。"
+        },
+        {
+            "question": "どのように駐車できますか？",
+            "answer": "商店街コーナーに位置しているため、入り口の前に駐車することができます。"
+        },
+        {
+            "question": "提供されるメニューは何ですか？",
+            "answer": "提供するメニューはEspressoで3,000ウォン、Cantata 3ozで3,500ウォン、Cantata 8ozで4,000ウォン、Pound Cakeで6,000ウォンです。"
+        }
+    ],
+    "word_Count": {
+        "text": 145,
+        "QA": 140
+    }
+}

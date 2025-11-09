@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_065131",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1054&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=01320000&ccbaCtcd=37&ccbaCpno=3413701320000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1985-08-05",
+        "domain": "문화/역사관광",
+        "title": "문경향교대성전"
+    },
+    "text": "聞慶郷校大成殿\\n\n慶尚北道聞慶市聞慶邑橋村里322番地\\n\n慶尚北道文化財資料、郷校は、孔子と多くの聖賢に祭祀をして地方民の教育と教化のために国で立てた教育機関だ。聞慶郷校は、朝鮮太祖1年(1392)初めて建てたものと見て、文禄・慶長の役で燃えてなくなったことを後再建されたのだ。後に上昇する地形に大地を3段に用意して前方には教育空間を、後ろには、祭祀空間を配置した。正門である外三門を通過して教育の場である明倫堂を過ぎると、前面3間・側面2間の大成殿が姿を現す。大成殿は孔子をはじめ、中国と韓国聖賢の位牌を祭って祭祀を過ごす場所できれいに整備されている。屋根は側面から見ると、人の教わる字形の切妻屋根で素朴だが、全体的に装飾的な要素がほとんどない簡潔な姿だ。朝鮮時代には国で土地と奴婢・本などの支援を受けて学生を教えたが、今は教育機能はなくなり、祭祀の役割だけが残っている。",
+    "QA": [
+        {
+            "question": "聞慶郷校大成殿はどこにありますか？",
+            "answer": "聞慶郷校大成殿は慶尚北道聞慶市聞慶邑橋村里322番地にあります。"
+        },
+        {
+            "question": "聞慶郷校はいつ建てられましたか？",
+            "answer": "聞慶郷校は朝鮮太祖1年(1392)に初めて建てられ、文禄・慶長の役で燃えてしまいましたが、後に再建されました。"
+        },
+        {
+            "question": "大成殿はどのような場所ですか？",
+            "answer": "大成殿は孔子を含む中国と韓国聖賢の位牌を祭る祭祀の場所です。屋根は切妻屋根で素朴ながら、装飾的な要素はほとんどありません。"
+        },
+        {
+            "question": "聞慶郷校は現在どのような役割を果たしていますか？",
+            "answer": "聞慶郷校は教育機能はなくなり、現在は祭祀の役割のみが残っています。"
+        }
+    ],
+    "word_Count": {
+        "text": 285,
+        "QA": 185
+    }
+}

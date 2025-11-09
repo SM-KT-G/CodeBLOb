@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_089231",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1117&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=03010000&ccbaCtcd=38&ccbaCpno=3413803010000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2001-09-27",
+        "domain": "문화/역사관광",
+        "title": "양산 통도사 동치3년명 신중도"
+    },
+    "text": "梁山通度寺の同治、3年名慎重度\\n\n慶尚南道梁山市下北面通度寺路108(芝山里)\\n\n朝鮮時代の高宗1年(1864年)、慶尚南道文化財資料、シンジュンドは大乗仏教で護法ソンシン(護法善神)に安置されて信仰の対象になった慎重(神衆)をわかりやすく図で示した礼拝用の不和だ。このシンジュンドは通度寺聖宝博物館に所蔵されている慎重幀画として、絹の生地に彩色して描いており、大きさは144.0センチ×176.0センチだ。構図は、上段には、羽の生えた帽子をかぶったトンジン菩薩を中心に左右に2菩薩を配置し、下段に慎重を配置した。細部的な表現が精巧で細密である。画面に書かれた記録によれば、このシンジュンドは朝鮮時代の高宗1年(1864)冬にクムオ(金魚)した位相(霞隱偉相)・恵化(恵華)・ボンヨン(琫蓮)などが参加して制作されたことを知ることができる。また、このシンジュンドは韓国の代表的な社員の一つとして、通度寺の山内庵であるベクリョンアムで造成して奉安してきたことを知ることができる。原型で汚れた部分と一部がパクラクドェンところがあるが、朝鮮後期の仏教絵画史研究と社会上の研究に重要な資料である。",
+    "QA": [
+        {
+            "question": "この慎重度は何年に作られましたか？",
+            "answer": "慎重度は朝鮮時代の高宗1年(1864年)に作られました。"
+        },
+        {
+            "question": "慎重度の大きさは何センチですか？",
+            "answer": "慎重度の大きさは144.0センチ×176.0センチです。"
+        },
+        {
+            "question": "慎重度はどの宗教の信仰対象になっていますか？",
+            "answer": "慎重度は大乗仏教で護法ソンシン(護法善神)に安置されて信仰の対象になっています。"
+        },
+        {
+            "question": "慎重度が所蔵されている場所はどこですか？",
+            "answer": "慎重度は通度寺聖宝博物館に所蔵されています。"
+        },
+        {
+            "question": "慎重度の制作に参加した人物には誰がいますか？",
+            "answer": "慎重度の制作には位相(霞隱偉相)・恵化(恵華)・ボンヨン(琫蓮)などが参加しました。"
+        }
+    ],
+    "word_Count": {
+        "text": 363,
+        "QA": 188
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_035425",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=129&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=11160000&ccbaCtcd=36&ccbaCpno=1123611160000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1992-01-15",
+        "domain": "문화/역사관광",
+        "title": "화순 유마사 해련탑"
+    },
+    "text": "和順有馬寺海蓮塔 (화순 유마사 해련탑)\\n\n全羅南道和順郡南面ユマリ400番地ユマサ\\n\n高麗時代 , 宝物 , この塔は僧侶の遺骨や舎利を祀った僧塔である。 本来は有馬寺入口の浮屠谷と呼ばれた谷に建てられていたが、盗掘犯たちが毀損して放置されていたのを村の人たちが1981年現在の位置に移したという。典型的な八角舎利塔で、高く構成された基壇部の上に塔身を乗せた。 広い地対石を設け、下には眼象が浅く刻まれ、上には蓮の花が飾られた下支え石を上げた。 角ごとに花模様を突出させて技巧に装飾した。 中央の台石にも大きな眼像が刻まれており、上の台石にも大きな蓮華門が置かれている。 体石には前後面にドアノブが付いたドアの形を刻んであるが、前面に刻んだドアの形の上には「海蓮之塔(海蓮之塔)」という文字が刻まれている。 屋根石は下の部分に広々とした3段の支えがあり、上の部分には角ごとに厚い屋根床とその先に花模様を突出させて装飾した。現在、相輪部は残っていないが、各部の造影技法と全体的な比例、基壇部の装飾、胴体石と屋根石の色々な彫刻様式から見て高麗前期に作られたものと推察される。",
+    "QA": [
+        {
+            "question": "この塔は何のために建てられましたか？",
+            "answer": "この塔は僧侶の遺骨や舎利を祀るために建てられました。"
+        },
+        {
+            "question": "この塔はどの時代に建てられましたか？",
+            "answer": "この塔は高麗時代に建てられました。"
+        },
+        {
+            "question": "この塔はどこに建てられていましたか？",
+            "answer": "この塔は元々は有馬寺入口の浮屠谷と呼ばれた谷に建てられていました。"
+        },
+        {
+            "question": "なぜこの塔が現在の位置に移されたのですか？",
+            "answer": "この塔は盗掘犯によって毀損された後、村の人々によって現在の位置に移されました。"
+        },
+        {
+            "question": "この塔の特徴的な装飾について教えてください。",
+            "answer": "この塔は典型的な八角舎利塔であり、角ごとに花模様を突出させた装飾がされています。また、下には眼象が刻まれ、上には蓮の花が飾られた下支え石があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 358,
+        "QA": 209
+    }
+}

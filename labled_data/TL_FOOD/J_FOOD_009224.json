@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_009224",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-01",
+        "domain": "음식점",
+        "title": "ソラ刺身専門店 ( 소라횟집 )"
+    },
+    "text": "ソラ刺身専門店 \n江原道 江陵市 滄海路 350ボンキル 11\n海岸のすぐそばにあり、新鮮な海の幸が味わえる店です。 江原道のガンヌン市に位置した海鮮専門店です。代表的なメニューは刺身入り冷やしスープです。",
+    "QA": [
+        {
+            "question": "このお店はどこにありますか？",
+            "answer": "このお店は江原道江陵市滄海路350ボンキル11にあります。"
+        },
+        {
+            "question": "このお店の特徴は何ですか？",
+            "answer": "このお店はソラ刺身専門店であり、新鮮な海の幸が味わえることが特徴です。"
+        },
+        {
+            "question": "代表的なメニューは何ですか？",
+            "answer": "代表的なメニューは刺身入り冷やしスープです。"
+        }
+    ],
+    "word_Count": {
+        "text": 75,
+        "QA": 93
+    }
+}

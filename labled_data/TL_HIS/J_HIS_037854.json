@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_037854",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=762&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=00030000&ccbaCtcd=50&ccbaCpno=2333900030000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1971-08-26",
+        "domain": "문화/역사관광",
+        "title": "제주성지"
+    },
+    "text": "済州聖地 (제주성지)\\n\n済州市二道1洞1437-6番地3筆\\n\n済州特別自治道記念物、済州城はいつ積み上げたのか定かではないが、耽羅国首都付近の城郭で古く積み上げたと伝えられている。 この城は済州の多くの火山岩を利用して高麗粛宗の時、周囲4700隻、高さ11隻に拡張して新しく整備した。 その後、朝鮮中宗7年(1512年)に周囲を5486隻に拡張し、防御施設を整えた。 城内に泉がなくて経験した給水の困難を解決したりもした。 明宗10年(1555)乙卯倭変の時は倭敵が侵入して城を包囲し攻撃したが、これを退けるのに成功した。 壬辰倭乱が起きる前は城壁を5隻高くして築き、防御施設を整えたりもした。 現在は城壁や建物がほとんど残っていないが、当時の築城方式が分かる資料だ。",
+    "QA": [
+        {
+            "question": "済州聖地の場所はどこですか？",
+            "answer": "済州聖地は済州市二道1洞1437-6番地3筆にあります。"
+        },
+        {
+            "question": "済州城はいつ積み上げられましたか？",
+            "answer": "済州城の積み上げの時期は定かではありませんが、古くは耽羅国首都付近の城郭として積み上げられたと伝えられています。"
+        },
+        {
+            "question": "済州城の周囲の大きさはどれくらいですか？",
+            "answer": "済州城は高麗粛宗の時に周囲4700隻、高さ11隻に拡張されました。その後、朝鮮中宗7年に周囲を5486隻に拡張し、防御施設も整えられました。"
+        },
+        {
+            "question": "済州城はどのような特徴がありますか？",
+            "answer": "済州城は多くの火山岩を利用して築かれており、城内には泉がないため給水に困難がありました。また、壬辰倭乱が起きる前は城壁を5隻高くして築き、防御施設も整えられました。"
+        },
+        {
+            "question": "済州城は何のために使われていたのですか？",
+            "answer": "済州城は防衛のために使用されていました。例えば、明宗10年の乙卯倭変の時には倭敵が侵入して城を包囲し攻撃しましたが、これを退けるのに成功しました。"
+        }
+    ],
+    "word_Count": {
+        "text": 247,
+        "QA": 291
+    }
+}

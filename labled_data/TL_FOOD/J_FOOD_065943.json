@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_065943",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2023-05-18",
+        "domain": "음식점",
+        "title": "덕인홍어집"
+    },
+    "text": "ドクインのエイ家は25年以上フクサンエイと三合、クジラ肉などを販売する飲食店で、木浦(モクポ)庶民の暮らしを収めてきた。三合とは適当にガンギエイの刺身に茹でた豚肉とよく漬かったキムチを上げて一口に食べる料理である。",
+    "QA": [
+        {
+            "question": "ドクインのエイ家はどのくらいの期間、飲食店を営んでいますか？",
+            "answer": "ドクインのエイ家は25年以上飲食店を営んでいます。"
+        },
+        {
+            "question": "フクサンエイとはどのような料理ですか？",
+            "answer": "フクサンエイはガンギエイの刺身に茹でた豚肉とよく漬かったキムチを一緒に食べる料理です。"
+        },
+        {
+            "question": "三合とはどのような料理ですか？",
+            "answer": "三合はガンギエイの刺身に茹でた豚肉とよく漬かったキムチを一緒に食べる料理です。"
+        },
+        {
+            "question": "木浦(モクポ)とはどの地域ですか？",
+            "answer": "木浦(モクポ)は庶民の暮らしを収めた地域です。"
+        }
+    ],
+    "word_Count": {
+        "text": 78,
+        "QA": 154
+    }
+}

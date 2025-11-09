@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001942",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2020-12-28",
+        "domain": "음식점",
+        "title": "Noodles Tree Restaurant 江原華川( 국수나무 강원화천 )"
+    },
+    "text": "Noodles Tree Restaurant 江原華川( 국수나무 강원화천 )\\n\n江原道 華川郡 華川邑 チュンアンロ16-3\\n\nお店で直接製麺した生麺を提供しています。江原道のファチョン郡に位置した韓食専門店です。おすすめは冷麺です。",
+    "QA": [
+        {
+            "question": "このレストランの場所はどこですか？",
+            "answer": "Noodles Tree Restaurant 江原華川は、江原道華川郡華川邑チュンアンロ16-3に位置しています。"
+        },
+        {
+            "question": "このレストランの特徴は何ですか？",
+            "answer": "Noodles Tree Restaurant 江原華川は、お店で直接製麺した生麺を提供しています。"
+        },
+        {
+            "question": "おすすめのメニューは何ですか？",
+            "answer": "江原華川のNoodles Tree Restaurantでは、特に冷麺がおすすめです。"
+        },
+        {
+            "question": "このレストランはどのような種類の料理を提供していますか？",
+            "answer": "Noodles Tree Restaurant 江原華川は、韓食専門店です。"
+        }
+    ],
+    "word_Count": {
+        "text": 89,
+        "QA": 194
+    }
+}

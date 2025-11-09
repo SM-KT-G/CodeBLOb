@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_010958",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "ドンテジ ( 돈돼지 )"
+    },
+    "text": "ドンテジ ( 돈돼지 )\\n\nソウル特別市 中区 明洞9キル 15\\n\n韓国人だけでなく、外国人観光客にも有名なレストランです。おすすめはサーロインです。ソウル特別市の中区に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "ドンテジはどこに位置していますか？",
+            "answer": "ドンテジはソウル特別市の中区に位置しています。"
+        },
+        {
+            "question": "ドンテジはどのようなレストランですか？",
+            "answer": "ドンテジは韓食専門店で、韓国人だけでなく外国人観光客にも人気のあるレストランです。"
+        },
+        {
+            "question": "ドンテジのおすすめメニューは何ですか？",
+            "answer": "ドンテジのおすすめメニューはサーロインです。"
+        }
+    ],
+    "word_Count": {
+        "text": 72,
+        "QA": 103
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_023384",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-06",
+        "domain": "음식점",
+        "title": "秀羅宴 ( 수라연 )"
+    },
+    "text": "秀羅宴 ( 수라연 )\\n\nソウル特別市 江東区 カンドンデロ143-64\\n\n韓定食のコース料理専門店です。代表的なメニューは韓定食です。ソウル特別市のガンドン区に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "秀羅宴はどこに位置していますか？",
+            "answer": "秀羅宴はソウル特別市の江東区に位置しています。"
+        },
+        {
+            "question": "秀羅宴ではどのような料理が提供されていますか？",
+            "answer": "秀羅宴では韓食のコース料理が提供されています。特に代表的なメニューは韓定食です。"
+        },
+        {
+            "question": "秀羅宴の住所を教えてください。",
+            "answer": "秀羅宴の住所はソウル特別市江東区カンドンデロ143-64です。"
+        }
+    ],
+    "word_Count": {
+        "text": 69,
+        "QA": 108
+    }
+}

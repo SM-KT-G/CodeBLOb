@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_002155",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42001&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "신림 URBAN HOTEL&GOLF (호텔어반)"
+    },
+    "text": "URBAN HOTEL & GOLFは高級感のあるゴールドデザインと快適なインテリアを誇るホテルです。 最大ペントハウスは8人、VIPは4人、スイートは4人まで収容可能です。 追加人数は1人当たり2万ウォンの料金が発生します。 プール利用時には追加料金として3万ウォンが別途請求されます。 それだけでなく、愛犬同伴の場合にも追加料金が発生します。 お客様の快適な宿泊のため、プールをご利用の際には到着の2時間前にフロントまでご連絡してご予約ください。",
+    "QA": [
+        {
+            "question": "URBAN HOTEL & GOLFの特徴は何ですか？",
+            "answer": "URBAN HOTEL & GOLFは高級感のあるゴールドデザインと快適なインテリアを誇るホテルです。"
+        },
+        {
+            "question": "最大何人まで泊まれますか？",
+            "answer": "最大ペントハウスは8人、VIPは4人、スイートは4人まで収容可能です。"
+        },
+        {
+            "question": "追加人数の料金はいくらですか？",
+            "answer": "追加人数は1人当たり2万ウォンの料金が発生します。"
+        },
+        {
+            "question": "プール利用には追加料金がありますか？",
+            "answer": "プール利用時には追加料金として3万ウォンが別途請求されます。"
+        },
+        {
+            "question": "愛犬を連れて宿泊する場合、追加料金はかかりますか？",
+            "answer": "愛犬同伴の場合にも追加料金が発生します。"
+        },
+        {
+            "question": "プールを利用する際は予約が必要ですか？",
+            "answer": "お客様の快適な宿泊のため、プールをご利用の際には到着の2時間前にフロントまでご連絡してご予約ください。"
+        }
+    ],
+    "word_Count": {
+        "text": 165,
+        "QA": 241
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_027215",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.goodchoice.kr/product/detail?ano=58201&adcno=1&sel_date=2023-11-07&sel_date2=2023-11-08",
+        "collectedDate": "2023-11-15",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "보령 조아모텔"
+    },
+    "text": "駐車場情報:駐車施設を保有している宿泊施設です。 ) 客室内部の施設:全室TV、全室ヘアドライヤー、全室冷蔵庫完備、全室Free WIFI、全室電気ケトル完備、全室エアコン完備、全室バスタブ完備の追加案内:基準人数以外の人数を追加すると追加料金が発生します。",
+    "QA": [
+        {
+            "question": "駐車場情報はありますか？",
+            "answer": "はい、当施設は駐車場を保有しております。"
+        },
+        {
+            "question": "客室内にはどのような施設がありますか？",
+            "answer": "全室にはTV、ヘアドライヤー、冷蔵庫、無料のWi-Fi、電気ケトル、エアコン、バスタブが完備されています。"
+        },
+        {
+            "question": "基準人数以外の人数を追加するとどうなりますか？",
+            "answer": "基準人数以外の人数を追加する場合、追加料金が発生します。"
+        }
+    ],
+    "word_Count": {
+        "text": 94,
+        "QA": 113
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_004234",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2022-04-21",
+        "domain": "음식점",
+        "title": "카페OotD"
+    },
+    "text": "カフェOotD (카페OotD)\\n\n京畿道華城市東灘ペンロ406リーダースクエア1階\\n\n目と口が楽しいカフェ「OOTDカフェ」は、ホワイトとイエローを基調としたインテリアが特徴の、イエローオタクにはたまらない可愛いカフェです。美しいインテリアと明るい採光が相まって、雰囲気を一層明るく軽快にしてくれます。雰囲気だけでなく、飲み物やデザートの味も素晴らしく、認証ショットの名所としても人気を集めています。",
+    "QA": [
+        {
+            "question": "カフェOotDはどこにありますか？",
+            "answer": "カフェOotDは京畿道華城市東灘ペンロ406リーダースクエア1階にあります。"
+        },
+        {
+            "question": "カフェOotDの特徴は何ですか？",
+            "answer": "カフェOotDの特徴は、ホワイトとイエローを基調としたインテリアです。明るい採光と美しいインテリアが、明るく軽快な雰囲気を作り出しています。"
+        },
+        {
+            "question": "カフェOotDはどんな人におすすめですか？",
+            "answer": "カフェOotDは、イエローオタクや可愛いカフェが好きな人におすすめです。"
+        },
+        {
+            "question": "カフェOotDの飲み物やデザートはどうですか？",
+            "answer": "カフェOotDの飲み物やデザートは素晴らしい味です。評判もとても良く、認証ショットの名所としても人気があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 148,
+        "QA": 203
+    }
+}

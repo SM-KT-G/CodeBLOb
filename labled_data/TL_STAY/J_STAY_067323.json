@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_067323",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2022-10-19",
+        "domain": "숙박",
+        "title": "K-PARK(케이파크)"
+    },
+    "text": "K-PARK(ケイパーク) (K-PARK(케이파크))\\n\n全羅南道麗水市突山邑突山路3108\\n\nK-PARKホステルには、心地よい景色と透明な海、そして広々としたテラスが付いています。また、周辺は静かな湖畔のような雰囲気で、快適で居心地の良い空間です。",
+    "QA": [
+        {
+            "question": "K-PARKホステルの場所はどこですか？",
+            "answer": "K-PARKホステルは全羅南道麗水市突山邑突山路3108にあります。"
+        },
+        {
+            "question": "K-PARKホステルにはどのような設備がありますか？",
+            "answer": "K-PARKホステルには心地よい景色と透明な海、そして広々としたテラスがあります。"
+        },
+        {
+            "question": "周辺の雰囲気はどのような感じですか？",
+            "answer": "K-PARKホステルの周辺は静かな湖畔のような雰囲気で、快適で居心地の良い空間です。"
+        }
+    ],
+    "word_Count": {
+        "text": 94,
+        "QA": 132
+    }
+}

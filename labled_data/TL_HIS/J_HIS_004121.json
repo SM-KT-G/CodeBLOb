@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_004121",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1225&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=79&ccbaAsno=04160000&ccbaCtcd=21&ccbaCpno=4412104160000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2008-10-17",
+        "domain": "문화/역사관광",
+        "title": "디젤전기기관차 2001호"
+    },
+    "text": "ディーゼル電気機関車2001号 (디젤전기기관차 2001호)\\n\n釜山広域市釜山鎮区凡川洞1210釜山鉄道車両整備団\\n\n1950年 , 国家登録文化財 , この機関車は米GM社が製作したもので、韓国に入ってきた最初のディーゼル電気機関車である。 6·25戦争当時、国連軍から軍需物資を輸送するために持ち込み、主に域内で鉄道車両を移動させる入換用機関車として使用した。 この機関車は、韓国のディーゼル機関車時代を切り開く上で重要な役割を果たした。",
+    "QA": [
+        {
+            "question": "このディーゼル電気機関車の製作メーカーはどこですか？",
+            "answer": "このディーゼル電気機関車は米GM社が製作しました。"
+        },
+        {
+            "question": "この機関車はどのような役割を果たしましたか？",
+            "answer": "この機関車は、6・25戦争当時、国連軍から軍需物資を輸送するために使用され、主に鉄道車両の入換用として活躍しました。"
+        },
+        {
+            "question": "この機関車は韓国に入ってきた最初のディーゼル電気機関車ですか？",
+            "answer": "はい、この機関車は韓国に入ってきた最初のディーゼル電気機関車です。"
+        },
+        {
+            "question": "この機関車はどの年に製作されましたか？",
+            "answer": "この機関車は1950年に製作されました。"
+        },
+        {
+            "question": "この機関車は何のために使用されましたか？",
+            "answer": "この機関車は国連軍からの軍需物資輸送や鉄道車両の入換用に使用されました。"
+        }
+    ],
+    "word_Count": {
+        "text": 164,
+        "QA": 212
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_033299",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101933",
+        "collectedDate": "2023-10-06",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "평화열차DMZ"
+    },
+    "text": "平和列車DMZ\n平和列車は京義線を運行する観光列車で、平和生命ベルトを運行することで開発された。 都市通勤型ディーゼル液圧動車を改造し、セマウル号特室等級で運行する。 DMZ train(ディーエムジートレイン)とも呼ばれる。\n",
+    "QA": [
+        {
+            "question": "平和列車DMZはどのような観光列車ですか？",
+            "answer": "平和列車DMZは京義線を運行する観光列車で、平和生命ベルトを運行するために開発されました。都市通勤型ディーゼル液圧動車を改造して、セマウル号特室等級で運行されます。DMZ train(ディーエムジートレイン)とも呼ばれています。"
+        },
+        {
+            "question": "DMZ列車はどのように開発されましたか？",
+            "answer": "DMZ列車は平和生命ベルトを運行するために開発されました。都市通勤型ディーゼル液圧動車を改造して、セマウル号特室等級で運行されるようになりました。"
+        },
+        {
+            "question": "DMZ列車はどの路線を運行していますか？",
+            "answer": "DMZ列車は京義線を運行しています。"
+        },
+        {
+            "question": "DMZ列車の特徴は何ですか？",
+            "answer": "DMZ列車の特徴は、都市通勤型ディーゼル液圧動車を改造していることやセマウル号特室等級で運行されることです。また、平和生命ベルトを運行する観光列車としても知られています。"
+        },
+        {
+            "question": "DMZ列車には別名がありますか？",
+            "answer": "はい、DMZ列車は別名でディーエムジートレインとも呼ばれています。"
+        }
+    ],
+    "word_Count": {
+        "text": 83,
+        "QA": 303
+    }
+}

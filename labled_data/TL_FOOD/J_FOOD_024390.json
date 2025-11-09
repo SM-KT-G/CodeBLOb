@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_024390",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-01",
+        "domain": "음식점",
+        "title": "熱情鶏足 ( 열정닭발 )"
+    },
+    "text": "熱情鶏足 \n京畿道 平沢市 中央2路 134\n様々な韓国料理を味わえる店です。おすすめは鶏足です。京畿道のピョンテク市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "このお店の場所はどこですか？",
+            "answer": "このお店は京畿道平沢市中央2路134に位置しています。"
+        },
+        {
+            "question": "このお店ではどのような韓国料理が味わえますか？",
+            "answer": "このお店では様々な韓国料理が味わえます。特におすすめは鶏足です。"
+        },
+        {
+            "question": "このお店の雰囲気はどんな感じですか？",
+            "answer": "このお店は韓食専門店であり、韓国料理の雰囲気が漂っています。"
+        }
+    ],
+    "word_Count": {
+        "text": 52,
+        "QA": 105
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_011283",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2020-11-25",
+        "domain": "음식점",
+        "title": "ノルブプデチゲ 鉄板焼き 乙支路6街( 놀부부대찌개 철판구이 을지로6가 )"
+    },
+    "text": "ノルブプデチゲ 鉄板焼き 乙支路6街( 놀부부대찌개 철판구이 을지로6가 )\\n\nソウル特別市 中区 乙支路44キル 6\\n\n韓国最大規模のプデチゲチェーン店です。代表的なメニューはプデチゲです。ソウル特別市の中区に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "このお店の名前は何ですか？",
+            "answer": "ノルブプデチゲ 鉄板焼き 乙支路6街( 놀부부대찌개 철판구이 을지로6가 )です。"
+        },
+        {
+            "question": "このお店はどこにありますか？",
+            "answer": "ソウル特別市 中区 乙支路44キル 6に位置しています。"
+        },
+        {
+            "question": "このお店の代表的なメニューは何ですか？",
+            "answer": "代表的なメニューはプデチゲです。"
+        },
+        {
+            "question": "このお店は何を専門としていますか？",
+            "answer": "このお店は韓食を専門としています。"
+        },
+        {
+            "question": "このお店は韓国でどのような評判ですか？",
+            "answer": "ノルブプデチゲは韓国最大規模のプデチゲチェーン店で、評判がとても良いです。"
+        }
+    ],
+    "word_Count": {
+        "text": 88,
+        "QA": 162
+    }
+}

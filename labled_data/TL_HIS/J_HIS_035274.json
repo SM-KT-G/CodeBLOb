@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_035274",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=953&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=00040000&ccbaCtcd=35&ccbaCpno=3413500040000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1984-04-01",
+        "domain": "문화/역사관광",
+        "title": "화산서원비"
+    },
+    "text": "花山書院 碑 (화산서원비)\\n\n全羅北道全州市完山区中和山洞山33-2番地\\n\n全羅北道文化財資料 , この碑石はかつてここにあったペンペンにあったものだ。 ペンペンは朝鮮宣祖11年(1578)に建立し、朝鮮前期の大学者イ·オンジョクとソン·インスの位牌を祀って祭祀を行った場所だ。 イ·オンジョクは全州府尹として赴任し道徳と礼儀で民の教化に努め、ソン·インスは全羅監事として清廉な政治を展開し、それぞれこの地域と縁が深かった。 チャンは孝宗9年(1658)に国から名付けられ後援するチャンに選定されたが、高宗5年(1868)書院撤廃令により取り壊された。 今はソン·シヨルが碑文を作り、ソン·ジュンギルが字を書いたこの碑石だけが残り、ここが以前にソンビたちが文を読んでいた学問の殿堂であることを伝えている。",
+    "QA": [
+        {
+            "question": "この碑石はいつ建てられましたか？",
+            "answer": "この碑石は朝鮮宣祖11年（1578年）に建てられました。"
+        },
+        {
+            "question": "この碑石はどのような人々を祀っていましたか？",
+            "answer": "この碑石は大学者イ・オンジョクとソン・インスの位牌を祀っていました。"
+        },
+        {
+            "question": "なぜこの場所で祭祀が行われていたのですか？",
+            "answer": "イ・オンジョクは全州府尹として赴任し、民の教化に道徳と礼儀で努め、ソン・インスは全羅監事として清廉な政治を展開し、この地域と縁が深かったため、この場所で祭祀が行われていました。"
+        },
+        {
+            "question": "なぜこの碑石だけが残っているのですか？",
+            "answer": "碑石以外の建物は高宗5年(1868)の書院撤廃令により取り壊されましたが、ソン・シヨルが碑文を作り、ソン・ジュンギルが字を書いたこの碑石だけが残っています。"
+        },
+        {
+            "question": "この場所は以前はどのような場所だったのですか？",
+            "answer": "この場所はソンビたちが文を読んでいた学問の殿堂でした。"
+        }
+    ],
+    "word_Count": {
+        "text": 260,
+        "QA": 261
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_009348",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-06",
+        "domain": "음식점",
+        "title": "ソンチョン混ぜそば ( 성천막국수 )"
+    },
+    "text": "ソンチョン混ぜそば ( 성천막국수 )\\n\nソウル特別市 東大門区 チョンノンロ48\\n\n30年以上受け継がれ、長い間、お客様から変わらず愛されてきた老舗です。代表的なメニューは混ぜそばです。ソウル特別市のドンデムン区に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "この店の名前は何ですか？",
+            "answer": "ソンチョン混ぜそば ( 성천막국수 )です。"
+        },
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "ソウル特別市の東大門区チョンノンロ48に位置しています。"
+        },
+        {
+            "question": "この店の歴史はどのくらいありますか？",
+            "answer": "この店は30年以上の歴史があります。"
+        },
+        {
+            "question": "この店の代表的なメニューは何ですか？",
+            "answer": "代表的なメニューは混ぜそばです。"
+        },
+        {
+            "question": "この店はどのような特徴がありますか？",
+            "answer": "この店は韓食専門店であり、長い間お客様から愛されてきた老舗です。"
+        }
+    ],
+    "word_Count": {
+        "text": 89,
+        "QA": 143
+    }
+}

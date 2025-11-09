@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_014801",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-07-27",
+        "domain": "자연관광",
+        "title": "長安山郡立公園（장안산군립공원）"
+    },
+    "text": "長安山郡立公園（장안산군립공원）\\n\n全羅北道 長水郡 渓南面 長安里\\n\n長安山郡立公園は面積6,380平方キロメートル、高さ1,237メートルで、1986年に長水郡郡立公園に指定されました。長安山の東側の稜線に広いススキ畑が広がっており、風になびく様子は壮観です。",
+    "QA": [
+        {
+            "question": "長安山郡立公園は何平方キロメートルの面積ですか？",
+            "answer": "長安山郡立公園の面積は6,380平方キロメートルです。"
+        },
+        {
+            "question": "長安山郡立公園の高さは何メートルですか？",
+            "answer": "長安山郡立公園の高さは1,237メートルです。"
+        },
+        {
+            "question": "長安山郡立公園はいつ指定されましたか？",
+            "answer": "長安山郡立公園は1986年に指定されました。"
+        },
+        {
+            "question": "長安山郡立公園には何が広がっていますか？",
+            "answer": "長安山郡立公園には広いススキ畑が広がっています。"
+        },
+        {
+            "question": "長安山郡立公園の風景はどのようですか？",
+            "answer": "長安山郡立公園の風景は風になびくススキ畑が壮観です。"
+        }
+    ],
+    "word_Count": {
+        "text": 98,
+        "QA": 164
+    }
+}

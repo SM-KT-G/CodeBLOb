@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_024382",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=938&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=24&ccbaAsno=01400000&ccbaCtcd=37&ccbaCpno=2443701400000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2010-04-19",
+        "domain": "문화/역사관광",
+        "title": "안동하회지산고택"
+    },
+    "text": "安東河回地山古宅 (안동하회지산고택)\\n\n慶尚北道安東市河回宗家キル35-14(豊川面、ジサン古宅)\\n\n慶尚北道民俗文化財 , この家は1857年(哲宗8)文科に及第して承政院優勝地、司看院大師間、安東府使を務めた志山柳芝栄(1828~1896)先生が1841年分家する時に盆栽を受けた建物で、当号は存養堂だ。 堂号を尊養堂としたのは清廉潔白と尊心養成を辞表とした先生の信念がよく表れている。 建物の規模は「-」字型の門屋と「コ」字型の母屋およびサランチェで構成されている。 サランチェである志山書楼は心身を修養するために建てる情事の形を取っており、節制された士人の心をよく反映している。",
+    "QA": [
+        {
+            "question": "この古宅はいつ建てられましたか？",
+            "answer": "この古宅は1857年に建てられました。"
+        },
+        {
+            "question": "この古宅の建物の形はどのようなものですか？",
+            "answer": "この古宅の建物は「-」字型の門屋と「コ」字型の母屋およびサランチェで構成されています。"
+        },
+        {
+            "question": "この古宅の堂号は何ですか？",
+            "answer": "この古宅の堂号は尊養堂です。"
+        },
+        {
+            "question": "なぜこの古宅は尊養堂という名前なのですか？",
+            "answer": "この古宅は、先生の信念である清廉潔白と尊心養成を表すために、尊養堂という堂号をつけています。"
+        },
+        {
+            "question": "この古宅のサランチェである志山書楼はどのような目的で建てられましたか？",
+            "answer": "志山書楼は心身を修養するために建てられました。"
+        }
+    ],
+    "word_Count": {
+        "text": 217,
+        "QA": 184
+    }
+}

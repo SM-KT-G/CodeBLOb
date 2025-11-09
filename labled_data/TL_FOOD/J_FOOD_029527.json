@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_029527",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2022-12-27",
+        "domain": "음식점",
+        "title": "꽃다지"
+    },
+    "text": "花の枝 (꽃다지)\\n\n蔚山広域市南区南部循環道路557\\n\n都心の中の田園の黄土家で構成された鴨料理店である。 落ち着いた雰囲気で飾られています。 メニューとして黄土蓮の葉焼き、鴨肉の韓方水炊き、堅炭鴨肉プルゴギ、高麗人参鴨鍋、スンドゥブ鴨しゃぶしゃぶなど多様な鴨料理が味わえる。 (情報提供者:蔚山広域市役所)",
+    "QA": [
+        {
+            "question": "花の枝はどこにありますか？",
+            "answer": "蔚山広域市南区南部循環道路557にあります。"
+        },
+        {
+            "question": "花の枝はどんな雰囲気ですか？",
+            "answer": "落ち着いた雰囲気で飾られています。"
+        },
+        {
+            "question": "花の枝で味わえる鴨料理の種類は何ですか？",
+            "answer": "黄土蓮の葉焼き、鴨肉の韓方水炊き、堅炭鴨肉プルゴギ、高麗人参鴨鍋、スンドゥブ鴨しゃぶしゃぶなど多様な鴨料理が味わえます。"
+        }
+    ],
+    "word_Count": {
+        "text": 115,
+        "QA": 107
+    }
+}

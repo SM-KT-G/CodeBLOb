@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_027483",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-01",
+        "domain": "음식점",
+        "title": "振威長寿村 ( 진위장수촌 )"
+    },
+    "text": "振威長寿村 \n京畿道 平沢市 振威面 鳳南キル 89\n韓国人が保養食として食べる料理を味わえるところです。 代表的なメニューはおこげ入り鶏肉の水炊きです。京畿道のピョンテク市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "このレストランはどこにありますか？",
+            "answer": "振威長寿村  京畿道 平沢市 振威面 鳳南キル 89 にあります。"
+        },
+        {
+            "question": "このレストランのメニューは何ですか？",
+            "answer": "代表的なメニューはおこげ入り鶏肉の水炊きです。"
+        },
+        {
+            "question": "このレストランはどのような場所ですか？",
+            "answer": "韓国人が保養食として食べる料理を味わえるところです。"
+        },
+        {
+            "question": "このレストランはどのような特徴がありますか？",
+            "answer": "京畿道のピョンテク市に位置した韓食専門店です。"
+        }
+    ],
+    "word_Count": {
+        "text": 73,
+        "QA": 132
+    }
+}

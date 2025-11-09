@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_061844",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/view?relicId=52672",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "돌화살촉"
+    },
+    "text": "石矢じり (돌화살촉)\\n\n国籍と時代：「この矢じりは、韓国の原三国時代のものです。」 材質：「石でできた穴岩を使用しています。」 分類：「この矢じりは、産業や生業の一環としての狩猟に使用される猟具の一部です。」 大きさ：「現在の長さは7.5cmで、刃の長さは4.3cmです。」",
+    "QA": [
+        {
+            "question": "この矢じりの材質は何ですか？",
+            "answer": "この矢じりは、石でできた穴岩を使用しています。"
+        },
+        {
+            "question": "この矢じりはどのように使用されますか？",
+            "answer": "この矢じりは、産業や生業の一環としての狩猟に使用される猟具の一部です。"
+        },
+        {
+            "question": "この矢じりの大きさはどれくらいですか？",
+            "answer": "現在の長さは7.5cmで、刃の長さは4.3cmです。"
+        },
+        {
+            "question": "この矢じりはどの時代のものですか？",
+            "answer": "この矢じりは、韓国の原三国時代のものです。"
+        },
+        {
+            "question": "この矢じりはどの国のものですか？",
+            "answer": "この矢じりは、韓国のものです。"
+        }
+    ],
+    "word_Count": {
+        "text": 101,
+        "QA": 150
+    }
+}

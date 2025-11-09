@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_018931",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=941&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=24&ccbaAsno=01810000&ccbaCtcd=37&ccbaCpno=2443701810000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2013-04-08",
+        "domain": "문화/역사관광",
+        "title": "봉화 의양리 권진사댁"
+    },
+    "text": "奉化義陽里クォンジンサ宅 (봉화 의양리 권진사댁)\\n\n慶尚北道奉化郡楽川堂キル39(春陽面)\\n\n慶尚北道民俗文化財 , ソンアムクォン·チョルヨン(1874~1951)が住んでいた家に渡り、村の雲谷に住んでいた彼の父親が1880年頃、ここに建てた建物だ。 先生は朝鮮高宗17年(1880)に司馬市に合格して生員になり、文人名士と愛国志士たちがよく訪ねてきたという。 建物は万聖峰を後にして動向しており、一字型の門屋中央にあるソスル大門を入ると広いサランマダンがある。 左側には3間の寺子屋の庭があり、門屋の向かい側に「ロ」の字型の正針がある。 正針は前面7間·側面8間で構成されており、両腰の部分に土塀を積んで内外庭で空間区分をしている。",
+    "QA": [
+        {
+            "question": "この建物は誰が建てたのですか？",
+            "answer": "この建物はソンアムクォン·チョルヨンの父親が1880年頃に建てました。"
+        },
+        {
+            "question": "この建物はどのような形状ですか？",
+            "answer": "この建物は一字型の門屋と正針の字型の構造を持っています。"
+        },
+        {
+            "question": "この建物の特徴的な部分はありますか？",
+            "answer": "この建物の特徴的な部分は、ソスル大門と広いサランマダン、そして3間の寺子屋の庭です。"
+        },
+        {
+            "question": "この建物はどのような人々によく訪れられていましたか？",
+            "answer": "この建物は文人名士や愛国志士たちがよく訪れていました。"
+        },
+        {
+            "question": "この建物はどのように内外庭が区分されていますか？",
+            "answer": "この建物では正針の両腰の部分に土塀が積まれており、内外庭が空間区分されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 236,
+        "QA": 198
+    }
+}

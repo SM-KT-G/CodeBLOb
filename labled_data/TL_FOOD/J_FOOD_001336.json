@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001336",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-01",
+        "domain": "음식점",
+        "title": "５月の草堂 ( 오월의초당 )"
+    },
+    "text": "５月の草堂 \n江原道 江陵市 蘭雪軒路 234-5\n江陵のポッサム、麺専門のグルメ店と言えば、最初に思い浮かぶところです。 おすすめはカタクチイワシ素麺です。江原道のガンヌン市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "草堂は何月にオープンしましたか？",
+            "answer": "草堂は５月にオープンしました。"
+        },
+        {
+            "question": "草堂はどこの都市に位置していますか？",
+            "answer": "草堂は江原道江陵市に位置しています。"
+        },
+        {
+            "question": "草堂の住所は何番地ですか？",
+            "answer": "草堂の住所は江原道江陵市蓮雪軒路234-5番地です。"
+        },
+        {
+            "question": "草堂でおすすめの料理は何ですか？",
+            "answer": "草堂でおすすめの料理はカタクチイワシ素麺です。"
+        },
+        {
+            "question": "草堂はどのような店ですか？",
+            "answer": "草堂は江原道のガンヌン市に位置した韓食専門店です。"
+        }
+    ],
+    "word_Count": {
+        "text": 74,
+        "QA": 134
+    }
+}

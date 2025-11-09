@@ -1,0 +1,79 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_038678",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://kr.hotels.com/ho1768991200/yong-in-ebinyu-hotel-yong-in-hangug/?chkin=2023-11-14&chkout=2023-11-15&x_pwa=1&rfrr=HSR&pwa_ts=1698977112997&referrerUrl=aHR0cHM6Ly9rci5ob3RlbHMuY29tL0hvdGVsLVNlYXJjaA%3D%3D&useRewards=false&rm1=a2&regionId=6084639&destination=%EC%9B%90%EC%A3%BC%2C+%EA%B0%95%EC%9B%90%2C+%ED%95%9C%EA%B5%AD&destType=MARKET&latLong=37.308249%2C127.929912&sort=RECOMMENDED&top_dp=50108&top_cur=KRW&userIntent=&selectedRoomType=229852255&selectedRatePlan=272371040&expediaPropertyId=55249725&searchId=b9cc7371-4d85-4f93-9e5f-1a4bf998fffe",
+        "collectedDate": "2023-11-15",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "용인 에비뉴 호텔"
+    },
+    "text": "龍仁アベニューホテル\\n\n大韓民国京畿道龍仁市処仁区中部大路1576番キル50\\n\n龍仁アベニューホテルはエバーランドから車で10分以内の距離に位置しています。 当ホテルでは、お客様に無料でWiFiとセルフ駐車サービスを提供しています。 ホテルは計37室の客室を保有しており、チェックインは18:00から22:00まで可能です。 チェックアウトは13:00までです。 新型コロナウイルス感染症に関する制限事項は旅行前に確認する必要があります。 到着時にフロントデスクのスタッフがチェックイン手続きを手伝ってくれる予定で、チェックイン時にはクレジットカード、デビットカードまたは現金保証金が必要で、政府発行の身分証明書に写真が貼られていなければなりません。 チェックインは満19歳以上から可能で、ペットの同伴はできません。 客室内の無料WiFiと共用エリアでも無料WiFiを利用でき、ホテル内には無料のセルフ駐車施設も提供しています。 また、指定喫煙エリアがあります。",
+    "QA": [
+        {
+            "question": "ホテルの名前は何ですか？",
+            "answer": "龍仁アベニューホテル"
+        },
+        {
+            "question": "ホテルの場所はどこですか？",
+            "answer": "大韓民国京畿道龍仁市処仁区中部大路1576番キル50"
+        },
+        {
+            "question": "ホテルからエバーランドまでの所要時間はどれくらいですか？",
+            "answer": "車で10分以内です"
+        },
+        {
+            "question": "ホテルで提供されているサービスはありますか？",
+            "answer": "無料のWiFiとセルフ駐車サービスが提供されています"
+        },
+        {
+            "question": "ホテルの客室数は何室ですか？",
+            "answer": "計37室です"
+        },
+        {
+            "question": "チェックインの時間帯は何時から何時までですか？",
+            "answer": "18:00から22:00までです"
+        },
+        {
+            "question": "チェックアウトの時間は何時までですか？",
+            "answer": "13:00までです"
+        },
+        {
+            "question": "新型コロナウイルス感染症に関する制限事項はありますか？",
+            "answer": "旅行前に確認する必要があります"
+        },
+        {
+            "question": "チェックイン時に必要なものは何ですか？",
+            "answer": "クレジットカード、デビットカードまたは現金保証金が必要で、政府発行の身分証明書に写真が貼られていなければなりません"
+        },
+        {
+            "question": "チェックインの年齢制限はありますか？",
+            "answer": "満19歳以上から可能です"
+        },
+        {
+            "question": "ペットの同伴は可能ですか？",
+            "answer": "ペットの同伴はできません"
+        },
+        {
+            "question": "ホテル内で利用できるWiFiはありますか？",
+            "answer": "客室内の無料WiFiと共用エリアでも無料WiFiが利用できます"
+        },
+        {
+            "question": "ホテルに駐車場はありますか？",
+            "answer": "ホテル内には無料のセルフ駐車施設があります"
+        },
+        {
+            "question": "喫煙エリアはありますか？",
+            "answer": "指定喫煙エリアがあります"
+        }
+    ],
+    "word_Count": {
+        "text": 317,
+        "QA": 379
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_055332",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "ソンベク食堂 ( 송백식당 )"
+    },
+    "text": "ソンベク食堂 ( 송백식당 )\\n\nソウル特別市 ヨンドゥンポ区 ダンサンロ38ギル15\\n\nテンジャンを溶いたスープに、牛のともばら肉と各種の野菜を入れて煮込んだチゲ料理です。ソウル特別市のヨンドゥンポ区に位置した韓食専門店です。おすすめはたらスープです。",
+    "QA": [
+        {
+            "question": "ソンベク食堂の場所はどこですか？",
+            "answer": "ソンベク食堂はソウル特別市のヨンドゥンポ区に位置しています。"
+        },
+        {
+            "question": "ソンベク食堂のおすすめ料理は何ですか？",
+            "answer": "ソンベク食堂のおすすめはたらスープです。"
+        },
+        {
+            "question": "ソンベク食堂のスープはどのように作られますか？",
+            "answer": "ソンベク食堂のスープはテンジャンを溶いたもので、牛のともばら肉と各種の野菜を入れて煮込まれます。"
+        }
+    ],
+    "word_Count": {
+        "text": 94,
+        "QA": 114
+    }
+}

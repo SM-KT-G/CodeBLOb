@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_063123",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/view?relicId=55088",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "띠고리 조각"
+    },
+    "text": "帯環の断片 (띠고리 조각)\\n\nこの作品の国籍は韓国で、時代はガヤ時代です。材質は金属で、具体的には金銅です。分類は交通や通信、馬具、装飾など様々な要素を含んでいます。大きさは現在の長さが4.8cm、現在の幅が3.1cm、そして高さが3.2cmです。",
+    "QA": [
+        {
+            "question": "この作品の国籍はどこですか？",
+            "answer": "韓国です。"
+        },
+        {
+            "question": "この作品の時代は何時代ですか？",
+            "answer": "ガヤ時代です。"
+        },
+        {
+            "question": "この作品の材質は何ですか？",
+            "answer": "金属で、具体的には金銅です。"
+        },
+        {
+            "question": "この作品は何に分類されますか？",
+            "answer": "交通や通信、馬具、装飾など様々な要素を含んでいます。"
+        },
+        {
+            "question": "この作品の大きさは何ですか？",
+            "answer": "現在の長さが4.8cm、現在の幅が3.1cm、そして高さが3.2cmです。"
+        }
+    ],
+    "word_Count": {
+        "text": 92,
+        "QA": 117
+    }
+}

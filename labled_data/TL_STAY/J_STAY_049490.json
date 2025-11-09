@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_049490",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2023-06-10",
+        "domain": "숙박",
+        "title": "The Park Guest House"
+    },
+    "text": "#本施設は、外国人観光都市民宿業に外国人だけが利用が可能で、韓国人は利用できません。の釜山旅行のメッカに位置したThe Park Guest Houseはアクセス性、安らかな睡眠、ものすごい仮性費が長所と釜山のキャンアンリ海水浴場1分、地下鉄の広安駅3分、クァンアンリ海水浴場の入口バス停留所2分、ベクスコ/新世界(シンセゲ)百貨店10分の距離に位置している。",
+    "QA": [
+        {
+            "question": "この宿泊施設はどこに位置していますか？",
+            "answer": "The Park Guest Houseは釜山のキャンアンリ海水浴場から徒歩1分の場所に位置しています。"
+        },
+        {
+            "question": "なぜこの宿泊施設は外国人だけが利用できるのですか？",
+            "answer": "この宿泊施設は外国人観光都市民宿業に特化しており、外国人の方々の利用を優先しています。"
+        },
+        {
+            "question": "この宿泊施設のアクセス性はどうですか？",
+            "answer": "The Park Guest Houseは広安駅から徒歩3分の場所にあり、クァンアンリ海水浴場の入口バス停留所からも徒歩2分の場所に位置していますので、アクセスが便利です。"
+        },
+        {
+            "question": "この宿泊施設の特徴は何ですか？",
+            "answer": "The Park Guest Houseの特徴は、安らかな睡眠とものすごい仮性費です。ゲストの快適な滞在をサポートしています。"
+        },
+        {
+            "question": "この宿泊施設からどの観光スポットに近いですか？",
+            "answer": "The Park Guest Houseはベクスコ/新世界(シンセゲ)百貨店まで徒歩10分の距離に位置していますので、お買い物や観光にも便利です。"
+        }
+    ],
+    "word_Count": {
+        "text": 132,
+        "QA": 306
+    }
+}

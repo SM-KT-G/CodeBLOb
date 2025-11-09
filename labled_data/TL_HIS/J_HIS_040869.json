@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_040869",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2023-08-09",
+        "domain": "문화/역사관광",
+        "title": "‘직지’의 고장이자 쉼과 여유의 휴양지"
+    },
+    "text": "世界初の金属活字の印刷本<直指シムチェです寺&gt;この印刷されたところ、清州(チョンジュ)。交通の要衝地として負担なしに訪れることいい休養地としても人気が高い。清州(チョンジュ)に行ったら休みや余裕をいっぱい積んだ平和な旅行ができる。",
+    "QA": [
+        {
+            "question": "この金属活字の印刷本<直指シムチェです寺>はどこで印刷されたのですか？",
+            "answer": "この金属活字の印刷本は清州(チョンジュ)で印刷されました。"
+        },
+        {
+            "question": "清州(チョンジュ)はどんな場所ですか？",
+            "answer": "清州(チョンジュ)は交通の要衝地として知られ、休養地としても人気があります。"
+        },
+        {
+            "question": "清州(チョンジュ)に行ったら何ができますか？",
+            "answer": "清州(チョンジュ)に行ったら、休みや余裕をいっぱい積んだ平和な旅行ができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 86,
+        "QA": 133
+    }
+}

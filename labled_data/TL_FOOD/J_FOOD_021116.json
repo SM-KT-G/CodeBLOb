@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_021116",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "白家面屋 ( 백가면옥 )"
+    },
+    "text": "白家面屋 ( 백가면옥 )\n京畿道 平沢市 平沢1路 13\n手作りの出汁を使用する冷麺専門店です。おすすめは冷麺です。京畿道のピョンテク市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "白家面屋はどこに位置していますか？",
+            "answer": "白家面屋は京畿道平沢市平沢1路 13に位置しています。"
+        },
+        {
+            "question": "白家面屋ではどのような料理を提供していますか？",
+            "answer": "白家面屋では手作りの出汁を使用した冷麺を専門に提供しています。冷麺がおすすめです。"
+        },
+        {
+            "question": "白家面屋はどのようなお店ですか？",
+            "answer": "白家面屋は韓食専門のお店です。京畿道のピョンテク市に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 60,
+        "QA": 115
+    }
+}

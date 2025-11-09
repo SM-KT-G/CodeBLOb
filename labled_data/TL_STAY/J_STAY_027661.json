@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_027661",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42030&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "경주 10LOT펜션"
+    },
+    "text": "天恵の自然環境と最高の施設を備えたテンロットペンションへようこそ。 周辺の景観が優れた場所に位置し、美しい景色と澄んだ空気をお楽しみいただけます。 また、室内インテリアや様々な付帯サービスで快適な時間をお過ごしいただけます。 22時以降に入室される場合、ペンションまで事前にご連絡ください。 \".",
+    "QA": [
+        {
+            "question": "テンロットペンションはどのような自然環境に位置していますか？",
+            "answer": "テンロットペンションは周辺の景観が優れた場所に位置しており、美しい景色と澄んだ空気をお楽しみいただけます。"
+        },
+        {
+            "question": "テンロットペンションの施設にはどのような特徴がありますか？",
+            "answer": "テンロットペンションは自然環境だけでなく、室内インテリアや様々な付帯サービスでも快適な時間をお過ごしいただけます。"
+        },
+        {
+            "question": "テンロットペンションへ22時以降に入室する場合はどうすれば良いですか？",
+            "answer": "22時以降に入室される場合は、事前にペンションまでご連絡ください。"
+        }
+    ],
+    "word_Count": {
+        "text": 108,
+        "QA": 173
+    }
+}

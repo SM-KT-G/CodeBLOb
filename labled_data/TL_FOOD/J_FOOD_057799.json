@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_057799",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2023-08-28",
+        "domain": "음식점",
+        "title": "갯마을풍천장어"
+    },
+    "text": "国内産に当日空輸しているうなぎ堅炭の塩焼きは肉質がしこしことしてやわらかい味が逸品だ。また、お昼特選メニューにコダリの煮物と釜飯を味わえ、甘辛甘くてやわらかい味に人気がとてもよい。このほかにもアヒル転覆、うるしの水炊き、陵が転覆アヒルの水炊きなどのような保養食も味わうことができる。",
+    "QA": [
+        {
+            "question": "うなぎ堅炭の塩焼きはどんな肉質ですか？",
+            "answer": "うなぎ堅炭の塩焼きは肉質がしこしことしてやわらかい味の逸品です。"
+        },
+        {
+            "question": "お昼特選メニューには何がありますか？",
+            "answer": "お昼特選メニューにはコダリの煮物と釜飯があります。甘辛くてやわらかい味で人気です。"
+        },
+        {
+            "question": "保養食として味わえるメニューはありますか？",
+            "answer": "はい、アヒル転覆、うるしの水炊き、陵が転覆アヒルの水炊きなどの保養食も味わうことができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 103,
+        "QA": 129
+    }
+}

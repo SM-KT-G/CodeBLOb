@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_115848",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=620&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=03780000&ccbaCtcd=11&ccbaCpno=2111103780000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2015-12-10",
+        "domain": "문화/역사관광",
+        "title": "최북필 단구승유도"
+    },
+    "text": "朝鮮後期の書道大家であるイグヮンサの作品である<チェブクピルダンクスン誘導>は1749年に作成された。この作品はイグヮンサと知人たちが一緒にハンビョクル一帯を遊覧し、イグヮンサが残した記念物として、彼の字と最北の絵が盛り込まれている。イグヮンサの字は年度を知ることができるキニョンジャクに、ソイェチェの変化過程を理解するのに大きくた資料になった。最北の絵は彼の38歳の時の言い方を見ることができ、南宗画を基にした真景山水画として研究対象となる資料だ。<ダンクスン誘導>は絵と出席者の名前が一緒に記録された形式であり、これは17世紀以前のギェフェも形式を再現したもので、会話私的に意味が大きく、重要である。この作品は、ソウル市有形文化財に指定されて保存されるだけの価値がある。",
+    "QA": [
+        {
+            "question": "この作品はいつ作成されましたか？",
+            "answer": "1749年に作成されました。"
+        },
+        {
+            "question": "誰がこの作品を作成しましたか？",
+            "answer": "イグヮンサと知人たちが一緒に作成しました。"
+        },
+        {
+            "question": "この作品には何が盛り込まれていますか？",
+            "answer": "イグヮンサの字と最北の絵が盛り込まれています。"
+        },
+        {
+            "question": "この作品はどのような形式で記録されていますか？",
+            "answer": "絵と出席者の名前が一緒に記録された形式であり、17世紀以前のギェフェも形式を再現したものです。"
+        },
+        {
+            "question": "なぜこの作品は保存される価値があると考えられていますか？",
+            "answer": "イグヮンサの字は年度を知ることができ、最北の絵は彼の38歳の時の言い方を見ることができ、南宗画を基にした真景山水画として研究対象となる資料です。"
+        }
+    ],
+    "word_Count": {
+        "text": 247,
+        "QA": 203
+    }
+}

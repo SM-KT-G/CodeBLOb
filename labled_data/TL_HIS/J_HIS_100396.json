@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_100396",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ja",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2023-02-06",
+        "domain": "문화/역사관광",
+        "title": "전주디지털독립영화관_1"
+    },
+    "text": "独立映画マニアたちのアジト映画の後半製造施設を備えたデジタル映画映像統合ソリューション技術センターだ。また、全州地域唯一の独立芸術映画上映館をそなえている。98席規模で独立映画を愛するファンたちのアジトの役割を果たす。1階の資料閲覧室では、国内外の独立・芸術映画のBlu-ray DVDを視聴することができ、韓国映像資料院のVODサービスを通じて韓国の古典映画を堪能できる。",
+    "QA": [
+        {
+            "question": "この施設で上映される映画のジャンルは何ですか？",
+            "answer": "この施設では独立映画や芸術映画が上映されます。"
+        },
+        {
+            "question": "上映館の規模はどのくらいですか？",
+            "answer": "上映館の規模は98席です。"
+        },
+        {
+            "question": "資料閲覧室でできることは何ですか？",
+            "answer": "資料閲覧室では国内外の独立・芸術映画のBlu-ray DVDを視聴したり、韓国映像資料院のVODサービスを通じて韓国の古典映画を堪能することができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 137,
+        "QA": 123
+    }
+}

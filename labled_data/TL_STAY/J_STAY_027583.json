@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_027583",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-02-05",
+        "domain": "숙박",
+        "title": "蚕室観光ホテル（잠실관광호텔）"
+    },
+    "text": "蚕室観光ホテル（잠실관광호텔）\\n\nソウル特別市 松坡区 三田路 67\\n\nソウル特別市松坡区蚕室洞に位置する蚕室（チャムシル）観光ホテルは、ソウル都心空港ターミナル、COEX、蚕室オリンピック主競技場、ロッテワールドなどに隣接しており便利です。",
+    "QA": [
+        {
+            "question": "蚕室観光ホテルはどこに位置していますか？",
+            "answer": "蚕室観光ホテルはソウル特別市松坡区蚕室洞に位置しています。"
+        },
+        {
+            "question": "蚕室観光ホテルの周辺にはどのような観光スポットがありますか？",
+            "answer": "蚕室観光ホテルの周辺にはソウル都心空港ターミナル、COEX、蚕室オリンピック主競技場、ロッテワールドなどがあります。"
+        },
+        {
+            "question": "蚕室観光ホテルの周辺には便利な施設がありますか？",
+            "answer": "はい、蚕室観光ホテルの周辺には便利な施設があります。ソウル都心空港ターミナル、COEX、蚕室オリンピック主競技場、ロッテワールドなどに隣接しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 90,
+        "QA": 173
+    }
+}

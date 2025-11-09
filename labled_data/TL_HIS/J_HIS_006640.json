@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_006640",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1129&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=03580000&ccbaCtcd=37&ccbaCpno=3413703580000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1999-03-11",
+        "domain": "문화/역사관광",
+        "title": "강파헌정침"
+    },
+    "text": "強派憲政針 (강파헌정침)\\n\n慶尚北道盈徳郡昌水面仁良5ギル38(仁良里)\\n\n1650年 , 慶尚北道文化財資料 , 朝鮮粛宗の時、清白里として名声が高かった康派クォン·サンイム(1622~1700)公が建てた住居だ。 本来は「ロ」字型の家だったが、サランチェが火災で焼失した後、母屋の前面左側に建て直し、今は「コ」字型の平面構造を見せている。 母屋はㄱ字型平面で右側から奥の間·床·部屋を配列し、右側の奥の間の前面に2間規模の台所を施設した。 奥の間は穀物などの収納のための空間である道場部屋を持っている。 板の間には双開き戸を2つずつ設置し、夏はもちろん冬の室内温度調節機能まで考慮した。 サランチェは中央の床を中心に両側にオンドル部屋をそれぞれ置いた。 出居前の右側壁面に沿って土塀を設置し、訪問客に母屋の視線を遮断させ、家屋の内外空間を分離させておいた。 17世紀後期に建築された建物で、慶尚北道東北部地域の住居タイプを備えている。",
+    "QA": [
+        {
+            "question": "この建物はいつ建てられましたか？",
+            "answer": "1650年に建てられました。"
+        },
+        {
+            "question": "この建物は誰によって建てられましたか？",
+            "answer": "康派クォン・サンイム公によって建てられました。"
+        },
+        {
+            "question": "この建物はどのような形をしていますか？",
+            "answer": "元々は「ロ」字型の家でしたが、火災で焼失後に「コ」字型の平面構造に建て直されました。"
+        },
+        {
+            "question": "この建物の中にはどのような部屋がありますか？",
+            "answer": "母屋には奥の間・床・部屋が配列されており、奥の間の前面には2間規模の台所があります。また、道場部屋として使われる空間もあります。"
+        },
+        {
+            "question": "この建物はどのような特徴がありますか？",
+            "answer": "建物内の温度調節機能が備えられており、板の間には双開き戸が設置されています。また、訪問客に母屋の視線を遮断するために土塀が設置されています。"
+        },
+        {
+            "question": "この建物はどの地域の住居タイプを備えていますか？",
+            "answer": "この建物は慶尚北道東北部地域の住居タイプを備えています。"
+        }
+    ],
+    "word_Count": {
+        "text": 309,
+        "QA": 264
+    }
+}

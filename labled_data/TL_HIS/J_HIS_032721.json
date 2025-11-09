@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_032721",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=976&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=00230000&ccbaCtcd=36&ccbaCpno=3413600230000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1984-02-29",
+        "domain": "문화/역사관광",
+        "title": "태안사"
+    },
+    "text": "泰安寺 (태안사)\\n\n全羅南道谷城郡竹谷面泰安路622-215(元達里)\\n\n全羅南道文化財資料、泰安寺は統一新羅景徳王元年(742)に名前の分からない僧侶3人が建てたと伝えている。 高麗時代には光子大師が大きく増やして建てたが、この時寺の規模は計40棟余りに110間であり、法堂には高さ1.4mの薬師如来鉄仏坐像を祀ったようだ。 高麗高宗10年(1223)には当時の執権者である崔祐が建て直し、朝鮮時代には粛宗10年(1684)に住職各県が倉庫を新しく建てたという記録がある。 特に朝鮮初期に太宗の次男孝寧大君がここに泊まった縁があるところだ。 韓国戦争の時に多くの被害を受け、現在ある建物のほとんどが復元されたのだ。 境内には恵鉄禅師の浮屠である敵である禅師調輪清浄塔(宝物第273号)、ユンダの浮屠である光子大師塔(宝物第274号)、光子大師碑(宝物第275号)、僧舞に使用していた泰安寺大原(宝物第956号)、泰安寺東宗(宝物第1349号)、泰安寺一柱門(全羅南道有形文化財第83号)、泰安寺などがある。",
+    "QA": [
+        {
+            "question": "泰安寺はいつ建てられましたか？",
+            "answer": "泰安寺は統一新羅景徳王元年(742)に建てられました。"
+        },
+        {
+            "question": "泰安寺はどのようにして増築されましたか？",
+            "answer": "高麗時代には光子大師が泰安寺を大きく増築しました。"
+        },
+        {
+            "question": "泰安寺にはどのような仏像が祀られていますか？",
+            "answer": "泰安寺の法堂には高さ1.4mの薬師如来鉄仏坐像が祀られています。"
+        },
+        {
+            "question": "泰安寺はどのような歴史的な縁がありますか？",
+            "answer": "朝鮮初期には太宗の次男孝寧大君が泰安寺に泊まった縁があります。"
+        },
+        {
+            "question": "泰安寺の建物はどのような状態ですか？",
+            "answer": "韓国戦争の時に多くの被害を受けましたが、現在の建物のほとんどは復元されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 335,
+        "QA": 184
+    }
+}

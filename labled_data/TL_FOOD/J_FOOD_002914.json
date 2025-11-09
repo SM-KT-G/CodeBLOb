@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_002914",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-05",
+        "domain": "음식점",
+        "title": "イハク食堂 ( 이학식당 )"
+    },
+    "text": "イハク食堂 ( 이학식당 )\\n\n全羅南道 海南郡 海南邑 プクブ循環道路83\\n\n経歴40年のシェフが経営する店です。おすすめは魚焼きです。全羅南道のヘナム郡に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "イハク食堂はどこにありますか？",
+            "answer": "イハク食堂は全羅南道海南郡海南邑のプクブ循環道路83にあります。"
+        },
+        {
+            "question": "イハク食堂の経営者は誰ですか？",
+            "answer": "イハク食堂の経営者は40年の経験を持つシェフです。"
+        },
+        {
+            "question": "イハク食堂でおすすめの料理は何ですか？",
+            "answer": "イハク食堂でおすすめの料理は魚焼きです。"
+        },
+        {
+            "question": "イハク食堂はどんな店ですか？",
+            "answer": "イハク食堂は韓食専門店で、全羅南道のヘナム郡に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 68,
+        "QA": 125
+    }
+}

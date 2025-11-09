@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_022191",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-10-08",
+        "domain": "음식점",
+        "title": "寺洞面屋 ( 사동면옥 )"
+    },
+    "text": "寺洞面屋 ( 사동면옥 )\\n\nソウル特別市 鐘路区 仁寺洞8キル 9\\n\n黄海道式餃子を販売する、35年以上の伝統を持つお店です。代表的なメニューは餃子の寄せ鍋です。ソウル特別市のジョンノ区に位置した韓国料理店です。",
+    "QA": [
+        {
+            "question": "寺洞面屋はどのようなお店ですか？",
+            "answer": "寺洞面屋は黄海道式餃子を販売する、35年以上の伝統を持つお店です。代表的なメニューは餃子の寄せ鍋です。"
+        },
+        {
+            "question": "寺洞面屋の場所はどこですか？",
+            "answer": "寺洞面屋はソウル特別市鐘路区仁寺洞8キル9に位置しています。"
+        },
+        {
+            "question": "どのような料理が提供されていますか？",
+            "answer": "寺洞面屋では餃子の寄せ鍋を代表的なメニューとして提供しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 79,
+        "QA": 118
+    }
+}

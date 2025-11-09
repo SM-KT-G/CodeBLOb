@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_013254",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-06",
+        "domain": "음식점",
+        "title": "ヘソンカルグクス ( 혜성칼국수 )"
+    },
+    "text": "ヘソンカルグクス ( 혜성칼국수 )\\n\nソウル特別市 東大門区 ワンサンロ247-1\\n\n50年伝統の自家製カルグクスを使用しています。代表的なメニューは鶏肉カルグクスです。ソウル特別市のドンデムン区に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "ヘソンカルグクスはどこにありますか？",
+            "answer": "ヘソンカルグクスはソウル特別市東大門区ワンサンロ247-1に位置しています。"
+        },
+        {
+            "question": "ヘソンカルグクスの特徴は何ですか？",
+            "answer": "ヘソンカルグクスは50年の伝統を持つ自家製カルグクスを使用しており、特に鶏肉カルグクスが代表的なメニューです。"
+        },
+        {
+            "question": "ヘソンカルグクスはどんなお店ですか？",
+            "answer": "ヘソンカルグクスはソウル特別市のドンデムン区に位置した韓食専門店です。"
+        }
+    ],
+    "word_Count": {
+        "text": 83,
+        "QA": 132
+    }
+}

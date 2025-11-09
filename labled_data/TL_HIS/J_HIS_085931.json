@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_085931",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=927&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=24&ccbaAsno=00300000&ccbaCtcd=36&ccbaCpno=2443600300000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1990-02-24",
+        "domain": "문화/역사관광",
+        "title": "승주조순탁가옥"
+    },
+    "text": "全羅南道に位置した沃川(オクチョン)チョ容疑者相互政派の宗家は、朝鮮哲宗6年(1855)にチョビョンイクが建立したビルでサランチェ、母屋、門屋、離れで構成されている。門屋を過ぎると、廊の庭と並んでサランチェがいて、中文(チュンムン)を過ぎると、母屋がある。別棟には母屋の隣に位置している。門屋は表5間・側面1間の大きさであり、門を通じて入ると2間は召し使い部屋で、残りの2間は馬屋に使用されている。母屋は表6間ほどの屋根は入母屋屋根を備えている。サランチェは表4間・側面2間ほどの母屋と同一の入母屋屋根を持っている。この家は京畿(キョンギ)地方両班の家とは違って広く開放的な中庭を備えており、伝統両班の家の特徴を見せてくれる。朝鮮後期の建物として当時、両班の家の生活を垣間見ることができる貴重な資料になった。",
+    "QA": [
+        {
+            "question": "この家はいつ建てられましたか？",
+            "answer": "この家は朝鮮哲宗6年(1855)に建立されました。"
+        },
+        {
+            "question": "この家はどのような構造になっていますか？",
+            "answer": "この家はサランチェ、母屋、門屋、離れで構成されています。"
+        },
+        {
+            "question": "母屋の屋根の特徴は何ですか？",
+            "answer": "母屋の屋根は入母屋屋根を備えています。"
+        },
+        {
+            "question": "この家にはどんな中庭がありますか？",
+            "answer": "この家には広く開放的な中庭が備えられています。"
+        },
+        {
+            "question": "この家が見学者に提供する貴重な資料とは何ですか？",
+            "answer": "この家は朝鮮後期の建物として、当時の両班の家の生活を垣間見ることができる貴重な資料となっています。"
+        }
+    ],
+    "word_Count": {
+        "text": 259,
+        "QA": 171
+    }
+}

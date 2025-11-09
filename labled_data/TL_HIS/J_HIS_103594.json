@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_103594",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=376&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=00130000&ccbaCtcd=24&ccbaCpno=2112400130000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1989-03-20",
+        "domain": "문화/역사관광",
+        "title": "증심사오백전"
+    },
+    "text": "光州広域市有形文化財、無等山の西麓にある証心寺は、9世紀中頃に鉄鑑禅師が建てました。高麗宣宗10年(1094)に恵祖国師が修理し、朝鮮世宗25年(1443)に金芳が建て直しました。その後、文禄·慶長の役(1592)の時に焼失したものを光海君1年(1609)に建て、数回の修理を経て今日に至っています。五百殿は大雄殿の裏側に建てられた法堂で、現在無等山に残っている寺院の中で最古のものです",
+    "QA": [
+        {
+            "question": "証心寺はいつ建てられましたか？",
+            "answer": "証心寺は9世紀中頃に鉄鑑禅師によって建てられました。"
+        },
+        {
+            "question": "証心寺は誰によって修理されましたか？",
+            "answer": "証心寺は高麗宣宗10年(1094)に恵祖国師によって修理されました。"
+        },
+        {
+            "question": "無等山にある証心寺の五百殿は何のために建てられましたか？",
+            "answer": "五百殿は法堂として建てられ、大雄殿の裏側に位置しています。無等山に残る寺院の中で最古のものです。"
+        }
+    ],
+    "word_Count": {
+        "text": 141,
+        "QA": 123
+    }
+}

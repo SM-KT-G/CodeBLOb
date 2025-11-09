@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_030413",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=300&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=16&ccbaAsno=02810000&ccbaCtcd=35&ccbaCpno=1363502810000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1982-11-09",
+        "domain": "자연관광",
+        "title": "남원 진기리 느티나무"
+    },
+    "text": "南原ジンキリのケヤキの木は、天然記念物に指定されて保護されている木だ。この木は韓国を含めて日本、台湾、中国など暖かい地域で育っている。枝が四方にひろがって丸く見え、5月には花が咲く10月には円盤状の実が熟す。太い幹と長い寿命を持っているこの木は、憩いの場の役割や村を保護したり、守る役割をする精子木で利用された。約600歳と推定され、大きさは高さ23mで胸の高さの寸法は8.25mだ。ジンキリのケヤキの木は朝鮮時代の世祖時代、大将の牛工が植えたものと伝わっており、子孫たちは祠を建て、寒食の日の祭祀を行っている。村の近くにはウさん家の烈女門もいる。この木は丹陽(タンヤン)禹氏が村を成し遂げた由来を知ることができる文化的価値と古い生物学的保存価値を持っている。",
+    "QA": [
+        {
+            "question": "このケヤキの木は何時の時代に植えられましたか？",
+            "answer": "このケヤキの木は朝鮮時代の世祖時代に、大将の牛工によって植えられたと伝わっています。"
+        },
+        {
+            "question": "ケヤキの木はどのような役割を果たしてきましたか？",
+            "answer": "ケヤキの木は憩いの場の役割や村を保護したり、守る役割をする精子木として利用されてきました。"
+        },
+        {
+            "question": "ケヤキの木の大きさや寸法はどのくらいですか？",
+            "answer": "ケヤキの木の高さは23mで、胸の高さの寸法は8.25mあります。"
+        },
+        {
+            "question": "ケヤキの木の年齢はどのくらいですか？",
+            "answer": "ケヤキの木は約600歳と推定されています。"
+        },
+        {
+            "question": "ケヤキの木にはどのような祭祀が行われていますか？",
+            "answer": "ケヤキの木には子孫たちによって祠が建てられ、寒食の日の祭祀が行われています。"
+        },
+        {
+            "question": "ケヤキの木はどのような文化的価値を持っていますか？",
+            "answer": "ケヤキの木は丹陽(タンヤン)禹氏が村を成し遂げた由来を知ることができる文化的価値と古い生物学的保存価値を持っています。"
+        }
+    ],
+    "word_Count": {
+        "text": 242,
+        "QA": 273
+    }
+}

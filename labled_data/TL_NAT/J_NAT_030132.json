@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_030132",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=837&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=00910000&ccbaCtcd=38&ccbaCpno=2333800910000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1988-12-23",
+        "domain": "자연관광",
+        "title": "김해 양동산성"
+    },
+    "text": "金海 ヤンドン・サンソン\\n\n慶尚南道金海市周村面良洞山39-1、2\\n\n慶尚南道記念物、慶尚南道金海市舟村面ヤンドンリとネサム里の境界に位置した山嶺をまとった包谷式山城で、一部は土で積んで、一部は一通り整えられた自然石を使用した。この山城は文献上''歌曲酸性''、''陽動酸性''と呼んでいる。金海平野と洛東江河口を効果的に眺望できるおり、周囲は約800mで城壁の高さと幅は2.5mだ。南側と北側の聞いたのには礎石が残っていて、お城の中には井戸跡の痕跡と行けば土器の破片が確認された。この山城は周辺のヤンドンリ古墳と流下里貝の山と関係がいるとみており、原三国時代で行けばまでの歴史研究に重要な資料と評価されている。",
+    "QA": [
+        {
+            "question": "この山城はどのような名前で呼ばれていますか？",
+            "answer": "この山城は文献上''歌曲酸性''、''陽動酸性''と呼ばれています。"
+        },
+        {
+            "question": "山城の周囲の規模はどのくらいですか？",
+            "answer": "山城の周囲は約800mで、城壁の高さと幅は2.5mです。"
+        },
+        {
+            "question": "どのような景色を眺めることができますか？",
+            "answer": "この山城からは金海平野と洛東江河口を効果的に眺望することができます。"
+        },
+        {
+            "question": "お城の中には何が確認されましたか？",
+            "answer": "お城の中には井戸跡の痕跡と行けば土器の破片が確認されました。"
+        },
+        {
+            "question": "この山城と周辺の古墳との関係は何ですか？",
+            "answer": "この山城は周辺のヤンドンリ古墳と流下里貝の山と関係があるとみられ、原三国時代までの歴史研究に重要な資料と評価されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 225,
+        "QA": 208
+    }
+}

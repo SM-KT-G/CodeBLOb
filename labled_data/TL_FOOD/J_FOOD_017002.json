@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_017002",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-05",
+        "domain": "음식점",
+        "title": "鏡浦台ゾニョク刺身専門店 ( 경포대저녁횟집 )"
+    },
+    "text": "鏡浦台ゾニョク刺身専門店 ( 경포대저녁횟집 )\\n\n江原道 ガンヌン市 チャンヘロ451-1\\n\n海を見ながらズワイガニが味わえる店です。江原道のガンヌン市に位置した韓食専門店です。代表的なメニューはズワイガニです。",
+    "QA": [
+        {
+            "question": "このお店の場所はどこですか？",
+            "answer": "鏡浦台ゾニョク刺身専門店は、江原道ガンヌン市チャンヘロ451-1に位置しています。"
+        },
+        {
+            "question": "このお店の特徴は何ですか？",
+            "answer": "このお店の特徴は、海を見ながらズワイガニが味わえることです。"
+        },
+        {
+            "question": "このお店の代表的なメニューは何ですか？",
+            "answer": "このお店の代表的なメニューはズワイガニです。"
+        }
+    ],
+    "word_Count": {
+        "text": 79,
+        "QA": 101
+    }
+}

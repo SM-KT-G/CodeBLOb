@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_056910",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2023-04-13",
+        "domain": "숙박",
+        "title": "온계종택 삼백당[한국관광 품질인증/Korea Quality]"
+    },
+    "text": "オンギェ宗宅サムベクダンは退渓・李滉先生の実兄であるオンギェ理解先生が住んでいた昔ながらの跡地に復元した韓屋である。村の歴史を象徴する500年クリが訪問客を迎える。客室によって化粧室兼用のバスルームや空調が設置されている。共用シャワー室や洗濯室、厨房、倉庫、板の間は共同で使用する。",
+    "QA": [
+        {
+            "question": "この韓屋はどのように復元されましたか？",
+            "answer": "この韓屋は、オンギェ理解先生が住んでいた昔ながらの跡地に復元されました。"
+        },
+        {
+            "question": "この韓屋にはどのような設備がありますか？",
+            "answer": "客室には化粧室兼用のバスルームや空調があります。共用シャワー室や洗濯室、厨房、倉庫、板の間は共同で使用されます。"
+        },
+        {
+            "question": "この韓屋の特徴的な点は何ですか？",
+            "answer": "この韓屋の特徴的な点は、村の歴史を象徴する500年クリが訪問客を迎えることです。"
+        }
+    ],
+    "word_Count": {
+        "text": 103,
+        "QA": 137
+    }
+}

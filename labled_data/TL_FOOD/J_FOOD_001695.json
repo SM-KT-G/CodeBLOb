@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001695",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "Goatee ( 고티(Goatee) )"
+    },
+    "text": "Goatee ( 고티(Goatee) )\nソウル特別市 広津区 峨嵯山路 242\nコゼルダーク生ビールがお得な価格で味わえる店です。代表的なメニューはガンバス・アル・アヒージョです。ソウル特別市のグァンジン区に位置した洋食専門店です。",
+    "QA": [
+        {
+            "question": "ゴーティはどこに位置していますか？",
+            "answer": "ゴーティはソウル特別市広津区峨嵯山路242に位置しています。"
+        },
+        {
+            "question": "ゴーティの代表的なメニューは何ですか？",
+            "answer": "ゴーティの代表的なメニューはガンバス・アル・アヒージョです。"
+        },
+        {
+            "question": "ゴーティでどんな料理を楽しむことができますか？",
+            "answer": "ゴーティでは洋食を楽しむことができます。特にガンバス・アル・アヒージョがおすすめです。"
+        },
+        {
+            "question": "ゴーティでお得な価格で味わえるものはありますか？",
+            "answer": "ゴーティではコゼルダーク生ビールがお得な価格で味わえます。"
+        },
+        {
+            "question": "ゴーティはどの区に位置していますか？",
+            "answer": "ゴーティはソウル特別市グァンジン区に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 86,
+        "QA": 189
+    }
+}

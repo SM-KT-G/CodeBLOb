@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001441",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-05-25",
+        "domain": "음식점",
+        "title": "Bada Sikdang ( 바다식당 )"
+    },
+    "text": "Bada Sikdang \\n\nソウル特別市 龍山区 梨泰院路49キル 18\\n\n濃厚な牛骨スープベースのプデチゲを提供する店です。ソウル特別市のヨンサン区に位置した韓国料理店です。おすすめはプデチゲです。",
+    "QA": [
+        {
+            "question": "この店の名前は何ですか？",
+            "answer": "この店の名前はバダシクダンです。"
+        },
+        {
+            "question": "この店はどこにありますか？",
+            "answer": "この店はソウル特別市ヨンサン区にあります。"
+        },
+        {
+            "question": "この店のおすすめ料理は何ですか？",
+            "answer": "この店のおすすめ料理はプデチゲです。"
+        },
+        {
+            "question": "プデチゲの特徴を教えてください。",
+            "answer": "プデチゲは濃厚な牛骨スープベースの料理です。"
+        },
+        {
+            "question": "この店の住所は何ですか？",
+            "answer": "この店の住所はソウル特別市ヨンサン区梨泰院路49キル18です。"
+        }
+    ],
+    "word_Count": {
+        "text": 75,
+        "QA": 129
+    }
+}

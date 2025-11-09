@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_019673",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-01",
+        "domain": "음식점",
+        "title": "豚足ねぎのチヂミグテグジプ ( 족발파전그때그집 )"
+    },
+    "text": "豚足ねぎのチヂミグテグジプ \n京畿道 平沢市 松炭路 263\nお集まりに良いところです。 京畿道のピョンテク市に位置した韓食専門店です。おすすめはポサムです。",
+    "QA": [
+        {
+            "question": "このお店はどこにありますか？",
+            "answer": "京畿道 平沢市 松炭路 263 に位置しています。"
+        },
+        {
+            "question": "このお店のおすすめ料理は何ですか？",
+            "answer": "おすすめはポサムです。"
+        },
+        {
+            "question": "このお店は何を専門としていますか？",
+            "answer": "このお店は韓食を専門としています。"
+        },
+        {
+            "question": "このお店は何のお集まりに良いですか？",
+            "answer": "このお店はお集まりに良いところです。"
+        }
+    ],
+    "word_Count": {
+        "text": 57,
+        "QA": 100
+    }
+}

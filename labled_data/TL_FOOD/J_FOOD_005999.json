@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_005999",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-07-02",
+        "domain": "음식점",
+        "title": "コムボ食堂（곰보식당）"
+    },
+    "text": "コムボ食堂（곰보식당）\\n\n釜山広域市 沙上区 洛東大路1564\\n\n30年の伝統を誇るコムボ食堂は、亀浦畜産物卸売り市場に隣接しており、新鮮なユッケ、センマイ、生レバーやサムギョプサル、カルビ、ヒレ肉などの焼肉のほか、コプチャンジョンゴル（もつ鍋）なども味わえるお店です。",
+    "QA": [
+        {
+            "question": "コムボ食堂はどこにありますか？",
+            "answer": "コムボ食堂は釜山広域市沙上区洛東大路1564にあります。"
+        },
+        {
+            "question": "コムボ食堂は何年の伝統がありますか？",
+            "answer": "コムボ食堂は30年の伝統を誇っています。"
+        },
+        {
+            "question": "コムボ食堂ではどのような料理が楽しめますか？",
+            "answer": "コムボ食堂では新鮮なユッケ、センマイ、生レバーやサムギョプサル、カルビ、ヒレ肉などの焼肉のほか、コプチャンジョンゴル（もつ鍋）も味わうことができます。"
+        },
+        {
+            "question": "コムボ食堂はどの市場に隣接していますか？",
+            "answer": "コムボ食堂は亀浦畜産物卸売り市場に隣接しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 100,
+        "QA": 163
+    }
+}

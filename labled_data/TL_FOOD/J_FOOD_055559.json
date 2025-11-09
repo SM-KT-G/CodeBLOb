@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_055559",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/haengbokan-kongiyagi",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "ヘンボクハンコンイヤギ"
+    },
+    "text": "ヘンボクハンコンイヤギ\\n\nソウル特別市 鍾路区 水標路 89-11\\n\n鍾路の会社員たちが訪れる隠れた名店です。おすすめは豆もやしクッパです。ソウル特別市のジョンノ区に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "このレストランの場所はどこですか？",
+            "answer": "ヘンボクハンコンイヤギはソウル特別市鍾路区水標路89-11に位置しています。"
+        },
+        {
+            "question": "このレストランはどんな人が訪れるお店ですか？",
+            "answer": "鍾路の会社員たちが訪れる隠れた名店です。"
+        },
+        {
+            "question": "おすすめの料理は何ですか？",
+            "answer": "豆もやしクッパがおすすめです。"
+        },
+        {
+            "question": "このレストランはどのような料理を提供していますか？",
+            "answer": "ヘンボクハンコンイヤギは韓食専門店です。"
+        },
+        {
+            "question": "このレストランはどの地区に位置していますか？",
+            "answer": "ヘンボクハンコンイヤギはソウル特別市のジョンノ区に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 71,
+        "QA": 165
+    }
+}

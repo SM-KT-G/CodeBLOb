@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_106533",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/view?relicId=37818",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2023-10-11",
+        "domain": "문화/역사관광",
+        "title": "청동 젓가락"
+    },
+    "text": "青銅の箸 (청동 젓가락)\\n\n国籍・時代：韓国 - 麗末鮮初、材質：金属 - 青銅、分類：食生活 - 食器 - 食べ物 - 箸、サイズ：長さ25.1cm、長さ25.1cm、長さ24.8cm、長さ22.2cm",
+    "QA": [
+        {
+            "question": "この箸の材質は何ですか？",
+            "answer": "青銅"
+        },
+        {
+            "question": "この箸の長さはどのくらいですか？",
+            "answer": "25.1cm、25.1cm、24.8cm、22.2cm"
+        },
+        {
+            "question": "この箸の国籍と時代は何ですか？",
+            "answer": "韓国 - 麗末鮮初"
+        },
+        {
+            "question": "この箸はどのように使用されましたか？",
+            "answer": "食生活の一部として食事に使用されました。"
+        },
+        {
+            "question": "この箸は何のために使われましたか？",
+            "answer": "食べ物を食べるために使用されました。"
+        },
+        {
+            "question": "この箸はどのような分類に属していますか？",
+            "answer": "食器の一種として、食べ物を持つための器具として分類されます。"
+        }
+    ],
+    "word_Count": {
+        "text": 76,
+        "QA": 149
+    }
+}

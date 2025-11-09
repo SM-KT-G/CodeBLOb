@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_010686",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "ドクポリグクス（덕포리국수）"
+    },
+    "text": "ドクポリグクス（덕포리국수）\\n\n江原道 原州市 健康路 17-3\\n\n江原道のウォンジュ市に位置した韓食です。代表的なメニューはトッポリ素麺です。各種麺料理を味わうことができます。",
+    "QA": [
+        {
+            "question": "ドクポリグクスはどこに位置していますか？",
+            "answer": "ドクポリグクスは江原道のウォンジュ市に位置しています。"
+        },
+        {
+            "question": "ドクポリグクスの代表的なメニューは何ですか？",
+            "answer": "ドクポリグクスの代表的なメニューはトッポリ素麺です。"
+        },
+        {
+            "question": "ドクポリグクスではどのような麺料理を味わうことができますか？",
+            "answer": "ドクポリグクスでは各種麺料理を味わうことができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 66,
+        "QA": 110
+    }
+}

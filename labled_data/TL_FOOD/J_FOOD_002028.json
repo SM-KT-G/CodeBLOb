@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_002028",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-10-08",
+        "domain": "음식점",
+        "title": "RADOST ( 라도스트 )"
+    },
+    "text": "RADOST ( 라도스트 )\\n\nソウル特別市 鐘路区 郵征局路2キル 17\\n\n鐘路の会社員が仕事の後によく訪れる名店です。代表的なメニューは骨なしタッカンジョンです。ソウル特別市のジョンノ区に位置した韓国料理店です。",
+    "QA": [
+        {
+            "question": "この店の住所はどこですか？",
+            "answer": "ラドスト（RADOST）はソウル特別市鐘路区郵征局路2キル17に位置しています。"
+        },
+        {
+            "question": "この店の特徴的なメニューは何ですか？",
+            "answer": "この店の代表的なメニューは骨なしタッカンジョンです。"
+        },
+        {
+            "question": "この店はどの区に位置していますか？",
+            "answer": "この店はソウル特別市のジョンノ区に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 81,
+        "QA": 101
+    }
+}

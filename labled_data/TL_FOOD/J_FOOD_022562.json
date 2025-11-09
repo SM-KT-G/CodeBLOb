@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_022562",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/seomyeonjip",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "西面ジプ"
+    },
+    "text": "西面ジプ\\n\n釜山広域市 釜山鎮区 東川路85ボンキル 20-6\\n\nご家族との食事だけでなく、会社員もよく訪れる店です。 おすすめは鴨プルゴギです。釜山広域市のブサンジン区に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "この韓国料理店はどこに位置していますか？",
+            "answer": "釜山広域市 釜山鎮区 東川路85ボンキル 20-6に位置しています。"
+        },
+        {
+            "question": "この店は誰におすすめですか？",
+            "answer": "ご家族との食事だけでなく、会社員もよく訪れます。"
+        },
+        {
+            "question": "おすすめの料理は何ですか？",
+            "answer": "鴨プルゴギがおすすめです。"
+        },
+        {
+            "question": "この店はどの地区に位置していますか？",
+            "answer": "釜山広域市のブサンジン区に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 73,
+        "QA": 115
+    }
+}

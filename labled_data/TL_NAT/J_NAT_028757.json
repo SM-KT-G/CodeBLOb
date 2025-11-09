@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_028757",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=402&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=00370000&ccbaCtcd=34&ccbaCpno=2113400370000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1976-01-08",
+        "domain": "자연관광",
+        "title": "공북루"
+    },
+    "text": "孔北楼\\n\n忠清南道公州市錦城洞165番地\\n\n36年(1603)、忠清南道有形文化財、公山城の北門に、江南と江北(カンブク)地域を往来する南北通路の道だ。朝鮮宣祖36年(1603)に観察使ユグンイ、両手山城を立て直しつつ、この席にいたマンブクルを建て直して、拱北楼でなおして呼んで、その横にウォルパダンを負ったという。顕宗4年(1663)の觀察使オチョンウィが古いものを再びなっており、記録は宋時烈(ソン・シヨル)がした。ウォルパダンは、孝宗(ヒョジョン)5年(1654)に崩壊し、現在は跡だけが残っている。前面5間・側面2間で、規模が大きな楼閣建築であり、上の階には床を敷き、下の階は通行路として書いている。屋根側面が八(八部)字形の入母屋造りであり、''拱北楼(拱北樓)''と書いた看板は誠意の内側に該当する軒下にかかっている。拱北楼は宋時烈(ソン・シヨル)が書いた記録をはじめ、いくつかの文章がかかっており、美しい景色を加えてくれる建物で、朝鮮時代の代表的な門楼だ。",
+    "QA": [
+        {
+            "question": "拱北楼はいつ建てられましたか？",
+            "answer": "拱北楼は朝鮮宣祖36年(1603)に建てられました。"
+        },
+        {
+            "question": "拱北楼の規模はどのくらいですか？",
+            "answer": "拱北楼は前面5間・側面2間という大きな規模の楼閣建築です。"
+        },
+        {
+            "question": "拱北楼の屋根は何の形をしていますか？",
+            "answer": "拱北楼の屋根は八(八部)字形の入母屋造りをしています。"
+        },
+        {
+            "question": "誰が拱北楼の記録を書きましたか？",
+            "answer": "拱北楼の記録は宋時烈(ソン・シヨル)が書きました。"
+        },
+        {
+            "question": "拱北楼はどのような景色を加えてくれる建物ですか？",
+            "answer": "拱北楼は美しい景色を加えてくれる建物で、朝鮮時代の代表的な門楼です。"
+        }
+    ],
+    "word_Count": {
+        "text": 320,
+        "QA": 168
+    }
+}

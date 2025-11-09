@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_004542",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42020&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "남해 든바다펜션"
+    },
+    "text": "こんにちは。南海デン海ペンションです。 当ペンションでは、5月中旬から150坪ほどの美しい花畑を利用してフォトゾーンを提供しています。 香り高い花と一緒に素敵な写真を撮ってみてください。 入室は午後3時から可能で、退室は午前10時30分から11時までです。 もし10時以降に入室される予定でしたら、ペンションまで事前にご連絡ください。 では、幸せな休暇をお過ごしください！",
+    "QA": [
+        {
+            "question": "ペンションの営業時間は何時から何時までですか？",
+            "answer": "入室は午後3時から可能で、退室は午前10時30分から11時までです。"
+        },
+        {
+            "question": "花畑の利用可能期間はいつからいつまでですか？",
+            "answer": "花畑の利用可能期間は5月中旬からです。"
+        },
+        {
+            "question": "花畑で撮影できる写真のジャンルは何ですか？",
+            "answer": "花畑で撮影できる写真のジャンルは自由ですが、特におしゃれなポートレートや自然写真が人気です。"
+        },
+        {
+            "question": "花畑にはどんな種類の花が植えられていますか？",
+            "answer": "花畑にはさまざまな種類の花が植えられており、香り高い花が多くあります。具体的な種類については、ペンションにお問い合わせください。"
+        },
+        {
+            "question": "ペンションには駐車場はありますか？",
+            "answer": "はい、ペンションには無料の駐車場があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 136,
+        "QA": 212
+    }
+}

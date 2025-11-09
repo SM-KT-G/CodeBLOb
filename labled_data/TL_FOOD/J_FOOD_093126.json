@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_093126",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "尹氏密房（윤씨밀방）"
+    },
+    "text": "尹氏密房（윤씨밀방）\\n\nソウル特別市 麻浦区 臥牛山路15キル 15\\n\nトルコ式ハンバーグステーキが食べられる店です。おすすめはハンバーグステーキです。ソウル特別市のマポ区に位置した洋食専門店です。",
+    "QA": [
+        {
+            "question": "尹氏密房（윤씨밀방）はどこに位置していますか？",
+            "answer": "尹氏密房（윤씨밀방）はソウル特別市の麻浦区に位置しています。"
+        },
+        {
+            "question": "尹氏密房（윤씨밀방）では何が食べられますか？",
+            "answer": "尹氏密房（윤씨밀방）ではトルコ式ハンバーグステーキが食べられます。"
+        },
+        {
+            "question": "尹氏密房（윤씨밀방）のおすすめは何ですか？",
+            "answer": "尹氏密房（윤씨밀방）のおすすめはハンバーグステーキです。"
+        }
+    ],
+    "word_Count": {
+        "text": 74,
+        "QA": 115
+    }
+}

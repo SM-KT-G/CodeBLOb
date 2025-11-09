@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_019202",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://apis.data.go.kr/1400000/service/cultureInfoService2/mntInfoOpenAPI2",
+        "collectedDate": "2023-11-22",
+        "publishedDate": "2020-12-01",
+        "domain": "자연관광",
+        "title": "도덕산"
+    },
+    "text": "道徳山 (도덕산)\\n\n大邱広域市東区徳谷洞\\n\n山の高さ : 660.7m , 慶尚北道漆谷郡東明面九徳里にある道徳山には道徳岩という庵があり、その庵に入る林道がある。 林道の端から登山路が始まるが、急傾斜区間が多いが、頂上まで首階段が設置されており登山しやすい。",
+    "QA": [
+        {
+            "question": "道徳山はどこにありますか？",
+            "answer": "道徳山は大邱広域市東区徳谷洞にあります。"
+        },
+        {
+            "question": "道徳山の高さは何メートルですか？",
+            "answer": "道徳山の高さは660.7メートルです。"
+        },
+        {
+            "question": "道徳山にはどんな庵がありますか？",
+            "answer": "道徳山には道徳岩という庵があります。"
+        },
+        {
+            "question": "道徳山の登山路はどのようになっていますか？",
+            "answer": "道徳山の登山路は急傾斜区間が多いですが、頂上まで首階段が設置されており、登山しやすいです。"
+        }
+    ],
+    "word_Count": {
+        "text": 97,
+        "QA": 123
+    }
+}

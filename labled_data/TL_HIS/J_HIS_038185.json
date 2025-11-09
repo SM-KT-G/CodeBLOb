@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_038185",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1174&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=05980000&ccbaCtcd=37&ccbaCpno=3413705980000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2012-10-04",
+        "domain": "문화/역사관광",
+        "title": "용궁 척화비"
+    },
+    "text": "龍宮斥和碑 (용궁 척화비)\\n\n慶尚北道醴泉郡邑府2ギル27-5(龍宮面、万波楼)\\n\n慶尚北道文化財資料、この碑は1866年(高宗3年)、丙寅洋擾と1871年(高宗8年)、辛美洋擾を経験しながら全国の主要道路などに建てた斥和碑の一つだ。 碑石の前面には「蝦夷侵犯非伝則画 周和売国継雅万年子孫丙寅作 辛未立」という文字が刻まれている。 飛身は耳折りたたみの形で大きさは幅45.5cm、高さ76cm、厚さ15.5cmだ。 本来、民家にあったものを龍宮中学校から探し、龍宮初等学校東側の碑石があるところに移したが、1988年に万波楼を再建し、他の碑石と共にその横に移した。 全国に建てられた斥和碑の中で多くの数は当時の情勢変動により撤去され、顕転する相当数が文化財に指定されている。 本碑は数回移転したが、歴史性と資料の希少性に照らして文化財資料に指定する。",
+    "QA": [
+        {
+            "question": "この龍宮斥和碑はいつ建てられましたか？",
+            "answer": "1866年(高宗3年)、丙寅洋擾と1871年(高宗8年)、辛美洋擾を経験しながら建てられました。"
+        },
+        {
+            "question": "碑石の前面に刻まれている文字は何ですか？",
+            "answer": "「蝦夷侵犯非伝則画 周和売国継雅万年子孫丙寅作 辛未立」という文字が刻まれています。"
+        },
+        {
+            "question": "この碑石の大きさはどれくらいですか？",
+            "answer": "幅45.5cm、高さ76cm、厚さ15.5cmです。"
+        },
+        {
+            "question": "なぜこの碑石は移動されたのですか？",
+            "answer": "元々、民家にあったものを龍宮中学校から探し、龍宮初等学校東側の碑石があるところに移されましたが、1988年に万波楼を再建する際、他の碑石と共にその横に移されました。"
+        },
+        {
+            "question": "斥和碑は全国にどれくらい建てられたのですか？",
+            "answer": "斥和碑は多くの数が建てられましたが、当時の情勢変動により撤去されたものもあり、現在は指定文化財として顕著な数が存在しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 277,
+        "QA": 261
+    }
+}

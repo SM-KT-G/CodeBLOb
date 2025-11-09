@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001747",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "HWATTEOK ( 화떡 명동 )"
+    },
+    "text": "HWATTEOK ( 화떡 명동 )\\n\nソウル特別市 中区 明洞4キル 15\\n\nかまどで直接焼くゴルゴンゾーラピザと、ピリ辛の即席トッポッキを同時に味わえるお店です。 おすすめは即席トッポッキです。ソウル特別市の中区に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "HWATTEOKの場所はどこですか？",
+            "answer": "HWATTEOKはソウル特別市中区明洞4キル15に位置しています。"
+        },
+        {
+            "question": "HWATTEOKで味わえるメニューはありますか？",
+            "answer": "HWATTEOKでは、かまどで直接焼くゴルゴンゾーラピザと、ピリ辛の即席トッポッキを味わうことができます。"
+        },
+        {
+            "question": "HWATTEOKのおすすめメニューは何ですか？",
+            "answer": "HWATTEOKのおすすめは即席トッポッキです。"
+        },
+        {
+            "question": "HWATTEOKはどのようなお店ですか？",
+            "answer": "HWATTEOKは韓食専門店であり、ソウル特別市の中区に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 90,
+        "QA": 169
+    }
+}

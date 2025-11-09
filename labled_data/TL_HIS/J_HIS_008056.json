@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_008056",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=388&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=00240000&ccbaCtcd=37&ccbaCpno=2113700240000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1973-08-31",
+        "domain": "문화/역사관광",
+        "title": "고성이씨신도비"
+    },
+    "text": "固城李氏神道碑 (고성이씨신도비)\\n\n慶尚北道安東市定常洞488-2\\n\n慶尚北道有形文化財 , 神道碑とは王や高官などの生涯業績を記録し、彼の墓の南東側に建てる碑で、この碑は朝鮮前期の文臣であるイ·ズン先生の行跡を称えている。 この証は本館が高城で、朝鮮成宗の時には栄山県監を務め、以後官職が吏曹参判にまで至った。 碑は下に支え石を置いて碑身を立てた後、その上に頭石をのせた姿だ。 純祖18年(1818)に建てたもので、ハン·チウン先生が碑文を作り、イ·ガスン先生が字を書いた。 元々他のところに建てたものを、安東ダム建設で水没する危機に直面することになり、水多斎入口であるここに移したのだ。",
+    "QA": [
+        {
+            "question": "この神道碑は誰の行跡を称えていますか？",
+            "answer": "この神道碑はイ·ズン先生の行跡を称えています。"
+        },
+        {
+            "question": "この神道碑はいつ建てられましたか？",
+            "answer": "この神道碑は純祖18年(1818)に建てられました。"
+        },
+        {
+            "question": "碑文を作ったのは誰ですか？",
+            "answer": "碑文はハン·チウン先生が作りました。"
+        },
+        {
+            "question": "字を書いたのは誰ですか？",
+            "answer": "字を書いたのはイ·ガスン先生です。"
+        },
+        {
+            "question": "なぜこの神道碑は安東ダム建設のために移されたのですか？",
+            "answer": "元々他のところに建てた神道碑が安東ダム建設で水没する危機に直面したため、安東ダムの水多斎入口に移されたのです。"
+        }
+    ],
+    "word_Count": {
+        "text": 218,
+        "QA": 166
+    }
+}

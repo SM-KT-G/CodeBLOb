@@ -1,0 +1,31 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_004926",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-10",
+        "domain": "음식점",
+        "title": "キムジョンウクCHEF\"S中華料理( 김종욱CHEF\"S중국요리 )"
+    },
+    "text": "キムジョンウクCHEF\"S中華料理\\n\n江原道 ガンヌン市 ギョンポロ33-17\\n\n様々な中華料理が味わえる店です。江原道のガンヌン市に位置した中華料理屋です。代表的なメニューはちゃんぽんです。",
+    "QA": [
+        {
+            "question": "この中華料理屋はどこにありますか？",
+            "answer": "キムジョンウクCHEF'S中華料理は、江原道のガンヌン市に位置しています。"
+        },
+        {
+            "question": "この店ではどんな中華料理を味わうことができますか？",
+            "answer": "この店では様々な中華料理を味わうことができます。特に代表的なメニューはちゃんぽんです。"
+        }
+    ],
+    "word_Count": {
+        "text": 71,
+        "QA": 89
+    }
+}

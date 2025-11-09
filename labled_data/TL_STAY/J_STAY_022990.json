@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_022990",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42031&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "대구 브라운도트호텔 대구혁신도시점"
+    },
+    "text": "洗練された雰囲気とモダンなインテリアで飾られた感覚的な空間をご体験ください。 個人ミニプールのあるプールビラ客室から居心地の良いスタンダードルームまで、様々なテーマの客室が楽しめます。 ユルハ駅から車で約5分の距離にあり、気軽に訪れることができます。",
+    "QA": [
+        {
+            "question": "このホテルの雰囲気はどのような感じですか？",
+            "answer": "洗練された雰囲気とモダンなインテリアで飾られた感覚的な空間をご体験いただけます。"
+        },
+        {
+            "question": "どのような客室がありますか？",
+            "answer": "個人ミニプールのあるプールビラ客室から居心地の良いスタンダードルームまで、様々なテーマの客室が楽しめます。"
+        },
+        {
+            "question": "ユルハ駅からホテルまでの距離はどのくらいですか？",
+            "answer": "ユルハ駅から車で約5分の距離にあります。"
+        },
+        {
+            "question": "このホテルは気軽に訪れることができますか？",
+            "answer": "はい、ユルハ駅から車で約5分の距離にあり、気軽に訪れることができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 91,
+        "QA": 167
+    }
+}

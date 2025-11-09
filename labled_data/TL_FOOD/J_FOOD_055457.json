@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_055457",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/nutinamu-sulrungtang",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "ヌティナム ソルロンタン"
+    },
+    "text": "ヌティナム ソルロンタン\\n\nソウル特別市 中区 新堂洞 251-131\\n\n大きな釜で牛の脚の骨をじっくり48時間煮込んだスープはまろやかで後味がさっぱりしています。一緒に出てくるカクテキと白菜キムチ。ソルロンタンを半分くらい食べてからキムチをいれて味を変えて楽しめます。",
+    "QA": [
+        {
+            "question": "この料理はどのように作られていますか？",
+            "answer": "大きな釜で牛の脚の骨をじっくり48時間煮込んだスープです。"
+        },
+        {
+            "question": "ソルロンタンと一緒に出てくるカクテキとは何ですか？",
+            "answer": "カクテキは一緒に出てくる付け合わせで、白菜キムチです。"
+        },
+        {
+            "question": "ソルロンタンを食べる際に注意すべきことはありますか？",
+            "answer": "ソルロンタンを半分くらい食べてからキムチを入れて味を変えることができます。"
+        },
+        {
+            "question": "ソルロンタンのスープはどんな味ですか？",
+            "answer": "スープはまろやかで後味がさっぱりしています。"
+        }
+    ],
+    "word_Count": {
+        "text": 100,
+        "QA": 149
+    }
+}

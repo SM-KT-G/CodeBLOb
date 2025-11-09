@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001448",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2020-11-25",
+        "domain": "음식점",
+        "title": "BBANDAK BBANDAK 明洞( 빤닭빤닭 명동 )"
+    },
+    "text": "BBANDAK BBANDAK 明洞( 빤닭빤닭 명동 )\\n\nソウル特別市 中区 明洞10キル 7\\n\n韓国で流行っているタッカルビ料理に様々なトッピングが楽しめる店です。ソウル特別市の中区に位置した韓食専門店です。代表的なメニューはタッカルビです。",
+    "QA": [
+        {
+            "question": "場所はどこですか？",
+            "answer": "ソウル特別市の中区に位置しています。"
+        },
+        {
+            "question": "どのような料理が楽しめますか？",
+            "answer": "代表的なメニューはタッカルビです。"
+        },
+        {
+            "question": "タッカルビ以外にも何かメニューがありますか？",
+            "answer": "はい、他にも様々なトッピングが楽しめるメニューがあります。"
+        },
+        {
+            "question": "タッカルビのトッピングはどのような種類がありますか？",
+            "answer": "タッカルビのトッピングには様々な種類があります。"
+        },
+        {
+            "question": "明洞店の営業時間は何時から何時までですか？",
+            "answer": "営業時間は1日中営業していますが、具体的な時間は店舗によって異なる場合があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 92,
+        "QA": 162
+    }
+}

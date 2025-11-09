@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_010833",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-11-24",
+        "domain": "음식점",
+        "title": "トルゴレスンドゥブ（돌고래순두부）"
+    },
+    "text": "トルゴレスンドゥブ（돌고래순두부）\\n\n釜山広域市 中区 中区路40番キル15\\n\n1982年にオープンした「トルゴレスンドゥブ」は、その安さもさることながら、手作りの全羅道式塩辛とテンジャン（味噌）、新鮮なスンドゥブでつくる料理がおいしいと評判のお店です。",
+    "QA": [
+        {
+            "question": "トルゴレスンドゥブはいつオープンしましたか？",
+            "answer": "1982年にオープンしました。"
+        },
+        {
+            "question": "トルゴレスンドゥブの場所はどこですか？",
+            "answer": "釜山広域市の中区中区路40番キル15にあります。"
+        },
+        {
+            "question": "トルゴレスンドゥブの料理はどんな特徴がありますか？",
+            "answer": "トルゴレスンドゥブの料理は手作りの全羅道式塩辛とテンジャン、新鮮なスンドゥブで作られており、その美味しさが評判です。"
+        },
+        {
+            "question": "トルゴレスンドゥブの料理の安さはどうですか？",
+            "answer": "トルゴレスンドゥブの料理は安く、その点でも評判です。"
+        }
+    ],
+    "word_Count": {
+        "text": 94,
+        "QA": 154
+    }
+}

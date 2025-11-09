@@ -1,0 +1,55 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_011663",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1215&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=79&ccbaAsno=02950000&ccbaCtcd=31&ccbaCpno=4413102950000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2006-12-04",
+        "domain": "문화/역사관광",
+        "title": "남양주 구 팔당역"
+    },
+    "text": "南楊州旧八堂駅 (남양주 구 팔당역)\\n\n京畿道南楊州市臥釜邑八堂里98-1,342\\n\n1939年 , 国家登録文化財 , 八堂駅は1棟、12階規模で建築面積56.99㎡だ。八堂駅は中央線路の駅舎で1939年に建設されたと判断され、1939年4月1日に普通駅として営業を開始した。 家具は木造様式で、一字型の長方形平面構成は待合室、事務室、宿直室が配置された。 簡易駅は廃駅になったが、内部に展示物を設置して開放する予定だ。",
+    "QA": [
+        {
+            "question": "南楊州旧八堂駅はいつ建設されましたか？",
+            "answer": "1939年に建設されました。"
+        },
+        {
+            "question": "南楊州旧八堂駅の建物面積はどれくらいですか？",
+            "answer": "建築面積は56.99㎡です。"
+        },
+        {
+            "question": "南楊州旧八堂駅は何階建てですか？",
+            "answer": "12階建てです。"
+        },
+        {
+            "question": "南楊州旧八堂駅はどのような構造ですか？",
+            "answer": "一字型の長方形平面構成で、待合室、事務室、宿直室が配置されています。"
+        },
+        {
+            "question": "南楊州旧八堂駅はどの路線の駅舎ですか？",
+            "answer": "南楊州市中央線路の駅舎です。"
+        },
+        {
+            "question": "南楊州旧八堂駅は何年から営業を開始しましたか？",
+            "answer": "1939年4月1日から営業を開始しました。"
+        },
+        {
+            "question": "南楊州旧八堂駅は現在も営業していますか？",
+            "answer": "いいえ、簡易駅となり、現在は廃駅となっています。"
+        },
+        {
+            "question": "南楊州旧八堂駅の内部には展示物がありますか？",
+            "answer": "はい、内部には展示物が設置され、一般公開される予定です。"
+        }
+    ],
+    "word_Count": {
+        "text": 156,
+        "QA": 232
+    }
+}

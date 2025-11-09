@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_015547",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2022-09-05",
+        "domain": "문화/역사관광",
+        "title": "李利子韓服博物館（이리자 한복전시관）"
+    },
+    "text": "李利子韓服博物館（이리자 한복전시관）\\n\nソウル特別市チョンノ区サムチョンロ20\\n\n景福宮正門チケット売り場正面に位置している李利子韓服博物館は、韓国の伝統衣装が展示されているだけでなく、韓国の人々が通過儀礼の際に着用する服飾を知ることができます。",
+    "QA": [
+        {
+            "question": "この博物館はどこにありますか？",
+            "answer": "李利子韓服博物館はソウル特別市チョンノ区サムチョンロ20に位置しています。"
+        },
+        {
+            "question": "この博物館では何が展示されていますか？",
+            "answer": "李利子韓服博物館では韓国の伝統衣装が展示されています。"
+        },
+        {
+            "question": "この博物館で何を学ぶことができますか？",
+            "answer": "この博物館では、韓国の人々が通過儀礼の際に着用する服飾を学ぶことができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 92,
+        "QA": 113
+    }
+}

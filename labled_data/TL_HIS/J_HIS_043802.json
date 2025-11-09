@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_043802",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=965&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=00140000&ccbaCtcd=23&ccbaCpno=3412300140000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1997-07-14",
+        "domain": "문화/역사관광",
+        "title": "강화 서도 중앙교회"
+    },
+    "text": "江華西道中央教会\\n\n仁川江華郡西道面注文道里718番地\\n\n仁川広域市文化財資料、江華書道中央教会の建物は1923年信者たちの献金で建てた韓屋礼拝堂だ。1902年監理教の伝道師ユンチョンイルが福音を伝道するため、ここ注文も里に入り、1905年には教会と信徒が心を集めて永生学校を設立し、民族意識を鼓吹させ、1923年の信者たちの献金でこの教会を新しく建てた。1978年注文教会で書道中央教会に名前を変えて今日に至っている。屋根は横から見る時八(八部)字型の入母屋屋根であり、一軒(ひとのき)家だ。建物内は中世前期の西洋教会の養殖をしているが、非常に単純で、、礼拝堂に使われる狭い新浪(身廊)とチュクラン(側廊)、中央の講壇で構成されている。私たちの伝統木造建築の家具の形をもとに、西洋の教会を建てたことに大きな意味を持つ。",
+    "QA": [
+        {
+            "question": "この教会はいつ建てられましたか？",
+            "answer": "1923年に信者たちの献金によって建てられました。"
+        },
+        {
+            "question": "この教会の建物はどのような特徴がありますか？",
+            "answer": "この教会は韓屋礼拝堂と呼ばれ、八部字型の入母屋屋根を持つ一軒家のような建物です。"
+        },
+        {
+            "question": "教会内部はどのように構成されていますか？",
+            "answer": "教会内部は狭い新浪（身廊）とチュクラン（側廊）で構成され、中央には講壇があります。"
+        },
+        {
+            "question": "なぜこの教会は伝統木造建築の家具の形をもとに建てられたのですか？",
+            "answer": "この教会は私たちの伝統木造建築の家具の形をもとに、西洋の教会を建てることで、大きな意味を持たせました。"
+        }
+    ],
+    "word_Count": {
+        "text": 265,
+        "QA": 181
+    }
+}

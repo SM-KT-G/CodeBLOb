@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_018338",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://apis.data.go.kr/1400000/service/cultureInfoService2/mntInfoOpenAPI2",
+        "collectedDate": "2023-11-22",
+        "publishedDate": "2020-12-01",
+        "domain": "자연관광",
+        "title": "호골산"
+    },
+    "text": "好骨酸 (호골산)\\n\n慶尚北道奉化郡奉化邑内城里\\n\n山の高さ : 289m , 虎骨山は邑に位置しており、頂上から烽火邑が一望でき、地形は登山路がよく置かれており、烽火邑内の郡民が主に利用する登山路がある。",
+    "QA": [
+        {
+            "question": "虎骨山はどこに位置していますか？",
+            "answer": "虎骨山は慶尚北道奉化郡奉化邑内に位置しています。"
+        },
+        {
+            "question": "虎骨山の高さは何メートルですか？",
+            "answer": "虎骨山の高さは289メートルです。"
+        },
+        {
+            "question": "登山路はどこに置かれていますか？",
+            "answer": "地形は登山路がよく置かれており、烽火邑内の郡民が主に利用する登山路があります。"
+        },
+        {
+            "question": "烽火邑が一望できる場所はどこですか？",
+            "answer": "虎骨山の頂上から烽火邑が一望できます。"
+        },
+        {
+            "question": "虎骨山はどのような特徴がありますか？",
+            "answer": "虎骨山は慶尚北道奉化郡奉化邑内に位置し、高さは289mで、烽火邑を一望できる地形であり、登山路がよく置かれています。"
+        }
+    ],
+    "word_Count": {
+        "text": 77,
+        "QA": 176
+    }
+}

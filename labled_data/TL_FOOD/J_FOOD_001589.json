@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001589",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2023-08-21",
+        "domain": "음식점",
+        "title": "CHEESEINDUSTRY（치즈인더스트리[치즈공업사]）"
+    },
+    "text": "CHEESEINDUSTRY（치즈인더스트리[치즈공업사]）\nソウル特別市チョンノ区スピョロ28ギル33-7\nCHEESEINDUSTRY（チーズインダストリー）は牧場をコンセプトにしたカフェで、緑の草むらで餌を食べる牛のオブジェが目を引きます。さまざまな手作りチーズやチーズを使った手作りケーキ、パンがおいしいグロサリーマーケットカフェで多彩なメニューを楽しめます。",
+    "QA": [
+        {
+            "question": "チーズインダストリーはどのエリアにありますか？",
+            "answer": "チーズインダストリーはソウル特別市チョンノ区スピョロ28ギル33-7にあります。"
+        },
+        {
+            "question": "チーズインダストリーのコンセプトは何ですか？",
+            "answer": "チーズインダストリーのコンセプトは牧場です。"
+        },
+        {
+            "question": "チーズインダストリーではどんなメニューが楽しめますか？",
+            "answer": "チーズインダストリーでは手作りチーズやチーズを使った手作りケーキ、パンなどさまざまなメニューが楽しめます。"
+        }
+    ],
+    "word_Count": {
+        "text": 134,
+        "QA": 137
+    }
+}

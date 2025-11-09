@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_037773",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=76&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=05640000&ccbaCtcd=38&ccbaCpno=1123805640000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1972-03-02",
+        "domain": "문화/역사관광",
+        "title": "창녕 영산 만년교"
+    },
+    "text": "昌寧霊山万年橋 (창녕 영산 만년교)\\n\n慶尚南道昌寧郡栄山面ウォンダリキル42(東里)\\n\n不詳、宝物、村のシルゲ川の上に虹の形に作られた石橋で、シルゲ川が南山から流れ落ちることから「南川橋」とも呼ばれる。 小川の両側の自然岩盤を床石とし、その上によく整えられた花崗岩の石材を幾層にも積み重ねて虹の形をした虹彩を成している。 その上には丸い自然石を積み上げ、一番上に薄く土を敷き、橋の上に人が通える道を作った。 路面は曲線を描きながら両端を長く伸ばしており、橋の雰囲気を一層穏やかにしてくれる。 朝鮮正祖4年(1780)に初めて積み上げたものを高宗29年(1892)に再び積み上げたもので、今も村人が通行するほど丈夫で洪水などにも全く被害がないという。",
+    "QA": [
+        {
+            "question": "万年橋はどのような構造ですか？",
+            "answer": "万年橋は虹の形をしており、自然岩盤と花崗岩の石材で作られています。"
+        },
+        {
+            "question": "万年橋はどのように作られていますか？",
+            "answer": "万年橋は小川の両側の自然岩盤を床石とし、その上に花崗岩の石材を積み重ねて作られました。"
+        },
+        {
+            "question": "万年橋は何年に作られましたか？",
+            "answer": "万年橋は朝鮮正祖4年(1780)に初めて積み上げられ、高宗29年(1892)に再び積み上げられました。"
+        },
+        {
+            "question": "万年橋はどのような名前で呼ばれていますか？",
+            "answer": "万年橋は「南川橋」とも呼ばれています。"
+        },
+        {
+            "question": "万年橋はどのような特徴がありますか？",
+            "answer": "万年橋は虹の形をしており、丸い自然石を積み上げた上に土を敷いて作られています。また、路面は曲線を描きながら両端を長く伸ばしているため、穏やかな雰囲気があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 240,
+        "QA": 229
+    }
+}

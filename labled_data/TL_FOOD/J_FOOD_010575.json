@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_010575",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "ドゥブキチン（두부키친）"
+    },
+    "text": "ドゥブキチン（두부키친）\\n\n京畿道 城南市 寿井区 慰礼広場路 310\\n\n京畿道のソンナム市に位置した韓食です。代表的なメニューはピリ辛海鮮スンドゥブです。魚介類とスンドゥブ(おぼろ豆腐)を入れて煮込んだピリ辛鍋です。",
+    "QA": [
+        {
+            "question": "ドゥブキチン（두부키친）はどこに位置していますか？",
+            "answer": "ドゥブキチン（두부키친）は京畿道のソンナム市に位置しています。"
+        },
+        {
+            "question": "ドゥブキチン（두부키친）の代表的なメニューは何ですか？",
+            "answer": "ドゥブキチン（두부키친）の代表的なメニューはピリ辛海鮮スンドゥブです。"
+        },
+        {
+            "question": "ピリ辛海鮮スンドゥブにはどんな具材が入っていますか？",
+            "answer": "ピリ辛海鮮スンドゥブには魚介類とスンドゥブ(おぼろ豆腐)が入っています。"
+        }
+    ],
+    "word_Count": {
+        "text": 81,
+        "QA": 132
+    }
+}

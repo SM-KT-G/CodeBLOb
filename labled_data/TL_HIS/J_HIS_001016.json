@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_001016",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/festival/k-pop-camp",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "K-POPキャンプ"
+    },
+    "text": "K-POPキャンプ\\n\nソウル特別市 麻浦区 西橋洞\\n\nK-POP CAMPは、ダンスコースとボーカルコース、オーディションコースの3コースからなります。オーディションコースは、オーディションにも参加することができ、自分だけのポートフォリオを作ることを目的としています。 期間は、1週／2週／4週／6週から選択可能。K-POP CAMPはKMC弘大実用音楽学院とT.I.Pダンスアカデミーが共同で運営しており、K-POPに興味がある人なら誰でも参加することができます。",
+    "QA": [
+        {
+            "question": "K-POP CAMPの場所はどこですか？",
+            "answer": "K-POP CAMPはソウル特別市麻浦区西橋洞にあります。"
+        },
+        {
+            "question": "K-POP CAMPのコースは何種類ありますか？",
+            "answer": "K-POP CAMPにはダンスコース、ボーカルコース、オーディションコースの3つのコースがあります。"
+        },
+        {
+            "question": "K-POP CAMPの期間はどれくらいですか？",
+            "answer": "K-POP CAMPの期間は1週間、2週間、4週間、6週間から選択することができます。"
+        },
+        {
+            "question": "K-POP CAMPに参加するための条件はありますか？",
+            "answer": "K-POP CAMPに参加するための特別な条件はありません。K-POPに興味がある人なら誰でも参加することができます。"
+        },
+        {
+            "question": "K-POP CAMPはどの学校やアカデミーが運営していますか？",
+            "answer": "K-POP CAMPはKMC弘大実用音楽学院とT.I.Pダンスアカデミーが共同で運営しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 172,
+        "QA": 259
+    }
+}

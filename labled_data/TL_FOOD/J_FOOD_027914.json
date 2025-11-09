@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_027914",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-06",
+        "domain": "음식점",
+        "title": "秋の雪 吉洞 ( 아키노유키 길동 )"
+    },
+    "text": "秋の雪 吉洞 ( 아키노유키 길동 )\\n\nソウル特別市 江東区 オルリムピクロ70ギル50-7\\n\n様々な手作り料理を取り揃えた日本の居酒屋です。代表的なメニューはメロ焼きです。ソウル特別市のガンドン区に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "この居酒屋の場所はどこですか？",
+            "answer": "ソウル特別市の江東区に位置しています。具体的な住所はオルリムピクロ70ギル50-7です。"
+        },
+        {
+            "question": "この居酒屋の特徴的な料理は何ですか？",
+            "answer": "代表的なメニューはメロ焼きです。様々な手作り料理も取り揃えています。"
+        },
+        {
+            "question": "この韓食専門店の場所はどこですか？",
+            "answer": "ソウル特別市の江東区に位置しています。具体的な住所はオルリムピクロ70ギル50-7です。"
+        }
+    ],
+    "word_Count": {
+        "text": 84,
+        "QA": 126
+    }
+}

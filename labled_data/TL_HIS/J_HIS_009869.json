@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_009869",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1192&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=79&ccbaAsno=00200000&ccbaCtcd=25&ccbaCpno=4412500200000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2002-05-31",
+        "domain": "문화/역사관광",
+        "title": "구 조흥은행 대전지점"
+    },
+    "text": "旧朝興銀行大田支店 (구 조흥은행 대전지점)\\n\n大田東区大田路783(院洞)\\n\n1951 , 国家登録文化財 , 1951年に建設されたこの建物は朝興銀行大田支店として建設され、今は新韓銀行大田駅金融センターとして使われている。 地上2階鉄筋コンクリート造で装飾のない花崗石平板付きで仕上げ、従来の銀行建築の古典的な外形から脱皮して最大限装飾を排除した単純ながらも全体的に調和した構成のモダニズム建物だ。 20世紀半ば、西洋の機能主義建築に影響を受けた韓国近代建築の傾向をよく示している。",
+    "QA": [
+        {
+            "question": "この建物は何のために建設されましたか？",
+            "answer": "この建物は朝興銀行大田支店として建設されました。"
+        },
+        {
+            "question": "現在、この建物は何に使われていますか？",
+            "answer": "現在、この建物は新韓銀行大田駅金融センターとして使われています。"
+        },
+        {
+            "question": "この建物の建築年はいつですか？",
+            "answer": "この建物は1951年に建設されました。"
+        },
+        {
+            "question": "この建物はどのような構造ですか？",
+            "answer": "この建物は地上2階鉄筋コンクリート造です。"
+        },
+        {
+            "question": "この建物の外観はどのような特徴がありますか？",
+            "answer": "この建物は装飾のない花崗石平板付きで仕上げられ、全体的に調和した構成のモダニズム建物です。"
+        },
+        {
+            "question": "この建物はどのような建築の傾向を示していますか？",
+            "answer": "この建物は20世紀半ば、西洋の機能主義建築に影響を受けた韓国近代建築の傾向をよく示しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 181,
+        "QA": 222
+    }
+}

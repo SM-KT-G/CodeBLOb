@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_002781",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "イシソンマンドゥジョンゴル（이씨손만두전골）"
+    },
+    "text": "イシソンマンドゥジョンゴル（이씨손만두전골）\\n\n江原道 原州市 ヤンジトゥル4キル 17\\n\n江原道のウォンジュ市に位置した韓食です。各種餃子を鍋スタイルでお出しするお店です。代表的なメニューは餃子の寄せ鍋です。",
+    "QA": [
+        {
+            "question": "この韓国料理店はどこに位置していますか？",
+            "answer": "この韓国料理店は江原道のウォンジュ市に位置しています。"
+        },
+        {
+            "question": "このお店の代表的なメニューは何ですか？",
+            "answer": "このお店の代表的なメニューは餃子の寄せ鍋です。"
+        },
+        {
+            "question": "このお店では他にどんなメニューがありますか？",
+            "answer": "このお店では各種餃子を鍋スタイルで提供しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 78,
+        "QA": 99
+    }
+}

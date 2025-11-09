@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_011848",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42040&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "나르샤 관광호텔 운영 정책"
+    },
+    "text": "チェックインは午後3時から可能で、チェックアウトは午前12時までです。 ご予約のお知らせでチェックイン時間とチェックアウト時間が案内されています。 利用時間は午前7時から午前9時までで、メニューはセミビュッフェです。 セミビュッフェは前日に事前に申し込まなければなりません。 大人(11歳以上)は13,000ウォン、小児(7歳~10歳以下)は7,000ウォンで、幼児(1歳~6歳以下)は無料です。 入室の利用案内は与えられていません。",
+    "QA": [
+        {
+            "question": "チェックインは何時から可能ですか？",
+            "answer": "チェックインは午後3時から可能です。"
+        },
+        {
+            "question": "チェックアウトは何時までですか？",
+            "answer": "チェックアウトは午前12時までです。"
+        },
+        {
+            "question": "利用時間は何時から何時までですか？",
+            "answer": "利用時間は午前7時から午前9時までです。"
+        },
+        {
+            "question": "セミビュッフェの料金はいくらですか？",
+            "answer": "大人(11歳以上)は13,000ウォン、小児(7歳~10歳以下)は7,000ウォンで、幼児(1歳~6歳以下)は無料です。"
+        },
+        {
+            "question": "セミビュッフェは何時から何時までですか？",
+            "answer": "セミビュッフェは前日に事前に申し込まなければなりません。"
+        },
+        {
+            "question": "入室の利用案内はありますか？",
+            "answer": "入室の利用案内は与えられていません。"
+        }
+    ],
+    "word_Count": {
+        "text": 159,
+        "QA": 193
+    }
+}

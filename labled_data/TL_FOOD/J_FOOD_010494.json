@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_010494",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-01",
+        "domain": "음식점",
+        "title": "テワンガーデン ( 태왕가든 )"
+    },
+    "text": "テワンガーデン \n慶尚北道 安東市 豊川面 クダムベナドゥルキル 35\n様々な韓国料理を味わえる店です。 慶尚北道のアンドン市に位置した韓食専門店です。おすすめは鴨肉の韓方水炊きです。",
+    "QA": [
+        {
+            "question": "テワンガーデンはどこに位置していますか？",
+            "answer": "テワンガーデンは慶尚北道のアンドン市に位置しています。"
+        },
+        {
+            "question": "テワンガーデンのおすすめ料理は何ですか？",
+            "answer": "テワンガーデンのおすすめ料理は鴨肉の韓方水炊きです。"
+        },
+        {
+            "question": "テワンガーデンで味わえる料理は何種類ありますか？",
+            "answer": "テワンガーデンでは様々な韓国料理が味わえます。"
+        }
+    ],
+    "word_Count": {
+        "text": 67,
+        "QA": 102
+    }
+}

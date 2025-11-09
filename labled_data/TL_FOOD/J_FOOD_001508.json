@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001508",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-29",
+        "domain": "음식점",
+        "title": "Buddha\"sbelly( 부다스벨리 )"
+    },
+    "text": "Buddha\"sbelly( 부다스벨리 )\\n\nソウル特別市 龍山区 ノクサピョンデロ40ギル48\\n\n雰囲気の良い梨泰院の合コンスポットの一つです。ソウル特別市のヨンサン区に位置するタイ料理専門店です。おすすめはソムタムです。",
+    "QA": [
+        {
+            "question": "こちらのレストランの名前は何ですか？",
+            "answer": "Buddha'sbelly（ 부다스벨리 ）です。"
+        },
+        {
+            "question": "こちらのレストランはどこにありますか？",
+            "answer": "ソウル特別市 ヨンサン区 ノクサピョンデロ40ギル48に位置しています。"
+        },
+        {
+            "question": "こちらのレストランの雰囲気はどうですか？",
+            "answer": "梨泰院の合コンスポットの一つで、雰囲気がとても良いです。"
+        },
+        {
+            "question": "こちらのレストランのおすすめ料理は何ですか？",
+            "answer": "ソムタムがおすすめです。"
+        }
+    ],
+    "word_Count": {
+        "text": 84,
+        "QA": 132
+    }
+}

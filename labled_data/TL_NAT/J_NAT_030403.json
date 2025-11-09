@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_030403",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.doopedia.co.kr/",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2020-01-01",
+        "domain": "자연관광",
+        "title": "남원 동충동 느티나무"
+    },
+    "text": "南原東忠洞ケヤキ (남원 동충동 느티나무)\\n\n南原市東忠洞192-4番地に位置する南原龍城初等学校の玄関右側の花壇には、樹齢約525年と推定されるケヤキが立っています。このケヤキはイ·スンシン銅像などのシェルと共に配置されています。 1992年10月7日にこのケヤキは保護樹に指定され、管理面積は400㎡です。その特徴として、高さ9m、胸囲4.5m、根元囲5mという大きさを持ち、樹冠の幅は24mにも及びます。 ただ、このケヤキには少し問題があります。高さ2m程度の位置で枝が2つに分かれているのですが、そのうちの一つの枝は枯れて死んでしまい、木が片方に傾いてしまっています。また、胴体も腐っている箇所が多くなっています。 (Translation: At the flowerbed on the right side of the entrance of Nangwon Ryujo Elementary School (192-4 Dong Chung Dong, Nangwon City), stands a zelkova tree estimated to be approximately 525 years old, along with sculptures, including the Yi Sun-sin statue. Designated as a protected tree on October 7, 1992, it covers an area of 400 square meters. It stands 9 meters tall with a girth of 4.5 meters at the chest and 5 meters at the base. The canopy, which includes the trunk and leaves, spreads to a width of 24 meters. However, there are some issues with this zelkova tree. At a height of around 2 meters, the branches divide into two, but one of the branches has withered and died, causing the tree to lean in one direction. Additionally, the trunk has numerous areas of decay.)",
+    "QA": [
+        {
+            "question": "このケヤキがある場所はどこですか？",
+            "answer": "南原市東忠洞192-4番地に位置する南原龍城初等学校の玄関右側の花壇に位置しています。"
+        },
+        {
+            "question": "このケヤキは何年の樹齢ですか？",
+            "answer": "樹齢は約525年と推定されています。"
+        },
+        {
+            "question": "保護樹に指定された日付はいつですか？",
+            "answer": "1992年10月7日に保護樹に指定されました。"
+        },
+        {
+            "question": "このケヤキの特徴的な大きさは何ですか？",
+            "answer": "高さは9m、胸囲は4.5m、根元囲は5mで、樹冠の幅は24mにも及びます。"
+        },
+        {
+            "question": "このケヤキに何か問題がありますか？",
+            "answer": "はい、高さ2m程度の位置で枝が2つに分かれており、そのうちの一つの枝は枯れてしまい、木が片方に傾いています。また、胴体にも腐っている箇所が多くなっています。"
+        }
+    ],
+    "word_Count": {
+        "text": 805,
+        "QA": 209
+    }
+}

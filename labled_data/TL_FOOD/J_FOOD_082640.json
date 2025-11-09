@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_082640",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-05",
+        "domain": "음식점",
+        "title": "所望食堂 ( 소망식당 )"
+    },
+    "text": "所望食堂 ( 소망식당 )\\n\n全羅南道 海南郡 海南邑 クギョ2ギル2\\n\n1991年から営業しています。全羅南道のヘナム郡に位置した韓食専門店です。おすすめはコチュジャン炒めです。",
+    "QA": [
+        {
+            "question": "所望食堂はどこに位置していますか？",
+            "answer": "所望食堂は全羅南道海南郡海南邑クギョ2ギル2に位置しています。"
+        },
+        {
+            "question": "所望食堂はいつから営業していますか？",
+            "answer": "所望食堂は1991年から営業しています。"
+        },
+        {
+            "question": "所望食堂のおすすめ料理は何ですか？",
+            "answer": "所望食堂のおすすめはコチュジャン炒めです。"
+        }
+    ],
+    "word_Count": {
+        "text": 67,
+        "QA": 90
+    }
+}

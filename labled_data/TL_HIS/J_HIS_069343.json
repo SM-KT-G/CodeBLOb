@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_069343",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/collectionList#######",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "백자 찻잔과 접시"
+    },
+    "text": "白磁 ティーカップと皿 (백자 찻잔과 접시)\\n\n材質: 「陶磁器 - 白磁」 分類: 「食生活 - 食べ物 - タクザン」 大きさ: 「全高7cm、高さ63cm、着こなし11cm、底径51cm、高さ28cm、着こなし16cm、底径10cm」 修正案: 陶磁器の材質は白磁です。 この商品は食生活のカテゴリーに属し、食べ物を収納するためのタクザンです。 サイズは全高7cmで、高さ63cm、着こなし11cm、底径51cmの上部には、高さ28cm、着こなし16cm、底径10cmの部分があります。",
+    "QA": [
+        {
+            "question": "このティーカップと皿は何の材質でできていますか？",
+            "answer": "このティーカップと皿は陶磁器の材質でできています。"
+        },
+        {
+            "question": "このティーカップと皿はどのような分類に属していますか？",
+            "answer": "このティーカップと皿は食生活のカテゴリーに属しています。"
+        },
+        {
+            "question": "このティーカップと皿の大きさは何ですか？",
+            "answer": "このティーカップと皿の大きさは全高7cmで、高さ63cm、着こなし11cm、底径51cmの上部には、高さ28cm、着こなし16cm、底径10cmの部分があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 181,
+        "QA": 150
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001769",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "Jimmys Natural IceCream（지미스）"
+    },
+    "text": "Jimmys Natural IceCream（지미스）\\n\n済州特別自治道 済州市 牛島面 牛島海岸キル 1132\\n\n済州特別自治道のジェジュ市に位置したカフェ（コーヒーショップ）です。代表的なメニューはアイスクリームです。ピーナッツは牛島の特産物です。",
+    "QA": [
+        {
+            "question": "ジミース（Jimmys）ナチュラルアイスクリームはどこにありますか？",
+            "answer": "ジミース（Jimmys）ナチュラルアイスクリームは済州特別自治道済州市牛島面牛島海岸キル1132にあります。"
+        },
+        {
+            "question": "ジミース（Jimmys）ナチュラルアイスクリームの代表的なメニューは何ですか？",
+            "answer": "ジミース（Jimmys）ナチュラルアイスクリームの代表的なメニューはアイスクリームです。"
+        },
+        {
+            "question": "牛島の特産物は何ですか？",
+            "answer": "牛島の特産物はピーナッツです。"
+        }
+    ],
+    "word_Count": {
+        "text": 94,
+        "QA": 145
+    }
+}

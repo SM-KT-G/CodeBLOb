@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_007559",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=36&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=00700000&ccbaCtcd=37&ccbaCpno=1123700700000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1963-01-21",
+        "domain": "문화/역사관광",
+        "title": "경주 서악동 귀부"
+    },
+    "text": "慶州西岳洞帰府 (경주 서악동 귀부)\\n\n慶尚北道慶州市西岳洞1006-1番地\\n\n統一新羅時代 , 宝物 , 西岳里太宗の南の道の向い側に残っているもので、『三国史記』の記録や西岳書院の霊亀楼の北側の台座から発見された碑石彫刻に刻まれた文から、金仁文(629~694)の功績を刻んだ石であると考えられる。 四足で力強く踏み込んでいる支え石の亀は首を前に長く伸ばしている。前後足の足の指が全て5本であることが異なるだけで、技巧面で太宗武烈王妃の鬼部と双壁を形成しており、首に刻まれた5本の首のしわはリアルでありながら自然だ。 亀の背中に刻んだ大きな六角模様も彫刻の腕前に優れ、背中の周りに刻んだ雲模様とその外側に玉を縫ったような模様を回したのは独特な姿だ。 背中の中央には雨を差しておいた四角いホームが設けられている。 一般的に亀の台石の様式的な変遷を見ると、9世紀からは亀の頭が龍の頭に変わることになるが、西岳里貴府は亀の頭の原型をよく持っており、韓国石碑台石の最初の様式を見せている。 作られた年代は三国統一後の7世紀半ばと推定されている。",
+    "QA": [
+        {
+            "question": "この慶州西岳洞帰府は何時代の宝物ですか？",
+            "answer": "統一新羅時代の宝物です。"
+        },
+        {
+            "question": "この石碑彫刻はどこで発見されましたか？",
+            "answer": "西岳書院の霊亀楼の北側の台座から発見されました。"
+        },
+        {
+            "question": "この石碑彫刻は誰の功績を刻んでいますか？",
+            "answer": "金仁文(629~694)の功績を刻んだ石です。"
+        },
+        {
+            "question": "この亀の姿の彫刻はどのような特徴がありますか？",
+            "answer": "亀は四足で力強く踏み込んでおり、首を前に長く伸ばしています。また、首のしわや背中の六角模様など、リアルでありながら技巧的な彫刻が特徴です。"
+        },
+        {
+            "question": "この石碑彫刻の年代はいつ頃作られたと推定されていますか？",
+            "answer": "三国統一後の7世紀半ばと推定されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 346,
+        "QA": 189
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_031249",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2023-07-24",
+        "domain": "음식점",
+        "title": "7hundred"
+    },
+    "text": "江原道平昌郡大関嶺面に位置するカフェイン7hundredはモダンな雰囲気を誇る3階建てのカフェです。カフェの内部には可愛らしい小物が多く、女性や子供たちに特に人気があります。ダッチコーヒー、エスプレッソコーヒー、ラテから様々な種類のパンまでメニューが豊富です。カフェの近くには月精寺、龍平リゾート、仙子嶺など多くの名所があり、訪問客が行く道にも魅力的な場所がたくさんあります。",
+    "QA": [
+        {
+            "question": "カフェイン7hundredはどこに位置していますか？",
+            "answer": "カフェイン7hundredは江原道平昌郡大関嶺面に位置しています。"
+        },
+        {
+            "question": "カフェイン7hundredはどのような雰囲気ですか？",
+            "answer": "カフェイン7hundredはモダンな雰囲気を誇っています。"
+        },
+        {
+            "question": "カフェイン7hundredの内部には何がありますか？",
+            "answer": "カフェイン7hundredの内部には可愛らしい小物が多くあります。"
+        },
+        {
+            "question": "カフェイン7hundredのメニューには何がありますか？",
+            "answer": "カフェイン7hundredのメニューにはダッチコーヒー、エスプレッソコーヒー、ラテから様々な種類のパンまで豊富な品揃えがあります。"
+        },
+        {
+            "question": "カフェイン7hundredの近くにはどんな名所がありますか？",
+            "answer": "カフェイン7hundredの近くには月精寺、龍平リゾート、仙子嶺など多くの名所があります。"
+        },
+        {
+            "question": "カフェイン7hundredへ行くための道にも魅力的な場所がありますか？",
+            "answer": "カフェイン7hundredへ行くための道にも魅力的な場所がたくさんあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 137,
+        "QA": 303
+    }
+}

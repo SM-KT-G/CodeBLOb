@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001835",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-05",
+        "domain": "음식점",
+        "title": "LA SIESTA ( 라시에스타 )"
+    },
+    "text": "LA SIESTA ( 라시에스타 )\\n\nソウル特別市 瑞草区 ヒョリョンロ2ギル4\\n\n様々な西洋料理が味わえる店です。おすすめはパスタです。ソウル特別市のソチョ区に位置した洋食専門店です。",
+    "QA": [
+        {
+            "question": "ラシエスタはどこにありますか？",
+            "answer": "ラシエスタはソウル特別市瑞草区ヒョリョンロ2ギル4にあります。"
+        },
+        {
+            "question": "ラシエスタでは何の料理がおすすめですか？",
+            "answer": "ラシエスタでは様々な西洋料理が味わえますが、特におすすめはパスタです。"
+        },
+        {
+            "question": "ラシエスタはどんな種類のレストランですか？",
+            "answer": "ラシエスタは洋食専門店で、様々な西洋料理が楽しめるレストランです。"
+        }
+    ],
+    "word_Count": {
+        "text": 71,
+        "QA": 113
+    }
+}

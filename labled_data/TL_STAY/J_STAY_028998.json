@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_028998",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42020&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "합천 글램핑스토리"
+    },
+    "text": "陜川に位置するグランピングストーリーは自然と共にする特別な旅行先です。 大邱から車で40分で到着できて便利です。 ここは大韓民国天下明堂(十勝地)に位置し、その名声を受け継いでいます。 ここでは涼しい木陰、渓谷の風、プールなどが提供され、遊びと楽しさを増してくれます。 また、重要なお知らせとしては、22時以降にお届けの場合は予めご連絡ください。 家族や知人と一緒にいる場合には最大2つの客室を予約でき、2つ以上の客室は予約できません。",
+    "QA": [
+        {
+            "question": "グランピングストーリーはどこに位置していますか？",
+            "answer": "グランピングストーリーは陜川に位置しています。"
+        },
+        {
+            "question": "グランピングストーリーへのアクセス手段はありますか？",
+            "answer": "大邱から車で40分で到着できます。"
+        },
+        {
+            "question": "グランピングストーリーの特徴は何ですか？",
+            "answer": "グランピングストーリーでは、涼しい木陰、渓谷の風、プールなどが提供され、遊びと楽しさを増しています。"
+        },
+        {
+            "question": "重要なお知らせはありますか？",
+            "answer": "22時以降に到着する場合は、事前にご連絡ください。また、家族や知人と一緒の場合は最大2つの客室を予約できますが、2つ以上の客室は予約できません。"
+        }
+    ],
+    "word_Count": {
+        "text": 159,
+        "QA": 180
+    }
+}

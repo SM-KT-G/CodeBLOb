@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_034648",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=295&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=16&ccbaAsno=02170000&ccbaCtcd=ZZ&ccbaCpno=1369902170000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1968-11-22",
+        "domain": "자연관광",
+        "title": "산양"
+    },
+    "text": "世界的に限られた地域に山羊という牛科動物が存在している。 この動物はシベリア、中国、韓国の雪岳山、五台山、大関嶺、太白山一帯に主に分布している。 そして山羊は体長が129㎝、角の長さは約13㎝程度だ。 この動物は外国産の山羊とは形態的に違いがあり、顔のラインがないというのが特徴だ。 また、山羊の首は短く足は太く、先が尖った足を持っている。 毛の色は灰褐色だが、一部の毛先は薄い黒褐色だ。 角は黒に現れる。 額から耳の間に沿って首に至る黒い毛が並び、首には大きな白い斑点がある。 山羊は傾斜した岩の隙間や岩の穴に住んでいるが、このようなところは人や他の動物が入れないところだ。 山羊は一般的に1~3匹の子を養育し、2~5匹が集まって生活する。 この動物は主に夜明けと夕方に活動し、岩苔、雑草、ツツジとツツジなど多様な植物を食べる。 また、山羊は一定の場所で暮らし、遠くに行って帰ってくる性質が強い。 しかし、漢方薬や剥製、食用として食べるなど、人間の活動によって山羊の数が急激に減少した。 そのため、山羊は天然記念物に指定され保護されている。",
+    "QA": [
+        {
+            "question": "山羊は主にどの地域に分布していますか？",
+            "answer": "シベリア、中国、韓国の雪岳山、五台山、大関嶺、太白山一帯に主に分布しています。"
+        },
+        {
+            "question": "山羊の体長と角の長さはそれぞれどのくらいですか？",
+            "answer": "山羊の体長は129㎝、角の長さは約13㎝程度です。"
+        },
+        {
+            "question": "山羊の特徴的な形態とは何ですか？",
+            "answer": "外国産の山羊とは異なり、山羊には顔のラインがないという特徴があります。また、首は短く足は太く、先が尖った足を持っています。"
+        },
+        {
+            "question": "山羊の毛の色と角の色はどうですか？",
+            "answer": "山羊の毛の色は灰褐色で、一部の毛先は薄い黒褐色です。角は黒に現れます。"
+        },
+        {
+            "question": "山羊はどのような生息環境を好みますか？",
+            "answer": "山羊は傾斜した岩の隙間や岩の穴に住んでおり、このようなところは人や他の動物が入れないところです。"
+        }
+    ],
+    "word_Count": {
+        "text": 345,
+        "QA": 222
+    }
+}

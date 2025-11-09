@@ -1,0 +1,71 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_055403",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://kr.hotels.com/ho2112672768/suyu-h-hotel-suyu3dong-hangug/?chkin=2023-11-14&chkout=2023-11-15&x_pwa=1&rfrr=HSR&pwa_ts=1698835046245&referrerUrl=aHR0cHM6Ly9rci5ob3RlbHMuY29tL0hvdGVsLVNlYXJjaA%3D%3D&useRewards=false&rm1=a2&regionId=6159319&destination=%EC%9D%98%EC%A0%95%EB%B6%80%2C+%EA%B2%BD%EA%B8%B0%2C+%ED%95%9C%EA%B5%AD&destType=MARKET&neighborhoodId=553248635976380799&latLong=37.736412%2C127.068388&sort=RECOMMENDED&top_dp=45455&top_cur=KRW&userIntent=&selectedRoomType=316035260&selectedRatePlan=385776671&expediaPropertyId=65989774&searchId=26666e80-3e5c-4f3a-b874-c571228c1964",
+        "collectedDate": "2023-11-15",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "수유 H Hotel"
+    },
+    "text": "授乳 Hotel\\n\n大韓民国ソウル特別市Seoulソウル江北区五牌山路79キル8\\n\nスユHotelは東大門歴史文化公園、光化門などの主要観光地と車で15分以内の距離に位置しています。 ホテルはWi-Fi及びセルフ駐車の無料特典を提供し、明洞通りと景福宮も車で近い距離にあり便利に利用できます。 水牛駅から徒歩2分、HwagyeStationからは12分の距離にあり、公共交通機関の利用にも便利です。 ホテルは新型コロナウイルス感染症に関する制限事項の確認を要請し、宿泊施設に連絡してチェックインの案内を受けられるように案内しています。 チェックインの際、クレジットカード、デビットカード、または現金保証金が必要で、政府発行の身分証明書には写真が貼られていなければなりません。 ペットは同伴できず、共用エリアと客室内でWi-Fiを無料で利用でき、無料のセルフ駐車施設も提供します。 特別に指定された喫煙エリアがあります。",
+    "QA": [
+        {
+            "question": "ホテルの場所はどこですか？",
+            "answer": "ホテルは大韓民国ソウル特別市江北区五牌山路79キル8に位置しています。"
+        },
+        {
+            "question": "ホテルの近くにはどのような観光地がありますか？",
+            "answer": "ホテルの近くには東大門歴史文化公園や光化門などの主要な観光地があります。"
+        },
+        {
+            "question": "ホテルはどのような特典を提供していますか？",
+            "answer": "ホテルはWi-Fiとセルフ駐車の無料特典を提供しています。"
+        },
+        {
+            "question": "ホテルから明洞通りや景福宮までの距離はどのくらいですか？",
+            "answer": "ホテルから明洞通りや景福宮までは車で近い距離にあります。"
+        },
+        {
+            "question": "最寄りの駅はどこですか？",
+            "answer": "最寄りの駅は水牛駅です。徒歩2分でアクセスできます。"
+        },
+        {
+            "question": "公共交通機関の利用は便利ですか？",
+            "answer": "はい、ホテルはHwagyeStationからも12分の距離にあり、公共交通機関の利用にも便利です。"
+        },
+        {
+            "question": "新型コロナウイルス感染症に関する制限事項はありますか？",
+            "answer": "はい、ホテルは新型コロナウイルス感染症に関する制限事項の確認を要請し、宿泊施設に連絡してチェックインの案内を受けられるように案内しています。"
+        },
+        {
+            "question": "チェックインの際に必要なものは何ですか？",
+            "answer": "チェックインの際には、クレジットカード、デビットカード、または現金保証金が必要です。政府発行の身分証明書には写真が貼られていなければなりません。"
+        },
+        {
+            "question": "ペットは同伴できますか？",
+            "answer": "申し訳ありませんが、ペットは同伴できません。"
+        },
+        {
+            "question": "ホテルではWi-Fiが利用できますか？",
+            "answer": "はい、共用エリアと客室内で無料のWi-Fiを利用できます。"
+        },
+        {
+            "question": "駐車場はありますか？",
+            "answer": "はい、ホテルでは無料のセルフ駐車施設を提供しています。"
+        },
+        {
+            "question": "喫煙エリアはありますか？",
+            "answer": "はい、特別に指定された喫煙エリアがあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 301,
+        "QA": 482
+    }
+}

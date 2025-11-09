@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_018167",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-02-18",
+        "domain": "음식점",
+        "title": "茶門（다문）"
+    },
+    "text": "茶門（다문）\\n\n全羅北道 全州市 完山区 銀杏路74-8\\n\n全州市の韓屋村に位置している「茶門（タムン）」は、韓屋の建物がぐるっと四方を囲むような造りで、大小の部屋で構成されています。",
+    "QA": [
+        {
+            "question": "茶門（タムン）はどこに位置していますか？",
+            "answer": "茶門（タムン）は全羅北道 全州市 完山区 銀杏路74-8に位置しています。"
+        },
+        {
+            "question": "茶門（タムン）はどんな建物で構成されていますか？",
+            "answer": "茶門（タムン）は韓屋の建物がぐるっと四方を囲むような造りで、大小の部屋で構成されています。"
+        },
+        {
+            "question": "全州市の韓屋村にはどんな場所に位置していますか？",
+            "answer": "全州市の韓屋村に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 68,
+        "QA": 121
+    }
+}

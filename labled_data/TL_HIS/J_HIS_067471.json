@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_067471",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/collectionList#######",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "백자 동화 사각 합"
+    },
+    "text": "白磁 童話 四角 和 (백자 동화 사각 합)\\n\n国籍と時代は、「韓国-朝鮮時代」と表現されています。材質は陶磁器であり、具体的には白磁です。この作品は宗教信仰に関連しており、仏教のお供えに使われる香合として分類されます。その大きさは高さ51cm、幅88cm、長さ76cmです。",
+    "QA": [
+        {
+            "question": "この作品は何のために使われるのですか？",
+            "answer": "この作品は仏教のお供えに使われる香合として使われます。"
+        },
+        {
+            "question": "この作品の大きさはどれくらいですか？",
+            "answer": "この作品の大きさは高さ51cm、幅88cm、長さ76cmです。"
+        },
+        {
+            "question": "この作品の材質は何ですか？",
+            "answer": "この作品は陶磁器であり、具体的には白磁です。"
+        },
+        {
+            "question": "この作品はどの国籍と時代のものですか？",
+            "answer": "この作品は韓国-朝鮮時代のものです。"
+        }
+    ],
+    "word_Count": {
+        "text": 102,
+        "QA": 122
+    }
+}

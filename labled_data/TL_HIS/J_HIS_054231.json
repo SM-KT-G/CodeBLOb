@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_054231",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/view?relicId=87240",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "글자를 새긴 암키와 조각"
+    },
+    "text": "文字を刻んだ平瓦片 (글자를 새긴 암키와 조각)\\n\n瓦には「泉口郡受恵」という文字が刻まれています。この瓦は韓国の統一新羅時代のもので、土から作られた瓦です。分類としては主に建築部材の一つであり、屋根材として使われていました。そのサイズは現在の幅が182cm、長さが253cmです。",
+    "QA": [
+        {
+            "question": "この平瓦片に刻まれている文字は何ですか？",
+            "answer": "泉口郡受恵"
+        },
+        {
+            "question": "この瓦はどの時代のものですか？",
+            "answer": "統一新羅時代"
+        },
+        {
+            "question": "この瓦はどのように作られましたか？",
+            "answer": "土から作られました"
+        },
+        {
+            "question": "この瓦の主な用途は何ですか？",
+            "answer": "建築部材として、屋根材として使われていました"
+        },
+        {
+            "question": "この瓦のサイズはどのくらいですか？",
+            "answer": "幅が182cm、長さが253cmです"
+        }
+    ],
+    "word_Count": {
+        "text": 104,
+        "QA": 104
+    }
+}

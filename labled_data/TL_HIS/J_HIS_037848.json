@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_037848",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=462&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=01130000&ccbaCtcd=11&ccbaCpno=2111101130000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1999-05-19",
+        "domain": "문화/역사관광",
+        "title": "지장사 괘불도"
+    },
+    "text": "地蔵寺掛仏図 (지장사 괘불도)\\n\nソウル特別市銅雀区顕忠路210(銅雀洞、護国地蔵寺)\\n\n1901年(広務5)、ソウル特別市有形文化財、掛仏は寺で大きな法会や儀式を行うために法堂の前庭にかけて礼拝を行っていた大型掛け絵をいう。 地蔵寺に保管されたこの掛仏は釈迦をはじめとする三尊と文殊菩薩、普賢菩薩を絹地に彩色して描いた絵で、横287.3㎝、縦456㎝の大きさだ。 上段に描かれた三尊は全体的に不自然に表現されて形式化された感じで、下段に描かれた文殊菩薩と普賢菩薩は比較的自由で闊達に描写され、上とは対照的だ。 赤色と緑色、青色が主に使われ、特にこの時期に製作された他の仏画より色彩が明るく目を引く。 この絵は19世紀末から20世紀に至る時期の典型的な掛仏タイプだ。",
+    "QA": [
+        {
+            "question": "この掛仏図は何年に作られましたか？",
+            "answer": "1901年(広務5)に作られました。"
+        },
+        {
+            "question": "この掛仏図はどこに保管されていますか？",
+            "answer": "この掛仏図は地蔵寺に保管されています。"
+        },
+        {
+            "question": "この掛仏図の大きさはどれくらいですか？",
+            "answer": "この掛仏図の大きさは横287.3㎝、縦456㎝です。"
+        },
+        {
+            "question": "この掛仏図にはどのような仏が描かれていますか？",
+            "answer": "この掛仏図には釈迦をはじめとする三尊と文殊菩薩、普賢菩薩が描かれています。"
+        },
+        {
+            "question": "この掛仏図の色彩はどのように使われていますか？",
+            "answer": "赤色と緑色、青色が主に使われており、他の仏画よりも明るく目を引く色彩です。"
+        }
+    ],
+    "word_Count": {
+        "text": 246,
+        "QA": 174
+    }
+}

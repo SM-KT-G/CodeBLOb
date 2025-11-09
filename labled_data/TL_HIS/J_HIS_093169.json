@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_093169",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=450&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=00970000&ccbaCtcd=35&ccbaCpno=2113500970000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1981-04-01",
+        "domain": "문화/역사관광",
+        "title": "용흥리석불입상"
+    },
+    "text": "龍興里(ヨンフンニ)ソクプリプサン\\n\n全羅北道井邑市古阜面龍興里山14番地\\n\n全羅北道有形文化財、全羅北道井邑市古阜面(コブミョン)のヘチョンサ(海鼎寺)の寺跡西北の塔洞村の東にある高さ1.7mの石仏立像だ。全体的に風化が激しく、、頭部は切断されたことをセメントで保守した。落とした右手は離れて出ており、左手は胸付近から持っている。八角形の台座には、二重に刻んだ8の葉の蓮の花が張り巡らされている。仏像は現在仮設の建物の中に祀られている。",
+    "QA": [
+        {
+            "question": "この石仏立像はどこに位置していますか？",
+            "answer": "この石仏立像は全羅北道井邑市古阜面龍興里山14番地に位置しています。"
+        },
+        {
+            "question": "石仏立像の高さは何メートルですか？",
+            "answer": "石仏立像の高さは1.7メートルです。"
+        },
+        {
+            "question": "石仏立像の頭部に何が起こったのですか？",
+            "answer": "石仏立像の頭部は切断されており、セメントで保守されています。"
+        },
+        {
+            "question": "石仏立像の台座には何が彫られていますか？",
+            "answer": "石仏立像の台座には二重に刻んだ8の葉の蓮の花が彫られています。"
+        },
+        {
+            "question": "現在、石仏立像はどこに祀られていますか？",
+            "answer": "現在、石仏立像は仮設の建物の中に祀られています。"
+        }
+    ],
+    "word_Count": {
+        "text": 162,
+        "QA": 170
+    }
+}

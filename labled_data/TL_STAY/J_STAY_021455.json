@@ -1,0 +1,31 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_021455",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42080&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "춘천 가향"
+    },
+    "text": "利用案内角では入室基準を確認し、追加人数の場合は現場で追加料金を決済するよう案内しています。 入室の際は身分証明書を確認し、未成年者の場合は入室が制限されますので、身分証明書を必ず持参してください。 ご利用案内角では、1客室1台の駐車を可能にしております。",
+    "QA": [
+        {
+            "question": "入室基準を教えてください。",
+            "answer": "入室基準は、追加人数の場合は現場で追加料金を決済する必要があります。また、身分証明書の確認も行っており、未成年者の場合は入室が制限されますので、必ず身分証明書を持参してください。"
+        },
+        {
+            "question": "駐車はできますか？",
+            "answer": "はい、ご利用のお客様には1客室につき1台の駐車が可能です。"
+        }
+    ],
+    "word_Count": {
+        "text": 93,
+        "QA": 102
+    }
+}

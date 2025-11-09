@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_LEI_003203",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2023-07-01",
+        "domain": "레포츠",
+        "title": "닥터스노우"
+    },
+    "text": "大関嶺面にあるドクタースノーは龍平リゾートに近く、利用が便利で、様々な装備を備えている。\n\n*開業日 - 2006年11月11日\n\n*龍平リゾートとの距離3km",
+    "QA": [
+        {
+            "question": "ドクタースノーはいつ開業しましたか？",
+            "answer": "ドクタースノーは2006年11月11日に開業しました。"
+        },
+        {
+            "question": "ドクタースノーは龍平リゾートからどれくらいの距離ですか？",
+            "answer": "ドクタースノーは龍平リゾートから3kmの距離にあります。"
+        },
+        {
+            "question": "ドクタースノーはどのような装備を備えていますか？",
+            "answer": "ドクタースノーは様々な装備を備えています。具体的な装備についてはお問い合わせください。"
+        },
+        {
+            "question": "ドクタースノーの利用は便利ですか？",
+            "answer": "はい、ドクタースノーの利用は便利です。龍平リゾートに近く、アクセスも良いです。"
+        }
+    ],
+    "word_Count": {
+        "text": 58,
+        "QA": 164
+    }
+}

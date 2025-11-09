@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_097006",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1136&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=03890000&ccbaCtcd=37&ccbaCpno=3413703890000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2000-09-04",
+        "domain": "문화/역사관광",
+        "title": "인금리심씨댁"
+    },
+    "text": "日帝時代(1930)慶尚北道安東に位置した村には文化財資料として登録された家がある。 この家は現在、所有者の父親が1930年頃に建築したと知られている。 元々は草屋だったこの家は現在スレート屋根に直してある。 この家は母屋と門屋で構成されており、母屋と門屋の間には土塀を積んで中庭と外庭に空間を分けた。 母屋は左側から台所、奥の間、板の間、サランマルの順に配置されている。 台所の内側には台所部屋があり、奥の間とつながるように設置されており、奥の間と出居の間にある板の間は奥の間だけで利用できるように構成されている。 また、出居の裏には蔵と1間の大きさのオンドル部屋が位置しており、これは中庭を通さずに客を迎えることができるようにして母屋の独立性を図った配置として注目されている。 門屋はディディル精米所、後釜、広、牛小屋、門の順になっており、精米所の裏側にはオンドル部屋が位置し、「ㄱ」の字型を成している。 牛舎から中庭側には視線を遮断し、冬季保温のためにドアが付いている。 この家は後代に変形があり、古い建築ではないが空間配置と構造が特異で安東地方の建築研究に良い資料として活用できる。",
+    "QA": [
+        {
+            "question": "この家の建築年はいつですか？",
+            "answer": "父親が1930年頃に建築しました。"
+        },
+        {
+            "question": "この家は何で構成されていますか？",
+            "answer": "母屋と門屋で構成されており、中庭と外庭に土塀を積んで空間を分けています。"
+        },
+        {
+            "question": "母屋の中にはどのような部屋がありますか？",
+            "answer": "台所、奥の間、板の間、サランマルの順に配置されています。"
+        },
+        {
+            "question": "門屋にはどのような施設がありますか？",
+            "answer": "ディディル精米所、後釜、広、牛小屋があり、精米所の裏側にはオンドル部屋が位置しています。"
+        },
+        {
+            "question": "家の変形や特異な点は何ですか？",
+            "answer": "後代に変形がありますが、空間配置と構造が特異で、安東地方の建築研究に良い資料として活用できます。"
+        }
+    ],
+    "word_Count": {
+        "text": 363,
+        "QA": 187
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_024119",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42090&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "콘스트호텔 제주"
+    },
+    "text": "時間は非常に柔軟でユニークな存在です。 しかし、ホテルKONSTでの時間はさらに特別です。 このホテルの中での時間は、外部とは違って流れています。 これはホテルKONSTの個性と密接に結びついており、新しい経験を生み出していきます。 それぞれの空間では、異なる時間の流れを経験できます。 外部の時間を忘れてホテルならではの体験に集中してみてください。",
+    "QA": [
+        {
+            "question": "ホテルKONSTでの時間はどのように流れていますか？",
+            "answer": "ホテルKONSTでは、外部とは異なる時間の流れを体験することができます。それぞれの空間で異なる時間の流れがあり、外部の時間を忘れてホテルならではの体験ができます。"
+        },
+        {
+            "question": "ホテルKONSTの個性とは何ですか？",
+            "answer": "ホテルKONSTの個性は、時間の流れと密接に結びついています。ホテル内では外部とは異なる時間の流れがあり、新しい経験を生み出しています。"
+        },
+        {
+            "question": "外部とホテルKONSTの時間の違いは何ですか？",
+            "answer": "外部とホテルKONSTでは時間の流れが異なります。ホテル内では外部の時間を忘れて、ホテルならではの体験に集中することができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 128,
+        "QA": 205
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_010366",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-08-27",
+        "domain": "음식점",
+        "title": "テソンジプ ( 대성집 )"
+    },
+    "text": "テソンジプ ( 대성집 )\\n\nソウル特別市 鐘路区 サジクロ5\\n\n70年の伝統を持つトガニタン(牛の膝蓋骨スープ)専門店です。ソウル特別市のジョンノ区に位置した韓国料理店です。代表的なメニューは牛の膝軟骨スープです。",
+    "QA": [
+        {
+            "question": "トガニタンはどのように作られますか？",
+            "answer": "トガニタンは牛の膝蓋骨から作られます。骨を長時間煮込み、スープを作ります。"
+        },
+        {
+            "question": "トガニタン専門店のテソンジプはどこにありますか？",
+            "answer": "テソンジプはソウル特別市鐘路区サジクロに位置しています。"
+        },
+        {
+            "question": "テソンジプの代表的なメニューは何ですか？",
+            "answer": "テソンジプの代表的なメニューは牛の膝軟骨スープです。"
+        },
+        {
+            "question": "テソンジプの歴史はどれくらいありますか？",
+            "answer": "テソンジプは70年の歴史を持っています。"
+        }
+    ],
+    "word_Count": {
+        "text": 80,
+        "QA": 141
+    }
+}

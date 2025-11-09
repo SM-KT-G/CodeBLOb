@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_017373",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42041&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "라마다플라자 충장호텔"
+    },
+    "text": "ラマダプラザ光州ホテル以来2番目の世界的なホテルブランドであるウィンダムの特級ホテルだ。 このホテルは無等山と光州川を眺望できる95室の客室を備えており、これは現代的で洗練された感性を含んでいる。 客室はspaciousな空間で構成されており、ゆったりとくつろげる。 このホテルはフィットネスセンターや男子サウナなどの専用便宜施設を提供し、スマートでシンプルなライフスタイルを体験できる。 また、光州1号線に位置する錦南路4街駅まで徒歩約7分の距離にある。",
+    "QA": [
+        {
+            "question": "このホテルの客室は何室ありますか？",
+            "answer": "このホテルには95室の客室があります。"
+        },
+        {
+            "question": "このホテルの特徴的な眺望は何ですか？",
+            "answer": "このホテルからは無等山と光州川を眺望することができます。"
+        },
+        {
+            "question": "このホテルの便利な設備はどんなものがありますか？",
+            "answer": "このホテルにはフィットネスセンターや男子サウナなどの専用設備があります。"
+        },
+        {
+            "question": "このホテルの場所はどこですか？",
+            "answer": "このホテルは光州1号線に位置し、錦南路4街駅から徒歩約7分の距離です。"
+        }
+    ],
+    "word_Count": {
+        "text": 167,
+        "QA": 140
+    }
+}

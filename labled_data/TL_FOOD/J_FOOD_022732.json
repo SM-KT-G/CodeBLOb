@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_022732",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2023-07-02",
+        "domain": "음식점",
+        "title": "섬강풍경"
+    },
+    "text": "閃光風景 (섬강풍경)\\n\n江原特別自治道 原州市指定面月松石火鉢288\\n\n原州市の代表的な飲食店で、有機栽培の農作物を使用して料理を提供しています。広々とした風景の中で食事を楽しむことができ、リラックスした雰囲気を味わえる場所です。この飲食店はオークバレー入口に位置しています。",
+    "QA": [
+        {
+            "question": "この飲食店の場所はどこですか？",
+            "answer": "この飲食店は原州市のオークバレー入口に位置しています。"
+        },
+        {
+            "question": "この飲食店では何を提供していますか？",
+            "answer": "この飲食店では有機栽培の農作物を使用した料理を提供しています。"
+        },
+        {
+            "question": "この飲食店の雰囲気はどうですか？",
+            "answer": "この飲食店は広々とした風景の中で食事を楽しむことができ、リラックスした雰囲気を味わえる場所です。"
+        }
+    ],
+    "word_Count": {
+        "text": 103,
+        "QA": 113
+    }
+}

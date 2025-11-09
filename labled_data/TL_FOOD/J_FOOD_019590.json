@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_019590",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-08-27",
+        "domain": "음식점",
+        "title": "都城 ( 도성 )"
+    },
+    "text": "都城 ( 도성 )\\n\nソウル特別市 鐘路区 チャハムンロ7ギル15\\n\nすいとん入りちゃんぽんも人気メニューです。おすすめはジャージャー麺です。ソウル特別市のジョンノ区に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "このお店の場所はどこですか？",
+            "answer": "都城 ( 도성 )\n ソウル特別市 鐘路区 チャハムンロ7ギル15に位置しています。"
+        },
+        {
+            "question": "このお店ではどんなメニューが人気ですか？",
+            "answer": "すいとん入りちゃんぽんやジャージャー麺が人気です。"
+        },
+        {
+            "question": "このお店は韓食専門店ですか？",
+            "answer": "はい、このお店は韓食専門店です。"
+        },
+        {
+            "question": "このお店はどの区に位置していますか？",
+            "answer": "このお店はソウル特別市のジョンノ区に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 71,
+        "QA": 128
+    }
+}

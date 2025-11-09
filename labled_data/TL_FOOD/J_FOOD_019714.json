@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_019714",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-01",
+        "domain": "음식점",
+        "title": "東宮山羊肉スープ ( 동궁염소탕 )"
+    },
+    "text": "東宮山羊肉スープ \n江原道 江陵市 江陵大路 419ボンキル 17\n30年以上の伝統を持つ店です。 代表的なメニューは黒山羊肉の寄せ鍋です。江原道のガンヌン市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "東宮山羊肉スープはどのくらいの伝統を持っていますか？",
+            "answer": "東宮山羊肉スープは30年以上の伝統を持っています。"
+        },
+        {
+            "question": "東宮山羊肉スープはどのような料理ですか？",
+            "answer": "東宮山羊肉スープは黒山羊肉の寄せ鍋が代表的なメニューです。"
+        },
+        {
+            "question": "東宮山羊肉スープを提供している場所はどこですか？",
+            "answer": "東宮山羊肉スープを提供している場所は江原道江陵市江陵大路419ボンキル17です。"
+        },
+        {
+            "question": "東宮山羊肉スープを提供している店はどのような特徴がありますか？",
+            "answer": "東宮山羊肉スープを提供している店は江原道のガンヌン市に位置し、韓食専門店です。"
+        }
+    ],
+    "word_Count": {
+        "text": 67,
+        "QA": 171
+    }
+}

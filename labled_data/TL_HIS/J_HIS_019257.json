@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_019257",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=62&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=03910000&ccbaCtcd=11&ccbaCpno=1121103910000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1963-09-02",
+        "domain": "문화/역사관광",
+        "title": "부산진순절도"
+    },
+    "text": "釜山鎮順節度 (부산진순절도)\\n\nソウル蘆原区孔陵洞の私書箱77-1号陸軍博物館\\n\n朝鮮英祖36年(1760) , 宝物 , <釜山鎮殉節図>は朝鮮宣祖25年(1592)4月13日と14日の2日間、釜山鎮で行われた倭軍との戦闘場面を描いたもので、大きさは横96cm、縦145cmだ。 絹地に描かれたこの絵は粛宗35年(1709)に初めて描かれたものを画家のピョン·バクが英祖36年(1760)に描き直したものだが、最初の作品は存在しない。 高いところから戦闘場面を見下ろすように描写しているが、絵の右中間に釜山鎮城郭が配置されており、その周辺を倭兵および倭船が隙間なく囲んだ姿は味方と敵軍の激しい戦力の格差を示している。 絵の作品性は全般的に高く評価されることはないが、国を守護する民族精気を示す歴史的資料としての価値がある作品だ。",
+    "QA": [
+        {
+            "question": "この絵の名前は何ですか？",
+            "answer": "釜山鎮殉節図"
+        },
+        {
+            "question": "この絵はいつ描かれましたか？",
+            "answer": "朝鮮宣祖25年(1592)4月13日と14日の2日間の戦闘場面を描いたものです。"
+        },
+        {
+            "question": "この絵はどのくらいの大きさですか？",
+            "answer": "横96cm、縦145cmです。"
+        },
+        {
+            "question": "この絵は誰が描きましたか？",
+            "answer": "初めて描かれたのは粛宗35年(1709)で、ピョン·バク画家が英祖36年(1760)に描き直しました。"
+        },
+        {
+            "question": "この絵の作品の評価はどうですか？",
+            "answer": "全般的に高く評価されていませんが、国を守護する民族精気を示す歴史的資料としての価値があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 269,
+        "QA": 169
+    }
+}

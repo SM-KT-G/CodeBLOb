@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_100782",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/collectionList#######",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2023-10-11",
+        "domain": "문화/역사관광",
+        "title": "정시적 필 간찰"
+    },
+    "text": "定時的必見札 (정시적 필 간찰)\\n\n【国籍/時代】: チョン・シジョクは、大韓帝国時代の韓国の作家です。 【材質】: この作品は、紙で作られています。 【作品名】: 『西間類』は、鄭是寂（チョン・シジョク）によって書かれた文化芸術の文献です。 【サイズ】: この書物のサイズは、縦262cm、横399cmです。",
+    "QA": [
+        {
+            "question": "鄭是寂はどの国の作家ですか？",
+            "answer": "大韓帝国時代の韓国の作家です。"
+        },
+        {
+            "question": "この作品は何でできていますか？",
+            "answer": "この作品は紙で作られています。"
+        },
+        {
+            "question": "『西間類』は誰によって書かれましたか？",
+            "answer": "『西間類』は鄭是寂（チョン・シジョク）によって書かれた文化芸術の文献です。"
+        },
+        {
+            "question": "この書物のサイズは何ですか？",
+            "answer": "この書物のサイズは縦262cm、横399cmです。"
+        }
+    ],
+    "word_Count": {
+        "text": 115,
+        "QA": 112
+    }
+}

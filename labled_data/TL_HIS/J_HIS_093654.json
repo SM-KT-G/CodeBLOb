@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_093654",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=952&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=00030000&ccbaCtcd=26&ccbaCpno=3412600030000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1997-10-09",
+        "domain": "문화/역사관광",
+        "title": "울산학성이씨근재공고택"
+    },
+    "text": "蔚山広域市文化財資料、鶴城李氏の播種歌集で、始祖である李イェの11孫、李ウィチャンが石川村に位置した家を建てた。 高宗の時、イ·ウィチャンの曾孫であるイ·ジャンチャンが家を建て直し、1934年頃には全体的に補修された。 これまでも何度も補修を経て今日に至っている。 この家は門屋、サランチェ、蔵屋、別堂屋、母屋などと先祖の位牌がある祠堂を備えている。 門屋は門に付いている建物で、サランチェは小さく作られており、入母屋造りだ。 生活空間が明確に分離されており、独立した祠堂を備えている。 この家は朝鮮時代の上流層宗家の特徴を示す家だ。",
+    "QA": [
+        {
+            "question": "この家は誰によって建てられましたか？",
+            "answer": "李イェの11孫、李ウィチャンが石川村に位置した家を建てました。"
+        },
+        {
+            "question": "この家はいつ建て直されましたか？",
+            "answer": "高宗の時、イ·ウィチャンの曾孫であるイ·ジャンチャンが家を建て直し、1934年頃には全体的に補修されました。"
+        },
+        {
+            "question": "この家にはどのような建物がありますか？",
+            "answer": "この家には門屋、サランチェ、蔵屋、別堂屋、母屋などと先祖の位牌がある祠堂があります。"
+        },
+        {
+            "question": "なぜこの家は朝鮮時代の上流層宗家の特徴を示すと言えるのですか？",
+            "answer": "生活空間が明確に分離されており、独立した祠堂を備えているため、この家は朝鮮時代の上流層宗家の特徴を示す家と言えます。"
+        }
+    ],
+    "word_Count": {
+        "text": 195,
+        "QA": 197
+    }
+}

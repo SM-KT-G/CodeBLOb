@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_008371",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "セビョクジブ牛ミノ焼き（새벽집양곱창）"
+    },
+    "text": "セビョクジブ牛ミノ焼き（새벽집양곱창）\\n\nソウル特別市 九老区 京仁路61キル 21\\n\nソウル特別市のグロ区に位置した韓食です。30年の伝統を誇ります。代表的なメニューはコプチャンです。",
+    "QA": [
+        {
+            "question": "このレストランはどこにありますか？",
+            "answer": "ソウル特別市 九老区 京仁路61キル 21に位置しています。"
+        },
+        {
+            "question": "このレストランの代表的なメニューは何ですか？",
+            "answer": "このレストランの代表的なメニューはコプチャンです。"
+        },
+        {
+            "question": "このレストランの特徴は何ですか？",
+            "answer": "このレストランは30年の伝統を誇っており、韓食を提供しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 69,
+        "QA": 104
+    }
+}

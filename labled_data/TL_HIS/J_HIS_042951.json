@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_042951",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=951&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=00020000&ccbaCtcd=32&ccbaCpno=3413200020000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1984-06-02",
+        "domain": "문화/역사관광",
+        "title": "강릉귀부"
+    },
+    "text": "江陵貴婦人\\n\n江原道江陵市栗谷路3139番キル24、(江陵市栗谷路)(竹軒洞)\\n\n江原道特別自治道文化財資料、江陵烏竹軒市立博物館の前庭に置かれている雨の台石に、カメの姿をしている。パダクドルと一つの石で行われたこの台座は亀の首が短く、顔はなどとほぼ水平になっている。顔には目、鼻、口、耳、熊手が薄く表現されており、あごの下には逆三角形のひげが彫刻されている。4つの足の指がいる前足は甲羅の前の下に突出されていて、壊れている後足はすくめた形であり、尾は右にされている。6角形の文様が詰まったなどにはその中央に雨を差し込んでおくための四角い穴を置いた。1965年当時、道路拡張工事をしている途中、地中に埋まっていたのを発見し、江陵(カンウォンド・カンヌン)教育庁に保管してきたが、1992年、ここに移して保存している。",
+    "QA": [
+        {
+            "question": "この雨の台石はどこに置かれていますか？",
+            "answer": "江原道江陵市栗谷路3139番キル24、(江陵市栗谷路)(竹軒洞)、江原道特別自治道文化財資料、江陵烏竹軒市立博物館の前庭に置かれています。"
+        },
+        {
+            "question": "この雨の台石はどのような形をしていますか？",
+            "answer": "カメの姿をしています。亀の首が短く、顔は水平になっており、目、鼻、口、耳、熊手が薄く表現されています。"
+        },
+        {
+            "question": "この雨の台石は何のために作られましたか？",
+            "answer": "雨を差し込んでおくための穴を置くために作られました。"
+        },
+        {
+            "question": "この雨の台石はいつ発見されましたか？",
+            "answer": "1965年に道路拡張工事をしている途中、地中に埋まっているのを発見されました。"
+        },
+        {
+            "question": "この雨の台石はどのように保存されていますか？",
+            "answer": "1965年に発見され、江陵教育庁に保管されていましたが、1992年に江陵烏竹軒市立博物館に移され、ここで保存されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 264,
+        "QA": 253
+    }
+}

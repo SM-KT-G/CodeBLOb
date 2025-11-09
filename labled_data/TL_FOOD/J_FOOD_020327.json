@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_020327",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-05",
+        "domain": "음식점",
+        "title": "満船ホーフ ( 만선호프 )"
+    },
+    "text": "満船ホーフ ( 만선호프 )\\n\nソウル特別市 中区 ウルジロ13ギル19\\n\n職人たちがよく訪れる店です。ソウル特別市のジュン区に位置した韓食専門店です。おすすめは卵焼きです。",
+    "QA": [
+        {
+            "question": "満船ホーフはどのような店ですか？",
+            "answer": "満船ホーフはソウル特別市中区に位置する韓食専門店で、職人たちがよく訪れる店です。おすすめは卵焼きです。"
+        },
+        {
+            "question": "満船ホーフの場所はどこですか？",
+            "answer": "満船ホーフはソウル特別市中区ウルジロ13ギル19にあります。"
+        },
+        {
+            "question": "満船ホーフのおすすめメニューは何ですか？",
+            "answer": "満船ホーフのおすすめメニューは卵焼きです。"
+        }
+    ],
+    "word_Count": {
+        "text": 65,
+        "QA": 112
+    }
+}

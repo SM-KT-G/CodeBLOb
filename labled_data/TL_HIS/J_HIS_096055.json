@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_096055",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=114&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=09520000&ccbaCtcd=34&ccbaCpno=1123409520000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1988-06-16",
+        "domain": "문화/역사관광",
+        "title": "이광악 선무공신교서"
+    },
+    "text": "朝鮮宣祖37年(1604)、宝物、この文書は宣祖37年(1604)、壬辰倭乱の時に晋州城防御に多大な功績を残した李光岳(1557~1608)に賞と勲章を与えた教書です。計10面で、各面に7行ずつ計62行で、材質は絹で、表紙は赤色の絹布です。李光岳は宣祖25年(1592)、文禄·慶長の役が起こると嶺南地方で先鋒に立って倭軍と戦い、敵が晋州を包囲すると晋州城に入って牧師の金時敏を助けて敵の侵攻を防ぎ、晋州大捷でも大きな功績を挙げましたこの文書には李光岳の資質と品性、経歴、晋州城を防御するために彼が建てた武功と功臣に与える特典などが載っています。この教書はもともと一枚の巻物の形で作られていたものを子孫が切って前後に表紙をつけたものです。大きさは横22.3㎝、縦41㎝で、教書指紋面の大きさは横22.3㎝、縦34㎝です。この文書は壬辰倭乱当時の晋州大捷の状況を明らかにし、功績を立てた人に対する褒賞の程度を調べる上で貴重な資料です",
+    "QA": [
+        {
+            "question": "この文書は何年に作られたのですか？",
+            "answer": "宣祖37年(1604)に作られました。"
+        },
+        {
+            "question": "李光岳はどんな功績を残した人物ですか？",
+            "answer": "李光岳は壬辰倭乱の時に晋州城防御に多大な功績を残しました。"
+        },
+        {
+            "question": "李光岳はどのような経歴を持っていますか？",
+            "answer": "李光岳は宣祖25年(1592)に嶺南地方で先鋒に立って倭軍と戦い、晋州城を守るために多大な武功を挙げました。"
+        },
+        {
+            "question": "李光岳はどのような特典を受けたのですか？",
+            "answer": "李光岳は賞と勲章を受けました。"
+        },
+        {
+            "question": "この文書の材質は何ですか？",
+            "answer": "この文書は絹でできています。"
+        }
+    ],
+    "word_Count": {
+        "text": 304,
+        "QA": 161
+    }
+}

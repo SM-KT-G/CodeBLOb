@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_055400",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/daebaek-sonkalguksu",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "デベクソンカルグクス"
+    },
+    "text": "デベクソンカルグクス\\n\n大邱広域市 中区 東徳路 )\\n\nさっぱりとしていながらも風味のある昔から変わらない味で人気のカルグクス専門店です。20年間、こだわりのある伝統の味が自慢です。",
+    "QA": [
+        {
+            "question": "このカルグクス専門店の名前は何ですか？",
+            "answer": "デベクソンカルグクスです。"
+        },
+        {
+            "question": "このカルグクス専門店はどこにありますか？",
+            "answer": "大邱広域市中区の東徳路にあります。"
+        },
+        {
+            "question": "このカルグクス専門店の特徴は何ですか？",
+            "answer": "さっぱりとしていながらも風味のある昔から変わらない味が自慢です。"
+        },
+        {
+            "question": "このカルグクス専門店は何年間も営業していますか？",
+            "answer": "20年間営業しています。"
+        },
+        {
+            "question": "このカルグクス専門店ではどのようなこだわりのある味が提供されていますか？",
+            "answer": "伝統の味が自慢です。"
+        }
+    ],
+    "word_Count": {
+        "text": 68,
+        "QA": 148
+    }
+}

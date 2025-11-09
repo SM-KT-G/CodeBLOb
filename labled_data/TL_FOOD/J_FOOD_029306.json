@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_029306",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "海村 ( 해촌 )"
+    },
+    "text": "海村 \n済州特別自治道 西帰浦市 城山邑 日出路 220\n素晴らしい景色で様々な刺身が楽しめます。代表的なメニューは太刀魚の刺身です。済州特別自治道のソグィポ市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "この韓食専門店の場所はどこですか？",
+            "answer": "この韓食専門店は西帰浦市の城山邑に位置しています。"
+        },
+        {
+            "question": "この韓食専門店の特徴は何ですか？",
+            "answer": "この韓食専門店は素晴らしい景色を眺めながら様々な刺身を楽しむことができます。太刀魚の刺身が特に人気です。"
+        },
+        {
+            "question": "この韓食専門店はどのようなメニューがありますか？",
+            "answer": "この韓食専門店では、太刀魚の刺身をはじめとする様々な刺身が楽しめます。他にも韓国料理の代表的なメニューもあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 68,
+        "QA": 140
+    }
+}

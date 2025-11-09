@@ -1,0 +1,31 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_004140",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42021&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "부산 앙스모멍펜션"
+    },
+    "text": "こんにちは。En ce Momentはフランス語で今この瞬間を意味します。 私たちは今この瞬間が大切だという事実を知っていますが、忙しい日常生活をしていると、その事実を忘れて過ごしています。 今この瞬間、訪ねてくださるすべての方々が少しでもすべてを下ろして、愛する人と大切な思い出を残してほしいです。 釜山のアンスモモンペンションではお知らせ21時以降に入室予定の場合、当該ペンションの管理人まで事前にご連絡ください。 退室が遅れる場合、1時間当たり30,000ウォンが追加されます。",
+    "QA": [
+        {
+            "question": "このペンションでは、21時以降に入室する場合、事前に連絡する必要がありますか？",
+            "answer": "はい、アンスモモンペンションでは、21時以降に入室する場合は、事前に管理人に連絡していただくようお願いしています。"
+        },
+        {
+            "question": "退室が遅れる場合、追加料金が発生しますか？",
+            "answer": "はい、退室が遅れる場合、1時間当たり30,000ウォンの追加料金が発生します。お早めに退室していただくようお願いいたします。"
+        }
+    ],
+    "word_Count": {
+        "text": 177,
+        "QA": 131
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_029562",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42010&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "가평 별찌펜션"
+    },
+    "text": "こんにちは、カピョンビョルチビョルチペンションは、会社のワークショップや大学MT、同好会の集まりなど、団体旅行のための最適な施設を備えた団体専用ペンションです。 お知らせ 22時以降に入室される場合、ペンションまで予めご連絡ください。",
+    "QA": [
+        {
+            "question": "カピョンビョルチビョルチペンションはどんな施設を提供していますか？",
+            "answer": "カピョンビョルチビョルチペンションは、会社のワークショップや大学MT、同好会の集まりなど、団体旅行のための最適な施設を備えています。"
+        },
+        {
+            "question": "入室時間が22時以降の場合、何が必要ですか？",
+            "answer": "22時以降に入室される場合、事前にペンションまでご連絡いただく必要があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 85,
+        "QA": 117
+    }
+}

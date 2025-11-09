@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_001645",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=322&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=16&ccbaAsno=05400000&ccbaCtcd=37&ccbaCpno=1363705400000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2012-11-06",
+        "domain": "자연관광",
+        "title": "경주개 동경이"
+    },
+    "text": "キョンジュ犬のトンギョンイ (경주개 동경이)\\n\n慶尚北道慶州市龍明工業団地キル138-14(乾川邑)\\n\nチョニョンギニョンムル , 慶州地域で飼育されたことで知られる東経は、「東京雑記」、「増補文献備考」など、昔の文献によく登場し、新羅古墳から土偶として発掘されるなど、その歴史的·文化的価値が大きい。現在慶州で飼育中の慶州犬の東京は短尾·無尾を特徴とする文献記録と外形的に一致し、遺伝子分析の結果、韓国在来犬に属する固有犬種であることが明らかになった。また、慶州犬の東京は個体履歴管理、疾病管理、繁殖管理、血統管理のためのシステム構築と運営など体系的な保護·管理を通じて300頭余りが飼育されている。",
+    "QA": [
+        {
+            "question": "東京雑記や増補文献備考によく登場する東京とは何ですか？",
+            "answer": "東京は慶州地域で飼育されたことで知られる犬の品種です。"
+        },
+        {
+            "question": "東京犬の特徴は何ですか？",
+            "answer": "東京犬は短尾または無尾を特徴とし、外形的には文献記録と一致します。"
+        },
+        {
+            "question": "東京犬の歴史的·文化的価値は何ですか？",
+            "answer": "東京犬は昔の文献によく登場し、新羅古墳から土偶として発掘されるなど、その歴史的·文化的価値が大きいです。"
+        },
+        {
+            "question": "東京犬はどのように保護·管理されていますか？",
+            "answer": "現在、慶州で飼育中の東京犬は個体履歴管理、疾病管理、繁殖管理、血統管理のためのシステム構築と運営など体系的な保護·管理が行われています。"
+        }
+    ],
+    "word_Count": {
+        "text": 222,
+        "QA": 190
+    }
+}

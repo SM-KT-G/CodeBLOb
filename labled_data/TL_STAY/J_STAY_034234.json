@@ -1,0 +1,59 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_034234",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42010&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "가평 더스틸펜션"
+    },
+    "text": "加平ノクス渓谷に位置するThe Stillペンションは、特別さを経験できる輸出入貨物コンテナで飾られた外部を持っています。 このペンションは自然にやさしい高級白樺でインテリアされており、深い森の中で感じられる爽快さと安らぎを与えています。 また、常に清潔さを最優先にしており、お客様により快適な休息を提供しようと努力しています。 ペンションから徒歩3分の距離には水遊びを楽しめる渓谷があり、車で10分の距離にはアチムゴヨ樹木園があるので、家族や友達と一緒に特別な思い出を作ることができる良い場所です。 入室時間が22時以降の場合には事前にご連絡をお願いし、すべての方々に安らかな休息と特別な思い出を提供するために最善を尽くします。 ありがとうございます。",
+    "QA": [
+        {
+            "question": "The Stillペンションはどこに位置していますか？",
+            "answer": "The Stillペンションは加平ノクス渓谷に位置しています。"
+        },
+        {
+            "question": "The Stillペンションの特徴的な外観は何ですか？",
+            "answer": "The Stillペンションの特徴的な外観は、輸出入貨物コンテナで飾られています。"
+        },
+        {
+            "question": "The Stillペンションの内装に使用されている素材は何ですか？",
+            "answer": "The Stillペンションの内装には自然にやさしい高級白樺が使用されています。"
+        },
+        {
+            "question": "The Stillペンションの近くにはどんな自然の楽しみ方がありますか？",
+            "answer": "The Stillペンションの近くには徒歩3分の距離に水遊びを楽しめる渓谷があります。"
+        },
+        {
+            "question": "The Stillペンションから車で何分の距離にアチムゴヨ樹木園がありますか？",
+            "answer": "The Stillペンションから車で10分の距離にアチムゴヨ樹木園があります。"
+        },
+        {
+            "question": "The Stillペンションではどのような思い出を作ることができますか？",
+            "answer": "The Stillペンションでは家族や友達と一緒に特別な思い出を作ることができます。"
+        },
+        {
+            "question": "入室時間が22時以降の場合には何をするようにお願いされていますか？",
+            "answer": "入室時間が22時以降の場合には事前にご連絡をお願いしています。"
+        },
+        {
+            "question": "The Stillペンションはどのようなサービスを提供していますか？",
+            "answer": "The Stillペンションは常に清潔さを最優先にし、お客様に快適な休息を提供するよう努めています。"
+        },
+        {
+            "question": "The Stillペンションの目的は何ですか？",
+            "answer": "The Stillペンションの目的は安らかな休息と特別な思い出を提供することです。"
+        }
+    ],
+    "word_Count": {
+        "text": 239,
+        "QA": 473
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_003145",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2020-07-13",
+        "domain": "음식점",
+        "title": "ウスマニア（우스마니아）"
+    },
+    "text": "ウスマニア（우스마니아）\\n\nソウル特別市 龍山区 雩祀壇路34\\n\n「ウスマニア（USMANIA）」は、梨泰院にあるパキスタン料理専門店です。調味料などをパキスタンから輸入しており、本場のパキスタン料理を楽しめます。料理はパキスタンの家庭で一般に使われる粘土製の丸釜「タンドゥールTandoor 」を使用して作られます。",
+    "QA": [
+        {
+            "question": "ウスマニアはどこにありますか？",
+            "answer": "ウスマニア（USMANIA）は、ソウル特別市龍山区雩祀壇路34にあります。"
+        },
+        {
+            "question": "ウスマニアではどんな料理が楽しめますか？",
+            "answer": "ウスマニアではパキスタン料理が楽しめます。本場のパキスタン料理を味わうことができます。"
+        },
+        {
+            "question": "ウスマニアで使用される料理器具は何ですか？",
+            "answer": "ウスマニアでは、パキスタンの家庭で使用される粘土製の丸釜「タンドゥール（Tandoor）」が使用されています。"
+        },
+        {
+            "question": "ウスマニアではどのような調味料が使用されていますか？",
+            "answer": "ウスマニアでは、パキスタンから輸入された調味料が使用されています。本場の味を再現するために厳選された調味料を使用しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 118,
+        "QA": 204
+    }
+}

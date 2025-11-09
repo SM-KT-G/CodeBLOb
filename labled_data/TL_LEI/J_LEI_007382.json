@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_LEI_007382",
+        "source": "도서",
+        "writer": "최정화",
+        "ISBN_ISNN": "978-89-2780-602-8",
+        "version": "초판",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "어떤 날에 원데이 클래스",
+        "collectedDate": "2023-11-10",
+        "publishedDate": "2015-01-05",
+        "domain": "레포츠",
+        "title": "호호클래스"
+    },
+    "text": "Le Cordon Bleu出身のパティシエが運営するベーキングクラス専門スタジオであるLe Cordon Bleuスタジオは、趣味ベーキング、カフェデザート、デザートカフェ創業授業を提供しています。 このスタジオでは、1:1の個人授業からグループ授業まで、さまざまな形の授業を行っています。 営業時間は毎日10:30~18:00に設定されています。 このスタジオは市内の松林の奥の青少年広場に面しており、暁星韓方医院の建物の3階に位置しています。",
+    "QA": [
+        {
+            "question": "Le Cordon Bleuスタジオは何を提供していますか？",
+            "answer": "Le Cordon Bleuスタジオは趣味ベーキング、カフェデザート、デザートカフェ創業授業を提供しています。"
+        },
+        {
+            "question": "Le Cordon Bleuスタジオの営業時間は何時から何時までですか？",
+            "answer": "Le Cordon Bleuスタジオの営業時間は毎日10:30〜18:00です。"
+        },
+        {
+            "question": "Le Cordon Bleuスタジオはどこに位置していますか？",
+            "answer": "Le Cordon Bleuスタジオは市内の松林の奥の青少年広場に面しており、暁星韓方医院の建物の3階に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 164,
+        "QA": 184
+    }
+}

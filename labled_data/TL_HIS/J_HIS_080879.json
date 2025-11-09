@@ -1,0 +1,51 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_080879",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=249&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=13&ccbaAsno=02800000&ccbaCtcd=11&ccbaCpno=1331102800000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1981-09-25",
+        "domain": "문화/역사관광",
+        "title": "서울 한국은행 본관"
+    },
+    "text": "ソウル韓国銀行本館\\n\nソウル中区南大門路39(ナムデムンロ3街)\\n\n1910年代、私的、この建物は1907年に着工され、1909年定礎後、1912年に朝鮮銀行本店に竣工された銀行の建物で、独立後1950年に韓国銀行本館となった。日帝強占期に韓国の経済収奪のために、日本が打ち立てた中央銀行に、チョンチョソクに伊藤博文字で確認される\"定礎隆熙三年七月十一日\"記録が残って日本が行なった金融侵奪の歴史を証言している。地下1階地上3階の鉄骨コンクリート構造で外壁には御影石を整えてつけた。日本人が設計し、韓国戦争の時、内部が火に乗って1956年に補修した。その後1987年、新館を建物の裏手に建設して、この建物は本来の姿のまま復元して貨幣金融博物館として使われている。全体的にルネサンス様式の形を残している。",
+    "QA": [
+        {
+            "question": "この建物はいつ着工されましたか？",
+            "answer": "1907年に着工されました。"
+        },
+        {
+            "question": "この建物は何年に竣工されましたか？",
+            "answer": "1912年に竣工されました。"
+        },
+        {
+            "question": "この建物は何のために建てられましたか？",
+            "answer": "銀行の建物として建てられました。"
+        },
+        {
+            "question": "この建物の外壁には何が使われていますか？",
+            "answer": "外壁には御影石が使われています。"
+        },
+        {
+            "question": "誰がこの建物を設計しましたか？",
+            "answer": "日本人が設計しました。"
+        },
+        {
+            "question": "この建物は何年に火災に遭いましたか？",
+            "answer": "内部が火に乗ったのは韓国戦争の時で、1956年に補修されました。"
+        },
+        {
+            "question": "この建物は現在何として使われていますか？",
+            "answer": "現在は貨幣金融博物館として使われています。"
+        }
+    ],
+    "word_Count": {
+        "text": 258,
+        "QA": 182
+    }
+}

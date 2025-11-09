@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_009357",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-09-01",
+        "domain": "음식점",
+        "title": "ソンビオク（선비옥）"
+    },
+    "text": "ソンビオク（선비옥）\\n\nソウル特別市 鐘路区 鐘路17キル 32\\n\nこの店はソウル特別市のチョンノに位置した韓国料理店です。タプコル公園の近くに位置するお店です。代表的なメニューは豚カルビです。",
+    "QA": [
+        {
+            "question": "この店はどこにありますか？",
+            "answer": "ソウル特別市 鐘路区 鐘路17キル 32"
+        },
+        {
+            "question": "この店はどんな料理を提供していますか？",
+            "answer": "代表的なメニューは豚カルビです。"
+        },
+        {
+            "question": "この店はどの公園の近くに位置していますか？",
+            "answer": "タプコル公園の近くに位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 72,
+        "QA": 78
+    }
+}

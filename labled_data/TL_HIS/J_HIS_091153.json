@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_091153",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=224&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=21840000&ccbaCtcd=37&ccbaCpno=1123721840000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2022-10-31",
+        "domain": "문화/역사관광",
+        "title": "영주 부석사 범종각"
+    },
+    "text": "朝鮮時代栄州浮石寺梵鐘閣は慶尚北道栄州市浮石面浮石寺に位置している。2018年にユネスコ世界遺産に登録されている。鐘楼は18世紀中葉を代表する建築で、正面3間、側面4間規模の重層翼工系入母屋屋根形式を持っている。『ギェアムイルロク』、\"浮石詐欺\"など文献資料には'鐘楼'、'、梵鐘閣'などと表記されている。1746年の火災で焼失された後、1747年に再建されたと記録されている。梵鐘閣の内部には、鉄の鐘がある記録がありますが、素材に対する情報は知られていなかった。浮石寺梵鐘閣は査察の進入ジュンシムチュクソンに位置し、一階は出入りを兼ねている。建物は正面3間、側面4間となっており、側面が長い。一階は柱だけでなっていて、中央間には安養楼に通じる階段がある。二階は壁がなく開けており、内部には法鼓、木魚、ウンパンイいる。前面と左右側面の恐怖は1チュルモク2つの翼型で構成されていて、花盤も飾られている。屋根は、後面が切妻屋根であり、プンパンはない。梵鐘閣の再建当時の丹青が残っている。",
+    "QA": [
+        {
+            "question": "浮石寺梵鐘閣はどこに位置していますか？",
+            "answer": "浮石寺梵鐘閣は慶尚北道栄州市浮石面浮石寺に位置しています。"
+        },
+        {
+            "question": "浮石寺梵鐘閣は何年にユネスコ世界遺産に登録されましたか？",
+            "answer": "浮石寺梵鐘閣は2018年にユネスコ世界遺産に登録されました。"
+        },
+        {
+            "question": "梵鐘閣は何年に焼失され、再建されたのですか？",
+            "answer": "梵鐘閣は1746年に火災で焼失され、1747年に再建されました。"
+        },
+        {
+            "question": "梵鐘閣の内部には何がありますか？",
+            "answer": "梵鐘閣の内部には法鼓、木魚、ウンパンイがあります。"
+        },
+        {
+            "question": "梵鐘閣の再建当時の丹青は残っていますか？",
+            "answer": "はい、梵鐘閣の再建当時の丹青が残っています。"
+        }
+    ],
+    "word_Count": {
+        "text": 323,
+        "QA": 178
+    }
+}

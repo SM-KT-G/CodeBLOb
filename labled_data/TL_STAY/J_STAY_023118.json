@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_023118",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2019-04-12",
+        "domain": "숙박",
+        "title": "松亭ホテル（송정호텔）"
+    },
+    "text": "松亭ホテル\n釜山広域市 海雲台区 松亭海辺路28\n「松亭（ソンジョン）ホテル」は、海岸の向かいにあり、松亭の海が一望できる松亭最大規模のホテルです。新鮮な刺身を提供する店が多い松亭海水浴場に隣接しています。",
+    "QA": [
+        {
+            "question": "このホテルはどこにありますか？",
+            "answer": "松亭ホテルは釜山広域市海雲台区松亭海辺路28に位置しています。"
+        },
+        {
+            "question": "松亭ホテルはどのような特徴がありますか？",
+            "answer": "松亭ホテルは海岸の向かいにあり、松亭の海が一望できる松亭最大規模のホテルです。"
+        },
+        {
+            "question": "ホテルの近くにはどんな施設がありますか？",
+            "answer": "ホテルは松亭海水浴場に隣接しており、新鮮な刺身を提供する店が多くあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 75,
+        "QA": 118
+    }
+}

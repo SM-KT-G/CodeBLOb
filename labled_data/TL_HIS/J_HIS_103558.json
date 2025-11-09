@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_103558",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101933",
+        "collectedDate": "2023-10-06",
+        "publishedDate": "2023-10-06",
+        "domain": "문화/역사관광",
+        "title": "중화전"
+    },
+    "text": "中華戦徳寿宮の中和戦及びジュンファムン(德壽宮の中和殿や中和門)はそれぞれ徳寿宮の正殿と休戦へ出入りする入り口である。徳寿宮の本来の名前は慶運宮(慶運宮)だ。中華戦の前庭には、公式的な調整会議やその他国家的な意識がある際、文武の臣下の位置を表示した品階石(品階石)が魚道(御道)の左右に配列されている。元々中華戦領域の周りには長方形で2間幅の廊が巻いていたが、日帝強占期に全て撤去されて、現在は、東南部の角の7間だけが残っている。",
+    "QA": [
+        {
+            "question": "中和戦徳寿宮の本来の名前は何ですか？",
+            "answer": "慶運宮"
+        },
+        {
+            "question": "中和戦の前庭には何が配置されていますか？",
+            "answer": "品階石(品階石)"
+        },
+        {
+            "question": "中和戦領域の周りには何が巻いていましたが、日帝強占期に撤去されましたか？",
+            "answer": "長方形で2間幅の廊"
+        },
+        {
+            "question": "中和戦領域の周りに残っているのは何ですか？",
+            "answer": "東南部の角の7間だけ"
+        }
+    ],
+    "word_Count": {
+        "text": 157,
+        "QA": 91
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_002112",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-06",
+        "domain": "음식점",
+        "title": "sushiダウム ( 스시다움 )"
+    },
+    "text": "sushiダウム ( 스시다움 )\n京畿道 平沢市 ヒョンシン1ギル27\n新鮮な刺身を仕入れて寿司を提供する店です。京畿道のピョンテク市に位置した和食専門店です。おすすめは寿司です。",
+    "QA": [
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "この店は京畿道平沢市ヒョンシン1ギル27に位置しています。"
+        },
+        {
+            "question": "この店の名前は何ですか？",
+            "answer": "この店の名前はsushiダウム（スシダウム）です。"
+        },
+        {
+            "question": "この店ではどんな料理を提供していますか？",
+            "answer": "この店では新鮮な刺身を仕入れて寿司を提供しています。"
+        },
+        {
+            "question": "この店のおすすめは何ですか？",
+            "answer": "この店のおすすめは寿司です。"
+        }
+    ],
+    "word_Count": {
+        "text": 66,
+        "QA": 112
+    }
+}

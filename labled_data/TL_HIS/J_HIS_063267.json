@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_063267",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=478&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=01350000&ccbaCtcd=34&ccbaCpno=2113401350000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1991-12-03",
+        "domain": "문화/역사관광",
+        "title": "마곡사심검당및고방"
+    },
+    "text": "忠清南道有形文化財、麻谷寺は忠清南道地方のすべての寺院を統括した大きな寺院で、新羅時代に慈蔵律寺が創建し、高麗時代に普照国師が再建したと記録されています。朝鮮時代には世祖(在位1455~1468)がここに来て、「霊山殿」という扁額を直接書いており、雑役を免除する校地を下しましたが、いずれも文禄·慶長の役(1592)の時に焼失してしまいました。孝宗1年(1650)から住職である周順の努力で寺がある程度回復しましたが、正祖6年(1782)年に再び大きな火事が起き、大光宝殿をはじめとする1050間がすべて焼失しました麻谷寺心剣堂は大光宝殿5層石塔の東側に位置する僧侶たちの住居である寮舎で、古坊は倉庫の建物です。心剣堂がいつ建てられたのかは不明ですが、正祖21年(1797)年に補修工事が行われた記録と扁額に書かれた文によると、哲宗7年(1856)年に修理し、1909年に瓦を再び上げたという。コの字の平面に自然石を積んで1階建ての基壇を形成し、礎石を置いた上に丸く四角い柱を混ぜて建てました",
+    "QA": [
+        {
+            "question": "麻谷寺はどの時代に創建されましたか？",
+            "answer": "麻谷寺は新羅時代に創建されました。"
+        },
+        {
+            "question": "麻谷寺はどのような扁額がありますか？",
+            "answer": "麻谷寺には世祖が書いた「霊山殿」という扁額があります。"
+        },
+        {
+            "question": "麻谷寺は何度も火災に遭いましたか？",
+            "answer": "麻谷寺は文禄·慶長の役(1592)と正祖6年(1782)に大きな火災に遭いました。"
+        },
+        {
+            "question": "麻谷寺の心剣堂はどこに位置していますか？",
+            "answer": "麻谷寺の心剣堂は大光宝殿の東側に位置しています。"
+        },
+        {
+            "question": "心剣堂はいつ建てられましたか？",
+            "answer": "心剣堂の建築年は不明ですが、哲宗7年(1856)に修理され、1909年に瓦が再び上げられました。"
+        }
+    ],
+    "word_Count": {
+        "text": 327,
+        "QA": 179
+    }
+}

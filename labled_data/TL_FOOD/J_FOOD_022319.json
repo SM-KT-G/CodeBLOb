@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_022319",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2023-07-02",
+        "domain": "음식점",
+        "title": "산채촌"
+    },
+    "text": "山菜村 (산채촌)\\n\n江原特別自治道 麟蹄郡北面語頭院キル25\\n\n山菜村は江原道麟蹄郡北面に位置している飲食店で、山菜料理や在来種の野菜料理を専門としています。山菜村では、直接採取した薬草や新鮮な山の木を丹念に使用し、特に濃厚な出汁と韓方薬材を使って在来種の野菜をお楽しみいただけます。",
+    "QA": [
+        {
+            "question": "山菜村はどこに位置していますか？",
+            "answer": "山菜村は江原道麟蹄郡北面に位置しています。"
+        },
+        {
+            "question": "山菜村ではどのような料理を提供していますか？",
+            "answer": "山菜村では山菜料理や在来種の野菜料理を専門として提供しています。"
+        },
+        {
+            "question": "山菜村ではどのような材料を使用していますか？",
+            "answer": "山菜村では直接採取した薬草や新鮮な山の木などを使用しています。特に濃厚な出汁と韓方薬材を使って在来種の野菜をお楽しみいただけます。"
+        }
+    ],
+    "word_Count": {
+        "text": 106,
+        "QA": 130
+    }
+}

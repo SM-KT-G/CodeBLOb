@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_055102",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-25",
+        "domain": "음식점",
+        "title": "イェンナルジャントチキン 浦升( 옛날장터치킨 포승 )"
+    },
+    "text": "イェンナルジャントチキン 浦升( 옛날장터치킨 포승 )\n京畿道 ピョンテク市 ヨスル3ギル50\n京畿道のピョンテク市に位置した韓食専門店です。代表的なメニューはチキンです。",
+    "QA": [
+        {
+            "question": "イェンナルジャントチキン 浦升はどこに位置していますか？",
+            "answer": "イェンナルジャントチキン 浦升は京畿道のピョンテク市に位置しています。"
+        },
+        {
+            "question": "イェンナルジャントチキン 浦升は何を専門としていますか？",
+            "answer": "イェンナルジャントチキン 浦升は韓食を専門としています。"
+        },
+        {
+            "question": "イェンナルジャントチキン 浦升の代表的なメニューは何ですか？",
+            "answer": "イェンナルジャントチキン 浦升の代表的なメニューはチキンです。"
+        }
+    ],
+    "word_Count": {
+        "text": 63,
+        "QA": 132
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_019462",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-01",
+        "domain": "음식점",
+        "title": "大韓民国 ( 대한민국 )"
+    },
+    "text": "大韓民国 \n京畿道 平沢市 中央2路 156\n10種類の肉と様々なサム(野菜巻き)野菜を食べ放題で食べられるところです。京畿道のピョンテク市に位置した無制限提供専門店です。代表的なメニューはサムギョプサルです。",
+    "QA": [
+        {
+            "question": "このお店はどこにありますか？",
+            "answer": "このお店は大韓民国京畿道平沢市中央2路156にあります。"
+        },
+        {
+            "question": "このお店では何が食べられますか？",
+            "answer": "このお店では10種類の肉と様々なサム（野菜巻き）野菜を食べ放題で食べられます。代表的なメニューはサムギョプサルです。"
+        },
+        {
+            "question": "このお店の特徴は何ですか？",
+            "answer": "このお店の特徴は、無制限提供専門店であり、多くの種類の肉や野菜を楽しむことができることです。"
+        },
+        {
+            "question": "京畿道のピョンテク市はどこですか？",
+            "answer": "京畿道のピョンテク市は大韓民国に位置する市の一つです。"
+        }
+    ],
+    "word_Count": {
+        "text": 77,
+        "QA": 160
+    }
+}

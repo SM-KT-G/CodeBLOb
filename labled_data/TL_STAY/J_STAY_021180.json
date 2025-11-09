@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_021180",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42040&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "여수 키웨스트리조트(낭만포차 도보10분)"
+    },
+    "text": "麗水の中心に位置するキーウエストリゾートで素敵な旅行をお楽しみください。 リゾートは麗水海洋公園浪漫屋台通りにあるので観光地へのアクセスが良いです。 客室内では禁煙が原則であり、テラスでも禁煙をしなければなりません。 また、22時以降に入室される場合は、予めペンションまでご連絡ください。 チェックイン及びチェックアウトは3階フロントにて行われます。 ご了承とご協力をお願いいたします。",
+    "QA": [
+        {
+            "question": "キーウエストリゾートの立地はどのようになっていますか？",
+            "answer": "キーウエストリゾートは麗水海洋公園浪漫屋台通りに位置しており、観光地へのアクセスが良いです。"
+        },
+        {
+            "question": "客室内ではどのようなルールがありますか？",
+            "answer": "キーウエストリゾートでは客室内は禁煙となっており、テラスでも禁煙を守る必要があります。"
+        },
+        {
+            "question": "チェックインとチェックアウトはどこで行いますか？",
+            "answer": "チェックインとチェックアウトは3階フロントで行われます。ご了承ください。"
+        },
+        {
+            "question": "夜遅くにチェックインする場合はどうすればいいですか？",
+            "answer": "夜遅くにチェックインする場合は、事前にペンションまでご連絡ください。"
+        }
+    ],
+    "word_Count": {
+        "text": 141,
+        "QA": 187
+    }
+}

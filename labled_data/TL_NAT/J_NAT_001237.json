@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_001237",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://apis.data.go.kr/1400000/service/cultureInfoService2/mntInfoOpenAPI2",
+        "collectedDate": "2023-11-22",
+        "publishedDate": "2020-12-01",
+        "domain": "자연관광",
+        "title": "앵무산"
+    },
+    "text": "エンム酸 (앵무산)\\n\n全羅南道順天市海竜面仙鶴里\\n\n山の高さ : 343.1m , 桜舞山は北に順天市の海龍面と境界を形成しており、昔から霊山と思っており、今も山上に天祭壇があり、天祭壇の下に永川という泉がある。 頂上に立つと順天の海龍面と麗水の栗村面が一望できる。",
+    "QA": [
+        {
+            "question": "エンム酸はどこに位置していますか？",
+            "answer": "エンム酸は全羅南道順天市海竜面仙鶴里に位置しています。"
+        },
+        {
+            "question": "エンム酸の山の高さはどれくらいですか？",
+            "answer": "エンム酸の山の高さは343.1mです。"
+        },
+        {
+            "question": "エンム酸は何のために使われていますか？",
+            "answer": "エンム酸は昔から霊山とされ、山上には天祭壇があります。また、頂上からは順天の海龍面と麗水の栗村面を一望することができます。"
+        },
+        {
+            "question": "エンム酸の頂上には何がありますか？",
+            "answer": "エンム酸の頂上には天祭壇があります。天祭壇の下には永川という泉もあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 99,
+        "QA": 158
+    }
+}

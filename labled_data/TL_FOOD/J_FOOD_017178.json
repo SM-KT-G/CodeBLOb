@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_017178",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-01",
+        "domain": "음식점",
+        "title": "故郷モッコリ ( 고향먹거리 )"
+    },
+    "text": "故郷モッコリ \n江原道 江陵市 金城路 21\n韓国のグルメ番組にも紹介された、新鮮な海産料理を味わえるところです。 江原道のガンヌン市に位置した韓食専門店です。代表的なメニューは魚の蒸し物の盛り合わせです。",
+    "QA": [
+        {
+            "question": "故郷モッコリはどこに位置していますか？",
+            "answer": "故郷モッコリは韓国の江原道江陵市に位置しています。"
+        },
+        {
+            "question": "故郷モッコリで味わえる代表的なメニューは何ですか？",
+            "answer": "故郷モッコリで味わえる代表的なメニューは魚の蒸し物の盛り合わせです。"
+        },
+        {
+            "question": "故郷モッコリは韓国のどのグルメ番組に紹介されましたか？",
+            "answer": "故郷モッコリは韓国のグルメ番組にも紹介されました。"
+        }
+    ],
+    "word_Count": {
+        "text": 75,
+        "QA": 113
+    }
+}

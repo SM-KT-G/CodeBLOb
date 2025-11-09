@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_003178",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42020&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "키즈스테이호텔 인 부곡"
+    },
+    "text": "キッズステイホテルのインブゴクは、お客様と一緒に過ごしたすべての瞬間を大切にします。 顧客のためのサービスを提供することで、私たちは顧客の時間をさらに長くします。 客室はお客様のリラックスのために、様々な悩みを経て完成しました。 最上の休息をご体験いただけます。",
+    "QA": [
+        {
+            "question": "イブンゴクの特徴は何ですか？",
+            "answer": "イブンゴクは、お客様と一緒に過ごしたすべての瞬間を大切にします。"
+        },
+        {
+            "question": "イブンゴクはどのようなサービスを提供していますか？",
+            "answer": "私たちは顧客のためのサービスを提供し、顧客の時間をさらに長くします。"
+        },
+        {
+            "question": "客室はどのようになっていますか？",
+            "answer": "客室はお客様のリラックスのために、さまざまな悩みを経て完成しました。"
+        },
+        {
+            "question": "客室での休息はどのような体験になりますか？",
+            "answer": "客室で最上の休息をご体験いただけます。"
+        }
+    ],
+    "word_Count": {
+        "text": 96,
+        "QA": 143
+    }
+}

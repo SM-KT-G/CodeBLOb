@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_025386",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42041&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "부띠끄 호텔 와인"
+    },
+    "text": "雲川湖で始まる朝食サービスには高級コーヒー豆が提供されます。 サービステーブルは随時利用でき、高級なシモンズベッドと羽毛布団、330T純綿布団、ベッドカバーと一緒に提供されます。 衛生を重視するお客様のために、アメリカンスタンダードウォシュレット一体型便器、大林、埋め立て型シャワーが設置されています。 ゲストはまた、イニスフリーアメニティも使用できます。",
+    "QA": [
+        {
+            "question": "朝食サービスはどこで提供されますか？",
+            "answer": "朝食サービスは雲川湖で提供されます。"
+        },
+        {
+            "question": "朝食には何が提供されますか？",
+            "answer": "朝食には高級コーヒー豆が提供されます。"
+        },
+        {
+            "question": "利用できるテーブルはどのようなものですか？",
+            "answer": "利用できるテーブルはサービステーブルです。"
+        },
+        {
+            "question": "ベッドと布団はどのように提供されますか？",
+            "answer": "ベッドと布団は高級なシモンズベッドと羽毛布団、330T純綿布団、ベッドカバーと一緒に提供されます。"
+        },
+        {
+            "question": "衛生設備には何がありますか？",
+            "answer": "衛生設備にはアメリカンスタンダードウォシュレット一体型便器、大林、埋め立て型シャワーが設置されています。"
+        },
+        {
+            "question": "ゲストが使用できるアメニティはありますか？",
+            "answer": "ゲストはイニスフリーアメニティも使用できます。"
+        }
+    ],
+    "word_Count": {
+        "text": 130,
+        "QA": 212
+    }
+}

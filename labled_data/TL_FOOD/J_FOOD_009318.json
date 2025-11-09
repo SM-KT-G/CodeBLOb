@@ -1,0 +1,31 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_009318",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-15",
+        "domain": "음식점",
+        "title": "ソンギョン餃子料理専門店鐘路 (성경만두요리전문점 종로)"
+    },
+    "text": "ソンギョン餃子料理専門店鐘路 \\n\nソウル特別市 鐘路区 水標路 88\\n\nソンギョン餃子料理専門店はソウル特別市の清渓川沿いに位置しています。代表メニューは餃子の寄せ鍋です。",
+    "QA": [
+        {
+            "question": "ソンギョン餃子料理専門店鐘路はどこに位置していますか？",
+            "answer": "ソンギョン餃子料理専門店はソウル特別市の鐘路区に位置しています。"
+        },
+        {
+            "question": "ソンギョン餃子料理専門店の代表メニューは何ですか？",
+            "answer": "ソンギョン餃子料理専門店の代表メニューは餃子の寄せ鍋です。"
+        }
+    ],
+    "word_Count": {
+        "text": 64,
+        "QA": 82
+    }
+}

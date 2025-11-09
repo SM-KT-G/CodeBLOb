@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_008909",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=759&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=00022100&ccbaCtcd=50&ccbaCpno=2333900022100&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1971-08-26",
+        "domain": "문화/역사관광",
+        "title": "광령지석묘 6호"
+    },
+    "text": "光令支石墓6号 (광령지석묘 6호)\\n\n済州市涯月邑光寧里1835番地\\n\n済州特別自治道記念物 , 支石墓は青銅器時代の代表的な墓で支石墓とも呼ばれ、主に経済力があったり政治権力を持った支配層の墓として知られている。 韓国の支石墓は4つの支え石を立てて石室を作り、その上に巨大で平らな蓋石を載せたテーブル式と、地中に石室を作って小さな支え石を立てた後、その上に蓋石を載せた碁盤式に区分される。 北済州郡涯月邑光寧里の平らな畑の片隅にあるこの支石墓は碁盤式だ。 南·北·西の3隅に小さな石を支え石として立てた後、その上に蓋石を置いたが、長さ2.3m、幅2.19mで多少小さい方だ。 蓋石の南東側の角には卵穴<性穴:豊作を祈ったり、子供を産むことを祈る意味で作った穴)が残っている。",
+    "QA": [
+        {
+            "question": "この支石墓はどのような時代のものですか？",
+            "answer": "この支石墓は青銅器時代の代表的な墓であり、主に経済力があったり政治権力を持った支配層の墓として知られています。"
+        },
+        {
+            "question": "韓国の支石墓はどのような形状に区分されますか？",
+            "answer": "韓国の支石墓はテーブル式と碁盤式に区分されます。テーブル式は4つの支え石を立てて石室を作り、その上に巨大で平らな蓋石を載せます。一方、碁盤式は地中に石室を作って小さな支え石を立てた後、その上に蓋石を載せます。"
+        },
+        {
+            "question": "済州市涯月邑光寧里にあるこの支石墓はどのような形状の支石墓ですか？",
+            "answer": "この支石墓は碁盤式の支石墓で、南・北・西の3隅に小さな石を支え石として立てた後、その上に蓋石を置いています。蓋石のサイズは長さ2.3m、幅2.19mで、比較的小さい方です。また、蓋石の南東側の角には卵穴（性穴）が残っています。"
+        }
+    ],
+    "word_Count": {
+        "text": 250,
+        "QA": 255
+    }
+}

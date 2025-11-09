@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_055413",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/view?relicId=35836906",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "기와 조각"
+    },
+    "text": "瓦片 (기와 조각)\\n\n国籍/時代: 韓国の統一新羅時代 材質: 土-硬質 分類: 主に生活用途の建築部材で、屋根材として使用される平瓦 大きさ: 現在の長さは12.5cm、幅は12.7cm、また現在の長さは5.8cm、幅は5.7cmとなっています。",
+    "QA": [
+        {
+            "question": "この瓦片はどの国の時代のものですか？",
+            "answer": "この瓦片は韓国の統一新羅時代のものです。"
+        },
+        {
+            "question": "この瓦片はどの材質で作られていますか？",
+            "answer": "この瓦片は硬質の土で作られています。"
+        },
+        {
+            "question": "この瓦片は主にどのような用途で使用されますか？",
+            "answer": "この瓦片は主に屋根材として使用されます。"
+        },
+        {
+            "question": "この瓦片の大きさはどのくらいですか？",
+            "answer": "この瓦片の現在の長さは12.5cmで、幅は12.7cmです。また、現在の長さは5.8cmで、幅は5.7cmです。"
+        }
+    ],
+    "word_Count": {
+        "text": 92,
+        "QA": 140
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_002531",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=824&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=00690000&ccbaCtcd=37&ccbaCpno=2333700690000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1986-12-11",
+        "domain": "문화/역사관광",
+        "title": "사현정"
+    },
+    "text": "サ·ヒョンジョン (사현정)\\n\n慶尚北道栄州市順興面邑内里540外2頭\\n\n慶尚北道記念物 , 高麗時代後期の人であるアンソク先生と彼の3人の息子が使っていた井戸だ。 密職工のアン·ソク先生は戸長に推戴されたが、官職に進まず、彼の3人の息子である祝·宝·家を立派に育てたが、この時一緒に使っていた井戸だという。 井戸は花崗岩を井の字型に3段組み立てた形だ。 その裏には碑閣を建てたが、その中には朝鮮仁宗元年(1545)豊基郡守チュ·セブンがこの4人の徳を賛えるために建てた「四賢井」碑が残っている。",
+    "QA": [
+        {
+            "question": "この井戸を使っていたのは誰でしょうか？",
+            "answer": "この井戸を使っていたのはアンソク先生と彼の3人の息子です。"
+        },
+        {
+            "question": "アンソク先生はどのような職業でしたか？",
+            "answer": "アンソク先生は密職工でした。"
+        },
+        {
+            "question": "この井戸はどのような形状ですか？",
+            "answer": "この井戸は井の字型に3段組み立てられた花崗岩でできています。"
+        },
+        {
+            "question": "碑閣の中にはどのような碑がありますか？",
+            "answer": "碑閣の中には朝鮮仁宗元年(1545)豊基郡守チュ·セブンが建てた「四賢井」碑が残っています。"
+        }
+    ],
+    "word_Count": {
+        "text": 183,
+        "QA": 140
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_088951",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=755&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=22&ccbaAsno=00650000&ccbaCtcd=35&ccbaCpno=2223500650000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2023-11-03",
+        "domain": "문화/역사관광",
+        "title": "야장"
+    },
+    "text": "夜長\\n\n全羅北道無形文化財、雅江は鍛冶屋をいう。鉄のような金属を溶かして金づちで叩いて形を作って手入れして農機具、兵器類などを作る職人だ。野帳保有者に指定されたキムハンイルは1960年から鍛冶屋で仕事を学び始めた。鍛冶屋は、過去の南部市場などに数十ヵ所が盛んに行われたが、現在はほとんど消えており、いくつかのヵ所が命脈をつないでいる。主に伝統剣や農業に必要な農機具、生活用品などを製作しており、注文製作もしている。2008年、労働部指定伝統技能伝承者に指定されており、全羅北道工芸品競進大会や伝承工芸、大田(テジョン)で入賞したりもした。",
+    "QA": [
+        {
+            "question": "雅江はどのような職人ですか？",
+            "answer": " 雅江は鍛冶屋で、鉄のような金属を溶かして形を作り、農機具や兵器類などを製作する職人です。"
+        },
+        {
+            "question": "キムハンイルは何を学び始めましたか？",
+            "answer": " キムハンイルは1960年から鍛冶屋で仕事を学び始めました。"
+        },
+        {
+            "question": "鍛冶屋はどのようなものを製作していますか？",
+            "answer": " 鍛冶屋は主に伝統剣や農業に必要な農機具、生活用品などを製作しており、注文製作もしています。"
+        }
+    ],
+    "word_Count": {
+        "text": 198,
+        "QA": 127
+    }
+}

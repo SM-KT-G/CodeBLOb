@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_066254",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/view?relicId=64124",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "바리"
+    },
+    "text": "バリ (바리)\\n\n国籍/時代：韓国の新羅時代 材質：土 大きさ：高さ132cm、厚さ12cm、底径8cm、高さ127cm、厚さ13cm、底径78cm この作品は、新羅時代の韓国で作られた土製の彫刻です。サイズは、高さ132cmで厚さ12cm、底径は8cmです。また、もう一つの作品は高さ127cm、厚さ13cm、底径は78cmです。",
+    "QA": [
+        {
+            "question": "この彫刻はどの時代に作られましたか？",
+            "answer": "この彫刻は新羅時代の韓国で作られました。"
+        },
+        {
+            "question": "この彫刻の材料は何ですか？",
+            "answer": "この彫刻の材料は土です。"
+        },
+        {
+            "question": "この彫刻のサイズは何ですか？",
+            "answer": "この彫刻のサイズは高さ132cmで厚さ12cm、底径は8cmです。"
+        },
+        {
+            "question": "もう一つの彫刻のサイズは何ですか？",
+            "answer": "もう一つの彫刻のサイズは高さ127cmで厚さ13cm、底径は78cmです。"
+        }
+    ],
+    "word_Count": {
+        "text": 122,
+        "QA": 120
+    }
+}

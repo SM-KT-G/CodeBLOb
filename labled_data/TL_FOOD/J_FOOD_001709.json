@@ -1,0 +1,31 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001709",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2020-12-07",
+        "domain": "음식점",
+        "title": "GULJAK TOPOKKI CHICKEN ソウル新豊駅( 걸작떡볶이치킨 서울신풍역 )"
+    },
+    "text": "GULJAK TOPOKKI CHICKEN ソウル新豊駅( 걸작떡볶이치킨 서울신풍역 )\\n\nソウル特別市 ヨンドゥンポ区 シンプンロ77\\n\n韓国を代表するストリートフードのトッポッキが味わえます。 ソウル特別市のヨンドゥンポ区に位置したその他の案内専門店です。おすすめはトッポッキです。",
+    "QA": [
+        {
+            "question": "ソウル新豊駅にあるGULJAK TOPOKKI CHICKENはどこに位置していますか？",
+            "answer": "GULJAK TOPOKKI CHICKENはソウル特別市ヨンドゥンポ区シンプンロ77に位置しています。"
+        },
+        {
+            "question": "GULJAK TOPOKKI CHICKENではどのような料理を楽しむことができますか？",
+            "answer": "GULJAK TOPOKKI CHICKENでは韓国を代表するストリートフードのトッポッキが味わえます。特におすすめはトッポッキです。"
+        }
+    ],
+    "word_Count": {
+        "text": 107,
+        "QA": 151
+    }
+}

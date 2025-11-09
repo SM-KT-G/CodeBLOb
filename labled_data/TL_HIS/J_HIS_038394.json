@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_038394",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1059&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=01410000&ccbaCtcd=34&ccbaCpno=3413401410000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1984-05-17",
+        "domain": "문화/역사관광",
+        "title": "용암영당"
+    },
+    "text": "龍岩影堂 (용암영당)\\n\n忠清南道保寧市保寧湖路819(美山面、イ·ジェホン先生舎堂)\\n\n朝鮮、忠清南道文化財資料、◦ 龍岩影堂(サムサダン)は朝鮮英祖16年(1740年)、保寧地域に住む慶州李氏が自分たちの先祖である益斎李斉賢を追慕し、祭祀するために建てられた。 ◦ 1800年には熊川の学者であり、イ·ジェヒョンの17代孫であるイ·イェファンなどが中心となり、イ·ジェヒョンの遺影を奉安し、郷士した。 ◦ その後、何度も直してきたが、最近保寧ダム水没によって現在の位置に移転し、毎年儒林と慶州李氏の子孫たちが祭祀を行う。 ◦ この祠堂に祀られた益斎李斉賢は高麗忠烈王27年(1301)の年齢で15歳で文科に及第し、恭愍王6年(1357)の郵政僧を最後に官職を離れるまで数多くの官職を歴任した。 彼は忠善王の時に韓国に入り、延慶の万権堂で趙孟夫など様々な学者らとともに古典を研究し、中国にその名を馳せた。",
+    "QA": [
+        {
+            "question": "龍岩影堂はいつ建てられましたか？",
+            "answer": "龍岩影堂は朝鮮英祖16年(1740年)に建てられました。"
+        },
+        {
+            "question": "龍岩影堂は誰の追慕のために建てられましたか？",
+            "answer": "龍岩影堂は慶州李斉賢を追慕し、祭祀するために建てられました。"
+        },
+        {
+            "question": "龍岩影堂はどのような祭祀が行われていますか？",
+            "answer": "龍岩影堂では儒林と慶州李氏の子孫たちが毎年祭祀を行っています。"
+        },
+        {
+            "question": "龍岩影堂は最近移転されましたか？なぜですか？",
+            "answer": "最近、龍岩影堂は保寧ダム水没によって現在の位置に移転されました。"
+        },
+        {
+            "question": "龍岩影堂に祀られている李斉賢はどのような経歴を持っていますか？",
+            "answer": "益斎李斉賢は高麗忠烈王27年(1301)の年齢で15歳で文科に及第し、恭愍王6年(1357)の郵政僧を最後に官職を離れるまで数多くの官職を歴任しました。彼は忠善王の時に韓国に入り、延慶の万権堂で古典を研究し、中国にその名を馳せました。"
+        }
+    ],
+    "word_Count": {
+        "text": 297,
+        "QA": 257
+    }
+}

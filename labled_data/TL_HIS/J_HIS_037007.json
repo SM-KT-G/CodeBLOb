@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_037007",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=681&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=05300000&ccbaCtcd=37&ccbaCpno=2113705300000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2018-12-20",
+        "domain": "문화/역사관광",
+        "title": "청도 적천사 석조지장보살좌상 및 시왕상일괄"
+    },
+    "text": "淸道磧川寺石造地蔵菩薩坐像及び十王像一括 (청도 적천사 석조지장보살좌상 및 시왕상일괄)\\n\n慶尚北道清道郡\\n\n慶尚北道有形文化財、この仏像は清道赤泉寺冥府殿に奉安されている仏石製の尊像で、地蔵菩薩坐像を中心に道明尊者と無毒鬼王、時王(10尊)、鬼王(2尊)、判官(2尊)、獅子(2尊)、仁王(2尊)、そして童子(12尊)などがすべて完備されている。 地蔵菩薩像の腹蔵から発見された造成発願文によって、1676年に守彫刻僧の守一をはじめとする10人の彫刻僧が造成したことが確認される。",
+    "QA": [
+        {
+            "question": "この仏像はどこに奉安されているのですか？",
+            "answer": "この仏像は清道赤泉寺冥府殿に奉安されています。"
+        },
+        {
+            "question": "この仏像は何年に造成されたのですか？",
+            "answer": "この仏像は1676年に造成されました。"
+        },
+        {
+            "question": "この仏像を造成した彫刻僧は何人でしたか？",
+            "answer": "この仏像を造成した彫刻僧は守一をはじめとする10人でした。"
+        },
+        {
+            "question": "この仏像にはどのような像が含まれていますか？",
+            "answer": "この仏像には地蔵菩薩坐像を中心に道明尊者と無毒鬼王、時王、鬼王、判官、獅子、仁王、そして童子などが含まれています。"
+        }
+    ],
+    "word_Count": {
+        "text": 179,
+        "QA": 152
+    }
+}

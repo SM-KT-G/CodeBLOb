@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_061495",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/view?relicId=208190",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "돌 칼"
+    },
+    "text": "石刀 (돌 칼)\\n\n【国籍/時代】: 韓国の青銅器 【材質】: 砂岩 【分類】: 軍事用筋力兵器、刀剣の一種である剣 【大きさ】: 現在の長さは69cm、幅は44cm、厚さは06cm 以上が、韓国の青銅器であり、現在の大きさは長さ69cm、幅44cm、厚さ06cmである砂岩製の剣です。この剣は主に軍事目的で使用される筋力兵器であり、刀剣の一種です。",
+    "QA": [
+        {
+            "question": "この石刀の国籍は何ですか？",
+            "answer": "この石刀の国籍は韓国です。"
+        },
+        {
+            "question": "この石刀は何時代のものですか？",
+            "answer": "この石刀は青銅器時代のものです。"
+        },
+        {
+            "question": "この石刀はどの材質で作られていますか？",
+            "answer": "この石刀は砂岩で作られています。"
+        },
+        {
+            "question": "この石刀はどのような分類に属していますか？",
+            "answer": "この石刀は刀剣の一種であり、軍事用の筋力兵器です。"
+        },
+        {
+            "question": "この石刀の現在の大きさは何ですか？",
+            "answer": "この石刀の現在の大きさは長さ69cm、幅44cm、厚さ06cmです。"
+        }
+    ],
+    "word_Count": {
+        "text": 129,
+        "QA": 138
+    }
+}

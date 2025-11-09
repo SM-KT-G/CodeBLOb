@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_012457",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-01",
+        "domain": "음식점",
+        "title": "ビョルチョングン ( 별천궁 )"
+    },
+    "text": "ビョルチョングン \n慶尚北道 安東市 西後面 鳳停寺キル 141\n韓屋のインテリアが施されたレストランです。 おすすめはカンゴドゥンオ定食です。慶尚北道のアンドン市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "このレストランの場所はどこですか？",
+            "answer": "ビョルチョングン慶尚北道安東市西後面鳳停寺キル141に位置しています。"
+        },
+        {
+            "question": "このレストランはどのような雰囲気ですか？",
+            "answer": "こちらのレストランは韓屋のインテリアが施されており、伝統的な雰囲気が漂っています。"
+        },
+        {
+            "question": "このレストランのおすすめメニューは何ですか？",
+            "answer": "こちらのレストランのおすすめはカンゴドゥンオ定食です。"
+        },
+        {
+            "question": "このレストランはどのような料理を提供していますか？",
+            "answer": "こちらのレストランは韓食専門店で、慶尚北道のアンドン市の料理を提供しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 69,
+        "QA": 165
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001759",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-08-31",
+        "domain": "음식점",
+        "title": "Italy Moon 大学路（이태리문 대학로）"
+    },
+    "text": "Italy Moon 大学路（이태리문 대학로）\\n\nソウル特別市 鐘路区 大学路12キル 21\\n\nこの店はソウル特別市のテハンノに位置したイタリア料理店です。代表的なメニューはピザです。学生証をお持ちの方は割引が受けられるお店です。",
+    "QA": [
+        {
+            "question": "このイタリア料理店はどこにありますか？",
+            "answer": "このイタリア料理店はソウル特別市の鐘路区の大学路12キル21に位置しています。"
+        },
+        {
+            "question": "この店の特徴的なメニューは何ですか？",
+            "answer": "この店の代表的なメニューはピザです。"
+        },
+        {
+            "question": "学生証を持っている人は何か特典がありますか？",
+            "answer": "はい、学生証をお持ちの方は割引が受けられます。"
+        }
+    ],
+    "word_Count": {
+        "text": 86,
+        "QA": 101
+    }
+}

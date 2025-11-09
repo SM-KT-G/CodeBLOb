@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_085977",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1235&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=79&ccbaAsno=05330000&ccbaCtcd=31&ccbaCpno=4413105330000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2013-02-21",
+        "domain": "문화/역사관광",
+        "title": "시골소녀"
+    },
+    "text": "田舎少女\\n\n京畿道果川市光明路313\\n\n1928年、国の登録文化財、春川(春泉)李栄一(イ・ヨンイル)1904~1984)は1920~30年代に彩色化分野で活動した画家で、1925年の朝鮮美術展覧会に3等賞を受賞して、連続7回にわたって特選を獲得した作家や、終戦後には、作品活動をしなかった。田舍少女は幼い子どもを背負っている少女と妹を画面いっぱいに描いた作品で登場人物の表情や姿勢、身なりなどから堂々としても繊細な表現力が際立つ作品だ。少女たちの赤いスカートと赤ちゃんをおんぶしている青いおくるみで彩色画の特徴がドゥドゥロミョ、特に強弱がない細い筆線で、人体の輪郭線をまとった技法で日本画の表現様式を反映している。昌徳宮倉庫で発見され、1971年\"韓国近代美術60年前\"に初めて出品され、現在は保存処理し、国立現代美術館で所蔵している。植民地時代の花壇史において歴史的価値がある作品にユジョン作品がほとんど伝えない李栄一の代表作だ。",
+    "QA": [
+        {
+            "question": "この作品の作者は誰ですか？",
+            "answer": "李栄一(イ・ヨンイル)は1920~30年代に彩色化分野で活動した画家です。"
+        },
+        {
+            "question": "田舎少女とはどのような作品ですか？",
+            "answer": "田舎少女は幼い子どもを背負っている少女と妹を画面いっぱいに描いた作品で、登場人物の表情や姿勢、身なりなどから堂々としても繊細な表現力が際立つ作品です。"
+        },
+        {
+            "question": "この作品が発見された場所はどこですか？",
+            "answer": "昌徳宮倉庫で発見されました。"
+        },
+        {
+            "question": "この作品の特徴的な彩色技法について教えてください。",
+            "answer": "少女たちの赤いスカートと赤ちゃんをおんぶしている青いおくるみで彩色画の特徴があります。また、強弱がない細い筆線で、人体の輪郭線をまとった技法で日本画の表現様式を反映しています。"
+        },
+        {
+            "question": "田舎少女はどの美術館で所蔵されていますか？",
+            "answer": "現在は保存処理し、国立現代美術館で所蔵されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 307,
+        "QA": 245
+    }
+}

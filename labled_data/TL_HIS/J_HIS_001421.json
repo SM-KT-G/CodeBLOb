@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_001421",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=393&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=00280000&ccbaCtcd=37&ccbaCpno=2113700280000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1973-08-31",
+        "domain": "문화/역사관광",
+        "title": "예안향교"
+    },
+    "text": "イェアン郷校 (예안향교)\\n\n慶尚北道安東市陶山面退渓路2020-13(西部里)\\n\n慶尚北道有形文化財 , 郷校は聖賢の位牌を祀り祭祀を行い、地方民の教育を担当するために国が建てた教育機関だ。 朝鮮時代には郡ごとに一つの郷校を置いたが、礼安郷校は礼安郡に設置した郷校で太宗15年(1415)に建てられた。 宣祖34年(1601)に直し、英祖21年(1745)に大きく修理し、その後も数回の修理があった。 現在、教育空間である明倫堂と東斎·西斎、祭祀空間を形成する大成殿と内三門、他にも色々な付属建物が残っている。 ほとんどの郷校は明倫堂と大成殿が一直線上に置かれているが、礼安郷校は明倫堂が左側に離れている点が特異だ。 朝鮮時代には国家から奴婢·土地·本などを支給され学生たちを教えたが、甲午改革(1894)以後教育の機能はなくなり祭祀の機能だけが残っている。",
+    "QA": [
+        {
+            "question": "イェアン郷校はどのような建物ですか？",
+            "answer": "イェアン郷校は明倫堂、東斎・西斎、大成殿、内三門などの建物からなります。"
+        },
+        {
+            "question": "イェアン郷校は何年に建てられましたか？",
+            "answer": "イェアン郷校は太宗15年(1415)に建てられました。"
+        },
+        {
+            "question": "イェアン郷校はどのような教育機関でしたか？",
+            "answer": "イェアン郷校は聖賢の位牌を祀り祭祀を行い、地方民の教育を担当するために国が建てた教育機関でした。"
+        },
+        {
+            "question": "イェアン郷校の特徴はありますか？",
+            "answer": "イェアン郷校の特徴は、明倫堂が他の郷校と比べて明らかに左側に離れていることです。"
+        },
+        {
+            "question": "イェアン郷校は現在何の機能が残っていますか？",
+            "answer": "イェアン郷校では甲午改革以後、教育の機能はなくなりましたが、祭祀の機能だけが残っています。"
+        }
+    ],
+    "word_Count": {
+        "text": 280,
+        "QA": 214
+    }
+}

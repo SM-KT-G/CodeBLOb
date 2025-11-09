@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_037551",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=882&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=01860000&ccbaCtcd=38&ccbaCpno=2333801860000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1997-12-31",
+        "domain": "문화/역사관광",
+        "title": "창원 사화랑산 봉수대"
+    },
+    "text": "昌原沙火郞山烽燧台 (창원 사화랑산 봉수대)\\n\n慶尚南道昌原市鎮海区明洞山75番地ほか\\n\n朝鮮時代、慶尚南道記念物、烽燧台は松明と煙を利用して急な便りを伝えた昔の通信手段をいう。 高い山に登って火を起こし、昼は煙で夜は明かりで信号を送った。 沙花郎烽燧は慶尚道東莱からソウル木槨山(今の南山)中央烽燧に至る烽火線路の中間路線を連結する間烽火だ。 ここでは東側の加徳島天城連隊から烽燧を受け、長福山烽燧と昌原の余音浦烽燧に知らせた。 『熊川邑誌』をはじめとする地理誌によると、沙花郎烽燧には任務を遂行する要員として100人がいたという。 全国の烽燧制度を廃止していた高宗31年(1894)になくなった。",
+    "QA": [
+        {
+            "question": "昌原沙火郞山烽燧台はどこにありますか？",
+            "answer": "昌原沙火郞山烽燧台は慶尚南道昌原市鎮海区明洞山にあります。"
+        },
+        {
+            "question": "昌原沙火郞山烽燧台は何を伝えるための通信手段でしたか？",
+            "answer": "昌原沙火郞山烽燧台は松明と煙を利用して急な便りを伝えるための昔の通信手段でした。"
+        },
+        {
+            "question": "沙花郎烽燧はどのような位置にありますか？",
+            "answer": "沙花郎烽燧は慶尚道東莱からソウル木槨山(今の南山)中央烽燧に至る烽火線路の中間路線を連結する間烽火で、東側の加徳島天城連隊から烽燧を受け、長福山烽燧と昌原の余音浦烽燧に知らせました。"
+        },
+        {
+            "question": "何人の要員が沙花郎烽燧にいたと言われていますか？",
+            "answer": "『熊川邑誌』をはじめとする地理誌によると、沙花郎烽燧には任務を遂行する要員として100人がいたと言われています。"
+        },
+        {
+            "question": "いつ沙花郎烽燧は廃止されましたか？",
+            "answer": "沙花郎烽燧は高宗31年(1894)になくなり、全国の烽燧制度が廃止されました。"
+        }
+    ],
+    "word_Count": {
+        "text": 222,
+        "QA": 265
+    }
+}

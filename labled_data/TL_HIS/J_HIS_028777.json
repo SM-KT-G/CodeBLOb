@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_028777",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/culture/jeju-museum-of-art",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "済州道立美術館"
+    },
+    "text": "済州道立美術館\\n\n済州特別自治道 済州市 1100路 2894-78\\n\n済州道立美術館は2009年6月26日に開館しました。地下1階、地上2階建てで済州で活動している芸術家達の創作および展示空間です。美術館周辺には野外カフェや広場、散策路などがあります。",
+    "QA": [
+        {
+            "question": "済州道立美術館はいつ開館しましたか？",
+            "answer": "2009年6月26日に開館しました。"
+        },
+        {
+            "question": "済州道立美術館は何階建てですか？",
+            "answer": "地下1階、地上2階建てです。"
+        },
+        {
+            "question": "済州道立美術館周辺にはどんな施設がありますか？",
+            "answer": "美術館周辺には野外カフェや広場、散策路などがあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 94,
+        "QA": 85
+    }
+}

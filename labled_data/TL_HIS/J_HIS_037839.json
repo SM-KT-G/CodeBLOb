@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_037839",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=173&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=16010000&ccbaCtcd=11&ccbaCpno=1121116010000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2008-12-22",
+        "domain": "문화/역사관광",
+        "title": "천하여지도"
+    },
+    "text": "天下輿地図 (천하여지도)\\n\nソウル 鐘路区 新しい門岸路 55、ソウル歴史博物館 (新門路2街、ソウル歴史博物館)\\n\n17世紀、宝物、朝鮮後期の中国中心の世界を描いた地図だ。 フランス国立図書館に所蔵されている『混一江里図』の王指輪の輿地図母会増補本と同じ原図を使用したり、同系列の地図であると判断される。 地図の内容は17世紀初頭の状況を反映している。 この時点で朝鮮で描かれた東アジア地図の中で北海道の存在を明確にした地図という点で特別な意味がある。 北海道の存在とその位置は朝鮮で長い間明らかではなく、色々な混乱があったという点を勘案すれば価値が大きいと言える。 また、国内に伝わる朝鮮時代製作の世界地図が珍しいという点を考慮すると、資料的価値も非常に高い。",
+    "QA": [
+        {
+            "question": "この地図は何世紀に作られましたか？",
+            "answer": "17世紀に作られました。"
+        },
+        {
+            "question": "この地図はどのような内容ですか？",
+            "answer": "この地図は宝物として知られ、朝鮮後期の中国中心の世界を描いています。"
+        },
+        {
+            "question": "この地図には北海道が描かれていますか？",
+            "answer": "はい、この地図では北海道の存在が明確に描かれています。"
+        },
+        {
+            "question": "この地図の資料的価値はどのくらいですか？",
+            "answer": "この地図は朝鮮時代製作の世界地図として珍しく、資料的価値は非常に高いです。"
+        }
+    ],
+    "word_Count": {
+        "text": 245,
+        "QA": 133
+    }
+}

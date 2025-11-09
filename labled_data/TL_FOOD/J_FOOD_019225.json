@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_019225",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2022-06-16",
+        "domain": "음식점",
+        "title": "대왕골"
+    },
+    "text": "大王骨 (대왕골)\\n\n京畿道龍仁市水枝区イジョンムロ264\\n\n高基里渓谷に位置するクヌギの鶏薪焼きとサムギョプサル薪焼きが絶品のグルメ店だ。\n鶏とサムギョプサルは1時間半から2時間ほど焼いて出てきて、焼き鳥の下に焦げ付いたもち米のおこげが珍味だ。",
+    "QA": [
+        {
+            "question": "大王骨はどこに位置していますか？",
+            "answer": "大王骨は京畿道龍仁市水枝区イジョンムロ264に位置しています。"
+        },
+        {
+            "question": "大王骨の特産品は何ですか？",
+            "answer": "大王骨の特産品はクヌギの鶏薪焼きとサムギョプサル薪焼きです。"
+        },
+        {
+            "question": "大王骨で提供される料理はどのような特徴がありますか？",
+            "answer": "大王骨で提供される鶏とサムギョプサルは1時間半から2時間ほど焼かれており、焼き鳥の下には焦げ付いたもち米のおこげが珍味として楽しめます。"
+        }
+    ],
+    "word_Count": {
+        "text": 91,
+        "QA": 134
+    }
+}

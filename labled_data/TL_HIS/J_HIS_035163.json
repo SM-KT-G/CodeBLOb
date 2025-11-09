@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_035163",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=822&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=00670000&ccbaCtcd=32&ccbaCpno=2333200670000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1994-09-23",
+        "domain": "문화/역사관광",
+        "title": "홍천명개리열목어서식지"
+    },
+    "text": "洪川明開里ヨルモクオ生息地 (홍천명개리열목어서식지)\\n\n江原道洪川郡内面明開里（カンウォンド·ホンチョングン·ネミョンゲリ）のケバン川一帯\\n\n現代 , 江原特別自治道 記念物 , ヨルモクオは水温が20℃以下のところだけで生息する淡水魚で、北部アジアと韓国だけで生息する。 銀白地の体に大小のマゼンタがあり、卵を産む時は全身が濃い紅色に変わる。 背びれと胸びれの部分には虹色の光沢を出して美しい。 30㎝程度まで育つ大きな魚で、水中に住む小さな昆虫や幼い魚を捕食して暮らす。 洪川明開里のヨルモクオ生息地は江原道内でヨルモクオ生息環境が最もよく整えられたところで水温は11~13.5℃であり、岩盤·大小の石·砂利·砂などをまんべんなく備えている。 河川の幅は2~10m程度で、周辺に森が茂っている。 ヨルモクオは絶滅の危機にある珍しい魚で、洪川明開里の生息地を記念物に指定して保護している。",
+    "QA": [
+        {
+            "question": "ヨルモクオはどの地域で生息していますか？",
+            "answer": "ヨルモクオは江原道洪川郡内面明開里のケバン川一帯で生息しています。"
+        },
+        {
+            "question": "ヨルモクオはどのような魚ですか？",
+            "answer": "ヨルモクオは銀白地の体に大小のマゼンタがあり、背びれと胸びれには虹色の光沢があります。また、卵を産む時は全身が濃い紅色に変わります。"
+        },
+        {
+            "question": "ヨルモクオはどのような環境で生息していますか？",
+            "answer": "洪川明開里のヨルモクオ生息地は水温が11~13.5℃であり、岩盤・石・砂利・砂などをまんべんなく備え、河川の幅は2~10m程度で周辺には森が茂っています。"
+        },
+        {
+            "question": "ヨルモクオは何を食べて暮らしていますか？",
+            "answer": "ヨルモクオは小さな昆虫や幼い魚を捕食して暮らしています。"
+        },
+        {
+            "question": "ヨルモクオは絶滅の危機にあるのですか？",
+            "answer": "はい、ヨルモクオは絶滅の危機にある珍しい魚です。洪川明開里の生息地は記念物に指定され、保護されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 291,
+        "QA": 259
+    }
+}

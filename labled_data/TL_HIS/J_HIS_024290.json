@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_024290",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2019-03-20",
+        "domain": "문화/역사관광",
+        "title": "安東水文化館（안동물문화관）"
+    },
+    "text": "安東水文化館\n慶尚北道 安東市 石洲路 202 （象牙洞）\n安東地域のダムの建設された過程とダムの周辺に生息している生物、水と関連した歴史と文化を知ることのできる展示館です。\n敷地：26,800平方メートル建物：991.74平方メートル",
+    "QA": [
+        {
+            "question": "安東水文化館の場所はどこですか？",
+            "answer": "安東水文化館は慶尚北道安東市石洲路202（象牙洞）にあります。"
+        },
+        {
+            "question": "安東水文化館では何を学ぶことができますか？",
+            "answer": "安東水文化館では、安東地域のダムの建設された過程やダムの周辺に生息している生物、水と関連した歴史と文化を学ぶことができます。"
+        },
+        {
+            "question": "安東水文化館の敷地面積と建物面積は何平方メートルですか？",
+            "answer": "安東水文化館の敷地は26,800平方メートルで、建物は991.74平方メートルです。"
+        }
+    ],
+    "word_Count": {
+        "text": 86,
+        "QA": 146
+    }
+}

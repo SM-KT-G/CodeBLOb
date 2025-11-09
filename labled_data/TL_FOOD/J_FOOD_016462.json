@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_016462",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/kyungbokkung",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "景 福 宮"
+    },
+    "text": "景 福 宮\\n\nソウル特別市 ジョンノ区 ジョンロ 65\\n\nソウル特別市チョンガク駅の近くに位置した韓食専門店です。代表的なメニューは韓牛ロースです。盛り合わせスペシャルは、牛肉ロース、牛バラ肉、ミスジのBBQです。",
+    "QA": [
+        {
+            "question": "このレストランはどこに位置していますか？",
+            "answer": "景福宮, ソウル特別市ジョンノ区ジョンロ 65に位置しています。"
+        },
+        {
+            "question": "このレストランの代表的なメニューは何ですか？",
+            "answer": "代表的なメニューは韓牛ロースです。"
+        },
+        {
+            "question": "盛り合わせスペシャルには何が含まれていますか？",
+            "answer": "盛り合わせスペシャルには牛肉ロース、牛バラ肉、ミスジのBBQが含まれています。"
+        }
+    ],
+    "word_Count": {
+        "text": 79,
+        "QA": 112
+    }
+}

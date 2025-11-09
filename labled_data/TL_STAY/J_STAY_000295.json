@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_000295",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42020&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "거제도 르솔레이풀빌라(신축)"
+    },
+    "text": "\"ルソレイは新築プールビラで、全客室は美しいオーシャンビューが鑑賞でき、海金剛と風で丘を一望できます。 ただし、入室時間は22時以降には予めご連絡してご確認ください。未成年者は保護者同伴なしでは宿泊予約ができません。 また、客室およびその他の施設物を毀損または破損した場合には、賠償および責任があることに注意してください。 \"",
+    "QA": [
+        {
+            "question": "ルソレイの客室からは何が見えますか？",
+            "answer": "美しいオーシャンビューが鑑賞できます。"
+        },
+        {
+            "question": "入室時間は何時からですか？",
+            "answer": "22時以降にご連絡してご確認ください。"
+        },
+        {
+            "question": "未成年者は保護者同伴なしで宿泊予約ができますか？",
+            "answer": "いいえ、未成年者は保護者同伴なしでは宿泊予約ができません。"
+        },
+        {
+            "question": "客室や施設物を破損した場合、どうなりますか？",
+            "answer": "賠償および責任が発生します。"
+        }
+    ],
+    "word_Count": {
+        "text": 119,
+        "QA": 115
+    }
+}

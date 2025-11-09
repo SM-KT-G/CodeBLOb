@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_051810",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=399&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=00340000&ccbaCtcd=35&ccbaCpno=2113500340000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1973-06-23",
+        "domain": "문화/역사관광",
+        "title": "고창무장객사"
+    },
+    "text": "朝鮮時代の宣祖14年(1581)、全羅北道有形文化財、この建物は朝鮮時代の武将県の客舎として使われていたもので、宣祖14年(1581)に建設されました。客舎は闕牌を祀り、県の首領が毎月1日と15日に拝礼する政庁と王命で地方に降りてくる官職の宿舎として使われる左·右舷で構成されています。この客舎の正聴は真上まで下がっています。眉は三日月のように細長い形で処理されており、目は半分ほど開いて正面3間、側面3間の一軒の切妻屋根の建物で、礎石の石材の下部は四角く上部は半球形に整え、その上に頭柱を立てた以外に特別な特徴はありません右舷は政庁より屋根を低く飾り、建物の格式を低くしました。このほか、外大門の中門と左右両がありましたが、残っていません。石垣に上り下りする石段などにも虎·雲文などが彫られており、風情を添えています。建物の正面の原型をほぼそのまま保存しているのとは対照的に、客舎の建物は村役場として使用する際、一部の形質を変更したものを1990年に原型のまま復元しました",
+    "QA": [
+        {
+            "question": "この建物はいつ建設されましたか？",
+            "answer": "宣祖14年(1581)に建設されました。"
+        },
+        {
+            "question": "この建物は何に使われていましたか？",
+            "answer": "この建物は武将県の客舎として使われていました。"
+        },
+        {
+            "question": "この建物は何を祀っていましたか？",
+            "answer": "この建物は闕牌を祀っていました。"
+        },
+        {
+            "question": "この建物は何のために使われる宿舎でしたか？",
+            "answer": "この建物は地方に降りてくる官職の宿舎として使われていました。"
+        },
+        {
+            "question": "この建物の特徴は何ですか？",
+            "answer": "この建物の特徴は、眉が細長い三日月の形をしており、目が半分開いていること、切妻屋根の建物であることなどです。"
+        },
+        {
+            "question": "この客舎の建物はどのように復元されましたか？",
+            "answer": "この客舎の建物は、村役場として使用する際に一部の形質を変更したものを原型のまま復元しました。"
+        }
+    ],
+    "word_Count": {
+        "text": 320,
+        "QA": 215
+    }
+}

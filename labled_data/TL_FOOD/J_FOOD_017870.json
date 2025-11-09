@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_017870",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-01",
+        "domain": "음식점",
+        "title": "機張手カルグクス ( 기장손칼국수 )"
+    },
+    "text": "機張手カルグクス ( 기장손칼국수 )\n釜山広域市 釜山鎮区 西面路 56\n麺棒で直接麺を打つカルグクス店です。おすすめは手打ちカルグクスです。釜山広域市のブサンジン区に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "カルグクス店の名前は何ですか？",
+            "answer": "機張手カルグクス (기장손칼국수) です。"
+        },
+        {
+            "question": "どの地域に位置していますか？",
+            "answer": "釜山広域市の釜山鎮区に位置しています。"
+        },
+        {
+            "question": "カルグクス店の住所は何ですか？",
+            "answer": "住所は釜山広域市釜山鎮区西面路56番地です。"
+        },
+        {
+            "question": "カルグクス店ではどのようなメニューがおすすめですか？",
+            "answer": "手打ちカルグクスがおすすめです。"
+        },
+        {
+            "question": "カルグクス店はどんな特徴を持っていますか？",
+            "answer": "カルグクス店は麺棒で直接麺を打つことが特徴です。"
+        }
+    ],
+    "word_Count": {
+        "text": 71,
+        "QA": 141
+    }
+}

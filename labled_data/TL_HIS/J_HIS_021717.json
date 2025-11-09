@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_021717",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=809&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=00480000&ccbaCtcd=35&ccbaCpno=2333500480000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1981-04-01",
+        "domain": "문화/역사관광",
+        "title": "서현사지"
+    },
+    "text": "西峴祠址 (서현사지)\\n\n全羅北道井邑市太仁面ソジェギル13(太西里)\\n\n全羅北道記念物 , ここはパク·ムンヒョ(1568~1593)の祠堂があった場所だ。 パク·ムンヒョは中宗反正の功臣であるパク·ウォンジョンの子孫として、宗廟書直長という官職にあった。 壬辰倭乱が起きて宣祖が義州に避難すると王に従い、翌年ソウルに戻る途中開城の戦いで26歳の若さで殉節した。 後に湖南儒林たちの上訴により純祖17年(1817年)に吏曹参議で増職された。 朝鮮純祖19年(1819)に初めて建てられたが、高宗5年(1868)に撤去された。現在、書峴寺跡には夫人のソン氏のために建てた旌閭と遺許碑が残っている。",
+    "QA": [
+        {
+            "question": "西峴祠址はどこにありますか？",
+            "answer": "西峴祠址は全羅北道井邑市太仁面ソジェギル13(太西里)にあります。"
+        },
+        {
+            "question": "パク・ムンヒョとは誰ですか？",
+            "answer": "パク・ムンヒョは中宗反正の功臣であるパク・ウォンジョンの子孫で、宗廟書直長という官職にあった人物です。"
+        },
+        {
+            "question": "西峴祠址には何が残っていますか？",
+            "answer": "現在、書峴寺跡には夫人のソン氏のために建てた旌閭と遺許碑が残っています。"
+        },
+        {
+            "question": "西峴祠址はいつ建てられましたか？",
+            "answer": "朝鮮純祖19年(1819)に初めて建てられましたが、高宗5年(1868)に撤去されました。"
+        },
+        {
+            "question": "パク・ムンヒョはどのような経歴を持っていましたか？",
+            "answer": "パク・ムンヒョは中宗反正の功臣であり、壬辰倭乱が起きて宣祖が義州に避難すると王に従い、翌年ソウルに戻る途中開城の戦いで若くして殉節しました。後に湖南儒林たちの上訴により吏曹参議で増職されました。"
+        }
+    ],
+    "word_Count": {
+        "text": 220,
+        "QA": 254
+    }
+}

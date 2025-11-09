@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_009805",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "チャクハンテナガダコ ( 착한낙지 )"
+    },
+    "text": "チャクハンテナガダコ ( 착한낙지 )\\n\n慶尚北道 安東市 広明路 146\\n\nテナガダコ炒めは、韓国人にも人気であるピリ辛海戦炒めで、その他にも各種海鮮料理を取り扱っています。おすすめはテナガダコ炒めです。慶尚北道のアンドン市に位置した海鮮専門店です。",
+    "QA": [
+        {
+            "question": "チャクハンテナガダコはどこに位置していますか？",
+            "answer": "チャクハンテナガダコは慶尚北道のアンドン市広明路146に位置しています。"
+        },
+        {
+            "question": "チャクハンテナガダコのおすすめ料理は何ですか？",
+            "answer": "チャクハンテナガダコのおすすめはテナガダコ炒めです。"
+        },
+        {
+            "question": "テナガダコ炒めはどのような料理ですか？",
+            "answer": "テナガダコ炒めは、韓国人にも人気であるピリ辛海鮮炒めです。"
+        },
+        {
+            "question": "チャクハンテナガダコではどのような海鮮料理が取り扱われていますか？",
+            "answer": "チャクハンテナガダコでは、他にも各種海鮮料理を取り扱っています。"
+        }
+    ],
+    "word_Count": {
+        "text": 93,
+        "QA": 162
+    }
+}

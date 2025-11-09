@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_037694",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1200&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=79&ccbaAsno=01130000&ccbaCtcd=50&ccbaCpno=4413901130000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2004-09-04",
+        "domain": "문화/역사관광",
+        "title": "제주 이승만별장"
+    },
+    "text": "済州イ·スンマン別荘 (제주 이승만별장)\\n\n済州市旧左邑松堂里山156番地\\n\n1958、国家登録文化財、1958年建設、この建物は済州国立牧場の中に大統領と国家貴賓の宿泊のために建てた別荘だ。 1959年、イ·スンマン大統領がここに留まったことを契機に「イ·スンマン別荘」と呼ばれるようになったという。 建物に入る入口とその周辺に造成された鬱蒼とした森は、庭の真ん中に立っているエノキ一本と調和し、一幅の風景画を演出するようだ。 二つの喜びが同時に叶うことを祈る「双喜」の字と、すべてのことが思い通りになることを祈る回文装飾など、韓国の意匠が一部含まれているが、全般的には1950年代以降に現れる西欧のモダニズム住宅の姿を見せている。",
+    "QA": [
+        {
+            "question": "この建物はいつ建てられましたか？",
+            "answer": "1958年に建てられました。"
+        },
+        {
+            "question": "イ·スンマン別荘とはどういった場所ですか？",
+            "answer": "イ·スンマン別荘は、済州国立牧場の中に建てられた大統領と国家貴賓のための別荘です。"
+        },
+        {
+            "question": "なぜこの別荘はイ·スンマン別荘と呼ばれているのですか？",
+            "answer": "イ·スンマン大統領が1959年にここに滞在したことをきっかけに、イ·スンマン別荘と呼ばれるようになりました。"
+        },
+        {
+            "question": "この建物の周りにはどのような景色が広がっていますか？",
+            "answer": "建物の周りには鬱蒼とした森が広がっており、その中に立っているエノキの木と調和した風景が広がっています。"
+        },
+        {
+            "question": "この建物のデザインにはどのような特徴がありますか？",
+            "answer": "建物には韓国の意匠が一部含まれており、また西欧のモダニズム住宅の姿も見られます。"
+        }
+    ],
+    "word_Count": {
+        "text": 234,
+        "QA": 231
+    }
+}

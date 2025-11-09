@@ -1,0 +1,51 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_033043",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://kr.hotels.com/ho2200317184/jeonju-yedang-pension-jeonju-hangug/?chkin=2023-11-14&chkout=2023-11-15&x_pwa=1&rfrr=HSR&pwa_ts=1699026055528&referrerUrl=aHR0cHM6Ly9rci5ob3RlbHMuY29tL0hvdGVsLVNlYXJjaA%3D%3D&useRewards=false&rm1=a2&regionId=6345218&destination=%EC%9D%B5%EC%82%B0%2C+%EC%A0%84%EB%B6%81%2C+%ED%95%9C%EA%B5%AD&destType=MARKET&latLong=35.94865%2C126.9767&sort=RECOMMENDED&top_dp=45455&top_cur=KRW&userIntent=&selectedRoomType=314340595&selectedRatePlan=383093489&expediaPropertyId=68728662&searchId=8ec93ebc-3977-4a70-89df-cfad05be3ff7",
+        "collectedDate": "2023-11-15",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "전주 예당펜션"
+    },
+    "text": "- 全州イェダンペンションでは6つの客室を提供しており、地理的位置が非常に良いので全州韓屋村まで歩いて行けます。 - チェックイン時間は13:00から始まり、チェックアウト時間は10:00です。 - 新型コロナウイルス感染症関連の制限事項は、旅行する前に確認する必要があります。 - チェックインの際には付帯費用のためにクレジットカード、デビットカード、または現金デポジットが必要であり、身分証明書に写真が貼られている必要がある場合があります。 - ペット連れはできません。 - 共用エリアでは無料WiFiを提供し、客室内でも無料WiFiを利用できます。 - 喫煙は指定されたエリアでのみ許可されます。",
+    "QA": [
+        {
+            "question": "全州イェダンペンションでは何部屋の客室を提供していますか？",
+            "answer": "全州イェダンペンションでは6つの客室を提供しています。"
+        },
+        {
+            "question": "全州イェダンペンションのチェックイン時間とチェックアウト時間は何時ですか？",
+            "answer": "全州イェダンペンションのチェックイン時間は13:00から始まり、チェックアウト時間は10:00です。"
+        },
+        {
+            "question": "新型コロナウイルス感染症関連の制限事項を確認する必要がありますか？",
+            "answer": "はい、旅行する前に新型コロナウイルス感染症関連の制限事項を確認する必要があります。"
+        },
+        {
+            "question": "全州イェダンペンションのチェックインの際に必要なものは何ですか？",
+            "answer": "全州イェダンペンションのチェックインの際には付帯費用のためにクレジットカード、デビットカード、または現金デポジットが必要であり、身分証明書に写真が貼られている必要があります。"
+        },
+        {
+            "question": "ペットを連れて泊まることはできますか？",
+            "answer": "申し訳ありませんが、ペットを連れて泊まることはできません。"
+        },
+        {
+            "question": "全州イェダンペンションでは無料WiFiを利用できますか？",
+            "answer": "はい、全州イェダンペンションでは共用エリアと客室内で無料WiFiを利用できます。"
+        },
+        {
+            "question": "喫煙はどこで許可されていますか？",
+            "answer": "喫煙は指定されたエリアでのみ許可されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 220,
+        "QA": 360
+    }
+}

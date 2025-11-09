@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_098229",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101933",
+        "collectedDate": "2023-10-06",
+        "publishedDate": "2023-10-06",
+        "domain": "문화/역사관광",
+        "title": "작원관지"
+    },
+    "text": "密陽ジャクウォングヮンジは密陽市三浪津邑ゴムセ里に位置したジャクウォングヮンがあった場所だ。この場所は1983年7月20日頃、慶尚南道の文化財資料第73号に指定され、2018年12月20日現在は現在の名称に変更された。",
+    "QA": [
+        {
+            "question": "何が1983年7月20日頃に指定された？",
+            "answer": "ジャクウォングヮンジ"
+        },
+        {
+            "question": "どこに位置したジャクウォングヮンがあった？",
+            "answer": "密陽市三浪津邑ゴムセ里"
+        },
+        {
+            "question": "誰がこの場所を指定した？",
+            "answer": "慶尚南道の文化財資料"
+        },
+        {
+            "question": "いつ現在の名称に変更された？",
+            "answer": "2018年12月20日"
+        },
+        {
+            "question": "なぜこの場所は指定された？",
+            "answer": "文化財資料第73号に指定されたから"
+        },
+        {
+            "question": "どうやってこの場所に行ける？",
+            "answer": "密陽市内の交通手段を利用して"
+        }
+    ],
+    "word_Count": {
+        "text": 79,
+        "QA": 122
+    }
+}

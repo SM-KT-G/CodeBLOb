@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_016030",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=935&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=24&ccbaAsno=00930000&ccbaCtcd=37&ccbaCpno=2443700930000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1990-08-07",
+        "domain": "문화/역사관광",
+        "title": "만죽재고택"
+    },
+    "text": "万竹斎古宅 (만죽재고택)\\n\n慶尚北道栄州市文殊面水道里229-2番地\\n\n慶尚北道民俗文化財 , 反南朴氏判官公派の宗家だ。 現所有者の11代祖であるパク·ス(1641~1699)先生がこの村に定着して建てた家だ。 中庭を中心にコ字型の母屋と一字型のサランチェが調和し、ロ字型の平面構造を形成している。 この村の昔の家屋のほとんどが大門を中心に右側に愛が形成されているのに対し、この家は左側に独立した愛を置いている最も古い家屋だ。",
+    "QA": [
+        {
+            "question": "この古宅はどのような構造を持っていますか？",
+            "answer": "この古宅は中庭を中心にコ字型の母屋と一字型のサランチェが調和し、ロ字型の平面構造を形成しています。"
+        },
+        {
+            "question": "この古宅はどのような歴史的背景を持っていますか？",
+            "answer": "この古宅は反南朴氏判官公派の宗家であり、現所有者の11代祖であるパク·ス(1641~1699)先生がこの村に定着して建てた家です。"
+        },
+        {
+            "question": "この古宅は他の村の家屋とどのように違いますか？",
+            "answer": "この古宅は他の村の家屋と比べて、左側に独立した愛を置いており、最も古い家屋の一つです。"
+        }
+    ],
+    "word_Count": {
+        "text": 159,
+        "QA": 165
+    }
+}

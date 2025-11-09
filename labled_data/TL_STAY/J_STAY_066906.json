@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_066906",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42080&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "강릉 언제나소돌펜션"
+    },
+    "text": "川をいつもソドルペンションではお客様を我が新築ペンションに招待します。 ソドル海辺のすぐ前に位置し、水遊びとオーシャンビューを楽しめます。 また、スパ保有の客室で快適な時間を過ごすことができ、個別バーベキューも可能です。 お知らせします. また、301号の客室は子供または幼児のみ追加できます。 アーリーチェックインはできません。 このような条件で、ソドルペンションで快適な休暇を過ごしてみてください。 いらっしゃれば最高のサービスと施設をすべて提供します。 今予約してください。",
+    "QA": [
+        {
+            "question": "ペンションの位置はどこですか？",
+            "answer": "ペンションはソドル海辺のすぐ前に位置しています。"
+        },
+        {
+            "question": "客室にはどのような設備がありますか？",
+            "answer": "スパを保有した客室で快適な時間を過ごすことができます。"
+        },
+        {
+            "question": "バーベキューは可能ですか？",
+            "answer": "はい、個別バーベキューも可能です。"
+        },
+        {
+            "question": "どのような客室で子供または幼児を追加できますか？",
+            "answer": "301号の客室で子供または幼児のみ追加できます。"
+        },
+        {
+            "question": "アーリーチェックインはできますか？",
+            "answer": "申し訳ございませんが、アーリーチェックインはできません。"
+        }
+    ],
+    "word_Count": {
+        "text": 176,
+        "QA": 151
+    }
+}

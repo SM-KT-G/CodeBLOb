@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_008046",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-06",
+        "domain": "음식점",
+        "title": "すし孝 淸潭 ( 스시효 청담 )"
+    },
+    "text": "すし孝 淸潭 ( 스시효 청담 )\\n\nソウル特別市 江南区 ソンルンロ146ギル25\\n\n漫画『将太の寿司』に紹介された寿司職人が調理します。おすすめは寿司です。ソウル特別市のガンナム区に位置した和食専門店です。",
+    "QA": [
+        {
+            "question": "すし孝 淸潭はどこに位置していますか？",
+            "answer": "すし孝 淸潭はソウル特別市の江南区に位置しています。"
+        },
+        {
+            "question": "すし孝 淸潭のおすすめは何ですか？",
+            "answer": "すし孝 淸潭のおすすめは寿司です。"
+        },
+        {
+            "question": "寿司職人はどの漫画に紹介されましたか？",
+            "answer": "寿司職人は漫画『将太の寿司』に紹介されました。"
+        },
+        {
+            "question": "すし孝 淸潭はどの区に位置していますか？",
+            "answer": "すし孝 淸潭はソウル特別市のガンナム区に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 78,
+        "QA": 123
+    }
+}

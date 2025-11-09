@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_018638",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.goodchoice.kr/product/detail?ano=57663&adcno=1&sel_date=2023-11-06&sel_date2=2023-11-07",
+        "collectedDate": "2023-11-15",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "상봉 그랜드젬"
+    },
+    "text": "京義中央線マンウ駅の客室内部には55インチLG UHD TVとノーハードPCの全客室があります。 また、NetflixとYouTubeを無料で視聴できます。 フロントおよびその他の施設をご利用の場合、連泊追加料金はございません。",
+    "QA": [
+        {
+            "question": "マンウ駅の客室内部には何がありますか？",
+            "answer": "マンウ駅の客室内部には55インチLG UHD TVとノーハードPCがあります。"
+        },
+        {
+            "question": "無料で視聴できる動画配信サービスは何ですか？",
+            "answer": "マンウ駅の客室内部ではNetflixとYouTubeを無料で視聴できます。"
+        },
+        {
+            "question": "フロントおよびその他の施設を利用する場合、連泊追加料金はかかりますか？",
+            "answer": "フロントおよびその他の施設を利用する場合、連泊追加料金はかかりません。"
+        }
+    ],
+    "word_Count": {
+        "text": 83,
+        "QA": 137
+    }
+}

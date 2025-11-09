@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_004579",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-05",
+        "domain": "음식점",
+        "title": "カフェ美淡 ( 카페미담 )"
+    },
+    "text": "カフェ美淡 ( 카페미담 )\\n\n江原道 ガンヌン市 ナムブロ17ボンギル8\\n\n様々な種類のコーヒーやデザートが味わえる店です。江原道のガンヌン市に位置したカフェ（コーヒーショップ）です。おすすめはアメリカーノです。",
+    "QA": [
+        {
+            "question": "カフェ美淡の場所はどこですか？",
+            "answer": "カフェ美淡は江原道のガンヌン市に位置しています。具体的な住所はナムブロ17ボンギル8です。"
+        },
+        {
+            "question": "カフェ美淡ではどんな種類のコーヒーが楽しめますか？",
+            "answer": "カフェ美淡では様々な種類のコーヒーが楽しめます。特におすすめはアメリカーノです。"
+        },
+        {
+            "question": "カフェ美淡のデザートメニューはありますか？",
+            "answer": "はい、カフェ美淡ではデザートも楽しめます。詳しいメニューは店内でご確認ください。"
+        }
+    ],
+    "word_Count": {
+        "text": 79,
+        "QA": 136
+    }
+}

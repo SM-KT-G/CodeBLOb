@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001922",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "Nanjang Camp  新沙カロスキル （난장캠프 신사가로수길）"
+    },
+    "text": "Nanjang Camp  新沙カロスキル （난장캠프 신사가로수길）\\n\nソウル特別市 江南区 江南大路158キル 27\\n\nソウル特別市のシンサ洞に位置したバーベキュー専門店です。BTSが認めた焼肉の名店です。おすすめはサムギョプサルです。",
+    "QA": [
+        {
+            "question": "このレストランはどこにありますか？",
+            "answer": "新沙カロスキルはソウル特別市江南区江南大路158キル27に位置しています。"
+        },
+        {
+            "question": "このレストランのおすすめメニューは何ですか？",
+            "answer": "新沙カロスキルのおすすめはサムギョプサルです。"
+        },
+        {
+            "question": "BTSが認めた焼肉の名店とはどういうことですか？",
+            "answer": "BTSは韓国の人気アイドルグループであり、彼らが新沙カロスキルの焼肉を認めたことは、その美味しさと人気を証明しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 89,
+        "QA": 134
+    }
+}

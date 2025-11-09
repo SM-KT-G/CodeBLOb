@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_004575",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/goods/GN0002023201?startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0%5E&npprmaxsort=min",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "거제도 베이힐풀빌라(18.7월신축)"
+    },
+    "text": "こんにちは。当ベイヒルプールビラは巨済島に位置しております。 皆様は当ペンションで楽しい旅行ができます。 しかし、注意点がありますが、22時以降に入室される場合は当ペンションまで予めご連絡ください。 常に清潔で居心地の良い宿泊施設を提供するために最善を尽くしています。 ありがとうございます。",
+    "QA": [
+        {
+            "question": "当ペンションはどこに位置していますか？",
+            "answer": "当ベイヒルプールビラは巨済島に位置しております。"
+        },
+        {
+            "question": "何時から入室できますか？",
+            "answer": "通常は14時から入室可能です。"
+        },
+        {
+            "question": "22時以降に入室したい場合はどうすればいいですか？",
+            "answer": "22時以降に入室される場合は、予めご連絡ください。"
+        },
+        {
+            "question": "当ペンションは清潔な宿泊施設を提供していますか？",
+            "answer": "はい、常に清潔で居心地の良い宿泊施設を提供するために最善を尽くしています。"
+        },
+        {
+            "question": "当ペンションで楽しい旅行ができますか？",
+            "answer": "はい、当ペンションで楽しい旅行ができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 107,
+        "QA": 162
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_026557",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42090&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "제주 엘쯔타운독채펜션"
+    },
+    "text": "済州エルツタウンの一軒家ペンションは、全室がプライベートなメゾネットタイプで構成されています。 トレンディなインテリア客室と清潔な施設が用意されており、リラックスすることができます。 愛する人たちと一緒に幸せな思い出を作るのに最適です。 その他には追加情報がなく、要求事項に応じてペンションをご利用ください。",
+    "QA": [
+        {
+            "question": "このペンションの客室はどのようなタイプですか？",
+            "answer": "全室がプライベートなメゾネットタイプです。"
+        },
+        {
+            "question": "このペンションの客室はどのような内装ですか？",
+            "answer": "トレンディなインテリアが施されています。"
+        },
+        {
+            "question": "このペンションの施設は清潔ですか？",
+            "answer": "はい、清潔な施設が用意されています。"
+        },
+        {
+            "question": "このペンションはどんな思い出を作るのに最適ですか？",
+            "answer": "愛する人たちと一緒に幸せな思い出を作るのに最適です。"
+        }
+    ],
+    "word_Count": {
+        "text": 112,
+        "QA": 126
+    }
+}

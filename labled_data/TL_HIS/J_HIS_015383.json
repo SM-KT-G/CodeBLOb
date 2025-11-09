@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_015383",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2022-07-22",
+        "domain": "문화/역사관광",
+        "title": "용주서원"
+    },
+    "text": "龍珠書院 (용주서원)\\n\n京畿道坡州市月籠面龍州書院キル46\\n\n龍珠書院は、先祖代々の学者であり文人である白仁傑の学問と徳行を称えるために創建されました。1598年(宣祖31年)当時、白仁傑が官職を辞めた後、隠棲していた旧宅の跡地に創建された。",
+    "QA": [
+        {
+            "question": "龍珠書院は何時に創建されましたか？",
+            "answer": "龍珠書院は1598年(宣祖31年)に創建されました。"
+        },
+        {
+            "question": "龍珠書院は誰によって創建されましたか？",
+            "answer": "龍珠書院は白仁傑によって創建されました。"
+        },
+        {
+            "question": "龍珠書院はどんな人物を称えるために創建されましたか？",
+            "answer": "龍珠書院は白仁傑の学問と徳行を称えるために創建されました。"
+        },
+        {
+            "question": "龍珠書院はどこに位置していますか？",
+            "answer": "龍珠書院は京畿道坡州市月籠面龍州書院キル46に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 90,
+        "QA": 135
+    }
+}

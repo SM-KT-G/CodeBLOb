@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_027431",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0%5E&npprmaxsort=min&apiType=region&regioncode1=42001&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "천호 바고호텔"
+    },
+    "text": "次元の違うホテルバゴホテル！ 江東区最高の駐車施設を保有しています。 機械式駐車場ではなくSUVも駐車可能で、駐車時の駐車車両は1部屋当たり1車両のみ可能です。 各客室は基準人数が2名で、基準人数以外は入室できません。",
+    "QA": [
+        {
+            "question": "ホテルバゴホテルはどの区にありますか？",
+            "answer": "ホテルバゴホテルは江東区に位置しています。"
+        },
+        {
+            "question": "ホテルバゴホテルの駐車施設はどんな特徴がありますか？",
+            "answer": "ホテルバゴホテルは機械式駐車場ではなくSUVも駐車可能な最高の駐車施設を保有しています。"
+        },
+        {
+            "question": "ホテルバゴホテルの客室の基準人数は何名ですか？",
+            "answer": "ホテルバゴホテルの客室の基準人数は2名です。"
+        },
+        {
+            "question": "ホテルバゴホテルの客室には他の人も入室できますか？",
+            "answer": "ホテルバゴホテルの客室では、基準人数以外の人は入室できません。"
+        }
+    ],
+    "word_Count": {
+        "text": 79,
+        "QA": 154
+    }
+}

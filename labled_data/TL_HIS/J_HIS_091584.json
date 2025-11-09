@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_091584",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=65&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=04250000&ccbaCtcd=37&ccbaCpno=1123704250000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1965-07-16",
+        "domain": "문화/역사관광",
+        "title": "예천 청룡사 석조비로자나불좌상"
+    },
+    "text": "高麗時代、宝物、慶尚北道醴泉郡龍門面の青龍寺に祀られている高麗時代の仏像で、醴泉青龍寺石造如来坐像と並んで法堂の中に祀られています。頭には小さなサザエの形をした髪の毛が付いており、その上に大小のサントゥの形をした頭(六戒)が表現されています。顔は四角形に近いので広く評判の良い印象を与え、鼻と口が非常に近い独特な印象を与えます両肩にかけて着た服は、広く平面的な身体を厚く包んでいます。肩から両手にかけて流れた平行な服のしわは柔らかいが不自然な感じを与える。胸のあたりにある両手は左手の人差し指を右手で包んだ形で、毘盧遮那仏が一般的に取る手の形です。四角形の台座は上·中·下代に分けられます。上大の4面には蓮の花模様が刻まれており、中大にはそれぞれ大きな眼象が刻まれています",
+    "QA": [
+        {
+            "question": "この像は何時代のものですか？",
+            "answer": "高麗時代の仏像です。"
+        },
+        {
+            "question": "この像はどこに祀られていますか？",
+            "answer": "醴泉北道醴泉郡龍門面の青龍寺に祀られています。"
+        },
+        {
+            "question": "この像の特徴は何ですか？",
+            "answer": "頭には小さなサザエの形をした髪の毛があり、その上に大小のサントゥの形をした頭(六戒)が表現されています。"
+        },
+        {
+            "question": "この像の服のデザインについて教えてください。",
+            "answer": "肩から両手にかけて流れた平行な服のしわは柔らかいが不自然な感じを与える。胸のあたりにある両手は左手の人差し指を右手で包んだ形で、毘盧遮那仏が一般的に取る手の形です。"
+        },
+        {
+            "question": "この像の台座には何が刻まれていますか？",
+            "answer": "上大の4面には蓮の花模様が刻まれており、中大にはそれぞれ大きな眼象が刻まれています。"
+        }
+    ],
+    "word_Count": {
+        "text": 246,
+        "QA": 214
+    }
+}

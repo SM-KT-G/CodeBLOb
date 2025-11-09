@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_010485",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=423&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=00630000&ccbaCtcd=35&ccbaCpno=2113500630000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1974-09-27",
+        "domain": "문화/역사관광",
+        "title": "귀신사부도"
+    },
+    "text": "帰信寺徒 (귀신사부도)\\n\n全羅北道金堤市錦山面清道里205番地\\n\n全羅北道有形文化財 , 浮屠は僧侶の墓を象徴し、その遺骨や舎利を祀るところだ。 清道里村入口の田んぼの中に位置しているこの浮屠はその主人公は分からないが、帰信寺全盛期にここまでも寺の境内だったことを推察する遺物だ。 すべての部材が八角形を基本に基壇部と塔身部、頭飾りで構成されている。 柱のように細長い基壇の中央台石は、数重の蓮の花をまとった上台石を支えている。 その上には塔身の石と八隅が高く上がった屋根石を乗せた。 頂上には丸い球形の頭飾りが置かれている。 全体的に各部材の比例が合わず安定感がなく彫刻装飾が素朴な方で、高麗時代に建てたものと推定される。",
+    "QA": [
+        {
+            "question": "浮屠（ふとう）は何を象徴していますか？",
+            "answer": "浮屠は僧侶の墓を象徴し、その遺骨や舎利を祀るところです。"
+        },
+        {
+            "question": "浮屠はどのように構成されていますか？",
+            "answer": "浮屠は基壇部、塔身部、頭飾りの3つの部材から構成されています。基壇部は細長い柱のような形をしており、中央には蓮の花をまとった上台石があります。その上に塔身の石と八隅が高く上がった屋根石が乗せられています。頂上には丸い球形の頭飾りが置かれています。"
+        },
+        {
+            "question": "浮屠はいつ建てられたと推定されていますか？",
+            "answer": "浮屠は高麗時代に建てられたと推定されています。"
+        },
+        {
+            "question": "この浮屠の主人公は分かっていますか？",
+            "answer": "残念ながら、この浮屠の主人公は分かっていません。しかし、帰信寺全盛期にここまで寺の境内だったことから、帰信寺の関連性が考えられます。"
+        },
+        {
+            "question": "浮屠はどのような状態ですか？",
+            "answer": "浮屠は全体的に各部材の比例が合わず安定感がなく、彫刻装飾も素朴な方です。しかし、その姿から高麗時代に建てられたものと推定されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 231,
+        "QA": 291
+    }
+}

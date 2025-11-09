@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_010415",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/goods/GN0002025879?startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0%5E&npprmaxsort=min",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "부산 수영 브라운도트 수영점 운영 정책"
+    },
+    "text": "チェックインは23:00から可能で、チェックアウトは12:00までです。 チェックインとチェックアウトに関するご案内です。 さらにサービスとしてはランドリールームがあり、3月にオープンする予定だそうです。",
+    "QA": [
+        {
+            "question": "チェックインは何時から可能ですか？",
+            "answer": "チェックインは23:00から可能です。"
+        },
+        {
+            "question": "チェックアウトは何時までですか？",
+            "answer": "チェックアウトは12:00までです。"
+        },
+        {
+            "question": "ホテルにランドリールームはありますか？",
+            "answer": "はい、ホテルにはランドリールームがあります。"
+        },
+        {
+            "question": "ランドリールームはいつオープンしますか？",
+            "answer": "ランドリールームは3月にオープンする予定です。"
+        }
+    ],
+    "word_Count": {
+        "text": 74,
+        "QA": 112
+    }
+}

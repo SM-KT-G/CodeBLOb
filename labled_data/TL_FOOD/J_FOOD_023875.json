@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_023875",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-02-26",
+        "domain": "음식점",
+        "title": "新世界チムダク( 신세계찜닭 )"
+    },
+    "text": "新世界チムダク\n慶尚北道 安東市 繁栄キル 10\n地元の人だけでなく観光客にも人気の高い店です。 おすすめはアンドンチムダクです。慶尚北道のアンドン市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "新世界チムダクはどこにありますか？",
+            "answer": "新世界チムダクは慶尚北道の安東市にあります。"
+        },
+        {
+            "question": "新世界チムダクは何を提供していますか？",
+            "answer": "新世界チムダクは韓食専門店で、特にアンドンチムダクがおすすめです。"
+        },
+        {
+            "question": "新世界チムダクは地元の人だけでなく、誰に人気ですか？",
+            "answer": "新世界チムダクは地元の人だけでなく、観光客にも人気があります。"
+        },
+        {
+            "question": "新世界チムダクはどのくらいの繁栄キルに位置していますか？",
+            "answer": "新世界チムダクは繁栄キル10に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 64,
+        "QA": 145
+    }
+}

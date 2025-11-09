@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_031758",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=24&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=11&ccbaAsno=02760000&ccbaCtcd=23&ccbaCpno=1112302760000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1993-04-27",
+        "domain": "문화/역사관광",
+        "title": "초조본 유가사지론 권53"
+    },
+    "text": "初雕本 瑜伽師地論 巻53 (초조본 유가사지론 권53)\\n\n仁川延寿区清涼路102番キル40-9、嘉泉博物館(玉蓮洞)\\n\n高麗時代(11世紀)、国宝、『有家寺址論』はインドの弥勒菩薩が書いた文を唐の玄長(602~664)が翻訳して千字文の順に100冊を収録したもので、11世紀に刊行した初潮大蔵経の一つだ。 この本は100冊のうち第53巻で、初めて刻んだ本だ。 紙質はコウゾの紙であり、横48cm、縦28.4cmだ。 この版本は海印寺で保管している再造大蔵経の版本と比べてみると、版数制と巻、章、艦次表示の位置に差がある。",
+    "QA": [
+        {
+            "question": "この本は何世紀に刊行されましたか？",
+            "answer": "11世紀に刊行されました。"
+        },
+        {
+            "question": "『有家寺址論』は誰が書いた文を翻訳したものですか？",
+            "answer": "『有家寺址論』はインドの弥勒菩薩が書いた文を唐の玄長が翻訳しました。"
+        },
+        {
+            "question": "この本は何巻目の本ですか？",
+            "answer": "この本は第53巻です。"
+        },
+        {
+            "question": "この版本と再造大蔵経の版本との間には何か差がありますか？",
+            "answer": "この版本と再造大蔵経の版本と比べると、版数制と巻、章、艦次表示の位置に差があります。"
+        },
+        {
+            "question": "この本の紙質は何ですか？",
+            "answer": "この本はコウゾの紙です。"
+        }
+    ],
+    "word_Count": {
+        "text": 193,
+        "QA": 151
+    }
+}

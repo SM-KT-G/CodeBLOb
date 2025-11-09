@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_008155",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1150&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=04530000&ccbaCtcd=37&ccbaCpno=3413704530000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2003-12-15",
+        "domain": "자연관광",
+        "title": "예천권씨병암정및별묘"
+    },
+    "text": "醴泉権氏の兵岩亭および別廟 (예천권씨병암정및별묘)\\n\n慶尚北道醴泉郡龍門面城峴里97番地\\n\n慶尚北道文化財資料 , 屏岩亭は正面5間側面2間規模の入母屋瓦屋で、亭子の東側の屏風のような大きな岩の上に位置しているが、この建物は醴泉地域の代表的独立運動家であるクォン·ウォンハと関連がある建物として知られている。 亭子の右側にある別廟は3間規模の切妻瓦屋で、本来は仁山書院の祠堂だったが、書院が撤去されると祠堂だけがここに移建し、権孟孫、権五紀、権五福、権勇を奉仕する別廟として使用している。",
+    "QA": [
+        {
+            "question": "この建物はどのような形をしていますか？",
+            "answer": "兵岩亭は正面5間側面2間規模の入母屋瓦屋で、屏岩亭は3間規模の切妻瓦屋です。"
+        },
+        {
+            "question": "兵岩亭はどのような場所に位置していますか？",
+            "answer": "兵岩亭は龍門面城峴里97番地に位置しています。"
+        },
+        {
+            "question": "兵岩亭と別廟はどのような関係がありますか？",
+            "answer": "兵岩亭と別廟は共に醴泉地域の代表的な建物であり、別廟は本来は仁山書院の祠堂でしたが、書院が撤去された後、別廟だけがここに移建されました。"
+        },
+        {
+            "question": "兵岩亭と別廟は誰に関連がある建物ですか？",
+            "answer": "兵岩亭は醴泉地域の代表的な独立運動家であるクォン・ウォンハと関連があります。別廟は権孟孫、権五紀、権五福、権勇を奉仕する別廟として使用されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 181,
+        "QA": 208
+    }
+}

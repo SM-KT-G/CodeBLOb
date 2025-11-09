@@ -1,0 +1,55 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_030306",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2023-03-20",
+        "domain": "자연관광",
+        "title": "남도해양관광열차 S-트레인(S-train)"
+    },
+    "text": "慶尚道(キョンサンド)と全羅道(チョルラド)を連結する南道海洋観光列車S-trainの''S''は英文''Sea(海)''のイニシャルと曲線のある慶全(キョンジョン)線、リアス式海岸の南海岸の模様を形象化した。南道海洋権を楽しめる海洋観光列車で列車の外観は韓半島の南海岸を守っていた李舜臣(イ・スンシン)将軍の亀甲船を真似て作った。5両の客車で1号車はヒルリンシル、2号車はカジョクシル、そしてカフェ室とカップル実に満たされた3号車と茶礼を体験できる4号車がある。最後にレポーツ室とイベント室を兼ねた5号車で構成されている。。",
+    "QA": [
+        {
+            "question": "S-trainの''S''は何のイニシャルですか？",
+            "answer": "Sea(海)"
+        },
+        {
+            "question": "S-trainの外観は何を形象化していますか？",
+            "answer": "リアス式海岸の南海岸の模様"
+        },
+        {
+            "question": "S-trainの列車の構成は何ですか？",
+            "answer": "5両の客車で構成されている"
+        },
+        {
+            "question": "S-trainの1号車に何がありますか？",
+            "answer": "ヒルリンシル"
+        },
+        {
+            "question": "S-trainの2号車に何がありますか？",
+            "answer": "カジョクシル"
+        },
+        {
+            "question": "S-trainの3号車には何がありますか？",
+            "answer": "カフェ室とカップル実"
+        },
+        {
+            "question": "S-trainの4号車に何がありますか？",
+            "answer": "茶礼を体験できる"
+        },
+        {
+            "question": "S-trainの5号車に何がありますか？",
+            "answer": "レポーツ室とイベント室を兼ねた"
+        }
+    ],
+    "word_Count": {
+        "text": 192,
+        "QA": 179
+    }
+}

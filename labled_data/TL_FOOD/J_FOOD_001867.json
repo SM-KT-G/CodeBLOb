@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001867",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-05",
+        "domain": "음식점",
+        "title": "Maman Gatequ ( 마망갸또 )"
+    },
+    "text": "Maman Gatequ ( 마망갸또 )\\n\nソウル特別市 江南区 アブグジョンロ10ギル30-12\\n\nデザート専門カフェです。代表的なメニューは粉雪カキ氷です。ソウル特別市のガンナム区に位置したカフェ（コーヒーショップ）です。",
+    "QA": [
+        {
+            "question": "このカフェはどこに位置していますか？",
+            "answer": "このカフェはソウル特別市の江南区に位置しています。"
+        },
+        {
+            "question": "このカフェの代表的なメニューは何ですか？",
+            "answer": "このカフェの代表的なメニューは粉雪カキ氷です。"
+        },
+        {
+            "question": "このカフェはどんな種類のカフェですか？",
+            "answer": "このカフェはデザート専門カフェです。"
+        }
+    ],
+    "word_Count": {
+        "text": 85,
+        "QA": 90
+    }
+}

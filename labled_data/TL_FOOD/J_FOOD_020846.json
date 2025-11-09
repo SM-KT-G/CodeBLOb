@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_020846",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "無窮花ロッテホテルソウル（무궁화 롯데호텔서울）"
+    },
+    "text": "無窮花ロッテホテルソウル（무궁화 롯데호텔서울）\\n\nソウル特別市 中区 乙支路 30\\n\nソウル特別市ウルチロイック駅の近くに位置した韓食専門店です。代表的なメニューは韓定食です。ミシュランで認められた韓国料理のコース料理店です。",
+    "QA": [
+        {
+            "question": "無窮花ロッテホテルソウルはどこに位置していますか？",
+            "answer": "ソウル特別市 中区 乙支路 30"
+        },
+        {
+            "question": "無窮花ロッテホテルソウルの近くには何がありますか？",
+            "answer": "ソウル特別市ウルチロイック駅"
+        },
+        {
+            "question": "無窮花ロッテホテルソウルの代表的なメニューは何ですか？",
+            "answer": "韓定食"
+        },
+        {
+            "question": "無窮花ロッテホテルソウルはミシュランで認められていますか？",
+            "answer": "はい、ミシュランで認められた韓国料理のコース料理店です。"
+        }
+    ],
+    "word_Count": {
+        "text": 85,
+        "QA": 122
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_011289",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-03",
+        "domain": "음식점",
+        "title": "ノンガジプオンシミ ( 논가집옹심이 )"
+    },
+    "text": "ノンガジプオンシミ ( 논가집옹심이 )\\n\n江原道 ガンヌン市 ゴンハンギル30ボンギル4-6\\n\nじゃがいもで作ったオンシミ(ニョッキ)とカルグクスが代表メニューです。おすすめはじゃがいも団子スープです。江原道のガンヌン市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "このお店はどこにありますか？",
+            "answer": "このお店は江原道のガンヌン市に位置しています。"
+        },
+        {
+            "question": "このお店の代表メニューは何ですか？",
+            "answer": "このお店の代表メニューはじゃがいもで作ったオンシミ(ニョッキ)とカルグクスです。特におすすめはじゃがいも団子スープです。"
+        },
+        {
+            "question": "このお店の特徴は何ですか？",
+            "answer": "このお店の特徴は韓食専門店であり、じゃがいもを使った料理が人気です。"
+        }
+    ],
+    "word_Count": {
+        "text": 92,
+        "QA": 118
+    }
+}

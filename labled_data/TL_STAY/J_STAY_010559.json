@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_010559",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42010&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "성남 호텔 K 운영 정책"
+    },
+    "text": "チェックインは夜11時から可能で、チェックアウトは昼12時までです。 予約をしていらっしゃる方はチェックイン及びチェックアウト時間を必ず確認してください。 ご予約いただいた部屋は、複数の人が使用する公共施設です。 そのため、部屋が臭い場合は払い戻しができず、部屋の交換は可能です。 この点についてご了承ください。 チェックイン後にご利用いただけます。",
+    "QA": [
+        {
+            "question": "チェックインは何時から可能ですか？",
+            "answer": "チェックインは夜11時から可能です。"
+        },
+        {
+            "question": "チェックアウトは何時までですか？",
+            "answer": "チェックアウトは昼12時までです。"
+        },
+        {
+            "question": "予約をしている場合、チェックイン及びチェックアウト時間を確認する必要がありますか？",
+            "answer": "はい、予約をしている場合はチェックイン及びチェックアウト時間を必ず確認してください。"
+        },
+        {
+            "question": "部屋が臭い場合、払い戻しはできますか？",
+            "answer": "部屋が臭い場合は払い戻しができず、部屋の交換は可能です。"
+        },
+        {
+            "question": "部屋の交換はいつ可能ですか？",
+            "answer": "部屋の交換はチェックイン後にご利用いただけます。"
+        }
+    ],
+    "word_Count": {
+        "text": 128,
+        "QA": 173
+    }
+}

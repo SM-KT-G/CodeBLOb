@@ -1,0 +1,51 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_040362",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42010&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "시흥 호텔엘리시움"
+    },
+    "text": "Hotel Elysiumは広くて快適な駐車場を保有しており、各部屋に1台の駐車が可能です。 しかし、利用時間内には駐車が可能なので、気軽にご利用いただけます。 Hotel Elysiumの駐車場は最大20台まで利用可能です。 Hotel Elysiumは2020年05月にGRAND OPENし、ELYSIUMとは極楽、理想郷を意味します。 ここで誰でもリラックスして幸せな時間を過ごすことができます。 Hotel Elysiumのご利用案内をお知らせいたします。 全客室ではネットフリックスを無制限に視聴することができます。 客室や備品などに対する破損や破損の際には損害賠償請求となります。 したがって、大切な物品は必ずフロントに保管していただき、保管していない貴重品については責任を負わないことをお知らせします。 Hotel Elysiumのホテル約款により未成年者は利用が制限され、チェックイン時には身分証明書を確認し、身分証明書を未持参の場合は利用が制限されます。 また、宿泊スタンプクーポンはホテルエリジウムの内規に従って適用されます。 以上、Hotel Elysiumの利用案内がありました。",
+    "QA": [
+        {
+            "question": "Hotel Elysiumの駐車場の利用可能台数は最大何台ですか？",
+            "answer": "Hotel Elysiumの駐車場は最大20台まで利用可能です。"
+        },
+        {
+            "question": "Hotel Elysiumはいつオープンしましたか？",
+            "answer": "Hotel Elysiumは2020年05月にGRAND OPENしました。"
+        },
+        {
+            "question": "Hotel Elysiumの名前の意味は何ですか？",
+            "answer": "ELYSIUMとは極楽、理想郷を意味します。"
+        },
+        {
+            "question": "Hotel Elysiumで利用できるオンデマンド動画サービスは何ですか？",
+            "answer": "Hotel Elysiumでは全客室でネットフリックスを無制限に視聴することができます。"
+        },
+        {
+            "question": "Hotel Elysiumでは貴重品の保管はできますか？",
+            "answer": "はい、大切な物品は必ずフロントに保管していただき、保管していない貴重品については責任を負いません。"
+        },
+        {
+            "question": "未成年者はHotel Elysiumを利用できますか？",
+            "answer": "未成年者は利用が制限されており、チェックイン時には身分証明書の確認が必要です。身分証明書を持参していない場合は利用が制限されます。"
+        },
+        {
+            "question": "Hotel Elysiumの宿泊スタンプクーポンはどのように適用されますか？",
+            "answer": "宿泊スタンプクーポンはホテルエリジウムの内規に従って適用されます。"
+        }
+    ],
+    "word_Count": {
+        "text": 368,
+        "QA": 364
+    }
+}

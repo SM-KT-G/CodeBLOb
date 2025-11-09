@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_076059",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=639&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=04310000&ccbaCtcd=11&ccbaCpno=2111104310000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2018-10-18",
+        "domain": "문화/역사관광",
+        "title": "비변사계회도"
+    },
+    "text": "非弁四季会図\\n\nソウル特別市鍾路区セムンアン路55(新門路2街)シェル·ジャン\\n\n朝鮮時代(1550年)、ソウル特別市有形文化財、1550年(明宗5)備辺司の館員たちのギェフェを描いた<ビビョンサギェフェも>。上段に''題備邊司契會圖''と篆書でタイトルを使って、その下の北岳山、北漢山を背景に備辺司の建物と小さな人物が描かれたこと。現存するビビョンサギェフェもの中で最も古い時期に制作されており、当代の著名な士大夫であり、文人のシングヮンハンの提示が記録されている。下段に参加者の座の首を記録した部分が結実されたが、上段には篆書で記録されたタイトルがいて、中止にはギェフェ場面を描いた実景山水画が登場していて朝鮮初期ギェフェドの典型的な形式を備えたものと推定される。会話部分の山水の描写も、16世紀中葉頃に製作された他のギェフェもたちと類似して時代様式の早い事例であり、とくに景福宮と光化門(クァンファムン)、現在の世宗路付近の都市構造を絵で明確に示すこと。",
+    "QA": [
+        {
+            "question": "このビビョンサギェフェもが描かれた時代はいつですか？",
+            "answer": "朝鮮時代(1550年)"
+        },
+        {
+            "question": "ビビョンサギェフェもの中で最も古い時期に制作されたものは何ですか？",
+            "answer": "当代の著名な士大夫であり、文人のシングヮンハンの提示が記録されたもの"
+        },
+        {
+            "question": "ビビョンサギェフェもで描かれた建物の名前は何ですか？",
+            "answer": "備辺司の建物"
+        },
+        {
+            "question": "ビビョンサギェフェもで描かれた背景の山の名前は何ですか？",
+            "answer": "北岳山、北漢山"
+        },
+        {
+            "question": "ビビョンサギェフェもの下段には何が記録されていますか？",
+            "answer": "参加者の座の首"
+        },
+        {
+            "question": "ビビョンサギェフェもで描かれた実景山水画は何を示していますか？",
+            "answer": "朝鮮初期ギェフェドの典型的な形式"
+        }
+    ],
+    "word_Count": {
+        "text": 316,
+        "QA": 184
+    }
+}

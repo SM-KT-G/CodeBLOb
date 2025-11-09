@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_024905",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "又来屋 ( 우래옥 )"
+    },
+    "text": "又来屋 ( 우래옥 )\nソウル特別市 中区 昌慶宮路 62-29\n「ミシュランガイド2020」に選定された平壌冷麺専門店です。代表的なメニューはピョンヤン冷麺です。ソウル特別市のジュン区に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "このレストランの場所はどこですか？",
+            "answer": "又来屋 (ウラエオク)はソウル特別市中区の昌慶宮路62-29に位置しています。"
+        },
+        {
+            "question": "このレストランは何を専門としていますか？",
+            "answer": "又来屋は平壌冷麺を専門としているお店です。"
+        },
+        {
+            "question": "平壌冷麺以外に何か代表的なメニューはありますか？",
+            "answer": "又来屋の代表的なメニューはピョンヤン冷麺です。"
+        },
+        {
+            "question": "このレストランはどのくらいの席数がありますか？",
+            "answer": "又来屋にはいくつかの席がありますが、具体的な席数についてはお店にお問い合わせください。"
+        },
+        {
+            "question": "このレストランはミシュランガイドに選定されたことがありますか？",
+            "answer": "はい、又来屋は「ミシュランガイド2020」に選定されました。"
+        }
+    ],
+    "word_Count": {
+        "text": 77,
+        "QA": 198
+    }
+}

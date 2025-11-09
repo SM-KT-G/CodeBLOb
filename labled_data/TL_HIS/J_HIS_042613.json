@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_042613",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/collectionList#######",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "갓모"
+    },
+    "text": "窯道具の欠片 (갓모)\\n\n韓国-朝鮮時代の陶磁器は、土で作られています。この陶磁器は、在来工業の一環として、産業や生業に関係する職人たちによって制作されました。具体的には、陶磁器工の技術を持つ人々によって手が込められています。 この陶磁器の大きさは、高さ3.7cm、幅9.3cm、高さ30cm、幅10.5cmです。",
+    "QA": [
+        {
+            "question": "この陶磁器は何で作られていますか？",
+            "answer": "この陶磁器は土で作られています。"
+        },
+        {
+            "question": "この陶磁器は何のために制作されましたか？",
+            "answer": "この陶磁器は産業や生業に関係する職人たちによって制作されました。"
+        },
+        {
+            "question": "この陶磁器の大きさは何ですか？",
+            "answer": "この陶磁器の大きさは高さ3.7cm、幅9.3cm、高さ30cm、幅10.5cmです。"
+        }
+    ],
+    "word_Count": {
+        "text": 115,
+        "QA": 104
+    }
+}

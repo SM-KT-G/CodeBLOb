@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_007537",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1176&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=06130000&ccbaCtcd=37&ccbaCpno=3413706130000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2013-09-12",
+        "domain": "문화/역사관광",
+        "title": "경주 북산서사"
+    },
+    "text": "慶州北山西寺 (경주 북산서사)\\n\n慶尚北道慶州市ホミョンクンゴルキル33-40(江東面、北山西寺)\\n\n慶尚北道文化財資料 , 北山西寺は朝鮮中期の文臣イ·ウルギュ(1508~1546)を祭享するために創建された北山寺に由来する。 北山西寺は1824年に建てられた建物を1967年に現地に移建した建物で、1870年に撤去された後、現在の位置に移建するまでの事情が明らかにならず残念だが、慶州地域に住む慶州李氏門中の代表的な門中寺であり、李乙奎は朝鮮中期慶州地域を代表する学者として名望が高かったことと建築物の全体的な管理状態が良好だ。",
+    "QA": [
+        {
+            "question": "北山西寺はどこに位置していますか？",
+            "answer": "慶尚北道慶州市ホミョンクンゴルキル33-40(江東面、北山西寺)に位置しています。"
+        },
+        {
+            "question": "北山西寺はいつ建てられましたか？",
+            "answer": "北山西寺は1824年に建てられた建物を1967年に現地に移建しました。"
+        },
+        {
+            "question": "北山西寺はなぜ移建されたのですか？",
+            "answer": "北山西寺は1870年に撤去された後、現在の位置に移建されましたが、具体的な事情は明らかになっていません。"
+        },
+        {
+            "question": "北山西寺はどのような建物ですか？",
+            "answer": "北山西寺は慶州地域に住む慶州李氏門中の代表的な門中寺であり、建築物の全体的な管理状態が良好です。"
+        },
+        {
+            "question": "北山西寺は誰を祭享していますか？",
+            "answer": "北山西寺は朝鮮中期の文臣イ·ウルギュ(1508~1546)を祭享するために創建されました。"
+        }
+    ],
+    "word_Count": {
+        "text": 197,
+        "QA": 222
+    }
+}

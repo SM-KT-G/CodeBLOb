@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_005100",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "グァンミョンスサン（광명수산）"
+    },
+    "text": "グァンミョンスサン（광명수산）\\n\nソウル特別市 九老区 京仁路59キル 7\\n\n新鮮なお刺身も有名です。代表的なメニューは魚の辛味スープです。ソウル特別市のグロ区に位置した韓食です。",
+    "QA": [
+        {
+            "question": "グァンミョンスサン（광명수산）はどこに位置していますか？",
+            "answer": "グァンミョンスサン（광명수산）はソウル特別市の九老区に位置しています。"
+        },
+        {
+            "question": "グァンミョンスサン（광명수산）の代表的なメニューは何ですか？",
+            "answer": "グァンミョンスサン（광명수산）の代表的なメニューは魚の辛味スープです。"
+        },
+        {
+            "question": "グァンミョンスサン（광명수산）のお刺身は新鮮ですか？",
+            "answer": "はい、グァンミョンスサン（광명수산）のお刺身は新鮮です。"
+        }
+    ],
+    "word_Count": {
+        "text": 67,
+        "QA": 133
+    }
+}

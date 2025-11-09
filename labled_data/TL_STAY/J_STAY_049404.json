@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_049404",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.booking.com/hotel/kr/value-worldwide-jeju.ko.html",
+        "collectedDate": "2023-11-17",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "Hotel AirCityJeju"
+    },
+    "text": "Hotel AirCityJejuは済州国際空港から車で8分の距離に位置するバリューホテルワールドワイド済州です。 当ホテルは無料Wi-Fiと専用駐車場を提供し、それぞれの客室はカーペットの床で仕上げております。 客室には薄型TV、電気やかん、冷蔵庫が備えられており、一部の客室にはスパ浴槽と休憩スペースが用意されています。 また、室内バスルームには無料の洗面用具を備えています。 ホテルはレストラン、会議室、ビジネスセンターを備えており、24 時間フロントデスクを運営しています。 毎朝07:00~09:30まで朝食バイキングが提供され、滞在中にビドクカフェでコーヒーを飲んだり、構内のバーでカクテルが楽しめます。 イホ海水浴場までは車で15分、済州パラですイスカジノまでは徒歩で15分ほどかかります。 Hotel AirCity Jejuのチェックインは15:00から始まり、チェックアウトは11:00までです。",
+    "QA": [
+        {
+            "question": "ホテルAirCityJejuはどの空港から近いですか？",
+            "answer": "ホテルAirCityJejuは済州国際空港から車で8分の距離に位置しています。"
+        },
+        {
+            "question": "ホテルAirCityJejuの客室にはどんな設備がありますか？",
+            "answer": "ホテルAirCityJejuの客室には薄型TV、電気やかん、冷蔵庫が備えられています。一部の客室にはスパ浴槽と休憩スペースもあります。また、室内バスルームには無料の洗面用具が備えられています。"
+        },
+        {
+            "question": "ホテルAirCityJejuはどのような施設を提供していますか？",
+            "answer": "ホテルAirCityJejuはレストラン、会議室、ビジネスセンターを備えており、24時間フロントデスクを運営しています。"
+        },
+        {
+            "question": "ホテルAirCityJejuの朝食はどの時間帯に提供されますか？",
+            "answer": "ホテルAirCityJejuでは毎朝07:00~09:30まで朝食バイキングが提供されます。"
+        },
+        {
+            "question": "ホテルAirCityJejuの周辺にはどのような観光地がありますか？",
+            "answer": "ホテルAirCityJejuから車で15分の距離にイホ海水浴場があります。また、徒歩で15分ほどの距離には済州パラですイスカジノがあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 299,
+        "QA": 342
+    }
+}

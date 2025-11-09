@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_003789",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101933",
+        "collectedDate": "2023-10-06",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "달천역"
+    },
+    "text": "タルチョンヨク。 \\n\nDalcheon station, 達川駅は忠清北道忠州市大所院面にある忠北線の鉄道駅である。近くに韓国交通大学校忠州キャンパスと江東大学校忠州キャンパスがある。2010年11月1日より旅客扱いが中止された。達天の名をとった。\\n\n",
+    "QA": [
+        {
+            "question": "韓国交通大学校忠州キャンパスはどこにありますか？",
+            "answer": "韓国交通大学校忠州キャンパスは忠清北道忠州市大所院面にあります。"
+        },
+        {
+            "question": "江東大学校忠州キャンパスはどこにありますか？",
+            "answer": "江東大学校忠州キャンパスも忠清北道忠州市大所院面にあります。"
+        },
+        {
+            "question": "達天とは何ですか？",
+            "answer": "達天は達川駅の別名です。"
+        },
+        {
+            "question": "達川駅はいつ旅客扱いが中止されましたか？",
+            "answer": "達川駅は2010年11月1日に旅客扱いが中止されました。"
+        }
+    ],
+    "word_Count": {
+        "text": 93,
+        "QA": 129
+    }
+}

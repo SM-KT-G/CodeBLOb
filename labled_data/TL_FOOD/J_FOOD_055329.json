@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_055329",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/songane-noodles",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "ソンガネ・コムグクス"
+    },
+    "text": "ソンガネ・コムグクス\\n\nソウル市ソンブクグソンブクロ15ギル8\\n\nブランド韓国産牛のハヌ(韓牛)を使ったプルコギとコムグクス(牛骨スープのうどん)がおいしいところ。北朝鮮式のマンドゥ(餃子)も人気メニューだ。店内は一般家庭のようなこじんまりとした雰囲気。",
+    "QA": [
+        {
+            "question": "このレストランの場所はどこですか？",
+            "answer": "ソウル市ソンブクグソンブクロ15ギル8です。"
+        },
+        {
+            "question": "このレストランでおすすめのメニューは何ですか？",
+            "answer": "プルコギとコムグクスがおすすめです。また、北朝鮮式のマンドゥも人気です。"
+        },
+        {
+            "question": "このレストランの雰囲気はどのような感じですか？",
+            "answer": "店内は一般家庭のようなこじんまりとした雰囲気です。"
+        },
+        {
+            "question": "このレストランの特徴は何ですか？",
+            "answer": "このレストランは韓国産牛のハヌ(韓牛)を使った料理が特徴です。"
+        }
+    ],
+    "word_Count": {
+        "text": 94,
+        "QA": 141
+    }
+}

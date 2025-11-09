@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_114743",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=540&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=02200000&ccbaCtcd=33&ccbaCpno=2113302200000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2003-04-11",
+        "domain": "문화/역사관광",
+        "title": "청주 노현리 고가"
+    },
+    "text": "この家屋は本来は江陵金氏キムスンジのジョンカデクだったと知られている。構造的には'イ'字型の木造と家屋で、光彩と四柱門、厠は木造チョンカだ。光彩は'仕事'さあ家だ。1980年6月、全国集落や伝統家屋調査記録台帳によると、約200年前に建設されたが、オム氏あるいは、金氏家門が住む僧に沿岸、李容疑者とイソンフンさんが暮らしたとされている。現在は'イ'字型の母屋と'仕事'字型の戸口や蔵、畜舎に構成されている。サランチェは再建築の過程で焼失したものと推定される。母屋は、忠清(チュンチョン)地域の民家の特徴を備えており、建築手法も一般の民家より細部的に精巧に加工された。屋根のハプガク部分は移転過程で少し高められたものと推定される。伝統的な建物として文化遺産的価値が十分に認められるはずだ。",
+    "QA": [
+        {
+            "question": "この家屋はどのような形状ですか？",
+            "answer": "この家屋は'イ'字型の木造と家屋で、光彩と四柱門、厠は木造チョンカです。"
+        },
+        {
+            "question": "この家屋が建設されたのはいつですか？",
+            "answer": "この家屋は約200年前に建設されました。"
+        },
+        {
+            "question": "この家屋について知られている所有者や住人はいますか？",
+            "answer": "この家屋は江陵金氏キムスンジのジョンカデクであり、オム氏や金氏家門、李容疑者とイソンフンさんが暮らしたことが知られています。"
+        },
+        {
+            "question": "この家屋はどのような構成になっていますか？",
+            "answer": "現在、この家屋は'イ'字型の母屋と'仕事'字型の戸口や蔵、畜舎に構成されています。"
+        },
+        {
+            "question": "この家屋の屋根部分について何か特筆すべきことはありますか？",
+            "answer": "屋根のハプガク部分は移転過程で少し高められたものと推定されます。"
+        }
+    ],
+    "word_Count": {
+        "text": 251,
+        "QA": 220
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_008022",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1114&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=02920000&ccbaCtcd=38&ccbaCpno=3413802920000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2001-02-22",
+        "domain": "문화/역사관광",
+        "title": "고성 박진사 고가"
+    },
+    "text": "固城 朴振寺古家 (고성 박진사 고가)\\n\n慶尚南道高城郡開川面清光里292-3\\n\n慶尚南道文化財資料 , 密陽朴氏の旧家として代々進士と孝子が生まれ、朝鮮時代の士大夫家屋の形をよく備えている。 この家で孝子パク·ヒョグンが出生し、彼の息子パク·ハンフェと孫が進士を務めた。 朝鮮後期に建てられ、日帝時代に大規模に建て直したこの家屋は、母屋とサランチェ2棟、谷間チェ2棟、大門間チェで構成されており、塀がよく保存されている。 門には孝子旌閭の扁額が貼られている。 前面5間·側面2間の母屋は台所、部屋、板の間、笠間で構成されている。 母屋を中心に東に塀を囲んで別堂のように内棟を配置し、中門間棟を外棟として利用した。 中門から母屋が直接見えないように塀を巡らした。 家の周りには全体的に高い塀を囲んでいるが、瓦礫を混ぜて形を作っている。 日帝時代に再び直して実用性と伝統性がよく調和した伝統韓屋であるこの家屋は、朝鮮後期建築の変遷研究に貴重な資料だ。",
+    "QA": [
+        {
+            "question": "この朴振寺古家はどこにありますか？",
+            "answer": "慶尚南道高城郡開川面清光里292-3にあります。"
+        },
+        {
+            "question": "この古家はどのような特徴がありますか？",
+            "answer": "この古家は、朝鮮時代の士大夫家屋の形をよく備えており、母屋とサランチェ2棟、谷間チェ2棟、大門間チェで構成されています。また、塀もよく保存されています。"
+        },
+        {
+            "question": "この家屋はいつ建てられましたか？",
+            "answer": "朝鮮後期に建てられ、日帝時代に大規模に建て直されました。"
+        },
+        {
+            "question": "この家屋はどのような使い方がされていましたか？",
+            "answer": "この家屋は実用性と伝統性が調和した伝統韓屋であり、孝子の生まれた家として代々進士と孝子が生まれ、進士を務めるための場所として利用されていました。"
+        },
+        {
+            "question": "この家屋の塀はどのように作られていますか？",
+            "answer": "この家屋の周りには全体的に高い塀がありますが、瓦礫を混ぜて形を作っています。"
+        }
+    ],
+    "word_Count": {
+        "text": 313,
+        "QA": 244
+    }
+}

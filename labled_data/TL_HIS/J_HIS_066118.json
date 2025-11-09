@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_066118",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=475&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=01310000&ccbaCtcd=38&ccbaCpno=2113801310000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1974-12-28",
+        "domain": "문화/역사관광",
+        "title": "밀양 표충사 대광전"
+    },
+    "text": "密陽表忠寺大広殿\\n\n慶尚南道密陽市表忠路1338(丹長面、表忠寺)\\n\n慶尚南道有形文化財、表忠寺はジェヤクサンの南の麓にある寺で、本来、ここには新羅武烈王1年(654)に、元暁大師が建てた竹林師がいたが、統一新羅興徳王4年(829)に王の三男が病気で苦労する際、ここの遺影薬水を食べて病が癒えたとして遺影サラの名前を変えたという。その後朝鮮粛宗41年(1715)に再びなり、憲宗5年(1839)に壬辰の乱の時、僧兵を起こして国に功を立てた、四溟(サミョン)大師を追悼するために祠堂を建て、表忠寺とした。大光戦は、表忠寺境内にある寺で、大寂光殿とも呼ばれ、毘盧遮那仏を祀る法堂だ。前面5間・側面3間で屋根側面が八(八部)字形の入母屋造りである。軒を支えようと装飾して作った恐怖は柱の上と柱の間にもあるダポシク建物である。柱の間隔は恐怖の間隔を配慮して同様に配置したものとみられる。",
+    "QA": [
+        {
+            "question": "表忠寺はどこにありますか？",
+            "answer": "表忠寺は慶尚南道密陽市表忠路1338にあります。"
+        },
+        {
+            "question": "表忠寺は何のために建てられましたか？",
+            "answer": "表忠寺は、統一新羅興徳王4年に王の三男が病気で苦労した際、ここの遺影薬水を食べて病が癒えたことを記念して建てられました。"
+        },
+        {
+            "question": "大広殿とは何ですか？",
+            "answer": "大広殿は表忠寺境内にある寺で、毘盧遮那仏を祀る法堂です。"
+        },
+        {
+            "question": "大広殿の建築様式はどのようなものですか？",
+            "answer": "大広殿は前面5間・側面3間で屋根側面が八(八部)字形の入母屋造りです。軒を支えるために装飾的な恐怖が柱の上と柱の間にも施されています。"
+        },
+        {
+            "question": "表忠寺には何が祀られていますか？",
+            "answer": "表忠寺には毘盧遮那仏が祀られています。"
+        }
+    ],
+    "word_Count": {
+        "text": 286,
+        "QA": 201
+    }
+}

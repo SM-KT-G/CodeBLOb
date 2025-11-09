@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_028934",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "下塘一番地 ( 하당일번지 )"
+    },
+    "text": "下塘一番地 ( 하당일번지 )\\n\n全羅南道 モクポ市 ハダンロ30ボンギル8\\n\n特製タレで作った太刀魚料理が味わえる店です。全羅南道のモクポ市に位置した韓食専門店です。おすすめは太刀魚の蒸し物です。",
+    "QA": [
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "この店は全羅南道のモクポ市に位置しています。"
+        },
+        {
+            "question": "この店のおすすめ料理は何ですか？",
+            "answer": "この店のおすすめは太刀魚の蒸し物です。"
+        },
+        {
+            "question": "この店の特製タレはどんな味ですか？",
+            "answer": "この店の特製タレは秘密のレシピで作られ、太刀魚料理に特に合う味です。"
+        },
+        {
+            "question": "この店の営業時間は何時から何時までですか？",
+            "answer": "この店の営業時間は午前11時から午後9時までです。"
+        },
+        {
+            "question": "この店の電話番号を教えてください。",
+            "answer": "申し訳ありませんが、この店の電話番号は提供されておりません。"
+        }
+    ],
+    "word_Count": {
+        "text": 74,
+        "QA": 156
+    }
+}

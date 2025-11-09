@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_038040",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.booking.com/hotel/kr/grace-river-house-block-a2-family.ko.html",
+        "collectedDate": "2023-11-17",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "그레이스 리버 하우스"
+    },
+    "text": "グレースリバーハウスは横城内に位置する快適な宿泊施設です。 このヴィラは大英アルプスカントリークラブから12km、オックスフィールドCCから16km、Guryongsa Templeから17kmの距離にあり、ゴルフを楽しむ方や信仰的な方にも良い場所です。 グレースリバーハウスは美しい庭園とテラスで構成されており、休息と風景鑑賞を楽しむことができます。 バルコニーとエアコンがあるこのヴィラは、いくつかの施設を完璧に備えています。 寝室は全部で3つあり、キッチンには必要なすべての施設が用意されています。 また、タオルとベッドリネンも提供されます。 宿の近くにはSangji Universityや原州駅のような人気スポットがあり、より便利な旅行が可能です。 最寄りの原州空港は6kmの距離に位置しています。 グレースリバーハウスは横城の中心部から約1.3km離れており、チェックインは午後3時から可能で、チェックアウトは午前12時までです。 .",
+    "QA": [
+        {
+            "question": "Grace River Houseはどこに位置していますか？",
+            "answer": "Grace River Houseは横城内に位置しています。"
+        },
+        {
+            "question": "Grace River Houseはどのような施設を提供していますか？",
+            "answer": "Grace River Houseは美しい庭園とテラスを提供しており、休息と風景鑑賞を楽しむことができます。"
+        },
+        {
+            "question": "Grace River Houseの近くにある人気スポットはありますか？",
+            "answer": "Grace River Houseの近くにはSangji Universityや原州駅などの人気スポットがあります。"
+        },
+        {
+            "question": "最寄りの空港はどのくらいの距離にありますか？",
+            "answer": "最寄りの原州空港は6kmの距離に位置しています。"
+        },
+        {
+            "question": "チェックインとチェックアウトの時間は何時ですか？",
+            "answer": "Grace River Houseではチェックインは午後3時から可能で、チェックアウトは午前12時までです。"
+        }
+    ],
+    "word_Count": {
+        "text": 310,
+        "QA": 269
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_000996",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42060&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "태안(안면도) 럭스펜션텔"
+    },
+    "text": "1人当たりの人数追加費用10,000ウォンが発生します。 海の展望客室で西海を見ることができます。 オフシーズン/オンシーズン/オンシーズンの場合、料金が変動することがあります。 フロントでヤノルジャ会員であることを必ずおっしゃってください。 また、電気自動車の充電も可能です。",
+    "QA": [
+        {
+            "question": "展望客室で西海を見ることができますか？",
+            "answer": "はい、展望客室からは西海を見ることができます。"
+        },
+        {
+            "question": "一人当たりの人数追加費用はいくらですか？",
+            "answer": "一人当たりの人数追加費用は10,000ウォンです。"
+        },
+        {
+            "question": "オフシーズンとオンシーズンの料金の違いはありますか？",
+            "answer": "はい、オフシーズンとオンシーズンでは料金が変動することがあります。具体的な料金についてはフロントにお問い合わせください。"
+        },
+        {
+            "question": "ヤノルジャ会員である場合、特典はありますか？",
+            "answer": "はい、ヤノルジャ会員である場合は特典があります。詳細についてはフロントにお問い合わせください。"
+        },
+        {
+            "question": "電気自動車の充電は可能ですか？",
+            "answer": "はい、当施設では電気自動車の充電も可能です。"
+        }
+    ],
+    "word_Count": {
+        "text": 101,
+        "QA": 204
+    }
+}

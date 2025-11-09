@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_013875",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-07-02",
+        "domain": "음식점",
+        "title": "マッ東山（맛동산）"
+    },
+    "text": "マッドンサン（맛동산）\\n\n忠清南道 瑞山市 浮石面 看月島1キル95-5\\n\n忠清南道瑞山市看月島の入り口にあるマットンサンは、カキの栄養ご飯定食やエイの稚魚の和え物で有名なお店です。また、韓国で初めて臭わない納豆汁（チョングッチャン）を開発したお店としても知られています。",
+    "QA": [
+        {
+            "question": "このマットンサンはどこにありますか？",
+            "answer": "マットンサンは忠清南道瑞山市看月島の入り口にあります。"
+        },
+        {
+            "question": "マットンサンの特徴的なメニューはありますか？",
+            "answer": "マットンサンはカキの栄養ご飯定食やエイの稚魚の和え物が有名です。"
+        },
+        {
+            "question": "マットンサンの開発した納豆汁の特徴は何ですか？",
+            "answer": "マットンサンは韓国で初めて臭わない納豆汁（チョングッチャン）を開発しました。"
+        }
+    ],
+    "word_Count": {
+        "text": 101,
+        "QA": 117
+    }
+}

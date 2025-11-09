@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_033390",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=747&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=22&ccbaAsno=00440000&ccbaCtcd=37&ccbaCpno=2223700440000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "포항 궁시장"
+    },
+    "text": "浦項弓矢匠 (포항 궁시장)\\n\n慶尚北道無形文化財、伝統矢竹柿は7種類の天然材料[竹(シヌデ)、萩、逃避(桃の皮)、魚橋(魚のくちばし)、鉄芯(牛の筋)、チウ(キジの羽)、触]で構成されるもので、特にまっすぐで硬いシヌデが最も重要な材料だ。 竹を火で焼いて正しく伸ばし、その直線度が長く維持されるようにすることが矢の生命である命中率を高めるカギだ。浦項弓市場のキム·ビョンウクは伝統性を受け継いだ矢、すなわち竹矢製作技術と優秀な技量を保有しており、これをよく履行して伝統の脈を受け継いでいる。",
+    "QA": [
+        {
+            "question": "浦項弓矢匠（포항 궁시장）はどのような伝統的な技術を受け継いでいますか？",
+            "answer": "浦項弓矢匠は竹矢製作技術と優秀な技量を保有しており、伝統の脈を受け継いでいます。"
+        },
+        {
+            "question": "伝統矢竹柿はどのような材料で構成されていますか？",
+            "answer": "伝統矢竹柿は、竹（シヌデ）、萩、逃避（桃の皮）、魚橋（魚のくちばし）、鉄芯（牛の筋）、チウ（キジの羽）、触の7種類の天然材料で構成されています。特にまっすぐで硬いシヌデが最も重要な材料です。"
+        },
+        {
+            "question": "浦項弓市場のキム・ビョンウクさんはどのような役割を果たしていますか？",
+            "answer": "浦項弓市場のキム・ビョンウクさんは伝統性を受け継いだ矢、すなわち竹矢製作技術と優秀な技量を保有しており、伝統の脈を受け継いでいます。"
+        },
+        {
+            "question": "竹を正しく伸ばすことはなぜ矢の命中率に重要なのですか？",
+            "answer": "竹を火で焼いて正しく伸ばし、その直線度が長く維持されるようにすることは矢の生命であり、命中率を高めるためのカギです。"
+        }
+    ],
+    "word_Count": {
+        "text": 181,
+        "QA": 278
+    }
+}

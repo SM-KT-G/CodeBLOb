@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001746",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-01",
+        "domain": "음식점",
+        "title": "HWANG TAE FISHING GROUND ( 황태어장 )"
+    },
+    "text": "HWANG TAE FISHING GROUND ( 황태어장 )\n釜山広域市 釜山鎮区 東川路 58\n釜山市民もよく訪れる店です。釜山広域市のブサンジン区に位置した韓食専門店です。代表的なメニューはスケトウダラスープです。",
+    "QA": [
+        {
+            "question": "この韓食専門店の名前は何ですか？",
+            "answer": "韓食専門店の名前はHWANG TAE FISHING GROUND ( 황태어장 )です。"
+        },
+        {
+            "question": "この店はどこに位置していますか？",
+            "answer": "この店は釜山広域市のブサンジン区に位置しています。"
+        },
+        {
+            "question": "代表的なメニューは何ですか？",
+            "answer": "代表的なメニューはスケトウダラスープです。"
+        },
+        {
+            "question": "この店を釜山市民はよく訪れますか？",
+            "answer": "はい、この店を釜山市民もよく訪れます。"
+        }
+    ],
+    "word_Count": {
+        "text": 82,
+        "QA": 126
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_091416",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=5&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=11&ccbaAsno=00490000&ccbaCtcd=34&ccbaCpno=1113400490000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1962-12-20",
+        "domain": "문화/역사관광",
+        "title": "예산 수덕사 대웅전"
+    },
+    "text": "忠烈王34年(1308)に建てられた修徳寺は国宝に指定された寺院である。記録には百済後期スンジェ法師が初めて建てて、高麗の恭愍王の時、ニャース直したと記録されている。また、他の記録には百済公王1年(599)に指名法師が建設し、元曉が直したと伝えられている。大雄殿は、釈迦のニー仏像を祀った建物で、忠烈王34年(1308)に建てた。この建物は韓国で最も古い木造建築物の一つとされている。前面3間・側面4間の大きさであり、切妻屋根の形で軒を支えためのジュシムポ様式を使用した。建物は前面には3ペア、細かい斜め格子の扉を、裏面は矛と板戸をそれぞれ置いた。大雄殿は百済系の木造建築様式を受け継いだ高麗時代の建物に、装飾的な要素が引き立って美しい。そして建設年代がはっきりして形が優れて韓国木造建築士で非常に重要な文化財と評価されている。",
+    "QA": [
+        {
+            "question": "修徳寺はいつ建てられましたか？",
+            "answer": "修徳寺は忠烈王34年(1308)に建てられました。"
+        },
+        {
+            "question": "修徳寺の建てられた当時の法師は誰でしたか？",
+            "answer": "修徳寺が建てられた当時の法師は、百済後期スンジェ法師でした。"
+        },
+        {
+            "question": "大雄殿に祀られている仏像は誰のものですか？",
+            "answer": "大雄殿に祀られている仏像は釈迦のニー仏像です。"
+        },
+        {
+            "question": "大雄殿の建築様式は何ですか？",
+            "answer": "大雄殿の建築様式は、切妻屋根の形で軒を支えためのジュシムポ様式を使用しています。"
+        },
+        {
+            "question": "大雄殿の裏面には何が置かれていますか？",
+            "answer": "大雄殿の裏面には矛と板戸が置かれています。"
+        }
+    ],
+    "word_Count": {
+        "text": 266,
+        "QA": 167
+    }
+}

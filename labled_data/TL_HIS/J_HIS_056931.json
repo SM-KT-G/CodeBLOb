@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_056931",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/collectionList#######",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "나무상자"
+    },
+    "text": "木箱 (나무상자)\\n\n長さ26.2cm、幅52.3cm、高さ36.7cmの箱があります。この箱は、韓国の特定の時代に使われたものと思われます。 箱には、「第号」という文字が筆で書かれており、また、「米国ソルピョ石油ニューヨークスタンダード石油会社」および「REFINED PETROLEUM 65Netlbs TRADE MARK ATLANTIC REFINING COMPANY WARDENFREEW & CO。 AGENTS PHILADELPHIA」という印刷物もあります。この箱は、主に生活用品や家具の収納に使用されました。",
+    "QA": [
+        {
+            "question": "この木箱はいつ頃使用されていましたか？",
+            "answer": "この木箱は韓国の特定の時代に使用されました。"
+        },
+        {
+            "question": "この木箱の寸法は何ですか？",
+            "answer": "この木箱は長さ26.2cm、幅52.3cm、高さ36.7cmです。"
+        },
+        {
+            "question": "この木箱に書かれている文字は何ですか？",
+            "answer": "この木箱には「第号」という文字が筆で書かれています。"
+        },
+        {
+            "question": "この木箱に印刷されている文言は何ですか？",
+            "answer": "この木箱には「米国ソルピョ石油ニューヨークスタンダード石油会社」と「REFINED PETROLEUM 65Netlbs TRADE MARK ATLANTIC REFINING COMPANY WARDENFREEW & CO. AGENTS PHILADELPHIA」という印刷物があります。"
+        },
+        {
+            "question": "この木箱は主に何に使用されましたか？",
+            "answer": "この木箱は主に生活用品や家具の収納に使用されました。"
+        }
+    ],
+    "word_Count": {
+        "text": 197,
+        "QA": 252
+    }
+}

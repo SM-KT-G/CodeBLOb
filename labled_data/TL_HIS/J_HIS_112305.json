@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_112305",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/view?relicId=108461",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2023-10-11",
+        "domain": "문화/역사관광",
+        "title": "청자 접시"
+    },
+    "text": "青磁皿 (청자 접시)\\n\n国籍/時代：中国-元 材質：陶磁器 - 青磁 分類：食生活 - 食器 - 皿 大きさ：高さ28cm、直径121cm、底径76cm ※訳注：元は中国の時代区分の一つとして用いられています。陶磁器の青磁は中国でよく使われる材料であり、この皿もその一例です。また、この皿は食卓で使用される食器の一種であり、その大きさは高さ28cm、直径121cm、底径76cmです。",
+    "QA": [
+        {
+            "question": "この青磁皿はどこの国のものですか？",
+            "answer": "この青磁皿は中国の元時代のもので、中国の陶磁器である青磁で作られています。"
+        },
+        {
+            "question": "この青磁皿の大きさはどのくらいですか？",
+            "answer": "この青磁皿の大きさは高さ28cm、直径121cm、底径76cmです。"
+        },
+        {
+            "question": "この青磁皿はどのように使用されていましたか？",
+            "answer": "この青磁皿は食卓で使用される食器であり、食事を盛るために使われていました。"
+        }
+    ],
+    "word_Count": {
+        "text": 142,
+        "QA": 121
+    }
+}

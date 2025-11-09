@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_093658",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=370&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=00070000&ccbaCtcd=26&ccbaCpno=2112600070000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1997-10-09",
+        "domain": "문화/역사관광",
+        "title": "울산향교"
+    },
+    "text": "蔚山広域市有形文化財である郷校は、朝鮮時代の公式的な地方教育機関でした。郷校では、社長学科、経学を勉強しました。郷校の建物は文廟と学堂で分けられていました。文廟には中国の四声・李と韓国シプパルヒョンを祀った大成殿と東・西廡があり、学堂には明倫堂と東・書斎がありました。蔚山(ウルサン)郷校は、15世紀頃に創建されたものと推定されており、初めには現伴鷗洞旧教村に建てられました。しかし、文禄・慶長の役により燃えた後には再び建てられず、1652年に、今の場所に移転されました。創建当時には、大成殿、東・西廡、東・ソジェマン建てられており、1711年にジャクシンルを追加で設立、その後何度も改築されました。。現在までも建築の基本枠組みは維持されています。蔚山(ウルサン)郷校の建物は典型的な郷校建築の特性を持っています。建物は南北と東西軸に直角交差して配置され、伝統的な建築様式を従いました。大成殿は一軒(ひとのき)つの翼型、様式の切妻屋根の、明倫堂は一軒(ひとのき)つの翼型、様式の入母屋屋根でした。正門であるチョンウォンルは垂木軒つの翼型、様式の入母屋屋根形式に沿って建てられました。",
+    "QA": [
+        {
+            "question": "蔚山郷校の設立はいつ頃ですか？",
+            "answer": "15世紀頃に創建されたものと推定されています。"
+        },
+        {
+            "question": "郷校では何を勉強しましたか？",
+            "answer": "郷校では、社長学科、経学を勉強しました。"
+        },
+        {
+            "question": "蔚山郷校の建物はどのような特徴がありますか？",
+            "answer": "建物は南北と東西軸に直角交差して配置され、伝統的な建築様式を従っています。"
+        },
+        {
+            "question": "郷校の建物はどのように分けられていましたか？",
+            "answer": "建物は文廟と学堂で分けられていました。"
+        },
+        {
+            "question": "蔚山郷校の建物は何度改築されましたか？",
+            "answer": "蔚山郷校の建物は何度も改築されました。"
+        }
+    ],
+    "word_Count": {
+        "text": 360,
+        "QA": 154
+    }
+}

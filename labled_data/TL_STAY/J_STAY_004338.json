@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_004338",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42080&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "양양 윈드밸리글램핑"
+    },
+    "text": "こんにちは。ヤンヤン ウインドベリーグランピングです。 お知らせをご案内いたします。 チェックアウト時間によって追加費用が発生します。 1時間当たり20,000ウォンで、最大午後1時まで可能です。 当グランピングは完璧な断熱施工が施されており、四季にも冷暖房が可能であり、床には電気オンドルパネルが設置されています。",
+    "QA": [
+        {
+            "question": "ウインドベリーグランピングのチェックアウト時間は何時ですか？",
+            "answer": "ウインドベリーグランピングのチェックアウト時間は午後1時です。ただし、それ以降の利用には追加費用が発生します。"
+        },
+        {
+            "question": "ウインドベリーグランピングの床には何が設置されていますか？",
+            "answer": "ウインドベリーグランピングの床には電気オンドルパネルが設置されています。"
+        },
+        {
+            "question": "ウインドベリーグランピングはどのような季節でも冷暖房が可能ですか？",
+            "answer": "ウインドベリーグランピングは完璧な断熱施工が施されており、四季にも冷暖房が可能です。"
+        },
+        {
+            "question": "ウインドベリーグランピングの追加費用はどのくらいですか？",
+            "answer": "ウインドベリーグランピングの追加費用は1時間当たり20,000ウォンです。最大午後1時まで利用することができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 115,
+        "QA": 227
+    }
+}

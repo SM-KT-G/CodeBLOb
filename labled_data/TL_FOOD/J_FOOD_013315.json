@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_013315",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "ヘトゥルナルポチャ食堂 ( 해뜰날포차식당 )"
+    },
+    "text": "ヘトゥルナルポチャ食堂 ( 해뜰날포차식당 )\\n\n全羅南道 木浦市 海岸路249ボンキル 23-1\\n\n木浦市が選定した9味の中の一つであるテナガダコの各種料理で味わえるお店です。 全羅南道のモクポ市に位置した海鮮専門店です。代表的なメニューはテナガダコの寄せ鍋です。",
+    "QA": [
+        {
+            "question": "ヘトゥルナルポチャ食堂はどこに位置していますか？",
+            "answer": "ヘトゥルナルポチャ食堂は全羅南道木浦市海岸路249ボンキル23-1に位置しています。"
+        },
+        {
+            "question": "ヘトゥルナルポチャ食堂ではどのような料理を味わえますか？",
+            "answer": "ヘトゥルナルポチャ食堂では木浦市が選定した9味の中の一つであるテナガダコの各種料理を味わうことができます。"
+        },
+        {
+            "question": "ヘトゥルナルポチャ食堂の代表的なメニューは何ですか？",
+            "answer": "ヘトゥルナルポチャ食堂の代表的なメニューはテナガダコの寄せ鍋です。"
+        }
+    ],
+    "word_Count": {
+        "text": 99,
+        "QA": 151
+    }
+}

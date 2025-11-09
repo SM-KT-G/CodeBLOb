@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_029473",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/goods/GN0002022299?startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "거제도 화이트블랙펜션(いざかや居酒屋)"
+    },
+    "text": "巨済島鶴洞モンドル海辺から車で1分の距離に位置する新築ペンションホワイトブラックペンションは、風の丘、神仙台、外島船着場からも近い位置にあります。 22時以降に入室される場合は、ペンションまで事前にご連絡ください。",
+    "QA": [
+        {
+            "question": "ホワイトブラックペンションの場所はどこですか？",
+            "answer": "ホワイトブラックペンションは巨済島鶴洞モンドル海辺から車で1分の距離に位置しています。"
+        },
+        {
+            "question": "ホワイトブラックペンションの近くにはどんな観光スポットがありますか？",
+            "answer": "ホワイトブラックペンションの近くには風の丘、神仙台、外島船着場などがあります。"
+        },
+        {
+            "question": "夜遅くに入室する場合はどうすればいいですか？",
+            "answer": "22時以降に入室される場合は、ペンションまで事前にご連絡ください。"
+        }
+    ],
+    "word_Count": {
+        "text": 78,
+        "QA": 142
+    }
+}

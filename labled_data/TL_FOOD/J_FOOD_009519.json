@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_009519",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-01",
+        "domain": "음식점",
+        "title": "ダニャン酔い覚ましスープ ( 단향해장국 )"
+    },
+    "text": "ダニャン酔い覚ましスープ \n慶尚北道 安東市 永嘉路 19\n地元の人たちにも人気の高い店です。 おすすめは酔い覚ましスープです。慶尚北道のアンドン市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "この店はどこにありますか？",
+            "answer": "この店は慶尚北道のアンドン市にあります。"
+        },
+        {
+            "question": "この店のおすすめメニューは何ですか？",
+            "answer": "この店のおすすめは酔い覚ましスープです。"
+        },
+        {
+            "question": "この店は地元の人にも人気がありますか？",
+            "answer": "はい、この店は地元の人たちにも人気が高いです。"
+        }
+    ],
+    "word_Count": {
+        "text": 63,
+        "QA": 82
+    }
+}

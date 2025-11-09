@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_004397",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42080&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "강릉 쉼터독채펜션"
+    },
+    "text": "こんにちは。江陵憩いの場の一軒家ペンションです。 江陵憩いの場、一軒家ペンションは1組のみ利用可能な一軒家型の宿です。 ここでは可愛らしい庭園やブルーベリー農場体験、蘭の温室まで様々な活動が楽しめます。 もし生活に休息が必要な場合は、ぜひ憩いの場ペンションを訪れてください。 ペンションの円滑な運営のため、入·退室時間を必ずお守りください。 また、22時以降に到着する場合は事前にご連絡ください。",
+    "QA": [
+        {
+            "question": "江陵憩いの場の一軒家ペンションはどのような宿ですか？",
+            "answer": "江陵憩いの場の一軒家ペンションは1組のみ利用可能な一軒家型の宿です。"
+        },
+        {
+            "question": "どんな活動が楽しめますか？",
+            "answer": "可愛らしい庭園やブルーベリー農場体験、蘭の温室まで様々な活動が楽しめます。"
+        },
+        {
+            "question": "どのような場合に憩いの場ペンションを訪れるべきですか？",
+            "answer": "生活に休息が必要な場合に憩いの場ペンションを訪れることをおすすめします。"
+        },
+        {
+            "question": "入・退室時間は何時ですか？",
+            "answer": "ペンションの円滑な運営のため、入・退室時間を必ずお守りください。"
+        },
+        {
+            "question": "22時以降に到着する場合はどうすればいいですか？",
+            "answer": "22時以降に到着する場合は事前にご連絡ください。"
+        }
+    ],
+    "word_Count": {
+        "text": 145,
+        "QA": 195
+    }
+}

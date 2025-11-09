@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_022289",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "山森ガーデン ( 산숲가든 )"
+    },
+    "text": "山森ガーデン ( 산숲가든 )\n慶尚北道 安東市 忠孝路 3929\nボリュームたっぷりでヘルシーな韓国料理の味が楽しめる店です。代表的なメニューはコンドゥレナムルの釜飯です。慶尚北道のアンドン市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "山森ガーデンはどこにありますか？",
+            "answer": "山森ガーデンは慶尚北道安東市に位置しています。"
+        },
+        {
+            "question": "山森ガーデンのメニューには何がありますか？",
+            "answer": "山森ガーデンの代表的なメニューはコンドゥレナムルの釜飯です。"
+        },
+        {
+            "question": "山森ガーデンはどんな料理が楽しめますか？",
+            "answer": "山森ガーデンではボリュームたっぷりでヘルシーな韓国料理が楽しめます。"
+        }
+    ],
+    "word_Count": {
+        "text": 80,
+        "QA": 105
+    }
+}

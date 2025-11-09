@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_010550",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "トゥコビ食堂 ( 두꺼비식당 )"
+    },
+    "text": "トゥコビ食堂 \n忠清北道 堤川市 義林大路20キル 21\n韓国のグルメ番組でよく紹介されるグルメスポットです。忠淸北道のジェチョン市に位置した韓食専門店です。おすすめはボウルカルビです。",
+    "QA": [
+        {
+            "question": "トゥコビ食堂はどこにありますか？",
+            "answer": "トゥコビ食堂は忠清北道のジェチョン市に位置しています。"
+        },
+        {
+            "question": "トゥコビ食堂はどんな料理を提供していますか？",
+            "answer": "トゥコビ食堂は韓食専門店で、おすすめはボウルカルビです。"
+        },
+        {
+            "question": "トゥコビ食堂は何番地にありますか？",
+            "answer": "トゥコビ食堂は義林大路20キル21にあります。"
+        },
+        {
+            "question": "トゥコビ食堂はどのような特徴がありますか？",
+            "answer": "トゥコビ食堂は韓国のグルメ番組でよく紹介されるグルメスポットです。"
+        }
+    ],
+    "word_Count": {
+        "text": 68,
+        "QA": 137
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_004670",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42020&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "남해 모히토펜션"
+    },
+    "text": "こんにちは。美しい南海のモヒートペンションです。 当ペンションは写真家が選んだ日没の名所として有名です。 日常ではなかなか見られない美しい日没を鑑賞できる機会を提供します。 また、お知らせですと、レイト入室の際には事前にペンションまでご連絡をお願いしています。 ぜひ訪問してみることをおすすめします。 ありがとうございます。",
+    "QA": [
+        {
+            "question": "南海のモヒートペンションはどのような機会を提供していますか？",
+            "answer": "南海のモヒートペンションは、写真家が選んだ日没の名所として有名で、日常ではなかなか見られない美しい日没を鑑賞できる機会を提供しています。"
+        },
+        {
+            "question": "レイト入室の際にはどのような連絡が必要ですか？",
+            "answer": "レイト入室の際には事前にペンションまでご連絡をお願いしています。"
+        },
+        {
+            "question": "南海のモヒートペンションを訪れる価値はありますか？",
+            "answer": "はい、ぜひ訪れてみることをおすすめします。ここでしか見られない美しい日没を楽しむことができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 118,
+        "QA": 165
+    }
+}

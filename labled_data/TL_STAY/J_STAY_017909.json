@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_017909",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42020&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "진주 EM"
+    },
+    "text": "各部屋の入室基準を確認し、追加人数は当日追加料金を支払う必要があることをお知らせします。 オンシーズンおよび特定の日、祝日には料金が調整される場合があります。 入室の際には身分証明書を確認し、未成年者の場合は入室制限されます(身分証明書を必ず持参してください。",
+    "QA": [
+        {
+            "question": "入室基準は何ですか？",
+            "answer": "各部屋の入室基準は、当日追加料金を支払う必要があることをお知らせします。"
+        },
+        {
+            "question": "料金はどのように調整されますか？",
+            "answer": "オンシーズンや特定の日、祝日には料金が調整される場合があります。"
+        },
+        {
+            "question": "身分証明書は必要ですか？",
+            "answer": "入室の際には身分証明書を確認します。未成年者の場合は入室制限されますので、身分証明書を必ず持参してください。"
+        }
+    ],
+    "word_Count": {
+        "text": 95,
+        "QA": 117
+    }
+}

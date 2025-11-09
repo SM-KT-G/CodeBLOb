@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_012720",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "ブオンイトンカツ 南山ソウルタワー（부엉이돈가스 남산서울타워）"
+    },
+    "text": "ブオンイトンカツ 南山ソウルタワー（부엉이돈가스 남산서울타워）\\n\nソウル特別市 龍山区 南山公園キル 105\\n\nこの店はソウル特別市のナムサンソウルタワーに位置した和食専門店です。鉄板トンカツ専門店です。代表的なメニューは豚カツです。",
+    "QA": [
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "南山公園キル 105にあります。"
+        },
+        {
+            "question": "この店の特徴は何ですか？",
+            "answer": "この店は和食専門店であり、鉄板トンカツ専門店です。"
+        },
+        {
+            "question": "この店の代表的なメニューは何ですか？",
+            "answer": "豚カツが代表的なメニューです。"
+        },
+        {
+            "question": "この店の名前は何ですか？",
+            "answer": "この店の名前はブオンイトンカツ 南山ソウルタワーです。"
+        },
+        {
+            "question": "この店はどの市に位置していますか？",
+            "answer": "この店はソウル特別市に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 88,
+        "QA": 127
+    }
+}

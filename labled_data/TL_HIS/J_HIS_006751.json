@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_006751",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=398&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=00340000&ccbaCtcd=23&ccbaCpno=2112300340000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1995-11-15",
+        "domain": "문화/역사관광",
+        "title": "강화향교"
+    },
+    "text": "江華郷校 (강화향교)\\n\n仁川広域市江華郡郷校路58(江華邑)\\n\n仁川広域市有形文化財 , 聖賢たちに祭祀を行い、地方民の教育のために建てた国立教育機関で、高麗仁宗5年(1127)に建てられた。 その後、何度も移して復元したが、今ある位置は英祖7年(1731)有数の遺尺期が移したものだ。 残っている建物としては祭祀空間である大成殿と東武·庶務、教育空間である明倫堂をはじめ色々な付属建物がある。 朝鮮時代には国家から土地·奴婢·本などを支援され祭祀と教育の機能を担当したが、教育機能は消え、今は祭祀の機能だけが残っている。",
+    "QA": [
+        {
+            "question": "江華郷校はどのような場所ですか？",
+            "answer": "江華郷校は仁川広域市江華郡郷校路に位置しており、国立教育機関で、高麗仁宗5年(1127)に建てられました。"
+        },
+        {
+            "question": "江華郷校は何のために建てられましたか？",
+            "answer": "江華郷校は聖賢たちに祭祀を行い、地方民の教育のために建てられました。"
+        },
+        {
+            "question": "江華郷校にはどのような建物が残っていますか？",
+            "answer": "江華郷校には大成殿と東武・庶務、明倫堂などの建物が残っています。"
+        },
+        {
+            "question": "江華郷校は何の機能を担っていましたか？",
+            "answer": "江華郷校は朝鮮時代には祭祀と教育の機能を担っていましたが、現在は祭祀の機能のみが残っています。"
+        },
+        {
+            "question": "江華郷校は何度も移動されたことがありますか？",
+            "answer": "はい、江華郷校は何度も移動されました。今ある位置は英祖7年(1731)に移されたものです。"
+        }
+    ],
+    "word_Count": {
+        "text": 193,
+        "QA": 226
+    }
+}

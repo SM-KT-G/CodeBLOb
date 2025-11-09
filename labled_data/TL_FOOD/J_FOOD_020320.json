@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_020320",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2020-10-23",
+        "domain": "음식점",
+        "title": "萬里香( 만리향 )"
+    },
+    "text": "萬里香( 만리향 )\\n\n慶尚南道 金海市 盆城路335ボンキル 4\\n\n45年の伝統を誇るお店で、韓国の有名なグルメ番組で紹介されました。 おすすめは蒸し餃子です。慶尚南道のギムヘ市に位置した餃子専門店です。",
+    "QA": [
+        {
+            "question": "万里香（만리향）はどこにありますか？",
+            "answer": "万里香（만리향）は慶尚南道の金海市盆城路335ボンキル 4にあります。"
+        },
+        {
+            "question": "万里香（만리향）はどのくらいの伝統を持っていますか？",
+            "answer": "万里香（만리향）は45年の伝統を誇っています。"
+        },
+        {
+            "question": "万里香（만리향）では何がおすすめですか？",
+            "answer": "万里香（만리향）では蒸し餃子がおすすめです。"
+        },
+        {
+            "question": "万里香（만리향）はどのような店ですか？",
+            "answer": "万里香（만리향）は餃子専門店で、韓国の有名なグルメ番組でも紹介されたお店です。"
+        }
+    ],
+    "word_Count": {
+        "text": 77,
+        "QA": 148
+    }
+}

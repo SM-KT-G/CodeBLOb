@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_015527",
+        "source": "도서",
+        "writer": "양선희",
+        "ISBN_ISNN": "978-89-2554-676-6",
+        "version": "초판",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "커피비경",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2014-02-20",
+        "domain": "음식점",
+        "title": "에잇에잇"
+    },
+    "text": "ロースタリー カフェエイトにイットは、最高級ハイエンドコーヒーマシンシネソMVPハイドラ、ビクトリアアルドゥイノミトス2、マルコニックEK43、イースターロースターで最高のコーヒーを抽出します。 主な使用生豆はマイクロラット生豆で、エチオピアG1ナチュラル系、ロコシリーズ、エクアドルなどの様々な種類が経験できます。 環境にやさしい運動に参加し、個人タンブラーを使用する場合、包装する際に500ウォンを割引いたします。 営業時間は毎日11:00~21:00で、Last Orderは20:00までです。 様々なメニューでお客様を迎えています。 Snowdrop, Leplusbeaujour, ASMODEUS, Espresso, Americano, Cold Brew, Hand Drip, Cheese cake, ネポコーヒー, Latte, Pave chocolate < 2 Pieces >, Langue de chat, Chocolate sand, Red shot, Blue shot, Green shot, Purple shot などの 多様な メニューを 提供します。",
+    "QA": [
+        {
+            "question": "営業時間は何時からですか？",
+            "answer": "営業時間は毎日11:00~21:00で、Last Orderは20:00までです。"
+        },
+        {
+            "question": "どのコーヒーマシンを使用していますか？",
+            "answer": "最高級ハイエンドコーヒーマシンシネソMVPハイドラ、ビクトリアアルドゥイノミトス2、マルコニックEK43、イースターロースターを使用しています。"
+        },
+        {
+            "question": "主な使用生豆は何ですか？",
+            "answer": "主な使用生豆はマイクロラット生豆で、エチオピアG1ナチュラル系、ロコシリーズ、エクアドルなどの様々な種類があります。"
+        },
+        {
+            "question": "環境にやさしい運動に参加する場合、どのような特典がありますか？",
+            "answer": "個人タンブラーを使用する場合、包装する際に500ウォンを割引いたします。"
+        },
+        {
+            "question": "どのようなメニューがありますか？",
+            "answer": "Snowdrop, Leplusbeaujour, ASMODEUS, Espresso, Americano, Cold Brew, Hand Drip, Cheese cake, ネポコーヒー, Latte, Pave chocolate < 2 Pieces >, Langue de chat, Chocolate sand, Red shot, Blue shot, Green shot, Purple shotなどの多様なメニューを提供しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 370,
+        "QA": 387
+    }
+}

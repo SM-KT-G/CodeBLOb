@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_005078",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://apis.data.go.kr/1400000/service/cultureInfoService2/mntInfoOpenAPI2",
+        "collectedDate": "2023-11-22",
+        "publishedDate": "2020-12-01",
+        "domain": "자연관광",
+        "title": "경신산"
+    },
+    "text": "庚申山 (경신산)\\n\n仁川広域市南洞区寿山洞\\n\n仁川の南東区庁のすぐ後ろに位置し、頂上付近からは五峰山とヒル山などを眺望でき、森の保存状態が良好で登山および散策路として非常に立派な姿を備えている。 山の地勢は続き、南村を経て道林洞と論峴洞で五峰山と連結される。",
+    "QA": [
+        {
+            "question": "庚申山はどこにありますか？",
+            "answer": "庚申山は仁川広域市南洞区寿山洞に位置しています。"
+        },
+        {
+            "question": "庚申山からはどのような景色を眺めることができますか？",
+            "answer": "庚申山の頂上付近からは五峰山やヒル山などを眺望することができます。"
+        },
+        {
+            "question": "庚申山はどのくらいの保存状態ですか？",
+            "answer": "庚申山は森の保存状態が非常に良好です。"
+        },
+        {
+            "question": "庚申山はどのような活動に適していますか？",
+            "answer": "庚申山は登山や散策に適しています。"
+        },
+        {
+            "question": "庚申山はどの山と連結されていますか？",
+            "answer": "庚申山は南村を経て道林洞と論峴洞で五峰山と連結されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 96,
+        "QA": 159
+    }
+}

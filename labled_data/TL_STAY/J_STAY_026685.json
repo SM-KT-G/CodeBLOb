@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_026685",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-26",
+        "domain": "숙박",
+        "title": "済州パール観光ホテル（제주 펄 관광호텔）"
+    },
+    "text": "済州パール観光ホテル\n済州特別自治道 済州市 新大路20キル49 （連洞）\n済州国際空港からタクシーで5分の所にある「済州パール観光ホテル」は様々な施設を備えた新しいスタイルの観光ホテルで、新婚旅行や家族旅行におすすめです。",
+    "QA": [
+        {
+            "question": "済州パール観光ホテルはどこにありますか？",
+            "answer": "済州パール観光ホテルは済州特別自治道済州市新大路20キル49（連洞）に位置しています。"
+        },
+        {
+            "question": "済州パール観光ホテルはどのくらいの距離にありますか？",
+            "answer": "済州パール観光ホテルは済州国際空港からタクシーで5分の所にあります。"
+        },
+        {
+            "question": "済州パール観光ホテルはどのような施設を備えていますか？",
+            "answer": "済州パール観光ホテルは様々な施設を備えており、新しいスタイルの観光ホテルです。"
+        },
+        {
+            "question": "どのような旅行におすすめですか？",
+            "answer": "済州パール観光ホテルは新婚旅行や家族旅行におすすめです。"
+        }
+    ],
+    "word_Count": {
+        "text": 82,
+        "QA": 170
+    }
+}

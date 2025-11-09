@@ -1,0 +1,31 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_015798",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/lodge/hotel-phoenix",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "フェニックスホテル"
+    },
+    "text": "フェニックスホテル\n釜山広域市 中区 南浦洞5街 8-1\nフェニックスホテルは、韓国第1の港湾都市、釜山のメイン・ストリートや、繁華街である南浦洞に位置しており、釜山名物である国際市場, チャガルチ市場、龍頭山公園及び松島に隣接しています。",
+    "QA": [
+        {
+            "question": "フェニックスホテルはどこに位置していますか？",
+            "answer": "フェニックスホテルは韓国第1の港湾都市、釜山のメイン・ストリートや、繁華街である南浦洞に位置しています。"
+        },
+        {
+            "question": "フェニックスホテルの近くにはどんな観光名所がありますか？",
+            "answer": "フェニックスホテルの近くには、釜山名物である国際市場, チャガルチ市場、龍頭山公園及び松島があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 88,
+        "QA": 112
+    }
+}

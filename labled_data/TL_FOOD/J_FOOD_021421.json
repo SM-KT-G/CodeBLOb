@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_021421",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/bugangok",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "富強玉"
+    },
+    "text": "富強玉\\n\n世宗特別自治市 芙江面 芙江外川路 103\\n\n各種メディアでよく紹介されている名店です。世宗特別自治市に位置した韓国料理専門店です。代表的なメニューはスンデクッパです。",
+    "QA": [
+        {
+            "question": "この名店はどこにありますか？",
+            "answer": "富強玉 世宗特別自治市 芙江面 芙江外川路 103にあります。"
+        },
+        {
+            "question": "この名店の特徴は何ですか？",
+            "answer": "この名店は韓国料理専門店であり、各種メディアでよく紹介されています。"
+        },
+        {
+            "question": "この名店の代表的なメニューは何ですか？",
+            "answer": "この名店の代表的なメニューはスンデクッパです。"
+        }
+    ],
+    "word_Count": {
+        "text": 66,
+        "QA": 98
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_011394",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2020-12-28",
+        "domain": "음식점",
+        "title": "バウネ羅州コムタン 順天蓮香( 바우네나주곰탕 순천연향 )"
+    },
+    "text": "バウネ羅州コムタン 順天蓮香( 바우네나주곰탕 순천연향 )\\n\n全羅南道 順天市 ヨンヒャンサンガ5ギル17\\n\n70年の伝統を持つ羅州コムタン専門店です。おすすめはカルビタンです。全羅南道のスンチョン市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "このレストランはどこにありますか？",
+            "answer": "このレストランは全羅南道順天市のヨンヒャンサンガ5ギル17に位置しています。"
+        },
+        {
+            "question": "このレストランは何を提供していますか？",
+            "answer": "このレストランは70年の伝統を持つ羅州コムタン専門店で、特にカルビタンがおすすめです。"
+        },
+        {
+            "question": "このレストランの特徴は何ですか？",
+            "answer": "このレストランはバウネナジュコムタンスンチョンヨンヒャンサンガで、伝統的な韓国料理を提供しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 85,
+        "QA": 134
+    }
+}

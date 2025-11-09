@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_099338",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/collectionList#######",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2023-10-11",
+        "domain": "문화/역사관광",
+        "title": "저울 접시"
+    },
+    "text": "秤の皿 (저울 접시)\\n\n国籍と時代は「中国のオン」と表現することがより自然だと思われます。また、材質や分類の項目は冗長であり、単純に「金属製の銅合金で、商業や計測/計量のための秤及び錘」と表現するとスムーズです。最後に、大きさの説明は「高さは7cm、直径は9cm」と具体的に述べることで分かりやすくなります。 修正例： 国籍/時代: 中国のオン 材質: 金属製の銅合金 分類: 商業や計測/計量のための秤及び錘 大きさ: 高さは7cm、直径は9cm",
+    "QA": [
+        {
+            "question": "この秤の皿はどこの国のものですか？",
+            "answer": "中国のオンです。"
+        },
+        {
+            "question": "この秤の皿は何時代のものですか？",
+            "answer": "時代は特定されていません。"
+        },
+        {
+            "question": "この秤の皿の材質は何ですか？",
+            "answer": "金属製の銅合金です。"
+        },
+        {
+            "question": "この秤の皿はどのような目的で使用されていましたか？",
+            "answer": "商業や計測/計量のために使用されていました。"
+        },
+        {
+            "question": "この秤の皿の大きさはどのくらいですか？",
+            "answer": "高さは7cm、直径は9cmです。"
+        }
+    ],
+    "word_Count": {
+        "text": 165,
+        "QA": 117
+    }
+}

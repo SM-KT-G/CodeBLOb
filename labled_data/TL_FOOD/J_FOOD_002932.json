@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_002932",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-09",
+        "domain": "음식점",
+        "title": "イムハホキサニム食堂( 임하호기사님식당 )"
+    },
+    "text": "イムハホキサニム食堂\\n\n慶尚北道 安東市 船着場キル 8\\n\n数多くのおかずが出され、様々な料理を味わうことができます。慶尚北道のアンドン市に位置した韓国料理店です。代表的なメニューはキムチチゲです。",
+    "QA": [
+        {
+            "question": "このレストランの場所はどこですか？",
+            "answer": "慶尚北道のアンドン市に位置しています。"
+        },
+        {
+            "question": "このレストランの特徴的な料理は何ですか？",
+            "answer": "キムチチゲが代表的なメニューです。"
+        },
+        {
+            "question": "このレストランのおすすめのおかずは何ですか？",
+            "answer": "数多くのおかずが出され、様々な料理を味わうことができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 74,
+        "QA": 90
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_097661",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/collectionList#######",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2023-10-11",
+        "domain": "문화/역사관광",
+        "title": "일본제국지도"
+    },
+    "text": "大日本帝国地図 (일본제국지도)\\n\nこの地図はアメリカ合衆国のもので、紙で作られています。分類としては、伝統科学の一部である地理学の中の地図作成技術に属しており、具体的には西洋地図の分野です。サイズは、全長250cm、幅159cm、縦205cm、横142cmです。",
+    "QA": [
+        {
+            "question": "この地図はどこの国のものですか？",
+            "answer": "アメリカ合衆国のものです。"
+        },
+        {
+            "question": "地図は何で作られていますか？",
+            "answer": "紙で作られています。"
+        },
+        {
+            "question": "この地図はどの分野に属していますか？",
+            "answer": "地理学の中の地図作成技術に属しており、具体的には西洋地図の分野です。"
+        },
+        {
+            "question": "地図のサイズはどれくらいですか？",
+            "answer": "全長250cm、幅159cm、縦205cm、横142cmです。"
+        }
+    ],
+    "word_Count": {
+        "text": 97,
+        "QA": 111
+    }
+}

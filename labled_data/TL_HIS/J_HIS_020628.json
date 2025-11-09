@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_020628",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=814&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=00550000&ccbaCtcd=23&ccbaCpno=2332300550000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2006-09-11",
+        "domain": "문화/역사관광",
+        "title": "삼목도 선사주거지"
+    },
+    "text": "杉島 先史住居地 (삼목도 선사주거지)\\n\n仁川広域市中区雲西洞1830-1\\n\n仁川広域市記念物 , 三木島は中西部内陸の岩寺洞遺跡を除く西海島嶼地域で確認された最大規模(17基)の新石器住居地であり、既存の貝塚中心の調査と研究から脱し、島嶼地域での集落による生業および住居様式に関する研究を進めることができた。 すなわち、西海岸一帯の遺跡が内陸住民の資源獲得のための訪問および短期占有で形成されたという既存の仮説が該当地域のすべての遺跡を説明できないという点が提起された。 住居地内で発見される遺物および施設は、西海中部地域の新石器時代文化の研究に新たな可能性を提供するだろう。遺跡地では新石器時代の竪穴住居地17基、竪穴1基、赤石遺構1基と朝鮮時代の竪穴住居地1基などが確認された。",
+    "QA": [
+        {
+            "question": "場所はどこですか？",
+            "answer": "仁川広域市中区雲西洞1830-1にあります。"
+        },
+        {
+            "question": "この先史住居地の特徴は何ですか？",
+            "answer": "三木島は中西部内陸の岩寺洞遺跡を除く西海島嶼地域で確認された最大規模の新石器住居地であり、島嶼地域での集落による生業および住居様式に関する研究を進めることができました。"
+        },
+        {
+            "question": "どのような遺物や施設が発見されましたか？",
+            "answer": "遺跡地では新石器時代の竪穴住居地17基、竪穴1基、赤石遺構1基と朝鮮時代の竪穴住居地1基などが確認されました。"
+        },
+        {
+            "question": "この先史住居地が新石器時代文化の研究にどのような可能性を提供していますか？",
+            "answer": "この先史住居地で発見された遺物および施設は、西海中部地域の新石器時代文化の研究に新たな可能性を提供するでしょう。"
+        },
+        {
+            "question": "この地域の他の遺跡との違いは何ですか？",
+            "answer": "従来の仮説では、西海岸一帯の遺跡は内陸住民の資源獲得のための訪問や短期占有で形成されたとされていましたが、三木島の先史住居地はそれとは異なり、島嶼地域での集落による生業および住居様式に関する研究を進めることができました。"
+        }
+    ],
+    "word_Count": {
+        "text": 253,
+        "QA": 313
+    }
+}

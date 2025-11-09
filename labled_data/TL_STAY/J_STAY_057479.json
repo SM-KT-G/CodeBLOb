@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_057479",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42011&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "을왕리 아령펜션"
+    },
+    "text": "ムウィ島に位置するアリョンペンションは、海と山に囲まれた自然環境とウェルビーイング寝床を提供します。 映画実尾島と天国の階段の撮影場所であるムウィ島の観光名所や登山路であるグッサボンが周辺に位置しており、見どころも豊富です。 ペンションはいつも涼しさと活力を感じられる場所で、22時以降に入室される場合は事前にご連絡をお願いします。",
+    "QA": [
+        {
+            "question": "アリョンペンションはどのような自然環境に位置していますか？",
+            "answer": "アリョンペンションは海と山に囲まれた自然環境に位置しています。"
+        },
+        {
+            "question": "アリョンペンションの近くにはどんな観光名所がありますか？",
+            "answer": "アリョンペンションの近くには映画実尾島や天国の階段の撮影場所であるムウィ島の観光名所や、登山路のグッサボンなどがあります。"
+        },
+        {
+            "question": "アリョンペンションはいつもどのような雰囲気ですか？",
+            "answer": "アリョンペンションはいつも涼しさと活力を感じられる場所です。"
+        },
+        {
+            "question": "アリョンペンションに22時以降に入室する場合はどうすればよいですか？",
+            "answer": "アリョンペンションに22時以降に入室される場合は事前にご連絡をお願いします。"
+        }
+    ],
+    "word_Count": {
+        "text": 121,
+        "QA": 202
+    }
+}

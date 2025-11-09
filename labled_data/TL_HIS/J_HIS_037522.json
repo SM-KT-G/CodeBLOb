@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_037522",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=897&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=02550000&ccbaCtcd=36&ccbaCpno=2333602550000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2021-03-04",
+        "domain": "문화/역사관광",
+        "title": "장흥 죽천사"
+    },
+    "text": "長興竹川祠 (장흥 죽천사)\\n\n全羅南道長興郡関山路18-84(関山邑)\\n\n朝鮮後期、全羅南道記念物、長興竹泉寺は1688年(粛宗14)年に初めて忠烈祠として建設された。 これは壬辰倭乱の前哨である達良津事変当時、長興府使で倭寇を討伐して殉節した韓温と壬辰倭乱の時、王が義州に避難する時に勤王し忠誠を尽くした清渓威徳義を配向した祠宇だった。 その後、新たに長興邑忠烈里の忠烈祠に韓温の位牌を離岸したことで、清渓工だけを独郷することになり、祠宇の名称も竹泉寺に変わった。在竹泉寺講堂である陽春斎は、竹泉寺の復建以前の朝鮮後期から長興魏氏の斎室として使われており、現在の建物は1917年に再建された。",
+    "QA": [
+        {
+            "question": "竹泉寺はいつ建てられたのですか？",
+            "answer": "竹泉寺は1688年に初めて忠烈祠として建設されました。"
+        },
+        {
+            "question": "竹泉寺はどのような由来がありますか？",
+            "answer": "竹泉寺は壬辰倭乱の前哨である達良津事変当時、長興府使で倭寇を討伐して殉節した韓温と壬辰倭乱の時、王が義州に避難する時に勤王し忠誠を尽くした清渓威徳義を配向した祠宇でした。"
+        },
+        {
+            "question": "竹泉寺の名称が変わった経緯を教えてください。",
+            "answer": "新たに長興邑忠烈里の忠烈祠に韓温の位牌を離岸したことで、清渓工だけを独郷することになり、竹泉寺という名称に変わりました。"
+        },
+        {
+            "question": "陽春斎はどのように使われていましたか？",
+            "answer": "陽春斎は竹泉寺の復建以前の朝鮮後期から、長興魏氏の斎室として使われており、現在の建物は1917年に再建されました。"
+        }
+    ],
+    "word_Count": {
+        "text": 220,
+        "QA": 222
+    }
+}

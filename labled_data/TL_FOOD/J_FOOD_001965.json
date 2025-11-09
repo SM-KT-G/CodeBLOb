@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001965",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-06",
+        "domain": "음식점",
+        "title": "OldDelhi ( 올드델리 )"
+    },
+    "text": "OldDelhi ( 올드델리 )\\n\nソウル特別市 蘆原区 ノヘロ85ギル14\\n\nインド伝統のカレーが味わえる店です。おすすめはカレーです。ソウル特別市のノウォン区に位置した洋食専門店です。",
+    "QA": [
+        {
+            "question": "OldDelhi ( 올드델리 )はどこに位置していますか？",
+            "answer": "OldDelhi ( 올드델리 )はソウル特別市 蘆原区 ノヘロ85ギル14に位置しています。"
+        },
+        {
+            "question": "OldDelhi ( 올드델리 )では何を味わうことができますか？",
+            "answer": "OldDelhi ( 올드델리 )ではインド伝統のカレーが味わえます。特におすすめはカレーです。"
+        },
+        {
+            "question": "OldDelhi ( 올드델리 )は洋食専門店ですか？",
+            "answer": "はい、OldDelhi ( 올드델리 )は洋食専門店です。"
+        },
+        {
+            "question": "OldDelhi ( 올드델리 )はどの区に位置していますか？",
+            "answer": "OldDelhi ( 올드델리 )はソウル特別市のノウォン区に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 71,
+        "QA": 208
+    }
+}

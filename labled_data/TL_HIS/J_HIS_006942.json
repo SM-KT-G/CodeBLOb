@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_006942",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=724&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=22&ccbaAsno=00170000&ccbaCtcd=38&ccbaCpno=2223800170000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "거창삼베일소리"
+    },
+    "text": "居昌麻布の音 (거창삼베일소리)\\n\n慶尚南道無形文化財 , 居昌麻布の音は麻布の退屈さを癒すために歌われる労働歌だ。 慶尚南道居昌郡（キョンサンナムド·コチャングン）は昔から麻布の故郷だった。 麻布が生産されるまでは麻の種をまいて機織るまで色々な過程の労働が伴うことになる。 このような全過程をキルサムと言うが、ここで麻布ギルサムとも呼ばれる麻布ギルサムでは男性より女性が行う労働が多い。 麻布の音は7つの過程で構成されており、畑作の音、麻布の音、三ヶ所の音、ろくろの音、麻布の音、麻布の音、麻布を織る音などで進行される。 居昌麻布の音は大変な農作業を忘れさせる労働歌で、イ·マルジュ氏がその脈を続けている。",
+    "QA": [
+        {
+            "question": "居昌麻布の音は何のために歌われる労働歌ですか？",
+            "answer": "居昌麻布の音は麻布の退屈さを癒すために歌われる労働歌です。"
+        },
+        {
+            "question": "居昌麻布の音はどのような楽曲構成で進行されますか？",
+            "answer": "居昌麻布の音は7つの過程で構成されており、畑作の音、麻布の音、三ヶ所の音、ろくろの音、麻布の音、麻布の音、麻布を織る音などで進行されます。"
+        },
+        {
+            "question": "麻布ギルサムでは男性と女性の労働分担はどのようになっていますか？",
+            "answer": "麻布ギルサムでは男性よりも女性が行う労働が多いです。"
+        }
+    ],
+    "word_Count": {
+        "text": 223,
+        "QA": 149
+    }
+}

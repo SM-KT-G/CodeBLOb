@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_038579",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=823&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=00670000&ccbaCtcd=35&ccbaCpno=2333500670000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1983-08-24",
+        "domain": "문화/역사관광",
+        "title": "원통사지"
+    },
+    "text": "円通寺址 (원통사지)\\n\n全羅北道茂朱郡安城面円通寺路676、外2筆地(竹川里)\\n\n全羅北道記念物、徳裕山の南麓にある円通寺の旧跡である。 円通寺重創碑文によると、円通寺は新羅の時に建てられた寺院で、寺が建てられた当時の規模について正確には分からないが、法堂、鐘閣、楼閣などの建物があったと記録されている。 朝鮮粛宗24年(1698)、弾彦、道営、恵玉禅師たちが堂と鐘閣を建て直し、銅鐘を作り、仏像を補修したが、1949年の麗水·順天事件で全て燃えてしまった。 その後、1976年にペ·ジェヨル僧侶が住職として赴任してきて復元計画を立て、三宝法人ファン·グァンソク会長が個人財産を投じて復元を始めて3年後の1985年、大雄殿、仙草堂、初演橋を新しく建て直したことで、円通寺の昔の姿を取り戻すことになった。 円通寺は光武9年(1905)、日帝によって強制的に締結された乙巳條約以後、日本軍に抵抗していた義兵たちが抗日闘争の本拠地とした意味深い護国道場だ。",
+    "QA": [
+        {
+            "question": "円通寺はどこに位置していますか？",
+            "answer": "円通寺は全羅北道茂朱郡安城面円通寺路676、外2筆地(竹川里)に位置しています。"
+        },
+        {
+            "question": "円通寺はいつ建てられましたか？",
+            "answer": "円通寺は新羅の時に建てられましたが、正確な建てられた当時の規模については分かっていません。"
+        },
+        {
+            "question": "円通寺は何で重創されましたか？",
+            "answer": "円通寺は1949年の麗水·順天事件で火災により重創されました。"
+        },
+        {
+            "question": "円通寺の復元はいつ行われましたか？",
+            "answer": "円通寺の復元は1976年に始まり、1985年までに大雄殿、仙草堂、初演橋が新しく建て直されました。"
+        },
+        {
+            "question": "円通寺は何の意味深い護国道場だったのですか？",
+            "answer": "円通寺は日帝によって強制的に締結された乙巳條約以後、日本軍に抵抗していた義兵たちが抗日闘争の本拠地となりました。"
+        }
+    ],
+    "word_Count": {
+        "text": 313,
+        "QA": 224
+    }
+}

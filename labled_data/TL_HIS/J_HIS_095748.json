@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_095748",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1183&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=06510000&ccbaCtcd=38&ccbaCpno=3413806510000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2018-08-30",
+        "domain": "문화/역사관광",
+        "title": "의령 탐진안씨 문중 정려각"
+    },
+    "text": "宜寧耽津安氏門中旌閭閣\\n\n慶尚南道宜寧郡義合大路1830-14(ブリムミョン、アン氏在室)\\n\n1405年創立、1990年の再建、慶尚南道文化財資料、朝鮮初期永楽3年(太宗5年、1405)に入れ墨安藤が母親が亡くなったとき、地道な孝行心に誠心を尽すたものが知られて調整に推挙されて下賜されたチョンリョビを保護するために建設した建物である。今は六世代にわたる8の親孝行の嫡子烈婦など10分の孝行を称えた方を迎えたチョンリョガクだが、初期に七分の孝子を祀ったチョンリョヨッキにチルヒョガクと呼ばれている。7つの円柱に切妻屋根、壁の正面はホンサル残りの三面は化防止壁の構造をもつビルで、朝鮮時代の倫理と価値観など社会上研究に貴重な資料として評価されている。",
+    "QA": [
+        {
+            "question": "この建物はいつ創立されましたか？",
+            "answer": "1405年に創立されました。"
+        },
+        {
+            "question": "なぜこの建物が建てられたのですか？",
+            "answer": "母親が亡くなったとき、孝行心に誠心を尽くした安藤が保護のために建設しました。"
+        },
+        {
+            "question": "この建物はどのような構造を持っていますか？",
+            "answer": "七つの円柱に切妻屋根、壁の正面はホンサル残りの三面は化防止壁の構造を持っています。"
+        },
+        {
+            "question": "この建物はどのような価値を持っていますか？",
+            "answer": "朝鮮時代の倫理と価値観など社会上研究に貴重な資料として評価されています。"
+        },
+        {
+            "question": "この建物には何世代に渡る親孝行の嫡子が祀られていますか？",
+            "answer": "六世代にわたる8の親孝行の嫡子が祀られています。"
+        }
+    ],
+    "word_Count": {
+        "text": 239,
+        "QA": 187
+    }
+}

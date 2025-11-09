@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_030712",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2016-11-25",
+        "domain": "문화/역사관광",
+        "title": "天安牙山駅（천안아산역）"
+    },
+    "text": "天安牙山駅\n忠清南道 天安市 排芳邑 希望路 100\n天安牙山駅は高速鉄道(KTX)の開通に合わせて誕生した駅です。行政区域上は天安市と牙山市にまたがっているため、2つの都市名を合わせた駅名となりました。",
+    "QA": [
+        {
+            "question": "天安牙山駅はどこにありますか？",
+            "answer": "天安牙山駅は忠清南道天安市に位置しています。"
+        },
+        {
+            "question": "天安牙山駅は何のために作られましたか？",
+            "answer": "天安牙山駅は高速鉄道(KTX)の開通に合わせて作られました。"
+        },
+        {
+            "question": "天安牙山駅の住所は何ですか？",
+            "answer": "天安牙山駅の住所は忠清南道天安市排芳邑希望路100です。"
+        },
+        {
+            "question": "天安牙山駅はどの都市にまたがっていますか？",
+            "answer": "天安牙山駅は天安市と牙山市にまたがっています。"
+        }
+    ],
+    "word_Count": {
+        "text": 74,
+        "QA": 126
+    }
+}

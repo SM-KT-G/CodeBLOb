@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_006928",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=636&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=04220000&ccbaCtcd=38&ccbaCpno=2113804220000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2005-01-13",
+        "domain": "문화/역사관광",
+        "title": "거창구연서원관수루"
+    },
+    "text": "居昌区蓮書院貫首楼 (거창구연서원관수루)\\n\n慶尚南道居昌郡渭川面銀河里キル100(黄山里)\\n\n1740年 , 慶尚南道有形文化財 , 観水楼は書院の門楼で、1740年に創建され、自然岩盤を活用し、歪んだ材木を下部柱として使用するなど自然と調和しており、その形も非常に美しい。 正面3間、側面2間規模の中層楼閣建物で、岩盤の間に造成された小基壇の上に自然石の礎石を置き、柱を立てる。柱はすべて円柱を使用し、柱の外側の四隅には適切に高さを調節した滑走を立てる。楼下部正面に出入りするための扉を設置し、残りの空間はすべて開放している。 上層の床には井戸を敷き、周辺に桂子欄干を巡らした。",
+    "QA": [
+        {
+            "question": "この建物はいつ建てられましたか？",
+            "answer": "1740年に創建されました。"
+        },
+        {
+            "question": "この建物はどのような構造ですか？",
+            "answer": "観水楼は書院の門楼で、自然岩盤を活用し、歪んだ材木を下部柱として使用するなど自然と調和しています。正面3間、側面2間規模の中層楼閣建物で、柱はすべて円柱を使用し、柱の外側の四隅には適切に高さを調節した滑走を立てます。"
+        },
+        {
+            "question": "この建物の美しさはどのような点にありますか？",
+            "answer": "観水楼は自然岩盤を活用し、形も非常に美しいです。また、岩盤の間に造成された小基壇の上に自然石の礎石を置き、柱を立てることで、自然と調和しています。"
+        },
+        {
+            "question": "この建物の周辺には何がありますか？",
+            "answer": "上層の床には井戸があり、周辺には桂子欄干が巡らされています。"
+        },
+        {
+            "question": "この建物は何のために使用されていましたか？",
+            "answer": "この建物は書院の門楼として使用されていました。"
+        }
+    ],
+    "word_Count": {
+        "text": 214,
+        "QA": 249
+    }
+}

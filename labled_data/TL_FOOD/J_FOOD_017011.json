@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_017011",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-01",
+        "domain": "음식점",
+        "title": "鶏あえず ( 토리아에즈 )"
+    },
+    "text": "鶏あえず \n京畿道 議政府市 新興路258ボンキル 17\nサラリーマンに人気の店です。代表的なメニューは串焼きです。京畿道のウィジョンブ市に位置した和食専門店です。",
+    "QA": [
+        {
+            "question": "鶏あえずはどこに位置していますか？",
+            "answer": "鶏あえずは京畿道議政府市の新興路258ボンキル17に位置しています。"
+        },
+        {
+            "question": "鶏あえずの代表的なメニューは何ですか？",
+            "answer": "鶏あえずの代表的なメニューは串焼きです。"
+        },
+        {
+            "question": "鶏あえずはどんな人に人気ですか？",
+            "answer": "鶏あえずはサラリーマンに人気の店です。"
+        },
+        {
+            "question": "鶏あえずは和食専門店ですか？",
+            "answer": "はい、鶏あえずは和食専門店です。"
+        }
+    ],
+    "word_Count": {
+        "text": 60,
+        "QA": 113
+    }
+}

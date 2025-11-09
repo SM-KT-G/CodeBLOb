@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_038442",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=740&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=22&ccbaAsno=00330000&ccbaCtcd=37&ccbaCpno=2223700330000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "자수장"
+    },
+    "text": "刺繍匠 (자수장)\\n\n慶尚北道無形文化財、キム·シインは母親をはじめとする母方の家系で5代目の伝統刺繍を受け継いでおり、伝統刺繍と縁を持つようになったのもこのような血がつながるためではないかと思う。 その後、1966年に伝統刺繍界の巨匠キム·ゲスン先生に会い、伝統刺繍の深さを知り、一生を刺繍と共にするきっかけになった。 1970年に結婚した後、「紅衛伝統刺繍研究室」を開院し、ここで主婦を相手に伝統刺繍を伝授させ、これまで多くの弟子を輩出した。 金詩人は木器類に刺繍を組み合わせて伝統刺繍文化の供給に先頭に立ち、従来の屏風、壁際額、衣装などに刺繍した刺繍の枠から果敢に抜け出した。 師匠のキム·ゲスン先生から一本一本刺繍の生命である針と糸に対する精髄を伝授され、特にキム·ゲスン先生だけの特殊技法である針線に刺繍を融合させる秘法を完璧に伝授され、十数年前からは刺繍技芸の中で最も難しいという鍵牌再現の最高専門家となった。",
+    "QA": [
+        {
+            "question": "キム・シインさんは何代目の伝統刺繍匠ですか？",
+            "answer": "キム・シインさんは5代目の伝統刺繍匠です。"
+        },
+        {
+            "question": "キム・シインさんはどのように伝統刺繍と関わるようになりましたか？",
+            "answer": "キム・シインさんは母方の家系で伝統刺繍を受け継ぎ、またキム・ゲスン先生との出会いがきっかけで伝統刺繍と関わるようになりました。"
+        },
+        {
+            "question": "キム・シインさんはいつ「紅衛伝統刺繍研究室」を開院しましたか？",
+            "answer": "キム・シインさんは1970年に「紅衛伝統刺繍研究室」を開院しました。"
+        },
+        {
+            "question": "キム・シインさんはどのようなものに刺繍を組み合わせていますか？",
+            "answer": "キム・シインさんは木器類に刺繍を組み合わせています。"
+        },
+        {
+            "question": "キム・シインさんはどのような特殊技法を持っていますか？",
+            "answer": "キム・シインさんは針線に刺繍を融合させる特殊技法を持っています。"
+        }
+    ],
+    "word_Count": {
+        "text": 302,
+        "QA": 233
+    }
+}

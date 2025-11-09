@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_005543",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'http://www.jbhotel.co.kr/",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "ジェイビー観光ホテル"
+    },
+    "text": "ジェイビー観光ホテル\\n\n大邱広域市東区栗岩路162\\n\n大邱革新都市にあるホテルで、栗岩ICのすぐ隣にあります。本館の客室と別館の韓屋客室を含め、全部で55室を運営しています。木と森、伝統韓屋の古風な庭園のある宿です。",
+    "QA": [
+        {
+            "question": "ジェイビー観光ホテルの場所はどこですか？",
+            "answer": "大邱広域市東区栗岩路162にあります。"
+        },
+        {
+            "question": "ジェイビー観光ホテルは何室ありますか？",
+            "answer": "全部で55室あります。"
+        },
+        {
+            "question": "ジェイビー観光ホテルはどのような宿ですか？",
+            "answer": "木と森、伝統韓屋の古風な庭園のある宿です。"
+        },
+        {
+            "question": "ジェイビー観光ホテルは栗岩ICの近くにありますか？",
+            "answer": "はい、栗岩ICのすぐ隣にあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 80,
+        "QA": 112
+    }
+}

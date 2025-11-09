@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_005919",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-01-06",
+        "domain": "숙박",
+        "title": "ソウルオリンピックパークテル（서울올림픽파크텔）"
+    },
+    "text": "ソウルオリンピックパークテル（서울올림픽파크텔）\nソウル特別市 松坡区 オリンピック路448\n「ソウルオリンピックパークテル（Seoul Olympic Parktel）」は、オリンピック公園内にあり、都心の中で自然を感じることができます。近くには夢村土城、ロッテワールドなどがあります。",
+    "QA": [
+        {
+            "question": "ソウルオリンピックパークテルはどこにありますか？",
+            "answer": "ソウル特別市 松坡区 オリンピック路448にあります。"
+        },
+        {
+            "question": "ソウルオリンピックパークテルの近くにはどのような観光名所がありますか？",
+            "answer": "夢村土城やロッテワールドなどが近くにあります。"
+        },
+        {
+            "question": "ソウルオリンピックパークテルでは自然を感じることができますか？",
+            "answer": "はい、オリンピック公園内にあるため、都心の中でも自然を感じることができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 105,
+        "QA": 130
+    }
+}

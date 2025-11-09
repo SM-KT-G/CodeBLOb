@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001902",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/montebianco",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "MonteBianco"
+    },
+    "text": "MonteBianco\\n\n京畿道 平沢市 浦升邑 平沢港湾キル 73\\n\n360度回転する回転式レストランで眺めがいいです。 おすすめはロブスターです。京畿道平沢市に位置する洋食専門店です。",
+    "QA": [
+        {
+            "question": "このレストランはどこに位置していますか？",
+            "answer": "このレストランは京畿道平沢市に位置しています。"
+        },
+        {
+            "question": "このレストランの特徴は何ですか？",
+            "answer": "このレストランは360度回転する回転式レストランで、眺めが良いことが特徴です。"
+        },
+        {
+            "question": "おすすめのメニューは何ですか？",
+            "answer": "おすすめのメニューはロブスターです。"
+        }
+    ],
+    "word_Count": {
+        "text": 70,
+        "QA": 96
+    }
+}

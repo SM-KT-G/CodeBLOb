@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_014861",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-05",
+        "domain": "음식점",
+        "title": "ユンガネキンパプ ( 윤가네김밥 )"
+    },
+    "text": "ユンガネキンパプ ( 윤가네김밥 )\\n\n江原道 原州市 ファングムロ2\\n\n朝食が食べられる店です。代表的なメニューはキンパプです。江原道のウォンジュ市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "ユンガネキンパプはどこにありますか？",
+            "answer": "ユンガネキンパプは江原道原州市ファングムロ2にあります。"
+        },
+        {
+            "question": "ユンガネキンパプで食べられる代表的なメニューは何ですか？",
+            "answer": "ユンガネキンパプで食べられる代表的なメニューはキンパプです。"
+        },
+        {
+            "question": "ユンガネキンパプは朝食が食べられる店ですか？",
+            "answer": "はい、ユンガネキンパプは朝食が食べられる店です。"
+        }
+    ],
+    "word_Count": {
+        "text": 66,
+        "QA": 110
+    }
+}

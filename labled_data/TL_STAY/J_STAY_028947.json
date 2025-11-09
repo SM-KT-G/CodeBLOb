@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_028947",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://ahnhanok.modoo.at/",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "韓屋ゲストハウス安(Ahn)"
+    },
+    "text": "韓屋ゲストハウス安(Ahn)\\n\n大邱広域市中区国債報償路149キル98\\n\n静かで綺麗な新築韓屋ゲストハウスであり、朝食も提供しています。防音も完璧で、オンドルボイラーが設置されており、冬でも暖かいです。",
+    "QA": [
+        {
+            "question": "このゲストハウスはどこにありますか？",
+            "answer": "韓屋ゲストハウス安は大邱広域市中区国債報償路149キル98にあります。"
+        },
+        {
+            "question": "このゲストハウスの特徴は何ですか？",
+            "answer": "このゲストハウスは静かで綺麗な新築の韓屋ゲストハウスであり、防音も完璧です。また、オンドルボイラーが設置されているため、冬でも暖かく過ごすことができます。"
+        },
+        {
+            "question": "朝食は提供されますか？",
+            "answer": "はい、朝食も提供されます。"
+        }
+    ],
+    "word_Count": {
+        "text": 75,
+        "QA": 125
+    }
+}

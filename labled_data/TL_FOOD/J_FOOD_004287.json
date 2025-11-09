@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_004287",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-08-27",
+        "domain": "음식점",
+        "title": "カフェオレンジ（까페오렌지）"
+    },
+    "text": "カフェオレンジ（까페오렌지）\\n\nソウル特別市 鐘路区 水標路 96\\n\nタプコル公園の近くに位置するお店です。代表的なメニューはコーヒーです。この店はソウル特別市のチョンノに位置したカフェ（コーヒーショップ）です。",
+    "QA": [
+        {
+            "question": "カフェオレンジはどこに位置していますか？",
+            "answer": "カフェオレンジはソウル特別市の鐘路区水標路96に位置しています。"
+        },
+        {
+            "question": "カフェオレンジの代表的なメニューは何ですか？",
+            "answer": "カフェオレンジの代表的なメニューはコーヒーです。"
+        },
+        {
+            "question": "カフェオレンジはタプコル公園の近くに位置していますか？",
+            "answer": "はい、カフェオレンジはタプコル公園の近くに位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 79,
+        "QA": 112
+    }
+}

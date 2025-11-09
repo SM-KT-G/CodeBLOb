@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_030676",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.goodchoice.kr/product/detail?ano=48962&adcno=1&sel_date=2023-11-07&sel_date2=2023-11-08",
+        "collectedDate": "2023-11-15",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "강릉 헤렌하우스호텔"
+    },
+    "text": "ヘレンハウスホテルは週末にバレットパーキングが可能な駐車場を保有しています。 すべての客室は海の眺めを備えており、東海の美しい風景を客室の中で鑑賞することができます。 ホテルにはCUコンビニがあり、2階には海松刺身屋「JENJU BAKERY LOUNGE」が入店しています。 また、6階にはORDER AREAがあり、7階にはスカイラウンジとルーフトップがあります。",
+    "QA": [
+        {
+            "question": "ヘレンハウスホテルはどのような駐車場を提供していますか？",
+            "answer": "ヘレンハウスホテルは週末にバレットパーキングが可能な駐車場を保有しています。"
+        },
+        {
+            "question": "客室からは何を眺めることができますか？",
+            "answer": "すべての客室は海の眺めを備えており、東海の美しい風景を客室の中で鑑賞することができます。"
+        },
+        {
+            "question": "ホテル内にはどのような店舗がありますか？",
+            "answer": "ホテルにはCUコンビニがあり、2階には海松刺身屋「JENJU BAKERY LOUNGE」が入店しています。"
+        },
+        {
+            "question": "ホテルのどのフロアにはどのようなスペースがありますか？",
+            "answer": "6階にはORDER AREAがあり、7階にはスカイラウンジとルーフトップがあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 134,
+        "QA": 199
+    }
+}

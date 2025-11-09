@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_089239",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=523&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=01950000&ccbaCtcd=38&ccbaCpno=2113801950000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1981-12-21",
+        "domain": "문화/역사관광",
+        "title": "양산 통도사 명부전"
+    },
+    "text": "梁山通度寺冥府殿\\n\n慶尚南道梁山市通度寺路108(下北面、通度寺)\\n\n慶尚南道有形文化財、通度寺は、陜川海印寺、スンジュの松広寺と共に韓国3大寺院の中の一つであり、境内は大きくサンロチョン、ジュンロチョン、下に前の3領域に分けられる。サンロチョンにある冥府殿は大雄殿の東南に位置する。高麗の恭愍王18年(1369)に建てられたと伝えられ、\"冥府殿重修記\"によると朝鮮時代の高宗24年(1887)に火に乗ったものを、高宗25年(1888)で、昊星大使が受理したと記録されている。前面5間・側面2間で屋根横顔が八(八部)字形の入母屋屋根となっている。屋根を支えようと装飾して作った恐怖は柱の上と柱の間にもあるダポギェ様式の建物だ。内部には地獄から衆生を救う菩薩であるジジャンボサルサンとその周囲にあの世の閻魔大王などシワン(十王)さんが祀られている。通度寺、冥府殿は朝鮮時代末(19世紀)の冥府殿建物の様式の一例として価値がある文化財である。",
+    "QA": [
+        {
+            "question": "通度寺はどこに位置していますか？",
+            "answer": "通度寺は慶尚南道梁山市通度寺路108に位置しています。"
+        },
+        {
+            "question": "通度寺の境内はどのように分けられていますか？",
+            "answer": "通度寺の境内は大きくサンロチョン、ジュンロチョン、下に前の3領域に分けられています。"
+        },
+        {
+            "question": "冥府殿はいつ建てられたと伝えられていますか？",
+            "answer": "冥府殿は高麗の恭愍王18年(1369)に建てられたと伝えられています。"
+        },
+        {
+            "question": "冥府殿はどのような構造をしていますか？",
+            "answer": "冥府殿は前面5間・側面2間で屋根横顔が八(八部)字形の入母屋屋根となっており、柱の上と柱の間にもあるダポギェ様式の建物です。"
+        },
+        {
+            "question": "冥府殿の内部には何が祀られていますか？",
+            "answer": "冥府殿の内部には地獄から衆生を救う菩薩であるジジャンボサルサンとその周囲にあの世の閻魔大王などシワン(十王)さんが祀られています。"
+        }
+    ],
+    "word_Count": {
+        "text": 308,
+        "QA": 241
+    }
+}

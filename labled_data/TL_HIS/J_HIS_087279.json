@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_087279",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=849&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=01140000&ccbaCtcd=34&ccbaCpno=2333401140000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1997-12-23",
+        "domain": "문화/역사관광",
+        "title": "아산향교"
+    },
+    "text": "8年(1575)に建てられた忠清南道牙山郷校は、孔子と多くの聖賢に祭祀をして地方民の教育と教化のために国で設立した教育機関です。峨山(アサン)郷校は、最初は分からない年度に設立され、朝鮮宣祖8年(1575)にアサンリ東ヒャンギョゴルから現在の位置に移転されました。その後、高宗(コジョン)1年(1864)には修理が行われて今まで残っている建物である大成殿、明倫堂、内三門、ウェサムムンなどが完成されました。大成殿は、祭祀を行う空間に、前面3間・側面2間の大きさの建物で、切妻屋根の形の屋根とつの翼型、様式の恐怖が特徴です。大成殿内部には孔子と中国、韓国の聖賢たちの位牌が祀られています。明倫堂は学生たちが集まって勉強する講堂に、前面3間・側面2間の大きさの建物で、切妻屋根の形の屋根を持っています。朝鮮時代には、国家で学生たちに土地と奴婢、本などの援助を受け、教育をしたが、現在は教育機能はなくなり、祭祀の役割だけが残っています。",
+    "QA": [
+        {
+            "question": "峨山郷校はいつ建てられましたか？",
+            "answer": "峨山(アサン)郷校は最初は分からない年度に設立され、朝鮮宣祖8年(1575)にアサンリ東ヒャンギョゴルから現在の位置に移転されました。"
+        },
+        {
+            "question": "峨山郷校にはどのような建物がありますか？",
+            "answer": "高宗(コジョン)1年(1864)に修理が行われ、大成殿、明倫堂、内三門、ウェサムムンなどの建物が完成されました。"
+        },
+        {
+            "question": "大成殿はどのような構造ですか？",
+            "answer": "大成殿は前面3間・側面2間の大きさの建物で、切妻屋根の形の屋根とつの翼型、様式の恐怖が特徴です。"
+        },
+        {
+            "question": "明倫堂はどのような役割を果たしていましたか？",
+            "answer": "明倫堂は学生たちが集まって勉強する講堂でした。"
+        },
+        {
+            "question": "峨山郷校の現在の主な役割は何ですか？",
+            "answer": "現在、峨山郷校は教育機能はなくなり、祭祀の役割だけが残っています。"
+        }
+    ],
+    "word_Count": {
+        "text": 304,
+        "QA": 233
+    }
+}

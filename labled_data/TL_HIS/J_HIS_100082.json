@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_100082",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/collectionList#######",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2023-10-11",
+        "domain": "문화/역사관광",
+        "title": "전라북도 지형도"
+    },
+    "text": "全羅北道の地形図 (전라북도 지형도)\\n\n国籍/時代:「韓国-日本による植民地支配」 材質:「紙」 分類:「伝統科学 - 地理 - 地図 - 道別地図」 大きさ:「全長 467cm、全長 595cm、縦 281cm、横 415cm」 修正案： この地図は、韓国と日本の植民地支配時代の情報を記したものです。材料は紙で作られており、分類は伝統科学の地理に属し、特に道別地図のカテゴリーに分類されます。地図の大きさは全長467cm、595cm、縦281cm、横415cmです。",
+    "QA": [
+        {
+            "question": "この地図の材質は何ですか？",
+            "answer": "紙"
+        },
+        {
+            "question": "この地図の分類は何に属していますか？",
+            "answer": "伝統科学 - 地理 - 地図 - 道別地図"
+        },
+        {
+            "question": "地図の大きさは何ですか？",
+            "answer": "全長 467cm、595cm、縦281cm、横415cm"
+        },
+        {
+            "question": "この地図が描かれた時代や国籍は何ですか？",
+            "answer": "韓国-日本による植民地支配時代"
+        },
+        {
+            "question": "この地図に描かれている地域はどこですか？",
+            "answer": "全羅北道"
+        }
+    ],
+    "word_Count": {
+        "text": 173,
+        "QA": 111
+    }
+}

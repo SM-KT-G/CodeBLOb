@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_016942",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=974&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=00220000&ccbaCtcd=25&ccbaCpno=3412500220000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1989-03-18",
+        "domain": "문화/역사관광",
+        "title": "문정공왕고간독"
+    },
+    "text": "文正公王考簡牘 (문정공왕고간독)\\n\n大田広域市儒城区図案大路398(上大洞、大田広域市儒城区図案大路398)\\n\n仁祖、孝宗年間 , 大田広域市文化財資料 , 清音キム·サンホン(1570~1652)とその甥の手紙を集めた本で、キム·サンホンの直筆7枚、キム·グァンチャンの直筆7枚、キム·グァンヒョクの直筆1枚など計15枚で構成されている。 この中にはキム·サンホンが72歳で瀋陽に捕虜として連れて行かれ獄中にいた時に書いた書簡もある。 本の表紙には先生の諡号である「文政」と「王鼓」が書かれており、その孫の代に長捷したことがわかる。",
+    "QA": [
+        {
+            "question": "この本は何についてですか？",
+            "answer": "この本は、文正公王考簡牘についてです。"
+        },
+        {
+            "question": "この本には何が含まれていますか？",
+            "answer": "この本には、キム・サンホンやその甥の手紙などが含まれています。"
+        },
+        {
+            "question": "この本の表紙に書かれている文字は何ですか？",
+            "answer": "この本の表紙には、先生の諡号である「文政」と「王鼓」が書かれています。"
+        },
+        {
+            "question": "キム・サンホンはどのような状況で書いた書簡が含まれていますか？",
+            "answer": "キム・サンホンが72歳で瀋陽に捕虜として連れて行かれ獄中にいた時に書いた書簡が含まれています。"
+        },
+        {
+            "question": "この本に含まれる直筆の手紙は何枚ですか？",
+            "answer": "この本には、キム・サンホンの直筆7枚、キム・グァンチャンの直筆7枚、キム・グァンヒョクの直筆1枚など計15枚の直筆の手紙が含まれています。"
+        }
+    ],
+    "word_Count": {
+        "text": 198,
+        "QA": 221
+    }
+}

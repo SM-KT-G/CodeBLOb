@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_060533",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2023-04-10",
+        "domain": "숙박",
+        "title": "프린스호텔[한국관광 품질인증/Korea Quality]"
+    },
+    "text": "全羅南道固城(キョンサンナムド・コソン)南海岸通りに位置したプリンスホテルは、全客室に無料ワイファイとIPTVが設置されている。簡便朝食、セルフの洗濯室、バーベキュー場、ゴルフ練習場サービスも提供する。駐車場が広くて自車利用に便利だ。",
+    "QA": [
+        {
+            "question": "プリンスホテルの場所はどこですか？",
+            "answer": "プリンスホテルは全羅南道固城南海岸通りに位置しています。"
+        },
+        {
+            "question": "プリンスホテルの客室にはどのような設備がありますか？",
+            "answer": "プリンスホテルの全客室には無料ワイファイとIPTVが設置されています。"
+        },
+        {
+            "question": "プリンスホテルではどのようなサービスが提供されていますか？",
+            "answer": "プリンスホテルでは簡便な朝食、セルフの洗濯室、バーベキュー場、ゴルフ練習場のサービスも提供されています。"
+        },
+        {
+            "question": "プリンスホテルの駐車場は広いですか？",
+            "answer": "はい、プリンスホテルの駐車場は広く、自車利用に便利です。"
+        }
+    ],
+    "word_Count": {
+        "text": 85,
+        "QA": 170
+    }
+}

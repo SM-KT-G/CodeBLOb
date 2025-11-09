@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_009354",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "ソンハクイイダコ会館 ( 송학낙지회관 )"
+    },
+    "text": "ソンハクイイダコ会館 ( 송학낙지회관 )\n全羅南道 モクポ市 ハダンロ30ボンギル9\n新鮮な海鮮料理が味わえる店です。全羅南道のモクポ市に位置した韓食専門店です。おすすめは生テナガダコです。",
+    "QA": [
+        {
+            "question": "この店の名前は何ですか？",
+            "answer": "ソンハクイイダコ会館（송학낙지회관）です。"
+        },
+        {
+            "question": "この店はどこにありますか？",
+            "answer": "この店は全羅南道のモクポ市にあります。"
+        },
+        {
+            "question": "この店のおすすめ料理は何ですか？",
+            "answer": "おすすめは生テナガダコです。"
+        }
+    ],
+    "word_Count": {
+        "text": 70,
+        "QA": 69
+    }
+}

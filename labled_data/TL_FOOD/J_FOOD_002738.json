@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_002738",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-03",
+        "domain": "음식점",
+        "title": "イェッ浦口刺身専門店 ( 옛포구회집 )"
+    },
+    "text": "イェッ浦口刺身専門店 ( 옛포구회집 )\\n\n江原道 ガンヌン市 オクギェ面 ホンファロ437\\n\n様々な活魚の刺身が味わえる店です。江原道のガンヌン市に位置した洋食専門店です。代表的なメニューは刺身の盛り合わせです。",
+    "QA": [
+        {
+            "question": "この店の名前は何ですか？",
+            "answer": "店の名前はイェッ浦口刺身専門店 ( 옛포구회집 )です。"
+        },
+        {
+            "question": "この店はどこにありますか？",
+            "answer": "この店は江原道のガンヌン市に位置しています。具体的な場所はオクギェ面ホンファロ437です。"
+        },
+        {
+            "question": "この店の特徴は何ですか？",
+            "answer": "この店の特徴は様々な活魚の刺身が味わえることです。"
+        },
+        {
+            "question": "この店の代表的なメニューは何ですか？",
+            "answer": "この店の代表的なメニューは刺身の盛り合わせです。"
+        }
+    ],
+    "word_Count": {
+        "text": 79,
+        "QA": 129
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_003783",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2019-11-26",
+        "domain": "숙박",
+        "title": "コリア観光ホテル水原（코리아 관광호텔 수원）"
+    },
+    "text": "コリア観光ホテル水原（코리아 관광호텔 수원）\\n\n京畿道道 水原市 八達区 勸光路 175番キル62\\n\n「コリア観光ホテル水原」は京畿道の行政、産業の中心都市である水原市の行政タウンに市庁とともに位置しています。周辺には大企業があり、ビジネスでの利用に便利です。",
+    "QA": [
+        {
+            "question": "コリア観光ホテル水原はどこの場所にありますか？",
+            "answer": "コリア観光ホテル水原は京畿道の水原市の行政タウンに位置しています。"
+        },
+        {
+            "question": "周辺にはどのような企業がありますか？",
+            "answer": "周辺には大企業があります。"
+        },
+        {
+            "question": "ビジネスでの利用に便利なホテルですか？",
+            "answer": "はい、ビジネスでの利用に便利なホテルです。"
+        }
+    ],
+    "word_Count": {
+        "text": 97,
+        "QA": 93
+    }
+}

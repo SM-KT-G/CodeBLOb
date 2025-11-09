@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_055430",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/teolbone-someoriijip",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "トルボネソモリジプ"
+    },
+    "text": "トルボネソモリジプ\\n\nソウル特別市 ヨンドゥンポ区 ドリムチョンロ11ギル25-2\\n\n10時間以上かけて牛の頭の骨からとったスープ料理です。ソウル特別市のヨンドゥンポ区に位置した韓食専門店です。おすすめは牛の頭部肉クッパです。",
+    "QA": [
+        {
+            "question": "このレストランの場所はどこですか？",
+            "answer": "ソウル特別市のヨンドゥンポ区のドリムチョンロ11ギル25-2にあります。"
+        },
+        {
+            "question": "この料理は何ですか？",
+            "answer": "この料理はトルボネソモリジプと呼ばれる、牛の頭の骨からとったスープ料理です。"
+        },
+        {
+            "question": "このレストランのおすすめ料理は何ですか？",
+            "answer": "おすすめは牛の頭部肉クッパです。"
+        }
+    ],
+    "word_Count": {
+        "text": 84,
+        "QA": 100
+    }
+}

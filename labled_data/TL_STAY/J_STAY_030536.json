@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_030536",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42090&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "제주인호텔"
+    },
+    "text": "済州人ホテルはイホテウビーチから車で2分の距離に位置する観光ホテルで、済州の青い海と漢拏山が眺められる涼しくて清潔な客室をご提供しています。 また、様々なセミナー、宴会、家族の集まりなどのためのセミナー会場も備えています。 また、空港やイホテウ海水浴場、漢拏樹木園、民俗オイル市場などにも近く位置し、観光やグルメ、見どころなどを気軽に楽しむことができます。",
+    "QA": [
+        {
+            "question": "済州人ホテルはどこに位置していますか？",
+            "answer": "済州人ホテルはイホテウビーチから車で2分の距離に位置しています。"
+        },
+        {
+            "question": "済州人ホテルの客室からは何が眺められますか？",
+            "answer": "済州人ホテルの客室からは済州の青い海と漢拏山が眺められます。"
+        },
+        {
+            "question": "済州人ホテルにはどのようなセミナー会場がありますか？",
+            "answer": "済州人ホテルには様々なセミナー、宴会、家族の集まりなどのためのセミナー会場が備えられています。"
+        },
+        {
+            "question": "済州人ホテルの近くにはどんな観光スポットがありますか？",
+            "answer": "済州人ホテルの近くには空港やイホテウ海水浴場、漢拏樹木園、民俗オイル市場などがあります。"
+        },
+        {
+            "question": "済州人ホテル周辺で楽しめるものはありますか？",
+            "answer": "済州人ホテル周辺では観光やグルメ、見どころなどを気軽に楽しむことができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 130,
+        "QA": 225
+    }
+}

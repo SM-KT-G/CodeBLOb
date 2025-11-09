@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_029829",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/bap-and-bap-central-squre-branch",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "バブエンバブ"
+    },
+    "text": "バブエンバブ\\n\n釜山廣域市 釜山鎭區 チュンアンデロ 666ボンギル 50, Central Squre 2階\\n\n家庭食、韓食が食べたいときは、いつでもお越しください。",
+    "QA": [
+        {
+            "question": "このレストランの場所はどこですか？",
+            "answer": "バブエンバブは釜山廣域市釜山鎭區チュンアンデロ666ボンギル50、Central Squre 2階にあります。"
+        },
+        {
+            "question": "このレストランではどのような料理が提供されていますか？",
+            "answer": "バブエンバブでは家庭食や韓国料理などが提供されています。"
+        },
+        {
+            "question": "このレストランはいつ営業していますか？",
+            "answer": "バブエンバブはいつでも営業しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 63,
+        "QA": 121
+    }
+}

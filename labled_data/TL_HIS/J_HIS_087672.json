@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_087672",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1140&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=04070000&ccbaCtcd=37&ccbaCpno=3413704070000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2001-11-01",
+        "domain": "문화/역사관광",
+        "title": "안동김씨종회소"
+    },
+    "text": "朝鮮純祖4年(1804年)、慶尚北道文化財資料、安東市木城洞の大院寺の裏側に位置するこの宗会所は、もともと三泰寺の一人である金善平公を祀るための祠堂で、1770年に子孫が建立しましたが、様々な事情で用途が変わり、門中の大所事を話し合うための宗会所として使用することになりました。この宗会所は建立後、金元行が宗会所の扁額を書き、金養根が塀を築き補修しましたその後、塀と建物が風雨によって毀損され、1804年に元より少し下の位置に建て直されました。この建物は正面3間、側面2間で、低い基壇の上に丸く整えられた礎石を置き、その上に丸い柱を建てました。平面構成は右側に2間の部屋があり、左側に4間の板の間になっています。板の間と部屋の間は壁がなく、すべてドアだけで構成されていますが、前の部屋は全体が1組の野門で構成されており、野門内に2組の開き戸を設置した独特な構成をしています",
+    "QA": [
+        {
+            "question": "この宗会所は何のために建立されましたか？",
+            "answer": "この宗会所はもともと三泰寺の一人である金善平公を祀るための祠堂として建立されました。"
+        },
+        {
+            "question": "宗会所の建立者は誰ですか？",
+            "answer": "宗会所は金善平公の子孫によって建立されました。"
+        },
+        {
+            "question": "宗会所が使用されるようになった経緯は何ですか？",
+            "answer": "宗会所は様々な事情で用途が変わり、門中の大所事を話し合うための宗会所として使用することになりました。"
+        },
+        {
+            "question": "宗会所の建立後、どのような修復や補修が行われましたか？",
+            "answer": "宗会所の扁額は金元行によって書かれ、金養根が塀を築き補修しました。"
+        },
+        {
+            "question": "宗会所の建物が風雨によって毀損された後、何年に建て直されましたか？",
+            "answer": "建物が風雨によって毀損され、1804年に元より少し下の位置に建て直されました。"
+        }
+    ],
+    "word_Count": {
+        "text": 283,
+        "QA": 222
+    }
+}

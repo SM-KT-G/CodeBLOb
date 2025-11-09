@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_002127",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "Thai GARDEN（타이가든）"
+    },
+    "text": "Thai GARDEN（타이가든）\\n\nソウル特別市 中区 明洞キル 14\\n\nソウル特別市のミョン洞に位置したアジア料理専門店です。タイのシェフが直接調理するお店です。代表的なメニューはパッタイです。",
+    "QA": [
+        {
+            "question": "タイガーデンはどこに位置していますか？",
+            "answer": "タイガーデンはソウル特別市中区明洞キル14に位置しています。"
+        },
+        {
+            "question": "タイガーデンはどのような料理を提供していますか？",
+            "answer": "タイガーデンはアジア料理専門店で、タイのシェフが直接調理しています。代表的なメニューはパッタイです。"
+        },
+        {
+            "question": "タイガーデンの特徴は何ですか？",
+            "answer": "タイガーデンの特徴は、タイのシェフが直接調理することで本格的なタイ料理を提供していることです。"
+        },
+        {
+            "question": "タイガーデンの営業時間は何時から何時までですか？",
+            "answer": "タイガーデンの営業時間は11時から22時までです。"
+        }
+    ],
+    "word_Count": {
+        "text": 74,
+        "QA": 171
+    }
+}

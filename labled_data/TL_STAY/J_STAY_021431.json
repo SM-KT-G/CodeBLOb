@@ -1,0 +1,55 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_021431",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42001&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "서울 큐브이화 게스트하우스"
+    },
+    "text": "梨大駅5番出口から2分の距離にあるソグムギル路地に位置するゲストハウスSEOUL CUBE Ewhasは梨花女子大の学生たちがよく利用するファッション、グルメ、交通の中心地としてソウルを旅行する人々に最適な出発地となります。 このゲストハウスは新築リモデリングされた建物で、キューブ型個室、2人部屋、4人部屋、ファミリールームなど多様な宿泊オプションを提供しています。 ただし、このゲストハウスは外国人宿泊客のための専用宿泊施設です。 共同で使用する空間であるだけに、利用規則を遵守しなければなりません。 公式的なエチケットのルールに基づき、夜11時30分から翌朝7時まではチェックインと入室はお断りしております。 ペットは持ち込み禁止で、個人用品の保管はご本人様の責任となります。 また、客室内での調理、飲食、喫煙は禁止されており、指定された場所をご利用ください。 未成年者の宿泊及び男女同室での宿泊は一切不可能であり、施設の毀損や紛失に対する責任は宿泊客本人にあります。 最後に、靴は下駄箱に保管してください。 もちろん、紛失時には補償できませんのでご注意ください。",
+    "QA": [
+        {
+            "question": "SEOUL CUBE Ewhasはどこに位置していますか？",
+            "answer": "SEOUL CUBE Ewhasは梨大駅5番出口から2分の距離に位置しています。"
+        },
+        {
+            "question": "SEOUL CUBE Ewhasはどのような宿泊オプションを提供していますか？",
+            "answer": "SEOUL CUBE Ewhasはキューブ型個室、2人部屋、4人部屋、ファミリールームなど多様な宿泊オプションを提供しています。"
+        },
+        {
+            "question": "SEOUL CUBE Ewhasは誰が利用するのに最適なゲストハウスですか？",
+            "answer": "SEOUL CUBE Ewhasは梨花女子大の学生たちがよく利用するファッション、グルメ、交通の中心地としてソウルを旅行する人々に最適な出発地となります。"
+        },
+        {
+            "question": "SEOUL CUBE Ewhasでは何時から何時までチェックインと入室ができますか？",
+            "answer": "SEOUL CUBE Ewhasでは夜11時30分から翌朝7時まではチェックインと入室はお断りしております。"
+        },
+        {
+            "question": "SEOUL CUBE Ewhasではペットを持ち込むことはできますか？",
+            "answer": "SEOUL CUBE Ewhasではペットの持ち込みは禁止されています。"
+        },
+        {
+            "question": "SEOUL CUBE Ewhasでは客室内での調理や飲食はできますか？",
+            "answer": "SEOUL CUBE Ewhasでは客室内での調理、飲食は禁止されています。指定された場所をご利用ください。"
+        },
+        {
+            "question": "SEOUL CUBE Ewhasでは未成年者や男女同室での宿泊はできますか？",
+            "answer": "SEOUL CUBE Ewhasでは未成年者の宿泊及び男女同室での宿泊は一切不可能です。"
+        },
+        {
+            "question": "SEOUL CUBE Ewhasでは靴の保管方法はありますか？",
+            "answer": "SEOUL CUBE Ewhasでは靴は下駄箱に保管してください。紛失時には補償できませんのでご注意ください。"
+        }
+    ],
+    "word_Count": {
+        "text": 355,
+        "QA": 521
+    }
+}

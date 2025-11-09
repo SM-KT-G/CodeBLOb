@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_010555",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=125&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=10770100&ccbaCtcd=11&ccbaCpno=1121110770100&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1991-07-12",
+        "domain": "문화/역사관광",
+        "title": "근사록 권1~3, 9~14"
+    },
+    "text": "近思録 巻1~3、9~14 (근사록 권1~3, 9~14)\\n\nソウル龍山区青坡路47キル100、淑明女子大博物館(青坡洞2街)\\n\n宝物 , 『近思録』は宋の周熙と呂祖謙が一緒に書いた本で、性理学に優れた人物の文を研究する概説的な本で、理論が整然としている。 儒学者の間では定評のある力作として知られている。 恭愍王19年(1370年)に李魯淑が普段手に入れようとしたものを朴相忠を通じて本1冊を入手すると、晋陽から刊行することになったのだ。 この本は木版に刻んで刊行したもので、本末には隷書体で刊行者の名前と刊行されたところが書かれており、「弘武3年」(恭愍王19年、1370年)という刊行年度が書かれている。 刊行年度を表示した「洪武」の年号から「武」の字が抜けているのは高麗本でよく発見される特徴だ。",
+    "QA": [
+        {
+            "question": "『近思録』は誰が書いた本ですか？",
+            "answer": "『近思録』は宋の周熙と呂祖謙が一緒に書いた本です。"
+        },
+        {
+            "question": "『近思録』は何のための本ですか？",
+            "answer": "『近思録』は性理学に優れた人物の文を研究する概説的な本です。"
+        },
+        {
+            "question": "『近思録』は何年に刊行されましたか？",
+            "answer": "『近思録』は恭愍王19年(1370年)に刊行されました。"
+        },
+        {
+            "question": "『近思録』はどのような形で刊行されましたか？",
+            "answer": "『近思録』は木版に刻んで刊行されたもので、本末には隷書体で刊行者の名前と刊行されたところが書かれています。"
+        },
+        {
+            "question": "『近思録』の刊行年度にはどのような特徴がありますか？",
+            "answer": "『近思録』の刊行年度には「洪武」の年号から「武」の字が抜けているという特徴があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 260,
+        "QA": 203
+    }
+}

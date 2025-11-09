@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_004360",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101933",
+        "collectedDate": "2023-10-06",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "동촌역"
+    },
+    "text": "トンチョンヨク \\n\n東村(トンチョン遊園地)駅(Dongchon station、東村駅)は大邱広域市東区海東路にある大邱都市鉄道1号線の電車駅だ。 琴湖江河底トンネルで、阿陽橋駅とつながっている。 副駅名は東村遊園地であり、近くに東村遊園地がある。",
+    "QA": [
+        {
+            "question": "トンチョンヨク駅はどこにありますか？",
+            "answer": "トンチョンヨク駅は大邱広域市東区海東路にあります。"
+        },
+        {
+            "question": "トンチョンヨク駅の副駅名は何ですか？",
+            "answer": "トンチョンヨク駅の副駅名は東村遊園地です。"
+        },
+        {
+            "question": "トンチョンヨク駅はどの鉄道路線に所属していますか？",
+            "answer": "トンチョンヨク駅は大邱都市鉄道1号線に所属しています。"
+        },
+        {
+            "question": "トンチョンヨク駅と阿陽橋駅はどのようにつながっていますか？",
+            "answer": "トンチョンヨク駅と阿陽橋駅は琴湖江河底トンネルでつながっています。"
+        },
+        {
+            "question": "トンチョンヨク駅の近くに何がありますか？",
+            "answer": "トンチョンヨク駅の近くには東村遊園地があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 92,
+        "QA": 176
+    }
+}

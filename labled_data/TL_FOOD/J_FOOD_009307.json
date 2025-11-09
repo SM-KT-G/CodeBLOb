@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_009307",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "ソンオクオリ ( 송옥오리 )"
+    },
+    "text": "ソンオクオリ ( 송옥오리 )\\n\n江原道 ガンヌン市 ジュムンジン邑 シンリチョンロ113-14\\n\n特製ダレで作った鴨の味付け肉が味わえる店です。おすすめはコウタケ入り鶏肉の水炊きです。江原道のガンヌン市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "この店は江原道のガンヌン市に位置しています。具体的な住所はジュムンジン邑のシンリチョンロ113-14です。"
+        },
+        {
+            "question": "この店のおすすめメニューは何ですか？",
+            "answer": "この店のおすすめは特製ダレで作った鴨の味付け肉です。また、コウタケ入り鶏肉の水炊きもおすすめです。"
+        },
+        {
+            "question": "この店は何を専門としていますか？",
+            "answer": "この店は韓食を専門としています。"
+        }
+    ],
+    "word_Count": {
+        "text": 85,
+        "QA": 121
+    }
+}

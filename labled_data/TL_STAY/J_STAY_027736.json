@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_027736",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/goods/GN0002142601?startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0%5E&npprmaxsort=min",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "울진 후포 백암장"
+    },
+    "text": "清潔さと最高のサービスを提供します。 周辺の観光地としては厚浦海水浴場と厚浦港、マリーナ港、厚浦会センター、百年客様ロケ地、そして登記山があります。 厚浦海水浴場は700m離れていて、厚浦港とマリーナ港は900m離れています。 厚浦会センターは900m離れており、百年来のお客様の撮影地は1.6km離れています。 トウキサンキューンは2キロの距離に位置しています。",
+    "QA": [
+        {
+            "question": "厚浦海水浴場はどれくらいの距離ですか？",
+            "answer": "厚浦海水浴場は700m離れています。"
+        },
+        {
+            "question": "厚浦港とマリーナ港はどれくらいの距離ですか？",
+            "answer": "厚浦港とマリーナ港は900m離れています。"
+        },
+        {
+            "question": "厚浦会センターはどれくらいの距離ですか？",
+            "answer": "厚浦会センターは900m離れています。"
+        },
+        {
+            "question": "百年客様ロケ地はどれくらいの距離ですか？",
+            "answer": "百年客様ロケ地は1.6km離れています。"
+        },
+        {
+            "question": "トウキサンキューンはどれくらいの距離ですか？",
+            "answer": "トウキサンキューンは2キロの距離に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 133,
+        "QA": 151
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_005421",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-05",
+        "domain": "음식점",
+        "title": "クンギワジプ ( 큰기와집 )"
+    },
+    "text": "クンギワジプ ( 큰기와집 )\\n\n江原道 ガンヌン市 ガンドン面 ジョンドンドゥンミョンギル3\\n\nアワビと海鮮入りすいとんと海鮮とねぎのチヂミが美味しい店です。おすすめはスンドゥブの寄せ鍋です。江原道のガンヌン市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "このお店の場所はどこですか？",
+            "answer": "このお店は江原道のガンヌン市に位置しています。"
+        },
+        {
+            "question": "どのような料理がおすすめですか？",
+            "answer": "おすすめはスンドゥブの寄せ鍋です。また、アワビと海鮮入りすいとんと海鮮とねぎのチヂミも美味しいです。"
+        },
+        {
+            "question": "このお店の特徴は何ですか？",
+            "answer": "このお店は韓食専門店で、アワビや海鮮を使った料理が人気です。"
+        }
+    ],
+    "word_Count": {
+        "text": 88,
+        "QA": 107
+    }
+}

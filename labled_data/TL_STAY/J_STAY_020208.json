@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_020208",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42020&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "통영 샤르망"
+    },
+    "text": "当客室は人数追加時に追加料金が発生し、繁忙期及び特定日、祝日には料金が変動する場合があります。 払い戻し及びキャンセルはお客様のお申し込みにより処理され、入室の際には身分証明書の確認が必要であり、未成年者の入室は制限されます。",
+    "QA": [
+        {
+            "question": "客室の人数追加時には追加料金が発生しますか？",
+            "answer": "はい、客室の人数を追加する場合には追加料金が発生します。"
+        },
+        {
+            "question": "繁忙期や特定日、祝日には宿泊料金が変動するのですか？",
+            "answer": "はい、繁忙期や特定日、祝日には宿泊料金が変動する場合があります。"
+        },
+        {
+            "question": "払い戻しやキャンセルはどのように処理されますか？",
+            "answer": "払い戻しやキャンセルはお客様のお申し込みにより処理されます。"
+        },
+        {
+            "question": "入室時に身分証明書の確認が必要ですか？",
+            "answer": "はい、入室時に身分証明書の確認が必要です。"
+        },
+        {
+            "question": "未成年者の入室は制限されますか？",
+            "answer": "はい、未成年者の入室は制限されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 82,
+        "QA": 174
+    }
+}

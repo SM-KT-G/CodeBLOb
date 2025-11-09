@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_023325",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=139&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=12270000&ccbaCtcd=23&ccbaCpno=1122312270000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1995-07-19",
+        "domain": "문화/역사관광",
+        "title": "식물본초"
+    },
+    "text": "植物本草 (식물본초)\\n\n仁川延寿区清涼路102番キル40-9、嘉泉博物館(玉蓮洞、嘉泉博物館)\\n\n朝鮮中宗-明宗年間 , 宝物 , 食べ物で病気を予防する内容を盛り込んだ専門医学書籍で、中宗21年(1526)に中国明の遼文清などの序文を付けて刊行したものを中宗~明宗年間(1526~1556)に再び甲振子として刊行したものだ。 この本は水·穀·採·果·金·獣·魚·味など8類に分けて上巻と下巻に収録した。 商圏には水·穀·菜·果など4類212条が、下巻には金·水·魚·米など4類175条が収録された。 各類では箇条目ごとに該当植物の味、本性、利益、解毒などを書いて説明し、末尾には各類の植物に対する総論を書いている。 この本は図書目録にまだ見られなかったもので珍しい医学書籍であり、したがって書誌学研究の貴重な資料と評価される。",
+    "QA": [
+        {
+            "question": "本草書とは何ですか？",
+            "answer": "本草書は、食べ物で病気を予防する内容を盛り込んだ専門医学書籍です。朝鮮中宗-明宗年間に刊行され、植物の味、本性、利益、解毒などを説明しています。"
+        },
+        {
+            "question": "本草書は何で分けられていますか？",
+            "answer": "本草書は水、穀、採、果、金、獣、魚、味などの8類に分けられており、上巻と下巻に収録されています。"
+        },
+        {
+            "question": "本草書には何が収録されていますか？",
+            "answer": "上巻には水、穀、菜、果などの4類212条が収録されており、下巻には金、水、魚、米などの4類175条が収録されています。"
+        },
+        {
+            "question": "本草書はどういった貴重な資料と評価されていますか？",
+            "answer": "本草書は図書目録にまだ見られなかった医学書籍であり、書誌学研究の貴重な資料と評価されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 269,
+        "QA": 215
+    }
+}

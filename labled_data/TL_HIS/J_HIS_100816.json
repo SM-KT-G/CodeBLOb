@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_100816",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ja",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2023-03-21",
+        "domain": "문화/역사관광",
+        "title": "정왕체육공원"
+    },
+    "text": "京畿道始興市正往洞(シフンシ・ジョンワンドン)に位置した\"正往体育公園\"はスポーツ施設団地である。陸上競技場、野球場、バトミントン場、テニス場など多様な体育活動を楽しむことができ、公園に入る入り口部分の外郭3校にいた緑地空間を季節をテーマにした花と造形物で作って置いた。...",
+    "QA": [
+        {
+            "question": "正往体育公園はどこに位置していますか？",
+            "answer": "正往体育公園は京畿道始興市正往洞に位置しています。"
+        },
+        {
+            "question": "公園内には何種類のスポーツ施設がありますか？",
+            "answer": "公園内には陸上競技場、野球場、バトミントン場、テニス場など、多様なスポーツ施設があります。"
+        },
+        {
+            "question": "公園の入口部分には何がありますか？",
+            "answer": "公園の入口部分には季節をテーマにした花と造形物がある緑地空間があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 101,
+        "QA": 120
+    }
+}

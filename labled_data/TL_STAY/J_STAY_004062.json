@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_004062",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42060&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "서산 필"
+    },
+    "text": "こんにちは、瑞山フィルです。 常に清潔で清潔な客室をご用意できるよう努力いたします。 多くのご利用とご愛顧をお願いいたします。 コスパ最高の施設メーカー！！ 出張のお客様歓迎します^^ フロントでヤノルジャ会員であることを必ずおっしゃってください。 会員特典は提携店の内部によって適用されます。 電気自動車充電可能店。 Thank you!.",
+    "QA": [
+        {
+            "question": "ホテルの客室はいつも清潔ですか？",
+            "answer": "はい、ホテルでは常に清潔で清潔な客室をご用意しています。"
+        },
+        {
+            "question": "ホテルの特典を利用するにはどうすればいいですか？",
+            "answer": "ホテルのフロントでヤノルジャ会員であることをお伝えください。会員特典は提携店の内部によって適用されます。"
+        },
+        {
+            "question": "ホテルは出張のお客様を歓迎していますか？",
+            "answer": "はい、ホテルでは出張のお客様を歓迎しています。"
+        },
+        {
+            "question": "ホテルは電気自動車の充電場所を提供していますか？",
+            "answer": "はい、ホテルは電気自動車の充電可能な店舗です。"
+        }
+    ],
+    "word_Count": {
+        "text": 125,
+        "QA": 154
+    }
+}

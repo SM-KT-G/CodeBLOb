@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_008329",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1196&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=79&ccbaAsno=00660000&ccbaCtcd=36&ccbaCpno=4413600660000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2004-02-06",
+        "domain": "문화/역사관광",
+        "title": "고흥 구 소록도갱생원 검시실"
+    },
+    "text": "高興旧小鹿島更生院検視室 (고흥 구 소록도갱생원 검시실)\\n\n全羅南道高興郡小鹿海岸キル65(道陽邑、国立小鹿島病院)\\n\n1934 , 国家登録文化財 , 1934年建設、この建物は日帝強占期に日本人がハンセン病患者を対象に精管手術と死体解剖をしたところで、小鹿島の人権蹂躙の痛い歴史を保管している。 死亡者は家族の意思とは関係なく、まず検視手続きを終えた後に葬儀を行うことができ、遺体は亀北里の裏側の海辺にある火葬場で火葬された。 建物内部に剣時代、そして洗浄施設がそのまま保存されており、当時の凄惨な状況が推察できる。",
+    "QA": [
+        {
+            "question": "この建物は何のために使われていましたか？",
+            "answer": "この建物は日帝強占期に日本人がハンセン病患者を対象に精管手術と死体解剖を行うために使用されました。"
+        },
+        {
+            "question": "どのような歴史的な意義がありますか？",
+            "answer": "この建物は小鹿島の人権蹂躙の痛い歴史を保管しており、ハンセン病患者の死亡者たちは家族の意思とは関係なく、検視手続きを終えた後に葬儀が行われました。"
+        },
+        {
+            "question": "遺体はどこで火葬されましたか？",
+            "answer": "遺体は亀北里の裏側の海辺にある火葬場で火葬されました。"
+        },
+        {
+            "question": "建物内部にはどのようなものが保存されていますか？",
+            "answer": "建物内部には剣時代と洗浄施設がそのまま保存されており、当時の凄惨な状況が推察できます。"
+        }
+    ],
+    "word_Count": {
+        "text": 193,
+        "QA": 197
+    }
+}

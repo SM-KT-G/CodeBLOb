@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001563",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-13",
+        "domain": "음식점",
+        "title": "Café\"s Lattette 原州革新都市( 카페라떼떼 원주혁신도시 )"
+    },
+    "text": "Café\"s Lattette 原州革新都市\\n\n江原道 原州市 ミレロ25\\n\nお店で焼いた手作りベーグルの店です。おすすめはサンドイッチです。江原道のウォンジュ市に位置したカフェ（コーヒーショップ）です。",
+    "QA": [
+        {
+            "question": "カフェの名前は何ですか？",
+            "answer": "カフェの名前はCafé's Lattetteです。"
+        },
+        {
+            "question": "カフェの場所はどこですか？",
+            "answer": "カフェは江原道の原州市ミレロ25に位置しています。"
+        },
+        {
+            "question": "カフェで提供されているメニューは何ですか？",
+            "answer": "カフェでは手作りベーグルがおすすめです。また、サンドイッチも人気です。"
+        },
+        {
+            "question": "カフェの特徴は何ですか？",
+            "answer": "カフェはお店で焼いた手作りベーグルを提供しています。"
+        },
+        {
+            "question": "カフェの周辺には何がありますか？",
+            "answer": "カフェの周辺には原州市のウォンジュ市があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 76,
+        "QA": 153
+    }
+}

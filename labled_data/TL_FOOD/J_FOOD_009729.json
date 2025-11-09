@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_009729",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "チェジュガムジャタン（제주감자탕）"
+    },
+    "text": "チェジュガムジャタン（제주감자탕）\\n\n済州特別自治道 済州市 三無路 59\\n\n済州特別自治道のジェジュ市に位置した韓食です。代表的なメニューは豚の背骨入りカムジャタンです。カムジャタンは豚肉とジャガイモで作ったピリ辛スープ料理です。",
+    "QA": [
+        {
+            "question": "チェジュガムジャタンの特徴は何ですか？",
+            "answer": "チェジュガムジャタンは豚の背骨とジャガイモを使ったピリ辛スープ料理です。"
+        },
+        {
+            "question": "チェジュガムジャタンはどこで食べることができますか？",
+            "answer": "チェジュガムジャタンは済州特別自治道の済州市に位置している韓食レストランで食べることができます。"
+        },
+        {
+            "question": "済州特別自治道のジェジュ市はどこに位置していますか？",
+            "answer": "済州特別自治道のジェジュ市は済州市の三無路59番地に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 86,
+        "QA": 138
+    }
+}

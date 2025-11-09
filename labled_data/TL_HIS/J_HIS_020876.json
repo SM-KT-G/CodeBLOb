@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_020876",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1195&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=79&ccbaAsno=00460000&ccbaCtcd=32&ccbaCpno=4413200460000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2003-01-28",
+        "domain": "문화/역사관광",
+        "title": "삼척 도계역 급수탑"
+    },
+    "text": "三陟道渓駅給水塔 (삼척 도계역 급수탑)\\n\n江原道三陟市道渓邑全斗南2ギル58(全斗里)\\n\n1940 , 国家登録文化財 , 1940年に設置された江原道に唯一残っている給水塔で、当時の典型的な給水塔の形式を示している。高さが8メートルで他の給水塔に比べてかなり低いのは、線路面より4メートル高いところに設置して地形を考慮して適正水圧を得られるようにその高さを調節したものと見られる。 ドーム状の屋根には四方に半円形のドマー窓が設置されている。",
+    "QA": [
+        {
+            "question": "この給水塔はいつ設置されましたか？",
+            "answer": "1940年に設置されました。"
+        },
+        {
+            "question": "給水塔の高さはどれくらいですか？",
+            "answer": "給水塔の高さは8メートルです。"
+        },
+        {
+            "question": "なぜこの給水塔は他の給水塔に比べて低いですか？",
+            "answer": "この給水塔は線路面より4メートル高いところに設置され、地形を考慮して適正水圧を得られるように高さを調節しています。"
+        },
+        {
+            "question": "給水塔の屋根にはどんな窓が設置されていますか？",
+            "answer": "給水塔の屋根には四方に半円形のドマー窓が設置されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 165,
+        "QA": 142
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_095106",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1256&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=79&ccbaAsno=07320000&ccbaCtcd=34&ccbaCpno=4413407320000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2018-10-01",
+        "domain": "문화/역사관광",
+        "title": "윤봉춘 일기"
+    },
+    "text": "ユン·ボンチュン日記\\n\n忠清南道天安市東南区ジャンロ1(木川邑、ジャンロ·ジャン)\\n\n1935~1937年、国の登録文化財、俳優であり映画監督のユンボンチュン(尹逢春、1902∼1975)が1935年から1937年までに記録した日記である。ユンボンチュンは、咸鏡北道会寧出身で抗日運動に加担したが、二度の獄中生活を行い、出獄後には民族的性向が強い映画を製作することで、抗日民族意識の高揚に貢献した。この日記には植民地時代映画界や映画人たちに関する話、映画製作機構と、当時製造体系、製作費、興行実績、賃金などが詳しく記されており、独自的で主体性をアピールする映画人の意志と事故の形成過程まで察することができる貴重な芸術分野の記録物として評価されている。政府では、故人の功績を称えて1993年に建国勲章愛国章を追敍した。",
+    "QA": [
+        {
+            "question": "ユン·ボンチュンは何年から何年まで日記を記録しましたか？",
+            "answer": "ユン·ボンチュンは1935年から1937年まで日記を記録しました。"
+        },
+        {
+            "question": "ユン·ボンチュンの日記には何が詳しく記されていますか？",
+            "answer": "ユン·ボンチュンの日記には植民地時代映画界や映画製作機構、製造体系、製作費、興行実績、賃金などが詳しく記されています。"
+        },
+        {
+            "question": "ユン·ボンチュンはどのような映画人でしたか？",
+            "answer": "ユン·ボンチュンは俳優であり映画監督であり、抗日民族意識の高揚に貢献した映画人でした。"
+        }
+    ],
+    "word_Count": {
+        "text": 264,
+        "QA": 155
+    }
+}

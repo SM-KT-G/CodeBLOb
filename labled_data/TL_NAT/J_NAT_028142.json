@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_028142",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1022&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=00780000&ccbaCtcd=38&ccbaCpno=3413800780000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1983-07-20",
+        "domain": "자연관광",
+        "title": "거창 일원정"
+    },
+    "text": "1905年祖先の墓の金氏キムスクジャの子孫たちが儒林学者らと共に設立した一員は、慶尚南道文化財資料として有名だ。この東屋は個人の人格修養と人材養成のための役割を遂行した。一員は、前面4間、側面2間の規模を持ち、前面には縁側が面している。屋根は側面から見ると、入母屋屋根の八の字模様にデザインされた。この東屋では鄭夢周(チョン・モンジュ)、ギルジェ、キムスクジャ、金宗直(キム・ジョンジク)、キムグェンピル、丁汝昌、趙光祖など7県の性理学の根幹を祭って祭祀を務めている。",
+    "QA": [
+        {
+            "question": "この東屋の設立者は誰ですか？",
+            "answer": "金氏キムスクジャの子孫たちが儒林学者らと共に設立しました。"
+        },
+        {
+            "question": "この東屋の役割は何ですか？",
+            "answer": "個人の人格修養と人材養成のための役割を遂行しました。"
+        },
+        {
+            "question": "東屋の屋根のデザインはどのようになっていますか？",
+            "answer": "側面から見ると、入母屋屋根の八の字模様にデザインされています。"
+        },
+        {
+            "question": "この東屋で祭祀を務めている学者の名前は何ですか？",
+            "answer": "鄭夢周(チョン・モンジュ)、ギルジェ、キムスクジャ、金宗直(キム・ジョンジク)、キムグェンピル、丁汝昌、趙光祖など7県の性理学の根幹を祭って祭祀を務めています。"
+        }
+    ],
+    "word_Count": {
+        "text": 171,
+        "QA": 176
+    }
+}

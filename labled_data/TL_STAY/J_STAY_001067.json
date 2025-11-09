@@ -1,0 +1,59 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_001067",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42040&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "여수 쉼게스트하우스펜션"
+    },
+    "text": "2018年7月リニューアルオープンしたこのホテルは、全客室から海が眺められるようになっています。 また、ホテル式寝具が完備されており、快適な宿泊を楽しむことができます。 入室は15:00、退室は11:00です。 送迎サービスは提供しておらず、バーベキューの利用もできません。 幼児の場合、追加料金が発生し、人数の追加はできません。 無料Wi-Fiも提供されており、ペットは入室できません。 駐車場がありますが、現場の状況によってはご利用いただけない場合がございますので、ご注意ください。",
+    "QA": [
+        {
+            "question": "このホテルは何時に入室できますか？",
+            "answer": "入室は15:00です。"
+        },
+        {
+            "question": "このホテルは何時に退室しなければなりませんか？",
+            "answer": "退室は11:00です。"
+        },
+        {
+            "question": "このホテルから海は見えますか？",
+            "answer": "はい、全客室から海が眺められます。"
+        },
+        {
+            "question": "このホテルにはホテル式寝具がありますか？",
+            "answer": "はい、ホテル式寝具が完備されています。"
+        },
+        {
+            "question": "このホテルではバーベキューができますか？",
+            "answer": "いいえ、バーベキューの利用はできません。"
+        },
+        {
+            "question": "幼児の場合、追加料金はありますか？",
+            "answer": "はい、幼児の場合は追加料金が発生します。"
+        },
+        {
+            "question": "このホテルではペットは入室できますか？",
+            "answer": "いいえ、ペットは入室できません。"
+        },
+        {
+            "question": "無料Wi-Fiは提供されていますか？",
+            "answer": "はい、無料Wi-Fiが提供されています。"
+        },
+        {
+            "question": "駐車場はありますか？",
+            "answer": "はい、駐車場がありますが、現場の状況によってはご利用いただけない場合がございますので、ご注意ください。"
+        }
+    ],
+    "word_Count": {
+        "text": 178,
+        "QA": 252
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001758",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-08-27",
+        "domain": "음식점",
+        "title": "ITALASIAN ( 이딸라시안 )"
+    },
+    "text": "ITALASIAN ( 이딸라시안 )\\n\nソウル特別市 鐘路区 セムンアンロ91\\n\nボリュームたっぷりのコスパのいい店です。おすすめはスパゲッティです。ソウル特別市のジョンノ区に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "このレストランはどこにありますか？",
+            "answer": "ITALASIAN（イタラシアン）は、ソウル特別市鐘路区セムンアンロ91に位置しています。"
+        },
+        {
+            "question": "このレストランのおすすめは何ですか？",
+            "answer": "ITALASIANでは、ボリュームたっぷりでコスパのいいスパゲッティがおすすめです。"
+        },
+        {
+            "question": "ITALASIANはどのエリアにありますか？",
+            "answer": "ITALASIANはソウル特別市のジョンノ区に位置しています。"
+        },
+        {
+            "question": "何種類の料理が提供されていますか？",
+            "answer": "ITALASIANは韓食専門店ですので、韓国料理が提供されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 75,
+        "QA": 165
+    }
+}

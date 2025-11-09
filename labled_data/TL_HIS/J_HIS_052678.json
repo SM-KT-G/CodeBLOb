@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_052678",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=592&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=03160000&ccbaCtcd=37&ccbaCpno=2113703160000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2000-04-10",
+        "domain": "문화/역사관광",
+        "title": "광산김씨긍구당고택"
+    },
+    "text": "光山金氏肯定堂古宅\\n\n慶尚北道安東市臥龍面伽倻キル377-5(伽倻里)\\n\n朝鮮時代(16世紀)、慶尚北道有形文化財、もともと永川李氏参奉公派宗宅だったが、光山金氏退村派の金彦基(1520~1588)先生が再婚し、妻の実家であるこの家に住むことになったという。 後に光山金氏の子孫が受け継いで今に至っている。 建てた時期は不明で、家の名前はキム·オンギ先生の子孫キム·セファン(1640~1703)公の号を取って付けたものだ。 生活の中心空間である正針はサランマダンの北側に位置し、サランマダンの西側に牛舎、正針の西側に精米所、東側の高い場所に祠堂を配置している。 正針はロ字型でサランチェ·母屋·床部屋·台所で構成されており、祠堂は前面3間·側面1間半規模で屋根側面が八の字型の入母屋屋根だ。 祠堂の内側には精巧な腕前で彫刻し位牌を祀った監室があり注目されている。 牛舎は3間規模の一字型建物で、精米所は少し長い1間の建物だが、両建物ともスレート屋根に変えた。 比較的昔の様式をよく保存している建物で、私たちの昔の民家建築研究に良い資料となっている。",
+    "QA": [
+        {
+            "question": "この古宅はどのような時代に建てられましたか？",
+            "answer": "建てた時期は不明です。"
+        },
+        {
+            "question": "この古宅はどのような家族によって建てられましたか？",
+            "answer": "この古宅は光山金氏の子孫によって受け継がれています。"
+        },
+        {
+            "question": "この古宅の中で、どのような建物がありますか？",
+            "answer": "正針、牛舎、精米所、祠堂があります。"
+        },
+        {
+            "question": "祠堂の内部には何がありますか？",
+            "answer": "祠堂の内部には精巧な彫刻で作られた位牌を祀った監室があります。"
+        },
+        {
+            "question": "この古宅はどのような民家建築の特徴を持っていますか？",
+            "answer": "比較的昔の様式をよく保存しており、私たちの昔の民家建築研究に良い資料となっています。"
+        }
+    ],
+    "word_Count": {
+        "text": 349,
+        "QA": 174
+    }
+}

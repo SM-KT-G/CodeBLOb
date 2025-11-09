@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_038510",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=756&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=00010000&ccbaCtcd=33&ccbaCpno=2333300010000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1975-02-21",
+        "domain": "문화/역사관광",
+        "title": "진천 길상사"
+    },
+    "text": "鎮川吉祥祠 (진천 길상사)\\n\n忠清北道鎮川郡鎮川邑文眞路1411-38(碧岩里)\\n\n忠清北道記念物、三国統一の主役だった金庾信(キム·ユシン)将軍(595~673)の遺影を祀っている祠だ。 金庾信は15歳の時に花郎になり、武烈王7年(660)上大等になった。 その後、中国の唐と連合して百済を滅ぼし、羅唐連合軍の大総官となって高句麗を征伐し、三国統一(676)の偉業を達成した。 新羅と高麗の時には将軍が生まれた泰寧山の下の将軍の祠堂で春と秋に祭祀を行った。 しかし朝鮮に入って管理が疎かになり壬辰倭乱、丙子胡乱を経て廃墟になったのを哲宗2年(1851)白谷面に「竹渓寺」を建て将軍の遺影を祀った。 高宗1年(1864)には興宣大院君の書院撤廃令で取り壊されたが、1926年子孫キム·マンヒの努力で今ある場所に吉祥寺を建て直し、1975年に整備した。 現在、ここにはチャン·ウソンが描いた彼の肖像画と興武殿、興武台王神城碑などがある。",
+    "QA": [
+        {
+            "question": "鎮川吉祥祠はどこにありますか？",
+            "answer": "鎮川吉祥祠は忠清北道鎮川郡鎮川邑文真路1411-38(碧岩里)にあります。"
+        },
+        {
+            "question": "金庾信将軍はどのような偉業を達成しましたか？",
+            "answer": "金庾信将軍は中国の唐と連合して百済を滅ぼし、羅唐連合軍の大総官となって高句麗を征伐し、三国統一(676)の偉業を達成しました。"
+        },
+        {
+            "question": "金庾信将軍の遺影はどこで祀られていますか？",
+            "answer": "金庾信将軍の遺影は鎮川吉祥祠で祀られています。"
+        },
+        {
+            "question": "鎮川吉祥祠にはどのような施設がありますか？",
+            "answer": "鎮川吉祥祠には金庾信将軍の肖像画と興武殿、興武台王神城碑などがあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 308,
+        "QA": 174
+    }
+}

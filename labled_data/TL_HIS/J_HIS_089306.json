@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_089306",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=639&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=04310000&ccbaCtcd=38&ccbaCpno=2113804310000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2005-07-21",
+        "domain": "문화/역사관광",
+        "title": "양산원효암마애아미타삼존불입상"
+    },
+    "text": "慶尚南道有形文化財に指定された阿弥陀三尊は上部には陰刻(いんこく)\"南無阿彌陀佛\"と刻まれており、各文字の幅は約14cmほどです。ウヒョプシ菩薩上の右側にはまた、他の陰刻(いんこく)\"世尊應化二千九百三十三年四月日\"と刻まれています。三尊の下には、'姜膺秀'、三尊が刻まれた岩石のヒャンジュワチュク側面岩石には様々な発願者名が彫り込まれています。また、元暁庵の法堂東面の岩石には磨崖阿弥陀三尊仏立像が彫刻されています。ただ、磨崖仏の特性上、外部に露出されており、苔がたくさん入っていて、特に、阿弥陀如来の左足とヨンファ大佐、そしてウヒョプシ菩薩上の軍の部分がひどいほうです。また、阿弥陀如来の何と右手、ウヒョプシ菩薩さんの顔などが若干摩耗しており、三尊の腰部位には横にひびが入っています。しかし、全般的に状態は良好です。",
+    "QA": [
+        {
+            "question": "阿弥陀三尊の上部に刻まれている文字の幅はどのくらいですか？",
+            "answer": "文字の幅は約14cmほどです。"
+        },
+        {
+            "question": "ウヒョプシ菩薩上の右側に刻まれている陰刻の内容は何ですか？",
+            "answer": "ウヒョプシ菩薩上の右側には'世尊應化二千九百三十三年四月日'と刻まれています。"
+        },
+        {
+            "question": "阿弥陀三尊の下に刻まれている文字の意味は何ですか？",
+            "answer": "岩石のヒャンジュワチュク側面には様々な発願者名が彫り込まれています。"
+        },
+        {
+            "question": "元暁庵の法堂東面の岩石に彫刻されている磨崖阿弥陀三尊仏立像の状態はどうですか？",
+            "answer": "磨崖仏の特性上、外部に露出されており、苔がたくさん入っていて、一部摩耗していますが、全般的に状態は良好です。"
+        },
+        {
+            "question": "阿弥陀如来の左足とヨンファ大佐、そしてウヒョプシ菩薩上の軍の部分には何が見られますか？",
+            "answer": "特に阿弥陀如来の左足とヨンファ大佐、そしてウヒョプシ菩薩上の軍の部分が苔で覆われており、ひどく摩耗しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 264,
+        "QA": 265
+    }
+}

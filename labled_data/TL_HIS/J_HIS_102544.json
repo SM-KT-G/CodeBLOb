@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_102544",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=829&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=00780000&ccbaCtcd=37&ccbaCpno=2333700780000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1988-09-23",
+        "domain": "문화/역사관광",
+        "title": "조지훈생가"
+    },
+    "text": "趙芝薫先生は1963年に慶尚北道英陽出身で生まれた。彼は詩人であり、国文学者であり、朴木月(パク・モクウォル)と朴斗鎭とともに青緑家で試験片を刊行した。この詩は民族史と古典美世界、そしてソンセギェを歌い、儒教道徳主義の自然認識を示した。趙芝薫先生の家屋は本体と管理士に分かれていますが、胴体は7間の前面と側面からなっており、ㅁジャ型平面を持っている。屋根は側面から見ると、八の字の八作屋根で構成されており、典型的である嶺南(ヨンナム)北部地方の両班の特徴を持っている。門と中門には太極旗を彫刻し、彩色したことを挟んでおいており、家の周りは古風な壁で覆われている。この家は朝鮮中期仁祖の時、調整型がなり、1963年に一部が燃えた後に復旧された。ここはチョ・ジフン先生だけでなく、旧韓末の義兵長のチョスンキ先生とチョインソク先生の祖父であるなど国のために大きなことを一分が生まれた場所として知られている。",
+    "QA": [
+        {
+            "question": "趙芝薫先生はどこで生まれましたか？",
+            "answer": "趙芝薫先生は1963年に慶尚北道英陽出身で生まれました。"
+        },
+        {
+            "question": "趙芝薫先生は何の詩人でありますか？",
+            "answer": "趙芝薫先生は詩人であり、国文学者であり、朴木月(パク・モクウォル)と朴斗鎭とともに青緑家で試験片を刊行しました。"
+        },
+        {
+            "question": "趙芝薫先生の家屋はどのような構造ですか？",
+            "answer": "趙芝薫先生の家屋は本体と管理士に分かれており、胴体は7間の前面と側面からなっており、ㅁジャ型平面を持っています。"
+        },
+        {
+            "question": "趙芝薫先生の家屋の屋根はどのような形をしていますか？",
+            "answer": "趙芝薫先生の家屋の屋根は側面から見ると、八の字の八作屋根で構成されており、典型的である嶺南(ヨンナム)北部地方の両班の特徴を持っています。"
+        },
+        {
+            "question": "趙芝薫先生の家屋は何時に復旧されましたか？",
+            "answer": "趙芝薫先生の家屋は朝鮮中期仁祖の時、調整型がなり、1963年に一部が燃えた後に復旧されました。"
+        }
+    ],
+    "word_Count": {
+        "text": 293,
+        "QA": 261
+    }
+}

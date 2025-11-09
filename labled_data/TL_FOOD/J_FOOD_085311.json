@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_085311",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2022-11-17",
+        "domain": "음식점",
+        "title": "식당연화 연화리 본점"
+    },
+    "text": "実際、グーグル翻訳サービスを使用して翻訳した結果は次のようです。The restaurant Yeonhwa、located on the way to Haenyeo Village、is a sentimental restaurant created by the owner、a native of Yeonhwa-ri in Gijang County.The representative menu includes Yeonhwa-ri menbosha、named after Yeonhwa-ri、and Jeongang-deopbap、which is already famous in Gijang.The bacon steak is handmade and is more tender and flavorful than most steaks、making it a special dish.It is recommended to contact in advance before visiting as the ingredients may be sold out early.Since Haedong Yonggungsa and Ilgwang Beach are nearby、you can visit anytime without any burden.",
+    "QA": [
+        {
+            "question": "レストランヨンファはどこにありますか？",
+            "answer": "ヨンファレストランはヘンヨ村へ行く途中にあります。"
+        },
+        {
+            "question": "ヨンファレストランのオーナーはどこ出身ですか？",
+            "answer": "ヨンファレストランのオーナーは、基章のヨンファ里出身の人です。"
+        },
+        {
+            "question": "ヨンファレストランの代表的なメニューは何ですか？",
+            "answer": "ヨンファレストランの代表的なメニューは、ヨンファ里にちなんで名付けられたヨンファ里メンボーシャや、基章で既に有名なジョンアンデップバップです。"
+        },
+        {
+            "question": "ベーコンステーキは手作りですか？",
+            "answer": "はい、ベーコンステーキは手作りで、ほかのステーキよりも柔らかく風味豊かな特別な料理です。"
+        },
+        {
+            "question": "予約は必要ですか？",
+            "answer": "食材が早く売り切れる可能性があるため、訪問前に事前に予約することをお勧めします。"
+        },
+        {
+            "question": "近くに観光地はありますか？",
+            "answer": "ヘドンヨングンサやイルグワンビーチが近くにありますので、いつでも気軽に訪れることができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 445,
+        "QA": 264
+    }
+}

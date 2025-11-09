@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_104104",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1012&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=00650000&ccbaCtcd=38&ccbaCpno=3413800650000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1983-07-20",
+        "domain": "문화/역사관광",
+        "title": "진주 우곡정"
+    },
+    "text": "晋州牛谷亭\\n\n慶尚南道晋州市沙峰面沙谷里\\n\n慶尚南道文化財資料、迂曲亭は高麗末、大司憲を務めた迂曲定温が朝鮮太祖の易姓革命に反対して故郷に戻って静かに過ごして太祖2年(1393)に建てられた東屋だ。その後、憲宗15年(1849)に直して建設して、1976に再び修理して今日に至っている。定温は二君に仕えられないという二君に仕えず(不事二君)の忠節を守って隠遁生活をした。太祖が婿のこれを送ってお連れして行かせようとすると、どうしても王の命令に逆らえず、見た目は元気も前を見ない盲目という言い訳を言って断った。これに対し事実を確認しようと松葉に目を刺したら瞳は動かないで、鮮血があちこちに飛び散ったと伝えている。建物は前面3間・側面2間規模で、屋根は側面から見ると、八(八部)字形の入母屋屋根である。門の外の前庭には、釣りをしていた池を昔の姿をそのまま保存している。",
+    "QA": [
+        {
+            "question": "この亭はいつ建てられましたか？",
+            "answer": "この亭は太祖2年(1393)に建てられました。"
+        },
+        {
+            "question": "亭の建設者は誰ですか？",
+            "answer": "亭の建設者は迂曲定温という高麗末の大司憲です。"
+        },
+        {
+            "question": "亭の修理はいつ行われましたか？",
+            "answer": "亭は憲宗15年(1849)に直して建設され、1976年に再び修理されました。"
+        },
+        {
+            "question": "亭の屋根の形はどのような形ですか？",
+            "answer": "亭の屋根は側面から見ると、八(八部)字形の入母屋屋根です。"
+        },
+        {
+            "question": "亭の前庭には何がありますか？",
+            "answer": "亭の前庭には、昔の姿をそのまま保存している釣りをしていた池があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 281,
+        "QA": 161
+    }
+}

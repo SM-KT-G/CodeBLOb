@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_050423",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42011&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "강화도 드림펜션"
+    },
+    "text": "こんにちは。カンファ島ドリームペンションです。 ドリームペンションではいくつかのお知らせがあります。 まず、22時以降に入室される場合は予めご連絡をお願いします。 また、3人以上の同性の方は予約が不可能であり、3人以上の男女同室での宿泊も不可能です。 また、本人や知人を含め、部屋1つを超えて予約することもできません。 そして団体性予約もできません。 当ペンションはカップルや家族の休息のための静かな空間です。",
+    "QA": [
+        {
+            "question": "入室時間について教えてください。",
+            "answer": "22時以降に入室される場合は予めご連絡をお願いします。"
+        },
+        {
+            "question": "同性3人以上の予約はできますか？",
+            "answer": "3人以上の同性の方は予約が不可能です。"
+        },
+        {
+            "question": "男女混合の3人以上での宿泊は可能ですか？",
+            "answer": "3人以上の男女同室での宿泊も不可能です。"
+        },
+        {
+            "question": "部屋1つを超えて予約することはできますか？",
+            "answer": "本人や知人を含め、部屋1つを超えて予約することもできません。"
+        },
+        {
+            "question": "団体での予約は可能ですか？",
+            "answer": "団体予約もできません。"
+        },
+        {
+            "question": "カンファ島ドリームペンションはどのような場所ですか？",
+            "answer": "当ペンションはカップルや家族の休息のための静かな空間です。"
+        }
+    ],
+    "word_Count": {
+        "text": 150,
+        "QA": 181
+    }
+}

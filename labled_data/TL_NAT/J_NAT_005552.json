@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_005552",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=894&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=02360000&ccbaCtcd=36&ccbaCpno=2333602360000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2006-12-27",
+        "domain": "자연관광",
+        "title": "곡성당동리산성"
+    },
+    "text": "谷城堂洞里山城 (곡성당동리산성)\\n\n全羅南道記念物 , 堂洞は竹谷面の南西部にある村で、礼峰に背を向けており、南側には宝城江が大きく曲流しながら形成された平地が広がっている。 堂洞里城は竹谷の堂洞里と石谷の綾巴里の境界地点である礼峰とその南側にある丘陵の稜線上にある。 堂洞里城は石城で城壁の大部分は崩壊し、内部には瓦片が散在している。 南側中央部には井戸跡とマンテ跡があり、北西角の城壁は民墓の護石として利用されている。 城壁は南側に比べて北側がよく残っているが、一番よく残っている部分は幅5m、高さ10mで、その周囲は約500m程度だ。",
+    "QA": [
+        {
+            "question": "この城の名前は何ですか？",
+            "answer": "この城の名前は谷城堂洞里山城です。"
+        },
+        {
+            "question": "堂洞里山城はどこにありますか？",
+            "answer": "堂洞里山城は竹谷面の南西部に位置しています。"
+        },
+        {
+            "question": "堂洞里山城の特徴は何ですか？",
+            "answer": "堂洞里山城は石城であり、城壁の一部が崩壊しています。内部には瓦片が散在しています。"
+        },
+        {
+            "question": "堂洞里山城の南側に何がありますか？",
+            "answer": "堂洞里山城の南側には宝城江が大きく曲流し、平地が広がっています。"
+        },
+        {
+            "question": "堂洞里山城の周囲の城壁の長さはどれくらいですか？",
+            "answer": "堂洞里山城の周囲の城壁の長さは約500m程度です。"
+        }
+    ],
+    "word_Count": {
+        "text": 199,
+        "QA": 160
+    }
+}

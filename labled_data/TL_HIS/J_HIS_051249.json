@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_051249",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=11&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=11&ccbaAsno=01310000&ccbaCtcd=11&ccbaCpno=1111101310000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1969-11-07",
+        "domain": "문화/역사관광",
+        "title": "고려말 화령부 호적 관련 고문서"
+    },
+    "text": "高麗恭譲王2年(1390)、国宝、この戸籍は高麗恭譲王2年(1390)に朝鮮を建国した太祖·李成桂(1335~1408)の本郷である永興で作成したものです。もともと高麗時代の両班は3年に1度戸籍を作成しますが、この時2部を作成します。1部は官衙に報告し、もう1部は自分が持っていました。これはイ·ソンゲ自身が保管していたと思われます。それだけでなく、オーストラリアのイ·ソンゲを中心に同居する子供、兄弟、婿と奴婢を記録しています",
+    "QA": [
+        {
+            "question": "この戸籍はいつ作成されましたか？",
+            "answer": "この戸籍は高麗恭譲王2年(1390)に作成されました。"
+        },
+        {
+            "question": "この戸籍は誰によって作成されましたか？",
+            "answer": "この戸籍は太祖·李成桂によって作成されました。"
+        },
+        {
+            "question": "この戸籍はどこで作成されましたか？",
+            "answer": "この戸籍は太祖·李成桂の本郷である永興で作成されました。"
+        },
+        {
+            "question": "この戸籍は何のために作成されましたか？",
+            "answer": "この戸籍は両班の人口調査や管理のために作成されました。"
+        },
+        {
+            "question": "この戸籍はどのような内容が記録されていますか？",
+            "answer": "この戸籍にはイ·ソンゲ自身や家族、奴婢の情報が記録されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 156,
+        "QA": 169
+    }
+}

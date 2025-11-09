@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_028180",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42031&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "대구 성서 GRIGO(그리고)"
+    },
+    "text": "出張客のニーズを満たすために、GRIGOビジネスホテルは常に最上のサービスを提供しています。 そして快適に休めるように清潔できれいな客室を提供しています。 また、客室は自動的に閉まりませんので、ドアロックの状態をご確認ください。 そして、ゆっくり休んで行ってください 。",
+    "QA": [
+        {
+            "question": "GRIGOビジネスホテルはどのようなサービスを提供していますか？",
+            "answer": "GRIGOビジネスホテルは出張客のニーズを満たすために最上のサービスを提供しています。"
+        },
+        {
+            "question": "GRIGOビジネスホテルの客室はどのような状態ですか？",
+            "answer": "GRIGOビジネスホテルの客室は清潔できれいな状態を保っています。"
+        },
+        {
+            "question": "GRIGOビジネスホテルのドアは自動的に閉まりますか？",
+            "answer": "GRIGOビジネスホテルのドアは自動的に閉まりませんので、ドアロックの状態をご確認ください。"
+        },
+        {
+            "question": "GRIGOビジネスホテルの客室でゆっくり休むことはできますか？",
+            "answer": "はい、GRIGOビジネスホテルの客室でゆっくり休んでいただけます。"
+        }
+    ],
+    "word_Count": {
+        "text": 99,
+        "QA": 199
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_092965",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=445&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=00910000&ccbaCtcd=35&ccbaCpno=2113500910000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1980-03-08",
+        "domain": "문화/역사관광",
+        "title": "용오정사"
+    },
+    "text": "竜烏精舎\\n\n全羅北道高敞郡茂長面徳林里山33番地\\n\n1920、全羅北道有形文化財、ヨンオ定款員の憂国精神と徳行を称えるために朝鮮時代の高宗22年(1885)に建てられた祠である。祠堂やホンウィジェ・ギョンウィダン・サンウンルなどの建物がある。李落祠には定款員とキサムヨンの遺影(肖像)を祀っている。軒を支え、装飾を兼ねた恐怖が柱の上と柱の間にもあるダポギェの建物で内部構造が華やかだ。サンウンルは表3間・側面1間のわいを家で、講堂人ギョンウィダンは前面5間・側面2間の規模で、屋根の横姿が八(八部)字型の華やかな入母屋屋根である。ホンウィジェは表3間・側面2間の入母屋の家にシグモイド型に少し焼いた丸い柱を使用した。",
+    "QA": [
+        {
+            "question": "この祠堂はいつ建てられましたか？",
+            "answer": "高宗22年(1885)に建てられました。"
+        },
+        {
+            "question": "祠堂には何が祀られていますか？",
+            "answer": "祠堂には定款員とキサムヨンの遺影(肖像)が祀られています。"
+        },
+        {
+            "question": "祠堂の内部構造はどのような特徴がありますか？",
+            "answer": "祠堂の内部構造は華やかで、柱の上と柱の間にも恐怖が装飾として兼ねられています。"
+        },
+        {
+            "question": "サンウンルと講堂人ギョンウィダンの建物の特徴は何ですか？",
+            "answer": "サンウンルは表3間・側面1間のわいを家で、講堂人ギョンウィダンは前面5間・側面2間の規模で、屋根の横姿が八(八部)字型の華やかな入母屋屋根です。"
+        },
+        {
+            "question": "ホンウィジェの特徴は何ですか？",
+            "answer": "ホンウィジェは表3間・側面2間の入母屋の家にシグモイド型に少し焼いた丸い柱を使用しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 227,
+        "QA": 221
+    }
+}

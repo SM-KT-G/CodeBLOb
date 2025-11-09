@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_LEI_000767",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101933",
+        "collectedDate": "2023-09-21",
+        "publishedDate": "2023-01-16",
+        "domain": "레포츠",
+        "title": "아빠가 만든 캠핑장"
+    },
+    "text": "お父さんが作ったキャンプ場 (아빠가 만든 캠핑장)\\n\n江原道寧越郡北面徳田キル240\\n\n民間''で'直営''方法で運営しています。 '''一般キャンプ場'''をご利用いただけます。 周辺の自然環境としては「山」があり、「直営」方式で運営しています。 「渓谷水遊び、青少年体験施設」をご利用いただけます。",
+    "QA": [
+        {
+            "question": "キャンプ場の住所はどこですか？",
+            "answer": "キャンプ場の住所は江原道寧越郡北面徳田キル240です。"
+        },
+        {
+            "question": "キャンプ場はどのように運営されていますか？",
+            "answer": "キャンプ場は民間で直営方式で運営されています。"
+        },
+        {
+            "question": "一般キャンプ場を利用することができますか？",
+            "answer": "はい、一般キャンプ場を利用することができます。"
+        },
+        {
+            "question": "周辺にはどんな自然環境がありますか？",
+            "answer": "周辺には山があります。"
+        },
+        {
+            "question": "どのような施設を利用することができますか？",
+            "answer": "渓谷水遊びや青少年体験施設を利用することができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 112,
+        "QA": 151
+    }
+}

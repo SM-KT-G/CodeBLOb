@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_003683",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "オチェヨン ( 오채연 )"
+    },
+    "text": "オチェヨン ( 오채연 )\n江原道 ガンヌン市 ソンサン面 チルボンロ26-45\n健康にいいコウタケを鴨と一緒に楽しむ韓国料理店です。江原道のガンヌン市に位置した韓食専門店です。代表的なメニューは鶏肉の水炊きです。",
+    "QA": [
+        {
+            "question": "オチェヨンのお店はどこに位置していますか？",
+            "answer": "オチェヨンは江原道のガンヌン市に位置しています。"
+        },
+        {
+            "question": "オチェヨンの代表的なメニューは何ですか？",
+            "answer": "オチェヨンの代表的なメニューは鶏肉の水炊きです。"
+        },
+        {
+            "question": "オチェヨンの住所は何ですか？",
+            "answer": "オチェヨンの住所は江原道ガンヌン市ソンサン面チルボンロ26-45です。"
+        },
+        {
+            "question": "オチェヨンの特徴は何ですか？",
+            "answer": "オチェヨンは健康にいいコウタケを鴨と一緒に楽しむ韓国料理店です。"
+        }
+    ],
+    "word_Count": {
+        "text": 78,
+        "QA": 134
+    }
+}

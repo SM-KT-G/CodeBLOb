@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_026686",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42090&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "제주 파인비치펜션"
+    },
+    "text": "済州パインビーチペンションに皆様をご招待します。 ここは済州の美しい自然をそのまま盛り込んでいます。 済州の海のコバルト色がまぶしく美しく、そこで大切な思い出を作ってリラックスしてください。 また、22時以降に入室される場合は予めご連絡ください。",
+    "QA": [
+        {
+            "question": "このペンションの場所はどこですか？",
+            "answer": "済州パインビーチペンションは済州島に位置しています。"
+        },
+        {
+            "question": "済州パインビーチペンションの特徴は何ですか？",
+            "answer": "済州パインビーチペンションは済州の美しい自然を反映した施設です。済州の海のコバルト色がまぶしく美しく、リラックスできる環境が整っています。"
+        },
+        {
+            "question": "何時までに入室する必要がありますか？",
+            "answer": "22時以降に入室される場合は、事前にご連絡ください。"
+        }
+    ],
+    "word_Count": {
+        "text": 90,
+        "QA": 130
+    }
+}

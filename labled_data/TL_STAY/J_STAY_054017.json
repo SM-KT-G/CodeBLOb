@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_054017",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42060&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "보령 대천리조텔펜션"
+    },
+    "text": "こんにちは。保寧大川リゾテルペンションです。 当ペンションは保寧ペンション地区内に位置しており、海から近いため徒歩約3分で海辺に到着できます。 ペンション内部の部屋は広く構成されており、家族や団体の集まりに適しています。 また、ペンション内には専用駐車場があるので駐車に不便がなく、周辺にも近い共用駐車場があるので車を利用する方も便利に利用できます。 特にバーベキューを楽しむことができる空間も備えています。 一つのお知らせとしては、夜10時以降に入室される方は予めペンションまでご連絡ください。",
+    "QA": [
+        {
+            "question": "ペンションはどこに位置していますか？",
+            "answer": "当ペンションは保寧ペンション地区内に位置しています。"
+        },
+        {
+            "question": "海までの距離はどれくらいですか？",
+            "answer": "徒歩約3分で海辺に到着できます。"
+        },
+        {
+            "question": "部屋はどのように構成されていますか？",
+            "answer": "ペンション内部の部屋は広く構成されており、家族や団体の集まりに適しています。"
+        },
+        {
+            "question": "駐車場はありますか？",
+            "answer": "ペンション内に専用駐車場があります。"
+        },
+        {
+            "question": "バーベキューはできますか？",
+            "answer": "はい、バーベキューを楽しむことができるスペースもあります。"
+        },
+        {
+            "question": "深夜に入室する場合はどうすればいいですか？",
+            "answer": "夜10時以降に入室される方は予めペンションまでご連絡ください。"
+        }
+    ],
+    "word_Count": {
+        "text": 181,
+        "QA": 186
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_027656",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42060&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "안면도 오슈"
+    },
+    "text": "天恵の自然の中で安らかな休息を楽しみたいなら、ご利用案内ペンションをおすすめします。 ペンションは4名基準で運営され、モーテルは2名基準で運営されます。 追加人数は1人当たり1万ウォンの追加料金が発生します。 送迎サービスも提供されますので、予めご連絡してご予約ください。 釣りが好きな方には釣り船もご紹介できます。 繁忙期には料金が変更されます。",
+    "QA": [
+        {
+            "question": "ペンションは何名基準で運営されていますか？",
+            "answer": "ペンションは4名基準で運営されています。"
+        },
+        {
+            "question": "モーテルは何名基準で運営されていますか？",
+            "answer": "モーテルは2名基準で運営されています。"
+        },
+        {
+            "question": "追加人数はいくらですか？",
+            "answer": "追加人数は1人当たり1万ウォンの追加料金が発生します。"
+        },
+        {
+            "question": "送迎サービスはありますか？",
+            "answer": "はい、送迎サービスも提供されています。予めご連絡してご予約ください。"
+        },
+        {
+            "question": "釣り船の利用は可能ですか？",
+            "answer": "はい、釣りが好きな方には釣り船もご紹介できます。"
+        },
+        {
+            "question": "繁忙期には料金が変更されますか？",
+            "answer": "はい、繁忙期には料金が変更される場合があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 127,
+        "QA": 178
+    }
+}

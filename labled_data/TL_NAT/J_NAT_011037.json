@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_011037",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2020-11-27",
+        "domain": "자연관광",
+        "title": "三鶴島（삼학도）"
+    },
+    "text": "三鶴島（삼학도）\\n\n全羅南道 木浦市 三鶴路 92番キル 一帯\\n\n現在は陸地と続いていますが三鶴島という名称は3匹の鶴が落ちた場所に3つの島ができたという伝説に由来しています。三鶴島は大三鶴島、中三鶴島、小三鶴島があり、木浦津に薪を提供した重要な場所であったと言われています。",
+    "QA": [
+        {
+            "question": "三鶴島はどこに位置していますか？",
+            "answer": "三鶴島は全羅南道木浦市に位置しています。"
+        },
+        {
+            "question": "三鶴島の由来は何ですか？",
+            "answer": "三鶴島の由来は、3匹の鶴が落ちた場所に3つの島ができたという伝説に由来しています。"
+        },
+        {
+            "question": "三鶴島での重要な役割は何ですか？",
+            "answer": "三鶴島は、木浦津に薪を提供した重要な場所でした。"
+        }
+    ],
+    "word_Count": {
+        "text": 102,
+        "QA": 94
+    }
+}

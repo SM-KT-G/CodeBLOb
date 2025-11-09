@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_024634",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-03",
+        "domain": "음식점",
+        "title": "嶺津トッカルビ ( 영진떡갈비 )"
+    },
+    "text": "嶺津トッカルビ ( 영진떡갈비 )\\n\n江原道 ガンヌン市 ギョンガンロ2115ボンギル3\\n\n一人で食事するのに良い店です。江原道のガンヌン市に位置した韓食専門店です。おすすめは粗挽きカルビ焼きです。",
+    "QA": [
+        {
+            "question": "江原道のガンヌン市に位置するレストラン名は何ですか？",
+            "answer": "江原道のガンヌン市に位置するレストランは、영진떡갈비（エイジントッカルビ）です。"
+        },
+        {
+            "question": "レストランの住所はどこですか？",
+            "answer": "レストランの住所は、江原道ガンヌン市ギョンガンロ2115ボンギル3です。"
+        },
+        {
+            "question": "レストランのおすすめメニューは何ですか？",
+            "answer": "レストランのおすすめメニューは、粗挽きカルビ焼きです。"
+        },
+        {
+            "question": "このレストランは一人で食事するのに適していますか？",
+            "answer": "はい、このレストランは一人で食事するのに適しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 74,
+        "QA": 158
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_019622",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-08-27",
+        "domain": "음식점",
+        "title": "桃園馬山アンコウの蒸し物 ( 도원마산아구찜 )"
+    },
+    "text": "桃園馬山アンコウの蒸し物 ( 도원마산아구찜 )\\n\nソウル特別市 鐘路区 三一大路 438\\n\n多くの芸能人が訪れる名店です。 ソウル特別市のジョンノ区に位置した韓国料理店です。代表的なメニューはアンコウの蒸し物です。",
+    "QA": [
+        {
+            "question": "このレストランの名前は何ですか？",
+            "answer": "桃園馬山アンコウの蒸し物 ( 도원마산아구찜 )"
+        },
+        {
+            "question": "このレストランはどこにありますか？",
+            "answer": "ソウル特別市 鐘路区 三一大路 438"
+        },
+        {
+            "question": "このレストランは有名な芸能人も訪れるんですか？",
+            "answer": "はい、多くの芸能人が訪れる名店です。"
+        },
+        {
+            "question": "このレストランの代表的なメニューは何ですか？",
+            "answer": "アンコウの蒸し物です。"
+        }
+    ],
+    "word_Count": {
+        "text": 80,
+        "QA": 110
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_096900",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=252&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=13&ccbaAsno=03180000&ccbaCtcd=35&ccbaCpno=1333503180000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1987-07-18",
+        "domain": "문화/역사관광",
+        "title": "익산 나바위성당"
+    },
+    "text": "1906年、史跡、この聖堂は金大建神父が中国から朝鮮憲宗11年、1845年に司祭叙品を受け取り、ペレオール主教、ダブリュ神父とともに黄山渡し場に上陸したことを記念して1906年に建てられた建物です。1906年、ベルモレル神父が監督と設計を行い、中国人技術者を動員して建てました。当時は木造建築で前面5間·側面13間でしたが、1916年に建物を補修する際に一部をレンガに変え、その後再び2回修理した",
+    "QA": [
+        {
+            "question": "この聖堂は何年に建てられましたか？",
+            "answer": "1906年に建てられました。"
+        },
+        {
+            "question": "この聖堂を建てた人物は誰ですか？",
+            "answer": "金大建神父が中国から朝鮮に上陸したことを記念して建てました。"
+        },
+        {
+            "question": "建物を設計し監督した神父の名前は何ですか？",
+            "answer": "ベルモレル神父が監督と設計を行いました。"
+        },
+        {
+            "question": "建物の前面の間数と側面の間数はそれぞれ何ですか？",
+            "answer": "前面5間、側面13間でした。"
+        },
+        {
+            "question": "建物の補修を行った年はいつですか？",
+            "answer": "1916年に建物を補修し、一部をレンガに変えました。"
+        },
+        {
+            "question": "中国人技術者を動員して建てられたのは誰ですか？",
+            "answer": "ベルモレル神父が監督と設計を行い、中国人技術者を動員して建てました。"
+        }
+    ],
+    "word_Count": {
+        "text": 145,
+        "QA": 187
+    }
+}

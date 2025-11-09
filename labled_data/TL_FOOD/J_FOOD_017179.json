@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_017179",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "故郷冷麺 ( 고향냉면 )"
+    },
+    "text": "故郷冷麺 ( 고향냉면 )\\n\nソウル特別市 ヨンドゥンポ区 ドシンロ193\\n\nさっぱりしたスープにタレを入れて食べる麺料理です。ソウル特別市のヨンドゥンポ区に位置した韓食専門店です。おすすめは冷麺です。",
+    "QA": [
+        {
+            "question": "故郷冷麺 ( 고향냉면 ) はどんな料理ですか？",
+            "answer": "故郷冷麺はさっぱりしたスープにタレを入れて食べる麺料理です。"
+        },
+        {
+            "question": "故郷冷麺のおすすめ店はどこですか？",
+            "answer": "故郷冷麺のおすすめ店はソウル特別市のヨンドゥンポ区に位置する韓食専門店です。"
+        },
+        {
+            "question": "故郷冷麺を食べる際に注意すべき点はありますか？",
+            "answer": "特に注意する点はありませんが、冷麺は冷たい料理なので、お好みでスープの温度を調整していただくことができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 75,
+        "QA": 136
+    }
+}

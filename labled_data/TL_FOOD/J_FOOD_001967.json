@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001967",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/once-in-a-blue-moon",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "ONCE IN A BLUEMOON"
+    },
+    "text": "ONCE IN A BLUEMOON\\n\nソウル特別市 江南区 宣陵路824\\n\n「ONCE IN A BLUEMOON（ワンスインアブルームーン）」では、毎晩開かれる国内最高演奏者のライブ演奏とともに品格あるサービス、多彩な料理と130種類以上のワインが楽しめます。 ワンスINA BLUE MOONは、世界的な海外ミュージシャンが韓国公演後に必ず立ち寄る名所として有名なだけでなく、映画やドラマの撮影にも使われるなど、人々にジャズの良さを知らせるのに大きく貢献している韓国を代表するライブジャズクラブであり、文化観光地として位置づけられています。",
+    "QA": [
+        {
+            "question": "Once in a Blue Moonの場所はどこですか？",
+            "answer": "Once in a Blue Moonは、ソウル特別市江南区宣陵路824にあります。"
+        },
+        {
+            "question": "Once in a Blue Moonでは何が楽しめますか？",
+            "answer": "Once in a Blue Moonでは、国内最高演奏者のライブ演奏とともに品格あるサービス、多彩な料理と130種類以上のワインを楽しむことができます。"
+        },
+        {
+            "question": "Once in a Blue Moonはどのような場所ですか？",
+            "answer": "Once in a Blue Moonは、世界的な海外ミュージシャンが韓国公演後に立ち寄る名所として有名であり、映画やドラマの撮影にも使用されるなど、人々にジャズの良さを知らせるために大きく貢献している韓国を代表するライブジャズクラブです。また、文化観光地としても位置づけられています。"
+        }
+    ],
+    "word_Count": {
+        "text": 201,
+        "QA": 258
+    }
+}

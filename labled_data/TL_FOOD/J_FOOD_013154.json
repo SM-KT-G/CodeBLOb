@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_013154",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-06",
+        "domain": "음식점",
+        "title": "フンブポサム ( 흥부보쌈 )"
+    },
+    "text": "フンブポサム ( 흥부보쌈 )\\n\nソウル特別市 冠岳区 シンリムロ59ギル15-13\\n\n会社員の飲み会や団体でのお集まりにぴったりの店です。ソウル特別市のグァンアク区に位置した韓食専門店です。おすすめはポサムです。",
+    "QA": [
+        {
+            "question": "このお店の場所はどこですか？",
+            "answer": "このお店はソウル特別市冠岳区シンリムロ59ギル15-13に位置しています。"
+        },
+        {
+            "question": "このお店の特徴は何ですか？",
+            "answer": "このお店は会社員の飲み会や団体でのお集まりにぴったりの店です。"
+        },
+        {
+            "question": "このお店のおすすめ料理は何ですか？",
+            "answer": "このお店のおすすめはポサムです。"
+        },
+        {
+            "question": "このお店はどんな人におすすめですか？",
+            "answer": "このお店は会社員の飲み会や団体でのお集まりにぴったりですが、一般のお客様も大歓迎です。"
+        }
+    ],
+    "word_Count": {
+        "text": 79,
+        "QA": 138
+    }
+}

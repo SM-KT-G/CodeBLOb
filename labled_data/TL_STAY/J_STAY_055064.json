@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_055064",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42011&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "석모도(섬) 해비치펜션"
+    },
+    "text": "山と海、そして空が一緒に呼吸する自然の空間[ペンションヘビチ]にお越しくださった皆様を歓迎します。 『ペンションヘビチ』はGreen、Orange、Pink、Whiteの4棟の計18客室で構成されており、ソクモ島の最高の眺めを誇る最適な場所に位置しています。 すべての客室で手に取るような海の風景と日差し、そして幻想的な落潮を同時に感じながら安らかな\"チャム休息\"を取ることができるように設計および施工されました。 そして、現在当ペンションでは入室時間が22時以降の場合、予めご連絡をお願いします。",
+    "QA": [
+        {
+            "question": "ペンションヘビチには何棟ありますか？",
+            "answer": "Green、Orange、Pink、Whiteの4棟があります。"
+        },
+        {
+            "question": "どのような風景が見える客室がありますか？",
+            "answer": "すべての客室からは手に取るような海の風景と日差し、そして幻想的な落潮を感じることができます。"
+        },
+        {
+            "question": "入室時間が22時以降の場合はどうなりますか？",
+            "answer": "入室時間が22時以降の場合は、事前にご連絡をお願いしております。"
+        }
+    ],
+    "word_Count": {
+        "text": 182,
+        "QA": 124
+    }
+}

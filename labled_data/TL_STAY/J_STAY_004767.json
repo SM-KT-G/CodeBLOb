@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_004767",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42090&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "제주도 네스트펜션"
+    },
+    "text": "こんにちは。涯月邑流水岩里に位置するギャラリー型感性宿ネストペンションです。 当宿は客室ごとに個人デッキとテーブルが用意されており、バーベキューを楽しむことができます。 宿からは遠く木の間に映るかすかな水平線とノルドゥルが遊ぶ野原の平和なビューが楽しめます。 作家の作品で飾られた感性的な空間で、済州の自然風景とともに休息をお楽しみください。 ただし、22:00以降に入室される場合は予めご連絡ください。",
+    "QA": [
+        {
+            "question": "この宿の場所はどこですか？",
+            "answer": "ネストペンションは涯月邑流水岩里に位置しています。"
+        },
+        {
+            "question": "客室ごとにどのような設備がありますか？",
+            "answer": "各客室には個人デッキとテーブルがあります。"
+        },
+        {
+            "question": "バーベキューを楽しむことができますか？",
+            "answer": "はい、宿でバーベキューを楽しむことができます。"
+        },
+        {
+            "question": "どんな景色が楽しめますか？",
+            "answer": "宿からは木の間に映るかすかな水平線とノルドゥルが遊ぶ野原の平和なビューが楽しめます。"
+        },
+        {
+            "question": "宿内にはどんな作品が展示されていますか？",
+            "answer": "宿内には作家の作品で飾られた感性的な空間があります。"
+        },
+        {
+            "question": "22:00以降に入室する場合はどうすればいいですか？",
+            "answer": "22:00以降に入室される場合は予めご連絡ください。"
+        }
+    ],
+    "word_Count": {
+        "text": 148,
+        "QA": 200
+    }
+}

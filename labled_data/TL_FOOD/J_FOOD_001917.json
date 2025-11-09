@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001917",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-11-12",
+        "domain": "음식점",
+        "title": "n.Grill（엔그릴）"
+    },
+    "text": "n.Grill（엔그릴）\\n\nソウル特別市 龍山区 南山公園キル 105\\n\n「n・GRILL」は南山ソウルタワーの一番高い展望台5階にあり、360度パノラマのように開けたソウルの風景と夜景を眺めながらフルコースのステーキメニューやさまざまなヴィンテージワインを楽しむことができます。※回転速度120分／時計回りに1回転",
+    "QA": [
+        {
+            "question": "n.Grill（엔그릴）はどこにありますか？",
+            "answer": "n.Grill（엔그릴）はソウル特別市龍山区南山公園キル105にあります。"
+        },
+        {
+            "question": "n.Grill（엔グリル）では何を楽しむことができますか？",
+            "answer": "n.Grill（엔グリル）では、360度パノラマのように開けたソウルの風景や夜景を眺めながら、フルコースのステーキメニューやさまざまなヴィンテージワインを楽しむことができます。"
+        },
+        {
+            "question": "n.Grill（엔グリル）の回転速度はどれくらいですか？",
+            "answer": "n.Grill（엔グリル）の回転速度は時計回りに1回転を120分かけて行います。"
+        }
+    ],
+    "word_Count": {
+        "text": 117,
+        "QA": 178
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_054344",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1043&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=01130000&ccbaCtcd=35&ccbaCpno=3413501130000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1984-04-01",
+        "domain": "문화/역사관광",
+        "title": "금구향교대성전"
+    },
+    "text": "全羅北道に位置した郷校は、孔子と多くの聖賢に祭祀をして地方民の教育と教化のための教育機関です。禁句郷校は、1390年に初めて建てられており、当時位置は禁句東軒から東に約2キロ離れた場所でした。その後1675年に現在の位置に移動して今日まで残っています。大成殿は3間X 2間の規模を持ち、人の教わる字形の切妻屋根を持っています。内部には孔子と聖賢の位牌が祀られています。以前は国で土地と奴婢、本などを支援して学生たちを教えたが、現在は教育機能はなくなり、祭祀の役割だけが残っています。",
+    "QA": [
+        {
+            "question": "禁句郷校は何年に建てられましたか？",
+            "answer": "禁句郷校は1390年に建てられました。"
+        },
+        {
+            "question": "禁句郷校はどのような役割を果たしていましたか？",
+            "answer": "禁句郷校は地方民の教育と教化のための教育機関でした。"
+        },
+        {
+            "question": "禁句郷校はどこに位置していましたか？",
+            "answer": "禁句郷校は当初は禁句東軒から東に約2キロ離れた場所に位置していましたが、後に1675年に現在の位置に移動しました。"
+        },
+        {
+            "question": "大成殿はどのような特徴を持っていますか？",
+            "answer": "大成殿は3間X 2間の規模を持ち、人の教わる字形の切妻屋根を持っています。"
+        },
+        {
+            "question": "禁句郷校は現在も教育機能を持っていますか？",
+            "answer": "いいえ、禁句郷校は現在は教育機能はなくなり、祭祀の役割だけが残っています。"
+        }
+    ],
+    "word_Count": {
+        "text": 176,
+        "QA": 201
+    }
+}

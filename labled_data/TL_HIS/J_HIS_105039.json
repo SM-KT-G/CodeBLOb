@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_105039",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1210&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=79&ccbaAsno=02440000&ccbaCtcd=11&ccbaCpno=4411102440000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2006-03-02",
+        "domain": "문화/역사관광",
+        "title": "창덕궁 경훈각 조일선관도"
+    },
+    "text": "1920年頃にノスヒョンによって書画ミスルウォンで製作された壁画は、国家登録文化財として代表的な若手画家の作品だ。この作品はギョンフンガクに付着されており、張承業以降アンジュンシクの反復的な形の山水画の伝統をよく示している。また、形状の表現と技術の描写に充実し、華やかな構成を盛り込んでいる。この壁画は宮廷の壁画として他の作品とは違って、現存しており、単純な装飾がなく全角の機能と連携し、墜落した皇室の安寧と権威の回復、王室の力量を再確認する吉祥的で象徴的な意味を持っている。こうした歴史的と芸術的価値のために、この作品は重要な価値を持っている。",
+    "QA": [
+        {
+            "question": "この壁画が作られた年代はいつですか？",
+            "answer": "1920年頃にノスヒョンによって書画ミスルウォンで製作されました。"
+        },
+        {
+            "question": "この壁画はどのような特徴を持っていますか？",
+            "answer": "この壁画はギョンフンガクに付着されており、張承業以降アンジュンシクの反復的な形の山水画の伝統をよく示しています。また、形状の表現と技術の描写に充実し、華やかな構成を盛り込んでいます。"
+        },
+        {
+            "question": "この壁画の意味は何ですか？",
+            "answer": "この壁画は宮廷の壁画として他の作品とは違って、現存しており、単純な装飾がなく全角の機能と連携し、墜落した皇室の安寧と権威の回復、王室の力量を再確認する吉祥的で象徴的な意味を持っています。"
+        }
+    ],
+    "word_Count": {
+        "text": 200,
+        "QA": 197
+    }
+}

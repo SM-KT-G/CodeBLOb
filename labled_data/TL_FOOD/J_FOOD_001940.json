@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001940",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-30",
+        "domain": "음식점",
+        "title": "NOLBOO GARDEN ( 놀부갈비 )"
+    },
+    "text": "NOLBOO GARDEN ( 놀부갈비 )\n京畿道 平沢市 浦升邑 浦升郷南路7\n韓国式BBQメニューが味わえる店です。おすすめは霜降り韓牛ロースです。京畿道のピョンテク市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "このレストランの名前は何ですか？",
+            "answer": "このレストランの名前はNOLBOO GARDEN（놀부갈비）です。"
+        },
+        {
+            "question": "このレストランはどこにありますか？",
+            "answer": "このレストランは京畿道（경기도）平沢市（평택시）浦升邑（평택읍）浦升郷南路7（평택읍 남로 7）に位置しています。"
+        },
+        {
+            "question": "このレストランではどのようなメニューがありますか？",
+            "answer": "このレストランでは韓国式BBQメニューが味わえます。特におすすめは霜降り韓牛ロースです。"
+        },
+        {
+            "question": "このレストランはどのような特徴がありますか？",
+            "answer": "このレストランは京畿道のピョンテク市に位置した韓食専門店です。"
+        }
+    ],
+    "word_Count": {
+        "text": 73,
+        "QA": 179
+    }
+}

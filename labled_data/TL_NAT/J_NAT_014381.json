@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_014381",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101933",
+        "collectedDate": "2023-10-06",
+        "publishedDate": "2020-01-01",
+        "domain": "자연관광",
+        "title": "의암호"
+    },
+    "text": "衣岩湖 \\n\n衣岩湖（レイクウイアム）は江原特別自治道春川市に位置する湖である。面積は17km2、幅は5km、長さは約8km、流域面積は7,709km2、総貯水容量は約8,000万トン（トン）だ。\\n\n",
+    "QA": [
+        {
+            "question": "衣岩湖はどこに位置していますか？",
+            "answer": "衣岩湖は江原特別自治道春川市に位置しています。"
+        },
+        {
+            "question": "衣岩湖の面積は何平方キロメートルですか？",
+            "answer": "衣岩湖の面積は17km2です。"
+        },
+        {
+            "question": "衣岩湖の幅は何キロメートルですか？",
+            "answer": "衣岩湖の幅は5kmです。"
+        },
+        {
+            "question": "衣岩湖の長さは何キロメートルですか？",
+            "answer": "衣岩湖の長さは約8kmです。"
+        },
+        {
+            "question": "衣岩湖の流域面積は何平方キロメートルですか？",
+            "answer": "衣岩湖の流域面積は7,709km2です。"
+        },
+        {
+            "question": "衣岩湖の総貯水容量は何トンですか？",
+            "answer": "衣岩湖の総貯水容量は約8,000万トンです。"
+        }
+    ],
+    "word_Count": {
+        "text": 74,
+        "QA": 158
+    }
+}

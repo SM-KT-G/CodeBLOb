@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_020213",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=844&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=01040000&ccbaCtcd=35&ccbaCpno=2333501040000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2000-03-31",
+        "domain": "문화/역사관광",
+        "title": "사자사지"
+    },
+    "text": "獅子寺跡 (사자사지)\\n\n全羅北道益山市金馬面新龍里609-1番地\\n\n全羅北道記念物 , 弥勒山頂付近にある獅子寺跡である。 獅子寺は弥勒寺より先に創建された寺院で、百済の武王と宣和碑がこの獅子寺に行幸していたところ、龍華山の下の池で弥勒三尊仏が現れると、これを契機に「弥勒寺」を創建したという。 弥勒寺創建のきっかけを作った点で百済仏教史上重要なこの寺は位置において議論があったが、1993年の発掘調査で瓦礫が発見されたことで獅子寺跡であることが確認された。 昔の姿は見つからず、現在は釈迦牟尼を祀った大雄殿と僧侶たちが起居する寮舎、そして倉庫などがあり、大雄殿の前に石塔1基が残っている。",
+    "QA": [
+        {
+            "question": "獅子寺跡はどこにありますか？",
+            "answer": "獅子寺跡は全羅北道益山市金馬面新龍里609-1番地にあります。"
+        },
+        {
+            "question": "獅子寺はいつ創建されましたか？",
+            "answer": "獅子寺は弥勒寺より先に創建されました。"
+        },
+        {
+            "question": "獅子寺は何のために創建されましたか？",
+            "answer": "獅子寺は百済の武王と宣和碑が行幸していたところ、弥勒三尊仏が現れたことを契機に「弥勒寺」を創建するために作られました。"
+        },
+        {
+            "question": "獅子寺跡はいつ発掘調査されましたか？",
+            "answer": "獅子寺跡は1993年の発掘調査で発見されました。"
+        },
+        {
+            "question": "獅子寺跡には何が残っていますか？",
+            "answer": "獅子寺跡には大雄殿と僧侶たちが起居する寮舎、そして倉庫などが残っています。また、大雄殿の前に石塔1基も残っています。"
+        }
+    ],
+    "word_Count": {
+        "text": 218,
+        "QA": 199
+    }
+}

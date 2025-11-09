@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_029482",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=768&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=00100000&ccbaCtcd=22&ccbaCpno=2332200100000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1992-09-08",
+        "domain": "자연관광",
+        "title": "국우동탱자나무"
+    },
+    "text": "大邱広域市記念物の中にはカラタチがある。カラタチは主に慶尚・全羅道地方に分布するが、日本と中国でも育つ木だ。これらの木は中国から伝わったと推測される。カラタチは実と皮が薬剤に使用され、茎にはとげがあり、垣根用としても適している。大邱広域市の極右同意ベジョンヒョン氏の自宅裏庭には古いカラタチ三株が育っているが、これらの木は、一本が400年近い年で見られる。そのうち西側の丘に立っているカラタチは地面近くでいくつかに枝が伸びて出てミッドゥルレが1.7mに達する。東端に立っているカラタチは高さ0.7mでミッドゥルレは1.4mだ。枝は、東南に伸びて生えている。大邱広域市の極右同意カラタチは大きさと受領が他の記念物と比較しても遜色がないものと見られる。それでこれらの木は記念物に指定されて保護されている。",
+    "QA": [
+        {
+            "question": "カラタチはどの地域で主に分布していますか？",
+            "answer": "慶尚・全羅道地方に主に分布しています。"
+        },
+        {
+            "question": "カラタチは何に使用される木ですか？",
+            "answer": "カラタチは実と皮が薬剤に使用され、また茎にはとげがあり、垣根用としても適しています。"
+        },
+        {
+            "question": "極右同意ベジョンヒョン氏の自宅裏庭に育っているカラタチの特徴は何ですか？",
+            "answer": "極右同意ベジョンヒョン氏の自宅裏庭に育っているカラタチは、一本が400年近い年であり、その中で西側の丘に立っているカラタチは地面近くでいくつかに枝が伸びて出てミッドゥルレが1.7mに達し、東端に立っているカラタチは高さ0.7mでミッドゥルレは1.4mです。枝は、東南に伸びて生えています。"
+        },
+        {
+            "question": "カラタチはどのような記念物に指定されていますか？",
+            "answer": "カラタチは大邱広域市の記念物に指定されて保護されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 256,
+        "QA": 243
+    }
+}

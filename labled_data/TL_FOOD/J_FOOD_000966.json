@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_000966",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-05",
+        "domain": "음식점",
+        "title": "1994現代炭火カルビ ( 1994현대숯불갈비 )"
+    },
+    "text": "1994現代炭火カルビ ( 1994현대숯불갈비 )\\n\n江原道 原州市 チャンミゴンウォンギル43-4\\n\n1994年から営業している店です。江原道のウォンジュ市に位置した韓食専門店です。代表的なメニューは炭火カルビです。",
+    "QA": [
+        {
+            "question": "このお店はいつ営業を始めましたか？",
+            "answer": "1994年から営業しています。"
+        },
+        {
+            "question": "このお店はどこに位置していますか？",
+            "answer": "江原道の原州市チャンミゴンウォンギル43-4に位置しています。"
+        },
+        {
+            "question": "このお店の代表的なメニューは何ですか？",
+            "answer": "代表的なメニューは炭火カルビです。"
+        }
+    ],
+    "word_Count": {
+        "text": 82,
+        "QA": 85
+    }
+}

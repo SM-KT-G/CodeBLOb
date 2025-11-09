@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_030105",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/yu-yuan",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "YU YUAN"
+    },
+    "text": "YU YUAN\\n\nソウル特別市 鍾路区 セムナン路97\\n\n上海の名所である美しい庭園「豫園」から名づけられた「YU YUAN」は、1920年代の上海をイメージした華やかさと豊かさが感じられる空間で、広東料理を中心に、北京ダックやさまざまな地域の郷土料理などを味わえます。",
+    "QA": [
+        {
+            "question": "YU YUANはどこに位置していますか？",
+            "answer": "YU YUANはソウル特別市鍾路区セムナン路97に位置しています。"
+        },
+        {
+            "question": "YU YUANはどのような雰囲気のレストランですか？",
+            "answer": "YU YUANは1920年代の上海をイメージした華やかさと豊かさが感じられるレストランです。"
+        },
+        {
+            "question": "YU YUANではどのような料理が味わえますか？",
+            "answer": "YU YUANでは広東料理を中心に、北京ダックやさまざまな地域の郷土料理などを味わうことができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 100,
+        "QA": 145
+    }
+}

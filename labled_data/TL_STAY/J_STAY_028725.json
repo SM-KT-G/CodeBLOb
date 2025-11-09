@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_028725",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42030&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "포항 양포등대펜션"
+    },
+    "text": "浦項に位置する家族や団体のための海釣りペンションでは、個別バーベキュー施設を提供しています。 休暇を楽しみながらバーベキューを楽しむことができる空間を提供し、リラックスできる空間を提供します。 屋外および個別バーベキュー施設をご利用いただけますし、バーベキューに必要な炭とグリルのセットもご用意しております。 バーベキューの利用料は20,000ウォンで、時間は18:00から21:00までです。 また、客室内では無料Wi-Fiを提供しており、便利なインターネット利用が可能です。 周辺には揚浦防波堤や海水浴場があり、観光にも便利です。",
+    "QA": [
+        {
+            "question": "このペンションはどこに位置していますか？",
+            "answer": "このペンションは浦項に位置しています。"
+        },
+        {
+            "question": "このペンションはどのような施設を提供していますか？",
+            "answer": "このペンションでは個別バーベキュー施設を提供しています。"
+        },
+        {
+            "question": "バーベキューの利用料金はいくらですか？",
+            "answer": "バーベキューの利用料は20,000ウォンです。"
+        },
+        {
+            "question": "バーベキューは何時から何時まで利用できますか？",
+            "answer": "バーベキューは18:00から21:00まで利用できます。"
+        },
+        {
+            "question": "客室内で利用できるものはありますか？",
+            "answer": "客室内では無料Wi-Fiを提供しています。"
+        },
+        {
+            "question": "周辺には何がありますか？",
+            "answer": "周辺には揚浦防波堤や海水浴場があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 195,
+        "QA": 187
+    }
+}

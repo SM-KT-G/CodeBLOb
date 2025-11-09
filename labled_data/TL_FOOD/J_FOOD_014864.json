@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_014864",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "ユンガネプデチゲ ( 윤가네부대찌게 )"
+    },
+    "text": "ユンガネプデチゲ ( 윤가네부대찌게 )\n慶尚北道 安東市 ウムシクウィキル 39\nプデチゲと様々な料理が味わえる店です。おすすめはプデチゲです。慶尚北道のアンドン市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "ユンガネプデチゲはどんな料理がありますか？",
+            "answer": "ユンガネプデチゲでは、プデチゲと様々な料理が味わえます。"
+        },
+        {
+            "question": "ユンガネプデチゲはどこに位置していますか？",
+            "answer": "ユンガネプデチゲは慶尚北道のアンドン市に位置しています。"
+        },
+        {
+            "question": "ユンガネプデチゲのおすすめは何ですか？",
+            "answer": "ユンガネプデチゲのおすすめはプデチゲです。"
+        }
+    ],
+    "word_Count": {
+        "text": 70,
+        "QA": 101
+    }
+}

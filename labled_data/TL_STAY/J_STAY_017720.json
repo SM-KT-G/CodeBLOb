@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_017720",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42041&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "광주 호텔 더 스팟"
+    },
+    "text": "'家のように快適な空間''をコンセプトに、データイムからナイトタイムまでの24時間、アーバンヒーリングスペース(Urban Healing Space)を体験できるホテルです。 光州先端科学技術院、光州地方統合洞庁舎、光州報勲病院、南部大学などが近くに位置しています。 徒歩3分以内に栄山江トレッキングコースに隣接しており、徒歩トレッキング、自転車トレッキングが楽しめます。",
+    "QA": [
+        {
+            "question": "このホテルのコンセプトは何ですか？",
+            "answer": "家のように快適な空間をコンセプトにしています。"
+        },
+        {
+            "question": "このホテルの近くにどのような施設がありますか？",
+            "answer": "光州先端科学技術院、光州地方統合洞庁舎、光州報勲病院、南部大学などが近くに位置しています。"
+        },
+        {
+            "question": "このホテルの周辺で楽しめるアクティビティはありますか？",
+            "answer": "徒歩3分以内に栄山江トレッキングコースに隣接しており、徒歩トレッキング、自転車トレッキングが楽しめます。"
+        }
+    ],
+    "word_Count": {
+        "text": 137,
+        "QA": 137
+    }
+}

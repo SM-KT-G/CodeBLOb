@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_018639",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42030&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "포항 레드하우스오션힐즈 풀빌라"
+    },
+    "text": "驚異的な海をそのまま抱いたプールビラ RED HOUSE OCEAN HILLSは2022年10月31日から2023年3月31日まで、ぬるま湯インフィニティプールの冬季利用を中断します。 夜21時以降の入室をご希望のお客様は予めご連絡ください。 退室後は、全客室でコロナ防疫消毒を徹底しています。 また、客室外をご利用の際には、必ずマスクを着用してください。",
+    "QA": [
+        {
+            "question": "冬季利用が中断される期間はいつですか？",
+            "answer": "冬季利用の中断期間は2022年10月31日から2023年3月31日までです。"
+        },
+        {
+            "question": "夜21時以降に入室する場合はどうすればいいですか？",
+            "answer": "夜21時以降に入室を希望する場合は、事前にご連絡ください。"
+        },
+        {
+            "question": "退室後の消毒対策はどのように行われていますか？",
+            "answer": "退室後、全客室でコロナ防疫消毒が徹底されています。"
+        },
+        {
+            "question": "客室外を利用する際には何か注意事項はありますか？",
+            "answer": "客室外を利用する際には、必ずマスクを着用してください。"
+        }
+    ],
+    "word_Count": {
+        "text": 131,
+        "QA": 154
+    }
+}

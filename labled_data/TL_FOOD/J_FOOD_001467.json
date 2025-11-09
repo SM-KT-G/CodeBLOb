@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001467",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/better-than-beef",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "Better than Beef"
+    },
+    "text": "Better than Beef\\n\nソウル特別市 江南区 新沙洞 514-9, B1~1階\\n\n独自のサムギョプサルフュージョン料理を味わうことができる「Better than Beef」です。 バラエティサムギョプサルを注文すると、クリームソースを下に敷いて熟したサムギョプサルにハルラピニョがのせられて出されます。 クリームソースとサムギョプサルの調和のとれた味を感じることができます。 さわやかなリコッタドリームマッコリ追加して食べるお客さんが多いです。",
+    "QA": [
+        {
+            "question": "Better than Beefはどこにありますか？",
+            "answer": "Better than Beefはソウル特別市江南区新沙洞514-9、B1〜1階にあります。"
+        },
+        {
+            "question": "Better than Beefではどのような料理を楽しむことができますか？",
+            "answer": "Better than Beefでは独自のサムギョプサルフュージョン料理を楽しむことができます。"
+        },
+        {
+            "question": "バラエティサムギョプサルを注文すると、どのような料理が出されますか？",
+            "answer": "バラエティサムギョプサルを注文すると、クリームソースを下に敷いて熟したサムギョプサルにハルラピニョがのせられて出されます。"
+        },
+        {
+            "question": "Better than Beefのクリームソースとサムギョプサルの味の特徴は何ですか？",
+            "answer": "Better than Beefのクリームソースとサムギョプサルの調和の取れた味を感じることができます。"
+        },
+        {
+            "question": "おすすめの食べ方はありますか？",
+            "answer": "さわやかなリコッタドリームマッコリを追加して食べるお客さんが多いです。"
+        }
+    ],
+    "word_Count": {
+        "text": 169,
+        "QA": 291
+    }
+}

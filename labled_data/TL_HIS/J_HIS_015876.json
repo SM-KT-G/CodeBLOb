@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_015876",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-23",
+        "domain": "문화/역사관광",
+        "title": "馬山駅（마산역）"
+    },
+    "text": "馬山駅\n慶尙南道 昌原市 馬山会原区 馬山駅広場路 18\n馬山駅は、ソウル、釜山（釜田駅）、順天（木浦）方面への各種便が運行されている駅です。2010年12月15日からは、ソウル駅まで乗換なしで行くことができるようになりました。",
+    "QA": [
+        {
+            "question": "マウント馬山駅はどの地域に位置していますか？",
+            "answer": "馬山駅は慶尙南道の昌原市馬山会原区に位置しています。"
+        },
+        {
+            "question": "馬山駅からどの都市への列車が運行されていますか？",
+            "answer": "馬山駅からはソウル、釜山（釜田駅）、順天（木浦）方面への列車が運行されています。"
+        },
+        {
+            "question": "馬山駅は2010年12月15日からどの列車の乗換なしで行くことができるようになりましたか？",
+            "answer": "馬山駅は2010年12月15日からソウル駅まで乗換なしで行くことができるようになりました。"
+        }
+    ],
+    "word_Count": {
+        "text": 83,
+        "QA": 148
+    }
+}

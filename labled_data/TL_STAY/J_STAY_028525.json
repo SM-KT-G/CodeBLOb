@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_028525",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42001&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "올림픽 파크텔"
+    },
+    "text": "特級ホテルでは、高級感のあるインテリアと高品質のサービスをご体験いただけます。 このホテルは都心の中に位置し、周辺には青い森と素敵な夜景が鑑賞できる遊歩道があります。 また相馬美術館、音楽噴水、オリンピックスケート場など様々な楽しみどころがあります。 これらすべての豊富な施設を利用して楽しい時間を過ごすことができます。",
+    "QA": [
+        {
+            "question": "このホテルの特徴は何ですか？",
+            "answer": "特級ホテルでは、高級感のあるインテリアと高品質のサービスをご体験いただけます。"
+        },
+        {
+            "question": "ホテルの立地はどうですか？",
+            "answer": "このホテルは都心の中に位置しています。"
+        },
+        {
+            "question": "周辺にはどんな自然の景色がありますか？",
+            "answer": "周辺には青い森と素敵な夜景が鑑賞できる遊歩道があります。"
+        },
+        {
+            "question": "近くにはどんな観光スポットがありますか？",
+            "answer": "相馬美術館、音楽噴水、オリンピックスケート場など様々な楽しみどころがあります。"
+        },
+        {
+            "question": "このホテルで楽しめる施設は何がありますか？",
+            "answer": "豊富な施設を利用して楽しい時間を過ごすことができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 117,
+        "QA": 175
+    }
+}

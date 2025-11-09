@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_029832",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/kojima",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "KOJIMA"
+    },
+    "text": "KOJIMA\\n\nソウル特別市 江南区 狎鴎亭路60キル21 )\\n\n「KOJIMA（こじま）」は、パク・キョンジェ氏が食材にこだわり、情熱をもってにぎる寿司を味わえるお店です。",
+    "QA": [
+        {
+            "question": "KOJIMAはどこにありますか？",
+            "answer": "KOJIMAはソウル特別市 江南区 狎鴎亭路60キル21にあります。"
+        },
+        {
+            "question": "KOJIMAでどのような寿司が味わえますか？",
+            "answer": "KOJIMAでは、パク・キョンジェ氏が食材にこだわり、情熱をもってにぎる寿司を味わうことができます。"
+        },
+        {
+            "question": "KOJIMAの特徴は何ですか？",
+            "answer": "KOJIMAの特徴は、食材にこだわり、情熱をもってにぎられる寿司を提供していることです。"
+        }
+    ],
+    "word_Count": {
+        "text": 65,
+        "QA": 132
+    }
+}

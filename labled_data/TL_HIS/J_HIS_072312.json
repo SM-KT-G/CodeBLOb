@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_072312",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/view?relicId=35831354",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "벽화 조각"
+    },
+    "text": "壁画彫刻 (벽화 조각)\\n\n国籍/時代: 「韓国の高句麗時代」のその他という楽器について書かれた壁画です。 材質: このその他の材質もその他で作られています。 分類: この壁画は文化芸術の一環として、書画の中でも特に壁画に分類されます。 サイズ: 現在の長さは95cm、幅は82cmです。",
+    "QA": [
+        {
+            "question": "この壁画はどの国のどの時代のものですか？",
+            "answer": "この壁画は韓国の高句麗時代のものです。"
+        },
+        {
+            "question": "この壁画はどのような材料で作られていますか？",
+            "answer": "この壁画はその他の材料で作られています。"
+        },
+        {
+            "question": "この壁画は何に分類されますか？",
+            "answer": "この壁画は文化芸術の一環として、壁画に分類されます。"
+        },
+        {
+            "question": "この壁画の現在のサイズはどれくらいですか？",
+            "answer": "この壁画の現在の長さは95cm、幅は82cmです。"
+        }
+    ],
+    "word_Count": {
+        "text": 106,
+        "QA": 123
+    }
+}

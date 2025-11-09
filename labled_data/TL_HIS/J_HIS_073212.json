@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_073212",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=638&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=04250000&ccbaCtcd=11&ccbaCpno=2111104250000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2018-07-12",
+        "domain": "문화/역사관광",
+        "title": "봉은사 판전"
+    },
+    "text": "ソウル特別市有形文化財である\"奉恩寺板殿\"はソウル特別市江南区三成洞に位置しています。この建物は1856年に創建され、1878年に改修されており、断層切妻家木造建築物に奉恩寺内で最も古い建築物なんです。奉恩寺板殿は経板を保管する藏經閣であり、仏前で使用されるビルで、経板の保管・礼拝機能を併用するため、特異な扉構成を備えています。建築的にも希少性を持っています。この建物の正面オカンの軒には'板殿'という文字が彫られており、これは、秋史金正喜(1786~1856)の字です。現在この建物はソウル特別市有形文化財に指定されています。",
+    "QA": [
+        {
+            "question": "奉恩寺板殿はどこに位置していますか？",
+            "answer": "奉恩寺板殿はソウル特別市江南区三成洞に位置しています。"
+        },
+        {
+            "question": "奉恩寺板殿はいつ建てられましたか？",
+            "answer": "奉恩寺板殿は1856年に創建されました。"
+        },
+        {
+            "question": "奉恩寺板殿は何に使われていましたか？",
+            "answer": "奉恩寺板殿は経板を保管する藏經閣であり、仏前で使用されるビルでした。"
+        },
+        {
+            "question": "奉恩寺板殿の特徴は何ですか？",
+            "answer": "奉恩寺板殿は断層切妻家木造建築物であり、特異な扉構成を備えています。"
+        },
+        {
+            "question": "奉恩寺板殿は現在何に指定されていますか？",
+            "answer": "奉恩寺板殿はソウル特別市有形文化財に指定されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 194,
+        "QA": 167
+    }
+}

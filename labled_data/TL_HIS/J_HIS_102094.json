@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_102094",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/collectionList#######",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2023-10-11",
+        "domain": "문화/역사관광",
+        "title": "조선도자 백자청화매죽문연적"
+    },
+    "text": "朝鮮陶磁白磁清華梅竹門硯滴 (조선도자 백자청화매죽문연적)\\n\n朝鮮陶磁の一つである白磁青華梅竹門硯滴は、ソウルの野守健所長によって管理されています。この作品は、韓国が日本による植民地支配を受けていた当時に作られました。素材は、ガラスや宝石が使用されており、分類はメディアの一部であり、記録物のフィルムとして扱われています。サイズは、横164cm、縦119cmです。",
+    "QA": [
+        {
+            "question": "何が野守健所長によって管理されていますか？",
+            "answer": "白磁青華梅竹門硯滴が管理されています。"
+        },
+        {
+            "question": "この作品はいつ作られましたか？",
+            "answer": "この作品は日本による植民地支配を受けていた当時に作られました。"
+        },
+        {
+            "question": "この作品の素材には何が使用されていますか？",
+            "answer": "ガラスや宝石が使用されています。"
+        },
+        {
+            "question": "この作品のサイズはどのくらいですか？",
+            "answer": "横164cm、縦119cmです。"
+        }
+    ],
+    "word_Count": {
+        "text": 134,
+        "QA": 115
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_037851",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=533&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=02100000&ccbaCtcd=37&ccbaCpno=2113702100000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1985-10-15",
+        "domain": "문화/역사관광",
+        "title": "용궁향교"
+    },
+    "text": "龍宮郷校 (용궁향교)\\n\n慶尚北道醴泉郡龍宮面龍宮郷校路59(香石里)\\n\n慶尚北道有形文化財、郷校は立派な儒学者を祭祀し、地方民の儒学教育と教化のために国で建てた教育機関である。朝鮮太祖7年(1398)に現在の位置から東に100m地点に建てられ、壬辰倭乱の時に焼失したものを宣祖36年(1603)に大成殿と明倫堂を、仁祖14年(1636)に洗心楼を建て直して今日に至る。 出入り口である外三門、休憩空間である細心楼、勉強する所である明倫堂、祠堂である大成殿などが一直線に立っている。 また、明倫堂が前にあり、大成殿が後にある転校後墓の形になっている。 朝鮮時代には国家から土地と戦績·奴婢などを受けて学生たちを教えたが、甲午改革(1894)以後、祭祀だけが行われている。",
+    "QA": [
+        {
+            "question": "この郷校はどのような教育機関ですか？",
+            "answer": "龍宮郷校は慶尚北道醴泉郡龍宮面に位置する地方民の儒学教育と教化のために国で建てられた教育機関です。"
+        },
+        {
+            "question": "龍宮郷校はいつ建てられましたか？",
+            "answer": "龍宮郷校は朝鮮太祖7年(1398)に現在の位置から東に100m地点に建てられました。"
+        },
+        {
+            "question": "龍宮郷校は何を祭祀していますか？",
+            "answer": "龍宮郷校では立派な儒学者を祭祀しています。"
+        },
+        {
+            "question": "龍宮郷校にはどのような建物がありますか？",
+            "answer": "龍宮郷校には外三門、細心楼、明倫堂、大成殿などの建物があります。"
+        },
+        {
+            "question": "龍宮郷校はどのような形状をしていますか？",
+            "answer": "龍宮郷校は明倫堂が前にあり、大成殿が後にある転校後墓の形状をしています。"
+        },
+        {
+            "question": "龍宮郷校は現在も教育機関として使用されていますか？",
+            "answer": "甲午改革(1894)以後、龍宮郷校は教育機関としては使用されておらず、祭祀の場として使われています。"
+        }
+    ],
+    "word_Count": {
+        "text": 247,
+        "QA": 253
+    }
+}

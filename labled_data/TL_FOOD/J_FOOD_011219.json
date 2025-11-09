@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_011219",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-05",
+        "domain": "음식점",
+        "title": "ネゴヒャン食堂 ( 내고향식당 )"
+    },
+    "text": "ネゴヒャン食堂 ( 내고향식당 )\\n\n慶尚北道 アンドン市 プンサン邑 オランアンギル15\\n\n安東を代表する料理であるチムダクが味わえる店です。おすすめはチムダクです。慶尚北道のアンドン市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "ネゴヒャン食堂はどこに位置していますか？",
+            "answer": "ネゴヒャン食堂は慶尚北道のアンドン市に位置しています。"
+        },
+        {
+            "question": "ネゴヒャン食堂のおすすめ料理は何ですか？",
+            "answer": "ネゴヒャン食堂のおすすめはチムダクです。"
+        },
+        {
+            "question": "ネゴヒャン食堂では何を味わうことができますか？",
+            "answer": "ネゴヒャン食堂では、慶尚北道を代表する料理であるチムダクを味わうことができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 79,
+        "QA": 110
+    }
+}

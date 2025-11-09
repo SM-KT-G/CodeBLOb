@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_022037",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2020-11-12",
+        "domain": "음식점",
+        "title": "秘苑( 비원 )"
+    },
+    "text": "秘苑( 비원 )\\n\n済州特別自治道 済州市 樹木園キル 3-1\\n\n2代目が経営するサムゲタン専門店です。 済州特別自治道のジェジュ市に位置した韓国料理店です。おすすめはサムゲタンです。",
+    "QA": [
+        {
+            "question": "秘苑( 비원 )はどこにありますか？",
+            "answer": "秘苑( 비원 )は済州特別自治道 済州市 樹木園キル 3-1に位置しています。"
+        },
+        {
+            "question": "秘苑( 비원 )の特徴は何ですか？",
+            "answer": "秘苑( 비원 )はサムゲタン専門店です。"
+        },
+        {
+            "question": "サムゲタンとは何ですか？",
+            "answer": "サムゲタンは韓国の料理で、秘苑( 비원 )のおすすめメニューです。"
+        },
+        {
+            "question": "秘苑( 비원 )の場所はどのように行けば良いですか？",
+            "answer": "秘苑( 비원 )へは、済州特別自治道のジェジュ市に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 68,
+        "QA": 145
+    }
+}

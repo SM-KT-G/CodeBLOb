@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_081793",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=469&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=01240000&ccbaCtcd=34&ccbaCpno=2113401240000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1987-08-03",
+        "domain": "문화/역사관광",
+        "title": "석성동헌"
+    },
+    "text": "石城東軒\\n\n忠清南道扶余郡石城面石城路124(石城里)\\n\n忠清南道有形文化財、東軒は朝鮮時代の地方官衙建物で町の受領が一般行政業務や裁判など公的であることを行ったところだ。石城東軒は記録によれば、仁祖6年(1628)に建てられ、のちに数回修理を経て今日に至っている。石城は本来、百済のジンアクサンヒョンだったが、高麗初期に石城と名前が変わった。朝鮮太宗(チョソン・テジョン)の15年(1415)に県が設置されて後に軍になっており、1914年に面となった。前面4間・側面3間に一軒(ひとのき)であり、屋根は側面が八(八部)字形の入母屋屋根である。石城面事務所として使用されてきた韓国料理の建物で周辺に官衙建物がたくさんあったが、現在はこの建物の外に残っていない。",
+    "QA": [
+        {
+            "question": "この建物はいつ建てられましたか？",
+            "answer": "石城東軒は仁祖6年(1628)に建てられました。"
+        },
+        {
+            "question": "この建物は何のために使われていましたか？",
+            "answer": "この建物は町の受領が一般行政業務や裁判など公的な業務を行うために使用されていました。"
+        },
+        {
+            "question": "石城は元々何と呼ばれていましたか？",
+            "answer": "石城は本来、百済のジンアクサンヒョンと呼ばれていましたが、高麗初期に石城と改名されました。"
+        },
+        {
+            "question": "この建物の屋根の形はどのような形ですか？",
+            "answer": "この建物の屋根は側面が八(八部)字形の入母屋屋根です。"
+        },
+        {
+            "question": "この建物は現在も使用されていますか？",
+            "answer": "いいえ、この建物は石城面事務所として使用されてきましたが、現在は使用されていません。"
+        }
+    ],
+    "word_Count": {
+        "text": 243,
+        "QA": 198
+    }
+}

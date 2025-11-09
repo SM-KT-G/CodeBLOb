@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_010370",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1032&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=00950000&ccbaCtcd=31&ccbaCpno=3413100950000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2000-03-24",
+        "domain": "문화/역사관광",
+        "title": "군포 동래정씨 동래군파 종택"
+    },
+    "text": "軍浦東莱鄭氏東莱軍派宗宅 (군포 동래정씨 동래군파 종택)\\n\n京畿道軍浦市速達路110番キル20-11(速達洞)\\n\n朝鮮後期 , 京畿道文化財資料 , 軍浦東莱鄭氏東莱郡派宗宅は、始祖である東莱府院郡鄭蘭宗の位牌を奉安した祠堂がある宗家だ。 朝鮮前期の文臣であるチョン·ナンジョンの息子チョン·グァンボが父親の墓を作られた建てた建物として知られている。 この宗宅は中央にㄱ字で母屋を配置し、周辺にクンサランチェとチャクンサランチェを置き、南側に蔵のクァンチェを配置した。 北側に神主を祀る祠堂があり、南側の外側には馬小屋である馬房棟を置いた。 人の生活空間を中心にして周辺に祭礼を準備したり、客の移動を迎える空間を配置して宗家の機能性がうかがえる。 東莱郡派宗宅の母屋は上良門によると正祖7年(1783)に建てられ、サランチェは高宗14年(1877)に建てられたものと推定される。",
+    "QA": [
+        {
+            "question": "この宗宅は何のために建てられましたか？",
+            "answer": "東莱郡派宗宅は、始祖である東莱府院郡鄭蘭宗の位牌を奉安するために建てられました。"
+        },
+        {
+            "question": "この宗宅はいつ建てられましたか？",
+            "answer": "東莱郡派宗宅の母屋は正祖7年(1783)に建てられ、サランチェは高宗14年(1877)に建てられたと推定されています。"
+        },
+        {
+            "question": "この宗宅にはどのような建物がありますか？",
+            "answer": "この宗宅には中央にㄱ字で配置された母屋、周辺にクンサランチェとチャクンサランチェ、南側には蔵のクァンチェ、北側に神主を祀る祠堂、南側外側に馬小屋である馬房棟があります。"
+        },
+        {
+            "question": "この宗宅の機能性について教えてください。",
+            "answer": "この宗宅は人の生活空間を中心にして周辺に祭礼を準備したり、客の移動を迎える空間を配置して宗家の機能性を持っています。"
+        }
+    ],
+    "word_Count": {
+        "text": 288,
+        "QA": 231
+    }
+}

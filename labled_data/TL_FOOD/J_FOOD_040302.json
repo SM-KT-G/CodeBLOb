@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_040302",
+        "source": "도서",
+        "writer": "박정배",
+        "ISBN_ISNN": "978-89-9882-225-5",
+        "version": "초판",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "푸드 인 더 시티",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2016-09-29",
+        "domain": "음식점",
+        "title": "컵넛 주전몽돌점"
+    },
+    "text": "BE HAPPY DONUT WORRYは釜山でホットな行列に並んで食べるカップナッツです。 蔚山のチュジョンモンドル海辺でも楽しめます。 毎朝作る手作りドーナツを販売し、当日生産、当日消尽を原則として運営します。 ドーナツは刺激的でも派手でもありませんが、時間が経ってもコツコツと思い出させてくれます。 帰りは蔚山の朱田モンドル海辺に位置し、朱田海水浴場のバス停の横、朱田水炊きの横、朱田刺身屋の向かい側に位置しています。 メニューとしてはパスオーダー専用で100ウォン、アメリカーノとナッツ、そして様々なドーナツがあり、価格はそれぞれ3800ウォンから5800ウォンまで多様です。 また、さまざまな飲み物も販売しています。",
+    "QA": [
+        {
+            "question": "BE HAPPY DONUT WORRYはどこで購入できますか？",
+            "answer": "BE HAPPY DONUT WORRYは釜山や蔚山のチュジョンモンドル海辺で購入することができます。"
+        },
+        {
+            "question": "BE HAPPY DONUT WORRYのドーナツはどのような種類がありますか？",
+            "answer": "BE HAPPY DONUT WORRYではさまざまな種類のドーナツが販売されています。具体的な種類や価格はメニューによって異なります。"
+        },
+        {
+            "question": "BE HAPPY DONUT WORRYのドーナツはいつ作られますか？",
+            "answer": "BE HAPPY DONUT WORRYでは毎朝手作りのドーナツを作っています。当日生産、当日消尽を原則としています。"
+        },
+        {
+            "question": "BE HAPPY DONUT WORRYのドーナツは何ウォンから何ウォンまでですか？",
+            "answer": "BE HAPPY DONUT WORRYのドーナツの価格は3800ウォンから5800ウォンまでさまざまです。具体的な価格はメニューによって異なります。"
+        },
+        {
+            "question": "BE HAPPY DONUT WORRYの近くには何がありますか？",
+            "answer": "BE HAPPY DONUT WORRYは蔚山の朱田モンドル海辺に位置しています。近くには朱田海水浴場や朱田水炊き、朱田刺身屋などがあります。"
+        },
+        {
+            "question": "BE HAPPY DONUT WORRYではどんな飲み物も販売していますか？",
+            "answer": "BE HAPPY DONUT WORRYではさまざまな飲み物も販売しています。具体的な種類や価格はメニューによって異なります。"
+        }
+    ],
+    "word_Count": {
+        "text": 229,
+        "QA": 445
+    }
+}

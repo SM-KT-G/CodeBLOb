@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_007599",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-08-27",
+        "domain": "음식점",
+        "title": "ジデバン ( 지대방 )"
+    },
+    "text": "ジデバン ( 지대방 )\\n\nソウル特別市 鐘路区 インサドンギル33\\n\nお茶の飲み方を学ぶことができる伝統茶屋です。ソウル特別市のチョンノ区に位置したカフェ（コーヒーショップ）です。代表的なメニューは菊茶です。",
+    "QA": [
+        {
+            "question": "ジデバンはどこに位置していますか？",
+            "answer": "ジデバンはソウル特別市のチョンノ区に位置しています。"
+        },
+        {
+            "question": "ジデバンで学べることは何ですか？",
+            "answer": "ジデバンではお茶の飲み方を学ぶことができます。"
+        },
+        {
+            "question": "ジデバンで代表的なメニューは何ですか？",
+            "answer": "ジデバンの代表的なメニューは菊茶です。"
+        }
+    ],
+    "word_Count": {
+        "text": 78,
+        "QA": 88
+    }
+}

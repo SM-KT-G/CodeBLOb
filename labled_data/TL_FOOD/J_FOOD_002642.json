@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_002642",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-07",
+        "domain": "음식점",
+        "title": "アンドングクバブ&ボンピョンメミルチョン（안동국밥&봉평메밀촌）"
+    },
+    "text": "アンドングクバブ&ボンピョンメミルチョン\\n\n仁川広域市 延寿区 アートセンター大路 107\\n\n仁川広域市のヨンス区に位置した韓国料理店です。代表的なメニューは牛肉クッパです。安東クッパは牛肉スープ料理で、ご飯が入っています。",
+    "QA": [
+        {
+            "question": "このお店の名前は何ですか？",
+            "answer": "アンドングクバブ&ボンピョンメミルチョンです。"
+        },
+        {
+            "question": "このお店の場所はどこですか？",
+            "answer": "仁川広域市延寿区アートセンター大路107番地にあります。"
+        },
+        {
+            "question": "このお店の代表的なメニューは何ですか？",
+            "answer": "牛肉クッパです。"
+        },
+        {
+            "question": "安東クッパとはどんな料理ですか？",
+            "answer": "安東クッパは牛肉スープ料理で、ご飯が入っています。"
+        }
+    ],
+    "word_Count": {
+        "text": 83,
+        "QA": 107
+    }
+}

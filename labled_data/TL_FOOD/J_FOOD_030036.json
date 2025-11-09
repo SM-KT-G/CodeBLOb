@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_030036",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/gangnam-gyoja-gangnam",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "江南餃子 本店"
+    },
+    "text": "江南餃子 本店\\n\nソウル特別市 瑞草区 瑞草洞 1308-1\\n\n明洞餃子で働いていた調理場が江南にオープンしたカルグッス専門店「江南餃子」です。 淡泊なカルグッスと餃子が提供されます。 月曜日~土曜日 10:30~22:00 日曜日 10:00~22:00",
+    "QA": [
+        {
+            "question": "江南餃子はどこにありますか？",
+            "answer": "江南餃子はソウル特別市瑞草区瑞草洞1308-1にあります。"
+        },
+        {
+            "question": "江南餃子の営業時間は何時から何時までですか？",
+            "answer": "月曜日から土曜日は10:30から22:00まで、日曜日は10:00から22:00まで営業しています。"
+        },
+        {
+            "question": "江南餃子ではどのような料理が提供されますか？",
+            "answer": "江南餃子では淡泊なカルグッスと餃子が提供されます。"
+        }
+    ],
+    "word_Count": {
+        "text": 95,
+        "QA": 118
+    }
+}

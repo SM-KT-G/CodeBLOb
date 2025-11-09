@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_087818",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=506&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=01740000&ccbaCtcd=31&ccbaCpno=2113101740000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2000-03-24",
+        "domain": "문화/역사관광",
+        "title": "안성청원사대웅전"
+    },
+    "text": "朝鮮時代中期に京畿道有形文化財は、建物が2001年修理の時に棟上げが発見され、1740年と1854年にそれぞれ大幅に受理された。建物の姿は自然石で積もった基壇の上の上に自然石の礎石と円柱本体を立てて、垂直に締め切られた切妻屋根を備えている。屋根の下軒と柱の間には恐怖がおいて建物の重さを支えて引き立たせている。前の恐怖にダポを置いており、後にはつの翼型を彫刻して掲載した。前の恐怖に厚い部材を用いたのは、壬辰倭乱以前の建築物でよく見られる特徴だ。チョンウォンサ、大雄殿はフロントは二重の軒に、後ろはホッチョいう構成されており、朝鮮後期の寺院建築の特徴を見せてくれる。特に建物の前面の恐怖では壬辰倭乱より以前の姿が見られるため、建物の歴史が朝鮮前期まで続くという意味がある。",
+    "QA": [
+        {
+            "question": "この建物はいつ修理されたのですか？",
+            "answer": "この建物は2001年に修理されました。"
+        },
+        {
+            "question": "建物の基地は何でできていますか？",
+            "answer": "建物の基地は自然石でできています。"
+        },
+        {
+            "question": "屋根の形はどのような形ですか？",
+            "answer": "建物の屋根は切妻屋根と呼ばれる形をしています。"
+        },
+        {
+            "question": "建物の前の恐怖には何が置かれていますか？",
+            "answer": "建物の前の恐怖にはダポが置かれています。"
+        },
+        {
+            "question": "この建物の歴史はどの時代までさかのぼりますか？",
+            "answer": "この建物の歴史は朝鮮前期までさかのぼります。"
+        }
+    ],
+    "word_Count": {
+        "text": 246,
+        "QA": 140
+    }
+}

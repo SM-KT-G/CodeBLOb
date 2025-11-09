@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_020685",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-03",
+        "domain": "음식점",
+        "title": "名声タッカンジョン ( 명성닭강정 )"
+    },
+    "text": "名声タッカンジョン ( 명성닭강정 )\\n\n江原道 ガンヌン市 グムソンロ13ボンギル5-1\\n\n韓国のグルメ番組で紹介された店です。江原道のガンヌン市に位置した韓食専門店です。おすすめはタッカンジョンです。",
+    "QA": [
+        {
+            "question": "名声タッカンジョンはどこに位置していますか？",
+            "answer": "名声タッカンジョンは江原道のガンヌン市に位置しています。"
+        },
+        {
+            "question": "名声タッカンジョンのおすすめメニューは何ですか？",
+            "answer": "名声タッカンジョンのおすすめメニューはタッカンジョンです。"
+        },
+        {
+            "question": "名声タッカンジョンはどのような店ですか？",
+            "answer": "名声タッカンジョンは韓食専門店です。"
+        }
+    ],
+    "word_Count": {
+        "text": 76,
+        "QA": 103
+    }
+}

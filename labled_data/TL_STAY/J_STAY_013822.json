@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_013822",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42080&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "인제 고사리쉼터펜션 운영 정책"
+    },
+    "text": "チェックイン時間は15:00で、チェックアウト時間は11:00までです。 チェックインとチェックアウトのご案内は以下の通りです。 入室利用についての案内事項は以下の通りです。 予約したお客様にはIPTV/WiFiを提供し、駐車が可能です。 また、バーベキュー利用時に追加料金がかかります。 4人基準では20,000ウォン、6人~7人基準では30,000ウォン、8人~10人基準では40,000ウォン、10人~15人基準では50,000ウォンです。 この宿は渓谷の近くに位置しています。",
+    "QA": [
+        {
+            "question": "チェックインの時間は何時ですか？",
+            "answer": "チェックイン時間は15:00です。"
+        },
+        {
+            "question": "チェックアウトの時間は何時ですか？",
+            "answer": "チェックアウト時間は11:00です。"
+        },
+        {
+            "question": "入室利用についての案内事項はありますか？",
+            "answer": "予約したお客様にはIPTV/WiFiを提供し、駐車が可能です。"
+        },
+        {
+            "question": "バーベキュー利用時には追加料金がかかりますか？",
+            "answer": "はい、バーベキュー利用時には追加料金がかかります。4人基準では20,000ウォン、6人〜7人基準では30,000ウォン、8人〜10人基準では40,000ウォン、10人〜15人基準では50,000ウォンです。"
+        },
+        {
+            "question": "この宿はどこに位置していますか？",
+            "answer": "この宿は渓谷の近くに位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 177,
+        "QA": 204
+    }
+}

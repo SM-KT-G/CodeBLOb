@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_008372",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1197&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=79&ccbaAsno=00730000&ccbaCtcd=36&ccbaCpno=4413600730000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2004-02-06",
+        "domain": "문화/역사관광",
+        "title": "고흥 소록도 구 녹산초등학교 교사"
+    },
+    "text": "高興小鹿島旧緑山小学校教師 (고흥 소록도 구 녹산초등학교 교사)\\n\n全羅南道高興郡道陽邑陽地会館キル35-6、外1筆地(小鹿里)\\n\n1935 , 国家登録文化財 , 1935年建設この建物はハンセン病患者のために設立された普通学校教師だ。 長方形の本館建物とトイレおよびシャワー室が回廊で連結されており、南側には教室を配置し北側に廊下を置くなど、今日の学校建築と類似して設計された。 ハンセン病患者を対象に自主的に設立した小学校という点で意味がある。",
+    "QA": [
+        {
+            "question": "この建物はいつ建設されましたか？",
+            "answer": "この建物は1935年に建設されました。"
+        },
+        {
+            "question": "この建物はどのような目的で使われていましたか？",
+            "answer": "この建物はハンセン病患者のために設立された普通学校として使われていました。"
+        },
+        {
+            "question": "この建物はどのような形状ですか？",
+            "answer": "この建物は長方形の形状をしています。"
+        },
+        {
+            "question": "この建物の特徴的な部分を教えてください。",
+            "answer": "この建物は本館建物とトイレおよびシャワー室が回廊で連結されており、教室が南側に配置されているなど、学校建築と類似した設計が特徴です。"
+        },
+        {
+            "question": "この建物はどのような意味を持っていますか？",
+            "answer": "この建物はハンセン病患者を対象に自主的に設立された小学校であり、その意味があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 167,
+        "QA": 203
+    }
+}

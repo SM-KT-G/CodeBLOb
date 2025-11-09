@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_034232",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=427&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=00680000&ccbaCtcd=38&ccbaCpno=2113800680000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1974-02-16",
+        "domain": "문화/역사관광",
+        "title": "함안 장춘사 오층석탑"
+    },
+    "text": "咸安長春寺五層石塔 (함안 장춘사 오층석탑)\\n\n慶尚南道咸安郡七北面永東里山14番地\\n\n慶尚南道有形文化財 , 長春寺大雄殿の前に立っている塔で、他のところにあったものをここに移してきたのだ。 本来は2階の基壇の上に5階の塔身を上げていたが、現在は4階まで残っている。 塔身の石はこの塔で最も注目される部分で、平面がすべて台形になるよう上面の幅を狭めた。 これは階数が上がるにつれて視覚的安定感を与えるためのものと考えられる。 屋根石は底面の支えを1·2階は3段、それ以上は全て2段を置き、水平を成していた軒は四隅から少し聞こえている。 頂上には頭飾りを支えていた四角い台石だけが残っている。 全体的に安定感よりは高くてシャープな感じを与えている。 各部分の様式や手法から見て、高麗後期に建てられたものと推定される。",
+    "QA": [
+        {
+            "question": "この咸安長春寺五層石塔は何階建てですか？",
+            "answer": "現在は4階まで残っています。"
+        },
+        {
+            "question": "なぜこの塔の上面の幅が狭くなっているのですか？",
+            "answer": "塔身の上面の幅を狭めることで、階数が上がるにつれて視覚的安定感を与えるためです。"
+        },
+        {
+            "question": "この塔の屋根石はどのように配置されていますか？",
+            "answer": "底面の支えを1·2階は3段、それ以上は全て2段を置き、水平を成していた軒は四隅から少し聞こえています。"
+        },
+        {
+            "question": "この塔はいつごろ建てられたものですか？",
+            "answer": "各部分の様式や手法から見て、高麗後期に建てられたものと推定されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 264,
+        "QA": 165
+    }
+}

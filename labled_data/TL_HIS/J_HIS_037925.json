@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_037925",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=527&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=02010000&ccbaCtcd=37&ccbaCpno=2113702010000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1985-10-15",
+        "domain": "문화/역사관광",
+        "title": "진보향교"
+    },
+    "text": "真宝郷校 (진보향교)\\n\n慶尚北道青松郡真宝面新韓2ギル63(広徳里)\\n\n慶尚北道有形文化財、郷校は立派な儒学者を祭祀し、地方民の留学教育と教化のために国が建てた教育機関だ 真宝郷校は朝鮮太宗4年(1404)に建てられた後、数回補修された。『青松郡誌』によると、建物は出入り口である外三門、勉強する所である明倫堂と東·西斎、祭祀を行う所である大成殿、本を保管する前史庁などがあったというが、現在は前史庁と東斎がない。 朝鮮時代には国家から土地と戦績·奴婢などを受けて学生たちを教えたが、甲午改革(1894)以後、祭祀だけが行われている。 保管していた戦績の大部分は燃えて残っている本の中で『遺案』、『チェイムロク』、『郷校有林案』などはこの地方郷土史研究に貴重な資料だけを数冊提供している。",
+    "QA": [
+        {
+            "question": "真宝郷校はいつ建てられましたか？",
+            "answer": "真宝郷校は朝鮮太宗4年(1404)に建てられました。"
+        },
+        {
+            "question": "真宝郷校はどのような教育機関ですか？",
+            "answer": "真宝郷校は国が建てた教育機関で、地方民の留学教育と教化のために設立されました。"
+        },
+        {
+            "question": "真宝郷校にはどのような建物がありますか？",
+            "answer": "真宝郷校には外三門、明倫堂、東斎、西斎、大成殿、前史庁などがありましたが、現在は前史庁と東斎がありません。"
+        },
+        {
+            "question": "真宝郷校では何を教えていましたか？",
+            "answer": "真宝郷校では儒学を教え、学生たちに土地や戦績、奴婢などを提供して教育を行っていました。"
+        },
+        {
+            "question": "真宝郷校の保管していた資料は何ですか？",
+            "answer": "真宝郷校は遺案、チェイムロク、郷校有林案などの本を保管しており、これらは地方郷土史研究に貴重な資料となっています。"
+        }
+    ],
+    "word_Count": {
+        "text": 254,
+        "QA": 225
+    }
+}

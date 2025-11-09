@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_013000",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1229&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=79&ccbaAsno=04620000&ccbaCtcd=33&ccbaCpno=4413304620000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2010-06-25",
+        "domain": "문화/역사관광",
+        "title": "대한민국 최초 항공기"
+    },
+    "text": "大韓民国初の航空機 (대한민국 최초 항공기)\\n\n忠清北道清州市上党区南一面双水里136\\n\n1940年 , 国家登録文化財 , 1940年代に米国で生産され、第2次世界大戦中に米陸軍が使用していた2人乗り連絡用軽航空機だ。 1948年9月13日、大韓民国空軍の前身である陸軍航空隊が米軍から買収した10機のうち1機で、韓国空軍として保有した最初の航空機だ。韓国戦争初期、後方席の観測士が爆弾を抱いて出撃·投擲して敵に大きな被害を与え、麗水·順天事件の鎮圧および智異山公費討伐作戦で空中支援任務を成功的に遂行した航空機で、以後陸軍に派遣され連絡、指揮官輸送、操縦士養成と整備士教育に使われたが1954年L-19連絡機導入により退役した機種で大韓民国空軍史に大きな足跡を残した遺物だ。",
+    "QA": [
+        {
+            "question": "この航空機はいつ、どこで作られましたか？",
+            "answer": "この航空機は1940年代に米国で生産されました。"
+        },
+        {
+            "question": "この航空機は何のために使用されていましたか？",
+            "answer": "この航空機は第2次世界大戦中に米陸軍が使用していた2人乗り連絡用軽航空機でした。"
+        },
+        {
+            "question": "大韓民国空軍が最初に保有した航空機は何でしたか？",
+            "answer": "大韓民国空軍が最初に保有した航空機は、陸軍航空隊が米軍から買収した10機のうち1機のことです。"
+        },
+        {
+            "question": "この航空機はどのような任務で使用されましたか？",
+            "answer": "この航空機は後方席の観測士が爆弾を抱いて出撃・投擲し、敵に大きな被害を与えるなど、空中支援任務を成功的に遂行しました。"
+        },
+        {
+            "question": "この航空機はいつ退役しましたか？",
+            "answer": "この航空機は1954年にL-19連絡機が導入されたことにより退役しました。"
+        }
+    ],
+    "word_Count": {
+        "text": 250,
+        "QA": 228
+    }
+}

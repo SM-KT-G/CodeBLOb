@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_030568",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42080&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "삼척 또바기펜션"
+    },
+    "text": "美しい長湖海辺に位置するトバギペンションで皆様を歓迎します。 長湖海辺は韓国のナポリと呼ばれる美しい海辺で、皆様に幸せな思い出と安らかな休息をお届けします。 ペンションの利用に関する重要な案内事項があります。 20時以降に入室する場合は、事前にペンションに連絡してお知らせください。 状況によっては入室できない場合がありますので、事前にご連絡をお願いします。",
+    "QA": [
+        {
+            "question": "トバギペンションはどこに位置していますか？",
+            "answer": "トバギペンションは美しい長湖海辺に位置しています。"
+        },
+        {
+            "question": "長湖海辺はどんな場所ですか？",
+            "answer": "長湖海辺は韓国のナポリと呼ばれる美しい海辺です。"
+        },
+        {
+            "question": "トバギペンションはどのような思い出と休息を提供してくれますか？",
+            "answer": "トバギペンションは皆様に幸せな思い出と安らかな休息を提供します。"
+        },
+        {
+            "question": "ペンション利用に関して重要な案内事項はありますか？",
+            "answer": "20時以降に入室する場合は、事前にペンションに連絡してお知らせください。状況によっては入室できない場合がありますので、事前にご連絡をお願いします。"
+        }
+    ],
+    "word_Count": {
+        "text": 131,
+        "QA": 179
+    }
+}

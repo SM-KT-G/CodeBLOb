@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_004830",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42080&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "속초 월드애견동반펜션"
+    },
+    "text": "こんにちは。一幅の絵のような全景が広がっている束草ワールド愛犬同伴ペンションです。 当ペンションは束草海水浴場徒歩1分距離に位置しており、旅行客に最適な便宜を提供しています。 バーベキューパーティーを楽しむことができる施設も備えており、大切な友達であるペットと一緒にいると、より楽しい思い出を作ることができます。",
+    "QA": [
+        {
+            "question": "ワールド愛犬同伴ペンションはどのような施設ですか？",
+            "answer": "ワールド愛犬同伴ペンションは束草海水浴場徒歩1分距離に位置しており、旅行客に最適な便宜を提供しています。"
+        },
+        {
+            "question": "ペットと一緒に宿泊することができますか？",
+            "answer": "はい、ペットと一緒に宿泊することができます。当ペンションは大切な友達であるペットと一緒にいると、より楽しい思い出を作ることができます。"
+        },
+        {
+            "question": "バーベキューパーティーが楽しめる施設がありますか？",
+            "answer": "はい、バーベキューパーティーを楽しむことができる施設も当ペンションには備えてあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 114,
+        "QA": 170
+    }
+}

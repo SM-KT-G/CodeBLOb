@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_091471",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1134&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=03820000&ccbaCtcd=34&ccbaCpno=3413403820000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2002-08-10",
+        "domain": "문화/역사관광",
+        "title": "예산일산이수정"
+    },
+    "text": "予算の一算が修正\\n\n忠清南道礼山郡新陽面西渓陽里106番地\\n\n忠清南道文化財資料、予算デスルで続く達川と青陽で続くジュクチョン遷移会ってイェダン貯水池に流れている地点に小山があるが、この小山の上に精子が東南郷して立っている。この東屋は正面3間・側面2間の比較的規模が大きな''一口''字型東屋である。秋史金正喜(1786∼1856)先生が地形地勢に沿って''一山(イルサン)の李水晶(イ・スジョン)''という東屋の名前をつけて扁額した。この建物は、朝鮮、憲宗15年(1849)にシンヤンウィ名詞だった李チョルス(李喆洙、1824∼1896)氏によって建立された予算地域を代表する東屋に伝えている。カンハク(講學)のために建設されたものと伝えられており、1920年頃には国文講習所を開設し、1923年には現新陽小学校の前身である信陽公立普通学校が開校時には創立教師(校舍)として活用された。一山(イルサン)の李水晶(イ・スジョン)は特別な風光を利用して建設した予算地域の代表的な東屋として、秋史・金正喜先生の親筆懸板を所蔵しており、近代初期の公教育の場として活用され、予算地域教育史に重要な意味を盛り込んでいる。",
+    "QA": [
+        {
+            "question": "この東屋は誰によって建立されましたか？",
+            "answer": "この東屋は李チョルス氏によって建立されました。"
+        },
+        {
+            "question": "東屋の名前は何ですか？",
+            "answer": "東屋の名前は『一山(イルサン)の李水晶(イ・スジョン)』という名前です。"
+        },
+        {
+            "question": "東屋は何のために建設されたと伝えられていますか？",
+            "answer": "東屋はカンハク(講學)のために建設されたと伝えられています。"
+        },
+        {
+            "question": "東屋には何の親筆懸板が所蔵されていますか？",
+            "answer": "東屋には秋史・金正喜先生の親筆懸板が所蔵されています。"
+        },
+        {
+            "question": "東屋は何の場として活用されたことがありますか？",
+            "answer": "東屋は近代初期の公教育の場として活用され、予算地域教育史に重要な意味を盛り込んでいます。"
+        }
+    ],
+    "word_Count": {
+        "text": 371,
+        "QA": 189
+    }
+}

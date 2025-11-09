@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_026815",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "注文津海鮮 ( 주문진해물 )"
+    },
+    "text": "注文津海鮮 ( 주문진해물 )\n江原道 ガンヌン市 ジュムンジン邑 ヘアンロ1629\nカルビと海鮮を蒸した料理です。代表的なメニューはウツボスープです。江原道のガンヌン市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "注文津海鮮 ( 주문진해물 ) はどこに位置していますか？",
+            "answer": "注文津海鮮は江原道のガンヌン市に位置しています。"
+        },
+        {
+            "question": "注文津海鮮の代表的なメニューは何ですか？",
+            "answer": "注文津海鮮の代表的なメニューはウツボスープです。"
+        },
+        {
+            "question": "注文津海鮮の料理はどのような特徴がありますか？",
+            "answer": "注文津海鮮の料理はカルビと海鮮を蒸した料理で、韓食専門店です。"
+        }
+    ],
+    "word_Count": {
+        "text": 71,
+        "QA": 110
+    }
+}

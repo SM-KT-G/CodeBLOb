@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_100456",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=744&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=22&ccbaAsno=00390000&ccbaCtcd=35&ccbaCpno=2223500390000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2023-11-03",
+        "domain": "문화/역사관광",
+        "title": "전통음식"
+    },
+    "text": "伝統料理\\n\n全羅北道無形文化財、1938年に生まれたキムニョンイムは母ムンミョンシクとジャンヒョンウクに師事を受けた。全州ビビンパの味は天恵の地理的条件で生産される質の高い材料、醤の味、優れた料理の腕、芽式にした情熱がよく調和された結果だとし、特に食材料の質的な優秀さと食材料の特性に合った適切な料理法の活用だ。キムニョンイムは原型を体得補填しており、刀使い方、火加減法、味出し方、銀行炒め方など自分だけの調理技術が整っている。...",
+    "QA": [
+        {
+            "question": "全羅北道で有名な伝統料理は何ですか？",
+            "answer": " 全羅北道で有名な伝統料理は全州ビビンパです。"
+        },
+        {
+            "question": "キムニョンイムさんの師匠は誰ですか？",
+            "answer": " キムニョンイムさんの師匠は母ムンミョンシクとジャンヒョンウクです。"
+        },
+        {
+            "question": "全州ビビンパの特徴は何ですか？",
+            "answer": " 全州ビビンパの特徴は、地理的条件で生産される質の高い材料、醤の味、優れた料理の腕、芽式にした情熱がよく調和された結果です。"
+        },
+        {
+            "question": "キムニョンイムさんの料理技術にはどのような特徴がありますか？",
+            "answer": " キムニョンイムさんの料理技術には、刀使い方、火加減法、味出し方、銀行炒め方など自分だけの調理技術が整っています。"
+        }
+    ],
+    "word_Count": {
+        "text": 159,
+        "QA": 188
+    }
+}

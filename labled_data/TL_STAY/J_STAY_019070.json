@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_019070",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/goods/GN0002024367?startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0%5E&npprmaxsort=min",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "태안(안면도) 온종일바다펜션"
+    },
+    "text": "広々とした海と松が注目を集める安眠島の長三浦は、空と海が一番近い場所です。 照りつける日差しと素朴な周辺が目を奪われる場所で、小さいながらも特別な物語が存在しています。 ここは人の住む匂いがする場所にすることを念願しました。",
+    "QA": [
+        {
+            "question": "長三浦はどのくらいの広さですか？",
+            "answer": "長三浦は広々とした海と松が広がる場所で、その広さはとても広いです。"
+        },
+        {
+            "question": "長三浦での主な観光スポットは何ですか？",
+            "answer": "長三浦では、照りつける日差しや素朴な周辺を楽しむことができます。特に、海や松が一番近い場所として人気です。"
+        },
+        {
+            "question": "長三浦にはどのような特別な物語がありますか？",
+            "answer": "長三浦には小さなながらも特別な物語が存在します。ここは人の住む匂いがする場所にすることを念願していました。"
+        }
+    ],
+    "word_Count": {
+        "text": 82,
+        "QA": 143
+    }
+}

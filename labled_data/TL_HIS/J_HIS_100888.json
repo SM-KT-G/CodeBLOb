@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_100888",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=368&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=00050000&ccbaCtcd=50&ccbaCpno=2113900050000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1971-08-26",
+        "domain": "문화/역사관광",
+        "title": "정의향교"
+    },
+    "text": "チョンイヒャンギョ\\n\n済州西帰浦市表善面城邑里820番地\\n\n済州特別自治道有形文化財、郷校とは、孔子をはじめ多くの聖賢に祀って、地方の民の教育と教化を担当した国立教育機関を指す。定義郷校は、朝鮮王朝の世宗5年(1423)にジンサリ県の西門外に始めたが、憲宗15年(1849)に今の位置に移した。ほとんどの郷校の建物が南へ向かうこととは違ってこの郷校は東に向かっており、大成殿・明倫堂・ドンジェ・書斎・三門などが残っている。中国と韓国儒者たちの位牌が祀られて祭る大成殿と学ぶ空間だった講堂の明倫堂は左右に並んで配置されている。朝鮮時代には国から土地と本・奴婢などを支給され、教官1人が定員30人の学生を教えた。甲午改革(1894)以降、教育機能は消えて祭祀の役割だけが残って春・秋に祭祀を行っている。",
+    "QA": [
+        {
+            "question": "この郷校はいつ始められましたか？",
+            "answer": "朝鮮王朝の世宗5年(1423)にジンサリ県の西門外に始められました。"
+        },
+        {
+            "question": "この建物群の中で、どのような施設が残っていますか？",
+            "answer": "大成殿・明倫堂・ドンジェ・書斎・三門などが残っています。"
+        },
+        {
+            "question": "この建物群の配置は他の郷校とはどのように異なっていますか？",
+            "answer": "ほとんどの郷校の建物が南へ向かうこととは違って、この郷校は東に向かっております。"
+        },
+        {
+            "question": "郷校で行われていた教育の内容は何でしたか？",
+            "answer": "朝鮮時代には国から土地と本・奴婢などを支給され、教官1人が定員30人の学生を教えました。"
+        },
+        {
+            "question": "現在の郷校ではどのような活動が行われていますか？",
+            "answer": "甲午改革(1894)以降、教育機能は消えて祭祀の役割だけが残っており、春・秋に祭祀を行っています。"
+        }
+    ],
+    "word_Count": {
+        "text": 257,
+        "QA": 227
+    }
+}

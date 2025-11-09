@@ -1,0 +1,51 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_038800",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1175&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=06030000&ccbaCtcd=38&ccbaCpno=3413806030000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "창원 대광사 주화엄법계관문"
+    },
+    "text": "昌原大広寺注華厳法界観門 (창원 대광사 주화엄법계관문)\\n\n慶尚南道文化財資料、「注華厳法界観門」は中国華厳宗の杜順が編纂した「華厳法界観門」に華厳宗の5祖宗密が注を付けて解釈した本だ。この本は不分卷1冊で製本された木版本となっている。 表紙書名は「因明論注華厳法界観門」と確認される。 権首題は「注華厳法界観門」、版心題は「華厳法界観」と確認される。板式は四周双辺に、半郭の大きさは22.8×15.6cmであり、界線があり(有界)、10行20字に配列されている。巻末に「康熙五十二年癸巳孟秋慶尙右道山陰智異山王山寺開刊」という簡記を通じて、1713年慶尚道山陰智異山王山寺から開墾したことがわかる。 つまり1653年の版本を底本とし、1713年に再び翻刻して簡印した版本の本だ。したがって、壬辰倭乱(1592)以後に刊行されたものだが、1713年という明確な刊行記録と刊行場所および施主質に対する内容が収録されており、その引き出しおよび保管状態が良好な本だ。 出版の意図と性格は重要な資料的価値がある。",
+    "QA": [
+        {
+            "question": "この本は誰が編纂しましたか？",
+            "answer": "この本は杜順が編纂しました。"
+        },
+        {
+            "question": "この本は何の注釈がつけられていますか？",
+            "answer": "この本には華厳宗の5祖宗密が注釈をつけています。"
+        },
+        {
+            "question": "この本はどのように製本されていますか？",
+            "answer": "この本は不分卷1冊の木版本として製本されています。"
+        },
+        {
+            "question": "この本の出版年はいつですか？",
+            "answer": "この本は1713年に再翻刻されましたが、底本は1653年の版本です。"
+        },
+        {
+            "question": "この本の刊行場所はどこですか？",
+            "answer": "この本は慶尚道山陰智異山王山寺で刊行されました。"
+        },
+        {
+            "question": "この本の保管状態は良好ですか？",
+            "answer": "はい、この本の保管状態は良好です。"
+        },
+        {
+            "question": "この本の出版の意図と性格は何ですか？",
+            "answer": "この本の出版の意図と性格は、重要な資料的価値があるものです。"
+        }
+    ],
+    "word_Count": {
+        "text": 332,
+        "QA": 206
+    }
+}

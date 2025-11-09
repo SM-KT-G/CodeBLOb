@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_022762",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-06",
+        "domain": "음식점",
+        "title": "聖敏ラム肉の串焼き ソウル大入口  ( 성민양꼬치 서울대입구 )"
+    },
+    "text": "聖敏ラム肉の串焼き ソウル大入口  ( 성민양꼬치 서울대입구 )\\n\nソウル特別市 冠岳区 クァンアクロ16ギル38\\n\n広々とした空間があり、集まりを楽しむのにぴったりの店です。代表的なメニューはラム肉の串焼きです。ソウル特別市のグァンアク区に位置した中華専門店です。",
+    "QA": [
+        {
+            "question": "このレストランはどこにありますか？",
+            "answer": "このレストランはソウル特別市冠岳区クァンアクロ16ギル38に位置しています。"
+        },
+        {
+            "question": "このレストランの特徴は何ですか？",
+            "answer": "このレストランの特徴は広々とした空間があり、集まりを楽しむのにぴったりの店であることです。"
+        },
+        {
+            "question": "このレストランの代表的なメニューは何ですか？",
+            "answer": "このレストランの代表的なメニューはラム肉の串焼きです。"
+        },
+        {
+            "question": "このレストランは中華専門店ですか？",
+            "answer": "はい、このレストランは中華専門店です。"
+        }
+    ],
+    "word_Count": {
+        "text": 99,
+        "QA": 147
+    }
+}

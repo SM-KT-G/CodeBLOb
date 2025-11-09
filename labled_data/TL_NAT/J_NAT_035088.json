@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_035088",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=916&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=24&ccbaAsno=00090200&ccbaCtcd=50&ccbaCpno=2443900090200&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2005-04-06",
+        "domain": "자연관광",
+        "title": "새미하로산당"
+    },
+    "text": "済州特別自治道民俗文化財である済州市奉蓋洞ドンフェチョン村のボンヒャンダンは\"セミハロサント\"を祀った典型的な山神堂です。済州市地域では珍しく、タングッが伝承された場所であり、、タングッをする時山神遊びを行う場です。以堂は老いた榎に保護樹に指定された中央に位置しており、これを、神木にしています。エノキ、神木左側にはセメントで作った小さな正方形祭壇が施されています。周りには竹が育っており、周囲のバッダムは自然にフェンスを成しています。このボンヒャンダンは形態的にも原型をよく維持しています。",
+    "QA": [
+        {
+            "question": "このボンヒャンダンで祀られているセミハロサントとは何ですか？",
+            "answer": "セミハロサントは、山神を祀った典型的な山神堂です。"
+        },
+        {
+            "question": "なぜこのボンヒャンダンは特別な場所だと言えるのですか？",
+            "answer": "このボンヒャンダンは済州市地域でタングッが伝承された場所であり、タングッをする時山神遊びを行う場所として特別です。"
+        },
+        {
+            "question": "ボンヒャンダンにある榎はなぜ特別なのですか？",
+            "answer": "ボンヒャンダンにある榎は老いた榎に保護樹に指定されており、神木として尊ばれています。"
+        },
+        {
+            "question": "ボンヒャンダンの周りには何がありますか？",
+            "answer": "ボンヒャンダンの周りには竹が育ち、周囲のバッダムが自然にフェンスを成しています。"
+        },
+        {
+            "question": "このボンヒャンダンの形態はどのように維持されていますか？",
+            "answer": "このボンヒャンダンは形態的にも原型をよく維持されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 180,
+        "QA": 234
+    }
+}

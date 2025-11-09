@@ -1,0 +1,51 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_019248",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1232&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=79&ccbaAsno=04940000&ccbaCtcd=21&ccbaCpno=4412104940000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2012-04-18",
+        "domain": "문화/역사관광",
+        "title": "부산 전차"
+    },
+    "text": "釜山電車 (부산 전차)\\n\n釜山広域市西区九徳路225-00\\n\n1948年 , 国家登録文化財 , 東亜大学校所蔵の「釜山電車」は1927年に米国シンシナティ車両会社(Cincinnati Car Company)が製作した半鋼製ボギー式軌道車両で、米国アトランタで運行された電車で、1952年に無償援助で輸入され釜山で運行された電車20両のうち1968年最後まで運行された電車の1台だ。 この電車は東亜大学校が1969年2月、南鮮電気(株)から学習用として寄贈され保存処理および復元作業を実施し、東亜大学校博物館の野外に展示しているもので、釜山で運行した電車の中で唯一現存している。",
+    "QA": [
+        {
+            "question": "釜山電車はいつ作られましたか？",
+            "answer": "釜山電車は1927年に作られました。"
+        },
+        {
+            "question": "釜山電車はどこで運行されましたか？",
+            "answer": "釜山電車は米国アトランタで運行されました。"
+        },
+        {
+            "question": "釜山電車は何年に輸入されましたか？",
+            "answer": "釜山電車は1952年に輸入されました。"
+        },
+        {
+            "question": "釜山電車は何のために寄贈されましたか？",
+            "answer": "釜山電車は学習用として寄贈されました。"
+        },
+        {
+            "question": "釜山電車は何で保存されていますか？",
+            "answer": "釜山電車は東亜大学校博物館の野外に展示されています。"
+        },
+        {
+            "question": "釜山電車は何年まで運行されましたか？",
+            "answer": "釜山電車は1968年まで運行されました。"
+        },
+        {
+            "question": "釜山電車は他の電車と比べて特別な点はありますか？",
+            "answer": "釜山電車は釜山で運行した電車の中で唯一現存しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 215,
+        "QA": 203
+    }
+}

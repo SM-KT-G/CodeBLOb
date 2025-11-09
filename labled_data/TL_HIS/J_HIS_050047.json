@@ -1,0 +1,51 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_050047",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=103&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=08330000&ccbaCtcd=37&ccbaCpno=1123708330000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1985-01-08",
+        "domain": "문화/역사관광",
+        "title": "경주 기림사 대적광전"
+    },
+    "text": "朝鮮・仁祖5年(1628)に建てられたメモリアル会社は、新羅善徳女王12年(643)に建てられた臨時政府史の子孫で、宝物で知られた所だ。基臨士はハンヤクチョ'ウダムパラ'の伝説があるところで、大寂光殿には毘盧遮那仏が安置されている。基臨士は善徳女王のときに建てられた、仁祖7年(1629)には大きく受理された。このところは前面5間・側面3間で、規模が大きく、屋根は人の形の切妻屋根である。柱の上と柱の間にはダポ様式の構造があり、内側は広い空間に静粛で威厳のある雰囲気を提供する。この建物は恐怖に彫刻が多く使われており、17世紀建築の流れを知ることができる。また、修理過程で昔の面影を損傷させなかったので重要な建築史研究資料となる。",
+    "QA": [
+        {
+            "question": "このメモリアル会社はいつ建てられましたか？",
+            "answer": "朝鮮・仁祖5年(1628)に建てられました。"
+        },
+        {
+            "question": "このメモリアル会社は誰によって建てられましたか？",
+            "answer": "このメモリアル会社は新羅善徳女王12年(643)に建てられた臨時政府史の子孫によって建てられました。"
+        },
+        {
+            "question": "このメモリアル会社はどのような宝物で知られていますか？",
+            "answer": "このメモリアル会社は宝物で知られており、大寂光殿には毘盧遮那仏が安置されています。"
+        },
+        {
+            "question": "このメモリアル会社の規模はどのようなものですか？",
+            "answer": "このメモリアル会社は前面5間・側面3間で、規模が大きく、屋根は人の形の切妻屋根です。"
+        },
+        {
+            "question": "このメモリアル会社の内部はどのような雰囲気ですか？",
+            "answer": "このメモリアル会社の内部は広い空間に静粛で威厳のある雰囲気を提供しています。"
+        },
+        {
+            "question": "このメモリアル会社はどのような彫刻が使われていますか？",
+            "answer": "このメモリアル会社は恐怖に彫刻が多く使われており、17世紀建築の流れを知ることができます。"
+        },
+        {
+            "question": "このメモリアル会社は修理されたことがありますか？",
+            "answer": "はい、修理過程で昔の面影を損傷させなかったため、重要な建築史研究資料となっています。"
+        }
+    ],
+    "word_Count": {
+        "text": 231,
+        "QA": 331
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_035081",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=303&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=16&ccbaAsno=03230400&ccbaCtcd=ZZ&ccbaCpno=1369903230400&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1982-11-16",
+        "domain": "자연관광",
+        "title": "새매"
+    },
+    "text": "天然記念物に指定されたハイタカは国際的に保護される珍しい種類の新しく知られている。韓国全域で極稀に発見することができるが、この鳥の大きさはオスはメスに比べて小さく、体長は約28∼38センチほどだ。ハイタカは主に木の枝に巣を作りながら、約4∼5個の卵を産む。繁殖時には主に森で生息するが、他の季節には平地、都市、郊外でも発見されことができる。この鐘はアジア地域で主に分布し、シベリア東部、中国、韓国、日本などの多くの地域で発見される。南側にはアルタイ山脈、トランスパイカルリアなどにも分布している。この鳥の北部繁殖集団は冬に中国、インドへ移動して越冬する。このように大きさと分布などを考慮して天然記念物に指定されたハイタカの分類体系をより一貫性を持って管理するため、細部番号を付与した。これで国民の混乱を防止し、詳細な情報を提供することで、この鳥の保護及び管理が円滑に行われるようになった。",
+    "QA": [
+        {
+            "question": "ハイタカはどのような地域で見つけることができますか？",
+            "answer": "ハイタカは主にアジア地域で見つけることができます。シベリア東部、中国、韓国、日本などの多くの地域で発見されます。南側にはアルタイ山脈、トランスパイカルリアなどにも分布しています。"
+        },
+        {
+            "question": "ハイタカの大きさはどれくらいですか？",
+            "answer": "ハイタカの大きさはオスはメスに比べて小さく、体長は約28∼38センチほどです。"
+        },
+        {
+            "question": "ハイタカはどのような場所で繁殖しますか？",
+            "answer": "ハイタカは主に森で繁殖しますが、他の季節には平地、都市、郊外でも見つけることができます。"
+        },
+        {
+            "question": "ハイタカは冬にどこへ移動しますか？",
+            "answer": "ハイタカの北部繁殖集団は冬に中国、インドへ移動して越冬します。"
+        },
+        {
+            "question": "ハイタカの保護及び管理が円滑に行われるようになった理由は何ですか？",
+            "answer": "ハイタカの分類体系に細部番号を付与することで、国民の混乱を防止し、詳細な情報を提供することができるようになりました。"
+        }
+    ],
+    "word_Count": {
+        "text": 288,
+        "QA": 275
+    }
+}

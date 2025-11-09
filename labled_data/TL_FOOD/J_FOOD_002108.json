@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_002108",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-13",
+        "domain": "음식점",
+        "title": "Sungmin town ( 성민촌 )"
+    },
+    "text": "Sungmin town\\n\nソウル特別市 永登浦区 ヨウィナルロ71\\n\n20年の伝統を持つしゃぶしゃぶ専門店です。おすすめはしゃぶしゃぶです。ソウル特別市のヨンドゥンポ区に位置しています。",
+    "QA": [
+        {
+            "question": "このしゃぶしゃぶ専門店はどこにありますか？",
+            "answer": "ソウル特別市 永登浦区 ヨウィナルロ71に位置しています。"
+        },
+        {
+            "question": "この店の特徴は何ですか？",
+            "answer": "この店は20年の伝統を持つしゃぶしゃぶ専門店です。"
+        },
+        {
+            "question": "おすすめの料理は何ですか？",
+            "answer": "おすすめはしゃぶしゃぶです。"
+        },
+        {
+            "question": "この店はどの区に位置していますか？",
+            "answer": "この店はソウル特別市のヨンドゥンポ区に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 70,
+        "QA": 115
+    }
+}

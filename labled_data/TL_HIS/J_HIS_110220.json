@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_110220",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=121&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=10310000&ccbaCtcd=11&ccbaCpno=1121110310000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1990-05-21",
+        "domain": "문화/역사관광",
+        "title": "청자 양각연지어문 화형 접시"
+    },
+    "text": "高麗時代で作られたこの青磁皿は高さ9.3センチ、口直径16.1センチ、ミッジルム6.1センチの大きさを持っている。この皿はアンパダクが平らながら厚さが薄く、青銅製の皿のようにすらりとしており、底近くでほぼ水平に広がって、再び斜めに行われて上がった平たい形を帯びている。口の末の六箇所は少し溝を彫って花模様を形象化したデザインがあり、これは、高麗初期の花模様の皿で変形したものと推定される。容器内面には繊細で精巧な両脚文様が刻まれている。床面には3匹の魚を盛り込んだ模様があり、側面にはレンゲやアシ、マガモなど池の風景が刻まれている。中央部分には半透明な釉が塗られており、李某さんとの文様、有色を同時に備えた青磁皿は唯一のものだ。だ。",
+    "QA": [
+        {
+            "question": "この青磁皿の大きさは何センチですか？",
+            "answer": "この青磁皿の大きさは高さ9.3センチ、口直径16.1センチ、ミッジルム6.1センチです。"
+        },
+        {
+            "question": "青磁皿の形はどのような特徴がありますか？",
+            "answer": "青磁皿は平らながら厚さが薄く、青銅製の皿のようにすらりとしており、底近くでほぼ水平に広がって、再び斜めに行われて上がった平たい形を帯びています。"
+        },
+        {
+            "question": "青磁皿の内面にはどんな文様が刻まれていますか？",
+            "answer": "容器内面には繊細で精巧な両脚文様が刻まれています。"
+        },
+        {
+            "question": "青磁皿の床面にどんな模様がありますか？",
+            "answer": "床面には3匹の魚を盛り込んだ模様があります。"
+        },
+        {
+            "question": "青磁皿の中央部分に何が塗られていますか？",
+            "answer": "中央部分には半透明な釉が塗られており、李某さんとの文様、有色を同時に備えた青磁皿は唯一のものです。"
+        }
+    ],
+    "word_Count": {
+        "text": 231,
+        "QA": 228
+    }
+}

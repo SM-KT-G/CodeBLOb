@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_019552",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/goods/GN0002014105?startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0%5E&npprmaxsort=min",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "양산 덕계 N"
+    },
+    "text": "基本規定のオンシーズン、特定日、祝日の前日には料金が変動します。 連泊の際には1万ウォンが追加で請求されます。 周辺の案内情報では、メガマートまでの距離は80メートルで、徒歩では1分の距離にあります。 徳渓交差点までの距離は250mで、徒歩5分の距離に位置しています。 A1ccまでの距離は2kmで、車では10分の距離にあります。",
+    "QA": [
+        {
+            "question": "徳渓交差点までの距離は何メートルですか？",
+            "answer": "徳渓交差点までの距離は250メートルです。"
+        },
+        {
+            "question": "メガマートまで徒歩で何分かかりますか？",
+            "answer": "メガマートまで徒歩で1分かかります。"
+        },
+        {
+            "question": "A1ccまで車で何分かかりますか？",
+            "answer": "A1ccまで車で10分かかります。"
+        },
+        {
+            "question": "連泊の際に追加料金はいくらですか？",
+            "answer": "連泊の際には1万ウォンが追加で請求されます。"
+        },
+        {
+            "question": "特定日や祝日の前日に料金が変動しますか？",
+            "answer": "はい、特定日や祝日の前日には料金が変動します。"
+        }
+    ],
+    "word_Count": {
+        "text": 121,
+        "QA": 142
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_020631",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42031&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "호텔 피에드 수성"
+    },
+    "text": "大邱寿城区アルファシティに位置するホテルピエド寿城は大邱サムスンライオンズパークのすぐ隣に位置しています。 朝食は07:30から10:00まで利用でき、2階のカンファレンスルームで提供されます。 朝食は韓食とトースト&シリアルで構成されており、お盆当日と月曜日には韓食朝食が提供されませんが、トースト&シリアルに代替されて利用できます。",
+    "QA": [
+        {
+            "question": "ホテルピエド寿城の朝食は何時から何時まで利用できますか？",
+            "answer": "朝食は07:30から10:00まで利用できます。"
+        },
+        {
+            "question": "ホテルピエド寿城の朝食はどのようなメニューがありますか？",
+            "answer": "朝食は韓食とトースト&シリアルで構成されており、お盆当日と月曜日には韓食朝食が提供されませんが、トースト&シリアルに代替されて利用できます。"
+        },
+        {
+            "question": "ホテルピエド寿城はどこに位置していますか？",
+            "answer": "ホテルピエド寿城は大邱サムスンライオンズパークのすぐ隣に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 123,
+        "QA": 151
+    }
+}

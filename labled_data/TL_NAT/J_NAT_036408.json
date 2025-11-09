@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_036408",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=286&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=16&ccbaAsno=00360000&ccbaCtcd=36&ccbaCpno=1363600360000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1962-12-07",
+        "domain": "자연관광",
+        "title": "순천 평중리 이팝나무"
+    },
+    "text": "ピョンジュン里のヒトツバタゴは約400歳と推定され、高さ18m、胸の高さの寸法は4.6mだ。この木は、天然記念物に指定されており、保護されている。そしてこの木は花が満開で少なく吸うのが知られていたが、これは、春に水が多いところでよく育つ植物なので雨の量によって花がぱあっと咲いたり、うまく吸わないということと関連している。このような理由にヒトツバタゴはピョンジュン里村の神とされて、かなり前から先祖らの関心と看護を受けてきた。",
+    "QA": [
+        {
+            "question": "このヒトツバタゴの高さは何メートルですか？",
+            "answer": "このヒトツバタゴの高さは18メートルです。"
+        },
+        {
+            "question": "ヒトツバタゴの胸の高さの寸法は何メートルですか？",
+            "answer": "ヒトツバタゴの胸の高さの寸法は4.6メートルです。"
+        },
+        {
+            "question": "ヒトツバタゴは何歳くらいですか？",
+            "answer": "ヒトツバタゴは約400歳と推定されています。"
+        },
+        {
+            "question": "ヒトツバタゴはなぜ天然記念物に指定されていますか？",
+            "answer": "ヒトツバタゴは天然記念物に指定されており、保護されています。"
+        },
+        {
+            "question": "ヒトツバタゴの花が満開になる条件は何ですか？",
+            "answer": "ヒトツバタゴの花が満開になる条件は、春に水が多いところでよく育つ植物なので雨の量によって花がぱあっと咲いたり、うまく吸わないことと関連しています。"
+        },
+        {
+            "question": "なぜヒトツバタゴはピョンジュン里村の神とされているのですか？",
+            "answer": "ヒトツバタゴはピョンジュン里村の神とされており、かなり前から先祖らの関心と看護を受けてきたからです。"
+        }
+    ],
+    "word_Count": {
+        "text": 156,
+        "QA": 263
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_010046",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "チョンガクカルグクス ( 총각칼국수 )"
+    },
+    "text": "チョンガクカルグクス ( 총각칼국수 )\\n\n全羅南道 潭陽郡 潭陽邑 潭州4キル 24-17\\n\n手頃な価格でおいしいククス(素麺)が味わえるお店です。 全羅南道のダムヤン郡に位置したカルグクス専門店です。おすすめはアサリカルグクスです。",
+    "QA": [
+        {
+            "question": "このお店の場所はどこですか？",
+            "answer": "このお店は全羅南道潭陽郡潭陽邑潭州4キル24-17に位置しています。"
+        },
+        {
+            "question": "このお店の特徴はなんですか？",
+            "answer": "このお店は手頃な価格でおいしいククス（素麺）を味わえるお店です。"
+        },
+        {
+            "question": "おすすめのメニューはありますか？",
+            "answer": "おすすめはアサリカルグクスです。"
+        }
+    ],
+    "word_Count": {
+        "text": 88,
+        "QA": 92
+    }
+}

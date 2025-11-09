@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_002195",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "YG Republic Central City ( YG리퍼블릭 센트럴시티 )"
+    },
+    "text": "YG Republic Central City ( YG리퍼블릭 센트럴시티 )\nソウル特別市 瑞草区 砂坪大路 205\n華やかな雰囲気のブランチ専門カフェです。代表的なメニューはラザニアです。ソウル特別市のソチョ区に位置したカフェ（コーヒーショップ）です。",
+    "QA": [
+        {
+            "question": "YGリパブリックセントラルシティ（YG Republic Central City）はどこにありますか？",
+            "answer": "YGリパブリックセントラルシティはソウル特別市瑞草区砂坪大路205に位置しています。"
+        },
+        {
+            "question": "YGリパブリックセントラルシティの代表的なメニューは何ですか？",
+            "answer": "YGリパブリックセントラルシティの代表的なメニューはラザニアです。"
+        },
+        {
+            "question": "YGリパブリックセントラルシティはどのような雰囲気のカフェですか？",
+            "answer": "YGリパブリックセントラルシティは華やかな雰囲気のブランチ専門カフェです。"
+        },
+        {
+            "question": "YGリパブリックセントラルシティはどの区に位置していますか？",
+            "answer": "YGリパブリックセントラルシティはソウル特別市のソチョ区に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 95,
+        "QA": 216
+    }
+}

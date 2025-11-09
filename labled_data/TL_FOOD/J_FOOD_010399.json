@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_010399",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-05",
+        "domain": "음식점",
+        "title": "テナムジプ ( 대나무집 )"
+    },
+    "text": "テナムジプ ( 대나무집 )\\n\nソウル特別市 松坡区 ペクジェゴブンロ7ギル8-16\\n\n韓定食コース料理の専門店です 代表的なメニューは韓定食です。ソウル特別市のソンパ区に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "このレストランはどのエリアにありますか？",
+            "answer": "ソウル特別市のソンパ区に位置しています。"
+        },
+        {
+            "question": "このレストランの代表的なメニューは何ですか？",
+            "answer": "韓定食が代表的なメニューです。"
+        },
+        {
+            "question": "このレストランはどんな料理を提供していますか？",
+            "answer": "韓定食コース料理を専門として提供しています。"
+        },
+        {
+            "question": "このレストランの住所を教えてください。",
+            "answer": "ソウル特別市 松坡区 ペクジェゴブンロ7ギル8-16にあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 73,
+        "QA": 126
+    }
+}

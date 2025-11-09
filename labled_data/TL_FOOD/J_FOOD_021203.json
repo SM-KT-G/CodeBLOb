@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_021203",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-05",
+        "domain": "음식점",
+        "title": "筏橋ハイガイビビンバ ( 벌교꼬막비빔밥 )"
+    },
+    "text": "筏橋ハイガイビビンバ ( 벌교꼬막비빔밥 )\\n\n江原道 原州市 ウンビ1ギル21\\n\nハイガイを使った様々な料理が味わえる店です。江原道のウォンジュ市に位置した韓食専門店です。代表的なメニューはハイガイビビンバです。",
+    "QA": [
+        {
+            "question": "このレストランの場所はどこですか？",
+            "answer": "江原道のウォンジュ市に位置しています。"
+        },
+        {
+            "question": "このレストランの特徴的な料理は何ですか？",
+            "answer": "代表的なメニューはハイガイビビンバです。"
+        },
+        {
+            "question": "ハイガイビビンバ以外にもおすすめの料理はありますか？",
+            "answer": "はい、ハイガイを使った様々な料理が味わえます。"
+        }
+    ],
+    "word_Count": {
+        "text": 79,
+        "QA": 91
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_104269",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/hankookjib",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "韓国の家"
+    },
+    "text": "韓国の家\\n\n全羅北道 全州市 完山区 御眞キル 119 )\\n\nソウル特別市、全州市指定の郷土料理店で、50年以上の伝統料理だけを提供し、今でもコチュジャン･醤油・油などは自家製のものだけを使用しています。",
+    "QA": [
+        {
+            "question": "この家の場所はどこですか？",
+            "answer": "この家は韓国の全羅北道全州市完山区御眞キル119にあります。"
+        },
+        {
+            "question": "この家の特徴は何ですか？",
+            "answer": "この家は伝統料理店であり、50年以上の歴史があります。また、コチュジャン、醤油、油などは自家製のものを使用しています。"
+        },
+        {
+            "question": "この家で提供されている料理は何ですか？",
+            "answer": "この家では韓国の郷土料理を提供しています。"
+        },
+        {
+            "question": "この家はどのような客層を対象にしていますか？",
+            "answer": "この家は観光客や地元の人々を対象にしています。"
+        },
+        {
+            "question": "この家は何年以上の歴史がありますか？",
+            "answer": "この家は50年以上の歴史があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 76,
+        "QA": 172
+    }
+}

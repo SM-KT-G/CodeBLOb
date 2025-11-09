@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_026574",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-06",
+        "domain": "음식점",
+        "title": "済州家 西面 ( 제주가 서면 )"
+    },
+    "text": "済州家 西面 ( 제주가 서면 )\\n\n釜山広域市 釜山鎮区 プジョンロ66ボンギル36\\n\n新鮮な海鮮を中心にしたメニュー構成がユニークな店です。代表的なメニューはアワビ粥です。釜山広域市のブサンジン区に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "この店の名前は何ですか？",
+            "answer": "済州家 西面です。"
+        },
+        {
+            "question": "この店はどこにありますか？",
+            "answer": "釜山広域市の釜山鎮区にあります。"
+        },
+        {
+            "question": "この店の特徴的なメニューは何ですか？",
+            "answer": "代表的なメニューはアワビ粥です。"
+        },
+        {
+            "question": "この店はどんな料理を提供していますか？",
+            "answer": "新鮮な海鮮を中心にしたメニュー構成がユニークです。"
+        },
+        {
+            "question": "この店は韓食専門店ですか？",
+            "answer": "はい、韓食専門店です。"
+        }
+    ],
+    "word_Count": {
+        "text": 84,
+        "QA": 111
+    }
+}

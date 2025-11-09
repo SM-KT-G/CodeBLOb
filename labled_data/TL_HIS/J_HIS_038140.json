@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_038140",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=901&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=03010000&ccbaCtcd=38&ccbaCpno=2333803010000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2020-07-30",
+        "domain": "문화/역사관광",
+        "title": "창녕 태백산 봉수대"
+    },
+    "text": "昌寧太白山烽燧台 (창녕 태백산 봉수대)\\n\n慶尚南道昌寧郡大合面十二里山72他\\n\n朝鮮時代の全期間にわたって国家基幹通信網として運営されていた内地烽燧、慶尚南道記念物、「昌寧太白山烽燧台」は朝鮮時代の全期間にわたって国家基幹通信網として運営されていた内地烽燧で、朝鮮世宗7年(1425)以前に設置され高宗32年(1895)に閉封された。防護壁内の中心から北に偏って東西に長く連隊を設置し、その前に倉庫を東西に長く配置した。 動向した烽燧郡の住居地は倉庫の西南側には烽燧郡の住居地を横に配置され、全体的に開けたㄱ字型配置をしている。 防護壁内に出入りする出入口は南側防護壁東側に偏って配置し、ほぼ南東側に配置した。連帯組が高く造成したのは昌寧県治所に信号を伝達するためのものと推定されるが、このような構造は抱川禿山烽燧に続き2番目に確認された。",
+    "QA": [
+        {
+            "question": "昌寧太白山烽燧台はどこに位置していますか？",
+            "answer": "昌寧太白山烽燧台は慶尚南道昌寧郡大合面十二里山72他に位置しています。"
+        },
+        {
+            "question": "昌寧太白山烽燧台は何のために運営されていましたか？",
+            "answer": "昌寧太白山烽燧台は朝鮮時代の全期間にわたって国家基幹通信網として運営されていました。"
+        },
+        {
+            "question": "昌寧太白山烽燧台はいつ設置されましたか？",
+            "answer": "昌寧太白山烽燧台は朝鮮世宗7年(1425)以前に設置されました。"
+        },
+        {
+            "question": "昌寧太白山烽燧台はいつ閉封されましたか？",
+            "answer": "昌寧太白山烽燧台は高宗32年(1895)に閉封されました。"
+        },
+        {
+            "question": "昌寧太白山烽燧台の構造はどのようになっていますか？",
+            "answer": "昌寧太白山烽燧台の防護壁内には連隊と倉庫が東西に長く配置されており、烽燧郡の住居地も隣接しています。また、出入口は南側防護壁東側に偏って配置されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 274,
+        "QA": 239
+    }
+}

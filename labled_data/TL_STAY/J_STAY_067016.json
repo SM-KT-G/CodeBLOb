@@ -1,0 +1,55 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_067016",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42090&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "제주 팔레스 호텔 운영 정책"
+    },
+    "text": "チェックインは14:00以降可能で、チェックアウトは11:00以前までです。 4 歳以下の子供は、親と一緒に無料で宿泊できます。 人数を追加した場合、1人当たり15,000ウォンの追加料金が発生します。 朝食の費用はお一人様12,000ウォンです。 歯ブラシと歯磨き粉は有料で提供されており、付帯施設としてはビジネスセンターと男子サウナがあります。 駐車場とWi-Fiは無料で提供します。 Design Hotelの場合、写真と異なるテーマの客室に割り当てられることがあります。",
+    "QA": [
+        {
+            "question": "チェックインは何時ですか？",
+            "answer": "チェックインは14:00以降可能です。"
+        },
+        {
+            "question": "チェックアウトの時間は何時ですか？",
+            "answer": "チェックアウトは11:00以前までです。"
+        },
+        {
+            "question": "子供の宿泊料金はどうなりますか？",
+            "answer": "4 歳以下の子供は、親と一緒に無料で宿泊できます。"
+        },
+        {
+            "question": "追加の人数料金はいくらですか？",
+            "answer": "人数を追加した場合、1人当たり15,000ウォンの追加料金が発生します。"
+        },
+        {
+            "question": "朝食の費用はいくらですか？",
+            "answer": "朝食の費用はお一人様12,000ウォンです。"
+        },
+        {
+            "question": "何が有料で提供されますか？",
+            "answer": "歯ブラシと歯磨き粉は有料で提供されています。"
+        },
+        {
+            "question": "無料で提供される付帯施設は何ですか？",
+            "answer": "駐車場とWi-Fiは無料で提供されます。"
+        },
+        {
+            "question": "どのような付帯施設がありますか？",
+            "answer": "ビジネスセンターと男子サウナがあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 175,
+        "QA": 223
+    }
+}

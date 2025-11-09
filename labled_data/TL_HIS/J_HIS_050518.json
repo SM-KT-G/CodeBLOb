@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_050518",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=964&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=00120000&ccbaCtcd=37&ccbaCpno=3413700120000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1985-08-05",
+        "domain": "문화/역사관광",
+        "title": "경주서부동석불좌상"
+    },
+    "text": "慶州西部ドンソク仏坐像\\n\n慶尚北道慶州市の日程路186、ジャン·ジャン(仁王洞)\\n\n慶尚北道文化財資料、現在国立慶州博物館に展示されているこの石仏は慶尚北道慶州市西部洞四方管理所の庭園にあった。仏像がいつ作られたのか、本来どこで移してきたのか分からないが、日帝時代四方管理所の座にソギョンサ(西慶寺)という寺があったという。頭はないが、形が完全な方で、両足を膝の上に上げて足の裏が空に向けた姿勢で座っている様子だ。手は右手を膝の上に上げて指先が下を指す姿で地中の悪鬼を払う意味のハンマチョクジイン(降魔觸地印)だ。",
+    "QA": [
+        {
+            "question": "この慶州西部ドンソク仏坐像はどこに展示されていますか？",
+            "answer": "この石仏は現在、国立慶州博物館に展示されています。"
+        },
+        {
+            "question": "この慶州西部ドンソク仏坐像はいつ作られましたか？",
+            "answer": "具体的な制作時期は不明ですが、慶州市西部洞四方管理所の庭園にあったとされています。"
+        },
+        {
+            "question": "この慶州西部ドンソク仏坐像の頭はないですか？",
+            "answer": "はい、この仏坐像には頭部が存在しません。"
+        },
+        {
+            "question": "この慶州西部ドンソク仏坐像の姿勢はどのようなものですか？",
+            "answer": "この仏坐像は両足を膝の上に上げて座っており、足の裏が空に向けられた姿勢です。"
+        },
+        {
+            "question": "この慶州西部ドンソク仏坐像の手の形は何を意味していますか？",
+            "answer": "この仏坐像の右手は膝の上に上げられており、指先が下を指す形をしています。これは地中の悪鬼を払う意味のハンマチョクジイン（降魔觸地印）です。"
+        }
+    ],
+    "word_Count": {
+        "text": 189,
+        "QA": 236
+    }
+}

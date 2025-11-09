@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_005165",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-05",
+        "domain": "음식점",
+        "title": "クソウルカルビ 道庁 ( 구서울갈비 도청 )"
+    },
+    "text": "クソウルカルビ 道庁 ( 구서울갈비 도청 )\\n\n慶尚北道 アンドン市 プンチョン面 プンヨ6ギル17-2\\n\n上質な牛カルビが味わえる店です。慶尚北道のアンドン市に位置した韓食専門店です。代表的なメニューはカルビです。",
+    "QA": [
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "この店は慶尚北道のアンドン市に位置しています。具体的な住所は、プンチョン面 プンヨ6ギル17-2です。"
+        },
+        {
+            "question": "この店の特徴的なメニューは何ですか？",
+            "answer": "この店の代表的なメニューは牛カルビです。上質な牛カルビを味わうことができます。"
+        },
+        {
+            "question": "この店の雰囲気はどうですか？",
+            "answer": "この店は韓食専門店で、アットホームな雰囲気が特徴です。落ち着いた雰囲気で食事を楽しむことができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 81,
+        "QA": 135
+    }
+}

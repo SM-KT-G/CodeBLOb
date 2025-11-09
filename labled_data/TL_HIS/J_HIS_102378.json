@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_102378",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1234&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=79&ccbaAsno=05240000&ccbaCtcd=11&ccbaCpno=4411105240100&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2012-12-24",
+        "domain": "문화/역사관광",
+        "title": "조선말 큰사전 원고"
+    },
+    "text": "朝鮮末大辞典原稿\\n\nソウル特別市鍾路区セムンアン路3ギル7ハングル学会\\n\n1929~1942、国家登録文化財、朝鮮語学会で''朝鮮語辞書''編纂のために作成した原稿で1929~1942年まで作成された原稿だが、朝鮮語学会事件の証拠品として日本警察に押収されたが、1945年9月8日に、京城駅朝鮮通運倉庫で発見された。この原稿を基にハングル学会では1947年に『朝鮮語大辞典』2冊が刊行されており、3冊からは『大辞典』という名で1957年までに計6冊を刊行した。日帝強占期の朝鮮語抹殺政策に対抗してハングルを保存しようとした国語学者たちの念願と魂が溶けている大切な資料であり、計17冊で、このうち12冊はハングル学会が所蔵していて、残りの5冊はハングル学会で寄贈し、独立記念館で所蔵している。",
+    "QA": [
+        {
+            "question": "何が1945年9月8日に発見されましたか？",
+            "answer": "朝鮮語学会の原稿が発見されました。"
+        },
+        {
+            "question": "誰が朝鮮語学会の原稿を作成しましたか？",
+            "answer": "ハングル学会が朝鮮語学会の原稿を作成しました。"
+        },
+        {
+            "question": "いつまでに『朝鮮語大辞典』が刊行されましたか？",
+            "answer": "『朝鮮語大辞典』は1947年までに刊行されました。"
+        },
+        {
+            "question": "どこでハングル学会は『朝鮮語大辞典』を刊行しましたか？",
+            "answer": "ハングル学会は鍾路区セムンアン路3ギル7で『朝鮮語大辞典』を刊行しました。"
+        },
+        {
+            "question": "なぜハングル学会は『朝鮮語大辞典』を刊行しましたか？",
+            "answer": "日帝強占期の朝鮮語抹殺政策に対抗して、ハングルを保存しようとした国語学者たちの念願と魂が溶けている大切な資料だったためです。"
+        }
+    ],
+    "word_Count": {
+        "text": 254,
+        "QA": 205
+    }
+}

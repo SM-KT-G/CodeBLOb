@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_031915",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=372&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=00090000&ccbaCtcd=50&ccbaCpno=2113900090000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1975-03-12",
+        "domain": "문화/역사관광",
+        "title": "추자처사각"
+    },
+    "text": "楸子処士閣 (추자처사각)\\n\n済州市楸子面永興2ギル21-14(永興里)\\n\n朝鮮、済州特別自治道有形文化財、処士パク·インテクを追慕するためにその子孫たちが建てた祠だ。 いつ建てたのか正確な年度は分からず、最初は村に小規模の草屋を建てて祭祀を行った。 その後、現在の位置に移し、2回にわたって補修を行ったという。 伝えるところによると、子孫が病気にかかって様々な薬でも直すことができなかったが、夢にパク·インテクが現れて祠堂を建てて功を挙げれば治ると言って、そうすると病気がすぐ治ったという。処士パク·インテクは朝鮮中期に楸子島で流刑と仏教的生活をしながら、住民たちの病気を治療し仏教教理も教えながら暮らしたという。",
+    "QA": [
+        {
+            "question": "この祠堂はいつ建てられましたか？",
+            "answer": "正確な年度は分かりませんが、最初は小規模な草屋を村に建てて祭祀を行っていました。その後、現在の位置に移し、2回にわたって補修が行われました。"
+        },
+        {
+            "question": "なぜこの祠堂が建てられたのですか？",
+            "answer": "この祠堂は、朝鮮中期に楸子島で流刑と仏教的生活を送りながら、住民たちの病気を治療し、仏教教理も教えたと伝えられる処士パク・インテクを追慕するために、その子孫たちが建てたものです。"
+        },
+        {
+            "question": "処士パク・インテクはどのような人物ですか？",
+            "answer": "処士パク・インテクは朝鮮中期に楸子島で流刑と仏教的生活をしながら、住民たちの病気を治療し、仏教教理も教えたと伝えられる人物です。"
+        },
+        {
+            "question": "この祠堂の補修は何度行われましたか？",
+            "answer": "この祠堂は2回にわたって補修が行われました。"
+        },
+        {
+            "question": "処士パク・インテクに関連する伝説やエピソードはありますか？",
+            "answer": "子孫が病気にかかり、様々な薬でも治すことができなかったとき、夢にパク・インテクが現れて祠堂を建てれば治ると言ったというエピソードがあります。その後、祠堂を建てたとたんに病気が治ったとされています。"
+        }
+    ],
+    "word_Count": {
+        "text": 227,
+        "QA": 325
+    }
+}

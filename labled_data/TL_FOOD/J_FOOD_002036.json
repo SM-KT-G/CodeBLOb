@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_002036",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/retrona-pie-samchungdong",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "Retrona Pie 三清店"
+    },
+    "text": "Retrona Pie 三清店\\n\nソウル特別市 鍾路区 八判洞 17-2\\n\n50~60年代に流行した米国レトロ風をコンセプトにした外観と屋上の上に載せたレジャー用カーで個性のある雰囲気を演出しました。 コーヒーと手作りパイとケーキ,牛乳で作ったかき氷、飲み物などを販売します。",
+    "QA": [
+        {
+            "question": "Retrona Pie 三清店はどこにありますか？",
+            "answer": "Retrona Pie 三清店はソウル特別市鍾路区八判洞17-2にあります。"
+        },
+        {
+            "question": "Retrona Pie 三清店のコンセプトは何ですか？",
+            "answer": "Retrona Pie 三清店のコンセプトは50~60年代に流行した米国レトロ風です。"
+        },
+        {
+            "question": "Retrona Pie 三清店ではどんな商品を販売していますか？",
+            "answer": "Retrona Pie 三清店ではコーヒーと手作りパイとケーキ、牛乳で作ったかき氷、飲み物などを販売しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 102,
+        "QA": 162
+    }
+}

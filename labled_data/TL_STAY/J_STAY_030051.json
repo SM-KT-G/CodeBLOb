@@ -1,0 +1,59 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_030051",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/goods/GN0002151089?startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0%5E&npprmaxsort=min",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "통영 갤러리 호텔 운영 정책"
+    },
+    "text": "チェックイン時間は午後3時以降から可能で、チェックアウト時間は午前11時までです。 ホテルではネットフリックスとユーチューブを無料で提供しており、ビジネスセンター、レストラン、有料ランドリー施設などの付帯施設も利用可能です。 また、無料駐車とWi-Fiが提供され、追加費用は当日現地にてお支払いください。",
+    "QA": [
+        {
+            "question": "チェックイン時間は何時からですか？",
+            "answer": "チェックイン時間は午後3時以降から可能です。"
+        },
+        {
+            "question": "チェックアウト時間は何時までですか？",
+            "answer": "チェックアウト時間は午前11時までです。"
+        },
+        {
+            "question": "ホテルではどんな無料サービスが提供されていますか？",
+            "answer": "ホテルではネットフリックスとユーチューブを無料で提供しています。"
+        },
+        {
+            "question": "ビジネスセンターはありますか？",
+            "answer": "はい、ビジネスセンターが利用できます。"
+        },
+        {
+            "question": "レストランはありますか？",
+            "answer": "はい、レストランがあります。"
+        },
+        {
+            "question": "ランドリー施設はありますか？",
+            "answer": "はい、有料のランドリー施設があります。"
+        },
+        {
+            "question": "駐車場は無料ですか？",
+            "answer": "はい、駐車場は無料です。"
+        },
+        {
+            "question": "Wi-Fiは無料ですか？",
+            "answer": "はい、Wi-Fiは無料です。"
+        },
+        {
+            "question": "追加費用はどのように支払えばいいですか？",
+            "answer": "追加費用は当日現地にてお支払いください。"
+        }
+    ],
+    "word_Count": {
+        "text": 111,
+        "QA": 231
+    }
+}

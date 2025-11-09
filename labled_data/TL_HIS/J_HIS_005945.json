@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_005945",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101933",
+        "collectedDate": "2023-10-06",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "완사역"
+    },
+    "text": "ワンサヨク \\n\nウィン駅は慶尚南道泗川市昆明面に位置する慶全線の鉄道駅である。 慶全線~スンチョン~チンジュ区間開通と同時に開通した。 1999年に南江ダム補修工事で現在の位置に移転し、晋州~光陽複線化事業で乗り場と駅舎が改良された。\\n\n",
+    "QA": [
+        {
+            "question": "ウィン駅はどこに位置していますか？",
+            "answer": "ウィン駅は慶尚南道泗川市昆明面に位置しています。"
+        },
+        {
+            "question": "ウィン駅はどの路線に属していますか？",
+            "answer": "ウィン駅は慶全線に属しています。"
+        },
+        {
+            "question": "ウィン駅はいつ開業しましたか？",
+            "answer": "ウィン駅は慶全線のスンチョン〜チンジュ区間開通と同時に開業しました。"
+        },
+        {
+            "question": "ウィン駅は何年に移転されましたか？",
+            "answer": "ウィン駅は1999年に南江ダム補修工事で現在の位置に移転されました。"
+        },
+        {
+            "question": "ウィン駅はどのように改良されましたか？",
+            "answer": "ウィン駅は晋州〜光陽複線化事業により、乗り場と駅舎が改良されました。"
+        }
+    ],
+    "word_Count": {
+        "text": 88,
+        "QA": 167
+    }
+}

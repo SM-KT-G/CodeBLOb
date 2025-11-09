@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_026478",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-03",
+        "domain": "음식점",
+        "title": "第一江山 ( 제일강산 )"
+    },
+    "text": "第一江山 ( 제일강산 )\\n\n江原道 ガンヌン市 ホンジェロ85ボンギル29\\n\n韓国の滋養食の一つサムゲタンです。江原道のガンヌン市に位置した韓食専門店です。おすすめはサムゲタンです。",
+    "QA": [
+        {
+            "question": "この韓食専門店の場所はどこですか？",
+            "answer": "この韓食専門店は韓国の江原道のガンヌン市に位置しています。具体的な住所はホンジェロ85ボンギル29です。"
+        },
+        {
+            "question": "この韓食専門店のおすすめメニューは何ですか？",
+            "answer": "この韓食専門店のおすすめはサムゲタンです。サムゲタンは韓国の滋養食であり、健康に良いとされています。"
+        },
+        {
+            "question": "サムゲタンとはどんな料理ですか？",
+            "answer": "サムゲタンは韓国の伝統的な料理で、鶏肉を主成分としたスープです。鶏肉にはギンセン（人参）やニンニクなどの健康に良い材料が詰まっています。"
+        }
+    ],
+    "word_Count": {
+        "text": 68,
+        "QA": 165
+    }
+}

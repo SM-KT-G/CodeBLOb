@@ -1,0 +1,31 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_024703",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "五友歌 ( 오우가 )"
+    },
+    "text": "五友歌 ( 오우가 )\\n\nソウル特別市 中区 明洞８カキル 42\\n\nたくさんのおかずが出てくる韓国の食文化が体験できます。 ソウル特別市の中区に位置した韓食専門店です。おすすめは野菜包みご飯定食です。",
+    "QA": [
+        {
+            "question": "この韓国の食文化を体験できるお店はどこですか？",
+            "answer": "韓国の食文化を体験できるお店は、ソウル特別市の中区に位置した明洞８カキルにある五友歌（오우가）です。"
+        },
+        {
+            "question": "五友歌（오우가）のおすすめメニューは何ですか？",
+            "answer": "五友歌（오우가）のおすすめメニューは野菜包みご飯定食です。たくさんのおかずが出てきて、韓国の食文化を楽しむことができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 74,
+        "QA": 115
+    }
+}

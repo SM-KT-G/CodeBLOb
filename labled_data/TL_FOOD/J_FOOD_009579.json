@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_009579",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-05",
+        "domain": "음식점",
+        "title": "ダリウオン ( 다리원 )"
+    },
+    "text": "ダリウオン ( 다리원 )\\n\nソウル特別市 恩平区 チュンサンソギル135\\n\n鉄板に出てくるおこげスープが有名です。代表的なメニューは海鮮おこげスープです。ソウル特別市のウンピョン区に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "ダリウオンはソウル特別市 恩平区 チュンサンソギル135に位置しています。"
+        },
+        {
+            "question": "ダリウオンの有名なメニューは何ですか？",
+            "answer": "ダリウオンの代表的なメニューは海鮮おこげスープです。"
+        },
+        {
+            "question": "ダリウオンはどのような店ですか？",
+            "answer": "ダリウオンはソウル特別市のウンピョン区に位置した韓食専門店です。"
+        }
+    ],
+    "word_Count": {
+        "text": 77,
+        "QA": 104
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_088274",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/view?relicId=124969",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2023-10-11",
+        "domain": "문화/역사관광",
+        "title": "암키와"
+    },
+    "text": "アムキワ (암키와)\\n\n,国籍/時代:'韓国 - 高麗' ,材質:'土 - 軟質' ,分類:'主生活 - 建築部材 - 屋根材 - 雌木輪' ,大きさ:'現在の長さ163cm、現在の幅158cm、厚さ20cm、現在の長さ168cm、現在の幅171cm、厚さ20cm、現在の長さ193cm、現在の幅147cm、厚さ17cm、現在の長さ192cm、現在の幅161cm、厚さ14cm'",
+    "QA": [
+        {
+            "question": "このアムキワの材質は何ですか？",
+            "answer": "アムキワの材質は軟質の土です。"
+        },
+        {
+            "question": "アムキワの大きさはどのくらいですか？",
+            "answer": "現在のアムキワの長さは163cm、幅は158cm、厚さは20cmです。"
+        },
+        {
+            "question": "アムキワはどのように使用されていましたか？",
+            "answer": "アムキワは高麗時代の主生活の建築部材で、屋根材の雌木輪として使用されていました。"
+        },
+        {
+            "question": "アムキワはどの国籍/時代で使用されていましたか？",
+            "answer": "アムキワは韓国の高麗時代で使用されていました。"
+        },
+        {
+            "question": "アムキワの保存状態はどうですか？",
+            "answer": "アムキワは現在、長さ168cm、幅171cm、厚さ20cm、長さ193cm、幅147cm、厚さ17cm、長さ192cm、幅161cm、厚さ14cmと保存されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 139,
+        "QA": 212
+    }
+}

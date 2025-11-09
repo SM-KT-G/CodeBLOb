@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_004225",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42030&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "포항 죽도동 쇼"
+    },
+    "text": "こんにちは。サンサ(双竜交差点)若さの街と隣接したショーモーテルです。 たくさんのご利用をお待ちしております。 ありがとうございます。 各部屋の入室基準を確認し、追加人数の場合は当日現地にて追加料金が決済されることをお知らせします。 オンシーズンや特定日、祝日には料金の変動がある場合があります。 入室の際は身分証明書を確認し、未成年者は入室制限となります(身分証明書を必ず持参してください。 親切にお答えします。",
+    "QA": [
+        {
+            "question": "ショーモーテルの場所はどこですか？",
+            "answer": "サンサ(双竜交差点)若さの街と隣接しています。"
+        },
+        {
+            "question": "ショーモーテルの基準料金はいくらですか？",
+            "answer": "基準料金はお問い合わせください。オンシーズンや特定日、祝日には料金の変動があります。"
+        },
+        {
+            "question": "追加人数の場合、追加料金は必要ですか？",
+            "answer": "追加人数の場合は当日現地にて追加料金が決済されます。"
+        },
+        {
+            "question": "未成年者は入室できますか？",
+            "answer": "未成年者は身分証明書を確認し、入室制限があります。身分証明書を必ず持参してください。"
+        },
+        {
+            "question": "オンシーズンや特定日、祝日の料金はいくらですか？",
+            "answer": "オンシーズンや特定日、祝日には料金の変動がありますので、お問い合わせください。"
+        }
+    ],
+    "word_Count": {
+        "text": 151,
+        "QA": 194
+    }
+}

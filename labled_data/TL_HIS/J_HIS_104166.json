@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_104166",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=365&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=00020000&ccbaCtcd=38&ccbaCpno=2113800020000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1972-02-12",
+        "domain": "문화/역사관광",
+        "title": "진주 촉석 정충단비"
+    },
+    "text": "真珠触石定虫断碑\\n\n慶尚南道晋州市本城洞499-7番地\\n\n慶尚南道有形文化財、チョクソク広場の中の精虫団に立っている雨で、壬辰倭乱当時、第2次晋州城の戦いで忠節を尽くした彼らの行動を称えている。雨は亀の支えとビモムを一つの石で彫刻しており、その上に定礎をのせて終了したが、定礎が特に大きくて全体が台形とみられる。定礎は二匹の竜が雲の中で如意宝珠をめぐって互いに争う姿が表現されていて、その下面に花を彫刻して華やかに飾った。碑文は下が磨り減ってその部分だけ判読することが大変なだけ概ね良好で、『朝鮮金石総覧』にその記録が掲載されている。主に晋州城で戦って死んだ彼らについて記述し、彼らの意志を称えており、特に3商売(三壯士)といわれているキムチョンイル、黄塵、チェギョンフェなどをその代表的な人物に挙げている。精虫団は彼らの英霊を慰めるために粛宗12年(1686)に設けた祭壇に、雨もその時、一緒に建立された。碑文は移民署が作文し、シンイクサンが文字を書いており、雨の名称は金萬重が書いた。雨の隣には第1次晋州城の戦いを勝利に導いた金時敏将軍の戦功記念碑(慶尚南道有形文化遺産第1号)が一緒に立っている。",
+    "QA": [
+        {
+            "question": "この碑文が記念している出来事は何ですか？",
+            "answer": "第2次晋州城の戦いで忠節を尽くした精虫団の行動を称えています。"
+        },
+        {
+            "question": "この碑文にはどのような内容が刻まれていますか？",
+            "answer": "晋州城で戦って死んだ精虫団の英霊を称える内容が刻まれており、特に3商売(三壯士)といわれているキムチョンイル、黄塵、チェギョンフェなどの人物が挙げられています。"
+        },
+        {
+            "question": "この碑文の雨の隣には何が立っていますか？",
+            "answer": "第1次晋州城の戦いを勝利に導いた金時敏将軍の戦功記念碑が立っています。"
+        }
+    ],
+    "word_Count": {
+        "text": 368,
+        "QA": 153
+    }
+}

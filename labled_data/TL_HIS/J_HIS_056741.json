@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_056741",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/view?relicId=35832768",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "끈"
+    },
+    "text": "ひも (끈)\\n\n国籍や時代は不明ですが、この品物は韓国のものとされています。材質は繊維であり、その他の素材が含まれています。このアイテムはその他の資料に分類され、用途は不明です。現在の長さは70.0cm、幅は5.3cmです。",
+    "QA": [
+        {
+            "question": "このひもの材質は何ですか？",
+            "answer": "このひもの材質は繊維であり、その他の素材も含まれています。"
+        },
+        {
+            "question": "このひもはどの国のものですか？",
+            "answer": "このひもは韓国のものとされています。"
+        },
+        {
+            "question": "このひもの用途は何ですか？",
+            "answer": "このひもの用途は不明です。"
+        },
+        {
+            "question": "このひもの長さと幅は何ですか？",
+            "answer": "現在の長さは70.0cm、幅は5.3cmです。"
+        }
+    ],
+    "word_Count": {
+        "text": 82,
+        "QA": 101
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_064912",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=641&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=04370000&ccbaCtcd=11&ccbaCpno=2111104370000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2019-02-14",
+        "domain": "문화/역사관광",
+        "title": "무예제보"
+    },
+    "text": "この初版本は国語に翻訳されて木版で刊行され、1714年に中間された木版本だ。この本は文禄・慶長の役や文禄・慶長の役の時、軍事訓練の必要性が大きくなって明朝の軍隊の兵法と戦術を導入するために作られた。本の中には大鳳、ドゥンペ、ナンソン、長槍、党派、長刀など6種の個人兵器を作る法との練習方法が絵とともに解説されている。初版本は水原の華城(ファソン)博物館と、フランスの東洋言語文化学校に所蔵されているが、重刊本に対する情報は現在まで知られていない。",
+    "QA": [
+        {
+            "question": "この初版本は何年に刊行されましたか？",
+            "answer": "1714年に刊行されました。"
+        },
+        {
+            "question": "この本はなぜ作られたのですか？",
+            "answer": "文禄・慶長の役の時、軍事訓練の必要性が大きくなり、明朝の軍隊の兵法と戦術を導入するために作られました。"
+        },
+        {
+            "question": "この本には主に何が解説されていますか？",
+            "answer": "この本には大鳳、ドゥンペ、ナンソン、長槍、党派、長刀など6種の個人兵器を作る法とその練習方法が絵とともに解説されています。"
+        },
+        {
+            "question": "初版本はどこに所蔵されていますか？",
+            "answer": "初版本は水原の華城(ファソン)博物館と、フランスの東洋言語文化学校に所蔵されています。"
+        },
+        {
+            "question": "この本の重刊本については何か情報がありますか？",
+            "answer": "現在まで知られていないため、重刊本に関する情報はありません。"
+        }
+    ],
+    "word_Count": {
+        "text": 163,
+        "QA": 213
+    }
+}

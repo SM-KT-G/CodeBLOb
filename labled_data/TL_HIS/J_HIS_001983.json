@@ -1,0 +1,51 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_001983",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=858&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=01320000&ccbaCtcd=37&ccbaCpno=2333701320000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1999-08-09",
+        "domain": "문화/역사관광",
+        "title": "김종무충신정려비"
+    },
+    "text": "キム·ジョンム忠臣旌閭碑 (김종무충신정려비)\\n\n慶尚北道亀尾市高牙邑元湖里139\\n\n朝鮮時代/朝鮮後期 , 慶尚北道記念物 , 旌閭碑とは忠臣·孝子·烈女などの言動と精神を称えるために彼らが住んでいた村の入口に建てる碑で、この碑は壬辰倭乱の時に活躍したキム·ジョンム(1548~1592)の忠節を称えている。 壬辰倭乱が起きた当時、沙斤島察訪を担当していたキム·ジョンムは後退する途中、尚州地域の巡査部長イ·イルの部下に入った。 その後、尚州判官クォン·ギルとともに倭軍と戦い、尚州北川戦闘で壮烈に戦死した。 粛宗1年(1675)忠臣に任命され、正祖14年(1790)李朝参議、高宗8年(1871)李朝判書に贈られた。 碑は碑閣の中に保存されており、碑文には「忠臣金宗茂之麗」と刻まれている。 扁額にはキム·ジョンムの功績と1675年以来の正表と、尚州忠烈祠に位牌を祀ったこと、彼が亡くなった後に官職が高くなった内容などが記録されている。 碑と碑閣の建立年代は粛宗1年(1675)であり、碑閣は高宗33年(1890)に再建されている。",
+    "QA": [
+        {
+            "question": "旌閭碑とは何ですか？",
+            "answer": "旌閭碑は忠臣·孝子·烈女などの言動と精神を称えるために彼らが住んでいた村の入口に建てる碑です。"
+        },
+        {
+            "question": "キム·ジョンムは何を称えられていますか？",
+            "answer": "この碑は壬辰倭乱の時に活躍したキム·ジョンムの忠節を称えています。"
+        },
+        {
+            "question": "キム·ジョンムはどのように壮烈に戦死しましたか？",
+            "answer": "キム·ジョンムは尚州北川戦闘で壮烈に戦死しました。"
+        },
+        {
+            "question": "碑はいつ建立されましたか？",
+            "answer": "碑は粛宗1年(1675)に建立されました。"
+        },
+        {
+            "question": "碑閣はいつ再建されましたか？",
+            "answer": "碑閣は高宗33年(1890)に再建されました。"
+        },
+        {
+            "question": "碑文には何が刻まれていますか？",
+            "answer": "碑文には「忠臣金宗茂之麗」と刻まれています。"
+        },
+        {
+            "question": "碑閣の中には何が保存されていますか？",
+            "answer": "碑閣の中には碑が保存されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 344,
+        "QA": 221
+    }
+}

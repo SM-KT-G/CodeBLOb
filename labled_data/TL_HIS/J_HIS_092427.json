@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_092427",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=28&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=11&ccbaAsno=03160000&ccbaCtcd=35&ccbaCpno=1113503160000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2011-11-28",
+        "domain": "문화/역사관광",
+        "title": "완주 화암사 극락전"
+    },
+    "text": "朝鮮時代初期、国宝、華岩寺は不明山シル峰の南側にある寺で、本社の金山寺に付属した寺です。寺を建てる当時の詳しい記録はありませんが、元暁と義湘が留学して帰ってきて修道したという記録から、新羅の文武王以前に建てられたものと思われます。極楽浄土を象徴する極楽殿は1981年解体修理の際に発見された記録によると、朝鮮宣祖38年(1605)に建てられたものとされています前面3間·側面3間の大きさで、屋根は側面から見ると人の字の形をした切妻屋根で飾られ、素朴で小さな規模を見せています。屋根の軒を支えるために柱の上の部分に装飾して編んだ構造が柱の上と柱の間にもある多包様式です。建物の内側の真ん中の間の裏側には観世音菩薩像が安置されており、その上に屋根模型の戸を作って龍を彫刻しています。華岩寺極楽殿は韓国でたった一つの下仰式構造です",
+    "QA": [
+        {
+            "question": "華岩寺はどのような場所に位置していますか？",
+            "answer": "不明山シル峰の南側にあります。"
+        },
+        {
+            "question": "華岩寺の極楽殿はいつ建てられたものですか？",
+            "answer": "朝鮮宣祖38年(1605)に建てられたものです。"
+        },
+        {
+            "question": "極楽殿の屋根はどのような形をしていますか？",
+            "answer": "側面から見ると人の字の形をした切妻屋根です。"
+        },
+        {
+            "question": "華岩寺極楽殿の構造はどのような特徴がありますか？",
+            "answer": "多包様式の構造が柱の上と柱の間に見られます。"
+        },
+        {
+            "question": "極楽殿の内側に安置されている像は何ですか？",
+            "answer": "観世音菩薩像が安置されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 265,
+        "QA": 151
+    }
+}

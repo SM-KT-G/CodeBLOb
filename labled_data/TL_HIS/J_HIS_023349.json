@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_023349",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2016-08-27",
+        "domain": "문화/역사관광",
+        "title": "新慶州駅（신경주역）"
+    },
+    "text": "新慶州駅\n慶尚北道 慶州市 乾川邑 新慶州駅路80\n慶州に作られた新慶州駅は2007年8月に着工し、2010年10月に駅舎竣工式を終え、2010年11月1日から営業を開始しました。",
+    "QA": [
+        {
+            "question": "新慶州駅はいつ着工されましたか？",
+            "answer": "新慶州駅は2007年8月に着工されました。"
+        },
+        {
+            "question": "新慶州駅はいつ竣工しましたか？",
+            "answer": "新慶州駅は2010年10月に駅舎竣工式を終えました。"
+        },
+        {
+            "question": "新慶州駅はいつ営業を開始しましたか？",
+            "answer": "新慶州駅は2010年11月1日から営業を開始しました。"
+        }
+    ],
+    "word_Count": {
+        "text": 66,
+        "QA": 90
+    }
+}

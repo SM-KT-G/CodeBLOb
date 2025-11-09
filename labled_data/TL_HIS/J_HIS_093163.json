@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_093163",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1081&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=01830000&ccbaCtcd=35&ccbaCpno=3413501830000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2002-11-15",
+        "domain": "문화/역사관광",
+        "title": "용화사미륵불상"
+    },
+    "text": "全羅北道文化財資料、弥勒殿に本尊として安置されている仏像で、膝以下の下の部分が地中に埋まっているため、全高は不明ですが、県の高さは約185cmです。仏像は厚い石を利用して後ろの部分は円形のまま整えられておらず、前の部分は彫刻されていますが、全体的に平面的な印象を与えます。しかし、側面から見るとかなりの重量感が感じられる仏像です。頭部には屋根石の形をした大きな宝冠が施されていますが、上部は玉の形で処理されています頭頂部にある像頭状の肉系は明らかではありませんが、その部分が高くそびえて保管されています。全体的に細長い顔に特に大きな耳が目立ち、顔は磨耗がひどくてよく見分けがつきません。しかし、目の部分はへこんで相対的に瞳が突き出て見え、少し開いた口はとても小さいながらも滑稽に表現された。胸のあたりには両手を際立たせるために、腕の内側を意図的にすりおろした跡がありますが、後代に補修したものと考えられます",
+    "QA": [
+        {
+            "question": "この仏像はどこに安置されていますか？",
+            "answer": "弥勒殿に本尊として安置されています。"
+        },
+        {
+            "question": "この仏像の全高はどれくらいですか？",
+            "answer": "膝以下の下の部分が地中に埋まっているため、全高は不明ですが、県の高さは約185cmです。"
+        },
+        {
+            "question": "仏像の頭部に何が施されていますか？",
+            "answer": "仏像の頭部には屋根石の形をした大きな宝冠が施されています。"
+        },
+        {
+            "question": "仏像の顔の特徴は何ですか？",
+            "answer": "仏像は細長い顔に特に大きな耳が目立ち、顔は磨耗がひどくてよく見分けがつきません。しかし、目の部分はへこんで相対的に瞳が突き出て見え、少し開いた口はとても小さいながらも滑稽に表現されています。"
+        },
+        {
+            "question": "仏像の腕には何の跡がありますか？",
+            "answer": "胸のあたりには両手を際立たせるために、腕の内側を意図的にすりおろした跡がありますが、後代に補修したものと考えられます。"
+        }
+    ],
+    "word_Count": {
+        "text": 295,
+        "QA": 239
+    }
+}

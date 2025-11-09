@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_032036",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=450&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=00980000&ccbaCtcd=32&ccbaCpno=2113200980000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1985-01-17",
+        "domain": "문화/역사관광",
+        "title": "춘천향교"
+    },
+    "text": "春川郷校 (춘천향교)\\n\n江原道春川市朔州路21(校洞)\\n\n1、江原特別自治道 有形文化財、郷校は立派な儒学者を祭祀し、地方民の儒学教育と教化のために国で建てた教育機関だ。 最初に建てられた年代は伝えず、壬辰倭乱の時に燃えたものを宣祖27年(1594)に建て直した。 その後、数回の修理があり、朝鮮戦争で焼けたものを1960年に復元した。 今残っている建物は大成殿と明倫堂·長水楼·東斎·西斎·東武·西武·内三門などだ。 大成殿は祠堂で、孔子をはじめ中国と韓国の儒学者の位牌が祀られている。 明倫堂は学生たちが集まって勉強する講堂で教化の源泉にもなった。 朝鮮時代には国から土地と本·奴婢などを支給され運営した。 甲午改革（1894）以後、教育的機能はなくなり、今は祭祀の機能だけが残っている。『寿春郷約』·『郷中左目』·『郷安』等が地方郷土史研究に貴重な本を所蔵している。",
+    "QA": [
+        {
+            "question": "春川郷校はどのような機能を持っていましたか？",
+            "answer": "春川郷校は、地方民の儒学教育と教化のために国で建てられた教育機関でした。"
+        },
+        {
+            "question": "春川郷校の建物は何が残っていますか？",
+            "answer": "春川郷校の建物には大成殿と明倫堂・長水楼・東斎・西斎・東武・西武・内三門などが残っています。"
+        },
+        {
+            "question": "大成殿では何が祀られていますか？",
+            "answer": "大成殿では孔子をはじめ中国と韓国の儒学者の位牌が祀られています。"
+        },
+        {
+            "question": "明倫堂はどのような機能を持っていましたか？",
+            "answer": "明倫堂は学生たちが集まって勉強する講堂であり、教化の源泉にもなっていました。"
+        },
+        {
+            "question": "春川郷校はいつ建て直されましたか？",
+            "answer": "春川郷校は壬辰倭乱の時に燃えたものを宣祖27年(1594)に建て直されました。"
+        }
+    ],
+    "word_Count": {
+        "text": 285,
+        "QA": 209
+    }
+}

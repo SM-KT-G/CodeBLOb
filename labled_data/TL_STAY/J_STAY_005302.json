@@ -1,0 +1,31 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_005302",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/goods/GN0002027487?startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "서산 톡 무인텔"
+    },
+    "text": "ご予約後、到着時に必ずフロントにご連絡ください。 一般のお客様と混同される場合がありますので、到着時にご連絡いただかないと入室できません。 必ず到着したらフロントまでご連絡ください！ 追加料金の案内基準は人数の他に、1人追加につき1万ウォンの料金が発生します。",
+    "QA": [
+        {
+            "question": "お客様がフロントに連絡する必要がある理由は何ですか？",
+            "answer": "お客様がフロントに連絡する必要があるのは、一般のお客様との混同を避けるためです。フロントへの連絡がないと、部屋に入ることができませんので、必ず到着したらフロントまでご連絡ください。"
+        },
+        {
+            "question": "追加料金の基準は何ですか？",
+            "answer": "追加料金の基準は人数の他に、1人追加につき1万ウォンの料金が発生します。"
+        }
+    ],
+    "word_Count": {
+        "text": 95,
+        "QA": 121
+    }
+}

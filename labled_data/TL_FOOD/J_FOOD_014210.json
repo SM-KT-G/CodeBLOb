@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_014210",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "ミヨンイネ食堂 ( 미영이네식당 )"
+    },
+    "text": "ミヨンイネ食堂 ( 미영이네식당 )\n済州特別自治道 西帰浦市 大静邑 下模港口路 42\nサバの刺身と一緒にサバスープも味わえる特別な有名店です。済州特別自治道のソグィポ市に位置した韓食専門店です。代表的なメニューはサバの刺身です。",
+    "QA": [
+        {
+            "question": "ミヨンイネ食堂 ( 미영이네식당 ) はどこにありますか？",
+            "answer": "ミヨンイネ食堂は済州特別自治道の西帰浦市大静邑下模港口路42に位置しています。"
+        },
+        {
+            "question": "ミヨンイネ食堂の代表的なメニューは何ですか？",
+            "answer": "ミヨンイネ食堂の代表的なメニューはサバの刺身です。"
+        },
+        {
+            "question": "ミヨンイネ食堂でサバの刺身と一緒に味わえる特別な料理はありますか？",
+            "answer": "はい、ミヨンイネ食堂ではサバの刺身と一緒にサバスープも味わえます。"
+        }
+    ],
+    "word_Count": {
+        "text": 85,
+        "QA": 132
+    }
+}

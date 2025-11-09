@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001484",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "BOMNAL ( 봄날 )"
+    },
+    "text": "BOMNAL \n済州特別自治道 済州市 涯月邑 涯月路1キル 25\n素晴らしい海の景色を眺めながらコーヒーが飲める店です。 済州特別自治道のジェジュ市に位置したカフェ（コーヒーショップ）です。代表的なメニューはコーヒーです。",
+    "QA": [
+        {
+            "question": "このカフェはどこにありますか？",
+            "answer": "このカフェは済州特別自治道のジェジュ市に位置しています。"
+        },
+        {
+            "question": "このカフェの名前は何ですか？",
+            "answer": "このカフェの名前は「BOMNAL」です。"
+        },
+        {
+            "question": "このカフェの特徴は何ですか？",
+            "answer": "このカフェの特徴は、素晴らしい海の景色を眺めながらコーヒーを楽しむことができることです。"
+        },
+        {
+            "question": "このカフェの代表的なメニューは何ですか？",
+            "answer": "このカフェの代表的なメニューはコーヒーです。"
+        }
+    ],
+    "word_Count": {
+        "text": 82,
+        "QA": 129
+    }
+}

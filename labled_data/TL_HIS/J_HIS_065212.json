@@ -1,0 +1,51 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_065212",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=376&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=00130000&ccbaCtcd=34&ccbaCpno=2113400130000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1973-12-26",
+        "domain": "문화/역사관광",
+        "title": "문수사극락보전"
+    },
+    "text": "忠木王以前(高麗時代)、忠清南道有形文化財、文殊寺が初めて建てられた年代は不明ですが、1973年極楽宝殿の金銅如来坐像から高麗忠木王2年(1346)に作られた文書が発見され、それ以前に建てられたものと考えられています。阿弥陀仏を祀る法堂である極楽宝殿も高麗時代に建てられ、朝鮮時代に建て直されたものと思われます。前面3間·側面2間の規模で、屋根の側面が人字型の切妻屋根の家です屋根の軒を支えながら装飾を兼ねる恐怖が柱の上と柱の間にもある多包式の建物です。前面と裏面の柱の間には2つの空砲が配置されており、側面には空砲がないため、切妻屋根の建物の一般的な側面設計方式に従っています。内部には中央に仏壇が配置され、その上には華やかな戸締まりが施されています。床には井戸の床を敷いて儀式を行う時や修行に役立てています",
+    "QA": [
+        {
+            "question": "文殊寺はいつ建てられましたか？",
+            "answer": "文殊寺の建立年代ははっきりしませんが、高麗時代に建てられたと考えられています。"
+        },
+        {
+            "question": "極楽宝殿はいつ建てられましたか？",
+            "answer": "極楽宝殿は高麗時代に建てられ、朝鮮時代に建て直されました。"
+        },
+        {
+            "question": "文殊寺の極楽宝殿の規模はどれくらいですか？",
+            "answer": "極楽宝殿は前面が3間、側面が2間の規模です。"
+        },
+        {
+            "question": "極楽宝殿の屋根はどんな形状ですか？",
+            "answer": "極楽宝殿の屋根は人字型の切妻屋根です。"
+        },
+        {
+            "question": "極楽宝殿の柱には何がありますか？",
+            "answer": "極楽宝殿の柱には恐怖が柱の上と柱の間に装飾として施されています。"
+        },
+        {
+            "question": "極楽宝殿の内部には何がありますか？",
+            "answer": "極楽宝殿の内部には中央に仏壇が配置されており、その上には華やかな戸締まりが施されています。"
+        },
+        {
+            "question": "文殊寺の床には何が敷かれていますか？",
+            "answer": "文殊寺の床には井戸の床が敷かれています。儀式や修行に役立てられています。"
+        }
+    ],
+    "word_Count": {
+        "text": 260,
+        "QA": 250
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_002438",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-01",
+        "domain": "음식점",
+        "title": "アパ粉食 ( 아빠분식 )"
+    },
+    "text": "アパ粉食 \n京畿道 平沢市 彭城邑 安停循環路104ボンキル 20\nK-6安停里のパラディアオフィステルの前にある、粉ものと韓国料理の専門店です。 代表的なメニューはチョルミョンです。",
+    "QA": [
+        {
+            "question": "アパ粉食はどこにありますか？",
+            "answer": "アパ粉食は京畿道平沢市彭城邑安停循環路104ボンキル 20 K-6安停里のパラディアオフィステルの前にあります。"
+        },
+        {
+            "question": "アパ粉食の代表的なメニューは何ですか？",
+            "answer": "アパ粉食の代表的なメニューはチョルミョンです。"
+        }
+    ],
+    "word_Count": {
+        "text": 67,
+        "QA": 82
+    }
+}

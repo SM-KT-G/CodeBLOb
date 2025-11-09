@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_083093",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101933",
+        "collectedDate": "2023-10-06",
+        "publishedDate": "2023-10-06",
+        "domain": "문화/역사관광",
+        "title": "소다미술관"
+    },
+    "text": "ソーダ美術館\\n\nソーダ美術館(SODA_Space of Design and Architecture)は、京畿道華城市安寧洞に位置する最初の私立美術館および展示館である。 2014年10月に開館した。 住所は孝行路707番キル30だ。\n",
+    "QA": [
+        {
+            "question": "美術館の名前は何ですか？",
+            "answer": "ソーダ美術館(SODA_Space of Design and Architecture)は、京畿道華城市安寧洞に位置する最初の私立美術館および展示館である。"
+        },
+        {
+            "question": "美術館の住所はどこですか？",
+            "answer": "ソーダ美術館の住所は孝行路707番キル30です。"
+        },
+        {
+            "question": "美術館はいつ開館しましたか？",
+            "answer": "ソーダ美術館は2014年10月に開館しました。"
+        },
+        {
+            "question": "美術館はどのような場所に位置していますか？",
+            "answer": "ソーダ美術館は京畿道華城市安寧洞に位置しています。"
+        },
+        {
+            "question": "ソーダ美術館の特徴は何ですか？",
+            "answer": "ソーダ美術館は私立美術館および展示館としての位置づけが特徴です。"
+        }
+    ],
+    "word_Count": {
+        "text": 88,
+        "QA": 189
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_021609",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42040&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "목포 호텔우인"
+    },
+    "text": "木浦に位置するホテルのウインは木浦駅からとても近いです。 フロントは00時まで営業しており、その後はチェックインが難しい場合があります。 スイートルームの寝具類の追加は22時まで要請できます。 施設全体が禁煙区域で、指定された場所以外は喫煙を禁止します。 これに違反した場合、[国民健康増進法]に基づき、10万ウォン以下の過料が課されます。 当建物は障害者補助犬以外のペットの出入りを制限しています。",
+    "QA": [
+        {
+            "question": "ウインホテルはどこに位置していますか？",
+            "answer": "ウインホテルは木浦に位置しています。"
+        },
+        {
+            "question": "ウインホテルのフロントの営業時間は何時までですか？",
+            "answer": "ウインホテルのフロントは00時まで営業しています。"
+        },
+        {
+            "question": "スイートルームの寝具類の追加は何時まで要請できますか？",
+            "answer": "スイートルームの寝具類の追加は22時まで要請できます。"
+        },
+        {
+            "question": "ウインホテルは禁煙ですか？",
+            "answer": "はい、ウインホテルは施設全体が禁煙区域です。"
+        },
+        {
+            "question": "ペットはホテルに入れますか？",
+            "answer": "申し訳ありませんが、当ホテルでは障害者補助犬以外のペットの出入りを制限しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 146,
+        "QA": 169
+    }
+}

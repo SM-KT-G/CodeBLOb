@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_029005",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=9&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=11&ccbaAsno=01030000&ccbaCtcd=24&ccbaCpno=1112401030000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1962-12-20",
+        "domain": "자연관광",
+        "title": "광양 중흥산성 쌍사자 석등"
+    },
+    "text": "光陽 ジャン 双獅子 石灯籠\\n\n光州北区下西路110、ジャン·ジャン(梅谷洞)\\n\n統一新羅時代、国宝、石灯籠は、省庁の光明を象徴するとして、光明の(光明燈)と述べながら、たいてい大雄殿や塔のような重要な建築物の前に位置する。一般的に火を明らかにしておくファサソク(火舍石)を中心に、下は3段をなす台座を置いて、上はジブンドルを挙げた後のてっぺんに髪飾りをのせて終了する。この石灯籠は大きな蓮華が張り巡らされた下台石の上に中、柱の代わりに双獅子を彫刻したのが特徴だ。二頭の獅子は後足で立ちはだかって胸を突き合わせて胃を支えている姿で、事実的かつ自然に表現されており、注目される。8角のファサソクには4つの窓が設置されていて、ジブンドルは八つの角におけるおだててことが美しく表現された。装飾が煩雑でなくて、簡潔ながらも、写実的な手法が目立つ統一新羅時代の作品で、あまり大きくないながらも、優れた彫刻の技法と美しい造形美を示す傑作といえる。元々は中興山城内にあったが、日本人が無断で搬出しようとして景福宮に移しておいてから、今は国立光州博物館に展示している。",
+    "QA": [
+        {
+            "question": "この石灯籠は何を象徴していますか？",
+            "answer": "光明を象徴しています。"
+        },
+        {
+            "question": "石灯籠の下には何が置かれていますか？",
+            "answer": "大きな蓮華が張り巡らされた下台石が置かれています。"
+        },
+        {
+            "question": "石灯籠のファサソクに何が設置されていますか？",
+            "answer": "ファサソクには窓が設置されています。"
+        },
+        {
+            "question": "石灯籠の上部に何が飾られていますか？",
+            "answer": "上部に髪飾りが飾られています。"
+        },
+        {
+            "question": "この石灯籠はどの時代の作品ですか？",
+            "answer": "統一新羅時代の作品です。"
+        },
+        {
+            "question": "この石灯籠はどこに移されて展示されていますか？",
+            "answer": "日本人が無断で搬出しようとして景福宮に移しておいてから、今は国立光州博物館に展示されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 350,
+        "QA": 178
+    }
+}

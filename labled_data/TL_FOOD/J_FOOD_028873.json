@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_028873",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-08-04",
+        "domain": "음식점",
+        "title": "豊美（풍미）"
+    },
+    "text": "豊美（풍미）\\n\n仁川広域市 中区 チャイナタウン路54\\n\n「豊美（プンミ）」は1957年に開業した店で、この店がある通りでは老舗の中華料理屋として知られています。唐辛子入りジャージャー麺（ソース別盛り）が人気メニューです。",
+    "QA": [
+        {
+            "question": "豊美（プンミ）はいつ開業しましたか？",
+            "answer": "豊美（プンミ）は1957年に開業しました。"
+        },
+        {
+            "question": "豊美（プンミ）はどの地区にありますか？",
+            "answer": "豊美（プンミ）は仁川広域市の中区にあります。"
+        },
+        {
+            "question": "豊美（プンミ）はどのような料理屋ですか？",
+            "answer": "豊美（プンミ）は中華料理屋で、この通りでは老舗として知られています。"
+        },
+        {
+            "question": "豊美（プンミ）の人気メニューは何ですか？",
+            "answer": "豊美（プンミ）の人気メニューは唐辛子入りジャージャー麺（ソース別盛り）です。"
+        }
+    ],
+    "word_Count": {
+        "text": 82,
+        "QA": 140
+    }
+}

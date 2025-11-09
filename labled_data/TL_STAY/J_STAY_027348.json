@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_027348",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.goodchoice.kr/product/detail?ano=62916&adcno=1&sel_date=2023-11-07&sel_date2=2023-11-08",
+        "collectedDate": "2023-11-15",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "천안 칼튼"
+    },
+    "text": "地下鉄の情報は天安駅と鳳鳴駅を号線で持っています。 客室の内部施設としては、全客室にTV、ヘアドライヤー、携帯電話の充電器、Wi-Fi、エアコン、電気カーペット、扇風機、冷蔵庫、IPTVの設置が完了しています。 追加で全室にガウン、スリッパ、鏡が完備されています。",
+    "QA": [
+        {
+            "question": "天安駅と鳳鳴駅はどの号線にありますか？",
+            "answer": "天安駅と鳳鳴駅は号線で管理されています。"
+        },
+        {
+            "question": "客室の内部施設は何がありますか？",
+            "answer": "全客室にはTV、ヘアドライヤー、携帯電話の充電器、Wi-Fi、エアコン、電気カーペット、扇風機、冷蔵庫、IPTVが完備されています。"
+        },
+        {
+            "question": "追加で何が客室に完備されていますか？",
+            "answer": "全室にはガウン、スリッパ、鏡が完備されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 96,
+        "QA": 119
+    }
+}

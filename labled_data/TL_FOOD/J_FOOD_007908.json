@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_007908",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-03",
+        "domain": "음식점",
+        "title": "ジンヨン豆腐マウル ( 진영두부마을 )"
+    },
+    "text": "ジンヨン豆腐マウル ( 진영두부마을 )\\n\n江原道 ガンヌン市 オクガロ20\\n\n様々な豆腐料理を提供する店です。江原道のガンヌン市に位置した韓食専門店です。おすすめはきのこ入り豆腐の寄せ鍋です。",
+    "QA": [
+        {
+            "question": "ジンヨン豆腐マウルはどこに位置していますか？",
+            "answer": "ジンヨン豆腐マウルは江原道のガンヌン市のオクガロ20に位置しています。"
+        },
+        {
+            "question": "ジンヨン豆腐マウルではどんな料理が提供されていますか？",
+            "answer": "ジンヨン豆腐マウルでは様々な豆腐料理が提供されています。特におすすめはきのこ入り豆腐の寄せ鍋です。"
+        },
+        {
+            "question": "寄せ鍋以外にもジンヨン豆腐マウルのおすすめ料理はありますか？",
+            "answer": "はい、ジンヨン豆腐マウルでは他にも様々なおすすめ料理があります。詳しい内容は店舗にお問い合わせください。"
+        }
+    ],
+    "word_Count": {
+        "text": 72,
+        "QA": 157
+    }
+}

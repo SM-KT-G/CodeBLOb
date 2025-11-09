@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_025484",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1168&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=05650000&ccbaCtcd=37&ccbaCpno=3413705650000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2010-03-11",
+        "domain": "문화/역사관광",
+        "title": "영주 내림리 모은정"
+    },
+    "text": "栄州内里のモウンジョン (영주 내림리 모은정)\\n\n慶尚北道栄州市内路89番キル33(二山面)\\n\n朝鮮時代 , 慶尚北道文化財資料 , 集めた亭は迎日鄭氏の抱恩公派28代テヨン(1827~1895)が晩年に西岩を建立して講学、自首したが、その後庵が崩れると玄孫たちが西庵久地に亭子を建てて集めた亭だと扁額を掛け合わせたのだ。東屋は正面3間、側面2間規模の入母屋造りの瓦葺き屋根である。 亭子の周囲には瓦を乗せた土石塀を巡らしたが、前面にあった四柱門が現在崩れた状態だ。平面は板の間を中心に左右にオンドル部屋1間ずつを連接させた後、前面には半間規模の退間を置いた中堂協室型だが、板の間の前面には4分合入って10個の扉を設置して床部屋を形成し、退間の周囲には平欄干を設置した。 家具は従量の上に剤形板台工を立て、床台と長舌を受けるようにした五良家の利益工集であり、軒は二重軒だ。",
+    "QA": [
+        {
+            "question": "この亭子は誰によって建てられましたか？",
+            "answer": "この亭子は迎日鄭氏の抱恩公派28代テヨンによって建てられました。"
+        },
+        {
+            "question": "この亭子はどの時代に建てられましたか？",
+            "answer": "この亭子は朝鮮時代に建てられました。"
+        },
+        {
+            "question": "亭子の周囲には何がありますか？",
+            "answer": "亭子の周囲には瓦を乗せた土石塀があります。"
+        },
+        {
+            "question": "亭子の平面はどのような構造ですか？",
+            "answer": "亭子の平面は中堂協室型で、板の間を中心に左右にオンドル部屋を連接させた後、前面に半間規模の退間を置いています。"
+        },
+        {
+            "question": "亭子の家具はどのようなものがありますか？",
+            "answer": "亭子の家具には従量の上に剤形板台工を立て、床台と長舌を受けるようにした五良家の利益工集があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 285,
+        "QA": 194
+    }
+}

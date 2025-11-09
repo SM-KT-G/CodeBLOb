@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_030255",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/koko-bruni-hongdae-branch",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "coco bruni 弘大店"
+    },
+    "text": "coco bruni 弘大店\\n\nソウル市マポ区ホンイクロ6ギル57\\n\n代表的なメニューシクリッカラメル : KRW 4,000 パッドゥロシュ : KRW 8,000 オチガミ : KRW 12,000 ココプリミオム : KRW 5,800 利用時間 10:00~24:00 電話番号 02-334-1875",
+    "QA": [
+        {
+            "question": "ココブルニはどこにありますか？",
+            "answer": "ココブルニはソウル市マポ区ホンイクロ6ギル57にあります。"
+        },
+        {
+            "question": "ココブルニの代表的なメニューは何ですか？",
+            "answer": "ココブルニの代表的なメニューはシクリッカラメル、パッドゥロシュ、オチガミ、ココプリミオムです。"
+        },
+        {
+            "question": "ココブルニの営業時間は何時から何時までですか？",
+            "answer": "ココブルニの営業時間は10時から24時までです。"
+        },
+        {
+            "question": "ココブルニの電話番号は何ですか？",
+            "answer": "ココブルニの電話番号は02-334-1875です。"
+        }
+    ],
+    "word_Count": {
+        "text": 115,
+        "QA": 145
+    }
+}

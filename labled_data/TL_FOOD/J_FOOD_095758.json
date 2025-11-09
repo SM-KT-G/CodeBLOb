@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_095758",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "中央ガーデン ( 중앙가든 )"
+    },
+    "text": "中央ガーデン ( 중앙가든 )\n江原道 ガンヌン市 オクギェ面 ヒョンネシジャンギル19\n韓国式BBQが味わえる店です。おすすめはサムギョプサルです。江原道のガンヌン市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "中央ガーデンはどこに位置していますか？",
+            "answer": "中央ガーデンは江原道のガンヌン市に位置しています。"
+        },
+        {
+            "question": "中央ガーデンでは何が食べられますか？",
+            "answer": "中央ガーデンでは韓国式BBQが味わえます。特にサムギョプサルがおすすめです。"
+        },
+        {
+            "question": "中央ガーデンのおすすめメニューは何ですか？",
+            "answer": "中央ガーデンのおすすめメニューはサムギョプサルです。"
+        }
+    ],
+    "word_Count": {
+        "text": 71,
+        "QA": 107
+    }
+}

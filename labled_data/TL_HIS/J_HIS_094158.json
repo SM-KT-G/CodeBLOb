@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_094158",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=373&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=00110000&ccbaCtcd=21&ccbaCpno=2112100110000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1972-06-26",
+        "domain": "문화/역사관광",
+        "title": "원효암 동편 삼층석탑"
+    },
+    "text": "10世紀頃(新羅末、高麗町)に釜山広域市有形文化財である3階石塔が元暁庵の入口に位置している。この石塔は元曉大師が滞在し、倭兵を退けた説話を伝えており、西側にはもっと小さな三層石塔がもう一つ立てられている。元々は2階の基壇の上に3階の塔身を立てて、その上に髪飾りを上げたが、現在はパダクドルの上に3階塔だけが掲載されている。塔身の石核は円柱で彫刻されたが、2階と3階石核は材質と比例で見て後に復元されたものと推定される。ジブンドルは四隅が少し上がっていて曲線美を感じられ、下面には4段の下敷きがある。全体的にみて、統一新羅時代後期から高麗電気に建てられたものと推定され、この塔は元の位置にまた建てられたものと元暁庵の歴史と創建時期を知らせる重要な資料である。",
+    "QA": [
+        {
+            "question": "元暁庵の入口に位置している3階石塔は何世紀頃に建てられましたか？",
+            "answer": "10世紀頃に建てられました。"
+        },
+        {
+            "question": "石塔の元の位置に再建された理由は何ですか？",
+            "answer": "元暁庵の歴史と創建時期を知らせるため、元の位置に再建されました。"
+        },
+        {
+            "question": "石塔の塔身はどのように彫刻されていますか？",
+            "answer": "塔身の石核は円柱で彫刻されています。"
+        },
+        {
+            "question": "石塔の建設時期はどの時代と推定されていますか？",
+            "answer": "統一新羅時代後期から高麗時代に建てられたと推定されています。"
+        },
+        {
+            "question": "石塔の下面に何がありますか？",
+            "answer": "下面には4段の下敷きがあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 241,
+        "QA": 162
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_004610",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=954&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=00050000&ccbaCtcd=26&ccbaCpno=3412600050000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1997-10-09",
+        "domain": "문화/역사관광",
+        "title": "박상진의사생가"
+    },
+    "text": "パク·サンジン義士の生家 (박상진의사생가)\\n\n蔚山北区パク·サンジンギル23(松亭洞)\\n\n蔚山広域市文化財資料 , 独立運動家として活躍した故ホン·サンジン（1884~1921）が生まれ育った家だ。 パク·サンジンは秘密結社隊である大韓光復会を組織し、総司令として光復のために活躍した方だ。 デムンチェとサランチェ、アンチェなど様々な付属建物を「ㅂ」字型に配置した。 サランチェは床と部屋を備えており、後ろの中門を過ぎるとㄱ字型の母屋がある。 男女の空間を小さな扉で簡単に区画し、それぞれの空間に独立性を確保している。",
+    "QA": [
+        {
+            "question": "この家はどこにありますか？",
+            "answer": "この家は蔚山北区パク·サンジンギル23にあります。"
+        },
+        {
+            "question": "パク·サンジンは何をしましたか？",
+            "answer": "パク·サンジンは大韓光復会という秘密結社隊を組織し、総司令として光復のために活躍しました。"
+        },
+        {
+            "question": "この家の建物配置はどのようにされていますか？",
+            "answer": "この家ではデムンチェとサランチェ、アンチェなどの付属建物を「ㅂ」字型に配置しています。"
+        },
+        {
+            "question": "サランチェにはどのような機能がありますか？",
+            "answer": "サランチェには床と部屋があります。また、後ろの中門を過ぎるとㄱ字型の母屋があります。"
+        },
+        {
+            "question": "この家では男女の空間がどのように区切られていますか？",
+            "answer": "この家では小さな扉で男女の空間を簡単に区切り、それぞれの空間に独立性を確保しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 192,
+        "QA": 217
+    }
+}

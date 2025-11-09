@@ -1,0 +1,51 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_090660",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=505&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=01720000&ccbaCtcd=33&ccbaCpno=2113301720000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1993-06-04",
+        "domain": "문화/역사관광",
+        "title": "영동 무첨재"
+    },
+    "text": "永同無添加物\\n\n忠清北道永同郡梅谷面玉田2ギル69(玉田里)\\n\n忠清北道有形文化財、朝鮮中宗17年(1522)王家の外孫アンヨカ、後学を教育して養成する目的で建てた建物である。後学たちが世の中を恥ずかしくなく生きていけという意味で''ムチョムジェ''と名づけたという。1872年に火災で一部が燃えて見直され、1911年、1948年も修理したが、今ある建物は1994年に手直ししたのである。前面4間・側面2間規模で屋根は横顔が八(八部)字と似たような入母屋屋根である。軒を支えようと柱の上に作った恐怖は新しい翼の形で飾って合わせる手法(つの翼型、洋食)を利用した。うち、2間に広々とした板の間を作り、板の間と見せかけ、両方クッバンはオンドル部屋にした。ムチョムジェは朝鮮後期の建築技法を大切にしている建物だ。...",
+    "QA": [
+        {
+            "question": "この建物はいつ建てられましたか？",
+            "answer": "1522年に建てられました。"
+        },
+        {
+            "question": "この建物は誰によって建てられましたか？",
+            "answer": "王家の外孫アンヨカによって建てられました。"
+        },
+        {
+            "question": "この建物はどのような目的で建てられましたか？",
+            "answer": "後学を教育して養成する目的で建てられました。"
+        },
+        {
+            "question": "この建物はどのような修理が行われましたか？",
+            "answer": "1872年、1911年、1948年に修理が行われました。"
+        },
+        {
+            "question": "この建物の屋根の形はどのような形ですか？",
+            "answer": "入母屋屋根であり、横顔が八(八部)字と似た形をしています。"
+        },
+        {
+            "question": "この建物の特徴的な装飾は何ですか？",
+            "answer": "恐怖を新しい翼の形で飾って合わせる手法を利用した柱の上に作った恐怖が特徴的です。"
+        },
+        {
+            "question": "この建物はどの時代の建築技法を大切にしていますか？",
+            "answer": "朝鮮後期の建築技法を大切にしています。"
+        }
+    ],
+    "word_Count": {
+        "text": 262,
+        "QA": 229
+    }
+}

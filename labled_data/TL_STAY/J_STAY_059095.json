@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_059095",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2022-12-26",
+        "domain": "숙박",
+        "title": "초원펜션(제부도 초원펜션)"
+    },
+    "text": "草原ペンションは、済扶島海岸道路のすぐ横に位置しており、大規模な団体室で落ち着いた恋人室まで多様な客室を備えている。MTとサラリーマンのピクニックなどの草原ペンションは、団体旅行に適した大型客室や各種便宜施設が用意されている。。",
+    "QA": [
+        {
+            "question": "草原ペンションはどこに位置していますか？",
+            "answer": "草原ペンションは済扶島海岸道路のすぐ横に位置しています。"
+        },
+        {
+            "question": "草原ペンションはどんな客室がありますか？",
+            "answer": "草原ペンションは大規模な団体室から落ち着いた恋人室まで多様な客室を備えています。"
+        },
+        {
+            "question": "草原ペンションは団体旅行に適していますか？",
+            "answer": "はい、草原ペンションは団体旅行に適した大型客室や各種便宜施設が用意されています。"
+        },
+        {
+            "question": "草原ペンションでのピクニックについて教えてください。",
+            "answer": "草原ペンションでは、MTやサラリーマンのピクニックなどが楽しめます。"
+        }
+    ],
+    "word_Count": {
+        "text": 83,
+        "QA": 167
+    }
+}

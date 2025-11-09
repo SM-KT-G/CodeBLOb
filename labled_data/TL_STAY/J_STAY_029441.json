@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_029441",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.goodchoice.kr/product/detail?ano=4138&adcno=1&sel_date=2023-11-07&sel_date2=2023-11-08",
+        "collectedDate": "2023-11-15",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "전주 스카이쇼원"
+    },
+    "text": "駐車場情報:客室駐車のみ可能です。 計4台の駐車施設を保有しています。 周辺情報:全州高速バス停300m、全州市外バス共用ターミナル200m、全州総合競技場500m、徳津公園85km、全州韓屋村車で0分。",
+    "QA": [
+        {
+            "question": "駐車場は何台分ありますか？",
+            "answer": "計4台の駐車施設を保有しています。"
+        },
+        {
+            "question": "駐車場は客室駐車のみ可能ですか？",
+            "answer": "はい、客室駐車のみ可能です。"
+        },
+        {
+            "question": "周辺にどのような施設がありますか？",
+            "answer": "全州高速バス停300m、全州市外バス共用ターミナル200m、全州総合競技場500m、徳津公園85km、全州韓屋村車で0分の場所にあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 74,
+        "QA": 107
+    }
+}

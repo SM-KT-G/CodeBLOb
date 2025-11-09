@@ -1,0 +1,51 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_009411",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1195&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=79&ccbaAsno=00520000&ccbaCtcd=11&ccbaCpno=4411100520000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2003-06-30",
+        "domain": "문화/역사관광",
+        "title": "구 서울특별시청사"
+    },
+    "text": "旧ソウル特別市庁舎 (구 서울특별시청사)\\n\nソウル中区世宗大路110(テピョンロ1街)\\n\n1926 , 国家登録文化財 , この建物は1926年に京城府庁舎として建設された官公庁建物で、光復後1946年からソウル市庁舎として使われ、現在ソウル図書館として使われている。日帝強占期当時、日本が韓国を占領するために建てた建物で、日本が行った韓国侵奪の歴史を証言している。地下1階地上6階(屋上2階含む)の鉄筋コンクリート造建物で、日本人が設計し、光復後にソウル市庁舎として使われ、漢江の奇跡を成し遂げた韓国の現代史が一緒に盛り込まれている歴史の現場だ。外観が花崗石·吹き出し仕上げになっているルネサンス様式の建築物であり、屋上など主要部分には建設当時の姿がよく残っており、当時の建築技術水準を計ることができる。",
+    "QA": [
+        {
+            "question": "この建物はいつ建設されましたか？",
+            "answer": "1926年に京城府庁舎として建設されました。"
+        },
+        {
+            "question": "この建物は何年からソウル市庁舎として使われていましたか？",
+            "answer": "1946年からソウル市庁舎として使われていました。"
+        },
+        {
+            "question": "現在この建物は何として使われていますか？",
+            "answer": "現在はソウル図書館として使われています。"
+        },
+        {
+            "question": "この建物はどのような歴史を証言していますか？",
+            "answer": "この建物は日本が行った韓国侵奪の歴史を証言しています。"
+        },
+        {
+            "question": "この建物の外観はどのような特徴がありますか？",
+            "answer": "この建物は花崗石・吹き出し仕上げになっており、ルネサンス様式の建築物です。"
+        },
+        {
+            "question": "この建物の主要部分には何が残っていますか？",
+            "answer": "この建物の屋上など主要部分には建設当時の姿がよく残っています。"
+        },
+        {
+            "question": "この建物はどのような建築技術水準を計ることができますか？",
+            "answer": "この建物は当時の建築技術水準を計ることができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 261,
+        "QA": 252
+    }
+}

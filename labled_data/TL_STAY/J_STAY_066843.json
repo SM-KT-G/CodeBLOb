@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_066843",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42070&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "청주 브라운도트 청주시청점 운영 정책"
+    },
+    "text": "チェックインは21:00で、チェックアウトは12:00です。 チェックイン/アウトのご案内は以下のとおりです:入室利用案内、予約特典、全客室リニューアル実施、ラーメン及びスナックバー無料提供(カフェテリア)、全客室PCアップグレード及びネットフリックスが可能、平日予約時13時チェックアウト実施、コロナ安心ZONE、毎週定期消毒実施及びセスコ防疫、LGトロンスタイラー、高仕様ゲームPCルームOPEN、高級LGマッサージチェア、ヘアアイロンとドライヤー一体型です。",
+    "QA": [
+        {
+            "question": "チェックインは何時ですか？",
+            "answer": "21:00です。"
+        },
+        {
+            "question": "チェックアウトは何時ですか？",
+            "answer": "12:00です。"
+        },
+        {
+            "question": "チェックアウトの時間延長は可能ですか？",
+            "answer": "平日予約時には13時までのチェックアウトが可能です。"
+        },
+        {
+            "question": "どのような特典がありますか？",
+            "answer": "ラーメン及びスナックバーの無料提供や全客室のPCアップグレード、ネットフリックスの利用が可能です。"
+        },
+        {
+            "question": "どのようなコロナ対策が行われていますか？",
+            "answer": "毎週の定期消毒やセスコ防疫、コロナ安心ZONEの設置などが行われています。"
+        }
+    ],
+    "word_Count": {
+        "text": 170,
+        "QA": 152
+    }
+}

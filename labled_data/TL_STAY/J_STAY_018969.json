@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_018969",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/goods/GN0002017560?startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0%5E&npprmaxsort=min",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "단양 어울림펜션"
+    },
+    "text": "故郷の香りがいっぱいの場所！ 環境にやさしい木造で建築された自然を盛り込んだペンションです。 故郷に来たような温かみと暖かさが感じられます。 家を建て、庭園を整え、自然を眺めながら安らぎをお届けします。 常に最善を尽くして快適で楽しい休息と余暇のために努力しています。 22時以降入室の際は予めご連絡ください。 .",
+    "QA": [
+        {
+            "question": "このペンションはどのような場所ですか？",
+            "answer": "故郷の香りがいっぱいの場所で、環境にやさしい木造で建築されたペンションです。自然を盛り込んだ温かみと暖かさが感じられます。"
+        },
+        {
+            "question": "どのようなサービスが提供されていますか？",
+            "answer": "快適で楽しい休息と余暇のために、常に最善を尽くしています。家を建て、庭園を整え、自然を眺めながら安らぎをお届けします。"
+        },
+        {
+            "question": "入室の際の注意事項はありますか？",
+            "answer": "22時以降に入室する場合は、事前にご連絡ください。"
+        }
+    ],
+    "word_Count": {
+        "text": 115,
+        "QA": 146
+    }
+}

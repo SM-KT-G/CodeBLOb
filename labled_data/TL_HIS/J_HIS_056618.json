@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_056618",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=154&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=13930000&ccbaCtcd=11&ccbaCpno=1121113930000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2003-12-30",
+        "domain": "문화/역사관광",
+        "title": "김홍도 필 추성부도"
+    },
+    "text": "朝鮮時代(1805年)に檀園金弘道によって描かれた<チュソンブも>は中国宋朝欧陽修の'チュソンブ'を絵で表現したシウィドだ。左側には百聞タウォンインに杞憂柚子と押されており、チュソンブ専門が金弘道の自筆で書かれている。この絵は1805年に作られたものと推定されるが、団員が死ぬ前に作品なので彼の最後の作品で知られている。図の右にはやせた秋の山と草屋、欧陽修が見えている。画面は暗くて掠り書きを使用して秋の雰囲気をよく表している。左右には山と丘、草屋と庭が配置されていて、木の形も不規則に折れている。左から右で揉むように処理された筆致は月明りの中で風の音を伝達する。絵は、檀園(タンウォンの老年の悲哀と死を控えてする心境を形象化している。団員は手紙でも、人生のはかなさを嘆いた。このような団員の心的状態が絵によく反映されている。",
+    "QA": [
+        {
+            "question": "この絵はいつ描かれたのですか？",
+            "answer": "この絵は1805年に描かれたものと推定されています。"
+        },
+        {
+            "question": "この絵を描いた人物について教えてください。",
+            "answer": "この絵は檀園金弘道によって描かれました。金弘道は朝鮮時代の画家です。"
+        },
+        {
+            "question": "この絵のテーマは何ですか？",
+            "answer": "この絵のテーマは老年の悲哀と死を控えてする心境です。"
+        },
+        {
+            "question": "絵の中に描かれている人物は誰ですか？",
+            "answer": "絵の中に描かれている人物は欧陽修と思われます。"
+        },
+        {
+            "question": "絵の背景に描かれているものは何ですか？",
+            "answer": "絵の背景には秋の山や草屋などが描かれています。"
+        }
+    ],
+    "word_Count": {
+        "text": 266,
+        "QA": 159
+    }
+}

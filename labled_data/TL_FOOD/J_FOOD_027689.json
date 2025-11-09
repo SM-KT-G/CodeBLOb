@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_027689",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-17",
+        "domain": "음식점",
+        "title": "清潭ゴル ( 청담골 )"
+    },
+    "text": "清潭ゴル\\n\nソウル特別市 江南区 宣陵路148キル 48\\n\nリーズナブルな韓定食が食べられる店です。代表的なメニューは韓定食です。ソウル特別市のガンナム区に位置した韓国料理店です。",
+    "QA": [
+        {
+            "question": "清潭ゴルはどこの場所にありますか？",
+            "answer": "清潭ゴルはソウル特別市江南区宣陵路148キル48に位置しています。"
+        },
+        {
+            "question": "清潭ゴルで食べられるメニューは何ですか？",
+            "answer": "清潭ゴルでは、主に韓定食が代表的なメニューです。"
+        },
+        {
+            "question": "清潭ゴルはリーズナブルな価格で食事ができますか？",
+            "answer": "はい、清潭ゴルはリーズナブルな価格で韓定食を楽しむことができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 67,
+        "QA": 110
+    }
+}

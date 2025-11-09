@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_026744",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-01",
+        "domain": "음식점",
+        "title": "宗家ジプ ( 종가집 )"
+    },
+    "text": "宗家ジプ ( 종가집 )\\n\n全羅南道 木浦市 露積峯キル 22\\n\n100%韓国産大豆を使ってチョングッチャンを作っている店です。おすすめはチョングクチャンです。全羅南道のモクポ市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "この店はどこに位置していますか？",
+            "answer": "宗家ジプは全羅南道の木浦市に位置しています。"
+        },
+        {
+            "question": "この店の特産品は何ですか？",
+            "answer": "宗家ジプの特産品はチョングッチャンです。"
+        },
+        {
+            "question": "この店は何を使ってチョングッチャンを作っていますか？",
+            "answer": "宗家ジプは100%韓国産の大豆を使ってチョングッチャンを作っています。"
+        },
+        {
+            "question": "おすすめのメニューは何ですか？",
+            "answer": "宗家ジプのおすすめのメニューはチョングクチャンです。"
+        }
+    ],
+    "word_Count": {
+        "text": 76,
+        "QA": 126
+    }
+}

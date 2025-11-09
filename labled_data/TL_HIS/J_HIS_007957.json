@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_007957",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=667&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=05070000&ccbaCtcd=37&ccbaCpno=2113705070000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2017-05-15",
+        "domain": "문화/역사관광",
+        "title": "고령 장육당"
+    },
+    "text": "高霊長肉堂 (고령 장육당)\\n\n慶尚北道高霊郡上谷5ギル7-22(茶山面)\\n\n慶尚北道有形文化財 , この建物は前義李氏多浦公派の入郷祖李知和の息子である李允が1671年(顕宗2)に勉強部屋として建設した。長六堂は緩やかに傾斜を成す地形をそのままにして、その上に平坦な基壇を造成した。 建物の全体的な姿はT字型で全体が12間の瓦葺き屋根の家だ。 前部の4間は床として使用し、本建物である4間の部屋と側間につながった1間の板の間が後方に付いている。堂号である長六堂は「旧長六之儀から取ったもので、イ·ユンが後学養成のために官職を拒み隠遁している姿を象徴的に表したものだという。",
+    "QA": [
+        {
+            "question": "この建物はいつ建てられましたか？",
+            "answer": "この建物は1671年(顕宗2)に建てられました。"
+        },
+        {
+            "question": "この建物は誰によって建設されましたか？",
+            "answer": "この建物は李允によって建設されました。"
+        },
+        {
+            "question": "この建物は何のために使用されましたか？",
+            "answer": "この建物は勉強部屋として使用されました。"
+        },
+        {
+            "question": "この建物の姿はどのような形をしていますか？",
+            "answer": "この建物はT字型の形をしています。"
+        },
+        {
+            "question": "この建物の堂号である長六堂は何を象徴していますか？",
+            "answer": "長六堂はイ·ユンが後学養成のために官職を拒み隠遁している姿を象徴的に表したものです。"
+        }
+    ],
+    "word_Count": {
+        "text": 211,
+        "QA": 162
+    }
+}

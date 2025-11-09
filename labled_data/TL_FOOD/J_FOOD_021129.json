@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_021129",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "百年百世伝統サムゲタン ( 백년백세전통삼계탕 )"
+    },
+    "text": "百年百世伝統サムゲタン ( 백년백세전통삼계탕 )\n慶尚北道 安東市 ドンフンキル 26\n濃厚でさっぱりしたスープが絶品の店です。代表的なメニューはサムゲタンです。慶尚北道のアンドン市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "この店は韓国の慶尚北道アンドン市に位置しています。"
+        },
+        {
+            "question": "この店の名前は何ですか？",
+            "answer": "この店の名前は「百年百世伝統サムゲタン」です。"
+        },
+        {
+            "question": "この店の代表的なメニューは何ですか？",
+            "answer": "この店の代表的なメニューはサムゲタンです。"
+        },
+        {
+            "question": "この店のスープはどんな味ですか？",
+            "answer": "この店のスープは濃厚でさっぱりした味わいです。"
+        },
+        {
+            "question": "この店の特徴は何ですか？",
+            "answer": "この店の特徴は百年の伝統を持つサムゲタンを提供していることです。"
+        }
+    ],
+    "word_Count": {
+        "text": 77,
+        "QA": 143
+    }
+}

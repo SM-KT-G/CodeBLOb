@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_012783",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-01",
+        "domain": "음식점",
+        "title": "ブフンガーデン ( 부흥가든 )"
+    },
+    "text": "ブフンガーデン \n京畿道 平沢市 チョゲト路26ボンキル 31-8\n手作り餃子で作った料理を提供しています。おすすめは海鮮餃子の寄せ鍋です。京畿道のピョンテク市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "ブフンガーデンはどのような場所に位置していますか？",
+            "answer": "ブフンガーデンは京畿道の平沢市に位置しています。"
+        },
+        {
+            "question": "ブフンガーデンではどのような料理を提供していますか？",
+            "answer": "ブフンガーデンでは手作り餃子を提供しています。特におすすめは海鮮餃子の寄せ鍋です。"
+        },
+        {
+            "question": "ブフンガーデンのお店の特徴は何ですか？",
+            "answer": "ブフンガーデンは韓食専門店で、京畿道のピョンテク市に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 68,
+        "QA": 123
+    }
+}

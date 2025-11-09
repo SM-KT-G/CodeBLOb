@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_055189",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-01",
+        "domain": "음식점",
+        "title": "クムモレ ( 금모래 )"
+    },
+    "text": "クムモレ ( 금모래 )\\n\n全羅南道 木浦市 平和路 49ボンキル 12\\n\n木浦の有名店で、観光客がよく訪れます。代表的なメニューはカンジャンケジャンです。全羅南道のモクポ市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "クムモレはどこに位置していますか？",
+            "answer": "クムモレは全羅南道木浦市平和路49ボンキル12に位置しています。"
+        },
+        {
+            "question": "クムモレはどのような店ですか？",
+            "answer": "クムモレは木浦の有名店で、観光客がよく訪れる韓食専門店です。"
+        },
+        {
+            "question": "クムモレの代表的なメニューは何ですか？",
+            "answer": "クムモレの代表的なメニューはカンジャンケジャンです。"
+        }
+    ],
+    "word_Count": {
+        "text": 74,
+        "QA": 101
+    }
+}

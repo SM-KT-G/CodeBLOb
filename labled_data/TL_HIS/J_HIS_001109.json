@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_001109",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/festival/wapop-hall",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "WAPOPホール"
+    },
+    "text": "WAPOPホール\\n\nソウル特別市 広津区 陵洞路216 )\\n\n260度パノラマ映像システムを活用した公演です。仮想の特急列車「WAPOP TRAIN」に乗車するという設定のもと、 K-POPライブショー、K-Cultureパフォーマンス、韓流ドラマ（K-DRAMA）を素材にしたO.S.T公演などを観覧できます。",
+    "QA": [
+        {
+            "question": "WAPOPホールはどこにありますか？",
+            "answer": "ソウル特別市 広津区 陵洞路216にあります。"
+        },
+        {
+            "question": "WAPOP TRAINとは何ですか？",
+            "answer": "WAPOP TRAINは仮想の特急列車で、公演の設定上で乗車できるものです。"
+        },
+        {
+            "question": "WAPOPホールの公演内容は何ですか？",
+            "answer": "K-POPライブショー、K-Cultureパフォーマンス、韓流ドラマ（K-DRAMA）を素材にしたO.S.T公演などが観覧できます。"
+        },
+        {
+            "question": "公演には何度パノラマ映像システムが使われますか？",
+            "answer": "公演では260度パノラマ映像システムが活用されます。"
+        }
+    ],
+    "word_Count": {
+        "text": 115,
+        "QA": 170
+    }
+}

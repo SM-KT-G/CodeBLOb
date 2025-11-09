@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_024029",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "安東水産食堂 ( 안동수산식당 )"
+    },
+    "text": "安東水産食堂 ( 안동수산식당 )\n慶尚北道 安東市 流通団地キル 64\n新鮮な海鮮が味わえる店です。慶尚北道のアンドン市に位置した韓食専門店です。代表的なメニューは刺身入り冷やしスープです。",
+    "QA": [
+        {
+            "question": "安東水産食堂はどこに位置していますか？",
+            "answer": "安東水産食堂は慶尚北道のアンドン市に位置しています。"
+        },
+        {
+            "question": "安東水産食堂の代表的なメニューは何ですか？",
+            "answer": "安東水産食堂の代表的なメニューは刺身入り冷やしスープです。"
+        },
+        {
+            "question": "安東水産食堂ではどのような海鮮料理が味わえますか？",
+            "answer": "安東水産食堂では新鮮な海鮮料理が味わえます。"
+        }
+    ],
+    "word_Count": {
+        "text": 70,
+        "QA": 104
+    }
+}

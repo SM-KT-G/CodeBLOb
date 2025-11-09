@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_019083",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://apis.data.go.kr/1400000/service/cultureInfoService2/mntInfoOpenAPI2",
+        "collectedDate": "2023-11-22",
+        "publishedDate": "2020-12-01",
+        "domain": "자연관광",
+        "title": "고성산"
+    },
+    "text": "古城山 (고성산)\\n\n京畿道安城市陽城面徳峰里\\n\n山の高さ : 298.2m , 高城山は登山路が全体的に遊歩道のようになっており、山の大きさに比べて多くの人が訪れる山だ。 漆谷貯水池には食べ物と宿泊施設が充実しており、登山客に便利さを与える。",
+    "QA": [
+        {
+            "question": "高城山はどこにありますか？",
+            "answer": "高城山は京畿道安城市陽城面徳峰里にあります。"
+        },
+        {
+            "question": "高城山の高さはどれくらいですか？",
+            "answer": "高城山の高さは298.2メートルです。"
+        },
+        {
+            "question": "高城山の登山路はどのような状態ですか？",
+            "answer": "高城山の登山路は全体的に遊歩道のような状態です。"
+        },
+        {
+            "question": "高城山には何がありますか？",
+            "answer": "高城山には漆谷貯水池や食べ物と宿泊施設が充実しています。"
+        },
+        {
+            "question": "高城山はどのような人々に訪れられる山ですか？",
+            "answer": "高城山は多くの人々に訪れる山です。"
+        },
+        {
+            "question": "高城山は登山客にどのような便利さを提供していますか？",
+            "answer": "高城山は登山客に便利さを与えるため、食べ物と宿泊施設が充実しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 90,
+        "QA": 186
+    }
+}

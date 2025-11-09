@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_020243",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-06",
+        "domain": "음식점",
+        "title": "利和カムジャクッ ( 이화감자국 )"
+    },
+    "text": "利和カムジャクッ ( 이화감자국 )\nソウル特別市 恩平区 ウンアムロ174-1\n鷹岩洞カムジャタン通りにある昔からあるカムジャタンの名店です。ソウル特別市のウンピョン区に位置した韓食専門店です。おすすめはカムジャタンです。",
+    "QA": [
+        {
+            "question": "このレストランの名前は何ですか？",
+            "answer": "利和カムジャクッ（イファカムジャグッ）です。"
+        },
+        {
+            "question": "このレストランはどこにありますか？",
+            "answer": "ソウル特別市 恩平区 ウンアムロ174-1 鷹岩洞カムジャタン通りにあります。"
+        },
+        {
+            "question": "このレストランのおすすめは何ですか？",
+            "answer": "カムジャタンがおすすめです。"
+        }
+    ],
+    "word_Count": {
+        "text": 82,
+        "QA": 92
+    }
+}

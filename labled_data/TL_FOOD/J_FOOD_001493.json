@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001493",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "BOOJA ( 부자식당 )"
+    },
+    "text": "BOOJA ( 부자식당 )\n京畿道 ピョンテク市 セギョサンガ1ギル66\nカルビチム(カルビの蒸し物)とイイダコが味わえる店です。慶尚北道のアンドン市に位置した韓食専門店です。おすすめは半干しスケトウダラの煮付けです。",
+    "QA": [
+        {
+            "question": "BOOJA ( 부자식당 ) はどこにありますか？",
+            "answer": "BOOJA ( 부자식당 )は京畿道ピョンテク市に位置しています。"
+        },
+        {
+            "question": "BOOJA ( 부자식당 )では何が味わえますか？",
+            "answer": "BOOJA ( 부자식당 )ではカルビチムとイイダコが味わえます。"
+        },
+        {
+            "question": "BOOJA ( 부자식당 )のおすすめは何ですか？",
+            "answer": "BOOJA ( 부자식당 )のおすすめは半干しスケトウダラの煮付けです。"
+        }
+    ],
+    "word_Count": {
+        "text": 80,
+        "QA": 129
+    }
+}

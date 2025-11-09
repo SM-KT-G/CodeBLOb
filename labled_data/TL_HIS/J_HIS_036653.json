@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_036653",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=826&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=00720000&ccbaCtcd=37&ccbaCpno=2333700720000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1986-12-11",
+        "domain": "문화/역사관광",
+        "title": "울릉남서동고분군"
+    },
+    "text": "蔚陵南西洞古墳群 (울릉남서동고분군)\\n\n慶尚北道鬱陵郡西面南西里140-1番地15頭\\n\n慶尚北道記念物、この一帯は鬱陵島で密集分布している墓の一つだ。 墓は山麓の斜面に塊石を利用して築台または基壇を積んで平らにし、その上に遺体を祀る石槨墓を作り、その上に石で墳丘を作った積石塚の形だ。 石槨入口の前は垂直壁になっており、まるで神殿の正面のように見えるが、このような形式は三国時代の鬱陵島だけで現れる特徴だ。",
+    "QA": [
+        {
+            "question": "この墓群はどこに位置していますか？",
+            "answer": "蔚陵南西洞古墳群は鬱陵郡西面南西里140-1番地15頭に位置しています。"
+        },
+        {
+            "question": "この墓群はどのような形式の墓ですか？",
+            "answer": "この墓群は石槨墓を作り、その上に石で墳丘を作った積石塚の形式です。"
+        },
+        {
+            "question": "この墓群の石槨入口の特徴は何ですか？",
+            "answer": "石槨入口の前は垂直壁になっており、まるで神殿の正面のように見えます。"
+        },
+        {
+            "question": "この墓群はどの時代に建てられましたか？",
+            "answer": "この墓群は三国時代の鬱陵島で建てられました。"
+        },
+        {
+            "question": "この墓群はどのような遺体を祀っていますか？",
+            "answer": "この墓群は塊石を利用して築台または基壇を積み、その上に遺体を祀っています。"
+        }
+    ],
+    "word_Count": {
+        "text": 151,
+        "QA": 187
+    }
+}

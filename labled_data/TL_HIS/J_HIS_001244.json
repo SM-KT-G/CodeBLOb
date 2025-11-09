@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_001244",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101933",
+        "collectedDate": "2023-10-06",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "아양교역"
+    },
+    "text": "アヤンギョ駅\n\nアヤンギョ（大邱国際空港入口）駅（Ayanggyo station, 峨洋橋驛）は、大韓民国大邱広域市東区新岩5洞峨洋四通りにある大邱都市鉄道1号線の電車駅であり、大邱国際空港方面の地下鉄駅である。アヤンギョハザートンネルで東村駅と繋がる。",
+    "QA": [
+        {
+            "question": "アヤンギョ駅はどこにありますか？",
+            "answer": "アヤンギョ駅は大邱広域市東区新岩5洞峨洋四通りにあります。"
+        },
+        {
+            "question": "アヤンギョ駅は何線の駅ですか？",
+            "answer": "アヤンギョ駅は大邱都市鉄道1号線の駅です。"
+        },
+        {
+            "question": "アヤンギョ駅はどの方面に行きますか？",
+            "answer": "アヤンギョ駅からは大邱国際空港方面に行くことができます。"
+        },
+        {
+            "question": "アヤンギョ駅と東村駅はどのように繋がっていますか？",
+            "answer": "アヤンギョ駅と東村駅はアヤンギョハザートンネルで繋がっています。"
+        }
+    ],
+    "word_Count": {
+        "text": 93,
+        "QA": 134
+    }
+}

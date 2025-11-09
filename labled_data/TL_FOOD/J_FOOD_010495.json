@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_010495",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "テンギネガオリ ( 땡기네가오리 )"
+    },
+    "text": "テンギネガオリ ( 땡기네가오리 )\\n\n慶尚北道 安東市 西部市場キル 20\\n\n韓国のグルメ番組で紹介された15年の伝統を持つ名店です。代表的なメニューはエイの刺身の和え物です。慶尚北道のアンドン市に位置した海鮮専門店です。",
+    "QA": [
+        {
+            "question": "テンギネガオリはどこに位置していますか？",
+            "answer": "テンギネガオリは慶尚北道アンドン市の西部市場キルに位置しています。"
+        },
+        {
+            "question": "テンギネガオリの代表的なメニューは何ですか？",
+            "answer": "テンギネガオリの代表的なメニューはエイの刺身の和え物です。"
+        },
+        {
+            "question": "テンギネガオリは何年の伝統を持っていますか？",
+            "answer": "テンギネガオリは15年の伝統を持っています。"
+        },
+        {
+            "question": "テンギネガオリはどのような店ですか？",
+            "answer": "テンギネガオリは海鮮専門店です。"
+        }
+    ],
+    "word_Count": {
+        "text": 83,
+        "QA": 133
+    }
+}

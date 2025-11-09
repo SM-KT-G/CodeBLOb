@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_090612",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1151&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=04590000&ccbaCtcd=37&ccbaCpno=3413704590000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2004-03-11",
+        "domain": "문화/역사관광",
+        "title": "영덕괴시리영은고택"
+    },
+    "text": "慶尚北道文化財資料、永恩古宅は英陽南市の集成村および古家屋密集地域として広く知られている槐市村内にあり、1871年に現在の所有者の5代目である南公寿、号です。瀛隠(1793~1875)が建立したそうです。建物は正面4間、側面4間半規模の口字型の一軒入母屋造りで、正面玄関を中心に右側に出居、左側には広間と部屋が連結され、出居と連結された右翼寺は2間の部屋になっています左翼寺は台所と奥の間につながっており、内部の2間の板の間を中心に左側は塗装と奥の間を、右側は上房と上房の前面に板の間を置いています。建物は自然石器団と自然石柱の上に脚注を建て、上部世帯は全体的に3両家です。現在、基壇、壁体、煙突などはセメントで塗り重ねられており、奥の間前面、右翼寺内外のサラン前面などに縁側があり、村内の他の家屋とは異なり前面左右に醜女を付けて入母屋造りとなっているのが特徴です",
+    "QA": [
+        {
+            "question": "この永恩古宅は何年に建てられましたか？",
+            "answer": "永恩古宅は1871年に建てられました。"
+        },
+        {
+            "question": "永恩古宅の建物の形はどのようなものですか？",
+            "answer": "永恩古宅は口字型の一軒入母屋造りの建物です。"
+        },
+        {
+            "question": "永恩古宅の建物の特徴は何ですか？",
+            "answer": "永恩古宅の特徴は、基壇、壁体、煙突などがセメントで塗り重ねられており、前面左右に縁側があり、前面に醜女を付けて入母屋造りとなっていることです。"
+        },
+        {
+            "question": "永恩古宅の所有者は誰ですか？",
+            "answer": "永恩古宅の現在の所有者は5代目である南公寿、号です。"
+        },
+        {
+            "question": "永恩古宅の建立者は誰ですか？",
+            "answer": "永恩古宅の建立者は瀛隠(1793~1875)です。"
+        },
+        {
+            "question": "永恩古宅の内部の配置はどのようになっていますか？",
+            "answer": "永恩古宅の内部は正面玄関を中心に右側に出居、左側には広間と部屋が連結され、右翼寺は2間の部屋になっており、左翼寺は台所と奥の間につながっており、内部の2間の板の間を中心に左側は塗装と奥の間を、右側は上房と上房の前面に板の間を置いています。"
+        }
+    ],
+    "word_Count": {
+        "text": 280,
+        "QA": 286
+    }
+}

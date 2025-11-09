@@ -1,0 +1,55 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_091221",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=936&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=24&ccbaAsno=01180000&ccbaCtcd=37&ccbaCpno=2443701180000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1999-08-09",
+        "domain": "문화/역사관광",
+        "title": "영주수도리김뢰진가옥"
+    },
+    "text": "19世紀初期に慶尚北道民俗文化財であるスドリの昔の家として知られた建物である。この家はソンソン、金氏家門が代々生きていたが、詳しい沿革はわからない。家は母屋と客間の棟で構成されていたが、母屋は藁葺きカチグモンチプになっており、サランチェは瓦屋だった。しかし、1975年ごろに母屋の屋根を瓦屋根に修正した。母屋は出入り口である土間を中心に後に床を置いて、左側にはサランバン、右側には台所を配置した。板の間を中心に塗装部屋とホームが位置していた。サランチェは前が5間、側面が1間半の大きさを持ち、屋根は入母屋屋根となっている。左側には厩と台所を置いて右側にはサランバンが位置している。サランバンの前には縁側があり、右の側面には縁側がある。後に修理を経て外見は変化したが、内部は原型をよく維持している。",
+    "QA": [
+        {
+            "question": "この家は何世紀初頭に建てられましたか？",
+            "answer": "この家は19世紀初期に建てられました。"
+        },
+        {
+            "question": "この家はどの地域の民俗文化財ですか？",
+            "answer": "この家は慶尚北道の民俗文化財です。"
+        },
+        {
+            "question": "この家はどの家門の代々の家として知られていますか？",
+            "answer": "この家はソンソン、金氏家門が代々の家として知られています。"
+        },
+        {
+            "question": "この家の母屋はどのような屋根でしたか？",
+            "answer": "母屋は藁葺きのカチグモンチプでした。"
+        },
+        {
+            "question": "1975年ごろに行われた修正は何でしたか？",
+            "answer": "1975年ごろに母屋の屋根を瓦屋根に修正しました。"
+        },
+        {
+            "question": "この家の内部にはどのような部屋が配置されていましたか？",
+            "answer": "家の内部には土間、サランバン、台所、塗装部屋、ホームが配置されていました。"
+        },
+        {
+            "question": "サランチェの屋根の形は何ですか？",
+            "answer": "サランチェの屋根は入母屋屋根になっています。"
+        },
+        {
+            "question": "この家の外見は修理を経て変化しましたか？",
+            "answer": "はい、修理を経て外見は変化しましたが、内部は原型をよく維持しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 255,
+        "QA": 269
+    }
+}

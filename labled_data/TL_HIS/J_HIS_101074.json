@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_101074",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=273&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=13&ccbaAsno=05680800&ccbaCtcd=37&ccbaCpno=1333705680800&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2023-01-10",
+        "domain": "문화/역사관광",
+        "title": "제2로 직봉 - 안동 봉지산 봉수 유적"
+    },
+    "text": "朝鮮時代にはジクボンとガンボンが主に使用されたが、このうち第2ゴジクボンは、釜山(プサン)大布陣ウンボンボンスで始まる路線で計44基がいた。第2かけるジクボンと10個のガンボンで行われており、小白山脈の主要なヨンロを超える路線はすべてボンスになった。一番東のジュクリョンを超える路線はジクボンになり、中央のギェリプリョンを超える路線と西の秋風嶺を超える路線は主要ガンボンだった。これを通じて第2ゴ路線はジクボンとガンボンが重要に区分されておらず、東南海岸地域で警報を早く連絡する方法だった。これらの地域には、延辺のボンスとグォンソルボン数がおり、一部の要望とやぐらも確認されことができる。。",
+    "QA": [
+        {
+            "question": "第2ゴジクボンがいくつありましたか？",
+            "answer": "44基がありました。"
+        },
+        {
+            "question": "第2ゴジクボンとガンボンで行われた路線はどのようなものでしたか？",
+            "answer": "小白山脈の主要なヨンロを超える路線はすべてボンスになり、一番東のジュクリョンを超える路線はジクボンになり、中央のギェリプリョンを超える路線と西の秋風嶺を超える路線は主要ガンボンだった。"
+        },
+        {
+            "question": "第2ゴ路線はどのような目的で使用されていましたか？",
+            "answer": "東南海岸地域で警報を早く連絡する方法でした。"
+        },
+        {
+            "question": "地域にはどのような施設がありましたか？",
+            "answer": "地域には延辺のボンスとグォンソルボン数があり、一部の要望とやぐらも確認されました。"
+        }
+    ],
+    "word_Count": {
+        "text": 216,
+        "QA": 189
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_023725",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1101&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=02440000&ccbaCtcd=34&ccbaCpno=3413402440000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1984-05-17",
+        "domain": "문화/역사관광",
+        "title": "신창학성"
+    },
+    "text": "新創学性 (신창학성)\\n\n忠清南道牙山市新昌面邑内里山65番地\\n\n忠清南道文化財資料 , 忠清南道牙山市新昌面邑内里にある海抜183mの鶴亭山の頂上の山勢を利用して石で積み上げた城で、周囲は約500m程度だ。 城は山脈の北端に築かれた。 城の西側は山頂部近くに城壁が通過しており、東側の城壁は山腹付近まで降りてきており、南側と北側は外側に凸状に突き出ている。 城壁はほとんど崩れたが南東側の城壁がよく残っているが、城壁の外側の高さが6m程度で、城幅は約2m程度だ。 城壁は磨かれた石を利用して外側の面を整然と合わせて積み上げた。 邑内里側と西南側には門跡が残っており、北側にもこれと似た施設があるが、北門跡なのか確実ではない。 城内の北側頂上部には広い大地があるが、東·西·北側の展望が良く建物地があったものと見られる。 東の城壁の近くには貯水池に見える大きな水たまりがある。 城内の門跡付近と大地付近で魚骨文·門肌文·波文·民文瓦片が発見されており、この城は長期間にわたって使われたものと見られる。",
+    "QA": [
+        {
+            "question": "この城はどこにありますか？",
+            "answer": "新創学性は忠清南道牙山市新昌面邑内里山の頂上にあります。"
+        },
+        {
+            "question": "この城はどのように築かれましたか？",
+            "answer": "新創学性は石で積み上げられた城で、山脈の北端に築かれました。"
+        },
+        {
+            "question": "城壁の高さや幅はどのくらいですか？",
+            "answer": "城壁はほとんど崩れていますが、城壁の外側の高さは約6m程度で、城幅は約2m程度です。"
+        },
+        {
+            "question": "城内にはどのような施設がありますか？",
+            "answer": "城内には広い大地や門跡があり、また東の城壁の近くには貯水池に見える大きな水たまりもあります。"
+        },
+        {
+            "question": "この城は長い間使われたものですか？",
+            "answer": "はい、城内の発掘調査で魚骨文・門肌文・波文・民文瓦片が発見されており、長期間にわたって使われたものと考えられています。"
+        }
+    ],
+    "word_Count": {
+        "text": 331,
+        "QA": 210
+    }
+}

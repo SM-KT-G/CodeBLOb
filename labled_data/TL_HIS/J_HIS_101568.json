@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_101568",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/collectionList#######",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2023-10-11",
+        "domain": "문화/역사관광",
+        "title": "조개 껍질 조각"
+    },
+    "text": "貝殻のかけら (조개 껍질 조각)\\n\n国籍や時代は韓国で、具体的な時代は不明です。この作品の材質は骨、角、そして貝殻でできています。分類は産業や生業に関連し、先史生活やその他の分野に分類されます。現在の大きさは長さ42cm、幅41cm、厚さ10cm、そして重さは09cmです。",
+    "QA": [
+        {
+            "question": "この作品は何でできていますか？",
+            "answer": "骨、角、そして貝殻でできています。"
+        },
+        {
+            "question": "この作品の大きさは何ですか？",
+            "answer": "長さ42cm、幅41cm、厚さ10cm、そして重さは09cmです。"
+        },
+        {
+            "question": "この作品の国籍や時代は何ですか？",
+            "answer": "国籍や時代は韓国で、具体的な時代は不明です。"
+        },
+        {
+            "question": "この作品はどのような分野に分類されますか？",
+            "answer": "産業や生業に関連し、先史生活やその他の分野に分類されます。"
+        },
+        {
+            "question": "この作品の材質は何ですか？",
+            "answer": "骨、角、そして貝殻でできています。"
+        }
+    ],
+    "word_Count": {
+        "text": 101,
+        "QA": 144
+    }
+}

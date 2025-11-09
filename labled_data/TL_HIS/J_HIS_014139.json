@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_014139",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=913&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=24&ccbaAsno=00070000&ccbaCtcd=38&ccbaCpno=2443800070000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1983-12-20",
+        "domain": "문화/역사관광",
+        "title": "양산 가야진사"
+    },
+    "text": "梁山伽倻津寺 (양산 가야진사)\\n\n慶尚南道梁山市院洞面龍塘里\\n\n慶尚南道民俗文化財 , 渡し場神を祀っている祭堂で、新羅が伽耶を征伐する際に往来していた渡し場があったところに位置している。 前面1間·側面1間で構成されており、側面から見ると屋根線が「人」の字形と似たマッベ屋根を載せた木造建築物だ。 内部に入ると祭祀を行う時に使う祭祀があり、その上に頭が3人の龍を描いた絵が置かれている。 現在の祠堂は朝鮮太宗6年(1406)に建てられたと伝えられ、昔の建築物として民俗信仰を示す良い例となっている。 今も村の人たちはここで祭祀を行っており、夏場の日照りが激しい時には雨乞いを行ったりもする。",
+    "QA": [
+        {
+            "question": "この寺院はどの地域に位置していますか？",
+            "answer": "梁山伽倻津寺は慶尚南道梁山市院洞面龍塘里に位置しています。"
+        },
+        {
+            "question": "この寺院は何を祀っていますか？",
+            "answer": "梁山伽倻津寺は渡し場の神を祀っています。"
+        },
+        {
+            "question": "この寺院の建物はどのような形をしていますか？",
+            "answer": "梁山伽倻津寺の建物は前面1間・側面1間で、屋根線が「人」の字形と似たマッベ屋根を載せた木造建築物です。"
+        },
+        {
+            "question": "この寺院の内部にはどのような絵が置かれていますか？",
+            "answer": "梁山伽倻津寺の内部には祭祀を行う時に使う絵があり、その上に頭が3人の龍を描いた絵が置かれています。"
+        },
+        {
+            "question": "この寺院はいつ建てられましたか？",
+            "answer": "梁山伽倻津寺は朝鮮太宗6年(1406)に建てられました。"
+        },
+        {
+            "question": "この寺院で何を行うことができますか？",
+            "answer": "梁山伽倻津寺では祭祀が行われており、夏場の日照りが激しい時には雨乞いも行われます。"
+        }
+    ],
+    "word_Count": {
+        "text": 219,
+        "QA": 244
+    }
+}

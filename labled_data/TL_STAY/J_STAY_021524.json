@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_021524",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42060&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "태안 산들애애견펜션"
+    },
+    "text": "万里浦海水浴場から車で7分の距離に位置する閑静な貯水池の横に空気の良い平野にサンドゥルエペンションがあります。 このペンションは愛犬ペンションで、個別テラスバーベキュー場もあります。 また、フットサル場や海水浴場も利用できます。 追加で愛犬を一緒に宿泊させることができ、重さが8kg未満の犬は最大2匹まで可能で、2匹以上は入室できません。 各個ごとに追加費用として1匹当たり1万ウォンが現場で決済されなければなりません。",
+    "QA": [
+        {
+            "question": "このペンションはどこに位置していますか？",
+            "answer": "万里浦海水浴場から車で7分の距離に位置しています。"
+        },
+        {
+            "question": "このペンションの周辺に何がありますか？",
+            "answer": "貯水池や平野があり、空気が良い環境です。また、フットサル場や海水浴場も利用できます。"
+        },
+        {
+            "question": "このペンションは何を提供していますか？",
+            "answer": "愛犬ペンションであり、個別テラスバーベキュー場もあります。"
+        },
+        {
+            "question": "愛犬と一緒に宿泊することはできますか？",
+            "answer": "はい、愛犬と一緒に宿泊することができます。ただし、重さが8kg未満の犬に限り最大2匹まで可能で、2匹以上は入室できません。追加費用として1匹当たり1万ウォンが現場で決済されます。"
+        }
+    ],
+    "word_Count": {
+        "text": 154,
+        "QA": 192
+    }
+}

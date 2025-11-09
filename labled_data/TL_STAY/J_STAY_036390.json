@@ -1,0 +1,67 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_036390",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://kr.hotels.com/ho2444110528/jeonju-jinbukdong-gyeongdong-jeonju-hangug/?chkin=2023-11-14&chkout=2023-11-15&x_pwa=1&rfrr=HSR&pwa_ts=1699025557486&referrerUrl=aHR0cHM6Ly9rci5ob3RlbHMuY29tL0hvdGVsLVNlYXJjaA%3D%3D&useRewards=false&rm1=a2&regionId=6345218&destination=%EC%9D%B5%EC%82%B0%2C+%EC%A0%84%EB%B6%81%2C+%ED%95%9C%EA%B5%AD&destType=MARKET&latLong=35.94865%2C126.9767&sort=RECOMMENDED&top_dp=22727&top_cur=KRW&userIntent=&selectedRoomType=316307298&selectedRatePlan=385803319&expediaPropertyId=76347204&searchId=8ec93ebc-3977-4a70-89df-cfad05be3ff7",
+        "collectedDate": "2023-11-15",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "전주 진북동 경동"
+    },
+    "text": "全州鎮北洞キョンドン\\n\n大韓民国 North Jeolla Jeonju 全羅北道全州市徳津区安徳院路10\\n\n全州鎮北洞の京東から車で5分の距離に全州韓屋村があります。ここはWiFiとセルフパーキングを無料で利用することができます。ホテルは15室の客室で構成されています。チェックインは午後5時から可能で、チェックアウト時間は午前12時です。予約時にCOVID-19関連の制限事項を確認する必要があります。 また、宿泊施設に連絡してチェックイン情報を確認する必要があり、付帯費用に備えてクレジットカード、デビットカードまたは現金デポジットと政府発行の身分証明書が必要になる場合があります。ペットは同伴不可、共用エリアでの無料WiFi、施設内の無料セルフパーキングを提供しています。 また、指定された喫煙エリアがあります。",
+    "QA": [
+        {
+            "question": "全州鎮北洞から全州韓屋村までの距離はどれくらいですか？",
+            "answer": "全州鎮北洞から全州韓屋村までの距離は車で5分です。"
+        },
+        {
+            "question": "全州韓屋村では何が無料で利用できますか？",
+            "answer": "全州韓屋村ではWiFiとセルフパーキングが無料で利用できます。"
+        },
+        {
+            "question": "全州韓屋村は何時にチェックインできますか？",
+            "answer": "全州韓屋村では午後5時からチェックインが可能です。"
+        },
+        {
+            "question": "全州韓屋村のチェックアウト時間は何時ですか？",
+            "answer": "全州韓屋村のチェックアウト時間は午前12時です。"
+        },
+        {
+            "question": "予約時に確認するべきCOVID-19関連の制限事項はありますか？",
+            "answer": "予約時にはCOVID-19関連の制限事項を確認する必要があります。"
+        },
+        {
+            "question": "チェックインするために宿泊施設に連絡する必要がありますか？",
+            "answer": "はい、チェックインするためには宿泊施設に連絡してチェックイン情報を確認する必要があります。"
+        },
+        {
+            "question": "クレジットカードやデビットカード、現金デポジットと身分証明書が必要ですか？",
+            "answer": "はい、クレジットカード、デビットカード、または現金デポジットと政府発行の身分証明書が必要です。"
+        },
+        {
+            "question": "ペットは可ですか？",
+            "answer": "いいえ、ペットは同伴できません。"
+        },
+        {
+            "question": "共用エリアで無料WiFiを利用できますか？",
+            "answer": "はい、共用エリアで無料WiFiを利用することができます。"
+        },
+        {
+            "question": "施設内には無料のセルフパーキングがありますか？",
+            "answer": "はい、施設内には無料のセルフパーキングがあります。"
+        },
+        {
+            "question": "喫煙エリアはありますか？",
+            "answer": "はい、喫煙エリアが指定されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 265,
+        "QA": 418
+    }
+}

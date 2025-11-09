@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_093455",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=997&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=00480000&ccbaCtcd=37&ccbaCpno=3413700480000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1985-08-05",
+        "domain": "문화/역사관광",
+        "title": "운천재사"
+    },
+    "text": "雲泉斎舎\\n\n慶尚北道安東市林東面地理62番地、294-1\\n\n慶尚北道文化財資料、雲泉キム・ヨン先生と彼の妻、李氏の墓を保護するために立てた斎室だ。雲泉キムヨンウン朝鮮宣祖と光海君(クァンヘグン)の時、入れ墨だ。先祖23年(1590)に科挙に及第しており、先祖25年(1592)に壬辰倭乱が起きると、安東(キョンサンブクド・アンドン)で義兵を起こして、安東洙(アン・ドンス)成長に推戴された。1597年文禄・慶長の役の時には李元翼(李元翼)のジョンサグヮンで多くの役割をしており、郷校を修造するなど、文教にも力を尽くした。1609年には『、宣祖実録』編纂に参加したりもした。朝鮮・仁祖17年(1639)に建てられたこの建物は前面4間・側面5間規模で、屋根は側面から見た時、八(八部)の字の形をした入母屋屋根である。最初は林洞面に負けたが、イムハダムの建設に1989年今ある地位に移して立てた。...",
+    "QA": [
+        {
+            "question": "この斎室は誰のために建てられましたか？",
+            "answer": "雲泉キムヨンウンと彼の妻、李氏の墓を保護するために立てられました。"
+        },
+        {
+            "question": "斎室はいつ建てられましたか？",
+            "answer": "朝鮮・仁祖17年(1639)に建てられました。"
+        },
+        {
+            "question": "この斎室の屋根の形はどのような形をしていますか？",
+            "answer": "側面から見た時、八(八部)の字の形をした入母屋屋根です。"
+        },
+        {
+            "question": "この斎室はどのような役割を果たしましたか？",
+            "answer": "雲泉キムヨンウンは、安東で義兵を起こし、多くの役割を果たし、文教にも力を尽くしました。"
+        },
+        {
+            "question": "斎室の建設に関わった人物は誰ですか？",
+            "answer": "イムハダムの建設に関わったとされています。"
+        }
+    ],
+    "word_Count": {
+        "text": 293,
+        "QA": 178
+    }
+}

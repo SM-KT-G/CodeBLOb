@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_103782",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/pungmi",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "豊美"
+    },
+    "text": "豊美\\n\n仁川広域市 中区 チャイナタウン路 56\\n\n1957年に開業したお店で、この通りでは老舗の中華料理店として知られています。唐辛子入りチャジャン麺やなまこの揚げ物が人気メニューです。",
+    "QA": [
+        {
+            "question": "この中華料理店はどこにありますか？",
+            "answer": "仁川広域市 中区 チャイナタウン路 56にあります。"
+        },
+        {
+            "question": "このお店は何年に開業しましたか？",
+            "answer": "このお店は1957年に開業しました。"
+        },
+        {
+            "question": "このお店はどのような料理で知られていますか？",
+            "answer": "このお店は唐辛子入りチャジャン麺やなまこの揚げ物が人気メニューとして知られています。"
+        }
+    ],
+    "word_Count": {
+        "text": 70,
+        "QA": 103
+    }
+}

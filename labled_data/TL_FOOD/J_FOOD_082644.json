@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_082644",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-05",
+        "domain": "음식점",
+        "title": "素麺チャン ( 소면짱 )"
+    },
+    "text": "素麺チャン ( 소면짱 )\\n\n慶尚北道 アンドン市 テサ1ギル18\\n\nボリュームたっぷりで、様々な料理が味わえる店です。慶尚北道のアンドン市に位置した韓食専門店です。代表的なメニューはユッケジャンです。",
+    "QA": [
+        {
+            "question": "素麺チャンの場所はどこですか？",
+            "answer": "素麺チャンは慶尚北道のアンドン市に位置しています。"
+        },
+        {
+            "question": "素麺チャンで食べられる代表的なメニューは何ですか？",
+            "answer": "素麺チャンで食べられる代表的なメニューはユッケジャンです。"
+        },
+        {
+            "question": "素麺チャンの料理はボリュームがありますか？",
+            "answer": "はい、素麺チャンの料理はボリュームたっぷりです。"
+        },
+        {
+            "question": "素麺チャンではどんな料理が味わえますか？",
+            "answer": "素麺チャンでは様々な料理が味わえます。"
+        },
+        {
+            "question": "韓食専門店の素麺チャンでおすすめの料理は何ですか？",
+            "answer": "韓食専門店の素麺チャンでおすすめの料理はユッケジャンです。"
+        }
+    ],
+    "word_Count": {
+        "text": 75,
+        "QA": 170
+    }
+}

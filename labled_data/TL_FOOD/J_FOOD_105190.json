@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_105190",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2023-07-04",
+        "domain": "음식점",
+        "title": "현대아바이순대"
+    },
+    "text": "束草に位置した現代アパイ、スンデは手作りイカの腸詰美味しい店だ。正直な量と安い価格で味に遜色がない。そのために一度訪問した人々は再び訪ねている売場だ。また、伴侶動物同伴が可能な食堂に伴侶動物と束草(ソクチョ)旅行を発った時一緒に見て回るのに適した場所だ。",
+    "QA": [
+        {
+            "question": "この店の名前は何ですか？",
+            "answer": "この店の名前は手作りイカの腸詰美味しい店です。"
+        },
+        {
+            "question": "この店の特徴は何ですか？",
+            "answer": "この店の特徴は正直な量と安い価格で味に遜色がないことです。"
+        },
+        {
+            "question": "この店を訪問した人々はなぜ再び訪れるのですか？",
+            "answer": "この店を訪問した人々は、一度訪れて満足したため再び訪れます。"
+        },
+        {
+            "question": "この店では伴侶動物を連れて行くことができますか？",
+            "answer": "はい、この店では伴侶動物を連れて行くことができます。"
+        },
+        {
+            "question": "束草には他にも見どころはありますか？",
+            "answer": "束草には他にも見どころがあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 93,
+        "QA": 156
+    }
+}

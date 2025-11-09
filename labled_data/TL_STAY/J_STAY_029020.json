@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_029020",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42090&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "서귀포 바닷가하얀집펜션"
+    },
+    "text": "海が涼しく広がり、ヨーロッパスタイルの建築物とクラシックな客室が目立つ場所です。 高級感あふれる海の眺めと1万坪余りの美しい樹木ビーチガーデン、ビーチルーフ、テラス、テーマ彫刻、海辺の散策路が一緒に休息を与えます。 \"海辺の白い家\"はペンション以上の価値を提供し、静かな休息を望む特別な方をお迎えします。",
+    "QA": [
+        {
+            "question": "この場所の名前は何ですか？",
+            "answer": "この場所は「海辺の白い家」と呼ばれています。"
+        },
+        {
+            "question": "この場所の特徴は何ですか？",
+            "answer": "この場所の特徴は、高級感あふれる海の眺めと美しい樹木ビーチガーデン、ビーチルーフ、テラス、テーマ彫刻、海辺の散策路です。"
+        },
+        {
+            "question": "この場所の周辺にはどんな建物がありますか？",
+            "answer": "この場所の周辺にはヨーロッパスタイルの建築物があります。"
+        },
+        {
+            "question": "この場所はどんな人におすすめですか？",
+            "answer": "この場所は静かな休息を望む特別な方におすすめです。"
+        },
+        {
+            "question": "この場所の規模はどれくらいですか？",
+            "answer": "この場所は1万坪余りの広さがあります。"
+        },
+        {
+            "question": "この場所でできるアクティビティはありますか？",
+            "answer": "この場所では海辺の散策やビーチでのリラックスがおすすめです。"
+        }
+    ],
+    "word_Count": {
+        "text": 111,
+        "QA": 211
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_099204",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ja",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2023-03-20",
+        "domain": "문화/역사관광",
+        "title": "장항 스카이워크 (기벌포 해전 전망대)"
+    },
+    "text": "美しい松の森と干潟を誇る長項松林浴場に位置した高さ15m、長さ250mのスカイウォークだ。海洋生物資源館と連携して観覧することができ、海松の森の上、開けた空と海を歩くようなさっぱりしてスリルを感じることができる。スカイウォークの末には展望デッキがあり美しい展望を楽しむことができる。。",
+    "QA": [
+        {
+            "question": "スカイウォークはどこに位置していますか？",
+            "answer": "長項松林浴場に位置しています。"
+        },
+        {
+            "question": "スカイウォークの高さは何メートルですか？",
+            "answer": "高さ15mです。"
+        },
+        {
+            "question": "スカイウォークの長さは何メートルですか？",
+            "answer": "長さ250mです。"
+        },
+        {
+            "question": "スカイウォークの末に何がありますか？",
+            "answer": "展望デッキがあります。"
+        },
+        {
+            "question": "海洋生物資源館との連携によって何ができますか？",
+            "answer": "海松の森の上、開けた空と海を歩くようなさっぱりしてスリルを感じることができます。"
+        },
+        {
+            "question": "スカイウォークからの展望はどのようなものですか？",
+            "answer": "美しい展望を楽しむことができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 104,
+        "QA": 165
+    }
+}

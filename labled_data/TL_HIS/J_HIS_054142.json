@@ -1,0 +1,31 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_054142",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/view?relicId=172203",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "글자를 새긴 암키와"
+    },
+    "text": "文字を刻んだ雌木と (글자를 새긴 암키와)\\n\nがれきの中から、「海溝」の字が打ち倒された韓国の統一新羅時代の土製の瓦の一部が見つかりました。この瓦は主に生活用途や建築部材として使用され、屋根材や雌木輪に使われていました。現在の瓦の大きさは幅231cm、長さ400cmです。",
+    "QA": [
+        {
+            "question": "この統一新羅時代の土製の瓦はどのような用途に使用されていましたか？",
+            "answer": "この瓦は主に生活用途や建築部材として使用され、屋根材や雌木輪に使われていました。"
+        },
+        {
+            "question": "現在の瓦の大きさはどのくらいですか？",
+            "answer": "現在の瓦の大きさは幅231cm、長さ400cmです。"
+        }
+    ],
+    "word_Count": {
+        "text": 101,
+        "QA": 85
+    }
+}

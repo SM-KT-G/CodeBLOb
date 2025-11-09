@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_028659",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=238&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=13&ccbaAsno=01450000&ccbaCtcd=35&ccbaCpno=1333501450000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1965-04-01",
+        "domain": "자연관광",
+        "title": "고창읍성"
+    },
+    "text": "朝鮮時代初期、高敞郡の邑城であるモヤンソンは、百済時代に高敞地域をモリャン、くちばしで歌ったことから由来しました。この地域は、羅州市なった官と笠岩山城とともに湖南内陸を防御する要衝地で使われ、端宗元年に建てられたと言われているが、、粛宗の時に完成されたという説もあります。実際に城壁は比較的よく保存されており、最近に復旧工事を通じ、元の原型に近づけて復元されました。城の周りは1,684mであり、東・西・北門と甕城、ジャンデジ6カ所、ヘジャで成された戦略的な施設があります。城の中には東軒、客舎をはじめ22棟の官衙建物がいましたが、ほとんどが損失された状態です。この城は朝鮮時代の邑城では見ることはできた週明けとドアがついたユニークな桜門を持っていて、平壌(ピョンヤン)の高句麗時代城門や恩返しの三年山城、江華邑成果比較して城郭研究に重要な資料となります。また、この城は女性たちの城壁踏むことの風習としてもよく知られており、災害や疾病を追って福を祈る民俗儀式に関する貴重な資料となっています。",
+    "QA": [
+        {
+            "question": "モヤンソンは何時に建てられたと言われていますか？",
+            "answer": "端宗元年に建てられたと言われていますが、粛宗の時に完成されたという説もあります。"
+        },
+        {
+            "question": "モヤンソンの周りは何メートルですか？",
+            "answer": "城の周りは1,684mです。"
+        },
+        {
+            "question": "モヤンソンには何種類の戦略的な施設がありますか？",
+            "answer": "モヤンソンには東・西・北門と甕城、ジャンデジ6カ所、ヘジャで成された戦略的な施設があります。"
+        },
+        {
+            "question": "モヤンソンには何種類の建物がありましたか？",
+            "answer": "モヤンソンには東軒、客舎をはじめ22棟の官衙建物がありましたが、ほとんどが損失された状態です。"
+        },
+        {
+            "question": "モヤンソンはどのような風習としてよく知られていますか？",
+            "answer": "モヤンソンは女性たちの城壁踏むことの風習としてもよく知られており、災害や疾病を追って福を祈る民俗儀式に関する貴重な資料となっています。"
+        }
+    ],
+    "word_Count": {
+        "text": 327,
+        "QA": 240
+    }
+}

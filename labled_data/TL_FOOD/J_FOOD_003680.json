@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_003680",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-06",
+        "domain": "음식점",
+        "title": "オダム"
+    },
+    "text": "オダム\\n\n京畿道 平沢市 ピジョン2ロ73\\n\n洗練されたインテリアの焼き魚専門店です。おすすめは魚焼きです。京畿道のピョンテク市に位置した韓国料理店です。",
+    "QA": [
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "オダムは京畿道平沢市に位置しています。"
+        },
+        {
+            "question": "オダムの特徴は何ですか？",
+            "answer": "オダムは洗練されたインテリアの焼き魚専門店です。"
+        },
+        {
+            "question": "オダムでおすすめの料理は何ですか？",
+            "answer": "オダムでおすすめの料理は魚焼きです。"
+        },
+        {
+            "question": "オダムはどのような店ですか？",
+            "answer": "オダムは韓国料理店で、京畿道のピョンテク市に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 57,
+        "QA": 107
+    }
+}

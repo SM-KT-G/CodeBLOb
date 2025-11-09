@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_027322",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "中央刺身専門店 ( 중앙횟집 )"
+    },
+    "text": "中央刺身専門店 ( 중앙횟집 )\\n\n全羅南道 木浦市 繁華路 44-1\\n\n木浦市が選定した9味の一つである、ニベの刺身を取り扱うお店です。 おすすめはニベ刺身です。全羅南道のモクポ市に位置した海鮮専門店です。",
+    "QA": [
+        {
+            "question": "中央刺身専門店はどこにありますか？",
+            "answer": "中央刺身専門店は全羅南道木浦市繁華路44-1に位置しています。"
+        },
+        {
+            "question": "中央刺身専門店は何を取り扱っていますか？",
+            "answer": "中央刺身専門店では木浦市が選定した9味の一つであるニベの刺身を取り扱っています。"
+        },
+        {
+            "question": "中央刺身専門店のおすすめは何ですか？",
+            "answer": "中央刺身専門店のおすすめはニベ刺身です。"
+        },
+        {
+            "question": "中央刺身専門店は海鮮専門店ですか？",
+            "answer": "はい、中央刺身専門店は海鮮専門店です。"
+        },
+        {
+            "question": "中央刺身専門店はどの市に位置していますか？",
+            "answer": "中央刺身専門店は木浦市に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 77,
+        "QA": 163
+    }
+}

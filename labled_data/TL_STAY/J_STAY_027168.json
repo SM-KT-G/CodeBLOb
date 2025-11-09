@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_027168",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.goodchoice.kr/product/detail?ano=51299&adcno=1&sel_date=2023-11-07&sel_date2=2023-11-08",
+        "collectedDate": "2023-11-15",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "서산 프리마"
+    },
+    "text": "駐車場情報:計30台の駐車施設を保有。 客室内部の施設: [セスコ防疫中]コロナ及び清潔を保つために登録。 安心して利用可能。 [Netflix] 最近たくさん視聴されているNetflixをテレビですぐ視聴可能。アカウントなしですぐ使用可能。全客室エアドレッサーと空気清浄機、ウォッシュレットを完備。",
+    "QA": [
+        {
+            "question": "駐車場は何台分ありますか？",
+            "answer": "駐車場は計30台分ございます。"
+        },
+        {
+            "question": "客室内にはどのような施設がありますか？",
+            "answer": "全客室にはエアドレッサーと空気清浄機、ウォッシュレットが完備されております。"
+        },
+        {
+            "question": "コロナ対策はどのように行われていますか？",
+            "answer": "当施設ではコロナ対策としてセスコ防疫中の登録をしており、清潔な環境を保つよう取り組んでおります。安心してご利用いただけます。"
+        },
+        {
+            "question": "Netflixを視聴することはできますか？",
+            "answer": "はい、最近たくさん視聴されているNetflixをテレビで視聴することが可能です。アカウントなしでご利用いただけます。"
+        }
+    ],
+    "word_Count": {
+        "text": 110,
+        "QA": 180
+    }
+}

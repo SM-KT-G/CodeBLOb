@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_020289",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=83&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=06140000&ccbaCtcd=38&ccbaCpno=1123806140000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1978-03-08",
+        "domain": "문화/역사관광",
+        "title": "사천 흥사리 매향비"
+    },
+    "text": "泗川興士里の梅香碑 (사천 흥사리 매향비)\\n\n慶尚南道泗川市昆陽面興士里山48-2番地\\n\n高麗 優王13年(1387年) , 宝物 , 梅香とは天と地の神を祀るためにイブキを地面に埋めたり香を焚いたりする儀式をいい、この時儀式を行う過程および時期と関連集団などを記録した碑を梅香碑という。 碑はほとんど整えられていない自然石を使って碑文を刻んだが、表面の屈曲が激しい。 文字の大きさが同じではなく、縦·横もよく合わず、文字数もまた各行ごとに同じではない。 ただ、字体に古めかしさが込められており、当時の地方の字体を垣間見ることができる。 判読された内容によると、高麗後期の社会が混乱した時に仏教僧侶たちを中心に4,100人余りが契を組織し、王の万寿無窮、国の富強、民の平安などを祈願するためにここで梅香儀式を行ったという。 碑文は僧侶達公が建て、スアンが書き、キム·ヨンが刻んだもので、高麗の優王13年(1387)に建てられた。 建設目的と立てた年代が確実な碑で、忘れられた私たちの昔の民俗を知らせ、高麗後期社会の一断面を示す貴重な資料だ。",
+    "QA": [
+        {
+            "question": "この梅香碑はどのような場所にありますか？",
+            "answer": "梅香碑は慶尚南道泗川市昆陽面興士里山48-2番地にあります。"
+        },
+        {
+            "question": "梅香とは何を祀るための儀式ですか？",
+            "answer": "梅香は天と地の神を祀るためにイブキを地面に埋めたり香を焚いたりする儀式です。"
+        },
+        {
+            "question": "この梅香碑はいつ建てられましたか？",
+            "answer": "梅香碑は高麗の優王13年(1387年)に建てられました。"
+        },
+        {
+            "question": "梅香碑の碑文は誰が書きましたか？",
+            "answer": "碑文は僧侶達公が建て、スアンが書き、キム・ヨンが刻んだものです。"
+        },
+        {
+            "question": "梅香碑の建設目的は何ですか？",
+            "answer": "碑文によると、梅香碑は仏教僧侶たちを中心に4,100人余りが組織し、王の万寿無窮、国の富強、民の平安などを祈願するために建てられました。"
+        }
+    ],
+    "word_Count": {
+        "text": 346,
+        "QA": 205
+    }
+}

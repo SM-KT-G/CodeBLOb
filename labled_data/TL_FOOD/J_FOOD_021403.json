@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_021403",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-05",
+        "domain": "음식점",
+        "title": "蓬坪そば ( 봉평메밀 )"
+    },
+    "text": "蓬坪そば ( 봉평메밀 )\\n\n慶尚北道 アンドン市 ユクサロ323\\n\n料理長が100%そば粉で打った麺を使用する店です。おすすめは混ぜそばです。慶尚北道のアンドン市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "蓬坪そば ( 봉평메밀 ) はどこに位置していますか？",
+            "answer": "蓬坪そばは慶尚北道のアンドン市に位置しています。"
+        },
+        {
+            "question": "蓬坪そばの特徴的な料理はありますか？",
+            "answer": "蓬坪そばのおすすめは混ぜそばです。"
+        },
+        {
+            "question": "蓬坪そばではどのような麺を使用していますか？",
+            "answer": "蓬坪そばでは料理長が100%そば粉で打った麺を使用しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 71,
+        "QA": 101
+    }
+}

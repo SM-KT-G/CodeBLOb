@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_055421",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/the-ski-coffee",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "ドスキエンコーヒー"
+    },
+    "text": "ドスキエンコーヒー\\n\nソウル特別市 ジョンノ区 ドンスンギル 63\\n\nワッフルも有名なお店です。代表的なメニューはアメリカーノです。この店はソウル特別市のテハンノに位置したカフェ（コーヒーショップ）です。",
+    "QA": [
+        {
+            "question": "このお店の名前は何ですか？",
+            "answer": "ドスキエンコーヒー"
+        },
+        {
+            "question": "このお店はどこに位置していますか？",
+            "answer": "ソウル特別市 ジョンノ区 ドンスンギル 63"
+        },
+        {
+            "question": "このお店は何のために有名ですか？",
+            "answer": "ワッフルも有名なお店です"
+        },
+        {
+            "question": "このお店の代表的なメニューは何ですか？",
+            "answer": "アメリカーノです"
+        }
+    ],
+    "word_Count": {
+        "text": 76,
+        "QA": 85
+    }
+}

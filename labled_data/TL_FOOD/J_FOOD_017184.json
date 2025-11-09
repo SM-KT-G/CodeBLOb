@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_017184",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-30",
+        "domain": "음식점",
+        "title": "高興サムゲタン ( 고흥삼계탕 )"
+    },
+    "text": "高興サムゲタン ( 고흥삼계탕 )\n全羅南道 木浦市 ボクサンキル6ボンキル 40\n木浦市民もよく訪れる隠れた名店です。全羅南道のモクポ市に位置したサムゲタン専門店です。おすすめはアワビ入りサムゲタンです。",
+    "QA": [
+        {
+            "question": "このサムゲタンの専門店はどこにありますか？",
+            "answer": "このサムゲタンの専門店は全羅南道の木浦市に位置しています。"
+        },
+        {
+            "question": "この店のおすすめメニューは何ですか？",
+            "answer": "この店のおすすめはアワビ入りサムゲタンです。"
+        },
+        {
+            "question": "この店はどんな人におすすめですか？",
+            "answer": "この店は木浦市民もよく訪れる隠れた名店です。"
+        }
+    ],
+    "word_Count": {
+        "text": 75,
+        "QA": 94
+    }
+}

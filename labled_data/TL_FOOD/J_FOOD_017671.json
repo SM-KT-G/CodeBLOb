@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_017671",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-01",
+        "domain": "음식점",
+        "title": "群山刺身専門店 ( 군산횟집 )"
+    },
+    "text": "群山刺身専門店 ( 군산횟집 )\\n\n全羅南道 麗水市 菊浦1路 51\\n\n30年の伝統を持つお店です。代表的なメニューはマダイの刺身です。全羅南道のヨス市に位置した海鮮専門店です。",
+    "QA": [
+        {
+            "question": "このお店はどこにありますか？",
+            "answer": "群山刺身専門店は全羅南道麗水市菊浦1路51にあります。"
+        },
+        {
+            "question": "このお店の特徴は何ですか？",
+            "answer": "このお店は30年の伝統を持つ群山刺身専門店です。代表的なメニューはマダイの刺身です。"
+        },
+        {
+            "question": "このお店のおすすめのメニューは何ですか？",
+            "answer": "このお店のおすすめのメニューはマダイの刺身です。"
+        },
+        {
+            "question": "このお店の場所はどうやって行けますか？",
+            "answer": "このお店は全羅南道のヨス市に位置しています。公共交通機関を利用する場合、地元のバスやタクシーを利用することができます。"
+        },
+        {
+            "question": "このお店は何年間営業していますか？",
+            "answer": "このお店は30年の伝統を持つお店です。"
+        }
+    ],
+    "word_Count": {
+        "text": 66,
+        "QA": 186
+    }
+}

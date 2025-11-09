@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_073390",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101971",
+        "collectedDate": "2023-09-07",
+        "publishedDate": "2021-11-22",
+        "domain": "문화/역사관광",
+        "title": "浮屠園"
+    },
+    "text": "浮屠園\n浮屠園  通度寺浮屠園は、通度寺の歴代高僧たちの浮屠塔・碑を奉安した場所です。現在、通度寺浮屠園には浮屠と塔碑及び修造碑・功徳碑など60基余りの石碑がありますが、これは通度寺がどれほど多くの高僧を輩出したかを知らせる証拠と言うことができます。通度寺浮屠園で、毎年旧暦9月9日の開山大斎日に浮屠献茶を行っています。",
+    "QA": [
+        {
+            "question": "通度寺浮屠園は何のための場所ですか？",
+            "answer": "通度寺浮屠園は、通度寺の歴代高僧たちの浮屠塔・碑を奉安した場所です。"
+        },
+        {
+            "question": "通度寺浮屠園には何がありますか？",
+            "answer": "通度寺浮屠園には浮屠と塔碑及び修造碑・功徳碑など60基余りの石碑があります。"
+        },
+        {
+            "question": "通度寺浮屠園で行われる特別なイベントはありますか？",
+            "answer": "通度寺浮屠園では、毎年旧暦9月9日の開山大斎日に浮屠献茶を行っています。"
+        }
+    ],
+    "word_Count": {
+        "text": 117,
+        "QA": 122
+    }
+}

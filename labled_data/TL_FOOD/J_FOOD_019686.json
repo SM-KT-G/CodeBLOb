@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_019686",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-01",
+        "domain": "음식점",
+        "title": "突山刺身専門店 ( 돌산횟집 )"
+    },
+    "text": "突山刺身専門店 ( 돌산횟집 )\\n\n全羅南道 順天市 ビボン２キル 3-14\\n\n低価格で刺身が食べられるお店で、地元の人もよく訪れる名店です。おすすめは雑魚の刺身です。全羅南道のスンチョン市に位置したさしみ専門店です。",
+    "QA": [
+        {
+            "question": "このお店の名前は何ですか？",
+            "answer": "突山刺身専門店（돌산횟집）です。"
+        },
+        {
+            "question": "お店の場所はどこですか？",
+            "answer": "全羅南道順天市ビボン２キル 3-14にあります。"
+        },
+        {
+            "question": "このお店ではどんな料理がおすすめですか？",
+            "answer": "おすすめは雑魚の刺身です。"
+        },
+        {
+            "question": "このお店は地元の人にも人気ですか？",
+            "answer": "はい、地元の人もよく訪れる名店です。"
+        },
+        {
+            "question": "このお店はどんな特徴がありますか？",
+            "answer": "このお店は低価格で刺身が食べられるお店です。"
+        }
+    ],
+    "word_Count": {
+        "text": 81,
+        "QA": 126
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_027322",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42020&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "하동 연우펜션"
+    },
+    "text": "智異山国立公園の中のヨヌペンションは韓国で最高の空気と水を誇ります。 ヨヌペンションではリラックスできる退室時間が与えられますが、これは入室時間に関係なく正午までです。 ただし、オンシーズンの場合は11時までに退室しなければなりません。 これを念頭に置いて予約を進めてください。",
+    "QA": [
+        {
+            "question": "ヨヌペンションはどこにありますか？",
+            "answer": "ヨヌペンションは智異山国立公園にあります。"
+        },
+        {
+            "question": "ヨヌペンションの特徴は何ですか？",
+            "answer": "ヨヌペンションは韓国で最高の空気と水を誇ります。"
+        },
+        {
+            "question": "ヨヌペンションの退室時間は何時ですか？",
+            "answer": "ヨヌペンションではリラックスできる退室時間が与えられます。ただし、オンシーズンの場合は11時までに退室しなければなりません。"
+        },
+        {
+            "question": "ヨヌペンションの入室時間に関係なく退室時間はどのくらいありますか？",
+            "answer": "ヨヌペンションの退室時間は入室時間に関係なく正午までです。"
+        },
+        {
+            "question": "予約の際に考慮すべきことはありますか？",
+            "answer": "ヨヌペンションの予約を進める際には、オンシーズンの場合は11時までに退室しなければならないことを念頭に置いてください。"
+        }
+    ],
+    "word_Count": {
+        "text": 101,
+        "QA": 219
+    }
+}

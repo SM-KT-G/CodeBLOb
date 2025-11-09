@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_011771",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "ハハ ( 하하 )"
+    },
+    "text": "ハハ ( 하하 )\nソウル特別市 麻浦区 東橋路\n餃子とナスの揚げ物が有名な中華料理店です。ソウル特別市のマポ区に位置した韓食専門店です。代表的なメニューは餃子です。",
+    "QA": [
+        {
+            "question": "ハハの場所はどこですか？",
+            "answer": "ハハはソウル特別市マポ区東橋路にあります。"
+        },
+        {
+            "question": "ハハのメニューは何ですか？",
+            "answer": "ハハの代表的なメニューは餃子です。"
+        },
+        {
+            "question": "ハハの特徴的な料理はありますか？",
+            "answer": "ハハの特徴的な料理は餃子とナスの揚げ物です。"
+        },
+        {
+            "question": "ハハはどのようなレストランですか？",
+            "answer": "ハハは中華料理の専門店で、餃子やナスの揚げ物などが人気です。"
+        }
+    ],
+    "word_Count": {
+        "text": 60,
+        "QA": 108
+    }
+}

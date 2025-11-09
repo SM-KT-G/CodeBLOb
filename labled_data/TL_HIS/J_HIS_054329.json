@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_054329",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1041&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=01100000&ccbaCtcd=36&ccbaCpno=3413601100000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1984-02-29",
+        "domain": "문화/역사관광",
+        "title": "금골산마애여래좌상"
+    },
+    "text": "全羅南道文化財資料、全羅南道珍島郡クムゴルサンにある石窟の壁面に刻まれた仏像は阿弥陀如来を表すものとみられる。この仏像は親指と四番目の指を接している手の形を備えている。顔は丸い、身体も丸く膨張されているが、立体感はなく平面化されて見られる。服は両肩を覆っており、膝まで降りてくる裾は図式的な波模様の服のしわとなっている。仏像の胸には、四角形の溝が掘られており、おそらく仏像と関連した服装品を入れておいた所と推定される。目鼻立ちは丸い顔に加え、土着的に刻まれていて、体を膨らませように表現した特徴は高麗時代の地方化された様式を示している。この仏像は、当時の代表的な磨崖仏と評価されている。",
+    "QA": [
+        {
+            "question": "この仏像は何を表していますか？",
+            "answer": "この仏像は阿弥陀如来を表しています。"
+        },
+        {
+            "question": "この仏像の特徴は何ですか？",
+            "answer": "この仏像は親指と四番目の指を接している手の形を備えており、顔は丸く身体も丸く膨張されていますが、立体感はなく平面化されています。服は両肩を覆っており、膝まで降りてくる裾は図式的な波模様の服のしわとなっています。"
+        },
+        {
+            "question": "仏像の胸に掘られている四角形の溝は何ですか？",
+            "answer": "仏像の胸に掘られている四角形の溝は、おそらく仏像と関連した服装品を入れておいた所だと推定されます。"
+        },
+        {
+            "question": "この仏像の顔や体の表現にはどのような特徴がありますか？",
+            "answer": "この仏像の顔は丸く、土着的な目鼻立ちが刻まれており、体を膨らませるように表現されています。これは高麗時代の地方化された様式を示しています。"
+        },
+        {
+            "question": "この仏像はどの時代の代表的な磨崖仏と評価されていますか？",
+            "answer": "この仏像は当時の代表的な磨崖仏と評価されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 214,
+        "QA": 272
+    }
+}

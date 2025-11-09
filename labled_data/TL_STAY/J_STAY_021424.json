@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_021424",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42030&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "안동 강노을펜션(풍산,회곡)"
+    },
+    "text": "流れる川と夕焼けが美しい川夕焼けペンションです。 当ペンションは最高級施設のフットサル場とバスケットボール場、バーベキュー場、カラオケ、2人用自転車体験などを備えています。 カンノウルカフェでは素敵な風景を眺めながら遠赤外線半身浴器と膝パクサウナが利用でき、最新式カラオケ施設も完備されており、ウェルビーイングと親睦を図ることができる良い時間を保障します。 もし22:00以降にペンションに到着する場合は、事前にご連絡ください。",
+    "QA": [
+        {
+            "question": "川夕焼けペンションでは、どのような施設がありますか？",
+            "answer": "最高級施設のフットサル場とバスケットボール場、バーベキュー場、カラオケ、2人用自転車体験などがあります。"
+        },
+        {
+            "question": "カンノウルカフェでは、何が利用できますか？",
+            "answer": "カンノウルカフェでは、遠赤外線半身浴器と膝パクサウナが利用できます。また、最新式のカラオケ施設も完備されています。"
+        },
+        {
+            "question": "ペンションへの到着時間に制限はありますか？",
+            "answer": "22:00以降に到着する場合は、事前にご連絡ください。"
+        }
+    ],
+    "word_Count": {
+        "text": 156,
+        "QA": 149
+    }
+}

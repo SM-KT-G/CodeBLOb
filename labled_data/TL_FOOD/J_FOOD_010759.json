@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_010759",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-01",
+        "domain": "음식점",
+        "title": "ドハジョン ( 도하정 )"
+    },
+    "text": "ドハジョン \nソウル特別市 麻浦区 麻浦大路4キル 38\n韓国のグルメ番組でよく紹介されるグルメスポットです。ソウル特別市のマポ区に位置した韓食専門店です。代表的なメニューはコムタンです。",
+    "QA": [
+        {
+            "question": "このグルメスポットの場所はどこですか？",
+            "answer": "ソウル特別市のマポ区に位置しています。具体的な住所は麻浦大路4キル 38です。"
+        },
+        {
+            "question": "この韓食専門店の代表的なメニューは何ですか？",
+            "answer": "代表的なメニューはコムタンです。"
+        },
+        {
+            "question": "このグルメスポットは韓国のグルメ番組で紹介されることがありますか？",
+            "answer": "はい、韓国のグルメ番組でよく紹介されるグルメスポットです。"
+        }
+    ],
+    "word_Count": {
+        "text": 68,
+        "QA": 115
+    }
+}

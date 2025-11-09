@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_007781",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-03",
+        "domain": "음식점",
+        "title": "ジョンダム ( 정담 )"
+    },
+    "text": "ジョンダム ( 정담 )\\n\n江原道 ガンヌン市 ナンソルホンロ138-20\\n\n広い駐車場を完備しており、集まりにぴったりです。江原道のガンヌン市に位置した韓食専門店です。代表的なメニューはコウタケ入り鶏肉の水炊きです。",
+    "QA": [
+        {
+            "question": "ジョンダムはどこに位置していますか？",
+            "answer": "ジョンダムは江原道のガンヌン市に位置しています。"
+        },
+        {
+            "question": "ジョンダムの駐車場はありますか？",
+            "answer": "はい、ジョンダムには広い駐車場が完備されています。"
+        },
+        {
+            "question": "ジョンダムのメニューでおすすめは何ですか？",
+            "answer": "ジョンダムの代表的なメニューはコウタケ入り鶏肉の水炊きです。ぜひお試しください。"
+        },
+        {
+            "question": "ジョンダムは集まりに適していますか？",
+            "answer": "はい、ジョンダムは広い駐車場を完備しており、集まりにぴったりです。"
+        }
+    ],
+    "word_Count": {
+        "text": 81,
+        "QA": 143
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_021133",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=656&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=04680000&ccbaCtcd=37&ccbaCpno=2113704680000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2013-04-08",
+        "domain": "문화/역사관광",
+        "title": "상주 남장사 일주문"
+    },
+    "text": "尚州 男装社 一柱門 (상주 남장사 일주문)\\n\n慶尚北道尚州市南蔵1ギル259-22(南蔵洞)、南蔵寺\\n\n19世紀末以前 , 慶尚北道有形文化財 , この建物は雑石で低く積み上げた築台の上に自然石柱礎を両側に置いて建てた。 建物の特色は両側の柱の前後に角張った柱を付けて立て、再び一つずつの滑走を溜めて重圧を支えているが、その柱頭が龍の形をしており、非常にリアルだ。 正面醜女の下には'光緒8年'(1882)に'露岳山南長寺'という扁額が海岡金奎鎮の字で書かれている。 この建物の様式は一字型に正面1間(4m)、側面1間(2.6m)形態の3坪で、全体的に建築外形でバランス感とボリューム感があり、特に構造的な面を考慮したつま先立ちの彫刻手法が特異だ。",
+    "QA": [
+        {
+            "question": "この建物はどの時代に建てられましたか？",
+            "answer": "この建物は19世紀末以前に建てられました。"
+        },
+        {
+            "question": "この建物はどのような特徴がありますか？",
+            "answer": "この建物は雑石で低く積み上げた築台の上に自然石柱礎を両側に置いて建てられています。また、柱頭が龍の形をしており、非常にリアルです。"
+        },
+        {
+            "question": "この建物の正面にはどのような扁額がありますか？",
+            "answer": "この建物の正面には'露岳山南長寺'という扁額があります。"
+        },
+        {
+            "question": "この建物の構造はどのような形状ですか？",
+            "answer": "この建物は一字型に正面1間(4m)、側面1間(2.6m)形態の3坪で、バランス感とボリューム感があります。また、つま先立ちの彫刻手法が特異です。"
+        }
+    ],
+    "word_Count": {
+        "text": 240,
+        "QA": 195
+    }
+}

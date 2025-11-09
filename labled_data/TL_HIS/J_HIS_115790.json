@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_115790",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/collectionList#######",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2023-10-11",
+        "domain": "문화/역사관광",
+        "title": "촌락의 기와집"
+    },
+    "text": "村落の瓦葺きの家 (촌락의 기와집)\\n\n横浜家屋の原版番号は無1090-4で、この家屋は村落の瓦葺きで作られています。この家屋は韓国の植民地支配時代の日本によって建てられました。建築材料としてはガラスと宝石が使用されており、この家屋はメディアとしての記録物やフィルムとして分類されます。横の長さは150cm、縦の長さは99cmです。",
+    "QA": [
+        {
+            "question": "この家屋はどのように作られましたか？",
+            "answer": "この家屋は村落の瓦葺きで作られています。"
+        },
+        {
+            "question": "この家屋の建築材料として何が使用されていますか？",
+            "answer": "この家屋の建築材料としてはガラスと宝石が使用されています。"
+        },
+        {
+            "question": "この家屋の横の長さと縦の長さはそれぞれ何ですか？",
+            "answer": "この家屋の横の長さは150cm、縦の長さは99cmです。"
+        }
+    ],
+    "word_Count": {
+        "text": 122,
+        "QA": 104
+    }
+}

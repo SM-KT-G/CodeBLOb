@@ -1,0 +1,51 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_003316",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=248&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=13&ccbaAsno=02580000&ccbaCtcd=11&ccbaCpno=1331102580000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1977-11-22",
+        "domain": "문화/역사관광",
+        "title": "서울 명동성당"
+    },
+    "text": "ソウル明洞聖堂 (서울 명동성당)\\n\nソウル中区明洞2街1-1番地\\n\n史跡 , 明洞聖堂はコスト(Coste)神父が設計し、パリ宣教会の財政支援を得て建設された。 本来殉教者キム·ボムウの家があったところで、ブラン主教がキム·カミーロという韓国人名義で買い入れた。 その後、1887年に韓国とフランスの間で通商条約が締結された後、1898年に完成した。 韓国初のレンガ造りの教会で、純粋なゴシック様式で建てられた。 平面は十字形で、本堂の高さは23m、塔の高さは45mだ。 ゴシック様式の装飾的要素を排除しながらそのまま模倣し、空間のゴシック的な感じは外部より内部でより強く与えられた。 建築に使用したレンガは韓国で作ったもので、その形が20種余りに達するだけでなく、色も赤いものと灰色の2種類がある。 それらを適切に使用することで、調和のとれた美しい建物を完成させた。",
+    "QA": [
+        {
+            "question": "ソウル明洞聖堂は誰によって設計されましたか？",
+            "answer": "明洞聖堂はコスト(Coste)神父が設計しました。"
+        },
+        {
+            "question": "ソウル明洞聖堂はいつ建設されましたか？",
+            "answer": "ソウル明洞聖堂は1898年に完成しました。"
+        },
+        {
+            "question": "ソウル明洞聖堂はどのような様式で建てられましたか？",
+            "answer": "ソウル明洞聖堂は純粋なゴシック様式で建てられました。"
+        },
+        {
+            "question": "ソウル明洞聖堂の平面はどのような形をしていますか？",
+            "answer": "ソウル明洞聖堂の平面は十字形です。"
+        },
+        {
+            "question": "ソウル明洞聖堂の本堂の高さは何メートルですか？",
+            "answer": "ソウル明洞聖堂の本堂の高さは23メートルです。"
+        },
+        {
+            "question": "ソウル明洞聖堂の塔の高さは何メートルですか？",
+            "answer": "ソウル明洞聖堂の塔の高さは45メートルです。"
+        },
+        {
+            "question": "ソウル明洞聖堂の建築にはどのような材料が使用されましたか？",
+            "answer": "ソウル明洞聖堂の建築には韓国で作られたレンガが使用されました。"
+        }
+    ],
+    "word_Count": {
+        "text": 283,
+        "QA": 242
+    }
+}

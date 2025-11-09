@@ -1,0 +1,31 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_003480",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-02-09",
+        "domain": "숙박",
+        "title": "ケンシントンホテル汝矣島（旧レキシントンホテル）（켄싱턴호텔 여의도（구. 렉싱턴호텔））"
+    },
+    "text": "ケンシントンホテル汝矣島（旧レキシントンホテル）（켄싱턴호텔 여의도（구. 렉싱턴호텔））\\n\nソウル特別市 永登浦区 国会大路76キル 16 （汝矣島洞）\\n\nケンシントンホテル汝矣島は、漢江に囲まれた金融、政治、文化とマスコミの中心地、汝矣島に位置しています。",
+    "QA": [
+        {
+            "question": "ケンシントンホテル汝矣島はどこに位置していますか？",
+            "answer": "ケンシントンホテル汝矣島はソウル特別市永登浦区国会大路76キル16に位置しています。"
+        },
+        {
+            "question": "ケンシントンホテル汝矣島はどのような場所に位置していますか？",
+            "answer": "ケンシントンホテル汝矣島は漢江に囲まれた金融、政治、文化とマスコミの中心地、汝矣島に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 96,
+        "QA": 107
+    }
+}

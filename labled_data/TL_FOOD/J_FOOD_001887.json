@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001887",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-06-30",
+        "domain": "음식점",
+        "title": "MIEL（미엘）"
+    },
+    "text": "MIEL（미엘）\\n\nソウル特別市 江南区 島山大路67キル13-12\\n\nフランス語で蜂蜜という意味を持つ「MIEL（ミエル）」は、美術展示館とカフェが共存するモダンな感覚のカフェで、蜂の巣を応用した店内は独特な雰囲気をかもし出しています。人気メニューは、ワッフルなどのデザートです。",
+    "QA": [
+        {
+            "question": "MIEL（ミエル）の場所はどこですか？",
+            "answer": "MIEL（ミエル）はソウル特別市江南区島山大路67キル13-12にあります。"
+        },
+        {
+            "question": "MIEL（ミエル）の意味は何ですか？",
+            "answer": "MIEL（ミエル）はフランス語で蜂蜜という意味です。"
+        },
+        {
+            "question": "MIEL（ミエル）では何が人気のメニューですか？",
+            "answer": "MIEL（ミエル）ではワッフルなどのデザートが人気です。"
+        }
+    ],
+    "word_Count": {
+        "text": 104,
+        "QA": 112
+    }
+}

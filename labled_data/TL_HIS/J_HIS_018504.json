@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_018504",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=953&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=00040000&ccbaCtcd=33&ccbaCpno=3413300040000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1986-04-28",
+        "domain": "문화/역사관광",
+        "title": "보은 선병묵 고가"
+    },
+    "text": "報恩禅柄墨古家 (보은 선병묵 고가)\\n\n忠清北道報恩郡長安面下開里96番地\\n\n1940 , 忠清北道文化財資料 , 1940年代に建てられた家で、母屋·サランチェ·ヘンランチェなどを備えている。 配置は前方にサランチェを置き、中門を通じてその後の母屋に入るように構成されている。 サランチェは前面4間半·側面2間で比較的大きな規模の建物だ。 前後の間の外に退間を設け、部屋を大きく飾ることができるようにした。 また、ㄱ字型の縁側を置いて空間を広げる一方、通路としても活用できるようにした。 母屋に入る構造や縁側の機能を広げた点で、伝統韓屋建築の技法とは多少異なる様式を見せる家だ。",
+    "QA": [
+        {
+            "question": "この家の建築年代はいつですか？",
+            "answer": "1940年代に建てられました。"
+        },
+        {
+            "question": "この家はどの地域にありますか？",
+            "answer": "忠清北道報恩郡長安面下開里96番地にあります。"
+        },
+        {
+            "question": "この家の特徴的な部分は何ですか？",
+            "answer": "この家は母屋・サランチェ・ヘンランチェなどを備えています。サランチェは前面4間半・側面2間で比較的大きな規模の建物で、部屋を大きく飾ることができるようになっています。また、ㄱ字型の縁側を置いて空間を広げる一方、通路としても活用できるようになっています。"
+        },
+        {
+            "question": "この家の配置はどのようになっていますか？",
+            "answer": "配置は前方にサランチェを置き、中門を通じてその後の母屋に入るように構成されています。"
+        },
+        {
+            "question": "この家の建築様式は伝統韓屋建築とはどのように異なりますか？",
+            "answer": "母屋に入る構造や縁側の機能を広げた点で、伝統韓屋建築の技法とは多少異なる様式を見せる家です。"
+        }
+    ],
+    "word_Count": {
+        "text": 214,
+        "QA": 254
+    }
+}

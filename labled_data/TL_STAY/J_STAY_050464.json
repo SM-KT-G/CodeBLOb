@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_050464",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42011&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "강화도 새벽별바다펜션(개별바베큐)"
+    },
+    "text": "カンファ島セビョクビョル海の一軒家ペンションでは、家族や恋人たちが大切な思い出を作ることができる場所です。 当ペンションはカンファの涼しい海を鑑賞できる位置にあり、海釣りとバーベキューを楽しめる施設も備えています。 午後9時以降に入室予定の場合は、前日事前連絡をお願いします。 当ペンションと一緒に幸せな旅に出てください。",
+    "QA": [
+        {
+            "question": "このペンションの場所はどこですか？",
+            "answer": "カンファ島セビョクビョル海に位置しています。"
+        },
+        {
+            "question": "このペンションではどのようなアクティビティが楽しめますか？",
+            "answer": "海釣りとバーベキューが楽しめます。"
+        },
+        {
+            "question": "午後9時以降に入室する場合は何をすれば良いですか？",
+            "answer": "前日に事前連絡をお願いします。"
+        },
+        {
+            "question": "このペンションでは家族や恋人たちと思い出を作ることができますか？",
+            "answer": "はい、家族や恋人たちと大切な思い出を作ることができる場所です。"
+        },
+        {
+            "question": "このペンションを利用すると幸せな旅に出ることができますか？",
+            "answer": "はい、当ペンションと一緒に幸せな旅に出ることができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 118,
+        "QA": 179
+    }
+}

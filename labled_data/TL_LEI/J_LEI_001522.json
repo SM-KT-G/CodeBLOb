@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_LEI_001522",
+        "source": "도서",
+        "writer": "이명성",
+        "ISBN_ISNN": "978-89-9865-693-5",
+        "version": "초판",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "오늘도 공방으로 출근합니다",
+        "collectedDate": "2023-11-10",
+        "publishedDate": "2020-01-22",
+        "domain": "레포츠",
+        "title": "미세스미미"
+    },
+    "text": "セソル洞に位置するフルートアート作家のアトリエであるMrs. mimi fluidartは、レジンアート、アクリルフルート、アルコールインクをベースにした作品を展示しています。 このアトリエでは、ワンデクラスから専門家コースまで様々なクラスを提供しており、簡単に体験できるように学ぶことができます。 アトリエはセソル洞の一戸建て住宅団地内に位置しており、アクセスは眞露マートの向かい側にある明るい灰色の家の庭園入口に工房があります。",
+    "QA": [
+        {
+            "question": "Mrs. mimi fluidartはどんな作品を展示していますか？",
+            "answer": "Mrs. mimi fluidartはレジンアート、アクリルフルート、アルコールインクをベースにした作品を展示しています。"
+        },
+        {
+            "question": "Mrs. mimi fluidartのアトリエではどんなクラスを提供していますか？",
+            "answer": "Mrs. mimi fluidartのアトリエではワンデクラスから専門家コースまで様々なクラスを提供しています。"
+        },
+        {
+            "question": "Mrs. mimi fluidartのアトリエの場所はどこですか？",
+            "answer": "Mrs. mimi fluidartのアトリエはセソル洞の一戸建て住宅団地内に位置しています。"
+        },
+        {
+            "question": "Mrs. mimi fluidartのアトリエへのアクセス方法はありますか？",
+            "answer": "Mrs. mimi fluidartのアトリエへのアクセスは眞露マートの向かい側にある明るい灰色の家の庭園入口に工房があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 158,
+        "QA": 274
+    }
+}

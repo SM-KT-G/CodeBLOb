@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_020164",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-06",
+        "domain": "음식점",
+        "title": "陸兵長 ( 육병장 )"
+    },
+    "text": "陸兵長 ( 육병장 )\nソウル特別市 松坡区 ペクジェゴブンロ7ギル28\nサムギョプサルが食べ放題で味わえる店です。代表的なメニューは無制限提供です。ソウル特別市のソンパ区に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "このレストランはどこにありますか？",
+            "answer": "ソウル特別市のソンパ区に位置しています。"
+        },
+        {
+            "question": "このレストランの特徴的なメニューは何ですか？",
+            "answer": "代表的なメニューはサムギョプサルが食べ放題で味わえます。"
+        },
+        {
+            "question": "このレストランの料理は何を提供していますか？",
+            "answer": "韓食専門店で、サムギョプサルが食べ放題の他にも様々な料理を提供しています。"
+        },
+        {
+            "question": "このレストランの場所はどのように行けばいいですか？",
+            "answer": "ソウル特別市のソンパ区のペクジェゴブンロ7ギル28にあります。"
+        },
+        {
+            "question": "このレストランの営業時間は何時から何時までですか？",
+            "answer": "営業時間は記載されていません。"
+        }
+    ],
+    "word_Count": {
+        "text": 72,
+        "QA": 177
+    }
+}

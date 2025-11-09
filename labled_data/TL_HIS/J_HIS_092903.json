@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_092903",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=815&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=00560000&ccbaCtcd=36&ccbaCpno=2333600560000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1981-10-20",
+        "domain": "문화/역사관광",
+        "title": "용산재및덕양사"
+    },
+    "text": "全羅南道記念物、高麗の開国功臣シン·スンギョム(~927)の誕生地を中心に構成された将軍の遺跡です。申崇謙は王建を助け、弓裔を追い出し、高麗建国に多大な貢献をし、開国の立役者となりました。高麗太祖が即位した数年後、百済の甄萱は新羅を攻撃しました。これに激怒した太祖は、軍を率いて戦ったが、後百済軍に包囲され、危急の事態となりました。この時、申崇謙が太祖を救い、後百済軍と戦って戦死しました",
+    "QA": [
+        {
+            "question": "誰が高麗の開国功臣シン·スンギョムの誕生地を中心に構成された将軍の遺跡ですか？",
+            "answer": "申崇謙"
+        },
+        {
+            "question": "申崇謙はどのように高麗建国に貢献しましたか？",
+            "answer": "王建を助け、弓裔を追い出し、高麗建国に多大な貢献しました。"
+        },
+        {
+            "question": "申崇謙はどのように高麗太祖を救いましたか？",
+            "answer": "高麗太祖が後百済軍に包囲された際、申崇謙が太祖を救い、後百済軍と戦って戦死しました。"
+        }
+    ],
+    "word_Count": {
+        "text": 142,
+        "QA": 114
+    }
+}

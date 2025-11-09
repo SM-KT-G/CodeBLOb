@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_011190",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-09-01",
+        "domain": "음식점",
+        "title": "ヌンラバプサン ( 능라밥상 )"
+    },
+    "text": "ヌンラバプサン ( 능라밥상 )\\n\nソウル特別市 鐘路区 敦化門路5キル 42\\n\n脱北者の料理研究家が経営する北朝鮮の伝統料理が味わえるお店です。おすすめはピョンヤン牛肉鍋です。ソウル特別市のジョンノ区に位置した北韓（北朝鮮）料理専門店です。",
+    "QA": [
+        {
+            "question": "このお店の場所はどこですか？",
+            "answer": "ソウル特別市 鐘路区 敦化門路5キル 42にあります。"
+        },
+        {
+            "question": "このお店の特徴は何ですか？",
+            "answer": "このお店は脱北者の料理研究家が経営しており、北朝鮮の伝統料理が味わえるお店です。"
+        },
+        {
+            "question": "おすすめのメニューは何ですか？",
+            "answer": "おすすめはピョンヤン牛肉鍋です。"
+        },
+        {
+            "question": "このお店はどのくらいの座席数ですか？",
+            "answer": "座席数は提供されていませんが、一般的なレストランと同様に複数のテーブルがあります。"
+        },
+        {
+            "question": "このお店の営業時間は何時から何時までですか？",
+            "answer": "営業時間についての情報は提供されていません。最新の営業時間については直接お店にお問い合わせください。"
+        }
+    ],
+    "word_Count": {
+        "text": 90,
+        "QA": 187
+    }
+}

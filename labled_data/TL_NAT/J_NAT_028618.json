@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_028618",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=232&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=13&ccbaAsno=00560000&ccbaCtcd=31&ccbaCpno=1333100560000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1963-01-21",
+        "domain": "자연관광",
+        "title": "고양 행주산성"
+    },
+    "text": "三国時代から存在していた幸州山城はトチュクサン性として有名なところだ。1キロほどの長い形で東西に広がっているが、小さな耐性と外城の二重構造になっている。漢江(ハンガン)とチャンルン川が山城を取り囲んでおり、自然的な防御力を持っている。城の中では三国時代と統一新羅時代の遺物だけでなく、高麗時代まで使用されていた瓦の破片も発見された。幸州山城の戦いは文禄・慶長の役の時に起きた大勝戦の一つで、ヘンジュウィ、女性たちが石を放ち、兵士らに普及して勝利を収めた事件だ。この地域は、三国時代から南北交通の中心地であり、1603年には幸州大捷碑と忠長寺が建てられて権慄将軍を称えている。以前は'幸州山城'と呼ばれたが、現在は'高陽、幸州(ヘンジュ)山城'に名称が変更された。",
+    "QA": [
+        {
+            "question": "幸州山城はどのような構造になっていますか？",
+            "answer": " 幸州山城は東西に広がる長い形をしており、小さな耐性と外城の二重構造になっています。"
+        },
+        {
+            "question": "幸州山城の周囲を取り囲んでいる自然的な要素は何ですか？",
+            "answer": " 漢江(ハンガン)とチャンルン川が山城を取り囲んでおり、自然的な防御力を持っています。"
+        },
+        {
+            "question": "幸州山城で発見された遺物には何が含まれていますか？",
+            "answer": " 幸州山城の中では三国時代と統一新羅時代の遺物だけでなく、高麗時代まで使用されていた瓦の破片も発見されています。"
+        },
+        {
+            "question": "幸州山城の戦いで起きた有名な事件は何ですか？",
+            "answer": " 幸州山城の戦いは文禄・慶長の役の時に起きた大勝戦の一つで、ヘンジュウィ、女性たちが石を放ち、兵士らに普及して勝利を収めた事件です。"
+        },
+        {
+            "question": "幸州山城が1603年に建てられた建造物は何ですか？",
+            "answer": " 1603年には幸州大捷碑と忠長寺が建てられて権慄将軍を称えています。"
+        }
+    ],
+    "word_Count": {
+        "text": 242,
+        "QA": 265
+    }
+}

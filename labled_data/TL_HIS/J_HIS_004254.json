@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_004254",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.doopedia.co.kr/",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "두정역"
+    },
+    "text": "トゥジョンえき\\n\n稷山駅と天安駅の間に位置するのは、京釜線にあるこの駅です。1979年6月15日に信号場として開業し、2005年に普通駅に昇格しました。広域電鉄が運行され、旅客や乗車券の発売などの業務を担当しています。この駅はKORAIL(Korail)大田忠南本部に所属し、忠清南道天安市斗井洞84-1に位置しています。",
+    "QA": [
+        {
+            "question": "この駅はいつ開業しましたか？",
+            "answer": "1979年6月15日に信号場として開業しました。"
+        },
+        {
+            "question": "この駅はどのように普通駅に昇格しましたか？",
+            "answer": "2005年に普通駅に昇格しました。"
+        },
+        {
+            "question": "この駅はどの路線に位置していますか？",
+            "answer": "この駅は京釜線に位置しています。"
+        },
+        {
+            "question": "この駅の所属会社はどこですか？",
+            "answer": "この駅はKORAIL(Korail)大田忠南本部に所属しています。"
+        },
+        {
+            "question": "この駅の住所はどこですか？",
+            "answer": "この駅の住所は忠清南道天安市斗井洞84-1です。"
+        }
+    ],
+    "word_Count": {
+        "text": 118,
+        "QA": 143
+    }
+}

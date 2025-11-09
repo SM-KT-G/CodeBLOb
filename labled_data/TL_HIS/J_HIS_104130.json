@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_104130",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1143&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=04140000&ccbaCtcd=38&ccbaCpno=3413804140000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2006-11-02",
+        "domain": "문화/역사관광",
+        "title": "진주 이세후 종가"
+    },
+    "text": "晋州イ·セフ宗家\\n\n慶尚南道晋州市清原キル51番キル18-8(智水面)\\n\n慶尚南道文化財資料、住居部分と斎室、仮墓の2部分が互いに垣根で区分されている。住まいは母屋とサランチェ、バンアッガンチェ、光彩そして、門屋で構成されている。横、縦の雨がほぼ同じ正方形の敷地に母屋とサランチェを南北に並列配置してこの二つの建物の間に精米所とゴクガンを配置し、全体配置形式は南部地方の上流住居の典型である敷地な字形をなしており、門屋は大地の右側につけて配置することで、視覚的な効果と共に愛庭と廊の庭を兼ねているところを確保した。",
+    "QA": [
+        {
+            "question": "この宗家の住居部分と斎室、仮墓は何で区分されていますか？",
+            "answer": "垣根で区分されています。"
+        },
+        {
+            "question": "この宗家の住まいは何で構成されていますか？",
+            "answer": "母屋とサランチェ、バンアッガンチェ、光彩そして、門屋で構成されています。"
+        },
+        {
+            "question": "この宗家の敷地の配置形式はどのような特徴がありますか？",
+            "answer": "南北に母屋とサランチェを並列配置し、精米所とゴクガンを配置する南部地方の上流住居の典型である敷地な字形をなしており、門屋は大地の右側につけて配置することで、視覚的な効果と共に愛庭と廊の庭を兼ねているところを確保しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 189,
+        "QA": 172
+    }
+}

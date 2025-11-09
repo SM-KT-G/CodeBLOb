@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_016200",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=434&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=00770000&ccbaCtcd=23&ccbaCpno=2112300770000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2019-07-29",
+        "domain": "문화/역사관광",
+        "title": "명대철제도종"
+    },
+    "text": "明大鉄製陶鐘 (명대철제도종)\\n\n仁川広域市延寿区清涼路160番キル26(玉蓮洞、仁川広域市延寿区清涼路160番キル26)\\n\n仁川広域市有形文化財 , 鉄製の陶鐘で、鐘身を横線で区画して中に銘文を刻み、鐘口は破傷型で典型的な中国種の特徴を示す遺物だ。 鍾乳は人面型の姿をしているが、前後に顔を合わせている。 天板から上部まで続く面は蓮板門を回し、その間に円形の穴を開けておいた。 終身は大きく三段に区分されている。 上段には「国泰民安」などの文字が大きく刻まれており、真ん中には鐘が製作されるようになった経緯と鐘を製作するために施主した人々の名簿などを書いてある。 特に名門の中に「泰山行宮に置くためにこの梵鐘を製作する」という内容が見えるが、ここで泰山行宮は河南省商丘県にある道教寺院を意味する単語で、この梵鐘が道教寺院と関連があることが分かる。 一番下には八卦が唐草文と共に鐘身を順番に刻まれており、波状形の鐘具には鳥の姿が八宝模様などと共に流麗な線で飾られているなど全体的に装飾的な感じが強い。 この遺物は、日本が太平洋戦争の時期に武器の原料として使用するために中国から富平の造兵廠に持ち込まれたもので、1946年に仁川に移され、現在同博物館の野外展示場で展示されている。",
+    "QA": [
+        {
+            "question": "この陶鐘はどの地域にありますか？",
+            "answer": "仁川広域市延寿区の清涼路にあります。"
+        },
+        {
+            "question": "この陶鐘は何で作られていますか？",
+            "answer": "この陶鐘は鉄で作られています。"
+        },
+        {
+            "question": "この陶鐘の特徴は何ですか？",
+            "answer": "この陶鐘は鐘身を横線で区画し、中に銘文を刻んでいます。また、鐘口は破傷型で典型的な中国種の特徴があります。"
+        },
+        {
+            "question": "この陶鐘はどのように使用されていましたか？",
+            "answer": "この陶鐘は道教寺院に置かれるために製作されました。"
+        },
+        {
+            "question": "この陶鐘はどのように展示されていますか？",
+            "answer": "この陶鐘は仁川の博物館の野外展示場で展示されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 396,
+        "QA": 164
+    }
+}

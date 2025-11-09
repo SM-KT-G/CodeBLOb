@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_002154",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://apis.data.go.kr/1400000/service/cultureInfoService2/mntInfoOpenAPI2",
+        "collectedDate": "2023-11-22",
+        "publishedDate": "2020-12-01",
+        "domain": "자연관광",
+        "title": "시루산"
+    },
+    "text": "シルサン (시루산)\\n\n江原特別自治道 寧越郡北面マチャリ\\n\n山の高さ : 688m , 甑山は寧越郡北面に位置する海抜685mの山だ。 南に悠々と流れてきた平昌江が寧越邑を遠くに置いて西江にふと名前が変わる。 甑山は名前が変わるその川辺にそびえ立って妙な山勢を誇り、山脈を端宗の墓が長陵が位置する鉢山につなぐ意味のある山でもある。",
+    "QA": [
+        {
+            "question": "甑山はどこに位置していますか？",
+            "answer": "甑山は寧越郡北面に位置しています。"
+        },
+        {
+            "question": "甑山の高さは何メートルですか？",
+            "answer": "甑山の高さは海抜685メートルです。"
+        },
+        {
+            "question": "甑山の周辺にはどのような自然がありますか？",
+            "answer": "甑山の周辺には山脈や川があり、鉢山につながる意味を持っています。"
+        },
+        {
+            "question": "甑山からの眺めはどうですか？",
+            "answer": "甑山からは川や山脈の美しい景色を眺めることができます。"
+        },
+        {
+            "question": "甑山周辺には何がありますか？",
+            "answer": "甑山周辺には寧越邑や西江などの地域があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 123,
+        "QA": 143
+    }
+}

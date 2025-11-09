@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_021924",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-08-07",
+        "domain": "음식점",
+        "title": "釜田テジクッパ（부전돼지국밥）"
+    },
+    "text": "釜田テジクッパ（부전돼지국밥）\\n\n釜山広域市 沙上区 沙上路 214\\n\n釜山広域市沙上区（ササング）掛法洞（ケポプトン）にある釜田（プジョン）テジ（豚肉）クッパはクッパ専門店です。1988年にオープンして以来長年に渡り営業をつづけてきた店で、沙上トンネルのそばに店舗があります。このお店の豚肉クッパは注文すると麺も一緒に運ばれてきます。",
+    "QA": [
+        {
+            "question": "このお店の名前は何ですか？",
+            "answer": "釜田テジクッパ（부전돼지국밥）です。"
+        },
+        {
+            "question": "釜田テジクッパはどこにありますか？",
+            "answer": "釜山広域市沙上区沙上路214にあります。"
+        },
+        {
+            "question": "釜田テジクッパはいつオープンしましたか？",
+            "answer": "1988年にオープンしました。"
+        },
+        {
+            "question": "このお店は何を専門としていますか？",
+            "answer": "このお店は豚肉クッパを専門としています。"
+        },
+        {
+            "question": "豚肉クッパを注文すると一緒に何が運ばれてきますか？",
+            "answer": "豚肉クッパを注文すると麺も一緒に運ばれてきます。"
+        }
+    ],
+    "word_Count": {
+        "text": 124,
+        "QA": 138
+    }
+}

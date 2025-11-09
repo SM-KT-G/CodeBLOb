@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001390",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-05",
+        "domain": "음식점",
+        "title": "9ounce Burger ( 나인온스버거 )"
+    },
+    "text": "9ounce Burger ( 나인온스버거 )\\n\nソウル特別市 冠岳区 クァンアクロ12ギル109\\n\n伝統的なアメリカ式手作ハンバーガーの店です。おすすめは手作ハンバーガーです。ソウル特別市のグァンアク区に位置した洋食専門店です。",
+    "QA": [
+        {
+            "question": "このレストランはどこにありますか？",
+            "answer": "ソウル特別市 冠岳区 クァンアクロ12ギル109にあります。"
+        },
+        {
+            "question": "このレストランはどんな料理を提供していますか？",
+            "answer": "このレストランでは伝統的なアメリカ式手作ハンバーガーを提供しています。"
+        },
+        {
+            "question": "おすすめのメニューは何ですか？",
+            "answer": "おすすめは手作ハンバーガーです。"
+        },
+        {
+            "question": "このレストランはどんな雰囲気ですか？",
+            "answer": "このレストランは洋食専門店で、アメリカ風の雰囲気を楽しめます。"
+        }
+    ],
+    "word_Count": {
+        "text": 86,
+        "QA": 135
+    }
+}

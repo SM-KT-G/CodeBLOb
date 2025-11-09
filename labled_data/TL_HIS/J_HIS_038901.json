@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_038901",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=47&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=02080000&ccbaCtcd=37&ccbaCpno=1123702080000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1963-01-21",
+        "domain": "문화/역사관광",
+        "title": "청도 운문사 동호"
+    },
+    "text": "淸道雲門寺銅壺 (청도 운문사 동호)\\n\n慶尚北道清道郡雲門面雲門寺キル264、雲門寺(新院里)\\n\n高麗文宗21年(1067)以前、宝物、この壺は全体が黒い色合いを帯びており、正確な用途は分からないが、甘露駿という名前が伝えられている点から見て、寺の仏教容器だったと推測される。 高さ55㎝、口径の直径19.5㎝、体長31㎝で蓋の角の部分は丸く表現し、上に6枚の蓮の葉と十字型になった花火の形をした華麗な取っ手が上に突出して付いている。 肩は広く、下にヒールが付いた壺で、本体の左右には取っ手の役割をする太い輪がついている。 高さ33.5cmの胴体の上に平たい蓋が覆われ、途中に特異な鈕が飾られている点が注目される。 特に蓋の取っ手の花火の形は統一新羅末期から高麗時代にかけて作られた、僧侶の舎利を祀る浮屠の頭飾りでよく見られるものと似ており、何らかの関連性が推測される。 胴体の肩の部分に製作時期と関連した文が上に刻まれているが、高麗文宗21年(1067)に修理したという記録から製作年代はこれより先の新羅末期や高麗初期と推定される。",
+    "QA": [
+        {
+            "question": "この銅壺は何のために使われていたのですか？",
+            "answer": "正確な用途は分かりませんが、寺の仏教容器だったと推測されています。"
+        },
+        {
+            "question": "この壺の名前は何ですか？",
+            "answer": "この壺は甘露駿という名前が伝えられています。"
+        },
+        {
+            "question": "この壺の製作年代はいつごろですか？",
+            "answer": "製作年代は新羅末期や高麗初期と推定されていますが、正確な年代は分かりません。"
+        },
+        {
+            "question": "この壺の特徴的な部分はありますか？",
+            "answer": "壺の特徴的な部分は、黒い色合いを帯びた全体的な外観や、上に突出した花火の形をした華麗な取っ手などです。"
+        },
+        {
+            "question": "この壺はどのように使用されていましたか？",
+            "answer": "具体的な使用法は分かりませんが、仏教容器として使用されていた可能性があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 344,
+        "QA": 198
+    }
+}

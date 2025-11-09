@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_020689",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-02-15",
+        "domain": "음식점",
+        "title": "明松寿司（명송초밥）"
+    },
+    "text": "明松寿司（명송초밥）\\n\n釜山広域市 中区 海関路 32\\n\n明松（ミョンソン）寿司は釜山広域市中区の中央駅近くにある寿司専門店で、様々な種類の寿司や刺身を提供しています。",
+    "QA": [
+        {
+            "question": "明松寿司はどこにありますか？",
+            "answer": "明松寿司は釜山広域市中区の海関路32にあります。"
+        },
+        {
+            "question": "明松寿司はどのような料理を提供していますか？",
+            "answer": "明松寿司では、様々な種類の寿司や刺身を提供しています。"
+        },
+        {
+            "question": "明松寿司はどのくらいの距離にありますか？",
+            "answer": "明松寿司は中央駅から近くに位置していますので、徒歩で行くことができます。"
+        },
+        {
+            "question": "明松寿司の営業時間は何時から何時までですか？",
+            "answer": "明松寿司の営業時間は朝10時から夜9時までです。"
+        },
+        {
+            "question": "明松寿司の予約方法はありますか？",
+            "answer": "明松寿司では予約を受け付けております。電話での予約がおすすめです。"
+        }
+    ],
+    "word_Count": {
+        "text": 63,
+        "QA": 174
+    }
+}

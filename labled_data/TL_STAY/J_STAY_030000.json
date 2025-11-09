@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_030000",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.goodchoice.kr/product/detail?ano=57492&adcno=1&sel_date=2023-11-07&sel_date2=2023-11-08",
+        "collectedDate": "2023-11-15",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "원주 N"
+    },
+    "text": "駐車場情報:客室駐車のみ可能で、計25台の駐車施設を保有しています。 周辺情報:原州市外バスターミナルは徒歩2分の距離に位置しており、メガボックスCGVとAKプラザも徒歩2分の距離にございます。 客室の内部施設: 特室にはスタイラーがあり、全室にはイクライナーチェアと65インチTVが提供されます。",
+    "QA": [
+        {
+            "question": "駐車場は何台分ありますか？",
+            "answer": "客室駐車のみ可能で、計25台の駐車施設を保有しています。"
+        },
+        {
+            "question": "周辺にどのような施設がありますか？",
+            "answer": "原州市外バスターミナルは徒歩2分の距離に位置しており、メガボックスCGVとAKプラザも徒歩2分の距離にございます。"
+        },
+        {
+            "question": "特室には何が提供されますか？",
+            "answer": "特室にはスタイラーがあり、全室にはイクライナーチェアと65インチTVが提供されます。"
+        }
+    ],
+    "word_Count": {
+        "text": 109,
+        "QA": 125
+    }
+}

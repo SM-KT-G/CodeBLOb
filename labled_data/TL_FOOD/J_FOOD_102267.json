@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_102267",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2023-03-21",
+        "domain": "음식점",
+        "title": "태조밥상"
+    },
+    "text": "全州韓屋村近くの清潔な韓国料理を楽しめる食堂だ。代表的なメニューは''太祖食膳''一つでメニューを考える必要がない。''太祖食膳''にあらゆる季節のおかずと、豚肉炒め、たこの甘辛炒めが出たら、多様に楽しむことができる。別室に別に分離されている空間もある。",
+    "QA": [
+        {
+            "question": "この食堂の場所はどこですか？",
+            "answer": "この食堂は全州韓屋村の近くにあります。"
+        },
+        {
+            "question": "この食堂のメニューは何ですか？",
+            "answer": "この食堂では、代表的なメニューである''太祖食膳''が楽しめます。"
+        },
+        {
+            "question": "''太祖食膳''にはどんなおかずが含まれていますか？",
+            "answer": "''太祖食膳''には季節のおかずと豚肉炒め、たこの甘辛炒めが含まれています。"
+        },
+        {
+            "question": "この食堂には別室がありますか？",
+            "answer": "はい、この食堂には別に分離された別室もあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 93,
+        "QA": 134
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_010500",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=786&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=00250000&ccbaCtcd=25&ccbaCpno=2332500250000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1991-07-10",
+        "domain": "자연관광",
+        "title": "비파산성"
+    },
+    "text": "琵琶山城 (비파산성)\\n\n大田東区梨沙洞山38-1番地一帯\\n\n百済 , 大田広域市記念物 , 琵琶山城は大田広域市東区蘇湖洞にある山城で、蘇湖洞山城と呼ばれることもある。 以前、蘇湖洞と大別洞を行き来する峠を「琵琶峙」と呼んだが、峠の名前を取って琵琶山城と呼ばれた。 自然石を利用して山頂をぐるりと囲んだ山城で、現在はほとんどが崩壊し、原型を見つけることができない。 城を築いた方法も分からず、ただ門の広さが2.2mになる南門跡だけが確認できる。 城内の平らなところでは百済のものと見られる平行線文を刻んだ土器彫刻と縞模様、格子文がある瓦彫刻が発見された。 琵琶山城は普門山城と直接つながっており、大田の東側にある陵城、三井洞山城とも向かい合っている。 この山城は大田から馬田、錦山方面に通じる道を塞ぐために積み上げたものと見られる。",
+    "QA": [
+        {
+            "question": "琵琶山城はどこにありますか？",
+            "answer": "琵琶山城は大田広域市東区蘇湖洞にあります。"
+        },
+        {
+            "question": "琵琶山城はどのような城ですか？",
+            "answer": "琵琶山城は自然石を利用して山頂を囲んだ山城で、現在はほとんどが崩壊していて原型を見つけることができません。"
+        },
+        {
+            "question": "琵琶山城の南門跡の広さは何メートルですか？",
+            "answer": "琵琶山城の南門跡の広さは2.2mです。"
+        },
+        {
+            "question": "琵琶山城内で発見された土器彫刻について教えてください。",
+            "answer": "琵琶山城内の平らなところでは、百済のものと見られる平行線文を刻んだ土器彫刻と縞模様、格子文が発見されました。"
+        },
+        {
+            "question": "琵琶山城は他の城とどのような関係にありますか？",
+            "answer": "琵琶山城は普門山城と直接つながっており、大田の東側にある陵城、三井洞山城とも向かい合っています。"
+        },
+        {
+            "question": "琵琶山城はなぜ築かれたのですか？",
+            "answer": "琵琶山城は大田から馬田、錦山方面に通じる道を塞ぐために築かれました。"
+        }
+    ],
+    "word_Count": {
+        "text": 270,
+        "QA": 253
+    }
+}

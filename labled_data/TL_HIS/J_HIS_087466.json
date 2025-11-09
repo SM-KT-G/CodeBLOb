@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_087466",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=2&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=11&ccbaAsno=00160000&ccbaCtcd=37&ccbaCpno=1113700160000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1962-12-20",
+        "domain": "문화/역사관광",
+        "title": "안동 법흥사지 칠층전탑"
+    },
+    "text": "安東 ポプンサジ・チルチュンジョンタプ\\n\n慶尚北道安東市法興洞8-1番地\\n\n統一新羅時代の8世紀、国宝、塼塔(塼塔)という土で作ったレンガを利用して積み上げた塔で統一新羅時代に創建されたボプフンサに属していた塔と推定される。塔は1段の基壇(基壇)の上に7階の塔身(塔身)を着実に積み上げた姿だ。気団の各面には、花崗岩で彫刻された8部重傷(八部衆像)と四天王像(四天王像)を立てておいたよ、基壇の南の面には階段を設置して1階石核に作られた龕室(龕室:仏像を祀祭っている部屋)を向くようにした。塔身は濃い灰色の文様のないレンガで築いており、ジブンドルは上下ともに階段状の段を成す一般的な塔様式とは異なり、上面に残っている跡からみて瓦をかぶせたものとみられる。気団の上面をセメントで塗っておき、惜しみを残しこの塔は7階もなる高い階数に高さ17m、基壇の幅7.75mの巨大な塔であることにも非常に安定した姿を維持しており、国内に残っている最も大きく、古い塔に属するという点で重要な意義を持つ。また、屋根に瓦をかぶせた跡があることから、木塔を模倣して塔が作られたことを立証する資料だと評価されている。",
+    "QA": [
+        {
+            "question": "この塔は何時代に建てられましたか？",
+            "answer": "この塔は統一新羅時代に建てられました。"
+        },
+        {
+            "question": "この塔はどのような素材で建てられていますか？",
+            "answer": "この塔は土で作ったレンガを利用して積み上げられています。"
+        },
+        {
+            "question": "この塔の高さは何メートルですか？",
+            "answer": "この塔の高さは17mです。"
+        },
+        {
+            "question": "この塔の基壇の幅は何メートルですか？",
+            "answer": "この塔の基壇の幅は7.75mです。"
+        },
+        {
+            "question": "この塔にはどのような彫刻がありますか？",
+            "answer": "この塔には花崗岩で彫刻された八部衆像と四天王像があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 364,
+        "QA": 145
+    }
+}

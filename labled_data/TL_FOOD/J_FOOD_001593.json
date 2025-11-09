@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001593",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/chicago-pizza-hongdae",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "CHICAGO PIZZA 弘大店"
+    },
+    "text": "CHICAGO PIZZA 弘大店\\n\nソウル特別市 麻浦区 西橋洞 395-78, 3～4F\\n\nシカゴピザ(CHICAGO PIZZA)はディープディスィ(Deep dish)ピザから由来しており、厚さが非常に厚いのが特徴です。 アメリカ人たちが好んで食べる米国式ピザの根です。 CHICAGOは、アメリカンスタイルを追求しながら開拓と可能性のイメージを描いています。 単に食事一食を提供するのではなく、飛行機に身を寄せてアメリカに行かなくてもまるでそこに旅行に来ちゃったのような感じを持つことができる文化空間です。",
+    "QA": [
+        {
+            "question": "チカゴピザはどのような特徴がありますか？",
+            "answer": "チカゴピザ(CHICAGO PIZZA)はディープディスィ(Deep dish)ピザから由来しており、厚さが非常に厚いのが特徴です。"
+        },
+        {
+            "question": "チカゴピザを好む人々はどのような人々ですか？",
+            "answer": "チカゴピザはアメリカ人たちが好んで食べる米国式ピザの根です。"
+        },
+        {
+            "question": "チカゴピザの店舗はどこにありますか？",
+            "answer": "チカゴピザの弘大店はソウル特別市 麻浦区 西橋洞 395-78, 3～4Fにあります。"
+        },
+        {
+            "question": "チカゴピザのコンセプトは何ですか？",
+            "answer": "チカゴピザはアメリカンスタイルを追求しながら開拓と可能性のイメージを描いています。"
+        },
+        {
+            "question": "チカゴピザの店舗はどのような雰囲気ですか？",
+            "answer": "チカゴピザは飛行機に身を寄せてアメリカに行かなくてもまるでそこに旅行に来たような感じを持つことができる文化空間です。"
+        }
+    ],
+    "word_Count": {
+        "text": 190,
+        "QA": 246
+    }
+}

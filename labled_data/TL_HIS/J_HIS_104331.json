@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_104331",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/view?relicId=143858",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2023-10-11",
+        "domain": "문화/역사관광",
+        "title": "짐승 뼈"
+    },
+    "text": "獣の骨 (짐승 뼈)\\n\n国籍と時代: 韓国の新石器時代に関連しています。 材質: この道具は骨、角、貝で作られており、特に雄骨を使用しています。 分類: 先史時代の生活や産業と関連する道具です。 大きさ: 現在の長さは5.4cm、2.6cmです。",
+    "QA": [
+        {
+            "question": "この道具は何で作られていますか？",
+            "answer": "この道具は骨、角、貝で作られており、特に雄骨を使用しています。"
+        },
+        {
+            "question": "この道具の大きさはどのくらいですか？",
+            "answer": "現在の長さは5.4cm、2.6cmです。"
+        },
+        {
+            "question": "この道具はどの国籍と時代に関連していますか？",
+            "answer": "この道具は韓国の新石器時代に関連しています。"
+        },
+        {
+            "question": "この道具は何に関連する道具ですか？",
+            "answer": "先史時代の生活や産業と関連する道具です。"
+        },
+        {
+            "question": "この道具はどのような材料で作られていますか？",
+            "answer": "この道具は骨、角、貝で作られており、特に雄骨を使用しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 90,
+        "QA": 160
+    }
+}

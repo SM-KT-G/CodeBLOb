@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_029065",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1018&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=00730000&ccbaCtcd=21&ccbaCpno=3412100730000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2014-01-22",
+        "domain": "자연관광",
+        "title": "광포도"
+    },
+    "text": "釜山広域市文化財資料である光は、咸鏡南道定平郡と咸州郡(ハムギョンナムド・ハムジュグン)の間に位置した潟湖で有名だ。この潟湖とは海岸の隆起と堆積作用によって形成されており、東海岸のラグーンの中で最も大きな規模を誇る。グヮンポカン、ダホチョン、ボンデチョンなど60あまりの河川がここで会って壮観をなしている。1980年1月には北朝鮮の天然記念物に指定された。この作品では狂暴一帯の姿を俯瞰市の方法で表現した。作品には鄭敾の画風が表現されており、鄭敾の絵でも知られているが、線描と点画などの表現は鄭敾の画風とは違う。この作品は、実景山水画の一例で、実際の風景を写実的に描いたのではなく、観念画風で表現された作品だ。このような特徴により、朝鮮後期に流行した実景山水画とは違う特別な作品で評価を受けることができる。",
+    "QA": [
+        {
+            "question": "光はどこに位置していますか？",
+            "answer": "光は、咸鏡南道定平郡と咸州郡の間に位置しています。"
+        },
+        {
+            "question": "光は何によって形成されていますか？",
+            "answer": "光は海岸の隆起と堆積作用によって形成されています。"
+        },
+        {
+            "question": "光は何として北朝鮮の天然記念物に指定されましたか？",
+            "answer": "光は1980年1月に北朝鮮の天然記念物に指定されました。"
+        },
+        {
+            "question": "光の周辺にはどのような河川が流れていますか？",
+            "answer": "光の周辺にはグヮンポカン、ダホチョン、ボンデチョンなど60あまりの河川が流れています。"
+        },
+        {
+            "question": "この作品はどのような画風で表現されていますか？",
+            "answer": "この作品は観念画風で表現されており、実景山水画とは異なる特別な作品として評価されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 258,
+        "QA": 195
+    }
+}

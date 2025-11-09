@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_013706",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-08-27",
+        "domain": "음식점",
+        "title": "ホンファ豚足ピンデトク ( 홍화족발빈대떡 )"
+    },
+    "text": "ホンファ豚足ピンデトク ( 홍화족발빈대떡 )\\n\nソウル特別市 鐘路区 チョンロ65\\n\n飲み会やお集まりにぴったりの店です。おすすめは豚足です。ソウル特別市のジョンノ区に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "この店の名前は何ですか？",
+            "answer": "ホンファ豚足ピンデトク（홍화족발빈대떡）です。"
+        },
+        {
+            "question": "この店はどこに位置していますか？",
+            "answer": "ソウル特別市 鐘路区 チョンロ65に位置しています。"
+        },
+        {
+            "question": "この店のおすすめ料理は何ですか？",
+            "answer": "豚足がおすすめです。"
+        },
+        {
+            "question": "この店はどんな場面にぴったりですか？",
+            "answer": "飲み会やお集まりにぴったりの店です。"
+        },
+        {
+            "question": "この店はどのような種類の料理を提供していますか？",
+            "answer": "韓食専門店です。"
+        }
+    ],
+    "word_Count": {
+        "text": 72,
+        "QA": 125
+    }
+}

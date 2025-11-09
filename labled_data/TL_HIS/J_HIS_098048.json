@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_098048",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=490&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=01520000&ccbaCtcd=21&ccbaCpno=2112101520000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2015-01-28",
+        "domain": "문화/역사관광",
+        "title": "자비암 선림보훈"
+    },
+    "text": "釜山広域市有形文化財であるソンリムボフンは学徳が高い僧侶たちの良い言葉や行動を集めて編纂されたものだ。宋の僧侶大慧鐘鼓とのジュクアム社規は叢林の道徳が衰退するのを懸念して暮らし、直接編集したものだ。韓国では高麗時代からソンリムボフンが刊行されてきたが、知られた文章は4種だけで伝えられた本も少なくてたいへん貴重なブルソロされる。現在まで知られた刊行年度が一番早いのは1378年に忠州青龍船社で改版されたもので、宝物第700号に指定されている。ジャビアム所長ソンリムボフンは中宗20年に順天モフサンデグヮンサで開墾した木版本であり、特異な語尾で書誌学的にも価値がある。この文章は手垢のついてみた後に刊行されたものと判断され、現在保存されている部分は良好だ。壬辰倭乱より以前に刊行されたのであり、国立中央図書館にも同様の板本が所蔵されている。",
+    "QA": [
+        {
+            "question": "ソンリムボフンは何のために編纂されたのですか？",
+            "answer": "ソンリムボフンは、学徳が高い僧侶たちの良い言葉や行動を集めて編纂されたものです。"
+        },
+        {
+            "question": "ソンリムボフンはいつ順天モフサンデグヮンサで開墾されましたか？",
+            "answer": "ソンリムボフンは中宗20年に順天モフサンデグヮンサで開墾されました。"
+        },
+        {
+            "question": "ソンリムボフンはどのような語尾で書かれていますか？",
+            "answer": "ソンリムボフンは特異な語尾で書かれており、書誌学的にも価値があるとされています。"
+        },
+        {
+            "question": "ソンリムボフンは何年に改版されたものですか？",
+            "answer": "ソンリムボフンは1378年に忠州青龍船社で改版されたもので、宝物第700号に指定されています。"
+        },
+        {
+            "question": "ソンリムボフンはどのような文章と判断されたのですか？",
+            "answer": "ソンリムボフンは手垢のついてみた後に刊行されたものと判断され、現在保存されている部分は良好だとされています。"
+        },
+        {
+            "question": "国立中央図書館には何が所蔵されていますか？",
+            "answer": "国立中央図書館には壬辰倭乱より以前に刊行された同様の板本が所蔵されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 270,
+        "QA": 294
+    }
+}

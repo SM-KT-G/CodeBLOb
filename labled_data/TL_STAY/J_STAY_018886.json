@@ -1,0 +1,31 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_018886",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-01",
+        "domain": "숙박",
+        "title": "古宮ホテル（고궁호텔）"
+    },
+    "text": "古宮ホテル（고궁호텔）\\n\nソウル特別市 鐘路区 栗谷路 164 （苑南洞）\\n\nソウル特別市鐘路区苑南洞に位置する古宮ホテルの周辺には宗廟、昌慶宮、昌徳宮などがあります。",
+    "QA": [
+        {
+            "question": "古宮ホテルはどこにありますか？",
+            "answer": "古宮ホテルはソウル特別市 鐘路区 栗谷路 164 （苑南洞）に位置しています。"
+        },
+        {
+            "question": "古宮ホテルの周辺にはどんな観光名所がありますか？",
+            "answer": "古宮ホテルの周辺には宗廟、昌慶宮、昌徳宮などがあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 63,
+        "QA": 77
+    }
+}

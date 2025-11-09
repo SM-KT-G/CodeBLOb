@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_025351",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "恩&正明洞タッカルビ ( 은앤정명동닭갈비 )"
+    },
+    "text": "恩&正明洞タッカルビ ( 은앤정명동닭갈비 )\\n\nソウル特別市 中区 明洞7キル 19\\n\n鉄板で炒めて食べる、韓国人に大人気のタッカルビが味わえるお店です。 ソウル特別市の中区に位置した韓食専門店です。代表的なメニューはチーズタッカルビです。",
+    "QA": [
+        {
+            "question": "このお店はどこにありますか？",
+            "answer": "ソウル特別市 中区 明洞7キル 19にあります。"
+        },
+        {
+            "question": "このお店の特徴的な料理は何ですか？",
+            "answer": "このお店の代表的な料理はチーズタッカルビです。"
+        },
+        {
+            "question": "どのように料理が提供されますか？",
+            "answer": "料理は鉄板で炒めて提供されます。"
+        },
+        {
+            "question": "このお店はどのような雰囲気ですか？",
+            "answer": "このお店は韓食専門店で、韓国人に大人気のタッカルビが味わえるお店です。"
+        }
+    ],
+    "word_Count": {
+        "text": 90,
+        "QA": 118
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_016220",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/goods/GN0002020923?startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0%5E&npprmaxsort=min",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "서귀포 표선해비치펜션"
+    },
+    "text": "''ヘビチ''は周辺の表善海水浴場と済州の青い海が眺められる快適なペンションです。 ペンションは日の当たる一番最初に日の当たる場所という意味で、その名の通り美しい海辺の眺めを楽しむことができます。 最近は入室時間に関するお知らせがあり、21時以降に入室される場合は予めペンションまでご連絡ください。",
+    "QA": [
+        {
+            "question": "ヘビチはどんな場所ですか？",
+            "answer": "ヘビチは周辺の表善海水浴場と済州の青い海が眺められる快適なペンションです。"
+        },
+        {
+            "question": "ヘビチという名前の由来は何ですか？",
+            "answer": "ヘビチは日の当たる一番最初に日の当たる場所という意味で、その名の通り美しい海辺の眺めを楽しむことができます。"
+        },
+        {
+            "question": "入室時間に関するお知らせはありますか？",
+            "answer": "最近は入室時間に関するお知らせがあり、21時以降に入室される場合は予めペンションまでご連絡ください。"
+        }
+    ],
+    "word_Count": {
+        "text": 109,
+        "QA": 139
+    }
+}

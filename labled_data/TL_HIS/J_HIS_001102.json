@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_001102",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2022-08-08",
+        "domain": "문화/역사관광",
+        "title": "TINC"
+    },
+    "text": "TINC (TINC)\\n\nソウル特別市城北区東小門路10ギル34-16明星教会\\n\nTHISISNOTACHURCH（略称TINC）は、旧明星教会の場所に位置する多目的空間です。ここはかつて教会の礼拝堂として使われていたため、その特徴が残っており、展示会や公演、撮影、ワークショップなど、さまざまなイベントに利用されています。",
+    "QA": [
+        {
+            "question": "この場所はどこにありますか？",
+            "answer": "THISISNOTACHURCH（TINC）はソウル特別市城北区東小門路10ギル34-16明星教会に位置しています。"
+        },
+        {
+            "question": "この場所は何に利用されていますか？",
+            "answer": "この場所は展示会や公演、撮影、ワークショップなど、さまざまなイベントに利用されています。"
+        },
+        {
+            "question": "この場所の特徴は何ですか？",
+            "answer": "かつて教会の礼拝堂として使われていたため、その特徴が残っています。"
+        }
+    ],
+    "word_Count": {
+        "text": 120,
+        "QA": 131
+    }
+}

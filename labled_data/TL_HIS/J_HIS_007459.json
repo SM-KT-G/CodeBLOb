@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_007459",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1032&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=00930000&ccbaCtcd=37&ccbaCpno=3413700930000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1985-08-05",
+        "domain": "문화/역사관광",
+        "title": "경주오야리삼층석탑"
+    },
+    "text": "慶州大也里三層石塔 (경주오야리삼층석탑)\\n\n慶尚北道慶州市泉北面大也里山31番地\\n\n慶尚北道文化財資料 , この塔は慶州から浦項に向かう鏡浦産業道路の東側の山腹にあり、寺の名前は明らかにされていない。 レンガ塔を模した3層の石塔で、高さは約2.5mだ。 巨大な自然岩盤を基壇として上面の平らなところに2つの石で台を置き、石を載せた。 1階の石には角柱が刻まれているが、南面には高さ37cm、幅31cm程度の小さな仏像を安置する部屋である紺室を作った。 カムシルの下支え石の上面とイマッ石の底面にそれぞれ穴があることから、本来は石でできた門があったようだ。 4つの石を組み合わせた1階建ての屋根石は、底面に1段、上面に5段となっている。 やはり4つの石を合わせた2階建ての石には角柱を彫刻し、破損が激しい2階と3階建ての石は1つの石で1階建ての石と似た形をしている。 3階建ての石と上部はなくなり、3階建ての屋根石の上面に直径20cm、深さ10cm程度の擦柱孔がある。 この塔は構成様式から見て統一新羅時代に作られたものと推定される。",
+    "QA": [
+        {
+            "question": "慶州大也里三層石塔はどこにありますか？",
+            "answer": "慶州から浦項に向かう鏡浦産業道路の東側の山腹にあります。"
+        },
+        {
+            "question": "慶州大也里三層石塔の高さはどれくらいですか？",
+            "answer": "慶州大也里三層石塔の高さは約2.5メートルです。"
+        },
+        {
+            "question": "慶州大也里三層石塔は何時代に作られたものですか？",
+            "answer": "慶州大也里三層石塔は統一新羅時代に作られたものと推定されています。"
+        },
+        {
+            "question": "慶州大也里三層石塔には何階建ての石塔がありますか？",
+            "answer": "慶州大也里三層石塔には1階建て、2階建て、そして3階建ての石塔があります。"
+        },
+        {
+            "question": "慶州大也里三層石塔の石塔の中には何が安置されていますか？",
+            "answer": "慶州大也里三層石塔の1階の石塔には、高さ37cm、幅31cm程度の小さな仏像を安置する部屋である紺室があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 343,
+        "QA": 217
+    }
+}

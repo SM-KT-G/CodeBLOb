@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_004110",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-30",
+        "domain": "음식점",
+        "title": "かつや（가쯔야）"
+    },
+    "text": "かつや（가쯔야）\\n\nソウル特別市 中区 茶洞キル 46\\n\nソウル特別市ウルチロイック駅の近くに位置した和食専門店です。代表的なメニューは豚カツです。和風トンカツ店です。",
+    "QA": [
+        {
+            "question": "かつやはどこに位置していますか？",
+            "answer": "かつやはソウル特別市中区茶洞キル46に位置しています。"
+        },
+        {
+            "question": "かつやの代表的なメニューは何ですか？",
+            "answer": "かつやの代表的なメニューは豚カツです。"
+        },
+        {
+            "question": "かつやはどのようなレストランですか？",
+            "answer": "かつやは和風トンカツ店で、ソウル特別市ウルチロイック駅の近くに位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 63,
+        "QA": 100
+    }
+}

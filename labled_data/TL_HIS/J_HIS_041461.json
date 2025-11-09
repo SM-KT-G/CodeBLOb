@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_041461",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/collectionList#######",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "RICHARD STRAUSS, ERNST VON SCHUCH 그리고 드레스덴의 오페라"
+    },
+    "text": "RICHARD STRAUSS、ERNST VON SCHUCH そしてドレスデンのオペラ (RICHARD STRAUSS, ERNST VON SCHUCH 그리고 드레스덴의 오페라)\\n\nシュトラウスに関する冊子がありますが、製本が破損しています。この本は安益泰氏が所蔵しているもので、国籍や時代はヨーロッパのドイツです。材質は洋紙で、作家はFredrich von Schuch氏です。分類は文化芸術の中の音楽の書籍で、楽譜です。サイズは横15cm、縦21cm、高さ13cmです。",
+    "QA": [
+        {
+            "question": "この本は誰の所蔵ですか？",
+            "answer": "この本は安益泰氏が所蔵しています。"
+        },
+        {
+            "question": "この本はどの国のものですか？",
+            "answer": "この本はヨーロッパのドイツのものです。"
+        },
+        {
+            "question": "この本の材質は何ですか？",
+            "answer": "この本の材質は洋紙です。"
+        },
+        {
+            "question": "この本の作家は誰ですか？",
+            "answer": "この本の作家はFredrich von Schuch氏です。"
+        },
+        {
+            "question": "この本の分類は何ですか？",
+            "answer": "この本の分類は文化芸術の中の音楽の書籍です。"
+        },
+        {
+            "question": "この本のサイズは何ですか？",
+            "answer": "この本のサイズは横15cm、縦21cm、高さ13cmです。"
+        }
+    ],
+    "word_Count": {
+        "text": 179,
+        "QA": 149
+    }
+}

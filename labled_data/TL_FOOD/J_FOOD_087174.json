@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_087174",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2023-05-18",
+        "domain": "음식점",
+        "title": "아저씨냉면"
+    },
+    "text": "おじさん冷麺 (아저씨냉면)\\n\n仁川広域市東区花島津路91番キル27\\n\n1978年頃に開業した家です。内部には古い歳月の痕跡が残っています。年長者が多く訪れるなど、昔からの常連客が多いです。",
+    "QA": [
+        {
+            "question": "このおじさん冷麺はいつ開業しましたか？",
+            "answer": "おじさん冷麺は1978年頃に開業しました。"
+        },
+        {
+            "question": "おじさん冷麺にはどのような年長者が訪れますか？",
+            "answer": "おじさん冷麺には昔からの常連客である年長者が多く訪れます。"
+        },
+        {
+            "question": "おじさん冷麺の内部にはどのような痕跡が残っていますか？",
+            "answer": "おじさん冷麺の内部には古い歳月の痕跡が残っています。"
+        },
+        {
+            "question": "おじさん冷麺の場所はどこですか？",
+            "answer": "おじさん冷麺は仁川広域市東区花島津路91番キル27にあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 71,
+        "QA": 140
+    }
+}

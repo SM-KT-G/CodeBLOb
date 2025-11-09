@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_037862",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=824&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=00680000&ccbaCtcd=36&ccbaCpno=2333600680000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1985-02-15",
+        "domain": "문화/역사관광",
+        "title": "용호정원림"
+    },
+    "text": "龍湖亭円林 (용호정원림)\\n\n全羅南道長興郡釜山面龍盤里545番地\\n\n全羅南道記念物、龍湖亭は雨が降って川の水が溢れると対岸の父親の墓に墓参りができず、眺めるだけで冥福を祈った父親のチェ·ヨンテクのためにチェ·ギュムンが朝鮮純祖28年(1828)に建てた亭子で、チェ·ギュムンの父親には「父親を眺める亭子」、チェ·ギュムンには「父親を慰める亭子」と言った。 亭子はケヤキ木材で作った8つの円形柱を建て、栗とケヤキ木材だけを使って建てた木造瓦屋だ。 特に四方に置かれている床は釘を使わない特殊工法で組み立てられた。 現在の亭子は1947年に建て直したもので、元より2間広くなったものだという。 削ったような崖の上に建てられた龍湖亭は、森と水と調和して美しい調和を成している。",
+    "QA": [
+        {
+            "question": "龍湖亭はどこにありますか？",
+            "answer": "龍湖亭は全羅南道長興郡釜山面龍盤里545番地にあります。"
+        },
+        {
+            "question": "龍湖亭はいつ建てられましたか？",
+            "answer": "龍湖亭は朝鮮純祖28年(1828)に建てられました。"
+        },
+        {
+            "question": "龍湖亭はどのような特徴がありますか？",
+            "answer": "龍湖亭はケヤキ木材で作られ、8つの円形柱があります。また、釘を使わずに組み立てられた床が特殊工法で作られています。"
+        },
+        {
+            "question": "現在の龍湖亭はいつ建て直されましたか？",
+            "answer": "現在の龍湖亭は1947年に建て直されました。また、元より2間広くなりました。"
+        },
+        {
+            "question": "龍湖亭はどのような景色を眺めることができますか？",
+            "answer": "龍湖亭は崖の上に建てられており、森と水と調和した美しい景色を眺めることができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 247,
+        "QA": 204
+    }
+}

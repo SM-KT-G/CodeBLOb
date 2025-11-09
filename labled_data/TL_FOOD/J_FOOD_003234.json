@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_003234",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-20",
+        "domain": "음식점",
+        "title": "ウリ食堂 ( 우리식당 )"
+    },
+    "text": "ウリ食堂\\n\n江原道 ガンヌン市 ヨンジガクギル27\\n\n様々な韓国料理が味わえる店です。代表的なメニューはキムチチゲです。江原道のガンヌン市に位置した韓国料理店です。",
+    "QA": [
+        {
+            "question": "ウリ食堂はどこに位置していますか？",
+            "answer": "ウリ食堂は江原道のガンヌン市に位置しています。"
+        },
+        {
+            "question": "ウリ食堂ではどんな料理が提供されていますか？",
+            "answer": "ウリ食堂では様々な韓国料理が提供されています。代表的なメニューはキムチチゲです。"
+        },
+        {
+            "question": "ウリ食堂の名物料理は何ですか？",
+            "answer": "ウリ食堂の名物料理はキムチチゲです。"
+        }
+    ],
+    "word_Count": {
+        "text": 61,
+        "QA": 99
+    }
+}

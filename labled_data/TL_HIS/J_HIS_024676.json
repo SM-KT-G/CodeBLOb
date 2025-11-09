@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_024676",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=784&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=00231700&ccbaCtcd=50&ccbaCpno=2333900231700&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1996-07-18",
+        "domain": "문화/역사관광",
+        "title": "애월연대"
+    },
+    "text": "涯月連隊 (애월연대)\\n\n済州市涯月邑涯月里1975番地\\n\n済州特別自治道記念物 , 連帯は松明と煙を利用して政治·軍事的に急な便りを伝えた通信手段をいう。 烽燧台とは機能面で差がないが、連隊は主に丘陵地や海辺地域に設置され、烽燧台は山頂に設置し、昼間は煙で夜は松明を起こして信号を送った。 涯月連帯は涯月里「ヨンディワット」と呼ばれるところに位置し、涯月城から西500m地点だ。 海辺から450m程度離れた小山の上に建てられているが、済州道にある色々な年代の中で比較的大きい方に属する。 東に南斗連隊、西に鬼徳連隊とお互いに連絡を取り交わした。 別荘6人と鳳軍12人が配置され、6交代で24時間海岸線を守ったという。",
+    "QA": [
+        {
+            "question": "涯月連隊はどこに位置していましたか？",
+            "answer": "涯月連隊は済州市涯月邑涯月里1975番地に位置していました。"
+        },
+        {
+            "question": "連隊と烽燧台の違いは何ですか？",
+            "answer": "連隊と烽燧台は機能面で差がないですが、連隊は主に丘陵地や海辺地域に設置され、烽燧台は山頂に設置されます。"
+        },
+        {
+            "question": "涯月連隊はどのような通信手段を利用していましたか？",
+            "answer": "涯月連隊は松明と煙を利用して政治・軍事的に急な便りを伝えました。昼間は煙で夜は松明を起こして信号を送りました。"
+        },
+        {
+            "question": "涯月連隊はどのような役割を果たしましたか？",
+            "answer": "涯月連隊は海辺から450m程度離れた小山の上に建てられ、海岸線を守る役割を果たしました。"
+        },
+        {
+            "question": "涯月連隊と他の連隊との連絡はどのように行われましたか？",
+            "answer": "涯月連隊は東に南斗連隊、西に鬼徳連隊とお互いに連絡を取り交わしました。"
+        }
+    ],
+    "word_Count": {
+        "text": 228,
+        "QA": 236
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_LEI_000014",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101933",
+        "collectedDate": "2023-09-21",
+        "publishedDate": "2023-01-16",
+        "domain": "레포츠",
+        "title": "(가)꽃향기"
+    },
+    "text": "（A）花の香り ((가)꽃향기)\\n\n忠清南道扶余郡銀山面忠節路2883番キル13\\n\n''민간''에서 ''직영''방법으로 운영하고 있습니다. ''일반야영장''를 이용할 수 있습니다. ''직영''방식으로 운영하고 있습니다.",
+    "QA": [
+        {
+            "question": "花の香りはどのように楽しめますか？",
+            "answer": "花の香りは、銀山面忠節路のキル13にある花の香りで楽しむことができます。"
+        },
+        {
+            "question": "忠清南道扶余郡にある花の香りの施設はどのように運営されていますか？",
+            "answer": "花の香りの施設は「민간」에서「직영」방법으로 운영되고 있습니다。"
+        },
+        {
+            "question": "花の香りで利用できる施設はありますか？",
+            "answer": "はい、花の香りでは「일반야영장」を利用することができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 87,
+        "QA": 122
+    }
+}

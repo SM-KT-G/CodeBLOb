@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_035475",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=987&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=00340000&ccbaCtcd=37&ccbaCpno=3413700340000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1985-08-05",
+        "domain": "자연관광",
+        "title": "석문정"
+    },
+    "text": "石門亭\\n\n慶尚北道安東市豊山邑幕谷里287番地\\n\n慶尚北道文化財資料、朝鮮宣祖28年(1588)に建てられたキム・ソンイル(1538∼1593)の東屋である。キム・ソンイルはここチョンソンサンの中腹にあずまやをして七百里、洛東江(ナクトンガン)きれいな水と自然の景観を友として性理学研究と弟子の養成に努力した。大儒学者である李滉の性理学を継承しており、先祖1年(1568)に科挙に及第し、慶尚道観察使を務めた。規模は表4間・側面2間であり、屋根は横から見る時八(八部)字形の入母屋屋根である。",
+    "QA": [
+        {
+            "question": "この東屋はいつ建てられましたか？",
+            "answer": "キム・ソンイルの東屋は、朝鮮宣祖28年(1588)に建てられました。"
+        },
+        {
+            "question": "キム・ソンイルはどのような学者でしたか？",
+            "answer": "キム・ソンイルは大儒学者であり、李滉の性理学を継承し、性理学研究と弟子の養成に努力しました。"
+        },
+        {
+            "question": "この東屋の規模はどのくらいですか？",
+            "answer": "この東屋の規模は表4間・側面2間であり、屋根は八(八部)字形の入母屋屋根です。"
+        },
+        {
+            "question": "キム・ソンイルの東屋がある場所はどこですか？",
+            "answer": "キム・ソンイルの東屋は、慶尚北道安東市豊山邑幕谷里287番地にあります。"
+        },
+        {
+            "question": "キム・ソンイルはどのような活動を行いましたか？",
+            "answer": "キム・ソンイルは、チョンソンサンの中腹にあずまやをして七百里、洛東江(ナクトンガン)きれいな水と自然の景観を友として、性理学研究と弟子の養成に努力しました。"
+        }
+    ],
+    "word_Count": {
+        "text": 181,
+        "QA": 242
+    }
+}

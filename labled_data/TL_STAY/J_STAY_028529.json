@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_028529",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/goods/GN0002140866?startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0%5E&npprmaxsort=min",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "영덕 채움늘풀빌라"
+    },
+    "text": "特別な休息を望むあなたに美しい思い出をプレゼントします。 海のすぐ前に位置した、いつもプールビラでときめきいっぱいの旅行になることを願います。 客室でプライベートに楽しむプールとスパ、おいしいバーベキューまで。 青い海の上で休息を楽しむ気分、そして満タンプールビラで最高級の休息をお楽しみいただけます。 お知らせ:22時以降に入室される場合、ペンションまで予めご連絡ください。",
+    "QA": [
+        {
+            "question": "このリゾートヴィラはどこに位置していますか？",
+            "answer": "このリゾートヴィラは海のすぐ前に位置しています。"
+        },
+        {
+            "question": "客室にはどのような設備がありますか？",
+            "answer": "客室にはプライベートプールとスパがあります。"
+        },
+        {
+            "question": "バーベキューを楽しむことができますか？",
+            "answer": "はい、おいしいバーベキューも楽しむことができます。"
+        },
+        {
+            "question": "入室時間に制限はありますか？",
+            "answer": "22時以降に入室される場合は、事前にペンションに連絡してください。"
+        }
+    ],
+    "word_Count": {
+        "text": 137,
+        "QA": 129
+    }
+}

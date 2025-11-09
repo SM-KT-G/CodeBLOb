@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_057265",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=916&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=24&ccbaAsno=00090000&ccbaCtcd=36&ccbaCpno=2443600090000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1986-02-07",
+        "domain": "문화/역사관광",
+        "title": "나주홍기창가옥"
+    },
+    "text": "全羅南道・民俗文化財、豊山洪家集成村はトレ村に位置しています。ここには住居というな建物があるが、もともと母屋、サランチェ、門屋を備えた家だったが、現在は母屋だけが残っています。建物にいる記録によると、この家は1918年に建てられたと推定されます。母屋は6間の大きさの一字型の家で構成されており、台所の部屋と台所、奥の間、板の間板の間に分かれています。板の間には小さな部屋が一つあって、後ろにはハムシルかまどがあります。この建物は規模が大きく構造が堅実、当時の住宅を研究する上で重要な資料となります。",
+    "QA": [
+        {
+            "question": "この民俗文化財、豊山洪家集成村はどこに位置していますか？",
+            "answer": "豊山洪家集成村はトレ村に位置しています。"
+        },
+        {
+            "question": "この建物はいつ建てられましたか？",
+            "answer": "この建物は1918年に建てられたと推定されます。"
+        },
+        {
+            "question": "母屋以外の建物は何があったのですか？",
+            "answer": "もともと母屋、サランチェ、門屋を備えた家だったが、現在は母屋だけが残っています。"
+        },
+        {
+            "question": "この家の構造はどのようになっていますか？",
+            "answer": "この家は6間の大きさの一字型の家で構成されており、台所の部屋と台所、奥の間、板の間に分かれています。"
+        },
+        {
+            "question": "板の間には何がありますか？",
+            "answer": "板の間には小さな部屋が一つあって、後ろにはハムシルかまどがあります。"
+        },
+        {
+            "question": "この建物はどのような特徴を持っていますか？",
+            "answer": "この建物は規模が大きく構造が堅実であり、当時の住宅を研究する上で重要な資料となります。"
+        }
+    ],
+    "word_Count": {
+        "text": 182,
+        "QA": 239
+    }
+}

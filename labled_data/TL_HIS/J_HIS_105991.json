@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_105991",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=56&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=03170000&ccbaCtcd=37&ccbaCpno=1123703170000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1963-01-21",
+        "domain": "문화/역사관광",
+        "title": "청도 운문사 석조여래좌상"
+    },
+    "text": "高麗時代の宝物として知られたウンムンサには高さ0.63mの石造ヨレジュワ賞がある。この仏像は光背と台座を備えた完全な形であるが、胡粉が厚く塗られて細部の表現が弱い。頭には小さな空模様の髪と常套の形の肉髻(にくけい)が付けられている。比例に比べて顔が大きくて眉毛、目、鼻、口が評判的に調和を成していない。服は双肩にわたって着てその中に斜めに表現された肌着が見える。手は右手が膝の上に載せて指先が下に向かって、左手は腹部分に置かれている。光背は粗悪なようであり、火花模様が形式的に刻まれている。台座は非常に特異な様式に分割され、上部は平面楕円形で蓮の葉が刻まれており、中央は6角形、下の部分は長い6角形に蓮の葉が表現されている。この仏像は10世紀初めに9世紀の仏像を継承したものとみられる。",
+    "QA": [
+        {
+            "question": "このウンムンサのヨレジュワ賞はどんな時代に作られたものですか？",
+            "answer": "仏像は10世紀初めに9世紀の仏像を継承したものとみられます。"
+        },
+        {
+            "question": "ヨレジュワ賞の仏像の特徴は何ですか？",
+            "answer": "ヨレジュワ賞の仏像は光背と台座を備えた完全な形をしておりますが、胡粉が厚く塗られて細部の表現が弱いです。頭には小さな空模様の髪と常套の形の肉髻が付けられています。服は双肩にわたって着てその中に斜めに表現された肌着が見えます。"
+        },
+        {
+            "question": "ヨレジュワ賞の台座の形はどうなっていますか？",
+            "answer": "台座は非常に特異な様式に分割され、上部は平面楕円形で蓮の葉が刻まれており、中央は6角形、下の部分は長い6角形に蓮の葉が表現されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 251,
+        "QA": 206
+    }
+}

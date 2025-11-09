@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_002985",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2023-08-30",
+        "domain": "숙박",
+        "title": "온연 프라이빗 빌라[한국관광 품질인증/Korea Quality]"
+    },
+    "text": "オンヨン・プライベート・ヴィラ[韓国観光品質認証/Korea Quality] (온연 프라이빗 빌라[한국관광 품질인증/Korea Quality])\\n\n忠清南道礼山郡温泉団地1路69-5\\n\nオンヨン・プライベート・ヴィラは忠清南道禮山郡徳山温泉団地にある温泉ステイだ。一軒家で運営され、屋外テラスに露天風呂があり、何の邪魔もなく静かに日常の疲れを癒すのに適している。",
+    "QA": [
+        {
+            "question": "オンヨン・プライベート・ヴィラはどこにありますか？",
+            "answer": "オンヨン・プライベート・ヴィラは忠清南道礼山郡温泉団地1路69-5にあります。"
+        },
+        {
+            "question": "オンヨン・プライベート・ヴィラは何を提供していますか？",
+            "answer": "オンヨン・プライベート・ヴィラは一軒家で運営され、屋外テラスに露天風呂があります。"
+        },
+        {
+            "question": "オンヨン・プライベート・ヴィラはどのような場所ですか？",
+            "answer": "オンヨン・プライベート・ヴィラは静かに日常の疲れを癒すのに適した温泉ステイです。"
+        }
+    ],
+    "word_Count": {
+        "text": 137,
+        "QA": 145
+    }
+}

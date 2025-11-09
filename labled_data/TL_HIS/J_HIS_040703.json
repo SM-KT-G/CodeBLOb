@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_040703",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/view?relicId=88982",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "\"고\"를 새긴 암키와 조각"
+    },
+    "text": "「高」を刻んだ雌木と片 ( \"고\"를 새긴 암키와 조각)\\n\n瓦などには、さまざまな方向に打たれた平行斜線の中で、「高」の字が連続して刻まれています。この瓦は、韓国の統一新羅時代に使われたもので、材質は土で作られた瓦です。その用途は、主に屋根材として使用されており、平瓦に分類されます。現在のこの瓦のサイズは、幅が137cm、長さが274cmです。",
+    "QA": [
+        {
+            "question": "この瓦はどの時代に使われていましたか？",
+            "answer": "統一新羅時代に使われました。"
+        },
+        {
+            "question": "この瓦はどのような材質で作られていますか？",
+            "answer": "土で作られた瓦です。"
+        },
+        {
+            "question": "この瓦はどのような用途で使用されていましたか？",
+            "answer": "主に屋根材として使用されていました。"
+        },
+        {
+            "question": "この瓦のサイズはどれくらいですか？",
+            "answer": "幅が137cm、長さが274cmです。"
+        },
+        {
+            "question": "この瓦に刻まれた字は何ですか？",
+            "answer": "「高」の字が連続して刻まれています。"
+        }
+    ],
+    "word_Count": {
+        "text": 128,
+        "QA": 127
+    }
+}

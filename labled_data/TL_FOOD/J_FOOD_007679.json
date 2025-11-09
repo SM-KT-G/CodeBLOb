@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_007679",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-08-31",
+        "domain": "음식점",
+        "title": "ジャルパジンメミル 西村（잘빠진메밀 서촌）"
+    },
+    "text": "ジャルパジンメミル 西村（잘빠진메밀 서촌）\\n\nソウル特別市 鐘路区 紫霞門路 41-1\\n\nこの店はソウル特別市のジョンノ区に位置した韓国料理店です。料理長が直接100％の蕎麦で打った麺を使用したお店です。代表的なメニューは餃子の寄せ鍋です。",
+    "QA": [
+        {
+            "question": "この店はどの区に位置していますか？",
+            "answer": "ジャルパジンメミルはソウル特別市の鐘路区に位置しています。"
+        },
+        {
+            "question": "この店の特徴的な料理は何ですか？",
+            "answer": "この店の代表的なメニューは餃子の寄せ鍋です。料理長が直接100％の蕎麦で打った麺を使用しています。"
+        },
+        {
+            "question": "この店の住所は何ですか？",
+            "answer": "ジャルパジンメミルの住所はソウル特別市鐘路区紫霞門路41-1です。"
+        }
+    ],
+    "word_Count": {
+        "text": 90,
+        "QA": 114
+    }
+}

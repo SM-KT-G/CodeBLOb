@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_021596",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42060&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "서산 도담별펜션"
+    },
+    "text": "目立つように美しい星、ドダム星にお越しください！ 日常に疲れて休息を望む方にもトダムビョルがやってきました。 トダムビョルからは花や木々の香りと古風な湖畔から吹いてくる涼しい風が感じられます。 あなたが疲れた日常から抜け出して休める場所です。 しかし、お知らせしたいことがあります。 もし22時以降に入室するには、あらかじめペンションにご連絡ください。 そうでなければ入室ができない場合があります。 この部分を必ず注意してください。",
+    "QA": [
+        {
+            "question": "ドダム星はどんな星ですか？",
+            "answer": "ドダム星は美しい星で、花や木々の香りと古風な湖畔の風が感じられます。疲れた日常から抜け出して休める場所です。"
+        },
+        {
+            "question": "トダムビョルとは何ですか？",
+            "answer": "トダムビョルはドダム星にやってきた休息を求める人々のための場所です。"
+        },
+        {
+            "question": "22時以降に入室するにはどうすればいいですか？",
+            "answer": "22時以降に入室する場合は、事前にペンションに連絡する必要があります。連絡がない場合、入室できないことがありますので、注意してください。"
+        }
+    ],
+    "word_Count": {
+        "text": 158,
+        "QA": 150
+    }
+}

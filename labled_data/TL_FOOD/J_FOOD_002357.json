@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_002357",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2023-07-02",
+        "domain": "음식점",
+        "title": "앳모먼츠커피(ATMOMENTS COFFEE)"
+    },
+    "text": "アットモーメントコーヒー(ATMOMENTS COFFEE) (앳모먼츠커피(ATMOMENTS COFFEE))\\n\n江原特別自治道 平昌郡蓬坪面太基路73\\n\nアットモーメントカフェは2020年4月にオープンしました。カフェはアットモーメントの雪原が一望できる場所に位置しています。カフェからの眺めは四季を楽しむのに十分な美しい景色が広がっており、高麗人参ラテなどのメニューには豊富な材料が使われています。",
+    "QA": [
+        {
+            "question": "アットモーメントコーヒーはいつオープンしましたか？",
+            "answer": "アットモーメントコーヒーは2020年4月にオープンしました。"
+        },
+        {
+            "question": "アットモーメントカフェはどのような場所に位置していますか？",
+            "answer": "アットモーメントカフェはアットモーメントの雪原が一望できる場所に位置しています。"
+        },
+        {
+            "question": "アットモーメントカフェからの眺めはどのような景色が広がっていますか？",
+            "answer": "アットモーメントカフェからの眺めは四季を楽しむのに十分な美しい景色が広がっています。"
+        },
+        {
+            "question": "アットモーメントカフェのメニューにはどんな材料が使われていますか？",
+            "answer": "アットモーメントカフェのメニューには豊富な材料が使われており、高麗人参ラテなどがあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 150,
+        "QA": 203
+    }
+}

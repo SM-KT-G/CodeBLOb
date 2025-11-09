@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_007404",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1214&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=79&ccbaAsno=02900000&ccbaCtcd=37&ccbaCpno=4413702900000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2006-12-04",
+        "domain": "문화/역사관광",
+        "title": "경주 구 서경사"
+    },
+    "text": "慶州旧西京寺 (경주 구 서경사)\\n\n慶尚北道慶州市西部洞93番地\\n\n1932年頃 , 国家登録文化財 , この建物は日本による植民地時代韓国に入ってきた日本仏教の一宗派である曹洞宗が慶州地域で布教しようと建てた仏教建築物だ。 屋根が建物の高さに占める割合が高く、正面と側面の長さが一対一の割合に近く、上から眺めた建物の平面が正方形であり、正面の屋根が突出しているなど日本伝統仏教建築の特徴がよく現れている。",
+    "QA": [
+        {
+            "question": "この建物は何時頃建てられましたか？",
+            "answer": "1932年頃に建てられました。"
+        },
+        {
+            "question": "この建物はどのような経緯で建てられましたか？",
+            "answer": "この建物は、日本による植民地時代の韓国で布教活動を行うために建てられました。"
+        },
+        {
+            "question": "この建物はどの宗派の仏教建築物ですか？",
+            "answer": "この建物は、日本仏教の一宗派である曹洞宗が建てたものです。"
+        },
+        {
+            "question": "この建物の特徴は何ですか？",
+            "answer": "この建物は、屋根が建物の高さに占める割合が高く、正面と側面の長さが一対一の割合に近く、上から見ると平面が正方形であり、正面の屋根が突出しているなど、日本伝統仏教建築の特徴がよく現れています。"
+        },
+        {
+            "question": "この建物はどのような位置にありますか？",
+            "answer": "この建物は、慶尚北道慶州市西部洞93番地に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 151,
+        "QA": 217
+    }
+}

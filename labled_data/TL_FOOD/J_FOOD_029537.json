@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_029537",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-09-01",
+        "domain": "음식점",
+        "title": "火爐黒豚豚 ( 화로흑돈돈 )"
+    },
+    "text": "火爐黒豚豚 ( 화로흑돈돈 )\\n\nソウル特別市 鐘路区 敦化門路5キル 34\\n\n会社員の会食場所として親しまれているお店です。 おすすめは黒豚の皮付サムギョプサルです。ソウル特別市のジョンノ区に位置した韓国料理店です。",
+    "QA": [
+        {
+            "question": "このお店はどこにありますか？",
+            "answer": "このお店はソウル特別市鐘路区敦化門路5キル34にあります。"
+        },
+        {
+            "question": "このお店のおすすめメニューは何ですか？",
+            "answer": "このお店のおすすめは黒豚の皮付サムギョプサルです。"
+        },
+        {
+            "question": "このお店はどんな雰囲気ですか？",
+            "answer": "このお店は会社員の会食場所として親しまれています。"
+        },
+        {
+            "question": "このお店はどのような料理を提供していますか？",
+            "answer": "このお店は韓国料理を提供しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 81,
+        "QA": 122
+    }
+}

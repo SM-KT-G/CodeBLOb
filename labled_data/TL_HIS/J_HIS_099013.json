@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_099013",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=825&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=00700000&ccbaCtcd=36&ccbaCpno=2333600700000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1985-02-15",
+        "domain": "문화/역사관광",
+        "title": "장성 요월정 원림"
+    },
+    "text": "長城如月亭圓林\\n\n全羅南道長城郡黄龍面如月亭路58-53(黄龍里)\\n\n朝鮮、全羅南道記念物、この月極め園林は、朝鮮明宗(在位1545∼1567)の時コンチョジュワランを務めたキムギョンウが官職から退いて隠居するためになったというヨウォルチョンという精子の周りの森を指す。ヨウォルチョンに登ると、オクニョボンが目に入ってきて、ファンリョンカンと開けた野原が見える。精子の周りを60本余りのサルスベリが巡っており、松の木が森をなしており、夏にはもっと景色が美しい。精子には河西金麟厚、高峰奇大升(キ・デスン)など名賢らの時価の扁額に留めている。その中で、子孫キムギョンチャンがこのところの景色を称賛して''朝鮮第一の黄龍だ''と看板に留めたところ、国でうたって\"黄龍が朝鮮第一には漢陽はどうあるか\"と質問をして\"天下に第一です\"と答えて災いを免れたという話が伝えられている。",
+    "QA": [
+        {
+            "question": "この月極め園林は誰によって作られましたか？",
+            "answer": "朝鮮明宗の時にコンチョジュワランを務めたキムギョンウによって作られました。"
+        },
+        {
+            "question": "園林には何が見えますか？",
+            "answer": "ヨウォルチョンに登ると、オクニョボンが目に入り、ファンリョンカンと開けた野原が見えます。"
+        },
+        {
+            "question": "園林の周りには何が植えられていますか？",
+            "answer": "園林の周りには60本余りのサルスベリが植えられており、松の木が森をなしています。"
+        },
+        {
+            "question": "この場所で有名な名賢は誰ですか？",
+            "answer": "河西金麟厚、高峰奇大升(キ・デスン)など名賢がこの場所で有名です。"
+        },
+        {
+            "question": "なぜこの場所は「黄龍が朝鮮第一」と呼ばれるようになったのですか？",
+            "answer": "子孫キムギョンチャンがこのところの景色を称賛して''朝鮮第一の黄龍だ''と看板に留めたことから、「黄龍が朝鮮第一」と呼ばれるようになりました。"
+        }
+    ],
+    "word_Count": {
+        "text": 283,
+        "QA": 238
+    }
+}

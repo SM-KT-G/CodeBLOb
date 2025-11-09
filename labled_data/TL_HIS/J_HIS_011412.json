@@ -1,0 +1,55 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_011412",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=681&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=05330000&ccbaCtcd=38&ccbaCpno=2113805330000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2013-01-03",
+        "domain": "문화/역사관광",
+        "title": "김해 선지사 목조아미타여래좌상 및 복장물 일괄"
+    },
+    "text": "金海善智寺木造坐像及び服装物一括 (김해 선지사 목조아미타여래좌상 및 복장물 일괄)\\n\n慶尚南道金海市\\n\n宣祖38年、万暦33年(1605年) , 慶尚南道有形文化財 , 禅智寺所蔵の仏像は保存状態が良好で、目鼻立ちがはっきりしており、彫刻手法が量感的であるのに比べ、花嫁と着衣表現は単調で形式化されている。 福房遺物を通じて見ると、万暦33年(1605)先祖であることが確認され、大きさは座像51cmの規模だ。 服装遺物は汎磁器原文2枚、組成器1枚、経文1枚がある。 チョ·ソンギは韓紙3枚をそれぞれ連結して1枚にし、その上に書体で造成年代と施主者、花園などに関して記録している。",
+    "QA": [
+        {
+            "question": "この坐像は何年に作られましたか？",
+            "answer": "この坐像は宣祖38年、万暦33年(1605年)に作られました。"
+        },
+        {
+            "question": "この坐像はどこに所蔵されていますか？",
+            "answer": "この坐像は禅智寺に所蔵されています。"
+        },
+        {
+            "question": "この坐像の保存状態はどうですか？",
+            "answer": "この坐像の保存状態は良好です。"
+        },
+        {
+            "question": "この坐像の彫刻手法はどうですか？",
+            "answer": "この坐像の彫刻手法は量感的です。"
+        },
+        {
+            "question": "この坐像の服装表現はどうですか？",
+            "answer": "この坐像の服装表現は単調で形式化されています。"
+        },
+        {
+            "question": "この坐像の大きさはどれくらいですか？",
+            "answer": "この坐像の大きさは座像51cmの規模です。"
+        },
+        {
+            "question": "服装遺物は何枚ありますか？",
+            "answer": "服装遺物は汎磁器原文2枚、組成器1枚、経文1枚の計4枚あります。"
+        },
+        {
+            "question": "チョ·ソンギは何を記録していますか？",
+            "answer": "チョ·ソンギは韓紙3枚をそれぞれ連結して1枚にし、その上に造成年代と施主者、花園などに関して記録しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 216,
+        "QA": 250
+    }
+}

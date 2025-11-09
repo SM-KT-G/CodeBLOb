@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_029827",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42010&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "수원(팔달문) 허브 운영 정책"
+    },
+    "text": "チェックイン時間は21:00で、チェックアウト時間は12:00です。 ご予約いただいたお客様のために客室にはPCとWi-Fi、充電器、ウォッシュレットが設置されています。 宿泊客には無料でコーヒー豆を提供しています。 また宿からはコンビニが1分距離にあるので便利に利用できます。",
+    "QA": [
+        {
+            "question": "チェックイン時間は何時ですか？",
+            "answer": "チェックイン時間は21:00です。"
+        },
+        {
+            "question": "チェックアウト時間は何時ですか？",
+            "answer": "チェックアウト時間は12:00です。"
+        },
+        {
+            "question": "客室にはどんな設備がありますか？",
+            "answer": "客室にはPCとWi-Fi、充電器、ウォッシュレットが設置されています。"
+        },
+        {
+            "question": "宿泊客には何か無料で提供されますか？",
+            "answer": "宿泊客には無料でコーヒー豆が提供されます。"
+        },
+        {
+            "question": "宿からの距離で便利な施設はありますか？",
+            "answer": "宿からはコンビニが1分の距離にあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 101,
+        "QA": 143
+    }
+}

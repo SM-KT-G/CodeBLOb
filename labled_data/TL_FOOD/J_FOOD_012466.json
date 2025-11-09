@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_012466",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-07",
+        "domain": "음식점",
+        "title": "ピョンガネドゥェンジャン（편가네된장）"
+    },
+    "text": "ピョンガネドゥェンジャン\\n\n仁川広域市 江華郡 華道面 嘉陵浦路89ボンキル 11\\n\n仁川広域市のガンファ郡に位置した韓国料理店です。代表的なメニューはカンテンジャンビビンバです。韓国の代表メニューであるビビンバに味噌ソースを混ぜて食べる料理です。",
+    "QA": [
+        {
+            "question": "このレストランはどこにありますか？",
+            "answer": "仁川広域市 江華郡 華道面 嘉陵浦路89ボンキル 11に位置しています。"
+        },
+        {
+            "question": "このレストランの代表的なメニューは何ですか？",
+            "answer": "このレストランの代表的なメニューはカンテンジャンビビンバです。"
+        },
+        {
+            "question": "カンテンジャンビビンバとはどんな料理ですか？",
+            "answer": "カンテンジャンビビンバは韓国の代表メニューで、ビビンバに味噌ソースを混ぜて食べる料理です。"
+        }
+    ],
+    "word_Count": {
+        "text": 92,
+        "QA": 126
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_088304",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/view?relicId=158297",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2023-10-11",
+        "domain": "문화/역사관광",
+        "title": "암키와"
+    },
+    "text": "平瓦 (암키와)\\n\n国籍と時代は韓国の高麗時代で、材質は土で、分類は主に生活用具の建築部材です。この建築部材は屋根材として使用され、平瓦の形状をしています。そのサイズは現在の長さは19.2cm、幅は28.7cmであり、また別のものは長さが21.0cm、幅が24.7cm、さらに別のものは幅が16.7cm、長さが20.0cm、幅が17.3cm、幅が14.0cm、さらには現時点での幅が15.3cm、長さが21.5cmです。",
+    "QA": [
+        {
+            "question": "この平瓦はどの時代のものですか？",
+            "answer": "この平瓦は韓国の高麗時代のものです。"
+        },
+        {
+            "question": "平瓦の材質は何ですか？",
+            "answer": "平瓦の材質は土です。"
+        },
+        {
+            "question": "平瓦は主に何に使用されますか？",
+            "answer": "平瓦は屋根材として使用されます。"
+        },
+        {
+            "question": "平瓦のサイズは何ですか？",
+            "answer": "現在の平瓦のサイズは長さ19.2cm、幅28.7cmです。"
+        },
+        {
+            "question": "平瓦の他のサイズは何ですか？",
+            "answer": "別の平瓦のサイズは長さ21.0cm、幅24.7cmや、幅16.7cm、長さ20.0cm、幅14.0cm、長さ21.5cmなどがあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 154,
+        "QA": 153
+    }
+}

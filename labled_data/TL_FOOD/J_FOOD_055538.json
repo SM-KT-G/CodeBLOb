@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_055538",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-03",
+        "domain": "음식점",
+        "title": "ブルゲミ食堂 ( 불개미식당 )"
+    },
+    "text": "ブルゲミ食堂 ( 불개미식당 )\\n\n江原道 ガンヌン市 ジュンアンシジャン1ギル8\\n\n様々な韓国のおかずが味わえる店です。おすすめは麦ご飯定食です。江原道のガンヌン市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "ブルゲミ食堂はどこにありますか？",
+            "answer": "ブルゲミ食堂は江原道のガンヌン市に位置しています。"
+        },
+        {
+            "question": "ブルゲミ食堂のおすすめメニューは何ですか？",
+            "answer": "ブルゲミ食堂のおすすめは麦ご飯定食です。"
+        },
+        {
+            "question": "ブルゲミ食堂で味わえる料理はどんなものがありますか？",
+            "answer": "ブルゲミ食堂では様々な韓国のおかずが味わえます。"
+        },
+        {
+            "question": "ブルゲミ食堂はどんな種類の店ですか？",
+            "answer": "ブルゲミ食堂は韓食専門店です。"
+        }
+    ],
+    "word_Count": {
+        "text": 71,
+        "QA": 121
+    }
+}

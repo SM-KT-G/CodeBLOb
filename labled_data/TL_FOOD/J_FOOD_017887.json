@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_017887",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2022-08-26",
+        "domain": "음식점",
+        "title": "돈향기"
+    },
+    "text": "金の香り (돈향기)\\n\n済州特別自治道済州市観徳路15ギル30\\n\n「ドンヒャンギ」というお店は、済州市の建入洞にあります。こちらは、済州島黒豚を専門に扱う飲食店で、済州特別自治道清浄黒豚通りに位置しています。特に、黒豚の盛り合わせ焼き料理が有名です。",
+    "QA": [
+        {
+            "question": "ドンヒャンギはどこにありますか？",
+            "answer": "ドンヒャンギは済州市の建入洞に位置しています。"
+        },
+        {
+            "question": "ドンヒャンギの特徴は何ですか？",
+            "answer": "ドンヒャンギは済州島黒豚を専門に扱う飲食店です。特に、黒豚の盛り合わせ焼き料理が有名です。"
+        },
+        {
+            "question": "ドンヒャンギはどの通りに位置していますか？",
+            "answer": "ドンヒャンギは済州特別自治道清浄黒豚通りに位置しています。"
+        },
+        {
+            "question": "ドンヒャンギの住所は何ですか？",
+            "answer": "ドンヒャンギの住所は済州特別自治道済州市観徳路15ギル30です。"
+        },
+        {
+            "question": "ドンヒャンギの名物料理は何ですか？",
+            "answer": "ドンヒャンギの名物料理は黒豚の盛り合わせ焼き料理です。"
+        }
+    ],
+    "word_Count": {
+        "text": 93,
+        "QA": 176
+    }
+}

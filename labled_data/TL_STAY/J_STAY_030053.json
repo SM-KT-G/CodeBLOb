@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_030053",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.goodchoice.kr/product/detail?ano=61967&adcno=1&sel_date=2023-11-06&sel_date2=2023-11-07",
+        "collectedDate": "2023-11-15",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "영등포 코코"
+    },
+    "text": "駐車可能な車両は計2台です。 最寄り駅は永登浦駅と永登浦市場駅です。 客室内部にはラテックスベッドが設置されており、VIP室とPCツインルームがあります。 VIP室には2台のPCが完備されています。 訪問決済の際には割引が可能です。 8月にリニューアルが完了し、客室の内部施設がアップグレードされました。",
+    "QA": [
+        {
+            "question": "駐車可能な台数は何台ですか？",
+            "answer": "駐車可能な車両は計2台です。"
+        },
+        {
+            "question": "最寄り駅はどこですか？",
+            "answer": "最寄り駅は永登浦駅と永登浦市場駅です。"
+        },
+        {
+            "question": "客室内にどのようなベッドが設置されていますか？",
+            "answer": "客室内部にはラテックスベッドが設置されております。"
+        },
+        {
+            "question": "VIP室とPCツインルームの違いは何ですか？",
+            "answer": "VIP室とPCツインルームがあります。VIP室には2台のPCが完備されています。"
+        },
+        {
+            "question": "訪問決済の際には何か割引がありますか？",
+            "answer": "訪問決済の際には割引が可能です。"
+        },
+        {
+            "question": "リニューアルはいつ完了しましたか？",
+            "answer": "8月にリニューアルが完了し、客室の内部施設がアップグレードされました。"
+        }
+    ],
+    "word_Count": {
+        "text": 111,
+        "QA": 187
+    }
+}

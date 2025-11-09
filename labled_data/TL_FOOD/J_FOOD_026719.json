@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_026719",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2020-12-29",
+        "domain": "음식점",
+        "title": "朝鮮火炉ジプ 順天( 조선화로집 순천 )"
+    },
+    "text": "朝鮮火炉ジプ 順天( 조선화로집 순천 )\\n\n全羅南道 順天市 チュンヒョロ139\\n\n家族のお集まりだけでなく、団体での食事会も可能な店です。全羅南道のスンチョン市に位置した韓食専門店です。おすすめは霜降りカルビ肉です。",
+    "QA": [
+        {
+            "question": "このお店はどこにありますか？",
+            "answer": "このお店は全羅南道のスンチョン市にあります。"
+        },
+        {
+            "question": "このお店は何を提供していますか？",
+            "answer": "このお店は韓食を専門としており、霜降りカルビ肉がおすすめです。"
+        },
+        {
+            "question": "このお店では団体での食事会もできますか？",
+            "answer": "はい、このお店では団体での食事会も可能です。"
+        }
+    ],
+    "word_Count": {
+        "text": 82,
+        "QA": 91
+    }
+}

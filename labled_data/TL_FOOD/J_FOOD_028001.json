@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_028001",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/chungmuro-jjukkumi-bulgogi",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "忠武路チュクミプルコギ"
+    },
+    "text": "忠武路チュクミプルコギ\\n\nソウル特別市 中区 退渓路31キル 11\\n\n40年の伝統を誇る、炭焼きのイイダコプルコギ店です。味付けされたイイダコは辛さの中に深い味わいがあります。",
+    "QA": [
+        {
+            "question": "このレストランの名前は何ですか？",
+            "answer": "忠武路チュクミプルコギです。"
+        },
+        {
+            "question": "このレストランはどこにありますか？",
+            "answer": "ソウル特別市中区退渓路31キル11にあります。"
+        },
+        {
+            "question": "このレストランは何年の伝統を持っていますか？",
+            "answer": "このレストランは40年の伝統を誇っています。"
+        },
+        {
+            "question": "このレストランの特徴は何ですか？",
+            "answer": "このレストランの特徴は、炭焼きのイイダコプルコギであり、辛さの中に深い味わいがあります。"
+        },
+        {
+            "question": "このレストランの料理はどのように味付けされていますか？",
+            "answer": "このレストランの料理は、辛さの中に深い味わいがあるイイダコプルコギです。"
+        }
+    ],
+    "word_Count": {
+        "text": 66,
+        "QA": 173
+    }
+}

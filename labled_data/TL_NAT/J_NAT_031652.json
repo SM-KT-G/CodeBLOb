@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_031652",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101933",
+        "collectedDate": "2023-10-06",
+        "publishedDate": "2020-01-01",
+        "domain": "자연관광",
+        "title": "덕항산"
+    },
+    "text": "徳項山は、江原道(カンウォンド)特別自治道三陟(サムチョク)市新基面とハジャン面に位置した高さ1,071mの山である。この山は山の中腹にある幻仙窟として東洋で最大の大きさの石灰岩洞窟として知られている。実際、この穴は天然記念物第178号に指定されている。",
+    "QA": [
+        {
+            "question": "徳項山はどこに位置していますか？",
+            "answer": "徳項山は江原道(カンウォンド)特別自治道三陟(サムチョク)市新基面とハジャン面に位置しています。"
+        },
+        {
+            "question": "徳項山の高さは何メートルですか？",
+            "answer": "徳項山の高さは1,071mです。"
+        },
+        {
+            "question": "幻仙窟とは何ですか？",
+            "answer": "幻仙窟は徳項山の山の中腹にある、東洋で最大の大きさの石灰岩洞窟です。"
+        },
+        {
+            "question": "幻仙窟は何に指定されていますか？",
+            "answer": "幻仙窟は天然記念物第178号に指定されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 93,
+        "QA": 132
+    }
+}

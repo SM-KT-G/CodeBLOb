@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_066058",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/goods/GN0002130646?startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "제천 자바무인텔 운영 정책"
+    },
+    "text": "チェックインは22:00で、チェックアウトは12:00です。 そしてチェックインアウト案内のすぐ下には予約のお知らせGRAND OPENという文字があります。 その下には入室利用案内予約特典という文字とともに様々な施設が並んでいます。 中にはパソコン、スタイラー、空気清浄機、ネットフリックス、電子レンジが含まれています。",
+    "QA": [
+        {
+            "question": "チェックインとチェックアウトの時間は何時ですか？",
+            "answer": "チェックインは22:00で、チェックアウトは12:00です。"
+        },
+        {
+            "question": "どんな特典が予約に含まれていますか？",
+            "answer": "入室利用案内予約特典にはパソコン、スタイラー、空気清浄機、ネットフリックス、電子レンジが含まれています。"
+        },
+        {
+            "question": "予約特典の中には何が含まれていますか？",
+            "answer": "パソコン、スタイラー、空気清浄機、ネットフリックス、電子レンジが含まれています。"
+        }
+    ],
+    "word_Count": {
+        "text": 118,
+        "QA": 134
+    }
+}

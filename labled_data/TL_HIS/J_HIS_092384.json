@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_092384",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1039&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=01070000&ccbaCtcd=36&ccbaCpno=3413601070000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1984-02-29",
+        "domain": "문화/역사관광",
+        "title": "완도향교"
+    },
+    "text": "莞島郷校\\n\n全羅南道莞島郡竹清キル94-73(莞島邑、莞島郷校)\\n\n全羅南道文化財資料、郷校は、孔子と多くの聖賢に祭祀をして地方民の教育と教化のために国で立てた教育機関だ。莞島(ワンド)郷校は、光武1年(1897)に郷土類似キムグヮンソンが郷校の建設を推進してつけた。その後、何度も報酬を経て今日に至っている。建物の配置は転校後墓形式を受けている。3階の階段式に、真下には、学生たちが集まって勉強する講堂の明倫堂、その次に、学生の寮であるドンジェ・書斎、最上部には祭祀を行う空間である大成殿がある。大成殿は前面3間・側面3間規模で、屋根は側面から見ると、人の教わる字形の切妻屋根である。明倫堂は前面4間・側面2間規模であり、屋根は側面から見ると、八(八部)字形の入母屋屋根で負けた。朝鮮時代には国で土地と奴婢・本などの支援を受けて学生を教えたが、今は教育機能はなくなり、祭祀の役割だけが残っている。",
+    "QA": [
+        {
+            "question": "郷校は何のために国で立てられた教育機関ですか？",
+            "answer": "郷校は地方民の教育と教化のために国で立てられた教育機関です。"
+        },
+        {
+            "question": "莞島郷校の建設を推進した人物は誰ですか？",
+            "answer": "莞島(ワンド)郷校の建設を推進したのは郷土類似キムグヮンソンです。"
+        },
+        {
+            "question": "郷校の建物配置はどのような形式を受けていますか？",
+            "answer": "郷校の建物配置は転校後墓形式を受けています。"
+        },
+        {
+            "question": "明倫堂とはどのような機能を持つ建物ですか？",
+            "answer": "明倫堂は学生たちが集まって勉強する講堂であり、学生の寮であるドンジェ・書斎と大成殿の間に位置しています。"
+        },
+        {
+            "question": "大成殿の屋根の形は何ですか？",
+            "answer": "大成殿の屋根は側面から見ると、人の教わる字形の切妻屋根です。"
+        }
+    ],
+    "word_Count": {
+        "text": 294,
+        "QA": 197
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_033376",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2023-06-13",
+        "domain": "자연관광",
+        "title": "백운호수 생태탐방로"
+    },
+    "text": "長さ3km、幅3mで、白雲湖周辺の白雲山とバラサンなどの自然景観を眺め、湖をぐるりと一見て回ることができるよう造成した。白雲湖と調和をなすアーチ型の報道、橋梁や散策路に夜間、景観照明を備えてロマン的な湖夜景が演出される。。",
+    "QA": [
+        {
+            "question": "白雲湖周辺にある名所は何ですか？",
+            "answer": "白雲湖周辺には白雲山やバラサンなどの自然景観があります。"
+        },
+        {
+            "question": "白雲湖周辺の散策路の長さと幅はいくらですか？",
+            "answer": "散策路は長さ3km、幅3mです。"
+        },
+        {
+            "question": "湖をぐるりと一周するための時間はどのくらいですか？",
+            "answer": "湖を一周するためには約○○時間かかります。"
+        },
+        {
+            "question": "夜間に湖の景観を楽しむための特別な演出はありますか？",
+            "answer": "夜間には湖の周辺に設置された景観照明がロマンチックな湖夜景を演出します。"
+        }
+    ],
+    "word_Count": {
+        "text": 81,
+        "QA": 139
+    }
+}

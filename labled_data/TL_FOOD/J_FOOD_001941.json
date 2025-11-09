@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001941",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2020-11-26",
+        "domain": "음식점",
+        "title": "nolbooプデチゲビュッフェ 新村( 놀부부대찌개뷔폐 신촌 )"
+    },
+    "text": "nolbooプデチゲビュッフェ 新村( 놀부부대찌개뷔폐 신촌 )\\n\nソウル特別市 西大門区 延世路 23\\n\nプデチゲを食べ放題で味わえる店です。ソウル特別市のソデムン区に位置した韓食専門店です。代表的なメニューはプデチゲです。",
+    "QA": [
+        {
+            "question": "プデチゲビュッフェ 新村はどこにありますか？",
+            "answer": "プデチゲビュッフェ 新村はソウル特別市西大門区延世路23に位置しています。"
+        },
+        {
+            "question": "プデチゲビュッフェ 新村の特徴は何ですか？",
+            "answer": "プデチゲビュッフェ 新村はプデチゲを食べ放題で味わえる韓食専門店です。"
+        },
+        {
+            "question": "プデチゲビュッフェ 新村の代表的なメニューは何ですか？",
+            "answer": "プデチゲビュッフェ 新村の代表的なメニューはプデチゲです。"
+        }
+    ],
+    "word_Count": {
+        "text": 85,
+        "QA": 125
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_014763",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42070&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "음성 지중해의 아침 운영 정책"
+    },
+    "text": "チェックイン時間は午後5時で、チェックアウト時間は午前1時です。 入室および利用についての案内を受けることができます。 ご予約された方は特別な特典があり、駐車も可能です。 客室にはWi-Fiが設置されており、マッサージチェアやスタイラーも客室に完璧にセットされています。 より便利な宿泊のために、広い客室と極細糸電気敷布団を提供しています。",
+    "QA": [
+        {
+            "question": "チェックイン時間は何時ですか？",
+            "answer": "チェックイン時間は午後5時です。"
+        },
+        {
+            "question": "チェックアウト時間は何時ですか？",
+            "answer": "チェックアウト時間は午前1時です。"
+        },
+        {
+            "question": "どのような特典がありますか？",
+            "answer": "ご予約された方には特別な特典があります。"
+        },
+        {
+            "question": "駐車はできますか？",
+            "answer": "はい、駐車も可能です。"
+        },
+        {
+            "question": "客室には何が備え付けられていますか？",
+            "answer": "客室にはWi-Fi、マッサージチェア、スタイラーが設置されています。"
+        },
+        {
+            "question": "どのような宿泊施設が提供されていますか？",
+            "answer": "広い客室と極細糸電気敷布団が提供されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 124,
+        "QA": 156
+    }
+}

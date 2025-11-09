@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_030437",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.goodchoice.kr/product/detail?ano=47114&adcno=1&sel_date=2023-11-07&sel_date2=2023-11-08",
+        "collectedDate": "2023-11-15",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "전주 MOMENT708"
+    },
+    "text": "全客室にはプレミアム型空気清浄機が配置されており、最近は全客室のマットレスをプレミアムフォームに交換しました。 ご利用のお客様は、快適で清潔な環境で休息をとることができます。 また、駐車場には計20台の車両を収容できる施設がありますので、車を利用する際の駐車に問題はないと思います。 多くの関心とご利用をお願いいたします。 ありがとうございます。",
+    "QA": [
+        {
+            "question": "空気清浄機はどのように設置されていますか？",
+            "answer": "全客室にはプレミアム型空気清浄機が配置されています。"
+        },
+        {
+            "question": "最近交換されたマットレスは何ですか？",
+            "answer": "最近は全客室のマットレスをプレミアムフォームに交換しました。"
+        },
+        {
+            "question": "駐車場には何台の車両を収容できますか？",
+            "answer": "駐車場には計20台の車両を収容できる施設があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 126,
+        "QA": 102
+    }
+}

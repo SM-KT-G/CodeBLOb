@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_016764",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-12-28",
+        "domain": "숙박",
+        "title": "ホテルマレモンス（호텔 마레몬스）"
+    },
+    "text": "ホテルマレモンス（호텔 마레몬스）\\n\n江原道 束草市 東海大路3705\\n\n国際的リゾート都市・束草にあるホテルマレモンスは最高の施設を取り揃えており、雪岳と東海の絶景を楽しめる148の客室があります。大小の宴会場や、世界の飲食文化や休息文化が感じられる多彩な付帯施設があります。",
+    "QA": [
+        {
+            "question": "ホテルマレモンスの場所はどこですか？",
+            "answer": "ホテルマレモンスは江原道束草市東海大路3705にあります。"
+        },
+        {
+            "question": "ホテルマレモンスには何部屋ありますか？",
+            "answer": "ホテルマレモンスには148の客室があります。"
+        },
+        {
+            "question": "ホテルマレモンスにはどんな施設がありますか？",
+            "answer": "ホテルマレモンスには大小の宴会場や、世界の飲食文化や休息文化が感じられる多彩な付帯施設があります。"
+        },
+        {
+            "question": "ホテルマレモンスからはどんな絶景が楽しめますか？",
+            "answer": "ホテルマレモンスからは雪岳と東海の絶景が楽しめます。"
+        }
+    ],
+    "word_Count": {
+        "text": 103,
+        "QA": 153
+    }
+}

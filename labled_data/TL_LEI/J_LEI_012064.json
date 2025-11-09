@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_LEI_012064",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101933",
+        "collectedDate": "2023-09-21",
+        "publishedDate": "2023-01-16",
+        "domain": "레포츠",
+        "title": "학마을캠프"
+    },
+    "text": "鶴村キャンプ (학마을캠프)\\n\n江原道鉄原郡東松邑ドピドンキル72-1\\n\n「民間」で「直営」方法で運営しています。 '''カーキャンプ場'''をご利用いただけます。 周辺の自然環境としては「湖」があり、「直営」方式で運営しています。 「散策路、青少年体験施設」をご利用いただけます。",
+    "QA": [
+        {
+            "question": "キャンプ場の名称は何ですか？",
+            "answer": "カーキャンプ場"
+        },
+        {
+            "question": "キャンプ場の所在地はどこですか？",
+            "answer": "江原道鉄原郡東松邑ドピドンキル72-1"
+        },
+        {
+            "question": "キャンプ場の周辺にある自然環境は何ですか？",
+            "answer": "湖"
+        },
+        {
+            "question": "キャンプ場で利用できる施設やアクティビティは何ですか？",
+            "answer": "散策路、青少年体験施設"
+        },
+        {
+            "question": "キャンプ場の運営方法は何ですか？",
+            "answer": "「民間」で「直営」方法で運営しています"
+        }
+    ],
+    "word_Count": {
+        "text": 104,
+        "QA": 110
+    }
+}

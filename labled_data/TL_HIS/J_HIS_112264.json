@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_112264",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/view?relicId=86364",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2023-10-11",
+        "domain": "문화/역사관광",
+        "title": "청자 전접시"
+    },
+    "text": "青磁のチヂミ皿 (청자 전접시)\\n\n国籍/時代: 中国-ウォン 材質: 陶磁器 - 青磁 分類: 食生活 - 皿 大きさ: 高さ39cm、着丈201cm、底径86cm 修正案: この皿は中国のウォン時代に作られた青磁の陶磁器です。主に食事をする際に使用される食生活の一部として分類されます。サイズは高さ39cm、着丈201cm、底径86cmです。",
+    "QA": [
+        {
+            "question": "この青磁のチヂミ皿は何時代のものですか？",
+            "answer": "この皿は中国のウォン時代に作られたものです。"
+        },
+        {
+            "question": "この青磁のチヂミ皿の国籍はどこですか？",
+            "answer": "この皿の国籍は中国です。"
+        },
+        {
+            "question": "この青磁のチヂミ皿はどんな材質で作られていますか？",
+            "answer": "この皿は陶磁器 - 青磁という材質で作られています。"
+        },
+        {
+            "question": "この青磁のチヂミ皿はどのように使用されていましたか？",
+            "answer": "この皿は主に食事をする際に使用されていました。"
+        },
+        {
+            "question": "この青磁のチヂミ皿のサイズはどのくらいですか？",
+            "answer": "この皿のサイズは高さ39cm、着丈201cm、底径86cmです。"
+        }
+    ],
+    "word_Count": {
+        "text": 127,
+        "QA": 167
+    }
+}

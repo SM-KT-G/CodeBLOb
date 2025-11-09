@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_028124",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42080&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "춘천 서울파크"
+    },
+    "text": "春川ソウルパークモーテルでは、清潔で快適な客室で皆様を迎えています。 いつでもフロントにご連絡いただければ親切にご相談いたします。 予約は訪問日とお名前をおっしゃってください。 予約者名と宿泊客が異なる場合は予めお知らせください。 全客室の料金は2名基準となっております。 特別な割引価格は会員様のみに提供されますので、会員様にご登録いただくとよりお得にご利用いただけます。 ソウルパークモーテルは、皆様のご声援にお応えするために最善を尽くしています。 ありがとうございます。",
+    "QA": [
+        {
+            "question": "予約をするためにはどのように連絡すればいいですか？",
+            "answer": "いつでもフロントにご連絡いただければ親切にご相談いたします。"
+        },
+        {
+            "question": "予約者名と宿泊客が異なる場合はどうすればいいですか？",
+            "answer": "予めお知らせください。"
+        },
+        {
+            "question": "料金は1部屋につき2名基準ですか？",
+            "answer": "はい、全客室の料金は2名基準となっております。"
+        },
+        {
+            "question": "特別な割引価格はどのように利用できますか？",
+            "answer": "会員様にご登録いただくと、特別な割引価格が提供されます。"
+        },
+        {
+            "question": "ソウルパークモーテルは何を提供していますか？",
+            "answer": "清潔で快適な客室を提供しています。"
+        },
+        {
+            "question": "ソウルパークモーテルは何を大切にしていますか？",
+            "answer": "皆様のご声援にお応えするために最善を尽くしています。"
+        }
+    ],
+    "word_Count": {
+        "text": 174,
+        "QA": 197
+    }
+}

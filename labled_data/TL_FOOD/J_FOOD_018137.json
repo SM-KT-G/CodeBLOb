@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_018137",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2020-12-29",
+        "domain": "음식점",
+        "title": "濃いラーメン 平沢古徳( 코이라멘 평택고덕 )"
+    },
+    "text": "濃いラーメン 平沢古徳( 코이라멘 평택고덕 )\\n\n京畿道 平沢市 コドクヨヨム10ギル88\\n\n自家製麺を使った日本ラーメンの専門店です。京畿道のピョンテク市に位置した和食専門店です。代表的なメニューはラーメンです。",
+    "QA": [
+        {
+            "question": "このラーメン店の特徴は何ですか？",
+            "answer": "このラーメン店は自家製麺を使った日本ラーメンの専門店です。"
+        },
+        {
+            "question": "このラーメン店の場所はどこですか？",
+            "answer": "このラーメン店は京畿道の平沢市に位置しています。具体的な住所はコドクヨヨム10ギル88です。"
+        },
+        {
+            "question": "この店の代表的なメニューは何ですか？",
+            "answer": "この店の代表的なメニューはラーメンです。"
+        },
+        {
+            "question": "この店では他に何の料理が提供されていますか？",
+            "answer": "この店では和食の専門店ですので、他にも和食の料理が提供されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 80,
+        "QA": 148
+    }
+}

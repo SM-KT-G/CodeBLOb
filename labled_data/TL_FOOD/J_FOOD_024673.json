@@ -1,0 +1,31 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_024673",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-01",
+        "domain": "음식점",
+        "title": "五福テジ ( 오복돼지 )"
+    },
+    "text": "五福テジ \n京畿道 平澤市 彭城邑 安停循環路172ボンキル 57\n安停交差点にある下焼きサムギョプサル、ギアラ焼きの専門店です。 おすすめはサムギョプサルの素焼きです。",
+    "QA": [
+        {
+            "question": "五福テジの場所はどこですか？",
+            "answer": "五福テジは京畿道平澤市彭城邑安停循環路172ボンキル 57 安停交差点にあります。"
+        },
+        {
+            "question": "五福テジのおすすめ料理は何ですか？",
+            "answer": "五福テジのおすすめはサムギョプサルの素焼きです。"
+        }
+    ],
+    "word_Count": {
+        "text": 62,
+        "QA": 70
+    }
+}

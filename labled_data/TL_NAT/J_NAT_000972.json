@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_000972",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101933",
+        "collectedDate": "2023-10-06",
+        "publishedDate": "2020-01-01",
+        "domain": "자연관광",
+        "title": "아차산성"
+    },
+    "text": "アチャサンソン\n\n阿且山城は史跡第234号に指定された文化財である。阿且山は海抜285mで、ソウル広津区広蔵洞の漢江の北側に位置している。百済が河南威礼城に都邑した時、高句麗の侵入を倒すために築いた大きな城だ。",
+    "QA": [
+        {
+            "question": "阿且山城はどのような文化財ですか？",
+            "answer": "阿且山城は史跡第234号に指定された文化財です。"
+        },
+        {
+            "question": "阿且山はどの地域に位置していますか？",
+            "answer": "阿且山はソウル広津区広蔵洞の漢江の北側に位置しています。"
+        },
+        {
+            "question": "なぜ阿且山城は築かれたのですか？",
+            "answer": "阿且山城は百済が河南威礼城に都邑した時、高句麗の侵入を倒すために築かれました。"
+        },
+        {
+            "question": "阿且山の海抜はどのくらいですか？",
+            "answer": "阿且山の海抜は285mです。"
+        }
+    ],
+    "word_Count": {
+        "text": 77,
+        "QA": 126
+    }
+}

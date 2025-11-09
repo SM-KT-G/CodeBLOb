@@ -1,0 +1,55 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_043836",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=43&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=01610000&ccbaCtcd=23&ccbaCpno=1122301610000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1963-01-21",
+        "domain": "문화/역사관광",
+        "title": "강화 정수사 법당"
+    },
+    "text": "朝鮮王朝の世宗5年(1423)に新羅善徳女王8年(639)懐正禅師が立てた浄水寺は宝である。朝鮮時代の世宗8年(1426)に涵虛大使によって再び建てられ、澄んだ水が湧き出ることを見て名前が浄水寺に変更された。この講堂は釈迦モニー仏像を祀った大雄宝殿と、1957年に補修工事の際、粛宗15年(1689)に受理したとき少ない記録を見つけた。前面と側面が3間の建物だったものと推定され、元々は縁側がなかった。屋根は人因子の形の切妻屋根で、両面が互いに異なる形で示されている。前方扉の真ん中の扉は華やかな彫刻が刻まれていて綺麗な腕前をうかがうことができる。",
+    "QA": [
+        {
+            "question": "浄水寺を建てた人物は誰ですか？",
+            "answer": "浄水寺は新羅善徳女王8年(639)に懐正禅師によって建てられました。"
+        },
+        {
+            "question": "浄水寺は何年に再建されましたか？",
+            "answer": "浄水寺は朝鮮時代の世宗8年(1426)に涵虛大使によって再建されました。"
+        },
+        {
+            "question": "浄水寺の名前が変更された理由は何ですか？",
+            "answer": "浄水寺の名前が変更されたのは、再建時に湧き出る澄んだ水を見て、それにちなんで名付けられたからです。"
+        },
+        {
+            "question": "浄水寺の講堂には何が祀られていますか？",
+            "answer": "浄水寺の講堂には釈迦モニー仏像が祀られています。"
+        },
+        {
+            "question": "浄水寺の補修工事の際に見つかった記録は何でしたか？",
+            "answer": "浄水寺の補修工事の際、粛宗15年(1689)に受理されたとき、少ない記録が見つかりました。"
+        },
+        {
+            "question": "浄水寺の講堂の前面と側面はどのような建物でしたか？",
+            "answer": "浄水寺の講堂の前面と側面は3間の建物で、元々は縁側がなかったと推定されています。"
+        },
+        {
+            "question": "浄水寺の屋根はどのような形ですか？",
+            "answer": "浄水寺の屋根は人因子の形の切妻屋根で、両面が互いに異なる形で示されています。"
+        },
+        {
+            "question": "浄水寺の講堂の扉にはどのような彫刻がありますか？",
+            "answer": "浄水寺の講堂の前方扉の真ん中の扉には華やかな彫刻が刻まれており、綺麗な腕前をうかがうことができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 200,
+        "QA": 349
+    }
+}

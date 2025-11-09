@@ -1,0 +1,55 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_016056",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.goodchoice.kr/product/detail?ano=67576&adcno=1&sel_date=2023-11-06&sel_date2=2023-11-07",
+        "collectedDate": "2023-11-15",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "역삼 마리호텔"
+    },
+    "text": "フレンチサロンスタイルのElegantでEconomicalなホテルには駐車場があります。 駐車場は計40台を保有しています。 周辺には2号線宣陵駅と駅三駅、水仁盆唐線宣陵駅があります。 駅三センターフィールドは徒歩2分、宣陵と貞陵は車で6分、三成洞とCOEXは車で10分の距離に位置しています。 客室内部の施設としては、キングサイズラテックスマットレス、無料ミニバー、55インチスマートテレビ、NETFLIX&TVINGOTTサービス、スチームアイロン無料レンタルサービスが提供されます。 フロントおよびその他の施設としては、ロビー、FRANKE & IKOVOX COFFEE、無料駐車サービス(VALLET SERVICE)があります。",
+    "QA": [
+        {
+            "question": "このホテルには駐車場がありますか？",
+            "answer": "はい、フレンチサロンスタイルのElegantでEconomicalなホテルには駐車場があります。"
+        },
+        {
+            "question": "駐車場は何台分ありますか？",
+            "answer": "駐車場は計40台を保有しています。"
+        },
+        {
+            "question": "周辺にはどの駅がありますか？",
+            "answer": "周辺には2号線宣陵駅と駅三駅、水仁盆唐線宣陵駅があります。"
+        },
+        {
+            "question": "駅三センターフィールドまでの距離はどれくらいですか？",
+            "answer": "徒歩2分です。"
+        },
+        {
+            "question": "宣陵と貞陵までの距離はどれくらいですか？",
+            "answer": "車で6分です。"
+        },
+        {
+            "question": "三成洞とCOEXまでの距離はどれくらいですか？",
+            "answer": "車で10分です。"
+        },
+        {
+            "question": "客室内部にはどのような施設がありますか？",
+            "answer": "キングサイズラテックスマットレス、無料ミニバー、55インチスマートテレビ、NETFLIX&TVINGOTTサービス、スチームアイロン無料レンタルサービスが提供されます。"
+        },
+        {
+            "question": "フロントおよびその他の施設として何がありますか？",
+            "answer": "ロビー、FRANKE & IKOVOX COFFEE、無料駐車サービス（VALLET SERVICE）があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 235,
+        "QA": 303
+    }
+}

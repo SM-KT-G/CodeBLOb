@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_021920",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "富一刺身専門店 ( 부일횟집 )"
+    },
+    "text": "富一刺身専門店 ( 부일횟집 )\\n\n慶尚南道 巨済市 長承浦路 101\\n\n30年以上の伝統を持つお店です。慶尚南道のゴジェ市に位置した海鮮専門店です。おすすめは刺身の盛り合わせです。",
+    "QA": [
+        {
+            "question": "富一刺身専門店の場所はどこですか？",
+            "answer": "富一刺身専門店は慶尚南道巨済市長承浦路101に位置しています。"
+        },
+        {
+            "question": "富一刺身専門店はどのようなお店ですか？",
+            "answer": "富一刺身専門店は30年以上の伝統を持つ海鮮専門店です。"
+        },
+        {
+            "question": "富一刺身専門店のおすすめは何ですか？",
+            "answer": "富一刺身専門店のおすすめは刺身の盛り合わせです。"
+        }
+    ],
+    "word_Count": {
+        "text": 68,
+        "QA": 99
+    }
+}

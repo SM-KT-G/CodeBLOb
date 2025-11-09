@@ -1,0 +1,31 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_003077",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-06-23",
+        "domain": "숙박",
+        "title": "カールトンホテル（칼튼호텔）"
+    },
+    "text": "カールトンホテル（칼튼호텔）\\n\nソウル特別市 江西区 禾谷路354-10\\n\n「カールトンホテル」は、金浦空港から車で約10分の距離に位置するリーズナブルなホテルです。",
+    "QA": [
+        {
+            "question": "カールトンホテルはどこにありますか？",
+            "answer": "カールトンホテルはソウル特別市江西区禾谷路354-10に位置しています。"
+        },
+        {
+            "question": "カールトンホテルはどのくらいの距離にあるのでしょうか？",
+            "answer": "カールトンホテルは金浦空港から車で約10分の距離にあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 62,
+        "QA": 81
+    }
+}

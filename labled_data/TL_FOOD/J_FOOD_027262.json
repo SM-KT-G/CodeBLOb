@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_027262",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-03",
+        "domain": "음식점",
+        "title": "竹辺港ヘムル ( 죽변항해물 )"
+    },
+    "text": "竹辺港ヘムル ( 죽변항해물 )\\n\nソウル特別市 ヨンドゥンポ区 グクフェデロ34ギル3-2\\n\n様々な海鮮料理を味わえる店です。ソウル特別市のヨンドゥンポ区に位置した韓食専門店です。代表的なメニューは海鮮の盛り合わせです。",
+    "QA": [
+        {
+            "question": "竹辺港ヘムルはどのような場所ですか？",
+            "answer": "竹辺港ヘムルはソウル特別市のヨンドゥンポ区に位置する韓食専門店で、様々な海鮮料理を味わうことができます。特に海鮮の盛り合わせが代表的なメニューです。"
+        },
+        {
+            "question": "竹辺港ヘムルの住所は何ですか？",
+            "answer": "竹辺港ヘムルの住所はソウル特別市ヨンドゥンポ区グクフェデロ34ギル3-2です。"
+        },
+        {
+            "question": "竹辺港ヘムルで食べられるメニューは何ですか？",
+            "answer": "竹辺港ヘムルでは様々な海鮮料理を味わうことができます。特に海鮮の盛り合わせがおすすめです。"
+        }
+    ],
+    "word_Count": {
+        "text": 82,
+        "QA": 156
+    }
+}

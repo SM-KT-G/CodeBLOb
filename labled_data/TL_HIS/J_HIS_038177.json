@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_038177",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=410&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=00460000&ccbaCtcd=34&ccbaCpno=2113400460000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1976-01-08",
+        "domain": "문화/역사관광",
+        "title": "의열사비"
+    },
+    "text": "義烈祠碑 (의열사비)\\n\n忠清南道扶余郡石塔路南嶺キル36(扶余邑)\\n\n1575、忠清南道有形文化財、義烈祠の建立過程とそこに祀った人物に関する内容を記録した碑である。 義烈祠は朝鮮宣祖8年(1575)扶余県監ホン·ガシンによって建立されたもので、宣祖10年(1577)に王が名前をつけて扁額を下ろした。 碑の形は四角い床石の上に碑身を立てて屋根石を載せた姿だ。 碑文の内容によると、この地域出身だった百済の3忠臣である成忠、興洙、桂伯と高麗時代に信敦を弾劾して退いた李存五の功労が後代に伝わらないことを残念に思った洪家臣が祠堂を建てて彼らを祀ることになったという。 後には朝鮮時代の鄭沢雷、黄一鎬を祀ったという内容も書かれている。 慶宗3年(1723)に碑を建てたが、本来は扶余郡龍井里望月山にあったものを、1971年祠堂と共に今の場所に移してきた。",
+    "QA": [
+        {
+            "question": "義烈祠碑は何時に建立されましたか？",
+            "answer": "義烈祠碑は朝鮮宣祖8年(1575)に建立されました。"
+        },
+        {
+            "question": "義烈祠は誰によって建てられましたか？",
+            "answer": "義烈祠は扶余県監ホン・ガシンによって建立されました。"
+        },
+        {
+            "question": "義烈祠はどのような形をしていますか？",
+            "answer": "義烈祠は四角い床石の上に碑身を立てて屋根石を載せた形をしています。"
+        },
+        {
+            "question": "義烈祠にはどのような人物が祀られていますか？",
+            "answer": "義烈祠には百済の忠臣である成忠、興洙、桂伯と高麗時代の李存五が祀られています。また、後には朝鮮時代の鄭沢雷、黄一鎬も祀られました。"
+        },
+        {
+            "question": "義烈祠碑は何年に移動されましたか？",
+            "answer": "義烈祠碑は1971年に祠堂と共に現在の場所に移動されました。"
+        }
+    ],
+    "word_Count": {
+        "text": 277,
+        "QA": 199
+    }
+}

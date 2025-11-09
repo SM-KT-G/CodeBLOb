@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_055597",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.goodchoice.kr/product/detail?ano=54520&adcno=1&sel_date=2023-11-06&sel_date2=2023-11-07",
+        "collectedDate": "2023-11-15",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "신갈 선비"
+    },
+    "text": "未成年者は利用不可のため身分証明書を持参必須であり、お持ちでないため入室拒否の場合はキャンセルできません。 駐車場は計20台の駐車施設を保有しています。 地下鉄は水仁盆唐線器興駅と水仁盆唐線上葛駅があります。",
+    "QA": [
+        {
+            "question": "この施設は未成年者の利用ができますか？",
+            "answer": "申し訳ありませんが、未成年者は利用できません。入室する際には身分証明書の持参が必須です。"
+        },
+        {
+            "question": "駐車場は何台分ありますか？",
+            "answer": "当施設では計20台の駐車スペースをご用意しております。"
+        },
+        {
+            "question": "最寄りの地下鉄駅はどこですか？",
+            "answer": "最寄りの地下鉄駅は、水仁盆唐線の器興駅と上葛駅です。"
+        }
+    ],
+    "word_Count": {
+        "text": 76,
+        "QA": 105
+    }
+}

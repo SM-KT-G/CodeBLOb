@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001862",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-10",
+        "domain": "음식점",
+        "title": "Luxury Lamb 平沢1号( 럭셔리램평택1호점 )"
+    },
+    "text": "Luxury Lamb 平沢1号\\n\n京畿道 ピョンテク市 ボンジョンアンギル5-12\\n\n6ヶ月未満の子羊のみを扱い、ラムリブを提供する店です。代表的なメニューはラムリブです。慶尚北道のアンドン市に位置した韓国料理店です。",
+    "QA": [
+        {
+            "question": "このお店の名前は何ですか？",
+            "answer": "Luxury Lamb 平沢1号です。"
+        },
+        {
+            "question": "このお店はどこにありますか？",
+            "answer": "京畿道 ピョンテク市 ボンジョンアンギル5-12に位置しています。"
+        },
+        {
+            "question": "このお店では何を提供していますか？",
+            "answer": "このお店では6ヶ月未満の子羊のみを扱い、ラムリブを提供しています。"
+        },
+        {
+            "question": "このお店の代表的なメニューは何ですか？",
+            "answer": "このお店の代表的なメニューはラムリブです。"
+        },
+        {
+            "question": "このお店はどのような種類のお店ですか？",
+            "answer": "このお店は韓国料理店で、慶尚北道のアンドン市に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 82,
+        "QA": 160
+    }
+}

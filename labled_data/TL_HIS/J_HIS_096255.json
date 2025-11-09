@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_096255",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=138&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=12150200&ccbaCtcd=34&ccbaCpno=1121112150200&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1995-03-10",
+        "domain": "문화/역사관광",
+        "title": "이색 초상 - 영모영당본"
+    },
+    "text": "異色の肖像 - 影慕影堂本\\n\n忠清南道扶余郡錦城路5(扶余邑、ギャンブラー)\\n\n宝物、高麗末3は(三隱)のうちの一人である木は異色(1328∼1396)先生の肖像画である。異色の肖像画はもともと官服姿と着流しの二種類がいたが、現在は、官服の姿を伝えている。官服の姿の絵も原本は伝えず、原本を見てしたもので、計4本5点が伝えられている。横85.2センチ、縦150.7センチの大きさのムンホンソの原本(文獻書院本)は条は霊堂と同一の形式で1755年に新たにしたものだ。目はヨンダンボンに比べてひげ処理と服の描写などの表現技法が落ちるのにこれは画家の技量の差のためであるようだ。",
+    "QA": [
+        {
+            "question": "異色の肖像画の作者は誰ですか？",
+            "answer": "異色の肖像画の作者は、高麗末期の儒学者である木は異色(1328∼1396)先生です。"
+        },
+        {
+            "question": "肖像画の大きさはどのくらいですか？",
+            "answer": "肖像画の大きさは、横85.2センチ、縦150.7センチです。"
+        },
+        {
+            "question": "肖像画は何年に作られましたか？",
+            "answer": "肖像画は1755年に新たに描かれたものです。"
+        },
+        {
+            "question": "肖像画の原本は何枚残っていますか？",
+            "answer": "肖像画の原本は、官服の姿の絵を含めて計4本5点が残っています。"
+        },
+        {
+            "question": "肖像画の特徴は何ですか？",
+            "answer": "肖像画の特徴は、官服の姿の絵であり、目、ひげ処理、服の描写などの表現技法が落ち着いています。"
+        }
+    ],
+    "word_Count": {
+        "text": 211,
+        "QA": 181
+    }
+}

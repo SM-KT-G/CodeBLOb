@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_023261",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101971",
+        "collectedDate": "2023-09-07",
+        "publishedDate": "2021-11-25",
+        "domain": "문화/역사관광",
+        "title": "時間の橋"
+    },
+    "text": "時間の橋\nスイレン公園へ向かうところに、ユニークな形をしている「時間の橋」があります。  空から眺めると、まるで腕時計のような形をしているのです。  夏は、この木製の橋の周りに蓮の葉が茂り、橋と蓮の葉を背景に写真を撮る人たちで賑わうスポットです。ここで、思い出の写真を残してみてはいかがでしょうか。",
+    "QA": [
+        {
+            "question": "この橋はどのような形をしていますか？",
+            "answer": "この橋はまるで腕時計のような形をしています。"
+        },
+        {
+            "question": "夏にこの橋の周りには何が茂っていますか？",
+            "answer": "夏には蓮の葉がこの橋の周りに茂っています。"
+        },
+        {
+            "question": "この橋の周りで人々が賑わうスポットはありますか？",
+            "answer": "はい、この橋の周りで写真を撮る人たちが賑わっています。"
+        },
+        {
+            "question": "どんな写真が撮れますか？",
+            "answer": "橋と蓮の葉を背景にした写真が撮れます。"
+        }
+    ],
+    "word_Count": {
+        "text": 109,
+        "QA": 119
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_033985",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=234&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=13&ccbaAsno=00890000&ccbaCtcd=34&ccbaCpno=1333400890000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1963-01-21",
+        "domain": "자연관광",
+        "title": "부여 석성산성"
+    },
+    "text": "三国時代、史跡、燕山の皇山城、魯城の魯城山城および錦江の向こうの聖興山城、後方の金城山城とつながる百済の首都泗沘の南の外郭を防御するために築いた山城です。この山城は内側に城を建てた後、再び城の外に2つの谷に沿って城を築きました。現在は城門跡と城門の下に小川の水が流れる水口門、そして井戸跡と建物跡が残っています。6世紀前半に建てられたもので、周囲約1,5km、幅約5m、高さ4m程度で、外側は石を積み上げ、内側は土を掘って溝(湖)のように作られていたと考えられますこの山城の特色は、2つの谷を囲む包谷式外城を築造し、その中に退却式で周囲580mの内城を築造しました。現在、城壁はすべて崩れ、城壁が通過する渓谷の入口に設置されていた水口も破壊され、本来の姿が分かりません。右側の水口に該当する部分は左右に城壁と連結されるように石塊を3~4m程度の高さに積み上げたことが確認できます",
+    "QA": [
+        {
+            "question": "この山城はいつ建てられましたか？",
+            "answer": "この山城は6世紀前半に建てられました。"
+        },
+        {
+            "question": "山城の周囲の長さはどのくらいですか？",
+            "answer": "山城の周囲は約1.5kmです。"
+        },
+        {
+            "question": "山城の特徴的な点は何ですか？",
+            "answer": "山城の特徴的な点は、2つの谷を囲む包谷式外城を築造し、その中に退却式で周囲580mの内城を築造したことです。"
+        },
+        {
+            "question": "城壁はどのように建てられていましたか？",
+            "answer": "城壁は外側は石を積み上げ、内側は土を掘って溝のように作られていました。"
+        },
+        {
+            "question": "山城内に残っているものは何ですか？",
+            "answer": "現在、城門跡と城門の下に小川の水が流れる水口門、そして井戸跡と建物跡が残っています。"
+        }
+    ],
+    "word_Count": {
+        "text": 285,
+        "QA": 182
+    }
+}

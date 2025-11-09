@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_005751",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2020-11-25",
+        "domain": "음식점",
+        "title": "コギゴショップ 三成駅( 고기고샵 삼성역 )"
+    },
+    "text": "コギゴショップ 三成駅( 고기고샵 삼성역 )\\n\nソウル特別市 江南区 テヘラン路84キル 16\\n\n新鮮な肉を提供する店です。おすすめはサムギョプサルです。ソウル特別市のガンナム区に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "コギゴショップ 三成駅はどこにありますか？",
+            "answer": "コギゴショップ 三成駅はソウル特別市江南区テヘラン路84キル 16にあります。"
+        },
+        {
+            "question": "コギゴショップ 三成駅ではどのような肉を提供していますか？",
+            "answer": "コギゴショップ 三成駅では新鮮な肉を提供しています。"
+        },
+        {
+            "question": "コギゴショップ 三成駅のおすすめ料理は何ですか？",
+            "answer": "コギゴショップ 三成駅のおすすめはサムギョプサルです。"
+        },
+        {
+            "question": "コギゴショップ 三成駅はどの区に位置していますか？",
+            "answer": "コギゴショップ 三成駅はソウル特別市の江南区に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 77,
+        "QA": 162
+    }
+}

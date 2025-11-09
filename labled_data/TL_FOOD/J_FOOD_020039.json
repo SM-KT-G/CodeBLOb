@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_020039",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-01",
+        "domain": "음식점",
+        "title": "礼味亭 ( 예미정 )"
+    },
+    "text": "礼味亭 \n慶尚北道 安東市 オンジョンゴルキル 111\n安東地域の宗家のレシピで、韓国料理を開発して提供しています。 慶尚北道のアンドン市に位置した韓定食専門店です。代表的なメニューは塩サバ焼きです。",
+    "QA": [
+        {
+            "question": "礼味亭の場所はどこですか？",
+            "answer": "礼味亭は慶尚北道安東市オンジョンゴルキル111に位置しています。"
+        },
+        {
+            "question": "礼味亭の特徴的な料理は何ですか？",
+            "answer": "礼味亭の代表的な料理は塩サバ焼きです。"
+        },
+        {
+            "question": "どのようなレシピで韓国料理を提供していますか？",
+            "answer": "礼味亭は安東地域の宗家のレシピで韓国料理を開発し、提供しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 73,
+        "QA": 99
+    }
+}

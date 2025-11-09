@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_022257",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2021-03-11",
+        "domain": "음식점",
+        "title": "산숲가든"
+    },
+    "text": "山の森 (산숲가든)\\n\n慶尚北道安東市南仙面忠孝路3929\\n\n山村ガーデンは林丹物を食材として使用し、代表的にコンドゥレナムルを利用したコンドゥレ石釜飯とツルニンジン焼き定食があり、鶏メニューとしては山で生産される薬用植物を入れて調理し、味鶏、山養蔘入り鶏肉の水炊きがある。",
+    "QA": [
+        {
+            "question": "山の森はどこにありますか？",
+            "answer": "山の森は慶尚北道安東市南仙面忠孝路3929にあります。"
+        },
+        {
+            "question": "山の森ではどのようなメニューがありますか？",
+            "answer": "山の森ではコンドゥレ石釜飯やツルニンジン焼き定食などがあります。また、味鶏や山養蔘入り鶏肉の水炊きも人気です。"
+        },
+        {
+            "question": "山の森では何を食材として使用していますか？",
+            "answer": "山の森では林丹物を食材として使用しています。特にコンドゥレナムルが代表的です。"
+        }
+    ],
+    "word_Count": {
+        "text": 101,
+        "QA": 129
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_002283",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-06",
+        "domain": "음식점",
+        "title": "アウネプデチゲ&サムギョプサル  ( 아우네부대찌개&삼겹살 )"
+    },
+    "text": "アウネプデチゲ&サムギョプサル  ( 아우네부대찌개&삼겹살 )\\n\nソウル特別市 江南区 テヘランロ83ギル31\\n\n代表メニューのプデチゲだけでなく、サムギョプサルも味わえる店です。ソウル特別市のガンナム区に位置した韓食専門店です。おすすめはプデチゲです。",
+    "QA": [
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "ソウル特別市 江南区 テヘランロ83ギル31にあります。"
+        },
+        {
+            "question": "この店ではどのようなメニューを楽しむことができますか？",
+            "answer": "プデチゲとサムギョプサルがおすすめです。"
+        },
+        {
+            "question": "この店の特徴的なメニューは何ですか？",
+            "answer": "代表メニューはプデチゲですが、サムギョプサルも味わうことができます。"
+        },
+        {
+            "question": "この店はどのような場所に位置していますか？",
+            "answer": "ソウル特別市のガンナム区に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 95,
+        "QA": 133
+    }
+}

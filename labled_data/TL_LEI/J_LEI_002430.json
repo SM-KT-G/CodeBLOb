@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_LEI_002430",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101933",
+        "collectedDate": "2023-10-06",
+        "publishedDate": "2020-01-01",
+        "domain": "레포츠",
+        "title": "메이즈랜드"
+    },
+    "text": "メイズランド\\n\nメイズランド(Mazeland)は済州特別自治道済州市旧左邑平垈里に位置する石、風、女をテーマに公園が造成された5.3kmに及ぶ迷路公園で、ドルミロ、パラムミロ、ヨジャミロの3つの迷路で構成されている。",
+    "QA": [
+        {
+            "question": "メイズランドはどこに位置していますか？",
+            "answer": "メイズランドは済州特別自治道済州市旧左邑平垈里に位置しています。"
+        },
+        {
+            "question": "メイズランドはどのようなテーマで公園が造成されていますか？",
+            "answer": "メイズランドは石、風、女をテーマに公園が造成されています。"
+        },
+        {
+            "question": "メイズランドは何つの迷路で構成されていますか？",
+            "answer": "メイズランドはドルミロ、パラムミロ、ヨジャミロの3つの迷路で構成されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 80,
+        "QA": 125
+    }
+}

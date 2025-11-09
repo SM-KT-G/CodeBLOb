@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_014796",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-10-08",
+        "domain": "음식점",
+        "title": "ユジン食堂 ( 유진식당 )"
+    },
+    "text": "ユジン食堂 ( 유진식당 )\\n\nソウル特別市 鐘路区 チョンロ17ギル40\\n\n常に行列ができている鐘路の名店です。おすすめはピョンヤン冷麺です。ソウル特別市のジョンノ区に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "ユジン食堂はどこにありますか？",
+            "answer": "ユジン食堂はソウル特別市の鐘路区チョンロ17ギル40に位置しています。"
+        },
+        {
+            "question": "ユジン食堂のおすすめメニューは何ですか？",
+            "answer": "ユジン食堂のおすすめはピョンヤン冷麺です。"
+        },
+        {
+            "question": "ユジン食堂はいつも混んでいますか？",
+            "answer": "はい、ユジン食堂はいつも行列ができています。"
+        }
+    ],
+    "word_Count": {
+        "text": 72,
+        "QA": 95
+    }
+}

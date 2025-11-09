@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_087677",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=933&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=24&ccbaAsno=00690000&ccbaCtcd=37&ccbaCpno=2443700690000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1986-12-11",
+        "domain": "문화/역사관광",
+        "title": "안동마령동기와까치구멍집"
+    },
+    "text": "慶尚北道民俗文化財、南平文氏の宗家で、約300年前に建てられた建物で、安東地方の典型的な平面構成をとっています。今ある建物は林東面馬霊洞にあったものを林下ダム建設に1988年に移したものです。前面3間·側面2間で、中央の前方に土の床をそのまま置いた奉堂があり、その後ろに床が置かれています。床の左側に奥の間、右側に上房があります。奉堂の左側には台所、右側には牛小屋とその上に屋根裏部屋が設置されています",
+    "QA": [
+        {
+            "question": "この建物の年代は？",
+            "answer": "約300年前に建てられました。"
+        },
+        {
+            "question": "この建物を移した理由は何ですか？",
+            "answer": "林東面馬霊洞にあったものを林下ダム建設に1988年に移しました。"
+        },
+        {
+            "question": "建物の平面構成はどのような特徴がありますか？",
+            "answer": "前面3間·側面2間で、中央の前方に土の床をそのまま置いた奉堂があり、その後ろに床が置かれています。"
+        },
+        {
+            "question": "建物の中にある部屋の配置はどのようになっていますか？",
+            "answer": "床の左側に奥の間、右側に上房があります。奉堂の左側には台所、右側には牛小屋とその上に屋根裏部屋があります。"
+        },
+        {
+            "question": "この建物はどの地域の典型的な建築様式を持っていますか？",
+            "answer": "安東地方の典型的な平面構成を持っています。"
+        }
+    ],
+    "word_Count": {
+        "text": 147,
+        "QA": 198
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001881",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2020-12-21",
+        "domain": "음식점",
+        "title": "Meal Top 現代百貨店木洞( 밀탑 현대백화점목동 )"
+    },
+    "text": "Meal Top 現代百貨店木洞( 밀탑 현대백화점목동 )\\n\nソウル特別市 陽川区 モクドンドンロ257\\n\n元祖ミルクかき氷の名店です。おすすめは氷小豆です。ソウル特別市のヤンチョン区に位置したカフェ（コーヒーショップ）です。",
+    "QA": [
+        {
+            "question": "木洞にあるMeal Top現代百貨店はどこにありますか？",
+            "answer": "Meal Top現代百貨店はソウル特別市の陽川区モクドンドンロ257に位置しています。"
+        },
+        {
+            "question": "Meal Top現代百貨店でおすすめのメニューはありますか？",
+            "answer": "Meal Top現代百貨店でおすすめのメニューは氷小豆です。"
+        },
+        {
+            "question": "Meal Top現代百貨店はどんなお店ですか？",
+            "answer": "Meal Top現代百貨店は元祖ミルクかき氷の名店で、ソウル特別市のヤンチョン区に位置したカフェ（コーヒーショップ）です。"
+        }
+    ],
+    "word_Count": {
+        "text": 85,
+        "QA": 157
+    }
+}

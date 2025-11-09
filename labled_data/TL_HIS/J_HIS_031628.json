@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_031628",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=814&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=00550000&ccbaCtcd=32&ccbaCpno=2333200550000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1984-12-28",
+        "domain": "문화/역사관광",
+        "title": "청평사지"
+    },
+    "text": "淸平寺址 (청평사지)\\n\n江原道春川市北山面清坪里669番地他2筆地\\n\n江原特別自治道 記念物、清平寺は高麗広宗24年(973)に建てられ「白岩禅院」と呼ばれた由緒ある寺院だ。 その後、普賢院、文殊院と呼ばれてきたが、朝鮮明宗の時、普愚禅師が大きく建て直し、名前を清平寺に変更し、今日に至っている。 長い歳月と朝鮮戦争によって文殊院吉碑と国宝だった極楽殿などが焼失し、現在の極楽殿は最近建て直したものだ。 残っている遺物としては回転門(宝物第164号)、真楽公浮屠、幻叔堂浮屠などがある。 また、高麗時代に官職にあったイ·ジャヒョンが官職を捨てて隠れていた文殊院と霊場が残っているが、ここは高麗時代の庭園を知ることができる重要な遺跡だ。",
+    "QA": [
+        {
+            "question": "清平寺はいつ建てられましたか？",
+            "answer": "清平寺は高麗広宗24年(973)に建てられました。"
+        },
+        {
+            "question": "清平寺は以前どのような名前で呼ばれていましたか？",
+            "answer": "清平寺は以前、白岩禅院、普賢院、文殊院と呼ばれていました。"
+        },
+        {
+            "question": "誰が清平寺を建て直しましたか？",
+            "answer": "清平寺を建て直したのは普愚禅師です。"
+        },
+        {
+            "question": "清平寺にはどのような遺物が残っていますか？",
+            "answer": "清平寺には回転門(宝物第164号)、真楽公浮屠、幻叔堂浮屠などの遺物が残っています。"
+        },
+        {
+            "question": "高麗時代の庭園を知ることができる重要な遺跡は何ですか？",
+            "answer": "高麗時代の庭園を知ることができる重要な遺跡は、イ・ジャヒョンが隠れていた文殊院と霊場です。"
+        }
+    ],
+    "word_Count": {
+        "text": 234,
+        "QA": 191
+    }
+}

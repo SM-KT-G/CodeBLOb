@@ -1,0 +1,55 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_009885",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42010&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "금정 ZOOM 줌 운영 정책"
+    },
+    "text": "チェックインは18:00に可能で、チェックアウトは13:00までです。 入室時間のご案内です。 また、それぞれの客室にはPCとWi-Fiが完備されており、ヘアドライヤーも提供しています。 マルチ充電器(5ピン/iPhone/Cタイプ)も簡単に備えられています。 さらに、レンズケースとレニュー液も無償で提供されます。 室内駐車場も利用可能で、各階には割り箸とスプーンが配置されています。 そしてブランド品も無償で提供されます。",
+    "QA": [
+        {
+            "question": "チェックインは何時から可能ですか？",
+            "answer": "チェックインは18:00から可能です。"
+        },
+        {
+            "question": "チェックアウトは何時までですか？",
+            "answer": "チェックアウトは13:00までです。"
+        },
+        {
+            "question": "客室にはどのような設備がありますか？",
+            "answer": "それぞれの客室にはPCとWi-Fiが完備されており、ヘアドライヤーも提供しています。"
+        },
+        {
+            "question": "マルチ充電器は利用できますか？",
+            "answer": "はい、マルチ充電器(5ピン/iPhone/Cタイプ)も簡単に備えられています。"
+        },
+        {
+            "question": "レンズケースとレニュー液は提供されますか？",
+            "answer": "はい、レンズケースとレニュー液も無償で提供されます。"
+        },
+        {
+            "question": "室内駐車場は利用できますか？",
+            "answer": "はい、室内駐車場も利用可能です。"
+        },
+        {
+            "question": "各階には何が配置されていますか？",
+            "answer": "各階には割り箸とスプーンが配置されています。"
+        },
+        {
+            "question": "ブランド品は無償で提供されますか？",
+            "answer": "はい、ブランド品も無償で提供されます。"
+        }
+    ],
+    "word_Count": {
+        "text": 156,
+        "QA": 245
+    }
+}

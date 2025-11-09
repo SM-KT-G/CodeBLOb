@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_044262",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1103&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=02510000&ccbaCtcd=38&ccbaCpno=3413802510000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1997-12-31",
+        "domain": "문화/역사관광",
+        "title": "거창 원천정"
+    },
+    "text": "慶尚南道文化財資料である源泉は、先生が後輩養成に専念するために作った東屋だ。この東屋は壬辰倭乱の時ウィミョル謀議をしたりもした場所として知られている。精子は朝鮮宣祖20年に初めて作られた4両編成の木造瓦屋根であり、後に粛宗10年に変更された。現在は表4間・側面1間で構成され、切妻屋根の形を持っている。精子には『源泉の正史機』、『源泉の正史重唱棟上げ』などの文書と、時価ドロクドェオいる。",
+    "QA": [
+        {
+            "question": "源泉は何のために作られた東屋ですか？",
+            "answer": "源泉は先生が後輩養成に専念するために作られた東屋です。"
+        },
+        {
+            "question": "源泉はどのような場所で知られていますか？",
+            "answer": "源泉は壬辰倭乱の時ウィミョル謀議をしたりもした場所として知られています。"
+        },
+        {
+            "question": "精子はいつ作られた木造瓦屋根でしたか？",
+            "answer": "精子は朝鮮宣祖20年に初めて作られた木造瓦屋根でした。"
+        },
+        {
+            "question": "精子は後に何年に変更されましたか？",
+            "answer": "精子は粛宗10年に変更されました。"
+        },
+        {
+            "question": "現在の精子はどのような形を持っていますか？",
+            "answer": "現在の精子は表4間・側面1間で構成され、切妻屋根の形を持っています。"
+        },
+        {
+            "question": "精子にはどのような文書や時価ドロクドェオがあるのですか？",
+            "answer": "精子には『源泉の正史機』、『源泉の正史重唱棟上げ』などの文書と、時価ドロクドェオがあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 142,
+        "QA": 227
+    }
+}

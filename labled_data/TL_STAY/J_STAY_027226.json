@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_027226",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.goodchoice.kr/product/detail?ano=69790&adcno=1&sel_date=2023-11-07&sel_date2=2023-11-08",
+        "collectedDate": "2023-11-15",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "목포 호텔 텐-Ten"
+    },
+    "text": "駐車場情報:駐車場には電気自動車充電器2台が備えられています。 客室の内部施設:すべての客室でNetflixとYouTubeを視聴でき、客室はリフォームが完了し、グースダウン寝具類が追加されました。 追加案内:宿泊券付きのレビューイベントが実施中です。 イベントページをご確認ください。",
+    "QA": [
+        {
+            "question": "駐車場には何台の電気自動車充電器がありますか？",
+            "answer": "駐車場には2台の電気自動車充電器があります。"
+        },
+        {
+            "question": "客室の内部施設には何がありますか？",
+            "answer": "すべての客室でNetflixとYouTubeを視聴でき、客室はリフォームが完了し、グースダウン寝具類が追加されました。"
+        },
+        {
+            "question": "現在実施中の追加案内はありますか？",
+            "answer": "現在実施中の追加案内は宿泊券付きのレビューイベントです。イベントページをご確認ください。"
+        }
+    ],
+    "word_Count": {
+        "text": 104,
+        "QA": 133
+    }
+}

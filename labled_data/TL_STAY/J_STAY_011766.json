@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_011766",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42060&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "태안 만리포 호텔 운영 정책"
+    },
+    "text": "チェックインは午後3時から可能で、チェックアウトは午前11時までです。 入室および利用時間に関する案内事項は次のとおりです。 ご予約の場合、特別特典を受けることができ、すべての客室にはWi-Fiが設置されています。 一般客室から家族用で使用できる広い客室とベッドルーム、オンドル部屋など様々な種類の客室があります。",
+    "QA": [
+        {
+            "question": "チェックインとチェックアウトの時間は何時ですか？",
+            "answer": "チェックインは午後3時から可能で、チェックアウトは午前11時までです。"
+        },
+        {
+            "question": "入室および利用時間に関する案内事項はありますか？",
+            "answer": "入室および利用時間に関する案内事項は、チェックインは午後3時から可能で、チェックアウトは午前11時までとなっております。"
+        },
+        {
+            "question": "予約すると特典はありますか？",
+            "answer": "予約された場合、特別特典を受けることができます。"
+        },
+        {
+            "question": "客室にはWi-Fiがありますか？",
+            "answer": "はい、すべての客室にはWi-Fiが設置されています。"
+        },
+        {
+            "question": "客室の種類は何種類ありますか？",
+            "answer": "一般客室から家族用で使用できる広い客室やベッドルーム、オンドル部屋など様々な種類の客室がございます。"
+        }
+    ],
+    "word_Count": {
+        "text": 115,
+        "QA": 211
+    }
+}

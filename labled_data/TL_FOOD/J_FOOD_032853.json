@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_032853",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/luden-loquen-space",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "カフェLN（Luden Loquen SPACE）"
+    },
+    "text": "カフェLN（Luden Loquen SPACE）\\n\nソウル特別市 鍾路区 北村路5ナキル 5 )\\n\nカフェLNは北村にある韓屋を利用したカフェで「ただお茶を飲むところ」以上の価値を提供すべく様々な努力をしています。国内はもちろん世界各国からの旅行客も訪れています。店内は韓国の伝統建築物を利用したスペースと現代が見事に調和し、その魅力に加え五味子、かりん、木苺、菊花茶などお茶一杯にも各名産地の最高品質の材料だけを厳選しています。",
+    "QA": [
+        {
+            "question": "このカフェはどこにありますか？",
+            "answer": "カフェLN（Luden Loquen SPACE）はソウル特別市鍾路区北村路5ナキル 5にあります。"
+        },
+        {
+            "question": "このカフェは何を提供していますか？",
+            "answer": "カフェLNはただお茶を飲むところ以上の価値を提供すべく、様々な努力をしています。"
+        },
+        {
+            "question": "このカフェの特徴は何ですか？",
+            "answer": "カフェLNは韓国の伝統建築物を利用したスペースと現代が見事に調和しており、五味子やかりん、木苺、菊花茶などの最高品質のお茶を提供しています。"
+        },
+        {
+            "question": "このカフェにはどんな客が訪れていますか？",
+            "answer": "カフェLNには国内はもちろん世界各国からの旅行客も訪れています。"
+        }
+    ],
+    "word_Count": {
+        "text": 159,
+        "QA": 189
+    }
+}

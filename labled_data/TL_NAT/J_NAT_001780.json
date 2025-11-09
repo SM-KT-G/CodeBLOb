@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_001780",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=317&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=16&ccbaAsno=04850000&ccbaCtcd=36&ccbaCpno=1363604850000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2007-10-08",
+        "domain": "자연관광",
+        "title": "구례 화엄사 매화"
+    },
+    "text": "クレ・ファオムサ 매화 (구례 화엄사 매화)\\n\n全羅南道求礼郡馬山面黄田里山20-1番地\\n\nチョニョンギニョンムル , 華厳寺吉祥庵前の急傾斜地の竹林の中に育つ木だ。 元々4本あったが、3本は死んで1本だけが残った。 梅の木は中国が原産地として私たちが植えて育てる大部分は花がきれいな品種を選んで接ぎ木で繁殖させる。 しかし、この梅の木は俗称野梅として知られているが、人や動物が梅の果肉を食べて捨てた種が芽が出て育った木と推測されるためだ。 このような野梅は花と実が栽培梅より小さいが、花の香りはむしろ強いのが特徴を持っており学術的価値が大きい。",
+    "QA": [
+        {
+            "question": "この梅の木はどこにありますか？",
+            "answer": "全羅南道求礼郡馬山面黄田里山20-1番地にあります。"
+        },
+        {
+            "question": "この梅の木は何本ありますか？",
+            "answer": "元々4本ありましたが、今は1本だけ残っています。"
+        },
+        {
+            "question": "この梅の木はどのように育ってきたのですか？",
+            "answer": "この梅の木は俗称野梅として知られており、人や動物が梅の果肉を食べて捨てた種が芽が出て育った木と推測されています。"
+        },
+        {
+            "question": "野梅と栽培梅はどう違いますか？",
+            "answer": "野梅は花と実が栽培梅より小さいですが、花の香りはむしろ強い特徴を持っており、学術的価値が大きいです。"
+        },
+        {
+            "question": "梅の木はどのように繁殖させるのですか？",
+            "answer": "一般的には花がきれいな品種を選んで接ぎ木で繁殖させます。"
+        }
+    ],
+    "word_Count": {
+        "text": 202,
+        "QA": 196
+    }
+}

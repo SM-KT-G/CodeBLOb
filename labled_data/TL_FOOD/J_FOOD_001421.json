@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001421",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-08-27",
+        "domain": "음식점",
+        "title": "APE SEOUL ( 아뻬서울 )"
+    },
+    "text": "APE SEOUL ( 아뻬서울 )\\n\nソウル特別市 鐘路区 昌慶宮路35ナキル 1\\n\n他の店では味わえない蜂蜜ケーキが味わえます。ソウル特別市のジョンノ区に位置したカフェ（コーヒーショップ）です。代表的なメニューはコーヒーです。",
+    "QA": [
+        {
+            "question": "このカフェの場所はどこですか？",
+            "answer": "ソウル特別市のジョンノ区に位置しています。"
+        },
+        {
+            "question": "このカフェの代表的なメニューは何ですか？",
+            "answer": "コーヒーです。"
+        },
+        {
+            "question": "このカフェで他に何が楽しめますか？",
+            "answer": "他の店では味わえない蜂蜜ケーキが味わえます。"
+        }
+    ],
+    "word_Count": {
+        "text": 85,
+        "QA": 74
+    }
+}

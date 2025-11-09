@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_003686",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-06",
+        "domain": "음식점",
+        "title": "オチュ ( 어쭈 )"
+    },
+    "text": "オチュ ( 어쭈 )\\n\n釜山広域市 釜山鎮区 ソミョンロ26\\n\n旬の貝を使った貝の蒸し物と貝焼きの名店です。釜山広域市のブサンジン区に位置した韓食専門店です。代表的なメニューは貝の蒸し物です。",
+    "QA": [
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "この店は釜山広域市の釜山鎮区に位置しています。具体的な住所はソミョンロ26です。"
+        },
+        {
+            "question": "この店ではどのような料理が提供されていますか？",
+            "answer": "この店では主に貝の蒸し物や貝焼きなど、旬の貝を使った料理が提供されています。"
+        },
+        {
+            "question": "この店の代表的なメニューは何ですか？",
+            "answer": "この店の代表的なメニューは貝の蒸し物です。"
+        }
+    ],
+    "word_Count": {
+        "text": 71,
+        "QA": 112
+    }
+}

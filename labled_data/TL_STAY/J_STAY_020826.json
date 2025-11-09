@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_020826",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.goodchoice.kr/product/detail?ano=51283&adcno=1&sel_date=2023-11-07&sel_date2=2023-11-08",
+        "collectedDate": "2023-11-15",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "초정 S"
+    },
+    "text": "大型バス8台以上駐車可能な駐車施設を保有しています。 各客室にはTV、ヘアドライヤー、Wi-Fi、エアコン、冷蔵庫、電気ケトル、IPTVが備えられています。 一部の客室には、浴槽、ガウン、ソファ、卓上と椅子、鏡が備えられています。",
+    "QA": [
+        {
+            "question": "客室にはどのような設備が備えられていますか？",
+            "answer": "各客室にはTV、ヘアドライヤー、Wi-Fi、エアコン、冷蔵庫、電気ケトル、IPTVが備えられています。"
+        },
+        {
+            "question": "一部の客室にはどのような特典がありますか？",
+            "answer": "一部の客室には、浴槽、ガウン、ソファ、卓上と椅子、鏡が備えられています。"
+        },
+        {
+            "question": "駐車場は何台分利用できますか？",
+            "answer": "大型バス8台以上駐車可能な駐車施設を保有しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 84,
+        "QA": 125
+    }
+}

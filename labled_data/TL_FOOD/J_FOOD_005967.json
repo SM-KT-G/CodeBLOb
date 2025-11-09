@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_005967",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-05",
+        "domain": "음식점",
+        "title": "コブッコル安東素麺 ( 거북골안동국시 )"
+    },
+    "text": "コブッコル安東素麺 ( 거북골안동국시 )\\n\n慶尚北道 アンドン市 ゴブクゴルギル21-7\\n\n安東地域ならではの麺が味わえる店です。おすすめはアンドン素麺です。慶尚北道のアンドン市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "このお店の名前は何ですか？",
+            "answer": "コブッコル安東素麺 ( 거북골안동국시 )"
+        },
+        {
+            "question": "このお店はどこにありますか？",
+            "answer": "慶尚北道 アンドン市 ゴブクゴルギル21-7"
+        },
+        {
+            "question": "このお店では何が食べられますか？",
+            "answer": "アンドン素麺がおすすめです。"
+        },
+        {
+            "question": "このお店はどんな特徴がありますか？",
+            "answer": "慶尚北道のアンドン市に位置し、安東地域ならではの麺を味わえる店です。"
+        }
+    ],
+    "word_Count": {
+        "text": 77,
+        "QA": 110
+    }
+}

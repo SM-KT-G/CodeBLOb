@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_055319",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/sotttukkeong-saengmakchang",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "ソットゥコン生マクチャン"
+    },
+    "text": "ソットゥコン生マクチャン\\n\n慶尚北道 アンドン市 グァンソク1ギル27-33\\n\n豚の特殊部位を焼いて食べる店です。慶尚北道のアンドン市に位置した韓食専門店です。代表的なメニューはマクチャンです。",
+    "QA": [
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "この店は慶尚北道のアンドン市に位置しています。具体的な住所はグァンソク1ギル27-33です。"
+        },
+        {
+            "question": "この店の特徴的なメニューは何ですか？",
+            "answer": "この店の代表的なメニューはマクチャンです。マクチャンは豚の特殊部位を焼いて食べる料理です。"
+        },
+        {
+            "question": "この店はどのような店ですか？",
+            "answer": "この店は韓食専門店であり、豚の特殊部位を焼いて食べることができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 72,
+        "QA": 124
+    }
+}

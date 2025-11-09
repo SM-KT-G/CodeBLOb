@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_097687",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=368&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=00050000&ccbaCtcd=32&ccbaCpno=2113200050000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1971-12-16",
+        "domain": "문화/역사관광",
+        "title": "일산동오층석탑"
+    },
+    "text": "江原道特別自治道有形文化財である塔は本来、原州市中央洞弊社地に位置し、1962年5月に江原道ガムヨントに移転された。以後、2000年には鳳山洞市立博物館野外に移転され、展示されている。塔は基壇の上に5階の塔身が上がる形であり、基壇は大きな石で作られていて君の角と各面の中には円柱の彫刻が置かれている。塔身の石核にも角ごとに柱を模して作った。塔は上に日増しに減っている割合と整頓した形態を持っている。ジブンドルは薄くて子音字が3段ずつだが、一部破損した部分がある。塔の様式からみて、高麗時代に建てたと推測される。",
+    "QA": [
+        {
+            "question": "この塔はどこに最初に位置していましたか？",
+            "answer": "この塔は本来、原州市中央洞弊社地に位置していました。"
+        },
+        {
+            "question": "どのような形状の基壇が塔の下にありますか？",
+            "answer": "基壇は大きな石で作られており、各面の中には円柱の彫刻が置かれています。"
+        },
+        {
+            "question": "塔身の構造はどのようになっていますか？",
+            "answer": "塔身は5階建てで、石核には角ごとに柱を模した彫刻が施されています。"
+        },
+        {
+            "question": "この塔はどの時代に建てられたと推測されていますか？",
+            "answer": "塔の様式から見て、高麗時代に建てられたと推測されています。"
+        },
+        {
+            "question": "この塔はどのような移転を経て現在の場所に展示されていますか？",
+            "answer": "この塔は1962年に江原道ガムヨントに移転され、その後2000年に鳳山洞市立博物館野外に移転されて展示されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 187,
+        "QA": 217
+    }
+}

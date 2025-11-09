@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_022610",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-09-01",
+        "domain": "음식점",
+        "title": "西村マク刺身センター ( 서촌막회센타 )"
+    },
+    "text": "西村マク刺身センター ( 서촌막회센타 )\\n\nソウル特別市 鐘路区 紫霞門路1キル 49\\n\nコスパのいい刺身屋です。ソウル特別市のジョンノ区に位置した刺身屋です。代表的なメニューは雑魚の刺身です。",
+    "QA": [
+        {
+            "question": "西村マク刺身センターはどこにありますか？",
+            "answer": "西村マク刺身センターはソウル特別市鐘路区紫霞門路1キル 49に位置しています。"
+        },
+        {
+            "question": "西村マク刺身センターの特徴は何ですか？",
+            "answer": "西村マク刺身センターの特徴はコスパのいい刺身屋であり、代表的なメニューは雑魚の刺身です。"
+        },
+        {
+            "question": "西村マク刺身センターのメニューには何がありますか？",
+            "answer": "西村マク刺身センターの代表的なメニューは雑魚の刺身ですが、その他にもさまざまな種類の刺身があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 73,
+        "QA": 144
+    }
+}

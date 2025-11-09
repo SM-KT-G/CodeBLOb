@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_026806",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-02",
+        "domain": "음식점",
+        "title": "注文津ウツボスープ ( 주문진곰치국 )"
+    },
+    "text": "注文津ウツボスープ ( 주문진곰치국 )\\n\n江原道 ガンヌン市 ジュムンジン邑 ジュムンロ150\\n\nテレビでよく紹介される名店です。代表的なメニューはウツボスープです。江原道のガンヌン市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "このレストランの場所はどこですか？",
+            "answer": "江原道のガンヌン市のジュムンジン邑のジュムンロ150にあります。"
+        },
+        {
+            "question": "このレストランの代表的なメニューは何ですか？",
+            "answer": "代表的なメニューはウツボスープです。"
+        },
+        {
+            "question": "このレストランはどのような種類の料理を提供していますか？",
+            "answer": "このレストランは韓食専門店で、韓国料理を提供しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 79,
+        "QA": 106
+    }
+}

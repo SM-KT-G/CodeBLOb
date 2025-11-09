@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_020639",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "明洞キル辛辛（명동길신신）"
+    },
+    "text": "明洞キル辛辛（명동길신신）\\n\nソウル特別市 中区 南大門路 64\\n\nソウル特別市のミョン洞に位置した韓食です。ネギ焼肉も有名なメニューです。代表的なメニューは辛味牛カルビの蒸し物です。",
+    "QA": [
+        {
+            "question": "明洞キル辛辛（명동길신신）はどこに位置していますか？",
+            "answer": "ソウル特別市 中区 南大門路 64に位置しています。"
+        },
+        {
+            "question": "明洞キル辛辛（명동길신신）の代表的なメニューは何ですか？",
+            "answer": "辛味牛カルビの蒸し物が代表的なメニューです。"
+        },
+        {
+            "question": "明洞キル辛辛（명동길신신）の特徴的な料理はありますか？",
+            "answer": "ネギ焼肉が特徴的な料理です。"
+        }
+    ],
+    "word_Count": {
+        "text": 68,
+        "QA": 104
+    }
+}

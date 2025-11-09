@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_006664",
+        "source": "도서",
+        "writer": "박정배",
+        "ISBN_ISNN": "978-89-9882-225-5",
+        "version": "초판",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "푸드 인 더 시티",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2016-09-29",
+        "domain": "음식점",
+        "title": "메가MGC커피 남원도통점"
+    },
+    "text": "こんにちは。メガコーヒー南原トトン店です。 ポンクラッシュはプレーン、バナナ、イチゴ味で、価格は3,900ウォンです。アメリカーノはICEとHOTで選択でき、ICEは2,000ウォン、HOTは1,500ウォンです。",
+    "QA": [
+        {
+            "question": "ポンクラッシュにはどんな味がありますか？",
+            "answer": "プレーン、バナナ、イチゴ味があります。"
+        },
+        {
+            "question": "ポンクラッシュの価格はいくらですか？",
+            "answer": "ポンクラッシュの価格は3,900ウォンです。"
+        },
+        {
+            "question": "アメリカーノにはICEとHOTの選択肢がありますか？",
+            "answer": "はい、アメリカーノはICEとHOTから選べます。"
+        },
+        {
+            "question": "アメリカーノのICEとHOTの価格はいくらですか？",
+            "answer": "ICEは2,000ウォン、HOTは1,500ウォンです。"
+        }
+    ],
+    "word_Count": {
+        "text": 78,
+        "QA": 133
+    }
+}

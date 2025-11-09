@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_017771",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-03",
+        "domain": "음식점",
+        "title": "金剛山刺身専門店 ( 금강산횟집 )"
+    },
+    "text": "金剛山刺身専門店 ( 금강산횟집 )\\n\n江原道 ガンヌン市 ヘアンロ604ボンギル7\\n\n様々な種類の活魚の刺身を提供する店です。代表的なメニューは生テナガダコです。江原道のガンヌン市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "店名は何ですか？",
+            "answer": "店名は金剛山刺身専門店（금강산횟집）です。"
+        },
+        {
+            "question": "金剛山刺身専門店はどこに位置していますか？",
+            "answer": "金剛山刺身専門店は江原道のガンヌン市ヘアンロ604ボンギル7に位置しています。"
+        },
+        {
+            "question": "金剛山刺身専門店はどんな料理を提供していますか？",
+            "answer": "金剛山刺身専門店では様々な種類の活魚の刺身を提供しています。代表的なメニューは生テナガダコです。"
+        }
+    ],
+    "word_Count": {
+        "text": 77,
+        "QA": 118
+    }
+}

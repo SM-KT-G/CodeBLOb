@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_007323",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2022-09-22",
+        "domain": "문화/역사관광",
+        "title": "경주 신무왕릉"
+    },
+    "text": "慶州 神武王陵 (경주 신무왕릉)\\n\n慶尚北道慶州市後谷アンギル13\\n\n慶州市東方洞に位置する新羅第45代神武王の陵墓。山麓の少し傾斜した地点を利用して作った円形の土墳で、表飾儀物がない。神武王は王位争奪戦が激しかった頃、清海鎭大使の張保皐に擁立され、閔哀王を殺害して王位に就きました。",
+    "QA": [
+        {
+            "question": "この陵墓はどこに位置していますか？",
+            "answer": "慶州市東方洞に位置しています。"
+        },
+        {
+            "question": "神武王の陵墓はどのような形状ですか？",
+            "answer": "神武王の陵墓は円形の土墳で、山麓の少し傾斜した地点を利用して作られています。"
+        },
+        {
+            "question": "神武王の陵墓には表飾儀物がありますか？",
+            "answer": "神武王の陵墓には表飾儀物はありません。"
+        },
+        {
+            "question": "神武王はどのような経緯で王位に就きましたか？",
+            "answer": "神武王は王位争奪戦が激しかった頃、清海鎭大使の張保皐に擁立され、閔哀王を殺害して王位に就きました。"
+        }
+    ],
+    "word_Count": {
+        "text": 106,
+        "QA": 144
+    }
+}

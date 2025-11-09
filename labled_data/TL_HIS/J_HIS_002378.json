@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_002378",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000501160#",
+        "collectedDate": "2023-09-05",
+        "publishedDate": "2016-05-30",
+        "domain": "문화/역사관광",
+        "title": "げんちゃんや"
+    },
+    "text": "げんちゃんや\n済州特別自治道済州市ウォルグァン路140\n田舎で直接栽培した野菜を使って新鮮な食べ物を低価格で提供する場所で、学生や図書館利用者がよく訪れるボリュームたっぷりの食事ができる。",
+    "QA": [
+        {
+            "question": "場所はどこですか？",
+            "answer": "済州特別自治道済州市ウォルグァン路140にあります。"
+        },
+        {
+            "question": "どのような食べ物が提供されていますか？",
+            "answer": "田舎で直接栽培した野菜を使った新鮮な食べ物が提供されています。"
+        },
+        {
+            "question": "価格はどれくらいですか？",
+            "answer": "低価格で提供されています。"
+        },
+        {
+            "question": "どのような客層が訪れますか？",
+            "answer": "学生や図書館利用者などがよく訪れます。"
+        },
+        {
+            "question": "食事はボリュームたっぷりですか？",
+            "answer": "はい、ボリュームたっぷりの食事が楽しめます。"
+        }
+    ],
+    "word_Count": {
+        "text": 68,
+        "QA": 132
+    }
+}

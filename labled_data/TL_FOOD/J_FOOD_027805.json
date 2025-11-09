@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_027805",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-13",
+        "domain": "음식점",
+        "title": "清海鎮( 청해진 )"
+    },
+    "text": "清海鎮\\n\nソウル特別市 江東区 ソンネロ6ギル33\\n\n30年以上受け継がれ、長い間、お客様から変わらず愛されてきた老舗です。ソウル特別市のガンドン区に位置したです。代表的なメニューは海鮮のチヂミです。",
+    "QA": [
+        {
+            "question": "この老舗の名前は何ですか？",
+            "answer": "この老舗の名前は清海鎮です。"
+        },
+        {
+            "question": "この老舗の場所はどこですか？",
+            "answer": "この老舗はソウル特別市江東区ソンネロ6ギル33に位置しています。"
+        },
+        {
+            "question": "この老舗で代表的なメニューは何ですか？",
+            "answer": "この老舗で代表的なメニューは海鮮のチヂミです。"
+        },
+        {
+            "question": "この老舗は何年以上続いていますか？",
+            "answer": "この老舗は30年以上続いています。"
+        },
+        {
+            "question": "この老舗はどのような評判ですか？",
+            "answer": "この老舗は長い間、お客様から変わらず愛されてきたと評判です。"
+        }
+    ],
+    "word_Count": {
+        "text": 74,
+        "QA": 143
+    }
+}

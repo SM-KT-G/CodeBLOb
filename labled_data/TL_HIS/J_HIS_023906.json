@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_023906",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1040&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=01080000&ccbaCtcd=37&ccbaCpno=3413701080000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1985-08-05",
+        "domain": "문화/역사관광",
+        "title": "십사의사록판목"
+    },
+    "text": "十四の四六判目 (십사의사록판목)\\n\n慶尚北道清道郡\\n\n慶尚北道文化財資料 , 壬辰倭乱の時、密陽朴氏門中の14人が義兵運動を起こし、倭敵と戦ったことを記録して刻んだ木版だ。 206枚で構成されており、1枚に20行18字で構成されている。 本の刊行において基礎としたのは正祖18年(1794)あるいは21年(1797)に刊行された『忠孝録』や、子孫のパク·ジョンサンが書いた『パク氏忠孝録』だ。 しかし、これらの資料は全て壬辰倭乱当時の記録ではなく、200年余りが過ぎた後の事実であり、その資料的価値に限界を持っている。 既存の史料では知られていない壬辰倭乱当時の地域戦闘状況と戦争克服に対する具体的な状況が叙述されており、歴史的に示唆するところが大きい。",
+    "QA": [
+        {
+            "question": "この木版は何で作られていますか？",
+            "answer": "この木版は壬辰倭乱の時に義兵運動を起こした密陽朴氏門中の14人によって刻まれました。"
+        },
+        {
+            "question": "この木版は何枚で構成されていますか？",
+            "answer": "この木版は206枚で構成されています。"
+        },
+        {
+            "question": "1枚の木版には何行何字で構成されていますか？",
+            "answer": "1枚の木版には20行18字で構成されています。"
+        },
+        {
+            "question": "この木版の刊行に基礎となった資料は何ですか？",
+            "answer": "この木版の刊行に基礎となった資料は『忠孝録』や『パク氏忠孝録』です。"
+        },
+        {
+            "question": "この木版にはどのような具体的な状況が叙述されていますか？",
+            "answer": "この木版には壬辰倭乱当時の地域戦闘状況と戦争克服に対する具体的な状況が叙述されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 242,
+        "QA": 196
+    }
+}

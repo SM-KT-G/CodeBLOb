@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_105974",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=940&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=24&ccbaAsno=01740000&ccbaCtcd=37&ccbaCpno=2443701740000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2013-04-08",
+        "domain": "문화/역사관광",
+        "title": "청도 운남고택"
+    },
+    "text": "清道 ウンナム・ゴテク\\n\n慶尚北道清道郡仙岩路476(衿川面、ジャンケンミョン)\\n\n慶尚北道民俗文化財、朝鮮後期の雲岡パクシムクの息子パクジェチュン(1850∼1869)が分家しながら立てた家だ。雲岡古宅の西側にあるこの家ははけ村特有のㅡ字型に配置されている。門屋を入ると正面にはサランチェが見えて、サランチェ左に母屋とつながる門がある。その内側には納屋と母屋を分離して…字型に配置した。サランチェの大青(テチョン)の堰と堰をにたまる方式が特徴的で大青(テチョン)に故人堰の末には太極の模様を描いていた。",
+    "QA": [
+        {
+            "question": "この家の建設年はいつですか？",
+            "answer": "雲岡パクシムクの息子パクジェチュンが建てた家は1850年から1869年に建設されました。"
+        },
+        {
+            "question": "この家の配置はどのような形をしていますか？",
+            "answer": "この家ははけ村特有のㅡ字型に配置されています。"
+        },
+        {
+            "question": "サランチェの大青(テチョン)の特徴的な点は何ですか？",
+            "answer": "サランチェの大青(テチョン)の堰と堰をにたまる方式が特徴的で、大青(テチョン)に故人堰の末には太極の模様を描いています。"
+        }
+    ],
+    "word_Count": {
+        "text": 186,
+        "QA": 137
+    }
+}

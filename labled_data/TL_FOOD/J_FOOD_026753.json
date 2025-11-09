@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_026753",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "鐘路ソルロンタン（종로설렁탕）"
+    },
+    "text": "鐘路ソルロンタン（종로설렁탕）\\n\nソウル特別市 鐘路区 鐘路 110\\n\n鐘路ソルロンタンはソウル特別市の鐘路に位置する韓食専門店です。代表メニューはソルロンタンです。",
+    "QA": [
+        {
+            "question": "鐘路ソルロンタンはどこにありますか？",
+            "answer": "鐘路ソルロンタンはソウル特別市の鐘路に位置しています。"
+        },
+        {
+            "question": "鐘路ソルロンタンの代表メニューは何ですか？",
+            "answer": "鐘路ソルロンタンの代表メニューはソルロンタンです。"
+        },
+        {
+            "question": "鐘路ソルロンタンの特徴は何ですか？",
+            "answer": "鐘路ソルロンタンの特徴は、美味しい韓国料理を提供していることです。"
+        },
+        {
+            "question": "ソルロンタンとはどのような料理ですか？",
+            "answer": "ソルロンタンは、豚の骨からとったスープに牛肉や牛の内臓、野菜などを入れた韓国の料理です。"
+        }
+    ],
+    "word_Count": {
+        "text": 62,
+        "QA": 149
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_006184",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://apis.data.go.kr/1400000/service/cultureInfoService2/mntInfoOpenAPI2",
+        "collectedDate": "2023-11-22",
+        "publishedDate": "2020-12-01",
+        "domain": "자연관광",
+        "title": "군유산"
+    },
+    "text": "群遊山 (군유산)\\n\n全羅南道咸平郡新光面メダカ\\n\n山の高さ : 405.4m , 霊光郡郡南面と咸平郡の境界にある山で、岩を見るのが難しいほど山勢が柔らかい陸山だ。 高さは403メートルだ。 山勢が険しくて危険負傷があり、随所に蛇の穴がある。 山勢が君主の威風に似ていることから君子山ともいわれる。",
+    "QA": [
+        {
+            "question": "この山の名前は何ですか？",
+            "answer": "この山の名前は群遊山です。"
+        },
+        {
+            "question": "この山の高さはどれくらいですか？",
+            "answer": "この山の高さは405.4mです。"
+        },
+        {
+            "question": "この山はどの地域にありますか？",
+            "answer": "この山は全羅南道咸平郡新光面にあります。"
+        },
+        {
+            "question": "この山はどのような特徴を持っていますか？",
+            "answer": "この山は岩がなく柔らかい陸山で、山勢が君主の威風に似ていることから君子山とも呼ばれています。"
+        },
+        {
+            "question": "この山には何か危険な点がありますか？",
+            "answer": "この山は山勢が険しく、危険負傷があるほか、蛇の穴も随所にありますので注意が必要です。"
+        }
+    ],
+    "word_Count": {
+        "text": 111,
+        "QA": 159
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_095523",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=478&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=01350000&ccbaCtcd=33&ccbaCpno=2113301350000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1983-11-30",
+        "domain": "문화/역사관광",
+        "title": "을축갑회도 및 죽림갑계문서"
+    },
+    "text": "朝鮮時代には乙丑ガプギェの会員たちの還暦を記念して絵とギェムンソを作った。乙丑ガプギェは1625年に作られた親睦会で、11人の学者たちが清州(チョンジュ)地方で組織した。このフェドヌン1686年に7人のメンバーが62歳になる席に座って姿を描いた絵である。この絵は清州(チョンジュ)の菩薩寺を背景にして、メンバーらの子孫がその前に立っている。その後、この会は、子孫らに続いて日朝面に竹林霊堂を立てるようになった。しかし、1979年に空軍飛行場建設によって運ばれ、現在の位置にあり、秋と春には祭祀が行われている。",
+    "QA": [
+        {
+            "question": "この乙丑ガプギェの会員たちはいつ結成されましたか？",
+            "answer": "1625年に清州(チョンジュ)地方で結成されました。"
+        },
+        {
+            "question": "乙丑ガプギェの会員たちはどのような場所で姿を描かれましたか？",
+            "answer": "菩薩寺を背景にして姿を描かれました。"
+        },
+        {
+            "question": "乙丑ガプギェの会員たちの還暦を記念して何が作られましたか？",
+            "answer": "絵とギェムンソが作られました。"
+        },
+        {
+            "question": "乙丑ガプギェの会は、どのような形で後世に残されていますか？",
+            "answer": "子孫らが日朝面に竹林霊堂を立てるようになり、現在は秋と春に祭祀が行われています。"
+        }
+    ],
+    "word_Count": {
+        "text": 186,
+        "QA": 155
+    }
+}

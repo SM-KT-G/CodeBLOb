@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001854",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/long-bread",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "LONG BREAD"
+    },
+    "text": "LONG BREAD\\n\n江原道 ガンヌン市 チャンヘロ14ボンギル10\\n\n安木海岸に位置するブランチカフェです。代表的なメニューはサンドイッチです。江原道のガンヌン市に位置した洋食屋です。",
+    "QA": [
+        {
+            "question": "このブランチカフェはどこに位置していますか？",
+            "answer": "このブランチカフェは江原道のガンヌン市に位置しています。"
+        },
+        {
+            "question": "このブランチカフェの代表的なメニューは何ですか？",
+            "answer": "このブランチカフェの代表的なメニューはサンドイッチです。"
+        },
+        {
+            "question": "このブランチカフェは何を提供していますか？",
+            "answer": "このブランチカフェは洋食を提供しています。"
+        },
+        {
+            "question": "このブランチカフェはどのような雰囲気ですか？",
+            "answer": "このブランチカフェは安木海岸に位置しており、リラックスした雰囲気です。"
+        }
+    ],
+    "word_Count": {
+        "text": 70,
+        "QA": 147
+    }
+}

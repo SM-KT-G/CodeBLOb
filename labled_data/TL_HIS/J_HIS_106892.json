@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_106892",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=411&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=00470000&ccbaCtcd=37&ccbaCpno=2113700470000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1974-12-10",
+        "domain": "문화/역사관광",
+        "title": "청량사 유리보전"
+    },
+    "text": "清涼寺ガラス保全\\n\n慶尚北道奉化郡明湖面清涼山道199-152(北谷里)\\n\n慶尚北道有形文化財、清凉山に位置した清凉寺は新羅文武王3年(663)に、元暁大師が建てた寺院である。清凉山には、連帯というお寺を中心に大小の26個の庵があって、当時の新羅仏教のゆりかごを形成した所だ。ガラスの補填は薬師如来を祀る法堂で薬師殿とも言う。いつも風が強い谷の一方の片隅に低めに作られたが、仏殿の前が絶壁と庭が狭い方だ。前面3間・側面2間規模であり、屋根側面が八(八部)字形の入母屋造りである。建物の大黒柱の下にの間柱を立てて後払い壁を設置したのは他の所では見られない特徴と重要に評価されている。",
+    "QA": [
+        {
+            "question": "清凉寺は何年に建てられましたか？",
+            "answer": "清凉寺は新羅文武王3年(663)に建てられました。"
+        },
+        {
+            "question": "清凉寺はどこに位置していますか？",
+            "answer": "清凉寺は慶尚北道奉化郡明湖面清凉山道199-152(北谷里)に位置しています。"
+        },
+        {
+            "question": "清凉寺には何個の庵がありますか？",
+            "answer": "清凉寺には大小の26個の庵があります。"
+        },
+        {
+            "question": "薬師殿とは何を祀っていますか？",
+            "answer": "薬師殿は薬師如来を祀っています。"
+        },
+        {
+            "question": "清凉寺の特徴的な建物の構造について教えてください。",
+            "answer": "清凉寺の建物は屋根側面が八(八部)字形の入母屋造りであり、大黒柱の下にの間柱を立てて後払い壁を設置した特徴があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 214,
+        "QA": 180
+    }
+}

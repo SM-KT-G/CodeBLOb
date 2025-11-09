@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_LEI_005991",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2023-07-01",
+        "domain": "레포츠",
+        "title": "강촌밸리"
+    },
+    "text": "江原道春川市南山面に位置する江村バレーは、広い大地の上にきれいなテントとして造成されています。 森に囲まれたキャンプ場は屋外プールを備えており、夏の水遊びができる良い場所です。 このキャンプ場は江原道庁と江原道庁からそれぞれ12キロ離れています。",
+    "QA": [
+        {
+            "question": "江村バレーはどこに位置していますか？",
+            "answer": "江村バレーは江原道春川市南山面に位置しています。"
+        },
+        {
+            "question": "江村バレーはどのような施設を備えていますか？",
+            "answer": "江村バレーは森に囲まれたキャンプ場で、屋外プールもあります。"
+        },
+        {
+            "question": "江村バレーは江原道庁からどれくらい離れていますか？",
+            "answer": "江村バレーは江原道庁から12キロ離れています。"
+        },
+        {
+            "question": "江村バレーは夏の水遊びに適していますか？",
+            "answer": "はい、江村バレーは夏の水遊びができる良い場所です。"
+        }
+    ],
+    "word_Count": {
+        "text": 90,
+        "QA": 137
+    }
+}

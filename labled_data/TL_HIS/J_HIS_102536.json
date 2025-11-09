@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_102536",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1252&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=79&ccbaAsno=07110000&ccbaCtcd=34&ccbaCpno=4413407110000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2018-05-08",
+        "domain": "문화/역사관광",
+        "title": "조일관계사료집"
+    },
+    "text": "1919年に大韓民国臨時政府が編纂した歴史書は、朝鮮総督府から発刊される日本の宣伝物に対抗して実状を歪曲せず、国際連盟に独立を要求するために作られたものです。この本は韓日関係史を扱っており日本の侵略性と植民地弾圧の残酷性、3.1運動の原因と展開過程などを含めた4本で構成されています。100質が作られたが、現在完全な形で伝わっているのは、独立記念館所蔵本だけです。",
+    "QA": [
+        {
+            "question": "この歴史書は何年に編纂されましたか？",
+            "answer": "1919年に大韓民国臨時政府が編纂したものです。"
+        },
+        {
+            "question": "この歴史書はどのような目的で作られたのですか？",
+            "answer": "朝鮮総督府から発刊される日本の宣伝物に対抗して実状を歪曲せず、国際連盟に独立を要求するために作られました。"
+        },
+        {
+            "question": "この歴史書には何が含まれていますか？",
+            "answer": "この本は韓日関係史を扱っており、日本の侵略性と植民地弾圧の残酷性、3.1運動の原因と展開過程などを含んでいます。"
+        }
+    ],
+    "word_Count": {
+        "text": 133,
+        "QA": 140
+    }
+}

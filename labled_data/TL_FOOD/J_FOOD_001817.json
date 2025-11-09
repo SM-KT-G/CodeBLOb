@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001817",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-06",
+        "domain": "음식점",
+        "title": "KYERYONG SPATEL 万里長城"
+    },
+    "text": "KYERYONG SPATEL 万里長城\\n\n大田広域市 ユソン区 オンチョンロ81\\n\n家族のお集まりだけでなく、団体での会食も可能です。 おすすめは白いちゃんぽんです。大田広域市のユソン区に位置した中華料理店です。",
+    "QA": [
+        {
+            "question": "このお店はどこにありますか？",
+            "answer": "万里長城は、大田広域市のユソン区に位置しています。"
+        },
+        {
+            "question": "このお店のおすすめメニューは何ですか？",
+            "answer": "おすすめは白いちゃんぽんです。"
+        },
+        {
+            "question": "このお店では団体での会食も可能ですか？",
+            "answer": "はい、家族のお集まりだけでなく、団体での会食も可能です。"
+        }
+    ],
+    "word_Count": {
+        "text": 79,
+        "QA": 88
+    }
+}

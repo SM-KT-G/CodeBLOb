@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_098171",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/collectionList#######",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2023-10-11",
+        "domain": "문화/역사관광",
+        "title": "자택에서 화초를 가꾸는 안익태 사진"
+    },
+    "text": "自宅で草花を育てるアン·イクテの写真 (자택에서 화초를 가꾸는 안익태 사진)\\n\n自宅で草花を育てるアン·イクテの姿が写真に写っています。写真の裏面には「1949」と記されています。この写真はヨーロッパのスペインで撮られたもので、材質は紙で、分類はメディアの一つである写真記録です。写真の大きさは横6cm、縦86cmです。",
+    "QA": [
+        {
+            "question": "アン・イクテは草花を育てていましたか？",
+            "answer": "はい、アン・イクテは自宅で草花を育てていました。"
+        },
+        {
+            "question": "アン・イクテの写真はどこで撮られましたか？",
+            "answer": "アン・イクテの写真はスペインで撮られました。"
+        },
+        {
+            "question": "写真の裏面には何と書かれていますか？",
+            "answer": "写真の裏面には「1949」と書かれています。"
+        },
+        {
+            "question": "写真の材質は何ですか？",
+            "answer": "写真の材質は紙です。"
+        },
+        {
+            "question": "写真の大きさはどのくらいですか？",
+            "answer": "写真の大きさは横6cm、縦86cmです。"
+        }
+    ],
+    "word_Count": {
+        "text": 119,
+        "QA": 134
+    }
+}

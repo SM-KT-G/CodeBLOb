@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_004052",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-03",
+        "domain": "음식점",
+        "title": "カジョン食堂 ( 가정식당 )"
+    },
+    "text": "カジョン食堂 ( 가정식당 )\\n\nソウル特別市 ヨンドゥンポ区 ヨンドゥンポロ118\\n\n韓国式の様々なおかずが一度に味わえる店です。ソウル特別市のヨンドゥンポ区に位置した韓食専門店です。おすすめは家庭料理定食です。",
+    "QA": [
+        {
+            "question": "このカジョン食堂はどこにありますか？",
+            "answer": "カジョン食堂はソウル特別市のヨンドゥンポ区に位置しています。"
+        },
+        {
+            "question": "カジョン食堂のおすすめは何ですか？",
+            "answer": "カジョン食堂のおすすめは家庭料理定食です。"
+        },
+        {
+            "question": "カジョン食堂で味わえるおかずは何ですか？",
+            "answer": "カジョン食堂では韓国式の様々なおかずが一度に味わえます。"
+        }
+    ],
+    "word_Count": {
+        "text": 79,
+        "QA": 98
+    }
+}

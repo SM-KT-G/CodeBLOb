@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_066891",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=639&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=04300000&ccbaCtcd=11&ccbaCpno=2111104300000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2018-10-18",
+        "domain": "문화/역사관광",
+        "title": "배자예부운략 권1~3, 권4"
+    },
+    "text": "ベジャイェブ雲略巻1~3、巻4\\n\nソウル特別市東大門区回基路56(清涼里洞、ジャン·ギロ)\\n\n朝鮮時代(1678年)、ソウル特別市有形文化財、宋の丁度が刊行した雲書を高麗と朝鮮で再び実情に合わせて刊行した本。 もともと刊行目的も過去のためのもので、高麗と朝鮮でも過去の受験者がこの本を主に利用する。 所蔵本は1678年(康熙17、粛宗4)に刊行·反射された無神資本で、これと同じ本が現在ソウル大学校奎章閣韓国学研究院と延世大学校図書館にそれぞれ5冊2冊完質が所蔵されている。 1678年に看過して司諫院司幹金塚(1633~1678)に内偵した当時の形をよく維持しており、1冊には内賜記と宣賜之印および金塚の蔵書人(光山後人、迂軒)がよく残っている。",
+    "QA": [
+        {
+            "question": "この本はいつ刊行されましたか？",
+            "answer": "この本は1678年に刊行されました。"
+        },
+        {
+            "question": "この本はどのような内容ですか？",
+            "answer": "この本は宋の丁度が刊行した雲書を高麗と朝鮮で再び実情に合わせて刊行した本です。"
+        },
+        {
+            "question": "この本はどこに所蔵されていますか？",
+            "answer": "この本は現在ソウル大学校奎章閣韓国学研究院と延世大学校図書館にそれぞれ所蔵されています。"
+        },
+        {
+            "question": "この本にはどのような印がありますか？",
+            "answer": "この本には内賜記と宣賜之印があります。また、金塚の蔵書人の名前もよく残っています。"
+        }
+    ],
+    "word_Count": {
+        "text": 239,
+        "QA": 151
+    }
+}

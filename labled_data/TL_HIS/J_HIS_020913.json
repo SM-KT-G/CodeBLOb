@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_020913",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=453&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=01020000&ccbaCtcd=32&ccbaCpno=2113201020000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1985-01-17",
+        "domain": "문화/역사관광",
+        "title": "삼척향교"
+    },
+    "text": "三陟郷校 (삼척향교)\\n\n江原道三陟市郷校路34(校洞)\\n\n江原特別自治道 有形文化財 , 郷校は立派な儒学者を祭祀し、地方民の儒学教育と教化のために国で建てた教育機関だ。 三陟郷校は太祖7年(1398)に古沙里峠の麓に建てたものを太宗7年(1407)に玉西洞月渓谷(現在のタンジョリ)に移し、世祖14年(1468)に現在地に移した。 現在、郷校には明倫堂·東斎·西斎·大成殿·東武·西武など色々な建物がある。 郷校の前方には学びの空間として学生たちが勉強していた明倫堂と学生たちの住居である東斎·西斎がある。 後方には孔子をはじめとする多くの先賢の位牌を祀って祭祀を行う大成殿と東武·庶務が祭祀空間を形成しており、転校後墓の配置を成している。 朝鮮時代には国家から土地·本·奴婢などを支給され学生たちを教えたが、甲午改革(1894)以後には教育的機能は消え、春·秋の2回にわたって祭祀だけが行われている。",
+    "QA": [
+        {
+            "question": "三陟郷校はどのような場所ですか？",
+            "answer": "三陟郷校は儒学者を祭祀し、儒学教育と教化のために建てられた教育機関です。明倫堂・東斎・西斎・大成殿・東武・西武などの建物があります。"
+        },
+        {
+            "question": "三陟郷校はいつ建てられましたか？",
+            "answer": "三陟郷校は太祖7年(1398)に古沙里峠の麓に建てられ、太宗7年(1407)に玉西洞月渓谷に移され、世祖14年(1468)に現在の場所に移されました。"
+        },
+        {
+            "question": "三陟郷校の前にある明倫堂と東斎・西斎について教えてください。",
+            "answer": "明倫堂は学生たちが勉強する場所であり、東斎・西斎は学生たちの住居です。"
+        },
+        {
+            "question": "三陟郷校の後方にある大成殿と東武・庶務について教えてください。",
+            "answer": "大成殿は孔子をはじめとする先賢の位牌を祀り、祭祀を行う場所です。東武・庶務は祭祀空間を形成しており、転校後墓の配置を成しています。"
+        },
+        {
+            "question": "三陟郷校は何のために建てられましたか？",
+            "answer": "三陟郷校は儒学教育と教化のために建てられました。"
+        }
+    ],
+    "word_Count": {
+        "text": 297,
+        "QA": 276
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_016623",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=932&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=24&ccbaAsno=00480000&ccbaCtcd=37&ccbaCpno=2443700480000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1984-05-21",
+        "domain": "문화/역사관광",
+        "title": "무실정려각"
+    },
+    "text": "無実旌閭閣 (무실정려각)\\n\n慶尚北道安東市林東面水谷里470-43番地\\n\n慶尚北道民俗文化財 , 旌閭閣は国家で風習として勧奨するために忠臣·孝子·烈女など模範となる人を表彰しようとその人が住む村の入口や家の前に建てるもので、この旌閭閣は全州ユ氏儒城の妻である義城キム氏の貞節を称えている。 義城キム氏は清渓キム·ジンの娘でありながら鶴峰キム·ソンイルの姉で、24歳で夫が喪に服すると自ら剃髪をして夫の墓を3年間守った後、断食の末に自殺した。 その後、朝廷で義城金氏の烈行を高く評価し、碑を建てるようにした。 朝鮮仁祖13年(1635)に建設され、1988年に臨河ダム建設により現在の場所に移した。",
+    "QA": [
+        {
+            "question": "旌閭閣はどこにありますか？",
+            "answer": "旌閭閣は慶尚北道安東市林東面水谷里470-43番地にあります。"
+        },
+        {
+            "question": "旌閭閣は何のために建てられましたか？",
+            "answer": "旌閭閣は風習として勧奨される忠臣・孝子・烈女などの模範的な人々を表彰するために建てられました。"
+        },
+        {
+            "question": "旌閭閣は誰を称えていますか？",
+            "answer": "旌閭閣は全州ユ氏儒城の妻である義城キム氏の貞節を称えています。"
+        },
+        {
+            "question": "義城キム氏はどのような行動をしましたか？",
+            "answer": "義城キム氏は夫が喪に服した後、自ら剃髪をし、夫の墓を3年間守った後、断食の末に自殺しました。"
+        },
+        {
+            "question": "旌閭閣はいつ建設されましたか？",
+            "answer": "旌閭閣は朝鮮仁祖13年(1635)に建設されました。"
+        },
+        {
+            "question": "旌閭閣はどのような経緯で現在の場所に移されましたか？",
+            "answer": "旌閭閣は1988年に臨河ダム建設に伴い、現在の場所に移されました。"
+        }
+    ],
+    "word_Count": {
+        "text": 221,
+        "QA": 234
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_019294",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42040&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "구례 다복실"
+    },
+    "text": "求礼郡求礼邑に位置する韓屋一軒家の多福室は、バーベキューが可能な庭と最新のリニューアル客室を備えた宿です。 華厳寺、双山斎など求礼の代表観光地は車で15分以内に訪問でき、マート、コンビニなど各種便宜施設は徒歩5分以内に位置します。 また、求礼邑にはモクウォルパン屋さん、夫婦食堂などの有名グルメ店とカフェも徒歩10分以内に位置しています。 多福室を訪れる皆様に幸運がありますように。",
+    "QA": [
+        {
+            "question": "多福室はどこに位置していますか？",
+            "answer": "多福室は求礼郡求礼邑に位置しています。"
+        },
+        {
+            "question": "多福室にはどのような設備がありますか？",
+            "answer": "多福室にはバーベキューが可能な庭と最新のリニューアル客室があります。"
+        },
+        {
+            "question": "求礼の代表的な観光地はどこですか？",
+            "answer": "求礼の代表的な観光地には華厳寺や双山斎があります。"
+        },
+        {
+            "question": "求礼の便利施設はどのくらいの距離にありますか？",
+            "answer": "求礼の便利施設は徒歩5分以内に位置しています。"
+        },
+        {
+            "question": "求礼の有名なグルメ店やカフェはどこにありますか？",
+            "answer": "求礼の有名なグルメ店やカフェは徒歩10分以内に位置しています。"
+        },
+        {
+            "question": "多福室を訪れる皆様には何を祈っていますか？",
+            "answer": "多福室を訪れる皆様には幸運がありますように祈っています。"
+        }
+    ],
+    "word_Count": {
+        "text": 140,
+        "QA": 205
+    }
+}

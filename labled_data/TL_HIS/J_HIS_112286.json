@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_112286",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/view?relicId=104978",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2023-10-11",
+        "domain": "문화/역사관광",
+        "title": "청자 접시"
+    },
+    "text": "青磁皿 (청자 접시)\\n\nヒールの底には、「成」という文字が鉄貨で描かれています。これは、図録に「青瓷陽刻花形楪片(青磁陽刻花形皿片)」として収録されています。この作品は、韓国の高麗時代に作られたもので、材質は陶磁器の青磁です。分類は食生活の一環であり、具体的には食べ物を盛る皿として使われていました。サイズは高さ27cm、底径70cm、現在幅93cmです。",
+    "QA": [
+        {
+            "question": "この青磁皿はどの時代に作られましたか？",
+            "answer": "この青磁皿は韓国の高麗時代に作られました。"
+        },
+        {
+            "question": "この青磁皿の材質は何ですか？",
+            "answer": "この青磁皿の材質は陶磁器の青磁です。"
+        },
+        {
+            "question": "この青磁皿のサイズはどのくらいですか？",
+            "answer": "この青磁皿のサイズは高さ27cm、底径70cm、幅93cmです。"
+        },
+        {
+            "question": "この青磁皿は何に使われていましたか？",
+            "answer": "この青磁皿は食べ物を盛るための皿として使われていました。"
+        }
+    ],
+    "word_Count": {
+        "text": 132,
+        "QA": 123
+    }
+}

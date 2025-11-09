@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_014967",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "ヨンガン牛肉クッパ ( 용강국밥 )"
+    },
+    "text": "ヨンガン牛肉クッパ ( 용강국밥 )\\n\n慶尚北道 慶州市 鳳凰路 70\\n\n地元の人々もよく訪れる、韓国式のスープ料理が味わえるお店です。 代表的なメニューは牛肉クッパです。慶尚北道のギョンジュ市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "このお店はどこにありますか？",
+            "answer": "このお店は慶尚北道慶州市の鳳凰路70に位置しています。"
+        },
+        {
+            "question": "このお店の特徴的なメニューは何ですか？",
+            "answer": "このお店の代表的なメニューは牛肉クッパです。"
+        },
+        {
+            "question": "このお店は地元の人々に人気がありますか？",
+            "answer": "はい、このお店は地元の人々にもよく訪れる人気のあるお店です。"
+        },
+        {
+            "question": "このお店の雰囲気はどうですか？",
+            "answer": "このお店は韓国式のスープ料理が味わえるお店で、地元の雰囲気を楽しむことができます。"
+        },
+        {
+            "question": "このお店の営業時間は何時から何時までですか？",
+            "answer": "お店の営業時間は不明です。お店の公式ウェブサイトやお問い合わせ先で詳細を確認してください。"
+        }
+    ],
+    "word_Count": {
+        "text": 82,
+        "QA": 187
+    }
+}

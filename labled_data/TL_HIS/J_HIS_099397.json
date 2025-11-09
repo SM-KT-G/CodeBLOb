@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_099397",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/view?relicId=86541",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2023-10-11",
+        "domain": "문화/역사관광",
+        "title": "전 달린 그릇"
+    },
+    "text": "土器 (전 달린 그릇)\\n\n国籍・時代：韓国 ‐ 百済、材質：土 ‐ 軟質、分類：食生活・食器・食品・杯、サイズ：現在長さ 5.6cm, 現在幅 7.0cm, 厚さ 0.4~0.5cm, 現在長さ 6.0cm, 現在幅 0.85cm, 厚さ 0.5~0.65cm, 現在長さ 6.0cm, 現在幅 3.7cm, 厚さ 0.4~0. 6cm、現在の長さ9.5cm、現在の幅10.1cm、厚さ0.5~0.75cm、現在の長さ12.9cm、現在の幅7.4cm、厚さ0.55~0.7cm、現在の長さ9.8cm、現在の幅9.0cm、厚さ0.5~0.75cm",
+    "QA": [
+        {
+            "question": "この土器の国籍はどこですか？",
+            "answer": "この土器の国籍は韓国の百済です。"
+        },
+        {
+            "question": "この土器の材質は何ですか？",
+            "answer": "この土器の材質は土で、軟質です。"
+        },
+        {
+            "question": "この土器は何のために使用されていましたか？",
+            "answer": "この土器は食生活のために使用されていました。"
+        },
+        {
+            "question": "この土器のサイズはどれくらいですか？",
+            "answer": "この土器の現在の長さは12.9cm、現在の幅は7.4cm、厚さは0.55~0.7cmです。"
+        },
+        {
+            "question": "この土器は何時代のものですか？",
+            "answer": "この土器は百済時代のものです。"
+        }
+    ],
+    "word_Count": {
+        "text": 200,
+        "QA": 143
+    }
+}

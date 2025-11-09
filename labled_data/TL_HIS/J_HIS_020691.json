@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_020691",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=950&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=00010000&ccbaCtcd=25&ccbaCpno=3412500010000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1989-03-18",
+        "domain": "문화/역사관광",
+        "title": "삼매당"
+    },
+    "text": "三昧堂 (삼매당)\\n\n大田広域市東区忠正路73-17(加陽洞)\\n\n1644(人造 22) , 大田広域市文化財資料 , 三梅堂は朝鮮宣祖の時、連元道察訪を務めたパク·ゲリプ(1600~)が建てた建物だ。 パク·ゲリプはここ東区加陽洞で生まれ官職を退いた後、仁祖22年(1644)、ここに家を建てて庭に梅の木3本を植え、四方に亭子を立てて柳5本を植えてその名前を五柳亭とした。 こうして彼の号を三昧堂と言った。この建物は前面3間、側面2間で本来は蘇蹄洞の箕国亭と互いに眺められるところにあったが、1930年河川沿いで浸水の恐れがあり先生の9代孫パク·テフンが南澗精舎の向い側の丘であるここに移した。三梅堂には牛岩ソン·シヨル先生の直筆扁額と八景詩、多くの文人の詩が彫刻されており、風情を加えている。",
+    "QA": [
+        {
+            "question": "大田広域市東区忠正路73-17にある三昧堂は誰が建てた建物ですか？",
+            "answer": "三昧堂は朝鮮宣祖の時、連元道察訪を務めたパク·ゲリプ(1600~)が建てた建物です。"
+        },
+        {
+            "question": "三昧堂は何のために建てられましたか？",
+            "answer": "パク·ゲリプはここ東区加陽洞で生まれ官職を退いた後、仁祖22年(1644)、ここに家を建てて庭に梅の木3本を植え、四方に亭子を立てて柳5本を植えたため、その名前を五柳亭としました。彼の号を三昧堂と言いました。"
+        },
+        {
+            "question": "三昧堂はどのような特徴を持っていますか？",
+            "answer": "三梅堂は前面3間、側面2間で、牛岩ソン·シヨル先生の直筆扁額と八景詩、多くの文人の詩が彫刻されており、風情を加えています。"
+        },
+        {
+            "question": "三昧堂は元々どこに位置していたのですか？",
+            "answer": "三梅堂は元々蘇蹄洞の箕国亭と互いに眺められるところにありましたが、1930年に南澗精舎の向い側の丘であるここに移されました。"
+        },
+        {
+            "question": "三昧堂には何が展示されていますか？",
+            "answer": "三昧堂には牛岩ソン·シヨル先生の直筆扁額と八景詩、多くの文人の詩が彫刻されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 256,
+        "QA": 307
+    }
+}

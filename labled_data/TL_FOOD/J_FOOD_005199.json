@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_005199",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-08-31",
+        "domain": "음식점",
+        "title": "グナルウリヌン（그날우리는）"
+    },
+    "text": "グナルウリヌン（그날우리는）\\n\nソウル特別市 鐘路区 大学路9キル 29\\n\nこの店はソウル特別市のテハンノに位置した韓国料理店です。代表的なメニューはヌタウナギです。韓国人は健康のために夏にヌタウナギ焼きをたくさん食べるそうです。",
+    "QA": [
+        {
+            "question": "この店の名前は何ですか？",
+            "answer": "グナルウリヌン（그날우리는）です。"
+        },
+        {
+            "question": "この店はどこにありますか？",
+            "answer": "ソウル特別市 鐘路区 大学路9キル 29に位置しています。"
+        },
+        {
+            "question": "この店の特徴的なメニューは何ですか？",
+            "answer": "代表的なメニューはヌタウナギです。"
+        },
+        {
+            "question": "韓国人はなぜ夏にヌタウナギ焼きをたくさん食べるのですか？",
+            "answer": "韓国人は健康のために夏にヌタウナギ焼きをたくさん食べるそうです。"
+        }
+    ],
+    "word_Count": {
+        "text": 85,
+        "QA": 121
+    }
+}

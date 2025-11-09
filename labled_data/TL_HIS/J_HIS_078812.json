@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_078812",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=31&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=00110200&ccbaCtcd=37&ccbaCpno=1123700110200&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2000-02-15",
+        "domain": "문화/역사관광",
+        "title": "사인비구 제작 동종 - 문경 김룡사 동종"
+    },
+    "text": "朝鮮の顕宗(ヒョンジョン)11年(1670)に僧侶長のサイン比丘によって作られた朝鮮(チョソン)時代の紙だ。サイン比丘は朝鮮粛宗の時、京畿道と慶尚道で活動した僧侶であり、梵鐘職人に、伝統的な韓国の鐘の製造手法に独創性を結合した鐘を作った。現在サイン比丘の作品な種は計8九老(クロ)伝えられているが、それぞれ異なる特徴を見せてくれる。この鐘は朝鮮後期の鐘の形を最もよく現れていて、特に洪川スタ社の銅鐘(宝物)とともに鐘を打つ部分である当座の周りには華やかな雲の紋様が添加され、独特の当座の形で表現された。サイン比丘の銘文によると、この鐘は1670年スタ社同種より3ヵ月はもっと早く作られており、彼の作品世界や義父社会に対する重要な資料として研究されている。",
+    "QA": [
+        {
+            "question": "この鐘はいつ作られましたか？",
+            "answer": "この鐘は朝鮮の顕宗11年(1670)に僧侶長のサイン比丘によって作られました。"
+        },
+        {
+            "question": "サイン比丘はどのような活動をしていましたか？",
+            "answer": "サイン比丘は朝鮮粛宗の時、京畿道と慶尚道で活動した僧侶であり、梵鐘職人に、伝統的な韓国の鐘の製造手法に独創性を結合した鐘を作りました。"
+        },
+        {
+            "question": "この鐘にはどんな特徴がありますか？",
+            "answer": "この鐘は朝鮮後期の鐘の形を最もよく現しており、特に当座の周りには華やかな雲の紋様が添加され、独特の当座の形で表現されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 239,
+        "QA": 162
+    }
+}

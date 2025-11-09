@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_015175",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "ラプルレル（라플레르）"
+    },
+    "text": "ラプルレル（라플레르）\\n\n江原道 原州市 健康路 31\\n\n江原道のウォンジュ市に位置したカフェ（コーヒーショップ）です。代表的なメニューはアメリカーノです。各種コーヒーと紅茶を味わうことができます。",
+    "QA": [
+        {
+            "question": "ラプルレルはどこに位置していますか？",
+            "answer": "ラプルレルは江原道のウォンジュ市に位置しています。"
+        },
+        {
+            "question": "ラプルレルの代表的なメニューは何ですか？",
+            "answer": "ラプルレルの代表的なメニューはアメリカーノです。"
+        },
+        {
+            "question": "ラプルレルではどのような飲み物を味わうことができますか？",
+            "answer": "ラプルレルでは各種コーヒーと紅茶を味わうことができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 74,
+        "QA": 104
+    }
+}

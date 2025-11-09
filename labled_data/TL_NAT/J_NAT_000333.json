@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_000333",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2022-08-04",
+        "domain": "자연관광",
+        "title": "가학산"
+    },
+    "text": "\n全羅南道莞島郡所安面ミラリ\n海抜355mの高峰で4時間程度の登山を楽しむことができ、登山時に多島海の景観を眺望することができ、登山客から多くの好評を得ている。 また、頂上に上がれば東には青山島および巨文島、西には甫吉島格子峰と楸子島、南には済州漢拏山、北には莞島上王と海南など多島海の優れた景観を眺望することができる。",
+    "QA": [
+        {
+            "question": "登山にかかる時間はどのくらいですか？",
+            "answer": "登山には約4時間程度かかります。"
+        },
+        {
+            "question": "頂上からはどのような景色が見えますか？",
+            "answer": "頂上からは東に青山島および巨文島、西に甫吉島格子峰と楸子島、南に済州漢拏山、北に莞島上王と海南など多島海の優れた景観を眺望することができます。"
+        },
+        {
+            "question": "登山客からはどのような評判を得ていますか？",
+            "answer": "登山客からは多くの好評を得ています。"
+        }
+    ],
+    "word_Count": {
+        "text": 117,
+        "QA": 119
+    }
+}

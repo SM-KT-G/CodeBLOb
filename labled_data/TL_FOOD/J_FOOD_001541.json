@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001541",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-02-24",
+        "domain": "음식점",
+        "title": "Cafe COIN 2号(Cafe COIN 2호)"
+    },
+    "text": "Cafe COIN 2号(Cafe COIN 2호)\\n\nソウル特別市 中区 明洞9キル 29\\n\n明洞で20年以上営業しているカフェです。 ソウル特別市の中区に位置したカフェです。おすすめはワッフルです。",
+    "QA": [
+        {
+            "question": "カフェ COIN 2号はどこにありますか？",
+            "answer": "カフェ COIN 2号はソウル特別市の中区に位置しています。明洞9キル29番地です。"
+        },
+        {
+            "question": "カフェ COIN 2号の営業年数はどれくらいですか？",
+            "answer": "カフェ COIN 2号は明洞で20年以上営業しています。"
+        },
+        {
+            "question": "カフェ COIN 2号のおすすめメニューは何ですか？",
+            "answer": "カフェ COIN 2号のおすすめはワッフルです。"
+        }
+    ],
+    "word_Count": {
+        "text": 75,
+        "QA": 122
+    }
+}

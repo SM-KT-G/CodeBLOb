@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_027967",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/chuncheon-hureswi-dakgalbi",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "春川フレッシュタッカルビ"
+    },
+    "text": "春川フレッシュタッカルビ\\n\n江原道 ガンヌン市 ハピョンギル5\\n\n鉄板で炒めて食べる、韓国人が好きなタッカルビ料理を提供しています。おすすめはタッカルビです。江原道のガンヌン市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "このレストランの場所はどこですか？",
+            "answer": "江原道 ガンヌン市 ハピョンギル5に位置しています。"
+        },
+        {
+            "question": "このレストランの特徴や提供している料理は何ですか？",
+            "answer": "このレストランでは鉄板で炒めて食べるタッカルビ料理を提供しています。特におすすめはタッカルビです。"
+        },
+        {
+            "question": "このレストランはどのようなお店ですか？",
+            "answer": "春川フレッシュタッカルビは韓食専門店で、江原道のガンヌン市に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 75,
+        "QA": 127
+    }
+}

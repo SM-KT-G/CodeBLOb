@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_087447",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=47&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=02110000&ccbaCtcd=37&ccbaCpno=1123702110000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1963-01-21",
+        "domain": "문화/역사관광",
+        "title": "안동 도산서원 상덕사 및 삼문"
+    },
+    "text": "安東ペン·サンドクサ及びサムムン\\n\n慶尚北道安東市陶山面ペンキル154(土渓里)\\n\n朝鮮宣祖7年(1574)、重要文化財、書院という立派な人たちに祀って留学を勉強していた朝鮮時代の私立教育機関をいう。陶山書院は退溪・李滉(1501∼1570)先生の学問と徳行を称えるため、最初に立てた。李滉先生は朝鮮中期の有名な入れ墨に様々な官職をあまねく経て一生を学問の研究や弟子の育成に努めた方だ。陶山書院一番奥にある尚徳士は李滉先生の位牌を祭った祠である。朝鮮宣祖7年(1574)に建てられ、今ある建物は1969年修理したことだ。規模は表3間・側面2間であり、屋根は側面から見ると、八(八部)字形の入母屋屋根である。尚徳祠を出入りする正門は前面3間・側面2間ほどの屋根は側面から見ると、人の教わる字形をした切妻屋根で飾った。ドアは尚徳祠を建てる時に一緒に作ったもので、前面の柱は階段高低のため、他の柱より全長が長い。正門の両側には祠堂の周囲を巻いていた土塀は1969年に補修工事の際、ドルダムジャンに全部変えた。簡潔で非常に質素な造りの伝統深い朝鮮時代の建築物だ。",
+    "QA": [
+        {
+            "question": "陶山書院はいつ建てられましたか？",
+            "answer": "陶山書院は朝鮮宣祖7年(1574)に建てられました。"
+        },
+        {
+            "question": "陶山書院の規模は何ですか？",
+            "answer": "陶山書院の規模は表3間・側面2間であり、屋根は八(八部)字形の入母屋屋根です。"
+        },
+        {
+            "question": "尚徳祠の正門の屋根の形は何ですか？",
+            "answer": "尚徳祠の正門の屋根は側面から見ると、人の教わる字形をした切妻屋根で飾られています。"
+        },
+        {
+            "question": "尚徳祠のドアはいつ作られましたか？",
+            "answer": "尚徳祠のドアは尚徳祠を建てる時に一緒に作られました。"
+        },
+        {
+            "question": "陶山書院の補修工事はいつ行われましたか？",
+            "answer": "陶山書院の今ある建物は1969年に修理されました。"
+        }
+    ],
+    "word_Count": {
+        "text": 351,
+        "QA": 176
+    }
+}

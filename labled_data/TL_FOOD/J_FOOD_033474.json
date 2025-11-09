@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_033474",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/boulangerie-11-17",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "BOULANGERIE 11-17"
+    },
+    "text": "BOULANGERIE 11-17\\n\nソウル特別市 江東区 オルリムピクロ624\\n\nリーズナブルなサンドイッチが人気の店です。ソウル特別市のガンドン区に位置したカフェ（コーヒーショップ）です。おすすめはサンドイッチです。 管理者 BOULANGERIE 11-17( 11-17 ) TEL +82-507-1313-6718 休業日 年中無休 営業時間 09:30-22:00 メニュー 価格は事前の予告なく変更になる場合がありますサンドイッチ 禁煙 / 喫煙 全席禁煙",
+    "QA": [
+        {
+            "question": "場所はどこですか？",
+            "answer": "ソウル特別市の江東区オルリムピクロ624に位置しています。"
+        },
+        {
+            "question": "営業時間は何時から何時までですか？",
+            "answer": "営業時間は09:30から22:00までです。"
+        },
+        {
+            "question": "休業日はありますか？",
+            "answer": "年中無休です。"
+        },
+        {
+            "question": "何がおすすめのメニューですか？",
+            "answer": "おすすめはサンドイッチです。"
+        },
+        {
+            "question": "喫煙はできますか？",
+            "answer": "全席禁煙です。"
+        }
+    ],
+    "word_Count": {
+        "text": 174,
+        "QA": 101
+    }
+}

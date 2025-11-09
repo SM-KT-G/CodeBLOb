@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_024073",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-05-24",
+        "domain": "음식점",
+        "title": "雁鴨亭（안압정）"
+    },
+    "text": "雁鴨亭\\n\n大邱広域市 寿城区 達句伐大路 2507\\n\n花と木、滝など自然をそのまま持ってきたかのような美しい自然景観が食欲をそそります。最上級の牛肉と自然の食材で作るおかずとカニの醤油漬けは絶品です。",
+    "QA": [
+        {
+            "question": "雁鴨亭はどこにありますか？",
+            "answer": "雁鴨亭は大邱広域市寿城区達句伐大路2507にあります。"
+        },
+        {
+            "question": "雁鴨亭の周辺にはどのような自然がありますか？",
+            "answer": "雁鴨亭の周辺には花と木、滝など自然をそのまま持ってきたかのような美しい自然景観が広がっています。"
+        },
+        {
+            "question": "雁鴨亭のおすすめ料理は何ですか？",
+            "answer": "雁鴨亭のおすすめ料理は最上級の牛肉と自然の食材で作るおかずとカニの醤油漬けです。絶品の味わいですよ。"
+        }
+    ],
+    "word_Count": {
+        "text": 74,
+        "QA": 129
+    }
+}

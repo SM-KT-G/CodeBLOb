@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_013926",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=67&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=04610000&ccbaCtcd=36&ccbaCpno=1123604610000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1968-06-10",
+        "domain": "문화/역사관광",
+        "title": "나주 철천리 마애칠불상"
+    },
+    "text": "羅州チョルチョンリ磨崖七仏像 (나주 철천리 마애칠불상)\\n\n全羅南道羅州市鳳凰面鉄川里山124-11番地\\n\n高麗時代 , 宝物 , 4角に近い円錐形の岩の表面に仏像を彫刻した独特な形の作品だ。 岩の頂上には童子像があったというが、今はなくなった。 東側には座像1区があり、北側にも座像1区が合掌している。 南面には表現手法が似ている4体の立像があり、西側には本来2体の仏像があったが、日帝時代に鉱夫たちが1体を取っていったと伝えられている。 これらの仏像はすべて細部表現がほとんど同じだ。 はげ頭の上に高くそびえるサントゥ形の頭(六界)を持っており、顔は長い。 身体は長くて屈曲がなく、地味で硬直した姿勢と簡略に表現された服のしわの処理などで形式化された姿が見える。 仏像の足の下には突出部分を設けて台座に代わっている。 たとえ仏像の表現手法では高麗の石仏像によく現れている形式化された姿が見えるが、独特な外見と四方仏的特徴が表現されており、貴重な資料と評価される。",
+    "QA": [
+        {
+            "question": "この仏像はどの時代のものですか？",
+            "answer": "この仏像は高麗時代の作品です。"
+        },
+        {
+            "question": "この仏像はどのような形をしていますか？",
+            "answer": "この仏像は4角に近い円錐形の岩の表面に彫刻された作品です。"
+        },
+        {
+            "question": "この仏像の頂上に何があったと伝えられていますか？",
+            "answer": "この仏像の頂上には童子像があったと伝えられていますが、現在は存在しません。"
+        },
+        {
+            "question": "この仏像はどのような表現手法で彫刻されていますか？",
+            "answer": "この仏像は身体の形式化された姿勢や服のしわの処理などで特徴的な表現手法が使われています。"
+        },
+        {
+            "question": "この仏像は何体の立像や座像から成り立っていますか？",
+            "answer": "この仏像は南面に4体の立像と東側・北側にそれぞれ1区の座像から成り立っています。"
+        },
+        {
+            "question": "この仏像の特徴的な点はありますか？",
+            "answer": "この仏像は独特な外見と四方仏的特徴が表現されており、貴重な資料と評価されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 319,
+        "QA": 243
+    }
+}

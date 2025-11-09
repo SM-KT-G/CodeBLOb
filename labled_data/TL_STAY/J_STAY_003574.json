@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_003574",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42070&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "괴산 현민이네황토집펜션"
+    },
+    "text": "こじんまりとした田舎の家には庭とデッキがあります。 暖炉、たき火、キャンプファイヤー、屋外火鉢などが用意されていて休息が取れるきれいな空間です。 ここは休憩が必要な方のために設けられた場所なので、ぜひご利用ください。",
+    "QA": [
+        {
+            "question": "この田舎の家にはどんな施設がありますか？",
+            "answer": "庭とデッキがあり、暖炉、たき火、キャンプファイヤー、屋外火鉢などが用意されています。"
+        },
+        {
+            "question": "田舎の家の空間はどのような雰囲気ですか？",
+            "answer": "こじんまりとしていて、休息が取れるきれいな空間です。"
+        },
+        {
+            "question": "なぜこの場所は休憩が必要な方のために設けられているのですか？",
+            "answer": "この場所は休息が必要な方のために設けられており、リラックスや癒しの時間を提供するためです。"
+        },
+        {
+            "question": "田舎の家の利用方法はどのようになっていますか？",
+            "answer": "田舎の家は休息やリフレッシュを目的とした場所ですので、ぜひご利用ください。"
+        },
+        {
+            "question": "この田舎の家はどのような人に向いていますか？",
+            "answer": "この田舎の家は自然や静寂を求める方、ゆっくりと過ごしたい方、リフレッシュしたい方に向いています。"
+        }
+    ],
+    "word_Count": {
+        "text": 79,
+        "QA": 229
+    }
+}

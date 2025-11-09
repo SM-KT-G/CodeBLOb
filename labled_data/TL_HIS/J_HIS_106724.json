@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_106724",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/view?relicId=7781",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2023-10-11",
+        "domain": "문화/역사관광",
+        "title": "청동불입상"
+    },
+    "text": "青銅仏立像 (청동불입상)\\n\n右手に宝珠を握っている。また、右肩には偏短法衣がかけられており、裏面には細かな線刻が施されている。台座は8枚の複板で構成され、頭の後ろには中央に広背輪がある。作品の出身は韓国の統一新羅時代であり、使用されている材料は銅合金である。この仏像は仏教の礼拝の一部として使用されており、全高は171cmで、実物の仏像の高さは141cmである。",
+    "QA": [
+        {
+            "question": "この仏像は何を右手に握っていますか？",
+            "answer": "宝珠を握っています。"
+        },
+        {
+            "question": "この仏像の台座は何枚の複板で構成されていますか？",
+            "answer": "8枚の複板で構成されています。"
+        },
+        {
+            "question": "この仏像は何時代のものであり、どこの出身ですか？",
+            "answer": "統一新羅時代の韓国のものです。"
+        },
+        {
+            "question": "この仏像の全高は何cmですか？",
+            "answer": "171cmです。"
+        },
+        {
+            "question": "この仏像の高さは実物で何cmですか？",
+            "answer": "141cmです。"
+        }
+    ],
+    "word_Count": {
+        "text": 134,
+        "QA": 113
+    }
+}

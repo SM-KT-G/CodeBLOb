@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_004688",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-06-17",
+        "domain": "자연관광",
+        "title": "康津湾（강진만）"
+    },
+    "text": "康津湾（강진만）全羅南道 康津郡 薪田面 筏亭里\\n\n康津湾は全羅南道康津郡道岩面と大口面、七良面に間にある湾岸です。郡の中央部まで湾口になっていて郡の形が「八」の字になっています。海岸線が79キロメートルにもおよび、有人島が1つと無人島が9つあります。ここには耽津江、長渓川、康津川などの河口から流れてきます。",
+    "QA": [
+        {
+            "question": "康津湾はどの地域に位置していますか？",
+            "answer": "康津湾は全羅南道康津郡に位置しています。"
+        },
+        {
+            "question": "康津湾の海岸線の長さは何キロメートルですか？",
+            "answer": "康津湾の海岸線は79キロメートルです。"
+        },
+        {
+            "question": "康津湾には何つの島がありますか？",
+            "answer": "康津湾には有人島が1つと無人島が9つあります。"
+        },
+        {
+            "question": "康津湾に流れ込む河川はどれですか？",
+            "answer": "康津湾には耽津江、長渓川、康津川などの河川が流れ込んでいます。"
+        }
+    ],
+    "word_Count": {
+        "text": 114,
+        "QA": 121
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_035731",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101933",
+        "collectedDate": "2023-10-06",
+        "publishedDate": "2020-01-01",
+        "domain": "자연관광",
+        "title": "섬진강"
+    },
+    "text": "蟾津江\\n\n蟾津江は全羅北道鎮安郡白雲面の八公山の麓の玉女峰の下のデミ泉が発源地で、シジミが有名だ。 長さは223kmで小白山脈と老齢山脈の間を曲がりくねって流れ、宝城江と色々な支流と合わせて光陽湾に流れ込む。 大韓民国5大河川の中で水質が最もきれいな川として知られている。",
+    "QA": [
+        {
+            "question": "蟾津江の発源地はどこですか？",
+            "answer": "蟾津江の発源地は全羅北道鎮安郡白雲面の八公山の麓の玉女峰の下にあるデミ泉です。"
+        },
+        {
+            "question": "蟾津江はどのような地形を流れていますか？",
+            "answer": "蟾津江は小白山脈と老齢山脈の間を曲がりくねって流れています。"
+        },
+        {
+            "question": "蟾津江の長さは何キロメートルですか？",
+            "answer": "蟾津江の長さは223kmです。"
+        },
+        {
+            "question": "蟾津江の水質はどのように知られていますか？",
+            "answer": "蟾津江は水質が最もきれいな川として知られています。"
+        }
+    ],
+    "word_Count": {
+        "text": 100,
+        "QA": 133
+    }
+}

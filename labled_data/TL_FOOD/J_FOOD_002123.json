@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_002123",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-02-18",
+        "domain": "음식점",
+        "title": "TangTangChicken 西面( 땅땅치킨 서면 )"
+    },
+    "text": "TangTangChicken 西面( 땅땅치킨 서면 )\\n\n釜山広域市 釜山鎮区 チュンアンデロ680ボンギル52\\n\n韓国人が好きなチキンとビールが楽しめる店です。代表的なメニューはチキンです。釜山広域市のブサンジン区に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "このお店の場所はどこですか？",
+            "answer": "このお店は、釜山広域市の釜山鎮区チュンアンデロ680ボンギル52にあります。"
+        },
+        {
+            "question": "このお店の名前は何ですか？",
+            "answer": "このお店の名前は「TangTangChicken 西面( 땅땅치킨 서면 )」です。"
+        },
+        {
+            "question": "このお店で楽しめる料理は何ですか？",
+            "answer": "このお店では、韓国人が好きなチキンが代表的なメニューです。"
+        },
+        {
+            "question": "このお店はどんな雰囲気ですか？",
+            "answer": "このお店は韓国食専門店で、韓国人が好きなチキンとビールが楽しめるお店です。"
+        }
+    ],
+    "word_Count": {
+        "text": 91,
+        "QA": 150
+    }
+}

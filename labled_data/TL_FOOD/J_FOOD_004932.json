@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_004932",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-15",
+        "domain": "음식점",
+        "title": "ギムソヒョンウィ　ヤクソンボリバブ　ユトンダンジ(김서현의 약선보리밥 유통단지)"
+    },
+    "text": "ギムソヒョンウィ　ヤクソンボリバブ　ユトンダンジ\\n\n大邱広域市 北区 流通団地路8キル 13-28\\n\n健康食品専門店です。代表的なメニューは薬膳麦ご飯定食です。大邱広域市のブク区に位置した韓国料理店です。",
+    "QA": [
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "大邱広域市のブク区の流通団地路8キル13-28に位置しています。"
+        },
+        {
+            "question": "この店はどのような料理を提供していますか？",
+            "answer": "この店は薬膳麦ご飯定食などの健康食品を専門としています。"
+        },
+        {
+            "question": "この店はどのような雰囲気ですか？",
+            "answer": "この店は韓国料理店で、北区に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 76,
+        "QA": 96
+    }
+}

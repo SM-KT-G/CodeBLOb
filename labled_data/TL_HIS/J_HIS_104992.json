@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_104992",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1133&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=03760000&ccbaCtcd=38&ccbaCpno=3413803760000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2005-07-21",
+        "domain": "문화/역사관광",
+        "title": "창녕 소곡서당"
+    },
+    "text": "慶尚南道文化財資料である小曲寺子屋は1650年頃に初めて建築された小曲書院で1856年に分離されて今の位置に建て替えた建物です。ここでは淸敏公盧抃素、晩翠公參奉盧沈、節孝公進士盧弘彦三人が一緒に称えていました。しかし、大院君によって毀損されたことが分かっています。建物はつけた者の形になっており、ナムブクチュクソンに門屋と講堂を位置させています。建物の中には管理会社と領事ほどおり、領事亭は1925年に講堂東へ動いて、1998年に受理されました。また、2000年には正面5間、側面1間で新たな門構え彩度新築されました。小曲寺子屋と関連して南にはチョンミンコンのお墓が、北側にはジョルヒョコンの墓が位置しています。",
+    "QA": [
+        {
+            "question": "小曲寺子屋はいつ建てられましたか？",
+            "answer": "1650年頃に初めて建築されました。"
+        },
+        {
+            "question": "小曲寺子屋は誰によって毀損されましたか？",
+            "answer": "大院君によって毀損されました。"
+        },
+        {
+            "question": "小曲寺子屋の中には何がありますか？",
+            "answer": "管理会社と領事ほどおり、領事亭もあります。"
+        },
+        {
+            "question": "小曲寺子屋はどのような形をしていますか？",
+            "answer": "つけた者の形をしており、ナムブクチュクソンに門屋と講堂を位置させています。"
+        },
+        {
+            "question": "小曲寺子屋は何年に新たな門構えが彩度新築されましたか？",
+            "answer": "2000年に正面5間、側面1間で新たな門構えが彩度新築されました。"
+        }
+    ],
+    "word_Count": {
+        "text": 224,
+        "QA": 165
+    }
+}

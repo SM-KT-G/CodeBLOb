@@ -1,0 +1,31 @@
+{
+    "data_info": {
+        "documentID": "J_LEI_011728",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2022-12-26",
+        "domain": "레포츠",
+        "title": "장비좋은집"
+    },
+    "text": "駐車50代が可能な大型駐車場、スキー場で、最も近い距離(最後のレンタルショップであり、3番国道でビングレ通りに入ったら最初のショップ)に位置している。高級ペンションから安価な民宿まで昆池岩(コンジアム)で最も多い部屋を保有している。",
+    "QA": [
+        {
+            "question": "このスキー場の駐車場はどこにありますか？",
+            "answer": "スキー場の最寄りのレンタルショップの近くに、大型駐車場があります。ビングレ通りから3番国道に入った最初のショップの近くです。"
+        },
+        {
+            "question": "昆池岩(コンジアム)で最も多い部屋を保有している宿泊施設の種類は何ですか？",
+            "answer": "昆池岩(コンジアム)では、高級ペンションから安価な民宿まで、さまざまな宿泊施設があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 85,
+        "QA": 120
+    }
+}

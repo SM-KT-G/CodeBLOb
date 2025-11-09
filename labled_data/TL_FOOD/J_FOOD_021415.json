@@ -1,0 +1,31 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_021415",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-05",
+        "domain": "음식점",
+        "title": "釜ソッナジュコムタン ( 가마솥나주곰탕 )"
+    },
+    "text": "釜ソッナジュコムタン ( 가마솥나주곰탕 )\\n\n全羅南道 海南郡 山二面 クァングァンネジョロ1737\\n\n全羅道羅州の郷土料理です。全羅南道のヘナム郡に位置した韓食専門店です。おすすめはコムタンです。",
+    "QA": [
+        {
+            "question": "釜ソッナジュコムタンはどの地域の郷土料理ですか？",
+            "answer": "釜ソッナジュコムタンは全羅南道の海南郡の郷土料理です。"
+        },
+        {
+            "question": "釜ソッナジュコムタンのおすすめは何ですか？",
+            "answer": "釜ソッナジュコムタンのおすすめはコムタンです。"
+        }
+    ],
+    "word_Count": {
+        "text": 74,
+        "QA": 69
+    }
+}

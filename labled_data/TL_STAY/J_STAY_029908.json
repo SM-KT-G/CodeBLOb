@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_029908",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42020&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "남해 바다마루펜션"
+    },
+    "text": "パダマルペンションはタレンイ村に位置しており、美しい南海の海を鑑賞しながら休息を取ることができるペンションです。 青い南海の海が目の前にあり、恋人や家族に最適な場所です。 きれいな環境と涼しい海と青い山の景観を提供し、お客様が快適で楽しい旅行を体験できます。 現在はお知らせがありません。",
+    "QA": [
+        {
+            "question": "パダマルペンションの場所はどこですか？",
+            "answer": "パダマルペンションはタレンイ村に位置しています。"
+        },
+        {
+            "question": "パダマルペンションの特徴は何ですか？",
+            "answer": "パダマルペンションは美しい南海の海を鑑賞しながら休息を取ることができるペンションです。"
+        },
+        {
+            "question": "パダマルペンションの周辺には何がありますか？",
+            "answer": "パダマルペンションの周辺には青い南海の海と青い山の景観があります。"
+        },
+        {
+            "question": "誰にとってパダマルペンションは最適な場所ですか？",
+            "answer": "パダマルペンションは恋人や家族に最適な場所です。"
+        },
+        {
+            "question": "現在のお知らせはありますか？",
+            "answer": "現在はお知らせがありません。"
+        }
+    ],
+    "word_Count": {
+        "text": 105,
+        "QA": 172
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_003972",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-03",
+        "domain": "음식점",
+        "title": "カートゥーン韓食専門店 ( 카툰한식전문점 )"
+    },
+    "text": "カートゥーン韓食専門店 ( 카툰한식전문점 )\\n\nソウル特別市 ヨンドゥンポ区 ヨンシンロ175\\n\n韓国を代表するスープ料理であるカムジャタンが味わえます。代表的なメニューはスンデスープです。ソウル特別市のヨンドゥンポ区に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "このカートゥーン韓食専門店はどこにありますか？",
+            "answer": "このカートゥーン韓食専門店はソウル特別市のヨンドゥンポ区に位置しています。"
+        },
+        {
+            "question": "この店の代表的なメニューは何ですか？",
+            "answer": "この店の代表的なメニューはスンデスープです。"
+        },
+        {
+            "question": "この店ではどのような韓国料理が味わえますか？",
+            "answer": "この店では韓国を代表するスープ料理であるカムジャタンが味わえます。"
+        }
+    ],
+    "word_Count": {
+        "text": 91,
+        "QA": 113
+    }
+}

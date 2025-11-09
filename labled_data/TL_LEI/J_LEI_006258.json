@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_LEI_006258",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2023-02-16",
+        "domain": "레포츠",
+        "title": "용인비봉산캠핑장"
+    },
+    "text": "飛鳳山の麓に位置する自然にやさしいキャンプ場で、文字数を増やすためにもう少し追加しながら、当キャンプ場はソウル近郊へのアクセスが良いため、家族連れのキャンプ場に最適です。 特に子供たちと一緒にキャンプを楽しむのにも最適な場所です。 また、キャンプ場周辺にはハンテク植物園がありますので、子供たちと一緒に。",
+    "QA": [
+        {
+            "question": "このキャンプ場はどのような場所ですか？",
+            "answer": "飛鳳山の麓に位置する自然にやさしいキャンプ場です。"
+        },
+        {
+            "question": "このキャンプ場はどんな人におすすめですか？",
+            "answer": "家族連れのキャンプ場に最適で、特に子供たちと一緒に楽しむのに最適です。"
+        },
+        {
+            "question": "キャンプ場周辺にはどんな施設がありますか？",
+            "answer": "キャンプ場周辺にはハンテク植物園があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 111,
+        "QA": 104
+    }
+}

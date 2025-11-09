@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_025210",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=88&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=06740000&ccbaCtcd=37&ccbaCpno=1123706740000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1980-09-16",
+        "domain": "문화/역사관광",
+        "title": "영덕 유금사 삼층석탑"
+    },
+    "text": "盈徳 乳琴寺(ヨンドク ゆきんじ)三階石塔 (영덕 유금사 삼층석탑)\\n\n慶尚北道盈徳郡柄谷面ユグムギル213-26(金谷里)\\n\n統一新羅時代 , 宝物 , 幽金寺法堂裏庭に立っている石塔で、2段の基壇の上に3層の塔身を上げた姿だ。 下·上層基壇は四隅と各面の中央に柱の形を刻み、各基壇の上面には2段の怪任を置いて上の石を支えるようにした。 塔身は体石と屋根石をそれぞれ一つの石にした。 階ごとに四隅に柱の形が刻まれているだけで、他の飾りはない。 屋根石は底面に4段の支えを置いており、四隅から少し持ち上げられている。 頂上には丸い石を順に載せてあるが、後日補充しておいたものなので塔とはよく似合わない姿だ。 各層の大きさが減る程度が適当で、適当に大きな基壇部によって安定感が感じられる。 各基壇の面の中央に柱が一つずつ刻まれていることと屋根石の底面の支えが4段であることなどから見て、統一新羅後期に建てられた塔と推察される。",
+    "QA": [
+        {
+            "question": "この三階石塔はどの時代に建てられましたか？",
+            "answer": "この三階石塔は統一新羅時代に建てられました。"
+        },
+        {
+            "question": "この石塔はどのような形状をしていますか？",
+            "answer": "この石塔は2段の基壇の上に3層の塔身を持つ形状です。"
+        },
+        {
+            "question": "塔身の飾りはありますか？",
+            "answer": "塔身には階ごとに四隅に柱の形が刻まれていますが、他の飾りはありません。"
+        },
+        {
+            "question": "屋根石はどのような構造をしていますか？",
+            "answer": "屋根石は底面に4段の支えを置いており、四隅から少し持ち上げられています。"
+        },
+        {
+            "question": "この石塔は何のために建てられたと推測されていますか？",
+            "answer": "各基壇の面の中央に柱が刻まれており、屋根石の底面の支えが4段であることから、統一新羅後期に建てられた塔と推測されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 304,
+        "QA": 203
+    }
+}

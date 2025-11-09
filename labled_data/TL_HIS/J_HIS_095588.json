@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_095588",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=957&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=00070000&ccbaCtcd=33&ccbaCpno=3413300070000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1987-03-31",
+        "domain": "문화/역사관광",
+        "title": "음성 태교사"
+    },
+    "text": "1893年に忠清北道に位置した祠で、中国の宋候補の真影を安置している。1856年にキム・ヨンから候補の遺影を寄贈を受けて、朱氏の門中で、祠を建立し、書院を開設した。最初は文曲霊堂と呼ばれて興宣大院君(テウォングン)の書院撤廃令によって閉校したが、1893年に再び建てられ、名称が胎教会社に変わった。胎教会社の建物配置は門を過ぎると、全面に祭祀が行われる講堂があり、その裏でフェンスを向けて三門を設置しており、三門を過ぎると、祠堂がある形になっている。講堂は前面が4間、側面が2両で構成されており、入母屋屋根で、八の字形をしている。前面のクッカンはオンドル部屋、中で2間は板の間となっている。祠堂は前面が3間、側面が2両で構成されており、入母屋屋根の内側は走者の遺影が祀られている。",
+    "QA": [
+        {
+            "question": "この祠堂はいつ建てられましたか？",
+            "answer": "この祠堂は1893年に再建されました。"
+        },
+        {
+            "question": "この祠堂には何が祀られていますか？",
+            "answer": "この祠堂には中国の宋候補の真影が祀られています。"
+        },
+        {
+            "question": "この祠堂の建物配置はどのようになっていますか？",
+            "answer": "この祠堂の建物配置は講堂、三門、祠堂の順になっています。"
+        },
+        {
+            "question": "この祠堂の講堂はどのような形をしていますか？",
+            "answer": "この祠堂の講堂は八の字形をしています。"
+        },
+        {
+            "question": "祠堂の入母屋屋根の内側には何が祀られていますか？",
+            "answer": "祠堂の入母屋屋根の内側には宋候補の真影が祀られています。"
+        }
+    ],
+    "word_Count": {
+        "text": 249,
+        "QA": 161
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001948",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-01",
+        "domain": "음식점",
+        "title": "NUMARU ( 누마루 )"
+    },
+    "text": "NUMARU \n蔚山広域市 南区 大学路169ボンキル 2\n韓国のグルメ番組で紹介された店で、様々な保養食を提供しています。おすすめは鴨プルゴギです。蔚山広域市のナム区に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "この店はどこにありますか？",
+            "answer": "この店は蔚山広域市のナム区に位置しています。"
+        },
+        {
+            "question": "この店はどんな食べ物を提供していますか？",
+            "answer": "この店は様々な保養食を提供しています。特におすすめは鴨プルゴギです。"
+        },
+        {
+            "question": "この店はどのような特徴がありますか？",
+            "answer": "この店は韓食専門店で、韓国のグルメ番組でも紹介されたお店です。"
+        },
+        {
+            "question": "この店の名前は何ですか？",
+            "answer": "この店の名前は「NUMARU」です。"
+        },
+        {
+            "question": "この店の住所は何ですか？",
+            "answer": "この店の住所は蔚山広域市南区大学路169ボンキル2です。"
+        }
+    ],
+    "word_Count": {
+        "text": 71,
+        "QA": 152
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_013028",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-05",
+        "domain": "음식점",
+        "title": "プルプリ黒豆腐 ( 풀뿌리흑두부 )"
+    },
+    "text": "プルプリ黒豆腐 ( 풀뿌리흑두부 )\\n\n全羅南道 順天市 海竜面 サンソンギル137\\n\n昔ながらの純豆腐専門店です。代表的なメニューは豆腐です。全羅南道のスンチョン市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "プルプリ黒豆腐はどんな店ですか？",
+            "answer": "プルプリ黒豆腐は昔ながらの純豆腐専門店です。代表的なメニューは豆腐です。"
+        },
+        {
+            "question": "プルプリ黒豆腐はどこに位置していますか？",
+            "answer": "プルプリ黒豆腐は全羅南道の順天市海竜面サンソンギル137に位置しています。"
+        },
+        {
+            "question": "プルプリ黒豆腐のおすすめメニューは何ですか？",
+            "answer": "プルプリ黒豆腐のおすすめメニューは豆腐です。"
+        },
+        {
+            "question": "プルプリ黒豆腐はどのような料理を提供していますか？",
+            "answer": "プルプリ黒豆腐は韓食専門店で、豆腐を中心に様々な料理を提供しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 71,
+        "QA": 156
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_032468",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1188&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=06830000&ccbaCtcd=37&ccbaCpno=3413706830000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2020-12-24",
+        "domain": "문화/역사관광",
+        "title": "칠곡 중방댁"
+    },
+    "text": "漆谷中芳宅 (칠곡 중방댁)\\n\n慶尚北道漆谷郡梅原3ギル104-2(倭館邑)\\n\n朝鮮、慶尚北道文化財資料、漆谷重房宅は梅原村の自然部落の中で上梅に位置した裕福な両班の上流層家屋で、朝鮮後期に建設された。 本来は現存する母屋とチュンサランチェの他にもサランチェ、クァンチェがあってトンロ字型を成しており、デムンチェと馬小屋、ヨンジャバンア、甕台などの施設も備えていたという。 ジュンバン宅の建築に使われた良質の木材はもちろん、珍しく大きな母屋の規模(正面8間、側面2間)から見ても相当な経済力を備えた両班家の住居と見ることができ、嶺南の3大班村の一つに挙げられる梅原村の住宅建築の特徴を持っている。",
+    "QA": [
+        {
+            "question": "漆谷中芳宅はどこに位置していますか？",
+            "answer": "漆谷中芳宅は慶尚北道漆谷郡梅原3ギル104-2(倭館邑)に位置しています。"
+        },
+        {
+            "question": "漆谷中芳宅はどのような建物ですか？",
+            "answer": "漆谷中芳宅は朝鮮後期に建設された裕福な両班の上流層家屋で、現在は母屋とチュンサランチェが残っています。"
+        },
+        {
+            "question": "漆谷中芳宅にはどのような施設があったのですか？",
+            "answer": "漆谷中芳宅には母屋とチュンサランチェの他にもサランチェ、クァンチェ、デムンチェ、馬小屋、ヨンジャバンア、甕台などの施設があったとされています。"
+        },
+        {
+            "question": "漆谷中芳宅の母屋の規模はどれくらいですか？",
+            "answer": "漆谷中芳宅の母屋の規模は正面8間、側面2間です。"
+        },
+        {
+            "question": "梅原村の住宅建築の特徴は何ですか？",
+            "answer": "梅原村の住宅建築の特徴は、嶺南の3大班村の一つに挙げられることや、良質の木材の使用、大きな母屋の規模などがあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 220,
+        "QA": 247
+    }
+}

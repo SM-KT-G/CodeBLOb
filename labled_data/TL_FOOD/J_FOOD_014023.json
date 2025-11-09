@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_014023",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2020-12-07",
+        "domain": "음식점",
+        "title": "マンナカムジャタン 木浦南岳( 맛나감자탕 목포남악 )"
+    },
+    "text": "マンナカムジャタン 木浦南岳( 맛나감자탕 목포남악 )\\n\n全羅南道 モクポ市 ナムアク1ロ52ボンギル11-4\\n\n濃厚なスープで作ったカムジャタンが味わえる店です。おすすめはカムジャタンです。全羅南道のモクポ市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "この店の名前は何ですか？",
+            "answer": "この店の名前は『マンナカムジャタン 木浦南岳』です。"
+        },
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "この店は全羅南道のモクポ市に位置しています。具体的な住所は「ナムアク1ロ52ボンギル11-4」です。"
+        },
+        {
+            "question": "この店の特徴的な料理は何ですか？",
+            "answer": "この店のおすすめ料理は濃厚なスープで作ったカムジャタンです。"
+        },
+        {
+            "question": "この店は何を専門にしていますか？",
+            "answer": "この店は韓食を専門としています。"
+        },
+        {
+            "question": "この店のカムジャタンの味はどんな感じですか？",
+            "answer": "この店のカムジャタンは濃厚で味わい深いスープで作られています。"
+        }
+    ],
+    "word_Count": {
+        "text": 88,
+        "QA": 170
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_029835",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/teumsae-ramyeon",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "トゥムセラミョン"
+    },
+    "text": "トゥムセラミョン\\n\nソウル特別市 中区 明洞10キル19-10 )\\n\n1981年にオープンした「トゥムセラミョン（TEUMSAE）」は、激辛卵餅入りラーメンが有名なお店です。",
+    "QA": [
+        {
+            "question": "このお店はいつオープンしましたか？",
+            "answer": "1981年にオープンしました。"
+        },
+        {
+            "question": "このお店はどこにありますか？",
+            "answer": "このお店はソウル特別市中区明洞10キル19-10にあります。"
+        },
+        {
+            "question": "このお店の特徴は何ですか？",
+            "answer": "このお店は激辛卵餅入りラーメンが有名です。"
+        }
+    ],
+    "word_Count": {
+        "text": 65,
+        "QA": 80
+    }
+}

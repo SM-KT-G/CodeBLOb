@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_106208",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/view?relicId=155390",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2023-10-11",
+        "domain": "문화/역사관광",
+        "title": "청동 바리"
+    },
+    "text": "青銅バリ (청동 바리)\\n\n国籍/時代：韓国-朝鮮 材質：金属-青銅 分類：食生活-食べ物-食器-足 大きさ：高さ84cm、着丈147cm、受け皿直径80cm 修正案: この食器は韓国-朝鮮地域で使用されていたもので、材質は青銅で作られています。彼らの食事文化や食器に関連しており、特に足部分は非常に特徴的です。サイズは高さ84cm、着丈147cm、そして受け皿の直径は80cmです。",
+    "QA": [
+        {
+            "question": "この食器はどこの国のものですか？",
+            "answer": "この食器は韓国-朝鮮地域で使用されていたもので、"
+        },
+        {
+            "question": "この食器は何時代のものですか？",
+            "answer": "これは古代のもので、青銅時代に使用されていたものです。"
+        },
+        {
+            "question": "材質は何ですか？",
+            "answer": "材質は金属の青銅で作られています。"
+        },
+        {
+            "question": "この食器はどのような分類に属していますか？",
+            "answer": "この食器は食生活-食べ物-食器-足の分類に属しています。"
+        },
+        {
+            "question": "この食器のサイズはどのくらいですか？",
+            "answer": "サイズは高さ84cm、着丈147cm、そして受け皿の直径は80cmです。"
+        }
+    ],
+    "word_Count": {
+        "text": 141,
+        "QA": 154
+    }
+}

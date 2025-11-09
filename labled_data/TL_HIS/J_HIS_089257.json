@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_089257",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=524&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=01970000&ccbaCtcd=38&ccbaCpno=2113801970000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1981-12-21",
+        "domain": "문화/역사관광",
+        "title": "양산 통도사 약사전"
+    },
+    "text": "梁山通度寺薬辞典\\n\n慶尚南道梁山市通度寺路108(下北面、通度寺)\\n\n慶尚南道有形文化財、通度寺は、陜川海印寺、スンジュの松広寺とドブルて韓国3大寺院の中の一つで、境内は大きくサンロチョン、ジュンロチョン、下に前の3領域に分けられる。ハロチョンに位置した薬師殿は極楽保全と向き合っている。高麗の恭愍王18年(1369)に省谷(ソンゴク)禅師が建てたと、その後にいつ保守したのか分からないが、18世紀後半に建て直したものと推定している。前面3間・側面1間で屋根横顔が人の教わる字形の切妻屋根となっている。屋根を支えようと装飾して作った恐怖は柱の上と柱の間にもあるダポギェ様式の建物だ。しかし、恐怖が建物4面にいずれも張り巡らされておらず、表側と裏側にいて特異だ。内部には病気を治すという薬師如来仏上を案内していてこの仏像の後ろには、薬剤師の後払い画家いる。",
+    "QA": [
+        {
+            "question": "通度寺はどこに位置していますか？",
+            "answer": "通度寺は慶尚南道梁山市通度寺路108に位置しています。"
+        },
+        {
+            "question": "通度寺は何時代に建てられましたか？",
+            "answer": "通度寺は高麗の恭愍王18年(1369)に建てられました。"
+        },
+        {
+            "question": "通度寺の境内は何つの領域に分けられていますか？",
+            "answer": "通度寺の境内は大きくサンロチョン、ジュンロチョン、下に前の3領域に分けられています。"
+        },
+        {
+            "question": "薬師殿はどのような目的で建てられましたか？",
+            "answer": "薬師殿は極楽保全と向き合うために建てられました。"
+        },
+        {
+            "question": "薬師如来仏上とは何ですか？",
+            "answer": "薬師如来仏上は病気を治すという仏像で、薬師殿の内部に安置されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 277,
+        "QA": 180
+    }
+}

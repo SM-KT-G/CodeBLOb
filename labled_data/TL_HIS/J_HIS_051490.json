@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_051490",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=464&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=01160000&ccbaCtcd=35&ccbaCpno=2113501160000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1985-08-16",
+        "domain": "문화/역사관광",
+        "title": "고산향교대성전"
+    },
+    "text": "高山郷校大成殿\\n\n全羅北道完州郡高山面邑内里144番地\\n\n(1601)、全羅北道有形文化財、聖賢の位牌を祭って祭祀を務めながら、地方民衆の教育を担当するために国家が建てた地方教育機関だ。初めて建てられた年代は分かりませんが、太祖7年(1398)に今の位置に建てられたものと推定される。定宗2年(1400)に燃え、なくなったため、建て直されたが、その後、文禄・慶長の役(1592)の時火に焼けた後、数回修理を経て今日に至るようになった。現在残っている建物は大成殿・明倫堂・ドンジェ・書斎・内三門などがある。大成殿は、祭祀空間の中心となった建物で、表3間・側面3間であり、屋根は側面が人の教わる字形の切妻屋根である。中には''デソンジ城門先王''と書かれた孔子の位牌を中心に中国の聖賢を祀っている。孔子の肖像画は朝鮮中期に唐の画家の作品を受けてきたのだという。春・秋2回の祭祀を行っている。...",
+    "QA": [
+        {
+            "question": "高山郷校大成殿は何のために建てられましたか？",
+            "answer": "高山郷校大成殿は、地方民衆の教育を担当するために国家が建てた地方教育機関です。"
+        },
+        {
+            "question": "高山郷校大成殿はいつ建てられましたか？",
+            "answer": "初めて建てられた年代ははっきりしていませんが、太祖7年(1398)に今の位置に建てられたと推定されています。"
+        },
+        {
+            "question": "高山郷校大成殿は何回も修理されたことがあったんですか？",
+            "answer": "はい、高山郷校大成殿は文禄・慶長の役(1592)の時に火災に遭いましたが、その後数回修理を経て今日の姿になりました。"
+        },
+        {
+            "question": "大成殿には何が祀られていますか？",
+            "answer": "大成殿の中には中国の聖賢を祀っており、中心には孔子の位牌が祀られています。孔子の肖像画は朝鮮中期に唐の画家の作品を受けてきたと言われています。"
+        },
+        {
+            "question": "高山郷校大成殿では何回の祭祀が行われていますか？",
+            "answer": "高山郷校大成殿では春と秋の2回の祭祀が行われています。"
+        }
+    ],
+    "word_Count": {
+        "text": 291,
+        "QA": 261
+    }
+}

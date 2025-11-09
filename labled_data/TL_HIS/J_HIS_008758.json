@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_008758",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=104&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=08430000&ccbaCtcd=11&ccbaCpno=1121108430000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1985-08-09",
+        "domain": "문화/역사관광",
+        "title": "관상감 측우대"
+    },
+    "text": "観相感測雨帯 (관상감 측우대)\\n\nソウル特別市鍾路区松月キル52(松月洞、国立気象博物館)\\n\n朝鮮時代 , 宝物 , 観象監測雨台は朝鮮時代の測雨器を上げて降雨量を測定していたもので、今は台石だけが残っている。 測雨器は世宗23年(1441)に世界で初めて発明され翌年全国的に降雨量測定が始まったが、これはその前に地中に染み込んだ雨の量は測れなかった非合理的方法から外れた15世紀の画期的発明品だった。 鉄で作った円筒形の測雨器は石の上に乗せて使用したが、高さ87.6cm、縦59.7cm、横94.5cmの直六面体の花崗岩で、中央に直径16.5cm、深さ4.7cmで穴を開けて建てた。 たとえ測雨器は戦争などで流失して消えたが、この台石は測雨器の存在を確認する貴重な遺物だ。 世宗（セジョン）時代のもので、ソウル梅洞（メドン）小学校の校庭にあったものを、今は国立中央気象台（現在の気象庁）に移した。",
+    "QA": [
+        {
+            "question": "観相感測雨帯はどこにありますか？",
+            "answer": "観相感測雨帯はソウル特別市鍾路区松月キル52にあります。"
+        },
+        {
+            "question": "観相感測雨帯は何時代のものですか？",
+            "answer": "観相感測雨帯は朝鮮時代のものです。"
+        },
+        {
+            "question": "観相感測雨帯は何のために使用されましたか？",
+            "answer": "観相感測雨帯は降雨量を測定するために使用されました。"
+        },
+        {
+            "question": "測雨器の発明はいつ行われましたか？",
+            "answer": "測雨器の発明は世宗23年(1441)に行われました。"
+        },
+        {
+            "question": "測雨器はどのように使用されましたか？",
+            "answer": "測雨器は円筒形で鉄で作られ、石の上に乗せて使用されました。"
+        },
+        {
+            "question": "観相感測雨帯の台石は何のために使用されましたか？",
+            "answer": "観相感測雨帯の台石は測雨器の存在を確認するために使用されました。"
+        }
+    ],
+    "word_Count": {
+        "text": 294,
+        "QA": 198
+    }
+}

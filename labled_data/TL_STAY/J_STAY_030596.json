@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_030596",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.goodchoice.kr/product/detail?ano=63753&adcno=1&sel_date=2023-11-07&sel_date2=2023-11-08",
+        "collectedDate": "2023-11-15",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "화순 럭셔리무인호텔"
+    },
+    "text": "YouTubeとNetflix(スマートテレビ)の視聴が可能で、一つのリモコンでNetflix、ウェーブ、YouTube、成人チャンネル、リビングTV、外国放送などを統合して視聴することができます。 駐車場は計32台の駐車施設を保有しています。 客室の内部にはVIPルームとVIPメゾネットタイプルームがあり、屋外露天風呂を使用することができない期間があります。",
+    "QA": [
+        {
+            "question": "このホテルでは何を視聴することができますか？",
+            "answer": "YouTubeとNetflix(スマートテレビ)の視聴が可能です。"
+        },
+        {
+            "question": "このホテルの駐車場の台数はいくつですか？",
+            "answer": "計32台の駐車施設を保有しています。"
+        },
+        {
+            "question": "客室の内部にはどのような部屋がありますか？",
+            "answer": "VIPルームとVIPメゾネットタイプルームがあります。"
+        },
+        {
+            "question": "屋外露天風呂を使用できない期間があるのですか？",
+            "answer": "はい、屋外露天風呂を使用することができない期間があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 132,
+        "QA": 141
+    }
+}

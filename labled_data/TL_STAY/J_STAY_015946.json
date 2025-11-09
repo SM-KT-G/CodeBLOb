@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_015946",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42020&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "사천 플러스"
+    },
+    "text": "プラスA棟にお越しください。 確認事項は各部屋の入室基準をご確認ください。追加人数時には当日追加料金が決済されます。 オンシーズンや特定日、祝日には料金の変動がある場合があります。 払い戻しおよびキャンセルポリシーは、規定によって異なる場合があります。 入室の際は身分証明書を確認し、未成年者の入室は制限されます。 この他にはプラスA棟についてのお知らせはありません。",
+    "QA": [
+        {
+            "question": "プラスA棟にはどのような確認事項がありますか？",
+            "answer": "各部屋の入室基準をご確認ください。追加人数時には当日追加料金が決済されます。"
+        },
+        {
+            "question": "プラスA棟の料金は特定の日や祝日によって変動しますか？",
+            "answer": "オンシーズンや特定日、祝日には料金の変動がある場合があります。"
+        },
+        {
+            "question": "キャンセルポリシーや払い戻しについて教えてください。",
+            "answer": "キャンセルポリシーや払い戻しの規定は異なる場合がありますので、お問い合わせください。"
+        },
+        {
+            "question": "未成年者の入室は制限されますか？",
+            "answer": "入室の際は身分証明書を確認し、未成年者の入室は制限される場合があります。"
+        },
+        {
+            "question": "その他、プラスA棟に関するお知らせはありますか？",
+            "answer": "現時点では特にお知らせはありません。"
+        }
+    ],
+    "word_Count": {
+        "text": 134,
+        "QA": 206
+    }
+}

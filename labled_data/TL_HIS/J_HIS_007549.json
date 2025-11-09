@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_007549",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=951&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=00020000&ccbaCtcd=37&ccbaCpno=3413700020000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1985-08-05",
+        "domain": "문화/역사관광",
+        "title": "경주사마소"
+    },
+    "text": "競走司馬牛 (경주사마소)\\n\n慶尚北道慶州市ジェメジョンギル47(校洞)\\n\n慶尚北道文化財資料 , 司馬所は朝鮮時代に科挙に合格したその地方の生員と進士がここで儒学を教えたり政治を討論した建物だ。 地位の高い人も自分の修養のためにここを訪ねてきたという。 燕山郡の時には生員·進士たちが集まって学問を討論し、民に様式を貸したりもしたというところだ。 初めて建てられた年代は定かではないが、宣祖25年(1592)壬辰倭乱で焼失した後、英祖17年(1741)に建て直して風影亭と呼ばれた。 側面の司馬所という扁額は英祖38年(1762)当時の府尹洪良漢が書いたものだ。 一緒にある屏風軒は純祖32年(1832)生員チェ·ギヨンが建てたものだ。 この建物は本来、ここから東に300mの距離にある新羅時代の月精橋跡の北側橋台の上に建てられていたものを1984年にここに移してきた。 建物の中には建物を直した内容が書かれた扁額が掛けられており、その来歴を知らせている。",
+    "QA": [
+        {
+            "question": "この建物はどの時代に建てられましたか？",
+            "answer": "司馬所は宣祖25年(1592)に焼失した後、英祖17年(1741)に建て直されました。"
+        },
+        {
+            "question": "司馬所はどのような目的で使われていましたか？",
+            "answer": "司馬所は科挙に合格した生員や進士が儒学を教えたり政治を討論する場所でした。"
+        },
+        {
+            "question": "司馬所の側面にある扁額は誰が書いたものですか？",
+            "answer": "側面の司馬所という扁額は英祖38年(1762)当時の府尹洪良漢が書きました。"
+        },
+        {
+            "question": "屏風軒は誰が建てたものですか？",
+            "answer": "屏風軒は純祖32年(1832)生員チェ・ギヨンが建てました。"
+        },
+        {
+            "question": "司馬所はどのような場所に建てられましたか？",
+            "answer": "司馬所は新羅時代の月精橋跡の北側橋台の上に建てられましたが、1984年にここに移されました。"
+        },
+        {
+            "question": "建物の中には何が掛けられていますか？",
+            "answer": "建物の中には建物を直した内容が書かれた扁額が掛けられています。"
+        }
+    ],
+    "word_Count": {
+        "text": 316,
+        "QA": 251
+    }
+}

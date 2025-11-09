@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_001717",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-02-10",
+        "domain": "숙박",
+        "title": "BSホテル（BS호텔）"
+    },
+    "text": "BSホテル（BS호텔）\\n\n慶尚北道 亀尾市 1工団路5キル86-15\\n\n「BSホテル」は亀尾（クミ）工団（工業団地）内にある伝統あるビジネスホテルです。周辺観光地には、散策を楽しめる東洛（トンナク）公園が車で10分、嶺南（ヨンナム）八景のひとつに数えられる金烏山（クモサン）は車で20分、善山郷校（ソンサンヒャンギョ）も車で35分ほどのところにあります。",
+    "QA": [
+        {
+            "question": "BSホテルはどこにありますか？",
+            "answer": "BSホテルは亀尾市の工団路に位置しています。"
+        },
+        {
+            "question": "周辺にはどのような観光地がありますか？",
+            "answer": "周辺には東洛公園や金烏山、善山郷校などの観光地があります。"
+        },
+        {
+            "question": "東洛公園までの所要時間はどれくらいですか？",
+            "answer": "車で約10分です。"
+        },
+        {
+            "question": "金烏山までの所要時間はどれくらいですか？",
+            "answer": "車で約20分です。"
+        },
+        {
+            "question": "善山郷校までの所要時間はどれくらいですか？",
+            "answer": "車で約35分です。"
+        }
+    ],
+    "word_Count": {
+        "text": 131,
+        "QA": 127
+    }
+}

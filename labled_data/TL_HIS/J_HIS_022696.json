@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_022696",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2022-03-24",
+        "domain": "문화/역사관광",
+        "title": "松島龍宮吊橋（송도용궁구름다리）"
+    },
+    "text": "松島龍宮吊橋\n釜山広域市 西区 岩南洞620-53\n松島（ソンド）龍宮吊橋は、岩南公園とトン島を結ぶ吊橋です。全長127メートル、幅2メートルで、橋を渡りながら大海原や奇岩断崖の絶景を眺めることができます。",
+    "QA": [
+        {
+            "question": "松島龍宮吊橋はどこにありますか？",
+            "answer": "松島龍宮吊橋は釜山広域市西区岩南洞620-53にあります。"
+        },
+        {
+            "question": "松島龍宮吊橋の全長は何メートルですか？",
+            "answer": "松島龍宮吊橋の全長は127メートルです。"
+        },
+        {
+            "question": "松島龍宮吊橋の幅は何メートルですか？",
+            "answer": "松島龍宮吊橋の幅は2メートルです。"
+        },
+        {
+            "question": "松島龍宮吊橋からはどのような景色が見えますか？",
+            "answer": "松島龍宮吊橋からは大海原や奇岩断崖の絶景を眺めることができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 75,
+        "QA": 127
+    }
+}

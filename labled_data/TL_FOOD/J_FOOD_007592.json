@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_007592",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2023-07-02",
+        "domain": "음식점",
+        "title": "직탕가든"
+    },
+    "text": "ジッタンガーデン (직탕가든)\\n\n江原特別自治道 鉄原郡東松邑直湯キル94\\n\n江原道鉄原郡東松邑長興里に位置するジッタンガーデンは、江原道鉄原のジッタン滝の近くに位置するメウンタン、地鶏専門店で、ナマズ、ウナギ、雑魚、牛ガリ、コウライギギの辛味スープと地鶏など多様なメニューを提供する。",
+    "QA": [
+        {
+            "question": "ジッタンガーデンの場所はどこですか？",
+            "answer": "ジッタンガーデンは江原道鉄原郡東松邑直湯キル94に位置しています。"
+        },
+        {
+            "question": "ジッタンガーデンの特徴的なメニューはありますか？",
+            "answer": "ジッタンガーデンではナマズ、ウナギ、雑魚、牛ガリ、コウライギギの辛味スープと地鶏など多様なメニューを提供しています。"
+        },
+        {
+            "question": "ジッタンガーデンの近くに何がありますか？",
+            "answer": "ジッタンガーデンの近くにはジッタン滝があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 106,
+        "QA": 129
+    }
+}

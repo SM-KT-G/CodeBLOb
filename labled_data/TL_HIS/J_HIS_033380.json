@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_033380",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1165&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=05480000&ccbaCtcd=37&ccbaCpno=3413705480000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2009-04-30",
+        "domain": "문화/역사관광",
+        "title": "포항 경주이씨 익재공파 석동문중 소장 판목"
+    },
+    "text": "浦項慶州李氏益斎公派石洞門中所蔵版木 (포항 경주이씨 익재공파 석동문중 소장 판목)\\n\n慶尚北道浦項市\\n\n慶尚北道文化財資料、この資料は石谷李奎俊（イ·ギュジュン、1855~1923）が編纂·著述した『曲礼幼肄』、『慶寿三編』、『儀礼主所節要』、『医監衆馬』の版目である。『曲礼幼肄』は草学者が曲礼を簡単に読めるように解説した本であり、『経寿三編』は中国歴代経学者の経典研究を整理したものだ。『儀礼主所節要』では礼記を注釈して逐一説明し、『義鑑衆馬』は1908年に編纂した義書だ。イ·ギュジュンは、鄭周学をはじめとする儒学者の肉耕住所に疑惑を持ち、儒学の根本理念への回帰を主張し、医学分野で卓越した業績を残した。",
+    "QA": [
+        {
+            "question": "この版木は何を記録していますか？",
+            "answer": "この版木は『曲礼幼肄』、『慶寿三編』、『儀礼主所節要』、『医監衆馬』の版目を記録しています。"
+        },
+        {
+            "question": "『曲礼幼肄』とは何ですか？",
+            "answer": "『曲礼幼肄』は草学者が曲礼を簡単に読めるように解説した本です。"
+        },
+        {
+            "question": "『経寿三編』は何を整理したものですか？",
+            "answer": "『経寿三編』は中国歴代経学者の経典研究を整理したものです。"
+        },
+        {
+            "question": "『儀礼主所節要』では何を説明していますか？",
+            "answer": "『儀礼主所節要』では礼記を注釈して逐一説明しています。"
+        },
+        {
+            "question": "『義鑑衆馬』は何の編纂ですか？",
+            "answer": "『義鑑衆馬』は1908年に編纂した義書です。"
+        },
+        {
+            "question": "イ·ギュジュンはどのような業績を残しましたか？",
+            "answer": "イ·ギュジュンは儒学の根本理念への回帰を主張し、医学分野で卓越した業績を残しました。"
+        }
+    ],
+    "word_Count": {
+        "text": 227,
+        "QA": 222
+    }
+}

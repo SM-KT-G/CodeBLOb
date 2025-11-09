@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_014491",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-05",
+        "domain": "음식점",
+        "title": "メミルコッピミョン ( 메밀꽃피면 )"
+    },
+    "text": "メミルコッピミョン ( 메밀꽃피면 )\\n\n慶尚北道 アンドン市 ドサン面 ソンソン4ギル22\\n\nその場で打ったそばとコクのあるスープが逸品の店です。代表的なメニューはそばです。慶尚北道のアンドン市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "メミルコッピミョンの場所はどこですか？",
+            "answer": "メミルコッピミョンは慶尚北道アンドン市ドサン面ソンソン4ギル22に位置しています。"
+        },
+        {
+            "question": "メミルコッピミョンの代表的なメニューは何ですか？",
+            "answer": "メミルコッピミョンの代表的なメニューはそばです。"
+        },
+        {
+            "question": "メミルコッピミョンの料理はどのような特徴がありますか？",
+            "answer": "メミルコッピミョンの料理は、その場で打ったそばとコクのあるスープが特徴です。"
+        },
+        {
+            "question": "メミルコッピミョンはどのような店ですか？",
+            "answer": "メミルコッピミョンは韓食専門店で、慶尚北道のアンドン市に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 82,
+        "QA": 167
+    }
+}

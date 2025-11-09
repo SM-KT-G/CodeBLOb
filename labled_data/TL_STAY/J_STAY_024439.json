@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_024439",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2020-03-07",
+        "domain": "숙박",
+        "title": "安東ギャラリーホテル（안동 갤러리호텔）"
+    },
+    "text": "安東ギャラリーホテル（안동 갤러리호텔）\n慶尚北道 安東市 オンミョンキル 48\nホテル「ギャラリー」は、文化遺産の宝庫「安東」の玉洞にある観光ホテルです。繁華街へのアクセスも良く、飲食店が多数隣接しています。",
+    "QA": [
+        {
+            "question": "安東ギャラリーホテルはどこにありますか？",
+            "answer": "安東ギャラリーホテルは慶尚北道安東市のオンミョンキル48にあります。"
+        },
+        {
+            "question": "安東ギャラリーホテルの周辺には何がありますか？",
+            "answer": "安東ギャラリーホテルの周辺には多くの飲食店があり、繁華街へのアクセスも良いです。"
+        },
+        {
+            "question": "安東ギャラリーホテルはどのようなホテルですか？",
+            "answer": "安東ギャラリーホテルは文化遺産の宝庫である安東の玉洞にある観光ホテルです。"
+        }
+    ],
+    "word_Count": {
+        "text": 77,
+        "QA": 129
+    }
+}

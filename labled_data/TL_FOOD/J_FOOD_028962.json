@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_028962",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-03-31",
+        "domain": "음식점",
+        "title": "漢江屋（한강옥）"
+    },
+    "text": "漢江屋（한강옥）\\n\nソウル特別市 中区 乙支路3キル 21\\n\nソウル特別市ウルチロイック駅の近くに位置した韓食専門店です。最高級の韓牛が楽しめるお店です。代表的なメニューは韓牛ロースです。",
+    "QA": [
+        {
+            "question": "漢江屋（한강옥）はどこに位置していますか？",
+            "answer": "漢江屋（한강옥）はソウル特別市 中区 乙支路3キル 21に位置しています。"
+        },
+        {
+            "question": "漢江屋（한강옥）で最も人気のあるメニューは何ですか？",
+            "answer": "漢江屋（한강옥）で最も人気のあるメニューは韓牛ロースです。"
+        },
+        {
+            "question": "漢江屋（한강옥）は何に特化しているお店ですか？",
+            "answer": "漢江屋（한강옥）は韓食専門店で、最高級の韓牛が楽しめるお店です。"
+        },
+        {
+            "question": "漢江屋（한강옥）はウルチロイック駅の近くに位置していますか？",
+            "answer": "はい、漢江屋（한강옥）はソウル特別市ウルチロイック駅の近くに位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 70,
+        "QA": 173
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_010825",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=950&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=00020000&ccbaCtcd=21&ccbaCpno=3412100020000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1995-12-15",
+        "domain": "문화/역사관광",
+        "title": "기장남산봉수대"
+    },
+    "text": "機長ナムサン・烽燧台 (기장남산봉수대)\\n\n釜山機張郡機張邑竹城里山52番地\\n\n985 , 釜山広域市文化財資料 , 烽燧台は松明と煙を利用して急な便りを伝えていた昔の通信手段をいい、高い山に登って火を起こし昼間は煙で夜は明かりで信号を送った。 機張郡機張邑竹城里にあるこの烽燧台は中央の烽燧台は直径2.4m、周囲9mの石で積まれており、高さ1.5m、幅1.5m、直径30~40cmの火鉢があった。 南側に海雲台間のビオ山烽燧台、北側に林浪および子供烽燧台に連結されている。 高麗成宗4年(985)に設置し、高宗31年(1894)甲午改革の時に現代的な電話通信体制に変わり廃止され、原型が比較的よく保存された方だ。",
+    "QA": [
+        {
+            "question": "烽燧台は何のために使用されていましたか？",
+            "answer": "烽燧台は松明と煙を利用して急な便りを伝えるために使用されました。"
+        },
+        {
+            "question": "烽燧台の場所はどこですか？",
+            "answer": "烽燧台は釜山広域市文化財資料の中に位置しており、釜山機張郡機張邑竹城里山の52番地にあります。"
+        },
+        {
+            "question": "烽燧台はいつ設置されましたか？",
+            "answer": "烽燧台は高麗成宗4年(985)に設置されました。"
+        },
+        {
+            "question": "烽燧台はいつ廃止されましたか？",
+            "answer": "烽燧台は高宗31年(1894)甲午改革の時に廃止されました。"
+        },
+        {
+            "question": "烽燧台の特徴は何ですか？",
+            "answer": "烽燧台は中央の烽燧台は直径2.4m、周囲9mの石で積まれており、高さ1.5m、幅1.5m、直径30~40cmの火鉢がありました。南側には海雲台間のビオ山烽燧台、北側には林浪および子供烽燧台に連結されていました。"
+        }
+    ],
+    "word_Count": {
+        "text": 226,
+        "QA": 229
+    }
+}

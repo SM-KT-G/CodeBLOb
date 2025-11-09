@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_077840",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/collectionList#######",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2023-10-11",
+        "domain": "문화/역사관광",
+        "title": "사료조사3 경남김해 수로왕릉"
+    },
+    "text": "史料調査3 慶尚南道金海市 (사료조사3 경남김해 수로왕릉)\\n\nこの文章は、1914年に撮影された史跡73号の写真に関する情報を伝えています。写真の場所は韓国の慶尚南道金海市西上洞（キョンサンナムド·キムヘシ·ソサンドン）です。写真はガラス製の宝石素材で、メディアの一種であるフィルムに記録されています。サイズは横16.4cm、縦11.9cmです。",
+    "QA": [
+        {
+            "question": "写真は何年に撮影されましたか？",
+            "answer": "写真は1914年に撮影されました。"
+        },
+        {
+            "question": "写真の場所はどこですか？",
+            "answer": "写真の場所は韓国の慶尚南道金海市西上洞です。"
+        },
+        {
+            "question": "写真の素材は何ですか？",
+            "answer": "写真の素材はガラス製の宝石素材です。"
+        },
+        {
+            "question": "写真はどのようなメディアに記録されていますか？",
+            "answer": "写真はフィルムというメディアに記録されています。"
+        },
+        {
+            "question": "写真のサイズはどのくらいですか？",
+            "answer": "写真のサイズは横16.4cm、縦11.9cmです。"
+        }
+    ],
+    "word_Count": {
+        "text": 129,
+        "QA": 134
+    }
+}

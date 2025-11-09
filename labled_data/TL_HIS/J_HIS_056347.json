@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_056347",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=421&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=00600000&ccbaCtcd=35&ccbaCpno=2113500600000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1974-09-27",
+        "domain": "문화/역사관광",
+        "title": "김제동헌"
+    },
+    "text": "キム·ジェドンホン\\n\n全羅北道金堤市校洞7-3番地\\n\n全羅北道有形文化財、朝鮮時代の村の公務を遂行していた官衙建物として玄宗8年(1667)に初めてなっており、粛宗25年(1699)に修理したと伝えられている。前面7間・側面4間規模であり、屋根側面が八(八部)字形の入母屋造りである。中での右6間に板の間があって左4間はオンドル部屋だ。外壁は四方全体に同じ形のドアが付いており、前面の中央の1間と裏面の左側に出入り口をつけた。全体的に簡潔ながらも前面を7間として威厳のある建築形態を備えており、朝鮮時代の官庁建築の性格をよく示している。",
+    "QA": [
+        {
+            "question": "この官衙建物はいつ作られましたか？",
+            "answer": "この官衙建物は玄宗8年(1667)に初めて作られました。"
+        },
+        {
+            "question": "この官衙建物はどのような形態を備えていますか？",
+            "answer": "この官衙建物は前面が7間として威厳のある建築形態を備えています。"
+        },
+        {
+            "question": "この官衙建物はどのような特徴を持っていますか？",
+            "answer": "この官衙建物は朝鮮時代の官庁建築の性格をよく示しており、簡潔ながらも威厳があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 198,
+        "QA": 121
+    }
+}

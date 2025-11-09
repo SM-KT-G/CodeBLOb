@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_095590",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=952&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=00030000&ccbaCtcd=33&ccbaCpno=3413300030000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1985-12-28",
+        "domain": "문화/역사관광",
+        "title": "음성 팔성리 고가"
+    },
+    "text": "陰城八星里高架\\n\n忠清北道陰城郡笙極面八星キル82番キル13(八星里)\\n\n1930年代、忠清北道文化財資料、1930年ごろ建てた家で、もともとは舍廊を備えていたが、今は母屋だけが残っている。母屋は低い自然石の基壇の上に立てた鉤型平面を持った建物である。屋根は側面から見ると、八(八部)の字の形をした入母屋屋根で、中央に板の間を置いて両側にオンドル部屋を置いた。オンドル部屋は前後にカーンが分かれたギョプジプ形式であり、建物前は縁側を加えて床が広く見えている。",
+    "QA": [
+        {
+            "question": "この家はどの時代に建てられましたか？",
+            "answer": "1930年代に建てられました。"
+        },
+        {
+            "question": "この家はどの地域に位置していますか？",
+            "answer": "忠清北道陰城郡笙極面の八星里に位置しています。"
+        },
+        {
+            "question": "この家の特徴的な建築様式は何ですか？",
+            "answer": "この家は鉤型平面を持った建物で、八(八部)の字の形をした入母屋屋根を持っています。"
+        },
+        {
+            "question": "この家にはどのような特別な設計がありますか？",
+            "answer": "建物内には板の間を置いて両側にオンドル部屋を持っており、建物前には縁側があります。"
+        },
+        {
+            "question": "この家の歴史的な背景について教えてください。",
+            "answer": "この家は1930年代に建てられ、もともとは舍廊を備えていましたが、現在は母屋だけが残っています。"
+        }
+    ],
+    "word_Count": {
+        "text": 169,
+        "QA": 195
+    }
+}

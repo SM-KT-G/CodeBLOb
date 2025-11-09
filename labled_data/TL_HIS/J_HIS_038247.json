@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_038247",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=957&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=00070000&ccbaCtcd=24&ccbaCpno=3412400070000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1985-02-25",
+        "domain": "문화/역사관광",
+        "title": "용진정사"
+    },
+    "text": "湧珍精舍 (용진정사)\\n\n光州光山区旺洞山3-2番地\\n\n光州広域市文化財資料、韓末の道学者オ·ジュンソン(1851~1931)が講堂を建てて後学を養成したところだ。 オ·ジュンソンはオ·ハギュの息子として生まれ、伯父ハンギュに養子縁組された。 18歳からは労使のキ·ジョンジンに学び学問の幅を広げ、日帝の懐柔政策にも屈せず1917年に龍津山に入って人生を終えるまで後学を教えた。 龍津精舎は本来、龍津寺という寺があったところだが、寺が崩れた後、正安李氏がその跡を持っていた。 この時、オ·ジュンソンの意思を伝え聞いて寺跡の一部を譲って建物を建てることになった。 オ·ジュンソンが亡くなった後、文人たちが講堂の東側に3間の龍真影堂を建て、1924年にチェ·ヨンシンが描いた肖像画を祀った。 霊堂の左右の壁には長男のオ·ホンスと次男のオ·ドンスの遺影が一緒にかかっている。",
+    "QA": [
+        {
+            "question": "湧珍精舎はどこにありますか？",
+            "answer": "湧珍精舎は光山区旺洞山3-2番地にあります。"
+        },
+        {
+            "question": "湧珍精舎の歴史は何ですか？",
+            "answer": "湧珍精舎は韓末の道学者オ·ジュンソンが建てた講堂で、後学を養成していた場所です。オ·ジュンソンは龍津山に入るまで後学を教え続けました。"
+        },
+        {
+            "question": "龍津精舎とは何ですか？",
+            "answer": "龍津精舎は元々龍津寺という寺があった場所で、寺が崩れた後、オ·ジュンソンの意思を受けて建物が建てられました。"
+        },
+        {
+            "question": "霊堂の中に何が祀られていますか？",
+            "answer": "霊堂の中にはチェ·ヨンシンが描いたオ·ジュンソンの肖像画が祀られています。また、左右の壁にはオ·ジュンソンの長男と次男の遺影も一緒に掛けられています。"
+        }
+    ],
+    "word_Count": {
+        "text": 283,
+        "QA": 199
+    }
+}

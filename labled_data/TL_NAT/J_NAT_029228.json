@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_029228",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101933",
+        "collectedDate": "2023-10-06",
+        "publishedDate": "2020-01-01",
+        "domain": "자연관광",
+        "title": "구름산"
+    },
+    "text": "雲山\\n\nクルムサンは高さ237mで大韓民国光明市で最も高い主山であり、別名''アバンサン''とも呼ばれる。光明市民らが好んで訪れている森が生い茂った山だ。2010年5月には往復6車線サングル方式であるクルムサントンネルの上り線が開通した。",
+    "QA": [
+        {
+            "question": "クルムサンはどのくらいの高さですか？",
+            "answer": "クルムサンは237mの高さがあります。"
+        },
+        {
+            "question": "クルムサンの別名は何ですか？",
+            "answer": "クルムサンは別名''アバンサン''とも呼ばれます。"
+        },
+        {
+            "question": "クルムサンはどの市にありますか？",
+            "answer": "クルムサンは大韓民国光明市にあります。"
+        },
+        {
+            "question": "クルムサンにはどんな特徴がありますか？",
+            "answer": "クルムサンは生い茂った森があり、光明市民らが好んで訪れる山です。"
+        },
+        {
+            "question": "クルムサントンネルの開通はいつですか？",
+            "answer": "クルムサントンネルの上り線は2010年5月に開通しました。"
+        },
+        {
+            "question": "クルムサントンネルの仕様はどのようになっていますか？",
+            "answer": "クルムサントンネルは往復6車線サングル方式です。"
+        }
+    ],
+    "word_Count": {
+        "text": 88,
+        "QA": 190
+    }
+}

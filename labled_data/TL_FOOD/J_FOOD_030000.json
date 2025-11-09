@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_030000",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/omori-chige",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "オモリチゲ 乙支路店"
+    },
+    "text": "オモリチゲ 乙支路店\\n\nソウル特別市 中区 草洞 19-12, 2階\\n\n乙支路3街駅ミョンボ劇場の向こう「オモリチゲ」は24時間営業で、週末深夜の時間に利用することができます。 「オモリチゲ」はキムチチゲと手打ちジャージャー麺が代表メニューです。",
+    "QA": [
+        {
+            "question": "オモリチゲの場所はどこですか？",
+            "answer": "オモリチゲはソウル特別市中区草洞19-12、2階にあります。"
+        },
+        {
+            "question": "オモリチゲの営業時間は何時から何時までですか？",
+            "answer": "オモリチゲは24時間営業しています。"
+        },
+        {
+            "question": "オモリチゲの代表メニューは何ですか？",
+            "answer": "オモリチゲの代表メニューはキムチチゲと手打ちジャージャー麺です。"
+        },
+        {
+            "question": "週末の深夜にオモリチゲを利用することはできますか？",
+            "answer": "はい、オモリチゲは週末深夜の時間にも利用することができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 91,
+        "QA": 140
+    }
+}

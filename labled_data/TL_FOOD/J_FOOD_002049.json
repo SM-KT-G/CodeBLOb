@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_002049",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2020-11-26",
+        "domain": "음식점",
+        "title": "SakuSaku( 사쿠사쿠 )"
+    },
+    "text": "SakuSaku( 사쿠사쿠 )\\n\n京畿道 平沢市 ジョゲト路 25\\n\nかりっとした食感が絶品の店です。おすすめはイカ天ぷらです。京畿道のピョンテク市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "店の場所はどこですか？",
+            "answer": "店は京畿道平沢市ジョゲト路25に位置しています。"
+        },
+        {
+            "question": "おすすめの料理は何ですか？",
+            "answer": "おすすめはイカ天ぷらです。かりっとした食感が絶品です。"
+        },
+        {
+            "question": "この店は何を専門としていますか？",
+            "answer": "この店は韓食を専門としています。"
+        },
+        {
+            "question": "この店はどの市に位置していますか？",
+            "answer": "この店は京畿道のピョンテク市に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 66,
+        "QA": 107
+    }
+}

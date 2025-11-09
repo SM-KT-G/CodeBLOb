@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_018572",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101933",
+        "collectedDate": "2023-10-06",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "보현산천문대"
+    },
+    "text": "普賢山天文台\\n\n普賢山天文台は慶尚北道永川市華北面にある普賢山の頂上に建設された天文台だ。 韓国天文研究院傘下の天文学研究機関として、韓国最大の1.8m反射望遠鏡および太陽フレア望遠鏡など多数の天体観測施設を保有している。\n",
+    "QA": [
+        {
+            "question": "普賢山天文台はどこにありますか？",
+            "answer": "普賢山天文台は慶尚北道永川市華北面にあります。"
+        },
+        {
+            "question": "普賢山天文台は何のために建設されましたか？",
+            "answer": "普賢山天文台は天文学研究機関として、天体観測を行うために建設されました。"
+        },
+        {
+            "question": "普賢山天文台が保有している主な施設は何ですか？",
+            "answer": "普賢山天文台は1.8m反射望遠鏡や太陽フレア望遠鏡など、多数の天体観測施設を保有しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 82,
+        "QA": 121
+    }
+}

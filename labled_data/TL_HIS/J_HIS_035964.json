@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_035964",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101971",
+        "collectedDate": "2023-09-07",
+        "publishedDate": "2018-05-03",
+        "domain": "문화/역사관광",
+        "title": "臨時政府要人の帰国記念署名布"
+    },
+    "text": "壁に掛かったこの資料は大韓民国臨時政府の要人が1945年11月、帰国する前日、祖国の解放と帰国の感懐を記した署名布です。独立の喜び、新しい国づくりの意欲が窺えます。",
+    "QA": [
+        {
+            "question": "この署名布は誰が書かれたものですか？",
+            "answer": "大韓民国臨時政府の要人が書かれました。"
+        },
+        {
+            "question": "この署名布はいつ書かれましたか？",
+            "answer": "1945年11月、帰国する前日に書かれました。"
+        },
+        {
+            "question": "この署名布にはどんな内容が書かれていますか？",
+            "answer": "祖国の解放と帰国の感懐、独立の喜び、新しい国づくりの意欲が書かれています。"
+        }
+    ],
+    "word_Count": {
+        "text": 60,
+        "QA": 99
+    }
+}

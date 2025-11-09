@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_037428",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=138&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=12150400&ccbaCtcd=25&ccbaCpno=1121112150400&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1995-12-04",
+        "domain": "문화/역사관광",
+        "title": "이색 초상 - 대전영당본"
+    },
+    "text": "李穡肖像 - 大田影堂本 (이색 초상 - 대전영당본)\\n\n大田広域市儒城区図案大路398(上大洞、大田広域市儒城区図案大路398)\\n\n宝物、高麗末の三隠の一人である牧隠イ·セク(1328~1396)先生の肖像画だ。 イ·セクの肖像画は本来、官服姿と普段着姿の2種類があったが、現在は官服姿だけが伝えられている。 官服姿の絵も原本は渡さず原本を見て移して描いたもので、計4本5点が伝えられる。 横78.7㎝、縦146.3㎝の大きさの大田影堂本は憲宗10年(1844)に移して描いたもので、楼山影堂本と同じ形と規模であり、優れた画家によって昔の絵の画風がよく表現された肖像画だ。",
+    "QA": [
+        {
+            "question": "李穡肖像は誰の肖像画ですか？",
+            "answer": "牧隠イ·セク先生の肖像画です。"
+        },
+        {
+            "question": "李穡肖像はどこで見ることができますか？",
+            "answer": "大田影堂本で見ることができます。"
+        },
+        {
+            "question": "李穡肖像はいつ描かれましたか？",
+            "answer": "憲宗10年(1844)に描かれました。"
+        },
+        {
+            "question": "李穡肖像はどれくらいの大きさですか？",
+            "answer": "横78.7㎝、縦146.3㎝の大きさです。"
+        },
+        {
+            "question": "李穡肖像はどのような画風で描かれていますか？",
+            "answer": "昔の絵の画風がよく表現された肖像画です。"
+        }
+    ],
+    "word_Count": {
+        "text": 212,
+        "QA": 131
+    }
+}

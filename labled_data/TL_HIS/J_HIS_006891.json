@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_006891",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1109&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=02730000&ccbaCtcd=38&ccbaCpno=3413802730000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1998-11-13",
+        "domain": "문화/역사관광",
+        "title": "거제 장문포 왜성"
+    },
+    "text": "巨済長門浦倭城 (거제 장문포 왜성)\\n\n慶尚南道巨済市長木面長木里130-43番地\\n\n慶尚南道文化財資料 , 慶尚南道巨済市北側の長木湾入口の丘の頂上にあるこの城は、日本が積み上げた倭城で、向い側にも松津浦倭城がある。 城の周囲は710mで、城壁の高さは3.5mだ。 城壁はほとんど毀損され、城郭の周辺には木と茂みが茂っており、確実な構造と姿を把握するのが難しい。 今はやっと城壁の基壇部だけが残っており、近くには瓦礫がたくさん散らばっている。 残っている部分を見ると、丘の頂上の真ん中に本城を置き、その両側に第2城と第3城を配置したものと見られる。 そして長く土で積み上げて曲がるように連結された北端に再び銃口を置いた。 この長門浦は後に長木鎮を設置し、倭寇侵略に備えた。",
+    "QA": [
+        {
+            "question": "この倭城はどこにありますか？",
+            "answer": "巨済市長木面長木里130-43番地に位置しています。"
+        },
+        {
+            "question": "この倭城は何のために建てられましたか？",
+            "answer": "この倭城は日本が積み上げた城で、倭寇侵略に備えるために建てられました。"
+        },
+        {
+            "question": "倭城の城壁はどのくらいの高さですか？",
+            "answer": "城壁の高さは3.5mです。"
+        },
+        {
+            "question": "倭城の周囲の長さはどのくらいですか？",
+            "answer": "倭城の周囲は710mです。"
+        },
+        {
+            "question": "倭城の構造や姿を把握することは難しいですか？",
+            "answer": "はい、城壁のほとんどが毀損され、周囲には木や茂みが茂っているため、確実な構造と姿を把握するのは難しいです。"
+        }
+    ],
+    "word_Count": {
+        "text": 249,
+        "QA": 169
+    }
+}

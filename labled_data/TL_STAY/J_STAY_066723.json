@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_066723",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42061&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "대전 중리 썸 운영 정책"
+    },
+    "text": "チェックインは午後5時から可能で、チェックアウトは午前1時までです。 チェックインとチェックアウトの時間に関する案内があります。 また、ご予約の方は様々な特典を受けることができます。 客室ではネットフリックスを視聴でき、最新映画を無料で鑑賞することもできます。 ゲーム好きの方のためにカップル用にデザインされたPCが完備されており、3Dゲームを楽しむことができます。 ゲームを自動的にパッチしてくれる機能もあり、ネットカフェよりも便利です。 ノーハードPCZONEはCPUがi36100で、RAMはサムスン8Gです。 VGAはGTX750Tiで、画面は24インチLEDモニターで構成されています。 またスナックバーも運営されており、コーヒー、ポップコーン、ポテトなど様々な軽食をお楽しみいただけます。",
+    "QA": [
+        {
+            "question": "チェックインは何時から可能ですか？",
+            "answer": "午後5時からチェックインが可能です。"
+        },
+        {
+            "question": "チェックアウトは何時までですか？",
+            "answer": "チェックアウトは午前1時までとなっております。"
+        },
+        {
+            "question": "どのような特典がありますか？",
+            "answer": "客室ではネットフリックスを視聴可能で、最新映画を無料で鑑賞することもできます。また、カップル用にデザインされたPCが完備され、3Dゲームを楽しむことができます。"
+        },
+        {
+            "question": "PCZONEのスペックは？",
+            "answer": "PCZONEはCPUがi36100で、RAMはサムスン8Gです。VGAはGTX750Tiで、画面は24インチLEDモニターで構成されています。"
+        },
+        {
+            "question": "スナックバーで提供される軽食には何がありますか？",
+            "answer": "スナックバーではコーヒー、ポップコーン、ポテトなどの軽食をお楽しみいただけます。"
+        }
+    ],
+    "word_Count": {
+        "text": 256,
+        "QA": 231
+    }
+}

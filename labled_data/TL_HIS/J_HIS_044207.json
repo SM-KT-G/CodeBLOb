@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_044207",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=581&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=02950000&ccbaCtcd=38&ccbaCpno=2113802950000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1993-12-27",
+        "domain": "문화/역사관광",
+        "title": "거창 갈천서당"
+    },
+    "text": "居昌葛川書堂\\n\n慶尚南道居昌郡北上面松渓路767-34(葛渓里)\\n\n1573、慶尚南道有形文化財、この寺子屋は、朝鮮明宗時代のユクヒョンシンの一人で、光州(クァンジュ)牧師を務めた葛川イムフンイ、後学の養成に向けて彼の弟イムウンと1573年に建設した。その後1878年に子孫らが再建した木造と仮建物であること。建物構成は講堂と玄関になっているが、講堂は正面5間、側面1間半の切妻屋根ホッチョ舞子の両側にプンパンをつけたこと。軒下にはその当時使用していた北朝鮮のウェトンイかかっている。門は切妻屋根そびえを門であり、庭には子孫たちが立てた二人の兄弟の神道碑が並んで建てられている。...",
+    "QA": [
+        {
+            "question": "この寺子屋はいつ建設されましたか？",
+            "answer": "1573年に建設されました。"
+        },
+        {
+            "question": "この寺子屋は誰によって建設されましたか？",
+            "answer": "葛川イムフンイと彼の弟イムウンによって建設されました。"
+        },
+        {
+            "question": "この寺子屋はどのような建物構成ですか？",
+            "answer": "講堂と玄関になっており、講堂は正面5間、側面1間半の切妻屋根ホッチョ舞子の両側にプンパンをつけた建物です。"
+        },
+        {
+            "question": "この寺子屋の門はどのような形状ですか？",
+            "answer": "門は切妻屋根そびえを持つ形状です。"
+        },
+        {
+            "question": "この寺子屋の庭には何が建てられていますか？",
+            "answer": "庭には子孫たちが立てた二人の兄弟の神道碑が建てられています。"
+        }
+    ],
+    "word_Count": {
+        "text": 215,
+        "QA": 173
+    }
+}

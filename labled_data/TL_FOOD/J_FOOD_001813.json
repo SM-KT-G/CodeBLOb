@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001813",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-05-12",
+        "domain": "음식점",
+        "title": "kr明洞サムゲタン( kr명동삼계탕 )"
+    },
+    "text": "kr明洞サムゲタン\\n\nソウル特別市 中区 明洞８カキル 49\\n\n20年以上の伝統を持つお店で、韓方スープでサムゲタンを作ります。 おすすめはサムゲタンです。ソウル特別市のジュン区に位置した韓国料理店です。",
+    "QA": [
+        {
+            "question": "明洞サムゲタンはどんな場所にありますか？",
+            "answer": "明洞サムゲタンはソウル特別市中区の明洞８カキル 49に位置しています。"
+        },
+        {
+            "question": "明洞サムゲタンはどのような料理を提供していますか？",
+            "answer": "明洞サムゲタンは韓方スープでサムゲタンを作ります。特におすすめはサムゲタンです。"
+        },
+        {
+            "question": "明洞サムゲタンはどのくらいの歴史を持っていますか？",
+            "answer": "明洞サムゲタンは20年以上の伝統を持っています。"
+        },
+        {
+            "question": "明洞サムゲタンはどのエリアに位置していますか？",
+            "answer": "明洞サムゲタンはソウル特別市のジュン区に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 76,
+        "QA": 161
+    }
+}

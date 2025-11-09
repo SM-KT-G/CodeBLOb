@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_023501",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=375&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=00120000&ccbaCtcd=24&ccbaCpno=2112400120000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1986-11-01",
+        "domain": "문화/역사관광",
+        "title": "신룡동오층석탑"
+    },
+    "text": "新龍洞五重石塔 (신룡동오층석탑)\\n\n光州広域市光山区新龍洞山57-1\\n\n光州広域市有形文化財 , 人里離れた民家の横にそびえ立っている石塔で、現在は寺があった跡を見つけることはできないが、その横に石仏立像が1体あり、相当な規模の寺があったと考えられる。 塔は2階の基壇の上に5階の塔身を上げ、頭飾りを乗せた姿だ。 基壇は各面の四隅と中央に柱の形を刻んだ。 塔身部の石は2階から急に高さが低くなり5階まで適当に減り、屋根石は底面の支えが1~3階は4段ずつだったが、4~5階は3段に減った。 頂上には石の材質が異なる装飾が置かれているが、後で補充しておいたものと見られる。 全体的に形式に偏った姿であり、高麗前期に作られたものと推定される。 下の階の基壇が損傷し、一部がなくなってひどく割れた上の階の基壇はほとんど崩れるほどだったが、1981年解体、復元した。 塔の解体時に発見された遺物は、ギャン·ギャンに移して保存している。",
+    "QA": [
+        {
+            "question": "この石塔はどこにありますか？",
+            "answer": "新龍洞山57-1にあります。"
+        },
+        {
+            "question": "この石塔は何階建てですか？",
+            "answer": "この石塔は5階建てです。"
+        },
+        {
+            "question": "この石塔はいつ作られたと推定されていますか？",
+            "answer": "この石塔は高麗前期に作られたと推定されています。"
+        },
+        {
+            "question": "この石塔の基壇はどのような形をしていますか？",
+            "answer": "基壇は各面の四隅と中央に柱の形を刻んだ形をしています。"
+        },
+        {
+            "question": "この石塔の頂上には何が置かれていますか？",
+            "answer": "頂上には石の材質が異なる装飾が置かれています。"
+        }
+    ],
+    "word_Count": {
+        "text": 304,
+        "QA": 140
+    }
+}

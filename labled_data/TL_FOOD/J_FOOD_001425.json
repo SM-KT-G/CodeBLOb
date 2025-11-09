@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001425",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-06",
+        "domain": "음식점",
+        "title": "arirang ( 아리랑 )"
+    },
+    "text": "arirang ( 아리랑 )\\n\nソウル特別市 中区 ナムデムンロ7ギル23\\n\n上質な韓牛が味わえる、お集まりにぴったりの店です。ソウル特別市の中区に位置した韓食専門店です。代表的なメニューは味付けカルビです。",
+    "QA": [
+        {
+            "question": "この店の名前は何ですか？",
+            "answer": "この店の名前はアリラン（Arirang）です。"
+        },
+        {
+            "question": "この店はどこに位置していますか？",
+            "answer": "この店はソウル特別市の中区に位置しています。具体的な住所はナムデムンロ7ギル23です。"
+        },
+        {
+            "question": "この店ではどんな料理が味わえますか？",
+            "answer": "この店では代表的なメニューとして味付けカルビが味わえます。"
+        },
+        {
+            "question": "この店はどんな場面におすすめですか？",
+            "answer": "この店は上質な韓牛が味わえるため、お集まりや特別な場面におすすめです。"
+        }
+    ],
+    "word_Count": {
+        "text": 78,
+        "QA": 142
+    }
+}

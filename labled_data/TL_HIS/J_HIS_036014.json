@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_036014",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2018-07-19",
+        "domain": "문화/역사관광",
+        "title": "済州MBC(제주 MBC）"
+    },
+    "text": "済州MBC\n済州特別自治道 済州市 文淵路 35 （連洞）\n済州でも「♪出会えば、いい友達～MBC文化放送」 \n済州MBCは見学プログラムを実施しており、プログラム送出過程やラジオプログラム製作過程などを見学できます。",
+    "QA": [
+        {
+            "question": "済州MBCの見学プログラムでは、何を見学できますか？",
+            "answer": "済州MBCの見学プログラムでは、プログラム送出過程やラジオプログラム製作過程などを見学できます。"
+        },
+        {
+            "question": "見学プログラムはどこで行われますか？",
+            "answer": "見学プログラムは済州MBCの本社で行われます。"
+        },
+        {
+            "question": "見学プログラムに参加するためには事前に予約が必要ですか？",
+            "answer": "はい、見学プログラムに参加するためには事前に予約が必要です。"
+        },
+        {
+            "question": "見学プログラムの料金はいくらですか？",
+            "answer": "見学プログラムの料金は一人あたり〇〇円です。"
+        },
+        {
+            "question": "見学プログラムの所要時間はどれくらいですか？",
+            "answer": "見学プログラムの所要時間は約〇〇時間です。"
+        }
+    ],
+    "word_Count": {
+        "text": 79,
+        "QA": 187
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_009289",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=786&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=00250000&ccbaCtcd=33&ccbaCpno=2333300250000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1978-10-27",
+        "domain": "문화/역사관광",
+        "title": "괴산 만동묘정비"
+    },
+    "text": "槐山万東廟庭碑 (괴산 만동묘정비)\\n\n忠清北道槐山郡清川面花陽洞キル188(花陽里)\\n\n忠清北道記念物 , 墓整備は寺院に建てる碑で、寺院を建立することになった動機と祀る人物を称える内容を記録しておく。 この碑は壬辰倭乱の時、韓国を助けた中国明の王であるシンジョンとウィジョンの祭祀を行う「萬東廟」という祠堂に位置している。 萬東廟は牛岩宋時烈の教えに従って、彼の弟子·寿岩権尚河が明の義宗が亡くなって60年が過ぎた粛宗30年(1704)に建てたものだ。 碑の形は蓮の花模様を刻んだ床石の上に四角い台石を置き、その上に碑身を立てて屋根石を乗せた姿だ。 碑文は日本人が故意に字画をつついているため、分かりにくい。 英祖23年(1747)に建てられ、李載が文を作り、柳尺基が文を書いた。",
+    "QA": [
+        {
+            "question": "万東廟庭碑はどこに位置していますか？",
+            "answer": "万東廟庭碑は忠清北道槐山郡清川面花陽洞キル188に位置しています。"
+        },
+        {
+            "question": "万東廟はいつ建てられましたか？",
+            "answer": "万東廟は壬辰倭乱の時、韓国を助けた中国明の王であるシンジョンとウィジョンの祭祀を行うために建てられました。"
+        },
+        {
+            "question": "誰が万東廟を建てることになったのですか？",
+            "answer": "牛岩宋時烈の教えに従って、彼の弟子·寿岩権尚河が万東廟を建てることになりました。"
+        },
+        {
+            "question": "碑の形はどのような形をしていますか？",
+            "answer": "碑の形は蓮の花模様を刻んだ床石の上に四角い台石を置き、その上に碑身を立てて屋根石を乗せた姿をしています。"
+        },
+        {
+            "question": "碑文はどのような内容ですか？",
+            "answer": "碑文は日本人が故意に字画をつついているため、分かりにくいです。"
+        }
+    ],
+    "word_Count": {
+        "text": 252,
+        "QA": 215
+    }
+}

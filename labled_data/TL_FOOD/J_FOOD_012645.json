@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_012645",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-06",
+        "domain": "음식점",
+        "title": "フィレドゥン (희래등)"
+    },
+    "text": "フィレドゥン (희래등)\\n\nソウル特別市 銅雀区 トゥンヨン路 123（大方洞）\\n\n30年の伝統のフィレドゥンが南山から大方洞に移転し、便利な立地と駐車場、モダンでクリーンな雰囲気が特徴です。新鮮な材料で作られた料理は、さまざまなコース料理があります。",
+    "QA": [
+        {
+            "question": "フィレドゥンはどこにありますか？",
+            "answer": "フィレドゥンはソウル特別市の銅雀区大方洞にあります。"
+        },
+        {
+            "question": "フィレドゥンの特徴は何ですか？",
+            "answer": "フィレドゥンの特徴は、便利な立地と駐車場、モダンでクリーンな雰囲気です。"
+        },
+        {
+            "question": "フィレドゥンの料理はどのように作られていますか？",
+            "answer": "フィレドゥンの料理は新鮮な材料で作られており、さまざまなコース料理があります。"
+        },
+        {
+            "question": "フィレドゥンにはどのようなコース料理がありますか？",
+            "answer": "フィレドゥンにはさまざまなコース料理があります。具体的な内容については、お店にお問い合わせください。"
+        }
+    ],
+    "word_Count": {
+        "text": 93,
+        "QA": 169
+    }
+}

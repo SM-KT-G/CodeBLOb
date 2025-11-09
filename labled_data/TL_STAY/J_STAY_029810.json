@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_029810",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.goodchoice.kr/product/detail?ano=65293&adcno=1&sel_date=2023-11-07&sel_date2=2023-11-08",
+        "collectedDate": "2023-11-15",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "전주 늘품호텔"
+    },
+    "text": "2020年に新規オープンした駐車場は、計20台の駐車施設を保有しています。 今回のオープンを記念して破格割引価格でご案内いたします。 土曜日に宿泊するお客様には、2人前の手作りのサンドイッチを無料で提供します。 ただし、この特別特典は金曜日に予約したお客様のみに提供されます。",
+    "QA": [
+        {
+            "question": "オープンした駐車場の台数はいくつですか？",
+            "answer": "計20台の駐車施設を保有しています。"
+        },
+        {
+            "question": "駐車場のオープンを記念して何か特典はありますか？",
+            "answer": "土曜日に宿泊するお客様には、2人前の手作りのサンドイッチを無料で提供します。"
+        },
+        {
+            "question": "特典はどのような条件で提供されますか？",
+            "answer": "特別特典は金曜日に予約したお客様のみに提供されます。"
+        }
+    ],
+    "word_Count": {
+        "text": 101,
+        "QA": 106
+    }
+}

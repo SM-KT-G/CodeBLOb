@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_002141",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2020-12-22",
+        "domain": "음식점",
+        "title": "THE PLACE Dining（더플레이스 다이닝）"
+    },
+    "text": "THE PLACE Dining（더플레이스 다이닝）\\n\nソウル特別市 龍山区 南山公園キル105\\n\n「THE PLACE Dining（ザプレイスダイニング）」は、南山の自然を満喫しながら、ピザやパスタ、ラビオリといったイタリアのホームメイドスタイルの料理を堪能できます。また、40種類以上のワインもあり、くつろいだひと時が楽しめます。",
+    "QA": [
+        {
+            "question": "場所はどこですか？",
+            "answer": "THE PLACE Dining（ザプレイスダイニング）はソウル特別市龍山区南山公園キル105にあります。"
+        },
+        {
+            "question": "どのような料理が楽しめますか？",
+            "answer": "THE PLACE Diningでは、イタリアのホームメイドスタイルの料理が楽しめます。ピザやパスタ、ラビオリなどが人気です。"
+        },
+        {
+            "question": "ワインの種類は何種類ありますか？",
+            "answer": "THE PLACE Diningでは、40種類以上のワインが取り揃えられています。"
+        },
+        {
+            "question": "自然を満喫できる場所ですか？",
+            "answer": "はい、THE PLACE Diningは南山の自然を満喫しながら食事を楽しめる場所です。"
+        },
+        {
+            "question": "くつろげる雰囲気ですか？",
+            "answer": "はい、THE PLACE Diningではくつろいだひと時を過ごすことができる雰囲気があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 125,
+        "QA": 231
+    }
+}

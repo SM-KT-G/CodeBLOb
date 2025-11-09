@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_004926",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101933",
+        "collectedDate": "2023-10-06",
+        "publishedDate": "2020-01-01",
+        "domain": "문화/역사관광",
+        "title": "화장사"
+    },
+    "text": "ファサ\nファサの別の意味は次の通りである。 寺名「華蔵寺」はソウル銅雀区国立墓地内の曹渓宗寺院である。 華蔵寺(ファサ)は忠清北道清州市の曹渓宗寺院である。ファサは大邱達西区にある曹渓宗の寺院である。 華蔵寺は京畿道開城市にある寺院である。 華蔵寺は咸鏡南道丹川郡にあった寺である。 ファサは慶尚南道咸陽郡にあった寺である。 その他「化師」は日本の映画作品である。\n",
+    "QA": [
+        {
+            "question": "華蔵寺はどこにありますか？",
+            "answer": "華蔵寺はソウル銅雀区国立墓地内にあります。"
+        },
+        {
+            "question": "華蔵寺はどの宗派の寺院ですか？",
+            "answer": "華蔵寺は曹渓宗の寺院です。"
+        },
+        {
+            "question": "華蔵寺はどの地域にありますか？",
+            "answer": "華蔵寺は忠清北道清州市にあります。"
+        },
+        {
+            "question": "ファサはどこにありますか？",
+            "answer": "ファサは大邱達西区にあります。"
+        },
+        {
+            "question": "ファサはどの宗派の寺院ですか？",
+            "answer": "ファサは曹渓宗の寺院です。"
+        },
+        {
+            "question": "ファサはどの地域にありますか？",
+            "answer": "ファサは慶尚南道咸陽郡にありましたが、現在は存在しません。"
+        }
+    ],
+    "word_Count": {
+        "text": 134,
+        "QA": 142
+    }
+}

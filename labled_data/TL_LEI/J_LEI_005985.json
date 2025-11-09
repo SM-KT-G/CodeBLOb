@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_LEI_005985",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2022-11-24",
+        "domain": "레포츠",
+        "title": "앙티브"
+    },
+    "text": "アンティーブはフランスにある有名なリゾート地として知られています。 この宿は一年中自然と文化祭が調和した加平に位置しているので、休養地に来たように感じます。 周辺には南怡島、ザラ島、プチフランス、アチムゴヨ樹木園などの有名な観光地も楽しめます。",
+    "QA": [
+        {
+            "question": "アンティーブはどのようなリゾート地ですか？",
+            "answer": "アンティーブは自然と文化が調和した加平に位置し、一年中休養地として人気です。"
+        },
+        {
+            "question": "アンティーブ周辺にはどのような観光地がありますか？",
+            "answer": "アンティーブ周辺には南怡島、ザラ島、プチフランス、アチムゴヨ樹木園などの有名な観光地があります。"
+        },
+        {
+            "question": "アンティーブで楽しめるイベントや祭りはありますか？",
+            "answer": "アンティーブでは一年中自然と文化の祭りが調和したイベントが開催されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 89,
+        "QA": 143
+    }
+}

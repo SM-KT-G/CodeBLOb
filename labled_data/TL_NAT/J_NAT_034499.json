@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_NAT_034499",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=1035&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=00990000&ccbaCtcd=34&ccbaCpno=3413400990000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1984-05-17",
+        "domain": "자연관광",
+        "title": "사자루"
+    },
+    "text": "楼はブソサンの西にある嶺の頂上に位置したのに、ここは海抜106mでブソサンで最も高い所だ。東は渓竜山(ケリョンサン)、西は九龍平野、南は・聖興山城、北はウルソンサン成果増産性を一目で見ることができる。ここには見張り小屋があったと推定され、1919年、キム・チャンス、パク・郡守がイムチョン門楼を移して楼を立てた。1990年に改修されて現在まで残っている。建物は八角構造で建てられており、長大石基壇の上に位置する。正面には3間、側面には2間の入母屋屋根がある。ここでは、金銅仏も発見され、国立扶餘(プヨ)博物館に展示されている。楼という名前は、1919年、高宗(コジョン)の息子が書いたところ、誤って'泗沘樓'と書かれて扁額を変えた。この混同は『三国遺事』に付与を'泗沘'と'泗泚'と混用したことから由来されており、実際には'所夫里'と解釈されことができる。これによって2002年に名称が'サビル'で'楼'に変更された。",
+    "QA": [
+        {
+            "question": "この場所はどこに位置していますか？",
+            "answer": "この楼はブソサンの西にある嶺の頂上に位置しています。"
+        },
+        {
+            "question": "楼から何が見えますか？",
+            "answer": "楼からは渓竜山、九龍平野、聖興山城、ウルソンサンなどを一目で見ることができます。"
+        },
+        {
+            "question": "楼はいつ建てられましたか？",
+            "answer": "楼は1919年に建てられました。"
+        },
+        {
+            "question": "楼の建物はどのような構造ですか？",
+            "answer": "楼の建物は八角構造で、長大石基壇の上に位置し、正面には3間、側面には2間の入母屋屋根があります。"
+        },
+        {
+            "question": "楼で発見されたものは何ですか？",
+            "answer": "楼では金銅仏も発見され、国立扶餘博物館に展示されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 299,
+        "QA": 169
+    }
+}

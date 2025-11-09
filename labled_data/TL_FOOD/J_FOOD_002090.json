@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_002090",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-01",
+        "domain": "음식점",
+        "title": "Songtan Budaejjiage ( 송탄부대찌개 비전 )"
+    },
+    "text": "Songtan Budaejjiage \n京畿道 平沢市 平沢5路76ボンキル 18-5\n平沢の有名なプデチゲのグルメ店です。京畿道のピョンテク市に位置した韓食専門店です。おすすめはプデチゲです。",
+    "QA": [
+        {
+            "question": "このグルメ店の場所はどこですか？",
+            "answer": "グルメ店は京畿道平沢市平沢5路76ボンキル 18-5に位置しています。"
+        },
+        {
+            "question": "このグルメ店の名前は何ですか？",
+            "answer": "このグルメ店の名前は「Songtan Budaejjiage」です。"
+        },
+        {
+            "question": "このグルメ店ではどのような料理がおすすめですか？",
+            "answer": "このグルメ店ではプデチゲがおすすめです。"
+        },
+        {
+            "question": "このグルメ店は韓食専門店ですか？",
+            "answer": "はい、このグルメ店は韓食専門店です。"
+        }
+    ],
+    "word_Count": {
+        "text": 71,
+        "QA": 130
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_007583",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=660&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=04860000&ccbaCtcd=37&ccbaCpno=2113704860000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2015-12-28",
+        "domain": "문화/역사관광",
+        "title": "경주 숭덕전 제기"
+    },
+    "text": "慶州崇徳殿祭器 (경주 숭덕전 제기 )\\n\n慶尚北道慶州市\\n\n慶尚北道有形文化財 , 慶州崇徳殿祭器は新羅の始祖パク·ヒョクゴセを祀った崇徳殿祭香に使われる祭器である。祭祀の器として使われる2点の器は製作当時の原型がよく保存された遺物であり、「萬曆己卯造」という銘文から宣祖12年(1579)に製作された祭器であることが分かり、これまで把握された朝鮮時代の国家祭祀に使われた金属祭器の中で最も年代が先立つ遺物である。 酒を祭祀に供える時に使われる2点の爵と酒と水を注ぐ時に使われる1点の龍勺は製作技術や材質面で簠と同時期に製作された遺物とは見難く、朝鮮後期の18世紀に製作された遺物と推定される。",
+    "QA": [
+        {
+            "question": "慶州崇徳殿祭器は何に使われる祭器ですか？",
+            "answer": "慶州崇徳殿祭器は崇徳殿祭香に使われる祭器です。"
+        },
+        {
+            "question": "慶州崇徳殿祭器の製作年代はいつですか？",
+            "answer": "慶州崇徳殿祭器は宣祖12年(1579)に製作されました。"
+        },
+        {
+            "question": "慶州崇徳殿祭器は朝鮮時代の金属祭器の中で最も年代が古いですか？",
+            "answer": "はい、慶州崇徳殿祭器は朝鮮時代の金属祭器の中で最も年代が古い遺物です。"
+        },
+        {
+            "question": "慶州崇徳殿祭器と同時期に製作された遺物はありますか？",
+            "answer": "慶州崇徳殿祭器と製作技術や材質面で似た遺物として簠があります。"
+        },
+        {
+            "question": "慶州崇徳殿祭器はどのような祭器ですか？",
+            "answer": "慶州崇徳殿祭器は酒を祭祀に供える時に使われる2点の爵と、酒と水を注ぐ時に使われる1点の龍勺です。"
+        }
+    ],
+    "word_Count": {
+        "text": 220,
+        "QA": 205
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_079466",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ja",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2023-07-03",
+        "domain": "문화/역사관광",
+        "title": "삼방동전망대"
+    },
+    "text": "鉄岩駅向かい側の三芳洞の丘にある展望台で鉄岩駅と駅ドゥソン湛山、鉄岩の歴史村の全景が一望できる場所だ。三芳洞はびっしりついている家たちの間で狭い路地が迷路のように絡み合っている貧民街だが、向かい側の鉄岩の歴史村、足先の建物とともに、人はあふれて住宅が不足した鉱山町全盛期を垣間見せる。。",
+    "QA": [
+        {
+            "question": "展望台から何が見えますか？",
+            "answer": "鉄岩駅と駅ドゥソン湛山、鉄岩の歴史村の全景が一望できます。"
+        },
+        {
+            "question": "三芳洞について教えてください。",
+            "answer": "三芳洞はびっしりついている家たちの間で狭い路地が迷路のように絡み合っている貧民街です。"
+        },
+        {
+            "question": "鉄岩の歴史村はどのような雰囲気ですか？",
+            "answer": "鉄岩の歴史村は全盛期の鉱山町の雰囲気を残しており、足先の建物とともに、人はあふれて住宅が不足した鉱山町全盛期を垣間見せています。"
+        }
+    ],
+    "word_Count": {
+        "text": 104,
+        "QA": 134
+    }
+}

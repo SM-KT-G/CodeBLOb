@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_009117",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-08-31",
+        "domain": "음식점",
+        "title": "ソチョンチングネ（서촌친구네）"
+    },
+    "text": "ソチョンチングネ（서촌친구네）\\n\nソウル特別市 鐘路区 紫霞門路1キル 32\\n\nソウル特別市のジョンノ区に位置した海鮮専門店です。各種海産物をお出しするお店です。おすすめは貝の蒸し物です。",
+    "QA": [
+        {
+            "question": "この店の名前は何ですか？",
+            "answer": "ソチョンチングネ（서촌친구네）です。"
+        },
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "ソウル特別市 鐘路区 紫霞門路1キル 32に位置しています。"
+        },
+        {
+            "question": "この店ではどんな料理が提供されていますか？",
+            "answer": "海鮮専門店で、各種海産物を提供しています。特におすすめは貝の蒸し物です。"
+        }
+    ],
+    "word_Count": {
+        "text": 70,
+        "QA": 95
+    }
+}

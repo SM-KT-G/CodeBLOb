@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_088702",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.museum.go.kr/site/main/relic/search/view?relicId=30353",
+        "collectedDate": "2023-10-11",
+        "publishedDate": "2023-10-11",
+        "domain": "문화/역사관광",
+        "title": "암키와 조각"
+    },
+    "text": "平瓦片 (암키와 조각)\\n\n国籍/時代: 韓国の統一新羅時代の建築物で使用されていた材料は、土と瓦でした。 この特定の建築材料は、主に屋根材として使われ、平瓦という分類に属しています。 その寸法は、現在の長さは175cm、幅は139cm、厚さは24cmで、また別の部分の長さは39cm、幅は53cm、厚さは23cmです。",
+    "QA": [
+        {
+            "question": "これらの平瓦が使用される建物の種類は何ですか？",
+            "answer": "これらの平瓦は、統一新羅時代の建築物で使用されていました。主に屋根材として使われていました。"
+        },
+        {
+            "question": "平瓦の寸法はどのようになっていますか？",
+            "answer": "平瓦の寸法は、長さ175cm、幅139cm、厚さ24cmのものと、長さ39cm、幅53cm、厚さ23cmのものがあります。"
+        },
+        {
+            "question": "平瓦はどのような材料で作られていますか？",
+            "answer": "平瓦は土と瓦で作られています。"
+        }
+    ],
+    "word_Count": {
+        "text": 118,
+        "QA": 134
+    }
+}

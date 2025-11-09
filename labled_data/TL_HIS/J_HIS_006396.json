@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_006396",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=37&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=12&ccbaAsno=00820000&ccbaCtcd=32&ccbaCpno=1123200820000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1963-01-21",
+        "domain": "문화/역사관광",
+        "title": "강릉 대창리 당간지주"
+    },
+    "text": "江陵大倉里幢竿支柱 (강릉 대창리 당간지주)\\n\n江原道江陵市玉川洞334番地\\n\n統一新羅時代 , 宝物 , 江陵市内に残っており、周辺から瓦礫などが出土し、この周辺が寺跡だったことが分かるだけで、具体的に伝える記録はない。 寺に行事がある時、寺の入口に幢という旗を付けておくが、旗を付けておく竿を幢竿といい、この幢竿を両側から支える二つの石柱を幢竿支柱という。 今の場所が本来の位置であり、現在1m間隔を置いて二人の支柱が南北に向かい合っている。 支柱の間の旗竿を支えていた台や基壇部が残っていないので、本来の姿を把握することはできない。 床の部分に長方形の石を置いたことから、基壇部も長方形だったと考えられる。 頂上部分は内側から外側に曲線を描いており、内側上部中央には旗竿を固定させるための四角い穴が一つある。 この幢竿支柱は全体的に彫刻した跡がない素朴で簡潔な姿だ。",
+    "QA": [
+        {
+            "question": "江陵大倉里幢竿支柱はどの時代に建てられましたか？",
+            "answer": "統一新羅時代に建てられました。"
+        },
+        {
+            "question": "江陵大倉里幢竿支柱はどのような形状ですか？",
+            "answer": "幢竿支柱は南北に向かい合う二つの石柱で、頂上部分は内側から外側に曲線を描いています。"
+        },
+        {
+            "question": "江陵大倉里幢竿支柱の周辺から何が出土されましたか？",
+            "answer": "江陵大倉里幢竿支柱の周辺からは瓦礫などが出土され、この周辺が寺跡だったことが分かります。"
+        },
+        {
+            "question": "江陵大倉里幢竿支柱はどのような役割を果たしていましたか？",
+            "answer": "幢竿支柱は寺の入口に幢という旗を付けるためのものでした。"
+        },
+        {
+            "question": "江陵大倉里幢竿支柱の姿が完全に残っているのでしょうか？",
+            "answer": "幢竿支柱の基壇部や台は残っておらず、完全な姿を把握することはできません。"
+        }
+    ],
+    "word_Count": {
+        "text": 285,
+        "QA": 212
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_010571",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42091&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "울산 삼산 리버 운영 정책"
+    },
+    "text": "チェックインは午前15:00に行われ、チェックアウトは翌日の午前12:00までです。 チェックインとチェックアウトの時間は決まっていますので、これを守るようお願いします。 また、入室時間のご案内もございます。 貸室を利用する場合、午後6時以前に入室すると利用料金は15,000ウォンで、利用時間は6時間です。 予約をされた方には、その特典も提供されます。",
+    "QA": [
+        {
+            "question": "チェックインは何時ですか？",
+            "answer": "チェックインは午後3時に行われます。"
+        },
+        {
+            "question": "チェックアウトは何時ですか？",
+            "answer": "チェックアウトは翌日の午前12時までです。"
+        },
+        {
+            "question": "入室時間のご案内はありますか？",
+            "answer": "貸室の利用時間は午後6時以前に入室する場合、15,000ウォンで6時間利用できます。"
+        },
+        {
+            "question": "予約をした場合の特典はありますか？",
+            "answer": "予約をした方には特典が提供されます。"
+        }
+    ],
+    "word_Count": {
+        "text": 129,
+        "QA": 115
+    }
+}

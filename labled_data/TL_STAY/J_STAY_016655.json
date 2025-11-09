@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_016655",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2020-03-27",
+        "domain": "숙박",
+        "title": "ホテルダイナスティー（호텔다이내스티）"
+    },
+    "text": "ホテルダイナスティー（호텔다이내스티）\nソウル特別市 江南区 奉恩寺路125 （論峴洞）\n「ホテルダイナスティー（DYNASTY HOTEL）」は、洋室とオンドル部屋を有し、訪れる人々が我が家のようにくつろげる快適な空間を提供しています。",
+    "QA": [
+        {
+            "question": "ホテルダイナスティーはどんな場所にありますか？",
+            "answer": "ホテルダイナスティーはソウル特別市江南区奉恩寺路125に位置しています。"
+        },
+        {
+            "question": "ホテルダイナスティーはどのような部屋を提供していますか？",
+            "answer": "ホテルダイナスティーは洋室とオンドル部屋を提供しています。"
+        },
+        {
+            "question": "ホテルダイナスティーはどのような雰囲気を持っていますか？",
+            "answer": "ホテルダイナスティーは訪れる人々が我が家のようにくつろげる快適な空間を提供しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 87,
+        "QA": 137
+    }
+}

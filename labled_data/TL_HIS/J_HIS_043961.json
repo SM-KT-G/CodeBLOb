@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_043961",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=9&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=11&ccbaAsno=01000000&ccbaCtcd=11&ccbaCpno=1111101000000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1962-12-20",
+        "domain": "문화/역사관광",
+        "title": "개성 남계원지 칠층석탑"
+    },
+    "text": "高麗時代ナムギェウォンの敷地に位置した開城(ケソン)工業ナムギェウォン七重石塔は、以前には開国斜塔と呼ばれ、1915年に景福宮に移転された。塔は2段の基壇に7階の塔身を持っており、新羅の石塔の影響を受けたが、細部的には変化がみられる。基壇には新羅の一般型石塔より下の階の基壇にはもっと高く、2階の基壇には低い。塔身部は石核とジブンドルをそれぞれ1つの石で作って、ジブンドルは曲線と台の特徴を備えている。塔の髪飾りでは路盤とボクバルが一つの石に彫刻されている。推定によると、この塔は高麗中期以前に建てられたものと推定され、新羅の塔の特色をよく示している。1915年、塔を移転する時には、塔内部で『ガムジウンニ妙法蓮華経』が発見されているが、これを通じて塔が補修されたことを知ることができる。。",
+    "QA": [
+        {
+            "question": "開城工業ナムギェウォン七重石塔はどこに位置していましたか？",
+            "answer": "開城工業ナムギェウォン七重石塔は高麗時代のナムギェウォンの敷地に位置していました。"
+        },
+        {
+            "question": "なぜ開城工業ナムギェウォン七重石塔は開国斜塔とも呼ばれていたのですか？",
+            "answer": "開城工業ナムギェウォン七重石塔は以前、開国斜塔と呼ばれていました。"
+        },
+        {
+            "question": "開城工業ナムギェウォン七重石塔はどのような特徴を持っていますか？",
+            "answer": "開城工業ナムギェウォン七重石塔は2段の基壇に7階の塔身を持ち、新羅の石塔の影響を受けています。細部には変化が見られますが、基壇や塔身部の特徴などが新羅の塔と似ています。"
+        },
+        {
+            "question": "開城工業ナムギェウォン七重石塔はいつ建てられたと推定されていますか？",
+            "answer": "開城工業ナムギェウォン七重石塔は高麗中期以前に建てられたと推定されています。"
+        },
+        {
+            "question": "塔の移転時に塔内部で何が発見されたのですか？",
+            "answer": "塔の移転時には塔内部で『ガムジウンニ妙法蓮華経』が発見されました。これにより、塔が補修されたことがわかります。"
+        }
+    ],
+    "word_Count": {
+        "text": 253,
+        "QA": 295
+    }
+}

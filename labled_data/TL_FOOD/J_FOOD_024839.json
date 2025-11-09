@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_024839",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-01",
+        "domain": "음식점",
+        "title": "王天ネギチキン ( 왕천파닭 )"
+    },
+    "text": "王天ネギチキン \n済州特別自治道 西帰浦市 中央路42ボンキル 33-1\n元祖パダック(ネギのせフライドチキン)が味わえる店です。 おすすめはネギチキンです。済州特別自治道のソグィポ市に位置したチキン専門店です。",
+    "QA": [
+        {
+            "question": "この店の特徴は何ですか？",
+            "answer": "この店の特徴は、元祖パダック（ネギのせフライドチキン）が味わえることです。"
+        },
+        {
+            "question": "おすすめのメニューは何ですか？",
+            "answer": "おすすめはネギチキンです。"
+        },
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "この店は済州特別自治道 西帰浦市 中央路42ボンキル 33-1に位置しています。"
+        },
+        {
+            "question": "この店はどの市に位置していますか？",
+            "answer": "この店は済州特別自治道のソグィポ市に位置しています。"
+        }
+    ],
+    "word_Count": {
+        "text": 77,
+        "QA": 126
+    }
+}

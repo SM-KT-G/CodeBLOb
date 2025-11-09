@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_026533",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-05",
+        "domain": "음식점",
+        "title": "済州ドヤジ ( 제주도야지 )"
+    },
+    "text": "済州ドヤジ ( 제주도야지 )\\n\n江原道 原州市 地正面 シンジジョンロ189-10\\n\n済州産の豚肉で韓国式BBQが味わえる店です。代表的なメニューは皮付サムギョプサルです。江原道のウォンジュ市に位置した韓食専門店です。",
+    "QA": [
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "済州ドヤジは江原道原州市のシンジジョンロ189-10にあります。"
+        },
+        {
+            "question": "この店では何を食べることができますか？",
+            "answer": "この店では済州産の豚肉で韓国式BBQが楽しめます。代表的なメニューは皮付サムギョプサルです。"
+        },
+        {
+            "question": "この店の特徴は何ですか？",
+            "answer": "済州ドヤジは済州産の豚肉を使用し、本格的な韓国式BBQを提供しています。また、江原道のウォンジュ市に位置している韓食専門店です。"
+        }
+    ],
+    "word_Count": {
+        "text": 82,
+        "QA": 136
+    }
+}

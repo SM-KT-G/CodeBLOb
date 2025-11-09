@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_019482",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42040&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "여수 라테라스 리조트"
+    },
+    "text": "今日はあなたの安らかな一日になりますように。 ラテラスリゾートには皆さんのお話や思い出が随所に込められています。 私たちはこれを大切にし、皆さんと同じ気持ちで応えます。 のんびりした休暇を楽しみたいなら、チェックインは15時に可能でチェックアウトは11時に決まっています。 つまり、皆さんはラテラスリゾートでリラックスできる時間を過ごすことができます。",
+    "QA": [
+        {
+            "question": "ラテラスリゾートのチェックインとチェックアウトの時間は何時ですか？",
+            "answer": "チェックインは15時で、チェックアウトは11時です。"
+        },
+        {
+            "question": "ラテラスリゾートでは何時からチェックインが可能ですか？",
+            "answer": "チェックインは15時から可能です。"
+        },
+        {
+            "question": "ラテラスリゾートでは何時までにチェックアウトする必要がありますか？",
+            "answer": "チェックアウトは11時までにする必要があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 129,
+        "QA": 117
+    }
+}

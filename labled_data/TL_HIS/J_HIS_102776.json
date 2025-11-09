@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_102776",
+        "source": "온라인문서",
+        "writer": null,
+        "ISBN_ISNN": null,
+        "version": null,
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=974&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=31&ccbaAsno=00210000&ccbaCtcd=35&ccbaCpno=3413500210000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1984-04-01",
+        "domain": "문화/역사관광",
+        "title": "주암서원"
+    },
+    "text": "珠岩書院\\n\n全羅北道任実郡志士面芳渓里713-1番地\\n\n全羅北道文化財資料、ヨンチョンチェドクジ・アムギェチェヨンソン・ユルギェ、長官級・いとこの張慶世(チャン・ギョンセ)などの位牌が祀られた書院である。朝鮮・仁祖8年(1630)に建てられており、光武クヮンム元年(1897)に撤廃されたが、その後、1907年に再び立てた。祭る場所である祠堂は前面3間・側面2間規模で、屋根は側面から見ると、八(八部)字形の入母屋屋根である。勉強する講堂も入母屋屋根で、前面4間・側面3間規模の建物だ。この書院では、毎年陰暦の3月に祭祀を務めている。",
+    "QA": [
+        {
+            "question": "この書院はどこにありますか？",
+            "answer": "珠岩書院は全羅北道任実郡志士面芳渓里713-1番地にあります。"
+        },
+        {
+            "question": "この書院はいつ建てられましたか？",
+            "answer": "この書院は朝鮮・仁祖8年(1630)に建てられました。"
+        },
+        {
+            "question": "何を祭っていますか？",
+            "answer": "この書院では、位牌として長官級・いとこの張慶世(チャン・ギョンセ)などが祭られています。"
+        },
+        {
+            "question": "何月に祭祀を行っていますか？",
+            "answer": "この書院では毎年陰暦の3月に祭祀を行っています。"
+        },
+        {
+            "question": "この書院の建物の規模はどのようになっていますか？",
+            "answer": "この書院の祠堂は前面3間・側面2間の規模で、勉強する講堂は前面4間・側面3間の規模です。"
+        }
+    ],
+    "word_Count": {
+        "text": 197,
+        "QA": 181
+    }
+}

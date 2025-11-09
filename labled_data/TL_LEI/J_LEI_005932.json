@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_LEI_005932",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2023-07-01",
+        "domain": "레포츠",
+        "title": "달콤한캠핑장"
+    },
+    "text": "江原道洪川郡白岩山の麓に位置する甘いキャンプ場は、1級の内村川で有名です。 ここでは釣りや水遊びなど様々なレジャー活動を自由に楽しむことができます。 また、洪川には様々な祭りや美味しい料理が豊富で、観光とキャンプにも最適です。",
+    "QA": [
+        {
+            "question": "洪川郡白岩山はどこに位置していますか？",
+            "answer": "洪川郡白岩山は江原道に位置しています。"
+        },
+        {
+            "question": "洪川郡白岩山にはどのようなレジャー活動がありますか？",
+            "answer": "洪川郡白岩山では釣りや水遊びなど様々なレジャー活動を楽しむことができます。"
+        },
+        {
+            "question": "洪川にはどのような祭りがありますか？",
+            "answer": "洪川には様々な祭りがあります。"
+        },
+        {
+            "question": "洪川の料理にはどんな特徴がありますか？",
+            "answer": "洪川の料理は美味しくて特徴的です。"
+        },
+        {
+            "question": "洪川郡白岩山は観光とキャンプに最適ですか？",
+            "answer": "はい、洪川郡白岩山は観光とキャンプに最適な場所です。"
+        }
+    ],
+    "word_Count": {
+        "text": 82,
+        "QA": 159
+    }
+}

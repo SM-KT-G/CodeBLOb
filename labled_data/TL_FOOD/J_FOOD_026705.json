@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_026705",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/joseongimbap",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "朝鮮キンパプ"
+    },
+    "text": "朝鮮キンパプ\\n\nソウル特別市 鍾路区 栗谷路1キル 78 )\\n\n朝鮮キンパプは、国立現代美術館（ソウル館）の裏にあるキンパプ専門店です。メニューは朝鮮キンパプ、おでんキンパプ、朝鮮ククシ（にゅうめん）などがあり、立食テーブルと座席が用意されています。",
+    "QA": [
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "朝鮮キンパプは、ソウル特別市鍾路区栗谷路1キル78にあります。"
+        },
+        {
+            "question": "この店のメニューは何ですか？",
+            "answer": "朝鮮キンパプでは、朝鮮キンパプ、おでんキンパプ、朝鮮ククシ（にゅうめん）などが提供されています。"
+        },
+        {
+            "question": "この店の特徴は何ですか？",
+            "answer": "朝鮮キンパプは、国立現代美術館（ソウル館）の裏に位置しており、キンパプ専門の店です。立食テーブルと座席が用意されています。"
+        }
+    ],
+    "word_Count": {
+        "text": 93,
+        "QA": 131
+    }
+}

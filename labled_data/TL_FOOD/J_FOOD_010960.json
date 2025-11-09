@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_010960",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-09-01",
+        "domain": "음식점",
+        "title": "ドンデムンホパジブ（동대문허파집）"
+    },
+    "text": "ドンデムンホパジブ（동대문허파집）\\n\nソウル特別市 鐘路区 鐘路17キル 26\\n\nソウル特別市のタプコル・ゴンウォンに位置したバーベキュー専門店です。韓牛のみを使用するお店です。おすすめはコプチャン焼きです。",
+    "QA": [
+        {
+            "question": "このレストランの名前は何ですか？",
+            "answer": "このレストランの名前はドンデムンホパジブ（동대문허파집）です。"
+        },
+        {
+            "question": "このレストランはどこにありますか？",
+            "answer": "このレストランはソウル特別市の鐘路区鐘路17キル26にあります。"
+        },
+        {
+            "question": "このレストランでは何がおすすめですか？",
+            "answer": "このレストランではコプチャン焼きがおすすめです。"
+        }
+    ],
+    "word_Count": {
+        "text": 77,
+        "QA": 101
+    }
+}

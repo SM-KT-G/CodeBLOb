@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_021598",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101578",
+        "collectedDate": "2023-09-19",
+        "publishedDate": "2019-09-11",
+        "domain": "숙박",
+        "title": "목원당"
+    },
+    "text": "牧園堂 (목원당)\\n\n13-29, Jukjeongseowon-gil, Yeongam-gun, Jeoll\\n\n牧園堂は、環境に優しい素材で作られた伝統的な韓屋の民宿です。牧園堂は韓国の趣を感じさせる場所で、全羅南道霊岩郡月出山の端に位置するクリム村にあります。木園堂は、東館と西館という2つの一軒家で構成されており、それぞれ同じ平面に作られている。",
+    "QA": [
+        {
+            "question": "牧園堂はどんな場所ですか？",
+            "answer": "牧園堂は、環境に優しい素材で作られた伝統的な韓屋の民宿です。"
+        },
+        {
+            "question": "牧園堂はどこに位置していますか？",
+            "answer": "牧園堂は全羅南道霊岩郡月出山の端に位置しています。"
+        },
+        {
+            "question": "牧園堂の建物はどのように構成されていますか？",
+            "answer": "牧園堂は東館と西館という2つの一軒家で構成されており、それぞれ同じ平面に作られています。"
+        },
+        {
+            "question": "牧園堂はどのような雰囲気を持っていますか？",
+            "answer": "牧園堂は韓国の趣を感じさせる場所です。"
+        }
+    ],
+    "word_Count": {
+        "text": 131,
+        "QA": 139
+    }
+}

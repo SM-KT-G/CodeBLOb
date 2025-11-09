@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_029420",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/lodge/palgong-park-hotel",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "八公パークホテル"
+    },
+    "text": "八公パークホテル\\n\n大邱広域市 東区 八公山路1121\\n\n東大邱駅からバスで40分の位置にあるホテル八公パークホテルは、八公山の四季の変化が感じられ、温泉に入ってゆっくりすることも出来ます",
+    "QA": [
+        {
+            "question": "ホテル八公パークホテルはどこにありますか？",
+            "answer": "ホテル八公パークホテルは大邱広域市東区八公山路1121に位置しています。"
+        },
+        {
+            "question": "ホテル八公パークホテルはどのくらいの距離にありますか？",
+            "answer": "ホテル八公パークホテルは東大邱駅からバスで40分の位置にあります。"
+        },
+        {
+            "question": "ホテル八公パークホテルでは何ができますか？",
+            "answer": "ホテル八公パークホテルでは、八公山の四季の変化を感じることができます。また、温泉に入ることもできます。"
+        }
+    ],
+    "word_Count": {
+        "text": 70,
+        "QA": 138
+    }
+}

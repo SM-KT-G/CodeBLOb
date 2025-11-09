@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_022948",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://travel.interpark.com/checkinnow/search/keyword?q=&disp_q=&coord=&startdate=20231205&enddate=20231206&roomOptions=0%5E1%5E0&npprmaxsort=min&apiType=region&regioncode1=42031&category=",
+        "collectedDate": "2023-11-16",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "대구 성서 JB 프리미엄호텔"
+    },
+    "text": "城西JBプレミアムホテルは多くの関心と愛を受け、GRAND OPENを行いました。 当ホテルでは朝食を提供しております。 入室の際の基準人数は2人であり、追加人数の場合、当日現地にて追加料金を決済する必要があります。 客室はチェックインの際に割り当てられ、実際の客室は上記の画像と異なる場合があります。 オンシーズンや特定日、祝日(前日含む)には料金が変わる場合があります。",
+    "QA": [
+        {
+            "question": "城西JBプレミアムホテルはいつオープンしましたか？",
+            "answer": "城西JBプレミアムホテルはGRAND OPENを行いました。"
+        },
+        {
+            "question": "城西JBプレミアムホテルでは何を提供していますか？",
+            "answer": "城西JBプレミアムホテルでは朝食を提供しております。"
+        },
+        {
+            "question": "入室の際の基準人数は何人ですか？",
+            "answer": "入室の際の基準人数は2人であります。"
+        },
+        {
+            "question": "追加人数の場合、どうなりますか？",
+            "answer": "追加人数の場合、当日現地にて追加料金を決済する必要があります。"
+        },
+        {
+            "question": "客室はどのように割り当てられますか？",
+            "answer": "客室はチェックインの際に割り当てられ、実際の客室は上記の画像と異なる場合があります。"
+        },
+        {
+            "question": "料金はどのように変動しますか？",
+            "answer": "オンシーズンや特定日、祝日(前日含む)には料金が変わる場合があります。"
+        }
+    ],
+    "word_Count": {
+        "text": 137,
+        "QA": 217
+    }
+}

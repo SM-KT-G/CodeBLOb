@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_024284",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=938&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=24&ccbaAsno=01450000&ccbaCtcd=37&ccbaCpno=2443701450000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2012-10-22",
+        "domain": "문화/역사관광",
+        "title": "안동 송석재사"
+    },
+    "text": "安東松石斎舎 (안동 송석재사)\\n\n慶尚北道安東市プレシルキル82(臨河面)\\n\n慶尚北道民俗文化財 , 壬辰倭乱の時に義兵を起こして安東守城で功を立てた、テバクキム·チョルの墓所を保護するために建てた斎室だ。 朝鮮中期に建てられたこの建物は祭祀を行う部屋である正針を中心に左右に建物を置き、前方には5間の楼閣が設置され、ロ字型構造を見せている。 本来は臨下面沙義洞にあったが、仁荷ダム建設で1987年にここに移したのだ。",
+    "QA": [
+        {
+            "question": "この斎室はいつ建てられましたか？",
+            "answer": "この斎室は朝鮮中期に建てられました。"
+        },
+        {
+            "question": "この斎室は誰の墓所を保護するために建てられましたか？",
+            "answer": "この斎室は壬辰倭乱の時に義兵を起こして安東守城で功を立てた、テバクキム·チョルの墓所を保護するために建てられました。"
+        },
+        {
+            "question": "この斎室はどのような構造をしていますか？",
+            "answer": "この斎室は祭祀を行う部屋である正針を中心に左右に建物を置き、前方には5間の楼閣が設置され、ロ字型構造をしています。"
+        },
+        {
+            "question": "この斎室はどこにありますか？",
+            "answer": "この斎室は慶尚北道安東市プレシルキル82(臨河面)にあります。"
+        },
+        {
+            "question": "なぜこの斎室は移動されましたか？",
+            "answer": "この斎室は本来は臨下面沙義洞にありましたが、仁荷ダム建設のために1987年にここに移動されました。"
+        }
+    ],
+    "word_Count": {
+        "text": 155,
+        "QA": 223
+    }
+}

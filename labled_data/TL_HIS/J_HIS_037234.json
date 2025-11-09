@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_037234",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=783&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=23&ccbaAsno=00230600&ccbaCtcd=50&ccbaCpno=2333900230600&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "1976-09-09",
+        "domain": "문화/역사관광",
+        "title": "우지연대"
+    },
+    "text": "牛池煙台 (우지연대)\\n\n済州市翰林邑貴徳2里3977番地\\n\n済州特別自治道記念物、連帯とは昔の軍事的通信手段で敵の侵入や危急なことが起きた時、昼には煙を吸って夜には松明を使って近隣の村や軍隊があるところに素早く連絡していた施設だ。 烽燧台と違いがあるとすれば、海辺に近い高い地帯に設置する反面、烽燧台は山頂に位置するという点だ。 明月鎮に所属した宇治連隊は1976年考証を経て今の姿に補修したもので、規模は上部8.5m×8.5m、下部8.9m×8.7m、高さ2.7mだ。 この連隊は東には鬼徳連隊、西には竹島連隊と交信したという。",
+    "QA": [
+        {
+            "question": "この施設はどのような目的で使用されていましたか？",
+            "answer": "この施設は、敵の侵入や危急な事態が起きた際に、近隣の村や軍隊に素早く連絡するための煙や松明を使用する通信手段として使用されていました。"
+        },
+        {
+            "question": "烽燧台との違いは何ですか？",
+            "answer": "烽燧台との違いは、牛池煙台が海辺に近い高い地帯に設置されているのに対し、烽燧台は山頂に位置しているという点です。"
+        },
+        {
+            "question": "この施設はどのような規模ですか？",
+            "answer": "この施設の規模は、上部が8.5m×8.5m、下部が8.9m×8.7m、高さが2.7mです。"
+        },
+        {
+            "question": "宇治連隊はどのような連絡をしていましたか？",
+            "answer": "宇治連隊は、東には鬼徳連隊、西には竹島連隊と交信していました。"
+        }
+    ],
+    "word_Count": {
+        "text": 196,
+        "QA": 200
+    }
+}

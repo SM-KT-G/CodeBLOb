@@ -1,0 +1,47 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_049367",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.booking.com/hotel/kr/asan-residence.ko.html",
+        "collectedDate": "2023-11-17",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "Asan Residence"
+    },
+    "text": "ソウルに位置するAsan Residenceは奉恩寺、コエックス、ガーデンファイブと約6.7km、7km、7.1kmの距離にあります。 当宿はエアコンと無料Wi-Fiを提供しており、禁煙室の利用が可能です。 また宿から江南駅や東大門市場などの名所がそれぞれ10km、12kmの距離に位置しています。 最寄りの空港は金浦国際空港へ32km離れており、Asan Residenceはソウルの中心部から12km離れた場所に位置しています。 チェックインは15:00から始まり、チェックアウトは11:30までです。",
+    "QA": [
+        {
+            "question": "Asan Residenceはどこに位置していますか？",
+            "answer": "Asan Residenceはソウルに位置しています。"
+        },
+        {
+            "question": "Asan Residenceの周辺にはどのような観光スポットがありますか？",
+            "answer": "Asan Residenceの周辺には奉恩寺、コエックス、ガーデンファイブという観光スポットがあります。"
+        },
+        {
+            "question": "Asan Residenceではどのような設備が提供されていますか？",
+            "answer": "Asan Residenceではエアコンと無料Wi-Fiが提供されています。また、禁煙室の利用も可能です。"
+        },
+        {
+            "question": "Asan Residenceから最寄りの空港までの距離はどれくらいですか？",
+            "answer": "Asan Residenceから最寄りの空港である金浦国際空港までの距離は32kmです。"
+        },
+        {
+            "question": "Asan Residenceから江南駅や東大門市場までの距離はどれくらいですか？",
+            "answer": "Asan Residenceから江南駅までの距離は10km、東大門市場までの距離は12kmです。"
+        },
+        {
+            "question": "Asan Residenceのチェックインとチェックアウトの時間は何時ですか？",
+            "answer": "Asan Residenceのチェックインは15:00から始まり、チェックアウトは11:30までです。"
+        }
+    ],
+    "word_Count": {
+        "text": 185,
+        "QA": 358
+    }
+}

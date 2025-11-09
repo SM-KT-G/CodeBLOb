@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_001807",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2020-12-04",
+        "domain": "음식점",
+        "title": "KOBE KYUKATZ 西面( 고베규카츠 서면 )"
+    },
+    "text": "KOBE KYUKATZ 西面( 고베규카츠 서면 )\\n\n釜山広域市 釜山鎮区 中央大路680ボンカキル 29\\n\n日本の伝統的な牛カツを提供する店です。 釜山広域市のブサンジン区に位置した和食専門店です。おすすめは牛カツです。",
+    "QA": [
+        {
+            "question": "このお店の場所はどこですか？",
+            "answer": "このお店は釜山広域市の釜山鎮区に位置しています。具体的な住所は中央大路680ボンカキル 29です。"
+        },
+        {
+            "question": "このお店はどんな料理を提供していますか？",
+            "answer": "このお店は日本の伝統的な牛カツを提供しています。特にオススメは牛カツです。"
+        },
+        {
+            "question": "このお店の名前は何ですか？",
+            "answer": "このお店の名前はKOBE KYUKATZ 西面( 고베규카츠 서면 )です。"
+        },
+        {
+            "question": "このお店はどんな雰囲気ですか？",
+            "answer": "このお店は和食専門店であり、日本の雰囲気を楽しむことができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 84,
+        "QA": 159
+    }
+}

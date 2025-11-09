@@ -1,0 +1,35 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_002138",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-01",
+        "domain": "음식점",
+        "title": "The Jaban ( 더자반 )"
+    },
+    "text": "The Jaban \n全羅南道 靈巌郡 三湖邑 蘭田路 83\n毎日新しいおかずと様々な旬の魚料理を味わえるところです。 全羅南道のヨンアム郡に位置した韓食専門店です。おすすめは魚焼きです。",
+    "QA": [
+        {
+            "question": "このお店はどこにありますか？",
+            "answer": "このお店は全羅南道 靈巌郡 三湖邑 蘭田路 83 に位置しています。"
+        },
+        {
+            "question": "このお店ではどのような料理が楽しめますか？",
+            "answer": "このお店では毎日新しいおかずと様々な旬の魚料理が楽しめます。特におすすめは魚焼きです。"
+        },
+        {
+            "question": "このお店は何を専門としていますか？",
+            "answer": "このお店は韓食を専門としています。"
+        }
+    ],
+    "word_Count": {
+        "text": 68,
+        "QA": 107
+    }
+}

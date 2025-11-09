@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_055268",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://trippose.com/restaurant/studio-j-jyp-entertainment",
+        "collectedDate": "2023-10-04",
+        "publishedDate": "2020-01-01",
+        "domain": "음식점",
+        "title": "スタジオJ(JYP Entertainment)"
+    },
+    "text": "スタジオJ(JYP Entertainment)\\n\nソウル市カンナム区ソンルンロ158ギル13-12 エス )\\n\nJYPパク・ジンヨンとチョンダムドン(清潭洞)の有名バーY1975と共同で誕生したラウンジバー。レッドカーペットを連想させる派手なLED照明の階段とパワフルな内装、様々なジャンルの音楽が楽しめます。バラエティ番組｢お姉さんたちのスラムダンク｣を通じてアイドルグループでデビューした｢オンニス｣の｢Shut Up｣のミュージックビデオのほとんどがスタジオJで撮影され、G.Soul、ペク・アヨン、パク・ジミンなどJYP所属アーティストの公演も開かれます。",
+    "QA": [
+        {
+            "question": "スタジオJはどこにありますか？",
+            "answer": "スタジオJはソウル市カンナム区ソンルンロ158ギル13-12にあります。"
+        },
+        {
+            "question": "スタジオJは誰と共同で作られましたか？",
+            "answer": "スタジオJはJYPパク・ジンヨンとチョンダムドンの有名バーY1975と共同で作られました。"
+        },
+        {
+            "question": "スタジオJで何が楽しめますか？",
+            "answer": "スタジオJでは様々なジャンルの音楽が楽しめます。"
+        },
+        {
+            "question": "スタジオJで撮影されたミュージックビデオは何ですか？",
+            "answer": "スタジオJで撮影されたミュージックビデオは「オンニス」の「Shut Up」です。"
+        },
+        {
+            "question": "スタジオJでの公演はどのアーティストが行いますか？",
+            "answer": "スタジオJではJYP所属のアーティストであるG.Soul、ペク・アヨン、パク・ジミンなどの公演が行われます。"
+        }
+    ],
+    "word_Count": {
+        "text": 209,
+        "QA": 219
+    }
+}

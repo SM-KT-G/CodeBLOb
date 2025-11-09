@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_HIS_051913",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.heritage.go.kr/heri/cul/culSelectDetail.do?culPageNo=564&region=1&searchCondition=&searchCondition2=&s_kdcdArr=&s_ctcdArr=&ccbaPcd1Arr=&ccbaKdcd=21&ccbaAsno=02640000&ccbaCtcd=36&ccbaCpno=2113602640000&ccbaCndt=&ccbaLcto=&stCcbaAsno=&endCcbaAsno=&stCcbaAsdt=&endCcbaAsdt=&chGubun=&header=view&returnUrl=%2fheri%2fcul%2fculSelectViewList.do&pageNo=1_1_2_0&sngl=Y",
+        "collectedDate": "2023-11-03",
+        "publishedDate": "2004-09-20",
+        "domain": "문화/역사관광",
+        "title": "고흥능가사추계당및사영당부도"
+    },
+    "text": "朝鮮時代(17世紀)に位置する全羅南道高興には有形文化財に指定されたヌンカサ推計党とサヨンダンの不渡りがある。チュギェダン不渡りはソクジョンヒョンに基壇部は方形の下台石にボクリョンを留めた。蓮華文は16葉で派手ではなく素朴な姿だ。塔身部には帰って魚やカニが彫刻された。北に方形位牌型を刻んでチュギェダンという堂号がある。相手は蓮花文が装飾され、ササンブには雲の模様が刻まれている。サヨンダン不渡りはソクジョンヒョンと8角ウォンダン型の様式を外れた異形不渡りだ。基壇部は方形に8角の下台石とボクリョンが続いて重石とアンリョンもある。方形の下台石にはそれぞれ4部屋を向けた竜頭が彫刻されている。北側には長方形位牌の形を留めてサヨンダンという堂号がある。チュギェダン不渡りは17世紀半ばに造成されたものとみられ、その様式は、全羅南道のソクジョンヒョン不渡り研究の貴重な資料として評価できる。",
+    "QA": [
+        {
+            "question": "ヌンカサ推計党とは何ですか？",
+            "answer": "ヌンカサ推計党は、朝鮮時代に位置する全羅南道高興にある有形文化財で、大きな建物です。"
+        },
+        {
+            "question": "サヨンダンの不渡りはどのような特徴がありますか？",
+            "answer": "サヨンダンの不渡りは、ソクジョンヒョンと8角ウォンダン型の様式を外れた異形不渡りで、特徴的な形状を持っています。"
+        },
+        {
+            "question": "チュギェダン不渡りはいつ造成されましたか？",
+            "answer": "チュギェダン不渡りは、17世紀半ばに造成されたとみられています。"
+        },
+        {
+            "question": "ヌンカサ推計党にはどのような彫刻がありますか？",
+            "answer": "ヌンカサ推計党の彫刻には、蓮花文や魚やカニが刻まれています。"
+        },
+        {
+            "question": "サヨンダンの基壇部には何がありますか？",
+            "answer": "サヨンダンの基壇部には、方形に8角の下台石とボクリョンが続いており、重石とアンリョンもあります。"
+        }
+    ],
+    "word_Count": {
+        "text": 287,
+        "QA": 226
+    }
+}

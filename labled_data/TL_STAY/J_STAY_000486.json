@@ -1,0 +1,39 @@
+{
+    "data_info": {
+        "documentID": "J_STAY_000486",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ko",
+        "translator": "파파고",
+        "source_url": "'https://www.goodchoice.kr/product/detail?ano=6057&adcno=1&sel_date=2023-11-07&sel_date2=2023-11-08",
+        "collectedDate": "2023-11-15",
+        "publishedDate": "2020-01-01",
+        "domain": "숙박",
+        "title": "진천 뉴몽블랑"
+    },
+    "text": "「イン駐車Drive*In」は清潔で自然と調和した宿泊施設で、清潔とサービスで旅行者にお応えしています。 宿泊施設は計47台の駐車施設を保有しており、周辺には宝塔寺三叉路から5分の距離に位置しており、観光地として有名なアートバレーCCや東山植物園に便利に移動できます。 また、宿泊施設は金岩側に位置していて美しい景観を鑑賞することができます。",
+    "QA": [
+        {
+            "question": "イン駐車Drive*Inはどのような宿泊施設ですか？",
+            "answer": "イン駐車Drive*Inは清潔で自然と調和した宿泊施設です。"
+        },
+        {
+            "question": "イン駐車Drive*Inの駐車施設の数はいくつですか？",
+            "answer": "イン駐車Drive*Inは計47台の駐車施設を保有しています。"
+        },
+        {
+            "question": "アートバレーCCや東山植物園へのアクセスは便利ですか？",
+            "answer": "イン駐車Drive*Inは宝塔寺三叉路から5分の距離に位置しており、アートバレーCCや東山植物園へのアクセスは便利です。"
+        },
+        {
+            "question": "イン駐車Drive*Inはどのような景観を楽しむことができますか？",
+            "answer": "イン駐車Drive*Inは金岩側に位置しており、美しい景観を楽しむことができます。"
+        }
+    ],
+    "word_Count": {
+        "text": 125,
+        "QA": 201
+    }
+}

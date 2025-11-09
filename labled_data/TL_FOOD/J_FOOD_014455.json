@@ -1,0 +1,43 @@
+{
+    "data_info": {
+        "documentID": "J_FOOD_014455",
+        "source": "온라인문서",
+        "writer": "null",
+        "ISBN_ISNN": "null",
+        "version": "null",
+        "source_language": "ja",
+        "translator": "null",
+        "source_url": "'https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15101760",
+        "collectedDate": "2023-09-13",
+        "publishedDate": "2021-04-09",
+        "domain": "음식점",
+        "title": "めっちゃくちゃ豚カツ専門店( 메차쿠차돈까스전문점 )"
+    },
+    "text": "めっちゃくちゃ豚カツ専門店\\n\n慶尚北道 安東市 中央路 22\\n\n厚くておいしいトンカツが味わえる店です。おすすめは豚カツです。慶尚北道のアンドン市に位置した和食専門店です。",
+    "QA": [
+        {
+            "question": "この店の名前は何ですか？",
+            "answer": "めっちゃくちゃ豚カツ専門店です。"
+        },
+        {
+            "question": "この店の場所はどこですか？",
+            "answer": "この店は慶尚北道安東市中央路22番地にあります。"
+        },
+        {
+            "question": "この店では何がおすすめですか？",
+            "answer": "ここのおすすめは豚カツです。厚くておいしい豚カツが味わえます。"
+        },
+        {
+            "question": "この店はどのような料理を提供していますか？",
+            "answer": "この店は和食専門店で、豚カツを中心としたメニューを提供しています。"
+        },
+        {
+            "question": "この店の特徴は何ですか？",
+            "answer": "この店の特徴は、豚カツを専門にしていることです。おいしいトンカツが味わえます。"
+        }
+    ],
+    "word_Count": {
+        "text": 64,
+        "QA": 158
+    }
+}
