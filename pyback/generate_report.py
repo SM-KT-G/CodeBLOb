@@ -1,19 +1,22 @@
-from flask import Flask, render_template
-
-app = Flask(__name__)
-
-@app.route('/')
-def index():
-    # 동적 데이터 생성
-    dashboard_data = {
-        'title': 'My Dynamic Dashboard',
-        'metrics': [
-            {'name': 'Active Users', 'value': 120},
-            {'name': 'Sales', 'value': '15,000 $'}
-        ]
-    }
-    # 데이터를 템플릿으로 전달
-    return render_template('index.html', data=dashboard_data)
-
-if __name__ == '__main__':
-    app.run(debug=True)
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ data.title | default('My Dashboard') }}</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <header>
+        <h1>{{ data.title | default('My Dashboard') }}</h1> </header>
+    
+    <div class="container">
+        {% for metric in data.metrics %}
+        <div class="card">
+            <h2>{{ metric.name }}</h2>
+            <p class="value">{{ metric.value }}</p>
+        </div>
+        {% endfor %}
+    </div>
+</body>
+</html>
