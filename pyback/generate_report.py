@@ -7,6 +7,19 @@
     <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
 </head>
 <body>
-    <h1>My Simple Dashboard</h1>
+    <header>
+        <h1>My Simple Dashboard</h1>
+    </header>
+    
+    <div class="container">
+        <div class="card">
+            <h2>Card 1</h2>
+            <p>Some data point.</p>
+        </div>
+        <div class="card">
+            <h2>Card 2</h2>
+            <p>Another data point.</p>
+        </div>
+    </div>
 </body>
 </html>
