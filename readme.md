@@ -1,4 +1,4 @@
-# FastAPI RAG Backend# FastAPI RAG Backend# FastAPI RAG Backend
+# FastAPI RAG Backend
 
 
 
@@ -61,8 +61,6 @@ uvicorn backend.main:app --reload
 - Python 3.10- **Testing**: pytest 7.4.4
 
 - **Language**: Python 3.10
-
-# 로컬 실행
 
 # 로컬 실행
 
