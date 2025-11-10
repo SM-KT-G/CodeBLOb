@@ -6,7 +6,7 @@ RAG 기반 관광정보 검색 시스템
 
 
 
-기능RAG (Retrieval-Augmented Generation) 기반 관광정보 검색 시스템RAG (Retrieval-Augmented Generation) 기반 관광정보 검색 시스템입니다.
+기능RAG (Retrieval-Augmented Generation) 기반 관광정보 검색 시스템
 
 
 
@@ -22,19 +22,19 @@ RAG 기반 관광정보 검색 시스템
 
 
 
-# 기술 스택- PostgreSQL + pgvector 벡터 검색- PostgreSQL + pgvector 기반 벡터 검색
+# 기술 스택- PostgreSQL + pgvector 벡터 검색
 
 
 
-- FastAPI, PostgreSQL, OpenAI, HuggingFace, Python 3.10- OpenAI GPT-4 답변 생성- OpenAI GPT-4를 활용한 답변 생성
+- FastAPI, PostgreSQL, OpenAI, HuggingFace, Python 3.10- OpenAI GPT-4 답변 생성
 
 
 
-# 실행- HuggingFace multilingual-e5-large 임베딩- HuggingFace multilingual-e5-large 임베딩 모델
+# 실행- HuggingFace multilingual-e5-large 임베딩
 
 
 
-```bash- Connection Pool DB 연결 관리- Connection Pool을 통한 효율적인 DB 연결 관리
+```bash- Connection Pool DB 연결 관리
 
 pip install -r requirements.txt
 
@@ -46,7 +46,7 @@ uvicorn backend.main:app --reload
 
 ```
 
-## 기술 스택## 기술 스택
+# 기술 스택
 
 
 
