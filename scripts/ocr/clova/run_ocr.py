@@ -7,6 +7,7 @@ from pathlib import Path
 
 from clova_client import ClovaOcrClient
 from config_loader import ClovaConfig, load_config
+from response_parser import extract_text_lines, summarize
 
 
 def parse_args() -> argparse.Namespace:
@@ -43,6 +44,21 @@ def parse_args() -> argparse.Namespace:
         default=15,
         help="요청 타임아웃(초).",
     )
+    parser.add_argument(
+        "--save-json",
+        type=Path,
+        help="원시 응답(JSON)을 파일로 저장합니다.",
+    )
+    parser.add_argument(
+        "--save-text",
+        type=Path,
+        help="추출된 텍스트만 별도 파일에 저장합니다.",
+    )
+    parser.add_argument(
+        "--no-json",
+        action="store_true",
+        help="표준 출력에 JSON을 출력하지 않습니다.",
+    )
     return parser.parse_args()
 
 
@@ -55,7 +71,30 @@ def main() -> None:
         language=args.language,
         image_format=args.image_format,
     )
-    print(json.dumps(response, ensure_ascii=False, indent=2))
+
+    text_lines = extract_text_lines(response)
+    summary = summarize(response)
+
+    print("=== OCR TEXT ===")
+    if text_lines:
+        print("\n".join(text_lines))
+    else:
+        print("(인식된 텍스트가 없습니다)")
+    print(f"[summary] images={summary['image_count']} fields={summary['field_count']}")
+
+    if args.save_text:
+        _write_text(args.save_text, "\n".join(text_lines))
+    if args.save_json:
+        _write_text(args.save_json, json.dumps(response, ensure_ascii=False, indent=2))
+
+    if not args.no_json:
+        print("=== RAW JSON ===")
+        print(json.dumps(response, ensure_ascii=False, indent=2))
+
+
+def _write_text(path: Path, content: str) -> None:
+    path.parent.mkdir(parents=True, exist_ok=True)
+    path.write_text(content, encoding="utf-8")
 
 
 if __name__ == "__main__":
