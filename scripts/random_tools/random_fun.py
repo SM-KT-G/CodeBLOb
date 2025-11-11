@@ -4,6 +4,7 @@
 from __future__ import annotations
 
 import argparse
+import random
 
 
 def build_parser() -> argparse.ArgumentParser:
@@ -23,7 +24,20 @@ def build_parser() -> argparse.ArgumentParser:
 def main() -> None:
     """Entry point for the random utilities demo."""
     args = build_parser().parse_args()
-    print(f"Random demo placeholder running with count={args.count}")
+    print(f"Random demo running with count={args.count}")
+    ints = random_integers(args.count, low=1, high=100)
+    print_section("Random integers", ", ".join(str(num) for num in ints))
+
+
+def random_integers(count: int, low: int = 0, high: int = 10) -> list[int]:
+    """Return a list of pseudorandom integers inclusive of bounds."""
+    return [random.randint(low, high) for _ in range(count)]
+
+
+def print_section(title: str, content: str) -> None:
+    """Nicely format a section of CLI output."""
+    print(f"\n== {title} ==")
+    print(content)
 
 
 if __name__ == "__main__":
