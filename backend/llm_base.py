@@ -7,7 +7,7 @@ import asyncio
 from typing import List, Dict, Any, Optional
 from openai import OpenAI, AsyncOpenAI
 
-from utils.logger import setup_logger, log_exception
+from backend.utils.logger import setup_logger, log_exception
 
 
 logger = setup_logger()
