@@ -20,12 +20,20 @@ def build_parser() -> argparse.ArgumentParser:
         default=5,
         help="Number of samples to generate for each example.",
     )
+    parser.add_argument(
+        "--seed",
+        type=int,
+        help="Optional random seed for reproducible results.",
+    )
     return parser
 
 
 def main() -> None:
     """Entry point for the random utilities demo."""
     args = build_parser().parse_args()
+    if args.seed is not None:
+        random.seed(args.seed)
+        print(f"Seeding RNG with {args.seed}")
     print(f"Random demo running with count={args.count}")
     ints = random_integers(args.count, low=1, high=100)
     print_section("Random integers", ", ".join(str(num) for num in ints))
