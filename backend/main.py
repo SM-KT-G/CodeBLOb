@@ -19,6 +19,7 @@ from backend.schemas import (
     ErrorResponse,
 )
 from backend.retriever import Retriever
+from backend.llm_base import LLMClient
 from backend.utils.logger import setup_logger, log_exception
 
 # 환경 변수 로드
@@ -57,6 +58,13 @@ async def lifespan(app: FastAPI):
     try:
         app.state.retriever = Retriever(db_url=db_url)
         logger.info("Retriever 인스턴스 생성 및 앱 상태에 등록됨")
+        
+        # LLM 클라이언트 초기화
+        app.state.llm_client = LLMClient(
+            model_name=os.getenv("LLM_MODEL", "gpt-4-turbo"),
+            timeout=int(os.getenv("LLM_TIMEOUT", "15")),
+        )
+        logger.info("LLM 클라이언트 초기화 완료")
     except Exception as e:
         log_exception(e, {"db_url": db_url[:50] if db_url else None}, logger)
         raise
@@ -117,12 +125,45 @@ async def health_check():
     """헬스 체크 엔드포인트"""
     checks = {
         "api": "ok",
-        # TODO: DB 연결 상태 체크
-        # TODO: LLM 연결 상태 체크
     }
     
+    # DB 연결 상태 체크
+    try:
+        if hasattr(app.state, 'retriever'):
+            retriever: Retriever = app.state.retriever
+            # Connection Pool에서 연결 획득 테스트
+            with retriever.pool.connection() as conn:
+                with conn.cursor() as cur:
+                    cur.execute("SELECT 1")
+                    cur.fetchone()
+            checks["database"] = "ok"
+        else:
+            checks["database"] = "not_initialized"
+    except Exception as e:
+        logger.error(f"DB 헬스체크 실패: {e}")
+        checks["database"] = f"error: {str(e)[:50]}"
+    
+    # LLM 클라이언트 상태 체크
+    try:
+        if hasattr(app.state, 'llm_client'):
+            # API 키가 설정되어 있는지만 확인 (실제 호출은 비용 발생)
+            llm_client: LLMClient = app.state.llm_client
+            if llm_client.client.api_key:
+                checks["llm"] = "ok"
+            else:
+                checks["llm"] = "api_key_missing"
+        else:
+            checks["llm"] = "not_initialized"
+    except Exception as e:
+        logger.error(f"LLM 헬스체크 실패: {e}")
+        checks["llm"] = f"error: {str(e)[:50]}"
+    
+    # 전체 상태 결정
+    all_ok = all(v == "ok" for v in checks.values())
+    status_value = "healthy" if all_ok else "degraded"
+    
     return HealthCheckResponse(
-        status="healthy",
+        status=status_value,
         timestamp=datetime.utcnow().isoformat(),
         checks=checks,
     )
@@ -154,6 +195,7 @@ async def rag_query(request: RAGQueryRequest):
                 domain=(request.domain.value if request.domain else None),
                 area=request.area,
                 variations=request.expansion_variations,
+                parent_context=request.parent_context,
             )
         else:
             docs = retriever.search(
@@ -161,17 +203,62 @@ async def rag_query(request: RAGQueryRequest):
                 top_k=request.top_k,
                 domain=(request.domain.value if request.domain else None),
                 area=request.area,
+                parent_context=request.parent_context,
             )
 
-        # Parent context 포함 여부에 따라 응답 구성
-        sources = [d.metadata.get("document_id") for d in docs if d.metadata.get("document_id")]
+        # 검색 결과가 없는 경우
+        if not docs:
+            return RAGQueryResponse(
+                answer="該当する情報が見つかりませんでした。",
+                sources=[],
+                latency=round(time.time() - start_time, 2),
+                metadata={
+                    "model": os.getenv("LLM_MODEL", "gpt-4-turbo"),
+                    "top_k": request.top_k,
+                    "expansion": request.expansion,
+                    "parent_context": request.parent_context,
+                    "results_count": 0,
+                }
+            )
+        
+        # 출처 추출
+        sources = []
+        for d in docs:
+            doc_id = d.metadata.get("document_id")
+            if doc_id and doc_id not in sources:
+                sources.append(doc_id)
+        
+        # 컨텍스트 구성
+        context = "\n\n---\n\n".join([
+            f"【情報 {i+1}】\n{doc.page_content}"
+            for i, doc in enumerate(docs)
+        ])
+        
+        # LLM을 사용하여 답변 생성
+        llm_client: LLMClient = app.state.llm_client
+        messages = [
+            {
+                "role": "system",
+                "content": "あなたは日本人観光客のための韓国観光ガイドチャットボットです。提供されたコンテキストに基づいて、質問に日本語で丁寧に答えてください。"
+            },
+            {
+                "role": "user",
+                "content": f"""以下のコンテキストを基に、質問に答えてください。
 
-        # 간단한 답변: 상위 문서의 요약(또는 첫 문서의 내용 일부)을 반환
-        if docs:
-            # limit answer length
-            answer = docs[0].page_content[:200]
-        else:
-            answer = "該当する情報が見つかりませんでした。"
+コンテキスト:
+{context}
+
+質問: {request.question}
+
+回答（日本語）:"""
+            }
+        ]
+        
+        answer = await llm_client.agenerate(
+            messages=messages,
+            temperature=float(os.getenv("LLM_TEMPERATURE", "0.7")),
+            max_tokens=int(os.getenv("LLM_MAX_TOKENS", "500")),
+        )
         
         latency = round(time.time() - start_time, 2)
         
@@ -179,10 +266,24 @@ async def rag_query(request: RAGQueryRequest):
         if latency > 3.0:
             logger.warning(f"응답 시간 초과: {latency}초")
         
+        # Similarity 통계 계산
+        similarities = [d.metadata.get("similarity", 0.0) for d in docs]
+        avg_similarity = sum(similarities) / len(similarities) if similarities else 0.0
+        max_similarity = max(similarities) if similarities else 0.0
+        
         return RAGQueryResponse(
             answer=answer,
             sources=sources,
             latency=latency,
+            metadata={
+                "model": os.getenv("LLM_MODEL", "gpt-4-turbo"),
+                "top_k": request.top_k,
+                "expansion": request.expansion,
+                "parent_context": request.parent_context,
+                "results_count": len(docs),
+                "avg_similarity": round(avg_similarity, 3),
+                "max_similarity": round(max_similarity, 3),
+            }
         )
     
     except ValueError as e:
