@@ -5,6 +5,7 @@ from __future__ import annotations
 
 import argparse
 import random
+import statistics
 import string
 
 
@@ -28,6 +29,7 @@ def main() -> None:
     print(f"Random demo running with count={args.count}")
     ints = random_integers(args.count, low=1, high=100)
     print_section("Random integers", ", ".join(str(num) for num in ints))
+    print_section("Integer stats", summarize_numbers(ints))
     picks = random_choices(
         options=["🍎 apple", "🍌 banana", "🍇 grape", "🥝 kiwi", "🍓 strawberry"],
         count=args.count,
@@ -57,6 +59,13 @@ def generate_password(length: int = 12) -> str:
     """Generate a pseudo-random password with mixed character classes."""
     alphabet = string.ascii_letters + string.digits + "!@#$%^&*"
     return "".join(random.choice(alphabet) for _ in range(length))
+
+
+def summarize_numbers(values: list[int]) -> str:
+    """Return mean and standard deviation summary for the collection."""
+    mean = statistics.fmean(values)
+    stdev = statistics.stdev(values) if len(values) > 1 else 0.0
+    return f"mean={mean:.2f}, stdev={stdev:.2f}, min={min(values)}, max={max(values)}"
 
 
 if __name__ == "__main__":
