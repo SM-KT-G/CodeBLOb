@@ -27,6 +27,11 @@ def main() -> None:
     print(f"Random demo running with count={args.count}")
     ints = random_integers(args.count, low=1, high=100)
     print_section("Random integers", ", ".join(str(num) for num in ints))
+    picks = random_choices(
+        options=["🍎 apple", "🍌 banana", "🍇 grape", "🥝 kiwi", "🍓 strawberry"],
+        count=args.count,
+    )
+    print_section("Random fruit picks", "\n".join(picks))
 
 
 def random_integers(count: int, low: int = 0, high: int = 10) -> list[int]:
@@ -38,6 +43,11 @@ def print_section(title: str, content: str) -> None:
     """Nicely format a section of CLI output."""
     print(f"\n== {title} ==")
     print(content)
+
+
+def random_choices(options: list[str], count: int) -> list[str]:
+    """Return `count` random picks (with replacement) from the options."""
+    return [random.choice(options) for _ in range(count)]
 
 
 if __name__ == "__main__":
