@@ -5,6 +5,7 @@ from __future__ import annotations
 
 import argparse
 import random
+import string
 
 
 def build_parser() -> argparse.ArgumentParser:
@@ -32,6 +33,8 @@ def main() -> None:
         count=args.count,
     )
     print_section("Random fruit picks", "\n".join(picks))
+    passwords = [generate_password(length=12) for _ in range(min(args.count, 3))]
+    print_section("Sample passwords", "\n".join(passwords))
 
 
 def random_integers(count: int, low: int = 0, high: int = 10) -> list[int]:
@@ -48,6 +51,12 @@ def print_section(title: str, content: str) -> None:
 def random_choices(options: list[str], count: int) -> list[str]:
     """Return `count` random picks (with replacement) from the options."""
     return [random.choice(options) for _ in range(count)]
+
+
+def generate_password(length: int = 12) -> str:
+    """Generate a pseudo-random password with mixed character classes."""
+    alphabet = string.ascii_letters + string.digits + "!@#$%^&*"
+    return "".join(random.choice(alphabet) for _ in range(length))
 
 
 if __name__ == "__main__":
