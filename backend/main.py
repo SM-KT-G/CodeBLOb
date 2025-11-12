@@ -6,7 +6,7 @@ import os
 import time
 from contextlib import asynccontextmanager
 from datetime import datetime
-from typing import Optional
+from typing import Any, Optional
 
 from fastapi import FastAPI, HTTPException, Request, status
 from fastapi.responses import JSONResponse
@@ -19,6 +19,13 @@ from backend.schemas import (
     ErrorResponse,
 )
 from backend.retriever import Retriever
+from backend.rag_chain import (
+    RetrieverAdapter,
+    create_rag_chain,
+    execute_retriever_query,
+    process_rag_response,
+    remove_parent_summary,
+)
 from backend.utils.logger import setup_logger, log_exception
 
 # 환경 변수 로드
@@ -57,6 +64,7 @@ async def lifespan(app: FastAPI):
     try:
         app.state.retriever = Retriever(db_url=db_url)
         logger.info("Retriever 인스턴스 생성 및 앱 상태에 등록됨")
+        app.state.llm_model = os.getenv("OPENAI_MODEL", "gpt-4-turbo")
     except Exception as e:
         log_exception(e, {"db_url": db_url[:50] if db_url else None}, logger)
         raise
@@ -115,14 +123,29 @@ async def global_exception_handler(request: Request, exc: Exception):
 @app.get("/health", response_model=HealthCheckResponse)
 async def health_check():
     """헬스 체크 엔드포인트"""
-    checks = {
+    checks: dict[str, str] = {
         "api": "ok",
-        # TODO: DB 연결 상태 체크
-        # TODO: LLM 연결 상태 체크
     }
+
+    retriever: Optional[Retriever] = getattr(app.state, "retriever", None)
+    db_status = "ok"
+    if retriever is None:
+        db_status = "missing"
+    else:
+        try:
+            conn = retriever.pool.connection()
+            conn.close()
+        except Exception:
+            db_status = "error"
+    checks["db"] = db_status
+
+    llm_status = "ok" if os.getenv("OPENAI_API_KEY") else "missing"
+    checks["llm"] = llm_status
+    
+    overall_status = "healthy" if db_status == "ok" and llm_status == "ok" else "degraded"
     
     return HealthCheckResponse(
-        status="healthy",
+        status=overall_status,
         timestamp=datetime.utcnow().isoformat(),
         checks=checks,
     )
@@ -143,35 +166,66 @@ async def rag_query(request: RAGQueryRequest):
     
     try:
         logger.info(f"RAG 질의 수신: {request.question[:50]}...")
-        
-        # Retriever 실행 (expansion 옵션에 따라 분기)
+
         retriever: Retriever = app.state.retriever
+        llm_model = getattr(app.state, "llm_model", os.getenv("OPENAI_MODEL", "gpt-4-turbo"))
 
-        if request.expansion:
-            docs = retriever.search_with_expansion(
+        adapter = RetrieverAdapter(
+            retriever=retriever,
+            top_k=request.top_k,
+            domain=(request.domain.value if request.domain else None),
+            area=request.area,
+            expansion=request.expansion,
+            variations=request.expansion_variations or [],
+            include_parent_summary=request.parent_context,
+        )
+
+        metadata: dict[str, Any] = {
+            "model": llm_model,
+            "top_k": request.top_k,
+            "expansion": request.expansion,
+            "parent_context": request.parent_context,
+        }
+
+        try:
+            chain = create_rag_chain(
+                llm_model=llm_model,
+                retriever=adapter,
+            )
+            chain_result = chain.invoke({"query": request.question})
+            rag_result = process_rag_response(chain_result)
+
+            answer = rag_result["answer"] or "該当する情報が見つかりませんでした。"
+            sources = rag_result["sources"]
+            metadata.update(rag_result.get("metadata") or {})
+        except Exception as e:
+            log_exception(
+                e,
+                {
+                    "phase": "rag_chain",
+                    "question": request.question[:100],
+                },
+                logger,
+            )
+            docs = execute_retriever_query(
+                retriever=retriever,
                 query=request.question,
                 top_k=request.top_k,
                 domain=(request.domain.value if request.domain else None),
                 area=request.area,
-                variations=request.expansion_variations,
+                expansion=request.expansion,
+                variations=request.expansion_variations or [],
             )
-        else:
-            docs = retriever.search(
-                query=request.question,
-                top_k=request.top_k,
-                domain=(request.domain.value if request.domain else None),
-                area=request.area,
-            )
-
-        # Parent context 포함 여부에 따라 응답 구성
-        sources = [d.metadata.get("document_id") for d in docs if d.metadata.get("document_id")]
-
-        # 간단한 답변: 상위 문서의 요약(또는 첫 문서의 내용 일부)을 반환
-        if docs:
-            # limit answer length
-            answer = docs[0].page_content[:200]
-        else:
-            answer = "該当する情報が見つかりませんでした。"
+            if not request.parent_context:
+                docs = remove_parent_summary(docs)
+            sources = [
+                d.metadata.get("document_id")
+                for d in docs
+                if d.metadata.get("document_id")
+            ]
+            answer = docs[0].page_content[:200] if docs else "該当する情報が見つかりませんでした。"
+            metadata["fallback"] = True
+            metadata["retrieved_count"] = len(docs)
         
         latency = round(time.time() - start_time, 2)
         
@@ -183,6 +237,7 @@ async def rag_query(request: RAGQueryRequest):
             answer=answer,
             sources=sources,
             latency=latency,
+            metadata=metadata,
         )
     
     except ValueError as e:
