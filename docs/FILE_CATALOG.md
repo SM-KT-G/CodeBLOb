@@ -1,77 +1,91 @@
 # 파일 기능 명세
 
-프로젝트에 포함된 주요 파일과 디렉토리의 역할을 아래와 같이 정리했습니다.  
-데이터 원본(`labled_data/`)처럼 다량의 동형 파일은 패턴 단위로 설명합니다.
+프로젝트의 모든 코드, 문서, 데이터 파일이 어떤 역할을 맡고 있는지 정리했습니다.  
+`labled_data/`처럼 대량의 동형 파일은 패턴 단위로 묶어 설명합니다.
 
-## 루트 디렉토리
-- `.env.example`: 필수 환경 변수 샘플, API 키·DB URL 템플릿 제공.
-- `.gitignore`: 가상환경, 캐시, 로그 등 불필요한 파일을 Git에서 제외.
-- `README.md`: FastAPI RAG 백엔드 개요, 실행·테스트 방법 정리 (병합 과정에서 중복 문구 존재).
-- `docker-compose.yml`: PostgreSQL(+pgvector) 및 Redis 컨테이너 구성.
-- `pyproject.toml`: Poetry/빌드 메타데이터와 기본 의존성 정의.
-- `requirements.txt`: FastAPI, LangChain, psycopg, sentence-transformers 등 런타임 패키지 고정.
-- `pytest.ini`: pytest 전역 옵션 자리(현재 기본값 위주).
-- `embedding_v1.1.log`: 임베딩 배치 실행 로그(모니터링 참고용).
+## 루트 · 환경 구성
+- `.git/`: Git 버전 이력 및 훅 저장소.
+- `.gitignore`: 가상환경·비밀키·캐시 파일 등을 커밋 대상에서 제외.
+- `.env.example`: 필수 환경 변수 샘플. OpenAI/DB/Redis/성능 제한 등 기본값 안내.
+- `.env.local`: 실제 개발용 민감 정보(.env.example를 기반으로 커스터마이징). Git에 포함되지만 값은 공유 금지.
+- `.vscode/settings.json`: VS Code에서 Git 대용량 경고를 숨기는 최소 설정.
+- `.venv/`: 로컬 Python 가상환경. 의존성 고립용.
+- `.pytest_cache/`: pytest 실행 결과 캐시 디렉토리.
+- `.DS_Store`: macOS Finder 메타데이터 (코드와 무관).
+- `pyproject.toml`: Poetry 기반 패키지 메타데이터, 의존성, Black/Ruff/Pytest 설정.
+- `requirements.txt`: 운영·테스트 서버에서 pip로 설치할 패키지 고정본.
+- `pytest.ini`: pytest 기본 옵션(경로, 네이밍, asyncio 모드 등) 선언.
+- `docker-compose.yml`: PostgreSQL(pgvector)·Redis 컨테이너 오케스트레이션 템플릿.
+- `readme.md`: FastAPI RAG 백엔드 소개·실행 절차·주요 모듈 요약(현재 중복 문구 존재).
 
-## backend/
-- `backend/__init__.py`: 패키지 초기화.
-- `backend/main.py`: FastAPI 엔트리포인트, lifespan에서 Retriever 주입, `/health` 및 `/rag/query` 라우트.
-- `backend/retriever.py`: PGVector 직접 쿼리 기반 검색기, metadata 필터링·Query Expansion 포함.
-- `backend/rag_chain.py`: LangChain RetrievalQA 체인 생성/후처리 로직.
-- `backend/llm_base.py`: OpenAI ChatCompletion 래퍼, 동기/비동기 인터페이스·타임아웃 관리.
-- `backend/schemas.py`: Pydantic 요청/응답 모델 (DomainEnum, RAGQueryRequest/Response 등).
-- `backend/db/connect.py`: psycopg ConnectionPool 생성, 재시도·스키마 체크·SQL 스크립트 실행.
-- `backend/db/init_vector.sql`: v1.0 스키마 정의 (단일 tourism_data 테이블).
-- `backend/db/init_vector_v1.1.sql`: Parent/Child 테이블, 확장 메타데이터, 인덱스 정의.
+## FastAPI 백엔드 (`backend/`)
+- `backend/__init__.py`: 백엔드 모듈을 패키지로 인식시키는 초기화 파일.
+- `backend/main.py`: FastAPI 앱 엔트리포인트. lifespan에서 Retriever를 lazy-load하고 `/health`, `/rag/query` 라우트를 정의하며 공통 미들웨어·예외 처리 포함.
+- `backend/retriever.py`: HuggingFace `multilingual-e5-small` 임베딩 + pgvector 직접 SQL 검색기. 메타데이터 필터링, query expansion, connection pool 관리, Document 변환 책임.
+- `backend/rag_chain.py`: LangChain `RetrievalQA` 체인 생성 및 결과 후처리 로직. 일본어 프롬프트 템플릿 포함.
+- `backend/llm_base.py`: OpenAI ChatCompletion(동기·비동기) 래퍼. 타임아웃·에러 로그·API 키 로딩 처리.
+- `backend/schemas.py`: Pydantic 기반 도메인 Enum과 RAGQueryRequest/Response, HealthCheckResponse, ErrorResponse 정의 및 검증기 포함.
+
+### 데이터베이스 패키지 (`backend/db/`)
+- `backend/db/__init__.py`: DB 하위 패키지 초기화.
+- `backend/db/connect.py`: psycopg ConnectionPool 래퍼 `DatabaseConnection`. 재시도·스키마 검사·SQL 스크립트 실행·싱글톤 인스턴스 제공.
+- `backend/db/init_vector.sql`: v1.0 단일 `tourism_data` 스키마 정의 SQL.
+- `backend/db/init_vector_v1.1.sql`: v1.1 Parent/Child 테이블, 확장 메타데이터, 인덱스 및 pgvector 설정 SQL.
+
+### 유틸리티 (`backend/utils/`)
 - `backend/utils/__init__.py`: 유틸 패키지 초기화.
-- `backend/utils/logger.py`: JSON 포맷 구조화 로거와 `log_exception` 헬퍼.
+- `backend/utils/logger.py`: JSON 형식 로거 설정(`setup_logger`)과 구조화된 예외 로깅 헬퍼(`log_exception`).
 
-## docs/
-- `docs/README.md`: 문서 디렉토리 안내 및 주요 문서 링크.
-- `docs/PROJECT_PLAN.md`: 초기 목표·모듈 계획·체크리스트.
-- `docs/IMPLEMENTATION_TRACKER.md`: 날짜별 구현 현황과 결정 사항 로그.
-- `docs/EMBEDDING_PLAN.md`: 임베딩 전략, 모델 선정, 처리 파이프라인.
-- `docs/RAG_PIPELINE_ARCHITECTURE.md`: 전체 RAG 설계 및 향후 개선안.
-- `docs/PROJECT_STATUS.md`: 최근 진행 상황·지표·남은 작업 현황.
-- `docs/API_INTEGRATION_FOR_NODE.md`: Node 게이트웨이 연동 가이드, 요청/응답 스키마 예시.
-- `docs/openapi_rag.yaml`: `/rag/query` 엔드포인트 스펙(OpenAPI 3.0).
-- `docs/프로젝트_계획서.md`: 한글 요약본(encoding 이슈 포함).
-- `docs/FILE_CATALOG.md`(본 문서): 파일 기능 명세.
+## 문서 (`docs/`)
+- `docs/README.md`: 문서 허브. 각 계획/아키텍처 문서 링크와 버전 히스토리 제공.
+- `docs/PROJECT_PLAN.md`: 전체 프로젝트 목표, 마일스톤, 체크리스트 상세 버전(영문).
+- `docs/프로젝트_계획서.md`: 한국어 요약본. 요구사항·범위·일정 개괄.
+- `docs/PROJECT_STATUS.md`: 최신 진행 상황, KPI, 리스크, 다음 행동 항목 요약.
+- `docs/IMPLEMENTATION_TRACKER.md`: 날짜별 구현 사항, 의사결정 로그, To-Do.
+- `docs/RAG_PIPELINE_ARCHITECTURE.md`: 시스템 구성도, 데이터 플로우, 개선안.
+- `docs/EMBEDDING_PLAN.md`: 임베딩 모델 비교, 파이프라인, 배치 전략, 체크포인트 정책.
+- `docs/API_INTEGRATION_FOR_NODE.md`: Node.js 게이트웨이 팀을 위한 `/rag/query` 연동 가이드(curl·fetch 예시, expansion/parent_context 옵션 설명).
+- `docs/openapi_rag.yaml`: OpenAPI 3.0 명세. `/rag/query` 요청/응답 스키마와 예시.
+- `docs/FILE_CATALOG.md`: 본 문서. 파일별 책임·역할 관리.
 
-## scripts/
-- `scripts/embedding_utils.py`: v1.0 데이터 추출·정규화 헬퍼.
-- `scripts/embed_initial_data.py`: OpenAI 기반 임베딩 배치 실행.
-- `scripts/embedding_utils_v1.1.py`: Parent-Child QA 청크 생성 로직.
-- `scripts/embed_initial_data_v1.1.py`: HuggingFace e5-small 임베딩 파이프라인 (체크포인트·MPS 지원).
-- `scripts/embedding_checkpoint_v1.1.json`: v1.1 임베딩 진행상황 저장 파일.
-- `scripts/monitor_embedding.sh`: 로그 tail 및 진행률 모니터링 쉘 스크립트.
-- `scripts/watch_progress.sh`: 배치 수행 중 실시간 상태 확인 스크립트.
-- `scripts/node_rag_client.js`: Node 환경에서 `/rag/query` 호출 예제/헬퍼.
+## 데이터 소스 (`labled_data/`)
+- `labled_data/TL_FOOD/J_FOOD_*.json`: 음식점/맛집 데이터. 일본어 설명 + 메타데이터. 임베딩 입력으로 사용.
+- `labled_data/TL_HIS/J_HIS_*.json`: 역사·문화 관광지 원본 JSON.
+- `labled_data/TL_NAT/J_NAT_*.json`: 자연 관광지/국립공원 데이터.
+- `labled_data/TL_SHOP/J_SHOP_*.json`: 쇼핑·상업 지역 데이터.
+- `labled_data/TL_LEI/J_LEI_*.json`: 레저·체험 항목 데이터.
+- `labled_data/TL_STAY/J_STAY_*.json`: 숙박 시설/온천/호텔 데이터.
+- 각 JSON은 1 레코드=1 객체 구조이며, `scripts/embed_*.py`가 제목/본문/도메인을 읽어 DB parent-child 테이블에 적재한다.
 
-## 데이터 (`labled_data/`)
-- `labled_data/TL_FOOD/J_FOOD_*.json`: 음식점 도메인 원천 데이터(377k 중 food 영역), 일본어 설명 포함.
-- `labled_data/TL_HIS/J_HIS_*.json`: 역사/문화 명소 데이터.
-- `labled_data/TL_NAT/J_NAT_*.json`: 자연 관광지 데이터.
-- `labled_data/TL_SHOP/J_SHOP_*.json`: 쇼핑/상업 구역 데이터.
-- `labled_data/TL_LEI/J_LEI_*.json`: 레저·체험 데이터.
-- `labled_data/TL_STAY/J_STAY_*.json`: 숙박 시설 데이터.
-- 파일 구조는 JSON 1문서=1객체 형태이며, 임베딩 스크립트가 제목/본문/도메인을 추출해 DB 적재.
+## 임베딩 · 운영 스크립트 (`scripts/`)
+- `scripts/embedding_utils.py`: v1.0 데이터 정규화 및 텍스트 전처리 헬퍼.
+- `scripts/embed_initial_data.py`: OpenAI 임베딩 모델을 사용해 초기 데이터셋을 vector DB에 적재.
+- `scripts/embedding_utils_v1.1.py`: parent/child 청크 생성, 요약, 질문/답변 페어링 로직.
+- `scripts/embed_initial_data_v1.1.py`: HuggingFace e5-small 기반 배치 임베딩 파이프라인. 체크포인트·MPS 지원.
+- `scripts/embedding_checkpoint_v1.1.json`: v1.1 임베딩 진행률/중단 지점 기록.
+- `scripts/monitor_embedding.sh`: 임베딩 로그 tail + 진행률 모니터링 스크립트.
+- `scripts/watch_progress.sh`: 배치 수행 중 시스템 상태를 주기적으로 출력.
+- `scripts/node_rag_client.js`: Node 환경에서 `/rag/query` 호출을 검증하는 샘플 클라이언트.
 
-## 독립 실행 스크립트 (루트)
-- `test_db_connection.py`: DatabaseConnection 클래스로 pgvector/스키마 점검 (수동 실행).
-- `test_retriever_v1.1.py`: Retriever v1.1을 직접 호출해 일본어 쿼리 결과 출력.
-- `test_step1_filtering.py`: Metadata 필터링 로직 콘솔 검증.
+## 수동 진단 스크립트 (루트)
+- `test_db_connection.py`: `DatabaseConnection`으로 pgvector 확장/스키마/행 수를 확인하는 콘솔 유틸.
+- `test_retriever_v1.1.py`: 실제 DB와 연결해 일본어 쿼리 3건을 수행, chunk/metadata를 출력.
+- `test_step1_filtering.py`: domain/area 필터 시나리오를 단계별로 실행하며 메타데이터 검증.
 
-## tests/ 디렉토리 (참고)
-> 사용자 요청에 따라 새로운 테스트 코드는 추가하지 않았습니다.
-- `tests/test_api.py` 등: FastAPI 라우트 및 스키마 검증용 플레이스홀더.
-- `tests/test_retriever_unit.py`, `tests/test_query_expansion.py` 등: Retriever·Query Expansion 단위 테스트 설계안.
-- `tests/test_parent_context.py`: Parent summary 관여 여부를 확인하기 위한 예정 테스트.
-- `tests/test_similarity_calculation.py`, `tests/test_embedding_injection.py` 등: 품질 회귀 방지 목적(현재 구현 대기).
+## 자동 테스트 (`tests/`)
+- `tests/test_api.py`: FastAPI 건강검진·RAG 엔드포인트 존재 여부를 검증하는 틀(실제 client 주석 처리됨).
+- `tests/test_api_integration.py`: `TestClient`로 `/rag/query`를 호출하여 필터/expansion/validation/지연시간을 통합 검증.
+- `tests/test_connection_pool.py`: `Retriever`의 psycopg connection pool 동작, 컨텍스트 매니저, 수동 close 시나리오를 검증.
+- `tests/test_embedding_injection.py`: Mock embeddings 주입을 통해 `Retriever` 의존성 역전 및 expansion 시나리오를 테스트.
+- `tests/test_parent_context.py`: 검색 결과가 parent summary 메타데이터를 포함하는지 확인(실 DB 필요).
+- `tests/test_query_expansion.py`: expansion on/off 결과 차이와 문서 유니크 수 증가 여부 확인.
+- `tests/test_rag.py`: RAG 체인/후처리 로직에 대한 mock 기반 단위 테스트(중복 출처 제거 등).
+- `tests/test_retriever_unit.py`: `_embed_query`, `_build_sql_and_params`, `_rows_to_documents` 등 내부 헬퍼 함수의 세부 검증.
+- `tests/test_similarity_calculation.py`: distance/similarity 필드 정합성, 정렬 순서, expansion 시 일관성 검증.
 
-## 기타
-- `embedding_v1.1.log`: v1.1 임베딩 작업 로그.
-- `openapi_rag.yaml`: API 명세(문서 섹션에 포함).
-- `node_rag_client.js`: Node 샘플 클라이언트(스크립트 섹션에 포함).
+## 기타 메타 파일
+- `labled_data/` 외부의 `test_db_connection.py`, `test_retriever_v1.1.py`, `test_step1_filtering.py`는 위 수동 진단 섹션을 참고.
+- `README.md`·`docs/`·`openapi_rag.yaml`은 API 사용자용 문서 세트.
+- 인프라/개발 편의를 위한 숨김 파일(`.DS_Store`, `.pytest_cache/`, `.venv/`, `.vscode/`)은 코드 실행에는 영향이 없으며 필요 시 안전하게 삭제 가능.
 
-필요 시 특정 파일에 대한 상세 설명을 이 문서에 추가하거나 업데이트해 일관성을 유지하세요.
+필요 시 새 파일 추가 시 본 문서를 함께 업데이트해 파일 책임을 지속적으로 추적하세요.
