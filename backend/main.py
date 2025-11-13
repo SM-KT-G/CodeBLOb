@@ -205,6 +205,8 @@ async def rag_query(request: RAGQueryRequest):
             answer = rag_result["answer"] or "該当する情報が見つかりませんでした。"
             sources = rag_result["sources"]
             metadata.update(rag_result.get("metadata") or {})
+            if request.expansion:
+                metadata["expansion_metrics"] = getattr(retriever, "last_expansion_metrics", None)
         except Exception as e:
             log_exception(
                 e,
@@ -233,7 +235,9 @@ async def rag_query(request: RAGQueryRequest):
             answer = docs[0].page_content[:200] if docs else "該当する情報が見つかりませんでした。"
             metadata["fallback"] = True
             metadata["retrieved_count"] = len(docs)
-        
+            if request.expansion:
+                metadata["expansion_metrics"] = getattr(retriever, "last_expansion_metrics", None)
+
         latency = round(time.time() - start_time, 2)
         
         # 응답 시간 제약 체크 (3초)
