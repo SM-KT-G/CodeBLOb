@@ -66,20 +66,34 @@ class DisasterApiClient:
 
     def _extract_items(self, data: Dict[str, Any]) -> Iterable[Dict[str, Any]]:
         node: Any = data
+        traversed: List[str] = []
+
         for key in self._parsing.items_path:
-            if isinstance(node, dict):
-                node = node.get(key)
-            else:
-                return []
-            if node is None:
-                return []
+            traversed.append(str(key))
+            if not isinstance(node, dict):
+                joined = " -> ".join(traversed[:-1]) or "<root>"
+                raise ValueError(
+                    f"items_path expects mapping at {joined}, "
+                    f"got {type(node).__name__} while accessing '{key}'"
+                )
+            if key not in node or node[key] is None:
+                raise ValueError(f"items_path missing key '{key}' after traversing {' -> '.join(traversed[:-1]) or '<root>'}")
+            node = node[key]
+
         if isinstance(node, dict):
             # some APIs wrap list in dict under key such as "item"
             if "item" in node:
                 node = node["item"]
             else:
                 node = list(node.values())
-        return node if isinstance(node, list) else []
+
+        if not isinstance(node, list):
+            raise ValueError(
+                "items_path did not resolve to a list. "
+                f"End node type: {type(node).__name__}"
+            )
+
+        return node
 
     def _to_message(self, item: Dict[str, Any]) -> DisasterMessage:
         message_id = str(item.get(self._parsing.id_field, "")).strip()
