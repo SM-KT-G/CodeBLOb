@@ -26,6 +26,7 @@ from backend.rag_chain import (
     process_rag_response,
     remove_parent_summary,
 )
+from backend.cache import init_cache_from_env
 from backend.utils.logger import setup_logger, log_exception
 
 # 환경 변수 로드
@@ -61,8 +62,11 @@ async def lifespan(app: FastAPI):
     
     # DB 연결 및 Retriever 초기화
     db_url = os.getenv("DATABASE_URL")
+    cache = init_cache_from_env()
+    app.state.cache = cache
+
     try:
-        app.state.retriever = Retriever(db_url=db_url)
+        app.state.retriever = Retriever(db_url=db_url, cache=cache)
         logger.info("Retriever 인스턴스 생성 및 앱 상태에 등록됨")
         app.state.llm_model = os.getenv("OPENAI_MODEL", "gpt-4-turbo")
     except Exception as e:
@@ -141,6 +145,9 @@ async def health_check():
 
     llm_status = "ok" if os.getenv("OPENAI_API_KEY") else "missing"
     checks["llm"] = llm_status
+
+    cache_status = "ok" if getattr(app.state, "cache", None) else "missing"
+    checks["cache"] = cache_status
     
     overall_status = "healthy" if db_status == "ok" and llm_status == "ok" else "degraded"
     
