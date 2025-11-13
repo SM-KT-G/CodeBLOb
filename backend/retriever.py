@@ -3,7 +3,8 @@
 tourism_child 테이블 직접 검색
 """
 import json
-from typing import Dict, List, Optional
+import time
+from typing import Any, Dict, List, Optional
 import psycopg
 from psycopg_pool import ConnectionPool
 from langchain_community.embeddings import HuggingFaceEmbeddings
@@ -42,6 +43,7 @@ class Retriever:
             
             self.db_url = db_url
             self.cache = cache
+            self.last_expansion_metrics: Optional[Dict[str, Any]] = None
             
             # Connection Pool 초기화 (min 2, max 10 connections)
             self.pool = ConnectionPool(
@@ -241,6 +243,7 @@ class Retriever:
             raise ValueError("top_k는 1~10 사이의 정수여야 합니다.")
         
         try:
+            self.last_expansion_metrics = None
             logger.info(f"문서 검색 시작: query='{query[:50]}...', top_k={top_k}, domain={domain}, area={area}")
 
             cache_key = None
@@ -321,6 +324,7 @@ class Retriever:
         }
 
         cache_key = None
+        cache_hit = False
         if self.cache:
             variations_key = json.dumps(vars_to_try, ensure_ascii=False)
             cache_key = self.cache.make_key(
@@ -335,10 +339,16 @@ class Retriever:
             cached_results = self.cache.get_json(cache_key)
             if cached_results:
                 logger.info("Query Expansion cache hit")
+                cache_hit = True
+                metrics["cache_hit"] = True
+                metrics["retrieved"] = len(cached_results)
+                metrics["duration_ms"] = 0.0
+                self.last_expansion_metrics = metrics
                 return self._deserialize_documents(cached_results)
 
         # 결과 수집: key by document_id (metadata.document_id)
         merged = {}
+        start_time = time.perf_counter()
 
         for qv in vars_to_try:
             try:
@@ -362,8 +372,13 @@ class Retriever:
                     merged[doc_id] = doc
 
         # 정렬 및 top_k 선택
+        duration_ms = round((time.perf_counter() - start_time) * 1000, 2)
         docs = sorted(merged.values(), key=lambda d: d.metadata.get("similarity", 0.0), reverse=True)
+        metrics["cache_hit"] = cache_hit
+        metrics["retrieved"] = len(docs)
+        metrics["duration_ms"] = duration_ms
         logger.info(f"Query Expansion metrics: {metrics}")
         if self.cache and cache_key:
             self.cache.set_json(cache_key, self._serialize_documents(docs))
+        self.last_expansion_metrics = metrics
         return docs[:top_k]
