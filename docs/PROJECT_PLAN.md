@@ -36,26 +36,26 @@
 
 ## 4. 우선순위 로드맵
 ### 4.1 이번 주 (Short Term)
-1. **RAG 체인 연결**
-   - `backend/rag_chain.py` import 경로 수정 (`backend.utils.logger`).
+1. **RAG 체인 연결 (완료)**
+   - `backend/rag_chain.py` import 경로 정리 및 Retriever 어댑터 추가.
    - `backend/main.py`에서 Retriever → RAG 체인을 구성하고, `parent_context`/`expansion` 옵션과 연동.
-   - 응답 `metadata`에 모델명, 사용 변형, similarity 통계 포함.
-2. **Parent Context 옵션 정합성**
+   - 응답 `metadata`에 모델명, retrieved_count 등을 포함.
+2. **Parent Context 옵션 정합성 (완료)**
    - `RAGQueryRequest.parent_context`에 따라 parent summary 포함/제외 처리.
-   - Node 가이드(`docs/API_INTEGRATION_FOR_NODE.md`)의 응답 예시 업데이트.
-3. **테스트 자동화 1차**
+   - Node 가이드 업데이트는 후속 작업으로 추적.
+3. **테스트 자동화 1차 (완료)**
    - `tests/test_api.py`에 FastAPI TestClient 기반 happy path/validation 테스트 작성.
    - `tests/test_rag.py`를 실제 `process_rag_response()` 호출로 교체해 중복 출처 제거 로직 검증.
-4. **헬스체크/모니터링**
-   - `/health`에서 DB ping 및 OpenAI 키 검증 구현.
-   - 검색 latency·expansion 사용 여부 로그에 포함, SLA 초과 시 warning.
+4. **헬스체크/모니터링 (완료)**
+   - `/health`에서 DB ping 및 OpenAI/Redis 상태를 검증하고 degraded 상태를 표기.
+   - Query Expansion 변형·성공/실패 지표를 로그에 포함.
 
 ### 4.2 다음 주 (Mid Term)
 1. **Query Expansion 하드닝**
-   - 변형 규칙을 설정 파일/테이블로 외부화, 실패 변형 로깅, Top-K 병합 로직 개선.
+   - 변형 규칙을 설정 파일/테이블로 외부화, 실패 변형 로깅, Top-K 병합 로직 개선. ✅ 설정 파일/로그 기반 1차 구현 완료, latency 분석 및 cutoff 전략은 후속.
    - 확장 사용 시 latency 영향 측정 및 cutoff 전략 도입.
 2. **캐시/성능**
-   - Redis TTL 전략 설계(동일 질문 캐시, area/domain 키 구성) 및 장애 시 fallback 절차 문서화.
+   - Redis TTL 전략 설계(동일 질문 캐시, area/domain 키 구성) 및 장애 시 fallback 절차 문서화. ✅ Redis 캐시 1차 도입(검색/Query Expansion 결과 캐싱), 운영 Runbook 반영 예정.
    - Connection pool 모니터링/metrics 수집.
 3. **테스트 자동화 2차**
    - Mock Retriever/LLM을 이용해 DB 없이도 pytest가 통과하도록 리팩터링.
@@ -82,13 +82,13 @@
 - [x] 프로젝트 문서 허브(`docs/README.md`), API 스펙(`docs/openapi_rag.yaml`), 상태 리포트(`docs/PROJECT_STATUS.md`)
 
 ### 5.2 진행 예정
-- [ ] `rag_chain.py`/`llm_base.py` 실제 API 연동 및 예외 처리
-- [ ] `parent_context` 플래그 분기, child only 응답 모드 지원
-- [ ] `/health` DB/LLM 체크 및 지표 노출
+- [x] `rag_chain.py`/`llm_base.py` 실제 API 연동 및 예외 처리
+- [x] `parent_context` 플래그 분기, child only 응답 모드 지원
+- [x] `/health` DB/LLM 체크 및 지표 노출
 - [ ] README/프로젝트 문서의 임베딩/모델 정보 최신화
-- [ ] FastAPI/TestClient + Mock 기반 테스트 스위트 정비
-- [ ] Query Expansion 설정/모니터링 체계 수립
-- [ ] Redis 캐시 전략 및 fallback 시나리오 문서화
+- [x] FastAPI/TestClient + Mock 기반 테스트 스위트 정비
+- [x] Query Expansion 설정/모니터링 체계 수립
+- [x] Redis 캐시 전략 및 fallback 시나리오 1차 구현 (추가 문서화 필요)
 - [ ] 추천 경로 API 사전 설계 및 스키마 초안
 
 ---
