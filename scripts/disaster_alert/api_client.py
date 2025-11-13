@@ -3,6 +3,7 @@ from __future__ import annotations
 
 import json
 import time
+import logging
 from dataclasses import dataclass
 from typing import Any, Dict, Iterable, List, Set, Tuple
 
@@ -35,6 +36,7 @@ class DisasterApiClient:
         self._api_config = api_config
         self._parsing = parsing
         self._timeout = timeout
+        self._logger = logging.getLogger(__name__)
         self._session = requests.Session()
         self._configure_retries(max(0, retries), backoff_factor)
 
@@ -56,9 +58,12 @@ class DisasterApiClient:
         data = response.json()
 
         if debug:
-            print("--- API 응답 (데이터 구조 확인용) ---")
-            print(json.dumps(data, indent=2, ensure_ascii=False))
-            print(f"--------------------------------------- ({time.ctime()})")
+            safe_params = dict(params)
+            if "serviceKey" in safe_params:
+                safe_params["serviceKey"] = "***REDACTED***"
+            self._logger.debug("Disaster API request to %s with params %s", self._api_config.url, safe_params)
+            pretty_payload = json.dumps(data, indent=2, ensure_ascii=False)
+            self._logger.debug("Disaster API response snapshot at %s\n%s", time.ctime(), pretty_payload)
 
         items = self._extract_items(data)
         messages: List[DisasterMessage] = []
