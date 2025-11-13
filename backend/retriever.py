@@ -2,13 +2,14 @@
 벡터 검색 모듈 (v1.1)
 tourism_child 테이블 직접 검색
 """
-from typing import List, Optional
+from typing import Dict, List, Optional
 import psycopg
 from psycopg_pool import ConnectionPool
 from langchain_community.embeddings import HuggingFaceEmbeddings
 from langchain.schema import Document
 
 from backend.utils.logger import setup_logger, log_exception
+from backend.query_expansion import generate_variations
 
 
 logger = setup_logger()
@@ -263,28 +264,12 @@ class Retriever:
         if not query or len(query.strip()) < 2:
             raise ValueError("쿼리는 최소 2자 이상이어야 합니다.")
 
-        # 기본 변형 리스트 생성
-        vars_to_try = [query.strip()]
-
-        # 일본어 및 일반 구두점 제거 (안전한 방식)
-        # 일본어 구두점: 、。！？「」『』（）［］【】〈〉《》
-        # 일반 구두점: ,.!?;:'"()[]{}
-        punctuation_chars = "、。！？「」『』（）［］【】〈〉《》,.!?;:'\"()[]{}…"
-        punct_removed = "".join(ch for ch in query if ch not in punctuation_chars)
-        if punct_removed and punct_removed.strip() and punct_removed not in vars_to_try:
-            vars_to_try.append(punct_removed.strip())
-
-        # 추천어 추가 (간단한 힌트)
-        if "おすすめ" not in query:
-            vars_to_try.append(query + " おすすめ")
-
-        # 사용자 지정 변형이 있다면 포함
-        if variations:
-            for v in variations:
-                if v and v not in vars_to_try:
-                    vars_to_try.append(v)
-
-        logger.info(f"Query Expansion: variants={vars_to_try}")
+        vars_to_try = generate_variations(query, user_variations=variations)
+        metrics: Dict[str, Optional[int | List[str]]] = {
+            "variants": vars_to_try,
+            "success_count": 0,
+            "failure_count": 0,
+        }
 
         # 결과 수집: key by document_id (metadata.document_id)
         merged = {}
@@ -292,8 +277,10 @@ class Retriever:
         for qv in vars_to_try:
             try:
                 results = self.search(query=qv, top_k=top_k, domain=domain, area=area)
+                metrics["success_count"] = int(metrics["success_count"] or 0) + 1
             except Exception:
                 # 한 변형이 실패해도 계속 진행
+                metrics["failure_count"] = int(metrics["failure_count"] or 0) + 1
                 continue
 
             for doc in results:
@@ -310,4 +297,5 @@ class Retriever:
 
         # 정렬 및 top_k 선택
         docs = sorted(merged.values(), key=lambda d: d.metadata.get("similarity", 0.0), reverse=True)
+        logger.info(f"Query Expansion metrics: {metrics}")
         return docs[:top_k]
