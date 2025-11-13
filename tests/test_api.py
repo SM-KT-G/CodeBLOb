@@ -167,3 +167,58 @@ def test_health_check_reports_db_and_llm_status(monkeypatch):
     assert "db" in data["checks"]
     assert "llm" in data["checks"]
     assert "cache" in data["checks"]
+
+
+def test_rag_query_returns_expansion_metrics_in_metadata(monkeypatch):
+    monkeypatch.setenv("OPENAI_API_KEY", "test-api-key")
+    monkeypatch.setenv("DATABASE_URL", "postgresql://test_user:test_pass@localhost:5432/test_db")
+
+    stub_docs = [
+        StubDocument(
+            page_content="stub content",
+            metadata={"document_id": "DOC_EXP"},
+        )
+    ]
+
+    class DummyRetriever:
+        def __init__(self, db_url: str):
+            self.db_url = db_url
+            self.last_expansion_metrics = None
+
+        def search(self, *_, **__):
+            return stub_docs
+
+        def search_with_expansion(self, *_, **__):
+            self.last_expansion_metrics = {
+                "variants": ["원본", "추천"],
+                "success_count": 2,
+                "failure_count": 0,
+                "retrieved": 1,
+                "cache_hit": False,
+            }
+            return stub_docs
+
+        def close(self):
+            return None
+
+    def raise_chain(**kwargs):
+        raise RuntimeError("chain failure")
+
+    monkeypatch.setattr(main_module, "Retriever", lambda db_url, **_: DummyRetriever(db_url))
+    monkeypatch.setattr(main_module, "init_cache_from_env", lambda: None)
+    monkeypatch.setattr(main_module, "create_rag_chain", raise_chain, raising=False)
+
+    with TestClient(app) as client:
+        response = client.post(
+            "/rag/query",
+            json={
+                "question": "大阪 グルメ",
+                "top_k": 2,
+                "expansion": True,
+                "parent_context": True,
+            },
+        )
+
+    data = response.json()
+    assert data["metadata"]["expansion_metrics"]["variants"] == ["원본", "추천"]
+    assert data["metadata"]["expansion_metrics"]["success_count"] == 2
