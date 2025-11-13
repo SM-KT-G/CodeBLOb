@@ -5,7 +5,7 @@ import json
 import time
 import logging
 from dataclasses import dataclass
-from typing import Any, Dict, Iterable, List, Set, Tuple
+from typing import Any, Dict, Iterable, List, Optional, Set, Tuple
 
 import requests
 from requests.adapters import HTTPAdapter
@@ -32,13 +32,16 @@ class DisasterApiClient:
         timeout: int = 10,
         retries: int = 3,
         backoff_factor: float = 0.5,
+        session: Optional[requests.Session] = None,
     ) -> None:
         self._api_config = api_config
         self._parsing = parsing
         self._timeout = timeout
         self._logger = logging.getLogger(__name__)
-        self._session = requests.Session()
-        self._configure_retries(max(0, retries), backoff_factor)
+        self._session = session or requests.Session()
+        self._owns_session = session is None
+        if self._owns_session:
+            self._configure_retries(max(0, retries), backoff_factor)
 
     def fetch_messages(self, debug: bool = False) -> Tuple[List[DisasterMessage], Dict[str, Any]]:
         """Call the API and return normalised messages and raw payload."""
@@ -78,6 +81,10 @@ class DisasterApiClient:
             seen_ids.add(message_id)
             messages.append(message)
         return messages, data
+
+    def close(self) -> None:
+        if self._owns_session:
+            self._session.close()
 
     def _extract_items(self, data: Dict[str, Any]) -> Iterable[Dict[str, Any]]:
         node: Any = data
