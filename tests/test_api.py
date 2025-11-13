@@ -61,7 +61,8 @@ def test_rag_query_returns_chain_answer(monkeypatch):
         "source_documents": stub_docs,
     }
 
-    monkeypatch.setattr(main_module, "Retriever", lambda db_url: DummyRetriever(db_url))
+    monkeypatch.setattr(main_module, "Retriever", lambda db_url, **_: DummyRetriever(db_url))
+    monkeypatch.setattr(main_module, "init_cache_from_env", lambda: None)
     monkeypatch.setattr(main_module, "create_rag_chain", lambda **kwargs: fake_chain, raising=False)
 
     with TestClient(app) as client:
@@ -119,8 +120,9 @@ def test_rag_query_parent_context_false_strips_parent_summary(monkeypatch):
     def raise_chain(**kwargs):
         raise RuntimeError("chain failure")
 
-    monkeypatch.setattr(main_module, "Retriever", lambda db_url: DummyRetriever(db_url))
+    monkeypatch.setattr(main_module, "Retriever", lambda db_url, **_: DummyRetriever(db_url))
     monkeypatch.setattr(main_module, "create_rag_chain", raise_chain, raising=False)
+    monkeypatch.setattr(main_module, "init_cache_from_env", lambda: None)
 
     with TestClient(app) as client:
         response = client.post(
@@ -153,8 +155,9 @@ def test_health_check_reports_db_and_llm_status(monkeypatch):
         def close(self):
             return None
 
-    monkeypatch.setattr(main_module, "Retriever", lambda db_url: DummyRetriever(db_url))
+    monkeypatch.setattr(main_module, "Retriever", lambda db_url, **_: DummyRetriever(db_url))
     monkeypatch.setattr(main_module, "execute_retriever_query", lambda **kwargs: [])
+    monkeypatch.setattr(main_module, "init_cache_from_env", lambda: None)
 
     with TestClient(app) as client:
         response = client.get("/health")
@@ -163,3 +166,4 @@ def test_health_check_reports_db_and_llm_status(monkeypatch):
     data = response.json()
     assert "db" in data["checks"]
     assert "llm" in data["checks"]
+    assert "cache" in data["checks"]
