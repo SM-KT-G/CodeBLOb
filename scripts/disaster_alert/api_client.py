@@ -4,7 +4,7 @@ from __future__ import annotations
 import json
 import time
 from dataclasses import dataclass
-from typing import Any, Dict, Iterable, List, Tuple
+from typing import Any, Dict, Iterable, List, Set, Tuple
 
 import requests
 from requests.adapters import HTTPAdapter
@@ -61,7 +61,17 @@ class DisasterApiClient:
             print(f"--------------------------------------- ({time.ctime()})")
 
         items = self._extract_items(data)
-        messages = [self._to_message(item) for item in items if item]
+        messages: List[DisasterMessage] = []
+        seen_ids: Set[str] = set()
+        for item in items:
+            if not item:
+                continue
+            message = self._to_message(item)
+            message_id = message.message_id
+            if message_id in seen_ids:
+                raise ValueError(f"Duplicate message_id '{message_id}' detected in API payload")
+            seen_ids.add(message_id)
+            messages.append(message)
         return messages, data
 
     def _extract_items(self, data: Dict[str, Any]) -> Iterable[Dict[str, Any]]:
@@ -96,10 +106,19 @@ class DisasterApiClient:
         return node
 
     def _to_message(self, item: Dict[str, Any]) -> DisasterMessage:
-        message_id = str(item.get(self._parsing.id_field, "")).strip()
-        content = str(item.get(self._parsing.message_field, "")).strip()
+        message_id = self._require_text_field(item, self._parsing.id_field, "message_id")
+        content = self._require_text_field(item, self._parsing.message_field, "content")
         location = str(item.get(self._parsing.location_field, "")).strip()
         return DisasterMessage(message_id=message_id, content=content, location=location, raw=item)
+
+    def _require_text_field(self, item: Dict[str, Any], field_name: str, label: str) -> str:
+        if field_name not in item:
+            raise ValueError(f"Missing '{field_name}' for {label} in disaster message payload")
+        value = item[field_name]
+        text = str(value).strip()
+        if not text:
+            raise ValueError(f"Field '{field_name}' resolved for {label} but is empty/blank")
+        return text
 
     def _configure_retries(self, retries: int, backoff_factor: float) -> None:
         if retries <= 0:
