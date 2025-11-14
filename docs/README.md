@@ -10,6 +10,8 @@
 ### 2. 기술 문서
 - **[RAG_PIPELINE_ARCHITECTURE.md](./RAG_PIPELINE_ARCHITECTURE.md)**: RAG 파이프라인 아키텍처 설계 (v1.1)
 - **[EMBEDDING_PLAN.md](./EMBEDDING_PLAN.md)**: 임베딩 전략 및 계획
+- **[ITINERARY_RECOMMENDATION.md](./ITINERARY_RECOMMENDATION.md)**: 여행 추천 API 사양 (입력/응답 스키마, 흐름)
+- **[REDIS_CACHE_GUIDE.md](./REDIS_CACHE_GUIDE.md)**: Redis TTL, 키 구조, 장애 대응, 모니터링 지표 정리
 
 ---
 

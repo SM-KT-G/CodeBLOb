@@ -106,3 +106,83 @@ class ErrorResponse(BaseModel):
     error: str = Field(..., description="에러 메시지")
     detail: Optional[str] = Field(default=None, description="상세 정보")
     timestamp: str
+
+
+class ItinerarySegment(BaseModel):
+    """추천 일정 내 세부 방문 정보"""
+    time: Optional[str] = Field(default=None, description="예: 오전, 오후, 10:00 등")
+    place_name: str = Field(..., description="장소 이름")
+    description: str = Field(..., description="장소 설명 또는 액티비티")
+    document_id: Optional[str] = Field(default=None, description="참조 원본 document_id")
+    source_url: Optional[str] = Field(default=None, description="원본 출처 URL")
+    area: Optional[str] = Field(default=None, description="장소 지역")
+    notes: Optional[str] = Field(default=None, description="추가 메모")
+
+
+class DayPlan(BaseModel):
+    """일차별 세부 일정"""
+    day: int = Field(..., ge=1, description="Day 번호 (1부터 시작)")
+    segments: List[ItinerarySegment] = Field(default_factory=list, description="방문/활동 목록")
+
+
+class ItineraryPlan(BaseModel):
+    """추천 일정 한 건"""
+    title: str
+    summary: str
+    days: List[DayPlan]
+    highlights: List[str] = Field(default_factory=list)
+    estimated_budget: Optional[str] = None
+    metadata: Dict[str, Any] = Field(default_factory=dict)
+
+
+class ItineraryRecommendationRequest(BaseModel):
+    """여행 추천 요청"""
+    region: str = Field(..., min_length=1, description="선호 지역 (예: 서울, 부산)")
+    domains: List[DomainEnum] = Field(
+        ...,
+        min_length=1,
+        description="관심 도메인 목록 (예: food, stay)",
+    )
+    duration_days: int = Field(
+        ...,
+        ge=1,
+        le=7,
+        description="여행 일수 (1~7)",
+    )
+    themes: List[str] = Field(
+        default_factory=list,
+        description="여행 테마 태그 (예: 힐링, 인스타)",
+    )
+    transport_mode: Optional[str] = Field(
+        default=None,
+        description="이동 수단 (예: public, car, walk)",
+    )
+    budget_level: Optional[str] = Field(
+        default=None,
+        description="예산 수준 (economy/standard/premium 등)",
+    )
+    preferred_places: List[str] = Field(
+        default_factory=list,
+        description="반드시 포함하고 싶은 document_id 목록",
+    )
+    avoid_places: List[str] = Field(
+        default_factory=list,
+        description="제외할 document_id 목록",
+    )
+    expansion: bool = Field(
+        default=True,
+        description="Query Expansion 사용 여부",
+    )
+
+    @field_validator("region")
+    @classmethod
+    def validate_region(cls, v: str) -> str:
+        if not v or not v.strip():
+            raise ValueError("region은 비어있을 수 없습니다.")
+        return v.strip()
+
+
+class ItineraryRecommendationResponse(BaseModel):
+    """여행 추천 응답"""
+    itineraries: List[ItineraryPlan] = Field(default_factory=list)
+    metadata: Dict[str, Any] = Field(default_factory=dict)

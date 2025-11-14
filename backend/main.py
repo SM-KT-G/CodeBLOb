@@ -17,6 +17,8 @@ from backend.schemas import (
     RAGQueryResponse,
     HealthCheckResponse,
     ErrorResponse,
+    ItineraryRecommendationRequest,
+    ItineraryRecommendationResponse,
 )
 from backend.retriever import Retriever
 from backend.rag_chain import (
@@ -27,6 +29,7 @@ from backend.rag_chain import (
     remove_parent_summary,
 )
 from backend.cache import init_cache_from_env
+from backend.itinerary import ItineraryPlanner
 from backend.utils.logger import setup_logger, log_exception
 
 # 환경 변수 로드
@@ -67,6 +70,7 @@ async def lifespan(app: FastAPI):
 
     try:
         app.state.retriever = Retriever(db_url=db_url, cache=cache)
+        app.state.itinerary_planner = ItineraryPlanner(app.state.retriever)
         logger.info("Retriever 인스턴스 생성 및 앱 상태에 등록됨")
         app.state.llm_model = os.getenv("OPENAI_MODEL", "gpt-4-turbo")
     except Exception as e:
@@ -264,6 +268,30 @@ async def rag_query(request: RAGQueryRequest):
             detail="RAG 처리 중 오류 발생",
         )
 
+
+@app.post("/recommend/itinerary", response_model=ItineraryRecommendationResponse)
+async def recommend_itinerary(request: ItineraryRecommendationRequest):
+    """여행 추천 일정 생성"""
+    start_time = time.time()
+    try:
+        planner: ItineraryPlanner = getattr(app.state, "itinerary_planner", None)
+        if planner is None:
+            planner = ItineraryPlanner(app.state.retriever)
+        result = planner.recommend(request)
+        result["metadata"]["latency"] = round(time.time() - start_time, 2)
+        return ItineraryRecommendationResponse(**result)
+    except ValueError as e:
+        log_exception(e, {"request": request.model_dump()}, logger)
+        raise HTTPException(
+            status_code=status.HTTP_400_BAD_REQUEST,
+            detail=str(e),
+        )
+    except Exception as e:
+        log_exception(e, {"request": request.model_dump()}, logger)
+        raise HTTPException(
+            status_code=status.HTTP_500_INTERNAL_SERVER_ERROR,
+            detail="Itinerary 추천 중 오류 발생",
+        )
 
 if __name__ == "__main__":
     import uvicorn

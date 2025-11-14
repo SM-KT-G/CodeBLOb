@@ -49,6 +49,8 @@
 - `docs/API_INTEGRATION_FOR_NODE.md`: Node.js 게이트웨이 팀을 위한 `/rag/query` 연동 가이드(curl·fetch 예시, expansion/parent_context 옵션 설명).
 - `docs/openapi_rag.yaml`: OpenAPI 3.0 명세. `/rag/query` 요청/응답 스키마와 예시.
 - `docs/FILE_CATALOG.md`: 본 문서. 파일별 책임·역할 관리.
+- `docs/ITINERARY_RECOMMENDATION.md`: 여행 일정 추천 API 사양. 입력/응답 스키마, 처리 플로우, TODO 정리.
+- `docs/REDIS_CACHE_GUIDE.md`: Redis 캐시 동작 방식, 환경 변수, 모니터링 지표, 장애 대응 가이드.
 
 ## 데이터 소스 (`labled_data/`)
 - `labled_data/TL_FOOD/J_FOOD_*.json`: 음식점/맛집 데이터. 일본어 설명 + 메타데이터. 임베딩 입력으로 사용.
