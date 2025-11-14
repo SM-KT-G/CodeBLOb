@@ -1,6 +1,6 @@
 # API Integration Guide for Node.js Team
 
-This document explains how to call the FastAPI RAG backend `/rag/query` endpoint, the available parameters, and examples (curl & Node.js fetch). It also describes the new query expansion and parent context options.
+This document explains how to call the FastAPI RAG backend `/rag/query` endpoint, the available parameters, and examples (curl & Node.js fetch). It also describes the query expansion, parent context, and Redis 캐시 옵션.
 
 ## Endpoint
 
@@ -16,7 +16,7 @@ This document explains how to call the FastAPI RAG backend `/rag/query` endpoint
 - area (string, optional): Region filter (e.g., `서울`, `부산`).
 - expansion (bool, optional): If true, backend uses Query Expansion to run multiple query variants and merge results. Default: false.
 - expansion_variations (array[string], optional): Custom query variants to include in expansion.
-- parent_context (bool, optional): If true (default), returned documents include parent summary in `metadata.parent_summary` and in `page_content`.
+- parent_context (bool, optional): If true (default), returned documents include parent summary in `metadata.parent_summary` and in `page_content`. False면 child chunk만 반환.
 
 Example request body:
 
@@ -34,7 +34,7 @@ Example request body:
 
 ## Response schema (`RAGQueryResponse`)
 
-- answer (string): Short answer or aggregated context (first document preview if RAG chain not enabled).
+- answer (string): LLM 생성 답변(체인 오류 시 fallback으로 상위 문서 snippet을 반환).
 - sources (array[string]): List of `document_id` values for the returned documents.
 - latency (float): Response time in seconds.
 - metadata (object, optional): Additional info (e.g., retrieved docs metadata when enabled).
@@ -47,12 +47,26 @@ Example response (simplified):
   "sources": ["J_STAY_000123", "J_STAY_000456"],
   "latency": 0.78,
   "metadata": {
-    "retrieved_count": 2
+    "retrieved_count": 2,
+    "expansion_metrics": {
+      "variants": ["温泉旅館のおすすめはありますか", "温泉旅館のおすすめはありますか おすすめ"],
+      "success_count": 2,
+      "failure_count": 0,
+      "retrieved": 2,
+      "duration_ms": 120.5,
+      "cache_hit": false
+    }
   }
 }
 ```
 
-Note: Currently the backend returns the top document `page_content` as a short `answer` until the RAG chain (LLM answer synthesis) is implemented. Sources and parent_summary are provided to allow the Node.js side to show citations or build its own UI.
+### Metadata 필드 안내
+
+- `retrieved_count`: 최종 반환된 문서 수.
+- `expansion_metrics`: `expansion=true`일 때만 포함. 변형 리스트, 성공/실패 횟수, 캐시 적중 여부(`cache_hit`), 실행 시간(`duration_ms`) 등을 포함해 노출합니다.
+- `fallback`: RAG 체인 오류 시 `true`.
+
+Note: 기본적으로 LangChain RAG 체인이 answer를 생성하며, fallback 시에만 상위 문서 snippet이 사용됩니다.
 
 ## Curl example
 
@@ -95,15 +109,15 @@ queryRag();
 
 ## Notes & Best Practices for Node Team
 
-- Use `expansion=true` for broader recall when users use short queries (e.g., single-word queries).
-- `parent_context=true` includes document summary; use it to display contextual snippets or citations.
-- Expect `answer` to be a snippet until the RAG LLM chain is fully integrated; use `sources` and `metadata` for display.
+- Use `expansion=true` for broader recall when users use short queries (e.g., single-word queries). 응답의 `metadata.expansion_metrics`를 확인해 변형 수·캐시 여부를 모니터링하세요.
+- `parent_context=true` includes document summary; use it to display contextual snippets or citations. False일 때는 요약이 제거됩니다.
 - Keep payload size small (question <= 500 chars). The backend enforces request limits.
 - Rate-limit client requests to avoid overloading the server; recommended concurrency <= 20.
+- Redis 캐시가 활성화되면 동일 쿼리는 TTL(기본 300초) 동안 빠르게 응답하며, 캐시 미사용 시 `metadata.expansion_metrics.cache_hit=false`로 확인할 수 있습니다.
 
 ## Troubleshooting
 
-- If you receive a 500 error, check server logs for `log_exception` details (backend logs).
+- If you receive a 500 error, check server logs for `log_exception` details (backend logs) and `/health` 응답에서 `db` / `llm` / `cache` 상태를 확인하세요.
 - If `sources` is empty, confirm that the backend `DATABASE_URL` is configured and the Postgres/pgvector service is healthy.
 
 ---
