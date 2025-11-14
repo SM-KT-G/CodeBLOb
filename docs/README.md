@@ -15,21 +15,22 @@
 
 ## 🔄 버전 히스토리
 
-### v1.1 (2025-11-07) - Parent-Child Architecture ✅ COMPLETE
+### v1.1 (2025-11-07~12) - Parent-Child Architecture ✅ COMPLETE
 - **주요 변경사항**:
   - Document-level → Parent-Child QA chunking
   - 메타데이터 확장 (2개 → 9+개 필드)
   - multilingual-e5-large (1024d) → multilingual-e5-small (384d)
   - 직접 SQL 쿼리 방식 (PGVector <=> 연산자)
   - Metadata Filtering 구현 (area, domain)
+  - Query Expansion + Parent Context 옵션 + Redis 캐시 도입
 - **완료 상태**:
   - ✅ 377,263개 Parents 임베딩 완료
   - ✅ 2,202,565개 Children 임베딩 완료
   - ✅ Retriever 구현 및 테스트 (90%+ 유사도)
-  - ✅ Metadata Filtering 구현 및 검증
+  - ✅ Metadata Filtering / Query Expansion / Parent Context / Redis 캐시 동작 확인
 - **다음 단계**:
-  - Query Expansion 구현
-  - Parent Context 추가
+  - Query Expansion latency 분석 및 cutoff 전략
+  - Redis 캐시 운영 가이드 및 장애 대응 시나리오 문서화
 
 ### v1.0 (2025-11-05~06) - Initial Implementation (Deprecated)
 - 기본 RAG 파이프라인 구축
@@ -80,16 +81,21 @@
 - 복합 필터 지원 (area + domain)
 - 검색 정확도 향상 (최고 유사도 0.91)
 
-### 🔄 Step 2: Query Expansion (예정)
-- 쿼리 다양화로 재현율 향상
-- 다중 쿼리 결과 병합
+### ✅ Step 2: Query Expansion (완료)
+- JSON 설정 기반 변형 생성(접미어, 구두점, 사용자 변형)
+- 변형별 성공/실패/latency/cached 지표 로깅 및 `/rag/query` metadata로 노출
+- Redis TTL 캐시로 반복 쿼리 응답 속도 향상
 
-### 🔄 Step 3: Parent Context (예정)
-- 문서 요약 정보 추가
-- 답변 품질 및 맥락 이해도 향상
+### ✅ Step 3: Parent Context (완료)
+- `parent_context` 플래그로 parent summary 포함 여부 제어
+- fallback 경로에서도 요약 제거 처리
+
+### 🔄 Step 4: 캐시/운영 가시성 (진행 중)
+- Redis TTL 전략 운영 가이드 및 fallback 시나리오 문서화
+- Query Expansion/검색 지표를 모니터링 대시보드에 노출
 
 ---
 
 ## 📖 참고 링크
 
-프로젝트 루트의 [readme.md](../readme.md)를 참조하세요.
+프로젝트 루트의 [README.md](../README.md)를 참조하세요.
