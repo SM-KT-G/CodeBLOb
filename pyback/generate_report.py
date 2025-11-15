@@ -1,38 +1,22 @@
-import dash
-import dash_core_components as dcc
-import dash_html_components as html
-import plotly.express as px
+# app.py
+import streamlit as st
 import pandas as pd
+import numpy as np
+
+st.title('간단한 파이썬 대시보드')
+st.write('Streamlit을 이용한 첫 번째 대시보드입니다.')
 
 # 샘플 데이터 생성
-df = pd.DataFrame({
-    "Fruit": ["Apples", "Oranges", "Bananas", "Grapes"],
-    "Amount": [4, 1, 2, 2],
-})
+@st.cache_data  # 데이터 캐싱
+def get_data():
+    data = np.random.randn(50, 2)
+    df = pd.DataFrame(data, columns=['A', 'B'])
+    return df
 
-# 플로틀리(Plotly) 그래프 생성
-fig = px.bar(df, x="Fruit", y="Amount", title="Fruit Distribution")
+df = get_data()
 
-# Dash 앱 초기화
-app = dash.Dash(__name__)
+st.header('간단한 라인 차트')
+st.line_chart(df)
 
-# 대시보드 레이아웃 정의
-app.layout = html.Div(children=[
-    # H1 태그로 제목 추가
-    html.H1(children='간단한 Dash 대시보드'),
-
-    # 간단한 설명 추가
-    html.Div(children='''
-        Dash: 파이썬으로 웹 애플리케이션 만들기
-    '''),
-
-    # dcc.Graph 컴포넌트로 그래프 표시
-    dcc.Graph(
-        id='example-graph',
-        figure=fig
-    )
-])
-
-# 서버 실행
-if __name__ == '__main__':
-    app.run_server(debug=True)
+st.header('데이터 원본')
+st.dataframe(df)
