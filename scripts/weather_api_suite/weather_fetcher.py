@@ -34,6 +34,28 @@ def build_parser() -> argparse.ArgumentParser:
         action="store_true",
         help="Print verbose output for debugging.",
     )
+    parser.add_argument(
+        "--nx",
+        type=int,
+        default=60,
+        help="Grid X coordinate (short-term forecast). Default points to Seoul.",
+    )
+    parser.add_argument(
+        "--ny",
+        type=int,
+        default=127,
+        help="Grid Y coordinate (short-term forecast). Default points to Seoul.",
+    )
+    parser.add_argument(
+        "--base-date",
+        type=str,
+        help="Override base_date (YYYYMMDD) for short-term API.",
+    )
+    parser.add_argument(
+        "--base-time",
+        type=str,
+        help="Override base_time (HHMM) for short-term API.",
+    )
     return parser
 
 
@@ -70,11 +92,11 @@ def main(argv: list[str] | None = None) -> int:
     if args.debug:
         print(f"[debug] Invoking service={args.service}")
     client = WeatherAPIClient(api_key=args.api_key, debug=args.debug)
-    dispatch(args.service, client)
+    dispatch(args.service, client, args)
     return 0
 
 
-def dispatch(service: str, client: WeatherAPIClient) -> None:
+def dispatch(service: str, client: WeatherAPIClient, args: argparse.Namespace) -> None:
     """Dispatch placeholder service handlers."""
     handlers = {
         "short-term": handle_short_term,
@@ -85,23 +107,62 @@ def dispatch(service: str, client: WeatherAPIClient) -> None:
     handler = handlers.get(service)
     if not handler:
         raise ValueError(f"Unsupported service {service}")
-    handler(client)
+    handler(client, args)
 
 
-def handle_short_term(client: WeatherAPIClient) -> None:
-    print("Short-term forecast handler not implemented yet.")
+def handle_short_term(client: WeatherAPIClient, args: argparse.Namespace) -> None:
+    base_date, base_time = get_short_term_timestamp(args)
+    params = {
+        "pageNo": "1",
+        "numOfRows": "200",
+        "base_date": base_date,
+        "base_time": base_time,
+        "nx": args.nx,
+        "ny": args.ny,
+    }
+    endpoint = f"{SHORT_BASE}/getVilageFcst"
+    data = client.get(endpoint, params)
+    items = extract_items(data)
+    if not items:
+        print("No short-term forecast data returned.")
+        return
+    for item in items[:20]:
+        print(
+            f"{item['fcstDate']} {item['fcstTime']} {item['category']}: {item['fcstValue']}",
+        )
 
 
-def handle_mid_term(client: WeatherAPIClient) -> None:
+def handle_mid_term(client: WeatherAPIClient, args: argparse.Namespace) -> None:
     print("Mid-term forecast handler not implemented yet.")
 
 
-def handle_warnings(client: WeatherAPIClient) -> None:
+def handle_warnings(client: WeatherAPIClient, args: argparse.Namespace) -> None:
     print("Weather warning handler not implemented yet.")
 
 
-def handle_air_quality(client: WeatherAPIClient) -> None:
+def handle_air_quality(client: WeatherAPIClient, args: argparse.Namespace) -> None:
     print("Air quality handler not implemented yet.")
+
+
+def get_short_term_timestamp(args: argparse.Namespace) -> tuple[str, str]:
+    """Return (base_date, base_time) strings."""
+    if args.base_date and args.base_time:
+        return args.base_date, args.base_time
+    from datetime import datetime, timedelta
+
+    now = datetime.now()
+    base = now - timedelta(hours=1)
+    return base.strftime("%Y%m%d"), base.strftime("%H00")
+
+
+def extract_items(payload: dict[str, Any]) -> list[dict[str, Any]]:
+    """Safely pull the 'item' list from a nested response object."""
+    return (
+        payload.get("response", {})
+        .get("body", {})
+        .get("items", {})
+        .get("item", [])
+    )
 
 
 if __name__ == "__main__":
