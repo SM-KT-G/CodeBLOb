@@ -1,9 +1,28 @@
 import typer
 from pathlib import Path
+from typing import Dict, List, Optional
 from typing_extensions import Annotated
+
+# 분류 카테고리
+CATEGORIES: Dict[str, List[str]] = {
+    "Images": [".jpeg", ".jpg", ".png", ".gif", ".bmp", ".svg"],
+    "Videos": [".mp4", ".mkv", ".avi", ".mov", ".wmv"],
+    "Documents": [".pdf", ".docx", ".doc", ".pptx", ".ppt", ".xlsx", ".xls", ".txt", ".md"],
+    "Audio": [".mp3", ".wav", ".aac", ".flac"],
+    "Archives": [".zip", ".rar", ".tar", ".gz", ".7z"],
+    "Code": [".py", ".js", ".html", ".css", ".java", ".c", ".cpp", ".go", ".rs"],
+}
 
 # Typer 앱 인스턴스 생성
 app = typer.Typer(help="파일을 확장자별로 하위 폴더에 정리합니다.")
+
+def get_category(file_path: Path) -> Optional[str]:
+    """파일 확장자를 기반으로 카테고리 이름을 반환합니다."""
+    ext = file_path.suffix.lower()
+    for category, extensions in CATEGORIES.items():
+        if ext in extensions:
+            return category
+    return None
 
 @app.command()
 def run(
@@ -25,7 +44,13 @@ def run(
             if not file_path.is_file() or file_path.name == "organize.py":
                 continue
             
-            typer.echo(f"Found file: {file_path.name}")
+            category = get_category(file_path)
+            
+            if category:
+                typer.echo(f"File: {file_path.name}  -> Category: {category}")
+            else:
+                typer.echo(f"File: {file_path.name}  -> Category: None (Skipped)")
+
 
     except FileNotFoundError:
         typer.secho(f"오류: 소스 디렉터리 '{source_dir}'를 찾을 수 없습니다.", fg=typer.colors.RED, err=True)
