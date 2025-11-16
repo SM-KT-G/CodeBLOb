@@ -55,6 +55,8 @@ def run(
     else:
         logging.info(f"Scanning directory: {source_dir}")
 
+    processed_files = 0
+    skipped_files = 0
 
     try:
         for file_path in source_dir.iterdir():
@@ -77,13 +79,27 @@ def run(
                         
                         # 파일 이동
                         shutil.move(str(file_path), str(target_file_path))
+                        processed_files += 1
                     
                     except (shutil.Error, OSError) as e:
                         logging.error(f"Error moving {file_path.name}: {e}")
+                        skipped_files += 1
+                
+                else:
+                    # Dry run 모드에서는 처리된 것으로 간주
+                    processed_files += 1
             
             else:
                 logging.warning(f"Skipped: {file_path.name} (분류 카테고리 없음)")
+                skipped_files += 1
 
+        # --- 최종 요약 ---
+        summary_color = typer.colors.GREEN if not dry_run else typer.colors.YELLOW
+        typer.secho("\n--- 정리 완료 ---", fg=summary_color, bold=True)
+        typer.secho(f"총 이동된 파일: {processed_files}", fg=summary_color)
+        typer.secho(f"총 건너뛴 파일: {skipped_files}", fg=summary_color)
+        if dry_run:
+            typer.secho("[DRY RUN 모드로 실행되었습니다]", fg=typer.colors.YELLOW)
 
     except FileNotFoundError:
         typer.secho(f"오류: 소스 디렉터리 '{source_dir}'를 찾을 수 없습니다.", fg=typer.colors.RED, err=True)
