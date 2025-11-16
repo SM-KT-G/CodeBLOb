@@ -1,4 +1,5 @@
 import typer
+import shutil
 from pathlib import Path
 from typing import Dict, List, Optional
 from typing_extensions import Annotated
@@ -47,9 +48,22 @@ def run(
             category = get_category(file_path)
             
             if category:
-                typer.echo(f"File: {file_path.name}  -> Category: {category}")
+                target_category_dir = source_dir / category
+                target_file_path = target_category_dir / file_path.name
+
+                try:
+                    # 대상 디렉터리 생성 (존재하지 않을 경우)
+                    target_category_dir.mkdir(parents=True, exist_ok=True)
+                    
+                    # 파일 이동
+                    shutil.move(str(file_path), str(target_file_path))
+                    typer.echo(f"Moved: {file_path.name} -> {target_category_dir.name}/")
+                
+                except (shutil.Error, OSError) as e:
+                    typer.secho(f"Error moving {file_path.name}: {e}", fg=typer.colors.RED, err=True)
+            
             else:
-                typer.echo(f"File: {file_path.name}  -> Category: None (Skipped)")
+                typer.echo(f"Skipped: {file_path.name} (분류 카테고리 없음)")
 
 
     except FileNotFoundError:
