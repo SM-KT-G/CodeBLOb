@@ -70,9 +70,12 @@ async def lifespan(app: FastAPI):
 
     try:
         app.state.retriever = Retriever(db_url=db_url, cache=cache)
-        app.state.itinerary_planner = ItineraryPlanner(app.state.retriever)
         logger.info("Retriever 인스턴스 생성 및 앱 상태에 등록됨")
         app.state.llm_model = os.getenv("OPENAI_MODEL", "gpt-4-turbo")
+        app.state.itinerary_planner = ItineraryPlanner(
+            app.state.retriever,
+            llm_model=app.state.llm_model,
+        )
     except Exception as e:
         log_exception(e, {"db_url": db_url[:50] if db_url else None}, logger)
         raise
