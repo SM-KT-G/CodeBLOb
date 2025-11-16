@@ -1,8 +1,12 @@
 import typer
+import logging
 import shutil
 from pathlib import Path
 from typing import Dict, List, Optional
 from typing_extensions import Annotated
+
+# 로깅 설정
+logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
 # 분류 카테고리
 CATEGORIES: Dict[str, List[str]] = {
@@ -37,7 +41,7 @@ def run(
     )]
 ):
     """지정된 디렉터리의 파일을 확장자별로 정리합니다."""
-    typer.secho(f"Scanning directory: {source_dir}", fg=typer.colors.GREEN)
+    logging.info(f"Scanning directory: {source_dir}")
 
     try:
         for file_path in source_dir.iterdir():
@@ -57,13 +61,13 @@ def run(
                     
                     # 파일 이동
                     shutil.move(str(file_path), str(target_file_path))
-                    typer.echo(f"Moved: {file_path.name} -> {target_category_dir.name}/")
+                    logging.info(f"Moved: {file_path.name} -> {target_category_dir.name}/")
                 
                 except (shutil.Error, OSError) as e:
-                    typer.secho(f"Error moving {file_path.name}: {e}", fg=typer.colors.RED, err=True)
+                    logging.error(f"Error moving {file_path.name}: {e}")
             
             else:
-                typer.echo(f"Skipped: {file_path.name} (분류 카테고리 없음)")
+                logging.warning(f"Skipped: {file_path.name} (분류 카테고리 없음)")
 
 
     except FileNotFoundError:
