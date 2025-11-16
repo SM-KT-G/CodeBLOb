@@ -49,7 +49,7 @@ def test_itinerary_endpoint_returns_plans(monkeypatch):
             }
 
     monkeypatch.setattr(main_module, "Retriever", lambda db_url, **_: DummyRetriever(db_url))
-    monkeypatch.setattr(main_module, "ItineraryPlanner", lambda retriever: DummyPlanner(retriever))
+    monkeypatch.setattr(main_module, "ItineraryPlanner", lambda retriever, **_: DummyPlanner(retriever))
     monkeypatch.setattr(main_module, "init_cache_from_env", lambda: None)
 
     with TestClient(app) as client:
