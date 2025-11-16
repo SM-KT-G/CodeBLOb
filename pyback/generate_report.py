@@ -38,10 +38,23 @@ def run(
         readable=True, 
         resolve_path=True,
         help="정리할 파일이 있는 소스 디렉터리"
-    )]
+    )],
+    
+    dry_run: Annotated[bool, typer.Option(
+        "--dry-run",
+        help="실제로 파일을 옮기지 않고 실행 결과만 시뮬레이션합니다."
+    )] = False
 ):
     """지정된 디렉터리의 파일을 확장자별로 정리합니다."""
-    logging.info(f"Scanning directory: {source_dir}")
+    
+    if dry_run:
+        logging.info("--- [DRY RUN] ---")
+        logging.info(f"소스 디렉터리: {source_dir}")
+        logging.info("실제 파일 이동은 수행되지 않습니다.")
+        typer.echo("--- [DRY RUN] ---")
+    else:
+        logging.info(f"Scanning directory: {source_dir}")
+
 
     try:
         for file_path in source_dir.iterdir():
@@ -55,16 +68,18 @@ def run(
                 target_category_dir = source_dir / category
                 target_file_path = target_category_dir / file_path.name
 
-                try:
-                    # 대상 디렉터리 생성 (존재하지 않을 경우)
-                    target_category_dir.mkdir(parents=True, exist_ok=True)
+                logging.info(f"Moving: {file_path.name} -> {target_category_dir.name}/")
+
+                if not dry_run:
+                    try:
+                        # 대상 디렉터리 생성 (존재하지 않을 경우)
+                        target_category_dir.mkdir(parents=True, exist_ok=True)
+                        
+                        # 파일 이동
+                        shutil.move(str(file_path), str(target_file_path))
                     
-                    # 파일 이동
-                    shutil.move(str(file_path), str(target_file_path))
-                    logging.info(f"Moved: {file_path.name} -> {target_category_dir.name}/")
-                
-                except (shutil.Error, OSError) as e:
-                    logging.error(f"Error moving {file_path.name}: {e}")
+                    except (shutil.Error, OSError) as e:
+                        logging.error(f"Error moving {file_path.name}: {e}")
             
             else:
                 logging.warning(f"Skipped: {file_path.name} (분류 카테고리 없음)")
