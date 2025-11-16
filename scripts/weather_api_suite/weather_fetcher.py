@@ -67,6 +67,12 @@ def build_parser() -> argparse.ArgumentParser:
         type=str,
         help="Override tmFc (YYYYMMDDHHMM) for mid-term calls.",
     )
+    parser.add_argument(
+        "--warning-region",
+        type=str,
+        default="108",
+        help="Station ID for weather warnings (default=108 nationwide).",
+    )
     return parser
 
 
@@ -173,7 +179,21 @@ def handle_mid_term(client: WeatherAPIClient, args: argparse.Namespace) -> None:
 
 
 def handle_warnings(client: WeatherAPIClient, args: argparse.Namespace) -> None:
-    print("Weather warning handler not implemented yet.")
+    params = {
+        "pageNo": "1",
+        "numOfRows": "50",
+        "stnId": args.warning_region,
+    }
+    endpoint = f"{WARN_BASE}/getWthrWrnList"
+    data = client.get(endpoint, params)
+    items = extract_items(data)
+    if not items:
+        print("No weather warnings returned.")
+        return
+    for entry in items[:5]:
+        title = entry.get("title", "N/A")
+        tm = entry.get("tmFc") or entry.get("tmSeq") or "Unknown"
+        print(f"- [{tm}] {title}")
 
 
 def handle_air_quality(client: WeatherAPIClient, args: argparse.Namespace) -> None:
