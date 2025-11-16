@@ -73,6 +73,12 @@ def build_parser() -> argparse.ArgumentParser:
         default="108",
         help="Station ID for weather warnings (default=108 nationwide).",
     )
+    parser.add_argument(
+        "--sido",
+        type=str,
+        default="서울",
+        help="시도 이름 (air quality service).",
+    )
     return parser
 
 
@@ -197,7 +203,26 @@ def handle_warnings(client: WeatherAPIClient, args: argparse.Namespace) -> None:
 
 
 def handle_air_quality(client: WeatherAPIClient, args: argparse.Namespace) -> None:
-    print("Air quality handler not implemented yet.")
+    params = {
+        "pageNo": "1",
+        "numOfRows": "100",
+        "sidoName": args.sido,
+        "returnType": "json",
+    }
+    endpoint = f"{AIR_BASE}/getCtprvnRltmMesureDnsty"
+    data = client.get(endpoint, params)
+    items = extract_items(data)
+    if not items:
+        print("No air quality data returned.")
+        return
+    top = items[:3]
+    print(f"Air quality in {args.sido}:")
+    for row in top:
+        station = row.get("stationName")
+        pm10 = row.get("pm10Value")
+        pm25 = row.get("pm25Value")
+        khai = row.get("khaiValue")
+        print(f"- {station}: PM10={pm10}, PM2.5={pm25}, KHAI={khai}")
 
 
 def get_short_term_timestamp(args: argparse.Namespace) -> tuple[str, str]:
