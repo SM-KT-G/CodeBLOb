@@ -56,6 +56,17 @@ def build_parser() -> argparse.ArgumentParser:
         type=str,
         help="Override base_time (HHMM) for short-term API.",
     )
+    parser.add_argument(
+        "--mid-region",
+        type=str,
+        default="11B10101",
+        help="Region ID for mid-term land forecast (default=Seoul).",
+    )
+    parser.add_argument(
+        "--mid-tmfc",
+        type=str,
+        help="Override tmFc (YYYYMMDDHHMM) for mid-term calls.",
+    )
     return parser
 
 
@@ -133,7 +144,32 @@ def handle_short_term(client: WeatherAPIClient, args: argparse.Namespace) -> Non
 
 
 def handle_mid_term(client: WeatherAPIClient, args: argparse.Namespace) -> None:
-    print("Mid-term forecast handler not implemented yet.")
+    tm_fc = args.mid_tmfc or compute_mid_tmfc()
+    params = {
+        "pageNo": "1",
+        "numOfRows": "10",
+        "tmFc": tm_fc,
+        "regId": args.mid_region,
+    }
+    endpoint = f"{MID_BASE}/getMidLandFcst"
+    data = client.get(endpoint, params)
+    items = extract_items(data)
+    if not items:
+        print("No mid-term forecast data returned.")
+        return
+    entry = items[0]
+    fields = [
+        ("wf3Am", "Day3 AM"),
+        ("wf3Pm", "Day3 PM"),
+        ("wf4Am", "Day4 AM"),
+        ("wf4Pm", "Day4 PM"),
+        ("wf5Am", "Day5 AM"),
+        ("wf5Pm", "Day5 PM"),
+    ]
+    print(f"Mid-term outlook (tmFc={tm_fc}, regId={args.mid_region}):")
+    for key, label in fields:
+        if key in entry:
+            print(f"{label}: {entry[key]}")
 
 
 def handle_warnings(client: WeatherAPIClient, args: argparse.Namespace) -> None:
@@ -162,6 +198,22 @@ def extract_items(payload: dict[str, Any]) -> list[dict[str, Any]]:
         .get("body", {})
         .get("items", {})
         .get("item", [])
+    )
+
+
+def compute_mid_tmfc() -> str:
+    """Return tmFc aligned to the latest 0600/1800 cycle."""
+    from datetime import datetime
+
+    now = datetime.now()
+    hour = now.hour
+    cycle = 18 if hour >= 18 else 6 if hour >= 6 else 18
+    if hour < 6:
+        from datetime import timedelta
+
+        now = now - timedelta(days=1)
+    return now.replace(hour=cycle, minute=0, second=0, microsecond=0).strftime(
+        "%Y%m%d%H%M",
     )
 
 
