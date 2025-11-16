@@ -3,10 +3,14 @@ Itinerary recommendation helper
 """
 from __future__ import annotations
 
+import json
+import os
 from collections import OrderedDict
-from typing import Dict, List, Sequence
+from typing import Any, Dict, List, Sequence
 
+from langchain.prompts import ChatPromptTemplate
 from langchain.schema import Document
+from langchain_openai import ChatOpenAI
 
 from backend.retriever import Retriever
 from backend.schemas import (
@@ -15,13 +19,18 @@ from backend.schemas import (
     ItinerarySegment,
     DayPlan,
 )
+from backend.utils.logger import setup_logger
+
+
+logger = setup_logger()
 
 
 class ItineraryPlanner:
-    """간단한 추천 일정 생성기 (LLM 연동 이전 버전)"""
+    """Query Expansion + LLM 기반 추천 일정 생성기"""
 
-    def __init__(self, retriever: Retriever):
+    def __init__(self, retriever: Retriever, llm_model: str = "gpt-4-turbo"):
         self.retriever = retriever
+        self.llm_model = llm_model
 
     def recommend(
         self,
@@ -31,7 +40,20 @@ class ItineraryPlanner:
         요청 정보를 바탕으로 추천 일정 생성
         """
         candidates = self._gather_candidates(request)
-        itineraries = self._build_itineraries(request, candidates)
+        itineraries: List[ItineraryPlan] = []
+        generator = "rule"
+
+        if candidates:
+            try:
+                itineraries = self._generate_with_llm(request, candidates)
+                if itineraries:
+                    generator = "llm"
+            except Exception as exc:  # pylint: disable=broad-except
+                logger.warning("LLM itinerary generation failed: %s", exc)
+
+        if not itineraries:
+            itineraries = self._build_rule_based_itineraries(request, candidates)
+
         metadata = {
             "generated_count": len(itineraries),
             "duration_days": request.duration_days,
@@ -41,6 +63,7 @@ class ItineraryPlanner:
             "transport_mode": request.transport_mode,
             "budget_level": request.budget_level,
             "expansion": request.expansion,
+            "generator": generator,
         }
         if request.expansion:
             metadata["expansion_metrics"] = getattr(
@@ -84,7 +107,7 @@ class ItineraryPlanner:
 
         return list(docs_by_id.values())
 
-    def _build_itineraries(
+    def _build_rule_based_itineraries(
         self,
         request: ItineraryRecommendationRequest,
         docs: Sequence[Document],
@@ -177,3 +200,131 @@ class ItineraryPlanner:
             itineraries.append(itinerary)
 
         return itineraries
+
+    def _generate_with_llm(
+        self,
+        request: ItineraryRecommendationRequest,
+        docs: Sequence[Document],
+    ) -> List[ItineraryPlan]:
+        """LLM에 후보 장소를 전달해 추천 일정을 생성"""
+        api_key = os.getenv("OPENAI_API_KEY")
+        if not api_key:
+            raise RuntimeError("OPENAI_API_KEY가 설정되지 않아 LLM을 사용할 수 없습니다.")
+
+        if not docs:
+            return []
+
+        candidates = self._format_candidates(docs[: min(12, len(docs))])
+
+        prompt = ChatPromptTemplate.from_messages(
+            [
+                (
+                    "system",
+                    "You are a Korean tourist itinerary planner for Japanese travelers. "
+                    "Generate JSON with multiple itinerary options. Never add commentary outside JSON.",
+                ),
+                (
+                    "user",
+                    self._build_prompt(request, candidates),
+                ),
+            ]
+        )
+
+        llm = ChatOpenAI(
+            model=self.llm_model,
+            temperature=0.4,
+            max_tokens=800,
+        )
+
+        response = llm.invoke(prompt.format_messages())  # type: ignore[arg-type]
+        content = response.content if hasattr(response, "content") else str(response)
+        payload = self._parse_json_response(content)
+        itineraries_data = payload.get("itineraries", [])
+        itineraries: List[ItineraryPlan] = []
+
+        for item in itineraries_data:
+            itineraries.append(ItineraryPlan(**item))
+
+        return itineraries
+
+    def _format_candidates(self, docs: Sequence[Document]) -> str:
+        lines = []
+        for doc in docs:
+            meta = doc.metadata or {}
+            place = meta.get("place_name") or meta.get("title") or "장소"
+            doc_id = meta.get("document_id") or "(unknown)"
+            domain = meta.get("domain") or ""
+            summary = (meta.get("parent_summary") or doc.page_content).strip().replace("\n", " ")
+            lines.append(
+                f"- id:{doc_id} name:{place} domain:{domain} summary:{summary[:220]}"
+            )
+        return "\n".join(lines)
+
+    def _build_prompt(
+        self,
+        request: ItineraryRecommendationRequest,
+        candidates: str,
+    ) -> str:
+        themes = ", ".join(request.themes) if request.themes else "없음"
+        preferred = ", ".join(request.preferred_places) if request.preferred_places else "없음"
+        avoid = ", ".join(request.avoid_places) if request.avoid_places else "없음"
+
+        return f"""
+다음 조건을 만족하는 여행 일정 {min(3, max(1, request.duration_days))}개를 JSON으로 만들어라.
+
+요청 정보:
+- 지역: {request.region}
+- 도메인: {', '.join(d.value for d in request.domains)}
+- 일정: {request.duration_days}일
+- 테마: {themes}
+- 이동 수단: {request.transport_mode or '선호 없음'}
+- 예산: {request.budget_level or 'standard'}
+- 포함 희망 장소: {preferred}
+- 제외 장소: {avoid}
+
+후보 장소:
+{candidates}
+
+JSON 형식:
+{{
+  "itineraries": [
+    {{
+      "title": "string",
+      "summary": "string",
+      "days": [
+        {{
+          "day": 1,
+          "segments": [
+            {{
+              "time": "오전",
+              "place_name": "string",
+              "description": "string",
+              "document_id": "J_xxx",
+              "source_url": "string",
+              "area": "string",
+              "notes": "string"
+            }}
+          ]
+        }}
+      ],
+      "highlights": ["string"],
+      "estimated_budget": "string",
+      "metadata": {{}}
+    }}
+  ]
+}}
+
+반드시 위 JSON만 출력하고(코드블록, 주석, 설명 금지) day 수는 {request.duration_days}일과 동일해야 하며 각 day에는 최대 2개의 segment만 넣어라.
+"""
+
+    def _parse_json_response(self, content: str) -> Dict[str, Any]:
+        text = content.strip()
+        if text.startswith("```"):
+            text = text.strip("`")
+            if text.startswith("json"):
+                text = text[4:].strip()
+        start = text.find("{")
+        end = text.rfind("}")
+        if start != -1 and end != -1 and end > start:
+            text = text[start : end + 1]
+        return json.loads(text)
