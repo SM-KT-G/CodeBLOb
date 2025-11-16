@@ -40,6 +40,15 @@ def run(
         help="정리할 파일이 있는 소스 디렉터리"
     )],
     
+    dest_dir: Annotated[Optional[Path], typer.Option(
+        "--dest", "-d",
+        file_okay=False,
+        dir_okay=True,
+        writable=True,
+        resolve_path=True,
+        help="정리된 파일이 저장될 대상 디렉터리 (기본값: 소스 디렉터리)"
+    )] = None,
+    
     dry_run: Annotated[bool, typer.Option(
         "--dry-run",
         help="실제로 파일을 옮기지 않고 실행 결과만 시뮬레이션합니다."
@@ -47,9 +56,13 @@ def run(
 ):
     """지정된 디렉터리의 파일을 확장자별로 정리합니다."""
     
+    if dest_dir is None:
+        dest_dir = source_dir
+
     if dry_run:
         logging.info("--- [DRY RUN] ---")
         logging.info(f"소스 디렉터리: {source_dir}")
+        logging.info(f"대상 디렉터리: {dest_dir}")
         logging.info("실제 파일 이동은 수행되지 않습니다.")
         typer.echo("--- [DRY RUN] ---")
     else:
@@ -67,7 +80,7 @@ def run(
             category = get_category(file_path)
             
             if category:
-                target_category_dir = source_dir / category
+                target_category_dir = dest_dir / category
                 target_file_path = target_category_dir / file_path.name
 
                 logging.info(f"Moving: {file_path.name} -> {target_category_dir.name}/")
