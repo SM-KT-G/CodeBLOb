@@ -52,6 +52,11 @@ def run(
     dry_run: Annotated[bool, typer.Option(
         "--dry-run",
         help="실제로 파일을 옮기지 않고 실행 결과만 시뮬레이션합니다."
+    )] = False,
+    
+    include_other: Annotated[bool, typer.Option(
+        "--include-other",
+        help="분류되지 않은 파일들을 'Other' 폴더로 이동합니다."
     )] = False
 ):
     """지정된 디렉터리의 파일을 확장자별로 정리합니다."""
@@ -66,7 +71,7 @@ def run(
         logging.info("실제 파일 이동은 수행되지 않습니다.")
         typer.echo("--- [DRY RUN] ---")
     else:
-        logging.info(f"Scanning directory: {source_dir}")
+        logging.info(f"Scanning directory: {source_dir} -> {dest_dir}")
 
     processed_files = 0
     skipped_files = 0
@@ -76,35 +81,38 @@ def run(
             # 파일이 아니거나, 이 스크립트 자신이면 건너뛰기
             if not file_path.is_file() or file_path.name == "organize.py":
                 continue
-            
+
             category = get_category(file_path)
             
-            if category:
-                target_category_dir = dest_dir / category
-                target_file_path = target_category_dir / file_path.name
-
-                logging.info(f"Moving: {file_path.name} -> {target_category_dir.name}/")
-
-                if not dry_run:
-                    try:
-                        # 대상 디렉터리 생성 (존재하지 않을 경우)
-                        target_category_dir.mkdir(parents=True, exist_ok=True)
-                        
-                        # 파일 이동
-                        shutil.move(str(file_path), str(target_file_path))
-                        processed_files += 1
-                    
-                    except (shutil.Error, OSError) as e:
-                        logging.error(f"Error moving {file_path.name}: {e}")
-                        skipped_files += 1
-                
+            if category is None:
+                if include_other:
+                    category = "Other"
                 else:
-                    # Dry run 모드에서는 처리된 것으로 간주
-                    processed_files += 1
+                    logging.warning(f"Skipped: {file_path.name} (분류 카테고리 없음)")
+                    skipped_files += 1
+                    continue
             
+            target_category_dir = dest_dir / category
+            target_file_path = target_category_dir / file_path.name
+
+            logging.info(f"Moving: {file_path.name} -> {target_category_dir.name}/")
+
+            if not dry_run:
+                try:
+                    # 대상 디렉터리 생성 (존재하지 않을 경우)
+                    target_category_dir.mkdir(parents=True, exist_ok=True)
+                    
+                    # 파일 이동
+                    shutil.move(str(file_path), str(target_file_path))
+                    processed_files += 1
+                
+                except (shutil.Error, OSError) as e:
+                    logging.error(f"Error moving {file_path.name}: {e}")
+                    skipped_files += 1
+
             else:
-                logging.warning(f"Skipped: {file_path.name} (분류 카테고리 없음)")
-                skipped_files += 1
+                # Dry run 모드에서는 처리된 것으로 간주
+                processed_files += 1
 
         # --- 최종 요약 ---
         summary_color = typer.colors.GREEN if not dry_run else typer.colors.YELLOW
