@@ -2,15 +2,34 @@
 UnifiedChatHandler 테스트
 Function Calling 통합 처리
 """
+import os
 import pytest
 from backend.unified_chat import UnifiedChatHandler
 from backend.schemas import ChatRequest
+from backend.chat_history import ChatHistoryManager
+from backend.retriever import Retriever
 
 
 @pytest.fixture
 async def chat_handler():
     """테스트용 UnifiedChatHandler"""
-    handler = UnifiedChatHandler()
+    # MariaDB 채팅 기록
+    chat_history = ChatHistoryManager(
+        host=os.getenv("MARIADB_HOST", "127.0.0.1"),
+        user=os.getenv("MARIADB_USER", "tourism_user"),
+        password=os.getenv("MARIADB_PASSWORD", "tourism_pass"),
+        database=os.getenv("MARIADB_DATABASE", "tourism_db")
+    )
+    
+    # RAG Retriever (DB 연결 필요)
+    retriever = Retriever(
+        db_url=os.getenv("DATABASE_URL", "postgresql://tourism_user:tourism_pass@localhost:5432/tourism_db")
+    )
+    
+    handler = UnifiedChatHandler(
+        chat_history=chat_history,
+        retriever=retriever
+    )
     await handler.initialize()
     yield handler
     await handler.close()

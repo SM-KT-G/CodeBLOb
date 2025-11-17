@@ -6,8 +6,8 @@ import json
 from typing import Dict, Any, List, Optional
 from backend.llm_base import LLMClient
 from backend.chat_history import ChatHistoryManager
-from backend.retriever import TourismRetriever
-from backend.itinerary import ItineraryRecommender
+from backend.retriever import Retriever
+from backend.itinerary import ItineraryPlanner
 from backend.function_tools import ALL_TOOLS
 from backend.schemas import ChatRequest, ItineraryStructuredResponse
 from backend.utils.logger import setup_logger
@@ -23,8 +23,8 @@ class UnifiedChatHandler:
         self,
         llm_client: Optional[LLMClient] = None,
         chat_history: Optional[ChatHistoryManager] = None,
-        retriever: Optional[TourismRetriever] = None,
-        itinerary_recommender: Optional[ItineraryRecommender] = None
+        retriever: Optional[Retriever] = None,
+        itinerary_recommender: Optional[ItineraryPlanner] = None
     ):
         """
         Args:
@@ -181,7 +181,7 @@ class UnifiedChatHandler:
             top_k = args.get("top_k", 5)
             
             # RAG 검색
-            results = await self.retriever.search(
+            results = self.retriever.search(
                 query=query,
                 top_k=top_k,
                 domain=domain,
@@ -192,10 +192,10 @@ class UnifiedChatHandler:
             if results:
                 places = [
                     {
-                        "name": r.get("name", ""),
-                        "description": r.get("description", ""),
-                        "area": r.get("area", ""),
-                        "document_id": r.get("document_id", "")
+                        "name": r.metadata.get("name", r.metadata.get("food_name", "")),
+                        "description": r.page_content[:200],
+                        "area": r.metadata.get("sigungu", ""),
+                        "document_id": r.metadata.get("document_id", "")
                     }
                     for r in results
                 ]
@@ -223,12 +223,6 @@ class UnifiedChatHandler:
     
     async def _handle_create_itinerary(self, args: Dict[str, Any]) -> Dict[str, Any]:
         """여행 일정 생성 처리"""
-        if not self.itinerary:
-            return {
-                "response_type": "error",
-                "message": "プラン作成機能が利用できません"
-            }
-        
         try:
             region = args.get("region")
             duration_days = args.get("duration_days")

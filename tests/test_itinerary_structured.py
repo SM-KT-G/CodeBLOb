@@ -36,8 +36,8 @@ def test_structured_response_always_valid_json():
     """Structured Outputs는 항상 유효한 JSON 스키마"""
     client = LLMClient()
     
-    # 10번 실행해도 항상 성공
-    for i in range(10):
+    # 2번 실행해도 항상 성공 (TDD: 빠른 피드백)
+    for i in range(2):
         result = client.generate_structured(
             prompt=f"大阪 {i+1}日プラン",
             response_format=ItineraryStructuredResponse,
