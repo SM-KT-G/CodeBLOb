@@ -11,6 +11,7 @@ python-dotenv>=1.0.0,<2.0.0
 redis>=5.0.0,<6.0.0
 sentence-transformers>=2.2.0,<3.0.0
 torch>=2.0.0,<3.0.0
+mariadb>=1.1.0,<2.0.0
 
 # Development dependencies
 pytest>=7.4.0,<8.0.0
