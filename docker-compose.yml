@@ -34,8 +34,30 @@ services:
       retries: 5
     restart: unless-stopped
 
+  mariadb:
+    image: mariadb:10.11
+    container_name: tourism_mariadb
+    environment:
+      MARIADB_ROOT_PASSWORD: root_pass
+      MARIADB_DATABASE: tourism_db
+      MARIADB_USER: tourism_user
+      MARIADB_PASSWORD: tourism_pass
+    ports:
+      - "3306:3306"
+    volumes:
+      - mariadb_data:/var/lib/mysql
+      - ./backend/db/init_chat_history.sql:/docker-entrypoint-initdb.d/init_chat_history.sql
+    healthcheck:
+      test: ["CMD", "healthcheck.sh", "--connect", "--innodb_initialized"]
+      interval: 5s
+      timeout: 3s
+      retries: 10
+    restart: unless-stopped
+
 volumes:
   postgres_data:
     driver: local
   redis_data:
+    driver: local
+  mariadb_data:
     driver: local
