@@ -19,6 +19,7 @@ from backend.schemas import (
     ErrorResponse,
     ItineraryRecommendationRequest,
     ItineraryRecommendationResponse,
+    ChatRequest,
 )
 from backend.retriever import Retriever
 from backend.rag_chain import (
@@ -30,6 +31,8 @@ from backend.rag_chain import (
 )
 from backend.cache import init_cache_from_env
 from backend.itinerary import ItineraryPlanner
+from backend.unified_chat import UnifiedChatHandler
+from backend.chat_history import ChatHistoryManager
 from backend.utils.logger import setup_logger, log_exception
 
 # 환경 변수 로드
@@ -76,6 +79,24 @@ async def lifespan(app: FastAPI):
             app.state.retriever,
             llm_model=app.state.llm_model,
         )
+        
+        # ChatHistoryManager 초기화
+        chat_history = ChatHistoryManager(
+            host=os.getenv("MARIADB_HOST", "localhost"),
+            user=os.getenv("MARIADB_USER", "root"),
+            password=os.getenv("MARIADB_PASSWORD", ""),
+            database=os.getenv("MARIADB_DATABASE", "tourism_db")
+        )
+        
+        # UnifiedChatHandler 초기화
+        app.state.unified_chat_handler = UnifiedChatHandler(
+            chat_history=chat_history,
+            retriever=app.state.retriever,
+            itinerary_recommender=app.state.itinerary_planner
+        )
+        await app.state.unified_chat_handler.initialize()
+        logger.info("UnifiedChatHandler 초기화 완료")
+        
     except Exception as e:
         log_exception(e, {"db_url": db_url[:50] if db_url else None}, logger)
         raise
@@ -84,6 +105,12 @@ async def lifespan(app: FastAPI):
     
     # 종료 시
     logger.info("FastAPI 애플리케이션 종료")
+    
+    # UnifiedChatHandler 정리
+    if hasattr(app.state, 'unified_chat_handler'):
+        await app.state.unified_chat_handler.close()
+        logger.info("UnifiedChatHandler 정리 완료")
+    
     # Connection Pool 정리
     if hasattr(app.state, 'retriever'):
         app.state.retriever.close()
@@ -295,6 +322,41 @@ async def recommend_itinerary(request: ItineraryRecommendationRequest):
             status_code=status.HTTP_500_INTERNAL_SERVER_ERROR,
             detail="Itinerary 추천 중 오류 발생",
         )
+
+
+@app.post("/chat")
+async def unified_chat(request: ChatRequest):
+    """
+    통합 채팅 엔드포인트
+    Function Calling으로 일반 대화, RAG 검색, 여행 일정을 하나로 처리
+    
+    Args:
+        request: 채팅 요청 (text, session_id)
+    
+    Returns:
+        응답 (response_type에 따라 다름)
+        - chat: {"response_type": "chat", "message": "..."}
+        - search: {"response_type": "search", "message": "...", "places": [...]}
+        - itinerary: {"response_type": "itinerary", "message": "...", "itinerary": {...}}
+    """
+    try:
+        handler: UnifiedChatHandler = app.state.unified_chat_handler
+        response = await handler.handle_chat(request)
+        return JSONResponse(content=response)
+    
+    except ValueError as e:
+        log_exception(e, {"request": request.model_dump()}, logger)
+        raise HTTPException(
+            status_code=status.HTTP_400_BAD_REQUEST,
+            detail=str(e),
+        )
+    except Exception as e:
+        log_exception(e, {"request": request.model_dump()}, logger)
+        raise HTTPException(
+            status_code=status.HTTP_500_INTERNAL_SERVER_ERROR,
+            detail="채팅 처리 중 오류 발생",
+        )
+
 
 if __name__ == "__main__":
     import uvicorn
