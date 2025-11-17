@@ -266,10 +266,16 @@
   - plan.md 삭제 (TDD 원칙은 본 문서에 포함)
   - 프로젝트_계획서.md 삭제 (PROJECT_PLAN.md로 통합)
   - PROJECT_STATUS.md 삭제 (CURRENT_STATUS.md로 대체)
-- [x] **CURRENT_STATUS.md 생성**
+- [x] **CURRENT_STATUS.md 생성 및 최신화**
   - 최신 구현 현황 요약
   - 다음 작업 계획
   - 성능 지표 및 데이터 현황
+  - 통합 채팅 시스템 테스트 결과 반영
+- [x] **API_INTEGRATION_FOR_NODE.md 업데이트**
+  - POST /chat 통합 엔드포인트 추가
+  - response_type별 응답 스키마 문서화
+  - 비교표 추가 (/chat vs /rag/query)
+  - Node.js 클라이언트 사용 예제 추가
 - [ ] **FILE_CATALOG.md 업데이트**
   - 통합 채팅 시스템 파일 추가
   - 구조 최신화
@@ -283,3 +289,81 @@
 - MariaDB 설정 및 chat_history 테이블 생성 확인
 - 통합 채팅 시스템 테스트 실행 (4개 테스트 파일)
 - 프론트엔드 연동 준비 (Node.js 가이드 업데이트)
+
+- 2025-11-17: **통합 채팅 시스템 테스트 완료 및 API 문서화**
+  - **MariaDB 설정 완료**:
+    - Docker 컨테이너 시작 및 chat_history 테이블 생성 확인
+    - MARIADB_HOST=127.0.0.1로 수정 (Unix socket 문제 해결)
+    - Python mariadb 패키지 설치 완료
+  - **TDD Red-Green-Refactor 사이클 완료**:
+    - Red: 테스트 실패 확인 (임포트 오류, timeout 등)
+    - Green: 코드 수정 및 테스트 통과
+      - TourismRetriever → Retriever, ItineraryRecommender → ItineraryPlanner 수정
+      - Document 객체 → dict 변환 (metadata, page_content 활용)
+      - timeout 15초 → 30초 증가 (Structured Outputs 지원)
+      - 테스트 반복 10번 → 2번 축소 (빠른 피드백)
+    - Refactor: 불필요한 의존성 제거 (self.itinerary)
+  - **테스트 15/15 통과** (2분 18초):
+    - test_chat_history.py: 3/3 PASSED ✅
+    - test_itinerary_structured.py: 3/3 PASSED ✅
+    - test_unified_chat.py: 5/5 PASSED ✅
+    - test_chat_integration.py: 4/4 PASSED ✅
+  - **API 문서화 완료**:
+    - docs/API_INTEGRATION_FOR_NODE.md 업데이트
+    - POST /chat 통합 엔드포인트 추가
+    - response_type별 응답 스키마 문서화
+    - 비교표 추가 (/chat vs /rag/query)
+    - Node.js 클라이언트 업데이트 (chat, queryRag)
+    - CLI 사용 예제 추가
+  - **Git 커밋 완료** (7개):
+    1. docs: 문서 구조 정리 및 최신화
+    2. fix: MariaDB 연결 설정 개선
+    3. feat: LLMClient 환경변수 지원 개선
+    4. test: UnifiedChatHandler 테스트 완료 (5/5 통과)
+    5. fix: LLMClient timeout 30초로 증가
+    6. docs: 프로젝트 상태 최신화
+    7. docs: Node.js 연동 가이드 업데이트
+
+---
+
+### 완료된 핵심 기능 요약
+
+#### 1. RAG v1.1 Parent-Child 아키텍처
+- ✅ 임베딩 100% 완료 (377,263 parents, 2,202,565 children)
+- ✅ Retriever v1.1 구현 (직접 SQL 쿼리, Parent-Child JOIN)
+- ✅ Metadata Filtering (domain, area 필터링)
+- ✅ Query Expansion (JSON 설정 기반)
+- ✅ Parent Context 옵션 (요약 포함/제외)
+- ✅ Redis 캐시 (TTL 300초)
+
+#### 2. 통합 채팅 시스템
+- ✅ Structured Outputs (100% JSON 보장)
+- ✅ ChatHistoryManager (MariaDB 영구 저장)
+- ✅ UnifiedChatHandler (Function Calling 자동 의도 파악)
+- ✅ POST /chat 엔드포인트 (일반 대화 + RAG + 여행 일정)
+- ✅ 테스트 15/15 통과 (2분 18초)
+
+#### 3. 프론트엔드 연동 준비
+- ✅ API 문서 최신화 (POST /chat, POST /rag/query)
+- ✅ Node.js 클라이언트 업데이트
+- ✅ 응답 스키마 문서화
+- ✅ 비교표 및 사용 예제 추가
+
+---
+
+### 다음 우선순위
+
+1. **성능 최적화** (다음 주)
+   - Query Expansion latency 분석
+   - Redis 캐시 효율 측정
+   - DB 쿼리 최적화
+
+2. **운영 문서화** (다음 주)
+   - 배포 가이드
+   - 모니터링 체크리스트
+   - 장애 대응 절차
+
+3. **프론트엔드 연동** (준비 완료)
+   - Node.js 팀에 API 문서 공유
+   - 통합 테스트 진행
+   - 피드백 반영
