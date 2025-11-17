@@ -225,9 +225,61 @@
     - tests/test_itinerary_structured.py: Structured Outputs 테스트
     - tests/test_unified_chat.py: Function Calling 통합 테스트
   
-- 다음 단계:
-  - Step 2-A: Query Expansion 구현 (검색 범위 확대)
-  - Step 2-B: Parent Context 추가 (답변 품질 향상)
-  - MariaDB 설정 및 chat_history 테이블 생성
-  - 통합 채팅 시스템 테스트 실행
-  - 프론트엔드 연동 준비
+## Step 8. 통합 채팅 시스템 구현 (2025-11-17)
+- [x] **Structured Outputs 구현**
+  - `backend/schemas.py`: ItineraryDay, ItineraryData, ItineraryStructuredResponse, ChatRequest 스키마 추가
+  - `backend/llm_base.py`: generate_structured() 메서드 추가 (OpenAI beta.chat.completions.parse 사용)
+  - 100% JSON 보장으로 파싱 오류 완전 제거
+- [x] **ChatHistoryManager 구현** (`backend/chat_history.py`)
+  - MariaDB에 JSON을 LONGTEXT로 저장 (JSON_VALID CHECK 제약)
+  - save_message(), get_history(), get_recent_context(), delete_session() 메서드 구현
+  - 채팅 기록 영구 저장 및 컨텍스트 관리
+- [x] **UnifiedChatHandler 구현** (`backend/unified_chat.py`)
+  - Function Calling으로 사용자 의도 자동 파악
+  - _handle_general_chat(): 일반 대화 처리
+  - _handle_search_places(): RAG 검색 (Retriever 연동)
+  - _handle_create_itinerary(): 여행 일정 생성 (Structured Outputs 사용)
+- [x] **통합 채팅 엔드포인트** (`backend/main.py`)
+  - POST /chat 엔드포인트 추가
+  - lifespan에서 UnifiedChatHandler 초기화 및 정리
+  - 일반 대화, RAG 검색, 여행 일정을 하나의 엔드포인트로 통합
+  - Function Calling 자동 감지 및 실행
+- [x] **MariaDB 설정**
+  - docker-compose.yml에 MariaDB 10.11 컨테이너 추가
+  - backend/db/init_chat_history.sql: chat_history 테이블 스키마 작성
+  - 포트 3306 바인딩, 초기화 스크립트 마운트
+- [x] **의존성 추가**
+  - requirements.txt에 mariadb>=1.1.0,<2.0.0 추가
+  - .env.example에 MariaDB 환경변수 추가
+- [x] **테스트 코드 작성** (TDD Red 단계)
+  - tests/test_chat_history.py: MariaDB 저장/조회 테스트
+  - tests/test_itinerary_structured.py: Structured Outputs 테스트
+  - tests/test_unified_chat.py: Function Calling 통합 테스트
+  - tests/test_chat_integration.py: 통합 채팅 API 테스트
+- [x] **Git 커밋 분리** (1 변경 1 커밋 원칙)
+  - 15개 파일을 개별 커밋으로 분리 완료
+  - feat, chore, test, docs 태그로 명확한 커밋 메시지
+
+## Step 9. 문서화 정리 (2025-11-17)
+- [x] **중복 문서 통합**
+  - WORK_STATUS.md 삭제 (CURRENT_STATUS.md로 대체)
+  - plan.md 삭제 (TDD 원칙은 본 문서에 포함)
+  - 프로젝트_계획서.md 삭제 (PROJECT_PLAN.md로 통합)
+  - PROJECT_STATUS.md 삭제 (CURRENT_STATUS.md로 대체)
+- [x] **CURRENT_STATUS.md 생성**
+  - 최신 구현 현황 요약
+  - 다음 작업 계획
+  - 성능 지표 및 데이터 현황
+- [ ] **FILE_CATALOG.md 업데이트**
+  - 통합 채팅 시스템 파일 추가
+  - 구조 최신화
+- [ ] **README.md 업데이트**
+  - 통합 채팅 시스템 기능 설명 추가
+  - 최신 API 엔드포인트 반영
+
+---
+
+### 다음 단계
+- MariaDB 설정 및 chat_history 테이블 생성 확인
+- 통합 채팅 시스템 테스트 실행 (4개 테스트 파일)
+- 프론트엔드 연동 준비 (Node.js 가이드 업데이트)

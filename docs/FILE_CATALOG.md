@@ -20,19 +20,23 @@
 
 ## FastAPI 백엔드 (`backend/`)
 - `backend/__init__.py`: 백엔드 모듈을 패키지로 인식시키는 초기화 파일.
-- `backend/main.py`: FastAPI 앱 엔트리포인트. lifespan에서 Retriever를 lazy-load하고 `/health`, `/rag/query` 라우트를 정의하며 공통 미들웨어·예외 처리 포함.
+- `backend/main.py`: FastAPI 앱 엔트리포인트. lifespan에서 Retriever와 UnifiedChatHandler를 lazy-load하고 `/health`, `/rag/query`, `/chat` 라우트를 정의하며 공통 미들웨어·예외 처리 포함.
 - `backend/retriever.py`: HuggingFace `multilingual-e5-small` 임베딩 + pgvector 직접 SQL 검색기. 메타데이터 필터링, query expansion, connection pool 관리, Document 변환 책임.
 - `backend/query_expansion.py`: Query Expansion 설정 로더와 변형 생성 헬퍼. 구두점 제거·접미어·최대 변형 수를 JSON 설정으로 관리.
 - `backend/cache.py`: Redis 캐시 초기화 및 JSON 직렬화 헬퍼. 검색/Query Expansion 결과 TTL 캐싱에 사용.
 - `backend/rag_chain.py`: LangChain `RetrievalQA` 체인 생성 및 결과 후처리 로직. 일본어 프롬프트 템플릿 포함.
-- `backend/llm_base.py`: OpenAI ChatCompletion(동기·비동기) 래퍼. 타임아웃·에러 로그·API 키 로딩 처리.
-- `backend/schemas.py`: Pydantic 기반 도메인 Enum과 RAGQueryRequest/Response, HealthCheckResponse, ErrorResponse 정의 및 검증기 포함.
+- `backend/llm_base.py`: OpenAI ChatCompletion(동기·비동기) 래퍼. 타임아웃·에러 로그·API 키 로딩 처리. generate_structured() 메서드로 Structured Outputs 지원.
+- `backend/schemas.py`: Pydantic 기반 도메인 Enum과 RAGQueryRequest/Response, HealthCheckResponse, ErrorResponse 정의 및 검증기 포함. ItineraryDay, ItineraryData, ItineraryStructuredResponse, ChatRequest 스키마 추가.
+- `backend/chat_history.py`: MariaDB 채팅 기록 관리자. JSON을 LONGTEXT로 저장/조회. save_message(), get_history(), get_recent_context(), delete_session() 메서드 제공.
+- `backend/unified_chat.py`: 통합 채팅 핸들러. Function Calling으로 사용자 의도 자동 파악. _handle_general_chat(), _handle_search_places(), _handle_create_itinerary() 메서드.
+- `backend/function_tools.py`: Function Calling 도구 정의. get_itinerary_recommendation 함수 및 OpenAI Function Calling 스키마.
 
 ### 데이터베이스 패키지 (`backend/db/`)
 - `backend/db/__init__.py`: DB 하위 패키지 초기화.
 - `backend/db/connect.py`: psycopg ConnectionPool 래퍼 `DatabaseConnection`. 재시도·스키마 검사·SQL 스크립트 실행·싱글톤 인스턴스 제공.
 - `backend/db/init_vector.sql`: v1.0 단일 `tourism_data` 스키마 정의 SQL.
 - `backend/db/init_vector_v1.1.sql`: v1.1 Parent/Child 테이블, 확장 메타데이터, 인덱스 및 pgvector 설정 SQL.
+- `backend/db/init_chat_history.sql`: MariaDB chat_history 테이블 스키마. session_id, turn, role, content, metadata, created_at 컬럼 및 복합 인덱스.
 
 ### 유틸리티 (`backend/utils/`)
 - `backend/utils/__init__.py`: 유틸 패키지 초기화.
@@ -40,10 +44,9 @@
 
 ## 문서 (`docs/`)
 - `docs/README.md`: 문서 허브. 각 계획/아키텍처 문서 링크와 버전 히스토리 제공.
-- `docs/PROJECT_PLAN.md`: 전체 프로젝트 목표, 마일스톤, 체크리스트 상세 버전(영문).
-- `docs/프로젝트_계획서.md`: 한국어 요약본. 요구사항·범위·일정 개괄.
-- `docs/PROJECT_STATUS.md`: 최신 진행 상황, KPI, 리스크, 다음 행동 항목 요약.
-- `docs/IMPLEMENTATION_TRACKER.md`: 날짜별 구현 사항, 의사결정 로그, To-Do.
+- `docs/CURRENT_STATUS.md`: 최신 구현 현황, 다음 작업 계획, 성능 지표, 데이터 현황 요약.
+- `docs/PROJECT_PLAN.md`: 전체 프로젝트 목표, 마일스톤, 체크리스트 상세 버전.
+- `docs/IMPLEMENTATION_TRACKER.md`: 날짜별 구현 사항, 의사결정 로그, To-Do. 통합 채팅 시스템 구현 내역 포함.
 - `docs/RAG_PIPELINE_ARCHITECTURE.md`: 시스템 구성도, 데이터 플로우, 개선안.
 - `docs/EMBEDDING_PLAN.md`: 임베딩 모델 비교, 파이프라인, 배치 전략, 체크포인트 정책.
 - `docs/API_INTEGRATION_FOR_NODE.md`: Node.js 게이트웨이 팀을 위한 `/rag/query` 연동 가이드(curl·fetch 예시, expansion/parent_context 옵션 설명).
@@ -90,6 +93,10 @@
 - `tests/test_query_expansion_config.py`: Query Expansion JSON 설정이 suffix/punctuation/max_variations를 올바르게 반영하는지 단위 테스트.
 - `tests/test_retriever_unit.py`: `_embed_query`, `_build_sql_and_params`, `_rows_to_documents` 등 내부 헬퍼 함수의 세부 검증.
 - `tests/test_similarity_calculation.py`: distance/similarity 필드 정합성, 정렬 순서, expansion 시 일관성 검증.
+- `tests/test_chat_history.py`: ChatHistoryManager의 MariaDB 저장/조회 테스트. 메시지 저장, 최근 컨텍스트 조회, 세션 삭제 검증.
+- `tests/test_itinerary_structured.py`: Structured Outputs 테스트. ItineraryStructuredResponse 파싱 및 generate_structured() 메서드 검증.
+- `tests/test_unified_chat.py`: UnifiedChatHandler 테스트. 일반 대화, Function Calling 플로우, 채팅 기록 통합 검증.
+- `tests/test_chat_integration.py`: 통합 채팅 API 테스트. /chat 엔드포인트의 일반 대화 + Function Calling 전체 플로우 검증.
 
 ## 기타 메타 파일
 - `labled_data/` 외부의 `test_db_connection.py`, `test_retriever_v1.1.py`, `test_step1_filtering.py`는 위 수동 진단 섹션을 참고.
