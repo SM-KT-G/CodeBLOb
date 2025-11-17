@@ -327,5 +327,17 @@ def compute_mid_tmfc() -> str:
     )
 
 
+def upload_payload(
+    uploader: Optional[MongoUploader],
+    service: str,
+    metadata: dict[str, Any],
+    payload: Any,
+) -> None:
+    """Insert the payload into MongoDB if uploading is enabled."""
+    if not uploader:
+        return
+    uploader.insert(service=service, metadata=metadata, payload=payload)
+
+
 if __name__ == "__main__":
     raise SystemExit(main())
