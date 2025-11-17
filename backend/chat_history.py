@@ -25,7 +25,8 @@ class ChatHistoryManager:
             "user": user,
             "password": password,
             "database": database,
-            "port": port
+            "port": port,
+            "autocommit": False
         }
         self._ensure_table()
     
