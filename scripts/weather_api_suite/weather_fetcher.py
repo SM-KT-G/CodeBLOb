@@ -5,9 +5,11 @@ from __future__ import annotations
 
 import argparse
 import os
-from typing import Any, Dict
+from typing import Any, Dict, Optional
 
 import requests
+
+from mongo_uploader import MongoUploader
 
 MID_BASE = "https://apis.data.go.kr/1360000/MidFcstInfoService"
 SHORT_BASE = "https://apis.data.go.kr/1360000/VilageFcstInfoService_2.0"
@@ -79,6 +81,28 @@ def build_parser() -> argparse.ArgumentParser:
         default="서울",
         help="시도 이름 (air quality service).",
     )
+    parser.add_argument(
+        "--upload",
+        action="store_true",
+        help="Store API responses into MongoDB.",
+    )
+    parser.add_argument(
+        "--mongo-uri",
+        type=str,
+        help="MongoDB connection URI used for uploads.",
+    )
+    parser.add_argument(
+        "--mongo-db",
+        type=str,
+        default="weather_data",
+        help="MongoDB database name.",
+    )
+    parser.add_argument(
+        "--mongo-prefix",
+        type=str,
+        default="weather",
+        help="Collection prefix for MongoDB uploads.",
+    )
     return parser
 
 
@@ -115,11 +139,21 @@ def main(argv: list[str] | None = None) -> int:
     if args.debug:
         print(f"[debug] Invoking service={args.service}")
     client = WeatherAPIClient(api_key=args.api_key, debug=args.debug)
-    dispatch(args.service, client, args)
+    uploader = create_uploader(args, parser)
+    try:
+        dispatch(args.service, client, args, uploader)
+    finally:
+        if uploader:
+            uploader.close()
     return 0
 
 
-def dispatch(service: str, client: WeatherAPIClient, args: argparse.Namespace) -> None:
+def dispatch(
+    service: str,
+    client: WeatherAPIClient,
+    args: argparse.Namespace,
+    uploader: Optional[MongoUploader],
+) -> None:
     """Dispatch placeholder service handlers."""
     handlers = {
         "short-term": handle_short_term,
@@ -130,10 +164,29 @@ def dispatch(service: str, client: WeatherAPIClient, args: argparse.Namespace) -
     handler = handlers.get(service)
     if not handler:
         raise ValueError(f"Unsupported service {service}")
-    handler(client, args)
+    handler(client, args, uploader)
 
 
-def handle_short_term(client: WeatherAPIClient, args: argparse.Namespace) -> None:
+def create_uploader(
+    args: argparse.Namespace, parser: argparse.ArgumentParser
+) -> Optional[MongoUploader]:
+    if not args.upload:
+        return None
+    if not args.mongo_uri:
+        parser.error("--upload requires --mongo-uri to be set.")
+    return MongoUploader(
+        uri=args.mongo_uri,
+        db_name=args.mongo_db,
+        collection_prefix=args.mongo_prefix,
+        debug=args.debug,
+    )
+
+
+def handle_short_term(
+    client: WeatherAPIClient,
+    args: argparse.Namespace,
+    uploader: Optional[MongoUploader],
+) -> None:
     base_date, base_time = get_short_term_timestamp(args)
     params = {
         "pageNo": "1",
@@ -155,7 +208,11 @@ def handle_short_term(client: WeatherAPIClient, args: argparse.Namespace) -> Non
         )
 
 
-def handle_mid_term(client: WeatherAPIClient, args: argparse.Namespace) -> None:
+def handle_mid_term(
+    client: WeatherAPIClient,
+    args: argparse.Namespace,
+    uploader: Optional[MongoUploader],
+) -> None:
     tm_fc = args.mid_tmfc or compute_mid_tmfc()
     params = {
         "pageNo": "1",
@@ -184,7 +241,11 @@ def handle_mid_term(client: WeatherAPIClient, args: argparse.Namespace) -> None:
             print(f"{label}: {entry[key]}")
 
 
-def handle_warnings(client: WeatherAPIClient, args: argparse.Namespace) -> None:
+def handle_warnings(
+    client: WeatherAPIClient,
+    args: argparse.Namespace,
+    uploader: Optional[MongoUploader],
+) -> None:
     params = {
         "pageNo": "1",
         "numOfRows": "50",
@@ -202,7 +263,11 @@ def handle_warnings(client: WeatherAPIClient, args: argparse.Namespace) -> None:
         print(f"- [{tm}] {title}")
 
 
-def handle_air_quality(client: WeatherAPIClient, args: argparse.Namespace) -> None:
+def handle_air_quality(
+    client: WeatherAPIClient,
+    args: argparse.Namespace,
+    uploader: Optional[MongoUploader],
+) -> None:
     params = {
         "pageNo": "1",
         "numOfRows": "100",
