@@ -201,7 +201,29 @@ def handle_short_term(
     items = extract_items(data)
     if not items:
         print("No short-term forecast data returned.")
+        upload_payload(
+            uploader,
+            "short-term",
+            {
+                "base_date": base_date,
+                "base_time": base_time,
+                "nx": args.nx,
+                "ny": args.ny,
+            },
+            [],
+        )
         return
+    upload_payload(
+        uploader,
+        "short-term",
+        {
+            "base_date": base_date,
+            "base_time": base_time,
+            "nx": args.nx,
+            "ny": args.ny,
+        },
+        items,
+    )
     for item in items[:20]:
         print(
             f"{item['fcstDate']} {item['fcstTime']} {item['category']}: {item['fcstValue']}",
