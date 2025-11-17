@@ -27,7 +27,7 @@ class LLMClient:
         self,
         model_name: Optional[str] = None,
         api_key: Optional[str] = None,
-        timeout: int = 15,
+        timeout: int = 30,  # 15초 → 30초 (Structured Outputs 지원)
     ):
         """
         초기화
