@@ -220,8 +220,8 @@ class ItineraryPlanner:
             [
                 (
                     "system",
-                    "You are a Korean tourist itinerary planner for Japanese travelers. "
-                    "Generate JSON with multiple itinerary options. Never add commentary outside JSON.",
+                    "あなたは日本人旅行者のための韓国旅行プランナーです。"
+                    "複数の旅行日程オプションをJSON形式で生成してください。JSON以外のコメントは絶対に追加しないでください。",
                 ),
                 (
                     "user",
@@ -265,27 +265,27 @@ class ItineraryPlanner:
         request: ItineraryRecommendationRequest,
         candidates: str,
     ) -> str:
-        themes = ", ".join(request.themes) if request.themes else "없음"
-        preferred = ", ".join(request.preferred_places) if request.preferred_places else "없음"
-        avoid = ", ".join(request.avoid_places) if request.avoid_places else "없음"
+        themes = ", ".join(request.themes) if request.themes else "なし"
+        preferred = ", ".join(request.preferred_places) if request.preferred_places else "なし"
+        avoid = ", ".join(request.avoid_places) if request.avoid_places else "なし"
 
         return f"""
-다음 조건을 만족하는 여행 일정 {min(3, max(1, request.duration_days))}개를 JSON으로 만들어라.
+以下の条件を満たす旅行日程を{min(3, max(1, request.duration_days))}個JSON形式で作成してください。
 
-요청 정보:
-- 지역: {request.region}
-- 도메인: {', '.join(d.value for d in request.domains)}
-- 일정: {request.duration_days}일
-- 테마: {themes}
-- 이동 수단: {request.transport_mode or '선호 없음'}
-- 예산: {request.budget_level or 'standard'}
-- 포함 희망 장소: {preferred}
-- 제외 장소: {avoid}
+リクエスト情報:
+- 地域: {request.region}
+- ドメイン: {', '.join(d.value for d in request.domains)}
+- 日程: {request.duration_days}日
+- テーマ: {themes}
+- 移動手段: {request.transport_mode or '指定なし'}
+- 予算: {request.budget_level or 'standard'}
+- 必須訪問地: {preferred}
+- 除外地: {avoid}
 
-후보 장소:
+候補スポット:
 {candidates}
 
-JSON 형식:
+JSON形式:
 {{
   "itineraries": [
     {{
@@ -296,7 +296,7 @@ JSON 형식:
           "day": 1,
           "segments": [
             {{
-              "time": "오전",
+              "time": "午前",
               "place_name": "string",
               "description": "string",
               "document_id": "J_xxx",
@@ -314,7 +314,7 @@ JSON 형식:
   ]
 }}
 
-반드시 위 JSON만 출력하고(코드블록, 주석, 설명 금지) day 수는 {request.duration_days}일과 동일해야 하며 각 day에는 최대 2개의 segment만 넣어라.
+必ず上記のJSON形式のみを出力してください（コードブロック、コメント、説明は禁止）。dayの数は{request.duration_days}日と同じにし、各dayには最大2つのsegmentのみを含めてください。
 """
 
     def _parse_json_response(self, content: str) -> Dict[str, Any]:
