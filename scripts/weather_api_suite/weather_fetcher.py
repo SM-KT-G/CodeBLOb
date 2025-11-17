@@ -282,9 +282,12 @@ def handle_warnings(
     endpoint = f"{WARN_BASE}/getWthrWrnList"
     data = client.get(endpoint, params)
     items = extract_items(data)
+    metadata = {"stnId": args.warning_region}
     if not items:
         print("No weather warnings returned.")
+        upload_payload(uploader, "warnings", metadata, [])
         return
+    upload_payload(uploader, "warnings", metadata, items)
     for entry in items[:5]:
         title = entry.get("title", "N/A")
         tm = entry.get("tmFc") or entry.get("tmSeq") or "Unknown"
