@@ -186,3 +186,38 @@ class ItineraryRecommendationResponse(BaseModel):
     """여행 추천 응답"""
     itineraries: List[ItineraryPlan] = Field(default_factory=list)
     metadata: Dict[str, Any] = Field(default_factory=dict)
+
+
+# Structured Outputs용 스키마
+class ItineraryDay(BaseModel):
+    """Structured Outputs용 일차별 일정"""
+    day: int = Field(..., ge=1, description="Day 번호")
+    segments: List[ItinerarySegment] = Field(..., description="세부 일정")
+
+
+class ItineraryData(BaseModel):
+    """Structured Outputs용 일정 데이터"""
+    title: str = Field(..., description="일정 제목")
+    summary: str = Field(..., description="일정 요약")
+    days: List[ItineraryDay] = Field(..., description="일차별 일정")
+    highlights: List[str] = Field(default_factory=list, description="하이라이트")
+
+
+class ItineraryStructuredResponse(BaseModel):
+    """Structured Outputs 응답 (100% JSON 보장)"""
+    message: str = Field(..., description="친절한 인사 메시지")
+    itinerary: ItineraryData = Field(..., description="일정 데이터")
+
+
+# 통합 채팅용 스키마
+class ChatRequest(BaseModel):
+    """통합 채팅 요청"""
+    text: str = Field(..., min_length=1, description="사용자 메시지")
+    session_id: str = Field(..., description="세션 ID")
+    
+    @field_validator("text")
+    @classmethod
+    def validate_text(cls, v: str) -> str:
+        if not v or not v.strip():
+            raise ValueError("text는 비어있을 수 없습니다.")
+        return v.strip()
