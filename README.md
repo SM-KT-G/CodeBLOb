@@ -9,6 +9,7 @@
 - **LangChain 기반 RAG 체인**: Retriever → LLM 체인으로 답변·출처·지연시간을 반환.
 - **Parent/Child QA 스키마**: tourism_parent/child 테이블에 풍부한 메타데이터를 저장해 domain/area 필터링 지원.
 - **Query Expansion**: JSON 설정 파일로 구두점 제거·접미어·사용자 변형을 관리하고, 변형별 성공/실패 지표를 로깅.
+- **여행 일정 추천**: Query Expansion + LLM 기반으로 지역/도메인/테마에 맞는 맞춤형 여행 일정을 자동 생성.
 - **Redis 캐시**: 동일 쿼리/Query Expansion 결과를 TTL 기반으로 캐싱해 응답 속도 향상 (옵션).
 - **헬스 체크**: `/health` 엔드포인트에서 API/DB/LLM/Redis 상태를 보고하고 degraded 상태 감지.
 - **테스트 스위트**: FastAPI TestClient 기반 통합 테스트와 Query Expansion/RAG 후처리 단위 테스트 포함.
@@ -37,6 +38,7 @@ backend/
   query_expansion.py    # 설정 로드 + 변형 생성 헬퍼
   rag_chain.py          # LangChain RetrievalQA 체인
   llm_base.py           # OpenAI LLM 래퍼
+  itinerary.py          # 여행 일정 추천 플래너 (Query Expansion + LLM)
   schemas.py            # Pydantic 모델
   db/                   # ConnectionPool 및 스키마 스크립트
   utils/logger.py       # JSON 로깅 헬퍼
@@ -104,6 +106,104 @@ uvicorn backend.main:app --reload
 
 ---
 
+## 주요 모듈 설명
+
+### Backend 모듈
+
+#### `backend/main.py`
+- FastAPI 애플리케이션 엔트리포인트
+- 환경변수 검증 및 로깅 설정
+- 라우터: `/rag/query`, `/recommend/itinerary`, `/health`
+- lifespan 관리로 Retriever/캐시 초기화 및 정리
+
+#### `backend/llm_base.py`
+- OpenAI API 래퍼 (동기/비동기 클라이언트)
+- GPT-4 Turbo 모델 호출 인터페이스
+- 에러 핸들링 및 로깅
+
+#### `backend/retriever.py`
+- PGVector 기반 벡터 검색
+- HuggingFace `intfloat/multilingual-e5-small` 임베딩
+- Query Expansion 통합
+- Redis 캐시 연동
+- 연결 풀 관리
+
+#### `backend/query_expansion.py`
+- JSON 설정 파일 로드 (`config/query_expansion.json`)
+- 쿼리 변형 생성 (구두점 제거, 접미어 추가)
+- 변형별 성공/실패 메트릭 추적
+
+#### `backend/rag_chain.py`
+- LangChain RetrievalQA 체인 구현
+- Retriever → LLM 파이프라인
+- Parent context 처리
+- 응답 후처리 (출처 추출, 지연시간 계산)
+
+#### `backend/itinerary.py`
+- 여행 일정 추천 플래너
+- Query Expansion으로 도메인별 후보 수집
+- LLM 기반 일정 생성 (GPT-4 Turbo)
+- Fallback: Rule-based 일정 생성
+
+#### `backend/schemas.py`
+- Pydantic 모델 정의
+- RAGQueryRequest/Response
+- ItineraryRecommendationRequest/Response
+- HealthCheckResponse
+- 데이터 검증 및 직렬화
+
+#### `backend/cache.py`
+- Redis 캐시 유틸리티
+- TTL 기반 캐싱
+- 환경변수로 활성화/비활성화
+
+#### `backend/db/connect.py`
+- PostgreSQL 연결 풀 관리
+- pgvector 확장 지원
+- 컨텍스트 매니저 제공
+
+#### `backend/db/init_vector_v1.1.sql`
+- tourism_parent/child 테이블 스키마
+- pgvector 인덱스 설정
+- 메타데이터 컬럼 (domain, area, place_name 등)
+
+#### `backend/utils/logger.py`
+- 구조화된 JSON 로깅
+- 로그 레벨 설정
+- 예외 로깅 헬퍼
+
+### Scripts
+
+#### `scripts/embed_initial_data_v1.1.py`
+- 초기 데이터 임베딩 스크립트
+- JSON 파일을 읽어 벡터화 후 DB 삽입
+- 체크포인트 관리 (중단 후 재개 가능)
+
+#### `scripts/embedding_utils_v1.1.py`
+- 임베딩 유틸리티 함수
+- HuggingFace 모델 로딩
+- 배치 처리
+
+### Tests
+
+#### `tests/test_api.py`
+- FastAPI 엔드포인트 통합 테스트
+- `/rag/query`, `/health` 테스트
+
+#### `tests/test_itinerary_api.py`
+- 여행 일정 추천 API 테스트
+- Mock을 사용한 격리 테스트
+
+#### `tests/test_query_expansion.py`
+- Query Expansion 로직 단위 테스트
+- 변형 생성 검증
+
+#### `tests/test_rag.py`
+- RAG 파이프라인 후처리 테스트
+- Parent context 제거 검증
+
+---
+
 ## 테스트
 
 ```bash
@@ -115,6 +215,27 @@ python -m pytest
 ```
 
 테스트는 실제 DB/Redis 없이 Mock을 사용해 동작하도록 구성되어 있습니다.
+
+---
+
+## API 엔드포인트
+
+### RAG 쿼리
+- **POST /rag/query**
+  - 요청 body: `RAGQueryRequest` (query, top_k, domain, area, expansion 등)
+  - 응답: `RAGQueryResponse` (answer, sources, latency_ms, metadata)
+  - Query Expansion 활성화 시 확장된 쿼리로 검색 수행
+
+### 여행 일정 추천
+- **POST /recommend/itinerary**
+  - 요청 body: `ItineraryRecommendationRequest` (region, domains, duration_days, themes, budget_level 등)
+  - 응답: `ItineraryRecommendationResponse` (itineraries 배열, metadata)
+  - Query Expansion + LLM으로 맞춤형 여행 일정 생성
+
+### 헬스 체크
+- **GET /health**
+  - 응답: `HealthCheckResponse` (status, checks, timestamp)
+  - API, DB, LLM, Redis 상태 점검
 
 ---
 
