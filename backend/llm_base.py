@@ -25,7 +25,7 @@ class LLMClient:
     
     def __init__(
         self,
-        model_name: str = "gpt-4-turbo",
+        model_name: Optional[str] = None,
         api_key: Optional[str] = None,
         timeout: int = 15,
     ):
@@ -33,11 +33,11 @@ class LLMClient:
         초기화
         
         Args:
-            model_name: 사용할 OpenAI 모델명
+            model_name: 사용할 OpenAI 모델명 (None이면 환경변수에서 로드)
             api_key: OpenAI API 키 (None이면 환경변수에서 로드)
             timeout: API 호출 타임아웃 (초)
         """
-        self.model = model_name
+        self.model = model_name or os.getenv("OPENAI_MODEL", "gpt-4o-mini")
         self.timeout = timeout
         
         api_key = api_key or os.getenv("OPENAI_API_KEY")
@@ -47,7 +47,7 @@ class LLMClient:
         self.client = OpenAI(api_key=api_key)
         self.async_client = AsyncOpenAI(api_key=api_key)
         
-        logger.info(f"LLM 클라이언트 초기화: model={model_name}, timeout={timeout}s")
+        logger.info(f"LLM 클라이언트 초기화: model={self.model}, timeout={timeout}s")
     
     def generate(
         self,
