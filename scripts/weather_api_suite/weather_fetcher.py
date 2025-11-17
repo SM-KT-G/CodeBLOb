@@ -245,9 +245,15 @@ def handle_mid_term(
     endpoint = f"{MID_BASE}/getMidLandFcst"
     data = client.get(endpoint, params)
     items = extract_items(data)
+    metadata = {
+        "tmFc": tm_fc,
+        "regId": args.mid_region,
+    }
     if not items:
         print("No mid-term forecast data returned.")
+        upload_payload(uploader, "mid-term", metadata, [])
         return
+    upload_payload(uploader, "mid-term", metadata, items)
     entry = items[0]
     fields = [
         ("wf3Am", "Day3 AM"),
