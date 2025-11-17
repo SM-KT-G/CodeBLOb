@@ -29,6 +29,12 @@ class MongoUploader:
         name = f"{self.collection_prefix}_{suffix}"
         return self.db[name]
 
+    def ping(self) -> None:
+        """Verify connectivity up front."""
+        self.client.admin.command("ping")
+        if self.debug:
+            print("[debug] MongoDB ping successful.")
+
     def insert(self, service: str, metadata: Dict[str, Any], payload: Any) -> None:
         document = {
             "service": service,

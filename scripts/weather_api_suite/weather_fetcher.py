@@ -174,12 +174,14 @@ def create_uploader(
         return None
     if not args.mongo_uri:
         parser.error("--upload requires --mongo-uri to be set.")
-    return MongoUploader(
+    uploader = MongoUploader(
         uri=args.mongo_uri,
         db_name=args.mongo_db,
         collection_prefix=args.mongo_prefix,
         debug=args.debug,
     )
+    uploader.ping()
+    return uploader
 
 
 def handle_short_term(
