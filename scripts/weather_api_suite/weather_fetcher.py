@@ -308,8 +308,10 @@ def handle_air_quality(
     endpoint = f"{AIR_BASE}/getCtprvnRltmMesureDnsty"
     data = client.get(endpoint, params)
     items = extract_items(data)
+    metadata = {"sido": args.sido}
     if not items:
         print("No air quality data returned.")
+        upload_payload(uploader, "air", metadata, [])
         return
     top = items[:3]
     print(f"Air quality in {args.sido}:")
@@ -319,6 +321,7 @@ def handle_air_quality(
         pm25 = row.get("pm25Value")
         khai = row.get("khaiValue")
         print(f"- {station}: PM10={pm10}, PM2.5={pm25}, KHAI={khai}")
+    upload_payload(uploader, "air", metadata, items)
 
 
 def get_short_term_timestamp(args: argparse.Namespace) -> tuple[str, str]:
