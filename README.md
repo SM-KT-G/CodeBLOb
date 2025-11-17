@@ -10,6 +10,9 @@
 - **Parent/Child QA 스키마**: tourism_parent/child 테이블에 풍부한 메타데이터를 저장해 domain/area 필터링 지원.
 - **Query Expansion**: JSON 설정 파일로 구두점 제거·접미어·사용자 변형을 관리하고, 변형별 성공/실패 지표를 로깅.
 - **여행 일정 추천**: Query Expansion + LLM 기반으로 지역/도메인/테마에 맞는 맞춤형 여행 일정을 자동 생성.
+- **통합 채팅 시스템**: Function Calling으로 일반 대화, RAG 검색, 여행 일정 생성을 하나의 엔드포인트로 통합.
+- **Structured Outputs**: 100% JSON 보장으로 파싱 오류 제거.
+- **대화 기록 관리**: MariaDB에 채팅 기록을 영구 저장하고 컨텍스트 관리.
 - **Redis 캐시**: 동일 쿼리/Query Expansion 결과를 TTL 기반으로 캐싱해 응답 속도 향상 (옵션).
 - **헬스 체크**: `/health` 엔드포인트에서 API/DB/LLM/Redis 상태를 보고하고 degraded 상태 감지.
 - **테스트 스위트**: FastAPI TestClient 기반 통합 테스트와 Query Expansion/RAG 후처리 단위 테스트 포함.
@@ -21,7 +24,7 @@
 | 영역 | 사용 기술 |
 | --- | --- |
 | Backend | FastAPI 0.109.x, Python 3.11 |
-| Database | PostgreSQL 15 + pgvector |
+| Database | PostgreSQL 15 + pgvector, MariaDB 10.11 |
 | LLM & 임베딩 | OpenAI GPT-4 Turbo, HuggingFace `intfloat/multilingual-e5-small` |
 | 캐시 | Redis 5.x (옵션) |
 | 테스트/품질 | pytest, httpx, black, ruff |
@@ -37,10 +40,15 @@ backend/
   retriever.py          # PGVector 쿼리 + Query Expansion + 캐시
   query_expansion.py    # 설정 로드 + 변형 생성 헬퍼
   rag_chain.py          # LangChain RetrievalQA 체인
-  llm_base.py           # OpenAI LLM 래퍼
+  llm_base.py           # OpenAI LLM 래퍼 (Structured Outputs 포함)
   itinerary.py          # 여행 일정 추천 플래너 (Query Expansion + LLM)
+  unified_chat.py       # 통합 채팅 핸들러 (Function Calling)
+  chat_history.py       # MariaDB 채팅 기록 관리
+  function_tools.py     # Function Calling 도구 정의
   schemas.py            # Pydantic 모델
   db/                   # ConnectionPool 및 스키마 스크립트
+    init_vector_v1.1.sql       # PostgreSQL 벡터 DB 스키마
+    init_chat_history.sql      # MariaDB 채팅 기록 스키마
   utils/logger.py       # JSON 로깅 헬퍼
 config/
   query_expansion.json  # Query Expansion 기본 설정
@@ -55,6 +63,7 @@ tests/                  # FastAPI/Query Expansion/RAG 테스트
 
 - Python 3.11
 - PostgreSQL 15 + pgvector (Docker Compose로 실행 가능)
+- MariaDB 10.11+ (채팅 기록 저장용)
 - Redis (선택 사항 · 캐시 사용 시)
 
 ---
@@ -88,6 +97,11 @@ uvicorn backend.main:app --reload
 | `OPENAI_API_KEY` | OpenAI ChatCompletion/Embedding 키 |
 | `OPENAI_MODEL` | LLM 모델명(기본: `gpt-4-turbo`) |
 | `DATABASE_URL` | PostgreSQL 접속 URL |
+| `MARIADB_HOST` | MariaDB 호스트 (기본: localhost) |
+| `MARIADB_PORT` | MariaDB 포트 (기본: 3306) |
+| `MARIADB_USER` | MariaDB 사용자명 |
+| `MARIADB_PASSWORD` | MariaDB 비밀번호 |
+| `MARIADB_DATABASE` | MariaDB 데이터베이스 이름 |
 | `REDIS_URL` | Redis 접속 URL (없으면 캐시 비활성화) |
 | `REDIS_TTL` | 캐시 TTL(초, 기본 300) |
 | `LOG_LEVEL` | 로깅 레벨 (INFO/DEBUG 등) |
@@ -119,7 +133,28 @@ uvicorn backend.main:app --reload
 #### `backend/llm_base.py`
 - OpenAI API 래퍼 (동기/비동기 클라이언트)
 - GPT-4 Turbo 모델 호출 인터페이스
+- **Structured Outputs 지원**: `generate_structured()` 메서드로 100% JSON 보장
 - 에러 핸들링 및 로깅
+
+#### `backend/unified_chat.py`
+- **통합 채팅 핸들러**: Function Calling으로 사용자 의도 자동 파악
+- `_handle_general_chat()`: 일반 대화 처리
+- `_handle_search_places()`: RAG 검색 (Retriever 연동)
+- `_handle_create_itinerary()`: 여행 일정 생성 (Structured Outputs 사용)
+- 대화 기록 관리 및 컨텍스트 포함
+
+#### `backend/chat_history.py`
+- **ChatHistoryManager**: MariaDB 채팅 기록 관리
+- `save_message()`: 대화 저장 (JSON → LONGTEXT)
+- `get_history()`: 세션 전체 기록 조회
+- `get_recent_context()`: 최근 N개 컨텍스트 (LLM 프롬프트용)
+- `delete_session()`: 세션 삭제
+
+#### `backend/function_tools.py`
+- **Function Calling 도구 정의**
+- `SEARCH_PLACES_TOOL`: 장소 검색 함수
+- `CREATE_ITINERARY_TOOL`: 여행 일정 생성 함수
+- OpenAI Function Calling 스키마
 
 #### `backend/retriever.py`
 - PGVector 기반 벡터 검색
@@ -149,6 +184,8 @@ uvicorn backend.main:app --reload
 - Pydantic 모델 정의
 - RAGQueryRequest/Response
 - ItineraryRecommendationRequest/Response
+- **ChatRequest**: 통합 채팅 요청 (text, session_id)
+- **ItineraryStructuredResponse**: Structured Outputs용 스키마 (message + itinerary)
 - HealthCheckResponse
 - 데이터 검증 및 직렬화
 
@@ -198,9 +235,22 @@ uvicorn backend.main:app --reload
 - Query Expansion 로직 단위 테스트
 - 변형 생성 검증
 
-#### `tests/test_rag.py`
-- RAG 파이프라인 후처리 테스트
-- Parent context 제거 검증
+#### `tests/test_chat_integration.py`
+- 통합 채팅 API 테스트
+- Mock을 사용한 Function Calling 테스트
+- 일반 대화, 장소 검색, 여행 일정 생성 시나리오
+
+#### `tests/test_chat_history.py`
+- ChatHistoryManager 단위 테스트
+- MariaDB 저장/조회 검증
+
+#### `tests/test_itinerary_structured.py`
+- Structured Outputs 테스트
+- JSON 스키마 보장 검증
+
+#### `tests/test_unified_chat.py`
+- UnifiedChatHandler 통합 테스트
+- Function Calling 의도 파악 검증
 
 ---
 
@@ -219,6 +269,17 @@ python -m pytest
 ---
 
 ## API 엔드포인트
+
+### 통합 채팅 (신규)
+- **POST /chat**
+  - 요청 body: `ChatRequest` (text, session_id)
+  - 응답: 사용자 의도에 따라 다름
+    - **일반 대화**: `{"response_type": "chat", "message": "..."}`
+    - **장소 검색**: `{"response_type": "search", "message": "...", "places": [...]}`
+    - **여행 일정**: `{"response_type": "itinerary", "message": "...", "itinerary": {...}}`
+  - Function Calling으로 의도 자동 파악
+  - 대화 기록 자동 저장 (MariaDB)
+  - 이전 컨텍스트 포함
 
 ### RAG 쿼리
 - **POST /rag/query**

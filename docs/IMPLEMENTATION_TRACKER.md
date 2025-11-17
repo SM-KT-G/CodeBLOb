@@ -199,9 +199,35 @@
       3. 복합 필터링: 부산 숙박시설만 (유사도 0.91) ✅
       4. 기본 검색: 모든 도메인 검색 ✅
     - 품질 개선 확인: 타겟팅 정확도 향상, 복합 필터 시 최고 유사도 달성
+
+- 2025-XX-XX: **통합 채팅 시스템 구현 (TDD 원칙)**
+  - **Structured Outputs 구현**:
+    - `backend/schemas.py`: ItineraryDay, ItineraryData, ItineraryStructuredResponse, ChatRequest 추가
+    - `backend/llm_base.py`: generate_structured() 메서드 추가 (OpenAI beta.chat.completions.parse 사용)
+    - 100% JSON 보장으로 파싱 오류 제거
+  - **ChatHistoryManager 구현** (`backend/chat_history.py`):
+    - MariaDB에 JSON을 LONGTEXT로 저장 (JSON_VALID CHECK 제약)
+    - save_message(), get_history(), get_recent_context(), delete_session() 구현
+    - 채팅 기록 영구 저장 및 컨텍스트 관리
+  - **UnifiedChatHandler 구현** (`backend/unified_chat.py`):
+    - Function Calling으로 사용자 의도 자동 파악
+    - _handle_general_chat(): 일반 대화
+    - _handle_search_places(): RAG 검색 (Retriever 연동)
+    - _handle_create_itinerary(): 여행 일정 생성 (Structured Outputs 사용)
+  - **통합 채팅 엔드포인트** (`backend/main.py`):
+    - POST /chat 엔드포인트 추가
+    - lifespan에서 UnifiedChatHandler 초기화 및 정리
+    - 일반 대화, RAG 검색, 여행 일정을 하나의 엔드포인트로 통합
+  - **의존성 추가**:
+    - requirements.txt에 mariadb>=1.1.0,<2.0.0 추가
+  - **테스트 작성** (TDD Red 단계):
+    - tests/test_chat_history.py: MariaDB 저장/조회 테스트
+    - tests/test_itinerary_structured.py: Structured Outputs 테스트
+    - tests/test_unified_chat.py: Function Calling 통합 테스트
   
 - 다음 단계:
   - Step 2-A: Query Expansion 구현 (검색 범위 확대)
   - Step 2-B: Parent Context 추가 (답변 품질 향상)
-  - FastAPI 엔드포인트 통합
-  - 프론트엔드 연동
+  - MariaDB 설정 및 chat_history 테이블 생성
+  - 통합 채팅 시스템 테스트 실행
+  - 프론트엔드 연동 준비
