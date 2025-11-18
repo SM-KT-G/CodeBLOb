@@ -14,7 +14,7 @@ from dataclasses import dataclass
 from datetime import date, datetime
 from pathlib import Path
 import subprocess
-from typing import Dict, Iterable, List, Tuple
+from typing import Dict, Iterable, List, Sequence, Tuple
 
 
 def parse_args() -> argparse.Namespace:
@@ -131,6 +131,25 @@ def print_summary(summaries: Iterable[DailySummary]) -> None:
     print("-" * 60)
 
 
+def summarize_author_totals(commits: Iterable[CommitRecord]) -> List[Tuple[str, int]]:
+    """Collapse commit counts per author."""
+    totals: Dict[str, int] = defaultdict(int)
+    for commit in commits:
+        totals[commit.author] += 1
+    return sorted(totals.items(), key=lambda entry: entry[1], reverse=True)
+
+
+def print_author_totals(totals: Sequence[Tuple[str, int]]) -> None:
+    """Display overall commit totals per author."""
+    print("Author totals:")
+    print("-" * 60)
+    print(f"{'Author':<25} {'Commits':>8}")
+    print("-" * 60)
+    for author, count in totals:
+        print(f"{author:<25} {count:>8}")
+    print("-" * 60)
+
+
 def main() -> None:
     """Parse CLI arguments and perform light validation."""
     args = parse_args()
@@ -142,6 +161,9 @@ def main() -> None:
         print_summary(summaries)
     else:
         print("No commits to summarize.")
+    totals = summarize_author_totals(commits)
+    if totals:
+        print_author_totals(totals)
 
 
 if __name__ == "__main__":
