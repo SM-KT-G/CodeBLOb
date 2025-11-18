@@ -9,11 +9,12 @@ aggregation, and export helpers for daily commit tracking.
 from __future__ import annotations
 
 import argparse
+from collections import defaultdict
 from dataclasses import dataclass
-from datetime import datetime
+from datetime import date, datetime
 from pathlib import Path
 import subprocess
-from typing import Iterable, List
+from typing import Dict, Iterable, List, Tuple
 
 
 def parse_args() -> argparse.Namespace:
@@ -48,6 +49,13 @@ class CommitRecord:
     sha: str
     author: str
     authored_at: datetime
+
+
+@dataclass
+class DailySummary:
+    author: str
+    day: date
+    count: int
 
 
 def build_git_log_command(repo_path: Path, args: argparse.Namespace) -> List[str]:
@@ -98,12 +106,42 @@ def load_commits(repo_path: Path, args: argparse.Namespace) -> List[CommitRecord
     return parse_commits(lines)
 
 
+def summarize_by_day(commits: Iterable[CommitRecord]) -> List[DailySummary]:
+    """Group commit counts by author/day pairs."""
+    counter: Dict[Tuple[str, date], int] = defaultdict(int)
+    for commit in commits:
+        key = (commit.author, commit.authored_at.date())
+        counter[key] += 1
+    summaries = [
+        DailySummary(author=author, day=day, count=count)
+        for (author, day), count in counter.items()
+    ]
+    summaries.sort(key=lambda summary: (summary.day, summary.author))
+    return summaries
+
+
+def print_summary(summaries: Iterable[DailySummary]) -> None:
+    """Emit a tiny table describing daily commit counts."""
+    print("Daily commit totals:")
+    print("-" * 60)
+    print(f"{'Date':<12} {'Author':<25} {'Commits':>8}")
+    print("-" * 60)
+    for summary in summaries:
+        print(f"{summary.day.isoformat():<12} {summary.author:<25} {summary.count:>8}")
+    print("-" * 60)
+
+
 def main() -> None:
     """Parse CLI arguments and perform light validation."""
     args = parse_args()
     repo_path = Path(args.repo).expanduser()
     commits = load_commits(repo_path, args)
     print(f"Found {len(commits)} commits for {repo_path.resolve()}")
+    summaries = summarize_by_day(commits)
+    if summaries:
+        print_summary(summaries)
+    else:
+        print("No commits to summarize.")
 
 
 if __name__ == "__main__":
