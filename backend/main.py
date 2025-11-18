@@ -11,6 +11,9 @@ from typing import Any, Optional
 from fastapi import FastAPI, HTTPException, Request, status
 from fastapi.responses import JSONResponse
 from dotenv import load_dotenv
+from prometheus_client import Counter, Histogram, Gauge, generate_latest, CONTENT_TYPE_LATEST
+from fastapi.responses import Response
+from prometheus_fastapi_instrumentator import Instrumentator
 
 from backend.schemas import (
     RAGQueryRequest,
@@ -40,6 +43,26 @@ load_dotenv()
 
 # 로거 설정
 logger = setup_logger(level=os.getenv("LOG_LEVEL", "INFO"))
+
+# Prometheus 메트릭 정의
+rag_query_duration = Histogram(
+    'rag_query_duration_seconds',
+    'RAG 쿼리 응답 시간 (초)',
+    buckets=[0.1, 0.5, 1.0, 2.0, 5.0, 10.0]
+)
+
+query_expansion_duration = Histogram(
+    'query_expansion_duration_seconds', 
+    'Query Expansion 실행 시간 (초)',
+    buckets=[0.05, 0.1, 0.2, 0.5, 1.0]
+)
+
+cache_hits = Counter('cache_hits_total', 'Redis 캐시 히트 수')
+cache_misses = Counter('cache_misses_total', 'Redis 캐시 미스 수')
+
+rag_errors = Counter('rag_errors_total', 'RAG 쿼리 에러 수', ['error_type'])
+
+active_requests = Gauge('active_requests', '현재 처리 중인 요청 수')
 
 
 def validate_env_variables() -> None:
@@ -125,15 +148,23 @@ app = FastAPI(
     lifespan=lifespan,
 )
 
+# Prometheus Instrumentator 설정
+instrumentator = Instrumentator()
+instrumentator.instrument(app).expose(app, endpoint="/metrics")
+
 
 @app.middleware("http")
 async def add_process_time_header(request: Request, call_next):
     """응답 시간 측정 미들웨어"""
+    active_requests.inc()
     start_time = time.time()
-    response = await call_next(request)
-    process_time = time.time() - start_time
-    response.headers["X-Process-Time"] = f"{process_time:.2f}"
-    return response
+    try:
+        response = await call_next(request)
+        process_time = time.time() - start_time
+        response.headers["X-Process-Time"] = f"{process_time:.2f}"
+        return response
+    finally:
+        active_requests.dec()
 
 
 @app.exception_handler(Exception)
@@ -240,8 +271,20 @@ async def rag_query(request: RAGQueryRequest):
             sources = rag_result["sources"]
             metadata.update(rag_result.get("metadata") or {})
             if request.expansion:
-                metadata["expansion_metrics"] = getattr(retriever, "last_expansion_metrics", None)
+                expansion_metrics = getattr(retriever, "last_expansion_metrics", None)
+                metadata["expansion_metrics"] = expansion_metrics
+                
+                # Query Expansion 메트릭 기록
+                if expansion_metrics and expansion_metrics.get("duration_ms"):
+                    query_expansion_duration.observe(expansion_metrics["duration_ms"] / 1000.0)
+                
+                # 캐시 히트/미스 기록
+                if expansion_metrics and expansion_metrics.get("cache_hit"):
+                    cache_hits.inc()
+                else:
+                    cache_misses.inc()
         except Exception as e:
+            rag_errors.labels(error_type="rag_chain").inc()
             log_exception(
                 e,
                 {
@@ -270,9 +313,15 @@ async def rag_query(request: RAGQueryRequest):
             metadata["fallback"] = True
             metadata["retrieved_count"] = len(docs)
             if request.expansion:
-                metadata["expansion_metrics"] = getattr(retriever, "last_expansion_metrics", None)
+                expansion_metrics = getattr(retriever, "last_expansion_metrics", None)
+                metadata["expansion_metrics"] = expansion_metrics
+                if expansion_metrics and expansion_metrics.get("duration_ms"):
+                    query_expansion_duration.observe(expansion_metrics["duration_ms"] / 1000.0)
 
         latency = round(time.time() - start_time, 2)
+        
+        # RAG 쿼리 응답 시간 메트릭 기록
+        rag_query_duration.observe(latency)
         
         # 응답 시간 제약 체크 (3초)
         if latency > 3.0:
@@ -286,12 +335,14 @@ async def rag_query(request: RAGQueryRequest):
         )
     
     except ValueError as e:
+        rag_errors.labels(error_type="validation").inc()
         log_exception(e, {"request": request.model_dump()}, logger)
         raise HTTPException(
             status_code=status.HTTP_400_BAD_REQUEST,
             detail=str(e),
         )
     except Exception as e:
+        rag_errors.labels(error_type="internal").inc()
         log_exception(e, {"request": request.model_dump()}, logger)
         raise HTTPException(
             status_code=status.HTTP_500_INTERNAL_SERVER_ERROR,
