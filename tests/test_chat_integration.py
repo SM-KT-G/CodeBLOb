@@ -247,14 +247,14 @@ def test_chat_endpoint_invalid_request():
         )
         assert response.status_code == 422
         
-        # session_id 누락
+        # session_id 누락은 이제 정상 (Optional)
         response = client.post(
             "/chat",
             json={
                 "text": "こんにちは"
             }
         )
-        assert response.status_code == 422
+        assert response.status_code == 200  # session_id 없어도 OK
         
         # 빈 text
         response = client.post(
