@@ -51,6 +51,12 @@ def parse_args() -> argparse.Namespace:
         "--csv-output",
         help="Optional file path to export the daily summary as CSV",
     )
+    parser.add_argument(
+        "--min-count",
+        type=int,
+        default=1,
+        help="Only show author/day combinations with at least this many commits",
+    )
     return parser.parse_args()
 
 
@@ -148,6 +154,15 @@ def summarize_by_day(commits: Iterable[CommitRecord]) -> List[DailySummary]:
     return summaries
 
 
+def filter_summaries(
+    summaries: Iterable[DailySummary], min_count: int
+) -> List[DailySummary]:
+    """Filter out low-volume author/day summaries."""
+    if min_count <= 1:
+        return list(summaries)
+    return [summary for summary in summaries if summary.count >= min_count]
+
+
 def print_summary(summaries: Iterable[DailySummary]) -> None:
     """Emit a tiny table describing daily commit counts."""
     print("Daily commit totals:")
@@ -201,10 +216,11 @@ def main() -> None:
         return
     print(f"Found {len(commits)} commits for {repo_path}")
     summaries = summarize_by_day(commits)
-    if summaries:
-        print_summary(summaries)
+    filtered = filter_summaries(summaries, args.min_count)
+    if filtered:
+        print_summary(filtered)
         if args.csv_output:
-            write_csv(summaries, Path(args.csv_output))
+            write_csv(filtered, Path(args.csv_output))
     else:
         print("No commits to summarize.")
     totals = summarize_author_totals(commits)
