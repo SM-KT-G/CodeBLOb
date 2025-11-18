@@ -4,6 +4,7 @@ tourism_child 테이블 직접 검색
 """
 import asyncio
 import json
+import os
 import time
 from typing import Any, Dict, List, Optional
 import psycopg
@@ -61,12 +62,14 @@ class Retriever:
                 logger.info("외부 Embeddings Client 주입됨")
             else:
                 # HuggingFace 임베딩 모델 로드
+                # Docker 컨테이너에서는 'cpu', M1/M2/M3/M4 Mac에서는 'mps' 사용
+                device = os.getenv("EMBEDDING_DEVICE", "cpu")
                 self.embeddings = HuggingFaceEmbeddings(
                     model_name=embedding_model,
-                    model_kwargs={'device': 'mps'},  # M4 GPU 사용
+                    model_kwargs={'device': device},
                     encode_kwargs={'normalize_embeddings': True}
                 )
-                logger.info(f"HuggingFace Embeddings 모델 로드 완료: {embedding_model}")
+                logger.info(f"HuggingFace Embeddings 모델 로드 완료: {embedding_model}, device={device}")
             
             logger.info("Retriever 초기화 완료")
         
