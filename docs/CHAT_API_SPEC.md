@@ -41,9 +41,16 @@ Content-Type: application/json
 | 필드 | 타입 | 필수 | 설명 | 예시 |
 |------|------|------|------|------|
 | `text` | `string` | ✅ | 사용자 메시지 (최소 1자) | `"서울 맛집 추천해줘"` |
-| `session_id` | `string` | ✅ | 세션 ID (사용자 식별용) | `"user123"` |
+| `session_id` | `string` | ❌ | 세션 ID (선택적, 채팅 기록 저장용) | `"user123"` |
 
 ### 요청 예시
+```json
+{
+  "text": "서울 맛집 추천해줘"
+}
+```
+
+**session_id를 포함하는 경우:**
 ```json
 {
   "text": "서울 맛집 추천해줘",
@@ -53,7 +60,9 @@ Content-Type: application/json
 
 ### 유효성 검증
 - `text`: 빈 문자열 불가, 공백만 있는 경우 자동 제거
-- `session_id`: 필수 값, 빈 문자열 불가
+- `session_id`: 선택 사항 (생략 가능)
+  - 제공 시: 채팅 기록 저장 및 컨텍스트 유지
+  - 미제공 시: 일회성 대화로 처리
 
 ---
 
@@ -110,8 +119,7 @@ Content-Type: application/json
     area: string,         // 지역
     description: string,  // 장소 설명
     source_id?: string    // 출처 ID (옵션)
-  }>,
-  latency_ms?: number     // 응답 시간 (밀리초, 옵션)
+  }>
 }
 ```
 
@@ -135,8 +143,7 @@ Content-Type: application/json
       "description": "빈대떡, 마약김밥 등 한국 전통 먹거리를 즐길 수 있는 시장.",
       "source_id": "J_FOOD_000456"
     }
-  ],
-  "latency_ms": 1234
+  ]
 }
 ```
 
@@ -432,7 +439,6 @@ interface SearchResponse {
   response_type: 'search';
   message: string;
   places: Place[];
-  latency_ms?: number;
 }
 
 interface Place {
@@ -501,17 +507,6 @@ interface ErrorResponse {
   ```
 
 ---
-
-## 응답 시간 (Latency)
-
-| 응답 타입 | 평균 응답 시간 | 설명 |
-|-----------|----------------|------|
-| `chat` | 1~3초 | LLM 호출만 필요 |
-| `search` | 2~5초 | RAG 검색 + LLM 호출 |
-| `itinerary` | 5~10초 | Query Expansion + RAG + Structured Outputs |
-
-**최대 타임아웃**: 30초
-
 ---
 
 ## 주의사항 및 제한사항

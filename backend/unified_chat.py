@@ -98,8 +98,8 @@ class UnifiedChatHandler:
                 # 일반 대화
                 response = self._handle_general_chat(response_message.content)
             
-            # 5. 대화 기록 저장
-            if self.chat_history:
+            # 5. 대화 기록 저장 (session_id가 있을 때만)
+            if self.chat_history and request.session_id:
                 self.chat_history.save_message(
                     session_id=request.session_id,
                     user_message=request.text,
@@ -139,8 +139,8 @@ class UnifiedChatHandler:
             }
         ]
         
-        # 이전 대화 컨텍스트 추가
-        if self.chat_history:
+        # 이전 대화 컨텍스트 추가 (session_id가 있을 때만)
+        if self.chat_history and request.session_id:
             context = self.chat_history.get_recent_context(
                 request.session_id,
                 limit=5
