@@ -118,6 +118,22 @@ def load_commits(repo_path: Path, args: argparse.Namespace) -> List[CommitRecord
     return parse_commits(lines)
 
 
+def resolve_repo_path(raw_path: str) -> Path:
+    """Validate the provided repository path."""
+    path = Path(raw_path).expanduser().resolve()
+    if not path.exists():
+        raise FileNotFoundError(f"Repository path does not exist: {path}")
+    probe = subprocess.run(
+        ["git", "-C", str(path), "rev-parse", "--is-inside-work-tree"],
+        capture_output=True,
+        text=True,
+        check=False,
+    )
+    if probe.returncode != 0 or probe.stdout.strip() != "true":
+        raise RuntimeError(f"{path} is not a git repository.")
+    return path
+
+
 def summarize_by_day(commits: Iterable[CommitRecord]) -> List[DailySummary]:
     """Group commit counts by author/day pairs."""
     counter: Dict[Tuple[str, date], int] = defaultdict(int)
@@ -177,9 +193,13 @@ def write_csv(summaries: Iterable[DailySummary], destination: Path) -> None:
 def main() -> None:
     """Parse CLI arguments and perform light validation."""
     args = parse_args()
-    repo_path = Path(args.repo).expanduser()
-    commits = load_commits(repo_path, args)
-    print(f"Found {len(commits)} commits for {repo_path.resolve()}")
+    try:
+        repo_path = resolve_repo_path(args.repo)
+        commits = load_commits(repo_path, args)
+    except (RuntimeError, FileNotFoundError) as exc:
+        print(f"Error: {exc}")
+        return
+    print(f"Found {len(commits)} commits for {repo_path}")
     summaries = summarize_by_day(commits)
     if summaries:
         print_summary(summaries)
