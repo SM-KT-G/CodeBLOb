@@ -2,6 +2,7 @@
 벡터 검색 모듈 (v1.1)
 tourism_child 테이블 직접 검색
 """
+import asyncio
 import json
 import time
 from typing import Any, Dict, List, Optional
@@ -294,6 +295,32 @@ class Retriever:
             )
             raise
 
+    async def search_async(
+        self,
+        query: str,
+        top_k: int = 5,
+        domain: Optional[str] = None,
+        area: Optional[str] = None,
+    ) -> List[Document]:
+        """
+        비동기 문서 검색 (병렬 처리용)
+        
+        Args:
+            query: 검색 쿼리
+            top_k: 반환할 문서 개수
+            domain: 도메인 필터
+            area: 지역 필터
+        
+        Returns:
+            검색된 Document 리스트
+        """
+        # 동기 search를 asyncio에서 실행
+        loop = asyncio.get_event_loop()
+        return await loop.run_in_executor(
+            None,
+            lambda: self.search(query, top_k, domain, area)
+        )
+
     def search_with_expansion(
         self,
         query: str,
@@ -380,5 +407,118 @@ class Retriever:
         logger.info(f"Query Expansion metrics: {metrics}")
         if self.cache and cache_key:
             self.cache.set_json(cache_key, self._serialize_documents(docs))
+        self.last_expansion_metrics = metrics
+        return docs[:top_k]
+
+    async def search_with_expansion_async(
+        self,
+        query: str,
+        top_k: int = 5,
+        domain: Optional[str] = None,
+        area: Optional[str] = None,
+        variations: Optional[List[str]] = None,
+    ) -> List[Document]:
+        """
+        비동기 Query Expansion 검색 (병렬 처리)
+        
+        전략:
+        - 모든 쿼리 변형을 asyncio.gather로 병렬 실행
+        - 중복 제거 및 유사도 기준 정렬
+        - 실패한 변형은 무시하고 계속 진행
+        
+        Args:
+            query: 검색 쿼리
+            top_k: 반환할 문서 개수
+            domain: 도메인 필터
+            area: 지역 필터
+            variations: 사용자 정의 쿼리 변형
+        
+        Returns:
+            검색된 Document 리스트
+        """
+        if not query or len(query.strip()) < 2:
+            raise ValueError("쿼리는 최소 2자 이상이어야 합니다.")
+
+        vars_to_try = generate_variations(query, user_variations=variations)
+        metrics: Dict[str, Optional[int | List[str]]] = {
+            "variants": vars_to_try,
+            "success_count": 0,
+            "failure_count": 0,
+        }
+
+        cache_key = None
+        cache_hit = False
+        if self.cache:
+            variations_key = json.dumps(vars_to_try, ensure_ascii=False)
+            cache_key = self.cache.make_key(
+                "search_expansion_async",
+                [
+                    variations_key,
+                    str(top_k),
+                    domain or "*",
+                    area or "*",
+                ],
+            )
+            cached_results = self.cache.get_json(cache_key)
+            if cached_results:
+                logger.info("Query Expansion async cache hit")
+                cache_hit = True
+                metrics["cache_hit"] = True
+                metrics["retrieved"] = len(cached_results)
+                metrics["duration_ms"] = 0.0
+                self.last_expansion_metrics = metrics
+                return self._deserialize_documents(cached_results)
+
+        # 병렬 검색 실행
+        start_time = time.perf_counter()
+        
+        # 모든 변형에 대해 비동기 검색 태스크 생성
+        tasks = [
+            self.search_async(query=qv, top_k=top_k, domain=domain, area=area)
+            for qv in vars_to_try
+        ]
+        
+        # 병렬 실행 (return_exceptions=True로 일부 실패 허용)
+        results = await asyncio.gather(*tasks, return_exceptions=True)
+        
+        # 결과 병합 및 중복 제거
+        merged = {}
+        for i, result in enumerate(results):
+            if isinstance(result, Exception):
+                # 실패한 변형
+                metrics["failure_count"] = int(metrics["failure_count"] or 0) + 1
+                logger.warning(f"Query variation failed: {vars_to_try[i]}, error: {result}")
+                continue
+            
+            # 성공한 변형
+            metrics["success_count"] = int(metrics["success_count"] or 0) + 1
+            
+            for doc in result:
+                doc_id = doc.metadata.get("document_id") or doc.metadata.get("documentId")
+                if not doc_id:
+                    doc_id = hash(doc.page_content)
+
+                # 가장 높은 유사도만 유지
+                prev = merged.get(doc_id)
+                sim = float(doc.metadata.get("similarity", 0.0))
+                if not prev or sim > prev.metadata.get("similarity", 0.0):
+                    merged[doc_id] = doc
+
+        # 정렬 및 top_k 선택
+        duration_ms = round((time.perf_counter() - start_time) * 1000, 2)
+        docs = sorted(
+            merged.values(),
+            key=lambda d: d.metadata.get("similarity", 0.0),
+            reverse=True
+        )
+        
+        metrics["cache_hit"] = cache_hit
+        metrics["retrieved"] = len(docs)
+        metrics["duration_ms"] = duration_ms
+        logger.info(f"Query Expansion async metrics: {metrics}")
+        
+        if self.cache and cache_key:
+            self.cache.set_json(cache_key, self._serialize_documents(docs))
+        
         self.last_expansion_metrics = metrics
         return docs[:top_k]
