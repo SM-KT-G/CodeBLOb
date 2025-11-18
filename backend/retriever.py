@@ -295,6 +295,42 @@ class Retriever:
             )
             raise
 
+    def _get_document_id(self, doc: Document) -> Any:
+        """Document에서 고유 ID 추출 (중복 제거용)"""
+        doc_id = doc.metadata.get("document_id") or doc.metadata.get("documentId")
+        if not doc_id:
+            doc_id = hash(doc.page_content)
+        return doc_id
+    
+    def _merge_documents_by_similarity(self, all_results: List[List[Document]]) -> Dict[Any, Document]:
+        """
+        여러 검색 결과를 document_id 기준으로 병합하고 가장 높은 유사도만 유지
+        
+        Args:
+            all_results: 검색 결과 리스트의 리스트
+        
+        Returns:
+            document_id를 키로 하는 Document 딕셔너리
+        """
+        merged = {}
+        for results in all_results:
+            for doc in results:
+                doc_id = self._get_document_id(doc)
+                prev = merged.get(doc_id)
+                sim = float(doc.metadata.get("similarity", 0.0))
+                if not prev or sim > prev.metadata.get("similarity", 0.0):
+                    merged[doc_id] = doc
+        return merged
+    
+    def _sort_and_limit_by_similarity(self, documents: Dict[Any, Document], top_k: int) -> List[Document]:
+        """유사도 기준 정렬 및 top_k 제한"""
+        docs = sorted(
+            documents.values(),
+            key=lambda d: d.metadata.get("similarity", 0.0),
+            reverse=True
+        )
+        return docs[:top_k]
+
     async def search_async(
         self,
         query: str,
@@ -374,33 +410,26 @@ class Retriever:
                 return self._deserialize_documents(cached_results)
 
         # 결과 수집: key by document_id (metadata.document_id)
-        merged = {}
+        all_results = []
         start_time = time.perf_counter()
 
         for qv in vars_to_try:
             try:
                 results = self.search(query=qv, top_k=top_k, domain=domain, area=area)
+                all_results.append(results)
                 metrics["success_count"] = int(metrics["success_count"] or 0) + 1
             except Exception:
                 # 한 변형이 실패해도 계속 진행
                 metrics["failure_count"] = int(metrics["failure_count"] or 0) + 1
                 continue
 
-            for doc in results:
-                doc_id = doc.metadata.get("document_id") or doc.metadata.get("documentId")
-                # fallback: use page_content hash if no id
-                if not doc_id:
-                    doc_id = hash(doc.page_content)
-
-                # keep the highest similarity per document
-                prev = merged.get(doc_id)
-                sim = float(doc.metadata.get("similarity", 0.0))
-                if not prev or sim > prev.metadata.get("similarity", 0.0):
-                    merged[doc_id] = doc
-
+        # 중복 제거 및 병합
+        merged = self._merge_documents_by_similarity(all_results)
+        
         # 정렬 및 top_k 선택
         duration_ms = round((time.perf_counter() - start_time) * 1000, 2)
-        docs = sorted(merged.values(), key=lambda d: d.metadata.get("similarity", 0.0), reverse=True)
+        docs = self._sort_and_limit_by_similarity(merged, top_k)
+        
         metrics["cache_hit"] = cache_hit
         metrics["retrieved"] = len(docs)
         metrics["duration_ms"] = duration_ms
@@ -408,7 +437,7 @@ class Retriever:
         if self.cache and cache_key:
             self.cache.set_json(cache_key, self._serialize_documents(docs))
         self.last_expansion_metrics = metrics
-        return docs[:top_k]
+        return docs
 
     async def search_with_expansion_async(
         self,
@@ -481,36 +510,24 @@ class Retriever:
         # 병렬 실행 (return_exceptions=True로 일부 실패 허용)
         results = await asyncio.gather(*tasks, return_exceptions=True)
         
-        # 결과 병합 및 중복 제거
-        merged = {}
+        # 성공한 결과만 수집
+        all_results = []
         for i, result in enumerate(results):
             if isinstance(result, Exception):
                 # 실패한 변형
                 metrics["failure_count"] = int(metrics["failure_count"] or 0) + 1
                 logger.warning(f"Query variation failed: {vars_to_try[i]}, error: {result}")
-                continue
-            
-            # 성공한 변형
-            metrics["success_count"] = int(metrics["success_count"] or 0) + 1
-            
-            for doc in result:
-                doc_id = doc.metadata.get("document_id") or doc.metadata.get("documentId")
-                if not doc_id:
-                    doc_id = hash(doc.page_content)
+            else:
+                # 성공한 변형
+                metrics["success_count"] = int(metrics["success_count"] or 0) + 1
+                all_results.append(result)
 
-                # 가장 높은 유사도만 유지
-                prev = merged.get(doc_id)
-                sim = float(doc.metadata.get("similarity", 0.0))
-                if not prev or sim > prev.metadata.get("similarity", 0.0):
-                    merged[doc_id] = doc
+        # 중복 제거 및 병합
+        merged = self._merge_documents_by_similarity(all_results)
 
         # 정렬 및 top_k 선택
         duration_ms = round((time.perf_counter() - start_time) * 1000, 2)
-        docs = sorted(
-            merged.values(),
-            key=lambda d: d.metadata.get("similarity", 0.0),
-            reverse=True
-        )
+        docs = self._sort_and_limit_by_similarity(merged, top_k)
         
         metrics["cache_hit"] = cache_hit
         metrics["retrieved"] = len(docs)
@@ -521,4 +538,4 @@ class Retriever:
             self.cache.set_json(cache_key, self._serialize_documents(docs))
         
         self.last_expansion_metrics = metrics
-        return docs[:top_k]
+        return docs
