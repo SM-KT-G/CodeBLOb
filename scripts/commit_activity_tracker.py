@@ -10,6 +10,7 @@ from __future__ import annotations
 
 import argparse
 from collections import defaultdict
+import csv
 from dataclasses import dataclass
 from datetime import date, datetime
 from pathlib import Path
@@ -40,6 +41,10 @@ def parse_args() -> argparse.Namespace:
         "--branch",
         default=None,
         help="Optional branch to inspect (defaults to current HEAD)",
+    )
+    parser.add_argument(
+        "--csv-output",
+        help="Optional file path to export the daily summary as CSV",
     )
     return parser.parse_args()
 
@@ -150,6 +155,18 @@ def print_author_totals(totals: Sequence[Tuple[str, int]]) -> None:
     print("-" * 60)
 
 
+def write_csv(summaries: Iterable[DailySummary], destination: Path) -> None:
+    """Persist daily summaries to a CSV file."""
+    destination = destination.expanduser()
+    destination.parent.mkdir(parents=True, exist_ok=True)
+    with destination.open("w", newline="") as csvfile:
+        writer = csv.writer(csvfile)
+        writer.writerow(["date", "author", "commit_count"])
+        for summary in summaries:
+            writer.writerow([summary.day.isoformat(), summary.author, summary.count])
+    print(f"Wrote CSV summary to {destination}")
+
+
 def main() -> None:
     """Parse CLI arguments and perform light validation."""
     args = parse_args()
@@ -159,6 +176,8 @@ def main() -> None:
     summaries = summarize_by_day(commits)
     if summaries:
         print_summary(summaries)
+        if args.csv_output:
+            write_csv(summaries, Path(args.csv_output))
     else:
         print("No commits to summarize.")
     totals = summarize_author_totals(commits)
