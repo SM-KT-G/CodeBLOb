@@ -43,6 +43,11 @@ def parse_args() -> argparse.Namespace:
         help="Optional branch to inspect (defaults to current HEAD)",
     )
     parser.add_argument(
+        "--include-merges",
+        action="store_true",
+        help="Include merge commits in the results",
+    )
+    parser.add_argument(
         "--csv-output",
         help="Optional file path to export the daily summary as CSV",
     )
@@ -73,6 +78,8 @@ def build_git_log_command(repo_path: Path, args: argparse.Namespace) -> List[str
         "--date=iso8601-strict",
         "--pretty=format:%H|%an|%ad",
     ]
+    if not args.include_merges:
+        cmd.append("--no-merges")
     if args.start_date:
         cmd.append(f"--since={args.start_date}")
     if args.end_date:
