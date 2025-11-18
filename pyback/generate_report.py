@@ -1,6 +1,11 @@
-if __name__ == "__main__":
-    print("계산을 시작합니다.")
-    # 아래 내용 추가
-    num1 = float(input("첫 번째 숫자를 입력하세요: "))
-    operator = input("연산자(+, -, *, /)를 입력하세요: ")
-    num2 = float(input("두 번째 숫자를 입력하세요: "))
+# 입력받는 코드 아래에 추가
+    if operator == "+":
+        print("결과:", add(num1, num2))
+    elif operator == "-":
+        print("결과:", subtract(num1, num2))
+    elif operator == "*":
+        print("결과:", multiply(num1, num2))
+    elif operator == "/":
+        print("결과:", divide(num1, num2))
+    else:
+        print("잘못된 연산자입니다.")
