@@ -1,8 +1,8 @@
 # TypeScript Disaster Alert helpers
 
-This folder contains a minimal service/controller/router trio that calls the SafetyData disaster alert API (`DSSP-IF-00247`) and returns the JSON payload.
+This folder contains a minimal service/controller/router trio that calls the SafetyData disaster alert API (`DSSP-IF-00247`) and returns the JSON payload. Environment variables are loaded via `dotenv`.
 
-- Set `SAFETYDATA_SERVICE_KEY` in your environment (see `.env.sample`).
+- Copy `.env.sample` to `.env` and set `SAFETYDATA_SERVICE_KEY` (Decoding key) at the repo root.
 - Mount `disasterRouter` in an Express app, e.g. `app.use("/disaster", disasterRouter);`.
 - Optional query params forwarded to the API: `serviceKey`, `returnType`, `pageNo`, `numOfRows`.
 
