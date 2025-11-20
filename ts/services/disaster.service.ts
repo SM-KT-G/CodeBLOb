@@ -1,4 +1,3 @@
-import "dotenv/config";
 import axios, { AxiosInstance } from "axios";
 import https from "https";
 
