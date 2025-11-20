@@ -34,3 +34,5 @@ export class DisasterService {
     return { status: response.status, data: response.data };
   }
 }
+
+export default DisasterService;
