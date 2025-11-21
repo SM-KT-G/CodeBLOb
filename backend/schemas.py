@@ -213,7 +213,6 @@ class ItineraryStructuredResponse(BaseModel):
 class ChatRequest(BaseModel):
     """통합 채팅 요청"""
     text: str = Field(..., min_length=1, description="사용자 메시지")
-    session_id: Optional[str] = Field(default=None, description="세션 ID (선택적)")
     
     @field_validator("text")
     @classmethod
