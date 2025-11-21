@@ -35,7 +35,6 @@ from backend.rag_chain import (
 from backend.cache import init_cache_from_env
 from backend.itinerary import ItineraryPlanner
 from backend.unified_chat import UnifiedChatHandler
-from backend.chat_history import ChatHistoryManager
 from backend.utils.logger import setup_logger, log_exception
 
 # 환경 변수 로드
@@ -103,17 +102,8 @@ async def lifespan(app: FastAPI):
             llm_model=app.state.llm_model,
         )
         
-        # ChatHistoryManager 초기화
-        chat_history = ChatHistoryManager(
-            host=os.getenv("MARIADB_HOST", "localhost"),
-            user=os.getenv("MARIADB_USER", "root"),
-            password=os.getenv("MARIADB_PASSWORD", ""),
-            database=os.getenv("MARIADB_DATABASE", "tourism_db")
-        )
-        
         # UnifiedChatHandler 초기화
         app.state.unified_chat_handler = UnifiedChatHandler(
-            chat_history=chat_history,
             retriever=app.state.retriever,
             itinerary_recommender=app.state.itinerary_planner
         )
@@ -382,13 +372,10 @@ async def unified_chat(request: ChatRequest):
     Function Calling으로 일반 대화, RAG 검색, 여행 일정을 하나로 처리
     
     Args:
-        request: 채팅 요청 (text, session_id)
+        request: 채팅 요청 (text)
     
     Returns:
-        응답 (response_type에 따라 다름)
-        - chat: {"response_type": "chat", "message": "..."}
-        - search: {"response_type": "search", "message": "...", "places": [...]}
-        - itinerary: {"response_type": "itinerary", "message": "...", "itinerary": {...}}
+        응답
     """
     try:
         handler: UnifiedChatHandler = app.state.unified_chat_handler
