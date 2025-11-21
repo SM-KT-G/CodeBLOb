@@ -37,7 +37,7 @@ class LLMClient:
             api_key: OpenAI API 키 (None이면 환경변수에서 로드)
             timeout: API 호출 타임아웃 (초)
         """
-        self.model = model_name or os.getenv("OPENAI_MODEL", "gpt-4o-mini")
+        self.model = model_name or os.getenv("OPENAI_MODEL", "gpt-4o")
         self.timeout = timeout
         
         api_key = api_key or os.getenv("OPENAI_API_KEY")

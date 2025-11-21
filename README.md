@@ -1,15 +1,15 @@
 # FastAPI RAG Backend
 
-한국 관광 정보를 일본어로 제공하는 Retrieval-Augmented Generation 백엔드입니다. FastAPI와 PostgreSQL(pgvector)을 기반으로 parent-child 청크 구조, Query Expansion, Redis 캐시를 활용해 빠르고 정확한 응답을 제공합니다.
+한국 관광 정보를 일본어로 제공하는 Retrieval-Augmented Generation 백엔드입니다. FastAPI와 PostgreSQL(pgvector)을 기반으로 parent-child 청크 구조와 Query Expansion을 활용해 빠르고 정확한 응답을 제공합니다.
 
 ---
 
 ## 주요 기능
 
 ### 1. 통합 채팅 시스템 ✨ NEW (2025-11-17)
-- **POST /chat**: 하나의 엔드포인트로 모든 대화 처리
-- **Function Calling**: 사용자 의도 자동 파악 (일반 대화 / RAG 검색 / 여행 일정)
-- **Structured Outputs**: 100% JSON 보장 (gpt-4o-mini)
+- **POST /chat**: 하나의 엔드포인트로 일반 대화 + 장소 검색 처리
+- **Function Calling**: 사용자 의도 자동 파악 (일반 대화 / RAG 검색)
+- **Structured Outputs**: 100% JSON 보장 (gpt-4o-mini) — 일정 생성은 `/recommend/itinerary`에서만 지원
 - **채팅 기록**: MariaDB에 세션별 대화 영구 저장
 - **컨텍스트 관리**: 이전 대화를 기억하고 후속 질문에 활용
 
@@ -17,14 +17,14 @@
 - **LangChain 기반 RAG 체인**: Retriever → LLM 체인으로 답변·출처·지연시간을 반환
 - **Parent/Child QA 스키마**: tourism_parent/child 테이블에 풍부한 메타데이터를 저장해 domain/area 필터링 지원
 - **Query Expansion**: JSON 설정 파일로 구두점 제거·접미어·사용자 변형을 관리하고, 변형별 성공/실패 지표를 로깅
-- **Redis 캐시**: 동일 쿼리/Query Expansion 결과를 TTL 기반으로 캐싱해 응답 속도 향상 (옵션)
+- **캐시 없이 단순화**: Redis 의존성을 제거해 운영 구성을 단순화했습니다.
 
 ### 3. 여행 일정 추천
 - **Query Expansion + LLM**: 지역/도메인/테마에 맞는 맞춤형 여행 일정을 자동 생성
 - **Structured Outputs**: 100% 유효한 JSON 일정 반환
 
 ### 4. 운영 및 모니터링
-- **헬스 체크**: `/health` 엔드포인트에서 API/DB/LLM/Redis 상태를 보고하고 degraded 상태 감지
+- **헬스 체크**: `/health` 엔드포인트에서 API/DB/LLM 상태를 보고하고 degraded 상태 감지
 - **테스트 스위트**: FastAPI TestClient 기반 통합 테스트 15/15 통과 (2분 18초)
 
 ---
@@ -36,7 +36,6 @@
 | Backend | FastAPI 0.115.5, Python 3.10+ |
 | Database | PostgreSQL 17 + pgvector, MariaDB 10.11 |
 | LLM & 임베딩 | OpenAI gpt-4o-mini (Function Calling + Structured Outputs), intfloat/multilingual-e5-small (384d) |
-| 캐시 | Redis 7.2 (옵션) |
 | 테스트/품질 | pytest + pytest-asyncio, httpx, black, ruff |
 
 ---
@@ -45,7 +44,6 @@
 
 ```
 backend/
-  cache.py              # Redis 캐시 유틸
   main.py               # FastAPI 엔트리포인트
   retriever.py          # PGVector 쿼리 + Query Expansion + 캐시
   query_expansion.py    # 설정 로드 + 변형 생성 헬퍼
@@ -72,7 +70,6 @@ tests/                  # FastAPI/Query Expansion/RAG 테스트
 - Python 3.10+
 - PostgreSQL 17 + pgvector (Docker Compose로 실행 가능)
 - MariaDB 10.11+ (채팅 기록 저장용)
-- Redis 7.2 (선택 사항 · 캐시 사용 시)
 
 ---
 
@@ -89,7 +86,7 @@ cp .env.example .env
 # 3) (옵션) Query Expansion 설정 변경
 # config/query_expansion.json 수정 또는 QUERY_EXPANSION_CONFIG_PATH 지정
 
-# 4) DB/Redis (Docker) 실행
+# 4) DB (Docker) 실행
 docker-compose up -d
 
 # 5) FastAPI 서버 실행
@@ -114,8 +111,6 @@ uvicorn backend.main:app --reload
 | `MARIADB_USER` | MariaDB 사용자명 |
 | `MARIADB_PASSWORD` | MariaDB 비밀번호 |
 | `MARIADB_DATABASE` | MariaDB 데이터베이스 이름 |
-| `REDIS_URL` | Redis 접속 URL (없으면 캐시 비활성화) |
-| `REDIS_TTL` | 캐시 TTL(초, 기본 300) |
 | `LOG_LEVEL` | 로깅 레벨 (INFO/DEBUG 등) |
 | `QUERY_EXPANSION_CONFIG_PATH` | Query Expansion JSON 파일 경로(선택) |
 
@@ -149,23 +144,20 @@ uvicorn backend.main:app --reload
 - 에러 핸들링 및 로깅
 
 #### `backend/unified_chat.py`
-- **통합 채팅 핸들러**: Function Calling으로 사용자 의도 자동 파악
+- **통합 채팅 핸들러**: Function Calling으로 사용자 의도 자동 파악 (일반 대화/검색 전용)
 - `_handle_general_chat()`: 일반 대화 처리
 - `_handle_search_places()`: RAG 검색 (Retriever 연동)
-- `_handle_create_itinerary()`: 여행 일정 생성 (Structured Outputs 사용)
 - 단일 세션·무저장 모드 (Node가 저장/세션 관리)
 
 #### `backend/function_tools.py`
 - **Function Calling 도구 정의**
-- `SEARCH_PLACES_TOOL`: 장소 검색 함수
-- `CREATE_ITINERARY_TOOL`: 여행 일정 생성 함수
+- `SEARCH_PLACES_TOOL`: 장소 검색 함수 (유일한 도구)
 - OpenAI Function Calling 스키마
 
 #### `backend/retriever.py`
 - PGVector 기반 벡터 검색
 - HuggingFace `intfloat/multilingual-e5-small` 임베딩
 - Query Expansion 통합
-- Redis 캐시 연동
 - 연결 풀 관리
 
 #### `backend/query_expansion.py`
@@ -193,11 +185,6 @@ uvicorn backend.main:app --reload
 - **ItineraryStructuredResponse**: Structured Outputs용 스키마 (message + itinerary)
 - HealthCheckResponse
 - 데이터 검증 및 직렬화
-
-#### `backend/cache.py`
-- Redis 캐시 유틸리티
-- TTL 기반 캐싱
-- 환경변수로 활성화/비활성화
 
 #### `backend/db/connect.py`
 - PostgreSQL 연결 풀 관리
@@ -282,13 +269,10 @@ python -m pytest
 ### 1. 통합 채팅 ✨ NEW (2025-11-17)
 **POST /chat**
 - **요청**: `ChatRequest` (text)
-- **응답**: 사용자 의도에 따라 3가지 타입
-  - `response_type: "chat"` → 일반 대화 응답
-  - `response_type: "search"` → RAG 장소 검색 결과 (answer, sources, latency_ms)
-  - `response_type: "itinerary"` → 여행 일정 JSON (message + itinerary)
+- **응답**: 일반 대화 또는 장소 검색 응답 (response_type 없이 message/places 반환)
 - **기능**:
   - Function Calling으로 의도 자동 파악
-  - 채팅 기록 자동 저장 (MariaDB)
+  - (채팅 기록 저장 필요 시 별도 서비스에서 관리)
   - 이전 대화 컨텍스트 활용
 - **예시**:
   ```bash
@@ -301,11 +285,6 @@ python -m pytest
   curl -X POST http://localhost:8000/chat \
     -H "Content-Type: application/json" \
     -d '{"text": "서울 맛집 추천해줘"}'
-  
-  # 여행 일정
-  curl -X POST http://localhost:8000/chat \
-    -H "Content-Type: application/json" \
-    -d '{"text": "서울 1박 2일 여행 일정 짜줘"}'
   ```
 
 ### 2. RAG 검색 (기존)
@@ -317,25 +296,25 @@ python -m pytest
   - PGVector 벡터 검색
   - LangChain RAG 체인
 - **예시**:
-  ```bash
-  curl -X POST http://localhost:8000/rag/query \
-    -H "Content-Type: application/json" \
-    -d '{"query": "서울 역사 관광지", "top_k": 5, "domain": "HIS", "area": "서울"}'
-  ```
+```bash
+curl -X POST http://localhost:8000/rag/query \
+  -H "Content-Type: application/json" \
+  -d '{"query": "서울 역사 관광지", "top_k": 5, "domain": "HIS", "area": "서울"}'
+```
 
 ### 3. 여행 일정 추천
-**POST /recommend/itinerary**
+**POST /recommend/itinerary** (또는 **POST /recommend**)
 - **요청**: `ItineraryRecommendationRequest` (region, domains, duration_days, themes, budget_level 등)
 - **응답**: `ItineraryRecommendationResponse` (itineraries 배열, metadata)
 - **기능**:
   - Query Expansion으로 도메인별 후보 수집
   - LLM 기반 일정 생성 (Structured Outputs)
 - **예시**:
-  ```bash
-  curl -X POST http://localhost:8000/recommend/itinerary \
+```bash
+  curl -X POST http://localhost:8000/recommend \
     -H "Content-Type: application/json" \
     -d '{"region": "서울", "domains": ["FOOD", "NAT"], "duration_days": 2}'
-  ```
+```
 
 ### 4. 헬스 체크
 **GET /health**

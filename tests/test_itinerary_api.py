@@ -50,7 +50,6 @@ def test_itinerary_endpoint_returns_plans(monkeypatch):
 
     monkeypatch.setattr(main_module, "Retriever", lambda db_url, **_: DummyRetriever(db_url))
     monkeypatch.setattr(main_module, "ItineraryPlanner", lambda retriever, **_: DummyPlanner(retriever))
-    monkeypatch.setattr(main_module, "init_cache_from_env", lambda: None)
 
     with TestClient(app) as client:
         response = client.post(
@@ -120,7 +119,6 @@ def test_itinerary_accepts_japanese_input(monkeypatch):
 
     monkeypatch.setattr(main_module, "Retriever", lambda db_url, **_: DummyRetriever(db_url))
     monkeypatch.setattr(main_module, "ItineraryPlanner", lambda retriever, **_: DummyPlanner(retriever))
-    monkeypatch.setattr(main_module, "init_cache_from_env", lambda: None)
 
     with TestClient(app) as client:
         response = client.post(
@@ -187,3 +185,51 @@ def test_llm_prompt_should_be_in_japanese(monkeypatch):
     assert "ソウル" in prompt
     assert "グルメ" in prompt
 
+
+def test_recommend_alias_returns_plans(monkeypatch):
+    """신규 /recommend 엔드포인트가 기존 일정 응답을 반환한다."""
+    monkeypatch.setenv("OPENAI_API_KEY", "test")
+    monkeypatch.setenv("DATABASE_URL", "postgresql://user:pass@localhost:5432/db")
+
+    class DummyRetriever:
+        def __init__(self, db_url: str, **_):
+            self.db_url = db_url
+
+        def close(self):
+            return None
+
+    class DummyPlanner:
+        def __init__(self, retriever):
+            self.retriever = retriever
+
+        def recommend(self, request):
+            return {
+                "itineraries": [
+                    {
+                        "title": "서울 1일 추천",
+                        "summary": "샘플",
+                        "days": [{"day": 1, "segments": []}],
+                        "highlights": [],
+                        "metadata": {"region": "서울"},
+                    }
+                ],
+                "metadata": {"generated_count": 1, "region": "서울"},
+            }
+
+    monkeypatch.setattr(main_module, "Retriever", lambda db_url, **_: DummyRetriever(db_url))
+    monkeypatch.setattr(main_module, "ItineraryPlanner", lambda retriever, **_: DummyPlanner(retriever))
+
+    with TestClient(app) as client:
+        resp = client.post(
+            "/recommend",
+            json={
+                "region": "서울",
+                "domains": ["food"],
+                "duration_days": 1,
+            },
+        )
+
+    assert resp.status_code == 200
+    data = resp.json()
+    assert data["metadata"]["region"] == "서울"
+    assert data["itineraries"][0]["title"] == "서울 1일 추천"

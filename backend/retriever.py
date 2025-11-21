@@ -3,7 +3,6 @@
 tourism_child 테이블 직접 검색
 """
 import asyncio
-import json
 import os
 import time
 from typing import Any, Dict, List, Optional
@@ -14,7 +13,6 @@ from langchain.schema import Document
 
 from backend.utils.logger import setup_logger, log_exception
 from backend.query_expansion import generate_variations
-from backend.cache import RedisCache
 
 
 logger = setup_logger()
@@ -30,7 +28,6 @@ class Retriever:
         db_url: str,
         embedding_model: str = "intfloat/multilingual-e5-small",
         embeddings_client = None,
-        cache: Optional[RedisCache] = None,
     ):
         """
         초기화
@@ -44,7 +41,6 @@ class Retriever:
             logger.info(f"Retriever 초기화 중... (모델: {embedding_model})")
             
             self.db_url = db_url
-            self.cache = cache
             self.last_expansion_metrics: Optional[Dict[str, Any]] = None
             
             # Connection Pool 초기화 (min 2, max 10 connections)
@@ -194,32 +190,6 @@ class Retriever:
         
         return documents
 
-    @staticmethod
-    def _serialize_documents(docs: List[Document]) -> List[dict]:
-        """Document 객체를 캐싱 가능한 형태로 변환"""
-        serialized = []
-        for doc in docs:
-            serialized.append(
-                {
-                    "page_content": doc.page_content,
-                    "metadata": doc.metadata,
-                }
-            )
-        return serialized
-
-    @staticmethod
-    def _deserialize_documents(payload: List[dict]) -> List[Document]:
-        """캐시 페이로드를 Document 리스트로 변환"""
-        documents = []
-        for item in payload:
-            documents.append(
-                Document(
-                    page_content=item["page_content"],
-                    metadata=item["metadata"],
-                )
-            )
-        return documents
-    
     def search(
         self,
         query: str,
@@ -250,22 +220,6 @@ class Retriever:
             self.last_expansion_metrics = None
             logger.info(f"문서 검색 시작: query='{query[:50]}...', top_k={top_k}, domain={domain}, area={area}")
 
-            cache_key = None
-            if self.cache:
-                cache_key = self.cache.make_key(
-                    "search",
-                    [
-                        query.strip(),
-                        str(top_k),
-                        domain or "*",
-                        area or "*",
-                    ],
-                )
-                cached_payload = self.cache.get_json(cache_key)
-                if cached_payload:
-                    logger.info("Search cache hit")
-                    return self._deserialize_documents(cached_payload)
-            
             # 쿼리 임베딩 생성
             query_embedding = self._embed_query(query)
             
@@ -279,9 +233,6 @@ class Retriever:
             documents = self._rows_to_documents(rows)
             
             logger.info(f"검색 완료: {len(documents)}개 문서 반환")
-
-            if self.cache and cache_key:
-                self.cache.set_json(cache_key, self._serialize_documents(documents))
             
             return documents
         
@@ -389,29 +340,6 @@ class Retriever:
             "failure_count": 0,
         }
 
-        cache_key = None
-        cache_hit = False
-        if self.cache:
-            variations_key = json.dumps(vars_to_try, ensure_ascii=False)
-            cache_key = self.cache.make_key(
-                "search_expansion",
-                [
-                    variations_key,
-                    str(top_k),
-                    domain or "*",
-                    area or "*",
-                ],
-            )
-            cached_results = self.cache.get_json(cache_key)
-            if cached_results:
-                logger.info("Query Expansion cache hit")
-                cache_hit = True
-                metrics["cache_hit"] = True
-                metrics["retrieved"] = len(cached_results)
-                metrics["duration_ms"] = 0.0
-                self.last_expansion_metrics = metrics
-                return self._deserialize_documents(cached_results)
-
         # 결과 수집: key by document_id (metadata.document_id)
         all_results = []
         start_time = time.perf_counter()
@@ -433,12 +361,9 @@ class Retriever:
         duration_ms = round((time.perf_counter() - start_time) * 1000, 2)
         docs = self._sort_and_limit_by_similarity(merged, top_k)
         
-        metrics["cache_hit"] = cache_hit
         metrics["retrieved"] = len(docs)
         metrics["duration_ms"] = duration_ms
         logger.info(f"Query Expansion metrics: {metrics}")
-        if self.cache and cache_key:
-            self.cache.set_json(cache_key, self._serialize_documents(docs))
         self.last_expansion_metrics = metrics
         return docs
 
@@ -478,29 +403,6 @@ class Retriever:
             "failure_count": 0,
         }
 
-        cache_key = None
-        cache_hit = False
-        if self.cache:
-            variations_key = json.dumps(vars_to_try, ensure_ascii=False)
-            cache_key = self.cache.make_key(
-                "search_expansion_async",
-                [
-                    variations_key,
-                    str(top_k),
-                    domain or "*",
-                    area or "*",
-                ],
-            )
-            cached_results = self.cache.get_json(cache_key)
-            if cached_results:
-                logger.info("Query Expansion async cache hit")
-                cache_hit = True
-                metrics["cache_hit"] = True
-                metrics["retrieved"] = len(cached_results)
-                metrics["duration_ms"] = 0.0
-                self.last_expansion_metrics = metrics
-                return self._deserialize_documents(cached_results)
-
         # 병렬 검색 실행
         start_time = time.perf_counter()
         
@@ -532,13 +434,9 @@ class Retriever:
         duration_ms = round((time.perf_counter() - start_time) * 1000, 2)
         docs = self._sort_and_limit_by_similarity(merged, top_k)
         
-        metrics["cache_hit"] = cache_hit
         metrics["retrieved"] = len(docs)
         metrics["duration_ms"] = duration_ms
         logger.info(f"Query Expansion async metrics: {metrics}")
-        
-        if self.cache and cache_key:
-            self.cache.set_json(cache_key, self._serialize_documents(docs))
         
         self.last_expansion_metrics = metrics
         return docs

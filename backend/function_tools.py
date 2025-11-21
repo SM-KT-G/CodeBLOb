@@ -17,10 +17,20 @@ SEARCH_PLACES_TOOL = {
                     "type": "string",
                     "description": "地域名 (例: ソウル、明洞、弘大)"
                 },
+                "area": {
+                    "type": "string",
+                    "description": "地域名の別名 (regionと同じ意味)"
+                },
                 "domain": {
                     "type": "string",
                     "enum": ["food", "shop", "his", "nat", "lei", "stay"],
                     "description": "カテゴリー"
+                },
+                "top_k": {
+                    "type": "integer",
+                    "description": "返却する件数 (1~10)",
+                    "minimum": 1,
+                    "maximum": 10
                 }
             },
             "required": ["query"]
@@ -28,46 +38,7 @@ SEARCH_PLACES_TOOL = {
     }
 }
 
-# 여행 일정 생성 함수
-CREATE_ITINERARY_TOOL = {
-    "type": "function",
-    "function": {
-        "name": "create_itinerary",
-        "description": "韓国旅行の日程プランを作成します",
-        "parameters": {
-            "type": "object",
-            "properties": {
-                "region": {
-                    "type": "string",
-                    "description": "旅行地域 (例: ソウル、釜山)"
-                },
-                "duration_days": {
-                    "type": "integer",
-                    "description": "旅行日数",
-                    "minimum": 1,
-                    "maximum": 7
-                },
-                "domains": {
-                    "type": "array",
-                    "items": {
-                        "type": "string",
-                        "enum": ["food", "shop", "his", "nat", "lei", "stay"]
-                    },
-                    "description": "興味のあるカテゴリーリスト"
-                },
-                "themes": {
-                    "type": "array",
-                    "items": {"type": "string"},
-                    "description": "旅行テーマ (例: インスタ映え、グルメ、歴史)"
-                }
-            },
-            "required": ["region", "duration_days"]
-        }
-    }
-}
-
 # 모든 도구 리스트
 ALL_TOOLS = [
-    SEARCH_PLACES_TOOL,
-    CREATE_ITINERARY_TOOL
+    SEARCH_PLACES_TOOL
 ]

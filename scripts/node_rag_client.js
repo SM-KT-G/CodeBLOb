@@ -6,19 +6,17 @@
 const fetch = require('node-fetch');
 
 /**
- * 통합 채팅 엔드포인트 (권장)
- * 자동으로 의도를 파악하고 적절히 응답합니다.
+ * 통합 채팅 엔드포인트 (대화/검색 전용)
  */
 async function chat(opts = {}) {
   const {
     host = 'http://localhost:8000',
     text,
-    session_id = 'default-session',
   } = opts;
 
   if (!text) throw new Error('text is required');
 
-  const body = { text, session_id };
+  const body = { text };
 
   const res = await fetch(`${host}/chat`, {
     method: 'POST',
@@ -76,30 +74,76 @@ async function queryRag(opts = {}) {
   return res.json();
 }
 
+/**
+ * 여행 일정 추천 엔드포인트
+ * POST /recommend (alias of /recommend/itinerary)
+ */
+async function recommendItinerary(opts = {}) {
+  const {
+    host = 'http://localhost:8000',
+    region,
+    domains = [],
+    duration_days,
+    themes = [],
+    transport_mode = null,
+    budget_level = null,
+  } = opts;
+
+  if (!region) throw new Error('region is required');
+  if (!domains.length) throw new Error('domains is required');
+  if (!duration_days) throw new Error('duration_days is required');
+
+  const body = {
+    region,
+    domains,
+    duration_days,
+    themes,
+    transport_mode,
+    budget_level,
+  };
+
+  const res = await fetch(`${host}/recommend`, {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify(body),
+  });
+
+  if (!res.ok) {
+    const txt = await res.text();
+    throw new Error(`Server error ${res.status}: ${txt}`);
+  }
+
+  return res.json();
+}
+
 // CLI example
 if (require.main === module) {
   const args = process.argv.slice(2);
-  const mode = args[0] || 'chat'; // 'chat' or 'rag'
+  const mode = args[0] || 'chat'; // 'chat' or 'rag' or 'recommend'
   const input = args[1] || 'こんにちは';
 
   (async () => {
     try {
       if (mode === 'chat') {
         console.log(`[통합 채팅] "${input}"`);
-        const resp = await chat({ text: input, session_id: 'cli-session' });
+        const resp = await chat({ text: input });
         console.log(JSON.stringify(resp, null, 2));
-        
-        // 응답 타입별 간단 출력
-        console.log('\n--- 요약 ---');
-        console.log('타입:', resp.response_type);
-        if (resp.response_type === 'search') {
-          console.log('장소 수:', resp.places?.length || 0);
-        } else if (resp.response_type === 'itinerary') {
-          console.log('일정:', resp.itinerary?.title);
+        if (resp.places?.length) {
+          console.log('\n--- 장소 검색 결과 ---');
+          console.log('장소 수:', resp.places.length);
         }
-      } else {
+      } else if (mode === 'rag') {
         console.log(`[RAG 검색] "${input}"`);
         const resp = await queryRag({ question: input, top_k: 3, expansion: true });
+        console.log(JSON.stringify(resp, null, 2));
+      } else if (mode === 'recommend') {
+        console.log(`[일정 추천] "${input}"`);
+        const resp = await recommendItinerary({
+          region: input,
+          domains: ['food', 'nat'],
+          duration_days: 2,
+          themes: ['グルメ'],
+        });
         console.log(JSON.stringify(resp, null, 2));
       }
     } catch (e) {
@@ -109,4 +153,4 @@ if (require.main === module) {
   })();
 }
 
-module.exports = { chat, queryRag };
+module.exports = { chat, queryRag, recommendItinerary };

@@ -20,20 +20,6 @@ services:
       retries: 5
     restart: unless-stopped
 
-  redis:
-    image: redis:7-alpine
-    container_name: tourism_redis
-    ports:
-      - "6379:6379"
-    volumes:
-      - redis_data:/data
-    healthcheck:
-      test: ["CMD", "redis-cli", "ping"]
-      interval: 5s
-      timeout: 3s
-      retries: 5
-    restart: unless-stopped
-
   mariadb:
     image: mariadb:10.11
     container_name: tourism_mariadb
@@ -77,18 +63,12 @@ services:
       MARIADB_PASSWORD: tourism_pass
       MARIADB_DATABASE: tourism_db
       
-      # Redis (캐시)
-      REDIS_HOST: redis
-      REDIS_PORT: 6379
-      
       # 로그 레벨
       LOG_LEVEL: INFO
     ports:
       - "8000:8000"
     depends_on:
       postgres:
-        condition: service_healthy
-      redis:
         condition: service_healthy
       mariadb:
         condition: service_healthy
@@ -102,8 +82,6 @@ services:
 
 volumes:
   postgres_data:
-    driver: local
-  redis_data:
     driver: local
   mariadb_data:
     driver: local

@@ -31,18 +31,16 @@
 - `backend/schemas.py`: Pydantic 기반 도메인 Enum과 요청/응답 스키마 정의.
   - RAGQueryRequest/Response: RAG 검색 요청/응답
   - ChatRequest: 통합 채팅 요청 (text 단일 필드)
-  - ItineraryDay/Data/StructuredResponse: 여행 일정 Structured Outputs 스키마
+  - ItineraryDay/Data/StructuredResponse: 여행 일정 Structured Outputs 스키마 (추천 API에서 사용)
   - HealthCheckResponse, ErrorResponse: 헬스체크 및 에러 응답
 - `backend/unified_chat.py`: 통합 채팅 핸들러. Function Calling으로 사용자 의도 자동 파악.
   - _handle_general_chat(): 일반 대화 처리
   - _handle_search_places(): RAG 검색 (Retriever 연동, Document → dict 변환)
-  - _handle_create_itinerary(): 여행 일정 생성 (Structured Outputs 사용)
   - handle_chat(): 메인 처리 로직 (Function Calling 자동 감지 및 실행)
 - `backend/function_tools.py`: Function Calling 도구 정의.
   - search_places: 장소 검색 함수 스키마
-  - create_itinerary: 여행 일정 생성 함수 스키마
   - ALL_TOOLS: OpenAI Function Calling에 전달할 도구 목록
-- `backend/itinerary.py`: ItineraryPlanner 클래스. 여행 일정 생성 로직 (현재는 UnifiedChatHandler에서 직접 LLMClient 사용).
+- `backend/itinerary.py`: ItineraryPlanner 클래스. 여행 일정 생성 로직 (추천 전용 API에서 사용).
 
 ### 데이터베이스 패키지 (`backend/db/`)
 - `backend/db/__init__.py`: DB 하위 패키지 초기화.
@@ -69,9 +67,9 @@
 - `docs/RAG_PIPELINE_ARCHITECTURE.md`: 시스템 구성도, 데이터 플로우, 개선안.
 - `docs/EMBEDDING_PLAN.md`: 임베딩 모델 비교, 파이프라인, 배치 전략, 체크포인트 정책.
 - `docs/API_INTEGRATION_FOR_NODE.md`: Node.js 팀을 위한 API 연동 가이드.
-  - **POST /chat**: 통합 채팅 엔드포인트 (일반 대화 + RAG 검색 + 여행 일정)
+  - **POST /chat**: 통합 채팅 엔드포인트 (일반 대화 + RAG 검색)
   - **POST /rag/query**: RAG 검색 전용 엔드포인트
-  - response_type별 응답 스키마 (chat, search, itinerary, error)
+  - response_type별 응답 스키마 (chat, search, error)
   - curl 및 Node.js fetch 예제
   - 비교표 (/chat vs /rag/query)
 - `docs/openapi_rag.yaml`: OpenAPI 3.0 명세. `/rag/query` 요청/응답 스키마와 예시.
@@ -133,10 +131,9 @@
   - test_generate_structured_returns_pydantic_model: Pydantic 모델 반환 검증
   - test_structured_response_always_valid_json: 2번 반복 실행 (100% JSON 보장)
   - test_structured_output_has_greeting_message: 인사 메시지 포함 검증
-- `tests/test_chat_integration.py`: 통합 채팅 API 테스트. **4/4 PASSED ✅** (response_type 제거 버전)
+- `tests/test_chat_integration.py`: 통합 채팅 API 테스트. **3/3 PASSED ✅** (response_type 제거 버전)
   - test_chat_endpoint_general_conversation: POST /chat 일반 대화
   - test_chat_endpoint_search_places: POST /chat RAG 검색
-  - test_chat_endpoint_create_itinerary: POST /chat 여행 일정
   - test_chat_endpoint_invalid_request: 잘못된 요청 검증
 - `tests/test_response_fixtures.py`: 테스트용 응답 fixture 정의.
 
@@ -160,11 +157,11 @@
 ### 2. 통합 채팅 시스템 (Function Calling)
 - **통합 핸들러**: `backend/unified_chat.py`
 - **Function 정의**: `backend/function_tools.py`
-- **Structured Outputs**: `backend/llm_base.py` (generate_structured)
-- **스키마**: `backend/schemas.py` (ChatRequest, ItineraryStructuredResponse)
+- **Structured Outputs**: `backend/llm_base.py` (generate_structured) — 일정 생성은 별도 API 사용
+- **스키마**: `backend/schemas.py` (ChatRequest)
 - **API**: `backend/main.py` (POST /chat)
 - **세션/저장**: Node에서 관리 (백엔드는 응답만 반환)
-- **테스트**: `tests/test_itinerary_structured.py`, `tests/test_chat_integration.py`
+- **테스트**: `tests/test_chat_integration.py`
 
 ### 3. RAG 검색 전용 (고급 제어)
 - **API**: `backend/main.py` (POST /rag/query)

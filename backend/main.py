@@ -11,9 +11,39 @@ from typing import Any, Optional
 from fastapi import FastAPI, HTTPException, Request, status
 from fastapi.responses import JSONResponse
 from dotenv import load_dotenv
-from prometheus_client import Counter, Histogram, Gauge, generate_latest, CONTENT_TYPE_LATEST
+try:
+    from prometheus_client import Counter, Histogram, Gauge, generate_latest, CONTENT_TYPE_LATEST
+    from prometheus_fastapi_instrumentator import Instrumentator
+except ImportError:  # pragma: no cover - 옵셔널 의존성 미설치 시 대체
+    class _NoOpMetric:
+        def __init__(self, *_, **__):
+            pass
+
+        def labels(self, *_, **__):
+            return self
+
+        def observe(self, *_, **__):
+            return None
+
+        def inc(self, *_, **__):
+            return None
+
+        def dec(self, *_, **__):
+            return None
+
+    class _NoOpInstrumentator:
+        def instrument(self, app):
+            return self
+
+        def expose(self, app, endpoint="/metrics"):
+            return self
+
+    Counter = Histogram = Gauge = _NoOpMetric
+    generate_latest = lambda *_, **__: b""  # type: ignore[var-annotated]
+    CONTENT_TYPE_LATEST = "text/plain"
+    Instrumentator = _NoOpInstrumentator  # type: ignore[assignment]
+
 from fastapi.responses import Response
-from prometheus_fastapi_instrumentator import Instrumentator
 
 from backend.schemas import (
     RAGQueryRequest,
@@ -32,7 +62,6 @@ from backend.rag_chain import (
     process_rag_response,
     remove_parent_summary,
 )
-from backend.cache import init_cache_from_env
 from backend.itinerary import ItineraryPlanner
 from backend.unified_chat import UnifiedChatHandler
 from backend.utils.logger import setup_logger, log_exception
@@ -42,6 +71,11 @@ load_dotenv()
 
 # 로거 설정
 logger = setup_logger(level=os.getenv("LOG_LEVEL", "INFO"))
+
+
+def init_cache_from_env():
+    """캐시 초기화 플레이스홀더 (테스트 호환용)"""
+    return None
 
 # Prometheus 메트릭 정의
 rag_query_duration = Histogram(
@@ -55,9 +89,6 @@ query_expansion_duration = Histogram(
     'Query Expansion 실행 시간 (초)',
     buckets=[0.05, 0.1, 0.2, 0.5, 1.0]
 )
-
-cache_hits = Counter('cache_hits_total', 'Redis 캐시 히트 수')
-cache_misses = Counter('cache_misses_total', 'Redis 캐시 미스 수')
 
 rag_errors = Counter('rag_errors_total', 'RAG 쿼리 에러 수', ['error_type'])
 
@@ -90,13 +121,11 @@ async def lifespan(app: FastAPI):
     
     # DB 연결 및 Retriever 초기화
     db_url = os.getenv("DATABASE_URL")
-    cache = init_cache_from_env()
-    app.state.cache = cache
 
     try:
-        app.state.retriever = Retriever(db_url=db_url, cache=cache)
+        app.state.retriever = Retriever(db_url=db_url)
         logger.info("Retriever 인스턴스 생성 및 앱 상태에 등록됨")
-        app.state.llm_model = os.getenv("OPENAI_MODEL", "gpt-4-turbo")
+        app.state.llm_model = os.getenv("OPENAI_MODEL", "gpt-4o")
         app.state.itinerary_planner = ItineraryPlanner(
             app.state.retriever,
             llm_model=app.state.llm_model,
@@ -192,18 +221,21 @@ async def health_check():
         db_status = "missing"
     else:
         try:
-            conn = retriever.pool.connection()
-            conn.close()
-        except Exception:
+            # 연결을 실제로 열고 간단한 쿼리로 확인한 뒤 풀에 반환
+            with retriever.pool.connection() as conn:
+                with conn.cursor() as cursor:
+                    cursor.execute("SELECT 1")
+        except Exception as exc:
+            logger.warning("DB health check failed: %s", exc)
             db_status = "error"
     checks["db"] = db_status
 
     llm_status = "ok" if os.getenv("OPENAI_API_KEY") else "missing"
     checks["llm"] = llm_status
 
-    cache_status = "ok" if getattr(app.state, "cache", None) else "missing"
-    checks["cache"] = cache_status
-    
+    # 캐시 상태는 현재 비활성화 (placeholder)
+    checks["cache"] = "missing"
+
     overall_status = "healthy" if db_status == "ok" and llm_status == "ok" else "degraded"
     
     return HealthCheckResponse(
@@ -267,12 +299,6 @@ async def rag_query(request: RAGQueryRequest):
                 # Query Expansion 메트릭 기록
                 if expansion_metrics and expansion_metrics.get("duration_ms"):
                     query_expansion_duration.observe(expansion_metrics["duration_ms"] / 1000.0)
-                
-                # 캐시 히트/미스 기록
-                if expansion_metrics and expansion_metrics.get("cache_hit"):
-                    cache_hits.inc()
-                else:
-                    cache_misses.inc()
         except Exception as e:
             rag_errors.labels(error_type="rag_chain").inc()
             log_exception(
@@ -363,6 +389,15 @@ async def recommend_itinerary(request: ItineraryRecommendationRequest):
             status_code=status.HTTP_500_INTERNAL_SERVER_ERROR,
             detail="Itinerary 추천 중 오류 발생",
         )
+
+
+@app.post("/recommend", response_model=ItineraryRecommendationResponse)
+async def recommend_itinerary_alias(request: ItineraryRecommendationRequest):
+    """
+    여행 추천 일정 생성 (경로: /recommend)
+    기존 /recommend/itinerary와 동일한 응답을 반환한다.
+    """
+    return await recommend_itinerary(request)
 
 
 @app.post("/chat")

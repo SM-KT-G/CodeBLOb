@@ -28,7 +28,7 @@ logger = setup_logger()
 class ItineraryPlanner:
     """Query Expansion + LLM 기반 추천 일정 생성기"""
 
-    def __init__(self, retriever: Retriever, llm_model: str = "gpt-4-turbo"):
+    def __init__(self, retriever: Retriever, llm_model: str = "gpt-4o"):
         self.retriever = retriever
         self.llm_model = llm_model
 
@@ -233,7 +233,7 @@ class ItineraryPlanner:
         llm = ChatOpenAI(
             model=self.llm_model,
             temperature=0.4,
-            max_tokens=800,
+            max_tokens=2000,
         )
 
         response = llm.invoke(prompt.format_messages())  # type: ignore[arg-type]

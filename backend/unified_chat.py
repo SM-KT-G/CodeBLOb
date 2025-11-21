@@ -44,6 +44,35 @@ class UnifiedChatHandler:
     async def close(self):
         """리소스 정리"""
         pass
+
+    def _infer_area_from_text(self, text: str) -> Optional[str]:
+        """간단한 지역 키워드 추론 (실험적)"""
+        if not text:
+            return None
+        text_lower = text.lower()
+        candidates = [
+            ("서울", "서울"),
+            ("ソウル", "서울"),
+            ("seoul", "서울"),
+            ("부산", "부산"),
+            ("釜山", "부산"),
+            ("busan", "부산"),
+            ("제주", "제주"),
+            ("濟州", "제주"),
+            ("jeju", "제주"),
+            ("대전", "대전"),
+            ("daejeon", "대전"),
+            ("대구", "대구"),
+            ("daegu", "대구"),
+            ("광주", "광주"),
+            ("gwangju", "광주"),
+            ("인천", "인천"),
+            ("incheon", "인천"),
+        ]
+        for key, area in candidates:
+            if key in text or key in text_lower:
+                return area
+        return None
     
     async def handle_chat(self, request: ChatRequest) -> Dict[str, Any]:
         """
@@ -77,17 +106,17 @@ class UnifiedChatHandler:
                 tool_call = response_message.tool_calls[0]
                 function_name = tool_call.function.name
                 arguments = json.loads(tool_call.function.arguments)
+                # 원문 텍스트를 전달해 쿼리/영역 fallback에 활용
+                arguments.setdefault("user_text", request.text)
                 
                 logger.info(f"Function Called: {function_name}, args={arguments}")
                 
                 # 4. Function 실행
                 if function_name == "search_places":
                     response = await self._handle_search_places(arguments)
-                elif function_name == "create_itinerary":
-                    response = await self._handle_create_itinerary(arguments)
                 else:
                     response = {
-                        "message": f"Unknown function: {function_name}"
+                        "message": "旅行日程の作成は /recommend/itinerary を呼び出してください。",
                     }
             else:
                 # 일반 대화
@@ -117,13 +146,12 @@ class UnifiedChatHandler:
         messages = [
             {
                 "role": "system",
-                "content": """あなたは韓国旅行の専門アシスタントです。
-以下のことができます:
-1. 観光地、レストラン、カフェなどの情報検索
-2. 旅行プランの作成
-3. 一般的な旅行相談
-
-ユーザーの意図を理解して、適切な機能を使用してください。"""
+                "content": """あなたは韓国旅行の専門アシスタントです。常に日本語で丁寧に回答してください。ツールを呼ぶとき 아래 지침을 따르세요:
+1) 위치/지역 추출: 한국어·일본어·영어로 등장하는 도시/지역(서울, 釜山, 제주 등)을 모두 감지해 area/region에 설정합니다. 없으면 user_text에서 추론합니다.
+2) 검색 쿼리: query에는 원문 텍스트를 그대로 사용하고, top_k는 3으로 설정합니다.
+3) 도메인: 요청에 음식/카페/쇼핑/자연/역사 등이 있으면 domain에 반영합니다(없으면 비워둠).
+4) 정보 부족: 지역이 전혀 언급되지 않았고 추론도 어렵다면, 먼저 짧게 어느 지역을 원하는지 물어봅니다.
+5) 응답 형식: /chat 응답에는 message와 places 배열(이름, 지역, document_id)만 포함되도록 도와주세요."""
             }
         ]
 
@@ -146,10 +174,19 @@ class UnifiedChatHandler:
             }
         
         try:
-            query = args.get("query")
+            user_text = args.get("user_text") or ""
+            query = (args.get("query") or user_text).strip()
             domain = args.get("domain")
-            area = args.get("area")
-            top_k = args.get("top_k", 5)
+            # area가 없으면 region을 area로 사용
+            area = args.get("area") or args.get("region")
+            if not area:
+                area = self._infer_area_from_text(user_text)
+            top_k = args.get("top_k", 3)
+
+            if not query or len(query) < 2:
+                return {
+                    "message": "検索クエリをもう少し具体的に入力してください。"
+                }
             
             # RAG 검색
             results = self.retriever.search(
@@ -163,9 +200,16 @@ class UnifiedChatHandler:
             if results:
                 places = [
                     {
-                        "name": r.metadata.get("name", r.metadata.get("food_name", "")),
+                        # place_name/title 우선, 없으면 name/food_name
+                        "name": r.metadata.get("place_name")
+                        or r.metadata.get("title")
+                        or r.metadata.get("name")
+                        or r.metadata.get("food_name")
+                        or "",
                         "description": r.page_content[:200],
-                        "area": r.metadata.get("sigungu", ""),
+                        "area": r.metadata.get("area")
+                        or r.metadata.get("sigungu")
+                        or (area or ""),
                         "document_id": r.metadata.get("document_id", "")
                     }
                     for r in results
