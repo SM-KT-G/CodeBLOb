@@ -6,18 +6,17 @@
 ## 루트 · 환경 구성
 - `.git/`: Git 버전 이력 및 훅 저장소.
 - `.gitignore`: 가상환경·비밀키·캐시 파일 등을 커밋 대상에서 제외.
-- `.env.example`: 필수 환경 변수 샘플. OpenAI/DB/Redis/MariaDB 등 기본값 안내.
+- `.env.example`: 필수 환경 변수 샘플. OpenAI/DB/Redis 기본값 안내.
 - `.env`: 실제 개발용 민감 정보 (.env.example 기반). **Git에 포함하지 않음**.
 - `.vscode/settings.json`: VS Code에서 Git 대용량 경고를 숨기는 최소 설정.
 - `.venv/`: 로컬 Python 가상환경. 의존성 고립용.
 - `.pytest_cache/`: pytest 실행 결과 캐시 디렉토리.
 - `.DS_Store`: macOS Finder 메타데이터 (코드와 무관).
 - `pyproject.toml`: Poetry 기반 패키지 메타데이터, 의존성, Black/Ruff/Pytest 설정.
-- `requirements.txt`: 운영·테스트 서버에서 pip로 설치할 패키지 고정본. mariadb>=1.1.0 포함.
+- `requirements.txt`: 운영·테스트 서버에서 pip로 설치할 패키지 고정본.
 - `pytest.ini`: pytest 기본 옵션(경로, 네이밍, asyncio 모드 등) 선언.
-- `docker-compose.yml`: PostgreSQL(pgvector) + Redis + MariaDB 컨테이너 오케스트레이션 템플릿.
+- `docker-compose.yml`: PostgreSQL(pgvector) + Redis 컨테이너 오케스트레이션 템플릿.
   - PostgreSQL: 5432 포트, tourism_db, pgvector 확장
-  - MariaDB: 3306 포트, tourism_db, chat_history 테이블
   - Redis: 6379 포트, 캐시용
 - `README.md`: FastAPI RAG 백엔드 소개·실행 절차·주요 모듈 요약.
 
@@ -31,14 +30,9 @@
 - `backend/llm_base.py`: OpenAI ChatCompletion(동기·비동기) 래퍼. 타임아웃(30초)·에러 로그·API 키 로딩 처리. generate_structured() 메서드로 Structured Outputs 지원 (gpt-4o-mini 기본).
 - `backend/schemas.py`: Pydantic 기반 도메인 Enum과 요청/응답 스키마 정의.
   - RAGQueryRequest/Response: RAG 검색 요청/응답
-  - ChatRequest: 통합 채팅 요청 (text, session_id)
+  - ChatRequest: 통합 채팅 요청 (text 단일 필드)
   - ItineraryDay/Data/StructuredResponse: 여행 일정 Structured Outputs 스키마
   - HealthCheckResponse, ErrorResponse: 헬스체크 및 에러 응답
-- `backend/chat_history.py`: MariaDB 채팅 기록 관리자. JSON을 LONGTEXT로 저장/조회. 
-  - save_message(): 사용자 메시지 및 응답 저장
-  - get_history(): 전체 대화 기록 조회
-  - get_recent_context(): 최근 N개 대화 조회 (컨텍스트용)
-  - delete_session(): 세션 삭제
 - `backend/unified_chat.py`: 통합 채팅 핸들러. Function Calling으로 사용자 의도 자동 파악.
   - _handle_general_chat(): 일반 대화 처리
   - _handle_search_places(): RAG 검색 (Retriever 연동, Document → dict 변환)
@@ -58,10 +52,7 @@
   - tourism_parent: 문서 요약 테이블 (parent_id, summary, embedding_summary, metadata)
   - tourism_child: QA 청크 테이블 (child_id, parent_id FK, question, answer, embedding_qa, metadata)
   - IVFFlat 인덱스 (lists=1500, 코사인 거리)
-- `backend/db/init_chat_history.sql`: MariaDB chat_history 테이블 스키마.
-  - chat_id (PK), session_id, user_message, response_type, assistant_response (LONGTEXT JSON), created_at
-  - JSON_VALID CHECK 제약
-  - 복합 인덱스 (session_id, created_at)
+- (제거됨) `backend/db/init_chat_history.sql`: MariaDB chat_history 테이블 스키마는 Node 관리로 대체
 
 ### 유틸리티 (`backend/utils/`)
 - `backend/utils/__init__.py`: 유틸 패키지 초기화.
@@ -138,21 +129,11 @@
 - `tests/test_query_expansion_config.py`: Query Expansion JSON 설정이 suffix/punctuation/max_variations를 올바르게 반영하는지 단위 테스트.
 - `tests/test_retriever_unit.py`: `_embed_query`, `_build_sql_and_params`, `_rows_to_documents` 등 내부 헬퍼 함수의 세부 검증.
 - `tests/test_similarity_calculation.py`: distance/similarity 필드 정합성, 정렬 순서, expansion 시 일관성 검증.
-- `tests/test_chat_history.py`: ChatHistoryManager의 MariaDB 저장/조회 테스트. **3/3 PASSED ✅**
-  - test_save_simple_chat_message: 메시지 저장 검증
-  - test_save_and_retrieve_json_response: JSON LONGTEXT 저장/조회
-  - test_get_recent_context: 최근 컨텍스트 조회 (limit 파라미터)
 - `tests/test_itinerary_structured.py`: Structured Outputs 테스트. **3/3 PASSED ✅**
   - test_generate_structured_returns_pydantic_model: Pydantic 모델 반환 검증
   - test_structured_response_always_valid_json: 2번 반복 실행 (100% JSON 보장)
   - test_structured_output_has_greeting_message: 인사 메시지 포함 검증
-- `tests/test_unified_chat.py`: UnifiedChatHandler 테스트. **5/5 PASSED ✅**
-  - test_general_chat_no_function_call: 일반 대화 (response_type=chat)
-  - test_search_places_function_call: RAG 검색 (response_type=search)
-  - test_create_itinerary_function_call: 여행 일정 (response_type=itinerary)
-  - test_chat_history_saved_to_db: 채팅 기록 DB 저장 검증
-  - test_context_included_in_follow_up: 후속 질문에 컨텍스트 포함
-- `tests/test_chat_integration.py`: 통합 채팅 API 테스트. **4/4 PASSED ✅**
+- `tests/test_chat_integration.py`: 통합 채팅 API 테스트. **4/4 PASSED ✅** (response_type 제거 버전)
   - test_chat_endpoint_general_conversation: POST /chat 일반 대화
   - test_chat_endpoint_search_places: POST /chat RAG 검색
   - test_chat_endpoint_create_itinerary: POST /chat 여행 일정
@@ -177,14 +158,13 @@
 - **테스트**: `tests/test_retriever_unit.py`, `tests/test_parent_context.py`, `tests/test_query_expansion.py`
 
 ### 2. 통합 채팅 시스템 (Function Calling)
-- **스키마**: `backend/db/init_chat_history.sql`
-- **채팅 기록**: `backend/chat_history.py` (MariaDB)
 - **통합 핸들러**: `backend/unified_chat.py`
 - **Function 정의**: `backend/function_tools.py`
 - **Structured Outputs**: `backend/llm_base.py` (generate_structured)
 - **스키마**: `backend/schemas.py` (ChatRequest, ItineraryStructuredResponse)
 - **API**: `backend/main.py` (POST /chat)
-- **테스트**: `tests/test_chat_history.py`, `tests/test_itinerary_structured.py`, `tests/test_unified_chat.py`, `tests/test_chat_integration.py`
+- **세션/저장**: Node에서 관리 (백엔드는 응답만 반환)
+- **테스트**: `tests/test_itinerary_structured.py`, `tests/test_chat_integration.py`
 
 ### 3. RAG 검색 전용 (고급 제어)
 - **API**: `backend/main.py` (POST /rag/query)
@@ -205,9 +185,7 @@
 
 | 테스트 파일 | 통과 | 설명 |
 |------------|------|------|
-| test_chat_history.py | 3/3 ✅ | MariaDB 저장/조회 |
 | test_itinerary_structured.py | 3/3 ✅ | Structured Outputs |
-| test_unified_chat.py | 5/5 ✅ | Function Calling 통합 |
 | test_chat_integration.py | 4/4 ✅ | POST /chat API |
 
 ---
