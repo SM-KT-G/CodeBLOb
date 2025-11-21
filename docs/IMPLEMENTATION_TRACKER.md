@@ -205,10 +205,7 @@
     - `backend/schemas.py`: ItineraryDay, ItineraryData, ItineraryStructuredResponse, ChatRequest 추가
     - `backend/llm_base.py`: generate_structured() 메서드 추가 (OpenAI beta.chat.completions.parse 사용)
     - 100% JSON 보장으로 파싱 오류 제거
-  - **ChatHistoryManager 구현** (`backend/chat_history.py`):
-    - MariaDB에 JSON을 LONGTEXT로 저장 (JSON_VALID CHECK 제약)
-    - save_message(), get_history(), get_recent_context(), delete_session() 구현
-    - 채팅 기록 영구 저장 및 컨텍스트 관리
+  - **채팅 저장**: 현재는 Node에서 관리하도록 변경 (백엔드는 응답만 반환)
   - **UnifiedChatHandler 구현** (`backend/unified_chat.py`):
     - Function Calling으로 사용자 의도 자동 파악
     - _handle_general_chat(): 일반 대화
@@ -218,10 +215,7 @@
     - POST /chat 엔드포인트 추가
     - lifespan에서 UnifiedChatHandler 초기화 및 정리
     - 일반 대화, RAG 검색, 여행 일정을 하나의 엔드포인트로 통합
-  - **의존성 추가**:
-    - requirements.txt에 mariadb>=1.1.0,<2.0.0 추가
   - **테스트 작성** (TDD Red 단계):
-    - tests/test_chat_history.py: MariaDB 저장/조회 테스트
     - tests/test_itinerary_structured.py: Structured Outputs 테스트
     - tests/test_unified_chat.py: Function Calling 통합 테스트
   
@@ -230,10 +224,7 @@
   - `backend/schemas.py`: ItineraryDay, ItineraryData, ItineraryStructuredResponse, ChatRequest 스키마 추가
   - `backend/llm_base.py`: generate_structured() 메서드 추가 (OpenAI beta.chat.completions.parse 사용)
   - 100% JSON 보장으로 파싱 오류 완전 제거
-- [x] **ChatHistoryManager 구현** (`backend/chat_history.py`)
-  - MariaDB에 JSON을 LONGTEXT로 저장 (JSON_VALID CHECK 제약)
-  - save_message(), get_history(), get_recent_context(), delete_session() 메서드 구현
-  - 채팅 기록 영구 저장 및 컨텍스트 관리
+- [ ] **ChatHistoryManager**: Node가 저장을 담당하도록 변경되어 백엔드에서는 사용하지 않음
 - [x] **UnifiedChatHandler 구현** (`backend/unified_chat.py`)
   - Function Calling으로 사용자 의도 자동 파악
   - _handle_general_chat(): 일반 대화 처리
@@ -244,15 +235,8 @@
   - lifespan에서 UnifiedChatHandler 초기화 및 정리
   - 일반 대화, RAG 검색, 여행 일정을 하나의 엔드포인트로 통합
   - Function Calling 자동 감지 및 실행
-- [x] **MariaDB 설정**
-  - docker-compose.yml에 MariaDB 10.11 컨테이너 추가
-  - backend/db/init_chat_history.sql: chat_history 테이블 스키마 작성
-  - 포트 3306 바인딩, 초기화 스크립트 마운트
-- [x] **의존성 추가**
-  - requirements.txt에 mariadb>=1.1.0,<2.0.0 추가
-  - .env.example에 MariaDB 환경변수 추가
+- [ ] **MariaDB 저장**: 현재 Node에서 관리하도록 변경되어 백엔드 의존성 제거 예정
 - [x] **테스트 코드 작성** (TDD Red 단계)
-  - tests/test_chat_history.py: MariaDB 저장/조회 테스트
   - tests/test_itinerary_structured.py: Structured Outputs 테스트
   - tests/test_unified_chat.py: Function Calling 통합 테스트
   - tests/test_chat_integration.py: 통합 채팅 API 테스트
@@ -286,27 +270,16 @@
 ---
 
 ### 다음 단계
-- MariaDB 설정 및 chat_history 테이블 생성 확인
 - 통합 채팅 시스템 테스트 실행 (4개 테스트 파일)
 - 프론트엔드 연동 준비 (Node.js 가이드 업데이트)
 
 - 2025-11-17: **통합 채팅 시스템 테스트 완료 및 API 문서화**
-  - **MariaDB 설정 완료**:
-    - Docker 컨테이너 시작 및 chat_history 테이블 생성 확인
-    - MARIADB_HOST=127.0.0.1로 수정 (Unix socket 문제 해결)
-    - Python mariadb 패키지 설치 완료
   - **TDD Red-Green-Refactor 사이클 완료**:
-    - Red: 테스트 실패 확인 (임포트 오류, timeout 등)
+    - Red: 테스트 실패 확인 (임포트 오류 등)
     - Green: 코드 수정 및 테스트 통과
-      - TourismRetriever → Retriever, ItineraryRecommender → ItineraryPlanner 수정
-      - Document 객체 → dict 변환 (metadata, page_content 활용)
-      - timeout 15초 → 30초 증가 (Structured Outputs 지원)
-      - 테스트 반복 10번 → 2번 축소 (빠른 피드백)
-    - Refactor: 불필요한 의존성 제거 (self.itinerary)
-  - **테스트 15/15 통과** (2분 18초):
-    - test_chat_history.py: 3/3 PASSED ✅
+    - Refactor: 불필요한 의존성 제거 (세션/저장 로직 분리)
+  - **테스트 9/9 통과** (최근 기준):
     - test_itinerary_structured.py: 3/3 PASSED ✅
-    - test_unified_chat.py: 5/5 PASSED ✅
     - test_chat_integration.py: 4/4 PASSED ✅
   - **API 문서화 완료**:
     - docs/API_INTEGRATION_FOR_NODE.md 업데이트
@@ -338,10 +311,9 @@
 
 #### 2. 통합 채팅 시스템
 - ✅ Structured Outputs (100% JSON 보장)
-- ✅ ChatHistoryManager (MariaDB 영구 저장)
-- ✅ UnifiedChatHandler (Function Calling 자동 의도 파악)
+- ✅ UnifiedChatHandler (Function Calling 자동 의도 파악, 응답만 반환)
 - ✅ POST /chat 엔드포인트 (일반 대화 + RAG + 여행 일정)
-- ✅ 테스트 15/15 통과 (2분 18초)
+- ✅ 테스트 9/9 통과 (최근 기준)
 
 #### 3. 프론트엔드 연동 준비
 - ✅ API 문서 최신화 (POST /chat, POST /rag/query)
