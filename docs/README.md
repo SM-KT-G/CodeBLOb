@@ -60,7 +60,7 @@
 
 - Structured Outputs (100% JSON 보장)  - ✅ Retriever 구현 및 테스트 (90%+ 유사도)
 
-- ChatHistoryManager (MariaDB 영구 저장)  - ✅ Metadata Filtering / Query Expansion / Parent Context / Redis 캐시 동작 확인
+- 세션/저장: Node에서 관리 (백엔드는 응답만 반환)
 
 - UnifiedChatHandler (Function Calling)- **다음 단계**:
 
@@ -136,8 +136,6 @@ FastAPI Backend
 
 │  ├─ Function Calling 자동 감지## 🛠️ 기술 스택
 
-│  └─ ChatHistoryManager (MariaDB)
-
 │- **Backend**: FastAPI + Python 3.10
 
 ├─ POST /rag/query (RAG 검색)- **Database**: PostgreSQL + pgvector
@@ -162,7 +160,6 @@ FastAPI Backend
 
 └─ MariaDB- 지역/도메인별 타겟팅 검색
 
-   └─ chat_history- 복합 필터 지원 (area + domain)
 
 ```- 검색 정확도 향상 (최고 유사도 0.91)
 
