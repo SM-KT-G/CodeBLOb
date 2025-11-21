@@ -53,12 +53,10 @@ backend/
   llm_base.py           # OpenAI LLM 래퍼 (Structured Outputs 포함)
   itinerary.py          # 여행 일정 추천 플래너 (Query Expansion + LLM)
   unified_chat.py       # 통합 채팅 핸들러 (Function Calling)
-  chat_history.py       # MariaDB 채팅 기록 관리
   function_tools.py     # Function Calling 도구 정의
   schemas.py            # Pydantic 모델
   db/                   # ConnectionPool 및 스키마 스크립트
     init_vector_v1.1.sql       # PostgreSQL 벡터 DB 스키마
-    init_chat_history.sql      # MariaDB 채팅 기록 스키마
   utils/logger.py       # JSON 로깅 헬퍼
 config/
   query_expansion.json  # Query Expansion 기본 설정
@@ -155,14 +153,7 @@ uvicorn backend.main:app --reload
 - `_handle_general_chat()`: 일반 대화 처리
 - `_handle_search_places()`: RAG 검색 (Retriever 연동)
 - `_handle_create_itinerary()`: 여행 일정 생성 (Structured Outputs 사용)
-- 대화 기록 관리 및 컨텍스트 포함
-
-#### `backend/chat_history.py`
-- **ChatHistoryManager**: MariaDB 채팅 기록 관리
-- `save_message()`: 대화 저장 (JSON → LONGTEXT)
-- `get_history()`: 세션 전체 기록 조회
-- `get_recent_context()`: 최근 N개 컨텍스트 (LLM 프롬프트용)
-- `delete_session()`: 세션 삭제
+- 단일 세션·무저장 모드 (Node가 저장/세션 관리)
 
 #### `backend/function_tools.py`
 - **Function Calling 도구 정의**
@@ -198,7 +189,7 @@ uvicorn backend.main:app --reload
 - Pydantic 모델 정의
 - RAGQueryRequest/Response
 - ItineraryRecommendationRequest/Response
-- **ChatRequest**: 통합 채팅 요청 (text, session_id)
+- **ChatRequest**: 통합 채팅 요청 (text)
 - **ItineraryStructuredResponse**: Structured Outputs용 스키마 (message + itinerary)
 - HealthCheckResponse
 - 데이터 검증 및 직렬화
@@ -254,17 +245,9 @@ uvicorn backend.main:app --reload
 - Mock을 사용한 Function Calling 테스트
 - 일반 대화, 장소 검색, 여행 일정 생성 시나리오
 
-#### `tests/test_chat_history.py`
-- ChatHistoryManager 단위 테스트
-- MariaDB 저장/조회 검증
-
 #### `tests/test_itinerary_structured.py`
 - Structured Outputs 테스트
 - JSON 스키마 보장 검증
-
-#### `tests/test_unified_chat.py`
-- UnifiedChatHandler 통합 테스트
-- Function Calling 의도 파악 검증
 
 ---
 
@@ -281,7 +264,6 @@ python -m pytest
 # ✅ 15/15 통과
 # - test_api.py: 5 passed (RAG API)
 # - test_chat_integration.py: 1 passed (통합 채팅 API)
-# - test_chat_history.py: 1 passed (MariaDB 저장/조회)
 # - test_itinerary_api.py: 1 passed (여행 일정 API)
 # - test_itinerary_structured.py: 1 passed (Structured Outputs)
 # - test_query_expansion.py: 1 passed (Query Expansion)
@@ -299,7 +281,7 @@ python -m pytest
 
 ### 1. 통합 채팅 ✨ NEW (2025-11-17)
 **POST /chat**
-- **요청**: `ChatRequest` (text, session_id)
+- **요청**: `ChatRequest` (text)
 - **응답**: 사용자 의도에 따라 3가지 타입
   - `response_type: "chat"` → 일반 대화 응답
   - `response_type: "search"` → RAG 장소 검색 결과 (answer, sources, latency_ms)
@@ -313,17 +295,17 @@ python -m pytest
   # 일반 대화
   curl -X POST http://localhost:8000/chat \
     -H "Content-Type: application/json" \
-    -d '{"text": "안녕하세요", "session_id": "user123"}'
+    -d '{"text": "안녕하세요"}'
   
   # 장소 검색
   curl -X POST http://localhost:8000/chat \
     -H "Content-Type: application/json" \
-    -d '{"text": "서울 맛집 추천해줘", "session_id": "user123"}'
+    -d '{"text": "서울 맛집 추천해줘"}'
   
   # 여행 일정
   curl -X POST http://localhost:8000/chat \
     -H "Content-Type: application/json" \
-    -d '{"text": "서울 1박 2일 여행 일정 짜줘", "session_id": "user123"}'
+    -d '{"text": "서울 1박 2일 여행 일정 짜줘"}'
   ```
 
 ### 2. RAG 검색 (기존)
@@ -383,7 +365,6 @@ python -m pytest
 - **캐시 미사용**: `REDIS_URL`을 비워두면 자동으로 캐시가 비활성화됩니다.
 - **Query Expansion 튜닝**: 접미어·구두점·최대 변형 수를 JSON에서 조정하거나, 사용자 요청에 `expansion_variations`를 전달해 실험할 수 있습니다.
 - **Parent Context 비활성화**: `/rag/query` 요청에서 `parent_context=false`로 설정하면 parent summary 없이 child chunk만 반환됩니다.
-- **채팅 기록 조회**: MariaDB에서 `SELECT * FROM chat_history WHERE session_id = 'user123'` 실행
 
 ---
 
