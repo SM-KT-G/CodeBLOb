@@ -1,43 +1,30 @@
-"""
-Chat API 수정 사항 간단 테스트
-session_id가 Optional인지 확인
-"""
+"""Chat API 요청 스키마 테스트 (session_id 제거 후)"""
 from backend.schemas import ChatRequest
+import pytest
 
 
-def test_chat_request_with_session_id():
-    """session_id가 있는 경우"""
-    req = ChatRequest(
-        text="서울 맛집 추천해줘",
-        session_id="user123"
-    )
+def test_chat_request_basic():
+    """필수 필드는 text 하나만"""
+    req = ChatRequest(text="서울 맛집 추천해줘")
     assert req.text == "서울 맛집 추천해줘"
-    assert req.session_id == "user123"
-    print("✅ session_id 있는 요청: OK")
+    # session_id 필드가 제거되었음을 확인
+    assert not hasattr(req, "session_id")
 
 
-def test_chat_request_without_session_id():
-    """session_id가 없는 경우 (수정 후)"""
-    req = ChatRequest(
-        text="부산 여행 추천"
-    )
+def test_chat_request_strips_whitespace():
+    """text는 앞뒤 공백을 잘라서 저장"""
+    req = ChatRequest(text="   부산 여행 추천   ")
     assert req.text == "부산 여행 추천"
-    assert req.session_id is None
-    print("✅ session_id 없는 요청: OK")
 
 
 def test_chat_request_empty_text():
     """빈 text는 거부되어야 함"""
-    try:
+    with pytest.raises(ValueError):
         ChatRequest(text="   ")
-        print("❌ 빈 text 거부 실패")
-        assert False
-    except ValueError as e:
-        print(f"✅ 빈 text 거부: {e}")
 
 
 if __name__ == "__main__":
-    test_chat_request_with_session_id()
-    test_chat_request_without_session_id()
+    test_chat_request_basic()
+    test_chat_request_strips_whitespace()
     test_chat_request_empty_text()
     print("\n✅ 모든 테스트 통과!")
