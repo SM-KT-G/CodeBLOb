@@ -5,7 +5,6 @@ UnifiedChatHandler - Function Calling 통합 처리
 import json
 from typing import Dict, Any, List, Optional
 from backend.llm_base import LLMClient
-from backend.chat_history import ChatHistoryManager
 from backend.retriever import Retriever
 from backend.itinerary import ItineraryPlanner
 from backend.function_tools import ALL_TOOLS
@@ -22,19 +21,16 @@ class UnifiedChatHandler:
     def __init__(
         self,
         llm_client: Optional[LLMClient] = None,
-        chat_history: Optional[ChatHistoryManager] = None,
         retriever: Optional[Retriever] = None,
         itinerary_recommender: Optional[ItineraryPlanner] = None
     ):
         """
         Args:
             llm_client: LLM 클라이언트
-            chat_history: 채팅 기록 관리자
             retriever: RAG 검색기
             itinerary_recommender: 일정 추천기
         """
         self.llm = llm_client or LLMClient()
-        self.chat_history = chat_history
         self.retriever = retriever
         self.itinerary = itinerary_recommender
         
@@ -57,14 +53,14 @@ class UnifiedChatHandler:
             request: 채팅 요청
         
         Returns:
-            응답 dict (response_type에 따라 다름)
+            응답 dict
         """
         try:
             # 1. 컨텍스트 구성
             messages = self._build_messages(request)
             
             # 2. Function Calling 요청
-            logger.info(f"Function Calling 요청: session={request.session_id}")
+            logger.info("Function Calling 요청 수신")
             
             completion = self.llm.client.chat.completions.create(
                 model=self.llm.model,
@@ -91,28 +87,20 @@ class UnifiedChatHandler:
                     response = await self._handle_create_itinerary(arguments)
                 else:
                     response = {
-                        "response_type": "error",
                         "message": f"Unknown function: {function_name}"
                     }
             else:
                 # 일반 대화
                 response = self._handle_general_chat(response_message.content)
             
-            # 5. 대화 기록 저장 (session_id가 있을 때만)
-            if self.chat_history and request.session_id:
-                self.chat_history.save_message(
-                    session_id=request.session_id,
-                    user_message=request.text,
-                    response_type=response["response_type"],
-                    assistant_response=response
-                )
+            # 5. chat_completion_id 추가
+            response["chat_completion_id"] = completion.id
             
             return response
         
         except Exception as e:
             logger.error(f"채팅 처리 실패: {e}")
             return {
-                "response_type": "error",
                 "message": f"처리 중 오류가 발생했습니다: {str(e)}"
             }
     
@@ -138,22 +126,7 @@ class UnifiedChatHandler:
 ユーザーの意図を理解して、適切な機能を使用してください。"""
             }
         ]
-        
-        # 이전 대화 컨텍스트 추가 (session_id가 있을 때만)
-        if self.chat_history and request.session_id:
-            context = self.chat_history.get_recent_context(
-                request.session_id,
-                limit=5
-            )
-            
-            for ctx in context:
-                messages.append({"role": "user", "content": ctx["user_message"]})
-                
-                # assistant_response에서 message 추출
-                assistant_msg = ctx["assistant_response"].get("message", "")
-                if assistant_msg:
-                    messages.append({"role": "assistant", "content": assistant_msg})
-        
+
         # 현재 메시지
         messages.append({"role": "user", "content": request.text})
         
@@ -162,7 +135,6 @@ class UnifiedChatHandler:
     def _handle_general_chat(self, content: str) -> Dict[str, Any]:
         """일반 대화 처리"""
         return {
-            "response_type": "chat",
             "message": content
         }
     
@@ -170,7 +142,6 @@ class UnifiedChatHandler:
         """장소 검색 처리"""
         if not self.retriever:
             return {
-                "response_type": "error",
                 "message": "検索機能が利用できません"
             }
         
@@ -203,13 +174,11 @@ class UnifiedChatHandler:
                 message = f"{len(places)}件の場所が見つかりました。"
                 
                 return {
-                    "response_type": "search",
                     "message": message,
                     "places": places
                 }
             else:
                 return {
-                    "response_type": "search",
                     "message": "申し訳ございません。該当する場所が見つかりませんでした。",
                     "places": []
                 }
@@ -217,7 +186,6 @@ class UnifiedChatHandler:
         except Exception as e:
             logger.error(f"검색 실패: {e}")
             return {
-                "response_type": "error",
                 "message": f"検索中にエラーが発生しました: {str(e)}"
             }
     
@@ -252,7 +220,6 @@ class UnifiedChatHandler:
             
             # Pydantic 모델 → dict
             return {
-                "response_type": "itinerary",
                 "message": result.message,
                 "itinerary": {
                     "title": result.itinerary.title,
@@ -279,6 +246,5 @@ class UnifiedChatHandler:
         except Exception as e:
             logger.error(f"일정 생성 실패: {e}")
             return {
-                "response_type": "error",
                 "message": f"プラン作成中にエラーが発生しました: {str(e)}"
             }
