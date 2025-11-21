@@ -40,18 +40,12 @@
   - 100% JSON 보장
   - gpt-4o-mini 모델 (30초 timeout)
 
-- **ChatHistoryManager**
-  - MariaDB 채팅 기록 영구 저장
-  - JSON LONGTEXT (JSON_VALID CHECK)
-  - save_message(), get_history(), get_recent_context(), delete_session()
-  - test_chat_history.py 3/3 통과 ✅
-
 - **UnifiedChatHandler**
   - Function Calling으로 의도 자동 파악
   - _handle_general_chat(): 일반 대화
   - _handle_search_places(): RAG 검색
   - _handle_create_itinerary(): 여행 일정 생성
-  - test_unified_chat.py 5/5 통과 ✅
+  - 세션/저장 없이 응답만 반환 (저장은 Node에서 담당)
 
 - **통합 엔드포인트**
   - POST /chat: 일반 대화 + RAG + 여행 일정
@@ -60,11 +54,9 @@
   - test_chat_integration.py 4/4 통과 ✅
 
 - **테스트 완료** ✅
-  - test_chat_history.py: 3/3 PASSED
   - test_itinerary_structured.py: 3/3 PASSED
-  - test_unified_chat.py: 5/5 PASSED
   - test_chat_integration.py: 4/4 PASSED
-  - **총 15/15 테스트 통과** (2분 18초)
+  - **총 9개 테스트 통과** (현재 기준)
 
 ---
 
@@ -77,7 +69,7 @@
 │  POST /chat (통합 채팅) ✅               │
 │  - UnifiedChatHandler                   │
 │  - Function Calling 자동 감지            │
-│  - ChatHistoryManager (MariaDB)         │
+│  - 세션/저장: Node에서 관리              │
 │  - Structured Outputs (gpt-4o-mini)     │
 ├─────────────────────────────────────────┤
 │  POST /rag/query (RAG 검색)             │
@@ -89,9 +81,6 @@
 │  PostgreSQL + pgvector                  │
 │  - tourism_parent (377,263)             │
 │  - tourism_child (2,202,565)            │
-├─────────────────────────────────────────┤
-│  MariaDB ✅                              │
-│  - chat_history (채팅 기록)              │
 └─────────────────────────────────────────┘
 ```
 
@@ -105,12 +94,7 @@
    - ✅ 핵심 문서 최신화 (3개)
    - ✅ Git 커밋 (5개 커밋 완료)
 
-2. **MariaDB 설정 및 테스트** ✅
-   - ✅ Docker Compose 실행
-   - ✅ chat_history 테이블 생성 확인
-   - ✅ 통합 채팅 시스템 테스트 (15/15 통과)
-
-3. **프론트엔드 연동 준비** ⏳
+2. **프론트엔드 연동 준비** ⏳
    - Node.js 연동 가이드 업데이트
    - API 스펙 최신화
    - 예제 코드 작성
