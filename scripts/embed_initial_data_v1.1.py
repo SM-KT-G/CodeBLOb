@@ -52,7 +52,7 @@ DB_CONFIG = {
 # 임베딩 설정
 MODEL_NAME = 'intfloat/multilingual-e5-small'  # 384 dims
 BATCH_SIZE = 32  # 작게 시작 (테스트)
-DEVICE = 'mps' if torch.backends.mps.is_available() else 'cpu'
+DEVICE = 'cuda' if torch.cuda.is_available() else ('mps' if torch.backends.mps.is_available() else 'cpu')
 
 print(f"🔧 임베딩 설정:")
 print(f"   모델: {MODEL_NAME} (384 dims)")
