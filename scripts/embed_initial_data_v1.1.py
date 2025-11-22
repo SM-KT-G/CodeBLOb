@@ -45,8 +45,8 @@ DB_CONFIG = {
     'host': 'localhost',
     'port': 5432,
     'dbname': 'tourism_db',
-    'user': 'tourism_user',
-    'password': 'tourism_pass'
+    'user': 'citsk',
+    'password': 'citsk!'
 }
 
 # 임베딩 설정
