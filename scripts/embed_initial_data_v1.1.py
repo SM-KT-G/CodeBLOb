@@ -10,6 +10,7 @@ import json
 import asyncio
 import psycopg
 import torch
+import traceback
 from pathlib import Path
 from typing import List, Dict, Tuple
 from datetime import datetime
@@ -21,17 +22,23 @@ project_root = Path(__file__).parent.parent
 sys.path.append(str(project_root))
 
 # embedding_utils_v1.1.py에서 함수 임포트
-import importlib.util
-spec = importlib.util.spec_from_file_location(
-    "embedding_utils_v11",
-    project_root / "scripts" / "embedding_utils_v1.1.py"
-)
-embedding_utils = importlib.util.module_from_spec(spec)
-spec.loader.exec_module(embedding_utils)
+try:
+    import importlib.util
+    spec = importlib.util.spec_from_file_location(
+        "embedding_utils_v11",
+        project_root / "scripts" / "embedding_utils_v1.1.py"
+    )
+    embedding_utils = importlib.util.module_from_spec(spec)
+    spec.loader.exec_module(embedding_utils)
 
-process_json_file = embedding_utils.process_json_file
-create_embedding_text_for_child = embedding_utils.create_embedding_text_for_child
-calculate_statistics = embedding_utils.calculate_statistics
+    process_json_file = embedding_utils.process_json_file
+    create_embedding_text_for_child = embedding_utils.create_embedding_text_for_child
+    calculate_statistics = embedding_utils.calculate_statistics
+    print("✅ embedding_utils 로드 성공")
+except Exception as e:
+    print(f"❌ embedding_utils 로드 실패: {e}")
+    traceback.print_exc()
+    sys.exit(1)
 
 
 # ========================================
@@ -46,12 +53,13 @@ DB_CONFIG = {
     'port': 5432,
     'dbname': 'tourism_db',
     'user': 'citsk',
-    'password': 'citsk!'
+    'password': 'citsk!',
+    'connect_timeout': 5
 }
 
 # 임베딩 설정
 MODEL_NAME = 'intfloat/multilingual-e5-small'  # 384 dims
-BATCH_SIZE = 32  # 작게 시작 (테스트)
+BATCH_SIZE = 256  # GPU 성능 고려하여 증량 (32 -> 256)
 DEVICE = 'cuda' if torch.cuda.is_available() else ('mps' if torch.backends.mps.is_available() else 'cpu')
 
 print(f"🔧 임베딩 설정:")
@@ -63,10 +71,15 @@ print(f"   디바이스: {DEVICE}")
 # ========================================
 # 모델 로드
 # ========================================
-print(f"\n📦 모델 로딩 중...")
-model = SentenceTransformer(MODEL_NAME, device=DEVICE)
-model.eval()
-print(f"✅ 모델 준비 완료")
+try:
+    print(f"\n📦 모델 로딩 중...")
+    model = SentenceTransformer(MODEL_NAME, device=DEVICE)
+    model.eval()
+    print(f"✅ 모델 준비 완료")
+except Exception as e:
+    print(f"❌ 모델 로드 실패: {e}")
+    traceback.print_exc()
+    sys.exit(1)
 
 
 # ========================================
@@ -81,6 +94,18 @@ def init_database():
     """
     DB 초기화 (v1.1 스키마 실행)
     """
+    print("🔄 DB 연결 시도 중...")
+    try:
+        with get_db_connection() as conn:
+            with conn.cursor() as cur:
+                cur.execute("SELECT 1")
+        print(f"✅ DB 연결 성공")
+    except Exception as e:
+        print(f"❌ DB 연결 실패: {e}")
+        print(f"   설정: {DB_CONFIG}")
+        traceback.print_exc()
+        return False
+
     print(f"ℹ️  스키마 초기화 건너뜀 (이미 실행됨)")
     return True
 
@@ -260,62 +285,67 @@ async def embed_all_files():
     processed_count = len(processed_set)
     
     for filepath in tqdm(remaining_files, desc="임베딩 진행"):
-        # JSON 파싱
-        parent_data, child_chunks = process_json_file(filepath)
-        
-        if not parent_data:
-            continue
-        
-        parent_batch.append(parent_data)
-        all_child_chunks.extend(child_chunks)  # child 누적
-        
-        # 배치 크기 도달 시 저장
-        if len(parent_batch) >= BATCH_SIZE:
-            # Parent 저장 및 ID 매핑
-            id_map = save_parent_batch(parent_batch)
+        try:
+            # JSON 파싱
+            parent_data, child_chunks = process_json_file(filepath)
             
-            # Child에 parent_id 매핑
-            for child in all_child_chunks:
-                doc_id = child['document_id']
-                parent_db_id = id_map.get(doc_id)
+            if not parent_data:
+                continue
+            
+            parent_batch.append(parent_data)
+            all_child_chunks.extend(child_chunks)  # child 누적
+            
+            # 배치 크기 도달 시 저장
+            if len(parent_batch) >= BATCH_SIZE:
+                # Parent 저장 및 ID 매핑
+                id_map = save_parent_batch(parent_batch)
                 
-                if parent_db_id:
-                    child['parent_id'] = parent_db_id
-                    child_batch.append(child)
-            
-            # Child 임베딩 + 저장
-            if child_batch:
-                # 임베딩 텍스트 추출
-                texts = [create_embedding_text_for_child(c) for c in child_batch]
+                # Child에 parent_id 매핑
+                for child in all_child_chunks:
+                    doc_id = child['document_id']
+                    parent_db_id = id_map.get(doc_id)
+                    
+                    if parent_db_id:
+                        child['parent_id'] = parent_db_id
+                        child_batch.append(child)
                 
-                # 배치 임베딩
-                with torch.no_grad():
-                    embeddings = model.encode(
-                        texts,
-                        batch_size=min(BATCH_SIZE, len(texts)),
-                        show_progress_bar=False,
-                        convert_to_numpy=True
-                    )
+                # Child 임베딩 + 저장
+                if child_batch:
+                    # 임베딩 텍스트 추출
+                    texts = [create_embedding_text_for_child(c) for c in child_batch]
+                    
+                    # 배치 임베딩
+                    with torch.no_grad():
+                        embeddings = model.encode(
+                            texts,
+                            batch_size=min(BATCH_SIZE, len(texts)),
+                            show_progress_bar=False,
+                            convert_to_numpy=True
+                        )
+                    
+                    # 저장
+                    save_child_batch(child_batch, embeddings.tolist())
+                    
+                    # 체크포인트 업데이트
+                    checkpoint['total_parents'] += len(parent_batch)
+                    checkpoint['total_children'] += len(child_batch)
                 
-                # 저장
-                save_child_batch(child_batch, embeddings.tolist())
+                # 배치 초기화
+                for parent in parent_batch:
+                    checkpoint['processed_files'].append(str(filepath))
                 
-                # 체크포인트 업데이트
-                checkpoint['total_parents'] += len(parent_batch)
-                checkpoint['total_children'] += len(child_batch)
-            
-            # 배치 초기화
-            for parent in parent_batch:
-                checkpoint['processed_files'].append(str(filepath))
-            
-            processed_count += len(parent_batch)
-            parent_batch = []
-            child_batch = []
-            all_child_chunks = []
-            
-            # 체크포인트 저장 (1000개마다)
-            if processed_count % 1000 == 0:
-                save_checkpoint(checkpoint)
+                processed_count += len(parent_batch)
+                parent_batch = []
+                child_batch = []
+                all_child_chunks = []
+                
+                # 체크포인트 저장 (1000개마다)
+                if processed_count % 1000 == 0:
+                    save_checkpoint(checkpoint)
+        except Exception as e:
+            print(f"\n❌ 오류 발생 (파일: {filepath}): {e}")
+            traceback.print_exc()
+            sys.exit(1)
     
     # 4. 마지막 배치 처리
     if parent_batch:
