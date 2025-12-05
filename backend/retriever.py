@@ -190,6 +190,7 @@ class Retriever:
         
         return documents
 
+    
     def search(
         self,
         query: str,
@@ -343,6 +344,31 @@ class Retriever:
         # 결과 수집: key by document_id (metadata.document_id)
         all_results = []
         start_time = time.perf_counter()
+        # 기본 변형 리스트 생성
+        vars_to_try = [query.strip()]
+
+        # 일본어 및 일반 구두점 제거 (안전한 방식)
+        # 일본어 구두점: 、。！？「」『』（）［］【】〈〉《》
+        # 일반 구두점: ,.!?;:'"()[]{}
+        punctuation_chars = "、。！？「」『』（）［］【】〈〉《》,.!?;:'\"()[]{}…"
+        punct_removed = "".join(ch for ch in query if ch not in punctuation_chars)
+        if punct_removed and punct_removed.strip() and punct_removed not in vars_to_try:
+            vars_to_try.append(punct_removed.strip())
+
+        # 추천어 추가 (간단한 힌트)
+        if "おすすめ" not in query:
+            vars_to_try.append(query + " おすすめ")
+
+        # 사용자 지정 변형이 있다면 포함
+        if variations:
+            for v in variations:
+                if v and v not in vars_to_try:
+                    vars_to_try.append(v)
+
+        logger.info(f"Query Expansion: variants={vars_to_try}")
+
+        # 결과 수집: key by document_id (metadata.document_id)
+        merged = {}
 
         for qv in vars_to_try:
             try:
@@ -440,3 +466,22 @@ class Retriever:
         
         self.last_expansion_metrics = metrics
         return docs
+            except Exception:
+                # 한 변형이 실패해도 계속 진행
+                continue
+
+            for doc in results:
+                doc_id = doc.metadata.get("document_id") or doc.metadata.get("documentId")
+                # fallback: use page_content hash if no id
+                if not doc_id:
+                    doc_id = hash(doc.page_content)
+
+                # keep the highest similarity per document
+                prev = merged.get(doc_id)
+                sim = float(doc.metadata.get("similarity", 0.0))
+                if not prev or sim > prev.metadata.get("similarity", 0.0):
+                    merged[doc_id] = doc
+
+        # 정렬 및 top_k 선택
+        docs = sorted(merged.values(), key=lambda d: d.metadata.get("similarity", 0.0), reverse=True)
+        return docs[:top_k]

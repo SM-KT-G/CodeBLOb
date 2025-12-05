@@ -343,6 +343,11 @@ async def rag_query(request: RAGQueryRequest):
         if latency > 3.0:
             logger.warning(f"응답 시간 초과: {latency}초")
         
+        # Similarity 통계 계산
+        similarities = [d.metadata.get("similarity", 0.0) for d in docs]
+        avg_similarity = sum(similarities) / len(similarities) if similarities else 0.0
+        max_similarity = max(similarities) if similarities else 0.0
+        
         return RAGQueryResponse(
             answer=answer,
             sources=sources,
