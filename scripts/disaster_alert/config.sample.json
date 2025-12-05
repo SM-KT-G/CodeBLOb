@@ -1,0 +1,23 @@
+﻿{
+  "api": {
+    "url": "https://www.safetydata.go.kr/V2/api/DSSP-IF-00247",
+    "params": {
+      "pageNo": "1",
+      "numOfRows": "10",
+      "returnType": "json"
+    }
+  },
+  "schedule": {
+    "interval_seconds": 300
+  },
+  "firebase": {
+    "service_account": "path/to/serviceAccount.json",
+    "topic": "disaster-alerts"
+  },
+  "parsing": {
+    "items_path": ["response", "body", "items", "item"],
+    "id_field": "md101_sn",
+    "message_field": "msg_cn",
+    "location_field": "rcv_area_nm"
+  }
+}
