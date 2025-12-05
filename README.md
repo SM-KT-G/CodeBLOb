@@ -5,6 +5,7 @@
 
 ## Scripts
 - `scripts/ocr`: 예제용 파이썬 OCR 스크립트와 관련 자료가 정리되어 있습니다.
+- `scripts/random_tools`: 파이썬 `random` 모듈 예제와 데모 스크립트를 확인할 수 있습니다.
 
 
 
