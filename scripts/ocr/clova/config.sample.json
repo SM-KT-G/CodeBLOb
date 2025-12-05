@@ -1,0 +1,6 @@
+﻿{
+  "invoke_url": "https://example.apigw.ntruss.com/custom/v1/your-endpoint",
+  "secret_key": "YOUR_SECRET_KEY",
+  "default_language": "ko",
+  "image_format": "jpg"
+}
