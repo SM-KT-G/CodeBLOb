@@ -1,0 +1,11 @@
+{
+  "status": "degraded",
+  "timestamp": "2025-11-17T04:59:24.814189",
+  "version": "0.1.0",
+  "checks": {
+    "api": "ok",
+    "db": "error",
+    "llm": "ok",
+    "cache": "missing"
+  }
+}

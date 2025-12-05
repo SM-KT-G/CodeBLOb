@@ -1,0 +1,74 @@
+{
+  "itineraries": [
+    {
+      "title": "ソウル 2日おすすめ #1",
+      "summary": "ソウルでショッピングと歴史探訪を楽しむ2日間のプラン",
+      "days": [
+        {
+          "day": 1,
+          "segments": [
+            {
+              "time": "午前",
+              "place_name": "明洞",
+              "description": "ショッピングとグルメを楽しむ",
+              "document_id": "J_SHOP_001",
+              "source_url": "https://example.com/myeongdong",
+              "area": "ソウル",
+              "notes": "domain=shop"
+            },
+            {
+              "time": "午後",
+              "place_name": "景福宮",
+              "description": "朝鮮王朝の歴史を探訪",
+              "document_id": "J_HIS_001",
+              "source_url": "https://example.com/gyeongbokgung",
+              "area": "ソウル",
+              "notes": "domain=his"
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "segments": [
+            {
+              "time": "午前",
+              "place_name": "南大門市場",
+              "description": "伝統市場でショッピング",
+              "document_id": "J_SHOP_002",
+              "source_url": null,
+              "area": "ソウル",
+              "notes": null
+            }
+          ]
+        }
+      ],
+      "highlights": [
+        "明洞",
+        "景福宮",
+        "南大門市場"
+      ],
+      "estimated_budget": "standard",
+      "metadata": {
+        "region": "ソウル",
+        "domains": [
+          "shop",
+          "his"
+        ]
+      }
+    }
+  ],
+  "metadata": {
+    "generated_count": 1,
+    "duration_days": 2,
+    "region": "ソウル",
+    "domains": [
+      "shop",
+      "his"
+    ],
+    "themes": [
+      "インスタ映え"
+    ],
+    "generator": "llm",
+    "latency": 0.0
+  }
+}

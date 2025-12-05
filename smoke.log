@@ -1,0 +1,110 @@
+=== /chat 스모크 테스트 (host=https://83ea2f56085b.ngrok-free.app) ===
+
+[ソウルのおすすめのお店を1軒教えてください。] status=200
+message: 1件の場所が見つかりました。
+places: [ { name: 'ソウルパレス ホテル', area: 'ソウル', document_id: 'J_STAY_005956' } ]
+
+[서울의 추천 가게를 한 곳 알려주세요.] status=200
+message: 1件の場所が見つかりました。
+places: [ { name: '서울쭈꾸미', area: '서울', document_id: 'J_FOOD_000450' } ]
+
+[부산 해운대에서 데이트 코스 추천해줘] status=200
+message: 5件の場所が見つかりました。
+places: [
+  { name: '해운대 해수욕장', area: '해운대', document_id: 'J_LEI_005707' },
+  {
+    name: '해운대해수욕장 ‘비움과 다시쓰기’로 피서객 모시기',
+    area: '해운대',
+    document_id: 'J_LEI_012130'
+  },
+  {
+    name: '우리나라 최고의 피서지, 해운대해수욕장',
+    area: '해운대',
+    document_id: 'J_LEI_011645'
+  }
+]
+
+[제주도 자연 관광지 알려줘] status=200
+message: 5件の場所が見つかりました。
+places: [
+  { name: '제주도 우도 (3)', area: '제주도', document_id: 'J_NAT_015341' },
+  {
+    name: '만장굴 (제주도 국가지질공원)',
+    area: '제주도',
+    document_id: 'J_NAT_032245'
+  },
+  { name: '제주도 지질여행', area: '제주도', document_id: 'J_NAT_020700' }
+]
+
+[カフェで静かにノマドできる場所は？] status=200
+message: どの地域で静かにノマドできるカフェをお探しでしょうか？地域名を教えていただければ、具体的な場所をお探しします。
+
+[서울에서 아이와 갈만한 곳 추천해줘] status=200
+message: 5件の場所が見つかりました。
+places: [
+  { name: '서울대공원 (2)', area: '서울', document_id: 'J_LEI_003964' },
+  { name: '서울어린이대공원 (3)', area: '서울', document_id: 'J_LEI_003793' },
+  { name: '서울랜드', area: '서울', document_id: 'J_LEI_000166' }
+]
+
+[부산 맛집 하나만 추천] status=200
+message: 1件の場所が見つかりました。
+places: [ { name: '손복자 부산 할매낙지', area: '부산', document_id: 'J_FOOD_038082' } ]
+
+[제주 카페 추천해줘] status=200
+message: 5件の場所が見つかりました。
+places: [
+  { name: '제주소담', area: '제주', document_id: 'J_FOOD_026517' },
+  { name: '제주미작', area: '제주', document_id: 'J_FOOD_044319' },
+  { name: '제주역카페', area: '제주', document_id: 'J_FOOD_019618' }
+]
+
+[경복궁 근처 볼거리 있어?] status=200
+message: 5件の場所が見つかりました。
+places: [
+  { name: '국립 현대미술관 경복궁 마당', area: '경복궁', document_id: 'J_HIS_053521' },
+  { name: '경복궁', area: '경복궁', document_id: 'J_HIS_046338' },
+  { name: '경복궁', area: '경복궁', document_id: 'J_HIS_027442' }
+]
+
+[서울 강남 쇼핑 추천해줘] status=200
+message: 1件の場所が見つかりました。
+places: [
+  {
+    name: '카카오프렌즈 강남 플래그십 스토어',
+    area: '강남',
+    document_id: 'J_SHOP_027774'
+  }
+]
+
+=== /recommend 스모크 테스트 (10건) ===
+
+[서울 food,nat 2일] status=200, itineraries=3
+first itinerary title: 서울 2일 추천 #1
+
+[부산 food,nat 2일] status=200, itineraries=3
+first itinerary title: 부산 2일 추천 #1
+
+[제주 nat 2일] status=200, itineraries=2
+first itinerary title: 제주 2일 추천 #1
+
+[서울 shop 1일] status=200, itineraries=2
+first itinerary title: 서울 1일 추천 #1
+
+[대전 food 1일] status=200, itineraries=2
+first itinerary title: 대전 1일 추천 #1
+
+[광주 food,his 2일] status=200, itineraries=3
+first itinerary title: 광주 2일 추천 #1
+
+[대구 food 1일] status=200, itineraries=2
+first itinerary title: 대구 1일 추천 #1
+
+[인천 nat 1일] status=200, itineraries=2
+first itinerary title: 인천 1일 추천 #1
+
+[부산 nat 1일] status=200, itineraries=2
+first itinerary title: 부산 1일 추천 #1
+
+[서울 nat,his 2일] status=200, itineraries=3
+first itinerary title: 서울 2일 추천 #1

@@ -1,0 +1,51 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+env/
+
+# 테스트 및 개발 파일
+tests/
+pytest.ini
+.pytest_cache/
+.coverage
+htmlcov/
+
+# 문서
+docs/
+README.md
+
+# 데이터 파일 (임베딩 스크립트에서 처리)
+labled_data/
+scripts/
+
+# Git
+.git/
+.gitignore
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 로그
+*.log
+
+# 임시 파일
+*.tmp
+.DS_Store
+
+# 환경 변수 (빌드 시 주입)
+.env
+.env.local
+
+# 임베딩 체크포인트
+scripts/embedding_checkpoint_v1.1.json
