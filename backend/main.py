@@ -6,20 +6,64 @@ import os
 import time
 from contextlib import asynccontextmanager
 from datetime import datetime
-from typing import Optional
+from typing import Any, Optional
 
 from fastapi import FastAPI, HTTPException, Request, status
 from fastapi.responses import JSONResponse
 from dotenv import load_dotenv
+try:
+    from prometheus_client import Counter, Histogram, Gauge, generate_latest, CONTENT_TYPE_LATEST
+    from prometheus_fastapi_instrumentator import Instrumentator
+except ImportError:  # pragma: no cover - 옵셔널 의존성 미설치 시 대체
+    class _NoOpMetric:
+        def __init__(self, *_, **__):
+            pass
+
+        def labels(self, *_, **__):
+            return self
+
+        def observe(self, *_, **__):
+            return None
+
+        def inc(self, *_, **__):
+            return None
+
+        def dec(self, *_, **__):
+            return None
+
+    class _NoOpInstrumentator:
+        def instrument(self, app):
+            return self
+
+        def expose(self, app, endpoint="/metrics"):
+            return self
+
+    Counter = Histogram = Gauge = _NoOpMetric
+    generate_latest = lambda *_, **__: b""  # type: ignore[var-annotated]
+    CONTENT_TYPE_LATEST = "text/plain"
+    Instrumentator = _NoOpInstrumentator  # type: ignore[assignment]
+
+from fastapi.responses import Response
 
 from backend.schemas import (
     RAGQueryRequest,
     RAGQueryResponse,
     HealthCheckResponse,
     ErrorResponse,
+    ItineraryRecommendationRequest,
+    ItineraryRecommendationResponse,
+    ChatRequest,
 )
 from backend.retriever import Retriever
-from backend.llm_base import LLMClient
+from backend.rag_chain import (
+    RetrieverAdapter,
+    create_rag_chain,
+    execute_retriever_query,
+    process_rag_response,
+    remove_parent_summary,
+)
+from backend.itinerary import ItineraryPlanner
+from backend.unified_chat import UnifiedChatHandler
 from backend.utils.logger import setup_logger, log_exception
 
 # 환경 변수 로드
@@ -27,6 +71,28 @@ load_dotenv()
 
 # 로거 설정
 logger = setup_logger(level=os.getenv("LOG_LEVEL", "INFO"))
+
+
+def init_cache_from_env():
+    """캐시 초기화 플레이스홀더 (테스트 호환용)"""
+    return None
+
+# Prometheus 메트릭 정의
+rag_query_duration = Histogram(
+    'rag_query_duration_seconds',
+    'RAG 쿼리 응답 시간 (초)',
+    buckets=[0.1, 0.5, 1.0, 2.0, 5.0, 10.0]
+)
+
+query_expansion_duration = Histogram(
+    'query_expansion_duration_seconds', 
+    'Query Expansion 실행 시간 (초)',
+    buckets=[0.05, 0.1, 0.2, 0.5, 1.0]
+)
+
+rag_errors = Counter('rag_errors_total', 'RAG 쿼리 에러 수', ['error_type'])
+
+active_requests = Gauge('active_requests', '현재 처리 중인 요청 수')
 
 
 def validate_env_variables() -> None:
@@ -55,16 +121,24 @@ async def lifespan(app: FastAPI):
     
     # DB 연결 및 Retriever 초기화
     db_url = os.getenv("DATABASE_URL")
+
     try:
         app.state.retriever = Retriever(db_url=db_url)
         logger.info("Retriever 인스턴스 생성 및 앱 상태에 등록됨")
-        
-        # LLM 클라이언트 초기화
-        app.state.llm_client = LLMClient(
-            model_name=os.getenv("LLM_MODEL", "gpt-4-turbo"),
-            timeout=int(os.getenv("LLM_TIMEOUT", "15")),
+        app.state.llm_model = os.getenv("OPENAI_MODEL", "gpt-4o")
+        app.state.itinerary_planner = ItineraryPlanner(
+            app.state.retriever,
+            llm_model=app.state.llm_model,
         )
-        logger.info("LLM 클라이언트 초기화 완료")
+        
+        # UnifiedChatHandler 초기화
+        app.state.unified_chat_handler = UnifiedChatHandler(
+            retriever=app.state.retriever,
+            itinerary_recommender=app.state.itinerary_planner
+        )
+        await app.state.unified_chat_handler.initialize()
+        logger.info("UnifiedChatHandler 초기화 완료")
+        
     except Exception as e:
         log_exception(e, {"db_url": db_url[:50] if db_url else None}, logger)
         raise
@@ -73,6 +147,12 @@ async def lifespan(app: FastAPI):
     
     # 종료 시
     logger.info("FastAPI 애플리케이션 종료")
+    
+    # UnifiedChatHandler 정리
+    if hasattr(app.state, 'unified_chat_handler'):
+        await app.state.unified_chat_handler.close()
+        logger.info("UnifiedChatHandler 정리 완료")
+    
     # Connection Pool 정리
     if hasattr(app.state, 'retriever'):
         app.state.retriever.close()
@@ -87,15 +167,23 @@ app = FastAPI(
     lifespan=lifespan,
 )
 
+# Prometheus Instrumentator 설정
+instrumentator = Instrumentator()
+instrumentator.instrument(app).expose(app, endpoint="/metrics")
+
 
 @app.middleware("http")
 async def add_process_time_header(request: Request, call_next):
     """응답 시간 측정 미들웨어"""
+    active_requests.inc()
     start_time = time.time()
-    response = await call_next(request)
-    process_time = time.time() - start_time
-    response.headers["X-Process-Time"] = f"{process_time:.2f}"
-    return response
+    try:
+        response = await call_next(request)
+        process_time = time.time() - start_time
+        response.headers["X-Process-Time"] = f"{process_time:.2f}"
+        return response
+    finally:
+        active_requests.dec()
 
 
 @app.exception_handler(Exception)
@@ -123,47 +211,35 @@ async def global_exception_handler(request: Request, exc: Exception):
 @app.get("/health", response_model=HealthCheckResponse)
 async def health_check():
     """헬스 체크 엔드포인트"""
-    checks = {
+    checks: dict[str, str] = {
         "api": "ok",
     }
-    
-    # DB 연결 상태 체크
-    try:
-        if hasattr(app.state, 'retriever'):
-            retriever: Retriever = app.state.retriever
-            # Connection Pool에서 연결 획득 테스트
+
+    retriever: Optional[Retriever] = getattr(app.state, "retriever", None)
+    db_status = "ok"
+    if retriever is None:
+        db_status = "missing"
+    else:
+        try:
+            # 연결을 실제로 열고 간단한 쿼리로 확인한 뒤 풀에 반환
             with retriever.pool.connection() as conn:
-                with conn.cursor() as cur:
-                    cur.execute("SELECT 1")
-                    cur.fetchone()
-            checks["database"] = "ok"
-        else:
-            checks["database"] = "not_initialized"
-    except Exception as e:
-        logger.error(f"DB 헬스체크 실패: {e}")
-        checks["database"] = f"error: {str(e)[:50]}"
-    
-    # LLM 클라이언트 상태 체크
-    try:
-        if hasattr(app.state, 'llm_client'):
-            # API 키가 설정되어 있는지만 확인 (실제 호출은 비용 발생)
-            llm_client: LLMClient = app.state.llm_client
-            if llm_client.client.api_key:
-                checks["llm"] = "ok"
-            else:
-                checks["llm"] = "api_key_missing"
-        else:
-            checks["llm"] = "not_initialized"
-    except Exception as e:
-        logger.error(f"LLM 헬스체크 실패: {e}")
-        checks["llm"] = f"error: {str(e)[:50]}"
-    
-    # 전체 상태 결정
-    all_ok = all(v == "ok" for v in checks.values())
-    status_value = "healthy" if all_ok else "degraded"
+                with conn.cursor() as cursor:
+                    cursor.execute("SELECT 1")
+        except Exception as exc:
+            logger.warning("DB health check failed: %s", exc)
+            db_status = "error"
+    checks["db"] = db_status
+
+    llm_status = "ok" if os.getenv("OPENAI_API_KEY") else "missing"
+    checks["llm"] = llm_status
+
+    # 캐시 상태는 현재 비활성화 (placeholder)
+    checks["cache"] = "missing"
+
+    overall_status = "healthy" if db_status == "ok" and llm_status == "ok" else "degraded"
     
     return HealthCheckResponse(
-        status=status_value,
+        status=overall_status,
         timestamp=datetime.utcnow().isoformat(),
         checks=checks,
     )
@@ -184,83 +260,84 @@ async def rag_query(request: RAGQueryRequest):
     
     try:
         logger.info(f"RAG 질의 수신: {request.question[:50]}...")
-        
-        # Retriever 실행 (expansion 옵션에 따라 분기)
+
         retriever: Retriever = app.state.retriever
+        llm_model = getattr(app.state, "llm_model", os.getenv("OPENAI_MODEL", "gpt-4-turbo"))
 
-        if request.expansion:
-            docs = retriever.search_with_expansion(
-                query=request.question,
-                top_k=request.top_k,
-                domain=(request.domain.value if request.domain else None),
-                area=request.area,
-                variations=request.expansion_variations,
-                parent_context=request.parent_context,
-            )
-        else:
-            docs = retriever.search(
-                query=request.question,
-                top_k=request.top_k,
-                domain=(request.domain.value if request.domain else None),
-                area=request.area,
-                parent_context=request.parent_context,
-            )
-
-        # 검색 결과가 없는 경우
-        if not docs:
-            return RAGQueryResponse(
-                answer="該当する情報が見つかりませんでした。",
-                sources=[],
-                latency=round(time.time() - start_time, 2),
-                metadata={
-                    "model": os.getenv("LLM_MODEL", "gpt-4-turbo"),
-                    "top_k": request.top_k,
-                    "expansion": request.expansion,
-                    "parent_context": request.parent_context,
-                    "results_count": 0,
-                }
-            )
-        
-        # 출처 추출
-        sources = []
-        for d in docs:
-            doc_id = d.metadata.get("document_id")
-            if doc_id and doc_id not in sources:
-                sources.append(doc_id)
-        
-        # 컨텍스트 구성
-        context = "\n\n---\n\n".join([
-            f"【情報 {i+1}】\n{doc.page_content}"
-            for i, doc in enumerate(docs)
-        ])
-        
-        # LLM을 사용하여 답변 생성
-        llm_client: LLMClient = app.state.llm_client
-        messages = [
-            {
-                "role": "system",
-                "content": "あなたは日本人観光客のための韓国観光ガイドチャットボットです。提供されたコンテキストに基づいて、質問に日本語で丁寧に答えてください。"
-            },
-            {
-                "role": "user",
-                "content": f"""以下のコンテキストを基に、質問に答えてください。
-
-コンテキスト:
-{context}
-
-質問: {request.question}
-
-回答（日本語）:"""
-            }
-        ]
-        
-        answer = await llm_client.agenerate(
-            messages=messages,
-            temperature=float(os.getenv("LLM_TEMPERATURE", "0.7")),
-            max_tokens=int(os.getenv("LLM_MAX_TOKENS", "500")),
+        adapter = RetrieverAdapter(
+            retriever=retriever,
+            top_k=request.top_k,
+            domain=(request.domain.value if request.domain else None),
+            area=request.area,
+            expansion=request.expansion,
+            variations=request.expansion_variations or [],
+            include_parent_summary=request.parent_context,
         )
-        
+
+        metadata: dict[str, Any] = {
+            "model": llm_model,
+            "top_k": request.top_k,
+            "expansion": request.expansion,
+            "parent_context": request.parent_context,
+        }
+
+        try:
+            chain = create_rag_chain(
+                llm_model=llm_model,
+                retriever=adapter,
+            )
+            chain_result = chain.invoke({"query": request.question})
+            rag_result = process_rag_response(chain_result)
+
+            answer = rag_result["answer"] or "該当する情報が見つかりませんでした。"
+            sources = rag_result["sources"]
+            metadata.update(rag_result.get("metadata") or {})
+            if request.expansion:
+                expansion_metrics = getattr(retriever, "last_expansion_metrics", None)
+                metadata["expansion_metrics"] = expansion_metrics
+                
+                # Query Expansion 메트릭 기록
+                if expansion_metrics and expansion_metrics.get("duration_ms"):
+                    query_expansion_duration.observe(expansion_metrics["duration_ms"] / 1000.0)
+        except Exception as e:
+            rag_errors.labels(error_type="rag_chain").inc()
+            log_exception(
+                e,
+                {
+                    "phase": "rag_chain",
+                    "question": request.question[:100],
+                },
+                logger,
+            )
+            docs = execute_retriever_query(
+                retriever=retriever,
+                query=request.question,
+                top_k=request.top_k,
+                domain=(request.domain.value if request.domain else None),
+                area=request.area,
+                expansion=request.expansion,
+                variations=request.expansion_variations or [],
+            )
+            if not request.parent_context:
+                docs = remove_parent_summary(docs)
+            sources = [
+                d.metadata.get("document_id")
+                for d in docs
+                if d.metadata.get("document_id")
+            ]
+            answer = docs[0].page_content[:200] if docs else "該当する情報が見つかりませんでした。"
+            metadata["fallback"] = True
+            metadata["retrieved_count"] = len(docs)
+            if request.expansion:
+                expansion_metrics = getattr(retriever, "last_expansion_metrics", None)
+                metadata["expansion_metrics"] = expansion_metrics
+                if expansion_metrics and expansion_metrics.get("duration_ms"):
+                    query_expansion_duration.observe(expansion_metrics["duration_ms"] / 1000.0)
+
         latency = round(time.time() - start_time, 2)
+        
+        # RAG 쿼리 응답 시간 메트릭 기록
+        rag_query_duration.observe(latency)
         
         # 응답 시간 제약 체크 (3초)
         if latency > 3.0:
@@ -275,16 +352,75 @@ async def rag_query(request: RAGQueryRequest):
             answer=answer,
             sources=sources,
             latency=latency,
-            metadata={
-                "model": os.getenv("LLM_MODEL", "gpt-4-turbo"),
-                "top_k": request.top_k,
-                "expansion": request.expansion,
-                "parent_context": request.parent_context,
-                "results_count": len(docs),
-                "avg_similarity": round(avg_similarity, 3),
-                "max_similarity": round(max_similarity, 3),
-            }
+            metadata=metadata,
         )
+    
+    except ValueError as e:
+        rag_errors.labels(error_type="validation").inc()
+        log_exception(e, {"request": request.model_dump()}, logger)
+        raise HTTPException(
+            status_code=status.HTTP_400_BAD_REQUEST,
+            detail=str(e),
+        )
+    except Exception as e:
+        rag_errors.labels(error_type="internal").inc()
+        log_exception(e, {"request": request.model_dump()}, logger)
+        raise HTTPException(
+            status_code=status.HTTP_500_INTERNAL_SERVER_ERROR,
+            detail="RAG 처리 중 오류 발생",
+        )
+
+
+@app.post("/recommend/itinerary", response_model=ItineraryRecommendationResponse)
+async def recommend_itinerary(request: ItineraryRecommendationRequest):
+    """여행 추천 일정 생성"""
+    start_time = time.time()
+    try:
+        planner: ItineraryPlanner = getattr(app.state, "itinerary_planner", None)
+        if planner is None:
+            planner = ItineraryPlanner(app.state.retriever)
+        result = planner.recommend(request)
+        result["metadata"]["latency"] = round(time.time() - start_time, 2)
+        return ItineraryRecommendationResponse(**result)
+    except ValueError as e:
+        log_exception(e, {"request": request.model_dump()}, logger)
+        raise HTTPException(
+            status_code=status.HTTP_400_BAD_REQUEST,
+            detail=str(e),
+        )
+    except Exception as e:
+        log_exception(e, {"request": request.model_dump()}, logger)
+        raise HTTPException(
+            status_code=status.HTTP_500_INTERNAL_SERVER_ERROR,
+            detail="Itinerary 추천 중 오류 발생",
+        )
+
+
+@app.post("/recommend", response_model=ItineraryRecommendationResponse)
+async def recommend_itinerary_alias(request: ItineraryRecommendationRequest):
+    """
+    여행 추천 일정 생성 (경로: /recommend)
+    기존 /recommend/itinerary와 동일한 응답을 반환한다.
+    """
+    return await recommend_itinerary(request)
+
+
+@app.post("/chat")
+async def unified_chat(request: ChatRequest):
+    """
+    통합 채팅 엔드포인트
+    Function Calling으로 일반 대화, RAG 검색, 여행 일정을 하나로 처리
+    
+    Args:
+        request: 채팅 요청 (text)
+    
+    Returns:
+        응답
+    """
+    try:
+        handler: UnifiedChatHandler = app.state.unified_chat_handler
+        response = await handler.handle_chat(request)
+        return JSONResponse(content=response)
     
     except ValueError as e:
         log_exception(e, {"request": request.model_dump()}, logger)
@@ -296,7 +432,7 @@ async def rag_query(request: RAGQueryRequest):
         log_exception(e, {"request": request.model_dump()}, logger)
         raise HTTPException(
             status_code=status.HTTP_500_INTERNAL_SERVER_ERROR,
-            detail="RAG 처리 중 오류 발생",
+            detail="채팅 처리 중 오류 발생",
         )
 
 

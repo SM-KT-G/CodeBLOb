@@ -2,13 +2,17 @@
 벡터 검색 모듈 (v1.1)
 tourism_child 테이블 직접 검색
 """
-from typing import List, Optional
+import asyncio
+import os
+import time
+from typing import Any, Dict, List, Optional
 import psycopg
 from psycopg_pool import ConnectionPool
 from langchain_community.embeddings import HuggingFaceEmbeddings
 from langchain.schema import Document
 
 from backend.utils.logger import setup_logger, log_exception
+from backend.query_expansion import generate_variations
 
 
 logger = setup_logger()
@@ -37,6 +41,7 @@ class Retriever:
             logger.info(f"Retriever 초기화 중... (모델: {embedding_model})")
             
             self.db_url = db_url
+            self.last_expansion_metrics: Optional[Dict[str, Any]] = None
             
             # Connection Pool 초기화 (min 2, max 10 connections)
             self.pool = ConnectionPool(
@@ -53,12 +58,14 @@ class Retriever:
                 logger.info("외부 Embeddings Client 주입됨")
             else:
                 # HuggingFace 임베딩 모델 로드
+                # Docker 컨테이너에서는 'cpu', M1/M2/M3/M4 Mac에서는 'mps' 사용
+                device = os.getenv("EMBEDDING_DEVICE", "cpu")
                 self.embeddings = HuggingFaceEmbeddings(
                     model_name=embedding_model,
-                    model_kwargs={'device': 'mps'},  # M4 GPU 사용
+                    model_kwargs={'device': device},
                     encode_kwargs={'normalize_embeddings': True}
                 )
-                logger.info(f"HuggingFace Embeddings 모델 로드 완료: {embedding_model}")
+                logger.info(f"HuggingFace Embeddings 모델 로드 완료: {embedding_model}, device={device}")
             
             logger.info("Retriever 초기화 완료")
         
@@ -182,6 +189,7 @@ class Retriever:
             documents.append(doc)
         
         return documents
+
     
     def search(
         self,
@@ -210,8 +218,9 @@ class Retriever:
             raise ValueError("top_k는 1~10 사이의 정수여야 합니다.")
         
         try:
+            self.last_expansion_metrics = None
             logger.info(f"문서 검색 시작: query='{query[:50]}...', top_k={top_k}, domain={domain}, area={area}")
-            
+
             # 쿼리 임베딩 생성
             query_embedding = self._embed_query(query)
             
@@ -241,6 +250,68 @@ class Retriever:
             )
             raise
 
+    def _get_document_id(self, doc: Document) -> Any:
+        """Document에서 고유 ID 추출 (중복 제거용)"""
+        doc_id = doc.metadata.get("document_id") or doc.metadata.get("documentId")
+        if not doc_id:
+            doc_id = hash(doc.page_content)
+        return doc_id
+    
+    def _merge_documents_by_similarity(self, all_results: List[List[Document]]) -> Dict[Any, Document]:
+        """
+        여러 검색 결과를 document_id 기준으로 병합하고 가장 높은 유사도만 유지
+        
+        Args:
+            all_results: 검색 결과 리스트의 리스트
+        
+        Returns:
+            document_id를 키로 하는 Document 딕셔너리
+        """
+        merged = {}
+        for results in all_results:
+            for doc in results:
+                doc_id = self._get_document_id(doc)
+                prev = merged.get(doc_id)
+                sim = float(doc.metadata.get("similarity", 0.0))
+                if not prev or sim > prev.metadata.get("similarity", 0.0):
+                    merged[doc_id] = doc
+        return merged
+    
+    def _sort_and_limit_by_similarity(self, documents: Dict[Any, Document], top_k: int) -> List[Document]:
+        """유사도 기준 정렬 및 top_k 제한"""
+        docs = sorted(
+            documents.values(),
+            key=lambda d: d.metadata.get("similarity", 0.0),
+            reverse=True
+        )
+        return docs[:top_k]
+
+    async def search_async(
+        self,
+        query: str,
+        top_k: int = 5,
+        domain: Optional[str] = None,
+        area: Optional[str] = None,
+    ) -> List[Document]:
+        """
+        비동기 문서 검색 (병렬 처리용)
+        
+        Args:
+            query: 검색 쿼리
+            top_k: 반환할 문서 개수
+            domain: 도메인 필터
+            area: 지역 필터
+        
+        Returns:
+            검색된 Document 리스트
+        """
+        # 동기 search를 asyncio에서 실행
+        loop = asyncio.get_event_loop()
+        return await loop.run_in_executor(
+            None,
+            lambda: self.search(query, top_k, domain, area)
+        )
+
     def search_with_expansion(
         self,
         query: str,
@@ -263,6 +334,16 @@ class Retriever:
         if not query or len(query.strip()) < 2:
             raise ValueError("쿼리는 최소 2자 이상이어야 합니다.")
 
+        vars_to_try = generate_variations(query, user_variations=variations)
+        metrics: Dict[str, Optional[int | List[str]]] = {
+            "variants": vars_to_try,
+            "success_count": 0,
+            "failure_count": 0,
+        }
+
+        # 결과 수집: key by document_id (metadata.document_id)
+        all_results = []
+        start_time = time.perf_counter()
         # 기본 변형 리스트 생성
         vars_to_try = [query.strip()]
 
@@ -292,6 +373,99 @@ class Retriever:
         for qv in vars_to_try:
             try:
                 results = self.search(query=qv, top_k=top_k, domain=domain, area=area)
+                all_results.append(results)
+                metrics["success_count"] = int(metrics["success_count"] or 0) + 1
+            except Exception:
+                # 한 변형이 실패해도 계속 진행
+                metrics["failure_count"] = int(metrics["failure_count"] or 0) + 1
+                continue
+
+        # 중복 제거 및 병합
+        merged = self._merge_documents_by_similarity(all_results)
+        
+        # 정렬 및 top_k 선택
+        duration_ms = round((time.perf_counter() - start_time) * 1000, 2)
+        docs = self._sort_and_limit_by_similarity(merged, top_k)
+        
+        metrics["retrieved"] = len(docs)
+        metrics["duration_ms"] = duration_ms
+        logger.info(f"Query Expansion metrics: {metrics}")
+        self.last_expansion_metrics = metrics
+        return docs
+
+    async def search_with_expansion_async(
+        self,
+        query: str,
+        top_k: int = 5,
+        domain: Optional[str] = None,
+        area: Optional[str] = None,
+        variations: Optional[List[str]] = None,
+    ) -> List[Document]:
+        """
+        비동기 Query Expansion 검색 (병렬 처리)
+        
+        전략:
+        - 모든 쿼리 변형을 asyncio.gather로 병렬 실행
+        - 중복 제거 및 유사도 기준 정렬
+        - 실패한 변형은 무시하고 계속 진행
+        
+        Args:
+            query: 검색 쿼리
+            top_k: 반환할 문서 개수
+            domain: 도메인 필터
+            area: 지역 필터
+            variations: 사용자 정의 쿼리 변형
+        
+        Returns:
+            검색된 Document 리스트
+        """
+        if not query or len(query.strip()) < 2:
+            raise ValueError("쿼리는 최소 2자 이상이어야 합니다.")
+
+        vars_to_try = generate_variations(query, user_variations=variations)
+        metrics: Dict[str, Optional[int | List[str]]] = {
+            "variants": vars_to_try,
+            "success_count": 0,
+            "failure_count": 0,
+        }
+
+        # 병렬 검색 실행
+        start_time = time.perf_counter()
+        
+        # 모든 변형에 대해 비동기 검색 태스크 생성
+        tasks = [
+            self.search_async(query=qv, top_k=top_k, domain=domain, area=area)
+            for qv in vars_to_try
+        ]
+        
+        # 병렬 실행 (return_exceptions=True로 일부 실패 허용)
+        results = await asyncio.gather(*tasks, return_exceptions=True)
+        
+        # 성공한 결과만 수집
+        all_results = []
+        for i, result in enumerate(results):
+            if isinstance(result, Exception):
+                # 실패한 변형
+                metrics["failure_count"] = int(metrics["failure_count"] or 0) + 1
+                logger.warning(f"Query variation failed: {vars_to_try[i]}, error: {result}")
+            else:
+                # 성공한 변형
+                metrics["success_count"] = int(metrics["success_count"] or 0) + 1
+                all_results.append(result)
+
+        # 중복 제거 및 병합
+        merged = self._merge_documents_by_similarity(all_results)
+
+        # 정렬 및 top_k 선택
+        duration_ms = round((time.perf_counter() - start_time) * 1000, 2)
+        docs = self._sort_and_limit_by_similarity(merged, top_k)
+        
+        metrics["retrieved"] = len(docs)
+        metrics["duration_ms"] = duration_ms
+        logger.info(f"Query Expansion async metrics: {metrics}")
+        
+        self.last_expansion_metrics = metrics
+        return docs
             except Exception:
                 # 한 변형이 실패해도 계속 진행
                 continue

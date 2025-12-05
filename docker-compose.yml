@@ -20,22 +20,68 @@ services:
       retries: 5
     restart: unless-stopped
 
-  redis:
-    image: redis:7-alpine
-    container_name: tourism_redis
+  mariadb:
+    image: mariadb:10.11
+    container_name: tourism_mariadb
+    environment:
+      MARIADB_ROOT_PASSWORD: root_pass
+      MARIADB_DATABASE: tourism_db
+      MARIADB_USER: tourism_user
+      MARIADB_PASSWORD: tourism_pass
     ports:
-      - "6379:6379"
+      - "3306:3306"
     volumes:
-      - redis_data:/data
+      - mariadb_data:/var/lib/mysql
     healthcheck:
-      test: ["CMD", "redis-cli", "ping"]
+      test: ["CMD", "healthcheck.sh", "--connect", "--innodb_initialized"]
       interval: 5s
       timeout: 3s
-      retries: 5
+      retries: 10
+    restart: unless-stopped
+
+  backend:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: tourism_backend
+    environment:
+      # OpenAI API
+      OPENAI_API_KEY: ${OPENAI_API_KEY}
+      
+      # PostgreSQL (pgvector) - DATABASE_URL 형식
+      DATABASE_URL: postgresql://tourism_user:tourism_pass@postgres:5432/tourism_db
+      POSTGRES_HOST: postgres
+      POSTGRES_PORT: 5432
+      POSTGRES_USER: tourism_user
+      POSTGRES_PASSWORD: tourism_pass
+      POSTGRES_DB: tourism_db
+      
+      # MariaDB (채팅 히스토리)
+      MARIADB_HOST: mariadb
+      MARIADB_PORT: 3306
+      MARIADB_USER: tourism_user
+      MARIADB_PASSWORD: tourism_pass
+      MARIADB_DATABASE: tourism_db
+      
+      # 로그 레벨
+      LOG_LEVEL: INFO
+    ports:
+      - "8000:8000"
+    depends_on:
+      postgres:
+        condition: service_healthy
+      mariadb:
+        condition: service_healthy
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/health"]
+      interval: 30s
+      timeout: 10s
+      start_period: 40s
+      retries: 3
     restart: unless-stopped
 
 volumes:
   postgres_data:
     driver: local
-  redis_data:
+  mariadb_data:
     driver: local
